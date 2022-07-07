@@ -88,6 +88,12 @@ from mdutils.mdutils import MdUtils
 from mdutils import Html
 
 mdFile = MdUtils(file_name='_posts//2022-05-01-Report', title='Monthly Report - May 2022')
+mdFile.new_paragraph("---")
+mdFile.new_paragraph("layout: post")
+mdFile.new_paragraph("title: 'Monthly Report - May 2022'")
+mdFile.new_paragraph("date:   2022-05-31 12:00:00 -0500")
+mdFile.new_paragraph("categories: monthly update")
+mdFile.new_paragraph("---")
 
 ## ************ Summary Paragraph ************* ##
 mdFile.new_header(level=1, title='Summary')  # style is set 'atx' format by default.
