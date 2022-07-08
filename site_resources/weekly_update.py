@@ -57,7 +57,7 @@ for _, future_game in future_games.iterrows():
     fut_match_md.new_header(level = 1, title = pred_text)
     fut_match_md.create_md_file()
 
-    fut_dir_md.new_paragraph(f'[{pretty_name}](_posts//projections//{file_name})')
+    fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](_posts//projections//{file_name})')
 
 fut_dir_md.create_md_file()
 
