@@ -37,6 +37,37 @@ match_list = []
 for _, match in matchlist.items():
     match_list.append({key:val for key, val in vars(match).items()})
 
+player_elo_list = []
+for player_name, player in playerbase.items():
+    player_elo = pd.DataFrame(player.elo_list, columns = [
+        'Number', 'Full_Name', 'Team', 'Player', 'Position', 'Tries',
+        'Try Assists', 'Conversion Goals', 'Penalty Goals',
+        'Drop Goals Converted', 'Points', 'Passes', 'Runs', 'Meters Run',
+        'Clean Breaks', 'Defenders Beaten', 'Offload', 'Turnovers Conceded',
+        'Tackles', 'Missed Tackles', 'Lineouts Won', 'Penalties Conceded',
+        'Yellow Cards', 'Red Cards', 'espn_id_num', 'Competition', 'Date',
+        'Home Team', 'Home Score', 'Away Team', 'Away Score', 'Minutes',
+        'Position_Number', 'gameid', 'Unicode_ID', 'start_elo', 'end_elo'
+       ])
+    player_elo['Full Name'] = player_name[0]
+    player_elo['Unicode_ID'] = player_name[1]
+    player_elo_list.append(player_elo)
+
+player_elo = pd.concat(player_elo_list).reset_index(drop=True)
+player_elo = pd.merge(player_elo, team_colors, on = 'Team', how = 'left')
+player_elo['elo_change'] = player_elo.end_elo - player_elo.start_elo
+player_elo.Date = pd.to_datetime(player_elo.Date)
+starters = player_elo[player_elo.Position != 'R']
+starters = starters.dropna(subset=['Position'])
+current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']]
+def percentile(group):
+    sz = group.size-1
+    ranks = group.rank(method='max')
+    return 100.0*(ranks-1)/sz
+
+current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
+current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
+
 ## ~~~~~~~~~~~~~~~~~ RECENT MATCHES ~~~~~~~~~~~~~~~~~~~ ##
 
 
@@ -45,13 +76,20 @@ fut_dir_md = MdUtils(file_name=f'Current_Projections', title="Projections")
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
 
-    home_team = pd.DataFrame(future_game['home_team'][:, [0,1, -1]], columns = ['Number', 'Name', 'elo'])
-    away_team = pd.DataFrame(future_game['away_team'][:, [0,1, -1]], columns = ['Number', 'Name', 'elo'])
-    home_team = home_team.sort_values('Number')
-    away_team = away_team.sort_values('Number')
-    home_table = tabulate(home_team, tablefmt="pipe", headers="keys", showindex=False)
-    away_table = tabulate(away_team, tablefmt="pipe", headers="keys", showindex=False)
-    double_table = f'<table><tr><th>Home Team </th><th>Away Team</th></tr><tr><td>\n\n{home_table}\n\n</td><td>\n\n{away_table}\n\n</td></tr> </table>'
+    home_team = pd.DataFrame(future_game['home_team'][:, [0,1,-2, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
+    home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
+    home_team = home_team.drop(['Unicode_ID'], axis = 1)
+    away_team = pd.DataFrame(future_game['away_team'][:, [0,1,-2, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
+    away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
+    away_team = away_team.drop(['Unicode_ID'], axis = 1)
+
+    home_team.columns = ['Number', 'Home Player', 'Home elo', 'Home Percentile']
+    away_team.columns = ['Number', 'Away Player', 'Away elo', 'Away Percentile']
+
+    all_players = pd.merge(home_team, away_team)
+    all_players = all_players.sort_values('Number')
+    all_players = all_players[['Number', 'Home Player', 'Home elo','Home Percentile', 'Away Percentile', 'Away elo', 'Away Player']]
+    player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
     pretty_name = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
     file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
@@ -62,7 +100,7 @@ for future_game in future_games:
     pred_text = f'{favorite} by {round(abs(future_game["lineup_spread"]), 1)}'
 
     fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
-    fut_match_md.new_paragraph(double_table)
+    fut_match_md.new_paragraph(player_table)
     fut_match_md.create_md_file()
 
     fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')
