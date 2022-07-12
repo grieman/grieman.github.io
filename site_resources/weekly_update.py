@@ -10,6 +10,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+import plotly
 import pickle
 from mdutils.mdutils import MdUtils
 from mdutils import Html
@@ -31,6 +32,28 @@ with open('../Rugby_ELO/processed_data/matchlist.pickle', 'rb') as handle:
     matchlist = pickle.load(handle)
 with open('../Rugby_ELO/processed_data/teamlist.pickle', 'rb') as handle:
     teamlist = pickle.load(handle)
+
+def elo_contribition(player_df, column):
+    mult = np.where(player_df.Number <= 15, (7/8), 0.234)
+    return player_df[column] * mult
+
+def contribution_plot(df, path):
+    pos_plotlist = []
+    for _, row in all_players.iterrows():
+        pos_plot = go.Bar(
+            name=row.Number,
+            x = ['Home Team', 'Away Team'],
+            y = [row['home contributions'], row['away contributions']],
+            customdata = [row['Home Player'], row['Away Player']],
+            hovertemplate = 
+                "<b>%{customdata}</b>: " + 
+                "%{y}"
+        )
+        pos_plotlist.append(pos_plot)
+
+    fig = go.Figure(data=pos_plotlist)
+    fig.update_layout(barmode='stack')
+    fig.write_html(path)
 
 ## LOAD DATA
 match_list = []
@@ -88,19 +111,29 @@ for future_game in future_games:
 
     all_players = pd.merge(home_team, away_team)
     all_players = all_players.sort_values('Number')
-    all_players = all_players[['Number', 'Home Player', 'Home elo','Home Percentile', 'Away Percentile', 'Away elo', 'Away Player']]
+    all_players = all_players[['Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player']]
     player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
     pretty_name = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
     file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
     main_header = f'{future_game["away_team_name"]} ({round(future_game["lineup_away_elo"], 2)}) at {future_game["home_team_name"]} ({round(future_game["lineup_home_elo"], 2)})'
     fut_match_md = MdUtils(file_name=f'projections//{file_name}', title=main_header)
+    print(pretty_name)
 
     favorite = future_game["home_team_name"] if future_game["lineup_spread"] > 0 else future_game["away_team_name"]
     pred_text = f'{favorite} by {round(abs(future_game["lineup_spread"]), 1)}'
 
     fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     fut_match_md.new_paragraph(player_table)
+
+    fut_match_md.new_header(level = 2, title = 'Elo Contributions')
+
+    all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
+    all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
+    contribution_plot(all_players, f"projections//{file_name}_contributions.html")
+
+    fut_match_md.new_paragraph(fut_match_md.new_inline_image(text='elo Contributions', path=f'projections//{file_name}_contributions.html'))
+
     fut_match_md.create_md_file()
 
     fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')

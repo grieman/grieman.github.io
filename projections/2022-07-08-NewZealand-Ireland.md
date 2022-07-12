@@ -5,28 +5,32 @@ Ireland (1647.76) at New Zealand (1664.28)
 # Prediction: New Zealand by 1.7
 
 
-|   Number | Home Player            |   Home elo |   Home Percentile |   Away Percentile |   Away elo | Away Player         |
-|---------:|:-----------------------|-----------:|------------------:|------------------:|-----------:|:--------------------|
-|        1 | George Bower           |    93.7456 |                26 |                86 |   105.791  | Andrew Porter       |
-|        2 | Codie Taylor           |   101.597  |                72 |                11 |    81.2616 | Dan Sheehan         |
-|        3 | Ofa Tu'ungafasi        |   113.701  |                95 |                80 |   103.025  | Tadhg Furlong       |
-|        4 | Brodie Retallick       |   126.019  |                99 |                88 |   108.253  | Tadhg Beirne        |
-|        5 | Scott Barrett          |   117.794  |                97 |                66 |   100.073  | James Ryan          |
-|        6 | Dalton Papalii         |   108.458  |                91 |                86 |   105.402  | Peter O'Mahony      |
-|        7 | Sam Cane               |   125.561  |                99 |                98 |   120.386  | Josh van der Flier  |
-|        8 | Ardie Savea            |   111.091  |                87 |                55 |    96.7604 | Caelan Doris        |
-|        9 | Aaron Smith            |   113.886  |                95 |                93 |   112.194  | Jamison Gibson-Park |
-|       10 | Beauden Barrett        |   124.984  |                99 |                99 |   128.807  | Johnny Sexton       |
-|       11 | Leicester Fainga'anuku |    93.8281 |                33 |                99 |   139.603  | James Lowe          |
-|       12 | Quinn Tupaea           |   100.803  |                68 |                97 |   120.057  | Robbie Henshaw      |
-|       13 | Rieko Ioane            |    98.9308 |                59 |                98 |   120.806  | Garry Ringrose      |
-|       14 | Sevu Reece             |   124.734  |                98 |                19 |    85.0484 | Mack Hansen         |
-|       15 | Jordie Barrett         |   114.84   |                95 |                95 |   114.288  | Hugo Keenan         |
-|       16 | Samisoni Taukei'aho    |   108.214  |                91 |                95 |   113.168  | Rob Herring         |
-|       17 | Aidan Ross             |   109.52   |                93 |                99 |   123.016  | Cian Healy          |
-|       18 | Angus Ta'avao          |   118.643  |                98 |                83 |   104.246  | Finlay Bealham      |
-|       19 | Patrick Tuipulotu      |   110.155  |                91 |                82 |   104.592  | Kieran Treadwell    |
-|       20 | Pita Gus Sowakula      |   105.242  |                78 |                97 |   120.403  | Jack Conan          |
-|       21 | Folau Fakatava         |    79.8975 |                 8 |                93 |   111.793  | Conor Murray        |
-|       22 | Richie Mo'unga         |   125.297  |                98 |                59 |    97.2466 | Joey Carbery        |
-|       23 | Will Jordan            |   110.773  |                91 |                99 |   128.201  | Bundee Aki          |
+| Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |
+|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|
+| Andrew Porter       |   105.791  |                86 |        1 |                26 |    93.7456 | George Bower           |
+| Dan Sheehan         |    81.2616 |                11 |        2 |                72 |   101.597  | Codie Taylor           |
+| Tadhg Furlong       |   103.025  |                80 |        3 |                95 |   113.701  | Ofa Tu'ungafasi        |
+| Tadhg Beirne        |   108.253  |                88 |        4 |                99 |   126.019  | Brodie Retallick       |
+| James Ryan          |   100.073  |                66 |        5 |                97 |   117.794  | Scott Barrett          |
+| Peter O'Mahony      |   105.402  |                86 |        6 |                91 |   108.458  | Dalton Papalii         |
+| Josh van der Flier  |   120.386  |                98 |        7 |                99 |   125.561  | Sam Cane               |
+| Caelan Doris        |    96.7604 |                55 |        8 |                87 |   111.091  | Ardie Savea            |
+| Jamison Gibson-Park |   112.194  |                93 |        9 |                95 |   113.886  | Aaron Smith            |
+| Johnny Sexton       |   128.807  |                99 |       10 |                99 |   124.984  | Beauden Barrett        |
+| James Lowe          |   139.603  |                99 |       11 |                33 |    93.8281 | Leicester Fainga'anuku |
+| Robbie Henshaw      |   120.057  |                97 |       12 |                68 |   100.803  | Quinn Tupaea           |
+| Garry Ringrose      |   120.806  |                98 |       13 |                59 |    98.9308 | Rieko Ioane            |
+| Mack Hansen         |    85.0484 |                19 |       14 |                98 |   124.734  | Sevu Reece             |
+| Hugo Keenan         |   114.288  |                95 |       15 |                95 |   114.84   | Jordie Barrett         |
+| Rob Herring         |   113.168  |                95 |       16 |                91 |   108.214  | Samisoni Taukei'aho    |
+| Cian Healy          |   123.016  |                99 |       17 |                93 |   109.52   | Aidan Ross             |
+| Finlay Bealham      |   104.246  |                83 |       18 |                98 |   118.643  | Angus Ta'avao          |
+| Kieran Treadwell    |   104.592  |                82 |       19 |                91 |   110.155  | Patrick Tuipulotu      |
+| Jack Conan          |   120.403  |                97 |       20 |                78 |   105.242  | Pita Gus Sowakula      |
+| Conor Murray        |   111.793  |                93 |       21 |                 8 |    79.8975 | Folau Fakatava         |
+| Joey Carbery        |    97.2466 |                59 |       22 |                98 |   125.297  | Richie Mo'unga         |
+| Bundee Aki          |   128.201  |                99 |       23 |                91 |   110.773  | Will Jordan            |
+## Elo Contributions
+
+
+![](projections//2022-07-08-NewZealand-Ireland_contributions.html)
