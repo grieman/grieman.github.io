@@ -30,7 +30,7 @@ Scotland (1463.34) at Argentina (1571.04)
 | Ali Price           |    95.9721 |                38 |       21 |                90 |   109.422  | Felipe Ezcurra         |
 | Ross Thompson       |    78.2634 |                 5 |       22 |                92 |   110.841  | Domingo Miotti         |
 | Kyle Rowe           |    83.0949 |                17 |       23 |                92 |   110.574  | Matias Moroni          |
-## Elo Contributions
+# Elo Contributions
 
 
-![](projections//2022-07-08-Argentina-Scotland_contributions.html)
+{% include_relative projections//2022-07-08-Argentina-Scotland_contributions.html %}

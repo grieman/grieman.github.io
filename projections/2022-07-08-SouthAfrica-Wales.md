@@ -29,7 +29,7 @@ Wales (1618.95) at South Africa (1583.62)
 | Tomos Williams    |   104.492  |                83 |       21 |                93 |   110.13   | Deon Fourie          |
 | Gareth Anscombe   |   106.896  |                88 |       22 |                 1 |    78.0165 | Grant Williams       |
 | Josh Adams        |    96.0452 |                41 |       23 |                94 |   113.261  | Damian Willemse      |
-## Elo Contributions
+# Elo Contributions
 
 
-![](projections//2022-07-08-SouthAfrica-Wales_contributions.html)
+{% include_relative projections//2022-07-08-SouthAfrica-Wales_contributions.html %}

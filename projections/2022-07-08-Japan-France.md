@@ -28,7 +28,7 @@ France (1510.23) at Japan (1368.44)
 | Sekou Macalou      |   114.735  |                91 |       21 |                65 |    99.6646 | Kaito Shigeno          |
 | Baptiste Couilloud |   118.945  |                97 |       22 |                86 |   105.352  | Yu Tamura              |
 | Antoine Hastoy     |    94.7028 |                32 |       23 |                17 |    83.1916 | Shane Gates            |
-## Elo Contributions
+# Elo Contributions
 
 
-![](projections//2022-07-08-Japan-France_contributions.html)
+{% include_relative projections//2022-07-08-Japan-France_contributions.html %}
