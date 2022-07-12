@@ -125,6 +125,7 @@ for future_game in future_games:
 
     fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     fut_match_md.new_paragraph(player_table)
+    fut_match_md.new_paragraph()
 
     fut_match_md.new_header(level = 1, title = 'Elo Contributions')
 
@@ -132,7 +133,7 @@ for future_game in future_games:
     all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
     contribution_plot(all_players, f"projections//{file_name}_contributions.html")
 
-    fut_match_md.new_paragraph(f"{{% include_relative projections//{file_name}_contributions.html %}}")
+    fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     fut_match_md.create_md_file()
 

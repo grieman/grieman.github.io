@@ -30,7 +30,9 @@ Ireland (1647.76) at New Zealand (1664.28)
 | Conor Murray        |   111.793  |                93 |       21 |                 8 |    79.8975 | Folau Fakatava         |
 | Joey Carbery        |    97.2466 |                59 |       22 |                98 |   125.297  | Richie Mo'unga         |
 | Bundee Aki          |   128.201  |                99 |       23 |                91 |   110.773  | Will Jordan            |
+
+
 # Elo Contributions
 
 
-{% include_relative projections//2022-07-08-NewZealand-Ireland_contributions.html %}
+{% include_relative 2022-07-08-NewZealand-Ireland_contributions.html %}
