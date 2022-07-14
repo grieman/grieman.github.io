@@ -3,12 +3,10 @@ Projections
 ===========
 
 
-[France at Japan; France by 14.2](projections//2022-07-08-Japan-France)
+[Ireland at New Zealand; New Zealand by 3.8](projections//2022-07-16-NewZealand-Ireland)
 
-[Wales at South Africa; Wales by 3.5](projections//2022-07-08-SouthAfrica-Wales)
+[England at Australia; England by 3.7](projections//2022-07-16-Australia-England)
 
-[Scotland at Argentina; Argentina by 10.8](projections//2022-07-08-Argentina-Scotland)
+[Wales at South Africa; South Africa by 5.7](projections//2022-07-16-SouthAfrica-Wales)
 
-[Ireland at New Zealand; New Zealand by 1.7](projections//2022-07-08-NewZealand-Ireland)
-
-[England at Australia; Australia by 1.9](projections//2022-07-08-Australia-England)
+[Scotland at Argentina; Argentina by 7.1](projections//2022-07-16-Argentina-Scotland)

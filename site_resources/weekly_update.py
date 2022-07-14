@@ -16,6 +16,17 @@ from mdutils.mdutils import MdUtils
 from mdutils import Html
 from team_colors import team_color_dict
 from tabulate import tabulate
+import os
+import glob
+import datetime
+
+files = glob.glob('projections/*')
+for f in files:
+    os.remove(f)
+
+files = glob.glob('reviews/*')
+for f in files:
+    os.remove(f)
 
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
@@ -92,10 +103,53 @@ current_players['percentile'] = np.floor(current_players.groupby('Position')['en
 current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
 
 ## ~~~~~~~~~~~~~~~~~ RECENT MATCHES ~~~~~~~~~~~~~~~~~~~ ##
+rec_dir_md = MdUtils(file_name=f'Recent_Matches', title="Recent Matches")
+recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=7)]
+for recent_game in recent_games:
+    home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,-2, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
+    home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
+    home_team = home_team.drop(['Unicode_ID'], axis = 1)
+    away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,-2, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
+    away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
+    away_team = away_team.drop(['Unicode_ID'], axis = 1)
 
+    home_team.columns = ['Number', 'Home Player', 'Home elo', 'Home Percentile']
+    away_team.columns = ['Number', 'Away Player', 'Away elo', 'Away Percentile']
+
+    all_players = pd.merge(home_team, away_team)
+    all_players = all_players.sort_values('Number')
+    all_players = all_players[['Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player']]
+    player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
+
+    pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
+    file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
+    main_header = f'{recent_game["away_team_name"]} ({round(recent_game["lineup_away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["lineup_home_elo"], 2)})'
+    rec_match_md = MdUtils(file_name=f'reviews//{file_name}', title=main_header)
+    print(pretty_name)
+
+    favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] > 0 else recent_game["away_team_name"]
+    pred_text = f'{favorite} by {round(abs(recent_game["lineup_spread"]), 1)}'
+
+    rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
+    rec_match_md.new_paragraph(player_table)
+    rec_match_md.new_paragraph()
+
+    rec_match_md.new_header(level = 1, title = 'Elo Contributions')
+
+    all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
+    all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
+    contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
+    rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
+
+    rec_match_md.create_md_file()
+
+    rec_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](reviews//{file_name})')
+
+rec_dir_md.create_md_file()
+
+## ~~~~~~~~~~~~~~~~~ FUTURE MATCHES ~~~~~~~~~~~~~~~~~~~ ##
 
 fut_dir_md = MdUtils(file_name=f'Current_Projections', title="Projections")
-## Future Matches
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
 
@@ -132,7 +186,6 @@ for future_game in future_games:
     all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
     all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
     contribution_plot(all_players, f"projections//{file_name}_contributions.html")
-
     fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     fut_match_md.create_md_file()
