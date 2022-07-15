@@ -20,29 +20,10 @@ import os
 import glob
 import datetime
 
-files = glob.glob('projections/*')
-for f in files:
-    os.remove(f)
-
-files = glob.glob('reviews/*')
-for f in files:
-    os.remove(f)
-
-team_colors = pd.DataFrame(team_color_dict).T
-team_colors.columns = ['Primary', 'Secondary']
-team_colors = team_colors.rename_axis('Team').reset_index()
-
-from plotly.validators.scatter.marker import SymbolValidator
-raw_symbols = SymbolValidator().values
-
-simple_symbols = [i for i in raw_symbols if str(i).isalpha()]
-
-with open('../Rugby_ELO/processed_data/playerbase.pickle', 'rb') as handle:
-    playerbase = pickle.load(handle)
-with open('../Rugby_ELO/processed_data/matchlist.pickle', 'rb') as handle:
-    matchlist = pickle.load(handle)
-with open('../Rugby_ELO/processed_data/teamlist.pickle', 'rb') as handle:
-    teamlist = pickle.load(handle)
+def percentile(group):
+    sz = group.size-1
+    ranks = group.rank(method='max')
+    return 100.0*(ranks-1)/sz
 
 def elo_contribition(player_df, column):
     mult = np.where(player_df.Number <= 15, (7/8), 0.234)
@@ -84,6 +65,31 @@ def review_contribution_plot(df, path):
     fig.update_layout(barmode='stack')
     fig.write_html(path)
 
+files = glob.glob('projections/*')
+for f in files:
+    os.remove(f)
+
+files = glob.glob('reviews/*')
+for f in files:
+    os.remove(f)
+
+team_colors = pd.DataFrame(team_color_dict).T
+team_colors.columns = ['Primary', 'Secondary']
+team_colors = team_colors.rename_axis('Team').reset_index()
+
+from plotly.validators.scatter.marker import SymbolValidator
+raw_symbols = SymbolValidator().values
+
+simple_symbols = [i for i in raw_symbols if str(i).isalpha()]
+
+with open('../Rugby_ELO/processed_data/playerbase.pickle', 'rb') as handle:
+    playerbase = pickle.load(handle)
+with open('../Rugby_ELO/processed_data/matchlist.pickle', 'rb') as handle:
+    matchlist = pickle.load(handle)
+with open('../Rugby_ELO/processed_data/teamlist.pickle', 'rb') as handle:
+    teamlist = pickle.load(handle)
+
+
 ## LOAD DATA
 match_list = []
 for _, match in matchlist.items():
@@ -112,10 +118,6 @@ player_elo.Date = pd.to_datetime(player_elo.Date)
 starters = player_elo[player_elo.Position != 'R']
 starters = starters.dropna(subset=['Position'])
 current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']]
-def percentile(group):
-    sz = group.size-1
-    ranks = group.rank(method='max')
-    return 100.0*(ranks-1)/sz
 
 current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
 current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
@@ -174,7 +176,6 @@ for recent_game in recent_games:
 rec_dir_md.create_md_file()
 
 ## ~~~~~~~~~~~~~~~~~ FUTURE MATCHES ~~~~~~~~~~~~~~~~~~~ ##
-
 fut_dir_md = MdUtils(file_name=f'Current_Projections', title="Projections")
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
