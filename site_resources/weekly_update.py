@@ -144,7 +144,7 @@ for recent_game in recent_games:
 
     pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
     file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
-    score_header = f'{recent_game["away_team_name"]} ({recent_game["away_score"]}) at {recent_game["home_team_name"]} ({recent_game["home_score"]})'
+    score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
     main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
     rec_match_md = MdUtils(file_name=f'reviews//{file_name}', title=score_header)
     print(pretty_name)
@@ -171,7 +171,7 @@ for recent_game in recent_games:
 
     rec_match_md.create_md_file()
 
-    rec_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](reviews//{file_name})')
+    rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
 
 rec_dir_md.create_md_file()
 

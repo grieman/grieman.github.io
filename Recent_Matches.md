@@ -3,18 +3,14 @@ Recent Matches
 ==============
 
 
-[Wales at South Africa; Wales by 1.9](reviews//2022-07-08-SouthAfrica-Wales)
+[Wales at South Africa; 14.0-30.0](reviews//2022-07-15-SouthAfrica-Wales)
 
-[Scotland at Argentina; Argentina by 9.6](reviews//2022-07-08-Argentina-Scotland)
+[Scotland at Argentina; 31.0-34.0](reviews//2022-07-15-Argentina-Scotland)
 
-[Argentina at Portugal; Argentina by 2.1](reviews//2022-07-08-Portugal-Argentina)
+[Portugal at Georgia; 14.0-23.0](reviews//2022-07-15-Georgia-Portugal)
 
-[Ireland at New Zealand; New Zealand by 1.7](reviews//2022-07-08-NewZealand-Ireland)
+[Ireland at New Zealand; 32.0-22.0](reviews//2022-07-15-NewZealand-Ireland)
 
-[England at Australia; Australia by 0.9](reviews//2022-07-08-Australia-England)
+[England at Australia; 21.0-17.0](reviews//2022-07-15-Australia-England)
 
-[Romania at Uruguay; Uruguay by 1.1](reviews//2022-07-09-Uruguay-Romania)
-
-[Spain at Canada; Spain by 9.5](reviews//2022-07-09-Canada-Spain)
-
-[Italy at Georgia; Italy by 2.4](reviews//2022-07-09-Georgia-Italy)
+[Romania at Uruguay; 20.0-26.0](reviews//2022-07-17-Uruguay-Romania)
