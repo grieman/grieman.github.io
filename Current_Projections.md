@@ -3,6 +3,6 @@ Projections
 ===========
 
 
-[New Zealand at South Africa; New Zealand by 1.1](projections//2022-08-06-SouthAfrica-NewZealand)
+[New Zealand at South Africa; South Africa by 4.8](projections//2022-08-06-SouthAfrica-NewZealand)
 
-[Australia at Argentina; Australia by 3.7](projections//2022-08-06-Argentina-Australia)
+[Australia at Argentina; Argentina by 0.7](projections//2022-08-06-Argentina-Australia)

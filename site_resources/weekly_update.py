@@ -20,6 +20,9 @@ import os
 import glob
 import datetime
 
+## Need to ge the current home advantage? as 5 as of 8/5
+home_advantage = 5
+
 def percentile(group):
     sz = group.size-1
     ranks = group.rank(method='max')
@@ -126,10 +129,10 @@ current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
 rec_dir_md = MdUtils(file_name=f'Recent_Matches', title="Recent Matches")
 recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=7)]
 for recent_game in recent_games:
-    home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-2,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
+    home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
     home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
     home_team = home_team.drop(['Unicode_ID'], axis = 1)
-    away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,31,-2,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
+    away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
     away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
     away_team = away_team.drop(['Unicode_ID'], axis = 1)
 
@@ -149,13 +152,28 @@ for recent_game in recent_games:
     rec_match_md = MdUtils(file_name=f'reviews//{file_name}', title=score_header)
     print(pretty_name)
 
-    lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] > 0 else recent_game["away_team_name"]
     favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
-    lineup_pred_text = f'{lineup_favorite} by {round(abs(recent_game["lineup_spread"]), 1)}'
     pred_text = f'{favorite} by {round(abs(recent_game["spread"]), 1)}'
 
+    lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] + home_advantage > 0 else recent_game["away_team_name"]
+    lineup_pred_text = f'{favorite} by {round(abs(recent_game["lineup_spread"] + home_advantage), 1)}'
+
+    n_lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] > 0 else recent_game["away_team_name"]
+    n_lineup_pred_text = f'{n_lineup_favorite} by {round(abs(recent_game["lineup_spread"]), 1)} on a neutral pitch'
+
+    favorite = recent_game["home_team_name"] if recent_game["spread"] + home_advantage > 0 else recent_game["away_team_name"]
+    pred_text = f'{favorite} by {round(abs(recent_game["spread"] + home_advantage ), 1)}'
+
+    n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
+    n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)}'
+
+    fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
+    fut_match_md.new_paragraph(n_pred_text)
+
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
-    rec_match_md.new_paragraph(f'Projection using minutes played for each player: {pred_text}')
+    rec_match_md.new_paragraph(n_lineup_pred_text)
+    rec_match_md.new_header(f'Projection using minutes played for each player: {pred_text}')
+    rec_match_md.new_paragraph(n_pred_text)
     rec_match_md.new_paragraph()
     rec_match_md.new_paragraph(player_table)
     rec_match_md.new_paragraph()
@@ -180,10 +198,10 @@ fut_dir_md = MdUtils(file_name=f'Current_Projections', title="Projections")
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
 
-    home_team = pd.DataFrame(future_game['home_team'][:, [0,1,-2, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
+    home_team = pd.DataFrame(future_game['home_team'][:, [0,1,-3, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
     home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
     home_team = home_team.drop(['Unicode_ID'], axis = 1)
-    away_team = pd.DataFrame(future_game['away_team'][:, [0,1,-2, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
+    away_team = pd.DataFrame(future_game['away_team'][:, [0,1,-3, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
     away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
     away_team = away_team.drop(['Unicode_ID'], axis = 1)
 
@@ -202,10 +220,14 @@ for future_game in future_games:
     fut_match_md = MdUtils(file_name=f'projections//{file_name}', title=main_header)
     print(pretty_name)
 
-    favorite = future_game["home_team_name"] if future_game["lineup_spread"] > 0 else future_game["away_team_name"]
-    pred_text = f'{favorite} by {round(abs(future_game["lineup_spread"]), 1)}'
+    favorite = future_game["home_team_name"] if future_game["lineup_spread"] + home_advantage > 0 else future_game["away_team_name"]
+    pred_text = f'{favorite} by {round(abs(future_game["lineup_spread"] + home_advantage), 1)}'
+
+    n_favorite = future_game["home_team_name"] if future_game["lineup_spread"] > 0 else future_game["away_team_name"]
+    n_pred_text = f'{n_favorite} by {round(abs(future_game["lineup_spread"]), 1)} on a neutral pitch'
 
     fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
+    fut_match_md.new_paragraph(n_pred_text)
     fut_match_md.new_paragraph(player_table)
     fut_match_md.new_paragraph()
 
