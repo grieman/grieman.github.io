@@ -14,7 +14,7 @@ import plotly
 import pickle
 from mdutils.mdutils import MdUtils
 from mdutils import Html
-from team_colors import team_color_dict
+from support_files.team_colors import team_color_dict
 from tabulate import tabulate
 import os
 import glob
@@ -105,7 +105,7 @@ for player_name, player in playerbase.items():
         'Tackles', 'Missed Tackles', 'Lineouts Won', 'Penalties Conceded',
         'Yellow Cards', 'Red Cards', 'espn_id_num', 'Competition', 'Date',
         'Home Team', 'Home Score', 'Away Team', 'Away Score', 'Minutes',
-        'Position_Number', 'gameid', 'Unicode_ID', 'start_elo', 'end_elo'
+        'Position_Number', 'gameid', 'Unicode_ID', 'comp_level', 'start_elo', 'end_elo'
        ])
     player_elo['Full Name'] = player_name[0]
     player_elo['Unicode_ID'] = player_name[1]
