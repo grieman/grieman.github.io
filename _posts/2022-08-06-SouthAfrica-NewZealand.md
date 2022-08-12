@@ -1,8 +1,13 @@
+---
+layout: page
+title:  "New Zealand at South Africa"
+date:   2022-08-06 18:00:00 -0500
+categories: match review
+---
 New Zealand at South Africa; 10.0-26.0
 ======================================
 
 # Prediction: South Africa by 4.0
-
 
 New Zealand by 1.0 on a neutral pitch
 # Pre-Match Prediction: New Zealand by 4.8
@@ -13,8 +18,6 @@ New Zealand by 0.2 on a neutral pitch
 
 
 New Zealand by 1.0 on a neutral pitch
-
-
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
@@ -41,6 +44,5 @@ New Zealand by 1.0 on a neutral pitch
 |             12 | Finlay Christie     |      87.27 |                61 |       21 |                58 |      83.31 | Kwagga Smith         |             36 |
 |             30 | Richie Mo'unga      |     109.9  |                97 |       22 |                54 |      83.57 | Jaden Hendrikse      |             81 |
 |             20 | Quinn Tupaea        |      93.01 |                74 |       23 |                92 |     104.51 | Willie le Roux       |              3 |
-
 
 # Elo Contributions
