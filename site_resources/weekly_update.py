@@ -167,12 +167,12 @@ for recent_game in recent_games:
     n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
     n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)}'
 
-    fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
-    fut_match_md.new_paragraph(n_pred_text)
+    rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
+    rec_match_md.new_paragraph(n_pred_text)
 
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
     rec_match_md.new_paragraph(n_lineup_pred_text)
-    rec_match_md.new_header(f'Projection using minutes played for each player: {pred_text}')
+    rec_match_md.new_header(level = 1, title = f'Projection using minutes played for each player: {pred_text}')
     rec_match_md.new_paragraph(n_pred_text)
     rec_match_md.new_paragraph()
     rec_match_md.new_paragraph(player_table)

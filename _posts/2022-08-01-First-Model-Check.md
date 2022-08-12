@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "First Model Check"
 date:   2022-08-01 18:00:00 -0500
 categories: model update

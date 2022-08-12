@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Naive Model Benchmarks"
 date:   2022-08-09 18:00:00 -0500
 categories: model update
@@ -15,11 +15,11 @@ And second, setting the likelihood of victory for each home team to 1 may cause 
 There is naturally some correlation between the spread and likelihood to win, but to avoid calculating that now our naïve model can have one best binary prediction that minimizes the Brier score and one independent best margin of victory that minimizes RMSE. A sweep of possible predictions and margins produce these plots:
 ##  Brier Score by Predictive Value
 
-![Brier by Prediction](/docs/assets/brier_by_spread.png)
+![Brier by Prediction](/assets/brier_by_spread.png)
 
 ## RMSE by Margin of Victory
 
-![Spread by Margin](/docs/assets/rmse_by_margin.png)
+![Spread by Margin](/assets/rmse_by_margin.png)
 
 
 From these sweeps, our best prediction is 0.63 that gives a Brier score of 0.2322, and the best spread is 1.1 that gives a RMSE of 18.636.
