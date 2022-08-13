@@ -44,5 +44,3 @@ New Zealand by 1.0 on a neutral pitch
 |             12 | Finlay Christie     |      87.27 |                61 |       21 |                58 |      83.31 | Kwagga Smith         |             36 |
 |             30 | Richie Mo'unga      |     109.9  |                97 |       22 |                54 |      83.57 | Jaden Hendrikse      |             81 |
 |             20 | Quinn Tupaea        |      93.01 |                74 |       23 |                92 |     104.51 | Willie le Roux       |              3 |
-
-# Elo Contributions

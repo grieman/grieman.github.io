@@ -178,14 +178,14 @@ for recent_game in recent_games:
     rec_match_md.new_paragraph(player_table)
     rec_match_md.new_paragraph()
 
-    rec_match_md.new_header(level = 1, title = 'Elo Contributions')
+    #rec_match_md.new_header(level = 1, title = 'Elo Contributions')
 
     all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
     all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
     all_players['home minute_elos'] = all_players['Home elo'] * all_players['Home Minutes'] / max(all_players['Home Minutes'])
     all_players['away minute_elos'] = all_players['Away elo'] * all_players['Away Minutes'] / max(all_players['Home Minutes'])
     review_contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
-    rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
+    #rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     rec_match_md.create_md_file()
 
@@ -231,12 +231,12 @@ for future_game in future_games:
     fut_match_md.new_paragraph(player_table)
     fut_match_md.new_paragraph()
 
-    fut_match_md.new_header(level = 1, title = 'Elo Contributions')
+    #fut_match_md.new_header(level = 1, title = 'Elo Contributions')
 
     all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
     all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
     projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
-    fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
+    #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     fut_match_md.create_md_file()
 
