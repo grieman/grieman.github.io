@@ -127,7 +127,7 @@ current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
 
 ## ~~~~~~~~~~~~~~~~~ RECENT MATCHES ~~~~~~~~~~~~~~~~~~~ ##
 rec_dir_md = MdUtils(file_name=f'Recent_Matches', title="Recent Matches")
-recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=7)]
+recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=10)]
 for recent_game in recent_games:
     home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
     home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
@@ -149,7 +149,16 @@ for recent_game in recent_games:
     file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
     score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
     main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
-    rec_match_md = MdUtils(file_name=f'reviews//{file_name}', title=score_header)
+    rec_match_md = MdUtils(file_name=f'reviews//{file_name}')
+
+    # yaml header
+    rec_match_md.new_paragraph("---")
+    rec_match_md.new_paragraph("layout: page")
+    rec_match_md.new_paragraph(f"title: {score_header}")
+    rec_match_md.new_paragraph(f"date: {recent_game['date']} 18:00:00 -0500")
+    rec_match_md.new_paragraph("categories: match review")
+    rec_match_md.new_paragraph("---")
+
     print(pretty_name)
 
     favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
@@ -184,7 +193,7 @@ for recent_game in recent_games:
     all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
     all_players['home minute_elos'] = all_players['Home elo'] * all_players['Home Minutes'] / max(all_players['Home Minutes'])
     all_players['away minute_elos'] = all_players['Away elo'] * all_players['Away Minutes'] / max(all_players['Home Minutes'])
-    review_contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
+    #review_contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
     #rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     rec_match_md.create_md_file()
@@ -218,6 +227,15 @@ for future_game in future_games:
     file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
     main_header = f'{future_game["away_team_name"]} ({round(future_game["lineup_away_elo"], 2)}) at {future_game["home_team_name"]} ({round(future_game["lineup_home_elo"], 2)})'
     fut_match_md = MdUtils(file_name=f'projections//{file_name}', title=main_header)
+
+    # yaml header
+    fut_match_md.new_paragraph("---")
+    fut_match_md.new_paragraph("layout: page")
+    fut_match_md.new_paragraph(f"title: {pretty_name}")
+    fut_match_md.new_paragraph(f"date: {x['date']} 18:00:00 -0500")
+    fut_match_md.new_paragraph("categories: match prediction")
+    fut_match_md.new_paragraph("---")
+
     print(pretty_name)
 
     favorite = future_game["home_team_name"] if future_game["lineup_spread"] + home_advantage > 0 else future_game["away_team_name"]
@@ -235,7 +253,7 @@ for future_game in future_games:
 
     all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
     all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
-    projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
+    #projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
     #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     fut_match_md.create_md_file()

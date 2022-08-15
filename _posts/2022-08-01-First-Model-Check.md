@@ -3,6 +3,7 @@ layout: page
 title:  "First Model Check"
 date:   2022-08-01 18:00:00 -0500
 categories: model update
+mathjax: true
 ---
 There are a lot of moving parts in an elo calculation. For each match, we have as elo score for each team (elo<sub>t</sub>) that is calculated using elo scores for each of the players (elo<sub>i</sub>) on the teamsheet. The exact computation of this team score will be changed later, but currently its a contribution system, with each player contributing to the team's elo proportionally to their time on the field - if a player is on the field for the entire game, their elo score will contribute more than that of a player who was only active for the last ten minutes of the match. Essentially, 
 

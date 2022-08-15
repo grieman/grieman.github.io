@@ -1,47 +1,54 @@
 
-Hawke's Bay at Waikato; 32.0-32.0
-=================================
-
-# Prediction: Waikato by 13.1
 
 
-Waikato by 8.1
-# Pre-Match Prediction: Waikato by 11.3
 
 
-Waikato by 6.3 on a neutral pitch
-# Projection using minutes played for each player: Waikato by 13.1
+---
+
+layout: page
+
+title: Hawke's Bay at Waikato; 32.0-32.0
+
+date: 2022-08-06 00:35:00 18:00:00 -0500
+
+categories: match review
+
+---
+# Prediction: Waikato by 12.3
 
 
-Waikato by 8.1
+Waikato by 7.3
+# Pre-Match Prediction: Waikato by 11.4
+
+
+Waikato by 6.4 on a neutral pitch
+# Projection using minutes played for each player: Waikato by 12.3
+
+
+Waikato by 7.3
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             80 | Pouri Rakete-Stones  |      78.09 |                26 |        1 |                69 |      92.6  | Ayden Johnstone      |             80 |
-|             80 | Kianu Kereru-Symes   |      79.13 |                39 |        2 |                95 |     109.16 | Rhys Marshall        |             80 |
-|             80 | Joe Apikotoa         |      82.44 |                54 |        3 |                39 |      82.41 | George Dyer          |             80 |
-|             80 | Isaia Walker-Leawere |      97.62 |                83 |        4 |                79 |      98.74 | James Tucker         |             80 |
-|             80 | Tom Parsons          |      85.78 |                59 |        5 |                24 |      80.19 | Hamilton Burr        |             80 |
-|             80 | Devan Flanders       |      86.75 |                66 |        6 |               100 |     133.61 | Liam Messam          |             80 |
-|             80 | Solomone Funaki      |      76.95 |                25 |        7 |                 7 |      74.99 | Mitchell Jacobson    |             80 |
-|             80 | Marino Mikaele-Tu'u  |      78.79 |                30 |        8 |                85 |     102.35 | Luke Jacobson        |             80 |
-|             80 | Brad Weber           |      96.27 |                79 |        9 |                11 |      77.33 | Xavier Roe           |             80 |
-|             80 | Caleb Makene         |      87.92 |                69 |       10 |                85 |     101.55 | Damian McKenzie      |             80 |
-|             80 | Neria Fomai          |      90.87 |                73 |       11 |                27 |      80.15 | Daniel Sinkinson     |             80 |
-|             80 | Danny Toala          |      84.47 |                57 |       12 |                46 |      84.01 | D'Angelo Leuila      |             80 |
-|             80 | Nick Grigg           |      78.07 |                31 |       13 |                11 |      77.04 | Bailyn Sullivan      |             80 |
-|             80 | Jonah Lowe           |      84.2  |                62 |       14 |                42 |      82.45 | Liam Coombes-Fabling |             80 |
-|             80 | Chase Tiatia         |      88.43 |                65 |       15 |                27 |      80.55 | Tepaea Cook-Savage   |             80 |
-|              0 | Joel Hintz           |      84.29 |                58 |       18 |                52 |      81.6  | Sosefo Kautai        |              0 |
-|              0 | Bryn Evans           |     124.19 |                99 |       19 |                70 |      91.69 | Laghlan McWhannell   |              0 |
-|              0 | Ere Enari            |      77.08 |                18 |       21 |                62 |      86.5  | Cortez Ratima        |              0 |
-|              0 | Ollie Sapsford       |      85.44 |                60 |       22 |                50 |      82.36 | Alapati Leiua        |              0 |
-|              0 | Lolagi Visinia       |      84.87 |                57 |       23 |                69 |      88.52 | Mosese Dawai         |              0 |
+|             90 | Pouri Rakete-Stones  |      80.3  |                42 |        1 |                70 |      90.93 | Ayden Johnstone      |             58 |
+|             53 | Kianu Kereru-Symes   |      79.25 |                35 |        2 |                95 |     106.58 | Rhys Marshall        |             90 |
+|             68 | Joe Apikotoa         |      82.36 |                52 |        3 |                44 |      81.66 | George Dyer          |             53 |
+|             58 | Isaia Walker-Leawere |      95.98 |                78 |        4 |                76 |      95.81 | James Tucker         |             38 |
+|             90 | Tom Parsons          |      84.56 |                59 |        5 |                23 |      79.82 | Hamilton Burr        |             90 |
+|             90 | Devan Flanders       |      85.9  |                66 |        6 |               100 |     130.89 | Liam Messam          |             90 |
+|             82 | Solomone Funaki      |      76.35 |                14 |        7 |                13 |      75.95 | Mitchell Jacobson    |             71 |
+|             90 | Marino Mikaele-Tu'u  |      78.93 |                29 |        8 |                78 |      98.55 | Luke Jacobson        |             90 |
+|             66 | Brad Weber           |      94.65 |                74 |        9 |                15 |      77.8  | Xavier Roe           |             53 |
+|             90 | Caleb Makene         |      87.48 |                67 |       10 |                87 |      99.94 | Damian McKenzie      |             90 |
+|             58 | Neria Foma'i         |      80    |                37 |       11 |                39 |      80.12 | Daniel Sinkinson     |             90 |
+|             75 | Danny Toala          |      83.34 |                54 |       12 |                53 |      82.48 | D'Angelo Leuila      |             66 |
+|             87 | Nick Grigg           |      76.25 |                15 |       13 |                12 |      77.66 | Bailyn Sullivan      |             90 |
+|             90 | Jonah Lowe           |      83.18 |                59 |       14 |                47 |      81.65 | Liam Coombes-Fabling |             90 |
+|             90 | Chase Tiatia         |      87.7  |                64 |       15 |                36 |      80.42 | Tepaea Cook-Savage   |             38 |
+|             22 | Joel Hintz           |      83.84 |                59 |       18 |                48 |      80.88 | Sosefo Kautai        |             37 |
+|             32 | Bryn Evans           |     120.67 |                99 |       19 |                69 |      90.59 | Laghlan McWhannell   |             52 |
+|             24 | Ere Enari            |      78.59 |                29 |       21 |                60 |      84.87 | Cortez Ratima        |             37 |
+|             18 | Ollie Sapsford       |      85    |                60 |       22 |                52 |      81.34 | Alapati Leiua        |             24 |
+|             32 | Lolagi Visinia       |      84.92 |                58 |       23 |                66 |      86.22 | Mosese Dawai         |             52 |
 
-
-# Elo Contributions
-
-
-{% include_relative 2022-08-06-Waikato-Hawke'sBay_contributions.html %}
