@@ -76,10 +76,6 @@ files = glob.glob('reviews/*')
 for f in files:
     os.remove(f)
 
-files = glob.glob('temp/*')
-for f in files:
-    os.remove(f)
-
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
 team_colors = team_colors.rename_axis('Team').reset_index()
@@ -292,3 +288,6 @@ for future_game in future_games:
 
 fut_dir_md.create_md_file()
 
+files = glob.glob('temp/*')
+for f in files:
+    os.remove(f)

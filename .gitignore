@@ -27,3 +27,4 @@ _site/
 .jekyll-cache/
 
 secrets.yml
+temp/
