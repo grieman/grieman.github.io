@@ -4,44 +4,44 @@ title: Australia at Argentina; 17.0-48.0
 date: 2022-08-13 15:10:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Australia by 0.4
+# Prediction: Australia by 1.6
 
 
-Australia by 5.4 on a neutral field
-# Pre-Match Prediction: Australia by 0.9
+Australia by 6.6 on a neutral field
+# Pre-Match Prediction: Australia by 2.5
 
 
-Australia by 5.9 on a neutral pitch
-# Projection using minutes played for each player: Australia by 0.4
+Australia by 7.5 on a neutral pitch
+# Projection using minutes played for each player: Australia by 1.6
 
 
-Australia by 5.4 on a neutral field
+Australia by 6.6 on a neutral field
 
 
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             68 | James Slipper    |      90.71 |                67 |        1 |                63 |      84.2  | Thomas Gallo           |             68 |
-|             65 | Lachlan Lonergan |      80.37 |                28 |        2 |                78 |      93.85 | Julian Montoya         |             73 |
-|             58 | Taniela Tupou    |      94.66 |                73 |        3 |                83 |      96.03 | Francisco Gomez Kodela |             65 |
-|             54 | Rory Arnold      |      99.62 |                82 |        4 |                75 |      91.87 | Matias Alemanno        |             83 |
-|             83 | Darcy Swain      |      84.32 |                48 |        5 |                65 |      86.13 | Tomas Lavanini         |             83 |
-|             54 | Jed Holloway     |      80.36 |                32 |        6 |                15 |      74.14 | Juan Martin Gonzalez   |             83 |
-|             83 | Fraser McReight  |      86.13 |                60 |        7 |                 8 |      72.75 | Marcos Kremer          |             47 |
-|             83 | Rob Valetini     |      92.72 |                67 |        8 |                88 |      99.34 | Pablo Matera           |             76 |
-|             54 | Nic White        |     120.17 |                99 |        9 |                 5 |      70.96 | Gonzalo Bertranou      |             65 |
-|             83 | James O'Connor   |      92.84 |                70 |       10 |                79 |      93.54 | Santiago Carreras      |             77 |
-|             83 | Marika Koroibete |      91.93 |                71 |       11 |                81 |      94.32 | Juan Imhoff            |             83 |
-|             62 | Lalakai Foketi   |      85.98 |                58 |       12 |                74 |      92.34 | Jeronimo de la Fuente  |             26 |
-|             83 | Len Ikitau       |      92.36 |                69 |       13 |                79 |      93.2  | Matias Moroni          |             83 |
-|             83 | Jordan Petaia    |      92.89 |                72 |       14 |                64 |      82.02 | Emiliano Boffelli      |             83 |
-|             68 | Tom Wright       |      87.05 |                58 |       15 |                14 |      73.55 | Juan Cruz Mallia       |             83 |
-|             18 | Billy Pollard    |      81.96 |                50 |       16 |                98 |     110.86 | Agustin Creevy         |             10 |
-|             15 | Matt Gibbon      |      84.68 |                60 |       17 |                71 |      91.64 | Nahuel Tetaz Chaparro  |             15 |
-|             25 | Pone Fa'amausili |      82.45 |                54 |       18 |                14 |      76.38 | Joel Sclavi            |             18 |
-|             29 | Nick Frost       |      74.73 |                 8 |       19 |                87 |      98.85 | Facundo Isa            |             36 |
-|             29 | Pete Samu        |      98.3  |                84 |       20 |                40 |      78.79 | Rodrigo Bruni          |              7 |
-|             29 | Tate McDermott   |      85.02 |                60 |       21 |                59 |      85.05 | Tomas Cubelli          |             18 |
-|             21 | Irae Simone      |      85.43 |                61 |       22 |                62 |      86.24 | Tomas Albornoz         |              6 |
-|             15 | Reece Hodge      |      87.55 |                62 |       23 |                20 |      76.66 | Lucio Cinti            |             57 |
+|             68 | James Slipper    |      95.73 |                72 |        1 |                66 |      85.4  | Thomas Gallo           |             68 |
+|             65 | Lachlan Lonergan |      80.41 |                26 |        2 |                85 |      96.48 | Julian Montoya         |             73 |
+|             58 | Taniela Tupou    |      96.85 |                75 |        3 |                85 |      96.42 | Francisco Gomez Kodela |             65 |
+|             54 | Rory Arnold      |     102.09 |                86 |        4 |                83 |      95.11 | Matias Alemanno        |             83 |
+|             83 | Darcy Swain      |      84.69 |                46 |        5 |                69 |      87.7  | Tomas Lavanini         |             83 |
+|             54 | Jed Holloway     |      78.73 |                18 |        6 |                14 |      72.42 | Juan Martin Gonzalez   |             83 |
+|             83 | Fraser McReight  |      86.27 |                56 |        7 |                 5 |      70.07 | Marcos Kremer          |             47 |
+|             83 | Rob Valetini     |      92.94 |                65 |        8 |                90 |     101.39 | Pablo Matera           |             76 |
+|             54 | Nic White        |     123.71 |                99 |        9 |                 3 |      67.26 | Gonzalo Bertranou      |             65 |
+|             83 | James O'Connor   |      90.43 |                63 |       10 |                81 |      94.08 | Santiago Carreras      |             77 |
+|             83 | Marika Koroibete |      93.14 |                71 |       11 |                79 |      92.97 | Juan Imhoff            |             83 |
+|             62 | Lalakai Foketi   |      88.63 |                62 |       12 |                72 |      90.76 | Jeronimo de la Fuente  |             26 |
+|             83 | Len Ikitau       |      93.92 |                70 |       13 |                80 |      93.28 | Matias Moroni          |             83 |
+|             83 | Jordan Petaia    |      95.69 |                74 |       14 |                64 |      81.83 | Emiliano Boffelli      |             83 |
+|             68 | Tom Wright       |      87.59 |                58 |       15 |                15 |      72.18 | Juan Cruz Mallia       |             83 |
+|             18 | Billy Pollard    |      82.48 |                51 |       16 |                97 |     108.67 | Agustin Creevy         |             10 |
+|             15 | Matt Gibbon      |      87.06 |                63 |       17 |                72 |      93.14 | Nahuel Tetaz Chaparro  |             15 |
+|             25 | Pone Fa'amausili |      82.59 |                52 |       18 |                13 |      75.54 | Joel Sclavi            |             18 |
+|             29 | Nick Frost       |      73.43 |                 6 |       19 |                90 |     101.51 | Facundo Isa            |             36 |
+|             29 | Pete Samu        |      98.87 |                85 |       20 |                34 |      77.46 | Rodrigo Bruni          |              7 |
+|             29 | Tate McDermott   |      84.58 |                58 |       21 |                62 |      87.3  | Tomas Cubelli          |             18 |
+|             21 | Irae Simone      |      85.04 |                58 |       22 |                66 |      88.3  | Tomas Albornoz         |              6 |
+|             15 | Reece Hodge      |      87.25 |                60 |       23 |                23 |      76.38 | Lucio Cinti            |             57 |
 

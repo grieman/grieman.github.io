@@ -68,6 +68,19 @@ def review_contribution_plot(df, path):
     fig.update_layout(barmode='stack')
     fig.write_html(path)
 
+def clean_leading_space(orig_name, new_name):
+    ## quick and dirty remove empty leading lines
+    TAG = 'HEADERSTART'
+    tag_found = False
+    with open(orig_name) as in_file:
+        with open(new_name, 'w') as out_file:
+            for line in in_file:
+                if not tag_found:
+                    if line.strip() == TAG:
+                        tag_found = True
+                else:
+                    out_file.write(line)
+
 files = glob.glob('projections/*')
 for f in files:
     os.remove(f)
@@ -126,8 +139,15 @@ current_players['percentile'] = np.floor(current_players.groupby('Position')['en
 current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
 
 ## ~~~~~~~~~~~~~~~~~ RECENT MATCHES ~~~~~~~~~~~~~~~~~~~ ##
-rec_dir_md = MdUtils(file_name=f'Recent_Matches', title="Recent Matches")
-recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=10)]
+rec_dir_md = MdUtils(file_name=f'temp//Recent_Matches')
+rec_dir_md.new_line("HEADERSTART")
+rec_dir_md.new_line("---")
+rec_dir_md.new_line("layout: article")
+rec_dir_md.new_line(f"title: Recent Matches")
+rec_dir_md.new_line("key: page-recents")
+rec_dir_md.new_line("---")
+
+recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)]
 for recent_game in recent_games:
     home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
     home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
@@ -202,21 +222,21 @@ for recent_game in recent_games:
     rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
 
     ## quick and dirty remove empty leading lines
-    TAG = 'HEADERSTART'
-    tag_found = False
-    with open(f'temp//{file_name}.md') as in_file:
-        with open(f'reviews//{file_name}.md', 'w') as out_file:
-            for line in in_file:
-                if not tag_found:
-                    if line.strip() == TAG:
-                        tag_found = True
-                else:
-                    out_file.write(line)
+    clean_leading_space(f'temp//{file_name}.md', f'reviews//{file_name}.md')
 
 rec_dir_md.create_md_file()
+clean_leading_space(f'temp//Recent_Matches.md', f'Recent_Matches.md')
+
 
 ## ~~~~~~~~~~~~~~~~~ FUTURE MATCHES ~~~~~~~~~~~~~~~~~~~ ##
-fut_dir_md = MdUtils(file_name=f'Current_Projections', title="Projections")
+fut_dir_md = MdUtils(file_name=f'temp//Current_Projections')
+fut_dir_md.new_line("HEADERSTART")
+fut_dir_md.new_line("---")
+fut_dir_md.new_line("layout: article")
+fut_dir_md.new_line(f"title: Current Projections")
+fut_dir_md.new_line("key: page-projections")
+fut_dir_md.new_line("---")
+
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
 
@@ -274,19 +294,12 @@ for future_game in future_games:
 
     fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')
 
-        ## quick and dirty remove empty leading lines
-    TAG = 'HEADERSTART'
-    tag_found = False
-    with open(f'temp//{file_name}.md') as in_file:
-        with open(f'projections//{file_name}.md', 'w') as out_file:
-            for line in in_file:
-                if not tag_found:
-                    if line.strip() == TAG:
-                        tag_found = True
-                else:
-                    out_file.write(line)
+    ## quick and dirty remove empty leading lines
+    clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
 
 fut_dir_md.create_md_file()
+clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
+
 
 files = glob.glob('temp/*')
 for f in files:
