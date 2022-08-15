@@ -1,3 +1,8 @@
+
+
+
+  
+HEADERSTART  
 ---  
 layout: page  
 title: Auckland at Manawatu; 45.0-18.0  

@@ -3,11 +3,12 @@ layout: page
 title: Manawatu at North Harbour; 14.0-64.0  
 date: 2022-08-14 00:35:00 18:00:00 -0500  
 categories: match review  
----
+---  
+
 # Prediction: North Harbour by 16.1
 
 
-North Harbour by 11.1 on a neutral field
+North Harbour by 11.1
 # Pre-Match Prediction: North Harbour by 16.3
 
 
@@ -15,7 +16,7 @@ North Harbour by 11.3 on a neutral pitch
 # Projection using minutes played for each player: North Harbour by 16.1
 
 
-North Harbour by 11.1 on a neutral field
+North Harbour by 11.1
 
 
 

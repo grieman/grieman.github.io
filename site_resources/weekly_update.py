@@ -76,6 +76,10 @@ files = glob.glob('reviews/*')
 for f in files:
     os.remove(f)
 
+files = glob.glob('temp/*')
+for f in files:
+    os.remove(f)
+
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
 team_colors = team_colors.rename_axis('Team').reset_index()
@@ -149,15 +153,16 @@ for recent_game in recent_games:
     file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
     score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
     main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
-    rec_match_md = MdUtils(file_name=f'reviews//{file_name}')
+    rec_match_md = MdUtils(file_name=f'temp//{file_name}')
 
     # yaml header
-    rec_match_md.new_paragraph("---")
-    rec_match_md.new_paragraph("layout: page")
-    rec_match_md.new_paragraph(f"title: {score_header}")
-    rec_match_md.new_paragraph(f"date: {recent_game['date']} 18:00:00 -0500")
-    rec_match_md.new_paragraph("categories: match review")
-    rec_match_md.new_paragraph("---")
+    rec_match_md.new_line("HEADERSTART")
+    rec_match_md.new_line("---")
+    rec_match_md.new_line("layout: page")
+    rec_match_md.new_line(f"title: {score_header}")
+    rec_match_md.new_line(f"date: {recent_game['date']} 18:00:00 -0500")
+    rec_match_md.new_line("categories: match review")
+    rec_match_md.new_line("---")
 
     print(pretty_name)
 
@@ -174,7 +179,7 @@ for recent_game in recent_games:
     pred_text = f'{favorite} by {round(abs(recent_game["spread"] + home_advantage ), 1)}'
 
     n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
-    n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)}'
+    n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)} on a neutral field'
 
     rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     rec_match_md.new_paragraph(n_pred_text)
@@ -199,6 +204,18 @@ for recent_game in recent_games:
     rec_match_md.create_md_file()
 
     rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
+
+    ## quick and dirty remove empty leading lines
+    TAG = 'HEADERSTART'
+    tag_found = False
+    with open(f'temp//{file_name}.md') as in_file:
+        with open(f'reviews//{file_name}.md', 'w') as out_file:
+            for line in in_file:
+                if not tag_found:
+                    if line.strip() == TAG:
+                        tag_found = True
+                else:
+                    out_file.write(line)
 
 rec_dir_md.create_md_file()
 
@@ -226,9 +243,10 @@ for future_game in future_games:
     pretty_name = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
     file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
     main_header = f'{future_game["away_team_name"]} ({round(future_game["lineup_away_elo"], 2)}) at {future_game["home_team_name"]} ({round(future_game["lineup_home_elo"], 2)})'
-    fut_match_md = MdUtils(file_name=f'projections//{file_name}', title=main_header)
+    fut_match_md = MdUtils(file_name=f'temp//{file_name}', title=main_header)
 
     # yaml header
+    rec_match_md.new_line("HEADERSTART")
     fut_match_md.new_paragraph("---")
     fut_match_md.new_paragraph("layout: page")
     fut_match_md.new_paragraph(f"title: {pretty_name}")
@@ -259,6 +277,18 @@ for future_game in future_games:
     fut_match_md.create_md_file()
 
     fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')
+
+        ## quick and dirty remove empty leading lines
+    TAG = 'HEADERSTART'
+    tag_found = False
+    with open(f'temp//{file_name}.md') as in_file:
+        with open(f'projections//{file_name}.md', 'w') as out_file:
+            for line in in_file:
+                if not tag_found:
+                    if line.strip() == TAG:
+                        tag_found = True
+                else:
+                    out_file.write(line)
 
 fut_dir_md.create_md_file()
 
