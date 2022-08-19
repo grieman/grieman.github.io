@@ -9,7 +9,7 @@ categories: match review
 
 Auckland by 11.1 on a neutral field
 
-{% include plots//recap_predictions//2022-08-13-Southland-Auckland.png %}
+![In Match Predictions](recap_predictions_2022-08-13-Southland-Auckland.png)
 # Pre-Match Prediction: Auckland by 5.3
 
 

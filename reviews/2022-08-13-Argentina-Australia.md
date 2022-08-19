@@ -9,7 +9,7 @@ categories: match review
 
 Australia by 1.8 on a neutral field
 
-{% include plots//recap_predictions//2022-08-13-Argentina-Australia.png %}
+![In Match Predictions](recap_predictions_2022-08-13-Argentina-Australia.png)
 # Pre-Match Prediction: Australia by 2.9
 
 

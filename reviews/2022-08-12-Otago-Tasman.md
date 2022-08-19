@@ -9,7 +9,7 @@ categories: match review
 
 Tasman by 12.4 on a neutral field
 
-{% include plots//recap_predictions//2022-08-12-Otago-Tasman.png %}
+![In Match Predictions](recap_predictions_2022-08-12-Otago-Tasman.png)
 # Pre-Match Prediction: Tasman by 5.5
 
 

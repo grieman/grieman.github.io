@@ -9,7 +9,7 @@ categories: match review
 
 North Harbour by 8.2 on a neutral field
 
-{% include plots//recap_predictions//2022-08-14-NorthHarbour-Manawatu.png %}
+![In Match Predictions](recap_predictions_2022-08-14-NorthHarbour-Manawatu.png)
 # Pre-Match Prediction: North Harbour by 12.0
 
 

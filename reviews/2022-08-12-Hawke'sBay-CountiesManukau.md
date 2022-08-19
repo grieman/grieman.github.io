@@ -9,7 +9,7 @@ categories: match review
 
 Hawke's Bay by 11.1 on a neutral field
 
-{% include plots//recap_predictions//2022-08-12-Hawke'sBay-CountiesManukau.png %}
+![In Match Predictions](recap_predictions_2022-08-12-Hawke'sBay-CountiesManukau.png)
 # Pre-Match Prediction: Hawke's Bay by 15.6
 
 

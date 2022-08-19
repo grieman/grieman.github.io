@@ -9,7 +9,7 @@ categories: match review
 
 South Africa by 7.0 on a neutral field
 
-{% include plots//recap_predictions//2022-08-13-SouthAfrica-NewZealand.png %}
+![In Match Predictions](recap_predictions_2022-08-13-SouthAfrica-NewZealand.png)
 # Pre-Match Prediction: South Africa by 12.9
 
 

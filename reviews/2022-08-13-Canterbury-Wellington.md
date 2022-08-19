@@ -9,7 +9,7 @@ categories: match review
 
 Canterbury by 1.8 on a neutral field
 
-{% include plots//recap_predictions//2022-08-13-Canterbury-Wellington.png %}
+![In Match Predictions](recap_predictions_2022-08-13-Canterbury-Wellington.png)
 # Pre-Match Prediction: Canterbury by 7.0
 
 

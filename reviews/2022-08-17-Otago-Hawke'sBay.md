@@ -9,7 +9,7 @@ categories: match review
 
 Hawke's Bay by 13.9 on a neutral field
 
-{% include plots//recap_predictions//2022-08-17-Otago-Hawke'sBay.png %}
+![In Match Predictions](recap_predictions_2022-08-17-Otago-Hawke'sBay.png)
 # Pre-Match Prediction: Hawke's Bay by 7.8
 
 

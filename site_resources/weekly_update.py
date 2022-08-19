@@ -154,18 +154,18 @@ rec_dir_md.new_line("---")
 
 recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)]
 for recent_game in recent_games:
-
+    
     pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
     file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
     score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
     main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
     print(pretty_name)
-    
+
     # team colors
-    home_color1 = team_colors[team_colors.Team == match.home_team_name].Primary.iloc[0]
-    home_color2 = team_colors[team_colors.Team == match.home_team_name].Secondary.iloc[0]
-    away_color1 = team_colors[team_colors.Team == match.away_team_name].Primary.iloc[0]
-    away_color2 = team_colors[team_colors.Team == match.away_team_name].Secondary.iloc[0]
+    home_color1 = team_colors[team_colors.Team == recent_game["home_team_name"]].Primary.iloc[0]
+    home_color2 = team_colors[team_colors.Team == recent_game["home_team_name"]].Secondary.iloc[0]
+    away_color1 = team_colors[team_colors.Team == recent_game["away_team_name"]].Primary.iloc[0]
+    away_color2 = team_colors[team_colors.Team == recent_game["away_team_name"]].Secondary.iloc[0]
 
     ## Match Lineups
     home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
@@ -185,12 +185,13 @@ for recent_game in recent_games:
     player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
     ## Win probability plots
-    match_events = real_time_preds.real_time_df(match)
+    match_events = real_time_preds.real_time_df(recent_game)
     sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
     ax2 = plt.twinx()
     sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
     pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
-    pred_plot.figure.savefig(f"_includes//plots//recap_predictions//{file_name}.png")
+    pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
+    pred_plot.figure.clf()
 
     rec_match_md = MdUtils(file_name=f'temp//{file_name}')
 
@@ -220,7 +221,8 @@ for recent_game in recent_games:
 
     rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     rec_match_md.new_paragraph(n_pred_text)
-    rec_match_md.new_paragraph(f'{{% include plots//recap_predictions//{file_name}.png %}}')
+    rec_match_md.new_paragraph(f"![In Match Predictions](recap_predictions_{file_name}.png)")
+
 
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
     rec_match_md.new_paragraph(n_lineup_pred_text)

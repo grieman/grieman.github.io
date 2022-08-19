@@ -9,7 +9,7 @@ categories: match review
 
 Waikato by 2.3 on a neutral field
 
-{% include plots//recap_predictions//2022-08-13-Northland-Waikato.png %}
+![In Match Predictions](recap_predictions_2022-08-13-Northland-Waikato.png)
 # Pre-Match Prediction: Waikato by 0.9
 
 

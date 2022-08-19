@@ -9,7 +9,7 @@ categories: match review
 
 Bay of Plenty by 0.4 on a neutral field
 
-{% include plots//recap_predictions//2022-08-13-BayofPlenty-Taranaki.png %}
+![In Match Predictions](recap_predictions_2022-08-13-BayofPlenty-Taranaki.png)
 # Pre-Match Prediction: Bay of Plenty by 4.4
 
 
