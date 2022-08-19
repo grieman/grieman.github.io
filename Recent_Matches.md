@@ -4,8 +4,6 @@ title: Recent Matches
 key: page-recents  
 ---
 
-[Auckland at Manawatu; 45.0-18.0](reviews//2022-08-10-Manawatu-Auckland)
-
 [Counties Manukau at Hawke's Bay; 32.0-33.0](reviews//2022-08-12-Hawke'sBay-CountiesManukau)
 
 [Tasman at Otago; 19.0-25.0](reviews//2022-08-12-Otago-Tasman)
@@ -23,3 +21,5 @@ key: page-recents
 [Auckland at Southland; 24.0-23.0](reviews//2022-08-13-Southland-Auckland)
 
 [Manawatu at North Harbour; 14.0-64.0](reviews//2022-08-14-NorthHarbour-Manawatu)
+
+[Hawke's Bay at Otago; 13.0-18.0](reviews//2022-08-17-Otago-Hawke'sBay)

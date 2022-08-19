@@ -15,10 +15,14 @@ import pickle
 from mdutils.mdutils import MdUtils
 from mdutils import Html
 from support_files.team_colors import team_color_dict
+import support_files.real_time_preds as real_time_preds
 from tabulate import tabulate
 import os
 import glob
 import datetime
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 ## Need to ge the current home advantage? as 5 as of 8/5
 home_advantage = 5
@@ -81,13 +85,14 @@ def clean_leading_space(orig_name, new_name):
                 else:
                     out_file.write(line)
 
-files = glob.glob('projections/*')
+files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')
 for f in files:
     os.remove(f)
 
-files = glob.glob('reviews/*')
+'''files = glob.glob('reviews/*')
 for f in files:
-    os.remove(f)
+    os.remove(f)'''
+
 
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
@@ -133,7 +138,7 @@ player_elo['elo_change'] = player_elo.end_elo - player_elo.start_elo
 player_elo.Date = pd.to_datetime(player_elo.Date)
 starters = player_elo[player_elo.Position != 'R']
 starters = starters.dropna(subset=['Position'])
-current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']]
+current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']].copy()
 
 current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
 current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
@@ -149,6 +154,20 @@ rec_dir_md.new_line("---")
 
 recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)]
 for recent_game in recent_games:
+
+    pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
+    file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
+    score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
+    main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
+    print(pretty_name)
+    
+    # team colors
+    home_color1 = team_colors[team_colors.Team == match.home_team_name].Primary.iloc[0]
+    home_color2 = team_colors[team_colors.Team == match.home_team_name].Secondary.iloc[0]
+    away_color1 = team_colors[team_colors.Team == match.away_team_name].Primary.iloc[0]
+    away_color2 = team_colors[team_colors.Team == match.away_team_name].Secondary.iloc[0]
+
+    ## Match Lineups
     home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
     home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
     home_team = home_team.drop(['Unicode_ID'], axis = 1)
@@ -165,10 +184,14 @@ for recent_game in recent_games:
     all_players = all_players[['Away Minutes', 'Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player', 'Home Minutes']]
     player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
-    pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
-    file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
-    score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
-    main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
+    ## Win probability plots
+    match_events = real_time_preds.real_time_df(match)
+    sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
+    ax2 = plt.twinx()
+    sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
+    pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
+    pred_plot.figure.savefig(f"_includes//plots//recap_predictions//{file_name}.png")
+
     rec_match_md = MdUtils(file_name=f'temp//{file_name}')
 
     # yaml header
@@ -179,8 +202,6 @@ for recent_game in recent_games:
     rec_match_md.new_line(f"date: {recent_game['date']} 18:00:00 -0500")
     rec_match_md.new_line("categories: match review")
     rec_match_md.new_line("---")
-
-    print(pretty_name)
 
     favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
     pred_text = f'{favorite} by {round(abs(recent_game["spread"]), 1)}'
@@ -199,6 +220,7 @@ for recent_game in recent_games:
 
     rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     rec_match_md.new_paragraph(n_pred_text)
+    rec_match_md.new_paragraph(f'{{% include plots//recap_predictions//{file_name}.png %}}')
 
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
     rec_match_md.new_paragraph(n_lineup_pred_text)
