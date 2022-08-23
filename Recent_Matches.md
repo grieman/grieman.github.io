@@ -4,22 +4,18 @@ title: Recent Matches
 key: page-recents  
 ---
 
-[Auckland at Manawatu; 45.0-18.0](reviews//2022-08-10-Manawatu-Auckland)
+[Hawke's Bay at Otago; 13.0-18.0](reviews//2022-08-17-Otago-Hawke'sBay)
 
-[Counties Manukau at Hawke's Bay; 32.0-33.0](reviews//2022-08-12-Hawke'sBay-CountiesManukau)
+[Waikato at Counties Manukau; 34.0-20.0](reviews//2022-08-19-CountiesManukau-Waikato)
 
-[Tasman at Otago; 19.0-25.0](reviews//2022-08-12-Otago-Tasman)
+[Canterbury at Taranaki; 10.0-16.0](reviews//2022-08-19-Taranaki-Canterbury)
 
-[Waikato at Northland; 16.0-10.0](reviews//2022-08-13-Northland-Waikato)
+[Northland at Wellington; 15.0-6.0](reviews//2022-08-19-Wellington-Northland)
 
-[Wellington at Canterbury; 10.0-43.0](reviews//2022-08-13-Canterbury-Wellington)
+[Tasman at North Harbour; 27.0-35.0](reviews//2022-08-20-NorthHarbour-Tasman)
 
-[New Zealand at South Africa; 35.0-23.0](reviews//2022-08-13-SouthAfrica-NewZealand)
+[Bay of Plenty at Auckland; 21.0-17.0](reviews//2022-08-20-Auckland-BayofPlenty)
 
-[Australia at Argentina; 17.0-48.0](reviews//2022-08-13-Argentina-Australia)
+[Otago at Southland; 37.0-32.0](reviews//2022-08-20-Southland-Otago)
 
-[Taranaki at Bay of Plenty; 6.0-46.0](reviews//2022-08-13-BayofPlenty-Taranaki)
-
-[Auckland at Southland; 24.0-23.0](reviews//2022-08-13-Southland-Auckland)
-
-[Manawatu at North Harbour; 14.0-64.0](reviews//2022-08-14-NorthHarbour-Manawatu)
+[Hawke's Bay at Manawatu; 43.0-17.0](reviews//2022-08-21-Manawatu-Hawke'sBay)
