@@ -34,7 +34,7 @@ Waikato by 4.7 on a neutral field
 |             48 | Rhys Dickinson       |      80.97 |                46 |        9 |                49 |      84.56 | Cam Roigard        |             67 |
 |             86 | Damian McKenzie      |      97.74 |                86 |       10 |                19 |      78.66 | Riley Hohepa       |             86 |
 |             86 | Mosese Dawai         |      88.99 |                70 |       11 |                28 |      79.48 | Peniasi Malimali   |             58 |
-|             69 | D'Angelo Leuila      |      84.19 |                57 |       12 |                36 |      82.06 | AJ Alatimu         |             86 |
+|             69 | D'Angelo Leuila      |      84.19 |                58 |       12 |                36 |      82.06 | AJ Alatimu         |             86 |
 |             86 | Bailyn Sullivan      |      76.13 |                28 |       13 |                 0 |      65.07 | Nikolai Foliaki    |             86 |
 |             79 | Daniel Sinkinson     |      79.4  |                46 |       14 |                 4 |      72.47 | Jared Page         |             86 |
 |             86 | Liam Coombes-Fabling |      82.67 |                52 |       15 |                 3 |      71.76 | Etene Nanai-Seturo |             69 |

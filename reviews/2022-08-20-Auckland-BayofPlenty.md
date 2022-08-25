@@ -29,7 +29,7 @@ Auckland by 0.5 on a neutral field
 |             36 | Justin Sangster        |      77.21 |                25 |        4 |                16 |      78.31 | Connor Vest         |             82 |
 |             82 | Manaaki Selby-Rickit   |      66.82 |                 3 |        5 |                48 |      83.84 | Hamish Dalzell      |             59 |
 |             82 | Naitoa Ah Kuoi         |      83    |                61 |        6 |                35 |      80.93 | Vaiolini Ekuasi     |             64 |
-|             82 | Jacob Norris           |      97.83 |                86 |        7 |                32 |      80.81 | Adrian Choat        |             82 |
+|             82 | Jacob Norris           |      97.83 |                87 |        7 |                32 |      80.81 | Adrian Choat        |             82 |
 |             52 | Zane Kapeli            |      81.4  |                50 |        8 |                33 |      81.35 | Jackson Pugh        |             82 |
 |             57 | Jamie Dobie            |      79.69 |                41 |        9 |                15 |      77.84 | Taufa Funaki        |             74 |
 |             82 | Kaleb Trask            |      83.35 |                57 |       10 |                76 |      97.07 | Harry Plummer       |             74 |

@@ -36,7 +36,7 @@ Otago by 3.6 on a neutral field
 |             80 | Vilimoni Koroi         |      77.52 |                36 |       11 |                55 |      84.5  | Matt Whaanga     |             64 |
 |             37 | Thomas Umaga-Jensen    |      82.95 |                52 |       12 |                52 |      85.35 | Scott Gregory    |             80 |
 |             80 | Josh Timu              |      71.44 |                 9 |       13 |                 4 |      71.59 | Isaac Te Tamaki  |             80 |
-|             51 | Freedom Vahaakolo      |      76.92 |                27 |       14 |                26 |      79.1  | Viliami Fine     |             67 |
+|             51 | Freedom Vahaakolo      |      76.92 |                28 |       14 |                26 |      79.1  | Viliami Fine     |             67 |
 |             80 | Sam Gilbert            |      85.02 |                57 |       15 |                18 |      78.55 | Rory van Vugt    |             80 |
 |             20 | Ricky Jackson          |      82.33 |                50 |       16 |                51 |      82.59 | Jacob Payne      |             24 |
 |             24 | Josh Hohneck           |      90.71 |                66 |       17 |                 4 |      72.15 | Shaun Stodart    |             24 |

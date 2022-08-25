@@ -39,7 +39,7 @@ Tasman by 2.2 on a neutral field
 |             64 | Timoci Tavatavanawai    |      75.91 |                11 |       14 |                43 |      79.32 | Kade Banks      |             64 |
 |             80 | Sevu Reece              |     109.38 |                95 |       15 |                60 |      86.47 | Shaun Stevenson |             80 |
 |             19 | Quentin MacDonald       |      92.91 |                70 |       16 |                23 |      77.63 | Luteru Tolai    |             37 |
-|             18 | Atu Moli                |      89.75 |                70 |       18 |                58 |      86.64 | Alex Fidow      |             29 |
+|             18 | Atu Moli                |      89.75 |                71 |       18 |                58 |      86.64 | Alex Fidow      |             29 |
 |             77 | Mahroni Ngakuru         |      72.59 |                 8 |       19 |                54 |      84.54 | Danny Drake     |             37 |
-|              0 | William Havili          |      75.04 |                14 |       23 |                39 |      80.89 | Tom Barham      |             16 |
+|              0 | William Havili          |      75.04 |                14 |       23 |                40 |      80.89 | Tom Barham      |             16 |
 
