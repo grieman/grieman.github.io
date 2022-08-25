@@ -4,8 +4,6 @@ title: Recent Matches
 key: page-recents  
 ---
 
-[Hawke's Bay at Otago; 13.0-18.0](reviews//2022-08-17-Otago-Hawke'sBay)
-
 [Waikato at Counties Manukau; 34.0-20.0](reviews//2022-08-19-CountiesManukau-Waikato)
 
 [Canterbury at Taranaki; 10.0-16.0](reviews//2022-08-19-Taranaki-Canterbury)
