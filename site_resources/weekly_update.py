@@ -286,11 +286,11 @@ for future_game in future_games:
     fut_match_md = MdUtils(file_name=f'temp//{file_name}', title=main_header)
 
     # yaml header
-    rec_match_md.new_line("HEADERSTART")
+    fut_match_md.new_line("HEADERSTART")
     fut_match_md.new_paragraph("---")
     fut_match_md.new_paragraph("layout: page")
     fut_match_md.new_paragraph(f"title: {pretty_name}")
-    fut_match_md.new_paragraph(f"date: {x['date']} 18:00:00 -0500")
+    fut_match_md.new_paragraph(f"date: {future_game['date']} 18:00:00 -0500")
     fut_match_md.new_paragraph("categories: match prediction")
     fut_match_md.new_paragraph("---")
 
