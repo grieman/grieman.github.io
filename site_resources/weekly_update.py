@@ -184,15 +184,6 @@ for recent_game in recent_games:
     all_players = all_players[['Away Minutes', 'Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player', 'Home Minutes']]
     player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
-    ## Win probability plots
-    match_events = real_time_preds.real_time_df(recent_game)
-    sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
-    ax2 = plt.twinx()
-    sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
-    pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
-    pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
-    pred_plot.figure.clf()
-
     rec_match_md = MdUtils(file_name=f'temp//{file_name}')
 
     # yaml header
@@ -221,7 +212,17 @@ for recent_game in recent_games:
 
     rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     rec_match_md.new_paragraph(n_pred_text)
-    rec_match_md.new_paragraph(f"![In Match Predictions](recap_predictions_{file_name}.png)")
+
+    ## Win probability plots
+    if recent_game['commentary_df']:
+        match_events = real_time_preds.real_time_df(recent_game)
+        sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
+        ax2 = plt.twinx()
+        sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
+        pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
+        pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
+        pred_plot.figure.clf()
+        rec_match_md.new_paragraph(f"![In Match Predictions](recap_predictions_{file_name}.png)")
 
 
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
