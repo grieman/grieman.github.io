@@ -26,7 +26,7 @@ South Africa by 4.3 on a neutral pitch
 | Franco Mostert    |      99.2  |                85 |        7 |                62 |      85.54 | Fraser McReight  |
 | Jasper Wiese      |      90.9  |                68 |        8 |                70 |      92    | Rob Valetini     |
 | Jaden Hendrikse   |      80.85 |                41 |        9 |                99 |     123.73 | Nic White        |
-| Damian Willemse   |      93.7  |                72 |       10 |                66 |      89.81 | Noah Lolesio     |
+| Damian Willemse   |      93.7  |                71 |       10 |                66 |      89.81 | Noah Lolesio     |
 | Makazole Mapimpi  |     106.28 |                94 |       11 |                69 |      90.06 | Marika Koroibete |
 | Damian de Allende |      95.31 |                77 |       12 |                76 |      94.78 | Hunter Paisami   |
 | Jesse Kriel       |      90.57 |                71 |       13 |                74 |      94.16 | Len Ikitau       |

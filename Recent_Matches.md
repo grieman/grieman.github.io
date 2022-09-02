@@ -23,3 +23,5 @@ key: page-recents
 [Southland at Northland; 19-32](reviews//2022-08-28-Northland-Southland)
 
 [North Harbour at Canterbury; 22-35](reviews//2022-08-31-Canterbury-NorthHarbour)
+
+[Tasman at Manawatu; 36.0-26.0](reviews//2022-09-02-Manawatu-Tasman)

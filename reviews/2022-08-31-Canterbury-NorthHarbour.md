@@ -35,7 +35,7 @@ Canterbury by 7.5 on a neutral field
 |             80 | Tom Barham        |      80.67 |                38 |       12 |                52 |      82.63 | Isaiah Punivai     |             80 |
 |             80 | Denny Solomona    |      83.63 |                51 |       13 |                59 |      85.36 | Dallas McLeod      |             80 |
 |             80 | Kade Banks        |      80.95 |                43 |       14 |                27 |      77.34 | Willi Gualter      |             80 |
-|             80 | Shaun Stevenson   |      89.24 |                62 |       15 |                94 |     106.29 | George Bridge      |             80 |
+|             80 | Shaun Stevenson   |      89.24 |                61 |       15 |                94 |     106.29 | George Bridge      |             80 |
 |              0 | Luteru Tolai      |      79.7  |                38 |       16 |                73 |      93.2  | Ben Funnell        |              0 |
 |              0 | Fatongia Paea     |      86.55 |                61 |       17 |                30 |      80.52 | Tamaiti Williams   |              0 |
 |              0 | Danny Drake       |      86.03 |                58 |       19 |                27 |      78.5  | Sam Darry          |              0 |

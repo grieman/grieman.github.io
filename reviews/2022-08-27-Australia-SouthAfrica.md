@@ -35,7 +35,7 @@ South Africa by 10.1 on a neutral field
 |             80 | Damian de Allende    |      97.92 |                77 |       12 |                76 |      92.17 | Hunter Paisami   |             80 |
 |             80 | Lukhanyo Am          |      88.91 |                60 |       13 |                74 |      91.55 | Len Ikitau       |             80 |
 |             80 | Warrick Gelant       |      98.42 |                79 |       14 |                60 |      82.01 | Tom Wright       |             80 |
-|             80 | Damian Willemse      |      96.31 |                72 |       15 |                66 |      87.69 | Reece Hodge      |             80 |
+|             80 | Damian Willemse      |      96.31 |                71 |       15 |                66 |      87.69 | Reece Hodge      |             80 |
 |              0 | Malcolm Marx         |      92.17 |                71 |       16 |                58 |      84.74 | Dave Porecki     |              0 |
 |              0 | Steven Kitshoff      |     108.45 |                97 |       17 |                50 |      85.14 | Scott Sio        |              0 |
 |              0 | Vincent Koch         |      82.04 |                53 |       18 |                68 |      90.87 | Taniela Tupou    |              0 |

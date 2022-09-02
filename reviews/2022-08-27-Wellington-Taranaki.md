@@ -35,7 +35,7 @@ Taranaki by 2.9 on a neutral field
 |             80 | Teihorangi Walden      |      73.06 |                 6 |       12 |                 9 |      71.98 | Peter Umaga-Jensen   |             80 |
 |             80 | Daniel Rona            |      86.03 |                55 |       13 |                29 |      76.74 | Billy Proctor        |             80 |
 |             80 | Meihana Grindlay       |      80.72 |                37 |       14 |                92 |     102.8  | Julian Savea         |             80 |
-|             80 | Adam Lennox            |      77.37 |                15 |       15 |                26 |      76.67 | Connor Garden-Bachop |             80 |
+|             80 | Adam Lennox            |      77.37 |                14 |       15 |                26 |      76.67 | Connor Garden-Bachop |             80 |
 |              0 | Bradley Slater         |      84.25 |                58 |       16 |                 5 |      72.26 | James O'Reilly       |              0 |
 |              0 | Kyle Stewart           |      80.55 |                34 |       18 |                16 |      76.75 | PJ Sheck             |              0 |
 |              0 | Liam Blyde             |      89.46 |                63 |       21 |                57 |      85.14 | Richard Judd         |              0 |
