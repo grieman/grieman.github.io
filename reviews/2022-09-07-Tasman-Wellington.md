@@ -21,14 +21,14 @@ Tasman by 1.6 on a neutral field
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             80 | Xavier Numia          |      86.82 |                63 |        1 |                15 |      76.79 | Kershawl Sykes-Martin   |             80 |
+|             80 | Xavier Numia          |      86.82 |                63 |        1 |                16 |      76.79 | Kershawl Sykes-Martin   |             80 |
 |             80 | Asafo Aumua           |      93.55 |                76 |        2 |                60 |      85.44 | Andrew Makalio          |             80 |
 |             80 | PJ Sheck              |      76.75 |                31 |        3 |                39 |      80.34 | Isaac Salmon            |             80 |
 |             80 | James Blackwell       |      74.74 |                14 |        4 |                 2 |      69.71 | Mahroni Ngakuru         |             80 |
 |             80 | Dom Bird              |      78.62 |                35 |        5 |                27 |      80.71 | Quinten Strange         |             80 |
 |             80 | Caleb Delany          |      72.55 |                 8 |        6 |                12 |      75.03 | Max Hicks               |             80 |
-|             80 | Sione Halalilo        |      74.26 |                16 |        7 |                23 |      77.72 | Braden Stewart          |             80 |
-|             80 | Keelan Whitman        |      75.92 |                26 |        8 |                30 |      78.87 | Sione Havili            |             80 |
+|             80 | Sione Halalilo        |      74.26 |                16 |        7 |                22 |      77.72 | Braden Stewart          |             80 |
+|             80 | Keelan Whitman        |      75.92 |                27 |        8 |                31 |      78.87 | Sione Havili            |             80 |
 |             80 | Richard Judd          |      85.14 |                61 |        9 |                22 |      80.04 | Louie Chapman           |             80 |
 |             80 | Jackson Garden-Bachop |      73.38 |                15 |       10 |                13 |      74.89 | William Havili          |             80 |
 |             80 | Connor Garden-Bachop  |      80.5  |                55 |       11 |                19 |      76.6  | Macca Springer          |             80 |
