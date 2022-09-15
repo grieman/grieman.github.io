@@ -4,8 +4,6 @@ title: Recent Matches
 key: page-recents  
 ---
 
-[Wellington at Tasman; 25.0-19.0](reviews//2022-09-07-Tasman-Wellington)
-
 [Auckland at Waikato; 15.0-30.0](reviews//2022-09-09-Waikato-Auckland)
 
 [Southland at Hawke's Bay; 24.0-69.0](reviews//2022-09-09-Hawke'sBay-Southland)
@@ -33,3 +31,5 @@ key: page-recents
 [Northampton Saints at Sale Sharks; 22.0-29.0](reviews//2022-09-11-SaleSharks-NorthamptonSaints)
 
 [Southland at Waikato; 24.0-54.0](reviews//2022-09-14-Waikato-Southland)
+
+[New Zealand at Australia; 39.0-37.0](reviews//2022-09-15-Australia-NewZealand)

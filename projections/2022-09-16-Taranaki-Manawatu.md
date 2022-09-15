@@ -10,27 +10,27 @@ date: 2022-09-16 03:05:00 18:00:00 -0500
 categories: match prediction
 
 ---
-# Prediction: Taranaki by 16.3
+# Prediction: Taranaki by 12.9
 
 
-Taranaki by 11.3 on a neutral pitch
+Taranaki by 7.9 on a neutral pitch
 
 | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |
 |:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|
-| Harrison Allan       |      72.4  |                 0 |        1 |                29 |      94.34 | Jared Proffit          |
-| Siua Maile           |      71.41 |                 0 |        2 |                31 |      93.61 | Ricky Riccitelli       |
-| Flyn Yates           |      75.95 |                 1 |        3 |                28 |      93.81 | Donald Brighouse       |
-| Veikoso Poloniati    |      65.74 |                 0 |        5 |                10 |      80.79 | Scott Jury             |
-| Te Kamaka Howden     |      71.18 |                 0 |        6 |                80 |     103.1  | Bradley Slater         |
-| Johnny Galloway      |      72.31 |                 0 |        7 |                64 |      98.41 | Tom Florence           |
-| Brayden Iose         |      84.43 |                18 |        8 |                 1 |      74.46 | Kaylum Boshier         |
-| Luke Campbell        |      92.17 |                26 |        9 |                36 |      94.62 | Logan Crowley          |
-| Brett Cameron        |     101.95 |                76 |       10 |                39 |      95.61 | Daniel Waite           |
-| Ed Fidow             |      81.77 |                15 |       11 |                23 |      87.42 | Kini Naholo            |
-| Jason Emery          |      81.41 |                14 |       12 |                24 |      89.52 | Teihorangi Walden      |
-| Kegan Christian-Goss |      79.06 |                 8 |       13 |                15 |      81.01 | Meihana Grindlay       |
-| Tima Fainga'anuku    |      86.09 |                21 |       14 |                17 |      82.26 | Vereniki Tikoisolomone |
-| Drew Wild            |      73.48 |                 1 |       15 |                 6 |      77.91 | Matt McKenzie          |
-| Logan Henry          |      75.96 |                 1 |       21 |                19 |      87.91 | Liam Blyde             |
-| Adam Boult           |      79.54 |                10 |       23 |                 3 |      75.83 | Adam Lennox            |
+| Harrison Allan       |      73.58 |                 6 |        1 |                 5 |      73.2  | Jared Proffit          |
+| Siua Maile           |      70.08 |                 3 |        2 |                33 |      78.19 | Ricky Riccitelli       |
+| Flyn Yates           |      74.85 |                 9 |        3 |                 2 |      68.38 | Donald Brighouse       |
+| Veikoso Poloniati    |      64.43 |                 1 |        5 |                29 |      78.7  | Scott Jury             |
+| Te Kamaka Howden     |      69.31 |                 4 |        6 |                44 |      80.85 | Bradley Slater         |
+| Johnny Galloway      |      73.15 |                 7 |        7 |                48 |      80.42 | Tom Florence           |
+| Brayden Iose         |      64.96 |                 2 |        8 |                 6 |      72.78 | Kaylum Boshier         |
+| Luke Campbell        |      73.47 |                 8 |        9 |                 5 |      71.57 | Logan Crowley          |
+| Brett Cameron        |      84.24 |                56 |       10 |                14 |      75.05 | Daniel Waite           |
+| Ed Fidow             |      67.18 |                 2 |       11 |                64 |      86.98 | Kini Naholo            |
+| Jason Emery          |      64.28 |                 0 |       12 |                 2 |      68.03 | Teihorangi Walden      |
+| Kegan Christian-Goss |      80.97 |                42 |       13 |                36 |      78.51 | Meihana Grindlay       |
+| Tima Fainga'anuku    |      60.24 |                 0 |       14 |                53 |      82.29 | Vereniki Tikoisolomone |
+| Drew Wild            |      74.88 |                11 |       15 |                22 |      77.63 | Matt McKenzie          |
+| Logan Henry          |      80.14 |                38 |       21 |                62 |      88.31 | Liam Blyde             |
+| Adam Boult           |      81.34 |                47 |       23 |                15 |      75.89 | Adam Lennox            |
 

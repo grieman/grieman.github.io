@@ -4,43 +4,43 @@ title: Northland at Canterbury; 17.0-46.0
 date: 2022-09-11 00:35:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Canterbury by 7.7
+# Prediction: Canterbury by 10.7
 
 
-Canterbury by 2.7 on a neutral field
+Canterbury by 5.7 on a neutral field
 
 ![In Match Predictions](recap_predictions_2022-09-11-Canterbury-Northland.png)
-# Pre-Match Prediction: Canterbury by 10.3
+# Pre-Match Prediction: Canterbury by 11.2
 
 
-Canterbury by 5.3 on a neutral pitch
-# Projection using minutes played for each player: Canterbury by 7.7
+Canterbury by 6.2 on a neutral pitch
+# Projection using minutes played for each player: Canterbury by 10.7
 
 
-Canterbury by 2.7 on a neutral field
+Canterbury by 5.7 on a neutral field
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             59 | Jarred Adams          |     110.77 |                92 |        1 |                54 |      98.32 | Dan Lienert-Brown  |              8 |
-|             80 | Bruce Kauika-Petersen |      82.35 |                 8 |        2 |                 8 |      78.87 | Shilo Klein        |             51 |
-|             51 | Coree Te Whata-Colley |      98.92 |                45 |        3 |                96 |     113.78 | Owen Franks        |             43 |
-|             80 | Allan Craig           |      82.88 |                10 |        4 |                90 |     109.15 | Luke Romano        |             51 |
-|             57 | Liam Hallam-Eames     |      96.35 |                36 |        5 |                15 |      81.09 | Sam Darry          |             80 |
-|             48 | Rob Rush              |      82.29 |                14 |        6 |                24 |      85.65 | Corey Kellow       |             57 |
-|             67 | Jonah Mau'u           |      83.89 |                18 |        7 |                94 |     111.2  | Tom Christie       |             80 |
-|             80 | Matt Polwart-Matich   |     108.63 |                84 |        8 |                84 |     104.14 | Billy Harmon       |             80 |
-|             46 | Lisati Milo-Harris    |      95.58 |                32 |        9 |                97 |     117.26 | Willi Heinz        |             56 |
-|             80 | Rivez Reihana         |      80.28 |                 5 |       10 |                21 |      87.27 | Fergus Burke       |             71 |
-|             67 | Heremaia Murray       |      85.77 |                19 |       11 |                99 |     122.42 | George Bridge      |             62 |
-|             57 | Blake Hohaia          |      97.66 |                43 |       12 |                14 |      79.23 | Rameka Poihipi     |             80 |
-|             80 | Tamati Tua            |     102    |                64 |       13 |                23 |      87.03 | Dallas McLeod      |             80 |
-|             80 | Jone Macilai-Tori     |      99.99 |                54 |       14 |                25 |      86.93 | Ngatungane Punivai |             80 |
-|             80 | Pisi Leilua           |      81.17 |                 9 |       15 |                32 |      92.07 | Chay Fihaki        |             80 |
-|             13 | Ross Wright           |      94.91 |                31 |       16 |                19 |      88.47 | Brodie McAlister   |             29 |
-|             21 | Esile Fono            |      83.64 |                15 |       17 |                 8 |      81    | Tamaiti Williams   |             72 |
-|             23 | Josh Goodhue          |      93.76 |                33 |       19 |                16 |      83.76 | Dom Gardiner       |             29 |
-|             32 | Jaycob Matiu          |      90.58 |                24 |       20 |                15 |      82.58 | Liam Allen         |             23 |
-|             34 | Sam Nock              |     103.04 |                80 |       21 |                96 |     115.65 | Mitch Drummond     |             24 |
+|             59 | Jarred Adams          |      89.64 |                64 |        1 |                25 |      78.01 | Dan Lienert-Brown  |              8 |
+|             80 | Bruce Kauika-Petersen |      77.09 |                10 |        2 |                29 |      76.74 | Shilo Klein        |             51 |
+|             51 | Coree Te Whata-Colley |      79.73 |                26 |        3 |                77 |      94.68 | Owen Franks        |             43 |
+|             80 | Allan Craig           |      83.61 |                44 |        4 |                65 |      88.73 | Luke Romano        |             51 |
+|             57 | Liam Hallam-Eames     |      76.76 |                12 |        5 |                33 |      77.11 | Sam Darry          |             80 |
+|             48 | Rob Rush              |      82.36 |                45 |        6 |                59 |      82.52 | Corey Kellow       |             57 |
+|             67 | Jonah Mau'u           |      83.26 |                47 |        7 |                82 |      95.07 | Tom Christie       |             80 |
+|             80 | Matt Polwart-Matich   |      90.19 |                63 |        8 |                56 |      82.86 | Billy Harmon       |             80 |
+|             46 | Lisati Milo-Harris    |      77.24 |                15 |        9 |                90 |     101.12 | Willi Heinz        |             56 |
+|             80 | Rivez Reihana         |      79.88 |                24 |       10 |                50 |      80.04 | Fergus Burke       |             71 |
+|             67 | Heremaia Murray       |      84.1  |                52 |       11 |                95 |     105.43 | George Bridge      |             62 |
+|             57 | Blake Hohaia          |      82.34 |                41 |       12 |                41 |      78.4  | Rameka Poihipi     |             80 |
+|             80 | Tamati Tua            |      88.53 |                59 |       13 |                63 |      85.88 | Dallas McLeod      |             80 |
+|             80 | Jone Macilai-Tori     |      84.51 |                52 |       14 |                60 |      82.42 | Ngatungane Punivai |             80 |
+|             80 | Pisi Leilua           |      80.42 |                26 |       15 |                69 |      88.9  | Chay Fihaki        |             80 |
+|             13 | Ross Wright           |      76.9  |                17 |       16 |                69 |      91.49 | Brodie McAlister   |             29 |
+|             21 | Esile Fono            |      81.39 |                44 |       17 |                30 |      80.52 | Tamaiti Williams   |             72 |
+|             23 | Josh Goodhue          |      80.1  |                37 |       19 |                44 |      81.35 | Dom Gardiner       |             29 |
+|             32 | Jaycob Matiu          |      67.6  |                 3 |       20 |                43 |      81.24 | Liam Allen         |             23 |
+|             34 | Sam Nock              |      87.87 |                61 |       21 |                75 |      95.75 | Mitch Drummond     |             24 |
 
