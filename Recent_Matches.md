@@ -31,3 +31,5 @@ key: page-recents
 [Wasps at Gloucester Rugby; 21.0-27.0](reviews//2022-09-11-GloucesterRugby-Wasps)
 
 [Northampton Saints at Sale Sharks; 22.0-29.0](reviews//2022-09-11-SaleSharks-NorthamptonSaints)
+
+[Southland at Waikato; 24.0-54.0](reviews//2022-09-14-Waikato-Southland)

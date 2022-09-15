@@ -214,7 +214,7 @@ for recent_game in recent_games:
     rec_match_md.new_paragraph(n_pred_text)
 
     ## Win probability plots
-    if recent_game['commentary_df']:
+    if isinstance(recent_game['commentary_df'], np.ndarray):
         match_events = real_time_preds.real_time_df(recent_game)
         sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
         ax2 = plt.twinx()
