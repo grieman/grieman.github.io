@@ -62,11 +62,6 @@ files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includ
 for f in files:
     os.remove(f)
 
-'''files = glob.glob('reviews/*')
-for f in files:
-    os.remove(f)'''
-
-
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
 team_colors = team_colors.rename_axis('Team').reset_index()
@@ -112,10 +107,6 @@ player_elo.Date = pd.to_datetime(player_elo.Date)
 starters = player_elo[player_elo.Position != 'R']
 starters = starters.dropna(subset=['Position'])
 
-'''current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']].copy()
-current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
-current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]'''
-
 ## ~~~~~~~~~~~~~~~~~ RECENT MATCHES ~~~~~~~~~~~~~~~~~~~ ##
 rec_dir_md = MdUtils(file_name=f'temp//Recent_Matches')
 rec_dir_md.new_line("HEADERSTART")
@@ -129,7 +120,7 @@ match_dir_strings = []
 match_comps = []
 match_levels = []
 
-recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=60)]
+recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=10)]
 for recent_game in recent_games:
     
     current_players = make_current_percentile(starters, recent_game['date'])
@@ -203,14 +194,16 @@ for recent_game in recent_games:
         prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
         score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
 
-        rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
+        rec_match_md.new_header(level = 2, title = 'Scores over Time')
         rec_match_md.new_paragraph(f"![In Match Scores]({score_path})")
+        rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
+        rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
 
 
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
     rec_match_md.new_paragraph(n_lineup_pred_text)
-    rec_match_md.new_header(level = 1, title = f'Projection using minutes played for each player: {pred_text}')
-    rec_match_md.new_paragraph(n_pred_text)
+    #rec_match_md.new_header(level = 1, title = f'Projection using minutes played for each player: {pred_text}')
+    #rec_match_md.new_paragraph(n_pred_text)
     rec_match_md.new_paragraph()
     rec_match_md.new_paragraph(player_table)
     rec_match_md.new_paragraph()
