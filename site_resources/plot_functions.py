@@ -2,6 +2,7 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.patheffects as pe
+import numpy as np
 
 
 sns.set_style("darkgrid")
@@ -48,13 +49,29 @@ def score_plot(match_events, file_name, recent_game, home_color1, away_color1, h
     plt.plot(match_events.Time, match_events['Away Points'], color=away_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=away_color2), pe.Normal()])
     plt.legend(labels=[recent_game['home_team_name'],recent_game['away_team_name']])
     plt.ylabel('Score')
+    plt.xlabel('Minute')
 
     plt.savefig(f"reviews/recap_scores_{file_name}.png")
     plt.clf()
     return f'recap_scores_{file_name}.png'
 
-def prob_plot(match_events, file_name):
-    prob_plot = sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
-    prob_plot.figure.savefig(f"reviews/recap_prob_{file_name}.png")
-    prob_plot.figure.clf()
+def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2):
+
+    ## Mask when the condition is met
+    home_pred = np.ma.masked_where(match_events.prediction < 0.5, match_events.prediction)
+    away_pred = np.ma.masked_where(match_events.prediction >= 0.5,  match_events.prediction)
+    fig, ax = plt.subplots()
+    if home_pred.mask[0] == False:
+        print('home')
+        ax.plot(match_events.Time, match_events.prediction, color=home_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=home_color2), pe.Normal()])
+    else:
+        ax.plot(match_events.Time, match_events.prediction, color=away_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=away_color2), pe.Normal()])
+
+    ax.plot(match_events.Time, home_pred, color=home_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=home_color2), pe.Normal()])
+    ax.plot(match_events.Time, away_pred, color=away_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=away_color2), pe.Normal()])
+    plt.ylabel('Home Team Win Probability')
+    plt.xlabel('Minute')
+
+    plt.savefig(f"reviews/recap_prob_{file_name}.png")
+    plt.clf()
     return f'recap_prob_{file_name}.png'

@@ -200,7 +200,7 @@ for recent_game in recent_games:
         pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
         pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
         pred_plot.figure.clf()'''
-        prob_path = prob_plot(match_events, file_name)
+        prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
         score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
 
         rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
