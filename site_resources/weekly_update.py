@@ -22,6 +22,7 @@ import glob
 import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
+from plot_functions import *
 
 
 ## Need to ge the current home advantage? as 5 as of 8/5
@@ -32,45 +33,17 @@ def percentile(group):
     ranks = group.rank(method='max')
     return 100.0*(ranks-1)/sz
 
+def make_current_percentile(starters, match_date):
+    current_players = starters[starters.Date < match_date]
+    current_players = current_players[current_players.Date >= match_date - datetime.timedelta(days=365)]
+    current_players = current_players[current_players.groupby(['Full Name'])['Date'].transform(max) == current_players['Date']].copy()
+    current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
+    current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
+    return current_players
+
 def elo_contribition(player_df, column):
     mult = np.where(player_df.Number <= 15, (7/8), 0.234)
     return player_df[column] * mult
-
-def projection_contribution_plot(df, path):
-    pos_plotlist = []
-    for _, row in df.iterrows():
-        pos_plot = go.Bar(
-            name=row.Number,
-            x = ['Home Team', 'Away Team'],
-            y = [row['home contributions'], row['away contributions']],
-            customdata = [row['Home Player'], row['Away Player']],
-            hovertemplate = 
-                "<b>%{customdata}</b>: " + 
-                "%{y}"
-        )
-        pos_plotlist.append(pos_plot)
-
-    fig = go.Figure(data=pos_plotlist)
-    fig.update_layout(barmode='stack')
-    fig.write_html(path)
-
-def review_contribution_plot(df, path):
-    pos_plotlist = []
-    for _, row in df.iterrows():
-        pos_plot = go.Bar(
-            name=row.Number,
-            x = ['Home Projected', 'Home Actual', 'Away Projected', 'Away Actual'],
-            y = [row['home contributions'], row['home minute_elos'], row['away contributions'], row['away minute_elos']],
-            customdata = [row['Home Player'], row['Home Player'], row['Away Player'], row['Away Player']],
-            hovertemplate = 
-                "<b>%{customdata}</b>: " + 
-                "%{y}"
-        )
-        pos_plotlist.append(pos_plot)
-
-    fig = go.Figure(data=pos_plotlist)
-    fig.update_layout(barmode='stack')
-    fig.write_html(path)
 
 def clean_leading_space(orig_name, new_name):
     ## quick and dirty remove empty leading lines
@@ -138,10 +111,10 @@ player_elo['elo_change'] = player_elo.end_elo - player_elo.start_elo
 player_elo.Date = pd.to_datetime(player_elo.Date)
 starters = player_elo[player_elo.Position != 'R']
 starters = starters.dropna(subset=['Position'])
-current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']].copy()
 
+'''current_players = starters[starters.groupby(['Full Name'])['Date'].transform(max) == starters['Date']].copy()
 current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
-current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
+current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]'''
 
 ## ~~~~~~~~~~~~~~~~~ RECENT MATCHES ~~~~~~~~~~~~~~~~~~~ ##
 rec_dir_md = MdUtils(file_name=f'temp//Recent_Matches')
@@ -152,9 +125,14 @@ rec_dir_md.new_line(f"title: Recent Matches")
 rec_dir_md.new_line("key: page-recents")
 rec_dir_md.new_line("---")
 
-recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)]
+match_dir_strings = []
+match_comps = []
+match_levels = []
+
+recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=60)]
 for recent_game in recent_games:
     
+    current_players = make_current_percentile(starters, recent_game['date'])
     pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
     file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
     score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
@@ -216,13 +194,17 @@ for recent_game in recent_games:
     ## Win probability plots
     if isinstance(recent_game['commentary_df'], np.ndarray):
         match_events = real_time_preds.real_time_df(recent_game)
-        sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
+        '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
         ax2 = plt.twinx()
         sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
         pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
         pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
-        pred_plot.figure.clf()
-        rec_match_md.new_paragraph(f"![In Match Predictions](recap_predictions_{file_name}.png)")
+        pred_plot.figure.clf()'''
+        prob_path = prob_plot(match_events, file_name)
+        score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
+
+        rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
+        rec_match_md.new_paragraph(f"![In Match Scores]({score_path})")
 
 
     rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
@@ -244,10 +226,39 @@ for recent_game in recent_games:
 
     rec_match_md.create_md_file()
 
-    rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
+    match_dir_strings.append(f'[{score_header}](reviews//{file_name})')
+    match_comps.append(recent_game['competition'])
+    match_levels.append(recent_game['comp_level'])
+
+    #rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
 
     ## quick and dirty remove empty leading lines
     clean_leading_space(f'temp//{file_name}.md', f'reviews//{file_name}.md')
+
+dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels})
+dir_int = dir_df[dir_df.levels == 'International']
+dir_pro = dir_df[dir_df.levels == 'Pro']
+dir_dom = dir_df[dir_df.levels == 'Domestic']
+if dir_int.shape[0] > 0:
+    rec_dir_md.new_header(level = 1, title = 'International Matches')
+    for comp in sorted(dir_int.comps.unique()):
+        rec_dir_md.new_header(level = 2, title = comp)
+        for _, row in dir_int[dir_int.comps == comp].iterrows():
+            rec_dir_md.new_paragraph(row[0])
+
+if dir_pro.shape[0] > 0:
+    rec_dir_md.new_header(level = 1, title = 'Professional Leagues')
+    for comp in sorted(dir_pro.comps.unique()):
+        rec_dir_md.new_header(level = 2, title = comp)
+        for _, row in dir_pro[dir_pro.comps == comp].iterrows():
+            rec_dir_md.new_paragraph(row[0])
+
+if dir_dom.shape[0] > 0:
+    rec_dir_md.new_header(level = 1, title = 'Domestic Leagues')
+    for comp in sorted(dir_dom.comps.unique()):
+        rec_dir_md.new_header(level = 2, title = comp)
+        for _, row in dir_dom[dir_dom.comps == comp].iterrows():
+            rec_dir_md.new_paragraph(row[0])
 
 rec_dir_md.create_md_file()
 clean_leading_space(f'temp//Recent_Matches.md', f'Recent_Matches.md')
@@ -261,6 +272,8 @@ fut_dir_md.new_line("layout: article")
 fut_dir_md.new_line(f"title: Current Projections")
 fut_dir_md.new_line("key: page-projections")
 fut_dir_md.new_line("---")
+
+current_players = make_current_percentile(starters, datetime.datetime.now())
 
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
