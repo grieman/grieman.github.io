@@ -28,18 +28,6 @@ from plot_functions import *
 ## Need to ge the current home advantage? as 5 as of 8/5
 home_advantage = 5
 
-def percentile(group):
-    sz = group.size-1
-    ranks = group.rank(method='max')
-    return 100.0*(ranks-1)/sz
-
-def make_current_percentile(starters, match_date):
-    current_players = starters[starters.Date < match_date]
-    current_players = current_players[current_players.Date >= match_date - datetime.timedelta(days=365)]
-    current_players = current_players[current_players.groupby(['Full Name'])['Date'].transform(max) == current_players['Date']].copy()
-    current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
-    current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
-    return current_players
 
 def elo_contribition(player_df, column):
     mult = np.where(player_df.Number <= 15, (7/8), 0.234)

@@ -7,6 +7,19 @@ import numpy as np
 
 sns.set_style("darkgrid")
 
+def percentile(group):
+    sz = group.size-1
+    ranks = group.rank(method='max')
+    return 100.0*(ranks-1)/sz
+
+def make_current_percentile(starters, match_date):
+    current_players = starters[starters.Date < match_date]
+    current_players = current_players[current_players.Date >= match_date - datetime.timedelta(days=365)]
+    current_players = current_players[current_players.groupby(['Full Name'])['Date'].transform(max) == current_players['Date']].copy()
+    current_players['percentile'] = np.floor(current_players.groupby('Position')['end_elo'].apply(percentile))
+    current_players = current_players[['Full_Name', 'Unicode_ID', 'percentile']]
+    return current_players
+
 def projection_contribution_plot(df, path):
     pos_plotlist = []
     for _, row in df.iterrows():
@@ -61,8 +74,7 @@ def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, aw
     home_pred = np.ma.masked_where(match_events.prediction < 0.5, match_events.prediction)
     away_pred = np.ma.masked_where(match_events.prediction >= 0.5,  match_events.prediction)
     fig, ax = plt.subplots()
-    if home_pred.mask[0] == False:
-        print('home')
+    if match_events.prediction[0] >= 0.5:
         ax.plot(match_events.Time, match_events.prediction, color=home_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=home_color2), pe.Normal()])
     else:
         ax.plot(match_events.Time, match_events.prediction, color=away_color1, lw=3, path_effects=[pe.Stroke(linewidth=5, foreground=away_color2), pe.Normal()])
