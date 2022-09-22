@@ -16,12 +16,6 @@ key: page-recents
 ## Bunnings Warehouse NPC 2023
 
 
-[Taranaki at Tasman; 27.0-38.0](reviews//2022-09-10-Tasman-Taranaki)
-
-[Otago at Wellington; 26.0-32.0](reviews//2022-09-10-Wellington-Otago)
-
-[Northland at Canterbury; 17.0-46.0](reviews//2022-09-11-Canterbury-Northland)
-
 [Southland at Waikato; 24.0-54.0](reviews//2022-09-14-Waikato-Southland)
 
 [Manawatu at Taranaki; 24.0-34.0](reviews//2022-09-16-Taranaki-Manawatu)
@@ -37,3 +31,5 @@ key: page-recents
 [Waikato at Otago; 20.0-27.0](reviews//2022-09-17-Otago-Waikato)
 
 [North Harbour at Northland; 48.0-21.0](reviews//2022-09-18-Northland-NorthHarbour)
+
+[Counties Manukau at Taranaki; 14.0-25.0](reviews//2022-09-21-Taranaki-CountiesManukau)
