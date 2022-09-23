@@ -89,3 +89,23 @@ def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, aw
     plt.savefig(f"reviews/recap_prob_{file_name}.png")
     plt.clf()
     return f'recap_prob_{file_name}.png'
+
+def player_history_plot(player_df, percentile_df):
+    fig, ax = plt.subplots()
+    playername = player_df.Full_Name.iloc[0]
+    player_df['play_position'] = np.where(player_df.Position == 'R', np.nan, player_df.Position)
+    player_df['play_position'] = player_df['play_position'].fillna(method = 'bfill')
+    player_df = player_df.merge(percentile_df, how='left', left_on = ['play_position','year','month'], right_on = ['Position','year','month'])
+    
+    ax.plot(player_df.Date, player_df.elo_mean, color = 'white')
+    ax.plot(player_df.Date, player_df.Percentile_50, color = 'grey')
+    ax.fill_between(player_df.Date, player_df.Percentile_5, player_df.Percentile_95, alpha=0.2, color = 'grey')
+    ax.fill_between(player_df.Date, player_df.Percentile_10, player_df.Percentile_90, alpha=0.2, color = 'grey')
+    ax.fill_between(player_df.Date, player_df.Percentile_25, player_df.Percentile_75, alpha=0.2, color = 'grey')
+
+    for _, sub1 in player_df.groupby('Team'):
+        for _, team_subset in sub1.groupby(sub1.Competition):
+            ax.scatter(team_subset.Date, team_subset.end_elo,c = team_subset.Primary, edgecolors=team_subset.Secondary)
+    
+    plt.savefig(f"playerfiles/history_{playername}.png")
+    plt.clf()

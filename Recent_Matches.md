@@ -33,3 +33,5 @@ key: page-recents
 [North Harbour at Northland; 48.0-21.0](reviews//2022-09-18-Northland-NorthHarbour)
 
 [Counties Manukau at Taranaki; 14.0-25.0](reviews//2022-09-21-Taranaki-CountiesManukau)
+
+[Auckland at Canterbury; 20.0-38.0](reviews//2022-09-23-Canterbury-Auckland)

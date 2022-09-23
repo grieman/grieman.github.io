@@ -36,7 +36,7 @@ New Zealand by 5.9 on a neutral pitch
 | Angus Bell       |      88.37 |                78 |       17 |                95 |     102.2  | Ofa Tu'ungafasi     |
 | Pone Fa'amausili |      81.45 |                57 |       18 |                85 |      92.14 | Nepo Laulala        |
 | Nick Frost       |      72.15 |                10 |       19 |                68 |      84.99 | Tupou Vaa'i         |
-| Fraser McReight  |      84.17 |                63 |       20 |                74 |      89.33 | Hoskins Sotutu      |
+| Fraser McReight  |      84.17 |                62 |       20 |                74 |      89.33 | Hoskins Sotutu      |
 | Nic White        |     122.8  |                99 |       21 |                73 |      89.04 | Finlay Christie     |
 | Reece Hodge      |      87.53 |                66 |       22 |                 4 |      70.55 | Roger Tuivasa-Sheck |
 | Jordan Petaia    |      91.78 |                79 |       23 |                96 |     105.48 | Sevu Reece          |
