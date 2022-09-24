@@ -254,6 +254,10 @@ fut_dir_md.new_line(f"title: Current Projections")
 fut_dir_md.new_line("key: page-projections")
 fut_dir_md.new_line("---")
 
+match_dir_strings = []
+match_comps = []
+match_levels = []
+
 current_players = make_current_percentile(starters, datetime.datetime.now())
 
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
@@ -282,12 +286,12 @@ for future_game in future_games:
 
     # yaml header
     fut_match_md.new_line("HEADERSTART")
-    fut_match_md.new_paragraph("---")
-    fut_match_md.new_paragraph("layout: page")
-    fut_match_md.new_paragraph(f"title: {pretty_name}")
-    fut_match_md.new_paragraph(f"date: {future_game['date']} 18:00:00 -0500")
-    fut_match_md.new_paragraph("categories: match prediction")
-    fut_match_md.new_paragraph("---")
+    fut_match_md.new_line("---")
+    fut_match_md.new_line("layout: page")
+    fut_match_md.new_line(f"title: {pretty_name}")
+    fut_match_md.new_line(f"date: {future_game['date']} 18:00:00 -0500")
+    fut_match_md.new_line("categories: match prediction")
+    fut_match_md.new_line("---")
 
     print(pretty_name)
 
@@ -309,13 +313,43 @@ for future_game in future_games:
     #projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
     #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
+
+    match_dir_strings.append(f'[{score_header}](reviews//{file_name})')
+    match_comps.append(recent_game['competition'])
+    match_levels.append(recent_game['comp_level'])
+
     fut_match_md.create_md_file()
 
-    fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')
+    #fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')
 
     ## quick and dirty remove empty leading lines
     clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
 
+
+dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels})
+dir_int = dir_df[dir_df.levels == 'International']
+dir_pro = dir_df[dir_df.levels == 'Pro']
+dir_dom = dir_df[dir_df.levels == 'Domestic']
+if dir_int.shape[0] > 0:
+    fut_dir_md.new_header(level = 1, title = 'International Matches')
+    for comp in sorted(dir_int.comps.unique()):
+        fut_dir_md.new_header(level = 2, title = comp)
+        for _, row in dir_int[dir_int.comps == comp].iterrows():
+            fut_dir_md.new_paragraph(row[0])
+
+if dir_pro.shape[0] > 0:
+    fut_dir_md.new_header(level = 1, title = 'Professional Leagues')
+    for comp in sorted(dir_pro.comps.unique()):
+        fut_dir_md.new_header(level = 2, title = comp)
+        for _, row in dir_pro[dir_pro.comps == comp].iterrows():
+            fut_dir_md.new_paragraph(row[0])
+
+if dir_dom.shape[0] > 0:
+    fut_dir_md.new_header(level = 1, title = 'Domestic Leagues')
+    for comp in sorted(dir_dom.comps.unique()):
+        fut_dir_md.new_header(level = 2, title = comp)
+        for _, row in dir_dom[dir_dom.comps == comp].iterrows():
+            fut_dir_md.new_paragraph(row[0])
 fut_dir_md.create_md_file()
 clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 

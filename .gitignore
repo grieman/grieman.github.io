@@ -28,3 +28,4 @@ _site/
 
 secrets.yml
 temp/
+site_resources/__pycache__
