@@ -5,7 +5,8 @@ import matplotlib.patheffects as pe
 import numpy as np
 import datetime
 import pandas as pd
-
+import matplotlib.patches as mpatches
+import matplotlib.lines as mlines
 
 sns.set_style("darkgrid")
 
@@ -90,11 +91,13 @@ def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, aw
     plt.clf()
     return f'recap_prob_{file_name}.png'
 
-def player_history_plot(player_df, percentile_df):
+def player_history_plot(player_df):
     fig, ax = plt.subplots()
     playername = player_df.Full_Name.iloc[0]
     player_df['play_position'] = np.where(player_df.Position == 'R', np.nan, player_df.Position)
     player_df['play_position'] = player_df['play_position'].fillna(method = 'bfill')
+    player_df['play_position'] = player_df['play_position'].fillna(method = 'ffill')
+
     player_df = player_df.merge(percentile_df, how='left', left_on = ['play_position','year','month'], right_on = ['Position','year','month'])
     
     ax.plot(player_df.Date, player_df.elo_mean, color = 'white')
@@ -106,6 +109,16 @@ def player_history_plot(player_df, percentile_df):
     for _, sub1 in player_df.groupby('Team'):
         for _, team_subset in sub1.groupby(sub1.Competition):
             ax.scatter(team_subset.Date, team_subset.end_elo,c = team_subset.Primary, edgecolors=team_subset.Secondary)
-    
+    plt.title(f'{playername}: elo History')
+    ax.set_ylabel('elo score')
+
+    # Creating legend with color box
+    Interval50 = mpatches.Patch(color='grey', label='50% elo Interval', alpha = 0.6)
+    Interval80 = mpatches.Patch(color='grey', label='80% elo Interval', alpha = 0.4)
+    Interval95 = mpatches.Patch(color='grey', label='95% elo Interval', alpha = 0.2)
+    point = mlines.Line2D([0], [0], marker='o', color='w', label='Post Match elo',
+                      markerfacecolor='black', markersize=10, ls = '')
+    plt.legend(handles=[Interval50, Interval80, Interval95, point])
+
     plt.savefig(f"playerfiles/history_{playername}.png")
     plt.clf()
