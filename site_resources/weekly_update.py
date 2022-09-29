@@ -218,7 +218,7 @@ for recent_game in recent_games:
 
 dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels})
 dir_int = dir_df[dir_df.levels == 'International']
-dir_pro = dir_df[dir_df.levels == 'Pro']
+dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
 dir_dom = dir_df[dir_df.levels == 'Domestic']
 if dir_int.shape[0] > 0:
     rec_dir_md.new_header(level = 1, title = 'International Matches')
@@ -328,7 +328,7 @@ for future_game in future_games:
 
 dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels})
 dir_int = dir_df[dir_df.levels == 'International']
-dir_pro = dir_df[dir_df.levels == 'Pro']
+dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
 dir_dom = dir_df[dir_df.levels == 'Domestic']
 if dir_int.shape[0] > 0:
     fut_dir_md.new_header(level = 1, title = 'International Matches')
