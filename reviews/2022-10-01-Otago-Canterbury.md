@@ -4,10 +4,10 @@ title: Canterbury at Otago; 27.0-21.0
 date: 2022-10-01 02:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Canterbury by 2.5
+# Prediction: Canterbury by 0.8
 
 
-Canterbury by 7.5 on a neutral field
+Canterbury by 5.8 on a neutral field
 ## Scores over Time
 
 
@@ -16,32 +16,37 @@ Canterbury by 7.5 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-01-Otago-Canterbury.png)
-# Pre-Match Prediction: Canterbury by 1.6
+# Pre-Match Prediction: Canterbury by 0.2
 
 
-Canterbury by 6.6 on a neutral pitch
+Canterbury by 5.2 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
-|---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             56 | Tamaiti Williams   |      82.97 |                59 |        1 |                63 |      83.58 | Abraham Pole         |             67 |
-|             56 | Brodie McAlister   |      93.01 |                87 |        2 |                54 |      81.67 | Henry Bell           |             80 |
-|             67 | Oli Jager          |      93.63 |                87 |        3 |                40 |      79.71 | Jermaine Ainsley     |             67 |
-|             51 | Luke Romano        |      89.93 |                79 |        4 |                77 |      89.54 | Fabian Holland       |             80 |
-|             80 | Zach Gallagher     |      83.15 |                61 |        5 |                67 |      84.34 | William Tucker       |             46 |
-|             46 | Dom Gardiner       |      82.62 |                60 |        6 |                75 |      88.18 | Oliver Haig          |             67 |
-|             80 | Tom Christie       |      98.47 |                90 |        7 |                63 |      84.05 | James Lentjes        |             80 |
-|             80 | Billy Harmon       |      86.01 |                69 |        8 |                43 |      80.99 | Christian Lio-Willie |             67 |
-|             61 | Fergus Burke       |      81.32 |                46 |       10 |                63 |      85.74 | Cameron Millar       |             80 |
-|             80 | George Bridge      |     108.88 |                97 |       11 |                78 |      90.15 | Jona Nareki          |             67 |
-|             80 | Rameka Poihipi     |      81.55 |                47 |       12 |                11 |      74.97 | Josh Ioane           |             80 |
-|             80 | Braydon Ennor      |      84.61 |                60 |       13 |                 9 |      73.79 | Josh Timu            |             61 |
-|             80 | Manasa Mataele     |      88.36 |                73 |       14 |                58 |      82.33 | Freedom Vahaakolo    |             80 |
-|             66 | Chay Fihaki        |      92.05 |                76 |       15 |                63 |      86.26 | Sam Gilbert          |             80 |
-|             24 | Finlay Brewis      |      87.01 |                72 |       17 |                56 |      81.79 | Tau Koloamatangi     |             13 |
-|             29 | Sam Darry          |      80.5  |                45 |       19 |                66 |      84.28 | Josh Dickson         |             34 |
-|             34 | Reed Prinsep       |      93.22 |                85 |       20 |                60 |      83.04 | Sean Withy           |             26 |
-|             19 | Dallas McLeod      |      89.38 |                74 |       22 |                21 |      77.19 | Ray Nu'u             |             19 |
-|             14 | Ngatungane Punivai |      84.25 |                63 |       23 |                59 |      84.17 | Mitchell Scott       |             13 |
+|   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
+|---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
+|             56 | Tamaiti Williams   |      82.11 |                57 |        1 |                83 |      88.34 | Abraham Pole           |             67 |
+|             56 | Brodie McAlister   |      91.41 |                87 |        2 |                65 |      83.18 | Henry Bell             |             80 |
+|             67 | Oli Jager          |      93.51 |                90 |        3 |                40 |      79.44 | Jermaine Ainsley       |             67 |
+|             51 | Luke Romano        |      89.19 |                81 |        4 |                80 |      89.43 | Fabian Holland         |             80 |
+|             80 | Zach Gallagher     |      84.06 |                64 |        5 |                69 |      85.07 | William Tucker         |             46 |
+|             46 | Dom Gardiner       |      89.82 |                82 |        6 |                80 |      88.27 | Oliver Haig            |             67 |
+|             80 | Tom Christie       |      99.16 |                92 |        7 |                78 |      87.69 | James Lentjes          |             80 |
+|             80 | Billy Harmon       |      85.24 |                73 |        8 |                34 |      78.42 | Christian Lio-Willie   |             67 |
+|             50 | Joel Lam           |      80    |               nan |        9 |                90 |      95.79 | Kemara Hauiti-Parapara |             50 |
+|             61 | Fergus Burke       |      82.6  |                58 |       10 |                71 |      87.01 | Cameron Millar         |             80 |
+|             80 | George Bridge      |     109.98 |                98 |       11 |                85 |      92.53 | Jona Nareki            |             67 |
+|             80 | Rameka Poihipi     |      80.38 |                43 |       12 |                26 |      77.82 | Josh Ioane             |             80 |
+|             80 | Braydon Ennor      |      85.16 |                65 |       13 |                14 |      74.43 | Josh Timu              |             61 |
+|             80 | Manasa Mataele     |      91.28 |                84 |       14 |                63 |      82.89 | Freedom Vahaakolo      |             80 |
+|             66 | Chay Fihaki        |      95.26 |                87 |       15 |                79 |      91.79 | Sam Gilbert            |             80 |
+|             24 | George Bell        |      81.93 |                56 |       16 |               nan |      80.27 | Brady Robertson        |              0 |
+|             24 | Finlay Brewis      |      88.7  |                82 |       17 |                70 |      84.09 | Tau Koloamatangi       |             13 |
+|             13 | Seb Calder         |      82.15 |               nan |       18 |                70 |      86.29 | Josh Hohneck           |             13 |
+|             29 | Sam Darry          |      81.88 |                54 |       19 |                77 |      88.73 | Josh Dickson           |             34 |
+|             34 | Reed Prinsep       |     101.89 |                94 |       20 |                70 |      84.34 | Sean Withy             |             26 |
+|             34 | Reed Prinsep       |     101.89 |                94 |       20 |                70 |      84.34 | Sean Withy             |             26 |
+|             30 | Mitchell Drummond  |      79.14 |                41 |       21 |               nan |      80.95 | Kieran McClea          |             30 |
+|             19 | Dallas McLeod      |      88.64 |                76 |       22 |                38 |      79.33 | Ray Nu'u               |             19 |
+|             14 | Ngatungane Punivai |      74.79 |                13 |       23 |                63 |      84.85 | Mitchell Scott         |             13 |
 

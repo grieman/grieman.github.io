@@ -5,28 +5,18 @@ key: page-recents
 ---
 # International Matches
 
-## Rugby Championship 2022
+## Women's Rugby World Cup 2022
 
 
-[Australia at New Zealand; 14.0-40.0](reviews//2022-09-24-NewZealand-Australia)
+[France Women at South Africa Women; 40.0-5.0](reviews//2022-10-07-SouthAfricaWomen-FranceWomen)
 
-[Argentina at South Africa; 21.0-38.0](reviews//2022-09-24-SouthAfrica-Argentina)
+[England Women at Fiji Women; 84.0-19.0](reviews//2022-10-07-FijiWomen-EnglandWomen)
+
+[New Zealand Women at Australia Women; 41.0-17.0](reviews//2022-10-08-AustraliaWomen-NewZealandWomen)
 # Professional Leagues
 
 ## Gallagher Premiership 2023
 
-
-[Wasps at Bath Rugby; 39.0-31.0](reviews//2022-09-23-BathRugby-Wasps)
-
-[London Irish at Bristol Rugby; 36.0-40.0](reviews//2022-09-24-BristolRugby-LondonIrish)
-
-[Leicester Tigers at Northampton Saints; 41.0-21.0](reviews//2022-09-24-NorthamptonSaints-LeicesterTigers)
-
-[Gloucester Rugby at Saracens; 39.0-41.0](reviews//2022-09-24-Saracens-GloucesterRugby)
-
-[Newcastle Falcons at Worcester Warriors; 5.0-39.0](reviews//2022-09-24-WorcesterWarriors-NewcastleFalcons)
-
-[Harlequins at Exeter Chiefs; 42.0-43.0](reviews//2022-09-25-ExeterChiefs-Harlequins)
 
 [Bristol Rugby at Newcastle Falcons; 15.0-30.0](reviews//2022-09-30-NewcastleFalcons-BristolRugby)
 
@@ -37,24 +27,72 @@ key: page-recents
 [Leicester Tigers at Saracens; 18.0-51.0](reviews//2022-10-01-Saracens-LeicesterTigers)
 
 [Northampton Saints at Harlequins; 29.0-35.0](reviews//2022-10-02-Harlequins-NorthamptonSaints)
+
+[Exeter Chiefs at Bristol Rugby; 50.0-14.0](reviews//2022-10-07-BristolRugby-ExeterChiefs)
+
+[Gloucester Rugby at Bath Rugby; 21.0-17.0](reviews//2022-10-08-BathRugby-GloucesterRugby)
+
+[Sale Sharks at Leicester Tigers; 26.0-16.0](reviews//2022-10-08-LeicesterTigers-SaleSharks)
+## Pro D2 2022
+
+
+[Biarritz Olympique at Montauban; 46-32](reviews//2022-10-06-Montauban-BiarritzOlympique)
+
+[Colomiers at Beziers; 20-17](reviews//2022-10-07-Beziers-Colomiers)
+
+[Aurillac at Agen; 20-43](reviews//2022-10-07-Agen-Aurillac)
+
+[Massy at Carcassonne; 20-17](reviews//2022-10-07-Carcassonne-Massy)
+
+[Soyaux-Angouleme at Mont de Marsan; 26-34](reviews//2022-10-07-MontdeMarsan-Soyaux-Angouleme)
+
+[Rouen at Nevers; 17-27](reviews//2022-10-07-Nevers-Rouen)
+
+[Grenoble at Vannes; 10-26](reviews//2022-10-07-Vannes-Grenoble)
+
+[Oyonnax at Provence Rugby; 19-19](reviews//2022-10-07-ProvenceRugby-Oyonnax)
+## RFU Championship 2022
+
+
+[Cornish Pirates at Jersey; 10-21](reviews//2022-09-30-Jersey-CornishPirates)
+
+[Doncaster at Nottingham; 15-30](reviews//2022-09-30-Nottingham-Doncaster)
+
+[London Scottish at Ampthill; 7-59](reviews//2022-10-01-Ampthill-LondonScottish)
+
+[Caldy at Bedford; 29-52](reviews//2022-10-01-Bedford-Caldy)
+
+[Ealing Trailfinders at Coventry; 50-5](reviews//2022-10-01-Coventry-EalingTrailfinders)
+
+[Hartpury College at Richmond; 15-19](reviews//2022-10-01-Richmond-HartpuryCollege)
+## Top 14 Orange 2022
+
+
+[Stade Francais Paris at Bordeaux Begles; 10-15](reviews//2022-10-01-BordeauxBegles-StadeFrancaisParis)
+
+[Bayonne at Brive; 22-25](reviews//2022-10-01-Brive-Bayonne)
+
+[Lyon at Clermont Auvergne; 20-43](reviews//2022-10-01-ClermontAuvergne-Lyon)
+
+[Toulon at Pau; 34-17](reviews//2022-10-01-Pau-Toulon)
+
+[Castres Olympique at Perpignan; 10-14](reviews//2022-10-01-Perpignan-CastresOlympique)
+
+[Racing 92 at La Rochelle; 19-24](reviews//2022-10-01-LaRochelle-Racing92)
+
+[Stade Toulousain at Montpellier Herault; 19-17](reviews//2022-10-02-MontpellierHerault-StadeToulousain)
+## United Rugby Championship 2022
+
+
+[Lions at Cardiff Blues; 31-18](reviews//2022-09-30-CardiffBlues-Lions)
+
+[Glasgow Warriors at Ospreys; 17-32](reviews//2022-10-01-Ospreys-GlasgowWarriors)
+
+[Sharks at Dragons; 20-19](reviews//2022-10-01-Dragons-Sharks)
 # Domestic Leagues
 
 ## Bunnings Warehouse NPC 2023
 
-
-[Hawke's Bay at Bay of Plenty; 14.0-20.0](reviews//2022-09-23-BayofPlenty-Hawke'sBay)
-
-[Northland at Tasman; 17.0-52.0](reviews//2022-09-23-Tasman-Northland)
-
-[Waikato at Wellington; 6.0-34.0](reviews//2022-09-24-Wellington-Waikato)
-
-[Otago at Manawatu; 54.0-35.0](reviews//2022-09-24-Manawatu-Otago)
-
-[Taranaki at North Harbour; 19.0-35.0](reviews//2022-09-24-NorthHarbour-Taranaki)
-
-[Counties Manukau at Southland; 26.0-30.0](reviews//2022-09-24-Southland-CountiesManukau)
-
-[Northland at Bay of Plenty; 23.0-21.0](reviews//2022-09-27-BayofPlenty-Northland)
 
 [Tasman at Hawke's Bay; 17.0-25.0](reviews//2022-09-30-Hawke'sBay-Tasman)
 
@@ -69,3 +107,9 @@ key: page-recents
 [Manawatu at Northland; 24.0-41.0](reviews//2022-10-01-Northland-Manawatu)
 
 [Bay of Plenty at Waikato; 34.0-35.0](reviews//2022-10-01-Waikato-BayofPlenty)
+
+[Auckland at North Harbour; 21.0-18.0](reviews//2022-10-07-NorthHarbour-Auckland)
+
+[Hawke's Bay at Wellington; 21.0-28.0](reviews//2022-10-07-Wellington-Hawke'sBay)
+
+[Northland at Canterbury; 16.0-23.0](reviews//2022-10-07-Canterbury-Northland)

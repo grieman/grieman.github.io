@@ -119,23 +119,30 @@ for recent_game in recent_games:
     print(pretty_name)
 
     # team colors
-    home_color1 = team_colors[team_colors.Team == recent_game["home_team_name"]].Primary.iloc[0]
-    home_color2 = team_colors[team_colors.Team == recent_game["home_team_name"]].Secondary.iloc[0]
-    away_color1 = team_colors[team_colors.Team == recent_game["away_team_name"]].Primary.iloc[0]
-    away_color2 = team_colors[team_colors.Team == recent_game["away_team_name"]].Secondary.iloc[0]
+    if (recent_game["home_team_name"] in set(team_colors.Team)) & (recent_game["away_team_name"] in set(team_colors.Team)):
+        home_color1 = team_colors[team_colors.Team == recent_game["home_team_name"]].Primary.iloc[0]
+        home_color2 = team_colors[team_colors.Team == recent_game["home_team_name"]].Secondary.iloc[0]
+        away_color1 = team_colors[team_colors.Team == recent_game["away_team_name"]].Primary.iloc[0]
+        away_color2 = team_colors[team_colors.Team == recent_game["away_team_name"]].Secondary.iloc[0]
+    else:
+        print("NEED TEAM COLORS")
+        home_color1 = 'black'
+        home_color2 = 'black'
+        away_color1 = 'white'
+        away_color2 = 'white'
 
     ## Match Lineups
     home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
-    home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
+    home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
     home_team = home_team.drop(['Unicode_ID'], axis = 1)
     away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
-    away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
+    away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
     away_team = away_team.drop(['Unicode_ID'], axis = 1)
 
     home_team.columns = ['Number', 'Home Player', 'Home Minutes', 'Home elo', 'Home Percentile']
     away_team.columns = ['Number', 'Away Player', 'Away Minutes', 'Away elo', 'Away Percentile']
 
-    all_players = pd.merge(home_team, away_team)
+    all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
     all_players = all_players.sort_values('Number')
     all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
     all_players = all_players[['Away Minutes', 'Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player', 'Home Minutes']]
@@ -180,7 +187,10 @@ for recent_game in recent_games:
         pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
         pred_plot.figure.clf()'''
         prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
+        plt.close()
         score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
+        plt.close()
+
 
         rec_match_md.new_header(level = 2, title = 'Scores over Time')
         rec_match_md.new_paragraph(f"![In Match Scores]({score_path})")
@@ -273,7 +283,7 @@ for future_game in future_games:
     home_team.columns = ['Number', 'Home Player', 'Home elo', 'Home Percentile']
     away_team.columns = ['Number', 'Away Player', 'Away elo', 'Away Percentile']
 
-    all_players = pd.merge(home_team, away_team)
+    all_players = pd.merge(home_team, away_team, on = 'Number')
     all_players = all_players.sort_values('Number')
     all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
     all_players = all_players[['Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player']]
