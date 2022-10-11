@@ -4,10 +4,10 @@ title: Oyonnax at Provence Rugby; 19-19
 date: 2022-10-07 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Provence Rugby by 5.5
+# Prediction: Provence Rugby by 3.2
 
 
-Provence Rugby by 0.5 on a neutral field
+Oyonnax by 1.8 on a neutral field
 ## Scores over Time
 
 
@@ -16,35 +16,35 @@ Provence Rugby by 0.5 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-07-ProvenceRugby-Oyonnax.png)
-# Pre-Match Prediction: Provence Rugby by 8.8
+# Pre-Match Prediction: Oyonnax by 5.9
 
 
-Provence Rugby by 3.8 on a neutral pitch
+Provence Rugby by 0.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             52 | Tommy Raynaud           |      72.06 |                 8 |        1 |                75 |      85.73 | Federico Wegrzyn   |             50 |
-|             68 | Teddy Durand            |      75.85 |                17 |        2 |                 3 |      69.97 | German Kessler     |             53 |
-|             60 | Thomas Laclayat         |      84.71 |                71 |        3 |                56 |      81.43 | Luke Tagi          |             56 |
-|             80 | Phoenix Battye          |     110.17 |                97 |        4 |                80 |      89.4  | Jérôme Dufour      |             80 |
-|             56 | Hugo Fabregue           |      85.63 |                67 |        5 |                90 |      97.32 | Kane Douglas       |             50 |
-|             80 | Kevin Lebreton          |      79.92 |                45 |        6 |                56 |      81.64 | Guillaume Piazzoli |             27 |
-|             56 | Loïc Credoz             |      69.43 |                 4 |        7 |                 5 |      69.96 | Bilel Taieb        |             80 |
-|             80 | Rory Grice              |     101.85 |                92 |        8 |                40 |      79.48 | Carl Axtens        |             80 |
-|             80 | Yvan David              |      79.93 |               nan |        9 |                93 |     100.27 | Jonathan Ruru      |             80 |
-|             80 | Jules Soulan            |      82.04 |                55 |       10 |                85 |      94.72 | Enzo Selponi       |             80 |
-|             80 | Aurelien Callandret     |      85.76 |                71 |       11 |                37 |      78.84 | Lester Etien       |             80 |
-|             60 | Taylor Paris            |      73.41 |                12 |       12 |                78 |      89.27 | Louis Marrou       |             80 |
-|             80 | Pedro Bettencourt Avila |      76.48 |                20 |       13 |                75 |      87.96 | Alivereti Raka     |             69 |
-|             80 | Darren Sweetnam         |      87.13 |                64 |       14 |                73 |      86.66 | Nadir Bouhedjeur   |             80 |
-|             80 | Tony Ensor              |      74.44 |                13 |       15 |                65 |      85.59 | Florent Massip     |             80 |
-|             28 | Adrien Bordenave        |      61.06 |                 1 |       16 |                33 |      78.56 | Charles Malet      |             23 |
-|             24 | Steve Mafi              |      72.14 |                12 |       17 |                 1 |      65.55 | Julius Nostadt     |             30 |
-|             24 | Denis Marchois          |     115.34 |                98 |       18 |                 0 |      52.9  | Jessy Jegerlehner  |             30 |
-|             12 | Benjamin Geledan        |      77.81 |                24 |       19 |                18 |      75.23 | Clément Chartier   |             30 |
-|             20 | Thibault Berthaud       |      70.85 |                 5 |       20 |                24 |      77.39 | Lucas Martin       |             27 |
-|             20 | Gaby Lovobalavu         |      82.15 |                52 |       21 |                 1 |      62.25 | David Lolohea      |             24 |
-|             80 | Solomone Kata           |      -2.97 |                 0 |       22 |                32 |      78.15 | Hugo Navizet       |             11 |
+|             52 | Tommy Raynaud           |      97.16 |                69 |        1 |                40 |      82.36 | Federico Wegrzyn   |             50 |
+|             68 | Teddy Durand            |      78.2  |                13 |        2 |                64 |      96.09 | German Kessler     |             53 |
+|             60 | Thomas Laclayat         |     104.37 |                83 |        3 |                27 |      79.46 | Luke Tagi          |             56 |
+|             80 | Phoenix Battye          |     111.88 |                91 |        4 |                55 |      90.47 | Jérôme Dufour      |             80 |
+|             56 | Hugo Fabregue           |      97.97 |                68 |        5 |                92 |     113.33 | Kane Douglas       |             50 |
+|             80 | Kevin Lebreton          |      92.21 |                64 |        6 |                49 |      83.17 | Guillaume Piazzoli |             27 |
+|             56 | Loïc Credoz             |      73.24 |                 3 |        7 |                51 |      84.23 | Bilel Taieb        |             80 |
+|             80 | Rory Grice              |     111.45 |                90 |        8 |                59 |      94.78 | Carl Axtens        |             80 |
+|             80 | Yvan David              |      79.92 |               nan |        9 |                96 |     117.41 | Jonathan Ruru      |             80 |
+|             80 | Jules Soulan            |      87.37 |                51 |       10 |                79 |     104.41 | Enzo Selponi       |             80 |
+|             80 | Aurelien Callandret     |      83.57 |                49 |       11 |                33 |      80.45 | Lester Etien       |             80 |
+|             60 | Taylor Paris            |      98.06 |                66 |       12 |                72 |     101.27 | Louis Marrou       |             80 |
+|             80 | Pedro Bettencourt Avila |      88.13 |                49 |       13 |                73 |     101.49 | Alivereti Raka     |             69 |
+|             80 | Darren Sweetnam         |     104.57 |                78 |       14 |                38 |      81.18 | Nadir Bouhedjeur   |             80 |
+|             80 | Tony Ensor              |      87.58 |                50 |       15 |                53 |      89.33 | Florent Massip     |             80 |
+|             28 | Adrien Bordenave        |      78.01 |                15 |       16 |                73 |     100.56 | Charles Malet      |             23 |
+|             24 | Steve Mafi              |      88.08 |                50 |       17 |                53 |      85.67 | Julius Nostadt     |             30 |
+|             24 | Denis Marchois          |     124.75 |                98 |       18 |                25 |      79.37 | Jessy Jegerlehner  |             30 |
+|             12 | Benjamin Geledan        |      88.27 |                47 |       19 |                47 |      86.23 | Clément Chartier   |             30 |
+|             20 | Thibault Berthaud       |      78.44 |                14 |       20 |                 5 |      76.04 | Lucas Martin       |             27 |
+|             20 | Gaby Lovobalavu         |      96.35 |                63 |       21 |                 5 |      75.92 | David Lolohea      |             24 |
+|             80 | Solomone Kata           |       5.05 |                 0 |       22 |                17 |      78.5  | Hugo Navizet       |             11 |
 

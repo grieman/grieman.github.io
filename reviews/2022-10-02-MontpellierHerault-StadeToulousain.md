@@ -4,10 +4,10 @@ title: Stade Toulousain at Montpellier Herault; 19-17
 date: 2022-10-02 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Montpellier Herault by 11.5
+# Prediction: Montpellier Herault by 18.4
 
 
-Montpellier Herault by 6.5 on a neutral field
+Montpellier Herault by 13.4 on a neutral field
 ## Scores over Time
 
 
@@ -16,38 +16,38 @@ Montpellier Herault by 6.5 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-02-MontpellierHerault-StadeToulousain.png)
-# Pre-Match Prediction: Montpellier Herault by 4.9
+# Pre-Match Prediction: Montpellier Herault by 10.6
 
 
-Stade Toulousain by 0.1 on a neutral pitch
+Montpellier Herault by 5.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             46 | David Ainu'u       |      75.62 |                15 |        1 |                94 |      97.04 | Enzo Forletta               |             50 |
-|             60 | Guillaume Marchand |      81.63 |                52 |        2 |                95 |     100.21 | Brandon Paenga-Amosa        |             76 |
-|             33 | Charlie Faumuina   |     132.24 |               100 |        3 |                65 |      84.25 | Mohamed Haouas              |             50 |
-|             80 | Joshua Brennan     |      78.68 |                40 |        4 |                89 |      96.04 | Florian Verhaeghe           |             80 |
-|             33 | Thibaud Flament    |     103.87 |                95 |        5 |                84 |      91.05 | Masivesi Dakuwaqa           |             80 |
-|             46 | Yannick Youyoutte  |      79.41 |                41 |        6 |                82 |      89.62 | Jacques du Plessis          |             50 |
-|             60 | Rynhardt Elstadt   |      91.75 |                85 |        7 |                52 |      81.25 | Alexandre Becognee          |             76 |
-|             80 | Selevasio Tolofua  |      88.61 |                76 |        8 |                79 |      90    | Zach Mercer                 |             80 |
-|             80 | Arthur Retiere     |      76.83 |                23 |        9 |                84 |      92.05 | Léo Coly                    |             61 |
-|             60 | Edgar Retiere      |      80    |               nan |       10 |                72 |      87.54 | Louis Carbonel              |             80 |
-|             80 | Matthis Lebel      |      98.01 |                91 |       11 |                83 |      90.74 | Gabriel Ngandebe            |             80 |
-|             80 | Matthis Lebel      |      98.01 |                91 |       11 |                81 |      90.74 | Gabriel Ngandebe            |             80 |
-|             66 | George Tilsley     |      75.12 |                16 |       12 |                83 |      92.7  | Paolo Garbisi               |             80 |
-|             80 | Dimitri Delibes    |      80.7  |                44 |       13 |                15 |      74.7  | Thomas Darmon               |             80 |
-|             80 | Arthur Bonneval    |      76.01 |                18 |       14 |                83 |      90.74 | Gabriel Ngandebe            |             80 |
-|             80 | Arthur Bonneval    |      76.01 |                18 |       14 |                81 |      90.74 | Gabriel Ngandebe            |             80 |
-|             80 | Melvyn Jaminet     |      93.54 |                84 |       15 |                93 |     101.79 | Anthony Bouthier            |             80 |
-|             47 | Emmanuel Meafou    |      86.35 |                71 |       16 |                44 |      80.54 | Titi Lamositele             |             30 |
-|             47 | Dorian Aldegheri   |      96.76 |                93 |       17 |                86 |      94.97 | Nicolaas Janse van Rensburg |             30 |
-|             34 | Pierre Bochaton    |      98.94 |                91 |       18 |                73 |      85.48 | Simon-Pierre Chauvac        |             30 |
-|             34 | Maxime Duprat      |      80.42 |                42 |       19 |                83 |      91.04 | Gela Aprasidze              |             19 |
-|             20 | Thomas Ramos       |     103.17 |                92 |       20 |                61 |      81.91 | Vincent Giudicelli          |              4 |
-|             20 | Theo Ntamack       |      80.84 |               nan |       21 |                66 |      84.65 | Marco Tauleigne             |              4 |
-|             20 | Guillaume Cramont  |      78.49 |                43 |       22 |                 0 |       2.28 | Solomone Kata               |             80 |
-|             14 | Martin Page-Relo   |      80.78 |                48 |       23 |                 0 |       2.28 | Solomone Kata               |             80 |
+|             46 | David Ainu'u       |      74.83 |                 4 |        1 |                92 |     110.89 | Enzo Forletta               |             50 |
+|             60 | Guillaume Marchand |     101.29 |                73 |        2 |                93 |     112.47 | Brandon Paenga-Amosa        |             76 |
+|             33 | Charlie Faumuina   |     134.25 |               100 |        3 |                77 |     100.84 | Mohamed Haouas              |             50 |
+|             80 | Joshua Brennan     |      79.25 |                20 |        4 |                91 |     112.54 | Florian Verhaeghe           |             80 |
+|             33 | Thibaud Flament    |     115.9  |                93 |        5 |                86 |     106.61 | Masivesi Dakuwaqa           |             80 |
+|             46 | Yannick Youyoutte  |      78.4  |                19 |        6 |                74 |      97.82 | Jacques du Plessis          |             50 |
+|             60 | Rynhardt Elstadt   |     112.65 |                91 |        7 |                69 |      95.76 | Alexandre Becognee          |             76 |
+|             80 | Selevasio Tolofua  |     109.21 |                87 |        8 |                91 |     112.76 | Zach Mercer                 |             80 |
+|             80 | Arthur Retiere     |      93.67 |                67 |        9 |                58 |      90.94 | Léo Coly                    |             61 |
+|             60 | Edgar Retiere      |      80    |               nan |       10 |                72 |      99.56 | Louis Carbonel              |             80 |
+|             80 | Matthis Lebel      |      92.92 |                66 |       11 |                80 |     100.83 | Gabriel Ngandebe            |             80 |
+|             80 | Matthis Lebel      |      92.92 |                66 |       11 |                79 |     100.83 | Gabriel Ngandebe            |             80 |
+|             66 | George Tilsley     |      93.32 |                66 |       12 |                52 |      89.89 | Paolo Garbisi               |             80 |
+|             80 | Dimitri Delibes    |      82.27 |                35 |       13 |                56 |      92.65 | Thomas Darmon               |             80 |
+|             80 | Arthur Bonneval    |      92.62 |                65 |       14 |                80 |     100.83 | Gabriel Ngandebe            |             80 |
+|             80 | Arthur Bonneval    |      92.62 |                65 |       14 |                79 |     100.83 | Gabriel Ngandebe            |             80 |
+|             80 | Melvyn Jaminet     |      95.24 |                61 |       15 |                92 |     112.5  | Anthony Bouthier            |             80 |
+|             47 | Emmanuel Meafou    |      91.12 |                56 |       16 |                59 |      90.46 | Titi Lamositele             |             30 |
+|             47 | Dorian Aldegheri   |     111.92 |                92 |       17 |                82 |     105.87 | Nicolaas Janse van Rensburg |             30 |
+|             34 | Pierre Bochaton    |     115.52 |                94 |       18 |                86 |     106.65 | Simon-Pierre Chauvac        |             30 |
+|             34 | Maxime Duprat      |      82.97 |                41 |       19 |                88 |     110    | Gela Aprasidze              |             19 |
+|             20 | Thomas Ramos       |     118.23 |                94 |       20 |                62 |      95.6  | Vincent Giudicelli          |              4 |
+|             20 | Theo Ntamack       |      80.84 |               nan |       21 |                81 |     104.22 | Marco Tauleigne             |              4 |
+|             20 | Guillaume Cramont  |      83.28 |                41 |       22 |                 0 |       8.97 | Solomone Kata               |             80 |
+|             14 | Martin Page-Relo   |      83.64 |                44 |       23 |                 0 |       8.97 | Solomone Kata               |             80 |
 

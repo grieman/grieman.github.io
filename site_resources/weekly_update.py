@@ -107,126 +107,130 @@ rec_dir_md.new_line("---")
 match_dir_strings = []
 match_comps = []
 match_levels = []
+match_dates = []
 
 recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=10)]
 for recent_game in recent_games:
-    
-    current_players = make_current_percentile(starters, recent_game['date'])
-    pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
-    file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
-    score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
-    main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
-    print(pretty_name)
+    if 'away_score' in recent_game.keys():
+        
+        current_players = make_current_percentile(starters, recent_game['date'])
+        pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
+        file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
+        score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
+        main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
+        print(pretty_name)
 
-    # team colors
-    if (recent_game["home_team_name"] in set(team_colors.Team)) & (recent_game["away_team_name"] in set(team_colors.Team)):
-        home_color1 = team_colors[team_colors.Team == recent_game["home_team_name"]].Primary.iloc[0]
-        home_color2 = team_colors[team_colors.Team == recent_game["home_team_name"]].Secondary.iloc[0]
-        away_color1 = team_colors[team_colors.Team == recent_game["away_team_name"]].Primary.iloc[0]
-        away_color2 = team_colors[team_colors.Team == recent_game["away_team_name"]].Secondary.iloc[0]
-    else:
-        print("NEED TEAM COLORS")
-        home_color1 = 'black'
-        home_color2 = 'black'
-        away_color1 = 'white'
-        away_color2 = 'white'
+        # team colors
+        if (recent_game["home_team_name"] in set(team_colors.Team)) & (recent_game["away_team_name"] in set(team_colors.Team)):
+            home_color1 = team_colors[team_colors.Team == recent_game["home_team_name"]].Primary.iloc[0]
+            home_color2 = team_colors[team_colors.Team == recent_game["home_team_name"]].Secondary.iloc[0]
+            away_color1 = team_colors[team_colors.Team == recent_game["away_team_name"]].Primary.iloc[0]
+            away_color2 = team_colors[team_colors.Team == recent_game["away_team_name"]].Secondary.iloc[0]
+        else:
+            print("NEED TEAM COLORS")
+            home_color1 = 'black'
+            home_color2 = 'black'
+            away_color1 = 'white'
+            away_color2 = 'white'
 
-    ## Match Lineups
-    home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
-    home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
-    home_team = home_team.drop(['Unicode_ID'], axis = 1)
-    away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
-    away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
-    away_team = away_team.drop(['Unicode_ID'], axis = 1)
+        ## Match Lineups
+        home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
+        home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
+        home_team = home_team.drop(['Unicode_ID'], axis = 1)
+        away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
+        away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
+        away_team = away_team.drop(['Unicode_ID'], axis = 1)
 
-    home_team.columns = ['Number', 'Home Player', 'Home Minutes', 'Home elo', 'Home Percentile']
-    away_team.columns = ['Number', 'Away Player', 'Away Minutes', 'Away elo', 'Away Percentile']
+        home_team.columns = ['Number', 'Home Player', 'Home Minutes', 'Home elo', 'Home Percentile']
+        away_team.columns = ['Number', 'Away Player', 'Away Minutes', 'Away elo', 'Away Percentile']
 
-    all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
-    all_players = all_players.sort_values('Number')
-    all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
-    all_players = all_players[['Away Minutes', 'Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player', 'Home Minutes']]
-    player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
+        all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
+        all_players = all_players.sort_values('Number')
+        all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
+        all_players = all_players[['Away Minutes', 'Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player', 'Home Minutes']]
+        player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
-    rec_match_md = MdUtils(file_name=f'temp//{file_name}')
+        rec_match_md = MdUtils(file_name=f'temp//{file_name}')
 
-    # yaml header
-    rec_match_md.new_line("HEADERSTART")
-    rec_match_md.new_line("---")
-    rec_match_md.new_line("layout: page")
-    rec_match_md.new_line(f"title: {score_header}")
-    rec_match_md.new_line(f"date: {recent_game['date']} 18:00:00 -0500")
-    rec_match_md.new_line("categories: match review")
-    rec_match_md.new_line("---")
+        # yaml header
+        rec_match_md.new_line("HEADERSTART")
+        rec_match_md.new_line("---")
+        rec_match_md.new_line("layout: page")
+        rec_match_md.new_line(f"title: {score_header}")
+        rec_match_md.new_line(f"date: {recent_game['date']} 18:00:00 -0500")
+        rec_match_md.new_line("categories: match review")
+        rec_match_md.new_line("---")
 
-    favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
-    pred_text = f'{favorite} by {round(abs(recent_game["spread"]), 1)}'
+        favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
+        pred_text = f'{favorite} by {round(abs(recent_game["spread"]), 1)}'
 
-    lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] + home_advantage > 0 else recent_game["away_team_name"]
-    lineup_pred_text = f'{favorite} by {round(abs(recent_game["lineup_spread"] + home_advantage), 1)}'
+        lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] + home_advantage > 0 else recent_game["away_team_name"]
+        lineup_pred_text = f'{favorite} by {round(abs(recent_game["lineup_spread"] + home_advantage), 1)}'
 
-    n_lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] > 0 else recent_game["away_team_name"]
-    n_lineup_pred_text = f'{n_lineup_favorite} by {round(abs(recent_game["lineup_spread"]), 1)} on a neutral pitch'
+        n_lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] > 0 else recent_game["away_team_name"]
+        n_lineup_pred_text = f'{n_lineup_favorite} by {round(abs(recent_game["lineup_spread"]), 1)} on a neutral pitch'
 
-    favorite = recent_game["home_team_name"] if recent_game["spread"] + home_advantage > 0 else recent_game["away_team_name"]
-    pred_text = f'{favorite} by {round(abs(recent_game["spread"] + home_advantage ), 1)}'
+        favorite = recent_game["home_team_name"] if recent_game["spread"] + home_advantage > 0 else recent_game["away_team_name"]
+        pred_text = f'{favorite} by {round(abs(recent_game["spread"] + home_advantage ), 1)}'
 
-    n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
-    n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)} on a neutral field'
+        n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
+        n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)} on a neutral field'
 
-    rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
-    rec_match_md.new_paragraph(n_pred_text)
+        rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
+        rec_match_md.new_paragraph(n_pred_text)
 
-    ## Win probability plots
-    if isinstance(recent_game['commentary_df'], np.ndarray):
-        match_events = real_time_preds.real_time_df(recent_game)
-        '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
-        ax2 = plt.twinx()
-        sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
-        pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
-        pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
-        pred_plot.figure.clf()'''
-        prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
-        plt.close()
-        score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
-        plt.close()
-
-
-        rec_match_md.new_header(level = 2, title = 'Scores over Time')
-        rec_match_md.new_paragraph(f"![In Match Scores]({score_path})")
-        rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
-        rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
+        ## Win probability plots
+        if isinstance(recent_game['commentary_df'], np.ndarray):
+            match_events = real_time_preds.real_time_df(recent_game)
+            '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
+            ax2 = plt.twinx()
+            sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
+            pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
+            pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
+            pred_plot.figure.clf()'''
+            prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
+            plt.close()
+            score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
+            plt.close()
 
 
-    rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
-    rec_match_md.new_paragraph(n_lineup_pred_text)
-    #rec_match_md.new_header(level = 1, title = f'Projection using minutes played for each player: {pred_text}')
-    #rec_match_md.new_paragraph(n_pred_text)
-    rec_match_md.new_paragraph()
-    rec_match_md.new_paragraph(player_table)
-    rec_match_md.new_paragraph()
+            rec_match_md.new_header(level = 2, title = 'Scores over Time')
+            rec_match_md.new_paragraph(f"![In Match Scores]({score_path})")
+            rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
+            rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
 
-    #rec_match_md.new_header(level = 1, title = 'Elo Contributions')
 
-    all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
-    all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
-    all_players['home minute_elos'] = all_players['Home elo'] * all_players['Home Minutes'] / max(all_players['Home Minutes'])
-    all_players['away minute_elos'] = all_players['Away elo'] * all_players['Away Minutes'] / max(all_players['Home Minutes'])
-    #review_contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
-    #rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
+        rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
+        rec_match_md.new_paragraph(n_lineup_pred_text)
+        #rec_match_md.new_header(level = 1, title = f'Projection using minutes played for each player: {pred_text}')
+        #rec_match_md.new_paragraph(n_pred_text)
+        rec_match_md.new_paragraph()
+        rec_match_md.new_paragraph(player_table)
+        rec_match_md.new_paragraph()
 
-    rec_match_md.create_md_file()
+        #rec_match_md.new_header(level = 1, title = 'Elo Contributions')
 
-    match_dir_strings.append(f'[{score_header}](reviews//{file_name})')
-    match_comps.append(recent_game['competition'])
-    match_levels.append(recent_game['comp_level'])
+        all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
+        all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
+        all_players['home minute_elos'] = all_players['Home elo'] * all_players['Home Minutes'] / max(all_players['Home Minutes'])
+        all_players['away minute_elos'] = all_players['Away elo'] * all_players['Away Minutes'] / max(all_players['Home Minutes'])
+        #review_contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
+        #rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
-    #rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
+        rec_match_md.create_md_file()
 
-    ## quick and dirty remove empty leading lines
-    clean_leading_space(f'temp//{file_name}.md', f'reviews//{file_name}.md')
+        match_dir_strings.append(f'[{recent_game["date"].date().strftime("%Y-%m-%d") + " " + score_header}](reviews//{file_name})')
+        match_comps.append(recent_game['competition'])
+        match_levels.append(recent_game['comp_level'])
+        match_dates.append(recent_game["date"])
 
-dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels})
+        #rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
+
+        ## quick and dirty remove empty leading lines
+        clean_leading_space(f'temp//{file_name}.md', f'reviews//{file_name}.md')
+
+dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
+dir_df = dir_df.sort_values('dates')
 dir_int = dir_df[dir_df.levels == 'International']
 dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
 dir_dom = dir_df[dir_df.levels == 'Domestic']
@@ -267,9 +271,11 @@ fut_dir_md.new_line("---")
 match_dir_strings = []
 match_comps = []
 match_levels = []
+match_dates = []
 
 current_players = make_current_percentile(starters, datetime.datetime.now())
 
+print("FUTURE MATCHES")
 future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
 
@@ -324,9 +330,11 @@ for future_game in future_games:
     #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
 
-    match_dir_strings.append(f'[{score_header}](reviews//{file_name})')
-    match_comps.append(recent_game['competition'])
-    match_levels.append(recent_game['comp_level'])
+    match_dir_strings.append(f'[{pretty_name}](projections//{file_name})')
+    match_comps.append(future_game['competition'])
+    match_levels.append(future_game['comp_level'])
+    match_dates.append(future_game["date"])
+
 
     fut_match_md.create_md_file()
 
@@ -336,7 +344,8 @@ for future_game in future_games:
     clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
 
 
-dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels})
+dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
+dir_df = dir_df.sort_values('dates')
 dir_int = dir_df[dir_df.levels == 'International']
 dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
 dir_dom = dir_df[dir_df.levels == 'Domestic']
