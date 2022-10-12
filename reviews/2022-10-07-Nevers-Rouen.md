@@ -4,10 +4,10 @@ title: Rouen at Nevers; 17-27
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Nevers by 1.1
+# Prediction: Nevers by 7.3
 
 
-Rouen by 3.9 on a neutral field
+Nevers by 2.3 on a neutral field
 ## Scores over Time
 
 
@@ -16,36 +16,36 @@ Rouen by 3.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-07-Nevers-Rouen.png)
-# Pre-Match Prediction: Rouen by 3.2
+# Pre-Match Prediction: Nevers by 5.2
 
 
-Rouen by 8.2 on a neutral pitch
+Nevers by 0.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             46 | Antoine Fournier      |     101.37 |                79 |        1 |                52 |      85.97 | Aitor Kitutu       |             56 |
-|             46 | Cameron Orr           |      91.85 |                60 |        2 |                49 |      88.59 | Issam Hamel        |             56 |
-|             40 | Mohamed Boughanmi     |      98.44 |                72 |        3 |                10 |      77.29 | Aselo Ikahehegi    |             46 |
-|             80 | John-Charles Astle    |      80.02 |                24 |        4 |                29 |      80.77 | Maxence Barjaud    |             46 |
-|             46 | Shay Kerry            |      99.57 |                72 |        5 |                15 |      78.31 | Lado Chachanidze   |             80 |
-|             62 | Lucas Costa           |      81.98 |                44 |        6 |                 4 |      73.93 | Luka Plataret      |             55 |
-|             80 | Fabien Vincent        |      85.39 |                54 |        7 |                91 |     113    | Hugues Bastide     |             80 |
-|             80 | Valentino Mapapalangi |     101.64 |                75 |        8 |                85 |     107.24 | Shaun Adendorff    |             80 |
-|             46 | Florent Campeggia     |      99.79 |                71 |        9 |                26 |      79.66 | Guillaume Manevy   |             80 |
-|             68 | Thibault Olender      |      82.06 |                39 |       10 |                52 |      87.53 | Shaun Reynolds     |             68 |
-|             80 | Malcolm Bertschy      |      79.79 |                29 |       11 |                33 |      80.42 | Christian Erasmus  |             80 |
-|             80 | JT Jackson            |      99.48 |                69 |       12 |                58 |      93.8  | Rudy Derrieux      |             80 |
-|             52 | Taylor Gontineac      |      84.25 |                41 |       13 |                 1 |      70.43 | Alifereti Loaloa   |             80 |
-|             80 | Paul Surano           |      93.74 |                67 |       14 |                80 |     101.92 | Lucas Blanc        |             80 |
-|             80 | Peter Lydon           |      99.86 |                72 |       15 |                52 |      88.48 | Benjamin Dumas     |             55 |
-|             40 | Cody Thomas           |      79.31 |                27 |       16 |                23 |      79.37 | Cleopas Kundiona   |             34 |
-|             34 | Soulemane Camara      |      81.17 |                36 |       17 |                46 |      85.62 | Lasha Jaiani       |             34 |
-|             34 | Joris Lezat           |      76.74 |                 9 |       18 |                96 |     118.34 | Jason-Colin Fraser |             25 |
-|             34 | Mathieu Bonnot        |     108.03 |                90 |       19 |                16 |      78.14 | Thomas Zenon       |             25 |
-|             34 | Jean Leleu            |      91.14 |                56 |       20 |                 6 |      75.53 | Quentin Beaudaux   |             24 |
-|             28 | Alex Luatua           |      93.54 |                59 |       21 |                 8 |      76.95 | Tomike Mataradze   |             24 |
-|             18 | Willy N'Diaye         |      82.42 |                45 |       22 |                64 |      93.1  | Yohan Le Bourhis   |             12 |
-|             12 | Marius Marty          |      77.61 |                12 |       23 |                 0 |       3.13 | Solomone Kata      |             80 |
+|             46 | Antoine Fournier      |      81.93 |                56 |        1 |                83 |      88.71 | Aitor Kitutu       |             56 |
+|             46 | Cameron Orr           |      75.79 |                24 |        2 |                73 |      85.21 | Issam Hamel        |             56 |
+|             40 | Mohamed Boughanmi     |      77.89 |                29 |        3 |                16 |      75.42 | Aselo Ikahehegi    |             46 |
+|             80 | John-Charles Astle    |      45.21 |                 0 |        4 |                31 |      77.63 | Maxence Barjaud    |             46 |
+|             46 | Shay Kerry            |      76.75 |                26 |        5 |                27 |      76.84 | Lado Chachanidze   |             80 |
+|             62 | Lucas Costa           |      80.08 |                47 |        6 |                 2 |      67.2  | Luka Plataret      |             55 |
+|             80 | Fabien Vincent        |      86.38 |                77 |        7 |                97 |     107.59 | Hugues Bastide     |             80 |
+|             80 | Valentino Mapapalangi |      73.01 |                14 |        8 |                77 |      87.84 | Shaun Adendorff    |             80 |
+|             46 | Florent Campeggia     |      75.47 |                18 |        9 |                58 |      82.48 | Guillaume Manevy   |             80 |
+|             68 | Thibault Olender      |      82.37 |                59 |       10 |                 4 |      68.1  | Shaun Reynolds     |             68 |
+|             80 | Malcolm Bertschy      |      79.85 |                43 |       11 |                69 |      84.69 | Christian Erasmus  |             80 |
+|             80 | JT Jackson            |      77.75 |                26 |       12 |                21 |      76.65 | Rudy Derrieux      |             80 |
+|             52 | Taylor Gontineac      |      79.77 |                39 |       13 |                 1 |      64.2  | Alifereti Loaloa   |             80 |
+|             80 | Paul Surano           |      80.43 |                48 |       14 |                52 |      81.27 | Lucas Blanc        |             80 |
+|             80 | Peter Lydon           |      91.51 |                79 |       15 |                 1 |      62.72 | Benjamin Dumas     |             55 |
+|             40 | Cody Thomas           |      80.17 |                49 |       16 |                25 |      77.29 | Cleopas Kundiona   |             34 |
+|             34 | Soulemane Camara      |      80.67 |                51 |       17 |                46 |      79.89 | Lasha Jaiani       |             34 |
+|             34 | Joris Lezat           |      75.11 |                17 |       18 |                94 |     103.46 | Jason-Colin Fraser |             25 |
+|             34 | Mathieu Bonnot        |      90.63 |                85 |       19 |                 8 |      72.18 | Thomas Zenon       |             25 |
+|             34 | Jean Leleu            |      82.35 |                57 |       20 |                21 |      75.52 | Quentin Beaudaux   |             24 |
+|             28 | Alex Luatua           |      77.73 |                30 |       21 |                13 |      74.45 | Tomike Mataradze   |             24 |
+|             18 | Willy N'Diaye         |      76.81 |                22 |       22 |                74 |      86.38 | Yohan Le Bourhis   |             12 |
+|             12 | Marius Marty          |      77.24 |                26 |       23 |                 0 |      -4.26 | Solomone Kata      |             80 |
 

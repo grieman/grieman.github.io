@@ -4,10 +4,10 @@ title: Northland at Canterbury; 16.0-23.0
 date: 2022-10-07 23:35:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Canterbury by 11.0
+# Prediction: Canterbury by 15.1
 
 
-Canterbury by 6.0 on a neutral field
+Canterbury by 10.1 on a neutral field
 ## Scores over Time
 
 
@@ -16,36 +16,36 @@ Canterbury by 6.0 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-07-Canterbury-Northland.png)
-# Pre-Match Prediction: Canterbury by 14.2
+# Pre-Match Prediction: Canterbury by 17.8
 
 
-Canterbury by 9.2 on a neutral pitch
+Canterbury by 12.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             45 | Jarred Adams          |     106.17 |                86 |        1 |                36 |      81.64 | Tamaiti Williams   |             64 |
-|             52 | Bruce Kauika-Petersen |      77.41 |                 9 |        2 |                46 |      86.93 | Brodie McAlister   |             59 |
-|             80 | Ofa Tu'ungafasi       |     112.1  |                93 |        3 |                89 |     108.05 | Oli Jager          |             60 |
-|             80 | Josh Goodhue          |      90.81 |                55 |        4 |                44 |      84.13 | Sam Darry          |             21 |
-|             80 | Sam Caird             |      80.09 |                24 |        5 |                44 |      83.96 | Zach Gallagher     |             80 |
-|             80 | Rob Rush              |      76.74 |                11 |        6 |                85 |     104.73 | Dom Gardiner       |             80 |
-|             59 | Jonah Mau'u           |      79.38 |                25 |        7 |                92 |     113.38 | Tom Christie       |             80 |
-|             80 | Matt Polwart-Matich   |     101.77 |                76 |        8 |                82 |     105.29 | Billy Harmon       |             80 |
-|             61 | Sam Nock              |      98.65 |                69 |        9 |                31 |      80.3  | Mitchell Drummond  |             49 |
-|             60 | Rivez Reihana         |      74.68 |                 2 |       10 |                51 |      87.61 | Fergus Burke       |             80 |
-|             80 | Heremaia Murray       |      80.03 |                31 |       11 |                98 |     125.35 | George Bridge      |             80 |
-|             27 | Blake Hohaia          |      93.41 |                57 |       12 |                11 |      77.87 | Rameka Poihipi     |             80 |
-|             80 | Tamati Tua            |      95.61 |                61 |       13 |                77 |     103.21 | Braydon Ennor      |             27 |
-|             80 | Jone Macilai-Tori     |      96.66 |                72 |       14 |                86 |     106.84 | Manasa Mataele     |             59 |
-|             80 | Joshua Moorby         |      83.13 |                40 |       15 |                63 |      95.62 | Chay Fihaki        |             80 |
-|             28 | Ross Wright           |      94.84 |                67 |       16 |                41 |      84.2  | George Bell        |             21 |
-|             26 | Coree Te Whata-Colley |      95.22 |                64 |       17 |                57 |      89.05 | Finlay Brewis      |             16 |
-|              9 | Sila Puafisi          |      92.82 |                61 |       18 |                95 |     113.84 | Owen Franks        |             20 |
-|             35 | Allan Craig           |      80.77 |                28 |       19 |                59 |      88.62 | Corey Kellow       |             59 |
-|             21 | Sam McNamara          |      80.16 |                20 |       20 |                32 |      82.04 | Liam Allen         |              0 |
-|             19 | Lisati Milo-Harris    |      89.36 |                54 |       21 |                96 |     117.58 | Willi Heinz        |             31 |
-|             20 | Daniel Hawkins        |      84    |                47 |       22 |                50 |      88.86 | Dallas McLeod      |             53 |
-|             53 | Rene Ranger           |     100.37 |                70 |       23 |                31 |      80.29 | Ngatungane Punivai |             21 |
+|             45 | Jarred Adams          |      87.52 |                80 |        1 |                64 |      83.1  | Tamaiti Williams   |             64 |
+|             52 | Bruce Kauika-Petersen |      73.7  |                12 |        2 |                88 |      92.39 | Brodie McAlister   |             59 |
+|             80 | Ofa Tu'ungafasi       |     107.27 |                97 |        3 |                92 |      94.62 | Oli Jager          |             60 |
+|             80 | Josh Goodhue          |      78.25 |                33 |        4 |                54 |      82.39 | Sam Darry          |             21 |
+|             80 | Sam Caird             |      61.84 |                 1 |        5 |                69 |      85.49 | Zach Gallagher     |             80 |
+|             80 | Rob Rush              |      77.81 |                29 |        6 |                85 |      91.33 | Dom Gardiner       |             80 |
+|             59 | Jonah Mau'u           |      80.71 |                50 |        7 |                93 |     100.63 | Tom Christie       |             80 |
+|             80 | Matt Polwart-Matich   |      85.78 |                69 |        8 |                72 |      86.82 | Billy Harmon       |             80 |
+|             61 | Sam Nock              |      84.61 |                67 |        9 |                39 |      79.66 | Mitchell Drummond  |             49 |
+|             60 | Rivez Reihana         |      76.51 |                20 |       10 |                64 |      83.65 | Fergus Burke       |             80 |
+|             80 | Heremaia Murray       |      79.21 |                40 |       11 |                98 |     111.18 | George Bridge      |             80 |
+|             27 | Blake Hohaia          |      78.13 |                30 |       12 |                50 |      81.78 | Rameka Poihipi     |             80 |
+|             80 | Tamati Tua            |      85.88 |                67 |       13 |                70 |      86.48 | Braydon Ennor      |             27 |
+|             80 | Jone Macilai-Tori     |      84.21 |                67 |       14 |                86 |      92.71 | Manasa Mataele     |             59 |
+|             80 | Joshua Moorby         |      83.84 |                59 |       15 |                88 |      96.4  | Chay Fihaki        |             80 |
+|             28 | Ross Wright           |      77.43 |                26 |       16 |                56 |      82.4  | George Bell        |             21 |
+|             26 | Coree Te Whata-Colley |      75.45 |                16 |       17 |                82 |      89.13 | Finlay Brewis      |             16 |
+|              9 | Sila Puafisi          |      75.82 |                18 |       18 |                89 |      92.61 | Owen Franks        |             20 |
+|             35 | Allan Craig           |      81.48 |                51 |       19 |                78 |      87.31 | Corey Kellow       |             59 |
+|             21 | Sam McNamara          |      81.61 |                49 |       20 |                52 |      81.88 | Liam Allen         |              0 |
+|             19 | Lisati Milo-Harris    |      73.71 |                11 |       21 |                93 |     100.42 | Willi Heinz        |             31 |
+|             20 | Daniel Hawkins        |      66.03 |                 1 |       22 |                76 |      88.96 | Dallas McLeod      |             53 |
+|             53 | Rene Ranger           |      82.16 |                50 |       23 |                13 |      75.02 | Ngatungane Punivai |             21 |
 

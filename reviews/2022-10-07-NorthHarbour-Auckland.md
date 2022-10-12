@@ -4,10 +4,10 @@ title: Auckland at North Harbour; 21.0-18.0
 date: 2022-10-07 02:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: North Harbour by 2.5
+# Prediction: North Harbour by 7.0
 
 
-Auckland by 2.5 on a neutral field
+North Harbour by 2.0 on a neutral field
 ## Scores over Time
 
 
@@ -16,36 +16,36 @@ Auckland by 2.5 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-07-NorthHarbour-Auckland.png)
-# Pre-Match Prediction: Auckland by 5.1
+# Pre-Match Prediction: North Harbour by 7.5
 
 
-North Harbour by 0.1 on a neutral pitch
+North Harbour by 2.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             54 | Alex Hodgman        |     103.67 |                82 |        1 |                41 |      82.65 | Tevita Langi      |             72 |
-|             54 | Soane Vikena        |      78.46 |                15 |        2 |                83 |     103.97 | Ray Niuia         |             51 |
-|             37 | Angus Ta'avao       |     119.25 |                97 |        3 |                85 |     105.06 | Nic Mayhew        |             70 |
-|             82 | Patrick Tuipulotu   |     109.75 |               nan |        4 |                60 |      93.06 | Isoa Nasilasila   |             82 |
-|             82 | Hamish Dalzell      |     102.56 |                77 |        5 |                27 |      80.39 | Felix Kalapu      |             51 |
-|             82 | Akira Ioane         |     112.08 |                90 |        6 |                56 |      86.81 | Tamarau McGahan   |             82 |
-|             82 | Blake Gibson        |     101.8  |                80 |        7 |                52 |      85.53 | Jed Melvin        |             65 |
-|             66 | Jackson Pugh        |      78.58 |                13 |        8 |                89 |     110.52 | Cameron Suafoa    |             82 |
-|             82 | Taufa Funaki        |      73.06 |                 1 |        9 |                47 |      84.76 | Jamie Booth       |             82 |
-|             82 | Simon Hickey        |     107.6  |                83 |       10 |                78 |     103.71 | Bryn Gatland      |             40 |
-|             82 | Tomas Aoake         |      97.44 |                73 |       11 |                99 |     127.25 | Tevita Li         |             48 |
-|             82 | Harry Plummer       |     113.16 |                89 |       12 |                56 |      92.43 | Henry Taefu       |             82 |
-|             75 | AJ Lam              |      76.77 |                 8 |       13 |                38 |      82.65 | Moses Leo         |             82 |
-|             82 | Roger Tuivasa-Sheck |      76.3  |                 9 |       14 |                90 |     110.55 | Mark Telea        |             82 |
-|             82 | Jordan Trainor      |     112.3  |                92 |       15 |                89 |     110.02 | Shaun Stevenson   |             82 |
-|             28 | Leni Apisai         |      90.77 |                51 |       16 |                30 |      81.92 | Luteru Tolai      |             31 |
-|             28 | Jordan Lay          |      96.98 |                70 |       17 |               nan |      80.81 | Sam Davies        |             10 |
-|             45 | Marcel Renata       |      95.24 |                65 |       18 |                91 |     110.14 | Alex Fidow        |             12 |
-|              0 | Josh Beehre         |      81    |                30 |       19 |                65 |      96.2  | Danny Drake       |             31 |
-|             16 | Terrell Peita       |      81.47 |                32 |       20 |                39 |      83.81 | Lotu Inisi        |             17 |
-|              0 | Manu Paea           |      74.19 |                 3 |       21 |                27 |      81.07 | Siaosi Nginingini |              0 |
-|              7 | Corey Evans         |      80.08 |                18 |       22 |                12 |      77.92 | Fine Inisi        |             34 |
-|              0 | Jock McKenzie       |      81.48 |                33 |       23 |                50 |      84.53 | Kade Banks        |             42 |
+|             54 | Alex Hodgman        |      87.96 |                81 |        1 |                49 |      80.98 | Tevita Langi      |             72 |
+|             54 | Soane Vikena        |      78.89 |                37 |        2 |                86 |      91.55 | Ray Niuia         |             51 |
+|             37 | Angus Ta'avao       |     105.75 |                97 |        3 |                88 |      92.17 | Nic Mayhew        |             70 |
+|             82 | Patrick Tuipulotu   |     103.24 |               nan |        4 |                61 |      82.98 | Isoa Nasilasila   |             82 |
+|             82 | Hamish Dalzell      |      82.41 |                57 |        5 |                43 |      79.36 | Felix Kalapu      |             51 |
+|             82 | Akira Ioane         |     104.99 |                96 |        6 |                71 |      84.56 | Tamarau McGahan   |             82 |
+|             82 | Blake Gibson        |      86.38 |                76 |        7 |                73 |      86.5  | Jed Melvin        |             65 |
+|             66 | Jackson Pugh        |      77.58 |                29 |        8 |                88 |      94.21 | Cameron Suafoa    |             82 |
+|             82 | Taufa Funaki        |      72.17 |                 9 |        9 |                13 |      74.17 | Jamie Booth       |             82 |
+|             82 | Simon Hickey        |      86.98 |                72 |       10 |                79 |      89.59 | Bryn Gatland      |             40 |
+|             82 | Tomas Aoake         |      74.89 |                15 |       11 |                98 |     109.89 | Tevita Li         |             48 |
+|             82 | Harry Plummer       |      93.36 |                85 |       12 |                49 |      81.76 | Henry Taefu       |             82 |
+|             75 | AJ Lam              |      76.13 |                19 |       13 |                57 |      83.16 | Moses Leo         |             82 |
+|             82 | Roger Tuivasa-Sheck |      71.22 |                 7 |       14 |                90 |      97.81 | Mark Telea        |             82 |
+|             82 | Jordan Trainor      |      95.92 |                88 |       15 |                74 |      89.72 | Shaun Stevenson   |             82 |
+|             28 | Leni Apisai         |      71.27 |                 6 |       16 |                43 |      80.73 | Luteru Tolai      |             31 |
+|             28 | Jordan Lay          |      81.55 |                60 |       17 |               nan |      80.65 | Sam Davies        |             10 |
+|             45 | Marcel Renata       |      84.08 |                68 |       18 |                76 |      86.08 | Alex Fidow        |             12 |
+|              0 | Josh Beehre         |      79.68 |                45 |       19 |                92 |      99.04 | Danny Drake       |             31 |
+|             16 | Terrell Peita       |      82.36 |                55 |       20 |                73 |      86.96 | Lotu Inisi        |             17 |
+|              0 | Manu Paea           |      73.17 |                12 |       21 |                42 |      80.22 | Siaosi Nginingini |              0 |
+|              7 | Corey Evans         |      84.45 |                58 |       22 |                16 |      74.74 | Fine Inisi        |             34 |
+|              0 | Jock McKenzie       |      81.85 |                54 |       23 |                49 |      81.83 | Kade Banks        |             42 |
 

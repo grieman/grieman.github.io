@@ -4,10 +4,10 @@ title: Clermont Auvergne at Stade Toulousain; 10-46
 date: 2022-10-08 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Stade Toulousain by 23.1
+# Prediction: Stade Toulousain by 14.6
 
 
-Stade Toulousain by 18.1 on a neutral field
+Stade Toulousain by 9.6 on a neutral field
 ## Scores over Time
 
 
@@ -16,29 +16,29 @@ Stade Toulousain by 18.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-08-StadeToulousain-ClermontAuvergne.png)
-# Pre-Match Prediction: Stade Toulousain by 20.8
+# Pre-Match Prediction: Stade Toulousain by 13.4
 
 
-Stade Toulousain by 15.8 on a neutral pitch
+Stade Toulousain by 8.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             80 | Giorgi Beria        |      87.14 |                52 |        1 |                85 |     105.05 | Rodrigue Neti      |             80 |
-|             80 | Adrien Pelissie     |     104.17 |                79 |        2 |                82 |     103    | Guillaume Marchand |             80 |
-|             80 | Giorgi Dzmanashvili |      80.58 |               nan |        3 |                92 |     113.26 | Dorian Aldegheri   |             80 |
-|             80 | Paul Jedrasiak      |      94.35 |                62 |        4 |                89 |     110.03 | Anthony Jelonch    |             80 |
-|             80 | Tomas Lavanini      |     111.44 |                90 |        5 |                94 |     116.84 | Thibaud Flament    |             80 |
-|             80 | Jacobus van Tonder  |      88.56 |                59 |        6 |                94 |     116.49 | Pierre Bochaton    |             80 |
-|             80 | Killian Tixeront    |      85.83 |                50 |        7 |                92 |     114.36 | Rynhardt Elstadt   |             80 |
-|             80 | Talalelei Gray      |     105.59 |                83 |        8 |                91 |     111.5  | Selevasio Tolofua  |             80 |
-|             80 | Baptiste Jauneau    |      80.78 |               nan |        9 |                99 |     130.34 | Antoine Dupont     |             80 |
-|             80 | Jules Plisson       |     114.27 |                91 |       10 |                94 |     118.8  | Thomas Ramos       |             80 |
-|             80 | Marvin O'Connor     |     106.89 |                86 |       11 |                70 |      95.2  | Matthis Lebel      |             80 |
-|             80 | Samuel Ezeala       |      80.99 |                28 |       12 |                89 |     110.44 | Sofiane Guitoune   |             80 |
-|             80 | Peter Betham        |     126.03 |                98 |       13 |                79 |     104.46 | Tim Nanai-Williams |             80 |
-|             80 | Ramiro Moyano       |     105.63 |                84 |       14 |                68 |      93.93 | Arthur Retiere     |             80 |
-|             80 | Ramiro Moyano       |     105.63 |                85 |       14 |                68 |      93.93 | Arthur Retiere     |             80 |
-|             80 | Cheikh Tiberghien   |      88.78 |                60 |       15 |                75 |      98.32 | Ange Capuozzo      |             80 |
+|             80 | Giorgi Beria        |      89.16 |                81 |        1 |                24 |      77.01 | Rodrigue Neti      |             80 |
+|             80 | Adrien Pelissie     |      90.29 |                81 |        2 |                66 |      83.49 | Guillaume Marchand |             80 |
+|             80 | Giorgi Dzmanashvili |      80.11 |               nan |        3 |                93 |      98.48 | Dorian Aldegheri   |             80 |
+|             80 | Paul Jedrasiak      |      89.47 |                80 |        4 |                91 |      97.83 | Anthony Jelonch    |             80 |
+|             80 | Tomas Lavanini      |      92.49 |                83 |        5 |                96 |     105.78 | Thibaud Flament    |             80 |
+|             80 | Jacobus van Tonder  |      85.33 |                73 |        6 |                91 |     100.21 | Pierre Bochaton    |             80 |
+|             80 | Killian Tixeront    |      85.66 |                64 |        7 |                87 |      93.28 | Rynhardt Elstadt   |             80 |
+|             80 | Talalelei Gray      |      91.55 |                81 |        8 |                80 |      91.21 | Selevasio Tolofua  |             80 |
+|             80 | Baptiste Jauneau    |      80.66 |               nan |        9 |               100 |     121.98 | Antoine Dupont     |             80 |
+|             80 | Jules Plisson       |      91.66 |                83 |       10 |                92 |     103.92 | Thomas Ramos       |             80 |
+|             80 | Marvin O'Connor     |      81.45 |                53 |       11 |                92 |     100.41 | Matthis Lebel      |             80 |
+|             80 | Samuel Ezeala       |      79.01 |                36 |       12 |                74 |      87.97 | Sofiane Guitoune   |             80 |
+|             80 | Peter Betham        |     118.16 |                99 |       13 |                88 |      95.81 | Tim Nanai-Williams |             80 |
+|             80 | Ramiro Moyano       |      88.09 |                72 |       14 |                22 |      76.7  | Arthur Retiere     |             80 |
+|             80 | Ramiro Moyano       |      88.09 |                77 |       14 |                22 |      76.7  | Arthur Retiere     |             80 |
+|             80 | Cheikh Tiberghien   |      91.62 |                85 |       15 |                90 |      96.4  | Ange Capuozzo      |             80 |
 

@@ -8,8 +8,6 @@ key: page-recents
 ## Gallagher Premiership 2023
 
 
-[2022-10-02 Northampton Saints at Harlequins; 29.0-35.0](reviews//2022-10-02-Harlequins-NorthamptonSaints)
-
 [2022-10-07 Exeter Chiefs at Bristol Rugby; 50.0-14.0](reviews//2022-10-07-BristolRugby-ExeterChiefs)
 
 [2022-10-08 Gloucester Rugby at Bath Rugby; 21.0-17.0](reviews//2022-10-08-BathRugby-GloucesterRugby)
@@ -54,27 +52,17 @@ key: page-recents
 ## Top 14 Orange 2022
 
 
-[2022-10-01 Bayonne at Brive; 22-25](reviews//2022-10-01-Brive-Bayonne)
-
-[2022-10-01 Lyon at Clermont Auvergne; 20-43](reviews//2022-10-01-ClermontAuvergne-Lyon)
-
-[2022-10-01 Toulon at Pau; 34-17](reviews//2022-10-01-Pau-Toulon)
-
-[2022-10-01 Castres Olympique at Perpignan; 10-14](reviews//2022-10-01-Perpignan-CastresOlympique)
-
-[2022-10-01 Racing 92 at La Rochelle; 19-24](reviews//2022-10-01-LaRochelle-Racing92)
-
 [2022-10-02 Stade Toulousain at Montpellier Herault; 19-17](reviews//2022-10-02-MontpellierHerault-StadeToulousain)
 
 [2022-10-08 Montpellier Herault at Castres Olympique; 13-26](reviews//2022-10-08-CastresOlympique-MontpellierHerault)
 
-[2022-10-08 Brive at Toulon; 0-47](reviews//2022-10-08-Toulon-Brive)
-
-[2022-10-08 Perpignan at Stade Francais Paris; 3-52](reviews//2022-10-08-StadeFrancaisParis-Perpignan)
-
 [2022-10-08 La Rochelle at Bayonne; 13-29](reviews//2022-10-08-Bayonne-LaRochelle)
 
 [2022-10-08 Pau at Racing 92; 13-26](reviews//2022-10-08-Racing92-Pau)
+
+[2022-10-08 Perpignan at Stade Francais Paris; 3-52](reviews//2022-10-08-StadeFrancaisParis-Perpignan)
+
+[2022-10-08 Brive at Toulon; 0-47](reviews//2022-10-08-Toulon-Brive)
 
 [2022-10-08 Clermont Auvergne at Stade Toulousain; 10-46](reviews//2022-10-08-StadeToulousain-ClermontAuvergne)
 
@@ -82,19 +70,11 @@ key: page-recents
 ## United Rugby Championship 2022
 
 
-[2022-10-01 Sharks at Dragons; 20-19](reviews//2022-10-01-Dragons-Sharks)
-
 [2022-10-08 Cardiff Blues at Scarlets; 16-10](reviews//2022-10-08-Scarlets-CardiffBlues)
 # Domestic Leagues
 
 ## Bunnings Warehouse NPC 2023
 
-
-[2022-10-01 Wellington at Counties Manukau; 64.0-31.0](reviews//2022-10-01-CountiesManukau-Wellington)
-
-[2022-10-01 Manawatu at Northland; 24.0-41.0](reviews//2022-10-01-Northland-Manawatu)
-
-[2022-10-01 Bay of Plenty at Waikato; 34.0-35.0](reviews//2022-10-01-Waikato-BayofPlenty)
 
 [2022-10-07 Auckland at North Harbour; 21.0-18.0](reviews//2022-10-07-NorthHarbour-Auckland)
 

@@ -4,10 +4,10 @@ title: La Rochelle at Bayonne; 13-29
 date: 2022-10-08 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Prediction: Bayonne by 2.9
+# Prediction: Bayonne by 0.6
 
 
-La Rochelle by 2.1 on a neutral field
+La Rochelle by 4.4 on a neutral field
 ## Scores over Time
 
 
@@ -16,39 +16,39 @@ La Rochelle by 2.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-08-Bayonne-LaRochelle.png)
-# Pre-Match Prediction: La Rochelle by 2.9
+# Pre-Match Prediction: La Rochelle by 0.1
 
 
-La Rochelle by 2.1 on a neutral pitch
+La Rochelle by 4.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             46 | Leo Aouf            |      78.75 |                18 |        1 |                19 |      78.9  | Swan Cormenier          |             63 |
-|             46 | Quentin Lespiaucq   |      99.01 |                71 |        2 |                81 |     102.74 | Facundo Bosch           |             64 |
-|             55 | Uini Atonio         |     119.66 |                98 |        3 |                29 |      80.47 | Pascal Cotet            |             71 |
-|             55 | Romain Sazy         |      85.65 |                47 |        4 |                83 |     105.49 | Manuel Leindekar        |             80 |
-|             80 | Will Skelton        |     107.91 |                86 |        5 |                76 |     101.53 | Thomas Ceyte            |             66 |
-|             55 | Ultan Dillane       |     107.47 |                86 |        6 |                83 |     105.87 | Baptiste Heguy          |             80 |
-|             80 | Gregory Alldritt    |     113.45 |                93 |        7 |                84 |     103.79 | Pierre Huguet           |             58 |
-|             80 | Gregory Alldritt    |     113.45 |                94 |        7 |                84 |     103.79 | Pierre Huguet           |             58 |
-|             80 | Yoan Tanga          |      94.95 |                69 |        8 |                71 |      99.65 | Uzair Cassiem           |             80 |
-|             50 | Tawera Kerr-Barlow  |     106.41 |                85 |        9 |                95 |     116.08 | Maxime Machenaud        |             71 |
-|             80 | Mitch Inman         |      98.16 |                70 |       10 |                98 |     132.81 | Camille Lopez           |             79 |
-|             80 | Arthur Retiere      |      95.96 |                65 |       11 |                50 |      83.77 | Remy Baget              |             80 |
-|             77 | Jules Favre         |     109.13 |                88 |       12 |                89 |     110.32 | Thomas Combezou         |             41 |
-|             80 | Dillyn Leyds        |     104.99 |                84 |       13 |                47 |      87.22 | Sireli Maqala           |             80 |
-|             80 | Dillyn Leyds        |     104.99 |                81 |       13 |                47 |      87.22 | Sireli Maqala           |             80 |
-|             50 | Marc Andreu         |     111.3  |                90 |       14 |                30 |      79.93 | Victor Hannoun          |             80 |
-|             80 | Dillyn Leyds        |     104.99 |                81 |       15 |                95 |     119.21 | Gaetan Germain          |             80 |
-|             80 | Dillyn Leyds        |     104.99 |                84 |       15 |                95 |     119.21 | Gaetan Germain          |             80 |
-|             34 | Pierre Bourgarit    |      95.53 |                62 |       16 |                57 |      93.06 | Guillaume Martocq       |             39 |
-|             34 | Reda Wardi          |     102.99 |                81 |       17 |                65 |      93.36 | Mateaki Kafatolu        |             22 |
-|             30 | Martin Alonso Munoz |      83.48 |                44 |       18 |                81 |     102.72 | Quentin Bethune         |             17 |
-|             30 | Thomas Berjon       |      78.27 |                14 |       19 |                94 |     113.73 | Torsten van Jaarsveld   |             16 |
-|             25 | Remi Picquette      |     103.55 |                83 |       20 |                45 |      85.13 | Kote Mikautadze         |             14 |
-|             25 | Joel Sclavi         |      93.6  |                63 |       21 |                82 |     103.93 | Pieter Scholtz          |              9 |
-|             25 | Remi Bourdeau       |     113.59 |                92 |       22 |                99 |     127.73 | Guillaume Rouet Piffard |              9 |
-|              3 | Jules Le Bail       |     101.9  |                77 |       23 |                 6 |      76.58 | Jason Robertson         |              1 |
+|             46 | Leo Aouf            |      81.17 |                50 |        1 |                62 |      82.79 | Swan Cormenier          |             63 |
+|             46 | Quentin Lespiaucq   |      80.43 |                59 |        2 |                77 |      86.74 | Facundo Bosch           |             64 |
+|             55 | Uini Atonio         |     106.38 |                97 |        3 |                33 |      79.27 | Pascal Cotet            |             71 |
+|             55 | Romain Sazy         |      84.54 |                67 |        4 |                86 |      92.29 | Manuel Leindekar        |             80 |
+|             80 | Will Skelton        |      91.32 |                84 |        5 |                78 |      89.6  | Thomas Ceyte            |             66 |
+|             55 | Ultan Dillane       |      87.2  |                73 |        6 |                35 |      78.56 | Baptiste Heguy          |             80 |
+|             80 | Gregory Alldritt    |     101.25 |                95 |        7 |                44 |      79.81 | Pierre Huguet           |             58 |
+|             80 | Gregory Alldritt    |     101.25 |                92 |        7 |                44 |      79.81 | Pierre Huguet           |             58 |
+|             80 | Yoan Tanga          |      81.58 |                56 |        8 |                77 |      88.73 | Uzair Cassiem           |             80 |
+|             50 | Tawera Kerr-Barlow  |     104.86 |                96 |        9 |                85 |      91.85 | Maxime Machenaud        |             71 |
+|             80 | Mitch Inman         |      89.92 |                80 |       10 |                98 |     116.88 | Camille Lopez           |             79 |
+|             80 | Arthur Retiere      |      79.23 |                40 |       11 |                68 |      84.48 | Remy Baget              |             80 |
+|             77 | Jules Favre         |     104.53 |                95 |       12 |                96 |     105.71 | Thomas Combezou         |             41 |
+|             80 | Dillyn Leyds        |      98.63 |                92 |       13 |                58 |      83.45 | Sireli Maqala           |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                93 |       13 |                58 |      83.45 | Sireli Maqala           |             80 |
+|             50 | Marc Andreu         |      95.63 |                89 |       14 |                51 |      81.24 | Victor Hannoun          |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                92 |       15 |                84 |      93.42 | Gaetan Germain          |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                93 |       15 |                84 |      93.42 | Gaetan Germain          |             80 |
+|             34 | Pierre Bourgarit    |      80.84 |                52 |       16 |                82 |      92.1  | Guillaume Martocq       |             39 |
+|             34 | Reda Wardi          |      90.42 |                86 |       17 |                 9 |      72.74 | Mateaki Kafatolu        |             22 |
+|             30 | Martin Alonso Munoz |      81.88 |                47 |       18 |                64 |      84.18 | Quentin Bethune         |             17 |
+|             30 | Thomas Berjon       |      80.23 |                46 |       19 |                90 |      94.34 | Torsten van Jaarsveld   |             16 |
+|             25 | Remi Picquette      |      83.45 |                68 |       20 |                 4 |      66.9  | Kote Mikautadze         |             14 |
+|             25 | Joel Sclavi         |      79.78 |                40 |       21 |                64 |      83.36 | Pieter Scholtz          |              9 |
+|             25 | Remi Bourdeau       |      95.4  |                89 |       22 |                84 |      91.52 | Guillaume Rouet Piffard |              9 |
+|              3 | Jules Le Bail       |      83.98 |                66 |       23 |                 4 |      69.06 | Jason Robertson         |              1 |
 
