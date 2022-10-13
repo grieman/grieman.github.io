@@ -44,7 +44,7 @@ Lyon by 2.6 on a neutral pitch
 |             29 | Caleb Timu                |      75.43 |                22 |       17 |                28 |      79.1  | Richie Asiata        |             33 |
 |             29 | Sipili Falatea            |      84.19 |                69 |       18 |                94 |     101.83 | Baptiste Couilloud   |             33 |
 |             23 | Tani Vili                 |      81.19 |                46 |       19 |                 4 |      69.4  | Colby Fainga'a       |             33 |
-|             23 | Pierre Bochaton           |     102.44 |                94 |       20 |                94 |     104.11 | Jordan Taufua        |             24 |
+|             23 | Pierre Bochaton           |     102.44 |                94 |       20 |                94 |     104.09 | Jordan Taufua        |             24 |
 |             15 | Lekso Kaulashvili         |      93.78 |                90 |       21 |                40 |      78.76 | Temo Mayanavanua     |             24 |
 |             13 | Jules Gimbert             |      73.51 |               nan |       22 |                55 |      81.27 | Thibault Regard      |             24 |
 |             80 | Solomone Kata             |       1.72 |                 0 |       23 |                50 |      79.33 | Yanis Charcosset     |             24 |

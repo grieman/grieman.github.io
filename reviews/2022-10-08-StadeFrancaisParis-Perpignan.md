@@ -37,7 +37,7 @@ Stade Francais Paris by 10.2 on a neutral pitch
 |             80 | Brynard Stander       |      56.38 |                 0 |       10 |                57 |      82.54 | Leo Barre               |             80 |
 |             80 | Mathieu Acebes        |     104.64 |                95 |       11 |                98 |     114.01 | Sefa Naivalu            |             80 |
 |             51 | Alivereti Duguivalu   |      78.65 |                33 |       12 |                77 |      89    | Julien Delbouis         |             80 |
-|             80 | Jeronimo de la Fuente |      96.32 |                89 |       13 |                98 |     111.58 | Telusa Veainu           |             51 |
+|             80 | Jeronimo de la Fuente |      96.32 |                89 |       13 |                98 |     111.59 | Telusa Veainu           |             51 |
 |             80 | Théo Forner           |      78.74 |                37 |       14 |                12 |      74.08 | Nadir Megdoud           |             80 |
 |             51 | Boris Goutard         |      67.17 |                 3 |       15 |                75 |      89.75 | Kylan Hamdaoui          |             80 |
 |             75 | Karl Chateau          |      76.75 |                27 |       16 |               nan |      80.42 | Sergo Abramishvili      |             32 |
@@ -46,6 +46,6 @@ Stade Francais Paris by 10.2 on a neutral pitch
 |             29 | Sadek Deghmache       |      63.04 |                 1 |       19 |                81 |      87.89 | Lucas Peyresblanques    |             30 |
 |             29 | Xavier Chiocci        |      74.98 |                14 |       20 |                61 |      83.88 | JJ van der Mescht       |             30 |
 |             29 | Brayden Wiliame       |      77.9  |                26 |       21 |                77 |      89.81 | Jeremy Ward             |             29 |
-|             29 | Tristan Tedder        |      62.4  |                 1 |       22 |                81 |      90.04 | James Hall              |             29 |
+|             29 | Tristan Tedder        |      62.4  |                 1 |       22 |                81 |      90.05 | James Hall              |             29 |
 |             29 | Seilala Lam           |      70.99 |                 6 |       23 |                37 |      79.05 | Nemo Roelofse           |             27 |
 

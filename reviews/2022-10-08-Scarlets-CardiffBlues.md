@@ -32,14 +32,14 @@ Cardiff Blues by 5.0 on a neutral pitch
 |             70 | Seb Davies          |      81.29 |                51 |        5 |                22 |      75.99 | Steven Cummins  |             80 |
 |             80 | Josh Turnbull       |      75.88 |                17 |        6 |                94 |     102.3  | Vaea Fifita     |             80 |
 |             80 | Thomas Young        |      86.9  |                78 |        7 |                45 |      80.07 | Blade Thomson   |             58 |
-|             80 | Taulupe Faletau     |      90.55 |                80 |        8 |                16 |      73.27 | Tevita Ratuva   |             80 |
+|             80 | Taulupe Faletau     |      90.55 |                80 |        8 |                16 |      73.28 | Tevita Ratuva   |             80 |
 |             69 | Lloyd Williams      |      95.96 |                89 |        9 |                58 |      82.24 | Gareth Davies   |             52 |
 |             54 | Jarrod Evans        |      90.1  |                80 |       10 |                16 |      75.36 | Sam Costelow    |             80 |
 |             80 | Theo Cabango        |      68.9  |                 4 |       11 |                98 |     112.3  | Liam Williams   |             80 |
 |             80 | Uilisi Halaholo     |      99.47 |                91 |       12 |                 4 |      68.97 | Benson Stanley  |             80 |
 |              8 | Rey Lee-Lo          |     101.97 |                93 |       13 |                68 |      84.61 | Ryan Conbeer    |             54 |
-|             80 | Jason Harries       |      94.07 |                88 |       14 |                35 |      77.6  | Tom Rogers      |             80 |
 |             80 | Jason Harries       |      94.07 |                88 |       14 |                28 |      77.6  | Tom Rogers      |             80 |
+|             80 | Jason Harries       |      94.07 |                88 |       14 |                35 |      77.6  | Tom Rogers      |             80 |
 |             80 | Rhys Priestland     |      76.94 |                23 |       15 |               nan |      80.25 | Leigh Halfpenny |             80 |
 |             72 | Max Llewellyn       |      75.43 |                17 |       16 |                93 |      98.08 | Ken Owens       |             28 |
 |             53 | Will Boyde          |      72.17 |                15 |       17 |                80 |      86.99 | Wyn Jones       |             28 |

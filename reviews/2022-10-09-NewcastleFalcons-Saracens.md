@@ -29,7 +29,7 @@ Saracens by 7.2 on a neutral pitch
 |             67 | Kapeli Pifeleti    |      81.29 |                45 |        2 |                30 |      78.07 | George McGuigan     |             51 |
 |             59 | Marco Riccioni     |      76.35 |                15 |        3 |                64 |      83.43 | Richard Palframan   |             67 |
 |             80 | Callum Hunter-Hill |      67.77 |                 6 |        4 |                 1 |      59.8  | Greg Peterson       |             53 |
-|             80 | Theo McFarland     |      89.33 |                82 |        5 |                74 |      87.24 | Sean Robinson       |             80 |
+|             80 | Theo McFarland     |      89.31 |                82 |        5 |                74 |      87.24 | Sean Robinson       |             80 |
 |             53 | Jackson Wray       |     103.2  |                94 |        6 |                98 |     112.31 | Will Welch          |             80 |
 |             76 | Ben Earl           |     102.13 |                94 |        7 |                86 |      92.73 | Connor Collett      |             80 |
 |             60 | Billy Vunipola     |     117.5  |                98 |        8 |                 8 |      68.73 | Callum Chick        |             40 |
@@ -38,10 +38,10 @@ Saracens by 7.2 on a neutral pitch
 |             59 | Alex Lewington     |      86.03 |                72 |       11 |                12 |      73.73 | Mateo Carreras      |             80 |
 |             80 | Nick Tompkins      |     103.99 |                95 |       12 |                55 |      83.02 | Matias Orlando      |             59 |
 |             76 | Alex Lozowski      |      82.49 |                53 |       13 |                97 |     110.11 | Matias Moroni       |             80 |
-|             80 | Max Malins         |      84.83 |                69 |       14 |                94 |     103.02 | Adam Radwan         |             52 |
+|             80 | Max Malins         |      84.84 |                69 |       14 |                94 |     103.02 | Adam Radwan         |             52 |
 |             80 | Elliot Daly        |      82.16 |                52 |       15 |                96 |     103.83 | Tom Penny           |             80 |
 |             13 | Theo Dan           |      83.12 |                64 |       16 |                67 |      83.15 | Jamie Blamire       |             29 |
-|             20 | Eroni Mawi         |      77.13 |                21 |       17 |                87 |      89.77 | Logovi'i Mulipola   |             21 |
+|             20 | Eroni Mawi         |      77.14 |                21 |       17 |                87 |      89.77 | Logovi'i Mulipola   |             21 |
 |             21 | Alec Clarey        |      74.95 |                17 |       18 |                31 |      78.2  | Mark Tampin         |             13 |
 |              4 | Hugh Tizard        |      84.18 |                65 |       19 |                26 |      76.59 | Sebastian de Chaves |             27 |
 |             27 | Andy Christie      |      83.53 |                64 |       20 |                84 |      91.71 | Freddie Lockwood    |             40 |

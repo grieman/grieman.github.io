@@ -26,11 +26,11 @@ Northampton Saints by 5.4 on a neutral pitch
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
 |             51 | Alex Waller          |     117.57 |                99 |        1 |                57 |      82.53 | Robin Hislop         |             51 |
-|             78 | Sam Matavesi         |      83.96 |                69 |        2 |                16 |      75.63 | Gabriel Oghre        |             81 |
+|             78 | Sam Matavesi         |      83.97 |                69 |        2 |                16 |      75.63 | Gabriel Oghre        |             81 |
 |             57 | Paul Hill            |      94.82 |                92 |        3 |                69 |      84.58 | John Ryan            |             56 |
 |             81 | Lukhan Salakaia-Loto |      86.28 |                71 |        4 |                94 |     101.65 | Joe Launchbury       |             41 |
 |             58 | Alex Moon            |     110.28 |                97 |        5 |                50 |      80.97 | Kiran McDonald       |             81 |
-|             81 | Alex Coles           |      74.78 |                19 |        6 |                13 |      74.95 | Ben Morris           |             14 |
+|             81 | Alex Coles           |      74.77 |                19 |        6 |                13 |      74.95 | Ben Morris           |             14 |
 |             81 | Lewis Ludlam         |      98.37 |                91 |        7 |                84 |      90.71 | Jack Willis          |             81 |
 |             51 | Sam Graham           |      77.22 |               nan |        8 |                83 |      90.4  | Nizaam Carr          |             81 |
 |             81 | Alex Mitchell        |      99.02 |                92 |        9 |                98 |     110.16 | Dan Robson           |             40 |

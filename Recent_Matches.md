@@ -38,9 +38,9 @@ key: page-recents
 ## RFU Championship 2022
 
 
-[2022-10-08 Bedford at Doncaster; 19-50](reviews//2022-10-08-Doncaster-Bedford)
-
 [2022-10-08 Nottingham at Hartpury College; 31-39](reviews//2022-10-08-HartpuryCollege-Nottingham)
+
+[2022-10-08 Bedford at Doncaster; 19-50](reviews//2022-10-08-Doncaster-Bedford)
 
 [2022-10-08 Jersey at Caldy; 32-19](reviews//2022-10-08-Caldy-Jersey)
 
@@ -51,8 +51,6 @@ key: page-recents
 [2022-10-09 Ampthill at Cornish Pirates; 13-15](reviews//2022-10-09-CornishPirates-Ampthill)
 ## Top 14 Orange 2022
 
-
-[2022-10-02 Stade Toulousain at Montpellier Herault; 19-17](reviews//2022-10-02-MontpellierHerault-StadeToulousain)
 
 [2022-10-08 Montpellier Herault at Castres Olympique; 13-26](reviews//2022-10-08-CastresOlympique-MontpellierHerault)
 

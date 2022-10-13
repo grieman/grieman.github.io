@@ -32,7 +32,7 @@ Gloucester Rugby by 15.3 on a neutral pitch
 |             74 | Matias Alemanno     |      99.95 |                93 |        5 |                82 |      90.48 | Quinn Roux            |             71 |
 |             80 | Ruan Ackermann      |     100.51 |                93 |        6 |                13 |      76.43 | Tom Ellis             |             80 |
 |             80 | Lewis Ludlow        |      97.95 |                92 |        7 |                52 |      81.11 | Miles Reid            |             80 |
-|             36 | Albert Tuisue       |      94.98 |                88 |        8 |                44 |      75.86 | Nahum Merigan         |             67 |
+|             36 | Albert Tuisue       |      94.99 |                88 |        8 |                44 |      75.86 | Nahum Merigan         |             67 |
 |             58 | Ben Meehan          |      94.69 |                88 |        9 |                 7 |      71.85 | Louis Schreuder       |             51 |
 |             80 | Adam Hastings       |     109.43 |                95 |       10 |                82 |      91.74 | Piers Francis         |             39 |
 |             80 | Santiago Carreras   |     107.25 |                94 |       11 |                82 |      90.42 | Gabriel Hamer-Webb    |             80 |

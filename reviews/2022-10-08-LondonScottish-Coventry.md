@@ -41,7 +41,7 @@ Coventry by 8.2 on a neutral pitch
 |             80 | William Talbot-Davies |      71.59 |                 8 |       14 |                 0 |      54.97 | Noah Ferdinand        |             80 |
 |             80 | Louis Brown           |      74.86 |                14 |       15 |                 7 |      70.57 | Cameron Anderson      |             80 |
 |             30 | Shea Cornish          |      79.54 |               nan |       16 |                18 |      75.87 | Zach Clow             |             66 |
-|             16 | Jake Bridges          |      75.41 |                15 |       17 |               nan |      78.84 | Sam Smith             |             40 |
+|             16 | Jake Bridges          |      75.41 |                16 |       17 |               nan |      78.84 | Sam Smith             |             40 |
 |             30 | Ollie Betteridge      |      77.98 |                27 |       18 |                11 |      73.69 | Maurice Nwakor        |             40 |
 |             17 | Finlay Ogden          |      78.23 |                32 |       19 |                 1 |      63.97 | Brian Tuilagi         |             30 |
 |             17 | Tom Ball              |      82.95 |                65 |       20 |                 4 |      69.96 | Luca Petrozzi         |              9 |

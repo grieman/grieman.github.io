@@ -31,15 +31,15 @@ Castres Olympique by 3.2 on a neutral pitch
 |             80 | Masivesi Dakuwaqa           |      88.42 |                77 |        4 |                13 |      73.15 | Ryno Pieterse        |             45 |
 |             57 | Nicolaas Janse van Rensburg |      94.04 |                86 |        5 |                93 |     100.31 | Tom Staniforth       |             60 |
 |             80 | Romain Macurdy              |      76.51 |               nan |        6 |                67 |      83.5  | Mathieu Babillot     |             80 |
-|             66 | Clément Doumenc             |      96.02 |                88 |        7 |                83 |      89.3  | Tyler Ardron         |             80 |
-|             80 | Marco Tauleigne             |      84.6  |                66 |        8 |                83 |      89.3  | Tyler Ardron         |             45 |
+|             66 | Clément Doumenc             |      96.02 |                88 |        7 |                82 |      89.3  | Tyler Ardron         |             80 |
+|             80 | Marco Tauleigne             |      84.6  |                66 |        8 |                82 |      89.3  | Tyler Ardron         |             45 |
 |             50 | Cobus Reinach               |     102.36 |                94 |        9 |                56 |      81.9  | Santiago Arata       |             59 |
 |             80 | Louis Foursans-Bourdette    |      80.31 |                44 |       10 |                99 |     118.64 | Benjamin Urdapilleta |             80 |
 |             80 | Gela Aprasidze              |      90.36 |                83 |       11 |                21 |      76.83 | George Tilsley       |             72 |
-|             63 | Yacouba Camara              |     100.97 |                93 |       12 |                85 |      93.93 | Vilimoni Botitu      |             80 |
-|             54 | Pierre Lucas                |      82.45 |                56 |       13 |                92 |     100.57 | Afusipa Taumoepeau   |             80 |
-|             80 | Gabriel Ngandebe            |      85.86 |                71 |       14 |                42 |      79.67 | Bastien Guillemin    |             80 |
-|             80 | Gabriel Ngandebe            |      85.86 |                78 |       14 |                42 |      79.67 | Bastien Guillemin    |             80 |
+|             63 | Yacouba Camara              |     100.97 |                93 |       12 |                85 |      93.94 | Vilimoni Botitu      |             80 |
+|             54 | Pierre Lucas                |      82.45 |                56 |       13 |                92 |     100.58 | Afusipa Taumoepeau   |             80 |
+|             80 | Gabriel Ngandebe            |      85.86 |                71 |       14 |                42 |      79.66 | Bastien Guillemin    |             80 |
+|             80 | Gabriel Ngandebe            |      85.86 |                78 |       14 |                42 |      79.66 | Bastien Guillemin    |             80 |
 |             80 | Bastien Fuster              |      84.7  |               nan |       15 |                50 |      81.5  | Julien Dumora        |             80 |
 |             43 | Enzo Forletta               |      95.55 |                93 |       16 |                71 |      83.11 | Wayan de Benedittis  |             39 |
 |             30 | Mohamed Haouas              |      82.59 |                61 |       17 |                 8 |      69.93 | Gauthier Maravat     |             35 |

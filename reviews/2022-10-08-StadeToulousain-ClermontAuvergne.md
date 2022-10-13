@@ -29,7 +29,7 @@ Stade Toulousain by 8.4 on a neutral pitch
 |             80 | Adrien Pelissie     |      90.29 |                81 |        2 |                66 |      83.49 | Guillaume Marchand |             80 |
 |             80 | Giorgi Dzmanashvili |      80.11 |               nan |        3 |                93 |      98.48 | Dorian Aldegheri   |             80 |
 |             80 | Paul Jedrasiak      |      89.47 |                80 |        4 |                91 |      97.83 | Anthony Jelonch    |             80 |
-|             80 | Tomas Lavanini      |      92.49 |                83 |        5 |                96 |     105.78 | Thibaud Flament    |             80 |
+|             80 | Tomas Lavanini      |      92.49 |                86 |        5 |                96 |     105.78 | Thibaud Flament    |             80 |
 |             80 | Jacobus van Tonder  |      85.33 |                73 |        6 |                91 |     100.21 | Pierre Bochaton    |             80 |
 |             80 | Killian Tixeront    |      85.66 |                64 |        7 |                87 |      93.28 | Rynhardt Elstadt   |             80 |
 |             80 | Talalelei Gray      |      91.55 |                81 |        8 |                80 |      91.21 | Selevasio Tolofua  |             80 |

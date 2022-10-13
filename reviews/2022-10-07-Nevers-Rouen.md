@@ -40,7 +40,7 @@ Nevers by 0.2 on a neutral pitch
 |             52 | Taylor Gontineac      |      79.77 |                39 |       13 |                 1 |      64.2  | Alifereti Loaloa   |             80 |
 |             80 | Paul Surano           |      80.43 |                48 |       14 |                52 |      81.27 | Lucas Blanc        |             80 |
 |             80 | Peter Lydon           |      91.51 |                79 |       15 |                 1 |      62.72 | Benjamin Dumas     |             55 |
-|             40 | Cody Thomas           |      80.17 |                49 |       16 |                25 |      77.29 | Cleopas Kundiona   |             34 |
+|             40 | Cody Thomas           |      80.17 |                50 |       16 |                25 |      77.29 | Cleopas Kundiona   |             34 |
 |             34 | Soulemane Camara      |      80.67 |                51 |       17 |                46 |      79.89 | Lasha Jaiani       |             34 |
 |             34 | Joris Lezat           |      75.11 |                17 |       18 |                94 |     103.46 | Jason-Colin Fraser |             25 |
 |             34 | Mathieu Bonnot        |      90.63 |                85 |       19 |                 8 |      72.18 | Thomas Zenon       |             25 |

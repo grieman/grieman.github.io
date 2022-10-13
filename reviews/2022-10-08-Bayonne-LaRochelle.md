@@ -28,7 +28,7 @@ La Rochelle by 4.9 on a neutral pitch
 |             46 | Leo Aouf            |      81.17 |                50 |        1 |                62 |      82.79 | Swan Cormenier          |             63 |
 |             46 | Quentin Lespiaucq   |      80.43 |                59 |        2 |                77 |      86.74 | Facundo Bosch           |             64 |
 |             55 | Uini Atonio         |     106.38 |                97 |        3 |                33 |      79.27 | Pascal Cotet            |             71 |
-|             55 | Romain Sazy         |      84.54 |                67 |        4 |                86 |      92.29 | Manuel Leindekar        |             80 |
+|             55 | Romain Sazy         |      84.54 |                67 |        4 |                85 |      92.29 | Manuel Leindekar        |             80 |
 |             80 | Will Skelton        |      91.32 |                84 |        5 |                78 |      89.6  | Thomas Ceyte            |             66 |
 |             55 | Ultan Dillane       |      87.2  |                73 |        6 |                35 |      78.56 | Baptiste Heguy          |             80 |
 |             80 | Gregory Alldritt    |     101.25 |                95 |        7 |                44 |      79.81 | Pierre Huguet           |             58 |
@@ -38,11 +38,11 @@ La Rochelle by 4.9 on a neutral pitch
 |             80 | Mitch Inman         |      89.92 |                80 |       10 |                98 |     116.88 | Camille Lopez           |             79 |
 |             80 | Arthur Retiere      |      79.23 |                40 |       11 |                68 |      84.48 | Remy Baget              |             80 |
 |             77 | Jules Favre         |     104.53 |                95 |       12 |                96 |     105.71 | Thomas Combezou         |             41 |
-|             80 | Dillyn Leyds        |      98.63 |                92 |       13 |                58 |      83.45 | Sireli Maqala           |             80 |
-|             80 | Dillyn Leyds        |      98.63 |                93 |       13 |                58 |      83.45 | Sireli Maqala           |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                90 |       13 |                58 |      83.45 | Sireli Maqala           |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                94 |       13 |                58 |      83.45 | Sireli Maqala           |             80 |
 |             50 | Marc Andreu         |      95.63 |                89 |       14 |                51 |      81.24 | Victor Hannoun          |             80 |
-|             80 | Dillyn Leyds        |      98.63 |                92 |       15 |                84 |      93.42 | Gaetan Germain          |             80 |
-|             80 | Dillyn Leyds        |      98.63 |                93 |       15 |                84 |      93.42 | Gaetan Germain          |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                94 |       15 |                84 |      93.42 | Gaetan Germain          |             80 |
+|             80 | Dillyn Leyds        |      98.63 |                90 |       15 |                84 |      93.42 | Gaetan Germain          |             80 |
 |             34 | Pierre Bourgarit    |      80.84 |                52 |       16 |                82 |      92.1  | Guillaume Martocq       |             39 |
 |             34 | Reda Wardi          |      90.42 |                86 |       17 |                 9 |      72.74 | Mateaki Kafatolu        |             22 |
 |             30 | Martin Alonso Munoz |      81.88 |                47 |       18 |                64 |      84.18 | Quentin Bethune         |             17 |
