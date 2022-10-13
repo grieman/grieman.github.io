@@ -4,6 +4,8 @@ title: Richmond at Ealing Trailfinders; 19-56
 date: 2022-10-08 16:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# Richmond (1165.4) at Ealing Trailfinders (1357.74)
+
 # Prediction: Ealing Trailfinders by 24.2
 
 

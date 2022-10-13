@@ -4,6 +4,8 @@ title: Ampthill at Cornish Pirates; 13-15
 date: 2022-10-09 15:30:00 18:00:00 -0500  
 categories: match review  
 ---
+# Ampthill (1224.32) at Cornish Pirates (1215.72)
+
 # Prediction: Cornish Pirates by 4.1
 
 

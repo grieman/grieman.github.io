@@ -4,6 +4,8 @@ title: Northland at Canterbury; 16.0-23.0
 date: 2022-10-07 23:35:00 18:00:00 -0500  
 categories: match review  
 ---
+# Northland (1254.68) at Canterbury (1355.38)
+
 # Prediction: Canterbury by 15.1
 
 

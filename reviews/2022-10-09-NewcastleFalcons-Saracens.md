@@ -4,6 +4,8 @@ title: Saracens at Newcastle Falcons; 34.0-14.0
 date: 2022-10-09 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# Saracens (1382.29) at Newcastle Falcons (1328.52)
+
 # Prediction: Saracens by 0.4
 
 

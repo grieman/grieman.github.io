@@ -4,6 +4,8 @@ title: Biarritz Olympique at Montauban; 46-32
 date: 2022-10-06 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# Biarritz Olympique (1222.09) at Montauban (1212.7)
+
 # Prediction: Montauban by 4.1
 
 

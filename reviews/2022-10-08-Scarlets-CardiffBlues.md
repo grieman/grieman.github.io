@@ -4,6 +4,8 @@ title: Cardiff Blues at Scarlets; 16-10
 date: 2022-10-08 18:15:00 18:00:00 -0500  
 categories: match review  
 ---
+# Cardiff Blues (1248.47) at Scarlets (1241.95)
+
 # Prediction: Scarlets by 4.3
 
 

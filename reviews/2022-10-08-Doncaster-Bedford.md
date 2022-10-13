@@ -4,6 +4,8 @@ title: Bedford at Doncaster; 19-50
 date: 2022-10-08 15:30:00 18:00:00 -0500  
 categories: match review  
 ---
+# Bedford (1257.02) at Doncaster (1241.84)
+
 # Prediction: Doncaster by 3.5
 
 

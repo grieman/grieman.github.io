@@ -4,6 +4,8 @@ title: Jersey at Caldy; 32-19
 date: 2022-10-08 16:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# Jersey (1298.24) at Caldy (1142.24)
+
 # Prediction: Jersey by 10.6
 
 

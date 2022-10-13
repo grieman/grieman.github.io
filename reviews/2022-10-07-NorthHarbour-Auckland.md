@@ -4,6 +4,8 @@ title: Auckland at North Harbour; 21.0-18.0
 date: 2022-10-07 02:05:00 18:00:00 -0500  
 categories: match review  
 ---
+# Auckland (1282.85) at North Harbour (1302.43)
+
 # Prediction: North Harbour by 7.0
 
 

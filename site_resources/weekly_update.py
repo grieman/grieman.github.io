@@ -16,6 +16,7 @@ from mdutils.mdutils import MdUtils
 from mdutils import Html
 from support_files.team_colors import team_color_dict
 import support_files.real_time_preds as real_time_preds
+from support_files.comp_levels import comp_level_dict, comp_match_dict
 from tabulate import tabulate
 import os
 import glob
@@ -26,6 +27,7 @@ from plot_functions import *
 
 
 ## Need to ge the current home advantage? as 5 as of 8/5
+# this should not be hard coded
 home_advantage = 5
 
 
@@ -100,7 +102,7 @@ rec_dir_md = MdUtils(file_name=f'temp//Recent_Matches')
 rec_dir_md.new_line("HEADERSTART")
 rec_dir_md.new_line("---")
 rec_dir_md.new_line("layout: article")
-rec_dir_md.new_line(f"title: Recent Matches")
+rec_dir_md.new_line(f'title: Recent Matches')
 rec_dir_md.new_line("key: page-recents")
 rec_dir_md.new_line("---")
 
@@ -156,8 +158,8 @@ for recent_game in recent_games:
         rec_match_md.new_line("HEADERSTART")
         rec_match_md.new_line("---")
         rec_match_md.new_line("layout: page")
-        rec_match_md.new_line(f"title: {score_header}")
-        rec_match_md.new_line(f"date: {recent_game['date']} 18:00:00 -0500")
+        rec_match_md.new_line(f'title: {score_header}')
+        rec_match_md.new_line(f'date: {recent_game["date"]} 18:00:00 -0500')
         rec_match_md.new_line("categories: match review")
         rec_match_md.new_line("---")
 
@@ -176,6 +178,7 @@ for recent_game in recent_games:
         n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
         n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)} on a neutral field'
 
+        rec_match_md.new_header(level = 1, title = main_header)
         rec_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
         rec_match_md.new_paragraph(n_pred_text)
 
@@ -195,9 +198,9 @@ for recent_game in recent_games:
 
 
             rec_match_md.new_header(level = 2, title = 'Scores over Time')
-            rec_match_md.new_paragraph(f"![In Match Scores]({score_path})")
+            rec_match_md.new_paragraph(f'![In Match Scores]({score_path})')
             rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
-            rec_match_md.new_paragraph(f"![In Match Predictions]({prob_path})")
+            rec_match_md.new_paragraph(f'![In Match Predictions]({prob_path})')
 
 
         rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
@@ -264,7 +267,7 @@ fut_dir_md = MdUtils(file_name=f'temp//Current_Projections')
 fut_dir_md.new_line("HEADERSTART")
 fut_dir_md.new_line("---")
 fut_dir_md.new_line("layout: article")
-fut_dir_md.new_line(f"title: Current Projections")
+fut_dir_md.new_line(f'title: Current Projections')
 fut_dir_md.new_line("key: page-projections")
 fut_dir_md.new_line("---")
 
@@ -298,14 +301,14 @@ for future_game in future_games:
     pretty_name = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
     file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
     main_header = f'{future_game["away_team_name"]} ({round(future_game["lineup_away_elo"], 2)}) at {future_game["home_team_name"]} ({round(future_game["lineup_home_elo"], 2)})'
-    fut_match_md = MdUtils(file_name=f'temp//{file_name}', title=main_header)
+    fut_match_md = MdUtils(file_name=f'temp//{file_name}')
 
     # yaml header
     fut_match_md.new_line("HEADERSTART")
     fut_match_md.new_line("---")
     fut_match_md.new_line("layout: page")
-    fut_match_md.new_line(f"title: {pretty_name}")
-    fut_match_md.new_line(f"date: {future_game['date']} 18:00:00 -0500")
+    fut_match_md.new_line(f'title: {pretty_name}')
+    fut_match_md.new_line(f'date: {future_game["date"]} 18:00:00 -0500')
     fut_match_md.new_line("categories: match prediction")
     fut_match_md.new_line("---")
 
@@ -317,6 +320,7 @@ for future_game in future_games:
     n_favorite = future_game["home_team_name"] if future_game["lineup_spread"] > 0 else future_game["away_team_name"]
     n_pred_text = f'{n_favorite} by {round(abs(future_game["lineup_spread"]), 1)} on a neutral pitch'
 
+    fut_match_md.new_header(level = 1, title = main_header)
     fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
     fut_match_md.new_paragraph(n_pred_text)
     fut_match_md.new_paragraph(player_table)
@@ -329,9 +333,8 @@ for future_game in future_games:
     #projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
     #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
-
-    match_dir_strings.append(f'[{pretty_name}](projections//{file_name})')
-    match_comps.append(future_game['competition'])
+    match_dir_strings.append(f'[{future_game["date"].date().strftime("%Y-%m-%d")} {pretty_name}](projections//{file_name})')
+    match_comps.append(future_game['competition'][:-5])
     match_levels.append(future_game['comp_level'])
     match_dates.append(future_game["date"])
 
@@ -342,6 +345,75 @@ for future_game in future_games:
 
     ## quick and dirty remove empty leading lines
     clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
+
+print("FUTURE MATCHES - NO LINEUPS")
+all_fut_matches = glob.glob(os.path.join("../Rugby_ELO/future_matches", "*.psv"))
+fut_matches_df = pd.concat((pd.read_csv(f, sep="|") for f in all_fut_matches))
+fut_matches_df = fut_matches_df.drop(["Unnamed: 0"], axis=1)
+fut_matches_df.Date = pd.to_datetime(fut_matches_df.Date)
+fut_matches_df = fut_matches_df[fut_matches_df.Date < datetime.datetime.now() + datetime.timedelta(days=7)]
+
+league_parts = fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"].str.split('_').str[0]
+year_parts = fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"].str.split('_').str[1]
+fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"] = league_parts.replace(comp_match_dict) + " " + year_parts
+
+fut_matches_df['comp_level'] = "Unknown"
+for key, value in comp_level_dict.items():
+    fut_matches_df.loc[fut_matches_df.Competition.str.contains(key), 'comp_level'] = value
+
+fut_matches_df['Competition'] = fut_matches_df['Competition'].str[:-5]
+
+for _, row in fut_matches_df.iterrows():
+    pretty_name = f'{row["Away Team"]} at {row["Home Team"]}'
+    file_name = f'{row["Date"].date().strftime("%Y-%m-%d")}-{row["Home Team"].replace(" ", "")}-{row["Away Team"].replace(" ", "")}'
+
+    if f'[{row["Date"]} {pretty_name}](projections//{file_name})' not in match_dir_strings:
+        home_club = teamlist[row['Home Team']]
+        away_club = teamlist[row['Away Team']]
+
+        home_club_elos = [x['elo'] for x in home_club.history[-5:]]
+        away_club_elos = [x['elo'] for x in away_club.history[-5:]]
+        historic_weighting = [0.1, 0.1, 0.2, 0.3, 0.3]
+        home_elo_avg = sum(np.multiply(home_club_elos, historic_weighting))
+        away_elo_avg = sum(np.multiply(away_club_elos, historic_weighting))
+
+        imputed_spread =  (home_elo_avg -  away_elo_avg) / 10 #GLOBAL_score_factor == 10, this should not be hard-coded
+
+        main_header = f'{row["Away Team"]} (~{round(away_elo_avg, 2)}) at {row["Home Team"]} (~{round(home_elo_avg, 2)})'
+
+        fut_match_md = MdUtils(file_name=f'temp//{file_name}')
+
+        # yaml header
+        fut_match_md.new_line("HEADERSTART")
+        fut_match_md.new_line("---")
+        fut_match_md.new_line("layout: page")
+        fut_match_md.new_line(f'title: {pretty_name}')
+        fut_match_md.new_line(f'date: {row["Date"]} 18:00:00 -0500')
+        fut_match_md.new_line("categories: match prediction imputed")
+        fut_match_md.new_line("---")
+
+        print(pretty_name)
+
+        favorite = row["Home Team"] if imputed_spread + home_advantage > 0 else row["Away Team"]
+        pred_text = f'{favorite} by {round(abs(imputed_spread + home_advantage), 1)}'
+
+        n_favorite = row["Home Team"] if imputed_spread > 0 else row["Away Team"]
+        n_pred_text = f'{favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
+
+        fut_match_md.new_header(level = 1, title = main_header)
+        fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')
+        fut_match_md.new_paragraph(n_pred_text)
+        fut_match_md.new_paragraph()
+
+        match_dir_strings.append(f'[{row["Date"]} {pretty_name}](projections//{file_name})')
+        match_comps.append(row['Competition'])
+        match_levels.append(row['comp_level'])
+        match_dates.append(row['Date'])
+
+        fut_match_md.create_md_file()
+
+        clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
+
 
 
 dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
@@ -369,6 +441,7 @@ if dir_dom.shape[0] > 0:
         fut_dir_md.new_header(level = 2, title = comp)
         for _, row in dir_dom[dir_dom.comps == comp].iterrows():
             fut_dir_md.new_paragraph(row[0])
+
 fut_dir_md.create_md_file()
 clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 

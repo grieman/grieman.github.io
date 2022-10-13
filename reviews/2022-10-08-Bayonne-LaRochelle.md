@@ -4,6 +4,8 @@ title: La Rochelle at Bayonne; 13-29
 date: 2022-10-08 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# La Rochelle (1368.16) at Bayonne (1323.92)
+
 # Prediction: Bayonne by 0.6
 
 

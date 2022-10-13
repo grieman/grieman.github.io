@@ -4,6 +4,8 @@ title: Colomiers at Beziers; 20-17
 date: 2022-10-07 19:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# Colomiers (1202.44) at Beziers (1183.09)
+
 # Prediction: Beziers by 3.1
 
 

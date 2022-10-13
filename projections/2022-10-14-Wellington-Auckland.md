@@ -4,6 +4,8 @@ title: Auckland at Wellington
 date: 2022-10-14 02:05:00 18:00:00 -0500  
 categories: match prediction  
 ---
+# Auckland (1297.69) at Wellington (1328.48)
+
 # Prediction: Wellington by 8.1
 
 

@@ -4,6 +4,8 @@ title: Soyaux-Angouleme at Mont de Marsan; 26-34
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
+# Soyaux-Angouleme (1165.03) at Mont de Marsan (1288.25)
+
 # Prediction: Mont de Marsan by 17.3
 
 

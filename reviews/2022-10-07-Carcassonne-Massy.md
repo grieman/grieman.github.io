@@ -4,6 +4,8 @@ title: Massy at Carcassonne; 20-17
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
+# Massy (1187.53) at Carcassonne (1201.9)
+
 # Prediction: Carcassonne by 6.4
 
 

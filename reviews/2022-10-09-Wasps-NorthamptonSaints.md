@@ -4,6 +4,8 @@ title: Northampton Saints at Wasps; 40.0-36.0
 date: 2022-10-09 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
+# Northampton Saints (1380.86) at Wasps (1335.21)
+
 # Prediction: Wasps by 0.4
 
 

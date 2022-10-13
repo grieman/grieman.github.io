@@ -4,6 +4,8 @@ title: Aurillac at Agen; 20-43
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
+# Aurillac (1186.69) at Agen (1203.45)
+
 # Prediction: Agen by 6.7
 
 

@@ -4,6 +4,8 @@ title: Clermont Auvergne at Stade Toulousain; 10-46
 date: 2022-10-08 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
+# Clermont Auvergne (1334.7) at Stade Toulousain (1430.46)
+
 # Prediction: Stade Toulousain by 14.6
 
 

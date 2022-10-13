@@ -4,6 +4,8 @@ title: Bay of Plenty at Waikato; 34.0-27.0
 date: 2022-10-08 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
+# Bay of Plenty (1297.31) at Waikato (1308.62)
+
 # Prediction: Waikato by 6.1
 
 
