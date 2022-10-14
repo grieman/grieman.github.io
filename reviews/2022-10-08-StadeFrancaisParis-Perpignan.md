@@ -4,7 +4,7 @@ title: Perpignan at Stade Francais Paris; 3-52
 date: 2022-10-08 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Perpignan (1231.23) at Stade Francais Paris (1311.23)
+# Perpignan (1231.23) at Stade Francais Paris (1311.23); 3-52
 
 # Prediction: Stade Francais Paris by 13.0
 

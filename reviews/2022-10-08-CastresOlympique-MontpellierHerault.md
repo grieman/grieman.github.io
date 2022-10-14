@@ -4,7 +4,7 @@ title: Montpellier Herault at Castres Olympique; 13-26
 date: 2022-10-08 15:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Montpellier Herault (1298.93) at Castres Olympique (1335.13)
+# Montpellier Herault (1298.93) at Castres Olympique (1335.13); 13-26
 
 # Prediction: Castres Olympique by 8.6
 

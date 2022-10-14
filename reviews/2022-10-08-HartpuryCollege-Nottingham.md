@@ -4,7 +4,7 @@ title: Nottingham at Hartpury College; 31-39
 date: 2022-10-08 15:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Nottingham (1222.55) at Hartpury College (1186.75)
+# Nottingham (1222.55) at Hartpury College (1186.75); 31-39
 
 # Prediction: Hartpury College by 1.4
 

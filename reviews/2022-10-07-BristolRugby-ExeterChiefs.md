@@ -4,7 +4,7 @@ title: Exeter Chiefs at Bristol Rugby; 50.0-14.0
 date: 2022-10-07 14:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Exeter Chiefs (1380.4) at Bristol Rugby (1250.58)
+# Exeter Chiefs (1380.4) at Bristol Rugby (1250.58); 50.0-14.0
 
 # Prediction: Exeter Chiefs by 8.0
 

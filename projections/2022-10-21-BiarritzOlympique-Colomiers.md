@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Agen at Biarritz Olympique  
-date: 2022-10-14 00:00:00 18:00:00 -0500  
+title: Colomiers at Biarritz Olympique  
+date: 2022-10-21 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Agen (~1211.14) at Biarritz Olympique (~1202.46)
+# Colomiers (~1211.33) at Biarritz Olympique (~1202.46)
 
 # Prediction: Biarritz Olympique by 4.1
 

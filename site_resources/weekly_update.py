@@ -119,7 +119,7 @@ for recent_game in recent_games:
         pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
         file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
         score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
-        main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)})'
+        main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)}); {recent_game["away_score"]}-{recent_game["home_score"]}'
         print(pretty_name)
 
         # team colors
@@ -333,7 +333,7 @@ for future_game in future_games:
     #projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
     #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
-    match_dir_strings.append(f'[{future_game["date"].date().strftime("%Y-%m-%d")} {pretty_name}](projections//{file_name})')
+    match_dir_strings.append(f'[{future_game["date"].date().strftime("%Y-%m-%d")} {main_header}](projections//{file_name})')
     match_comps.append(future_game['competition'][:-5])
     match_levels.append(future_game['comp_level'])
     match_dates.append(future_game["date"])
@@ -364,16 +364,17 @@ for key, value in comp_level_dict.items():
 fut_matches_df['Competition'] = fut_matches_df['Competition'].str[:-5]
 
 for _, row in fut_matches_df.iterrows():
+    match_date = row["Date"].date().strftime("%Y-%m-%d")
     pretty_name = f'{row["Away Team"]} at {row["Home Team"]}'
-    file_name = f'{row["Date"].date().strftime("%Y-%m-%d")}-{row["Home Team"].replace(" ", "")}-{row["Away Team"].replace(" ", "")}'
+    file_name = f'{match_date}-{row["Home Team"].replace(" ", "")}-{row["Away Team"].replace(" ", "")}'
 
-    if f'[{row["Date"]} {pretty_name}](projections//{file_name})' not in match_dir_strings:
+    if f'[{match_date} {pretty_name}](projections//{file_name})' not in match_dir_strings:
         home_club = teamlist[row['Home Team']]
         away_club = teamlist[row['Away Team']]
 
         home_club_elos = [x['elo'] for x in home_club.history[-5:]]
         away_club_elos = [x['elo'] for x in away_club.history[-5:]]
-        historic_weighting = [0.1, 0.1, 0.2, 0.3, 0.3]
+        historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
         home_elo_avg = sum(np.multiply(home_club_elos, historic_weighting))
         away_elo_avg = sum(np.multiply(away_club_elos, historic_weighting))
 
@@ -405,10 +406,10 @@ for _, row in fut_matches_df.iterrows():
         fut_match_md.new_paragraph(n_pred_text)
         fut_match_md.new_paragraph()
 
-        match_dir_strings.append(f'[{row["Date"]} {pretty_name}](projections//{file_name})')
+        match_dir_strings.append(f'[{match_date} {main_header}](projections//{file_name})')
         match_comps.append(row['Competition'])
         match_levels.append(row['comp_level'])
-        match_dates.append(row['Date'])
+        match_dates.append(match_date)
 
         fut_match_md.create_md_file()
 

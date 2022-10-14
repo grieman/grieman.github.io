@@ -4,10 +4,10 @@ title: London Irish at Sale Sharks
 date: 2022-10-14 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# London Irish (~1289.62) at Sale Sharks (~1372.27)
+# London Irish (~1289.18) at Sale Sharks (~1370.79)
 
-# Prediction: Sale Sharks by 13.3
+# Prediction: Sale Sharks by 13.2
 
 
-Sale Sharks by 8.3 on a neutral pitch
+Sale Sharks by 8.2 on a neutral pitch
 

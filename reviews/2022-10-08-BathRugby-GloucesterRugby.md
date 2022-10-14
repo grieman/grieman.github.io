@@ -4,7 +4,7 @@ title: Gloucester Rugby at Bath Rugby; 21.0-17.0
 date: 2022-10-08 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Gloucester Rugby (1421.39) at Bath Rugby (1265.96)
+# Gloucester Rugby (1421.39) at Bath Rugby (1265.96); 21.0-17.0
 
 # Prediction: Gloucester Rugby by 10.5
 

@@ -4,7 +4,7 @@ title: Coventry at London Scottish; 46-32
 date: 2022-10-08 16:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Coventry (1156.0) at London Scottish (1068.28)
+# Coventry (1156.0) at London Scottish (1068.28); 46-32
 
 # Prediction: Coventry by 3.8
 

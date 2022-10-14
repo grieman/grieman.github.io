@@ -4,7 +4,7 @@ title: Oyonnax at Provence Rugby; 19-19
 date: 2022-10-07 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Oyonnax (1240.28) at Provence Rugby (1245.79)
+# Oyonnax (1240.28) at Provence Rugby (1245.79); 19-19
 
 # Prediction: Provence Rugby by 5.6
 

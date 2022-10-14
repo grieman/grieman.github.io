@@ -4,7 +4,7 @@ title: Grenoble at Vannes; 10-26
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Grenoble (1221.92) at Vannes (1278.16)
+# Grenoble (1221.92) at Vannes (1278.16); 10-26
 
 # Prediction: Vannes by 10.6
 

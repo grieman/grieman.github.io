@@ -4,7 +4,7 @@ title: Bordeaux Begles at Lyon; 21-36
 date: 2022-10-09 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bordeaux Begles (1292.41) at Lyon (1293.8)
+# Bordeaux Begles (1292.41) at Lyon (1293.8); 21-36
 
 # Prediction: Lyon by 5.1
 

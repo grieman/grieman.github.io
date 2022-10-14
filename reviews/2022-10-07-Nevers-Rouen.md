@@ -4,7 +4,7 @@ title: Rouen at Nevers; 17-27
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Rouen (1171.11) at Nevers (1193.89)
+# Rouen (1171.11) at Nevers (1193.89); 17-27
 
 # Prediction: Nevers by 7.3
 

@@ -4,7 +4,7 @@ title: Hawke's Bay at Wellington; 21.0-28.0
 date: 2022-10-07 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Hawke's Bay (1289.2) at Wellington (1318.52)
+# Hawke's Bay (1289.2) at Wellington (1318.52); 21.0-28.0
 
 # Prediction: Wellington by 7.9
 

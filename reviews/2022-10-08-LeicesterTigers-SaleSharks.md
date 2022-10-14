@@ -4,7 +4,7 @@ title: Sale Sharks at Leicester Tigers; 26.0-16.0
 date: 2022-10-08 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Sale Sharks (1379.83) at Leicester Tigers (1421.68)
+# Sale Sharks (1379.83) at Leicester Tigers (1421.68); 26.0-16.0
 
 # Prediction: Leicester Tigers by 9.2
 
