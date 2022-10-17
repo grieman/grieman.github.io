@@ -4,12 +4,12 @@ title: Saracens at Newcastle Falcons; 34.0-14.0
 date: 2022-10-09 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Saracens (1382.29) at Newcastle Falcons (1328.52); 34.0-14.0
+# Saracens (1529.35) at Newcastle Falcons (1495.73); 34.0-14.0
 
-# Prediction: Saracens by 0.4
+# Prediction: Newcastle Falcons by 1.6
 
 
-Saracens by 5.4 on a neutral field
+Saracens by 3.4 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Saracens by 5.4 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-09-NewcastleFalcons-Saracens.png)
-# Pre-Match Prediction: Saracens by 2.2
+# Pre-Match Prediction: Saracens by 2.0
 
 
-Saracens by 7.2 on a neutral pitch
+Saracens by 3.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             80 | Mako Vunipola      |     110.69 |                98 |        1 |                87 |      90.88 | Adam Brocklebank    |             59 |
-|             67 | Kapeli Pifeleti    |      81.29 |                45 |        2 |                30 |      78.07 | George McGuigan     |             51 |
-|             59 | Marco Riccioni     |      76.35 |                15 |        3 |                64 |      83.43 | Richard Palframan   |             67 |
-|             80 | Callum Hunter-Hill |      67.77 |                 6 |        4 |                 1 |      59.8  | Greg Peterson       |             53 |
-|             80 | Theo McFarland     |      89.31 |                82 |        5 |                74 |      87.24 | Sean Robinson       |             80 |
-|             53 | Jackson Wray       |     103.2  |                94 |        6 |                98 |     112.31 | Will Welch          |             80 |
-|             76 | Ben Earl           |     102.13 |                94 |        7 |                86 |      92.73 | Connor Collett      |             80 |
-|             60 | Billy Vunipola     |     117.5  |                98 |        8 |                 8 |      68.73 | Callum Chick        |             40 |
-|             76 | Ivan van Zyl       |      84.83 |                68 |        9 |                14 |      74.52 | Sam Stuart          |             51 |
-|             80 | Owen Farrell       |     124.37 |               100 |       10 |                76 |      88.6  | Tian Schoeman       |             80 |
-|             59 | Alex Lewington     |      86.03 |                72 |       11 |                12 |      73.73 | Mateo Carreras      |             80 |
-|             80 | Nick Tompkins      |     103.99 |                95 |       12 |                55 |      83.02 | Matias Orlando      |             59 |
-|             76 | Alex Lozowski      |      82.49 |                53 |       13 |                97 |     110.11 | Matias Moroni       |             80 |
-|             80 | Max Malins         |      84.84 |                69 |       14 |                94 |     103.02 | Adam Radwan         |             52 |
-|             80 | Elliot Daly        |      82.16 |                52 |       15 |                96 |     103.83 | Tom Penny           |             80 |
-|             13 | Theo Dan           |      83.12 |                64 |       16 |                67 |      83.15 | Jamie Blamire       |             29 |
-|             20 | Eroni Mawi         |      77.14 |                21 |       17 |                87 |      89.77 | Logovi'i Mulipola   |             21 |
-|             21 | Alec Clarey        |      74.95 |                17 |       18 |                31 |      78.2  | Mark Tampin         |             13 |
-|              4 | Hugh Tizard        |      84.18 |                65 |       19 |                26 |      76.59 | Sebastian de Chaves |             27 |
-|             27 | Andy Christie      |      83.53 |                64 |       20 |                84 |      91.71 | Freddie Lockwood    |             40 |
-|              4 | Ruben de Haas      |      79.02 |                36 |       21 |                96 |     107.09 | Michael Young       |             29 |
-|             21 | Alex Goode         |      99.17 |                91 |       22 |                12 |      73.58 | Pete Lucock         |             21 |
-|              4 | Josh Hallett       |      79.88 |                43 |       23 |                31 |      78.18 | Ben Stevenson       |             28 |
+|             80 | Mako Vunipola      |     113.71 |                94 |        1 |                72 |      98.21 | Adam Brocklebank    |             59 |
+|             67 | Kapeli Pifeleti    |      75.26 |                 1 |        2 |                70 |      98.22 | George McGuigan     |             51 |
+|             59 | Marco Riccioni     |      93.15 |                61 |        3 |                69 |      96.81 | Richard Palframan   |             67 |
+|             80 | Callum Hunter-Hill |      92.64 |                60 |        4 |                12 |      77.71 | Greg Peterson       |             53 |
+|             80 | Theo McFarland     |      81.86 |                42 |        5 |                71 |      98.2  | Sean Robinson       |             80 |
+|             53 | Jackson Wray       |     115.98 |                93 |        6 |                90 |     111.26 | Will Welch          |             80 |
+|             76 | Ben Earl           |     113.13 |                91 |        7 |                89 |     110.63 | Connor Collett      |             80 |
+|             60 | Billy Vunipola     |     123.07 |                96 |        8 |                48 |      89.06 | Callum Chick        |             40 |
+|             76 | Ivan van Zyl       |     106.97 |                86 |        9 |                60 |      91.68 | Sam Stuart          |             51 |
+|             80 | Owen Farrell       |     131.73 |                98 |       10 |                74 |     100.69 | Tian Schoeman       |             80 |
+|             59 | Alex Lewington     |      98.67 |                75 |       11 |                 9 |      76.75 | Mateo Carreras      |             80 |
+|             80 | Nick Tompkins      |     106.9  |                85 |       12 |                80 |     104.59 | Matias Orlando      |             59 |
+|             76 | Alex Lozowski      |      95.8  |                64 |       13 |                97 |     121.88 | Matias Moroni       |             80 |
+|             80 | Max Malins         |      97.65 |                73 |       14 |                90 |     111.33 | Adam Radwan         |             52 |
+|             80 | Elliot Daly        |     102.77 |                78 |       15 |                93 |     113.66 | Tom Penny           |             80 |
+|             13 | Theo Dan           |      80    |               nan |       16 |                78 |     100.97 | Jamie Blamire       |             29 |
+|             20 | Eroni Mawi         |      82.76 |                35 |       17 |               nan |     106.78 | Logovi'i Mulipola   |             21 |
+|             21 | Alec Clarey        |      96.67 |                68 |       18 |                42 |      82.11 | Mark Tampin         |             13 |
+|              4 | Hugh Tizard        |      84.9  |                45 |       19 |                47 |      85.68 | Sebastian de Chaves |             27 |
+|             27 | Andy Christie      |      84.83 |                53 |       20 |                41 |      83.8  | Freddie Lockwood    |             40 |
+|              4 | Ruben de Haas      |      71.34 |               nan |       21 |                89 |     109.96 | Michael Young       |             29 |
+|             21 | Alex Goode         |     109.7  |                87 |       22 |                13 |      78.21 | Pete Lucock         |             21 |
+|              4 | Josh Hallett       |      80.77 |               nan |       23 |                63 |      95.39 | Ben Stevenson       |             28 |
 

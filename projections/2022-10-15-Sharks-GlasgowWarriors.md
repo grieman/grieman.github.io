@@ -4,10 +4,10 @@ title: Glasgow Warriors at Sharks
 date: 2022-10-15 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Glasgow Warriors (~1290.55) at Sharks (~1360.3)
+# Glasgow Warriors (~1450.09) at Sharks (~1491.19)
 
-# Prediction: Sharks by 12.0
+# Prediction: Sharks by 9.1
 
 
-Sharks by 7.0 on a neutral pitch
+Sharks by 4.1 on a neutral pitch
 

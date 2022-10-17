@@ -4,12 +4,12 @@ title: Aurillac at Agen; 20-43
 date: 2022-10-07 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Aurillac (1186.69) at Agen (1203.45); 20-43
+# Aurillac (1314.92) at Agen (1363.62); 20-43
 
-# Prediction: Agen by 6.7
+# Prediction: Agen by 9.9
 
 
-Agen by 1.7 on a neutral field
+Agen by 4.9 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Agen by 1.7 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-07-Agen-Aurillac.png)
-# Pre-Match Prediction: Agen by 5.9
+# Pre-Match Prediction: Agen by 7.9
 
 
-Agen by 0.9 on a neutral pitch
+Agen by 2.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             48 | Alexandre Plantier    |      87.04 |                79 |        1 |                22 |      76.79 | Hans Lombard-Buret   |             51 |
-|             64 | Luka Nioradze         |      89.71 |                82 |        2 |                17 |      75.08 | Loris Zarantonello   |             51 |
-|             33 | Giorgi Kartvelishvili |      87    |                78 |        3 |                47 |      80.58 | Malik Hamadache      |             33 |
-|             48 | Eoghan Masterson      |      90.67 |                83 |        4 |                38 |      79    | Joe Maksymiw         |             60 |
-|             60 | Jean-Baptiste Singer  |      70.98 |                 9 |        5 |                74 |      87.39 | Zak Farrance         |             80 |
-|             80 | Beka Shvangiradze     |      80.77 |                50 |        6 |                79 |      87.28 | Arnaud Duputs        |             60 |
-|             80 | Maxime Profit         |      81.39 |                48 |        7 |                56 |      81.6  | Camille Gerondeau    |             80 |
-|             60 | Latuka Maituku        |      69.58 |                 8 |        8 |                65 |      84.6  | Fotu Lokotui         |             80 |
-|             65 | Mikheil Alania        |      74.44 |                13 |        9 |                 2 |      66.73 | Tane Takulua         |             57 |
-|             80 | Antoine Aucagne       |      77.16 |                21 |       10 |                 3 |      68.47 | Raphael Lagarde      |             51 |
-|             80 | AJ Coertzen           |      86.33 |                73 |       11 |                96 |     105.7  | Timilai Rokoduru     |             64 |
-|             80 | Lucas Vaccaro         |      75.81 |                18 |       12 |                68 |      86.09 | Kolinio Ramoka       |             80 |
-|             80 | Elijah Niko           |      75.85 |                18 |       13 |                33 |      78.49 | Pita Ahki            |             80 |
-|             26 | Simeli Yabaki         |      76.5  |                21 |       14 |                 0 |      55.06 | Loris Tolot          |             80 |
-|             80 | Anderson Neisen       |      70.52 |                 6 |       15 |                61 |      84.36 | Jean-Marcelin Buttin |             80 |
-|             54 | Marc Palmier          |      83.24 |                63 |       16 |                19 |      75.56 | Walter Desmaison     |             47 |
-|             47 | Tim Daniel-Meissen    |      74.99 |                 8 |       17 |                85 |      90.58 | Clement Martinez     |             29 |
-|             32 | Jean-Jacques Gymael   |      80.9  |                49 |       18 |                79 |      89.78 | Thomas Vincent       |             29 |
-|             32 | Robert Rodgers        |      78.41 |               nan |       19 |                 2 |      66.23 | Florent Guion        |             29 |
-|             20 | Dylan Cretin          |      88.36 |                77 |       20 |                26 |      77.9  | Dorian Bellot        |             23 |
-|             20 | Georgi Javakhia       |      80.96 |                49 |       21 |                74 |      85.56 | Antoine Erbani       |             20 |
-|             16 | Theo Lachaud          |      73.39 |                12 |       22 |                78 |      88.79 | William Demotte      |             20 |
-|             15 | Hugo Bouyssou         |      68.54 |                 3 |       23 |                28 |      77.85 | Christian Lacombe    |             16 |
+|             48 | Alexandre Plantier    |      92.61 |                61 |        1 |                 8 |      76.71 | Hans Lombard-Buret   |             51 |
+|             64 | Luka Nioradze         |      95.92 |                63 |        2 |                 4 |      75.13 | Loris Zarantonello   |             51 |
+|             33 | Giorgi Kartvelishvili |      89.09 |                57 |        3 |                73 |      99.03 | Malik Hamadache      |             33 |
+|             48 | Eoghan Masterson      |     105    |                84 |        4 |                51 |      88.28 | Joe Maksymiw         |             60 |
+|             60 | Jean-Baptiste Singer  |      94.16 |                61 |        5 |                51 |      88.02 | Zak Farrance         |             80 |
+|             80 | Beka Shvangiradze     |      82.3  |                46 |        6 |                75 |      98.21 | Arnaud Duputs        |             60 |
+|             80 | Maxime Profit         |      84.68 |                53 |        7 |                86 |     107.07 | Vincent Farre        |             80 |
+|             60 | Latuka Maituku        |      96.59 |                63 |        8 |                59 |      94.48 | Fotu Lokotui         |             80 |
+|             65 | Mikheil Alania        |      76.39 |                 5 |        9 |                22 |      78.9  | Tane Takulua         |             57 |
+|             80 | Antoine Aucagne       |      79.25 |                18 |       10 |                31 |      81.29 | Raphael Lagarde      |             51 |
+|             80 | AJ Coertzen           |     112.93 |                92 |       11 |                92 |     113.4  | Timilai Rokoduru     |             64 |
+|             80 | Lucas Vaccaro         |      76.3  |                 8 |       12 |                22 |      79.37 | Kolinio Ramoka       |             80 |
+|             80 | Elijah Niko           |      92.24 |                57 |       13 |                54 |      90.47 | Theo Belan           |             80 |
+|             26 | Simeli Yabaki         |      76.48 |                 8 |       14 |                15 |      77.91 | Tevita Railevu       |             80 |
+|             80 | Anderson Neisen       |      76    |                 7 |       15 |                70 |      98.57 | Jean-Marcelin Buttin |             80 |
+|             54 | Marc Palmier          |      85.86 |                49 |       16 |                63 |      93.13 | Walter Desmaison     |             47 |
+|             47 | Tim Daniel-Meissen    |      75.79 |                 3 |       17 |                88 |     105.38 | Clement Martinez     |             29 |
+|             32 | Jean-Jacques Gymael   |      80.53 |                30 |       18 |                62 |      93.79 | Thomas Vincent       |             29 |
+|             32 | Robert Rodgers        |      80.13 |               nan |       19 |                65 |      95.06 | Florent Guion        |             29 |
+|             20 | Dylan Cretin          |      97.92 |                67 |       20 |                14 |      78.59 | Dorian Bellot        |             23 |
+|             20 | Georgi Javakhia       |     101.52 |                77 |       21 |                90 |     112.05 | Antoine Erbani       |             20 |
+|             16 | Theo Lachaud          |      74.47 |                 2 |       22 |                76 |     101.01 | William Demotte      |             20 |
+|             15 | Hugo Bouyssou         |      94.22 |                62 |       23 |                 2 |      71.04 | Loris Tolot          |             16 |
 

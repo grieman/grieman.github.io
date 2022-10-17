@@ -222,7 +222,7 @@ for recent_game in recent_games:
 
         rec_match_md.create_md_file()
 
-        match_dir_strings.append(f'[{recent_game["date"].date().strftime("%Y-%m-%d") + " " + score_header}](reviews//{file_name})')
+        match_dir_strings.append(f'[{recent_game["date"].date().strftime("%Y-%m-%d") + " " + main_header}](reviews//{file_name})')
         match_comps.append(recent_game['competition'])
         match_levels.append(recent_game['comp_level'])
         match_dates.append(recent_game["date"])
@@ -275,6 +275,7 @@ match_dir_strings = []
 match_comps = []
 match_levels = []
 match_dates = []
+future_names = []
 
 current_players = make_current_percentile(starters, datetime.datetime.now())
 
@@ -337,6 +338,7 @@ for future_game in future_games:
     match_comps.append(future_game['competition'][:-5])
     match_levels.append(future_game['comp_level'])
     match_dates.append(future_game["date"])
+    future_names.append(pretty_name)
 
 
     fut_match_md.create_md_file()
@@ -368,7 +370,7 @@ for _, row in fut_matches_df.iterrows():
     pretty_name = f'{row["Away Team"]} at {row["Home Team"]}'
     file_name = f'{match_date}-{row["Home Team"].replace(" ", "")}-{row["Away Team"].replace(" ", "")}'
 
-    if f'[{match_date} {pretty_name}](projections//{file_name})' not in match_dir_strings:
+    if pretty_name not in future_names:
         home_club = teamlist[row['Home Team']]
         away_club = teamlist[row['Away Team']]
 

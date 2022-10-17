@@ -4,10 +4,10 @@ title: Bristol Rugby at Gloucester Rugby
 date: 2022-10-15 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bristol Rugby (~1290.37) at Gloucester Rugby (~1398.53)
+# Bristol Rugby (~1507.44) at Gloucester Rugby (~1559.08)
 
-# Prediction: Gloucester Rugby by 15.8
+# Prediction: Gloucester Rugby by 10.2
 
 
-Gloucester Rugby by 10.8 on a neutral pitch
+Gloucester Rugby by 5.2 on a neutral pitch
 
