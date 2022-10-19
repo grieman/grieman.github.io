@@ -4,12 +4,12 @@ title: Bordeaux Begles at Lyon; 21-36
 date: 2022-10-09 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bordeaux Begles (1444.48) at Lyon (1446.35); 21-36
+# Bordeaux Begles (1281.19) at Lyon (1282.0); 21-36
 
-# Prediction: Lyon by 5.2
+# Prediction: Lyon by 5.1
 
 
-Lyon by 0.2 on a neutral field
+Lyon by 0.1 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Lyon by 0.2 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-09-Lyon-BordeauxBegles.png)
-# Pre-Match Prediction: Lyon by 7.0
+# Pre-Match Prediction: Lyon by 6.9
 
 
-Lyon by 2.0 on a neutral pitch
+Lyon by 1.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             65 | Jefferson Poirot          |      93.85 |                63 |        1 |                67 |      95.18 | Sebastien Taofifenua   |             38 |
-|             51 | Pablo Dimcheff            |      79.8  |                23 |        2 |                82 |     102.43 | Liam Coltman           |             56 |
-|             51 | Ben Tameifuna             |     117.41 |                97 |        3 |                58 |      89.22 | Hamza Kaabeche         |             47 |
-|             80 | Thomas Jolmes             |      90.86 |                58 |        4 |                35 |      81.72 | Joel Kpoku             |             80 |
-|             57 | Kane Douglas              |     111.09 |                91 |        5 |                65 |      95.18 | Killian Geraci         |             56 |
-|             80 | Bastien Vergnes Taillefer |      82.19 |                45 |        6 |                24 |      79.46 | Mickael Guillard       |             47 |
-|             80 | Remi Lamerat              |     124.59 |                98 |        7 |                68 |      93.73 | Beka Saghinadze        |             80 |
-|             51 | Alban Roussel             |      99.99 |                77 |        8 |                97 |     124.85 | Arno Botha             |             56 |
-|             67 | Yann Lesgourgues          |      94.87 |                64 |        9 |                85 |     105.85 | Jean-Marc Doussain     |             47 |
-|             80 | Matthieu Jalibert         |     110.05 |                86 |       10 |                54 |      89.25 | Leo Berdeu             |             80 |
-|             80 | Federico Mori             |      72    |                 3 |       11 |                45 |      82.59 | Ethan Dumortier        |             80 |
-|             80 | Yoram Moefana             |      80.01 |                24 |       12 |                82 |     105.5  | Kyle Godwin            |             56 |
-|             57 | Pablo Uberti              |     103.5  |                79 |       13 |                96 |     120.92 | Josua Tuisova Ratulevu |             80 |
-|             80 | Louis Bielle-Biarrey      |      80.75 |                32 |       14 |                72 |      96.66 | Xavier Mignot          |             80 |
-|             80 | Romain Buros              |     112.44 |                92 |       15 |                48 |      85.92 | Davit Niniashvili      |             80 |
-|             29 | Maxime Lamothe            |      86.21 |                48 |       16 |                55 |      87.49 | Jerome Rey             |             42 |
-|             29 | Caleb Timu                |      94.4  |                59 |       17 |                83 |     103.61 | Feao Fotuaika          |             33 |
-|             29 | Sipili Falatea            |     101.93 |                79 |       18 |                92 |     113.14 | Baptiste Couilloud     |             33 |
-|             23 | Tani Vili                 |      77.1  |                 9 |       19 |                78 |     100.96 | Patrick Sobela         |             33 |
-|             23 | Jandré Marais             |     119.24 |                96 |       20 |                94 |     115.36 | Jordan Taufua          |             24 |
-|             15 | Lekso Kaulashvili         |     103.54 |                83 |       21 |                27 |      80.35 | Temo Mayanavanua       |             24 |
-|             13 | Jules Gimbert             |      93.92 |               nan |       22 |                71 |      98.92 | Thibault Regard        |             24 |
-|            nan | nan                       |     nan    |               nan |       23 |                30 |      80.35 | Yanis Charcosset       |             24 |
+|             65 | Jefferson Poirot          |      75    |                14 |        1 |                 5 |      69.5  | Sebastien Taofifenua   |             38 |
+|             51 | Pablo Dimcheff            |      79.86 |                46 |        2 |                81 |      87.71 | Liam Coltman           |             56 |
+|             51 | Ben Tameifuna             |     100.13 |                95 |        3 |                 6 |      71.25 | Hamza Kaabeche         |             47 |
+|             80 | Thomas Jolmes             |      73.85 |                19 |        4 |                27 |      76.85 | Joel Kpoku             |             80 |
+|             57 | Kane Douglas              |      88.75 |                80 |        5 |                40 |      78.73 | Killian Geraci         |             56 |
+|             80 | Bastien Vergnes Taillefer |      81.69 |                57 |        6 |                55 |      81.6  | Mickael Guillard       |             47 |
+|             80 | Remi Lamerat              |     105.96 |                96 |        7 |                83 |      89.4  | Beka Saghinadze        |             80 |
+|             51 | Alban Roussel             |      85.84 |                78 |        8 |                93 |     104.07 | Arno Botha             |             56 |
+|             67 | Yann Lesgourgues          |      81.26 |                54 |        9 |                96 |     106.76 | Jean-Marc Doussain     |             47 |
+|             80 | Matthieu Jalibert         |      94.31 |                85 |       10 |                13 |      73.83 | Leo Berdeu             |             80 |
+|             80 | Federico Mori             |      69.15 |                 5 |       11 |                58 |      82.15 | Ethan Dumortier        |             80 |
+|             80 | Yoram Moefana             |      89.26 |                78 |       12 |                71 |      86.56 | Kyle Godwin            |             56 |
+|             57 | Pablo Uberti              |      81.55 |                52 |       13 |                98 |     111.96 | Josua Tuisova Ratulevu |             80 |
+|             80 | Louis Bielle-Biarrey      |      79.18 |                40 |       14 |                38 |      78.89 | Xavier Mignot          |             80 |
+|             80 | Romain Buros              |     100    |                93 |       15 |                47 |      80.56 | Davit Niniashvili      |             80 |
+|             29 | Maxime Lamothe            |      78.67 |                38 |       16 |                 4 |      68.13 | Jerome Rey             |             42 |
+|             29 | Caleb Timu                |      74.16 |                17 |       17 |                75 |      85.01 | Feao Fotuaika          |             33 |
+|             29 | Sipili Falatea            |      89.45 |                84 |       18 |                96 |     106.01 | Baptiste Couilloud     |             33 |
+|             23 | Tani Vili                 |      80.57 |                45 |       19 |                80 |      87.56 | Patrick Sobela         |             33 |
+|             23 | Jandré Marais             |      98.35 |                92 |       20 |                92 |     101.87 | Jordan Taufua          |             24 |
+|             15 | Lekso Kaulashvili         |      90.06 |                87 |       21 |                54 |      81.65 | Temo Mayanavanua       |             24 |
+|             13 | Jules Gimbert             |      72.75 |               nan |       22 |                39 |      77.93 | Thibault Regard        |             24 |
+|            nan | nan                       |     nan    |               nan |       23 |                49 |      79.24 | Yanis Charcosset       |             24 |
 

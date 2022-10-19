@@ -4,12 +4,12 @@ title: Leicester Tigers at Harlequins; 27.0-19.0
 date: 2022-10-16 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Leicester Tigers (1596.85) at Harlequins (1584.02); 27.0-19.0
+# Leicester Tigers (1382.17) at Harlequins (1387.36); 27.0-19.0
 
-# Prediction: Harlequins by 3.7
+# Prediction: Harlequins by 5.5
 
 
-Leicester Tigers by 1.3 on a neutral field
+Harlequins by 0.5 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Leicester Tigers by 1.3 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-16-Harlequins-LeicesterTigers.png)
-# Pre-Match Prediction: Leicester Tigers by 0.3
+# Pre-Match Prediction: Harlequins by 3.3
 
 
-Leicester Tigers by 4.7 on a neutral pitch
+Leicester Tigers by 1.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             51 | James Cronin        |     111.2  |                92 |        1 |                99 |     128.32 | Joe Marler            |             78 |
-|             73 | Julian Montoya      |     103.92 |                84 |        2 |                54 |      90.69 | Jack Musk             |             67 |
-|             60 | Dan Cole            |     112.4  |                94 |        3 |                98 |     119.45 | Wilco Louw            |             58 |
-|             82 | Harry Wells         |     116.61 |                95 |        4 |                90 |     110.47 | Dino Lamb             |             82 |
-|             52 | Calum Green         |     112.19 |                91 |        5 |                89 |     110.18 | Irne Herbst           |             71 |
-|             82 | Hanro Liebenberg    |     126.6  |                99 |        6 |                70 |      95.96 | Jack Kenningham       |             82 |
-|             82 | Tommy Reffell       |     105.75 |                85 |        7 |                79 |     101.66 | Will Evans            |             82 |
-|             64 | Jasper Wiese        |     103.92 |                80 |        8 |                78 |     102.19 | Archie White          |             57 |
-|             51 | Ben Youngs          |     124.65 |                98 |        9 |                99 |     135.74 | Danny Care            |             82 |
-|             78 | Freddie Burns       |     110.72 |                87 |       10 |                92 |     115.08 | Marcus Smith          |             82 |
-|             82 | Anthony Watson      |     103.14 |                82 |       11 |                58 |      87.59 | Cadan Murley          |             82 |
-|             82 | Matt Scott          |     104.93 |                81 |       12 |                96 |     119.17 | Andre Esterhuizen     |             82 |
-|             82 | Harry Potter        |      85.24 |                53 |       13 |                52 |      89.59 | Luke Northmore        |             66 |
-|             14 | Chris Ashton        |     139.8  |               100 |       14 |                90 |     110.51 | Joe Marchant          |             82 |
-|             82 | Freddie Steward     |      94.8  |                63 |       15 |                50 |      86.39 | Tyrone Green          |             57 |
-|              9 | Charlie Clare       |      88.16 |                50 |       16 |                21 |      79.3  | Sam Riley             |             15 |
-|             31 | Francois van Wyk    |     103.11 |                84 |       17 |                93 |     112.47 | Santiago Garcia Botta |              4 |
-|             22 | Joe Heyes           |      79.75 |                28 |       18 |                77 |     101.82 | Simon Kerrod          |             24 |
-|             30 | Cameron Henderson   |      80.4  |                27 |       19 |                16 |      78.72 | George Hammond        |             11 |
-|             18 | Olly Cracknell      |      86.69 |                58 |       20 |                 2 |      71.22 | Matas Jurevicius      |             25 |
-|             31 | Jack van Poortvliet |      85.61 |                52 |       21 |                82 |     104.26 | Lewis Gjaltema        |              0 |
-|              4 | Jimmy Gopperth      |      98.89 |                69 |       22 |                90 |     112.55 | Tommaso Allan         |             16 |
-|             68 | Nemani Nadolo       |     122.03 |                97 |       23 |                32 |      80.58 | Nick David            |             25 |
+|             51 | James Cronin        |      89.01 |                84 |        1 |                98 |     107.26 | Joe Marler            |             78 |
+|             73 | Julian Montoya      |      88.96 |                84 |        2 |                75 |      85.9  | Jack Musk             |             67 |
+|             60 | Dan Cole            |      91.56 |                88 |        3 |                97 |     105.54 | Wilco Louw            |             58 |
+|             82 | Harry Wells         |      98.18 |                92 |        4 |                81 |      89.07 | Dino Lamb             |             82 |
+|             52 | Calum Green         |      94.95 |                89 |        5 |                87 |      93.04 | Irne Herbst           |             71 |
+|             82 | Hanro Liebenberg    |     102.59 |                94 |        6 |                86 |      91.92 | Jack Kenningham       |             82 |
+|             82 | Tommy Reffell       |      99    |                93 |        7 |                42 |      79.37 | Will Evans            |             82 |
+|             64 | Jasper Wiese        |      86.09 |                71 |        8 |                69 |      85.62 | Archie White          |             57 |
+|             51 | Ben Youngs          |     102.39 |                94 |        9 |               100 |     129.94 | Danny Care            |             82 |
+|             78 | Freddie Burns       |     102.64 |                92 |       10 |                87 |      97.06 | Marcus Smith          |             82 |
+|             82 | Anthony Watson      |      79.9  |                47 |       11 |                43 |      79.7  | Cadan Murley          |             82 |
+|             82 | Matt Scott          |      93.58 |                85 |       12 |                88 |      95.7  | Andre Esterhuizen     |             82 |
+|             82 | Harry Potter        |      74.92 |                15 |       13 |                72 |      87.1  | Luke Northmore        |             66 |
+|             14 | Chris Ashton        |     122.1  |                99 |       14 |                88 |      94.82 | Joe Marchant          |             82 |
+|             82 | Freddie Steward     |      90.53 |                76 |       15 |                28 |      77.62 | Tyrone Green          |             57 |
+|              9 | Charlie Clare       |      70.87 |                 7 |       16 |                26 |      77.44 | Sam Riley             |             15 |
+|             31 | Francois van Wyk    |      89.27 |                87 |       17 |                93 |      95.97 | Santiago Garcia Botta |              4 |
+|             22 | Joe Heyes           |      88.09 |                83 |       18 |                62 |      83.79 | Simon Kerrod          |             24 |
+|             30 | Cameron Henderson   |      81.89 |                56 |       19 |                43 |      79.34 | George Hammond        |             11 |
+|             18 | Olly Cracknell      |      66.31 |                 2 |       20 |                 7 |      69.33 | Matas Jurevicius      |             25 |
+|             31 | Jack van Poortvliet |      89.04 |                86 |       21 |                67 |      83.86 | Lewis Gjaltema        |              0 |
+|              4 | Jimmy Gopperth      |      92.12 |                83 |       22 |                88 |      97.35 | Tommaso Allan         |             16 |
+|             68 | Nemani Nadolo       |     101.94 |                94 |       23 |                51 |      80.82 | Nick David            |             25 |
 

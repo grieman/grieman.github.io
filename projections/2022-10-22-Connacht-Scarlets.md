@@ -4,10 +4,10 @@ title: Scarlets at Connacht
 date: 2022-10-22 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Scarlets (~1448.71) at Connacht (~1441.1)
+# Scarlets (~1251.35) at Connacht (~1270.13)
 
-# Prediction: Connacht by 4.2
+# Prediction: Connacht by 6.9
 
 
-Connacht by 0.8 on a neutral pitch
+Connacht by 1.9 on a neutral pitch
 

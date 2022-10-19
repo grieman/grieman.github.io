@@ -4,10 +4,10 @@ title: Saracens at Exeter Chiefs
 date: 2022-10-22 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Saracens (~1517.29) at Exeter Chiefs (~1554.85)
+# Saracens (~1361.54) at Exeter Chiefs (~1370.83)
 
-# Prediction: Exeter Chiefs by 8.8
+# Prediction: Exeter Chiefs by 5.9
 
 
-Exeter Chiefs by 3.8 on a neutral pitch
+Exeter Chiefs by 0.9 on a neutral pitch
 

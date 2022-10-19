@@ -4,10 +4,10 @@ title: Brive at Stade Francais Paris
 date: 2022-10-22 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Brive (~1412.06) at Stade Francais Paris (~1427.81)
+# Brive (~1235.48) at Stade Francais Paris (~1278.27)
 
-# Prediction: Stade Francais Paris by 6.6
+# Prediction: Stade Francais Paris by 9.3
 
 
-Stade Francais Paris by 1.6 on a neutral pitch
+Stade Francais Paris by 4.3 on a neutral pitch
 

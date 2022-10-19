@@ -4,12 +4,12 @@ title: Clermont Auvergne at Perpignan; 20-10
 date: 2022-10-15 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Clermont Auvergne (1574.32) at Perpignan (1434.08); 20-10
+# Clermont Auvergne (1392.14) at Perpignan (1213.31); 20-10
 
-# Prediction: Clermont Auvergne by 9.0
+# Prediction: Clermont Auvergne by 12.9
 
 
-Clermont Auvergne by 14.0 on a neutral field
+Clermont Auvergne by 17.9 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Clermont Auvergne by 14.0 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-15-Perpignan-ClermontAuvergne.png)
-# Pre-Match Prediction: Clermont Auvergne by 6.8
+# Pre-Match Prediction: Clermont Auvergne by 11.7
 
 
-Clermont Auvergne by 11.8 on a neutral pitch
+Clermont Auvergne by 16.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             57 | Etienne Falgoux       |     106.09 |                86 |        1 |                78 |     100.15 | Xavier Chiocci        |             50 |
-|             59 | Yohan Beheregaray     |     101.24 |                78 |        2 |                45 |      84.43 | Seilala Lam           |             65 |
-|             66 | Cristian Ojovan       |      84.39 |                49 |        3 |                85 |     105.61 | Siua Halanukonuka     |             28 |
-|             66 | Paul Jedrasiak        |      98.14 |                70 |        4 |                59 |      92.23 | Will Witty            |             48 |
-|             80 | Sebastien Vahaamahina |     121.44 |                97 |        5 |                85 |     106.94 | Piula Faasalele       |             80 |
-|             80 | Arthur Iturria        |     115.81 |                94 |        6 |                80 |     101.42 | Lucas Bachelier       |             61 |
-|             55 | Jacobus van Tonder    |      85.72 |                56 |        7 |                64 |      90.96 | Kelian Galletier      |             80 |
-|             80 | Fritz Lee             |     123.5  |                97 |        8 |                81 |     104.23 | Genesis Mamea Lemalu  |             80 |
-|             76 | Sebastien Bezy        |     114.74 |                93 |        9 |                26 |      78.97 | Sadek Deghmache       |             59 |
-|             79 | Anthony Belleau       |     109.52 |                84 |       10 |                73 |      99.13 | Tristan Tedder        |             80 |
-|             80 | Alivereti Raka        |     115.15 |                94 |       11 |                97 |     120.06 | Mathieu Acebes        |             80 |
-|             80 | Irae Simone           |     106.35 |                83 |       12 |                76 |     102.22 | Jeronimo de la Fuente |             80 |
-|             80 | Damian Penaud         |     119.46 |                96 |       13 |                60 |      93.75 | Afusipa Taumoepeau    |             65 |
-|             74 | Bautista Delguy       |      95.26 |                70 |       14 |                 4 |      74.69 | Alivereti Duguivalu   |             80 |
-|             80 | Cheikh Tiberghien     |      85.13 |                47 |       15 |                42 |      82.92 | Lucas Dubois          |             65 |
-|             25 | Killian Tixeront      |      83.59 |                51 |       16 |                82 |     101.96 | Ma'afu Fia            |             52 |
-|             23 | Giorgi Beria          |      85.04 |                50 |       17 |                50 |      83.41 | Tristan Labouteley    |             32 |
-|             21 | Adrien Pelissie       |     101.18 |                78 |       18 |                43 |      82.81 | Giorgi Tetrashvili    |             30 |
-|             14 | Giorgi Dzmanashvili   |      79.27 |                23 |       19 |                22 |      79.26 | Matteo Rodor          |             21 |
-|             14 | Tomas Lavanini        |     106.85 |                85 |       20 |                83 |     103.26 | Shahn Eru             |             19 |
-|              6 | Marvin O'Connor       |     103.8  |                83 |       21 |                56 |      92.04 | Mike Tadjer Barbosa   |             15 |
-|              4 | Baptiste Jauneau      |      79.42 |                23 |       22 |                82 |     105.56 | George Tilsley        |             15 |
-|              1 | Gabin Michet          |      79.67 |                22 |       23 |                83 |     107.56 | Jake McIntyre         |             15 |
+|             57 | Etienne Falgoux       |      86    |                75 |        1 |                15 |      74.33 | Xavier Chiocci        |             50 |
+|             59 | Yohan Beheregaray     |      82.79 |                63 |        2 |                 2 |      67.03 | Seilala Lam           |             65 |
+|             66 | Cristian Ojovan       |      87.57 |                80 |        3 |                73 |      85.53 | Siua Halanukonuka     |             28 |
+|             66 | Paul Jedrasiak        |      88.41 |                78 |        4 |                 4 |      66.42 | Will Witty            |             48 |
+|             80 | Sebastien Vahaamahina |      98.55 |                92 |        5 |                85 |      91.02 | Piula Faasalele       |             80 |
+|             80 | Arthur Iturria        |      92.36 |                86 |        6 |                78 |      87.09 | Lucas Bachelier       |             61 |
+|             55 | Jacobus van Tonder    |      78.46 |                35 |        7 |                17 |      75.45 | Kelian Galletier      |             80 |
+|             80 | Fritz Lee             |     115.2  |                98 |        8 |                77 |      89.24 | Genesis Mamea Lemalu  |             80 |
+|             76 | Sebastien Bezy        |     100.26 |                93 |        9 |                 0 |      61.66 | Sadek Deghmache       |             59 |
+|             79 | Anthony Belleau       |      96.66 |                85 |       10 |                 1 |      65.68 | Tristan Tedder        |             80 |
+|             80 | Alivereti Raka        |      95.55 |                89 |       11 |                96 |     105.06 | Mathieu Acebes        |             80 |
+|             80 | Irae Simone           |      86.66 |                70 |       12 |                88 |      95.48 | Jeronimo de la Fuente |             80 |
+|             80 | Damian Penaud         |     110.61 |                98 |       13 |                77 |      88.9  | Afusipa Taumoepeau    |             65 |
+|             74 | Bautista Delguy       |      89.62 |                81 |       14 |                12 |      73.09 | Alivereti Duguivalu   |             80 |
+|             80 | Cheikh Tiberghien     |      85.58 |                63 |       15 |                53 |      82.05 | Lucas Dubois          |             65 |
+|             25 | Killian Tixeront      |      84    |                69 |       16 |                79 |      87.06 | Ma'afu Fia            |             52 |
+|             23 | Giorgi Beria          |      85.73 |                74 |       17 |                 5 |      69.76 | Tristan Labouteley    |             32 |
+|             21 | Adrien Pelissie       |      84.68 |                71 |       18 |                 2 |      66.29 | Giorgi Tetrashvili    |             30 |
+|             14 | Giorgi Dzmanashvili   |      78.29 |                31 |       19 |                40 |      79.3  | Matteo Rodor          |             21 |
+|             14 | Tomas Lavanini        |      86    |                72 |       20 |                64 |      79.79 | Shahn Eru             |             19 |
+|              6 | Marvin O'Connor       |      77.02 |                24 |       21 |                11 |      73.67 | Mike Tadjer Barbosa   |             15 |
+|              4 | Baptiste Jauneau      |      78.79 |                36 |       22 |                78 |      89.28 | George Tilsley        |             15 |
+|              1 | Gabin Michet          |      79.26 |                37 |       23 |                81 |      91.4  | Jake McIntyre         |             15 |
 

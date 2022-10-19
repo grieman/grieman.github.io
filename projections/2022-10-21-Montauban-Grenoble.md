@@ -4,10 +4,10 @@ title: Grenoble at Montauban
 date: 2022-10-21 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Grenoble (~1375.08) at Montauban (~1391.75)
+# Grenoble (~1235.96) at Montauban (~1203.71)
 
-# Prediction: Montauban by 6.7
+# Prediction: Montauban by 1.8
 
 
-Montauban by 1.7 on a neutral pitch
+Montauban by 3.2 on a neutral pitch
 

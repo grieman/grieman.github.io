@@ -4,10 +4,10 @@ title: Rouen at Soyaux-Angouleme
 date: 2022-10-21 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Rouen (~1366.21) at Soyaux-Angouleme (~1276.68)
+# Rouen (~1205.95) at Soyaux-Angouleme (~1173.56)
 
-# Prediction: Rouen by 4.0
+# Prediction: Soyaux-Angouleme by 1.8
 
 
-Rouen by 9.0 on a neutral pitch
+Soyaux-Angouleme by 3.2 on a neutral pitch
 

@@ -4,12 +4,12 @@ title: Stade Francais Paris at Pau; 31-29
 date: 2022-10-15 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Stade Francais Paris (1455.15) at Pau (1483.8); 31-29
+# Stade Francais Paris (1315.76) at Pau (1305.05); 31-29
 
-# Prediction: Pau by 7.9
+# Prediction: Pau by 3.9
 
 
-Pau by 2.9 on a neutral field
+Stade Francais Paris by 1.1 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Pau by 2.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-15-Pau-StadeFrancaisParis.png)
-# Pre-Match Prediction: Pau by 5.4
+# Pre-Match Prediction: Stade Francais Paris by 3.9
 
 
-Pau by 0.4 on a neutral pitch
+Stade Francais Paris by 1.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             43 | Clement Castets         |     102.16 |                80 |        1 |                84 |     104.51 | Siegfried Fisi'ihoi |             41 |
-|             55 | Mickael Ivaldi          |     108.72 |                92 |        2 |                58 |      92.78 | Youri Delhommel     |             54 |
-|             52 | Giorgi Melikidze        |     105.2  |                85 |        3 |                 9 |      77.25 | Nicolas Corato      |             29 |
-|             80 | Paul Gabrillagues       |      98.02 |                70 |        4 |                69 |      97.34 | Guillaume Ducat     |             80 |
-|             43 | Baptiste Pesenti        |     100.03 |                74 |        5 |                80 |     102.7  | Fabrice Metz        |             49 |
-|             80 | Ryan Chapuis            |      69.28 |                 0 |        6 |                 6 |      75.23 | Sacha Zegueur       |             54 |
-|             80 | Marcos Kremer           |      94.82 |                68 |        7 |                99 |     126.63 | Luke Whitelock      |             80 |
-|             52 | Giovanni Habel-Kueffner |     114.55 |                93 |        8 |                78 |     100.63 | Beka Gorgadze       |             60 |
-|             52 | Arthur Coville          |      90.58 |                57 |        9 |                93 |     114.63 | Thibault Daubagna   |             57 |
-|             47 | Leo Barre               |      85.69 |                48 |       10 |                67 |      96.9  | Zack Henry          |             58 |
-|             80 | Harry Glover            |      97.65 |                66 |       11 |                86 |     105.79 | Jack Maddocks       |             80 |
-|             60 | Jeremy Ward             |     103.64 |                76 |       12 |                51 |      88.63 | Jale Vatubua        |             80 |
-|             80 | Sefa Naivalu            |     117.43 |                95 |       13 |                56 |      91.36 | Émilien Gailleton   |             80 |
-|             80 | Nadir Megdoud           |      94.9  |                70 |       14 |                74 |      97.58 | Daniel Ikpefan      |             80 |
-|             80 | Kylan Hamdaoui          |      99.92 |                74 |       15 |                92 |     111.51 | Clement Laporte     |             80 |
-|             37 | JJ van der Mescht       |      82.32 |                30 |       16 |                61 |      92.14 | Guram Papidze       |             51 |
-|             37 | Moses Alo-Emile         |      79.5  |                21 |       17 |                66 |      94.98 | Remi Seneca         |             39 |
-|             33 | Joris Segonds           |     109.46 |                86 |       18 |                88 |     109.04 | Lekima Tagitagivalu |             31 |
-|             28 | James Hall              |      98.89 |                68 |       19 |                 9 |      77.07 | Jordan Joseph       |             26 |
-|             28 | Julien Ory              |      79.12 |                19 |       20 |                49 |      87.31 | Ignacio Calles      |             26 |
-|             28 | Nemo Roelofse           |      87.59 |                54 |       21 |                79 |     102.1  | Clovis Le bail      |             23 |
-|             25 | Lucas Peyresblanques    |     101.23 |                74 |       22 |                15 |      78.4  | Thibault Debaes     |             22 |
-|             20 | Julien Delbouis         |     101.25 |                73 |       23 |                90 |     112.19 | Martin Puech        |             20 |
+|             43 | Clement Castets         |      79.96 |                43 |        1 |                95 |      99.17 | Siegfried Fisi'ihoi |             41 |
+|             55 | Mickael Ivaldi          |      96.59 |                92 |        2 |                20 |      75.95 | Youri Delhommel     |             54 |
+|             52 | Giorgi Melikidze        |      91.62 |                88 |        3 |                 7 |      71.78 | Nicolas Corato      |             29 |
+|             80 | Paul Gabrillagues       |      83.98 |                66 |        4 |                20 |      75.14 | Guillaume Ducat     |             80 |
+|             43 | Baptiste Pesenti        |      83.24 |                63 |        5 |                60 |      82.45 | Fabrice Metz        |             49 |
+|             80 | Ryan Chapuis            |      64.91 |                 1 |        6 |                35 |      78.47 | Sacha Zegueur       |             54 |
+|             80 | Marcos Kremer           |      76.31 |                16 |        7 |                97 |     108.69 | Luke Whitelock      |             80 |
+|             52 | Giovanni Habel-Kueffner |     103.49 |                93 |        8 |                73 |      85.14 | Beka Gorgadze       |             60 |
+|             52 | Arthur Coville          |      74.7  |                12 |        9 |                91 |      97.74 | Thibault Daubagna   |             57 |
+|             47 | Leo Barre               |      84.13 |                64 |       10 |                85 |      94.89 | Zack Henry          |             58 |
+|             80 | Harry Glover            |     102.47 |                94 |       11 |                77 |      88.06 | Jack Maddocks       |             80 |
+|             60 | Jeremy Ward             |      90.6  |                77 |       12 |                60 |      83.55 | Jale Vatubua        |             80 |
+|             80 | Sefa Naivalu            |     110.59 |                98 |       13 |                85 |      93.72 | Émilien Gailleton   |             80 |
+|             80 | Nadir Megdoud           |      80.19 |                46 |       14 |                20 |      76.29 | Daniel Ikpefan      |             80 |
+|             80 | Kylan Hamdaoui          |      95.52 |                87 |       15 |                96 |     104.01 | Clement Laporte     |             80 |
+|             37 | JJ van der Mescht       |      85.47 |                65 |       16 |                 6 |      72.1  | Guram Papidze       |             51 |
+|             37 | Moses Alo-Emile         |      80.54 |                42 |       17 |                59 |      82.64 | Remi Seneca         |             39 |
+|             33 | Joris Segonds           |      97.05 |                87 |       18 |                72 |      85.75 | Lekima Tagitagivalu |             31 |
+|             28 | James Hall              |      91.45 |                82 |       19 |                21 |      75.41 | Jordan Joseph       |             26 |
+|             28 | Julien Ory              |      77.83 |                29 |       20 |                81 |      87.88 | Ignacio Calles      |             26 |
+|             28 | Nemo Roelofse           |      80.94 |                43 |       21 |                65 |      84.18 | Clovis Le bail      |             23 |
+|             25 | Lucas Peyresblanques    |      87.87 |                79 |       22 |                44 |      80.41 | Thibault Debaes     |             22 |
+|             20 | Julien Delbouis         |      92.2  |                83 |       23 |                85 |      91.44 | Martin Puech        |             20 |
 

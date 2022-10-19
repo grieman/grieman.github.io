@@ -4,10 +4,10 @@ title: Bulls at Benetton Treviso
 date: 2022-10-22 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bulls (~1561.02) at Benetton Treviso (~1381.33)
+# Bulls (~1386.38) at Benetton Treviso (~1222.97)
 
-# Prediction: Bulls by 13.0
+# Prediction: Bulls by 11.3
 
 
-Bulls by 18.0 on a neutral pitch
+Bulls by 16.3 on a neutral pitch
 

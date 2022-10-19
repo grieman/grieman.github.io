@@ -233,6 +233,7 @@ for recent_game in recent_games:
         clean_leading_space(f'temp//{file_name}.md', f'reviews//{file_name}.md')
 
 dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
+## Add a summary of accuracy for each competition?
 dir_df = dir_df.sort_values('dates')
 dir_int = dir_df[dir_df.levels == 'International']
 dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
@@ -353,7 +354,8 @@ all_fut_matches = glob.glob(os.path.join("../Rugby_ELO/future_matches", "*.psv")
 fut_matches_df = pd.concat((pd.read_csv(f, sep="|") for f in all_fut_matches))
 fut_matches_df = fut_matches_df.drop(["Unnamed: 0"], axis=1)
 fut_matches_df.Date = pd.to_datetime(fut_matches_df.Date)
-fut_matches_df = fut_matches_df[fut_matches_df.Date < datetime.datetime.now() + datetime.timedelta(days=7)]
+fut_matches_df = fut_matches_df[fut_matches_df.Date <= datetime.datetime.now() + datetime.timedelta(days=7)]
+fut_matches_df = fut_matches_df[fut_matches_df.Date >= datetime.datetime.now()]
 
 league_parts = fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"].str.split('_').str[0]
 year_parts = fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"].str.split('_').str[1]

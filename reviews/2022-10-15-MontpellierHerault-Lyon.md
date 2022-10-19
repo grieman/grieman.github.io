@@ -4,12 +4,12 @@ title: Lyon at Montpellier Herault; 33-26
 date: 2022-10-15 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Lyon (1404.41) at Montpellier Herault (1513.06); 33-26
+# Lyon (1263.88) at Montpellier Herault (1319.34); 33-26
 
-# Prediction: Montpellier Herault by 15.9
+# Prediction: Montpellier Herault by 10.5
 
 
-Montpellier Herault by 10.9 on a neutral field
+Montpellier Herault by 5.5 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Montpellier Herault by 10.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-15-MontpellierHerault-Lyon.png)
-# Pre-Match Prediction: Montpellier Herault by 12.3
+# Pre-Match Prediction: Montpellier Herault by 8.7
 
 
-Montpellier Herault by 7.3 on a neutral pitch
+Montpellier Herault by 3.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             45 | Jerome Rey         |      88.45 |                55 |        1 |                90 |     108.98 | Enzo Forletta        |             80 |
-|             45 | Yanis Charcosset   |      80.9  |                30 |        2 |                89 |     105.65 | Brandon Paenga-Amosa |             64 |
-|             36 | Feao Fotuaika      |     104.37 |                83 |        3 |                60 |      89.94 | Titi Lamositele      |             50 |
-|             45 | Joel Kpoku         |      83.56 |                42 |        4 |                86 |     107.8  | Florian Verhaeghe    |             80 |
-|             80 | Temo Mayanavanua   |      80.9  |                27 |        5 |                95 |     118.43 | Paul Willemse        |             68 |
-|             45 | Patrick Sobela     |     101.72 |                78 |        6 |                86 |     107.23 | Yacouba Camara       |             80 |
-|             80 | Beka Saghinadze    |      95.57 |                70 |        7 |                73 |      97.07 | Clément Doumenc      |             44 |
-|             45 | Jordan Taufua      |     115.91 |                94 |        8 |                86 |     107.31 | Zach Mercer          |             80 |
-|             80 | Jean-Marc Doussain |     106.93 |                86 |        9 |                55 |      88.78 | Léo Coly             |             55 |
-|             80 | Leo Berdeu         |      91.09 |                56 |       10 |                70 |      98.68 | Louis Carbonel       |             80 |
-|             80 | Ethan Dumortier    |      84.43 |                52 |       11 |                98 |     124.5  | Vincent Rattez       |             55 |
-|             63 | Kyle Godwin        |     106.79 |                84 |       12 |                52 |      89.02 | Paolo Garbisi        |             80 |
-|             80 | Thibault Regard    |      99.47 |                71 |       13 |                49 |      87.2  | Thomas Darmon        |             80 |
-|             80 | Xavier Mignot      |      98.49 |                75 |       14 |                61 |      88.85 | Gabriel Ngandebe     |             80 |
-|             48 | Davit Niniashvili  |      87.76 |                52 |       15 |                79 |     103.35 | Anthony Bouthier     |             68 |
-|             44 | Paulo Tafili       |      76.64 |                 8 |       16 |                65 |      91.87 | Alexandre Becognee   |             36 |
-|             35 | Hamza Kaabeche     |      90.3  |                59 |       17 |                78 |     100.58 | Mohamed Haouas       |             30 |
-|             35 | Killian Geraci     |      96.47 |                67 |       18 |                78 |     102.74 | Julien Tisseron      |             25 |
-|             35 | Maxime Gouzou      |      80.83 |                24 |       19 |                86 |     106.36 | Cobus Reinach        |             25 |
-|             32 | Jonathan Pelissie  |      91.86 |                61 |       20 |                61 |      94.67 | Vincent Giudicelli   |             16 |
-|             35 | Dylan Cretin       |     100.12 |                73 |       21 |                62 |      95    | Pierre Lucas         |             12 |
-|             17 | Tavite Veredamu    |      78.51 |                24 |       22 |                 4 |      74.27 | Tyler Duguid         |             12 |
-|             35 | Guillaume Marchand |      97.6  |                71 |       23 |               nan |     nan    | nan                  |            nan |
+|             45 | Jerome Rey         |      69.19 |                 4 |        1 |                93 |      95.02 | Enzo Forletta        |             80 |
+|             45 | Yanis Charcosset   |      79.85 |                49 |        2 |                84 |      89.28 | Brandon Paenga-Amosa |             64 |
+|             36 | Feao Fotuaika      |      85.84 |                75 |        3 |                40 |      78.5  | Titi Lamositele      |             50 |
+|             45 | Joel Kpoku         |      78.88 |                40 |        4 |                87 |      93.15 | Florian Verhaeghe    |             80 |
+|             80 | Temo Mayanavanua   |      82.26 |                54 |        5 |                93 |     100.05 | Paul Willemse        |             68 |
+|             45 | Patrick Sobela     |      88.4  |                80 |        6 |                92 |      98.28 | Yacouba Camara       |             80 |
+|             80 | Beka Saghinadze    |      91.42 |                85 |        7 |                88 |      94.36 | Clément Doumenc      |             44 |
+|             45 | Jordan Taufua      |     102.48 |                92 |        8 |                56 |      82.71 | Zach Mercer          |             80 |
+|             80 | Jean-Marc Doussain |     107.95 |                96 |        9 |                77 |      87.7  | Léo Coly             |             55 |
+|             80 | Leo Berdeu         |      75.85 |                19 |       10 |                49 |      80.86 | Louis Carbonel       |             80 |
+|             80 | Ethan Dumortier    |      84.18 |                68 |       11 |                97 |     106.94 | Vincent Rattez       |             55 |
+|             63 | Kyle Godwin        |      87.98 |                74 |       12 |                76 |      88.64 | Paolo Garbisi        |             80 |
+|             80 | Thibault Regard    |      78.54 |                39 |       13 |                 6 |      69.48 | Thomas Darmon        |             80 |
+|             80 | Xavier Mignot      |      80.92 |                50 |       14 |                25 |      77.19 | Gabriel Ngandebe     |             80 |
+|             48 | Davit Niniashvili  |      82.58 |                55 |       15 |                81 |      92.56 | Anthony Bouthier     |             68 |
+|             44 | Paulo Tafili       |      77.86 |                27 |       16 |                18 |      75.67 | Alexandre Becognee   |             36 |
+|             35 | Hamza Kaabeche     |      72.44 |                 9 |       17 |                58 |      81.42 | Mohamed Haouas       |             30 |
+|             35 | Killian Geraci     |      80.15 |                46 |       18 |                80 |      92.31 | Julien Tisseron      |             25 |
+|             35 | Maxime Gouzou      |      77.43 |                27 |       19 |                93 |     101.27 | Cobus Reinach        |             25 |
+|             32 | Jonathan Pelissie  |      93.02 |                89 |       20 |                57 |      81.77 | Vincent Giudicelli   |             16 |
+|             35 | Dylan Cretin       |      92.38 |                83 |       21 |                28 |      78.11 | Pierre Lucas         |             12 |
+|             17 | Tavite Veredamu    |      78.48 |                40 |       22 |                15 |      73    | Tyler Duguid         |             12 |
+|             35 | Guillaume Marchand |      73.05 |                14 |       23 |               nan |     nan    | nan                  |            nan |
 
