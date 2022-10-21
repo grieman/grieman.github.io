@@ -8,80 +8,88 @@ key: page-projections
 ## Gallagher Premiership
 
 
-[2022-10-21 Gloucester Rugby (~1393.1) at London Irish (~1274.72)](projections//2022-10-21-LondonIrish-GloucesterRugby)
+[2022-10-21 Gloucester Rugby (1129.42) at London Irish (1052.36)](projections//2022-10-21-LondonIrish-GloucesterRugby)
 
-[2022-10-22 Saracens (~1361.54) at Exeter Chiefs (~1370.83)](projections//2022-10-22-ExeterChiefs-Saracens)
+[2022-10-22 Worcester Warriors (~953.26) at Bristol Rugby (~1062.64)](projections//2022-10-22-BristolRugby-WorcesterWarriors)
 
-[2022-10-22 Worcester Warriors (~1176.96) at Bristol Rugby (~1289.2)](projections//2022-10-22-BristolRugby-WorcesterWarriors)
+[2022-10-22 Northampton Saints (1106.35) at Bath Rugby (1127.33)](projections//2022-10-22-BathRugby-NorthamptonSaints)
 
-[2022-10-22 Northampton Saints (~1371.54) at Bath Rugby (~1260.6)](projections//2022-10-22-BathRugby-NorthamptonSaints)
+[2022-10-22 Saracens (1105.46) at Exeter Chiefs (1194.97)](projections//2022-10-22-ExeterChiefs-Saracens)
 
-[2022-10-23 Harlequins (~1344.21) at Sale Sharks (~1389.62)](projections//2022-10-23-SaleSharks-Harlequins)
+[2022-10-23 Wasps (~1096.48) at Leicester Tigers (~1176.64)](projections//2022-10-23-LeicesterTigers-Wasps)
 
-[2022-10-23 Wasps (~1325.84) at Leicester Tigers (~1395.17)](projections//2022-10-23-LeicesterTigers-Wasps)
+[2022-10-23 Harlequins (1118.93) at Sale Sharks (1157.38)](projections//2022-10-23-SaleSharks-Harlequins)
+
+[2022-10-28 Exeter Chiefs (~1144.83) at Gloucester Rugby (~1144.16)](projections//2022-10-28-GloucesterRugby-ExeterChiefs)
 ## Pro D2
 
 
-[2022-10-21 Aurillac (~1187.37) at Carcassonne (~1269.77)](projections//2022-10-21-Carcassonne-Aurillac)
+[2022-10-28 Montauban (~963.72) at Provence Rugby (~987.65)](projections//2022-10-28-ProvenceRugby-Montauban)
 
-[2022-10-21 Grenoble (~1235.96) at Montauban (~1203.71)](projections//2022-10-21-Montauban-Grenoble)
+[2022-10-28 Soyaux-Angouleme (~911.9) at Colomiers (~957.3)](projections//2022-10-28-Colomiers-Soyaux-Angouleme)
 
-[2022-10-21 Agen (~1225.82) at Mont de Marsan (~1283.01)](projections//2022-10-21-MontdeMarsan-Agen)
+[2022-10-28 Vannes (~995.15) at Agen (~999.71)](projections//2022-10-28-Agen-Vannes)
 
-[2022-10-21 Rouen (~1205.95) at Soyaux-Angouleme (~1173.56)](projections//2022-10-21-Soyaux-Angouleme-Rouen)
+[2022-10-28 Biarritz Olympique (~965.13) at Rouen (~957.26)](projections//2022-10-28-Rouen-BiarritzOlympique)
 
-[2022-10-21 Massy (~1176.6) at Vannes (~1264.59)](projections//2022-10-21-Vannes-Massy)
+[2022-10-28 Nevers (~970.13) at Grenoble (~992.12)](projections//2022-10-28-Grenoble-Nevers)
 
-[2022-10-21 Colomiers (~1212.86) at Biarritz Olympique (~1214.23)](projections//2022-10-21-BiarritzOlympique-Colomiers)
+[2022-10-28 Mont de Marsan (~1034.56) at Massy (~910.29)](projections//2022-10-28-Massy-MontdeMarsan)
 
-[2022-10-21 Oyonnax (~1278.51) at Beziers (~1267.05)](projections//2022-10-21-Beziers-Oyonnax)
+[2022-10-28 Carcassonne (~1006.73) at Oyonnax (~1049.87)](projections//2022-10-28-Oyonnax-Carcassonne)
 
-[2022-10-21 Provence Rugby (~1213.69) at Nevers (~1222.51)](projections//2022-10-21-Nevers-ProvenceRugby)
+[2022-10-28 Beziers (~1004.67) at Aurillac (~932.46)](projections//2022-10-28-Aurillac-Beziers)
 ## RFU Championship
 
 
-[2022-10-22 Doncaster (~1272.16) at Jersey (~1290.91)](projections//2022-10-22-Jersey-Doncaster)
+[2022-10-22 Cornish Pirates (~926.29) at Coventry (~871.88)](projections//2022-10-22-Coventry-CornishPirates)
 
-[2022-10-22 Ealing Trailfinders (~1356.95) at London Scottish (~1114.1)](projections//2022-10-22-LondonScottish-EalingTrailfinders)
+[2022-10-22 Doncaster (~991.88) at Jersey (~1010.9)](projections//2022-10-22-Jersey-Doncaster)
 
-[2022-10-22 Cornish Pirates (~1203.66) at Coventry (~1168.9)](projections//2022-10-22-Coventry-CornishPirates)
+[2022-10-22 Hartpury College (~888.13) at Bedford (~924.1)](projections//2022-10-22-Bedford-HartpuryCollege)
 
-[2022-10-22 Caldy (~1165.41) at Ampthill (~1209.47)](projections//2022-10-22-Ampthill-Caldy)
+[2022-10-22 Ealing Trailfinders (~1078.19) at London Scottish (~815.8)](projections//2022-10-22-LondonScottish-EalingTrailfinders)
 
-[2022-10-22 Richmond (~1160.65) at Nottingham (~1189.55)](projections//2022-10-22-Nottingham-Richmond)
+[2022-10-22 Richmond (~870.78) at Nottingham (~902.05)](projections//2022-10-22-Nottingham-Richmond)
 
-[2022-10-22 Hartpury College (~1182.35) at Bedford (~1218.42)](projections//2022-10-22-Bedford-HartpuryCollege)
+[2022-10-22 Caldy (~865.64) at Ampthill (~916.01)](projections//2022-10-22-Ampthill-Caldy)
 ## Top 14 Orange
 
 
-[2022-10-22 Pau (~1365.68) at Lyon (~1282.22)](projections//2022-10-22-Lyon-Pau)
+[2022-10-22 La Rochelle (~1126.01) at Stade Toulousain (~1166.42)](projections//2022-10-22-StadeToulousain-LaRochelle)
 
-[2022-10-22 Brive (~1235.48) at Stade Francais Paris (~1278.27)](projections//2022-10-22-StadeFrancaisParis-Brive)
+[2022-10-22 Montpellier Herault (~1154.06) at Racing 92 (~1057.92)](projections//2022-10-22-Racing92-MontpellierHerault)
 
-[2022-10-22 Castres Olympique (~1318.23) at Toulon (~1381.01)](projections//2022-10-22-Toulon-CastresOlympique)
+[2022-10-22 Castres Olympique (~1094.07) at Toulon (~1157.78)](projections//2022-10-22-Toulon-CastresOlympique)
 
-[2022-10-22 La Rochelle (~1378.31) at Stade Toulousain (~1403.34)](projections//2022-10-22-StadeToulousain-LaRochelle)
+[2022-10-22 Brive (~1003.33) at Stade Francais Paris (~1022.28)](projections//2022-10-22-StadeFrancaisParis-Brive)
 
-[2022-10-22 Montpellier Herault (~1398.0) at Racing 92 (~1298.24)](projections//2022-10-22-Racing92-MontpellierHerault)
+[2022-10-22 Pau (~1101.25) at Lyon (~1043.18)](projections//2022-10-22-Lyon-Pau)
 
-[2022-10-22 Bordeaux Begles (~1327.41) at Clermont Auvergne (~1334.18)](projections//2022-10-22-ClermontAuvergne-BordeauxBegles)
+[2022-10-22 Bordeaux Begles (~1099.66) at Clermont Auvergne (~1097.94)](projections//2022-10-22-ClermontAuvergne-BordeauxBegles)
 
-[2022-10-22 Perpignan (~1231.11) at Bayonne (~1302.23)](projections//2022-10-22-Bayonne-Perpignan)
+[2022-10-22 Perpignan (~1012.51) at Bayonne (~1061.02)](projections//2022-10-22-Bayonne-Perpignan)
 ## United Rugby Championship
 
 
-[2022-10-22 Scarlets (~1251.35) at Connacht (~1270.13)](projections//2022-10-22-Connacht-Scarlets)
+[2022-10-22 Ulster (~1137.71) at Sharks (~1105.38)](projections//2022-10-22-Sharks-Ulster)
 
-[2022-10-22 Munster (~1363.64) at Leinster (~1391.52)](projections//2022-10-22-Leinster-Munster)
+[2022-10-22 Glasgow Warriors (~1051.21) at Lions (~1010.93)](projections//2022-10-22-Lions-GlasgowWarriors)
 
-[2022-10-22 Bulls (~1386.38) at Benetton Treviso (~1222.97)](projections//2022-10-22-BenettonTreviso-Bulls)
+[2022-10-22 Edinburgh (~1138.02) at Zebre (~890.59)](projections//2022-10-22-Zebre-Edinburgh)
 
-[2022-10-22 Edinburgh (~1361.04) at Zebre (~1126.0)](projections//2022-10-22-Zebre-Edinburgh)
+[2022-10-22 Bulls (~1145.2) at Benetton Treviso (~982.69)](projections//2022-10-22-BenettonTreviso-Bulls)
 
-[2022-10-22 Glasgow Warriors (~1284.64) at Lions (~1274.52)](projections//2022-10-22-Lions-GlasgowWarriors)
+[2022-10-22 Munster (~1122.44) at Leinster (~1140.9)](projections//2022-10-22-Leinster-Munster)
 
-[2022-10-22 Ulster (~1380.36) at Sharks (~1354.09)](projections//2022-10-22-Sharks-Ulster)
+[2022-10-22 Scarlets (~1024.58) at Connacht (~1054.62)](projections//2022-10-22-Connacht-Scarlets)
 
-[2022-10-22 Ospreys (~1305.04) at Dragons (~1210.85)](projections//2022-10-22-Dragons-Ospreys)
+[2022-10-22 Ospreys (~1056.38) at Dragons (~979.76)](projections//2022-10-22-Dragons-Ospreys)
 
-[2022-10-22 Stormers (~1361.17) at Cardiff Blues (~1257.62)](projections//2022-10-22-CardiffBlues-Stormers)
+[2022-10-22 Stormers (~1120.99) at Cardiff Blues (~1022.21)](projections//2022-10-22-CardiffBlues-Stormers)
+# Domestic Leagues
+
+## Bunnings Warehouse NPC
+
+
+[2022-10-22 Wellington (1074.31) at Canterbury (1051.29)](projections//2022-10-22-Canterbury-Wellington)

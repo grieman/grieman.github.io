@@ -4,12 +4,12 @@ title: Carcassonne at Soyaux-Angouleme; 6-18
 date: 2022-10-14 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Carcassonne (1192.4) at Soyaux-Angouleme (1191.5); 6-18
+# Carcassonne (938.2) at Soyaux-Angouleme (941.63); 6-18
 
-# Prediction: Soyaux-Angouleme by 4.9
+# Prediction: Soyaux-Angouleme by 5.3
 
 
-Carcassonne by 0.1 on a neutral field
+Soyaux-Angouleme by 0.3 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Carcassonne by 0.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-14-Soyaux-Angouleme-Carcassonne.png)
-# Pre-Match Prediction: Carcassonne by 4.9
+# Pre-Match Prediction: Soyaux-Angouleme by 5.0
 
 
-Carcassonne by 0.1 on a neutral pitch
+Soyaux-Angouleme by 0.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             51 | Sami Mavinga             |      83.29 |                64 |        1 |                62 |      82.48 | Khatchik Vartanov      |             48 |
-|             68 | Raphael Carbou           |      75.69 |                19 |        2 |                35 |      79.46 | Rayne Barka            |             58 |
-|             51 | Vakhtangi Akhobadze      |      60.5  |                 0 |        3 |                 6 |      71.87 | Omar Dahir             |             48 |
-|             61 | Rob Harley               |     104.19 |                95 |        4 |                45 |      79.95 | Janse Roux             |             60 |
-|             80 | Rynard Ligtoring Landman |      80.18 |                47 |        5 |               nan |      80    | Saba Pesvianidze       |             80 |
-|             58 | Simon Meka               |      77.21 |                26 |        6 |                22 |      77.98 | Matt Beukeboom         |             80 |
-|             41 | Aaron Carroll            |      76.95 |                29 |        7 |                65 |      83.26 | Germain Burgaud        |             80 |
-|             80 | Tim Agaba                |      72.27 |                 9 |        8 |                55 |      82.52 | Clement Ancely         |             52 |
-|             46 | Pierre Pages             |      87.18 |                78 |        9 |                54 |      82.3  | Manu Saubusse          |             68 |
-|             80 | Damien Añon              |      76.42 |                33 |       10 |                67 |      84.93 | Jacob Botica           |             80 |
-|             80 | Martin Dulon             |      93.07 |                86 |       11 |                 3 |      67.05 | Marvin Lestremau       |             80 |
-|             80 | Nick Grigg               |      70.72 |                 7 |       12 |                41 |      80.68 | Inaki Ayarza Saporta   |             68 |
-|             80 | Brieuc Plessis-Couillaud |      76.62 |                20 |       13 |                80 |      90.01 | Nasoni Naqiri Kunavore |             80 |
-|             48 | Léo Darrelatour          |      78.19 |                33 |       14 |                57 |      81.92 | Maxime Laforgue        |             62 |
-|             80 | Maxime Gianet            |      82.48 |                61 |       15 |                10 |      73.55 | Pierre Lafitte         |             80 |
-|             39 | Gregory Annetta          |      81.06 |                63 |       16 |                46 |      82.05 | Omar Odishvili         |             32 |
-|             34 | Samuel Marques           |      85.48 |                71 |       17 |                 6 |      71.01 | Yassine Boutemane      |             32 |
-|             32 | Baptiste Mouchous        |      73.92 |                13 |       18 |                11 |      71.88 | Yassine Jarmouni       |             28 |
-|             29 | Youssef Amrouni          |      71.38 |                 8 |       19 |                40 |      78.98 | Patxi Bidart           |             22 |
-|             29 | Soso Bekoshvili          |      76.11 |                19 |       20 |               nan |      80.51 | Nicolas Martins        |             20 |
-|             22 | Etienne Herjean          |      83.4  |                60 |       21 |                33 |      78.15 | Rémi Brosset           |             18 |
-|             19 | Come Clayver Joussain    |      79.68 |               nan |       22 |                 5 |      69.92 | Adrien Bau             |             12 |
-|             12 | Luka Petriashvili        |      80    |               nan |       23 |                61 |      83.9  | Mathis Lafon           |             12 |
+|             51 | Sami Mavinga             |      74.37 |                85 |        1 |                86 |      75.35 | Khatchik Vartanov      |             48 |
+|             68 | Raphael Carbou           |      62.71 |                54 |        2 |                70 |      67.86 | Rayne Barka            |             58 |
+|             51 | Vakhtangi Akhobadze      |      37.57 |                 0 |        3 |                 7 |      53.22 | Omar Dahir             |             48 |
+|             61 | Rob Harley               |     108.07 |                98 |        4 |                44 |      60.66 | Janse Roux             |             60 |
+|             80 | Rynard Ligtoring Landman |      66.08 |                67 |        5 |               nan |      60    | Saba Pesvianidze       |             80 |
+|             58 | Simon Meka               |      62.63 |                57 |        6 |                11 |      56.2  | Matt Beukeboom         |             80 |
+|             41 | Aaron Carroll            |      58.37 |                37 |        7 |                64 |      64.53 | Germain Burgaud        |             80 |
+|             80 | Tim Agaba                |      56.96 |                22 |        8 |                78 |      73.95 | Clement Ancely         |             52 |
+|             46 | Pierre Pages             |      71.19 |                80 |        9 |                68 |      67.75 | Manu Saubusse          |             68 |
+|             80 | Damien Añon              |      58.8  |                42 |       10 |                62 |      66.15 | Jacob Botica           |             80 |
+|             80 | Martin Dulon             |      76.64 |                86 |       11 |                 9 |      52.71 | Marvin Lestremau       |             80 |
+|             80 | Nick Grigg               |      56.95 |                20 |       12 |                31 |      59.65 | Inaki Ayarza Saporta   |             68 |
+|             80 | Brieuc Plessis-Couillaud |      47.6  |                 4 |       13 |                63 |      66.43 | Nasoni Naqiri Kunavore |             80 |
+|             48 | Léo Darrelatour          |      57.79 |                26 |       14 |                73 |      67.58 | Maxime Laforgue        |             62 |
+|             80 | Maxime Gianet            |      62.21 |                52 |       15 |                10 |      54.72 | Pierre Lafitte         |             80 |
+|             39 | Gregory Annetta          |      54.82 |                21 |       16 |                64 |      66.91 | Omar Odishvili         |             32 |
+|             34 | Samuel Marques           |      64.97 |                63 |       17 |                88 |      78.26 | Yassine Boutemane      |             32 |
+|             32 | Baptiste Mouchous        |      53.01 |                 8 |       18 |                12 |      52.84 | Yassine Jarmouni       |             28 |
+|             29 | Youssef Amrouni          |      54.46 |                14 |       19 |                40 |      59.83 | Patxi Bidart           |             22 |
+|             29 | Soso Bekoshvili          |      55.87 |                15 |       20 |               nan |      60.54 | Nicolas Martins        |             20 |
+|             22 | Etienne Herjean          |      59.21 |                34 |       21 |                28 |      57.99 | Rémi Brosset           |             18 |
+|             19 | Come Clayver Joussain    |      59.61 |               nan |       22 |                54 |      62.37 | Adrien Bau             |             12 |
+|             12 | Luka Petriashvili        |      60    |               nan |       23 |                59 |      65.14 | Mathis Lafon           |             12 |
 

@@ -4,12 +4,12 @@ title: Auckland at Wellington; 19.0-54.0
 date: 2022-10-14 02:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Auckland (1322.23) at Wellington (1339.64); 19.0-54.0
+# Auckland (1025.7) at Wellington (1043.42); 19.0-54.0
 
-# Prediction: Wellington by 6.7
+# Prediction: Wellington by 6.8
 
 
-Wellington by 1.7 on a neutral field
+Wellington by 1.8 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Wellington by 1.7 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-14-Wellington-Auckland.png)
-# Pre-Match Prediction: Wellington by 8.0
+# Pre-Match Prediction: Wellington by 9.6
 
 
-Wellington by 3.0 on a neutral pitch
+Wellington by 4.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             56 | Alex Hodgman      |      91.38 |                87 |        1 |                90 |      93.24 | Xavier Numia          |             66 |
-|             40 | Soane Vikena      |      79.82 |                46 |        2 |                98 |     106.36 | Asafo Aumua           |             69 |
-|             64 | Marcel Renata     |      89.66 |                82 |        3 |                69 |      84.21 | Pek Cowan             |             35 |
-|             81 | Patrick Tuipulotu |     111.96 |                97 |        4 |                64 |      83.35 | James Blackwell       |             81 |
-|             69 | Hamish Dalzell    |      84.12 |                66 |        5 |                75 |      86.81 | Dominic Bird          |             61 |
-|             81 | Blake Gibson      |      88.55 |                81 |        6 |                34 |      78.39 | Caleb Delany          |             81 |
-|             57 | Niko Jones        |      76.16 |                19 |        7 |                86 |      91.9  | Du'Plessis Kirifi     |             81 |
-|             81 | Jackson Pugh      |      80.37 |                43 |        8 |                49 |      81.66 | Peter Lakai           |             64 |
-|             67 | Taufa Funaki      |      75.96 |                17 |        9 |                96 |     106.76 | TJ Perenara           |             64 |
-|             68 | Simon Hickey      |      92.73 |                82 |       10 |                42 |      80.26 | Jackson Garden-Bachop |             64 |
-|             64 | Tomas Aoake       |      74.45 |                13 |       11 |                38 |      79    | Pepesana Patafilo     |             81 |
-|             81 | Harry Plummer     |      96.56 |                89 |       12 |                68 |      85.72 | Riley Higgins         |             81 |
-|             78 | Bryce Heem        |     114.92 |                99 |       13 |                80 |      90.3  | Billy Proctor         |             81 |
-|             81 | AJ Lam            |      77.41 |                24 |       14 |                99 |     119.09 | Julian Savea          |             66 |
-|             81 | Jordan Trainor    |      95.23 |                87 |       15 |                74 |      89.65 | Ruben Love            |             81 |
-|             41 | Leni Apisai       |      72.1  |                 6 |       16 |               nan |      80    | Josh Southall         |             12 |
-|             25 | Jordan Lay        |      80    |                44 |       17 |                54 |      81.61 | PJ Sheck              |             46 |
-|             17 | Sione Ahio        |      77.58 |               nan |       18 |                89 |      93.07 | Tietie Tuimauga       |             15 |
-|             12 | Josh Beehre       |      80.3  |                47 |       19 |                41 |      79.31 | Taine Plumtree        |             20 |
-|             24 | Terrell Peita     |      87.32 |                75 |       20 |                47 |      81.27 | Keelan Whitman        |             17 |
-|             14 | Manu Paea         |      81.16 |                56 |       21 |                79 |      88.47 | Richard Judd          |             17 |
-|             16 | Corey Evans       |      87.08 |                66 |       22 |                54 |      82.24 | Aidan Morgan          |             17 |
-|             17 | Joel Cobb         |      80.15 |                45 |       23 |                70 |      85.18 | Connor Garden-Bachop  |             15 |
+|             56 | Alex Hodgman      |      75.81 |                86 |        1 |                81 |      71.39 | Xavier Numia          |             66 |
+|             40 | Soane Vikena      |      58.52 |                30 |        2 |                90 |      81.31 | Asafo Aumua           |             69 |
+|             64 | Marcel Renata     |      63.8  |                58 |        3 |                92 |      87.11 | Pek Cowan             |             35 |
+|             81 | Patrick Tuipulotu |      95.02 |                96 |        4 |                50 |      61.69 | James Blackwell       |             81 |
+|             69 | Hamish Dalzell    |      60.2  |                42 |        5 |                71 |      67.63 | Dominic Bird          |             61 |
+|             81 | Blake Gibson      |      70.51 |                78 |        6 |                 5 |      50.08 | Caleb Delany          |             81 |
+|             57 | Niko Jones        |      56.25 |                18 |        7 |                88 |      81.11 | Du'Plessis Kirifi     |             81 |
+|             81 | Jackson Pugh      |      60.61 |                38 |        8 |                17 |      55.03 | Peter Lakai           |             64 |
+|             67 | Taufa Funaki      |      54.99 |                12 |        9 |                95 |      97.88 | TJ Perenara           |             64 |
+|             68 | Simon Hickey      |      68.59 |                68 |       10 |                31 |      58.87 | Jackson Garden-Bachop |             64 |
+|             64 | Tomas Aoake       |      51.99 |                 8 |       11 |                26 |      57.83 | Pepesana Patafilo     |             81 |
+|             81 | Harry Plummer     |      82.12 |                88 |       12 |                52 |      63.26 | Riley Higgins         |             81 |
+|             78 | Bryce Heem        |     107.23 |                99 |       13 |                55 |      63.76 | Billy Proctor         |             81 |
+|             81 | AJ Lam            |      55.61 |                15 |       14 |                99 |     111.73 | Julian Savea          |             66 |
+|             81 | Jordan Trainor    |      68.65 |                64 |       15 |                68 |      70.2  | Ruben Love            |             81 |
+|             41 | Leni Apisai       |      57.85 |                21 |       16 |               nan |      60    | Josh Southall         |             12 |
+|             25 | Jordan Lay        |      59.32 |                36 |       17 |                46 |      61.57 | PJ Sheck              |             46 |
+|             17 | Sione Ahio        |      56.98 |               nan |       18 |                80 |      71.34 | Tietie Tuimauga       |             15 |
+|             12 | Josh Beehre       |      59.24 |                38 |       19 |                34 |      58.83 | Taine Plumtree        |             20 |
+|             24 | Terrell Peita     |      65.43 |                66 |       20 |                38 |      60.98 | Keelan Whitman        |             17 |
+|             14 | Manu Paea         |      60.35 |                42 |       21 |                73 |      68.11 | Richard Judd          |             17 |
+|             16 | Corey Evans       |      63.07 |                48 |       22 |                 9 |      53.91 | Aidan Morgan          |             17 |
+|             17 | Joel Cobb         |      59.96 |                40 |       23 |                39 |      59.97 | Connor Garden-Bachop  |             15 |
 

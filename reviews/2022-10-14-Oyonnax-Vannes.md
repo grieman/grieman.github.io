@@ -4,12 +4,12 @@ title: Vannes at Oyonnax; 7-56
 date: 2022-10-14 19:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Vannes (1302.39) at Oyonnax (1286.26); 7-56
+# Vannes (1054.79) at Oyonnax (1083.92); 7-56
 
-# Prediction: Oyonnax by 3.4
+# Prediction: Oyonnax by 7.9
 
 
-Vannes by 1.6 on a neutral field
+Oyonnax by 2.9 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Vannes by 1.6 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-14-Oyonnax-Vannes.png)
-# Pre-Match Prediction: Vannes by 2.8
+# Pre-Match Prediction: Oyonnax by 7.2
 
 
-Vannes by 2.2 on a neutral pitch
+Oyonnax by 2.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             47 | Ximun Bessonart         |      81.35 |               nan |        1 |                20 |      76.54 | Tommy Raynaud           |             48 |
-|             62 | Théo Beziat             |      83.72 |                55 |        2 |                54 |      81.87 | Benjamin Geledan        |             56 |
-|             47 | John Afoa               |     108.51 |                98 |        3 |                83 |      88.7  | Thomas Laclayat         |             48 |
-|             80 | Edoardo Iachizzi        |      90.2  |                83 |        4 |                96 |     106.47 | Tom Murday              |             80 |
-|             47 | Ewan Thomas Johnson     |      82.57 |                61 |        5 |                97 |     112.49 | Phoenix Battye          |             48 |
-|             80 | Juan Bautista Pedemonte |      83.12 |                65 |        6 |                58 |      81.93 | Wandrille Picault       |             80 |
-|             57 | Francisco Gorrissen     |     111.44 |                98 |        7 |                10 |      73.17 | Loïc Credoz             |             56 |
-|             80 | Léon Boulier            |      90.93 |                78 |        8 |                94 |     104.73 | Rory Grice              |             80 |
-|             50 | Will Percillier         |      78.48 |                21 |        9 |                56 |      84.3  | Charlie Cassang         |             67 |
-|             62 | Quentin Etienne Lecoq   |      96.6  |                87 |       10 |                62 |      83.45 | Jules Soulan            |             80 |
-|             80 | Nicolas Freitas         |      91.83 |                84 |       11 |                82 |      90.33 | Aurelien Callandret     |             80 |
-|             80 | Sacha Valleau           |      79.55 |                40 |       12 |                61 |      83.98 | Gaby Lovobalavu         |             59 |
-|             80 | Branden Holder          |      82.17 |                47 |       13 |                30 |      78.22 | Pedro Bettencourt Avila |             80 |
-|             80 | Nathanael Hulleu        |      85.34 |                71 |       14 |                71 |      85.55 | Joe Ravouvou            |             56 |
-|             50 | Romaric Camou           |      88.09 |                71 |       15 |                73 |      86.11 | Darren Sweetnam         |             80 |
-|             33 | Charles-Henri Berguet   |      80.88 |                49 |       16 |                 1 |      63.05 | Adrien Bordenave        |             32 |
-|             23 | Joe Edwards             |      82.94 |                57 |       17 |                 7 |      72.54 | Thibault Berthaud       |             32 |
-|             33 | Paga Tafili             |      91.72 |                87 |       18 |                16 |      74.53 | Steve Mafi              |             32 |
-|             30 | Alexandre Gouaux        |      79.48 |               nan |       19 |                11 |      73.92 | Manu Leiataua           |             24 |
-|             30 | Kevin Burgaud           |      69.44 |                 5 |       20 |                46 |      79.95 | Kevin Lebreton          |             24 |
-|             18 | Pat Leafa               |      88.08 |                82 |       21 |                15 |      75.23 | Tony Ensor              |             24 |
-|             18 | Maxime Lafage           |      77.69 |                27 |       22 |                50 |      81.66 | Florian Vialelle        |             21 |
-|             33 | Myles Edwards           |      67.29 |                 5 |       23 |                54 |      81.34 | Yvan David              |             13 |
+|             47 | Ximun Bessonart         |      62.13 |               nan |        1 |                 6 |      50.61 | Tommy Raynaud           |             48 |
+|             62 | Théo Beziat             |      64.06 |                44 |        2 |                91 |      84.22 | Benjamin Geledan        |             56 |
+|             47 | John Afoa               |      98.92 |                96 |        3 |                71 |      66.94 | Thomas Laclayat         |             48 |
+|             80 | Edoardo Iachizzi        |      76.23 |                83 |        4 |                98 |     104.59 | Tom Murday              |             80 |
+|             47 | Ewan Thomas Johnson     |      65.75 |                66 |        5 |                98 |     109.12 | Phoenix Battye          |             48 |
+|             80 | Juan Bautista Pedemonte |      65.19 |                67 |        6 |                50 |      61.77 | Wandrille Picault       |             80 |
+|             57 | Francisco Gorrissen     |      87.17 |                92 |        7 |                 6 |      50.83 | Loïc Credoz             |             56 |
+|             80 | Léon Boulier            |      76.95 |                80 |        8 |                85 |      79.02 | Rory Grice              |             80 |
+|             50 | Will Percillier         |      58.05 |                20 |        9 |                43 |      63.39 | Charlie Cassang         |             67 |
+|             62 | Quentin Etienne Lecoq   |      86.73 |                88 |       10 |                75 |      74.22 | Jules Soulan            |             80 |
+|             80 | Nicolas Freitas         |      67.7  |                73 |       11 |                80 |      71.81 | Aurelien Callandret     |             80 |
+|             80 | Sacha Valleau           |      62.69 |                48 |       12 |                90 |      85.48 | Gaby Lovobalavu         |             59 |
+|             80 | Branden Holder          |      70.74 |                70 |       13 |                31 |      59.06 | Pedro Bettencourt Avila |             80 |
+|             80 | Nathanael Hulleu        |      66.37 |                71 |       14 |                71 |      66.57 | Joe Ravouvou            |             56 |
+|             50 | Romaric Camou           |      74.11 |                76 |       15 |                87 |      78.79 | Darren Sweetnam         |             80 |
+|             33 | Charles-Henri Berguet   |      60.13 |                40 |       16 |                 0 |      41.01 | Adrien Bordenave        |             32 |
+|             23 | Joe Edwards             |      61.93 |                43 |       17 |                12 |      55.7  | Thibault Berthaud       |             32 |
+|             33 | Paga Tafili             |      84.35 |                90 |       18 |                93 |      87.37 | Steve Mafi              |             32 |
+|             30 | Alexandre Gouaux        |      59.65 |               nan |       19 |                92 |      86.01 | Manu Leiataua           |             24 |
+|             30 | Kevin Burgaud           |      64.28 |                50 |       20 |                67 |      65.07 | Kevin Lebreton          |             24 |
+|             18 | Pat Leafa               |      71.97 |                81 |       21 |                 6 |      51.5  | Tony Ensor              |             24 |
+|             18 | Maxime Lafage           |      52.35 |                 7 |       22 |                57 |      64.6  | Florian Vialelle        |             21 |
+|             33 | Myles Edwards           |      53.96 |                12 |       23 |                48 |      61.71 | Yvan David              |             13 |
 

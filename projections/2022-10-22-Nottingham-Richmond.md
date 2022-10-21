@@ -4,10 +4,10 @@ title: Richmond at Nottingham
 date: 2022-10-22 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Richmond (~1160.65) at Nottingham (~1189.55)
+# Richmond (~870.78) at Nottingham (~902.05)
 
-# Prediction: Nottingham by 7.9
+# Prediction: Nottingham by 8.1
 
 
-Nottingham by 2.9 on a neutral pitch
+Nottingham by 3.1 on a neutral pitch
 

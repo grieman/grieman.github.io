@@ -4,12 +4,12 @@ title: London Irish at Sale Sharks; 14.0-37.0
 date: 2022-10-14 14:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# London Irish (1266.73) at Sale Sharks (1394.33); 14.0-37.0
+# London Irish (1053.82) at Sale Sharks (1134.49); 14.0-37.0
 
-# Prediction: Sale Sharks by 17.8
+# Prediction: Sale Sharks by 13.1
 
 
-Sale Sharks by 12.8 on a neutral field
+Sale Sharks by 8.1 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Sale Sharks by 12.8 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-14-SaleSharks-LondonIrish.png)
-# Pre-Match Prediction: Sale Sharks by 16.6
+# Pre-Match Prediction: Sale Sharks by 12.1
 
 
-Sale Sharks by 11.6 on a neutral pitch
+Sale Sharks by 7.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             58 | Will Goodrick-Clarke       |      79.13 |                42 |        1 |                91 |      94.06 | Bevan Rodd          |             56 |
-|             64 | Agustin Creevy             |     118.07 |                99 |        2 |                26 |      77.92 | Ewan Ashman         |             58 |
-|             64 | Lovejoy Chawatama          |      75.5  |                16 |        3 |                26 |      77.45 | Nic Schonert        |             59 |
-|             67 | Api Ratuniyarawa           |      80.93 |                50 |        4 |                99 |     119.03 | Jean-Luc du Preez   |             80 |
-|             80 | Rob Simmons                |     104.13 |                96 |        5 |                86 |      92.6  | Jonny Hill          |             63 |
-|             80 | Ben Donnell                |      76.39 |                21 |        6 |                90 |      95.81 | Tom Curry           |             72 |
-|             80 | Juan Martin Gonzalez       |      80.08 |                47 |        7 |                34 |      78.4  | Ben Curry           |             69 |
-|             56 | So'otala Fa'aso'o          |      90.6  |                80 |        8 |                96 |     109    | Daniel du Preez     |             80 |
-|             71 | Ben White                  |      85.77 |                72 |        9 |                60 |      84.22 | Raffi Quirke        |             59 |
-|             80 | Paddy Jackson              |      87.86 |                75 |       10 |                62 |      83.4  | Robert du Preez     |             69 |
-|             80 | Ollie Hassell-Collins      |      74.54 |                13 |       11 |                92 |      99.19 | Tom O'Flaherty      |             61 |
-|             80 | Benhard Janse van Rensburg |      78.58 |                32 |       12 |               nan |     100.81 | Sam Hill            |             80 |
-|             67 | Will Joseph                |      82.63 |                55 |       13 |                96 |     106.91 | Sam James           |             80 |
-|             80 | Ben Loader                 |      86.97 |                75 |       14 |                39 |      79.19 | Tom Roebuck         |             80 |
-|             58 | James Stokes               |      78.64 |                34 |       15 |                41 |      79.42 | Joe Carpenter       |             80 |
-|             16 | Isaac Miller               |      77.74 |                29 |       16 |                97 |     105.25 | Akker van der Merwe |             22 |
-|             22 | Danilo Fischetti           |      73.35 |                10 |       17 |                86 |      91.55 | Simon McIntyre      |             24 |
-|             16 | Ciaran Parker              |      80.8  |               nan |       18 |                99 |     112.04 | Coenie Oosthuizen   |             21 |
-|             13 | Josh Caulfield             |      77.32 |               nan |       19 |               nan |     101.15 | Josh Beaumont       |             17 |
-|             24 | Chandler Cunningham-South  |      80.93 |                48 |       20 |                90 |      96.89 | Jono Ross           |             19 |
-|              9 | Caolan Englefield          |      80.15 |               nan |       21 |                39 |      79.06 | Gus Warr            |             21 |
-|             13 | Lucio Cinti                |      78.08 |                32 |       22 |               nan |      78.7  | Tom Curtis          |             11 |
-|             22 | Logan Trotter              |      80    |               nan |       23 |                84 |      93.29 | Arron Reed          |             19 |
+|             58 | Will Goodrick-Clarke       |      61.54 |                49 |        1 |                87 |      76.43 | Bevan Rodd          |             56 |
+|             64 | Agustin Creevy             |     121.68 |                99 |        2 |                20 |      58.22 | Ewan Ashman         |             58 |
+|             64 | Lovejoy Chawatama          |      60.61 |                42 |        3 |                10 |      53.91 | Nic Schonert        |             59 |
+|             67 | Api Ratuniyarawa           |      47.71 |                 5 |        4 |                94 |      91.99 | Jean-Luc du Preez   |             80 |
+|             80 | Rob Simmons                |      92.72 |                95 |        5 |                74 |      68.91 | Jonny Hill          |             63 |
+|             80 | Ben Donnell                |      64.33 |                64 |        6 |                81 |      73.02 | Tom Curry           |             72 |
+|             80 | Juan Martin Gonzalez       |      62.99 |                58 |        7 |                82 |      73.3  | Ben Curry           |             69 |
+|             56 | So'otala Fa'aso'o          |      68.37 |                68 |        8 |                90 |      85.05 | Daniel du Preez     |             80 |
+|             71 | Ben White                  |      75.42 |                83 |        9 |                61 |      65.35 | Raffi Quirke        |             59 |
+|             80 | Paddy Jackson              |      94.16 |                92 |       10 |                72 |      71.36 | Robert du Preez     |             69 |
+|             80 | Ollie Hassell-Collins      |      59.63 |                38 |       11 |                92 |      85.09 | Tom O'Flaherty      |             61 |
+|             80 | Benhard Janse van Rensburg |      66.4  |                63 |       12 |               nan |      77.24 | Sam Hill            |             80 |
+|             67 | Will Joseph                |      61.92 |                43 |       13 |                96 |      97.76 | Sam James           |             80 |
+|             80 | Ben Loader                 |      65.68 |                69 |       14 |                54 |      62.51 | Tom Roebuck         |             80 |
+|             58 | James Stokes               |      64.95 |                54 |       15 |                45 |      61.68 | Joe Carpenter       |             80 |
+|             16 | Isaac Miller               |      59.96 |                40 |       16 |                91 |      84.85 | Akker van der Merwe |             22 |
+|             22 | Danilo Fischetti           |      62.89 |                55 |       17 |                96 |     100.79 | Simon McIntyre      |             24 |
+|             16 | Ciaran Parker              |      64.08 |               nan |       18 |                99 |     112.85 | Coenie Oosthuizen   |             21 |
+|             13 | Josh Caulfield             |      57.01 |               nan |       19 |               nan |      83.5  | Josh Beaumont       |             17 |
+|             24 | Chandler Cunningham-South  |      61.85 |                45 |       20 |                96 |      96.54 | Jono Ross           |             19 |
+|              9 | Caolan Englefield          |      62.12 |               nan |       21 |                38 |      59.56 | Gus Warr            |             21 |
+|             13 | Lucio Cinti                |      63.76 |                61 |       22 |               nan |      57.87 | Tom Curtis          |             11 |
+|             22 | Logan Trotter              |      60    |               nan |       23 |                82 |      73.63 | Arron Reed          |             19 |
 

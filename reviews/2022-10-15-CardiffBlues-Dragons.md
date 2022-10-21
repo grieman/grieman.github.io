@@ -4,12 +4,12 @@ title: Dragons at Cardiff Blues; 14-31
 date: 2022-10-15 18:15:00 18:00:00 -0500  
 categories: match review  
 ---
-# Dragons (1237.62) at Cardiff Blues (1268.53); 14-31
+# Dragons (999.95) at Cardiff Blues (1043.44); 14-31
 
-# Prediction: Cardiff Blues by 8.1
+# Prediction: Cardiff Blues by 9.3
 
 
-Cardiff Blues by 3.1 on a neutral field
+Cardiff Blues by 4.3 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Cardiff Blues by 3.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-15-CardiffBlues-Dragons.png)
-# Pre-Match Prediction: Cardiff Blues by 9.6
+# Pre-Match Prediction: Cardiff Blues by 9.9
 
 
-Cardiff Blues by 4.6 on a neutral pitch
+Cardiff Blues by 4.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             56 | Aki Seiuli        |      76.06 |                18 |        1 |                11 |      73.42 | Rhys Carré         |             63 |
-|             56 | Bradley Roberts   |      79.42 |                40 |        2 |                86 |      90.85 | Kristian Dacey     |             59 |
-|             56 | Lloyd Fairbrother |      70.61 |                 5 |        3 |                69 |      84.18 | Dimitri Arhip      |             63 |
-|             80 | Ben Carter        |      83.93 |                65 |        4 |                25 |      77.22 | Josh Turnbull      |             66 |
-|             80 | Will Rowlands     |      80.78 |                50 |        5 |                62 |      82.88 | Seb Davies         |             40 |
-|             52 | Sean Lonsdale     |      72.19 |                 8 |        6 |                27 |      77.81 | Shane Lewis-Hughes |             80 |
-|             39 | Taine Basham      |      78.06 |                32 |        7 |                75 |      85.85 | Thomas Young       |             80 |
-|             80 | Ross Moriarty     |      94.94 |                87 |        8 |                79 |      90.5  | Taulupe Faletau    |             80 |
-|             63 | Rhodri Williams   |      86.1  |                73 |        9 |                88 |      92.86 | Tomos Williams     |             74 |
-|             80 | JJ Hanrahan       |     107.99 |                95 |       10 |                85 |      94.21 | Jarrod Evans       |             80 |
-|             70 | Jared Rosser      |      79.84 |                43 |       11 |                77 |      87.61 | Josh Adams         |             45 |
-|             80 | Jack Dixon        |      89.4  |                78 |       12 |                92 |     100.7  | Uilisi Halaholo    |             73 |
-|             40 | Sio Tomkinson     |      90.69 |                80 |       13 |                17 |      77.43 | Max Llewellyn      |             80 |
-|             80 | Rio Dyer          |      69.62 |                 5 |       14 |                89 |      94.53 | Jason Harries      |             80 |
-|             80 | Angus O'Brien     |      74.94 |                15 |       15 |                36 |      78.66 | Rhys Priestland    |             80 |
-|             41 | Harrison Keddie   |      59.44 |                 0 |       16 |                 0 |      56.68 | Matthew Screech    |             40 |
-|             40 | Steffan Hughes    |      92.31 |                83 |       17 |                 6 |      70.17 | Aled Summerhill    |             35 |
-|             28 | Aaron Wainwright  |      93.05 |                83 |       18 |                13 |      75.73 | Kirby Myhill       |             21 |
-|             24 | Lewis Jones       |      81.82 |               nan |       19 |                45 |      79.02 | Corey Domachowski  |             17 |
-|             24 | Elliot Dee        |      91.08 |                87 |       20 |                96 |     102.25 | Dillon Lewis       |             17 |
-|             24 | Chris Coleman     |      78.38 |                26 |       21 |                76 |      86.4  | James Botham       |             14 |
-|             17 | Gonzalo Bertranou |      76.47 |                19 |       22 |                27 |      77.18 | Mason Grady        |              7 |
-|             10 | Jordan Williams   |      71.65 |                 7 |       23 |                87 |      92.15 | Lloyd Williams     |              6 |
+|             56 | Aki Seiuli        |      64.53 |                63 |        1 |                14 |      55.26 | Rhys Carré         |             63 |
+|             56 | Bradley Roberts   |      58.54 |                31 |        2 |                92 |      86.55 | Kristian Dacey     |             59 |
+|             56 | Lloyd Fairbrother |      72.59 |                83 |        3 |                49 |      62    | Dimitri Arhip      |             63 |
+|             80 | Ben Carter        |      61.5  |                48 |        4 |                79 |      71.06 | Josh Turnbull      |             66 |
+|             80 | Will Rowlands     |      55.52 |                18 |        5 |                35 |      58.77 | Seb Davies         |             40 |
+|             52 | Sean Lonsdale     |      54.5  |                14 |        6 |                 6 |      51.33 | Shane Lewis-Hughes |             80 |
+|             39 | Taine Basham      |      52.07 |                 7 |        7 |                92 |      86.63 | Thomas Young       |             80 |
+|             80 | Ross Moriarty     |      68.96 |                69 |        8 |                79 |      74.56 | Taulupe Faletau    |             80 |
+|             63 | Rhodri Williams   |      94.79 |                93 |        9 |                86 |      80.09 | Tomos Williams     |             74 |
+|             80 | JJ Hanrahan       |      94.71 |                93 |       10 |                82 |      80.17 | Jarrod Evans       |             80 |
+|             70 | Jared Rosser      |      62.27 |                52 |       11 |                50 |      61.86 | Josh Adams         |             45 |
+|             80 | Jack Dixon        |      83.2  |                88 |       12 |                96 |      97.92 | Uilisi Halaholo    |             73 |
+|             40 | Sio Tomkinson     |      63.7  |                54 |       13 |                 5 |      51.36 | Max Llewellyn      |             80 |
+|             80 | Rio Dyer          |      52.09 |                 8 |       14 |                52 |      62.06 | Jason Harries      |             80 |
+|             80 | Angus O'Brien     |      55.16 |                13 |       15 |                86 |      83.2  | Rhys Priestland    |             80 |
+|             41 | Harrison Keddie   |      32.01 |                 0 |       16 |                 6 |      48.53 | Matthew Screech    |             40 |
+|             40 | Steffan Hughes    |      74.05 |                79 |       17 |                 1 |      44.78 | Aled Summerhill    |             35 |
+|             28 | Aaron Wainwright  |      76.47 |                81 |       18 |                77 |      70.23 | Kirby Myhill       |             21 |
+|             24 | Lewis Jones       |      94.54 |               nan |       19 |                10 |      51.77 | Corey Domachowski  |             17 |
+|             24 | Elliot Dee        |      71.86 |                81 |       20 |                84 |      73.17 | Dillon Lewis       |             17 |
+|             24 | Chris Coleman     |      59.53 |                37 |       21 |                71 |      66.82 | James Botham       |             14 |
+|             17 | Gonzalo Bertranou |      62.44 |                52 |       22 |                17 |      55.54 | Mason Grady        |              7 |
+|             10 | Jordan Williams   |      70.55 |                69 |       23 |                88 |      84.19 | Lloyd Williams     |              6 |
 
