@@ -4,10 +4,10 @@ title: Nevers at Grenoble
 date: 2022-10-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Nevers (~970.13) at Grenoble (~992.12)
+# Nevers (~960.13) at Grenoble (~975.02)
 
-# Prediction: Grenoble by 7.2
+# Prediction: Grenoble by 6.5
 
 
-Grenoble by 2.2 on a neutral pitch
+Grenoble by 1.5 on a neutral pitch
 

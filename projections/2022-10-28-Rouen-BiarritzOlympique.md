@@ -4,10 +4,10 @@ title: Biarritz Olympique at Rouen
 date: 2022-10-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Biarritz Olympique (~965.13) at Rouen (~957.26)
+# Biarritz Olympique (~961.34) at Rouen (~952.64)
 
-# Prediction: Rouen by 4.2
+# Prediction: Rouen by 4.1
 
 
-Rouen by 0.8 on a neutral pitch
+Rouen by 0.9 on a neutral pitch
 
