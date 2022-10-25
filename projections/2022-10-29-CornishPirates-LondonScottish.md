@@ -4,10 +4,10 @@ title: London Scottish at Cornish Pirates
 date: 2022-10-29 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# London Scottish (~806.62) at Cornish Pirates (~919.66)
+# London Scottish (~807.28) at Cornish Pirates (~925.21)
 
-# Prediction: Cornish Pirates by 16.3
+# Prediction: Cornish Pirates by 16.8
 
 
-Cornish Pirates by 11.3 on a neutral pitch
+Cornish Pirates by 11.8 on a neutral pitch
 

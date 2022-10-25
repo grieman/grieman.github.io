@@ -4,10 +4,10 @@ title: Soyaux-Angouleme at Colomiers
 date: 2022-10-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Soyaux-Angouleme (~935.53) at Colomiers (~962.89)
+# Soyaux-Angouleme (~970.27) at Colomiers (~983.98)
 
-# Prediction: Colomiers by 7.7
+# Prediction: Colomiers by 6.4
 
 
-Colomiers by 2.7 on a neutral pitch
+Colomiers by 1.4 on a neutral pitch
 

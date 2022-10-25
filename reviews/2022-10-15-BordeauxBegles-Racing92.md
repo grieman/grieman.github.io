@@ -4,12 +4,12 @@ title: Racing 92 at Bordeaux Begles; 17-29
 date: 2022-10-15 21:05:00 18:00:00 -0500  
 categories: match review  
 ---
-# Racing 92 (1105.13) at Bordeaux Begles (1117.59); 17-29
+# Racing 92 (1129.38) at Bordeaux Begles (1135.31); 17-29
 
-# Prediction: Bordeaux Begles by 6.2
+# Prediction: Bordeaux Begles by 5.6
 
 
-Bordeaux Begles by 1.2 on a neutral field
+Bordeaux Begles by 0.6 on a neutral field
 ## Scores over Time
 
 
@@ -27,27 +27,27 @@ Bordeaux Begles by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             51 | Eddy Ben Arous      |     103.13 |                97 |        1 |                92 |      87.99 | Jefferson Poirot          |             55 |
-|             51 | Camille Chat        |      67.48 |                72 |        2 |                42 |      59.52 | Maxime Lamothe            |             63 |
-|             51 | Trevor Nyakane      |     106.76 |                98 |        3 |                97 |     104.06 | Vadim Cobilas             |             55 |
-|             80 | Cameron Woki        |      68.53 |                74 |        4 |                11 |      53.21 | Thomas Jolmes             |             63 |
-|             80 | Fabien Sanconnie    |      44.39 |                 2 |        5 |                81 |      74.4  | Cyril Cazeaux             |             80 |
-|             80 | Ibrahim Diallo      |      59.1  |                36 |        6 |                97 |     102.59 | Jandré Marais             |             66 |
-|             57 | Baptiste Chouzenoux |      68.46 |                73 |        7 |                44 |      60.9  | Mahamadou Diaby           |             80 |
-|             51 | Anthime Hemery      |      65.61 |                64 |        8 |                59 |      63.4  | Bastien Vergnes Taillefer |             80 |
-|             80 | Nolann Le Garrec    |      63.42 |                58 |        9 |                90 |      89.15 | Maxime Lucu               |             75 |
-|             60 | Finn Russell        |      79.32 |                81 |       10 |                82 |      80.34 | Matthieu Jalibert         |             68 |
-|             80 | Juan Imhoff         |     100.34 |                98 |       11 |                60 |      63.49 | Santiago Cordero          |             80 |
-|             80 | Henry Chavancy      |      93.37 |                94 |       12 |                64 |      66.84 | Yoram Moefana             |             80 |
-|             72 | Gael Fickou         |     101.85 |                97 |       13 |                52 |      63.3  | Pablo Uberti              |             66 |
-|             80 | Donovan Taofifenua  |      57.73 |                26 |       14 |                88 |      79.81 | Madosh Tambwe             |             80 |
-|             60 | Max Spring          |      58.36 |                29 |       15 |                83 |      79.77 | Romain Buros              |             80 |
-|             29 | Cedate Gomes Sa     |      63.65 |                58 |       16 |                89 |      81.15 | Ben Tameifuna             |             25 |
-|             29 | Wenceslas Lauret    |      91.56 |                94 |       17 |                74 |      68.28 | Sipili Falatea            |             25 |
-|             29 | Hassane Kolingar    |      57.1  |                19 |       18 |                93 |      87.48 | Kane Douglas              |             17 |
-|             29 | Janick Tarrit       |      61.3  |                45 |       19 |                34 |      59.16 | Pablo Dimcheff            |             17 |
-|             23 | Boris Palu          |      65.67 |                66 |       20 |                95 |      91.81 | Remi Lamerat              |             14 |
-|             20 | Antoine Gibert      |      61.24 |                45 |       21 |                17 |      55.73 | Tani Vili                 |             14 |
-|             20 | Louis Dupichot      |      65.98 |                69 |       22 |                79 |      78.42 | Zack Holmes               |             12 |
-|              8 | Inia Tabuavou       |      60.32 |                36 |       23 |                60 |      64.25 | Yann Lesgourgues          |              5 |
+|             51 | Eddy Ben Arous      |     106.14 |                97 |        1 |                92 |      91.65 | Jefferson Poirot          |             55 |
+|             51 | Camille Chat        |      69.28 |                72 |        2 |                40 |      60.01 | Maxime Lamothe            |             63 |
+|             51 | Trevor Nyakane      |      96.62 |                94 |        3 |                99 |     116.32 | Vadim Cobilas             |             55 |
+|             80 | Cameron Woki        |      70.51 |                75 |        4 |                 7 |      51.04 | Thomas Jolmes             |             63 |
+|             80 | Fabien Sanconnie    |      42.56 |                 1 |        5 |                82 |      75.42 | Cyril Cazeaux             |             80 |
+|             80 | Ibrahim Diallo      |      61.49 |                46 |        6 |                98 |     110.55 | Jandré Marais             |             66 |
+|             57 | Baptiste Chouzenoux |      68.82 |                72 |        7 |                74 |      69.53 | Mahamadou Diaby           |             80 |
+|             51 | Anthime Hemery      |      66.78 |                65 |        8 |                69 |      66.89 | Bastien Vergnes Taillefer |             80 |
+|             80 | Nolann Le Garrec    |      65.77 |                63 |        9 |                85 |      83.12 | Maxime Lucu               |             75 |
+|             60 | Finn Russell        |      83.22 |                80 |       10 |                79 |      81.23 | Matthieu Jalibert         |             68 |
+|             80 | Juan Imhoff         |     102.56 |                98 |       11 |                66 |      66.07 | Santiago Cordero          |             80 |
+|             80 | Henry Chavancy      |     101.01 |                97 |       12 |                68 |      69.67 | Yoram Moefana             |             80 |
+|             72 | Gael Fickou         |     104.63 |                98 |       13 |                57 |      65.36 | Pablo Uberti              |             66 |
+|             80 | Donovan Taofifenua  |      61.91 |                48 |       14 |                87 |      80.27 | Madosh Tambwe             |             80 |
+|             60 | Max Spring          |      58.69 |                28 |       15 |                54 |      65.21 | Romain Buros              |             80 |
+|             29 | Cedate Gomes Sa     |      64.99 |                61 |       16 |                88 |      80.97 | Ben Tameifuna             |             25 |
+|             29 | Wenceslas Lauret    |      92.83 |                93 |       17 |                71 |      67.84 | Sipili Falatea            |             25 |
+|             29 | Hassane Kolingar    |      59.21 |                32 |       18 |                89 |      84.98 | Kane Douglas              |             17 |
+|             29 | Janick Tarrit       |      55.91 |                10 |       19 |                30 |      59.2  | Pablo Dimcheff            |             17 |
+|             23 | Boris Palu          |      66.68 |                67 |       20 |                95 |      97.18 | Remi Lamerat              |             14 |
+|             20 | Antoine Gibert      |      62.7  |                49 |       21 |                15 |      55.4  | Tani Vili                 |             14 |
+|             20 | Louis Dupichot      |      71.8  |                78 |       22 |                75 |      77.53 | Zack Holmes               |             12 |
+|              8 | Inia Tabuavou       |      62.07 |                43 |       23 |                69 |      68.01 | Yann Lesgourgues          |              5 |
 

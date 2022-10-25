@@ -4,10 +4,10 @@ title: Pau at La Rochelle
 date: 2022-10-29 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Pau (~1094.63) at La Rochelle (~1126.01)
+# Pau (~1118.39) at La Rochelle (~1158.12)
 
-# Prediction: La Rochelle by 8.1
+# Prediction: La Rochelle by 9.0
 
 
-La Rochelle by 3.1 on a neutral pitch
+La Rochelle by 4.0 on a neutral pitch
 

@@ -4,12 +4,12 @@ title: Bulls at Munster; 17-31
 date: 2022-10-15 20:35:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bulls (1118.88) at Munster (1069.94); 17-31
+# Bulls (1131.92) at Munster (1089.88); 17-31
 
-# Prediction: Munster by 0.1
+# Prediction: Munster by 0.8
 
 
-Bulls by 4.9 on a neutral field
+Bulls by 4.2 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Bulls by 4.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-15-Munster-Bulls.png)
-# Pre-Match Prediction: Bulls by 1.7
+# Pre-Match Prediction: Bulls by 2.3
 
 
-Bulls by 3.3 on a neutral pitch
+Bulls by 2.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player     |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------|---------------:|
-|             57 | Simphiwe Matanzima  |      64.36 |                63 |        1 |                86 |      73.87 | Jeremy Loughman |             51 |
-|             57 | Jan Hendrik Wessels |      52.41 |                 5 |        2 |                57 |      63.1  | Niall Scannell  |             51 |
-|             57 | Mornay Smith        |      67.91 |                74 |        3 |                96 |      97.63 | Stephen Archer  |             51 |
-|             66 | Walt Steenkamp      |      78.54 |                86 |        4 |                57 |      63.04 | Jean Kleyn      |             80 |
-|             80 | Ruan Nortje         |      69.54 |                75 |        5 |               nan |      57.32 | Edwin Edogbo    |             51 |
-|             59 | Marcell Coetzee     |     103.87 |                97 |        6 |                92 |      85.68 | Tadhg Beirne    |             70 |
-|             80 | WJ Steenkamp        |      66.38 |                70 |        7 |                84 |      75.19 | Peter O'Mahony  |             63 |
-|             80 | Elrigh Louw         |      68.71 |                70 |        8 |                69 |      68.56 | Gavin Coombes   |             80 |
-|             68 | Embrose Papier      |      67.26 |                72 |        9 |                79 |      71.64 | Craig Casey     |             57 |
-|             40 | Johan Goosen        |      79.88 |                82 |       10 |                45 |      61.68 | Joey Carbery    |             80 |
-|             80 | Wandisile Simelane  |      71.9  |                72 |       11 |                43 |      60.51 | Liam Coombes    |             80 |
-|             80 | Harold Vorster      |      79.65 |                86 |       12 |                70 |      69.21 | Dan Goggin      |             80 |
-|             80 | Lionel Mapoe        |     105.09 |                98 |       13 |                68 |      67.86 | Malakai Fekitoa |             80 |
-|             40 | Cornal Hendricks    |      64.92 |                66 |       14 |                89 |      80.26 | Calvin Nash     |             40 |
-|             80 | Kurt-Lee Arendse    |      77.39 |                80 |       15 |                78 |      76.3  | Shane Daly      |             80 |
-|             40 | Chris Smith         |      78.15 |                79 |       16 |                34 |      59.27 | Jack Crowley    |             40 |
-|             40 | David Kriel         |      72.36 |                76 |       17 |                82 |      71.08 | Diarmuid Barron |             29 |
-|             23 | Bismarck du Plessis |     100.81 |                97 |       18 |                69 |      66.42 | Thomas Ahern    |             29 |
-|             23 | Dylan Smith         |      56.92 |                15 |       19 |               nan |      59.57 | Roman Salanoa   |             29 |
-|             23 | Jacques van Rooyen  |      69.5  |                76 |       20 |                98 |     107.32 | Dave Kilcoyne   |             29 |
-|             21 | Marco van Staden    |      62.36 |                54 |       21 |                96 |      99.85 | Conor Murray    |             23 |
-|             12 | Zak Burger          |      71.32 |                78 |       22 |                65 |      64.14 | John Hodnett    |             17 |
-|             14 | Ruan Vermaak        |      57.18 |                23 |       23 |                80 |      72.23 | Jack O'Donoghue |             10 |
+|             57 | Simphiwe Matanzima  |      62.79 |                53 |        1 |                84 |      73.61 | Jeremy Loughman |             51 |
+|             57 | Jan Hendrik Wessels |      52.35 |                 5 |        2 |                50 |      62.68 | Niall Scannell  |             51 |
+|             57 | Mornay Smith        |      69.38 |                76 |        3 |                95 |      98.65 | Stephen Archer  |             51 |
+|             66 | Walt Steenkamp      |      78.82 |                84 |        4 |                58 |      64.21 | Jean Kleyn      |             80 |
+|             80 | Ruan Nortje         |      69.3  |                72 |        5 |               nan |      57.16 | Edwin Edogbo    |             51 |
+|             59 | Marcell Coetzee     |     100.16 |                96 |        6 |                92 |      88.84 | Tadhg Beirne    |             70 |
+|             80 | WJ Steenkamp        |      64.71 |                62 |        7 |                85 |      78.66 | Peter O'Mahony  |             63 |
+|             80 | Elrigh Louw         |      71.22 |                74 |        8 |                69 |      68.9  | Gavin Coombes   |             80 |
+|             68 | Embrose Papier      |      67.12 |                68 |        9 |                79 |      72.62 | Craig Casey     |             57 |
+|             40 | Johan Goosen        |      80.01 |                77 |       10 |                47 |      62.87 | Joey Carbery    |             80 |
+|             80 | Wandisile Simelane  |      72.62 |                71 |       11 |                40 |      60.34 | Liam Coombes    |             80 |
+|             80 | Harold Vorster      |      78.8  |                81 |       12 |                69 |      70.11 | Dan Goggin      |             80 |
+|             80 | Lionel Mapoe        |     107.51 |                98 |       13 |                76 |      74.28 | Malakai Fekitoa |             80 |
+|             40 | Cornal Hendricks    |      74.37 |                82 |       14 |                89 |      83.32 | Calvin Nash     |             40 |
+|             80 | Kurt-Lee Arendse    |      79.49 |                80 |       15 |                78 |      77.9  | Shane Daly      |             80 |
+|             40 | Chris Smith         |      78.63 |                76 |       16 |                32 |      59.22 | Jack Crowley    |             40 |
+|             40 | David Kriel         |      72.18 |                73 |       17 |                79 |      71.44 | Diarmuid Barron |             29 |
+|             23 | Bismarck du Plessis |     115.39 |                99 |       18 |                70 |      67.59 | Thomas Ahern    |             29 |
+|             23 | Dylan Smith         |      57.89 |                18 |       19 |               nan |      59.49 | Roman Salanoa   |             29 |
+|             23 | Jacques van Rooyen  |      71.27 |                78 |       20 |                96 |     102.63 | Dave Kilcoyne   |             29 |
+|             21 | Marco van Staden    |      62.9  |                55 |       21 |                97 |     104.21 | Conor Murray    |             23 |
+|             12 | Zak Burger          |      72.84 |                79 |       22 |                66 |      65.09 | John Hodnett    |             17 |
+|             14 | Ruan Vermaak        |      60    |                39 |       23 |                81 |      75.32 | Jack O'Donoghue |             10 |
 

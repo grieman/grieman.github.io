@@ -4,10 +4,10 @@ title: Vannes at Agen
 date: 2022-10-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Vannes (~1008.92) at Agen (~999.71)
+# Vannes (~1018.23) at Agen (~1029.63)
 
-# Prediction: Agen by 4.1
+# Prediction: Agen by 6.1
 
 
-Agen by 0.9 on a neutral pitch
+Agen by 1.1 on a neutral pitch
 

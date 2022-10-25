@@ -4,12 +4,12 @@ title: Agen at Mont de Marsan; 33-11
 date: 2022-10-20 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Agen (1012.07) at Mont de Marsan (1028.77); 33-11
+# Agen (1045.26) at Mont de Marsan (1063.4); 33-11
 
-# Prediction: Mont de Marsan by 6.7
+# Prediction: Mont de Marsan by 6.8
 
 
-Mont de Marsan by 1.7 on a neutral field
+Mont de Marsan by 1.8 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Mont de Marsan by 1.7 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-20-MontdeMarsan-Agen.png)
-# Pre-Match Prediction: Mont de Marsan by 6.1
+# Pre-Match Prediction: Mont de Marsan by 7.1
 
 
-Mont de Marsan by 1.1 on a neutral pitch
+Mont de Marsan by 2.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             56 | Florent Guion        |      48.05 |                 3 |        1 |                64 |      63.74 | Jean-Luc Innocente    |             66 |
-|             56 | Clement Martinez     |      70.92 |                77 |        2 |                83 |      73.1  | Romain Laterrade      |             66 |
-|             56 | Walter Desmaison     |      88.12 |                92 |        3 |                74 |      68.71 | Anthony Alves         |             56 |
-|             80 | Antoine Erbani       |      83.4  |                89 |        4 |                12 |      52.47 | Aston Fortuin         |             33 |
-|             56 | William Demotte      |      63.81 |                60 |        5 |                77 |      70.52 | Leandro Cedaro        |             66 |
-|             80 | Arnaud Duputs        |      67.54 |                72 |        6 |                85 |      76.38 | Yann Brethous         |             80 |
-|             66 | Vincent Farre        |      74.27 |                82 |        7 |                90 |      82.61 | Nicolas Garrault      |             80 |
-|             80 | Fotu Lokotui         |      62.46 |                50 |        8 |                55 |      62.68 | Mike Faleafa          |             80 |
-|             56 | Dorian Bellot        |      60.6  |                42 |        9 |                59 |      63.3  | Martin Doan           |             56 |
-|             80 | Raphael Lagarde      |      61.08 |                41 |       10 |                76 |      74.08 | Willie du Plessis     |             56 |
-|             80 | Tevita Railevu       |      57.56 |                25 |       11 |                43 |      60.33 | Wame Naituvi          |             40 |
-|             80 | Kolinio Ramoka       |      62.23 |                44 |       12 |                82 |      76.52 | Jeronimo de la Fuente |             80 |
-|             80 | Theo Belan           |      62.53 |                46 |       13 |                69 |      68.41 | Jules Even            |             80 |
-|             80 | Iban Etcheverry      |      66.77 |                72 |       14 |                72 |      70.17 | Ambrose Curtis        |             80 |
-|             63 | Mathieu Lamoulie     |      89.55 |                93 |       15 |                42 |      60.18 | Simao Broeiro Bento   |             80 |
-|             24 | Alex Burin           |      67.13 |                71 |       16 |                41 |      59.98 | Léo Banos             |             47 |
-|             24 | Evan Olmstead        |      48.37 |                 3 |       17 |                93 |      89.21 | Yoann Laousse Azpiazu |             40 |
-|             24 | Mike Sosene-Feagai   |      62.88 |                55 |       18 |                75 |      67.87 | Lasha Macharashvili   |             24 |
-|             24 | Richard Barrington   |      70.65 |                79 |       19 |                28 |      58.69 | Joris Pialot          |             24 |
-|             24 | Theo Idjellidaine    |      55.68 |                11 |       20 |                12 |      55.31 | Christophe Loustalot  |             24 |
-|             17 | Jean-Marcelin Buttin |      92.18 |                94 |       21 |                30 |      58.17 | Romain Durand         |             14 |
-|             14 | Martin Devergie      |      78.16 |                85 |       22 |                 2 |      48.4  | Simon Labouyrie       |             14 |
-|            nan | nan                  |     nan    |               nan |       23 |                70 |      66.44 | Thomas Bultel         |             14 |
+|             56 | Florent Guion        |      43.34 |                 1 |        1 |                21 |      56.42 | Jean-Luc Innocente    |             66 |
+|             56 | Clement Martinez     |      72.04 |                76 |        2 |                78 |      72.31 | Romain Laterrade      |             66 |
+|             56 | Walter Desmaison     |      79.67 |                87 |        3 |                93 |      92.97 | Anthony Alves         |             56 |
+|             80 | Antoine Erbani       |      90.25 |                92 |        4 |                12 |      53.18 | Aston Fortuin         |             33 |
+|             56 | William Demotte      |      76.2  |                82 |        5 |                93 |      93.02 | Leandro Cedaro        |             66 |
+|             80 | Arnaud Duputs        |      68.57 |                72 |        6 |                85 |      79.5  | Yann Brethous         |             80 |
+|             66 | Vincent Farre        |      72.93 |                78 |        7 |                80 |      74.18 | Nicolas Garrault      |             80 |
+|             80 | Fotu Lokotui         |      60.71 |                39 |        8 |                57 |      64.13 | Mike Faleafa          |             80 |
+|             56 | Dorian Bellot        |      62.65 |                51 |        9 |                55 |      62.64 | Martin Doan           |             56 |
+|             80 | Raphael Lagarde      |      70.55 |                69 |       10 |                84 |      84.92 | Willie du Plessis     |             56 |
+|             80 | Tevita Railevu       |      56.53 |                18 |       11 |                15 |      55.69 | Wame Naituvi          |             40 |
+|             80 | Kolinio Ramoka       |      61.68 |                40 |       12 |                83 |      80.58 | Jeronimo de la Fuente |             80 |
+|             80 | Theo Belan           |      71.23 |                71 |       13 |                62 |      67.12 | Jules Even            |             80 |
+|             80 | Iban Etcheverry      |      74.48 |                83 |       14 |                68 |      69.27 | Ambrose Curtis        |             80 |
+|             63 | Mathieu Lamoulie     |      91.94 |                92 |       15 |                48 |      61.87 | Simao Broeiro Bento   |             80 |
+|             24 | Alex Burin           |      68.74 |                72 |       16 |                42 |      60.6  | Léo Banos             |             47 |
+|             24 | Evan Olmstead        |      47.61 |                 3 |       17 |                89 |      87.61 | Yoann Laousse Azpiazu |             40 |
+|             24 | Mike Sosene-Feagai   |      64.44 |                60 |       18 |                80 |      70.81 | Lasha Macharashvili   |             24 |
+|             24 | Richard Barrington   |      68.77 |                72 |       19 |                32 |      59.84 | Joris Pialot          |             24 |
+|             24 | Theo Idjellidaine    |      56.23 |                11 |       20 |                 3 |      50.55 | Christophe Loustalot  |             24 |
+|             17 | Jean-Marcelin Buttin |      88.87 |                90 |       21 |                41 |      60.7  | Romain Durand         |             14 |
+|             14 | Martin Devergie      |      81.95 |                86 |       22 |                 7 |      53.52 | Simon Labouyrie       |             14 |
+|            nan | nan                  |     nan    |               nan |       23 |                70 |      68.01 | Thomas Bultel         |             14 |
 

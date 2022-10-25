@@ -4,12 +4,12 @@ title: Gloucester Rugby at London Irish; 22.0-21.0
 date: 2022-10-21 14:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Gloucester Rugby (1138.48) at London Irish (1049.05); 22.0-21.0
+# Gloucester Rugby (1159.82) at London Irish (1088.32); 22.0-21.0
 
-# Prediction: Gloucester Rugby by 3.9
+# Prediction: Gloucester Rugby by 2.2
 
 
-Gloucester Rugby by 8.9 on a neutral field
+Gloucester Rugby by 7.2 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Gloucester Rugby by 8.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-21-LondonIrish-GloucesterRugby.png)
-# Pre-Match Prediction: Gloucester Rugby by 2.7
+# Pre-Match Prediction: Gloucester Rugby by 1.7
 
 
-Gloucester Rugby by 7.7 on a neutral pitch
+Gloucester Rugby by 6.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             80 | Val Rapava-Ruskin |      73.56 |                85 |        1 |                56 |      62.62 | Danilo Fischetti           |             45 |
-|             54 | Santiago Socino   |      77.7  |                87 |        2 |                99 |     120.9  | Agustin Creevy             |             60 |
-|             80 | Fraser Balmain    |      71.67 |                81 |        3 |                33 |      59.05 | Lovejoy Chawatama          |             60 |
-|             80 | Freddie Clarke    |      76.56 |                84 |        4 |                 4 |      46.9  | Api Ratuniyarawa           |             80 |
-|             80 | Matias Alemanno   |      81.27 |                89 |        5 |                95 |      91.74 | Rob Simmons                |             58 |
-|             54 | Jordy Reid        |      73.22 |                81 |        6 |                52 |      62.01 | Juan Martin Gonzalez       |             75 |
-|             80 | Lewis Ludlow      |      76.11 |                85 |        7 |                85 |      76.34 | Tom Pearson                |             80 |
-|             80 | Ruan Ackermann    |      81.39 |                89 |        8 |                67 |      67    | So'otala Fa'aso'o          |             54 |
-|             66 | Charlie Chapman   |      64.83 |                61 |        9 |                82 |      74.56 | Ben White                  |             51 |
-|             80 | Adam Hastings     |      87.65 |                89 |       10 |                92 |      93.19 | Paddy Jackson              |             80 |
-|             27 | Jonny May         |      88.63 |                93 |       11 |                26 |      57.68 | Ollie Hassell-Collins      |             80 |
-|             51 | Giorgi Kveseladze |      74.12 |                79 |       12 |                56 |      64.45 | Benhard Janse van Rensburg |             80 |
-|             80 | Chris Harris      |      75.33 |                81 |       13 |                61 |      63.6  | Lucio Cinti                |             62 |
-|             80 | Louis Rees-Zammit |      63.99 |                62 |       14 |                60 |      63.73 | Ben Loader                 |             80 |
-|             80 | Santiago Carreras |      85.03 |                87 |       15 |                46 |      62.2  | Henry Arundell             |             19 |
-|             26 | Jack Singleton    |      68.35 |                73 |       16 |                40 |      59.57 | Isaac Miller               |             20 |
-|              0 | Harry Elrington   |      65.39 |                67 |       17 |                40 |      60.12 | Will Goodrick-Clarke       |             35 |
-|              0 | Ciaran Knight     |      60.33 |                41 |       18 |               nan |      63.69 | Ciaran Parker              |             25 |
-|              0 | Cameron Jordan    |      56.96 |               nan |       19 |                66 |      64.8  | Chunya Munga               |             22 |
-|             26 | Albert Tuisue     |      69.89 |                72 |       20 |                47 |      61.27 | Chandler Cunningham-South  |             26 |
-|             14 | Stephen Varney    |      55.46 |                14 |       21 |               nan |      61.9  | Caolan Englefield          |             29 |
-|             29 | Jack Reeves       |      59.82 |               nan |       22 |                39 |      61.11 | Will Joseph                |             18 |
-|             53 | Lloyd Evans       |      86.13 |                89 |       23 |                81 |      78.81 | Tom Parton                 |             61 |
+|             80 | Val Rapava-Ruskin |      75.14 |                84 |        1 |                57 |      63.39 | Danilo Fischetti           |             53 |
+|             61 | Santiago Socino   |      79.66 |                87 |        2 |               100 |     118.18 | Agustin Creevy             |             68 |
+|             80 | Fraser Balmain    |      74.55 |                83 |        3 |                37 |      60.11 | Lovejoy Chawatama          |             68 |
+|             80 | Freddie Clarke    |      76.8  |                83 |        4 |                51 |      62.41 | Api Ratuniyarawa           |             80 |
+|             80 | Matias Alemanno   |      86.32 |                90 |        5 |                96 |      97.77 | Rob Simmons                |             65 |
+|             61 | Jordy Reid        |      73.85 |                80 |        6 |                45 |      61.32 | Juan Martin Gonzalez       |             74 |
+|             80 | Lewis Ludlow      |      78.11 |                85 |        7 |                83 |      76.95 | Tom Pearson                |             80 |
+|             80 | Ruan Ackermann    |      80.44 |                84 |        8 |                72 |      70.02 | So'otala Fa'aso'o          |             61 |
+|             73 | Charlie Chapman   |      65.61 |                61 |        9 |                82 |      76.26 | Ben White                  |             58 |
+|             80 | Adam Hastings     |      90    |                88 |       10 |                93 |      97.47 | Paddy Jackson              |             80 |
+|             27 | Jonny May         |      89.1  |                93 |       11 |                39 |      60.25 | Ollie Hassell-Collins      |             80 |
+|             58 | Giorgi Kveseladze |      75.83 |                78 |       12 |                44 |      62.22 | Benhard Janse van Rensburg |             80 |
+|             80 | Chris Harris      |      75.06 |                76 |       13 |                60 |      64.26 | Lucio Cinti                |             69 |
+|             80 | Louis Rees-Zammit |      64.91 |                62 |       14 |                55 |      63.13 | Ben Loader                 |             80 |
+|             80 | Santiago Carreras |      85.46 |                87 |       15 |                46 |      62.6  | Henry Arundell             |             19 |
+|             19 | Jack Singleton    |      66.8  |                68 |       16 |                29 |      58.7  | Isaac Miller               |             12 |
+|              0 | Harry Elrington   |      65.78 |                66 |       17 |                54 |      63.01 | Will Goodrick-Clarke       |             27 |
+|              0 | Ciaran Knight     |      60.99 |                42 |       18 |               nan |      63.69 | Ciaran Parker              |             18 |
+|              0 | Cameron Jordan    |      57.07 |               nan |       19 |                64 |      64.98 | Chunya Munga               |             15 |
+|             19 | Albert Tuisue     |      71.13 |                75 |       20 |                44 |      61.4  | Chandler Cunningham-South  |             19 |
+|              7 | Stephen Varney    |      56    |                13 |       21 |               nan |      62.21 | Caolan Englefield          |             22 |
+|             22 | Jack Reeves       |      59.83 |               nan |       22 |                40 |      61.78 | Will Joseph                |             11 |
+|             53 | Lloyd Evans       |      85.97 |                88 |       23 |                80 |      79.27 | Tom Parton                 |             61 |
 

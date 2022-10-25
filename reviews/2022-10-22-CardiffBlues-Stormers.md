@@ -4,12 +4,12 @@ title: Stormers at Cardiff Blues; 24-30
 date: 2022-10-22 20:35:00 18:00:00 -0500  
 categories: match review  
 ---
-# Stormers (1152.14) at Cardiff Blues (993.41); 24-30
+# Stormers (1165.63) at Cardiff Blues (1005.26); 24-30
 
-# Prediction: Stormers by 10.9
+# Prediction: Stormers by 11.0
 
 
-Stormers by 15.9 on a neutral field
+Stormers by 16.0 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Stormers by 15.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-22-CardiffBlues-Stormers.png)
-# Pre-Match Prediction: Stormers by 8.1
+# Pre-Match Prediction: Stormers by 8.3
 
 
-Stormers by 13.1 on a neutral pitch
+Stormers by 13.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:---------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             73 | Steven Kitshoff                  |     115.82 |                99 |        1 |                13 |      54.95 | Rhys Carré        |             62 |
-|             54 | Joseph Dweba                     |      66.84 |                71 |        2 |                92 |      86.42 | Kristian Dacey    |             33 |
-|             66 | Frans Malherbe                   |      97.66 |                95 |        3 |                84 |      72.54 | Dillon Lewis      |             62 |
-|             55 | Adre Smith                       |      69.07 |                75 |        4 |                78 |      70.99 | Josh Turnbull     |             80 |
-|             80 | Marvin Orie                      |      59.45 |                38 |        5 |                13 |      53.69 | Rory Thornton     |             69 |
-|             58 | Kuyenzeka Kwenama Praisegod Xaba |      51.04 |                 6 |        6 |                68 |      65.63 | James Botham      |             80 |
-|             63 | Ernst van Rhyn                   |      81.34 |                88 |        7 |                91 |      86.2  | Thomas Young      |             62 |
-|             80 | Hacjivah Dayimani                |      83.04 |                89 |        8 |                21 |      56.57 | James Ratti       |             52 |
-|             42 | Godlen Masimla                   |      59.7  |                34 |        9 |                86 |      80.04 | Tomos Williams    |             80 |
-|             80 | Manie Libbok                     |      81.01 |                83 |       10 |                87 |      83.76 | Rhys Priestland   |             80 |
-|             80 | Leolin Zas                       |      80.57 |                89 |       11 |                 2 |      46.67 | Theo Cabango      |             80 |
-|             80 | Daniel du Plessis                |      83.07 |                89 |       12 |                96 |      98.21 | Uilisi Halaholo   |              5 |
-|             55 | Alapati Leiua                    |      79.38 |                85 |       13 |                 7 |      50.47 | Max Llewellyn     |             80 |
-|             80 | SuleimanHartzenberg              |      67.11 |                72 |       14 |                61 |      63.87 | Jason Harries     |             80 |
-|             80 | Clayton Blommetjies              |      78.95 |                83 |       15 |                88 |      81.47 | Ben Thomas        |             80 |
-|             38 | Albertus Paul de Wet             |      57.9  |                26 |       16 |                12 |      54.07 | Mason Grady       |             75 |
-|             26 | JJ Kotze                         |      62.5  |                54 |       17 |                77 |      70.47 | Kirby Myhill      |             47 |
-|             25 | Ben-Jason Dixon                  |      65.71 |                65 |       18 |                44 |      60.87 | Lopeti Timani     |             28 |
-|             25 | Sacha Mngomezulu                 |      62.93 |                51 |       19 |                10 |      52.14 | Corey Domachowski |             18 |
-|             22 | Junior Pokomela                  |      75.06 |                83 |       20 |                58 |      63.41 | Dimitri Arhip     |             18 |
-|             17 | Willie Engelbrecht               |      78.67 |                87 |       21 |               nan |      60.28 | Teddy Williams    |             11 |
-|             14 | Brok Harris                      |     128.61 |               100 |       22 |               nan |      54.86 | Gwilym Bradley    |             18 |
-|              7 | Kwenzokuhle Ndumiso Blose        |      59.65 |                31 |       23 |               nan |     nan    | nan               |            nan |
+|             73 | Steven Kitshoff                  |     113.68 |                99 |        1 |                15 |      56.09 | Rhys Carré        |             62 |
+|             54 | Joseph Dweba                     |      66.19 |                67 |        2 |                91 |      86.26 | Kristian Dacey    |             33 |
+|             66 | Frans Malherbe                   |     105.21 |                97 |        3 |                83 |      74.31 | Dillon Lewis      |             62 |
+|             55 | Adre Smith                       |      67.78 |                69 |        4 |                73 |      69.59 | Josh Turnbull     |             80 |
+|             80 | Marvin Orie                      |      62.65 |                52 |        5 |                16 |      54.78 | Rory Thornton     |             69 |
+|             58 | Kuyenzeka Kwenama Praisegod Xaba |      52.97 |                 9 |        6 |                69 |      67.5  | James Botham      |             80 |
+|             63 | Ernst van Rhyn                   |      82.59 |                87 |        7 |                93 |      91.63 | Thomas Young      |             62 |
+|             80 | Hacjivah Dayimani                |      83.21 |                88 |        8 |                20 |      56.59 | James Ratti       |             52 |
+|             42 | Godlen Masimla                   |      58.75 |                23 |        9 |                84 |      80.29 | Tomos Williams    |             80 |
+|             80 | Manie Libbok                     |      80.41 |                78 |       10 |                87 |      84.42 | Rhys Priestland   |             80 |
+|             80 | Leolin Zas                       |      83.37 |                89 |       11 |                 2 |      46.13 | Theo Cabango      |             80 |
+|             80 | Daniel du Plessis                |      83.92 |                87 |       12 |                95 |      97.81 | Uilisi Halaholo   |              5 |
+|             55 | Alapati Leiua                    |      82.25 |                86 |       13 |                 6 |      50.6  | Max Llewellyn     |             80 |
+|             80 | SuleimanHartzenberg              |      67.18 |                69 |       14 |                64 |      65.59 | Jason Harries     |             80 |
+|             80 | Clayton Blommetjies              |      76.1  |                76 |       15 |                86 |      82.92 | Ben Thomas        |             80 |
+|             38 | Albertus Paul de Wet             |      60.06 |                38 |       16 |                11 |      54.09 | Mason Grady       |             75 |
+|             26 | JJ Kotze                         |      63.41 |                54 |       17 |                76 |      71.61 | Kirby Myhill      |             47 |
+|             25 | Ben-Jason Dixon                  |      66.48 |                67 |       18 |                49 |      62.2  | Lopeti Timani     |             28 |
+|             25 | Sacha Mngomezulu                 |      62.98 |                48 |       19 |                13 |      53.65 | Corey Domachowski |             18 |
+|             22 | Junior Pokomela                  |      75.23 |                81 |       20 |                26 |      58.43 | Dimitri Arhip     |             18 |
+|             17 | Willie Engelbrecht               |      83.17 |                88 |       21 |               nan |      60.29 | Teddy Williams    |             11 |
+|             14 | Brok Harris                      |     130.95 |               100 |       22 |               nan |      54.88 | Gwilym Bradley    |             18 |
+|              7 | Kwenzokuhle Ndumiso Blose        |      60.52 |                35 |       23 |               nan |     nan    | nan               |            nan |
 

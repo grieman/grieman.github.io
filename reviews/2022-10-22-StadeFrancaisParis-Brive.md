@@ -4,12 +4,12 @@ title: Brive at Stade Francais Paris; 0-27
 date: 2022-10-22 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Brive (948.17) at Stade Francais Paris (1119.46); 0-27
+# Brive (962.88) at Stade Francais Paris (1124.72); 0-27
 
-# Prediction: Stade Francais Paris by 22.1
+# Prediction: Stade Francais Paris by 21.2
 
 
-Stade Francais Paris by 17.1 on a neutral field
+Stade Francais Paris by 16.2 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Stade Francais Paris by 17.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-22-StadeFrancaisParis-Brive.png)
-# Pre-Match Prediction: Stade Francais Paris by 17.8
+# Pre-Match Prediction: Stade Francais Paris by 16.9
 
 
-Stade Francais Paris by 12.8 on a neutral pitch
+Stade Francais Paris by 11.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             48 | Malino Vanai          |      63.44 |                61 |        1 |                54 |      64.77 | Moses Alo-Emile         |             55 |
-|             43 | Lucas da Silva        |      62.15 |                58 |        2 |                95 |      94.58 | Mickael Ivaldi          |             59 |
-|             48 | Pietro Ceccarelli     |      69.24 |                76 |        3 |                42 |      62.29 | Nemo Roelofse           |             20 |
-|             80 | Andres Zafra Tarazona |      50.41 |                11 |        4 |                64 |      65.02 | Paul Gabrillagues       |             55 |
-|              3 | Lucas Paulos          |      68.76 |                74 |        5 |                34 |      62.15 | JJ van der Mescht       |             43 |
-|             80 | Esteban Abadie        |      52.38 |                 9 |        6 |                50 |      62.68 | Julien Ory              |             16 |
-|             80 | Sasha Gue             |      56.74 |                21 |        7 |                80 |      72    | Romain Briatte          |             80 |
-|             50 | Abraham Papali'i      |      67.26 |                67 |        8 |                87 |      80.37 | Sekou Macalou           |             80 |
-|             80 | Leo Carbonneau        |      60    |               nan |        9 |                14 |      55.53 | Arthur Coville          |             49 |
-|             56 | Tom Raffy             |      59.21 |                35 |       10 |                87 |      87.35 | Joris Segonds           |             80 |
-|             80 | Axel Muller           |      82.43 |                90 |       11 |                92 |      86.22 | Harry Glover            |             80 |
-|             56 | Sammy Arnold          |      70.71 |                73 |       12 |                76 |      72.8  | Julien Delbouis         |             80 |
-|             80 | Seta Tuicuvu          |      60.19 |                42 |       13 |                94 |      92.11 | Sefa Naivalu            |             57 |
-|             80 | Aaron Grandidier      |      63.33 |                60 |       14 |                42 |      60.16 | Nadir Megdoud           |             80 |
-|             49 | Joris Jurand          |      68.91 |                68 |       15 |                68 |      68.19 | Leo Barre               |             80 |
-|             77 | Oskar Rixen           |      60.59 |                43 |       16 |                98 |     106.54 | Giovanni Habel-Kueffner |             64 |
-|             24 | Guillaume Galletier   |      57.55 |                23 |       17 |                77 |      70.09 | Giorgi Melikidze        |             60 |
-|             32 | Wesley Tapueluelu     |      62.51 |                57 |       18 |                69 |      66.66 | Baptiste Pesenti        |             37 |
-|             32 | Marcel van der Merwe  |      97.18 |                95 |       19 |                73 |      70.53 | James Hall              |             31 |
-|             31 | Mathis Ferté          |      53.15 |               nan |       20 |                64 |      64.71 | Clement Castets         |             25 |
-|             30 | Mesu Kunavula         |      57.04 |                22 |       21 |                71 |      67.49 | Mathieu de Giovanni     |             25 |
-|             24 | Tanguy Lacoste        |      56.06 |               nan |       22 |                54 |      63.55 | Laurent Panis           |             21 |
-|             37 | Florian Dufour        |      72.75 |                83 |       23 |                53 |      63.56 | Jeremy Ward             |             23 |
+|             48 | Malino Vanai          |      72.53 |                81 |        1 |                55 |      65.3  | Moses Alo-Emile         |             55 |
+|             43 | Lucas da Silva        |      64    |                62 |        2 |                84 |      77.11 | Mickael Ivaldi          |             59 |
+|             48 | Pietro Ceccarelli     |      69.46 |                74 |        3 |                66 |      67.96 | Nemo Roelofse           |             20 |
+|             80 | Andres Zafra Tarazona |      49.5  |                 8 |        4 |                70 |      68.02 | Paul Gabrillagues       |             55 |
+|              3 | Lucas Paulos          |      68.91 |                72 |        5 |                37 |      62.98 | JJ van der Mescht       |             43 |
+|             80 | Esteban Abadie        |      53.49 |                11 |        6 |                50 |      63.42 | Julien Ory              |             16 |
+|             80 | Sasha Gue             |      56.99 |                22 |        7 |                55 |      62.95 | Romain Briatte          |             80 |
+|             50 | Abraham Papali'i      |      67.61 |                66 |        8 |                87 |      81.29 | Sekou Macalou           |             80 |
+|             80 | Leo Carbonneau        |      60    |               nan |        9 |                46 |      61.7  | Arthur Coville          |             49 |
+|             56 | Tom Raffy             |      59.41 |                33 |       10 |                90 |      92.51 | Joris Segonds           |             80 |
+|             80 | Axel Muller           |      82.22 |                88 |       11 |                94 |      90.76 | Harry Glover            |             80 |
+|             56 | Sammy Arnold          |      71.89 |                72 |       12 |                77 |      75.86 | Julien Delbouis         |             80 |
+|             80 | Seta Tuicuvu          |      64.15 |                60 |       13 |                93 |      92.52 | Sefa Naivalu            |             57 |
+|             80 | Aaron Grandidier      |      63.75 |                58 |       14 |                35 |      59.36 | Nadir Megdoud           |             80 |
+|             49 | Joris Jurand          |      67.99 |                65 |       15 |                64 |      67.77 | Leo Barre               |             80 |
+|             77 | Oskar Rixen           |      60.78 |                42 |       16 |                96 |     102.43 | Giovanni Habel-Kueffner |             64 |
+|             24 | Guillaume Galletier   |      58.55 |                27 |       17 |                82 |      73.75 | Giorgi Melikidze        |             60 |
+|             32 | Wesley Tapueluelu     |      62.35 |                54 |       18 |                74 |      70.32 | Baptiste Pesenti        |             37 |
+|             32 | Marcel van der Merwe  |      95.9  |                94 |       19 |                83 |      79.67 | James Hall              |             31 |
+|             31 | Mathis Ferté          |      53.07 |               nan |       20 |                76 |      70.24 | Clement Castets         |             25 |
+|             30 | Mesu Kunavula         |      57.28 |                23 |       21 |                63 |      65.73 | Mathieu de Giovanni     |             25 |
+|             24 | Tanguy Lacoste        |      56.01 |               nan |       22 |                48 |      63.18 | Laurent Panis           |             21 |
+|             37 | Florian Dufour        |      79.09 |                86 |       23 |                55 |      65.12 | Jeremy Ward             |             23 |
 

@@ -4,12 +4,12 @@ title: Oyonnax at Beziers; 28-20
 date: 2022-10-21 19:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Oyonnax (1092.72) at Beziers (998.12); 28-20
+# Oyonnax (1087.48) at Beziers (1007.89); 28-20
 
-# Prediction: Oyonnax by 4.5
+# Prediction: Oyonnax by 3.0
 
 
-Oyonnax by 9.5 on a neutral field
+Oyonnax by 8.0 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Oyonnax by 9.5 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-21-Beziers-Oyonnax.png)
-# Pre-Match Prediction: Oyonnax by 4.9
+# Pre-Match Prediction: Oyonnax by 2.8
 
 
-Oyonnax by 9.9 on a neutral pitch
+Oyonnax by 7.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             59 | Tommy Raynaud           |      52.57 |                 8 |        1 |                78 |      69.96 | Francisco Fernandes   |             61 |
-|             41 | Benjamin Geledan        |      86.52 |                92 |        2 |                20 |      57.46 | Clément Esteriola     |             55 |
-|             53 | Thomas Laclayat         |      68.91 |                75 |        3 |                17 |      56.55 | Jamie Hagan           |             55 |
-|             67 | Tom Murday              |     107.86 |                98 |        4 |                48 |      61.49 | Clément Bitz          |             59 |
-|             53 | Phoenix Battye          |     111.09 |                99 |        5 |                78 |      70.53 | John Madigan          |             80 |
-|             53 | Wandrille Picault       |      65.05 |                66 |        6 |                41 |      60.3  | William van Bost      |             49 |
-|             80 | Loïc Credoz             |      53.13 |                10 |        7 |                90 |      84.08 | Pierrick Gunther      |             80 |
-|             80 | Rory Grice              |      82.3  |                90 |        8 |                45 |      61.87 | Sias Koen             |             80 |
-|             80 | Charlie Cassang         |      66.13 |                68 |        9 |                59 |      63.61 | Jean Victor Goillot   |             49 |
-|             80 | Justin Bouraux          |      63.29 |                51 |       10 |                46 |      62.02 | Romain Uruty          |             80 |
-|             80 | Aurelien Callandret     |      75.09 |                85 |       11 |                91 |      83.55 | Nicolas Plazy         |             35 |
-|             80 | Gaby Lovobalavu         |      86.69 |                91 |       12 |                70 |      68.55 | Jarrod Poi            |             80 |
-|             59 | Florian Vialelle        |      65.46 |                57 |       13 |                38 |      61.06 | James Tofa            |             70 |
-|             80 | Darren Sweetnam         |      80.43 |                84 |       14 |                27 |      57.93 | Pierre Courtaud       |             80 |
-|             80 | Tony Ensor              |      52.48 |                 6 |       15 |                56 |      65.36 | Gabin Lorre           |             80 |
-|             39 | Teddy Durand            |      65.17 |                65 |       16 |                90 |      81.47 | Watisoni Votu         |             45 |
-|             27 | Thibault Berthaud       |      57.01 |                12 |       17 |                91 |      89.78 | Josh Valentine        |             31 |
-|             27 | Hugo Fabregue           |      72.3  |                80 |       18 |                70 |      66.47 | Jean-Baptiste Barrère |             31 |
-|             27 | Filimo Taofifenua       |      90.17 |                93 |       19 |                73 |      68.06 | Marco Pinto Ferrer    |             25 |
-|             21 | Antoine Abraham         |      61.78 |                42 |       20 |                44 |      61.05 | Jon Zabala Arrieta    |             25 |
-|             21 | Pedro Bettencourt Avila |      60.7  |                37 |       21 |                62 |      64.81 | Yassine Maamry        |             21 |
-|             13 | Victor Lebas            |      68.43 |                74 |       22 |               nan |      56.71 | Ferdinand Changel     |             19 |
-|            nan | nan                     |     nan    |               nan |       23 |                44 |      61.01 | Victor Dreuille       |             10 |
+|             59 | Tommy Raynaud           |      56.49 |                16 |        1 |                85 |      75.86 | Francisco Fernandes   |             61 |
+|             41 | Benjamin Geledan        |      88.52 |                92 |        2 |                86 |      79.31 | Clément Esteriola     |             55 |
+|             53 | Thomas Laclayat         |      67.24 |                69 |        3 |                 8 |      52.76 | Jamie Hagan           |             55 |
+|             67 | Tom Murday              |      99.73 |                96 |        4 |                60 |      64.82 | Clément Bitz          |             59 |
+|             53 | Phoenix Battye          |     109.91 |                98 |        5 |                69 |      67.61 | John Madigan          |             80 |
+|             53 | Wandrille Picault       |      69.89 |                74 |        6 |                24 |      57.35 | William van Bost      |             49 |
+|             80 | Loïc Credoz             |      53.58 |                10 |        7 |                87 |      81.88 | Pierrick Gunther      |             80 |
+|             80 | Rory Grice              |      87.14 |                91 |        8 |                35 |      59.48 | Sias Koen             |             80 |
+|             80 | Charlie Cassang         |      71.15 |                75 |        9 |                49 |      62.38 | Jean Victor Goillot   |             49 |
+|             80 | Justin Bouraux          |      62.92 |                48 |       10 |                58 |      65.6  | Romain Uruty          |             80 |
+|             80 | Aurelien Callandret     |      71.4  |                77 |       11 |                89 |      82.82 | Nicolas Plazy         |             35 |
+|             80 | Gaby Lovobalavu         |      80.92 |                84 |       12 |                69 |      69.92 | Jarrod Poi            |             80 |
+|             59 | Florian Vialelle        |      64.05 |                49 |       13 |                36 |      60.84 | James Tofa            |             70 |
+|             80 | Darren Sweetnam         |      79.33 |                80 |       14 |                34 |      59.22 | Pierre Courtaud       |             80 |
+|             80 | Tony Ensor              |      49.7  |                 3 |       15 |                57 |      66.2  | Gabin Lorre           |             80 |
+|             39 | Teddy Durand            |      66.62 |                67 |       16 |                74 |      69.69 | Watisoni Votu         |             45 |
+|             27 | Thibault Berthaud       |      59.74 |                20 |       17 |                94 |      97.65 | Josh Valentine        |             31 |
+|             27 | Hugo Fabregue           |      79.8  |                85 |       18 |                68 |      66.69 | Jean-Baptiste Barrère |             31 |
+|             27 | Filimo Taofifenua       |      86.96 |                90 |       19 |                59 |      63.89 | Marco Pinto Ferrer    |             25 |
+|             21 | Antoine Abraham         |      57.04 |                15 |       20 |                46 |      61.74 | Jon Zabala Arrieta    |             25 |
+|             21 | Pedro Bettencourt Avila |      61.98 |                42 |       21 |                40 |      61.01 | Yassine Maamry        |             21 |
+|             13 | Victor Lebas            |      59.86 |                38 |       22 |               nan |      56.95 | Ferdinand Changel     |             19 |
+|            nan | nan                     |     nan    |               nan |       23 |                22 |      56.46 | Victor Dreuille       |             10 |
 
