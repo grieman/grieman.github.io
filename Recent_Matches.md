@@ -10,11 +10,13 @@ key: page-recents
 
 [2022-10-21 Gloucester Rugby (1159.82) at London Irish (1088.32); 22.0-21.0](reviews//2022-10-21-LondonIrish-GloucesterRugby)
 
-[2022-10-22 Saracens (1122.95) at Exeter Chiefs (1210.76); 22.0-20.0](reviews//2022-10-22-ExeterChiefs-Saracens)
-
 [2022-10-22 Northampton Saints (1128.51) at Bath Rugby (1099.47); 14.0-27.0](reviews//2022-10-22-BathRugby-NorthamptonSaints)
 
+[2022-10-22 Saracens (1122.95) at Exeter Chiefs (1210.76); 22.0-20.0](reviews//2022-10-22-ExeterChiefs-Saracens)
+
 [2022-10-23 Harlequins (1140.51) at Sale Sharks (1186.09); 29.0-13.0](reviews//2022-10-23-SaleSharks-Harlequins)
+
+[2022-10-28 Exeter Chiefs (1130.39) at Gloucester Rugby (1142.03); 22.0-38.0](reviews//2022-10-28-GloucesterRugby-ExeterChiefs)
 ## Pro D2 2022
 
 
@@ -33,6 +35,8 @@ key: page-recents
 [2022-10-21 Massy (875.12) at Vannes (1039.0); 3-36](reviews//2022-10-21-Vannes-Massy)
 
 [2022-10-21 Colomiers (1004.15) at Biarritz Olympique (962.86); 31-48](reviews//2022-10-21-BiarritzOlympique-Colomiers)
+
+[2022-10-27 Nevers (985.8) at Grenoble (949.3); 18-19](reviews//2022-10-27-Grenoble-Nevers)
 ## RFU Championship 2022
 
 
@@ -52,13 +56,13 @@ key: page-recents
 
 [2022-10-22 Montpellier Herault (1094.05) at Racing 92 (1136.71); 31-38](reviews//2022-10-22-Racing92-MontpellierHerault)
 
-[2022-10-22 Pau (1104.61) at Lyon (1103.14); 27-31](reviews//2022-10-22-Lyon-Pau)
-
-[2022-10-22 Perpignan (1087.43) at Bayonne (1104.63); 20-24](reviews//2022-10-22-Bayonne-Perpignan)
-
 [2022-10-22 Brive (962.88) at Stade Francais Paris (1124.72); 0-27](reviews//2022-10-22-StadeFrancaisParis-Brive)
 
 [2022-10-22 Castres Olympique (1060.72) at Toulon (1210.64); 20-28](reviews//2022-10-22-Toulon-CastresOlympique)
+
+[2022-10-22 Perpignan (1087.43) at Bayonne (1104.63); 20-24](reviews//2022-10-22-Bayonne-Perpignan)
+
+[2022-10-22 Pau (1104.61) at Lyon (1103.14); 27-31](reviews//2022-10-22-Lyon-Pau)
 
 [2022-10-22 Bordeaux Begles (1123.81) at Clermont Auvergne (1164.84); 23-23](reviews//2022-10-22-ClermontAuvergne-BordeauxBegles)
 
