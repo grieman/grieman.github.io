@@ -4,10 +4,10 @@ title: Provence Rugby at Beziers
 date: 2022-11-04 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Provence Rugby (~994.62) at Beziers (~992.01)
+# Provence Rugby (~986.12) at Beziers (~993.14)
 
-# Prediction: Beziers by 4.7
+# Prediction: Beziers by 5.7
 
 
-Beziers by 0.3 on a neutral pitch
+Beziers by 0.7 on a neutral pitch
 
