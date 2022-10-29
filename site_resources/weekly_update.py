@@ -355,7 +355,7 @@ fut_matches_df = pd.concat((pd.read_csv(f, sep="|") for f in all_fut_matches))
 fut_matches_df = fut_matches_df.drop(["Unnamed: 0"], axis=1)
 fut_matches_df.Date = pd.to_datetime(fut_matches_df.Date)
 fut_matches_df = fut_matches_df[fut_matches_df.Date <= datetime.datetime.now() + datetime.timedelta(days=7)]
-fut_matches_df = fut_matches_df[fut_matches_df.Date >= datetime.datetime.now()]
+fut_matches_df = fut_matches_df[fut_matches_df.Date >= datetime.datetime.now() - datetime.timedelta(days=1)]
 
 league_parts = fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"].str.split('_').str[0]
 year_parts = fut_matches_df.loc[fut_matches_df.Competition.str.contains('_'), "Competition"].str.split('_').str[1]
