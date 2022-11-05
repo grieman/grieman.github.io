@@ -4,12 +4,12 @@ title: Stade Francais Paris at Montpellier Herault; 19-23
 date: 2022-10-29 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Stade Francais Paris (1533.76) at Montpellier Herault (1481.78); 19-23
+# Stade Francais Paris (1568.43) at Montpellier Herault (1481.9); 19-23
 
-# Prediction: Stade Francais Paris by 0.2
+# Prediction: Stade Francais Paris by 1.7
 
 
-Stade Francais Paris by 5.2 on a neutral field
+Stade Francais Paris by 8.7 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Stade Francais Paris by 5.2 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-29-MontpellierHerault-StadeFrancaisParis.png)
-# Pre-Match Prediction: Stade Francais Paris by 1.6
+# Pre-Match Prediction: Stade Francais Paris by 2.0
 
 
-Stade Francais Paris by 6.6 on a neutral pitch
+Stade Francais Paris by 9.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             44 | Moses Alo-Emile         |      99.63 |                71 |        1 |                92 |     108.15 | Enzo Forletta            |             57 |
-|             41 | Laurent Panis           |      90.09 |                13 |        2 |                47 |      94.86 | Vincent Giudicelli       |             48 |
-|             49 | Nemo Roelofse           |      98.79 |                66 |        3 |                 9 |      86.61 | Titi Lamositele          |             48 |
-|             80 | Paul Gabrillagues       |      97.85 |                64 |        4 |                86 |     107.02 | Yacouba Camara           |             80 |
-|             49 | Baptiste Pesenti        |      92.25 |                31 |        5 |                85 |     105.15 | Bastien Chalureau        |             48 |
-|             58 | Mathieu Hirigoyen       |      85.41 |                 5 |        6 |                14 |      88.51 | Romain Macurdy           |             29 |
-|             80 | Romain Briatte          |      91.1  |                22 |        7 |                11 |      86.61 | Alexandre Becognee       |             80 |
-|             80 | Giovanni Habel-Kueffner |     120.14 |                94 |        8 |                63 |      98.6  | Zach Mercer              |             80 |
-|             50 | Morgan Parra            |      92.92 |                32 |        9 |                86 |     106.43 | Cobus Reinach            |             63 |
-|             50 | Nicolas Sanchez         |     118.69 |                93 |       10 |                73 |     101.26 | Louis Carbonel           |             80 |
-|             63 | Stéphane Ahmed          |     110.78 |                89 |       11 |                94 |     115.9  | Vincent Rattez           |             65 |
-|             80 | Alex Arrate             |      91.57 |                24 |       12 |                65 |      99.38 | Paolo Garbisi            |             80 |
-|             80 | Jeremy Ward             |     104.08 |                78 |       13 |                 5 |      82.9  | Thomas Darmon            |             80 |
-|             80 | Harry Glover            |     120.97 |                97 |       14 |                11 |      87.21 | Gabriel Ngandebe         |             80 |
-|             80 | Kylan Hamdaoui          |     110.11 |                89 |       15 |                90 |     110.82 | Anthony Bouthier         |             80 |
-|             39 | Lucas Peyresblanques    |     101.12 |                72 |       16 |                80 |     104.18 | Marco Tauleigne          |             51 |
-|             36 | Vasil Kakovin           |      93.97 |                39 |       17 |                15 |      85.92 | Tyler Duguid             |             32 |
-|             31 | Giorgi Melikidze        |     101.1  |                74 |       18 |                67 |      98.92 | Henry Thomas             |             32 |
-|             31 | JJ van der Mescht       |     102.73 |                80 |       19 |                77 |     100.98 | Brandon Paenga-Amosa     |             32 |
-|             30 | James Hall              |     111    |                89 |       20 |                64 |      98.34 | Simon-Pierre Chauvac     |             23 |
-|             30 | Joris Segonds           |     119.69 |                94 |       21 |                26 |      91.83 | Louis Foursans-Bourdette |             17 |
-|             22 | Ryan Chapuis            |      80.45 |                 2 |       22 |                86 |     108.47 | Ben Lam                  |             15 |
-|             17 | Sione Tui               |      91.02 |                19 |       23 |               nan |     nan    | nan                      |            nan |
+|             44 | Moses Alo-Emile         |     100.68 |                72 |        1 |                67 |      99.69 | Enzo Forletta            |             57 |
+|             41 | Laurent Panis           |      82.33 |                 4 |        2 |                75 |     101.47 | Vincent Giudicelli       |             48 |
+|             49 | Nemo Roelofse           |     104.5  |                82 |        3 |                10 |      84.98 | Titi Lamositele          |             48 |
+|             80 | Paul Gabrillagues       |     102.19 |                75 |        4 |                90 |     111.73 | Yacouba Camara           |             80 |
+|             49 | Baptiste Pesenti        |      93.28 |                42 |        5 |                90 |     110.51 | Bastien Chalureau        |             48 |
+|             58 | Mathieu Hirigoyen       |      79.88 |                 3 |        6 |                17 |      87.07 | Romain Macurdy           |             29 |
+|             80 | Romain Briatte          |      93.26 |                41 |        7 |                16 |      85.76 | Alexandre Becognee       |             80 |
+|             80 | Giovanni Habel-Kueffner |     133.54 |                97 |        8 |                58 |      98.69 | Zach Mercer              |             80 |
+|             50 | Morgan Parra            |      88.53 |                19 |        9 |                83 |     106.27 | Cobus Reinach            |             63 |
+|             50 | Nicolas Sanchez         |     127.34 |                97 |       10 |                58 |      98.1  | Louis Carbonel           |             80 |
+|             63 | Stéphane Ahmed          |     119.63 |                95 |       11 |                94 |     118.87 | Vincent Rattez           |             65 |
+|             80 | Alex Arrate             |      85.26 |                14 |       12 |                70 |     101.25 | Paolo Garbisi            |             80 |
+|             80 | Jeremy Ward             |     105.29 |                80 |       13 |                 7 |      81.33 | Thomas Darmon            |             80 |
+|             80 | Harry Glover            |     123.32 |                97 |       14 |                49 |      95.19 | Gabriel Ngandebe         |             80 |
+|             80 | Kylan Hamdaoui          |     113.54 |                91 |       15 |                83 |     108.95 | Anthony Bouthier         |             80 |
+|             39 | Lucas Peyresblanques    |     101.05 |                65 |       16 |                55 |      97.99 | Marco Tauleigne          |             51 |
+|             36 | Vasil Kakovin           |      95.38 |                49 |       17 |                16 |      84.58 | Tyler Duguid             |             32 |
+|             31 | Giorgi Melikidze        |     105.28 |                82 |       18 |                24 |      90.01 | Henry Thomas             |             32 |
+|             31 | JJ van der Mescht       |     106.5  |                85 |       19 |                71 |     100.5  | Brandon Paenga-Amosa     |             32 |
+|             30 | James Hall              |     120.2  |                95 |       20 |                61 |      98.28 | Simon-Pierre Chauvac     |             23 |
+|             30 | Joris Segonds           |     123.77 |                95 |       21 |                18 |      87.9  | Louis Foursans-Bourdette |             17 |
+|             22 | Ryan Chapuis            |      78.1  |                 4 |       22 |                86 |     108.9  | Ben Lam                  |             15 |
+|             17 | Sione Tui               |      89.75 |                22 |       23 |               nan |     nan    | nan                      |            nan |
 

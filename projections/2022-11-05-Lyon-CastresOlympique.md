@@ -4,10 +4,10 @@ title: Castres Olympique at Lyon
 date: 2022-11-05 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Castres Olympique (~1518.19) at Lyon (~1492.57)
+# Castres Olympique (~1524.4) at Lyon (~1506.37)
 
-# Prediction: Lyon by 2.4
+# Prediction: Lyon by 5.2
 
 
-Lyon by 2.6 on a neutral pitch
+Castres Olympique by 1.8 on a neutral pitch
 

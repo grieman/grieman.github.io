@@ -26,9 +26,9 @@ import seaborn as sns
 from plot_functions import *
 
 
-## Need to ge the current home advantage? as 5 as of 8/5
+## Need to ge the current home advantage? as 5 as of 8/5, 7 as of 11/5
 # this should not be hard coded
-home_advantage = 5
+home_advantage = 7
 
 
 def elo_contribition(player_df, column):
@@ -55,6 +55,10 @@ for f in files:
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
 team_colors = team_colors.rename_axis('Team').reset_index()
+# Replace empty colors with something GARISH to finish color map
+team_colors['Primary'] = team_colors['Primary'].replace('','#EE3A8C')
+team_colors['Secondary'] = team_colors['Secondary'].replace('','#8B4513')
+
 
 from plotly.validators.scatter.marker import SymbolValidator
 raw_symbols = SymbolValidator().values
@@ -403,7 +407,7 @@ for _, row in fut_matches_df.iterrows():
         pred_text = f'{favorite} by {round(abs(imputed_spread + home_advantage), 1)}'
 
         n_favorite = row["Home Team"] if imputed_spread > 0 else row["Away Team"]
-        n_pred_text = f'{favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
+        n_pred_text = f'{n_favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
 
         fut_match_md.new_header(level = 1, title = main_header)
         fut_match_md.new_header(level = 1, title = f'Prediction: {pred_text}')

@@ -4,12 +4,12 @@ title: Bristol Rugby at Northampton Saints; 31-45
 date: 2022-10-29 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bristol Rugby (1474.0) at Northampton Saints (1524.48); 31-45
+# Bristol Rugby (1469.54) at Northampton Saints (1535.63); 31-45
 
-# Prediction: Northampton Saints by 10.0
+# Prediction: Northampton Saints by 13.6
 
 
-Northampton Saints by 5.0 on a neutral field
+Northampton Saints by 6.6 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Northampton Saints by 5.0 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-29-NorthamptonSaints-BristolRugby.png)
-# Pre-Match Prediction: Northampton Saints by 7.0
+# Pre-Match Prediction: Northampton Saints by 10.4
 
 
-Northampton Saints by 2.0 on a neutral pitch
+Northampton Saints by 3.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             48 | Jake Woolmore   |     106.68 |                91 |        1 |                66 |      97.61 | Emmanuel Iyogun      |             52 |
-|             71 | Harry Thacker   |     107    |                90 |        2 |                98 |     117.88 | Mike Haywood         |             58 |
-|             63 | Max Lahiff      |      85.25 |                 9 |        3 |                77 |     101.42 | Paul Hill            |             58 |
-|             81 | Joe Batley      |      88.05 |                17 |        4 |                59 |      97.08 | Lukhan Salakaia-Loto |             72 |
-|             22 | Joe Joyce       |     102.45 |                80 |        5 |                91 |     110.64 | Alex Moon            |             81 |
-|             81 | Magnus Bradbury |      96.66 |                52 |        6 |                91 |     113.04 | Sam Graham           |             81 |
-|             46 | Samuel Lewis    |      98.29 |               nan |        7 |                50 |      95.6  | Aaron Hinkley        |             81 |
-|             81 | Fitz Harding    |      98.13 |                59 |        8 |                44 |      95.17 | Juarno Augustus      |             36 |
-|             81 | Andy Uren       |      84.12 |                 4 |        9 |                89 |     108.01 | Alex Mitchell        |             68 |
-|             60 | Callum Sheedy   |     111.72 |                90 |       10 |                38 |      93.77 | Fin Smith            |             56 |
-|             46 | Henry Purdy     |     112.27 |                91 |       11 |                74 |     101.12 | Ollie Sleightholme   |             81 |
-|             81 | Sam Bedlow      |     100.95 |                70 |       12 |                73 |     102.1  | Rory Hutchinson      |             81 |
-|             81 | Piers O'Conor   |      82.57 |                 4 |       13 |                20 |      90.76 | Fraser Dingwall      |             60 |
-|             81 | Luke Morahan    |     127.78 |                99 |       14 |                75 |     102.59 | Matt Proctor         |             81 |
-|             22 | Charles Piutau  |     111.91 |                91 |       15 |                61 |      98.27 | George Hendy         |             81 |
-|             10 | Will Capon      |      85.91 |                 6 |       16 |                32 |      92.75 | Sam Matavesi         |             23 |
-|             33 | Yann Thomas     |     102.77 |                81 |       17 |                86 |     103.39 | Ethan Waller         |             29 |
-|             18 | Jay Tyack       |      97.28 |                58 |       18 |                 6 |      83.99 | Alfie Petch          |             23 |
-|             59 | Chris Vui       |      99.79 |                70 |       19 |                60 |      97.39 | Brandon Nansen       |              9 |
-|             35 | Jake Heenan     |      86.96 |                11 |       20 |                62 |      97.68 | Angus Scott-Young    |             45 |
-|             35 | Will Porter     |      86.24 |                10 |       21 |               nan |     100.62 | Tom James            |             13 |
-|             21 | AJ MacGinty     |     106.07 |                83 |       22 |                66 |      99    | James Grayson        |             25 |
-|             59 | Jack Bates      |      86.16 |                11 |       23 |                97 |     119.91 | Tom Collins          |             21 |
+|             48 | Jake Woolmore   |     107.97 |                90 |        1 |                75 |     100.64 | Emmanuel Iyogun      |             52 |
+|             71 | Harry Thacker   |     105.27 |                85 |        2 |                98 |     126.41 | Mike Haywood         |             58 |
+|             63 | Max Lahiff      |      84.29 |                12 |        3 |                78 |     103.28 | Paul Hill            |             58 |
+|             81 | Joe Batley      |      91.05 |                31 |        4 |                36 |      91.98 | Lukhan Salakaia-Loto |             72 |
+|             22 | Joe Joyce       |     106.82 |                86 |        5 |                91 |     110.41 | Alex Moon            |             81 |
+|             81 | Magnus Bradbury |      93.59 |                39 |        6 |                94 |     120.19 | Sam Graham           |             81 |
+|             46 | Samuel Lewis    |      97.95 |               nan |        7 |                46 |      94.21 | Aaron Hinkley        |             81 |
+|             81 | Fitz Harding    |     103.46 |                75 |        8 |                47 |      95.15 | Juarno Augustus      |             36 |
+|             81 | Andy Uren       |      75.82 |                 1 |        9 |                89 |     110.42 | Alex Mitchell        |             68 |
+|             60 | Callum Sheedy   |     112.54 |                88 |       10 |                31 |      91.58 | Fin Smith            |             56 |
+|             46 | Henry Purdy     |     111.81 |                89 |       11 |                72 |     101.07 | Ollie Sleightholme   |             81 |
+|             81 | Sam Bedlow      |      98.77 |                62 |       12 |                84 |     107.03 | Rory Hutchinson      |             81 |
+|             81 | Piers O'Conor   |      75.02 |                 3 |       13 |                13 |      84.42 | Fraser Dingwall      |             60 |
+|             81 | Luke Morahan    |     134.25 |                99 |       14 |                54 |      97.04 | Matt Proctor         |             81 |
+|             22 | Charles Piutau  |     112.17 |                90 |       15 |                71 |     101    | George Hendy         |             81 |
+|             10 | Will Capon      |      86    |                12 |       16 |                70 |      99.41 | Sam Matavesi         |             23 |
+|             33 | Yann Thomas     |     100.75 |                70 |       17 |                89 |     106.32 | Ethan Waller         |             29 |
+|             18 | Jay Tyack       |      99.97 |                69 |       18 |                 9 |      82.98 | Alfie Petch          |             23 |
+|             59 | Chris Vui       |     104.17 |                80 |       19 |                86 |     106.95 | Brandon Nansen       |              9 |
+|             35 | Jake Heenan     |      80.2  |                 6 |       20 |                74 |     101.6  | Angus Scott-Young    |             45 |
+|             35 | Will Porter     |      88.4  |                23 |       21 |               nan |      94.89 | Tom James            |             13 |
+|             21 | AJ MacGinty     |     103.95 |                79 |       22 |                21 |      89.31 | James Grayson        |             25 |
+|             59 | Jack Bates      |      88.21 |                21 |       23 |                97 |     123.6  | Tom Collins          |             21 |
 

@@ -4,12 +4,12 @@ title: Vannes at Agen; 3-17
 date: 2022-10-28 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Vannes (1493.01) at Agen (1488.55); 3-17
+# Vannes (1498.1) at Agen (1529.42); 3-17
 
-# Prediction: Agen by 4.6
+# Prediction: Agen by 10.1
 
 
-Vannes by 0.4 on a neutral field
+Agen by 3.1 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Vannes by 0.4 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-28-Agen-Vannes.png)
-# Pre-Match Prediction: Vannes by 1.2
+# Pre-Match Prediction: Agen by 6.5
 
 
-Vannes by 3.8 on a neutral pitch
+Vannes by 0.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             44 | Charles-Henri Berguet  |      94.32 |                41 |        1 |                73 |     101.26 | Richard Barrington |             52 |
-|             55 | Pat Leafa              |     101.2  |                78 |        2 |                79 |     101.97 | Mike Sosene-Feagai |             52 |
-|             55 | John Afoa              |     113.39 |                96 |        3 |                46 |      96.49 | Alex Burin         |             52 |
-|             55 | Joe Edwards            |      99.87 |                72 |        4 |                48 |      94.73 | Joe Maksymiw       |             80 |
-|             44 | Mattéo Desjeux         |      97.15 |                60 |        5 |                 2 |      81.09 | Evan Olmstead      |             67 |
-|             80 | Francisco Gorrissen    |     118.79 |                96 |        6 |                77 |     102.21 | Arnaud Duputs      |             80 |
-|              4 | Gregoire Bazin         |      81.2  |                 3 |        7 |                83 |     103.73 | Antoine Erbani     |             80 |
-|             80 | Léon Boulier           |     103.84 |                79 |        8 |                74 |     102.24 | Martin Devergie    |             41 |
-|             55 | Hugo Zabalza           |      93.8  |                41 |        9 |                10 |      88.89 | Theo Idjellidaine  |             59 |
-|             80 | Maxime Lafage          |      96.71 |                56 |       10 |                 8 |      85.33 | Raphael Lagarde    |             80 |
-|             80 | Romaric Camou          |     103.09 |                78 |       11 |                91 |     112.02 | Iban Etcheverry    |             80 |
-|             80 | Andres Vilaseca Hontou |      86.67 |                11 |       12 |                81 |     105.13 | Kolinio Ramoka     |             80 |
-|             80 | Nicolas Freitas        |      99.89 |                66 |       13 |                95 |     115.67 | Harry Sloan        |             80 |
-|             80 | Nathanael Hulleu       |     100.65 |                71 |       14 |                55 |      96.65 | Tevita Railevu     |             62 |
-|             55 | Nick Abendanon         |     123.93 |                98 |       15 |                85 |     107.71 | Mathieu Lamoulie   |             80 |
-|             76 | Karl Chateau           |      79.66 |                 2 |       16 |                74 |     101.51 | Fotu Lokotui       |             39 |
-|             36 | Ximun Bessonart        |      95.71 |                46 |       17 |                18 |      90.63 | Loris Zarantonello |             28 |
-|             36 | Myles Edwards          |      82.29 |                 7 |       18 |               nan |      95.99 | Théo Sauzaret      |             28 |
-|             25 | Dan Hollinshead        |      93.82 |                35 |       19 |                30 |      93.73 | Hans Lombard-Buret |             28 |
-|             25 | Ewan Thomas Johnson    |      98.16 |                66 |       20 |                58 |      96.99 | Dorian Bellot      |             21 |
-|             25 | Louis-Marie Suta       |      95    |               nan |       21 |                 0 |      74.07 | Loris Tolot        |             18 |
-|             25 | Will Percillier        |      90.87 |                18 |       22 |                80 |     102.72 | William Demotte    |             13 |
-|             25 | Paga Tafili            |     109.71 |                93 |       23 |               nan |     nan    | nan                |            nan |
+|             44 | Charles-Henri Berguet  |      95.01 |                47 |        1 |                77 |     103.77 | Richard Barrington |             52 |
+|             55 | Pat Leafa              |     104.01 |                81 |        2 |                88 |     108.69 | Mike Sosene-Feagai |             52 |
+|             55 | John Afoa              |     108.51 |                89 |        3 |                67 |     100.79 | Alex Burin         |             52 |
+|             55 | Joe Edwards            |      92.56 |                40 |        4 |                69 |      99.64 | Joe Maksymiw       |             80 |
+|             44 | Mattéo Desjeux         |      98.1  |                62 |        5 |                 8 |      83.11 | Evan Olmstead      |             67 |
+|             80 | Francisco Gorrissen    |     126.05 |                98 |        6 |                92 |     114.62 | Arnaud Duputs      |             80 |
+|              4 | Gregoire Bazin         |      76.2  |                 3 |        7 |                54 |      96.15 | Antoine Erbani     |             80 |
+|             80 | Léon Boulier           |     110.6  |                87 |        8 |                85 |     110.09 | Martin Devergie    |             41 |
+|             55 | Hugo Zabalza           |      92.28 |                34 |        9 |                 9 |      85.66 | Theo Idjellidaine  |             59 |
+|             80 | Maxime Lafage          |      91.82 |                32 |       10 |                17 |      87.33 | Raphael Lagarde    |             80 |
+|             80 | Romaric Camou          |     115.24 |                92 |       11 |                92 |     115.81 | Iban Etcheverry    |             80 |
+|             80 | Andres Vilaseca Hontou |      91.28 |                31 |       12 |                64 |      99.25 | Kolinio Ramoka     |             80 |
+|             80 | Nicolas Freitas        |     102.07 |                73 |       13 |                93 |     116.35 | Harry Sloan        |             80 |
+|             80 | Nathanael Hulleu       |      99.49 |                63 |       14 |                68 |      99.54 | Tevita Railevu     |             62 |
+|             55 | Nick Abendanon         |     126.31 |                98 |       15 |                93 |     114.65 | Mathieu Lamoulie   |             80 |
+|             76 | Karl Chateau           |      67.42 |                 0 |       16 |                88 |     111.88 | Fotu Lokotui       |             39 |
+|             36 | Ximun Bessonart        |      85.3  |                10 |       17 |                42 |      94.14 | Loris Zarantonello |             28 |
+|             36 | Myles Edwards          |      80.41 |                 9 |       18 |                78 |     104.78 | Théo Sauzaret      |             28 |
+|             25 | Dan Hollinshead        |      90.75 |                25 |       19 |                28 |      92.65 | Hans Lombard-Buret |             28 |
+|             25 | Ewan Thomas Johnson    |      98.38 |                64 |       20 |                57 |      97.02 | Dorian Bellot      |             21 |
+|             25 | Louis-Marie Suta       |      95    |               nan |       21 |                 1 |      69.59 | Loris Tolot        |             18 |
+|             25 | Will Percillier        |      89.82 |                22 |       22 |                90 |     110.5  | William Demotte    |             13 |
+|             25 | Paga Tafili            |     115.25 |                96 |       23 |               nan |     nan    | nan                |            nan |
 

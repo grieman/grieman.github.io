@@ -4,12 +4,12 @@ title: Biarritz Olympique at Rouen; 9-12
 date: 2022-10-28 19:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Biarritz Olympique (1454.29) at Rouen (1418.11); 9-12
+# Biarritz Olympique (1480.52) at Rouen (1422.52); 9-12
 
-# Prediction: Rouen by 1.4
+# Prediction: Rouen by 1.2
 
 
-Biarritz Olympique by 3.6 on a neutral field
+Biarritz Olympique by 5.8 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Biarritz Olympique by 3.6 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-28-Rouen-BiarritzOlympique.png)
-# Pre-Match Prediction: Biarritz Olympique by 8.1
+# Pre-Match Prediction: Biarritz Olympique by 8.3
 
 
-Rouen by 3.1 on a neutral pitch
+Rouen by 1.3 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
-|---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             80 | Baptiste Erdocio    |      94.55 |                43 |        1 |                83 |     103.54 | Antoine Fournier      |             49 |
-|             64 | Thomas Sauveterre   |      95.96 |                55 |        2 |                91 |     108.93 | Mathieu Bonnot        |             54 |
-|             80 | Guy Millar          |      99.43 |                70 |        3 |                56 |      97.14 | Mohamed Boughanmi     |             48 |
-|             20 | Johnny Dyer         |      78.61 |                 4 |        4 |                 0 |      58.93 | John-Charles Astle    |             80 |
-|             80 | Josh Tyrell         |      98.55 |                68 |        5 |                56 |      96.51 | Toby Salmon           |             80 |
-|             80 | Simon Augry         |      94.44 |                44 |        6 |                46 |      94.9  | Willy N'Diaye         |             51 |
-|             80 | Thomas Hebert       |      98.2  |                63 |        7 |                 2 |      78.57 | Abdelkarim Fofana     |             51 |
-|             80 | Tornike Jalagonia   |     101.6  |                74 |        8 |                25 |      91.34 | Valentino Mapapalangi |             80 |
-|             64 | Kerman Aurrekoetxea |      88.47 |                12 |        9 |                18 |      91.29 | Joris Lezat           |             63 |
-|             71 | Baptiste Germain    |      91.61 |                24 |       10 |                23 |      91.38 | Franck Pourteau       |             80 |
-|             80 | Yohann Artru        |      94.07 |                36 |       11 |                84 |     106.91 | Benito Masilevu       |             80 |
-|             80 | Auguste Cadot       |     100.55 |                69 |       12 |                26 |      93.04 | Alex Luatua           |             80 |
-|             80 | Joe Tomane          |     112.9  |                92 |       13 |                36 |      93.86 | Opetera Peleseuma     |             54 |
-|             80 | Baptiste Fariscot   |      97.71 |                60 |       14 |                61 |      97.74 | Malcolm Bertschy      |             64 |
-|             64 | Joe Jonas           |      96.75 |                53 |       15 |                94 |     114.9  | Peter Lydon           |             80 |
-|             41 | Johan Aliouat       |     100.18 |                73 |       16 |                61 |      97.72 | Cody Thomas           |             32 |
-|             19 | Charlie Francoz     |      98.6  |                64 |       17 |                54 |      97.23 | Soulemane Camara      |             31 |
-|             16 | Clement Renaud      |      94.28 |                42 |       18 |                51 |      95.67 | Lucas Costa           |             29 |
-|             16 | Barnabe Couilloud   |      89.56 |                13 |       19 |                72 |     100.69 | Jean Leleu            |             29 |
-|             16 | Darly Domvo         |      85.65 |                 9 |       20 |                18 |      90.92 | Efitusi Ma'afu        |             26 |
-|              9 | Gilles Bosch        |      68.68 |                 0 |       21 |                15 |      88.53 | JT Jackson            |             26 |
-|            nan | nan                 |     nan    |               nan |       22 |               nan |      95    | Antoine Brissard      |             17 |
-|            nan | nan                 |     nan    |               nan |       23 |                56 |      96.96 | Paul Surano           |             16 |
+|   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
+|---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
+|             80 | Baptiste Erdocio    |      97.47 |                57 |        1 |                78 |     103.01 | Antoine Fournier   |             49 |
+|             64 | Thomas Sauveterre   |      98.36 |                65 |        2 |                91 |     110.6  | Mathieu Bonnot     |             54 |
+|             80 | Guy Millar          |     113.3  |                94 |        3 |                28 |      91.81 | Mohamed Boughanmi  |             48 |
+|             20 | Johnny Dyer         |      76.66 |                 5 |        4 |                 0 |      55.16 | John-Charles Astle |             80 |
+|             80 | Josh Tyrell         |      98.44 |                64 |        5 |                54 |      95.84 | Toby Salmon        |             80 |
+|             80 | Simon Augry         |      91.82 |                33 |        6 |                71 |     100.51 | Willy N'Diaye      |             51 |
+|             80 | Thomas Hebert       |     101.18 |                72 |        7 |                 0 |      66.32 | Abdelkarim Fofana  |             51 |
+|             80 | Tornike Jalagonia   |     102.14 |                71 |        8 |                12 |      83.28 | Tino Mapapalangi   |             80 |
+|             64 | Kerman Aurrekoetxea |      85.63 |                12 |        9 |                28 |      91.61 | Joris Lezat        |             63 |
+|             71 | Baptiste Germain    |      92.5  |                37 |       10 |                19 |      88.47 | Franck Pourteau    |             80 |
+|             80 | Yohann Artru        |      89.03 |                19 |       11 |                89 |     110.43 | Benito Masilevu    |             80 |
+|             80 | Auguste Cadot       |     103.81 |                77 |       12 |                70 |     103.34 | Alex Luatua        |             80 |
+|             80 | Joe Tomane          |     117.57 |                94 |       13 |                56 |      97.26 | Opetera Peleseuma  |             54 |
+|             80 | Baptiste Fariscot   |     101.18 |                72 |       14 |                79 |     104.51 | Malcolm Bertschy   |             64 |
+|             64 | Joe Jonas           |      99.18 |                64 |       15 |                95 |     118.04 | Peter Lydon        |             80 |
+|             41 | Johan Aliouat       |     104.18 |                80 |       16 |                73 |     101.17 | Cody Thomas        |             32 |
+|             19 | Charlie Francoz     |      99.17 |                61 |       17 |                85 |     106.9  | Soulemane Camara   |             31 |
+|             16 | Clement Renaud      |      94.81 |                45 |       18 |                52 |      95.85 | Lucas Costa        |             29 |
+|             16 | Barnabe Couilloud   |      89.45 |                19 |       19 |                55 |      96.52 | Jean Leleu         |             29 |
+|             16 | Darly Domvo         |      84.21 |                10 |       20 |                19 |      90.03 | Efitusi Ma'afu     |             26 |
+|              9 | Gilles Bosch        |      54.57 |                 0 |       21 |                16 |      86.35 | JT Jackson         |             26 |
+|            nan | nan                 |     nan    |               nan |       22 |               nan |      95    | Adrien Brissard    |             17 |
+|            nan | nan                 |     nan    |               nan |       23 |                29 |      91.16 | Paul Surano        |             16 |
 

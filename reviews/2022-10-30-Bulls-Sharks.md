@@ -4,12 +4,12 @@ title: Sharks at Bulls; 27-40
 date: 2022-10-30 00:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Sharks (1495.38) at Bulls (1546.19); 27-40
+# Sharks (1539.21) at Bulls (1557.84); 27-40
 
-# Prediction: Bulls by 10.1
+# Prediction: Bulls by 8.9
 
 
-Bulls by 5.1 on a neutral field
+Bulls by 1.9 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Bulls by 5.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-30-Bulls-Sharks.png)
-# Pre-Match Prediction: Bulls by 10.8
+# Pre-Match Prediction: Bulls by 10.2
 
 
-Bulls by 5.8 on a neutral pitch
+Bulls by 3.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             45 | Ntuthuko Mchunu       |      98.25 |                64 |        1 |                73 |     100.1  | Gerhard Steenekamp  |             49 |
-|             45 | Kerron van Vuuren     |      91.31 |                23 |        2 |                99 |     129.93 | Bismarck du Plessis |             55 |
-|             45 | Thomas du Toit        |     105.61 |                88 |        3 |                18 |      90.52 | Francois Klopper    |             49 |
-|             80 | Gerbrandt Grobler     |      91.04 |                27 |        4 |                88 |     108.96 | Walt Steenkamp      |             58 |
-|             73 | Hyron Andrews         |      99.36 |                70 |        5 |                84 |     104.68 | Ruan Nortje         |             76 |
-|             49 | Dylan Richardson      |      96.49 |                56 |        6 |                84 |     105.95 | Marcell Coetzee     |             80 |
-|             55 | Vincent Tshituka      |     107.89 |                87 |        7 |                65 |      98.53 | Marco van Staden    |             80 |
-|             80 | Phepsi Buthelezi      |     101.52 |                74 |        8 |                64 |      98.63 | WJ Steenkamp        |             80 |
-|             62 | Cameron Wright        |      98.59 |                67 |        9 |                88 |     108.12 | Zak Burger          |             55 |
-|             80 | Boeta Chamberlain     |      98.5  |                64 |       10 |                83 |     106.57 | Chris Smith         |             80 |
-|             80 | Thaakir Abrahams      |      92.67 |                31 |       11 |                87 |     109.52 | Sbu Nkosi           |             42 |
-|              9 | Ben Tapuai            |     100.25 |                68 |       12 |                97 |     120.41 | Harold Vorster      |             80 |
-|             80 | Francois Venter       |     102.48 |                75 |       13 |                23 |      91.16 | Cornal Hendricks    |             80 |
-|             80 | Werner Kok            |      97.35 |                57 |       14 |                85 |     108.2  | David Kriel         |             77 |
-|             80 | Aphelele Fassi        |     118.94 |                96 |       15 |                19 |      90.54 | Johan Goosen        |             80 |
-|             71 | Marnus Potgieter      |      99.98 |                67 |       16 |                23 |      91.52 | Stravino Jacobs     |             38 |
-|             35 | Dian Bleuler          |      92.2  |                30 |       17 |                43 |      95.63 | Dylan Smith         |             31 |
-|             35 | Daniel Viljoen Jooste |      94.43 |                51 |       18 |                69 |      99.85 | Simphiwe Matanzima  |             31 |
-|             35 | Carlu Sadie           |      84.89 |                 6 |       19 |                 8 |      87.3  | Jan Hendrik Wessels |             25 |
-|             31 | Henco Venter          |     104.96 |                83 |       20 |                80 |     103.71 | Embrose Papier      |             25 |
-|             25 | Sikhumbuzo Notshe     |     114.48 |                92 |       21 |                57 |      96.74 | Janko Swanepoel     |             22 |
-|             18 | Grant Williams        |     101.79 |                75 |       22 |                18 |      89.2  | Ruan Vermaak        |              4 |
-|              7 | Justin Johan Basson   |      95.55 |                51 |       23 |                79 |     104.47 | Wandisile Simelane  |              3 |
+|             45 | Ntuthuko Mchunu       |      98.87 |                65 |        1 |                91 |     109.12 | Gerhard Steenekamp  |             49 |
+|             45 | Kerron van Vuuren     |      89.11 |                19 |        2 |                99 |     134.46 | Bismarck du Plessis |             55 |
+|             45 | Thomas du Toit        |     106.93 |                87 |        3 |                21 |      89.05 | Francois Klopper    |             49 |
+|             80 | Gerbrandt Grobler     |      87.75 |                20 |        4 |                86 |     108.45 | Walt Steenkamp      |             58 |
+|             73 | Hyron Andrews         |     101.93 |                75 |        5 |                81 |     104.59 | Ruan Nortje         |             76 |
+|             49 | Dylan Richardson      |     100.98 |                72 |        6 |                67 |      99.06 | Marcell Coetzee     |             80 |
+|             55 | Vincent Tshituka      |     110.71 |                89 |        7 |                48 |      94.56 | Marco van Staden    |             80 |
+|             80 | Phepsi Buthelezi      |     105.65 |                80 |        8 |                56 |      97.37 | WJ Steenkamp        |             80 |
+|             62 | Cameron Wright        |      98.65 |                62 |        9 |                88 |     110.1  | Zak Burger          |             55 |
+|             80 | Boeta Chamberlain     |     103.84 |                79 |       10 |                84 |     108.88 | Chris Smith         |             80 |
+|             80 | Thaakir Abrahams      |      98.28 |                62 |       11 |                88 |     110.34 | Sbu Nkosi           |             42 |
+|              9 | Ben Tapuai            |     100.92 |                68 |       12 |                97 |     125.17 | Harold Vorster      |             80 |
+|             80 | Francois Venter       |     115.62 |                93 |       13 |                29 |      91.44 | Cornal Hendricks    |             80 |
+|             80 | Werner Kok            |     103.22 |                77 |       14 |                91 |     114.14 | David Kriel         |             77 |
+|             80 | Aphelele Fassi        |     124.15 |                97 |       15 |                46 |      94.41 | Johan Goosen        |             80 |
+|             71 | Marnus Potgieter      |     100.68 |                68 |       16 |                17 |      87.45 | Stravino Jacobs     |             38 |
+|             35 | Dian Bleuler          |      94.08 |                42 |       17 |                47 |      96.98 | Dylan Smith         |             31 |
+|             35 | Daniel Viljoen Jooste |      95.17 |                49 |       18 |                66 |     100.18 | Simphiwe Matanzima  |             31 |
+|             35 | Carlu Sadie           |      82.81 |                 5 |       19 |                 6 |      83.84 | Jan Hendrik Wessels |             25 |
+|             31 | Henco Venter          |     102.69 |                76 |       20 |                85 |     107.51 | Embrose Papier      |             25 |
+|             25 | Sikhumbuzo Notshe     |     115.2  |                91 |       21 |                45 |      93.73 | Janko Swanepoel     |             22 |
+|             18 | Grant Williams        |     106.16 |                82 |       22 |                12 |      84.66 | Ruan Vermaak        |              4 |
+|              7 | Justin Johan Basson   |      91.22 |                32 |       23 |                80 |     104.37 | Wandisile Simelane  |              3 |
 
