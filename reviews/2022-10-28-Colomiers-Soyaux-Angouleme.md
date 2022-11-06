@@ -30,14 +30,14 @@ Soyaux-Angouleme by 3.8 on a neutral pitch
 |             59 | Khatchik Vartanov    |     100.49 |                71 |        1 |                 6 |      79.56 | Thomas Dubois         |             49 |
 |             49 | Kevin Le Guen        |     100.25 |                63 |        2 |                90 |     110.23 | Thomas Larrieu        |             49 |
 |             52 | Seydou Diakité       |     101.17 |                73 |        3 |                68 |      98.83 | Marco Fepulea'i       |             55 |
-|             80 | Janse Roux           |      95.49 |                52 |        4 |                16 |      84.54 | Maxime Granouillet    |             80 |
+|             80 | Janse Roux           |      95.49 |                52 |        4 |                15 |      84.54 | Maxime Granouillet    |             80 |
 |             80 | Robin Copeland       |     109.37 |                87 |        5 |                69 |      99.52 | Alexandre Ricard      |             16 |
 |             58 | Nicolas Martins      |      96    |               nan |        6 |                 1 |      69.34 | Anthony Coletta       |             55 |
 |             80 | Germain Burgaud      |      90.58 |                28 |        7 |                54 |      96.35 | Aldric Lescure        |             80 |
 |             58 | Yassine Jarmouni     |      82.97 |                10 |        8 |                13 |      83.93 | Yann Peysson          |             55 |
 |             60 | Adrien Bau           |      81.82 |                 6 |        9 |                58 |      96.84 | Edoardo Gori          |             55 |
 |             80 | Bastien Tugaye       |      97.54 |                55 |       10 |                23 |      89.81 | Romuald Séguy         |             80 |
-|             53 | Hugo Le Gall         |      86.33 |                14 |       11 |                59 |      97.08 | Alexis Palisson       |             63 |
+|             53 | Hugo Le Gall         |      86.33 |                14 |       11 |                58 |      97.08 | Alexis Palisson       |             63 |
 |             80 | Mathis Lafon         |     107.34 |                83 |       12 |                81 |     105.95 | Johan Deysel (Jnr)    |             80 |
 |             53 | Inaki Ayarza Saporta |      90.72 |                28 |       13 |                84 |     106.89 | Fabien Perrin         |             80 |
 |             80 | Kamilieni Raivono    |     100.45 |                70 |       14 |                13 |      86    | Valentin Saurs        |             80 |

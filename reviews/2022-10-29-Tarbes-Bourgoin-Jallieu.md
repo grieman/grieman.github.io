@@ -33,7 +33,7 @@ Bourgoin-Jallieu by 1.4 on a neutral pitch
 |             58 | Robin Gascou          |      88.06 |                20 |        4 |                65 |      97.99 | Antoine Bousquet       |             58 |
 |             80 | Léandre Cotte         |      98.33 |                64 |        5 |                65 |      98.68 | Jimi Maximin           |             58 |
 |             45 | Théo Lepage           |     104.65 |                81 |        6 |                73 |     101.58 | Léo Saint-Guilhem      |             80 |
-|             80 | Kevin Chaudouard      |      99.96 |                69 |        7 |                91 |     113.13 | Aurelien Ricart        |             80 |
+|             80 | Kevin Chaudouard      |      99.96 |                70 |        7 |                91 |     113.13 | Aurelien Ricart        |             80 |
 |             45 | Lakisipone Lee        |      93.48 |                38 |        8 |                10 |      81.38 | Len Massyn             |             80 |
 |             53 | Adrien Pontarollo     |      97.28 |                56 |        9 |                89 |     114.49 | Thomas Lhusero         |             47 |
 |             80 | Romain Sola           |      90.53 |                29 |       10 |                 5 |      80.61 | Anthony Fuertes        |             80 |

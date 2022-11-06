@@ -40,7 +40,7 @@ Harlequins by 12.6 on a neutral pitch
 |             85 | Ollie Hassell-Collins      |      78.26 |                 4 |       11 |                94 |     119.32 | Josh Bassett      |             85 |
 |             83 | Benhard Janse van Rensburg |      88.54 |                21 |       12 |                86 |     108.52 | Andre Esterhuizen |             85 |
 |             65 | Luca Morisi                |     117.25 |                94 |       13 |                48 |      96.32 | Lennox Anyanwu    |             53 |
-|             85 | Ben Loader                 |      98.51 |                64 |       14 |                89 |     111.48 | Joe Marchant      |             85 |
+|             85 | Ben Loader                 |      98.51 |                64 |       14 |                88 |     111.48 | Joe Marchant      |             85 |
 |             40 | Tom Parton                 |     118.86 |                97 |       15 |                66 |      98.87 | Nick David        |             85 |
 |             26 | Agustin Creevy             |     116.97 |                96 |       16 |                32 |      91.94 | George Head       |             21 |
 |             26 | Facundo Gigena             |      90.22 |                25 |       17 |               nan |      94.33 | Fin Baxter        |              0 |

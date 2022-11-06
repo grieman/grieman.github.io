@@ -37,7 +37,7 @@ Rouen by 1.3 on a neutral pitch
 |             80 | Tornike Jalagonia   |     102.14 |                71 |        8 |                12 |      83.28 | Tino Mapapalangi   |             80 |
 |             64 | Kerman Aurrekoetxea |      85.63 |                12 |        9 |                28 |      91.61 | Joris Lezat        |             63 |
 |             71 | Baptiste Germain    |      92.5  |                37 |       10 |                19 |      88.47 | Franck Pourteau    |             80 |
-|             80 | Yohann Artru        |      89.03 |                19 |       11 |                89 |     110.43 | Benito Masilevu    |             80 |
+|             80 | Yohann Artru        |      89.03 |                19 |       11 |                88 |     110.43 | Benito Masilevu    |             80 |
 |             80 | Auguste Cadot       |     103.81 |                77 |       12 |                70 |     103.34 | Alex Luatua        |             80 |
 |             80 | Joe Tomane          |     117.57 |                94 |       13 |                56 |      97.26 | Opetera Peleseuma  |             54 |
 |             80 | Baptiste Fariscot   |     101.18 |                72 |       14 |                79 |     104.51 | Malcolm Bertschy   |             64 |

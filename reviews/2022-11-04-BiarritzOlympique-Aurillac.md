@@ -34,9 +34,9 @@ Biarritz Olympique by 11.1 on a neutral pitch
 |             60 | Jean-Baptiste Singer  |      83.29 |                13 |        5 |                58 |      97.39 | Josh Tyrell       |             80 |
 |             80 | Beka Shvangiradze     |      88.78 |                21 |        6 |                24 |      89.72 | Simon Augry       |             80 |
 |             80 | Théo Cambon           |      84.29 |                10 |        7 |                67 |      99.08 | Thomas Hebert     |             80 |
-|             60 | Latuka Maituku        |      82.17 |                13 |        8 |                62 |      98.67 | Charlie Francoz   |             60 |
+|             60 | Latuka Maituku        |      82.17 |                13 |        8 |                61 |      98.67 | Charlie Francoz   |             60 |
 |             65 | David Delarue         |      86.83 |                13 |        9 |                18 |      89.03 | Barnabe Couilloud |             80 |
-|             60 | Marc Palmier          |     101.01 |                75 |       10 |                25 |      90.64 | Baptiste Germain  |             44 |
+|             60 | Marc Palmier          |     101.01 |                75 |       10 |                26 |      90.64 | Baptiste Germain  |             44 |
 |             80 | AJ Coertzen           |      86.66 |                15 |       11 |                50 |      95.42 | Steeve Barry      |             80 |
 |             60 | Christa Powell        |      85.73 |                15 |       12 |                72 |     101.71 | Auguste Cadot     |             80 |
 |             80 | Elijah Niko           |      82.56 |                 9 |       13 |                89 |     111.45 | Tyler Morgan      |             70 |
@@ -45,7 +45,7 @@ Biarritz Olympique by 11.1 on a neutral pitch
 |             31 | Julien Royer          |      82.05 |                 7 |       16 |                 0 |      54.33 | Gilles Bosch      |             36 |
 |             31 | Giorgi Kartvelishvili |     113.18 |                94 |       17 |               nan |      95    | Temo Matiu        |             28 |
 |             28 | Luka Nioradze         |     104.24 |                82 |       18 |                80 |     103.65 | Johan Aliouat     |             20 |
-|             20 | Dylan Cretin          |     107.41 |                84 |       19 |                32 |      91.54 | Quentin Samaran   |             10 |
+|             20 | Dylan Cretin          |     107.41 |                83 |       19 |                32 |      91.54 | Quentin Samaran   |             10 |
 |             20 | Eoghan Masterson      |     100.72 |                72 |       20 |                16 |      86.93 | Yohann Artru      |             10 |
 |             20 | Lucas Vaccaro         |      94.59 |                44 |       21 |                94 |     116.52 | Joe Tomane        |             10 |
 |             20 | Antoine Aucagne       |      84.73 |                11 |       22 |                27 |      91.83 | Luka Tchelidze    |              5 |

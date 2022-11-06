@@ -38,7 +38,7 @@ Beziers by 6.6 on a neutral pitch
 |             72 | Joris Cazenave        |      74.73 |                 2 |        9 |                98 |     125.7  | Josh Valentine           |             67 |
 |             50 | Johnny McPhillips     |      89.5  |                22 |       10 |                35 |      92.12 | Romain Uruty             |             80 |
 |             80 | Nadir Bouhedjeur      |     103.07 |                77 |       11 |                17 |      87.2  | Pierre Courtaud          |             54 |
-|             80 | Louis Marrou          |     111.84 |                89 |       12 |                10 |      84.43 | Jarrod Poi               |             80 |
+|             80 | Louis Marrou          |     111.84 |                89 |       12 |                11 |      84.43 | Jarrod Poi               |             80 |
 |             41 | Hugo Navizet          |      90.56 |                32 |       13 |                70 |     101.2  | James Tofa               |             41 |
 |             80 | Léo Drouet            |     102.2  |                75 |       14 |                58 |      97.39 | Watisoni Votu            |             80 |
 |             80 | Adrien Lapegue-Lafaye |      73.13 |                 3 |       15 |                25 |      89.69 | Charly Malie             |             80 |

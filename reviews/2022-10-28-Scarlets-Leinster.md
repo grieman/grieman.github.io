@@ -30,7 +30,7 @@ Leinster by 12.7 on a neutral pitch
 |             56 | Ed Byrne       |     116.08 |                96 |        1 |                27 |      91.18 | Steffan Thomas   |             57 |
 |             56 | John McKee     |      94.12 |               nan |        2 |                26 |      87.76 | Dafydd Hughes    |             56 |
 |             56 | Tom Clarkson   |      94.67 |               nan |        3 |                22 |      89.56 | Harri O'Connor   |             57 |
-|             80 | Ross Molony    |     115.44 |                94 |        4 |                56 |      96.59 | Jac Price        |             80 |
+|             80 | Ross Molony    |     115.44 |                94 |        4 |                55 |      96.59 | Jac Price        |             80 |
 |             56 | Jason Jenkins  |      90.29 |                27 |        5 |                 2 |      71.02 | Tom Price        |             64 |
 |             80 | Rhys Ruddock   |     127.42 |                96 |        6 |                80 |     104.03 | Aaron Shingler   |             59 |
 |             80 | Scott Penny    |      98.48 |                65 |        7 |                56 |      96.84 | Daniel Thomas    |             80 |
@@ -39,7 +39,7 @@ Leinster by 12.7 on a neutral pitch
 |             71 | Ross Byrne     |     103.49 |                78 |       10 |                80 |     105.08 | Dan Jones        |             69 |
 |             70 | Dave Kearney   |     110.11 |                88 |       11 |                44 |      94.17 | Ryan Conbeer     |             80 |
 |             61 | Charlie Ngatai |     107.97 |                85 |       12 |                88 |     110.88 | Jonathan Davies  |             80 |
-|             80 | Liam Turner    |     100.44 |                71 |       13 |                83 |     106.55 | Steffan Evans    |             80 |
+|             80 | Liam Turner    |     100.44 |                70 |       13 |                83 |     106.55 | Steffan Evans    |             80 |
 |             80 | Rob Russell    |      89.63 |                28 |       14 |                24 |      89.84 | Tom Rogers       |             74 |
 |             80 | Chris Cosgrave |      95    |               nan |       15 |                91 |     114.03 | Johnny McNicholl |             80 |
 |             25 | Nick McCarthy  |      93.79 |                51 |       16 |               nan |      94.32 | Kemsley Mathias  |             23 |

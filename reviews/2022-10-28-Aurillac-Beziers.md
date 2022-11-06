@@ -37,10 +37,10 @@ Aurillac by 0.0 on a neutral pitch
 |             51 | Sias Koen                   |      87.05 |                17 |        8 |                86 |     108.16 | Dylan Cretin          |             46 |
 |             63 | Mitchell Short              |      95.97 |               nan |        9 |                21 |      89.45 | David Delarue         |             80 |
 |             65 | Adrien Latorre              |     109.95 |                85 |       10 |                17 |      86.43 | Antoine Aucagne       |             52 |
-|             80 | Raffaele Storti             |      92.46 |                35 |       11 |                22 |      89.28 | AJ Coertzen           |             80 |
+|             80 | Raffaele Storti             |      92.46 |                35 |       11 |                21 |      89.28 | AJ Coertzen           |             80 |
 |             80 | James Tofa                  |      98.59 |                61 |       12 |                20 |      88.35 | Christa Powell        |             80 |
 |             51 | Paul Recor                  |      95.7  |                48 |       13 |                14 |      85.18 | Elijah Niko           |             80 |
-|             80 | Watisoni Votu               |      96.08 |                54 |       14 |                43 |      93.65 | Giorgi Gogoladze      |             80 |
+|             80 | Watisoni Votu               |      96.08 |                54 |       14 |                44 |      93.65 | Giorgi Gogoladze      |             80 |
 |             80 | Charly Malie                |      88.38 |                23 |       15 |                 7 |      80.26 | Anderson Neisen       |             80 |
 |             29 | Maxence Lemardelet          |      84.5  |                14 |       16 |               nan |      92.92 | Henzo Kiteau          |             46 |
 |             29 | Jarrod Poi                  |      83.48 |                11 |       17 |                53 |      96.3  | Georgi Javakhia       |             39 |

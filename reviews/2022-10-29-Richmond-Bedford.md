@@ -39,7 +39,7 @@ Bedford by 8.0 on a neutral pitch
 |             61 | William Maisey       |     102.49 |                76 |       10 |                23 |      89.74 | Bill Johnston      |             80 |
 |             80 | Dean Adamson         |      85.7  |                13 |       11 |                45 |      94.33 | Hamish Graham      |             80 |
 |             80 | Joel Matavesi        |      97.26 |                55 |       12 |                18 |      87.63 | Paul Kiernan       |             59 |
-|             80 | Michael Le Bourgeois |      95.02 |                49 |       13 |                45 |      94.15 | James Little       |             80 |
+|             80 | Michael Le Bourgeois |      95.02 |                48 |       13 |                45 |      94.15 | James Little       |             80 |
 |             80 | Patrick Tapley       |      99.09 |                71 |       14 |                 7 |      81    | Alexander O'Meara  |             80 |
 |             51 | Sean French          |      87.76 |                18 |       15 |                 8 |      81.15 | Ted Landray        |             56 |
 |             29 | Tom Lockett          |      94.59 |               nan |       16 |                15 |      87.8  | Alex Post          |             34 |

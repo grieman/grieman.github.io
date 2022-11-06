@@ -43,7 +43,7 @@ Sale Sharks by 5.1 on a neutral pitch
 |             69 | Arron Reed         |     114.03 |                90 |       14 |                18 |      87.89 | Alex Lewington     |             82 |
 |             82 | Joe Carpenter      |      92.23 |                37 |       15 |                96 |     120.67 | Alex Goode         |             82 |
 |             25 | Ewan Ashman        |      93.99 |                46 |       16 |                19 |      88.83 | Ethan Lewis        |             13 |
-|             26 | Ross Harrison      |     121.91 |                97 |       17 |               nan |      83.12 | James Flynn        |             13 |
+|             26 | Ross Harrison      |     121.91 |                98 |       17 |               nan |      83.12 | James Flynn        |             13 |
 |             25 | James Harper       |      98.31 |               nan |       18 |                60 |      98.1  | Marco Riccioni     |             35 |
 |             49 | Matt Postlethwaite |      89.89 |                26 |       19 |                 9 |      80.85 | Andrew Kitchener   |              3 |
 |             22 | Sam Dugdale        |      94.85 |                46 |       20 |                28 |      90.57 | Toby Knight        |              3 |

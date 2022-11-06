@@ -46,7 +46,7 @@ Oyonnax by 17.3 on a neutral pitch
 |             34 | Lucas Malbert        |      95    |               nan |       17 |               nan |      94.74 | Leo Treilles        |             30 |
 |             33 | Kevin Milhorat       |      93.19 |                42 |       18 |                51 |      95.2  | Teddy Durand        |             30 |
 |             33 | Opetera Peleseuma    |      98.68 |                62 |       19 |                72 |     101.48 | Justin Bouraux      |             30 |
-|             28 | Antoine Fournier     |     104.3  |                81 |       20 |                93 |     119.02 | Filimo Taofifenua   |             26 |
+|             28 | Antoine Fournier     |     104.3  |                81 |       20 |                92 |     119.02 | Filimo Taofifenua   |             26 |
 |             28 | Mohamed Boughanmi    |      92.44 |                34 |       21 |                89 |     109.38 | Hugo Fabregue       |             20 |
 |             19 | Joris Lezat          |      93.26 |                40 |       22 |                65 |      98.93 | Victor Delmas       |             19 |
 |             14 | Lucas Costa          |      96.61 |                53 |       23 |                48 |      94.68 | Ilan El Khattabi    |             19 |

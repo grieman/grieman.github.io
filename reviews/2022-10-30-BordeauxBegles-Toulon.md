@@ -39,11 +39,11 @@ Toulon by 8.5 on a neutral pitch
 |             80 | Ihaia West                     |     111.28 |                86 |       10 |                92 |     121.49 | Zack Holmes               |             80 |
 |             80 | Jiuta Wainiqolo                |      93.12 |                39 |       11 |                96 |     121.45 | Madosh Tambwe             |             80 |
 |             79 | Duncan Paia'aua                |      99.19 |                64 |       12 |                56 |      97.4  | Tani Vili                 |             80 |
-|             80 | Waisea Nayacalevu Vuidravuwalu |     118.56 |                94 |       13 |                37 |      93.34 | Pablo Uberti              |             59 |
+|             80 | Waisea Nayacalevu Vuidravuwalu |     118.56 |                95 |       13 |                37 |      93.34 | Pablo Uberti              |             59 |
 |             80 | Cheslin Kolbe                  |     151.2  |                99 |       14 |                55 |      96.76 | Santiago Cordero          |             80 |
 |             80 | Thomas Salles                  |     103.89 |                76 |       15 |                24 |      90.01 | Louis Bielle-Biarrey      |             80 |
 |             24 | Emerick Setiano                |     106.86 |                92 |       16 |                57 |      96.93 | Pierre Bochaton           |             47 |
-|             24 | Teddy Baubigny                 |      92.79 |                41 |       17 |                24 |      89.98 | Kane Douglas              |             39 |
+|             24 | Teddy Baubigny                 |      92.79 |                41 |       17 |                23 |      89.98 | Kane Douglas              |             39 |
 |             24 | Beka Gigashvili                |     106.99 |                87 |       18 |                95 |     112.18 | Lekso Kaulashvili         |             39 |
 |             15 | Benoit Paillaugue              |     110.16 |                88 |       19 |                96 |     117.28 | Ben Tameifuna             |             39 |
 |             15 | Mathieu Bastareaud             |     113.01 |                90 |       20 |               nan |      83.11 | Jules Gimbert             |             21 |

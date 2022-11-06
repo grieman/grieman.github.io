@@ -31,7 +31,7 @@ Stade Toulousain by 0.8 on a neutral pitch
 |             46 | Guillaume Cramont |      93.8  |                48 |        2 |                68 |      98.83 | Facundo Bosch           |             59 |
 |             59 | Dorian Aldegheri  |     108.69 |                90 |        3 |                49 |      95.38 | Pascal Cotet            |             59 |
 |             54 | Joshua Brennan    |     101.4  |                75 |        4 |                96 |     117.25 | Denis Marchois          |             52 |
-|             59 | Emmanuel Meafou   |     101.52 |                74 |        5 |                89 |     108.81 | Thomas Ceyte            |             80 |
+|             59 | Emmanuel Meafou   |     101.52 |                74 |        5 |                88 |     108.81 | Thomas Ceyte            |             80 |
 |             80 | Yannick Youyoutte |      98.76 |                64 |        6 |                12 |      85.47 | Pierre Huguet           |             80 |
 |             80 | Selevasio Tolofua |     103.55 |                76 |        7 |               nan |      90.36 | Robin Dione             |             52 |
 |             80 | Theo Ntamack      |      96.85 |               nan |        8 |                81 |     106.26 | Uzair Cassiem           |             80 |

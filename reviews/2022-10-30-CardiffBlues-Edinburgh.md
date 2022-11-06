@@ -37,7 +37,7 @@ Edinburgh by 1.8 on a neutral pitch
 |             80 | Viliame Mata      |      90.27 |                24 |        8 |                59 |      98.69 | James Ratti         |             49 |
 |             59 | Charlie Shiel     |     106.6  |                83 |        9 |                89 |     109.96 | Lloyd Williams      |             80 |
 |             80 | Charlie Savala    |      94.92 |                57 |       10 |                84 |     109.17 | Jarrod Evans        |             80 |
-|             80 | Wes Goosen        |     111.86 |                90 |       11 |                19 |      88.56 | Theo Cabango        |             80 |
+|             80 | Wes Goosen        |     111.86 |                89 |       11 |                19 |      88.56 | Theo Cabango        |             80 |
 |             74 | Chris Dean        |      84.36 |                12 |       12 |                53 |      96.73 | Max Llewellyn       |             80 |
 |             80 | Matt Currie       |     104.36 |                79 |       13 |                26 |      93.28 | Mason Grady         |             71 |
 |             80 | Jack Blain        |      95.84 |                51 |       14 |                95 |     121.02 | Jason Harries       |             80 |

@@ -31,7 +31,7 @@ Ealing Trailfinders by 25.4 on a neutral pitch
 |             50 | Harry Clayton             |      98.62 |                67 |        2 |                99 |     128.88 | Shaun Malton        |             59 |
 |             50 | Ben Betts                 |      92.22 |                23 |        3 |                52 |      96.13 | Ross Kane           |             59 |
 |             80 | Thomas Manz               |     104.16 |                80 |        4 |                97 |     127.95 | Bobby de Wee        |             80 |
-|             61 | Lewis Chessum             |      94.31 |                48 |        5 |                95 |     118.68 | Barney Maddison     |             59 |
+|             61 | Lewis Chessum             |      94.31 |                47 |        5 |                95 |     118.68 | Barney Maddison     |             59 |
 |             56 | George Cox                |     108.21 |                86 |        6 |                75 |     102.92 | Rob Farrar          |             80 |
 |             80 | Nathan Tweedy             |     105.02 |                82 |        7 |                69 |      99.97 | Carlo Tizzano       |             48 |
 |             40 | Josh Poullet              |      90.52 |                26 |        8 |                98 |     133.93 | Ryan Smid           |             61 |
@@ -45,7 +45,7 @@ Ealing Trailfinders by 25.4 on a neutral pitch
 |             40 | Scott Hall                |      75.6  |                 3 |       16 |                94 |     117.83 | Simon Uzokwe        |             32 |
 |             37 | Micheal Stronge           |      87.65 |                15 |       17 |                87 |     109.77 | Max Bodilly         |             31 |
 |             30 | Xavier Valentine          |      94.05 |               nan |       18 |                60 |      98.55 | Cameron Terry       |             21 |
-|             30 | Jack Dickinson            |     103.11 |                77 |       19 |                57 |      96.92 | David O'Connor      |             21 |
+|             30 | Jack Dickinson            |     103.11 |                78 |       19 |                57 |      96.92 | David O'Connor      |             21 |
 |             24 | Marcus Alexander Ramage   |     103.21 |                75 |       20 |                52 |      98.03 | George Davis        |             21 |
 |             24 | Emeka Remigius Ilione     |      94.15 |                45 |       21 |                89 |     111.21 | Jack Digby          |             19 |
 |             19 | Iosefa Danny Wayne Fiaola |     103.85 |                79 |       22 |                17 |      88.42 | Jack Grant          |             18 |

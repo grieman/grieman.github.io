@@ -39,13 +39,13 @@ Ulster by 4.1 on a neutral pitch
 |             80 | Billy Burns      |     118.68 |                93 |       10 |                73 |     102.89 | Jack Crowley     |             80 |
 |             80 | Ethan McIlroy    |     101.48 |                72 |       11 |                18 |      88.65 | Patrick Campbell |             61 |
 |             41 | Luke Marshall    |     116.26 |                93 |       12 |                93 |     116.56 | Rory Scannell    |             80 |
-|             80 | James Hume       |      98.89 |                63 |       13 |                88 |     110.3  | Malakai Fekitoa  |             80 |
+|             80 | James Hume       |      98.89 |                63 |       13 |                87 |     110.3  | Malakai Fekitoa  |             80 |
 |             80 | Ben Moxham       |      92.97 |                46 |       14 |                97 |     124.15 | Shane Daly       |             80 |
 |             80 | Stewart Moore    |     112.57 |                90 |       15 |                49 |      95.33 | Mike Haley       |             80 |
 |             39 | Angus Curtis     |      93.34 |                31 |       16 |                41 |      92.78 | Fineen Wycherley |             21 |
 |             37 | John Cooney      |     111.36 |                90 |       17 |               nan |      95.32 | Roman Salanoa    |             21 |
 |             40 | Rory Sutherland  |      98.19 |                69 |       18 |                82 |     104.24 | Niall Scannell   |             21 |
-|             28 | Matthew Rea      |      93.71 |                43 |       19 |                85 |     107.64 | Simon Zebo       |             19 |
+|             28 | Matthew Rea      |      93.71 |                44 |       19 |                85 |     107.64 | Simon Zebo       |             19 |
 |             27 | Cormac Izuchukwu |      96.08 |               nan |       20 |                83 |     107.14 | Neil Cronin      |             11 |
 |             21 | John Andrew      |      84.32 |                 8 |       21 |               nan |      91.88 | Cian Hurley      |             30 |
 

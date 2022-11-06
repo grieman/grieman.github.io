@@ -34,15 +34,15 @@ Stormers by 6.3 on a neutral pitch
 |             80 | Marvin Orie                      |      94.75 |                50 |        5 |                86 |     106.88 | Reinhard Nothnagel       |             80 |
 |             52 | Junior Pokomela                  |      99.86 |                72 |        6 |                 5 |      80.04 | Emmanuel Tshituka        |             80 |
 |             66 | Hacjivah Dayimani                |     117.57 |                92 |        7 |                92 |     115.37 | Ruan Venter              |             55 |
-|             80 | Evan Roos                        |      99.98 |                65 |        8 |                79 |     105.53 | Francke Horn             |             80 |
+|             80 | Evan Roos                        |      99.98 |                65 |        8 |                80 |     105.53 | Francke Horn             |             80 |
 |             58 | Albertus Paul de Wet             |      92.5  |                47 |        9 |                87 |     108.34 | Sanele Nohamba           |             55 |
 |             80 | Manie Libbok                     |     101.54 |                74 |       10 |                18 |      88.13 | Jordan Hendrikse         |             55 |
 |             80 | Leolin Zas                       |     111.48 |                89 |       11 |                82 |     105.81 | Quan Horn                |             80 |
 |             80 | Sacha Mngomezulu                 |      97.56 |                61 |       12 |                88 |     110.9  | Marius Louw              |             74 |
 |             80 | Daniel du Plessis                |     118.66 |                94 |       13 |                74 |     102.8  | Henco van Wyk            |             80 |
-|             56 | Angelo Davids                    |     110.74 |                88 |       14 |                45 |      94.48 | Edwill van der Merwe     |             80 |
+|             56 | Angelo Davids                    |     110.74 |                88 |       14 |                46 |      94.48 | Edwill van der Merwe     |             80 |
 |             80 | Clayton Blommetjies              |     107.76 |                81 |       15 |                79 |     105.64 | Andries Coetzee          |             80 |
-|             30 | Alistair Vermaak                 |     109.29 |                91 |       16 |                68 |      98.6  | Pieter Jansen van Vuuren |             30 |
+|             30 | Alistair Vermaak                 |     109.29 |                91 |       16 |                67 |      98.6  | Pieter Jansen van Vuuren |             30 |
 |             30 | JJ Kotze                         |      92.54 |                46 |       17 |                81 |     106.53 | Gianni Dean Lombard      |             25 |
 |             30 | Sazi Sandi                       |      86.89 |                11 |       18 |                47 |      94.02 | Sibusiso Sangweni        |             25 |
 |             28 | Ben-Jason Dixon                  |     103.19 |                81 |       19 |                19 |      91.24 | Morne Van den Berg       |             25 |

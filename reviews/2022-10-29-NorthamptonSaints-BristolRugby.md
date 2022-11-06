@@ -38,10 +38,10 @@ Northampton Saints by 3.4 on a neutral pitch
 |             81 | Andy Uren       |      75.82 |                 1 |        9 |                89 |     110.42 | Alex Mitchell        |             68 |
 |             60 | Callum Sheedy   |     112.54 |                88 |       10 |                31 |      91.58 | Fin Smith            |             56 |
 |             46 | Henry Purdy     |     111.81 |                89 |       11 |                72 |     101.07 | Ollie Sleightholme   |             81 |
-|             81 | Sam Bedlow      |      98.77 |                62 |       12 |                84 |     107.03 | Rory Hutchinson      |             81 |
+|             81 | Sam Bedlow      |      98.77 |                62 |       12 |                83 |     107.03 | Rory Hutchinson      |             81 |
 |             81 | Piers O'Conor   |      75.02 |                 3 |       13 |                13 |      84.42 | Fraser Dingwall      |             60 |
 |             81 | Luke Morahan    |     134.25 |                99 |       14 |                54 |      97.04 | Matt Proctor         |             81 |
-|             22 | Charles Piutau  |     112.17 |                90 |       15 |                71 |     101    | George Hendy         |             81 |
+|             22 | Charles Piutau  |     112.17 |                89 |       15 |                71 |     101    | George Hendy         |             81 |
 |             10 | Will Capon      |      86    |                12 |       16 |                70 |      99.41 | Sam Matavesi         |             23 |
 |             33 | Yann Thomas     |     100.75 |                70 |       17 |                89 |     106.32 | Ethan Waller         |             29 |
 |             18 | Jay Tyack       |      99.97 |                69 |       18 |                 9 |      82.98 | Alfie Petch          |             23 |

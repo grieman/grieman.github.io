@@ -46,7 +46,7 @@ Perpignan by 2.1 on a neutral pitch
 |             31 | Guillaume Marchand     |      82.17 |                 7 |       17 |                83 |     107.16 | Ma'afu Fia            |             31 |
 |             31 | Paulo Tafili           |      92.2  |                26 |       18 |                11 |      86.29 | Giorgi Tetrashvili    |             31 |
 |             60 | Theo William           |      94.61 |                49 |       19 |                86 |     108.89 | George Tilsley        |             31 |
-|             25 | Felix Lambey           |     118.89 |                95 |       20 |                30 |      91.39 | Lucas Velarte         |             31 |
+|             25 | Felix Lambey           |     118.89 |                95 |       20 |                29 |      91.39 | Lucas Velarte         |             31 |
 |             40 | Mickael Guillard       |      99.06 |                67 |       21 |                10 |      83.24 | Victor Moreaux        |             24 |
 |             31 | Jonathan Pelissie      |     104.68 |                81 |       22 |                91 |     113.53 | Alan Brazo            |             24 |
 |              6 | Alfred Parisien        |      92.2  |                34 |       23 |                 6 |      82.47 | Seilala Lam           |             31 |

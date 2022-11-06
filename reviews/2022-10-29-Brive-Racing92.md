@@ -33,7 +33,7 @@ Racing 92 by 8.2 on a neutral pitch
 |             80 | Boris Palu          |     103.15 |                78 |        4 |                22 |      88.61 | Julien Delannoy       |             56 |
 |             80 | Fabien Sanconnie    |      68.54 |                 1 |        5 |                88 |     108.29 | Lucas Paulos          |             68 |
 |             80 | Wenceslas Lauret    |     114.13 |                92 |        6 |                24 |      89.59 | Esteban Abadie        |             80 |
-|             53 | Baptiste Chouzenoux |      91.4  |                31 |        7 |                25 |      89.94 | Sasha Gue             |             80 |
+|             53 | Baptiste Chouzenoux |      91.4  |                32 |        7 |                25 |      89.94 | Sasha Gue             |             80 |
 |             46 | Anthime Hemery      |      97.91 |                55 |        8 |                77 |     104.63 | Abraham Papali'i      |             43 |
 |             66 | Nolann Le Garrec    |      94.37 |                46 |        9 |                47 |      94.53 | Vaso Lobzhanidze      |             80 |
 |             80 | Finn Russell        |     119.53 |                93 |       10 |                90 |     114.71 | Enzo Herve            |             55 |

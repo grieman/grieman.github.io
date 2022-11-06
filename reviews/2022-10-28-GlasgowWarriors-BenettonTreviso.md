@@ -36,7 +36,7 @@ Glasgow Warriors by 2.8 on a neutral pitch
 |             62 | Sebastian Negri       |      85.6  |                13 |        7 |                44 |      92.55 | Gregor Brown          |             80 |
 |             80 | Henry Time-Stowers    |      94.66 |                44 |        8 |                16 |      85.88 | Sione Vailanu         |             58 |
 |             50 | Dewaldt Duvenage      |     122.29 |                97 |        9 |                16 |      87.51 | Jamie Dobie           |             60 |
-|             80 | Giacomo Da Re         |      94.97 |                48 |       10 |                92 |     114.04 | Domingo Miotti        |             80 |
+|             80 | Giacomo Da Re         |      94.97 |                47 |       10 |                92 |     114.04 | Domingo Miotti        |             80 |
 |             80 | Mattia Bellini        |      75.69 |                 3 |       11 |                75 |     102.05 | Rufus McLean          |             80 |
 |             80 | Marco Zanon           |     109.25 |                86 |       12 |                73 |     102.47 | Stafford McDowall     |             73 |
 |             56 | Joaquin Riera         |      88.76 |                22 |       13 |                54 |      96.47 | Kyle Steyn            |             80 |
@@ -44,7 +44,7 @@ Glasgow Warriors by 2.8 on a neutral pitch
 |             80 | Rhyno Smith           |     101.29 |                70 |       15 |                23 |      89.77 | Josh McKay            |             80 |
 |             40 | Thomas Gallo          |      99.56 |                69 |       16 |               nan |      95    | Euan Ferrie           |             30 |
 |             35 | Manuel Arroyo         |      94.28 |               nan |       17 |               nan |      90.99 | Nathan McBeth         |             22 |
-|             30 | Alessandro Garbisi    |      95.23 |                51 |       18 |                20 |      86.03 | JP du Preez           |             22 |
+|             30 | Alessandro Garbisi    |      95.23 |                51 |       18 |                19 |      86.03 | JP du Preez           |             22 |
 |             24 | Alessandro Izekor     |      82.1  |                 8 |       19 |                65 |      97.06 | Simon Berghan         |             22 |
 |             24 | Marcus Watson         |      95.62 |                51 |       20 |                31 |      91.48 | Johnny Matthews       |             20 |
 |             18 | Braam Steyn           |      83.01 |                 8 |       21 |               nan |      86.63 | Sean Kennedy          |             20 |

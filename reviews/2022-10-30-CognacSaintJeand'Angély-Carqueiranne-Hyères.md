@@ -27,7 +27,7 @@ Carqueiranne-Hyères by 6.4 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             66 | Liam Chad Hendricks    |      88.04 |                21 |        1 |                57 |      97.59 | Giorgi Zakashvili    |             70 |
+|             66 | Liam Chad Hendricks    |      88.04 |                21 |        1 |                58 |      97.59 | Giorgi Zakashvili    |             70 |
 |             63 | Michael Tyumenev       |      77.06 |                 2 |        2 |                11 |      86.45 | Paul Sauzaret        |             50 |
 |             51 | Costel Burtila         |      94.89 |                46 |        3 |                11 |      85.48 | Giorgi Sharashidze   |             66 |
 |             57 | Lucas Cazac            |      65.77 |                 0 |        4 |                11 |      82.3  | Utu Maninoa          |             80 |
@@ -47,7 +47,7 @@ Carqueiranne-Hyères by 6.4 on a neutral pitch
 |             29 | Lasha Mchelidze        |      91.53 |                29 |       18 |               nan |      94.78 | Alico Kaikatsishvili |             14 |
 |             23 | Geoffrey Nouhaillaguet |      86.65 |                17 |       19 |                44 |      93.51 | Ratu Jone Naulunisau |             30 |
 |             14 | Sven D'Hooghe          |      85.11 |               nan |       20 |                 0 |      57.81 | Thomas Toevalu       |             10 |
-|             23 | Rémi Dubié             |      89.42 |                19 |       21 |                44 |      93.88 | Isimeli Kuruibua     |             10 |
+|             23 | Rémi Dubié             |      89.42 |                19 |       21 |                43 |      93.88 | Isimeli Kuruibua     |             10 |
 |             27 | Théo Defrance          |      94.65 |               nan |       22 |                 6 |      82.43 | Mathis Garnier       |             30 |
 |             23 | Dylan Sage             |      89.75 |                25 |       23 |                29 |      91.21 | Nils Guyon           |             10 |
 

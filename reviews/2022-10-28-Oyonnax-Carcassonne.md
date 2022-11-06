@@ -40,7 +40,7 @@ Oyonnax by 1.9 on a neutral pitch
 |             80 | Benoit Jasmin            |     123    |                96 |       11 |                87 |     109.76 | Aurelien Callandret     |             80 |
 |             80 | Nick Grigg               |      97.65 |                57 |       12 |                33 |      91.61 | Gaby Lovobalavu         |             80 |
 |             80 | Martin Dulon             |     108.12 |                85 |       13 |                24 |      89.63 | Florian Vialelle        |             51 |
-|             66 | Simon Désert             |      95    |               nan |       14 |                77 |     102.97 | Joe Ravouvou            |             68 |
+|             66 | Simon Désert             |      95    |               nan |       14 |                76 |     102.97 | Joe Ravouvou            |             68 |
 |             62 | Maxime Gianet            |     102.19 |                72 |       15 |                89 |     111.42 | Darren Sweetnam         |             80 |
 |             60 | Rob Harley               |     111.57 |                92 |       16 |                72 |     101.04 | Justin Bouraux          |             12 |
 |             45 | Vakhtangi Akhobadze      |      61.74 |                 0 |       17 |                20 |      90.25 | Manu Leiataua           |             33 |

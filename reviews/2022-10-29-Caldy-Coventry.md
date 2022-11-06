@@ -30,7 +30,7 @@ Coventry by 3.0 on a neutral pitch
 |             54 | Toby Trinder          |      97    |                55 |        1 |                54 |      96.62 | Adam Aigbokhae      |             57 |
 |             80 | Suva Ma'asi           |      97.28 |                60 |        2 |                49 |      94.5  | Oliver Hearn        |             58 |
 |             54 | Harry Seward          |     100.76 |                72 |        3 |                 1 |      70.66 | Andrew Darlington   |             48 |
-|             67 | James Tyas            |      85.51 |                16 |        4 |                75 |     102.03 | Sam Dickinson       |             80 |
+|             67 | James Tyas            |      85.51 |                15 |        4 |                75 |     102.03 | Sam Dickinson       |             80 |
 |             80 | Adam Peters           |     100.82 |                70 |        5 |                37 |      92.21 | Thomas Sanders      |             80 |
 |             57 | Thomas Dodd           |     107.92 |                86 |        6 |                67 |      99.21 | Martin Gerrard      |             66 |
 |             80 | Josh Bainbridge       |     101.43 |                73 |        7 |                36 |      92.34 | Callum Ridgway      |             48 |
@@ -43,7 +43,7 @@ Coventry by 3.0 on a neutral pitch
 |             80 | William Talbot-Davies |      88.39 |                19 |       14 |                39 |      93.19 | Nick Royle          |             40 |
 |             57 | Louis Brown           |      94.68 |                47 |       15 |                59 |      97.77 | Elliott Gourlay     |             80 |
 |             26 | Danny Southworth      |      94.67 |               nan |       16 |               nan |      95    | Louis Beer          |             40 |
-|             26 | Ollie Andrews         |      95.49 |               nan |       17 |                27 |      91.42 | Harrison Crowe      |             32 |
+|             26 | Ollie Andrews         |      95.49 |               nan |       17 |                28 |      91.42 | Harrison Crowe      |             32 |
 |             23 | Tom Ball              |      98.92 |                62 |       18 |                40 |      94.39 | Ryan Higginson      |             32 |
 |             23 | Louis James           |      87.33 |                17 |       19 |                53 |      97.66 | Anerin (Nye) Thomas |             32 |
 |             17 | Will Lane             |      95.22 |                51 |       20 |                23 |      90.33 | Rhys Hayes          |             23 |

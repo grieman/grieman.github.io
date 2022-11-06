@@ -30,7 +30,7 @@ US Bressane by 3.5 on a neutral pitch
 |             48 | Sunia Vola          |      97.04 |                39 |        1 |                27 |      91.51 | Teo Bordenave             |             41 |
 |             48 | Jemal Shatirishvili |      89.46 |                18 |        2 |                95 |     115.32 | Sione Anga'aelangi        |             41 |
 |             48 | James Johnston      |      99.35 |                67 |        3 |                88 |     107.7  | Erich de Jager            |             41 |
-|             41 | Jérôme Mondoulet    |      82.4  |                11 |        4 |                58 |      97.13 | Thomas Déliance           |             53 |
+|             41 | Jérôme Mondoulet    |      82.4  |                11 |        4 |                57 |      97.13 | Thomas Déliance           |             53 |
 |             48 | Martin Freytes      |      93.31 |                24 |        5 |                54 |      96.19 | Koen Bloemen              |             80 |
 |             80 | Nicolas Tachat      |      98.03 |                62 |        6 |                39 |      92.73 | Adrien Buatier            |             59 |
 |             80 | Arthur Vignolles    |     101.91 |                67 |        7 |                74 |     101.82 | Lucas Lyons               |             80 |
@@ -46,7 +46,7 @@ US Bressane by 3.5 on a neutral pitch
 |             32 | Badri Alkhazashvili |      88.12 |                16 |       17 |                17 |      88.5  | Clement Jullien           |             39 |
 |             32 | Jeronimo Negrotto   |      88.95 |                20 |       18 |                22 |      89.56 | Willem Johannes Harmse    |             39 |
 |             39 | Thibaud Rey         |      99.07 |                67 |       19 |                58 |      97.34 | Wael May                  |             27 |
-|             32 | Marvin Woki         |     104.72 |                82 |       20 |                 3 |      74.28 | TJ Ioane                  |             21 |
+|             32 | Marvin Woki         |     104.72 |                81 |       20 |                 3 |      74.28 | TJ Ioane                  |             21 |
 |             32 | Paul Farret         |      92.27 |                36 |       21 |               nan |      96.4  | Romain Falcoz             |             12 |
 |             21 | Luca Cutayar        |      91.4  |                25 |       22 |                43 |      93.89 | Jeremy Valencot           |             28 |
 |             39 | Alban Conduche      |      81.9  |                 8 |       23 |                 2 |      71.02 | Benjamin Doy              |              9 |

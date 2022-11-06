@@ -33,7 +33,7 @@ Stade Francais Paris by 9.0 on a neutral pitch
 |             80 | Paul Gabrillagues       |     102.19 |                75 |        4 |                90 |     111.73 | Yacouba Camara           |             80 |
 |             49 | Baptiste Pesenti        |      93.28 |                42 |        5 |                90 |     110.51 | Bastien Chalureau        |             48 |
 |             58 | Mathieu Hirigoyen       |      79.88 |                 3 |        6 |                17 |      87.07 | Romain Macurdy           |             29 |
-|             80 | Romain Briatte          |      93.26 |                41 |        7 |                16 |      85.76 | Alexandre Becognee       |             80 |
+|             80 | Romain Briatte          |      93.26 |                42 |        7 |                16 |      85.76 | Alexandre Becognee       |             80 |
 |             80 | Giovanni Habel-Kueffner |     133.54 |                97 |        8 |                58 |      98.69 | Zach Mercer              |             80 |
 |             50 | Morgan Parra            |      88.53 |                19 |        9 |                83 |     106.27 | Cobus Reinach            |             63 |
 |             50 | Nicolas Sanchez         |     127.34 |                97 |       10 |                58 |      98.1  | Louis Carbonel           |             80 |

@@ -29,7 +29,7 @@ Dragons by 11.2 on a neutral pitch
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
 |             47 | Juan Manuel Pitinari   |      94.12 |                42 |        1 |                42 |      94.47 | Aki Seiuli        |             66 |
 |             47 | Jacques du Toit        |      87.76 |                18 |        2 |                71 |      99.89 | Elliot Dee        |             70 |
-|             55 | Matteo Nocera          |      96.84 |                55 |        3 |                13 |      86.52 | Lloyd Fairbrother |             56 |
+|             55 | Matteo Nocera          |      96.84 |                55 |        3 |                14 |      86.52 | Lloyd Fairbrother |             56 |
 |             80 | Leonard Krumov         |      71.66 |                 2 |        4 |                16 |      85.77 | Joseph Davies     |             80 |
 |             47 | Andrea Zambonin        |      87.27 |                20 |        5 |                 4 |      78.76 | Sean Lonsdale     |             80 |
 |             80 | Davide Ruggeri         |      94.19 |                41 |        6 |                78 |     103.09 | Aaron Wainwright  |             60 |

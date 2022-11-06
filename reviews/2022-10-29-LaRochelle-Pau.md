@@ -47,7 +47,7 @@ La Rochelle by 3.1 on a neutral pitch
 |             80 | ÂClovis Le Bail           |      91.14 |               nan |       18 |               nan |      95    | ÂUltan Dillane             |             80 |
 |             80 | ÂRĂ©mi Seneca             |      95    |               nan |       19 |               nan |      95    | ÂAleksandre Kuntelia       |             80 |
 |             80 | ÂSiate Tokolahi           |      91.14 |               nan |       20 |               nan |      95    | ÂRĂ©mi Picquette           |             80 |
-|             80 | ÂSacha Zegueur            |      91.14 |                30 |       21 |               nan |      95    | ÂLouis Penverne            |             80 |
+|             80 | ÂSacha Zegueur            |      91.14 |                31 |       21 |               nan |      95    | ÂLouis Penverne            |             80 |
 |             80 | ÂReece Hewat              |      95    |               nan |       22 |               nan |      93.05 | Â                          |             80 |
 |             80 | ÂClement Mondinat         |      95    |               nan |       23 |               nan |      93.05 | Â                          |             80 |
 
