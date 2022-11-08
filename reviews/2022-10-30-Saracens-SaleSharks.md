@@ -4,12 +4,12 @@ title: Sale Sharks at Saracens; 22-33
 date: 2022-10-30 11:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Sale Sharks (1577.04) at Saracens (1556.51); 22-33
+# Sale Sharks (1583.26) at Saracens (1546.52); 22-33
 
-# Prediction: Saracens by 4.9
+# Prediction: Sale Sharks by 0.7
 
 
-Sale Sharks by 2.1 on a neutral field
+Sale Sharks by 3.7 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Sale Sharks by 2.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-30-Saracens-SaleSharks.png)
-# Pre-Match Prediction: Sale Sharks by 1.9
+# Pre-Match Prediction: Sale Sharks by 3.4
 
 
-Sale Sharks by 5.1 on a neutral pitch
+Sale Sharks by 6.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             56 | Simon McIntyre     |     115.27 |                95 |        1 |                36 |      92.88 | Eroni Mawi         |             69 |
-|             57 | Tommy Taylor       |      96.74 |               nan |        2 |                64 |      99.68 | Theo Dan           |             69 |
-|             57 | Nic Schonert       |      95.17 |                48 |        3 |                67 |      99.32 | Christian Judge    |             47 |
-|             33 | Cobus Wiese        |      95.43 |                52 |        4 |                 6 |      79.4  | Callum Hunter-Hill |             79 |
-|             82 | Josh Beaumont      |     109.75 |               nan |        5 |                80 |     104.59 | Theo McFarland     |             82 |
-|             60 | Jono Ross          |     106.17 |                84 |        6 |                49 |      95.77 | Andy Christie      |             79 |
-|             79 | Ben Curry          |      94.96 |                49 |        7 |                94 |     116.86 | Ben Earl           |             82 |
-|             82 | Daniel du Preez    |     124.46 |                96 |        8 |                97 |     123.49 | Jackson Wray       |             82 |
-|             82 | Gus Warr           |      94.02 |                40 |        9 |                59 |      97.53 | Ivan van Zyl       |             79 |
-|             82 | Robert du Preez    |      85.69 |                13 |       10 |                61 |      97.98 | Manu Vunipola      |             15 |
-|             76 | Tom O'Flaherty     |     117.65 |                94 |       11 |                67 |      99.59 | Elliot Daly        |             82 |
-|             82 | Sam Hill           |     107.86 |                85 |       12 |                99 |     134.18 | Nick Tompkins      |             79 |
-|             82 | Sam James          |     129.01 |                98 |       13 |                39 |      93.17 | Alex Lozowski      |             82 |
-|             69 | Arron Reed         |     114.03 |                90 |       14 |                18 |      87.89 | Alex Lewington     |             82 |
-|             82 | Joe Carpenter      |      92.23 |                37 |       15 |                96 |     120.67 | Alex Goode         |             82 |
-|             25 | Ewan Ashman        |      93.99 |                46 |       16 |                19 |      88.83 | Ethan Lewis        |             13 |
-|             26 | Ross Harrison      |     121.91 |                98 |       17 |               nan |      83.12 | James Flynn        |             13 |
-|             25 | James Harper       |      98.31 |               nan |       18 |                60 |      98.1  | Marco Riccioni     |             35 |
-|             49 | Matt Postlethwaite |      89.89 |                26 |       19 |                 9 |      80.85 | Andrew Kitchener   |              3 |
-|             22 | Sam Dugdale        |      94.85 |                46 |       20 |                28 |      90.57 | Toby Knight        |              3 |
-|              0 | Joe Simpson        |     106.43 |               nan |       21 |               nan |      85.02 | Ruben de Haas      |              3 |
-|              3 | Tom Curtis         |      93.01 |               nan |       22 |               nan |      92.22 | Josh Hallett       |              3 |
-|             19 | Byron McGuigan     |     127.21 |                98 |       23 |                96 |     121.74 | Sean Maitland      |             67 |
+|             56 | Simon McIntyre     |     110.41 |                90 |        1 |                34 |      92.5  | Eroni Mawi         |             69 |
+|             57 | Tommy Taylor       |      97.38 |               nan |        2 |                69 |     101.49 | Theo Dan           |             69 |
+|             57 | Nic Schonert       |      93.46 |                39 |        3 |                55 |      97.18 | Christian Judge    |             47 |
+|             33 | Cobus Wiese        |     100.81 |                70 |        4 |                 2 |      71.84 | Callum Hunter-Hill |             79 |
+|             82 | Josh Beaumont      |     110.46 |               nan |        5 |                79 |     104.98 | Theo McFarland     |             82 |
+|             60 | Jono Ross          |     104.07 |                77 |        6 |                28 |      91.54 | Andy Christie      |             79 |
+|             79 | Ben Curry          |      96.52 |                53 |        7 |                92 |     115.29 | Ben Earl           |             82 |
+|             82 | Daniel du Preez    |     127.62 |                96 |        8 |                97 |     124.59 | Jackson Wray       |             82 |
+|             82 | Gus Warr           |      97.15 |                54 |        9 |                55 |      96.66 | Ivan van Zyl       |             79 |
+|             82 | Robert du Preez    |      85.4  |                13 |       10 |                71 |     101.14 | Manu Vunipola      |             15 |
+|             76 | Tom O'Flaherty     |     121.65 |                95 |       11 |                78 |     106.17 | Elliot Daly        |             82 |
+|             82 | Sam Hill           |     105.47 |                80 |       12 |                98 |     128.73 | Nick Tompkins      |             79 |
+|             82 | Sam James          |     129.22 |                98 |       13 |                38 |      92.57 | Alex Lozowski      |             82 |
+|             69 | Arron Reed         |     114.73 |                89 |       14 |                34 |      92.1  | Alex Lewington     |             82 |
+|             82 | Joe Carpenter      |      88.56 |                24 |       15 |                94 |     119.18 | Alex Goode         |             82 |
+|             25 | Ewan Ashman        |      93.62 |                44 |       16 |                13 |      86.16 | Ethan Lewis        |             13 |
+|             26 | Ross Harrison      |     122.96 |                97 |       17 |                10 |      82.32 | James Flynn        |             13 |
+|             25 | James Harper       |      99.26 |               nan |       18 |                45 |      94.5  | Marco Riccioni     |             35 |
+|             49 | Matt Postlethwaite |      95.1  |                50 |       19 |                 6 |      78.2  | Andrew Kitchener   |              3 |
+|             22 | Sam Dugdale        |      93.72 |                41 |       20 |                43 |      93.73 | Toby Knight        |              3 |
+|              0 | Joe Simpson        |     111.68 |               nan |       21 |                23 |      90.16 | Ruben de Haas      |              3 |
+|              3 | Tom Curtis         |      93.16 |               nan |       22 |               nan |      92.26 | Josh Hallett       |              3 |
+|             19 | Byron McGuigan     |     125.86 |                97 |       23 |                95 |     121.95 | Sean Maitland      |             67 |
 

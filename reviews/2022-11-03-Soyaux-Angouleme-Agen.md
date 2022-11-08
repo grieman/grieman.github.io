@@ -4,12 +4,12 @@ title: Agen at Soyaux-Angouleme; 12-16
 date: 2022-11-03 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Agen (1551.31) at Soyaux-Angouleme (1399.55); 12-16
+# Agen (1558.16) at Soyaux-Angouleme (1395.79); 12-16
 
-# Prediction: Agen by 8.2
+# Prediction: Agen by 13.2
 
 
-Agen by 15.2 on a neutral field
+Agen by 16.2 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Agen by 15.2 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-11-03-Soyaux-Angouleme-Agen.png)
-# Pre-Match Prediction: Agen by 12.1
+# Pre-Match Prediction: Agen by 17.3
 
 
-Agen by 19.1 on a neutral pitch
+Agen by 20.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             54 | Florent Guion        |      73.57 |                 2 |        1 |                55 |     100.37 | Omar Odishvili         |             68 |
-|             54 | Clement Martinez     |     112.22 |                93 |        2 |                61 |      97.51 | Kevin Le Guen          |             68 |
-|             37 | Walter Desmaison     |      96.2  |                52 |        3 |                61 |      98.27 | Seydou Diakité         |             68 |
-|             80 | Joe Maksymiw         |     101.96 |                75 |        4 |                90 |     110.74 | Sikeli Nabou           |             80 |
-|             58 | Evan Olmstead        |      84.08 |                14 |        5 |                31 |      91.03 | Janse Roux             |             74 |
-|             80 | Arnaud Duputs        |     116.94 |                94 |        6 |                 6 |      80.94 | Gautier Gibouin        |             68 |
-|             54 | Vincent Farre        |     103.19 |                78 |        7 |                14 |      86.12 | Germain Burgaud        |             80 |
-|             54 | Fotu Lokotui         |     112.44 |                88 |        8 |                 6 |      79.73 | Yassine Jarmouni       |             80 |
-|             68 | Dorian Bellot        |      97.63 |                57 |        9 |                62 |      98.21 | Manu Saubusse          |             80 |
-|             20 | Thomas Vincent       |     117.97 |                92 |       10 |                84 |     109.21 | Matthieu Ugalde        |             80 |
-|             80 | Iban Etcheverry      |     118.13 |                94 |       11 |                26 |      90.5  | Marvin Lestremau       |             80 |
-|             80 | Kolinio Ramoka       |     101.57 |                71 |       12 |                28 |      90.78 | Nasoni Naqiri Kunavore |             70 |
-|             80 | Harry Sloan          |     118.66 |                95 |       13 |                10 |      81.76 | Ledua Mau              |             80 |
-|             80 | Tevita Railevu       |     101.34 |                73 |       14 |                51 |      94.28 | Pierre Lafitte         |             80 |
-|             80 | Jean-Marcelin Buttin |     102.3  |                72 |       15 |                23 |      89    | Rémi Brosset           |             80 |
-|             60 | Danré Gerber         |     101.02 |                69 |       16 |                76 |     102.48 | Hubert Texier          |             12 |
-|             43 | Théo Sauzaret        |     105.59 |                79 |       17 |                46 |      94.03 | Patxi Bidart           |             12 |
-|             26 | Antoine Erbani       |      98.46 |                65 |       18 |                13 |      86.18 | Elias El Ansari        |             12 |
-|             26 | Hans Lombard-Buret   |      93.46 |                28 |       19 |                66 |      97.45 | Nolan Pienaar          |             12 |
-|             26 | Loris Zarantonello   |      94.95 |                42 |       20 |                49 |      95.33 | Maxime Laforgue        |             10 |
-|             26 | Martin Devergie      |     111.28 |                88 |       21 |                44 |      92.02 | Ian Kitwanga           |              6 |
-|             22 | Malik Hamadache      |      96.32 |                53 |       22 |               nan |     nan    | nan                    |            nan |
-|             12 | Theo Idjellidaine    |      87.37 |                15 |       23 |               nan |     nan    | nan                    |            nan |
+|             54 | Florent Guion        |      78.62 |                 3 |        1 |                54 |     100.33 | Omar Odishvili         |             68 |
+|             54 | Clement Martinez     |     109.68 |                89 |        2 |                70 |     100    | Kevin Le Guen          |             68 |
+|             37 | Walter Desmaison     |      98.98 |                64 |        3 |                50 |      95.73 | Seydou Diakité         |             68 |
+|             80 | Joe Maksymiw         |      89.36 |                25 |        4 |                94 |     118.28 | Sikeli Nabou           |             80 |
+|             58 | Evan Olmstead        |      91.05 |                31 |        5 |                23 |      88.69 | Janse Roux             |             74 |
+|             80 | Arnaud Duputs        |     118.38 |                95 |        6 |                 4 |      77.35 | Gautier Gibouin        |             68 |
+|             54 | Vincent Farre        |     103.07 |                75 |        7 |                13 |      85.5  | Germain Burgaud        |             80 |
+|             54 | Fotu Lokotui         |     108.72 |                83 |        8 |                10 |      81.89 | Yassine Jarmouni       |             80 |
+|             68 | Dorian Bellot        |      98.06 |                56 |        9 |                71 |     101.32 | Manu Saubusse          |             80 |
+|             20 | Thomas Vincent       |     117.93 |                91 |       10 |                76 |     104.92 | Matthieu Ugalde        |             80 |
+|             80 | Iban Etcheverry      |     124.97 |                97 |       11 |                14 |      86.24 | Marvin Lestremau       |             80 |
+|             80 | Kolinio Ramoka       |     102.97 |                74 |       12 |                43 |      93.88 | Nasoni Naqiri Kunavore |             70 |
+|             80 | Harry Sloan          |     119.29 |                95 |       13 |                16 |      84.08 | Ledua Mau              |             80 |
+|             80 | Tevita Railevu       |     100.21 |                68 |       14 |                22 |      86.68 | Pierre Lafitte         |             80 |
+|             80 | Jean-Marcelin Buttin |     103.02 |                70 |       15 |                28 |      89.78 | Rémi Brosset           |             80 |
+|             60 | Danré Gerber         |     101.73 |                68 |       16 |                68 |     100.55 | Hubert Texier          |             12 |
+|             43 | Théo Sauzaret        |     108.35 |                83 |       17 |                47 |      94.36 | Patxi Bidart           |             12 |
+|             26 | Antoine Erbani       |      99.8  |                66 |       18 |                11 |      85.18 | Elias El Ansari        |             12 |
+|             26 | Hans Lombard-Buret   |      94.21 |                33 |       19 |                65 |      97.64 | Nolan Pienaar          |             12 |
+|             26 | Loris Zarantonello   |      93.98 |                36 |       20 |                51 |      95.99 | Maxime Laforgue        |             10 |
+|             26 | Martin Devergie      |     113.55 |                88 |       21 |                38 |      91.39 | Ian Kitwanga           |              6 |
+|             22 | Malik Hamadache      |      96.87 |                54 |       22 |               nan |     nan    | nan                    |            nan |
+|             12 | Theo Idjellidaine    |      90.72 |                27 |       23 |               nan |     nan    | nan                    |            nan |
 

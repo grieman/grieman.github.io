@@ -4,12 +4,12 @@ title: Perpignan at Racing 92; 20-44
 date: 2022-11-05 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Perpignan (1427.6) at Racing 92 (1506.62); 20-44
+# Perpignan (1431.74) at Racing 92 (1506.79); 20-44
 
-# Prediction: Racing 92 by 14.9
+# Prediction: Racing 92 by 10.5
 
 
-Racing 92 by 7.9 on a neutral field
+Racing 92 by 7.5 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Racing 92 by 7.9 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-11-05-Racing92-Perpignan.png)
-# Pre-Match Prediction: Racing 92 by 13.4
+# Pre-Match Prediction: Racing 92 by 9.8
 
 
-Racing 92 by 6.4 on a neutral pitch
+Racing 92 by 6.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             40 | Giorgi Tetrashvili   |      85.99 |                11 |        1 |                16 |      87.23 | Hassane Kolingar    |             40 |
-|             54 | Victor Montgaillard  |      91.5  |                31 |        2 |                89 |     109.01 | Camille Chat        |             40 |
-|             30 | Arthur Joly          |     113.02 |                94 |        3 |                45 |      93.03 | Ali Oz              |             40 |
-|             80 | Tristan Labouteley   |      77.76 |                 6 |        4 |                79 |     103.93 | Boris Palu          |             80 |
-|             48 | Shahn Eru            |      94.13 |               nan |        5 |                 2 |      69.32 | Fabien Sanconnie    |             59 |
-|             80 | Lucas Bachelier      |     110.49 |                89 |        6 |                93 |     114.91 | Wenceslas Lauret    |             80 |
-|             67 | Alan Brazo           |     113.07 |                91 |        7 |                37 |      92.44 | Baptiste Chouzenoux |             80 |
-|             80 | Joaquin Oviedo       |     110.15 |                88 |        8 |                61 |      98.81 | Anthime Hemery      |             40 |
-|             62 | Sadek Deghmache      |      81.16 |                 5 |        9 |                52 |      95.67 | Nolann Le Garrec    |             80 |
-|             80 | Tristan Tedder       |      81.75 |                 9 |       10 |                70 |      98.54 | Antoine Gibert      |             40 |
-|             80 | Edward Sawailau      |      71.65 |                 1 |       11 |                75 |     102.06 | Christian Wade      |             80 |
-|             62 | George Tilsley       |     108.29 |                86 |       12 |                96 |     122.79 | Henry Chavancy      |             59 |
-|             80 | Mathieu Acebes       |     129.85 |                99 |       13 |                49 |      95.7  | Francis Saili       |             80 |
-|             67 | Lucas Dubois         |      98.32 |                63 |       14 |                71 |     100.17 | Louis Dupichot      |             80 |
-|             80 | Boris Goutard        |      64.05 |                 0 |       15 |                81 |     107.51 | Warrick Gelant      |             40 |
-|             50 | Siua Halanukonuka    |     101.35 |                74 |       16 |                98 |     124.82 | Eddy Ben Arous      |             40 |
-|             40 | Sacha Lotrian        |     104.05 |                80 |       17 |                46 |      94.66 | Cedate Gomes Sa     |             40 |
-|             32 | Victor Moreaux       |      82.77 |                11 |       18 |                93 |     120.32 | Finn Russell        |             40 |
-|             26 | Lucas Velarte        |      90.79 |                30 |       19 |                61 |      96.76 | Maxime Baudonne     |             40 |
-|             18 | Matteo Rodor         |      94.89 |                44 |       20 |                13 |      86.72 | Janick Tarrit       |             40 |
-|             18 | Patricio Fernandez   |      99.66 |                70 |       21 |                49 |      95.39 | Max Spring          |             40 |
-|             13 | Nino Seguela         |      98.09 |                64 |       22 |                44 |      94.53 | Olivier Klemenczak  |             21 |
-|             13 | Genesis Mamea Lemalu |     102.99 |                75 |       23 |                88 |     109.87 | Anton Bresler       |             21 |
+|             40 | Giorgi Tetrashvili   |      84.46 |                 9 |        1 |                14 |      86.68 | Hassane Kolingar    |             40 |
+|             54 | Victor Montgaillard  |      91.42 |                31 |        2 |                90 |     109.49 | Camille Chat        |             40 |
+|             30 | Arthur Joly          |     110.31 |                91 |        3 |                36 |      94.03 | Ali Oz              |             40 |
+|             80 | Tristan Labouteley   |      77.74 |                 6 |        4 |                83 |     106.93 | Boris Palu          |             80 |
+|             48 | Shahn Eru            |      84.75 |               nan |        5 |                 1 |      68.42 | Fabien Sanconnie    |             59 |
+|             80 | Lucas Bachelier      |     109.31 |                87 |        6 |                96 |     120.09 | Wenceslas Lauret    |             80 |
+|             67 | Alan Brazo           |     110.82 |                89 |        7 |                41 |      93.36 | Baptiste Chouzenoux |             80 |
+|             80 | Joaquin Oviedo       |     107.48 |                83 |        8 |                60 |      99.49 | Anthime Hemery      |             40 |
+|             62 | Sadek Deghmache      |      83.86 |                10 |        9 |                60 |      98.31 | Nolann Le Garrec    |             80 |
+|             80 | Tristan Tedder       |      83.75 |                12 |       10 |                72 |     100.43 | Antoine Gibert      |             40 |
+|             80 | Edward Sawailau      |      75.77 |                 2 |       11 |                69 |     100.7  | Christian Wade      |             80 |
+|             62 | George Tilsley       |     104.09 |                78 |       12 |                92 |     116.57 | Henry Chavancy      |             59 |
+|             80 | Mathieu Acebes       |     140.03 |                99 |       13 |                42 |      93.61 | Francis Saili       |             80 |
+|             67 | Lucas Dubois         |      94.32 |                45 |       14 |                53 |      96.09 | Louis Dupichot      |             80 |
+|             80 | Boris Goutard        |      66.03 |                 1 |       15 |                77 |     105.52 | Warrick Gelant      |             40 |
+|             50 | Siua Halanukonuka    |     103.44 |                77 |       16 |                98 |     123.3  | Eddy Ben Arous      |             40 |
+|             40 | Sacha Lotrian        |     104.28 |                79 |       17 |                20 |      88.99 | Cedate Gomes Sa     |             40 |
+|             32 | Victor Moreaux       |      85.62 |                15 |       18 |                93 |     121.17 | Finn Russell        |             40 |
+|             26 | Lucas Velarte        |      90.12 |                29 |       19 |                60 |      98.36 | Maxime Baudonne     |             40 |
+|             18 | Matteo Rodor         |      95.42 |                47 |       20 |                14 |      86.43 | Janick Tarrit       |             40 |
+|             18 | Patricio Fernandez   |     104.46 |                76 |       21 |                55 |      96.98 | Max Spring          |             40 |
+|             13 | Nino Seguela         |      97.63 |                60 |       22 |                55 |      96.96 | Olivier Klemenczak  |             21 |
+|             13 | Genesis Mamea Lemalu |     103.66 |                75 |       23 |                92 |     115.83 | Anton Bresler       |             21 |
 

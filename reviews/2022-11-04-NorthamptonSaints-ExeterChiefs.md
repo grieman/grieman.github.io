@@ -4,12 +4,12 @@ title: Exeter Chiefs at Northampton Saints; 19.0-26.0
 date: 2022-11-04 15:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Exeter Chiefs (1573.98) at Northampton Saints (1598.02); 19.0-26.0
+# Exeter Chiefs (1549.76) at Northampton Saints (1582.75); 19.0-26.0
 
-# Prediction: Northampton Saints by 9.4
+# Prediction: Northampton Saints by 6.3
 
 
-Northampton Saints by 2.4 on a neutral field
+Northampton Saints by 3.3 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Northampton Saints by 2.4 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-11-04-NorthamptonSaints-ExeterChiefs.png)
-# Pre-Match Prediction: Northampton Saints by 7.1
+# Pre-Match Prediction: Northampton Saints by 1.8
 
 
-Northampton Saints by 0.1 on a neutral pitch
+Exeter Chiefs by 1.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             53 | Scott Sio         |      96.99 |                55 |        1 |                74 |     101.54 | Emmanuel Iyogun      |             52 |
-|             40 | Jack Yeandle      |     129.46 |                99 |        2 |                98 |     127.41 | Mike Haywood         |             80 |
-|             69 | Harry Williams    |     115.58 |                96 |        3 |                47 |      94.84 | Ehren Painter        |             52 |
-|             49 | Jack Dunne        |      98.02 |                69 |        4 |                39 |      92.61 | Lukhan Salakaia-Loto |             80 |
-|             80 | Ruben van Heerden |     111.35 |                90 |        5 |                91 |     111.81 | Alex Moon            |             80 |
-|             80 | Dave Ewers        |     130.18 |                98 |        6 |                74 |     102.38 | Angus Scott-Young    |             80 |
-|             80 | Lewis Pearson     |      89.89 |                25 |        7 |                52 |      95.61 | Aaron Hinkley        |             80 |
-|             80 | Jacques Vermeulen |     104.91 |                79 |        8 |                97 |     121.6  | Sam Graham           |             80 |
-|             55 | Jack Maunder      |      90.18 |                23 |        9 |               nan |      95    | Tom James            |             46 |
-|             80 | Joe Simmonds      |     119.16 |                94 |       10 |                37 |      92.55 | Fin Smith            |             76 |
-|             41 | Olly Woodburn     |     121.02 |                96 |       11 |                75 |     102.47 | Ollie Sleightholme   |             32 |
-|             10 | Ian Whitten       |     103.23 |                76 |       12 |                85 |     107.73 | Rory Hutchinson      |             61 |
-|             80 | Rory O'Loughlin   |     103.55 |                77 |       13 |                14 |      85.46 | Fraser Dingwall      |             80 |
-|             80 | Dan John          |      90.99 |               nan |       14 |                97 |     123.69 | Courtnall Skosan     |             80 |
-|             80 | Josh Hodge        |      85.35 |                13 |       15 |                94 |     118.06 | Tommy Freeman        |             80 |
-|             40 | Jack Innard       |      92.04 |                28 |       16 |               nan |      90.1  | Robbie Smith         |              4 |
-|             27 | Alec Hepburn      |      98.36 |                64 |       17 |                99 |     126.66 | Alex Waller          |             28 |
-|             11 | Josh Iosefa-Scott |      99.99 |                71 |       18 |                80 |     103.78 | Paul Hill            |             28 |
-|             31 | Dafydd Jenkins    |     103.98 |                79 |       19 |                86 |     107.03 | Brandon Nansen       |              0 |
-|              0 | Rusiate Tuima     |      83.48 |                11 |       20 |               nan |      95    | Kayde Sylvester      |              0 |
-|             25 | Sam Maunder       |      87.43 |                14 |       21 |                90 |     111.01 | Alex Mitchell        |             34 |
-|             39 | Will Becconsall   |      95    |               nan |       22 |                94 |     117.48 | George Furbank       |             48 |
-|             70 | Sean O'Brien      |     121.2  |                94 |       23 |                60 |      97.74 | Matt Proctor         |             19 |
+|             53 | Scott Sio         |      96.72 |                53 |        1 |                74 |     102.13 | Emmanuel Iyogun      |             52 |
+|             40 | Jack Yeandle      |     126.14 |                99 |        2 |                99 |     129.89 | Mike Haywood         |             80 |
+|             69 | Harry Williams    |     115.34 |                95 |        3 |                72 |     101.44 | Ehren Painter        |             52 |
+|             49 | Jack Dunne        |      97.73 |                66 |        4 |                52 |      95.81 | Lukhan Salakaia-Loto |             80 |
+|             80 | Ruben van Heerden |     112.72 |                91 |        5 |                80 |     104.98 | Alex Moon            |             80 |
+|             80 | Dave Ewers        |     127.92 |                98 |        6 |                71 |     100.09 | Angus Scott-Young    |             80 |
+|             80 | Lewis Pearson     |      90.19 |                27 |        7 |                30 |      91.06 | Aaron Hinkley        |             80 |
+|             80 | Jacques Vermeulen |     106.17 |                79 |        8 |                97 |     125.85 | Sam Graham           |             80 |
+|             55 | Jack Maunder      |      91.5  |                31 |        9 |                 8 |      84.99 | Tom James            |             46 |
+|             80 | Joe Simmonds      |     116.2  |                92 |       10 |                25 |      90.31 | Fin Smith            |             76 |
+|             41 | Olly Woodburn     |     119.63 |                94 |       11 |                75 |     102.78 | Ollie Sleightholme   |             32 |
+|             10 | Ian Whitten       |     106.34 |                81 |       12 |                44 |      94.05 | Rory Hutchinson      |             61 |
+|             80 | Rory O'Loughlin   |     100.92 |                67 |       13 |                 8 |      81.38 | Fraser Dingwall      |             80 |
+|             80 | Dan John          |      91.28 |               nan |       14 |                96 |     123.29 | Courtnall Skosan     |             80 |
+|             80 | Josh Hodge        |      89.04 |                21 |       15 |                94 |     120.29 | Tommy Freeman        |             80 |
+|             40 | Jack Innard       |      95.02 |                44 |       16 |               nan |      79.53 | Robbie Smith         |              4 |
+|             27 | Alec Hepburn      |     100.01 |                69 |       17 |                99 |     132.7  | Alex Waller          |             28 |
+|             11 | Josh Iosefa-Scott |      99.3  |                67 |       18 |                82 |     105.66 | Paul Hill            |             28 |
+|             31 | Dafydd Jenkins    |     103.63 |                77 |       19 |                82 |     106.18 | Brandon Nansen       |              0 |
+|              0 | Rusiate Tuima     |      84.02 |                13 |       20 |               nan |      95    | Kayde Sylvester      |              0 |
+|             25 | Sam Maunder       |      87.19 |                16 |       21 |                89 |     111.34 | Alex Mitchell        |             34 |
+|             39 | Will Becconsall   |      95    |               nan |       22 |                94 |     116.69 | George Furbank       |             48 |
+|             70 | Sean O'Brien      |      94.51 |               nan |       23 |                84 |     107.59 | Matt Proctor         |             19 |
 

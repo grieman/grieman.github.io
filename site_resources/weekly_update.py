@@ -5,7 +5,7 @@ with open('secrets.yml', 'r') as file:
     secrets = yaml.safe_load(file)
 sys.path.append(secrets['elo_proj_path'])
 
-from player_club_classes import team_elo, Player, Club, Match
+from player_club_classes import team_elo, Player, Club, Match, team_elo_minutes
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -28,7 +28,7 @@ from plot_functions import *
 
 ## Need to ge the current home advantage? as 5 as of 8/5, 7 as of 11/5
 # this should not be hard coded
-home_advantage = 7
+home_advantage = 3
 
 
 def elo_contribition(player_df, column):
@@ -37,16 +37,17 @@ def elo_contribition(player_df, column):
 
 def clean_leading_space(orig_name, new_name):
     ## quick and dirty remove empty leading lines
-    TAG = 'HEADERSTART'
+    TAG = b'HEADERSTART'
     tag_found = False
-    with open(orig_name) as in_file:
-        with open(new_name, 'w') as out_file:
+    with open(orig_name, 'rb') as in_file:
+        with open(new_name, 'wb') as out_file:
             for line in in_file:
                 if not tag_found:
                     if line.strip() == TAG:
                         tag_found = True
                 else:
                     out_file.write(line)
+
 
 files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')
 for f in files:
@@ -380,8 +381,22 @@ for _, row in fut_matches_df.iterrows():
         home_club = teamlist[row['Home Team']]
         away_club = teamlist[row['Away Team']]
 
-        home_club_elos = [x['elo'] for x in home_club.history[-5:]]
-        away_club_elos = [x['elo'] for x in away_club.history[-5:]]
+        ## Use current player elos, but historic team + minutes
+        home_club_elos = [
+            team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
+            if matchlist[x['Match_Name']].home_team_name == row['Home Team'] 
+            else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
+            for x in home_club.history[-5:]
+            ]
+        away_club_elos = [
+            team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
+            if matchlist[x['Match_Name']].home_team_name == row['Away Team'] 
+            else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
+            for x in away_club.history[-5:]
+            ]
+
+        #home_club_elos = [x['elo'] for x in home_club.history[-5:]]
+        #away_club_elos = [x['elo'] for x in away_club.history[-5:]]
         historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
         home_elo_avg = sum(np.multiply(home_club_elos, historic_weighting))
         away_elo_avg = sum(np.multiply(away_club_elos, historic_weighting))

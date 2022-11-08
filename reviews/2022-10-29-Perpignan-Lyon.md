@@ -4,12 +4,12 @@ title: Lyon at Perpignan; 21-28
 date: 2022-10-29 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Lyon (1476.59) at Perpignan (1480.97); 21-28
+# Lyon (1473.97) at Perpignan (1493.54); 21-28
 
-# Prediction: Perpignan by 7.4
+# Prediction: Perpignan by 5.0
 
 
-Perpignan by 0.4 on a neutral field
+Perpignan by 2.0 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Perpignan by 0.4 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-10-29-Perpignan-Lyon.png)
-# Pre-Match Prediction: Perpignan by 9.1
+# Pre-Match Prediction: Perpignan by 5.0
 
 
-Perpignan by 2.1 on a neutral pitch
+Perpignan by 2.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             49 | Hamza Kaabeche         |      90.43 |                22 |        1 |                14 |      86.71 | Xavier Chiocci        |             49 |
-|             49 | Yanis Charcosset       |      96.41 |                55 |        2 |                10 |      85.75 | Mike Tadjer Barbosa   |             49 |
-|             49 | Feao Fotuaika          |     106.37 |                85 |        3 |                95 |     113.97 | Arthur Joly           |             49 |
-|             20 | Joel Kpoku             |      90.63 |                29 |        4 |                 3 |      79.31 | Tristan Labouteley    |             80 |
-|             80 | Temo Mayanavanua       |      95.71 |                53 |        5 |                79 |     103.44 | Piula Faasalele       |             56 |
-|             55 | Patrick Sobela         |     109.29 |                87 |        6 |                87 |     110.63 | Joaquin Oviedo        |             49 |
-|             80 | Beka Saghinadze        |     106.7  |                84 |        7 |                48 |      94.64 | Kelian Galletier      |             56 |
-|             40 | Maxime Gouzou          |      82.72 |                11 |        8 |                76 |     103.76 | Genesis Mamea Lemalu  |             80 |
-|             49 | Jean-Marc Doussain     |     116.63 |                95 |        9 |                87 |     108.25 | Tom Ecochard          |             31 |
-|             80 | Fletcher Smith         |      82.78 |                 8 |       10 |                79 |     104.19 | Jake McIntyre         |             80 |
-|             80 | Josua Tuisova Ratulevu |     136.65 |                99 |       11 |                99 |     131.4  | Mathieu Acebes        |             80 |
-|             80 | Kyle Godwin            |     108.03 |                85 |       12 |                87 |     109.45 | Jeronimo de la Fuente |             49 |
-|             74 | Josiah Maraku          |      69.78 |                 1 |       13 |                43 |      94.44 | Afusipa Taumoepeau    |             80 |
-|             80 | Xavier Mignot          |      99.07 |                66 |       14 |                69 |      99.87 | Lucas Dubois          |             80 |
-|             80 | Davit Niniashvili      |      97.27 |                57 |       15 |                11 |      83.3  | Tristan Tedder        |             80 |
-|             31 | Jerome Rey             |      59.26 |                 0 |       16 |                 6 |      82.11 | Sadek Deghmache       |             49 |
-|             31 | Guillaume Marchand     |      82.17 |                 7 |       17 |                83 |     107.16 | Ma'afu Fia            |             31 |
-|             31 | Paulo Tafili           |      92.2  |                26 |       18 |                11 |      86.29 | Giorgi Tetrashvili    |             31 |
-|             60 | Theo William           |      94.61 |                49 |       19 |                86 |     108.89 | George Tilsley        |             31 |
-|             25 | Felix Lambey           |     118.89 |                95 |       20 |                29 |      91.39 | Lucas Velarte         |             31 |
-|             40 | Mickael Guillard       |      99.06 |                67 |       21 |                10 |      83.24 | Victor Moreaux        |             24 |
-|             31 | Jonathan Pelissie      |     104.68 |                81 |       22 |                91 |     113.53 | Alan Brazo            |             24 |
-|              6 | Alfred Parisien        |      92.2  |                34 |       23 |                 6 |      82.47 | Seilala Lam           |             31 |
+|             49 | Hamza Kaabeche         |      91.48 |                25 |        1 |                 7 |      83.05 | Xavier Chiocci        |             49 |
+|             49 | Yanis Charcosset       |      96.18 |                53 |        2 |                12 |      86.49 | Mike Tadjer Barbosa   |             49 |
+|             49 | Feao Fotuaika          |     106.25 |                84 |        3 |                92 |     111.57 | Arthur Joly           |             49 |
+|             20 | Joel Kpoku             |      99.45 |                67 |        4 |                 5 |      79.79 | Tristan Labouteley    |             80 |
+|             80 | Temo Mayanavanua       |      97.47 |                59 |        5 |                72 |     101.03 | Piula Faasalele       |             56 |
+|             55 | Patrick Sobela         |     109.73 |                86 |        6 |                82 |     108.11 | Joaquin Oviedo        |             49 |
+|             80 | Beka Saghinadze        |     104.7  |                78 |        7 |                22 |      88.64 | Kelian Galletier      |             56 |
+|             40 | Maxime Gouzou          |      90.47 |                28 |        8 |                76 |     104.68 | Genesis Mamea Lemalu  |             80 |
+|             49 | Jean-Marc Doussain     |     119.76 |                96 |        9 |                85 |     108.35 | Tom Ecochard          |             31 |
+|             80 | Fletcher Smith         |      85.19 |                13 |       10 |                76 |     104.3  | Jake McIntyre         |             80 |
+|             80 | Josua Tuisova Ratulevu |     132.69 |                99 |       11 |                99 |     142.08 | Mathieu Acebes        |             80 |
+|             80 | Kyle Godwin            |     108.61 |                85 |       12 |                91 |     114.96 | Jeronimo de la Fuente |             49 |
+|             74 | Josiah Maraku          |      68.9  |                 1 |       13 |                74 |     103.21 | Afusipa Taumoepeau    |             80 |
+|             80 | Xavier Mignot          |      93.74 |                42 |       14 |                52 |      96.37 | Lucas Dubois          |             80 |
+|             80 | Davit Niniashvili      |      94.64 |                49 |       15 |                17 |      85.8  | Tristan Tedder        |             80 |
+|             31 | Jerome Rey             |      61.06 |                 0 |       16 |                11 |      85.11 | Sadek Deghmache       |             49 |
+|             31 | Guillaume Marchand     |      79    |                 4 |       17 |                82 |     106.68 | Ma'afu Fia            |             31 |
+|             31 | Paulo Tafili           |      91.5  |                23 |       18 |                 9 |      84.86 | Giorgi Tetrashvili    |             31 |
+|             60 | Theo William           |      94.58 |                47 |       19 |                78 |     104.88 | George Tilsley        |             31 |
+|             25 | Felix Lambey           |     120.38 |                96 |       20 |                29 |      90.91 | Lucas Velarte         |             31 |
+|             40 | Mickael Guillard       |     100.17 |                67 |       21 |                15 |      86.23 | Victor Moreaux        |             24 |
+|             31 | Jonathan Pelissie      |     100.65 |                72 |       22 |                88 |     111.43 | Alan Brazo            |             24 |
+|              6 | Alfred Parisien        |      92.04 |                36 |       23 |                 8 |      83.14 | Seilala Lam           |             31 |
 

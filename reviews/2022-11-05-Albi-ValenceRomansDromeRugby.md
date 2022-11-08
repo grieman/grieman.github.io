@@ -4,12 +4,12 @@ title: Valence Romans Drome Rugby at Albi; 14-21
 date: 2022-11-05 18:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Valence Romans Drome Rugby (1456.47) at Albi (1420.74); 14-21
+# Valence Romans Drome Rugby (1478.44) at Albi (1448.19); 14-21
 
-# Prediction: Albi by 3.4
+# Prediction: Valence Romans Drome Rugby by 0.0
 
 
-Valence Romans Drome Rugby by 3.6 on a neutral field
+Valence Romans Drome Rugby by 3.0 on a neutral field
 ## Scores over Time
 
 
@@ -18,35 +18,35 @@ Valence Romans Drome Rugby by 3.6 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-11-05-Albi-ValenceRomansDromeRugby.png)
-# Pre-Match Prediction: Valence Romans Drome Rugby by 1.2
+# Pre-Match Prediction: Valence Romans Drome Rugby by 2.3
 
 
-Valence Romans Drome Rugby by 5.8 on a neutral pitch
+Valence Romans Drome Rugby by 5.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             57 | Sami Zouhair          |     105.45 |                85 |        1 |                12 |      86.23 | Maxime Escur               |             46 |
-|             48 | Mehdi Boundjema       |     103.4  |                80 |        2 |                 0 |      72.58 | Reinach Venter             |             46 |
-|             48 | Vincent Pelo          |      95.91 |                52 |        3 |                22 |      89.7  | Dimitri Tchapnga           |             46 |
-|             59 | Darrell Dyer          |     102.03 |                75 |        4 |               nan |      95.49 | Pilbarnon Djossou Lokossou |             46 |
-|             54 | Ian Groenewald        |     109.71 |                89 |        5 |                14 |      84.57 | Jacques Engelbrecht        |             80 |
-|             80 | Axel Bruchet          |      70.02 |                 1 |        6 |                63 |      99.49 | Lucas Guillaume            |             80 |
-|             80 | Ioane Iashagashvili   |     102.27 |                78 |        7 |                83 |     105.56 | Pierre Roussel             |             80 |
-|             80 | Sven Bernat Girlando  |     103.59 |                79 |        8 |                35 |      92.67 | Camille Jarreau            |             40 |
-|             70 | Tim Menzel            |      86.65 |                13 |        9 |                15 |      86.57 | Théo Vidal                 |             64 |
-|             80 | Joris Moura           |      95.24 |                48 |       10 |                48 |      95.36 | Benjamin Pehau             |             80 |
-|             56 | Noe Perret-Tourlonias |      98.3  |                63 |       11 |                85 |     107.35 | Enzo Marzocca              |             80 |
-|             80 | Charles Bouldoire     |     112.18 |                90 |       12 |                85 |     107.52 | Baptiste Couchinave        |             80 |
-|             80 | Jonathan Quinnez      |     101.6  |                72 |       13 |                84 |     106.99 | Wandile Mjekevu            |             80 |
-|             80 | Adam Vargas           |     102.98 |                77 |       14 |                22 |      89.72 | Luca Sperandio             |             80 |
-|             80 | Guillaume Cazes       |      81.49 |                10 |       15 |                30 |      91.16 | Téo Dospital               |             71 |
-|             23 | Anthony Aléo          |     106.93 |                87 |       16 |               nan |      99.23 | Antoine Soave              |             34 |
-|             32 | Dorian Marco Pena     |      87.2  |                15 |       17 |                14 |      87.01 | Arthur Castant             |             34 |
-|             32 | Enzo Bailly           |      96.14 |               nan |       18 |                35 |      92.49 | Jean Baptiste De Clercq    |             34 |
-|             21 | Florian Goumat        |      92.15 |                37 |       19 |                 9 |      84.09 | Hugo Boutin                |             34 |
-|             26 | Francois Uys          |     102.34 |                76 |       20 |                52 |      95.65 | Sandrick Maciotta          |             40 |
-|             10 | Léopold Dupas         |      92.36 |                35 |       21 |                13 |      86.86 | Titouan Pouzoullic         |             16 |
-|             24 | Anatole Pauvert       |      84.62 |                13 |       22 |                41 |      93.26 | Paul Clergue               |              9 |
+|             57 | Sami Zouhair          |     107.2  |                85 |        1 |                 4 |      80.65 | Maxime Escur               |             46 |
+|             48 | Mehdi Boundjema       |     103.94 |                78 |        2 |                 1 |      72.37 | Reinach Venter             |             46 |
+|             48 | Vincent Pelo          |      94    |                42 |        3 |                24 |      91.7  | Dimitri Tchapnga           |             46 |
+|             59 | Darrell Dyer          |      96.66 |                56 |        4 |               nan |      95.47 | Pilbarnon Djossou Lokossou |             46 |
+|             54 | Ian Groenewald        |     113.24 |                90 |        5 |                22 |      87.97 | Jacques Engelbrecht        |             80 |
+|             80 | Axel Bruchet          |      74.48 |                 2 |        6 |                68 |     100.35 | Lucas Guillaume            |             80 |
+|             80 | Ioane Iashagashvili   |     104.09 |                76 |        7 |                93 |     115.85 | Pierre Roussel             |             80 |
+|             80 | Sven Bernat Girlando  |     104.28 |                78 |        8 |                36 |      93.63 | Camille Jarreau            |             40 |
+|             70 | Tim Menzel            |      87.91 |                17 |        9 |                25 |      90.16 | Théo Vidal                 |             64 |
+|             80 | Joris Moura           |      97.64 |                57 |       10 |                24 |      90.02 | Benjamin Pehau             |             80 |
+|             56 | Noe Perret-Tourlonias |      98.03 |                59 |       11 |                86 |     111.43 | Enzo Marzocca              |             80 |
+|             80 | Charles Bouldoire     |     117.51 |                93 |       12 |                87 |     110.99 | Baptiste Couchinave        |             80 |
+|             80 | Jonathan Quinnez      |     106.49 |                81 |       13 |                89 |     112.9  | Wandile Mjekevu            |             80 |
+|             80 | Adam Vargas           |     102.3  |                75 |       14 |                36 |      92.49 | Luca Sperandio             |             80 |
+|             80 | Guillaume Cazes       |      83.02 |                11 |       15 |                29 |      90.75 | Téo Dospital               |             71 |
+|             23 | Anthony Aléo          |     108.27 |                88 |       16 |                69 |     100.44 | Antoine Soave              |             34 |
+|             32 | Dorian Marco Pena     |      83.79 |                 9 |       17 |                24 |      89.68 | Arthur Castant             |             34 |
+|             32 | Enzo Bailly           |      96.23 |               nan |       18 |                35 |      92.66 | Jean Baptiste De Clercq    |             34 |
+|             21 | Florian Goumat        |      92.35 |                37 |       19 |                 4 |      77.19 | Hugo Boutin                |             34 |
+|             26 | Francois Uys          |     106.08 |                81 |       20 |                58 |      99.26 | Sandrick Maciotta          |             40 |
+|             10 | Léopold Dupas         |      93.33 |                40 |       21 |                21 |      89.49 | Titouan Pouzoullic         |             16 |
+|             24 | Anatole Pauvert       |      89.01 |                23 |       22 |                45 |      94.14 | Paul Clergue               |              9 |
 
