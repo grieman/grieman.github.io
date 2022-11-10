@@ -1,15 +1,15 @@
 ---  
 layout: page  
-title: Uruguay at Georgia; 18-34  
-date: 2022-11-06 15:00:00 18:00:00 -0500  
+title: Uruguay at Georgia; 18.0-34.0  
+date: 2022-11-06 09:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Uruguay (1387.52) at Georgia (1478.63); 18-34
+# Uruguay (1378.42) at Georgia (1449.13); 18.0-34.0
 
-# Prediction: Georgia by 12.1
+# Prediction: Georgia by 10.1
 
 
-Georgia by 9.1 on a neutral field
+Georgia by 7.1 on a neutral field
 ## Scores over Time
 
 
@@ -18,36 +18,36 @@ Georgia by 9.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2022-11-06-Georgia-Uruguay.png)
-# Pre-Match Prediction: Georgia by 15.8
+# Pre-Match Prediction: Georgia by 9.3
 
 
-Georgia by 12.8 on a neutral pitch
+Georgia by 6.3 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
-|---------------:|:--------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             67 | Mateo Sanguinetti               |      86.27 |                13 |        1 |                73 |     101.52 | Guram Gogichashvili |             57 |
-|             61 | Guillermo Pujadas               |      95.54 |                56 |        2 |                75 |     102.07 | Shalva Mamukashvili |             52 |
-|             69 | Ignacio Peculo                  |      96.21 |                52 |        3 |                 7 |      83.04 | Guram Papidze       |             46 |
-|             80 | Ignacio Dotti                   |      92.13 |                36 |        4 |                31 |      90.93 | Lado Chachanidze    |             80 |
-|             80 | Manuel Leindekar                |     103.82 |                78 |        5 |                10 |      80.7  | Kote Mikautadze     |             58 |
-|             51 | Eric Dosantos                   |      93.39 |                43 |        6 |                64 |      99.33 | Beka Gorgadze       |             80 |
-|             80 | Santiago Civetta                |      87.6  |                18 |        7 |                81 |     105.73 | Beka Saghinadze     |             80 |
-|             72 | Diego Ardao                     |      92.47 |                36 |        8 |                62 |     100.06 | Tornike Jalagonia   |             69 |
-|             69 | Tomas Inciarte Rachetti         |      85.33 |                12 |        9 |                36 |      92.5  | Vaso Lobzhanidze    |             75 |
-|             80 | Felipe Berchesi Pisano          |      91.72 |                32 |       10 |                51 |      96.79 | Tedo Abzhandadze    |             75 |
-|             80 | Juan Manuel Alonso Dieguez      |      91.16 |                29 |       11 |                88 |     111.34 | Sandro Todua        |             64 |
-|             80 | Andres Vilaseca Hontou          |      90.18 |                27 |       12 |                70 |     101.51 | Merab Sharikadze    |             80 |
-|             80 | Felipe Arcos Perez              |      91.14 |                32 |       13 |                85 |     109.1  | Giorgi Kveseladze   |             80 |
-|             80 | Rodrigo Silva Pisano            |      85.5  |                13 |       14 |                58 |      97.78 | Akaki Tabutsadze    |             80 |
-|             80 | Felipe Etcheverry               |      92.64 |                38 |       15 |                50 |      95.67 | Davit Niniashvili   |             80 |
-|             13 | Edgardo Matias Benitez Santin   |      98.04 |                58 |       16 |                41 |      93.66 | Nika Abuladze       |             23 |
-|             19 | Facundo Gattas                  |     102.65 |                76 |       17 |                48 |      94.52 | Giorgi Chkoidze     |             28 |
-|             11 | Mathias Franco                  |      96.72 |                54 |       18 |               nan |      95.3  | Vakh Abdaladze      |             34 |
-|             29 | Lucas Bianchi Bonfiglio         |     111.19 |                89 |       19 |                97 |     124.94 | Nodar Cheishvili    |             22 |
-|              8 | Manuel Diana Olaso              |      97.77 |                54 |       20 |                74 |     103.44 | Otar Giorgadze      |             11 |
-|             11 | Santiago Álvarez Viera Da Cunha |      98.2  |                59 |       21 |                62 |      99.11 | Luka Matkava        |              5 |
-|            nan | nan                             |     nan    |               nan |       22 |                39 |      93.12 | Tengiz Peranidze    |              5 |
-|            nan | nan                             |     nan    |               nan |       23 |                63 |      98.66 | Demur Tapladze      |             16 |
+|   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
+|---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
+|             68 | Mateo Sanguinetti  |      85.77 |                12 |        1 |                73 |     101.36 | Guram Gogichashvili   |             57 |
+|             62 | Guillermo Pujadas  |      95.56 |                56 |        2 |                76 |     102.15 | Shalva Mamukashvili   |             52 |
+|             70 | Ignacio Peculo     |      96.37 |                52 |        3 |                 8 |      83.09 | Guram Papidze         |             45 |
+|             70 | Ignacio Dotti      |      92    |                35 |        4 |               nan |      95    | Vladimeri Chachanidze |             80 |
+|             80 | Manuel Leindekar   |     103.9  |                78 |        5 |                 9 |      80.75 | Kote Mikautadze       |             59 |
+|             51 | Eric Dosantos      |      93.4  |                42 |        6 |                69 |     100.62 | Beka Gorgadze         |             80 |
+|             80 | Santiago Civetta   |      87.74 |                18 |        7 |                37 |      92.45 | Beka Saginadze        |             80 |
+|             73 | Manuel Ardao       |      86.18 |                16 |        8 |                65 |     101    | Tornike Jalagonia     |             70 |
+|             70 | Tomas Inciarte     |      84.19 |                11 |        9 |                30 |      90.54 | Vasil Lobzhanidze     |             76 |
+|             80 | Felipe Berchesi    |      89.51 |                24 |       10 |                51 |      96.67 | Tedo Abzhandadze      |             76 |
+|             80 | Juan Manuel Alonso |      92.58 |               nan |       11 |                36 |      92.45 | Alexander Todua       |             65 |
+|             80 | Andres Vilaseca    |      90.85 |                31 |       12 |                70 |     101.47 | Merab Sharikadze      |             80 |
+|             62 | Felipe Arcos Perez |      91.15 |                32 |       13 |                85 |     108.82 | Giorgi Kveseladze     |             80 |
+|             80 | Rodrigo Silva      |      91.51 |                34 |       14 |                36 |      92.45 | Aka Tabutsadze        |             80 |
+|             80 | Felipe Etcheverry  |      92.79 |                40 |       15 |                50 |      95.59 | Davit Niniashvili     |             80 |
+|             18 | Facundo Gattas     |     102.53 |                77 |       16 |                48 |      94.51 | Giorgi Chkoidze       |             28 |
+|             12 | Matias Benitez     |      95    |               nan |       17 |                40 |      93.66 | Nika Abuladze         |             23 |
+|             10 | Mathias Franco     |      95    |               nan |       18 |               nan |      97.88 | Vakh Abdaladze        |             35 |
+|             10 | Diego Magno        |      91.67 |                33 |       19 |                97 |     124.82 | Nodar Cheishvili      |             21 |
+|             29 | Lucas Bianchi      |      91.31 |                31 |       20 |                72 |     103.22 | Otar Giorgadze        |             10 |
+|              7 | Manuel Diana       |      95    |               nan |       21 |               nan |      95    | Tengiz Peranidze      |              4 |
+|             10 | Santiago Alvarez   |      94.67 |               nan |       22 |               nan |      95    | Luka Matkava          |              4 |
+|             18 | Juan Zuccarino     |      95    |               nan |       23 |                63 |      98.66 | Demur Tapladze        |             15 |
 

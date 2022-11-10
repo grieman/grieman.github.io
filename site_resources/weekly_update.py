@@ -26,7 +26,7 @@ import seaborn as sns
 from plot_functions import *
 
 
-## Need to ge the current home advantage? as 5 as of 8/5, 7 as of 11/5
+## Need to ge the current home advantage? as 5 as of 8/5, 3 as of 11/8
 # this should not be hard coded
 home_advantage = 3
 

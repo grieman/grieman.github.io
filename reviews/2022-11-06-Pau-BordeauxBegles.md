@@ -4,42 +4,42 @@ title: Bordeaux Begles at Pau; 7-33
 date: 2022-11-06 15:15:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bordeaux Begles (1537.64) at Pau (1635.8); 7-33
+# Bordeaux Begles (1527.57) at Pau (1633.55); 7-33
 
-# Prediction: Pau by 12.8
-
-
-Pau by 9.8 on a neutral field
-# Pre-Match Prediction: Pau by 9.2
+# Prediction: Pau by 13.6
 
 
-Pau by 6.2 on a neutral pitch
+Pau by 10.6 on a neutral field
+# Pre-Match Prediction: Pau by 9.8
+
+
+Pau by 6.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             46 | Lekso Kaulashvili       |     113.45 |                95 |        1 |                80 |     103.62 | Ignacio Calles      |             54 |
-|             35 | Pablo Dimcheff          |      94.58 |                44 |        2 |                21 |      91.13 | Youri Delhommel     |             41 |
-|             46 | Vadim Cobilas           |     122.95 |                98 |        3 |                90 |     110.12 | Siate Tokolahi      |             54 |
-|             80 | Kane Douglas            |      95.53 |                51 |        4 |                 5 |      76.97 | Guillaume Ducat     |             67 |
-|             65 | Alban Roussel           |      97.01 |                53 |        5 |                70 |     100.46 | Fabrice Metz        |             80 |
-|             80 | Pierre Bochaton         |      98.32 |                64 |        6 |                36 |      93.77 | Sacha Zegueur       |             59 |
-|             53 | Mahamadou Diaby         |      86.54 |                14 |        7 |                92 |     113.7  | Luke Whitelock      |             80 |
-|             80 | Caleb Timu              |      86.41 |                17 |        8 |                35 |      92.3  | Jordan Joseph       |             80 |
-|             53 | Jules Gimbert           |      83.83 |               nan |        9 |                96 |     119.27 | Thibault Daubagna   |             44 |
-|             80 | Zack Holmes             |     123.25 |                94 |       10 |                61 |      97.96 | Thibault Debaes     |             80 |
-|             46 | Madosh Tambwe           |     120.31 |                95 |       11 |                99 |     131.96 | Clement Laporte     |             80 |
-|             80 | Federico Mori           |      80.85 |                 8 |       12 |                67 |     100.45 | Jale Vatubua        |              5 |
-|             21 | Tani Vili               |      91.86 |                35 |       13 |                95 |     120.3  | Tumua Manu          |             80 |
-|             80 | Geoffrey Cros           |     101.48 |                72 |       14 |                53 |      96.59 | Daniel Ikpefan      |             73 |
-|             80 | Louis Bielle-Biarrey    |      91.54 |                34 |       15 |                72 |     103.62 | Jack Maddocks       |             80 |
-|             59 | Gatien Masse            |      95.63 |                50 |       16 |                56 |      97.2  | Ă‰milien Gailleton  |             75 |
-|             80 | Clement Maynadier       |     121.06 |                98 |       17 |                81 |     104.73 | Romain Ruffenach    |             39 |
-|             34 | Jefferson Poirot        |      91.8  |                31 |       18 |                84 |     110.84 | Clovis Le bail      |             36 |
-|             34 | Christopher Vaotoa      |     103.02 |                73 |       19 |                56 |      96.37 | Lekima Tagitagivalu |             13 |
-|             34 | Mateo Garcia            |      94.99 |                43 |       20 |                90 |     115.12 | Remi Seneca         |             80 |
-|             27 | Renato Giammarioli      |     104.71 |                72 |       21 |                83 |     104.71 | Maks van Dyk        |             26 |
-|             27 | Yann Lesgourgues        |      89.04 |                20 |       22 |                59 |      97.95 | Martin Puech        |             21 |
-|             15 | Petero Taviraki Mailulu |      95    |               nan |       23 |               nan |      95.02 | Clement Mondinat    |              7 |
+|             46 | Lekso Kaulashvili       |     113.84 |                95 |        1 |                80 |     103.52 | Ignacio Calles      |             54 |
+|             35 | Pablo Dimcheff          |      94.67 |                44 |        2 |                21 |      91.21 | Youri Delhommel     |             41 |
+|             46 | Vadim Cobilas           |     121.86 |                98 |        3 |                89 |     110.03 | Siate Tokolahi      |             54 |
+|             80 | Kane Douglas            |      96.16 |                53 |        4 |                 4 |      76.1  | Guillaume Ducat     |             67 |
+|             65 | Alban Roussel           |      94.97 |                45 |        5 |                67 |      99.71 | Fabrice Metz        |             80 |
+|             80 | Pierre Bochaton         |      95.52 |                54 |        6 |                33 |      93.02 | Sacha Zegueur       |             59 |
+|             53 | Mahamadou Diaby         |      88.8  |                22 |        7 |                92 |     114.01 | Luke Whitelock      |             80 |
+|             80 | Caleb Timu              |      86.24 |                17 |        8 |                35 |      92.19 | Jordan Joseph       |             80 |
+|             53 | Jules Gimbert           |      83.81 |               nan |        9 |                96 |     118.97 | Thibault Daubagna   |             44 |
+|             80 | Zack Holmes             |     125.46 |                95 |       10 |                59 |      97.73 | Thibault Debaes     |             80 |
+|             46 | Madosh Tambwe           |     120.15 |                95 |       11 |                99 |     132.47 | Clement Laporte     |             80 |
+|             80 | Federico Mori           |      81    |                 8 |       12 |                66 |     100.38 | Jale Vatubua        |              5 |
+|             21 | Tani Vili               |      91.92 |                36 |       13 |                95 |     120.29 | Tumua Manu          |             80 |
+|             80 | Geoffrey Cros           |      98.81 |                63 |       14 |                55 |      97.15 | Daniel Ikpefan      |             73 |
+|             80 | Louis Bielle-Biarrey    |      88.89 |                23 |       15 |                72 |     103.66 | Jack Maddocks       |             80 |
+|             59 | Gatien Masse            |      94.99 |                48 |       16 |                56 |      97.29 | Ă‰milien Gailleton  |             75 |
+|             80 | Clement Maynadier       |     120.32 |                98 |       17 |                75 |     101.72 | Romain Ruffenach    |             39 |
+|             34 | Jefferson Poirot        |      90.6  |                25 |       18 |                84 |     111.22 | Clovis Le bail      |             36 |
+|             34 | Christopher Vaotoa      |     101.12 |                68 |       19 |                56 |      96.41 | Lekima Tagitagivalu |             13 |
+|             34 | Mateo Garcia            |      91.97 |                28 |       20 |                89 |     114.73 | Remi Seneca         |             80 |
+|             27 | Renato Giammarioli      |     104.64 |                72 |       21 |                84 |     104.9  | Maks van Dyk        |             26 |
+|             27 | Yann Lesgourgues        |      88.15 |                17 |       22 |                66 |     100.11 | Martin Puech        |             21 |
+|             15 | Petero Taviraki Mailulu |      95    |               nan |       23 |               nan |      95.03 | Clement Mondinat    |              7 |
 
