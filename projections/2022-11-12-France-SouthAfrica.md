@@ -4,12 +4,12 @@ title: South Africa at France
 date: 2022-11-12 15:00:00 18:00:00 -0500  
 categories: match prediction  
 ---
-# South Africa (1736.95) at France (1722.95)
+# South Africa (1744.66) at France (1722.95)
 
-# Prediction: France by 1.6
+# Prediction: France by 0.8
 
 
-South Africa by 1.4 on a neutral pitch
+South Africa by 2.2 on a neutral pitch
 
 | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |
 |:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|
@@ -20,7 +20,7 @@ South Africa by 1.4 on a neutral pitch
 | Franco Mostert       |     126.72 |                98 |        5 |                91 |     113.84 | Thibaud Flament   |
 | Siya Kolisi          |     105.73 |                81 |        6 |                87 |     109.72 | Anthony Jelonch   |
 | Pieter-Steph du Toit |      94    |                45 |        7 |                97 |     124.99 | Charles Ollivon   |
-| Jasper Wiese         |     110.27 |                85 |        8 |                94 |     123.87 | Gregory Alldritt  |
+| Kwagga Smith         |     109.8  |                85 |        8 |                94 |     123.87 | Gregory Alldritt  |
 | Faf de Klerk         |     113.46 |                91 |        9 |                99 |     126.54 | Antoine Dupont    |
 | Damian Willemse      |     113.96 |                89 |       10 |                86 |     111.5  | Romain Ntamack    |
 | Kurt-Lee Arendse     |     119.72 |                95 |       11 |                86 |     109.28 | Yoram Moefana     |
@@ -32,7 +32,7 @@ South Africa by 1.4 on a neutral pitch
 | Steven Kitshoff      |     121.69 |                98 |       17 |                95 |     116.1  | Reda Wardi        |
 | Vincent Koch         |      92.24 |                50 |       18 |                82 |     104.07 | Sipili Falatea    |
 | Marvin Orie          |      92.31 |                36 |       19 |                94 |     115.57 | Romain Taofifenua |
-| Kwagga Smith         |     109.8  |                85 |       20 |                96 |     122.69 | Bastien Chalureau |
+| Deon Fourie          |     144.45 |                99 |       20 |                96 |     122.69 | Bastien Chalureau |
 | Cobus Reinach        |     112.65 |                90 |       21 |                84 |     109.93 | Sekou Macalou     |
 | Manie Libbok         |     105.85 |                78 |       22 |               100 |     142.09 | Maxime Lucu       |
 | Makazole Mapimpi     |     116.94 |                93 |       23 |                84 |     108.86 | Matthieu Jalibert |
