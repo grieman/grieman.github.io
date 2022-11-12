@@ -33,7 +33,7 @@ Colomiers by 4.3 on a neutral pitch
 |             55 | Maxime Granouillet    |      93.28 |                41 |        4 |                64 |      97.6  | Romain Durand         |             80 |
 |             80 | Alexandre Ricard      |      97.59 |                59 |        5 |                42 |      92.85 | Andrei Ostrikov       |             31 |
 |             52 | Anthony Coletta       |      69.5  |                 1 |        6 |                78 |     104.66 | Yann Brethous         |             80 |
-|             80 | Aldric Lescure        |     102.44 |                74 |        7 |                75 |     102.47 | Nicolas Garrault      |             80 |
+|             80 | Aldric Lescure        |     102.44 |                73 |        7 |                75 |     102.47 | Nicolas Garrault      |             80 |
 |             52 | Yann Peysson          |      92.78 |                37 |        8 |                20 |      87.23 | Thibault Tauleigne    |             58 |
 |             60 | Ugo Seguela           |     110.51 |                86 |        9 |                77 |     102.59 | Martin Doan           |             72 |
 |             80 | Romuald Séguy         |      96.69 |                52 |       10 |                90 |     115.17 | Willie du Plessis     |             62 |

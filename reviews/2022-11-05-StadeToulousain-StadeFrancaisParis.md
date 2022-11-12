@@ -28,7 +28,7 @@ Stade Toulousain by 6.7 on a neutral pitch
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
 |             75 | Clement Castets         |     101.67 |                71 |        1 |                20 |      88.58 | Rodrigue Neti        |             61 |
-|             65 | Lucas Peyresblanques    |     104.39 |                78 |        2 |                61 |      97.49 | Guillaume Cramont    |             52 |
+|             65 | Lucas Peyresblanques    |     104.4  |                78 |        2 |                61 |      97.49 | Guillaume Cramont    |             52 |
 |             80 | Giorgi Melikidze        |     103.25 |                76 |        3 |                93 |     112.25 | Dorian Aldegheri     |             52 |
 |             80 | Paul Gabrillagues       |      95.95 |                54 |        4 |                15 |      84.94 | Richie Arnold        |             52 |
 |             41 | Baptiste Pesenti        |      93.48 |                42 |        5 |                81 |     105.77 | Emmanuel Meafou      |             80 |

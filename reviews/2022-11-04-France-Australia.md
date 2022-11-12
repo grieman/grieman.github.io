@@ -41,11 +41,11 @@ France by 17.0 on a neutral pitch
 |             25 | Lalakai Foketi  |      83.85 |                13 |       12 |                93 |     117.42 | Jonathan Danty    |             80 |
 |             80 | Len Ikitau      |     111.93 |                88 |       13 |                96 |     125.06 | Gael Fickou       |             66 |
 |             80 | Andrew Kellaway |     107.8  |                84 |       14 |                88 |     112.45 | Damian Penaud     |             80 |
-|             80 | Jock Campbell   |      96.11 |                51 |       15 |                97 |     128.82 | Thomas Ramos      |             80 |
+|             80 | Jock Campbell   |      96.11 |                51 |       15 |                97 |     128.81 | Thomas Ramos      |             80 |
 |             27 | Folau Fainga'a  |     121.2  |                98 |       16 |                95 |     115.81 | Peato Mauvaka     |             26 |
 |              2 | Matt Gibbon     |     104.6  |                80 |       17 |                74 |     100.39 | Dany Priso        |             26 |
 |              9 | Tom Robertson   |     101.03 |                71 |       18 |                83 |     105.64 | Sipili Falatea    |             26 |
-|             26 | Will Skelton    |     107.85 |                84 |       19 |                94 |     117.39 | Romain Taofifenua |             30 |
+|             26 | Will Skelton    |     107.85 |                84 |       19 |                94 |     117.38 | Romain Taofifenua |             30 |
 |              9 | Pete Samu       |     103.76 |                76 |       20 |                98 |     127.96 | Matthis Lebel     |             14 |
 |             19 | Jake Gordon     |      83.98 |                10 |       21 |                84 |     109.93 | Sekou Macalou     |              0 |
 |             55 | Hunter Paisami  |     107.57 |                83 |       22 |               100 |     142.09 | Maxime Lucu       |              0 |

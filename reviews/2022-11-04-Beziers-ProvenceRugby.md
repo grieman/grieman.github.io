@@ -4,7 +4,7 @@ title: Provence Rugby at Beziers; 30-29
 date: 2022-11-04 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Provence Rugby (1384.58) at Beziers (1429.56); 30-29
+# Provence Rugby (1384.59) at Beziers (1429.56); 30-29
 
 # Prediction: Beziers by 7.5
 
@@ -41,7 +41,7 @@ Beziers by 5.4 on a neutral pitch
 |             80 | Louis Marrou          |     112.18 |                88 |       12 |                14 |      85.61 | Jarrod Poi               |             80 |
 |             41 | Hugo Navizet          |      92.79 |                44 |       13 |                 7 |      80.79 | James Tofa               |             41 |
 |             80 | Léo Drouet            |     101.55 |                72 |       14 |                81 |     105.81 | Watisoni Votu            |             80 |
-|             80 | Adrien Lapegue-Lafaye |      71.3  |                 3 |       15 |                46 |      94.07 | Charly Malie             |             80 |
+|             80 | Adrien Lapegue-Lafaye |      71.29 |                 3 |       15 |                46 |      94.07 | Charly Malie             |             80 |
 |             31 | Matt Tierney          |      91.77 |               nan |       16 |                15 |      86.89 | Zhorzhi (Jorji) Saldadze |             47 |
 |             39 | Adrian Sanday         |      98.26 |                62 |       17 |                59 |      98.59 | Gabin Lorre              |             39 |
 |             30 | Lucas Martin          |      95.13 |                49 |       18 |                41 |      93.15 | Clément Esteriola        |             26 |

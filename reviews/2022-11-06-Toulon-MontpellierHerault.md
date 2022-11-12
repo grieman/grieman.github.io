@@ -32,7 +32,7 @@ Montpellier Herault by 0.6 on a neutral pitch
 |             59 | Titi Lamositele          |      91.44 |                29 |        3 |                24 |      90.3  | Kieran Brookes     |             54 |
 |             80 | Yacouba Camara           |     115.63 |                93 |        4 |                27 |      90.4  | Swan Rebbadj       |             80 |
 |             76 | Bastien Chalureau        |     119.43 |                95 |        5 |                96 |     120.6  | Sitaleki Timani    |             76 |
-|             80 | Lenni Nouchi             |      94.44 |               nan |        6 |                58 |      97.38 | Cornell du Preez   |             76 |
+|             80 | Lenni Nouchi             |      94.44 |               nan |        6 |                58 |      97.37 | Cornell du Preez   |             76 |
 |             80 | Alexandre Becognee       |      85.92 |                14 |        7 |                77 |     104.55 | Mathieu Bastareaud |             65 |
 |             80 | Zach Mercer              |      99.54 |                59 |        8 |                84 |     109.74 | Sergio Parisse     |             80 |
 |             69 | Aubin Eymeri             |      95    |               nan |        9 |                94 |     116.31 | Benoit Paillaugue  |             54 |

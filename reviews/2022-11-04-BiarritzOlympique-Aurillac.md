@@ -4,7 +4,7 @@ title: Aurillac at Biarritz Olympique; 16-31
 date: 2022-11-04 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Aurillac (1359.2) at Biarritz Olympique (1446.09); 16-31
+# Aurillac (1359.21) at Biarritz Olympique (1446.09); 16-31
 
 # Prediction: Biarritz Olympique by 11.7
 

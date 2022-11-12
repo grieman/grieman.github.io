@@ -49,5 +49,5 @@ US Bressane by 8.4 on a neutral pitch
 |              9 | Jeremy Valencot           |      91.26 |                27 |       20 |                57 |      97.7  | Oktay Yilmaz          |             24 |
 |              9 | Benjamin Doy              |      69.06 |                 1 |       21 |                37 |      92.4  | Mohamed Khribache     |             24 |
 |              9 | TJ Ioane                  |      76.13 |                 3 |       22 |                14 |      85.71 | Matthieu Nicolas      |             24 |
-|              3 | Romain Falcoz             |      92.9  |               nan |       23 |                43 |      93.79 | Remi Bouet            |             24 |
+|              3 | Romain Falcoz             |      92.9  |               nan |       23 |                42 |      93.79 | Remi Bouet            |             24 |
 

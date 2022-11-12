@@ -41,7 +41,7 @@ Chile by 3.7 on a neutral pitch
 |             79 | Inaki Ayarza Saporta            |      90.38 |                28 |       12 |                27 |      90.77 | Vladut Popa       |             80 |
 |             80 | Matias Garafulic Schar          |      99.86 |                64 |       13 |                83 |     107.5  | Alexandru Bucur   |             80 |
 |             80 | Nicolas Garafulic Schar         |      88.18 |                18 |       14 |                 3 |      70.96 | Marius Simionescu |             80 |
-|             80 | Santiago Videla Cambiaso        |      93.85 |                47 |       15 |                24 |      90.3  | Hinckley Vaovasa  |             80 |
+|             80 | Santiago Videla Cambiaso        |      93.85 |                46 |       15 |                24 |      90.3  | Hinckley Vaovasa  |             80 |
 |             36 | Javier Carrasco Albornoz        |      88.63 |                20 |       16 |                57 |      97.59 | Alexandru Savin   |             32 |
 |             36 | Augusto Bohme Alemparte         |      82.58 |                 7 |       17 |                21 |      89.05 | Ovidiu Cojocaru   |             32 |
 |             36 | Inaki Gurruchaga                |      87.88 |                17 |       18 |                66 |      99.57 | Victor Leon       |             32 |

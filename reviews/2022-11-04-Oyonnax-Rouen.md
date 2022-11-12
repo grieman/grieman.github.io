@@ -4,7 +4,7 @@ title: Rouen at Oyonnax; 13-61
 date: 2022-11-04 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Rouen (1445.76) at Oyonnax (1631.46); 13-61
+# Rouen (1445.76) at Oyonnax (1631.47); 13-61
 
 # Prediction: Oyonnax by 21.6
 
@@ -32,7 +32,7 @@ Oyonnax by 17.1 on a neutral pitch
 |             52 | Cody Thomas          |     104.17 |                78 |        3 |                19 |      88.35 | Thibault Berthaud   |             61 |
 |             66 | Raphaël Vieilledent  |      92.4  |                37 |        4 |                99 |     143.56 | Tom Murday          |             60 |
 |             80 | Shay Kerry           |      87.16 |                19 |        5 |                99 |     141.94 | Phoenix Battye      |             80 |
-|             80 | Fabien Vincent       |     110.52 |                88 |        6 |                87 |     109.5  | Kevin Lebreton      |             80 |
+|             80 | Fabien Vincent       |     110.52 |                88 |        6 |                87 |     109.51 | Kevin Lebreton      |             80 |
 |             41 | Jean Leleu           |      99.3  |                62 |        7 |                41 |      93.22 | Loïc Credoz         |             54 |
 |             80 | Julien Ruaud         |     100.54 |                63 |        8 |                98 |     135.88 | Rory Grice          |             80 |
 |             61 | Adrien Brissard      |      95.39 |               nan |        9 |                89 |     111.22 | Charlie Cassang     |             61 |

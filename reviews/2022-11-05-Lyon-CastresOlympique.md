@@ -4,7 +4,7 @@ title: Castres Olympique at Lyon; 20-26
 date: 2022-11-05 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Castres Olympique (1545.93) at Lyon (1547.65); 20-26
+# Castres Olympique (1545.92) at Lyon (1547.65); 20-26
 
 # Prediction: Lyon by 3.2
 
@@ -27,7 +27,7 @@ Lyon by 2.4 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             50 | Quentin Walcker            |      95.43 |                47 |        1 |                 0 |      60.67 | Jerome Rey                   |             52 |
+|             50 | Quentin Walcker            |      95.42 |                47 |        1 |                 0 |      60.67 | Jerome Rey                   |             52 |
 |             80 | Gaetan Barlot              |     106.82 |                85 |        2 |                60 |      97.49 | Yanis Charcosset             |             63 |
 |             63 | Wilfrid Hounkpatin         |     104.24 |                79 |        3 |                86 |     107.52 | Feao Fotuaika                |             65 |
 |             50 | Ryno Pieterse              |      87.51 |                20 |        4 |                96 |     120.98 | Felix Lambey                 |             79 |

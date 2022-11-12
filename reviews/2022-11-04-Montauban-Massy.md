@@ -4,7 +4,7 @@ title: Massy at Montauban; 12-25
 date: 2022-11-04 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Massy (1408.38) at Montauban (1409.77); 12-25
+# Massy (1408.38) at Montauban (1409.78); 12-25
 
 # Prediction: Montauban by 3.1
 
@@ -43,7 +43,7 @@ Massy by 4.5 on a neutral pitch
 |             45 | Kimami Sitauti        |     101.36 |                69 |       14 |                97 |     123.2  | Semesa Rokoduguni  |             80 |
 |             45 | Romain Clouté         |      97.27 |                52 |       15 |                90 |     112.98 | Maxime Salles      |             80 |
 |             35 | Yanis Dit Robaglia    |      91.69 |                31 |       16 |                 3 |      76.35 | Lucas Seyrolle     |             31 |
-|             35 | Corentin Chabeaudie   |      82.02 |                 6 |       17 |                 7 |      79.47 | Dimitri Vaotoa     |             31 |
+|             35 | Corentin Chabeaudie   |      82.02 |                 6 |       17 |                 7 |      79.46 | Dimitri Vaotoa     |             31 |
 |             35 | Juan Kotze            |      92.64 |                39 |       18 |                12 |      85.68 | Victor Laval       |             31 |
 |             35 | Fernandez Correa      |      83.22 |                 8 |       19 |                33 |      90.72 | Taleta Tupuola     |             31 |
 |             35 | Nicolas Ferrer        |      98.46 |                61 |       20 |                39 |      92.65 | Arnaud Feltrin     |             22 |

@@ -19,21 +19,21 @@ South Africa by 2.2 on a neutral pitch
 | Eben Etzebeth        |     119.85 |                95 |        4 |                42 |      93.42 | Cameron Woki      |
 | Franco Mostert       |     126.72 |                98 |        5 |                91 |     113.84 | Thibaud Flament   |
 | Siya Kolisi          |     105.73 |                81 |        6 |                87 |     109.72 | Anthony Jelonch   |
-| Pieter-Steph du Toit |      94    |                45 |        7 |                97 |     124.99 | Charles Ollivon   |
+| Pieter-Steph du Toit |      94    |                44 |        7 |                97 |     124.99 | Charles Ollivon   |
 | Kwagga Smith         |     109.8  |                85 |        8 |                94 |     123.87 | Gregory Alldritt  |
-| Faf de Klerk         |     113.46 |                91 |        9 |                99 |     126.54 | Antoine Dupont    |
+| Faf de Klerk         |     113.46 |                91 |        9 |                98 |     126.54 | Antoine Dupont    |
 | Damian Willemse      |     113.96 |                89 |       10 |                86 |     111.5  | Romain Ntamack    |
 | Kurt-Lee Arendse     |     119.72 |                95 |       11 |                86 |     109.28 | Yoram Moefana     |
 | Damian de Allende    |     113.81 |                90 |       12 |                88 |     112.58 | Jonathan Danty    |
 | Jesse Kriel          |     128.42 |                98 |       13 |                95 |     121.07 | Gael Fickou       |
-| Cheslin Kolbe        |     154.45 |               100 |       14 |                84 |     107.61 | Damian Penaud     |
+| Cheslin Kolbe        |     154.45 |                99 |       14 |                84 |     107.61 | Damian Penaud     |
 | Willie le Roux       |     124.83 |                96 |       15 |                96 |     123.98 | Thomas Ramos      |
 | Malcolm Marx         |     120.75 |                97 |       16 |                95 |     114.24 | Peato Mauvaka     |
 | Steven Kitshoff      |     121.69 |                98 |       17 |                95 |     116.1  | Reda Wardi        |
-| Vincent Koch         |      92.24 |                50 |       18 |                82 |     104.07 | Sipili Falatea    |
+| Vincent Koch         |      92.22 |                50 |       18 |                82 |     104.07 | Sipili Falatea    |
 | Marvin Orie          |      92.31 |                36 |       19 |                94 |     115.57 | Romain Taofifenua |
 | Deon Fourie          |     144.45 |                99 |       20 |                96 |     122.69 | Bastien Chalureau |
-| Cobus Reinach        |     112.65 |                90 |       21 |                84 |     109.93 | Sekou Macalou     |
-| Manie Libbok         |     105.85 |                78 |       22 |               100 |     142.09 | Maxime Lucu       |
+| Cobus Reinach        |     112.65 |                90 |       21 |                85 |     109.93 | Sekou Macalou     |
+| Manie Libbok         |     105.85 |                77 |       22 |               100 |     142.09 | Maxime Lucu       |
 | Makazole Mapimpi     |     116.94 |                93 |       23 |                84 |     108.86 | Matthieu Jalibert |
 

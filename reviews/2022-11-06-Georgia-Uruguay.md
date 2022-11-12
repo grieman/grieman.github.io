@@ -41,7 +41,7 @@ Georgia by 6.3 on a neutral pitch
 |             80 | Andres Vilaseca    |      90.85 |                31 |       12 |                70 |     101.47 | Merab Sharikadze      |             80 |
 |             62 | Felipe Arcos Perez |      91.15 |                32 |       13 |                85 |     108.82 | Giorgi Kveseladze     |             80 |
 |             80 | Rodrigo Silva      |      91.51 |                34 |       14 |                36 |      92.45 | Aka Tabutsadze        |             80 |
-|             80 | Felipe Etcheverry  |      92.79 |                40 |       15 |                50 |      95.59 | Davit Niniashvili     |             80 |
+|             80 | Felipe Etcheverry  |      92.79 |                40 |       15 |                50 |      95.6  | Davit Niniashvili     |             80 |
 |             18 | Facundo Gattas     |     102.53 |                77 |       16 |                48 |      94.51 | Giorgi Chkoidze       |             28 |
 |             12 | Matias Benitez     |      95    |               nan |       17 |                40 |      93.66 | Nika Abuladze         |             23 |
 |             10 | Mathias Franco     |      95    |               nan |       18 |               nan |      97.88 | Vakh Abdaladze        |             35 |

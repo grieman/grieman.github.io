@@ -4,7 +4,7 @@ title: Grenoble at Carcassonne; 23-14
 date: 2022-11-04 19:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Grenoble (1417.78) at Carcassonne (1370.15); 23-14
+# Grenoble (1417.77) at Carcassonne (1370.14); 23-14
 
 # Prediction: Grenoble by 1.8
 

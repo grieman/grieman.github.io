@@ -4,7 +4,7 @@ title: Bordeaux Begles at Pau; 7-33
 date: 2022-11-06 15:15:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bordeaux Begles (1527.57) at Pau (1633.55); 7-33
+# Bordeaux Begles (1527.56) at Pau (1633.53); 7-33
 
 # Prediction: Pau by 13.6
 
@@ -27,19 +27,19 @@ Pau by 6.8 on a neutral pitch
 |             80 | Pierre Bochaton         |      95.52 |                54 |        6 |                33 |      93.02 | Sacha Zegueur       |             59 |
 |             53 | Mahamadou Diaby         |      88.8  |                22 |        7 |                92 |     114.01 | Luke Whitelock      |             80 |
 |             80 | Caleb Timu              |      86.24 |                17 |        8 |                35 |      92.19 | Jordan Joseph       |             80 |
-|             53 | Jules Gimbert           |      83.81 |               nan |        9 |                96 |     118.97 | Thibault Daubagna   |             44 |
+|             53 | Jules Gimbert           |      83.81 |               nan |        9 |                96 |     118.96 | Thibault Daubagna   |             44 |
 |             80 | Zack Holmes             |     125.46 |                95 |       10 |                59 |      97.73 | Thibault Debaes     |             80 |
 |             46 | Madosh Tambwe           |     120.15 |                95 |       11 |                99 |     132.47 | Clement Laporte     |             80 |
 |             80 | Federico Mori           |      81    |                 8 |       12 |                66 |     100.38 | Jale Vatubua        |              5 |
-|             21 | Tani Vili               |      91.92 |                36 |       13 |                95 |     120.29 | Tumua Manu          |             80 |
+|             21 | Tani Vili               |      91.92 |                36 |       13 |                95 |     120.27 | Tumua Manu          |             80 |
 |             80 | Geoffrey Cros           |      98.81 |                63 |       14 |                55 |      97.15 | Daniel Ikpefan      |             73 |
 |             80 | Louis Bielle-Biarrey    |      88.89 |                23 |       15 |                72 |     103.66 | Jack Maddocks       |             80 |
 |             59 | Gatien Masse            |      94.99 |                48 |       16 |                56 |      97.29 | Ă‰milien Gailleton  |             75 |
 |             80 | Clement Maynadier       |     120.32 |                98 |       17 |                75 |     101.72 | Romain Ruffenach    |             39 |
-|             34 | Jefferson Poirot        |      90.6  |                25 |       18 |                84 |     111.22 | Clovis Le bail      |             36 |
+|             34 | Jefferson Poirot        |      90.59 |                25 |       18 |                84 |     111.22 | Clovis Le bail      |             36 |
 |             34 | Christopher Vaotoa      |     101.12 |                68 |       19 |                56 |      96.41 | Lekima Tagitagivalu |             13 |
 |             34 | Mateo Garcia            |      91.97 |                28 |       20 |                89 |     114.73 | Remi Seneca         |             80 |
 |             27 | Renato Giammarioli      |     104.64 |                72 |       21 |                84 |     104.9  | Maks van Dyk        |             26 |
-|             27 | Yann Lesgourgues        |      88.15 |                17 |       22 |                66 |     100.11 | Martin Puech        |             21 |
+|             27 | Yann Lesgourgues        |      88.14 |                17 |       22 |                66 |     100.11 | Martin Puech        |             21 |
 |             15 | Petero Taviraki Mailulu |      95    |               nan |       23 |               nan |      95.03 | Clement Mondinat    |              7 |
 

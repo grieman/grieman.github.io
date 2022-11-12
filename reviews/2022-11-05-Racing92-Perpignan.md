@@ -4,7 +4,7 @@ title: Perpignan at Racing 92; 20-44
 date: 2022-11-05 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Perpignan (1426.47) at Racing 92 (1508.85); 20-44
+# Perpignan (1426.46) at Racing 92 (1508.85); 20-44
 
 # Prediction: Racing 92 by 11.2
 
