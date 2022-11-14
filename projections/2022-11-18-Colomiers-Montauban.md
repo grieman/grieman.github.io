@@ -4,10 +4,10 @@ title: Montauban at Colomiers
 date: 2022-11-18 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Montauban (~1405.03) at Colomiers (~1424.54)
+# Montauban (~1406.38) at Colomiers (~1421.38)
 
-# Prediction: Colomiers by 5.0
+# Prediction: Colomiers by 4.5
 
 
-Colomiers by 2.0 on a neutral pitch
+Colomiers by 1.5 on a neutral pitch
 

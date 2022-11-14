@@ -4,7 +4,7 @@ title: Provence Rugby at Beziers; 30-29
 date: 2022-11-04 19:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Provence Rugby (1384.59) at Beziers (1429.56); 30-29
+# Provence Rugby (1384.58) at Beziers (1429.57); 30-29
 
 # Prediction: Beziers by 7.5
 
@@ -38,16 +38,16 @@ Beziers by 5.4 on a neutral pitch
 |             72 | Joris Cazenave        |      75.61 |                 3 |        9 |                97 |     123.07 | Josh Valentine           |             67 |
 |             50 | Johnny McPhillips     |      86.78 |                17 |       10 |                43 |      94.37 | Romain Uruty             |             80 |
 |             80 | Nadir Bouhedjeur      |     106.33 |                82 |       11 |                 9 |      83.01 | Pierre Courtaud          |             54 |
-|             80 | Louis Marrou          |     112.18 |                88 |       12 |                14 |      85.61 | Jarrod Poi               |             80 |
+|             80 | Louis Marrou          |     112.18 |                88 |       12 |                14 |      85.62 | Jarrod Poi               |             80 |
 |             41 | Hugo Navizet          |      92.79 |                44 |       13 |                 7 |      80.79 | James Tofa               |             41 |
 |             80 | Léo Drouet            |     101.55 |                72 |       14 |                81 |     105.81 | Watisoni Votu            |             80 |
 |             80 | Adrien Lapegue-Lafaye |      71.29 |                 3 |       15 |                46 |      94.07 | Charly Malie             |             80 |
 |             31 | Matt Tierney          |      91.77 |               nan |       16 |                15 |      86.89 | Zhorzhi (Jorji) Saldadze |             47 |
-|             39 | Adrian Sanday         |      98.26 |                62 |       17 |                59 |      98.59 | Gabin Lorre              |             39 |
+|             39 | Adrian Sanday         |      98.25 |                62 |       17 |                59 |      98.59 | Gabin Lorre              |             39 |
 |             30 | Lucas Martin          |      95.13 |                49 |       18 |                41 |      93.15 | Clément Esteriola        |             26 |
 |             30 | Bilel Taieb           |      84.54 |                11 |       19 |                47 |      94.48 | Clément Bitz             |             26 |
 |             30 | Enzo Selponi          |     120.45 |                93 |       20 |                85 |     111.05 | Adrien Latorre           |             26 |
-|             26 | Hans N'kinsi          |      72.59 |                 3 |       21 |                31 |      91.26 | Thomas Hoarau            |             23 |
-|             23 | Mohammed Loukia       |      94.64 |               nan |       22 |                48 |      95.55 | John Henry Fincham       |             15 |
+|             26 | Hans N'kinsi          |      72.58 |                 3 |       21 |                31 |      91.26 | Thomas Hoarau            |             23 |
+|             23 | Mohammed Loukia       |      94.65 |               nan |       22 |                48 |      95.55 | John Henry Fincham       |             15 |
 |              8 | Simon Tarel           |      95    |               nan |       23 |                60 |      98.05 | Mitchell Short           |             13 |
 

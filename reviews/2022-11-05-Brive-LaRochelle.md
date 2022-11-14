@@ -4,7 +4,7 @@ title: La Rochelle at Brive; 19-17
 date: 2022-11-05 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# La Rochelle (1474.12) at Brive (1373.89); 19-17
+# La Rochelle (1474.17) at Brive (1373.91); 19-17
 
 # Prediction: La Rochelle by 7.0
 
@@ -30,21 +30,21 @@ La Rochelle by 10.2 on a neutral pitch
 |             80 | Thierry Paiva         |      92.42 |                34 |        1 |                14 |      86.77 | Daniel Brennan        |             47 |
 |             54 | Quentin Lespiaucq     |      86.8  |                15 |        2 |                29 |      90.67 | Motu Matu'u           |             47 |
 |             54 | Georges-Henri Colombe |      85.24 |                11 |        3 |                73 |     101.62 | Marcel van der Merwe  |             80 |
-|             80 | Thomas Lavault        |     101.99 |                74 |        4 |                22 |      88    | Julien Delannoy       |             25 |
+|             80 | Thomas Lavault        |     102    |                74 |        4 |                22 |      88    | Julien Delannoy       |             25 |
 |             59 | Remi Picquette        |      96.08 |                72 |        5 |                53 |      93.84 | Oskar Rixen           |             80 |
-|             80 | Matthias Haddad       |      95.24 |                45 |        6 |                20 |      88.23 | Matthieu Voisin       |             80 |
-|             27 | Ultan Dillane         |     105.54 |                82 |        7 |                22 |      88.71 | Sasha Gue             |             80 |
-|             80 | Yoan Tanga            |     100.6  |                69 |        8 |                14 |      86.07 | Esteban Abadie        |             80 |
+|             80 | Matthias Haddad       |      95.24 |                45 |        6 |                20 |      88.24 | Matthieu Voisin       |             80 |
+|             27 | Ultan Dillane         |     105.67 |                82 |        7 |                22 |      88.71 | Sasha Gue             |             80 |
+|             80 | Yoan Tanga            |     100.61 |                69 |        8 |                14 |      86.08 | Esteban Abadie        |             80 |
 |             72 | Tawera Kerr-Barlow    |     126.55 |                99 |        9 |                 5 |      79.19 | Paul Abadie           |             68 |
 |             80 | Antoine Hastoy        |      83.26 |                11 |       10 |                88 |     113.17 | Enzo Herve            |             80 |
 |             80 | Dillyn Leyds          |     107.89 |                84 |       11 |                78 |     103.9  | Axel Muller           |             80 |
-|             80 | Pierre Boudehent      |      91.47 |                30 |       12 |                45 |      94.45 | Stuart Olding         |             80 |
-|             80 | Raymond Rhule         |     101    |                68 |       13 |                11 |      82.82 | Sammy Arnold          |             80 |
-|             80 | Teddy Thomas          |     102.4  |                75 |       14 |                51 |      95.88 | Joris Jurand          |             80 |
+|             80 | Pierre Boudehent      |      91.46 |                30 |       12 |                45 |      94.45 | Stuart Olding         |             80 |
+|             80 | Raymond Rhule         |     101    |                68 |       13 |                11 |      82.83 | Sammy Arnold          |             80 |
+|             80 | Teddy Thomas          |     102.39 |                75 |       14 |                51 |      95.88 | Joris Jurand          |             80 |
 |             80 | Brice Dulin           |     112.71 |                89 |       15 |                 7 |      78.55 | Mathis Ferté          |             73 |
-|             53 | Kyle Hatherell        |      76.35 |                 3 |       16 |                 6 |      78.03 | Andres Zafra Tarazona |             55 |
+|             53 | Kyle Hatherell        |      76.37 |                 3 |       16 |                 6 |      78.03 | Andres Zafra Tarazona |             55 |
 |             26 | Samuel Lagrange       |     102.85 |                77 |       17 |               nan |      96.92 | Nathan Fraissenon     |             33 |
-|             26 | Leo Aouf              |      93.09 |                37 |       18 |                31 |      91.33 | Vano Karkadze         |             33 |
+|             26 | Leo Aouf              |      93.08 |                37 |       18 |                31 |      91.34 | Vano Karkadze         |             33 |
 |             21 | Romain Sazy           |      92.61 |                38 |       19 |                15 |      86.33 | Enzo Sanga            |             12 |
-|              8 | Jules Le Bail         |     100.59 |                68 |       20 |                93 |     116.83 | Thomas Laranjeira     |              7 |
+|              8 | Jules Le Bail         |     100.6  |                68 |       20 |                93 |     116.84 | Thomas Laranjeira     |              7 |
 
