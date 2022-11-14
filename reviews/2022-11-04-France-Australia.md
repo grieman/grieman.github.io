@@ -4,7 +4,7 @@ title: Australia at France; 29.0-30.0
 date: 2022-11-04 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Australia (1616.79) at France (1780.87); 29.0-30.0
+# Australia (1616.78) at France (1780.87); 29.0-30.0
 
 # Prediction: France by 19.4
 
@@ -32,9 +32,9 @@ France by 17.0 on a neutral pitch
 |             71 | Taniela Tupou   |     105.36 |                76 |        3 |                98 |     121.15 | Uini Atonio       |             54 |
 |             80 | Nick Frost      |      88.37 |                23 |        4 |                56 |      96.43 | Cameron Woki      |             50 |
 |             54 | Cadeyrn Neville |     106    |                81 |        5 |                95 |     118.69 | Thibaud Flament   |             80 |
-|             80 | Jed Holloway    |      87.22 |                17 |        6 |                88 |     114.54 | Anthony Jelonch   |             80 |
-|             71 | Michael Hooper  |     134.06 |                99 |        7 |                98 |     129.85 | Charles Ollivon   |             80 |
-|             80 | Rob Valetini    |     101.59 |                66 |        8 |                96 |     128.69 | Gregory Alldritt  |             80 |
+|             80 | Jed Holloway    |      87.21 |                17 |        6 |                88 |     114.54 | Anthony Jelonch   |             80 |
+|             71 | Michael Hooper  |     134.06 |                99 |        7 |                98 |     129.84 | Charles Ollivon   |             80 |
+|             80 | Rob Valetini    |     101.59 |                66 |        8 |                96 |     128.7  | Gregory Alldritt  |             80 |
 |             61 | Nic White       |     126.78 |                99 |        9 |                99 |     131.37 | Antoine Dupont    |             80 |
 |             72 | Bernard Foley   |     135.7  |                98 |       10 |                89 |     114.99 | Romain Ntamack    |             58 |
 |             80 | Tom Wright      |      87.79 |                17 |       11 |                90 |     114.12 | Yoram Moefana     |             80 |

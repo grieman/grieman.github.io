@@ -4,7 +4,7 @@ title: Aurillac at Biarritz Olympique; 16-31
 date: 2022-11-04 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Aurillac (1359.2) at Biarritz Olympique (1446.08); 16-31
+# Aurillac (1359.22) at Biarritz Olympique (1446.09); 16-31
 
 # Prediction: Biarritz Olympique by 11.7
 
@@ -27,14 +27,14 @@ Biarritz Olympique by 7.9 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             49 | Robert Rodgers        |      89.71 |               nan |        1 |                32 |      92.11 | Baptiste Erdocio  |             75 |
+|             49 | Robert Rodgers        |      89.71 |               nan |        1 |                32 |      92.12 | Baptiste Erdocio  |             75 |
 |             52 | Ronan Loughnane       |      95    |               nan |        2 |                47 |      94.17 | Thomas Sauveterre |             80 |
 |             49 | Henzo Kiteau          |      91.61 |               nan |        3 |                94 |     113.55 | Guy Millar        |             70 |
 |             80 | Georgi Javakhia       |     101.95 |                74 |        4 |                11 |      85.31 | Dave O'Callaghan  |             52 |
 |             60 | Jean-Baptiste Singer  |      84.64 |                14 |        5 |                60 |      97.82 | Josh Tyrell       |             80 |
-|             80 | Beka Shvangiradze     |      89.43 |                25 |        6 |                42 |      93.51 | Simon Augry       |             80 |
-|             80 | Théo Cambon           |      85    |                12 |        7 |                65 |      99.67 | Thomas Hebert     |             80 |
-|             60 | Latuka Maituku        |      80.18 |                10 |        8 |                46 |      95    | Charlie Francoz   |             60 |
+|             80 | Beka Shvangiradze     |      89.43 |                25 |        6 |                43 |      93.51 | Simon Augry       |             80 |
+|             80 | Théo Cambon           |      85    |                12 |        7 |                66 |      99.67 | Thomas Hebert     |             80 |
+|             60 | Latuka Maituku        |      80.19 |                10 |        8 |                46 |      95    | Charlie Francoz   |             60 |
 |             65 | David Delarue         |      84.64 |                11 |        9 |                 8 |      82.8  | Barnabe Couilloud |             80 |
 |             60 | Marc Palmier          |      97.93 |                62 |       10 |                43 |      94.15 | Baptiste Germain  |             44 |
 |             80 | AJ Coertzen           |      83.2  |                 9 |       11 |                36 |      92.58 | Steeve Barry      |             80 |
@@ -45,8 +45,8 @@ Biarritz Olympique by 7.9 on a neutral pitch
 |             31 | Julien Royer          |      80.31 |                 6 |       16 |                 0 |      51.1  | Gilles Bosch      |             36 |
 |             31 | Giorgi Kartvelishvili |     112.84 |                93 |       17 |               nan |      95    | Temo Matiu        |             28 |
 |             28 | Luka Nioradze         |     106.32 |                84 |       18 |                50 |      94.68 | Johan Aliouat     |             20 |
-|             20 | Dylan Cretin          |     107.73 |                81 |       19 |                46 |      94.26 | Quentin Samaran   |             10 |
-|             20 | Eoghan Masterson      |      96.46 |                55 |       20 |                46 |      94.54 | Yohann Artru      |             10 |
+|             20 | Dylan Cretin          |     107.72 |                81 |       19 |                46 |      94.26 | Quentin Samaran   |             10 |
+|             20 | Eoghan Masterson      |      96.47 |                55 |       20 |                46 |      94.54 | Yohann Artru      |             10 |
 |             20 | Lucas Vaccaro         |      90.37 |                28 |       21 |                93 |     117.7  | Joe Tomane        |             10 |
 |             20 | Antoine Aucagne       |      84.69 |                13 |       22 |                21 |      89.94 | Luka Tchelidze    |              5 |
 |             15 | Boris Hadinegoro      |      95    |               nan |       23 |               nan |     nan    | nan               |            nan |

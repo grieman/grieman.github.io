@@ -30,7 +30,7 @@ Vannes by 1.6 on a neutral pitch
 |             51 | Andy Bordelai           |      98.93 |                63 |        1 |                13 |      86.35 | Tomike Mataradze         |             38 |
 |             51 | Pat Leafa               |      99.33 |                67 |        2 |                91 |     111.26 | Issam Hamel              |             55 |
 |             51 | Paga Tafili             |     116.86 |                96 |        3 |                21 |      90.69 | Aselo Ikahehegi          |             41 |
-|             80 | Joe Edwards             |     103.83 |                78 |        4 |                87 |     109.07 | Will Skelton             |             60 |
+|             80 | Joe Edwards             |     103.84 |                78 |        4 |                87 |     109.07 | Will Skelton             |             60 |
 |             51 | Ewan Thomas Johnson     |      98.22 |                63 |        5 |                10 |      80.84 | Christiaan van der Merwe |             60 |
 |             47 | Juan Bautista Pedemonte |      93.65 |                43 |        6 |                98 |     127.98 | Hugues Bastide           |             80 |
 |             80 | Francisco Gorrissen     |     133.37 |                98 |        7 |                56 |     100.22 | Shaun Adendorff          |             80 |
@@ -45,7 +45,7 @@ Vannes by 1.6 on a neutral pitch
 |             44 | Romaric Camou           |     111.59 |                88 |       16 |                92 |     111.42 | Aitor Kitutu             |             42 |
 |             33 | Léon Boulier            |     106.62 |                79 |       17 |                42 |      93.32 | Ilia Kaikatsishvili      |             39 |
 |             29 | John Afoa               |      92.94 |                36 |       18 |                10 |      83.95 | Elia Elia                |             25 |
-|             29 | Ximun Bessonart         |      87.61 |                17 |       19 |                52 |      95.74 | Maxence Barjaud          |             20 |
+|             29 | Ximun Bessonart         |      87.61 |                17 |       19 |                52 |      95.75 | Maxence Barjaud          |             20 |
 |             29 | Edoardo Iachizzi        |     106.64 |                82 |       20 |                 7 |      81.16 | Luka Plataret            |             20 |
 |             29 | Cyril Blanchard         |     100.14 |                71 |       21 |                 9 |      81.45 | Maka Polutele            |             20 |
 |             25 | Hugo Zabalza            |      90.81 |                27 |       22 |                64 |      98.92 | Yoan Cottin              |             11 |

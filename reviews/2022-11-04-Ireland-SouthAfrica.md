@@ -36,15 +36,15 @@ Ireland by 0.8 on a neutral pitch
 |             64 | Pieter-Steph du Toit |      92.44 |                37 |        7 |                98 |     128.44 | Josh van der Flier  |             80 |
 |             52 | Jasper Wiese         |     109.01 |                83 |        8 |                94 |     123.89 | Caelan Doris        |             80 |
 |             52 | Jaden Hendrikse      |     104.91 |                79 |        9 |                98 |     125.21 | Conor Murray        |             35 |
-|             80 | Damian Willemse      |     112.03 |                88 |       10 |                94 |     124.11 | Johnny Sexton       |             77 |
+|             80 | Damian Willemse      |     112.03 |                88 |       10 |                94 |     124.1  | Johnny Sexton       |             77 |
 |             65 | Makazole Mapimpi     |     115.39 |                91 |       11 |                84 |     107.73 | Mack Hansen         |             80 |
-|             80 | Damian de Allende    |     111.87 |                88 |       12 |                99 |     133.9  | Stuart McCloskey    |             27 |
+|             80 | Damian de Allende    |     111.86 |                88 |       12 |                99 |     133.9  | Stuart McCloskey    |             27 |
 |             80 | Jesse Kriel          |     126.56 |                97 |       13 |                86 |     110.06 | Garry Ringrose      |             80 |
 |             68 | Kurt-Lee Arendse     |     118.08 |                94 |       14 |                61 |      98.21 | Robert Baloucoune   |             80 |
 |             80 | Cheslin Kolbe        |     152.51 |                99 |       15 |                97 |     123.65 | Hugo Keenan         |             80 |
 |             23 | Bongi Mbonambi       |     114.71 |                93 |       16 |                84 |     106.25 | Rob Herring         |             16 |
 |             23 | Ox Nche              |     105.23 |                81 |       17 |                95 |     115.41 | Cian Healy          |             11 |
-|             34 | Vincent Koch         |      91.39 |                50 |       18 |                77 |     103.44 | Finlay Bealham      |             40 |
+|             34 | Vincent Koch         |      91.41 |                50 |       18 |                77 |     103.44 | Finlay Bealham      |             40 |
 |             45 | Franco Mostert       |     125.57 |                97 |       19 |                69 |     100.26 | Kieran Treadwell    |             16 |
 |             28 | Kwagga Smith         |     109.12 |                85 |       20 |                96 |     127.57 | Jack Conan          |             11 |
 |             16 | Deon Fourie          |     144.07 |                99 |       21 |                95 |     117.98 | Jamison Gibson-Park |             45 |

@@ -4,7 +4,7 @@ title: Leicester Tigers at Bath Rugby; 18.0-19.0
 date: 2022-11-11 14:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Leicester Tigers (1614.91) at Bath Rugby (1519.52); 18.0-19.0
+# Leicester Tigers (1614.86) at Bath Rugby (1519.52); 18.0-19.0
 
 # Prediction: Leicester Tigers by 6.5
 
@@ -27,27 +27,27 @@ Leicester Tigers by 8.8 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             57 | James Cronin         |     108    |                87 |        1 |                18 |      87.98 | Valery Morozov        |             57 |
-|             81 | Charlie Clare        |      90.78 |                27 |        2 |                17 |      91.05 | Niall Annett          |             57 |
-|             71 | Dan Cole             |     103.21 |                76 |        3 |                 7 |      82.44 | D'Arcy Rae            |             36 |
-|             81 | Harry Wells          |     121.87 |                96 |        4 |                25 |      89.58 | Fergus Lee-Warner     |             81 |
-|             51 | Calum Green          |      95.48 |                52 |        5 |                90 |     112.42 | Quinn Roux            |             63 |
+|             57 | James Cronin         |     107.99 |                87 |        1 |                18 |      87.97 | Valery Morozov        |             57 |
+|             81 | Charlie Clare        |      90.77 |                27 |        2 |                17 |      91.05 | Niall Annett          |             57 |
+|             71 | Dan Cole             |     103.21 |                77 |        3 |                 7 |      82.43 | D'Arcy Rae            |             36 |
+|             81 | Harry Wells          |     121.86 |                96 |        4 |                25 |      89.58 | Fergus Lee-Warner     |             81 |
+|             51 | Calum Green          |      95.49 |                52 |        5 |                90 |     112.41 | Quinn Roux            |             63 |
 |             81 | George Martin        |     102.9  |                75 |        6 |                46 |      94.44 | Ted Hill              |             81 |
-|             81 | Hanro Liebenberg     |     122.61 |                97 |        7 |                95 |     118.2  | Miles Reid            |             71 |
-|             79 | Olly Cracknell       |      90.78 |                31 |        8 |                74 |     103.67 | Richard de Carpentier |             57 |
+|             81 | Hanro Liebenberg     |     122.6  |                97 |        7 |                95 |     118.19 | Miles Reid            |             71 |
+|             79 | Olly Cracknell       |      90.75 |                31 |        8 |                74 |     103.66 | Richard de Carpentier |             57 |
 |             81 | Richard Wigglesworth |     116.46 |                94 |        9 |                69 |     100.46 | Ben Spencer           |             79 |
-|             81 | Freddie Burns        |     126.3  |                96 |       10 |                25 |      90.3  | Orlando Bailey        |             81 |
-|             73 | Nemani Nadolo        |     125.88 |                97 |       11 |                98 |     130.34 | Matt Gallagher        |             81 |
-|             81 | Matt Scott           |     100.26 |                65 |       12 |                37 |      92.04 | Ollie Lawrence        |             81 |
+|             81 | Freddie Burns        |     126.3  |                96 |       10 |                25 |      90.28 | Orlando Bailey        |             81 |
+|             73 | Nemani Nadolo        |     125.88 |                97 |       11 |                98 |     130.33 | Matt Gallagher        |             81 |
+|             81 | Matt Scott           |     100.26 |                66 |       12 |                37 |      92.04 | Ollie Lawrence        |             81 |
 |             81 | Harry Potter         |      96.08 |                51 |       13 |                90 |     115.13 | Jonathan Joseph       |             81 |
-|             81 | Chris Ashton         |     129.04 |                98 |       14 |                79 |     104.31 | Will Butt             |             81 |
-|             81 | Anthony Watson       |      92.8  |                37 |       15 |                71 |     103.28 | James Shillcock       |             54 |
+|             81 | Chris Ashton         |     129.04 |                99 |       14 |                79 |     104.31 | Will Butt             |             81 |
+|             81 | Anthony Watson       |      92.79 |                37 |       15 |                71 |     103.28 | James Shillcock       |             54 |
 |              0 | Tom Cowan-Dickie     |      94.92 |               nan |       16 |                95 |     117.15 | Tom Dunn              |             24 |
-|             24 | Francois van Wyk     |     106.31 |                86 |       17 |                58 |      97.59 | Arthur Cordwell       |             24 |
+|             24 | Francois van Wyk     |     106.31 |                86 |       17 |                58 |      97.58 | Arthur Cordwell       |             24 |
 |             10 | Will Hurd            |      93.53 |               nan |       18 |               nan |      91.76 | Johannes Jonker       |             45 |
 |             30 | Eli Snyman           |      86.24 |                20 |       19 |                29 |      91.6  | Tom Ellis             |             18 |
 |              2 | Sean Jansen          |      93.93 |                41 |       20 |                13 |      85.89 | Josh Bayliss          |             24 |
-|              0 | Sam Edwards          |      95    |               nan |       21 |                20 |      89.1  | Max Green             |              2 |
-|              8 | Charlie Atkinson     |     100.66 |                68 |       22 |                81 |     106.44 | Cameron Redpath       |             27 |
-|              0 | Phil Cokanasiga      |      81.9  |                10 |       23 |                40 |      95.88 | Wesley White          |             10 |
+|              0 | Sam Edwards          |      95    |               nan |       21 |                20 |      89.09 | Max Green             |              2 |
+|              8 | Charlie Atkinson     |     100.65 |                67 |       22 |                81 |     106.65 | Cameron Redpath       |             27 |
+|              0 | Phil Cokanasiga      |      81.9  |                10 |       23 |                39 |      95.88 | Wesley White          |             10 |
 

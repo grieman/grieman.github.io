@@ -4,10 +4,10 @@ title: Argentina at Scotland
 date: 2022-11-19 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Argentina (~1594.87) at Scotland (~1589.25)
+# Argentina (~1594.83) at Scotland (~1606.7)
 
-# Prediction: Scotland by 2.4
+# Prediction: Scotland by 4.2
 
 
-Argentina by 0.6 on a neutral pitch
+Scotland by 1.2 on a neutral pitch
 
