@@ -1,3 +1,4 @@
 {
-    "workbench.colorTheme": "Abyss"
+    "workbench.colorTheme": "Abyss",
+    "python.analysis.typeCheckingMode": "basic"
 }
