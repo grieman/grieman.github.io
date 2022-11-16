@@ -1,0 +1,62 @@
+---  
+layout: page  
+title: Hamish Stewart  
+date: 2022-11-15 23:42:53.844750  
+categories: player  
+---
+# Hamish Stewart
+
+## Positions: C, H
+
+## Country: Chile
+
+## Current elo: 81.0
+
+## Current Percentile: 83.0
+
+# Elo History
+
+
+![elo history](history_HamishStewart.png)
+# Match History
+
+
+| Team              |   Appearances |   Win Rate |
+|:------------------|--------------:|-----------:|
+| Queensland Reds   |            81 |   0.487654 |
+| Chile             |             6 |   0.166667 |
+| Selknam           |             5 |   0.4      |
+| Dallas Jackals    |             3 |   0        |
+| Seattle Seawolves |             1 |   0        |
+
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Brumbies                 |        13 |   0.538462 |
+| Melbourne Rebels         |        12 |   0.708333 |
+| New South Wales Waratahs |        10 |   0.5      |
+| Highlanders              |         5 |   0        |
+| Sunwolves                |         5 |   0.8      |
+| Western Force            |         5 |   0.8      |
+| Crusaders                |         5 |   0        |
+| Chiefs                   |         4 |   0.25     |
+| Blues                    |         4 |   0.25     |
+| Hurricanes               |         3 |   0        |
+| Jaguares                 |         3 |   0.333333 |
+| Bulls                    |         3 |   0.666667 |
+| Romania                  |         2 |   0        |
+| United States of America |         2 |   0.5      |
+| Lions                    |         2 |   0.5      |
+| Stormers                 |         2 |   0.5      |
+| Olimpia Lions            |         2 |   0.5      |
+| Penarol Rugby            |         2 |   0.5      |
+| Sharks                   |         2 |   0.5      |
+| Tonga                    |         1 |   0        |
+| Southern Kings           |         1 |   1        |
+| Fijian Drua              |         1 |   1        |
+| Portugal                 |         1 |   0        |
+| NOLA Gold                |         1 |   0        |
+| Moana Pasifika           |         1 |   1        |
+| L. A. Giltinis           |         1 |   0        |
+| Jaguares XV              |         1 |   0        |
+| Houston SaberCats        |         1 |   0        |
+| Austin Gilgronis         |         1 |   0        |

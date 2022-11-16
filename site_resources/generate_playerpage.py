@@ -18,6 +18,7 @@ import datetime
 import pickle
 from IPython.display import display
 from tabulate import tabulate
+import tqdm
 
 pd.options.display.max_columns = None
 
@@ -104,8 +105,9 @@ def main(named_players):
     percentile_df['dates'] = pd.to_datetime(percentile_df['year'].astype(int).astype(str)  + percentile_df['month'].astype(int).astype(str).str.pad(2, fillchar = '0'), format='%Y%m')
 
     ## Data loaded
-    for player in named_players:
-        # Takeshi Hino
+    # Limit named_players to those that are not already in playerfiles
+
+    for player in tqdm.tqdm(named_players):
         playerid = player_elo[player_elo['Full Name'] == player].Unicode_ID.iloc[0]
         player_df = player_elo[player_elo.Unicode_ID == playerid].copy()
         player_df['opponent'] = np.where(player_df.Team == player_df['Home Team'], player_df['Away Team'], player_df['Home Team'])
@@ -115,7 +117,6 @@ def main(named_players):
         player_df.loc[player_df['Home Score'] == player_df['Away Score'], 'win'] = 0.5
 
         name = player_df.Full_Name.iloc[0]
-        print(name)
         current_elo = player_df.end_elo.iloc[-1]
         try:
             current_percentile = player_df.merge(make_current_percentile(starters, player_df.Date.iloc[-1])).percentile[0]

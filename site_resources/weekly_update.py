@@ -47,7 +47,7 @@ def clean_leading_space(orig_name, new_name):
                 else:
                     out_file.write(line)
 
-files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*') + glob.glob('playerfiles/*')
+files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')
 for f in files:
     os.remove(f)
 
@@ -154,8 +154,8 @@ for recent_game in recent_games:
         named_players.append(home_team['Home Player'])
         named_players.append(away_team['Away Player'])
 
-        home_team['Home Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
-        away_team['Away Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
+        home_team['Home Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
+        away_team['Away Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
 
         all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
         all_players = all_players.sort_values('Number')
@@ -308,8 +308,8 @@ for future_game in future_games:
     named_players.append(home_team['Home Player'])
     named_players.append(away_team['Away Player'])
 
-    home_team['Home Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
-    away_team['Away Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
+    home_team['Home Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
+    away_team['Away Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
 
     all_players = pd.merge(home_team, away_team, on = 'Number')
     all_players = all_players.sort_values('Number')
@@ -484,7 +484,7 @@ clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 
 ## run generate playerpage for all named players
 import generate_playerpage
-named_players = list(set(pd.concat(named_players)))
+named_players = list(set(list(pd.concat(named_players))))
 generate_playerpage.main(named_players)
 
 

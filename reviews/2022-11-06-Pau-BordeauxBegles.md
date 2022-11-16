@@ -17,29 +17,29 @@ Pau by 6.8 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
-|---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             46 | Lekso Kaulashvili       |     113.84 |                95 |        1 |                80 |     103.52 | Ignacio Calles      |             54 |
-|             35 | Pablo Dimcheff          |      94.67 |                44 |        2 |                22 |      91.21 | Youri Delhommel     |             41 |
-|             46 | Vadim Cobilas           |     121.85 |                98 |        3 |                89 |     110.02 | Siate Tokolahi      |             54 |
-|             80 | Kane Douglas            |      96.16 |                53 |        4 |                 4 |      76.11 | Guillaume Ducat     |             67 |
-|             65 | Alban Roussel           |      94.97 |                45 |        5 |                67 |      99.71 | Fabrice Metz        |             80 |
-|             80 | Pierre Bochaton         |      95.53 |                54 |        6 |                33 |      93.02 | Sacha Zegueur       |             59 |
-|             53 | Mahamadou Diaby         |      88.8  |                22 |        7 |                92 |     114.01 | Luke Whitelock      |             80 |
-|             80 | Caleb Timu              |      86.24 |                17 |        8 |                35 |      92.19 | Jordan Joseph       |             80 |
-|             53 | Jules Gimbert           |      83.8  |               nan |        9 |                96 |     118.97 | Thibault Daubagna   |             44 |
-|             80 | Zack Holmes             |     125.46 |                95 |       10 |                59 |      97.73 | Thibault Debaes     |             80 |
-|             46 | Madosh Tambwe           |     120.15 |                95 |       11 |                99 |     132.47 | Clement Laporte     |             80 |
-|             80 | Federico Mori           |      81    |                 8 |       12 |                66 |     100.38 | Jale Vatubua        |              5 |
-|             21 | Tani Vili               |      91.91 |                36 |       13 |                95 |     120.29 | Tumua Manu          |             80 |
-|             80 | Geoffrey Cros           |      98.81 |                63 |       14 |                55 |      97.15 | Daniel Ikpefan      |             73 |
-|             80 | Louis Bielle-Biarrey    |      88.88 |                23 |       15 |                72 |     103.66 | Jack Maddocks       |             80 |
-|             59 | Gatien Masse            |      94.99 |                48 |       16 |                56 |      97.29 | Ă‰milien Gailleton  |             75 |
-|             80 | Clement Maynadier       |     120.32 |                98 |       17 |                75 |     101.72 | Romain Ruffenach    |             39 |
-|             34 | Jefferson Poirot        |      90.59 |                25 |       18 |                84 |     111.22 | Clovis Le bail      |             36 |
-|             34 | Christopher Vaotoa      |     101.13 |                68 |       19 |                55 |      96.41 | Lekima Tagitagivalu |             13 |
-|             34 | Mateo Garcia            |      91.97 |                28 |       20 |                89 |     114.73 | Remi Seneca         |             80 |
-|             27 | Renato Giammarioli      |     104.65 |                72 |       21 |                84 |     104.9  | Maks van Dyk        |             26 |
-|             27 | Yann Lesgourgues        |      88.15 |                17 |       22 |                66 |     100.11 | Martin Puech        |             21 |
-|             15 | Petero Taviraki Mailulu |      95    |               nan |       23 |               nan |      95.03 | Clement Mondinat    |              7 |
+|   Away Minutes | Away Player                                                                  |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                           |   Home Minutes |
+|---------------:|:-----------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------------|---------------:|
+|             46 | [Lekso Kaulashvili](..//playerfiles//LeksoKaulashvili_cleaned.md)            |     113.84 |                95 |        1 |                80 |     103.52 | [Ignacio Calles](..//playerfiles//IgnacioCalles_cleaned.md)           |             54 |
+|             35 | [Pablo Dimcheff](..//playerfiles//PabloDimcheff_cleaned.md)                  |      94.67 |                44 |        2 |                22 |      91.21 | [Youri Delhommel](..//playerfiles//YouriDelhommel_cleaned.md)         |             41 |
+|             46 | [Vadim Cobilas](..//playerfiles//VadimCobilas_cleaned.md)                    |     121.85 |                98 |        3 |                89 |     110.02 | [Siate Tokolahi](..//playerfiles//SiateTokolahi_cleaned.md)           |             54 |
+|             80 | [Kane Douglas](..//playerfiles//KaneDouglas_cleaned.md)                      |      96.16 |                53 |        4 |                 4 |      76.11 | [Guillaume Ducat](..//playerfiles//GuillaumeDucat_cleaned.md)         |             67 |
+|             65 | [Alban Roussel](..//playerfiles//AlbanRoussel_cleaned.md)                    |      94.97 |                45 |        5 |                67 |      99.71 | [Fabrice Metz](..//playerfiles//FabriceMetz_cleaned.md)               |             80 |
+|             80 | [Pierre Bochaton](..//playerfiles//PierreBochaton_cleaned.md)                |      95.53 |                54 |        6 |                33 |      93.02 | [Sacha Zegueur](..//playerfiles//SachaZegueur_cleaned.md)             |             59 |
+|             53 | [Mahamadou Diaby](..//playerfiles//MahamadouDiaby_cleaned.md)                |      88.8  |                22 |        7 |                92 |     114.01 | [Luke Whitelock](..//playerfiles//LukeWhitelock_cleaned.md)           |             80 |
+|             80 | [Caleb Timu](..//playerfiles//CalebTimu_cleaned.md)                          |      86.24 |                17 |        8 |                35 |      92.19 | [Jordan Joseph](..//playerfiles//JordanJoseph_cleaned.md)             |             80 |
+|             53 | [Jules Gimbert](..//playerfiles//JulesGimbert_cleaned.md)                    |      83.8  |               nan |        9 |                96 |     118.97 | [Thibault Daubagna](..//playerfiles//ThibaultDaubagna_cleaned.md)     |             44 |
+|             80 | [Zack Holmes](..//playerfiles//ZackHolmes_cleaned.md)                        |     125.46 |                95 |       10 |                59 |      97.73 | [Thibault Debaes](..//playerfiles//ThibaultDebaes_cleaned.md)         |             80 |
+|             46 | [Madosh Tambwe](..//playerfiles//MadoshTambwe_cleaned.md)                    |     120.15 |                95 |       11 |                99 |     132.47 | [Clement Laporte](..//playerfiles//ClementLaporte_cleaned.md)         |             80 |
+|             80 | [Federico Mori](..//playerfiles//FedericoMori_cleaned.md)                    |      81    |                 8 |       12 |                66 |     100.38 | [Jale Vatubua](..//playerfiles//JaleVatubua_cleaned.md)               |              5 |
+|             21 | [Tani Vili](..//playerfiles//TaniVili_cleaned.md)                            |      91.91 |                36 |       13 |                95 |     120.29 | [Tumua Manu](..//playerfiles//TumuaManu_cleaned.md)                   |             80 |
+|             80 | [Geoffrey Cros](..//playerfiles//GeoffreyCros_cleaned.md)                    |      98.81 |                63 |       14 |                55 |      97.15 | [Daniel Ikpefan](..//playerfiles//DanielIkpefan_cleaned.md)           |             73 |
+|             80 | [Louis Bielle-Biarrey](..//playerfiles//LouisBielle-Biarrey_cleaned.md)      |      88.88 |                23 |       15 |                72 |     103.66 | [Jack Maddocks](..//playerfiles//JackMaddocks_cleaned.md)             |             80 |
+|             59 | [Gatien Masse](..//playerfiles//GatienMasse_cleaned.md)                      |      94.99 |                48 |       16 |                56 |      97.29 | [Ă‰milien Gailleton](..//playerfiles//Ă‰milienGailleton_cleaned.md)   |             75 |
+|             80 | [Clement Maynadier](..//playerfiles//ClementMaynadier_cleaned.md)            |     120.32 |                98 |       17 |                75 |     101.72 | [Romain Ruffenach](..//playerfiles//RomainRuffenach_cleaned.md)       |             39 |
+|             34 | [Jefferson Poirot](..//playerfiles//JeffersonPoirot_cleaned.md)              |      90.59 |                25 |       18 |                84 |     111.22 | [Clovis Le bail](..//playerfiles//ClovisLebail_cleaned.md)            |             36 |
+|             34 | [Christopher Vaotoa](..//playerfiles//ChristopherVaotoa_cleaned.md)          |     101.13 |                68 |       19 |                55 |      96.41 | [Lekima Tagitagivalu](..//playerfiles//LekimaTagitagivalu_cleaned.md) |             13 |
+|             34 | [Mateo Garcia](..//playerfiles//MateoGarcia_cleaned.md)                      |      91.97 |                28 |       20 |                89 |     114.73 | [Remi Seneca](..//playerfiles//RemiSeneca_cleaned.md)                 |             80 |
+|             27 | [Renato Giammarioli](..//playerfiles//RenatoGiammarioli_cleaned.md)          |     104.65 |                72 |       21 |                84 |     104.9  | [Maks van Dyk](..//playerfiles//MaksvanDyk_cleaned.md)                |             26 |
+|             27 | [Yann Lesgourgues](..//playerfiles//YannLesgourgues_cleaned.md)              |      88.15 |                17 |       22 |                66 |     100.11 | [Martin Puech](..//playerfiles//MartinPuech_cleaned.md)               |             21 |
+|             15 | [Petero Taviraki Mailulu](..//playerfiles//PeteroTavirakiMailulu_cleaned.md) |      95    |               nan |       23 |               nan |      95.03 | [Clement Mondinat](..//playerfiles//ClementMondinat_cleaned.md)       |              7 |
 

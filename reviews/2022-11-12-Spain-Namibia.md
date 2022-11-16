@@ -25,21 +25,21 @@ Namibia by 9.0 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
-|---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             80 | Jason Benade               |      90.23 |                24 |        1 |                 5 |      80.86 | Thierry Futeu Youtcheu    |             80 |
-|             80 | Louis van der Westhuizen   |     118.1  |                96 |        2 |                87 |     108.68 | Vicente del Hoyo Portoles |             80 |
-|             80 | Casper Viviers             |     112.54 |               nan |        3 |                86 |     107.19 | Joel Merkler              |             80 |
-|             80 | Ruan Ludick                |      68.04 |                 1 |        4 |                40 |      92.49 | Alejandro Suarez          |             80 |
-|             80 | Johan Retief               |      96.89 |               nan |        5 |                52 |      95.91 | Matthew Foulds            |             80 |
-|             80 | Wian Conradie              |     119.04 |               nan |        6 |               nan |      95    | Mario Pichardie           |             80 |
-|             80 | Janco Venter               |     118.81 |                95 |        7 |                30 |      91.13 | Facundo Nahuel Dominguez  |             80 |
-|             80 | Prince Rivaldo Gino Gaoseb |      79.8  |                 5 |        8 |                79 |     106.32 | Afa Tauli                 |             80 |
-|             80 | Damian Stevens             |      90.78 |                27 |        9 |                 5 |      79.89 | Kerman Aurrekoetxea       |             80 |
-|             80 | Pieter Willem Steenkamp    |      95    |               nan |       10 |                25 |      90.41 | Gonzalo Vinuesa           |             80 |
-|             80 | Divan Rossouw              |     101.22 |                68 |       11 |                43 |      94.06 | Jordi Jorba Jorge         |             80 |
-|             80 | Le Roux Malan              |     103.38 |                74 |       12 |                57 |      97.6  | Alejandro Alonso Munoz    |             80 |
-|             80 | Johan Deysel (Jnr)         |     110.63 |                87 |       13 |                18 |      86.74 | Inaki Mateu               |             80 |
-|             80 | Warren Adrienne Ludwig     |      95    |               nan |       14 |                31 |      92.46 | Martin Alonso Munoz       |             80 |
-|             80 | Cliven Loubser             |     112.6  |                88 |       15 |                28 |      89.98 | JW Bell                   |             80 |
+|   Away Minutes | Away Player                                                                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                     |   Home Minutes |
+|---------------:|:----------------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------------------------|---------------:|
+|             80 | [Jason Benade](..//playerfiles//JasonBenade_cleaned.md)                           |      90.23 |                24 |        1 |                 5 |      80.86 | [Thierry Futeu Youtcheu](..//playerfiles//ThierryFuteuYoutcheu_cleaned.md)      |             80 |
+|             80 | [Louis van der Westhuizen](..//playerfiles//LouisvanderWesthuizen_cleaned.md)     |     118.1  |                96 |        2 |                87 |     108.68 | [Vicente del Hoyo Portoles](..//playerfiles//VicentedelHoyoPortoles_cleaned.md) |             80 |
+|             80 | [Casper Viviers](..//playerfiles//CasperViviers_cleaned.md)                       |     112.54 |               nan |        3 |                86 |     107.19 | [Joel Merkler](..//playerfiles//JoelMerkler_cleaned.md)                         |             80 |
+|             80 | [Ruan Ludick](..//playerfiles//RuanLudick_cleaned.md)                             |      68.04 |                 1 |        4 |                40 |      92.49 | [Alejandro Suarez](..//playerfiles//AlejandroSuarez_cleaned.md)                 |             80 |
+|             80 | [Johan Retief](..//playerfiles//JohanRetief_cleaned.md)                           |      96.89 |               nan |        5 |                52 |      95.91 | [Matthew Foulds](..//playerfiles//MatthewFoulds_cleaned.md)                     |             80 |
+|             80 | [Wian Conradie](..//playerfiles//WianConradie_cleaned.md)                         |     119.04 |               nan |        6 |               nan |      95    | [Mario Pichardie](..//playerfiles//MarioPichardie_cleaned.md)                   |             80 |
+|             80 | [Janco Venter](..//playerfiles//JancoVenter_cleaned.md)                           |     118.81 |                95 |        7 |                30 |      91.13 | [Facundo Nahuel Dominguez](..//playerfiles//FacundoNahuelDominguez_cleaned.md)  |             80 |
+|             80 | [Prince Rivaldo Gino Gaoseb](..//playerfiles//PrinceRivaldoGinoGaoseb_cleaned.md) |      79.8  |                 5 |        8 |                79 |     106.32 | [Afa Tauli](..//playerfiles//AfaTauli_cleaned.md)                               |             80 |
+|             80 | [Damian Stevens](..//playerfiles//DamianStevens_cleaned.md)                       |      90.78 |                27 |        9 |                 5 |      79.89 | [Kerman Aurrekoetxea](..//playerfiles//KermanAurrekoetxea_cleaned.md)           |             80 |
+|             80 | [Pieter Willem Steenkamp](..//playerfiles//PieterWillemSteenkamp_cleaned.md)      |      95    |               nan |       10 |                25 |      90.41 | [Gonzalo Vinuesa](..//playerfiles//GonzaloVinuesa_cleaned.md)                   |             80 |
+|             80 | [Divan Rossouw](..//playerfiles//DivanRossouw_cleaned.md)                         |     101.22 |                68 |       11 |                43 |      94.06 | [Jordi Jorba Jorge](..//playerfiles//JordiJorbaJorge_cleaned.md)                |             80 |
+|             80 | [Le Roux Malan](..//playerfiles//LeRouxMalan_cleaned.md)                          |     103.38 |                74 |       12 |                57 |      97.6  | [Alejandro Alonso Munoz](..//playerfiles//AlejandroAlonsoMunoz_cleaned.md)      |             80 |
+|             80 | [Johan Deysel (Jnr)](..//playerfiles//JohanDeysel(Jnr)_cleaned.md)                |     110.63 |                87 |       13 |                18 |      86.74 | [Inaki Mateu](..//playerfiles//InakiMateu_cleaned.md)                           |             80 |
+|             80 | [Warren Adrienne Ludwig](..//playerfiles//WarrenAdrienneLudwig_cleaned.md)        |      95    |               nan |       14 |                31 |      92.46 | [Martin Alonso Munoz](..//playerfiles//MartinAlonsoMunoz_cleaned.md)            |             80 |
+|             80 | [Cliven Loubser](..//playerfiles//ClivenLoubser_cleaned.md)                       |     112.6  |                88 |       15 |                28 |      89.98 | [JW Bell](..//playerfiles//JWBell_cleaned.md)                                   |             80 |
 
