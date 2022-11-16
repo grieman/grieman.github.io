@@ -19,6 +19,7 @@ key: page-projections
 [2022-11-19 Georgia (~1492.78) at Wales (~1622.22)](projections//2022-11-19-Wales-Georgia)
 
 [2022-11-20 Japan (~1533.89) at France (~1691.36)](projections//2022-11-20-France-Japan)
+
 ## International Test Match
 
 
@@ -39,6 +40,7 @@ key: page-projections
 [2022-11-19 Australia (~1636.7) at Ireland (~1660.41)](projections//2022-11-19-Ireland-Australia)
 
 [2022-11-20 Japan (~1533.89) at France (~1691.36)](projections//2022-11-20-France-Japan)
+
 # Professional Leagues
 
 ## Pro D2

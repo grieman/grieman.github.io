@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.patheffects as pe
 import numpy as np
 import datetime
@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
 
-sns.set_style("darkgrid")
+#sns.set_style("darkgrid")
 
 def percentile(group):
     sz = group.size-1
@@ -68,7 +68,7 @@ def score_plot(match_events, file_name, recent_game, home_color1, away_color1, h
     plt.xlabel('Minute')
 
     plt.savefig(f"reviews/recap_scores_{file_name}.png")
-    plt.clf()
+    plt.close()
     return f'recap_scores_{file_name}.png'
 
 def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2):
@@ -88,10 +88,10 @@ def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, aw
     plt.xlabel('Minute')
 
     plt.savefig(f"reviews/recap_prob_{file_name}.png")
-    plt.clf()
+    plt.close()
     return f'recap_prob_{file_name}.png'
 
-def player_history_plot(player_df):
+def player_history_plot(player_df, percentile_df):
     fig, ax = plt.subplots()
     playername = player_df.Full_Name.iloc[0]
     player_df['play_position'] = np.where(player_df.Position == 'R', np.nan, player_df.Position)
@@ -119,6 +119,7 @@ def player_history_plot(player_df):
     point = mlines.Line2D([0], [0], marker='o', color='w', label='Post Match elo',
                       markerfacecolor='black', markersize=10, ls = '')
     plt.legend(handles=[Interval50, Interval80, Interval95, point])
-
-    plt.savefig(f"playerfiles/history_{playername}.png")
-    plt.clf()
+    #plt.savefig(f"playerfiles/history_{playername.replace(' ','')}.png")
+    plt.savefig(f"playerfiles/history_{playername.replace(' ','')}.png")
+    plt.close()
+    return f"history_{playername.replace(' ','')}.png"
