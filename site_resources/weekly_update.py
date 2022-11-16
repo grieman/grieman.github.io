@@ -27,7 +27,7 @@ from plot_functions import *
 
 ## Need to ge the current home advantage? as 5 as of 8/5
 home_advantage = 5
-
+named_players = []
 
 def elo_contribition(player_df, column):
     mult = np.where(player_df.Number <= 15, (7/8), 0.234)
@@ -46,7 +46,7 @@ def clean_leading_space(orig_name, new_name):
                 else:
                     out_file.write(line)
 
-files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')
+files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*') + glob.glob('playerfiles/*')
 for f in files:
     os.remove(f)
 
@@ -109,6 +109,8 @@ match_comps = []
 match_levels = []
 
 recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=10)]
+recent_games = [x for x in recent_games if 'point_diff' in x.keys()]
+
 for recent_game in recent_games:
     
     current_players = make_current_percentile(starters, recent_game['date'])
@@ -141,6 +143,12 @@ for recent_game in recent_games:
 
     home_team.columns = ['Number', 'Home Player', 'Home Minutes', 'Home elo', 'Home Percentile']
     away_team.columns = ['Number', 'Away Player', 'Away Minutes', 'Away elo', 'Away Percentile']
+
+    named_players.append(home_team['Home Player'])
+    named_players.append(away_team['Away Player'])
+
+    home_team['Home Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
+    away_team['Away Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
 
     all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
     all_players = all_players.sort_values('Number')
@@ -283,6 +291,12 @@ for future_game in future_games:
     home_team.columns = ['Number', 'Home Player', 'Home elo', 'Home Percentile']
     away_team.columns = ['Number', 'Away Player', 'Away elo', 'Away Percentile']
 
+    named_players.append(home_team['Home Player'])
+    named_players.append(away_team['Away Player'])
+
+    home_team['Home Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
+    away_team['Away Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
+
     all_players = pd.merge(home_team, away_team, on = 'Number')
     all_players = all_players.sort_values('Number')
     all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
@@ -362,6 +376,12 @@ if dir_dom.shape[0] > 0:
             fut_dir_md.new_paragraph(row[0])
 fut_dir_md.create_md_file()
 clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
+
+
+## run generate playerpage for all named players
+import generate_playerpage
+named_players = list(set(pd.concat(named_players)))
+generate_playerpage.main(named_players)
 
 
 files = glob.glob('temp/*')

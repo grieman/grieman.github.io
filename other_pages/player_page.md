@@ -43,4 +43,6 @@ current_elo = player_df.end_elo.iloc[-1]
 current_percentile = player_df.merge(make_current_percentile(starters, player_df.Date.iloc[-1])).percentile[0]
 positions = player_df[player_df.Position != 'R'].Position.value_counts(normalize=True).loc[lambda x : x > 0.1].keys().tolist()[0:2]
 print(name, positions, np.round(current_elo, 2), current_percentile)
+
+player_history_plot(player_df, percentile_df)
 ```
