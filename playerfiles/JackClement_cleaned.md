@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Clement  
-date: 2022-11-15 23:36:15.208964  
+date: 2022-11-16 11:32:48.422917  
 categories: player  
 ---
 # Jack Clement

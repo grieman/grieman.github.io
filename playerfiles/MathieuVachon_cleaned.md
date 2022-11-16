@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Vachon  
-date: 2022-11-15 23:44:56.695778  
+date: 2022-11-16 11:21:49.568411  
 categories: player  
 ---
 # Mathieu Vachon
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 42.0
+## Current Percentile: 43.0
 
 # Elo History
 

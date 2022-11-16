@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taulupe Faletau  
-date: 2022-11-15 23:39:05.001571  
+date: 2022-11-16 11:31:03.004091  
 categories: player  
 ---
 # Taulupe Faletau
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 43.0
+## Current Percentile: 44.0
 
 # Elo History
 

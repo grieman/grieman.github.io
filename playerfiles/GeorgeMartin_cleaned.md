@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Martin  
-date: 2022-11-15 23:35:55.305212  
+date: 2022-11-16 11:35:00.682067  
 categories: player  
 ---
 # George Martin
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 

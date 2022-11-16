@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alexandre Kuntelia  
-date: 2022-11-15 23:36:20.436607  
+date: 2022-11-16 11:22:18.648696  
 categories: player  
 ---
 # Alexandre Kuntelia

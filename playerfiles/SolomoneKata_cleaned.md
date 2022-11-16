@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Solomone Kata  
-date: 2022-11-15 23:36:05.258100  
+date: 2022-11-16 11:27:45.536151  
 categories: player  
 ---
 # Solomone Kata

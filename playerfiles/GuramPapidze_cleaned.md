@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guram Papidze  
-date: 2022-11-15 23:37:02.709871  
+date: 2022-11-16 11:23:45.646186  
 categories: player  
 ---
 # Guram Papidze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 

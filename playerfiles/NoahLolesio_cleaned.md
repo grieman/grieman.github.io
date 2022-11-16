@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Noah Lolesio  
-date: 2022-11-15 23:44:28.387311  
+date: 2022-11-16 11:25:58.954794  
 categories: player  
 ---
 # Noah Lolesio
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 54.0
+## Current Percentile: 53.0
 
 # Elo History
 

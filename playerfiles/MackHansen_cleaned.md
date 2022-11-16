@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mack Hansen  
-date: 2022-11-15 23:37:25.148242  
+date: 2022-11-16 11:43:49.399494  
 categories: player  
 ---
 # Mack Hansen
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 102.0
 
 ## Current Percentile: 81.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Brookes  
-date: 2022-11-15 23:37:12.789208  
+date: 2022-11-16 11:26:14.797439  
 categories: player  
 ---
 # Kieran Brookes
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 25.0
+## Current Percentile: 24.0
 
 # Elo History
 

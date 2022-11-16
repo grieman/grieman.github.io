@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Cornelsen  
-date: 2022-11-15 23:42:47.360363  
+date: 2022-11-16 11:28:35.744107  
 categories: player  
 ---
 # Jack Cornelsen

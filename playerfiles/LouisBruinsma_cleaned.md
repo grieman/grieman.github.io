@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Bruinsma  
-date: 2022-11-15 23:41:27.168190  
+date: 2022-11-16 11:34:50.365819  
 categories: player  
 ---
 # Louis Bruinsma
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 82.0
 
-## Current Percentile: 14.0
+## Current Percentile: 15.0
 
 # Elo History
 

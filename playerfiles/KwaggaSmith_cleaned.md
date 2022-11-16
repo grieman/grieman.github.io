@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kwagga Smith  
-date: 2022-11-15 23:43:19.466890  
+date: 2022-11-16 11:22:34.147653  
 categories: player  
 ---
 # Kwagga Smith
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 

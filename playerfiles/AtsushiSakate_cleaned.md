@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Atsushi Sakate  
-date: 2022-11-15 23:44:11.544853  
+date: 2022-11-16 11:36:45.379238  
 categories: player  
 ---
 # Atsushi Sakate

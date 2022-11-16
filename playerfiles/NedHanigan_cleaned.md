@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ned Hanigan  
-date: 2022-11-15 23:42:39.976775  
+date: 2022-11-16 11:23:23.769046  
 categories: player  
 ---
 # Ned Hanigan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 29.0
+## Current Percentile: 30.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Hutchinson  
-date: 2022-11-15 23:42:36.830397  
+date: 2022-11-16 11:39:19.307920  
 categories: player  
 ---
 # Rory Hutchinson
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 40.0
+## Current Percentile: 41.0
 
 # Elo History
 

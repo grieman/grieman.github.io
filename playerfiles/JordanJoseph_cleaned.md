@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Joseph  
-date: 2022-11-15 23:45:27.547515  
+date: 2022-11-16 11:27:50.584264  
 categories: player  
 ---
 # Jordan Joseph
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 

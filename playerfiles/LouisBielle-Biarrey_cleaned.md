@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Bielle-Biarrey  
-date: 2022-11-15 23:44:04.728833  
+date: 2022-11-16 11:31:25.880522  
 categories: player  
 ---
 # Louis Bielle-Biarrey
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 

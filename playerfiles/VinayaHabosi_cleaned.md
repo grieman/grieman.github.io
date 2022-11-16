@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vinaya Habosi  
-date: 2022-11-15 23:36:16.576024  
+date: 2022-11-16 11:23:22.535825  
 categories: player  
 ---
 # Vinaya Habosi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 

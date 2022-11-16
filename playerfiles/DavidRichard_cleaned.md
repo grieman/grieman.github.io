@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Richard  
-date: 2022-11-15 23:37:54.391896  
+date: 2022-11-16 11:38:28.406123  
 categories: player  
 ---
 # David Richard

@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Robert Povey  
-date: 2022-11-15 23:37:42.659772  
+date: 2022-11-16 11:41:29.456924  
 categories: player  
 ---
 # Robert Povey
 
-## Positions: FB, FH
+## Positions: FH, FB
 
 ## Country: Canada
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 81.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,22 +23,22 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Houston SaberCats |            17 |   0.352941 |
+| Houston SaberCats |             9 |   0.222222 |
 | Canada            |             3 |   0.666667 |
 | Utah Warriors     |             3 |   0.5      |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Austin Gilgronis  |         3 |   0        |
-| L. A. Giltinis    |         3 |   0        |
-| Seattle Seawolves |         3 |   0.666667 |
-| Utah Warriors     |         3 |   0.666667 |
-| Dallas Jackals    |         2 |   1        |
-| San Diego Legion  |         2 |   0.5      |
-| Austin Herd       |         1 |   0.5      |
-| Belgium           |         1 |   1        |
-| Colorado Raptors  |         1 |   0        |
-| NOLA Gold         |         1 |   0        |
-| Netherlands       |         1 |   1        |
-| Portugal          |         1 |   0        |
-| Rugby ATL         |         1 |   0        |
+| L. A. Giltinis    |         2 |        0   |
+| Rugby ATL         |         2 |        0   |
+| Austin Gilgronis  |         1 |        0   |
+| Austin Herd       |         1 |        0.5 |
+| Belgium           |         1 |        1   |
+| Colorado Raptors  |         1 |        0   |
+| NOLA Gold         |         1 |        0   |
+| Netherlands       |         1 |        1   |
+| Old Glory DC      |         1 |        1   |
+| Portugal          |         1 |        0   |
+| San Diego Legion  |         1 |        1   |
+| Seattle Seawolves |         1 |        1   |
+| Utah Warriors     |         1 |        0   |

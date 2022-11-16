@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: So'otala Fa'aso'o  
-date: 2022-11-15 23:36:59.444291  
+date: 2022-11-16 11:23:39.023646  
 categories: player  
 ---
 # So'otala Fa'aso'o

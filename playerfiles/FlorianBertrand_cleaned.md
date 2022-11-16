@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Florian Bertrand  
-date: 2022-11-15 23:44:42.954522  
+date: 2022-11-16 11:32:13.996520  
 categories: player  
 ---
 # Florian Bertrand
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 52.0
+## Current Percentile: 53.0
 
 # Elo History
 

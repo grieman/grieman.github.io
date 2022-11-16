@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gonzalo Bertranou  
-date: 2022-11-15 23:36:36.472501  
+date: 2022-11-16 11:30:14.010945  
 categories: player  
 ---
 # Gonzalo Bertranou
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 

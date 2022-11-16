@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kalaveti Ravouvou  
-date: 2022-11-15 23:39:23.181953  
+date: 2022-11-16 11:42:35.875062  
 categories: player  
 ---
 # Kalaveti Ravouvou
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

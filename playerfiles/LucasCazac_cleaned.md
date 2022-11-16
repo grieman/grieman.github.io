@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Cazac  
-date: 2022-11-15 23:41:48.183763  
+date: 2022-11-16 11:27:49.355016  
 categories: player  
 ---
 # Lucas Cazac
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 68.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 

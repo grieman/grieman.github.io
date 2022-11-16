@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benoit Paillaugue  
-date: 2022-11-15 23:41:55.992409  
+date: 2022-11-16 11:20:43.580884  
 categories: player  
 ---
 # Benoit Paillaugue
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 114.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 

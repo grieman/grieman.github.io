@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Hodge  
-date: 2022-11-15 23:41:38.304581  
+date: 2022-11-16 11:21:08.234883  
 categories: player  
 ---
 # Josh Hodge
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 

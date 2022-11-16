@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ken Owens  
-date: 2022-11-15 23:39:16.844571  
+date: 2022-11-16 11:24:09.679351  
 categories: player  
 ---
 # Ken Owens
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 65.0
+## Current Percentile: 66.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Blamire  
-date: 2022-11-15 23:43:31.181152  
+date: 2022-11-16 11:26:43.743130  
 categories: player  
 ---
 # Jamie Blamire
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 

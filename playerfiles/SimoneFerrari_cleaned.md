@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simone Ferrari  
-date: 2022-11-15 23:40:28.173301  
+date: 2022-11-16 11:42:27.787354  
 categories: player  
 ---
 # Simone Ferrari

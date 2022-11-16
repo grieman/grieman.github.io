@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tupou Vaa'i  
-date: 2022-11-15 23:45:04.927610  
+date: 2022-11-16 11:35:41.363474  
 categories: player  
 ---
 # Tupou Vaa'i
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 66.0
+## Current Percentile: 67.0
 
 # Elo History
 

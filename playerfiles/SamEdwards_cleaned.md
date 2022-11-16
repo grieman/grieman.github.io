@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Edwards  
-date: 2022-11-15 23:43:21.163994  
+date: 2022-11-16 11:28:45.392339  
 categories: player  
 ---
 # Sam Edwards
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 

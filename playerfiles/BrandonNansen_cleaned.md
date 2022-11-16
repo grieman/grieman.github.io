@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brandon Nansen  
-date: 2022-11-15 23:41:16.124623  
+date: 2022-11-16 11:23:09.959747  
 categories: player  
 ---
 # Brandon Nansen

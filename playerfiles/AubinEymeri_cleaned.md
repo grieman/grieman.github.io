@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aubin Eymeri  
-date: 2022-11-15 23:43:42.562027  
+date: 2022-11-16 11:36:27.177923  
 categories: player  
 ---
 # Aubin Eymeri

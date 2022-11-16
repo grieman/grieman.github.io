@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Craig Casey  
-date: 2022-11-15 23:39:22.263120  
+date: 2022-11-16 11:33:28.200392  
 categories: player  
 ---
 # Craig Casey
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 100.0
+## Current elo: 99.0
 
 ## Current Percentile: 70.0
 

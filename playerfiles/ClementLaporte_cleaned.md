@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Laporte  
-date: 2022-11-15 23:43:06.412384  
+date: 2022-11-16 11:39:06.304711  
 categories: player  
 ---
 # Clement Laporte

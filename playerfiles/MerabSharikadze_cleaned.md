@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Merab Sharikadze  
-date: 2022-11-15 23:37:23.288726  
+date: 2022-11-16 11:32:45.774199  
 categories: player  
 ---
 # Merab Sharikadze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 74.0
+## Current Percentile: 75.0
 
 # Elo History
 

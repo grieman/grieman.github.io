@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josselyn Bouchon  
-date: 2022-11-15 23:37:54.913892  
+date: 2022-11-16 11:24:28.679802  
 categories: player  
 ---
 # Josselyn Bouchon
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 49.0
+## Current Percentile: 50.0
 
 # Elo History
 

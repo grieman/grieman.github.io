@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Salles  
-date: 2022-11-15 23:44:20.824083  
+date: 2022-11-16 11:43:24.581596  
 categories: player  
 ---
 # Thomas Salles
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 

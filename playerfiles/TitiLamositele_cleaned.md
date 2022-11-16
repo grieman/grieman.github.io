@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Titi Lamositele  
-date: 2022-11-15 23:35:40.677638  
+date: 2022-11-16 11:25:53.040989  
 categories: player  
 ---
 # Titi Lamositele
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 29.0
+## Current Percentile: 28.0
 
 # Elo History
 

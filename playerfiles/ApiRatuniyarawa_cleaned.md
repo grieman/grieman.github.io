@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Api Ratuniyarawa  
-date: 2022-11-15 23:37:34.217858  
+date: 2022-11-16 11:35:25.266035  
 categories: player  
 ---
 # Api Ratuniyarawa
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 64.0
+## Current Percentile: 65.0
 
 # Elo History
 

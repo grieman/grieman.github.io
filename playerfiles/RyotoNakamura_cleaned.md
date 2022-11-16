@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryoto Nakamura  
-date: 2022-11-15 23:41:47.472537  
+date: 2022-11-16 11:34:56.478286  
 categories: player  
 ---
 # Ryoto Nakamura
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 

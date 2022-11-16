@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finlay Christie  
-date: 2022-11-15 23:42:53.038163  
+date: 2022-11-16 11:26:11.329717  
 categories: player  
 ---
 # Finlay Christie

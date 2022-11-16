@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Raikuna  
-date: 2022-11-15 23:36:52.510339  
+date: 2022-11-16 11:31:42.497969  
 categories: player  
 ---
 # David Raikuna
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 76.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 

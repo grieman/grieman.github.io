@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Lay  
-date: 2022-11-15 23:41:12.371816  
+date: 2022-11-16 11:42:41.450633  
 categories: player  
 ---
 # Jordan Lay
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 22.0
+## Current Percentile: 21.0
 
 # Elo History
 

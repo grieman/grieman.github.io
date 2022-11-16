@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Ignacio Brex  
-date: 2022-11-15 23:44:25.566745  
+date: 2022-11-16 11:41:14.618037  
 categories: player  
 ---
 # Juan Ignacio Brex

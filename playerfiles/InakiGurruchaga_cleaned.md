@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Gurruchaga  
-date: 2022-11-15 23:36:00.825358  
+date: 2022-11-16 11:31:24.565350  
 categories: player  
 ---
 # Inaki Gurruchaga
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 

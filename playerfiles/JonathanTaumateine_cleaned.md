@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan Taumateine  
-date: 2022-11-15 23:36:42.471232  
+date: 2022-11-16 11:21:52.917950  
 categories: player  
 ---
 # Jonathan Taumateine
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taleni Seu  
-date: 2022-11-15 23:43:59.313684  
+date: 2022-11-16 11:22:19.279958  
 categories: player  
 ---
 # Taleni Seu
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 116.0
+## Current elo: 115.0
 
 ## Current Percentile: 92.0
 

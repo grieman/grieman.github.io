@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daily Owen Limmen  
-date: 2022-11-15 23:41:15.412901  
+date: 2022-11-16 11:33:37.277458  
 categories: player  
 ---
 # Daily Owen Limmen
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 76.0
+## Current elo: 77.0
 
 ## Current Percentile: 6.0
 

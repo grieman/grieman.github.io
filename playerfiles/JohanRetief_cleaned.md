@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johan Retief  
-date: 2022-11-15 23:44:41.439691  
+date: 2022-11-16 11:25:11.421379  
 categories: player  
 ---
 # Johan Retief
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 22.0
+## Current Percentile: 23.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eli Serra-Miglietti  
-date: 2022-11-15 23:37:24.257722  
+date: 2022-11-16 11:31:17.116852  
 categories: player  
 ---
 # Eli Serra-Miglietti
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 

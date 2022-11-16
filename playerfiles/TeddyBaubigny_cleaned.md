@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy Baubigny  
-date: 2022-11-15 23:41:34.464857  
+date: 2022-11-16 11:27:12.683849  
 categories: player  
 ---
 # Teddy Baubigny

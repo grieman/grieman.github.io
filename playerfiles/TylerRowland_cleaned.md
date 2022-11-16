@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyler Rowland  
-date: 2022-11-15 23:37:10.640134  
+date: 2022-11-16 11:32:33.040679  
 categories: player  
 ---
 # Tyler Rowland
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 69.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,14 +23,19 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |             5 |        0.4 |
-| Canada         |             2 |        1   |
+| Toronto Arrows |            13 |   0.461538 |
+| Canada         |             2 |   1        |
 
-| Opponent          |   Matches |   Win Rate |
-|:------------------|----------:|-----------:|
-| Seattle Seawolves |         2 |        0.5 |
-| Belgium           |         1 |        1   |
-| Houston SaberCats |         1 |        0   |
-| Netherlands       |         1 |        1   |
-| San Diego Legion  |         1 |        0   |
-| Utah Warriors     |         1 |        1   |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| NOLA Gold              |         2 |        1   |
+| New England Free Jacks |         2 |        0.5 |
+| Old Glory DC           |         2 |        0.5 |
+| Rugby ATL              |         2 |        0   |
+| Belgium                |         1 |        1   |
+| Dallas Jackals         |         1 |        1   |
+| L. A. Giltinis         |         1 |        0   |
+| Netherlands            |         1 |        1   |
+| R.U. New York          |         1 |        0   |
+| San Diego Legion       |         1 |        0   |
+| Seattle Seawolves      |         1 |        1   |

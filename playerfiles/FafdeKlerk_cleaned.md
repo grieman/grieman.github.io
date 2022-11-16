@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Faf de Klerk  
-date: 2022-11-15 23:45:03.104348  
+date: 2022-11-16 11:27:02.904499  
 categories: player  
 ---
 # Faf de Klerk
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 

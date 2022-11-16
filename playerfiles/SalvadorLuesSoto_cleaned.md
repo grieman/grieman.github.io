@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Salvador Lues Soto  
-date: 2022-11-15 23:36:18.034731  
+date: 2022-11-16 11:37:53.382734  
 categories: player  
 ---
 # Salvador Lues Soto
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 

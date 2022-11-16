@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Schoeman  
-date: 2022-11-15 23:39:08.388833  
+date: 2022-11-16 11:28:37.021035  
 categories: player  
 ---
 # Pierre Schoeman
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 

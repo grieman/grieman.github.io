@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart Hogg  
-date: 2022-11-15 23:37:47.032211  
+date: 2022-11-16 11:24:52.443279  
 categories: player  
 ---
 # Stuart Hogg

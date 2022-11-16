@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Lucas  
-date: 2022-11-15 23:38:23.507365  
+date: 2022-11-16 11:31:51.157835  
 categories: player  
 ---
 # Pierre Lucas

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matthieu Jalibert  
-date: 2022-11-15 23:42:20.415634  
+date: 2022-11-16 11:43:43.783197  
 categories: player  
 ---
 # Matthieu Jalibert
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 84.0
+## Current Percentile: 83.0
 
 # Elo History
 

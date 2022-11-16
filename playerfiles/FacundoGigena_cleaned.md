@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Gigena  
-date: 2022-11-15 23:42:56.729385  
+date: 2022-11-16 11:33:26.516695  
 categories: player  
 ---
 # Facundo Gigena
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 

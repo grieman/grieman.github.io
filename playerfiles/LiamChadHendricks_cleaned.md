@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Liam Chad Hendricks  
-date: 2022-11-15 23:44:19.997134  
+date: 2022-11-16 11:26:30.867064  
 categories: player  
 ---
 # Liam Chad Hendricks
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 25.0
+## Current Percentile: 24.0
 
 # Elo History
 

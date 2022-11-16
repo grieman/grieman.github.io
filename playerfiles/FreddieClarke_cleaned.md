@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Clarke  
-date: 2022-11-15 23:43:37.098702  
+date: 2022-11-16 11:26:05.955793  
 categories: player  
 ---
 # Freddie Clarke
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 84.0
+## Current Percentile: 83.0
 
 # Elo History
 

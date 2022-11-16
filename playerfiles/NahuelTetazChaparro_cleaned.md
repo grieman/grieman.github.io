@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nahuel Tetaz Chaparro  
-date: 2022-11-15 23:41:59.734761  
+date: 2022-11-16 11:35:09.679168  
 categories: player  
 ---
 # Nahuel Tetaz Chaparro

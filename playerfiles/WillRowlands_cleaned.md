@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Rowlands  
-date: 2022-11-15 23:44:13.300565  
+date: 2022-11-16 11:24:46.022882  
 categories: player  
 ---
 # Will Rowlands
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 37.0
+## Current Percentile: 38.0
 
 # Elo History
 

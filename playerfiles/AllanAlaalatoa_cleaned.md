@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Allan Alaalatoa  
-date: 2022-11-15 23:43:43.715782  
+date: 2022-11-16 11:22:42.909833  
 categories: player  
 ---
 # Allan Alaalatoa

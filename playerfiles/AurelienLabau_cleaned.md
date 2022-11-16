@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aurelien Labau  
-date: 2022-11-15 23:42:25.192073  
+date: 2022-11-16 11:41:19.679559  
 categories: player  
 ---
 # Aurelien Labau

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marcos Kremer  
-date: 2022-11-15 23:37:11.794883  
+date: 2022-11-16 11:21:10.172375  
 categories: player  
 ---
 # Marcos Kremer
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 39.0
+## Current Percentile: 38.0
 
 # Elo History
 

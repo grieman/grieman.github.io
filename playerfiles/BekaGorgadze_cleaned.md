@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Gorgadze  
-date: 2022-11-15 23:35:59.733685  
+date: 2022-11-16 11:21:56.594743  
 categories: player  
 ---
 # Beka Gorgadze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 

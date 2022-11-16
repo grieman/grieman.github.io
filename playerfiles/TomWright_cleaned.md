@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Wright  
-date: 2022-11-15 23:39:09.991573  
+date: 2022-11-16 11:26:04.813461  
 categories: player  
 ---
 # Tom Wright
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 36.0
+## Current Percentile: 37.0
 
 # Elo History
 

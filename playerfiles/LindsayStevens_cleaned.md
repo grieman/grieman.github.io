@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lindsay Stevens  
-date: 2022-11-15 23:36:40.130941  
+date: 2022-11-16 11:29:11.045630  
 categories: player  
 ---
 # Lindsay Stevens
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 93.0
+## Current elo: 89.0
 
-## Current Percentile: 29.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,20 +23,20 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| L. A. Giltinis    |            10 |   0.7      |
 | Houston SaberCats |             7 |   0.142857 |
 | Canada            |             3 |   0.666667 |
+| L. A. Giltinis    |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| San Diego Legion   |         3 |   0.333333 |
-| Seattle Seawolves  |         3 |   0.333333 |
-| Utah Warriors      |         3 |   0.333333 |
-| Austin Gilgronis   |         2 |   1        |
-| Dallas Jackals     |         2 |   1        |
-| NOLA Gold          |         2 |   0        |
-| Austin Elite Rugby |         1 |   1        |
-| Belgium            |         1 |   1        |
-| Netherlands        |         1 |   1        |
-| R.U. New York      |         1 |   0        |
-| Spain              |         1 |   0        |
+| NOLA Gold          |         2 |          0 |
+| Utah Warriors      |         2 |          0 |
+| Austin Elite Rugby |         1 |          1 |
+| Austin Gilgronis   |         1 |          1 |
+| Belgium            |         1 |          1 |
+| Netherlands        |         1 |          1 |
+| R.U. New York      |         1 |          0 |
+| Rugby ATL          |         1 |          1 |
+| San Diego Legion   |         1 |          0 |
+| Seattle Seawolves  |         1 |          0 |
+| Spain              |         1 |          0 |

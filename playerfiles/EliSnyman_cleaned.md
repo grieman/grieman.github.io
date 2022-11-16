@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eli Snyman  
-date: 2022-11-15 23:37:40.352760  
+date: 2022-11-16 11:43:18.734349  
 categories: player  
 ---
 # Eli Snyman

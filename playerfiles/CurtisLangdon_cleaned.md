@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Curtis Langdon  
-date: 2022-11-15 23:38:52.429468  
+date: 2022-11-16 11:23:19.993888  
 categories: player  
 ---
 # Curtis Langdon

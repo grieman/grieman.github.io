@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Donald Brighouse  
-date: 2022-11-15 23:44:18.489257  
+date: 2022-11-16 11:36:38.262512  
 categories: player  
 ---
 # Donald Brighouse
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 35.0
+## Current Percentile: 34.0
 
 # Elo History
 

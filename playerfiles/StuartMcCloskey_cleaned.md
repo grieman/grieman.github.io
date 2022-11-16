@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart McCloskey  
-date: 2022-11-15 23:38:19.065186  
+date: 2022-11-16 11:30:27.048425  
 categories: player  
 ---
 # Stuart McCloskey

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dafydd Jenkins  
-date: 2022-11-15 23:40:35.213540  
+date: 2022-11-16 11:30:28.558786  
 categories: player  
 ---
 # Dafydd Jenkins
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 

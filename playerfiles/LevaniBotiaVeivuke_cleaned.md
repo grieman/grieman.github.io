@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Levani Botia Veivuke  
-date: 2022-11-15 23:44:42.182703  
+date: 2022-11-16 11:25:41.024655  
 categories: player  
 ---
 # Levani Botia Veivuke
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 95.0
+## Current elo: 129.0
 
 ## Current Percentile: 98.0
 

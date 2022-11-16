@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dillon Lewis  
-date: 2022-11-15 23:39:13.516908  
+date: 2022-11-16 11:31:09.164733  
 categories: player  
 ---
 # Dillon Lewis
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

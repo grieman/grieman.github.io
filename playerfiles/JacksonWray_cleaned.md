@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jackson Wray  
-date: 2022-11-15 23:44:49.102253  
+date: 2022-11-16 11:25:31.341657  
 categories: player  
 ---
 # Jackson Wray

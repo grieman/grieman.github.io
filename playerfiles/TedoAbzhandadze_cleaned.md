@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tedo Abzhandadze  
-date: 2022-11-15 23:44:55.289717  
+date: 2022-11-16 11:30:53.642932  
 categories: player  
 ---
 # Tedo Abzhandadze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 58.0
+## Current Percentile: 56.0
 
 # Elo History
 

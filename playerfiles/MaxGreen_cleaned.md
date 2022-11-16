@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Green  
-date: 2022-11-15 23:42:38.371057  
+date: 2022-11-16 11:42:01.577798  
 categories: player  
 ---
 # Max Green
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 20.0
+## Current Percentile: 21.0
 
 # Elo History
 

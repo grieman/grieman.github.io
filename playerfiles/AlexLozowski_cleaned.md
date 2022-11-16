@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Lozowski  
-date: 2022-11-15 23:43:16.976604  
+date: 2022-11-16 11:24:20.915424  
 categories: player  
 ---
 # Alex Lozowski
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 50.0
+## Current Percentile: 51.0
 
 # Elo History
 

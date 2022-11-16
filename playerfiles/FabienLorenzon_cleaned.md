@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fabien Lorenzon  
-date: 2022-11-15 23:35:37.538213  
+date: 2022-11-16 11:37:44.120907  
 categories: player  
 ---
 # Fabien Lorenzon

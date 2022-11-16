@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Singleton  
-date: 2022-11-15 23:38:25.163746  
+date: 2022-11-16 11:36:21.699202  
 categories: player  
 ---
 # Jack Singleton

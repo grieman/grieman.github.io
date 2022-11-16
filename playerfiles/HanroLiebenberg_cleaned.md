@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hanro Liebenberg  
-date: 2022-11-15 23:44:12.415010  
+date: 2022-11-16 11:25:22.533783  
 categories: player  
 ---
 # Hanro Liebenberg
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 120.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 

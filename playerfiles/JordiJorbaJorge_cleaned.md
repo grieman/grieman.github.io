@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordi Jorba Jorge  
-date: 2022-11-15 23:42:28.347886  
+date: 2022-11-16 11:35:23.811797  
 categories: player  
 ---
 # Jordi Jorba Jorge
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 43.0
+## Current Percentile: 44.0
 
 # Elo History
 

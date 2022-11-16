@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Steward  
-date: 2022-11-15 23:43:49.226400  
+date: 2022-11-16 11:26:17.680585  
 categories: player  
 ---
 # Freddie Steward
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

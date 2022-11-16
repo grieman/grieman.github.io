@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Barrett  
-date: 2022-11-15 23:40:08.108034  
+date: 2022-11-16 11:27:40.011737  
 categories: player  
 ---
 # Scott Barrett

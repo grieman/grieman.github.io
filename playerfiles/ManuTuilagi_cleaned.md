@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Tuilagi  
-date: 2022-11-15 23:37:25.910625  
+date: 2022-11-16 11:34:40.624711  
 categories: player  
 ---
 # Manu Tuilagi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 123.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 

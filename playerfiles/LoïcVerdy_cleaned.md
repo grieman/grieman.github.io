@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Loïc Verdy  
-date: 2022-11-15 23:42:31.347271  
+date: 2022-11-16 11:36:25.606473  
 categories: player  
 ---
 # Loïc Verdy

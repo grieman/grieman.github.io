@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Viliame Mata  
-date: 2022-11-15 23:42:46.656092  
+date: 2022-11-16 11:20:51.997879  
 categories: player  
 ---
 # Viliame Mata
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 39.0
+## Current Percentile: 41.0
 
 # Elo History
 

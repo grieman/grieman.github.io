@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fabrice Metz  
-date: 2022-11-15 23:41:24.656054  
+date: 2022-11-16 11:24:25.239894  
 categories: player  
 ---
 # Fabrice Metz

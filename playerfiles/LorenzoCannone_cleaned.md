@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lorenzo Cannone  
-date: 2022-11-15 23:44:52.528751  
+date: 2022-11-16 11:35:11.063874  
 categories: player  
 ---
 # Lorenzo Cannone
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 

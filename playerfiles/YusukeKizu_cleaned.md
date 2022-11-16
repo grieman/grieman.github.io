@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yusuke Kizu  
-date: 2022-11-15 23:41:02.536798  
+date: 2022-11-16 11:43:31.239403  
 categories: player  
 ---
 # Yusuke Kizu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 

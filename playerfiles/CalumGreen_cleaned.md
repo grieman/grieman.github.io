@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Calum Green  
-date: 2022-11-15 23:44:16.962009  
+date: 2022-11-16 11:34:20.001158  
 categories: player  
 ---
 # Calum Green
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 52.0
+## Current Percentile: 51.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rusiate Tuima  
-date: 2022-11-15 23:41:20.747789  
+date: 2022-11-16 11:36:09.283547  
 categories: player  
 ---
 # Rusiate Tuima
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

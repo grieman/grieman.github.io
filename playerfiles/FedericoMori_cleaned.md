@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Federico Mori  
-date: 2022-11-15 23:38:22.769321  
+date: 2022-11-16 11:39:00.768872  
 categories: player  
 ---
 # Federico Mori
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 8.0
+## Current Percentile: 7.0
 
 # Elo History
 

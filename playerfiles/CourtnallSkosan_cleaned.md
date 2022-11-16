@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Courtnall Skosan  
-date: 2022-11-15 23:38:16.395254  
+date: 2022-11-16 11:25:28.278717  
 categories: player  
 ---
 # Courtnall Skosan

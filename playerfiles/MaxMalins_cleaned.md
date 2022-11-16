@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Malins  
-date: 2022-11-15 23:44:35.319774  
+date: 2022-11-16 11:39:26.218530  
 categories: player  
 ---
 # Max Malins
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 40.0
+## Current Percentile: 41.0
 
 # Elo History
 

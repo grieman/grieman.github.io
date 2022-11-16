@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Waisea Nayacalevu Vuidravuwalu  
-date: 2022-11-15 23:40:32.654221  
+date: 2022-11-16 11:36:06.513145  
 categories: player  
 ---
 # Waisea Nayacalevu Vuidravuwalu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 95.0
+## Current elo: 124.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 

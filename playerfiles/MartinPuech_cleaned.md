@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Martin Puech  
-date: 2022-11-15 23:38:48.094724  
+date: 2022-11-16 11:38:15.013526  
 categories: player  
 ---
 # Martin Puech
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 67.0
 
 # Elo History
 

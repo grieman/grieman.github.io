@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Flynn  
-date: 2022-11-15 23:43:17.813983  
+date: 2022-11-16 11:30:29.967828  
 categories: player  
 ---
 # James Flynn
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 

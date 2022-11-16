@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tian Schoeman  
-date: 2022-11-15 23:37:56.636330  
+date: 2022-11-16 11:39:31.857178  
 categories: player  
 ---
 # Tian Schoeman
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 59.0
+## Current Percentile: 58.0
 
 # Elo History
 

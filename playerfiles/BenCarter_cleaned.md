@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Carter  
-date: 2022-11-15 23:44:53.265306  
+date: 2022-11-16 11:35:21.335917  
 categories: player  
 ---
 # Ben Carter
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 54.0
+## Current Percentile: 53.0
 
 # Elo History
 

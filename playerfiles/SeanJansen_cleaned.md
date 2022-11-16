@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean Jansen  
-date: 2022-11-15 23:36:18.773273  
+date: 2022-11-16 11:30:52.444476  
 categories: player  
 ---
 # Sean Jansen
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 42.0
 
 # Elo History
 

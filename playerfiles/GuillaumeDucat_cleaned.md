@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Ducat  
-date: 2022-11-15 23:37:52.179746  
+date: 2022-11-16 11:40:27.768846  
 categories: player  
 ---
 # Guillaume Ducat
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 4.0
+## Current Percentile: 5.0
 
 # Elo History
 

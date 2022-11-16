@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Richard de Carpentier  
-date: 2022-11-15 23:40:40.155006  
+date: 2022-11-16 11:27:00.324319  
 categories: player  
 ---
 # Richard de Carpentier
 
 ## Positions: FL, N8
 
-## Current elo: 106.0
+## Current elo: 105.0
 
 ## Current Percentile: 74.0
 

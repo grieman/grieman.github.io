@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Takuya Yamasawa  
-date: 2022-11-15 23:38:27.691279  
+date: 2022-11-16 11:32:20.648366  
 categories: player  
 ---
 # Takuya Yamasawa

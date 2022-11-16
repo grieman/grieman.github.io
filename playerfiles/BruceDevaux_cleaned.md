@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bruce Devaux  
-date: 2022-11-15 23:40:12.814936  
+date: 2022-11-16 11:36:15.604614  
 categories: player  
 ---
 # Bruce Devaux

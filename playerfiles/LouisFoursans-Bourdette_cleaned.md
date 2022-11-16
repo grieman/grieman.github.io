@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Foursans-Bourdette  
-date: 2022-11-15 23:37:15.051521  
+date: 2022-11-16 11:29:43.821606  
 categories: player  
 ---
 # Louis Foursans-Bourdette

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Timoney  
-date: 2022-11-15 23:45:24.815357  
+date: 2022-11-16 11:35:35.206307  
 categories: player  
 ---
 # Nick Timoney
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 109.0
+## Current elo: 108.0
 
 ## Current Percentile: 90.0
 

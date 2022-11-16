@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cooper Coats  
-date: 2022-11-15 23:45:09.763147  
+date: 2022-11-16 11:28:48.008278  
 categories: player  
 ---
 # Cooper Coats
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 

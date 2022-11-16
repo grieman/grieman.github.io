@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kirill Gotovtsev  
-date: 2022-11-15 23:36:29.204788  
+date: 2022-11-16 11:38:09.374382  
 categories: player  
 ---
 # Kirill Gotovtsev

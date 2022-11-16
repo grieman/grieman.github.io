@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Isa  
-date: 2022-11-15 23:43:44.493064  
+date: 2022-11-16 11:29:45.030490  
 categories: player  
 ---
 # Facundo Isa
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 120.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 

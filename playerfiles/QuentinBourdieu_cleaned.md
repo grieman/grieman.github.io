@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Bourdieu  
-date: 2022-11-15 23:43:47.476150  
+date: 2022-11-16 11:29:21.681729  
 categories: player  
 ---
 # Quentin Bourdieu
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 39.0
+## Current Percentile: 40.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emmanuel Iyogun  
-date: 2022-11-15 23:42:50.411878  
+date: 2022-11-16 11:34:37.198213  
 categories: player  
 ---
 # Emmanuel Iyogun

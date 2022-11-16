@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta Tuicuvu  
-date: 2022-11-15 23:36:12.165892  
+date: 2022-11-16 11:23:57.732054  
 categories: player  
 ---
 # Seta Tuicuvu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 167.0
+## Current elo: 166.0
 
-## Current Percentile: 49.0
+## Current Percentile: 45.0
 
 # Elo History
 

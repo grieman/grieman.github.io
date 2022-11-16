@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Akaki Tabutsadze  
-date: 2022-11-15 23:40:50.440955  
+date: 2022-11-16 11:42:55.297182  
 categories: player  
 ---
 # Akaki Tabutsadze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 59.0
+## Current Percentile: 60.0
 
 # Elo History
 

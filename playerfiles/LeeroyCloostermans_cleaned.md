@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leeroy Cloostermans  
-date: 2022-11-15 23:43:11.839106  
+date: 2022-11-16 11:36:44.059109  
 categories: player  
 ---
 # Leeroy Cloostermans
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 75.0
+## Current Percentile: 76.0
 
 # Elo History
 

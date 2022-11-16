@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marcus Smith  
-date: 2022-11-15 23:40:14.013392  
+date: 2022-11-16 11:22:15.724328  
 categories: player  
 ---
 # Marcus Smith
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 121.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 

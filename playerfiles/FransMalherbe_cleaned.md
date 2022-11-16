@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Frans Malherbe  
-date: 2022-11-15 23:39:02.402520  
+date: 2022-11-16 11:29:15.491286  
 categories: player  
 ---
 # Frans Malherbe
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 

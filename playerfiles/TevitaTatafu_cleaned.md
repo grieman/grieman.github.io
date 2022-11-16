@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita Tatafu  
-date: 2022-11-15 23:36:10.475241  
+date: 2022-11-16 11:39:37.289213  
 categories: player  
 ---
 # Tevita Tatafu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

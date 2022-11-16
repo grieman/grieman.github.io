@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ratu Rotuisolia  
-date: 2022-11-15 23:45:30.730990  
+date: 2022-11-16 11:33:44.933066  
 categories: player  
 ---
 # Ratu Rotuisolia

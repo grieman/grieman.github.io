@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Slade  
-date: 2022-11-15 23:45:03.956130  
+date: 2022-11-16 11:23:56.339403  
 categories: player  
 ---
 # Henry Slade
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 118.0
+## Current elo: 119.0
 
 ## Current Percentile: 93.0
 

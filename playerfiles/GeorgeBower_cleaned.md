@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Bower  
-date: 2022-11-15 23:37:46.198021  
+date: 2022-11-16 11:37:19.557798  
 categories: player  
 ---
 # George Bower

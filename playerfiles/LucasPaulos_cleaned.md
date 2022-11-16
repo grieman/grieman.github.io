@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Paulos  
-date: 2022-11-15 23:37:57.465762  
+date: 2022-11-16 11:34:29.685149  
 categories: player  
 ---
 # Lucas Paulos

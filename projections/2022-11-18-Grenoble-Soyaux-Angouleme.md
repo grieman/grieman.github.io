@@ -4,7 +4,7 @@ title: Soyaux-Angouleme at Grenoble
 date: 2022-11-18 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Soyaux-Angouleme (~1413.5) at Grenoble (~1436.19)
+# Soyaux-Angouleme (~1413.69) at Grenoble (~1436.27)
 
 # Prediction: Grenoble by 5.3
 

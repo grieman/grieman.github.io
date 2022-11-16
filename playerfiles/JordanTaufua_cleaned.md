@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Taufua  
-date: 2022-11-15 23:38:13.974504  
+date: 2022-11-16 11:32:55.872409  
 categories: player  
 ---
 # Jordan Taufua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 

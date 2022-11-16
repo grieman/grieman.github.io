@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Cruz Mallia  
-date: 2022-11-15 23:35:56.042265  
+date: 2022-11-16 11:28:28.892601  
 categories: player  
 ---
 # Juan Cruz Mallia

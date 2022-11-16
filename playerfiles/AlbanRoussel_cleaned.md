@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alban Roussel  
-date: 2022-11-15 23:39:16.076725  
+date: 2022-11-16 11:25:43.708140  
 categories: player  
 ---
 # Alban Roussel
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 45.0
+## Current Percentile: 46.0
 
 # Elo History
 

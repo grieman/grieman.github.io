@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luca Morisi  
-date: 2022-11-15 23:36:28.371383  
+date: 2022-11-16 11:27:46.686927  
 categories: player  
 ---
 # Luca Morisi

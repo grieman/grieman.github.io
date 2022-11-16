@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Edoardo Padovani  
-date: 2022-11-15 23:44:08.269837  
+date: 2022-11-16 11:26:18.945097  
 categories: player  
 ---
 # Edoardo Padovani

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vadim Cobilas  
-date: 2022-11-15 23:42:14.649343  
+date: 2022-11-16 11:39:15.064407  
 categories: player  
 ---
 # Vadim Cobilas

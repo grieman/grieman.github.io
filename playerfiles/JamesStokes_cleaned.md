@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Stokes  
-date: 2022-11-15 23:44:58.049666  
+date: 2022-11-16 11:23:48.190109  
 categories: player  
 ---
 # James Stokes
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 37.0
+## Current Percentile: 38.0
 
 # Elo History
 

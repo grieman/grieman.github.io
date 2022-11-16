@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan Nemer  
-date: 2022-11-15 23:42:18.768691  
+date: 2022-11-16 11:40:56.891347  
 categories: player  
 ---
 # Ivan Nemer

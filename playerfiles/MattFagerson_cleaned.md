@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Fagerson  
-date: 2022-11-15 23:40:52.817502  
+date: 2022-11-16 11:21:27.235334  
 categories: player  
 ---
 # Matt Fagerson
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 

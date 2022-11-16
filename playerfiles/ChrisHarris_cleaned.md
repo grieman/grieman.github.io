@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Harris  
-date: 2022-11-15 23:38:48.720459  
+date: 2022-11-16 11:38:49.133480  
 categories: player  
 ---
 # Chris Harris
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 78.0
+## Current Percentile: 77.0
 
 # Elo History
 

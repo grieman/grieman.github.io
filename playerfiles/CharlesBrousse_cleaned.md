@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Brousse  
-date: 2022-11-15 23:40:47.451027  
+date: 2022-11-16 11:21:31.203693  
 categories: player  
 ---
 # Charles Brousse
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

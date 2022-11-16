@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gael Fickou  
-date: 2022-11-15 23:36:43.501813  
+date: 2022-11-16 11:42:38.814330  
 categories: player  
 ---
 # Gael Fickou

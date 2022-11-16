@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Codie Taylor  
-date: 2022-11-15 23:38:05.216232  
+date: 2022-11-16 11:34:53.002621  
 categories: player  
 ---
 # Codie Taylor
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 

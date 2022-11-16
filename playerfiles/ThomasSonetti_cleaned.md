@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Sonetti  
-date: 2022-11-15 23:43:41.893515  
+date: 2022-11-16 11:32:52.584480  
 categories: player  
 ---
 # Thomas Sonetti

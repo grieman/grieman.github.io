@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: JW Bell  
-date: 2022-11-15 23:45:35.372333  
+date: 2022-11-16 11:34:48.865395  
 categories: player  
 ---
 # JW Bell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 28.0
+## Current Percentile: 29.0
 
 # Elo History
 

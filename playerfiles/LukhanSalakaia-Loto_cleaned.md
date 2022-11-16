@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lukhan Salakaia-Loto  
-date: 2022-11-15 23:41:25.430852  
+date: 2022-11-16 11:35:36.541344  
 categories: player  
 ---
 # Lukhan Salakaia-Loto
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 48.0
+## Current Percentile: 47.0
 
 # Elo History
 

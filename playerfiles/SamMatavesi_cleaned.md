@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Matavesi  
-date: 2022-11-15 23:36:32.893526  
+date: 2022-11-16 11:41:34.731516  
 categories: player  
 ---
 # Sam Matavesi
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 50.0
 

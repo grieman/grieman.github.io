@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Bruno  
-date: 2022-11-15 23:36:39.069070  
+date: 2022-11-16 11:24:33.226778  
 categories: player  
 ---
 # Pierre Bruno
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 

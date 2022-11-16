@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simione Kuruvoli  
-date: 2022-11-15 23:36:49.654511  
+date: 2022-11-16 11:30:07.575645  
 categories: player  
 ---
 # Simione Kuruvoli

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Rees-Zammit  
-date: 2022-11-15 23:45:16.204163  
+date: 2022-11-16 11:35:52.280687  
 categories: player  
 ---
 # Louis Rees-Zammit
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 60.0
+## Current Percentile: 61.0
 
 # Elo History
 

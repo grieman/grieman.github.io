@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fergus Lee-Warner  
-date: 2022-11-15 23:41:33.752142  
+date: 2022-11-16 11:42:09.702754  
 categories: player  
 ---
 # Fergus Lee-Warner
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 

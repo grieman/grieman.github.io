@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kerman Aurrekoetxea  
-date: 2022-11-15 23:36:47.346008  
+date: 2022-11-16 11:36:27.942291  
 categories: player  
 ---
 # Kerman Aurrekoetxea

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Demur Tapladze  
-date: 2022-11-15 23:42:16.524257  
+date: 2022-11-16 11:21:18.861545  
 categories: player  
 ---
 # Demur Tapladze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 63.0
+## Current Percentile: 64.0
 
 # Elo History
 

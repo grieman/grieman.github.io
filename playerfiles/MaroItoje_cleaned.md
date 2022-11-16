@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maro Itoje  
-date: 2022-11-15 23:42:40.620455  
+date: 2022-11-16 11:22:27.010564  
 categories: player  
 ---
 # Maro Itoje
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 122.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

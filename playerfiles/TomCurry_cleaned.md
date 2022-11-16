@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Curry  
-date: 2022-11-15 23:45:17.047999  
+date: 2022-11-16 11:21:24.684952  
 categories: player  
 ---
 # Tom Curry
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 

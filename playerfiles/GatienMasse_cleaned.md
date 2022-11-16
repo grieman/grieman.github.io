@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gatien Masse  
-date: 2022-11-15 23:41:07.906853  
+date: 2022-11-16 11:29:42.607257  
 categories: player  
 ---
 # Gatien Masse
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 48.0
+## Current Percentile: 49.0
 
 # Elo History
 

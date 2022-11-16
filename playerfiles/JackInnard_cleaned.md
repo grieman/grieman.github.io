@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Innard  
-date: 2022-11-15 23:40:44.404976  
+date: 2022-11-16 11:41:25.465717  
 categories: player  
 ---
 # Jack Innard
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 45.0
+## Current Percentile: 44.0
 
 # Elo History
 

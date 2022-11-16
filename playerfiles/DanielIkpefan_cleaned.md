@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daniel Ikpefan  
-date: 2022-11-15 23:37:13.686684  
+date: 2022-11-16 11:31:43.864793  
 categories: player  
 ---
 # Daniel Ikpefan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 55.0
+## Current Percentile: 56.0
 
 # Elo History
 

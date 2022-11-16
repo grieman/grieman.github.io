@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sandro Todua  
-date: 2022-11-15 23:43:49.971399  
+date: 2022-11-16 11:31:21.440824  
 categories: player  
 ---
 # Sandro Todua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 

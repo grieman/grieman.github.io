@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wimpie van der Walt  
-date: 2022-11-15 23:43:50.938906  
+date: 2022-11-16 11:29:19.704006  
 categories: player  
 ---
 # Wimpie van der Walt
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 74.0
+## Current Percentile: 75.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lasha Lomidze  
-date: 2022-11-15 23:42:37.625065  
+date: 2022-11-16 11:30:59.418161  
 categories: player  
 ---
 # Lasha Lomidze

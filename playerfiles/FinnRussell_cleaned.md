@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finn Russell  
-date: 2022-11-15 23:43:23.991017  
+date: 2022-11-16 11:37:38.569673  
 categories: player  
 ---
 # Finn Russell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 124.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

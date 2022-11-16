@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Patrick Schickerling  
-date: 2022-11-15 23:45:28.804578  
+date: 2022-11-16 11:23:49.392537  
 categories: player  
 ---
 # Patrick Schickerling

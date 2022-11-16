@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jeremy Loughman  
-date: 2022-11-15 23:43:02.809072  
+date: 2022-11-16 11:38:50.943828  
 categories: player  
 ---
 # Jeremy Loughman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

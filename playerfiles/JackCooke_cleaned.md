@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Cooke  
-date: 2022-11-15 23:36:55.053766  
+date: 2022-11-16 11:26:25.066006  
 categories: player  
 ---
 # Jack Cooke

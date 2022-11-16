@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shalva Mamukashvili  
-date: 2022-11-15 23:35:50.687710  
+date: 2022-11-16 11:23:33.056201  
 categories: player  
 ---
 # Shalva Mamukashvili
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 

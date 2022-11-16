@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Renato Giammarioli  
-date: 2022-11-15 23:44:49.909335  
+date: 2022-11-16 11:37:03.119151  
 categories: player  
 ---
 # Renato Giammarioli
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

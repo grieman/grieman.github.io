@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyril Baille  
-date: 2022-11-15 23:42:13.802527  
+date: 2022-11-16 11:28:51.054330  
 categories: player  
 ---
 # Cyril Baille
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

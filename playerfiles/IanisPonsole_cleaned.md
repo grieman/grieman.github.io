@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ianis Ponsole  
-date: 2022-11-15 23:36:30.944113  
+date: 2022-11-16 11:33:22.173849  
 categories: player  
 ---
 # Ianis Ponsole
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 

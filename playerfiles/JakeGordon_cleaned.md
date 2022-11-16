@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake Gordon  
-date: 2022-11-15 23:41:17.384665  
+date: 2022-11-16 11:21:16.459669  
 categories: player  
 ---
 # Jake Gordon
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

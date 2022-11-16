@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gonzalo Vinuesa  
-date: 2022-11-15 23:36:24.976134  
+date: 2022-11-16 11:41:56.596736  
 categories: player  
 ---
 # Gonzalo Vinuesa

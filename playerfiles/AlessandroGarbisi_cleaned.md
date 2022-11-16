@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alessandro Garbisi  
-date: 2022-11-15 23:44:46.376053  
+date: 2022-11-16 11:21:58.131926  
 categories: player  
 ---
 # Alessandro Garbisi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 71.0
+## Current Percentile: 70.0
 
 # Elo History
 

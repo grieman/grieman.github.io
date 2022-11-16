@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Delano Jansen Van der Sligte  
-date: 2022-11-15 23:37:20.124467  
+date: 2022-11-16 11:30:06.375700  
 categories: player  
 ---
 # Delano Jansen Van der Sligte
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 82.0
 
-## Current Percentile: 8.0
+## Current Percentile: 7.0
 
 # Elo History
 

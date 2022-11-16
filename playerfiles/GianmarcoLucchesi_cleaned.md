@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gianmarco Lucchesi  
-date: 2022-11-15 23:40:18.295113  
+date: 2022-11-16 11:25:25.623542  
 categories: player  
 ---
 # Gianmarco Lucchesi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 45.0
+## Current Percentile: 44.0
 
 # Elo History
 

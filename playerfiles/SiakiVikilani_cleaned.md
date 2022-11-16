@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siaki Vikilani  
-date: 2022-11-15 23:36:07.397402  
+date: 2022-11-16 11:30:08.957370  
 categories: player  
 ---
 # Siaki Vikilani
@@ -23,14 +23,16 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Canada         |             5 |        0.2 |
-| Toronto Arrows |             1 |        0   |
+| Canada         |             5 |   0.2      |
+| Toronto Arrows |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | England                  |         1 |          0 |
-| Houston SaberCats        |         1 |          0 |
+| L. A. Giltinis           |         1 |          0 |
+| NOLA Gold                |         1 |          1 |
 | Netherlands              |         1 |          1 |
 | Portugal                 |         1 |          0 |
+| R.U. New York            |         1 |          0 |
 | United States of America |         1 |          0 |
 | Wales                    |         1 |          0 |

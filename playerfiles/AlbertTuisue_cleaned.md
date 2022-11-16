@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Albert Tuisue  
-date: 2022-11-15 23:43:09.368042  
+date: 2022-11-16 11:35:42.857941  
 categories: player  
 ---
 # Albert Tuisue
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 73.0
+## Current Percentile: 72.0
 
 # Elo History
 

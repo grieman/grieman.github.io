@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gareth Anscombe  
-date: 2022-11-15 23:45:36.992456  
+date: 2022-11-16 11:38:22.883199  
 categories: player  
 ---
 # Gareth Anscombe
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 76.0
+## Current Percentile: 77.0
 
 # Elo History
 

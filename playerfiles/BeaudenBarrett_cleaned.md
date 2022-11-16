@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beauden Barrett  
-date: 2022-11-15 23:40:33.480176  
+date: 2022-11-16 11:26:57.018017  
 categories: player  
 ---
 # Beauden Barrett
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 138.0
+## Current elo: 137.0
 
 ## Current Percentile: 99.0
 

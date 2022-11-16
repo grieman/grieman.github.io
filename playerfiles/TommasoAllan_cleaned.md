@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommaso Allan  
-date: 2022-11-15 23:43:20.284399  
+date: 2022-11-16 11:39:24.916768  
 categories: player  
 ---
 # Tommaso Allan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 83.0
+## Current Percentile: 82.0
 
 # Elo History
 

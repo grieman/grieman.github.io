@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Maynadier  
-date: 2022-11-15 23:38:00.203880  
+date: 2022-11-16 11:39:11.827140  
 categories: player  
 ---
 # Clement Maynadier
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 

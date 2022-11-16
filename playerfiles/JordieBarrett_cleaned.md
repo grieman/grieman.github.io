@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordie Barrett  
-date: 2022-11-15 23:43:07.150429  
+date: 2022-11-16 11:24:18.997300  
 categories: player  
 ---
 # Jordie Barrett

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kane Douglas  
-date: 2022-11-15 23:41:50.867745  
+date: 2022-11-16 11:42:40.167745  
 categories: player  
 ---
 # Kane Douglas
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 53.0
+## Current Percentile: 52.0
 
 # Elo History
 

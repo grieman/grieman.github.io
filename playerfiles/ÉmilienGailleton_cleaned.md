@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Émilien Gailleton  
-date: 2022-11-15 23:39:19.564313  
+date: 2022-11-16 11:29:58.675889  
 categories: player  
 ---
 # Émilien Gailleton

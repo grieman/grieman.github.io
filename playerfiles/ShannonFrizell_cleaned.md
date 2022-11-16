@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shannon Frizell  
-date: 2022-11-15 23:41:59.114923  
+date: 2022-11-16 11:39:28.372074  
 categories: player  
 ---
 # Shannon Frizell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 79.0
+## Current Percentile: 78.0
 
 # Elo History
 

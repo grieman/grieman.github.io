@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yann Lesgourgues  
-date: 2022-11-15 23:40:15.612656  
+date: 2022-11-16 11:37:40.496736  
 categories: player  
 ---
 # Yann Lesgourgues
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 17.0
+## Current Percentile: 18.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Sutherland  
-date: 2022-11-15 23:42:41.945711  
+date: 2022-11-16 11:44:02.596404  
 categories: player  
 ---
 # Rory Sutherland
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 51.0
+## Current Percentile: 50.0
 
 # Elo History
 

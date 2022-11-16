@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guram Gogichashvili  
-date: 2022-11-15 23:39:51.475686  
+date: 2022-11-16 11:34:38.863533  
 categories: player  
 ---
 # Guram Gogichashvili

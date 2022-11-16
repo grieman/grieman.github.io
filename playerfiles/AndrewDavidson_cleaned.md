@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Andrew Davidson  
-date: 2022-11-15 23:44:23.323306  
+date: 2022-11-16 11:39:03.614767  
 categories: player  
 ---
 # Andrew Davidson
 
 ## Positions: L
 
-## Current elo: 92.0
+## Current elo: 91.0
 
 ## Current Percentile: 43.0
 

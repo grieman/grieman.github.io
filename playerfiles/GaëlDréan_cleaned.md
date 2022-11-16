@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaël Dréan  
-date: 2022-11-15 23:43:41.114743  
+date: 2022-11-16 11:23:02.408935  
 categories: player  
 ---
 # Gaël Dréan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 30.0
+## Current Percentile: 31.0
 
 # Elo History
 

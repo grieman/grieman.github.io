@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teti Tela  
-date: 2022-11-15 23:42:10.347224  
+date: 2022-11-16 11:38:24.486435  
 categories: player  
 ---
 # Teti Tela

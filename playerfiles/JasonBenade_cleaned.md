@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason Benade  
-date: 2022-11-15 23:38:15.534531  
+date: 2022-11-16 11:26:26.207842  
 categories: player  
 ---
 # Jason Benade
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 24.0
+## Current Percentile: 23.0
 
 # Elo History
 

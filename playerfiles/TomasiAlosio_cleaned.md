@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomasi Alosio  
-date: 2022-11-15 23:41:01.061701  
+date: 2022-11-16 11:23:34.626659  
 categories: player  
 ---
 # Tomasi Alosio

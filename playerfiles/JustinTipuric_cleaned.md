@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Justin Tipuric  
-date: 2022-11-15 23:42:13.013822  
+date: 2022-11-16 11:24:00.684237  
 categories: player  
 ---
 # Justin Tipuric
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

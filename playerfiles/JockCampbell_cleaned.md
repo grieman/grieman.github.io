@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jock Campbell  
-date: 2022-11-15 23:44:39.078542  
+date: 2022-11-16 11:21:00.764033  
 categories: player  
 ---
 # Jock Campbell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 66.0
+## Current Percentile: 67.0
 
 # Elo History
 

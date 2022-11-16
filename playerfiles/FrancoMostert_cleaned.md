@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Franco Mostert  
-date: 2022-11-15 23:45:13.755104  
+date: 2022-11-16 11:39:38.874571  
 categories: player  
 ---
 # Franco Mostert
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 128.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 

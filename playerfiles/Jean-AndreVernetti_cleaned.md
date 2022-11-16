@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Andre Vernetti  
-date: 2022-11-15 23:37:36.411135  
+date: 2022-11-16 11:22:14.368927  
 categories: player  
 ---
 # Jean-Andre Vernetti

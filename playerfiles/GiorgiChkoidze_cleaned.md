@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Chkoidze  
-date: 2022-11-15 23:39:30.722830  
+date: 2022-11-16 11:39:41.958867  
 categories: player  
 ---
 # Giorgi Chkoidze

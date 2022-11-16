@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2022-11-15 23:40:19.843220  
+date: 2022-11-16 11:30:10.724010  
 categories: player  
 ---
 # Vaso Lobzhanidze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Garry Ringrose  
-date: 2022-11-15 23:42:35.899149  
+date: 2022-11-16 11:27:06.762599  
 categories: player  
 ---
 # Garry Ringrose

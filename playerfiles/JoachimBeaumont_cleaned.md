@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joachim Beaumont  
-date: 2022-11-15 23:38:04.397728  
+date: 2022-11-16 11:37:57.329241  
 categories: player  
 ---
 # Joachim Beaumont
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 

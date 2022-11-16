@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Mondinat  
-date: 2022-11-15 23:41:17.011669  
+date: 2022-11-16 11:38:07.497482  
 categories: player  
 ---
 # Clement Mondinat

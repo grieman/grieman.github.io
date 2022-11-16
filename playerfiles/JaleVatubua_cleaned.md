@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jale Vatubua  
-date: 2022-11-15 23:43:35.504901  
+date: 2022-11-16 11:22:39.931327  
 categories: player  
 ---
 # Jale Vatubua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 66.0
+## Current Percentile: 67.0
 
 # Elo History
 

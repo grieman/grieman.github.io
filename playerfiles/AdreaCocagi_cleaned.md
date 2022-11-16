@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adrea Cocagi  
-date: 2022-11-15 23:36:57.405976  
+date: 2022-11-16 11:38:41.794251  
 categories: player  
 ---
 # Adrea Cocagi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 126.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

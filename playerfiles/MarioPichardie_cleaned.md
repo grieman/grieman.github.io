@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mario Pichardie  
-date: 2022-11-15 23:44:37.651124  
+date: 2022-11-16 11:30:39.853498  
 categories: player  
 ---
 # Mario Pichardie

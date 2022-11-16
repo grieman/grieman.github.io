@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Beard  
-date: 2022-11-15 23:40:04.665147  
+date: 2022-11-16 11:30:20.010173  
 categories: player  
 ---
 # Adam Beard

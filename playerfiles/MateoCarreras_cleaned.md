@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mateo Carreras  
-date: 2022-11-15 23:43:36.304036  
+date: 2022-11-16 11:34:03.063858  
 categories: player  
 ---
 # Mateo Carreras
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 60.0
+## Current Percentile: 61.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Chick  
-date: 2022-11-15 23:43:29.651919  
+date: 2022-11-16 11:29:06.895489  
 categories: player  
 ---
 # Callum Chick
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 54.0
+## Current Percentile: 55.0
 
 # Elo History
 

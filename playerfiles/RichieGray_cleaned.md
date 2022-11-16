@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richie Gray  
-date: 2022-11-15 23:41:08.580860  
+date: 2022-11-16 11:30:25.076662  
 categories: player  
 ---
 # Richie Gray
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 92.0
+## Current elo: 91.0
 
 ## Current Percentile: 24.0
 

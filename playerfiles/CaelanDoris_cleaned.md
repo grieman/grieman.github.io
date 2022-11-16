@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Caelan Doris  
-date: 2022-11-15 23:41:30.490536  
+date: 2022-11-16 11:31:49.501951  
 categories: player  
 ---
 # Caelan Doris
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 120.0
+## Current elo: 119.0
 
 ## Current Percentile: 93.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Valentin Delpy  
-date: 2022-11-15 23:42:00.603431  
+date: 2022-11-16 11:35:53.785585  
 categories: player  
 ---
 # Valentin Delpy

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rodrigo Fernandez Grosetete  
-date: 2022-11-15 23:36:22.427245  
+date: 2022-11-16 11:29:25.120645  
 categories: player  
 ---
 # Rodrigo Fernandez Grosetete

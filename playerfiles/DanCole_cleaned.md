@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Cole  
-date: 2022-11-15 23:42:45.808281  
+date: 2022-11-16 11:34:27.431775  
 categories: player  
 ---
 # Dan Cole

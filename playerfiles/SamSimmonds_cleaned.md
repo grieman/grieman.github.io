@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Simmonds  
-date: 2022-11-15 23:38:24.253359  
+date: 2022-11-16 11:25:14.203706  
 categories: player  
 ---
 # Sam Simmonds
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 121.0
+## Current elo: 122.0
 
 ## Current Percentile: 92.0
 

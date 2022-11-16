@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manie Libbok  
-date: 2022-11-15 23:37:31.043170  
+date: 2022-11-16 11:30:01.207892  
 categories: player  
 ---
 # Manie Libbok
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 

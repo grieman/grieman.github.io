@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Furbank  
-date: 2022-11-15 23:42:08.435060  
+date: 2022-11-16 11:37:46.885354  
 categories: player  
 ---
 # George Furbank

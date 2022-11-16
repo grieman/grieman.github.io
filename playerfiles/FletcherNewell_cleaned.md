@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fletcher Newell  
-date: 2022-11-15 23:43:39.584516  
+date: 2022-11-16 11:22:21.887454  
 categories: player  
 ---
 # Fletcher Newell

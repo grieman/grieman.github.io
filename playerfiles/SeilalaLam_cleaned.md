@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seilala Lam  
-date: 2022-11-15 23:43:26.324256  
+date: 2022-11-16 11:27:25.147190  
 categories: player  
 ---
 # Seilala Lam
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 

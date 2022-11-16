@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Bochaton  
-date: 2022-11-15 23:42:07.693041  
+date: 2022-11-16 11:28:11.210800  
 categories: player  
 ---
 # Pierre Bochaton

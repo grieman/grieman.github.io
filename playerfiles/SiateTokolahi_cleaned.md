@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siate Tokolahi  
-date: 2022-11-15 23:43:31.889398  
+date: 2022-11-16 11:20:56.726139  
 categories: player  
 ---
 # Siate Tokolahi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 

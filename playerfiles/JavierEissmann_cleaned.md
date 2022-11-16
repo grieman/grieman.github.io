@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Javier Eissmann  
-date: 2022-11-15 23:44:50.778003  
+date: 2022-11-16 11:24:04.824443  
 categories: player  
 ---
 # Javier Eissmann
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Chile
 
-## Current elo: 84.0
+## Current elo: 83.0
 
 ## Current Percentile: 18.0
 

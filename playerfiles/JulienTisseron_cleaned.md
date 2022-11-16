@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Tisseron  
-date: 2022-11-15 23:40:59.566164  
+date: 2022-11-16 11:42:07.904824  
 categories: player  
 ---
 # Julien Tisseron

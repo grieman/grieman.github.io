@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lee-Roy Atalifo  
-date: 2022-11-15 23:44:22.419374  
+date: 2022-11-16 11:44:11.549801  
 categories: player  
 ---
 # Lee-Roy Atalifo
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 20.0
+## Current Percentile: 19.0
 
 # Elo History
 

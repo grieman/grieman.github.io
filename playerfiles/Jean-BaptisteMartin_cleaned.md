@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Baptiste Martin  
-date: 2022-11-15 23:41:38.857867  
+date: 2022-11-16 11:38:16.771227  
 categories: player  
 ---
 # Jean-Baptiste Martin
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 33.0
+## Current Percentile: 32.0
 
 # Elo History
 

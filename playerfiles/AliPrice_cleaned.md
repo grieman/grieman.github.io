@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ali Price  
-date: 2022-11-15 23:38:19.785848  
+date: 2022-11-16 11:43:34.599844  
 categories: player  
 ---
 # Ali Price
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 78.0
+## Current Percentile: 77.0
 
 # Elo History
 

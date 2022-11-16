@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yutaka Nagare  
-date: 2022-11-15 23:44:09.888968  
+date: 2022-11-16 11:42:23.686384  
 categories: player  
 ---
 # Yutaka Nagare

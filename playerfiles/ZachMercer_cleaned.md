@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zach Mercer  
-date: 2022-11-15 23:44:47.066419  
+date: 2022-11-16 11:37:25.575402  
 categories: player  
 ---
 # Zach Mercer
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 59.0
+## Current Percentile: 60.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Etrillard  
-date: 2022-11-15 23:44:05.401590  
+date: 2022-11-16 11:39:51.383102  
 categories: player  
 ---
 # Anthony Etrillard

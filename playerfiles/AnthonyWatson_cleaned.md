@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Watson  
-date: 2022-11-15 23:45:43.042465  
+date: 2022-11-16 11:23:37.705988  
 categories: player  
 ---
 # Anthony Watson
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 37.0
+## Current Percentile: 38.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Nouhaillaguet  
-date: 2022-11-15 23:43:12.576145  
+date: 2022-11-16 11:22:36.912095  
 categories: player  
 ---
 # Geoffrey Nouhaillaguet
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 19.0
+## Current Percentile: 20.0
 
 # Elo History
 

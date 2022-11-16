@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Serin  
-date: 2022-11-15 23:39:34.541862  
+date: 2022-11-16 11:40:52.641377  
 categories: player  
 ---
 # Baptiste Serin

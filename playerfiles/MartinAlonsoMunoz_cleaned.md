@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Martin Alonso Munoz  
-date: 2022-11-15 23:39:17.714729  
+date: 2022-11-16 11:25:50.669907  
 categories: player  
 ---
 # Martin Alonso Munoz
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 31.0
+## Current Percentile: 32.0
 
 # Elo History
 

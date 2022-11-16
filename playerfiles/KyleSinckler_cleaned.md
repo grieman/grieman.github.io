@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Sinckler  
-date: 2022-11-15 23:44:06.069109  
+date: 2022-11-16 11:29:05.369732  
 categories: player  
 ---
 # Kyle Sinckler

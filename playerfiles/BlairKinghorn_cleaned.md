@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Blair Kinghorn  
-date: 2022-11-15 23:39:28.607531  
+date: 2022-11-16 11:42:57.964277  
 categories: player  
 ---
 # Blair Kinghorn

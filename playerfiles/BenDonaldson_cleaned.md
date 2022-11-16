@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Donaldson  
-date: 2022-11-15 23:39:30.092563  
+date: 2022-11-16 11:25:02.456560  
 categories: player  
 ---
 # Ben Donaldson
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 69.0
+## Current Percentile: 70.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Hearle  
-date: 2022-11-15 23:41:32.996712  
+date: 2022-11-16 11:23:54.777388  
 categories: player  
 ---
 # Alex Hearle
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 59.0
+## Current Percentile: 60.0
 
 # Elo History
 

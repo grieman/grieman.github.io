@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jiuta Wainiqolo  
-date: 2022-11-15 23:42:26.824611  
+date: 2022-11-16 11:40:55.785769  
 categories: player  
 ---
 # Jiuta Wainiqolo
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 41.0
+## Current Percentile: 42.0
 
 # Elo History
 

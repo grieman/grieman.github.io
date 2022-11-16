@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason Higgins  
-date: 2022-11-15 23:40:27.471512  
+date: 2022-11-16 11:33:29.562250  
 categories: player  
 ---
 # Jason Higgins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 59.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,22 +23,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| San Diego Legion |            10 |        0.4 |
 | Canada           |             5 |        0.6 |
+| San Diego Legion |             2 |        0.5 |
 | Toronto Arrows   |             1 |        0   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Austin Gilgronis         |         2 |        0   |
-| Belgium                  |         2 |        1   |
-| L. A. Giltinis           |         2 |        0.5 |
-| Dallas Jackals           |         1 |        1   |
-| Houston SaberCats        |         1 |        0   |
-| Netherlands              |         1 |        1   |
-| Old Glory DC             |         1 |        1   |
-| Rugby ATL                |         1 |        0   |
-| San Diego Legion         |         1 |        0   |
-| Seattle Seawolves        |         1 |        0   |
-| Spain                    |         1 |        0   |
-| United States of America |         1 |        0   |
-| Utah Warriors            |         1 |        1   |
+| Belgium                  |         2 |          1 |
+| NOLA Gold                |         1 |          1 |
+| Netherlands              |         1 |          1 |
+| R.U. New York            |         1 |          0 |
+| San Diego Legion         |         1 |          0 |
+| Spain                    |         1 |          0 |
+| United States of America |         1 |          0 |

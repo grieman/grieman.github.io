@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruan Ludick  
-date: 2022-11-15 23:45:33.202896  
+date: 2022-11-16 11:34:43.472097  
 categories: player  
 ---
 # Ruan Ludick

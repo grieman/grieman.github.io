@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lilian Rousset  
-date: 2022-11-15 23:42:06.067453  
+date: 2022-11-16 11:40:45.320521  
 categories: player  
 ---
 # Lilian Rousset
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 52.0
+## Current Percentile: 51.0
 
 # Elo History
 

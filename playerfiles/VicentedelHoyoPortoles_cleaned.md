@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vicente del Hoyo Portoles  
-date: 2022-11-15 23:43:34.793900  
+date: 2022-11-16 11:36:08.072180  
 categories: player  
 ---
 # Vicente del Hoyo Portoles
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 

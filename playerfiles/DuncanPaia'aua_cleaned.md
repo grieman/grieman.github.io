@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duncan Paia'aua  
-date: 2022-11-15 23:35:43.852327  
+date: 2022-11-16 11:39:09.203252  
 categories: player  
 ---
 # Duncan Paia'aua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 63.0
+## Current Percentile: 64.0
 
 # Elo History
 

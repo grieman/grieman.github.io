@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mark Alexander Coebergh  
-date: 2022-11-15 23:43:00.557190  
+date: 2022-11-16 11:34:47.110175  
 categories: player  
 ---
 # Mark Alexander Coebergh
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 14.0
+## Current Percentile: 15.0
 
 # Elo History
 

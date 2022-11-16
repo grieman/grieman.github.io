@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian Penaud  
-date: 2022-11-15 23:42:32.754260  
+date: 2022-11-16 11:26:10.088053  
 categories: player  
 ---
 # Damian Penaud
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 

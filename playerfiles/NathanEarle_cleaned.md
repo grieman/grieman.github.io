@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nathan Earle  
-date: 2022-11-15 23:41:23.046359  
+date: 2022-11-16 11:31:38.425308  
 categories: player  
 ---
 # Nathan Earle

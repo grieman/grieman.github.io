@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliot Daly  
-date: 2022-11-15 23:38:40.793735  
+date: 2022-11-16 11:39:40.487247  
 categories: player  
 ---
 # Elliot Daly

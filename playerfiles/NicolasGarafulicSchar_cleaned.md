@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Garafulic Schar  
-date: 2022-11-15 23:42:58.573009  
+date: 2022-11-16 11:20:41.036465  
 categories: player  
 ---
 # Nicolas Garafulic Schar

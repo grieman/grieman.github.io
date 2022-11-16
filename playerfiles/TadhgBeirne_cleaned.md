@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tadhg Beirne  
-date: 2022-11-15 23:38:34.086608  
+date: 2022-11-16 11:41:00.592004  
 categories: player  
 ---
 # Tadhg Beirne

@@ -4,7 +4,7 @@ title: Carcassonne at Rouen
 date: 2022-11-18 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Carcassonne (~1371.92) at Rouen (~1432.45)
+# Carcassonne (~1371.92) at Rouen (~1432.58)
 
 # Prediction: Rouen by 9.1
 

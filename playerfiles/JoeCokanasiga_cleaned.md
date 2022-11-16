@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Cokanasiga  
-date: 2022-11-15 23:39:04.120984  
+date: 2022-11-16 11:43:58.765621  
 categories: player  
 ---
 # Joe Cokanasiga
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Enzo Forletta  
-date: 2022-11-15 23:36:35.591912  
+date: 2022-11-16 11:23:46.878910  
 categories: player  
 ---
 # Enzo Forletta

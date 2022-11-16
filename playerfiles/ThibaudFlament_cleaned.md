@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud Flament  
-date: 2022-11-15 23:42:51.008336  
+date: 2022-11-16 11:27:21.596519  
 categories: player  
 ---
 # Thibaud Flament
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 

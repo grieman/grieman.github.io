@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ignacio Silva Aninat  
-date: 2022-11-15 23:40:37.350332  
+date: 2022-11-16 11:27:19.963978  
 categories: player  
 ---
 # Ignacio Silva Aninat
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 74.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 

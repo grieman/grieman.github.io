@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bastien Chalureau  
-date: 2022-11-15 23:44:19.294848  
+date: 2022-11-16 11:25:30.047345  
 categories: player  
 ---
 # Bastien Chalureau

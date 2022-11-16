@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aymeric Luc  
-date: 2022-11-15 23:36:55.788831  
+date: 2022-11-16 11:22:38.703573  
 categories: player  
 ---
 # Aymeric Luc

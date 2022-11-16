@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Cros  
-date: 2022-11-15 23:42:02.788465  
+date: 2022-11-16 11:34:06.145670  
 categories: player  
 ---
 # Geoffrey Cros
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 63.0
+## Current Percentile: 64.0
 
 # Elo History
 

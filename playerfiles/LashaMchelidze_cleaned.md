@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lasha Mchelidze  
-date: 2022-11-15 23:39:50.099921  
+date: 2022-11-16 11:21:14.887721  
 categories: player  
 ---
 # Lasha Mchelidze
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 30.0
+## Current Percentile: 29.0
 
 # Elo History
 

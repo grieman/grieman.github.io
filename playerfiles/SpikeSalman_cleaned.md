@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Spike Salman  
-date: 2022-11-15 23:35:54.675937  
+date: 2022-11-16 11:28:06.037526  
 categories: player  
 ---
 # Spike Salman
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 75.0
+## Current elo: 76.0
 
 ## Current Percentile: 4.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Collet  
-date: 2022-11-15 23:38:28.340018  
+date: 2022-11-16 11:42:38.080259  
 categories: player  
 ---
 # Baptiste Collet

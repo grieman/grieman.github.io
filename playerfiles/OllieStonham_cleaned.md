@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ollie Stonham  
-date: 2022-11-15 23:38:53.984032  
+date: 2022-11-16 11:22:30.467855  
 categories: player  
 ---
 # Ollie Stonham
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 12.0
+## Current Percentile: 11.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jessy Wagemaker  
-date: 2022-11-15 23:43:34.176047  
+date: 2022-11-16 11:34:01.828150  
 categories: player  
 ---
 # Jessy Wagemaker
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: 46.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'Angelo Leuila  
-date: 2022-11-15 23:43:22.520888  
+date: 2022-11-16 11:42:03.693595  
 categories: player  
 ---
 # D'Angelo Leuila
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 42.0
+## Current Percentile: 43.0
 
 # Elo History
 

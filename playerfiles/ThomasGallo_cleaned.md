@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Gallo  
-date: 2022-11-15 23:40:42.596615  
+date: 2022-11-16 11:21:46.181149  
 categories: player  
 ---
 # Thomas Gallo

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Danilo Fischetti  
-date: 2022-11-15 23:41:00.278459  
+date: 2022-11-16 11:40:09.121524  
 categories: player  
 ---
 # Danilo Fischetti

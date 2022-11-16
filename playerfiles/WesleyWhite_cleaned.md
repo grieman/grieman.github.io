@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wesley White  
-date: 2022-11-15 23:45:01.391845  
+date: 2022-11-16 11:22:24.025601  
 categories: player  
 ---
 # Wesley White
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 39.0
+## Current Percentile: 40.0
 
 # Elo History
 

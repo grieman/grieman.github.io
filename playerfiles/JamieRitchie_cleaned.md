@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Ritchie  
-date: 2022-11-15 23:39:01.010861  
+date: 2022-11-16 11:34:00.053563  
 categories: player  
 ---
 # Jamie Ritchie
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 129.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 

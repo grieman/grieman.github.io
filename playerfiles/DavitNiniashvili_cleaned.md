@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Davit Niniashvili  
-date: 2022-11-15 23:41:01.751570  
+date: 2022-11-16 11:40:17.804237  
 categories: player  
 ---
 # Davit Niniashvili
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 55.0
+## Current Percentile: 56.0
 
 # Elo History
 

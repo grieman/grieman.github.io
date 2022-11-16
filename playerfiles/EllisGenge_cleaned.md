@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ellis Genge  
-date: 2022-11-15 23:39:06.749340  
+date: 2022-11-16 11:35:50.586559  
 categories: player  
 ---
 # Ellis Genge
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 

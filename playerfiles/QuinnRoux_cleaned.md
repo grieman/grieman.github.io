@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quinn Roux  
-date: 2022-11-15 23:39:18.825273  
+date: 2022-11-16 11:23:26.141618  
 categories: player  
 ---
 # Quinn Roux
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
