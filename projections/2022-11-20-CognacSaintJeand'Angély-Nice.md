@@ -4,10 +4,10 @@ title: Nice at Cognac Saint Jean d'Angély
 date: 2022-11-20 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Nice (~1410.98) at Cognac Saint Jean d'Angély (~1264.09)
+# Nice (~1410.06) at Cognac Saint Jean d'Angély (~1252.91)
 
-# Prediction: Nice by 11.7
+# Prediction: Nice by 12.7
 
 
-Nice by 14.7 on a neutral pitch
+Nice by 15.7 on a neutral pitch
 

@@ -4,10 +4,10 @@ title: Bourgoin-Jallieu at Chambery
 date: 2022-11-20 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bourgoin-Jallieu (~1372.01) at Chambery (~1422.04)
+# Bourgoin-Jallieu (~1366.82) at Chambery (~1427.71)
 
-# Prediction: Chambery by 8.0
+# Prediction: Chambery by 9.1
 
 
-Chambery by 5.0 on a neutral pitch
+Chambery by 6.1 on a neutral pitch
 

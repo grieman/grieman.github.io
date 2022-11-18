@@ -4,10 +4,10 @@ title: Albi at Tarbes
 date: 2022-11-19 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Albi (~1474.55) at Tarbes (~1381.63)
+# Albi (~1467.86) at Tarbes (~1380.12)
 
-# Prediction: Albi by 6.3
+# Prediction: Albi by 5.8
 
 
-Albi by 9.3 on a neutral pitch
+Albi by 8.8 on a neutral pitch
 
