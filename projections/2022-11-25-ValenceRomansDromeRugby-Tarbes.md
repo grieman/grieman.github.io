@@ -4,10 +4,10 @@ title: Tarbes at Valence Romans Drome Rugby
 date: 2022-11-25 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Tarbes (~1380.12) at Valence Romans Drome Rugby (~1455.42)
+# Tarbes (~1413.2) at Valence Romans Drome Rugby (~1439.29)
 
-# Prediction: Valence Romans Drome Rugby by 10.5
+# Prediction: Valence Romans Drome Rugby by 5.6
 
 
-Valence Romans Drome Rugby by 7.5 on a neutral pitch
+Valence Romans Drome Rugby by 2.6 on a neutral pitch
 
