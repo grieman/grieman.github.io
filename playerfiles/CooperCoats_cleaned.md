@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cooper Coats  
-date: 2022-11-16 11:28:48.008278  
+date: 2022-11-22 11:29:03.359765  
 categories: player  
 ---
 # Cooper Coats
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 14.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,12 +23,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Canada |             6 |   0.333333 |
+| Canada |             7 |   0.285714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Belgium                  |         1 |          1 |
 | England                  |         1 |          0 |
+| Namibia                  |         1 |          0 |
 | Netherlands              |         1 |          1 |
 | Spain                    |         1 |          0 |
 | United States of America |         1 |          0 |

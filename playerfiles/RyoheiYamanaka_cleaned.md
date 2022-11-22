@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryohei Yamanaka  
-date: 2022-11-16 11:34:59.332129  
+date: 2022-11-22 11:40:28.570172  
 categories: player  
 ---
 # Ryohei Yamanaka
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 93.0
+## Current elo: 98.0
 
-## Current Percentile: 55.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------------|--------------:|-----------:|
 | Kobelco Kobe Steelers |            46 |   0.73913  |
 | Sunwolves             |            18 |   0.166667 |
-| Japan                 |            15 |   0.333333 |
+| Japan                 |            16 |   0.3125   |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -35,10 +35,11 @@ categories: player
 | Saitama Wild Knights              |         4 |   0.125    |
 | NTT Docomo Red Hurricanes Osaka   |         4 |   0.75     |
 | Black Rams Tokyo                  |         3 |   1        |
+| France                            |         3 |   0        |
 | Urayasu D-Rocks                   |         3 |   0.666667 |
 | Toyota Verblitz                   |         3 |   0.5      |
-| Tokyo Sungoliath                  |         3 |   0.666667 |
 | Ireland                           |         3 |   0.333333 |
+| Tokyo Sungoliath                  |         3 |   0.666667 |
 | New South Wales Waratahs          |         2 |   0.5      |
 | Toyota Industries Shuttles Aichi  |         2 |   1        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
@@ -47,22 +48,21 @@ categories: player
 | Scotland                          |         2 |   0.5      |
 | New Zealand                       |         2 |   0        |
 | Coca-Cola Red Sparks              |         2 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
-| France                            |         2 |   0        |
 | Bulls                             |         2 |   0.5      |
 | Hurricanes                        |         2 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Lions                             |         2 |   0        |
-| British and Irish Lions           |         1 |   0        |
+| Blues                             |         1 |   1        |
+| South Africa                      |         1 |   0        |
 | Highlanders                       |         1 |   0        |
 | Hino Red Dolphins                 |         1 |   1        |
 | Jaguares                          |         1 |   0        |
-| South Africa                      |         1 |   0        |
-| Blues                             |         1 |   1        |
+| British and Irish Lions           |         1 |   0        |
 | Mie Honda Heat                    |         1 |   1        |
+| Melbourne Rebels                  |         1 |   0        |
 | Samoa                             |         1 |   1        |
 | Brumbies                          |         1 |   0        |
 | Russia                            |         1 |   1        |
 | Queensland Reds                   |         1 |   0        |
 | England                           |         1 |   0        |
-| Melbourne Rebels                  |         1 |   0        |
 | Portugal                          |         1 |   1        |

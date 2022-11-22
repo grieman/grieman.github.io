@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marcus Smith  
-date: 2022-11-16 11:22:15.724328  
+date: 2022-11-22 11:38:13.387550  
 categories: player  
 ---
 # Marcus Smith
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 121.0
+## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |           122 |   0.5      |
-| England    |            15 |   0.666667 |
+| Harlequins |           122 |    0.5     |
+| England    |            16 |    0.65625 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -51,6 +51,7 @@ categories: player
 | Argentina                |         1 |   0        |
 | Italy                    |         1 |   1        |
 | Ireland                  |         1 |   0        |
+| New Zealand              |         1 |   0.5      |
 | France                   |         1 |   0        |
 | Castres Olympique        |         1 |   1        |
 | Scotland                 |         1 |   0        |

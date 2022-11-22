@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Theo Dan  
-date: 2022-11-16 11:29:00.982682  
+date: 2022-11-22 11:43:52.858304  
 categories: player  
 ---
 # Theo Dan
 
 ## Positions: H
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 

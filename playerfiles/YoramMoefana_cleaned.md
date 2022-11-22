@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoram Moefana  
-date: 2022-11-16 11:42:44.354144  
+date: 2022-11-22 11:47:28.584731  
 categories: player  
 ---
 # Yoram Moefana
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 86.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bordeaux Begles |            42 |   0.595238 |
-| France          |             8 |   1        |
+| France          |             9 |   1        |
 | Colomiers       |             3 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,17 +33,17 @@ categories: player
 | Lyon                 |         4 |   0.5      |
 | Bayonne              |         4 |   0.5      |
 | Castres Olympique    |         4 |   0.875    |
-| La Rochelle          |         3 |   0        |
 | Stade Toulousain     |         3 |   0.333333 |
 | Brive                |         3 |   0.666667 |
 | Stade Francais Paris |         3 |   0.666667 |
 | Racing 92            |         3 |   1        |
+| Japan                |         3 |   1        |
+| La Rochelle          |         3 |   0        |
 | Perpignan            |         2 |   0.5      |
 | Pau                  |         2 |   1        |
 | Agen                 |         2 |   1        |
-| Japan                |         2 |   1        |
-| Leicester Tigers     |         1 |   0        |
 | Australia            |         1 |   1        |
+| Leicester Tigers     |         1 |   0        |
 | Nevers               |         1 |   0        |
 | Italy                |         1 |   1        |
 | Ireland              |         1 |   1        |

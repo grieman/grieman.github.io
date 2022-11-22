@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Brock Webster  
-date: 2022-11-16 11:24:11.323814  
+date: 2022-11-22 11:30:12.545316  
 categories: player  
 ---
 # Brock Webster
 
-## Positions: W, FB
+## Positions: W
 
 ## Country: Canada
 
-## Current elo: 98.0
+## Current elo: 97.0
 
-## Current Percentile: 58.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,17 +23,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Canada         |             5 |       0.4  |
-| Toronto Arrows |             4 |       0.75 |
+| Canada         |             6 |   0.333333 |
+| Toronto Arrows |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Belgium                  |         1 |          1 |
-| NOLA Gold                |         1 |          1 |
+| Namibia                  |         1 |          0 |
 | Netherlands              |         1 |          1 |
-| New England Free Jacks   |         1 |          0 |
-| Old Glory DC             |         1 |          1 |
 | Portugal                 |         1 |          0 |
-| R.U. New York            |         1 |          1 |
 | Spain                    |         1 |          0 |
 | United States of America |         1 |          0 |
+| Utah Warriors            |         1 |          1 |

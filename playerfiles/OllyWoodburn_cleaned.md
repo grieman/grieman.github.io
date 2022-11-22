@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Olly Woodburn  
-date: 2022-11-16 11:32:18.992981  
+date: 2022-11-22 11:28:04.468491  
 categories: player  
 ---
 # Olly Woodburn
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 

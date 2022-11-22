@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nodar Cheishvili  
-date: 2022-11-16 11:24:01.991461  
+date: 2022-11-22 11:44:48.587687  
 categories: player  
 ---
 # Nodar Cheishvili
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 127.0
+## Current elo: 132.0
 
 ## Current Percentile: 97.0
 
@@ -23,20 +23,21 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Georgia         |            27 |   0.722222 |
+| Georgia         |            28 |   0.732143 |
 | Black Lion      |             6 |   0.833333 |
 | London Scottish |             2 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| Portugal               |         3 |   0.833333 |
 | Belgium                |         3 |   1        |
 | Italy                  |         3 |   0.333333 |
+| Portugal               |         3 |   0.833333 |
 | Netherlands            |         2 |   1        |
+| Romania                |         2 |   1        |
 | Spain                  |         2 |   1        |
 | Samoa                  |         2 |   0.5      |
 | Russia                 |         2 |   1        |
-| Romania                |         2 |   1        |
+| Wales                  |         1 |   1        |
 | Uruguay                |         1 |   1        |
 | Tonga                  |         1 |   1        |
 | South Africa           |         1 |   0        |

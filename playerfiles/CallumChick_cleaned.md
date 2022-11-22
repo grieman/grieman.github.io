@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Chick  
-date: 2022-11-16 11:29:06.895489  
+date: 2022-11-22 11:44:45.403592  
 categories: player  
 ---
 # Callum Chick
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 100.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 41.0
 
 # Elo History
 

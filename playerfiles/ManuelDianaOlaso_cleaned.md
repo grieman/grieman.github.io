@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manuel Diana Olaso  
-date: 2022-11-16 11:29:34.176850  
+date: 2022-11-22 11:30:53.555581  
 categories: player  
 ---
 # Manuel Diana Olaso
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 102.0
+## Current elo: 98.0
 
-## Current Percentile: 56.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Uruguay        |            12 |        0.5 |
-| Toronto Arrows |             6 |        0.5 |
+| Uruguay        |            14 |   0.428571 |
+| Toronto Arrows |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,9 +36,11 @@ categories: player
 | Brazil                   |         1 |   1        |
 | Colorado Raptors         |         1 |   0        |
 | Fiji                     |         1 |   1        |
+| Georgia                  |         1 |   0        |
 | Italy                    |         1 |   0        |
 | L. A. Giltinis           |         1 |   0        |
 | Namibia                  |         1 |   1        |
 | San Diego Legion         |         1 |   0        |
+| Tonga                    |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart Hogg  
-date: 2022-11-16 11:24:52.443279  
+date: 2022-11-22 11:28:39.858862  
 categories: player  
 ---
 # Stuart Hogg
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 108.0
+## Current elo: 110.0
 
-## Current Percentile: 77.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Glasgow Warriors        |           121 |   0.595041 |
-| Scotland                |            91 |   0.483516 |
+| Scotland                |            92 |   0.48913  |
 | Exeter Chiefs           |            55 |   0.772727 |
 | British and Irish Lions |             4 |   0.75     |
 
@@ -47,13 +47,13 @@ categories: player
 | Saracens                 |         7 |   0.285714 |
 | South Africa             |         7 |   0.142857 |
 | Northampton Saints       |         7 |   0.428571 |
+| Argentina                |         6 |   1        |
 | Racing 92                |         5 |   0.8      |
 | Gloucester Rugby         |         5 |   0.8      |
 | Worcester Warriors       |         5 |   1        |
 | Bristol Rugby            |         5 |   0.6      |
 | Japan                    |         5 |   0.8      |
 | Ospreys                  |         5 |   0.6      |
-| Argentina                |         5 |   1        |
 | London Irish             |         4 |   0.5      |
 | New Zealand              |         4 |   0        |
 | Samoa                    |         4 |   1        |

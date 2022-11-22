@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sean Robinson  
-date: 2022-11-16 11:40:42.574952  
+date: 2022-11-22 11:34:24.680879  
 categories: player  
 ---
 # Sean Robinson
 
 ## Positions: C, W
 
-## Current elo: 81.0
+## Current elo: 82.0
 
 ## Current Percentile: None
 

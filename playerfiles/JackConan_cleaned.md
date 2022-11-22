@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Conan  
-date: 2022-11-16 11:35:01.883998  
+date: 2022-11-22 11:32:43.307146  
 categories: player  
 ---
 # Jack Conan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 124.0
+## Current elo: 123.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Leinster                |           110 |   0.759091 |
-| Ireland                 |            33 |   0.878788 |
+| Ireland                 |            34 |   0.882353 |
 | British and Irish Lions |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -50,11 +50,11 @@ categories: player
 | Castres Olympique        |         3 |   0.833333 |
 | Stade Toulousain         |         3 |   0.666667 |
 | Ospreys                  |         3 |   0.666667 |
+| Australia                |         3 |   0.666667 |
 | Harlequins               |         2 |   0.5      |
 | Saracens                 |         2 |   0        |
 | Bath Rugby               |         2 |   1        |
 | United States of America |         2 |   1        |
-| Australia                |         2 |   0.5      |
 | England                  |         2 |   1        |
 | Northampton Saints       |         2 |   1        |
 | Exeter Chiefs            |         2 |   1        |

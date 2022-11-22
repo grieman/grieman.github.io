@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eben Etzebeth  
-date: 2022-11-16 11:39:43.065437  
+date: 2022-11-22 11:45:35.251546  
 categories: player  
 ---
 # Eben Etzebeth
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 121.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| South Africa                    |           108 |   0.615741 |
+| South Africa                    |           109 |   0.619266 |
 | Stormers                        |            62 |   0.66129  |
 | Toulon                          |            35 |   0.585714 |
 | NTT Docomo Red Hurricanes Osaka |             4 |   0.125    |
@@ -42,8 +42,8 @@ categories: player
 | Ireland                  |         7 |   0.428571 |
 | Cheetahs                 |         6 |   1        |
 | France                   |         6 |   0.833333 |
+| Italy                    |         5 |   1        |
 | Lions                    |         5 |   0.5      |
-| Italy                    |         4 |   1        |
 | La Rochelle              |         4 |   0.25     |
 | Scotland                 |         4 |   1        |
 | Blues                    |         4 |   0.5      |

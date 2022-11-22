@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gael Fickou  
-date: 2022-11-16 11:42:38.814330  
+date: 2022-11-22 11:31:25.925873  
 categories: player  
 ---
 # Gael Fickou
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 119.0
+## Current elo: 121.0
 
 ## Current Percentile: 95.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stade Toulousain     |           122 |   0.594262 |
-| France               |            69 |   0.57971  |
+| France               |            70 |   0.585714 |
 | Stade Francais Paris |            32 |   0.515625 |
 | Racing 92            |            24 |   0.666667 |
 
@@ -45,35 +45,36 @@ categories: player
 | La Rochelle              |         7 |   0.428571 |
 | Agen                     |         7 |   1        |
 | Brive                    |         7 |   0.5      |
-| Perpignan                |         6 |   0.5      |
 | Grenoble                 |         6 |   0.333333 |
 | Ireland                  |         6 |   0.5      |
 | Lyon                     |         6 |   0.666667 |
+| Perpignan                |         6 |   0.5      |
 | South Africa             |         5 |   0.2      |
 | Argentina                |         5 |   0.8      |
 | New Zealand              |         5 |   0.2      |
+| Oyonnax                  |         4 |   0.75     |
 | Bayonne                  |         4 |   0.25     |
 | Stade Toulousain         |         4 |   0.25     |
 | Biarritz Olympique       |         4 |   0.75     |
 | Saracens                 |         4 |   0.5      |
-| Oyonnax                  |         4 |   0.75     |
 | Australia                |         3 |   0.333333 |
 | Zebre                    |         3 |   1        |
 | Connacht                 |         3 |   0.666667 |
 | Cardiff Blues            |         2 |   0        |
-| Wasps                    |         2 |   0.25     |
-| Ospreys                  |         2 |   0.5      |
 | Munster                  |         2 |   0        |
+| Wasps                    |         2 |   0.25     |
+| Ulster                   |         2 |   0        |
+| Ospreys                  |         2 |   0.5      |
 | Benetton Treviso         |         2 |   1        |
 | Glasgow Warriors         |         2 |   1        |
-| Ulster                   |         2 |   0        |
-| Worcester Warriors       |         1 |   0        |
-| Fiji                     |         1 |   0        |
-| United States of America |         1 |   1        |
-| Leicester Tigers         |         1 |   1        |
-| Tonga                    |         1 |   1        |
 | Mont-de-Marsan           |         1 |   1        |
+| Leicester Tigers         |         1 |   1        |
 | Samoa                    |         1 |   1        |
 | Sale Sharks              |         1 |   1        |
+| Tonga                    |         1 |   1        |
+| Japan                    |         1 |   1        |
 | Romania                  |         1 |   1        |
+| United States of America |         1 |   1        |
+| Fiji                     |         1 |   0        |
+| Worcester Warriors       |         1 |   0        |
 | Georgia                  |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ellis Genge  
-date: 2022-11-16 11:35:50.586559  
+date: 2022-11-22 11:26:55.529939  
 categories: player  
 ---
 # Ellis Genge
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 110.0
+## Current elo: 105.0
 
 ## Current Percentile: 86.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |           104 |   0.581731 |
-| England          |            38 |   0.671053 |
+| England          |            39 |   0.666667 |
 | Bristol Rugby    |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,29 +38,30 @@ categories: player
 | Newcastle Falcons        |         8 |   0.875    |
 | Wales                    |         7 |   0.571429 |
 | Sale Sharks              |         7 |   0.571429 |
-| Gloucester Rugby         |         6 |   0.833333 |
 | Saracens                 |         6 |   0.666667 |
-| Italy                    |         5 |   1        |
+| Gloucester Rugby         |         6 |   0.833333 |
 | Worcester Warriors       |         5 |   1        |
+| Italy                    |         5 |   1        |
+| Scotland                 |         4 |   0.375    |
 | Racing 92                |         4 |   0        |
 | London Irish             |         4 |   1        |
-| Scotland                 |         4 |   0.375    |
 | Argentina                |         4 |   0.75     |
 | Ireland                  |         4 |   0.5      |
-| Australia                |         3 |   0.666667 |
 | France                   |         3 |   0.333333 |
+| Australia                |         3 |   0.666667 |
+| Glasgow Warriors         |         2 |   0        |
+| Munster                  |         2 |   0.5      |
 | United States of America |         2 |   1        |
 | Tonga                    |         2 |   1        |
 | Cardiff Blues            |         2 |   1        |
-| Glasgow Warriors         |         2 |   0        |
-| Munster                  |         2 |   0.5      |
-| Pau                      |         1 |   1        |
-| Castres Olympique        |         1 |   1        |
-| Japan                    |         1 |   1        |
 | Canada                   |         1 |   1        |
-| Dragons                  |         1 |   1        |
-| Connacht                 |         1 |   1        |
-| Toulon                   |         1 |   0        |
-| Bordeaux Begles          |         1 |   1        |
 | Barbarians               |         1 |   0        |
+| Bordeaux Begles          |         1 |   1        |
+| Toulon                   |         1 |   0        |
+| Castres Olympique        |         1 |   1        |
 | Samoa                    |         1 |   1        |
+| Connacht                 |         1 |   1        |
+| Pau                      |         1 |   1        |
+| Dragons                  |         1 |   1        |
+| New Zealand              |         1 |   0.5      |
+| Japan                    |         1 |   1        |

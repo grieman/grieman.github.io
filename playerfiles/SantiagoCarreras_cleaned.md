@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Carreras  
-date: 2022-11-16 11:28:02.601592  
+date: 2022-11-22 11:31:11.418478  
 categories: player  
 ---
 # Santiago Carreras
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 126.0
+## Current elo: 124.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Argentina        |            32 |   0.375    |
+| Argentina        |            33 |   0.363636 |
 | Gloucester Rugby |            32 |   0.546875 |
 | Jaguares         |            12 |   0.833333 |
 | Jaguares XV      |             5 |   1        |
@@ -37,9 +37,9 @@ categories: player
 | Bristol Rugby            |         4 |   0.25     |
 | Newcastle Falcons        |         4 |   0.75     |
 | Exeter Chiefs            |         4 |   0.5      |
+| Scotland                 |         4 |   0.5      |
 | Northampton Saints       |         3 |   0.666667 |
 | Wales                    |         3 |   0.5      |
-| Scotland                 |         3 |   0.666667 |
 | Sharks                   |         3 |   0.666667 |
 | Leicester Tigers         |         2 |   0        |
 | Saracens                 |         2 |   1        |

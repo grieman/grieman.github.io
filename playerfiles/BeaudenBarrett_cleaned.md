@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beauden Barrett  
-date: 2022-11-16 11:26:57.018017  
+date: 2022-11-22 11:47:51.103560  
 categories: player  
 ---
 # Beauden Barrett
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 137.0
+## Current elo: 141.0
 
 ## Current Percentile: 99.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Hurricanes  |           126 |   0.646825 |
-| New Zealand |           101 |   0.836634 |
+| New Zealand |           102 |   0.833333 |
 | Blues       |            18 |   0.833333 |
 | Taranaki    |             6 |   0.5      |
 
@@ -47,27 +47,27 @@ categories: player
 | Melbourne Rebels         |         6 |   1        |
 | Lions                    |         6 |   0.833333 |
 | Western Force            |         6 |   1        |
+| Cheetahs                 |         5 |   0.8      |
 | France                   |         5 |   1        |
 | Bulls                    |         5 |   0.6      |
-| Cheetahs                 |         5 |   0.8      |
 | British and Irish Lions  |         3 |   0.5      |
 | Tonga                    |         3 |   1        |
-| Otago                    |         2 |   0.5      |
-| Sunwolves                |         2 |   1        |
-| Southern Kings           |         2 |   1        |
-| Scotland                 |         2 |   1        |
-| Italy                    |         2 |   1        |
+| England                  |         3 |   0.5      |
 | Hurricanes               |         2 |   0.5      |
-| Fiji                     |         2 |   1        |
+| Sunwolves                |         2 |   1        |
 | Jaguares                 |         2 |   1        |
-| England                  |         2 |   0.5      |
-| Northland                |         1 |   1        |
+| Otago                    |         2 |   0.5      |
+| Italy                    |         2 |   1        |
+| Scotland                 |         2 |   1        |
+| Fiji                     |         2 |   1        |
+| Southern Kings           |         2 |   1        |
+| Wellington               |         1 |   0        |
+| United States of America |         1 |   1        |
+| Japan                    |         1 |   1        |
+| Namibia                  |         1 |   1        |
+| Manawatu                 |         1 |   0        |
+| Fijian Drua              |         1 |   1        |
 | Samoa                    |         1 |   1        |
+| Northland                |         1 |   1        |
 | North Harbour            |         1 |   1        |
 | Canada                   |         1 |   1        |
-| Namibia                  |         1 |   1        |
-| Fijian Drua              |         1 |   1        |
-| Manawatu                 |         1 |   0        |
-| Japan                    |         1 |   1        |
-| United States of America |         1 |   1        |
-| Wellington               |         1 |   0        |

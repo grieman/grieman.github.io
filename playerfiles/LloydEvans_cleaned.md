@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lloyd Evans  
-date: 2022-11-16 11:25:12.859725  
+date: 2022-11-22 11:40:53.317541  
 categories: player  
 ---
 # Lloyd Evans
 
 ## Positions: FH, FB
 
-## Current elo: 117.0
+## Current elo: 121.0
 
-## Current Percentile: 91.0
+## Current Percentile: 94.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Malcolm Marx  
-date: 2022-11-16 11:41:51.724939  
+date: 2022-11-22 11:39:03.189839  
 categories: player  
 ---
 # Malcolm Marx
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 121.0
+## Current elo: 125.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
 | Lions                             |            68 |   0.683824 |
-| South Africa                      |            57 |   0.587719 |
+| South Africa                      |            58 |   0.594828 |
 | Golden Lions                      |            10 |   1        |
 | Urayasu D-Rocks                   |             6 |   0.666667 |
 | Kubota Spears Funabashi Tokyo-Bay |             4 |   1        |
@@ -56,21 +56,21 @@ categories: player
 | Melbourne Rebels                  |         2 |   1        |
 | Brumbies                          |         2 |   0.5      |
 | Cheetahs                          |         2 |   1        |
+| Italy                             |         2 |   1        |
 | Ireland                           |         2 |   0        |
 | Chiefs                            |         2 |   1        |
-| Free State Cheetahs               |         2 |   1        |
 | Highlanders                       |         2 |   1        |
-| Shizuoka Blue Revs                |         1 |   1        |
+| Free State Cheetahs               |         2 |   1        |
+| Georgia                           |         1 |   1        |
 | Western Force                     |         1 |   1        |
 | Black Rams Tokyo                  |         1 |   1        |
 | Toyota Verblitz                   |         1 |   1        |
 | Tokyo Sungoliath                  |         1 |   0        |
-| Georgia                           |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |
+| Shizuoka Blue Revs                |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | Hino Red Dolphins                 |         1 |   1        |
 | Pumas                             |         1 |   1        |
-| Italy                             |         1 |   1        |
 | Natal Sharks                      |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   1        |
 | Mie Honda Heat                    |         1 |   1        |

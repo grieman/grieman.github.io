@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Socino  
-date: 2022-11-16 11:29:26.510812  
+date: 2022-11-22 11:34:23.685064  
 categories: player  
 ---
 # Santiago Socino
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

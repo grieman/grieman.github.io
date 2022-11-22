@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrew Kitchener  
-date: 2022-11-16 11:37:37.385125  
+date: 2022-11-22 11:31:08.418117  
 categories: player  
 ---
 # Andrew Kitchener
 
 ## Positions: L
 
-## Current elo: 79.0
+## Current elo: 82.0
 
-## Current Percentile: 6.0
+## Current Percentile: 9.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eduardo Bello  
-date: 2022-11-16 11:32:43.995637  
+date: 2022-11-22 11:46:57.327567  
 categories: player  
 ---
 # Eduardo Bello
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 48.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -24,9 +24,8 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Zebre                |            70 |   0.228571 |
-| Atlético del Rosario |            20 |   0.4      |
-| Atletico del Rosario |             9 |   0.277778 |
-| Argentina            |             7 |   0.285714 |
+| Atlético del Rosario |            29 |   0.362069 |
+| Argentina            |             8 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -66,6 +65,7 @@ categories: player
 | Gloucester Rugby     |         1 |   0        |
 | England              |         1 |   1        |
 | Bulls                |         1 |   0        |
+| Scotland             |         1 |   0        |
 | Sharks               |         1 |   0        |
 | Bayonne              |         1 |   0.5      |
 | Australia            |         1 |   0        |

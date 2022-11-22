@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Harris  
-date: 2022-11-16 11:38:49.133480  
+date: 2022-11-22 11:27:44.840437  
 categories: player  
 ---
 # Chris Harris
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 107.0
+## Current elo: 111.0
 
-## Current Percentile: 77.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Newcastle Falcons       |           102 |   0.397059 |
 | Gloucester Rugby        |            47 |   0.5      |
-| Scotland                |            36 |   0.625    |
+| Scotland                |            37 |   0.635135 |
 | British and Irish Lions |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -53,18 +53,18 @@ categories: player
 | Connacht             |         4 |   0.5      |
 | Brive                |         3 |   0.666667 |
 | South Africa         |         3 |   0        |
+| Argentina            |         2 |   1        |
 | Samoa                |         2 |   1        |
 | Fiji                 |         2 |   1        |
 | Japan                |         2 |   0.5      |
 | Edinburgh            |         2 |   0        |
 | Georgia              |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
-| Grenoble             |         1 |   0        |
 | Bordeaux Begles      |         1 |   1        |
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Bucuresti            |         1 |   1        |
-| Ospreys              |         1 |   0        |
+| Grenoble             |         1 |   0        |
 | Canada               |         1 |   1        |
 | Russia               |         1 |   1        |
 | RC Enisei            |         1 |   1        |
@@ -72,4 +72,4 @@ categories: player
 | New Zealand          |         1 |   0        |
 | London Welsh         |         1 |   1        |
 | Australia            |         1 |   1        |
-| Argentina            |         1 |   1        |
+| Ospreys              |         1 |   0        |

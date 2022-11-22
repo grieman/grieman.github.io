@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shalva Mamukashvili  
-date: 2022-11-16 11:23:33.056201  
+date: 2022-11-22 11:33:12.531092  
 categories: player  
 ---
 # Shalva Mamukashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 78.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Georgia             |            50 |   0.59     |
+| Georgia             |            51 |   0.598039 |
 | Montpellier Herault |            17 |   0.529412 |
 | Sale Sharks         |            13 |   0.307692 |
 | Glasgow Warriors    |             7 |   0.571429 |
@@ -46,12 +46,12 @@ categories: player
 | Bristol Rugby            |         3 |   0        |
 | Tonga                    |         3 |   0.666667 |
 | United States of America |         3 |   0.666667 |
+| Wales                    |         3 |   0.333333 |
 | Japan                    |         3 |   0.333333 |
 | La Rochelle              |         2 |   0.5      |
 | Scarlets                 |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
 | Samoa                    |         2 |   0.5      |
-| Wales                    |         2 |   0        |
 | Racing 92                |         2 |   0.5      |
 | Wasps                    |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   0.5      |

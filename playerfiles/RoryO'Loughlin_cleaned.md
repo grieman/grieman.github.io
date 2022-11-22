@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory O'Loughlin  
-date: 2022-11-16 11:32:15.453737  
+date: 2022-11-22 11:32:04.763216  
 categories: player  
 ---
 # Rory O'Loughlin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 71.0
+## Current Percentile: 73.0
 
 # Elo History
 

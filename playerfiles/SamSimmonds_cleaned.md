@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Simmonds  
-date: 2022-11-16 11:25:14.203706  
+date: 2022-11-22 11:26:52.372387  
 categories: player  
 ---
 # Sam Simmonds
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 122.0
+## Current elo: 119.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Exeter Chiefs           |           113 |   0.756637 |
-| England                 |            17 |   0.647059 |
+| England                 |            18 |   0.638889 |
 | Cornish Pirates         |             5 |   0.8      |
 | British and Irish Lions |             1 |   0        |
 
@@ -65,4 +65,5 @@ categories: player
 | Racing 92           |         1 |   1        |
 | Dragons             |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
+| New Zealand         |         1 |   0.5      |
 | Doncaster           |         1 |   1        |

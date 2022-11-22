@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Florian Munoz Rivero  
-date: 2022-11-16 11:21:17.833447  
+date: 2022-11-22 11:27:29.507693  
 categories: player  
 ---
 # Florian Munoz Rivero
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 73.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             6 |   0.5      |
+| Carqueiranne-Hyères |             7 |   0.428571 |
 | Provence Rugby      |             6 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -36,4 +36,5 @@ categories: player
 | Colomiers                  |         1 |        0   |
 | Montauban                  |         1 |        0   |
 | Perpignan                  |         1 |        0   |
+| Rennes                     |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        0   |

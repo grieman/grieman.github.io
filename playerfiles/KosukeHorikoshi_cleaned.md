@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kosuke Horikoshi  
-date: 2022-11-16 11:35:31.171889  
+date: 2022-11-22 11:37:58.447843  
 categories: player  
 ---
 # Kosuke Horikoshi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -24,11 +24,12 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Tokyo Sungoliath |             6 |   0.833333 |
-| Japan            |             4 |   0.5      |
+| Japan            |             5 |   0.4      |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | England                           |         1 |          0 |
+| France                            |         1 |          0 |
 | Ireland                           |         1 |          0 |
 | Kobelco Kobe Steelers             |         1 |          1 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          1 |

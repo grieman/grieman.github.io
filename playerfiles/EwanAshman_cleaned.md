@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ewan Ashman  
-date: 2022-11-16 11:39:29.439411  
+date: 2022-11-22 11:35:59.827651  
 categories: player  
 ---
 # Ewan Ashman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 43.0
+## Current Percentile: 40.0
 
 # Elo History
 

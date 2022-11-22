@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Ramos  
-date: 2022-11-16 11:41:58.709056  
+date: 2022-11-22 11:32:48.386379  
 categories: player  
 ---
 # Thomas Ramos
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 122.0
+## Current elo: 124.0
 
-## Current Percentile: 96.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           120 |   0.75     |
 | Colomiers        |            23 |   0.673913 |
-| France           |            20 |   0.8      |
+| France           |            21 |   0.809524 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -53,6 +53,7 @@ categories: player
 | Bayonne                  |         3 |   0.666667 |
 | Montauban                |         2 |   0        |
 | Bath Rugby               |         2 |   1        |
+| Bourgoin-Jallieu         |         2 |   0.5      |
 | Gloucester Rugby         |         2 |   1        |
 | Narbonne                 |         2 |   1        |
 | Connacht                 |         2 |   1        |
@@ -60,12 +61,11 @@ categories: player
 | Dax                      |         2 |   0.5      |
 | England                  |         2 |   0.5      |
 | Albi                     |         2 |   0.5      |
-| Bourgoin-Jallieu         |         2 |   0.5      |
 | Mont-de-Marsan           |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
-| Carcassonne              |         1 |   1        |
-| Beziers                  |         1 |   1        |
 | Exeter Chiefs            |         1 |   0        |
+| Beziers                  |         1 |   1        |
+| Japan                    |         1 |   1        |
 | South Africa             |         1 |   1        |
 | Soyaux-Angouleme         |         1 |   0        |
 | Australia                |         1 |   1        |
@@ -73,3 +73,4 @@ categories: player
 | United States of America |         1 |   1        |
 | Vannes                   |         1 |   1        |
 | Argentina                |         1 |   1        |
+| Carcassonne              |         1 |   1        |

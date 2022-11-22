@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tupou Vaa'i  
-date: 2022-11-16 11:35:41.363474  
+date: 2022-11-22 11:45:38.517125  
 categories: player  
 ---
 # Tupou Vaa'i
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 67.0
+## Current Percentile: 57.0
 
 # Elo History
 

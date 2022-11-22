@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Owen Farrell  
-date: 2022-11-16 11:37:13.263552  
+date: 2022-11-22 11:40:11.309545  
 categories: player  
 ---
 # Owen Farrell
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 144.0
+## Current elo: 139.0
 
 ## Current Percentile: 100.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Saracens                |           224 |   0.805804 |
-| England                 |            88 |   0.698864 |
+| England                 |            89 |   0.696629 |
 | British and Irish Lions |             8 |   0.5625   |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,23 +41,23 @@ categories: player
 | Wales                    |        11 |   0.454545 |
 | Newcastle Falcons        |        10 |   1        |
 | Ireland                  |        10 |   0.7      |
-| South Africa             |        10 |   0.4      |
 | France                   |        10 |   0.7      |
-| Italy                    |         9 |   1        |
-| New Zealand              |         9 |   0.388889 |
-| Scotland                 |         9 |   0.722222 |
+| New Zealand              |        10 |   0.4      |
+| South Africa             |        10 |   0.4      |
 | Clermont Auvergne        |         9 |   0.333333 |
-| Worcester Warriors       |         8 |   1        |
+| Scotland                 |         9 |   0.722222 |
+| Italy                    |         9 |   1        |
 | London Irish             |         8 |   1        |
+| Worcester Warriors       |         8 |   1        |
 | Munster                  |         7 |   0.714286 |
 | Racing 92                |         6 |   0.833333 |
+| Ulster                   |         4 |   1        |
+| Argentina                |         4 |   0.75     |
+| Bristol Rugby            |         4 |   1        |
 | Scarlets                 |         4 |   0.625    |
-| Stade Toulousain         |         4 |   0.5      |
 | Ospreys                  |         4 |   0.875    |
 | Toulon                   |         4 |   0.5      |
-| Ulster                   |         4 |   1        |
-| Bristol Rugby            |         4 |   1        |
-| Argentina                |         4 |   0.75     |
+| Stade Toulousain         |         4 |   0.5      |
 | London Welsh             |         3 |   1        |
 | Leinster                 |         3 |   0.333333 |
 | Oyonnax                  |         2 |   1        |

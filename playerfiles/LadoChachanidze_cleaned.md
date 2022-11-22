@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lado Chachanidze  
-date: 2022-11-16 11:28:40.253337  
+date: 2022-11-22 11:44:17.408002  
 categories: player  
 ---
 # Lado Chachanidze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 37.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Nevers  |             8 |        0.5 |
-| Georgia |             2 |        0.5 |
+| Nevers  |             8 |   0.5      |
+| Georgia |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Samoa            |         1 |          0 |
 | Soyaux-Angouleme |         1 |          1 |
 | Uruguay          |         1 |          1 |
+| Wales            |         1 |          1 |

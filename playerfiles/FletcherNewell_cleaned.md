@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fletcher Newell  
-date: 2022-11-16 11:22:21.887454  
+date: 2022-11-22 11:32:18.541298  
 categories: player  
 ---
 # Fletcher Newell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 15.0
+## Current Percentile: 17.0
 
 # Elo History
 

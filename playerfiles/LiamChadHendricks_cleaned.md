@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Liam Chad Hendricks  
-date: 2022-11-16 11:26:30.867064  
+date: 2022-11-22 11:42:12.054969  
 categories: player  
 ---
 # Liam Chad Hendricks
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 83.0
 
-## Current Percentile: 24.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,10 +21,10 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             9 |   0.444444 |
-| Griquas             |             8 |   0.25     |
-| Olimpia Lions       |             1 |   0        |
-| Pumas               |             1 |   0        |
+| Carqueiranne-Hyères |            10 |       0.4  |
+| Griquas             |             8 |       0.25 |
+| Olimpia Lions       |             1 |       0    |
+| Pumas               |             1 |       0    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,6 +38,7 @@ categories: player
 | Chambery                   |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Natal Sharks               |         1 |        0   |
+| Rennes                     |         1 |        0   |
 | Suresnes                   |         1 |        0   |
 | Tarbes                     |         1 |        1   |
 | US Bressane                |         1 |        0   |

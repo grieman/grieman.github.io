@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vladut Popa  
-date: 2022-11-16 11:40:44.060977  
+date: 2022-11-22 11:45:22.242876  
 categories: player  
 ---
 # Vladut Popa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 89.0
+## Current elo: 85.0
 
-## Current Percentile: 39.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -23,25 +23,26 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Romania            |            19 |   0.684211 |
-| Timisoara Saracens |             8 |   0        |
+| Romania            |            20 |       0.65 |
+| Timisoara Saracens |             8 |       0    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Uruguay              |         5 |        0.4 |
+| Portugal             |         2 |        1   |
 | Clermont Auvergne    |         2 |        0   |
 | Dragons              |         2 |        0   |
 | Spain                |         2 |        0.5 |
 | Russia               |         2 |        0.5 |
 | Canada               |         2 |        1   |
-| Portugal             |         2 |        1   |
-| Northampton Saints   |         1 |        0   |
 | Tonga                |         1 |        1   |
 | Stade Francais Paris |         1 |        0   |
+| Samoa                |         1 |        0   |
 | Belgium              |         1 |        1   |
-| Netherlands          |         1 |        1   |
+| Northampton Saints   |         1 |        0   |
+| Harlequins           |         1 |        0   |
 | Germany              |         1 |        1   |
 | Georgia              |         1 |        0   |
 | Edinburgh            |         1 |        0   |
 | Chile                |         1 |        1   |
-| Harlequins           |         1 |        0   |
+| Netherlands          |         1 |        1   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Wainwright  
-date: 2022-11-16 11:37:39.876400  
+date: 2022-11-22 11:30:40.330078  
 categories: player  
 ---
 # Sam Wainwright
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 93.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -20,7 +20,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Saracens |            13 |   0.653846 |
-| Wales    |             3 |   0.666667 |
+| Wales    |             4 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Argentina          |         1 |        1   |
 | Bath Rugby         |         1 |        1   |
 | Bristol Rugby      |         1 |        1   |
+| Georgia            |         1 |        0   |
 | Harlequins         |         1 |        1   |
 | Newcastle Falcons  |         1 |        1   |
 | Northampton Saints |         1 |        0   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taulupe Faletau  
-date: 2022-11-16 11:31:03.004091  
+date: 2022-11-22 11:36:07.510078  
 categories: player  
 ---
 # Taulupe Faletau
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 44.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Dragons                 |           111 |   0.355856 |
-| Wales                   |            86 |   0.505814 |
+| Wales                   |            87 |   0.5      |
 | Bath Rugby              |            66 |   0.515152 |
 | British and Irish Lions |             8 |   0.6875   |
 | Cardiff Blues           |             4 |   0.75     |
@@ -69,21 +69,21 @@ categories: player
 | Pau                  |         2 |   1        |
 | Newcastle Falcons    |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
+| Georgia              |         2 |   0.5      |
 | Bayonne              |         2 |   0        |
 | Bath Rugby           |         2 |   0        |
 | Mogliano             |         2 |   1        |
-| Castres Olympique    |         1 |   1        |
+| Bucuresti            |         1 |   1        |
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Brive                |         1 |   1        |
-| Bucuresti            |         1 |   1        |
 | Provincial Union XV  |         1 |   1        |
+| Castres Olympique    |         1 |   1        |
 | Cavalieri Prato      |         1 |   1        |
 | Crusaders            |         1 |   1        |
 | Lions                |         1 |   0        |
 | Dragons              |         1 |   1        |
 | New Zealand Maori    |         1 |   1        |
-| Georgia              |         1 |   1        |
 | Namibia              |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
 | Aironi               |         1 |   1        |

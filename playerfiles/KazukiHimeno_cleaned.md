@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kazuki Himeno  
-date: 2022-11-16 11:35:05.344781  
+date: 2022-11-22 11:47:16.067758  
 categories: player  
 ---
 # Kazuki Himeno
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 76.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
+| Japan           |            21 |  0.452381  |
 | Toyota Verblitz |            21 |  0.571429  |
-| Japan           |            20 |  0.475     |
 | Highlanders     |            11 |  0.636364  |
 | Sunwolves       |            11 |  0.0909091 |
 
@@ -48,8 +48,9 @@ categories: player
 | Italy                             |         2 |   0.5      |
 | Ireland                           |         2 |   0.5      |
 | Brumbies                          |         2 |   0.5      |
-| Chiefs                            |         2 |   0        |
+| France                            |         2 |   0.25     |
 | England                           |         2 |   0        |
+| Chiefs                            |         2 |   0        |
 | Crusaders                         |         2 |   0.5      |
 | Lions                             |         1 |   0        |
 | Coca-Cola Red Sparks              |         1 |   1        |
@@ -60,7 +61,6 @@ categories: player
 | Samoa                             |         1 |   1        |
 | Sharks                            |         1 |   0        |
 | Melbourne Rebels                  |         1 |   1        |
-| France                            |         1 |   0.5      |
 | Georgia                           |         1 |   1        |
 | Portugal                          |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |

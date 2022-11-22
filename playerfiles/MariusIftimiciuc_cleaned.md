@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marius Iftimiciuc  
-date: 2022-11-16 11:43:30.038961  
+date: 2022-11-22 11:37:21.950354  
 categories: player  
 ---
 # Marius Iftimiciuc
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 73.0
+## Current elo: 69.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Romania            |             8 |        0.5 |
-| Timisoara Saracens |             5 |        0   |
+| Romania            |             9 |   0.444444 |
+| Timisoara Saracens |             5 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -36,3 +36,4 @@ categories: player
 | Italy              |         1 |        0   |
 | Netherlands        |         1 |        1   |
 | Northampton Saints |         1 |        0   |
+| Samoa              |         1 |        0   |

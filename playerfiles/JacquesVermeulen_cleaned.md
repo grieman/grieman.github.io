@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jacques Vermeulen  
-date: 2022-11-16 11:27:54.885390  
+date: 2022-11-22 11:32:51.664871  
 categories: player  
 ---
 # Jacques Vermeulen
 
 ## Positions: FL
 
-## Current elo: 105.0
+## Current elo: 108.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 

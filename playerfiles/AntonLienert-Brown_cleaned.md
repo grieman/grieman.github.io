@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anton Lienert-Brown  
-date: 2022-11-16 11:22:56.505564  
+date: 2022-11-22 11:29:50.933399  
 categories: player  
 ---
 # Anton Lienert-Brown
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 123.0
+## Current elo: 122.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Chiefs      |           101 |   0.589109 |
-| New Zealand |            60 |   0.808333 |
+| New Zealand |            61 |   0.803279 |
 | Waikato     |            20 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -59,6 +59,7 @@ categories: player
 | Italy                    |         2 |   1        |
 | Lions                    |         2 |   0        |
 | Counties Manukau         |         2 |   0.5      |
+| England                  |         2 |   0.25     |
 | Manawatu                 |         2 |   0.5      |
 | Auckland                 |         2 |   0        |
 | Otago                    |         1 |   0        |
@@ -67,7 +68,6 @@ categories: player
 | Namibia                  |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Southland                |         1 |   1        |
-| England                  |         1 |   0        |
 | Taranaki                 |         1 |   0        |
 | Tonga                    |         1 |   1        |
 | United States of America |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Freddie Clarke  
-date: 2022-11-16 11:26:05.955793  
+date: 2022-11-22 11:46:31.657886  
 categories: player  
 ---
 # Freddie Clarke
 
 ## Positions: L, FL
 
-## Current elo: 104.0
+## Current elo: 106.0
 
-## Current Percentile: 83.0
+## Current Percentile: 88.0
 
 # Elo History
 

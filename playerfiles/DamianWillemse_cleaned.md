@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian Willemse  
-date: 2022-11-16 11:21:48.373930  
+date: 2022-11-22 11:26:58.619199  
 categories: player  
 ---
 # Damian Willemse
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 116.0
+## Current elo: 118.0
 
 ## Current Percentile: 89.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stormers         |            53 |   0.660377 |
-| South Africa     |            26 |   0.538462 |
+| South Africa     |            27 |   0.555556 |
 | Western Province |            14 |   0.642857 |
 | Saracens         |             1 |   0        |
 
@@ -52,7 +52,7 @@ categories: player
 | Highlanders              |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
 | Chiefs                   |         2 |   0        |
-| Georgia                  |         1 |   1        |
+| Ospreys                  |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Canada                   |         1 |   1        |
 | Sunwolves                |         1 |   1        |
@@ -62,13 +62,14 @@ categories: player
 | Racing 92                |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
-| Connacht                 |         1 |   0        |
+| Georgia                  |         1 |   1        |
 | New South Wales Waratahs |         1 |   0        |
 | Natal Sharks             |         1 |   0        |
 | Crusaders                |         1 |   0.5      |
 | Edinburgh                |         1 |   1        |
 | Leinster                 |         1 |   1        |
 | England                  |         1 |   0        |
+| Italy                    |         1 |   1        |
 | Ireland                  |         1 |   0        |
 | France                   |         1 |   0        |
-| Ospreys                  |         1 |   1        |
+| Connacht                 |         1 |   0        |

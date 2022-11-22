@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2022-11-16 11:30:10.724010  
+date: 2022-11-22 11:33:56.944463  
 categories: player  
 ---
 # Vaso Lobzhanidze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 36.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Brive   |            90 |   0.433333 |
-| Georgia |            47 |   0.56383  |
+| Georgia |            48 |   0.572917 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,24 +33,25 @@ categories: player
 | Stade Francais Paris     |         7 |   0.714286 |
 | Pau                      |         6 |   0.666667 |
 | Bordeaux Begles          |         5 |   0.2      |
+| Stade Toulousain         |         5 |   0        |
 | Clermont Auvergne        |         5 |   0.2      |
 | Montpellier Herault      |         5 |   0.3      |
-| Stade Toulousain         |         5 |   0        |
-| Scotland                 |         4 |   0        |
+| Romania                  |         4 |   1        |
+| Worcester Warriors       |         4 |   0.75     |
 | Bayonne                  |         4 |   0.625    |
+| Scotland                 |         4 |   0        |
 | Spain                    |         4 |   1        |
 | Toulon                   |         4 |   0.5      |
-| Worcester Warriors       |         4 |   0.75     |
-| Romania                  |         4 |   1        |
-| Biarritz Olympique       |         3 |   0.666667 |
-| Perpignan                |         3 |   0.666667 |
-| Samoa                    |         3 |   0.666667 |
-| Argentina                |         3 |   0        |
-| Racing 92                |         3 |   0        |
-| Russia                   |         3 |   1        |
 | Italy                    |         3 |   0.333333 |
-| Japan                    |         3 |   0        |
+| Wales                    |         3 |   0.333333 |
 | La Rochelle              |         3 |   0.333333 |
+| Japan                    |         3 |   0        |
+| Biarritz Olympique       |         3 |   0.666667 |
+| Russia                   |         3 |   1        |
+| Samoa                    |         3 |   0.666667 |
+| Racing 92                |         3 |   0        |
+| Perpignan                |         3 |   0.666667 |
+| Argentina                |         3 |   0        |
 | RC Enisei                |         2 |   1        |
 | Netherlands              |         2 |   1        |
 | Fiji                     |         2 |   0.25     |
@@ -59,10 +60,9 @@ categories: player
 | Canada                   |         2 |   1        |
 | Bristol Rugby            |         2 |   0        |
 | Uruguay                  |         2 |   1        |
-| Wales                    |         2 |   0        |
 | Tonga                    |         2 |   1        |
-| US Bressane              |         1 |   1        |
 | South Africa             |         1 |   0        |
+| US Bressane              |         1 |   1        |
 | Vannes                   |         1 |   1        |
 | Agen                     |         1 |   0        |
 | Portugal                 |         1 |   1        |

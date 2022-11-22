@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Isaac Miller  
-date: 2022-11-16 11:26:49.217876  
+date: 2022-11-22 11:29:29.016031  
 categories: player  
 ---
 # Isaac Miller
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 39.0
+## Current Percentile: 36.0
 
 # Elo History
 

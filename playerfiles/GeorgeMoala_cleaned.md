@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Moala  
-date: 2022-11-16 11:37:08.439435  
+date: 2022-11-22 11:37:15.469360  
 categories: player  
 ---
 # George Moala
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 111.0
+## Current elo: 115.0
 
-## Current Percentile: 84.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Blues             |            73 |   0.383562 |
 | Auckland          |            41 |   0.560976 |
 | New Zealand       |             4 |   0.75     |
-| Tonga             |             2 |   1        |
+| Tonga             |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,8 +41,8 @@ categories: player
 | Lyon                     |         6 |  0.5       |
 | Canterbury               |         6 |  0.166667  |
 | Stade Francais Paris     |         5 |  1         |
-| Montpellier Herault      |         5 |  0.4       |
 | La Rochelle              |         5 |  0.8       |
+| Montpellier Herault      |         5 |  0.4       |
 | Racing 92                |         4 |  0.25      |
 | Sharks                   |         4 |  0.25      |
 | Pau                      |         4 |  0.75      |
@@ -50,43 +50,44 @@ categories: player
 | North Harbour            |         4 |  0.75      |
 | New South Wales Waratahs |         4 |  0.5       |
 | Tasman                   |         4 |  0.625     |
-| Waikato                  |         4 |  0.5       |
 | Melbourne Rebels         |         4 |  0.75      |
+| Waikato                  |         4 |  0.5       |
 | Western Force            |         4 |  1         |
 | Brumbies                 |         4 |  0.5       |
 | Counties Manukau         |         4 |  0.5       |
-| Otago                    |         3 |  0.333333  |
-| Perpignan                |         3 |  0.666667  |
 | Wellington               |         3 |  0.666667  |
-| Brive                    |         3 |  0.666667  |
-| Manawatu                 |         3 |  1         |
 | Bayonne                  |         3 |  0.666667  |
-| Bulls                    |         3 |  0.666667  |
+| Manawatu                 |         3 |  1         |
+| Brive                    |         3 |  0.666667  |
 | Northland                |         3 |  1         |
-| Queensland Reds          |         3 |  0.5       |
+| Otago                    |         3 |  0.333333  |
 | Cheetahs                 |         3 |  0.666667  |
+| Perpignan                |         3 |  0.666667  |
+| Queensland Reds          |         3 |  0.5       |
+| Bulls                    |         3 |  0.666667  |
+| Bay of Plenty            |         2 |  1         |
+| Ulster                   |         2 |  0.5       |
+| Timisoara Saracens       |         2 |  1         |
 | Taranaki                 |         2 |  0         |
 | Southland                |         2 |  0.75      |
-| Timisoara Saracens       |         2 |  1         |
-| Agen                     |         2 |  1         |
 | Stormers                 |         2 |  0         |
-| Ulster                   |         2 |  0.5       |
-| Bay of Plenty            |         2 |  1         |
+| Agen                     |         2 |  1         |
 | Bath Rugby               |         2 |  1         |
-| Grenoble                 |         2 |  0.75      |
-| Lions                    |         2 |  0         |
 | Harlequins               |         2 |  1         |
-| Wales                    |         1 |  1         |
+| Lions                    |         2 |  0         |
+| Grenoble                 |         2 |  0.75      |
 | Biarritz Olympique       |         1 |  1         |
-| Sunwolves                |         1 |  0         |
-| Hawke's Bay              |         1 |  0         |
-| British and Irish Lions  |         1 |  1         |
-| Spain                    |         1 |  1         |
-| Southern Kings           |         1 |  1         |
-| South Africa             |         1 |  1         |
-| Ireland                  |         1 |  0         |
-| Northampton Saints       |         1 |  1         |
-| Chile                    |         1 |  1         |
-| Dragons                  |         1 |  1         |
 | Jaguares                 |         1 |  1         |
+| Wales                    |         1 |  1         |
+| Uruguay                  |         1 |  1         |
+| Dragons                  |         1 |  1         |
+| Ireland                  |         1 |  0         |
+| South Africa             |         1 |  1         |
+| Sunwolves                |         1 |  0         |
+| Chile                    |         1 |  1         |
+| British and Irish Lions  |         1 |  1         |
+| Northampton Saints       |         1 |  1         |
+| Spain                    |         1 |  1         |
 | Samoa                    |         1 |  1         |
+| Southern Kings           |         1 |  1         |
+| Hawke's Bay              |         1 |  0         |

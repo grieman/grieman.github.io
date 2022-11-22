@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gonzalo Bertranou  
-date: 2022-11-16 11:30:14.010945  
+date: 2022-11-22 11:32:09.710578  
 categories: player  
 ---
 # Gonzalo Bertranou
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 74.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
+| Argentina   |            48 |   0.291667 |
 | Jaguares    |            48 |   0.416667 |
-| Argentina   |            47 |   0.297872 |
 | Dragons     |            20 |   0.375    |
 | Jaguares XV |             3 |   1        |
 
@@ -37,7 +37,7 @@ categories: player
 | New Zealand              |         7 |   0.285714 |
 | Bulls                    |         6 |   0.5      |
 | Stormers                 |         6 |   0.166667 |
-| Scotland                 |         5 |   0.4      |
+| Scotland                 |         6 |   0.333333 |
 | Wales                    |         4 |   0.125    |
 | England                  |         4 |   0.25     |
 | Cardiff Blues            |         3 |   0        |

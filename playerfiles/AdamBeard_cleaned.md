@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Beard  
-date: 2022-11-16 11:30:20.010173  
+date: 2022-11-22 11:42:38.838208  
 categories: player  
 ---
 # Adam Beard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 102.0
+## Current elo: 96.0
 
-## Current Percentile: 65.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Ospreys                 |            98 |   0.556122 |
-| Wales                   |            40 |   0.6      |
+| Wales                   |            41 |   0.585366 |
 | British and Irish Lions |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -57,8 +57,8 @@ categories: player
 | Racing 92            |         2 |   0        |
 | Lyon                 |         2 |   1        |
 | Australia            |         2 |   1        |
+| Georgia              |         2 |   0.5      |
 | Stade Francais Paris |         1 |   1        |
-| Georgia              |         1 |   1        |
 | Wasps                |         1 |   1        |
 | Uruguay              |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Sio  
-date: 2022-11-16 11:36:42.781678  
+date: 2022-11-22 11:38:42.494654  
 categories: player  
 ---
 # Scott Sio
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 97.0
+## Current elo: 91.0
 
-## Current Percentile: 56.0
+## Current Percentile: 31.0
 
 # Elo History
 

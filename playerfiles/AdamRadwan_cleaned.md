@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Radwan  
-date: 2022-11-16 11:40:20.494180  
+date: 2022-11-22 11:38:35.533880  
 categories: player  
 ---
 # Adam Radwan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 116.0
+## Current elo: 122.0
 
-## Current Percentile: 91.0
+## Current Percentile: 95.0
 
 # Elo History
 

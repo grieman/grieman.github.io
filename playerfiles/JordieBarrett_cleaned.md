@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordie Barrett  
-date: 2022-11-16 11:24:18.997300  
+date: 2022-11-22 11:28:28.269615  
 categories: player  
 ---
 # Jordie Barrett
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 131.0
+## Current elo: 134.0
 
 ## Current Percentile: 99.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Hurricanes  |            85 |   0.647059 |
-| New Zealand |            47 |   0.744681 |
+| New Zealand |            48 |   0.739583 |
 | Canterbury  |            12 |   0.833333 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -55,12 +55,12 @@ categories: player
 | Bulls                    |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Counties Manukau         |         2 |   0.5      |
+| England                  |         2 |   0.25     |
 | Fiji                     |         1 |   1        |
 | Waikato                  |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Taranaki                 |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
-| England                  |         1 |   0        |
 | Auckland                 |         1 |   1        |
 | Manawatu                 |         1 |   0        |
 | Samoa                    |         1 |   1        |

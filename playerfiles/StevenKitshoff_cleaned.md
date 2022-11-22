@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steven Kitshoff  
-date: 2022-11-16 11:43:00.689484  
+date: 2022-11-22 11:40:04.660183  
 categories: player  
 ---
 # Steven Kitshoff
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 122.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stormers         |           114 |   0.605263 |
-| South Africa     |            68 |   0.580882 |
+| South Africa     |            69 |   0.586957 |
 | Bordeaux Begles  |            34 |   0.529412 |
 | Western Province |            34 |   0.691176 |
 
@@ -47,35 +47,35 @@ categories: player
 | France                   |         6 |   0.833333 |
 | Hurricanes               |         6 |   0.666667 |
 | Melbourne Rebels         |         5 |   0.8      |
-| Jaguares                 |         5 |   0.6      |
 | Queensland Reds          |         5 |   0.6      |
+| Jaguares                 |         5 |   0.6      |
 | Highlanders              |         5 |   0.6      |
 | New South Wales Waratahs |         5 |   0.4      |
 | Clermont Auvergne        |         5 |   0.3      |
-| Crusaders                |         5 |   0.1      |
 | Chiefs                   |         5 |   0.2      |
-| Free State Cheetahs      |         4 |   1        |
+| Crusaders                |         5 |   0.1      |
 | Natal Sharks             |         4 |   0.75     |
-| Grenoble                 |         3 |   1        |
-| Stade Francais Paris     |         3 |   1        |
-| Pau                      |         3 |   0.666667 |
-| Ospreys                  |         3 |   0.833333 |
-| Ulster                   |         3 |   1        |
+| Free State Cheetahs      |         4 |   1        |
 | British and Irish Lions  |         3 |   0.666667 |
+| Ulster                   |         3 |   1        |
+| Ospreys                  |         3 |   0.833333 |
+| Pau                      |         3 |   0.666667 |
+| Italy                    |         3 |   1        |
+| Stade Francais Paris     |         3 |   1        |
+| Grenoble                 |         3 |   1        |
 | Ireland                  |         3 |   0.333333 |
-| Southern Kings           |         2 |   1        |
 | Stade Toulousain         |         2 |   0.75     |
-| Racing 92                |         2 |   0        |
-| Scotland                 |         2 |   1        |
 | Sunwolves                |         2 |   1        |
 | Pumas                    |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
+| Southern Kings           |         2 |   1        |
+| Racing 92                |         2 |   0        |
+| Scotland                 |         2 |   1        |
 | Western Force            |         2 |   1        |
 | Brive                    |         2 |   0.5      |
 | Cardiff Blues            |         2 |   0.5      |
 | Castres Olympique        |         2 |   0        |
 | Japan                    |         2 |   1        |
-| Italy                    |         2 |   1        |
 | Montpellier Herault      |         2 |   0        |
 | Exeter Chiefs            |         2 |   0.5      |
 | Namibia                  |         1 |   1        |
@@ -87,7 +87,7 @@ categories: player
 | Scarlets                 |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
 | La Rochelle              |         1 |   0        |
-| Oyonnax                  |         1 |   1        |
 | Leinster                 |         1 |   1        |
+| Oyonnax                  |         1 |   1        |
 | Lyon                     |         1 |   0        |
 | Agen                     |         1 |   1        |

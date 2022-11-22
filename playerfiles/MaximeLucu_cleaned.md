@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Lucu  
-date: 2022-11-16 11:29:12.721380  
+date: 2022-11-22 11:26:26.503291  
 categories: player  
 ---
 # Maxime Lucu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 142.0
+## Current elo: 135.0
 
-## Current Percentile: 100.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |           124 |   0.592742 |
 | Bordeaux Begles    |            68 |   0.654412 |
-| France             |            10 |   1        |
+| France             |            11 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -55,12 +55,12 @@ categories: player
 | Oyonnax              |         4 |   0.75     |
 | Clermont Auvergne    |         4 |   0.75     |
 | Albi                 |         3 |   0.666667 |
+| Japan                |         3 |   1        |
 | Edinburgh            |         3 |   0.833333 |
 | Toulon               |         3 |   0.333333 |
 | Nevers               |         3 |   0.666667 |
 | Tarbes               |         3 |   0.666667 |
 | Provence Rugby       |         3 |   0.666667 |
-| Japan                |         2 |   1        |
 | Bourgoin-Jallieu     |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |
 | US Bressane          |         1 |   0        |

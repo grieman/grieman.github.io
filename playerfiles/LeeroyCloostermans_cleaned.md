@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Leeroy Cloostermans  
-date: 2022-11-16 11:36:44.059109  
+date: 2022-11-22 11:37:29.519542  
 categories: player  
 ---
 # Leeroy Cloostermans
 
 ## Positions: H
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 76.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -22,13 +22,13 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Vannes  |            24 |   0.520833 |
-| Blagnac |             9 |   0.666667 |
+| Blagnac |            10 |   0.65     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         4 |       0.5  |
+| Narbonne                   |         3 |       0.5  |
 | Albi                       |         2 |       1    |
-| Narbonne                   |         2 |       0.5  |
 | Bourgoin-Jallieu           |         2 |       0.75 |
 | Perpignan                  |         2 |       0.5  |
 | Dax                        |         2 |       0    |

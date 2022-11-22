@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonny Gray  
-date: 2022-11-16 11:42:19.367377  
+date: 2022-11-22 11:28:07.488220  
 categories: player  
 ---
 # Jonny Gray
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 105.0
+## Current elo: 108.0
 
-## Current Percentile: 78.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -24,26 +24,26 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           110 |   0.618182 |
-| Scotland         |            66 |   0.462121 |
+| Scotland         |            67 |   0.470149 |
 | Exeter Chiefs    |            31 |   0.709677 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Edinburgh                |        12 |   0.416667 |
 | Leinster                 |        11 |   0.409091 |
-| Munster                  |         9 |   0.555556 |
 | Wales                    |         9 |   0.222222 |
 | Ulster                   |         9 |   0.777778 |
+| Munster                  |         9 |   0.555556 |
 | England                  |         9 |   0.388889 |
 | Ireland                  |         8 |   0.125    |
-| Cardiff Blues            |         7 |   0.857143 |
-| Scarlets                 |         7 |   0.714286 |
-| Connacht                 |         7 |   0.714286 |
 | Saracens                 |         7 |   0.142857 |
+| Argentina                |         7 |   0.714286 |
+| Connacht                 |         7 |   0.714286 |
+| Scarlets                 |         7 |   0.714286 |
+| Cardiff Blues            |         7 |   0.857143 |
 | France                   |         6 |   0.333333 |
-| Argentina                |         6 |   0.666667 |
-| Racing 92                |         5 |   0.8      |
 | Leicester Tigers         |         5 |   0.8      |
+| Racing 92                |         5 |   0.8      |
 | Bath Rugby               |         5 |   0.8      |
 | Italy                    |         5 |   0.8      |
 | Montpellier Herault      |         4 |   0.5      |

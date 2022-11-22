@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: TJ Perenara  
-date: 2022-11-16 11:39:30.588694  
+date: 2022-11-22 11:27:52.578918  
 categories: player  
 ---
 # TJ Perenara
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 108.0
+## Current elo: 113.0
 
-## Current Percentile: 86.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
 | Hurricanes                      |           151 |   0.645695 |
-| New Zealand                     |            74 |   0.824324 |
+| New Zealand                     |            75 |   0.82     |
 | Wellington                      |            22 |   0.818182 |
 | NTT Docomo Red Hurricanes Osaka |             6 |   0.5      |
 | New Zealand Maori               |             1 |   0        |
@@ -52,12 +52,13 @@ categories: player
 | Wales                    |         4 |   1        |
 | Jaguares                 |         4 |   0.75     |
 | Cheetahs                 |         4 |   0.75     |
-| Southland                |         3 |   1        |
+| Canterbury               |         3 |   0.333333 |
 | British and Irish Lions  |         3 |   0.5      |
+| England                  |         3 |   0.5      |
 | Scotland                 |         3 |   1        |
 | Sunwolves                |         3 |   1        |
 | North Harbour            |         3 |   1        |
-| Canterbury               |         3 |   0.333333 |
+| Southland                |         3 |   1        |
 | Namibia                  |         2 |   1        |
 | Taranaki                 |         2 |   1        |
 | Southern Kings           |         2 |   1        |
@@ -65,7 +66,6 @@ categories: player
 | Auckland                 |         2 |   0.5      |
 | United States of America |         2 |   1        |
 | Counties Manukau         |         2 |   1        |
-| England                  |         2 |   0.5      |
 | Hawke's Bay              |         2 |   1        |
 | Tonga                    |         1 |   1        |
 | Tasman                   |         1 |   1        |

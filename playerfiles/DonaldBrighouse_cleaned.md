@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Donald Brighouse  
-date: 2022-11-16 11:36:38.262512  
+date: 2022-11-22 11:36:09.844410  
 categories: player  
 ---
 # Donald Brighouse
@@ -27,7 +27,7 @@ categories: player
 | Taranaki               |            19 |   0.421053 |
 | Coventry               |             5 |   0.6      |
 | Crusaders              |             5 |   1        |
-| Samoa                  |             4 |   0.25     |
+| Samoa                  |             5 |   0.4      |
 | New England Free Jacks |             3 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,6 +44,7 @@ categories: player
 | Waikato                  |         4 |   0.5      |
 | Hawke's Bay              |         4 |   0.25     |
 | Counties Manukau         |         2 |   0        |
+| Romania                  |         2 |   0.5      |
 | Richmond                 |         1 |   1        |
 | Utah Warriors            |         1 |   0        |
 | Blues                    |         1 |   1        |
@@ -51,7 +52,6 @@ categories: player
 | Seattle Seawolves        |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | San Diego Legion         |         1 |   0        |
-| Romania                  |         1 |   0        |
 | Nottingham               |         1 |   0        |
 | Otago                    |         1 |   1        |
 | Doncaster                |         1 |   1        |

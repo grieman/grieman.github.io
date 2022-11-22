@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Codie Taylor  
-date: 2022-11-16 11:34:53.002621  
+date: 2022-11-22 11:42:33.490109  
 categories: player  
 ---
 # Codie Taylor
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 92.0
+## Current elo: 97.0
 
-## Current Percentile: 36.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Crusaders         |           117 |   0.769231 |
-| New Zealand       |            75 |   0.78     |
+| New Zealand       |            76 |   0.776316 |
 | Canterbury        |            12 |   0.666667 |
 | New Zealand Maori |             1 |   1        |
 
@@ -50,11 +50,11 @@ categories: player
 | British and Irish Lions  |         4 |   0.375    |
 | Stormers                 |         3 |   0.833333 |
 | Western Force            |         3 |   1        |
+| England                  |         3 |   0.5      |
 | Jaguares                 |         3 |   1        |
 | Japan                    |         2 |   1        |
 | Namibia                  |         2 |   1        |
 | Cheetahs                 |         2 |   1        |
-| England                  |         2 |   0.5      |
 | Northland                |         2 |   1        |
 | Fiji                     |         2 |   1        |
 | Scotland                 |         2 |   1        |

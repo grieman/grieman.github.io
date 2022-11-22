@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Cuthbert  
-date: 2022-11-16 11:39:02.325920  
+date: 2022-11-22 11:41:15.266222  
 categories: player  
 ---
 # Alex Cuthbert
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 122.0
+## Current elo: 116.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Cardiff Blues           |           114 |   0.508772 |
-| Wales                   |            53 |   0.537736 |
+| Wales                   |            54 |   0.527778 |
 | Exeter Chiefs           |            29 |   0.724138 |
 | Ospreys                 |             7 |   0.857143 |
 | British and Irish Lions |             1 |   1        |
@@ -53,33 +53,33 @@ categories: player
 | Toulon              |         4 |   0.25     |
 | Italy               |         4 |   1        |
 | Zebre               |         4 |   0.75     |
-| Bristol Rugby       |         4 |   0.75     |
 | Benetton Treviso    |         4 |   1        |
-| Pau                 |         3 |   1        |
+| Bristol Rugby       |         4 |   0.75     |
 | Worcester Warriors  |         3 |   1        |
 | Gloucester Rugby    |         3 |   0.333333 |
 | Munster             |         3 |   0.666667 |
 | Fiji                |         3 |   1        |
+| Pau                 |         3 |   1        |
 | Exeter Chiefs       |         2 |   0        |
-| Calvisano           |         2 |   1        |
-| Saracens            |         2 |   0        |
-| Bath Rugby          |         2 |   0.5      |
 | Racing 92           |         2 |   1        |
+| Calvisano           |         2 |   1        |
+| Bath Rugby          |         2 |   0.5      |
+| Saracens            |         2 |   0        |
+| Wasps               |         2 |   0.5      |
 | Stade Toulousain    |         2 |   1        |
 | Northampton Saints  |         2 |   1        |
 | New Zealand         |         2 |   0        |
-| Wasps               |         2 |   0.5      |
+| Georgia             |         2 |   0.5      |
 | Lyon                |         2 |   1        |
 | Argentina           |         2 |   0.5      |
-| Stormers            |         1 |   0        |
-| Uruguay             |         1 |   1        |
 | Tonga               |         1 |   1        |
+| Uruguay             |         1 |   1        |
 | Grenoble            |         1 |   1        |
 | Samoa               |         1 |   0        |
+| Stormers            |         1 |   0        |
 | Southern Kings      |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |
 | Japan               |         1 |   1        |
 | Cheetahs            |         1 |   0        |
-| Georgia             |         1 |   1        |
 | La Rochelle         |         1 |   1        |
 | Aironi              |         1 |   1        |

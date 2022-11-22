@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita Tatafu  
-date: 2022-11-16 11:39:37.289213  
+date: 2022-11-22 11:41:14.308625  
 categories: player  
 ---
 # Tevita Tatafu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 68.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -24,12 +24,12 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Tokyo Sungoliath |            11 |   0.727273 |
-| Japan            |             8 |   0.25     |
+| Japan            |             9 |   0.222222 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| France                          |         3 |          0 |
 | Black Rams Tokyo                |         2 |          1 |
-| France                          |         2 |          0 |
 | Toshiba Brave Lupus Tokyo       |         2 |          0 |
 | Urayasu D-Rocks                 |         2 |          1 |
 | Australia                       |         1 |          0 |

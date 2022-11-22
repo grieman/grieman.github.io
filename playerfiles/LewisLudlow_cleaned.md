@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Ludlow  
-date: 2022-11-16 11:20:37.251373  
+date: 2022-11-22 11:28:02.279189  
 categories: player  
 ---
 # Lewis Ludlow
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 84.0
+## Current Percentile: 86.0
 
 # Elo History
 

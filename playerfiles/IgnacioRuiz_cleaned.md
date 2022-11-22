@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ignacio Ruiz  
-date: 2022-11-16 11:22:04.582622  
+date: 2022-11-22 11:39:35.101116  
 categories: player  
 ---
 # Ignacio Ruiz

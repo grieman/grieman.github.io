@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Warner Dearns  
-date: 2022-11-16 11:24:34.469437  
+date: 2022-11-22 11:40:42.179809  
 categories: player  
 ---
 # Warner Dearns
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 95.0
+## Current elo: 100.0
 
-## Current Percentile: 64.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -24,11 +24,11 @@ categories: player
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
 | Toshiba Brave Lupus Tokyo |            13 |   0.692308 |
-| Japan                     |             6 |   0.333333 |
+| Japan                     |             7 |   0.285714 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| France                            |         2 |        0   |
+| France                            |         3 |        0   |
 | NTT Docomo Red Hurricanes Osaka   |         2 |        1   |
 | Shizuoka Blue Revs                |         2 |        1   |
 | Tokyo Sungoliath                  |         2 |        0.5 |

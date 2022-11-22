@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Emmanuel Iyogun  
-date: 2022-11-16 11:34:37.198213  
+date: 2022-11-22 11:35:04.040158  
 categories: player  
 ---
 # Emmanuel Iyogun
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 69.0
+## Current Percentile: 71.0
 
 # Elo History
 

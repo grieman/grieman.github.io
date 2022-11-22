@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mike Willemse  
-date: 2022-11-16 11:35:07.762038  
+date: 2022-11-22 11:44:41.749095  
 categories: player  
 ---
 # Mike Willemse
 
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 64.0
+## Current Percentile: 66.0
 
 # Elo History
 

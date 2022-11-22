@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Casper Viviers  
-date: 2022-11-16 11:21:39.700653  
+date: 2022-11-22 11:37:10.146097  
 categories: player  
 ---
 # Casper Viviers
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: None
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,19 +23,22 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Namibia             |            16 |     0.6875 |
-| Namibia Welwitchias |             2 |     0      |
+| Namibia             |            20 |        0.6 |
+| Namibia Welwitchias |             2 |        0   |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Russia     |         3 |   0.666667 |
-| Portugal   |         2 |   0.5      |
-| Spain      |         2 |   0        |
-| Tunisia    |         2 |   1        |
-| Uganda     |         2 |   1        |
-| Zimbabwe   |         2 |   1        |
-| Kenya      |         1 |   1        |
-| Leopards   |         1 |   0        |
-| Morocco    |         1 |   1        |
-| SWD Eagles |         1 |   0        |
-| Uruguay    |         1 |   0        |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Russia      |         3 |   0.666667 |
+| Portugal    |         2 |   0.5      |
+| Spain       |         2 |   0        |
+| Tunisia     |         2 |   1        |
+| Uganda      |         2 |   1        |
+| Uruguay     |         2 |   0        |
+| Zimbabwe    |         2 |   1        |
+| Canada      |         1 |   1        |
+| Kenya       |         1 |   1        |
+| Leopards    |         1 |   0        |
+| Morocco     |         1 |   1        |
+| New Zealand |         1 |   0        |
+| SWD Eagles  |         1 |   0        |
+| Tonga       |         1 |   0        |

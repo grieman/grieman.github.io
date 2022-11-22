@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Bruno  
-date: 2022-11-16 11:24:33.226778  
+date: 2022-11-22 11:34:45.159406  
 categories: player  
 ---
 # Pierre Bruno
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 94.0
+## Current elo: 91.0
 
-## Current Percentile: 58.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Zebre  |            34 |   0.191176 |
-| Italy  |             6 |   0.666667 |
+| Italy  |             7 |   0.571429 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,13 +39,14 @@ categories: player
 | Edinburgh            |         2 |        0   |
 | Stade Francais Paris |         2 |        0.5 |
 | Ospreys              |         2 |        0.5 |
-| Australia            |         1 |        1   |
+| South Africa         |         1 |        0   |
 | Sharks               |         1 |        0   |
 | Scotland             |         1 |        0   |
-| Lions                |         1 |        0   |
+| Australia            |         1 |        1   |
 | Samoa                |         1 |        1   |
 | Romania              |         1 |        1   |
 | Bayonne              |         1 |        0.5 |
+| Lions                |         1 |        0   |
 | Ireland              |         1 |        0   |
 | Bristol Rugby        |         1 |        0   |
 | Uruguay              |         1 |        1   |

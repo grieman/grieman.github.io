@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Sinckler  
-date: 2022-11-16 11:29:05.369732  
+date: 2022-11-22 11:45:40.703945  
 categories: player  
 ---
 # Kyle Sinckler
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 111.0
+## Current elo: 109.0
 
-## Current Percentile: 87.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Harlequins              |           156 |   0.512821 |
-| England                 |            52 |   0.663462 |
+| England                 |            53 |   0.660377 |
 | Bristol Rugby           |            34 |   0.647059 |
 | British and Irish Lions |            10 |   0.45     |
 
@@ -45,15 +45,15 @@ categories: player
 | Ireland                  |         7 |   0.428571 |
 | Wales                    |         6 |   0.5      |
 | Italy                    |         6 |   1        |
+| New Zealand              |         6 |   0.5      |
 | France                   |         6 |   0.5      |
-| New Zealand              |         5 |   0.5      |
 | Australia                |         4 |   1        |
 | Scotland                 |         4 |   0.625    |
 | Ulster                   |         4 |   0        |
 | London Welsh             |         4 |   1        |
 | Stade Francais Paris     |         3 |   0.666667 |
-| Clermont Auvergne        |         3 |   0        |
 | Harlequins               |         3 |   0.333333 |
+| Clermont Auvergne        |         3 |   0        |
 | Cardiff Blues            |         3 |   0.666667 |
 | Argentina                |         3 |   0.666667 |
 | Stade Toulousain         |         2 |   0.5      |

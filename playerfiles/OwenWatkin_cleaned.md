@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Owen Watkin  
-date: 2022-11-16 11:39:57.437458  
+date: 2022-11-22 11:46:24.257565  
 categories: player  
 ---
 # Owen Watkin
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 112.0
+## Current elo: 106.0
 
 ## Current Percentile: 87.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Ospreys |            81 |   0.574074 |
-| Wales   |            36 |   0.611111 |
+| Wales   |            37 |   0.594595 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -51,10 +51,11 @@ categories: player
 | Worcester Warriors   |         2 |   0.5      |
 | Stormers             |         2 |   0.25     |
 | Southern Kings       |         2 |   1        |
-| Zebre                |         2 |   1        |
+| Georgia              |         2 |   0.5      |
 | Northampton Saints   |         2 |   1        |
 | New Zealand          |         2 |   0        |
 | Australia            |         2 |   0.5      |
+| Zebre                |         2 |   1        |
 | Racing 92            |         1 |   0        |
 | Pau                  |         1 |   1        |
 | Sharks               |         1 |   0        |
@@ -64,4 +65,3 @@ categories: player
 | Tonga                |         1 |   1        |
 | Uruguay              |         1 |   1        |
 | Fiji                 |         1 |   1        |
-| Georgia              |         1 |   1        |

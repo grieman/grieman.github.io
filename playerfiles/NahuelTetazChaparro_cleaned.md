@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nahuel Tetaz Chaparro  
-date: 2022-11-16 11:35:09.679168  
+date: 2022-11-22 11:33:58.084311  
 categories: player  
 ---
 # Nahuel Tetaz Chaparro
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 88.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,11 +23,11 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Argentina            |            69 |   0.333333 |
+| Argentina            |            70 |   0.328571 |
 | Jaguares             |            50 |   0.56     |
 | Dragons              |            18 |   0.333333 |
 | Benetton Treviso     |            13 |   0.346154 |
-| La Plata             |            12 |   0.666667 |
+| La Plata             |            13 |   0.692308 |
 | Lyon                 |            11 |   0.409091 |
 | Stade Francais Paris |             7 |   0.357143 |
 | Bristol Rugby        |             3 |   0.333333 |
@@ -41,29 +41,30 @@ categories: player
 | Sharks                   |         8 |  0.375     |
 | Lions                    |         6 |  0.5       |
 | France                   |         5 |  0.6       |
-| England                  |         5 |  0.2       |
-| Bulls                    |         5 |  0.8       |
 | Wales                    |         5 |  0.3       |
+| Scotland                 |         5 |  0.4       |
+| England                  |         5 |  0.2       |
 | Stormers                 |         5 |  0.6       |
+| Bulls                    |         5 |  0.8       |
 | Chiefs                   |         4 |  0.5       |
-| Scotland                 |         4 |  0.5       |
-| Italy                    |         3 |  1         |
 | Leinster                 |         3 |  0         |
+| Crusaders                |         3 |  0         |
+| Italy                    |         3 |  1         |
 | Edinburgh                |         3 |  0.333333  |
 | Southern Kings           |         3 |  0.333333  |
-| Crusaders                |         3 |  0         |
 | Glasgow Warriors         |         3 |  0.333333  |
 | Hurricanes               |         3 |  0.333333  |
 | Cardiff Blues            |         3 |  0.666667  |
 | Brumbies                 |         3 |  1         |
-| Toulon                   |         3 |  0.166667  |
 | Munster                  |         3 |  0         |
+| Toulon                   |         3 |  0.166667  |
 | New South Wales Waratahs |         3 |  1         |
+| Sale Sharks              |         2 |  0         |
 | Scarlets                 |         2 |  0.5       |
-| Zebre                    |         2 |  1         |
 | Melbourne Rebels         |         2 |  1         |
 | Queensland Reds          |         2 |  0.5       |
-| Sale Sharks              |         2 |  0         |
+| Newman                   |         2 |  1         |
+| Zebre                    |         2 |  1         |
 | Georgia                  |         2 |  1         |
 | Grenoble                 |         2 |  0.5       |
 | Ospreys                  |         2 |  0         |
@@ -83,7 +84,7 @@ categories: player
 | Oyonnax                  |         1 |  0         |
 | Alumni                   |         1 |  0         |
 | Olivos                   |         1 |  1         |
-| Newman                   |         1 |  1         |
+| Dragons                  |         1 |  0.5       |
 | Bath Rugby               |         1 |  0         |
 | Belgrano                 |         1 |  0         |
 | Blues                    |         1 |  1         |
@@ -93,8 +94,8 @@ categories: player
 | Champagnat               |         1 |  1         |
 | Cheetahs                 |         1 |  1         |
 | Clermont Auvergne        |         1 |  1         |
-| Dragons                  |         1 |  0.5       |
 | Gloucester Rugby         |         1 |  1         |
+| Newcastle Falcons        |         1 |  0         |
 | Highlanders              |         1 |  0         |
 | Hindu                    |         1 |  0         |
 | Ireland                  |         1 |  0         |
@@ -104,5 +105,4 @@ categories: player
 | Manuel Belgrano          |         1 |  1         |
 | Mogliano                 |         1 |  1         |
 | Montpellier Herault      |         1 |  1         |
-| Newcastle Falcons        |         1 |  0         |
 | Lomas                    |         1 |  1         |

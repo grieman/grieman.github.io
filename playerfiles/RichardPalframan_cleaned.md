@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Richard Palframan  
-date: 2022-11-16 11:37:27.217381  
+date: 2022-11-22 11:29:53.058171  
 categories: player  
 ---
 # Richard Palframan
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 65.0
+## Current Percentile: 66.0
 
 # Elo History
 

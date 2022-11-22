@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Riccioni  
-date: 2022-11-16 11:26:21.081256  
+date: 2022-11-22 11:42:58.783811  
 categories: player  
 ---
 # Marco Riccioni
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 48.0
 
 # Elo History
 

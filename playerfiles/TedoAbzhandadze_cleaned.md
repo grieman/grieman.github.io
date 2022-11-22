@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tedo Abzhandadze  
-date: 2022-11-16 11:30:53.642932  
+date: 2022-11-22 11:28:42.090382  
 categories: player  
 ---
 # Tedo Abzhandadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 100.0
+## Current elo: 104.0
 
-## Current Percentile: 56.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Georgia   |            32 |   0.71875  |
+| Georgia   |            33 |   0.727273 |
 | Brive     |            28 |   0.357143 |
 | Montauban |             4 |   0.25     |
 
@@ -42,13 +42,13 @@ categories: player
 | Pau                  |         2 |   1        |
 | Netherlands          |         2 |   1        |
 | Belgium              |         2 |   1        |
+| Wales                |         2 |   0.5      |
 | Uruguay              |         2 |   1        |
 | Bordeaux Begles      |         2 |   0.5      |
 | Bristol Rugby        |         2 |   0        |
 | Toulon               |         2 |   0.5      |
 | La Rochelle          |         2 |   0.5      |
 | South Africa         |         1 |   0        |
-| Wales                |         1 |   0        |
 | Saracens             |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Tonga                |         1 |   1        |

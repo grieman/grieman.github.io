@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siosaia Fifita  
-date: 2022-11-16 11:39:53.645415  
+date: 2022-11-22 11:27:18.916295  
 categories: player  
 ---
 # Siosaia Fifita
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 75.0
+## Current elo: 80.0
 
 ## Current Percentile: 3.0
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Japan     |            11 |   0.181818 |
+| Japan     |            12 |   0.166667 |
 | Sunwolves |             6 |   0.166667 |
 
 | Opponent                |   Matches |   Win Rate |
 |:------------------------|----------:|-----------:|
-| France                  |         2 |          0 |
+| France                  |         3 |          0 |
 | Ireland                 |         2 |          0 |
 | Australia               |         1 |          0 |
 | British and Irish Lions |         1 |          0 |

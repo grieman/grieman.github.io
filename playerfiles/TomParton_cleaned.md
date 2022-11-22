@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom Parton  
-date: 2022-11-16 11:40:30.059468  
+date: 2022-11-22 11:31:52.447955  
 categories: player  
 ---
 # Tom Parton
 
 ## Positions: FB
 
-## Current elo: 128.0
+## Current elo: 129.0
 
 ## Current Percentile: 97.0
 

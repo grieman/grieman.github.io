@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Brocklebank  
-date: 2022-11-16 11:31:27.730601  
+date: 2022-11-22 11:26:27.788166  
 categories: player  
 ---
 # Adam Brocklebank
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 43.0
+## Current Percentile: 45.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mako Vunipola  
-date: 2022-11-16 11:30:18.751622  
+date: 2022-11-22 11:38:15.740756  
 categories: player  
 ---
 # Mako Vunipola
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Saracens                |           202 |   0.804455 |
-| England                 |            63 |   0.746032 |
+| England                 |            64 |   0.742188 |
 | British and Irish Lions |            10 |   0.55     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -51,8 +51,8 @@ categories: player
 | Racing 92           |         6 |   0.833333 |
 | Munster             |         6 |   0.833333 |
 | Bristol Rugby       |         5 |   0.8      |
+| New Zealand         |         5 |   0.6      |
 | Ulster              |         4 |   1        |
-| New Zealand         |         4 |   0.625    |
 | Stade Toulousain    |         4 |   0.5      |
 | Argentina           |         4 |   0.75     |
 | London Welsh        |         3 |   1        |

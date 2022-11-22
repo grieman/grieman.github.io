@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Patrick Schickerling  
-date: 2022-11-16 11:23:49.392537  
+date: 2022-11-22 11:43:37.125420  
 categories: player  
 ---
 # Patrick Schickerling
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 76.0
 
 # Elo History
 

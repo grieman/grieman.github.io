@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samisoni Taukei'aho  
-date: 2022-11-16 11:44:14.138424  
+date: 2022-11-22 11:38:20.407951  
 categories: player  
 ---
 # Samisoni Taukei'aho
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 112.0
+## Current elo: 115.0
 
 ## Current Percentile: 93.0
 
@@ -25,44 +25,45 @@ categories: player
 |:------------|--------------:|-----------:|
 | Chiefs      |            63 |   0.579365 |
 | Waikato     |            26 |   0.423077 |
-| New Zealand |            19 |   0.842105 |
+| New Zealand |            20 |   0.825    |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Crusaders                |        11 |   0.363636 |
+| Blues                    |         8 |   0.5      |
 | Hurricanes               |         8 |   0.5625   |
 | Highlanders              |         8 |   0.5      |
-| Blues                    |         8 |   0.5      |
-| Brumbies                 |         5 |   0.4      |
-| New South Wales Waratahs |         5 |   1        |
 | Australia                |         5 |   1        |
-| Queensland Reds          |         4 |   0.75     |
+| New South Wales Waratahs |         5 |   1        |
+| Brumbies                 |         5 |   0.4      |
 | Argentina                |         4 |   0.75     |
+| Queensland Reds          |         4 |   0.75     |
+| Northland                |         3 |   0.666667 |
+| Otago                    |         3 |   0.333333 |
 | Melbourne Rebels         |         3 |   1        |
 | South Africa             |         3 |   0.666667 |
 | Wellington               |         3 |   0.333333 |
-| Otago                    |         3 |   0.333333 |
-| Northland                |         3 |   0.666667 |
-| Wales                    |         2 |   1        |
-| Tasman                   |         2 |   0        |
-| Taranaki                 |         2 |   1        |
-| Sunwolves                |         2 |   0.5      |
-| North Harbour            |         2 |   0        |
-| Western Force            |         2 |   1        |
 | Manawatu                 |         2 |   0        |
-| Bay of Plenty            |         2 |   0.5      |
+| Taranaki                 |         2 |   1        |
+| Tasman                   |         2 |   0        |
+| Wales                    |         2 |   1        |
+| North Harbour            |         2 |   0        |
+| Sunwolves                |         2 |   0.5      |
+| Western Force            |         2 |   1        |
+| Auckland                 |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
 | Ireland                  |         2 |   0.5      |
 | Hawke's Bay              |         2 |   0.5      |
-| Auckland                 |         2 |   0.5      |
-| Fiji                     |         1 |   1        |
+| Bay of Plenty            |         2 |   0.5      |
+| Stormers                 |         1 |   1        |
 | Bulls                    |         1 |   1        |
 | Canterbury               |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
-| Fijian Drua              |         1 |   1        |
-| Stormers                 |         1 |   1        |
+| England                  |         1 |   0.5      |
+| Fiji                     |         1 |   1        |
 | Southland                |         1 |   1        |
+| Japan                    |         1 |   1        |
 | Sharks                   |         1 |   0        |
 | Scotland                 |         1 |   1        |
-| Japan                    |         1 |   1        |
+| Fijian Drua              |         1 |   1        |
 | Lions                    |         1 |   0        |

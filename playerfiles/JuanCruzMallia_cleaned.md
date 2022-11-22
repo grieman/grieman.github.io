@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Cruz Mallia  
-date: 2022-11-16 11:28:28.892601  
+date: 2022-11-22 11:40:50.886364  
 categories: player  
 ---
 # Juan Cruz Mallia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 72.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |            26 |   0.538462 |
-| Argentina        |            24 |   0.354167 |
+| Argentina        |            25 |   0.34     |
 | Jaguares         |            17 |   0.764706 |
 | Jaguares XV      |             5 |   1        |
 
@@ -33,11 +33,11 @@ categories: player
 | Australia                |         6 |   0.333333 |
 | New Zealand              |         6 |   0.166667 |
 | South Africa             |         5 |   0.2      |
+| Scotland                 |         4 |   0.5      |
 | Lions                    |         3 |   0.333333 |
 | Stormers                 |         3 |   0.333333 |
 | Bordeaux Begles          |         3 |   0.666667 |
 | Brive                    |         3 |   1        |
-| Scotland                 |         3 |   0.666667 |
 | Bulls                    |         3 |   1        |
 | Castres Olympique        |         3 |   0.333333 |
 | La Rochelle              |         3 |   1        |

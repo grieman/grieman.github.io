@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Paulos  
-date: 2022-11-16 11:34:29.685149  
+date: 2022-11-22 11:33:50.613929  
 categories: player  
 ---
 # Lucas Paulos
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 78.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Brive     |            28 |   0.392857 |
 | Jaguares  |            11 |   0.636364 |
-| Argentina |             6 |   0.25     |
+| Argentina |             7 |   0.214286 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Stade Francais Paris |         4 |   0.25     |
 | Castres Olympique    |         3 |   0.333333 |
 | Lyon                 |         2 |   0        |
+| Scotland             |         2 |   0        |
 | Bayonne              |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
@@ -42,7 +43,6 @@ categories: player
 | Stade Toulousain     |         2 |   0        |
 | La Rochelle          |         2 |   0.5      |
 | Sharks               |         2 |   0.5      |
-| Scotland             |         1 |   0        |
 | Stormers             |         1 |   0        |
 | Sunwolves            |         1 |   1        |
 | Racing 92            |         1 |   0        |

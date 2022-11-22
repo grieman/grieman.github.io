@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hamish Watson  
-date: 2022-11-16 11:37:18.116972  
+date: 2022-11-22 11:27:42.572504  
 categories: player  
 ---
 # Hamish Watson
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 73.0
+## Current Percentile: 72.0
 
 # Elo History
 

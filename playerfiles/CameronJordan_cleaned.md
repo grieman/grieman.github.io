@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cameron Jordan  
-date: 2022-11-16 11:32:35.668536  
+date: 2022-11-22 11:40:55.669752  
 categories: player  
 ---
 # Cameron Jordan
 
 ## Positions: L
 
-## Current elo: 105.0
+## Current elo: 112.0
 
-## Current Percentile: 82.0
+## Current Percentile: 91.0
 
 # Elo History
 

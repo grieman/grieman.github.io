@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2022-11-16 11:41:16.035024  
+date: 2022-11-22 11:39:06.189700  
 categories: player  
 ---
 # Michael Alaalatoa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 96.0
+## Current elo: 100.0
 
-## Current Percentile: 64.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -26,8 +26,8 @@ categories: player
 | Crusaders                |            96 |   0.854167 |
 | Manawatu                 |            36 |   0.333333 |
 | Leinster                 |            23 |   0.826087 |
-| Samoa                    |            11 |   0.454545 |
-| NSW Country Eagles       |             4 |   0.25     |
+| Samoa                    |            12 |   0.5      |
+| NSW Country Eagles       |             6 |   0.5      |
 | New South Wales Waratahs |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,14 +45,14 @@ categories: player
 | Bulls                    |         5 |   0.8      |
 | Northland                |         4 |   0.75     |
 | Taranaki                 |         4 |   0        |
-| Canterbury               |         3 |   0.333333 |
+| Hawke's Bay              |         3 |   0        |
 | Bay of Plenty            |         3 |   0.333333 |
-| Otago                    |         3 |   0        |
 | Jaguares                 |         3 |   1        |
+| Otago                    |         3 |   0        |
 | Western Force            |         3 |   1        |
 | Wellington               |         3 |   0.666667 |
 | Waikato                  |         3 |   0.333333 |
-| Hawke's Bay              |         3 |   0        |
+| Canterbury               |         3 |   0.333333 |
 | Southland                |         3 |   0.666667 |
 | Stormers                 |         3 |   0.833333 |
 | Connacht                 |         3 |   1        |
@@ -67,7 +67,7 @@ categories: player
 | Counties Manukau         |         2 |   0        |
 | Glasgow Warriors         |         2 |   1        |
 | Melbourne Rising         |         1 |   0        |
-| New Zealand Maori        |         1 |   0        |
+| Greater Sydney Rams      |         1 |   1        |
 | British and Irish Lions  |         1 |   0        |
 | Cardiff Blues            |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
@@ -75,14 +75,17 @@ categories: player
 | Edinburgh                |         1 |   1        |
 | Georgia                  |         1 |   1        |
 | Southern Kings           |         1 |   1        |
-| Ireland                  |         1 |   0        |
 | Scotland                 |         1 |   0        |
+| Australia                |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Russia                   |         1 |   1        |
+| Romania                  |         1 |   1        |
+| Ireland                  |         1 |   0        |
+| Queensland Country       |         1 |   1        |
 | Italy                    |         1 |   0        |
-| Japan                    |         1 |   0        |
 | Ospreys                  |         1 |   1        |
-| Australia                |         1 |   0        |
+| Japan                    |         1 |   0        |
 | North Harbour Rays       |         1 |   1        |
 | North Harbour            |         1 |   1        |
+| New Zealand Maori        |         1 |   0        |
 | Auckland                 |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Florin Surugiu  
-date: 2022-11-16 11:21:06.370895  
+date: 2022-11-22 11:46:50.227229  
 categories: player  
 ---
 # Florin Surugiu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 22.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Romania   |            50 |       0.54 |
-| Bucuresti |            20 |       0.2  |
+| Romania   |            51 |   0.529412 |
+| Bucuresti |            20 |   0.2      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,15 +39,15 @@ categories: player
 | Stade Francais Paris     |         4 |   0        |
 | United States of America |         3 |   0.333333 |
 | Tonga                    |         3 |   0.666667 |
-| Germany                  |         2 |   1        |
 | Japan                    |         2 |   0        |
+| Samoa                    |         2 |   0.5      |
 | Agen                     |         2 |   0.5      |
+| Germany                  |         2 |   1        |
 | Chile                    |         2 |   1        |
 | Brive                    |         2 |   0        |
 | Brazil                   |         2 |   1        |
 | Dragons                  |         2 |   0        |
 | Scotland                 |         1 |   0        |
-| Samoa                    |         1 |   1        |
 | Italy                    |         1 |   0        |
 | Netherlands              |         1 |   1        |
 | Italy A                  |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Taofifenua  
-date: 2022-11-16 11:34:42.049149  
+date: 2022-11-22 11:39:26.139277  
 categories: player  
 ---
 # Romain Taofifenua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 113.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Toulon    |           151 |   0.559603 |
 | Perpignan |            77 |   0.512987 |
-| France    |            34 |   0.602941 |
+| France    |            35 |   0.614286 |
 | Lyon      |            19 |   0.526316 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -64,14 +64,14 @@ categories: player
 | Rovigo               |         2 |  1         |
 | Leinster             |         2 |  1         |
 | Newcastle Falcons    |         2 |  0.5       |
-| Exeter Chiefs        |         2 |  0.5       |
+| Japan                |         2 |  0.75      |
 | Bizkaia Gernika RT   |         2 |  1         |
+| Exeter Chiefs        |         2 |  0.5       |
 | Gloucester Rugby     |         2 |  0         |
 | Worcester Warriors   |         2 |  0.5       |
-| London Irish         |         1 |  1         |
 | Sale Sharks          |         1 |  1         |
 | Argentina            |         1 |  1         |
-| Japan                |         1 |  0.5       |
+| London Irish         |         1 |  1         |
 | New Zealand          |         1 |  0         |
 | Georgia              |         1 |  1         |
 | Mont-de-Marsan       |         1 |  1         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Lay  
-date: 2022-11-16 11:42:41.450633  
+date: 2022-11-22 11:43:02.046409  
 categories: player  
 ---
 # Jordan Lay
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 21.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Edinburgh     |            12 |   0.666667 |
 | Auckland      |            11 |   0.454545 |
-| Samoa         |            10 |   0.2      |
+| Samoa         |            11 |   0.272727 |
 | Bay of Plenty |             8 |   0.5      |
 | Blues         |             8 |   1        |
 | Bristol Rugby |             4 |   0.25     |
@@ -39,20 +39,20 @@ categories: player
 | Otago                    |         3 |   1        |
 | Waikato                  |         2 |   0.5      |
 | Glasgow Warriors         |         2 |   0.5      |
+| Romania                  |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
 | Canterbury               |         2 |   0.5      |
 | Highlanders              |         2 |   1        |
 | Dragons                  |         2 |   1        |
 | Tasman                   |         2 |   0.5      |
 | Connacht                 |         2 |   0.5      |
-| Taranaki                 |         1 |   0        |
 | Stade Francais Paris     |         1 |   1        |
 | Northland                |         1 |   0        |
+| Taranaki                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Saracens                 |         1 |   0        |
 | Russia                   |         1 |   1        |
-| Romania                  |         1 |   0        |
 | Queensland Reds          |         1 |   1        |
 | Wasps                    |         1 |   0        |
 | Southland                |         1 |   1        |

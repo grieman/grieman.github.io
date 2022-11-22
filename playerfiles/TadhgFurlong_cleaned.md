@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tadhg Furlong  
-date: 2022-11-16 11:37:34.917192  
+date: 2022-11-22 11:26:14.876840  
 categories: player  
 ---
 # Tadhg Furlong
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Leinster                |           117 |   0.747863 |
-| Ireland                 |            60 |   0.708333 |
+| Ireland                 |            61 |   0.713115 |
 | British and Irish Lions |            10 |   0.65     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -47,9 +47,9 @@ categories: player
 | Zebre               |         6 |   1        |
 | Dragons             |         5 |   0.6      |
 | Italy               |         5 |   1        |
+| Australia           |         5 |   0.8      |
 | Castres Olympique   |         4 |   0.875    |
 | Cardiff Blues       |         4 |   1        |
-| Australia           |         4 |   0.75     |
 | Northampton Saints  |         4 |   1        |
 | Stade Toulousain    |         3 |   0.666667 |
 | Argentina           |         3 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Frans Malherbe  
-date: 2022-11-16 11:29:15.491286  
+date: 2022-11-22 11:34:46.094628  
 categories: player  
 ---
 # Frans Malherbe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 83.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stormers         |           112 |   0.598214 |
-| South Africa     |            55 |   0.663636 |
+| South Africa     |            56 |   0.669643 |
 | Western Province |            16 |   0.59375  |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -57,11 +57,11 @@ categories: player
 | Scotland                 |         3 |   1        |
 | Golden Lions             |         3 |   0        |
 | Western Force            |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Ulster                   |         2 |   1        |
 | Free State Cheetahs      |         2 |   1        |
 | Japan                    |         2 |   1        |
 | Leopards                 |         2 |   1        |
-| Italy                    |         1 |   1        |
 | Georgia                  |         1 |   1        |
 | United States of America |         1 |   1        |
 | Southern Kings           |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'Angelo Leuila  
-date: 2022-11-16 11:42:03.693595  
+date: 2022-11-22 11:44:14.566574  
 categories: player  
 ---
 # D'Angelo Leuila
@@ -24,7 +24,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Waikato        |            21 |   0.642857 |
-| Samoa          |            11 |   0.545455 |
+| Samoa          |            12 |   0.583333 |
 | Auckland       |             1 |   0        |
 | Moana Pasifika |             1 |   0        |
 
@@ -34,17 +34,18 @@ categories: player
 | Tonga             |         3 |   1        |
 | Wellington        |         3 |   0.333333 |
 | Canterbury        |         2 |   0.5      |
+| Northland         |         2 |   0.5      |
 | Tasman            |         2 |   1        |
 | Hawke's Bay       |         2 |   0.25     |
 | Taranaki          |         2 |   0.5      |
 | Otago             |         2 |   0.5      |
-| Northland         |         2 |   0.5      |
-| North Harbour     |         1 |   1        |
 | Wales             |         1 |   0        |
 | Canada            |         1 |   1        |
 | Southland         |         1 |   1        |
-| New Zealand Maori |         1 |   0        |
+| Romania           |         1 |   1        |
+| North Harbour     |         1 |   1        |
 | Counties Manukau  |         1 |   1        |
+| New Zealand Maori |         1 |   0        |
 | Blues             |         1 |   0        |
 | Manawatu          |         1 |   1        |
 | Italy             |         1 |   0        |

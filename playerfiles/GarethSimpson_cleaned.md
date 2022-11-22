@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gareth Simpson  
-date: 2022-11-16 11:28:00.381992  
+date: 2022-11-22 11:33:16.426989  
 categories: player  
 ---
 # Gareth Simpson
 
 ## Positions: SH
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 69.0
+## Current Percentile: 64.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Chunya Munga  
-date: 2022-11-16 11:24:42.483141  
+date: 2022-11-22 11:41:50.845848  
 categories: player  
 ---
 # Chunya Munga
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 42.0
+## Current Percentile: 36.0
 
 # Elo History
 

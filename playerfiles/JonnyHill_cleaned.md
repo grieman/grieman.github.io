@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonny Hill  
-date: 2022-11-16 11:37:31.780746  
+date: 2022-11-22 11:36:17.083311  
 categories: player  
 ---
 # Jonny Hill
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 96.0
+## Current elo: 91.0
 
-## Current Percentile: 41.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Exeter Chiefs    |           105 |   0.738095 |
-| England          |            15 |   0.666667 |
+| England          |            16 |   0.65625  |
 | Sale Sharks      |             5 |   0.8      |
 | Gloucester Rugby |             2 |   0        |
 
@@ -57,12 +57,13 @@ categories: player
 | Tonga               |         1 |   1        |
 | Stade Toulousain    |         1 |   1        |
 | Scotland            |         1 |   0        |
-| Racing 92           |         1 |   1        |
+| Ospreys             |         1 |   1        |
 | Castres Olympique   |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
-| Ospreys             |         1 |   1        |
+| Racing 92           |         1 |   1        |
 | Exeter Chiefs       |         1 |   1        |
 | France              |         1 |   1        |
+| New Zealand         |         1 |   0.5      |
 | Munster             |         1 |   0        |
 | Japan               |         1 |   1        |
 | Argentina           |         1 |   0        |

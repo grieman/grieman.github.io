@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ciaran Knight  
-date: 2022-11-16 11:34:08.265437  
+date: 2022-11-22 11:33:37.378093  
 categories: player  
 ---
 # Ciaran Knight
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 28.0
+## Current Percentile: 27.0
 
 # Elo History
 

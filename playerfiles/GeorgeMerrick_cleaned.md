@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: George Merrick  
-date: 2022-11-16 11:39:45.618300  
+date: 2022-11-22 11:35:12.709460  
 categories: player  
 ---
 # George Merrick
 
 ## Positions: L
 
-## Current elo: 87.0
+## Current elo: 89.0
 
 ## Current Percentile: None
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruan Ackermann  
-date: 2022-11-16 11:36:58.072032  
+date: 2022-11-22 11:31:10.407762  
 categories: player  
 ---
 # Ruan Ackermann
 
 ## Positions: N8, FL
 
-## Current elo: 118.0
+## Current elo: 123.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

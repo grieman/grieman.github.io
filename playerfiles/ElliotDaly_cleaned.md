@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliot Daly  
-date: 2022-11-16 11:39:40.487247  
+date: 2022-11-22 11:27:54.534786  
 categories: player  
 ---
 # Elliot Daly
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 110.0
+## Current elo: 108.0
 
-## Current Percentile: 85.0
+## Current Percentile: 82.0
 
 # Elo History
 

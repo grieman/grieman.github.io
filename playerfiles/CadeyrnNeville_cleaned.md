@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cadeyrn Neville  
-date: 2022-11-16 11:29:53.378450  
+date: 2022-11-22 11:32:39.254353  
 categories: player  
 ---
 # Cadeyrn Neville
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 110.0
+## Current elo: 115.0
 
-## Current Percentile: 86.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -27,9 +27,9 @@ categories: player
 | Brumbies                         |            29 |   0.689655 |
 | Queensland Reds                  |            16 |   0.28125  |
 | Toyota Industries Shuttles Aichi |            14 |   0.5      |
-| Australia                        |             6 |   0.333333 |
-| Brisbane City                    |             4 |   1        |
-| Melbourne Rising                 |             4 |   0.75     |
+| Brisbane City                    |            10 |   1        |
+| Melbourne Rising                 |             9 |   0.888889 |
+| Australia                        |             7 |   0.285714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -44,33 +44,38 @@ categories: player
 | Melbourne Rebels         |         5 |   0.6      |
 | Crusaders                |         5 |   0.2      |
 | Stormers                 |         4 |   0.25     |
-| Perth Spirit             |         3 |   0.666667 |
-| Bulls                    |         3 |   0        |
 | Cheetahs                 |         3 |   0.666667 |
+| Bulls                    |         3 |   0        |
+| Sydney Stars             |         3 |   1        |
 | Sharks                   |         3 |   0        |
-| Coca-Cola Red Sparks     |         2 |   0.5      |
-| Canberra Vikings         |         2 |   1        |
-| Lions                    |         2 |   0        |
-| Sunwolves                |         2 |   1        |
+| Canberra Vikings         |         3 |   1        |
+| Perth Spirit             |         3 |   0.666667 |
 | England                  |         2 |   0.5      |
+| Sunwolves                |         2 |   1        |
+| Queensland Country       |         2 |   1        |
+| North Harbour Rays       |         2 |   1        |
+| NSW Country Eagles       |         2 |   1        |
+| Greater Sydney Rams      |         2 |   1        |
+| Lions                    |         2 |   0        |
+| Coca-Cola Red Sparks     |         2 |   0.5      |
+| Mazda Blue Zoomers       |         1 |   1        |
+| Scotland                 |         1 |   1        |
+| Toyota Verblitz          |         1 |   0        |
+| Green Rockets Tokatsu    |         1 |   0        |
+| Hanazono Kintetsu Liners |         1 |   0        |
 | Southern Kings           |         1 |   0        |
-| Sydney Stars             |         1 |   1        |
 | Shizuoka Blue Revs       |         1 |   0        |
 | Shimizu Blue Sharks      |         1 |   1        |
-| Toyota Verblitz          |         1 |   0        |
-| Scotland                 |         1 |   1        |
+| Ireland                  |         1 |   0        |
 | Saitama Wild Knights     |         1 |   0        |
-| France                   |         1 |   0        |
+| Brisbane City            |         1 |   1        |
+| Italy                    |         1 |   0        |
+| Kamaishi Seawaves        |         1 |   1        |
+| Kurita Water Gush        |         1 |   1        |
+| Kyuden Voltex            |         1 |   1        |
 | New Zealand              |         1 |   0        |
-| North Harbour Rays       |         1 |   1        |
-| Green Rockets Tokatsu    |         1 |   0        |
-| NSW Country Eagles       |         1 |   1        |
+| France                   |         1 |   0        |
 | Munakata Sanix Blues     |         1 |   1        |
 | Moana Pasifika           |         1 |   0        |
-| Mazda Blue Zoomers       |         1 |   1        |
-| Kyuden Voltex            |         1 |   1        |
-| Kurita Water Gush        |         1 |   1        |
-| Kamaishi Seawaves        |         1 |   1        |
-| Italy                    |         1 |   0        |
-| Hanazono Kintetsu Liners |         1 |   0        |
+| Melbourne Rising         |         1 |   1        |
 | Yokohama Canon Eagles    |         1 |   0        |

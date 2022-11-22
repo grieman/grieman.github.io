@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin Hislop  
-date: 2022-11-16 11:35:40.042841  
+date: 2022-11-22 11:28:11.503205  
 categories: player  
 ---
 # Robin Hislop
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 77.0
+## Current Percentile: 73.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kirill Gotovtsev  
-date: 2022-11-16 11:38:09.374382  
+date: 2022-11-22 11:29:25.183758  
 categories: player  
 ---
 # Kirill Gotovtsev
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Russia
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

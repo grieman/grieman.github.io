@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ollie Hassell-Collins  
-date: 2022-11-16 11:41:03.725470  
+date: 2022-11-22 11:31:19.008808  
 categories: player  
 ---
 # Ollie Hassell-Collins
 
 ## Positions: W
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 27.0
+## Current Percentile: 21.0
 
 # Elo History
 

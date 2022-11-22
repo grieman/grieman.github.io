@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Sutherland  
-date: 2022-11-16 11:44:02.596404  
+date: 2022-11-22 11:45:32.197548  
 categories: player  
 ---
 # Rory Sutherland
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 50.0
+## Current Percentile: 41.0
 
 # Elo History
 

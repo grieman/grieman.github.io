@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Franco Mostert  
-date: 2022-11-16 11:39:38.874571  
+date: 2022-11-22 11:27:08.851101  
 categories: player  
 ---
 # Franco Mostert
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 128.0
+## Current elo: 131.0
 
 ## Current Percentile: 97.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Lions            |            83 |   0.680723 |
-| South Africa     |            60 |   0.616667 |
+| South Africa     |            61 |   0.622951 |
 | Gloucester Rugby |            29 |   0.448276 |
 | Golden Lions     |            22 |   0.818182 |
 | Mie Honda Heat   |             7 |   0.714286 |
@@ -64,22 +64,22 @@ categories: player
 | Exeter Chiefs                    |         3 |   0.333333 |
 | Brumbies                         |         3 |   0.666667 |
 | British and Irish Lions          |         3 |   0.666667 |
+| Italy                            |         3 |   1        |
 | Chiefs                           |         2 |   0.5      |
-| Japan                            |         2 |   1        |
+| Newcastle Falcons                |         2 |   1        |
 | Scotland                         |         2 |   1        |
 | Saracens                         |         2 |   0.5      |
 | Sale Sharks                      |         2 |   0        |
 | Bristol Rugby                    |         2 |   0        |
 | Connacht                         |         2 |   0.5      |
 | Northampton Saints               |         2 |   0.5      |
-| Newcastle Falcons                |         2 |   1        |
 | Bath Rugby                       |         2 |   1        |
+| Japan                            |         2 |   1        |
 | Western Force                    |         2 |   0.5      |
 | Wasps                            |         2 |   0.5      |
 | Harlequins                       |         2 |   0.5      |
 | Hino Red Dolphins                |         2 |   1        |
 | Mitsubishi Dynaboars             |         2 |   0.5      |
-| Italy                            |         2 |   1        |
 | Stade Toulousain                 |         1 |   0        |
 | Toshiba Brave Lupus Tokyo        |         1 |   1        |
 | Toyota Industries Shuttles Aichi |         1 |   1        |

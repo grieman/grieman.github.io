@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Augustine Pulu  
-date: 2022-11-16 11:27:37.452419  
+date: 2022-11-22 11:32:35.237817  
 categories: player  
 ---
 # Augustine Pulu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 103.0
+## Current elo: 107.0
 
-## Current Percentile: 68.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Counties Manukau  |            51 |   0.568627 |
 | Blues             |            37 |   0.351351 |
 | Hino Red Dolphins |            11 |   0.181818 |
-| Tonga             |             2 |   1        |
+| Tonga             |             3 |   1        |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
@@ -51,26 +51,27 @@ categories: player
 | Wellington                      |         4 |   0.5      |
 | Bay of Plenty                   |         4 |   0.625    |
 | Auckland                        |         4 |   0.75     |
-| Chiefs                          |         4 |   0.375    |
 | Bulls                           |         4 |   0.75     |
 | Canterbury                      |         4 |   0.25     |
+| Chiefs                          |         4 |   0.375    |
 | Manawatu                        |         3 |   0.666667 |
 | Otago                           |         3 |   0.666667 |
 | Southland                       |         3 |   0.666667 |
+| Sunwolves                       |         2 |   0.5      |
 | Jaguares                        |         2 |   0        |
 | North Harbour                   |         2 |   1        |
 | Green Rockets Tokatsu           |         2 |   1        |
-| Sunwolves                       |         2 |   0.5      |
 | Black Rams Tokyo                |         1 |   0        |
 | British and Irish Lions         |         1 |   1        |
+| Uruguay                         |         1 |   1        |
 | Urayasu D-Rocks                 |         1 |   0        |
 | Toyota Verblitz                 |         1 |   0        |
-| Southern Kings                  |         1 |   1        |
-| Spain                           |         1 |   1        |
 | Kobelco Kobe Steelers           |         1 |   0        |
+| Hanazono Kintetsu Liners        |         1 |   0        |
+| Spain                           |         1 |   1        |
+| Mitsubishi Dynaboars            |         1 |   0        |
+| Southern Kings                  |         1 |   1        |
 | Shizuoka Blue Revs              |         1 |   0        |
 | Chile                           |         1 |   1        |
 | Saitama Wild Knights            |         1 |   0        |
-| Hanazono Kintetsu Liners        |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka |         1 |   0        |
-| Mitsubishi Dynaboars            |         1 |   0        |

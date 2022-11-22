@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Vareilles  
-date: 2022-11-16 11:30:16.466461  
+date: 2022-11-22 11:44:01.355263  
 categories: player  
 ---
 # Clément Vareilles
 
 ## Positions: C
 
-## Current elo: 95.0
+## Current elo: 93.0
 
-## Current Percentile: 34.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            29 |   0.448276 |
+| Blagnac |            30 |       0.45 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,4 +39,5 @@ categories: player
 | Tarbes                     |         2 |   1        |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |
+| Narbonne                   |         1 |   0.5      |
 | Rennes                     |         1 |   1        |

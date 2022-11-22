@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emiliano Boffelli  
-date: 2022-11-16 11:25:20.555563  
+date: 2022-11-22 11:48:10.939898  
 categories: player  
 ---
 # Emiliano Boffelli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 38.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Jaguares  |            54 |   0.5      |
-| Argentina |            51 |   0.235294 |
+| Argentina |            52 |   0.230769 |
 | Edinburgh |            20 |   0.55     |
 | Racing 92 |             3 |   0.666667 |
 
@@ -35,7 +35,7 @@ categories: player
 | Lions                    |         9 |   0.222222 |
 | Sharks                   |         8 |   0.5      |
 | South Africa             |         7 |   0.142857 |
-| Scotland                 |         5 |   0.4      |
+| Scotland                 |         6 |   0.333333 |
 | England                  |         5 |   0.2      |
 | Bulls                    |         5 |   0.6      |
 | Stormers                 |         5 |   0.4      |

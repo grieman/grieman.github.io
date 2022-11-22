@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Brousse  
-date: 2022-11-16 11:21:31.203693  
+date: 2022-11-22 11:46:18.262808  
 categories: player  
 ---
 # Charles Brousse
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Provence Rugby      |            59 |   0.550847 |
 | Bordeaux Begles     |            48 |   0.333333 |
-| Carqueiranne-Hyères |             8 |   0.5      |
+| Carqueiranne-Hyères |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -62,6 +62,7 @@ categories: player
 | Valence Romans Drome Rugby |         1 |   1        |
 | Tarbes                     |         1 |   1        |
 | Albi                       |         1 |   1        |
+| Rennes                     |         1 |   0        |
 | Racing 92                  |         1 |   0        |
 | Ospreys                    |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gheorge Gajion  
-date: 2022-11-16 11:21:29.886039  
+date: 2022-11-22 11:41:48.365995  
 categories: player  
 ---
 # Gheorge Gajion
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 82.0
 
-## Current Percentile: 13.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -26,27 +26,28 @@ categories: player
 | Ospreys        |            12 |   0.166667 |
 | Aurillac       |             8 |   0.25     |
 | Mont-de-Marsan |             8 |   0.625    |
+| Romania        |             4 |   0.25     |
 | Rovigo         |             4 |   0        |
-| Romania        |             3 |   0.333333 |
 | Oyonnax        |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Nevers               |         3 |   0.333333 |
 | Uruguay              |         3 |   0.333333 |
 | Grenoble             |         3 |   0.333333 |
-| Munster              |         2 |   0        |
-| Colomiers            |         2 |   0.5      |
+| Nevers               |         3 |   0.333333 |
 | Oyonnax              |         2 |   0.5      |
+| Colomiers            |         2 |   0.5      |
+| Munster              |         2 |   0        |
+| Agen                 |         1 |   0        |
 | Vannes               |         1 |   0        |
 | Ulster               |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Saracens             |         1 |   0        |
+| Samoa                |         1 |   0        |
 | Rouen                |         1 |   0        |
 | Racing 92            |         1 |   0        |
 | Pau                  |         1 |   0        |
-| Agen                 |         1 |   0        |
 | Narbonne             |         1 |   1        |
 | Aurillac             |         1 |   1        |
 | Montauban            |         1 |   0        |

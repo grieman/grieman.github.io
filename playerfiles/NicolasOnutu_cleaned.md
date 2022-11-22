@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Onutu  
-date: 2022-11-16 11:23:00.650738  
+date: 2022-11-22 11:34:12.162916  
 categories: player  
 ---
 # Nicolas Onutu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 64.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |            19 |   0.631579 |
+| Romania |            20 |        0.6 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
@@ -37,3 +37,4 @@ categories: player
 | Belgium     |         1 |   1        |
 | Brazil      |         1 |   1        |
 | Netherlands |         1 |   1        |
+| Samoa       |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave Sisi  
-date: 2022-11-16 11:42:17.490477  
+date: 2022-11-22 11:38:54.417726  
 categories: player  
 ---
 # Dave Sisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 56.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Zebre           |            78 |   0.269231 |
-| Italy           |            25 |   0.28     |
+| Italy           |            26 |   0.269231 |
 | London Irish    |            24 |   0.416667 |
 | Bath Rugby      |            21 |   0.690476 |
 | London Scottish |             3 |   0.333333 |
@@ -59,6 +59,7 @@ categories: player
 | Pau                  |         2 |   0        |
 | Scotland             |         2 |   0        |
 | Northampton Saints   |         2 |   1        |
+| South Africa         |         2 |   0        |
 | Southern Kings       |         2 |   1        |
 | Montpellier Herault  |         2 |   1        |
 | Leicester Tigers     |         2 |   0.5      |
@@ -67,7 +68,6 @@ categories: player
 | Grenoble             |         2 |   0        |
 | Stade Francais Paris |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
-| South Africa         |         1 |   0        |
 | Sharks               |         1 |   0        |
 | Stormers             |         1 |   0        |
 | Bath Rugby           |         1 |   0        |

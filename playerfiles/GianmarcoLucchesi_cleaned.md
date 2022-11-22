@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gianmarco Lucchesi  
-date: 2022-11-16 11:25:25.623542  
+date: 2022-11-22 11:26:13.786163  
 categories: player  
 ---
 # Gianmarco Lucchesi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 44.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            19 |   0.421053 |
-| Italy            |            15 |   0.2      |
+| Italy            |            16 |   0.1875   |
 | Calvisano        |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
@@ -46,6 +46,7 @@ categories: player
 | Samoa            |         1 |   1        |
 | Scarlets         |         1 |   1        |
 | Scotland         |         1 |   0        |
+| South Africa     |         1 |   0        |
 | Stormers         |         1 |   1        |
 | Ulster           |         1 |   0        |
 | Argentina        |         1 |   0        |

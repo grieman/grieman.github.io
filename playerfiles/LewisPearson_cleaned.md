@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lewis Pearson  
-date: 2022-11-16 11:26:47.964788  
+date: 2022-11-22 11:44:21.447879  
 categories: player  
 ---
 # Lewis Pearson
 
 ## Positions: FL, L
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 38.0
+## Current Percentile: 36.0
 
 # Elo History
 

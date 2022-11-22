@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sam Stuart  
-date: 2022-11-16 11:30:46.153705  
+date: 2022-11-22 11:28:26.243219  
 categories: player  
 ---
 # Sam Stuart
 
 ## Positions: SH
 
-## Current elo: 75.0
+## Current elo: 74.0
 
 ## Current Percentile: 2.0
 

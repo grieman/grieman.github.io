@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel Whitelock  
-date: 2022-11-16 11:25:49.253913  
+date: 2022-11-22 11:33:14.000726  
 categories: player  
 ---
 # Samuel Whitelock
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 107.0
+## Current elo: 111.0
 
 ## Current Percentile: 98.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Crusaders            |           174 |   0.747126 |
-| New Zealand          |           136 |   0.849265 |
+| New Zealand          |           137 |   0.846715 |
 | Canterbury           |             4 |   0.75     |
 | Saitama Wild Knights |             4 |   1        |
 
@@ -43,7 +43,7 @@ categories: player
 | New South Wales Waratahs          |        11 |   0.636364 |
 | Ireland                           |        10 |   0.7      |
 | Lions                             |        10 |   0.9      |
-| England                           |         9 |   0.777778 |
+| England                           |        10 |   0.75     |
 | Sharks                            |         9 |   0.777778 |
 | Melbourne Rebels                  |         9 |   0.888889 |
 | Stormers                          |         8 |   0.8125   |

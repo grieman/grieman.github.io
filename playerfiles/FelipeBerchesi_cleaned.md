@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Felipe Berchesi  
-date: 2022-11-16 11:28:20.635530  
+date: 2022-11-22 11:35:50.300110  
 categories: player  
 ---
 # Felipe Berchesi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 35.0
+## Current Percentile: 37.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Joe Simmonds  
-date: 2022-11-16 11:36:31.310680  
+date: 2022-11-22 11:32:41.263865  
 categories: player  
 ---
 # Joe Simmonds
 
 ## Positions: FH
 
-## Current elo: 115.0
+## Current elo: 117.0
 
 ## Current Percentile: 92.0
 

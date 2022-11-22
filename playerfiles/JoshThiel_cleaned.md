@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Thiel  
-date: 2022-11-16 11:22:58.089928  
+date: 2022-11-22 11:47:02.533614  
 categories: player  
 ---
 # Josh Thiel
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: None
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -23,10 +23,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Canada           |             1 |          1 |
-| San Diego Legion |             1 |          1 |
+| San Diego Legion |             4 |        0.5 |
+| Canada           |             2 |        0.5 |
 
-| Opponent    |   Matches |   Win Rate |
-|:------------|----------:|-----------:|
-| NOLA Gold   |         1 |          1 |
-| Netherlands |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Austin Gilgronis  |         1 |          0 |
+| Houston SaberCats |         1 |          1 |
+| L. A. Giltinis    |         1 |          0 |
+| Namibia           |         1 |          0 |
+| Netherlands       |         1 |          1 |
+| Old Glory DC      |         1 |          1 |

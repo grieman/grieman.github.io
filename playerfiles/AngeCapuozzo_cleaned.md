@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ange Capuozzo  
-date: 2022-11-16 11:41:45.353213  
+date: 2022-11-22 11:32:10.664674  
 categories: player  
 ---
 # Ange Capuozzo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 115.0
+## Current elo: 109.0
 
-## Current Percentile: 94.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -24,16 +24,16 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Grenoble         |            45 |   0.6      |
-| Italy            |             6 |   0.666667 |
+| Italy            |             7 |   0.571429 |
 | Stade Toulousain |             5 |   0.8      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Provence Rugby             |         4 |      0.25  |
+| Rouen                      |         4 |      0.5   |
 | Perpignan                  |         4 |      0.25  |
 | Aurillac                   |         4 |      0.75  |
 | Nevers                     |         4 |      0.875 |
-| Rouen                      |         4 |      0.5   |
 | Montauban                  |         4 |      0.625 |
 | Soyaux-Angouleme           |         3 |      1     |
 | Pau                        |         2 |      0     |
@@ -42,14 +42,15 @@ categories: player
 | Biarritz Olympique         |         2 |      0.25  |
 | Beziers                    |         2 |      0.5   |
 | Bayonne                    |         2 |      0.5   |
-| Racing 92                  |         1 |      1     |
+| Romania                    |         1 |      1     |
 | Toulon                     |         1 |      1     |
 | US Bressane                |         1 |      1     |
+| Scotland                   |         1 |      0     |
 | Valence Romans Drome Rugby |         1 |      1     |
 | Vannes                     |         1 |      0     |
-| Romania                    |         1 |      1     |
-| Scotland                   |         1 |      0     |
+| South Africa               |         1 |      0     |
 | Agen                       |         1 |      1     |
+| Racing 92                  |         1 |      1     |
 | Portugal                   |         1 |      1     |
 | Narbonne                   |         1 |      0.5   |
 | La Rochelle                |         1 |      1     |

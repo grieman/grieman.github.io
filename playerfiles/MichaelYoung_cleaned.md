@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael Young  
-date: 2022-11-16 11:35:44.567962  
+date: 2022-11-22 11:30:31.283028  
 categories: player  
 ---
 # Michael Young
 
 ## Positions: SH
 
-## Current elo: 129.0
+## Current elo: 125.0
 
-## Current Percentile: 99.0
+## Current Percentile: 97.0
 
 # Elo History
 

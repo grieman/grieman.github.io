@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jiwon Koo  
-date: 2022-11-16 11:38:29.953733  
+date: 2022-11-22 11:33:48.550779  
 categories: player  
 ---
 # Jiwon Koo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 79.0
+## Current elo: 84.0
 
-## Current Percentile: 7.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
 | Sunwolves             |            19 |   0.184211 |
-| Japan                 |            14 |   0.428571 |
+| Japan                 |            15 |   0.4      |
 | Mie Honda Heat        |             6 |   0.333333 |
 | Kobelco Kobe Steelers |             2 |   0.5      |
 
@@ -50,7 +50,7 @@ categories: player
 | Scotland                          |         1 |   1        |
 | Samoa                             |         1 |   1        |
 | Portugal                          |         1 |   1        |
-| Green Rockets Tokatsu             |         1 |   1        |
+| France                            |         1 |   0        |
 | New Zealand                       |         1 |   0        |
 | Cheetahs                          |         1 |   0        |
 | Black Rams Tokyo                  |         1 |   1        |
@@ -58,4 +58,5 @@ categories: player
 | Jaguares                          |         1 |   1        |
 | Italy                             |         1 |   0        |
 | Chiefs                            |         1 |   0        |
+| Green Rockets Tokatsu             |         1 |   1        |
 | Australia                         |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George McGuigan  
-date: 2022-11-16 11:36:30.030276  
+date: 2022-11-22 11:38:48.781067  
 categories: player  
 ---
 # George McGuigan
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 106.0
 
 ## Current Percentile: 80.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Proctor  
-date: 2022-11-16 11:34:12.512428  
+date: 2022-11-22 11:33:17.361216  
 categories: player  
 ---
 # Matt Proctor
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 113.0
+## Current elo: 114.0
 
 ## Current Percentile: 84.0
 

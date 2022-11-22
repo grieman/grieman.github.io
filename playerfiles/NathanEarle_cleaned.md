@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nathan Earle  
-date: 2022-11-16 11:31:38.425308  
+date: 2022-11-22 11:26:46.305855  
 categories: player  
 ---
 # Nathan Earle
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 121.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 

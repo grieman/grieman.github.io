@@ -1,0 +1,61 @@
+---  
+layout: page  
+title: Thomas Toevalu  
+date: 2022-11-22 11:27:06.012655  
+categories: player  
+---
+# Thomas Toevalu
+
+## Positions: N8, FL
+
+## Current elo: 53.0
+
+## Current Percentile: 0.0
+
+# Elo History
+
+
+![elo history](history_ThomasToevalu.png)
+# Match History
+
+
+| Team                       |   Appearances |   Win Rate |
+|:---------------------------|--------------:|-----------:|
+| Cognac Saint Jean d'Angély |            21 |   0.190476 |
+| Bourgoin-Jallieu           |            19 |   0.131579 |
+| Rouen                      |            14 |   0.285714 |
+| Narbonne                   |             8 |   0.1875   |
+| Albi                       |             3 |   0.166667 |
+
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Aurillac                   |         5 |   0.2      |
+| Beziers                    |         5 |   0        |
+| Perpignan                  |         4 |   0.25     |
+| Nice                       |         4 |   0.375    |
+| Dax                        |         4 |   0.5      |
+| Mont-de-Marsan             |         3 |   0        |
+| Chambery                   |         3 |   0.333333 |
+| Colomiers                  |         3 |   0        |
+| Vannes                     |         3 |   0.166667 |
+| Valence Romans Drome Rugby |         2 |   0        |
+| Blagnac                    |         2 |   0.5      |
+| Grenoble                   |         2 |   0.25     |
+| Massy                      |         2 |   0        |
+| Albi                       |         2 |   0        |
+| Montauban                  |         2 |   0        |
+| Narbonne                   |         2 |   0        |
+| US Bressane                |         2 |   0        |
+| Oyonnax                    |         2 |   0.5      |
+| Soyaux-Angouleme           |         2 |   0        |
+| Carqueiranne-Hyères        |         1 |   0        |
+| Roval Drome XV             |         1 |   1        |
+| Tarbes                     |         1 |   0        |
+| Suresnes                   |         1 |   0        |
+| Biarritz Olympique         |         1 |   0        |
+| Rennes                     |         1 |   0        |
+| Bayonne                    |         1 |   1        |
+| Carcassonne                |         1 |   1        |
+| Nevers                     |         1 |   0        |
+| Bourgoin-Jallieu           |         1 |   0        |
+| Agen                       |         1 |   0        |

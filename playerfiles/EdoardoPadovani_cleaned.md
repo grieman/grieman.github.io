@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Edoardo Padovani  
-date: 2022-11-16 11:26:18.945097  
+date: 2022-11-22 11:43:21.050831  
 categories: player  
 ---
 # Edoardo Padovani
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Zebre            |            85 |   0.276471 |
-| Italy            |            39 |   0.205128 |
+| Italy            |            40 |   0.2      |
 | Benetton Treviso |            18 |   0.444444 |
 | Mogliano         |            10 |   0        |
 | Toulon           |             4 |   0        |
@@ -53,6 +53,7 @@ categories: player
 | Brive                |         3 |   0.666667 |
 | RC Enisei            |         2 |   1        |
 | Bayonne              |         2 |   0        |
+| South Africa         |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Oyonnax              |         2 |   0        |
 | New Zealand          |         2 |   0        |
@@ -63,10 +64,9 @@ categories: player
 | Gloucester Rugby     |         2 |   0        |
 | Worcester Warriors   |         2 |   1        |
 | Uruguay              |         1 |   1        |
-| Bath Rugby           |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
+| Bath Rugby           |         1 |   0        |
 | Southern Kings       |         1 |   1        |
-| South Africa         |         1 |   1        |
 | Tonga                |         1 |   0        |
 | Fiji                 |         1 |   0        |
 | Russia               |         1 |   1        |

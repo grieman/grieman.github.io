@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Paea  
-date: 2022-11-16 11:39:55.027636  
+date: 2022-11-22 11:26:49.641463  
 categories: player  
 ---
 # Manu Paea
@@ -25,7 +25,7 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Auckland       |            11 |   0.545455 |
 | Moana Pasifika |             5 |   0.4      |
-| Tonga          |             4 |   0.5      |
+| Tonga          |             5 |   0.6      |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Northland     |         1 |        0   |
 | Wellington    |         1 |        0   |
 | Waikato       |         1 |        0   |
+| Uruguay       |         1 |        1   |
 | Tasman        |         1 |        1   |
 | Taranaki      |         1 |        1   |
 | Southland     |         1 |        1   |

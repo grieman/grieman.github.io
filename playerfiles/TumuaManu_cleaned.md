@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tumua Manu  
-date: 2022-11-16 11:22:25.529505  
+date: 2022-11-22 11:31:09.439295  
 categories: player  
 ---
 # Tumua Manu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 120.0
+## Current elo: 126.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Auckland |            22 |   0.681818 |
 | Chiefs   |            21 |   0.428571 |
 | Blues    |             4 |   0.25     |
-| Samoa    |             3 |   1        |
+| Samoa    |             4 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -44,32 +44,33 @@ categories: player
 | Jaguares                 |         3 |   0.333333 |
 | Highlanders              |         3 |   0.166667 |
 | Wellington               |         3 |   0.666667 |
-| Brive                    |         3 |   0.333333 |
 | Castres Olympique        |         3 |   0        |
+| Brive                    |         3 |   0.333333 |
 | Counties Manukau         |         2 |   1        |
-| Southland                |         2 |   1        |
-| Perpignan                |         2 |   1        |
-| Blues                    |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
-| Biarritz Olympique       |         2 |   1        |
-| Melbourne Rebels         |         2 |   0.5      |
-| Bayonne                  |         2 |   1        |
-| La Rochelle              |         2 |   0        |
-| Canterbury               |         2 |   1        |
-| Clermont Auvergne        |         2 |   0.5      |
 | Waikato                  |         2 |   0.5      |
+| Bayonne                  |         2 |   1        |
+| Biarritz Olympique       |         2 |   1        |
+| Blues                    |         2 |   0.5      |
+| Southland                |         2 |   1        |
 | Racing 92                |         2 |   0        |
+| Perpignan                |         2 |   1        |
+| Clermont Auvergne        |         2 |   0.5      |
+| Canterbury               |         2 |   1        |
+| Melbourne Rebels         |         2 |   0.5      |
+| La Rochelle              |         2 |   0        |
+| Bulls                    |         1 |   1        |
+| Brumbies                 |         1 |   0        |
+| Georgia                  |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Sunwolves                |         1 |   0        |
-| Brumbies                 |         1 |   0        |
-| Otago                    |         1 |   0        |
+| Lions                    |         1 |   0        |
+| Bay of Plenty            |         1 |   1        |
+| North Harbour            |         1 |   1        |
 | Sharks                   |         1 |   1        |
+| Romania                  |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
 | Fiji                     |         1 |   1        |
+| Otago                    |         1 |   0        |
 | Northland                |         1 |   1        |
-| North Harbour            |         1 |   1        |
-| Bulls                    |         1 |   1        |
-| Bay of Plenty            |         1 |   1        |
-| Lions                    |         1 |   0        |
-| Georgia                  |         1 |   1        |
 | Agen                     |         1 |   1        |

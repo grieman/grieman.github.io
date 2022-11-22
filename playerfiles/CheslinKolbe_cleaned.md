@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cheslin Kolbe  
-date: 2022-11-16 11:39:10.420581  
+date: 2022-11-22 11:26:25.330166  
 categories: player  
 ---
 # Cheslin Kolbe
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 155.0
+## Current elo: 152.0
 
 ## Current Percentile: 99.0
 
@@ -26,7 +26,7 @@ categories: player
 | Stade Toulousain |            77 |   0.766234 |
 | Stormers         |            49 |   0.632653 |
 | Western Province |            35 |   0.8      |
-| South Africa     |            23 |   0.673913 |
+| South Africa     |            24 |   0.6875   |
 | Toulon           |            14 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -76,12 +76,12 @@ categories: player
 | Hurricanes               |         2 |   0        |
 | Japan                    |         2 |   1        |
 | Jaguares                 |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Crusaders                |         1 |   0        |
 | Scotland                 |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Ireland                  |         1 |   0        |
 | Biarritz Olympique       |         1 |   1        |
-| Italy                    |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
 | Boland Cavaliers         |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Grant Gilchrist  
-date: 2022-11-16 11:33:14.648368  
+date: 2022-11-22 11:35:54.360353  
 categories: player  
 ---
 # Grant Gilchrist
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 111.0
+## Current elo: 113.0
 
-## Current Percentile: 85.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Edinburgh |           177 |   0.480226 |
-| Scotland  |            56 |   0.544643 |
+| Scotland  |            57 |   0.552632 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,8 +39,8 @@ categories: player
 | Dragons                  |         9 |   0.777778 |
 | Connacht                 |         8 |   0.375    |
 | France                   |         7 |   0.428571 |
+| Argentina                |         7 |   0.857143 |
 | Italy                    |         7 |   1        |
-| Argentina                |         6 |   0.833333 |
 | Ireland                  |         6 |   0        |
 | London Irish             |         5 |   0.8      |
 | Zebre                    |         5 |   0.8      |

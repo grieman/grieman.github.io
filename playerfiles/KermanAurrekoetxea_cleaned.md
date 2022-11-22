@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kerman Aurrekoetxea  
-date: 2022-11-16 11:36:27.942291  
+date: 2022-11-22 11:39:22.210650  
 categories: player  
 ---
 # Kerman Aurrekoetxea
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 84.0
+## Current elo: 85.0
 
-## Current Percentile: 5.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -23,24 +23,23 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            17 |   0.264706 |
-| Spain              |             5 |   0.4      |
+| Biarritz Olympique |            18 |   0.305556 |
+| Spain              |             3 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Nevers               |         2 |       0.25 |
 | Montauban            |         2 |       0.5  |
-| Agen                 |         1 |       0    |
+| Nevers               |         2 |       0.25 |
+| Montpellier Herault  |         1 |       0    |
 | Uruguay              |         1 |       1    |
 | Toulon               |         1 |       0    |
-| Tonga                |         1 |       0    |
 | Stade Toulousain     |         1 |       0    |
 | Stade Francais Paris |         1 |       0    |
 | Rouen                |         1 |       0    |
 | Pau                  |         1 |       0    |
-| Namibia              |         1 |       1    |
+| Agen                 |         1 |       0    |
 | Beziers              |         1 |       1    |
-| Montpellier Herault  |         1 |       0    |
+| Massy                |         1 |       1    |
 | La Rochelle          |         1 |       1    |
 | Georgia              |         1 |       0    |
 | Fiji                 |         1 |       0    |

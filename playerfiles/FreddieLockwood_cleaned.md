@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Lockwood  
-date: 2022-11-16 11:24:41.292633  
+date: 2022-11-22 11:34:14.168947  
 categories: player  
 ---
 # Freddie Lockwood
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 69.0
+## Current Percentile: 68.0
 
 # Elo History
 

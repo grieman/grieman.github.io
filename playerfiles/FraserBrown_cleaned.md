@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fraser Brown  
-date: 2022-11-16 11:32:04.447125  
+date: 2022-11-22 11:39:14.274924  
 categories: player  
 ---
 # Fraser Brown
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 118.0
+## Current elo: 120.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           123 |   0.601626 |
-| Scotland         |            50 |   0.49     |
+| Scotland         |            51 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,16 +41,16 @@ categories: player
 | Benetton Treviso         |         7 |   1        |
 | Wales                    |         5 |   0.4      |
 | Italy                    |         5 |   0.8      |
+| Argentina                |         4 |   1        |
 | France                   |         4 |   0.25     |
 | Japan                    |         4 |   0.75     |
 | England                  |         4 |   0.125    |
 | Australia                |         4 |   0.5      |
-| Cheetahs                 |         3 |   1        |
 | Montpellier Herault      |         3 |   0.666667 |
 | Saracens                 |         3 |   0        |
 | Racing 92                |         3 |   0.666667 |
 | Ospreys                  |         3 |   0.333333 |
-| Argentina                |         3 |   1        |
+| Cheetahs                 |         3 |   1        |
 | Exeter Chiefs            |         3 |   0.166667 |
 | Georgia                  |         2 |   1        |
 | Stade Toulousain         |         2 |   0        |

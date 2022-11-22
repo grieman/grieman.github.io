@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fabien Lorenzon  
-date: 2022-11-16 11:37:44.120907  
+date: 2022-11-22 11:30:15.418031  
 categories: player  
 ---
 # Fabien Lorenzon
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 25.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blagnac     |            16 |        0.5 |
+| Blagnac     |            17 |        0.5 |
 | Carcassonne |             1 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,6 +34,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Narbonne                   |         1 |        0.5 |
 | Rennes                     |         1 |        1   |
 | Suresnes                   |         1 |        0   |
 | Tarbes                     |         1 |        1   |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Dan Frost  
-date: 2022-11-16 11:27:59.209364  
+date: 2022-11-22 11:37:46.103215  
 categories: player  
 ---
 # Dan Frost
 
 ## Positions: H
 
-## Current elo: 121.0
+## Current elo: 124.0
 
 ## Current Percentile: 98.0
 

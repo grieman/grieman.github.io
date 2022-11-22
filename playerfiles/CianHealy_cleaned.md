@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cian Healy  
-date: 2022-11-16 11:37:22.854666  
+date: 2022-11-22 11:45:57.278181  
 categories: player  
 ---
 # Cian Healy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 114.0
+## Current elo: 115.0
 
 ## Current Percentile: 95.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Leinster  |           224 |   0.776786 |
-| Ireland   |           108 |   0.634259 |
+| Ireland   |           109 |   0.637615 |
 | Edinburgh |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,7 +44,7 @@ categories: player
 | Edinburgh                |        12 |   0.916667 |
 | Italy                    |        12 |   0.916667 |
 | Benetton Treviso         |        10 |   0.9      |
-| Australia                |         8 |   0.5625   |
+| Australia                |         9 |   0.611111 |
 | Wasps                    |         7 |   0.714286 |
 | Bath Rugby               |         6 |   0.833333 |
 | Clermont Auvergne        |         6 |   0.5      |

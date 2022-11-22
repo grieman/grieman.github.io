@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Steward  
-date: 2022-11-16 11:26:17.680585  
+date: 2022-11-22 11:37:11.136449  
 categories: player  
 ---
 # Freddie Steward
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 99.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -24,21 +24,21 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |            51 |   0.666667 |
-| England          |            15 |   0.666667 |
+| England          |            16 |   0.65625  |
 | Ampthill         |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Sale Sharks              |         6 |   0.166667 |
 | Harlequins               |         5 |   0.6      |
-| Northampton Saints       |         4 |   0.75     |
 | Bristol Rugby            |         4 |   0.5      |
 | Wasps                    |         4 |   0.75     |
 | London Irish             |         4 |   0.75     |
 | Australia                |         4 |   0.75     |
 | Exeter Chiefs            |         4 |   0.5      |
-| Bath Rugby               |         3 |   0.333333 |
+| Northampton Saints       |         4 |   0.75     |
 | Newcastle Falcons        |         3 |   1        |
+| Bath Rugby               |         3 |   0.333333 |
 | Saracens                 |         3 |   0.666667 |
 | Gloucester Rugby         |         3 |   1        |
 | Worcester Warriors       |         2 |   1        |
@@ -50,11 +50,12 @@ categories: player
 | Wales                    |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Argentina                |         1 |   0        |
+| New Zealand              |         1 |   0.5      |
 | Jersey                   |         1 |   0        |
-| Japan                    |         1 |   1        |
+| Italy                    |         1 |   1        |
 | Ireland                  |         1 |   0        |
 | France                   |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Brive                    |         1 |   1        |
-| Italy                    |         1 |   1        |
+| Japan                    |         1 |   1        |

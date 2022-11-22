@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Priestland  
-date: 2022-11-16 11:29:31.576805  
+date: 2022-11-22 11:47:46.323648  
 categories: player  
 ---
 # Rhys Priestland
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 29.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Scarlets      |           138 |   0.48913  |
 | Bath Rugby    |           126 |   0.456349 |
-| Wales         |            51 |   0.558824 |
+| Wales         |            52 |   0.548077 |
 | Cardiff Blues |            18 |   0.444444 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -67,6 +67,7 @@ categories: player
 | South Africa         |         3 |   0        |
 | Fiji                 |         3 |   1        |
 | Aironi               |         3 |   1        |
+| Georgia              |         2 |   0.5      |
 | Argentina            |         2 |   0.5      |
 | Pau                  |         2 |   1        |
 | Stade Toulousain     |         2 |   0        |
@@ -75,7 +76,6 @@ categories: player
 | Perpignan            |         2 |   0.5      |
 | Samoa                |         1 |   1        |
 | Lions                |         1 |   0        |
-| Georgia              |         1 |   1        |
 | Sharks               |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |
 | Stormers             |         1 |   1        |

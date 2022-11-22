@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Malins  
-date: 2022-11-16 11:39:26.218530  
+date: 2022-11-22 11:41:37.671787  
 categories: player  
 ---
 # Max Malins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 41.0
+## Current Percentile: 30.0
 
 # Elo History
 

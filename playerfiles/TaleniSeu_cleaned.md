@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taleni Seu  
-date: 2022-11-16 11:22:19.279958  
+date: 2022-11-22 11:35:35.636052  
 categories: player  
 ---
 # Taleni Seu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 115.0
+## Current elo: 119.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Chiefs                           |            44 |   0.625    |
 | Auckland                         |            23 |   0.673913 |
 | Toyota Industries Shuttles Aichi |            10 |   0.8      |
-| Samoa                            |             2 |   0.5      |
+| Samoa                            |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -61,6 +61,7 @@ categories: player
 | Southern Kings           |         1 |   1        |
 | Kamaishi Seawaves        |         1 |   1        |
 | Kurita Water Gush        |         1 |   1        |
+| Georgia                  |         1 |   1        |
 | Hanazono Kintetsu Liners |         1 |   0        |
 | North Harbour            |         1 |   0        |
 | New South Wales Waratahs |         1 |   0        |
@@ -69,4 +70,4 @@ categories: player
 | Manawatu                 |         1 |   1        |
 | Italy                    |         1 |   0        |
 | Kyuden Voltex            |         1 |   1        |
-| Georgia                  |         1 |   1        |
+| Romania                  |         1 |   1        |

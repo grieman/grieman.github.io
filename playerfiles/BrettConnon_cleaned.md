@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Brett Connon  
-date: 2022-11-16 11:33:47.493876  
+date: 2022-11-22 11:33:00.658680  
 categories: player  
 ---
 # Brett Connon
 
 ## Positions: FH
 
-## Current elo: 83.0
+## Current elo: 79.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 

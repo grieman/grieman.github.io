@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seungsin Lee  
-date: 2022-11-16 11:31:29.345263  
+date: 2022-11-22 11:29:11.869636  
 categories: player  
 ---
 # Seungsin Lee
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 95.0
+## Current elo: 100.0
 
-## Current Percentile: 58.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -24,11 +24,11 @@ categories: player
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
 | Kobelco Kobe Steelers |            11 |   0.454545 |
-| Japan                 |             5 |   0.2      |
+| Japan                 |             6 |   0.166667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| France                            |         2 |        0   |
+| France                            |         3 |        0   |
 | Green Rockets Tokatsu             |         2 |        1   |
 | Saitama Wild Knights              |         2 |        0   |
 | Urayasu D-Rocks                   |         2 |        0.5 |

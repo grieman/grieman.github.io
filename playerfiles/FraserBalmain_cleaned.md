@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fraser Balmain  
-date: 2022-11-16 11:42:13.041840  
+date: 2022-11-22 11:28:06.583294  
 categories: player  
 ---
 # Fraser Balmain
 
 ## Positions: P
 
-## Current elo: 81.0
+## Current elo: 83.0
 
-## Current Percentile: 8.0
+## Current Percentile: 13.0
 
 # Elo History
 

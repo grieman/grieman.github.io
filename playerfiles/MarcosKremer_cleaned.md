@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marcos Kremer  
-date: 2022-11-16 11:21:10.172375  
+date: 2022-11-22 11:27:59.285286  
 categories: player  
 ---
 # Marcos Kremer
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 38.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Argentina            |            57 |   0.280702 |
+| Argentina            |            58 |   0.275862 |
 | Jaguares             |            51 |   0.568627 |
 | Stade Francais Paris |            33 |   0.454545 |
 | Atlético del Rosario |             2 |   0.5      |
@@ -36,10 +36,10 @@ categories: player
 | Lions                    |         9 |   0.444444 |
 | Sharks                   |         7 |   0.428571 |
 | Bulls                    |         6 |   0.666667 |
+| Scotland                 |         5 |   0.4      |
 | Wales                    |         5 |   0.3      |
 | Stormers                 |         4 |   0.25     |
 | Clermont Auvergne        |         4 |   0.25     |
-| Scotland                 |         4 |   0.5      |
 | Queensland Reds          |         4 |   0.75     |
 | Pau                      |         4 |   0.5      |
 | Brumbies                 |         3 |   1        |

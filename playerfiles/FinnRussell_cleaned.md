@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finn Russell  
-date: 2022-11-16 11:37:38.569673  
+date: 2022-11-22 11:28:38.702128  
 categories: player  
 ---
 # Finn Russell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 124.0
+## Current elo: 126.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Glasgow Warriors        |            82 |   0.621951 |
 | Racing 92               |            81 |   0.648148 |
-| Scotland                |            64 |   0.570312 |
+| Scotland                |            65 |   0.576923 |
 | British and Irish Lions |             3 |   0.5      |
 | Barbarians              |             1 |   1        |
 
@@ -60,12 +60,12 @@ categories: player
 | Pau                      |         4 |   0.75     |
 | Leinster                 |         4 |   0        |
 | Zebre                    |         4 |   1        |
+| Argentina                |         4 |   1        |
 | Japan                    |         3 |   0.666667 |
 | Dragons                  |         3 |   0.333333 |
 | Brive                    |         3 |   1        |
 | South Africa             |         3 |   0        |
 | Castres Olympique        |         3 |   1        |
-| Argentina                |         3 |   1        |
 | Samoa                    |         3 |   1        |
 | Agen                     |         3 |   1        |
 | Exeter Chiefs            |         3 |   0.333333 |

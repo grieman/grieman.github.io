@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Callum Hunter-Hill  
-date: 2022-11-16 11:28:54.969548  
+date: 2022-11-22 11:33:08.618358  
 categories: player  
 ---
 # Callum Hunter-Hill
 
 ## Positions: L
 
-## Current elo: 80.0
+## Current elo: 81.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 

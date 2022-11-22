@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ollie Stonham  
-date: 2022-11-16 11:22:30.467855  
+date: 2022-11-22 11:28:41.123374  
 categories: player  
 ---
 # Ollie Stonham
 
 ## Positions: N8, FL
 
-## Current elo: 83.0
+## Current elo: 86.0
 
-## Current Percentile: 11.0
+## Current Percentile: 15.0
 
 # Elo History
 

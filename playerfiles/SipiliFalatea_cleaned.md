@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sipili Falatea  
-date: 2022-11-16 11:23:36.407703  
+date: 2022-11-22 11:46:47.884455  
 categories: player  
 ---
 # Sipili Falatea
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Clermont Auvergne |            45 |   0.611111 |
-| France            |             6 |   0.666667 |
+| France            |             7 |   0.714286 |
 | Bordeaux Begles   |             5 |   0.3      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,12 +37,12 @@ categories: player
 | Toulon               |         3 |   0.333333 |
 | Brive                |         3 |   0.666667 |
 | Stade Francais Paris |         3 |   1        |
+| Japan                |         3 |   1        |
 | Australia            |         3 |   0.333333 |
 | Pau                  |         3 |   1        |
 | Bordeaux Begles      |         2 |   0.25     |
 | Timisoara Saracens   |         2 |   1        |
 | Dragons              |         2 |   1        |
-| Japan                |         2 |   1        |
 | Oyonnax              |         2 |   0.25     |
 | South Africa         |         1 |   1        |
 | Agen                 |         1 |   1        |

@@ -1,30 +1,24 @@
 ---  
 layout: page  
 title: Guy Pepper  
-date: 2022-11-16 11:37:06.634055  
+date: 2022-11-22 11:46:54.230851  
 categories: player  
 ---
 # Guy Pepper
 
-## Positions: FL
+## Positions: 
 
-## Current elo: 99.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 
-# Elo History
-
-
-![elo history](history_GuyPepper.png)
 # Match History
 
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |             3 |   0.333333 |
+| Newcastle Falcons |             1 |          0 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Bath Rugby         |         1 |          0 |
-| Gloucester Rugby   |         1 |          1 |
 | Northampton Saints |         1 |          0 |

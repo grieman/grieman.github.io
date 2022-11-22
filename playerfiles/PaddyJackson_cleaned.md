@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paddy Jackson  
-date: 2022-11-16 11:41:55.266167  
+date: 2022-11-22 11:37:44.019699  
 categories: player  
 ---
 # Paddy Jackson
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 108.0
+## Current elo: 109.0
 
 ## Current Percentile: 80.0
 

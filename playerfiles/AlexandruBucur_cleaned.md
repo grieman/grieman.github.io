@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alexandru Bucur  
-date: 2022-11-16 11:34:16.245367  
+date: 2022-11-22 11:40:35.307942  
 categories: player  
 ---
 # Alexandru Bucur
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 106.0
+## Current elo: 101.0
 
-## Current Percentile: 85.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |            10 |        0.5 |
+| Romania |            11 |   0.454545 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
@@ -34,3 +34,4 @@ categories: player
 | Georgia     |         1 |        0   |
 | Italy       |         1 |        0   |
 | Netherlands |         1 |        1   |
+| Samoa       |         1 |        0   |

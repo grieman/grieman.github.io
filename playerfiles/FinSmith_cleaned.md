@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fin Smith  
-date: 2022-11-16 11:28:07.921380  
+date: 2022-11-22 11:33:21.653402  
 categories: player  
 ---
 # Fin Smith
 
 ## Positions: FH
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 20.0
+## Current Percentile: 19.0
 
 # Elo History
 

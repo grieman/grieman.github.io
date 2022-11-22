@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wimpie van der Walt  
-date: 2022-11-16 11:29:19.704006  
+date: 2022-11-22 11:44:11.388410  
 categories: player  
 ---
 # Wimpie van der Walt
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 75.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| Japan                           |            18 |   0.472222 |
+| Japan                           |            19 |   0.447368 |
 | Southern Kings                  |            15 |   0.233333 |
 | NTT Docomo Red Hurricanes Osaka |            14 |   0.5      |
 | Eastern Province Kings          |            10 |   0.9      |
@@ -35,6 +35,7 @@ categories: player
 |:---------------------------------|----------:|-----------:|
 | New South Wales Waratahs         |         3 |   0        |
 | Cheetahs                         |         3 |   0.333333 |
+| France                           |         3 |   0.166667 |
 | Stormers                         |         3 |   0.333333 |
 | Leopards                         |         2 |   1        |
 | Shizuoka Blue Revs               |         2 |   0        |
@@ -49,7 +50,6 @@ categories: player
 | Sharks                           |         2 |   0        |
 | Griffons                         |         2 |   1        |
 | Pumas                            |         2 |   0.5      |
-| France                           |         2 |   0.25     |
 | England                          |         2 |   0        |
 | Chiefs                           |         2 |   0        |
 | Bulls                            |         2 |   0        |

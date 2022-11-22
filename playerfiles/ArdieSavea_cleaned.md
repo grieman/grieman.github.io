@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ardie Savea  
-date: 2022-11-16 11:42:29.142259  
+date: 2022-11-22 11:36:33.477755  
 categories: player  
 ---
 # Ardie Savea
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 125.0
+## Current elo: 129.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Hurricanes  |           119 |   0.659664 |
-| New Zealand |            72 |   0.763889 |
+| New Zealand |            73 |   0.760274 |
 | Wellington  |            26 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -50,17 +50,17 @@ categories: player
 | Melbourne Rebels         |         4 |   1        |
 | Manawatu                 |         3 |   0.666667 |
 | British and Irish Lions  |         3 |   0.5      |
+| England                  |         3 |   0.5      |
 | Otago                    |         3 |   0.666667 |
 | Hawke's Bay              |         3 |   0.166667 |
 | Jaguares                 |         3 |   0.666667 |
+| Bay of Plenty            |         2 |   1        |
 | Cheetahs                 |         2 |   1        |
 | Waikato                  |         2 |   1        |
 | North Harbour            |         2 |   1        |
 | Northland                |         2 |   1        |
-| England                  |         2 |   0.5      |
 | Canterbury               |         2 |   0.5      |
 | Taranaki                 |         2 |   1        |
-| Bay of Plenty            |         2 |   1        |
 | Sunwolves                |         2 |   1        |
 | Southland                |         2 |   1        |
 | Fiji                     |         1 |   1        |
@@ -71,6 +71,6 @@ categories: player
 | Scotland                 |         1 |   1        |
 | Samoa                    |         1 |   1        |
 | Canada                   |         1 |   1        |
-| Namibia                  |         1 |   1        |
 | Italy                    |         1 |   1        |
+| Namibia                  |         1 |   1        |
 | Counties Manukau         |         1 |   1        |

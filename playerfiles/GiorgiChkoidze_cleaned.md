@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Chkoidze  
-date: 2022-11-16 11:39:41.958867  
+date: 2022-11-22 11:46:33.986255  
 categories: player  
 ---
 # Giorgi Chkoidze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 97.0
+## Current elo: 100.0
 
-## Current Percentile: 48.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Georgia |            10 |       0.65 |
+| Georgia |            11 |   0.681818 |
 
 | Opponent     |   Matches |   Win Rate |
 |:-------------|----------:|-----------:|
@@ -37,3 +37,4 @@ categories: player
 | South Africa |         1 |        0   |
 | Spain        |         1 |        1   |
 | Uruguay      |         1 |        1   |
+| Wales        |         1 |        1   |

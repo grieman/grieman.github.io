@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Inciarte Rachetti  
-date: 2022-11-16 11:22:50.395581  
+date: 2022-11-22 11:31:05.988428  
 categories: player  
 ---
 # Tomas Inciarte Rachetti
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 25.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Penarol Rugby |            18 |   0.722222 |
-| Uruguay       |            12 |   0.333333 |
+| Uruguay       |            13 |   0.307692 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,5 +39,6 @@ categories: player
 | Fiji                     |         1 |       1    |
 | Georgia                  |         1 |       0    |
 | Italy                    |         1 |       0    |
+| Tonga                    |         1 |       0    |
 | United States of America |         1 |       1    |
 | Wales                    |         1 |       0    |

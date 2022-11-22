@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Ritchie  
-date: 2022-11-16 11:34:00.053563  
+date: 2022-11-22 11:43:58.821274  
 categories: player  
 ---
 # Jamie Ritchie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 129.0
+## Current elo: 134.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Edinburgh |            85 |   0.570588 |
-| Scotland  |            33 |   0.606061 |
+| Scotland  |            34 |   0.617647 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,10 +36,11 @@ categories: player
 | Ospreys              |         5 |   0.2      |
 | Cardiff Blues        |         5 |   0.4      |
 | London Irish         |         5 |   0.6      |
-| France               |         4 |   0.5      |
 | Benetton Treviso     |         4 |   0.75     |
+| France               |         4 |   0.5      |
 | Wales                |         3 |   0.333333 |
 | Munster              |         3 |   0        |
+| Argentina            |         3 |   1        |
 | Italy                |         3 |   1        |
 | Ireland              |         3 |   0        |
 | Agen                 |         3 |   1        |
@@ -56,17 +57,16 @@ categories: player
 | South Africa         |         2 |   0        |
 | Georgia              |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
-| Argentina            |         2 |   1        |
 | Japan                |         2 |   0.5      |
+| Russia               |         1 |   1        |
 | Bulls                |         1 |   0        |
-| Newcastle Falcons    |         1 |   1        |
-| Samoa                |         1 |   1        |
 | Brive                |         1 |   1        |
+| Newcastle Falcons    |         1 |   1        |
 | New Zealand          |         1 |   0        |
 | Canada               |         1 |   1        |
-| Cheetahs             |         1 |   1        |
 | Timisoara Saracens   |         1 |   1        |
 | Tonga                |         1 |   1        |
+| Cheetahs             |         1 |   1        |
 | Bordeaux Begles      |         1 |   0        |
 | Krasny Yar           |         1 |   1        |
-| Russia               |         1 |   1        |
+| Samoa                |         1 |   1        |

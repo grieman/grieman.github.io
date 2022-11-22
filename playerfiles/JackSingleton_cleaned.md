@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Singleton  
-date: 2022-11-16 11:36:21.699202  
+date: 2022-11-22 11:42:00.462293  
 categories: player  
 ---
 # Jack Singleton
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Ollivon  
-date: 2022-11-16 11:36:39.734133  
+date: 2022-11-22 11:44:44.264212  
 categories: player  
 ---
 # Charles Ollivon
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 123.0
+## Current elo: 120.0
 
 ## Current Percentile: 97.0
 
@@ -25,7 +25,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Toulon  |            76 |   0.592105 |
 | Bayonne |            29 |   0.517241 |
-| France  |            24 |   0.666667 |
+| France  |            25 |   0.68     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -44,9 +44,9 @@ categories: player
 | Stade Francais Paris |         4 |   0.75     |
 | Scotland             |         4 |   0.25     |
 | Wales                |         4 |   0.75     |
+| Japan                |         3 |   1        |
 | Ireland              |         3 |   0.666667 |
 | Agen                 |         2 |   1        |
-| Japan                |         2 |   1        |
 | Oyonnax              |         2 |   1        |
 | Italy                |         2 |   1        |
 | Australia            |         2 |   0.5      |

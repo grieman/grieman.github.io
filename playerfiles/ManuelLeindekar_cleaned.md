@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manuel Leindekar  
-date: 2022-11-16 11:26:27.376496  
+date: 2022-11-22 11:43:09.937933  
 categories: player  
 ---
 # Manuel Leindekar
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dillon Lewis  
-date: 2022-11-16 11:31:09.164733  
+date: 2022-11-22 11:45:14.716898  
 categories: player  
 ---
 # Dillon Lewis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cardiff Blues |            81 |   0.54321  |
-| Wales         |            43 |   0.593023 |
+| Wales         |            44 |   0.579545 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -46,21 +46,21 @@ categories: player
 | Australia           |         3 |   1        |
 | Italy               |         3 |   0.666667 |
 | Zebre               |         3 |   0.666667 |
-| Edinburgh           |         3 |   1        |
-| Calvisano           |         3 |   1        |
 | Cheetahs            |         3 |   0.666667 |
+| Calvisano           |         3 |   1        |
+| Edinburgh           |         3 |   1        |
 | Harlequins          |         2 |   0        |
 | Ulster              |         2 |   0.5      |
 | Stade Toulousain    |         2 |   1        |
+| Georgia             |         2 |   0.5      |
 | Newcastle Falcons   |         2 |   1        |
 | Saracens            |         2 |   0        |
 | Fiji                |         2 |   1        |
 | Leinster            |         2 |   0.5      |
 | Montpellier Herault |         1 |   0        |
-| Exeter Chiefs       |         1 |   0        |
 | Canada              |         1 |   1        |
 | Samoa               |         1 |   1        |
-| Georgia             |         1 |   1        |
+| Exeter Chiefs       |         1 |   0        |
 | Lions               |         1 |   0        |
 | Bulls               |         1 |   0        |
 | Sharks              |         1 |   1        |

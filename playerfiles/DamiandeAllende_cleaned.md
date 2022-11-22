@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian de Allende  
-date: 2022-11-16 11:41:47.053797  
+date: 2022-11-22 11:44:22.912050  
 categories: player  
 ---
 # Damian de Allende
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 115.0
+## Current elo: 118.0
 
 ## Current Percentile: 90.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stormers             |            91 |   0.532967 |
-| South Africa         |            71 |   0.570423 |
+| South Africa         |            72 |   0.576389 |
 | Munster              |            26 |   0.653846 |
 | Western Province     |            16 |   0.75     |
 | Saitama Wild Knights |             5 |   1        |
@@ -63,9 +63,9 @@ categories: player
 | Free State Cheetahs               |         3 |   1        |
 | France                            |         3 |   0.666667 |
 | Golden Lions                      |         3 |   0.5      |
+| Italy                             |         3 |   0.666667 |
 | Scarlets                          |         2 |   1        |
 | Cardiff Blues                     |         2 |   1        |
-| Italy                             |         2 |   0.5      |
 | Benetton Treviso                  |         2 |   1        |
 | Ospreys                           |         2 |   0.5      |
 | Ulster                            |         2 |   0.5      |

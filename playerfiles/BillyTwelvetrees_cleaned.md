@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Twelvetrees  
-date: 2022-11-16 11:43:14.594141  
+date: 2022-11-22 11:43:05.619920  
 categories: player  
 ---
 # Billy Twelvetrees
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 110.0
+## Current elo: 113.0
 
-## Current Percentile: 88.0
+## Current Percentile: 90.0
 
 # Elo History
 

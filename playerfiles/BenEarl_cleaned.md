@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Earl  
-date: 2022-11-16 11:33:46.225888  
+date: 2022-11-22 11:46:54.922210  
 categories: player  
 ---
 # Ben Earl
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

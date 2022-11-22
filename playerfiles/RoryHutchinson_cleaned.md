@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Hutchinson  
-date: 2022-11-16 11:39:19.307920  
+date: 2022-11-22 11:27:10.868061  
 categories: player  
 ---
 # Rory Hutchinson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 92.0
+## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 46.0
 
 # Elo History
 

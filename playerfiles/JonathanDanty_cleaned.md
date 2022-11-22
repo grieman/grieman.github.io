@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan Danty  
-date: 2022-11-16 11:28:30.060263  
+date: 2022-11-22 11:36:57.588398  
 categories: player  
 ---
 # Jonathan Danty
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 112.0
+## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           179 |   0.547486 |
 | La Rochelle          |            19 |   0.684211 |
-| France               |            15 |   0.733333 |
+| France               |            16 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,33 +41,34 @@ categories: player
 | Agen                 |         8 |   0.5      |
 | La Rochelle          |         8 |   0.5625   |
 | Bayonne              |         8 |   0.625    |
-| Grenoble             |         6 |   0.666667 |
 | Pau                  |         6 |   0.666667 |
-| Oyonnax              |         5 |   0.2      |
+| Grenoble             |         6 |   0.666667 |
 | Perpignan            |         5 |   1        |
+| Oyonnax              |         5 |   0.2      |
 | London Irish         |         4 |   0.5      |
+| Biarritz Olympique   |         3 |   1        |
 | Worcester Warriors   |         3 |   0.333333 |
 | Edinburgh            |         3 |   0.666667 |
 | Australia            |         3 |   0.666667 |
-| Biarritz Olympique   |         3 |   1        |
-| Ospreys              |         2 |   1        |
 | New Zealand          |         2 |   0.5      |
 | Munster              |         2 |   0.5      |
 | Benetton Treviso     |         2 |   1        |
+| Ospreys              |         2 |   1        |
 | Leicester Tigers     |         2 |   0.5      |
+| Argentina            |         2 |   0.5      |
 | Italy                |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
 | Wales                |         2 |   0.5      |
 | Bristol Rugby        |         2 |   0        |
-| Argentina            |         2 |   0.5      |
-| South Africa         |         1 |   1        |
 | Scotland             |         1 |   1        |
 | Bath Rugby           |         1 |   1        |
+| South Africa         |         1 |   1        |
 | Bucuresti            |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
 | Cavalieri Prato      |         1 |   1        |
 | Lusitanos XV         |         1 |   1        |
 | London Welsh         |         1 |   1        |
+| Japan                |         1 |   1        |
 | Ireland              |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Gloucester Rugby     |         1 |   1        |

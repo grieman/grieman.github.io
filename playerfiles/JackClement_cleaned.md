@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Clement  
-date: 2022-11-16 11:32:48.422917  
+date: 2022-11-22 11:29:58.472786  
 categories: player  
 ---
 # Jack Clement
 
 ## Positions: FL, N8
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 47.0
+## Current Percentile: 42.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siya Kolisi  
-date: 2022-11-16 11:28:27.665341  
+date: 2022-11-22 11:36:31.489105  
 categories: player  
 ---
 # Siya Kolisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 81.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stormers         |           115 |   0.569565 |
-| South Africa     |            69 |   0.623188 |
+| South Africa     |            70 |   0.628571 |
 | Western Province |            21 |   0.642857 |
 | Sharks           |            15 |   0.7      |
 
@@ -55,18 +55,19 @@ categories: player
 | Western Force            |         4 |   1        |
 | Blue Bulls               |         4 |   0.75     |
 | Crusaders                |         4 |   0.125    |
-| Japan                    |         3 |   0.666667 |
-| British and Irish Lions  |         3 |   0.666667 |
 | Natal Sharks             |         3 |   0.666667 |
 | Pumas                    |         3 |   1        |
+| Japan                    |         3 |   0.666667 |
+| British and Irish Lions  |         3 |   0.666667 |
 | Stormers                 |         2 |   0.25     |
-| Southern Kings           |         2 |   1        |
-| Eastern Province Kings   |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Scotland                 |         2 |   1        |
+| Eastern Province Kings   |         2 |   1        |
+| Southern Kings           |         2 |   1        |
 | Griquas                  |         1 |   0.5      |
 | Samoa                    |         1 |   1        |
-| Benetton Treviso         |         1 |   1        |
 | Ulster                   |         1 |   0        |
+| Benetton Treviso         |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Connacht                 |         1 |   1        |
 | Canada                   |         1 |   1        |
@@ -76,7 +77,6 @@ categories: player
 | Leopards                 |         1 |   1        |
 | Leinster                 |         1 |   1        |
 | Edinburgh                |         1 |   0        |
-| Italy                    |         1 |   1        |
 | Free State Cheetahs      |         1 |   0        |
 | Georgia                  |         1 |   1        |
 | Zebre                    |         1 |   1        |

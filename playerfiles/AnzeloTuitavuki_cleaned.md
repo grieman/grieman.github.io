@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anzelo Tuitavuki  
-date: 2022-11-16 11:39:49.596097  
+date: 2022-11-22 11:42:31.417524  
 categories: player  
 ---
 # Anzelo Tuitavuki
@@ -23,9 +23,9 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Hawke's Bay    |             5 |       0.6  |
-| Tonga          |             5 |       0.6  |
-| Moana Pasifika |             4 |       0.25 |
+| Tonga          |             6 |   0.666667 |
+| Hawke's Bay    |             5 |   0.6      |
+| Moana Pasifika |             4 |   0.25     |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
@@ -41,3 +41,4 @@ categories: player
 | Southland  |         1 |        1   |
 | Spain      |         1 |        1   |
 | Taranaki   |         1 |        0   |
+| Uruguay    |         1 |        1   |

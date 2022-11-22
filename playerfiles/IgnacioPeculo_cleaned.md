@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ignacio Peculo  
-date: 2022-11-16 11:22:51.671018  
+date: 2022-11-22 11:27:22.047276  
 categories: player  
 ---
 # Ignacio Peculo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 45.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Penarol Rugby |             9 |   0.777778 |
-| Uruguay       |             5 |   0.4      |
+| Uruguay       |             6 |   0.333333 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -36,3 +36,4 @@ categories: player
 | Georgia       |         1 |   0        |
 | Japan         |         1 |   0        |
 | Selknam       |         1 |   0        |
+| Tonga         |         1 |   0        |

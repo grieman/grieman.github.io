@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rieko Ioane  
-date: 2022-11-16 11:27:38.784475  
+date: 2022-11-22 11:35:19.661291  
 categories: player  
 ---
 # Rieko Ioane
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 93.0
+## Current elo: 99.0
 
-## Current Percentile: 42.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Blues             |            86 |   0.575581 |
-| New Zealand       |            59 |   0.745763 |
+| New Zealand       |            60 |   0.741667 |
 | Auckland          |            14 |   0.571429 |
 | New Zealand Maori |             3 |   0.666667 |
 
@@ -58,6 +58,7 @@ categories: player
 | Western Force            |         2 |   1        |
 | Counties Manukau         |         2 |   0.5      |
 | Lions                    |         2 |   1        |
+| England                  |         2 |   0.75     |
 | Italy                    |         2 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Otago                    |         1 |   1        |
@@ -67,7 +68,6 @@ categories: player
 | Southland                |         1 |   1        |
 | Manawatu                 |         1 |   1        |
 | Taranaki                 |         1 |   0        |
-| England                  |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | United States of America |         1 |   1        |
 | Bay of Plenty            |         1 |   1        |

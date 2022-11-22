@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lorenzo Cannone  
-date: 2022-11-16 11:35:11.063874  
+date: 2022-11-22 11:34:44.201834  
 categories: player  
 ---
 # Lorenzo Cannone
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 109.0
+## Current elo: 105.0
 
-## Current Percentile: 88.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            16 |    0.46875 |
-| Italy            |             3 |    1       |
+| Italy            |             4 |    0.75    |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -40,6 +40,7 @@ categories: player
 | Namibia          |         1 |       1    |
 | Samoa            |         1 |       1    |
 | Sharks           |         1 |       0    |
+| South Africa     |         1 |       0    |
 | Stormers         |         1 |       1    |
 | Ulster           |         1 |       0    |
 | Zebre            |         1 |       1    |

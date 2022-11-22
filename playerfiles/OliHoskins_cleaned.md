@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oli Hoskins  
-date: 2022-11-16 11:24:49.920713  
+date: 2022-11-22 11:34:57.479203  
 categories: player  
 ---
 # Oli Hoskins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 117.0
+## Current elo: 115.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -25,57 +25,62 @@ categories: player
 |:--------------|--------------:|-----------:|
 | London Irish  |           112 |   0.410714 |
 | Western Force |            27 |   0.407407 |
-| Perth Spirit  |             5 |   0.2      |
+| Perth Spirit  |            11 |   0.272727 |
 | Australia     |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Wasps                    |         9 |   0.388889 |
 | Bath Rugby               |         8 |   0.25     |
-| Exeter Chiefs            |         8 |   0.375    |
 | Harlequins               |         8 |   0.4375   |
+| Exeter Chiefs            |         8 |   0.375    |
 | Gloucester Rugby         |         8 |   0.1875   |
-| Worcester Warriors       |         7 |   0.428571 |
 | Sale Sharks              |         7 |   0.142857 |
 | Northampton Saints       |         7 |   0.142857 |
 | Leicester Tigers         |         7 |   0.285714 |
-| Saracens                 |         6 |   0.25     |
+| Worcester Warriors       |         7 |   0.428571 |
 | Bristol Rugby            |         6 |   0.333333 |
+| Saracens                 |         6 |   0.25     |
 | Newcastle Falcons        |         4 |   0.25     |
 | Melbourne Rebels         |         4 |   0.5      |
-| Queensland Reds          |         3 |   0.666667 |
+| Brumbies                 |         3 |   0        |
 | New South Wales Waratahs |         3 |   0.666667 |
 | Jersey                   |         3 |   0.333333 |
 | Brisbane City            |         3 |   0        |
-| Brumbies                 |         3 |   0        |
-| Edinburgh                |         2 |   0.5      |
-| Coventry                 |         2 |   1        |
+| Queensland Reds          |         3 |   0.666667 |
 | Stormers                 |         2 |   0        |
-| Bulls                    |         2 |   0.5      |
-| Chiefs                   |         2 |   0.5      |
+| Greater Sydney Rams      |         2 |   0.5      |
 | Melbourne Rising         |         2 |   0.5      |
-| Cornish Pirates          |         2 |   1        |
-| Cheetahs                 |         2 |   0.5      |
 | Krasny Yar               |         2 |   1        |
 | Yorkshire Carnegie       |         2 |   0.5      |
-| London Scottish          |         1 |   1        |
-| Crusaders                |         1 |   0        |
-| Bedford                  |         1 |   1        |
-| Blues                    |         1 |   0        |
-| Toulon                   |         1 |   0        |
-| Ealing Trailfinders      |         1 |   1        |
-| Stade Francais Paris     |         1 |   1        |
+| Chiefs                   |         2 |   0.5      |
+| Edinburgh                |         2 |   0.5      |
+| Cornish Pirates          |         2 |   1        |
+| Bulls                    |         2 |   0.5      |
+| Coventry                 |         2 |   1        |
+| Cheetahs                 |         2 |   0.5      |
+| Canberra Vikings         |         1 |   1        |
+| Rotherham Titans         |         1 |   1        |
+| Cardiff Blues            |         1 |   1        |
 | Sharks                   |         1 |   0        |
 | Scarlets                 |         1 |   0        |
-| Doncaster                |         1 |   1        |
-| Rotherham Titans         |         1 |   1        |
-| Bayonne                  |         1 |   1        |
-| Lions                    |         1 |   1        |
-| Hartpury College         |         1 |   1        |
-| Pau                      |         1 |   1        |
-| Nottingham               |         1 |   1        |
-| Cardiff Blues            |         1 |   1        |
-| England                  |         1 |   0        |
-| Highlanders              |         1 |   1        |
-| Hurricanes               |         1 |   0        |
+| Stade Francais Paris     |         1 |   1        |
+| Sydney Stars             |         1 |   0        |
+| Toulon                   |         1 |   0        |
+| Blues                    |         1 |   0        |
+| Bedford                  |         1 |   1        |
 | Richmond                 |         1 |   1        |
+| England                  |         1 |   0        |
+| Pau                      |         1 |   1        |
+| Hartpury College         |         1 |   1        |
+| North Harbour Rays       |         1 |   0        |
+| NSW Country Eagles       |         1 |   0        |
+| Crusaders                |         1 |   0        |
+| Doncaster                |         1 |   1        |
+| London Scottish          |         1 |   1        |
+| Lions                    |         1 |   1        |
+| Ealing Trailfinders      |         1 |   1        |
+| Bayonne                  |         1 |   1        |
+| Hurricanes               |         1 |   0        |
+| Highlanders              |         1 |   1        |
+| Nottingham               |         1 |   1        |

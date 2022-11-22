@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Barrett  
-date: 2022-11-16 11:27:40.011737  
+date: 2022-11-22 11:33:41.357568  
 categories: player  
 ---
 # Scott Barrett
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 123.0
+## Current elo: 129.0
 
 ## Current Percentile: 97.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Crusaders   |            96 |   0.822917 |
-| New Zealand |            59 |   0.788136 |
+| New Zealand |            60 |   0.783333 |
 | Canterbury  |            19 |   0.789474 |
 | Taranaki    |             1 |   1        |
 
@@ -41,35 +41,35 @@ categories: player
 | Queensland Reds          |         6 |   1        |
 | Ireland                  |         6 |   0.5      |
 | Lions                    |         6 |   0.833333 |
-| Brumbies                 |         5 |   1        |
 | Melbourne Rebels         |         5 |   0.8      |
+| Brumbies                 |         5 |   1        |
 | New South Wales Waratahs |         5 |   1        |
-| Western Force            |         3 |   1        |
+| England                  |         3 |   0.5      |
 | Wales                    |         3 |   1        |
-| Counties Manukau         |         3 |   0.666667 |
-| Bulls                    |         3 |   1        |
 | Stormers                 |         3 |   0.833333 |
 | British and Irish Lions  |         3 |   0.5      |
 | Sharks                   |         3 |   0.833333 |
+| Western Force            |         3 |   1        |
+| Bulls                    |         3 |   1        |
+| Counties Manukau         |         3 |   0.666667 |
+| Cheetahs                 |         2 |   1        |
+| Auckland                 |         2 |   1        |
 | Waikato                  |         2 |   1        |
 | Tonga                    |         2 |   1        |
 | Tasman                   |         2 |   0.5      |
 | Taranaki                 |         2 |   1        |
-| England                  |         2 |   0.5      |
 | Otago                    |         2 |   1        |
-| Italy                    |         2 |   1        |
 | North Harbour            |         2 |   0.5      |
-| Auckland                 |         2 |   1        |
-| Cheetahs                 |         2 |   1        |
-| Wellington               |         1 |   1        |
-| Fijian Drua              |         1 |   1        |
-| Hawke's Bay              |         1 |   1        |
-| Canada                   |         1 |   1        |
-| Northland                |         1 |   1        |
-| Sunwolves                |         1 |   1        |
-| Fiji                     |         1 |   1        |
-| Southland                |         1 |   1        |
-| Manawatu                 |         1 |   0        |
-| Scotland                 |         1 |   1        |
+| Italy                    |         2 |   1        |
 | Samoa                    |         1 |   1        |
+| Scotland                 |         1 |   1        |
+| Canada                   |         1 |   1        |
+| Hawke's Bay              |         1 |   1        |
+| Southland                |         1 |   1        |
+| Fiji                     |         1 |   1        |
+| Sunwolves                |         1 |   1        |
+| Northland                |         1 |   1        |
+| Manawatu                 |         1 |   0        |
+| Fijian Drua              |         1 |   1        |
+| Wellington               |         1 |   1        |
 | Jaguares                 |         1 |   1        |

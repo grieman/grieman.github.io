@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart McCloskey  
-date: 2022-11-16 11:30:27.048425  
+date: 2022-11-22 11:28:55.616248  
 categories: player  
 ---
 # Stuart McCloskey
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 130.0
+## Current elo: 132.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Ulster  |           149 |   0.661074 |
-| Ireland |             8 |   0.875    |
+| Ireland |             9 |   0.888889 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -34,31 +34,32 @@ categories: player
 | Edinburgh                |        12 |   0.833333 |
 | Glasgow Warriors         |        11 |   0.545455 |
 | Scarlets                 |        11 |   0.727273 |
-| Dragons                  |        10 |   0.95     |
 | Ospreys                  |        10 |   0.8      |
-| Cardiff Blues            |         6 |   0.833333 |
+| Dragons                  |        10 |   0.95     |
 | Benetton Treviso         |         6 |   0.916667 |
+| Cardiff Blues            |         6 |   0.833333 |
+| Clermont Auvergne        |         4 |   0.5      |
 | Harlequins               |         4 |   1        |
 | Southern Kings           |         4 |   1        |
-| Clermont Auvergne        |         4 |   0.5      |
 | Leicester Tigers         |         3 |   0.666667 |
 | Stade Toulousain         |         3 |   0.666667 |
 | United States of America |         2 |   1        |
-| Stormers                 |         2 |   0        |
-| Wasps                    |         2 |   0.5      |
 | Saracens                 |         2 |   0        |
 | Racing 92                |         2 |   0.5      |
+| Wasps                    |         2 |   0.5      |
+| Stormers                 |         2 |   0        |
+| Zebre                    |         2 |   0.5      |
 | Bath Rugby               |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | Fiji                     |         2 |   1        |
 | Cheetahs                 |         2 |   0.75     |
-| Zebre                    |         2 |   0.5      |
 | New Zealand Maori        |         1 |   1        |
-| Oyonnax                  |         1 |   1        |
 | Lions                    |         1 |   1        |
+| Oyonnax                  |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | South Africa             |         1 |   1        |
 | Exeter Chiefs            |         1 |   0        |
 | England                  |         1 |   0        |
 | Bordeaux Begles          |         1 |   0        |
+| Australia                |         1 |   1        |

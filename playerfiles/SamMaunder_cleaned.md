@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Maunder  
-date: 2022-11-16 11:24:30.156889  
+date: 2022-11-22 11:43:12.150081  
 categories: player  
 ---
 # Sam Maunder
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 16.0
+## Current Percentile: 14.0
 
 # Elo History
 

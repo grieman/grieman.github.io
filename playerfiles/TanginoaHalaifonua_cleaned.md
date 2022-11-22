@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tanginoa Halaifonua  
-date: 2022-11-16 11:26:42.248164  
+date: 2022-11-22 11:27:26.218773  
 categories: player  
 ---
 # Tanginoa Halaifonua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 65.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:---------|--------------:|-----------:|
 | Grenoble |            36 |   0.541667 |
 | Massy    |            14 |   0.107143 |
-| Tonga    |             7 |   0.428571 |
+| Tonga    |             8 |   0.5      |
 | Lyon     |             6 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -35,27 +35,28 @@ categories: player
 | Oyonnax            |         5 |   0.2      |
 | Beziers            |         4 |   0.25     |
 | Nevers             |         4 |   0.875    |
+| Mont-de-Marsan     |         3 |   0.666667 |
 | Provence Rugby     |         3 |   0        |
 | Carcassonne        |         3 |   0.333333 |
-| Mont-de-Marsan     |         3 |   0.666667 |
-| Agen               |         2 |   0.5      |
 | Soyaux-Angouleme   |         2 |   0.75     |
 | Rouen              |         2 |   0.5      |
-| Vannes             |         2 |   0        |
+| Agen               |         2 |   0.5      |
 | Brive              |         2 |   0.5      |
 | Colomiers          |         2 |   0.5      |
-| Cardiff Blues      |         2 |   0        |
 | Biarritz Olympique |         2 |   0        |
-| Samoa              |         1 |   0        |
-| US Bressane        |         1 |   1        |
-| Stade Toulousain   |         1 |   0        |
-| Spain              |         1 |   1        |
-| Benetton Treviso   |         1 |   0        |
-| Scotland           |         1 |   0        |
+| Cardiff Blues      |         2 |   0        |
+| Vannes             |         2 |   0        |
+| England            |         1 |   0        |
+| Chile              |         1 |   1        |
+| Leinster           |         1 |   0        |
+| Perpignan          |         1 |   0        |
 | Grenoble           |         1 |   0        |
 | Hong Kong          |         1 |   1        |
-| Perpignan          |         1 |   0        |
-| Chile              |         1 |   1        |
-| England            |         1 |   0        |
+| Samoa              |         1 |   0        |
+| Scotland           |         1 |   0        |
+| Benetton Treviso   |         1 |   0        |
+| Spain              |         1 |   1        |
+| Stade Toulousain   |         1 |   0        |
+| US Bressane        |         1 |   1        |
+| Uruguay            |         1 |   1        |
 | Fiji               |         1 |   0        |
-| Leinster           |         1 |   0        |

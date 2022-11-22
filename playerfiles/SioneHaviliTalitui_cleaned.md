@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sione Havili Talitui  
-date: 2022-11-16 11:42:48.672652  
+date: 2022-11-22 11:41:07.198358  
 categories: player  
 ---
 # Sione Havili Talitui
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 110.0
+## Current elo: 108.0
 
-## Current Percentile: 71.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -35,26 +35,26 @@ categories: player
 | Highlanders              |         5 |   0.8      |
 | Blues                    |         4 |   1        |
 | Chiefs                   |         4 |   0.75     |
-| Northland                |         3 |   1        |
-| Hurricanes               |         3 |   0.666667 |
 | North Harbour            |         3 |   0.333333 |
-| New South Wales Waratahs |         2 |   0.5      |
+| Hurricanes               |         3 |   0.666667 |
+| Northland                |         3 |   1        |
 | Wellington               |         2 |   0.5      |
 | Waikato                  |         2 |   0.5      |
 | Taranaki                 |         2 |   1        |
 | Southland                |         2 |   1        |
 | Queensland Reds          |         2 |   1        |
+| New South Wales Waratahs |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
 | Hawke's Bay              |         2 |   0.5      |
 | Western Force            |         2 |   1        |
 | Bay of Plenty            |         1 |   1        |
 | Manawatu                 |         1 |   1        |
-| Hong Kong                |         1 |   1        |
 | Otago                    |         1 |   0        |
+| Hong Kong                |         1 |   1        |
 | Samoa                    |         1 |   0        |
-| Fiji                     |         1 |   0        |
 | Spain                    |         1 |   1        |
 | Sunwolves                |         1 |   1        |
+| Fiji                     |         1 |   0        |
+| Uruguay                  |         1 |   1        |
 | Counties Manukau         |         1 |   1        |
-| Chile                    |         1 |   1        |
 | Canterbury               |         1 |   1        |

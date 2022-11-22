@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dan John  
-date: 2022-11-16 11:25:05.690848  
+date: 2022-11-22 11:46:36.450712  
 categories: player  
 ---
 # Dan John
 
 ## Positions: W, C
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 

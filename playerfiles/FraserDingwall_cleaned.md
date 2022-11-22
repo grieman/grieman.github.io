@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fraser Dingwall  
-date: 2022-11-16 11:28:46.777043  
+date: 2022-11-22 11:44:02.402731  
 categories: player  
 ---
 # Fraser Dingwall
 
 ## Positions: C
 
-## Current elo: 77.0
+## Current elo: 79.0
 
-## Current Percentile: 6.0
+## Current Percentile: 8.0
 
 # Elo History
 

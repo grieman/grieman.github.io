@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Monty Ioane  
-date: 2022-11-16 11:23:15.938611  
+date: 2022-11-22 11:31:31.045133  
 categories: player  
 ---
 # Monty Ioane
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 119.0
+## Current elo: 114.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Benetton Treviso     |            70 |   0.428571 |
 | Bay of Plenty        |            22 |   0.409091 |
-| Italy                |            15 |   0.266667 |
+| Italy                |            16 |   0.25     |
 | Tasman               |             3 |   0.666667 |
 | Stade Francais Paris |             2 |   0.5      |
 
@@ -74,6 +74,7 @@ categories: player
 | Grenoble             |         1 |   1        |
 | Argentina            |         1 |   0        |
 | Counties Manukau     |         1 |   0        |
+| South Africa         |         1 |   0        |
 | Lyon                 |         1 |   1        |
 | Samoa                |         1 |   1        |
 | Oyonnax              |         1 |   0        |

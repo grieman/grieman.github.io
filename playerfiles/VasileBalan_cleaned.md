@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vasile Balan  
-date: 2022-11-16 11:40:19.121394  
+date: 2022-11-22 11:44:52.946924  
 categories: player  
 ---
 # Vasile Balan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 91.0
+## Current elo: 87.0
 
-## Current Percentile: 45.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |            13 |   0.615385 |
+| Romania |            14 |   0.571429 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
@@ -34,5 +34,6 @@ categories: player
 | Italy       |         1 |        0   |
 | Portugal    |         1 |        1   |
 | Russia      |         1 |        1   |
+| Samoa       |         1 |        0   |
 | Spain       |         1 |        0   |
 | Tonga       |         1 |        1   |

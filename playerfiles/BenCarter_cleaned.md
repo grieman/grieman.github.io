@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Carter  
-date: 2022-11-16 11:35:21.335917  
+date: 2022-11-22 11:30:18.089100  
 categories: player  
 ---
 # Ben Carter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 96.0
+## Current elo: 93.0
 
-## Current Percentile: 53.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |            28 |       0.25 |
-| Wales   |             7 |       0.5  |
+| Dragons |            28 |     0.25   |
+| Wales   |             8 |     0.4375 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Munster          |         2 |   0.5      |
 | Leinster         |         2 |   0        |
 | Zebre            |         2 |   0        |
+| Georgia          |         1 |   0        |
 | Australia        |         1 |   1        |
 | Connacht         |         1 |   0        |
 | Canada           |         1 |   1        |

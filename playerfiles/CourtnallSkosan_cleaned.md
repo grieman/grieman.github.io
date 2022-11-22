@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Courtnall Skosan  
-date: 2022-11-16 11:25:28.278717  
+date: 2022-11-22 11:38:53.363306  
 categories: player  
 ---
 # Courtnall Skosan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 121.0
+## Current elo: 123.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

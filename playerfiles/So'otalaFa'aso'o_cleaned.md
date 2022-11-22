@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: So'otala Fa'aso'o  
-date: 2022-11-16 11:23:39.023646  
+date: 2022-11-22 11:39:41.107792  
 categories: player  
 ---
 # So'otala Fa'aso'o
 
 ## Positions: N8
 
-## Current elo: 117.0
+## Current elo: 118.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

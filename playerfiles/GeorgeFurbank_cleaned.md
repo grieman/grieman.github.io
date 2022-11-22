@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Furbank  
-date: 2022-11-16 11:37:46.885354  
+date: 2022-11-22 11:26:42.133862  
 categories: player  
 ---
 # George Furbank
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 115.0
+## Current elo: 114.0
 
 ## Current Percentile: 93.0
 

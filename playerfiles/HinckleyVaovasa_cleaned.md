@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hinckley Vaovasa  
-date: 2022-11-16 11:41:31.087478  
+date: 2022-11-22 11:48:06.518080  
 categories: player  
 ---
 # Hinckley Vaovasa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 38.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |            12 |   0.666667 |
+| Romania |            13 |   0.615385 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
@@ -33,5 +33,6 @@ categories: player
 | Italy       |         1 |        0   |
 | Portugal    |         1 |        1   |
 | Russia      |         1 |        1   |
+| Samoa       |         1 |        0   |
 | Spain       |         1 |        0   |
 | Tonga       |         1 |        1   |

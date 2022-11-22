@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias Orlando  
-date: 2022-11-16 11:33:51.764209  
+date: 2022-11-22 11:42:39.842467  
 categories: player  
 ---
 # Matias Orlando
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 78.0
+## Current elo: 73.0
 
-## Current Percentile: 5.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Jaguares          |            59 |   0.542373 |
-| Argentina         |            51 |   0.245098 |
+| Argentina         |            52 |   0.240385 |
 | Newcastle Falcons |            22 |   0.272727 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -32,8 +32,8 @@ categories: player
 | Australia                |        10 |   0.15     |
 | Lions                    |         9 |   0.444444 |
 | New Zealand              |         9 |   0.222222 |
+| Scotland                 |         8 |   0.25     |
 | Sharks                   |         7 |   0.428571 |
-| Scotland                 |         7 |   0.285714 |
 | Bulls                    |         6 |   0.666667 |
 | England                  |         6 |   0.166667 |
 | Stormers                 |         5 |   0.4      |

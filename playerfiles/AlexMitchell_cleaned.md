@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Mitchell  
-date: 2022-11-16 11:31:13.000485  
+date: 2022-11-22 11:38:22.639938  
 categories: player  
 ---
 # Alex Mitchell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 

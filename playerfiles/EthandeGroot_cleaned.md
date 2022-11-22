@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ethan de Groot  
-date: 2022-11-16 11:37:16.965699  
+date: 2022-11-22 11:37:48.176299  
 categories: player  
 ---
 # Ethan de Groot
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 104.0
+## Current elo: 108.0
 
-## Current Percentile: 84.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Highlanders |            27 |   0.444444 |
-| New Zealand |            12 |   0.833333 |
+| New Zealand |            13 |   0.807692 |
 | Southland   |             6 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -43,6 +43,7 @@ categories: player
 | Brumbies                 |         2 |   0.5      |
 | Fijian Drua              |         1 |   1        |
 | Italy                    |         1 |   1        |
+| England                  |         1 |   0.5      |
 | Counties Manukau         |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |

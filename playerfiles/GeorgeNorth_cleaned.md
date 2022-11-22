@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George North  
-date: 2022-11-16 11:35:29.007916  
+date: 2022-11-22 11:38:49.899558  
 categories: player  
 ---
 # George North
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 128.0
 
-## Current Percentile: 96.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Wales                   |           101 |   0.564356 |
+| Wales                   |           102 |   0.558824 |
 | Northampton Saints      |            87 |   0.632184 |
 | Scarlets                |            42 |   0.595238 |
 | Ospreys                 |            32 |   0.640625 |
@@ -70,18 +70,18 @@ categories: player
 | Zebre                |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
 | Bristol Rugby        |         2 |   1        |
+| Georgia              |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   0        |
 | New Zealand Maori    |         1 |   1        |
-| Stade Francais Paris |         1 |   1        |
+| Stormers             |         1 |   0.5      |
 | Yorkshire Carnegie   |         1 |   1        |
 | Brive                |         1 |   0        |
 | Bulls                |         1 |   0        |
 | Tonga                |         1 |   1        |
-| Stormers             |         1 |   0.5      |
 | Cheetahs             |         1 |   1        |
+| Stade Francais Paris |         1 |   1        |
 | Namibia              |         1 |   1        |
 | Crusaders            |         1 |   1        |
-| Georgia              |         1 |   1        |
 | Hurricanes           |         1 |   0.5      |
 | Lions                |         1 |   0        |
 | Pau                  |         1 |   1        |

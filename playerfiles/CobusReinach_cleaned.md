@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cobus Reinach  
-date: 2022-11-16 11:31:10.980544  
+date: 2022-11-22 11:40:09.143088  
 categories: player  
 ---
 # Cobus Reinach
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 113.0
+## Current elo: 114.0
 
 ## Current Percentile: 91.0
 
@@ -26,7 +26,7 @@ categories: player
 | Northampton Saints  |            72 |   0.430556 |
 | Sharks              |            60 |   0.55     |
 | Montpellier Herault |            40 |   0.5125   |
-| South Africa        |            21 |   0.714286 |
+| South Africa        |            22 |   0.727273 |
 | Natal Sharks        |            16 |   0.65625  |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -73,6 +73,7 @@ categories: player
 | Wales                    |         2 |   0.5      |
 | New Zealand              |         2 |   0.5      |
 | Agen                     |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Bayonne                  |         2 |   0.5      |
 | Highlanders              |         2 |   0.5      |
 | Griquas                  |         2 |   1        |
@@ -82,13 +83,12 @@ categories: player
 | England                  |         2 |   0.5      |
 | Dragons                  |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
-| Namibia                  |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Western Force            |         1 |   1        |
 | Biarritz Olympique       |         1 |   1        |
 | Sunwolves                |         1 |   1        |
 | British and Irish Lions  |         1 |   1        |
-| Scotland                 |         1 |   1        |
+| Namibia                  |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | France                   |         1 |   0        |
 | Free State Cheetahs      |         1 |   0.5      |
@@ -96,4 +96,4 @@ categories: player
 | Pumas                    |         1 |   1        |
 | Hurricanes               |         1 |   1        |
 | Leinster                 |         1 |   0        |
-| Italy                    |         1 |   1        |
+| Scotland                 |         1 |   1        |

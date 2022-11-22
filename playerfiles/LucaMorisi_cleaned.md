@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luca Morisi  
-date: 2022-11-16 11:27:46.686927  
+date: 2022-11-22 11:38:46.672224  
 categories: player  
 ---
 # Luca Morisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 116.0
+## Current elo: 117.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            91 |   0.351648 |
-| Italy            |            38 |   0.263158 |
+| Italy            |            39 |   0.25641  |
 | London Irish     |             3 |   0.333333 |
 | Crociati Rugby   |             1 |   0        |
 
@@ -44,10 +44,10 @@ categories: player
 | England                  |         4 |  0         |
 | Wales                    |         4 |  0         |
 | France                   |         4 |  0         |
+| South Africa             |         4 |  0         |
 | Ireland                  |         4 |  0         |
 | Edinburgh                |         3 |  0         |
 | Australia                |         3 |  0.333333  |
-| South Africa             |         3 |  0         |
 | Northampton Saints       |         3 |  0         |
 | Harlequins               |         3 |  0.333333  |
 | Samoa                    |         2 |  1         |

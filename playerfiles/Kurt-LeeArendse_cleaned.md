@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kurt-Lee Arendse  
-date: 2022-11-16 11:43:36.950068  
+date: 2022-11-22 11:43:39.791028  
 categories: player  
 ---
 # Kurt-Lee Arendse
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 121.0
+## Current elo: 122.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -25,24 +25,25 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Bulls        |            18 |   0.666667 |
 | Blue Bulls   |            10 |   0.9      |
-| South Africa |             5 |   0.4      |
+| South Africa |             6 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Stormers            |         3 |        0   |
-| Munster             |         2 |        0.5 |
+| Lions               |         2 |        1   |
 | Free State Cheetahs |         2 |        1   |
 | Pumas               |         2 |        1   |
 | Griquas             |         2 |        1   |
 | Natal Sharks        |         2 |        0.5 |
 | Benetton Treviso    |         2 |        1   |
-| Lions               |         2 |        1   |
+| Munster             |         2 |        0.5 |
 | Argentina           |         1 |        1   |
 | Western Province    |         1 |        1   |
 | Wales               |         1 |        0   |
 | Ulster              |         1 |        1   |
 | Scarlets            |         1 |        1   |
 | New Zealand         |         1 |        1   |
+| Italy               |         1 |        1   |
 | Leinster            |         1 |        1   |
 | Ireland             |         1 |        0   |
 | Golden Lions        |         1 |        1   |

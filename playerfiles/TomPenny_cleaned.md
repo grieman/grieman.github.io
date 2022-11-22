@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Penny  
-date: 2022-11-16 11:41:41.974395  
+date: 2022-11-22 11:30:35.320424  
 categories: player  
 ---
 # Tom Penny
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 

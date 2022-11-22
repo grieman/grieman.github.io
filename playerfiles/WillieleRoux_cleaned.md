@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie le Roux  
-date: 2022-11-16 11:25:16.842985  
+date: 2022-11-22 11:30:54.566295  
 categories: player  
 ---
 # Willie le Roux
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 126.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| South Africa          |            80 |   0.64375  |
+| South Africa          |            81 |   0.648148 |
 | Cheetahs              |            58 |   0.405172 |
 | Wasps                 |            56 |   0.553571 |
 | Sharks                |            13 |   0.576923 |
@@ -53,6 +53,7 @@ categories: player
 | Southern Kings                    |         4 |   1        |
 | Western Force                     |         4 |   0.75     |
 | Leicester Tigers                  |         4 |   0.5      |
+| Italy                             |         4 |   0.75     |
 | Worcester Warriors                |         4 |   1        |
 | Blues                             |         4 |   0.5      |
 | Brumbies                          |         4 |   0.25     |
@@ -61,33 +62,32 @@ categories: player
 | Crusaders                         |         4 |   0        |
 | France                            |         3 |   0.666667 |
 | British and Irish Lions           |         3 |   0.666667 |
+| Highlanders                       |         3 |   0.666667 |
 | New South Wales Waratahs          |         3 |   0.666667 |
 | Melbourne Rebels                  |         3 |   0.666667 |
 | Exeter Chiefs                     |         3 |   0.666667 |
 | Newcastle Falcons                 |         3 |   0.666667 |
-| Italy                             |         3 |   0.666667 |
 | Black Rams Tokyo                  |         3 |   0.666667 |
-| Highlanders                       |         3 |   0.666667 |
-| Blue Bulls                        |         2 |   0.5      |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
+| Leinster                          |         2 |   0        |
+| Free State Cheetahs               |         2 |   0        |
+| Stade Toulousain                  |         2 |   0        |
 | Bristol Rugby                     |         2 |   1        |
+| Shizuoka Blue Revs                |         2 |   0        |
+| Golden Lions                      |         2 |   1        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
 | Samoa                             |         2 |   1        |
-| Leinster                          |         2 |   0        |
 | Saitama Wild Knights              |         2 |   0        |
 | Queensland Reds                   |         2 |   0.5      |
-| Golden Lions                      |         2 |   1        |
-| London Irish                      |         2 |   1        |
-| Shizuoka Blue Revs                |         2 |   0        |
 | Jaguares                          |         2 |   1        |
-| Natal Sharks                      |         2 |   0.5      |
-| Ulster                            |         2 |   0.5      |
-| Stade Toulousain                  |         2 |   0        |
 | Japan                             |         2 |   1        |
-| Free State Cheetahs               |         2 |   0        |
+| Blue Bulls                        |         2 |   0.5      |
+| Natal Sharks                      |         2 |   0.5      |
+| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
+| London Irish                      |         2 |   1        |
+| Ulster                            |         2 |   0.5      |
 | Toyota Industries Shuttles Aichi  |         1 |   1        |
-| Western Province                  |         1 |   0        |
 | Tokyo Sungoliath                  |         1 |   0        |
+| Western Province                  |         1 |   0        |
 | United States of America          |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |
 | Canada                            |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean Maitland  
-date: 2022-11-16 11:24:23.915783  
+date: 2022-11-22 11:30:56.717852  
 categories: player  
 ---
 # Sean Maitland
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 125.0
+## Current elo: 126.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 

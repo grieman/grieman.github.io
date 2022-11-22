@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gregory Alldritt  
-date: 2022-11-16 11:33:06.963951  
+date: 2022-11-22 11:44:05.586359  
 categories: player  
 ---
 # Gregory Alldritt
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 123.0
+## Current elo: 120.0
 
 ## Current Percentile: 94.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            75 |       0.6  |
-| France      |            32 |       0.75 |
+| La Rochelle |            75 |   0.6      |
+| France      |            33 |   0.757576 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,15 +33,15 @@ categories: player
 | Racing 92                |         7 |   0.714286 |
 | Wales                    |         6 |   0.666667 |
 | Scotland                 |         6 |   0.5      |
+| Lyon                     |         5 |   0.6      |
 | Toulon                   |         5 |   1        |
 | Clermont Auvergne        |         5 |   0.2      |
-| Lyon                     |         5 |   0.6      |
 | Montpellier Herault      |         4 |   0.25     |
-| Pau                      |         4 |   0.75     |
 | Bordeaux Begles          |         4 |   0.75     |
 | England                  |         4 |   0.5      |
 | Ireland                  |         4 |   0.75     |
 | Italy                    |         4 |   1        |
+| Pau                      |         4 |   0.75     |
 | Stade Francais Paris     |         3 |   0.666667 |
 | Sale Sharks              |         3 |   0.666667 |
 | Agen                     |         3 |   1        |
@@ -53,6 +53,7 @@ categories: player
 | Exeter Chiefs            |         2 |   0        |
 | Bayonne                  |         2 |   1        |
 | New Zealand              |         1 |   1        |
+| Japan                    |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
 | Georgia                  |         1 |   1        |
 | South Africa             |         1 |   1        |

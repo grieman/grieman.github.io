@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Faf de Klerk  
-date: 2022-11-16 11:27:02.904499  
+date: 2022-11-22 11:37:40.071702  
 categories: player  
 ---
 # Faf de Klerk
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 115.0
+## Current elo: 117.0
 
 ## Current Percentile: 92.0
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Sale Sharks  |            95 |   0.594737 |
 | Lions        |            64 |   0.664062 |
-| South Africa |            43 |   0.546512 |
+| South Africa |            44 |   0.556818 |
 | Pumas        |            23 |   0.717391 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -74,6 +74,7 @@ categories: player
 | SWD Eagles               |         2 |   1        |
 | Bordeaux Begles          |         2 |   0.5      |
 | British and Irish Lions  |         2 |   0.5      |
+| Italy                    |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   1        |
 | Japan                    |         2 |   1        |
@@ -81,7 +82,6 @@ categories: player
 | Griquas                  |         1 |   0        |
 | Brumbies                 |         1 |   0        |
 | Scarlets                 |         1 |   1        |
-| Italy                    |         1 |   1        |
 | Stade Toulousain         |         1 |   0.5      |
 | Sunwolves                |         1 |   1        |
 | Free State Cheetahs      |         1 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alapati Leiua  
-date: 2022-11-16 11:43:04.669268  
+date: 2022-11-22 11:35:39.711195  
 categories: player  
 ---
 # Alapati Leiua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 94.0
+## Current elo: 98.0
 
-## Current Percentile: 45.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Bristol Rugby |            97 |   0.628866 |
 | Hurricanes    |            51 |   0.460784 |
 | Wasps         |            43 |   0.523256 |
-| Samoa         |            25 |   0.32     |
+| Samoa         |            26 |   0.346154 |
 | Wellington    |            20 |   0.6      |
 | Waikato       |             7 |   0.928571 |
 | Stormers      |             3 |   0.5      |
@@ -50,23 +50,23 @@ categories: player
 | London Irish             |         5 |   0.5      |
 | Chiefs                   |         5 |   0.3      |
 | Zebre                    |         5 |   0.7      |
-| Hawke's Bay              |         4 |   0.375    |
 | Cheetahs                 |         4 |   0.75     |
-| Italy                    |         4 |   0.5      |
 | Stormers                 |         4 |   0        |
+| Italy                    |         4 |   0.5      |
+| Hawke's Bay              |         4 |   0.375    |
 | Auckland                 |         3 |   0.666667 |
+| Manawatu                 |         3 |   0.666667 |
 | New South Wales Waratahs |         3 |   0.666667 |
-| Bulls                    |         3 |   0.333333 |
 | Brumbies                 |         3 |   0        |
+| Bulls                    |         3 |   0.333333 |
 | Queensland Reds          |         3 |   0.666667 |
 | Scotland                 |         3 |   0.333333 |
 | Georgia                  |         3 |   0.333333 |
 | Taranaki                 |         3 |   1        |
 | Counties Manukau         |         3 |   0.666667 |
-| Manawatu                 |         3 |   0.666667 |
-| Southland                |         2 |   1        |
 | Sharks                   |         2 |   0        |
-| London Scottish          |         2 |   1        |
+| Southland                |         2 |   1        |
+| Romania                  |         2 |   0.5      |
 | Richmond                 |         2 |   1        |
 | Stade Francais Paris     |         2 |   1        |
 | Ospreys                  |         2 |   0.25     |
@@ -76,21 +76,22 @@ categories: player
 | Melbourne Rebels         |         2 |   1        |
 | Connacht                 |         2 |   0.5      |
 | Canterbury               |         2 |   0        |
+| Ireland                  |         2 |   0        |
 | Lions                    |         2 |   1        |
+| London Scottish          |         2 |   1        |
 | Leinster                 |         2 |   0        |
-| Jersey                   |         2 |   0.5      |
 | Doncaster                |         2 |   1        |
 | England                  |         2 |   0        |
+| Jersey                   |         2 |   0.5      |
 | Ealing Trailfinders      |         2 |   1        |
-| Ireland                  |         2 |   0        |
-| Dragons                  |         1 |   1        |
 | Spain                    |         1 |   1        |
 | Castres Olympique        |         1 |   1        |
 | Stade Toulousain         |         1 |   0.5      |
 | Tasman                   |         1 |   1        |
-| Waikato                  |         1 |   1        |
 | United States of America |         1 |   0        |
+| Dragons                  |         1 |   1        |
 | Southern Kings           |         1 |   1        |
+| Waikato                  |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Western Force            |         1 |   1        |
 | Bay of Plenty            |         1 |   0        |
@@ -98,19 +99,18 @@ categories: player
 | Germany                  |         1 |   1        |
 | London Welsh             |         1 |   1        |
 | South Africa             |         1 |   0        |
-| Otago                    |         1 |   1        |
-| New Zealand              |         1 |   0        |
-| La Rochelle              |         1 |   0        |
-| Cornish Pirates          |         1 |   1        |
-| Northland                |         1 |   1        |
-| Nottingham               |         1 |   1        |
-| Japan                    |         1 |   0        |
-| Canada                   |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
-| Romania                  |         1 |   0        |
-| Rotherham Titans         |         1 |   1        |
-| Russia                   |         1 |   1        |
-| Bristol Rugby            |         1 |   1        |
 | Bordeaux Begles          |         1 |   1        |
+| Bristol Rugby            |         1 |   1        |
+| Russia                   |         1 |   1        |
+| Rotherham Titans         |         1 |   1        |
+| Canada                   |         1 |   1        |
+| Japan                    |         1 |   0        |
+| Otago                    |         1 |   1        |
+| Nottingham               |         1 |   1        |
+| Northland                |         1 |   1        |
+| Cornish Pirates          |         1 |   1        |
+| La Rochelle              |         1 |   0        |
+| New Zealand              |         1 |   0        |
 | Australia                |         1 |   0        |
 | Brive                    |         1 |   1        |

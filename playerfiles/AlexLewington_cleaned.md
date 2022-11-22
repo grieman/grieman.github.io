@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Lewington  
-date: 2022-11-16 11:28:52.332251  
+date: 2022-11-22 11:39:34.011430  
 categories: player  
 ---
 # Alex Lewington
 
 ## Positions: W
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 63.0
+## Current Percentile: 70.0
 
 # Elo History
 

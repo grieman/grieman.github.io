@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zane Kapeli  
-date: 2022-11-16 11:20:49.010437  
+date: 2022-11-22 11:37:50.133160  
 categories: player  
 ---
 # Zane Kapeli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 66.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -25,31 +25,32 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Bay of Plenty |            18 |   0.555556 |
 | Waikato       |            18 |   0.444444 |
-| Tonga         |            11 |   0.272727 |
+| Tonga         |            12 |   0.333333 |
 | Chiefs        |             7 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Counties Manukau         |         4 |   0.5      |
 | Taranaki                 |         4 |   0.75     |
-| Otago                    |         3 |   0.333333 |
+| Counties Manukau         |         4 |   0.5      |
 | Bay of Plenty            |         3 |   1        |
 | Waikato                  |         3 |   0.333333 |
-| Tasman                   |         3 |   0        |
 | Auckland                 |         3 |   0.333333 |
+| Otago                    |         3 |   0.333333 |
+| Tasman                   |         3 |   0        |
 | Manawatu                 |         3 |   0.333333 |
-| New Zealand              |         2 |   0        |
-| Wellington               |         2 |   0        |
-| Northland                |         2 |   0.5      |
-| North Harbour            |         2 |   1        |
 | Southland                |         2 |   1        |
-| Argentina                |         1 |   0        |
-| Queensland Reds          |         1 |   0        |
-| Samoa                    |         1 |   0        |
-| United States of America |         1 |   1        |
+| New Zealand              |         2 |   0        |
+| North Harbour            |         2 |   1        |
+| Northland                |         2 |   0.5      |
+| Wellington               |         2 |   0        |
 | Spain                    |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
+| Samoa                    |         1 |   0        |
+| Queensland Reds          |         1 |   0        |
+| United States of America |         1 |   1        |
+| Uruguay                  |         1 |   1        |
+| Argentina                |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |
 | Hawke's Bay              |         1 |   1        |
 | Georgia                  |         1 |   0        |
 | France                   |         1 |   0        |

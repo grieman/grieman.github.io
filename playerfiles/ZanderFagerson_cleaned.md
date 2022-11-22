@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zander Fagerson  
-date: 2022-11-16 11:36:19.904253  
+date: 2022-11-22 11:33:11.639080  
 categories: player  
 ---
 # Zander Fagerson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 118.0
+## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -24,40 +24,40 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           110 |   0.572727 |
-| Scotland         |            51 |   0.568627 |
+| Scotland         |            52 |   0.576923 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Edinburgh                |        16 |   0.375    |
 | Leinster                 |        10 |   0.35     |
-| Cardiff Blues            |         8 |   0.75     |
 | Scarlets                 |         8 |   0.5      |
+| Cardiff Blues            |         8 |   0.75     |
 | Zebre                    |         7 |   1        |
-| Connacht                 |         7 |   0.714286 |
 | Munster                  |         7 |   0.428571 |
-| Italy                    |         6 |   1        |
-| Ulster                   |         6 |   0.5      |
+| Connacht                 |         7 |   0.714286 |
 | France                   |         6 |   0.333333 |
-| Wales                    |         5 |   0.4      |
-| Ospreys                  |         5 |   0.8      |
-| Australia                |         5 |   0.6      |
-| Argentina                |         5 |   0.6      |
+| Ulster                   |         6 |   0.5      |
+| Italy                    |         6 |   1        |
+| Argentina                |         6 |   0.666667 |
 | England                  |         5 |   0.4      |
+| Wales                    |         5 |   0.4      |
+| Australia                |         5 |   0.6      |
+| Ospreys                  |         5 |   0.8      |
+| Racing 92                |         4 |   0.75     |
 | Georgia                  |         4 |   1        |
 | Benetton Treviso         |         4 |   0.75     |
 | Dragons                  |         4 |   1        |
-| Racing 92                |         4 |   0.75     |
 | Ireland                  |         3 |   0.333333 |
 | Cheetahs                 |         3 |   1        |
 | Exeter Chiefs            |         3 |   0.166667 |
-| Bulls                    |         2 |   0.5      |
+| Sale Sharks              |         2 |   1        |
 | Southern Kings           |         2 |   1        |
+| Bulls                    |         2 |   0.5      |
 | Saracens                 |         2 |   0        |
 | Samoa                    |         2 |   1        |
-| Sale Sharks              |         2 |   1        |
+| Fiji                     |         2 |   0.5      |
 | Northampton Saints       |         2 |   0        |
 | New Zealand              |         2 |   0        |
-| Fiji                     |         2 |   0.5      |
 | Leicester Tigers         |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | Japan                    |         2 |   0.5      |

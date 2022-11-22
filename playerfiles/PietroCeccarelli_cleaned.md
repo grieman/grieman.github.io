@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro Ceccarelli  
-date: 2022-11-16 11:33:50.541418  
+date: 2022-11-22 11:42:10.993100  
 categories: player  
 ---
 # Pietro Ceccarelli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 94.0
+## Current elo: 91.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Brive     |            34 |   0.308824 |
 | Edinburgh |            23 |   0.586957 |
 | Oyonnax   |            23 |   0.217391 |
-| Italy     |            16 |   0.1875   |
+| Italy     |            17 |   0.176471 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -67,7 +67,8 @@ categories: player
 | Pau                  |         2 |   0.5      |
 | Ospreys              |         2 |   0        |
 | New Zealand          |         2 |   0        |
-| Biarritz Olympique   |         1 |   0        |
+| South Africa         |         1 |   0        |
+| Samoa                |         1 |   1        |
 | Perpignan            |         1 |   1        |
 | Argentina            |         1 |   0        |
-| Samoa                |         1 |   1        |
+| Biarritz Olympique   |         1 |   0        |

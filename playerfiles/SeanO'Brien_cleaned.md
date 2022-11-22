@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean O'Brien  
-date: 2022-11-16 11:32:29.744340  
+date: 2022-11-22 11:40:03.178133  
 categories: player  
 ---
 # Sean O'Brien
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 122.0
+## Current elo: 124.0
 
 ## Current Percentile: 95.0
 

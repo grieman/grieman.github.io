@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lasha Lomidze  
-date: 2022-11-16 11:30:59.418161  
+date: 2022-11-22 11:36:05.512488  
 categories: player  
 ---
 # Lasha Lomidze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: None
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Georgia      |            26 |   0.557692 |
+| Georgia      |            25 |   0.58     |
 | Beziers      |            24 |   0.375    |
 | Dax          |             9 |   0.444444 |
 | London Irish |             5 |   0.2      |
@@ -33,7 +33,6 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         4 |   0.25     |
 | Perpignan                  |         3 |   0        |
-| Samoa                      |         3 |   0.5      |
 | Dax                        |         3 |   0.333333 |
 | Scotland                   |         3 |   0        |
 | Canada                     |         3 |   0.666667 |
@@ -41,6 +40,7 @@ categories: player
 | Albi                       |         2 |   1        |
 | Japan                      |         2 |   0.5      |
 | Italy                      |         2 |   0        |
+| Samoa                      |         2 |   0.75     |
 | Edinburgh                  |         2 |   0        |
 | Agen                       |         2 |   0.5      |
 | Stade Francais Paris       |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ovidiu Cojocaru  
-date: 2022-11-16 11:23:28.354762  
+date: 2022-11-22 11:41:49.715933  
 categories: player  
 ---
 # Ovidiu Cojocaru
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 85.0
+## Current elo: 89.0
 
-## Current Percentile: 21.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |            13 |   0.615385 |
+| Romania |            14 |   0.571429 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
 | Georgia     |         2 |        0   |
 | Netherlands |         2 |        1   |
 | Portugal    |         2 |        0.5 |
+| Samoa       |         2 |        0.5 |
 | Uruguay     |         2 |        0.5 |
 | Brazil      |         1 |        1   |
 | Chile       |         1 |        1   |
 | Russia      |         1 |        1   |
-| Samoa       |         1 |        1   |
 | Spain       |         1 |        0   |

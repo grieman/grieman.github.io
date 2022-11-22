@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kamil Sobota  
-date: 2022-11-16 11:27:27.448236  
+date: 2022-11-22 11:34:08.604802  
 categories: player  
 ---
 # Kamil Sobota
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 32.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |             7 |   0.428571 |
+| Romania |             8 |      0.375 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
@@ -31,4 +31,5 @@ categories: player
 | Chile      |         1 |   1        |
 | Italy      |         1 |   0        |
 | Portugal   |         1 |   0        |
+| Samoa      |         1 |   0        |
 | Tonga      |         1 |   1        |

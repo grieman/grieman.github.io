@@ -4,10 +4,10 @@ title: Carqueiranne-Hyères at Dax
 date: 2022-11-26 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Carqueiranne-Hyères (~1361.05) at Dax (~1467.07)
+# Carqueiranne-Hyères (~1338.57) at Dax (~1468.64)
 
-# Prediction: Dax by 13.6
+# Prediction: Dax by 16.0
 
 
-Dax by 10.6 on a neutral pitch
+Dax by 13.0 on a neutral pitch
 

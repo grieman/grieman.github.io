@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charlie Chapman  
-date: 2022-11-16 11:28:14.194767  
+date: 2022-11-22 11:30:32.503335  
 categories: player  
 ---
 # Charlie Chapman
 
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 73.0
+## Current Percentile: 75.0
 
 # Elo History
 

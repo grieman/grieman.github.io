@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tangimana Fonovai  
-date: 2022-11-16 11:29:29.597591  
+date: 2022-11-22 11:27:20.953618  
 categories: player  
 ---
 # Tangimana Fonovai
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 

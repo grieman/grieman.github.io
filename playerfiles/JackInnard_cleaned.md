@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Innard  
-date: 2022-11-16 11:41:25.465717  
+date: 2022-11-22 11:26:28.776531  
 categories: player  
 ---
 # Jack Innard
 
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 44.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Exeter Chiefs   |            51 |   0.627451 |
-| Cornish Pirates |             7 |   0.5      |
+| Exeter Chiefs   |            50 |       0.64 |
+| Cornish Pirates |             7 |       0.5  |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Bath Rugby          |         6 |   1        |
 | London Irish        |         6 |   0.333333 |
-| Northampton Saints  |         6 |   0.5      |
 | Wasps               |         5 |   0.2      |
+| Northampton Saints  |         5 |   0.6      |
 | Leicester Tigers    |         5 |   0.6      |
 | Worcester Warriors  |         5 |   0.8      |
 | Newcastle Falcons   |         4 |   1        |

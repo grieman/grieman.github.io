@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kote Mikautadze  
-date: 2022-11-16 11:27:01.527243  
+date: 2022-11-22 11:36:42.203676  
 categories: player  
 ---
 # Kote Mikautadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Montpellier Herault |            65 |   0.592308 |
 | Toulon              |            48 |   0.666667 |
-| Georgia             |            38 |   0.434211 |
+| Georgia             |            39 |   0.448718 |
 | Bayonne             |            36 |   0.569444 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -46,14 +46,14 @@ categories: player
 | Bayonne                  |         5 |   1        |
 | Lyon                     |         4 |   0.5      |
 | Leinster                 |         4 |   0.5      |
-| Japan                    |         3 |   0        |
+| Wales                    |         3 |   0.333333 |
 | United States of America |         3 |   0.666667 |
 | Scotland                 |         3 |   0        |
+| Japan                    |         3 |   0        |
 | Argentina                |         3 |   0        |
 | Canada                   |         3 |   1        |
 | Glasgow Warriors         |         3 |   1        |
 | Samoa                    |         3 |   0.666667 |
-| Wales                    |         2 |   0        |
 | Newcastle Falcons        |         2 |   0.5      |
 | Oyonnax                  |         2 |   1        |
 | Wasps                    |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ali Price  
-date: 2022-11-16 11:43:34.599844  
+date: 2022-11-22 11:43:38.583630  
 categories: player  
 ---
 # Ali Price
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 77.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Glasgow Warriors        |           109 |   0.53211  |
-| Scotland                |            57 |   0.535088 |
+| Scotland                |            58 |   0.543103 |
 | British and Irish Lions |             3 |   0.333333 |
 | Saracens                |             2 |   0.5      |
 
@@ -45,13 +45,13 @@ categories: player
 | South Africa        |         5 |   0.2      |
 | Scarlets            |         5 |   0.4      |
 | Australia           |         5 |   0.6      |
+| Argentina           |         5 |   0.6      |
 | Zebre               |         5 |   1        |
 | Benetton Treviso    |         5 |   0.8      |
-| Georgia             |         4 |   1        |
 | Exeter Chiefs       |         4 |   0.375    |
 | Saracens            |         4 |   0        |
 | Racing 92           |         4 |   0.75     |
-| Argentina           |         4 |   0.5      |
+| Georgia             |         4 |   1        |
 | Sale Sharks         |         3 |   0.666667 |
 | Dragons             |         3 |   1        |
 | Leicester Tigers    |         2 |   1        |

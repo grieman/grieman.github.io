@@ -4,7 +4,7 @@ title: Connacht at Munster
 date: 2022-11-26 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Connacht (~1499.74) at Munster (~1549.64)
+# Connacht (~1500.5) at Munster (~1550.3)
 
 # Prediction: Munster by 8.0
 

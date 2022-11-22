@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siaki Vikilani  
-date: 2022-11-16 11:30:08.957370  
+date: 2022-11-22 11:45:58.609245  
 categories: player  
 ---
 # Siaki Vikilani
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: None
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,16 +23,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Canada         |             5 |   0.2      |
-| Toronto Arrows |             3 |   0.333333 |
+| Canada         |             6 |   0.166667 |
+| Toronto Arrows |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | England                  |         1 |          0 |
-| L. A. Giltinis           |         1 |          0 |
-| NOLA Gold                |         1 |          1 |
+| Houston SaberCats        |         1 |          0 |
+| Namibia                  |         1 |          0 |
 | Netherlands              |         1 |          1 |
 | Portugal                 |         1 |          0 |
-| R.U. New York            |         1 |          0 |
 | United States of America |         1 |          0 |
 | Wales                    |         1 |          0 |

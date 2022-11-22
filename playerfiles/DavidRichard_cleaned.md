@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Richard  
-date: 2022-11-16 11:38:28.406123  
+date: 2022-11-22 11:33:01.502424  
 categories: player  
 ---
 # David Richard
@@ -19,8 +19,9 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Canada |             1 |          1 |
+| Canada |             2 |        0.5 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
+| Namibia     |         1 |          0 |
 | Netherlands |         1 |          1 |

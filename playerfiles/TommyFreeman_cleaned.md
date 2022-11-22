@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommy Freeman  
-date: 2022-11-16 11:34:10.817306  
+date: 2022-11-22 11:36:59.469767  
 categories: player  
 ---
 # Tommy Freeman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 118.0
+## Current elo: 114.0
 
-## Current Percentile: 94.0
+## Current Percentile: 92.0
 
 # Elo History
 

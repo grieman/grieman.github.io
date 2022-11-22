@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Atsushi Sakate  
-date: 2022-11-16 11:36:45.379238  
+date: 2022-11-22 11:40:52.220904  
 categories: player  
 ---
 # Atsushi Sakate
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 99.0
+## Current elo: 103.0
 
-## Current Percentile: 76.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -24,11 +24,12 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Saitama Wild Knights |            33 |  0.954545  |
-| Japan                |            23 |  0.369565  |
+| Japan                |            24 |  0.354167  |
 | Sunwolves            |            17 |  0.0588235 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| France                            |         4 |   0.125    |
 | Yokohama Canon Eagles             |         3 |   1        |
 | Urayasu D-Rocks                   |         3 |   1        |
 | Lions                             |         3 |   0        |
@@ -37,7 +38,6 @@ categories: player
 | Ireland                           |         3 |   0.333333 |
 | Coca-Cola Red Sparks              |         3 |   1        |
 | Black Rams Tokyo                  |         3 |   0.666667 |
-| France                            |         3 |   0.166667 |
 | Green Rockets Tokatsu             |         3 |   1        |
 | Russia                            |         2 |   1        |
 | New Zealand                       |         2 |   0        |

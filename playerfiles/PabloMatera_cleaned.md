@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pablo Matera  
-date: 2022-11-16 11:39:04.789880  
+date: 2022-11-22 11:28:37.677048  
 categories: player  
 ---
 # Pablo Matera
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 117.0
+## Current elo: 115.0
 
 ## Current Percentile: 92.0
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Argentina            |            86 |   0.284884 |
+| Argentina            |            87 |   0.281609 |
 | Jaguares             |            52 |   0.480769 |
 | Stade Francais Paris |            25 |   0.54     |
 | Crusaders            |            14 |   0.785714 |
 | Leicester Tigers     |            10 |   0.5      |
-| Alumni               |             1 |   0        |
+| Alumni               |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -38,9 +38,9 @@ categories: player
 | Sharks                   |         7 |   0.285714 |
 | Wales                    |         7 |   0.214286 |
 | England                  |         7 |   0.142857 |
+| Scotland                 |         6 |   0.333333 |
 | Lions                    |         6 |   0.333333 |
 | Stormers                 |         6 |   0.333333 |
-| Scotland                 |         5 |   0.4      |
 | Queensland Reds          |         5 |   0.8      |
 | France                   |         5 |   0.2      |
 | Bulls                    |         5 |   0.6      |
@@ -83,6 +83,7 @@ categories: player
 | Romania                  |         1 |   1        |
 | Lyon                     |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
+| Olivos                   |         1 |   1        |
 | Northampton Saints       |         1 |   1        |
 | Newcastle Falcons        |         1 |   1        |
 | Worcester Warriors       |         1 |   1        |

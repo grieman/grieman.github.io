@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Davit Niniashvili  
-date: 2022-11-16 11:40:17.804237  
+date: 2022-11-22 11:43:15.381887  
 categories: player  
 ---
 # Davit Niniashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 99.0
+## Current elo: 103.0
 
-## Current Percentile: 56.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Lyon    |            22 |   0.590909 |
-| Georgia |            14 |   0.678571 |
+| Georgia |            15 |   0.7      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -35,10 +35,11 @@ categories: player
 | Brive                |         2 |   1        |
 | Clermont Auvergne    |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
-| Spain                |         2 |   1        |
 | La Rochelle          |         2 |   0        |
+| Spain                |         2 |   1        |
 | Pau                  |         2 |   1        |
 | Bordeaux Begles      |         2 |   0.5      |
+| Uruguay              |         1 |   1        |
 | Stade Toulousain     |         1 |   1        |
 | South Africa         |         1 |   0        |
 | Samoa                |         1 |   0        |
@@ -49,4 +50,4 @@ categories: player
 | Italy                |         1 |   1        |
 | France               |         1 |   0        |
 | Fiji                 |         1 |   0.5      |
-| Uruguay              |         1 |   1        |
+| Wales                |         1 |   1        |

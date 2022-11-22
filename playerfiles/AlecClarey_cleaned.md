@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alec Clarey  
-date: 2022-11-16 11:44:12.709020  
+date: 2022-11-22 11:44:07.003844  
 categories: player  
 ---
 # Alec Clarey
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 54.0
+## Current Percentile: 55.0
 
 # Elo History
 

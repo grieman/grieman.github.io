@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andrew Coe  
-date: 2022-11-16 11:42:45.638024  
+date: 2022-11-22 11:31:35.370099  
 categories: player  
 ---
 # Andrew Coe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 80.0
+## Current elo: 81.0
 
-## Current Percentile: 4.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -23,25 +23,22 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Canada        |            12 |   0.208333 |
-| R.U. New York |            11 |   0.727273 |
+| Canada        |            13 |   0.192308 |
+| R.U. New York |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Old Glory DC             |         2 |       1    |
-| New England Free Jacks   |         2 |       0.5  |
-| Toronto Arrows           |         2 |       0.5  |
-| Rugby ATL                |         2 |       0.5  |
 | Georgia                  |         2 |       0    |
 | United States of America |         2 |       0.25 |
+| Dallas Jackals           |         1 |       1    |
+| Fiji                     |         1 |       0    |
+| Houston SaberCats        |         1 |       1    |
+| Italy                    |         1 |       0    |
+| L. A. Giltinis           |         1 |       0    |
+| Namibia                  |         1 |       0    |
+| Netherlands              |         1 |       1    |
 | New Zealand              |         1 |       0    |
 | New Zealand Maori        |         1 |       0    |
-| Netherlands              |         1 |       1    |
 | Romania                  |         1 |       0    |
-| NOLA Gold                |         1 |       1    |
-| San Diego Legion         |         1 |       1    |
-| Seattle Seawolves        |         1 |       1    |
 | South Africa             |         1 |       0    |
 | Spain                    |         1 |       1    |
-| Italy                    |         1 |       0    |
-| Fiji                     |         1 |       0    |

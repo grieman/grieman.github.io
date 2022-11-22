@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry Elrington  
-date: 2022-11-16 11:28:38.508053  
+date: 2022-11-22 11:33:07.633966  
 categories: player  
 ---
 # Harry Elrington
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 102.0
 
-## Current Percentile: 74.0
+## Current Percentile: 79.0
 
 # Elo History
 

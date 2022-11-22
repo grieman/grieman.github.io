@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Cowan-Dickie  
-date: 2022-11-16 11:37:09.892681  
+date: 2022-11-22 11:36:19.395292  
 categories: player  
 ---
 # Luke Cowan-Dickie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 111.0
+## Current elo: 107.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Exeter Chiefs           |           155 |   0.7      |
-| England                 |            38 |   0.644737 |
+| England                 |            39 |   0.641026 |
 | Cornish Pirates         |            21 |   0.571429 |
 | British and Irish Lions |             3 |   0.333333 |
 
@@ -55,17 +55,17 @@ categories: player
 | Nottingham               |         3 |   0.666667 |
 | Ospreys                  |         3 |   0.666667 |
 | Scotland                 |         3 |   0.166667 |
-| London Welsh             |         2 |   1        |
 | Munster                  |         2 |   0.25     |
+| New Zealand              |         2 |   0.75     |
 | Argentina                |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0        |
 | Ealing Trailfinders      |         2 |   0.5      |
 | Castres Olympique        |         2 |   0.5      |
-| London Scottish          |         2 |   0        |
+| London Welsh             |         2 |   1        |
 | Doncaster                |         2 |   1        |
 | Yorkshire Carnegie       |         2 |   0.5      |
+| London Scottish          |         2 |   0        |
 | Leinster                 |         2 |   0        |
-| Japan                    |         1 |   1        |
 | Stade Toulousain         |         1 |   1        |
 | Bayonne                  |         1 |   1        |
 | Bordeaux Begles          |         1 |   1        |
@@ -73,7 +73,7 @@ categories: player
 | United States of America |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Tonga                    |         1 |   1        |
-| New Zealand              |         1 |   1        |
+| Japan                    |         1 |   1        |
 | Racing 92                |         1 |   1        |
 | Cavalieri Prato          |         1 |   1        |
 | Scarlets                 |         1 |   1        |

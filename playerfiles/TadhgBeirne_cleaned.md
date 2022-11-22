@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tadhg Beirne  
-date: 2022-11-16 11:41:00.592004  
+date: 2022-11-22 11:47:33.735156  
 categories: player  
 ---
 # Tadhg Beirne
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 113.0
+## Current elo: 116.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Scarlets                |            54 |   0.666667 |
 | Munster                 |            42 |   0.690476 |
-| Ireland                 |            31 |   0.709677 |
+| Ireland                 |            32 |   0.71875  |
 | Leinster                |             4 |   0.5      |
 | British and Irish Lions |             3 |   0.666667 |
 
@@ -48,18 +48,18 @@ categories: player
 | Zebre                    |         4 |   1        |
 | Castres Olympique        |         4 |   0.75     |
 | Glasgow Warriors         |         4 |   0.75     |
+| Australia                |         3 |   1        |
 | Japan                    |         3 |   0.666667 |
 | Bath Rugby               |         3 |   0.666667 |
 | France                   |         3 |   0        |
 | South Africa             |         3 |   0.666667 |
 | Scotland                 |         3 |   1        |
 | England                  |         3 |   0.666667 |
-| Gloucester Rugby         |         2 |   1        |
 | Scarlets                 |         2 |   0.5      |
 | Wasps                    |         2 |   1        |
 | Cheetahs                 |         2 |   0.5      |
 | Southern Kings           |         2 |   1        |
-| Australia                |         2 |   1        |
+| Gloucester Rugby         |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.75     |
 | Sale Sharks              |         1 |   0        |
 | Russia                   |         1 |   1        |

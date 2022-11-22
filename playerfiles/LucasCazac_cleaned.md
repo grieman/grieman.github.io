@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lucas Cazac  
-date: 2022-11-16 11:27:49.355016  
+date: 2022-11-22 11:39:24.231587  
 categories: player  
 ---
 # Lucas Cazac
 
 ## Positions: L
 
-## Current elo: 68.0
+## Current elo: 67.0
 
 ## Current Percentile: 1.0
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Massy               |            40 |   0.3      |
 | Rouen               |            29 |   0.275862 |
-| Carqueiranne-Hyères |             7 |   0.428571 |
+| Carqueiranne-Hyères |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,11 +32,11 @@ categories: player
 | Carcassonne                |         6 |   0.5      |
 | Bayonne                    |         5 |   0        |
 | Aurillac                   |         5 |   0        |
-| Grenoble                   |         4 |   0.25     |
+| Mont-de-Marsan             |         4 |   0.25     |
 | Colomiers                  |         4 |   0.25     |
 | Soyaux-Angouleme           |         4 |   0.25     |
 | Provence Rugby             |         4 |   0.75     |
-| Mont-de-Marsan             |         4 |   0.25     |
+| Grenoble                   |         4 |   0.25     |
 | Vannes                     |         4 |   0        |
 | Biarritz Olympique         |         4 |   0.5      |
 | Montauban                  |         3 |   0        |
@@ -49,6 +49,7 @@ categories: player
 | Brive                      |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Blagnac                    |         1 |   0        |
+| Rennes                     |         1 |   0        |
 | Suresnes                   |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Agen                       |         1 |   1        |

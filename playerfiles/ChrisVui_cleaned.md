@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Vui  
-date: 2022-11-16 11:25:26.791204  
+date: 2022-11-22 11:37:49.211350  
 categories: player  
 ---
 # Chris Vui
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 70.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Bristol Rugby      |            95 |   0.594737 |
 | North Harbour      |            20 |   0.475    |
-| Samoa              |            17 |   0.411765 |
+| Samoa              |            18 |   0.444444 |
 | Worcester Warriors |             8 |   0.5      |
 | Blues              |             2 |   0        |
 
@@ -49,6 +49,7 @@ categories: player
 | Bay of Plenty        |         2 |   0.5      |
 | Bedford              |         2 |   1        |
 | Northland            |         2 |   1        |
+| Romania              |         2 |   0.5      |
 | Germany              |         2 |   1        |
 | Scotland             |         2 |   0        |
 | Southland            |         2 |   1        |
@@ -57,7 +58,6 @@ categories: player
 | Tonga                |         1 |   1        |
 | Russia               |         1 |   1        |
 | Wales                |         1 |   0        |
-| Romania              |         1 |   0        |
 | Manawatu             |         1 |   0        |
 | Scarlets             |         1 |   1        |
 | New Zealand          |         1 |   0        |

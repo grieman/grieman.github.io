@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Youngs  
-date: 2022-11-16 11:43:59.951661  
+date: 2022-11-22 11:38:21.449430  
 categories: player  
 ---
 # Ben Youngs
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 113.0
+## Current elo: 112.0
 
 ## Current Percentile: 90.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Leicester Tigers        |           277 |   0.633574 |
-| England                 |           109 |   0.697248 |
+| England                 |           110 |   0.695455 |
 | British and Irish Lions |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -49,9 +49,9 @@ categories: player
 | South Africa             |        11 |   0.363636 |
 | Benetton Treviso         |         9 |   1        |
 | Ulster                   |         8 |   0.25     |
+| New Zealand              |         7 |   0.357143 |
 | Racing 92                |         7 |   0.142857 |
 | Bristol Rugby            |         6 |   0.666667 |
-| New Zealand              |         6 |   0.333333 |
 | Munster                  |         6 |   0.5      |
 | Scarlets                 |         6 |   0.666667 |
 | Argentina                |         5 |   0.8      |

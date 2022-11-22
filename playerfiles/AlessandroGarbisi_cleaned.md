@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alessandro Garbisi  
-date: 2022-11-16 11:21:58.131926  
+date: 2022-11-22 11:42:50.385191  
 categories: player  
 ---
 # Alessandro Garbisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 70.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            10 |   0.35     |
-| Italy            |             3 |   0.666667 |
+| Benetton Treviso |            10 |       0.35 |
+| Italy            |             4 |       0.5  |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Leinster         |         1 |   0        |
 | Lions            |         1 |   0        |
 | Romania          |         1 |   1        |
+| South Africa     |         1 |   0        |

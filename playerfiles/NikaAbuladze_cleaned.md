@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nika Abuladze  
-date: 2022-11-16 11:35:47.183902  
+date: 2022-11-22 11:47:05.339777  
 categories: player  
 ---
 # Nika Abuladze
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: 40.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
+| Georgia    |             5 |       0.8  |
 | Black Lion |             4 |       0.75 |
-| Georgia    |             4 |       0.75 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -36,3 +36,4 @@ categories: player
 | SWD Eagles             |         1 |          1 |
 | Samoa                  |         1 |          0 |
 | Uruguay                |         1 |          1 |
+| Wales                  |         1 |          1 |

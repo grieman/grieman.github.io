@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cristian Chirica  
-date: 2022-11-16 11:29:49.989699  
+date: 2022-11-22 11:36:25.903104  
 categories: player  
 ---
 # Cristian Chirica
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 81.0
+## Current elo: 78.0
 
-## Current Percentile: 11.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,22 +23,23 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Romania             |            21 |   0.47619  |
+| Romania             |            22 |   0.454545 |
 | Carqueiranne-Hyères |             6 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Russia                     |         3 |   0.666667 |
 | Spain                      |         3 |   0.333333 |
 | Georgia                    |         3 |   0        |
-| Russia                     |         3 |   0.666667 |
-| Portugal                   |         2 |   1        |
 | Uruguay                    |         2 |   0        |
 | Chile                      |         2 |   1        |
 | Tonga                      |         2 |   0.5      |
+| Portugal                   |         2 |   1        |
 | United States of America   |         1 |   0        |
 | US Bressane                |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Albi                       |         1 |   1        |
+| Samoa                      |         1 |   0        |
 | Argentina                  |         1 |   0        |
 | Netherlands                |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |

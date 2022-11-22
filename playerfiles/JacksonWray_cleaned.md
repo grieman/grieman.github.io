@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jackson Wray  
-date: 2022-11-16 11:25:31.341657  
+date: 2022-11-22 11:26:11.516400  
 categories: player  
 ---
 # Jackson Wray
 
 ## Positions: FL, N8
 
-## Current elo: 133.0
+## Current elo: 135.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 

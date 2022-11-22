@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Goode  
-date: 2022-11-16 11:42:56.711709  
+date: 2022-11-22 11:26:30.801438  
 categories: player  
 ---
 # Alex Goode
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 123.0
+## Current elo: 125.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 

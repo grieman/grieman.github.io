@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Joseph  
-date: 2022-11-16 11:40:50.846923  
+date: 2022-11-22 11:38:33.169256  
 categories: player  
 ---
 # Will Joseph
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: 47.0
 

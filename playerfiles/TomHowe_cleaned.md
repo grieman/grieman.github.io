@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Howe  
-date: 2022-11-16 11:27:28.620865  
+date: 2022-11-22 11:28:35.884496  
 categories: player  
 ---
 # Tom Howe
 
 ## Positions: W
 
-## Current elo: 83.0
+## Current elo: 82.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Civetta  
-date: 2022-11-16 11:28:41.494505  
+date: 2022-11-22 11:26:29.772346  
 categories: player  
 ---
 # Santiago Civetta
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 13.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Penarol Rugby |            18 |   0.666667 |
-| Uruguay       |            15 |   0.333333 |
+| Uruguay       |            16 |   0.3125   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,5 +39,6 @@ categories: player
 | Japan                    |         2 |   0        |
 | Fiji                     |         1 |   1        |
 | Italy                    |         1 |   0        |
+| Tonga                    |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   0        |

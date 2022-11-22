@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomos Williams  
-date: 2022-11-16 11:25:08.901794  
+date: 2022-11-22 11:44:03.390600  
 categories: player  
 ---
 # Tomos Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 86.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cardiff Blues |           124 |   0.524194 |
-| Wales         |            39 |   0.551282 |
+| Wales         |            40 |   0.5375   |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -49,26 +49,26 @@ categories: player
 | Australia          |         3 |   1        |
 | New Zealand        |         3 |   0        |
 | Stade Toulousain   |         3 |   0.666667 |
-| Harlequins         |         2 |   0        |
-| Bristol Rugby      |         2 |   1        |
-| Scotland           |         2 |   1        |
-| Gloucester Rugby   |         2 |   0.5      |
-| Sale Sharks        |         2 |   0.5      |
-| Bath Rugby         |         2 |   0.5      |
-| Newcastle Falcons  |         2 |   1        |
-| England            |         2 |   0        |
+| Georgia            |         2 |   0.5      |
 | Fiji               |         2 |   1        |
+| England            |         2 |   0        |
+| Newcastle Falcons  |         2 |   1        |
+| Sale Sharks        |         2 |   0.5      |
+| Gloucester Rugby   |         2 |   0.5      |
+| Bath Rugby         |         2 |   0.5      |
+| Scotland           |         2 |   1        |
+| Bristol Rugby      |         2 |   1        |
 | Southern Kings     |         2 |   1        |
+| Harlequins         |         2 |   0        |
+| Wasps              |         1 |   1        |
+| Worcester Warriors |         1 |   0        |
+| Stormers           |         1 |   1        |
 | Uruguay            |         1 |   1        |
 | Tonga              |         1 |   1        |
-| Wasps              |         1 |   1        |
-| Stormers           |         1 |   1        |
-| Worcester Warriors |         1 |   0        |
 | Samoa              |         1 |   1        |
 | Sharks             |         1 |   1        |
 | Bulls              |         1 |   0        |
 | Canada             |         1 |   1        |
-| Georgia            |         1 |   1        |
 | Leicester Tigers   |         1 |   0        |
 | Italy              |         1 |   1        |
 | Lions              |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Hill  
-date: 2022-11-16 11:22:01.483427  
+date: 2022-11-22 11:34:09.598628  
 categories: player  
 ---
 # Paul Hill
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 83.0
+## Current Percentile: 82.0
 
 # Elo History
 

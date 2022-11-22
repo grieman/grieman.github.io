@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Logovi'i Mulipola  
-date: 2022-11-16 11:21:43.166388  
+date: 2022-11-22 11:27:55.540535  
 categories: player  
 ---
 # Logovi'i Mulipola
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 108.0
+## Current elo: 109.0
 
 ## Current Percentile: None
 

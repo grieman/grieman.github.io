@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mark Tampin  
-date: 2022-11-16 11:23:42.401468  
+date: 2022-11-22 11:31:29.978295  
 categories: player  
 ---
 # Mark Tampin
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 23.0
+## Current Percentile: 17.0
 
 # Elo History
 

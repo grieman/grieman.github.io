@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sam Graham  
-date: 2022-11-16 11:37:49.743662  
+date: 2022-11-22 11:32:59.805384  
 categories: player  
 ---
 # Sam Graham
 
 ## Positions: FL, N8
 
-## Current elo: 121.0
+## Current elo: 123.0
 
 ## Current Percentile: 94.0
 

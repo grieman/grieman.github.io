@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mike Haywood  
-date: 2022-11-16 11:38:35.148362  
+date: 2022-11-22 11:29:08.169974  
 categories: player  
 ---
 # Mike Haywood
 
 ## Positions: H
 
-## Current elo: 126.0
+## Current elo: 127.0
 
 ## Current Percentile: 99.0
 

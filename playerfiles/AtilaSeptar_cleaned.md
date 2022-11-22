@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Atila Septar  
-date: 2022-11-16 11:25:36.777664  
+date: 2022-11-22 11:45:51.388717  
 categories: player  
 ---
 # Atila Septar
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 92.0
+## Current elo: 84.0
 
-## Current Percentile: 50.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Toulon            |            14 |   0.392857 |
 | Brive             |             6 |   0.333333 |
 | Clermont Auvergne |             6 |   0.166667 |
-| Romania           |             2 |   0.5      |
+| Romania           |             3 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -46,11 +46,12 @@ categories: player
 | Oyonnax              |         2 |   0        |
 | Lyon                 |         2 |   0.75     |
 | Agen                 |         1 |   1        |
-| Racing 92            |         1 |   0        |
+| Samoa                |         1 |   0        |
 | Uruguay              |         1 |   0        |
 | Worcester Warriors   |         1 |   0        |
 | Toulon               |         1 |   0        |
 | Newcastle Falcons    |         1 |   1        |
+| Racing 92            |         1 |   0        |
 | Pau                  |         1 |   1        |
 | London Irish         |         1 |   0        |
 | Leicester Tigers     |         1 |   1        |

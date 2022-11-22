@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen Perofeta  
-date: 2022-11-16 11:25:45.371474  
+date: 2022-11-22 11:32:24.514960  
 categories: player  
 ---
 # Stephen Perofeta
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 

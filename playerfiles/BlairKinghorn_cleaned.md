@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Blair Kinghorn  
-date: 2022-11-16 11:42:57.964277  
+date: 2022-11-22 11:33:15.419750  
 categories: player  
 ---
 # Blair Kinghorn
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 135.0
+## Current elo: 137.0
 
 ## Current Percentile: 98.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Edinburgh |           118 |   0.538136 |
-| Scotland  |            36 |   0.5      |
+| Scotland  |            37 |   0.513514 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -37,8 +37,8 @@ categories: player
 | Cardiff Blues            |         7 |   0.285714 |
 | Munster                  |         7 |   0.142857 |
 | Connacht                 |         6 |   0.5      |
+| Argentina                |         6 |   0.666667 |
 | Ospreys                  |         5 |   0.2      |
-| Argentina                |         5 |   0.6      |
 | France                   |         5 |   0.4      |
 | Wales                    |         4 |   0.25     |
 | Ireland                  |         4 |   0        |

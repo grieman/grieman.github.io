@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yutaka Nagare  
-date: 2022-11-16 11:42:23.686384  
+date: 2022-11-22 11:44:50.936916  
 categories: player  
 ---
 # Yutaka Nagare
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 90.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Japan            |            21 |   0.357143 |
+| Japan            |            22 |   0.340909 |
 | Tokyo Sungoliath |            21 |   0.761905 |
 | Sunwolves        |            13 |   0.153846 |
 
@@ -43,6 +43,7 @@ categories: player
 | Italy                             |         2 |   0.5      |
 | Australia                         |         2 |   0        |
 | England                           |         2 |   0        |
+| France                            |         2 |   0.25     |
 | Samoa                             |         1 |   1        |
 | Urayasu D-Rocks                   |         1 |   1        |
 | Blues                             |         1 |   0        |
@@ -56,7 +57,6 @@ categories: player
 | Hurricanes                        |         1 |   0        |
 | Hino Red Dolphins                 |         1 |   1        |
 | Russia                            |         1 |   1        |
-| France                            |         1 |   0.5      |
 | Georgia                           |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |
 | Mie Honda Heat                    |         1 |   1        |

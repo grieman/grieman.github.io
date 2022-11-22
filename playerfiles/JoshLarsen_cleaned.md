@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Larsen  
-date: 2022-11-16 11:41:05.181694  
+date: 2022-11-22 11:30:14.330829  
 categories: player  
 ---
 # Josh Larsen
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 84.0
+## Current elo: 82.0
 
-## Current Percentile: 9.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -23,44 +23,44 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |            20 |   0.75     |
+| Canada                 |            14 |   0.214286 |
 | Austin Elite Rugby     |            13 |   0        |
-| Canada                 |            13 |   0.230769 |
 | Northland              |            11 |   0.181818 |
+| New England Free Jacks |             8 |   0.5      |
 | Otago                  |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| NOLA Gold                |         5 |   0.6      |
-| Seattle Seawolves        |         5 |   0.4      |
-| R.U. New York            |         5 |   0.4      |
 | Waikato                  |         4 |   0.75     |
-| Utah Warriors            |         4 |   0.5      |
-| Toronto Arrows           |         3 |   0.333333 |
+| Seattle Seawolves        |         4 |   0.25     |
 | San Diego Legion         |         3 |   0        |
+| Utah Warriors            |         3 |   0.333333 |
 | Auckland                 |         2 |   0.5      |
-| Rugby ATL                |         2 |   1        |
-| North Harbour            |         2 |   0        |
-| Old Glory DC             |         2 |   1        |
 | Manawatu                 |         2 |   0        |
-| Bay of Plenty            |         2 |   0.5      |
+| North Harbour            |         2 |   0        |
+| Austin Gilgronis         |         2 |   1        |
+| NOLA Gold                |         2 |   0        |
+| R.U. New York            |         2 |   0        |
 | Houston SaberCats        |         2 |   0        |
-| South Africa             |         1 |   0        |
-| Belgium                  |         1 |   1        |
-| Uruguay                  |         1 |   0        |
-| United States of America |         1 |   0        |
-| Canterbury               |         1 |   0        |
-| Tasman                   |         1 |   0        |
-| Spain                    |         1 |   1        |
-| Southland                |         1 |   0        |
-| Fiji                     |         1 |   0        |
-| Netherlands              |         1 |   1        |
-| Georgia                  |         1 |   0        |
+| Bay of Plenty            |         2 |   0.5      |
 | Russia                   |         1 |   0        |
-| Glendale Raptors         |         1 |   0        |
-| Otago                    |         1 |   0        |
-| Austin Gilgronis         |         1 |   1        |
-| Italy                    |         1 |   0        |
+| Tasman                   |         1 |   0        |
+| Southland                |         1 |   0        |
+| South Africa             |         1 |   0        |
+| Toronto Arrows           |         1 |   0        |
+| United States of America |         1 |   0        |
+| Uruguay                  |         1 |   0        |
+| Spain                    |         1 |   1        |
 | New Zealand Maori        |         1 |   0        |
+| Otago                    |         1 |   0        |
 | New Zealand              |         1 |   0        |
+| Netherlands              |         1 |   1        |
+| Namibia                  |         1 |   0        |
+| L. A. Giltinis           |         1 |   0        |
+| Italy                    |         1 |   0        |
+| Glendale Raptors         |         1 |   0        |
+| Georgia                  |         1 |   0        |
+| Fiji                     |         1 |   0        |
+| Canterbury               |         1 |   0        |
+| Belgium                  |         1 |   1        |
 | Wales                    |         1 |   0        |

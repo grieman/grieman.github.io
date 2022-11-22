@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juarno Augustus  
-date: 2022-11-16 11:31:05.446693  
+date: 2022-11-22 11:43:16.423395  
 categories: player  
 ---
 # Juarno Augustus
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 42.0
 
 # Elo History
 

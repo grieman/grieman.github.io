@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruben van Heerden  
-date: 2022-11-16 11:36:17.218281  
+date: 2022-11-22 11:40:14.765347  
 categories: player  
 ---
 # Ruben van Heerden
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 

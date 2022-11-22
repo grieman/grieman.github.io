@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack van Poortvliet  
-date: 2022-11-16 11:32:58.187370  
+date: 2022-11-22 11:37:00.494390  
 categories: player  
 ---
 # Jack van Poortvliet
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 112.0
+## Current elo: 109.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -24,23 +24,24 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |            44 |   0.636364 |
-| England          |             5 |   0.6      |
+| England          |             6 |   0.583333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Northampton Saints |         5 |   0.8      |
 | Sale Sharks        |         5 |   0        |
+| Northampton Saints |         5 |   0.8      |
+| Worcester Warriors |         4 |   1        |
 | Bath Rugby         |         4 |   0.75     |
+| Wasps              |         4 |   0.75     |
 | Gloucester Rugby   |         4 |   0.75     |
 | Newcastle Falcons  |         4 |   1        |
-| Wasps              |         4 |   0.75     |
-| Worcester Warriors |         4 |   1        |
-| Australia          |         3 |   0.666667 |
 | Exeter Chiefs      |         3 |   0.666667 |
 | Harlequins         |         3 |   0.333333 |
+| Australia          |         3 |   0.666667 |
 | Saracens           |         3 |   0.333333 |
 | Bristol Rugby      |         2 |   0        |
 | London Irish       |         2 |   1        |
 | Argentina          |         1 |   0        |
+| New Zealand        |         1 |   0.5      |
 | Bordeaux Begles    |         1 |   1        |
 | Japan              |         1 |   1        |

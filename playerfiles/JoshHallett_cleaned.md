@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Josh Hallett  
-date: 2022-11-16 11:30:58.664223  
+date: 2022-11-22 11:26:38.461515  
 categories: player  
 ---
 # Josh Hallett
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 93.0
 
 ## Current Percentile: None
 
@@ -17,15 +17,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |             9 |   0.888889 |
+| Saracens |             7 |   0.857143 |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Gloucester Rugby   |         2 |        0.5 |
-| Bath Rugby         |         1 |        1   |
-| Bristol Rugby      |         1 |        1   |
-| Exeter Chiefs      |         1 |        1   |
-| Harlequins         |         1 |        1   |
-| Newcastle Falcons  |         1 |        1   |
-| Northampton Saints |         1 |        1   |
-| Sale Sharks        |         1 |        1   |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Gloucester Rugby  |         2 |        0.5 |
+| Bath Rugby        |         1 |        1   |
+| Exeter Chiefs     |         1 |        1   |
+| Harlequins        |         1 |        1   |
+| Newcastle Falcons |         1 |        1   |
+| Sale Sharks       |         1 |        1   |

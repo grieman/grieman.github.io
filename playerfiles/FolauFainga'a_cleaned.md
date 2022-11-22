@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Folau Fainga'a  
-date: 2022-11-16 11:33:53.079381  
+date: 2022-11-22 11:34:26.702807  
 categories: player  
 ---
 # Folau Fainga'a
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 125.0
+## Current elo: 131.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 # Match History
 
 
-| Team      |   Appearances |   Win Rate |
-|:----------|--------------:|-----------:|
-| Brumbies  |            63 |   0.587302 |
-| Australia |            37 |   0.5      |
+| Team               |   Appearances |   Win Rate |
+|:-------------------|--------------:|-----------:|
+| Brumbies           |            63 |   0.587302 |
+| Australia          |            38 |   0.486842 |
+| Canberra Vikings   |             5 |   0.6      |
+| NSW Country Eagles |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -35,21 +37,29 @@ categories: player
 | South Africa             |         7 |   0.571429 |
 | New South Wales Waratahs |         7 |   0.857143 |
 | Western Force            |         6 |   1        |
-| England                  |         4 |   0.25     |
 | Hurricanes               |         4 |   0.75     |
+| England                  |         4 |   0.25     |
 | Blues                    |         4 |   0.25     |
-| Highlanders              |         3 |   0.333333 |
-| Sunwolves                |         3 |   1        |
-| Crusaders                |         3 |   0        |
-| Chiefs                   |         3 |   0.666667 |
 | Jaguares                 |         3 |   0        |
-| Scotland                 |         2 |   0.5      |
-| Sharks                   |         2 |   1        |
+| Sunwolves                |         3 |   1        |
+| Chiefs                   |         3 |   0.666667 |
+| Crusaders                |         3 |   0        |
+| Highlanders              |         3 |   0.333333 |
 | Bulls                    |         2 |   1        |
 | Italy                    |         2 |   0.5      |
 | Lions                    |         2 |   0.5      |
+| Scotland                 |         2 |   0.5      |
+| Sharks                   |         2 |   1        |
 | France                   |         1 |   0        |
-| Japan                    |         1 |   1        |
-| Stormers                 |         1 |   1        |
-| Uruguay                  |         1 |   1        |
 | Wales                    |         1 |   0        |
+| Uruguay                  |         1 |   1        |
+| Sydney Rays              |         1 |   1        |
+| Fijian Drua              |         1 |   1        |
+| Stormers                 |         1 |   1        |
+| Japan                    |         1 |   1        |
+| Queensland Country       |         1 |   0        |
+| Perth Spirit             |         1 |   1        |
+| Greater Sydney Rams      |         1 |   1        |
+| Ireland                  |         1 |   0        |
+| Melbourne Rising         |         1 |   1        |
+| NSW Country Eagles       |         1 |   0        |

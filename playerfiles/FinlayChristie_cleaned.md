@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finlay Christie  
-date: 2022-11-16 11:26:11.329717  
+date: 2022-11-22 11:28:13.478940  
 categories: player  
 ---
 # Finlay Christie
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 99.0
+## Current elo: 98.0
 
 ## Current Percentile: 69.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Vunipola  
-date: 2022-11-16 11:21:19.954710  
+date: 2022-11-22 11:47:54.839480  
 categories: player  
 ---
 # Billy Vunipola
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 137.0
+## Current elo: 131.0
 
 ## Current Percentile: 98.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Saracens |           154 |   0.824675 |
-| England  |            58 |   0.663793 |
+| England  |            59 |   0.661017 |
 | Wasps    |            39 |   0.410256 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -48,12 +48,12 @@ categories: player
 | Scotland                 |         6 |   0.75     |
 | Italy                    |         6 |   1        |
 | Munster                  |         5 |   0.8      |
+| New Zealand              |         5 |   0.3      |
 | Clermont Auvergne        |         5 |   0.6      |
 | South Africa             |         5 |   0.2      |
 | Glasgow Warriors         |         4 |   1        |
 | Stade Toulousain         |         4 |   0.5      |
 | Racing 92                |         4 |   0.75     |
-| New Zealand              |         4 |   0.25     |
 | Argentina                |         4 |   0.75     |
 | London Welsh             |         4 |   1        |
 | Saracens                 |         4 |   0.25     |

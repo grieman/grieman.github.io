@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nikita Bekov  
-date: 2022-11-16 11:22:45.953405  
+date: 2022-11-22 11:31:34.369813  
 categories: player  
 ---
 # Nikita Bekov
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Russia
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 67.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            14 |   0.642857 |
+| Blagnac |            15 |   0.633333 |
 | Russia  |             3 |   0        |
 | Massy   |             1 |   1        |
 
@@ -37,6 +37,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |        0   |
 | Carqueiranne-Hyères        |         1 |        1   |
 | Massy                      |         1 |        1   |
+| Narbonne                   |         1 |        0.5 |
 | Portugal                   |         1 |        0   |
 | Rennes                     |         1 |        1   |
 | Romania                    |         1 |        0   |

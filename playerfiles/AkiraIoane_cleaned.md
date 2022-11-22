@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Akira Ioane  
-date: 2022-11-16 11:43:16.608618  
+date: 2022-11-22 11:45:31.013000  
 categories: player  
 ---
 # Akira Ioane
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 119.0
+## Current elo: 122.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kyle Moyle  
-date: 2022-11-16 11:28:58.925988  
+date: 2022-11-22 11:31:07.085563  
 categories: player  
 ---
 # Kyle Moyle
 
 ## Positions: FB, W
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 64.0
+## Current Percentile: 63.0
 
 # Elo History
 

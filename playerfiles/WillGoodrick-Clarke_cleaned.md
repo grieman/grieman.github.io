@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Goodrick-Clarke  
-date: 2022-11-16 11:30:35.215103  
+date: 2022-11-22 11:33:38.280549  
 categories: player  
 ---
 # Will Goodrick-Clarke
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 66.0
+## Current Percentile: 69.0
 
 # Elo History
 
