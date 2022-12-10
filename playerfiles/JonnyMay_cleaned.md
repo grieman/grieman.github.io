@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonny May  
-date: 2022-11-22 11:36:51.998920  
+date: 2022-12-09 13:19:27.305905  
 categories: player  
 ---
 # Jonny May
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 109.0
+## Current elo: 107.0
 
-## Current Percentile: 89.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           158 |   0.53481  |
-| England          |            67 |   0.686567 |
+| Gloucester Rugby |           159 |   0.537736 |
+| England          |            68 |   0.676471 |
 | Leicester Tigers |            44 |   0.443182 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Northampton Saints   |        19 |   0.342105 |
+| Northampton Saints   |        20 |   0.375    |
 | Exeter Chiefs        |        15 |   0.333333 |
 | Wasps                |        15 |   0.333333 |
 | Harlequins           |        15 |   0.333333 |
@@ -39,9 +39,9 @@ categories: player
 | Worcester Warriors   |        12 |   0.708333 |
 | Bath Rugby           |        12 |   0.333333 |
 | Leicester Tigers     |        10 |   0.45     |
+| South Africa         |         9 |   0.444444 |
 | Saracens             |         9 |   0.444444 |
 | Wales                |         8 |   0.625    |
-| South Africa         |         8 |   0.5      |
 | Italy                |         8 |   1        |
 | France               |         8 |   0.5      |
 | Australia            |         7 |   0.857143 |

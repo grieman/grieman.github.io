@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Cesar Damiani  
-date: 2022-11-16 11:29:59.933447  
+date: 2022-12-09 13:05:37.510460  
 categories: player  
 ---
 # Cesar Damiani
 
 ## Positions: L
 
-## Current elo: 67.0
+## Current elo: 68.0
 
 ## Current Percentile: 1.0
 
@@ -25,15 +25,15 @@ categories: player
 | Mont-de-Marsan      |            34 |  0.544118  |
 | Saint-Etienne       |            18 |  0.0833333 |
 | Biarritz Olympique  |            12 |  0.416667  |
-| Carqueiranne-Hyères |             8 |  0.5       |
+| Carqueiranne-Hyères |             9 |  0.444444  |
 | Stade Toulousain    |             1 |  0         |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |        12 |   0.75     |
 | Dax                        |        11 |   0.772727 |
+| Narbonne                   |        11 |   0.5      |
 | Aurillac                   |        11 |   0.590909 |
-| Narbonne                   |        10 |   0.55     |
 | Bourgoin-Jallieu           |         9 |   0.666667 |
 | Tarbes                     |         8 |   0.375    |
 | Beziers                    |         8 |   0.4375   |

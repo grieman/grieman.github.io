@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ignacio Calles  
-date: 2022-11-16 11:42:06.413337  
+date: 2022-12-09 13:19:22.920634  
 categories: player  
 ---
 # Ignacio Calles
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 80.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Pau       |            66 |   0.469697 |
+| Pau       |            68 |   0.470588 |
 | Argentina |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -31,9 +31,9 @@ categories: player
 | Stade Francais Paris |         7 |   0.285714 |
 | Stade Toulousain     |         6 |   0.333333 |
 | Lyon                 |         6 |   0.25     |
-| Montpellier Herault  |         5 |   0.6      |
 | Bordeaux Begles      |         5 |   0.6      |
-| Brive                |         4 |   0.25     |
+| Brive                |         5 |   0.4      |
+| Montpellier Herault  |         5 |   0.6      |
 | Toulon               |         4 |   0.125    |
 | Clermont Auvergne    |         4 |   0.25     |
 | Racing 92            |         4 |   0.25     |
@@ -41,13 +41,13 @@ categories: player
 | Bayonne              |         3 |   1        |
 | Agen                 |         2 |   1        |
 | Worcester Warriors   |         2 |   0.5      |
+| Castres Olympique    |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |
 | Ospreys              |         1 |   1        |
 | Italy                |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
 | Edinburgh            |         1 |   0        |
-| Castres Olympique    |         1 |   1        |
 | Cardiff Blues        |         1 |   0        |
 | Calvisano            |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |

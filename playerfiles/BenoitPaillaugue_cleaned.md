@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benoit Paillaugue  
-date: 2022-11-16 11:20:43.580884  
+date: 2022-12-09 13:05:46.166967  
 categories: player  
 ---
 # Benoit Paillaugue
 
 ## Positions: SH, FH
 
-## Current elo: 114.0
+## Current elo: 111.0
 
-## Current Percentile: 93.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Montpellier Herault  |           257 |   0.540856 |
 | Auch                 |            11 |   0.545455 |
-| Toulon               |             9 |   0.444444 |
+| Toulon               |            10 |   0.4      |
 | Stade Francais Paris |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Castres Olympique    |        21 |   0.428571 |
 | Stade Toulousain     |        21 |   0.380952 |
+| Racing 92            |        19 |   0.447368 |
 | Clermont Auvergne    |        18 |   0.611111 |
-| Racing 92            |        18 |   0.472222 |
 | Toulon               |        17 |   0.529412 |
 | Stade Francais Paris |        16 |   0.625    |
 | Bordeaux Begles      |        15 |   0.7      |

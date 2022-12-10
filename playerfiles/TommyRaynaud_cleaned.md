@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tommy Raynaud  
-date: 2022-11-22 11:45:02.648297  
+date: 2022-12-09 13:19:48.931963  
 categories: player  
 ---
 # Tommy Raynaud
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 33.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |           120 |   0.570833 |
+| Oyonnax |           121 |    0.57438 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,9 +36,9 @@ categories: player
 | Aurillac                   |         5 |   0.4      |
 | Mont-de-Marsan             |         5 |   0.5      |
 | Brive                      |         4 |   0.25     |
+| Soyaux-Angouleme           |         4 |   1        |
 | Biarritz Olympique         |         4 |   0.25     |
 | Agen                       |         3 |   0.666667 |
-| Soyaux-Angouleme           |         3 |   1        |
 | Rouen                      |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.333333 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Lebreton  
-date: 2022-11-22 11:46:49.103273  
+date: 2022-12-09 13:20:43.865631  
 categories: player  
 ---
 # Kevin Lebreton
 
 ## Positions: FL, N8
 
-## Current elo: 113.0
+## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |            29 |   0.758621 |
+| Oyonnax  |            31 |   0.774194 |
 | Aurillac |            24 |   0.291667 |
 | Rouen    |            20 |   0.425    |
 | Albi     |             3 |   0.5      |
@@ -36,10 +36,10 @@ categories: player
 | Biarritz Olympique         |         5 |   0.2      |
 | Colomiers                  |         5 |   0        |
 | Mont-de-Marsan             |         5 |   0.2      |
+| Aurillac                   |         5 |   0.6      |
 | Vannes                     |         4 |   0.5      |
-| Aurillac                   |         4 |   0.5      |
+| Soyaux-Angouleme           |         4 |   0.5      |
 | Oyonnax                    |         4 |   0.75     |
-| Soyaux-Angouleme           |         3 |   0.333333 |
 | Rouen                      |         3 |   1        |
 | Agen                       |         3 |   1        |
 | Montauban                  |         3 |   0.666667 |

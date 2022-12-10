@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliot Dixon  
-date: 2022-11-22 11:42:16.377489  
+date: 2022-12-09 13:20:01.596677  
 categories: player  
 ---
 # Elliot Dixon
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 96.0
+## Current elo: 97.0
 
 ## Current Percentile: 46.0
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Highlanders        |           104 |   0.524038 |
 | Southland          |            48 |   0.416667 |
-| Biarritz Olympique |            25 |   0.22     |
+| Biarritz Olympique |            27 |   0.259259 |
 | Black Rams Tokyo   |            13 |   0.615385 |
 | New Zealand Maori  |             5 |   0.8      |
 | New Zealand        |             3 |   1        |
@@ -49,37 +49,37 @@ categories: player
 | Western Force             |         5 |   0.6      |
 | Bay of Plenty             |         5 |   0.6      |
 | Bulls                     |         4 |   0.75     |
-| Queensland Reds           |         3 |   0.333333 |
-| Northland                 |         3 |   0.666667 |
 | Stormers                  |         3 |   0.333333 |
+| Northland                 |         3 |   0.666667 |
+| Queensland Reds           |         3 |   0.333333 |
 | Taranaki                  |         3 |   0        |
-| Waikato                   |         2 |   0.5      |
-| Pau                       |         2 |   0        |
+| Cheetahs                  |         2 |   1        |
 | Montpellier Herault       |         2 |   0        |
 | Shizuoka Blue Revs        |         2 |   0        |
-| Stade Francais Paris      |         2 |   0.5      |
 | Mie Honda Heat            |         2 |   0.5      |
+| Stade Francais Paris      |         2 |   0.5      |
+| Lyon                      |         2 |   0        |
 | Clermont Auvergne         |         2 |   0        |
-| Cheetahs                  |         2 |   1        |
+| Waikato                   |         2 |   0.5      |
 | Japan                     |         2 |   1        |
 | Jaguares                  |         2 |   1        |
 | Canterbury                |         2 |   0.5      |
 | Green Rockets Tokatsu     |         2 |   1        |
 | Castres Olympique         |         2 |   0        |
 | Toulon                    |         2 |   0        |
-| Lyon                      |         2 |   0        |
+| Pau                       |         2 |   0        |
 | Sunwolves                 |         1 |   1        |
 | Stade Toulousain          |         1 |   0        |
-| Racing 92                 |         1 |   0        |
-| Toshiba Brave Lupus Tokyo |         1 |   0        |
 | Vannes                    |         1 |   0        |
+| Toshiba Brave Lupus Tokyo |         1 |   0        |
 | Wales                     |         1 |   1        |
 | Saitama Wild Knights      |         1 |   1        |
+| Racing 92                 |         1 |   0        |
 | Wellington                |         1 |   0        |
 | United States of America  |         1 |   1        |
 | Agen                      |         1 |   0        |
+| Provence Rugby            |         1 |   1        |
 | Nevers                    |         1 |   0.5      |
-| Munakata Sanix Blues      |         1 |   1        |
 | Auckland                  |         1 |   0.5      |
 | British and Irish Lions   |         1 |   0        |
 | Brive                     |         1 |   1        |
@@ -87,6 +87,7 @@ categories: player
 | Carcassonne               |         1 |   1        |
 | Coca-Cola Red Sparks      |         1 |   1        |
 | Counties Manukau          |         1 |   0        |
+| Grenoble                  |         1 |   0.5      |
 | Hino Red Dolphins         |         1 |   1        |
 | Italy                     |         1 |   1        |
 | Kobelco Kobe Steelers     |         1 |   0        |
@@ -95,4 +96,5 @@ categories: player
 | Argentina                 |         1 |   1        |
 | Mont-de-Marsan            |         1 |   0        |
 | Montauban                 |         1 |   1        |
+| Munakata Sanix Blues      |         1 |   1        |
 | Yokohama Canon Eagles     |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Bhatti  
-date: 2022-11-22 11:29:13.109316  
+date: 2022-12-09 13:11:00.868728  
 categories: player  
 ---
 # Jamie Bhatti
@@ -23,21 +23,21 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            66 |   0.530303 |
+| Glasgow Warriors |            68 |   0.529412 |
 | Scotland         |            24 |   0.625    |
 | Edinburgh        |            14 |   0.678571 |
 | Bath Rugby       |             9 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Leinster                 |         8 |   0.25     |
 | Edinburgh                |         7 |   0.285714 |
 | Scarlets                 |         7 |   0.428571 |
 | Ospreys                  |         7 |   0.571429 |
-| Leinster                 |         7 |   0.285714 |
 | Cardiff Blues            |         7 |   0.857143 |
+| Zebre                    |         5 |   1        |
 | Benetton Treviso         |         5 |   0.2      |
 | Connacht                 |         5 |   0.8      |
-| Zebre                    |         4 |   1        |
 | Ulster                   |         4 |   0.5      |
 | Munster                  |         3 |   0.666667 |
 | Argentina                |         3 |   1        |

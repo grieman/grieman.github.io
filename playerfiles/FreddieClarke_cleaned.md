@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Freddie Clarke  
-date: 2022-11-22 11:46:31.657886  
+date: 2022-12-09 13:17:39.127401  
 categories: player  
 ---
 # Freddie Clarke
 
 ## Positions: L, FL
 
-## Current elo: 106.0
+## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           117 |   0.538462 |
+| Gloucester Rugby |           119 |   0.537815 |
 | London Welsh     |             1 |   1        |
 | Rotherham Titans |             1 |   0        |
 
@@ -30,14 +30,14 @@ categories: player
 | Exeter Chiefs        |        10 |   0.4      |
 | Wasps                |         9 |   0.722222 |
 | Saracens             |         9 |   0.555556 |
+| Harlequins           |         9 |   0.222222 |
 | Leicester Tigers     |         9 |   0.222222 |
 | Bath Rugby           |         9 |   0.777778 |
 | Sale Sharks          |         8 |   0.5      |
-| Harlequins           |         8 |   0.25     |
 | London Irish         |         8 |   0.6875   |
+| Northampton Saints   |         8 |   0.625    |
 | Newcastle Falcons    |         7 |   0.714286 |
 | Bristol Rugby        |         7 |   0.428571 |
-| Northampton Saints   |         7 |   0.571429 |
 | Worcester Warriors   |         6 |   0.833333 |
 | Agen                 |         2 |   1        |
 | Stade Toulousain     |         2 |   0        |

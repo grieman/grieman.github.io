@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jone Trevor Seuvou  
-date: 2022-11-22 11:47:07.535536  
+date: 2022-12-09 13:08:52.652720  
 categories: player  
 ---
 # Jone Trevor Seuvou
 
 ## Positions: L
 
-## Current elo: 91.0
+## Current elo: 89.0
 
-## Current Percentile: 24.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,28 +21,28 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
+| Tarbes      |            12 |   0.416667 |
 | Aubenas     |            11 |   0.318182 |
-| Tarbes      |            10 |   0.5      |
 | Carcassonne |             3 |   0        |
 | US Bressane |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Massy                      |         2 |        0   |
-| Nice                       |         2 |        0   |
-| Bourgoin-Jallieu           |         2 |        1   |
+| Dax                        |         2 |        0.5 |
 | Suresnes                   |         2 |        0   |
-| Chambery                   |         2 |        0   |
 | Oyonnax                    |         2 |        0   |
+| Nice                       |         2 |        0   |
 | Blagnac                    |         2 |        0   |
-| Tarbes                     |         1 |        1   |
-| Soyaux-Angouleme           |         1 |        0   |
-| Rennes                     |         1 |        1   |
-| Albi                       |         1 |        1   |
-| Narbonne                   |         1 |        1   |
-| Dijon                      |         1 |        0.5 |
-| Dax                        |         1 |        1   |
+| Valence Romans Drome Rugby |         2 |        0   |
+| Chambery                   |         2 |        0   |
+| Bourgoin-Jallieu           |         2 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Dijon                      |         1 |        0.5 |
+| Narbonne                   |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        0   |
 | Brive                      |         1 |        0   |
-| Valence Romans Drome Rugby |         1 |        0   |
+| Rennes                     |         1 |        1   |
+| Soyaux-Angouleme           |         1 |        0   |
+| Tarbes                     |         1 |        1   |
+| Albi                       |         1 |        1   |

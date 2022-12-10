@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Spencer  
-date: 2022-11-16 11:26:01.655162  
+date: 2022-12-09 13:16:46.087397  
 categories: player  
 ---
 # Ben Spencer
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 99.0
 
 ## Current Percentile: 69.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Saracens   |           178 |   0.735955 |
-| Bath Rugby |            48 |   0.416667 |
+| Bath Rugby |            49 |   0.408163 |
 | England    |             5 |   0.3      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -36,7 +36,7 @@ categories: player
 | Gloucester Rugby   |        18 |   0.583333 |
 | Leicester Tigers   |        17 |   0.676471 |
 | Worcester Warriors |        15 |   0.8      |
-| Harlequins         |        14 |   0.642857 |
+| Harlequins         |        15 |   0.6      |
 | Newcastle Falcons  |        13 |   0.923077 |
 | London Irish       |        10 |   0.9      |
 | Bath Rugby         |        10 |   0.7      |

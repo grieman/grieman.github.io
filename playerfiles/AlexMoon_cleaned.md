@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Moon  
-date: 2022-11-22 11:44:33.421499  
+date: 2022-12-09 13:03:58.876580  
 categories: player  
 ---
 # Alex Moon
 
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 78.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            75 |   0.506667 |
+| Northampton Saints |            76 |   0.5      |
 | Nottingham         |             6 |   0.166667 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,8 +31,8 @@ categories: player
 | Bath Rugby          |         7 |   0.428571 |
 | Bristol Rugby       |         7 |   0.428571 |
 | Wasps               |         7 |   0.714286 |
+| Gloucester Rugby    |         6 |   0.5      |
 | Leicester Tigers    |         6 |   0.5      |
-| Gloucester Rugby    |         5 |   0.6      |
 | Harlequins          |         5 |   0.4      |
 | London Irish        |         5 |   1        |
 | Saracens            |         4 |   0.25     |

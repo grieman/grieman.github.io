@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lenni Nouchi  
-date: 2022-11-16 11:28:34.176132  
+date: 2022-12-09 13:10:24.388517  
 categories: player  
 ---
 # Lenni Nouchi
 
 ## Positions: FL
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |             2 |        0.5 |
+| Montpellier Herault |             3 |   0.333333 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Castres Olympique |         1 |          0 |
+| Clermont Auvergne |         1 |          0 |
 | Toulon            |         1 |          1 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cian Prendergast  
-date: 2022-11-16 11:33:23.694143  
+date: 2022-12-09 13:04:47.177629  
 categories: player  
 ---
 # Cian Prendergast
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 83.0
+## Current elo: 86.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |            25 |   0.48     |
+| Connacht |            27 |   0.481481 |
 | Ireland  |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Benetton Treviso     |         3 |   1        |
 | Edinburgh            |         3 |   0.333333 |
 | Leinster             |         3 |   0.333333 |
-| Benetton Treviso     |         2 |   1        |
+| Munster              |         3 |   0.333333 |
 | Scarlets             |         2 |   1        |
 | Stormers             |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Leicester Tigers     |         2 |   0        |
-| Munster              |         2 |   0.5      |
 | New Zealand Maori    |         2 |   0.5      |
 | Ulster               |         1 |   0        |
 | Sharks               |         1 |   0        |

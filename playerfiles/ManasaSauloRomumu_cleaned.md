@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manasa Saulo Romumu  
-date: 2022-11-16 11:23:21.247969  
+date: 2022-12-09 13:13:17.964457  
 categories: player  
 ---
 # Manasa Saulo Romumu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,54 +21,56 @@ categories: player
 # Match History
 
 
-| Team         |   Appearances |   Win Rate |
-|:-------------|--------------:|-----------:|
-| Fiji         |            28 |   0.392857 |
-| Toulon       |            22 |   0.590909 |
-| Fijian Drua  |            12 |   0.166667 |
-| London Irish |             1 |   0        |
+| Team             |   Appearances |   Win Rate |
+|:-----------------|--------------:|-----------:|
+| Fiji             |            28 |   0.392857 |
+| Toulon           |            22 |   0.590909 |
+| Fijian Drua      |            12 |   0.166667 |
+| Soyaux-Angouleme |             2 |   0.5      |
+| London Irish     |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Racing 92                |         4 |   0.5      |
 | Wales                    |         3 |   0        |
 | Bordeaux Begles          |         3 |   0.666667 |
-| Italy                    |         3 |   0.666667 |
 | Tonga                    |         3 |   0.666667 |
+| Italy                    |         3 |   0.666667 |
 | England                  |         2 |   0        |
-| New South Wales Waratahs |         2 |   0        |
+| Montpellier Herault      |         2 |   0.5      |
 | New Zealand Maori        |         2 |   0.5      |
+| Oyonnax                  |         2 |   0.5      |
 | Australia                |         2 |   0        |
 | Ireland                  |         2 |   0        |
 | France                   |         2 |   0.5      |
-| Montpellier Herault      |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   0        |
 | Scotland                 |         2 |   0        |
 | Clermont Auvergne        |         2 |   0        |
 | Uruguay                  |         2 |   0.5      |
-| Stade Francais Paris     |         1 |   1        |
 | Saracens                 |         1 |   0        |
 | Samoa                    |         1 |   0        |
+| Stade Francais Paris     |         1 |   1        |
 | Queensland Reds          |         1 |   0        |
 | Stade Toulousain         |         1 |   0        |
-| United States of America |         1 |   1        |
 | Pau                      |         1 |   1        |
-| Oyonnax                  |         1 |   1        |
+| United States of America |         1 |   1        |
 | Wasps                    |         1 |   1        |
 | Agen                     |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
-| Japan                    |         1 |   1        |
-| Hurricanes               |         1 |   0        |
-| Highlanders              |         1 |   0        |
-| Grenoble                 |         1 |   1        |
-| Georgia                  |         1 |   1        |
-| Edinburgh                |         1 |   0        |
 | Crusaders                |         1 |   0        |
-| Chiefs                   |         1 |   0        |
-| Canada                   |         1 |   1        |
-| Brumbies                 |         1 |   0        |
-| Brive                    |         1 |   1        |
-| Blues                    |         1 |   0        |
 | Bath Rugby               |         1 |   1        |
+| Blues                    |         1 |   0        |
+| Brive                    |         1 |   1        |
+| Brumbies                 |         1 |   0        |
+| Canada                   |         1 |   1        |
+| Chiefs                   |         1 |   0        |
+| Edinburgh                |         1 |   0        |
+| Melbourne Rebels         |         1 |   1        |
+| Georgia                  |         1 |   1        |
+| Grenoble                 |         1 |   1        |
+| Highlanders              |         1 |   0        |
+| Hurricanes               |         1 |   0        |
+| Japan                    |         1 |   1        |
+| Massy                    |         1 |   1        |
 | Western Force            |         1 |   0        |

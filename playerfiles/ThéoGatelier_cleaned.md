@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Gatelier  
-date: 2022-11-22 11:40:20.362274  
+date: 2022-12-09 13:06:42.144421  
 categories: player  
 ---
 # Théo Gatelier
 
 ## Positions: FB, W
 
-## Current elo: 95.0
+## Current elo: 101.0
 
-## Current Percentile: 36.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,22 +21,23 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            41 |   0.560976 |
+| Dax    |            43 |   0.581395 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         4 |   0.25     |
 | Blagnac                    |         4 |   0.5      |
+| Tarbes                     |         4 |   0.5      |
 | Aubenas                    |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   1        |
 | Chambery                   |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         3 |   0        |
 | Dijon                      |         3 |   1        |
 | Suresnes                   |         3 |   0.666667 |
-| Tarbes                     |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Massy                      |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
 | Nice                       |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Rennes                     |         1 |   1        |

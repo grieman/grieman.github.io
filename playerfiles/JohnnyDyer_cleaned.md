@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Johnny Dyer  
-date: 2022-11-16 11:44:07.639054  
+date: 2022-12-09 13:05:36.330960  
 categories: player  
 ---
 # Johnny Dyer
 
-## Positions: L, FL
+## Positions: L, N8
 
 ## Country: Fiji
 
-## Current elo: 77.0
+## Current elo: 76.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -23,7 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            48 |   0.416667 |
+| Biarritz Olympique |            50 |   0.43     |
+| Fijian Drua        |             7 |   0.571429 |
 | Fiji               |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,29 +32,35 @@ categories: player
 | Perpignan                  |         3 |   0.333333 |
 | Rouen                      |         3 |   0.666667 |
 | Colomiers                  |         3 |   1        |
-| Stade Francais Paris       |         2 |   0.5      |
+| La Rochelle                |         2 |   0.5      |
+| Mont-de-Marsan             |         2 |   0.25     |
 | Pau                        |         2 |   0        |
 | Oyonnax                    |         2 |   0.5      |
-| Racing 92                  |         2 |   0.5      |
+| Stade Francais Paris       |         2 |   0.5      |
 | Nevers                     |         2 |   0.75     |
 | Beziers                    |         2 |   0.5      |
-| Montauban                  |         2 |   0.5      |
-| Mont-de-Marsan             |         2 |   0.25     |
 | Montpellier Herault        |         2 |   0        |
-| Toulon                     |         2 |   0        |
+| Montauban                  |         2 |   0.5      |
+| Provence Rugby             |         2 |   1        |
+| Racing 92                  |         2 |   0.5      |
+| Sydney Rays                |         2 |   1        |
+| Grenoble                   |         2 |   0.75     |
 | Clermont Auvergne          |         2 |   0        |
-| Valence Romans Drome Rugby |         2 |   0.5      |
+| Toulon                     |         2 |   0        |
 | Carcassonne                |         2 |   0.5      |
+| Valence Romans Drome Rugby |         2 |   0.5      |
 | Brive                      |         2 |   0.5      |
 | Bordeaux Begles            |         2 |   0.5      |
-| La Rochelle                |         2 |   0.5      |
-| Provence Rugby             |         1 |   1        |
 | Stade Toulousain           |         1 |   0        |
+| Vannes                     |         1 |   0        |
 | Agen                       |         1 |   0        |
+| NSW Country Eagles         |         1 |   0.5      |
+| Queensland Country         |         1 |   1        |
 | New Zealand Maori          |         1 |   0        |
 | New Zealand                |         1 |   0        |
 | Lyon                       |         1 |   0        |
 | Ireland                    |         1 |   0        |
-| Grenoble                   |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
-| Vannes                     |         1 |   0        |
+| Canberra Vikings           |         1 |   0        |
+| Brisbane City              |         1 |   0.5      |
+| Western Force              |         1 |   0        |

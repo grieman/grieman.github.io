@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richard de Carpentier  
-date: 2022-11-16 11:27:00.324319  
+date: 2022-12-09 13:08:35.182108  
 categories: player  
 ---
 # Richard de Carpentier
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 74.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            28 |   0.160714 |
-| Bath Rugby         |            16 |   0.28125  |
+| Bath Rugby         |            17 |   0.264706 |
 | Harlequins         |             3 |   1        |
 | Leicester Tigers   |             1 |   0        |
 
@@ -38,9 +38,9 @@ categories: player
 | Newcastle Falcons  |         3 |  1         |
 | Bath Rugby         |         2 |  0.5       |
 | Biarritz Olympique |         2 |  0         |
+| Harlequins         |         2 |  0         |
 | London Irish       |         2 |  0         |
 | Oyonnax            |         2 |  0.75      |
 | Scarlets           |         2 |  0.5       |
 | Bristol Rugby      |         1 |  0         |
-| Harlequins         |         1 |  0         |
 | London Welsh       |         1 |  0         |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Manukula  
-date: 2022-11-22 11:33:32.988064  
+date: 2022-12-09 13:13:06.447454  
 categories: player  
 ---
 # Alexandre Manukula
 
 ## Positions: L
 
-## Current elo: 109.0
+## Current elo: 106.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Montauban        |            15 |   0.433333 |
+| Montauban        |            17 |   0.411765 |
 | Colomiers        |             9 |   0.666667 |
 | Bayonne          |             4 |   0.125    |
 | Stade Toulousain |             2 |   0.25     |
@@ -33,10 +33,11 @@ categories: player
 | Nevers              |         2 |   1        |
 | Beziers             |         2 |   0.5      |
 | Biarritz Olympique  |         2 |   0.5      |
+| Rouen               |         2 |   0.5      |
 | Provence Rugby      |         2 |   0.5      |
 | Grenoble            |         2 |   0.25     |
 | Agen                |         1 |   1        |
-| Rouen               |         1 |   1        |
+| Vannes              |         1 |   0.5      |
 | Racing 92           |         1 |   0        |
 | Perpignan           |         1 |   0        |
 | Oyonnax             |         1 |   0        |

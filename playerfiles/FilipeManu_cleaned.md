@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Filipe Manu  
-date: 2022-11-22 11:35:01.772382  
+date: 2022-12-09 13:12:59.591840  
 categories: player  
 ---
 # Filipe Manu
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 68.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Tarbes                     |            95 |   0.547368 |
 | Biarritz Olympique         |            59 |   0.635593 |
 | Bourgoin-Jallieu           |            18 |   0.444444 |
+| Cognac Saint Jean d'Angély |            12 |   0        |
 | Saint-Etienne              |            11 |   0        |
-| Cognac Saint Jean d'Angély |            10 |   0        |
 | Mont-de-Marsan             |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -36,8 +36,8 @@ categories: player
 | Carcassonne                |        10 |   0.6      |
 | Narbonne                   |        10 |   0.65     |
 | Albi                       |        10 |   0.4      |
+| Bourgoin-Jallieu           |         9 |   0.555556 |
 | Mont-de-Marsan             |         9 |   0.666667 |
-| Bourgoin-Jallieu           |         8 |   0.625    |
 | Colomiers                  |         8 |   0.25     |
 | Oyonnax                    |         7 |   0.571429 |
 | Auch                       |         6 |   0.333333 |
@@ -49,10 +49,11 @@ categories: player
 | Agen                       |         5 |   0.4      |
 | Vannes                     |         5 |   0.4      |
 | Biarritz Olympique         |         4 |   0.5      |
-| Chambery                   |         4 |   0.25     |
-| Provence Rugby             |         4 |   0.25     |
 | Blagnac                    |         4 |   0.25     |
+| Suresnes                   |         4 |   0.25     |
+| Provence Rugby             |         4 |   0.25     |
 | Lyon                       |         4 |   0.5      |
+| Chambery                   |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.875    |
 | Bayonne                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.333333 |
@@ -60,12 +61,11 @@ categories: player
 | Pau                        |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Aubenas                    |         3 |   0.666667 |
-| Suresnes                   |         3 |   0.333333 |
 | Périgueux                  |         2 |   1        |
 | Tarbes                     |         2 |   0.5      |
+| Dijon                      |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
 | Rouen                      |         2 |   1        |
-| Dijon                      |         2 |   0.5      |
 | La Rochelle                |         2 |   0.5      |
 | Rennes                     |         1 |   0        |
 | Brive                      |         1 |   0.5      |

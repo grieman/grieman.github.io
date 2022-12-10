@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Michael Young  
-date: 2022-11-22 11:30:31.283028  
+date: 2022-12-09 13:22:53.260890  
 categories: player  
 ---
 # Michael Young
 
 ## Positions: SH
 
-## Current elo: 125.0
+## Current elo: 122.0
 
 ## Current Percentile: 97.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |           170 |   0.411765 |
+| Newcastle Falcons |           172 |   0.412791 |
 | Bath Rugby        |            39 |   0.653846 |
 | Leicester Tigers  |            20 |   0.65     |
 
@@ -33,10 +33,10 @@ categories: player
 | Bath Rugby          |        16 |   0.375    |
 | Saracens            |        16 |   0.125    |
 | Sale Sharks         |        15 |   0.566667 |
+| Exeter Chiefs       |        15 |   0.333333 |
 | Leicester Tigers    |        14 |   0.285714 |
-| Exeter Chiefs       |        14 |   0.285714 |
 | Northampton Saints  |        13 |   0.346154 |
-| London Irish        |        11 |   0.590909 |
+| London Irish        |        12 |   0.541667 |
 | Worcester Warriors  |         9 |   0.5      |
 | Newcastle Falcons   |         5 |   1        |
 | Bristol Rugby       |         5 |   0.4      |

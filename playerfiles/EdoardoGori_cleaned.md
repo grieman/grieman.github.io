@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Edoardo Gori  
-date: 2022-11-22 11:27:38.660764  
+date: 2022-12-09 13:09:35.177959  
 categories: player  
 ---
 # Edoardo Gori
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 62.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |           108 |   0.300926 |
 | Italy            |            64 |   0.234375 |
-| Colomiers        |            55 |   0.681818 |
+| Colomiers        |            57 |   0.675439 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,25 +34,26 @@ categories: player
 | Ireland                    |         9 |  0.111111  |
 | Ulster                     |         9 |  0.0555556 |
 | Zebre                      |         9 |  0.777778  |
-| France                     |         8 |  0.125     |
 | Scarlets                   |         8 |  0.25      |
-| Scotland                   |         7 |  0.285714  |
-| Connacht                   |         7 |  0.5       |
+| France                     |         8 |  0.125     |
 | England                    |         7 |  0         |
+| Scotland                   |         7 |  0.285714  |
 | Glasgow Warriors           |         7 |  0         |
-| Wales                      |         6 |  0         |
+| Connacht                   |         7 |  0.5       |
 | Leinster                   |         6 |  0         |
+| Wales                      |         6 |  0         |
 | Edinburgh                  |         6 |  0.5       |
 | Australia                  |         5 |  0         |
-| Beziers                    |         5 |  0.8       |
 | Rouen                      |         5 |  1         |
+| Grenoble                   |         5 |  1         |
+| Beziers                    |         5 |  0.8       |
 | Nevers                     |         5 |  0.8       |
-| Agen                       |         4 |  0.5       |
-| Mont-de-Marsan             |         4 |  0.75      |
+| Montauban                  |         4 |  0.5       |
 | Leicester Tigers           |         4 |  0         |
 | Soyaux-Angouleme           |         4 |  0.5       |
-| Montauban                  |         4 |  0.5       |
-| Grenoble                   |         4 |  1         |
+| Mont-de-Marsan             |         4 |  0.75      |
+| Aurillac                   |         4 |  0.25      |
+| Agen                       |         4 |  0.5       |
 | Argentina                  |         4 |  0         |
 | Dragons                    |         4 |  0.5       |
 | Vannes                     |         4 |  0.5       |
@@ -62,7 +63,6 @@ categories: player
 | United States of America   |         3 |  1         |
 | Fiji                       |         3 |  1         |
 | Aironi                     |         3 |  0.666667  |
-| Aurillac                   |         3 |  0.333333  |
 | Oyonnax                    |         3 |  0.5       |
 | South Africa               |         3 |  0         |
 | Toulon                     |         2 |  0         |

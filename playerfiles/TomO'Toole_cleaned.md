@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom O'Toole  
-date: 2022-11-16 11:32:24.708610  
+date: 2022-12-09 13:23:14.107371  
 categories: player  
 ---
 # Tom O'Toole
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 54.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |            65 |   0.653846 |
+| Ulster  |            66 |   0.643939 |
 | Ireland |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Leinster                 |         8 |   0.125    |
+| Leinster                 |         9 |   0.111111 |
 | Munster                  |         7 |   0.5      |
 | Scarlets                 |         6 |   0.833333 |
 | Ospreys                  |         6 |   0.666667 |

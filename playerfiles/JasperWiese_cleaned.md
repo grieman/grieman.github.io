@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jasper Wiese  
-date: 2022-11-22 11:29:35.193065  
+date: 2022-12-09 13:10:45.198961  
 categories: player  
 ---
 # Jasper Wiese
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 113.0
+## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,34 +23,34 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Leicester Tigers    |            39 |   0.74359  |
+| Leicester Tigers    |            41 |   0.743902 |
 | South Africa        |            20 |   0.75     |
 | Cheetahs            |            18 |   0.388889 |
 | Free State Cheetahs |             6 |   0.333333 |
 
 | Opponent                |   Matches |   Win Rate |
 |:------------------------|----------:|-----------:|
-| Connacht                |         5 |   0.4      |
 | Sale Sharks             |         5 |   0.2      |
+| Connacht                |         5 |   0.4      |
 | Argentina               |         4 |   1        |
 | Northampton Saints      |         4 |   0.75     |
 | Worcester Warriors      |         4 |   1        |
 | Harlequins              |         4 |   0.75     |
+| Southern Kings          |         3 |   1        |
+| London Irish            |         3 |   0.666667 |
 | Australia               |         3 |   0.333333 |
 | Scarlets                |         3 |   0.333333 |
-| Southern Kings          |         3 |   1        |
 | New Zealand             |         3 |   0.666667 |
 | Wales                   |         3 |   1        |
 | Wasps                   |         3 |   1        |
+| Bristol Rugby           |         3 |   0.833333 |
 | Bath Rugby              |         3 |   0.666667 |
 | Newcastle Falcons       |         2 |   1        |
 | Exeter Chiefs           |         2 |   0.5      |
 | Gloucester Rugby        |         2 |   1        |
 | Saracens                |         2 |   0.5      |
 | British and Irish Lions |         2 |   1        |
-| Bristol Rugby           |         2 |   1        |
 | Western Province        |         2 |   0        |
-| London Irish            |         2 |   0.5      |
 | Ospreys                 |         2 |   0        |
 | Ulster                  |         1 |   0        |
 | Pumas                   |         1 |   1        |

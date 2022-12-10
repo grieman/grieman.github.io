@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Abdelkarim Fofana  
-date: 2022-11-22 11:39:23.315258  
+date: 2022-12-09 13:22:39.471145  
 categories: player  
 ---
 # Abdelkarim Fofana
 
 ## Positions: N8, FL
 
-## Current elo: 63.0
+## Current elo: 64.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Rouen    |            21 |   0.333333 |
+| Rouen    |            22 |   0.363636 |
 | Suresnes |             5 |   0.6      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,14 +32,15 @@ categories: player
 | Nevers                     |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
 | Colomiers                  |         2 |   0.5      |
-| Vannes                     |         2 |   1        |
 | Bayonne                    |         2 |   0        |
+| Vannes                     |         2 |   1        |
 | Blagnac                    |         1 |   1        |
-| Aubenas                    |         1 |   0        |
 | Biarritz Olympique         |         1 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   0        |
+| Aubenas                    |         1 |   0        |
 | Dijon                      |         1 |   1        |
 | Beziers                    |         1 |   0        |
+| Montauban                  |         1 |   1        |
 | Aurillac                   |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   1        |
 | US Bressane                |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   0        |

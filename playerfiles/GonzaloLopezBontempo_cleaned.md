@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gonzalo Lopez Bontempo  
-date: 2022-11-22 11:45:04.443247  
+date: 2022-12-09 13:17:15.356833  
 categories: player  
 ---
 # Gonzalo Lopez Bontempo
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 87.0
+## Current elo: 86.0
 
 ## Current Percentile: 17.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             7 |   0.142857 |
+| Rennes |             9 |   0.111111 |
 | Spain  |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,6 +31,8 @@ categories: player
 | Albi                       |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
+| Narbonne                   |         1 |          0 |
+| Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |
 | Tonga                      |         1 |          0 |

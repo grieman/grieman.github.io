@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ciaran Knight  
-date: 2022-11-22 11:33:37.378093  
+date: 2022-12-09 13:05:59.648116  
 categories: player  
 ---
 # Ciaran Knight
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            47 |   0.457447 |
+| Gloucester Rugby |            49 |   0.459184 |
 | Hartpury College |             7 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,13 +31,13 @@ categories: player
 | Bath Rugby          |         4 |   0.625    |
 | Bristol Rugby       |         4 |   0.5      |
 | Wasps               |         4 |   0.75     |
+| Northampton Saints  |         4 |   0.5      |
 | Newcastle Falcons   |         3 |   0.333333 |
 | Sale Sharks         |         3 |   0.333333 |
-| Northampton Saints  |         3 |   0.333333 |
 | London Irish        |         3 |   0.333333 |
+| Harlequins          |         3 |   0        |
 | Leicester Tigers    |         2 |   0.5      |
 | Munster             |         2 |   0        |
-| Harlequins          |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
 | Castres Olympique   |         2 |   0.5      |
 | Jersey              |         1 |   0        |

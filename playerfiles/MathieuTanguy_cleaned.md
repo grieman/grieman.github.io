@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mathieu Tanguy  
-date: 2022-11-16 11:27:58.136565  
+date: 2022-12-09 13:20:04.905325  
 categories: player  
 ---
 # Mathieu Tanguy
 
 ## Positions: L
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 30.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -22,11 +22,11 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |           115 |   0.552174 |
-| Toulon      |             8 |   0.5      |
+| Toulon      |             9 |   0.444444 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Racing 92            |        11 |   0.5      |
+| Racing 92            |        12 |   0.458333 |
 | Montpellier Herault  |        10 |   0.45     |
 | Bayonne              |         9 |   0.666667 |
 | Stade Francais Paris |         9 |   0.555556 |

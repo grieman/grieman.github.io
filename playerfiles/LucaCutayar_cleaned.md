@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luca Cutayar  
-date: 2022-11-22 11:37:42.047440  
+date: 2022-12-09 13:23:02.212593  
 categories: player  
 ---
 # Luca Cutayar
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,15 +21,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |            11 |   0.363636 |
+| Nice   |            13 |   0.461538 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Chambery                   |         2 |        0   |
 | Cognac Saint Jean d'Angély |         2 |        0.5 |
+| Blagnac                    |         1 |        1   |
 | Bourgoin-Jallieu           |         1 |        0   |
 | Dijon                      |         1 |        1   |
 | Narbonne                   |         1 |        0   |
+| Rennes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | US Bressane                |         1 |        0   |

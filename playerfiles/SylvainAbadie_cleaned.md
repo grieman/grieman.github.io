@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sylvain Abadie  
-date: 2022-11-22 11:46:41.369193  
+date: 2022-12-09 13:10:35.254710  
 categories: player  
 ---
 # Sylvain Abadie
 
 ## Positions: P
 
-## Current elo: 84.0
+## Current elo: 86.0
 
-## Current Percentile: 8.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            32 |   0.421875 |
+| Narbonne |            34 |   0.455882 |
 | Auch     |            21 |   0.309524 |
 | Massy    |            20 |   0.35     |
 
@@ -35,15 +35,15 @@ categories: player
 | Beziers                    |         3 |   0        |
 | Tarbes                     |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.666667 |
+| Albi                       |         3 |   0.166667 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
+| Nevers                     |         3 |   0.333333 |
 | US Bressane                |         3 |   0.666667 |
 | Dax                        |         3 |   0.5      |
-| Nevers                     |         3 |   0.333333 |
-| Albi                       |         3 |   0.166667 |
-| Montauban                  |         2 |   0        |
 | Provence Rugby             |         2 |   1        |
 | Nice                       |         2 |   1        |
 | Narbonne                   |         2 |   0.5      |
+| Montauban                  |         2 |   0        |
 | Agen                       |         2 |   1        |
 | Chambery                   |         2 |   0        |
 | Carcassonne                |         2 |   0.5      |
@@ -55,6 +55,8 @@ categories: player
 | Oyonnax                    |         1 |   0        |
 | Pau                        |         1 |   1        |
 | Perpignan                  |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Rouen                      |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
 | Aubenas                    |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Chauvet  
-date: 2022-11-22 11:26:16.267009  
+date: 2022-12-09 13:08:14.824188  
 categories: player  
 ---
 # Tom Chauvet
 
 ## Positions: FH
 
-## Current elo: 89.0
+## Current elo: 91.0
 
-## Current Percentile: 19.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,18 +21,20 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Narbonne       |            10 |       0.45 |
-| Mont-de-Marsan |             2 |       0    |
+| Narbonne       |            12 |   0.541667 |
+| Mont-de-Marsan |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |        0   |
 | Blagnac                    |         1 |        0.5 |
 | Bourgoin-Jallieu           |         1 |        0   |
+| Carqueiranne-Hyères        |         1 |        1   |
 | Chambery                   |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Nice                       |         1 |        1   |
 | Perpignan                  |         1 |        0   |
+| Rennes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Tarbes                     |         1 |        0   |
 | US Bressane                |         1 |        1   |

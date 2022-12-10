@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Cole  
-date: 2022-11-16 11:34:27.431775  
+date: 2022-12-09 13:10:38.619774  
 categories: player  
 ---
 # Dan Cole
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 98.0
 
-## Current Percentile: 77.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           291 |   0.623711 |
+| Leicester Tigers        |           293 |   0.624573 |
 | England                 |            91 |   0.708791 |
 | British and Irish Lions |             5 |   0.5      |
 
@@ -35,31 +35,31 @@ categories: player
 | Saracens                 |        21 |   0.380952 |
 | Sale Sharks              |        20 |   0.6      |
 | Harlequins               |        18 |   0.638889 |
+| London Irish             |        17 |   0.911765 |
 | Exeter Chiefs            |        17 |   0.470588 |
 | Worcester Warriors       |        17 |   0.882353 |
 | Gloucester Rugby         |        16 |   0.78125  |
-| London Irish             |        16 |   0.90625  |
 | Newcastle Falcons        |        15 |   0.866667 |
+| Wales                    |        12 |   0.666667 |
 | Australia                |        12 |   0.75     |
 | France                   |        12 |   0.583333 |
-| Wales                    |        12 |   0.666667 |
 | Scotland                 |        11 |   0.818182 |
-| Ireland                  |        10 |   0.5      |
 | Italy                    |        10 |   1        |
+| Ireland                  |        10 |   0.5      |
+| Bristol Rugby            |         9 |   0.5      |
 | Benetton Treviso         |         9 |   1        |
-| Bristol Rugby            |         8 |   0.5      |
-| South Africa             |         7 |   0.214286 |
 | Racing 92                |         7 |   0.142857 |
+| South Africa             |         7 |   0.214286 |
 | Ulster                   |         6 |   0.166667 |
-| Argentina                |         4 |   1        |
-| Ospreys                  |         4 |   0.625    |
-| Toulon                   |         4 |   0.25     |
-| Perpignan                |         4 |   0.375    |
 | Munster                  |         4 |   0.5      |
+| Perpignan                |         4 |   0.375    |
 | Clermont Auvergne        |         4 |   0.5      |
+| Ospreys                  |         4 |   0.625    |
+| Argentina                |         4 |   1        |
+| Toulon                   |         4 |   0.25     |
 | New Zealand              |         4 |   0.5      |
-| Stade Francais Paris     |         3 |   0.666667 |
 | Scarlets                 |         3 |   1        |
+| Stade Francais Paris     |         3 |   0.666667 |
 | Yorkshire Carnegie       |         3 |   0.666667 |
 | Fiji                     |         3 |   1        |
 | Montpellier Herault      |         2 |   1        |

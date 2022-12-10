@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie du Plessis  
-date: 2022-11-16 11:39:44.207791  
+date: 2022-12-09 13:16:18.949304  
 categories: player  
 ---
 # Willie du Plessis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            58 |   0.534483 |
-| Mont-de-Marsan      |            29 |   0.758621 |
+| Mont-de-Marsan      |            31 |   0.774194 |
 | Biarritz Olympique  |            14 |   0.571429 |
 | Cheetahs            |            10 |   0.3      |
 | Free State Cheetahs |            10 |   0.35     |
@@ -34,20 +34,20 @@ categories: player
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Vannes                 |         7 |   0.714286 |
 | Provence Rugby         |         6 |   0.666667 |
-| Vannes                 |         6 |   0.666667 |
 | Beziers                |         6 |   0.666667 |
 | Carcassonne            |         6 |   0.5      |
 | Montauban              |         6 |   0.5      |
 | Colomiers              |         5 |   0.7      |
 | Racing 92              |         5 |   0.2      |
 | Brive                  |         5 |   0.4      |
+| Nevers                 |         5 |   0.6      |
 | Biarritz Olympique     |         5 |   0.4      |
 | Oyonnax                |         5 |   0.8      |
 | Aurillac               |         5 |   0.8      |
 | Narbonne               |         4 |   1        |
 | Rouen                  |         4 |   0.75     |
-| Nevers                 |         4 |   0.5      |
 | Mont-de-Marsan         |         4 |   0.5      |
 | Massy                  |         4 |   0.75     |
 | La Rochelle            |         4 |   0.25     |

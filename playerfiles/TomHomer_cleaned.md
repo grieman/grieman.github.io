@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Homer  
-date: 2022-11-22 11:31:39.664272  
+date: 2022-12-09 13:20:43.044130  
 categories: player  
 ---
 # Tom Homer
 
 ## Positions: FB, SH
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 26.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Jersey             |            25 |   0.4      |
 | Yorkshire Carnegie |            10 |   0.65     |
 | Richmond           |             7 |   0.285714 |
-| Narbonne           |             2 |   0.75     |
+| Narbonne           |             4 |   0.875    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,36 +38,38 @@ categories: player
 | Leicester Tigers           |        17 |   0.323529 |
 | Saracens                   |        15 |   0.333333 |
 | Northampton Saints         |        15 |   0.333333 |
-| Newcastle Falcons          |        14 |   0.464286 |
 | Sale Sharks                |        14 |   0.678571 |
+| Newcastle Falcons          |        14 |   0.464286 |
 | Bristol Rugby              |        12 |   0.5      |
 | Cardiff Blues              |         8 |   0.375    |
-| Bath Rugby                 |         7 |   0.214286 |
 | London Irish               |         7 |   0.857143 |
+| Bath Rugby                 |         7 |   0.214286 |
 | Bedford                    |         6 |   0.5      |
 | Scarlets                   |         5 |   0        |
 | Doncaster                  |         5 |   0.6      |
+| Hartpury College           |         4 |   0.375    |
 | London Welsh               |         4 |   0.75     |
 | Leinster                   |         4 |   0.5      |
 | Yorkshire Carnegie         |         4 |   0.5      |
-| Hartpury College           |         4 |   0.375    |
 | Ealing Trailfinders        |         4 |   0        |
 | Cornish Pirates            |         4 |   0.75     |
-| Pau                        |         3 |   1        |
+| Nottingham                 |         3 |   0.666667 |
 | Brive                      |         3 |   1        |
 | London Scottish            |         3 |   0.333333 |
-| Nottingham                 |         3 |   0.666667 |
+| Pau                        |         3 |   1        |
 | Jersey                     |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0        |
 | Clermont Auvergne          |         2 |   0        |
 | Leeds                      |         2 |   0        |
 | Racing 92                  |         2 |   0.5      |
 | Coventry                   |         2 |   0        |
-| Rotherham Titans           |         1 |   1        |
-| Rovigo                     |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Lusitanos XV               |         1 |   1        |
+| Rennes                     |         1 |   1        |
+| Rotherham Titans           |         1 |   1        |
+| Rovigo                     |         1 |   1        |
 | Cavalieri Prato            |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Edinburgh                  |         1 |   0        |
 | Toulon                     |         1 |   0        |
 | Ulster                     |         1 |   0        |

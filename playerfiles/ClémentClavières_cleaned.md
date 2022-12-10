@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Clavières  
-date: 2022-11-22 11:42:37.825509  
+date: 2022-12-09 13:13:23.342960  
 categories: player  
 ---
 # Clément Clavières
 
 ## Positions: FB, W
 
-## Current elo: 86.0
+## Current elo: 84.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Carcassonne       |             9 |   0.444444 |
-| Castres Olympique |             2 |   0        |
+| Carcassonne       |            10 |        0.4 |
+| Castres Olympique |             2 |        0   |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -36,4 +36,5 @@ categories: player
 | Newcastle Falcons  |         1 |          0 |
 | Ospreys            |         1 |          0 |
 | Oyonnax            |         1 |          0 |
+| Provence Rugby     |         1 |          0 |
 | Rouen              |         1 |          1 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Léo Estaque  
-date: 2022-11-22 11:38:41.242061  
+date: 2022-12-09 13:07:22.319890  
 categories: player  
 ---
 # Léo Estaque
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,10 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |             1 |          1 |
+| Tarbes |             3 |   0.333333 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Albi       |         1 |          1 |
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Albi                       |         1 |          1 |
+| Dax                        |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          0 |

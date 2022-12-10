@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Richard Palframan  
-date: 2022-11-22 11:29:53.058171  
+date: 2022-12-09 13:04:40.065559  
 categories: player  
 ---
 # Richard Palframan
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 98.0
 
-## Current Percentile: 66.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,18 +23,18 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            41 |   0.268293 |
 | London Irish       |            24 |   0.4375   |
+| Newcastle Falcons  |            14 |   0.428571 |
 | London Scottish    |            12 |   0.416667 |
-| Newcastle Falcons  |            12 |   0.416667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Bath Rugby          |         7 |  0.142857  |
 | Wasps               |         7 |  0.0714286 |
+| Exeter Chiefs       |         7 |  0.285714  |
 | Bristol Rugby       |         6 |  0.333333  |
 | Northampton Saints  |         6 |  0         |
-| Exeter Chiefs       |         6 |  0.166667  |
+| London Irish        |         6 |  0.5       |
 | Sale Sharks         |         5 |  0.4       |
-| London Irish        |         5 |  0.6       |
 | Gloucester Rugby    |         5 |  0.2       |
 | Harlequins          |         5 |  0.4       |
 | Saracens            |         4 |  0.25      |

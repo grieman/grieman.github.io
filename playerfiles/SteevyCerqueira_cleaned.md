@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steevy Cerqueira  
-date: 2022-11-22 11:47:44.366288  
+date: 2022-12-09 13:21:00.353041  
 categories: player  
 ---
 # Steevy Cerqueira
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 87.0
+## Current elo: 92.0
 
-## Current Percentile: 25.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -26,9 +26,9 @@ categories: player
 | Brive                |            17 |   0.323529 |
 | Lyon                 |            14 |   0.571429 |
 | Stade Francais Paris |            12 |   0.333333 |
+| Chambery             |             9 |   0.444444 |
 | Portugal             |             9 |   0.444444 |
 | Beziers              |             8 |   0.125    |
-| Chambery             |             8 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -43,11 +43,12 @@ categories: player
 | Oyonnax                    |         2 |       0.5  |
 | Narbonne                   |         2 |       0.5  |
 | Montauban                  |         2 |       0    |
+| Albi                       |         2 |       0.5  |
 | Georgia                    |         2 |       0.25 |
 | London Welsh               |         2 |       1    |
 | Clermont Auvergne          |         2 |       0    |
 | Bordeaux Begles            |         2 |       0.5  |
-| Colomiers                  |         1 |       0    |
+| Dax                        |         1 |       0    |
 | Beziers                    |         1 |       1    |
 | Vannes                     |         1 |       1    |
 | United States of America   |         1 |       0.5  |
@@ -61,14 +62,13 @@ categories: player
 | Romania                    |         1 |       0    |
 | Rennes                     |         1 |       1    |
 | Perpignan                  |         1 |       0    |
-| Netherlands                |         1 |       1    |
 | Blagnac                    |         1 |       0    |
-| Dax                        |         1 |       0    |
+| Colomiers                  |         1 |       0    |
+| Netherlands                |         1 |       1    |
 | Bristol Rugby              |         1 |       0    |
 | Brive                      |         1 |       0    |
 | Carqueiranne-Hyères        |         1 |       0    |
 | Lyon                       |         1 |       0    |
-| Albi                       |         1 |       1    |
 | La Rochelle                |         1 |       0    |
 | Krasny Yar                 |         1 |       0    |
 | Kenya                      |         1 |       1    |

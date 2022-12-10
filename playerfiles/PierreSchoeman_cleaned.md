@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Schoeman  
-date: 2022-11-22 11:41:20.026739  
+date: 2022-12-09 13:10:03.594923  
 categories: player  
 ---
 # Pierre Schoeman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 27.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Edinburgh  |            76 |   0.565789 |
+| Edinburgh  |            77 |   0.558442 |
 | Bulls      |            35 |   0.428571 |
 | Blue Bulls |            16 |   0.5625   |
 | Scotland   |            15 |   0.466667 |
@@ -40,10 +40,10 @@ categories: player
 | Sunwolves                |         5 |   0.6      |
 | Southern Kings           |         5 |   0.6      |
 | Cardiff Blues            |         5 |   0.8      |
+| Munster                  |         5 |   0.2      |
 | Dragons                  |         4 |   0.75     |
 | Argentina                |         4 |   0.5      |
 | Cheetahs                 |         4 |   0.75     |
-| Munster                  |         4 |   0.25     |
 | Connacht                 |         4 |   0.75     |
 | Western Province         |         4 |   0.25     |
 | Jaguares                 |         3 |   0.666667 |

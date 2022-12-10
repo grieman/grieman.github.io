@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Erbani  
-date: 2022-11-22 11:36:58.507230  
+date: 2022-12-09 13:20:48.235110  
 categories: player  
 ---
 # Antoine Erbani
 
 ## Positions: FL, N8
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 69.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Agen               |           129 |   0.511628 |
-| Pau                |            40 |   0.45     |
-| Biarritz Olympique |            10 |   0.3      |
+| Agen               |           131 |    0.51145 |
+| Pau                |            40 |    0.45    |
+| Biarritz Olympique |            10 |    0.3     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,21 +32,21 @@ categories: player
 | Brive                |         9 |   0.333333 |
 | La Rochelle          |         8 |   0.375    |
 | Toulon               |         7 |   0.285714 |
+| Carcassonne          |         6 |   0.833333 |
 | Castres Olympique    |         6 |   0.166667 |
-| Montpellier Herault  |         6 |   0.333333 |
-| Aurillac             |         6 |   0.666667 |
+| Oyonnax              |         6 |   0.333333 |
 | Mont-de-Marsan       |         6 |   1        |
 | Albi                 |         6 |   0.666667 |
 | Dax                  |         6 |   0.666667 |
-| Oyonnax              |         6 |   0.333333 |
-| Carcassonne          |         5 |   1        |
-| Lyon                 |         5 |   0.2      |
-| Clermont Auvergne    |         5 |   0.2      |
-| Narbonne             |         5 |   0.6      |
+| Montpellier Herault  |         6 |   0.333333 |
+| Aurillac             |         6 |   0.666667 |
 | Racing 92            |         5 |   0.6      |
+| Narbonne             |         5 |   0.6      |
 | Stade Francais Paris |         5 |   0.6      |
+| Clermont Auvergne    |         5 |   0.2      |
 | Bourgoin-Jallieu     |         5 |   0.4      |
 | Biarritz Olympique   |         5 |   0.6      |
+| Lyon                 |         5 |   0.2      |
 | Perpignan            |         4 |   0.5      |
 | Colomiers            |         4 |   0.375    |
 | Grenoble             |         4 |   0.5      |
@@ -67,5 +67,6 @@ categories: player
 | US Bressane          |         2 |   1        |
 | Leicester Tigers     |         2 |   0.5      |
 | Ospreys              |         1 |   0        |
+| Massy                |         1 |   1        |
 | Rouen                |         1 |   1        |
 | Auch                 |         1 |   1        |

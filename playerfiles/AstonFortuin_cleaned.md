@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aston Fortuin  
-date: 2022-11-22 11:31:15.848707  
+date: 2022-12-09 13:24:15.416868  
 categories: player  
 ---
 # Aston Fortuin
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Narbonne       |            22 |   0.25     |
 | Utah Warriors  |            11 |   0.636364 |
+| Mont-de-Marsan |            10 |   0.5      |
 | Southern Kings |            10 |   0.1      |
-| Mont-de-Marsan |             8 |   0.375    |
 | Blue Bulls     |             2 |   0.5      |
 | Natal Sharks   |             2 |   0        |
 
@@ -33,13 +33,13 @@ categories: player
 | Agen                   |         3 |   0.333333 |
 | Provence Rugby         |         3 |   0.666667 |
 | Beziers                |         3 |   0        |
+| Nevers                 |         3 |   0.333333 |
 | Montauban              |         3 |   0        |
 | Aurillac               |         3 |   0.333333 |
 | Golden Lions           |         2 |   0        |
 | San Diego Legion       |         2 |   0.5      |
 | Rouen                  |         2 |   0.5      |
 | Oyonnax                |         2 |   0.5      |
-| Nevers                 |         2 |   0        |
 | Munster                |         2 |   0        |
 | Houston SaberCats      |         2 |   1        |
 | Grenoble               |         2 |   0.25     |
@@ -48,6 +48,7 @@ categories: player
 | Bayonne                |         2 |   0        |
 | Glasgow Warriors       |         1 |   0        |
 | Benetton Treviso       |         1 |   0        |
+| Ulster                 |         1 |   0        |
 | US Bressane            |         1 |   1        |
 | Soyaux-Angouleme       |         1 |   1        |
 | Seattle Seawolves      |         1 |   1        |
@@ -63,4 +64,4 @@ categories: player
 | Mont-de-Marsan         |         1 |   0        |
 | Edinburgh              |         1 |   0        |
 | Free State Cheetahs    |         1 |   0        |
-| Ulster                 |         1 |   0        |
+| Vannes                 |         1 |   1        |

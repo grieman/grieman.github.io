@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peter Betham  
-date: 2022-11-22 11:40:46.569344  
+date: 2022-12-09 13:05:00.275536  
 categories: player  
 ---
 # Peter Betham
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: 93.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Clermont Auvergne        |            80 |   0.6625   |
 | Leicester Tigers         |            54 |   0.592593 |
 | New South Wales Waratahs |            34 |   0.617647 |
-| Provence Rugby           |            28 |   0.535714 |
+| Provence Rugby           |            29 |   0.551724 |
 | Melbourne Rebels         |            11 |   0.181818 |
 | Tasman                   |             7 |   0.714286 |
 | Australia                |             2 |   0.5      |
@@ -71,21 +71,22 @@ categories: player
 | Hurricanes               |         3 |   0.666667 |
 | Gloucester Rugby         |         3 |   1        |
 | Ospreys                  |         2 |   1        |
-| Bulls                    |         2 |   0        |
+| Highlanders              |         2 |   0        |
 | Blues                    |         2 |   1        |
-| Perpignan                |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
+| Perpignan                |         2 |   1        |
 | Brive                    |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
-| Highlanders              |         2 |   0        |
 | Timisoara Saracens       |         2 |   1        |
+| Bulls                    |         2 |   0        |
 | Glasgow Warriors         |         2 |   0        |
 | Nevers                   |         2 |   0.5      |
 | Montauban                |         2 |   1        |
+| Carcassonne              |         2 |   1        |
 | Aurillac                 |         2 |   0.5      |
 | Southern Kings           |         1 |   1        |
-| Bay of Plenty            |         1 |   1        |
 | US Bressane              |         1 |   0.5      |
+| Bay of Plenty            |         1 |   1        |
 | Ulster                   |         1 |   0        |
 | Vannes                   |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
@@ -103,6 +104,5 @@ categories: player
 | Narbonne                 |         1 |   0        |
 | Canterbury               |         1 |   1        |
 | Argentina                |         1 |   1        |
-| Carcassonne              |         1 |   1        |
 | Manawatu                 |         1 |   1        |
 | Brisbane City            |         1 |   0        |

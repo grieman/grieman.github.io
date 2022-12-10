@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Firmin  
-date: 2022-11-22 11:30:49.708338  
+date: 2022-12-09 13:15:36.132298  
 categories: player  
 ---
 # Kevin Firmin
 
 ## Positions: H
 
-## Current elo: 90.0
+## Current elo: 87.0
 
-## Current Percentile: 17.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Castres Olympique |            38 |   0.447368 |
-| Montauban         |            20 |   0.525    |
+| Montauban         |            21 |   0.5      |
 | Dax               |            15 |   0.466667 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -42,6 +42,7 @@ categories: player
 | Grenoble            |         2 |   0.75     |
 | Carcassonne         |         2 |   0.5      |
 | Soyaux-Angouleme    |         2 |   0.5      |
+| Rouen               |         2 |   0.5      |
 | Bayonne             |         2 |   0        |
 | Montauban           |         2 |   0.5      |
 | Provence Rugby      |         2 |   0        |
@@ -50,7 +51,6 @@ categories: player
 | Dragons             |         2 |   0.5      |
 | Oyonnax             |         1 |   1        |
 | Toulon              |         1 |   0        |
-| Rouen               |         1 |   1        |
 | RC Enisei           |         1 |   1        |
 | Beziers             |         1 |   0        |
 | Nevers              |         1 |   1        |

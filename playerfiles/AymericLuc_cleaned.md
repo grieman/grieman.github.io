@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aymeric Luc  
-date: 2022-11-16 11:22:38.703573  
+date: 2022-12-09 13:06:26.477306  
 categories: player  
 ---
 # Aymeric Luc
@@ -22,7 +22,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Bayonne |            38 |   0.407895 |
-| Toulon  |            34 |   0.558824 |
+| Toulon  |            36 |   0.555556 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Castres Olympique    |         6 |   0.333333 |
 | La Rochelle          |         6 |   0.333333 |
 | Montpellier Herault  |         6 |   0.416667 |
+| Racing 92            |         6 |   0.333333 |
 | Clermont Auvergne    |         5 |   0.6      |
 | Lyon                 |         5 |   0.4      |
 | Stade Toulousain     |         5 |   0.4      |
+| Stade Francais Paris |         5 |   0.6      |
 | Pau                  |         5 |   0.5      |
-| Racing 92            |         5 |   0.4      |
-| Stade Francais Paris |         4 |   0.5      |
 | Bordeaux Begles      |         3 |   0.666667 |
 | Toulon               |         3 |   0.333333 |
 | Perpignan            |         3 |   0.333333 |

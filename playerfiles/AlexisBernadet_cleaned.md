@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexis Bernadet  
-date: 2022-11-22 11:30:50.552669  
+date: 2022-12-09 13:05:26.165782  
 categories: player  
 ---
 # Alexis Bernadet
 
 ## Positions: SH
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 63.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Montauban |             3 |   0.666667 |
+| Montauban |             5 |        0.5 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
-| Colomiers      |         1 |          1 |
-| Massy          |         1 |          1 |
-| Provence Rugby |         1 |          0 |
+| Colomiers      |         1 |        1   |
+| Massy          |         1 |        1   |
+| Provence Rugby |         1 |        0   |
+| Rouen          |         1 |        0   |
+| Vannes         |         1 |        0.5 |

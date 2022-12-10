@@ -1,18 +1,16 @@
 ---  
 layout: page  
 title: Martin Alonso Munoz  
-date: 2022-11-16 11:25:50.669907  
+date: 2022-12-09 13:21:12.043636  
 categories: player  
 ---
 # Martin Alonso Munoz
 
 ## Positions: W
 
-## Country: Spain
+## Current elo: 90.0
 
-## Current elo: 97.0
-
-## Current Percentile: 32.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,19 +21,17 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            14 |        0.5 |
-| Spain       |             1 |        1   |
+| La Rochelle |            15 |   0.466667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Bayonne              |         2 |        0.5 |
-| Perpignan            |         2 |        1   |
-| Racing 92            |         2 |        0   |
-| Stade Francais Paris |         2 |        0.5 |
-| Brive                |         1 |        1   |
-| Clermont Auvergne    |         1 |        1   |
-| Lyon                 |         1 |        0   |
-| Montpellier Herault  |         1 |        0   |
-| Namibia              |         1 |        1   |
-| Pau                  |         1 |        1   |
-| Stade Toulousain     |         1 |        0   |
+| Stade Francais Paris |         3 |   0.333333 |
+| Bayonne              |         2 |   0.5      |
+| Perpignan            |         2 |   1        |
+| Racing 92            |         2 |   0        |
+| Brive                |         1 |   1        |
+| Clermont Auvergne    |         1 |   1        |
+| Lyon                 |         1 |   0        |
+| Montpellier Herault  |         1 |   0        |
+| Pau                  |         1 |   1        |
+| Stade Toulousain     |         1 |   0        |

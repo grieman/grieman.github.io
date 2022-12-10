@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Lavanini  
-date: 2022-11-22 11:45:28.427856  
+date: 2022-12-09 13:06:39.597567  
 categories: player  
 ---
 # Tomas Lavanini
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 110.0
 
-## Current Percentile: 90.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -26,66 +26,67 @@ categories: player
 | Argentina         |            72 |   0.270833 |
 | Jaguares          |            48 |   0.520833 |
 | Leicester Tigers  |            34 |   0.485294 |
-| Clermont Auvergne |            12 |   0.291667 |
+| Clermont Auvergne |            13 |   0.346154 |
 | Racing 92         |            10 |   0.45     |
 | Hindu             |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | South Africa             |        17 |  0.176471  |
-| New Zealand              |        11 |  0.0909091 |
 | Australia                |        11 |  0.272727  |
+| New Zealand              |        11 |  0.0909091 |
 | Lions                    |         7 |  0.285714  |
 | Ireland                  |         6 |  0.166667  |
+| Stormers                 |         5 |  0.4       |
+| Sharks                   |         5 |  0.6       |
+| Wales                    |         5 |  0.3       |
 | England                  |         5 |  0.2       |
 | Scotland                 |         5 |  0.2       |
-| Sharks                   |         5 |  0.6       |
-| Stormers                 |         5 |  0.4       |
 | France                   |         5 |  0.2       |
 | Bulls                    |         5 |  0.8       |
-| Wales                    |         5 |  0.3       |
-| Chiefs                   |         4 |  0.5       |
-| Sale Sharks              |         4 |  0         |
 | Brumbies                 |         4 |  0.75      |
-| Gloucester Rugby         |         3 |  0.666667  |
+| Sale Sharks              |         4 |  0         |
+| Chiefs                   |         4 |  0.5       |
 | Italy                    |         3 |  1         |
-| Northampton Saints       |         3 |  0.333333  |
-| Worcester Warriors       |         3 |  1         |
-| Exeter Chiefs            |         3 |  0         |
+| Gloucester Rugby         |         3 |  0.666667  |
 | Bath Rugby               |         3 |  0         |
+| Northampton Saints       |         3 |  0.333333  |
 | Wasps                    |         3 |  1         |
+| Exeter Chiefs            |         3 |  0         |
 | Brive                    |         3 |  0.333333  |
 | Blues                    |         3 |  0.666667  |
-| Lyon                     |         2 |  1         |
+| Worcester Warriors       |         3 |  1         |
+| New South Wales Waratahs |         2 |  1         |
+| Southern Kings           |         2 |  0.5       |
+| Stade Francais Paris     |         2 |  0         |
 | Queensland Reds          |         2 |  0.5       |
 | Perpignan                |         2 |  1         |
+| Stade Toulousain         |         2 |  0         |
 | Pau                      |         2 |  0.5       |
-| Southern Kings           |         2 |  0.5       |
-| New South Wales Waratahs |         2 |  1         |
-| Stade Francais Paris     |         2 |  0         |
-| London Irish             |         2 |  0.5       |
-| Crusaders                |         2 |  0         |
-| Bordeaux Begles          |         2 |  0.25      |
-| La Rochelle              |         2 |  0.25      |
-| Bristol Rugby            |         2 |  0.5       |
+| Tonga                    |         2 |  1         |
 | Toulon                   |         2 |  0         |
+| La Rochelle              |         2 |  0.25      |
+| Castres Olympique        |         2 |  0.5       |
+| Lyon                     |         2 |  1         |
+| London Irish             |         2 |  0.5       |
 | Hurricanes               |         2 |  0.5       |
 | Highlanders              |         2 |  0         |
+| Bordeaux Begles          |         2 |  0.25      |
 | Harlequins               |         2 |  0.25      |
-| Castres Olympique        |         2 |  0.5       |
-| Tonga                    |         2 |  1         |
-| Stade Toulousain         |         2 |  0         |
+| Bristol Rugby            |         2 |  0.5       |
+| Crusaders                |         2 |  0         |
+| Montpellier Herault      |         1 |  1         |
 | Western Force            |         1 |  0         |
-| Atlético del Rosario     |         1 |  1         |
-| Romania                  |         1 |  1         |
-| Racing 92                |         1 |  0         |
-| Oyonnax                  |         1 |  0         |
-| Melbourne Rebels         |         1 |  1         |
-| Grenoble                 |         1 |  1         |
+| Bayonne                  |         1 |  1         |
+| Benetton Treviso         |         1 |  1         |
+| Calvisano                |         1 |  1         |
+| Cardiff Blues            |         1 |  1         |
 | Georgia                  |         1 |  1         |
 | Cheetahs                 |         1 |  1         |
-| Cardiff Blues            |         1 |  1         |
-| Calvisano                |         1 |  1         |
-| Benetton Treviso         |         1 |  1         |
-| Bayonne                  |         1 |  1         |
+| Melbourne Rebels         |         1 |  1         |
+| Grenoble                 |         1 |  1         |
+| Romania                  |         1 |  1         |
+| Racing 92                |         1 |  0         |
 | La Plata                 |         1 |  1         |
+| Oyonnax                  |         1 |  0         |
+| Atlético del Rosario     |         1 |  1         |

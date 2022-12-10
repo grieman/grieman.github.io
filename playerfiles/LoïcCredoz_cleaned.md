@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Loïc Credoz  
-date: 2022-11-22 11:38:52.372954  
+date: 2022-12-09 13:15:27.145746  
 categories: player  
 ---
 # Loïc Credoz
 
 ## Positions: FL, N8
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 36.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,19 +21,20 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            48 |    0.65625 |
+| Oyonnax |            50 |       0.67 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Aurillac                   |         5 |   0.6      |
 | Carcassonne                |         4 |   1        |
 | Grenoble                   |         4 |   0.5      |
-| Aurillac                   |         4 |   0.5      |
 | Vannes                     |         3 |   1        |
 | Nevers                     |         3 |   0.666667 |
 | Beziers                    |         3 |   1        |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.833333 |
 | US Bressane                |         2 |   1        |
+| Soyaux-Angouleme           |         2 |   1        |
 | Rouen                      |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
 | Agen                       |         2 |   1        |
@@ -43,5 +44,4 @@ categories: player
 | Bayonne                    |         2 |   0.5      |
 | Montauban                  |         2 |   0        |
 | Massy                      |         1 |   1        |
-| Soyaux-Angouleme           |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |

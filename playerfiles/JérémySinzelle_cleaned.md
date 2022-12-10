@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jérémy Sinzelle  
-date: 2022-11-16 11:38:38.067270  
+date: 2022-12-09 13:07:24.655389  
 categories: player  
 ---
 # Jérémy Sinzelle
 
 ## Positions: W, C
 
-## Current elo: 77.0
+## Current elo: 78.0
 
-## Current Percentile: 7.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -23,22 +23,22 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | La Rochelle          |           111 |   0.585586 |
 | Stade Francais Paris |           105 |   0.514286 |
-| Toulon               |            25 |   0.48     |
+| Toulon               |            27 |   0.481481 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |        18 |   0.222222 |
 | Montpellier Herault  |        17 |   0.411765 |
+| Racing 92            |        17 |   0.588235 |
 | Clermont Auvergne    |        17 |   0.441176 |
-| Racing 92            |        16 |   0.625    |
 | Castres Olympique    |        15 |   0.466667 |
 | Bordeaux Begles      |        15 |   0.6      |
 | Toulon               |        14 |   0.428571 |
 | Brive                |        13 |   0.769231 |
 | Pau                  |        12 |   0.833333 |
 | Grenoble             |        11 |   0.545455 |
+| Stade Francais Paris |         9 |   0.555556 |
 | Bayonne              |         8 |   0.625    |
-| Stade Francais Paris |         8 |   0.5      |
 | Perpignan            |         7 |   0.571429 |
 | Lyon                 |         7 |   0.714286 |
 | La Rochelle          |         6 |   0.583333 |

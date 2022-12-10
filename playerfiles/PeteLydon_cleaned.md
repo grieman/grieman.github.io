@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pete Lydon  
-date: 2022-11-22 11:46:58.661610  
+date: 2022-12-09 13:22:42.617875  
 categories: player  
 ---
 # Pete Lydon
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Rouen               |            58 |   0.448276 |
+| Rouen               |            59 |   0.457627 |
 | Ealing Trailfinders |            31 |   0.790323 |
 | London Scottish     |            20 |   0.35     |
 | Bedford             |             3 |   0.666667 |
@@ -39,31 +39,31 @@ categories: player
 | Nottingham                 |         5 |   0.2      |
 | Grenoble                   |         5 |   0.4      |
 | Yorkshire Carnegie         |         5 |   0.7      |
-| Richmond                   |         4 |   0.5      |
-| Aurillac                   |         4 |   0.5      |
-| Doncaster                  |         4 |   0.5      |
 | Bedford                    |         4 |   0.75     |
-| Hartpury College           |         4 |   1        |
+| Aurillac                   |         4 |   0.5      |
+| Richmond                   |         4 |   0.5      |
+| Doncaster                  |         4 |   0.5      |
 | Colomiers                  |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.25     |
-| Provence Rugby             |         3 |   0.833333 |
-| Soyaux-Angouleme           |         3 |   1        |
+| Hartpury College           |         4 |   1        |
 | Nevers                     |         3 |   0.333333 |
+| Soyaux-Angouleme           |         3 |   1        |
 | Agen                       |         3 |   0.333333 |
-| London Irish               |         3 |   0        |
+| Provence Rugby             |         3 |   0.833333 |
 | Beziers                    |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.333333 |
+| London Irish               |         3 |   0        |
 | Rotherham Titans           |         2 |   1        |
 | US Bressane                |         2 |   0.25     |
-| Narbonne                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
-| Oyonnax                    |         2 |   1        |
-| Coventry                   |         2 |   1        |
 | Bayonne                    |         2 |   0        |
+| Montauban                  |         2 |   0.5      |
+| Oyonnax                    |         2 |   1        |
+| Narbonne                   |         2 |   0.5      |
 | London Welsh               |         2 |   0        |
-| Canada                     |         1 |   0        |
+| Coventry                   |         2 |   1        |
 | Perpignan                  |         1 |   1        |
 | Massy                      |         1 |   1        |
 | Ealing Trailfinders        |         1 |   1        |
 | Bristol Rugby              |         1 |   0        |
-| Montauban                  |         1 |   0        |
+| Canada                     |         1 |   0        |

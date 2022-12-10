@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Madosh Tambwe  
-date: 2022-11-16 11:28:09.412371  
+date: 2022-12-09 13:23:30.153698  
 categories: player  
 ---
 # Madosh Tambwe
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Bulls           |            20 |   0.65     |
 | Golden Lions    |            13 |   0.538462 |
 | Lions           |            12 |   0.833333 |
+| Bordeaux Begles |             8 |   0.4375   |
 | Blue Bulls      |             7 |   0.857143 |
-| Bordeaux Begles |             6 |   0.416667 |
 | Sharks          |             6 |   0.833333 |
 | Natal Sharks    |             1 |   1        |
 
@@ -36,13 +36,14 @@ categories: player
 | Natal Sharks             |         4 |   0.25     |
 | Sharks                   |         4 |   0.5      |
 | Free State Cheetahs      |         3 |   1        |
-| Griquas                  |         3 |   1        |
 | Queensland Reds          |         3 |   0.666667 |
+| Griquas                  |         3 |   1        |
 | Western Province         |         2 |   0.5      |
 | Blue Bulls               |         2 |   0        |
 | Lions                    |         2 |   1        |
 | Leinster                 |         2 |   0.5      |
 | Jaguares                 |         2 |   1        |
+| Perpignan                |         1 |   0        |
 | Ospreys                  |         1 |   1        |
 | Pau                      |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
@@ -67,4 +68,5 @@ categories: player
 | Cardiff Blues            |         1 |   1        |
 | Bulls                    |         1 |   1        |
 | Brumbies                 |         1 |   1        |
+| Brive                    |         1 |   1        |
 | Zebre                    |         1 |   1        |

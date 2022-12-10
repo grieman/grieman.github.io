@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Green  
-date: 2022-11-16 11:42:01.577798  
+date: 2022-12-09 13:13:45.731966  
 categories: player  
 ---
 # Max Green
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bath Rugby         |            37 |   0.432432 |
+| Bath Rugby         |            38 |   0.421053 |
 | Jersey             |             7 |   0.571429 |
 | Yorkshire Carnegie |             6 |   0.666667 |
 | Bristol Rugby      |             2 |   0        |
@@ -33,8 +33,8 @@ categories: player
 | London Irish        |         4 |   0.5      |
 | Saracens            |         4 |   0        |
 | Newcastle Falcons   |         4 |   0.75     |
+| Harlequins          |         4 |   0.25     |
 | Gloucester Rugby    |         3 |   0.5      |
-| Harlequins          |         3 |   0.333333 |
 | Worcester Warriors  |         3 |   0.333333 |
 | Exeter Chiefs       |         2 |   0        |
 | Ealing Trailfinders |         2 |   0.5      |

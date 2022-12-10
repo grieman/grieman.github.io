@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guillaume Ducat  
-date: 2022-11-16 11:40:27.768846  
+date: 2022-12-09 13:13:36.514963  
 categories: player  
 ---
 # Guillaume Ducat
 
 ## Positions: L
 
-## Current elo: 78.0
+## Current elo: 82.0
 
-## Current Percentile: 5.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -22,27 +22,27 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Bayonne |            61 |   0.385246 |
-| Pau     |            11 |   0.454545 |
+| Pau     |            13 |   0.461538 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |         6 |   0.666667 |
 | Toulon               |         5 |   0.4      |
 | Montpellier Herault  |         5 |   0.2      |
+| Castres Olympique    |         5 |   0        |
 | Bordeaux Begles      |         4 |   0.25     |
-| Castres Olympique    |         4 |   0        |
+| Brive                |         4 |   0.625    |
 | La Rochelle          |         3 |   0        |
 | Stade Francais Paris |         3 |   0.333333 |
 | Montauban            |         3 |   0.666667 |
 | Lyon                 |         3 |   0.333333 |
 | Perpignan            |         3 |   0.666667 |
-| Brive                |         3 |   0.5      |
 | Beziers              |         3 |   0.333333 |
-| Gloucester Rugby     |         2 |   0        |
 | Provence Rugby       |         2 |   0.5      |
+| Gloucester Rugby     |         2 |   0        |
 | US Bressane          |         2 |   1        |
-| Clermont Auvergne    |         2 |   0.5      |
 | Benetton Treviso     |         2 |   0        |
+| Clermont Auvergne    |         2 |   0.5      |
 | Carcassonne          |         2 |   0.5      |
 | Nevers               |         2 |   1        |
 | Racing 92            |         2 |   0        |

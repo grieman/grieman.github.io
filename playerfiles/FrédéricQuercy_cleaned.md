@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Frédéric Quercy  
-date: 2022-11-22 11:42:23.116748  
+date: 2022-12-09 13:09:19.557191  
 categories: player  
 ---
 # Frédéric Quercy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 84.0
+## Current elo: 81.0
 
 ## Current Percentile: 8.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Nevers              |            38 |   0.434211 |
-| Montauban           |            31 |   0.419355 |
+| Montauban           |            33 |   0.409091 |
 | Albi                |            24 |   0.479167 |
 | Spain               |            11 |   0.454545 |
 | Montpellier Herault |             1 |   0        |
@@ -33,9 +33,9 @@ categories: player
 |:-------------------|----------:|-----------:|
 | Colomiers          |         9 |   0.666667 |
 | Beziers            |         8 |   0.1875   |
+| Vannes             |         7 |   0.357143 |
 | Bayonne            |         7 |   0.428571 |
 | Biarritz Olympique |         7 |   0.428571 |
-| Vannes             |         6 |   0.333333 |
 | Perpignan          |         5 |   0.6      |
 | Montauban          |         5 |   0.2      |
 | Carcassonne        |         5 |   0.4      |
@@ -48,15 +48,15 @@ categories: player
 | Nevers             |         3 |   0.666667 |
 | Romania            |         3 |   0.333333 |
 | Dax                |         2 |   0.5      |
-| Portugal           |         2 |   1        |
+| Provence Rugby     |         2 |   0        |
 | Uruguay            |         2 |   0.5      |
 | US Bressane        |         2 |   0.5      |
 | Tarbes             |         2 |   0.5      |
-| Provence Rugby     |         2 |   0        |
+| Rouen              |         2 |   0.5      |
 | Bourgoin-Jallieu   |         2 |   1        |
+| Portugal           |         2 |   1        |
 | Georgia            |         2 |   0        |
 | Oyonnax            |         2 |   0        |
-| Rouen              |         1 |   1        |
 | Russia             |         1 |   1        |
 | Brive              |         1 |   0        |
 | Canada             |         1 |   0        |

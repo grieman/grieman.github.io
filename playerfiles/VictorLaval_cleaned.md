@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Victor Laval  
-date: 2022-11-22 11:43:50.631751  
+date: 2022-12-09 13:07:00.135950  
 categories: player  
 ---
 # Victor Laval
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 82.0
 
 ## Current Percentile: 7.0
 
@@ -24,7 +24,7 @@ categories: player
 | Mont-de-Marsan |            53 |   0.556604 |
 | Carcassonne    |            14 |   0.428571 |
 | Brive          |             8 |   0.4375   |
-| Montauban      |             6 |   0.666667 |
+| Montauban      |             8 |   0.5625   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,9 +33,9 @@ categories: player
 | Colomiers                  |         6 |   0.833333 |
 | Biarritz Olympique         |         5 |   0.3      |
 | Soyaux-Angouleme           |         5 |   0.2      |
-| Rouen                      |         4 |   1        |
+| Rouen                      |         5 |   0.8      |
+| Vannes                     |         4 |   0.125    |
 | Provence Rugby             |         4 |   0.75     |
-| Vannes                     |         3 |   0        |
 | Bayonne                    |         3 |   0.333333 |
 | Carcassonne                |         3 |   1        |
 | Grenoble                   |         3 |   0.666667 |

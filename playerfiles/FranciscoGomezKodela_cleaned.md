@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francisco Gomez Kodela  
-date: 2022-11-16 11:26:00.266981  
+date: 2022-12-09 13:06:04.030278  
 categories: player  
 ---
 # Francisco Gomez Kodela
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Lyon               |           126 |   0.551587 |
+| Lyon               |           128 |   0.550781 |
 | Biarritz Olympique |            62 |   0.459677 |
 | Bordeaux Begles    |            48 |   0.541667 |
 | Argentina          |            20 |   0.5      |
@@ -38,14 +38,14 @@ categories: player
 | Montpellier Herault  |        16 |   0.5625   |
 | Bordeaux Begles      |        16 |   0.4375   |
 | Brive                |        14 |   0.678571 |
+| Stade Toulousain     |        14 |   0.571429 |
 | Castres Olympique    |        13 |   0.230769 |
-| Stade Toulousain     |        13 |   0.538462 |
 | La Rochelle          |        11 |   0.272727 |
 | Agen                 |         9 |   0.888889 |
 | Grenoble             |         9 |   0.777778 |
 | Pau                  |         9 |   0.722222 |
+| Bayonne              |         8 |   0.4375   |
 | Oyonnax              |         7 |   0.428571 |
-| Bayonne              |         7 |   0.5      |
 | Lyon                 |         6 |   0.75     |
 | Australia            |         5 |   0.5      |
 | Perpignan            |         4 |   0.5      |
@@ -54,23 +54,23 @@ categories: player
 | Ospreys              |         3 |   0.666667 |
 | Wales                |         3 |   0.5      |
 | Scotland             |         3 |   0.666667 |
-| Olivos               |         2 |   1        |
+| Connacht             |         2 |   0.5      |
+| Pucara               |         2 |   0.5      |
 | Italy                |         2 |   1        |
 | Sale Sharks          |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
 | South Africa         |         2 |   0        |
 | Alumni               |         2 |   0        |
 | London Welsh         |         2 |   1        |
-| Connacht             |         2 |   0.5      |
-| France               |         2 |   0        |
 | Exeter Chiefs        |         2 |   0.5      |
+| France               |         2 |   0        |
+| Olivos               |         2 |   1        |
 | Newman               |         2 |   1        |
-| Pucara               |         2 |   0.5      |
 | San Luis             |         1 |   1        |
-| SIC                  |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
 | San Albano           |         1 |   1        |
 | Wasps                |         1 |   1        |
+| SIC                  |         1 |   1        |
 | Lomas                |         1 |   1        |
 | Northampton Saints   |         1 |   0        |
 | New Zealand          |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: James Ramm  
-date: 2022-11-22 11:33:28.605484  
+date: 2022-12-09 13:08:56.159221  
 categories: player  
 ---
 # James Ramm
 
 ## Positions: W
 
-## Current elo: 108.0
+## Current elo: 106.0
 
 ## Current Percentile: None
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | New South Wales Waratahs |            21 |   0.285714 |
 | Sydney Rays              |             5 |   0.2      |
-| Northampton Saints       |             1 |   0        |
+| Northampton Saints       |             2 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Chiefs             |         2 |       0    |
 | Canberra Vikings   |         1 |       0    |
 | Crusaders          |         1 |       1    |
+| Gloucester Rugby   |         1 |       0    |
 | Lions              |         1 |       1    |
 | Melbourne Rising   |         1 |       0    |
 | NSW Country Eagles |         1 |       0    |

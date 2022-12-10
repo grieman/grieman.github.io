@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre-Nicolas Dance  
-date: 2022-11-22 11:28:20.235086  
+date: 2022-12-09 13:19:05.777143  
 categories: player  
 ---
 # Pierre-Nicolas Dance
 
-## Positions: FL, N8
+## Positions: FL
 
-## Current elo: 112.0
+## Current elo: 106.0
 
-## Current Percentile: 93.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            32 |   0.515625 |
+| Chambery |            34 |   0.485294 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,13 +29,13 @@ categories: player
 | Aubenas                    |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.333333 |
 | Nice                       |         3 |   0.666667 |
+| Suresnes                   |         3 |   0.666667 |
 | US Bressane                |         3 |   0        |
+| Albi                       |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Dax                        |         2 |   0.5      |
 | Massy                      |         2 |   0.25     |
-| Suresnes                   |         2 |   1        |
 | Tarbes                     |         2 |   1        |
-| Albi                       |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   0        |
 | Narbonne                   |         1 |   1        |

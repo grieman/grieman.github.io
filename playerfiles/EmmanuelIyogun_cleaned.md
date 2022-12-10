@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Emmanuel Iyogun  
-date: 2022-11-22 11:35:04.040158  
+date: 2022-12-09 13:09:51.089664  
 categories: player  
 ---
 # Emmanuel Iyogun
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 71.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            29 |   0.413793 |
+| Northampton Saints |            30 |   0.4      |
 | Bedford            |             7 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,10 +35,10 @@ categories: player
 | Newcastle Falcons   |         2 |       1    |
 | Worcester Warriors  |         2 |       1    |
 | Harlequins          |         2 |       0.5  |
+| Gloucester Rugby    |         2 |       0    |
 | Bristol Rugby       |         2 |       1    |
 | Jersey              |         1 |       0    |
 | London Irish        |         1 |       1    |
-| Gloucester Rugby    |         1 |       0    |
 | Nottingham          |         1 |       0    |
 | Richmond            |         1 |       1    |
 | Ealing Trailfinders |         1 |       0    |

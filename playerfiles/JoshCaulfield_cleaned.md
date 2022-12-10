@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Caulfield  
-date: 2022-11-22 11:32:53.782157  
+date: 2022-12-09 13:24:53.075321  
 categories: player  
 ---
 # Josh Caulfield
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 110.0
 
-## Current Percentile: 87.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -22,7 +22,6 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Cornish Pirates |            71 |   0.549296 |
-| London Irish    |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,14 +32,13 @@ categories: player
 | Ealing Trailfinders |         6 |   0.166667 |
 | Coventry            |         5 |   0.8      |
 | Hartpury College    |         5 |   0.8      |
-| London Scottish     |         4 |   0.5      |
 | Richmond            |         4 |   0.875    |
+| London Scottish     |         4 |   0.5      |
 | Ampthill            |         3 |   0.666667 |
 | Yorkshire Carnegie  |         3 |   0.333333 |
 | Bristol Rugby       |         2 |   0        |
 | London Irish        |         2 |   0        |
-| London Welsh        |         1 |   1        |
 | Newcastle Falcons   |         1 |   0        |
-| Exeter Chiefs       |         1 |   0        |
+| London Welsh        |         1 |   1        |
 | Rotherham Titans    |         1 |   1        |
 | Saracens            |         1 |   1        |

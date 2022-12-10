@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan Nemer  
-date: 2022-11-22 11:47:23.239118  
+date: 2022-12-09 13:12:54.083001  
 categories: player  
 ---
 # Ivan Nemer
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 64.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,18 +23,18 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            27 |   0.37037  |
+| Benetton Treviso |            29 |   0.37931  |
 | Italy            |            11 |   0.363636 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Zebre            |         5 |   0.6      |
+| Connacht         |         4 |   0        |
 | Scarlets         |         4 |   0.25     |
-| Connacht         |         3 |   0        |
+| Edinburgh        |         3 |   0.666667 |
 | Glasgow Warriors |         3 |   0.666667 |
 | Bulls            |         2 |   0        |
 | Cardiff Blues    |         2 |   0.5      |
-| Edinburgh        |         2 |   0.5      |
 | Romania          |         1 |   1        |
 | Uruguay          |         1 |   1        |
 | Ulster           |         1 |   0        |

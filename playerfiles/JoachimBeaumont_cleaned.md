@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joachim Beaumont  
-date: 2022-11-22 11:35:51.271592  
+date: 2022-12-09 13:22:08.582808  
 categories: player  
 ---
 # Joachim Beaumont
 
 ## Positions: FL, N8
 
-## Current elo: 91.0
+## Current elo: 89.0
 
-## Current Percentile: 44.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             8 |        0.5 |
+| Carqueiranne-Hyères |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Narbonne                   |         1 |          0 |
 | Rennes                     |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          1 |

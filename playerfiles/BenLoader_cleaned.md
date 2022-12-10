@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Loader  
-date: 2022-11-22 11:35:33.665282  
+date: 2022-12-09 13:19:20.617633  
 categories: player  
 ---
 # Ben Loader
 
 ## Positions: W
 
-## Current elo: 106.0
+## Current elo: 112.0
 
-## Current Percentile: 76.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            64 |   0.453125 |
+| London Irish |            66 |   0.454545 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,19 +29,19 @@ categories: player
 | Exeter Chiefs        |         6 |   0.5      |
 | Bath Rugby           |         5 |   0.4      |
 | Sale Sharks          |         5 |   0        |
+| Leicester Tigers     |         5 |   0.4      |
 | Northampton Saints   |         4 |   0        |
-| Leicester Tigers     |         4 |   0.5      |
 | Bristol Rugby        |         4 |   0.375    |
-| Harlequins           |         3 |   0.333333 |
+| Newcastle Falcons    |         3 |   0.666667 |
 | Worcester Warriors   |         3 |   0.333333 |
+| Harlequins           |         3 |   0.333333 |
 | Wasps                |         3 |   0.666667 |
-| Edinburgh            |         2 |   0        |
-| Doncaster            |         2 |   1        |
 | Richmond             |         2 |   1        |
-| Yorkshire Carnegie   |         2 |   0.5      |
-| Newcastle Falcons    |         2 |   0.5      |
+| Doncaster            |         2 |   1        |
+| Edinburgh            |         2 |   0        |
 | London Scottish      |         2 |   1        |
 | Krasny Yar           |         2 |   1        |
+| Yorkshire Carnegie   |         2 |   0.5      |
 | Nottingham           |         1 |   1        |
 | Bedford              |         1 |   1        |
 | Saracens             |         1 |   0        |

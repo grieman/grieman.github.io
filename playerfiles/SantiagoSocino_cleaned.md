@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Socino  
-date: 2022-11-22 11:34:23.685064  
+date: 2022-12-09 13:10:40.348774  
 categories: player  
 ---
 # Santiago Socino
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 73.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Gloucester Rugby  |            36 |   0.597222 |
+| Gloucester Rugby  |            38 |   0.592105 |
 | Newcastle Falcons |            31 |   0.322581 |
 | Argentina         |            10 |   0.35     |
 | Jaguares          |             5 |   0.6      |
@@ -36,15 +36,15 @@ categories: player
 | Saracens            |         7 |   0.285714 |
 | Bath Rugby          |         7 |   0.571429 |
 | Bristol Rugby       |         5 |   0.4      |
+| Harlequins          |         5 |   0.2      |
 | London Irish        |         5 |   0.9      |
 | New Zealand         |         4 |   0.25     |
 | Leicester Tigers    |         4 |   0.25     |
 | Sale Sharks         |         4 |   0.5      |
 | Newcastle Falcons   |         4 |   0.75     |
-| Harlequins          |         4 |   0.25     |
+| Northampton Saints  |         3 |   1        |
 | Australia           |         3 |   0.166667 |
 | Worcester Warriors  |         2 |   1        |
-| Northampton Saints  |         2 |   1        |
 | Gloucester Rugby    |         2 |   0        |
 | Bulls               |         1 |   1        |
 | Brive               |         1 |   1        |
@@ -54,11 +54,11 @@ categories: player
 | South Africa        |         1 |   0        |
 | Sharks              |         1 |   0        |
 | Jersey              |         1 |   0        |
-| Doncaster           |         1 |   0        |
+| Montpellier Herault |         1 |   0        |
+| RC Enisei           |         1 |   1        |
 | Queensland Reds     |         1 |   1        |
 | Portugal            |         1 |   1        |
 | Nottingham          |         1 |   0        |
 | Edinburgh           |         1 |   0        |
 | Georgia             |         1 |   1        |
-| Montpellier Herault |         1 |   0        |
-| RC Enisei           |         1 |   1        |
+| Doncaster           |         1 |   0        |

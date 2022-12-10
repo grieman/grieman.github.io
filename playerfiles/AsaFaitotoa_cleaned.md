@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Asa Faitotoa  
-date: 2022-11-22 11:40:24.219380  
+date: 2022-12-09 13:15:46.422997  
 categories: player  
 ---
 # Asa Faitotoa
 
 ## Positions: P
 
-## Current elo: 113.0
+## Current elo: 112.0
 
 ## Current Percentile: 92.0
 
@@ -21,39 +21,40 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Dax                |            68 |   0.448529 |
+| Dax                |            70 |   0.464286 |
 | Montauban          |             4 |   0.25     |
 | NSW Country Eagles |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         7 |  0.0714286 |
-| Dijon                      |         4 |  0.75      |
+| Tarbes                     |         5 |  0.4       |
 | Massy                      |         4 |  0         |
-| Soyaux-Angouleme           |         4 |  0.5       |
 | Bourgoin-Jallieu           |         4 |  0.5       |
 | Carcassonne                |         4 |  0         |
+| Soyaux-Angouleme           |         4 |  0.5       |
 | Chambery                   |         4 |  1         |
-| Tarbes                     |         4 |  0.25      |
+| Dijon                      |         4 |  0.75      |
 | Valence Romans Drome Rugby |         3 |  0.666667  |
+| Suresnes                   |         3 |  0.666667  |
 | Oyonnax                    |         3 |  0.333333  |
 | Montauban                  |         3 |  0.333333  |
-| Suresnes                   |         3 |  0.666667  |
+| US Bressane                |         2 |  0.5       |
 | Nice                       |         2 |  1         |
 | Narbonne                   |         2 |  0.5       |
 | Vannes                     |         2 |  0.5       |
 | Colomiers                  |         2 |  0.5       |
 | Cognac Saint Jean d'Angély |         2 |  0.5       |
-| US Bressane                |         2 |  0.5       |
 | Biarritz Olympique         |         2 |  0         |
 | Beziers                    |         2 |  0.5       |
-| Rennes                     |         1 |  1         |
-| Roval Drome XV             |         1 |  1         |
-| Agen                       |         1 |  0         |
-| Perpignan                  |         1 |  1         |
-| Nevers                     |         1 |  1         |
+| Mont-de-Marsan             |         1 |  0         |
 | Grenoble                   |         1 |  0         |
 | Greater Sydney Rams        |         1 |  1         |
+| Nevers                     |         1 |  1         |
+| Perpignan                  |         1 |  1         |
+| Rennes                     |         1 |  1         |
+| Roval Drome XV             |         1 |  1         |
+| Carqueiranne-Hyères        |         1 |  1         |
 | Blagnac                    |         1 |  1         |
 | Aubenas                    |         1 |  0         |
-| Mont-de-Marsan             |         1 |  0         |
+| Agen                       |         1 |  0         |

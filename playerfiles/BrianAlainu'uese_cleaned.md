@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brian Alainu'uese  
-date: 2022-11-22 11:26:35.190971  
+date: 2022-12-09 13:04:53.126999  
 categories: player  
 ---
 # Brian Alainu'uese
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 54.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Toulon           |            86 |   0.55814  |
+| Toulon           |            88 |   0.556818 |
 | Glasgow Warriors |            22 |   0.636364 |
 | Waikato          |            14 |   0.607143 |
 | Chiefs           |             2 |   0.5      |
@@ -32,15 +32,15 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |         9 |   0.222222 |
+| Racing 92            |         8 |   0.5      |
 | Stade Toulousain     |         7 |   0.357143 |
-| Racing 92            |         7 |   0.571429 |
+| Stade Francais Paris |         7 |   0.714286 |
 | Pau                  |         6 |   0.916667 |
 | Bayonne              |         6 |   0.666667 |
 | Montpellier Herault  |         6 |   0.333333 |
 | Bordeaux Begles      |         6 |   0.5      |
 | Lyon                 |         6 |   0.5      |
 | Brive                |         6 |   0.5      |
-| Stade Francais Paris |         6 |   0.666667 |
 | Clermont Auvergne    |         5 |   1        |
 | Perpignan            |         5 |   0.6      |
 | Scarlets             |         4 |   0.5      |

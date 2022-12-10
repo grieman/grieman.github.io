@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Martinez  
-date: 2022-11-22 11:43:43.075974  
+date: 2022-12-09 13:12:39.033233  
 categories: player  
 ---
 # Clement Martinez
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Agen               |            61 |   0.204918 |
+| Agen               |            62 |   0.217742 |
 | Biarritz Olympique |            21 |   0.595238 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -40,10 +40,10 @@ categories: player
 | Provence Rugby       |         3 |   0.666667 |
 | Oyonnax              |         3 |   0.333333 |
 | Aurillac             |         3 |   1        |
+| Massy                |         3 |   0.666667 |
 | Grenoble             |         3 |   0.333333 |
 | Colomiers            |         3 |   0.333333 |
 | Castres Olympique    |         3 |   0        |
-| Massy                |         2 |   0.5      |
 | Beziers              |         2 |   0.5      |
 | Montpellier Herault  |         2 |   0        |
 | Narbonne             |         2 |   0.5      |

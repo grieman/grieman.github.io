@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Furbank  
-date: 2022-11-22 11:26:42.133862  
+date: 2022-12-09 13:05:42.439962  
 categories: player  
 ---
 # George Furbank
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 114.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            72 |   0.555556 |
+| Northampton Saints |            73 |   0.547945 |
 | England            |             6 |   0.666667 |
 | Nottingham         |             2 |   0.5      |
 
@@ -35,9 +35,9 @@ categories: player
 | Bath Rugby          |         6 |   0.5      |
 | Wasps               |         6 |   0.666667 |
 | Leicester Tigers    |         6 |   0.5      |
+| Gloucester Rugby    |         6 |   0.5      |
 | Saracens            |         5 |   0.2      |
 | London Irish        |         5 |   1        |
-| Gloucester Rugby    |         5 |   0.6      |
 | Bristol Rugby       |         4 |   0.5      |
 | Newcastle Falcons   |         4 |   0.75     |
 | Worcester Warriors  |         3 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gillian Benoy  
-date: 2022-11-22 11:43:19.944756  
+date: 2022-12-09 13:06:24.151305  
 categories: player  
 ---
 # Gillian Benoy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 92.0
+## Current elo: 95.0
 
-## Current Percentile: 28.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,30 +23,30 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |            19 |   0.289474 |
+| Beziers  |            21 |   0.309524 |
 | Belgium  |            15 |   0.333333 |
 | Suresnes |            14 |   0.285714 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Portugal                   |         3 |   0.333333 |
 | US Bressane                |         3 |   0        |
 | Spain                      |         3 |   0.333333 |
-| Portugal                   |         3 |   0.333333 |
+| Rouen                      |         3 |   0.666667 |
 | Vannes                     |         2 |   0        |
-| Narbonne                   |         2 |   1        |
 | Aubenas                    |         2 |   0.5      |
 | Oyonnax                    |         2 |   0.25     |
 | Grenoble                   |         2 |   0.5      |
 | Germany                    |         2 |   1        |
 | Romania                    |         2 |   0        |
+| Narbonne                   |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   0        |
-| Rouen                      |         2 |   0.5      |
 | Carcassonne                |         2 |   0        |
 | Russia                     |         2 |   0.5      |
+| Nevers                     |         2 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Tarbes                     |         1 |   0        |
 | Nice                       |         1 |   0        |
-| Nevers                     |         1 |   0        |
 | Agen                       |         1 |   1        |
 | Montauban                  |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |

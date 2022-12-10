@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mathieu Brignonen  
-date: 2022-11-22 11:34:50.538296  
+date: 2022-12-09 13:13:01.171812  
 categories: player  
 ---
 # Mathieu Brignonen
 
 ## Positions: FB, W
 
-## Current elo: 90.0
+## Current elo: 87.0
 
 ## Current Percentile: 20.0
 
@@ -21,13 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             7 |   0.142857 |
+| Rennes |             9 |   0.111111 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
+| Narbonne                   |         1 |          0 |
+| Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |

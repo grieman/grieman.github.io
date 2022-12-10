@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Maynadier  
-date: 2022-11-16 11:39:11.827140  
+date: 2022-12-09 13:11:06.815524  
 categories: player  
 ---
 # Clement Maynadier
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           173 |   0.546243 |
+| Bordeaux Begles |           175 |   0.545714 |
 | Albi            |            62 |   0.467742 |
 | France          |             8 |   0.125    |
 
@@ -38,10 +38,10 @@ categories: player
 | Lyon                 |        13 |   0.769231 |
 | La Rochelle          |        13 |   0.615385 |
 | Toulon               |        12 |   0.333333 |
-| Brive                |        10 |   0.5      |
+| Brive                |        11 |   0.545455 |
 | Pau                  |         9 |   0.333333 |
 | Oyonnax              |         8 |   0.625    |
-| Perpignan            |         7 |   0.785714 |
+| Perpignan            |         8 |   0.6875   |
 | Grenoble             |         7 |   0.714286 |
 | Agen                 |         6 |   1        |
 | Dax                  |         5 |   0.4      |

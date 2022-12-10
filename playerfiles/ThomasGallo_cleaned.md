@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Gallo  
-date: 2022-11-22 11:42:19.603830  
+date: 2022-12-09 13:15:59.521346  
 categories: player  
 ---
 # Thomas Gallo
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 83.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            25 |   0.18     |
+| Benetton Treviso |            26 |   0.173077 |
 | Buenos Aires     |            21 |   0.380952 |
 | Argentina        |            13 |   0.384615 |
 
@@ -32,6 +32,7 @@ categories: player
 | Zebre                |         4 |   0.5      |
 | Australia            |         3 |   0.333333 |
 | Cardiff Blues        |         3 |   0.333333 |
+| Connacht             |         3 |   0        |
 | Dragons              |         3 |   0.5      |
 | Glasgow Warriors     |         3 |   0        |
 | Atlético del Rosario |         2 |   0.5      |
@@ -46,9 +47,8 @@ categories: player
 | Alumni               |         2 |   0.5      |
 | CUBA                 |         2 |   0        |
 | CASI                 |         2 |   1        |
-| Edinburgh            |         2 |   0        |
-| Connacht             |         2 |   0        |
 | Hindu                |         2 |   0        |
+| Edinburgh            |         2 |   0        |
 | Wales                |         1 |   0        |
 | South Africa         |         1 |   0        |
 | Sharks               |         1 |   0        |
@@ -56,9 +56,9 @@ categories: player
 | Bulls                |         1 |   0        |
 | Ireland              |         1 |   0        |
 | SIC                  |         1 |   0        |
+| Lions                |         1 |   0        |
 | Ospreys              |         1 |   0        |
 | England              |         1 |   1        |
 | France               |         1 |   0        |
 | Los Tilos            |         1 |   1        |
-| Lions                |         1 |   0        |
 | Italy                |         1 |   1        |

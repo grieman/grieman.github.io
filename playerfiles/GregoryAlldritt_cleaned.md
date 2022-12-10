@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gregory Alldritt  
-date: 2022-11-22 11:44:05.586359  
+date: 2022-12-09 13:14:26.131832  
 categories: player  
 ---
 # Gregory Alldritt
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 120.0
+## Current elo: 118.0
 
-## Current Percentile: 94.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            75 |   0.6      |
+| La Rochelle |            76 |   0.592105 |
 | France      |            33 |   0.757576 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,11 +38,11 @@ categories: player
 | Clermont Auvergne        |         5 |   0.2      |
 | Montpellier Herault      |         4 |   0.25     |
 | Bordeaux Begles          |         4 |   0.75     |
+| Stade Francais Paris     |         4 |   0.5      |
 | England                  |         4 |   0.5      |
 | Ireland                  |         4 |   0.75     |
 | Italy                    |         4 |   1        |
 | Pau                      |         4 |   0.75     |
-| Stade Francais Paris     |         3 |   0.666667 |
 | Sale Sharks              |         3 |   0.666667 |
 | Agen                     |         3 |   1        |
 | Brive                    |         3 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: AJ Coertzen  
-date: 2022-11-22 11:37:17.061672  
+date: 2022-12-09 13:07:33.085898  
 categories: player  
 ---
 # AJ Coertzen
 
 ## Positions: W, FB
 
-## Current elo: 85.0
+## Current elo: 83.0
 
 ## Current Percentile: 14.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Aurillac            |            79 |   0.537975 |
+| Aurillac            |            80 |   0.54375  |
 | Griquas             |            26 |   0.346154 |
 | Free State Cheetahs |             8 |   0.25     |
 | Cheetahs            |             6 |   0.666667 |
@@ -29,11 +29,11 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         9 |   0.444444 |
+| Colomiers                  |         6 |   0.666667 |
 | Provence Rugby             |         6 |   0.833333 |
 | Montauban                  |         6 |   0.333333 |
 | Golden Lions               |         6 |   0.166667 |
 | Mont-de-Marsan             |         5 |   0.2      |
-| Colomiers                  |         5 |   0.6      |
 | Vannes                     |         5 |   0.4      |
 | Rouen                      |         5 |   0.6      |
 | Pumas                      |         5 |   0.3      |

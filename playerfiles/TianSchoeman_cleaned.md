@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tian Schoeman  
-date: 2022-11-16 11:39:31.857178  
+date: 2022-12-09 13:19:10.554786  
 categories: player  
 ---
 # Tian Schoeman
 
 ## Positions: FH
 
-## Current elo: 97.0
+## Current elo: 102.0
 
-## Current Percentile: 58.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Cheetahs            |            30 |   0.383333 |
 | Blue Bulls          |            22 |   0.681818 |
 | Bordeaux Begles     |            17 |   0.352941 |
-| Newcastle Falcons   |             8 |   0.25     |
+| Newcastle Falcons   |             9 |   0.222222 |
 | Bath Rugby          |             6 |   0.666667 |
 | Free State Cheetahs |             6 |   0.5      |
 
@@ -59,27 +59,27 @@ categories: player
 | Melbourne Rebels         |         2 |   0.5      |
 | Queensland Reds          |         2 |   1        |
 | Agen                     |         2 |   1        |
-| Eastern Province Kings   |         2 |   1        |
 | Blue Bulls               |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0.5      |
+| Crusaders                |         2 |   0.5      |
 | Harlequins               |         2 |   0        |
 | Gloucester Rugby         |         2 |   1        |
 | Glasgow Warriors         |         2 |   0        |
-| Crusaders                |         2 |   0.5      |
+| Eastern Province Kings   |         2 |   1        |
 | Hurricanes               |         1 |   0        |
+| Stade Toulousain         |         1 |   0        |
+| Castres Olympique        |         1 |   0        |
 | Brumbies                 |         1 |   0        |
 | Stade Francais Paris     |         1 |   1        |
-| Stade Toulousain         |         1 |   0        |
-| Boland Cavaliers         |         1 |   1        |
-| Brive                    |         1 |   0        |
 | Bristol Rugby            |         1 |   1        |
-| Chiefs                   |         1 |   0        |
+| Brive                    |         1 |   0        |
+| Saracens                 |         1 |   0        |
+| Boland Cavaliers         |         1 |   1        |
 | Blues                    |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
 | Worcester Warriors       |         1 |   0        |
-| Castres Olympique        |         1 |   0        |
+| Chiefs                   |         1 |   0        |
 | RC Enisei                |         1 |   1        |
-| Saracens                 |         1 |   0        |
 | Sale Sharks              |         1 |   1        |
 | Racing 92                |         1 |   0        |
 | La Rochelle              |         1 |   0        |
@@ -88,7 +88,8 @@ categories: player
 | Exeter Chiefs            |         1 |   0        |
 | New South Wales Waratahs |         1 |   0        |
 | Lyon                     |         1 |   0        |
+| London Irish             |         1 |   0        |
 | Highlanders              |         1 |   0        |
-| Leinster                 |         1 |   0        |
 | Bath Rugby               |         1 |   0        |
 | Leicester Tigers         |         1 |   0        |
+| Leinster                 |         1 |   0        |

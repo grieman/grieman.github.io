@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dany Priso  
-date: 2022-11-22 11:40:38.822349  
+date: 2022-12-09 13:23:56.428632  
 categories: player  
 ---
 # Dany Priso
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 101.0
+## Current elo: 99.0
 
 ## Current Percentile: 77.0
 
@@ -25,21 +25,21 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | La Rochelle          |           120 |   0.579167 |
 | France               |            18 |   0.5      |
-| Toulon               |             8 |   0.625    |
+| Toulon               |            10 |   0.6      |
 | Stade Francais Paris |             6 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |        15 |   0.2      |
+| Racing 92            |        12 |   0.458333 |
 | Toulon               |        11 |   0.681818 |
-| Racing 92            |        11 |   0.5      |
 | Castres Olympique    |         9 |   0.555556 |
 | Pau                  |         9 |   1        |
 | Bordeaux Begles      |         8 |   0.625    |
 | Clermont Auvergne    |         8 |   0.5      |
 | Montpellier Herault  |         8 |   0.375    |
+| Stade Francais Paris |         6 |   0.5      |
 | Lyon                 |         5 |   0.6      |
-| Stade Francais Paris |         5 |   0.4      |
 | Brive                |         5 |   1        |
 | Bayonne              |         4 |   0.75     |
 | New Zealand          |         4 |   0        |

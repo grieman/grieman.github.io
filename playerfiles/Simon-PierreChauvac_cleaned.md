@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon-Pierre Chauvac  
-date: 2022-11-16 11:43:03.261717  
+date: 2022-12-09 13:14:43.833006  
 categories: player  
 ---
 # Simon-Pierre Chauvac
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -22,24 +22,24 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Brive               |            53 |   0.462264 |
-| Montpellier Herault |             8 |   0.5      |
+| Montpellier Herault |            10 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Pau                  |         6 |   0.666667 |
 | Racing 92            |         5 |   0.2      |
+| Clermont Auvergne    |         5 |   0.4      |
 | Toulon               |         4 |   0.5      |
 | Montpellier Herault  |         4 |   0.375    |
 | Stade Toulousain     |         4 |   0.25     |
 | Bordeaux Begles      |         4 |   0.5      |
 | Castres Olympique    |         4 |   0.25     |
-| Clermont Auvergne    |         4 |   0.5      |
 | Lyon                 |         4 |   0.5      |
 | Stade Francais Paris |         3 |   0.666667 |
 | La Rochelle          |         3 |   0.333333 |
+| Bayonne              |         3 |   1        |
 | Perpignan            |         2 |   0.5      |
 | Agen                 |         2 |   0.5      |
-| Bayonne              |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
 | Montauban            |         1 |   0        |
 | Mont-de-Marsan       |         1 |   1        |

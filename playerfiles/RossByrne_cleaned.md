@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ross Byrne  
-date: 2022-11-22 11:32:15.301547  
+date: 2022-12-09 13:11:26.100650  
 categories: player  
 ---
 # Ross Byrne
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 72.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           122 |   0.803279 |
+| Leinster |           124 |   0.806452 |
 | Ireland  |            11 |   0.636364 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ulster              |        14 |   0.714286 |
+| Ulster              |        15 |   0.733333 |
 | Munster             |        12 |   0.916667 |
+| Glasgow Warriors    |        11 |   0.818182 |
 | Benetton Treviso    |        10 |   0.9      |
-| Glasgow Warriors    |        10 |   0.8      |
 | Connacht            |         9 |   0.888889 |
 | Scarlets            |         9 |   0.5      |
 | Dragons             |         9 |   1        |

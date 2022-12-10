@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Meret  
-date: 2022-11-22 11:38:36.577376  
+date: 2022-12-09 13:10:28.456709  
 categories: player  
 ---
 # Lucas Meret
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 39.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Soyaux-Angouleme           |            21 |  0.5       |
 | Bordeaux Begles            |            19 |  0.5       |
 | Carcassonne                |            10 |  0.4       |
-| Valence Romans Drome Rugby |             9 |  0.833333  |
+| Valence Romans Drome Rugby |            10 |  0.75      |
 | Narbonne                   |             6 |  0.0833333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -58,21 +58,22 @@ categories: player
 | Gloucester Rugby           |         2 |   0        |
 | Wasps                      |         2 |   1        |
 | Connacht                   |         2 |   0        |
-| Soyaux-Angouleme           |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
+| Stade Francais Paris       |         1 |   0        |
 | Albi                       |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
+| US Bressane                |         1 |   0        |
 | Toulon                     |         1 |   1        |
 | Tarbes                     |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Bayonne                    |         1 |   1        |
-| Stade Francais Paris       |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   1        |
+| Soyaux-Angouleme           |         1 |   1        |
 | Nice                       |         1 |   1        |
 | Rouen                      |         1 |   1        |
-| Rennes                     |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
+| Racing 92                  |         1 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Blagnac                    |         1 |   1        |
 | Bordeaux Begles            |         1 |   1        |
 | Brive                      |         1 |   1        |
-| Racing 92                  |         1 |   0        |
+| Rennes                     |         1 |   1        |

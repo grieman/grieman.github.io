@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro Ceccarelli  
-date: 2022-11-22 11:42:10.993100  
+date: 2022-12-09 13:22:11.083808  
 categories: player  
 ---
 # Pietro Ceccarelli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 43.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Zebre     |            45 |   0.177778 |
-| Brive     |            34 |   0.308824 |
+| Brive     |            36 |   0.291667 |
 | Edinburgh |            23 |   0.586957 |
 | Oyonnax   |            23 |   0.217391 |
 | Italy     |            17 |   0.176471 |
@@ -32,10 +32,10 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |         7 |   0.357143 |
+| Bordeaux Begles      |         7 |   0.214286 |
 | Cardiff Blues        |         7 |   0.428571 |
 | Lyon                 |         6 |   0.333333 |
 | Scarlets             |         6 |   0.5      |
-| Bordeaux Begles      |         6 |   0.25     |
 | Castres Olympique    |         6 |   0.166667 |
 | Dragons              |         6 |   0.5      |
 | Stade Toulousain     |         5 |   0        |
@@ -54,6 +54,7 @@ categories: player
 | England              |         3 |   0        |
 | Clermont Auvergne    |         3 |   0.166667 |
 | Wasps                |         3 |   0.333333 |
+| Pau                  |         3 |   0.333333 |
 | Toulon               |         3 |   0.333333 |
 | Southern Kings       |         2 |   0.5      |
 | Worcester Warriors   |         2 |   1        |
@@ -64,7 +65,6 @@ categories: player
 | Zebre                |         2 |   0.5      |
 | Scotland             |         2 |   0        |
 | Gloucester Rugby     |         2 |   0        |
-| Pau                  |         2 |   0.5      |
 | Ospreys              |         2 |   0        |
 | New Zealand          |         2 |   0        |
 | South Africa         |         1 |   0        |

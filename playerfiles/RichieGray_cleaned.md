@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richie Gray  
-date: 2022-11-22 11:41:01.157909  
+date: 2022-12-09 13:15:24.157244  
 categories: player  
 ---
 # Richie Gray
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 92.0
+## Current elo: 94.0
 
-## Current Percentile: 26.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Glasgow Warriors  |            80 |   0.4625   |
+| Glasgow Warriors  |            81 |   0.469136 |
 | Scotland          |            64 |   0.4375   |
 | Castres Olympique |            54 |   0.398148 |
 | Stade Toulousain  |            49 |   0.653061 |
@@ -68,19 +68,19 @@ categories: player
 | Brive                    |         3 |  0.666667  |
 | Northampton Saints       |         3 |  0.333333  |
 | Bayonne                  |         3 |  1         |
+| Zebre                    |         3 |  1         |
 | Sharks                   |         2 |  0.5       |
 | Perpignan                |         2 |  0.5       |
 | Saracens                 |         2 |  0         |
 | Tonga                    |         2 |  0.5       |
 | Agen                     |         2 |  1         |
-| Leicester Tigers         |         2 |  0         |
 | Oyonnax                  |         2 |  1         |
 | Bulls                    |         2 |  0.5       |
 | Argentina                |         2 |  0.5       |
 | Australia                |         2 |  0         |
 | Bath Rugby               |         2 |  0.5       |
 | Biarritz Olympique       |         2 |  0.25      |
-| Zebre                    |         2 |  1         |
+| Leicester Tigers         |         2 |  0         |
 | Fiji                     |         2 |  1         |
 | Georgia                  |         2 |  1         |
 | London Welsh             |         2 |  0.5       |

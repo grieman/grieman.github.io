@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Gigashvili  
-date: 2022-11-16 11:25:35.117310  
+date: 2022-12-09 13:19:44.997155  
 categories: player  
 ---
 # Beka Gigashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 86.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Toulon   |            57 |   0.605263 |
+| Toulon   |            59 |   0.601695 |
 | Georgia  |            21 |   0.666667 |
 | Grenoble |            21 |   0.357143 |
 
@@ -34,16 +34,16 @@ categories: player
 | Castres Olympique    |         6 |   0.333333 |
 | Bordeaux Begles      |         5 |   0.6      |
 | Clermont Auvergne    |         5 |   0.7      |
-| Stade Francais Paris |         4 |   0.5      |
+| Stade Francais Paris |         5 |   0.6      |
 | Brive                |         4 |   0.75     |
 | Bayonne              |         4 |   0.75     |
 | Montpellier Herault  |         4 |   0.375    |
 | Romania              |         4 |   1        |
+| Racing 92            |         4 |   0.25     |
 | Perpignan            |         4 |   0.25     |
 | Pau                  |         4 |   0.875    |
 | Scarlets             |         3 |   1        |
 | Russia               |         3 |   1        |
-| Racing 92            |         3 |   0.333333 |
 | La Rochelle          |         3 |   0        |
 | Agen                 |         3 |   0.5      |
 | Spain                |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyril Blanchard  
-date: 2022-11-22 11:32:17.906583  
+date: 2022-12-09 13:04:03.057082  
 categories: player  
 ---
 # Cyril Blanchard

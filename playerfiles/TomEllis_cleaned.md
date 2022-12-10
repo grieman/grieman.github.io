@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Ellis  
-date: 2022-11-16 11:33:32.701178  
+date: 2022-12-09 13:11:34.645201  
 categories: player  
 ---
 # Tom Ellis
 
 ## Positions: FL, L
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 29.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |           114 |   0.464912 |
+| Bath Rugby |           115 |    0.46087 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Exeter Chiefs        |        12 |   0.166667 |
 | Gloucester Rugby     |        12 |   0.5      |
 | Leicester Tigers     |        11 |   0.545455 |
-| Harlequins           |         9 |   0.666667 |
+| Harlequins           |        10 |   0.6      |
 | Worcester Warriors   |         8 |   0.75     |
 | Northampton Saints   |         8 |   0.75     |
 | Wasps                |         7 |   0.5      |

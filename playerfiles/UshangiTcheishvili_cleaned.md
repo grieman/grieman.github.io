@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ushangi Tcheishvili  
-date: 2022-11-22 11:42:55.645876  
+date: 2022-12-09 13:22:54.960700  
 categories: player  
 ---
 # Ushangi Tcheishvili
 
 ## Positions: P
 
-## Current elo: 66.0
+## Current elo: 67.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Montpellier Herault |            14 |   0.285714 |
 | Biarritz Olympique  |            12 |   0.291667 |
-| Massy               |             3 |   0        |
+| Massy               |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Racing 92                  |         3 |   0.333333 |
+| Agen                       |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0        |
 | Perpignan                  |         2 |   0        |
 | La Rochelle                |         2 |   0        |
-| Agen                       |         1 |   1        |
 | Mont-de-Marsan             |         1 |   0.5      |
 | Valence Romans Drome Rugby |         1 |   0        |
 | Toulon                     |         1 |   0        |

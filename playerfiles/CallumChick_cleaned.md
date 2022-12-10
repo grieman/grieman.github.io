@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Chick  
-date: 2022-11-22 11:44:45.403592  
+date: 2022-12-09 13:05:02.988201  
 categories: player  
 ---
 # Callum Chick
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Newcastle Falcons   |            98 |   0.443878 |
-| Ealing Trailfinders |             6 |   1        |
-| England             |             2 |   1        |
+| Newcastle Falcons   |           100 |      0.445 |
+| Ealing Trailfinders |             6 |      1     |
+| England             |             2 |      1     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,13 +36,13 @@ categories: player
 | Bristol Rugby            |         7 |   0.428571 |
 | Wasps                    |         7 |   0.428571 |
 | Northampton Saints       |         6 |   0.333333 |
+| Exeter Chiefs            |         6 |   0.333333 |
 | Leicester Tigers         |         5 |   0        |
 | Sale Sharks              |         5 |   0.6      |
-| Exeter Chiefs            |         5 |   0.2      |
+| London Irish             |         4 |   0.25     |
 | Bath Rugby               |         4 |   0.25     |
 | Bedford                  |         3 |   1        |
 | Brive                    |         3 |   0.666667 |
-| London Irish             |         3 |   0.333333 |
 | Hartpury College         |         3 |   1        |
 | Ampthill                 |         2 |   1        |
 | RC Enisei                |         2 |   0.5      |

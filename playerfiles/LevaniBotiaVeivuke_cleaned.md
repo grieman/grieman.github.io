@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Levani Botia Veivuke  
-date: 2022-11-16 11:25:41.024655  
+date: 2022-12-09 13:20:23.626335  
 categories: player  
 ---
 # Levani Botia Veivuke
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 129.0
+## Current elo: 95.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           149 |   0.577181 |
+| La Rochelle |           150 |   0.573333 |
 | Fiji        |            16 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -34,8 +34,8 @@ categories: player
 | Pau                  |        10 |   0.7      |
 | Montpellier Herault  |         9 |   0.611111 |
 | Bayonne              |         9 |   0.722222 |
+| Stade Francais Paris |         9 |   0.444444 |
 | Lyon                 |         8 |   0.5625   |
-| Stade Francais Paris |         8 |   0.5      |
 | Castres Olympique    |         8 |   0.625    |
 | Clermont Auvergne    |         8 |   0.375    |
 | Racing 92            |         7 |   0.357143 |

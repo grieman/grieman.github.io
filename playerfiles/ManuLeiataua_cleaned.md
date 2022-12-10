@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Leiataua  
-date: 2022-11-16 11:20:47.954522  
+date: 2022-12-09 13:16:14.450623  
 categories: player  
 ---
 # Manu Leiataua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 91.0
+## Current elo: 89.0
 
-## Current Percentile: 27.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Bayonne       |            35 |   0.3      |
-| Oyonnax       |            33 |   0.727273 |
+| Oyonnax       |            34 |   0.735294 |
 | Aurillac      |            23 |   0.695652 |
 | Perpignan     |            15 |   0.133333 |
 | Samoa         |            10 |   0.1      |
@@ -48,13 +48,13 @@ categories: player
 | Clermont Auvergne          |         3 |   0        |
 | Rouen                      |         3 |   0.666667 |
 | Racing 92                  |         3 |   0        |
+| Soyaux-Angouleme           |         3 |   0.666667 |
 | Bordeaux Begles            |         3 |   0.333333 |
 | Nevers                     |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
 | Toulon                     |         3 |   0.333333 |
 | Montauban                  |         2 |   0.5      |
 | Scotland                   |         2 |   0        |
-| Soyaux-Angouleme           |         2 |   0.5      |
 | Montpellier Herault        |         2 |   0.5      |
 | Sale Sharks                |         2 |   0        |
 | Albi                       |         2 |   0        |

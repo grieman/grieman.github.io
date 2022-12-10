@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gabin Lorre  
-date: 2022-11-22 11:40:36.579902  
+date: 2022-12-09 13:10:31.862710  
 categories: player  
 ---
 # Gabin Lorre
 
-## Positions: FB
+## Positions: FB, W
 
-## Current elo: 99.0
+## Current elo: 107.0
 
-## Current Percentile: 54.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            15 |   0.433333 |
+| Beziers |            18 |   0.472222 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
@@ -30,8 +30,11 @@ categories: player
 | Montauban      |         2 |       1    |
 | Oyonnax        |         2 |       0.25 |
 | Vannes         |         2 |       0.5  |
+| Agen           |         1 |       1    |
 | Carcassonne    |         1 |       0    |
 | Colomiers      |         1 |       0    |
 | Massy          |         1 |       1    |
 | Narbonne       |         1 |       1    |
+| Nevers         |         1 |       0    |
 | Provence Rugby |         1 |       0    |
+| Rouen          |         1 |       1    |

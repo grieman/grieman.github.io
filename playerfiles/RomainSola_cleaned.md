@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain Sola  
-date: 2022-11-22 11:35:42.223827  
+date: 2022-12-09 13:21:16.194272  
 categories: player  
 ---
 # Romain Sola
 
 ## Positions: FH, FB
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 15.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -22,8 +22,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Brive            |            56 |   0.544643 |
+| Bourgoin-Jallieu |            43 |   0.55814  |
 | Provence Rugby   |            43 |   0.395349 |
-| Bourgoin-Jallieu |            41 |   0.560976 |
 | Agen             |            37 |   0.702703 |
 | Albi             |            19 |   0.763158 |
 
@@ -44,36 +44,36 @@ categories: player
 | La Rochelle                |         6 |   0.5      |
 | Lyon                       |         6 |   0.5      |
 | Aurillac                   |         6 |   0.75     |
+| Grenoble                   |         5 |   0.7      |
 | Vannes                     |         5 |   0.6      |
 | Provence Rugby             |         5 |   0.8      |
-| Grenoble                   |         5 |   0.7      |
 | Newcastle Falcons          |         4 |   0.75     |
 | Nevers                     |         4 |   0.5      |
+| Biarritz Olympique         |         4 |   0        |
 | Massy                      |         4 |   0.25     |
 | Racing 92                  |         4 |   0.75     |
-| Biarritz Olympique         |         4 |   0        |
-| Stade Francais Paris       |         3 |   0.666667 |
+| Cognac Saint Jean d'Angély |         3 |   1        |
 | Perpignan                  |         3 |   0.333333 |
+| Stade Francais Paris       |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.333333 |
 | Nice                       |         3 |   0.666667 |
-| Saint-Etienne              |         2 |   1        |
 | Chambery                   |         2 |   1        |
+| Calvisano                  |         2 |   0.75     |
+| RC Enisei                  |         2 |   0.5      |
+| Blagnac                    |         2 |   0.5      |
+| Connacht                   |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0        |
 | Montauban                  |         2 |   0        |
-| Suresnes                   |         2 |   0.5      |
+| Saint-Etienne              |         2 |   1        |
 | Bucuresti                  |         2 |   1        |
-| Connacht                   |         2 |   0.5      |
-| Calvisano                  |         2 |   0.75     |
-| Cognac Saint Jean d'Angély |         2 |   1        |
-| RC Enisei                  |         2 |   0.5      |
-| Toulon                     |         1 |   0        |
+| Suresnes                   |         2 |   0.5      |
 | US Bressane                |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
+| Toulon                     |         1 |   0        |
 | Castres Olympique          |         1 |   0        |
 | Périgueux                  |         1 |   1        |
 | Bath Rugby                 |         1 |   0        |
 | Montpellier Herault        |         1 |   1        |
-| Blagnac                    |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Lannemezan                 |         1 |   1        |
 | Brive                      |         1 |   0        |

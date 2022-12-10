@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias Moroni  
-date: 2022-11-22 11:45:27.281551  
+date: 2022-12-09 13:23:11.056215  
 categories: player  
 ---
 # Matias Moroni
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 116.0
+## Current elo: 114.0
 
-## Current Percentile: 93.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -28,7 +28,7 @@ categories: player
 | Jaguares          |            46 |   0.521739 |
 | Leicester Tigers  |            29 |   0.689655 |
 | Houston SaberCats |             5 |   0.4      |
-| Newcastle Falcons |             2 |   0.5      |
+| Newcastle Falcons |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -60,25 +60,26 @@ categories: player
 | CASI                     |         4 |  0.5       |
 | Hurricanes               |         3 |  0.333333  |
 | Southern Kings           |         3 |  0.666667  |
+| Newcastle Falcons        |         3 |  1         |
 | Chiefs                   |         3 |  0.333333  |
 | Sale Sharks              |         3 |  0.333333  |
 | Saracens                 |         3 |  0.333333  |
-| Newcastle Falcons        |         3 |  1         |
+| London Irish             |         3 |  0.666667  |
 | Harlequins               |         3 |  0.333333  |
 | Italy                    |         3 |  1         |
-| Blues                    |         2 |  0.5       |
+| Brumbies                 |         2 |  0.5       |
 | Northampton Saints       |         2 |  1         |
-| Sunwolves                |         2 |  1         |
+| Blues                    |         2 |  0.5       |
 | San Martin               |         2 |  0.5       |
+| Sunwolves                |         2 |  1         |
 | Tonga                    |         2 |  1         |
 | Queensland Reds          |         2 |  1         |
 | Pueyrredón               |         2 |  1         |
-| Brumbies                 |         2 |  0.5       |
 | Worcester Warriors       |         2 |  1         |
-| London Irish             |         2 |  1         |
-| New South Wales Waratahs |         2 |  1         |
 | Atlético del Rosario     |         2 |  1         |
-| Buenos Aires             |         1 |  1         |
+| Exeter Chiefs            |         2 |  1         |
+| New South Wales Waratahs |         2 |  1         |
+| Seattle Seawolves        |         1 |  1         |
 | Western Force            |         1 |  0         |
 | Austin Gilgronis         |         1 |  0         |
 | Bath Rugby               |         1 |  0         |
@@ -89,17 +90,16 @@ categories: player
 | Gloucester Rugby         |         1 |  1         |
 | Brive                    |         1 |  1         |
 | Georgia                  |         1 |  1         |
-| Seattle Seawolves        |         1 |  1         |
-| Dallas Jackals           |         1 |  1         |
 | Olivos                   |         1 |  1         |
+| Buenos Aires             |         1 |  1         |
+| Crusaders                |         1 |  0         |
 | Manuel Belgrano          |         1 |  1         |
+| Melbourne Rebels         |         1 |  1         |
 | San Diego Legion         |         1 |  0         |
 | San Cirano               |         1 |  0.5       |
-| Melbourne Rebels         |         1 |  1         |
+| Namibia                  |         1 |  1         |
 | Cheetahs                 |         1 |  1         |
 | Romania                  |         1 |  1         |
-| Namibia                  |         1 |  1         |
 | Highlanders              |         1 |  0         |
-| Exeter Chiefs            |         1 |  1         |
-| Crusaders                |         1 |  0         |
+| Dallas Jackals           |         1 |  1         |
 | R.U. New York            |         1 |  0         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paddy Jackson  
-date: 2022-11-22 11:37:44.019699  
+date: 2022-12-09 13:05:13.102876  
 categories: player  
 ---
 # Paddy Jackson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 109.0
+## Current elo: 112.0
 
-## Current Percentile: 80.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Ulster       |           123 |   0.613821 |
-| London Irish |            67 |   0.38806  |
+| London Irish |            69 |   0.391304 |
 | Ireland      |            25 |   0.62     |
 | Perpignan    |            25 |   0.06     |
 | Munster      |             1 |   1        |
@@ -32,24 +32,25 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Leinster             |        14 |  0.357143  |
-| Connacht             |        12 |  0.75      |
 | Glasgow Warriors     |        12 |  0.5       |
+| Connacht             |        12 |  0.75      |
+| Leicester Tigers     |        11 |  0.363636  |
 | Cardiff Blues        |        10 |  0.75      |
-| Leicester Tigers     |        10 |  0.4       |
 | Munster              |         9 |  0.277778  |
 | Dragons              |         9 |  0.777778  |
 | Exeter Chiefs        |         8 |  0.5       |
 | Scarlets             |         8 |  0.75      |
+| Saracens             |         7 |  0.214286  |
 | Northampton Saints   |         7 |  0.142857  |
 | Edinburgh            |         7 |  0.857143  |
-| Saracens             |         7 |  0.214286  |
-| Ospreys              |         6 |  0.833333  |
-| Bristol Rugby        |         6 |  0.333333  |
-| Bordeaux Begles      |         6 |  0.0833333 |
 | Benetton Treviso     |         6 |  0.75      |
+| Bordeaux Begles      |         6 |  0.0833333 |
+| Bristol Rugby        |         6 |  0.333333  |
 | Sale Sharks          |         6 |  0.166667  |
-| Worcester Warriors   |         6 |  0.5       |
 | Gloucester Rugby     |         6 |  0.25      |
+| Worcester Warriors   |         6 |  0.5       |
+| Ospreys              |         6 |  0.833333  |
+| Newcastle Falcons    |         5 |  0.8       |
 | Harlequins           |         5 |  0.3       |
 | Zebre                |         5 |  0.8       |
 | Toulon               |         5 |  0         |
@@ -58,9 +59,8 @@ categories: player
 | Stade Toulousain     |         4 |  0.5       |
 | Clermont Auvergne    |         4 |  0.25      |
 | Castres Olympique    |         4 |  0.5       |
-| Newcastle Falcons    |         4 |  0.75      |
-| South Africa         |         3 |  0.333333  |
 | Scotland             |         3 |  0.333333  |
+| South Africa         |         3 |  0.333333  |
 | Italy                |         3 |  0.666667  |
 | Aironi               |         3 |  1         |
 | Wales                |         3 |  0.666667  |

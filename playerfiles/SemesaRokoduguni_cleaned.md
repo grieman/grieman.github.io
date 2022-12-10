@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Semesa Rokoduguni  
-date: 2022-11-22 11:36:49.593568  
+date: 2022-12-09 13:03:52.363284  
 categories: player  
 ---
 # Semesa Rokoduguni
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 126.0
+## Current elo: 123.0
 
 ## Current Percentile: 97.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Bath Rugby |           188 |   0.526596 |
-| Montauban  |            10 |   0.4      |
+| Montauban  |            12 |   0.375    |
 | England    |             5 |   0.8      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,34 +42,36 @@ categories: player
 | London Irish         |        10 |   1        |
 | Bristol Rugby        |         7 |   0.428571 |
 | Leinster             |         4 |   0.25     |
-| London Welsh         |         3 |   1        |
 | Stade Toulousain     |         3 |   0        |
-| Brive                |         2 |   1        |
-| Pau                  |         2 |   1        |
+| London Welsh         |         3 |   1        |
 | Bordeaux Begles      |         2 |   1        |
 | Toulon               |         2 |   0        |
-| Scarlets             |         1 |   1        |
-| Stade Francais Paris |         1 |   0        |
-| Biarritz Olympique   |         1 |   0        |
-| Benetton Treviso     |         1 |   1        |
-| Ulster               |         1 |   0        |
-| Samoa                |         1 |   1        |
-| Beziers              |         1 |   0        |
-| Provence Rugby       |         1 |   0        |
-| Australia            |         1 |   1        |
+| Brive                |         2 |   1        |
+| Pau                  |         2 |   1        |
 | Ospreys              |         1 |   0        |
-| Clermont Auvergne    |         1 |   0        |
-| Nevers               |         1 |   1        |
+| Australia            |         1 |   1        |
+| Vannes               |         1 |   0.5      |
+| Ulster               |         1 |   0        |
+| Benetton Treviso     |         1 |   1        |
+| Stade Francais Paris |         1 |   0        |
+| Scarlets             |         1 |   1        |
+| Beziers              |         1 |   0        |
+| Samoa                |         1 |   1        |
+| Biarritz Olympique   |         1 |   0        |
+| Rouen                |         1 |   0        |
+| Provence Rugby       |         1 |   0        |
+| Fiji                 |         1 |   1        |
+| Glasgow Warriors     |         1 |   0        |
 | New Zealand          |         1 |   0        |
-| Colomiers            |         1 |   1        |
+| Nevers               |         1 |   1        |
 | Montpellier Herault  |         1 |   1        |
 | Mont-de-Marsan       |         1 |   1        |
 | Massy                |         1 |   1        |
 | Aurillac             |         1 |   0        |
-| Grenoble             |         1 |   0        |
 | Carcassonne          |         1 |   0        |
-| Glasgow Warriors     |         1 |   0        |
-| Fiji                 |         1 |   1        |
 | Cardiff Blues        |         1 |   0        |
+| Clermont Auvergne    |         1 |   0        |
+| Colomiers            |         1 |   1        |
+| Grenoble             |         1 |   0        |
 | Dragons              |         1 |   1        |
 | Argentina            |         1 |   1        |

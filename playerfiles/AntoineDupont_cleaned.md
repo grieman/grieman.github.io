@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Dupont  
-date: 2022-11-16 11:31:53.949594  
+date: 2022-12-09 13:05:31.294460  
 categories: player  
 ---
 # Antoine Dupont
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 125.0
+## Current elo: 124.0
 
-## Current Percentile: 99.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Stade Toulousain  |            80 |    0.7625  |
-| Castres Olympique |            61 |    0.47541 |
-| France            |            40 |    0.6875  |
+| Stade Toulousain  |            81 |   0.765432 |
+| Castres Olympique |            61 |   0.47541  |
+| France            |            40 |   0.6875   |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -35,39 +35,39 @@ categories: player
 | Bordeaux Begles      |         9 |   0.888889 |
 | Racing 92            |         8 |   0.625    |
 | Stade Francais Paris |         8 |   0.5      |
-| Pau                  |         7 |   0.714286 |
-| Brive                |         7 |   0.714286 |
-| Montpellier Herault  |         7 |   0.714286 |
 | Leinster             |         7 |   0.214286 |
-| Wales                |         6 |   0.833333 |
-| Scotland             |         6 |   0.5      |
+| Montpellier Herault  |         7 |   0.714286 |
+| Brive                |         7 |   0.714286 |
+| Pau                  |         7 |   0.714286 |
 | Italy                |         6 |   1        |
-| Ireland              |         5 |   0.6      |
-| Castres Olympique    |         5 |   0.4      |
-| Stade Toulousain     |         5 |   0.4      |
+| Scotland             |         6 |   0.5      |
+| Wales                |         6 |   0.833333 |
 | Lyon                 |         5 |   0.6      |
 | Grenoble             |         5 |   0.6      |
-| South Africa         |         4 |   0.25     |
+| Castres Olympique    |         5 |   0.4      |
+| Ireland              |         5 |   0.6      |
+| Stade Toulousain     |         5 |   0.4      |
 | England              |         4 |   0.5      |
+| South Africa         |         4 |   0.25     |
 | Bayonne              |         4 |   0.625    |
 | Sale Sharks          |         3 |   0.333333 |
+| Perpignan            |         3 |   1        |
 | Agen                 |         3 |   1        |
 | Wasps                |         3 |   0.666667 |
 | Argentina            |         3 |   1        |
 | Cardiff Blues        |         3 |   0.333333 |
-| New Zealand          |         2 |   0.5      |
 | Northampton Saints   |         2 |   0.5      |
 | Oyonnax              |         2 |   0.5      |
-| Perpignan            |         2 |   1        |
 | Bath Rugby           |         2 |   1        |
+| New Zealand          |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
 | Australia            |         1 |   1        |
 | Ulster               |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Dragons              |         1 |   1        |
 | Connacht             |         1 |   1        |
-| Harlequins           |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
 | Georgia              |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
+| Harlequins           |         1 |   0        |
 | Japan                |         1 |   0.5      |

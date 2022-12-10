@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Bayliss  
-date: 2022-11-16 11:21:34.154882  
+date: 2022-12-09 13:12:40.222733  
 categories: player  
 ---
 # Josh Bayliss
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 86.0
+## Current elo: 84.0
 
-## Current Percentile: 13.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            82 |   0.426829 |
+| Bath Rugby |            83 |   0.421687 |
 | Scotland   |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Harlequins         |         9 |   0.333333 |
 | Northampton Saints |         9 |   0.777778 |
 | Sale Sharks        |         8 |   0.5625   |
-| Harlequins         |         8 |   0.375    |
 | Newcastle Falcons  |         7 |   0.428571 |
 | Exeter Chiefs      |         7 |   0.142857 |
 | Bristol Rugby      |         7 |   0.142857 |

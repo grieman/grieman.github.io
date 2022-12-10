@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaétan Béraud  
-date: 2022-11-22 11:35:47.878368  
+date: 2022-12-09 13:15:47.224497  
 categories: player  
 ---
 # Gaétan Béraud
 
 ## Positions: N8
 
-## Current elo: 82.0
+## Current elo: 79.0
 
-## Current Percentile: 6.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             9 |   0.222222 |
+| Rennes |            11 |   0.181818 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,8 @@ categories: player
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Dax                        |         1 |          0 |
+| Narbonne                   |         1 |          0 |
+| Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |

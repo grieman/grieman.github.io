@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian Penaud  
-date: 2022-11-22 11:46:37.879123  
+date: 2022-12-09 13:21:35.971949  
 categories: player  
 ---
 # Damian Penaud
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 84.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           103 |   0.650485 |
+| Clermont Auvergne |           104 |   0.653846 |
 | France            |            37 |   0.581081 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,9 +32,9 @@ categories: player
 | Stade Toulousain     |         9 |   0.277778 |
 | La Rochelle          |         8 |   0.75     |
 | Toulon               |         8 |   0.625    |
+| Montpellier Herault  |         7 |   0.571429 |
 | Pau                  |         7 |   0.857143 |
 | Lyon                 |         6 |   0.833333 |
-| Montpellier Herault  |         6 |   0.5      |
 | Bordeaux Begles      |         6 |   0.416667 |
 | Scotland             |         6 |   0.5      |
 | Agen                 |         5 |   0.8      |

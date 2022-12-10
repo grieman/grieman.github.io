@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andrew Porter  
-date: 2022-11-22 11:38:19.411115  
+date: 2022-12-09 13:23:02.962243  
 categories: player  
 ---
 # Andrew Porter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 105.0
+## Current elo: 101.0
 
-## Current Percentile: 77.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            80 |    0.83125 |
-| Ireland  |            44 |    0.75    |
+| Leinster |            81 |   0.833333 |
+| Ireland  |            44 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Ulster                   |        10 |   0.9      |
+| Ulster                   |        11 |   0.909091 |
 | Benetton Treviso         |         9 |   0.833333 |
 | Munster                  |         8 |   1        |
 | Connacht                 |         7 |   0.857143 |

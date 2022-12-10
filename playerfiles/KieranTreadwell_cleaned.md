@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Treadwell  
-date: 2022-11-16 11:30:36.356938  
+date: 2022-12-09 13:24:20.923033  
 categories: player  
 ---
 # Kieran Treadwell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 69.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Ulster     |           112 |   0.647321 |
+| Ulster     |           113 |   0.641593 |
 | Ireland    |            12 |   0.833333 |
 | Harlequins |            10 |   0.5      |
 
@@ -32,9 +32,9 @@ categories: player
 | Connacht            |        10 |   0.5      |
 | Scarlets            |         9 |   0.666667 |
 | Munster             |         9 |   0.5      |
+| Leinster            |         9 |   0.111111 |
 | Ospreys             |         8 |   0.75     |
 | Cardiff Blues       |         8 |   0.6875   |
-| Leinster            |         8 |   0.125    |
 | Dragons             |         7 |   0.928571 |
 | Zebre               |         6 |   0.833333 |
 | Benetton Treviso    |         6 |   0.916667 |

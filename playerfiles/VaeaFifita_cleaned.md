@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaea Fifita  
-date: 2022-11-22 11:46:51.408796  
+date: 2022-12-09 13:10:54.573725  
 categories: player  
 ---
 # Vaea Fifita
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 119.0
+## Current elo: 117.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Wellington  |            41 |   0.54878  |
 | Wasps       |            18 |   0.5      |
 | New Zealand |            11 |   0.954545 |
-| Scarlets    |             4 |   0.125    |
+| Scarlets    |             5 |   0.1      |
 | Tonga       |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,8 +38,8 @@ categories: player
 | North Harbour            |         7 |   0.714286 |
 | Highlanders              |         6 |   0.666667 |
 | Sharks                   |         5 |   0.8      |
+| Lions                    |         5 |   0.6      |
 | Taranaki                 |         4 |   0.5      |
-| Lions                    |         4 |   0.75     |
 | Jaguares                 |         4 |   0.75     |
 | Brumbies                 |         4 |   0.75     |
 | Northland                |         4 |   0.75     |

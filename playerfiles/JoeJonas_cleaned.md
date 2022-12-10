@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Jonas  
-date: 2022-11-22 11:31:59.424554  
+date: 2022-12-09 13:15:16.960041  
 categories: player  
 ---
 # Joe Jonas
 
 ## Positions: FB
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 43.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            24 |   0.354167 |
+| Biarritz Olympique |            26 |   0.384615 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Toulon               |         1 |        0   |
 | Stade Toulousain     |         1 |        0   |
 | Rouen                |         1 |        0   |
+| Provence Rugby       |         1 |        1   |
 | Perpignan            |         1 |        0   |
 | Pau                  |         1 |        0   |
 | Oyonnax              |         1 |        1   |
@@ -42,6 +43,7 @@ categories: player
 | Massy                |         1 |        1   |
 | Lyon                 |         1 |        0   |
 | La Rochelle          |         1 |        1   |
+| Grenoble             |         1 |        0.5 |
 | Colomiers            |         1 |        1   |
 | Carcassonne          |         1 |        1   |
 | Brive                |         1 |        0   |

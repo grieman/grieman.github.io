@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bilel Taieb  
-date: 2022-11-22 11:47:37.730336  
+date: 2022-12-09 13:08:02.480480  
 categories: player  
 ---
 # Bilel Taieb
 
 ## Positions: FL
 
-## Current elo: 82.0
+## Current elo: 83.0
 
-## Current Percentile: 9.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -22,12 +22,12 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Oyonnax        |           108 |   0.472222 |
-| Provence Rugby |             8 |   0.4375   |
+| Provence Rugby |             9 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Montauban                  |         8 |   0.4375   |
-| Carcassonne                |         7 |   0.714286 |
+| Carcassonne                |         8 |   0.75     |
 | Aurillac                   |         6 |   0.5      |
 | Vannes                     |         6 |   0.333333 |
 | Provence Rugby             |         6 |   0.666667 |

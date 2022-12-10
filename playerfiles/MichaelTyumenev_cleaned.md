@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Tyumenev  
-date: 2022-11-16 11:31:55.367079  
+date: 2022-12-09 13:06:49.747273  
 categories: player  
 ---
 # Michael Tyumenev
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 77.0
+## Current elo: 76.0
 
-## Current Percentile: 2.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             7 |   0.571429 |
+| Carqueiranne-Hyères |            10 |   0.4      |
 | Germany             |             6 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,8 +34,11 @@ categories: player
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Dax                        |         1 |          0 |
 | Kenya                      |         1 |          1 |
 | Namibia                    |         1 |          0 |
+| Narbonne                   |         1 |          0 |
+| Rennes                     |         1 |          0 |
 | Samoa                      |         1 |          0 |
 | Spain                      |         1 |          0 |
 | Suresnes                   |         1 |          0 |

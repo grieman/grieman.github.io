@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Anthony Aléo  
-date: 2022-11-22 11:34:05.504115  
+date: 2022-12-09 13:13:18.936958  
 categories: player  
 ---
 # Anthony Aléo
 
 ## Positions: P
 
-## Current elo: 108.0
+## Current elo: 110.0
 
 ## Current Percentile: 88.0
 
@@ -21,25 +21,27 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            15 |   0.7      |
+| Valence Romans Drome Rugby |            17 |   0.676471 |
 | Beziers                    |             9 |   0.388889 |
 | Montauban                  |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         3 |        0.5 |
-| Mont-de-Marsan             |         2 |        0   |
-| Blagnac                    |         2 |        1   |
-| Perpignan                  |         2 |        0.5 |
 | Montauban                  |         2 |        1   |
-| Narbonne                   |         1 |        1   |
+| Blagnac                    |         2 |        1   |
+| Mont-de-Marsan             |         2 |        0   |
+| Perpignan                  |         2 |        0.5 |
+| Nice                       |         1 |        1   |
 | Valence Romans Drome Rugby |         1 |        0.5 |
+| US Bressane                |         1 |        0   |
+| Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Soyaux-Angouleme           |         1 |        1   |
 | Rennes                     |         1 |        1   |
 | Provence Rugby             |         1 |        0   |
-| Nice                       |         1 |        1   |
 | Albi                       |         1 |        0   |
+| Narbonne                   |         1 |        1   |
 | Aubenas                    |         1 |        1   |
 | Massy                      |         1 |        0   |
 | Dax                        |         1 |        0   |

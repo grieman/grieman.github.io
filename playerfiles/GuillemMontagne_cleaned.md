@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guillem Montagne  
-date: 2022-11-22 11:43:24.448026  
+date: 2022-12-09 13:08:37.631110  
 categories: player  
 ---
 # Guillem Montagne
 
 ## Positions: FL
 
-## Current elo: 94.0
+## Current elo: 97.0
 
-## Current Percentile: 39.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             3 |   0.166667 |
+| Narbonne |             5 |        0.5 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Albi             |         1 |        0   |
-| Blagnac          |         1 |        0.5 |
-| Bourgoin-Jallieu |         1 |        0   |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Albi                |         1 |        0   |
+| Blagnac             |         1 |        0.5 |
+| Bourgoin-Jallieu    |         1 |        0   |
+| Carqueiranne-Hyères |         1 |        1   |
+| Rennes              |         1 |        1   |

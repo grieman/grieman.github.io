@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Herring  
-date: 2022-11-22 11:38:12.154826  
+date: 2022-12-09 13:12:57.902311  
 categories: player  
 ---
 # Rob Herring
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 104.0
+## Current elo: 105.0
 
 ## Current Percentile: 78.0
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Ulster       |           213 |   0.678404 |
+| Ulster       |           214 |   0.675234 |
 | Ireland      |            25 |   0.8      |
 | London Irish |             8 |   0.375    |
 | Munster      |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Leinster            |        21 |   0.285714 |
+| Leinster            |        22 |   0.272727 |
 | Munster             |        19 |   0.473684 |
 | Benetton Treviso    |        18 |   0.944444 |
 | Glasgow Warriors    |        17 |   0.529412 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pierre Aguillon  
-date: 2022-11-22 11:45:12.505742  
+date: 2022-12-09 13:23:04.398194  
 categories: player  
 ---
 # Pierre Aguillon
 
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 82.0
 
 ## Current Percentile: 13.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | La Rochelle       |           125 |   0.612    |
-| Carcassonne       |            47 |   0.62766  |
+| Carcassonne       |            49 |   0.622449 |
 | Oyonnax           |            43 |   0.488372 |
 | Auch              |            37 |   0.378378 |
 | Grenoble          |            37 |   0.689189 |
@@ -32,8 +32,8 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Stade Francais Paris |        16 |   0.375    |
 | Racing 92            |        16 |   0.53125  |
+| Agen                 |        14 |   0.607143 |
 | Pau                  |        14 |   0.678571 |
-| Agen                 |        13 |   0.576923 |
 | Oyonnax              |        13 |   0.615385 |
 | Bordeaux Begles      |        13 |   0.615385 |
 | Lyon                 |        13 |   0.384615 |
@@ -53,7 +53,7 @@ categories: player
 | Dax                  |         6 |   0.75     |
 | La Rochelle          |         6 |   0.333333 |
 | Beziers              |         6 |   1        |
-| Provence Rugby       |         5 |   0.8      |
+| Provence Rugby       |         6 |   0.666667 |
 | Gloucester Rugby     |         4 |   0.25     |
 | Harlequins           |         4 |   0.5      |
 | Auch                 |         4 |   1        |

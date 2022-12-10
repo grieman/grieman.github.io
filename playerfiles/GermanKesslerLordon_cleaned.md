@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: German Kessler Lordon  
-date: 2022-11-16 11:32:41.860470  
+date: 2022-12-09 13:07:15.076657  
 categories: player  
 ---
 # German Kessler Lordon
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 43.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Provence Rugby   |            22 |   0.545455 |
-| Uruguay          |            16 |   0.5      |
+| Provence Rugby   |            24 |   0.541667 |
+| Uruguay          |            17 |   0.470588 |
 | Soyaux-Angouleme |            14 |   0.178571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -33,6 +33,7 @@ categories: player
 | Vannes                     |         3 |   0.333333 |
 | Rouen                      |         3 |   0        |
 | Montauban                  |         3 |   0.666667 |
+| Carcassonne                |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.666667 |
 | Agen                       |         2 |   0        |
 | Fiji                       |         2 |   0.5      |
@@ -40,19 +41,19 @@ categories: player
 | Oyonnax                    |         2 |   0.25     |
 | Namibia                    |         2 |   1        |
 | Wales                      |         2 |   0        |
-| Colomiers                  |         2 |   0        |
-| Carcassonne                |         2 |   0.5      |
 | Australia                  |         2 |   0        |
+| Biarritz Olympique         |         2 |   0        |
+| Colomiers                  |         2 |   0        |
 | Beziers                    |         2 |   1        |
-| Perpignan                  |         1 |   0        |
+| Georgia                    |         1 |   0        |
+| Bayonne                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | US Bressane                |         1 |   0.5      |
+| Tonga                      |         1 |   0        |
 | Spain                      |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |
-| Bayonne                    |         1 |   1        |
-| Biarritz Olympique         |         1 |   0        |
-| Georgia                    |         1 |   0        |
+| Perpignan                  |         1 |   0        |
 | Nevers                     |         1 |   0        |
 | Narbonne                   |         1 |   0        |
 | Brazil                     |         1 |   1        |

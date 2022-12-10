@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josaia Vakacegu  
-date: 2022-11-22 11:30:06.791939  
+date: 2022-12-09 13:08:30.668293  
 categories: player  
 ---
 # Josaia Vakacegu
 
 ## Positions: C, W
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 64.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -24,13 +24,13 @@ categories: player
 | Beziers            |            52 |   0.5      |
 | Narbonne           |            47 |   0.425532 |
 | Biarritz Olympique |            28 |   0.660714 |
-| Tarbes             |            17 |   0.588235 |
+| Tarbes             |            18 |   0.555556 |
 | Bordeaux Begles    |            10 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |        10 |   0.3      |
 | Albi                       |         9 |   0.833333 |
-| Dax                        |         9 |   0.333333 |
 | Colomiers                  |         9 |   0.666667 |
 | Narbonne                   |         7 |   0.571429 |
 | Carcassonne                |         7 |   0.571429 |

@@ -1,0 +1,61 @@
+---  
+layout: page  
+title: Pierre Bourgarit  
+date: 2022-12-09 13:22:54.142889  
+categories: player  
+---
+# Pierre Bourgarit
+
+## Positions: H
+
+## Country: France
+
+## Current elo: 106.0
+
+## Current Percentile: 84.0
+
+# Elo History
+
+
+![elo history](history_PierreBourgarit.png)
+# Match History
+
+
+| Team        |   Appearances |   Win Rate |
+|:------------|--------------:|-----------:|
+| La Rochelle |           107 |   0.616822 |
+| France      |             6 |   0.666667 |
+
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Stade Toulousain     |        10 |   0.1      |
+| Racing 92            |         9 |   0.666667 |
+| Clermont Auvergne    |         8 |   0.375    |
+| Toulon               |         7 |   0.714286 |
+| Bordeaux Begles      |         7 |   0.714286 |
+| Castres Olympique    |         7 |   0.571429 |
+| Pau                  |         7 |   0.857143 |
+| Lyon                 |         6 |   0.833333 |
+| Montpellier Herault  |         6 |   0.666667 |
+| Stade Francais Paris |         5 |   0.2      |
+| Bayonne              |         4 |   0.5      |
+| Perpignan            |         4 |   1        |
+| Agen                 |         4 |   1        |
+| Brive                |         4 |   1        |
+| Sale Sharks          |         3 |   0.666667 |
+| Wasps                |         2 |   0.5      |
+| Harlequins           |         2 |   1        |
+| Ulster               |         2 |   0.5      |
+| Grenoble             |         2 |   1        |
+| Exeter Chiefs        |         2 |   0        |
+| Japan                |         2 |   1        |
+| Italy                |         1 |   1        |
+| Biarritz Olympique   |         1 |   0        |
+| Bristol Rugby        |         1 |   1        |
+| England              |         1 |   0        |
+| Scarlets             |         1 |   0        |
+| RC Enisei            |         1 |   1        |
+| Oyonnax              |         1 |   1        |
+| New Zealand          |         1 |   0        |
+| Ireland              |         1 |   1        |
+| Zebre                |         1 |   1        |

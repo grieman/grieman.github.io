@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason-Colin Fraser  
-date: 2022-11-22 11:42:01.436254  
+date: 2022-12-09 13:17:30.003685  
 categories: player  
 ---
 # Jason-Colin Fraser
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Zimbabwe
 
-## Current elo: 119.0
+## Current elo: 120.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Nevers           |            76 |   0.605263 |
+| Nevers           |            78 |   0.602564 |
 | Pumas            |            10 |   0.35     |
 | Griquas          |             7 |   0.571429 |
 | Boland Cavaliers |             1 |   1        |
@@ -31,18 +31,18 @@ categories: player
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Mont-de-Marsan         |         7 |   0.714286 |
 | Vannes                 |         7 |   0.428571 |
 | Montauban              |         7 |   0.285714 |
-| Mont-de-Marsan         |         6 |   0.833333 |
 | Soyaux-Angouleme       |         6 |   0.75     |
 | Aurillac               |         6 |   0.666667 |
 | Oyonnax                |         5 |   0.2      |
 | Carcassonne            |         5 |   0.4      |
 | Rouen                  |         4 |   1        |
+| Beziers                |         4 |   0.5      |
 | Provence Rugby         |         4 |   0.75     |
 | US Bressane            |         3 |   1        |
 | Biarritz Olympique     |         3 |   0.666667 |
-| Beziers                |         3 |   0.333333 |
 | Colomiers              |         3 |   0.666667 |
 | Eastern Province Kings |         3 |   1        |
 | Golden Lions           |         3 |   0.333333 |

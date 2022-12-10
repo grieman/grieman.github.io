@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Taufua  
-date: 2022-11-22 11:32:27.807854  
+date: 2022-12-09 13:24:37.448113  
 categories: player  
 ---
 # Jordan Taufua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 114.0
+## Current elo: 117.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Crusaders        |           104 |   0.759615 |
+| Lyon             |            32 |   0.5625   |
 | Counties Manukau |            31 |   0.5      |
-| Lyon             |            30 |   0.566667 |
 | Tasman           |            22 |   0.727273 |
 | Leicester Tigers |            18 |   0.472222 |
 | Canterbury       |            12 |   0.833333 |
@@ -43,49 +43,49 @@ categories: player
 | Melbourne Rebels         |         7 |   0.857143 |
 | Lions                    |         7 |   0.857143 |
 | New South Wales Waratahs |         6 |   0.5      |
-| Taranaki                 |         6 |   0.416667 |
 | North Harbour            |         6 |   0.5      |
 | Canterbury               |         6 |   0.333333 |
 | Wellington               |         6 |   0.666667 |
 | Waikato                  |         6 |   0.833333 |
+| Taranaki                 |         6 |   0.416667 |
 | Otago                    |         5 |   0.8      |
-| Queensland Reds          |         5 |   1        |
 | Stormers                 |         5 |   0.9      |
+| Queensland Reds          |         5 |   1        |
 | Bay of Plenty            |         4 |   0.75     |
-| Racing 92                |         4 |   0.25     |
-| Tasman                   |         4 |   0.75     |
 | Pau                      |         4 |   0.5      |
+| Racing 92                |         4 |   0.25     |
+| Stade Toulousain         |         4 |   0.75     |
+| Tasman                   |         4 |   0.75     |
 | Western Force            |         4 |   0.75     |
 | Bulls                    |         4 |   0.75     |
 | Manawatu                 |         4 |   0.5      |
-| London Irish             |         3 |   0.333333 |
-| Stade Toulousain         |         3 |   0.666667 |
 | Southland                |         3 |   1        |
+| London Irish             |         3 |   0.333333 |
+| Bayonne                  |         3 |   0.666667 |
 | Brive                    |         3 |   1        |
 | Exeter Chiefs            |         3 |   0        |
-| Cheetahs                 |         3 |   1        |
-| Clermont Auvergne        |         3 |   0.333333 |
 | Hawke's Bay              |         3 |   0.333333 |
+| Clermont Auvergne        |         3 |   0.333333 |
+| Cheetahs                 |         3 |   1        |
 | Counties Manukau         |         2 |   1        |
+| La Rochelle              |         2 |   0        |
 | Toulon                   |         2 |   0        |
 | Perpignan                |         2 |   1        |
 | Bordeaux Begles          |         2 |   0.5      |
-| La Rochelle              |         2 |   0        |
+| Northland                |         2 |   0.5      |
 | Biarritz Olympique       |         2 |   1        |
 | Castres Olympique        |         2 |   0.5      |
-| Bayonne                  |         2 |   1        |
 | Jaguares                 |         2 |   1        |
-| Northland                |         2 |   0.5      |
 | Stade Francais Paris     |         1 |   1        |
 | Wasps                    |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Bristol Rugby            |         1 |   1        |
 | Calvisano                |         1 |   1        |
+| Bath Rugby               |         1 |   0        |
 | Sale Sharks              |         1 |   0        |
 | Fiji                     |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Georgia                  |         1 |   1        |
-| Bath Rugby               |         1 |   0        |
 | Romania                  |         1 |   1        |
 | Gloucester Rugby         |         1 |   0        |
 | Harlequins               |         1 |   0.5      |

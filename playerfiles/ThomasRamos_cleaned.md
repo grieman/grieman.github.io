@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Ramos  
-date: 2022-11-22 11:32:48.386379  
+date: 2022-12-09 13:13:29.514460  
 categories: player  
 ---
 # Thomas Ramos
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 124.0
+## Current elo: 121.0
 
-## Current Percentile: 98.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |           120 |   0.75     |
+| Stade Toulousain |           121 |   0.752066 |
 | Colomiers        |            23 |   0.673913 |
 | France           |            21 |   0.809524 |
 
@@ -42,9 +42,9 @@ categories: player
 | Stade Francais Paris     |         6 |   0.833333 |
 | Lyon                     |         6 |   0.416667 |
 | Scotland                 |         5 |   0.6      |
+| Perpignan                |         5 |   1        |
 | Biarritz Olympique       |         4 |   0.75     |
 | Oyonnax                  |         4 |   0.875    |
-| Perpignan                |         4 |   1        |
 | Ireland                  |         3 |   0.666667 |
 | Wales                    |         3 |   1        |
 | Leinster                 |         3 |   0.333333 |

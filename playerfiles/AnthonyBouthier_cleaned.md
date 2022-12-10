@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Bouthier  
-date: 2022-11-16 11:31:47.404034  
+date: 2022-12-09 13:05:23.866522  
 categories: player  
 ---
 # Anthony Bouthier
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 113.0
+## Current elo: 109.0
 
 ## Current Percentile: 86.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Vannes              |            75 |   0.546667 |
-| Montpellier Herault |            63 |   0.539683 |
+| Montpellier Herault |            64 |   0.53125  |
 | France              |            11 |   0.636364 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -51,7 +51,7 @@ categories: player
 | Dax                  |         4 |   0.25     |
 | Stade Francais Paris |         4 |   0.875    |
 | Toulon               |         4 |   0.625    |
-| Clermont Auvergne    |         3 |   0.333333 |
+| Clermont Auvergne    |         4 |   0.25     |
 | Mont-de-Marsan       |         3 |   0.666667 |
 | Australia            |         3 |   0.333333 |
 | Nevers               |         3 |   0.666667 |

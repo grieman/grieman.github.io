@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta Tuicuvu  
-date: 2022-11-16 11:23:57.732054  
+date: 2022-12-09 13:14:42.145005  
 categories: player  
 ---
 # Seta Tuicuvu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 166.0
 
-## Current Percentile: 45.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Brive             |            43 |   0.244186 |
+| Brive             |            45 |   0.233333 |
 | Clermont Auvergne |            25 |   0.46     |
 | Fiji              |            10 |   0.25     |
 
@@ -33,12 +33,12 @@ categories: player
 | Stade Toulousain     |         6 |   0.166667 |
 | Castres Olympique    |         6 |   0.166667 |
 | Racing 92            |         5 |   0.1      |
+| Bordeaux Begles      |         5 |   0.2      |
+| Pau                  |         5 |   0.6      |
 | Stade Francais Paris |         5 |   0.4      |
 | Lyon                 |         5 |   0.2      |
-| Bordeaux Begles      |         4 |   0.25     |
 | Clermont Auvergne    |         4 |   0.25     |
 | Toulon               |         4 |   0.25     |
-| Pau                  |         4 |   0.75     |
 | Perpignan            |         3 |   0.666667 |
 | New Zealand          |         2 |   0        |
 | Bayonne              |         2 |   0.5      |

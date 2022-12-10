@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sébastien Giorgis  
-date: 2022-11-22 11:48:08.587191  
+date: 2022-12-09 13:21:37.929449  
 categories: player  
 ---
 # Sébastien Giorgis
 
 ## Positions: W, C
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 45.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Narbonne    |            49 |   0.418367 |
+| Narbonne    |            50 |   0.43     |
 | Carcassonne |            39 |   0.435897 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -47,9 +47,10 @@ categories: player
 | Massy                      |         2 |   0.5      |
 | Lyon                       |         1 |   1        |
 | Dax                        |         1 |   1        |
-| Nice                       |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
+| Nice                       |         1 |   1        |
 | Chambery                   |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Provence Rugby             |         1 |   1        |
 | Rouen                      |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johan Mees Erasmus  
-date: 2022-11-22 11:38:06.834045  
+date: 2022-12-09 13:23:42.256126  
 categories: player  
 ---
 # Johan Mees Erasmus
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 9.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Tarbes       |            10 |        0.4 |
-| Perth Spirit |             2 |        0.5 |
-| Colomiers    |             1 |        0   |
+| Tarbes       |            11 |   0.363636 |
+| Perth Spirit |             2 |   0.5      |
+| Colomiers    |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Suresnes                   |         2 |        0   |
 | Blagnac                    |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Dax                        |         1 |        0   |
 | Fijian Drua                |         1 |        0   |
 | Melbourne Rising           |         1 |        1   |
 | Narbonne                   |         1 |        1   |

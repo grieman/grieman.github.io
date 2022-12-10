@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oli Hoskins  
-date: 2022-11-22 11:34:57.479203  
+date: 2022-12-09 13:18:17.102584  
 categories: player  
 ---
 # Oli Hoskins
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| London Irish  |           112 |   0.410714 |
+| London Irish  |           114 |   0.412281 |
 | Western Force |            27 |   0.407407 |
 | Perth Spirit  |            11 |   0.272727 |
 | Australia     |             1 |   0        |
@@ -32,16 +32,16 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Wasps                    |         9 |   0.388889 |
 | Bath Rugby               |         8 |   0.25     |
-| Harlequins               |         8 |   0.4375   |
+| Leicester Tigers         |         8 |   0.25     |
 | Exeter Chiefs            |         8 |   0.375    |
+| Harlequins               |         8 |   0.4375   |
 | Gloucester Rugby         |         8 |   0.1875   |
 | Sale Sharks              |         7 |   0.142857 |
 | Northampton Saints       |         7 |   0.142857 |
-| Leicester Tigers         |         7 |   0.285714 |
 | Worcester Warriors       |         7 |   0.428571 |
-| Bristol Rugby            |         6 |   0.333333 |
 | Saracens                 |         6 |   0.25     |
-| Newcastle Falcons        |         4 |   0.25     |
+| Bristol Rugby            |         6 |   0.333333 |
+| Newcastle Falcons        |         5 |   0.4      |
 | Melbourne Rebels         |         4 |   0.5      |
 | Brumbies                 |         3 |   0        |
 | New South Wales Waratahs |         3 |   0.666667 |

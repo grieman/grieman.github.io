@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel Marques  
-date: 2022-11-22 11:42:45.177155  
+date: 2022-12-09 13:16:13.571622  
 categories: player  
 ---
 # Samuel Marques
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 118.0
+## Current elo: 122.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -26,16 +26,16 @@ categories: player
 | Pau              |            93 |   0.532258 |
 | Albi             |            44 |   0.477273 |
 | Brive            |            43 |   0.476744 |
-| Carcassonne      |            29 |   0.534483 |
+| Carcassonne      |            31 |   0.532258 |
 | Stade Toulousain |            18 |   0.5      |
 | Portugal         |            15 |   0.466667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Agen                     |         9 |   0.777778 |
 | Stade Francais Paris     |         9 |   0.555556 |
 | Colomiers                |         9 |   0.722222 |
 | Castres Olympique        |         9 |   0.444444 |
-| Agen                     |         8 |   0.75     |
 | Narbonne                 |         8 |   0.75     |
 | Oyonnax                  |         8 |   0.625    |
 | Pau                      |         8 |   0.125    |
@@ -47,6 +47,7 @@ categories: player
 | Aurillac                 |         8 |   0.75     |
 | Tarbes                   |         8 |   0.3125   |
 | La Rochelle              |         7 |   0.142857 |
+| Provence Rugby           |         7 |   0.428571 |
 | Stade Toulousain         |         6 |   0.166667 |
 | Toulon                   |         6 |   0.166667 |
 | Dax                      |         6 |   0.666667 |
@@ -54,7 +55,6 @@ categories: player
 | Montauban                |         6 |   0.666667 |
 | Grenoble                 |         6 |   0.5      |
 | Mont-de-Marsan           |         6 |   0.333333 |
-| Provence Rugby           |         6 |   0.5      |
 | Massy                    |         5 |   0.8      |
 | Brive                    |         5 |   0        |
 | Auch                     |         5 |   0.7      |

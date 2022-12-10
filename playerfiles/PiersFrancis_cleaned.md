@@ -1,0 +1,98 @@
+---  
+layout: page  
+title: Piers Francis  
+date: 2022-12-09 13:05:05.235374  
+categories: player  
+---
+# Piers Francis
+
+## Positions: C, FH
+
+## Country: England
+
+## Current elo: 109.0
+
+## Current Percentile: 84.0
+
+# Elo History
+
+
+![elo history](history_PiersFrancis.png)
+# Match History
+
+
+| Team               |   Appearances |   Win Rate |
+|:-------------------|--------------:|-----------:|
+| Northampton Saints |            78 |   0.384615 |
+| Blues              |            24 |   0.5625   |
+| Counties Manukau   |            19 |   0.526316 |
+| Edinburgh          |            18 |   0.166667 |
+| England            |            10 |   0.7      |
+| Bath Rugby         |             6 |   0        |
+| Auckland           |             2 |   0.5      |
+| Waikato            |             1 |   1        |
+
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Sale Sharks              |         9 |   0.222222 |
+| Wasps                    |         9 |   0.555556 |
+| Gloucester Rugby         |         8 |   0.25     |
+| Exeter Chiefs            |         8 |   0.25     |
+| Bath Rugby               |         7 |   0.285714 |
+| Harlequins               |         7 |   0.571429 |
+| Worcester Warriors       |         6 |   0.833333 |
+| Saracens                 |         6 |   0        |
+| Bristol Rugby            |         6 |   0.166667 |
+| Leicester Tigers         |         4 |   0.75     |
+| London Irish             |         4 |   0.5      |
+| Munster                  |         3 |   0        |
+| Leinster                 |         3 |   0        |
+| Glasgow Warriors         |         3 |   0        |
+| Clermont Auvergne        |         3 |   0        |
+| Chiefs                   |         3 |   0.166667 |
+| Newcastle Falcons        |         3 |   0        |
+| Ospreys                  |         3 |   0        |
+| Tasman                   |         3 |   0.333333 |
+| Melbourne Rebels         |         2 |   1        |
+| Auckland                 |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   1        |
+| Taranaki                 |         2 |   0        |
+| North Harbour            |         2 |   0        |
+| Racing 92                |         2 |   0        |
+| Argentina                |         2 |   1        |
+| Highlanders              |         2 |   0        |
+| Western Force            |         2 |   1        |
+| Wellington               |         2 |   0.5      |
+| Hawke's Bay              |         2 |   0.5      |
+| Dragons                  |         2 |   1        |
+| Crusaders                |         2 |   0        |
+| Wales                    |         2 |   0.5      |
+| Hurricanes               |         2 |   0        |
+| Waikato                  |         2 |   1        |
+| Canterbury               |         2 |   0.5      |
+| Sharks                   |         1 |   1        |
+| Scarlets                 |         1 |   0        |
+| Stormers                 |         1 |   0        |
+| Ulster                   |         1 |   1        |
+| South Africa             |         1 |   0        |
+| Southern Kings           |         1 |   1        |
+| Samoa                    |         1 |   1        |
+| United States of America |         1 |   1        |
+| Lyon                     |         1 |   1        |
+| Queensland Reds          |         1 |   1        |
+| Connacht                 |         1 |   0        |
+| Barbarians               |         1 |   0        |
+| Bay of Plenty            |         1 |   1        |
+| Benetton Treviso         |         1 |   0        |
+| Brumbies                 |         1 |   1        |
+| Bulls                    |         1 |   1        |
+| Cheetahs                 |         1 |   1        |
+| Counties Manukau         |         1 |   1        |
+| Otago                    |         1 |   1        |
+| Ireland                  |         1 |   1        |
+| Italy                    |         1 |   1        |
+| Jaguares                 |         1 |   1        |
+| Lions                    |         1 |   0        |
+| Manawatu                 |         1 |   1        |
+| Northland                |         1 |   1        |
+| Zebre                    |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yann Lesgourgues  
-date: 2022-11-16 11:37:40.496736  
+date: 2022-12-09 13:10:46.712722  
 categories: player  
 ---
 # Yann Lesgourgues
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bordeaux Begles    |           187 |   0.540107 |
+| Bordeaux Begles    |           189 |   0.539683 |
 | Biarritz Olympique |            87 |   0.425287 |
 | France             |             1 |   0        |
 
@@ -34,14 +34,14 @@ categories: player
 | Racing 92            |        18 |   0.444444 |
 | Toulon               |        17 |   0.411765 |
 | Castres Olympique    |        17 |   0.382353 |
-| Lyon                 |        15 |   0.5      |
 | Stade Francais Paris |        15 |   0.533333 |
+| Lyon                 |        15 |   0.5      |
 | La Rochelle          |        14 |   0.428571 |
+| Brive                |        14 |   0.75     |
 | Montpellier Herault  |        13 |   0.384615 |
 | Bayonne              |        13 |   0.538462 |
-| Brive                |        13 |   0.730769 |
+| Perpignan            |        12 |   0.541667 |
 | Agen                 |        12 |   0.875    |
-| Perpignan            |        11 |   0.590909 |
 | Pau                  |        11 |   0.454545 |
 | Grenoble             |         8 |   0.75     |
 | Oyonnax              |         7 |   0.571429 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Emile Dayral  
-date: 2022-11-22 11:37:27.522447  
+date: 2022-12-09 13:04:49.107498  
 categories: player  
 ---
 # Emile Dayral
 
 ## Positions: FH
 
-## Current elo: 99.0
+## Current elo: 93.0
 
-## Current Percentile: 55.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,11 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |             5 |        0.2 |
+| Agen   |             8 |       0.25 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
+| Beziers        |         2 |          0 |
 | Oyonnax        |         2 |          0 |
 | Bayonne        |         1 |          0 |
-| Beziers        |         1 |          0 |
+| Carcassonne    |         1 |          0 |
+| Massy          |         1 |          1 |
 | Provence Rugby |         1 |          1 |

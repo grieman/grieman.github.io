@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peter O'Mahony  
-date: 2022-11-22 11:33:22.555846  
+date: 2022-12-09 13:18:48.227656  
 categories: player  
 ---
 # Peter O'Mahony
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 11.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Munster                 |           153 |   0.683007 |
+| Munster                 |           155 |   0.687097 |
 | Ireland                 |            82 |   0.670732 |
 | British and Irish Lions |             4 |   0.5      |
 
@@ -32,11 +32,11 @@ categories: player
 | Leinster                 |        17 |   0.176471 |
 | Ulster                   |        13 |   0.576923 |
 | Wales                    |        12 |   0.5      |
+| Connacht                 |        12 |   0.75     |
 | England                  |        12 |   0.416667 |
 | Ospreys                  |        11 |   0.636364 |
-| Connacht                 |        11 |   0.727273 |
+| Edinburgh                |        10 |   0.9      |
 | France                   |        10 |   0.7      |
-| Edinburgh                |         9 |   0.888889 |
 | New Zealand              |         9 |   0.333333 |
 | Glasgow Warriors         |         9 |   0.888889 |
 | Scotland                 |         9 |   0.888889 |

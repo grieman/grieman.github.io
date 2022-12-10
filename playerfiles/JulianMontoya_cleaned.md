@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian Montoya  
-date: 2022-11-22 11:31:04.916127  
+date: 2022-12-09 13:21:05.699668  
 categories: player  
 ---
 # Julian Montoya
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 80.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Argentina        |            79 |   0.278481 |
 | Jaguares         |            62 |   0.516129 |
-| Leicester Tigers |            25 |   0.8      |
+| Leicester Tigers |            27 |   0.796296 |
 | Newman           |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -52,13 +52,13 @@ categories: player
 | Northampton Saints       |         3 |   1        |
 | Wasps                    |         3 |   0.666667 |
 | Worcester Warriors       |         3 |   1        |
+| London Irish             |         3 |   1        |
 | Harlequins               |         3 |   0.666667 |
 | Blues                    |         3 |   0.666667 |
+| Bristol Rugby            |         3 |   0.833333 |
 | Melbourne Rebels         |         2 |   1        |
-| London Irish             |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Highlanders              |         2 |   0        |
-| Bristol Rugby            |         2 |   1        |
 | Georgia                  |         2 |   1        |
 | Tonga                    |         2 |   1        |
 | Crusaders                |         2 |   0        |

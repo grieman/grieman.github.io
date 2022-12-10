@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sebastian de Chaves  
-date: 2022-11-22 11:37:30.489032  
+date: 2022-12-09 13:09:36.716241  
 categories: player  
 ---
 # Sebastian de Chaves
 
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 95.0
 
-## Current Percentile: 53.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | London Irish      |            56 |   0.5      |
 | Austin Gilgronis  |            17 |   0.529412 |
 | Mont-de-Marsan    |            13 |   0.153846 |
-| Newcastle Falcons |            11 |   0.454545 |
+| Newcastle Falcons |            13 |   0.461538 |
 | Wasps             |             3 |   0        |
 | Austin Herd       |             1 |   0        |
 
@@ -34,8 +34,8 @@ categories: player
 | Gloucester Rugby       |        12 |  0.416667  |
 | Bath Rugby             |        11 |  0.136364  |
 | Northampton Saints     |         9 |  0.388889  |
-| London Irish           |         7 |  0.571429  |
-| Exeter Chiefs          |         7 |  0.428571  |
+| London Irish           |         8 |  0.5       |
+| Exeter Chiefs          |         8 |  0.5       |
 | Saracens               |         7 |  0.0714286 |
 | Sale Sharks            |         7 |  0.571429  |
 | Newcastle Falcons      |         7 |  0.571429  |

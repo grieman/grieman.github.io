@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manuel Zuliani  
-date: 2022-11-22 11:30:48.833494  
+date: 2022-12-09 13:04:59.401034  
 categories: player  
 ---
 # Manuel Zuliani
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 37.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -23,21 +23,21 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            25 |       0.28 |
-| Italy            |             5 |       0.4  |
-| Calvisano        |             1 |       0    |
+| Benetton Treviso |            27 |   0.296296 |
+| Italy            |             5 |   0.4      |
+| Calvisano        |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Zebre            |         5 |   0.4      |
 | Glasgow Warriors |         4 |   0.5      |
 | Cardiff Blues    |         3 |   0        |
+| Connacht         |         3 |   0        |
 | Munster          |         3 |   0        |
 | Scarlets         |         3 |   0.333333 |
 | Bulls            |         2 |   0        |
-| Connacht         |         2 |   0        |
+| Edinburgh        |         2 |   0.5      |
 | Dragons          |         1 |   1        |
-| Edinburgh        |         1 |   0        |
 | France           |         1 |   0        |
 | Ireland          |         1 |   0        |
 | Lions            |         1 |   0        |

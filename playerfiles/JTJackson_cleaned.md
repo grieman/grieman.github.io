@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: JT Jackson  
-date: 2022-11-22 11:45:09.264500  
+date: 2022-12-09 13:07:35.808296  
 categories: player  
 ---
 # JT Jackson
 
 ## Positions: C, FH
 
-## Current elo: 80.0
+## Current elo: 81.0
 
-## Current Percentile: 8.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rouen          |            15 |   0.333333 |
+| Rouen          |            17 |   0.352941 |
 | Southern Kings |             9 |   0.111111 |
 | Blue Bulls     |             6 |   0.5      |
 | Bulls          |             5 |   0.2      |
@@ -30,13 +30,14 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Agen                |         2 |        0.5 |
 | Cheetahs            |         2 |        0   |
+| Montauban           |         2 |        0.5 |
 | Jaguares            |         2 |        0   |
-| Grenoble            |         2 |        0.5 |
-| Golden Lions        |         2 |        0   |
 | Griquas             |         2 |        1   |
+| Golden Lions        |         2 |        0   |
+| Grenoble            |         2 |        0.5 |
 | Carcassonne         |         2 |        0   |
 | Cardiff Blues       |         1 |        0   |
-| Montauban           |         1 |        0   |
+| Biarritz Olympique  |         1 |        1   |
 | Ulster              |         1 |        0   |
 | Pumas               |         1 |        0   |
 | Provence Rugby      |         1 |        1   |
@@ -49,8 +50,8 @@ categories: player
 | Colomiers           |         1 |        0   |
 | Blues               |         1 |        0.5 |
 | Highlanders         |         1 |        0.5 |
-| Biarritz Olympique  |         1 |        1   |
 | Brumbies            |         1 |        0   |
+| Beziers             |         1 |        0   |
 | Glasgow Warriors    |         1 |        0   |
 | Free State Cheetahs |         1 |        1   |
 | Edinburgh           |         1 |        0   |

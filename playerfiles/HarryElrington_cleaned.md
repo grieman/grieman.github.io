@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry Elrington  
-date: 2022-11-22 11:33:07.633966  
+date: 2022-12-09 13:06:09.949281  
 categories: player  
 ---
 # Harry Elrington
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -22,17 +22,17 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | London Irish     |            53 |   0.301887 |
-| Gloucester Rugby |            25 |   0.5      |
+| Gloucester Rugby |            27 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Wasps                |         7 |   0.428571 |
+| Northampton Saints   |         7 |   0.428571 |
 | Worcester Warriors   |         6 |   0.333333 |
 | Sale Sharks          |         6 |   0.166667 |
-| Northampton Saints   |         6 |   0.333333 |
+| Harlequins           |         6 |   0.25     |
 | Gloucester Rugby     |         5 |   0.2      |
 | Leicester Tigers     |         5 |   0.2      |
-| Harlequins           |         5 |   0.3      |
 | Bath Rugby           |         5 |   0.2      |
 | Exeter Chiefs        |         5 |   0.4      |
 | Bristol Rugby        |         5 |   0.5      |

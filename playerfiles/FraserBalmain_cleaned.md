@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fraser Balmain  
-date: 2022-11-22 11:28:06.583294  
+date: 2022-12-09 13:17:21.593851  
 categories: player  
 ---
 # Fraser Balmain
 
 ## Positions: P
 
-## Current elo: 83.0
+## Current elo: 86.0
 
-## Current Percentile: 13.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |           125 |   0.66     |
-| Gloucester Rugby |           111 |   0.459459 |
+| Gloucester Rugby |           113 |   0.460177 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bath Rugby           |        21 |   0.47619  |
 | Exeter Chiefs        |        20 |   0.55     |
-| Harlequins           |        19 |   0.315789 |
-| Northampton Saints   |        19 |   0.657895 |
+| Harlequins           |        20 |   0.3      |
+| Northampton Saints   |        20 |   0.675    |
 | Wasps                |        18 |   0.638889 |
 | London Irish         |        16 |   0.8125   |
 | Saracens             |        16 |   0.40625  |

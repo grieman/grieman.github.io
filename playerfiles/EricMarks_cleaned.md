@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eric Marks  
-date: 2022-11-22 11:47:08.631678  
+date: 2022-12-09 13:06:40.373913  
 categories: player  
 ---
 # Eric Marks
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 67.0
+## Current elo: 64.0
 
 ## Current Percentile: 1.0
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Vannes  |            38 |   0.618421 |
+| Vannes  |            40 |   0.6      |
 | Germany |            22 |   0.318182 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Montauban                  |         4 |   0.625    |
 | Biarritz Olympique         |         4 |   0.25     |
 | Provence Rugby             |         4 |   0.5      |
 | Colomiers                  |         4 |   0.5      |
-| Montauban                  |         3 |   0.666667 |
+| Mont-de-Marsan             |         4 |   0.75     |
 | Rouen                      |         3 |   0.333333 |
 | Brazil                     |         3 |   1        |
 | Soyaux-Angouleme           |         3 |   0.333333 |
-| Mont-de-Marsan             |         3 |   1        |
 | Aurillac                   |         2 |   0.5      |
 | Romania                    |         2 |   0        |
 | Spain                      |         2 |   0        |

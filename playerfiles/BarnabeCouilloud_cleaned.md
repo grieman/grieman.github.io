@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Barnabe Couilloud  
-date: 2022-11-22 11:32:01.397807  
+date: 2022-12-09 13:13:37.391463  
 categories: player  
 ---
 # Barnabe Couilloud
 
 ## Positions: SH
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 8.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,28 +21,28 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            50 |       0.55 |
+| Biarritz Olympique |            51 |    0.54902 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Soyaux-Angouleme           |         3 |   1        |
+| Grenoble                   |         3 |   0.833333 |
 | Perpignan                  |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.666667 |
 | Aurillac                   |         3 |   1        |
-| Nevers                     |         2 |   0.75     |
-| Montauban                  |         2 |   1        |
-| Mont-de-Marsan             |         2 |   0.25     |
-| Provence Rugby             |         2 |   0.75     |
-| Stade Toulousain           |         2 |   0        |
-| Rouen                      |         2 |   0.5      |
-| Colomiers                  |         2 |   0.5      |
-| Clermont Auvergne          |         2 |   0        |
-| Castres Olympique          |         2 |   0        |
+| Soyaux-Angouleme           |         3 |   1        |
 | Carcassonne                |         2 |   1        |
+| Castres Olympique          |         2 |   0        |
+| Clermont Auvergne          |         2 |   0        |
+| Colomiers                  |         2 |   0.5      |
 | Racing 92                  |         2 |   0.5      |
+| Stade Toulousain           |         2 |   0        |
+| Provence Rugby             |         2 |   0.75     |
+| Mont-de-Marsan             |         2 |   0.25     |
+| Montauban                  |         2 |   1        |
 | Bordeaux Begles            |         2 |   0.5      |
+| Nevers                     |         2 |   0.75     |
 | Beziers                    |         2 |   0.5      |
-| Grenoble                   |         2 |   1        |
+| Rouen                      |         2 |   0.5      |
 | Agen                       |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Toulon                     |         1 |   0        |

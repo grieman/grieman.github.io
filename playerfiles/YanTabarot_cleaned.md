@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yan Tabarot  
-date: 2022-11-22 11:26:20.351588  
+date: 2022-12-09 13:07:47.976976  
 categories: player  
 ---
 # Yan Tabarot
 
 ## Positions: H
 
-## Current elo: 85.0
+## Current elo: 82.0
 
-## Current Percentile: 21.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -22,17 +22,18 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Dijon               |            11 |   0.318182 |
-| Carqueiranne-Hyères |             2 |   0        |
+| Carqueiranne-Hyères |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Blagnac                    |         2 |       0    |
-| Dax                        |         2 |       0.5  |
-| Tarbes                     |         2 |       0.25 |
-| Albi                       |         1 |       0    |
-| Aubenas                    |         1 |       1    |
-| Chambery                   |         1 |       0    |
-| Cognac Saint Jean d'Angély |         1 |       0    |
-| Nice                       |         1 |       1    |
-| Rennes                     |         1 |       0    |
-| Soyaux-Angouleme           |         1 |       0    |
+| Dax                        |         3 |   0.333333 |
+| Blagnac                    |         2 |   0        |
+| Tarbes                     |         2 |   0.25     |
+| Albi                       |         1 |   0        |
+| Aubenas                    |         1 |   1        |
+| Chambery                   |         1 |   0        |
+| Cognac Saint Jean d'Angély |         1 |   0        |
+| Narbonne                   |         1 |   0        |
+| Nice                       |         1 |   1        |
+| Rennes                     |         1 |   0        |
+| Soyaux-Angouleme           |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Luc Innocente  
-date: 2022-11-22 11:37:23.044015  
+date: 2022-12-09 13:17:33.628900  
 categories: player  
 ---
 # Jean-Luc Innocente
 
 ## Positions: P
 
-## Current elo: 86.0
+## Current elo: 87.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,25 +21,25 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            35 |   0.514286 |
+| Mont-de-Marsan |            37 |   0.540541 |
 | Narbonne       |            19 |   0.394737 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Carcassonne                |         4 |   0.5      |
+| Vannes                     |         4 |   1        |
 | Oyonnax                    |         4 |   0.125    |
 | Montauban                  |         4 |   0.25     |
-| Agen                       |         3 |   0.666667 |
-| Soyaux-Angouleme           |         3 |   0.666667 |
-| Grenoble                   |         3 |   0.5      |
+| Carcassonne                |         4 |   0.5      |
 | Colomiers                  |         3 |   0.333333 |
-| Mont-de-Marsan             |         3 |   0.333333 |
+| Soyaux-Angouleme           |         3 |   0.666667 |
+| Nevers                     |         3 |   0.666667 |
+| Grenoble                   |         3 |   0.5      |
+| Agen                       |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.166667 |
 | Bayonne                    |         3 |   0.666667 |
-| Vannes                     |         3 |   1        |
+| Mont-de-Marsan             |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Beziers                    |         2 |   1        |
-| Nevers                     |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
 | Provence Rugby             |         2 |   0.5      |
 | Rouen                      |         2 |   0.5      |

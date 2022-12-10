@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mehdi Boundjema  
-date: 2022-11-22 11:30:42.083308  
+date: 2022-12-09 13:18:14.260083  
 categories: player  
 ---
 # Mehdi Boundjema
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Algeria
 
-## Current elo: 103.0
+## Current elo: 104.0
 
 ## Current Percentile: 77.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Pau                        |            50 |   0.45     |
-| Valence Romans Drome Rugby |            19 |   0.763158 |
+| Valence Romans Drome Rugby |            21 |   0.738095 |
 | Soyaux-Angouleme           |            17 |   0.264706 |
 | Albi                       |             4 |   0.625    |
 | Algeria                    |             3 |   0.666667 |
@@ -32,41 +32,41 @@ categories: player
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         5 |   0.7      |
 | Carcassonne                |         5 |   0.3      |
+| Bourgoin-Jallieu           |         5 |   0.7      |
 | Perpignan                  |         4 |   0        |
-| Brive                      |         4 |   0        |
 | Grenoble                   |         4 |   0.5      |
-| Racing 92                  |         3 |   0.5      |
-| Nice                       |         3 |   0.833333 |
-| Aurillac                   |         3 |   0.333333 |
-| Nevers                     |         3 |   0.5      |
-| Massy                      |         3 |   0.5      |
+| Brive                      |         4 |   0        |
 | Biarritz Olympique         |         3 |   0.666667 |
 | Castres Olympique          |         3 |   0.333333 |
-| Dragons                    |         2 |   0        |
-| Lyon                       |         2 |   0.5      |
-| Albi                       |         2 |   0.5      |
-| La Rochelle                |         2 |   0.5      |
-| Colomiers                  |         2 |   0.5      |
+| Massy                      |         3 |   0.5      |
+| Tarbes                     |         3 |   0.666667 |
+| Nevers                     |         3 |   0.5      |
+| Aurillac                   |         3 |   0.333333 |
+| Nice                       |         3 |   0.833333 |
+| Racing 92                  |         3 |   0.5      |
 | Montpellier Herault        |         2 |   0.5      |
 | Dax                        |         2 |   0        |
+| Lyon                       |         2 |   0.5      |
+| La Rochelle                |         2 |   0.5      |
+| Albi                       |         2 |   0.5      |
+| Dragons                    |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
+| Colomiers                  |         2 |   0.5      |
 | Clermont Auvergne          |         2 |   0        |
 | Stade Toulousain           |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Bordeaux Begles            |         2 |   0        |
 | Blagnac                    |         2 |   1        |
 | Beziers                    |         2 |   0.5      |
-| Tarbes                     |         2 |   0.5      |
+| US Bressane                |         2 |   0        |
 | Aubenas                    |         2 |   1        |
-| Provence Rugby             |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
+| Provence Rugby             |         1 |   1        |
 | Senegal                    |         1 |   1        |
 | Sale Sharks                |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Toulon                     |         1 |   0        |
-| US Bressane                |         1 |   0        |
 | Agen                       |         1 |   0        |
 | Kenya                      |         1 |   0        |
 | Oyonnax                    |         1 |   0        |

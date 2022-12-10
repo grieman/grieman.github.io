@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kote Mikautadze  
-date: 2022-11-22 11:36:42.203676  
+date: 2022-12-09 13:10:36.868772  
 categories: player  
 ---
 # Kote Mikautadze
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 11.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Montpellier Herault |            65 |   0.592308 |
 | Toulon              |            48 |   0.666667 |
 | Georgia             |            39 |   0.448718 |
-| Bayonne             |            36 |   0.569444 |
+| Bayonne             |            38 |   0.565789 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -34,44 +34,44 @@ categories: player
 | La Rochelle              |        10 |   0.4      |
 | Bordeaux Begles          |        10 |   0.55     |
 | Toulon                   |         8 |   0.6875   |
-| Castres Olympique        |         8 |   0.625    |
-| Racing 92                |         8 |   0.375    |
 | Clermont Auvergne        |         8 |   0.5      |
+| Racing 92                |         8 |   0.375    |
+| Castres Olympique        |         8 |   0.625    |
 | Pau                      |         7 |   0.571429 |
 | Stade Francais Paris     |         7 |   0.5      |
 | Brive                    |         7 |   0.714286 |
 | Grenoble                 |         7 |   0.571429 |
+| Montpellier Herault      |         6 |   0.666667 |
 | Agen                     |         6 |   1        |
-| Montpellier Herault      |         5 |   0.8      |
 | Bayonne                  |         5 |   1        |
-| Lyon                     |         4 |   0.5      |
+| Lyon                     |         5 |   0.6      |
 | Leinster                 |         4 |   0.5      |
+| Japan                    |         3 |   0        |
+| Samoa                    |         3 |   0.666667 |
+| Scotland                 |         3 |   0        |
+| Argentina                |         3 |   0        |
 | Wales                    |         3 |   0.333333 |
 | United States of America |         3 |   0.666667 |
-| Scotland                 |         3 |   0        |
-| Japan                    |         3 |   0        |
-| Argentina                |         3 |   0        |
 | Canada                   |         3 |   1        |
 | Glasgow Warriors         |         3 |   1        |
-| Samoa                    |         3 |   0.666667 |
-| Newcastle Falcons        |         2 |   0.5      |
-| Oyonnax                  |         2 |   1        |
-| Wasps                    |         2 |   0.5      |
-| Perpignan                |         2 |   0.5      |
-| Northampton Saints       |         2 |   0.5      |
-| Uruguay                  |         2 |   1        |
-| Tonga                    |         2 |   0.5      |
 | Beziers                  |         2 |   0.5      |
-| US Bressane              |         2 |   1        |
-| Gloucester Rugby         |         2 |   0.5      |
 | Fiji                     |         2 |   0.25     |
-| Exeter Chiefs            |         2 |   0.5      |
+| Perpignan                |         2 |   0.5      |
+| Wasps                    |         2 |   0.5      |
+| Oyonnax                  |         2 |   1        |
+| Northampton Saints       |         2 |   0.5      |
+| Newcastle Falcons        |         2 |   0.5      |
 | Romania                  |         2 |   1        |
-| Vannes                   |         1 |   1        |
+| Gloucester Rugby         |         2 |   0.5      |
+| Exeter Chiefs            |         2 |   0.5      |
+| Tonga                    |         2 |   0.5      |
+| Uruguay                  |         2 |   1        |
+| US Bressane              |         2 |   1        |
 | Spain                    |         1 |   1        |
-| South Africa             |         1 |   0        |
 | Ulster                   |         1 |   1        |
+| Vannes                   |         1 |   1        |
 | Rouen                    |         1 |   1        |
+| South Africa             |         1 |   0        |
 | Narbonne                 |         1 |   1        |
 | Provence Rugby           |         1 |   0        |
 | Portugal                 |         1 |   1        |

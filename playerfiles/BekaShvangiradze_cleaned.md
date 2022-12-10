@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Shvangiradze  
-date: 2022-11-22 11:31:04.469534  
+date: 2022-12-09 13:18:51.668740  
 categories: player  
 ---
 # Beka Shvangiradze

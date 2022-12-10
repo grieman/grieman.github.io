@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ted Hill  
-date: 2022-11-16 11:40:39.643633  
+date: 2022-12-09 13:18:15.172584  
 categories: player  
 ---
 # Ted Hill
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 46.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -24,14 +24,14 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            82 |   0.323171 |
-| Bath Rugby         |             3 |   1        |
+| Bath Rugby         |             4 |   0.75     |
 | England            |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Harlequins           |         9 |   0.333333 |
 | Leicester Tigers     |         8 |   0.5      |
 | Northampton Saints   |         8 |   0.125    |
-| Harlequins           |         8 |   0.375    |
 | Bath Rugby           |         7 |   0.285714 |
 | Sale Sharks          |         7 |   0.428571 |
 | Saracens             |         6 |   0.333333 |

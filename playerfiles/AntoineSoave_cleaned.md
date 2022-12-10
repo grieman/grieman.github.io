@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Soave  
-date: 2022-11-22 11:32:52.650753  
+date: 2022-12-09 13:07:17.888157  
 categories: player  
 ---
 # Antoine Soave
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 73.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Massy          |            23 |   0.326087 |
 | Provence Rugby |            11 |   0.363636 |
-| Albi           |             5 |   0.4      |
+| Albi           |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         4 |   0        |
+| US Bressane                |         4 |   0.5      |
 | Carcassonne                |         4 |   0.5      |
 | Montauban                  |         4 |   0.25     |
-| US Bressane                |         3 |   0.333333 |
 | Colomiers                  |         3 |   0.333333 |
 | Nevers                     |         3 |   0        |
 | Provence Rugby             |         2 |   0.5      |
@@ -44,6 +44,7 @@ categories: player
 | Oyonnax                    |         1 |   0        |
 | Beziers                    |         1 |   0        |
 | Grenoble                   |         1 |   1        |
+| Chambery                   |         1 |   1        |
 | Brive                      |         1 |   1        |
 | Blagnac                    |         1 |   0        |
 | Biarritz Olympique         |         1 |   1        |

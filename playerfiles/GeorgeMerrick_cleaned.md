@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George Merrick  
-date: 2022-11-22 11:35:12.709460  
+date: 2022-12-09 13:10:10.222572  
 categories: player  
 ---
 # George Merrick
 
 ## Positions: L
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: None
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -25,6 +25,7 @@ categories: player
 | Newcastle Falcons  |             9 |   0.222222 |
 | Clermont Auvergne  |             7 |   0.428571 |
 | Worcester Warriors |             7 |   0.142857 |
+| Carcassonne        |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -44,22 +45,23 @@ categories: player
 | Agen                 |         2 |   1        |
 | Benetton Treviso     |         2 |   0.5      |
 | Ulster               |         2 |   0        |
-| La Rochelle          |         2 |   0        |
 | Timisoara Saracens   |         2 |   1        |
+| La Rochelle          |         2 |   0        |
 | Cardiff Blues        |         2 |   0.5      |
 | Calvisano            |         2 |   1        |
-| Racing 92            |         1 |   0        |
+| Provence Rugby       |         1 |   0        |
 | Toulon               |         1 |   0        |
 | Scarlets             |         1 |   0        |
 | Bordeaux Begles      |         1 |   0        |
-| Edinburgh            |         1 |   0        |
-| Pau                  |         1 |   0        |
+| Racing 92            |         1 |   0        |
 | Dragons              |         1 |   1        |
+| Pau                  |         1 |   0        |
+| Edinburgh            |         1 |   0        |
 | Brive                |         1 |   0        |
 | Montpellier Herault  |         1 |   0        |
 | London Welsh         |         1 |   1        |
-| Castres Olympique    |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Grenoble             |         1 |   0        |
+| Castres Olympique    |         1 |   1        |
 | Clermont Auvergne    |         1 |   0        |
 | Ospreys              |         1 |   0        |

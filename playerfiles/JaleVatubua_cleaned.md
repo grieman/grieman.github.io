@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jale Vatubua  
-date: 2022-11-16 11:22:39.931327  
+date: 2022-12-09 13:09:01.659972  
 categories: player  
 ---
 # Jale Vatubua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 67.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |           162 |   0.388889 |
+| Pau    |           163 |   0.386503 |
 | Fiji   |            13 |   0.384615 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Castres Olympique    |        14 |   0.214286 |
+| Castres Olympique    |        15 |   0.2      |
 | Stade Francais Paris |        13 |   0.461538 |
 | Clermont Auvergne    |        12 |   0.25     |
 | Montpellier Herault  |        12 |   0.5      |

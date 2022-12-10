@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Nick Timoney  
-date: 2022-11-16 11:35:35.206307  
+date: 2022-12-09 13:16:17.447804  
 categories: player  
 ---
 # Nick Timoney
 
-## Positions: FL, N8
+## Positions: N8, FL
 
 ## Country: Ireland
 
-## Current elo: 108.0
+## Current elo: 111.0
 
-## Current Percentile: 90.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |            94 |   0.654255 |
+| Ulster  |            95 |   0.647368 |
 | Ireland |             4 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Leinster                 |        13 |   0.307692 |
+| Leinster                 |        14 |   0.285714 |
 | Munster                  |        10 |   0.55     |
 | Connacht                 |         9 |   0.444444 |
 | Scarlets                 |         6 |   0.666667 |

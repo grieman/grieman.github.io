@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lovejoy Chawatama  
-date: 2022-11-22 11:46:39.066651  
+date: 2022-12-09 13:05:49.722968  
 categories: player  
 ---
 # Lovejoy Chawatama
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 97.0
 
-## Current Percentile: 21.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            50 |       0.34 |
-| London Welsh |             2 |       0.5  |
+| London Irish |            52 |   0.346154 |
+| London Welsh |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Worcester Warriors   |         5 |   0.4      |
 | Exeter Chiefs        |         5 |   0.2      |
-| Sale Sharks          |         4 |   0        |
 | Gloucester Rugby     |         4 |   0.25     |
+| Sale Sharks          |         4 |   0        |
+| Leicester Tigers     |         4 |   0.25     |
+| Newcastle Falcons    |         3 |   0.666667 |
 | Bath Rugby           |         3 |   0.666667 |
-| Leicester Tigers     |         3 |   0.333333 |
 | Harlequins           |         3 |   0        |
 | Bristol Rugby        |         3 |   0.333333 |
-| Edinburgh            |         2 |   0        |
 | Krasny Yar           |         2 |   1        |
+| Edinburgh            |         2 |   0        |
 | Wasps                |         2 |   1        |
-| Newcastle Falcons    |         2 |   0.5      |
 | Northampton Saints   |         2 |   0        |
 | Toulon               |         2 |   0        |
 | Bayonne              |         2 |   0.5      |

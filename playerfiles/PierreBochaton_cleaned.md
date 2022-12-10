@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre Bochaton  
-date: 2022-11-16 11:28:11.210800  
+date: 2022-12-09 13:19:02.797642  
 categories: player  
 ---
 # Pierre Bochaton
 
 ## Positions: FL, L
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 54.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            10 |        0.4 |
-| US Bressane     |             5 |        0.8 |
+| Bordeaux Begles |            12 |   0.416667 |
+| US Bressane     |             5 |   0.8      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Toulon                     |         3 |   0.333333 |
 | Aubenas                    |         1 |   1        |
+| Brive                      |         1 |   1        |
 | Castres Olympique          |         1 |   1        |
 | Chambery                   |         1 |   1        |
 | Clermont Auvergne          |         1 |   0        |
@@ -35,6 +36,7 @@ categories: player
 | Massy                      |         1 |   0        |
 | Montpellier Herault        |         1 |   1        |
 | Pau                        |         1 |   0        |
+| Perpignan                  |         1 |   0        |
 | Racing 92                  |         1 |   0        |
 | Stade Francais Paris       |         1 |   1        |
 | Stade Toulousain           |         1 |   0        |

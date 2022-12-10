@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adrea Cocagi  
-date: 2022-11-16 11:38:41.794251  
+date: 2022-12-09 13:22:37.342090  
 categories: player  
 ---
 # Adrea Cocagi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 126.0
+## Current elo: 125.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Perpignan            |            66 |   0.590909 |
-| Castres Olympique    |            47 |   0.680851 |
+| Castres Olympique    |            49 |   0.673469 |
 | Tarbes               |            31 |   0.435484 |
 | Stade Francais Paris |             6 |   0.833333 |
 | Fiji                 |             1 |   0        |
@@ -42,19 +42,19 @@ categories: player
 | Bordeaux Begles      |         6 |  0.0833333 |
 | Aurillac             |         6 |  0.333333  |
 | Brive                |         5 |  0.6       |
-| Narbonne             |         5 |  0.8       |
+| Pau                  |         5 |  1         |
 | Lyon                 |         5 |  0.4       |
+| Narbonne             |         5 |  0.8       |
+| La Rochelle          |         5 |  0.4       |
 | Vannes               |         5 |  0.8       |
 | Montauban            |         5 |  0.9       |
-| Dax                  |         4 |  0.5       |
 | Bayonne              |         4 |  1         |
-| Pau                  |         4 |  1         |
-| La Rochelle          |         4 |  0.5       |
+| Dax                  |         4 |  0.5       |
 | Albi                 |         4 |  0.25      |
 | Beziers              |         4 |  0.75      |
 | Grenoble             |         4 |  0.75      |
-| Soyaux-Angouleme     |         3 |  0.833333  |
 | Toulon               |         3 |  0.666667  |
+| Soyaux-Angouleme     |         3 |  0.833333  |
 | Stade Francais Paris |         3 |  0.666667  |
 | Agen                 |         3 |  0.333333  |
 | Lusitanos XV         |         2 |  1         |

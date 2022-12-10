@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cornell du Preez  
-date: 2022-11-16 11:25:01.256120  
+date: 2022-12-09 13:14:36.201911  
 categories: player  
 ---
 # Cornell du Preez
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 58.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Edinburgh              |           105 |   0.490476 |
 | Worcester Warriors     |            38 |   0.263158 |
-| Toulon                 |            30 |   0.5      |
+| Toulon                 |            32 |   0.5      |
 | Eastern Province Kings |            17 |   0.882353 |
 | Southern Kings         |            14 |   0.25     |
 | Scotland               |             9 |   0.555556 |
@@ -45,10 +45,10 @@ categories: player
 | Gloucester Rugby         |         6 |   0.333333 |
 | Scarlets                 |         6 |   0.416667 |
 | London Irish             |         6 |   0.666667 |
+| Stade Francais Paris     |         6 |   0.5      |
 | Perpignan                |         5 |   0.4      |
 | Northampton Saints       |         5 |   0        |
 | Wasps                    |         5 |   0        |
-| Stade Francais Paris     |         5 |   0.4      |
 | Harlequins               |         4 |   0.75     |
 | Castres Olympique        |         4 |   0        |
 | Pumas                    |         3 |   0.333333 |
@@ -60,16 +60,17 @@ categories: player
 | La Rochelle              |         3 |   0.333333 |
 | Bath Rugby               |         3 |   0        |
 | Clermont Auvergne        |         3 |   0.666667 |
-| Bristol Rugby            |         3 |   0        |
 | Boland Cavaliers         |         3 |   1        |
+| Bristol Rugby            |         3 |   0        |
 | Grenoble                 |         2 |   0.5      |
 | Saracens                 |         2 |   1        |
 | Griffons                 |         2 |   1        |
 | Brive                    |         2 |   0.5      |
+| Racing 92                |         2 |   0        |
 | Border Bulldogs          |         2 |   1        |
-| Southern Kings           |         2 |   1        |
 | Bordeaux Begles          |         2 |   0.5      |
 | Cheetahs                 |         2 |   0        |
+| Southern Kings           |         2 |   1        |
 | Biarritz Olympique       |         2 |   1        |
 | Stormers                 |         2 |   0        |
 | Valke                    |         2 |   1        |
@@ -88,14 +89,13 @@ categories: player
 | Bayonne                  |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
 | Italy                    |         1 |   1        |
-| Sharks                   |         1 |   0        |
 | Exeter Chiefs            |         1 |   0        |
 | New South Wales Waratahs |         1 |   0        |
+| Sharks                   |         1 |   0        |
 | England                  |         1 |   0        |
 | Samoa                    |         1 |   1        |
 | Crusaders                |         1 |   0        |
-| Racing 92                |         1 |   0        |
 | Melbourne Rebels         |         1 |   1        |
-| Brumbies                 |         1 |   0.5      |
 | Chiefs                   |         1 |   0        |
+| Brumbies                 |         1 |   0.5      |
 | Agen                     |         1 |   1        |

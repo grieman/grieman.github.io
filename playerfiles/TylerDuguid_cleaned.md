@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyler Duguid  
-date: 2022-11-16 11:24:47.864516  
+date: 2022-12-09 13:14:20.757821  
 categories: player  
 ---
 # Tyler Duguid
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 27.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,18 +21,19 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            17 |   0.470588 |
+| Montpellier Herault |            19 |   0.473684 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Bayonne              |         2 |        1   |
 | Bordeaux Begles      |         2 |        0   |
 | Castres Olympique    |         2 |        0   |
 | La Rochelle          |         2 |        1   |
 | Pau                  |         2 |        0.5 |
 | Stade Francais Paris |         2 |        0.5 |
 | Toulon               |         2 |        1   |
-| Bayonne              |         1 |        1   |
 | Brive                |         1 |        1   |
+| Clermont Auvergne    |         1 |        0   |
 | Lyon                 |         1 |        0   |
 | Racing 92            |         1 |        0   |
 | Stade Toulousain     |         1 |        0   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Berard  
-date: 2022-11-22 11:44:56.018306  
+date: 2022-12-09 13:23:32.560198  
 categories: player  
 ---
 # Pierre Berard
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 88.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Montpellier Herault |            88 |   0.545455 |
 | Beziers             |            33 |   0.454545 |
-| US Bressane         |            19 |   0.552632 |
+| US Bressane         |            20 |   0.575    |
 | Castres Olympique   |            13 |   0.423077 |
 | La Rochelle         |             8 |   0.5      |
 
@@ -61,18 +61,19 @@ categories: player
 | Bath Rugby                 |         2 |   0.5      |
 | Leicester Tigers           |         2 |   0        |
 | Cardiff Blues              |         2 |   1        |
-| Chambery                   |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   1        |
 | Benetton Treviso           |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Blagnac                    |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   1        |
-| Rennes                     |         1 |   1        |
+| Chambery                   |         1 |   1        |
 | Narbonne                   |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Provence Rugby             |         1 |   1        |
 | Dax                        |         1 |   0        |
-| Lyon                       |         1 |   0        |
+| Leinster                   |         1 |   0.5      |
 | Nice                       |         1 |   1        |
 | Newcastle Falcons          |         1 |   1        |
-| Leinster                   |         1 |   0.5      |
+| Lyon                       |         1 |   0        |

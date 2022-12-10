@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zander Fagerson  
-date: 2022-11-22 11:33:11.639080  
+date: 2022-12-09 13:11:00.049227  
 categories: player  
 ---
 # Zander Fagerson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 121.0
+## Current elo: 122.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |           110 |   0.572727 |
+| Glasgow Warriors |           111 |   0.576577 |
 | Scotland         |            52 |   0.576923 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Edinburgh                |        16 |   0.375    |
 | Leinster                 |        10 |   0.35     |
+| Zebre                    |         8 |   1        |
 | Scarlets                 |         8 |   0.5      |
 | Cardiff Blues            |         8 |   0.75     |
-| Zebre                    |         7 |   1        |
 | Munster                  |         7 |   0.428571 |
 | Connacht                 |         7 |   0.714286 |
 | France                   |         6 |   0.333333 |

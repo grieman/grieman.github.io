@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Bruno  
-date: 2022-11-22 11:34:45.159406  
+date: 2022-12-09 13:06:27.650305  
 categories: player  
 ---
 # Pierre Bruno
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 48.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            34 |   0.191176 |
+| Zebre  |            35 |   0.185714 |
 | Italy  |             7 |   0.571429 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Munster              |         5 |        0   |
-| Glasgow Warriors     |         4 |        0   |
+| Glasgow Warriors     |         5 |        0   |
 | Leinster             |         4 |        0   |
 | Scarlets             |         3 |        0   |
 | Benetton Treviso     |         2 |        0.5 |

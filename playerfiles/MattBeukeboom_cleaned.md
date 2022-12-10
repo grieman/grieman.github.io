@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matt Beukeboom  
-date: 2022-11-22 11:26:12.864848  
+date: 2022-12-09 13:08:19.049406  
 categories: player  
 ---
 # Matt Beukeboom
 
 ## Positions: FL, L
 
-## Current elo: 84.0
+## Current elo: 82.0
 
-## Current Percentile: 14.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Montauban        |            11 |   0.272727 |
-| Soyaux-Angouleme |             8 |   0.375    |
+| Soyaux-Angouleme |             9 |   0.333333 |
 | US Bressane      |             5 |   0.3      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Oyonnax            |         4 |   0        |
 | Carcassonne        |         3 |   0.333333 |
 | Mont-de-Marsan     |         3 |   0        |
-| Oyonnax            |         3 |   0        |
 | Vannes             |         3 |   0.666667 |
 | Grenoble           |         2 |   0.5      |
 | Provence Rugby     |         2 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Isa  
-date: 2022-11-22 11:26:44.308762  
+date: 2022-12-09 13:14:12.865898  
 categories: player  
 ---
 # Facundo Isa
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Toulon    |            92 |   0.576087 |
+| Toulon    |            94 |   0.574468 |
 | Argentina |            39 |   0.448718 |
 | Jaguares  |            13 |   0.307692 |
 | Lyon      |             7 |   0.714286 |
@@ -31,18 +31,18 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |         9 |   0.555556 |
+| Stade Francais Paris |         9 |   0.777778 |
 | Lyon                 |         9 |   0.555556 |
-| Stade Francais Paris |         8 |   0.75     |
 | Stade Toulousain     |         7 |   0.428571 |
 | Pau                  |         7 |   0.928571 |
 | Castres Olympique    |         7 |   0.571429 |
 | Montpellier Herault  |         7 |   0.357143 |
 | Clermont Auvergne    |         7 |   0.571429 |
 | Australia            |         7 |   0.285714 |
+| Racing 92            |         6 |   0.166667 |
 | Brive                |         6 |   0.5      |
 | South Africa         |         5 |   0.2      |
 | Scotland             |         5 |   0.4      |
-| Racing 92            |         5 |   0.2      |
 | France               |         4 |   0.5      |
 | New Zealand          |         4 |   0        |
 | Wales                |         4 |   0.375    |

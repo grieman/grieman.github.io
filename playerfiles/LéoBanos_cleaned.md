@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Léo Banos  
-date: 2022-11-22 11:26:51.411126  
+date: 2022-12-09 13:24:18.941032  
 categories: player  
 ---
 # Léo Banos
 
 ## Positions: FL
 
-## Current elo: 84.0
+## Current elo: 83.0
 
-## Current Percentile: 6.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            28 |   0.607143 |
+| Mont-de-Marsan |            30 |   0.633333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Vannes             |         3 |   0.333333 |
+| Vannes             |         4 |   0.5      |
 | Beziers            |         3 |   0.666667 |
+| Nevers             |         3 |   0.666667 |
 | Colomiers          |         3 |   0.666667 |
 | Narbonne           |         2 |   1        |
 | Provence Rugby     |         2 |   0.5      |
-| Nevers             |         2 |   0.5      |
 | Agen               |         2 |   0.5      |
 | Bayonne            |         2 |   1        |
 | Massy              |         1 |   0        |

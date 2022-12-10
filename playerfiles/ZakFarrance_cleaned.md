@@ -1,0 +1,48 @@
+---  
+layout: page  
+title: Zak Farrance  
+date: 2022-12-09 13:21:40.590950  
+categories: player  
+---
+# Zak Farrance
+
+## Positions: L
+
+## Current elo: 99.0
+
+## Current Percentile: 73.0
+
+# Elo History
+
+
+![elo history](history_ZakFarrance.png)
+# Match History
+
+
+| Team    |   Appearances |   Win Rate |
+|:--------|--------------:|-----------:|
+| Agen    |            15 |   0.666667 |
+| Jersey  |             8 |   0.5625   |
+| Oyonnax |             5 |   0.6      |
+
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Nevers             |         3 |   0.333333 |
+| Grenoble           |         2 |   0.5      |
+| Rouen              |         2 |   1        |
+| Biarritz Olympique |         2 |   0.5      |
+| Carcassonne        |         2 |   1        |
+| Colomiers          |         2 |   0.5      |
+| Richmond           |         2 |   0.5      |
+| Provence Rugby     |         2 |   1        |
+| Massy              |         1 |   1        |
+| Saracens           |         1 |   0        |
+| Oyonnax            |         1 |   0        |
+| Ampthill           |         1 |   0.5      |
+| Hartpury College   |         1 |   1        |
+| Aurillac           |         1 |   1        |
+| Doncaster          |         1 |   0        |
+| Cornish Pirates    |         1 |   1        |
+| Beziers            |         1 |   0        |
+| Bedford            |         1 |   1        |
+| Soyaux-Angouleme   |         1 |   1        |

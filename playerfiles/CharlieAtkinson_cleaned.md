@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charlie Atkinson  
-date: 2022-11-16 11:36:34.334878  
+date: 2022-12-09 13:15:52.869320  
 categories: player  
 ---
 # Charlie Atkinson
 
 ## Positions: FH, FB
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 67.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -22,18 +22,18 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Wasps            |            35 |   0.471429 |
-| Leicester Tigers |             1 |   0        |
+| Leicester Tigers |             3 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Sale Sharks        |         5 |   0.2      |
 | Bath Rugby         |         4 |   0.75     |
+| London Irish       |         4 |   0.625    |
 | Northampton Saints |         4 |   0        |
+| Bristol Rugby      |         3 |   0.166667 |
 | Gloucester Rugby   |         3 |   0.333333 |
 | Leicester Tigers   |         3 |   0.333333 |
-| London Irish       |         3 |   0.5      |
 | Worcester Warriors |         3 |   1        |
-| Bristol Rugby      |         2 |   0        |
 | Exeter Chiefs      |         2 |   1        |
 | Harlequins         |         2 |   0        |
 | Saracens           |         2 |   1        |

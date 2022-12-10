@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Garry Ringrose  
-date: 2022-11-22 11:43:53.890875  
+date: 2022-12-09 13:22:27.809966  
 categories: player  
 ---
 # Garry Ringrose
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 106.0
+## Current elo: 102.0
 
-## Current Percentile: 82.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            93 |   0.801075 |
+| Leinster |            94 |   0.803191 |
 | Ireland  |            48 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Munster                  |        11 |   0.909091 |
-| Ulster                   |         9 |   0.777778 |
+| Ulster                   |        10 |   0.8      |
 | Connacht                 |         8 |   0.75     |
 | New Zealand              |         7 |   0.571429 |
 | Benetton Treviso         |         7 |   1        |

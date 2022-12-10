@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jordan Rochier  
-date: 2022-11-22 11:42:49.256767  
+date: 2022-12-09 13:16:04.379345  
 categories: player  
 ---
 # Jordan Rochier
 
 ## Positions: H
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 32.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Narbonne  |            38 |   0.394737 |
+| Narbonne  |            40 |   0.425    |
 | Montauban |            27 |   0.296296 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -33,21 +33,22 @@ categories: player
 | Bayonne                    |         3 |   0        |
 | Carcassonne                |         3 |   0        |
 | US Bressane                |         3 |   0.666667 |
-| Tarbes                     |         2 |   0.5      |
+| Dax                        |         2 |   0.5      |
 | Nice                       |         2 |   1        |
 | Narbonne                   |         2 |   0        |
 | Montauban                  |         2 |   0        |
 | Massy                      |         2 |   1        |
-| Soyaux-Angouleme           |         2 |   0.5      |
 | Grenoble                   |         2 |   0.25     |
+| Soyaux-Angouleme           |         2 |   0.5      |
 | Oyonnax                    |         2 |   0        |
-| Dax                        |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
+| Tarbes                     |         2 |   0.5      |
 | Blagnac                    |         2 |   0.75     |
 | Beziers                    |         2 |   0.75     |
 | Aubenas                    |         2 |   0.5      |
-| Valence Romans Drome Rugby |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Agen                       |         1 |   1        |
 | Lyon                       |         1 |   0        |
 | Perpignan                  |         1 |   1        |
@@ -56,5 +57,6 @@ categories: player
 | Dijon                      |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Chambery                   |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Vannes                     |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nick Abendanon  
-date: 2022-11-22 11:38:56.861323  
+date: 2022-12-09 13:19:52.020419  
 categories: player  
 ---
 # Nick Abendanon
 
 ## Positions: FB, W
 
-## Current elo: 126.0
+## Current elo: 122.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Bath Rugby        |           184 |   0.543478 |
 | Clermont Auvergne |           117 |   0.679487 |
-| Vannes            |            36 |   0.611111 |
+| Vannes            |            38 |   0.592105 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -57,29 +57,29 @@ categories: player
 | Dragons                    |         5 |   1        |
 | Provence Rugby             |         4 |   0.5      |
 | Yorkshire Carnegie         |         4 |   1        |
-| Bristol Rugby              |         4 |   0.75     |
 | Bayonne                    |         4 |   0.5      |
+| Bristol Rugby              |         4 |   0.75     |
 | La Rochelle                |         4 |   1        |
+| Nevers                     |         3 |   1        |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Carcassonne                |         3 |   0.833333 |
-| Glasgow Warriors           |         3 |   0.666667 |
 | Leinster                   |         3 |   0.333333 |
-| Nevers                     |         3 |   1        |
-| London Welsh               |         2 |   0.5      |
-| Ospreys                    |         2 |   1        |
-| Aironi                     |         2 |   1        |
-| Perpignan                  |         2 |   0.5      |
+| Glasgow Warriors           |         3 |   0.666667 |
+| Mont-de-Marsan             |         2 |   0.5      |
+| Montauban                  |         2 |   0.25     |
+| Aurillac                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Rouen                      |         2 |   0        |
-| Munster                    |         2 |   1        |
-| Aurillac                   |         2 |   0.5      |
 | Edinburgh                  |         2 |   0.5      |
-| Bath Rugby                 |         1 |   1        |
-| US Bressane                |         1 |   1        |
-| Mont-de-Marsan             |         1 |   1        |
-| Bucuresti                  |         1 |   1        |
+| Perpignan                  |         2 |   0.5      |
+| Ospreys                    |         2 |   1        |
+| London Welsh               |         2 |   0.5      |
+| Aironi                     |         2 |   1        |
+| Munster                    |         2 |   1        |
 | Colomiers                  |         1 |   1        |
-| Montauban                  |         1 |   0        |
+| Bucuresti                  |         1 |   1        |
+| US Bressane                |         1 |   1        |
 | Narbonne                   |         1 |   0.5      |
+| Bath Rugby                 |         1 |   1        |
 | Mogliano                   |         1 |   1        |
 | Massy                      |         1 |   1        |

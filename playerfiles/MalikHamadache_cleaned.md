@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Malik Hamadache  
-date: 2022-11-22 11:26:33.256457  
+date: 2022-12-09 13:06:54.160775  
 categories: player  
 ---
 # Malik Hamadache
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 54.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Pau                 |            83 |   0.439759 |
 | Albi                |            43 |   0.488372 |
-| Agen                |             8 |   0.375    |
+| Agen                |            11 |   0.363636 |
 | France              |             1 |   0        |
 | Montpellier Herault |             1 |   0        |
 
@@ -46,27 +46,27 @@ categories: player
 | Bordeaux Begles      |         5 |   0.4      |
 | Mont-de-Marsan       |         4 |   0        |
 | Aurillac             |         4 |   0.75     |
-| Tarbes               |         4 |   0.25     |
 | Bayonne              |         4 |   0.375    |
-| Oyonnax              |         3 |   0.666667 |
-| Brive                |         3 |   0.666667 |
-| Dax                  |         3 |   0.833333 |
-| Provence Rugby       |         3 |   0.666667 |
-| Bourgoin-Jallieu     |         3 |   1        |
-| Pau                  |         3 |   0.333333 |
+| Tarbes               |         4 |   0.25     |
+| Carcassonne          |         4 |   0.5      |
 | Montauban            |         3 |   0        |
-| Carcassonne          |         3 |   0.666667 |
+| Provence Rugby       |         3 |   0.666667 |
+| Pau                  |         3 |   0.333333 |
+| Oyonnax              |         3 |   0.666667 |
+| Beziers              |         3 |   0.166667 |
+| Bourgoin-Jallieu     |         3 |   1        |
+| Dax                  |         3 |   0.833333 |
+| Brive                |         3 |   0.666667 |
+| Massy                |         2 |   1        |
+| Gloucester Rugby     |         2 |   1        |
 | Perpignan            |         2 |   0.5      |
 | Cardiff Blues        |         2 |   0        |
-| Gloucester Rugby     |         2 |   1        |
-| Beziers              |         2 |   0.25     |
 | Soyaux-Angouleme     |         1 |   0        |
-| Rouen                |         1 |   1        |
 | Bath Rugby           |         1 |   0        |
 | Narbonne             |         1 |   0        |
+| Rouen                |         1 |   1        |
 | New Zealand          |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |
-| Massy                |         1 |   1        |
 | Auch                 |         1 |   1        |
 | Bristol Rugby        |         1 |   0        |
 | Worcester Warriors   |         1 |   1        |

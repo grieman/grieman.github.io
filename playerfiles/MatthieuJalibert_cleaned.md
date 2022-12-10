@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matthieu Jalibert  
-date: 2022-11-22 11:28:58.039481  
+date: 2022-12-09 13:16:35.870403  
 categories: player  
 ---
 # Matthieu Jalibert
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 107.0
 
-## Current Percentile: 86.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            81 |   0.617284 |
+| Bordeaux Begles |            83 |   0.614458 |
 | France          |            16 |   0.8125   |
 
 | Opponent             |   Matches |   Win Rate |
@@ -36,29 +36,29 @@ categories: player
 | Toulon               |         5 |   0.4      |
 | Agen                 |         4 |   1        |
 | Stade Francais Paris |         4 |   0.75     |
+| Perpignan            |         4 |   0.5      |
 | Pau                  |         4 |   0.75     |
 | La Rochelle          |         4 |   0.5      |
 | Bayonne              |         4 |   0.75     |
-| Edinburgh            |         3 |   0.833333 |
-| Japan                |         3 |   1        |
-| Perpignan            |         3 |   0.666667 |
+| Brive                |         4 |   0.875    |
 | Clermont Auvergne    |         3 |   0.666667 |
-| Brive                |         3 |   0.833333 |
-| Italy                |         2 |   1        |
-| Wales                |         2 |   1        |
-| Ireland              |         2 |   0.5      |
+| Japan                |         3 |   1        |
+| Edinburgh            |         3 |   0.833333 |
 | Newcastle Falcons    |         2 |   0        |
-| England              |         2 |   0.5      |
+| Wales                |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
-| Scotland             |         1 |   0        |
-| Australia            |         1 |   1        |
+| England              |         2 |   0.5      |
+| Italy                |         2 |   1        |
+| Ireland              |         2 |   0.5      |
+| Dragons              |         1 |   1        |
+| Oyonnax              |         1 |   1        |
 | Georgia              |         1 |   1        |
-| South Africa         |         1 |   1        |
-| Bristol Rugby        |         1 |   0        |
-| Scarlets             |         1 |   1        |
 | Argentina            |         1 |   1        |
 | RC Enisei            |         1 |   1        |
+| Bristol Rugby        |         1 |   0        |
+| Scarlets             |         1 |   1        |
+| Scotland             |         1 |   0        |
+| South Africa         |         1 |   1        |
+| Australia            |         1 |   1        |
 | Grenoble             |         1 |   1        |
-| Oyonnax              |         1 |   1        |
-| Dragons              |         1 |   1        |
 | Wasps                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Raphael Lakafia  
-date: 2022-11-16 11:40:01.394396  
+date: 2022-12-09 13:09:26.455499  
 categories: player  
 ---
 # Raphael Lakafia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Toulon               |           114 |   0.539474 |
+| Toulon               |           116 |   0.538793 |
 | Biarritz Olympique   |            82 |   0.518293 |
 | Stade Francais Paris |            68 |   0.580882 |
 | Grenoble             |            15 |   0.633333 |
@@ -32,11 +32,11 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |        19 |   0.5      |
+| Racing 92            |        18 |   0.388889 |
 | Stade Toulousain     |        17 |   0.264706 |
-| Racing 92            |        17 |   0.411765 |
 | Castres Olympique    |        17 |   0.588235 |
 | Brive                |        16 |   0.75     |
-| Stade Francais Paris |        15 |   0.466667 |
+| Stade Francais Paris |        16 |   0.5      |
 | Bordeaux Begles      |        15 |   0.533333 |
 | Bayonne              |        14 |   0.607143 |
 | Montpellier Herault  |        14 |   0.464286 |

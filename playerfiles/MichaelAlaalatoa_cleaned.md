@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2022-11-22 11:39:06.189700  
+date: 2022-12-09 13:22:26.949413  
 categories: player  
 ---
 # Michael Alaalatoa
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Crusaders                |            96 |   0.854167 |
 | Manawatu                 |            36 |   0.333333 |
-| Leinster                 |            23 |   0.826087 |
+| Leinster                 |            24 |   0.833333 |
 | Samoa                    |            12 |   0.5      |
 | NSW Country Eagles       |             6 |   0.5      |
 | New South Wales Waratahs |             1 |   1        |
@@ -53,12 +53,12 @@ categories: player
 | Wellington               |         3 |   0.666667 |
 | Waikato                  |         3 |   0.333333 |
 | Canterbury               |         3 |   0.333333 |
+| Ulster                   |         3 |   0.666667 |
 | Southland                |         3 |   0.666667 |
 | Stormers                 |         3 |   0.833333 |
 | Connacht                 |         3 |   1        |
 | Tonga                    |         3 |   1        |
 | Tasman                   |         3 |   0.333333 |
-| Ulster                   |         2 |   0.5      |
 | Sunwolves                |         2 |   1        |
 | Munster                  |         2 |   1        |
 | Zebre                    |         2 |   1        |

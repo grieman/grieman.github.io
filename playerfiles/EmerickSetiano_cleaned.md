@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emerick Setiano  
-date: 2022-11-16 11:38:45.191443  
+date: 2022-12-09 13:09:29.181498  
 categories: player  
 ---
 # Emerick Setiano
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 83.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,21 +23,21 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Toulon |           108 |   0.560185 |
+| Toulon |           110 |   0.559091 |
 | France |             5 |   0.8      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | La Rochelle              |        11 |   0.363636 |
+| Stade Francais Paris     |        10 |   0.8      |
 | Stade Toulousain         |        10 |   0.45     |
-| Stade Francais Paris     |         9 |   0.777778 |
 | Pau                      |         8 |   0.6875   |
 | Bordeaux Begles          |         7 |   0.571429 |
 | Lyon                     |         7 |   0.5      |
 | Clermont Auvergne        |         7 |   0.714286 |
+| Racing 92                |         6 |   0.333333 |
 | Montpellier Herault      |         6 |   0.333333 |
 | Castres Olympique        |         6 |   0.666667 |
-| Racing 92                |         5 |   0.4      |
 | Brive                    |         5 |   0.6      |
 | Perpignan                |         5 |   0.6      |
 | Agen                     |         4 |   0.75     |

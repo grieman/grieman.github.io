@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ledua Mau  
-date: 2022-11-22 11:34:36.430007  
+date: 2022-12-09 13:19:21.449132  
 categories: player  
 ---
 # Ledua Mau
 
 ## Positions: C, W
 
-## Current elo: 84.0
+## Current elo: 88.0
 
-## Current Percentile: 17.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |           133 |   0.518797 |
+| Soyaux-Angouleme |           135 |   0.518519 |
 | Albi             |            11 |   0.363636 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,16 +30,16 @@ categories: player
 | Montauban                  |         9 |   0.388889 |
 | Beziers                    |         9 |   0.777778 |
 | Vannes                     |         8 |   0.5      |
-| Colomiers                  |         8 |   0.375    |
 | Biarritz Olympique         |         8 |   0.5      |
 | Perpignan                  |         8 |   0.125    |
 | Carcassonne                |         8 |   0.5625   |
+| Colomiers                  |         8 |   0.375    |
 | Aurillac                   |         7 |   0.714286 |
 | Dax                        |         6 |   0.5      |
-| Massy                      |         5 |   0.5      |
+| Massy                      |         6 |   0.583333 |
+| Oyonnax                    |         6 |   0        |
 | Provence Rugby             |         5 |   0.8      |
 | Rouen                      |         5 |   0.4      |
-| Oyonnax                    |         5 |   0        |
 | Nevers                     |         5 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   1        |
 | Tarbes                     |         3 |   0.666667 |

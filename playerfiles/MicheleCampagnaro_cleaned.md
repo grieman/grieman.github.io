@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michele Campagnaro  
-date: 2022-11-22 11:39:17.901578  
+date: 2022-12-09 13:08:12.934658  
 categories: player  
 ---
 # Michele Campagnaro
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 77.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Italy            |            47 |   0.212766 |
 | Benetton Treviso |            35 |   0.257143 |
 | Exeter Chiefs    |            28 |   0.660714 |
-| Colomiers        |            20 |   0.5      |
+| Colomiers        |            21 |   0.47619  |
 | Wasps            |             8 |   0.25     |
 | Harlequins       |             7 |   0.5      |
 
@@ -37,46 +37,47 @@ categories: player
 | Scotland                 |         5 |   0        |
 | Ospreys                  |         5 |   0.4      |
 | France                   |         5 |   0        |
-| Clermont Auvergne        |         4 |   0.25     |
-| Worcester Warriors       |         4 |   0.75     |
-| England                  |         4 |   0        |
-| Wasps                    |         4 |   0.75     |
-| Saracens                 |         4 |   0.375    |
 | Bordeaux Begles          |         4 |   0.5      |
+| England                  |         4 |   0        |
+| Clermont Auvergne        |         4 |   0.25     |
+| Saracens                 |         4 |   0.375    |
 | Dragons                  |         4 |   0.25     |
-| Gloucester Rugby         |         3 |   0.666667 |
-| Munster                  |         3 |   0.333333 |
-| Japan                    |         3 |   0.333333 |
+| Wasps                    |         4 |   0.75     |
+| Worcester Warriors       |         4 |   0.75     |
+| Canada                   |         3 |   1        |
 | Argentina                |         3 |   0        |
+| Munster                  |         3 |   0.333333 |
 | Northampton Saints       |         3 |   0.333333 |
-| Rouen                    |         3 |   0.666667 |
-| Glasgow Warriors         |         3 |   0        |
+| Japan                    |         3 |   0.333333 |
 | Scarlets                 |         3 |   0.333333 |
+| Gloucester Rugby         |         3 |   0.666667 |
+| Glasgow Warriors         |         3 |   0        |
+| Rouen                    |         3 |   0.666667 |
 | Connacht                 |         3 |   0.5      |
 | Cardiff Blues            |         3 |   0.5      |
-| Bath Rugby               |         3 |   0.333333 |
-| Canada                   |         3 |   1        |
 | Wales                    |         3 |   0        |
-| Georgia                  |         2 |   1        |
-| Nevers                   |         2 |   0.5      |
-| Sale Sharks              |         2 |   1        |
-| Australia                |         2 |   0        |
+| Bath Rugby               |         3 |   0.333333 |
 | South Africa             |         2 |   0        |
-| Racing 92                |         2 |   0        |
 | Provence Rugby           |         2 |   0.5      |
-| Bayonne                  |         2 |   0.5      |
-| Bristol Rugby            |         2 |   1        |
-| Fiji                     |         2 |   0        |
+| Racing 92                |         2 |   0        |
+| Sale Sharks              |         2 |   1        |
 | Montpellier Herault      |         2 |   0        |
-| Vannes                   |         2 |   0.5      |
+| Nevers                   |         2 |   0.5      |
+| Zebre                    |         2 |   1        |
 | Leinster                 |         2 |   0        |
 | Leicester Tigers         |         2 |   0.25     |
+| Georgia                  |         2 |   1        |
+| Fiji                     |         2 |   0        |
+| Vannes                   |         2 |   0.5      |
+| Bristol Rugby            |         2 |   1        |
+| Bayonne                  |         2 |   0.5      |
+| Australia                |         2 |   0        |
+| Aurillac                 |         2 |   0        |
 | Harlequins               |         2 |   0.5      |
-| Zebre                    |         2 |   1        |
+| United States of America |         1 |   1        |
+| US Bressane              |         1 |   0        |
 | Tonga                    |         1 |   0        |
 | Stade Toulousain         |         1 |   0        |
-| US Bressane              |         1 |   0        |
-| United States of America |         1 |   1        |
 | Agen                     |         1 |   1        |
 | Samoa                    |         1 |   1        |
 | Russia                   |         1 |   1        |
@@ -89,5 +90,4 @@ categories: player
 | Carcassonne              |         1 |   0        |
 | Biarritz Olympique       |         1 |   0        |
 | Beziers                  |         1 |   1        |
-| Aurillac                 |         1 |   0        |
 | Mont-de-Marsan           |         1 |   1        |

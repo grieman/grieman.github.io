@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peato Mauvaka  
-date: 2022-11-22 11:29:40.391665  
+date: 2022-12-09 13:10:09.503495  
 categories: player  
 ---
 # Peato Mauvaka
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 116.0
+## Current elo: 113.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            86 |     0.75   |
-| France           |            16 |     0.9375 |
+| Stade Toulousain |            88 |   0.744318 |
+| France           |            16 |   0.9375   |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,31 +34,31 @@ categories: player
 | Bordeaux Begles      |         6 |   0.833333 |
 | Racing 92            |         6 |   0.833333 |
 | Castres Olympique    |         6 |   0.416667 |
+| Lyon                 |         6 |   0.5      |
 | Pau                  |         5 |   0.8      |
 | Montpellier Herault  |         5 |   0.8      |
-| Lyon                 |         5 |   0.6      |
 | Brive                |         4 |   0.75     |
 | Agen                 |         3 |   1        |
 | Wasps                |         3 |   0.666667 |
 | Scotland             |         3 |   0.666667 |
+| Perpignan            |         3 |   1        |
 | Japan                |         3 |   1        |
-| Grenoble             |         2 |   0.5      |
-| England              |         2 |   1        |
-| Bayonne              |         2 |   1        |
-| Stade Francais Paris |         2 |   0.5      |
-| Biarritz Olympique   |         2 |   1        |
 | Connacht             |         2 |   1        |
-| Perpignan            |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
+| Grenoble             |         2 |   0.5      |
 | Leinster             |         2 |   0        |
 | Gloucester Rugby     |         2 |   1        |
+| England              |         2 |   1        |
 | Italy                |         2 |   1        |
-| Exeter Chiefs        |         1 |   0        |
-| New Zealand          |         1 |   1        |
-| Ireland              |         1 |   1        |
-| Cardiff Blues        |         1 |   1        |
-| South Africa         |         1 |   1        |
-| Argentina            |         1 |   1        |
-| Ulster               |         1 |   1        |
-| Wales                |         1 |   1        |
+| Bayonne              |         2 |   1        |
+| Biarritz Olympique   |         2 |   1        |
 | Australia            |         1 |   1        |
+| Wales                |         1 |   1        |
+| Ulster               |         1 |   1        |
+| Ireland              |         1 |   1        |
+| South Africa         |         1 |   1        |
+| Cardiff Blues        |         1 |   1        |
+| New Zealand          |         1 |   1        |
+| Exeter Chiefs        |         1 |   0        |
+| Argentina            |         1 |   1        |
 | Zebre                |         1 |   1        |

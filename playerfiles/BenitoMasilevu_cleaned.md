@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benito Masilevu  
-date: 2022-11-22 11:47:26.317452  
+date: 2022-12-09 13:08:07.961445  
 categories: player  
 ---
 # Benito Masilevu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 114.0
+## Current elo: 116.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Brive    |            92 |   0.461957 |
 | Grenoble |            29 |   0.5      |
 | Agen     |            24 |   0.291667 |
-| Rouen    |             7 |   0.571429 |
+| Rouen    |             8 |   0.625    |
 | Fiji     |             6 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -59,21 +59,21 @@ categories: player
 | Biarritz Olympique         |         2 |   0.5      |
 | Newcastle Falcons          |         2 |   0.5      |
 | Brive                      |         2 |   1        |
-| Valence Romans Drome Rugby |         2 |   1        |
+| Montauban                  |         2 |   0.75     |
 | Aurillac                   |         2 |   0.5      |
 | Connacht                   |         2 |   0.5      |
 | Edinburgh                  |         2 |   0        |
-| Scotland                   |         1 |   1        |
-| Bath Rugby                 |         1 |   0        |
+| Valence Romans Drome Rugby |         2 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
-| Wasps                      |         1 |   0        |
 | Australia                  |         1 |   0        |
+| Bath Rugby                 |         1 |   0        |
+| Wasps                      |         1 |   0        |
 | Georgia                    |         1 |   0        |
+| Scotland                   |         1 |   1        |
 | Beziers                    |         1 |   0        |
 | England                    |         1 |   0        |
 | New Zealand Maori          |         1 |   0        |
 | Narbonne                   |         1 |   1        |
-| Montauban                  |         1 |   0.5      |
 | Italy                      |         1 |   1        |
 | Harlequins                 |         1 |   0        |
 | Massy                      |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sakiusa Bureitakiyaca  
-date: 2022-11-22 11:33:30.939813  
+date: 2022-12-09 13:21:20.916961  
 categories: player  
 ---
 # Sakiusa Bureitakiyaca
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 27.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Dax              |            78 |   0.410256 |
 | Soyaux-Angouleme |            34 |   0.529412 |
-| Nice             |            26 |   0.557692 |
+| Nice             |            28 |   0.589286 |
 | Dijon            |            12 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -40,24 +40,25 @@ categories: player
 | Tarbes                     |         6 |   0.5      |
 | Albi                       |         6 |   0.5      |
 | Soyaux-Angouleme           |         5 |   0.6      |
+| Perpignan                  |         5 |   0.4      |
 | Vannes                     |         5 |   0.6      |
 | Bayonne                    |         5 |   0.5      |
-| Perpignan                  |         5 |   0.4      |
 | Dax                        |         4 |   0        |
-| Suresnes                   |         4 |   0.75     |
 | Provence Rugby             |         4 |   1        |
 | Cognac Saint Jean d'Angély |         4 |   0.5      |
 | US Bressane                |         4 |   0.25     |
+| Suresnes                   |         4 |   0.75     |
+| Oyonnax                    |         3 |   0.333333 |
 | Massy                      |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
-| Oyonnax                    |         3 |   0.333333 |
-| Valence Romans Drome Rugby |         2 |   0        |
+| Blagnac                    |         3 |   0.666667 |
 | Roval Drome XV             |         2 |   0.5      |
-| Agen                       |         2 |   0        |
 | Chambery                   |         2 |   0.5      |
-| Blagnac                    |         2 |   0.5      |
+| Valence Romans Drome Rugby |         2 |   0        |
+| Agen                       |         2 |   0        |
 | Pau                        |         1 |   0        |
+| Lyon                       |         1 |   0        |
 | Grenoble                   |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Dijon                      |         1 |   1        |
 | Aubenas                    |         1 |   1        |
-| Lyon                       |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jefferson Poirot  
-date: 2022-11-16 11:38:18.068519  
+date: 2022-12-09 13:23:35.050200  
 categories: player  
 ---
 # Jefferson Poirot
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 25.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -23,35 +23,35 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           161 |   0.503106 |
+| Bordeaux Begles |           163 |   0.503067 |
 | France          |            36 |   0.430556 |
 | Brive           |             7 |   0.142857 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Clermont Auvergne        |        15 |   0.466667 |
-| Castres Olympique        |        14 |   0.571429 |
 | Racing 92                |        14 |   0.428571 |
+| Castres Olympique        |        14 |   0.571429 |
 | Stade Francais Paris     |        13 |   0.384615 |
 | Montpellier Herault      |        12 |   0.458333 |
 | Lyon                     |        11 |   0.636364 |
-| Brive                    |        10 |   0.6      |
-| La Rochelle              |         9 |   0.444444 |
+| Brive                    |        11 |   0.636364 |
 | Pau                      |         9 |   0.555556 |
 | Toulon                   |         9 |   0.333333 |
+| La Rochelle              |         9 |   0.444444 |
 | Stade Toulousain         |         8 |   0.125    |
 | Scotland                 |         6 |   0.333333 |
 | South Africa             |         5 |   0        |
 | Bayonne                  |         5 |   0.8      |
 | England                  |         4 |   0.5      |
-| Argentina                |         4 |   0.75     |
-| Grenoble                 |         4 |   0.5      |
+| Perpignan                |         4 |   0.625    |
 | Wales                    |         4 |   0        |
+| Grenoble                 |         4 |   0.5      |
+| Argentina                |         4 |   0.75     |
 | Italy                    |         4 |   1        |
-| Oyonnax                  |         3 |   0.666667 |
 | Agen                     |         3 |   1        |
+| Oyonnax                  |         3 |   0.666667 |
 | Ireland                  |         3 |   0.333333 |
-| Perpignan                |         3 |   0.833333 |
 | Edinburgh                |         3 |   0.666667 |
 | Ospreys                  |         2 |   0.5      |
 | London Irish             |         2 |   0        |

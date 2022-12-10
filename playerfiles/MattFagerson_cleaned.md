@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Fagerson  
-date: 2022-11-22 11:30:01.848128  
+date: 2022-12-09 13:20:39.010630  
 categories: player  
 ---
 # Matt Fagerson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 121.0
+## Current elo: 123.0
 
-## Current Percentile: 91.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            73 |   0.616438 |
+| Glasgow Warriors |            74 |   0.621622 |
 | Scotland         |            26 |   0.538462 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Edinburgh                |        11 |   0.363636 |
-| Zebre                    |         8 |   1        |
+| Zebre                    |         9 |   1        |
 | Leinster                 |         7 |   0.285714 |
 | Cardiff Blues            |         5 |   1        |
 | Dragons                  |         4 |   0.625    |

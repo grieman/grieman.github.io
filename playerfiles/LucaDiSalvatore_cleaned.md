@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luca Di Salvatore  
-date: 2022-11-22 11:35:18.623262  
+date: 2022-12-09 13:11:04.641727  
 categories: player  
 ---
 # Luca Di Salvatore
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 85.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             5 |        0.2 |
+| Rennes |             7 |   0.142857 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -29,4 +29,6 @@ categories: player
 | Carqueiranne-Hyères |         1 |          1 |
 | Chambery            |         1 |          0 |
 | Dax                 |         1 |          0 |
+| Narbonne            |         1 |          0 |
+| Nice                |         1 |          0 |
 | Suresnes            |         1 |          0 |

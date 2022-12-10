@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fin Smith  
-date: 2022-11-22 11:33:21.653402  
+date: 2022-12-09 13:09:48.571663  
 categories: player  
 ---
 # Fin Smith
 
 ## Positions: FH
 
-## Current elo: 85.0
+## Current elo: 88.0
 
-## Current Percentile: 19.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            26 |   0.211538 |
-| Northampton Saints |             3 |   0.666667 |
+| Northampton Saints |             4 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,8 +33,8 @@ categories: player
 | Sale Sharks        |         3 |   0.333333 |
 | Saracens           |         3 |   0        |
 | Wasps              |         3 |   0.333333 |
+| Gloucester Rugby   |         2 |   0        |
 | Leicester Tigers   |         2 |   0        |
 | London Irish       |         2 |   0        |
 | Newcastle Falcons  |         2 |   0.25     |
-| Gloucester Rugby   |         1 |   0        |
 | Harlequins         |         1 |   0        |

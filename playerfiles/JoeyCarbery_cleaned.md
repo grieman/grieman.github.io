@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joey Carbery  
-date: 2022-11-16 11:40:54.601220  
+date: 2022-12-09 13:06:43.881921  
 categories: player  
 ---
 # Joey Carbery
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 53.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -25,20 +25,20 @@ categories: player
 |:---------|--------------:|-----------:|
 | Leinster |            38 |   0.736842 |
 | Ireland  |            36 |   0.833333 |
-| Munster  |            34 |   0.602941 |
+| Munster  |            36 |   0.625    |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Leinster                 |         7 |   0.142857 |
+| Connacht                 |         7 |   0.714286 |
 | New Zealand              |         6 |   0.666667 |
-| Connacht                 |         6 |   0.666667 |
 | Cardiff Blues            |         5 |   0.8      |
 | Glasgow Warriors         |         5 |   0.4      |
 | Ulster                   |         5 |   0.4      |
 | Scarlets                 |         5 |   0.8      |
+| Edinburgh                |         5 |   1        |
 | Italy                    |         4 |   1        |
 | Ospreys                  |         4 |   0.75     |
-| Edinburgh                |         4 |   1        |
 | Scotland                 |         3 |   1        |
 | Munster                  |         3 |   1        |
 | Dragons                  |         3 |   0.666667 |

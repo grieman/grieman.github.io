@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Steward  
-date: 2022-11-22 11:37:11.136449  
+date: 2022-12-09 13:20:51.725529  
 categories: player  
 ---
 # Freddie Steward
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 99.0
+## Current elo: 94.0
 
-## Current Percentile: 69.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            51 |   0.666667 |
-| England          |            16 |   0.65625  |
+| Leicester Tigers |            52 |   0.663462 |
+| England          |            17 |   0.617647 |
 | Ampthill         |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Sale Sharks              |         6 |   0.166667 |
+| Bristol Rugby            |         5 |   0.5      |
 | Harlequins               |         5 |   0.6      |
-| Bristol Rugby            |         4 |   0.5      |
 | Wasps                    |         4 |   0.75     |
 | London Irish             |         4 |   0.75     |
 | Australia                |         4 |   0.75     |
@@ -41,10 +41,10 @@ categories: player
 | Bath Rugby               |         3 |   0.333333 |
 | Saracens                 |         3 |   0.666667 |
 | Gloucester Rugby         |         3 |   1        |
+| South Africa             |         2 |   0.5      |
 | Worcester Warriors       |         2 |   1        |
 | Connacht                 |         2 |   1        |
 | Calvisano                |         2 |   1        |
-| South Africa             |         1 |   1        |
 | Scotland                 |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   1        |

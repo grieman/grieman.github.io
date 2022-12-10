@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Rodrigo Fernandez Criado  
-date: 2022-11-22 11:36:21.459932  
+date: 2022-12-09 13:16:20.810805  
 categories: player  
 ---
 # Rodrigo Fernandez Criado
 
 ## Positions: L
 
-## Current elo: 111.0
+## Current elo: 109.0
 
 ## Current Percentile: 87.0
 
@@ -24,7 +24,7 @@ categories: player
 | Jaguares XV  |            12 |   0.666667 |
 | Belgrano     |            11 |   0.772727 |
 | Ceibos Rugby |             2 |   1        |
-| Montauban    |             1 |   1        |
+| Montauban    |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -42,4 +42,5 @@ categories: player
 | La Plata            |         1 |   1        |
 | Newman              |         1 |   1        |
 | Pucara              |         1 |   1        |
+| Rouen               |         1 |   0        |
 | San Luis            |         1 |   0.5      |

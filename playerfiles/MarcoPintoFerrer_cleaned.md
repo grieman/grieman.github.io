@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Pinto Ferrer  
-date: 2022-11-22 11:33:24.610551  
+date: 2022-12-09 13:13:39.613464  
 categories: player  
 ---
 # Marco Pinto Ferrer
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 15.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |           142 |   0.538732 |
+| Beziers |           144 |   0.538194 |
 | Oyonnax |            22 |   0.522727 |
 | Spain   |            19 |   0.578947 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Colomiers          |        15 |   0.7      |
-| Carcassonne        |        13 |   0.576923 |
 | Aurillac           |        13 |   0.307692 |
+| Carcassonne        |        13 |   0.576923 |
 | Mont-de-Marsan     |        12 |   0.583333 |
 | Provence Rugby     |        10 |   0.5      |
 | Dax                |         9 |   0.666667 |
@@ -40,9 +40,9 @@ categories: player
 | Montauban          |         6 |   0.666667 |
 | Biarritz Olympique |         6 |   0.166667 |
 | Oyonnax            |         6 |   0.333333 |
+| Nevers             |         6 |   0.5      |
 | Grenoble           |         5 |   0.4      |
 | Agen               |         5 |   0.8      |
-| Nevers             |         5 |   0.6      |
 | Perpignan          |         5 |   0.4      |
 | Albi               |         4 |   0.5      |
 | Romania            |         4 |   0.5      |
@@ -53,16 +53,16 @@ categories: player
 | Bayonne            |         4 |   0.5      |
 | Pau                |         3 |   0.333333 |
 | Russia             |         3 |   1        |
+| Rouen              |         3 |   1        |
 | Vannes             |         3 |   0        |
-| Netherlands        |         2 |   1        |
 | Portugal           |         2 |   0.5      |
 | La Rochelle        |         2 |   0        |
-| Rouen              |         2 |   1        |
+| Netherlands        |         2 |   1        |
 | Georgia            |         2 |   0        |
 | Belgium            |         2 |   0.5      |
 | Bourgoin-Jallieu   |         2 |   1        |
-| Canada             |         1 |   0        |
 | Brive              |         1 |   1        |
+| Canada             |         1 |   0        |
 | Brazil             |         1 |   1        |
 | Beziers            |         1 |   1        |
 | Saint-Etienne      |         1 |   1        |

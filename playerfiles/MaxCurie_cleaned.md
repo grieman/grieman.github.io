@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Curie  
-date: 2022-11-22 11:41:25.492547  
+date: 2022-12-09 13:11:23.631805  
 categories: player  
 ---
 # Max Curie
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 32.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Nevers         |            37 |   0.527027 |
 | Albi           |             9 |   0.666667 |
-| Mont-de-Marsan |             4 |   0.5      |
+| Mont-de-Marsan |             6 |   0.666667 |
 | US Bressane    |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Vannes             |         6 |   0.583333 |
 | Carcassonne        |         6 |   0.666667 |
-| Vannes             |         5 |   0.5      |
 | Colomiers          |         4 |   0.75     |
 | Dax                |         3 |   0.333333 |
 | Provence Rugby     |         3 |   0.666667 |
@@ -45,6 +45,7 @@ categories: player
 | Brive              |         1 |   0        |
 | Montauban          |         1 |   0        |
 | Bourgoin-Jallieu   |         1 |   1        |
+| Nevers             |         1 |   1        |
 | Oyonnax            |         1 |   0        |
 | Soyaux-Angouleme   |         1 |   0        |
 | Massy              |         1 |   1        |

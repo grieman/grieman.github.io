@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arnaud Duputs  
-date: 2022-11-22 11:29:27.522558  
+date: 2022-12-09 13:13:02.441812  
 categories: player  
 ---
 # Arnaud Duputs
 
 ## Positions: FL
 
-## Current elo: 112.0
+## Current elo: 109.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,17 +22,17 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Bayonne |            36 |   0.319444 |
-| Agen    |            26 |   0.461538 |
+| Agen    |            28 |   0.464286 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |         4 |   0.5      |
+| Mont-de-Marsan       |         3 |   0.666667 |
 | Provence Rugby       |         3 |   0.666667 |
+| Carcassonne          |         3 |   0        |
 | Nevers               |         3 |   0.666667 |
 | Narbonne             |         3 |   0.666667 |
 | Aurillac             |         3 |   1        |
-| Mont-de-Marsan       |         3 |   0.666667 |
-| Agen                 |         2 |   0.5      |
 | Lyon                 |         2 |   0        |
 | Stade Francais Paris |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   0        |
@@ -41,21 +41,22 @@ categories: player
 | Pau                  |         2 |   0        |
 | Montpellier Herault  |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
+| Agen                 |         2 |   0.5      |
 | Vannes               |         2 |   1        |
-| Bordeaux Begles      |         2 |   0        |
+| Grenoble             |         2 |   0        |
 | Benetton Treviso     |         2 |   0        |
 | Beziers              |         2 |   0        |
-| Carcassonne          |         2 |   0        |
-| Grenoble             |         2 |   0        |
+| Bordeaux Begles      |         2 |   0        |
+| Racing 92            |         1 |   1        |
 | US Bressane          |         1 |   0        |
 | Bayonne              |         1 |   0        |
 | Stade Toulousain     |         1 |   1        |
 | Biarritz Olympique   |         1 |   0        |
+| Massy                |         1 |   1        |
 | La Rochelle          |         1 |   0        |
-| Racing 92            |         1 |   1        |
 | Perpignan            |         1 |   0        |
-| Oyonnax              |         1 |   0        |
 | Castres Olympique    |         1 |   0        |
+| Oyonnax              |         1 |   0        |
 | Colomiers            |         1 |   0        |
 | Dax                  |         1 |   1        |
 | Gloucester Rugby     |         1 |   0        |

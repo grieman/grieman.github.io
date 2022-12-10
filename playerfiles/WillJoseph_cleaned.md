@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Will Joseph  
-date: 2022-11-22 11:38:33.169256  
+date: 2022-12-09 13:15:48.879997  
 categories: player  
 ---
 # Will Joseph
 
-## Positions: W, C
+## Positions: C, W
 
 ## Country: England
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 47.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,13 +23,15 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            15 |   0.433333 |
+| London Irish |            17 |   0.441176 |
 | England      |             2 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Australia          |         2 |       1    |
 | Bath Rugby         |         2 |       1    |
+| Leicester Tigers   |         2 |       0    |
+| Newcastle Falcons  |         2 |       1    |
 | Sale Sharks        |         2 |       0    |
 | Wasps              |         2 |       0.75 |
 | Worcester Warriors |         2 |       1    |
@@ -37,6 +39,4 @@ categories: player
 | Exeter Chiefs      |         1 |       0    |
 | Gloucester Rugby   |         1 |       0    |
 | Harlequins         |         1 |       0    |
-| Leicester Tigers   |         1 |       0    |
-| Newcastle Falcons  |         1 |       1    |
 | Northampton Saints |         1 |       0    |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: David Delarue  
-date: 2022-11-22 11:47:32.725433  
+date: 2022-12-09 13:04:19.699725  
 categories: player  
 ---
 # David Delarue
 
 ## Positions: SH
 
-## Current elo: 85.0
+## Current elo: 81.0
 
-## Current Percentile: 14.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Brive    |            31 |   0.33871  |
-| Aurillac |            11 |   0.272727 |
+| Aurillac |            13 |   0.307692 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,21 +34,22 @@ categories: player
 | Lyon                 |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |
 | Zebre                |         2 |   0        |
-| Bayonne              |         2 |   0        |
+| Colomiers            |         2 |   0.5      |
+| Beziers              |         2 |   1        |
 | Carcassonne          |         2 |   0        |
 | Bristol Rugby        |         2 |   0        |
 | Biarritz Olympique   |         2 |   0.25     |
-| Beziers              |         2 |   1        |
-| Colomiers            |         1 |   0        |
+| Bayonne              |         2 |   0        |
 | Worcester Warriors   |         1 |   1        |
 | US Bressane          |         1 |   0        |
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
 | Soyaux-Angouleme     |         1 |   1        |
+| Pau                  |         1 |   1        |
 | Provence Rugby       |         1 |   0        |
 | Grenoble             |         1 |   0        |
-| Pau                  |         1 |   1        |
+| Oyonnax              |         1 |   0        |
 | Nevers               |         1 |   1        |
 | Aurillac             |         1 |   1        |
 | Mont-de-Marsan       |         1 |   0        |

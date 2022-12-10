@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Grigg  
-date: 2022-11-22 11:43:03.495680  
+date: 2022-12-09 13:22:09.404808  
 categories: player  
 ---
 # Nick Grigg
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 47.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:--------------------------------|--------------:|-----------:|
 | Glasgow Warriors                |            88 |   0.539773 |
 | Scotland                        |             9 |   0.388889 |
+| Carcassonne                     |             8 |   0.375    |
 | Hawke's Bay                     |             8 |   0.4375   |
-| Carcassonne                     |             6 |   0.333333 |
 | NTT Docomo Red Hurricanes Osaka |             4 |   0.25     |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -42,39 +42,41 @@ categories: player
 | Benetton Treviso                  |         4 |   1        |
 | Ulster                            |         3 |   0        |
 | Connacht                          |         3 |   0.666667 |
-| Cheetahs                          |         2 |   1        |
 | England                           |         2 |   0.75     |
 | Exeter Chiefs                     |         2 |   0        |
 | Saracens                          |         2 |   0        |
+| Cheetahs                          |         2 |   1        |
 | Southern Kings                    |         2 |   0.5      |
 | La Rochelle                       |         2 |   0.5      |
 | Leicester Tigers                  |         2 |   1        |
-| Oyonnax                           |         1 |   0        |
 | Wellington                        |         1 |   0        |
+| Oyonnax                           |         1 |   0        |
+| Provence Rugby                    |         1 |   0        |
 | Rouen                             |         1 |   1        |
 | Sale Sharks                       |         1 |   1        |
 | Southland                         |         1 |   1        |
+| Wales                             |         1 |   0        |
 | Soyaux-Angouleme                  |         1 |   0        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
 | Otago                             |         1 |   0        |
-| United States of America          |         1 |   0        |
-| Wales                             |         1 |   0        |
 | Waikato                           |         1 |   0.5      |
+| United States of America          |         1 |   0        |
 | Toyota Verblitz                   |         1 |   0        |
-| Argentina                         |         1 |   1        |
+| Agen                              |         1 |   1        |
 | North Harbour                     |         1 |   1        |
-| Montpellier Herault               |         1 |   0        |
-| Massy                             |         1 |   0        |
-| Lyon                              |         1 |   1        |
-| Aurillac                          |         1 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
-| Italy                             |         1 |   1        |
-| Ireland                           |         1 |   0        |
-| Grenoble                          |         1 |   0        |
 | Green Rockets Tokatsu             |         1 |   1        |
-| France                            |         1 |   0        |
-| Fiji                              |         1 |   0        |
-| Counties Manukau                  |         1 |   1        |
-| Canterbury                        |         1 |   0        |
+| Aurillac                          |         1 |   1        |
 | Bay of Plenty                     |         1 |   0        |
+| Canterbury                        |         1 |   0        |
+| Counties Manukau                  |         1 |   1        |
+| Fiji                              |         1 |   0        |
+| France                            |         1 |   0        |
+| Grenoble                          |         1 |   0        |
+| Montpellier Herault               |         1 |   0        |
+| Ireland                           |         1 |   0        |
+| Italy                             |         1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
+| Argentina                         |         1 |   1        |
+| Lyon                              |         1 |   1        |
+| Massy                             |         1 |   0        |
 | Lions                             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Jelonch  
-date: 2022-11-22 11:34:34.522314  
+date: 2022-12-09 13:07:51.085477  
 categories: player  
 ---
 # Anthony Jelonch
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 106.0
 
-## Current Percentile: 92.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Castres Olympique |            93 |   0.586022 |
-| Stade Toulousain  |            25 |   0.68     |
+| Stade Toulousain  |            26 |   0.692308 |
 | France            |            21 |   0.714286 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -51,10 +51,10 @@ categories: player
 | South Africa         |         2 |   0.5      |
 | Italy                |         2 |   1        |
 | Ireland              |         2 |   1        |
+| Perpignan            |         2 |   1        |
 | Castres Olympique    |         2 |   0.5      |
 | Wales                |         2 |   1        |
 | Wasps                |         1 |   0        |
-| Perpignan            |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |
 | Northampton Saints   |         1 |   1        |

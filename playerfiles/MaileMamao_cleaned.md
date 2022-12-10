@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Maile Mamao  
-date: 2022-11-22 11:31:27.340875  
+date: 2022-12-09 13:16:49.286944  
 categories: player  
 ---
 # Maile Mamao
 
 ## Positions: W
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: 43.0
 

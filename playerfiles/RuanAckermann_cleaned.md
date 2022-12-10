@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ruan Ackermann  
-date: 2022-11-22 11:31:10.407762  
+date: 2022-12-09 13:08:28.598792  
 categories: player  
 ---
 # Ruan Ackermann
 
 ## Positions: N8, FL
 
-## Current elo: 123.0
+## Current elo: 126.0
 
 ## Current Percentile: 97.0
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           113 |   0.5      |
+| Gloucester Rugby |           115 |   0.5      |
 | Lions            |            33 |   0.848485 |
 | Golden Lions     |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Bath Rugby               |        10 |   0.65     |
+| Northampton Saints       |        10 |   0.6      |
 | Exeter Chiefs            |        10 |   0.4      |
 | Wasps                    |         9 |   0.611111 |
-| Northampton Saints       |         9 |   0.555556 |
 | Newcastle Falcons        |         9 |   0.666667 |
 | London Irish             |         9 |   0.722222 |
 | Sale Sharks              |         9 |   0.333333 |
+| Harlequins               |         8 |   0.25     |
 | Bristol Rugby            |         8 |   0.375    |
 | Saracens                 |         8 |   0.5      |
 | Leicester Tigers         |         8 |   0.25     |
-| Harlequins               |         7 |   0.285714 |
 | Worcester Warriors       |         7 |   0.714286 |
 | Sharks                   |         5 |   1        |
 | Southern Kings           |         4 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George McGuigan  
-date: 2022-11-22 11:38:48.781067  
+date: 2022-12-09 13:09:04.031474  
 categories: player  
 ---
 # George McGuigan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 80.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -23,22 +23,22 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |           155 |   0.345161 |
+| Newcastle Falcons |           157 |   0.347134 |
 | Leicester Tigers  |            35 |   0.628571 |
 | England           |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Gloucester Rugby     |        17 |  0.352941  |
+| Exeter Chiefs        |        15 |  0.266667  |
 | Bath Rugby           |        15 |  0.4       |
 | Saracens             |        15 |  0.0666667 |
-| Exeter Chiefs        |        14 |  0.214286  |
 | Wasps                |        14 |  0.25      |
 | Northampton Saints   |        14 |  0.428571  |
 | Harlequins           |        13 |  0.307692  |
 | Sale Sharks          |        12 |  0.375     |
 | Worcester Warriors   |        12 |  0.541667  |
-| London Irish         |        10 |  0.5       |
+| London Irish         |        11 |  0.454545  |
 | Leicester Tigers     |         9 |  0.111111  |
 | Bristol Rugby        |         7 |  0.428571  |
 | Brive                |         4 |  0.25      |

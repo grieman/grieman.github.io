@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vadim Cobilas  
-date: 2022-11-16 11:39:15.064407  
+date: 2022-12-09 13:07:55.797478  
 categories: player  
 ---
 # Vadim Cobilas
 
 ## Positions: P
 
-## Current elo: 120.0
+## Current elo: 125.0
 
 ## Current Percentile: 98.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           143 |   0.566434 |
+| Bordeaux Begles |           144 |   0.569444 |
 | Sale Sharks     |           129 |   0.472868 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -44,8 +44,8 @@ categories: player
 | Worcester Warriors   |         9 |   0.666667 |
 | Harlequins           |         9 |   0.222222 |
 | Gloucester Rugby     |         9 |   0.444444 |
+| Brive                |         9 |   0.611111 |
 | Exeter Chiefs        |         9 |   0.333333 |
-| Brive                |         8 |   0.5625   |
 | Northampton Saints   |         8 |   0.5      |
 | Agen                 |         8 |   0.875    |
 | Bath Rugby           |         8 |   0.625    |

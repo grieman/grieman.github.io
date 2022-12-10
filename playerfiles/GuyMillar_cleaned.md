@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guy Millar  
-date: 2022-11-22 11:34:19.509099  
+date: 2022-12-09 13:24:14.714870  
 categories: player  
 ---
 # Guy Millar
 
 ## Positions: P
 
-## Current elo: 120.0
+## Current elo: 123.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,42 +21,42 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Biarritz Olympique  |            80 |    0.60625 |
-| Southland           |            29 |    0.12069 |
-| Western Force       |            16 |    0.25    |
-| Greater Sydney Rams |             8 |    0.4375  |
-| Highlanders         |             5 |    0.4     |
+| Biarritz Olympique  |            82 |   0.609756 |
+| Southland           |            29 |   0.12069  |
+| Western Force       |            16 |   0.25     |
+| Greater Sydney Rams |             8 |   0.4375   |
+| Highlanders         |             5 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Carcassonne                |         6 |   0.5      |
 | Oyonnax                    |         6 |   0.833333 |
 | Vannes                     |         6 |   0.5      |
+| Carcassonne                |         6 |   0.5      |
 | Montauban                  |         5 |   0.8      |
+| Perpignan                  |         5 |   0.2      |
 | Aurillac                   |         5 |   0.8      |
 | Nevers                     |         5 |   0.3      |
-| Perpignan                  |         5 |   0.2      |
+| Provence Rugby             |         4 |   0.875    |
 | Colomiers                  |         4 |   0.75     |
+| Manawatu                   |         3 |   0.333333 |
 | Otago                      |         3 |   0        |
 | Queensland Reds            |         3 |   0.666667 |
 | Hawke's Bay                |         3 |   0        |
-| Melbourne Rebels           |         3 |   0.333333 |
+| Grenoble                   |         3 |   0.833333 |
 | North Harbour              |         3 |   0        |
-| Mont-de-Marsan             |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
-| Massy                      |         3 |   0.666667 |
+| Mont-de-Marsan             |         3 |   0.666667 |
+| Melbourne Rebels           |         3 |   0.333333 |
 | Rouen                      |         3 |   0.666667 |
 | Brumbies                   |         3 |   0        |
 | Brive                      |         3 |   0.5      |
-| Provence Rugby             |         3 |   0.833333 |
 | Wellington                 |         3 |   0        |
 | Auckland                   |         3 |   0.166667 |
 | Beziers                    |         3 |   0.666667 |
 | Bay of Plenty              |         3 |   0.333333 |
-| Manawatu                   |         3 |   0.333333 |
+| Massy                      |         3 |   0.666667 |
 | Northland                  |         2 |   0.5      |
 | Tasman                     |         2 |   0        |
-| Grenoble                   |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
 | Canterbury                 |         2 |   0        |
 | Blues                      |         2 |   0        |

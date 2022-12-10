@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dave O'Callaghan  
-date: 2022-11-22 11:42:25.930856  
+date: 2022-12-09 13:17:59.145974  
 categories: player  
 ---
 # Dave O'Callaghan
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 91.0
 
-## Current Percentile: 19.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -22,38 +22,38 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Munster            |            85 |   0.670588 |
-| Biarritz Olympique |            54 |   0.435185 |
+| Biarritz Olympique |            56 |   0.446429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Cardiff Blues              |         9 |   0.666667 |
 | Zebre                      |         8 |   1        |
 | Benetton Treviso           |         8 |   1        |
-| Dragons                    |         8 |   0.75     |
 | Scarlets                   |         8 |   0.5625   |
-| Edinburgh                  |         6 |   1        |
+| Dragons                    |         8 |   0.75     |
 | Ospreys                    |         6 |   0.5      |
-| Glasgow Warriors           |         5 |   0.6      |
+| Edinburgh                  |         6 |   1        |
 | Ulster                     |         5 |   0.5      |
 | Perpignan                  |         5 |   0        |
 | Leinster                   |         5 |   0.2      |
+| Glasgow Warriors           |         5 |   0.6      |
 | Oyonnax                    |         4 |   0.75     |
-| Carcassonne                |         4 |   0.5      |
 | Nevers                     |         4 |   0.25     |
 | Saracens                   |         4 |   0.25     |
-| Soyaux-Angouleme           |         3 |   0.666667 |
-| Rouen                      |         3 |   1        |
+| Carcassonne                |         4 |   0.5      |
 | Colomiers                  |         3 |   0.666667 |
+| Soyaux-Angouleme           |         3 |   0.666667 |
+| Grenoble                   |         3 |   0.833333 |
+| Rouen                      |         3 |   1        |
+| Provence Rugby             |         3 |   1        |
 | Aurillac                   |         3 |   0.666667 |
 | Connacht                   |         3 |   0.666667 |
-| Vannes                     |         2 |   0.5      |
 | Racing 92                  |         2 |   0        |
-| Provence Rugby             |         2 |   1        |
 | Stade Toulousain           |         2 |   0.5      |
+| Vannes                     |         2 |   0.5      |
 | Montauban                  |         2 |   0.5      |
 | Cheetahs                   |         2 |   1        |
 | Leicester Tigers           |         2 |   0        |
-| Grenoble                   |         2 |   1        |
 | Clermont Auvergne          |         2 |   0        |
 | Montpellier Herault        |         2 |   0        |
 | Castres Olympique          |         1 |   0        |
@@ -68,6 +68,6 @@ categories: player
 | Sale Sharks                |         1 |   1        |
 | La Rochelle                |         1 |   1        |
 | Massy                      |         1 |   1        |
-| Pau                        |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0.5      |
+| Pau                        |         1 |   0        |
 | Aironi                     |         1 |   0        |

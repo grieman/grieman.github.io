@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Loris Tolot  
-date: 2022-11-22 11:32:16.302824  
+date: 2022-12-09 13:07:45.856474  
 categories: player  
 ---
 # Loris Tolot
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 74.0
 
-## Current Percentile: 2.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Agen      |            72 |   0.194444 |
+| Agen      |            74 |   0.202703 |
 | Montauban |            21 |   0.52381  |
 
 | Opponent             |   Matches |   Win Rate |
@@ -30,36 +30,37 @@ categories: player
 | Racing 92            |         7 |   0.214286 |
 | Bayonne              |         5 |   0.3      |
 | Clermont Auvergne    |         5 |   0        |
-| La Rochelle          |         4 |   0        |
-| Oyonnax              |         4 |   0        |
+| Carcassonne          |         4 |   0.5      |
 | Colomiers            |         4 |   0.5      |
-| Montpellier Herault  |         3 |   0.333333 |
-| Dax                  |         3 |   0.333333 |
-| Carcassonne          |         3 |   0.666667 |
-| Mont-de-Marsan       |         3 |   0.333333 |
+| Oyonnax              |         4 |   0        |
+| La Rochelle          |         4 |   0        |
 | Bordeaux Begles      |         3 |   0        |
 | Beziers              |         3 |   0.333333 |
+| Dax                  |         3 |   0.333333 |
+| Montpellier Herault  |         3 |   0.333333 |
+| Mont-de-Marsan       |         3 |   0.333333 |
 | Perpignan            |         2 |   0.5      |
+| Aurillac             |         2 |   0.5      |
 | Provence Rugby       |         2 |   0.5      |
 | Tarbes               |         2 |   0.5      |
-| Rouen                |         2 |   0.5      |
 | Toulon               |         2 |   0        |
 | Gloucester Rugby     |         2 |   0        |
-| Stade Francais Paris |         2 |   0.5      |
-| Aurillac             |         2 |   0.5      |
+| Rouen                |         2 |   0.5      |
 | Grenoble             |         2 |   0        |
+| Stade Francais Paris |         2 |   0.5      |
 | Castres Olympique    |         2 |   0        |
 | Brive                |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
 | Wasps                |         2 |   0        |
 | US Bressane          |         1 |   0        |
-| Stade Toulousain     |         1 |   0        |
 | Vannes               |         1 |   1        |
+| Stade Toulousain     |         1 |   0        |
 | Albi                 |         1 |   1        |
 | Lyon                 |         1 |   0        |
 | Nevers               |         1 |   1        |
 | Montauban            |         1 |   0        |
+| Massy                |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Edinburgh            |         1 |   0        |
 | Benetton Treviso     |         1 |   0        |

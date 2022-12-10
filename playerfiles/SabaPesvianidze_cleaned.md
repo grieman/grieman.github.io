@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Saba Pesvianidze  
-date: 2022-11-22 11:37:57.420737  
+date: 2022-12-09 13:13:12.286456  
 categories: player  
 ---
 # Saba Pesvianidze
 
-## Positions: L, FL
+## Positions: L
 
-## Current elo: 102.0
+## Current elo: 105.0
 
-## Current Percentile: 79.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |             9 |   0.666667 |
+| Soyaux-Angouleme |            11 |   0.636364 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,4 +31,6 @@ categories: player
 | Carcassonne                |         1 |        1   |
 | Dijon                      |         1 |        1   |
 | Grenoble                   |         1 |        0   |
+| Massy                      |         1 |        1   |
 | Nice                       |         1 |        0   |
+| Oyonnax                    |         1 |        0   |

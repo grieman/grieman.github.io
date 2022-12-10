@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Costelow  
-date: 2022-11-22 11:44:35.586963  
+date: 2022-12-09 13:09:39.969912  
 categories: player  
 ---
 # Sam Costelow
@@ -23,10 +23,10 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Scarlets         |            27 |   0.388889 |
+| Scarlets         |            28 |   0.375    |
 | Ampthill         |             3 |   0.333333 |
+| Wales            |             3 |   0        |
 | Leicester Tigers |             2 |   0.5      |
-| Wales            |             2 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -36,19 +36,20 @@ categories: player
 | Ospreys          |         3 |        0.5 |
 | Leinster         |         2 |        0   |
 | Dragons          |         2 |        0.5 |
+| Lions            |         2 |        0.5 |
 | Stormers         |         1 |        0   |
 | Sharks           |         1 |        0   |
 | Pau              |         1 |        0   |
 | New Zealand      |         1 |        0   |
 | Munster          |         1 |        0   |
-| Lions            |         1 |        1   |
+| Australia        |         1 |        0   |
+| Jersey           |         1 |        0   |
 | Benetton Treviso |         1 |        1   |
-| Bordeaux Begles  |         1 |        0   |
-| Hartpury College |         1 |        1   |
 | Glasgow Warriors |         1 |        1   |
 | Georgia          |         1 |        0   |
 | Edinburgh        |         1 |        0   |
 | Cornish Pirates  |         1 |        0   |
 | Connacht         |         1 |        0   |
 | Bulls            |         1 |        0   |
-| Jersey           |         1 |        0   |
+| Bordeaux Begles  |         1 |        0   |
+| Hartpury College |         1 |        1   |

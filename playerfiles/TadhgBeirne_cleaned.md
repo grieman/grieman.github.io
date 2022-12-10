@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tadhg Beirne  
-date: 2022-11-22 11:47:33.735156  
+date: 2022-12-09 13:14:16.872820  
 categories: player  
 ---
 # Tadhg Beirne
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 92.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Scarlets                |            54 |   0.666667 |
-| Munster                 |            42 |   0.690476 |
+| Munster                 |            44 |   0.704545 |
 | Ireland                 |            32 |   0.71875  |
 | Leinster                |             4 |   0.5      |
 | British and Irish Lions |             3 |   0.666667 |
@@ -32,12 +32,12 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Leinster                 |        12 |   0.291667 |
-| Connacht                 |         8 |   0.875    |
+| Connacht                 |         9 |   0.888889 |
 | Ospreys                  |         8 |   0.75     |
+| Edinburgh                |         7 |   0.857143 |
 | Benetton Treviso         |         6 |   0.833333 |
 | Cardiff Blues            |         6 |   0.833333 |
 | Dragons                  |         6 |   0.5      |
-| Edinburgh                |         6 |   0.833333 |
 | Italy                    |         5 |   1        |
 | Ulster                   |         5 |   0.6      |
 | Wales                    |         4 |   0.5      |

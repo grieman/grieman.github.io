@@ -5,6 +5,10 @@ with open('secrets.yml', 'r') as file:
     secrets = yaml.safe_load(file)
 sys.path.append(secrets['elo_proj_path'])
 
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
+
 from player_club_classes import team_elo, Player, Club, Match, team_elo_minutes
 import pandas as pd
 import numpy as np
@@ -195,23 +199,26 @@ for recent_game in recent_games:
 
         ## Win probability plots
         if isinstance(recent_game['commentary_df'], np.ndarray):
-            match_events = real_time_preds.real_time_df(recent_game)
-            '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
-            ax2 = plt.twinx()
-            sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
-            pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
-            pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
-            pred_plot.figure.clf()'''
-            prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
-            plt.close()
-            score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
-            plt.close()
+            try:
+                match_events = real_time_preds.real_time_df(recent_game)
+                '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
+                ax2 = plt.twinx()
+                sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
+                pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
+                pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
+                pred_plot.figure.clf()'''
+                prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
+                plt.close()
+                score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
+                plt.close()
 
-
-            rec_match_md.new_header(level = 2, title = 'Scores over Time')
-            rec_match_md.new_paragraph(f'![In Match Scores]({score_path})')
-            rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
-            rec_match_md.new_paragraph(f'![In Match Predictions]({prob_path})')
+                rec_match_md.new_header(level = 2, title = 'Scores over Time')
+                rec_match_md.new_paragraph(f'![In Match Scores]({score_path})')
+                rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
+                rec_match_md.new_paragraph(f'![In Match Predictions]({prob_path})')
+                 
+            except:
+                pass
 
 
         rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')

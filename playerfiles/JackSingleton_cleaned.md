@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Singleton  
-date: 2022-11-22 11:42:00.462293  
+date: 2022-12-09 13:12:20.348641  
 categories: player  
 ---
 # Jack Singleton
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 73.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -24,20 +24,20 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            66 |   0.416667 |
-| Gloucester Rugby   |            41 |   0.573171 |
+| Gloucester Rugby   |            43 |   0.569767 |
 | Saracens           |            15 |   0.666667 |
 | England            |             7 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Harlequins               |        11 |   0.272727 |
 | Bath Rugby               |        10 |   0.6      |
-| Harlequins               |        10 |   0.3      |
+| Northampton Saints       |         9 |   0.444444 |
 | Bristol Rugby            |         9 |   0.555556 |
 | Wasps                    |         9 |   0.333333 |
 | Exeter Chiefs            |         9 |   0.222222 |
 | Leicester Tigers         |         9 |   0.555556 |
 | Newcastle Falcons        |         9 |   0.444444 |
-| Northampton Saints       |         8 |   0.375    |
 | Saracens                 |         8 |   0.5      |
 | Sale Sharks              |         6 |   0.5      |
 | Gloucester Rugby         |         6 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamison Gibson-Park  
-date: 2022-11-22 11:41:41.658027  
+date: 2022-12-09 13:16:01.829346  
 categories: player  
 ---
 # Jamison Gibson-Park
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 117.0
+## Current elo: 113.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Leinster          |           101 |   0.826733 |
+| Leinster          |           102 |   0.828431 |
 | Blues             |            34 |   0.205882 |
 | Ireland           |            21 |   0.761905 |
 | Taranaki          |            20 |   0.525    |
@@ -32,7 +32,7 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Ulster                   |        10 |   0.9      |
+| Ulster                   |        11 |   0.909091 |
 | Glasgow Warriors         |         9 |   0.666667 |
 | Munster                  |         9 |   0.888889 |
 | Dragons                  |         8 |   1        |

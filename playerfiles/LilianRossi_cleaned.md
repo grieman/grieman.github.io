@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lilian Rossi  
-date: 2022-11-22 11:43:07.784392  
+date: 2022-12-09 13:05:43.868540  
 categories: player  
 ---
 # Lilian Rossi
 
 ## Positions: H
 
-## Current elo: 108.0
+## Current elo: 106.0
 
-## Current Percentile: 86.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,26 +21,26 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            21 |   0.619048 |
+| Grenoble |            22 |   0.613636 |
 | Vannes   |             2 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Soyaux-Angouleme           |         3 |          1 |
-| Oyonnax                    |         3 |          0 |
-| Nevers                     |         2 |          1 |
-| Agen                       |         1 |          1 |
-| Bayonne                    |         1 |          0 |
-| Rouen                      |         1 |          1 |
-| Perpignan                  |         1 |          0 |
-| Narbonne                   |         1 |          1 |
-| Montauban                  |         1 |          1 |
-| Mont-de-Marsan             |         1 |          1 |
-| Lyon                       |         1 |          0 |
-| Harlequins                 |         1 |          1 |
-| Colomiers                  |         1 |          0 |
-| Carcassonne                |         1 |          1 |
-| Biarritz Olympique         |         1 |          0 |
-| Beziers                    |         1 |          1 |
-| Benetton Treviso           |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          1 |
+| Soyaux-Angouleme           |         3 |       1    |
+| Oyonnax                    |         3 |       0    |
+| Biarritz Olympique         |         2 |       0.25 |
+| Nevers                     |         2 |       1    |
+| Agen                       |         1 |       1    |
+| Montauban                  |         1 |       1    |
+| Rouen                      |         1 |       1    |
+| Perpignan                  |         1 |       0    |
+| Narbonne                   |         1 |       1    |
+| Mont-de-Marsan             |         1 |       1    |
+| Bayonne                    |         1 |       0    |
+| Lyon                       |         1 |       0    |
+| Harlequins                 |         1 |       1    |
+| Colomiers                  |         1 |       0    |
+| Carcassonne                |         1 |       1    |
+| Beziers                    |         1 |       1    |
+| Benetton Treviso           |         1 |       0    |
+| Valence Romans Drome Rugby |         1 |       1    |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hugo Boutin  
-date: 2022-11-22 11:44:54.972823  
+date: 2022-12-09 13:04:20.512225  
 categories: player  
 ---
 # Hugo Boutin
 
 ## Positions: FL
 
-## Current elo: 79.0
+## Current elo: 80.0
 
-## Current Percentile: 6.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Albi             |            15 |        0.6 |
-| Soyaux-Angouleme |             5 |        0   |
+| Albi             |            17 |   0.647059 |
+| Soyaux-Angouleme |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Chambery                   |         2 |        1   |
+| Chambery                   |         3 |        1   |
 | Massy                      |         2 |        0.5 |
 | Suresnes                   |         2 |        1   |
 | Valence Romans Drome Rugby |         2 |        0.5 |
@@ -41,3 +41,4 @@ categories: player
 | Rennes                     |         1 |        1   |
 | Soyaux-Angouleme           |         1 |        0   |
 | Tarbes                     |         1 |        0   |
+| US Bressane                |         1 |        1   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Ollion  
-date: 2022-11-22 11:41:45.468448  
+date: 2022-12-09 13:17:16.165834  
 categories: player  
 ---
 # Lucas Ollion
 
-## Positions: SH
+## Positions: SH, FH
 
-## Current elo: 84.0
+## Current elo: 81.0
 
-## Current Percentile: 8.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            10 |        0.2 |
-| Vannes |             2 |        0   |
+| Rennes |            12 |   0.166667 |
+| Vannes |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,6 +34,8 @@ categories: player
 | Dax                        |         1 |          0 |
 | Grenoble                   |         1 |          0 |
 | Montauban                  |         1 |          0 |
+| Narbonne                   |         1 |          0 |
+| Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |

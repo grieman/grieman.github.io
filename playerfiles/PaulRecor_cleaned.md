@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul Recor  
-date: 2022-11-22 11:35:24.594177  
+date: 2022-12-09 13:11:39.374533  
 categories: player  
 ---
 # Paul Recor
 
 ## Positions: C
 
-## Current elo: 95.0
+## Current elo: 104.0
 
-## Current Percentile: 34.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,13 +21,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            16 |     0.5625 |
+| Beziers |            19 |   0.578947 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Agen             |         2 |        1   |
 | Montauban        |         2 |        1   |
+| Nevers           |         2 |        0   |
+| Rouen            |         2 |        0.5 |
 | Vannes           |         2 |        0.5 |
-| Agen             |         1 |        1   |
 | Aurillac         |         1 |        0   |
 | Bayonne          |         1 |        1   |
 | Colomiers        |         1 |        0   |
@@ -35,7 +37,5 @@ categories: player
 | Massy            |         1 |        1   |
 | Mont-de-Marsan   |         1 |        1   |
 | Narbonne         |         1 |        1   |
-| Nevers           |         1 |        0   |
-| Rouen            |         1 |        0   |
 | Soyaux-Angouleme |         1 |        0   |
 | US Bressane      |         1 |        0   |

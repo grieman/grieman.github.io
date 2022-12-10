@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Soso Bekoshvili  
-date: 2022-11-22 11:44:19.535716  
+date: 2022-12-09 13:08:32.158794  
 categories: player  
 ---
 # Soso Bekoshvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Brive       |            66 |   0.484848 |
-| Carcassonne |             9 |   0.444444 |
+| Carcassonne |            11 |   0.454545 |
 | Georgia     |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -40,23 +40,24 @@ categories: player
 | Toulon                   |         3 |   0.666667 |
 | Stade Toulousain         |         3 |   0        |
 | Oyonnax                  |         3 |   1        |
+| Agen                     |         3 |   1        |
 | Montpellier Herault      |         3 |   0.333333 |
 | Bayonne                  |         3 |   0.333333 |
-| Agen                     |         2 |   1        |
 | Vannes                   |         2 |   0.5      |
 | Massy                    |         2 |   0.5      |
 | United States of America |         2 |   1        |
 | Perpignan                |         2 |   0.5      |
 | Dragons                  |         2 |   0.5      |
-| Saracens                 |         1 |   0        |
+| Rouen                    |         1 |   1        |
 | Wales                    |         1 |   0        |
 | US Bressane              |         1 |   0        |
 | Aurillac                 |         1 |   1        |
 | Bath Rugby               |         1 |   0        |
 | Soyaux-Angouleme         |         1 |   0        |
+| Saracens                 |         1 |   0        |
 | Colomiers                |         1 |   0        |
-| Rouen                    |         1 |   1        |
-| RC Enisei                |         1 |   1        |
+| Beziers                  |         1 |   1        |
+| Provence Rugby           |         1 |   0        |
 | Biarritz Olympique       |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Newcastle Falcons        |         1 |   0        |
@@ -64,4 +65,4 @@ categories: player
 | Montauban                |         1 |   1        |
 | Carcassonne              |         1 |   0        |
 | Grenoble                 |         1 |   0        |
-| Beziers                  |         1 |   1        |
+| RC Enisei                |         1 |   1        |

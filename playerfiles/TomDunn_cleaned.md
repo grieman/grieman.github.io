@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Dunn  
-date: 2022-11-16 11:22:35.489147  
+date: 2022-12-09 13:13:47.436966  
 categories: player  
 ---
 # Tom Dunn
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 118.0
+## Current elo: 117.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |           177 |   0.483051 |
+| Bath Rugby |           178 |   0.480337 |
 | England    |             2 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -31,7 +31,7 @@ categories: player
 | Northampton Saints |        16 |   0.5      |
 | Exeter Chiefs      |        16 |   0.15625  |
 | Gloucester Rugby   |        15 |   0.5      |
-| Harlequins         |        13 |   0.538462 |
+| Harlequins         |        14 |   0.5      |
 | Saracens           |        13 |   0.269231 |
 | Sale Sharks        |        13 |   0.538462 |
 | Wasps              |        12 |   0.25     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Matavesi  
-date: 2022-11-16 11:41:34.731516  
+date: 2022-12-09 13:20:15.959962  
 categories: player  
 ---
 # Sam Matavesi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 50.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            54 |   0.518519 |
+| Northampton Saints |            55 |   0.509091 |
 | Cornish Pirates    |            19 |   0.578947 |
 | Fiji               |            18 |   0.361111 |
 | Stade Toulousain   |             3 |   1        |
@@ -32,14 +32,14 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Wasps               |         7 |   0.714286 |
 | London Irish        |         5 |   0.8      |
+| Gloucester Rugby    |         5 |   0.4      |
 | Leicester Tigers    |         5 |   0.2      |
 | Exeter Chiefs       |         5 |   0.4      |
 | Worcester Warriors  |         5 |   1        |
 | Bath Rugby          |         5 |   0.4      |
-| Bristol Rugby       |         4 |   0.75     |
 | Sale Sharks         |         4 |   0        |
 | Newcastle Falcons   |         4 |   0.75     |
-| Gloucester Rugby    |         4 |   0.5      |
+| Bristol Rugby       |         4 |   0.75     |
 | Harlequins          |         3 |   0        |
 | Hartpury College    |         3 |   1        |
 | Wales               |         2 |   0        |

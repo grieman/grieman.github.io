@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Afusipa Taumoepeau  
-date: 2022-11-22 11:47:22.028745  
+date: 2022-12-09 13:09:05.180473  
 categories: player  
 ---
 # Afusipa Taumoepeau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 111.0
+## Current elo: 114.0
 
-## Current Percentile: 86.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Perpignan         |            93 |   0.446237 |
+| Perpignan         |            95 |   0.447368 |
 | Castres Olympique |            51 |   0.558824 |
 | Albi              |            48 |   0.520833 |
 | Pau               |            41 |   0.670732 |
@@ -44,12 +44,12 @@ categories: player
 | Pau                        |         8 |   0.125    |
 | Mont-de-Marsan             |         8 |   0.375    |
 | Stade Francais Paris       |         8 |   0.25     |
+| Bordeaux Begles            |         8 |   0.6875   |
+| Stade Toulousain           |         8 |   0.625    |
 | Aurillac                   |         8 |   0.875    |
 | Toulon                     |         8 |   0.5      |
-| Bordeaux Begles            |         7 |   0.642857 |
 | Carcassonne                |         7 |   0.642857 |
 | Narbonne                   |         7 |   0.571429 |
-| Stade Toulousain           |         7 |   0.714286 |
 | Montauban                  |         7 |   0.428571 |
 | Clermont Auvergne          |         7 |   0.285714 |
 | Dax                        |         7 |   0.785714 |

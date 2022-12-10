@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Swan Rebbadj  
-date: 2022-11-16 11:30:49.283197  
+date: 2022-12-09 13:07:21.480388  
 categories: player  
 ---
 # Swan Rebbadj
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 28.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,22 +23,22 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Toulon |           114 |   0.526316 |
+| Toulon |           116 |   0.525862 |
 | France |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Racing 92            |         9 |   0.333333 |
 | Castres Olympique    |         9 |   0.555556 |
 | Montpellier Herault  |         9 |   0.277778 |
 | La Rochelle          |         9 |   0.333333 |
 | Clermont Auvergne    |         8 |   0.5      |
-| Racing 92            |         8 |   0.375    |
 | Bordeaux Begles      |         8 |   0.375    |
 | Pau                  |         8 |   0.6875   |
+| Stade Francais Paris |         7 |   0.428571 |
 | Brive                |         7 |   0.571429 |
 | Lyon                 |         7 |   0.571429 |
 | Stade Toulousain     |         6 |   0.583333 |
-| Stade Francais Paris |         6 |   0.333333 |
 | Bayonne              |         5 |   0.6      |
 | Scarlets             |         4 |   1        |
 | Perpignan            |         4 |   0.5      |

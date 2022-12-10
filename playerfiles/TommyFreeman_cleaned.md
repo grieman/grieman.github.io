@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommy Freeman  
-date: 2022-11-22 11:36:59.469767  
+date: 2022-12-09 13:23:45.616422  
 categories: player  
 ---
 # Tommy Freeman
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            34 |   0.529412 |
-| England            |             2 |   1        |
+| Northampton Saints |            35 |   0.514286 |
+| England            |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,12 +32,13 @@ categories: player
 | Bristol Rugby      |         4 |   0.5      |
 | Wasps              |         4 |   0.75     |
 | Exeter Chiefs      |         3 |   0.666667 |
+| Gloucester Rugby   |         3 |   0.333333 |
 | Harlequins         |         3 |   0.333333 |
 | Leicester Tigers   |         3 |   0.333333 |
 | Newcastle Falcons  |         3 |   0.666667 |
 | Australia          |         2 |   1        |
-| Gloucester Rugby   |         2 |   0.5      |
 | Sale Sharks        |         2 |   0.5      |
 | Saracens           |         2 |   0        |
 | Worcester Warriors |         2 |   1        |
 | London Irish       |         1 |   1        |
+| South Africa       |         1 |   0        |

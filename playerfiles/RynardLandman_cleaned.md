@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rynard Landman  
-date: 2022-11-22 11:41:24.423226  
+date: 2022-12-09 13:07:02.914451  
 categories: player  
 ---
 # Rynard Landman
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Dragons          |           113 |   0.318584 |
-| Carcassonne      |            56 |   0.482143 |
+| Carcassonne      |            58 |   0.482759 |
 | Cheetahs         |            21 |   0.52381  |
 | Griquas          |            12 |   0.416667 |
 | Soyaux-Angouleme |             8 |   0.625    |
@@ -43,58 +43,59 @@ categories: player
 | Zebre                      |         6 |  0.666667  |
 | Ulster                     |         6 |  0.0833333 |
 | Mont-de-Marsan             |         6 |  0.333333  |
+| Provence Rugby             |         5 |  0.6       |
 | Oyonnax                    |         5 |  0         |
 | Newcastle Falcons          |         5 |  0.2       |
 | Aurillac                   |         5 |  0.6       |
 | Montauban                  |         5 |  0.8       |
-| Vannes                     |         4 |  0.375     |
-| RC Enisei                  |         4 |  0.75      |
-| Provence Rugby             |         4 |  0.75      |
-| Biarritz Olympique         |         4 |  0.5       |
-| Nevers                     |         4 |  0.5       |
-| Natal Sharks               |         4 |  0.5       |
-| Beziers                    |         4 |  1         |
 | Rouen                      |         4 |  0.75      |
-| Bulls                      |         4 |  0.25      |
-| Colomiers                  |         4 |  0.25      |
 | Golden Lions               |         4 |  0.5       |
-| Western Province           |         3 |  0         |
+| Nevers                     |         4 |  0.5       |
+| Colomiers                  |         4 |  0.25      |
+| Beziers                    |         4 |  1         |
+| Bulls                      |         4 |  0.25      |
+| Vannes                     |         4 |  0.375     |
+| Biarritz Olympique         |         4 |  0.5       |
+| RC Enisei                  |         4 |  0.75      |
+| Natal Sharks               |         4 |  0.5       |
+| Grenoble                   |         3 |  0.333333  |
 | Perpignan                  |         3 |  0         |
+| Southern Kings             |         3 |  0.666667  |
+| Western Province           |         3 |  0         |
 | Blue Bulls                 |         3 |  0.333333  |
 | Worcester Warriors         |         3 |  0.666667  |
-| Southern Kings             |         3 |  0.666667  |
-| Grenoble                   |         3 |  0.333333  |
-| Sale Sharks                |         2 |  0.5       |
-| Sharks                     |         2 |  0.5       |
-| Queensland Reds            |         2 |  0.5       |
-| Castres Olympique          |         2 |  0.5       |
 | Pau                        |         2 |  1         |
-| Gloucester Rugby           |         2 |  0.5       |
-| Stade Francais Paris       |         2 |  1         |
-| Bayonne                    |         2 |  1         |
+| Queensland Reds            |         2 |  0.5       |
 | Bordeaux Begles            |         2 |  0.5       |
-| Melbourne Rebels           |         2 |  0.5       |
-| Free State Cheetahs        |         2 |  0         |
-| Stormers                   |         2 |  0.5       |
-| Soyaux-Angouleme           |         2 |  0.25      |
+| Sharks                     |         2 |  0.5       |
+| Stade Francais Paris       |         2 |  1         |
 | Brive                      |         2 |  0.5       |
-| Valence Romans Drome Rugby |         1 |  0         |
-| Saracens                   |         1 |  0         |
-| Western Force              |         1 |  1         |
+| Soyaux-Angouleme           |         2 |  0.25      |
+| Sale Sharks                |         2 |  0.5       |
+| Stormers                   |         2 |  0.5       |
+| Melbourne Rebels           |         2 |  0.5       |
+| Bayonne                    |         2 |  1         |
+| Gloucester Rugby           |         2 |  0.5       |
+| Free State Cheetahs        |         2 |  0         |
+| Castres Olympique          |         2 |  0.5       |
 | US Bressane                |         1 |  1         |
-| Cheetahs                   |         1 |  1         |
+| Valence Romans Drome Rugby |         1 |  0         |
+| Western Force              |         1 |  1         |
+| Saracens                   |         1 |  0         |
+| Chiefs                     |         1 |  0         |
+| Northampton Saints         |         1 |  0         |
 | Pumas                      |         1 |  0         |
 | Blues                      |         1 |  1         |
-| Chiefs                     |         1 |  0         |
 | New South Wales Waratahs   |         1 |  1         |
 | Narbonne                   |         1 |  1         |
 | Montpellier Herault        |         1 |  0         |
 | Brumbies                   |         1 |  0         |
+| Bucuresti                  |         1 |  1         |
 | Massy                      |         1 |  0         |
 | London Welsh               |         1 |  1         |
 | Lions                      |         1 |  0         |
-| Bucuresti                  |         1 |  1         |
 | Hurricanes                 |         1 |  0         |
 | Highlanders                |         1 |  1         |
 | Carcassonne                |         1 |  1         |
-| Northampton Saints         |         1 |  0         |
+| Cheetahs                   |         1 |  1         |
+| Agen                       |         1 |  1         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guiterembi Vickos  
-date: 2022-11-22 11:29:22.353757  
+date: 2022-12-09 13:12:04.087667  
 categories: player  
 ---
 # Guiterembi Vickos
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 77.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,14 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            19 |   0.578947 |
+| Massy  |            21 |    0.52381 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         2 |        0.5 |
 | Aubenas                    |         2 |        1   |
 | Blagnac                    |         2 |        0.5 |
+| Soyaux-Angouleme           |         2 |        0.5 |
 | Suresnes                   |         2 |        1   |
+| Agen                       |         1 |        0   |
 | Aurillac                   |         1 |        0   |
 | Biarritz Olympique         |         1 |        0   |
 | Carcassonne                |         1 |        1   |
@@ -39,4 +41,3 @@ categories: player
 | Narbonne                   |         1 |        0   |
 | Nevers                     |         1 |        0   |
 | Rouen                      |         1 |        0   |
-| Soyaux-Angouleme           |         1 |        1   |

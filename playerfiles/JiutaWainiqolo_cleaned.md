@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jiuta Wainiqolo  
-date: 2022-11-16 11:40:55.785769  
+date: 2022-12-09 13:03:50.634783  
 categories: player  
 ---
 # Jiuta Wainiqolo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 97.0
+## Current elo: 99.0
 
-## Current Percentile: 42.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Toulon |            24 |     0.5625 |
-| Fiji   |             4 |     0.5    |
+| Team        |   Appearances |   Win Rate |
+|:------------|--------------:|-----------:|
+| Toulon      |            26 |   0.557692 |
+| Fiji        |             4 |   0.5      |
+| Fijian Drua |             4 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,16 +33,20 @@ categories: player
 | Stade Toulousain     |         3 |   0.333333 |
 | La Rochelle          |         3 |   0.333333 |
 | Pau                  |         3 |   0.833333 |
+| Racing 92            |         2 |   0        |
 | Castres Olympique    |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |
 | Bayonne              |         1 |   1        |
-| Samoa                |         1 |   0        |
-| Stade Francais Paris |         1 |   0        |
+| Sydney Rays          |         1 |   1        |
 | Spain                |         1 |   1        |
-| Lyon                 |         1 |   1        |
-| Racing 92            |         1 |   0        |
+| Samoa                |         1 |   0        |
+| Melbourne Rising     |         1 |   1        |
+| Queensland Country   |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
+| Lyon                 |         1 |   1        |
 | Ireland              |         1 |   0        |
+| Canberra Vikings     |         1 |   0        |
 | Brive                |         1 |   0        |
 | Tonga                |         1 |   1        |

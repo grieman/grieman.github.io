@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Louis Bruinsma  
-date: 2022-11-16 11:34:50.365819  
+date: 2022-12-09 13:08:20.685408  
 categories: player  
 ---
 # Louis Bruinsma
 
-## Positions: L, FL
+## Positions: L
 
 ## Country: Netherlands
 
-## Current elo: 82.0
+## Current elo: 94.0
 
-## Current Percentile: 15.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,22 +21,37 @@ categories: player
 # Match History
 
 
-| Team           |   Appearances |   Win Rate |
-|:---------------|--------------:|-----------:|
-| Netherlands    |             7 |       0    |
-| Massy          |             4 |       0.25 |
-| Mont-de-Marsan |             3 |       1    |
+| Team        |   Appearances |   Win Rate |
+|:------------|--------------:|-----------:|
+| US Bressane |            29 |   0.568966 |
+| Netherlands |             5 |   0        |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Romania        |         2 |        0   |
-| Spain          |         2 |        0   |
-| Vannes         |         2 |        0.5 |
-| Agen           |         1 |        1   |
-| Canada         |         1 |        0   |
-| Carcassonne    |         1 |        1   |
-| Georgia        |         1 |        0   |
-| Italy          |         1 |        0   |
-| Mont-de-Marsan |         1 |        1   |
-| Nevers         |         1 |        0   |
-| Oyonnax        |         1 |        0   |
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Agen                       |         2 |        1   |
+| Chambery                   |         2 |        1   |
+| Romania                    |         2 |        0   |
+| Narbonne                   |         2 |        0.5 |
+| Vannes                     |         2 |        0   |
+| Blagnac                    |         2 |        1   |
+| Aurillac                   |         2 |        0.5 |
+| Bourgoin-Jallieu           |         1 |        1   |
+| Bayonne                    |         1 |        0   |
+| Valence Romans Drome Rugby |         1 |        1   |
+| Suresnes                   |         1 |        1   |
+| Rennes                     |         1 |        1   |
+| Provence Rugby             |         1 |        0   |
+| Portugal                   |         1 |        0   |
+| Nice                       |         1 |        1   |
+| Nevers                     |         1 |        0   |
+| Montauban                  |         1 |        0.5 |
+| Canada                     |         1 |        0   |
+| Mont-de-Marsan             |         1 |        0   |
+| Georgia                    |         1 |        0   |
+| Albi                       |         1 |        0   |
+| Dax                        |         1 |        0   |
+| Colomiers                  |         1 |        0   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Carqueiranne-Hyères        |         1 |        1   |
+| Carcassonne                |         1 |        0   |
+| Dijon                      |         1 |        1   |

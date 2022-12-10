@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Proctor  
-date: 2022-11-22 11:33:17.361216  
+date: 2022-12-09 13:05:02.225788  
 categories: player  
 ---
 # Matt Proctor
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 114.0
+## Current elo: 113.0
 
 ## Current Percentile: 84.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Hurricanes         |            67 |   0.738806 |
-| Northampton Saints |            58 |   0.413793 |
+| Northampton Saints |            59 |   0.40678  |
 | Wellington         |            42 |   0.630952 |
 | New Zealand Maori  |             7 |   0.857143 |
 | New Zealand        |             1 |   1        |
@@ -39,16 +39,16 @@ categories: player
 | North Harbour            |         6 |   0.833333 |
 | Blues                    |         6 |   0.833333 |
 | Bristol Rugby            |         6 |   0.5      |
-| Sale Sharks              |         5 |   0        |
+| Gloucester Rugby         |         5 |   0.4      |
 | Counties Manukau         |         5 |   0.8      |
-| Harlequins               |         5 |   0.2      |
+| Sale Sharks              |         5 |   0        |
 | Queensland Reds          |         5 |   1        |
 | Manawatu                 |         5 |   0.6      |
 | Melbourne Rebels         |         5 |   1        |
 | Wasps                    |         5 |   0.6      |
+| Harlequins               |         5 |   0.2      |
 | Hawke's Bay              |         4 |   0.375    |
 | Lions                    |         4 |   1        |
-| Gloucester Rugby         |         4 |   0.5      |
 | Taranaki                 |         4 |   0.75     |
 | Sharks                   |         3 |   1        |
 | Southland                |         3 |   1        |

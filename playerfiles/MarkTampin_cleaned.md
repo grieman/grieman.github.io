@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mark Tampin  
-date: 2022-11-22 11:31:29.978295  
+date: 2022-12-09 13:21:33.633145  
 categories: player  
 ---
 # Mark Tampin
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 91.0
 
-## Current Percentile: 17.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Newcastle Falcons   |            42 |   0.297619 |
+| Newcastle Falcons   |            43 |   0.290698 |
 | Ealing Trailfinders |            22 |   0.727273 |
 | Jersey              |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| London Irish       |         6 |   0.166667 |
 | Bath Rugby         |         5 |   0.4      |
-| London Irish       |         5 |   0.2      |
 | Harlequins         |         4 |   0.25     |
 | Wasps              |         4 |   0.5      |
 | Bedford            |         4 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alifereti Loaloa  
-date: 2022-11-22 11:41:54.137253  
+date: 2022-12-09 13:14:10.401397  
 categories: player  
 ---
 # Alifereti Loaloa
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 74.0
 
-## Current Percentile: 2.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            28 |   0.482143 |
+| Nevers |            30 |   0.483333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Biarritz Olympique         |         3 |   0.5      |
 | Oyonnax                    |         3 |   0        |
 | Vannes                     |         3 |   0.333333 |
+| Beziers                    |         2 |   1        |
 | Colomiers                  |         2 |   0        |
 | Grenoble                   |         2 |   0        |
+| Mont-de-Marsan             |         2 |   0.5      |
 | Montauban                  |         2 |   1        |
 | Provence Rugby             |         2 |   1        |
 | Rouen                      |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
 | Agen                       |         1 |   0        |
 | Aurillac                   |         1 |   0        |
-| Beziers                    |         1 |   1        |
 | Carcassonne                |         1 |   0        |
 | Massy                      |         1 |   1        |
-| Mont-de-Marsan             |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |

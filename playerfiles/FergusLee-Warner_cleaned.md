@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fergus Lee-Warner  
-date: 2022-11-16 11:42:09.702754  
+date: 2022-12-09 13:13:48.324466  
 categories: player  
 ---
 # Fergus Lee-Warner
 
-## Positions: FL, L
+## Positions: L, FL
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -19,11 +19,12 @@ categories: player
 # Match History
 
 
-| Team               |   Appearances |   Win Rate |
-|:-------------------|--------------:|-----------:|
-| Western Force      |            36 |   0.222222 |
-| Bath Rugby         |             4 |   0.75     |
-| Worcester Warriors |             3 |   0.333333 |
+| Team                |   Appearances |   Win Rate |
+|:--------------------|--------------:|-----------:|
+| Western Force       |            49 |   0.367347 |
+| Bath Rugby          |             5 |   0.6      |
+| Greater Sydney Rams |             4 |   0.25     |
+| Worcester Warriors  |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -31,16 +32,24 @@ categories: player
 | New South Wales Waratahs |         6 |   0.333333 |
 | Melbourne Rebels         |         6 |   0.333333 |
 | Queensland Reds          |         5 |   0.2      |
+| Fijian Drua              |         4 |   0.5      |
+| Melbourne Rising         |         3 |   0.666667 |
 | Blues                    |         2 |   0        |
-| Chiefs                   |         2 |   0        |
-| Crusaders                |         2 |   0        |
-| Highlanders              |         2 |   0        |
-| Hurricanes               |         2 |   0.5      |
+| Brisbane City            |         2 |   1        |
+| Queensland Country       |         2 |   1        |
 | Newcastle Falcons        |         2 |   1        |
-| Northampton Saints       |         1 |   1        |
+| NSW Country Eagles       |         2 |   0.5      |
+| Sydney Rays              |         2 |   1        |
+| Hurricanes               |         2 |   0.5      |
+| Highlanders              |         2 |   0        |
+| Crusaders                |         2 |   0        |
+| Chiefs                   |         2 |   0        |
+| Canberra Vikings         |         2 |   0.5      |
 | Leicester Tigers         |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
-| London Irish             |         1 |   0        |
-| Fijian Drua              |         1 |   1        |
+| Harlequins               |         1 |   0        |
 | Exeter Chiefs            |         1 |   0        |
+| Northampton Saints       |         1 |   1        |
+| Perth Spirit             |         1 |   0        |
 | Saracens                 |         1 |   0        |
+| London Irish             |         1 |   0        |

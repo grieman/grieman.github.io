@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Penny  
-date: 2022-11-22 11:30:35.320424  
+date: 2022-12-09 13:19:28.232907  
 categories: player  
 ---
 # Tom Penny
 
 ## Positions: FB, C
 
-## Current elo: 111.0
+## Current elo: 113.0
 
-## Current Percentile: 85.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            75 |   0.446667 |
+| Newcastle Falcons |            77 |   0.448052 |
 | Harlequins        |             6 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bath Rugby           |         9 |   0.444444 |
 | Gloucester Rugby     |         8 |   0.5      |
+| Exeter Chiefs        |         7 |   0.428571 |
 | Saracens             |         7 |   0.142857 |
-| Exeter Chiefs        |         6 |   0.333333 |
 | Wasps                |         6 |   0.333333 |
-| London Irish         |         5 |   0.4      |
+| London Irish         |         6 |   0.333333 |
 | Worcester Warriors   |         5 |   0.5      |
 | Harlequins           |         4 |   0.5      |
 | Northampton Saints   |         4 |   0.25     |

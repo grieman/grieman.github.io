@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Ritchie  
-date: 2022-11-22 11:43:58.821274  
+date: 2022-12-09 13:07:56.729479  
 categories: player  
 ---
 # Jamie Ritchie
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 134.0
+## Current elo: 132.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            85 |   0.570588 |
+| Edinburgh |            86 |   0.563953 |
 | Scotland  |            34 |   0.617647 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,9 +37,9 @@ categories: player
 | Cardiff Blues        |         5 |   0.4      |
 | London Irish         |         5 |   0.6      |
 | Benetton Treviso     |         4 |   0.75     |
+| Munster              |         4 |   0        |
 | France               |         4 |   0.5      |
 | Wales                |         3 |   0.333333 |
-| Munster              |         3 |   0        |
 | Argentina            |         3 |   1        |
 | Italy                |         3 |   1        |
 | Ireland              |         3 |   0        |

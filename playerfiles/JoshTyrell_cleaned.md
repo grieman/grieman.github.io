@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Tyrell  
-date: 2022-11-22 11:47:11.334038  
+date: 2022-12-09 13:05:06.201875  
 categories: player  
 ---
 # Josh Tyrell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 55.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Doncaster          |            27 |   0.407407 |
-| Biarritz Olympique |            22 |   0.431818 |
+| Biarritz Olympique |            24 |   0.458333 |
 | Oyonnax            |            22 |   0.545455 |
 | Waikato            |            16 |   0.4375   |
 | Samoa              |            10 |   0.2      |
@@ -43,6 +43,7 @@ categories: player
 | Auckland                 |         3 |   0.333333 |
 | Jersey                   |         3 |   0        |
 | Richmond                 |         3 |   0.666667 |
+| Grenoble                 |         3 |   0.5      |
 | Colomiers                |         3 |   0.5      |
 | Nottingham               |         3 |   0.333333 |
 | Carcassonne              |         3 |   0.666667 |
@@ -56,13 +57,12 @@ categories: player
 | London Irish             |         2 |   0        |
 | Vannes                   |         2 |   0        |
 | Biarritz Olympique       |         2 |   0.5      |
+| Provence Rugby           |         2 |   1        |
 | Yorkshire Carnegie       |         2 |   0        |
 | Hartpury College         |         2 |   1        |
-| Grenoble                 |         2 |   0.5      |
-| Scotland                 |         2 |   0        |
 | Brive                    |         2 |   0.5      |
+| Scotland                 |         2 |   0        |
 | Toulon                   |         1 |   0        |
-| Provence Rugby           |         1 |   1        |
 | Russia                   |         1 |   1        |
 | Southland                |         1 |   1        |
 | Oyonnax                  |         1 |   1        |

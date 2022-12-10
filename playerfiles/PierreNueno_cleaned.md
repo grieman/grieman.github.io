@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Nueno  
-date: 2022-11-22 11:40:23.081023  
+date: 2022-12-09 13:19:59.176678  
 categories: player  
 ---
 # Pierre Nueno
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 86.0
+## Current elo: 87.0
 
-## Current Percentile: 14.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            36 |   0.388889 |
+| Narbonne |            38 |   0.421053 |
 | Pau      |            13 |   0.461538 |
 | Spain    |             1 |   0        |
 
@@ -46,9 +46,10 @@ categories: player
 | Valence Romans Drome Rugby |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |
 | Stade Francais Paris       |         1 |   1        |
-| Vannes                     |         1 |   0        |
 | Rouen                      |         1 |   0        |
+| Vannes                     |         1 |   0        |
 | Romania                    |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Agen                       |         1 |   1        |
 | La Rochelle                |         1 |   0        |
@@ -60,6 +61,7 @@ categories: player
 | Clermont Auvergne          |         1 |   1        |
 | Chambery                   |         1 |   0        |
 | Castres Olympique          |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Calvisano                  |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Bayonne                    |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Craig Casey  
-date: 2022-11-22 11:38:31.268018  
+date: 2022-12-09 13:18:18.591085  
 categories: player  
 ---
 # Craig Casey
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 67.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -23,18 +23,18 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            38 |   0.710526 |
+| Munster |            40 |   0.725    |
 | Ireland |             9 |   0.777778 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Connacht                 |         7 |   0.714286 |
+| Connacht                 |         8 |   0.75     |
+| Edinburgh                |         4 |   1        |
 | Ulster                   |         4 |   0.5      |
 | Leinster                 |         4 |   0        |
 | Ospreys                  |         4 |   0.75     |
 | Zebre                    |         3 |   1        |
 | Dragons                  |         3 |   0.666667 |
-| Edinburgh                |         3 |   1        |
 | Cardiff Blues            |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Scarlets                 |         2 |   1        |

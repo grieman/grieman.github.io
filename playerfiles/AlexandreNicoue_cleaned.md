@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Nicoue  
-date: 2022-11-22 11:47:43.304416  
+date: 2022-12-09 13:23:29.302696  
 categories: player  
 ---
 # Alexandre Nicoue
 
 ## Positions: W
 
-## Current elo: 78.0
+## Current elo: 76.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |             7 |   0.142857 |
-| Rennes             |             3 |   0.333333 |
+| Rennes             |             5 |   0.2      |
 | Clermont Auvergne  |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,5 +35,7 @@ categories: player
 | Carqueiranne-Hyères |         1 |        1   |
 | Castres Olympique   |         1 |        0   |
 | Dax                 |         1 |        0   |
+| Narbonne            |         1 |        0   |
+| Nice                |         1 |        0   |
 | Racing 92           |         1 |        0   |
 | Stade Toulousain    |         1 |        0   |

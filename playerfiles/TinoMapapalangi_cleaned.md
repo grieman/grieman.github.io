@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tino Mapapalangi  
-date: 2022-11-22 11:28:30.662055  
+date: 2022-12-09 13:09:41.568913  
 categories: player  
 ---
 # Tino Mapapalangi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 81.0
+## Current elo: 82.0
 
-## Current Percentile: 11.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Rouen            |            51 |   0.401961 |
+| Rouen            |            53 |   0.40566  |
 | Leicester Tigers |            26 |   0.538462 |
 | Manawatu         |            16 |   0.3125   |
 | Tonga            |             3 |   0.333333 |
@@ -33,16 +33,17 @@ categories: player
 | Aurillac                   |         6 |   0.333333 |
 | Provence Rugby             |         5 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.75     |
+| Montauban                  |         4 |   0.5      |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Grenoble                   |         4 |   0.5      |
 | Sale Sharks                |         3 |   1        |
 | Colomiers                  |         3 |   0        |
 | Oyonnax                    |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
-| Montauban                  |         3 |   0.333333 |
 | Exeter Chiefs              |         3 |   0.333333 |
 | Carcassonne                |         3 |   0        |
 | Biarritz Olympique         |         3 |   0.333333 |
+| Beziers                    |         3 |   0.333333 |
 | Castres Olympique          |         2 |   0.5      |
 | Waikato                    |         2 |   0        |
 | Northland                  |         2 |   1        |
@@ -52,7 +53,6 @@ categories: player
 | London Irish               |         2 |   1        |
 | Wasps                      |         2 |   0.5      |
 | Munster                    |         2 |   0        |
-| Beziers                    |         2 |   0.5      |
 | Wellington                 |         2 |   1        |
 | Bath Rugby                 |         2 |   0.5      |
 | Northampton Saints         |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Bonnot  
-date: 2022-11-22 11:44:00.012776  
+date: 2022-12-09 13:03:55.790785  
 categories: player  
 ---
 # Mathieu Bonnot
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 93.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            55 |   0.409091 |
+| Rouen  |            56 |   0.419643 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,14 +29,14 @@ categories: player
 | Colomiers                  |         6 |   0.166667 |
 | Vannes                     |         5 |   0.8      |
 | Aurillac                   |         5 |   0.4      |
+| Montauban                  |         4 |   0.5      |
 | Mont-de-Marsan             |         3 |   0.333333 |
-| Provence Rugby             |         3 |   0.5      |
-| Oyonnax                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.333333 |
-| Montauban                  |         3 |   0.333333 |
-| Grenoble                   |         2 |   0.5      |
+| Oyonnax                    |         3 |   0.666667 |
+| Provence Rugby             |         3 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
 | Beziers                    |         2 |   0.5      |
+| Grenoble                   |         2 |   0.5      |
 | Bayonne                    |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |

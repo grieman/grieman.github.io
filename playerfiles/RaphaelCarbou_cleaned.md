@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Raphael Carbou  
-date: 2022-11-22 11:43:08.887980  
+date: 2022-12-09 13:17:43.903902  
 categories: player  
 ---
 # Raphael Carbou
 
 ## Positions: H
 
-## Current elo: 80.0
+## Current elo: 75.0
 
 ## Current Percentile: 3.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Perpignan   |            75 |   0.44     |
-| Carcassonne |            27 |   0.518519 |
+| Carcassonne |            29 |   0.517241 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,28 +35,28 @@ categories: player
 | Vannes                     |         5 |   0.6      |
 | Aurillac                   |         5 |   0.2      |
 | Bordeaux Begles            |         4 |   0.125    |
+| Agen                       |         4 |   0.5      |
 | Beziers                    |         3 |   0.666667 |
-| Massy                      |         3 |   0.333333 |
 | Lyon                       |         3 |   0        |
-| Agen                       |         3 |   0.333333 |
-| Dax                        |         2 |   1        |
+| Massy                      |         3 |   0.333333 |
+| Provence Rugby             |         3 |   0.333333 |
+| Clermont Auvergne          |         2 |   0        |
 | Carcassonne                |         2 |   1        |
 | Stade Francais Paris       |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Racing 92                  |         2 |   0        |
-| Provence Rugby             |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
-| Oyonnax                    |         2 |   0.5      |
 | Pau                        |         2 |   0        |
+| Oyonnax                    |         2 |   0.5      |
 | Montpellier Herault        |         2 |   0.5      |
 | Bayonne                    |         2 |   0.5      |
-| Clermont Auvergne          |         2 |   0        |
 | La Rochelle                |         2 |   0        |
+| Dax                        |         2 |   1        |
 | Nevers                     |         1 |   1        |
-| Connacht                   |         1 |   0        |
-| Albi                       |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
+| Albi                       |         1 |   1        |
 | Rouen                      |         1 |   1        |
+| Connacht                   |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Toulon                     |         1 |   0        |

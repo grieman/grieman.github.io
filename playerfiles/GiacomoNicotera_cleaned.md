@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giacomo Nicotera  
-date: 2022-11-22 11:44:51.965512  
+date: 2022-12-09 13:19:01.187103  
 categories: player  
 ---
 # Giacomo Nicotera
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 90.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,13 +23,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            17 |   0.411765 |
+| Benetton Treviso |            19 |   0.421053 |
 | Italy            |             7 |   0.571429 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Connacht         |         3 |        0   |
 | Cardiff Blues    |         2 |        0.5 |
-| Connacht         |         2 |        0   |
+| Edinburgh        |         2 |        1   |
 | Glasgow Warriors |         2 |        0.5 |
 | Bulls            |         2 |        0   |
 | Scarlets         |         2 |        0.5 |
@@ -44,6 +45,5 @@ categories: player
 | Ospreys          |         1 |        0   |
 | Leinster         |         1 |        0   |
 | Georgia          |         1 |        0   |
-| Edinburgh        |         1 |        1   |
 | Dragons          |         1 |        1   |
 | Zebre            |         1 |        1   |

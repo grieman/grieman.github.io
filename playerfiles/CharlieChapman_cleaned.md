@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Chapman  
-date: 2022-11-22 11:30:32.503335  
+date: 2022-12-09 13:07:54.183978  
 categories: player  
 ---
 # Charlie Chapman
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 75.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            46 |   0.423913 |
+| Gloucester Rugby |            48 |   0.427083 |
 | Hartpury College |             5 |   0.2      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,12 +31,12 @@ categories: player
 | Wasps               |         5 |   0.6      |
 | London Irish        |         5 |   0.5      |
 | Saracens            |         4 |   0.5      |
+| Harlequins          |         4 |   0        |
+| Northampton Saints  |         4 |   0.75     |
 | Bath Rugby          |         3 |   1        |
 | Bristol Rugby       |         3 |   0.333333 |
-| Harlequins          |         3 |   0        |
 | Leicester Tigers    |         3 |   0        |
 | Newcastle Falcons   |         3 |   0.333333 |
-| Northampton Saints  |         3 |   0.666667 |
 | Richmond            |         1 |   0        |
 | London Scottish     |         1 |   0        |
 | Nottingham          |         1 |   1        |

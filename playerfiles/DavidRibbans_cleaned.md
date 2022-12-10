@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Ribbans  
-date: 2022-11-22 11:36:23.705854  
+date: 2022-12-09 13:12:54.915501  
 categories: player  
 ---
 # David Ribbans
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 87.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            98 |   0.459184 |
-| England            |             3 |   0.5      |
+| Northampton Saints |            99 |   0.454545 |
+| England            |             4 |   0.375    |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,8 +33,8 @@ categories: player
 | Bath Rugby         |        10 |   0.3      |
 | Saracens           |         9 |   0.111111 |
 | Harlequins         |         9 |   0.555556 |
+| Gloucester Rugby   |         8 |   0.375    |
 | Leicester Tigers   |         7 |   0.142857 |
-| Gloucester Rugby   |         7 |   0.428571 |
 | Worcester Warriors |         6 |   1        |
 | Newcastle Falcons  |         6 |   0.5      |
 | Sale Sharks        |         5 |   0.2      |
@@ -47,6 +47,7 @@ categories: player
 | Lyon               |         1 |   1        |
 | New Zealand        |         1 |   0.5      |
 | Scarlets           |         1 |   1        |
+| South Africa       |         1 |   0        |
 | Timisoara Saracens |         1 |   1        |
 | Benetton Treviso   |         1 |   1        |
 | Argentina          |         1 |   0        |

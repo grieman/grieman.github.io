@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Heyes  
-date: 2022-11-16 11:43:40.044793  
+date: 2022-12-09 13:21:51.502968  
 categories: player  
 ---
 # Joe Heyes
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 70.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            89 |   0.561798 |
+| Leicester Tigers |            91 |   0.565934 |
 | England          |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -33,13 +33,13 @@ categories: player
 | Gloucester Rugby         |         7 |   0.857143 |
 | Wasps                    |         7 |   0.571429 |
 | Sale Sharks              |         7 |   0.285714 |
+| London Irish             |         7 |   0.714286 |
 | Saracens                 |         6 |   0.166667 |
 | Northampton Saints       |         6 |   0.666667 |
-| London Irish             |         6 |   0.666667 |
 | Harlequins               |         6 |   0.5      |
+| Bristol Rugby            |         6 |   0.416667 |
 | Exeter Chiefs            |         5 |   0.2      |
 | Newcastle Falcons        |         5 |   1        |
-| Bristol Rugby            |         5 |   0.4      |
 | Australia                |         3 |   0.666667 |
 | Cardiff Blues            |         2 |   1        |
 | Scarlets                 |         2 |   0.5      |

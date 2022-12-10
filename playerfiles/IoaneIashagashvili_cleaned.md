@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ioane Iashagashvili  
-date: 2022-11-22 11:32:22.403458  
+date: 2022-12-09 13:19:09.772788  
 categories: player  
 ---
 # Ioane Iashagashvili

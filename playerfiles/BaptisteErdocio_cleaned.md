@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Baptiste Erdocio  
-date: 2022-11-22 11:27:25.292491  
+date: 2022-12-09 13:16:06.127346  
 categories: player  
 ---
 # Baptiste Erdocio
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 93.0
 
 ## Current Percentile: 24.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            29 |   0.293103 |
+| Biarritz Olympique |            31 |   0.322581 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,6 +36,7 @@ categories: player
 | Stade Toulousain     |         1 |        0   |
 | Rouen                |         1 |        0   |
 | Racing 92            |         1 |        0   |
+| Provence Rugby       |         1 |        1   |
 | Perpignan            |         1 |        0   |
 | Pau                  |         1 |        0   |
 | Oyonnax              |         1 |        1   |
@@ -44,6 +45,7 @@ categories: player
 | Mont-de-Marsan       |         1 |        0   |
 | Massy                |         1 |        1   |
 | La Rochelle          |         1 |        1   |
+| Grenoble             |         1 |        0.5 |
 | Colomiers            |         1 |        1   |
 | Carcassonne          |         1 |        1   |
 | Brive                |         1 |        0   |

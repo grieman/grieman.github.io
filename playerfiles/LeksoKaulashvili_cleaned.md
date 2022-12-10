@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lekso Kaulashvili  
-date: 2022-11-16 11:22:47.182648  
+date: 2022-12-09 13:23:01.381092  
 categories: player  
 ---
 # Lekso Kaulashvili
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
+| Bordeaux Begles |            72 |   0.638889 |
 | La Rochelle     |            72 |   0.527778 |
-| Bordeaux Begles |            70 |   0.642857 |
 | Georgia         |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Brive                |        12 |   0.75     |
 | Lyon                 |        11 |   0.681818 |
-| Brive                |        11 |   0.727273 |
 | Clermont Auvergne    |        11 |   0.545455 |
 | Stade Toulousain     |        11 |   0.272727 |
 | Bayonne              |        10 |   0.75     |
@@ -44,9 +44,9 @@ categories: player
 | Grenoble             |         4 |   0.5      |
 | La Rochelle          |         4 |   0.5      |
 | Oyonnax              |         4 |   0.625    |
+| Perpignan            |         4 |   0.375    |
 | Edinburgh            |         4 |   0.875    |
 | Bordeaux Begles      |         3 |   0.666667 |
-| Perpignan            |         3 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
 | Wasps                |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |

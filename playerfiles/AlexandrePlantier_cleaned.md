@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Plantier  
-date: 2022-11-22 11:44:30.030762  
+date: 2022-12-09 13:20:41.469130  
 categories: player  
 ---
 # Alexandre Plantier
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 100.0
 
-## Current Percentile: 76.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            37 |   0.581081 |
+| Aurillac |            38 |   0.592105 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -37,10 +37,10 @@ categories: player
 | Oyonnax            |         2 |   0.5      |
 | Agen               |         2 |   0.5      |
 | Mont-de-Marsan     |         2 |   0        |
+| Colomiers          |         2 |   1        |
 | Beziers            |         2 |   0.5      |
 | Bayonne            |         1 |   0        |
 | Massy              |         1 |   1        |
-| Colomiers          |         1 |   1        |
 | Carcassonne        |         1 |   1        |
 | Biarritz Olympique |         1 |   0        |
 | Vannes             |         1 |   1        |

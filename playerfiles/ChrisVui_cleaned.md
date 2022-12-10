@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Vui  
-date: 2022-11-22 11:37:49.211350  
+date: 2022-12-09 13:19:24.954405  
 categories: player  
 ---
 # Chris Vui
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 102.0
+## Current elo: 109.0
 
-## Current Percentile: 67.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bristol Rugby      |            95 |   0.594737 |
+| Bristol Rugby      |            97 |   0.587629 |
 | North Harbour      |            20 |   0.475    |
 | Samoa              |            18 |   0.444444 |
 | Worcester Warriors |             8 |   0.5      |
@@ -32,13 +32,13 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bath Rugby           |        10 |   0.8      |
-| Gloucester Rugby     |         9 |   0.666667 |
+| Sale Sharks          |         9 |   0.277778 |
 | Wasps                |         9 |   0.333333 |
-| Sale Sharks          |         8 |   0.3125   |
+| Gloucester Rugby     |         9 |   0.666667 |
 | Harlequins           |         8 |   0.375    |
+| Leicester Tigers     |         7 |   0.5      |
 | Northampton Saints   |         7 |   0.571429 |
 | Exeter Chiefs        |         7 |   0.285714 |
-| Leicester Tigers     |         6 |   0.5      |
 | Newcastle Falcons    |         6 |   0.666667 |
 | Saracens             |         6 |   0.5      |
 | London Irish         |         5 |   0.6      |
@@ -46,22 +46,22 @@ categories: player
 | Wellington           |         3 |   0.333333 |
 | Stade Francais Paris |         3 |   1        |
 | Otago                |         3 |   0.333333 |
-| Bay of Plenty        |         2 |   0.5      |
 | Bedford              |         2 |   1        |
+| Bay of Plenty        |         2 |   0.5      |
 | Northland            |         2 |   1        |
 | Romania              |         2 |   0.5      |
 | Germany              |         2 |   1        |
+| Counties Manukau     |         2 |   1        |
 | Scotland             |         2 |   0        |
 | Southland            |         2 |   1        |
 | Tasman               |         2 |   0.25     |
-| Counties Manukau     |         2 |   1        |
-| Tonga                |         1 |   1        |
-| Russia               |         1 |   1        |
 | Wales                |         1 |   0        |
+| Russia               |         1 |   1        |
+| Waikato              |         1 |   0        |
 | Manawatu             |         1 |   0        |
 | Scarlets             |         1 |   1        |
 | New Zealand          |         1 |   0        |
-| Waikato              |         1 |   0        |
+| Tonga                |         1 |   1        |
 | Jersey               |         1 |   1        |
 | London Scottish      |         1 |   1        |
 | La Rochelle          |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Brett Connon  
-date: 2022-11-22 11:33:00.658680  
+date: 2022-12-09 13:06:59.345950  
 categories: player  
 ---
 # Brett Connon
 
 ## Positions: FH
 
-## Current elo: 79.0
+## Current elo: 77.0
 
-## Current Percentile: 3.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            69 |   0.405797 |
+| Newcastle Falcons |            71 |   0.408451 |
 | Rotherham Titans  |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -33,11 +33,11 @@ categories: player
 | Bristol Rugby       |         5 |   0.2      |
 | Northampton Saints  |         5 |   0.6      |
 | Worcester Warriors  |         4 |   0.75     |
+| London Irish        |         4 |   0.25     |
 | Saracens            |         4 |   0        |
 | Leicester Tigers    |         4 |   0        |
-| London Irish        |         3 |   0.333333 |
+| Exeter Chiefs       |         3 |   0.666667 |
 | Sale Sharks         |         3 |   0.666667 |
-| Exeter Chiefs       |         2 |   0.5      |
 | Edinburgh           |         2 |   0        |
 | Toulon              |         2 |   0.5      |
 | Montpellier Herault |         2 |   0.5      |

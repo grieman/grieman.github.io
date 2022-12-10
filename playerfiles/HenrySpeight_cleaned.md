@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Speight  
-date: 2022-11-22 11:30:24.896431  
+date: 2022-12-09 13:15:19.235042  
 categories: player  
 ---
 # Henry Speight
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 122.0
+## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Brumbies           |           121 |   0.541322 |
-| Biarritz Olympique |            27 |   0.481481 |
+| Biarritz Olympique |            29 |   0.5      |
 | Australia          |            21 |   0.547619 |
 | Waikato            |            13 |   0.692308 |
 | Ulster             |            12 |   0.791667 |
@@ -60,31 +60,33 @@ categories: player
 | Montauban                |         2 |   0.5      |
 | Manawatu                 |         2 |   0.5      |
 | Canterbury               |         2 |   0.5      |
-| Castres Olympique        |         2 |   0        |
-| England                  |         2 |   0        |
 | Auckland                 |         2 |   1        |
 | Bordeaux Begles          |         2 |   0.5      |
+| Castres Olympique        |         2 |   0        |
 | Aurillac                 |         2 |   1        |
+| England                  |         2 |   0        |
+| Stade Toulousain         |         1 |   0        |
+| Brive                    |         1 |   1        |
 | Brisbane City            |         1 |   0        |
+| Wellington               |         1 |   0        |
 | South Africa             |         1 |   0.5      |
 | Benetton Treviso         |         1 |   1        |
 | Soyaux-Angouleme         |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
-| Stade Toulousain         |         1 |   0        |
+| Vannes                   |         1 |   0        |
+| Uruguay                  |         1 |   1        |
 | Bay of Plenty            |         1 |   1        |
+| Brumbies                 |         1 |   0        |
 | Sydney Rays              |         1 |   1        |
-| Racing 92                |         1 |   1        |
 | Taranaki                 |         1 |   0        |
 | Tasman                   |         1 |   1        |
 | Toulon                   |         1 |   0        |
 | United States of America |         1 |   1        |
-| Uruguay                  |         1 |   1        |
-| Vannes                   |         1 |   0        |
-| Wellington               |         1 |   0        |
-| Brive                    |         1 |   1        |
+| Racing 92                |         1 |   1        |
 | Fiji                     |         1 |   1        |
-| Brumbies                 |         1 |   0        |
-| Clermont Auvergne        |         1 |   0        |
+| Provence Rugby           |         1 |   1        |
+| France                   |         1 |   1        |
+| Grenoble                 |         1 |   0.5      |
 | Edinburgh                |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | Counties Manukau         |         1 |   1        |
@@ -93,8 +95,8 @@ categories: player
 | Lyon                     |         1 |   0        |
 | Colomiers                |         1 |   1        |
 | Massy                    |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
 | Mont-de-Marsan           |         1 |   0        |
-| France                   |         1 |   1        |
 | Munster                  |         1 |   1        |
 | NSW Country Eagles       |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |

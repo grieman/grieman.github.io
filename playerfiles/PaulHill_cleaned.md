@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Hill  
-date: 2022-11-22 11:34:09.598628  
+date: 2022-12-09 13:24:44.347082  
 categories: player  
 ---
 # Paul Hill
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 82.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           156 |   0.503205 |
-| England            |             8 |   1        |
+| Northampton Saints |           157 |        0.5 |
+| England            |             8 |        1   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,9 +34,9 @@ categories: player
 | Wasps               |        12 |   0.416667 |
 | Sale Sharks         |        12 |   0.416667 |
 | Bath Rugby          |        12 |   0.5      |
+| Gloucester Rugby    |        11 |   0.727273 |
 | Newcastle Falcons   |        11 |   0.545455 |
 | Harlequins          |        11 |   0.363636 |
-| Gloucester Rugby    |        10 |   0.8      |
 | Worcester Warriors  |        10 |   0.9      |
 | Bristol Rugby       |         7 |   0.714286 |
 | London Irish        |         7 |   0.857143 |

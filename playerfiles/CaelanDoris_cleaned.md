@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Caelan Doris  
-date: 2022-11-22 11:43:48.068955  
+date: 2022-12-09 13:16:12.728622  
 categories: player  
 ---
 # Caelan Doris
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 122.0
+## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            43 |   0.872093 |
-| Ireland  |            20 |   0.8      |
+| Leinster |            44 |      0.875 |
+| Ireland  |            20 |      0.8   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Munster                  |         6 |   1        |
 | Benetton Treviso         |         6 |   0.916667 |
+| Ulster                   |         5 |   0.8      |
 | Connacht                 |         5 |   0.8      |
-| Ulster                   |         4 |   0.75     |
 | Glasgow Warriors         |         4 |   0.75     |
 | New Zealand              |         4 |   0.75     |
 | Dragons                  |         3 |   1        |

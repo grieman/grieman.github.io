@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Twelvetrees  
-date: 2022-11-22 11:43:05.619920  
+date: 2022-12-09 13:18:26.293457  
 categories: player  
 ---
 # Billy Twelvetrees
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           250 |   0.528    |
+| Gloucester Rugby |           252 |   0.527778 |
 | Leicester Tigers |            58 |   0.681034 |
 | England          |            21 |   0.761905 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Harlequins           |        25 |   0.3      |
 | Exeter Chiefs        |        24 |   0.4375   |
 | Saracens             |        24 |   0.333333 |
-| Harlequins           |        24 |   0.3125   |
 | Sale Sharks          |        23 |   0.521739 |
 | Wasps                |        22 |   0.522727 |
+| Northampton Saints   |        22 |   0.477273 |
 | Bath Rugby           |        21 |   0.547619 |
-| Northampton Saints   |        21 |   0.452381 |
 | Newcastle Falcons    |        20 |   0.75     |
 | London Irish         |        20 |   0.725    |
 | Worcester Warriors   |        19 |   0.789474 |

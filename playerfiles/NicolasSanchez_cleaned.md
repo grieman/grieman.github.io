@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Sanchez  
-date: 2022-11-22 11:45:01.398189  
+date: 2022-12-09 13:14:23.772022  
 categories: player  
 ---
 # Nicolas Sanchez
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 127.0
+## Current elo: 126.0
 
 ## Current Percentile: 96.0
 
@@ -28,6 +28,7 @@ categories: player
 | Jaguares             |            41 |  0.414634  |
 | Bordeaux Begles      |            17 |  0.0882353 |
 | Toulon               |            14 |  0.714286  |
+| Brive                |             2 |  0         |
 | Argentina Jaguares   |             1 |  0         |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,11 +45,11 @@ categories: player
 | Clermont Auvergne        |         6 |   0.166667 |
 | Bayonne                  |         6 |   0.166667 |
 | Sharks                   |         6 |   0.166667 |
+| Pau                      |         5 |   0.6      |
 | Brive                    |         5 |   0.6      |
 | Racing 92                |         5 |   0.6      |
 | Italy                    |         4 |   1        |
 | Castres Olympique        |         4 |   0.625    |
-| Pau                      |         4 |   0.75     |
 | England                  |         4 |   0        |
 | Stormers                 |         4 |   0.25     |
 | Toulon                   |         4 |   0.25     |
@@ -59,12 +60,12 @@ categories: player
 | Lyon                     |         3 |   0.666667 |
 | Southern Kings           |         3 |   0.333333 |
 | Agen                     |         3 |   0.666667 |
+| Bordeaux Begles          |         3 |   0        |
 | Grenoble                 |         3 |   0.666667 |
 | Connacht                 |         2 |   0.5      |
 | Bristol Rugby            |         2 |   0        |
 | Stade Francais Paris     |         2 |   0        |
 | Chiefs                   |         2 |   0.5      |
-| Bordeaux Begles          |         2 |   0        |
 | Hurricanes               |         2 |   0        |
 | Blues                    |         2 |   0.5      |
 | Queensland Reds          |         2 |   0.5      |

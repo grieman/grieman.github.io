@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mark Bennett  
-date: 2022-11-22 11:41:57.408790  
+date: 2022-12-09 13:06:49.022698  
 categories: player  
 ---
 # Mark Bennett
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 113.0
+## Current elo: 110.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Edinburgh        |            69 |   0.557971 |
+| Edinburgh        |            70 |   0.55     |
 | Glasgow Warriors |            67 |   0.649254 |
 | Scotland         |            30 |   0.366667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Munster                  |        14 |   0.285714 |
 | Ulster                   |        13 |   0.384615 |
 | Cardiff Blues            |        13 |   0.692308 |
-| Munster                  |        13 |   0.307692 |
 | Scarlets                 |        12 |   0.833333 |
 | Benetton Treviso         |        10 |   0.7      |
 | Leinster                 |         9 |   0.5      |

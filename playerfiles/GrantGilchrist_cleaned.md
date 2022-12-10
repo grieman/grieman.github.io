@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Grant Gilchrist  
-date: 2022-11-22 11:35:54.360353  
+date: 2022-12-09 13:14:13.809898  
 categories: player  
 ---
 # Grant Gilchrist
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 113.0
+## Current elo: 110.0
 
-## Current Percentile: 88.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           177 |   0.480226 |
+| Edinburgh |           178 |   0.477528 |
 | Scotland  |            57 |   0.552632 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Glasgow Warriors         |        20 |   0.475    |
+| Munster                  |        14 |   0.214286 |
 | Scarlets                 |        14 |   0.464286 |
-| Munster                  |        13 |   0.230769 |
 | Benetton Treviso         |        13 |   0.615385 |
 | Ulster                   |        13 |   0.153846 |
 | Cardiff Blues            |        11 |   0.454545 |

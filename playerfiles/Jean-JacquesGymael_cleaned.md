@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Jacques Gymael  
-date: 2022-11-22 11:32:50.697365  
+date: 2022-12-09 13:10:43.054419  
 categories: player  
 ---
 # Jean-Jacques Gymael
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 37.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Albi     |             8 |   0.375    |
-| Aurillac |             7 |   0.428571 |
+| Albi     |             8 |      0.375 |
+| Aurillac |             8 |      0.5   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          0 |
+| Colomiers                  |         1 |          1 |
 | Massy                      |         1 |          0 |
 | Montauban                  |         1 |          1 |
 | Nevers                     |         1 |          1 |

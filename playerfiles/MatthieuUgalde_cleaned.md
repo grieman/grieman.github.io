@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matthieu Ugalde  
-date: 2022-11-22 11:36:12.232377  
+date: 2022-12-09 13:16:31.265901  
 categories: player  
 ---
 # Matthieu Ugalde
 
 ## Positions: FH, C
 
-## Current elo: 105.0
+## Current elo: 109.0
 
-## Current Percentile: 81.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Brive            |            72 |   0.465278 |
-| Soyaux-Angouleme |            64 |   0.546875 |
+| Soyaux-Angouleme |            66 |   0.545455 |
 | Bayonne          |            49 |   0.459184 |
 | Grenoble         |            11 |   0.181818 |
 
@@ -35,10 +35,10 @@ categories: player
 | Stade Toulousain           |         8 |   0.3125   |
 | Stade Francais Paris       |         8 |   0.625    |
 | Racing 92                  |         8 |   0.125    |
+| Oyonnax                    |         8 |   0.375    |
 | La Rochelle                |         8 |   0.375    |
 | Bordeaux Begles            |         8 |   0.4375   |
 | Clermont Auvergne          |         8 |   0.25     |
-| Oyonnax                    |         7 |   0.428571 |
 | Agen                       |         6 |   0.5      |
 | Connacht                   |         6 |   0.166667 |
 | Lyon                       |         5 |   0.3      |
@@ -48,10 +48,10 @@ categories: player
 | Perpignan                  |         4 |   0.25     |
 | Biarritz Olympique         |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.5      |
+| Massy                      |         4 |   0.5      |
 | Rouen                      |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.166667 |
 | Montauban                  |         3 |   0.166667 |
-| Massy                      |         3 |   0.333333 |
 | Beziers                    |         3 |   1        |
 | Dragons                    |         3 |   1        |
 | Bayonne                    |         2 |   0        |

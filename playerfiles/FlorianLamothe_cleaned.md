@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Florian Lamothe  
-date: 2022-11-22 11:32:08.807641  
+date: 2022-12-09 13:10:29.240208  
 categories: player  
 ---
 # Florian Lamothe
 
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: 19.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            24 |     0.4375 |
+| Tarbes |            26 |   0.403846 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,12 +30,13 @@ categories: player
 | Blagnac                    |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Chambery                   |         2 |   0        |
+| Dax                        |         2 |   0.5      |
 | Dijon                      |         2 |   0.25     |
 | Narbonne                   |         2 |   0.5      |
 | Nice                       |         2 |   0        |
 | Suresnes                   |         2 |   0.5      |
 | Carqueiranne-Hyères        |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
-| Dax                        |         1 |   1        |
 | Massy                      |         1 |   0        |
 | Rennes                     |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   0        |

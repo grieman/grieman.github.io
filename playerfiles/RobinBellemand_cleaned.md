@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin Bellemand  
-date: 2022-11-22 11:42:02.458889  
+date: 2022-12-09 13:20:13.648062  
 categories: player  
 ---
 # Robin Bellemand
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 34.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |             8 |        0.5 |
+| Colomiers |             9 |   0.444444 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Agen               |         1 |          1 |
+| Aurillac           |         1 |          0 |
 | Beziers            |         1 |          1 |
 | Biarritz Olympique |         1 |          0 |
 | Mont-de-Marsan     |         1 |          0 |

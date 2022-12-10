@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Téo Dospital  
-date: 2022-11-22 11:36:50.897813  
+date: 2022-12-09 13:17:24.984352  
 categories: player  
 ---
 # Téo Dospital
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 53.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Cognac Saint Jean d'Angély |            38 |   0.381579 |
-| Albi                       |             6 |   0.5      |
+| Albi                       |             8 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,12 +34,12 @@ categories: player
 | Dijon                      |         3 |   1        |
 | Nice                       |         3 |   0.333333 |
 | Massy                      |         3 |   0        |
+| Chambery                   |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Narbonne                   |         2 |   0        |
-| Chambery                   |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
+| US Bressane                |         2 |   0.5      |
 | Aubenas                    |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   0        |
-| US Bressane                |         1 |   0        |

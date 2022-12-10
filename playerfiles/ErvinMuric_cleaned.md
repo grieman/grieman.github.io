@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ervin Muric  
-date: 2022-11-22 11:27:34.402848  
+date: 2022-12-09 13:24:03.777627  
 categories: player  
 ---
 # Ervin Muric
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 48.0
+## Current elo: 49.0
 
 ## Current Percentile: 0.0
 
@@ -23,25 +23,25 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Suresnes         |            26 |       0.5  |
-| Belgium          |             8 |       0.25 |
-| Hartpury College |             4 |       0.25 |
+| Suresnes         |            28 |   0.535714 |
+| Belgium          |             8 |   0.25     |
+| Hartpury College |             4 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         3 |   0.333333 |
 | Tarbes                     |         3 |   1        |
 | Spain                      |         3 |   0.333333 |
+| Chambery                   |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         3 |   1        |
 | Dax                        |         2 |   0.5      |
 | Romania                    |         2 |   0        |
 | Nice                       |         2 |   0.5      |
 | Georgia                    |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   1        |
-| Chambery                   |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
-| Coventry                   |         1 |   1        |
 | Dijon                      |         1 |   1        |
+| Coventry                   |         1 |   1        |
 | Aubenas                    |         1 |   0        |
 | Jersey                     |         1 |   0        |
 | Narbonne                   |         1 |   0        |

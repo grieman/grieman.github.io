@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Johannes Jonker  
-date: 2022-11-16 11:31:41.091907  
+date: 2022-12-09 13:22:23.828359  
 categories: player  
 ---
 # Johannes Jonker
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 88.0
 
 ## Current Percentile: None
 
@@ -24,8 +24,8 @@ categories: player
 | Lions               |            36 |   0.638889 |
 | Montpellier Herault |            12 |   0.5      |
 | Golden Lions        |             8 |   0.625    |
+| Bath Rugby          |             7 |   0.285714 |
 | Border Bulldogs     |             7 |   0.285714 |
-| Bath Rugby          |             6 |   0.333333 |
 | Ealing Trailfinders |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -47,7 +47,7 @@ categories: player
 | Natal Sharks             |         2 |   0        |
 | Leopards                 |         2 |   0        |
 | Glasgow Warriors         |         2 |   1        |
-| Griquas                  |         1 |   1        |
+| Harlequins               |         1 |   0        |
 | Racing 92                |         1 |   0        |
 | Western Force            |         1 |   1        |
 | Wasps                    |         1 |   0        |
@@ -61,7 +61,7 @@ categories: player
 | Sale Sharks              |         1 |   0        |
 | SWD Eagles               |         1 |   0        |
 | Clermont Auvergne        |         1 |   1        |
-| Griffons                 |         1 |   1        |
+| Griquas                  |         1 |   1        |
 | Pumas                    |         1 |   1        |
 | Pau                      |         1 |   0        |
 | Coventry                 |         1 |   1        |
@@ -72,4 +72,5 @@ categories: player
 | Boland Cavaliers         |         1 |   0        |
 | Leicester Tigers         |         1 |   1        |
 | La Rochelle              |         1 |   0        |
+| Griffons                 |         1 |   1        |
 | Western Province         |         1 |   1        |

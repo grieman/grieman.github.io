@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duhan van der Merwe  
-date: 2022-11-22 11:27:50.686123  
+date: 2022-12-09 13:23:07.840847  
 categories: player  
 ---
 # Duhan van der Merwe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 97.0
+## Current elo: 94.0
 
-## Current Percentile: 45.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Edinburgh               |            63 |   0.674603 |
+| Edinburgh               |            64 |   0.664062 |
 | Scotland                |            20 |   0.55     |
 | Worcester Warriors      |            13 |   0.384615 |
 | British and Irish Lions |             4 |   0.5      |
@@ -32,7 +32,7 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Glasgow Warriors     |        12 |   0.666667 |
-| Munster              |         6 |   0.333333 |
+| Munster              |         7 |   0.285714 |
 | Scarlets             |         5 |   1        |
 | Newcastle Falcons    |         4 |   0.75     |
 | Argentina            |         4 |   0.5      |

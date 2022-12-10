@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mahamadou Diaby  
-date: 2022-11-16 11:25:24.449919  
+date: 2022-12-09 13:05:57.453454  
 categories: player  
 ---
 # Mahamadou Diaby
 
 ## Positions: FL
 
-## Current elo: 87.0
+## Current elo: 90.0
 
-## Current Percentile: 22.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           106 |   0.575472 |
+| Bordeaux Begles |           108 |   0.574074 |
 | Grenoble        |            46 |   0.478261 |
 | Oyonnax         |            10 |   0.5      |
 
@@ -38,8 +38,8 @@ categories: player
 | Clermont Auvergne    |         9 |   0.555556 |
 | Lyon                 |         9 |   0.666667 |
 | Agen                 |         8 |   1        |
-| Brive                |         7 |   0.5      |
-| Perpignan            |         5 |   0.7      |
+| Brive                |         8 |   0.5625   |
+| Perpignan            |         6 |   0.583333 |
 | Oyonnax              |         5 |   0.6      |
 | Bayonne              |         4 |   0.75     |
 | Edinburgh            |         4 |   0.75     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Ashton  
-date: 2022-11-16 11:25:57.430029  
+date: 2022-12-09 13:12:31.269491  
 categories: player  
 ---
 # Chris Ashton
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 128.0
+## Current elo: 125.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -28,7 +28,7 @@ categories: player
 | England            |            42 |   0.630952 |
 | Toulon             |            30 |   0.616667 |
 | Sale Sharks        |            24 |   0.541667 |
-| Leicester Tigers   |            16 |   0.75     |
+| Leicester Tigers   |            18 |   0.75     |
 | Harlequins         |             7 |   0.571429 |
 | Worcester Warriors |             4 |   0        |
 | Barbarians         |             1 |   1        |
@@ -45,15 +45,15 @@ categories: player
 | Exeter Chiefs        |        13 |   0.538462 |
 | Newcastle Falcons    |        12 |   0.833333 |
 | Worcester Warriors   |        12 |   0.75     |
+| London Irish         |        10 |   0.9      |
 | Saracens             |        10 |   0.5      |
 | Munster              |        10 |   0.4      |
-| London Irish         |         9 |   0.888889 |
+| Bristol Rugby        |         8 |   0.625    |
 | Clermont Auvergne    |         7 |   0.571429 |
-| Bristol Rugby        |         7 |   0.642857 |
+| Scarlets             |         6 |   0.583333 |
 | France               |         6 |   0.666667 |
 | Racing 92            |         6 |   0.666667 |
 | South Africa         |         6 |   0.25     |
-| Scarlets             |         6 |   0.583333 |
 | New Zealand          |         5 |   0.2      |
 | Ulster               |         5 |   1        |
 | Australia            |         5 |   0.6      |

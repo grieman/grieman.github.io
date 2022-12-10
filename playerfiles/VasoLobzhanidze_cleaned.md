@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2022-11-22 11:33:56.944463  
+date: 2022-12-09 13:11:15.928933  
 categories: player  
 ---
 # Vaso Lobzhanidze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 22.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Brive   |            90 |   0.433333 |
+| Brive   |            92 |   0.423913 |
 | Georgia |            48 |   0.572917 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -31,8 +31,8 @@ categories: player
 | Castres Olympique        |         7 |   0.571429 |
 | Lyon                     |         7 |   0.285714 |
 | Stade Francais Paris     |         7 |   0.714286 |
-| Pau                      |         6 |   0.666667 |
-| Bordeaux Begles          |         5 |   0.2      |
+| Pau                      |         7 |   0.571429 |
+| Bordeaux Begles          |         6 |   0.166667 |
 | Stade Toulousain         |         5 |   0        |
 | Clermont Auvergne        |         5 |   0.2      |
 | Montpellier Herault      |         5 |   0.3      |

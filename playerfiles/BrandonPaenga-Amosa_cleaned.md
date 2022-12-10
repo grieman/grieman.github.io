@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brandon Paenga-Amosa  
-date: 2022-11-16 11:34:34.051337  
+date: 2022-12-09 13:10:21.518016  
 categories: player  
 ---
 # Brandon Paenga-Amosa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 100.0
+## Current elo: 90.0
 
-## Current Percentile: 60.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -24,40 +24,54 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Queensland Reds     |            55 |   0.463636 |
-| Montpellier Herault |            22 |   0.704545 |
+| Montpellier Herault |            24 |   0.6875   |
 | Australia           |            16 |   0.34375  |
+| Brisbane City       |            10 |   0.35     |
+| Greater Sydney Rams |             7 |   0.285714 |
+| NSW Country Eagles  |             7 |   0.642857 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Brumbies                 |        11 |   0.545455 |
 | Melbourne Rebels         |         8 |   0.5625   |
 | New South Wales Waratahs |         7 |   0.285714 |
+| Western Force            |         6 |   0.5      |
 | New Zealand              |         6 |   0.166667 |
-| Western Force            |         4 |   0.75     |
 | Sunwolves                |         4 |   0.75     |
-| France                   |         3 |   0.666667 |
+| Canberra Vikings         |         4 |   0.25     |
+| Fijian Drua              |         3 |   0.166667 |
+| Queensland Country       |         3 |   0.333333 |
+| Melbourne Rising         |         3 |   1        |
 | Ireland                  |         3 |   0.333333 |
 | Highlanders              |         3 |   0        |
+| France                   |         3 |   0.666667 |
 | Argentina                |         3 |   0.5      |
-| Bordeaux Begles          |         3 |   0.666667 |
-| Blues                    |         3 |   0.333333 |
 | Chiefs                   |         3 |   0.333333 |
+| Blues                    |         3 |   0.333333 |
+| Bordeaux Begles          |         3 |   0.666667 |
 | Crusaders                |         2 |   0        |
-| Stormers                 |         2 |   0.5      |
-| Stade Toulousain         |         2 |   0        |
-| Stade Francais Paris     |         2 |   1        |
+| NSW Country Eagles       |         2 |   0.5      |
 | Racing 92                |         2 |   0.5      |
+| Perth Spirit             |         2 |   0.5      |
 | Perpignan                |         2 |   1        |
 | Pau                      |         2 |   1        |
+| Stormers                 |         2 |   0.5      |
+| Brisbane City            |         2 |   0.25     |
 | Brive                    |         2 |   0.75     |
+| Stade Francais Paris     |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
 | Biarritz Olympique       |         2 |   1        |
+| Sydney Rays              |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
-| Lyon                     |         1 |   0        |
-| Sharks                   |         1 |   1        |
-| South Africa             |         1 |   0        |
-| Castres Olympique        |         1 |   1        |
+| Stade Toulousain         |         2 |   0        |
 | Toulon                   |         1 |   1        |
+| North Harbour Rays       |         1 |   0        |
+| South Africa             |         1 |   0        |
+| Sharks                   |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
+| Lyon                     |         1 |   0        |
+| Bayonne                  |         1 |   1        |
+| Castres Olympique        |         1 |   1        |
 | Lions                    |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Api Ratuniyarawa  
-date: 2022-11-16 11:35:25.266035  
+date: 2022-12-09 13:21:35.153948  
 categories: player  
 ---
 # Api Ratuniyarawa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 101.0
+## Current elo: 104.0
 
-## Current Percentile: 65.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Northampton Saints |           123 |   0.447154 |
 | Agen               |            56 |   0.473214 |
 | Fiji               |            24 |   0.354167 |
-| London Irish       |             7 |   0.285714 |
+| London Irish       |             9 |   0.333333 |
 | North Harbour      |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -35,10 +35,10 @@ categories: player
 | Bath Rugby           |        12 |   0.333333 |
 | Sale Sharks          |        12 |   0.416667 |
 | Gloucester Rugby     |        12 |   0.5      |
+| Leicester Tigers     |        11 |   0.363636 |
 | Exeter Chiefs        |        10 |   0.3      |
 | Wasps                |        10 |   0.4      |
-| Leicester Tigers     |        10 |   0.4      |
-| Newcastle Falcons    |         9 |   0.444444 |
+| Newcastle Falcons    |        10 |   0.5      |
 | Bristol Rugby        |         7 |   0.428571 |
 | Worcester Warriors   |         7 |   1        |
 | Saracens             |         7 |   0        |

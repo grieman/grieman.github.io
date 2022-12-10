@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ilan El Khattabi  
-date: 2022-11-22 11:35:13.621834  
+date: 2022-12-09 13:15:27.773476  
 categories: player  
 ---
 # Ilan El Khattabi
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 47.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |             4 |       0.75 |
+| Oyonnax |             6 |   0.833333 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rouen      |         2 |        0.5 |
-| Agen       |         1 |        1   |
-| Aurillac   |         1 |        1   |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Aurillac         |         2 |        1   |
+| Rouen            |         2 |        0.5 |
+| Agen             |         1 |        1   |
+| Soyaux-Angouleme |         1 |        1   |

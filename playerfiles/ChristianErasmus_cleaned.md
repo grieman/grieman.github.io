@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Christian Erasmus  
-date: 2022-11-22 11:26:45.306067  
+date: 2022-12-09 13:18:52.201325  
 categories: player  
 ---
 # Christian Erasmus
 
 ## Positions: W
 
-## Current elo: 115.0
+## Current elo: 111.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -22,16 +22,16 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | US Bressane |            26 |   0.576923 |
-| Nevers      |             6 |   0.5      |
+| Nevers      |             7 |   0.571429 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Beziers          |         3 |   1        |
 | Rouen            |         3 |   0.833333 |
 | Colomiers        |         3 |   0.333333 |
 | Grenoble         |         3 |   0.333333 |
 | Narbonne         |         2 |   1        |
 | Aurillac         |         2 |   0        |
-| Beziers          |         2 |   1        |
 | Provence Rugby   |         2 |   0.25     |
 | Agen             |         1 |   1        |
 | Tarbes           |         1 |   1        |

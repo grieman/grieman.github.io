@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Munilla lo Duca  
-date: 2022-11-22 11:40:39.970640  
+date: 2022-12-09 13:24:35.323112  
 categories: player  
 ---
 # Tomas Munilla lo Duca
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 100.0
+## Current elo: 99.0
 
 ## Current Percentile: 63.0
 
@@ -25,33 +25,35 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Beziers          |            32 |      0.375 |
 | Spain            |             8 |      0.875 |
-| Bourgoin-Jallieu |             2 |      0.5   |
+| Bourgoin-Jallieu |             4 |      0.5   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Nevers                     |         4 |   0.125    |
-| Carcassonne                |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.333333 |
+| Carcassonne                |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0        |
-| Vannes                     |         2 |   0.5      |
-| Portugal                   |         2 |   1        |
-| Colomiers                  |         2 |   0.5      |
+| Montauban                  |         2 |   0.5      |
 | Roval Drome XV             |         2 |   1        |
 | Rouen                      |         2 |   1        |
-| Montauban                  |         2 |   0.5      |
+| Portugal                   |         2 |   1        |
 | Biarritz Olympique         |         2 |   0        |
+| Vannes                     |         2 |   0.5      |
+| Colomiers                  |         2 |   0.5      |
+| Georgia                    |         1 |   0        |
+| Romania                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | US Bressane                |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Russia                     |         1 |   1        |
-| Romania                    |         1 |   1        |
-| Aurillac                   |         1 |   0        |
-| Perpignan                  |         1 |   0        |
-| Massy                      |         1 |   1        |
-| Grenoble                   |         1 |   0        |
-| Georgia                    |         1 |   0        |
-| Chile                      |         1 |   1        |
-| Chambery                   |         1 |   1        |
-| Canada                     |         1 |   1        |
+| Blagnac                    |         1 |   0        |
 | Brive                      |         1 |   1        |
+| Canada                     |         1 |   1        |
+| Grenoble                   |         1 |   0        |
+| Perpignan                  |         1 |   0        |
+| Chambery                   |         1 |   1        |
+| Chile                      |         1 |   1        |
 | Netherlands                |         1 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| Massy                      |         1 |   1        |
+| Aurillac                   |         1 |   0        |

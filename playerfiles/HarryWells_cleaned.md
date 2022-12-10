@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Wells  
-date: 2022-11-16 11:30:41.383230  
+date: 2022-12-09 13:21:12.834637  
 categories: player  
 ---
 # Harry Wells
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 121.0
+## Current elo: 119.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |           147 |   0.568027 |
+| Leicester Tigers |           148 |   0.567568 |
 | England          |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -38,8 +38,8 @@ categories: player
 | Worcester Warriors |        11 |   0.636364 |
 | Gloucester Rugby   |        10 |   0.8      |
 | London Irish       |        10 |   0.7      |
+| Bristol Rugby      |         9 |   0.5      |
 | Newcastle Falcons  |         9 |   0.888889 |
-| Bristol Rugby      |         8 |   0.5      |
 | Racing 92          |         3 |   0        |
 | Cardiff Blues      |         3 |   1        |
 | Scarlets           |         3 |   0.333333 |

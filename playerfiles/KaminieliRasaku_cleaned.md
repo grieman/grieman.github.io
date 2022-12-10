@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kaminieli Rasaku  
-date: 2022-11-22 11:34:42.497277  
+date: 2022-12-09 13:10:05.267924  
 categories: player  
 ---
 # Kaminieli Rasaku
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 37.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Bayonne        |             1 |          0 |
-| Mont-de-Marsan |             1 |          0 |
+| Mont-de-Marsan |             3 |   0.666667 |
+| Bayonne        |             1 |   0        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Castres Olympique |         1 |          0 |
+| Nevers            |         1 |          1 |
 | Provence Rugby    |         1 |          0 |
+| Vannes            |         1 |          1 |

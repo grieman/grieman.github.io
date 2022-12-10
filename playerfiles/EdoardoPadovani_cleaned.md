@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Edoardo Padovani  
-date: 2022-11-22 11:43:21.050831  
+date: 2022-12-09 13:22:58.389091  
 categories: player  
 ---
 # Edoardo Padovani
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 107.0
+## Current elo: 104.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -25,15 +25,15 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Zebre            |            85 |   0.276471 |
 | Italy            |            40 |   0.2      |
-| Benetton Treviso |            18 |   0.444444 |
+| Benetton Treviso |            19 |   0.421053 |
 | Mogliano         |            10 |   0        |
 | Toulon           |             4 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Dragons              |        10 |   0.4      |
+| Connacht             |        10 |   0.1      |
 | Benetton Treviso     |        10 |   0.2      |
-| Connacht             |         9 |   0.111111 |
 | Glasgow Warriors     |         9 |   0.222222 |
 | Scarlets             |         7 |   0.142857 |
 | Leinster             |         6 |   0        |

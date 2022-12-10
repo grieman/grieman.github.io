@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finlay Bealham  
-date: 2022-11-22 11:45:50.164980  
+date: 2022-12-09 13:06:45.478422  
 categories: player  
 ---
 # Finlay Bealham
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 77.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,18 +23,18 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           173 |   0.485549 |
+| Connacht |           175 |   0.485714 |
 | Ireland  |            24 |   0.791667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Munster                  |        18 |   0.333333 |
+| Munster                  |        19 |   0.315789 |
 | Ulster                   |        15 |   0.333333 |
 | Leinster                 |        13 |   0.230769 |
 | Cardiff Blues            |        13 |   0.307692 |
 | Zebre                    |        13 |   0.769231 |
+| Benetton Treviso         |        12 |   0.916667 |
 | Glasgow Warriors         |        11 |   0.272727 |
-| Benetton Treviso         |        11 |   0.909091 |
 | Scarlets                 |        10 |   0.4      |
 | Ospreys                  |        10 |   0.4      |
 | Dragons                  |         9 |   0.777778 |

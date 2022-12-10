@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mike Tadjer Barbosa  
-date: 2022-11-22 11:47:57.965495  
+date: 2022-12-09 13:04:22.551398  
 categories: player  
 ---
 # Mike Tadjer Barbosa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 101.0
+## Current elo: 106.0
 
-## Current Percentile: 11.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -26,8 +26,8 @@ categories: player
 | Agen              |            38 |   0.342105 |
 | Brive             |            25 |   0.24     |
 | Massy             |            23 |   0.347826 |
+| Perpignan         |            21 |   0.428571 |
 | Grenoble          |            20 |   0.25     |
-| Perpignan         |            19 |   0.421053 |
 | Montauban         |            15 |   0.433333 |
 | Portugal          |            14 |   0.464286 |
 | Clermont Auvergne |            10 |   0.7      |
@@ -35,12 +35,12 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Pau                        |        10 |   0.1      |
+| Stade Toulousain           |         8 |   0        |
 | Agen                       |         7 |   0.5      |
+| Bordeaux Begles            |         7 |   0.428571 |
 | Toulon                     |         7 |   0.571429 |
-| Stade Toulousain           |         7 |   0        |
 | Stade Francais Paris       |         7 |   0.571429 |
 | Clermont Auvergne          |         7 |   0.214286 |
-| Bordeaux Begles            |         6 |   0.333333 |
 | Montpellier Herault        |         6 |   0.333333 |
 | Lyon                       |         6 |   0.166667 |
 | La Rochelle                |         6 |   0.333333 |

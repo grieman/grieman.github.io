@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ilia Kaikatsishvili  
-date: 2022-11-22 11:45:48.148966  
+date: 2022-12-09 13:13:52.417585  
 categories: player  
 ---
 # Ilia Kaikatsishvili
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 44.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 |:---------|--------------:|-----------:|
 | Grenoble |            29 |   0.5      |
 | Massy    |            18 |   0.333333 |
-| Nevers   |            17 |   0.5      |
+| Nevers   |            18 |   0.527778 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Beziers                    |         6 |   0.5      |
 | Vannes                     |         5 |   0.2      |
-| Beziers                    |         5 |   0.4      |
 | Nevers                     |         5 |   0.7      |
 | Soyaux-Angouleme           |         5 |   0.5      |
 | Biarritz Olympique         |         4 |   0.75     |

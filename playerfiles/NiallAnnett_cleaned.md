@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Niall Annett  
-date: 2022-11-16 11:24:13.458483  
+date: 2022-12-09 13:18:02.507476  
 categories: player  
 ---
 # Niall Annett
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 17.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |           101 |   0.321782 |
 | Ulster             |            28 |   0.571429 |
-| Bath Rugby         |             7 |   0.428571 |
+| Bath Rugby         |             8 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Northampton Saints   |        12 |   0.166667 |
+| Harlequins           |        11 |   0.363636 |
 | Sale Sharks          |        10 |   0.45     |
-| Harlequins           |        10 |   0.4      |
 | Gloucester Rugby     |         9 |   0.277778 |
 | Bath Rugby           |         8 |   0.125    |
 | Exeter Chiefs        |         8 |   0.125    |

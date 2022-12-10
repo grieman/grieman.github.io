@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vereniki Goneva  
-date: 2022-11-22 11:30:38.167395  
+date: 2022-12-09 13:10:22.739518  
 categories: player  
 ---
 # Vereniki Goneva
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 70.0
+## Current elo: 69.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Fiji              |            34 |   0.338235 |
 | Mont-de-Marsan    |            25 |   0.58     |
 | Tarbes            |            18 |   0.388889 |
-| Chambery          |            10 |   0.5      |
+| Chambery          |            12 |   0.416667 |
 | Harlequins        |             8 |   0.4375   |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -44,72 +44,73 @@ categories: player
 | Gloucester Rugby           |         9 |   0.666667 |
 | Worcester Warriors         |         8 |   0.75     |
 | Narbonne                   |         7 |   0.571429 |
-| Aurillac                   |         7 |   0.285714 |
-| Leicester Tigers           |         7 |   0.214286 |
 | London Irish               |         7 |   0.857143 |
-| Ulster                     |         6 |   0.166667 |
+| Leicester Tigers           |         7 |   0.214286 |
+| Aurillac                   |         7 |   0.285714 |
 | Provence Rugby             |         6 |   0.583333 |
-| Dax                        |         5 |   0.6      |
-| Grenoble                   |         5 |   0.2      |
+| Ulster                     |         6 |   0.166667 |
 | Newcastle Falcons          |         5 |   1        |
 | Oyonnax                    |         5 |   0.5      |
+| Albi                       |         5 |   0.2      |
+| Grenoble                   |         5 |   0.2      |
 | Auch                       |         5 |   0.2      |
-| Albi                       |         4 |   0.25     |
-| Mont-de-Marsan             |         4 |   0.125    |
+| Dax                        |         5 |   0.6      |
+| Australia                  |         4 |   0        |
+| Benetton Treviso           |         4 |   1        |
 | Tarbes                     |         4 |   0.625    |
 | Wales                      |         4 |   0.125    |
-| Pau                        |         4 |   0        |
 | Montpellier Herault        |         4 |   0.75     |
-| Australia                  |         4 |   0        |
 | Carcassonne                |         4 |   0.5      |
-| Benetton Treviso           |         4 |   1        |
-| Toulon                     |         3 |   0.333333 |
+| Pau                        |         4 |   0        |
+| Mont-de-Marsan             |         4 |   0.125    |
 | Uruguay                    |         3 |   0.666667 |
-| Scarlets                   |         3 |   0.333333 |
-| Scotland                   |         3 |   0        |
 | Lyon                       |         3 |   0.5      |
 | Bordeaux Begles            |         3 |   0        |
+| Scotland                   |         3 |   0        |
+| Scarlets                   |         3 |   0.333333 |
 | La Rochelle                |         3 |   0.333333 |
-| Ireland                    |         3 |   0        |
 | Italy                      |         3 |   0.333333 |
-| Vannes                     |         2 |   0        |
+| Ireland                    |         3 |   0        |
+| Toulon                     |         3 |   0.333333 |
+| US Bressane                |         2 |   0.5      |
 | Rouen                      |         2 |   1        |
-| England                    |         2 |   0        |
-| Bourgoin-Jallieu           |         2 |   0.5      |
-| Bristol Rugby              |         2 |   0.5      |
-| Canada                     |         2 |   1        |
+| Vannes                     |         2 |   0        |
+| Tonga                      |         2 |   0.5      |
 | Stade Francais Paris       |         2 |   1        |
 | Périgueux                  |         2 |   1        |
-| Biarritz Olympique         |         2 |   0.75     |
-| Tonga                      |         2 |   0.5      |
-| Nevers                     |         2 |   0        |
-| US Bressane                |         2 |   0.5      |
 | Munster                    |         2 |   1        |
+| Nevers                     |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
+| Biarritz Olympique         |         2 |   0.75     |
 | Montauban                  |         2 |   0.5      |
-| Stade Toulousain           |         1 |   0        |
-| Blagnac                    |         1 |   0        |
-| Soyaux-Angouleme           |         1 |   0        |
-| South Africa               |         1 |   0        |
-| United States of America   |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   0.5      |
-| France                     |         1 |   1        |
-| Samoa                      |         1 |   0        |
-| Namibia                    |         1 |   1        |
-| Japan                      |         1 |   1        |
-| Lannemezan                 |         1 |   0        |
-| Edinburgh                  |         1 |   0        |
-| Dragons                    |         1 |   1        |
-| London Welsh               |         1 |   1        |
-| Colomiers                  |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
-| Clermont Auvergne          |         1 |   0        |
-| Saint-Etienne              |         1 |   1        |
+| Bourgoin-Jallieu           |         2 |   0.5      |
+| England                    |         2 |   0        |
+| Bristol Rugby              |         2 |   0.5      |
+| Canada                     |         2 |   1        |
 | New Zealand Maori          |         1 |   0        |
+| Clermont Auvergne          |         1 |   0        |
+| Stade Toulousain           |         1 |   0        |
+| Suresnes                   |         1 |   0        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| United States of America   |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   0        |
+| Soyaux-Angouleme           |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   0.5      |
+| Blagnac                    |         1 |   0        |
+| Colomiers                  |         1 |   0        |
+| Dragons                    |         1 |   1        |
+| South Africa               |         1 |   0        |
 | Nice                       |         1 |   1        |
-| Ospreys                    |         1 |   1        |
-| Racing 92                  |         1 |   0        |
-| Rennes                     |         1 |   1        |
+| Edinburgh                  |         1 |   0        |
+| Samoa                      |         1 |   0        |
+| France                     |         1 |   1        |
+| Saint-Etienne              |         1 |   1        |
+| Japan                      |         1 |   1        |
 | Romania                    |         1 |   1        |
+| Rennes                     |         1 |   1        |
+| Racing 92                  |         1 |   0        |
+| Lannemezan                 |         1 |   0        |
+| London Welsh               |         1 |   1        |
+| Namibia                    |         1 |   1        |
+| Ospreys                    |         1 |   1        |
 | Agen                       |         1 |   0        |

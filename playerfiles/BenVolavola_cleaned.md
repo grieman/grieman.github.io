@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Volavola  
-date: 2022-11-16 11:22:17.359351  
+date: 2022-12-09 13:06:15.781129  
 categories: player  
 ---
 # Ben Volavola
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 97.0
+## Current elo: 100.0
 
-## Current Percentile: 47.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Racing 92                |            55 |   0.618182 |
+| Racing 92                |            56 |   0.625    |
 | Fiji                     |            29 |   0.396552 |
 | Bordeaux Begles          |            16 |   0.375    |
 | Perpignan                |            15 |   0.9      |
@@ -32,7 +32,7 @@ categories: player
 | New South Wales Waratahs |            12 |   0.5      |
 | North Harbour            |            10 |   0.7      |
 | Crusaders                |             8 |   0.75     |
-| Greater Sydney Rams      |             2 |   0        |
+| Greater Sydney Rams      |             8 |   0.4375   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,80 +40,86 @@ categories: player
 | La Rochelle                |         6 |   0.666667 |
 | Pau                        |         6 |   0.666667 |
 | Stade Francais Paris       |         5 |   0.6      |
-| Lyon                       |         4 |   0.25     |
-| Bordeaux Begles            |         4 |   0.5      |
 | Montpellier Herault        |         4 |   0.5      |
+| Lyon                       |         4 |   0.25     |
 | Castres Olympique          |         4 |   0.5      |
-| Lions                      |         3 |   0.333333 |
-| Queensland Reds            |         3 |   0        |
-| Grenoble                   |         3 |   1        |
+| Toulon                     |         4 |   0.75     |
+| Bordeaux Begles            |         4 |   0.5      |
 | Georgia                    |         3 |   0.5      |
+| Grenoble                   |         3 |   1        |
+| Lions                      |         3 |   0.333333 |
 | Southern Kings             |         3 |   0.666667 |
-| Counties Manukau           |         3 |   0.666667 |
+| Queensland Reds            |         3 |   0        |
 | Clermont Auvergne          |         3 |   0.166667 |
-| Chiefs                     |         3 |   0.333333 |
-| Western Force              |         3 |   1        |
-| Blues                      |         3 |   0.666667 |
-| Toulon                     |         3 |   0.666667 |
-| Wales                      |         3 |   0        |
-| Australia                  |         3 |   0        |
-| Brumbies                   |         3 |   0.333333 |
-| Uruguay                    |         3 |   0.666667 |
 | Tasman                     |         3 |   0.666667 |
+| Uruguay                    |         3 |   0.666667 |
+| Wales                      |         3 |   0        |
+| Counties Manukau           |         3 |   0.666667 |
+| Western Force              |         3 |   1        |
+| Chiefs                     |         3 |   0.333333 |
+| Australia                  |         3 |   0        |
 | Biarritz Olympique         |         3 |   0.666667 |
-| Ospreys                    |         2 |   1        |
+| Blues                      |         3 |   0.666667 |
+| Brumbies                   |         3 |   0.333333 |
+| Scarlets                   |         2 |   1        |
 | Nevers                     |         2 |   1        |
 | New South Wales Waratahs   |         2 |   0        |
 | New Zealand                |         2 |   0        |
-| Waikato                    |         2 |   1        |
-| Northland                  |         2 |   1        |
-| Taranaki                   |         2 |   1        |
+| Ospreys                    |         2 |   1        |
 | Perpignan                  |         2 |   0.5      |
 | Rouen                      |         2 |   0.5      |
-| Scarlets                   |         2 |   1        |
-| Scotland                   |         2 |   0.5      |
 | Sharks                     |         2 |   0.75     |
-| Ulster                     |         2 |   0.5      |
-| Tonga                      |         2 |   0.5      |
-| Munster                    |         2 |   0.75     |
-| Agen                       |         2 |   1        |
+| Scotland                   |         2 |   0.5      |
 | Auckland                   |         2 |   1        |
 | Brive                      |         2 |   0.5      |
-| Dragons                    |         2 |   0.5      |
-| Hurricanes                 |         2 |   0        |
-| Ireland                    |         2 |   0        |
+| Taranaki                   |         2 |   1        |
+| Tonga                      |         2 |   0.5      |
+| Ulster                     |         2 |   0.5      |
+| Waikato                    |         2 |   1        |
+| Munster                    |         2 |   0.75     |
+| Northland                  |         2 |   1        |
+| Agen                       |         2 |   1        |
+| Leicester Tigers           |         2 |   1        |
 | Italy                      |         2 |   0.5      |
 | Canterbury                 |         2 |   0        |
-| Leicester Tigers           |         2 |   1        |
+| Ireland                    |         2 |   0        |
+| Hurricanes                 |         2 |   0        |
 | Hawke's Bay                |         2 |   1        |
-| Valence Romans Drome Rugby |         1 |   1        |
-| Bulls                      |         1 |   0        |
-| Canada                     |         1 |   1        |
-| Canberra Vikings           |         1 |   0        |
-| England                    |         1 |   0        |
-| Vannes                     |         1 |   1        |
-| Carcassonne                |         1 |   1        |
-| Cheetahs                   |         1 |   0        |
-| Bayonne                    |         1 |   0        |
-| Crusaders                  |         1 |   0        |
-| Spain                      |         1 |   1        |
-| Southland                  |         1 |   1        |
-| Aurillac                   |         1 |   0.5      |
-| Saracens                   |         1 |   1        |
+| Dragons                    |         2 |   0.5      |
 | France                     |         1 |   1        |
+| Bayonne                    |         1 |   0        |
+| Cheetahs                   |         1 |   0        |
+| Carcassonne                |         1 |   1        |
+| Saracens                   |         1 |   1        |
+| Sydney Stars               |         1 |   1        |
+| Highlanders                |         1 |   0        |
+| Brisbane City              |         1 |   1        |
+| Spain                      |         1 |   1        |
+| England                    |         1 |   0        |
+| Southland                  |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   1        |
+| Vannes                     |         1 |   1        |
+| Aurillac                   |         1 |   0.5      |
 | Jaguares                   |         1 |   1        |
+| Montauban                  |         1 |   1        |
+| Samoa                      |         1 |   0        |
+| North Harbour Rays         |         1 |   0.5      |
+| Melbourne Rising           |         1 |   0        |
+| NSW Country Eagles         |         1 |   0        |
 | Melbourne Rebels           |         1 |   1        |
 | Manawatu                   |         1 |   0        |
+| Canada                     |         1 |   1        |
 | New Zealand Maori          |         1 |   1        |
 | Newcastle Falcons          |         1 |   0        |
 | North Harbour              |         1 |   1        |
-| Japan                      |         1 |   1        |
-| Otago                      |         1 |   1        |
+| Crusaders                  |         1 |   0        |
 | Mont-de-Marsan             |         1 |   1        |
+| Canberra Vikings           |         1 |   0        |
+| Otago                      |         1 |   1        |
 | Oyonnax                    |         1 |   1        |
+| Bulls                      |         1 |   0        |
+| Perth Spirit               |         1 |   1        |
 | Provence Rugby             |         1 |   1        |
 | Queensland Country         |         1 |   0        |
 | RC Enisei                  |         1 |   1        |
-| Highlanders                |         1 |   0        |
-| Samoa                      |         1 |   0        |
-| Montauban                  |         1 |   1        |
+| Japan                      |         1 |   1        |

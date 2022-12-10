@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Serin  
-date: 2022-11-16 11:40:52.641377  
+date: 2022-12-09 13:22:25.408914  
 categories: player  
 ---
 # Baptiste Serin
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 86.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,13 +24,13 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bordeaux Begles |           121 |   0.454545 |
-| Toulon          |            55 |   0.654545 |
+| Toulon          |            57 |   0.649123 |
 | France          |            43 |   0.476744 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Racing 92                |        14 |   0.357143 |
 | Lyon                     |        13 |   0.692308 |
-| Racing 92                |        13 |   0.384615 |
 | Clermont Auvergne        |        12 |   0.541667 |
 | Castres Olympique        |        12 |   0.416667 |
 | Montpellier Herault      |        11 |   0.318182 |
@@ -38,7 +38,7 @@ categories: player
 | Pau                      |        11 |   0.681818 |
 | Brive                    |        10 |   0.6      |
 | La Rochelle              |         9 |   0.333333 |
-| Stade Francais Paris     |         8 |   0.375    |
+| Stade Francais Paris     |         9 |   0.444444 |
 | Bayonne                  |         7 |   0.714286 |
 | Toulon                   |         7 |   0.428571 |
 | Scotland                 |         6 |   0.5      |

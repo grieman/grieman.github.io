@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Francois van Wyk  
-date: 2022-11-16 11:32:28.555287  
+date: 2022-12-09 13:07:39.243428  
 categories: player  
 ---
 # Francois van Wyk
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 104.0
 
-## Current Percentile: 86.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -22,9 +22,9 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Northampton Saints |            76 |   0.407895 |
+| Leicester Tigers   |            20 |   0.675    |
 | Western Force      |            20 |   0.3      |
-| Leicester Tigers   |            18 |   0.666667 |
-| Perth Spirit       |             1 |   0        |
+| Perth Spirit       |             5 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,28 +39,32 @@ categories: player
 | Newcastle Falcons        |         5 |   0.4      |
 | Worcester Warriors       |         5 |   0.8      |
 | Leicester Tigers         |         4 |   0.5      |
-| London Irish             |         3 |   1        |
-| Bristol Rugby            |         3 |   0.333333 |
+| Bristol Rugby            |         4 |   0.375    |
+| London Irish             |         4 |   1        |
 | Northampton Saints       |         3 |   1        |
+| Leinster                 |         2 |   0        |
 | Queensland Reds          |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
 | New South Wales Waratahs |         2 |   0.5      |
-| Dragons                  |         2 |   1        |
-| Lyon                     |         2 |   1        |
 | Crusaders                |         2 |   0        |
-| Leinster                 |         2 |   0        |
-| Benetton Treviso         |         2 |   1        |
+| Lyon                     |         2 |   1        |
 | Melbourne Rebels         |         2 |   0.5      |
-| Lions                    |         1 |   1        |
-| Jaguares                 |         1 |   1        |
-| Hurricanes               |         1 |   0        |
-| Brumbies                 |         1 |   0        |
-| Highlanders              |         1 |   0        |
-| Bulls                    |         1 |   0        |
-| Cheetahs                 |         1 |   0        |
-| Chiefs                   |         1 |   0        |
-| Brisbane City            |         1 |   0        |
-| Sharks                   |         1 |   0        |
-| Stormers                 |         1 |   0        |
-| Sunwolves                |         1 |   1        |
+| Benetton Treviso         |         2 |   1        |
+| Dragons                  |         2 |   1        |
+| Queensland Country       |         1 |   1        |
 | Blues                    |         1 |   0        |
+| Sunwolves                |         1 |   1        |
+| Stormers                 |         1 |   0        |
+| Sharks                   |         1 |   0        |
+| Brisbane City            |         1 |   0        |
+| Cheetahs                 |         1 |   0        |
+| Canberra Vikings         |         1 |   0        |
+| Lions                    |         1 |   1        |
+| Greater Sydney Rams      |         1 |   1        |
+| North Harbour Rays       |         1 |   0        |
+| Brumbies                 |         1 |   0        |
+| Bulls                    |         1 |   0        |
+| Highlanders              |         1 |   0        |
+| Hurricanes               |         1 |   0        |
+| Jaguares                 |         1 |   1        |
+| Chiefs                   |         1 |   0        |

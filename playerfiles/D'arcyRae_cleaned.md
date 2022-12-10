@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2022-11-16 11:42:10.842603  
+date: 2022-12-09 13:07:53.409977  
 categories: player  
 ---
 # D'arcy Rae
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 86.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            84 |   0.559524 |
-| Bath Rugby       |            26 |   0.288462 |
+| Bath Rugby       |            27 |   0.277778 |
 | Benetton Treviso |             4 |   0.5      |
 | Scotland         |             1 |   0        |
 
@@ -38,20 +38,20 @@ categories: player
 | Dragons            |         7 |   0.5      |
 | Ulster             |         6 |   0.166667 |
 | Benetton Treviso   |         6 |   0.833333 |
-| Saracens           |         5 |   0        |
 | Exeter Chiefs      |         5 |   0.2      |
 | Edinburgh          |         5 |   0.2      |
-| Leicester Tigers   |         4 |   0.5      |
+| Saracens           |         5 |   0        |
 | Scarlets           |         4 |   0.5      |
+| Leicester Tigers   |         4 |   0.5      |
 | Connacht           |         4 |   0.5      |
 | Northampton Saints |         3 |   0.333333 |
 | Cheetahs           |         3 |   1        |
 | Newcastle Falcons  |         3 |   0.666667 |
+| Harlequins         |         3 |   0.333333 |
 | Sale Sharks        |         3 |   0.5      |
 | Wasps              |         2 |   0        |
 | Southern Kings     |         2 |   0.5      |
 | Gloucester Rugby   |         2 |   0        |
-| Harlequins         |         2 |   0.5      |
 | Bristol Rugby      |         2 |   0.5      |
 | Lyon               |         1 |   1        |
 | Ireland            |         1 |   0        |

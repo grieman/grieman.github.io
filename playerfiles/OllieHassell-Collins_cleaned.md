@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ollie Hassell-Collins  
-date: 2022-11-22 11:31:19.008808  
+date: 2022-12-09 13:13:59.347893  
 categories: player  
 ---
 # Ollie Hassell-Collins
 
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 98.0
 
-## Current Percentile: 21.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            74 |   0.344595 |
+| London Irish |            76 |   0.348684 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -31,12 +31,12 @@ categories: player
 | Wasps              |         6 |   0.416667 |
 | Exeter Chiefs      |         6 |   0.333333 |
 | Gloucester Rugby   |         6 |   0.416667 |
+| Leicester Tigers   |         6 |   0.166667 |
 | Northampton Saints |         6 |   0.166667 |
-| Leicester Tigers   |         5 |   0.2      |
 | Bristol Rugby      |         4 |   0.125    |
 | Saracens           |         4 |   0.375    |
 | Bath Rugby         |         4 |   0.5      |
-| Newcastle Falcons  |         3 |   0.666667 |
+| Newcastle Falcons  |         4 |   0.75     |
 | Toulon             |         2 |   0        |
 | Scarlets           |         2 |   0        |
 | Agen               |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Watson  
-date: 2022-11-16 11:23:37.705988  
+date: 2022-12-09 13:05:28.941460  
 categories: player  
 ---
 # Anthony Watson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: British and Irish Lions
 
-## Current elo: 91.0
+## Current elo: 88.0
 
-## Current Percentile: 38.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | England                 |            48 |   0.729167 |
 | London Irish            |            21 |   0.52381  |
 | British and Irish Lions |             8 |   0.6875   |
-| Leicester Tigers        |             4 |   0.25     |
+| Leicester Tigers        |             6 |   0.416667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,18 +41,18 @@ categories: player
 | Harlequins               |         9 |   0.444444 |
 | Worcester Warriors       |         8 |   0.875    |
 | Northampton Saints       |         8 |   0.3125   |
-| Australia                |         7 |   0.857143 |
 | Newcastle Falcons        |         7 |   0.714286 |
+| London Irish             |         7 |   0.857143 |
+| Australia                |         7 |   0.857143 |
 | Ireland                  |         6 |   0.333333 |
-| London Irish             |         6 |   0.833333 |
 | Italy                    |         6 |   1        |
 | France                   |         5 |   0.8      |
 | Scotland                 |         5 |   0.6      |
 | New Zealand              |         4 |   0.625    |
 | South Africa             |         4 |   0.25     |
 | Toulon                   |         4 |   0.25     |
+| Bristol Rugby            |         4 |   0.375    |
 | Leinster                 |         3 |   0.333333 |
-| Bristol Rugby            |         3 |   0.333333 |
 | Bordeaux Begles          |         3 |   1        |
 | Stade Toulousain         |         2 |   0.5      |
 | Scarlets                 |         2 |   0.5      |

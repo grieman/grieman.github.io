@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jérôme Dufour  
-date: 2022-11-22 11:37:03.864763  
+date: 2022-12-09 13:06:37.323851  
 categories: player  
 ---
 # Jérôme Dufour
 
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 76.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            32 |   0.609375 |
+| Provence Rugby |            33 |   0.621212 |
 | Aurillac       |            29 |   0.413793 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Vannes                     |         6 |   0.333333 |
+| Carcassonne                |         6 |   0.833333 |
 | Mont-de-Marsan             |         6 |   0.5      |
 | Beziers                    |         5 |   0.4      |
-| Carcassonne                |         5 |   0.8      |
 | Rouen                      |         4 |   0.5      |
 | Colomiers                  |         4 |   0.25     |
 | Grenoble                   |         4 |   0.75     |

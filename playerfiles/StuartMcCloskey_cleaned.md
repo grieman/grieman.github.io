@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart McCloskey  
-date: 2022-11-22 11:28:55.616248  
+date: 2022-12-09 13:06:57.012372  
 categories: player  
 ---
 # Stuart McCloskey
@@ -23,12 +23,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |           149 |   0.661074 |
+| Ulster  |           150 |   0.656667 |
 | Ireland |             9 |   0.888889 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Leinster                 |        16 |   0.3125   |
+| Leinster                 |        17 |   0.294118 |
 | Connacht                 |        14 |   0.714286 |
 | Munster                  |        14 |   0.5      |
 | Edinburgh                |        12 |   0.833333 |

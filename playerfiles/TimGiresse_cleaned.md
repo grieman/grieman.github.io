@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim Giresse  
-date: 2022-11-22 11:36:46.439740  
+date: 2022-12-09 13:14:43.072506  
 categories: player  
 ---
 # Tim Giresse
 
 ## Positions: W
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 66.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------------|--------------:|-----------:|
 | Oyonnax                    |            49 |   0.530612 |
 | Biarritz Olympique         |            37 |   0.567568 |
-| Valence Romans Drome Rugby |            22 |   0.727273 |
+| Valence Romans Drome Rugby |            23 |   0.695652 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -42,12 +42,12 @@ categories: player
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Bourgoin-Jallieu           |         3 |   1        |
 | Provence Rugby             |         3 |   0.666667 |
+| US Bressane                |         3 |   0.333333 |
 | Suresnes                   |         2 |   1        |
 | Nevers                     |         2 |   1        |
 | Tarbes                     |         2 |   0.5      |
 | Perpignan                  |         2 |   0.5      |
 | Nice                       |         2 |   1        |
-| US Bressane                |         2 |   0.5      |
 | Agen                       |         2 |   0.5      |
 | Worcester Warriors         |         2 |   0.5      |
 | Massy                      |         2 |   0.5      |

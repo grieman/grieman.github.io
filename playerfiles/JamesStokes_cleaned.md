@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James Stokes  
-date: 2022-11-22 11:35:22.730691  
+date: 2022-12-09 13:04:57.846033  
 categories: player  
 ---
 # James Stokes
 
 ## Positions: FB, W
 
-## Current elo: 95.0
+## Current elo: 98.0
 
-## Current Percentile: 30.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            45 |   0.366667 |
+| London Irish |            46 |   0.380435 |
 | Coventry     |            14 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,7 +31,7 @@ categories: player
 | Bristol Rugby       |         5 |   0.3      |
 | Harlequins          |         5 |   0.3      |
 | Gloucester Rugby    |         4 |   0.25     |
-| Newcastle Falcons   |         3 |   0.333333 |
+| Newcastle Falcons   |         4 |   0.5      |
 | Sale Sharks         |         3 |   0.166667 |
 | Saracens            |         3 |   0.333333 |
 | Northampton Saints  |         3 |   0.333333 |

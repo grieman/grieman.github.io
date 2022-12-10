@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Burns  
-date: 2022-11-16 11:43:07.998421  
+date: 2022-12-09 13:08:16.747618  
 categories: player  
 ---
 # Freddie Burns
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 125.0
+## Current elo: 121.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Gloucester Rugby                 |           135 |   0.507407 |
-| Leicester Tigers                 |           111 |   0.644144 |
+| Leicester Tigers                 |           113 |   0.646018 |
 | Bath Rugby                       |            70 |   0.492857 |
 | England                          |             5 |   0.6      |
 | Jersey                           |             5 |   0.5      |
@@ -36,29 +36,29 @@ categories: player
 | Saracens              |        28 |   0.392857 |
 | Northampton Saints    |        26 |   0.615385 |
 | Harlequins            |        24 |   0.458333 |
-| Wasps                 |        23 |   0.413043 |
 | Exeter Chiefs         |        23 |   0.478261 |
-| Sale Sharks           |        21 |   0.404762 |
+| Wasps                 |        23 |   0.413043 |
+| London Irish          |        22 |   0.818182 |
 | Newcastle Falcons     |        21 |   0.666667 |
-| London Irish          |        21 |   0.809524 |
+| Sale Sharks           |        21 |   0.404762 |
 | Bath Rugby            |        18 |   0.611111 |
 | Leicester Tigers      |        16 |   0.53125  |
 | Worcester Warriors    |        14 |   0.75     |
 | Gloucester Rugby      |        12 |   0.708333 |
-| Bristol Rugby         |         6 |   0.5      |
+| Bristol Rugby         |         7 |   0.5      |
 | London Welsh          |         5 |   1        |
 | Dragons               |         5 |   0.8      |
-| Toulon                |         4 |   0.5      |
-| Munster               |         4 |   0.25     |
 | Ulster                |         4 |   0.25     |
-| Connacht              |         4 |   1        |
+| Munster               |         4 |   0.25     |
 | Yorkshire Carnegie    |         4 |   0.75     |
+| Connacht              |         4 |   1        |
+| Toulon                |         4 |   0.5      |
 | Biarritz Olympique    |         3 |   0.333333 |
+| Scarlets              |         3 |   0.333333 |
 | Stade Toulousain      |         3 |   0.333333 |
 | Racing 92             |         3 |   0.333333 |
-| Scarlets              |         3 |   0.333333 |
-| New Zealand           |         2 |   0        |
 | Stade Francais Paris  |         2 |   0.5      |
+| New Zealand           |         2 |   0        |
 | Agen                  |         2 |   0.5      |
 | Argentina             |         2 |   1        |
 | Glasgow Warriors      |         2 |   0        |

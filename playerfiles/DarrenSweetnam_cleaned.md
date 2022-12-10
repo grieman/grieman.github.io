@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Darren Sweetnam  
-date: 2022-11-22 11:42:51.398887  
+date: 2022-12-09 13:13:43.921466  
 categories: player  
 ---
 # Darren Sweetnam
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 114.0
+## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Munster     |            91 |   0.730769 |
-| Oyonnax     |            28 |   0.75     |
+| Oyonnax     |            29 |   0.758621 |
 | La Rochelle |             5 |   0.6      |
 | Ireland     |             3 |   1        |
 
@@ -47,17 +47,18 @@ categories: player
 | Connacht                 |         3 |   0.333333 |
 | Beziers                  |         3 |   0.833333 |
 | Cheetahs                 |         3 |   1        |
-| Saracens                 |         2 |   0        |
+| Southern Kings           |         2 |   1        |
 | Vannes                   |         2 |   1        |
-| Carcassonne              |         2 |   1        |
+| Saracens                 |         2 |   0        |
 | Colomiers                |         2 |   0        |
 | Bayonne                  |         2 |   0.5      |
+| Carcassonne              |         2 |   1        |
 | Racing 92                |         2 |   1        |
-| Southern Kings           |         2 |   1        |
 | Narbonne                 |         2 |   1        |
 | Nevers                   |         2 |   1        |
-| Stade Toulousain         |         1 |   1        |
+| Soyaux-Angouleme         |         1 |   1        |
 | Fiji                     |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
 | South Africa             |         1 |   1        |
 | US Bressane              |         1 |   1        |
 | United States of America |         1 |   1        |

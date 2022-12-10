@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine Boutemane  
-date: 2022-11-22 11:44:12.521801  
+date: 2022-12-09 13:19:22.183633  
 categories: player  
 ---
 # Yassine Boutemane
 
 ## Positions: P
 
-## Current elo: 86.0
+## Current elo: 89.0
 
-## Current Percentile: 13.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Perpignan        |            51 |   0.382353 |
-| Soyaux-Angouleme |            24 |   0.4375   |
+| Soyaux-Angouleme |            26 |   0.442308 |
 | Montauban        |            13 |   0.576923 |
 | Stade Toulousain |            11 |   0.727273 |
 | Bordeaux Begles  |             4 |   0        |
@@ -37,25 +37,25 @@ categories: player
 | Montauban            |         4 |   0.75     |
 | Vannes               |         4 |   0.75     |
 | Beziers              |         4 |   0.25     |
-| Bordeaux Begles      |         3 |   0.166667 |
-| Montpellier Herault  |         3 |   0.666667 |
+| Rouen                |         3 |   0.666667 |
+| Oyonnax              |         3 |   0        |
+| Massy                |         3 |   0.666667 |
 | Perpignan            |         3 |   0.166667 |
 | Provence Rugby       |         3 |   0.333333 |
 | Racing 92            |         3 |   0.333333 |
-| Rouen                |         3 |   0.666667 |
+| Bordeaux Begles      |         3 |   0.166667 |
 | Colomiers            |         3 |   0.666667 |
 | Clermont Auvergne    |         3 |   0.333333 |
 | Castres Olympique    |         3 |   0        |
+| Montpellier Herault  |         3 |   0.666667 |
 | Soyaux-Angouleme     |         2 |   1        |
-| Stade Toulousain     |         2 |   0        |
-| Toulon               |         2 |   0        |
-| Pau                  |         2 |   0        |
-| Oyonnax              |         2 |   0        |
-| Nevers               |         2 |   0.5      |
 | Narbonne             |         2 |   1        |
+| Stade Toulousain     |         2 |   0        |
+| Pau                  |         2 |   0        |
+| Toulon               |         2 |   0        |
+| Nevers               |         2 |   0.5      |
 | London Irish         |         2 |   0        |
 | Bayonne              |         2 |   0.5      |
-| Massy                |         2 |   0.5      |
 | Lyon                 |         2 |   0.5      |
 | Albi                 |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |

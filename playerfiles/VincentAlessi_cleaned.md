@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent Alessi  
-date: 2022-11-22 11:34:06.676247  
+date: 2022-12-09 13:23:22.146971  
 categories: player  
 ---
 # Vincent Alessi
 
 ## Positions: W
 
-## Current elo: 77.0
+## Current elo: 76.0
 
-## Current Percentile: 7.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Aubenas             |            17 |   0.264706 |
-| Carqueiranne-Hyères |             8 |   0.5      |
+| Carqueiranne-Hyères |             9 |   0.444444 |
 | Nice                |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,10 +35,10 @@ categories: player
 | Tarbes                     |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Dijon                      |         2 |   0.25     |
+| Narbonne                   |         2 |   0        |
 | US Bressane                |         2 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Dax                        |         1 |   0        |
-| Narbonne                   |         1 |   0        |
 | Nice                       |         1 |   0        |
 | Rennes                     |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

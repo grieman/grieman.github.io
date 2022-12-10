@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jimmy Yobo  
-date: 2022-11-22 11:27:19.938929  
+date: 2022-12-09 13:18:43.376594  
 categories: player  
 ---
 # Jimmy Yobo
 
 ## Positions: C, W
 
-## Current elo: 79.0
+## Current elo: 74.0
 
-## Current Percentile: 7.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Aurillac             |           108 |   0.509259 |
+| Aurillac             |           110 |   0.509091 |
 | Stade Francais Paris |            32 |   0.3125   |
 | Toulon               |            17 |   0.558824 |
 | Oyonnax              |            13 |   0.230769 |
@@ -35,17 +35,17 @@ categories: player
 | Lyon                       |         8 |   0.375    |
 | Agen                       |         7 |   0.428571 |
 | Mont-de-Marsan             |         7 |   0.142857 |
+| Oyonnax                    |         6 |   0.5      |
 | Grenoble                   |         6 |   0.166667 |
-| Oyonnax                    |         5 |   0.6      |
+| Colomiers                  |         5 |   0.8      |
 | Montpellier Herault        |         5 |   0.4      |
 | Albi                       |         5 |   0.3      |
 | Montauban                  |         5 |   0.6      |
 | Brive                      |         5 |   0.4      |
 | Castres Olympique          |         5 |   0.2      |
 | Carcassonne                |         5 |   0.6      |
-| Colomiers                  |         4 |   0.75     |
-| Rouen                      |         4 |   0.5      |
 | Dax                        |         4 |   0.5      |
+| Rouen                      |         4 |   0.5      |
 | Nevers                     |         4 |   0.75     |
 | Narbonne                   |         4 |   0.75     |
 | Vannes                     |         4 |   0.5      |
@@ -58,10 +58,10 @@ categories: player
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Tarbes                     |         2 |   0.5      |
-| Edinburgh                  |         2 |   0.5      |
 | Massy                      |         2 |   1        |
 | Auch                       |         2 |   1        |
 | Perpignan                  |         2 |   0        |
+| Edinburgh                  |         2 |   0.5      |
 | Krasny Yar                 |         2 |   0.5      |
 | London Irish               |         2 |   0.5      |
 | Bordeaux Begles            |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Ludlow  
-date: 2022-11-22 11:28:02.279189  
+date: 2022-12-09 13:21:26.870627  
 categories: player  
 ---
 # Lewis Ludlow
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 86.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           167 |   0.508982 |
+| Gloucester Rugby |           169 |   0.508876 |
 | England          |             2 |   1        |
 | Hartpury College |             2 |   0.5      |
 
@@ -32,15 +32,15 @@ categories: player
 | Sale Sharks              |        14 |   0.428571 |
 | Newcastle Falcons        |        14 |   0.714286 |
 | Bath Rugby               |        12 |   0.541667 |
+| Harlequins               |        12 |   0.25     |
 | Leicester Tigers         |        11 |   0.181818 |
 | Worcester Warriors       |        11 |   0.727273 |
 | Wasps                    |        11 |   0.590909 |
+| Northampton Saints       |        11 |   0.363636 |
 | Saracens                 |        11 |   0.454545 |
 | London Irish             |        11 |   0.681818 |
 | Exeter Chiefs            |        11 |   0.409091 |
-| Harlequins               |        11 |   0.272727 |
 | Bristol Rugby            |        10 |   0.5      |
-| Northampton Saints       |        10 |   0.3      |
 | La Rochelle              |         4 |   0.75     |
 | Zebre                    |         3 |   1        |
 | Connacht                 |         3 |   0.666667 |

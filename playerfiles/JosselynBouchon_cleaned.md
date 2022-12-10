@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josselyn Bouchon  
-date: 2022-11-22 11:35:30.482150  
+date: 2022-12-09 13:12:49.685625  
 categories: player  
 ---
 # Josselyn Bouchon
 
-## Positions: FB, W
+## Positions: FB
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 38.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             9 |   0.444444 |
+| Carqueiranne-Hyères |            10 |        0.4 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Narbonne                   |         1 |          0 |
 | Rennes                     |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          1 |

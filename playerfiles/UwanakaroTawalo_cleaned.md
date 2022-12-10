@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Uwanakaro Tawalo  
-date: 2022-11-22 11:28:12.485112  
+date: 2022-12-09 13:11:44.273620  
 categories: player  
 ---
 # Uwanakaro Tawalo
 
 ## Positions: W
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 10.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Biarritz Olympique |            25 |   0.44     |
 | Oyonnax            |            17 |   0.294118 |
 | Beziers            |            13 |   0.461538 |
-| Massy              |            12 |   0.583333 |
+| Massy              |            13 |   0.538462 |
 | Clermont Auvergne  |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,15 +35,15 @@ categories: player
 | Nevers                     |         4 |   0.25     |
 | Colomiers                  |         3 |   0        |
 | Provence Rugby             |         3 |   0.666667 |
+| Agen                       |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.666667 |
-| Oyonnax                    |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Stade Toulousain           |         2 |   0.5      |
 | Stade Francais Paris       |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
-| Agen                       |         2 |   0.5      |
+| Oyonnax                    |         2 |   0.5      |
 | Carcassonne                |         2 |   0.5      |
 | Castres Olympique          |         2 |   0        |
 | Bordeaux Begles            |         2 |   0        |

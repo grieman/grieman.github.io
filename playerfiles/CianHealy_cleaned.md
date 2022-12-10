@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cian Healy  
-date: 2022-11-22 11:45:57.278181  
+date: 2022-12-09 13:20:26.101336  
 categories: player  
 ---
 # Cian Healy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 115.0
+## Current elo: 113.0
 
 ## Current Percentile: 95.0
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Leinster  |           224 |   0.776786 |
+| Leinster  |           225 |   0.777778 |
 | Ireland   |           109 |   0.637615 |
 | Edinburgh |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Munster                  |        28 |   0.75     |
-| Ulster                   |        20 |   0.8      |
+| Ulster                   |        21 |   0.809524 |
 | Glasgow Warriors         |        18 |   0.694444 |
 | Scarlets                 |        15 |   0.733333 |
 | England                  |        14 |   0.5      |

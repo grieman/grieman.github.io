@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre Lucas  
-date: 2022-11-16 11:31:51.157835  
+date: 2022-12-09 13:04:12.688683  
 categories: player  
 ---
 # Pierre Lucas
 
 ## Positions: C, W
 
-## Current elo: 96.0
+## Current elo: 93.0
 
-## Current Percentile: 42.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            23 |   0.630435 |
+| Montpellier Herault |            25 |   0.62     |
 | Perpignan           |            23 |   0.282609 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -30,19 +30,21 @@ categories: player
 | Biarritz Olympique   |         4 |   0.75     |
 | Castres Olympique    |         4 |   0.25     |
 | Pau                  |         4 |   0.5      |
-| Racing 92            |         3 |   0.333333 |
 | Toulon               |         3 |   0.666667 |
 | Stade Toulousain     |         3 |   0        |
 | Stade Francais Paris |         3 |   0.666667 |
+| Racing 92            |         3 |   0.333333 |
 | Aurillac             |         2 |   1        |
 | Brive                |         2 |   0.75     |
-| Lyon                 |         2 |   0        |
 | Sale Sharks          |         2 |   0        |
+| Lyon                 |         2 |   0        |
 | Rouen                |         2 |   0.5      |
-| Nevers               |         1 |   0        |
 | Perpignan            |         1 |   1        |
-| Beziers              |         1 |   1        |
 | Montauban            |         1 |   1        |
+| Nevers               |         1 |   0        |
+| Bayonne              |         1 |   1        |
 | La Rochelle          |         1 |   1        |
 | Connacht             |         1 |   0        |
+| Clermont Auvergne    |         1 |   0        |
+| Beziers              |         1 |   1        |
 | Vannes               |         1 |   0        |

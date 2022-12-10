@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Blair Kinghorn  
-date: 2022-11-22 11:33:15.419750  
+date: 2022-12-09 13:10:41.963448  
 categories: player  
 ---
 # Blair Kinghorn
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 137.0
+## Current elo: 134.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           118 |   0.538136 |
+| Edinburgh |           119 |   0.533613 |
 | Scotland  |            37 |   0.513514 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -32,10 +32,10 @@ categories: player
 | Dragons                  |         9 |   0.777778 |
 | Benetton Treviso         |         8 |   0.75     |
 | Scarlets                 |         8 |   0.625    |
+| Munster                  |         8 |   0.125    |
 | Zebre                    |         7 |   0.714286 |
 | Ulster                   |         7 |   0.142857 |
 | Cardiff Blues            |         7 |   0.285714 |
-| Munster                  |         7 |   0.142857 |
 | Connacht                 |         6 |   0.5      |
 | Argentina                |         6 |   0.666667 |
 | Ospreys                  |         5 |   0.2      |

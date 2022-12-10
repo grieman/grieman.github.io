@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Erich de Jager  
-date: 2022-11-22 11:32:25.518721  
+date: 2022-12-09 13:23:31.756699  
 categories: player  
 ---
 # Erich de Jager
 
 ## Positions: P
 
-## Current elo: 112.0
+## Current elo: 109.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| US Bressane            |             7 |       1    |
+| US Bressane            |             8 |       1    |
 | New England Free Jacks |             5 |       0.8  |
 | Griffons               |             4 |       0.75 |
 | Griquas                |             3 |       0.5  |
@@ -31,14 +31,15 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Austin Gilgronis           |         2 |       1    |
 | Pumas                      |         2 |       0.75 |
-| Blagnac                    |         1 |       1    |
 | Valke                      |         1 |       0.5  |
+| Valence Romans Drome Rugby |         1 |       1    |
 | Utah Warriors              |         1 |       1    |
 | Suresnes                   |         1 |       1    |
 | Seattle Seawolves          |         1 |       1    |
 | SWD Eagles                 |         1 |       0.5  |
 | Rennes                     |         1 |       1    |
 | Nice                       |         1 |       1    |
+| Blagnac                    |         1 |       1    |
 | Leopards                   |         1 |       1    |
 | L. A. Giltinis             |         1 |       0    |
 | Free State Cheetahs        |         1 |       0    |

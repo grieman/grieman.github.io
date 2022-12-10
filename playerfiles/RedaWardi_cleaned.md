@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda Wardi  
-date: 2022-11-22 11:35:53.360068  
+date: 2022-12-09 13:20:08.978441  
 categories: player  
 ---
 # Reda Wardi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 94.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,16 +23,17 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            64 |   0.59375  |
+| La Rochelle |            66 |   0.590909 |
 | Beziers     |            29 |   0.568966 |
 | France      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |         7 |   0        |
+| Stade Francais Paris |         6 |   0.5      |
 | Racing 92            |         6 |   0.5      |
 | Toulon               |         5 |   1        |
-| Stade Francais Paris |         5 |   0.6      |
+| Castres Olympique    |         5 |   0.8      |
 | Montpellier Herault  |         5 |   0.6      |
 | Lyon                 |         5 |   0.8      |
 | Agen                 |         4 |   1        |
@@ -40,7 +41,6 @@ categories: player
 | Bayonne              |         4 |   0.75     |
 | Bordeaux Begles      |         4 |   0.75     |
 | Brive                |         4 |   0.5      |
-| Castres Olympique    |         4 |   0.75     |
 | Clermont Auvergne    |         4 |   0.25     |
 | Perpignan            |         4 |   0.5      |
 | Pau                  |         3 |   1        |

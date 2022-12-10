@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sven D'Hooghe  
-date: 2022-11-16 11:30:34.250081  
+date: 2022-12-09 13:11:43.462621  
 categories: player  
 ---
 # Sven D'Hooghe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 84.0
+## Current elo: 83.0
 
-## Current Percentile: None
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Belgium             |             7 |   0.285714 |
+| Carqueiranne-Hyères |             7 |   0.285714 |
 | Biarritz Olympique  |             5 |   0.5      |
-| Carqueiranne-Hyères |             4 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,8 +36,11 @@ categories: player
 | Blagnac                    |         1 |       0    |
 | Brazil                     |         1 |       0    |
 | Cognac Saint Jean d'Angély |         1 |       1    |
+| Dax                        |         1 |       0    |
 | Georgia                    |         1 |       0    |
+| Narbonne                   |         1 |       0    |
 | Nevers                     |         1 |       0    |
+| Rennes                     |         1 |       0    |
 | Romania                    |         1 |       0    |
 | Soyaux-Angouleme           |         1 |       1    |
 | Tarbes                     |         1 |       1    |

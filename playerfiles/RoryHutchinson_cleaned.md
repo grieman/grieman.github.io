@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Hutchinson  
-date: 2022-11-22 11:27:10.868061  
+date: 2022-12-09 13:06:52.416275  
 categories: player  
 ---
 # Rory Hutchinson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 46.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           104 |   0.519231 |
+| Northampton Saints |           105 |   0.514286 |
 | Scotland           |             7 |   0.428571 |
 | Bedford            |             6 |   0.666667 |
 | Rotherham Titans   |             1 |   0        |
@@ -31,9 +31,9 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Leicester Tigers    |        10 |   0.3      |
+| Gloucester Rugby    |         9 |   0.555556 |
 | Harlequins          |         9 |   0.444444 |
 | Exeter Chiefs       |         9 |   0.333333 |
-| Gloucester Rugby    |         8 |   0.625    |
 | Worcester Warriors  |         8 |   1        |
 | Bath Rugby          |         8 |   0.375    |
 | Newcastle Falcons   |         8 |   0.625    |

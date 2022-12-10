@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Baptiste Fuster  
-date: 2022-11-22 11:30:30.270327  
+date: 2022-12-09 13:05:45.305967  
 categories: player  
 ---
 # Jean-Baptiste Fuster
 
 ## Positions: W
 
-## Current elo: 82.0
+## Current elo: 84.0
 
-## Current Percentile: 11.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            25 |       0.44 |
+| Suresnes |            26 |   0.461538 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         4 |   0.5      |
 | Dijon                      |         3 |   0.666667 |
 | Tarbes                     |         3 |   0.666667 |
 | Albi                       |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steve Mafi  
-date: 2022-11-22 11:43:14.274818  
+date: 2022-12-09 13:23:48.978268  
 categories: player  
 ---
 # Steve Mafi
@@ -29,7 +29,7 @@ categories: player
 | Western Force       |            26 |   0.192308 |
 | Tonga               |            21 |   0.380952 |
 | Greater Sydney Rams |             7 |   0.5      |
-| Oyonnax             |             2 |   0.75     |
+| Oyonnax             |             3 |   0.833333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -99,6 +99,7 @@ categories: player
 | Queensland Country       |         1 |   0        |
 | London Welsh             |         1 |   1        |
 | Crusaders                |         1 |   0        |
+| Soyaux-Angouleme         |         1 |   1        |
 | Sharks                   |         1 |   0        |
 | Leeds                    |         1 |   1        |
 | Oyonnax                  |         1 |   1        |

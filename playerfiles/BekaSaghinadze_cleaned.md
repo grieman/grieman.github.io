@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Saghinadze  
-date: 2022-11-22 11:32:46.469914  
+date: 2022-12-09 13:08:24.329592  
 categories: player  
 ---
 # Beka Saghinadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 100.0
+## Current elo: 108.0
 
-## Current Percentile: 82.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Georgia  |            25 |      0.58  |
-| Lyon     |            20 |      0.6   |
-| Aurillac |            16 |      0.375 |
+| Georgia  |            24 |   0.604167 |
+| Lyon     |            22 |   0.590909 |
+| Aurillac |            16 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Brive                      |         3 |   1        |
 | Clermont Auvergne          |         3 |   0.333333 |
 | Montpellier Herault        |         3 |   0.666667 |
+| Stade Toulousain           |         3 |   0.666667 |
 | Wales                      |         2 |   0.5      |
 | Portugal                   |         2 |   1        |
 | Nevers                     |         2 |   0        |
@@ -42,7 +43,6 @@ categories: player
 | Spain                      |         2 |   1        |
 | Racing 92                  |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
-| Stade Toulousain           |         2 |   0.5      |
 | Fiji                       |         2 |   0.25     |
 | Colomiers                  |         2 |   0.5      |
 | Uruguay                    |         2 |   1        |
@@ -53,9 +53,9 @@ categories: player
 | Vannes                     |         1 |   0        |
 | Russia                     |         1 |   1        |
 | Stade Francais Paris       |         1 |   1        |
-| Argentina                  |         1 |   0        |
-| Provence Rugby             |         1 |   0        |
 | Australia                  |         1 |   0        |
+| Provence Rugby             |         1 |   0        |
+| Bayonne                    |         1 |   0        |
 | Oyonnax                    |         1 |   1        |
 | Netherlands                |         1 |   1        |
 | Montauban                  |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Ainu'u  
-date: 2022-11-22 11:42:04.984931  
+date: 2022-12-09 13:06:38.894068  
 categories: player  
 ---
 # David Ainu'u
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: United States of America
 
-## Current elo: 103.0
+## Current elo: 101.0
 
-## Current Percentile: 70.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,20 +23,20 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Stade Toulousain         |            45 |   0.655556 |
-| United States of America |             9 |   0.388889 |
+| Stade Toulousain         |            46 |   0.663043 |
+| United States of America |            10 |   0.45     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montpellier Herault  |         5 |   0.6      |
 | Bordeaux Begles      |         5 |   1        |
 | Racing 92            |         5 |   0.6      |
+| Perpignan            |         4 |   0.75     |
 | La Rochelle          |         4 |   1        |
 | Agen                 |         3 |   1        |
 | Toulon               |         3 |   0        |
 | Brive                |         3 |   1        |
 | Castres Olympique    |         3 |   0.166667 |
-| Perpignan            |         3 |   0.666667 |
 | Pau                  |         3 |   0.666667 |
 | Stade Francais Paris |         2 |   0        |
 | Chile                |         2 |   0.5      |
@@ -48,6 +48,7 @@ categories: player
 | Leinster             |         1 |   1        |
 | Bayonne              |         1 |   0        |
 | Ireland              |         1 |   0        |
+| Hong Kong            |         1 |   1        |
 | Canada               |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
 | Uruguay              |         1 |   0        |

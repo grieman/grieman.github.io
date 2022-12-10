@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Agustin Creevy  
-date: 2022-11-16 11:22:44.720179  
+date: 2022-12-09 13:14:30.931836  
 categories: player  
 ---
 # Agustin Creevy
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 89.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Argentina           |            84 |   0.27381  |
 | Jaguares            |            59 |   0.542373 |
-| London Irish        |            51 |   0.421569 |
+| London Irish        |            53 |   0.424528 |
 | Montpellier Herault |            40 |   0.6125   |
 | Worcester Warriors  |            13 |   0.153846 |
 | San Luis            |             9 |   0.333333 |
@@ -44,18 +44,18 @@ categories: player
 | Worcester Warriors       |         6 |   0.5      |
 | England                  |         6 |   0        |
 | Harlequins               |         6 |   0.25     |
+| Newcastle Falcons        |         6 |   0.833333 |
 | Gloucester Rugby         |         6 |   0.416667 |
 | Exeter Chiefs            |         6 |   0.333333 |
 | Bulls                    |         6 |   0.666667 |
 | Bath Rugby               |         6 |   0.333333 |
+| Leicester Tigers         |         6 |   0.166667 |
 | Wasps                    |         5 |   0.3      |
-| Newcastle Falcons        |         5 |   0.8      |
 | France                   |         5 |   0.4      |
 | Stormers                 |         5 |   0.4      |
-| Leicester Tigers         |         5 |   0.2      |
-| Castres Olympique        |         4 |   0.25     |
 | Saracens                 |         4 |   0.375    |
 | Biarritz Olympique       |         4 |   0.75     |
+| Castres Olympique        |         4 |   0.25     |
 | Brumbies                 |         4 |   0.75     |
 | Bristol Rugby            |         4 |   0.375    |
 | Wales                    |         4 |   0        |

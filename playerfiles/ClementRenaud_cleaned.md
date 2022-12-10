@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Clement Renaud  
-date: 2022-11-22 11:36:34.935468  
+date: 2022-12-09 13:08:51.920720  
 categories: player  
 ---
 # Clement Renaud
 
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: 45.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            16 |     0.3125 |
-| Bordeaux Begles    |             1 |     0.5    |
+| Biarritz Olympique |            17 |   0.323529 |
+| Bordeaux Begles    |             1 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Clermont Auvergne    |         1 |        0   |
 | Colomiers            |         1 |        1   |
 | Edinburgh            |         1 |        0.5 |
+| Grenoble             |         1 |        0.5 |
 | Lyon                 |         1 |        0   |
 | Massy                |         1 |        1   |
 | Mont-de-Marsan       |         1 |        0   |

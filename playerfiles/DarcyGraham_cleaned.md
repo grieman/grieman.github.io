@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Darcy Graham  
-date: 2022-11-22 11:34:30.157117  
+date: 2022-12-09 13:17:52.285318  
 categories: player  
 ---
 # Darcy Graham
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 120.0
+## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,22 +23,22 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            55 |   0.572727 |
+| Edinburgh |            56 |   0.5625   |
 | Scotland  |            31 |   0.532258 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Glasgow Warriors     |        10 |   0.6      |
 | Wales                |         5 |   0.2      |
-| France               |         4 |   0.25     |
 | Benetton Treviso     |         4 |   0.75     |
+| France               |         4 |   0.25     |
 | Ireland              |         3 |   0        |
+| Munster              |         3 |   0        |
 | Argentina            |         3 |   0.666667 |
 | Scarlets             |         3 |   0.666667 |
 | Georgia              |         3 |   1        |
 | Dragons              |         3 |   0.666667 |
 | Stormers             |         3 |   0.166667 |
-| Munster              |         2 |   0        |
 | Montpellier Herault  |         2 |   0.5      |
 | Toulon               |         2 |   1        |
 | Newcastle Falcons    |         2 |   1        |

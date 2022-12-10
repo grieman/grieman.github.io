@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diogo Hasse Ferreira  
-date: 2022-11-22 11:29:37.294955  
+date: 2022-12-09 13:16:30.420901  
 categories: player  
 ---
 # Diogo Hasse Ferreira
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dax      |            22 |   0.5      |
+| Dax      |            23 |   0.521739 |
 | Portugal |            14 |   0.392857 |
 | Dijon    |             7 |   0.142857 |
 
@@ -49,5 +49,6 @@ categories: player
 | Chile                      |         1 |   1        |
 | Canada                     |         1 |   1        |
 | Spain                      |         1 |   0        |
+| Tarbes                     |         1 |   1        |
 | Belgium                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |

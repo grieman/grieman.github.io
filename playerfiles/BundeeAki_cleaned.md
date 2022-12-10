@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bundee Aki  
-date: 2022-11-22 11:40:37.709321  
+date: 2022-12-09 13:19:51.214419  
 categories: player  
 ---
 # Bundee Aki
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 126.0
+## Current elo: 128.0
 
 ## Current Percentile: 96.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Connacht                |           114 |   0.530702 |
+| Connacht                |           116 |   0.530172 |
 | Ireland                 |            40 |   0.775    |
 | Counties Manukau        |            32 |   0.609375 |
 | Chiefs                  |            25 |   0.68     |
@@ -32,8 +32,8 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Ulster                   |        12 |   0.416667 |
+| Munster                  |        11 |   0.454545 |
 | Leinster                 |        11 |   0.272727 |
-| Munster                  |        10 |   0.5      |
 | Glasgow Warriors         |         9 |   0.333333 |
 | Cardiff Blues            |         7 |   0.571429 |
 | Ospreys                  |         7 |   0.285714 |
@@ -43,8 +43,8 @@ categories: player
 | Edinburgh                |         6 |   0.666667 |
 | England                  |         6 |   0.5      |
 | Scotland                 |         5 |   1        |
+| Benetton Treviso         |         5 |   1        |
 | New Zealand              |         5 |   0.8      |
-| Benetton Treviso         |         4 |   1        |
 | Tasman                   |         4 |   0.5      |
 | Italy                    |         4 |   1        |
 | Brive                    |         4 |   0.75     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Miles Reid  
-date: 2022-11-16 11:25:39.205368  
+date: 2022-12-09 13:24:01.269708  
 categories: player  
 ---
 # Miles Reid
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Chile
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            52 |   0.432692 |
+| Bath Rugby |            53 |   0.424528 |
 | Selknam    |            14 |   0.642857 |
 | Chile      |             8 |   0.5      |
 
@@ -32,11 +32,11 @@ categories: player
 | Newcastle Falcons        |         6 |   0.666667 |
 | Saracens                 |         5 |   0.3      |
 | Gloucester Rugby         |         5 |   0.4      |
+| Harlequins               |         5 |   0.2      |
 | Northampton Saints       |         5 |   0.8      |
 | Worcester Warriors       |         4 |   0.75     |
 | Wasps                    |         4 |   0        |
 | Exeter Chiefs            |         4 |   0        |
-| Harlequins               |         4 |   0.25     |
 | Jaguares XV              |         4 |   0.5      |
 | Leicester Tigers         |         4 |   0.5      |
 | Bristol Rugby            |         4 |   0.25     |

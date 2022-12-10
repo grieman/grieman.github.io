@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias Alemanno  
-date: 2022-11-22 11:28:59.323362  
+date: 2022-12-09 13:19:38.292570  
 categories: player  
 ---
 # Matias Alemanno
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 116.0
+## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Argentina        |            80 |   0.2875   |
 | Jaguares         |            46 |   0.434783 |
-| Gloucester Rugby |            35 |   0.528571 |
+| Gloucester Rugby |            37 |   0.527027 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,13 +41,13 @@ categories: player
 | Bristol Rugby            |         5 |   0.4      |
 | Southern Kings           |         4 |   0.5      |
 | Exeter Chiefs            |         4 |   0.5      |
+| Harlequins               |         4 |   0        |
+| Northampton Saints       |         4 |   0.75     |
 | London Irish             |         4 |   0.625    |
 | Bath Rugby               |         4 |   0.75     |
 | Bulls                    |         3 |   0.666667 |
-| Harlequins               |         3 |   0        |
 | Queensland Reds          |         3 |   0.666667 |
 | Ireland                  |         3 |   0.333333 |
-| Northampton Saints       |         3 |   0.666667 |
 | Wasps                    |         3 |   0.666667 |
 | Sale Sharks              |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   0.5      |

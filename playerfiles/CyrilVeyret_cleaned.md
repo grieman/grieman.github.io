@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyril Veyret  
-date: 2022-11-22 11:44:40.751791  
+date: 2022-12-09 13:23:51.450269  
 categories: player  
 ---
 # Cyril Veyret
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            54 |   0.583333 |
+| US Bressane |            56 |   0.580357 |
 | Grenoble    |            23 |   0.630435 |
 | Tarbes      |            22 |   0.340909 |
 
@@ -31,6 +31,7 @@ categories: player
 | Colomiers                  |         6 |   0.5      |
 | Dax                        |         5 |   0.4      |
 | Carcassonne                |         5 |   0.6      |
+| Albi                       |         5 |   0.4      |
 | Montauban                  |         5 |   0.4      |
 | Mont-de-Marsan             |         5 |   0.6      |
 | Beziers                    |         5 |   0.6      |
@@ -38,7 +39,6 @@ categories: player
 | Provence Rugby             |         4 |   0.625    |
 | Oyonnax                    |         4 |   0.5      |
 | Bayonne                    |         4 |   0.25     |
-| Albi                       |         4 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   0.75     |
 | Blagnac                    |         3 |   1        |
 | Massy                      |         3 |   0.666667 |
@@ -60,4 +60,5 @@ categories: player
 | Carqueiranne-Hyères        |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
 | Tarbes                     |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   1        |
 | Agen                       |         1 |   1        |
