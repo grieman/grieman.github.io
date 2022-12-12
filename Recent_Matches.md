@@ -18,8 +18,6 @@ key: page-recents
 ## Pro D2 2022
 
 
-[2022-12-01 Oyonnax (1624.81) at Soyaux-Angouleme (1481.95); 20-15](reviews//2022-12-01-Soyaux-Angouleme-Oyonnax)
-
 [2022-12-02 Colomiers (1381.9) at Aurillac (1411.89); 10-15](reviews//2022-12-02-Aurillac-Colomiers)
 
 [2022-12-02 Massy (1363.0) at Agen (1502.68); 12-24](reviews//2022-12-02-Agen-Massy)

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Doncaster at Cornish Pirates  
-date: 2022-12-17 00:00:00 18:00:00 -0500  
+date: 2022-12-18 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
 # Doncaster (~1528.56) at Cornish Pirates (~1428.05)
