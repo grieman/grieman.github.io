@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pete Lydon  
-date: 2022-12-09 13:22:42.617875  
+date: 2022-12-14 11:16:28.225854  
 categories: player  
 ---
 # Pete Lydon
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 121.0
+## Current elo: 122.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Rouen               |            59 |   0.457627 |
+| Rouen               |            60 |   0.45     |
 | Ealing Trailfinders |            31 |   0.790323 |
 | London Scottish     |            20 |   0.35     |
 | Bedford             |             3 |   0.666667 |
@@ -46,10 +46,10 @@ categories: player
 | Colomiers                  |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Hartpury College           |         4 |   1        |
+| Provence Rugby             |         4 |   0.625    |
 | Nevers                     |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   1        |
 | Agen                       |         3 |   0.333333 |
-| Provence Rugby             |         3 |   0.833333 |
 | Beziers                    |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.333333 |
 | London Irish               |         3 |   0        |

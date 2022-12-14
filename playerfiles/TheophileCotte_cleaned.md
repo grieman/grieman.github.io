@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Theophile Cotte  
-date: 2022-12-09 13:21:46.415005  
+date: 2022-12-14 11:13:46.630667  
 categories: player  
 ---
 # Theophile Cotte
 
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 82.0
 
 ## Current Percentile: 6.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            69 |   0.398551 |
+| Bourgoin-Jallieu |            70 |   0.407143 |
 | Nevers           |            45 |   0.544444 |
 | Lyon             |             9 |   0.444444 |
 
@@ -56,6 +56,7 @@ categories: player
 | Pau                        |         1 |   1        |
 | Grenoble                   |         1 |   0        |
 | Auch                       |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Montpellier Herault        |         1 |   0        |
 | Sale Sharks                |         1 |   0        |
 | Stade Toulousain           |         1 |   1        |

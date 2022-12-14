@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sven Bernat Girlando  
-date: 2022-12-09 13:13:04.442813  
+date: 2022-12-14 11:27:59.985752  
 categories: player  
 ---
 # Sven Bernat Girlando
 
 ## Positions: FL, N8
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 71.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |             8 |       0.75 |
-| Biarritz Olympique         |             3 |       0.5  |
+| Valence Romans Drome Rugby |             9 |   0.666667 |
+| Biarritz Olympique         |             3 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Blagnac             |         1 |        1   |
 | Brive               |         1 |        0   |
 | Carqueiranne-Hyères |         1 |        1   |
+| Chambery            |         1 |        0   |
 | Grenoble            |         1 |        0.5 |
 | Narbonne            |         1 |        1   |
 | Nice                |         1 |        1   |

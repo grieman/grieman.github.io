@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfrid Hounkpatin  
-date: 2022-12-09 13:21:06.575668  
+date: 2022-12-14 11:35:32.571126  
 categories: player  
 ---
 # Wilfrid Hounkpatin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 85.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            90 |        0.6 |
-| France            |             1 |        1   |
+| Castres Olympique |            91 |   0.593407 |
+| France            |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -44,9 +44,9 @@ categories: player
 | Bayonne              |         3 |  1         |
 | Munster              |         2 |  0.5       |
 | Gloucester Rugby     |         2 |  0.5       |
+| Exeter Chiefs        |         2 |  0.5       |
 | Biarritz Olympique   |         2 |  1         |
 | Worcester Warriors   |         2 |  1         |
 | Australia            |         1 |  1         |
 | RC Enisei            |         1 |  1         |
-| Exeter Chiefs        |         1 |  1         |
 | Dragons              |         1 |  1         |

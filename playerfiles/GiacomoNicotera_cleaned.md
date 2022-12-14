@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giacomo Nicotera  
-date: 2022-12-09 13:19:01.187103  
+date: 2022-12-12 15:00:16.211983  
 categories: player  
 ---
 # Giacomo Nicotera
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 

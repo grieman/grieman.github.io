@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Eli Snyman  
-date: 2022-12-09 13:19:04.840642  
+date: 2022-12-14 11:18:24.783751  
 categories: player  
 ---
 # Eli Snyman
 
 ## Positions: L
 
-## Current elo: 85.0
+## Current elo: 86.0
 
 ## Current Percentile: 18.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            25 |   0.24     |
-| Leicester Tigers |            23 |   0.673913 |
+| Leicester Tigers |            24 |   0.6875   |
 | Bulls            |             7 |   0.571429 |
 | Blue Bulls       |             4 |   0.5      |
 
@@ -38,10 +38,10 @@ categories: player
 | Scarlets           |         2 |   0        |
 | Saracens           |         2 |   0        |
 | Munster            |         2 |   0        |
-| Lyon               |         2 |   0.5      |
 | Bristol Rugby      |         2 |   0.75     |
-| Lions              |         2 |   1        |
 | London Irish       |         2 |   1        |
+| Lions              |         2 |   1        |
+| Lyon               |         2 |   0.5      |
 | Jaguares           |         2 |   0        |
 | Gloucester Rugby   |         2 |   1        |
 | Glasgow Warriors   |         2 |   0        |
@@ -49,6 +49,7 @@ categories: player
 | Golden Lions       |         1 |   0        |
 | Newcastle Falcons  |         1 |   1        |
 | Griquas            |         1 |   1        |
+| Ospreys            |         1 |   1        |
 | Pumas              |         1 |   1        |
 | Sale Sharks        |         1 |   0        |
 | Harlequins         |         1 |   0        |

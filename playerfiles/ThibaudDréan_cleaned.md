@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibaud Dréan  
-date: 2022-12-09 13:12:27.856991  
+date: 2022-12-14 11:31:50.371244  
 categories: player  
 ---
 # Thibaud Dréan
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 86.0
 
 ## Current Percentile: 10.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            46 |   0.565217 |
+| Dax         |            47 |   0.574468 |
 | Carcassonne |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,11 +29,11 @@ categories: player
 | Albi                       |         5 |   0.2      |
 | Blagnac                    |         4 |   0.5      |
 | Tarbes                     |         4 |   0.75     |
+| Narbonne                   |         3 |   0.666667 |
 | Aurillac                   |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
 | Dijon                      |         3 |   1        |
-| Narbonne                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Oyonnax                    |         2 |   0        |

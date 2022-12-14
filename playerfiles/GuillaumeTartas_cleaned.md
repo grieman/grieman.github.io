@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guillaume Tartas  
-date: 2022-12-09 13:22:52.474889  
+date: 2022-12-14 11:26:58.598520  
 categories: player  
 ---
 # Guillaume Tartas
 
 ## Positions: P
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 88.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            24 |        0.5 |
+| Colomiers |            25 |       0.52 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,5 +35,6 @@ categories: player
 | Rouen                      |         2 |       0.5  |
 | Agen                       |         1 |       1    |
 | Carcassonne                |         1 |       1    |
+| Massy                      |         1 |       1    |
 | Perpignan                  |         1 |       0    |
 | Valence Romans Drome Rugby |         1 |       0    |

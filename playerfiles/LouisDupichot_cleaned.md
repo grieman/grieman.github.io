@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Dupichot  
-date: 2022-12-09 13:14:57.530318  
+date: 2022-12-14 11:15:43.151110  
 categories: player  
 ---
 # Louis Dupichot

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacobus van Tonder  
-date: 2022-12-09 13:16:32.695403  
+date: 2022-12-14 11:34:25.001491  
 categories: player  
 ---
 # Jacobus van Tonder
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 9.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            47 |   0.606383 |
+| Clermont Auvergne |            48 |   0.614583 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -43,3 +43,4 @@ categories: player
 | Timisoara Saracens   |         2 |   1        |
 | Lyon                 |         2 |   0        |
 | Dragons              |         1 |   1        |
+| Stormers             |         1 |   1        |

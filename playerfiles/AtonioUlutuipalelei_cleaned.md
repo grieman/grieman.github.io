@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Atonio Ulutuipalelei  
-date: 2022-12-09 13:09:07.456489  
+date: 2022-12-14 11:19:44.504779  
 categories: player  
 ---
 # Atonio Ulutuipalelei
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            10 |        0.2 |
-| Vannes |             1 |        0   |
+| Rennes |            11 |   0.181818 |
+| Vannes |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          0 |
+| Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |

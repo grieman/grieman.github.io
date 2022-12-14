@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Tapuai  
-date: 2022-12-09 13:15:57.127345  
+date: 2022-12-14 11:24:11.157462  
 categories: player  
 ---
 # Ben Tapuai
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 71.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Queensland Reds |            69 |  0.521739  |
 | Bath Rugby      |            43 |  0.5       |
 | Harlequins      |            37 |  0.527027  |
-| Sharks          |            17 |  0.676471  |
+| Sharks          |            18 |  0.694444  |
 | Western Force   |            12 |  0.0833333 |
 | Australia       |             6 |  0.75      |
 | Perth Spirit    |             5 |  0.6       |
@@ -57,10 +57,10 @@ categories: player
 | Blues                    |         5 |   0.6      |
 | Gloucester Rugby         |         4 |   0.875    |
 | Wasps                    |         4 |   0.25     |
+| Harlequins               |         4 |   0.5      |
 | Bath Rugby               |         4 |   0.5      |
 | Cheetahs                 |         3 |   0.666667 |
 | Cardiff Blues            |         3 |   0.333333 |
-| Harlequins               |         3 |   0.333333 |
 | Hurricanes               |         3 |   0.333333 |
 | Scarlets                 |         2 |   0.5      |
 | Toulon                   |         2 |   0.5      |

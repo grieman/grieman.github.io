@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mohsen Essid  
-date: 2022-12-09 13:23:34.288199  
+date: 2022-12-14 11:19:50.503843  
 categories: player  
 ---
 # Mohsen Essid
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tunisia
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Albi    |            31 |   0.693548 |
+| Albi    |            32 |   0.703125 |
 | Tunisia |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         5 |   0.8      |
-| Cognac Saint Jean d'Angély |         3 |   0.666667 |
+| Cognac Saint Jean d'Angély |         4 |   0.75     |
 | Nice                       |         3 |   0.5      |
 | US Bressane                |         3 |   0.666667 |
 | Aubenas                    |         2 |   1        |

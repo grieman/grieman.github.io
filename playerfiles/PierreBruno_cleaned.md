@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Bruno  
-date: 2022-12-09 13:06:27.650305  
+date: 2022-12-12 15:09:19.977980  
 categories: player  
 ---
 # Pierre Bruno

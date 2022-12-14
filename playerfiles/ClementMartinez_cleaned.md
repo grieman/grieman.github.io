@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Martinez  
-date: 2022-12-09 13:12:39.033233  
+date: 2022-12-14 11:17:46.280627  
 categories: player  
 ---
 # Clement Martinez
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Agen               |            62 |   0.217742 |
+| Agen               |            63 |   0.214286 |
 | Biarritz Olympique |            21 |   0.595238 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -41,10 +41,10 @@ categories: player
 | Oyonnax              |         3 |   0.333333 |
 | Aurillac             |         3 |   1        |
 | Massy                |         3 |   0.666667 |
+| Beziers              |         3 |   0.333333 |
 | Grenoble             |         3 |   0.333333 |
 | Colomiers            |         3 |   0.333333 |
 | Castres Olympique    |         3 |   0        |
-| Beziers              |         2 |   0.5      |
 | Montpellier Herault  |         2 |   0        |
 | Narbonne             |         2 |   0.5      |
 | Gloucester Rugby     |         2 |   0        |

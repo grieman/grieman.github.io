@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mathieu Billou  
-date: 2022-12-09 13:24:23.411033  
+date: 2022-12-14 11:33:44.832254  
 categories: player  
 ---
 # Mathieu Billou
 
 ## Positions: SH
 
-## Current elo: 78.0
+## Current elo: 77.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            41 |   0.292683 |
+| Cognac Saint Jean d'Angély |            42 |   0.285714 |
 | Mont-de-Marsan             |            11 |   0.636364 |
 | Beziers                    |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         5 |   0.4      |
+| Albi                       |         6 |   0.333333 |
 | Blagnac                    |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Dax                        |         4 |   0.75     |

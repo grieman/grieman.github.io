@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Killian Tripier  
-date: 2022-12-09 13:05:56.239453  
+date: 2022-12-12 15:34:24.496638  
 categories: player  
 ---
 # Killian Tripier

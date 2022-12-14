@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Conan  
-date: 2022-12-09 13:08:06.090481  
+date: 2022-12-14 11:12:23.979357  
 categories: player  
 ---
 # Jack Conan
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leinster                |           111 |   0.761261 |
+| Leinster                |           112 |   0.763393 |
 | Ireland                 |            34 |   0.882353 |
 | British and Irish Lions |             4 |   0.5      |
 
@@ -56,11 +56,11 @@ categories: player
 | Bath Rugby               |         2 |   1        |
 | United States of America |         2 |   1        |
 | England                  |         2 |   1        |
+| Racing 92                |         2 |   1        |
 | Northampton Saints       |         2 |   1        |
 | Exeter Chiefs            |         2 |   1        |
 | Fiji                     |         2 |   1        |
 | France                   |         2 |   0.5      |
-| Racing 92                |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Cheetahs                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |

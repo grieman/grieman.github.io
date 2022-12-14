@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jordan Rochier  
-date: 2022-12-09 13:16:04.379345  
+date: 2022-12-14 11:25:48.140594  
 categories: player  
 ---
 # Jordan Rochier
 
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: 36.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Narbonne  |            40 |   0.425    |
+| Narbonne  |            41 |   0.414634 |
 | Montauban |            27 |   0.296296 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,10 +30,10 @@ categories: player
 | Biarritz Olympique         |         4 |   0        |
 | Colomiers                  |         4 |   0        |
 | Suresnes                   |         3 |   0.666667 |
+| Dax                        |         3 |   0.333333 |
 | Bayonne                    |         3 |   0        |
 | Carcassonne                |         3 |   0        |
 | US Bressane                |         3 |   0.666667 |
-| Dax                        |         2 |   0.5      |
 | Nice                       |         2 |   1        |
 | Narbonne                   |         2 |   0        |
 | Montauban                  |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin Copeland  
-date: 2022-12-09 13:23:27.052560  
+date: 2022-12-14 11:24:04.355941  
 categories: player  
 ---
 # Robin Copeland
 
 ## Positions: N8
 
-## Current elo: 115.0
+## Current elo: 112.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Munster          |            71 |   0.676056 |
 | Cardiff Blues    |            54 |   0.398148 |
-| Soyaux-Angouleme |            40 |   0.3875   |
+| Soyaux-Angouleme |            41 |   0.378049 |
 | Connacht         |            18 |   0.5      |
 | Plymouth         |             5 |   0.6      |
 
@@ -58,17 +58,17 @@ categories: player
 | Rouen                      |         2 |   0        |
 | Albi                       |         2 |   1        |
 | Mont-de-Marsan             |         2 |   0.5      |
-| Bourgoin-Jallieu           |         2 |   1        |
+| Biarritz Olympique         |         2 |   0        |
 | Carcassonne                |         2 |   0        |
 | Massy                      |         2 |   0.5      |
 | Colomiers                  |         2 |   0        |
 | Dijon                      |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
+| Bourgoin-Jallieu           |         2 |   1        |
 | Exeter Chiefs              |         2 |   0        |
 | Gloucester Rugby           |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
 | Leicester Tigers           |         2 |   0        |
-| Biarritz Olympique         |         1 |   0        |
 | Beziers                    |         1 |   1        |
 | Tarbes                     |         1 |   1        |
 | Vannes                     |         1 |   0        |

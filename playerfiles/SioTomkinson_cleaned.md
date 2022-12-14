@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sio Tomkinson  
-date: 2022-12-09 13:10:00.198066  
+date: 2022-12-14 11:21:52.659769  
 categories: player  
 ---
 # Sio Tomkinson
 
 ## Positions: C, W
 
-## Current elo: 111.0
+## Current elo: 115.0
 
-## Current Percentile: 81.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Otago       |            48 |   0.5625   |
 | Highlanders |            43 |   0.488372 |
-| Dragons     |             6 |   0.166667 |
+| Dragons     |             7 |   0.214286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -38,20 +38,20 @@ categories: player
 | Waikato                  |         4 |   0.5      |
 | Northland                |         4 |   1        |
 | North Harbour            |         4 |   0.75     |
+| Lions                    |         4 |   0.375    |
 | Manawatu                 |         4 |   1        |
 | Hawke's Bay              |         4 |   0.5      |
-| Lions                    |         3 |   0.333333 |
 | Wellington               |         3 |   0.333333 |
 | Brumbies                 |         3 |   1        |
 | Tasman                   |         3 |   0        |
 | Sharks                   |         2 |   0        |
-| Taranaki                 |         2 |   0        |
 | Sunwolves                |         2 |   1        |
-| Stormers                 |         2 |   0        |
-| Bulls                    |         2 |   0.75     |
-| Queensland Reds          |         2 |   1        |
-| New South Wales Waratahs |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   0.5      |
+| Taranaki                 |         2 |   0        |
+| Queensland Reds          |         2 |   1        |
+| Bulls                    |         2 |   0.75     |
+| Stormers                 |         2 |   0        |
 | Jaguares                 |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
 | Counties Manukau         |         1 |   0        |

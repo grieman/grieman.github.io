@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adrien Lapegue-Lafaye  
-date: 2022-12-09 13:15:57.951345  
+date: 2022-12-12 15:34:57.587648  
 categories: player  
 ---
 # Adrien Lapegue-Lafaye

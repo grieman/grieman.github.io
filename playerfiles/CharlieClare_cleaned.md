@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charlie Clare  
-date: 2022-12-09 13:04:17.929724  
+date: 2022-12-14 11:19:09.420617  
 categories: player  
 ---
 # Charlie Clare
 
 ## Positions: H
 
-## Current elo: 86.0
+## Current elo: 89.0
 
-## Current Percentile: 14.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Leicester Tigers   |            49 |   0.540816 |
+| Leicester Tigers   |            50 |   0.55     |
 | Northampton Saints |            28 |   0.5      |
 | Bedford            |            14 |   0.571429 |
 
@@ -39,16 +39,17 @@ categories: player
 | Bristol Rugby       |         4 |   0.625    |
 | Exeter Chiefs       |         4 |   0.25     |
 | Harlequins          |         4 |   0.25     |
-| Leicester Tigers    |         3 |   0.333333 |
 | Jersey              |         3 |   0.666667 |
+| Leicester Tigers    |         3 |   0.333333 |
 | Montpellier Herault |         2 |   0.5      |
 | Coventry            |         2 |   0.5      |
 | Nottingham          |         2 |   1        |
-| Bayonne             |         1 |   1        |
 | Hartpury College    |         1 |   0        |
+| Bayonne             |         1 |   1        |
 | Leinster            |         1 |   0        |
 | Ealing Trailfinders |         1 |   0        |
 | Doncaster           |         1 |   1        |
+| Ospreys             |         1 |   1        |
 | Richmond            |         1 |   1        |
 | Cornish Pirates     |         1 |   0        |
 | Castres Olympique   |         1 |   1        |

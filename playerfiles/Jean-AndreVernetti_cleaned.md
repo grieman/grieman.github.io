@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Andre Vernetti  
-date: 2022-12-09 13:20:42.233131  
+date: 2022-12-14 11:27:00.321951  
 categories: player  
 ---
 # Jean-Andre Vernetti
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Blagnac  |            28 |   0.589286 |
+| Blagnac  |            29 |   0.603448 |
 | Narbonne |             4 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,10 +34,10 @@ categories: player
 | Chambery                   |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Tarbes                     |         2 |   0.5      |
+| Suresnes                   |         2 |   1        |
 | Nice                       |         2 |   0.5      |
 | Rennes                     |         1 |   1        |
 | US Bressane                |         1 |   0        |
-| Suresnes                   |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Agen                       |         1 |   0        |
 | Oyonnax                    |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Théo Duprat  
-date: 2022-12-09 13:07:54.983478  
+date: 2022-12-14 11:24:59.448128  
 categories: player  
 ---
 # Théo Duprat
 
 ## Positions: FB
 
-## Current elo: 108.0
+## Current elo: 109.0
 
 ## Current Percentile: 80.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dax            |            12 |   0.833333 |
+| Dax            |            13 |   0.846154 |
 | Mont-de-Marsan |             2 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,6 +32,7 @@ categories: player
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Narbonne                   |         1 |          1 |
 | Nice                       |         1 |          1 |
 | Provence Rugby             |         1 |          1 |
 | Rennes                     |         1 |          1 |

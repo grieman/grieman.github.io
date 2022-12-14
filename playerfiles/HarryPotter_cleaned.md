@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry Potter  
-date: 2022-12-09 13:17:35.334899  
+date: 2022-12-14 11:27:18.148436  
 categories: player  
 ---
 # Harry Potter
 
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            44 |      0.625 |
-| Melbourne Rising |             1 |      1     |
+| Leicester Tigers |            45 |   0.633333 |
+| Melbourne Rising |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -39,5 +39,6 @@ categories: player
 | Worcester Warriors |         3 |   1        |
 | Saracens           |         2 |   0.5      |
 | Bordeaux Begles    |         1 |   1        |
+| Ospreys            |         1 |   1        |
 | Queensland Country |         1 |   1        |
 | Toulon             |         1 |   0        |

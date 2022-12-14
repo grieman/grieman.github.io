@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Loader  
-date: 2022-12-09 13:19:20.617633  
+date: 2022-12-14 11:29:04.733664  
 categories: player  
 ---
 # Ben Loader
 
 ## Positions: W
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            66 |   0.454545 |
+| London Irish |            67 |   0.447761 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,21 +30,22 @@ categories: player
 | Bath Rugby           |         5 |   0.4      |
 | Sale Sharks          |         5 |   0        |
 | Leicester Tigers     |         5 |   0.4      |
-| Northampton Saints   |         4 |   0        |
 | Bristol Rugby        |         4 |   0.375    |
+| Northampton Saints   |         4 |   0        |
 | Newcastle Falcons    |         3 |   0.666667 |
 | Worcester Warriors   |         3 |   0.333333 |
-| Harlequins           |         3 |   0.333333 |
 | Wasps                |         3 |   0.666667 |
+| Harlequins           |         3 |   0.333333 |
 | Richmond             |         2 |   1        |
-| Doncaster            |         2 |   1        |
-| Edinburgh            |         2 |   0        |
 | London Scottish      |         2 |   1        |
 | Krasny Yar           |         2 |   1        |
+| Edinburgh            |         2 |   0        |
+| Doncaster            |         2 |   1        |
 | Yorkshire Carnegie   |         2 |   0.5      |
-| Nottingham           |         1 |   1        |
+| Montpellier Herault  |         1 |   0        |
 | Bedford              |         1 |   1        |
+| Nottingham           |         1 |   1        |
+| Hartpury College     |         1 |   1        |
 | Saracens             |         1 |   0        |
 | Stade Francais Paris |         1 |   0        |
-| Hartpury College     |         1 |   1        |
 | Cornish Pirates      |         1 |   1        |

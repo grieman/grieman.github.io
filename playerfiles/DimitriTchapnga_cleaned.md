@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Dimitri Tchapnga  
-date: 2022-12-09 13:22:38.748590  
+date: 2022-12-14 11:30:46.164764  
 categories: player  
 ---
 # Dimitri Tchapnga
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 96.0
 
 ## Current Percentile: 38.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            34 |   0.661765 |
+| Albi   |            35 |   0.671429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Cognac Saint Jean d'Angély |         4 |   0.75     |
 | Blagnac                    |         4 |   0.5      |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Dijon                      |         3 |   1        |
 | Bourgoin-Jallieu           |         3 |   1        |
-| Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | US Bressane                |         2 |   0.5      |
 | Tarbes                     |         2 |   0        |
 | Aubenas                    |         2 |   1        |

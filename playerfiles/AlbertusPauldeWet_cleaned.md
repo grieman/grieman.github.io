@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Albertus Paul de Wet  
-date: 2022-12-09 13:23:15.843372  
+date: 2022-12-14 11:20:23.948573  
 categories: player  
 ---
 # Albertus Paul de Wet
 
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Western Province |            10 |     0.65   |
-| Stormers         |             8 |     0.8125 |
+| Western Province |            10 |   0.65     |
+| Stormers         |             9 |   0.722222 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Blue Bulls          |         2 |   0.5      |
 | Natal Sharks        |         2 |   1        |
 | Cardiff Blues       |         1 |   0        |
+| Clermont Auvergne   |         1 |   0        |
 | Connacht            |         1 |   1        |
 | Dragons             |         1 |   1        |
 | Edinburgh           |         1 |   1        |

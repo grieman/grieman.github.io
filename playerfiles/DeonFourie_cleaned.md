@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Deon Fourie  
-date: 2022-12-09 13:17:09.826373  
+date: 2022-12-14 11:19:55.400268  
 categories: player  
 ---
 # Deon Fourie
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 144.0
+## Current elo: 143.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            99 |   0.651515 |
+| Stormers         |           100 |   0.645    |
 | Lyon             |            88 |   0.454545 |
 | Western Province |            41 |   0.719512 |
 | Grenoble         |            38 |   0.526316 |
@@ -37,9 +37,9 @@ categories: player
 | Natal Sharks               |         9 |   0.555556 |
 | Cheetahs                   |         9 |   0.777778 |
 | Stade Toulousain           |         8 |   0.375    |
+| Clermont Auvergne          |         8 |   0.25     |
 | Lions                      |         8 |   0.875    |
 | Crusaders                  |         7 |   0.142857 |
-| Clermont Auvergne          |         7 |   0.285714 |
 | Queensland Reds            |         6 |   0.5      |
 | Racing 92                  |         6 |   0.5      |
 | Free State Cheetahs        |         6 |   1        |

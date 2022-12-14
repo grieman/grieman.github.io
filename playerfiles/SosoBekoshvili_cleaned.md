@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Soso Bekoshvili  
-date: 2022-12-09 13:08:32.158794  
+date: 2022-12-14 11:17:57.247487  
 categories: player  
 ---
 # Soso Bekoshvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 8.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -24,30 +24,30 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Brive       |            66 |   0.484848 |
-| Carcassonne |            11 |   0.454545 |
+| Carcassonne |            12 |   0.5      |
 | Georgia     |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| La Rochelle              |         5 |   0.4      |
 | Pau                      |         5 |   0.4      |
 | Bordeaux Begles          |         5 |   0.4      |
-| La Rochelle              |         5 |   0.4      |
 | Castres Olympique        |         5 |   0.6      |
 | Worcester Warriors       |         4 |   0.75     |
-| Clermont Auvergne        |         4 |   0.5      |
 | Stade Francais Paris     |         4 |   0.5      |
 | Racing 92                |         4 |   0.25     |
+| Clermont Auvergne        |         4 |   0.5      |
 | Toulon                   |         3 |   0.666667 |
 | Stade Toulousain         |         3 |   0        |
 | Oyonnax                  |         3 |   1        |
-| Agen                     |         3 |   1        |
 | Montpellier Herault      |         3 |   0.333333 |
+| Agen                     |         3 |   1        |
 | Bayonne                  |         3 |   0.333333 |
-| Vannes                   |         2 |   0.5      |
+| Dragons                  |         2 |   0.5      |
 | Massy                    |         2 |   0.5      |
+| Vannes                   |         2 |   0.5      |
 | United States of America |         2 |   1        |
 | Perpignan                |         2 |   0.5      |
-| Dragons                  |         2 |   0.5      |
 | Rouen                    |         1 |   1        |
 | Wales                    |         1 |   0        |
 | US Bressane              |         1 |   0        |
@@ -55,14 +55,15 @@ categories: player
 | Bath Rugby               |         1 |   0        |
 | Soyaux-Angouleme         |         1 |   0        |
 | Saracens                 |         1 |   0        |
-| Colomiers                |         1 |   0        |
+| RC Enisei                |         1 |   1        |
 | Beziers                  |         1 |   1        |
+| Grenoble                 |         1 |   0        |
 | Provence Rugby           |         1 |   0        |
 | Biarritz Olympique       |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Newcastle Falcons        |         1 |   0        |
 | Argentina                |         1 |   0        |
-| Montauban                |         1 |   1        |
 | Carcassonne              |         1 |   0        |
-| Grenoble                 |         1 |   0        |
-| RC Enisei                |         1 |   1        |
+| Montauban                |         1 |   1        |
+| Colomiers                |         1 |   0        |
+| Nevers                   |         1 |   1        |

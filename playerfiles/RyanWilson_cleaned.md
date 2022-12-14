@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryan Wilson  
-date: 2022-12-09 13:04:03.417084  
+date: 2022-12-14 11:27:49.732261  
 categories: player  
 ---
 # Ryan Wilson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 24.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |           208 |   0.545673 |
+| Glasgow Warriors |           209 |   0.547847 |
 | Scotland         |            49 |   0.591837 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -51,6 +51,7 @@ categories: player
 | England                  |         3 |   0.333333 |
 | Australia                |         3 |   0.666667 |
 | South Africa             |         3 |   0        |
+| Bath Rugby               |         3 |   0.666667 |
 | Saracens                 |         3 |   0        |
 | Racing 92                |         3 |   0.666667 |
 | Samoa                    |         3 |   1        |
@@ -58,7 +59,6 @@ categories: player
 | Wasps                    |         2 |   0.5      |
 | Stade Toulousain         |         2 |   0        |
 | Sharks                   |         2 |   0.5      |
-| Bath Rugby               |         2 |   0.5      |
 | Georgia                  |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
 | Castres Olympique        |         2 |   0        |

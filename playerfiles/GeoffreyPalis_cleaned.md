@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Palis  
-date: 2022-12-09 13:15:40.201028  
+date: 2022-12-14 11:22:47.805148  
 categories: player  
 ---
 # Geoffrey Palis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           177 |   0.564972 |
+| Castres Olympique |           178 |   0.561798 |
 | Albi              |            74 |   0.513514 |
 | France            |             3 |   0        |
 
@@ -61,8 +61,8 @@ categories: player
 | Saint-Etienne        |         2 |   1        |
 | Worcester Warriors   |         2 |   1        |
 | Dragons              |         2 |   0.5      |
+| Exeter Chiefs        |         2 |   0        |
 | Ospreys              |         2 |   0.5      |
-| Exeter Chiefs        |         1 |   0        |
 | Massy                |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Harlequins           |         1 |   0        |

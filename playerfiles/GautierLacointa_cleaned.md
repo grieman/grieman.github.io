@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gautier Lacointa  
-date: 2022-11-22 11:30:29.338085  
+date: 2022-12-14 11:31:45.712002  
 categories: player  
 ---
 # Gautier Lacointa
 
 ## Positions: W
 
-## Current elo: 87.0
+## Current elo: 91.0
 
-## Current Percentile: 27.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |             4 |      0.375 |
+| Albi   |             5 |        0.5 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Carqueiranne-Hyères |         1 |        0   |
-| Nice                |         1 |        0.5 |
-| Rennes              |         1 |        1   |
-| Tarbes              |         1 |        0   |
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Carqueiranne-Hyères        |         1 |        0   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Nice                       |         1 |        0.5 |
+| Rennes                     |         1 |        1   |
+| Tarbes                     |         1 |        0   |

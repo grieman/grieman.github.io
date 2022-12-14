@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marius Antonescu  
-date: 2022-12-09 13:06:13.592281  
+date: 2022-12-14 11:34:35.376917  
 categories: player  
 ---
 # Marius Antonescu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 69.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -25,36 +25,36 @@ categories: player
 |:------------|--------------:|-----------:|
 | Romania     |            26 |   0.653846 |
 | Colomiers   |            19 |   0.368421 |
-| US Bressane |            18 |   0.583333 |
+| US Bressane |            19 |   0.605263 |
 | Tarbes      |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Nevers                     |         4 |   0        |
-| Spain                      |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Bayonne                    |         4 |   0        |
+| Spain                      |         4 |   0.25     |
+| Tarbes                     |         3 |   0.666667 |
 | Massy                      |         3 |   0.666667 |
 | Russia                     |         3 |   0.666667 |
-| Germany                    |         2 |   1        |
+| Canada                     |         2 |   1        |
 | Georgia                    |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
 | Montauban                  |         2 |   0.5      |
 | Beziers                    |         2 |   1        |
 | Italy                      |         2 |   0        |
+| Germany                    |         2 |   1        |
 | Grenoble                   |         2 |   0.5      |
-| Canada                     |         2 |   1        |
-| Vannes                     |         2 |   0        |
 | Dijon                      |         2 |   1        |
 | Portugal                   |         2 |   1        |
 | Brazil                     |         2 |   1        |
-| Tarbes                     |         2 |   0.5      |
-| Samoa                      |         1 |   1        |
+| Vannes                     |         2 |   0        |
+| United States of America   |         1 |   1        |
 | Uruguay                    |         1 |   1        |
+| Samoa                      |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Rouen                      |         1 |   0.5      |
-| United States of America   |         1 |   1        |
 | Agen                       |         1 |   0        |
 | Perpignan                  |         1 |   1        |
 | Netherlands                |         1 |   1        |

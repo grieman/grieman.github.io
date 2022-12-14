@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oskar Rixen  
-date: 2022-12-09 13:24:42.097889  
+date: 2022-12-12 15:09:01.675304  
 categories: player  
 ---
 # Oskar Rixen

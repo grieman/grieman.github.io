@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Eneri Lotawa  
-date: 2022-12-09 13:04:06.499181  
+date: 2022-12-14 11:27:52.719618  
 categories: player  
 ---
 # Eneri Lotawa
 
 ## Positions: W, C
 
-## Current elo: 70.0
+## Current elo: 68.0
 
 ## Current Percentile: 2.0
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            44 |   0.284091 |
+| Cognac Saint Jean d'Angély |            45 |   0.277778 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Tarbes                     |         5 |   0.1      |
+| Albi                       |         4 |   0        |
 | Dax                        |         4 |   0.75     |
-| Albi                       |         3 |   0        |
 | Dijon                      |         3 |   1        |
 | Suresnes                   |         3 |   0        |
 | Nice                       |         3 |   0.333333 |

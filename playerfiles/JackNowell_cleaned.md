@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Nowell  
-date: 2022-11-22 11:32:12.907120  
+date: 2022-12-14 11:17:27.672556  
 categories: player  
 ---
 # Jack Nowell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 91.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Exeter Chiefs           |           148 |   0.692568 |
-| England                 |            44 |   0.704545 |
+| Exeter Chiefs           |           149 |   0.694631 |
+| England                 |            45 |   0.688889 |
 | British and Irish Lions |             6 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -50,26 +50,26 @@ categories: player
 | New Zealand        |         4 |   0.5      |
 | Bordeaux Begles    |         3 |   0.666667 |
 | Ospreys            |         3 |   0.666667 |
+| Castres Olympique  |         3 |   0.666667 |
 | London Welsh       |         3 |   0.666667 |
 | Bayonne            |         2 |   0.5      |
 | Toulon             |         2 |   0        |
-| Castres Olympique  |         2 |   0.5      |
+| South Africa       |         2 |   0.5      |
 | Glasgow Warriors   |         2 |   0.75     |
 | Connacht           |         2 |   1        |
 | Munster            |         2 |   0.25     |
+| Leinster           |         2 |   0        |
 | La Rochelle        |         2 |   1        |
 | Clermont Auvergne  |         2 |   0.5      |
 | Argentina          |         2 |   0.5      |
-| Leinster           |         2 |   0        |
+| Cavalieri Prato    |         1 |   1        |
 | Racing 92          |         1 |   1        |
 | Japan              |         1 |   1        |
-| Hurricanes         |         1 |   0.5      |
 | Scarlets           |         1 |   1        |
-| Cavalieri Prato    |         1 |   1        |
-| South Africa       |         1 |   1        |
+| Blues              |         1 |   0        |
+| Hurricanes         |         1 |   0.5      |
 | Stade Toulousain   |         1 |   1        |
 | Highlanders        |         1 |   0        |
 | Ulster             |         1 |   1        |
 | Uruguay            |         1 |   1        |
 | Chiefs             |         1 |   1        |
-| Blues              |         1 |   0        |

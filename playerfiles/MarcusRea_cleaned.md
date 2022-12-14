@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Marcus Rea  
-date: 2022-12-09 13:14:35.386412  
+date: 2022-12-14 11:21:21.827631  
 categories: player  
 ---
 # Marcus Rea
 
 ## Positions: FL
 
-## Current elo: 117.0
+## Current elo: 115.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |            24 |   0.708333 |
+| Ulster |            25 |       0.68 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -37,5 +37,6 @@ categories: player
 | Edinburgh        |         1 |   1        |
 | Glasgow Warriors |         1 |   1        |
 | Lions            |         1 |   1        |
+| Sale Sharks      |         1 |   0        |
 | Sharks           |         1 |   1        |
 | Zebre            |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pieter Scholtz  
-date: 2022-12-09 13:16:11.062121  
+date: 2022-12-14 11:11:27.759669  
 categories: player  
 ---
 # Pieter Scholtz
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 88.0
 
 ## Current Percentile: 25.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Southern Kings |            26 |  0.0961538 |
-| Bayonne        |             9 |  0.666667  |
+| Bayonne        |            10 |  0.6       |
 | Pumas          |             8 |  0.5       |
 | Scarlets       |             7 |  0.714286  |
 | Wasps          |             3 |  0.333333  |
@@ -35,11 +35,11 @@ categories: player
 | Ospreys              |         4 |   0.5      |
 | Munster              |         4 |   0        |
 | Benetton Treviso     |         4 |   0.25     |
+| Scarlets             |         3 |   0        |
 | Connacht             |         3 |   0.333333 |
 | Dragons              |         3 |   0.833333 |
 | Cardiff Blues        |         2 |   0        |
 | Cheetahs             |         2 |   0        |
-| Scarlets             |         2 |   0        |
 | Golden Lions         |         2 |   0.5      |
 | Griquas              |         2 |   1        |
 | Natal Sharks         |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon Kerrod  
-date: 2022-12-09 13:18:27.300542  
+date: 2022-12-14 11:26:44.266725  
 categories: player  
 ---
 # Simon Kerrod
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Harlequins             |            71 |   0.570423 |
+| Harlequins             |            72 |   0.5625   |
 | Worcester Warriors     |            25 |   0.34     |
 | Jersey                 |            15 |   0.6      |
 | Eastern Province Kings |             7 |   0.142857 |
@@ -53,14 +53,15 @@ categories: player
 | Harlequins           |         2 |   0        |
 | Connacht             |         2 |   0.25     |
 | Bedford              |         1 |   1        |
-| Clermont Auvergne    |         1 |   0        |
+| Sharks               |         1 |   0        |
 | Blue Bulls           |         1 |   0        |
 | Western Province     |         1 |   0        |
 | Brive                |         1 |   0        |
 | Cardiff Blues        |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
-| Richmond             |         1 |   1        |
 | Rotherham Titans     |         1 |   1        |
+| Clermont Auvergne    |         1 |   0        |
+| Richmond             |         1 |   1        |
 | Pumas                |         1 |   1        |
 | Pau                  |         1 |   0        |
 | Cornish Pirates      |         1 |   1        |

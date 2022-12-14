@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Lowry  
-date: 2022-12-09 13:06:12.829280  
+date: 2022-12-14 11:12:44.335938  
 categories: player  
 ---
 # Michael Lowry
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 65.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |            56 |   0.633929 |
+| Ulster  |            57 |   0.622807 |
 | Ireland |             2 |   1        |
 
 | Opponent          |   Matches |   Win Rate |
@@ -46,6 +46,7 @@ categories: player
 | Bulls             |         1 |   0        |
 | New Zealand Maori |         1 |   1        |
 | Cheetahs          |         1 |   1        |
+| Sale Sharks       |         1 |   0        |
 | Sharks            |         1 |   1        |
 | Southern Kings    |         1 |   1        |
 | Stade Toulousain  |         1 |   0        |

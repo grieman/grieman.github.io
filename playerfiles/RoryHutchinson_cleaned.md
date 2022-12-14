@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Hutchinson  
-date: 2022-12-09 13:06:52.416275  
+date: 2022-12-14 11:26:14.368425  
 categories: player  
 ---
 # Rory Hutchinson
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 49.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           105 |   0.514286 |
+| Northampton Saints |           106 |   0.509434 |
 | Scotland           |             7 |   0.428571 |
 | Bedford            |             6 |   0.666667 |
 | Rotherham Titans   |             1 |   0        |
@@ -32,8 +32,8 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Leicester Tigers    |        10 |   0.3      |
 | Gloucester Rugby    |         9 |   0.555556 |
-| Harlequins          |         9 |   0.444444 |
 | Exeter Chiefs       |         9 |   0.333333 |
+| Harlequins          |         9 |   0.444444 |
 | Worcester Warriors  |         8 |   1        |
 | Bath Rugby          |         8 |   0.375    |
 | Newcastle Falcons   |         8 |   0.625    |
@@ -42,17 +42,18 @@ categories: player
 | Sale Sharks         |         6 |   0.333333 |
 | Wasps               |         6 |   0.666667 |
 | London Irish        |         5 |   0.8      |
-| Dragons             |         2 |   1        |
 | Lyon                |         2 |   1        |
+| Argentina           |         2 |   0.5      |
+| Dragons             |         2 |   1        |
 | Benetton Treviso    |         2 |   1        |
 | Leinster            |         2 |   0        |
-| Argentina           |         2 |   0.5      |
 | Richmond            |         1 |   1        |
-| London Scottish     |         1 |   0        |
-| Scarlets            |         1 |   1        |
 | Montpellier Herault |         1 |   1        |
+| Scarlets            |         1 |   1        |
 | Timisoara Saracens  |         1 |   1        |
+| London Scottish     |         1 |   0        |
 | Italy               |         1 |   1        |
+| La Rochelle         |         1 |   0        |
 | Jersey              |         1 |   0        |
 | Ireland             |         1 |   0        |
 | Hartpury College    |         1 |   1        |

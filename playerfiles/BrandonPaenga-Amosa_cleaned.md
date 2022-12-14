@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brandon Paenga-Amosa  
-date: 2022-12-09 13:10:21.518016  
+date: 2022-12-14 11:30:54.055937  
 categories: player  
 ---
 # Brandon Paenga-Amosa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: 28.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Queensland Reds     |            55 |   0.463636 |
-| Montpellier Herault |            24 |   0.6875   |
+| Montpellier Herault |            25 |   0.7      |
 | Australia           |            16 |   0.34375  |
 | Brisbane City       |            10 |   0.35     |
 | Greater Sydney Rams |             7 |   0.285714 |
@@ -55,23 +55,24 @@ categories: player
 | Perth Spirit             |         2 |   0.5      |
 | Perpignan                |         2 |   1        |
 | Pau                      |         2 |   1        |
-| Stormers                 |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0        |
 | Brisbane City            |         2 |   0.25     |
 | Brive                    |         2 |   0.75     |
-| Stade Francais Paris     |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
+| Stormers                 |         2 |   0.5      |
 | Biarritz Olympique       |         2 |   1        |
 | Sydney Rays              |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
-| Stade Toulousain         |         2 |   0        |
+| Stade Francais Paris     |         2 |   1        |
+| South Africa             |         1 |   0        |
 | Toulon                   |         1 |   1        |
 | North Harbour Rays       |         1 |   0        |
-| South Africa             |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Lyon                     |         1 |   0        |
 | Bayonne                  |         1 |   1        |
-| Castres Olympique        |         1 |   1        |
 | Lions                    |         1 |   1        |
+| Castres Olympique        |         1 |   1        |
+| London Irish             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Vunipola  
-date: 2022-11-22 11:47:54.839480  
+date: 2022-12-14 11:20:44.810973  
 categories: player  
 ---
 # Billy Vunipola
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 131.0
+## Current elo: 127.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           154 |   0.824675 |
-| England  |            59 |   0.661017 |
+| Saracens |           155 |   0.825806 |
+| England  |            60 |   0.65     |
 | Wasps    |            39 |   0.410256 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,17 +42,17 @@ categories: player
 | Australia                |         8 |   0.875    |
 | Bristol Rugby            |         8 |   0.75     |
 | Wales                    |         7 |   0.428571 |
-| Worcester Warriors       |         7 |   1        |
 | Ireland                  |         7 |   0.571429 |
-| France                   |         6 |   0.666667 |
+| Worcester Warriors       |         7 |   1        |
+| South Africa             |         6 |   0.166667 |
 | Scotland                 |         6 |   0.75     |
 | Italy                    |         6 |   1        |
+| France                   |         6 |   0.666667 |
 | Munster                  |         5 |   0.8      |
 | New Zealand              |         5 |   0.3      |
 | Clermont Auvergne        |         5 |   0.6      |
-| South Africa             |         5 |   0.2      |
-| Glasgow Warriors         |         4 |   1        |
 | Stade Toulousain         |         4 |   0.5      |
+| Glasgow Warriors         |         4 |   1        |
 | Racing 92                |         4 |   0.75     |
 | Argentina                |         4 |   0.75     |
 | London Welsh             |         4 |   1        |
@@ -63,6 +63,7 @@ categories: player
 | Toulon                   |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
 | Fiji                     |         2 |   1        |
+| Edinburgh                |         2 |   0.5      |
 | Dragons                  |         2 |   1        |
 | Connacht                 |         2 |   1        |
 | Mogliano                 |         1 |   1        |
@@ -78,7 +79,6 @@ categories: player
 | Lyon                     |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Ealing Trailfinders      |         1 |   1        |
-| Edinburgh                |         1 |   0        |
 | Oyonnax                  |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Nottingham               |         1 |   1        |

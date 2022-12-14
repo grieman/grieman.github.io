@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Filipe Manu  
-date: 2022-12-09 13:12:59.591840  
+date: 2022-12-14 11:33:43.494734  
 categories: player  
 ---
 # Filipe Manu
 
 ## Positions: N8, FL
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 58.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Tarbes                     |            95 |   0.547368 |
 | Biarritz Olympique         |            59 |   0.635593 |
 | Bourgoin-Jallieu           |            18 |   0.444444 |
-| Cognac Saint Jean d'Angély |            12 |   0        |
+| Cognac Saint Jean d'Angély |            13 |   0        |
 | Saint-Etienne              |            11 |   0        |
 | Mont-de-Marsan             |             7 |   0.428571 |
 
@@ -33,9 +33,9 @@ categories: player
 | Dax                        |        14 |   0.571429 |
 | Aurillac                   |        11 |   0.454545 |
 | Beziers                    |        11 |   0.636364 |
+| Albi                       |        11 |   0.363636 |
 | Carcassonne                |        10 |   0.6      |
 | Narbonne                   |        10 |   0.65     |
-| Albi                       |        10 |   0.4      |
 | Bourgoin-Jallieu           |         9 |   0.555556 |
 | Mont-de-Marsan             |         9 |   0.666667 |
 | Colomiers                  |         8 |   0.25     |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tian Schoeman  
-date: 2022-12-09 13:19:10.554786  
+date: 2022-12-14 11:34:22.582242  
 categories: player  
 ---
 # Tian Schoeman
 
 ## Positions: FH
 
-## Current elo: 102.0
+## Current elo: 100.0
 
 ## Current Percentile: 71.0
 
@@ -25,7 +25,7 @@ categories: player
 | Cheetahs            |            30 |   0.383333 |
 | Blue Bulls          |            22 |   0.681818 |
 | Bordeaux Begles     |            17 |   0.352941 |
-| Newcastle Falcons   |             9 |   0.222222 |
+| Newcastle Falcons   |            10 |   0.2      |
 | Bath Rugby          |             6 |   0.666667 |
 | Free State Cheetahs |             6 |   0.5      |
 
@@ -34,13 +34,13 @@ categories: player
 | Southern Kings           |         7 |   0.857143 |
 | Western Province         |         6 |   0.5      |
 | Cheetahs                 |         6 |   0.666667 |
+| Connacht                 |         4 |   0        |
 | Griquas                  |         4 |   1        |
 | Golden Lions             |         4 |   0.25     |
 | Sunwolves                |         4 |   0.75     |
 | Stormers                 |         4 |   0.25     |
 | Free State Cheetahs      |         4 |   0.75     |
 | Zebre                    |         3 |   0.666667 |
-| Connacht                 |         3 |   0        |
 | Natal Sharks             |         3 |   0.333333 |
 | Ospreys                  |         3 |   0.333333 |
 | Dragons                  |         3 |   0.333333 |

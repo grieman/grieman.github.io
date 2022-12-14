@@ -1,27 +1,32 @@
 ---  
 layout: page  
 title: Clement Mondinat  
-date: 2022-11-16 11:38:07.497482  
+date: 2022-12-14 11:34:02.106251  
 categories: player  
 ---
 # Clement Mondinat
 
-## Positions: 
+## Positions: FB
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_ClementMondinat.png)
 # Match History
 
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |             4 |        0.5 |
+| Pau    |             5 |        0.4 |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
 | Bordeaux Begles |         1 |          1 |
+| Cheetahs        |         1 |          0 |
 | La Rochelle     |         1 |          1 |
 | Racing 92       |         1 |          0 |
 | Toulon          |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis van der Westhuizen  
-date: 2022-11-22 11:29:19.072785  
+date: 2022-12-14 11:25:33.724333  
 categories: player  
 ---
 # Louis van der Westhuizen
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 81.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -26,6 +26,7 @@ categories: player
 | Namibia             |            14 |   0.5      |
 | Free State Cheetahs |            11 |   0.727273 |
 | Leopards            |             4 |   1        |
+| Cheetahs            |             1 |   1        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -35,7 +36,7 @@ categories: player
 | Kenya                  |         2 |   1        |
 | Pumas                  |         2 |   0.5      |
 | Natal Sharks           |         2 |   1        |
-| New Zealand            |         1 |   0        |
+| Pau                    |         1 |   1        |
 | Western Province       |         1 |   1        |
 | Tunisia                |         1 |   1        |
 | Tonga                  |         1 |   0        |
@@ -43,6 +44,7 @@ categories: player
 | South Africa           |         1 |   0        |
 | SWD Eagles             |         1 |   1        |
 | Argentina              |         1 |   0        |
+| New Zealand            |         1 |   0        |
 | Morocco                |         1 |   1        |
 | Italy                  |         1 |   0        |
 | Golden Lions           |         1 |   1        |

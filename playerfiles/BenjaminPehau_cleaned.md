@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benjamin Pehau  
-date: 2022-12-09 13:11:54.370155  
+date: 2022-12-14 11:14:39.952771  
 categories: player  
 ---
 # Benjamin Pehau
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 30.0
+## Current Percentile: 29.0
 
 # Elo History
 

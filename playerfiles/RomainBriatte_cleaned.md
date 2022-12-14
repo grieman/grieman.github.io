@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Briatte  
-date: 2022-12-09 13:04:09.450683  
+date: 2022-12-12 15:04:37.752940  
 categories: player  
 ---
 # Romain Briatte

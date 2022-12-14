@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kitione Kamikamica  
-date: 2022-12-09 13:21:30.541129  
+date: 2022-12-14 11:26:09.816978  
 categories: player  
 ---
 # Kitione Kamikamica
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 53.0
+## Current Percentile: 52.0
 
 # Elo History
 

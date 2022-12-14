@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Viliame Mata  
-date: 2022-12-09 13:11:13.681817  
+date: 2022-12-14 11:11:58.095681  
 categories: player  
 ---
 # Viliame Mata
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 49.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            98 |   0.571429 |
+| Edinburgh |            99 |   0.565657 |
 | Fiji      |            14 |   0.392857 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -58,6 +58,7 @@ categories: player
 | Bulls                |         2 |   0.5      |
 | New Zealand Maori    |         1 |   1        |
 | Lions                |         1 |   0        |
+| Saracens             |         1 |   0        |
 | La Rochelle          |         1 |   0        |
 | Italy                |         1 |   1        |
 | Stormers             |         1 |   0.5      |

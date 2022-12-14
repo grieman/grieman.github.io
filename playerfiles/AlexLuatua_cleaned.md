@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Luatua  
-date: 2022-12-09 13:10:18.560551  
+date: 2022-12-14 11:21:10.115988  
 categories: player  
 ---
 # Alex Luatua
 
 ## Positions: C, W
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 57.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Aurillac  |            69 |   0.485507 |
 | Montauban |            33 |   0.454545 |
-| Rouen     |            30 |   0.416667 |
+| Rouen     |            31 |   0.403226 |
 | Oyonnax   |             5 |   0.6      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,10 +35,10 @@ categories: player
 | Soyaux-Angouleme           |         8 |   0.6875   |
 | Carcassonne                |         8 |   0.375    |
 | Colomiers                  |         8 |   0.25     |
+| Provence Rugby             |         7 |   0.285714 |
 | Oyonnax                    |         7 |   0.357143 |
 | Montauban                  |         6 |   0.416667 |
 | Bayonne                    |         6 |   0.166667 |
-| Provence Rugby             |         6 |   0.333333 |
 | Dax                        |         6 |   0.5      |
 | Perpignan                  |         6 |   0.5      |
 | Nevers                     |         5 |   0.2      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steven Luatua  
-date: 2022-12-09 13:24:10.584367  
+date: 2022-12-14 11:33:19.600427  
 categories: player  
 ---
 # Steven Luatua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |            94 |   0.62234  |
+| Bristol Rugby |            95 |   0.626316 |
 | Blues         |            75 |   0.453333 |
 | Auckland      |            13 |   0.653846 |
 | New Zealand   |            12 |   0.875    |
@@ -70,7 +70,7 @@ categories: player
 | Zebre                    |         2 |  0.25      |
 | Jersey                   |         2 |  0.5       |
 | Nottingham               |         1 |  1         |
-| Jaguares                 |         1 |  1         |
+| Canterbury               |         1 |  0         |
 | Yorkshire Carnegie       |         1 |  1         |
 | Bedford                  |         1 |  1         |
 | Bordeaux Begles          |         1 |  1         |
@@ -79,14 +79,15 @@ categories: player
 | Toulon                   |         1 |  1         |
 | Taranaki                 |         1 |  0         |
 | Sunwolves                |         1 |  0         |
-| Canterbury               |         1 |  0         |
 | Stade Francais Paris     |         1 |  1         |
+| Jaguares                 |         1 |  1         |
+| Southland                |         1 |  1         |
 | La Rochelle              |         1 |  0         |
-| Southern Kings           |         1 |  1         |
 | Cornish Pirates          |         1 |  1         |
 | Dragons                  |         1 |  1         |
 | Japan                    |         1 |  1         |
 | Hartpury College         |         1 |  1         |
 | Ireland                  |         1 |  1         |
 | Italy                    |         1 |  1         |
-| Southland                |         1 |  1         |
+| Perpignan                |         1 |  1         |
+| Southern Kings           |         1 |  1         |

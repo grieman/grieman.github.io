@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Aurelien Labau  
-date: 2022-11-22 11:41:09.925053  
+date: 2022-12-14 11:22:19.602563  
 categories: player  
 ---
 # Aurelien Labau
 
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |             7 |   0.785714 |
+| Blagnac |             9 |   0.722222 |
 | Nice    |             5 |   0.6      |
 | Agen    |             3 |   0        |
 
@@ -36,6 +36,8 @@ categories: player
 | Chambery                   |         1 |        1   |
 | La Rochelle                |         1 |        0   |
 | Narbonne                   |         1 |        0.5 |
+| Nice                       |         1 |        0   |
 | Racing 92                  |         1 |        0   |
 | Rennes                     |         1 |        1   |
+| Suresnes                   |         1 |        1   |
 | Wasps                      |         1 |        0   |

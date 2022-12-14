@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor Moreaux  
-date: 2022-12-09 13:15:32.759137  
+date: 2022-12-12 15:28:27.571695  
 categories: player  
 ---
 # Victor Moreaux
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 82.0
 
-## Current Percentile: 13.0
+## Current Percentile: 12.0
 
 # Elo History
 

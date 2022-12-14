@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joris Segonds  
-date: 2022-12-09 13:08:12.133158  
+date: 2022-12-12 14:56:04.928772  
 categories: player  
 ---
 # Joris Segonds

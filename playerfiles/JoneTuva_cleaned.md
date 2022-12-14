@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jone Tuva  
-date: 2022-12-09 13:06:00.354372  
+date: 2022-12-14 11:25:26.883752  
 categories: player  
 ---
 # Jone Tuva
 
 ## Positions: W, C
 
-## Current elo: 63.0
+## Current elo: 61.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -22,18 +22,18 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Lyon                       |            12 |       0.25 |
-| Cognac Saint Jean d'Angély |             7 |       0    |
+| Cognac Saint Jean d'Angély |             8 |       0    |
 | Bourgoin-Jallieu           |             5 |       0.4  |
 | Carcassonne                |             5 |       0.6  |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Albi                |         2 |        0   |
 | Narbonne            |         2 |        0   |
 | Cardiff Blues       |         2 |        0   |
 | Stade Toulousain    |         2 |        0.5 |
 | Sale Sharks         |         2 |        0.5 |
 | Colomiers           |         2 |        0   |
-| Albi                |         1 |        0   |
 | Suresnes            |         1 |        0   |
 | Roval Drome XV      |         1 |        1   |
 | Rennes              |         1 |        0   |

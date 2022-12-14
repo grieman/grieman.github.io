@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Felipe Berchesi Pisano  
-date: 2022-12-09 13:16:44.359897  
+date: 2022-12-14 11:36:20.662530  
 categories: player  
 ---
 # Felipe Berchesi Pisano
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 51.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            43 |   0.5      |
+| Dax         |            44 |   0.511364 |
 | Carcassonne |            24 |   0.416667 |
 | Uruguay     |            19 |   0.368421 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Narbonne                   |         6 |   0.666667 |
 | Albi                       |         5 |   0        |
-| Narbonne                   |         5 |   0.6      |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Biarritz Olympique         |         4 |   0.5      |
 | Romania                    |         4 |   0.75     |

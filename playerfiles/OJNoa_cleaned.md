@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: OJ Noa  
-date: 2022-12-09 13:12:38.168232  
+date: 2022-12-14 11:14:02.941609  
 categories: player  
 ---
 # OJ Noa
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| Bayonne          |             8 |   0.5      |
 | Natal Sharks     |             8 |   0.625    |
-| Bayonne          |             7 |   0.571429 |
 | Samoa            |             5 |   0.8      |
 | Canberra Vikings |             3 |   0.333333 |
 | Melbourne Rising |             1 |   0        |
@@ -38,15 +38,16 @@ categories: player
 | New Zealand Maori    |         1 |        0   |
 | Stade Toulousain     |         1 |        1   |
 | Stade Francais Paris |         1 |        0   |
+| Scarlets             |         1 |        0   |
 | Pumas                |         1 |        1   |
 | Perth Spirit         |         1 |        0   |
 | North Harbour Rays   |         1 |        0   |
 | Bordeaux Begles      |         1 |        1   |
-| Montpellier Herault  |         1 |        0   |
 | Brisbane City        |         1 |        1   |
+| Melbourne Rising     |         1 |        0   |
 | Lyon                 |         1 |        1   |
 | Free State Cheetahs  |         1 |        0   |
 | Fiji                 |         1 |        1   |
 | Clermont Auvergne    |         1 |        1   |
 | Castres Olympique    |         1 |        0   |
-| Melbourne Rising     |         1 |        0   |
+| Montpellier Herault  |         1 |        0   |

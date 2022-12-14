@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Titi Lamositele  
-date: 2022-12-09 13:10:23.616516  
+date: 2022-12-14 11:21:01.620824  
 categories: player  
 ---
 # Titi Lamositele
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: United States of America
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: 39.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
 | Saracens                 |            88 |   0.744318 |
-| Montpellier Herault      |            55 |   0.536364 |
+| Montpellier Herault      |            56 |   0.544643 |
 | United States of America |            23 |   0.347826 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -49,9 +49,9 @@ categories: player
 | Bristol Rugby        |         4 |   0.75     |
 | Newcastle Falcons    |         4 |   1        |
 | Lyon                 |         4 |   0.5      |
+| London Irish         |         4 |   1        |
 | La Rochelle          |         4 |   0.5      |
 | Brive                |         4 |   0.75     |
-| London Irish         |         3 |   1        |
 | Pau                  |         3 |   0.333333 |
 | Munster              |         3 |   0.666667 |
 | Bayonne              |         3 |   0.666667 |

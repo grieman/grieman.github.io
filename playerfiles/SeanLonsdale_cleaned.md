@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sean Lonsdale  
-date: 2022-12-09 13:14:26.919832  
+date: 2022-12-14 11:15:22.982209  
 categories: player  
 ---
 # Sean Lonsdale
 
 ## Positions: L, FL
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 22.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            56 |     0.6875 |
-| Dragons       |             8 |     0.375  |
+| Exeter Chiefs |            56 |   0.6875   |
+| Dragons       |             9 |   0.388889 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Worcester Warriors |         6 |   0.833333 |
 | Sale Sharks        |         6 |   0.833333 |
+| Worcester Warriors |         6 |   0.833333 |
 | Bristol Rugby      |         5 |   0.8      |
 | Leicester Tigers   |         5 |   0.8      |
 | Northampton Saints |         5 |   0.4      |
@@ -38,12 +38,12 @@ categories: player
 | Saracens           |         4 |   0.5      |
 | Newcastle Falcons  |         4 |   0.75     |
 | Castres Olympique  |         2 |   0.5      |
+| Lions              |         2 |   0.25     |
 | Munster            |         2 |   0.5      |
-| Ospreys            |         1 |   1        |
 | Stormers           |         1 |   0        |
 | Bath Rugby         |         1 |   1        |
+| Ospreys            |         1 |   1        |
 | Benetton Treviso   |         1 |   0        |
-| Lions              |         1 |   0        |
 | Glasgow Warriors   |         1 |   0.5      |
 | Edinburgh          |         1 |   0        |
 | Cardiff Blues      |         1 |   0        |

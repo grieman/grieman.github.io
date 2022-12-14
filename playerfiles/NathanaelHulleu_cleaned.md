@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathanael Hulleu  
-date: 2022-12-09 13:18:44.149595  
+date: 2022-12-14 11:31:03.192734  
 categories: player  
 ---
 # Nathanael Hulleu
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 94.0
 
-## Current Percentile: 71.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bordeaux Begles |            14 |   0.571429 |
-| Vannes          |            13 |   0.576923 |
+| Vannes          |            14 |   0.535714 |
 | Grenoble        |             4 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,19 +33,20 @@ categories: player
 | Rouen                |         2 |        0.5 |
 | Racing 92            |         2 |        0   |
 | Oyonnax              |         2 |        0.5 |
-| Beziers              |         2 |        1   |
 | Montpellier Herault  |         2 |        1   |
 | Stade Toulousain     |         2 |        0   |
-| Massy                |         1 |        1   |
+| Beziers              |         2 |        1   |
 | Grenoble             |         1 |        1   |
-| Montauban            |         1 |        0.5 |
+| Massy                |         1 |        1   |
 | Colomiers            |         1 |        1   |
-| Nevers               |         1 |        1   |
+| Aurillac             |         1 |        0   |
 | Clermont Auvergne    |         1 |        1   |
+| Nevers               |         1 |        1   |
+| Carcassonne          |         1 |        1   |
 | Pau                  |         1 |        1   |
 | Perpignan            |         1 |        1   |
-| Carcassonne          |         1 |        1   |
 | Brive                |         1 |        0   |
+| Biarritz Olympique   |         1 |        1   |
 | Scarlets             |         1 |        1   |
 | Soyaux-Angouleme     |         1 |        0   |
-| Biarritz Olympique   |         1 |        1   |
+| Montauban            |         1 |        0.5 |

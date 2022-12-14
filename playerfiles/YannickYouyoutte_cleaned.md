@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yannick Youyoutte  
-date: 2022-12-09 13:15:00.916818  
+date: 2022-12-14 11:19:04.603712  
 categories: player  
 ---
 # Yannick Youyoutte
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            31 |   0.629032 |
+| Stade Toulousain |            32 |   0.640625 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,3 +40,4 @@ categories: player
 | Racing 92            |         2 |   0.5      |
 | Toulon               |         2 |   0.5      |
 | Biarritz Olympique   |         1 |   1        |
+| Munster              |         1 |   1        |

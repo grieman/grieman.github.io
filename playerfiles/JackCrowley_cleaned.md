@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Crowley  
-date: 2022-12-09 13:08:50.729719  
+date: 2022-12-14 11:35:13.348578  
 categories: player  
 ---
 # Jack Crowley
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: 49.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            20 |       0.55 |
-| Ireland |             2 |       1    |
+| Munster |            21 |    0.52381 |
+| Ireland |             2 |    1       |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -42,4 +42,5 @@ categories: player
 | Leinster          |         1 |   0        |
 | Lions             |         1 |   0        |
 | Ospreys           |         1 |   0        |
+| Stade Toulousain  |         1 |   0        |
 | Zebre             |         1 |   1        |

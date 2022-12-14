@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: MJ Pelser  
-date: 2022-12-09 13:20:20.300463  
+date: 2022-12-14 11:27:26.490589  
 categories: player  
 ---
 # MJ Pelser
 
 ## Positions: FL
 
-## Current elo: 76.0
+## Current elo: 74.0
 
-## Current Percentile: 6.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Golden Lions |             8 |          0 |
-| Zebre        |             6 |          0 |
+| Zebre        |             7 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -37,3 +37,4 @@ categories: player
 | Natal Sharks        |         1 |          0 |
 | Scarlets            |         1 |          0 |
 | Sharks              |         1 |          0 |
+| Toulon              |         1 |          0 |

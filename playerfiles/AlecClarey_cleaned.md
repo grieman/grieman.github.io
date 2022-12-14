@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alec Clarey  
-date: 2022-11-22 11:44:07.003844  
+date: 2022-12-14 11:31:23.038710  
 categories: player  
 ---
 # Alec Clarey
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Saracens      |            33 |   0.636364 |
+| Saracens      |            34 |   0.647059 |
 | Jersey        |            11 |   0.363636 |
 | Bristol Rugby |             1 |   0        |
 
@@ -39,10 +39,10 @@ categories: player
 | Newcastle Falcons   |         2 |   1        |
 | Leicester Tigers    |         2 |   0        |
 | Worcester Warriors  |         2 |   0.5      |
+| Edinburgh           |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
 | Doncaster           |         2 |   0.5      |
 | Bath Rugby          |         1 |   0.5      |
-| Edinburgh           |         1 |   0        |
 | Leinster            |         1 |   1        |
 | London Irish        |         1 |   0.5      |
 | London Scottish     |         1 |   0        |

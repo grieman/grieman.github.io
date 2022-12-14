@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Marco Manfredi  
-date: 2022-12-09 13:17:57.549474  
+date: 2022-12-14 11:21:05.798206  
 categories: player  
 ---
 # Marco Manfredi
 
 ## Positions: H
 
-## Current elo: 69.0
+## Current elo: 68.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            27 |    0.12963 |
+| Zebre  |            28 |      0.125 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -39,3 +39,4 @@ categories: player
 | Connacht         |         1 |   0        |
 | Munster          |         1 |   0        |
 | Ospreys          |         1 |   1        |
+| Toulon           |         1 |   0        |

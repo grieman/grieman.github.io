@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda Wardi  
-date: 2022-12-09 13:20:08.978441  
+date: 2022-12-14 11:13:40.946013  
 categories: player  
 ---
 # Reda Wardi
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 111.0
 
 ## Current Percentile: 90.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            66 |   0.590909 |
+| La Rochelle |            67 |   0.597015 |
 | Beziers     |            29 |   0.568966 |
 | France      |             2 |   1        |
 
@@ -46,18 +46,19 @@ categories: player
 | Pau                  |         3 |   1        |
 | Mont-de-Marsan       |         3 |   0.333333 |
 | Carcassonne          |         3 |   0.666667 |
+| Vannes               |         2 |   0.5      |
+| Sale Sharks          |         2 |   0.5      |
+| Biarritz Olympique   |         2 |   1        |
 | Nevers               |         2 |   0.75     |
 | Glasgow Warriors     |         2 |   0.5      |
-| Sale Sharks          |         2 |   0.5      |
 | Soyaux-Angouleme     |         2 |   0        |
-| Biarritz Olympique   |         2 |   1        |
-| Vannes               |         2 |   0.5      |
-| Aurillac             |         1 |   0        |
-| Montauban            |         1 |   0        |
-| Japan                |         1 |   1        |
-| Oyonnax              |         1 |   0        |
-| Exeter Chiefs        |         1 |   0        |
-| Provence Rugby       |         1 |   0        |
-| Dax                  |         1 |   1        |
-| South Africa         |         1 |   1        |
 | Colomiers            |         1 |   1        |
+| South Africa         |         1 |   1        |
+| Aurillac             |         1 |   0        |
+| Dax                  |         1 |   1        |
+| Montauban            |         1 |   0        |
+| Exeter Chiefs        |         1 |   0        |
+| Oyonnax              |         1 |   0        |
+| Northampton Saints   |         1 |   1        |
+| Japan                |         1 |   1        |
+| Provence Rugby       |         1 |   0        |

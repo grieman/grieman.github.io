@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Martin  
-date: 2022-12-09 13:03:58.052080  
+date: 2022-12-14 11:19:24.837674  
 categories: player  
 ---
 # George Martin
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 100.0
+## Current elo: 102.0
 
 ## Current Percentile: 69.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            41 |   0.695122 |
+| Leicester Tigers |            42 |   0.702381 |
 | England          |             2 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -32,15 +32,16 @@ categories: player
 | Sale Sharks        |         5 |        0.2 |
 | Newcastle Falcons  |         4 |        1   |
 | Saracens           |         4 |        0.5 |
-| Bristol Rugby      |         3 |        0.5 |
-| London Irish       |         3 |        1   |
 | Northampton Saints |         3 |        1   |
+| London Irish       |         3 |        1   |
+| Bristol Rugby      |         3 |        0.5 |
 | Worcester Warriors |         3 |        1   |
-| Exeter Chiefs      |         2 |        0.5 |
-| Gloucester Rugby   |         2 |        1   |
 | Harlequins         |         2 |        0.5 |
+| Gloucester Rugby   |         2 |        1   |
+| Exeter Chiefs      |         2 |        0.5 |
 | Wasps              |         2 |        1   |
-| Bordeaux Begles    |         1 |        1   |
-| Connacht           |         1 |        1   |
 | Ireland            |         1 |        0   |
+| Bordeaux Begles    |         1 |        1   |
+| Ospreys            |         1 |        1   |
+| Connacht           |         1 |        1   |
 | Wales              |         1 |        0   |

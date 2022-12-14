@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Baptiste Singer  
-date: 2022-12-09 13:23:44.135421  
+date: 2022-12-14 11:21:21.198023  
 categories: player  
 ---
 # Jean-Baptiste Singer
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -22,17 +22,17 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |            42 |   0.5      |
-| Aurillac           |            40 |   0.3125   |
+| Aurillac           |            41 |   0.329268 |
 | Dax                |            11 |   0.272727 |
 | Lyon               |             4 |   0.75     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Vannes                     |         7 |   0.571429 |
 | Carcassonne                |         7 |   0.428571 |
 | Perpignan                  |         7 |   0.5      |
 | Colomiers                  |         7 |   0.285714 |
 | Montauban                  |         6 |   0.666667 |
-| Vannes                     |         6 |   0.5      |
 | Nevers                     |         5 |   0.2      |
 | Mont-de-Marsan             |         5 |   0.2      |
 | Beziers                    |         5 |   0.8      |

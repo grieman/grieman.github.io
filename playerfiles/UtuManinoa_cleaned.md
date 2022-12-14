@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Utu Maninoa  
-date: 2022-12-09 13:11:18.425434  
+date: 2022-12-14 11:22:13.313011  
 categories: player  
 ---
 # Utu Maninoa
 
 ## Positions: N8, L
 
-## Current elo: 69.0
+## Current elo: 67.0
 
 ## Current Percentile: 2.0
 
@@ -24,15 +24,15 @@ categories: player
 | Aurillac                   |           125 |   0.524    |
 | Montauban                  |            41 |   0.402439 |
 | Tarbes                     |            22 |   0.522727 |
-| Cognac Saint Jean d'Angély |            12 |   0        |
+| Cognac Saint Jean d'Angély |            13 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |        14 |   0.285714 |
 | Dax                        |        13 |   0.538462 |
 | Mont-de-Marsan             |        11 |   0.545455 |
+| Albi                       |        10 |   0.6      |
 | Carcassonne                |        10 |   0.6      |
-| Albi                       |         9 |   0.666667 |
 | Bourgoin-Jallieu           |         9 |   0.555556 |
 | Narbonne                   |         9 |   0.444444 |
 | Colomiers                  |         9 |   0.333333 |

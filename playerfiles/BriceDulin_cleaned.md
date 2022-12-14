@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brice Dulin  
-date: 2022-12-09 13:18:42.645832  
+date: 2022-12-14 11:17:32.773173  
 categories: player  
 ---
 # Brice Dulin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Racing 92         |           125 |   0.632    |
 | Agen              |            60 |   0.608333 |
-| La Rochelle       |            42 |   0.690476 |
+| La Rochelle       |            43 |   0.697674 |
 | Castres Olympique |            34 |   0.529412 |
 | France            |            32 |   0.46875  |
 
@@ -33,35 +33,35 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |        21 |   0.333333 |
 | Toulon               |        17 |   0.588235 |
-| Bordeaux Begles      |        16 |   0.65625  |
 | Stade Francais Paris |        16 |   0.28125  |
+| Bordeaux Begles      |        16 |   0.65625  |
 | Clermont Auvergne    |        15 |   0.566667 |
 | Brive                |        14 |   0.928571 |
-| Montpellier Herault  |        13 |   0.807692 |
-| Castres Olympique    |        13 |   0.538462 |
 | Lyon                 |        13 |   0.769231 |
-| Racing 92            |        11 |   0.636364 |
+| Castres Olympique    |        13 |   0.538462 |
+| Montpellier Herault  |        13 |   0.807692 |
 | Bayonne              |        11 |   0.636364 |
+| Racing 92            |        11 |   0.636364 |
 | La Rochelle          |        11 |   0.636364 |
 | Grenoble             |         9 |   0.777778 |
 | Pau                  |         9 |   0.777778 |
-| Perpignan            |         8 |   0.8125   |
 | Biarritz Olympique   |         8 |   0.625    |
+| Perpignan            |         8 |   0.8125   |
 | Oyonnax              |         6 |   0.5      |
+| Northampton Saints   |         6 |   0.583333 |
 | Agen                 |         6 |   0.833333 |
-| Glasgow Warriors     |         5 |   0.4      |
 | Leicester Tigers     |         5 |   0.8      |
-| Northampton Saints   |         5 |   0.5      |
+| Glasgow Warriors     |         5 |   0.4      |
 | Wales                |         4 |   0.5      |
-| New Zealand          |         4 |   0        |
 | Saracens             |         4 |   0.25     |
+| New Zealand          |         4 |   0        |
+| England              |         3 |   0.333333 |
 | Australia            |         3 |   0.333333 |
 | South Africa         |         3 |   0        |
 | Scarlets             |         3 |   1        |
-| Italy                |         3 |   1        |
 | Ireland              |         3 |   0.333333 |
+| Italy                |         3 |   1        |
 | Argentina            |         3 |   0.666667 |
-| England              |         3 |   0.333333 |
 | Munster              |         3 |   0.5      |
 | Auch                 |         2 |   1        |
 | Lannemezan           |         2 |   1        |
@@ -69,14 +69,14 @@ categories: player
 | Scotland             |         2 |   0.5      |
 | Ospreys              |         2 |   1        |
 | Narbonne             |         2 |   0.5      |
-| Provence Rugby       |         2 |   1        |
 | Bourgoin-Jallieu     |         2 |   0.5      |
+| Provence Rugby       |         2 |   1        |
 | Samoa                |         1 |   1        |
 | Romania              |         1 |   1        |
+| Colomiers            |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
-| Canada               |         1 |   1        |
 | Aurillac             |         1 |   0        |
 | Tarbes               |         1 |   1        |
 | Tonga                |         1 |   1        |
-| Colomiers            |         1 |   1        |
+| Canada               |         1 |   1        |
 | Ulster               |         1 |   0        |

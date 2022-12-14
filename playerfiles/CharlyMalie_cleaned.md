@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charly Malie  
-date: 2022-12-09 13:18:28.073126  
+date: 2022-12-14 11:18:09.668675  
 categories: player  
 ---
 # Charly Malie

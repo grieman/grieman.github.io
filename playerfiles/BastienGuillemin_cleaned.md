@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bastien Guillemin  
-date: 2022-12-09 13:08:17.467119  
+date: 2022-12-12 15:01:59.572666  
 categories: player  
 ---
 # Bastien Guillemin

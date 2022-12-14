@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ibrahim Diallo  
-date: 2022-12-09 13:05:51.179257  
+date: 2022-12-14 11:33:36.015810  
 categories: player  
 ---
 # Ibrahim Diallo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 44.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            61 |   0.557377 |
+| Racing 92 |            62 |   0.548387 |
 | France    |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -41,6 +41,7 @@ categories: player
 | Montpellier Herault  |         3 |   0.666667 |
 | Agen                 |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
+| Leinster             |         1 |   0        |
 | Australia            |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | Perpignan            |         1 |   1        |

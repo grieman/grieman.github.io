@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ewan Greenlaw  
-date: 2022-11-22 11:37:18.182149  
+date: 2022-12-14 11:12:13.417967  
 categories: player  
 ---
 # Ewan Greenlaw
 
 ## Positions: 
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James Whitcombe  
-date: 2022-12-09 13:07:03.641451  
+date: 2022-12-14 11:22:40.700995  
 categories: player  
 ---
 # James Whitcombe
 
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 92.0
 
-## Current Percentile: 28.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            17 |   0.617647 |
+| Leicester Tigers |            18 |   0.638889 |
 | Nottingham       |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -36,4 +36,5 @@ categories: player
 | Gloucester Rugby   |         1 |        1   |
 | Hartpury College   |         1 |        1   |
 | Northampton Saints |         1 |        1   |
+| Ospreys            |         1 |        1   |
 | Saracens           |         1 |        0   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eric Escande  
-date: 2022-11-22 11:35:10.854413  
+date: 2022-12-14 11:28:52.510122  
 categories: player  
 ---
 # Eric Escande
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 52.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Toulon              |           118 |   0.614407 |
-| Grenoble            |            39 |   0.564103 |
+| Grenoble            |            41 |   0.536585 |
 | Montpellier Herault |            27 |   0.518519 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -42,34 +42,34 @@ categories: player
 | Agen                       |         6 |   0.833333 |
 | Pau                        |         5 |   1        |
 | Scarlets                   |         5 |   0.6      |
+| Mont-de-Marsan             |         4 |   0.75     |
 | Bayonne                    |         4 |   0.75     |
 | Perpignan                  |         4 |   0.25     |
-| Mont-de-Marsan             |         3 |   1        |
+| Colomiers                  |         4 |   0.25     |
+| Provence Rugby             |         3 |   0        |
+| Leicester Tigers           |         3 |   0        |
 | Vannes                     |         3 |   0.666667 |
 | Bath Rugby                 |         3 |   0.666667 |
-| Provence Rugby             |         3 |   0        |
-| Colomiers                  |         3 |   0.333333 |
-| Leicester Tigers           |         3 |   0        |
 | Biarritz Olympique         |         3 |   0.5      |
-| Montauban                  |         2 |   0.75     |
-| Benetton Treviso           |         2 |   1        |
-| Glasgow Warriors           |         2 |   0.25     |
-| Toulon                     |         2 |   1        |
-| Cardiff Blues              |         2 |   1        |
-| Carcassonne                |         2 |   0.5      |
-| Soyaux-Angouleme           |         2 |   0.5      |
-| Rouen                      |         2 |   1        |
-| Sale Sharks                |         2 |   1        |
 | Leinster                   |         2 |   1        |
+| Toulon                     |         2 |   1        |
+| Glasgow Warriors           |         2 |   0.25     |
+| Soyaux-Angouleme           |         2 |   0.5      |
+| Cardiff Blues              |         2 |   1        |
+| Sale Sharks                |         2 |   1        |
+| Rouen                      |         2 |   1        |
+| Benetton Treviso           |         2 |   1        |
+| Carcassonne                |         2 |   0.5      |
 | Beziers                    |         2 |   0.5      |
 | Nevers                     |         2 |   1        |
-| Aurillac                   |         1 |   1        |
-| Saracens                   |         1 |   0        |
+| Montauban                  |         2 |   0.75     |
 | Edinburgh                  |         1 |   0        |
+| Saracens                   |         1 |   0        |
 | Newcastle Falcons          |         1 |   0        |
 | Narbonne                   |         1 |   1        |
+| Munster                    |         1 |   0        |
+| Aurillac                   |         1 |   1        |
 | US Bressane                |         1 |   1        |
 | Ulster                     |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Munster                    |         1 |   0        |
 | Wasps                      |         1 |   1        |

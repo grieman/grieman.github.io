@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Apisai Naqalevu  
-date: 2022-12-09 13:23:12.129757  
+date: 2022-12-14 11:32:13.911905  
 categories: player  
 ---
 # Apisai Naqalevu
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 107.0
+## Current elo: 108.0
 
 ## Current Percentile: 81.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            70 |   0.664286 |
+| Clermont Auvergne |            71 |   0.669014 |
 | Dax               |            42 |   0.452381 |
 | Bordeaux Begles   |            21 |   0.404762 |
 | Fiji              |             1 |   0        |
@@ -65,6 +65,7 @@ categories: player
 | Bath Rugby           |         2 |  1         |
 | Provence Rugby       |         1 |  1         |
 | Newcastle Falcons    |         1 |  0         |
+| Stormers             |         1 |  1         |
 | Grenoble             |         1 |  0.5       |
 | Clermont Auvergne    |         1 |  1         |
 | Wales                |         1 |  0         |

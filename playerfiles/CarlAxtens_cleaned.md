@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Carl Axtens  
-date: 2022-12-09 13:07:13.506156  
+date: 2022-12-14 11:16:13.663829  
 categories: player  
 ---
 # Carl Axtens
 
 ## Positions: N8, FL
 
-## Current elo: 86.0
+## Current elo: 84.0
 
-## Current Percentile: 12.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Stade Toulousain |            43 |   0.627907 |
 | Bay of Plenty    |            31 |   0.225806 |
 | Narbonne         |            23 |   0.23913  |
-| Provence Rugby   |            13 |   0.576923 |
+| Provence Rugby   |            14 |   0.607143 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,7 +41,7 @@ categories: player
 | Pau                  |         3 |   1        |
 | Hawke's Bay          |         3 |   0.333333 |
 | Counties Manukau     |         3 |   0.333333 |
-| North Harbour        |         3 |   1        |
+| Rouen                |         3 |   0.666667 |
 | Castres Olympique    |         3 |   0.666667 |
 | Carcassonne          |         3 |   0.333333 |
 | Southland            |         3 |   0.333333 |
@@ -49,11 +49,11 @@ categories: player
 | Tasman               |         3 |   0        |
 | Waikato              |         3 |   0        |
 | Wasps                |         3 |   0.833333 |
+| North Harbour        |         3 |   1        |
 | Sale Sharks          |         2 |   0.75     |
 | Racing 92            |         2 |   0.5      |
 | Provence Rugby       |         2 |   1        |
 | US Bressane          |         2 |   0.5      |
-| Rouen                |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
 | Wellington           |         2 |   0        |
 | Aurillac             |         2 |   0.5      |

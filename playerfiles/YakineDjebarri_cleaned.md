@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Yakine Djebarri  
-date: 2022-12-09 13:22:38.105089  
+date: 2022-12-14 11:33:52.968498  
 categories: player  
 ---
 # Yakine Djebarri
 
 ## Positions: L
 
-## Current elo: 88.0
+## Current elo: 86.0
 
 ## Current Percentile: 18.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            30 |   0.566667 |
+| Suresnes |            31 |   0.548387 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
 | Aubenas                    |         2 |   1        |
+| Blagnac                    |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | Tarbes                     |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0        |
-| Blagnac                    |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Dijon                      |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

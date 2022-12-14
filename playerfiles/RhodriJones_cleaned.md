@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhodri Jones  
-date: 2022-11-22 11:37:18.696696  
+date: 2022-12-14 11:16:24.453565  
 categories: player  
 ---
 # Rhodri Jones
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 32.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:---------|--------------:|-----------:|
 | Scarlets |           103 |   0.5      |
 | Ospreys  |            82 |   0.536585 |
-| Wales    |            19 |   0.684211 |
-| Dragons  |             2 |   0.5      |
+| Wales    |            20 |   0.65     |
+| Dragons  |             3 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -47,16 +47,18 @@ categories: player
 | Northampton Saints   |         4 |   0.25     |
 | Argentina            |         3 |   0.666667 |
 | England              |         3 |   0.333333 |
-| South Africa         |         2 |   1        |
-| Lyon                 |         2 |   1        |
-| Southern Kings       |         2 |   0.5      |
-| Sale Sharks          |         2 |   0        |
 | Racing 92            |         2 |   0.25     |
-| Stade Francais Paris |         2 |   0.5      |
-| Clermont Auvergne    |         2 |   0        |
-| Wasps                |         2 |   0.5      |
+| Sale Sharks          |         2 |   0        |
 | Scotland             |         2 |   1        |
+| Lyon                 |         2 |   1        |
+| South Africa         |         2 |   1        |
+| Southern Kings       |         2 |   0.5      |
+| Stade Francais Paris |         2 |   0.5      |
+| Australia            |         2 |   0        |
+| Wasps                |         2 |   0.5      |
+| Clermont Auvergne    |         2 |   0        |
 | Newcastle Falcons    |         2 |   1        |
+| Lions                |         2 |   0.25     |
 | Italy                |         2 |   1        |
 | Ireland              |         2 |   0.5      |
 | Castres Olympique    |         2 |   1        |
@@ -65,19 +67,17 @@ categories: player
 | France               |         1 |   1        |
 | Yorkshire Carnegie   |         1 |   1        |
 | Worcester Warriors   |         1 |   0        |
-| Australia            |         1 |   0        |
+| Brive                |         1 |   0        |
 | Toulon               |         1 |   0        |
 | Tonga                |         1 |   1        |
-| Brive                |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
-| Bristol Rugby        |         1 |   1        |
+| Gloucester Rugby     |         1 |   0        |
 | Georgia              |         1 |   0        |
-| Lions                |         1 |   0        |
+| Bristol Rugby        |         1 |   1        |
+| Bath Rugby           |         1 |   0        |
 | Saracens             |         1 |   0        |
 | Samoa                |         1 |   1        |
-| Gloucester Rugby     |         1 |   0        |
+| Harlequins           |         1 |   0        |
 | Perpignan            |         1 |   0        |
 | Pau                  |         1 |   1        |
-| Harlequins           |         1 |   0        |
-| Bath Rugby           |         1 |   0        |
 | Aironi               |         1 |   1        |

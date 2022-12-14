@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Ellis  
-date: 2022-12-09 13:11:34.645201  
+date: 2022-12-14 11:18:30.145966  
 categories: player  
 ---
 # Tom Ellis
 
 ## Positions: FL, L
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 30.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |           115 |    0.46087 |
+| Bath Rugby |           116 |   0.456897 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,11 +38,11 @@ categories: player
 | Saracens             |         6 |   0.333333 |
 | London Irish         |         5 |   0.6      |
 | Leinster             |         2 |   0        |
+| Glasgow Warriors     |         2 |   0        |
 | Stade Toulousain     |         2 |   0        |
 | Cardiff Blues        |         2 |   0.5      |
 | London Welsh         |         1 |   1        |
 | Brive                |         1 |   1        |
-| Glasgow Warriors     |         1 |   0        |
 | Ospreys              |         1 |   0        |
 | Pau                  |         1 |   1        |
 | Clermont Auvergne    |         1 |   0        |

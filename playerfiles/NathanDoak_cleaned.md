@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nathan Doak  
-date: 2022-12-09 13:19:07.960143  
+date: 2022-12-14 11:31:42.697248  
 categories: player  
 ---
 # Nathan Doak
 
 ## Positions: SH
 
-## Current elo: 91.0
+## Current elo: 88.0
 
 ## Current Percentile: 24.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |            25 |       0.72 |
+| Ulster |            26 |   0.692308 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Edinburgh        |         1 |   1        |
 | Glasgow Warriors |         1 |   1        |
 | Ospreys          |         1 |   0        |
+| Sale Sharks      |         1 |   0        |
 | Scarlets         |         1 |   1        |
 | Sharks           |         1 |   1        |
 | Stormers         |         1 |   0        |

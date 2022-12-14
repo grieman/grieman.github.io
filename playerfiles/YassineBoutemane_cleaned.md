@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine Boutemane  
-date: 2022-12-09 13:19:22.183633  
+date: 2022-12-14 11:18:13.303684  
 categories: player  
 ---
 # Yassine Boutemane
 
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 15.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Perpignan        |            51 |   0.382353 |
-| Soyaux-Angouleme |            26 |   0.442308 |
+| Soyaux-Angouleme |            27 |   0.425926 |
 | Montauban        |            13 |   0.576923 |
 | Stade Toulousain |            11 |   0.727273 |
 | Bordeaux Begles  |             4 |   0        |
@@ -30,9 +30,9 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Agen                 |         6 |   0.166667 |
+| Biarritz Olympique   |         6 |   0.833333 |
 | Mont-de-Marsan       |         6 |   0.5      |
 | Grenoble             |         6 |   0.583333 |
-| Biarritz Olympique   |         5 |   1        |
 | Aurillac             |         5 |   0.4      |
 | Montauban            |         4 |   0.75     |
 | Vannes               |         4 |   0.75     |

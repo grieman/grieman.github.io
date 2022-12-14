@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Laijiasa Bolenaivalu  
-date: 2022-12-09 13:15:13.507039  
+date: 2022-12-14 11:14:41.699545  
 categories: player  
 ---
 # Laijiasa Bolenaivalu
 
 ## Positions: N8, FL
 
-## Current elo: 114.0
+## Current elo: 113.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Vannes |            54 |   0.555556 |
-| Nice   |            24 |   0.5625   |
+| Nice   |            25 |   0.58     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,13 +39,13 @@ categories: player
 | Massy                      |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         2 |   1        |
-| Beziers                    |         2 |   0.5      |
+| Blagnac                    |         2 |   0.5      |
 | Tarbes                     |         2 |   1        |
 | Suresnes                   |         2 |   1        |
 | Rouen                      |         2 |   0.5      |
-| Oyonnax                    |         2 |   1        |
 | Perpignan                  |         2 |   0        |
-| Blagnac                    |         2 |   0.5      |
+| Beziers                    |         2 |   0.5      |
+| Oyonnax                    |         2 |   1        |
 | Mont-de-Marsan             |         2 |   1        |
 | Dijon                      |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
@@ -53,7 +53,8 @@ categories: player
 | Chambery                   |         1 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Rennes                     |         1 |   1        |
-| Roval Drome XV             |         1 |   1        |
 | Brive                      |         1 |   0        |
+| Roval Drome XV             |         1 |   1        |
 | Grenoble                   |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | US Bressane                |         1 |   0.5      |

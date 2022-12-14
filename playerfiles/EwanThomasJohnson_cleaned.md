@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ewan Thomas Johnson  
-date: 2022-12-09 13:11:45.737121  
+date: 2022-12-14 11:26:06.678653  
 categories: player  
 ---
 # Ewan Thomas Johnson
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 67.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |            27 |   0.592593 |
+| Vannes |            28 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Aurillac                   |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.666667 |
 | Agen                       |         2 |   0        |
-| Aurillac                   |         2 |   1        |
 | Beziers                    |         2 |   0.5      |
 | Montauban                  |         2 |   1        |
 | Rouen                      |         2 |   0        |

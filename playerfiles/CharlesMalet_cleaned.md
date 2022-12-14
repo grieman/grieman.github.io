@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Malet  
-date: 2022-12-09 13:15:43.720610  
+date: 2022-12-12 15:13:27.356640  
 categories: player  
 ---
 # Charles Malet

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Andre Warner  
-date: 2022-12-09 13:18:00.011975  
+date: 2022-12-14 11:25:29.838418  
 categories: player  
 ---
 # Andre Warner
 
 ## Positions: SH
 
-## Current elo: 91.0
+## Current elo: 87.0
 
 ## Current Percentile: 23.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Lions                |            21 |   0.380952 |
+| Lions                |            22 |   0.386364 |
 | Bulls                |            20 |   0.425    |
 | Golden Lions         |            12 |   0.458333 |
 | Blue Bulls           |             7 |   0.428571 |
@@ -32,12 +32,12 @@ categories: player
 | Sharks                   |         5 |   0.6      |
 | Natal Sharks             |         4 |   0.5      |
 | Griquas                  |         4 |   0.75     |
-| Stormers                 |         3 |   0.333333 |
+| Dragons                  |         3 |   0.833333 |
 | Melbourne Rebels         |         3 |   0.666667 |
 | Blue Bulls               |         3 |   0        |
 | Free State Cheetahs      |         3 |   0.833333 |
+| Stormers                 |         3 |   0.333333 |
 | Pumas                    |         3 |   0.333333 |
-| Dragons                  |         2 |   1        |
 | Scarlets                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0.5      |
 | Jaguares                 |         2 |   0        |

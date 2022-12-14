@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Bastien Berenguel  
-date: 2022-12-09 13:05:25.412022  
+date: 2022-12-14 11:35:32.021031  
 categories: player  
 ---
 # Bastien Berenguel
 
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 107.0
 
 ## Current Percentile: 84.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            21 |   0.571429 |
+| Suresnes |            22 |   0.545455 |
 | Dijon    |            10 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         4 |   0.75     |
 | Dax                        |         4 |   0.25     |
-| Blagnac                    |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Chambery                   |         3 |   1        |
 | Aubenas                    |         2 |   0.5      |

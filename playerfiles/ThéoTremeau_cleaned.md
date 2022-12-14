@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Tremeau  
-date: 2022-11-22 11:27:17.111686  
+date: 2022-12-14 11:24:11.995835  
 categories: player  
 ---
 # Théo Tremeau
 
 ## Positions: FL
 
-## Current elo: 98.0
+## Current elo: 102.0
 
-## Current Percentile: 53.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            15 |   0.666667 |
+| Dax    |            17 |   0.705882 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,8 +30,10 @@ categories: player
 | Suresnes                   |         2 |        1   |
 | Blagnac                    |         1 |        0   |
 | Bourgoin-Jallieu           |         1 |        0   |
+| Carqueiranne-Hyères        |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Massy                      |         1 |        0   |
+| Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        1   |
 | Rennes                     |         1 |        1   |
 | Tarbes                     |         1 |        1   |

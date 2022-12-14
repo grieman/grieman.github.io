@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Moise  
-date: 2022-12-09 13:16:57.311950  
+date: 2022-12-14 11:23:35.711106  
 categories: player  
 ---
 # Geoffrey Moise
@@ -24,7 +24,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Pau      |            77 |   0.396104 |
-| Narbonne |            22 |   0.409091 |
+| Narbonne |            23 |   0.391304 |
 | Portugal |             6 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,42 +32,43 @@ categories: player
 | Agen                       |         7 |   0.857143 |
 | Stade Francais Paris       |         7 |   0.285714 |
 | La Rochelle                |         6 |   0.166667 |
-| Clermont Auvergne          |         5 |   0.2      |
 | Stade Toulousain           |         5 |   0        |
-| Toulon                     |         4 |   0.25     |
+| Clermont Auvergne          |         5 |   0.2      |
 | Montpellier Herault        |         4 |   0.5      |
 | Bordeaux Begles            |         4 |   0.5      |
+| Toulon                     |         4 |   0.25     |
 | Castres Olympique          |         4 |   0        |
-| Georgia                    |         3 |   0.166667 |
 | Aurillac                   |         3 |   0.333333 |
-| Cardiff Blues              |         3 |   0.333333 |
 | Lyon                       |         3 |   0.166667 |
 | Brive                      |         3 |   0        |
-| US Bressane                |         2 |   0.5      |
-| Sale Sharks                |         2 |   0        |
+| Cardiff Blues              |         3 |   0.333333 |
+| Georgia                    |         3 |   0.166667 |
 | Ospreys                    |         2 |   0.5      |
-| Worcester Warriors         |         2 |   0.5      |
-| Leicester Tigers           |         2 |   0.5      |
 | Albi                       |         2 |   0.5      |
 | Grenoble                   |         2 |   1        |
+| Sale Sharks                |         2 |   0        |
+| Leicester Tigers           |         2 |   0.5      |
+| US Bressane                |         2 |   0.5      |
 | Bristol Rugby              |         2 |   0        |
+| Worcester Warriors         |         2 |   0.5      |
 | Perpignan                  |         2 |   1        |
-| Spain                      |         1 |   1        |
-| Tarbes                     |         1 |   0        |
-| Vannes                     |         1 |   0.5      |
-| Valence Romans Drome Rugby |         1 |   0        |
-| Rouen                      |         1 |   1        |
-| Racing 92                  |         1 |   0        |
-| Romania                    |         1 |   0        |
-| Suresnes                   |         1 |   1        |
-| Rennes                     |         1 |   1        |
-| Bath Rugby                 |         1 |   0        |
 | Provence Rugby             |         1 |   1        |
+| Spain                      |         1 |   1        |
+| Suresnes                   |         1 |   1        |
+| Tarbes                     |         1 |   0        |
+| Rouen                      |         1 |   1        |
+| Romania                    |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   0        |
+| Vannes                     |         1 |   0.5      |
+| Rennes                     |         1 |   1        |
+| Racing 92                  |         1 |   0        |
+| Bath Rugby                 |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
 | Nice                       |         1 |   1        |
 | Bayonne                    |         1 |   1        |
 | Japan                      |         1 |   0        |
 | Gloucester Rugby           |         1 |   1        |
+| Dax                        |         1 |   0        |
 | Colomiers                  |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Chambery                   |         1 |   0        |

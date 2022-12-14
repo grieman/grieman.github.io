@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guram Papidze  
-date: 2022-12-09 13:13:40.466464  
+date: 2022-12-14 11:32:37.323900  
 categories: player  
 ---
 # Guram Papidze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 84.0
+## Current elo: 83.0
 
-## Current Percentile: 7.0
+## Current Percentile: 6.0
 
 # Elo History
 

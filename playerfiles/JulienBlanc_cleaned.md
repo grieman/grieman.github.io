@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Blanc  
-date: 2022-12-09 13:18:36.165231  
+date: 2022-12-14 11:22:52.013066  
 categories: player  
 ---
 # Julien Blanc

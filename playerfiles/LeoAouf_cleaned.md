@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Leo Aouf  
-date: 2022-12-09 13:05:49.057468  
+date: 2022-12-14 11:24:09.536834  
 categories: player  
 ---
 # Leo Aouf
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 94.0
 
 ## Current Percentile: 35.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            51 |   0.568627 |
+| La Rochelle |            52 |   0.576923 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,6 +40,7 @@ categories: player
 | Bordeaux Begles      |         2 |   0.5      |
 | Racing 92            |         2 |   1        |
 | Exeter Chiefs        |         1 |   0        |
+| Northampton Saints   |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Biarritz Olympique   |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |

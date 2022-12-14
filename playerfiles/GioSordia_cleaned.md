@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gio Sordia  
-date: 2022-12-09 13:11:55.961654  
+date: 2022-12-14 11:34:21.434867  
 categories: player  
 ---
 # Gio Sordia
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 94.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            31 |   0.403226 |
+| Cognac Saint Jean d'Angély |            32 |   0.390625 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Nice                       |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.166667 |
+| Albi                       |         2 |   0.5      |
 | Aubenas                    |         2 |   0.5      |
 | Blagnac                    |         2 |   0.5      |
 | Chambery                   |         2 |   0.5      |
 | Dax                        |         2 |   1        |
 | Massy                      |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
-| Albi                       |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

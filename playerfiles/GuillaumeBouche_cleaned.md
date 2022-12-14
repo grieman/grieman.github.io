@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guillaume Bouche  
-date: 2022-12-09 13:24:11.443368  
+date: 2022-12-14 11:35:18.642013  
 categories: player  
 ---
 # Guillaume Bouche
 
 ## Positions: W
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 51.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dax     |            10 |        0.9 |
-| Bayonne |             1 |        0   |
+| Dax     |            11 |   0.909091 |
+| Bayonne |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Narbonne                   |         1 |          1 |
 | Nice                       |         1 |          1 |
 | Provence Rugby             |         1 |          0 |
 | Rennes                     |         1 |          1 |

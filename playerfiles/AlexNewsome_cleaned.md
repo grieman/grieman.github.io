@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Newsome  
-date: 2022-12-09 13:05:52.405257  
+date: 2022-12-14 11:20:06.942218  
 categories: player  
 ---
 # Alex Newsome
 
 ## Positions: W, FB
 
-## Current elo: 108.0
+## Current elo: 111.0
 
-## Current Percentile: 76.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | New South Wales Waratahs |            71 |   0.387324 |
 | NSW Country Eagles       |            20 |   0.575    |
 | Western Force            |            13 |   0.384615 |
-| Clermont Auvergne        |             6 |   0.666667 |
+| Clermont Auvergne        |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -48,10 +48,10 @@ categories: player
 | Sydney Rays              |         2 |   1        |
 | Greater Sydney Rams      |         2 |   0.5      |
 | Perth Spirit             |         2 |   1        |
+| Stormers                 |         2 |   1        |
 | Lyon                     |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Toulon                   |         1 |   0        |
-| Stormers                 |         1 |   1        |
 | Stade Francais Paris     |         1 |   0        |
 | Bulls                    |         1 |   0        |
 | La Rochelle              |         1 |   1        |

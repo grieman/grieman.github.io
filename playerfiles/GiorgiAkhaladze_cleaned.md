@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Giorgi Akhaladze  
-date: 2022-12-09 13:11:17.698933  
+date: 2022-12-14 11:29:00.758846  
 categories: player  
 ---
 # Giorgi Akhaladze
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 103.0
 
 ## Current Percentile: 67.0
 

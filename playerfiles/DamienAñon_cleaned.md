@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Damien Añon  
-date: 2022-12-09 13:12:45.544732  
+date: 2022-12-14 11:24:31.236276  
 categories: player  
 ---
 # Damien Añon
 
 ## Positions: SH
 
-## Current elo: 101.0
+## Current elo: 102.0
 
 ## Current Percentile: 69.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |            55 |   0.445455 |
+| Carcassonne |            56 |   0.455357 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -29,9 +29,9 @@ categories: player
 | Mont-de-Marsan     |         5 |   0.6      |
 | Soyaux-Angouleme   |         5 |   0.5      |
 | Oyonnax            |         4 |   0        |
+| Nevers             |         4 |   0.5      |
 | Rouen              |         3 |   1        |
 | Provence Rugby     |         3 |   0        |
-| Nevers             |         3 |   0.333333 |
 | Aurillac           |         3 |   0.666667 |
 | Vannes             |         3 |   0.333333 |
 | Beziers            |         3 |   0.666667 |

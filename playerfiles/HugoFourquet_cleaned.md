@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Fourquet  
-date: 2022-12-09 13:23:33.412698  
+date: 2022-12-12 15:03:31.520805  
 categories: player  
 ---
 # Hugo Fourquet

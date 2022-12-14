@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guram Gogichashvili  
-date: 2022-12-09 13:20:10.626942  
+date: 2022-12-14 11:22:37.802780  
 categories: player  
 ---
 # Guram Gogichashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 

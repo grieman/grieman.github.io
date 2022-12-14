@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clément Bitz  
-date: 2022-12-09 13:21:59.971614  
+date: 2022-12-14 11:21:12.823047  
 categories: player  
 ---
 # Clément Bitz
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 62.0
+## Current Percentile: 63.0
 
 # Elo History
 

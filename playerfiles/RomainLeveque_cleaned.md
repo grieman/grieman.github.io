@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain Leveque  
-date: 2022-12-09 13:10:56.271225  
+date: 2022-12-14 11:13:22.167668  
 categories: player  
 ---
 # Romain Leveque
 
 ## Positions: C, W
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 65.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,20 +21,21 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carcassonne         |            10 |        0.5 |
-| Carqueiranne-Hyères |            10 |        0.3 |
+| Carqueiranne-Hyères |            11 |   0.272727 |
+| Carcassonne         |            10 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Albi                       |         2 |        1   |
 | Tarbes                     |         2 |        0.5 |
 | Narbonne                   |         2 |        0   |
-| Albi                       |         2 |        1   |
 | Agen                       |         1 |        0   |
-| Mont-de-Marsan             |         1 |        0   |
 | US Bressane                |         1 |        0   |
 | Suresnes                   |         1 |        0   |
 | Rennes                     |         1 |        0   |
 | Pau                        |         1 |        1   |
+| Nice                       |         1 |        0   |
+| Mont-de-Marsan             |         1 |        0   |
 | La Rochelle                |         1 |        0   |
 | Dax                        |         1 |        1   |
 | Colomiers                  |         1 |        1   |

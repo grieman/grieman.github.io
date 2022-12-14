@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: John Ryan  
-date: 2022-12-09 13:05:33.242461  
+date: 2022-12-14 11:35:04.353700  
 categories: player  
 ---
 # John Ryan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 101.0
 
-## Current Percentile: 70.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Munster      |           195 |   0.658974 |
+| Munster      |           196 |   0.655612 |
 | Ireland      |            21 |   0.857143 |
 | Wasps        |             4 |   0.25     |
 | London Irish |             2 |   0        |
@@ -52,8 +52,8 @@ categories: player
 | France                   |         3 |   1        |
 | Italy                    |         3 |   1        |
 | Japan                    |         3 |   1        |
+| Stade Toulousain         |         3 |   0.666667 |
 | Stade Francais Paris     |         2 |   0.5      |
-| Stade Toulousain         |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0        |
 | Northampton Saints       |         2 |   0.5      |

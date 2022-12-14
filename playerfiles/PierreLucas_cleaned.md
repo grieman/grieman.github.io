@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Lucas  
-date: 2022-12-09 13:04:12.688683  
+date: 2022-12-12 15:26:10.764496  
 categories: player  
 ---
 # Pierre Lucas
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 48.0
+## Current Percentile: 49.0
 
 # Elo History
 

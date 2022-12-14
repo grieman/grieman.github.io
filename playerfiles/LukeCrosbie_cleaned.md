@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Crosbie  
-date: 2022-12-09 13:07:42.084928  
+date: 2022-12-14 11:22:26.561384  
 categories: player  
 ---
 # Luke Crosbie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            70 |   0.628571 |
+| Edinburgh |            71 |   0.619718 |
 | Scotland  |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -45,7 +45,7 @@ categories: player
 | Krasny Yar          |         2 |   1        |
 | Stormers            |         2 |   0.25     |
 | Munster             |         2 |   0        |
-| Saracens            |         1 |   1        |
+| Saracens            |         2 |   0.5      |
 | Agen                |         1 |   1        |
 | Newcastle Falcons   |         1 |   1        |
 | Montpellier Herault |         1 |   1        |

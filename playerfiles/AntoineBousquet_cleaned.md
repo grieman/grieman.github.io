@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Bousquet  
-date: 2022-12-09 13:14:12.070397  
+date: 2022-12-14 11:23:43.114864  
 categories: player  
 ---
 # Antoine Bousquet
 
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 72.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Tarbes         |            12 |   0.416667 |
+| Tarbes         |            13 |   0.384615 |
 | Provence Rugby |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,4 +38,5 @@ categories: player
 | Nice                       |         1 |          0 |
 | Rennes                     |         1 |          1 |
 | Suresnes                   |         1 |          0 |
+| US Bressane                |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

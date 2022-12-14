@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Valery Morozov  
-date: 2022-12-09 13:09:34.361958  
+date: 2022-12-12 15:18:20.677701  
 categories: player  
 ---
 # Valery Morozov

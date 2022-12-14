@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jérôme Mondoulet  
-date: 2022-12-09 13:20:19.521463  
+date: 2022-12-14 11:31:59.051357  
 categories: player  
 ---
 # Jérôme Mondoulet
 
 ## Positions: L
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: 14.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Provence Rugby |            48 |   0.447917 |
 | Albi           |            22 |   0.318182 |
-| Nice           |            14 |   0.607143 |
+| Nice           |            15 |   0.633333 |
 | Agen           |             2 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |         8 |   0.5      |
 | Aurillac                   |         6 |   0.5      |
-| Nevers                     |         5 |   0.4      |
 | Tarbes                     |         5 |   0.6      |
+| Nevers                     |         5 |   0.4      |
 | Oyonnax                    |         5 |   0.2      |
 | Vannes                     |         4 |   0.5      |
 | Dax                        |         4 |   0.25     |
@@ -59,6 +59,7 @@ categories: player
 | Lyon                       |         1 |   1        |
 | Perpignan                  |         1 |   1        |
 | Pau                        |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   0        |
 | Grenoble                   |         1 |   0        |
 | La Rochelle                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Pinto Ferrer  
-date: 2022-12-09 13:13:39.613464  
+date: 2022-12-12 14:58:16.349223  
 categories: player  
 ---
 # Marco Pinto Ferrer

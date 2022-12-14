@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jamie Osborne  
-date: 2022-12-09 13:08:48.347924  
+date: 2022-12-14 11:35:25.652310  
 categories: player  
 ---
 # Jamie Osborne
 
 ## Positions: C, FB
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 74.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            23 |   0.782609 |
+| Leinster |            24 |   0.791667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Dragons          |         1 |   1        |
 | Edinburgh        |         1 |   1        |
 | Lions            |         1 |   1        |
+| Racing 92        |         1 |   1        |
 | Scarlets         |         1 |   1        |
 | Sharks           |         1 |   0        |
 | Stormers         |         1 |   0        |

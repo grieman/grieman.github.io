@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Rouet Piffard  
-date: 2022-12-09 13:05:48.206997  
+date: 2022-12-14 11:36:51.416913  
 categories: player  
 ---
 # Guillaume Rouet Piffard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 50.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |           173 |   0.49711  |
+| Bayonne |           174 |   0.494253 |
 | Spain   |            19 |   0.684211 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -66,17 +66,18 @@ categories: player
 | Wasps                |         2 |   0.25     |
 | Mont-de-Marsan       |         2 |   0.5      |
 | Albi                 |         2 |   1        |
-| Georgia              |         2 |   0        |
 | Connacht             |         2 |   0        |
+| Georgia              |         2 |   0        |
 | Canada               |         1 |   0        |
-| Benetton Treviso     |         1 |   0        |
-| Mogliano             |         1 |   1        |
-| London Irish         |         1 |   0        |
-| Rouen                |         1 |   1        |
-| Bourgoin-Jallieu     |         1 |   1        |
-| Soyaux-Angouleme     |         1 |   0        |
 | Germany              |         1 |   1        |
-| Exeter Chiefs        |         1 |   1        |
-| Dragons              |         1 |   1        |
 | Brazil               |         1 |   1        |
+| Dragons              |         1 |   1        |
+| Exeter Chiefs        |         1 |   1        |
+| Scarlets             |         1 |   0        |
+| Soyaux-Angouleme     |         1 |   0        |
+| Benetton Treviso     |         1 |   0        |
+| Bourgoin-Jallieu     |         1 |   1        |
+| Rouen                |         1 |   1        |
+| London Irish         |         1 |   0        |
+| Mogliano             |         1 |   1        |
 | Carcassonne          |         1 |   0        |

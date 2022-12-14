@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jimmy O'Brien  
-date: 2022-12-09 13:21:28.959628  
+date: 2022-12-14 11:19:13.475320  
 categories: player  
 ---
 # Jimmy O'Brien
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 111.0
+## Current elo: 113.0
 
 ## Current Percentile: 89.0
 
@@ -23,24 +23,25 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            47 |   0.840426 |
-| Ireland  |             5 |   0.8      |
+| Leinster |            48 |    0.84375 |
+| Ireland  |             5 |    0.8     |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Ulster            |         9 |   0.666667 |
+| Zebre             |         5 |   1        |
 | Glasgow Warriors  |         5 |   1        |
 | Benetton Treviso  |         5 |   0.9      |
-| Zebre             |         5 |   1        |
-| Connacht          |         4 |   0.75     |
-| Munster           |         4 |   1        |
 | Ospreys           |         4 |   1        |
+| Munster           |         4 |   1        |
+| Connacht          |         4 |   0.75     |
 | Dragons           |         2 |   1        |
 | Edinburgh         |         2 |   0.5      |
-| Cardiff Blues     |         2 |   0.5      |
 | New Zealand Maori |         2 |   0.5      |
-| Cheetahs          |         1 |   1        |
+| Cardiff Blues     |         2 |   0.5      |
 | Fiji              |         1 |   1        |
+| Cheetahs          |         1 |   1        |
+| Racing 92         |         1 |   1        |
 | Scarlets          |         1 |   1        |
 | Sharks            |         1 |   1        |
 | South Africa      |         1 |   1        |

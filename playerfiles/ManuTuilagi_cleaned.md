@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Tuilagi  
-date: 2022-11-22 11:42:40.990757  
+date: 2022-12-14 11:20:36.420972  
 categories: player  
 ---
 # Manu Tuilagi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 120.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |           129 |   0.643411 |
-| England          |            48 |   0.65625  |
-| Sale Sharks      |            22 |   0.613636 |
+| England          |            49 |   0.642857 |
+| Sale Sharks      |            23 |   0.630435 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,16 +39,16 @@ categories: player
 | Newcastle Falcons    |         8 |   0.875    |
 | Wales                |         7 |   0.428571 |
 | Wasps                |         7 |   0.714286 |
+| South Africa         |         7 |   0.214286 |
 | France               |         6 |   0.666667 |
-| South Africa         |         6 |   0.25     |
 | Worcester Warriors   |         6 |   0.833333 |
 | Sale Sharks          |         6 |   0.833333 |
 | New Zealand          |         6 |   0.416667 |
 | Ireland              |         5 |   1        |
+| Ulster               |         4 |   0.5      |
 | Australia            |         4 |   0.75     |
 | Bristol Rugby        |         4 |   0.75     |
 | Benetton Treviso     |         4 |   1        |
-| Ulster               |         3 |   0.333333 |
 | Scarlets             |         3 |   1        |
 | Racing 92            |         3 |   0        |
 | Argentina            |         3 |   0.666667 |

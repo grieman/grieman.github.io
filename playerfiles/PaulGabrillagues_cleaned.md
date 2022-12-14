@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Gabrillagues  
-date: 2022-12-09 13:15:09.609973  
+date: 2022-12-12 15:35:18.238155  
 categories: player  
 ---
 # Paul Gabrillagues

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ross Molony  
-date: 2022-12-09 13:07:59.915480  
+date: 2022-12-14 11:30:48.100509  
 categories: player  
 ---
 # Ross Molony
 
 ## Positions: L
 
-## Current elo: 127.0
+## Current elo: 128.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           131 |    0.78626 |
+| Leinster |           132 |   0.787879 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -44,6 +44,7 @@ categories: player
 | Bulls               |         2 |   0.5      |
 | Wasps               |         2 |   0.5      |
 | Clermont Auvergne   |         1 |   0        |
+| Racing 92           |         1 |   1        |
 | Sharks              |         1 |   1        |
 | Stade Toulousain    |         1 |   1        |
 | Lyon                |         1 |   1        |

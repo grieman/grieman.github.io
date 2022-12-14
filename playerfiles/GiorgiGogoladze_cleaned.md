@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Gogoladze  
-date: 2022-11-22 11:34:16.660224  
+date: 2022-12-14 11:24:35.769784  
 categories: player  
 ---
 # Giorgi Gogoladze
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 34.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,26 +21,26 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            30 |   0.466667 |
+| Aurillac |            32 |    0.46875 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Oyonnax            |         3 |   0.333333 |
+| Oyonnax            |         4 |   0.25     |
 | Carcassonne        |         3 |   0.333333 |
 | Montauban          |         2 |   1        |
-| Colomiers          |         2 |   0        |
-| Grenoble           |         2 |   0        |
-| Rouen              |         2 |   0.5      |
 | Mont-de-Marsan     |         2 |   0        |
+| Rouen              |         2 |   0.5      |
 | Provence Rugby     |         2 |   0.5      |
 | Nevers             |         2 |   1        |
-| US Bressane        |         1 |   1        |
-| Soyaux-Angouleme   |         1 |   1        |
-| Perpignan          |         1 |   0        |
-| Agen               |         1 |   1        |
-| Narbonne           |         1 |   1        |
-| Bayonne            |         1 |   0        |
+| Vannes             |         2 |   0.5      |
+| Grenoble           |         2 |   0        |
+| Colomiers          |         2 |   0        |
 | Massy              |         1 |   1        |
+| Bayonne            |         1 |   0        |
+| Narbonne           |         1 |   1        |
+| Perpignan          |         1 |   0        |
 | Biarritz Olympique |         1 |   0        |
 | Beziers            |         1 |   1        |
-| Vannes             |         1 |   0        |
+| Soyaux-Angouleme   |         1 |   1        |
+| US Bressane        |         1 |   1        |
+| Agen               |         1 |   1        |

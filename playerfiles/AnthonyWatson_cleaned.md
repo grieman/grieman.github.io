@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Watson  
-date: 2022-12-09 13:05:28.941460  
+date: 2022-12-14 11:27:36.532146  
 categories: player  
 ---
 # Anthony Watson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: British and Irish Lions
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 27.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | England                 |            48 |   0.729167 |
 | London Irish            |            21 |   0.52381  |
 | British and Irish Lions |             8 |   0.6875   |
-| Leicester Tigers        |             6 |   0.416667 |
+| Leicester Tigers        |             7 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -57,13 +57,13 @@ categories: player
 | Stade Toulousain         |         2 |   0.5      |
 | Scarlets                 |         2 |   0.5      |
 | Argentina                |         2 |   1        |
-| Mont-de-Marsan           |         2 |   1        |
+| Montpellier Herault      |         2 |   1        |
 | Bath Rugby               |         2 |   0.5      |
 | Benetton Treviso         |         2 |   1        |
+| Brive                    |         2 |   1        |
 | London Welsh             |         2 |   0.5      |
 | Glasgow Warriors         |         2 |   0.5      |
-| Brive                    |         2 |   1        |
-| Montpellier Herault      |         2 |   1        |
+| Mont-de-Marsan           |         2 |   1        |
 | Crusaders                |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | United States of America |         1 |   1        |
@@ -75,4 +75,5 @@ categories: player
 | Mogliano                 |         1 |   1        |
 | Provincial Union XV      |         1 |   1        |
 | Pau                      |         1 |   1        |
+| Ospreys                  |         1 |   1        |
 | Dragons                  |         1 |   1        |

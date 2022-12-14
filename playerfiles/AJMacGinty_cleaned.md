@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: AJ MacGinty  
-date: 2022-12-09 13:19:55.749251  
+date: 2022-12-14 11:27:55.726349  
 categories: player  
 ---
 # AJ MacGinty
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 51.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Sale Sharks              |           102 |   0.539216 |
 | United States of America |            23 |   0.434783 |
 | Connacht                 |            17 |   0.705882 |
-| Bristol Rugby            |             9 |   0.388889 |
+| Bristol Rugby            |            10 |   0.45     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -57,10 +57,11 @@ categories: player
 | Samoa              |         1 |   0        |
 | Ulster             |         1 |   0        |
 | Tonga              |         1 |   0        |
-| Ospreys            |         1 |   1        |
+| Perpignan          |         1 |   1        |
 | Portugal           |         1 |   0.5      |
 | Argentina          |         1 |   0        |
 | Kenya              |         1 |   1        |
+| Ospreys            |         1 |   1        |
 | Munster            |         1 |   1        |
 | Australia          |         1 |   0        |
 | Japan              |         1 |   0        |

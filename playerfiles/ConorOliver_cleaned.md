@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Conor Oliver  
-date: 2022-12-09 13:06:20.231841  
+date: 2022-12-12 15:26:18.701140  
 categories: player  
 ---
 # Conor Oliver
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 69.0
+## Current Percentile: 70.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mirian Burduli  
-date: 2022-12-09 13:04:02.234583  
+date: 2022-12-12 15:23:21.000527  
 categories: player  
 ---
 # Mirian Burduli
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 

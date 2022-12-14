@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Kleyn  
-date: 2022-12-09 13:24:47.307582  
+date: 2022-12-14 11:18:40.951511  
 categories: player  
 ---
 # Jean Kleyn
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 71.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Munster          |           106 |   0.70283  |
+| Munster          |           107 |   0.696262 |
 | Western Province |            21 |   0.761905 |
 | Stormers         |            19 |   0.657895 |
 | Ireland          |             5 |   0.8      |
@@ -44,8 +44,8 @@ categories: player
 | Golden Lions             |         5 |   0.4      |
 | Bulls                    |         5 |   0.6      |
 | Scarlets                 |         5 |   0.8      |
-| Leicester Tigers         |         4 |   0.75     |
 | Sharks                   |         4 |   0.75     |
+| Leicester Tigers         |         4 |   0.75     |
 | Zebre                    |         4 |   1        |
 | Benetton Treviso         |         3 |   1        |
 | Eastern Province Kings   |         3 |   1        |
@@ -56,9 +56,10 @@ categories: player
 | Brumbies                 |         2 |   0.5      |
 | Castres Olympique        |         2 |   1        |
 | Gloucester Rugby         |         2 |   1        |
-| Exeter Chiefs            |         2 |   0.75     |
 | Free State Cheetahs      |         2 |   0.5      |
 | Lions                    |         2 |   0.25     |
+| Exeter Chiefs            |         2 |   0.75     |
+| Stade Toulousain         |         1 |   0        |
 | Highlanders              |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Wales                    |         1 |   1        |

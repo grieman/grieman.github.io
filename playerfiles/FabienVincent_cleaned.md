@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fabien Vincent  
-date: 2022-12-09 13:07:22.739389  
+date: 2022-12-14 11:24:53.268451  
 categories: player  
 ---
 # Fabien Vincent
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 79.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            39 |   0.320513 |
+| Rouen  |            40 |     0.3125 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Beziers            |         6 |   0.5      |
 | Carcassonne        |         4 |   0.25     |
 | Grenoble           |         4 |   0.25     |
+| Provence Rugby     |         4 |   0.5      |
 | Colomiers          |         3 |   0.333333 |
 | Montauban          |         3 |   0.333333 |
-| Provence Rugby     |         3 |   0.666667 |
 | Biarritz Olympique |         2 |   0        |
 | Mont-de-Marsan     |         2 |   0        |
 | Narbonne           |         2 |   0.5      |

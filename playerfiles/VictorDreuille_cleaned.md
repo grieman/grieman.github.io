@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor Dreuille  
-date: 2022-12-09 13:16:32.019901  
+date: 2022-12-14 11:28:27.531477  
 categories: player  
 ---
 # Victor Dreuille
 
 ## Positions: FH, C
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 27.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            24 |   0.333333 |
+| Beziers |            25 |       0.36 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Oyonnax          |         2 |   0        |
 | Provence Rugby   |         2 |   0.5      |
 | Rouen            |         2 |   1        |
+| Agen             |         1 |   1        |
 | Carcassonne      |         1 |   0        |
 | Perpignan        |         1 |   0        |
 | Vannes           |         1 |   0        |

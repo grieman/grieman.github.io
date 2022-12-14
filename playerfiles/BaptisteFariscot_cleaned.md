@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Fariscot  
-date: 2022-11-22 11:45:59.694461  
+date: 2022-12-14 11:20:44.209510  
 categories: player  
 ---
 # Baptiste Fariscot
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 68.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |             9 |   0.388889 |
+| Biarritz Olympique |            10 |       0.45 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -32,5 +32,6 @@ categories: player
 | Montauban         |         1 |        1   |
 | Nevers            |         1 |        0.5 |
 | Rouen             |         1 |        0   |
+| Soyaux-Angouleme  |         1 |        1   |
 | Stade Toulousain  |         1 |        0   |
 | Vannes            |         1 |        0   |

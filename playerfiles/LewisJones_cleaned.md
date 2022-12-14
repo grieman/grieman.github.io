@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Jones  
-date: 2022-12-09 13:16:03.505345  
+date: 2022-12-12 15:21:50.636137  
 categories: player  
 ---
 # Lewis Jones
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 

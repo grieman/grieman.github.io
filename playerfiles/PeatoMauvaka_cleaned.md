@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peato Mauvaka  
-date: 2022-12-09 13:10:09.503495  
+date: 2022-12-14 11:31:29.171278  
 categories: player  
 ---
 # Peato Mauvaka
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 113.0
+## Current elo: 114.0
 
 ## Current Percentile: 93.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            88 |   0.744318 |
+| Stade Toulousain |            89 |   0.747191 |
 | France           |            16 |   0.9375   |
 
 | Opponent             |   Matches |   Win Rate |
@@ -44,21 +44,22 @@ categories: player
 | Perpignan            |         3 |   1        |
 | Japan                |         3 |   1        |
 | Connacht             |         2 |   1        |
-| Stade Francais Paris |         2 |   0.5      |
 | Grenoble             |         2 |   0.5      |
 | Leinster             |         2 |   0        |
 | Gloucester Rugby     |         2 |   1        |
+| Bayonne              |         2 |   1        |
 | England              |         2 |   1        |
 | Italy                |         2 |   1        |
-| Bayonne              |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
+| South Africa         |         1 |   1        |
 | Australia            |         1 |   1        |
 | Wales                |         1 |   1        |
 | Ulster               |         1 |   1        |
 | Ireland              |         1 |   1        |
-| South Africa         |         1 |   1        |
 | Cardiff Blues        |         1 |   1        |
 | New Zealand          |         1 |   1        |
+| Munster              |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
 | Argentina            |         1 |   1        |
 | Zebre                |         1 |   1        |

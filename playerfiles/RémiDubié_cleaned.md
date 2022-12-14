@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémi Dubié  
-date: 2022-11-16 11:21:47.204281  
+date: 2022-12-14 11:17:15.559723  
 categories: player  
 ---
 # Rémi Dubié
 
 ## Positions: SH
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 26.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             8 |        0.5 |
+| Carqueiranne-Hyères |            11 |   0.363636 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,9 @@ categories: player
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Dax                        |         1 |          0 |
+| Nice                       |         1 |          0 |
+| Rennes                     |         1 |          0 |
 | Tarbes                     |         1 |          1 |
 | US Bressane                |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

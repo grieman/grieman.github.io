@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Burgaud  
-date: 2022-12-09 13:13:42.127466  
+date: 2022-12-14 11:13:20.108988  
 categories: player  
 ---
 # Kevin Burgaud
 
 ## Positions: C
 
-## Current elo: 87.0
+## Current elo: 85.0
 
-## Current Percentile: 20.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Vannes               |            59 |   0.415254 |
+| Vannes               |            60 |   0.408333 |
 | La Rochelle          |             5 |   0.6      |
 | Stade Francais Paris |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |         7 |   0.571429 |
+| Aurillac                   |         6 |   0.166667 |
 | Mont-de-Marsan             |         6 |   0.166667 |
 | Montauban                  |         5 |   0.5      |
-| Aurillac                   |         5 |   0.2      |
 | Oyonnax                    |         4 |   0.25     |
 | Carcassonne                |         4 |   0.5      |
 | US Bressane                |         3 |   1        |

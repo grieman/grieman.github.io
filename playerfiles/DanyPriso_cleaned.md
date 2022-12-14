@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dany Priso  
-date: 2022-12-09 13:23:56.428632  
+date: 2022-12-14 11:34:17.052904  
 categories: player  
 ---
 # Dany Priso
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 

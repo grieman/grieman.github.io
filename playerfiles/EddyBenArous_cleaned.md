@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eddy Ben Arous  
-date: 2022-12-09 13:18:03.314269  
+date: 2022-12-14 11:31:13.514553  
 categories: player  
 ---
 # Eddy Ben Arous
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 124.0
+## Current elo: 123.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |           220 |   0.634091 |
+| Racing 92 |           221 |   0.631222 |
 | France    |            19 |   0.578947 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -57,10 +57,11 @@ categories: player
 | Scotland             |         3 |   0.666667 |
 | Glasgow Warriors     |         3 |   0.333333 |
 | South Africa         |         2 |   0        |
-| Wales                |         2 |   0.5      |
+| Leinster             |         2 |   0        |
 | Harlequins           |         2 |   0        |
 | Cardiff Blues        |         2 |   0        |
 | Benetton Treviso     |         2 |   1        |
+| Wales                |         2 |   0.5      |
 | New Zealand          |         1 |   0        |
 | Mont-de-Marsan       |         1 |   1        |
 | London Irish         |         1 |   0        |
@@ -69,4 +70,3 @@ categories: player
 | England              |         1 |   1        |
 | Canada               |         1 |   1        |
 | Bourgoin-Jallieu     |         1 |   1        |
-| Leinster             |         1 |   0        |

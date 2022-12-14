@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zack Henry  
-date: 2022-12-09 13:17:45.396227  
+date: 2022-12-14 11:28:21.375633  
 categories: player  
 ---
 # Zack Henry
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 129.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

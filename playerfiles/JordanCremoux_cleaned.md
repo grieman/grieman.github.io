@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jordan Cremoux  
-date: 2022-12-09 13:14:02.410394  
+date: 2022-12-14 11:26:11.609941  
 categories: player  
 ---
 # Jordan Cremoux
 
 ## Positions: FH
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: None
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |             1 |          0 |
+| Cognac Saint Jean d'Angély |             2 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Albi       |         1 |          0 |
 | Suresnes   |         1 |          0 |

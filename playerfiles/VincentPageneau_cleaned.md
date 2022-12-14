@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent Pageneau  
-date: 2022-12-09 13:13:17.106457  
+date: 2022-12-14 11:22:59.463677  
 categories: player  
 ---
 # Vincent Pageneau
 
 ## Positions: W
 
-## Current elo: 73.0
+## Current elo: 69.0
 
-## Current Percentile: 3.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            12 |          0 |
+| Cognac Saint Jean d'Angély |            13 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          0 |

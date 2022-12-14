@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matteo Rodor  
-date: 2022-12-09 13:21:44.685005  
+date: 2022-12-14 11:32:20.926377  
 categories: player  
 ---
 # Matteo Rodor
 
 ## Positions: FH, SH
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            46 |        0.5 |
+| Perpignan |            47 |   0.489362 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,8 +29,8 @@ categories: player
 | Biarritz Olympique   |         3 |   0.666667 |
 | Stade Toulousain     |         3 |   0.333333 |
 | Carcassonne          |         3 |   0.666667 |
-| Clermont Auvergne    |         3 |   0.333333 |
 | Racing 92            |         3 |   0.333333 |
+| Clermont Auvergne    |         3 |   0.333333 |
 | La Rochelle          |         2 |   0        |
 | Stade Francais Paris |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   1        |
@@ -50,3 +50,4 @@ categories: player
 | Rouen                |         1 |   1        |
 | Roval Drome XV       |         1 |   1        |
 | Sale Sharks          |         1 |   0        |
+| Bristol Rugby        |         1 |   0        |

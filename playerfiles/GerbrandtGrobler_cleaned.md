@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gerbrandt Grobler  
-date: 2022-12-09 13:09:57.393565  
+date: 2022-12-14 11:15:53.953031  
 categories: player  
 ---
 # Gerbrandt Grobler
 
 ## Positions: L, FL
 
-## Current elo: 72.0
+## Current elo: 74.0
 
-## Current Percentile: 4.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Gloucester Rugby     |            29 |   0.413793 |
 | Racing 92            |            21 |   0.47619  |
-| Sharks               |            18 |   0.611111 |
+| Sharks               |            19 |   0.631579 |
 | Stade Francais Paris |            14 |   0.5      |
 | Munster              |            11 |   0.681818 |
 | Stormers             |             8 |   0.75     |
@@ -34,48 +34,48 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Exeter Chiefs        |         5 |   0.4      |
 | Clermont Auvergne    |         4 |   0.25     |
-| Stade Toulousain     |         4 |   0.5      |
 | Toulon               |         4 |   0.5      |
 | Montpellier Herault  |         4 |   0.5      |
 | Munster              |         4 |   0        |
+| Stade Toulousain     |         4 |   0.5      |
 | Glasgow Warriors     |         4 |   0.25     |
 | Leicester Tigers     |         4 |   0.5      |
 | Cardiff Blues        |         3 |   0        |
 | Castres Olympique    |         3 |   0.666667 |
 | Cheetahs             |         3 |   0.666667 |
 | Connacht             |         3 |   0.666667 |
+| Pau                  |         3 |   0.666667 |
 | Bulls                |         3 |   0.666667 |
 | Brive                |         3 |   1        |
-| Pau                  |         3 |   0.666667 |
-| Bordeaux Begles      |         3 |   0.666667 |
 | Southern Kings       |         3 |   1        |
+| Bordeaux Begles      |         3 |   0.666667 |
 | Zebre                |         3 |   1        |
-| Leinster             |         2 |   0.5      |
-| Ospreys              |         2 |   1        |
-| Lyon                 |         2 |   0        |
-| Sale Sharks          |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
-| Grenoble             |         2 |   0.5      |
-| La Rochelle          |         2 |   0.5      |
+| Ospreys              |         2 |   1        |
+| Sale Sharks          |         2 |   0.5      |
+| Saracens             |         2 |   0        |
+| Lyon                 |         2 |   0        |
 | Scarlets             |         2 |   1        |
+| Leinster             |         2 |   0.5      |
+| La Rochelle          |         2 |   0.5      |
+| Harlequins           |         2 |   0.5      |
+| Grenoble             |         2 |   0.5      |
 | Golden Lions         |         2 |   1        |
 | Edinburgh            |         2 |   0.5      |
 | Wasps                |         2 |   1        |
 | Benetton Treviso     |         2 |   0.5      |
-| Saracens             |         2 |   0        |
-| Ulster               |         1 |   0.5      |
+| Sharks               |         1 |   1        |
 | Stormers             |         1 |   0        |
 | Stade Francais Paris |         1 |   0        |
 | Western Province     |         1 |   0        |
 | Worcester Warriors   |         1 |   1        |
-| Sharks               |         1 |   1        |
+| Ulster               |         1 |   0.5      |
 | Bath Rugby           |         1 |   1        |
 | Racing 92            |         1 |   0        |
 | Queensland Reds      |         1 |   1        |
 | Northampton Saints   |         1 |   0        |
 | Natal Sharks         |         1 |   0        |
 | Melbourne Rebels     |         1 |   0        |
-| Harlequins           |         1 |   0        |
 | Griquas              |         1 |   1        |
 | Dragons              |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Velarte  
-date: 2022-12-09 13:19:14.732288  
+date: 2022-12-14 11:12:30.133049  
 categories: player  
 ---
 # Lucas Velarte
 
 ## Positions: H, N8
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 31.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            35 |   0.428571 |
+| Perpignan |            36 |   0.416667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,5 +42,6 @@ categories: player
 | Grenoble             |         1 |   1        |
 | Colomiers            |         1 |   0        |
 | Carcassonne          |         1 |   1        |
+| Bristol Rugby        |         1 |   0        |
 | Bordeaux Begles      |         1 |   0        |
 | Vannes               |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ethan McIlroy  
-date: 2022-12-09 13:08:29.464792  
+date: 2022-12-14 11:12:17.885602  
 categories: player  
 ---
 # Ethan McIlroy
 
 ## Positions: W, FB
 
-## Current elo: 107.0
+## Current elo: 102.0
 
-## Current Percentile: 78.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |            30 |   0.666667 |
+| Ulster |            31 |   0.645161 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,5 +38,6 @@ categories: player
 | Dragons          |         1 |   1        |
 | Edinburgh        |         1 |   1        |
 | Ospreys          |         1 |   0        |
+| Sale Sharks      |         1 |   0        |
 | Scarlets         |         1 |   1        |
 | Sharks           |         1 |   1        |

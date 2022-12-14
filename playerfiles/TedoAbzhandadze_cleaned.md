@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tedo Abzhandadze  
-date: 2022-12-09 13:13:53.289115  
+date: 2022-12-12 15:20:56.081749  
 categories: player  
 ---
 # Tedo Abzhandadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 65.0
+## Current Percentile: 61.0
 
 # Elo History
 

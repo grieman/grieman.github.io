@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Tsague  
-date: 2022-12-09 13:16:33.400401  
+date: 2022-12-14 11:22:30.001008  
 categories: player  
 ---
 # Baptiste Tsague
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 93.0
 
-## Current Percentile: None
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             1 |          1 |
+| Narbonne |             2 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Carqueiranne-Hyères |         1 |          1 |
+| Dax                 |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gautier Gibouin  
-date: 2022-12-09 13:04:26.137399  
+date: 2022-12-14 11:33:07.849383  
 categories: player  
 ---
 # Gautier Gibouin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 77.0
+## Current elo: 75.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Montauban        |            41 |   0.487805 |
-| Soyaux-Angouleme |            37 |   0.5      |
+| Soyaux-Angouleme |            38 |   0.486842 |
 | Nevers           |            26 |   0.423077 |
 | Spain            |            21 |   0.52381  |
 | Périgueux        |            18 |   0.222222 |
@@ -41,10 +41,10 @@ categories: player
 | Bourgoin-Jallieu           |         6 |   0.666667 |
 | Aurillac                   |         6 |   0.166667 |
 | Beziers                    |         5 |   0.4      |
+| Biarritz Olympique         |         5 |   0.4      |
 | Perpignan                  |         5 |   0.8      |
 | Narbonne                   |         5 |   0.4      |
 | Vannes                     |         5 |   0.6      |
-| Biarritz Olympique         |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.5      |
 | Russia                     |         4 |   1        |
 | Tarbes                     |         4 |   0.5      |

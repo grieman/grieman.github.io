@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yanis Charcosset  
-date: 2022-12-09 13:20:44.508153  
+date: 2022-12-12 15:09:15.589979  
 categories: player  
 ---
 # Yanis Charcosset

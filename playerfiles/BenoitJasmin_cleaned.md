@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benoit Jasmin  
-date: 2022-12-09 13:13:05.633453  
+date: 2022-12-14 11:36:45.320481  
 categories: player  
 ---
 # Benoit Jasmin
 
 ## Positions: W, FB
 
-## Current elo: 120.0
+## Current elo: 122.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |           110 |   0.6      |
+| Carcassonne |           111 |   0.603604 |
 | Narbonne    |             9 |   0.333333 |
 | Grenoble    |             7 |   0.714286 |
 
@@ -34,10 +34,10 @@ categories: player
 | Aurillac                   |         8 |   0.625    |
 | Colomiers                  |         7 |   0.714286 |
 | Provence Rugby             |         7 |   0.571429 |
+| Nevers                     |         6 |   1        |
 | Rouen                      |         6 |   0.833333 |
 | Biarritz Olympique         |         6 |   0.666667 |
 | Oyonnax                    |         6 |   0.333333 |
-| Nevers                     |         5 |   1        |
 | Perpignan                  |         5 |   0.4      |
 | Soyaux-Angouleme           |         5 |   0.7      |
 | Narbonne                   |         5 |   0.8      |

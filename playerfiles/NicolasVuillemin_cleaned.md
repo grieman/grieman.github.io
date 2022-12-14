@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Vuillemin  
-date: 2022-12-09 13:06:34.556351  
+date: 2022-12-14 11:26:38.993622  
 categories: player  
 ---
 # Nicolas Vuillemin

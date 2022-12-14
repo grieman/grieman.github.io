@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaëtan Robert  
-date: 2022-12-09 13:07:25.453389  
+date: 2022-12-14 11:22:07.348959  
 categories: player  
 ---
 # Gaëtan Robert
 
 ## Positions: FH
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 15.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            20 |       0.45 |
-| Dax      |             5 |       0.2  |
+| Suresnes |            21 |   0.428571 |
+| Dax      |             5 |   0.2      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Dax                        |         3 |   0.333333 |
-| Blagnac                    |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Aubenas                    |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ulupano Seuteni  
-date: 2022-12-09 13:03:55.045785  
+date: 2022-12-14 11:17:08.468236  
 categories: player  
 ---
 # Ulupano Seuteni
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 94.0
+## Current elo: 96.0
 
 ## Current Percentile: 44.0
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------|--------------:|-----------:|
 | Bordeaux Begles |            73 |   0.589041 |
 | Oyonnax         |            32 |   0.328125 |
-| La Rochelle     |             8 |   0.375    |
+| La Rochelle     |             9 |   0.444444 |
 | Toulon          |             8 |   0.375    |
 | Samoa           |             7 |   0.428571 |
 
@@ -33,36 +33,37 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |        10 |   0.15     |
 | Agen                 |         8 |   0.75     |
-| Lyon                 |         8 |   0.625    |
-| Montpellier Herault  |         8 |   0.5625   |
 | Castres Olympique    |         8 |   0.5625   |
+| Montpellier Herault  |         8 |   0.5625   |
+| Lyon                 |         8 |   0.625    |
+| Clermont Auvergne    |         7 |   0.642857 |
 | Toulon               |         7 |   0.428571 |
 | Stade Francais Paris |         7 |   0.428571 |
 | Racing 92            |         7 |   0.428571 |
 | La Rochelle          |         7 |   0.357143 |
-| Clermont Auvergne    |         7 |   0.642857 |
 | Perpignan            |         6 |   0.75     |
 | Pau                  |         5 |   0.4      |
 | Brive                |         5 |   0.4      |
 | Connacht             |         4 |   0        |
-| Bayonne              |         3 |   0.666667 |
 | Biarritz Olympique   |         3 |   0.333333 |
-| Worcester Warriors   |         2 |   0.5      |
+| Bayonne              |         3 |   0.666667 |
 | Wasps                |         2 |   1        |
-| Grenoble             |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
+| Worcester Warriors   |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
+| Grenoble             |         2 |   0.5      |
 | Edinburgh            |         2 |   0.75     |
+| Japan                |         1 |   0        |
 | Scarlets             |         1 |   1        |
+| Dax                  |         1 |   0        |
 | Beziers              |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Scotland             |         1 |   0        |
-| Ireland              |         1 |   0        |
 | Russia               |         1 |   1        |
-| Romania              |         1 |   1        |
 | Italy                |         1 |   0        |
-| Dax                  |         1 |   0        |
-| Oyonnax              |         1 |   1        |
+| Romania              |         1 |   1        |
 | Georgia              |         1 |   1        |
-| Japan                |         1 |   0        |
+| Ireland              |         1 |   0        |
+| Oyonnax              |         1 |   1        |
+| Northampton Saints   |         1 |   1        |
 | Bristol Rugby        |         1 |   0        |

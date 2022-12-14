@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andre Esterhuizen  
-date: 2022-12-09 13:19:13.850286  
+date: 2022-12-14 11:22:29.305112  
 categories: player  
 ---
 # Andre Esterhuizen
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 114.0
+## Current elo: 112.0
 
-## Current Percentile: 87.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Sharks               |            82 |   0.52439  |
-| Harlequins           |            51 |   0.705882 |
+| Harlequins           |            52 |   0.692308 |
 | Natal Sharks         |            25 |   0.6      |
 | South Africa         |            11 |   0.545455 |
 | Munakata Sanix Blues |             6 |   0.166667 |
@@ -75,9 +75,10 @@ categories: player
 | Toyota Industries Shuttles Aichi  |         1 |   0        |
 | Black Rams Tokyo                  |         1 |   0        |
 | Western Force                     |         1 |   1        |
-| Cardiff Blues                     |         1 |   1        |
+| Sharks                            |         1 |   0        |
 | Boland Cavaliers                  |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   0        |
+| Cardiff Blues                     |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |
 | Coca-Cola Red Sparks              |         1 |   1        |
 | Italy                             |         1 |   1        |

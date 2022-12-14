@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nicolas Ciancio  
-date: 2022-12-09 13:07:49.992975  
+date: 2022-12-14 11:20:48.438598  
 categories: player  
 ---
 # Nicolas Ciancio
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
@@ -17,10 +17,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |             4 |        0.5 |
+| Nice   |             5 |        0.6 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Carqueiranne-Hyères        |         1 |          1 |
 | Narbonne                   |         1 |          0 |
 | Rennes                     |         1 |          1 |
 | Tarbes                     |         1 |          1 |

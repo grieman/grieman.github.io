@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibaut Trotta  
-date: 2022-12-09 13:19:30.331907  
+date: 2022-12-14 11:16:57.655510  
 categories: player  
 ---
 # Thibaut Trotta
 
 ## Positions: FB
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 37.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Tarbes   |            10 |        0.4 |
-| Chambery |             8 |        0.5 |
+| Tarbes   |            11 |   0.363636 |
+| Chambery |             8 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,3 +39,4 @@ categories: player
 | Rennes                     |         1 |        1   |
 | Soyaux-Angouleme           |         1 |        1   |
 | Tarbes                     |         1 |        0   |
+| US Bressane                |         1 |        0   |

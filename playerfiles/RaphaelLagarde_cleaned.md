@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Raphael Lagarde  
-date: 2022-11-22 11:26:36.225028  
+date: 2022-12-14 11:21:42.412448  
 categories: player  
 ---
 # Raphael Lagarde
 
 ## Positions: FH
 
-## Current elo: 85.0
+## Current elo: 87.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Agen                |            68 |   0.338235 |
+| Agen                |            70 |   0.328571 |
 | Bordeaux Begles     |            30 |   0.466667 |
 | Bayonne             |            24 |   0.25     |
 | Albi                |            17 |   0.529412 |
@@ -33,27 +33,28 @@ categories: player
 | Pau                  |         9 |  0.388889  |
 | Mont-de-Marsan       |         7 |  0.714286  |
 | Aurillac             |         7 |  0.571429  |
-| La Rochelle          |         7 |  0.285714  |
 | Bayonne              |         7 |  0.357143  |
+| La Rochelle          |         7 |  0.285714  |
 | Bordeaux Begles      |         7 |  0.142857  |
-| Bourgoin-Jallieu     |         6 |  0.333333  |
 | Narbonne             |         6 |  0.5       |
-| Perpignan            |         6 |  0.5       |
 | Colomiers            |         6 |  0.5       |
+| Bourgoin-Jallieu     |         6 |  0.333333  |
+| Perpignan            |         6 |  0.5       |
 | Racing 92            |         6 |  0.0833333 |
-| Montpellier Herault  |         5 |  0.4       |
-| Provence Rugby       |         5 |  0.4       |
-| Oyonnax              |         5 |  0.2       |
 | Lyon                 |         5 |  0.1       |
-| Stade Francais Paris |         4 |  0.125     |
+| Oyonnax              |         5 |  0.2       |
+| Provence Rugby       |         5 |  0.4       |
+| Montpellier Herault  |         5 |  0.4       |
+| Grenoble             |         4 |  0.5       |
 | Castres Olympique    |         4 |  0         |
 | Clermont Auvergne    |         4 |  0         |
+| Stade Francais Paris |         4 |  0.125     |
+| Beziers              |         4 |  0         |
 | Tarbes               |         4 |  0.75      |
-| Grenoble             |         4 |  0.5       |
 | Toulon               |         4 |  0.25      |
+| Carcassonne          |         3 |  0.333333  |
 | Brive                |         3 |  0.333333  |
 | Stade Toulousain     |         3 |  0.333333  |
-| Beziers              |         3 |  0         |
 | Auch                 |         3 |  0.333333  |
 | Nevers               |         2 |  0.5       |
 | Agen                 |         2 |  0.5       |
@@ -64,7 +65,6 @@ categories: player
 | Biarritz Olympique   |         2 |  1         |
 | Edinburgh            |         2 |  0         |
 | Dax                  |         2 |  0.5       |
-| Carcassonne          |         2 |  0.5       |
 | Calvisano            |         2 |  1         |
 | Soyaux-Angouleme     |         1 |  0         |
 | US Bressane          |         1 |  0         |
@@ -73,6 +73,6 @@ categories: player
 | Massy                |         1 |  1         |
 | Exeter Chiefs        |         1 |  1         |
 | Lannemezan           |         1 |  1         |
-| Newcastle Falcons    |         1 |  1         |
 | Albi                 |         1 |  1         |
+| Newcastle Falcons    |         1 |  1         |
 | Limoges              |         1 |  1         |

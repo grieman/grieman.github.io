@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yohan Beheregaray  
-date: 2022-12-09 13:23:16.670872  
+date: 2022-12-14 11:24:27.214819  
 categories: player  
 ---
 # Yohan Beheregaray
 
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 97.0
 
-## Current Percentile: 36.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            89 |   0.561798 |
+| Clermont Auvergne |            90 |   0.566667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -48,4 +48,5 @@ categories: player
 | Harlequins           |         1 |   1        |
 | Northampton Saints   |         1 |   0        |
 | Oyonnax              |         1 |   0        |
+| Stormers             |         1 |   1        |
 | Timisoara Saracens   |         1 |   1        |

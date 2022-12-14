@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Keelan Giles  
-date: 2022-12-09 13:16:55.910446  
+date: 2022-12-14 11:29:08.886122  
 categories: player  
 ---
 # Keelan Giles
 
 ## Positions: W
 
-## Current elo: 77.0
+## Current elo: 73.0
 
-## Current Percentile: 2.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ospreys |            65 |   0.461538 |
+| Ospreys |            66 |   0.454545 |
 | Wales   |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,17 +37,18 @@ categories: player
 | Zebre                |         3 |   1        |
 | Edinburgh            |         3 |   1        |
 | Cardiff Blues        |         3 |   0.666667 |
+| Lions                |         2 |   0        |
+| Worcester Warriors   |         2 |   0        |
 | Bulls                |         2 |   0        |
 | Lyon                 |         2 |   1        |
-| Cheetahs             |         2 |   0.5      |
-| Stade Francais Paris |         2 |   0        |
 | Stormers             |         2 |   0.25     |
-| Worcester Warriors   |         2 |   0        |
-| Lions                |         2 |   0        |
-| Grenoble             |         1 |   1        |
-| Japan                |         1 |   1        |
-| Clermont Auvergne    |         1 |   0        |
-| Newcastle Falcons    |         1 |   1        |
-| Pau                  |         1 |   1        |
-| Sharks               |         1 |   0        |
+| Stade Francais Paris |         2 |   0        |
+| Cheetahs             |         2 |   0.5      |
 | Southern Kings       |         1 |   1        |
+| Grenoble             |         1 |   1        |
+| Sharks               |         1 |   0        |
+| Japan                |         1 |   1        |
+| Newcastle Falcons    |         1 |   1        |
+| Clermont Auvergne    |         1 |   0        |
+| Leicester Tigers     |         1 |   0        |
+| Pau                  |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Dunn  
-date: 2022-12-09 13:13:47.436966  
+date: 2022-12-14 11:33:17.164950  
 categories: player  
 ---
 # Tom Dunn
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 117.0
+## Current elo: 115.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |           178 |   0.480337 |
+| Bath Rugby |           179 |   0.477654 |
 | England    |             2 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -43,16 +43,17 @@ categories: player
 | Toulon             |         3 |   0.333333 |
 | Scarlets           |         3 |   0.333333 |
 | Stade Toulousain   |         2 |   0        |
-| Pau                |         2 |   1        |
-| London Welsh       |         2 |   1        |
-| Benetton Treviso   |         2 |   1        |
 | Leinster           |         2 |   0        |
+| Benetton Treviso   |         2 |   1        |
+| London Welsh       |         2 |   1        |
 | Clermont Auvergne  |         2 |   0        |
 | Calvisano          |         2 |   1        |
-| Ospreys            |         1 |   0        |
+| Pau                |         2 |   1        |
 | Italy              |         1 |   1        |
-| Scotland           |         1 |   1        |
-| Bucuresti          |         1 |   1        |
 | Ulster             |         1 |   0        |
+| Bucuresti          |         1 |   1        |
+| Scotland           |         1 |   1        |
 | Brive              |         1 |   1        |
+| Glasgow Warriors   |         1 |   0        |
+| Ospreys            |         1 |   0        |
 | Agen               |         1 |   1        |

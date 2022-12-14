@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Turnbull  
-date: 2022-12-09 13:21:20.054460  
+date: 2022-12-14 11:27:54.196657  
 categories: player  
 ---
 # Josh Turnbull
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 58.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |           174 |   0.485632 |
+| Cardiff Blues |           175 |   0.488571 |
 | Scarlets      |           116 |   0.443966 |
 | Wales         |            10 |   0.55     |
 
@@ -50,13 +50,13 @@ categories: player
 | Lyon                 |         4 |  1         |
 | Clermont Auvergne    |         4 |  0         |
 | Aironi               |         3 |  1         |
+| Brive                |         3 |  0.666667  |
 | Northampton Saints   |         3 |  0         |
 | Racing 92            |         2 |  0.75      |
 | Stormers             |         2 |  0.5       |
 | Stade Francais Paris |         2 |  0.5       |
 | Southern Kings       |         2 |  1         |
 | Sharks               |         2 |  1         |
-| Brive                |         2 |  0.5       |
 | Saracens             |         2 |  0         |
 | Sale Sharks          |         2 |  0.5       |
 | Grenoble             |         2 |  1         |

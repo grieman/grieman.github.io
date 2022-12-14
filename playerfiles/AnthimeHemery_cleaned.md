@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthime Hemery  
-date: 2022-12-09 13:24:39.824114  
+date: 2022-12-14 11:30:38.969415  
 categories: player  
 ---
 # Anthime Hemery
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 62.0
+## Current Percentile: 61.0
 
 # Elo History
 

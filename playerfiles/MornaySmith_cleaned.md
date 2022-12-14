@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mornay Smith  
-date: 2022-12-09 13:04:30.975856  
+date: 2022-12-12 14:59:30.878005  
 categories: player  
 ---
 # Mornay Smith
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 55.0
+## Current Percentile: 56.0
 
 # Elo History
 

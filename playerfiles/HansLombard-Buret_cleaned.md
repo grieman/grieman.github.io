@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Hans Lombard-Buret  
-date: 2022-12-09 13:18:57.992326  
+date: 2022-12-14 11:20:02.882838  
 categories: player  
 ---
 # Hans Lombard-Buret
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 92.0
 
 ## Current Percentile: 43.0
 

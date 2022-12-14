@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Sheehan  
-date: 2022-12-09 13:24:51.456820  
+date: 2022-12-14 11:21:47.138380  
 categories: player  
 ---
 # Dan Sheehan
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 96.0
+## Current elo: 98.0
 
 ## Current Percentile: 57.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            24 |   0.916667 |
+| Leinster |            25 |   0.92     |
 | Ireland  |            11 |   0.818182 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -32,11 +32,12 @@ categories: player
 | Ulster           |         3 |   1        |
 | New Zealand      |         3 |   0.666667 |
 | Zebre            |         2 |   1        |
-| Ospreys          |         2 |   0.5      |
 | Bulls            |         2 |   0.5      |
 | Connacht         |         2 |   1        |
 | Dragons          |         2 |   1        |
 | Munster          |         2 |   1        |
+| Ospreys          |         2 |   0.5      |
+| Racing 92        |         1 |   1        |
 | Wales            |         1 |   1        |
 | South Africa     |         1 |   1        |
 | Sharks           |         1 |   1        |

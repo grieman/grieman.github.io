@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shaun Adendorff  
-date: 2022-11-22 11:30:44.979367  
+date: 2022-12-14 11:31:03.862554  
 categories: player  
 ---
 # Shaun Adendorff
 
 ## Positions: N8, FL
 
-## Current elo: 96.0
+## Current elo: 102.0
 
-## Current Percentile: 45.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Aurillac           |            30 |   0.566667 |
-| Nevers             |            26 |   0.519231 |
+| Nevers             |            28 |   0.482143 |
 | Northampton Saints |            16 |   0.4375   |
 | Boland Cavaliers   |             5 |   0.2      |
 | Bulls              |             4 |   0.5      |
@@ -33,11 +33,11 @@ categories: player
 | Vannes              |         6 |   0.333333 |
 | Provence Rugby      |         6 |   0.666667 |
 | Montauban           |         5 |   0.4      |
+| Carcassonne         |         5 |   0.6      |
 | Oyonnax             |         4 |   0.5      |
-| Carcassonne         |         4 |   0.75     |
+| Mont-de-Marsan      |         4 |   0.5      |
 | Massy               |         3 |   1        |
 | Rouen               |         3 |   1        |
-| Mont-de-Marsan      |         3 |   0.666667 |
 | Aurillac            |         3 |   0.333333 |
 | Colomiers           |         3 |   0.333333 |
 | Beziers             |         3 |   0        |

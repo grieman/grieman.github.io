@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kelian Galletier  
-date: 2022-12-09 13:22:48.519479  
+date: 2022-12-12 15:10:43.481786  
 categories: player  
 ---
 # Kelian Galletier

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Issam Hamel  
-date: 2022-12-09 13:22:56.920948  
+date: 2022-12-14 11:36:05.398739  
 categories: player  
 ---
 # Issam Hamel

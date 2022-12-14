@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas Garrault  
-date: 2022-12-09 13:05:19.383005  
+date: 2022-12-14 11:16:17.276787  
 categories: player  
 ---
 # Nicolas Garrault
 
 ## Positions: FL, L
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 77.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mont-de-Marsan       |           111 |   0.594595 |
+| Mont-de-Marsan       |           112 |   0.598214 |
 | Stade Francais Paris |            27 |   0.62963  |
 | Tarbes               |            25 |   0.48     |
 
@@ -29,10 +29,10 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Vannes              |        10 |   0.5      |
 | Beziers             |        10 |   0.6      |
-| Biarritz Olympique  |         9 |   0.388889 |
 | Montauban           |         9 |   0.555556 |
+| Biarritz Olympique  |         9 |   0.388889 |
+| Grenoble            |         9 |   0.444444 |
 | Colomiers           |         8 |   0.625    |
-| Grenoble            |         8 |   0.375    |
 | Bayonne             |         7 |   0.642857 |
 | Narbonne            |         7 |   0.714286 |
 | Aurillac            |         7 |   0.428571 |

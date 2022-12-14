@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michele Lamaro  
-date: 2022-12-09 13:11:15.186432  
+date: 2022-12-14 11:31:27.139357  
 categories: player  
 ---
 # Michele Lamaro
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 88.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            32 |   0.484375 |
+| Benetton Treviso |            33 |   0.469697 |
 | Italy            |            19 |   0.315789 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -38,13 +38,13 @@ categories: player
 | Glasgow Warriors     |         2 |   1        |
 | Scotland             |         2 |   0        |
 | England              |         2 |   0        |
+| Stade Francais Paris |         2 |   0.5      |
 | Edinburgh            |         2 |   0.5      |
 | Dragons              |         2 |   1        |
 | Connacht             |         2 |   0        |
 | Wales                |         2 |   0.5      |
 | Bulls                |         2 |   0        |
 | Southern Kings       |         2 |   1        |
-| Stade Francais Paris |         1 |   1        |
 | Uruguay              |         1 |   1        |
 | Stormers             |         1 |   1        |
 | South Africa         |         1 |   0        |

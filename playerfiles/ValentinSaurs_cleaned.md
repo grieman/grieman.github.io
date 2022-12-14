@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Valentin Saurs  
-date: 2022-11-22 11:28:17.891816  
+date: 2022-12-14 11:35:45.714372  
 categories: player  
 ---
 # Valentin Saurs
 
 ## Positions: W, FB
 
-## Current elo: 85.0
+## Current elo: 87.0
 
-## Current Percentile: 21.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Agen      |            53 |   0.169811 |
-| Colomiers |            31 |   0.548387 |
+| Colomiers |            33 |   0.575758 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Montpellier Herault  |         4 |   0.25     |
 | Bordeaux Begles      |         4 |   0.25     |
 | Lyon                 |         4 |   0        |
+| Grenoble             |         3 |   1        |
 | Clermont Auvergne    |         3 |   0        |
 | Narbonne             |         3 |   1        |
 | Racing 92            |         3 |   0        |
@@ -51,11 +52,11 @@ categories: player
 | Oyonnax              |         2 |   1        |
 | Aurillac             |         2 |   0        |
 | Mont-de-Marsan       |         2 |   0.5      |
-| Grenoble             |         2 |   1        |
 | Gloucester Rugby     |         2 |   0        |
 | Brive                |         2 |   0.5      |
 | Beziers              |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
+| Massy                |         1 |   1        |
 | London Irish         |         1 |   0        |
 | Harlequins           |         1 |   0        |
 | Bourgoin-Jallieu     |         1 |   1        |

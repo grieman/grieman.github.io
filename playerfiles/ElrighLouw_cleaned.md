@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elrigh Louw  
-date: 2022-12-09 13:11:58.331156  
+date: 2022-12-12 15:37:45.520200  
 categories: player  
 ---
 # Elrigh Louw
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 77.0
+## Current Percentile: 76.0
 
 # Elo History
 

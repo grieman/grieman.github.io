@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jordan Williams  
-date: 2022-12-09 13:13:50.243831  
+date: 2022-12-14 11:14:42.558577  
 categories: player  
 ---
 # Jordan Williams
 
 ## Positions: FB, W
 
-## Current elo: 110.0
+## Current elo: 114.0
 
-## Current Percentile: 75.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |            57 |   0.254386 |
+| Dragons       |            58 |   0.258621 |
 | Scarlets      |            48 |   0.489583 |
 | Bristol Rugby |            27 |   0.592593 |
 
@@ -42,8 +42,8 @@ categories: player
 | Scarlets            |         3 |   0.333333 |
 | Northampton Saints  |         3 |   0        |
 | Bath Rugby          |         3 |   0.333333 |
+| Lions               |         3 |   0.166667 |
 | Dragons             |         3 |   0.666667 |
-| Exeter Chiefs       |         2 |   0        |
 | Cornish Pirates     |         2 |   1        |
 | Timisoara Saracens  |         2 |   1        |
 | Southern Kings      |         2 |   0.75     |
@@ -51,7 +51,7 @@ categories: player
 | Saracens            |         2 |   0        |
 | Racing 92           |         2 |   0.75     |
 | Nottingham          |         2 |   1        |
-| Lions               |         2 |   0        |
+| Exeter Chiefs       |         2 |   0        |
 | Bedford             |         2 |   1        |
 | Harlequins          |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   1        |

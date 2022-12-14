@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Joseph  
-date: 2022-12-09 13:15:48.879997  
+date: 2022-12-14 11:33:59.629127  
 categories: player  
 ---
 # Will Joseph
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -23,20 +23,21 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            17 |   0.441176 |
+| London Irish |            18 |   0.416667 |
 | England      |             2 |   1        |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Australia          |         2 |       1    |
-| Bath Rugby         |         2 |       1    |
-| Leicester Tigers   |         2 |       0    |
-| Newcastle Falcons  |         2 |       1    |
-| Sale Sharks        |         2 |       0    |
-| Wasps              |         2 |       0.75 |
-| Worcester Warriors |         2 |       1    |
-| Bristol Rugby      |         1 |       0    |
-| Exeter Chiefs      |         1 |       0    |
-| Gloucester Rugby   |         1 |       0    |
-| Harlequins         |         1 |       0    |
-| Northampton Saints |         1 |       0    |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Australia           |         2 |       1    |
+| Bath Rugby          |         2 |       1    |
+| Leicester Tigers    |         2 |       0    |
+| Newcastle Falcons   |         2 |       1    |
+| Sale Sharks         |         2 |       0    |
+| Wasps               |         2 |       0.75 |
+| Worcester Warriors  |         2 |       1    |
+| Bristol Rugby       |         1 |       0    |
+| Exeter Chiefs       |         1 |       0    |
+| Gloucester Rugby    |         1 |       0    |
+| Harlequins          |         1 |       0    |
+| Montpellier Herault |         1 |       0    |
+| Northampton Saints  |         1 |       0    |

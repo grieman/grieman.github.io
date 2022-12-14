@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaby Lovobalavu  
-date: 2022-12-09 13:13:46.583966  
+date: 2022-12-14 11:29:27.088582  
 categories: player  
 ---
 # Gaby Lovobalavu
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 81.0
+## Current elo: 80.0
 
 ## Current Percentile: 9.0
 
@@ -25,7 +25,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Bayonne |            82 |   0.487805 |
 | Toulon  |            81 |   0.54321  |
-| Oyonnax |            44 |   0.693182 |
+| Oyonnax |            45 |   0.7      |
 | Wasps   |            34 |   0.588235 |
 | Fiji    |            14 |   0.25     |
 
@@ -36,8 +36,8 @@ categories: player
 | Biarritz Olympique         |        12 |   0.625    |
 | Stade Toulousain           |        10 |   0.6      |
 | Racing 92                  |        10 |   0.1      |
+| Montauban                  |        10 |   0.5      |
 | Lyon                       |         9 |   0.611111 |
-| Montauban                  |         9 |   0.444444 |
 | Brive                      |         8 |   0.5      |
 | Clermont Auvergne          |         8 |   0.375    |
 | La Rochelle                |         7 |   0.714286 |

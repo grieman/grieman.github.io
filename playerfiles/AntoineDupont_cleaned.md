@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Dupont  
-date: 2022-12-09 13:05:31.294460  
+date: 2022-12-14 11:18:16.182634  
 categories: player  
 ---
 # Antoine Dupont
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 124.0
+## Current elo: 126.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Stade Toulousain  |            81 |   0.765432 |
+| Stade Toulousain  |            82 |   0.768293 |
 | Castres Olympique |            61 |   0.47541  |
 | France            |            40 |   0.6875   |
 
@@ -56,16 +56,17 @@ categories: player
 | Wasps                |         3 |   0.666667 |
 | Argentina            |         3 |   1        |
 | Cardiff Blues        |         3 |   0.333333 |
+| New Zealand          |         2 |   0.5      |
 | Northampton Saints   |         2 |   0.5      |
 | Oyonnax              |         2 |   0.5      |
 | Bath Rugby           |         2 |   1        |
-| New Zealand          |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
 | Australia            |         1 |   1        |
 | Ulster               |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Dragons              |         1 |   1        |
 | Connacht             |         1 |   1        |
+| Munster              |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
 | Georgia              |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |

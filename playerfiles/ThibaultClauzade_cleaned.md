@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault Clauzade  
-date: 2022-12-09 13:23:39.720125  
+date: 2022-12-14 11:26:40.451834  
 categories: player  
 ---
 # Thibault Clauzade
 
 ## Positions: N8, FL
 
-## Current elo: 104.0
+## Current elo: 102.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             9 |   0.444444 |
+| Narbonne |            10 |        0.4 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
+| Dax                        |         1 |          0 |
 | Nice                       |         1 |          1 |
 | Suresnes                   |         1 |          1 |
 | Tarbes                     |         1 |          0 |

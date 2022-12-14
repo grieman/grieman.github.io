@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dan Frost  
-date: 2022-11-22 11:37:46.103215  
+date: 2022-12-14 11:30:29.559908  
 categories: player  
 ---
 # Dan Frost
 
 ## Positions: H
 
-## Current elo: 124.0
+## Current elo: 126.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 |:----------------|--------------:|-----------:|
 | Cornish Pirates |            23 |   0.608696 |
 | Wasps           |            20 |   0.375    |
+| Exeter Chiefs   |             3 |   0.666667 |
 | Bath Rugby      |             1 |   0        |
-| Exeter Chiefs   |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,21 +33,22 @@ categories: player
 | Bristol Rugby       |         3 |   0.333333 |
 | Nottingham          |         3 |   0.666667 |
 | Gloucester Rugby    |         3 |   0.333333 |
+| Newcastle Falcons   |         3 |   0.333333 |
 | Jersey              |         3 |   0        |
 | Ampthill            |         2 |   1        |
 | Worcester Warriors  |         2 |   0.5      |
 | Sale Sharks         |         2 |   0        |
 | Richmond            |         2 |   1        |
 | Northampton Saints  |         2 |   0        |
-| Newcastle Falcons   |         2 |   0.5      |
 | Leicester Tigers    |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0.5      |
 | Doncaster           |         2 |   0.5      |
+| Bath Rugby          |         1 |   1        |
 | London Scottish     |         1 |   0        |
 | Munster             |         1 |   0        |
-| Bath Rugby          |         1 |   1        |
 | Harlequins          |         1 |   0        |
 | Exeter Chiefs       |         1 |   0        |
-| Saracens            |         1 |   1        |
 | Coventry            |         1 |   1        |
+| Saracens            |         1 |   1        |
+| Castres Olympique   |         1 |   1        |
 | Yorkshire Carnegie  |         1 |   1        |

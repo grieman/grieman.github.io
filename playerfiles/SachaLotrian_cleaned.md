@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sacha Lotrian  
-date: 2022-12-09 13:06:33.061868  
+date: 2022-12-14 11:16:43.598035  
 categories: player  
 ---
 # Sacha Lotrian
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 80.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            35 |        0.4 |
+| Perpignan |            36 |   0.388889 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,18 +30,19 @@ categories: player
 | La Rochelle          |         3 |   0.333333 |
 | Biarritz Olympique   |         3 |   1        |
 | Racing 92            |         3 |   0.333333 |
-| Montpellier Herault  |         2 |   0        |
 | Bordeaux Begles      |         2 |   0.5      |
-| Castres Olympique    |         2 |   0        |
 | Stade Toulousain     |         2 |   0.5      |
+| Castres Olympique    |         2 |   0        |
 | Stade Francais Paris |         2 |   0        |
+| Montpellier Herault  |         2 |   0        |
+| Beziers              |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Rouen                |         1 |   0        |
-| Beziers              |         1 |   0        |
+| Lyon                 |         1 |   0        |
 | Oyonnax              |         1 |   1        |
 | Nevers               |         1 |   1        |
-| Lyon                 |         1 |   0        |
 | Grenoble             |         1 |   1        |
 | Colomiers            |         1 |   0        |
 | Clermont Auvergne    |         1 |   1        |
+| Bristol Rugby        |         1 |   0        |
 | Toulon               |         1 |   1        |

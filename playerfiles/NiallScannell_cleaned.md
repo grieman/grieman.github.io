@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Niall Scannell  
-date: 2022-12-09 13:15:03.301230  
+date: 2022-12-14 11:24:46.395294  
 categories: player  
 ---
 # Niall Scannell
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 75.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |           139 |   0.658273 |
+| Munster |           140 |   0.653571 |
 | Ireland |            22 |   0.818182 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -33,21 +33,22 @@ categories: player
 | Ulster                   |        11 |   0.545455 |
 | Zebre                    |        10 |   1        |
 | Glasgow Warriors         |        10 |   0.7      |
-| Cardiff Blues            |         8 |   0.625    |
 | Edinburgh                |         8 |   1        |
+| Cardiff Blues            |         8 |   0.625    |
 | Scarlets                 |         7 |   0.714286 |
-| Dragons                  |         7 |   0.714286 |
 | Ospreys                  |         7 |   0.714286 |
-| Benetton Treviso         |         6 |   1        |
+| Dragons                  |         7 |   0.714286 |
 | Castres Olympique        |         6 |   0.75     |
-| Leicester Tigers         |         5 |   0.4      |
+| Benetton Treviso         |         6 |   1        |
 | Racing 92                |         5 |   0.5      |
+| Leicester Tigers         |         5 |   0.4      |
 | Italy                    |         4 |   1        |
 | Saracens                 |         4 |   0.25     |
 | Southern Kings           |         3 |   1        |
 | Wales                    |         3 |   0.333333 |
-| Scotland                 |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0.5      |
 | United States of America |         2 |   1        |
+| Scotland                 |         2 |   0.5      |
 | Stade Francais Paris     |         2 |   0.5      |
 | Australia                |         2 |   1        |
 | Japan                    |         2 |   1        |
@@ -55,13 +56,12 @@ categories: player
 | Exeter Chiefs            |         2 |   0.75     |
 | Cheetahs                 |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
-| New Zealand Maori        |         1 |   1        |
 | Russia                   |         1 |   1        |
 | Samoa                    |         1 |   1        |
+| New Zealand Maori        |         1 |   1        |
 | Lions                    |         1 |   0        |
-| Gloucester Rugby         |         1 |   1        |
 | Sharks                   |         1 |   1        |
-| Stade Toulousain         |         1 |   1        |
+| Gloucester Rugby         |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Toulon                   |         1 |   1        |
 | England                  |         1 |   1        |

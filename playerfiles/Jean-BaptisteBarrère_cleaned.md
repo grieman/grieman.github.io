@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jean-Baptiste Barrère  
-date: 2022-12-09 13:06:16.631128  
+date: 2022-12-14 11:18:16.971836  
 categories: player  
 ---
 # Jean-Baptiste Barrère
 
 ## Positions: FL
 
-## Current elo: 83.0
+## Current elo: 82.0
 
 ## Current Percentile: 6.0
 

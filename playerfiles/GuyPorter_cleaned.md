@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guy Porter  
-date: 2022-12-09 13:17:54.825916  
+date: 2022-12-14 11:30:41.271959  
 categories: player  
 ---
 # Guy Porter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 92.0
+## Current elo: 94.0
 
-## Current Percentile: 46.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,10 +23,10 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            41 |   0.719512 |
-| England          |             5 |   0.7      |
-| Sydney Rays      |             2 |   0        |
-| Sydney Stars     |             2 |   0        |
+| Leicester Tigers |            42 |    0.72619 |
+| England          |             5 |    0.7     |
+| Sydney Rays      |             2 |    0       |
+| Sydney Stars     |             2 |    0       |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -46,6 +46,7 @@ categories: player
 | Japan              |         1 |   1        |
 | New Zealand        |         1 |   0.5      |
 | Brisbane City      |         1 |   0        |
+| Ospreys            |         1 |   1        |
 | Queensland Country |         1 |   0        |
 | Bordeaux Begles    |         1 |   1        |
 | Bayonne            |         1 |   1        |

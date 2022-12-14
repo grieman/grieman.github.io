@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Afaesetiti Amosa  
-date: 2022-11-22 11:31:57.206444  
+date: 2022-12-14 11:26:47.636604  
 categories: player  
 ---
 # Afaesetiti Amosa
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 106.0
+## Current elo: 105.0
 
 ## Current Percentile: 81.0
 
@@ -26,7 +26,7 @@ categories: player
 | La Rochelle        |            65 |   0.561538 |
 | Bordeaux Begles    |            39 |   0.512821 |
 | Colomiers          |            28 |   0.464286 |
-| Bayonne            |            26 |   0.538462 |
+| Bayonne            |            27 |   0.518519 |
 | Bizkaia Gernika RT |             6 |   0.333333 |
 | Samoa              |             4 |   0.75     |
 
@@ -55,26 +55,26 @@ categories: player
 | Bayonne              |         3 |   1        |
 | Grenoble             |         3 |   0.666667 |
 | Harlequins           |         2 |   1        |
-| Connacht             |         2 |   0        |
+| Bourgoin-Jallieu     |         2 |   0.5      |
 | Benetton Treviso     |         2 |   1        |
+| Scarlets             |         2 |   0        |
 | Rovigo               |         2 |   1        |
 | Beziers              |         2 |   0        |
-| Bourgoin-Jallieu     |         2 |   0.5      |
 | Worcester Warriors   |         2 |   0        |
-| Albi                 |         2 |   0        |
 | Dax                  |         2 |   0.5      |
+| Connacht             |         2 |   0        |
+| Albi                 |         2 |   0        |
 | Colomiers            |         1 |   1        |
+| Massy                |         1 |   1        |
 | Wasps                |         1 |   0        |
 | Ulster               |         1 |   0        |
 | US Bressane          |         1 |   1        |
 | Australia            |         1 |   0        |
 | Tarbes               |         1 |   1        |
-| Massy                |         1 |   1        |
-| Scarlets             |         1 |   0        |
-| Nevers               |         1 |   0.5      |
+| Gloucester Rugby     |         1 |   0        |
 | Sale Sharks          |         1 |   0        |
 | Russia               |         1 |   1        |
-| Gloucester Rugby     |         1 |   0        |
 | Georgia              |         1 |   1        |
+| Nevers               |         1 |   0.5      |
 | Provence Rugby       |         1 |   0        |
 | Romania              |         1 |   1        |

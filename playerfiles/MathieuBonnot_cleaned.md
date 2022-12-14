@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Bonnot  
-date: 2022-12-09 13:03:55.790785  
+date: 2022-12-14 11:16:06.633297  
 categories: player  
 ---
 # Mathieu Bonnot
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            56 |   0.419643 |
+| Rouen  |            57 |   0.412281 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,14 +29,14 @@ categories: player
 | Colomiers                  |         6 |   0.166667 |
 | Vannes                     |         5 |   0.8      |
 | Aurillac                   |         5 |   0.4      |
+| Provence Rugby             |         4 |   0.375    |
 | Montauban                  |         4 |   0.5      |
 | Mont-de-Marsan             |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.666667 |
-| Provence Rugby             |         3 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
-| Beziers                    |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
+| Beziers                    |         2 |   0.5      |
 | Bayonne                    |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |

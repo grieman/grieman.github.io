@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Nick Timoney  
-date: 2022-12-09 13:16:17.447804  
+date: 2022-12-14 11:14:43.491508  
 categories: player  
 ---
 # Nick Timoney
 
-## Positions: N8, FL
+## Positions: FL, N8
 
 ## Country: Ireland
 
-## Current elo: 111.0
+## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |            95 |   0.647368 |
+| Ulster  |            96 |   0.640625 |
 | Ireland |             4 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,18 +41,19 @@ categories: player
 | Zebre                    |         4 |   0.75     |
 | Southern Kings           |         3 |   1        |
 | Harlequins               |         2 |   1        |
+| Leicester Tigers         |         2 |   1        |
+| Lions                    |         2 |   1        |
 | New Zealand Maori        |         2 |   0.5      |
 | Cheetahs                 |         2 |   0.75     |
 | Racing 92                |         2 |   0.5      |
-| Lions                    |         2 |   1        |
-| Leicester Tigers         |         2 |   1        |
+| Wasps                    |         1 |   0        |
+| United States of America |         1 |   1        |
+| Stormers                 |         1 |   0        |
+| Stade Toulousain         |         1 |   0        |
+| Sale Sharks              |         1 |   0        |
+| Sharks                   |         1 |   1        |
+| Bulls                    |         1 |   0        |
+| La Rochelle              |         1 |   1        |
 | Clermont Auvergne        |         1 |   1        |
 | Fiji                     |         1 |   1        |
-| La Rochelle              |         1 |   1        |
-| Bulls                    |         1 |   0        |
-| Sharks                   |         1 |   1        |
-| Stade Toulousain         |         1 |   0        |
-| Stormers                 |         1 |   0        |
-| United States of America |         1 |   1        |
-| Wasps                    |         1 |   0        |
 | Bath Rugby               |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peter Betham  
-date: 2022-12-09 13:05:00.275536  
+date: 2022-12-14 11:30:08.133839  
 categories: player  
 ---
 # Peter Betham
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 89.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Clermont Auvergne        |            80 |   0.6625   |
 | Leicester Tigers         |            54 |   0.592593 |
 | New South Wales Waratahs |            34 |   0.617647 |
-| Provence Rugby           |            29 |   0.551724 |
+| Provence Rugby           |            30 |   0.566667 |
 | Melbourne Rebels         |            11 |   0.181818 |
 | Tasman                   |             7 |   0.714286 |
 | Australia                |             2 |   0.5      |
@@ -71,31 +71,31 @@ categories: player
 | Hurricanes               |         3 |   0.666667 |
 | Gloucester Rugby         |         3 |   1        |
 | Ospreys                  |         2 |   1        |
-| Highlanders              |         2 |   0        |
-| Blues                    |         2 |   1        |
+| Timisoara Saracens       |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
+| Blues                    |         2 |   1        |
+| Rouen                    |         2 |   0.5      |
 | Perpignan                |         2 |   1        |
 | Brive                    |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
-| Timisoara Saracens       |         2 |   1        |
 | Bulls                    |         2 |   0        |
+| Highlanders              |         2 |   0        |
 | Glasgow Warriors         |         2 |   0        |
 | Nevers                   |         2 |   0.5      |
 | Montauban                |         2 |   1        |
 | Carcassonne              |         2 |   1        |
 | Aurillac                 |         2 |   0.5      |
-| Southern Kings           |         1 |   1        |
-| US Bressane              |         1 |   0.5      |
+| Southland                |         1 |   1        |
 | Bay of Plenty            |         1 |   1        |
+| US Bressane              |         1 |   0.5      |
 | Ulster                   |         1 |   0        |
 | Vannes                   |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
 | Soyaux-Angouleme         |         1 |   1        |
-| Southland                |         1 |   1        |
 | London Irish             |         1 |   1        |
+| Southern Kings           |         1 |   1        |
 | Sharks                   |         1 |   0        |
 | Beziers                  |         1 |   1        |
-| Rouen                    |         1 |   0        |
 | Bristol Rugby            |         1 |   1        |
 | Otago                    |         1 |   0        |
 | Northland                |         1 |   0        |

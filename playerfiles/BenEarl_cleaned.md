@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Earl  
-date: 2022-11-22 11:46:54.922210  
+date: 2022-12-14 11:21:12.174984  
 categories: player  
 ---
 # Ben Earl
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 119.0
+## Current elo: 117.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Saracens      |            88 |   0.732955 |
+| Saracens      |            89 |   0.735955 |
 | Bristol Rugby |            18 |   0.722222 |
 | England       |             9 |   0.666667 |
 
@@ -49,12 +49,12 @@ categories: player
 | Munster            |         2 |   0.5      |
 | Clermont Auvergne  |         2 |   0        |
 | Cardiff Blues      |         2 |   1        |
-| Wales              |         2 |   0.5      |
+| Edinburgh          |         2 |   0.5      |
 | Racing 92          |         2 |   0.5      |
+| Wales              |         2 |   0.5      |
 | Toulon             |         1 |   1        |
 | France             |         1 |   1        |
 | Scarlets           |         1 |   1        |
 | Saracens           |         1 |   1        |
-| Edinburgh          |         1 |   0        |
 | Bordeaux Begles    |         1 |   1        |
 | Ospreys            |         1 |   1        |

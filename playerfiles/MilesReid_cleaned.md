@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Miles Reid  
-date: 2022-12-09 13:24:01.269708  
+date: 2022-12-12 15:31:57.870262  
 categories: player  
 ---
 # Miles Reid
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Chile
 
-## Current elo: 97.0
+## Current elo: 93.0
 
 ## Current Percentile: 95.0
 

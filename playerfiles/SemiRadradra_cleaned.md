@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Semi Radradra  
-date: 2022-12-09 13:12:15.534936  
+date: 2022-12-14 11:20:54.794011  
 categories: player  
 ---
 # Semi Radradra
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 105.0
+## Current elo: 106.0
 
-## Current Percentile: 74.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bristol Rugby   |            36 |   0.625    |
+| Bristol Rugby   |            37 |   0.635135 |
 | Bordeaux Begles |            33 |   0.621212 |
 | Toulon          |            23 |   0.586957 |
 | Fiji            |             7 |   0.428571 |
@@ -37,12 +37,12 @@ categories: player
 | Bath Rugby           |         4 |   0.75     |
 | Stade Francais Paris |         4 |   0.75     |
 | Castres Olympique    |         4 |   0.75     |
+| Perpignan            |         4 |   0.875    |
 | Leicester Tigers     |         4 |   0.625    |
 | Harlequins           |         4 |   0.5      |
 | Gloucester Rugby     |         3 |   0.666667 |
 | Wasps                |         3 |   0.666667 |
 | Scarlets             |         3 |   0.666667 |
-| Perpignan            |         3 |   0.833333 |
 | Montpellier Herault  |         3 |   0.5      |
 | Exeter Chiefs        |         3 |   0.333333 |
 | Bordeaux Begles      |         3 |   0.666667 |

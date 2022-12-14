@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kevin Lebreton  
-date: 2022-12-09 13:20:43.865631  
+date: 2022-12-14 11:26:24.047452  
 categories: player  
 ---
 # Kevin Lebreton
 
 ## Positions: FL, N8
 
-## Current elo: 116.0
+## Current elo: 111.0
 
 ## Current Percentile: 94.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |            31 |   0.774194 |
+| Oyonnax  |            32 |   0.78125  |
 | Aurillac |            24 |   0.291667 |
 | Rouen    |            20 |   0.425    |
 | Albi     |             3 |   0.5      |
@@ -29,20 +29,20 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |         6 |   0.666667 |
-| Grenoble                   |         6 |   0.5      |
 | Provence Rugby             |         6 |   0.5      |
+| Grenoble                   |         6 |   0.5      |
 | Nevers                     |         5 |   0.6      |
 | Beziers                    |         5 |   0.5      |
 | Biarritz Olympique         |         5 |   0.2      |
 | Colomiers                  |         5 |   0        |
 | Mont-de-Marsan             |         5 |   0.2      |
 | Aurillac                   |         5 |   0.6      |
-| Vannes                     |         4 |   0.5      |
+| Montauban                  |         4 |   0.75     |
 | Soyaux-Angouleme           |         4 |   0.5      |
 | Oyonnax                    |         4 |   0.75     |
+| Vannes                     |         4 |   0.5      |
 | Rouen                      |         3 |   1        |
 | Agen                       |         3 |   1        |
-| Montauban                  |         3 |   0.666667 |
 | Perpignan                  |         2 |   0        |
 | Narbonne                   |         1 |   1        |
 | Massy                      |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre Berard  
-date: 2022-12-09 13:23:32.560198  
+date: 2022-12-14 11:27:05.207157  
 categories: player  
 ---
 # Pierre Berard
 
 ## Positions: FB, W
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Montpellier Herault |            88 |   0.545455 |
 | Beziers             |            33 |   0.454545 |
-| US Bressane         |            20 |   0.575    |
+| US Bressane         |            21 |   0.595238 |
 | Castres Olympique   |            13 |   0.423077 |
 | La Rochelle         |             8 |   0.5      |
 
@@ -64,6 +64,7 @@ categories: player
 | Carqueiranne-Hyères        |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Benetton Treviso           |         1 |   1        |
+| Tarbes                     |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Blagnac                    |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |

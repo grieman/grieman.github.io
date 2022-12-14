@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Heguy  
-date: 2022-12-09 13:03:54.227285  
+date: 2022-12-14 11:14:25.468196  
 categories: player  
 ---
 # Baptiste Heguy
 
 ## Positions: FL
 
-## Current elo: 105.0
+## Current elo: 103.0
 
-## Current Percentile: 71.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |            64 |   0.429688 |
+| Bayonne |            65 |   0.423077 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Toulon               |         4 |   0.25     |
 | Vannes               |         3 |   0.666667 |
 | Stade Francais Paris |         3 |   0.666667 |
+| Scarlets             |         3 |   0        |
 | Racing 92            |         3 |   0.666667 |
 | Clermont Auvergne    |         3 |   0.666667 |
 | Oyonnax              |         3 |   0.333333 |
@@ -36,7 +37,6 @@ categories: player
 | Mont-de-Marsan       |         3 |   0        |
 | Montpellier Herault  |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   0.5      |
-| Scarlets             |         2 |   0        |
 | Pau                  |         2 |   0        |
 | Nevers               |         2 |   0.25     |
 | Narbonne             |         2 |   1        |

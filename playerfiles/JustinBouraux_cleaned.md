@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Justin Bouraux  
-date: 2022-12-09 13:17:17.763869  
+date: 2022-12-14 11:33:26.180816  
 categories: player  
 ---
 # Justin Bouraux
 
 ## Positions: FH, FB
 
-## Current elo: 106.0
+## Current elo: 102.0
 
 ## Current Percentile: 78.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            10 |        0.9 |
+| Oyonnax |            11 |   0.909091 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,5 +32,6 @@ categories: player
 | Biarritz Olympique |         1 |          0 |
 | Grenoble           |         1 |          1 |
 | Massy              |         1 |          1 |
+| Montauban          |         1 |          1 |
 | Rouen              |         1 |          1 |
 | Soyaux-Angouleme   |         1 |          1 |

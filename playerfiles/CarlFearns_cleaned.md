@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Carl Fearns  
-date: 2022-12-09 13:21:17.214866  
+date: 2022-12-12 15:35:59.191168  
 categories: player  
 ---
 # Carl Fearns

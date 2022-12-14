@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jeremy Gondrand  
-date: 2022-12-09 13:10:41.076443  
+date: 2022-12-14 11:15:25.278111  
 categories: player  
 ---
 # Jeremy Gondrand
 
 ## Positions: SH, FH
 
-## Current elo: 133.0
+## Current elo: 132.0
 
 ## Current Percentile: 99.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Oyonnax          |            75 |   0.526667 |
+| Oyonnax          |            76 |   0.532895 |
 | Bourgoin-Jallieu |            58 |   0.293103 |
 | Lyon             |             7 |   0.714286 |
 
@@ -38,17 +38,17 @@ categories: player
 | Stade Toulousain           |         5 |   0.1      |
 | Mont-de-Marsan             |         5 |   0.4      |
 | Vannes                     |         4 |   0.75     |
-| La Rochelle                |         4 |   0.25     |
+| Lyon                       |         4 |   0.5      |
 | Perpignan                  |         4 |   0.25     |
 | Castres Olympique          |         4 |   0        |
 | Narbonne                   |         4 |   0.5      |
+| Montauban                  |         4 |   1        |
 | Massy                      |         4 |   0.75     |
-| Lyon                       |         4 |   0.5      |
 | Montpellier Herault        |         4 |   0        |
+| La Rochelle                |         4 |   0.25     |
 | Grenoble                   |         4 |   0.5      |
 | Colomiers                  |         4 |   0.25     |
 | Albi                       |         3 |   0.333333 |
-| Montauban                  |         3 |   1        |
 | Nevers                     |         3 |   1        |
 | Clermont Auvergne          |         3 |   0.5      |
 | US Bressane                |         3 |   0.333333 |

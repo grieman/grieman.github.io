@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaétan Béraud  
-date: 2022-12-09 13:15:47.224497  
+date: 2022-12-14 11:21:43.207975  
 categories: player  
 ---
 # Gaétan Béraud
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 79.0
 
-## Current Percentile: 8.0
+## Current Percentile: 7.0
 
 # Elo History
 

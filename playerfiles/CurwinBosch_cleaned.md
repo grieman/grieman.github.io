@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Curwin Bosch  
-date: 2022-12-09 13:07:02.180450  
+date: 2022-12-14 11:25:55.430161  
 categories: player  
 ---
 # Curwin Bosch
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 80.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sharks       |            68 |   0.551471 |
+| Sharks       |            69 |   0.557971 |
 | Natal Sharks |            32 |   0.625    |
 | South Africa |             3 |   0.666667 |
 
@@ -59,7 +59,7 @@ categories: player
 | Southern Kings           |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Glasgow Warriors         |         1 |   0        |
-| Benetton Treviso         |         1 |   1        |
+| Harlequins               |         1 |   1        |
 | Ospreys                  |         1 |   1        |
 | Connacht                 |         1 |   1        |
 | Munster                  |         1 |   0        |
@@ -67,4 +67,5 @@ categories: player
 | Leinster                 |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
 | Edinburgh                |         1 |   0        |
+| Benetton Treviso         |         1 |   1        |
 | Zebre                    |         1 |   1        |

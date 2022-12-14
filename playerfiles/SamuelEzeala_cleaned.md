@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel Ezeala  
-date: 2022-12-09 13:20:37.275128  
+date: 2022-12-12 15:00:20.023222  
 categories: player  
 ---
 # Samuel Ezeala
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 79.0
 
-## Current Percentile: 6.0
+## Current Percentile: 5.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sandrick Maciotta  
-date: 2022-12-09 13:05:54.044953  
+date: 2022-12-14 11:22:11.390416  
 categories: player  
 ---
 # Sandrick Maciotta
 
 ## Positions: N8, FL
 
-## Current elo: 100.0
+## Current elo: 104.0
 
-## Current Percentile: 53.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            19 |   0.657895 |
+| Albi   |            20 |      0.675 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Blagnac                    |         2 |        0.5 |
 | Chambery                   |         2 |        1   |
+| Cognac Saint Jean d'Angély |         2 |        1   |
 | Dax                        |         2 |        1   |
 | Tarbes                     |         2 |        0   |
 | Valence Romans Drome Rugby |         2 |        1   |
 | Bourgoin-Jallieu           |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        0   |
-| Cognac Saint Jean d'Angély |         1 |        1   |
 | Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        0.5 |
 | Rennes                     |         1 |        1   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tony Ensor  
-date: 2022-11-22 11:29:31.303709  
+date: 2022-12-14 11:11:29.387244  
 categories: player  
 ---
 # Tony Ensor
 
 ## Positions: FB
 
-## Current elo: 77.0
+## Current elo: 76.0
 
-## Current Percentile: 3.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Oyonnax              |            44 |   0.647727 |
+| Oyonnax              |            46 |   0.663043 |
 | Stade Francais Paris |            42 |   0.428571 |
 | Otago                |            27 |   0.62963  |
 | Highlanders          |             1 |   0        |
@@ -30,39 +30,39 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Agen                       |         5 |   0.6      |
 | Northland                  |         5 |   0.8      |
+| Lyon                       |         4 |   0        |
+| Aurillac                   |         4 |   0.5      |
 | Beziers                    |         4 |   1        |
 | Biarritz Olympique         |         4 |   0.25     |
 | Pau                        |         4 |   0.5      |
 | Nevers                     |         4 |   1        |
-| Lyon                       |         4 |   0        |
-| Grenoble                   |         3 |   0.666667 |
+| Montauban                  |         4 |   0.75     |
 | Vannes                     |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   1        |
 | Southland                  |         3 |   1        |
 | Rouen                      |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.833333 |
 | Montpellier Herault        |         3 |   0.666667 |
-| Montauban                  |         3 |   0.666667 |
 | Auckland                   |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.833333 |
 | Wellington                 |         3 |   0.333333 |
-| Aurillac                   |         3 |   0.333333 |
+| Grenoble                   |         3 |   0.666667 |
 | Bordeaux Begles            |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.166667 |
 | Carcassonne                |         3 |   0.666667 |
 | Oyonnax                    |         2 |   0.5      |
+| Bay of Plenty              |         2 |   1        |
 | Toulon                     |         2 |   0        |
 | Tasman                     |         2 |   0.5      |
-| Bay of Plenty              |         2 |   1        |
 | Brive                      |         2 |   0.5      |
 | Canterbury                 |         2 |   0        |
 | Krasny Yar                 |         2 |   0.5      |
 | Perpignan                  |         2 |   0.5      |
 | Ospreys                    |         2 |   0.5      |
-| Edinburgh                  |         2 |   0.5      |
+| Manawatu                   |         2 |   1        |
 | La Rochelle                |         2 |   0.5      |
 | London Irish               |         2 |   0.5      |
-| Manawatu                   |         2 |   1        |
+| Edinburgh                  |         2 |   0.5      |
 | Clermont Auvergne          |         2 |   0        |
 | Counties Manukau           |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
@@ -71,7 +71,7 @@ categories: player
 | Stade Toulousain           |         1 |   0        |
 | Taranaki                   |         1 |   1        |
 | Racing 92                  |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   1        |
 | North Harbour              |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   1        |
 | Waikato                    |         1 |   1        |
 | Hawke's Bay                |         1 |   0        |

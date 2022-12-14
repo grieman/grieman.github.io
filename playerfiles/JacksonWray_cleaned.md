@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jackson Wray  
-date: 2022-11-22 11:26:11.516400  
+date: 2022-12-14 11:22:41.963173  
 categories: player  
 ---
 # Jackson Wray
 
 ## Positions: FL, N8
 
-## Current elo: 135.0
+## Current elo: 136.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           286 |       0.75 |
+| Saracens |           287 |   0.750871 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -51,8 +51,8 @@ categories: player
 | Oyonnax             |         2 |   1        |
 | Zebre               |         2 |   1        |
 | Lyon                |         2 |   1        |
+| Edinburgh           |         2 |   1        |
 | Jersey              |         1 |   1        |
-| Edinburgh           |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
 | Coventry            |         1 |   1        |
 | Richmond            |         1 |   1        |

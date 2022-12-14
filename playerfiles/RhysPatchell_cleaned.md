@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Patchell  
-date: 2022-12-09 13:09:45.181630  
+date: 2022-12-14 11:27:35.710850  
 categories: player  
 ---
 # Rhys Patchell
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 134.0
+## Current elo: 135.0
 
 ## Current Percentile: 99.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cardiff Blues |            85 |   0.441176 |
-| Scarlets      |            76 |   0.552632 |
+| Scarlets      |            77 |   0.558442 |
 | Wales         |            22 |   0.545455 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -45,15 +45,15 @@ categories: player
 | South Africa        |         4 |  0.5       |
 | Montpellier Herault |         4 |  0.25      |
 | New Zealand         |         3 |  0         |
-| Southern Kings      |         2 |  1         |
 | Scotland            |         2 |  0.5       |
+| Southern Kings      |         2 |  1         |
+| Ireland             |         2 |  0         |
 | Sale Sharks         |         2 |  1         |
 | Rovigo              |         2 |  1         |
 | Stormers            |         2 |  0         |
 | Argentina           |         2 |  1         |
-| Ireland             |         2 |  0         |
-| Bath Rugby          |         2 |  0.5       |
 | Harlequins          |         2 |  0         |
+| Bath Rugby          |         2 |  0.5       |
 | Grenoble            |         2 |  1         |
 | France              |         2 |  0.5       |
 | Calvisano           |         2 |  1         |
@@ -62,15 +62,16 @@ categories: player
 | England             |         1 |  0         |
 | Wasps               |         1 |  1         |
 | Uruguay             |         1 |  1         |
-| Bristol Rugby       |         1 |  0         |
+| Bayonne             |         1 |  1         |
 | Tonga               |         1 |  1         |
+| Bristol Rugby       |         1 |  0         |
 | Bulls               |         1 |  0         |
-| Fiji                |         1 |  1         |
 | Exeter Chiefs       |         1 |  0         |
 | Saracens            |         1 |  0         |
 | Australia           |         1 |  1         |
-| Georgia             |         1 |  1         |
+| Fiji                |         1 |  1         |
 | Newcastle Falcons   |         1 |  0         |
+| Georgia             |         1 |  1         |
 | Gloucester Rugby    |         1 |  0         |
 | London Irish        |         1 |  1         |
 | Lions               |         1 |  0         |

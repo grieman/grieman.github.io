@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bastien Reymond  
-date: 2022-12-09 13:08:36.035107  
+date: 2022-12-14 11:31:51.050619  
 categories: player  
 ---
 # Bastien Reymond
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 97.0
 
-## Current Percentile: 50.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            10 |        0.3 |
+| Chambery |            11 |   0.363636 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,3 +35,4 @@ categories: player
 | Rennes                     |         1 |          1 |
 | Suresnes                   |         1 |          0 |
 | US Bressane                |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          1 |

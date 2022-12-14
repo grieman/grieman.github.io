@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Jauneau  
-date: 2022-12-09 13:18:04.061247  
+date: 2022-12-14 11:36:48.127421  
 categories: player  
 ---
 # Baptiste Jauneau

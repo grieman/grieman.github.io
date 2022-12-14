@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michele Campagnaro  
-date: 2022-12-09 13:08:12.934658  
+date: 2022-12-12 15:40:17.899249  
 categories: player  
 ---
 # Michele Campagnaro

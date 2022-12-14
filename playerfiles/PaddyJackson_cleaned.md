@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paddy Jackson  
-date: 2022-12-09 13:05:13.102876  
+date: 2022-12-14 11:32:22.317042  
 categories: player  
 ---
 # Paddy Jackson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Ulster       |           123 |   0.613821 |
-| London Irish |            69 |   0.391304 |
+| London Irish |            70 |   0.385714 |
 | Ireland      |            25 |   0.62     |
 | Perpignan    |            25 |   0.06     |
 | Munster      |             1 |   1        |
@@ -43,10 +43,10 @@ categories: player
 | Saracens             |         7 |  0.214286  |
 | Northampton Saints   |         7 |  0.142857  |
 | Edinburgh            |         7 |  0.857143  |
+| Sale Sharks          |         6 |  0.166667  |
 | Benetton Treviso     |         6 |  0.75      |
 | Bordeaux Begles      |         6 |  0.0833333 |
 | Bristol Rugby        |         6 |  0.333333  |
-| Sale Sharks          |         6 |  0.166667  |
 | Gloucester Rugby     |         6 |  0.25      |
 | Worcester Warriors   |         6 |  0.5       |
 | Ospreys              |         6 |  0.833333  |
@@ -62,20 +62,20 @@ categories: player
 | Scotland             |         3 |  0.333333  |
 | South Africa         |         3 |  0.333333  |
 | Italy                |         3 |  0.666667  |
-| Aironi               |         3 |  1         |
-| Wales                |         3 |  0.666667  |
 | Pau                  |         3 |  0.333333  |
-| Oyonnax              |         2 |  1         |
+| Aironi               |         3 |  1         |
+| Montpellier Herault  |         3 |  0.333333  |
+| Wales                |         3 |  0.666667  |
 | Stade Francais Paris |         2 |  0         |
 | La Rochelle          |         2 |  0         |
-| Montpellier Herault  |         2 |  0.5       |
+| Oyonnax              |         2 |  1         |
 | Japan                |         2 |  1         |
 | Grenoble             |         2 |  0.5       |
 | France               |         2 |  0.75      |
 | England              |         2 |  0.5       |
-| New Zealand          |         1 |  0         |
 | Racing 92            |         1 |  0         |
 | Romania              |         1 |  1         |
+| New Zealand          |         1 |  0         |
 | Samoa                |         1 |  1         |
 | Lyon                 |         1 |  0         |
 | Fiji                 |         1 |  1         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Bosch  
-date: 2022-12-09 13:18:07.670248  
+date: 2022-12-14 11:36:46.767269  
 categories: player  
 ---
 # Facundo Bosch
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 81.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -26,8 +26,8 @@ categories: player
 | Agen        |            45 |   0.388889 |
 | La Rochelle |            44 |   0.568182 |
 | CUBA        |            37 |   0.756757 |
+| Bayonne     |            11 |   0.545455 |
 | Argentina   |            10 |   0.45     |
-| Bayonne     |            10 |   0.6      |
 | Jaguares    |             6 |   0.166667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -53,30 +53,31 @@ categories: player
 | Newman               |         3 |   0.333333 |
 | South Africa         |         3 |   0.333333 |
 | Agen                 |         3 |   1        |
-| Grenoble             |         3 |   0.833333 |
 | CASI                 |         3 |   1        |
+| Grenoble             |         3 |   0.833333 |
 | Brive                |         3 |   0.333333 |
-| Wales                |         2 |   0.75     |
-| Pueyrredón           |         2 |   1        |
+| New Zealand          |         2 |   0.5      |
 | Atlético del Rosario |         2 |   0.5      |
-| Lions                |         2 |   0.5      |
 | Bayonne              |         2 |   1        |
 | Benetton Treviso     |         2 |   0.5      |
 | San Luis             |         2 |   0.5      |
-| New Zealand          |         2 |   0.5      |
+| Pueyrredón           |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
+| Wales                |         2 |   0.75     |
+| Lions                |         2 |   0.5      |
+| France               |         1 |   0        |
+| Lomas                |         1 |   1        |
+| Harlequins           |         1 |   0        |
 | Sunwolves            |         1 |   0        |
 | Australia            |         1 |   0        |
+| Liceo Naval          |         1 |   1        |
+| Scarlets             |         1 |   0        |
 | Biarritz Olympique   |         1 |   0        |
+| Oyonnax              |         1 |   1        |
 | Blues                |         1 |   0        |
-| Hurricanes           |         1 |   0        |
+| Glasgow Warriors     |         1 |   1        |
+| Manuel Belgrano      |         1 |   1        |
 | Pucara               |         1 |   1        |
 | Italy                |         1 |   1        |
-| Oyonnax              |         1 |   1        |
-| France               |         1 |   0        |
-| Manuel Belgrano      |         1 |   1        |
-| Glasgow Warriors     |         1 |   1        |
-| Lomas                |         1 |   1        |
-| Liceo Naval          |         1 |   1        |
-| Harlequins           |         1 |   0        |
 | Crusaders            |         1 |   0        |
+| Hurricanes           |         1 |   0        |

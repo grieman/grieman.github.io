@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sitaleki Timani  
-date: 2022-11-16 11:38:25.935706  
+date: 2022-12-14 11:12:20.620368  
 categories: player  
 ---
 # Sitaleki Timani
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Barbarians
 
-## Current elo: 119.0
+## Current elo: 121.0
 
 ## Current Percentile: 96.0
 
@@ -29,7 +29,7 @@ categories: player
 | Australia                |            14 |   0.678571 |
 | Brumbies                 |            11 |   0.727273 |
 | Western Force            |            11 |   0.272727 |
-| Toulon                   |             7 |   0.428571 |
+| Toulon                   |             9 |   0.555556 |
 | Barbarians               |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -39,40 +39,40 @@ categories: player
 | Lyon                     |        11 |   0.727273 |
 | Bordeaux Begles          |        11 |   0.454545 |
 | Stade Toulousain         |        10 |   0.35     |
-| Racing 92                |         9 |   0.333333 |
+| Stade Francais Paris     |        10 |   0.8      |
 | Toulon                   |         9 |   0.444444 |
-| Stade Francais Paris     |         9 |   0.777778 |
-| Bayonne                  |         8 |   0.75     |
+| Racing 92                |         9 |   0.333333 |
 | Brumbies                 |         8 |   0.375    |
+| Bayonne                  |         8 |   0.75     |
 | Queensland Reds          |         8 |   0.375    |
 | Pau                      |         8 |   0.625    |
 | Montpellier Herault      |         8 |   0.375    |
-| Western Force            |         6 |   0.666667 |
 | Melbourne Rebels         |         6 |   0.666667 |
+| Western Force            |         6 |   0.666667 |
 | Grenoble                 |         5 |   0.7      |
 | Harlequins               |         5 |   0.8      |
 | Agen                     |         5 |   1        |
 | Crusaders                |         5 |   0.2      |
 | Blues                    |         5 |   0.4      |
-| Cheetahs                 |         4 |   0.25     |
-| Bulls                    |         4 |   0.25     |
-| Chiefs                   |         4 |   0.5      |
 | Northampton Saints       |         4 |   1        |
+| Cheetahs                 |         4 |   0.25     |
+| Chiefs                   |         4 |   0.5      |
 | Brive                    |         4 |   0.5      |
-| Ulster                   |         3 |   0.333333 |
+| Bulls                    |         4 |   0.25     |
+| Argentina                |         3 |   1        |
+| England                  |         3 |   0.666667 |
 | Stormers                 |         3 |   0.666667 |
 | South Africa             |         3 |   0.666667 |
 | Highlanders              |         3 |   0.666667 |
-| Perpignan                |         3 |   0.666667 |
-| Argentina                |         3 |   1        |
 | Hurricanes               |         3 |   0        |
+| Perpignan                |         3 |   0.666667 |
+| Ulster                   |         3 |   0.333333 |
 | New Zealand              |         3 |   0.166667 |
 | Clermont Auvergne        |         3 |   0.666667 |
-| England                  |         3 |   0.666667 |
 | Oyonnax                  |         2 |   0.25     |
 | Bath Rugby               |         2 |   1        |
-| New South Wales Waratahs |         2 |   1        |
 | Sharks                   |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Wales                    |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
@@ -81,5 +81,6 @@ categories: player
 | Saracens                 |         1 |   1        |
 | Cardiff Blues            |         1 |   1        |
 | Ospreys                  |         1 |   1        |
-| Dragons                  |         1 |   1        |
 | Lions                    |         1 |   0        |
+| Dragons                  |         1 |   1        |
+| Zebre                    |         1 |   1        |

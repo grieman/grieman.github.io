@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Julien Ormea  
-date: 2022-12-09 13:20:06.364440  
+date: 2022-12-14 11:34:23.896520  
 categories: player  
 ---
 # Julien Ormea
 
 ## Positions: N8
 
-## Current elo: 85.0
+## Current elo: 88.0
 
-## Current Percentile: 18.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             7 |   0.428571 |
+| Carqueiranne-Hyères |             8 |      0.375 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,5 +30,6 @@ categories: player
 | Chambery         |         1 |          1 |
 | Dax              |         1 |          0 |
 | Narbonne         |         1 |          0 |
+| Nice             |         1 |          0 |
 | Tarbes           |         1 |          1 |
 | US Bressane      |         1 |          0 |

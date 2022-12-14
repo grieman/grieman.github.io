@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyler Ardron  
-date: 2022-12-09 13:16:06.826846  
+date: 2022-12-14 11:32:55.170076  
 categories: player  
 ---
 # Tyler Ardron
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 79.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Ospreys           |            64 |   0.539062 |
-| Castres Olympique |            38 |   0.631579 |
+| Castres Olympique |            39 |   0.615385 |
 | Chiefs            |            30 |   0.666667 |
 | Canada            |            26 |   0.25     |
 | Bay of Plenty     |            15 |   0.466667 |
@@ -69,10 +69,11 @@ categories: player
 | New Zealand Maori        |         2 |   0        |
 | Queensland Reds          |         2 |   1        |
 | Lyon                     |         2 |   0        |
-| Hurricanes               |         2 |   0.25     |
+| Exeter Chiefs            |         2 |   0        |
 | Brumbies                 |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0.5      |
 | Castres Olympique        |         2 |   0.5      |
+| Hurricanes               |         2 |   0.25     |
 | Manawatu                 |         2 |   0.5      |
 | Uruguay                  |         1 |   0        |
 | Bristol Rugby            |         1 |   1        |
@@ -87,7 +88,6 @@ categories: player
 | Southland                |         1 |   1        |
 | South Africa             |         1 |   0        |
 | Melbourne Rebels         |         1 |   1        |
-| Exeter Chiefs            |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | Samoa                    |         1 |   0        |
 | Russia                   |         1 |   1        |

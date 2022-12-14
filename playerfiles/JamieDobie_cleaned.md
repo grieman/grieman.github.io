@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jamie Dobie  
-date: 2022-12-09 13:05:50.410469  
+date: 2022-12-14 11:18:05.348584  
 categories: player  
 ---
 # Jamie Dobie
 
 ## Positions: SH
 
-## Current elo: 93.0
+## Current elo: 96.0
 
 ## Current Percentile: 37.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            35 |   0.514286 |
+| Glasgow Warriors |            36 |   0.527778 |
 | Bay of Plenty    |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -34,13 +34,14 @@ categories: player
 | Ospreys          |         3 |   0.666667 |
 | Ulster           |         2 |   0        |
 | Cardiff Blues    |         2 |   0.5      |
-| Sharks           |         1 |   1        |
+| Scarlets         |         1 |   0        |
 | Taranaki         |         1 |   1        |
 | Stormers         |         1 |   0        |
 | Southern Kings   |         1 |   1        |
+| Sharks           |         1 |   1        |
 | Auckland         |         1 |   1        |
-| Scarlets         |         1 |   0        |
 | Munster          |         1 |   1        |
+| Bath Rugby       |         1 |   1        |
 | Counties Manukau |         1 |   0        |
 | Connacht         |         1 |   1        |
 | Bulls            |         1 |   0        |

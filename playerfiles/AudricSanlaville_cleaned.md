@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Audric Sanlaville  
-date: 2022-12-09 13:08:23.619103  
+date: 2022-12-14 11:21:52.035998  
 categories: player  
 ---
 # Audric Sanlaville
 
 ## Positions: W
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 75.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            23 |   0.782609 |
+| US Bressane |            24 |   0.791667 |
 | Rouen       |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,6 +30,7 @@ categories: player
 | Suresnes                   |         3 |        1   |
 | Albi                       |         2 |        0   |
 | Cognac Saint Jean d'Angély |         2 |        1   |
+| Tarbes                     |         2 |        1   |
 | Nice                       |         2 |        0.5 |
 | Massy                      |         2 |        0.5 |
 | Chambery                   |         2 |        1   |
@@ -41,6 +42,5 @@ categories: player
 | Narbonne                   |         1 |        0   |
 | Nevers                     |         1 |        0   |
 | Carqueiranne-Hyères        |         1 |        1   |
-| Tarbes                     |         1 |        1   |
 | US Bressane                |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        1   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Couilloud  
-date: 2022-12-09 13:13:03.302812  
+date: 2022-12-12 14:58:55.036617  
 categories: player  
 ---
 # Baptiste Couilloud

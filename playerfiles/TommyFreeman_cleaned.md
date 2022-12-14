@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommy Freeman  
-date: 2022-12-09 13:23:45.616422  
+date: 2022-12-14 11:35:06.472028  
 categories: player  
 ---
 # Tommy Freeman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 114.0
+## Current elo: 113.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            35 |   0.514286 |
+| Northampton Saints |            36 |   0.5      |
 | England            |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -40,5 +40,6 @@ categories: player
 | Sale Sharks        |         2 |   0.5      |
 | Saracens           |         2 |   0        |
 | Worcester Warriors |         2 |   1        |
+| La Rochelle        |         1 |   0        |
 | London Irish       |         1 |   1        |
 | South Africa       |         1 |   0        |

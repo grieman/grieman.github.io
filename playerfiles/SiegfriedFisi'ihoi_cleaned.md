@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siegfried Fisi'ihoi  
-date: 2022-12-09 13:23:43.033627  
+date: 2022-12-14 11:34:49.799271  
 categories: player  
 ---
 # Siegfried Fisi'ihoi
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 123.0
+## Current elo: 122.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Pau                  |            58 |   0.353448 |
+| Pau                  |            59 |   0.347458 |
 | Stade Francais Paris |            36 |   0.5      |
 | Bay of Plenty        |            31 |   0.322581 |
 | Chiefs               |            25 |   0.74     |
@@ -69,6 +69,7 @@ categories: player
 | Fiji                     |         2 |   0.5      |
 | Crusaders                |         2 |   0.5      |
 | Counties Manukau         |         2 |   0.5      |
+| Cheetahs                 |         2 |   0.5      |
 | Brumbies                 |         1 |   1        |
 | Auckland                 |         1 |   0        |
 | Wales                    |         1 |   0        |
@@ -82,7 +83,6 @@ categories: player
 | Calvisano                |         1 |   1        |
 | Argentina                |         1 |   0        |
 | Romania                  |         1 |   0        |
-| Cheetahs                 |         1 |   1        |
 | England                  |         1 |   0        |
 | France                   |         1 |   0        |
 | Georgia                  |         1 |   0        |

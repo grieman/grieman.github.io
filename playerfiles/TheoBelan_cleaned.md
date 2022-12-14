@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Theo Belan  
-date: 2022-12-09 13:21:50.014726  
+date: 2022-12-14 11:16:50.654942  
 categories: player  
 ---
 # Theo Belan
 
 ## Positions: C
 
-## Current elo: 99.0
+## Current elo: 100.0
 
 ## Current Percentile: 71.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent Pelo  
-date: 2022-12-09 13:08:54.303220  
+date: 2022-12-12 15:24:35.927486  
 categories: player  
 ---
 # Vincent Pelo

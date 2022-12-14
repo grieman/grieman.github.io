@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ange Capuozzo  
-date: 2022-12-09 13:21:13.839170  
+date: 2022-12-14 11:31:12.777999  
 categories: player  
 ---
 # Ange Capuozzo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 78.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -24,35 +24,36 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Grenoble         |            45 |   0.6      |
+| Stade Toulousain |             8 |   0.75     |
 | Italy            |             7 |   0.571429 |
-| Stade Toulousain |             7 |   0.714286 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Perpignan                  |         5 |      0.4   |
-| Provence Rugby             |         4 |      0.25  |
-| Aurillac                   |         4 |      0.75  |
 | Nevers                     |         4 |      0.875 |
 | Rouen                      |         4 |      0.5   |
+| Aurillac                   |         4 |      0.75  |
+| Provence Rugby             |         4 |      0.25  |
 | Montauban                  |         4 |      0.625 |
 | Soyaux-Angouleme           |         3 |      1     |
-| Pau                        |         2 |      0     |
-| Mont-de-Marsan             |         2 |      1     |
-| Oyonnax                    |         2 |      0.5   |
-| Biarritz Olympique         |         2 |      0.25  |
-| Beziers                    |         2 |      0.5   |
 | Bayonne                    |         2 |      0.5   |
-| Racing 92                  |         1 |      1     |
+| Beziers                    |         2 |      0.5   |
+| Biarritz Olympique         |         2 |      0.25  |
+| Pau                        |         2 |      0     |
+| Oyonnax                    |         2 |      0.5   |
+| Mont-de-Marsan             |         2 |      1     |
+| Romania                    |         1 |      1     |
+| South Africa               |         1 |      0     |
 | Scotland                   |         1 |      0     |
 | Toulon                     |         1 |      1     |
 | US Bressane                |         1 |      1     |
 | Valence Romans Drome Rugby |         1 |      1     |
 | Vannes                     |         1 |      0     |
-| Romania                    |         1 |      1     |
-| South Africa               |         1 |      0     |
+| Racing 92                  |         1 |      1     |
 | Agen                       |         1 |      1     |
 | Portugal                   |         1 |      1     |
 | Narbonne                   |         1 |      0.5   |
+| Munster                    |         1 |      1     |
 | Lyon                       |         1 |      0     |
 | La Rochelle                |         1 |      1     |
 | Georgia                    |         1 |      0     |

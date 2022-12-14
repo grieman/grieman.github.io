@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charles Foures  
-date: 2022-12-09 13:23:40.571126  
+date: 2022-12-14 11:29:03.355913  
 categories: player  
 ---
 # Charles Foures
 
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 107.0
 
-## Current Percentile: 73.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            17 |   0.617647 |
+| Albi   |            18 |   0.638889 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Blagnac                    |         2 |        0.5 |
 | Bourgoin-Jallieu           |         2 |        0.5 |
+| Cognac Saint Jean d'Angély |         2 |        1   |
 | Dax                        |         2 |        1   |
 | Massy                      |         2 |        0   |
 | Tarbes                     |         2 |        0   |
 | Chambery                   |         1 |        1   |
-| Cognac Saint Jean d'Angély |         1 |        1   |
 | Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        0.5 |
 | Rennes                     |         1 |        1   |

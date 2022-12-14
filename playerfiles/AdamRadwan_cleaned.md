@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Radwan  
-date: 2022-12-09 13:11:51.331153  
+date: 2022-12-14 11:32:48.790506  
 categories: player  
 ---
 # Adam Radwan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            70 |   0.521429 |
+| Newcastle Falcons |            71 |   0.514085 |
 | England           |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -47,13 +47,14 @@ categories: player
 | Dragons             |         2 |   1        |
 | Canada              |         1 |   1        |
 | Hartpury College    |         1 |   1        |
-| Cornish Pirates     |         1 |   1        |
+| Connacht            |         1 |   0        |
+| Edinburgh           |         1 |   0        |
 | Brive               |         1 |   1        |
 | London Scottish     |         1 |   1        |
-| Edinburgh           |         1 |   0        |
-| Nottingham          |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
+| Nottingham          |         1 |   1        |
 | Doncaster           |         1 |   1        |
-| Tonga               |         1 |   1        |
 | Coventry            |         1 |   1        |
+| Tonga               |         1 |   1        |
+| Cornish Pirates     |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |

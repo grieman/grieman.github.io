@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Daly  
-date: 2022-12-09 13:12:02.564592  
+date: 2022-12-14 11:36:08.202126  
 categories: player  
 ---
 # Tom Daly
 
 ## Positions: C
 
-## Current elo: 84.0
+## Current elo: 86.0
 
-## Current Percentile: 12.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |            59 |   0.423729 |
+| Connacht |            60 |   0.433333 |
 | Leinster |            12 |   0.75     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -44,6 +44,7 @@ categories: player
 | Stade Toulousain    |         2 |   0        |
 | Montpellier Herault |         2 |   0.5      |
 | Lions               |         1 |   1        |
+| Newcastle Falcons   |         1 |   1        |
 | Sale Sharks         |         1 |   0        |
 | Sharks              |         1 |   0        |
 | Stormers            |         1 |   1        |

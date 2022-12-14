@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Laurent Panis  
-date: 2022-12-09 13:07:45.008133  
+date: 2022-12-14 11:14:30.208969  
 categories: player  
 ---
 # Laurent Panis
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |           114 |   0.464912 |
+| Stade Francais Paris |           115 |   0.469565 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -41,12 +41,12 @@ categories: player
 | Perpignan           |         3 |   1        |
 | Edinburgh           |         3 |   0.333333 |
 | Ospreys             |         3 |   0.666667 |
+| Benetton Treviso    |         3 |   1        |
 | Oyonnax             |         2 |   0        |
 | Leicester Tigers    |         2 |   0.5      |
 | Bayonne             |         2 |   0.5      |
 | Timisoara Saracens  |         2 |   1        |
 | Munster             |         2 |   0.5      |
-| Benetton Treviso    |         2 |   1        |
 | Worcester Warriors  |         1 |   0        |
 | Biarritz Olympique  |         1 |   1        |
 | Harlequins          |         1 |   1        |

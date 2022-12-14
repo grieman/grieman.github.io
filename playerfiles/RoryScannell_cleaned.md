@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Scannell  
-date: 2022-12-09 13:21:49.300506  
+date: 2022-12-14 11:23:21.632584  
 categories: player  
 ---
 # Rory Scannell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 117.0
+## Current elo: 116.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |           161 |   0.686335 |
+| Munster |           162 |   0.682099 |
 | Ireland |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,19 +38,19 @@ categories: player
 | Benetton Treviso         |         9 |   1        |
 | Zebre                    |         9 |   1        |
 | Scarlets                 |         8 |   0.625    |
-| Dragons                  |         7 |   0.857143 |
 | Racing 92                |         7 |   0.5      |
+| Dragons                  |         7 |   0.857143 |
 | Leicester Tigers         |         6 |   0.5      |
 | Castres Olympique        |         5 |   0.7      |
-| Cheetahs                 |         4 |   1        |
 | Southern Kings           |         4 |   1        |
+| Cheetahs                 |         4 |   1        |
 | Saracens                 |         4 |   0.25     |
+| Stade Toulousain         |         2 |   0.5      |
 | Stade Francais Paris     |         2 |   0.5      |
 | Exeter Chiefs            |         2 |   0.75     |
 | Japan                    |         2 |   1        |
 | Gloucester Rugby         |         2 |   1        |
 | Bulls                    |         1 |   0        |
-| Stade Toulousain         |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Toulon                   |         1 |   1        |
 | United States of America |         1 |   1        |

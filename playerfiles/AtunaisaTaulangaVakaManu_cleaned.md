@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Atunaisa Taulanga Vaka Manu  
-date: 2022-12-09 13:07:57.591479  
+date: 2022-12-14 11:30:33.784337  
 categories: player  
 ---
 # Atunaisa Taulanga Vaka Manu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 82.0
+## Current elo: 80.0
 
-## Current Percentile: 10.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Grenoble    |            16 |   0.59375  |
+| Grenoble    |            17 |   0.558824 |
 | Carcassonne |             9 |   0.277778 |
 | Massy       |             1 |   0        |
 | Tonga       |             1 |   0        |
@@ -35,6 +35,7 @@ categories: player
 | Beziers            |         2 |       0.5  |
 | Biarritz Olympique |         2 |       0.25 |
 | Carcassonne        |         2 |       1    |
+| Mont-de-Marsan     |         2 |       0    |
 | Montauban          |         2 |       1    |
 | Perpignan          |         2 |       0.5  |
 | Provence Rugby     |         2 |       0    |
@@ -42,7 +43,6 @@ categories: player
 | US Bressane        |         2 |       0.5  |
 | Agen               |         1 |       1    |
 | Colomiers          |         1 |       0    |
-| Mont-de-Marsan     |         1 |       0    |
 | Nevers             |         1 |       1    |
 | Rouen              |         1 |       0    |
 | Scotland           |         1 |       0    |

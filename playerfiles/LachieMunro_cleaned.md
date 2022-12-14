@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lachie Munro  
-date: 2022-12-09 13:11:37.939540  
+date: 2022-12-14 11:31:26.450049  
 categories: player  
 ---
 # Lachie Munro
 
 ## Positions: FH, FB
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Blues               |            27 |   0.518519 |
 | Provence Rugby      |            23 |   0.434783 |
 | Northland           |            21 |   0.428571 |
-| Carqueiranne-Hyères |             8 |   0.5      |
+| Carqueiranne-Hyères |             9 |   0.444444 |
 | Bordeaux Begles     |             6 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -69,7 +69,7 @@ categories: player
 | Stade Toulousain           |         2 |   0        |
 | Montpellier Herault        |         2 |   0.5      |
 | Taranaki                   |         2 |   0.5      |
-| Lyon                       |         2 |   0        |
+| Manawatu                   |         2 |   0.5      |
 | Melbourne Rebels           |         2 |   0.5      |
 | La Rochelle                |         2 |   0.75     |
 | Massy                      |         2 |   0.5      |
@@ -77,26 +77,27 @@ categories: player
 | Bay of Plenty              |         2 |   1        |
 | Hawke's Bay                |         2 |   0.5      |
 | Auch                       |         2 |   1        |
-| Manawatu                   |         2 |   0.5      |
+| Lyon                       |         2 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |
-| Chambery                   |         1 |   1        |
 | Auckland                   |         1 |   0        |
+| Cheetahs                   |         1 |   1        |
 | Waikato                    |         1 |   0        |
 | Brive                      |         1 |   1        |
-| Wellington                 |         1 |   0        |
 | Bulls                      |         1 |   1        |
+| Wellington                 |         1 |   0        |
 | Canterbury                 |         1 |   0        |
 | Suresnes                   |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
-| Cheetahs                   |         1 |   1        |
-| Clermont Auvergne          |         1 |   0        |
+| Chambery                   |         1 |   1        |
 | Southland                  |         1 |   1        |
+| Clermont Auvergne          |         1 |   0        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
 | Sharks                     |         1 |   0        |
 | Edinburgh                  |         1 |   1        |
 | Provence Rugby             |         1 |   1        |
 | Gloucester Rugby           |         1 |   0        |
 | Lions                      |         1 |   1        |
 | London Irish               |         1 |   0        |
+| Nice                       |         1 |   0        |
 | London Welsh               |         1 |   1        |
 | Nevers                     |         1 |   0        |
 | Western Force              |         1 |   1        |

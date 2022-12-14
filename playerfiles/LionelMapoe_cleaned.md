@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lionel Mapoe  
-date: 2022-12-09 13:14:31.737335  
+date: 2022-12-12 15:12:25.661184  
 categories: player  
 ---
 # Lionel Mapoe
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 78.0
+## Current Percentile: 79.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jone Trevor Seuvou  
-date: 2022-12-09 13:08:52.652720  
+date: 2022-12-14 11:28:03.607275  
 categories: player  
 ---
 # Jone Trevor Seuvou
 
 ## Positions: L
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 26.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Tarbes      |            12 |   0.416667 |
+| Tarbes      |            13 |   0.384615 |
 | Aubenas     |            11 |   0.318182 |
 | Carcassonne |             3 |   0        |
 | US Bressane |             1 |   0        |
@@ -45,4 +45,5 @@ categories: player
 | Rennes                     |         1 |        1   |
 | Soyaux-Angouleme           |         1 |        0   |
 | Tarbes                     |         1 |        1   |
+| US Bressane                |         1 |        0   |
 | Albi                       |         1 |        1   |

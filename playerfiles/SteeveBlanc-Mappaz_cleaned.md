@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steeve Blanc-Mappaz  
-date: 2022-12-09 13:20:36.472628  
+date: 2022-12-12 14:51:04.847524  
 categories: player  
 ---
 # Steeve Blanc-Mappaz

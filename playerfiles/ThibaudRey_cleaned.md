@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibaud Rey  
-date: 2022-11-22 11:32:33.172838  
+date: 2022-12-14 11:14:07.441195  
 categories: player  
 ---
 # Thibaud Rey
 
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 66.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |            69 |   0.456522 |
-| Nice           |            26 |   0.403846 |
+| Nice           |            28 |   0.446429 |
 | Grenoble       |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,6 +39,7 @@ categories: player
 | Provence Rugby             |         4 |   0.5      |
 | Nevers                     |         4 |   0.5      |
 | Biarritz Olympique         |         3 |   0.333333 |
+| Blagnac                    |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0        |
 | Valence Romans Drome Rugby |         3 |   0        |
@@ -50,8 +51,8 @@ categories: player
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Chambery                   |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0        |
-| Blagnac                    |         2 |   0.5      |
 | Massy                      |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Roval Drome XV             |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Tarbes                     |         1 |   1        |

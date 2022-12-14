@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonny May  
-date: 2022-12-09 13:19:27.305905  
+date: 2022-12-14 11:33:24.786042  
 categories: player  
 ---
 # Jonny May
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 81.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           159 |   0.537736 |
+| Gloucester Rugby |           160 |   0.540625 |
 | England          |            68 |   0.676471 |
 | Leicester Tigers |            44 |   0.443182 |
 
@@ -57,22 +57,22 @@ categories: player
 | Dragons              |         3 |   0.666667 |
 | Connacht             |         3 |   1        |
 | Samoa                |         2 |   1        |
-| Oyonnax              |         2 |   1        |
+| Perpignan            |         2 |   1        |
+| Bordeaux Begles      |         2 |   1        |
 | Tonga                |         2 |   1        |
 | Benetton Treviso     |         2 |   1        |
 | Cardiff Blues        |         2 |   0.5      |
-| Perpignan            |         2 |   1        |
 | Bayonne              |         2 |   1        |
+| Oyonnax              |         2 |   1        |
 | London Welsh         |         2 |   1        |
 | Gloucester Rugby     |         2 |   1        |
 | Stade Toulousain     |         2 |   0.5      |
 | Stade Francais Paris |         1 |   0        |
 | Barbarians           |         1 |   0        |
-| Yorkshire Carnegie   |         1 |   1        |
 | Ulster               |         1 |   0        |
+| Yorkshire Carnegie   |         1 |   1        |
 | Japan                |         1 |   1        |
 | Biarritz Olympique   |         1 |   0        |
-| Bordeaux Begles      |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Brive                |         1 |   1        |
 | Calvisano            |         1 |   1        |

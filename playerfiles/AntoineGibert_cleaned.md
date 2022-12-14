@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Gibert  
-date: 2022-12-09 13:05:23.060522  
+date: 2022-12-14 11:31:44.155059  
 categories: player  
 ---
 # Antoine Gibert
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 110.0
 
-## Current Percentile: 79.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |           103 |   0.631068 |
+| Racing 92 |           104 |      0.625 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,9 +40,9 @@ categories: player
 | Perpignan            |         4 |   0.75     |
 | Agen                 |         4 |   1        |
 | Grenoble             |         2 |   1        |
+| Leinster             |         2 |   0        |
 | Ospreys              |         1 |   1        |
 | Munster              |         1 |   0.5      |
 | Leicester Tigers     |         1 |   1        |
 | Saracens             |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
-| Leinster             |         1 |   0        |

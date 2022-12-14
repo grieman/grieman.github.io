@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alexandre Roumat  
-date: 2022-12-09 13:06:11.594282  
+date: 2022-12-14 11:25:24.096403  
 categories: player  
 ---
 # Alexandre Roumat
 
 ## Positions: FL, N8
 
-## Current elo: 126.0
+## Current elo: 127.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Bordeaux Begles    |            96 |   0.572917 |
 | Biarritz Olympique |            18 |   0.722222 |
-| Stade Toulousain   |            11 |   0.772727 |
+| Stade Toulousain   |            12 |   0.791667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -59,6 +59,7 @@ categories: player
 | Carcassonne          |         1 |   1        |
 | Colomiers            |         1 |   1        |
 | Narbonne             |         1 |   0        |
+| Munster              |         1 |   1        |
 | Connacht             |         1 |   0        |
 | Mont-de-Marsan       |         1 |   1        |
 | Dax                  |         1 |   0        |

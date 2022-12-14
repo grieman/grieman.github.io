@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason Harries  
-date: 2022-12-09 13:20:34.939147  
+date: 2022-12-12 15:41:39.313975  
 categories: player  
 ---
 # Jason Harries
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alessandro Garbisi  
-date: 2022-11-22 11:42:50.385191  
+date: 2022-12-14 11:16:00.187215  
 categories: player  
 ---
 # Alessandro Garbisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 72.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,19 +23,20 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            10 |       0.35 |
-| Italy            |             4 |       0.5  |
+| Benetton Treviso |            11 |   0.318182 |
+| Italy            |             4 |   0.5      |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Glasgow Warriors |         3 |   0.333333 |
-| Zebre            |         2 |   1        |
-| Australia        |         1 |   1        |
-| Bulls            |         1 |   0        |
-| Dragons          |         1 |   0.5      |
-| Edinburgh        |         1 |   0        |
-| Georgia          |         1 |   0        |
-| Leinster         |         1 |   0        |
-| Lions            |         1 |   0        |
-| Romania          |         1 |   1        |
-| South Africa     |         1 |   0        |
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Glasgow Warriors     |         3 |   0.333333 |
+| Zebre                |         2 |   1        |
+| Australia            |         1 |   1        |
+| Bulls                |         1 |   0        |
+| Dragons              |         1 |   0.5      |
+| Edinburgh            |         1 |   0        |
+| Georgia              |         1 |   0        |
+| Leinster             |         1 |   0        |
+| Lions                |         1 |   0        |
+| Romania              |         1 |   1        |
+| South Africa         |         1 |   0        |
+| Stade Francais Paris |         1 |   0        |

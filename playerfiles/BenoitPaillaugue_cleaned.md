@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Benoit Paillaugue  
-date: 2022-12-09 13:05:46.166967  
+date: 2022-12-14 11:27:13.577122  
 categories: player  
 ---
 # Benoit Paillaugue
 
 ## Positions: SH, FH
 
-## Current elo: 111.0
+## Current elo: 112.0
 
 ## Current Percentile: 89.0
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Montpellier Herault  |           257 |   0.540856 |
 | Auch                 |            11 |   0.545455 |
-| Toulon               |            10 |   0.4      |
+| Toulon               |            11 |   0.454545 |
 | Stade Francais Paris |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -51,22 +51,23 @@ categories: player
 | Sale Sharks          |         3 |   1        |
 | Leinster             |         3 |   0.166667 |
 | Harlequins           |         3 |   0.666667 |
+| Connacht             |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   1        |
 | Cardiff Blues        |         2 |   0.5      |
-| Connacht             |         2 |   0.5      |
-| Leicester Tigers     |         1 |   0        |
 | Colomiers            |         1 |   0        |
+| Ulster               |         1 |   0        |
 | US Bressane          |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | Tarbes               |         1 |   0        |
 | Beziers              |         1 |   0        |
 | Calvisano            |         1 |   1        |
-| Dragons              |         1 |   1        |
+| Leicester Tigers     |         1 |   0        |
 | Gloucester Rugby     |         1 |   1        |
+| Dragons              |         1 |   1        |
 | Edinburgh            |         1 |   0        |
 | Narbonne             |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
 | Montauban            |         1 |   0        |
 | Mont-de-Marsan       |         1 |   1        |
-| Ulster               |         1 |   0        |
+| Zebre                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daniele Rimpelli  
-date: 2022-12-09 13:21:43.153004  
+date: 2022-12-12 14:54:08.729736  
 categories: player  
 ---
 # Daniele Rimpelli

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luan de Bruin  
-date: 2022-12-09 13:05:07.399875  
+date: 2022-12-14 11:18:21.984860  
 categories: player  
 ---
 # Luan de Bruin
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Cheetahs            |            31 |   0.322581 |
 | Free State Cheetahs |            16 |   0.3125   |
-| Edinburgh           |            14 |   0.535714 |
+| Edinburgh           |            15 |   0.5      |
 | Leicester Tigers    |            11 |   0.454545 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -48,15 +48,16 @@ categories: player
 | Golden Lions             |         2 |   0        |
 | Dragons                  |         2 |   0.5      |
 | Leinster                 |         1 |   0        |
-| Exeter Chiefs            |         1 |   0        |
+| Saracens                 |         1 |   0        |
 | Worcester Warriors       |         1 |   1        |
 | Western Force            |         1 |   1        |
 | Wasps                    |         1 |   1        |
 | Ulster                   |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Eastern Province Kings   |         1 |   0        |
-| Queensland Reds          |         1 |   0        |
+| Exeter Chiefs            |         1 |   0        |
 | London Irish             |         1 |   1        |
+| Queensland Reds          |         1 |   0        |
 | Gloucester Rugby         |         1 |   1        |
 | Pau                      |         1 |   1        |
 | Northampton Saints       |         1 |   0        |

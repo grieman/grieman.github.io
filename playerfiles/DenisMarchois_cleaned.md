@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Denis Marchois  
-date: 2022-12-09 13:12:52.341000  
+date: 2022-12-12 14:58:26.644411  
 categories: player  
 ---
 # Denis Marchois
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 

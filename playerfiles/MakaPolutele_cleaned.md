@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maka Polutele  
-date: 2022-11-22 11:35:44.305353  
+date: 2022-12-14 11:29:35.708227  
 categories: player  
 ---
 # Maka Polutele
 
 ## Positions: L, N8
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 8.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Chambery |            14 |   0.5      |
-| Nevers   |             7 |   0.285714 |
+| Nevers   |             8 |   0.25     |
 | Dax      |             4 |   0.25     |
 | Bayonne  |             3 |   0.333333 |
 
@@ -47,5 +47,6 @@ categories: player
 | Dijon                      |         1 |        1   |
 | Dax                        |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Carcassonne                |         1 |        0   |
 | Aurillac                   |         1 |        0   |
 | Vannes                     |         1 |        0   |

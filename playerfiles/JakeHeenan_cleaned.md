@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake Heenan  
-date: 2022-12-09 13:12:17.932909  
+date: 2022-12-14 11:35:03.173483  
 categories: player  
 ---
 # Jake Heenan
 
 ## Positions: FL
 
-## Current elo: 84.0
+## Current elo: 85.0
 
-## Current Percentile: 5.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bristol Rugby    |            72 |   0.5625   |
+| Bristol Rugby    |            73 |   0.568493 |
 | Connacht         |            56 |   0.464286 |
 | Hartpury College |             1 |   1        |
 
@@ -49,10 +49,11 @@ categories: player
 | Benetton Treviso     |         4 |   0.5      |
 | Exeter Chiefs        |         3 |   0.333333 |
 | Ospreys              |         3 |   0.333333 |
-| La Rochelle          |         2 |   0.5      |
 | RC Enisei            |         2 |   1        |
+| La Rochelle          |         2 |   0.5      |
 | Stade Francais Paris |         2 |   1        |
 | Ulster               |         2 |   0.5      |
+| Perpignan            |         1 |   1        |
 | Toulon               |         1 |   1        |
 | Brive                |         1 |   1        |
 | Munster              |         1 |   0        |

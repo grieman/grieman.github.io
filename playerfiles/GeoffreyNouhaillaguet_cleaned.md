@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Nouhaillaguet  
-date: 2022-11-16 11:22:36.912095  
+date: 2022-12-14 11:21:10.735948  
 categories: player  
 ---
 # Geoffrey Nouhaillaguet
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 20.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             5 |        0.6 |
-| Grenoble            |             2 |        0   |
+| Carqueiranne-Hyères |             7 |   0.428571 |
+| Grenoble            |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,8 @@ categories: player
 | Blagnac                    |         1 |          0 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Dax                        |         1 |          0 |
+| Nice                       |         1 |          0 |
 | Oyonnax                    |         1 |          0 |
 | Perpignan                  |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

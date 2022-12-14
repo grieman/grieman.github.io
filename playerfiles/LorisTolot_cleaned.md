@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Loris Tolot  
-date: 2022-12-09 13:07:45.856474  
+date: 2022-12-12 14:52:08.977544  
 categories: player  
 ---
 # Loris Tolot
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 74.0
 
-## Current Percentile: 5.0
+## Current Percentile: 4.0
 
 # Elo History
 

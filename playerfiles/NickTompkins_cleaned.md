@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Tompkins  
-date: 2022-11-16 11:25:38.062043  
+date: 2022-12-14 11:17:19.553462  
 categories: player  
 ---
 # Nick Tompkins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 130.0
+## Current elo: 129.0
 
-## Current Percentile: 97.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           148 |   0.733108 |
+| Saracens |           149 |   0.734899 |
 | Wales    |            23 |   0.413043 |
 | Dragons  |            11 |   0.409091 |
 
@@ -36,9 +36,9 @@ categories: player
 | Newcastle Falcons   |        11 |   1        |
 | Gloucester Rugby    |        10 |   0.5      |
 | Northampton Saints  |         9 |   0.777778 |
+| Wasps               |         8 |   0.625    |
 | Bristol Rugby       |         8 |   0.75     |
 | Worcester Warriors  |         8 |   0.75     |
-| Wasps               |         8 |   0.625    |
 | London Irish        |         7 |   0.857143 |
 | Bath Rugby          |         7 |   0.571429 |
 | Scarlets            |         6 |   0.583333 |
@@ -46,23 +46,23 @@ categories: player
 | Glasgow Warriors    |         5 |   1        |
 | South Africa        |         4 |   0.25     |
 | Scotland            |         3 |   0.666667 |
-| Munster             |         3 |   0.666667 |
 | Ireland             |         3 |   0.333333 |
 | Argentina           |         3 |   0.5      |
-| Lyon                |         2 |   1        |
-| Leinster            |         2 |   0.5      |
-| Ulster              |         2 |   0.5      |
-| France              |         2 |   0        |
-| Racing 92           |         2 |   0.5      |
+| Munster             |         3 |   0.666667 |
 | England             |         2 |   0        |
+| France              |         2 |   0        |
 | Cardiff Blues       |         2 |   1        |
+| Edinburgh           |         2 |   1        |
+| Leinster            |         2 |   0.5      |
+| Racing 92           |         2 |   0.5      |
+| Lyon                |         2 |   1        |
+| Ulster              |         2 |   0.5      |
 | Italy               |         2 |   0.5      |
 | Toulon              |         1 |   1        |
 | Ampthill            |         1 |   1        |
 | New Zealand         |         1 |   0        |
 | London Welsh        |         1 |   1        |
 | Fiji                |         1 |   1        |
-| Edinburgh           |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
 | Dragons             |         1 |   1        |
 | Doncaster           |         1 |   1        |

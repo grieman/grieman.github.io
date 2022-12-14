@@ -1,23 +1,27 @@
 ---  
 layout: page  
 title: Baptiste Collet  
-date: 2022-12-09 13:24:18.555533  
+date: 2022-12-14 11:18:50.673246  
 categories: player  
 ---
 # Baptiste Collet
 
-## Positions: 
+## Positions: P
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_BaptisteCollet.png)
 # Match History
 
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |             5 |        0.8 |
+| Blagnac |             6 |   0.833333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -26,3 +30,4 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Nice                       |         1 |          0 |
 | Rennes                     |         1 |          1 |
+| Suresnes                   |         1 |          1 |

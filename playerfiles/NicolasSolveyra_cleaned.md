@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Solveyra  
-date: 2022-12-09 13:16:58.419867  
+date: 2022-12-12 15:34:43.400143  
 categories: player  
 ---
 # Nicolas Solveyra

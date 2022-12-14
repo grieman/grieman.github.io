@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jefferson Poirot  
-date: 2022-12-09 13:23:35.050200  
+date: 2022-12-12 15:39:27.202732  
 categories: player  
 ---
 # Jefferson Poirot

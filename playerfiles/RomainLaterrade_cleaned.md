@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Romain Laterrade  
-date: 2022-12-09 13:23:03.650806  
+date: 2022-12-14 11:20:32.354393  
 categories: player  
 ---
 # Romain Laterrade
 
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 90.0
 
 ## Current Percentile: 17.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            60 |   0.616667 |
+| Mont-de-Marsan |            61 |   0.622951 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -30,11 +30,11 @@ categories: player
 | Oyonnax            |         5 |   0.5      |
 | Beziers            |         4 |   0.25     |
 | Biarritz Olympique |         4 |   0.875    |
+| Grenoble           |         4 |   0.5      |
 | Aurillac           |         4 |   1        |
 | Bayonne            |         3 |   1        |
 | Soyaux-Angouleme   |         3 |   1        |
 | Colomiers          |         3 |   0.333333 |
-| Grenoble           |         3 |   0.333333 |
 | Nevers             |         3 |   0.666667 |
 | Perpignan          |         2 |   0        |
 | US Bressane        |         2 |   0.5      |

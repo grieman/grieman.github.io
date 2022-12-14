@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Tetrashvili  
-date: 2022-12-09 13:24:46.552083  
+date: 2022-12-12 15:07:03.321911  
 categories: player  
 ---
 # Giorgi Tetrashvili

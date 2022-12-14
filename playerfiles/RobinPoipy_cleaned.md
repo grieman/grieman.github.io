@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin Poipy  
-date: 2022-12-09 13:22:14.565087  
+date: 2022-12-14 11:29:28.626260  
 categories: player  
 ---
 # Robin Poipy
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 102.0
 
-## Current Percentile: 75.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            17 |   0.647059 |
+| Massy  |            18 |   0.611111 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Beziers                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          1 |
 | Chambery                   |         1 |          1 |
+| Colomiers                  |         1 |          0 |
 | Dax                        |         1 |          1 |
 | Mont-de-Marsan             |         1 |          1 |
 | Montauban                  |         1 |          0 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin Bourdieu  
-date: 2022-12-09 13:19:06.511143  
+date: 2022-12-14 11:24:43.695857  
 categories: player  
 ---
 # Quentin Bourdieu
 
 ## Positions: W
 
-## Current elo: 82.0
+## Current elo: 85.0
 
-## Current Percentile: 10.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             5 |        0.2 |
+| Carqueiranne-Hyères |             6 |   0.166667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -29,4 +29,5 @@ categories: player
 | Blagnac          |         1 |          0 |
 | Bourgoin-Jallieu |         1 |          0 |
 | Narbonne         |         1 |          0 |
+| Nice             |         1 |          0 |
 | Rennes           |         1 |          0 |

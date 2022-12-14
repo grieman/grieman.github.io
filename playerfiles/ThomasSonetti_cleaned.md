@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Sonetti  
-date: 2022-12-09 13:08:43.465423  
+date: 2022-12-14 11:29:59.416997  
 categories: player  
 ---
 # Thomas Sonetti
 
 ## Positions: SH
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 51.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             9 |   0.444444 |
+| Carqueiranne-Hyères |            10 |        0.4 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Narbonne                   |         1 |          0 |
+| Nice                       |         1 |          0 |
 | Rennes                     |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          1 |

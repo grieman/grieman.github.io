@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Levani Botia Veivuke  
-date: 2022-12-09 13:20:23.626335  
+date: 2022-12-14 11:12:48.168404  
 categories: player  
 ---
 # Levani Botia Veivuke
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           150 |   0.573333 |
+| La Rochelle |           151 |   0.576159 |
 | Fiji        |            16 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,8 +32,8 @@ categories: player
 | Toulon               |        12 |   0.583333 |
 | Bordeaux Begles      |        11 |   0.545455 |
 | Pau                  |        10 |   0.7      |
-| Montpellier Herault  |         9 |   0.611111 |
 | Bayonne              |         9 |   0.722222 |
+| Montpellier Herault  |         9 |   0.611111 |
 | Stade Francais Paris |         9 |   0.444444 |
 | Lyon                 |         8 |   0.5625   |
 | Castres Olympique    |         8 |   0.625    |
@@ -42,23 +42,24 @@ categories: player
 | Brive                |         6 |   0.666667 |
 | Agen                 |         5 |   0.6      |
 | Grenoble             |         4 |   0.75     |
-| Bristol Rugby        |         3 |   0.666667 |
 | Sale Sharks          |         3 |   0.666667 |
 | Gloucester Rugby     |         3 |   0.333333 |
-| Ireland              |         2 |   0        |
-| Perpignan            |         2 |   0.5      |
-| Oyonnax              |         2 |   1        |
-| Exeter Chiefs        |         2 |   0        |
+| Bristol Rugby        |         3 |   0.666667 |
 | Ulster               |         2 |   0.5      |
-| Uruguay              |         2 |   0.5      |
 | Wales                |         2 |   0        |
+| Perpignan            |         2 |   0.5      |
 | Benetton Treviso     |         2 |   1        |
-| Tarbes               |         1 |   0        |
+| Ireland              |         2 |   0        |
+| Exeter Chiefs        |         2 |   0        |
+| Uruguay              |         2 |   0.5      |
+| Oyonnax              |         2 |   1        |
 | Scotland             |         1 |   0        |
 | Scarlets             |         1 |   0        |
+| Tarbes               |         1 |   0        |
 | Wasps                |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Japan                |         1 |   1        |
+| Northampton Saints   |         1 |   1        |
 | New Zealand Maori    |         1 |   1        |
 | New Zealand          |         1 |   0        |
 | Narbonne             |         1 |   1        |

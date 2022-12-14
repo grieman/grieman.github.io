@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Martin Devergie  
-date: 2022-12-09 13:10:47.485222  
+date: 2022-12-14 11:25:49.864024  
 categories: player  
 ---
 # Martin Devergie

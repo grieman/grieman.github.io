@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo David Nathan Tanda  
-date: 2022-12-09 13:16:09.848365  
+date: 2022-12-14 11:32:53.933476  
 categories: player  
 ---
 # Théo David Nathan Tanda
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 53.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             8 |      0.375 |
+| Suresnes |             9 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | US Bressane                |         2 |          0 |
 | Albi                       |         1 |          1 |
+| Blagnac                    |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Massy                      |         1 |          0 |
 | Narbonne                   |         1 |          0 |

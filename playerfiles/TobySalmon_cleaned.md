@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Toby Salmon  
-date: 2022-12-09 13:23:28.575697  
+date: 2022-12-14 11:14:05.727410  
 categories: player  
 ---
 # Toby Salmon
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 45.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Exeter Chiefs     |            19 |   0.631579 |
-| Rouen             |            10 |   0.7      |
+| Rouen             |            11 |   0.636364 |
 | Rotherham Titans  |             9 |   0.388889 |
 | Agen              |             5 |   0        |
 | London Irish      |             1 |   0        |
@@ -31,19 +31,20 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Wasps               |         4 |       0.5  |
+| Richmond            |         2 |       1    |
 | Beziers             |         2 |       0    |
 | Worcester Warriors  |         2 |       0    |
 | Nottingham          |         2 |       0.25 |
 | Colomiers           |         2 |       0.5  |
 | Mont-de-Marsan      |         2 |       0.5  |
-| Richmond            |         2 |       1    |
 | Newcastle Falcons   |         2 |       0.5  |
 | Jersey              |         2 |       0.5  |
 | Leicester Tigers    |         2 |       1    |
 | Saracens            |         2 |       0.5  |
 | Agen                |         1 |       0    |
-| Sale Sharks         |         1 |       1    |
+| Provence Rugby      |         1 |       0    |
 | Scarlets            |         1 |       1    |
+| Sale Sharks         |         1 |       1    |
 | Soyaux-Angouleme    |         1 |       1    |
 | US Bressane         |         1 |       0    |
 | Vannes              |         1 |       1    |

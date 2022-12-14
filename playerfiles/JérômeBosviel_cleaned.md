@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jérôme Bosviel  
-date: 2022-12-09 13:06:21.536341  
+date: 2022-12-12 15:02:05.959168  
 categories: player  
 ---
 # Jérôme Bosviel

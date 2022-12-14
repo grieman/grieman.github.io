@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Fuser  
-date: 2022-12-09 13:15:23.341245  
+date: 2022-12-14 11:30:01.913854  
 categories: player  
 ---
 # Marco Fuser
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 71.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Benetton Treviso  |           123 |   0.308943 |
 | Italy             |            38 |   0.289474 |
 | Newcastle Falcons |            18 |   0.444444 |
-| Massy             |             8 |   0.25     |
+| Massy             |             9 |   0.222222 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -51,41 +51,42 @@ categories: player
 | Argentina                |         3 |   0        |
 | Leicester Tigers         |         3 |   0        |
 | Agen                     |         3 |   0.333333 |
-| France                   |         3 |   0        |
 | Bath Rugby               |         3 |   0.666667 |
-| Georgia                  |         2 |   0.5      |
-| Montpellier Herault      |         2 |   0        |
+| France                   |         3 |   0        |
+| Australia                |         2 |   0        |
 | Bayonne                  |         2 |   1        |
 | Sale Sharks              |         2 |   0.5      |
 | Racing 92                |         2 |   0        |
-| Toulon                   |         2 |   0        |
-| Australia                |         2 |   0        |
 | Bristol Rugby            |         2 |   0        |
 | Canada                   |         2 |   1        |
-| Wales                    |         2 |   0.5      |
+| South Africa             |         2 |   0.5      |
+| Montpellier Herault      |         2 |   0        |
+| Georgia                  |         2 |   0.5      |
 | England                  |         2 |   0        |
+| Wales                    |         2 |   0.5      |
 | Japan                    |         2 |   0.5      |
 | Fiji                     |         2 |   0.5      |
-| South Africa             |         2 |   0.5      |
+| Toulon                   |         2 |   0        |
 | United States of America |         1 |   1        |
-| Southern Kings           |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | Tonga                    |         1 |   0        |
-| Aurillac                 |         1 |   0        |
 | Stade Toulousain         |         1 |   0        |
 | Stade Francais Paris     |         1 |   0        |
-| Worcester Warriors       |         1 |   1        |
+| Aurillac                 |         1 |   0        |
 | Soyaux-Angouleme         |         1 |   0        |
-| Rouen                    |         1 |   0        |
-| Saracens                 |         1 |   0        |
-| Grenoble                 |         1 |   1        |
+| Southern Kings           |         1 |   1        |
+| Worcester Warriors       |         1 |   1        |
 | Romania                  |         1 |   1        |
+| Saracens                 |         1 |   0        |
+| Rouen                    |         1 |   0        |
 | Provence Rugby           |         1 |   1        |
 | Oyonnax                  |         1 |   0        |
 | Beziers                  |         1 |   0        |
 | Carcassonne              |         1 |   1        |
 | Lyon                     |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
-| Exeter Chiefs            |         1 |   0        |
+| Colomiers                |         1 |   0        |
 | La Rochelle              |         1 |   0        |
+| Exeter Chiefs            |         1 |   0        |
+| Grenoble                 |         1 |   1        |
 | London Irish             |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Herring  
-date: 2022-12-09 13:12:57.902311  
+date: 2022-12-14 11:27:09.478598  
 categories: player  
 ---
 # Rob Herring
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 105.0
+## Current elo: 103.0
 
-## Current Percentile: 78.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Ulster       |           214 |   0.675234 |
+| Ulster       |           215 |   0.672093 |
 | Ireland      |            25 |   0.8      |
 | London Irish |             8 |   0.375    |
 | Munster      |             1 |   1        |
@@ -43,35 +43,36 @@ categories: player
 | Cardiff Blues       |        10 |   0.75     |
 | Harlequins          |         5 |   1        |
 | Leicester Tigers    |         5 |   0.8      |
-| Clermont Auvergne   |         4 |   0.5      |
 | Southern Kings      |         4 |   1        |
 | Saracens            |         4 |   0        |
 | Italy               |         4 |   1        |
 | Australia           |         4 |   0.75     |
+| Clermont Auvergne   |         4 |   0.5      |
 | Bath Rugby          |         3 |   0.666667 |
 | Stade Toulousain    |         3 |   0.666667 |
-| Scotland            |         3 |   1        |
 | England             |         3 |   0.666667 |
+| Scotland            |         3 |   1        |
 | Gloucester Rugby    |         2 |   0        |
-| Oyonnax             |         2 |   1        |
+| France              |         2 |   0        |
 | Wasps               |         2 |   0.5      |
 | Wales               |         2 |   0.5      |
 | Toulon              |         2 |   0        |
 | Stormers            |         2 |   0        |
-| Cheetahs            |         2 |   0.75     |
 | South Africa        |         2 |   1        |
-| New Zealand         |         2 |   1        |
-| Northampton Saints  |         2 |   0.5      |
-| Fiji                |         2 |   1        |
-| France              |         2 |   0        |
-| Lions               |         2 |   1        |
 | Castres Olympique   |         2 |   1        |
+| Cheetahs            |         2 |   0.75     |
+| Lions               |         2 |   1        |
+| Oyonnax             |         2 |   1        |
+| Northampton Saints  |         2 |   0.5      |
+| New Zealand         |         2 |   1        |
+| Fiji                |         2 |   1        |
 | La Rochelle         |         2 |   0.5      |
-| Japan               |         1 |   1        |
-| Exeter Chiefs       |         1 |   1        |
-| Bordeaux Begles     |         1 |   0        |
-| Sharks              |         1 |   1        |
+| Sale Sharks         |         1 |   0        |
 | Newcastle Falcons   |         1 |   1        |
+| Sharks              |         1 |   1        |
+| Bordeaux Begles     |         1 |   0        |
 | Montpellier Herault |         1 |   1        |
+| Exeter Chiefs       |         1 |   1        |
+| Japan               |         1 |   1        |
 | Yorkshire Carnegie  |         1 |   0        |
 | Racing 92           |         1 |   1        |

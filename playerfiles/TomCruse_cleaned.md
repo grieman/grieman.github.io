@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Cruse  
-date: 2022-12-09 13:04:54.622332  
+date: 2022-12-12 14:51:19.359530  
 categories: player  
 ---
 # Tom Cruse
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 20.0
+## Current Percentile: 21.0
 
 # Elo History
 

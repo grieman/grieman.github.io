@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Hardy  
-date: 2022-11-16 11:35:55.420608  
+date: 2022-12-14 11:32:24.062028  
 categories: player  
 ---
 # Kieran Hardy
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            64 |   0.476562 |
+| Scarlets |            65 |   0.484615 |
 | Jersey   |            28 |   0.571429 |
-| Wales    |            14 |   0.464286 |
+| Wales    |            15 |   0.433333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -45,28 +45,29 @@ categories: player
 | Rotherham Titans    |         3 |   0.666667 |
 | Munster             |         3 |   0.333333 |
 | Zebre               |         3 |   1        |
+| Bayonne             |         3 |   1        |
 | Bedford             |         3 |   0.666667 |
 | Doncaster           |         3 |   0.333333 |
 | Benetton Treviso    |         3 |   0.333333 |
 | England             |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
-| Richmond            |         2 |   0.5      |
-| Cheetahs            |         2 |   1        |
-| Glasgow Warriors    |         2 |   0        |
 | Cornish Pirates     |         2 |   1        |
 | Bristol Rugby       |         2 |   0.5      |
+| Richmond            |         2 |   0.5      |
+| Cheetahs            |         2 |   1        |
 | Leinster            |         2 |   0        |
-| Bayonne             |         2 |   1        |
 | Hartpury College    |         2 |   1        |
+| Glasgow Warriors    |         2 |   0        |
 | Stormers            |         1 |   0        |
-| Scotland            |         1 |   1        |
 | Canada              |         1 |   1        |
-| France              |         1 |   0        |
+| Scotland            |         1 |   1        |
+| Fiji                |         1 |   1        |
 | Northampton Saints  |         1 |   0        |
 | Nottingham          |         1 |   1        |
+| France              |         1 |   0        |
 | New Zealand         |         1 |   0        |
 | London Welsh        |         1 |   0        |
-| Fiji                |         1 |   1        |
 | Lions               |         1 |   1        |
+| Australia           |         1 |   0        |
 | Italy               |         1 |   0        |
 | Leicester Tigers    |         1 |   1        |

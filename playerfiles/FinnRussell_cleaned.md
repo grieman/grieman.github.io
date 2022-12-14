@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finn Russell  
-date: 2022-11-22 11:28:38.702128  
+date: 2022-12-14 11:27:53.423448  
 categories: player  
 ---
 # Finn Russell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 126.0
+## Current elo: 124.0
 
-## Current Percentile: 94.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
+| Racing 92               |            83 |   0.644578 |
 | Glasgow Warriors        |            82 |   0.621951 |
-| Racing 92               |            81 |   0.648148 |
 | Scotland                |            65 |   0.576923 |
 | British and Irish Lions |             3 |   0.5      |
 | Barbarians              |             1 |   1        |
@@ -34,6 +34,7 @@ categories: player
 | Montpellier Herault      |        10 |   0.7      |
 | Munster                  |        10 |   0.65     |
 | Ulster                   |         9 |   0.555556 |
+| Clermont Auvergne        |         8 |   0.75     |
 | Connacht                 |         8 |   0.75     |
 | Wales                    |         8 |   0.25     |
 | France                   |         8 |   0.5      |
@@ -41,9 +42,8 @@ categories: player
 | England                  |         8 |   0.5625   |
 | Edinburgh                |         8 |   0.375    |
 | Scarlets                 |         8 |   0.75     |
-| Italy                    |         7 |   1        |
 | Ireland                  |         7 |   0.142857 |
-| Clermont Auvergne        |         7 |   0.714286 |
+| Italy                    |         7 |   1        |
 | Stade Francais Paris     |         6 |   0.666667 |
 | Bordeaux Begles          |         6 |   0.166667 |
 | Benetton Treviso         |         6 |   1        |
@@ -53,12 +53,12 @@ categories: player
 | Ospreys                  |         5 |   1        |
 | Toulon                   |         5 |   0.6      |
 | Australia                |         5 |   0.6      |
+| Leinster                 |         5 |   0        |
 | Racing 92                |         4 |   0.75     |
 | Leicester Tigers         |         4 |   1        |
 | Saracens                 |         4 |   0.5      |
 | Perpignan                |         4 |   1        |
 | Pau                      |         4 |   0.75     |
-| Leinster                 |         4 |   0        |
 | Zebre                    |         4 |   1        |
 | Argentina                |         4 |   1        |
 | Japan                    |         3 |   0.666667 |

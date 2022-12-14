@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pedro Ortega  
-date: 2022-12-09 13:24:29.655232  
+date: 2022-12-14 11:22:32.843480  
 categories: player  
 ---
 # Pedro Ortega
 
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 89.0
 
 ## Current Percentile: 30.0
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             5 |        0.2 |
+| Rennes |             6 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Nice                       |         1 |          0 |

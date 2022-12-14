@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Calvin Nash  
-date: 2022-12-09 13:10:08.766495  
+date: 2022-12-14 11:34:28.607681  
 categories: player  
 ---
 # Calvin Nash
 
 ## Positions: W
 
-## Current elo: 117.0
+## Current elo: 114.0
 
-## Current Percentile: 87.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            39 |   0.782051 |
+| Munster |            40 |     0.7625 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,4 +38,5 @@ categories: player
 | Leinster         |         2 |   0        |
 | Southern Kings   |         2 |   1        |
 | Lions            |         1 |   0        |
+| Stade Toulousain |         1 |   0        |
 | Stormers         |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Harris  
-date: 2022-12-09 13:14:03.240394  
+date: 2022-12-14 11:19:27.695986  
 categories: player  
 ---
 # Chris Harris
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 86.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Newcastle Falcons       |           102 |   0.397059 |
-| Gloucester Rugby        |            49 |   0.5      |
+| Gloucester Rugby        |            50 |   0.51     |
 | Scotland                |            37 |   0.635135 |
 | British and Irish Lions |             1 |   0        |
 
@@ -56,11 +56,11 @@ categories: player
 | Argentina            |         2 |   1        |
 | Samoa                |         2 |   1        |
 | Fiji                 |         2 |   1        |
+| Bordeaux Begles      |         2 |   1        |
 | Japan                |         2 |   0.5      |
 | Edinburgh            |         2 |   0        |
 | Georgia              |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
-| Bordeaux Begles      |         1 |   1        |
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Bucuresti            |         1 |   1        |

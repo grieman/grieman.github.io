@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2022-12-09 13:11:15.928933  
+date: 2022-12-12 14:56:11.392275  
 categories: player  
 ---
 # Vaso Lobzhanidze
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: 34.0
 

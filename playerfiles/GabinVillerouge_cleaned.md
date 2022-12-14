@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gabin Villerouge  
-date: 2022-12-09 13:15:41.534029  
+date: 2022-12-14 11:12:34.237460  
 categories: player  
 ---
 # Gabin Villerouge
 
 ## Positions: H
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 70.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            15 |   0.466667 |
+| Blagnac |            16 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,3 +35,4 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Massy                      |         1 |        0   |
 | Narbonne                   |         1 |        0   |
+| Suresnes                   |         1 |        1   |

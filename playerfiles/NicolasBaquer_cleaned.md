@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Baquer  
-date: 2022-12-09 13:21:01.140541  
+date: 2022-12-14 11:33:29.835517  
 categories: player  
 ---
 # Nicolas Baquer
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 

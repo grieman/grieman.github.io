@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie du Plessis  
-date: 2022-12-09 13:16:18.949304  
+date: 2022-12-14 11:35:15.758569  
 categories: player  
 ---
 # Willie du Plessis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 114.0
+## Current elo: 116.0
 
-## Current Percentile: 87.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            58 |   0.534483 |
-| Mont-de-Marsan      |            31 |   0.774194 |
+| Mont-de-Marsan      |            32 |   0.78125  |
 | Biarritz Olympique  |            14 |   0.571429 |
 | Cheetahs            |            10 |   0.3      |
 | Free State Cheetahs |            10 |   0.35     |
@@ -36,22 +36,22 @@ categories: player
 |:-----------------------|----------:|-----------:|
 | Vannes                 |         7 |   0.714286 |
 | Provence Rugby         |         6 |   0.666667 |
+| Montauban              |         6 |   0.5      |
 | Beziers                |         6 |   0.666667 |
 | Carcassonne            |         6 |   0.5      |
-| Montauban              |         6 |   0.5      |
 | Colomiers              |         5 |   0.7      |
+| Grenoble               |         5 |   0.4      |
 | Racing 92              |         5 |   0.2      |
 | Brive                  |         5 |   0.4      |
 | Nevers                 |         5 |   0.6      |
 | Biarritz Olympique     |         5 |   0.4      |
 | Oyonnax                |         5 |   0.8      |
 | Aurillac               |         5 |   0.8      |
-| Narbonne               |         4 |   1        |
 | Rouen                  |         4 |   0.75     |
+| Narbonne               |         4 |   1        |
 | Mont-de-Marsan         |         4 |   0.5      |
 | Massy                  |         4 |   0.75     |
 | La Rochelle            |         4 |   0.25     |
-| Grenoble               |         4 |   0.25     |
 | Agen                   |         3 |   0.666667 |
 | Soyaux-Angouleme       |         3 |   0.666667 |
 | Dax                    |         3 |   0.833333 |

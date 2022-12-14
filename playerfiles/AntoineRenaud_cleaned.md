@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Renaud  
-date: 2022-12-09 13:11:12.169317  
+date: 2022-12-14 11:36:12.266189  
 categories: player  
 ---
 # Antoine Renaud
 
 ## Positions: FB, FH
 
-## Current elo: 77.0
+## Current elo: 78.0
 
-## Current Percentile: 6.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Aurillac    |            34 |   0.573529 |
-| Blagnac     |            22 |   0.431818 |
+| Blagnac     |            23 |   0.456522 |
 | Carcassonne |            14 |   0.214286 |
 | Rouen       |             8 |   0.25     |
 | Dax         |             3 |   0.333333 |
@@ -42,11 +42,11 @@ categories: player
 | Colomiers                  |         3 |   1        |
 | Agen                       |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.333333 |
+| Suresnes                   |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.666667 |
 | Montauban                  |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
-| Suresnes                   |         2 |   0.5      |
 | Tarbes                     |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Vannes                     |         2 |   0.5      |

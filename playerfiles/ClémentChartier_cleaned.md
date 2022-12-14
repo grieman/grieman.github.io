@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Chartier  
-date: 2022-12-09 13:04:48.285997  
+date: 2022-12-14 11:23:36.445741  
 categories: player  
 ---
 # Clément Chartier
 
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 80.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Colomiers      |            56 |   0.535714 |
-| Provence Rugby |            13 |   0.5      |
+| Provence Rugby |            14 |   0.535714 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,11 +40,11 @@ categories: player
 | Grenoble                   |         3 |   0.666667 |
 | Nevers                     |         2 |   0.5      |
 | Perpignan                  |         2 |   1        |
+| Rouen                      |         2 |   1        |
 | US Bressane                |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
 | Dax                        |         1 |   1        |
 | Colomiers                  |         1 |   0        |
 | Brive                      |         1 |   1        |
-| Rouen                      |         1 |   1        |
 | Bayonne                    |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |

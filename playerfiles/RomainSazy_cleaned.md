@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Sazy  
-date: 2022-12-09 13:23:09.441348  
+date: 2022-12-14 11:34:34.000094  
 categories: player  
 ---
 # Romain Sazy
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           292 |   0.571918 |
+| La Rochelle |           293 |   0.573379 |
 | Montauban   |            15 |   0.133333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -52,23 +52,24 @@ categories: player
 | Oyonnax              |         5 |   0.4      |
 | Carcassonne          |         5 |   0.6      |
 | Zebre                |         4 |   0.75     |
-| Albi                 |         4 |   1        |
 | Colomiers            |         4 |   1        |
+| Albi                 |         4 |   1        |
 | Mont-de-Marsan       |         3 |   0.666667 |
-| Provence Rugby       |         3 |   0.666667 |
 | Tarbes               |         3 |   0        |
+| Provence Rugby       |         3 |   0.666667 |
 | Bristol Rugby        |         3 |   0.666667 |
-| Sale Sharks          |         2 |   0.5      |
 | Worcester Warriors   |         2 |   0.5      |
 | Wasps                |         2 |   0.5      |
-| Massy                |         2 |   1        |
+| Sale Sharks          |         2 |   0.5      |
 | Périgueux            |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
-| Newcastle Falcons    |         1 |   0        |
+| Massy                |         2 |   1        |
 | Edinburgh            |         1 |   1        |
+| Newcastle Falcons    |         1 |   0        |
+| Scarlets             |         1 |   0        |
 | RC Enisei            |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | US Bressane          |         1 |   1        |
 | Ulster               |         1 |   1        |
 | Harlequins           |         1 |   1        |
-| Scarlets             |         1 |   0        |
+| Northampton Saints   |         1 |   1        |

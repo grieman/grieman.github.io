@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Gauthier Brute de Remur  
-date: 2022-12-09 13:11:42.650620  
+date: 2022-12-14 11:18:51.375035  
 categories: player  
 ---
 # Gauthier Brute de Remur
 
 ## Positions: H
 
-## Current elo: 86.0
+## Current elo: 88.0
 
 ## Current Percentile: 17.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Chambery         |            22 |   0.545455 |
+| Chambery         |            23 |   0.565217 |
 | Carcassonne      |            13 |   0.384615 |
 | US Bressane      |            11 |   0.363636 |
 | Soyaux-Angouleme |             1 |   0        |
@@ -36,8 +36,9 @@ categories: player
 | Aurillac                   |         2 |   0.5      |
 | Bayonne                    |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
-| Narbonne                   |         2 |   0.5      |
+| Valence Romans Drome Rugby |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
+| Narbonne                   |         2 |   0.5      |
 | Montauban                  |         2 |   0.5      |
 | Tarbes                     |         2 |   1        |
 | Rennes                     |         1 |   1        |
@@ -45,7 +46,6 @@ categories: player
 | Suresnes                   |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
 | US Bressane                |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Massy                      |         1 |   0        |
 | Nice                       |         1 |   1        |

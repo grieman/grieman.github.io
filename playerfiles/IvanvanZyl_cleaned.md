@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan van Zyl  
-date: 2022-11-22 11:29:48.204220  
+date: 2022-12-14 11:31:17.913908  
 categories: player  
 ---
 # Ivan van Zyl
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Bulls        |            37 |   0.459459 |
-| Saracens     |            32 |   0.765625 |
+| Saracens     |            33 |   0.772727 |
 | Blue Bulls   |            14 |   0.5      |
 | South Africa |             6 |   0.5      |
 
@@ -54,6 +54,7 @@ categories: player
 | Queensland Reds          |         2 |   0.5      |
 | Griquas                  |         2 |   1        |
 | Worcester Warriors       |         2 |   1        |
+| Edinburgh                |         2 |   0.5      |
 | Blues                    |         2 |   0.25     |
 | Leicester Tigers         |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
@@ -61,7 +62,6 @@ categories: player
 | Crusaders                |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
-| Edinburgh                |         1 |   0        |
 | Scotland                 |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clément Clavières  
-date: 2022-12-09 13:13:23.342960  
+date: 2022-12-12 15:39:10.897228  
 categories: player  
 ---
 # Clément Clavières
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 13.0
+## Current Percentile: 12.0
 
 # Elo History
 

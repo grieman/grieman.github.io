@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Nakobukobua  
-date: 2022-12-09 13:15:53.537879  
+date: 2022-12-14 11:21:54.578252  
 categories: player  
 ---
 # Luke Nakobukobua
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 84.0
+## Current Percentile: 83.0
 
 # Elo History
 

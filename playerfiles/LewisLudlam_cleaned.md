@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Ludlam  
-date: 2022-12-09 13:07:04.362090  
+date: 2022-12-14 11:26:59.543676  
 categories: player  
 ---
 # Lewis Ludlam
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 64.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            98 |   0.479592 |
+| Northampton Saints |            99 |   0.474747 |
 | England            |            13 |   0.692308 |
 | Rotherham Titans   |             4 |   0        |
 
@@ -43,22 +43,23 @@ categories: player
 | Australia                |         4 |   0.75     |
 | London Irish             |         4 |   1        |
 | Clermont Auvergne        |         3 |   0        |
-| Leinster                 |         2 |   0        |
+| Ospreys                  |         2 |   0        |
 | Benetton Treviso         |         2 |   1        |
+| Leinster                 |         2 |   0        |
 | Wales                    |         2 |   0.5      |
 | Lyon                     |         2 |   1        |
-| Ospreys                  |         2 |   0        |
 | Scotland                 |         2 |   0.5      |
-| Scarlets                 |         1 |   1        |
+| Canada                   |         1 |   1        |
 | United States of America |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
+| Scarlets                 |         1 |   1        |
 | France                   |         1 |   0        |
-| Canada                   |         1 |   1        |
-| Ealing Trailfinders      |         1 |   0        |
+| La Rochelle              |         1 |   0        |
 | Nottingham               |         1 |   0        |
 | Cornish Pirates          |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
 | London Scottish          |         1 |   0        |
 | Dragons                  |         1 |   1        |
+| Ealing Trailfinders      |         1 |   0        |
 | Argentina                |         1 |   1        |

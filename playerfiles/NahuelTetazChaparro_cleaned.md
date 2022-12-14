@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nahuel Tetaz Chaparro  
-date: 2022-12-09 13:08:01.508480  
+date: 2022-12-14 11:14:44.372594  
 categories: player  
 ---
 # Nahuel Tetaz Chaparro
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Argentina            |            70 |   0.328571 |
 | Jaguares             |            50 |   0.56     |
 | Dragons              |            18 |   0.333333 |
-| Benetton Treviso     |            15 |   0.366667 |
+| Benetton Treviso     |            16 |   0.34375  |
 | La Plata             |            13 |   0.692308 |
 | Lyon                 |            11 |   0.409091 |
 | Stade Francais Paris |             7 |   0.357143 |
@@ -69,11 +69,11 @@ categories: player
 | Scarlets                 |         2 |  0.5       |
 | Grenoble                 |         2 |  0.5       |
 | Ospreys                  |         2 |  0         |
+| Stade Francais Paris     |         2 |  0.5       |
 | Stade Toulousain         |         2 |  0         |
 | Sunwolves                |         2 |  0.5       |
 | Bayonne                  |         2 |  0         |
 | San Luis                 |         1 |  1         |
-| Stade Francais Paris     |         1 |  1         |
 | SIC                      |         1 |  1         |
 | Romania                  |         1 |  0         |
 | Racing 92                |         1 |  0         |

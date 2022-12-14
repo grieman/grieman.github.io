@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Lavanini  
-date: 2022-12-09 13:06:39.597567  
+date: 2022-12-14 11:13:12.937131  
 categories: player  
 ---
 # Tomas Lavanini
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Argentina         |            72 |   0.270833 |
 | Jaguares          |            48 |   0.520833 |
 | Leicester Tigers  |            34 |   0.485294 |
-| Clermont Auvergne |            13 |   0.346154 |
+| Clermont Auvergne |            14 |   0.392857 |
 | Racing 92         |            10 |   0.45     |
 | Hindu             |             2 |   1        |
 
@@ -36,8 +36,8 @@ categories: player
 | Australia                |        11 |  0.272727  |
 | New Zealand              |        11 |  0.0909091 |
 | Lions                    |         7 |  0.285714  |
+| Stormers                 |         6 |  0.5       |
 | Ireland                  |         6 |  0.166667  |
-| Stormers                 |         5 |  0.4       |
 | Sharks                   |         5 |  0.6       |
 | Wales                    |         5 |  0.3       |
 | England                  |         5 |  0.2       |

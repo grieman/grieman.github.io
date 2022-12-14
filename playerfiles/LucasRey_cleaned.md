@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Rey  
-date: 2022-12-09 13:12:28.657492  
+date: 2022-12-14 11:16:05.730855  
 categories: player  
 ---
 # Lucas Rey
 
 ## Positions: H
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 23.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |           127 |   0.401575 |
+| Pau    |           128 |   0.398438 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,24 +30,25 @@ categories: player
 | Stade Francais Paris |         9 |   0.555556 |
 | Montpellier Herault  |         9 |   0.444444 |
 | La Rochelle          |         8 |   0.125    |
+| Racing 92            |         8 |   0.25     |
 | Toulon               |         8 |   0.0625   |
 | Stade Toulousain     |         8 |   0.25     |
-| Racing 92            |         8 |   0.25     |
-| Lyon                 |         7 |   0.357143 |
 | Agen                 |         7 |   0.857143 |
+| Lyon                 |         7 |   0.357143 |
 | Brive                |         7 |   0.428571 |
 | Bordeaux Begles      |         6 |   0.333333 |
-| Cardiff Blues        |         4 |   0        |
 | Perpignan            |         4 |   1        |
-| Bayonne              |         3 |   1        |
+| Cardiff Blues        |         4 |   0        |
 | Worcester Warriors   |         3 |   0.666667 |
+| Bayonne              |         3 |   1        |
+| Oyonnax              |         2 |   1        |
+| Zebre                |         2 |   1        |
 | Gloucester Rugby     |         2 |   1        |
 | Calvisano            |         2 |   1        |
-| Oyonnax              |         2 |   1        |
 | Bristol Rugby        |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
-| Zebre                |         2 |   1        |
-| Grenoble             |         1 |   1        |
-| Bath Rugby           |         1 |   0        |
-| Leicester Tigers     |         1 |   0        |
 | Ospreys              |         1 |   0        |
+| Leicester Tigers     |         1 |   0        |
+| Bath Rugby           |         1 |   0        |
+| Cheetahs             |         1 |   0        |
+| Grenoble             |         1 |   1        |

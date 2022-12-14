@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Manevy  
-date: 2022-12-09 13:13:35.597463  
+date: 2022-12-14 11:32:17.493795  
 categories: player  
 ---
 # Guillaume Manevy
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 81.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            33 |   0.424242 |
+| Nevers |            34 |   0.411765 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,6 +38,7 @@ categories: player
 | Colomiers                  |         2 |   0        |
 | Massy                      |         1 |   1        |
 | Perpignan                  |         1 |   0        |
+| Carcassonne                |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   1        |
 | US Bressane                |         1 |   1        |
 | Biarritz Olympique         |         1 |   0.5      |

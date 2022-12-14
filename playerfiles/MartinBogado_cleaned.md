@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Martin Bogado  
-date: 2022-12-09 13:04:21.757281  
+date: 2022-12-14 11:34:52.231444  
 categories: player  
 ---
 # Martin Bogado
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 102.0
+## Current elo: 100.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Jaguares XV   |             8 |       0.75 |
 | Olimpia Lions |             8 |       0.5  |
-| Bayonne       |             4 |       0.75 |
+| Bayonne       |             5 |       0.6  |
 | Argentina     |             2 |       1    |
 
 | Opponent            |   Matches |   Win Rate |
@@ -41,4 +41,5 @@ categories: player
 | Montpellier Herault |         1 |   0        |
 | Perpignan           |         1 |   1        |
 | Portugal            |         1 |   1        |
+| Scarlets            |         1 |   0        |
 | Stade Toulousain    |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Pesenti  
-date: 2022-12-09 13:19:57.171955  
+date: 2022-12-14 11:28:22.259295  
 categories: player  
 ---
 # Baptiste Pesenti
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 38.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Pau                  |            67 |   0.440299 |
+| Stade Francais Paris |            12 |   0.541667 |
 | Racing 92            |            11 |   0.636364 |
-| Stade Francais Paris |            11 |   0.5      |
 | France               |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,26 +33,27 @@ categories: player
 | Castres Olympique    |         8 |   0.375    |
 | Agen                 |         7 |   0.857143 |
 | Montpellier Herault  |         6 |   0.166667 |
+| Lyon                 |         5 |   0.5      |
 | Toulon               |         5 |   0.4      |
 | Stade Toulousain     |         5 |   0.1      |
 | Stade Francais Paris |         5 |   0.2      |
 | Perpignan            |         5 |   0.8      |
-| Lyon                 |         5 |   0.5      |
 | Clermont Auvergne    |         5 |   0.2      |
 | La Rochelle          |         5 |   0.6      |
-| Cardiff Blues        |         4 |   0.25     |
-| Brive                |         4 |   0.5      |
-| Bordeaux Begles      |         4 |   0.5      |
 | Racing 92            |         4 |   0.25     |
-| Grenoble             |         2 |   1        |
-| Australia            |         2 |   0        |
-| Leicester Tigers     |         2 |   0.5      |
-| Ospreys              |         2 |   0.5      |
+| Bordeaux Begles      |         4 |   0.5      |
+| Brive                |         4 |   0.5      |
+| Cardiff Blues        |         4 |   0.25     |
 | Pau                  |         2 |   1        |
+| Ospreys              |         2 |   0.5      |
+| Grenoble             |         2 |   1        |
+| Leicester Tigers     |         2 |   0.5      |
+| Australia            |         2 |   0        |
 | Biarritz Olympique   |         2 |   0.5      |
 | Bayonne              |         2 |   1        |
+| Oyonnax              |         1 |   1        |
 | Calvisano            |         1 |   1        |
 | Bristol Rugby        |         1 |   0        |
-| Oyonnax              |         1 |   1        |
+| Benetton Treviso     |         1 |   1        |
 | Bath Rugby           |         1 |   0        |
 | Worcester Warriors   |         1 |   1        |

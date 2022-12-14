@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Keenan  
-date: 2022-12-09 13:24:07.593628  
+date: 2022-12-14 11:19:48.519266  
 categories: player  
 ---
 # Hugo Keenan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 120.0
+## Current elo: 122.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            26 |   0.923077 |
+| Leinster |            27 |   0.925926 |
 | Ireland  |            21 |   0.761905 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -43,6 +43,7 @@ categories: player
 | Italy                    |         2 |       1    |
 | England                  |         2 |       1    |
 | Australia                |         1 |       1    |
+| Racing 92                |         1 |       1    |
 | Saracens                 |         1 |       0    |
 | Scarlets                 |         1 |       1    |
 | South Africa             |         1 |       1    |

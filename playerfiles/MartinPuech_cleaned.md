@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Martin Puech  
-date: 2022-11-16 11:38:15.013526  
+date: 2022-12-14 11:19:18.114274  
 categories: player  
 ---
 # Martin Puech
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 99.0
 
 ## Current Percentile: 67.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Pau       |            93 |   0.430108 |
+| Pau       |            95 |   0.431579 |
 | Colomiers |            92 |   0.554348 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Brive                |         9 |   0.444444 |
 | La Rochelle          |         9 |   0.111111 |
 | Agen                 |         8 |   0.4375   |
-| Brive                |         8 |   0.375    |
 | Stade Toulousain     |         8 |   0.375    |
 | Stade Francais Paris |         8 |   0.375    |
 | Perpignan            |         8 |   0.9375   |
@@ -36,17 +36,17 @@ categories: player
 | Lyon                 |         8 |   0.25     |
 | Montpellier Herault  |         7 |   0.428571 |
 | Toulon               |         7 |   0.357143 |
-| Biarritz Olympique   |         7 |   0.571429 |
 | Tarbes               |         7 |   0.428571 |
+| Biarritz Olympique   |         7 |   0.571429 |
 | Aurillac             |         7 |   0.571429 |
 | Racing 92            |         7 |   0.142857 |
-| Albi                 |         7 |   0.357143 |
 | Bordeaux Begles      |         7 |   0.571429 |
+| Albi                 |         7 |   0.357143 |
+| Mont-de-Marsan       |         6 |   0.583333 |
 | Carcassonne          |         6 |   0.666667 |
 | Castres Olympique    |         6 |   0.333333 |
-| Mont-de-Marsan       |         6 |   0.583333 |
-| Montauban            |         5 |   0.6      |
 | Narbonne             |         5 |   0.8      |
+| Montauban            |         5 |   0.6      |
 | Bourgoin-Jallieu     |         5 |   0.6      |
 | Beziers              |         5 |   0.2      |
 | Dax                  |         5 |   1        |
@@ -59,6 +59,7 @@ categories: player
 | Oyonnax              |         1 |   1        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Auch                 |         1 |   1        |
+| Cheetahs             |         1 |   0        |
 | Cardiff Blues        |         1 |   1        |
 | US Bressane          |         1 |   1        |
 | Vannes               |         1 |   1        |

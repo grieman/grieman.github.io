@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Gonzalo Jesus Garcia  
-date: 2022-12-09 13:04:45.462061  
+date: 2022-12-14 11:22:32.229066  
 categories: player  
 ---
 # Gonzalo Jesus Garcia
 
 ## Positions: SH
 
-## Current elo: 81.0
+## Current elo: 80.0
 
 ## Current Percentile: None
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Cafeteros Pro |             8 |          0 |
 | Ceibos Rugby  |             2 |          1 |
-| Zebre         |             1 |          0 |
+| Zebre         |             2 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Penarol Rugby    |         2 |   0        |
 | Glasgow Warriors |         1 |   0        |
 | Jaguares XV      |         1 |   0        |
+| Toulon           |         1 |   0        |

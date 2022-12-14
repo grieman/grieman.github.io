@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fabien Witz  
-date: 2022-12-09 13:03:49.189783  
+date: 2022-12-14 11:34:13.999136  
 categories: player  
 ---
 # Fabien Witz
 
 ## Positions: L
 
-## Current elo: 88.0
+## Current elo: 90.0
 
-## Current Percentile: 23.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -22,16 +22,16 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Nevers   |            17 |   0.294118 |
-| Chambery |            10 |   0.4      |
+| Chambery |            11 |   0.454545 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Mont-de-Marsan             |         2 |        0.5 |
+| Valence Romans Drome Rugby |         2 |        0.5 |
 | US Bressane                |         2 |        0.5 |
 | Grenoble                   |         2 |        0   |
 | Narbonne                   |         2 |        1   |
 | Montauban                  |         1 |        1   |
-| Valence Romans Drome Rugby |         1 |        0   |
 | Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        0   |
 | Rouen                      |         1 |        0   |

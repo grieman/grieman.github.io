@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Liam Coltman  
-date: 2022-12-09 13:21:08.958650  
+date: 2022-12-14 11:36:37.506324  
 categories: player  
 ---
 # Liam Coltman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 108.0
+## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Highlanders |           137 |   0.510949 |
 | Otago       |            57 |   0.54386  |
-| Lyon        |            10 |   0.6      |
+| Lyon        |            11 |   0.545455 |
 | New Zealand |             8 |   0.875    |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,10 +44,10 @@ categories: player
 | Sharks                   |         6 |   0.5      |
 | Western Force            |         6 |   0.666667 |
 | Tasman                   |         6 |   0.5      |
+| Bulls                    |         6 |   0.416667 |
 | North Harbour            |         5 |   0.8      |
 | Canterbury               |         5 |   0.2      |
 | Stormers                 |         5 |   0.6      |
-| Bulls                    |         5 |   0.5      |
 | Lions                    |         5 |   0.6      |
 | Manawatu                 |         5 |   0.8      |
 | Bay of Plenty            |         4 |   0.75     |

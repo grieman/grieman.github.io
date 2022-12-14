@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Barnabe Couilloud  
-date: 2022-12-09 13:13:37.391463  
+date: 2022-12-14 11:36:23.500911  
 categories: player  
 ---
 # Barnabe Couilloud
 
 ## Positions: SH
 
-## Current elo: 86.0
+## Current elo: 88.0
 
 ## Current Percentile: 11.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            51 |    0.54902 |
+| Biarritz Olympique |            52 |   0.557692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Grenoble                   |         3 |   0.833333 |
+| Soyaux-Angouleme           |         4 |   1        |
 | Perpignan                  |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.666667 |
 | Aurillac                   |         3 |   1        |
-| Soyaux-Angouleme           |         3 |   1        |
+| Grenoble                   |         3 |   0.833333 |
 | Carcassonne                |         2 |   1        |
 | Castres Olympique          |         2 |   0        |
 | Clermont Auvergne          |         2 |   0        |

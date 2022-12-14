@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jules Plisson  
-date: 2022-12-09 13:12:11.296786  
+date: 2022-12-14 11:32:06.037996  
 categories: player  
 ---
 # Jules Plisson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 81.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Stade Francais Paris |           192 |   0.505208 |
 | La Rochelle          |            38 |   0.631579 |
 | France               |            19 |   0.368421 |
-| Clermont Auvergne    |            10 |   0.45     |
+| Clermont Auvergne    |            11 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -75,4 +75,5 @@ categories: player
 | Ireland              |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
 | Glasgow Warriors     |         1 |   0        |
+| Stormers             |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |

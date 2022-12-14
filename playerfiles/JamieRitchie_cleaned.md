@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Ritchie  
-date: 2022-12-09 13:07:56.729479  
+date: 2022-12-14 11:15:58.355555  
 categories: player  
 ---
 # Jamie Ritchie
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 132.0
+## Current elo: 134.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            86 |   0.563953 |
+| Edinburgh |            87 |   0.557471 |
 | Scotland  |            34 |   0.617647 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -60,6 +60,7 @@ categories: player
 | Japan                |         2 |   0.5      |
 | Russia               |         1 |   1        |
 | Bulls                |         1 |   0        |
+| Saracens             |         1 |   0        |
 | Brive                |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
 | New Zealand          |         1 |   0        |

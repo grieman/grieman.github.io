@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brian Alainu'uese  
-date: 2022-12-09 13:04:53.126999  
+date: 2022-12-14 11:36:40.325896  
 categories: player  
 ---
 # Brian Alainu'uese
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 74.0
+## Current Percentile: 75.0
 
 # Elo History
 

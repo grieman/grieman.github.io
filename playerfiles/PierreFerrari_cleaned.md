@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Ferrari  
-date: 2022-12-09 13:09:10.916490  
+date: 2022-12-12 15:19:49.216729  
 categories: player  
 ---
 # Pierre Ferrari

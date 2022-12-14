@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Clement Jullien  
-date: 2022-12-09 13:10:48.397223  
+date: 2022-12-14 11:23:52.118900  
 categories: player  
 ---
 # Clement Jullien
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 88.0
 
 ## Current Percentile: 18.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            48 |   0.604167 |
+| US Bressane |            49 |   0.612245 |
 | Carcassonne |            20 |   0.4      |
 | Oyonnax     |            13 |   0.538462 |
 
@@ -32,26 +32,26 @@ categories: player
 | Aurillac                   |         4 |   0.25     |
 | Bayonne                    |         4 |   0        |
 | Montauban                  |         4 |   0.25     |
-| Bourgoin-Jallieu           |         3 |   0.666667 |
+| Provence Rugby             |         3 |   0.833333 |
+| Brive                      |         3 |   1        |
 | Suresnes                   |         3 |   1        |
 | Chambery                   |         3 |   1        |
-| Brive                      |         3 |   1        |
-| Provence Rugby             |         3 |   0.833333 |
+| Tarbes                     |         3 |   0.666667 |
+| Bourgoin-Jallieu           |         3 |   0.666667 |
 | Albi                       |         3 |   0.333333 |
 | Blagnac                    |         3 |   1        |
+| Narbonne                   |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | Oyonnax                    |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
 | Massy                      |         2 |   1        |
-| Narbonne                   |         2 |   0.5      |
 | Lyon                       |         2 |   0        |
 | Gloucester Rugby           |         2 |   0        |
-| Tarbes                     |         2 |   0.5      |
 | Carcassonne                |         2 |   0        |
 | Biarritz Olympique         |         2 |   0.5      |
 | Colomiers                  |         2 |   0        |
-| Stade Francais Paris       |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
+| Stade Francais Paris       |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | Toulon                     |         1 |   0        |
 | Rouen                      |         1 |   1        |

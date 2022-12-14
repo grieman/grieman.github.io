@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Romain Favaretto  
-date: 2022-12-09 13:22:32.912104  
+date: 2022-12-14 11:29:14.894277  
 categories: player  
 ---
 # Romain Favaretto
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 91.0
 
 ## Current Percentile: 23.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |             9 |   0.444444 |
-| Blagnac          |             8 |   0.25     |
+| Bourgoin-Jallieu |            10 |       0.5  |
+| Blagnac          |             8 |       0.25 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,6 +36,7 @@ categories: player
 | Carqueiranne-Hyères        |         1 |        1   |
 | Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        1   |
+| Rennes                     |         1 |        1   |
 | Tarbes                     |         1 |        0   |
 | US Bressane                |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        0   |

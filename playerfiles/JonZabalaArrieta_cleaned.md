@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jon Zabala Arrieta  
-date: 2022-12-09 13:22:56.157701  
+date: 2022-12-14 11:15:07.035258  
 categories: player  
 ---
 # Jon Zabala Arrieta

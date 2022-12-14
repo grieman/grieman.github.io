@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kristian Dacey  
-date: 2022-12-09 13:24:36.553614  
+date: 2022-12-14 11:32:38.054495  
 categories: player  
 ---
 # Kristian Dacey
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Cardiff Blues           |           189 |   0.486772 |
+| Cardiff Blues           |           190 |   0.489474 |
 | Wales                   |             7 |   0.571429 |
 | British and Irish Lions |             2 |   0.75     |
 
@@ -37,28 +37,28 @@ categories: player
 | Scarlets            |        15 |   0.466667 |
 | Connacht            |        14 |   0.607143 |
 | Edinburgh           |        13 |   0.769231 |
-| Leinster            |        10 |   0        |
 | Ulster              |        10 |   0.3      |
+| Leinster            |        10 |   0        |
 | Zebre               |         8 |   0.75     |
 | Montpellier Herault |         3 |   0.333333 |
 | London Irish        |         3 |   0.666667 |
-| Sharks              |         2 |   1        |
+| Stormers            |         2 |   0.5      |
+| Stade Toulousain    |         2 |   1        |
 | Saracens            |         2 |   0        |
+| Bulls               |         2 |   0        |
 | Lyon                |         2 |   1        |
-| Pau                 |         2 |   1        |
 | Bath Rugby          |         2 |   0.5      |
-| Gloucester Rugby    |         2 |   0.5      |
+| Toulon              |         2 |   0.5      |
+| Sharks              |         2 |   1        |
 | Harlequins          |         2 |   0        |
 | Grenoble            |         2 |   1        |
-| Stade Toulousain    |         2 |   1        |
-| Exeter Chiefs       |         2 |   0.25     |
-| Stormers            |         2 |   0.5      |
-| Toulon              |         2 |   0.5      |
-| Bulls               |         2 |   0        |
+| Gloucester Rugby    |         2 |   0.5      |
 | Rovigo              |         2 |   1        |
+| Exeter Chiefs       |         2 |   0.25     |
+| Pau                 |         2 |   1        |
+| Tonga               |         1 |   1        |
 | South Africa        |         1 |   1        |
 | Sale Sharks         |         1 |   1        |
-| Tonga               |         1 |   1        |
 | Worcester Warriors  |         1 |   0        |
 | Australia           |         1 |   0        |
 | Newcastle Falcons   |         1 |   1        |
@@ -70,5 +70,6 @@ categories: player
 | Chiefs              |         1 |   1        |
 | Cheetahs            |         1 |   1        |
 | Calvisano           |         1 |   1        |
+| Brive               |         1 |   1        |
 | Bristol Rugby       |         1 |   1        |
 | Lions               |         1 |   0        |

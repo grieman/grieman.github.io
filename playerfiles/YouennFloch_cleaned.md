@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Youenn Floch  
-date: 2022-11-22 11:28:48.978805  
+date: 2022-12-14 11:20:30.137773  
 categories: player  
 ---
 # Youenn Floch
 
 ## Positions: C
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 31.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |             2 |        0.5 |
+| Vannes |             3 |   0.333333 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Aurillac   |         1 |          0 |
 | Beziers    |         1 |          1 |
 | Rouen      |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Babillot  
-date: 2022-12-09 13:24:16.906313  
+date: 2022-12-14 11:19:46.531609  
 categories: player  
 ---
 # Mathieu Babillot
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 70.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           155 |   0.532258 |
+| Castres Olympique |           156 |   0.528846 |
 | France            |             5 |   0.2      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -49,12 +49,12 @@ categories: player
 | Wasps                |         2 |   0        |
 | New Zealand          |         2 |   0        |
 | Munster              |         2 |   0.5      |
+| Exeter Chiefs        |         2 |   0.5      |
 | Dragons              |         1 |   0        |
 | Argentina            |         1 |   1        |
 | Leicester Tigers     |         1 |   1        |
 | Sale Sharks          |         1 |   0        |
 | South Africa         |         1 |   0        |
-| Exeter Chiefs        |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Ulster               |         1 |   0        |

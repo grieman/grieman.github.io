@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Joe Jenkins  
-date: 2022-12-09 13:15:04.354730  
+date: 2022-12-14 11:15:50.362972  
 categories: player  
 ---
 # Joe Jenkins
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 94.0
 
 ## Current Percentile: 33.0
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |             3 |   0.166667 |
+| Bristol Rugby |             4 |      0.375 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Leicester Tigers |         1 |        0.5 |
+| Perpignan        |         1 |        1   |
 | Sale Sharks      |         1 |        0   |
 | Saracens         |         1 |        0   |

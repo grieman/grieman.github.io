@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Dycke  
-date: 2022-12-09 13:16:48.339898  
+date: 2022-12-14 11:20:28.826928  
 categories: player  
 ---
 # Lucas Dycke
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 32.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            12 |   0.583333 |
+| Suresnes |            13 |   0.538462 |
 | Vannes   |             2 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          1 |
 | Beziers                    |         1 |          1 |
+| Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          1 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          1 |

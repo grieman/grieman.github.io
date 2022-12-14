@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Owen Farrell  
-date: 2022-11-22 11:40:11.309545  
+date: 2022-12-14 11:21:51.141934  
 categories: player  
 ---
 # Owen Farrell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 139.0
+## Current elo: 134.0
 
-## Current Percentile: 100.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           224 |   0.805804 |
-| England                 |            89 |   0.696629 |
+| Saracens                |           225 |   0.806667 |
+| England                 |            90 |   0.688889 |
 | British and Irish Lions |             8 |   0.5625   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Northampton Saints       |        18 |   0.694444 |
 | Harlequins               |        18 |   0.833333 |
+| Northampton Saints       |        18 |   0.694444 |
 | Bath Rugby               |        16 |   0.9375   |
 | Exeter Chiefs            |        15 |   0.666667 |
 | Wasps                    |        14 |   0.857143 |
@@ -39,25 +39,26 @@ categories: player
 | Leicester Tigers         |        13 |   0.730769 |
 | Sale Sharks              |        12 |   0.833333 |
 | Wales                    |        11 |   0.454545 |
+| South Africa             |        11 |   0.363636 |
 | Newcastle Falcons        |        10 |   1        |
 | Ireland                  |        10 |   0.7      |
-| France                   |        10 |   0.7      |
 | New Zealand              |        10 |   0.4      |
-| South Africa             |        10 |   0.4      |
+| France                   |        10 |   0.7      |
 | Clermont Auvergne        |         9 |   0.333333 |
 | Scotland                 |         9 |   0.722222 |
 | Italy                    |         9 |   1        |
-| London Irish             |         8 |   1        |
 | Worcester Warriors       |         8 |   1        |
+| London Irish             |         8 |   1        |
 | Munster                  |         7 |   0.714286 |
 | Racing 92                |         6 |   0.833333 |
-| Ulster                   |         4 |   1        |
-| Argentina                |         4 |   0.75     |
-| Bristol Rugby            |         4 |   1        |
 | Scarlets                 |         4 |   0.625    |
 | Ospreys                  |         4 |   0.875    |
-| Toulon                   |         4 |   0.5      |
 | Stade Toulousain         |         4 |   0.5      |
+| Toulon                   |         4 |   0.5      |
+| Argentina                |         4 |   0.75     |
+| Ulster                   |         4 |   1        |
+| Bristol Rugby            |         4 |   1        |
+| Edinburgh                |         3 |   1        |
 | London Welsh             |         3 |   1        |
 | Leinster                 |         3 |   0.333333 |
 | Oyonnax                  |         2 |   1        |
@@ -65,10 +66,9 @@ categories: player
 | Lyon                     |         2 |   1        |
 | Japan                    |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
-| Glasgow Warriors         |         2 |   1        |
 | Biarritz Olympique       |         2 |   0.5      |
+| Glasgow Warriors         |         2 |   1        |
 | Fiji                     |         2 |   1        |
-| Edinburgh                |         2 |   1        |
 | Cardiff Blues            |         2 |   1        |
 | Connacht                 |         2 |   1        |
 | Tonga                    |         1 |   1        |

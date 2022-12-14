@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Munilla lo Duca  
-date: 2022-12-09 13:24:35.323112  
+date: 2022-12-14 11:26:23.239376  
 categories: player  
 ---
 # Tomas Munilla lo Duca
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 63.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Beziers          |            32 |      0.375 |
 | Spain            |             8 |      0.875 |
-| Bourgoin-Jallieu |             4 |      0.5   |
+| Bourgoin-Jallieu |             5 |      0.6   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -41,13 +41,14 @@ categories: player
 | Vannes                     |         2 |   0.5      |
 | Colomiers                  |         2 |   0.5      |
 | Georgia                    |         1 |   0        |
-| Romania                    |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | US Bressane                |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Russia                     |         1 |   1        |
 | Blagnac                    |         1 |   0        |
 | Brive                      |         1 |   1        |
+| Romania                    |         1 |   1        |
 | Canada                     |         1 |   1        |
 | Grenoble                   |         1 |   0        |
 | Perpignan                  |         1 |   0        |

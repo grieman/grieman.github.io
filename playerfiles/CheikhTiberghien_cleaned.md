@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cheikh Tiberghien  
-date: 2022-12-09 13:21:42.394044  
+date: 2022-12-14 11:13:00.081159  
 categories: player  
 ---
 # Cheikh Tiberghien
 
 ## Positions: FB, W
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 24.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            46 |   0.532609 |
+| Clermont Auvergne |            47 |   0.542553 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,3 +40,4 @@ categories: player
 | Biarritz Olympique   |         2 |   1        |
 | La Rochelle          |         2 |   0        |
 | Lyon                 |         2 |   0.5      |
+| Stormers             |         1 |   1        |

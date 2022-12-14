@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Mensa  
-date: 2022-11-22 11:34:07.567266  
+date: 2022-12-14 11:33:40.420549  
 categories: player  
 ---
 # Lucas Mensa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 66.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Pucara                     |            40 |   0.5625   |
-| Mont-de-Marsan             |            23 |   0.652174 |
+| Mont-de-Marsan             |            24 |   0.666667 |
 | Valence Romans Drome Rugby |            17 |   0.382353 |
 | Argentina                  |             5 |   0.4      |
 | Ceibos Rugby               |             2 |   1        |
@@ -33,9 +33,9 @@ categories: player
 |:---------------------|----------:|-----------:|
 | SIC                  |         6 |   0.5      |
 | Newman               |         6 |   0.833333 |
+| Grenoble             |         5 |   0.4      |
 | Colomiers            |         5 |   0.6      |
 | Hindu                |         5 |   0.4      |
-| Grenoble             |         4 |   0.25     |
 | Belgrano             |         4 |   0.5      |
 | Agen                 |         3 |   0.666667 |
 | San Luis             |         3 |   0.333333 |

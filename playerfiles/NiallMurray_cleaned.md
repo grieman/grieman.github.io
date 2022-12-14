@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Niall Murray  
-date: 2022-12-09 13:06:06.375741  
+date: 2022-12-14 11:28:40.569425  
 categories: player  
 ---
 # Niall Murray
 
 ## Positions: L
 
-## Current elo: 103.0
+## Current elo: 105.0
 
-## Current Percentile: 70.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |            35 |   0.428571 |
+| Connacht |            36 |   0.444444 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Leicester Tigers     |         2 |   0        |
 | Sharks               |         1 |   0        |
 | Montpellier Herault  |         1 |   0        |
+| Newcastle Falcons    |         1 |   1        |
 | Cardiff Blues        |         1 |   0        |
 | Lions                |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |

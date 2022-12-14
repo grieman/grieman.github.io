@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Giorgi Pertaia  
-date: 2022-12-09 13:16:18.170304  
+date: 2022-12-14 11:21:30.367668  
 categories: player  
 ---
 # Giorgi Pertaia
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 48.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Chambery   |            11 |   0.363636 |
+| Chambery   |            12 |   0.416667 |
 | Black Lion |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -37,4 +37,5 @@ categories: player
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          1 |
 | US Bressane                |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          1 |
 | Zimbabwe Goshawks          |         1 |          1 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Isimeli Kuruibua  
-date: 2022-11-22 11:34:17.625246  
+date: 2022-12-14 11:35:14.630451  
 categories: player  
 ---
 # Isimeli Kuruibua
 
 ## Positions: W, C
 
-## Current elo: 91.0
+## Current elo: 88.0
 
-## Current Percentile: 41.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,11 +21,13 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            10 |          0 |
+| Cognac Saint Jean d'Angély |            12 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          0 |
+| Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          0 |
 | Chambery                   |         1 |          0 |
 | Dax                        |         1 |          0 |

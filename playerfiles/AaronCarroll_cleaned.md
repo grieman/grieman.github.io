@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Aaron Carroll  
-date: 2022-12-09 13:07:20.751388  
+date: 2022-12-14 11:22:15.962478  
 categories: player  
 ---
 # Aaron Carroll
 
 ## Positions: FL, L
 
-## Current elo: 103.0
+## Current elo: 105.0
 
 ## Current Percentile: 77.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
+| Carcassonne   |            17 |   0.470588 |
 | Bay of Plenty |            16 |   0.6875   |
-| Carcassonne   |            16 |   0.4375   |
 | Blues         |             6 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -30,20 +30,21 @@ categories: player
 | Hawke's Bay      |         3 |   0.666667 |
 | Manawatu         |         3 |   0.666667 |
 | Beziers          |         3 |   1        |
-| Northland        |         2 |   1        |
 | Taranaki         |         2 |   1        |
 | Colomiers        |         2 |   0.5      |
 | Southland        |         2 |   1        |
 | Provence Rugby   |         2 |   0        |
 | Montauban        |         2 |   0.5      |
+| Northland        |         2 |   1        |
 | Bayonne          |         1 |   0        |
+| North Harbour    |         1 |   0        |
 | Stormers         |         1 |   1        |
 | Soyaux-Angouleme |         1 |   0        |
 | Rouen            |         1 |   1        |
 | Oyonnax          |         1 |   0        |
 | Otago            |         1 |   0        |
 | Massy            |         1 |   0        |
-| North Harbour    |         1 |   0        |
+| Nevers           |         1 |   1        |
 | Lions            |         1 |   1        |
 | Hurricanes       |         1 |   0        |
 | Highlanders      |         1 |   1        |

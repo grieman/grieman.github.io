@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Piers Francis  
-date: 2022-12-09 13:05:05.235374  
+date: 2022-12-14 11:35:27.827706  
 categories: player  
 ---
 # Piers Francis
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 109.0
+## Current elo: 107.0
 
 ## Current Percentile: 84.0
 
@@ -28,7 +28,7 @@ categories: player
 | Counties Manukau   |            19 |   0.526316 |
 | Edinburgh          |            18 |   0.166667 |
 | England            |            10 |   0.7      |
-| Bath Rugby         |             6 |   0        |
+| Bath Rugby         |             7 |   0        |
 | Auckland           |             2 |   0.5      |
 | Waikato            |             1 |   1        |
 
@@ -45,9 +45,9 @@ categories: player
 | Bristol Rugby            |         6 |   0.166667 |
 | Leicester Tigers         |         4 |   0.75     |
 | London Irish             |         4 |   0.5      |
+| Glasgow Warriors         |         4 |   0        |
 | Munster                  |         3 |   0        |
 | Leinster                 |         3 |   0        |
-| Glasgow Warriors         |         3 |   0        |
 | Clermont Auvergne        |         3 |   0        |
 | Chiefs                   |         3 |   0.166667 |
 | Newcastle Falcons        |         3 |   0        |

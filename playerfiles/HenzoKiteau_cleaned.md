@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henzo Kiteau  
-date: 2022-12-09 13:12:48.689123  
+date: 2022-12-14 11:18:20.476577  
 categories: player  
 ---
 # Henzo Kiteau
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |             8 |        0.5 |
+| Aurillac |             9 |   0.555556 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Montauban          |         1 |          1 |
 | Nevers             |         1 |          1 |
 | Oyonnax            |         1 |          0 |
+| Vannes             |         1 |          1 |

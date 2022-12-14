@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Boris Palu  
-date: 2022-12-09 13:12:27.105990  
+date: 2022-12-14 11:20:23.164337  
 categories: player  
 ---
 # Boris Palu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 83.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |           134 |   0.615672 |
+| Racing 92 |           135 |   0.611111 |
 | France    |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -45,10 +45,10 @@ categories: player
 | Leicester Tigers     |         3 |   1        |
 | Saracens             |         3 |   0.666667 |
 | Munster              |         3 |   0.833333 |
-| Grenoble             |         2 |   1        |
-| Ospreys              |         2 |   1        |
 | Scarlets             |         2 |   1        |
-| Leinster             |         1 |   0        |
+| Leinster             |         2 |   0        |
+| Ospreys              |         2 |   1        |
+| Grenoble             |         2 |   1        |
 | Italy                |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
 | England              |         1 |   1        |

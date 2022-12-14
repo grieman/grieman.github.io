@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emiliano Boffelli  
-date: 2022-11-22 11:48:10.939898  
+date: 2022-12-14 11:23:40.609789  
 categories: player  
 ---
 # Emiliano Boffelli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 87.0
+## Current elo: 89.0
 
-## Current Percentile: 24.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Jaguares  |            54 |   0.5      |
 | Argentina |            52 |   0.230769 |
-| Edinburgh |            20 |   0.55     |
+| Edinburgh |            21 |   0.52381  |
 | Racing 92 |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,24 +41,24 @@ categories: player
 | Stormers                 |         5 |   0.4      |
 | Hurricanes               |         4 |   0.25     |
 | Chiefs                   |         4 |   0.5      |
-| Ireland                  |         3 |   0        |
-| Crusaders                |         3 |   0        |
-| Wales                    |         3 |   0        |
-| Brumbies                 |         3 |   1        |
 | Southern Kings           |         3 |   0.333333 |
 | New South Wales Waratahs |         3 |   1        |
-| Queensland Reds          |         3 |   0.666667 |
 | France                   |         3 |   0        |
-| Cardiff Blues            |         2 |   1        |
-| Blues                    |         2 |   0.5      |
+| Wales                    |         3 |   0        |
+| Queensland Reds          |         3 |   0.666667 |
+| Ireland                  |         3 |   0        |
+| Brumbies                 |         3 |   1        |
+| Crusaders                |         3 |   0        |
 | Italy                    |         2 |   1        |
-| Benetton Treviso         |         2 |   1        |
-| Glasgow Warriors         |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   1        |
+| Blues                    |         2 |   0.5      |
+| Benetton Treviso         |         2 |   1        |
+| Cardiff Blues            |         2 |   1        |
+| Saracens                 |         2 |   0.5      |
+| Glasgow Warriors         |         2 |   0.5      |
 | Sunwolves                |         2 |   0.5      |
 | Tonga                    |         1 |   1        |
 | Stade Francais Paris     |         1 |   0        |
-| Saracens                 |         1 |   1        |
 | Ulster                   |         1 |   0        |
 | Brive                    |         1 |   1        |
 | Lyon                     |         1 |   1        |

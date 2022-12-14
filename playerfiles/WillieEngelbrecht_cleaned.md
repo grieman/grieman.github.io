@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Willie Engelbrecht  
-date: 2022-12-09 13:07:29.280223  
+date: 2022-12-12 15:31:53.842262  
 categories: player  
 ---
 # Willie Engelbrecht
 
 ## Positions: N8, FL
 
-## Current elo: 108.0
+## Current elo: 107.0
 
 ## Current Percentile: 89.0
 

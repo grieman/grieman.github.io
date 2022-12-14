@@ -4,10 +4,10 @@ title: Scarlets at Cheetahs
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Scarlets (~1439.67) at Cheetahs (~1508.96)
+# Scarlets (~1464.41) at Cheetahs (~1518.33)
 
-# Prediction: Cheetahs by 9.9
+# Prediction: Cheetahs by 8.4
 
 
-Cheetahs by 6.9 on a neutral pitch
+Cheetahs by 5.4 on a neutral pitch
 

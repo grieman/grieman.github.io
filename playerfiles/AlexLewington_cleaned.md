@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Lewington  
-date: 2022-11-22 11:39:34.011430  
+date: 2022-12-14 11:28:42.100403  
 categories: player  
 ---
 # Alex Lewington
 
 ## Positions: W
 
-## Current elo: 103.0
+## Current elo: 99.0
 
-## Current Percentile: 70.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | London Irish     |           106 |   0.363208 |
-| Saracens         |            87 |   0.770115 |
+| Saracens         |            88 |   0.772727 |
 | Leicester Tigers |             8 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -31,23 +31,23 @@ categories: player
 | Bath Rugby           |        15 |   0.366667 |
 | Newcastle Falcons    |        14 |   0.642857 |
 | Harlequins           |        14 |   0.642857 |
+| Northampton Saints   |        13 |   0.384615 |
 | Leicester Tigers     |        13 |   0.538462 |
 | Exeter Chiefs        |        13 |   0.307692 |
-| Northampton Saints   |        13 |   0.384615 |
 | Gloucester Rugby     |        12 |   0.25     |
 | Sale Sharks          |        11 |   0.636364 |
 | Saracens             |         8 |   0.125    |
 | Worcester Warriors   |         7 |   0.714286 |
 | London Irish         |         6 |   0.75     |
 | Bristol Rugby        |         6 |   0.666667 |
+| Edinburgh            |         5 |   0.4      |
 | Cardiff Blues        |         5 |   0.8      |
 | Grenoble             |         4 |   0.5      |
-| Edinburgh            |         4 |   0.25     |
 | Ospreys              |         3 |   0.666667 |
 | Lusitanos XV         |         2 |   1        |
 | Racing 92            |         2 |   0.5      |
-| Munster              |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
+| Munster              |         2 |   0.5      |
 | Lyon                 |         2 |   1        |
 | Agen                 |         2 |   1        |
 | London Welsh         |         2 |   1        |

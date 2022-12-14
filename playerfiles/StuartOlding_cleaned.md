@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart Olding  
-date: 2022-12-09 13:18:44.872595  
+date: 2022-12-12 15:27:46.994382  
 categories: player  
 ---
 # Stuart Olding
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 51.0
+## Current Percentile: 52.0
 
 # Elo History
 

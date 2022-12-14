@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rodrigue Neti  
-date: 2022-12-09 13:06:22.623343  
+date: 2022-12-14 11:36:55.450119  
 categories: player  
 ---
 # Rodrigue Neti
 
 ## Positions: P
 
-## Current elo: 83.0
+## Current elo: 85.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |           100 |      0.605 |
+| Stade Toulousain |           101 |   0.608911 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,6 +42,7 @@ categories: player
 | Agen                 |         2 |   1        |
 | Grenoble             |         2 |   1        |
 | Oyonnax              |         1 |   0.5      |
+| Munster              |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
 | Connacht             |         1 |   1        |
 | Cardiff Blues        |         1 |   0        |

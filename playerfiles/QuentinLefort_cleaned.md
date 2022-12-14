@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Lefort  
-date: 2022-12-09 13:22:18.999301  
+date: 2022-12-12 15:30:16.225055  
 categories: player  
 ---
 # Quentin Lefort
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Zack Holmes  
-date: 2022-12-09 13:15:25.197745  
+date: 2022-12-14 11:27:15.485810  
 categories: player  
 ---
 # Zack Holmes
 
 ## Positions: FH, C
 
-## Current elo: 126.0
+## Current elo: 129.0
 
 ## Current Percentile: 97.0
 
@@ -25,8 +25,8 @@ categories: player
 | La Rochelle      |            49 |   0.561224 |
 | Western Force    |            26 |   0.423077 |
 | Brumbies         |            15 |   0.566667 |
+| Bordeaux Begles  |            10 |   0.45     |
 | Perth Spirit     |            10 |   0.4      |
-| Bordeaux Begles  |             9 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -45,10 +45,10 @@ categories: player
 | Bayonne                  |         7 |   0.714286 |
 | Melbourne Rebels         |         6 |   0.666667 |
 | Grenoble                 |         6 |   0.833333 |
+| Gloucester Rugby         |         5 |   0.4      |
 | Queensland Reds          |         5 |   0.4      |
 | Stade Toulousain         |         5 |   0.6      |
 | Brumbies                 |         4 |   0        |
-| Gloucester Rugby         |         4 |   0.5      |
 | Perpignan                |         4 |   0.5      |
 | New South Wales Waratahs |         4 |   0.75     |
 | Cheetahs                 |         3 |   0.666667 |

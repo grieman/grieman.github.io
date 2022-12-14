@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Bridge  
-date: 2022-12-09 13:08:22.368907  
+date: 2022-12-14 11:34:19.507741  
 categories: player  
 ---
 # George Bridge
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 119.0
+## Current elo: 120.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Crusaders           |            83 |   0.843373 |
 | Canterbury          |            40 |   0.8      |
 | New Zealand         |            19 |   0.789474 |
-| Montpellier Herault |             1 |   0        |
+| Montpellier Herault |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,42 +36,43 @@ categories: player
 | Blues                    |        10 |   0.9      |
 | North Harbour            |         5 |   1        |
 | Queensland Reds          |         5 |   1        |
-| Counties Manukau         |         4 |   0.75     |
-| Taranaki                 |         4 |   0.5      |
-| Tasman                   |         4 |   1        |
 | Lions                    |         4 |   1        |
-| Wellington               |         4 |   0.5      |
-| Australia                |         4 |   0.625    |
 | Hawke's Bay              |         4 |   1        |
-| Manawatu                 |         3 |   0.666667 |
-| Melbourne Rebels         |         3 |   1        |
+| Australia                |         4 |   0.625    |
+| Wellington               |         4 |   0.5      |
+| Tasman                   |         4 |   1        |
+| Taranaki                 |         4 |   0.5      |
+| Counties Manukau         |         4 |   0.75     |
+| New South Wales Waratahs |         3 |   0.666667 |
 | Auckland                 |         3 |   0.333333 |
 | Northland                |         3 |   1        |
 | Stormers                 |         3 |   0.833333 |
 | South Africa             |         3 |   0.833333 |
-| New South Wales Waratahs |         3 |   0.666667 |
+| Melbourne Rebels         |         3 |   1        |
 | Sunwolves                |         3 |   1        |
 | Bulls                    |         3 |   1        |
 | Brumbies                 |         3 |   1        |
+| Manawatu                 |         3 |   0.666667 |
 | Sharks                   |         2 |   0.75     |
 | Otago                    |         2 |   1        |
 | Tonga                    |         2 |   1        |
 | Argentina                |         2 |   1        |
 | Western Force            |         2 |   1        |
-| Jaguares                 |         2 |   1        |
 | Bay of Plenty            |         2 |   1        |
-| Namibia                  |         1 |   1        |
-| England                  |         1 |   0        |
+| Jaguares                 |         2 |   1        |
+| Fiji                     |         1 |   1        |
 | Waikato                  |         1 |   1        |
 | United States of America |         1 |   1        |
 | British and Irish Lions  |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
-| Fiji                     |         1 |   1        |
+| England                  |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |
-| Southland                |         1 |   1        |
+| Namibia                  |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | France                   |         1 |   0        |
 | Ireland                  |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Japan                    |         1 |   1        |
+| London Irish             |         1 |   1        |
+| Southland                |         1 |   1        |

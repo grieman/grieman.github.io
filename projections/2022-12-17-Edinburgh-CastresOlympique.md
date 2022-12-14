@@ -4,10 +4,10 @@ title: Castres Olympique at Edinburgh
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Castres Olympique (~1522.93) at Edinburgh (~1546.21)
+# Castres Olympique (~1508.43) at Edinburgh (~1569.63)
 
-# Prediction: Edinburgh by 5.3
+# Prediction: Edinburgh by 9.1
 
 
-Edinburgh by 2.3 on a neutral pitch
+Edinburgh by 6.1 on a neutral pitch
 

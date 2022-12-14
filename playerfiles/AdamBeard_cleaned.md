@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Beard  
-date: 2022-11-22 11:42:38.838208  
+date: 2022-12-14 11:21:38.477517  
 categories: player  
 ---
 # Adam Beard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 96.0
+## Current elo: 91.0
 
-## Current Percentile: 69.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Ospreys                 |            98 |   0.556122 |
-| Wales                   |            41 |   0.585366 |
+| Ospreys                 |            99 |   0.550505 |
+| Wales                   |            42 |   0.571429 |
 | British and Irish Lions |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,43 +33,44 @@ categories: player
 | Cardiff Blues        |        11 |   0.818182 |
 | Scarlets             |         9 |   0.277778 |
 | South Africa         |         8 |   0.375    |
-| Ireland              |         6 |   0.333333 |
 | Glasgow Warriors     |         6 |   0.583333 |
-| Saracens             |         5 |   0.1      |
+| Ireland              |         6 |   0.333333 |
 | Munster              |         5 |   0.2      |
+| Saracens             |         5 |   0.1      |
 | Zebre                |         5 |   0.6      |
-| Cheetahs             |         4 |   0.75     |
 | Scotland             |         4 |   1        |
-| Ulster               |         4 |   0.25     |
-| Benetton Treviso     |         4 |   0.75     |
+| Cheetahs             |         4 |   0.75     |
 | England              |         4 |   0.5      |
+| Ulster               |         4 |   0.25     |
 | France               |         4 |   0.5      |
+| Benetton Treviso     |         4 |   0.75     |
 | Leinster             |         4 |   0.25     |
 | New Zealand          |         3 |   0        |
+| Australia            |         3 |   0.666667 |
 | Argentina            |         3 |   1        |
 | Connacht             |         3 |   1        |
 | Northampton Saints   |         2 |   1        |
 | Worcester Warriors   |         2 |   0.5      |
 | Stormers             |         2 |   0.25     |
 | Southern Kings       |         2 |   1        |
-| Italy                |         2 |   0.5      |
 | Edinburgh            |         2 |   1        |
 | Racing 92            |         2 |   0        |
+| Italy                |         2 |   0.5      |
 | Lyon                 |         2 |   1        |
-| Australia            |         2 |   1        |
 | Georgia              |         2 |   0.5      |
-| Stade Francais Paris |         1 |   1        |
+| Pau                  |         1 |   1        |
+| Grenoble             |         1 |   1        |
 | Wasps                |         1 |   1        |
 | Uruguay              |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |
 | Tonga                |         1 |   1        |
-| Lions                |         1 |   0        |
-| Pau                  |         1 |   1        |
+| Stade Francais Paris |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
 | Bulls                |         1 |   0        |
 | Sharks               |         1 |   0        |
 | Clermont Auvergne    |         1 |   0        |
+| Leicester Tigers     |         1 |   0        |
 | Fiji                 |         1 |   1        |
-| Exeter Chiefs        |         1 |   0        |
 | Samoa                |         1 |   1        |
-| Grenoble             |         1 |   1        |
+| Exeter Chiefs        |         1 |   0        |
+| Lions                |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Louis Suaud  
-date: 2022-12-09 13:21:03.999669  
+date: 2022-12-14 11:22:43.313608  
 categories: player  
 ---
 # Louis Suaud
 
 ## Positions: FL
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 35.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |            23 |   0.652174 |
+| Nice   |            24 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Tarbes                     |         2 |   1        |
 | Aubenas                    |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Dax                        |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |

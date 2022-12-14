@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Francois Uys  
-date: 2022-12-09 13:11:40.191119  
+date: 2022-12-14 11:27:12.771531  
 categories: player  
 ---
 # Francois Uys
 
 ## Positions: L, FL
 
-## Current elo: 111.0
+## Current elo: 109.0
 
 ## Current Percentile: 87.0
 
@@ -24,7 +24,7 @@ categories: player
 | Cheetahs                   |            93 |   0.33871  |
 | Free State Cheetahs        |            52 |   0.528846 |
 | Grenoble                   |            43 |   0.476744 |
-| Valence Romans Drome Rugby |            36 |   0.611111 |
+| Valence Romans Drome Rugby |            37 |   0.594595 |
 | Roval Drome XV             |            15 |   0.2      |
 | Griffons                   |             4 |   0.5      |
 | Toyota Verblitz            |             1 |   1        |
@@ -50,8 +50,8 @@ categories: player
 | Blues                      |         5 |   0.2      |
 | Agen                       |         4 |   0.375    |
 | Beziers                    |         4 |   0.375    |
-| Western Force              |         4 |   0.75     |
 | Chiefs                     |         4 |   0.125    |
+| Western Force              |         4 |   0.75     |
 | Montauban                  |         4 |   0.25     |
 | Colomiers                  |         4 |   0.25     |
 | Melbourne Rebels           |         4 |   0.5      |
@@ -66,38 +66,38 @@ categories: player
 | Bourgoin-Jallieu           |         3 |   0.5      |
 | Suresnes                   |         3 |   1        |
 | Crusaders                  |         3 |   0.333333 |
+| Chambery                   |         3 |   0.666667 |
+| Bayonne                    |         2 |   1        |
 | Rouen                      |         2 |   0        |
 | Benetton Treviso           |         2 |   0        |
-| Bayonne                    |         2 |   1        |
 | Nevers                     |         2 |   0.5      |
 | Aurillac                   |         2 |   1        |
-| Pau                        |         2 |   0        |
 | Stade Francais Paris       |         2 |   0.5      |
 | Tarbes                     |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
+| Pau                        |         2 |   0        |
 | Biarritz Olympique         |         2 |   0        |
 | Carcassonne                |         2 |   1        |
 | Blagnac                    |         2 |   1        |
 | Grenoble                   |         2 |   0        |
-| Chambery                   |         2 |   1        |
 | Clermont Auvergne          |         2 |   0.25     |
-| Albi                       |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
+| Albi                       |         2 |   0.5      |
 | Dax                        |         2 |   0.5      |
-| Bordeaux Begles            |         2 |   0.5      |
 | Eastern Province Kings     |         2 |   0.5      |
+| Bordeaux Begles            |         2 |   0.5      |
 | US Bressane                |         1 |   0        |
 | Toulon                     |         1 |   1        |
 | Dijon                      |         1 |   0        |
 | Aubenas                    |         1 |   1        |
 | Stade Toulousain           |         1 |   0        |
+| Border Bulldogs            |         1 |   1        |
 | Harlequins                 |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
-| Border Bulldogs            |         1 |   1        |
 | SWD Eagles                 |         1 |   0        |
+| Jaguares                   |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Racing 92                  |         1 |   0        |
-| Jaguares                   |         1 |   0        |
 | Kobelco Kobe Steelers      |         1 |   1        |
 | La Rochelle                |         1 |   0        |
 | Lyon                       |         1 |   0        |

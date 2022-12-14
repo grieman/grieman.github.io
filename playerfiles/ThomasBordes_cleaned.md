@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Bordes  
-date: 2022-12-09 13:22:06.767099  
+date: 2022-12-14 11:28:57.359386  
 categories: player  
 ---
 # Thomas Bordes
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 13.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Massy          |            35 |   0.314286 |
-| Suresnes       |            19 |   0.315789 |
+| Suresnes       |            20 |   0.3      |
 | Oyonnax        |            18 |   0.166667 |
 | Mont-de-Marsan |             9 |   0.222222 |
 
@@ -50,9 +50,10 @@ categories: player
 | Aubenas                    |         2 |   0.5      |
 | Carcassonne                |         2 |   0.5      |
 | Brive                      |         2 |   0.5      |
+| Blagnac                    |         2 |   0        |
 | Beziers                    |         2 |   0        |
 | Dijon                      |         1 |   1        |
-| Biarritz Olympique         |         1 |   1        |
+| Racing 92                  |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |
 | Ulster                     |         1 |   0        |
 | Toulon                     |         1 |   0        |
@@ -60,11 +61,10 @@ categories: player
 | Stade Francais Paris       |         1 |   0        |
 | Bayonne                    |         1 |   0        |
 | Rennes                     |         1 |   1        |
-| Racing 92                  |         1 |   0        |
 | Perpignan                  |         1 |   0        |
+| Biarritz Olympique         |         1 |   1        |
 | Colomiers                  |         1 |   1        |
 | Pau                        |         1 |   0        |
-| Blagnac                    |         1 |   0        |
 | Nice                       |         1 |   0        |
 | Nevers                     |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |

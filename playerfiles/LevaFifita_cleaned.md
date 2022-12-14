@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leva Fifita  
-date: 2022-11-22 11:41:40.316532  
+date: 2022-12-14 11:31:22.307534  
 categories: player  
 ---
 # Leva Fifita
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 118.0
+## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:---------|--------------:|-----------:|
 | Grenoble |            59 |   0.516949 |
 | Tonga    |            18 |   0.333333 |
-| Connacht |            14 |   0.428571 |
+| Connacht |            15 |   0.466667 |
 | Waikato  |            12 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -71,12 +71,12 @@ categories: player
 | Vannes                     |         1 |   1        |
 | Sharks                     |         1 |   0        |
 | Scotland                   |         1 |   0        |
-| Auckland                   |         1 |   1        |
 | Canterbury                 |         1 |   0        |
+| Auckland                   |         1 |   1        |
 | Georgia                    |         1 |   0        |
 | Clermont Auvergne          |         1 |   0.5      |
 | Chile                      |         1 |   1        |
-| Glasgow Warriors           |         1 |   0        |
+| Manawatu                   |         1 |   0        |
 | Harlequins                 |         1 |   1        |
 | Hawke's Bay                |         1 |   1        |
 | Japan                      |         1 |   0        |
@@ -85,11 +85,12 @@ categories: player
 | Lions                      |         1 |   1        |
 | France                     |         1 |   0        |
 | Argentina                  |         1 |   0        |
-| Massy                      |         1 |   0        |
+| Glasgow Warriors           |         1 |   0        |
 | Edinburgh                  |         1 |   0        |
 | Narbonne                   |         1 |   0.5      |
 | Dragons                    |         1 |   0        |
 | New Zealand                |         1 |   0        |
+| Newcastle Falcons          |         1 |   1        |
 | North Harbour              |         1 |   0        |
 | Dax                        |         1 |   1        |
-| Manawatu                   |         1 |   0        |
+| Massy                      |         1 |   0        |

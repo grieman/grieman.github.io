@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lekso Kaulashvili  
-date: 2022-12-09 13:23:01.381092  
+date: 2022-12-14 11:19:31.944273  
 categories: player  
 ---
 # Lekso Kaulashvili
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 113.0
+## Current elo: 114.0
 
 ## Current Percentile: 93.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            72 |   0.638889 |
+| Bordeaux Begles |            73 |   0.630137 |
 | La Rochelle     |            72 |   0.527778 |
 | Georgia         |             1 |   0        |
 
@@ -36,22 +36,23 @@ categories: player
 | Bayonne              |        10 |   0.75     |
 | Racing 92            |         9 |   0.5      |
 | Toulon               |         9 |   0.444444 |
-| Castres Olympique    |         8 |   0.5625   |
 | Stade Francais Paris |         8 |   0.6875   |
+| Castres Olympique    |         8 |   0.5625   |
 | Pau                  |         7 |   0.571429 |
 | Montpellier Herault  |         7 |   0.714286 |
 | Agen                 |         7 |   0.714286 |
 | Grenoble             |         4 |   0.5      |
+| Edinburgh            |         4 |   0.875    |
 | La Rochelle          |         4 |   0.5      |
 | Oyonnax              |         4 |   0.625    |
 | Perpignan            |         4 |   0.375    |
-| Edinburgh            |         4 |   0.875    |
 | Bordeaux Begles      |         3 |   0.666667 |
-| Exeter Chiefs        |         2 |   0        |
 | Wasps                |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
-| Harlequins           |         1 |   1        |
+| Exeter Chiefs        |         2 |   0        |
 | Scotland             |         1 |   0        |
+| Harlequins           |         1 |   1        |
+| Gloucester Rugby     |         1 |   0        |
 | Connacht             |         1 |   0        |
 | Carcassonne          |         1 |   1        |
 | Bristol Rugby        |         1 |   0        |

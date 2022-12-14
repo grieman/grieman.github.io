@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ross Byrne  
-date: 2022-12-09 13:11:26.100650  
+date: 2022-12-14 11:20:29.456204  
 categories: player  
 ---
 # Ross Byrne
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           124 |   0.806452 |
+| Leinster |           125 |   0.808    |
 | Ireland  |            11 |   0.636364 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -53,6 +53,7 @@ categories: player
 | France              |         2 |   0        |
 | Exeter Chiefs       |         2 |   1        |
 | Bulls               |         2 |   0.5      |
+| Racing 92           |         1 |   1        |
 | Scotland            |         1 |   1        |
 | Sharks              |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |

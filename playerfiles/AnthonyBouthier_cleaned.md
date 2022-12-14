@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Bouthier  
-date: 2022-12-09 13:05:23.866522  
+date: 2022-12-14 11:21:41.775379  
 categories: player  
 ---
 # Anthony Bouthier
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 86.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -24,39 +24,39 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Vannes              |            75 |   0.546667 |
-| Montpellier Herault |            64 |   0.53125  |
+| Montpellier Herault |            65 |   0.538462 |
 | France              |            11 |   0.636364 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Brive                |         7 |   0.5      |
 | Biarritz Olympique   |         7 |   0.857143 |
-| Aurillac             |         6 |   0.666667 |
 | Stade Toulousain     |         6 |   0.166667 |
+| Aurillac             |         6 |   0.666667 |
 | Beziers              |         6 |   0.5      |
 | Carcassonne          |         6 |   0.333333 |
+| Lyon                 |         5 |   0.4      |
+| Bayonne              |         5 |   0.6      |
+| Bordeaux Begles      |         5 |   0.5      |
+| Perpignan            |         5 |   0.6      |
+| Soyaux-Angouleme     |         5 |   0.6      |
 | Castres Olympique    |         5 |   0.4      |
 | La Rochelle          |         5 |   0.6      |
-| Perpignan            |         5 |   0.6      |
-| Lyon                 |         5 |   0.4      |
 | Colomiers            |         5 |   0.6      |
-| Pau                  |         5 |   0.6      |
 | Racing 92            |         5 |   0.4      |
-| Bordeaux Begles      |         5 |   0.5      |
-| Bayonne              |         5 |   0.6      |
-| Soyaux-Angouleme     |         5 |   0.6      |
-| Massy                |         4 |   0.75     |
-| Montauban            |         4 |   0.25     |
-| Narbonne             |         4 |   0.5      |
+| Pau                  |         5 |   0.6      |
 | Dax                  |         4 |   0.25     |
+| Montauban            |         4 |   0.25     |
+| Clermont Auvergne    |         4 |   0.25     |
 | Stade Francais Paris |         4 |   0.875    |
 | Toulon               |         4 |   0.625    |
-| Clermont Auvergne    |         4 |   0.25     |
+| Narbonne             |         4 |   0.5      |
+| Massy                |         4 |   0.75     |
 | Mont-de-Marsan       |         3 |   0.666667 |
-| Australia            |         3 |   0.333333 |
 | Nevers               |         3 |   0.666667 |
-| Oyonnax              |         3 |   0.666667 |
 | Agen                 |         3 |   0.5      |
+| Australia            |         3 |   0.333333 |
+| Oyonnax              |         3 |   0.666667 |
 | Scotland             |         2 |   0        |
 | US Bressane          |         2 |   0.75     |
 | Wales                |         2 |   1        |
@@ -64,6 +64,7 @@ categories: player
 | Ireland              |         2 |   1        |
 | Grenoble             |         2 |   0        |
 | Connacht             |         2 |   0.5      |
+| London Irish         |         1 |   1        |
 | Provence Rugby       |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
 | England              |         1 |   1        |

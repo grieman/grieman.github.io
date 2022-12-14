@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Coles  
-date: 2022-12-09 13:24:33.679515  
+date: 2022-12-14 11:14:19.194311  
 categories: player  
 ---
 # Alex Coles
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 77.0
+## Current elo: 76.0
 
 ## Current Percentile: 4.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            66 |   0.530303 |
+| Northampton Saints |            67 |   0.522388 |
 | England            |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -34,14 +34,15 @@ categories: player
 | Leicester Tigers   |         6 |   0.333333 |
 | Bath Rugby         |         6 |   0.333333 |
 | Newcastle Falcons  |         5 |   0.8      |
-| London Irish       |         5 |   0.8      |
 | Sale Sharks        |         5 |   0.4      |
+| London Irish       |         5 |   0.8      |
 | Exeter Chiefs      |         4 |   0.25     |
 | Gloucester Rugby   |         4 |   0.5      |
 | Saracens           |         4 |   0.25     |
 | Bristol Rugby      |         3 |   0.333333 |
 | Leinster           |         2 |   0        |
 | Lyon               |         1 |   1        |
+| La Rochelle        |         1 |   0        |
 | Japan              |         1 |   1        |
 | South Africa       |         1 |   0        |
 | Timisoara Saracens |         1 |   1        |

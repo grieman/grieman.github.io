@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Étienne Loiret  
-date: 2022-12-09 13:06:33.971851  
+date: 2022-12-14 11:32:29.094008  
 categories: player  
 ---
 # Étienne Loiret
 
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 52.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            40 |       0.55 |
+| Dax    |            41 |   0.560976 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,9 +35,9 @@ categories: player
 | Albi                       |         2 |   0        |
 | Blagnac                    |         2 |   0.5      |
 | Massy                      |         2 |   0        |
+| Narbonne                   |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
 | Aubenas                    |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |
-| Narbonne                   |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jonathan Duffau  
-date: 2022-12-09 13:15:15.151540  
+date: 2022-12-14 11:34:01.476976  
 categories: player  
 ---
 # Jonathan Duffau
 
 ## Positions: W, C
 
-## Current elo: 107.0
+## Current elo: 104.0
 
-## Current Percentile: 86.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            29 |   0.396552 |
+| Tarbes |            30 |   0.383333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,3 +40,4 @@ categories: player
 | Massy                      |         1 |   0        |
 | Narbonne                   |         1 |   1        |
 | Rennes                     |         1 |   1        |
+| US Bressane                |         1 |   0        |

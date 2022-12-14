@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Moala  
-date: 2022-11-22 11:37:15.469360  
+date: 2022-12-14 11:11:46.879023  
 categories: player  
 ---
 # George Moala
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 115.0
+## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            80 |   0.60625  |
+| Clermont Auvergne |            82 |   0.603659 |
 | Blues             |            73 |   0.383562 |
 | Auckland          |            41 |   0.560976 |
 | New Zealand       |             4 |   0.75     |
@@ -40,10 +40,10 @@ categories: player
 | Castres Olympique        |         7 |  0.571429  |
 | Lyon                     |         6 |  0.5       |
 | Canterbury               |         6 |  0.166667  |
+| Racing 92                |         5 |  0.2       |
 | Stade Francais Paris     |         5 |  1         |
 | La Rochelle              |         5 |  0.8       |
 | Montpellier Herault      |         5 |  0.4       |
-| Racing 92                |         4 |  0.25      |
 | Sharks                   |         4 |  0.25      |
 | Pau                      |         4 |  0.75      |
 | Stade Toulousain         |         4 |  0.5       |
@@ -58,6 +58,7 @@ categories: player
 | Wellington               |         3 |  0.666667  |
 | Bayonne                  |         3 |  0.666667  |
 | Manawatu                 |         3 |  1         |
+| Stormers                 |         3 |  0.333333  |
 | Brive                    |         3 |  0.666667  |
 | Northland                |         3 |  1         |
 | Otago                    |         3 |  0.333333  |
@@ -70,7 +71,6 @@ categories: player
 | Timisoara Saracens       |         2 |  1         |
 | Taranaki                 |         2 |  0         |
 | Southland                |         2 |  0.75      |
-| Stormers                 |         2 |  0         |
 | Agen                     |         2 |  1         |
 | Bath Rugby               |         2 |  1         |
 | Harlequins               |         2 |  1         |

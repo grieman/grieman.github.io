@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gauthier Doubrere  
-date: 2022-12-09 13:20:38.311630  
+date: 2022-12-14 11:23:51.349068  
 categories: player  
 ---
 # Gauthier Doubrere
 
 ## Positions: SH
 
-## Current elo: 98.0
+## Current elo: 95.0
 
-## Current Percentile: 71.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |            26 |   0.480769 |
 | Bordeaux Begles    |            21 |   0.5      |
+| Castres Olympique  |             7 |   0.285714 |
 | Mont-de-Marsan     |             7 |   0.857143 |
-| Castres Olympique  |             6 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,22 +37,22 @@ categories: player
 | Agen                 |         3 |   1        |
 | Bayonne              |         3 |   0.666667 |
 | Massy                |         2 |   0.5      |
-| Oyonnax              |         2 |   0.5      |
 | Dragons              |         2 |   0.5      |
+| Exeter Chiefs        |         2 |   0        |
 | US Bressane          |         2 |   0.5      |
-| Stade Francais Paris |         2 |   0.5      |
 | La Rochelle          |         2 |   0.5      |
+| Stade Francais Paris |         2 |   0.5      |
 | Beziers              |         2 |   1        |
 | RC Enisei            |         2 |   1        |
-| Perpignan            |         2 |   0        |
 | Nevers               |         2 |   0        |
-| Racing 92            |         1 |   0        |
+| Perpignan            |         2 |   0        |
+| Oyonnax              |         2 |   0.5      |
 | Pau                  |         1 |   1        |
+| Racing 92            |         1 |   0        |
 | Castres Olympique    |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
 | Colomiers            |         1 |   0        |
 | Montauban            |         1 |   1        |
 | Lyon                 |         1 |   0        |
 | Bordeaux Begles      |         1 |   0        |
-| Exeter Chiefs        |         1 |   0        |
 | Montpellier Herault  |         1 |   0        |

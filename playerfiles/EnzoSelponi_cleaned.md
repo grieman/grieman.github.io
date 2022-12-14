@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Enzo Selponi  
-date: 2022-12-09 13:15:10.373473  
+date: 2022-12-14 11:30:28.054541  
 categories: player  
 ---
 # Enzo Selponi
 
 ## Positions: FH
 
-## Current elo: 117.0
+## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,33 +23,33 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Perpignan           |            64 |   0.382812 |
 | Grenoble            |            32 |   0.578125 |
-| Provence Rugby      |            26 |   0.596154 |
+| Provence Rugby      |            27 |   0.611111 |
 | Montpellier Herault |            19 |   0.342105 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         9 |   0.555556 |
-| Soyaux-Angouleme           |         7 |   0.785714 |
 | Oyonnax                    |         7 |   0.642857 |
 | Colomiers                  |         7 |   0.285714 |
+| Soyaux-Angouleme           |         7 |   0.785714 |
 | Agen                       |         6 |   0.166667 |
-| Grenoble                   |         6 |   0.666667 |
-| Biarritz Olympique         |         6 |   0.25     |
-| Carcassonne                |         6 |   0.833333 |
 | Mont-de-Marsan             |         6 |   0.666667 |
-| Aurillac                   |         5 |   0.6      |
+| Carcassonne                |         6 |   0.833333 |
+| Biarritz Olympique         |         6 |   0.25     |
+| Grenoble                   |         6 |   0.666667 |
 | Bordeaux Begles            |         5 |   0.4      |
-| Stade Toulousain           |         4 |   0.5      |
+| Aurillac                   |         5 |   0.6      |
 | Nevers                     |         4 |   0.75     |
+| Rouen                      |         4 |   0.5      |
 | Narbonne                   |         4 |   0.75     |
 | Montauban                  |         4 |   0.75     |
+| Stade Toulousain           |         4 |   0.5      |
 | La Rochelle                |         4 |   0.125    |
 | Vannes                     |         4 |   0.25     |
 | Lyon                       |         3 |   0.333333 |
 | Massy                      |         3 |   0.333333 |
 | Castres Olympique          |         3 |   0        |
 | Bayonne                    |         3 |   0.666667 |
-| Rouen                      |         3 |   0.333333 |
 | Glasgow Warriors           |         2 |   0        |
 | Provence Rugby             |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |

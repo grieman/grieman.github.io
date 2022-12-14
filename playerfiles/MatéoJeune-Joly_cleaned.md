@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matéo Jeune-Joly  
-date: 2022-12-09 13:17:12.204375  
+date: 2022-12-14 11:12:27.625380  
 categories: player  
 ---
 # Matéo Jeune-Joly
 
 ## Positions: SH
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 19.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             9 |   0.111111 |
+| Rennes |            10 |        0.1 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
+| Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
 | Dax                        |         1 |          0 |

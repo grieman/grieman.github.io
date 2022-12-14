@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Ruffenach  
-date: 2022-12-09 13:19:17.680631  
+date: 2022-12-14 11:23:10.637420  
 categories: player  
 ---
 # Romain Ruffenach
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

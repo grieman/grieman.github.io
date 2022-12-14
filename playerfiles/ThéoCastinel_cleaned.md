@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo Castinel  
-date: 2022-11-22 11:34:32.208844  
+date: 2022-12-14 11:35:29.592593  
 categories: player  
 ---
 # Théo Castinel
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |            23 |   0.434783 |
-| Narbonne       |            12 |   0.5      |
+| Narbonne       |            14 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | US Bressane                |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Perpignan                  |         1 |   0        |
 | Nice                       |         1 |   1        |
 | Agen                       |         1 |   0        |
@@ -44,6 +45,7 @@ categories: player
 | Albi                       |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Grenoble                   |         1 |   0        |
+| Dax                        |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Carcassonne                |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Madosh Tambwe  
-date: 2022-12-09 13:23:30.153698  
+date: 2022-12-12 14:49:05.237985  
 categories: player  
 ---
 # Madosh Tambwe
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 

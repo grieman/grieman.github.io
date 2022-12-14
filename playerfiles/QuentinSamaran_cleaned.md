@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin Samaran  
-date: 2022-12-09 13:14:06.937896  
+date: 2022-12-14 11:28:31.355843  
 categories: player  
 ---
 # Quentin Samaran
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Beziers            |            26 |   0.442308 |
-| Biarritz Olympique |            18 |   0.361111 |
+| Biarritz Olympique |            19 |   0.394737 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Nevers                     |         2 |   0.5      |
 | Rouen                      |         2 |   0        |
 | Montauban                  |         2 |   1        |
+| Soyaux-Angouleme           |         2 |   0.5      |
 | La Rochelle                |         2 |   0.5      |
 | Grenoble                   |         2 |   0.75     |
 | Toulon                     |         2 |   0        |
@@ -40,7 +41,6 @@ categories: player
 | Bordeaux Begles            |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
 | Stade Francais Paris       |         1 |   0        |
-| Soyaux-Angouleme           |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |
 | Racing 92                  |         1 |   1        |
 | Montpellier Herault        |         1 |   0        |

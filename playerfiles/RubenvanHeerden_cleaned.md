@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruben van Heerden  
-date: 2022-11-22 11:40:14.765347  
+date: 2022-12-14 11:27:22.407116  
 categories: player  
 ---
 # Ruben van Heerden
 
 ## Positions: L
 
-## Current elo: 112.0
+## Current elo: 109.0
 
-## Current Percentile: 91.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -22,9 +22,9 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Sharks        |            32 |   0.53125  |
+| Exeter Chiefs |            11 |   0.545455 |
 | Natal Sharks  |            11 |   0.727273 |
 | Blue Bulls    |             9 |   0.444444 |
-| Exeter Chiefs |             9 |   0.555556 |
 | Bulls         |             4 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,22 +34,23 @@ categories: player
 | Griquas                  |         5 |   0.8      |
 | Free State Cheetahs      |         4 |   0.5      |
 | Lions                    |         3 |   1        |
-| Pumas                    |         3 |   0.333333 |
 | Jaguares                 |         3 |   0.333333 |
+| Pumas                    |         3 |   0.333333 |
 | Golden Lions             |         3 |   0.666667 |
 | Queensland Reds          |         2 |   0.5      |
-| Hurricanes               |         2 |   0        |
 | Brumbies                 |         2 |   0        |
+| Hurricanes               |         2 |   0        |
 | Western Province         |         2 |   0.5      |
 | Blue Bulls               |         2 |   1        |
 | Melbourne Rebels         |         2 |   1        |
 | Southern Kings           |         1 |   0        |
 | Saracens                 |         1 |   0        |
+| Sale Sharks              |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
 | Ulster                   |         1 |   0        |
-| Sale Sharks              |         1 |   0        |
 | Ospreys                  |         1 |   1        |
 | Northampton Saints       |         1 |   0        |
+| Newcastle Falcons        |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
 | Natal Sharks             |         1 |   0        |
 | Munster                  |         1 |   0        |
@@ -60,6 +61,7 @@ categories: player
 | Gloucester Rugby         |         1 |   0        |
 | Glasgow Warriors         |         1 |   0        |
 | Crusaders                |         1 |   0.5      |
+| Castres Olympique        |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
 | Bristol Rugby            |         1 |   1        |
 | Worcester Warriors       |         1 |   1        |

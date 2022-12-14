@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault Regard  
-date: 2022-12-09 13:23:49.952769  
+date: 2022-12-12 15:19:05.977215  
 categories: player  
 ---
 # Thibault Regard

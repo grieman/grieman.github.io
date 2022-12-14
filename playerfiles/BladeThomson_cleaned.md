@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Blade Thomson  
-date: 2022-12-09 13:18:04.544748  
+date: 2022-12-14 11:32:42.962727  
 categories: player  
 ---
 # Blade Thomson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 92.0
+## Current elo: 95.0
 
-## Current Percentile: 40.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Hurricanes        |            51 |   0.627451 |
-| Scarlets          |            43 |   0.406977 |
+| Scarlets          |            44 |   0.420455 |
 | Taranaki          |            32 |   0.515625 |
 | Scotland          |             7 |   0.571429 |
 | New Zealand Maori |             4 |   1        |
@@ -63,11 +63,11 @@ categories: player
 | Ulster                   |         2 |   0        |
 | Waikato                  |         2 |   0.5      |
 | Wales                    |         2 |   0.5      |
+| Bayonne                  |         2 |   1        |
 | Glasgow Warriors         |         2 |   0.5      |
 | Jaguares                 |         2 |   1        |
 | Southland                |         2 |   1        |
 | United States of America |         1 |   1        |
-| Bayonne                  |         1 |   1        |
 | Western Force            |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Sunwolves                |         1 |   1        |

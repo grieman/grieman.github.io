@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bundee Aki  
-date: 2022-12-09 13:19:51.214419  
+date: 2022-12-12 15:27:05.354565  
 categories: player  
 ---
 # Bundee Aki
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 128.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lucas Tolofua  
-date: 2022-12-09 13:13:43.001467  
+date: 2022-12-14 11:34:16.461198  
 categories: player  
 ---
 # Lucas Tolofua
 
 ## Positions: L, N8
 
-## Current elo: 84.0
+## Current elo: 86.0
 
 ## Current Percentile: 14.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            20 |   0.475    |
+| Blagnac |            21 |   0.5      |
 | Tarbes  |             3 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,6 +32,7 @@ categories: player
 | Dax                        |         2 |       0    |
 | Dijon                      |         2 |       0.5  |
 | Narbonne                   |         2 |       0.25 |
+| Suresnes                   |         2 |       0.5  |
 | Tarbes                     |         2 |       1    |
 | Valence Romans Drome Rugby |         2 |       0    |
 | Albi                       |         1 |       1    |
@@ -39,5 +40,4 @@ categories: player
 | Nice                       |         1 |       0    |
 | Rennes                     |         1 |       1    |
 | Soyaux-Angouleme           |         1 |       0    |
-| Suresnes                   |         1 |       0    |
 | US Bressane                |         1 |       0    |

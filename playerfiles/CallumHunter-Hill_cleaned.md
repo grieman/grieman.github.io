@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Hunter-Hill  
-date: 2022-11-22 11:33:08.618358  
+date: 2022-12-14 11:30:23.543438  
 categories: player  
 ---
 # Callum Hunter-Hill
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 81.0
 
-## Current Percentile: 7.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Saracens          |            43 |   0.639535 |
+| Saracens          |            44 |   0.647727 |
 | Edinburgh         |            19 |   0.473684 |
 | London Scottish   |             3 |   0.333333 |
 | Glasgow Warriors  |             1 |   1        |
@@ -47,6 +47,7 @@ categories: player
 | Racing 92          |         2 |   0        |
 | Bath Rugby         |         2 |   0.25     |
 | Exeter Chiefs      |         2 |   1        |
+| Edinburgh          |         2 |   0.5      |
 | Dragons            |         2 |   0.5      |
 | Zebre              |         2 |   0.5      |
 | Munster            |         1 |   0        |
@@ -54,7 +55,6 @@ categories: player
 | Benetton Treviso   |         1 |   0        |
 | Jersey             |         1 |   1        |
 | Rotherham Titans   |         1 |   1        |
-| Edinburgh          |         1 |   0        |
 | Cornish Pirates    |         1 |   0        |
 | Ulster             |         1 |   0        |
 | Cheetahs           |         1 |   0        |

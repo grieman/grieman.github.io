@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Delord  
-date: 2022-12-09 13:11:41.868620  
+date: 2022-12-12 15:22:30.162360  
 categories: player  
 ---
 # Quentin Delord

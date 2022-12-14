@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dimitri Delibes  
-date: 2022-12-09 13:04:25.362399  
+date: 2022-12-14 11:20:58.095726  
 categories: player  
 ---
 # Dimitri Delibes
 
 ## Positions: W, C
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 55.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            25 |       0.38 |
+| Stade Toulousain |            26 |   0.403846 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,3 +36,4 @@ categories: player
 | Pau                  |         2 |   0        |
 | Racing 92            |         2 |   0.5      |
 | La Rochelle          |         1 |   1        |
+| Munster              |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cesar Biscioni  
-date: 2022-12-09 13:07:12.011031  
+date: 2022-12-14 11:33:41.636014  
 categories: player  
 ---
 # Cesar Biscioni
 
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 90.0
 
-## Current Percentile: 22.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            19 |   0.421053 |
+| Blagnac |            20 |       0.45 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,5 +35,6 @@ categories: player
 | Dijon                      |         1 |   1        |
 | Massy                      |         1 |   0        |
 | Nice                       |         1 |   0        |
+| Suresnes                   |         1 |   1        |
 | Tarbes                     |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |

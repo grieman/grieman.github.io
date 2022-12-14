@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Jordan  
-date: 2022-12-09 13:08:42.573424  
+date: 2022-12-12 14:58:29.612912  
 categories: player  
 ---
 # Tom Jordan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: John Hawkins  
-date: 2022-12-09 13:08:08.670321  
+date: 2022-12-12 15:21:17.016673  
 categories: player  
 ---
 # John Hawkins
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 

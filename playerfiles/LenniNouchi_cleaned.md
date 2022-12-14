@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lenni Nouchi  
-date: 2022-12-09 13:10:24.388517  
+date: 2022-12-12 15:03:14.187302  
 categories: player  
 ---
 # Lenni Nouchi

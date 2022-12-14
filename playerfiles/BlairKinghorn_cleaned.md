@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Blair Kinghorn  
-date: 2022-12-09 13:10:41.963448  
+date: 2022-12-14 11:25:11.904113  
 categories: player  
 ---
 # Blair Kinghorn
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 134.0
+## Current elo: 136.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           119 |   0.533613 |
+| Edinburgh |           120 |   0.529167 |
 | Scotland  |            37 |   0.513514 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -63,12 +63,13 @@ categories: player
 | United States of America |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Tonga                    |         1 |   1        |
-| Canada                   |         1 |   1        |
+| Russia                   |         1 |   1        |
 | South Africa             |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Brive                    |         1 |   1        |
-| Russia                   |         1 |   1        |
+| Saracens                 |         1 |   0        |
 | Grenoble                 |         1 |   1        |
+| Canada                   |         1 |   1        |
 | New Zealand              |         1 |   0        |
 | La Rochelle              |         1 |   0        |
 | Japan                    |         1 |   0        |

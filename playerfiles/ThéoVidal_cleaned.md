@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Théo Vidal  
-date: 2022-12-09 13:12:10.617786  
+date: 2022-12-14 11:17:44.362999  
 categories: player  
 ---
 # Théo Vidal
 
 ## Positions: FH, SH
 
-## Current elo: 90.0
+## Current elo: 93.0
 
 ## Current Percentile: 22.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            29 |   0.637931 |
+| Albi   |            30 |       0.65 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Dijon                      |         2 |   1        |
 | Nice                       |         2 |   0.25     |
 | Carqueiranne-Hyères        |         1 |   0        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
 | Dax                        |         1 |   1        |
 | Narbonne                   |         1 |   1        |
 | Rennes                     |         1 |   1        |

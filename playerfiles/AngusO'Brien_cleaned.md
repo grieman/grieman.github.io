@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Angus O'Brien  
-date: 2022-12-09 13:18:08.533248  
+date: 2022-12-12 15:20:26.625744  
 categories: player  
 ---
 # Angus O'Brien
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 8.0
+## Current Percentile: 7.0
 
 # Elo History
 

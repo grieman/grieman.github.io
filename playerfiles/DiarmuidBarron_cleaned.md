@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Diarmuid Barron  
-date: 2022-12-09 13:08:27.019792  
+date: 2022-12-14 11:28:56.710493  
 categories: player  
 ---
 # Diarmuid Barron
 
 ## Positions: H
 
-## Current elo: 111.0
+## Current elo: 110.0
 
 ## Current Percentile: 88.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            34 |   0.647059 |
+| Munster |            35 |   0.628571 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,5 +38,6 @@ categories: player
 | Glasgow Warriors |         1 |       0    |
 | Ospreys          |         1 |       1    |
 | Sharks           |         1 |       1    |
+| Stade Toulousain |         1 |       0    |
 | Stormers         |         1 |       1    |
 | Wasps            |         1 |       1    |

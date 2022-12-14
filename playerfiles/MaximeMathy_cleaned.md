@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Mathy  
-date: 2022-12-09 13:22:02.826615  
+date: 2022-12-12 15:28:52.180412  
 categories: player  
 ---
 # Maxime Mathy
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 80.0
+## Current Percentile: 81.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Julien Dumora  
-date: 2022-12-09 13:14:29.427833  
+date: 2022-12-14 11:22:48.501782  
 categories: player  
 ---
 # Julien Dumora
 
 ## Positions: FB, FH
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 69.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           215 |   0.537209 |
+| Castres Olympique |           216 |   0.534722 |
 | Pau               |            69 |   0.507246 |
 | Lyon              |            45 |   0.655556 |
 | Toulon            |            10 |   0.7      |
@@ -68,6 +68,7 @@ categories: player
 | Massy                |         2 |   1        |
 | Limoges              |         2 |   1        |
 | Harlequins           |         2 |   0        |
+| Exeter Chiefs        |         2 |   0.5      |
 | Worcester Warriors   |         2 |   1        |
 | Petrarca Padova      |         1 |   1        |
 | RC Enisei            |         1 |   1        |
@@ -75,4 +76,3 @@ categories: player
 | Bourgoin-Jallieu     |         1 |   1        |
 | Leicester Tigers     |         1 |   1        |
 | Gloucester Rugby     |         1 |   0        |
-| Exeter Chiefs        |         1 |   1        |

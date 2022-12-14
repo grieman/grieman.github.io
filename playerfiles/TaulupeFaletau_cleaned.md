@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taulupe Faletau  
-date: 2022-11-22 11:36:07.510078  
+date: 2022-12-14 11:18:25.530192  
 categories: player  
 ---
 # Taulupe Faletau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 60.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -24,10 +24,10 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Dragons                 |           111 |   0.355856 |
-| Wales                   |            87 |   0.5      |
+| Wales                   |            88 |   0.494318 |
 | Bath Rugby              |            66 |   0.515152 |
 | British and Irish Lions |             8 |   0.6875   |
-| Cardiff Blues           |             4 |   0.75     |
+| Cardiff Blues           |             5 |   0.8      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,10 +40,10 @@ categories: player
 | England              |        11 |   0.363636 |
 | Italy                |        10 |   0.9      |
 | Edinburgh            |        10 |   0.4      |
+| Australia            |        10 |   0.1      |
 | Ireland              |        10 |   0.65     |
 | Gloucester Rugby     |        10 |   0.55     |
 | New Zealand          |        10 |   0.15     |
-| Australia            |         9 |   0.111111 |
 | Leicester Tigers     |         9 |   0.555556 |
 | Scotland             |         8 |   0.75     |
 | Munster              |         7 |   0.571429 |
@@ -73,10 +73,10 @@ categories: player
 | Bayonne              |         2 |   0        |
 | Bath Rugby           |         2 |   0        |
 | Mogliano             |         2 |   1        |
+| Brive                |         2 |   1        |
 | Bucuresti            |         1 |   1        |
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
-| Brive                |         1 |   1        |
 | Provincial Union XV  |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
 | Cavalieri Prato      |         1 |   1        |

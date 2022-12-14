@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: So'otala Fa'aso'o  
-date: 2022-11-22 11:39:41.107792  
+date: 2022-12-14 11:31:48.783401  
 categories: player  
 ---
 # So'otala Fa'aso'o
 
 ## Positions: N8
 
-## Current elo: 118.0
+## Current elo: 115.0
 
-## Current Percentile: 89.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Brive            |            70 |   0.471429 |
 | Racing 92        |            16 |   0.625    |
 | Counties Manukau |            11 |   0.545455 |
-| London Irish     |             4 |   0        |
+| London Irish     |             6 |   0        |
 | Auckland         |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -35,13 +35,14 @@ categories: player
 | Bordeaux Begles      |         5 |   0.6      |
 | Agen                 |         4 |   0.75     |
 | Castres Olympique    |         4 |   0.75     |
+| Montpellier Herault  |         4 |   0.375    |
 | Bayonne              |         4 |   0.375    |
 | Stade Toulousain     |         4 |   0.25     |
 | Pau                  |         4 |   0.75     |
-| Montpellier Herault  |         3 |   0.5      |
 | Canterbury           |         3 |   0.666667 |
 | La Rochelle          |         3 |   0        |
 | Racing 92            |         3 |   0        |
+| Leicester Tigers     |         3 |   0.333333 |
 | Provence Rugby       |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |
 | Soyaux-Angouleme     |         2 |   1        |
@@ -49,7 +50,6 @@ categories: player
 | Munster              |         2 |   0        |
 | Wellington           |         2 |   0        |
 | Lyon                 |         2 |   0.5      |
-| Leicester Tigers     |         2 |   0.5      |
 | Massy                |         2 |   0.5      |
 | Brive                |         2 |   1        |
 | Beziers              |         2 |   0.5      |

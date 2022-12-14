@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arnaud Aletti  
-date: 2022-12-09 13:22:50.082888  
+date: 2022-12-14 11:32:03.185803  
 categories: player  
 ---
 # Arnaud Aletti
 
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 114.0
 
-## Current Percentile: 83.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            48 |   0.583333 |
+| Dax    |            49 |   0.591837 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,7 +37,7 @@ categories: player
 | Aubenas                    |         2 |   1        |
 | Dijon                      |         2 |   1        |
 | Massy                      |         2 |   0        |
+| Narbonne                   |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
-| Narbonne                   |         1 |   1        |
 | Rennes                     |         1 |   1        |

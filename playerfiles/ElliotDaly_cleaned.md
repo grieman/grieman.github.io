@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliot Daly  
-date: 2022-11-22 11:27:54.534786  
+date: 2022-12-14 11:35:38.188784  
 categories: player  
 ---
 # Elliot Daly
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 82.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Wasps                   |           195 |   0.517949 |
 | England                 |            55 |   0.681818 |
-| Saracens                |            43 |   0.825581 |
+| Saracens                |            44 |   0.829545 |
 | British and Irish Lions |            11 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -40,40 +40,41 @@ categories: player
 | Gloucester Rugby         |        15 |   0.666667 |
 | London Irish             |        13 |   0.730769 |
 | Newcastle Falcons        |        12 |   0.791667 |
-| Sale Sharks              |         9 |   0.555556 |
+| Wales                    |         9 |   0.666667 |
 | South Africa             |         9 |   0.444444 |
 | Leinster                 |         9 |   0.388889 |
-| Wales                    |         9 |   0.666667 |
+| Sale Sharks              |         9 |   0.555556 |
 | Ireland                  |         8 |   0.5      |
 | France                   |         7 |   0.571429 |
 | Bayonne                  |         5 |   0.7      |
 | New Zealand              |         5 |   0.5      |
 | Bristol Rugby            |         5 |   1        |
-| Scotland                 |         5 |   0.5      |
 | Australia                |         5 |   1        |
-| Italy                    |         4 |   1        |
-| London Welsh             |         4 |   1        |
+| Scotland                 |         5 |   0.5      |
 | Stade Toulousain         |         4 |   0.375    |
+| London Welsh             |         4 |   1        |
+| Italy                    |         4 |   1        |
 | Dragons                  |         3 |   0.666667 |
 | Argentina                |         3 |   1        |
 | Toulon                   |         3 |   0.333333 |
 | La Rochelle              |         2 |   0.5      |
-| Yorkshire Carnegie       |         2 |   1        |
-| Zebre                    |         2 |   1        |
 | Racing 92                |         2 |   0.5      |
+| Zebre                    |         2 |   1        |
 | Grenoble                 |         2 |   1        |
+| Edinburgh                |         2 |   0.5      |
+| Yorkshire Carnegie       |         2 |   1        |
 | Rovigo                   |         1 |   1        |
-| Wasps                    |         1 |   0        |
-| Samoa                    |         1 |   1        |
+| Nottingham               |         1 |   1        |
+| Tonga                    |         1 |   1        |
+| Ulster                   |         1 |   0        |
 | United States of America |         1 |   1        |
 | Provincial Union XV      |         1 |   1        |
+| Wasps                    |         1 |   0        |
 | Ospreys                  |         1 |   1        |
-| Tonga                    |         1 |   1        |
-| Nottingham               |         1 |   1        |
-| Ulster                   |         1 |   0        |
+| Samoa                    |         1 |   1        |
 | Ampthill                 |         1 |   1        |
 | New Zealand Maori        |         1 |   1        |
-| Munster                  |         1 |   1        |
+| Cardiff Blues            |         1 |   0        |
 | Arix Viadana             |         1 |   1        |
 | Barbarians               |         1 |   0        |
 | Bedford                  |         1 |   1        |
@@ -81,12 +82,11 @@ categories: player
 | Blues                    |         1 |   0        |
 | Bordeaux Begles          |         1 |   1        |
 | Brive                    |         1 |   1        |
-| Cardiff Blues            |         1 |   0        |
 | Chiefs                   |         1 |   1        |
+| Munster                  |         1 |   1        |
 | Coventry                 |         1 |   1        |
 | Doncaster                |         1 |   1        |
 | Ealing Trailfinders      |         1 |   1        |
-| Edinburgh                |         1 |   0        |
 | Fiji                     |         1 |   1        |
 | Highlanders              |         1 |   0        |
 | Japan                    |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruan Nortje  
-date: 2022-12-09 13:14:21.450321  
+date: 2022-12-12 15:19:17.014219  
 categories: player  
 ---
 # Ruan Nortje
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 76.0
+## Current Percentile: 77.0
 
 # Elo History
 

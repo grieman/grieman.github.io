@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacopo Trulla  
-date: 2022-12-09 13:13:50.988584  
+date: 2022-12-12 15:07:20.724273  
 categories: player  
 ---
 # Jacopo Trulla

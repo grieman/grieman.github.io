@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamison Gibson-Park  
-date: 2022-12-09 13:16:01.829346  
+date: 2022-12-14 11:21:57.925885  
 categories: player  
 ---
 # Jamison Gibson-Park
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 92.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Leinster          |           102 |   0.828431 |
+| Leinster          |           103 |   0.830097 |
 | Blues             |            34 |   0.205882 |
 | Ireland           |            21 |   0.761905 |
 | Taranaki          |            20 |   0.525    |
@@ -61,7 +61,7 @@ categories: player
 | Brumbies                 |         3 |   0.333333 |
 | Cardiff Blues            |         3 |   1        |
 | France                   |         3 |   0        |
-| Canterbury               |         2 |   0        |
+| Racing 92                |         2 |   1        |
 | Western Force            |         2 |   1        |
 | Wellington               |         2 |   0.5      |
 | Wasps                    |         2 |   1        |
@@ -73,21 +73,21 @@ categories: player
 | Blues                    |         2 |   1        |
 | Scotland                 |         2 |   1        |
 | Hawke's Bay              |         2 |   0.5      |
-| Lyon                     |         2 |   1        |
 | Castres Olympique        |         2 |   0.75     |
 | Counties Manukau         |         2 |   0.25     |
 | Japan                    |         2 |   1        |
 | England                  |         2 |   1        |
 | Exeter Chiefs            |         2 |   1        |
+| Canterbury               |         2 |   0        |
+| Lyon                     |         2 |   1        |
 | Queensland Reds          |         1 |   0        |
+| United States of America |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Jaguares                 |         1 |   1        |
 | Australia                |         1 |   1        |
 | Waikato                  |         1 |   0        |
-| United States of America |         1 |   1        |
 | Manawatu                 |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
-| Racing 92                |         1 |   1        |
 | Stade Toulousain         |         1 |   1        |
 | South Africa             |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |

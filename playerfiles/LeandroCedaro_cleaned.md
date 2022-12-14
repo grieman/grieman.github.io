@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leandro Cedaro  
-date: 2022-12-09 13:06:08.268373  
+date: 2022-12-14 11:16:42.730857  
 categories: player  
 ---
 # Leandro Cedaro
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -24,14 +24,14 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | La Rochelle    |           121 |   0.557851 |
-| Mont-de-Marsan |           101 |   0.584158 |
+| Mont-de-Marsan |           102 |   0.588235 |
 | Agen           |             5 |   0        |
 | Italy          |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Oyonnax                    |        13 |   0.384615 |
-| Grenoble                   |        12 |   0.583333 |
+| Grenoble                   |        13 |   0.615385 |
 | Beziers                    |         9 |   0.666667 |
 | Pau                        |         9 |   0.666667 |
 | Colomiers                  |         9 |   0.666667 |

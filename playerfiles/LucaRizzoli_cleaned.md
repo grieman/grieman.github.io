@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luca Rizzoli  
-date: 2022-12-09 13:05:41.440462  
+date: 2022-12-14 11:23:54.085517  
 categories: player  
 ---
 # Luca Rizzoli
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 39.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |             5 |          0 |
+| Zebre  |             6 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,3 +30,4 @@ categories: player
 | Munster          |         1 |          0 |
 | Scarlets         |         1 |          0 |
 | Stormers         |         1 |          0 |
+| Toulon           |         1 |          0 |

@@ -4,10 +4,10 @@ title: Hartpury College at London Scottish
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Hartpury College (~1411.0) at London Scottish (~1216.24)
+# Hartpury College (~1484.44) at London Scottish (~1319.78)
 
-# Prediction: Hartpury College by 16.5
+# Prediction: Hartpury College by 13.5
 
 
-Hartpury College by 19.5 on a neutral pitch
+Hartpury College by 16.5 on a neutral pitch
 

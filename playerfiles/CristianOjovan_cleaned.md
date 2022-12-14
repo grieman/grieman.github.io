@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cristian Ojovan  
-date: 2022-12-09 13:03:53.261286  
+date: 2022-12-14 11:12:09.100449  
 categories: player  
 ---
 # Cristian Ojovan
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 49.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            52 |   0.538462 |
+| Clermont Auvergne |            53 |   0.54717  |
 | Aurillac          |            30 |   0.433333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -53,4 +53,5 @@ categories: player
 | Massy                |         1 |   1        |
 | Roval Drome XV       |         1 |   0        |
 | Grenoble             |         1 |   0        |
+| Stormers             |         1 |   1        |
 | US Bressane          |         1 |   1        |

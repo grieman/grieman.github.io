@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrea Pontanier  
-date: 2022-12-09 13:21:52.713375  
+date: 2022-12-14 11:30:46.873009  
 categories: player  
 ---
 # Andrea Pontanier
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 36.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |             4 |      0.625 |
+| Valence Romans Drome Rugby |             5 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Bourgoin-Jallieu |         1 |        0.5 |
+| Chambery         |         1 |        0   |
 | Narbonne         |         1 |        1   |
 | Suresnes         |         1 |        1   |
 | US Bressane      |         1 |        0   |

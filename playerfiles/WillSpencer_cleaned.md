@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Spencer  
-date: 2022-12-09 13:06:54.872871  
+date: 2022-12-14 11:16:44.417534  
 categories: player  
 ---
 # Will Spencer
 
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bath Rugby         |            50 |     0.48   |
-| Worcester Warriors |            32 |     0.3125 |
-| Leicester Tigers   |            30 |     0.3    |
+| Bath Rugby         |            51 |   0.470588 |
+| Worcester Warriors |            32 |   0.3125   |
+| Leicester Tigers   |            30 |   0.3      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -43,8 +43,9 @@ categories: player
 | London Irish         |         4 |   0.5      |
 | Cardiff Blues        |         2 |   1        |
 | Racing 92            |         2 |   0        |
-| Pau                  |         2 |   0.5      |
+| Glasgow Warriors     |         2 |   0        |
 | Leinster             |         2 |   0        |
+| Pau                  |         2 |   0.5      |
 | Calvisano            |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Bordeaux Begles      |         1 |   1        |
@@ -53,4 +54,3 @@ categories: player
 | Scarlets             |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |
 | Connacht             |         1 |   0        |
-| Glasgow Warriors     |         1 |   0        |

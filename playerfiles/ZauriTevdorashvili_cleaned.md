@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zauri Tevdorashvili  
-date: 2022-12-09 13:10:33.893710  
+date: 2022-12-14 11:11:47.691072  
 categories: player  
 ---
 # Zauri Tevdorashvili
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |            12 |       0.25 |
-| US Bressane      |             9 |       0.5  |
+| US Bressane      |            10 |       0.55 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,12 +31,13 @@ categories: player
 | Provence Rugby             |         2 |       0.75 |
 | Perpignan                  |         2 |       0    |
 | Albi                       |         1 |       0    |
-| Mont-de-Marsan             |         1 |       0    |
+| Narbonne                   |         1 |       0    |
+| Tarbes                     |         1 |       1    |
 | Rouen                      |         1 |       0    |
 | Oyonnax                    |         1 |       0    |
-| Narbonne                   |         1 |       0    |
-| Dax                        |         1 |       0    |
+| Mont-de-Marsan             |         1 |       0    |
 | Beziers                    |         1 |       1    |
+| Dax                        |         1 |       0    |
 | Colomiers                  |         1 |       0    |
 | Chambery                   |         1 |       1    |
 | Carqueiranne-Hyères        |         1 |       1    |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Pirlet  
-date: 2022-12-09 13:14:23.026555  
+date: 2022-12-12 15:29:42.991462  
 categories: player  
 ---
 # Hugo Pirlet

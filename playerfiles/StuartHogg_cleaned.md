@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart Hogg  
-date: 2022-11-22 11:28:39.858862  
+date: 2022-12-14 11:36:19.841126  
 categories: player  
 ---
 # Stuart Hogg
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 79.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Glasgow Warriors        |           121 |   0.595041 |
 | Scotland                |            92 |   0.48913  |
-| Exeter Chiefs           |            55 |   0.772727 |
+| Exeter Chiefs           |            56 |   0.776786 |
 | British and Irish Lions |             4 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -72,9 +72,9 @@ categories: player
 | Lyon                     |         2 |   1        |
 | La Rochelle              |         2 |   1        |
 | Glasgow Warriors         |         2 |   0.75     |
+| Castres Olympique        |         2 |   0.5      |
 | Tonga                    |         2 |   0.5      |
 | Canada                   |         1 |   1        |
-| Castres Olympique        |         1 |   0        |
 | Crusaders                |         1 |   1        |
 | Provincial Union XV      |         1 |   1        |
 | Toulon                   |         1 |   0        |

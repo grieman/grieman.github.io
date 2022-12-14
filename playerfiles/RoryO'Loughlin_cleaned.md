@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory O'Loughlin  
-date: 2022-11-22 11:32:04.763216  
+date: 2022-12-14 11:32:34.328374  
 categories: player  
 ---
 # Rory O'Loughlin
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 73.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Leinster      |            93 |   0.763441 |
-| Exeter Chiefs |             9 |   0.555556 |
+| Exeter Chiefs |            10 |   0.6      |
 | Ireland       |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -45,6 +45,7 @@ categories: player
 | Southern Kings      |         3 |   1        |
 | Northampton Saints  |         3 |   0.666667 |
 | Bath Rugby          |         2 |   1        |
+| Castres Olympique   |         2 |   0.75     |
 | Bulls               |         2 |   0.5      |
 | London Irish        |         1 |   1        |
 | Leicester Tigers    |         1 |   1        |
@@ -55,7 +56,6 @@ categories: player
 | Gloucester Rugby    |         1 |   0        |
 | Cheetahs            |         1 |   0        |
 | Sharks              |         1 |   0        |
-| Castres Olympique   |         1 |   0.5      |
 | Stormers            |         1 |   0        |
 | Bristol Rugby       |         1 |   1        |
 | Wasps               |         1 |   1        |

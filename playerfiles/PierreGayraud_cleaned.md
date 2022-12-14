@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Gayraud  
-date: 2022-12-09 13:12:19.353434  
+date: 2022-12-14 11:15:33.691797  
 categories: player  
 ---
 # Pierre Gayraud

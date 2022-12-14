@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mohamed Haouas  
-date: 2022-12-09 13:23:25.472973  
+date: 2022-12-14 11:18:24.115238  
 categories: player  
 ---
 # Mohamed Haouas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 40.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            98 |   0.545918 |
+| Montpellier Herault |            99 |   0.550505 |
 | France              |            14 |   0.785714 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -55,4 +55,5 @@ categories: player
 | Argentina            |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
 | Leinster             |         1 |   0        |
+| London Irish         |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |

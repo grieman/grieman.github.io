@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2022-12-09 13:18:09.340748  
+date: 2022-12-14 11:19:45.098702  
 categories: player  
 ---
 # Willem Nel
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 127.0
+## Current elo: 129.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Edinburgh           |           167 |   0.508982 |
+| Edinburgh           |           168 |   0.505952 |
 | Scotland            |            47 |   0.542553 |
 | Cheetahs            |            46 |   0.315217 |
 | Free State Cheetahs |            19 |   0.631579 |
@@ -54,12 +54,12 @@ categories: player
 | Pumas                    |         4 |  1         |
 | New South Wales Waratahs |         4 |  0.5       |
 | Golden Lions             |         4 |  0.25      |
+| Saracens                 |         4 |  0.25      |
 | Japan                    |         4 |  0.75      |
 | Samoa                    |         3 |  1         |
 | Gloucester Rugby         |         3 |  0.333333  |
 | Hurricanes               |         3 |  0.666667  |
 | Highlanders              |         3 |  0         |
-| Saracens                 |         3 |  0.333333  |
 | Brumbies                 |         3 |  0.333333  |
 | Blue Bulls               |         3 |  0.666667  |
 | Australia                |         3 |  0.333333  |

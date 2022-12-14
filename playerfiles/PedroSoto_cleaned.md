@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pedro Soto  
-date: 2022-12-09 13:05:20.120309  
+date: 2022-12-14 11:35:33.155621  
 categories: player  
 ---
 # Pedro Soto
 
 ## Positions: FB
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             5 |        0.2 |
+| Rennes |             6 |   0.166667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bourgoin-Jallieu    |         1 |          0 |
 | Carqueiranne-Hyères |         1 |          1 |
 | Dax                 |         1 |          0 |
 | Narbonne            |         1 |          0 |

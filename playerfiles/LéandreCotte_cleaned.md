@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Léandre Cotte  
-date: 2022-12-09 13:18:50.228656  
+date: 2022-12-14 11:28:24.413832  
 categories: player  
 ---
 # Léandre Cotte
 
 ## Positions: L
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 60.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |           115 |        0.4 |
-| Roval Drome XV   |             8 |        0   |
+| Bourgoin-Jallieu |           116 |   0.405172 |
+| Roval Drome XV   |             8 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -54,6 +54,7 @@ categories: player
 | Nevers                     |         1 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Périgueux                  |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Rouen                      |         1 |   0        |
 | Lyon                       |         1 |   1        |
 | La Rochelle                |         1 |   0        |

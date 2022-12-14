@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Zeghdar  
-date: 2022-12-09 13:05:58.969616  
+date: 2022-12-14 11:15:24.316068  
 categories: player  
 ---
 # Antoine Zeghdar
 
 ## Positions: C, W
 
-## Current elo: 91.0
+## Current elo: 88.0
 
-## Current Percentile: 36.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            30 |   0.616667 |
+| Castres Olympique |            31 |   0.596774 |
 | Oyonnax           |            14 |   0.571429 |
 | Toulon            |             1 |   0        |
 
@@ -48,6 +48,7 @@ categories: player
 | Mont-de-Marsan       |         1 |   0.5      |
 | Harlequins           |         1 |   0        |
 | Grenoble             |         1 |   0        |
+| Exeter Chiefs        |         1 |   0        |
 | Edinburgh            |         1 |   0        |
 | Colomiers            |         1 |   0.5      |
 | Brive                |         1 |   0        |

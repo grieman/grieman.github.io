@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Will Becconsall  
-date: 2022-11-16 11:28:15.818368  
+date: 2022-12-14 11:32:41.924164  
 categories: player  
 ---
 # Will Becconsall
 
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,9 +17,10 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |             2 |        0.5 |
+| Exeter Chiefs |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | London Irish       |         1 |          1 |
+| Newcastle Falcons  |         1 |          0 |
 | Northampton Saints |         1 |          0 |

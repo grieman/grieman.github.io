@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luka Goginava  
-date: 2022-11-22 11:40:27.558961  
+date: 2022-12-14 11:15:12.498583  
 categories: player  
 ---
 # Luka Goginava
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 44.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -22,19 +22,19 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |            28 |   0.375    |
-| Grenoble         |            11 |   0.454545 |
+| Grenoble         |            13 |   0.384615 |
 | Brive            |             1 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Mont-de-Marsan             |         4 |   0.5      |
+| Mont-de-Marsan             |         5 |   0.4      |
 | Oyonnax                    |         4 |   0        |
 | Beziers                    |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.166667 |
 | Carcassonne                |         3 |   0.333333 |
+| Colomiers                  |         3 |   0.333333 |
 | Grenoble                   |         3 |   0.333333 |
 | Aurillac                   |         2 |   1        |
-| Colomiers                  |         2 |   0.5      |
 | Montauban                  |         2 |   0.25     |
 | Nevers                     |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lukhan Salakaia-Loto  
-date: 2022-12-09 13:14:11.231897  
+date: 2022-12-14 11:17:07.400403  
 categories: player  
 ---
 # Lukhan Salakaia-Loto
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 24.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Queensland Reds    |            69 |   0.398551 |
 | Australia          |            31 |   0.435484 |
+| Northampton Saints |            12 |   0.416667 |
 | Brisbane City      |            11 |   0.454545 |
-| Northampton Saints |            11 |   0.454545 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -52,7 +52,7 @@ categories: player
 | Canberra Vikings         |         2 |   0.5      |
 | Lions                    |         2 |   0        |
 | Hurricanes               |         2 |   0        |
-| Leicester Tigers         |         1 |   0        |
+| Sale Sharks              |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Uruguay                  |         1 |   1        |
@@ -64,8 +64,8 @@ categories: player
 | Scotland                 |         1 |   0        |
 | Saracens                 |         1 |   0        |
 | Samoa                    |         1 |   1        |
-| Sale Sharks              |         1 |   0        |
 | Georgia                  |         1 |   1        |
+| La Rochelle              |         1 |   0        |
 | Perth Spirit             |         1 |   0        |
 | North Harbour Rays       |         1 |   0        |
 | Newcastle Falcons        |         1 |   1        |
@@ -76,4 +76,5 @@ categories: player
 | Harlequins               |         1 |   0        |
 | London Irish             |         1 |   1        |
 | Bath Rugby               |         1 |   0        |
+| Leicester Tigers         |         1 |   0        |
 | NSW Country Eagles       |         1 |   0        |

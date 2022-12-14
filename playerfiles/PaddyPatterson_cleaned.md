@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paddy Patterson  
-date: 2022-12-09 13:09:47.403162  
+date: 2022-12-14 11:34:14.557653  
 categories: player  
 ---
 # Paddy Patterson
 
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Munster  |            14 |   0.428571 |
+| Munster  |            15 |   0.4      |
 | Leinster |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -37,3 +37,4 @@ categories: player
 | Glasgow Warriors |         1 |        0   |
 | Lions            |         1 |        0   |
 | Southern Kings   |         1 |        1   |
+| Stade Toulousain |         1 |        0   |

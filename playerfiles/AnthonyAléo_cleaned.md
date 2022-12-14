@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anthony Aléo  
-date: 2022-12-09 13:13:18.936958  
+date: 2022-12-14 11:19:10.321987  
 categories: player  
 ---
 # Anthony Aléo
 
 ## Positions: P
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            17 |   0.676471 |
+| Valence Romans Drome Rugby |            18 |   0.638889 |
 | Beziers                    |             9 |   0.388889 |
 | Montauban                  |             3 |   0        |
 
@@ -45,6 +45,7 @@ categories: player
 | Aubenas                    |         1 |        1   |
 | Massy                      |         1 |        0   |
 | Dax                        |         1 |        0   |
+| Chambery                   |         1 |        0   |
 | Carqueiranne-Hyères        |         1 |        1   |
 | Carcassonne                |         1 |        0   |
 | Biarritz Olympique         |         1 |        0   |

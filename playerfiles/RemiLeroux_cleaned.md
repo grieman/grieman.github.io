@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Remi Leroux  
-date: 2022-11-22 11:26:05.343944  
+date: 2022-12-14 11:17:01.142248  
 categories: player  
 ---
 # Remi Leroux
 
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 103.0
 
-## Current Percentile: 83.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |            19 |   0.473684 |
-| Vannes      |             8 |   0.5625   |
+| Vannes      |             9 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,18 +30,19 @@ categories: player
 | Beziers              |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0        |
 | Sale Sharks          |         2 |   0.5      |
-| Colomiers            |         2 |   1        |
 | Racing 92            |         2 |   0        |
+| Colomiers            |         2 |   1        |
 | Pau                  |         2 |   1        |
 | Agen                 |         1 |   1        |
-| Oyonnax              |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Provence Rugby       |         1 |   0        |
+| Oyonnax              |         1 |   0        |
 | Massy                |         1 |   1        |
-| Bayonne              |         1 |   1        |
+| Aurillac             |         1 |   0        |
 | Glasgow Warriors     |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
 | Castres Olympique    |         1 |   0        |
 | Carcassonne          |         1 |   0.5      |
 | Bristol Rugby        |         1 |   1        |
+| Bayonne              |         1 |   1        |
 | Toulon               |         1 |   1        |

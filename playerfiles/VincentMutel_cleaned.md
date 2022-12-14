@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent Mutel  
-date: 2022-12-09 13:13:38.345964  
+date: 2022-12-12 15:12:55.314903  
 categories: player  
 ---
 # Vincent Mutel

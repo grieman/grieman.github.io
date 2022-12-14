@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lewis Gjaltema  
-date: 2022-12-09 13:16:46.882897  
+date: 2022-12-14 11:30:00.113323  
 categories: player  
 ---
 # Lewis Gjaltema
 
 ## Positions: SH
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,26 +21,27 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Harlequins    |            25 |   0.56     |
+| Harlequins    |            26 |   0.538462 |
 | North Harbour |            17 |   0.470588 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Northampton Saints |         3 |   0.666667 |
+| Saracens           |         3 |   0        |
 | Canterbury         |         3 |   0        |
 | Gloucester Rugby   |         3 |   1        |
 | Leicester Tigers   |         3 |   0.333333 |
 | London Irish       |         3 |   0.666667 |
 | Tasman             |         3 |   0        |
-| Northampton Saints |         3 |   0.666667 |
-| Saracens           |         3 |   0        |
-| Newcastle Falcons  |         2 |   1        |
-| Sale Sharks        |         2 |   0.5      |
 | Wellington         |         2 |   0.5      |
 | Exeter Chiefs      |         2 |   0        |
+| Newcastle Falcons  |         2 |   1        |
 | Bath Rugby         |         2 |   0.5      |
+| Sale Sharks        |         2 |   0.5      |
 | Wasps              |         1 |   1        |
 | Waikato            |         1 |   1        |
 | Taranaki           |         1 |   1        |
+| Sharks             |         1 |   0        |
 | Auckland           |         1 |   0        |
 | Otago              |         1 |   0        |
 | Northland          |         1 |   1        |

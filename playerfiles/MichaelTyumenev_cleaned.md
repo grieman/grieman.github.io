@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Tyumenev  
-date: 2022-12-09 13:06:49.747273  
+date: 2022-12-14 11:17:34.718720  
 categories: player  
 ---
 # Michael Tyumenev
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 76.0
+## Current elo: 77.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -23,24 +23,25 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |            10 |   0.4      |
+| Carqueiranne-Hyères |            11 |   0.363636 |
 | Germany             |             6 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          1 |
-| Belgium                    |         1 |          0 |
-| Blagnac                    |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Chambery                   |         1 |          1 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
-| Kenya                      |         1 |          1 |
-| Namibia                    |         1 |          0 |
 | Narbonne                   |         1 |          0 |
-| Rennes                     |         1 |          0 |
-| Samoa                      |         1 |          0 |
-| Spain                      |         1 |          0 |
-| Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          1 |
+| Suresnes                   |         1 |          0 |
+| Spain                      |         1 |          0 |
+| Samoa                      |         1 |          0 |
+| Rennes                     |         1 |          0 |
+| Nice                       |         1 |          0 |
+| Namibia                    |         1 |          0 |
+| Belgium                    |         1 |          0 |
+| Kenya                      |         1 |          1 |
+| Dax                        |         1 |          0 |
+| Cognac Saint Jean d'Angély |         1 |          1 |
+| Chambery                   |         1 |          1 |
+| Bourgoin-Jallieu           |         1 |          0 |
+| Blagnac                    |         1 |          0 |
 | Uruguay                    |         1 |          1 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cian Healy  
-date: 2022-12-09 13:20:26.101336  
+date: 2022-12-14 11:12:22.950264  
 categories: player  
 ---
 # Cian Healy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Leinster  |           225 |   0.777778 |
+| Leinster  |           226 |   0.778761 |
 | Ireland   |           109 |   0.637615 |
 | Edinburgh |             1 |   0        |
 
@@ -59,8 +59,8 @@ categories: player
 | Stade Toulousain         |         5 |   0.6      |
 | Toulon                   |         4 |   0        |
 | Exeter Chiefs            |         4 |   1        |
+| Racing 92                |         4 |   1        |
 | Japan                    |         3 |   0.666667 |
-| Racing 92                |         3 |   1        |
 | London Irish             |         2 |   0.25     |
 | Lyon                     |         2 |   1        |
 | Leicester Tigers         |         2 |   1        |

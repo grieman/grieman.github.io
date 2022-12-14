@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Loic Le Gal  
-date: 2022-12-09 13:04:51.543499  
+date: 2022-12-14 11:18:53.411998  
 categories: player  
 ---
 # Loic Le Gal

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles-Henri Berguet  
-date: 2022-12-09 13:24:39.094613  
+date: 2022-12-14 11:17:31.746564  
 categories: player  
 ---
 # Charles-Henri Berguet
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 36.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -23,14 +23,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Vannes         |             8 |        0.5 |
-| Belgium        |             1 |        0   |
-| Mont-de-Marsan |             1 |        1   |
+| Vannes         |             9 |   0.444444 |
+| Belgium        |             1 |   0        |
+| Mont-de-Marsan |             1 |   1        |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
 | Rouen          |         2 |        0.5 |
 | Agen           |         1 |        0   |
+| Aurillac       |         1 |        0   |
 | Beziers        |         1 |        1   |
 | Canada         |         1 |        0   |
 | Colomiers      |         1 |        1   |

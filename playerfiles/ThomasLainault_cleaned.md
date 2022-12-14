@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Lainault  
-date: 2022-12-09 13:15:01.761818  
+date: 2022-12-12 15:05:08.986581  
 categories: player  
 ---
 # Thomas Lainault
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 

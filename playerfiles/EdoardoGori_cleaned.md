@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Edoardo Gori  
-date: 2022-12-09 13:09:35.177959  
+date: 2022-12-12 15:40:45.377790  
 categories: player  
 ---
 # Edoardo Gori
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 63.0
+## Current Percentile: 64.0
 
 # Elo History
 

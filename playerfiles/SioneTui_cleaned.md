@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sione Tui  
-date: 2022-12-09 13:06:31.508295  
+date: 2022-12-14 11:31:39.800227  
 categories: player  
 ---
 # Sione Tui
 
 ## Positions: FB, W
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 31.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Carcassonne          |            32 |   0.609375 |
-| Stade Francais Paris |             7 |   0.214286 |
+| Stade Francais Paris |             8 |   0.3125   |
 | Melbourne Rising     |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,6 +39,7 @@ categories: player
 | Agen                       |         2 |   0.5      |
 | Colomiers                  |         2 |   1        |
 | Beziers                    |         2 |   1        |
+| Benetton Treviso           |         2 |   0.5      |
 | Mont-de-Marsan             |         1 |   0        |
 | Lyon                       |         1 |   0        |
 | La Rochelle                |         1 |   1        |
@@ -48,6 +49,5 @@ categories: player
 | Soyaux-Angouleme           |         1 |   1        |
 | Stade Toulousain           |         1 |   0.5      |
 | Toulon                     |         1 |   0        |
-| Benetton Treviso           |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |

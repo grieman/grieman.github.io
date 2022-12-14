@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steven Kitshoff  
-date: 2022-11-22 11:40:04.660183  
+date: 2022-12-14 11:17:38.449074  
 categories: player  
 ---
 # Steven Kitshoff
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |           114 |   0.605263 |
-| South Africa     |            69 |   0.586957 |
+| Stormers         |           115 |   0.6      |
+| South Africa     |            70 |   0.592857 |
 | Bordeaux Begles  |            34 |   0.529412 |
 | Western Province |            34 |   0.691176 |
 
@@ -38,24 +38,24 @@ categories: player
 | Australia                |        10 |   0.4      |
 | Wales                    |         8 |   0.5      |
 | Griquas                  |         8 |   0.9375   |
+| England                  |         8 |   0.5      |
 | Golden Lions             |         8 |   0.3125   |
 | Blues                    |         7 |   0.571429 |
 | Blue Bulls               |         7 |   0.5      |
 | Cheetahs                 |         7 |   0.714286 |
-| England                  |         7 |   0.428571 |
 | Brumbies                 |         6 |   0.5      |
 | France                   |         6 |   0.833333 |
+| Clermont Auvergne        |         6 |   0.25     |
 | Hurricanes               |         6 |   0.666667 |
 | Melbourne Rebels         |         5 |   0.8      |
 | Queensland Reds          |         5 |   0.6      |
 | Jaguares                 |         5 |   0.6      |
 | Highlanders              |         5 |   0.6      |
 | New South Wales Waratahs |         5 |   0.4      |
-| Clermont Auvergne        |         5 |   0.3      |
 | Chiefs                   |         5 |   0.2      |
 | Crusaders                |         5 |   0.1      |
-| Natal Sharks             |         4 |   0.75     |
 | Free State Cheetahs      |         4 |   1        |
+| Natal Sharks             |         4 |   0.75     |
 | British and Irish Lions  |         3 |   0.666667 |
 | Ulster                   |         3 |   1        |
 | Ospreys                  |         3 |   0.833333 |
@@ -64,13 +64,13 @@ categories: player
 | Stade Francais Paris     |         3 |   1        |
 | Grenoble                 |         3 |   1        |
 | Ireland                  |         3 |   0.333333 |
+| Scotland                 |         2 |   1        |
 | Stade Toulousain         |         2 |   0.75     |
 | Sunwolves                |         2 |   1        |
 | Pumas                    |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
 | Southern Kings           |         2 |   1        |
 | Racing 92                |         2 |   0        |
-| Scotland                 |         2 |   1        |
 | Western Force            |         2 |   1        |
 | Brive                    |         2 |   0.5      |
 | Cardiff Blues            |         2 |   0.5      |

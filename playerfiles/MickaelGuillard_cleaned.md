@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mickael Guillard  
-date: 2022-12-09 13:10:13.806549  
+date: 2022-12-14 11:37:05.826199  
 categories: player  
 ---
 # Mickael Guillard
 
-## Positions: L, FL
+## Positions: FL, L
 
-## Current elo: 97.0
+## Current elo: 99.0
 
 ## Current Percentile: 62.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Lyon   |            23 |   0.608696 |
+| Lyon   |            24 |   0.583333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,5 +36,6 @@ categories: player
 | Agen                 |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
 | Bordeaux Begles      |         1 |   1        |
+| Bulls                |         1 |   0        |
 | Pau                  |         1 |   1        |
 | Stade Toulousain     |         1 |   1        |

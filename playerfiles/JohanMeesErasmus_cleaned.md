@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Johan Mees Erasmus  
-date: 2022-12-09 13:23:42.256126  
+date: 2022-12-14 11:34:15.150887  
 categories: player  
 ---
 # Johan Mees Erasmus
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 84.0
 
 ## Current Percentile: 11.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Tarbes       |            11 |   0.363636 |
+| Tarbes       |            12 |   0.333333 |
 | Perth Spirit |             2 |   0.5      |
 | Colomiers    |             1 |   0        |
 
@@ -38,4 +38,5 @@ categories: player
 | Nice                       |         1 |        0   |
 | Rennes                     |         1 |        1   |
 | Soyaux-Angouleme           |         1 |        0   |
+| US Bressane                |         1 |        0   |
 | Vannes                     |         1 |        0   |

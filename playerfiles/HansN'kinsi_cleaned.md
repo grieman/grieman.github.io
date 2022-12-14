@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hans N'kinsi  
-date: 2022-12-09 13:15:33.595137  
+date: 2022-12-14 11:30:45.437147  
 categories: player  
 ---
 # Hans N'kinsi
 
 ## Positions: L
 
-## Current elo: 75.0
+## Current elo: 73.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Narbonne          |            49 |   0.489796 |
 | Grenoble          |            32 |   0.421875 |
-| Provence Rugby    |            24 |   0.541667 |
+| Provence Rugby    |            25 |   0.56     |
 | Castres Olympique |            14 |   0.214286 |
 | Beziers           |             1 |   0        |
 
@@ -44,12 +44,12 @@ categories: player
 | Bayonne             |         4 |   0.25     |
 | Stade Toulousain    |         3 |   0        |
 | Tarbes              |         3 |   0.333333 |
+| Rouen               |         3 |   0.666667 |
 | Racing 92           |         3 |   0.333333 |
 | Toulon              |         3 |   0        |
 | Albi                |         3 |   0.333333 |
 | Vannes              |         3 |   0.666667 |
 | Soyaux-Angouleme    |         3 |   0.666667 |
-| Rouen               |         2 |   0.5      |
 | Pau                 |         2 |   0        |
 | Massy               |         2 |   0.5      |
 | Narbonne            |         2 |   0.25     |

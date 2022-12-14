@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyle Brink  
-date: 2022-12-09 13:09:58.588565  
+date: 2022-12-12 14:47:44.585459  
 categories: player  
 ---
 # Cyle Brink
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 11.0
+## Current Percentile: 10.0
 
 # Elo History
 

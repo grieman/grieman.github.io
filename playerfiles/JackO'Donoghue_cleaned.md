@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack O'Donoghue  
-date: 2022-12-09 13:19:35.302570  
+date: 2022-12-14 11:32:09.207043  
 categories: player  
 ---
 # Jack O'Donoghue
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |           162 |   0.682099 |
+| Munster |           163 |   0.677914 |
 | Ireland |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -47,9 +47,9 @@ categories: player
 | Bulls                |         2 |  0.5       |
 | Cheetahs             |         2 |  1         |
 | Stade Francais Paris |         2 |  0.5       |
+| Stade Toulousain     |         2 |  0.5       |
 | Japan                |         1 |  1         |
 | Sharks               |         1 |  1         |
-| Stade Toulousain     |         1 |  1         |
 | Stormers             |         1 |  1         |
 | Toulon               |         1 |  1         |
 | Canada               |         1 |  1         |

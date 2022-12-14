@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Petero Tuwai  
-date: 2022-12-09 13:09:23.146998  
+date: 2022-12-14 11:34:33.446745  
 categories: player  
 ---
 # Petero Tuwai
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 39.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             9 |   0.555556 |
-| Toulon   |             1 |   0        |
+| Suresnes |            10 |        0.5 |
+| Toulon   |             1 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          1 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Castres Olympique          |         1 |          0 |

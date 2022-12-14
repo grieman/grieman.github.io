@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Louis Le Brun  
-date: 2022-12-09 13:22:05.277615  
+date: 2022-12-14 11:23:24.597694  
 categories: player  
 ---
 # Louis Le Brun
 
 ## Positions: FH, FB
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: 30.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            12 |   0.333333 |
+| Castres Olympique |            13 |   0.307692 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Perpignan            |         2 |        0.5 |
 | Bordeaux Begles      |         1 |        0   |
 | Brive                |         1 |        1   |
+| Exeter Chiefs        |         1 |        0   |
 | Lyon                 |         1 |        0   |
 | Newcastle Falcons    |         1 |        0   |
 | Pau                  |         1 |        1   |

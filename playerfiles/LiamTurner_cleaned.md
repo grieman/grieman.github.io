@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Liam Turner  
-date: 2022-12-09 13:06:44.672921  
+date: 2022-12-12 15:36:03.434670  
 categories: player  
 ---
 # Liam Turner
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 80.0
+## Current Percentile: 81.0
 
 # Elo History
 

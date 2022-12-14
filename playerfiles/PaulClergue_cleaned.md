@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul Clergue  
-date: 2022-11-22 11:42:32.504725  
+date: 2022-12-14 11:16:16.432931  
 categories: player  
 ---
 # Paul Clergue
 
 ## Positions: FB
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 40.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |             8 |     0.5625 |
+| Albi   |             9 |   0.611111 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         2 |        1   |
 | Blagnac                    |         1 |        0   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
 | Massy                      |         1 |        0   |
 | Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        0.5 |

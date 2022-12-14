@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom O'Toole  
-date: 2022-12-09 13:23:14.107371  
+date: 2022-12-14 11:14:55.990850  
 categories: player  
 ---
 # Tom O'Toole
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |            66 |   0.643939 |
+| Ulster  |            67 |   0.634328 |
 | Ireland |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -47,6 +47,7 @@ categories: player
 | Bath Rugby               |         2 |   1        |
 | Fiji                     |         1 |   1        |
 | New Zealand              |         1 |   0        |
+| Sale Sharks              |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | Bulls                    |         1 |   0        |

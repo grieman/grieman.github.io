@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo Idjellidaine  
-date: 2022-12-09 13:12:56.468501  
+date: 2022-12-12 15:03:22.268303  
 categories: player  
 ---
 # Theo Idjellidaine
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 27.0
+## Current Percentile: 28.0
 
 # Elo History
 

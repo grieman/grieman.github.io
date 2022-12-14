@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mariano Ezequiel Filomeno  
-date: 2022-12-09 13:15:52.131819  
+date: 2022-12-14 11:34:17.687490  
 categories: player  
 ---
 # Mariano Ezequiel Filomeno
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 43.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |             7 |   0.571429 |
-| Cobras |             5 |   0        |
+| Tarbes |             8 |        0.5 |
+| Cobras |             5 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Rennes                     |         1 |          1 |
 | Selknam                    |         1 |          0 |
 | Suresnes                   |         1 |          0 |
+| US Bressane                |         1 |          0 |

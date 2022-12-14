@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gabriel Ngandebe  
-date: 2022-12-09 13:22:01.557614  
+date: 2022-12-12 15:21:57.807693  
 categories: player  
 ---
 # Gabriel Ngandebe

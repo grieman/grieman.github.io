@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre-Alexandre Duclieu  
-date: 2022-12-09 13:18:46.580155  
+date: 2022-12-14 11:29:30.573687  
 categories: player  
 ---
 # Pierre-Alexandre Duclieu
 
 ## Positions: H
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 21.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |             8 |       0.75 |
+| Massy  |             9 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Aubenas          |         1 |          1 |
 | Bourgoin-Jallieu |         1 |          1 |
 | Chambery         |         1 |          1 |
+| Colomiers        |         1 |          0 |
 | Dijon            |         1 |          1 |
 | Soyaux-Angouleme |         1 |          0 |
 | Suresnes         |         1 |          1 |

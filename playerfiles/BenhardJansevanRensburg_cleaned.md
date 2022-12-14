@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benhard Janse van Rensburg  
-date: 2022-11-22 11:27:30.381825  
+date: 2022-12-14 11:31:44.934724  
 categories: player  
 ---
 # Benhard Janse van Rensburg
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 27.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| London Irish          |            32 |   0.421875 |
+| London Irish          |            34 |   0.397059 |
 | Cheetahs              |            29 |   0.396552 |
 | Free State Cheetahs   |             7 |   0.571429 |
 | Green Rockets Tokatsu |             6 |   0        |
@@ -44,7 +44,8 @@ categories: player
 | Cardiff Blues         |         3 |   0.333333 |
 | Bristol Rugby         |         3 |   0.333333 |
 | Worcester Warriors    |         3 |   0.666667 |
-| Leicester Tigers      |         2 |   0        |
+| Leicester Tigers      |         3 |   0        |
+| Leinster              |         2 |   0        |
 | Scarlets              |         2 |   0        |
 | Saracens              |         2 |   0.75     |
 | Wasps                 |         2 |   0.25     |
@@ -53,24 +54,24 @@ categories: player
 | Munster               |         2 |   0        |
 | Bath Rugby            |         2 |   0.5      |
 | Free State Cheetahs   |         2 |   0.5      |
-| Golden Lions          |         2 |   0.5      |
 | Blue Bulls            |         2 |   0.5      |
 | Connacht              |         2 |   0        |
-| Dragons               |         2 |   0.5      |
+| Golden Lions          |         2 |   0.5      |
 | Glasgow Warriors      |         2 |   0        |
-| Leinster              |         2 |   0        |
-| Pumas                 |         1 |   1        |
+| Dragons               |         2 |   0.5      |
+| Shizuoka Blue Revs    |         1 |   0        |
+| Yokohama Canon Eagles |         1 |   0        |
+| Black Rams Tokyo      |         1 |   0        |
+| Cheetahs              |         1 |   0        |
+| Sunwolves             |         1 |   1        |
+| Stormers              |         1 |   1        |
+| Benetton Treviso      |         1 |   1        |
+| Montpellier Herault   |         1 |   0        |
 | Saitama Wild Knights  |         1 |   0        |
+| Pumas                 |         1 |   1        |
 | Griquas               |         1 |   1        |
 | Hino Red Dolphins     |         1 |   0        |
-| Melbourne Rebels      |         1 |   0.5      |
-| Shizuoka Blue Revs    |         1 |   0        |
 | Jaguares              |         1 |   1        |
-| Stormers              |         1 |   1        |
-| Sunwolves             |         1 |   1        |
 | Natal Sharks          |         1 |   0        |
-| Cheetahs              |         1 |   0        |
 | Kobelco Kobe Steelers |         1 |   0        |
-| Black Rams Tokyo      |         1 |   0        |
-| Yokohama Canon Eagles |         1 |   0        |
-| Benetton Treviso      |         1 |   1        |
+| Melbourne Rebels      |         1 |   0.5      |

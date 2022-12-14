@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hika Elliot  
-date: 2022-12-09 13:22:13.121309  
+date: 2022-12-14 11:29:52.438812  
 categories: player  
 ---
 # Hika Elliot
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 112.0
+## Current elo: 113.0
 
 ## Current Percentile: 92.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Chiefs            |           117 |   0.645299 |
-| Colomiers         |            25 |   0.52     |
+| Colomiers         |            26 |   0.538462 |
 | Hawke's Bay       |            20 |   0.525    |
 | Oyonnax           |            19 |   0.473684 |
 | Nevers            |            16 |   0.625    |
@@ -77,6 +77,7 @@ categories: player
 | Agen                     |         2 |   0.5      |
 | Worcester Warriors       |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0.75     |
+| Massy                    |         2 |   1        |
 | Biarritz Olympique       |         2 |   0        |
 | Bordeaux Begles          |         2 |   0.5      |
 | British and Irish Lions  |         2 |   0        |
@@ -98,6 +99,5 @@ categories: player
 | Jaguares                 |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Lyon                     |         1 |   1        |
-| Massy                    |         1 |   1        |
 | Auckland                 |         1 |   0.5      |
 | Stade Francais Paris     |         1 |   1        |

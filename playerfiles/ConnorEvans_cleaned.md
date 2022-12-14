@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Connor Evans  
-date: 2022-12-09 13:09:17.836192  
+date: 2022-12-12 15:18:02.847696  
 categories: player  
 ---
 # Connor Evans
 
 ## Positions: L
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 

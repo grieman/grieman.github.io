@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oisin Dowling  
-date: 2022-12-09 13:09:31.816457  
+date: 2022-12-12 15:11:15.970853  
 categories: player  
 ---
 # Oisin Dowling
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 24.0
+## Current Percentile: 23.0
 
 # Elo History
 

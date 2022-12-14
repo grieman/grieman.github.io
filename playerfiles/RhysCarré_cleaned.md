@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Carré  
-date: 2022-12-09 13:19:16.264631  
+date: 2022-12-14 11:18:14.702124  
 categories: player  
 ---
 # Rhys Carré
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 36.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -23,43 +23,44 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            51 |   0.431373 |
+| Cardiff Blues |            52 |   0.442308 |
 | Wales         |            15 |   0.333333 |
 | Saracens      |             8 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Ospreys            |         7 |   0.142857 |
 | Scarlets           |         7 |   0.571429 |
-| Connacht           |         5 |   0.6      |
+| Ospreys            |         7 |   0.142857 |
 | Glasgow Warriors   |         5 |   0.2      |
-| Edinburgh          |         4 |   0.5      |
+| Connacht           |         5 |   0.6      |
 | Munster            |         4 |   0.5      |
+| Edinburgh          |         4 |   0.5      |
 | Zebre              |         3 |   0.666667 |
 | Dragons            |         3 |   1        |
 | South Africa       |         3 |   0        |
-| Bulls              |         2 |   0        |
 | New Zealand        |         2 |   0        |
 | Sharks             |         2 |   1        |
 | Ireland            |         2 |   0        |
-| Ulster             |         2 |   0        |
 | France             |         2 |   0.5      |
 | Fiji               |         2 |   1        |
 | Exeter Chiefs      |         2 |   0        |
+| Ulster             |         2 |   0        |
+| Bulls              |         2 |   0        |
 | Stormers           |         1 |   1        |
-| Racing 92          |         1 |   0        |
 | Scotland           |         1 |   0        |
 | Uruguay            |         1 |   1        |
-| Sale Sharks        |         1 |   1        |
 | Wasps              |         1 |   0        |
+| Sale Sharks        |         1 |   1        |
+| Racing 92          |         1 |   0        |
 | Benetton Treviso   |         1 |   0        |
 | Northampton Saints |         1 |   1        |
 | Newcastle Falcons  |         1 |   0        |
+| Lyon               |         1 |   1        |
 | Bristol Rugby      |         1 |   1        |
-| Leinster           |         1 |   1        |
 | Leicester Tigers   |         1 |   0        |
 | Italy              |         1 |   1        |
 | Harlequins         |         1 |   0        |
 | England            |         1 |   0        |
 | Cheetahs           |         1 |   0        |
-| Lyon               |         1 |   1        |
+| Brive              |         1 |   1        |
+| Leinster           |         1 |   1        |

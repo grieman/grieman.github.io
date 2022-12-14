@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sammy Arnold  
-date: 2022-12-09 13:24:53.877322  
+date: 2022-12-12 15:25:08.761476  
 categories: player  
 ---
 # Sammy Arnold
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 

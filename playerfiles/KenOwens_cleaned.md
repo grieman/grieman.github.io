@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ken Owens  
-date: 2022-11-22 11:43:25.516849  
+date: 2022-12-14 11:26:49.187196  
 categories: player  
 ---
 # Ken Owens
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 98.0
+## Current elo: 95.0
 
-## Current Percentile: 72.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Scarlets                |           215 |   0.509302 |
-| Wales                   |            80 |   0.60625  |
+| Scarlets                |           216 |   0.511574 |
+| Wales                   |            81 |   0.598765 |
 | British and Irish Lions |            11 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,8 +32,8 @@ categories: player
 | Cardiff Blues        |        23 |   0.565217 |
 | Dragons              |        22 |   0.863636 |
 | Leinster             |        18 |   0.25     |
-| Ospreys              |        17 |   0.441176 |
 | Ulster               |        17 |   0.352941 |
+| Ospreys              |        17 |   0.441176 |
 | Glasgow Warriors     |        15 |   0.4      |
 | Connacht             |        13 |   0.769231 |
 | Munster              |        13 |   0.115385 |
@@ -43,40 +43,41 @@ categories: player
 | Ireland              |        11 |   0.5      |
 | Edinburgh            |        10 |   0.3      |
 | Italy                |        10 |   1        |
-| New Zealand          |         9 |   0.166667 |
 | Scotland             |         9 |   0.888889 |
 | South Africa         |         9 |   0.333333 |
+| New Zealand          |         9 |   0.166667 |
+| Australia            |         7 |   0.285714 |
 | Toulon               |         6 |   0.333333 |
-| Australia            |         6 |   0.333333 |
 | London Irish         |         5 |   1        |
 | Clermont Auvergne    |         4 |   0        |
 | Northampton Saints   |         4 |   0.25     |
-| Leicester Tigers     |         3 |   0.333333 |
 | Racing 92            |         3 |   0        |
 | Saracens             |         3 |   0.5      |
+| Leicester Tigers     |         3 |   0.333333 |
 | Aironi               |         3 |   1        |
 | Zebre                |         3 |   1        |
 | Harlequins           |         3 |   0.166667 |
 | Brive                |         3 |   0.666667 |
-| Argentina            |         2 |   1        |
-| Georgia              |         2 |   0.5      |
-| Fiji                 |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
 | Bath Rugby           |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
+| Argentina            |         2 |   1        |
 | Castres Olympique    |         2 |   1        |
-| Bristol Rugby        |         1 |   1        |
+| Georgia              |         2 |   0.5      |
+| Fiji                 |         2 |   1        |
+| Highlanders          |         1 |   0        |
 | Yorkshire Carnegie   |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
 | Uruguay              |         1 |   1        |
-| Blues                |         1 |   0        |
-| Tonga                |         1 |   1        |
-| Japan                |         1 |   1        |
-| Sale Sharks          |         1 |   1        |
 | La Rochelle          |         1 |   1        |
+| Bayonne              |         1 |   1        |
+| Tonga                |         1 |   1        |
+| Namibia              |         1 |   1        |
+| Blues                |         1 |   0        |
+| Sale Sharks          |         1 |   1        |
+| Japan                |         1 |   1        |
 | Perpignan            |         1 |   1        |
+| Cheetahs             |         1 |   1        |
 | Crusaders            |         1 |   1        |
 | New Zealand Maori    |         1 |   1        |
-| Namibia              |         1 |   1        |
-| Highlanders          |         1 |   0        |
-| Cheetahs             |         1 |   1        |
+| Bristol Rugby        |         1 |   1        |

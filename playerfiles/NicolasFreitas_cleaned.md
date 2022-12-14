@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Freitas  
-date: 2022-12-09 13:04:49.945498  
+date: 2022-12-14 11:35:50.690212  
 categories: player  
 ---
 # Nicolas Freitas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 68.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Uruguay       |            20 |   0.4      |
-| Vannes        |            17 |   0.470588 |
+| Vannes        |            18 |   0.444444 |
 | Penarol Rugby |             8 |   0.625    |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,18 +36,18 @@ categories: player
 | Namibia                  |         2 |   1        |
 | Olimpia Lions            |         2 |   1        |
 | Oyonnax                  |         2 |   0        |
-| Mont-de-Marsan           |         1 |   0        |
-| Narbonne                 |         1 |   1        |
-| Agen                     |         1 |   0        |
+| Aurillac                 |         2 |   0.5      |
+| Massy                    |         1 |   1        |
 | Provence Rugby           |         1 |   0        |
-| Japan                    |         1 |   0        |
 | Rouen                    |         1 |   0        |
 | Soyaux-Angouleme         |         1 |   0        |
 | US Bressane              |         1 |   1        |
+| Narbonne                 |         1 |   1        |
 | United States of America |         1 |   1        |
-| Massy                    |         1 |   1        |
+| Mont-de-Marsan           |         1 |   0        |
+| Agen                     |         1 |   0        |
 | Jaguares XV              |         1 |   0        |
-| Aurillac                 |         1 |   1        |
+| Japan                    |         1 |   0        |
 | Italy                    |         1 |   0        |
 | Grenoble                 |         1 |   1        |
 | Germany                  |         1 |   0        |

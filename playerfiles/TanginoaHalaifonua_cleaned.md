@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tanginoa Halaifonua  
-date: 2022-12-09 13:10:43.749919  
+date: 2022-12-14 11:22:37.031423  
 categories: player  
 ---
 # Tanginoa Halaifonua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 75.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            37 |   0.540541 |
+| Grenoble |            38 |   0.526316 |
 | Massy    |            14 |   0.107143 |
 | Tonga    |             8 |   0.5      |
 | Lyon     |             6 |   0        |
@@ -33,9 +33,9 @@ categories: player
 | Montauban          |         7 |   0.428571 |
 | Aurillac           |         5 |   0.6      |
 | Oyonnax            |         5 |   0.2      |
+| Mont-de-Marsan     |         4 |   0.5      |
 | Beziers            |         4 |   0.25     |
 | Nevers             |         4 |   0.875    |
-| Mont-de-Marsan     |         3 |   0.666667 |
 | Biarritz Olympique |         3 |   0.166667 |
 | Carcassonne        |         3 |   0.333333 |
 | Provence Rugby     |         3 |   0        |

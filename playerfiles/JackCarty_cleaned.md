@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Carty  
-date: 2022-12-09 13:11:12.898816  
+date: 2022-12-12 15:40:25.548250  
 categories: player  
 ---
 # Jack Carty
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 

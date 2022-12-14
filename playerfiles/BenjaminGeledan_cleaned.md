@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benjamin Geledan  
-date: 2022-11-22 11:37:51.068382  
+date: 2022-12-14 11:15:17.272040  
 categories: player  
 ---
 # Benjamin Geledan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 73.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Oyonnax     |            96 |   0.526042 |
+| Oyonnax     |            98 |   0.535714 |
 | La Rochelle |            73 |   0.513699 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         9 |   0.722222 |
 | Colomiers                  |         8 |   0.4375   |
+| Aurillac                   |         7 |   0.285714 |
 | Biarritz Olympique         |         7 |   0.142857 |
 | Montpellier Herault        |         7 |   0.5      |
-| Aurillac                   |         6 |   0.166667 |
 | Oyonnax                    |         6 |   0.333333 |
 | Narbonne                   |         6 |   0.666667 |
 | Carcassonne                |         6 |   0.833333 |
@@ -40,22 +40,22 @@ categories: player
 | Grenoble                   |         5 |   0.4      |
 | Dax                        |         5 |   0.8      |
 | Mont-de-Marsan             |         5 |   0.4      |
-| Clermont Auvergne          |         5 |   0.2      |
 | Brive                      |         5 |   0.2      |
+| Clermont Auvergne          |         5 |   0.2      |
 | Provence Rugby             |         4 |   0.625    |
+| Pau                        |         4 |   0.5      |
 | Castres Olympique          |         4 |   0        |
 | Stade Toulousain           |         4 |   0.375    |
 | Lyon                       |         4 |   0.75     |
 | Racing 92                  |         4 |   0        |
-| Pau                        |         4 |   0.5      |
+| Montauban                  |         4 |   0.75     |
 | Nevers                     |         4 |   0.75     |
-| Bordeaux Begles            |         3 |   0.666667 |
 | Worcester Warriors         |         3 |   0.333333 |
 | Toulon                     |         3 |   0.666667 |
 | Stade Francais Paris       |         3 |   0.5      |
 | Connacht                   |         3 |   0        |
+| Bordeaux Begles            |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   1        |
-| Montauban                  |         3 |   0.666667 |
 | Albi                       |         3 |   0.666667 |
 | Massy                      |         3 |   1        |
 | Rouen                      |         2 |   0.5      |

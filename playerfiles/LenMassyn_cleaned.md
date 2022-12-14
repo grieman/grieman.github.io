@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Len Massyn  
-date: 2022-12-09 13:16:23.201805  
+date: 2022-12-14 11:21:49.135726  
 categories: player  
 ---
 # Len Massyn
 
 ## Positions: N8, FL
 
-## Current elo: 78.0
+## Current elo: 77.0
 
-## Current Percentile: 5.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Golden Lions        |            13 |   0.615385 |
-| Tarbes              |            10 |   0.4      |
+| Tarbes              |            11 |   0.363636 |
 | Lions               |             9 |   0.333333 |
 | Ealing Trailfinders |             3 |   0.666667 |
 
@@ -30,12 +30,11 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Natal Sharks               |         3 |   0.333333 |
 | Blue Bulls                 |         3 |   0.333333 |
-| Jaguares                   |         2 |   0        |
+| Western Province           |         2 |   0.5      |
 | Free State Cheetahs        |         2 |   1        |
 | Griquas                    |         2 |   1        |
-| Western Province           |         2 |   0.5      |
-| Brumbies                   |         1 |   1        |
-| New South Wales Waratahs   |         1 |   0        |
+| Jaguares                   |         2 |   0        |
+| US Bressane                |         1 |   0        |
 | Suresnes                   |         1 |   0        |
 | Sunwolves                  |         1 |   1        |
 | Stormers                   |         1 |   0        |
@@ -44,14 +43,16 @@ categories: player
 | Queensland Reds            |         1 |   1        |
 | Pumas                      |         1 |   1        |
 | Nice                       |         1 |   0        |
-| Blagnac                    |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   0        |
+| New South Wales Waratahs   |         1 |   0        |
+| Ampthill                   |         1 |   1        |
 | Narbonne                   |         1 |   1        |
-| Melbourne Rebels           |         1 |   0        |
 | Bedford                    |         1 |   0        |
-| Blues                      |         1 |   0        |
-| Bourgoin-Jallieu           |         1 |   1        |
 | Dax                        |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Chambery                   |         1 |   0        |
-| Ampthill                   |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   0        |
+| Brumbies                   |         1 |   1        |
+| Bourgoin-Jallieu           |         1 |   1        |
+| Blues                      |         1 |   0        |
+| Blagnac                    |         1 |   0        |
+| Melbourne Rebels           |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arnaud Feltrin  
-date: 2022-12-09 13:14:52.492956  
+date: 2022-12-12 15:37:46.771201  
 categories: player  
 ---
 # Arnaud Feltrin

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bastien Chalureau  
-date: 2022-11-22 11:27:23.359468  
+date: 2022-12-14 11:32:56.476904  
 categories: player  
 ---
 # Bastien Chalureau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 117.0
+## Current elo: 122.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            42 |   0.511905 |
+| Montpellier Herault |            44 |   0.534091 |
 | Nevers              |            21 |   0.52381  |
 | Perpignan           |            16 |   0.4375   |
 | France              |             2 |   1        |
@@ -31,32 +31,33 @@ categories: player
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Castres Olympique    |         4 |   0.5      |
-| Clermont Auvergne    |         4 |   0.5      |
 | Lyon                 |         4 |   0.25     |
-| Biarritz Olympique   |         4 |   0.5      |
-| Bordeaux Begles      |         4 |   0.5      |
+| Montauban            |         4 |   0.25     |
 | La Rochelle          |         4 |   0.25     |
 | Racing 92            |         4 |   0.5      |
-| Montauban            |         4 |   0.25     |
-| Perpignan            |         3 |   1        |
-| Dax                  |         3 |   0.333333 |
-| Massy                |         3 |   0.666667 |
-| Carcassonne          |         3 |   0.333333 |
-| Brive                |         3 |   0.666667 |
+| Clermont Auvergne    |         4 |   0.5      |
+| Castres Olympique    |         4 |   0.5      |
+| Bordeaux Begles      |         4 |   0.5      |
+| Biarritz Olympique   |         4 |   0.5      |
+| Bayonne              |         4 |   0.25     |
 | Stade Toulousain     |         3 |   0.333333 |
-| Bayonne              |         3 |   0        |
+| Brive                |         3 |   0.666667 |
+| Carcassonne          |         3 |   0.333333 |
+| Dax                  |         3 |   0.333333 |
 | Toulon               |         3 |   0.5      |
+| Perpignan            |         3 |   1        |
 | Pau                  |         3 |   0.333333 |
+| Massy                |         3 |   0.666667 |
 | Stade Francais Paris |         2 |   1        |
 | Provence Rugby       |         2 |   1        |
 | Vannes               |         2 |   0.5      |
 | Albi                 |         2 |   0        |
 | Colomiers            |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   1        |
+| Mont-de-Marsan       |         1 |   0        |
 | Narbonne             |         1 |   1        |
 | Oyonnax              |         1 |   0        |
-| Mont-de-Marsan       |         1 |   0        |
+| London Irish         |         1 |   1        |
 | Japan                |         1 |   1        |
 | Grenoble             |         1 |   0        |
 | South Africa         |         1 |   1        |

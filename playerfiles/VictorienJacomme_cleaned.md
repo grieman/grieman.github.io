@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victorien Jacomme  
-date: 2022-11-22 11:47:25.247634  
+date: 2022-12-14 11:12:54.140537  
 categories: player  
 ---
 # Victorien Jacomme
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 86.0
 
-## Current Percentile: 46.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            34 |   0.691176 |
+| Massy  |            36 |   0.652778 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,14 +33,15 @@ categories: player
 | Suresnes                   |         2 |   1        |
 | Blagnac                    |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   1        |
-| Montauban                  |         1 |   0        |
+| Colomiers                  |         2 |   0        |
+| Nevers                     |         1 |   0        |
 | US Bressane                |         1 |   0        |
+| Soyaux-Angouleme           |         1 |   0        |
 | Rouen                      |         1 |   0        |
 | Provence Rugby             |         1 |   1        |
-| Nevers                     |         1 |   0        |
 | Albi                       |         1 |   1        |
+| Montauban                  |         1 |   0        |
 | Mont-de-Marsan             |         1 |   1        |
-| Colomiers                  |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Carcassonne                |         1 |   1        |
 | Biarritz Olympique         |         1 |   0        |

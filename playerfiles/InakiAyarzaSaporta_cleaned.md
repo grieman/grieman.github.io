@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Ayarza Saporta  
-date: 2022-12-09 13:12:05.269668  
+date: 2022-12-14 11:26:31.789482  
 categories: player  
 ---
 # Inaki Ayarza Saporta
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Chile
 
-## Current elo: 90.0
+## Current elo: 86.0
 
-## Current Percentile: 23.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            25 |   0.6      |
+| Soyaux-Angouleme |            26 |   0.576923 |
 | Chile            |             6 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Valence Romans Drome Rugby |         2 |        0.5 |
-| Chambery                   |         2 |        0   |
 | Suresnes                   |         2 |        1   |
+| Chambery                   |         2 |        0   |
 | Dax                        |         2 |        0.5 |
 | Massy                      |         2 |        1   |
 | Romania                    |         2 |        0   |
@@ -51,5 +51,6 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Carcassonne                |         1 |        1   |
 | Bourgoin-Jallieu           |         1 |        1   |
+| Biarritz Olympique         |         1 |        0   |
 | Beziers                    |         1 |        1   |
 | Vannes                     |         1 |        1   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Angus Scott-Young  
-date: 2022-12-09 13:11:19.282934  
+date: 2022-12-14 11:34:45.099320  
 categories: player  
 ---
 # Angus Scott-Young
 
 ## Positions: FL, N8
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Queensland Reds    |            69 |   0.456522 |
 | Queensland Country |            25 |   0.56     |
-| Northampton Saints |             8 |   0.375    |
+| Northampton Saints |             9 |   0.333333 |
 | Bay of Plenty      |             7 |   0.285714 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,25 +45,26 @@ categories: player
 | Melbourne Rising         |         3 |   0.666667 |
 | Jaguares                 |         3 |   0.333333 |
 | Canberra Vikings         |         3 |   0.666667 |
-| Lions                    |         2 |   0.5      |
-| Sydney Rays              |         2 |   0.5      |
-| Greater Sydney Rams      |         2 |   0.5      |
 | Perth Spirit             |         2 |   0        |
+| Greater Sydney Rams      |         2 |   0.5      |
+| Sydney Rays              |         2 |   0.5      |
 | Sharks                   |         2 |   0.5      |
-| Saracens                 |         1 |   0        |
+| Lions                    |         2 |   0.5      |
+| Canterbury               |         1 |   0        |
+| Harlequins               |         1 |   0        |
 | Wellington               |         1 |   1        |
 | Waikato                  |         1 |   0        |
 | Tasman                   |         1 |   0        |
 | Taranaki                 |         1 |   0        |
+| Leicester Tigers         |         1 |   0        |
 | Bristol Rugby            |         1 |   1        |
 | Stormers                 |         1 |   0        |
-| Exeter Chiefs            |         1 |   1        |
-| Leicester Tigers         |         1 |   0        |
+| Hawke's Bay              |         1 |   0        |
+| Saracens                 |         1 |   0        |
+| Sale Sharks              |         1 |   0        |
+| La Rochelle              |         1 |   0        |
 | Northland                |         1 |   1        |
+| London Irish             |         1 |   1        |
 | Gloucester Rugby         |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |
-| Harlequins               |         1 |   0        |
-| Canterbury               |         1 |   0        |
-| London Irish             |         1 |   1        |
-| Hawke's Bay              |         1 |   0        |
-| Sale Sharks              |         1 |   0        |
+| Exeter Chiefs            |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mickael Ivaldi  
-date: 2022-12-09 13:09:39.142911  
+date: 2022-12-12 14:56:42.068284  
 categories: player  
 ---
 # Mickael Ivaldi
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 40.0
+## Current Percentile: 41.0
 
 # Elo History
 

@@ -4,10 +4,10 @@ title: Bulls at Exeter Chiefs
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bulls (~1583.31) at Exeter Chiefs (~1539.43)
+# Bulls (~1547.41) at Exeter Chiefs (~1579.3)
 
-# Prediction: Bulls by 1.4
+# Prediction: Exeter Chiefs by 6.2
 
 
-Bulls by 4.4 on a neutral pitch
+Exeter Chiefs by 3.2 on a neutral pitch
 

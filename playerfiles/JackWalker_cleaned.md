@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Walker  
-date: 2022-12-09 13:12:13.748936  
+date: 2022-12-14 11:21:47.822290  
 categories: player  
 ---
 # Jack Walker
 
 ## Positions: H
 
-## Current elo: 97.0
+## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Bath Rugby |            84 |   0.458333 |
-| Harlequins |            32 |   0.625    |
+| Harlequins |            33 |   0.606061 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -46,3 +46,4 @@ categories: player
 | Ulster             |         2 |   0        |
 | Castres Olympique  |         1 |   1        |
 | Scarlets           |         1 |   1        |
+| Sharks             |         1 |   0        |

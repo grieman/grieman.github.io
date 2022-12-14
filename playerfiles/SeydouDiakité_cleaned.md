@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Seydou Diakité  
-date: 2022-11-22 11:29:30.176243  
+date: 2022-12-14 11:21:39.285593  
 categories: player  
 ---
 # Seydou Diakité
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 72.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,17 +21,18 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            10 |        0.4 |
+| Soyaux-Angouleme |            11 |   0.363636 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Agen             |         1 |          1 |
-| Aurillac         |         1 |          0 |
-| Beziers          |         1 |          1 |
-| Bourgoin-Jallieu |         1 |          1 |
-| Colomiers        |         1 |          0 |
-| Grenoble         |         1 |          0 |
-| Mont-de-Marsan   |         1 |          0 |
-| Nevers           |         1 |          0 |
-| Provence Rugby   |         1 |          0 |
-| Vannes           |         1 |          1 |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Agen               |         1 |          1 |
+| Aurillac           |         1 |          0 |
+| Beziers            |         1 |          1 |
+| Biarritz Olympique |         1 |          0 |
+| Bourgoin-Jallieu   |         1 |          1 |
+| Colomiers          |         1 |          0 |
+| Grenoble           |         1 |          0 |
+| Mont-de-Marsan     |         1 |          0 |
+| Nevers             |         1 |          0 |
+| Provence Rugby     |         1 |          0 |
+| Vannes             |         1 |          1 |

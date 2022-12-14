@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Regan  
-date: 2022-12-09 13:04:16.479224  
+date: 2022-12-12 15:37:21.665193  
 categories: player  
 ---
 # Jack Regan

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruan Dreyer  
-date: 2022-12-09 13:12:50.475125  
+date: 2022-12-14 11:32:19.544546  
 categories: player  
 ---
 # Ruan Dreyer
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 122.0
+## Current elo: 120.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Lions            |           103 |   0.587379 |
+| Lions            |           104 |   0.586538 |
 | Golden Lions     |            44 |   0.704545 |
 | Gloucester Rugby |             5 |   0.6      |
 | South Africa     |             5 |   0.3      |
@@ -49,12 +49,12 @@ categories: player
 | Hurricanes               |         3 |   0.333333 |
 | Griquas                  |         3 |   1        |
 | Eastern Province Kings   |         3 |   1        |
+| Dragons                  |         3 |   0.833333 |
 | Brumbies                 |         3 |   0.666667 |
 | Blues                    |         3 |   0.666667 |
 | Scarlets                 |         2 |   0.5      |
 | Western Force            |         2 |   0.5      |
 | Ulster                   |         2 |   0        |
-| Dragons                  |         2 |   1        |
 | New Zealand              |         2 |   0        |
 | Sunwolves                |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |

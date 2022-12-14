@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bradley Roberts  
-date: 2022-12-09 13:17:37.664426  
+date: 2022-12-14 11:36:26.285133  
 categories: player  
 ---
 # Bradley Roberts
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 42.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Ulster  |            15 |   0.733333 |
-| Dragons |             7 |   0.285714 |
+| Dragons |             8 |   0.3125   |
 | Wales   |             4 |   0.25     |
 
 | Opponent         |   Matches |   Win Rate |
@@ -33,6 +33,7 @@ categories: player
 | Benetton Treviso |         2 |   0.5      |
 | Ospreys          |         2 |   0.5      |
 | Munster          |         2 |   0.5      |
+| Lions            |         2 |   0.75     |
 | Zebre            |         2 |   1        |
 | Dragons          |         2 |   1        |
 | Connacht         |         2 |   0.5      |
@@ -40,7 +41,6 @@ categories: player
 | Georgia          |         1 |   0        |
 | Glasgow Warriors |         1 |   1        |
 | Bulls            |         1 |   0        |
-| Lions            |         1 |   1        |
 | Cardiff Blues    |         1 |   0        |
 | Scarlets         |         1 |   1        |
 | Sharks           |         1 |   0        |

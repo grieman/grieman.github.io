@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George Merrick  
-date: 2022-12-09 13:10:10.222572  
+date: 2022-12-14 11:27:24.203060  
 categories: player  
 ---
 # George Merrick
 
 ## Positions: L
 
-## Current elo: 88.0
+## Current elo: 90.0
 
-## Current Percentile: 29.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Newcastle Falcons  |             9 |   0.222222 |
 | Clermont Auvergne  |             7 |   0.428571 |
 | Worcester Warriors |             7 |   0.142857 |
-| Carcassonne        |             1 |   0        |
+| Carcassonne        |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -56,12 +56,13 @@ categories: player
 | Racing 92            |         1 |   0        |
 | Dragons              |         1 |   1        |
 | Pau                  |         1 |   0        |
+| Ospreys              |         1 |   0        |
 | Edinburgh            |         1 |   0        |
-| Brive                |         1 |   0        |
+| Nevers               |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
 | London Welsh         |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Grenoble             |         1 |   0        |
 | Castres Olympique    |         1 |   1        |
 | Clermont Auvergne    |         1 |   0        |
-| Ospreys              |         1 |   0        |
+| Brive                |         1 |   0        |

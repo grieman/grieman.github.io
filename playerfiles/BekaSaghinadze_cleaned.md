@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Saghinadze  
-date: 2022-12-09 13:08:24.329592  
+date: 2022-12-12 14:57:23.941298  
 categories: player  
 ---
 # Beka Saghinadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 87.0
+## Current Percentile: 85.0
 
 # Elo History
 

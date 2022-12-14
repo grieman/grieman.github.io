@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilco Louw  
-date: 2022-12-09 13:22:45.080876  
+date: 2022-12-14 11:15:47.915797  
 categories: player  
 ---
 # Wilco Louw
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 118.0
+## Current elo: 117.0
 
 ## Current Percentile: 96.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stormers         |            56 |   0.526786 |
-| Harlequins       |            47 |   0.670213 |
+| Harlequins       |            48 |   0.65625  |
 | Western Province |            33 |   0.636364 |
 | South Africa     |            14 |   0.5      |
 | Toulon           |             4 |   0.375    |
@@ -32,8 +32,8 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Bulls                    |         8 |   0.75     |
+| Sharks                   |         8 |   0.25     |
 | Blue Bulls               |         7 |   0.714286 |
-| Sharks                   |         7 |   0.285714 |
 | Lions                    |         6 |   0.333333 |
 | Jaguares                 |         6 |   0.666667 |
 | Free State Cheetahs      |         6 |   0.333333 |

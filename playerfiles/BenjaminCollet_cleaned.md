@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Benjamin Collet  
-date: 2022-12-09 13:14:38.651689  
+date: 2022-12-14 11:22:56.748404  
 categories: player  
 ---
 # Benjamin Collet
 
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 111.0
 
 ## Current Percentile: 87.0
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------------|--------------:|-----------:|
 | Tarbes                     |            85 |   0.570588 |
 | Narbonne                   |            27 |   0.259259 |
-| Blagnac                    |            21 |   0.47619  |
+| Blagnac                    |            22 |   0.5      |
 | Bayonne                    |            11 |   0.5      |
 | Valence Romans Drome Rugby |            11 |   0.454545 |
 
@@ -46,13 +46,13 @@ categories: player
 | Biarritz Olympique         |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.25     |
 | Nevers                     |         3 |   0        |
+| Suresnes                   |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.166667 |
 | La Rochelle                |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.333333 |
 | Auch                       |         3 |   0.666667 |
 | US Bressane                |         3 |   0.666667 |
 | Pau                        |         3 |   0.166667 |
-| Suresnes                   |         2 |   0.5      |
 | Tarbes                     |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
 | Dijon                      |         2 |   0.5      |

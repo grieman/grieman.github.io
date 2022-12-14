@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anatole Pauvert  
-date: 2022-12-09 13:05:24.592522  
+date: 2022-12-12 14:53:41.164728  
 categories: player  
 ---
 # Anatole Pauvert

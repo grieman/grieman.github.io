@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nils Guyon  
-date: 2022-12-09 13:11:07.956816  
+date: 2022-12-14 11:12:42.304065  
 categories: player  
 ---
 # Nils Guyon
 
-## Positions: W
+## Positions: W, FB
 
-## Current elo: 86.0
+## Current elo: 84.0
 
-## Current Percentile: 17.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            10 |          0 |
+| Cognac Saint Jean d'Angély |            11 |          0 |
 | La Rochelle                |             1 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Brive                      |         1 |          0 |

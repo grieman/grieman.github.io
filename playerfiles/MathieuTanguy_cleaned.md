@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Tanguy  
-date: 2022-12-09 13:20:04.905325  
+date: 2022-12-14 11:26:35.231874  
 categories: player  
 ---
 # Mathieu Tanguy
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |           115 |   0.552174 |
-| Toulon      |             9 |   0.444444 |
+| Toulon      |            10 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -31,20 +31,20 @@ categories: player
 | Bayonne              |         9 |   0.666667 |
 | Stade Francais Paris |         9 |   0.555556 |
 | Castres Olympique    |         8 |   0.5      |
+| Toulon               |         7 |   0.571429 |
+| Stade Toulousain     |         7 |   0.285714 |
+| Clermont Auvergne    |         7 |   0.285714 |
 | Pau                  |         7 |   0.857143 |
 | Lyon                 |         7 |   0.428571 |
-| Clermont Auvergne    |         7 |   0.285714 |
-| Stade Toulousain     |         7 |   0.285714 |
-| Toulon               |         7 |   0.571429 |
 | Brive                |         6 |   1        |
 | Bordeaux Begles      |         5 |   0.6      |
-| Perpignan            |         3 |   0.666667 |
-| Gloucester Rugby     |         3 |   0.333333 |
-| Grenoble             |         3 |   0.666667 |
 | Agen                 |         3 |   0.666667 |
-| Oyonnax              |         2 |   0.25     |
-| Zebre                |         2 |   1        |
+| Perpignan            |         3 |   0.666667 |
+| Zebre                |         3 |   1        |
+| Grenoble             |         3 |   0.666667 |
+| Gloucester Rugby     |         3 |   0.333333 |
 | Glasgow Warriors     |         2 |   0.5      |
+| Oyonnax              |         2 |   0.25     |
 | Bristol Rugby        |         2 |   1        |
 | La Rochelle          |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |

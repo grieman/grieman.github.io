@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Hearle  
-date: 2022-12-09 13:08:34.390608  
+date: 2022-12-14 11:23:17.564162  
 categories: player  
 ---
 # Alex Hearle
 
-## Positions: W, C
+## Positions: W
 
-## Current elo: 97.0
+## Current elo: 93.0
 
-## Current Percentile: 57.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Worcester Warriors |            25 |   0.22     |
-| Gloucester Rugby   |             3 |   0.333333 |
+| Worcester Warriors |            25 |       0.22 |
+| Gloucester Rugby   |             4 |       0.5  |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Northampton Saints |         2 |      0.5   |
 | Saracens           |         2 |      0.5   |
 | Wasps              |         2 |      0     |
+| Bordeaux Begles    |         1 |      1     |
 | Bristol Rugby      |         1 |      1     |
 | Dragons            |         1 |      0     |
 | Leicester Tigers   |         1 |      0     |

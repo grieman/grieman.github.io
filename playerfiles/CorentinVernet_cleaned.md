@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Corentin Vernet  
-date: 2022-12-09 13:11:36.435202  
+date: 2022-12-14 11:22:51.325680  
 categories: player  
 ---
 # Corentin Vernet
 
 ## Positions: L
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 52.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |            33 |   0.242424 |
+| Agen   |            34 |   0.235294 |
 | Toulon |            14 |   0.785714 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,6 +42,7 @@ categories: player
 | Castres Olympique    |         2 |   1        |
 | Carcassonne          |         2 |   0.5      |
 | Brive                |         2 |   0        |
+| Beziers              |         2 |   0        |
 | Massy                |         1 |   1        |
 | London Irish         |         1 |   0        |
 | La Rochelle          |         1 |   0        |
@@ -51,5 +52,4 @@ categories: player
 | Bordeaux Begles      |         1 |   0        |
 | Scarlets             |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |
-| Beziers              |         1 |   0        |
 | US Bressane          |         1 |   0        |

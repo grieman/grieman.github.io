@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathis Galthié  
-date: 2022-12-09 13:09:26.044498  
+date: 2022-12-14 11:14:48.552801  
 categories: player  
 ---
 # Mathis Galthié
@@ -17,11 +17,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |             4 |       0.25 |
+| Colomiers |             5 |        0.4 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Agen       |         1 |          1 |
 | Aurillac   |         1 |          0 |
+| Massy      |         1 |          1 |
 | Rouen      |         1 |          0 |
 | Vannes     |         1 |          0 |

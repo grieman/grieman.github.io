@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Florent Guion  
-date: 2022-12-09 13:22:34.435089  
+date: 2022-12-14 11:30:52.540920  
 categories: player  
 ---
 # Florent Guion
@@ -23,14 +23,14 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Rouen            |            29 |   0.344828 |
 | Soyaux-Angouleme |            25 |   0.34     |
-| Agen             |            21 |   0.428571 |
+| Agen             |            22 |   0.409091 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Mont-de-Marsan     |         8 |   0.125    |
 | Colomiers          |         7 |   0.285714 |
 | Aurillac           |         7 |   0.571429 |
-| Beziers            |         6 |   0.333333 |
+| Beziers            |         7 |   0.285714 |
 | Montauban          |         6 |   0.166667 |
 | Oyonnax            |         5 |   0.2      |
 | Narbonne           |         4 |   0.5      |

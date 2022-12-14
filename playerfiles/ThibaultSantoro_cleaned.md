@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibault Santoro  
-date: 2022-12-09 13:20:02.473677  
+date: 2022-12-14 11:20:08.370034  
 categories: player  
 ---
 # Thibault Santoro
 
 ## Positions: FB
 
-## Current elo: 98.0
+## Current elo: 95.0
 
 ## Current Percentile: 52.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             6 |   0.583333 |
+| Narbonne |             7 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,5 +29,6 @@ categories: player
 | Blagnac                    |         1 |        0.5 |
 | Carqueiranne-Hyères        |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Dax                        |         1 |        0   |
 | Rennes                     |         1 |        1   |
 | Valence Romans Drome Rugby |         1 |        0   |

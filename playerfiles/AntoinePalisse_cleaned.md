@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Palisse  
-date: 2022-12-09 13:17:07.832374  
+date: 2022-12-14 11:14:37.751547  
 categories: player  
 ---
 # Antoine Palisse
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 65.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            14 |        0.5 |
+| Tarbes |            15 |   0.466667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,4 +35,5 @@ categories: player
 | Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        0   |
 | Suresnes                   |         1 |        0   |
+| US Bressane                |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        0   |

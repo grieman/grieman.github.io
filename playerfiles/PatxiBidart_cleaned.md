@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Patxi Bidart  
-date: 2022-12-09 13:10:59.220726  
+date: 2022-12-14 11:35:08.812419  
 categories: player  
 ---
 # Patxi Bidart
 
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 93.0
 
 ## Current Percentile: 46.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            20 |       0.55 |
-| Mont-de-Marsan   |             1 |       0    |
+| Soyaux-Angouleme |            21 |    0.52381 |
+| Mont-de-Marsan   |             1 |    0       |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -42,6 +42,7 @@ categories: player
 | Grenoble                   |         1 |          0 |
 | Chambery                   |         1 |          0 |
 | Carcassonne                |         1 |          1 |
+| Biarritz Olympique         |         1 |          0 |
 | Beziers                    |         1 |          1 |
 | Aurillac                   |         1 |          0 |
 | Vannes                     |         1 |          1 |

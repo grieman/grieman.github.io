@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Hill  
-date: 2022-12-09 13:24:44.347082  
+date: 2022-12-14 11:18:33.773905  
 categories: player  
 ---
 # Paul Hill
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 104.0
+## Current elo: 102.0
 
-## Current Percentile: 79.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           157 |        0.5 |
-| England            |             8 |        1   |
+| Northampton Saints |           158 |   0.496835 |
+| England            |             8 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -50,8 +50,9 @@ categories: player
 | Montpellier Herault |         2 |   0.5      |
 | Ospreys             |         2 |   0        |
 | Dragons             |         1 |   1        |
-| Canada              |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
+| Canada              |         1 |   1        |
+| La Rochelle         |         1 |   0        |
 | Italy               |         1 |   1        |
 | Scotland            |         1 |   1        |
 | Timisoara Saracens  |         1 |   1        |

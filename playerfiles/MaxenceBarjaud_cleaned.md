@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxence Barjaud  
-date: 2022-12-09 13:12:51.212001  
+date: 2022-12-12 15:39:37.246236  
 categories: player  
 ---
 # Maxence Barjaud

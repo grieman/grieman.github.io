@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Renaud  
-date: 2022-12-09 13:08:51.920720  
+date: 2022-12-12 15:10:31.925750  
 categories: player  
 ---
 # Clement Renaud

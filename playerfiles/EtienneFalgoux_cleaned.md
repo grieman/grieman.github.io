@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Etienne Falgoux  
-date: 2022-12-09 13:16:01.127845  
+date: 2022-12-14 11:36:22.191203  
 categories: player  
 ---
 # Etienne Falgoux
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 108.0
+## Current elo: 109.0
 
-## Current Percentile: 84.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           142 |   0.626761 |
+| Clermont Auvergne |           143 |   0.629371 |
 | France            |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -56,3 +56,4 @@ categories: player
 | Exeter Chiefs        |         1 |   1        |
 | Scotland             |         1 |   1        |
 | Dragons              |         1 |   1        |
+| Stormers             |         1 |   1        |

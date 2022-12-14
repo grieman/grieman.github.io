@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francis Saili  
-date: 2022-12-09 13:16:25.856230  
+date: 2022-12-14 11:13:02.618684  
 categories: player  
 ---
 # Francis Saili
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: 50.0
 
@@ -29,7 +29,7 @@ categories: player
 | Harlequins         |            29 |   0.413793 |
 | North Harbour      |            13 |   0.192308 |
 | Auckland           |            10 |   0.65     |
-| Racing 92          |             9 |   0.777778 |
+| Racing 92          |            10 |   0.7      |
 | New Zealand        |             2 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -44,10 +44,10 @@ categories: player
 | Clermont Auvergne          |         4 |   0.25     |
 | Ospreys                    |         4 |   0.75     |
 | Brumbies                   |         4 |   0.5      |
+| Leinster                   |         4 |   0.25     |
 | Crusaders                  |         4 |   0.25     |
 | Connacht                   |         4 |   0.5      |
 | La Rochelle                |         3 |   0.333333 |
-| Leinster                   |         3 |   0.333333 |
 | Stade Francais Paris       |         3 |   0.666667 |
 | Toulon                     |         3 |   0.333333 |
 | Stormers                   |         3 |   0.333333 |

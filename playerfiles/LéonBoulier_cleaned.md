@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Léon Boulier  
-date: 2022-12-09 13:13:44.845967  
+date: 2022-12-12 15:18:12.136198  
 categories: player  
 ---
 # Léon Boulier
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 79.0
+## Current Percentile: 78.0
 
 # Elo History
 

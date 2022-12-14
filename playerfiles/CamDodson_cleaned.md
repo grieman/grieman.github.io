@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cam Dodson  
-date: 2022-12-09 13:20:09.874941  
+date: 2022-12-14 11:20:26.021306  
 categories: player  
 ---
 # Cam Dodson
 
 ## Positions: L
 
-## Current elo: 112.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Austin Gilgronis |            14 |   0.714286 |
-| Aurillac         |             2 |   1        |
+| Aurillac         |             3 |   1        |
 | Austin Herd      |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
@@ -36,3 +36,4 @@ categories: player
 | Dallas Jackals         |         1 |   1        |
 | Nevers                 |         1 |   1        |
 | New England Free Jacks |         1 |   0        |
+| Vannes                 |         1 |   1        |

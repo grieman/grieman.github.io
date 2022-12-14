@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Lafage  
-date: 2022-12-09 13:11:16.828433  
+date: 2022-12-12 15:00:02.026437  
 categories: player  
 ---
 # Maxime Lafage

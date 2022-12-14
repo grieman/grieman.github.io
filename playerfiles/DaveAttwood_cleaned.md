@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave Attwood  
-date: 2022-12-09 13:11:48.759153  
+date: 2022-12-14 11:22:02.660566  
 categories: player  
 ---
 # Dave Attwood
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 140.0
+## Current elo: 139.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bath Rugby       |           161 |   0.531056 |
+| Bath Rugby       |           162 |   0.527778 |
 | Bristol Rugby    |            55 |   0.572727 |
 | Gloucester Rugby |            45 |   0.533333 |
 | England          |            17 |   0.764706 |
@@ -43,8 +43,8 @@ categories: player
 | Newcastle Falcons    |        14 |   0.714286 |
 | London Irish         |        11 |   0.727273 |
 | Bath Rugby           |         8 |   0.625    |
+| Glasgow Warriors     |         7 |   0.428571 |
 | Montpellier Herault  |         6 |   0.666667 |
-| Glasgow Warriors     |         6 |   0.5      |
 | Leinster             |         6 |   0.166667 |
 | Dragons              |         4 |   1        |
 | Stade Toulousain     |         4 |   0.25     |

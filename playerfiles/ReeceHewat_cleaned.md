@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reece Hewat  
-date: 2022-12-09 13:04:41.897061  
+date: 2022-12-14 11:26:51.239420  
 categories: player  
 ---
 # Reece Hewat
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 42.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Pau             |            26 |   0.423077 |
+| Pau             |            27 |   0.407407 |
 | Aurillac        |            24 |   0.458333 |
 | Brisbane City   |             4 |   0.75     |
 | Queensland Reds |             1 |   0        |
@@ -35,26 +35,27 @@ categories: player
 | Vannes                     |         3 |   0.333333 |
 | Brive                      |         3 |   0.333333 |
 | Castres Olympique          |         2 |   0        |
-| Racing 92                  |         2 |   0        |
-| Grenoble                   |         2 |   0.5      |
-| Bordeaux Begles            |         2 |   0.5      |
-| La Rochelle                |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
-| Mont-de-Marsan             |         2 |   0.5      |
-| Clermont Auvergne          |         2 |   0.5      |
-| Nevers                     |         2 |   0.5      |
 | Carcassonne                |         2 |   1        |
+| Nevers                     |         2 |   0.5      |
+| Racing 92                  |         2 |   0        |
+| Mont-de-Marsan             |         2 |   0.5      |
+| La Rochelle                |         2 |   0.5      |
+| Bordeaux Begles            |         2 |   0.5      |
+| Grenoble                   |         2 |   0.5      |
+| Clermont Auvergne          |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
-| Valence Romans Drome Rugby |         1 |   1        |
-| Toulon                     |         1 |   0        |
-| Sydney Rays                |         1 |   1        |
-| Stade Francais Paris       |         1 |   0        |
-| Montpellier Herault        |         1 |   1        |
 | Queensland Country         |         1 |   0        |
-| Lyon                       |         1 |   0        |
+| Stade Francais Paris       |         1 |   0        |
+| Sydney Rays                |         1 |   1        |
+| Toulon                     |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   1        |
+| Montpellier Herault        |         1 |   1        |
+| Cheetahs                   |         1 |   0        |
+| Melbourne Rising           |         1 |   1        |
 | London Irish               |         1 |   0        |
 | Highlanders                |         1 |   0        |
 | Fijian Drua                |         1 |   1        |
 | Edinburgh                  |         1 |   0        |
 | Colomiers                  |         1 |   0        |
-| Melbourne Rising           |         1 |   1        |
+| Lyon                       |         1 |   0        |

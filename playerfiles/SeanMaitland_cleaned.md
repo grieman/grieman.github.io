@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean Maitland  
-date: 2022-11-22 11:30:56.717852  
+date: 2022-12-14 11:35:51.561860  
 categories: player  
 ---
 # Sean Maitland
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 126.0
+## Current elo: 125.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Saracens         |           112 |   0.8125   |
+| Saracens         |           113 |   0.814159 |
 | Scotland         |            51 |   0.558824 |
 | Crusaders        |            44 |   0.670455 |
 | Glasgow Warriors |            39 |   0.589744 |
@@ -42,9 +42,9 @@ categories: player
 | Gloucester Rugby         |         8 |   0.625    |
 | Ireland                  |         8 |   0.25     |
 | Leicester Tigers         |         8 |   0.75     |
+| Edinburgh                |         8 |   0.875    |
 | France                   |         7 |   0.428571 |
 | Worcester Warriors       |         7 |   0.857143 |
-| Edinburgh                |         7 |   0.857143 |
 | England                  |         6 |   0.416667 |
 | London Irish             |         6 |   0.75     |
 | Munster                  |         6 |   0.833333 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bautista Ezcurra  
-date: 2022-12-09 13:12:12.935936  
+date: 2022-12-12 15:39:33.396234  
 categories: player  
 ---
 # Bautista Ezcurra

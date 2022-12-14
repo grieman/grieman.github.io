@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vazha Kapanadze  
-date: 2022-12-09 13:21:56.186876  
+date: 2022-12-14 11:29:11.420201  
 categories: player  
 ---
 # Vazha Kapanadze
 
 ## Positions: P
 
-## Current elo: 81.0
+## Current elo: 82.0
 
-## Current Percentile: 7.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            45 |   0.566667 |
+| US Bressane |            46 |   0.576087 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -49,5 +49,6 @@ categories: player
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Beziers                    |         1 |   1        |
+| Tarbes                     |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Albi                       |         1 |   1        |

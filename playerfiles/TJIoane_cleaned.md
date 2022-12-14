@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: TJ Ioane  
-date: 2022-12-09 13:12:23.686640  
+date: 2022-12-14 11:21:45.221813  
 categories: player  
 ---
 # TJ Ioane
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 76.0
+## Current elo: 77.0
 
 ## Current Percentile: 4.0
 
@@ -27,7 +27,7 @@ categories: player
 | Otago            |            28 |   0.464286 |
 | London Irish     |            20 |   0.575    |
 | Highlanders      |            18 |   0.388889 |
-| US Bressane      |            17 |   0.558824 |
+| US Bressane      |            18 |   0.583333 |
 | Glasgow Warriors |            11 |   0.272727 |
 | Samoa            |            11 |   0.227273 |
 | Wellington       |             1 |   1        |
@@ -41,48 +41,49 @@ categories: player
 | Wasps                      |         5 |  0.4       |
 | Blues                      |         4 |  0.5       |
 | Southland                  |         4 |  0.5       |
-| Manawatu                   |         4 |  0.75      |
 | London Irish               |         4 |  1         |
+| Manawatu                   |         4 |  0.75      |
 | Leicester Tigers           |         3 |  0.666667  |
 | Hurricanes                 |         3 |  0.666667  |
-| Waikato                    |         3 |  1         |
-| Bristol Rugby              |         3 |  0.166667  |
-| Bath Rugby                 |         3 |  0.333333  |
-| Northland                  |         3 |  0.666667  |
 | Exeter Chiefs              |         3 |  0         |
+| Bristol Rugby              |         3 |  0.166667  |
+| Waikato                    |         3 |  1         |
+| Bath Rugby                 |         3 |  0.333333  |
 | Canterbury                 |         3 |  0         |
+| Northland                  |         3 |  0.666667  |
 | Worcester Warriors         |         3 |  1         |
 | Hawke's Bay                |         3 |  0         |
 | Gloucester Rugby           |         2 |  0         |
-| Melbourne Rebels           |         2 |  0.5       |
-| Ospreys                    |         2 |  0.5       |
-| Japan                      |         2 |  0         |
 | Montauban                  |         2 |  0.25      |
-| Leinster                   |         2 |  0         |
 | North Harbour              |         2 |  1         |
-| Scarlets                   |         2 |  0.5       |
-| Bay of Plenty              |         2 |  0.5       |
-| Crusaders                  |         2 |  0         |
-| Bedford                    |         2 |  1         |
+| Japan                      |         2 |  0         |
+| Ospreys                    |         2 |  0.5       |
+| Melbourne Rebels           |         2 |  0.5       |
+| Leinster                   |         2 |  0         |
 | Scotland                   |         2 |  0         |
+| Scarlets                   |         2 |  0.5       |
 | Counties Manukau           |         2 |  0         |
+| Bay of Plenty              |         2 |  0.5       |
+| Bedford                    |         2 |  1         |
 | Ulster                     |         2 |  0         |
 | Tasman                     |         2 |  0.5       |
 | Cardiff Blues              |         2 |  0.5       |
-| Russia                     |         1 |  1         |
-| Suresnes                   |         1 |  1         |
+| Crusaders                  |         2 |  0         |
+| Sharks                     |         1 |  1         |
+| Queensland Reds            |         1 |  0         |
 | Western Force              |         1 |  0         |
+| Richmond                   |         1 |  1         |
+| Rennes                     |         1 |  1         |
 | Valence Romans Drome Rugby |         1 |  1         |
 | Toulon                     |         1 |  0         |
-| Southern Kings             |         1 |  0         |
 | Nottingham                 |         1 |  1         |
-| Richmond                   |         1 |  1         |
-| South Africa               |         1 |  0         |
-| Sharks                     |         1 |  1         |
-| Oyonnax                    |         1 |  0         |
 | Pau                        |         1 |  1         |
-| Queensland Reds            |         1 |  0         |
-| Rennes                     |         1 |  1         |
+| Tarbes                     |         1 |  1         |
+| Suresnes                   |         1 |  1         |
+| Russia                     |         1 |  1         |
+| Oyonnax                    |         1 |  0         |
+| Southern Kings             |         1 |  0         |
+| South Africa               |         1 |  0         |
 | Nice                       |         1 |  1         |
 | Agen                       |         1 |  1         |
 | Nevers                     |         1 |  0         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Blanc  
-date: 2022-12-09 13:20:16.590962  
+date: 2022-12-12 15:02:01.704168  
 categories: player  
 ---
 # Lucas Blanc

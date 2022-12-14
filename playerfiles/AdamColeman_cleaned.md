@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Coleman  
-date: 2022-12-09 13:24:52.251821  
+date: 2022-12-14 11:18:32.998816  
 categories: player  
 ---
 # Adam Coleman
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 123.0
+## Current elo: 121.0
 
 ## Current Percentile: 96.0
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Western Force            |            46 |   0.369565 |
 | Australia                |            38 |   0.526316 |
-| London Irish             |            30 |   0.45     |
+| London Irish             |            31 |   0.435484 |
 | Melbourne Rebels         |            22 |   0.5      |
 | New South Wales Waratahs |             1 |   1        |
 
@@ -69,6 +69,7 @@ categories: player
 | Bath Rugby               |         2 |   0        |
 | Samoa                    |         1 |   1        |
 | Sale Sharks              |         1 |   0.5      |
+| Montpellier Herault      |         1 |   0        |
 | Toulon                   |         1 |   0        |
 | Uruguay                  |         1 |   1        |
 | Western Force            |         1 |   1        |

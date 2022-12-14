@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruben Schoeman  
-date: 2022-12-09 13:15:37.630528  
+date: 2022-12-14 11:35:12.228207  
 categories: player  
 ---
 # Ruben Schoeman
 
 ## Positions: L
 
-## Current elo: 109.0
+## Current elo: 105.0
 
-## Current Percentile: 83.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Lions        |            26 |   0.461538 |
+| Lions        |            27 |   0.462963 |
 | Golden Lions |            16 |   0.40625  |
 | SWD Eagles   |             2 |   1        |
 
@@ -29,11 +29,11 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Western Province         |         4 |   0.75     |
 | Blue Bulls               |         4 |   0        |
+| Dragons                  |         3 |   0.833333 |
 | Stormers                 |         3 |   0.333333 |
 | Natal Sharks             |         3 |   0.333333 |
 | Ospreys                  |         2 |   1        |
 | Bulls                    |         2 |   0        |
-| Dragons                  |         2 |   1        |
 | Free State Cheetahs      |         2 |   0.75     |
 | Sharks                   |         2 |   0        |
 | Griquas                  |         2 |   0.5      |

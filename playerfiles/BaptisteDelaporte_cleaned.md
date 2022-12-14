@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Delaporte  
-date: 2022-12-09 13:11:02.932227  
+date: 2022-12-14 11:35:09.948976  
 categories: player  
 ---
 # Baptiste Delaporte

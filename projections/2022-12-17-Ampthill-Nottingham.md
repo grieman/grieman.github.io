@@ -4,10 +4,10 @@ title: Nottingham at Ampthill
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Nottingham (~1413.2) at Ampthill (~1493.22)
+# Nottingham (~1422.0) at Ampthill (~1458.4)
 
-# Prediction: Ampthill by 11.0
+# Prediction: Ampthill by 6.6
 
 
-Ampthill by 8.0 on a neutral pitch
+Ampthill by 3.6 on a neutral pitch
 

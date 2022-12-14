@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Cordero  
-date: 2022-12-09 13:18:36.980329  
+date: 2022-12-14 11:12:26.722442  
 categories: player  
 ---
 # Santiago Cordero
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 100.0
+## Current elo: 102.0
 
-## Current Percentile: 66.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bordeaux Begles     |            53 |   0.650943 |
+| Bordeaux Begles     |            54 |   0.638889 |
 | Argentina           |            43 |   0.302326 |
 | Exeter Chiefs       |            34 |   0.720588 |
 | Jaguares            |            20 |   0.5      |
@@ -33,20 +33,20 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | New Zealand              |        12 |   0.166667 |
 | Australia                |         8 |   0.0625   |
-| Stade Toulousain         |         6 |   0.166667 |
 | Castres Olympique        |         6 |   0.833333 |
+| Stade Toulousain         |         6 |   0.166667 |
 | South Africa             |         5 |   0.2      |
 | Racing 92                |         5 |   0.8      |
-| Wasps                    |         5 |   0.4      |
 | Clermont Auvergne        |         5 |   0.7      |
-| Pau                      |         4 |   0.5      |
-| Gloucester Rugby         |         4 |   0.5      |
-| Scotland                 |         4 |   0.25     |
+| Gloucester Rugby         |         5 |   0.4      |
+| Wasps                    |         5 |   0.4      |
 | Toulon                   |         4 |   0.5      |
+| Scotland                 |         4 |   0.25     |
+| Pau                      |         4 |   0.5      |
 | Bath Rugby               |         4 |   1        |
 | Lions                    |         3 |   0.666667 |
-| Perpignan                |         3 |   0.333333 |
 | Montpellier Herault      |         3 |   0.5      |
+| Perpignan                |         3 |   0.333333 |
 | Sale Sharks              |         3 |   1        |
 | Newcastle Falcons        |         3 |   1        |
 | Worcester Warriors       |         3 |   0.666667 |

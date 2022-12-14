@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benito Masilevu  
-date: 2022-12-09 13:08:07.961445  
+date: 2022-12-14 11:15:48.961776  
 categories: player  
 ---
 # Benito Masilevu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 116.0
+## Current elo: 117.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Brive    |            92 |   0.461957 |
 | Grenoble |            29 |   0.5      |
 | Agen     |            24 |   0.291667 |
-| Rouen    |             8 |   0.625    |
+| Rouen    |             9 |   0.555556 |
 | Fiji     |             6 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -56,21 +56,22 @@ categories: player
 | Colomiers                  |         3 |   0.333333 |
 | Nevers                     |         2 |   1        |
 | Benetton Treviso           |         2 |   0.5      |
-| Biarritz Olympique         |         2 |   0.5      |
-| Newcastle Falcons          |         2 |   0.5      |
 | Brive                      |         2 |   1        |
+| Newcastle Falcons          |         2 |   0.5      |
+| Biarritz Olympique         |         2 |   0.5      |
 | Montauban                  |         2 |   0.75     |
 | Aurillac                   |         2 |   0.5      |
 | Connacht                   |         2 |   0.5      |
 | Edinburgh                  |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   1        |
-| Soyaux-Angouleme           |         1 |   0        |
+| Scotland                   |         1 |   1        |
 | Australia                  |         1 |   0        |
 | Bath Rugby                 |         1 |   0        |
+| Soyaux-Angouleme           |         1 |   0        |
 | Wasps                      |         1 |   0        |
 | Georgia                    |         1 |   0        |
-| Scotland                   |         1 |   1        |
 | Beziers                    |         1 |   0        |
+| Provence Rugby             |         1 |   0        |
 | England                    |         1 |   0        |
 | New Zealand Maori          |         1 |   0        |
 | Narbonne                   |         1 |   1        |

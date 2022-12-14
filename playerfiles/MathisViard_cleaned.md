@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mathis Viard  
-date: 2022-12-09 13:03:51.515284  
+date: 2022-12-14 11:19:25.681012  
 categories: player  
 ---
 # Mathis Viard
 
 ## Positions: FH
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: 36.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | US Bressane      |            30 |   0.483333 |
-| Nice             |             7 |   0.357143 |
+| Nice             |             8 |   0.4375   |
 | Bourgoin-Jallieu |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,7 +38,7 @@ categories: player
 | Montauban                  |         2 |       0    |
 | Vannes                     |         2 |       0    |
 | Chambery                   |         2 |       0.5  |
-| Colomiers                  |         1 |       0    |
+| Cognac Saint Jean d'Angély |         1 |       1    |
 | Rennes                     |         1 |       1    |
 | Valence Romans Drome Rugby |         1 |       0    |
 | US Bressane                |         1 |       0    |
@@ -47,10 +47,11 @@ categories: player
 | Biarritz Olympique         |         1 |       1    |
 | Rouen                      |         1 |       1    |
 | Blagnac                    |         1 |       1    |
-| Dax                        |         1 |       1    |
+| Colomiers                  |         1 |       0    |
 | Carcassonne                |         1 |       0    |
 | Nevers                     |         1 |       0    |
 | Narbonne                   |         1 |       0    |
-| Cognac Saint Jean d'Angély |         1 |       1    |
+| Carqueiranne-Hyères        |         1 |       1    |
 | Grenoble                   |         1 |       1    |
+| Dax                        |         1 |       1    |
 | Agen                       |         1 |       1    |

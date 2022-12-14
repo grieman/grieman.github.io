@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Remy Baget  
-date: 2022-12-09 13:12:32.079993  
+date: 2022-12-12 15:10:14.943812  
 categories: player  
 ---
 # Remy Baget

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Masivesi Dakuwaqa  
-date: 2022-12-09 13:18:33.517628  
+date: 2022-12-14 11:28:41.328331  
 categories: player  
 ---
 # Masivesi Dakuwaqa
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Toulon              |            37 |   0.594595 |
-| Montpellier Herault |            20 |   0.65     |
+| Montpellier Herault |            21 |   0.666667 |
 | Fiji                |             2 |   0.25     |
 | Western Force       |             2 |   0.5      |
 
@@ -37,14 +37,14 @@ categories: player
 | La Rochelle          |         4 |   0.5      |
 | Bayonne              |         4 |   0.75     |
 | Lyon                 |         4 |   0.5      |
+| London Irish         |         3 |   1        |
 | Toulon               |         3 |   0.833333 |
 | Bordeaux Begles      |         3 |   0.333333 |
 | Stade Toulousain     |         3 |   0.166667 |
-| Agen                 |         2 |   1        |
 | Montpellier Herault  |         2 |   0.75     |
 | Scarlets             |         2 |   1        |
 | Perpignan            |         2 |   1        |
-| London Irish         |         2 |   1        |
+| Agen                 |         2 |   1        |
 | Clermont Auvergne    |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
 | NSW Country Eagles   |         1 |   1        |

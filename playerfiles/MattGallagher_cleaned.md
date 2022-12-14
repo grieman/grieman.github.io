@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matt Gallagher  
-date: 2022-12-09 13:10:19.216015  
+date: 2022-12-14 11:18:36.457204  
 categories: player  
 ---
 # Matt Gallagher
 
 ## Positions: FB, W
 
-## Current elo: 129.0
+## Current elo: 126.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------|--------------:|-----------:|
 | Saracens   |            41 |   0.597561 |
 | Munster    |            12 |   0.75     |
-| Bath Rugby |             9 |   0.333333 |
+| Bath Rugby |            10 |   0.3      |
 | Bedford    |             7 |   0.214286 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -34,17 +34,17 @@ categories: player
 | Ospreys             |         4 |   0.75     |
 | Northampton Saints  |         4 |   0.75     |
 | Harlequins          |         4 |   0        |
+| Wasps               |         3 |   0.666667 |
 | Scarlets            |         3 |   0.833333 |
 | Exeter Chiefs       |         3 |   0.333333 |
-| Newcastle Falcons   |         3 |   1        |
+| Glasgow Warriors    |         3 |   0.666667 |
 | Sale Sharks         |         3 |   0.666667 |
-| Wasps               |         3 |   0.666667 |
+| Newcastle Falcons   |         3 |   1        |
 | London Irish        |         3 |   0.333333 |
 | Zebre               |         2 |   1        |
-| Benetton Treviso    |         2 |   1        |
 | Jersey              |         2 |   0.5      |
+| Benetton Treviso    |         2 |   1        |
 | Leinster            |         2 |   0        |
-| Glasgow Warriors    |         2 |   1        |
 | Worcester Warriors  |         2 |   0        |
 | Dragons             |         2 |   1        |
 | Yorkshire Carnegie  |         1 |   0        |

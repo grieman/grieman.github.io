@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Delannoy  
-date: 2022-12-09 13:15:14.335039  
+date: 2022-12-12 15:20:06.908234  
 categories: player  
 ---
 # Julien Delannoy
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 

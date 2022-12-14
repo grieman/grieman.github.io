@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andy Christie  
-date: 2022-11-22 11:41:22.322826  
+date: 2022-12-14 11:22:12.650458  
 categories: player  
 ---
 # Andy Christie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 98.0
+## Current elo: 97.0
 
-## Current Percentile: 54.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |            42 |    0.72619 |
-| Scotland |             4 |    0.5     |
+| Saracens |            43 |   0.732558 |
+| Scotland |             4 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,10 +38,10 @@ categories: player
 | London Irish       |         3 |   0.5      |
 | Argentina          |         3 |   0.666667 |
 | Gloucester Rugby   |         3 |   0.666667 |
+| Edinburgh          |         2 |   0.5      |
 | Bristol Rugby      |         2 |   1        |
 | Worcester Warriors |         2 |   0.5      |
 | France             |         1 |   0        |
-| Edinburgh          |         1 |   0        |
 | Brive              |         1 |   1        |
 | Northampton Saints |         1 |   1        |
 | Nottingham         |         1 |   1        |

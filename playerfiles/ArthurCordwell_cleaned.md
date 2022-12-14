@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Arthur Cordwell  
-date: 2022-12-09 13:04:14.918897  
+date: 2022-12-14 11:11:30.999508  
 categories: player  
 ---
 # Arthur Cordwell
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: 60.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            18 |   0.361111 |
+| Bath Rugby |            19 |   0.342105 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Northampton Saints |         2 |   0.5      |
 | Saracens           |         2 |   0        |
 | Exeter Chiefs      |         1 |   0        |
+| Glasgow Warriors   |         1 |   0        |
 | Sale Sharks        |         1 |   0.5      |
 | Wasps              |         1 |   0        |
 | Worcester Warriors |         1 |   1        |

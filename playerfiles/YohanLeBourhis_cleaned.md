@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yohan Le Bourhis  
-date: 2022-12-09 13:21:48.546506  
+date: 2022-12-14 11:36:43.223584  
 categories: player  
 ---
 # Yohan Le Bourhis
 
 ## Positions: FH
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -24,14 +24,14 @@ categories: player
 | Oyonnax            |            51 |   0.598039 |
 | Biarritz Olympique |            47 |   0.553191 |
 | Castres Olympique  |            17 |   0.411765 |
-| Nevers             |             7 |   0.428571 |
+| Nevers             |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Carcassonne                |         8 |   0.625    |
 | Aurillac                   |         7 |   0.285714 |
 | Beziers                    |         7 |   0.857143 |
 | Provence Rugby             |         7 |   0.857143 |
-| Carcassonne                |         7 |   0.714286 |
 | Mont-de-Marsan             |         7 |   0.571429 |
 | Grenoble                   |         6 |   0.333333 |
 | Rouen                      |         6 |   0.666667 |

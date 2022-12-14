@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan Ruru  
-date: 2022-12-09 13:11:56.747156  
+date: 2022-12-12 14:48:06.793466  
 categories: player  
 ---
 # Jonathan Ruru
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 

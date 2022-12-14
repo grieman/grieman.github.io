@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Remi Picquette  
-date: 2022-12-09 13:18:16.424084  
+date: 2022-12-12 15:21:30.378131  
 categories: player  
 ---
 # Remi Picquette
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

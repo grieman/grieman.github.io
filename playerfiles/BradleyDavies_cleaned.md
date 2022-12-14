@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bradley Davies  
-date: 2022-12-09 13:05:18.661505  
+date: 2022-12-12 15:38:06.099707  
 categories: player  
 ---
 # Bradley Davies
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alec Hepburn  
-date: 2022-11-22 11:39:04.202044  
+date: 2022-12-14 11:25:11.133637  
 categories: player  
 ---
 # Alec Hepburn
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 69.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           158 |   0.677215 |
+| Exeter Chiefs |           160 |   0.675    |
 | England       |             7 |   0.857143 |
 | Perth Spirit  |             3 |   0.333333 |
 
@@ -36,11 +36,12 @@ categories: player
 | Saracens            |        13 |   0.384615 |
 | Bath Rugby          |        13 |   0.846154 |
 | Leicester Tigers    |        11 |   0.636364 |
+| Newcastle Falcons   |        11 |   0.727273 |
 | Gloucester Rugby    |        11 |   0.636364 |
 | Worcester Warriors  |        10 |   0.9      |
-| Newcastle Falcons   |        10 |   0.8      |
 | Bristol Rugby       |         9 |   0.666667 |
 | London Irish        |         7 |   0.857143 |
+| Castres Olympique   |         3 |   0.666667 |
 | Leinster            |         2 |   0        |
 | Montpellier Herault |         2 |   1        |
 | Munster             |         2 |   0.25     |
@@ -48,7 +49,6 @@ categories: player
 | Glasgow Warriors    |         2 |   0.75     |
 | La Rochelle         |         2 |   1        |
 | Ospreys             |         2 |   0.5      |
-| Castres Olympique   |         2 |   0.5      |
 | Japan               |         1 |   1        |
 | Canberra Vikings    |         1 |   1        |
 | Bordeaux Begles     |         1 |   0        |

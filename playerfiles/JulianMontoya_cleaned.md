@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian Montoya  
-date: 2022-12-09 13:21:05.699668  
+date: 2022-12-12 15:22:47.490356  
 categories: player  
 ---
 # Julian Montoya
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 

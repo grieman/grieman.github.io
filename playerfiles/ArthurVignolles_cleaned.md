@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Vignolles  
-date: 2022-12-09 13:22:04.530615  
+date: 2022-12-14 11:31:56.089996  
 categories: player  
 ---
 # Arthur Vignolles

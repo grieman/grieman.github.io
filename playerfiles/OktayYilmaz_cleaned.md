@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oktay Yilmaz  
-date: 2022-12-09 13:06:41.146359  
+date: 2022-12-14 11:25:36.630362  
 categories: player  
 ---
 # Oktay Yilmaz
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 58.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            11 |   0.5      |
+| Bourgoin-Jallieu |            12 |   0.541667 |
 | Nevers           |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,6 +35,7 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |       1    |
 | Nice                       |         1 |       1    |
 | Oyonnax                    |         1 |       0    |
+| Rennes                     |         1 |       1    |
 | Suresnes                   |         1 |       0    |
 | Tarbes                     |         1 |       0    |
 | US Bressane                |         1 |       0    |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Martin Freytes  
-date: 2022-12-09 13:17:20.195276  
+date: 2022-12-14 11:21:22.998468  
 categories: player  
 ---
 # Martin Freytes
 
 ## Positions: N8, L
 
-## Current elo: 92.0
+## Current elo: 89.0
 
 ## Current Percentile: 34.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |            36 |   0.611111 |
+| Nice   |            37 |   0.621622 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Tarbes                     |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Massy                      |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

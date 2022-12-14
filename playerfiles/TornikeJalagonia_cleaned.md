@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tornike Jalagonia  
-date: 2022-12-09 13:10:55.449225  
+date: 2022-12-14 11:28:02.148568  
 categories: player  
 ---
 # Tornike Jalagonia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 105.0
+## Current elo: 106.0
 
-## Current Percentile: 73.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            36 |   0.472222 |
+| Biarritz Olympique |            37 |   0.486486 |
 | Georgia            |            13 |   0.769231 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,10 +42,10 @@ categories: player
 | Mont-de-Marsan       |         2 |       0    |
 | Montauban            |         2 |       1    |
 | Russia               |         2 |       1    |
-| South Africa         |         1 |       0    |
+| Soyaux-Angouleme     |         2 |       1    |
 | Samoa                |         1 |       0    |
 | Agen                 |         1 |       0    |
-| Soyaux-Angouleme     |         1 |       1    |
+| South Africa         |         1 |       0    |
 | Spain                |         1 |       1    |
 | Uruguay              |         1 |       1    |
 | Stade Toulousain     |         1 |       0    |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kurt Haupt  
-date: 2022-12-09 13:21:34.390145  
+date: 2022-12-14 11:32:36.529993  
 categories: player  
 ---
 # Kurt Haupt
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 21.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Nice               |            20 |   0.625    |
+| Nice               |            21 |   0.642857 |
 | Worcester Warriors |            15 |   0.4      |
 | SWD Eagles         |             9 |   0.222222 |
 | Southern Kings     |             8 |   0.375    |
@@ -44,8 +44,8 @@ categories: player
 | Leicester Tigers           |         2 |   0.5      |
 | Boland Cavaliers           |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
-| Dijon                      |         1 |   0        |
-| Newcastle Falcons          |         1 |   1        |
+| Dax                        |         1 |   0        |
+| New South Wales Waratahs   |         1 |   1        |
 | US Bressane                |         1 |   1        |
 | Border Bulldogs            |         1 |   0        |
 | Sunwolves                  |         1 |   1        |
@@ -57,18 +57,19 @@ categories: player
 | Romania                    |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Brumbies                   |         1 |   0        |
-| New South Wales Waratahs   |         1 |   1        |
-| Dragons                    |         1 |   0        |
+| Newcastle Falcons          |         1 |   1        |
 | Narbonne                   |         1 |   0        |
+| Dijon                      |         1 |   0        |
 | Canada                     |         1 |   0        |
 | London Irish               |         1 |   0        |
-| Chambery                   |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Leopards                   |         1 |   0        |
 | Aubenas                    |         1 |   1        |
 | Kenya                      |         1 |   1        |
 | Hong Kong                  |         1 |   1        |
 | Harlequins                 |         1 |   0        |
+| Chambery                   |         1 |   0        |
 | Griffons                   |         1 |   0        |
 | Gloucester Rugby           |         1 |   1        |
-| Dax                        |         1 |   0        |
+| Dragons                    |         1 |   0        |
 | Wasps                      |         1 |   0        |

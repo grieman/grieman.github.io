@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mako Vunipola  
-date: 2022-11-22 11:38:15.740756  
+date: 2022-12-14 11:12:35.147352  
 categories: player  
 ---
 # Mako Vunipola
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 137.0
+## Current elo: 133.0
 
 ## Current Percentile: 99.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           202 |   0.804455 |
-| England                 |            64 |   0.742188 |
+| Saracens                |           203 |   0.805419 |
+| England                 |            65 |   0.730769 |
 | British and Irish Lions |            10 |   0.55     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -43,9 +43,9 @@ categories: player
 | Ireland             |         9 |   0.555556 |
 | London Irish        |         9 |   0.833333 |
 | France              |         8 |   0.75     |
+| South Africa        |         8 |   0.25     |
 | Italy               |         8 |   1        |
 | Scotland            |         7 |   0.857143 |
-| South Africa        |         7 |   0.285714 |
 | Wales               |         7 |   0.571429 |
 | Clermont Auvergne   |         7 |   0.285714 |
 | Racing 92           |         6 |   0.833333 |
@@ -54,13 +54,13 @@ categories: player
 | New Zealand         |         5 |   0.6      |
 | Ulster              |         4 |   1        |
 | Stade Toulousain    |         4 |   0.5      |
+| Edinburgh           |         4 |   0.75     |
 | Argentina           |         4 |   0.75     |
 | London Welsh        |         3 |   1        |
 | Leinster            |         3 |   0.666667 |
 | Toulon              |         3 |   0.333333 |
 | Glasgow Warriors    |         3 |   1        |
 | Ospreys             |         3 |   0.833333 |
-| Edinburgh           |         3 |   0.666667 |
 | Connacht            |         2 |   1        |
 | Cardiff Blues       |         2 |   1        |
 | Fiji                |         2 |   1        |

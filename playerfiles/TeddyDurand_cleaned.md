@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Teddy Durand  
-date: 2022-12-09 13:09:00.870972  
+date: 2022-12-14 11:26:07.363447  
 categories: player  
 ---
 # Teddy Durand
 
 ## Positions: H
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 58.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,24 +21,25 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            23 |   0.695652 |
+| Oyonnax |            24 |   0.708333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Agen               |         2 |       1    |
-| Mont-de-Marsan     |         2 |       0.25 |
+| Grenoble           |         2 |       1    |
 | Soyaux-Angouleme   |         2 |       1    |
 | Rouen              |         2 |       0.5  |
-| Grenoble           |         2 |       1    |
 | Nevers             |         2 |       0.5  |
-| US Bressane        |         1 |       1    |
-| Provence Rugby     |         1 |       0.5  |
-| Perpignan          |         1 |       0    |
-| Massy              |         1 |       1    |
-| Aurillac           |         1 |       1    |
+| Mont-de-Marsan     |         2 |       0.25 |
 | Colomiers          |         1 |       0    |
 | Carcassonne        |         1 |       1    |
+| Massy              |         1 |       1    |
+| Aurillac           |         1 |       1    |
+| Montauban          |         1 |       1    |
 | Biarritz Olympique |         1 |       0    |
+| Perpignan          |         1 |       0    |
+| Provence Rugby     |         1 |       0.5  |
 | Beziers            |         1 |       1    |
 | Bayonne            |         1 |       1    |
+| US Bressane        |         1 |       1    |
 | Vannes             |         1 |       1    |

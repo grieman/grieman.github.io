@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joseph Dweba  
-date: 2022-12-09 13:04:31.708855  
+date: 2022-12-14 11:30:22.800378  
 categories: player  
 ---
 # Joseph Dweba
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 62.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Cheetahs            |            35 |   0.385714 |
 | Bordeaux Begles     |            25 |   0.42     |
 | Free State Cheetahs |            10 |   0.6      |
-| Stormers            |             6 |   0.75     |
+| Stormers            |             7 |   0.642857 |
 | South Africa        |             4 |   0.25     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -50,6 +50,7 @@ categories: player
 | Pau                 |         2 |   0        |
 | Natal Sharks        |         2 |   0.5      |
 | Agen                |         2 |   1        |
+| Clermont Auvergne   |         2 |   0.25     |
 | Glasgow Warriors    |         2 |   0        |
 | Blue Bulls          |         2 |   0.5      |
 | Griquas             |         1 |   1        |
@@ -58,7 +59,6 @@ categories: player
 | Western Force       |         1 |   1        |
 | Wales               |         1 |   0        |
 | Castres Olympique   |         1 |   1        |
-| Clermont Auvergne   |         1 |   0.5      |
 | Stormers            |         1 |   0        |
 | Bristol Rugby       |         1 |   0        |
 | Bayonne             |         1 |   1        |

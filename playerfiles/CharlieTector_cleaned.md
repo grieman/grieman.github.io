@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Tector  
-date: 2022-12-09 13:04:44.379561  
+date: 2022-12-12 14:59:04.252077  
 categories: player  
 ---
 # Charlie Tector

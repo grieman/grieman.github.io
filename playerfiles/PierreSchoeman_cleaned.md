@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Schoeman  
-date: 2022-12-09 13:10:03.594923  
+date: 2022-12-14 11:18:01.345800  
 categories: player  
 ---
 # Pierre Schoeman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 92.0
+## Current elo: 94.0
 
-## Current Percentile: 40.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Edinburgh  |            77 |   0.558442 |
+| Edinburgh  |            78 |   0.551282 |
 | Bulls      |            35 |   0.428571 |
 | Blue Bulls |            16 |   0.5625   |
 | Scotland   |            15 |   0.466667 |
@@ -56,13 +56,14 @@ categories: player
 | Bulls                    |         2 |   0.5      |
 | Sharks                   |         2 |   1        |
 | Chiefs                   |         2 |   0        |
+| Saracens                 |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   1        |
 | Natal Sharks             |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
 | Griquas                  |         2 |   1        |
 | Hurricanes               |         2 |   0.5      |
+| Montpellier Herault      |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
-| Ireland                  |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Blues                    |         1 |   0        |
@@ -71,16 +72,15 @@ categories: player
 | Highlanders              |         1 |   0        |
 | Brive                    |         1 |   1        |
 | South Africa             |         1 |   0        |
+| Ireland                  |         1 |   0        |
 | Italy                    |         1 |   1        |
-| Montpellier Herault      |         1 |   1        |
-| Saracens                 |         1 |   1        |
+| Fiji                     |         1 |   1        |
 | Queensland Reds          |         1 |   0        |
 | Pumas                    |         1 |   1        |
 | Pau                      |         1 |   1        |
 | France                   |         1 |   0        |
-| Fiji                     |         1 |   1        |
+| England                  |         1 |   1        |
 | New Zealand              |         1 |   0        |
 | New South Wales Waratahs |         1 |   0        |
-| England                  |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
 | Agen                     |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Loris Zarantonello  
-date: 2022-12-09 13:21:15.422138  
+date: 2022-12-14 11:28:28.971664  
 categories: player  
 ---
 # Loris Zarantonello
 
 ## Positions: H
 
-## Current elo: 91.0
+## Current elo: 92.0
 
 ## Current Percentile: 48.0
 

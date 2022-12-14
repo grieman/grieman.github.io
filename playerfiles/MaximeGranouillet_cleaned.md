@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Granouillet  
-date: 2022-11-22 11:32:14.315168  
+date: 2022-12-14 11:13:19.195125  
 categories: player  
 ---
 # Maxime Granouillet
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 21.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            66 |   0.583333 |
+| Colomiers |            68 |   0.595588 |
 | Aurillac  |            55 |   0.536364 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,7 +30,7 @@ categories: player
 | Beziers                    |         9 |   0.666667 |
 | Vannes                     |         8 |   0.5      |
 | Montauban                  |         8 |   0.375    |
-| Grenoble                   |         6 |   0.833333 |
+| Grenoble                   |         7 |   0.857143 |
 | Mont-de-Marsan             |         6 |   0.666667 |
 | Aurillac                   |         6 |   0.5      |
 | Biarritz Olympique         |         6 |   0.666667 |
@@ -41,8 +41,8 @@ categories: player
 | Provence Rugby             |         4 |   0.75     |
 | Oyonnax                    |         4 |   0.625    |
 | Agen                       |         4 |   0.75     |
+| Massy                      |         4 |   0.5      |
 | Narbonne                   |         3 |   0.666667 |
-| Massy                      |         3 |   0.333333 |
 | Perpignan                  |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.333333 |
 | Dax                        |         3 |   0.333333 |

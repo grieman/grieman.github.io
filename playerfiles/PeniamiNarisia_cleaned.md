@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peniami Narisia  
-date: 2022-12-09 13:23:12.883757  
+date: 2022-12-14 11:33:02.549651  
 categories: player  
 ---
 # Peniami Narisia
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

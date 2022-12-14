@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Simmons  
-date: 2022-11-22 11:32:11.654033  
+date: 2022-12-14 11:23:11.569306  
 categories: player  
 ---
 # Rob Simmons
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 123.0
+## Current elo: 122.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Queensland Reds          |           114 |   0.52193  |
 | Australia                |           100 |   0.545    |
-| London Irish             |            46 |   0.413043 |
+| London Irish             |            47 |   0.404255 |
 | New South Wales Waratahs |            43 |   0.465116 |
 | Queensland Country       |             3 |   0        |
 | Sydney Rays              |             2 |   0        |
@@ -54,33 +54,34 @@ categories: player
 | Cheetahs                 |         6 |   0.833333 |
 | France                   |         6 |   0.833333 |
 | Harlequins               |         5 |   0.3      |
+| Gloucester Rugby         |         5 |   0.3      |
 | Sunwolves                |         5 |   0.8      |
 | Exeter Chiefs            |         5 |   0.4      |
-| Gloucester Rugby         |         5 |   0.3      |
 | Queensland Reds          |         5 |   0.8      |
-| Northampton Saints       |         4 |   0        |
-| Wasps                    |         4 |   0.375    |
-| Scotland                 |         4 |   0.75     |
-| Sale Sharks              |         4 |   0.25     |
-| Italy                    |         4 |   1        |
 | Worcester Warriors       |         4 |   0.75     |
+| Sale Sharks              |         4 |   0.25     |
+| Wasps                    |         4 |   0.375    |
 | Newcastle Falcons        |         4 |   0.75     |
-| Bristol Rugby            |         3 |   0.333333 |
+| Northampton Saints       |         4 |   0        |
+| Scotland                 |         4 |   0.75     |
+| Italy                    |         4 |   1        |
 | Leicester Tigers         |         3 |   0        |
-| Melbourne Rising         |         2 |   0        |
+| Bristol Rugby            |         3 |   0.333333 |
 | Uruguay                  |         2 |   1        |
 | United States of America |         2 |   1        |
+| Melbourne Rising         |         2 |   0        |
 | Bath Rugby               |         2 |   1        |
-| Canberra Vikings         |         1 |   0        |
-| Jaguares                 |         1 |   0        |
-| Edinburgh                |         1 |   1        |
-| Japan                    |         1 |   1        |
+| Russia                   |         1 |   1        |
+| Saracens                 |         1 |   0.5      |
+| Pau                      |         1 |   1        |
+| Fiji                     |         1 |   1        |
 | North Harbour Rays       |         1 |   0        |
 | Southern Kings           |         1 |   1        |
-| Fiji                     |         1 |   1        |
-| Saracens                 |         1 |   0.5      |
-| Samoa                    |         1 |   1        |
-| NSW Country Eagles       |         1 |   0        |
+| Japan                    |         1 |   1        |
+| Jaguares                 |         1 |   0        |
 | Georgia                  |         1 |   1        |
-| Pau                      |         1 |   1        |
-| Russia                   |         1 |   1        |
+| NSW Country Eagles       |         1 |   0        |
+| Edinburgh                |         1 |   1        |
+| Montpellier Herault      |         1 |   0        |
+| Canberra Vikings         |         1 |   0        |
+| Samoa                    |         1 |   1        |

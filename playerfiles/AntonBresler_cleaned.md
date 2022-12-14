@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anton Bresler  
-date: 2022-12-09 13:09:13.842190  
+date: 2022-12-14 11:35:35.650586  
 categories: player  
 ---
 # Anton Bresler
 
 ## Positions: L
 
-## Current elo: 121.0
+## Current elo: 120.0
 
-## Current Percentile: 91.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Worcester Warriors |            57 |   0.385965 |
 | Sharks             |            43 |   0.627907 |
 | Natal Sharks       |            20 |   0.65     |
-| Racing 92          |            18 |   0.722222 |
+| Racing 92          |            19 |   0.684211 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Stormers                 |         6 |   0.666667 |
 | Gloucester Rugby         |         6 |   0.333333 |
 | Ospreys                  |         5 |   0.4      |
+| Leinster                 |         5 |   0.2      |
 | Leicester Tigers         |         5 |   0.6      |
 | Bristol Rugby            |         5 |   0.4      |
 | Scarlets                 |         5 |   0.5      |
@@ -46,7 +47,6 @@ categories: player
 | Sale Sharks              |         4 |   0.5      |
 | Free State Cheetahs      |         4 |   0.75     |
 | Bath Rugby               |         4 |   0.25     |
-| Leinster                 |         4 |   0.25     |
 | Lyon                     |         4 |   0.5      |
 | Northampton Saints       |         4 |   0        |
 | Glasgow Warriors         |         4 |   0.75     |

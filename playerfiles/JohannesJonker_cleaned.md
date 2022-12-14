@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johannes Jonker  
-date: 2022-12-09 13:22:23.828359  
+date: 2022-12-14 11:18:28.713516  
 categories: player  
 ---
 # Johannes Jonker
@@ -23,8 +23,8 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Lions               |            36 |   0.638889 |
 | Montpellier Herault |            12 |   0.5      |
+| Bath Rugby          |             8 |   0.25     |
 | Golden Lions        |             8 |   0.625    |
-| Bath Rugby          |             7 |   0.285714 |
 | Border Bulldogs     |             7 |   0.285714 |
 | Ealing Trailfinders |             1 |   1        |
 
@@ -37,6 +37,7 @@ categories: player
 | Bulls                    |         3 |   0.666667 |
 | Crusaders                |         3 |   0        |
 | New South Wales Waratahs |         3 |   1        |
+| Glasgow Warriors         |         3 |   0.666667 |
 | Hurricanes               |         3 |   0.333333 |
 | Blue Bulls               |         2 |   0.5      |
 | Highlanders              |         2 |   0.5      |
@@ -46,7 +47,6 @@ categories: player
 | Newcastle Falcons        |         2 |   0.5      |
 | Natal Sharks             |         2 |   0        |
 | Leopards                 |         2 |   0        |
-| Glasgow Warriors         |         2 |   1        |
 | Harlequins               |         1 |   0        |
 | Racing 92                |         1 |   0        |
 | Western Force            |         1 |   1        |

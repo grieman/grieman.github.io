@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lekima Tagitagivalu  
-date: 2022-12-09 13:14:08.498895  
+date: 2022-12-14 11:29:34.976638  
 categories: player  
 ---
 # Lekima Tagitagivalu
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 54.0
+## Current Percentile: 55.0
 
 # Elo History
 

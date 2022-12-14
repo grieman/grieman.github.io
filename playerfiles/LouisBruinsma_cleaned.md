@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Bruinsma  
-date: 2022-12-09 13:08:20.685408  
+date: 2022-12-14 11:35:24.321742  
 categories: player  
 ---
 # Louis Bruinsma
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 50.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            29 |   0.568966 |
+| US Bressane |            30 |   0.583333 |
 | Netherlands |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,6 +38,7 @@ categories: player
 | Bourgoin-Jallieu           |         1 |        1   |
 | Bayonne                    |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        1   |
+| Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Rennes                     |         1 |        1   |
 | Provence Rugby             |         1 |        0   |
@@ -47,11 +48,11 @@ categories: player
 | Montauban                  |         1 |        0.5 |
 | Canada                     |         1 |        0   |
 | Mont-de-Marsan             |         1 |        0   |
-| Georgia                    |         1 |        0   |
 | Albi                       |         1 |        0   |
+| Dijon                      |         1 |        1   |
 | Dax                        |         1 |        0   |
 | Colomiers                  |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        1   |
 | Carcassonne                |         1 |        0   |
-| Dijon                      |         1 |        1   |
+| Georgia                    |         1 |        0   |

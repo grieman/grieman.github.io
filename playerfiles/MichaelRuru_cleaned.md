@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Michael Ruru  
-date: 2022-12-09 13:22:23.058359  
+date: 2022-12-14 11:36:17.706595  
 categories: player  
 ---
 # Michael Ruru
 
 ## Positions: SH
 
-## Current elo: 116.0
+## Current elo: 112.0
 
 ## Current Percentile: 92.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bayonne          |            47 |   0.404255 |
+| Bayonne          |            48 |   0.395833 |
 | Melbourne Rebels |            32 |   0.4375   |
 | Western Force    |            10 |   0.4      |
 | Perth Spirit     |             9 |   0.333333 |
@@ -43,25 +43,25 @@ categories: player
 | Crusaders                |         3 |   0        |
 | Highlanders              |         3 |   0.333333 |
 | Hurricanes               |         3 |   0        |
-| Pau                      |         3 |   0        |
 | Bordeaux Begles          |         3 |   0        |
-| NSW Country Eagles       |         3 |   0.333333 |
+| Pau                      |         3 |   0        |
 | Stade Toulousain         |         3 |   0.666667 |
+| NSW Country Eagles       |         3 |   0.333333 |
 | Canberra Vikings         |         2 |   0        |
+| Scarlets                 |         2 |   0        |
 | Bulls                    |         2 |   0        |
 | Brisbane City            |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   1        |
 | Blues                    |         2 |   0.5      |
 | Melbourne Rising         |         2 |   0.5      |
-| Sharks                   |         2 |   0.5      |
 | Stormers                 |         2 |   0        |
 | La Rochelle              |         2 |   0        |
 | Sydney Rays              |         2 |   0.5      |
 | Toulon                   |         2 |   0.5      |
-| Western Force            |         1 |   0        |
+| Sharks                   |         2 |   0.5      |
 | Southern Kings           |         1 |   1        |
+| Western Force            |         1 |   0        |
 | Chiefs                   |         1 |   0        |
-| Scarlets                 |         1 |   0        |
 | Queensland Country       |         1 |   0        |
 | Melbourne Rebels         |         1 |   1        |
 | London Irish             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Davit Niniashvili  
-date: 2022-12-09 13:07:19.989783  
+date: 2022-12-12 14:55:13.265256  
 categories: player  
 ---
 # Davit Niniashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 58.0
 
 # Elo History
 

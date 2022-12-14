@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jules Dorrival  
-date: 2022-12-09 13:23:58.977133  
+date: 2022-12-14 11:16:48.007217  
 categories: player  
 ---
 # Jules Dorrival
 
 ## Positions: FB
 
-## Current elo: 88.0
+## Current elo: 93.0
 
-## Current Percentile: 26.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            12 |   0.416667 |
+| Chambery |            13 |   0.461538 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,3 +37,4 @@ categories: player
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          1 |
 | US Bressane                |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          1 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Morgan Maga  
-date: 2022-12-09 13:20:34.119648  
+date: 2022-12-14 11:29:25.709798  
 categories: player  
 ---
 # Morgan Maga
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: 53.0
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             3 |   0.666667 |
+| Narbonne |             4 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Carqueiranne-Hyères |         1 |          1 |
+| Dax                 |         1 |          0 |
 | Rennes              |         1 |          1 |
 | Tarbes              |         1 |          0 |

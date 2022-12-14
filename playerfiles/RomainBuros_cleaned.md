@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain Buros  
-date: 2022-12-09 13:06:55.927371  
+date: 2022-12-14 11:29:26.375331  
 categories: player  
 ---
 # Romain Buros
 
 ## Positions: FB, W
 
-## Current elo: 108.0
+## Current elo: 112.0
 
-## Current Percentile: 79.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            80 |   0.59375  |
+| Bordeaux Begles |            81 |   0.58642  |
 | Pau             |            13 |   0.153846 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -43,8 +43,8 @@ categories: player
 | Pau                  |         2 |   0.5      |
 | Grenoble             |         2 |   0.5      |
 | Bath Rugby           |         2 |   0        |
+| Gloucester Rugby     |         2 |   0.5      |
 | Cardiff Blues        |         2 |   0        |
-| Gloucester Rugby     |         1 |   1        |
 | Edinburgh            |         1 |   0.5      |
 | Dragons              |         1 |   0        |
 | Bristol Rugby        |         1 |   0        |

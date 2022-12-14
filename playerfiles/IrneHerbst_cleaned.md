@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Irne Herbst  
-date: 2022-12-09 13:04:53.933832  
+date: 2022-12-14 11:26:16.701762  
 categories: player  
 ---
 # Irne Herbst
 
 ## Positions: L
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 88.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            67 |   0.365672 |
 | Southern Kings   |            13 |   0.384615 |
-| Harlequins       |             9 |   0.666667 |
+| Harlequins       |            10 |   0.6      |
 | Blue Bulls       |             4 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -37,10 +37,10 @@ categories: player
 | Dragons                  |         4 |   0.875    |
 | Zebre                    |         3 |   1        |
 | Southern Kings           |         3 |   1        |
+| Sharks                   |         3 |   0.333333 |
 | Glasgow Warriors         |         3 |   0.333333 |
 | Lions                    |         3 |   0        |
 | Jaguares                 |         2 |   0.5      |
-| Sharks                   |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
 | Northampton Saints       |         2 |   0.5      |
 | Bath Rugby               |         2 |   0.5      |

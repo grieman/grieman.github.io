@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ilian Perraux  
-date: 2022-12-09 13:22:41.386915  
+date: 2022-12-14 11:21:24.347413  
 categories: player  
 ---
 # Ilian Perraux
 
 ## Positions: C, FH
 
-## Current elo: 108.0
+## Current elo: 110.0
 
 ## Current Percentile: 78.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Biarritz Olympique  |            58 |   0.586207 |
+| Biarritz Olympique  |            59 |   0.59322  |
 | Albi                |            17 |   0.5      |
 | Dax                 |            17 |   0.294118 |
 | Montpellier Herault |            14 |   0.357143 |
@@ -30,7 +30,7 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |         8 |   0.3125   |
-| Soyaux-Angouleme           |         7 |   0.571429 |
+| Soyaux-Angouleme           |         8 |   0.625    |
 | Mont-de-Marsan             |         6 |   0.5      |
 | Aurillac                   |         6 |   0.666667 |
 | Perpignan                  |         6 |   0.25     |

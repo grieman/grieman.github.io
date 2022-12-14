@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave O'Callaghan  
-date: 2022-12-09 13:17:59.145974  
+date: 2022-12-14 11:13:27.042942  
 categories: player  
 ---
 # Dave O'Callaghan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 16.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Munster            |            85 |   0.670588 |
-| Biarritz Olympique |            56 |   0.446429 |
+| Biarritz Olympique |            57 |   0.45614  |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,9 +40,9 @@ categories: player
 | Oyonnax                    |         4 |   0.75     |
 | Nevers                     |         4 |   0.25     |
 | Saracens                   |         4 |   0.25     |
+| Soyaux-Angouleme           |         4 |   0.75     |
 | Carcassonne                |         4 |   0.5      |
 | Colomiers                  |         3 |   0.666667 |
-| Soyaux-Angouleme           |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.833333 |
 | Rouen                      |         3 |   1        |
 | Provence Rugby             |         3 |   1        |

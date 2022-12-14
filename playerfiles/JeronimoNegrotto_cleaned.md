@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jeronimo Negrotto  
-date: 2022-12-09 13:08:25.147593  
+date: 2022-12-14 11:34:50.561652  
 categories: player  
 ---
 # Jeronimo Negrotto
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 20.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,10 +21,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            42 |   0.52381  |
-| Nice           |            24 |   0.541667 |
-| Tarbes         |            10 |   0.5      |
-| Agen           |             4 |   0.5      |
+| Mont-de-Marsan |            42 |    0.52381 |
+| Nice           |            25 |    0.56    |
+| Tarbes         |            10 |    0.5     |
+| Agen           |             4 |    0.5     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -42,19 +42,20 @@ categories: player
 | Tarbes                     |         3 |   0.833333 |
 | Perpignan                  |         3 |   1        |
 | Colomiers                  |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         2 |   0.5      |
+| Oyonnax                    |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   1        |
-| Oyonnax                    |         2 |   0.5      |
-| Brive                      |         2 |   0.5      |
-| Grenoble                   |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Chambery                   |         2 |   0        |
+| Grenoble                   |         2 |   0        |
 | Dax                        |         2 |   0        |
+| Brive                      |         2 |   0.5      |
 | Blagnac                    |         1 |   1        |
-| Bayonne                    |         1 |   1        |
-| Dijon                      |         1 |   0        |
-| Aubenas                    |         1 |   1        |
-| Rennes                     |         1 |   1        |
 | Clermont Auvergne          |         1 |   0        |
-| Suresnes                   |         1 |   1        |
+| Bayonne                    |         1 |   1        |
+| Aubenas                    |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
+| Rennes                     |         1 |   1        |
+| Dijon                      |         1 |   0        |
+| Suresnes                   |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |

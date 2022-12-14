@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Isa  
-date: 2022-12-09 13:14:12.865898  
+date: 2022-12-14 11:29:51.598949  
 categories: player  
 ---
 # Facundo Isa

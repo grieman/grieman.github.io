@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan Kpoku  
-date: 2022-12-09 13:04:14.225185  
+date: 2022-12-12 15:07:32.166264  
 categories: player  
 ---
 # Jonathan Kpoku
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 42.0
+## Current Percentile: 43.0
 
 # Elo History
 

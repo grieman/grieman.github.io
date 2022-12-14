@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Miquel  
-date: 2022-12-09 13:19:54.189420  
+date: 2022-12-12 14:57:02.683291  
 categories: player  
 ---
 # Antoine Miquel
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 33.0
+## Current Percentile: 32.0
 
 # Elo History
 

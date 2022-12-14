@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Rogers  
-date: 2022-12-09 13:14:54.174875  
+date: 2022-12-14 11:19:05.369740  
 categories: player  
 ---
 # Tom Rogers
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 15.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -23,25 +23,26 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            27 |   0.425926 |
+| Scarlets |            28 |   0.446429 |
 | Wales    |             2 |   0.5      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Ospreys          |         3 |   0.833333 |
+| Glasgow Warriors |         2 |   0.5      |
+| Lions            |         2 |   0.5      |
+| Benetton Treviso |         2 |   1        |
 | Stormers         |         2 |   0        |
 | Cardiff Blues    |         2 |   1        |
 | Connacht         |         2 |   0.5      |
 | Dragons          |         2 |   0.5      |
-| Glasgow Warriors |         2 |   0.5      |
-| Benetton Treviso |         2 |   1        |
-| Leinster         |         2 |   0        |
-| Lions            |         2 |   0.5      |
 | Munster          |         2 |   0        |
-| Argentina        |         1 |   0        |
+| Leinster         |         2 |   0        |
 | Southern Kings   |         1 |   1        |
 | Sharks           |         1 |   0        |
+| Argentina        |         1 |   0        |
 | Harlequins       |         1 |   0        |
+| Bayonne          |         1 |   1        |
 | Exeter Chiefs    |         1 |   0        |
 | Edinburgh        |         1 |   0        |
 | Canada           |         1 |   1        |

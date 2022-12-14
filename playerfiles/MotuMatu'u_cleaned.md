@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Motu Matu'u  
-date: 2022-12-09 13:19:15.482431  
+date: 2022-12-12 15:19:21.080719  
 categories: player  
 ---
 # Motu Matu'u
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 32.0
+## Current Percentile: 33.0
 
 # Elo History
 

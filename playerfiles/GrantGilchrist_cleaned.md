@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Grant Gilchrist  
-date: 2022-12-09 13:14:13.809898  
+date: 2022-12-14 11:35:44.397507  
 categories: player  
 ---
 # Grant Gilchrist
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 110.0
+## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           178 |   0.477528 |
+| Edinburgh |           179 |   0.47486  |
 | Scotland  |            57 |   0.552632 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,13 +45,13 @@ categories: player
 | London Irish             |         5 |   0.8      |
 | Zebre                    |         5 |   0.8      |
 | Australia                |         5 |   0.4      |
+| Saracens                 |         4 |   0.25     |
 | Wales                    |         4 |   0        |
 | Racing 92                |         4 |   0.5      |
 | Stormers                 |         3 |   0.166667 |
 | Southern Kings           |         3 |   1        |
 | England                  |         3 |   0.833333 |
 | Japan                    |         3 |   0.666667 |
-| Saracens                 |         3 |   0.333333 |
 | Bordeaux Begles          |         3 |   0.5      |
 | Stade Francais Paris     |         3 |   0.666667 |
 | Newcastle Falcons        |         2 |   1        |

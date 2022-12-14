@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Baptiste Germain  
-date: 2022-12-09 13:15:29.179399  
+date: 2022-12-12 15:38:10.883208  
 categories: player  
 ---
 # Baptiste Germain
 
 ## Positions: SH, FH
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 43.0
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Charly Trussardi  
-date: 2022-12-09 13:17:29.335355  
+date: 2022-12-14 11:29:56.731486  
 categories: player  
 ---
 # Charly Trussardi
 
 ## Positions: SH
 
-## Current elo: 87.0
+## Current elo: 89.0
 
 ## Current Percentile: 14.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Albi              |            13 |   0.769231 |
+| Albi              |            14 |   0.785714 |
 | Clermont Auvergne |            13 |   0.346154 |
 | Benetton Treviso  |             7 |   0.142857 |
 | Beziers           |             7 |   0.428571 |
@@ -31,13 +31,14 @@ categories: player
 | Oyonnax                    |         4 |   0.375    |
 | Bourgoin-Jallieu           |         3 |   1        |
 | Lyon                       |         3 |   0.333333 |
-| Nice                       |         2 |   0        |
+| Northampton Saints         |         2 |   0        |
 | US Bressane                |         2 |   1        |
 | Suresnes                   |         2 |   0.5      |
 | Saracens                   |         2 |   1        |
 | Chambery                   |         2 |   1        |
-| Northampton Saints         |         2 |   0        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Montpellier Herault        |         2 |   0        |
+| Nice                       |         2 |   0        |
 | Agen                       |         1 |   1        |
 | Vannes                     |         1 |   0        |
 | Racing 92                  |         1 |   0        |
@@ -48,7 +49,6 @@ categories: player
 | Glasgow Warriors           |         1 |   0        |
 | Dragons                    |         1 |   1        |
 | Dijon                      |         1 |   1        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
 | Cardiff Blues              |         1 |   0        |
 | Brive                      |         1 |   0        |

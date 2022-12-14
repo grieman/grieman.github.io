@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Otar Giorgadze  
-date: 2022-12-09 13:16:59.392368  
+date: 2022-12-12 15:37:49.463203  
 categories: player  
 ---
 # Otar Giorgadze
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 103.0
+## Current elo: 102.0
 
 ## Current Percentile: 74.0
 

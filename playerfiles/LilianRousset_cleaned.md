@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lilian Rousset  
-date: 2022-12-09 13:16:38.864903  
+date: 2022-12-14 11:29:56.008339  
 categories: player  
 ---
 # Lilian Rousset
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |             9 |   0.611111 |
+| Blagnac |            10 |       0.65 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Chambery                   |         1 |        1   |
 | Narbonne                   |         1 |        0.5 |
 | Nice                       |         1 |        0   |
+| Suresnes                   |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | US Bressane                |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        0   |

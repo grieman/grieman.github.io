@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maëlan Rabut  
-date: 2022-12-09 13:16:07.594347  
+date: 2022-12-14 11:34:00.864007  
 categories: player  
 ---
 # Maëlan Rabut
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 20.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-------|--------------:|-----------:|
 | Vannes |            35 |   0.542857 |
 | Massy  |            16 |   0        |
-| Toulon |             3 |   0.333333 |
+| Toulon |             4 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,18 +36,19 @@ categories: player
 | Aurillac                   |         4 |       0.5  |
 | Beziers                    |         3 |       0    |
 | Grenoble                   |         2 |       0.5  |
-| Nevers                     |         2 |       0.5  |
+| US Bressane                |         2 |       0.5  |
 | Bayonne                    |         2 |       0    |
 | Biarritz Olympique         |         2 |       0    |
-| US Bressane                |         2 |       0.5  |
+| Nevers                     |         2 |       0.5  |
 | Agen                       |         1 |       1    |
-| Stade Francais Paris       |         1 |       1    |
-| Rouen                      |         1 |       1    |
-| Valence Romans Drome Rugby |         1 |       0    |
 | Roval Drome XV             |         1 |       1    |
+| Valence Romans Drome Rugby |         1 |       0    |
+| Vannes                     |         1 |       0    |
+| Stade Francais Paris       |         1 |       1    |
 | Montpellier Herault        |         1 |       0    |
+| Rouen                      |         1 |       1    |
 | Racing 92                  |         1 |       0    |
 | Narbonne                   |         1 |       1    |
 | Dax                        |         1 |       0    |
 | Brive                      |         1 |       0    |
-| Vannes                     |         1 |       0    |
+| Zebre                      |         1 |       1    |

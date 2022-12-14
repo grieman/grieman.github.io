@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pablo Barbaste  
-date: 2022-12-09 13:07:19.330205  
+date: 2022-12-14 11:18:40.335413  
 categories: player  
 ---
 # Pablo Barbaste
 
 ## Positions: SH
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 51.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             4 |        0.5 |
+| Narbonne |             5 |        0.4 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,3 +29,4 @@ categories: player
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
+| Dax                        |         1 |          0 |

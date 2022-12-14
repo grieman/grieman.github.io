@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Leo Barre  
-date: 2022-12-09 13:13:34.690462  
+date: 2022-12-14 11:18:00.571001  
 categories: player  
 ---
 # Leo Barre
 
 ## Positions: FH, C
 
-## Current elo: 103.0
+## Current elo: 105.0
 
 ## Current Percentile: 69.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |            36 |   0.486111 |
+| Stade Francais Paris |            37 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -39,4 +39,5 @@ categories: player
 | Racing 92           |         2 |   0        |
 | Stade Toulousain    |         2 |   0.75     |
 | Bayonne             |         1 |   1        |
+| Benetton Treviso    |         1 |   1        |
 | Bristol Rugby       |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Joe Maksymiw  
-date: 2022-12-09 13:10:52.788225  
+date: 2022-12-14 11:31:18.639391  
 categories: player  
 ---
 # Joe Maksymiw
 
 ## Positions: L
 
-## Current elo: 81.0
+## Current elo: 82.0
 
 ## Current Percentile: 16.0
 

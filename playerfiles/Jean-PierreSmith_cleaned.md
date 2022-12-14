@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Pierre Smith  
-date: 2022-12-09 13:11:20.134434  
+date: 2022-12-14 11:35:31.439170  
 categories: player  
 ---
 # Jean-Pierre Smith
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 

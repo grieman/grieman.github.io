@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Coignat  
-date: 2022-12-09 13:17:20.872776  
+date: 2022-12-14 11:12:31.635760  
 categories: player  
 ---
 # Thomas Coignat
 
 ## Positions: N8, FL
 
-## Current elo: 94.0
+## Current elo: 99.0
 
-## Current Percentile: 53.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            43 |   0.476744 |
+| Chambery |            44 |   0.488636 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,10 +34,10 @@ categories: player
 | Massy                      |         3 |   0.5      |
 | Nice                       |         3 |   0.666667 |
 | Suresnes                   |         3 |   0.666667 |
+| Valence Romans Drome Rugby |         3 |   0.333333 |
 | Albi                       |         2 |   0        |
 | Dijon                      |         2 |   0.5      |
 | Narbonne                   |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
 | US Bressane                |         2 |   0        |
-| Valence Romans Drome Rugby |         2 |   0        |
 | Rennes                     |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Raphael Carbou  
-date: 2022-12-09 13:17:43.903902  
+date: 2022-12-14 11:20:35.297514  
 categories: player  
 ---
 # Raphael Carbou
 
 ## Positions: H
 
-## Current elo: 75.0
+## Current elo: 76.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Perpignan   |            75 |   0.44     |
-| Carcassonne |            29 |   0.517241 |
+| Carcassonne |            30 |   0.533333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -41,18 +41,18 @@ categories: player
 | Massy                      |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.333333 |
 | Clermont Auvergne          |         2 |   0        |
-| Carcassonne                |         2 |   1        |
+| Nevers                     |         2 |   1        |
 | Stade Francais Paris       |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Racing 92                  |         2 |   0        |
 | Perpignan                  |         2 |   0        |
 | Pau                        |         2 |   0        |
 | Oyonnax                    |         2 |   0.5      |
+| Carcassonne                |         2 |   1        |
 | Montpellier Herault        |         2 |   0.5      |
 | Bayonne                    |         2 |   0.5      |
 | La Rochelle                |         2 |   0        |
 | Dax                        |         2 |   1        |
-| Nevers                     |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
 | Albi                       |         1 |   1        |
 | Rouen                      |         1 |   1        |

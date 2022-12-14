@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ellis Genge  
-date: 2022-12-09 13:10:44.504700  
+date: 2022-12-12 15:26:59.616563  
 categories: player  
 ---
 # Ellis Genge

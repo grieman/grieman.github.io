@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo William  
-date: 2022-12-09 13:20:47.460110  
+date: 2022-12-14 11:32:04.557435  
 categories: player  
 ---
 # Theo William
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 55.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Lyon        |            15 |   0.666667 |
+| Lyon        |            16 |   0.625    |
 | US Bressane |             6 |   0.416667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,6 +33,7 @@ categories: player
 | Perpignan            |         2 |        0.5 |
 | Stade Francais Paris |         2 |        1   |
 | Bayonne              |         1 |        0   |
+| Bulls                |         1 |        0   |
 | Carcassonne          |         1 |        0   |
 | Clermont Auvergne    |         1 |        0   |
 | Grenoble             |         1 |        1   |

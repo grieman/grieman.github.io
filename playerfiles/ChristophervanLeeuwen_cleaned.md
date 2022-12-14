@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Christopher van Leeuwen  
-date: 2022-11-22 11:31:55.429935  
+date: 2022-12-14 11:20:58.697014  
 categories: player  
 ---
 # Christopher van Leeuwen
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 76.0
+## Current elo: 75.0
 
 ## Current Percentile: 5.0
 
@@ -23,14 +23,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Suresnes    |            34 |   0.470588 |
+| Suresnes    |            36 |   0.472222 |
 | Netherlands |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         4 |   0.25     |
 | Albi                       |         3 |   0.666667 |
-| Blagnac                    |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |
+| Chambery                   |         3 |   0.333333 |
 | Nice                       |         3 |   0.333333 |
 | Dax                        |         3 |   0.666667 |
 | Aubenas                    |         2 |   0        |
@@ -39,7 +40,6 @@ categories: player
 | Valence Romans Drome Rugby |         2 |   0        |
 | Dijon                      |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
-| Chambery                   |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Portugal                   |         1 |   0        |
 | Rennes                     |         1 |   1        |

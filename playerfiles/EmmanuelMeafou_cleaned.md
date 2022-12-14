@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Emmanuel Meafou  
-date: 2022-12-09 13:12:09.616670  
+date: 2022-12-14 11:19:47.228927  
 categories: player  
 ---
 # Emmanuel Meafou
 
 ## Positions: L
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: 23.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Stade Toulousain   |            53 |   0.660377 |
+| Stade Toulousain   |            54 |   0.666667 |
 | Melbourne Rising   |             5 |   0.2      |
 | NSW Country Eagles |             5 |   0.2      |
 
@@ -35,16 +35,17 @@ categories: player
 | Castres Olympique    |         4 |   0.125    |
 | Pau                  |         4 |   0.5      |
 | Montpellier Herault  |         4 |   0.75     |
-| Bayonne              |         3 |   0.333333 |
-| Racing 92            |         3 |   0.666667 |
-| Lyon                 |         3 |   0.333333 |
 | Agen                 |         3 |   1        |
+| Racing 92            |         3 |   0.666667 |
+| Bayonne              |         3 |   0.333333 |
+| Lyon                 |         3 |   0.333333 |
 | Fijian Drua          |         2 |   0        |
 | Clermont Auvergne    |         2 |   0.5      |
 | Perpignan            |         2 |   1        |
 | Queensland Country   |         2 |   0        |
 | Sydney Rays          |         2 |   0.5      |
 | Greater Sydney Rams  |         1 |   1        |
+| Munster              |         1 |   1        |
 | NSW Country Eagles   |         1 |   0        |
 | Cardiff Blues        |         1 |   1        |
 | Canberra Vikings     |         1 |   0        |

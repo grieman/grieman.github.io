@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Phoenix Battye  
-date: 2022-11-22 11:32:30.006594  
+date: 2022-12-14 11:14:22.726103  
 categories: player  
 ---
 # Phoenix Battye
 
 ## Positions: L
 
-## Current elo: 145.0
+## Current elo: 143.0
 
 ## Current Percentile: 99.0
 
@@ -21,20 +21,20 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Oyonnax       |            92 |   0.554348 |
+| Oyonnax       |            94 |   0.56383  |
 | Beziers       |            68 |   0.529412 |
 | Western Force |            14 |   0.285714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Aurillac                 |        10 |   0.4      |
 | Carcassonne              |         9 |   0.666667 |
-| Aurillac                 |         9 |   0.333333 |
 | Colomiers                |         9 |   0.555556 |
 | Provence Rugby           |         8 |   0.8125   |
 | Perpignan                |         8 |   0.25     |
 | Biarritz Olympique       |         8 |   0.25     |
+| Montauban                |         8 |   0.5      |
 | Agen                     |         7 |   0.857143 |
-| Montauban                |         7 |   0.428571 |
 | Vannes                   |         7 |   0.857143 |
 | Narbonne                 |         6 |   0.5      |
 | Dax                      |         6 |   0.5      |

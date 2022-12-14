@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wian Vosloo  
-date: 2022-12-09 13:13:55.421586  
+date: 2022-12-14 11:33:17.825348  
 categories: player  
 ---
 # Wian Vosloo
 
 ## Positions: FL, L
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 50.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Suresnes     |            23 |   0.434783 |
+| Suresnes     |            24 |   0.416667 |
 | Sharks       |             8 |   0.25     |
 | Blue Bulls   |             3 |   0.333333 |
 | Bulls        |             3 |   0        |
@@ -29,10 +29,10 @@ categories: player
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0        |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Nice                       |         3 |   0.333333 |
-| Blagnac                    |         2 |   0.5      |
 | Bulls                      |         2 |   0        |
 | Stormers                   |         2 |   0        |
 | Dax                        |         2 |   0        |

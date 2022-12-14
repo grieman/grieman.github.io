@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Lang  
-date: 2022-12-09 13:24:24.140534  
+date: 2022-12-14 11:24:55.444007  
 categories: player  
 ---
 # James Lang
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 82.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -24,29 +24,29 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Harlequins |            74 |   0.493243 |
-| Edinburgh  |            25 |   0.5      |
+| Edinburgh  |            26 |   0.480769 |
 | Scotland   |             5 |   0.8      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Wasps              |         8 |   0.625    |
-| Bath Rugby         |         8 |   0.625    |
 | Exeter Chiefs      |         8 |   0.25     |
+| Bath Rugby         |         8 |   0.625    |
+| Wasps              |         8 |   0.625    |
 | Northampton Saints |         6 |   0.5      |
 | Benetton Treviso   |         6 |   0.5      |
 | Worcester Warriors |         6 |   0.333333 |
+| Saracens           |         5 |   0.6      |
 | Gloucester Rugby   |         5 |   0.6      |
 | Leicester Tigers   |         5 |   0.4      |
 | Bristol Rugby      |         4 |   0.5      |
-| Saracens           |         4 |   0.75     |
 | London Irish       |         4 |   0.375    |
 | Ulster             |         4 |   0        |
 | Stormers           |         3 |   0.166667 |
 | Sale Sharks        |         3 |   0.666667 |
 | Newcastle Falcons  |         3 |   0.666667 |
-| Clermont Auvergne  |         2 |   0        |
 | Wales              |         2 |   0.5      |
 | Dragons            |         2 |   1        |
+| Clermont Auvergne  |         2 |   0        |
 | Bulls              |         2 |   0.5      |
 | Scarlets           |         2 |   1        |
 | Lions              |         2 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francois Venter  
-date: 2022-12-09 13:18:38.548830  
+date: 2022-12-14 11:22:01.363878  
 categories: player  
 ---
 # Francois Venter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 112.0
+## Current elo: 113.0
 
-## Current Percentile: 89.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Free State Cheetahs |            27 |   0.537037 |
 | Bulls               |            13 |   0.461538 |
 | South Africa        |             7 |   0.285714 |
-| Sharks              |             3 |   0.333333 |
+| Sharks              |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,8 +39,8 @@ categories: player
 | Natal Sharks             |         8 |   0.375    |
 | Western Province         |         8 |   0.5625   |
 | Wasps                    |         8 |   0.125    |
+| Harlequins               |         8 |   0.5      |
 | Bath Rugby               |         7 |   0.285714 |
-| Harlequins               |         7 |   0.428571 |
 | Sharks                   |         6 |   0.333333 |
 | Leicester Tigers         |         6 |   0.5      |
 | Bulls                    |         6 |   0.333333 |

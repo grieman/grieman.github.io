@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Vellacott  
-date: 2022-12-09 13:15:45.183996  
+date: 2022-12-14 11:15:35.682931  
 categories: player  
 ---
 # Ben Vellacott
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 100.0
+## Current elo: 102.0
 
-## Current Percentile: 75.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -24,15 +24,15 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |            51 |   0.539216 |
-| Edinburgh        |            24 |   0.520833 |
+| Edinburgh        |            25 |   0.5      |
 | Wasps            |            23 |   0.521739 |
 | Hartpury College |             4 |   0.75     |
 | Scotland         |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Saracens            |         8 |   0.5      |
 | Northampton Saints  |         7 |   0.428571 |
-| Saracens            |         7 |   0.571429 |
 | Worcester Warriors  |         6 |   0.833333 |
 | Leicester Tigers    |         6 |   0.166667 |
 | Bath Rugby          |         5 |   0.6      |

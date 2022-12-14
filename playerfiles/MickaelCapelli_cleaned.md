@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mickael Capelli  
-date: 2022-12-09 13:09:46.650992  
+date: 2022-12-14 11:12:01.373093  
 categories: player  
 ---
 # Mickael Capelli
 
 ## Positions: L
 
-## Current elo: 119.0
+## Current elo: 118.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Grenoble            |            56 |   0.428571 |
 | Montpellier Herault |            17 |   0.735294 |
-| Pau                 |             6 |   0.333333 |
+| Pau                 |             7 |   0.285714 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -48,17 +48,18 @@ categories: player
 | Montauban            |         2 |   0        |
 | Mont-de-Marsan       |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
-| Narbonne             |         1 |   1        |
-| Nevers               |         1 |   1        |
 | Aurillac             |         1 |   1        |
+| Cheetahs             |         1 |   0        |
+| Benetton Treviso     |         1 |   0        |
+| Biarritz Olympique   |         1 |   1        |
+| Carcassonne          |         1 |   1        |
+| Roval Drome XV       |         1 |   1        |
+| Rouen                |         1 |   1        |
+| Provence Rugby       |         1 |   1        |
+| Narbonne             |         1 |   1        |
+| Colomiers            |         1 |   0        |
+| Dax                  |         1 |   1        |
 | Oyonnax              |         1 |   1        |
 | Harlequins           |         1 |   0        |
-| Dax                  |         1 |   1        |
-| Provence Rugby       |         1 |   1        |
-| Colomiers            |         1 |   0        |
-| Rouen                |         1 |   1        |
-| Roval Drome XV       |         1 |   1        |
-| Carcassonne          |         1 |   1        |
-| Biarritz Olympique   |         1 |   1        |
-| Benetton Treviso     |         1 |   0        |
+| Nevers               |         1 |   1        |
 | Vannes               |         1 |   0        |

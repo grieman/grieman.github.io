@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Irakli Aptsiauri  
-date: 2022-12-09 13:20:00.809177  
+date: 2022-12-14 11:30:05.435717  
 categories: player  
 ---
 # Irakli Aptsiauri
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 49.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |             5 |        0.5 |
+| Grenoble |             6 |   0.416667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Colomiers          |         2 |        0   |
 | Biarritz Olympique |         1 |        0.5 |
 | Carcassonne        |         1 |        1   |
+| Mont-de-Marsan     |         1 |        0   |
 | Soyaux-Angouleme   |         1 |        1   |

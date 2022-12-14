@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Christopher Kaiser  
-date: 2022-11-22 11:40:58.179900  
+date: 2022-12-14 11:12:06.583843  
 categories: player  
 ---
 # Christopher Kaiser

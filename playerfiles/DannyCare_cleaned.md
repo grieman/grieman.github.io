@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Danny Care  
-date: 2022-12-09 13:14:22.221520  
+date: 2022-12-14 11:34:45.854252  
 categories: player  
 ---
 # Danny Care
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 135.0
+## Current elo: 133.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |           322 |   0.596273 |
+| Harlequins |           323 |   0.594427 |
 | England    |            73 |   0.671233 |
 | Leeds      |             2 |   0        |
 
@@ -73,6 +73,7 @@ categories: player
 | Edinburgh            |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
 | Samoa                |         1 |   1        |
+| Sharks               |         1 |   0        |
 | Pacific Islands      |         1 |   1        |
 | Japan                |         1 |   1        |
 | Toulon               |         1 |   0        |

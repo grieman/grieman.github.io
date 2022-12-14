@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joey Carbery  
-date: 2022-12-09 13:06:43.881921  
+date: 2022-12-14 11:35:05.722326  
 categories: player  
 ---
 # Joey Carbery
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 40.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leinster |            38 |   0.736842 |
+| Munster  |            37 |   0.608108 |
 | Ireland  |            36 |   0.833333 |
-| Munster  |            36 |   0.625    |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -58,11 +58,12 @@ categories: player
 | Fiji                     |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.75     |
 | Gloucester Rugby         |         2 |   1        |
-| Southern Kings           |         1 |   1        |
+| Stade Toulousain         |         1 |   0        |
 | Bulls                    |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Sharks                   |         1 |   1        |
+| Southern Kings           |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Saracens                 |         1 |   1        |
 | Samoa                    |         1 |   1        |

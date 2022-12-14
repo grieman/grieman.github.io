@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Berjon  
-date: 2022-12-09 13:17:02.005869  
+date: 2022-12-14 11:35:16.891180  
 categories: player  
 ---
 # Thomas Berjon
 
 ## Positions: SH
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 33.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            63 |   0.603175 |
+| La Rochelle |            64 |   0.609375 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,6 +42,7 @@ categories: player
 | Sale Sharks          |         2 |   1        |
 | Exeter Chiefs        |         1 |   0        |
 | Glasgow Warriors     |         1 |   1        |
+| Northampton Saints   |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |
 | Biarritz Olympique   |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jerome Rey  
-date: 2022-12-09 13:19:39.505208  
+date: 2022-12-14 11:20:10.383948  
 categories: player  
 ---
 # Jerome Rey
 
 ## Positions: P
 
-## Current elo: 58.0
+## Current elo: 59.0
 
 ## Current Percentile: 0.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Lyon             |            30 |   0.533333 |
+| Lyon             |            31 |   0.516129 |
 | Grenoble         |            27 |   0.481481 |
 | Bourgoin-Jallieu |             1 |   0        |
 
@@ -34,15 +34,15 @@ categories: player
 | Castres Olympique    |         3 |   0.666667 |
 | Pau                  |         3 |   0.666667 |
 | Oyonnax              |         3 |   0.666667 |
-| Nevers               |         2 |   0.5      |
+| Montpellier Herault  |         2 |   0.5      |
 | Toulon               |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   0.5      |
 | Rouen                |         2 |   1        |
 | Racing 92            |         2 |   0.5      |
 | Provence Rugby       |         2 |   0.5      |
 | Perpignan            |         2 |   0        |
+| Nevers               |         2 |   0.5      |
 | Vannes               |         2 |   0        |
-| Montpellier Herault  |         2 |   0.5      |
 | Mont-de-Marsan       |         2 |   1        |
 | La Rochelle          |         2 |   0        |
 | Clermont Auvergne    |         2 |   0.5      |
@@ -51,6 +51,7 @@ categories: player
 | Aurillac             |         1 |   1        |
 | Colomiers            |         1 |   0        |
 | Carcassonne          |         1 |   1        |
+| Bulls                |         1 |   0        |
 | Beziers              |         1 |   1        |
 | Bayonne              |         1 |   0        |
 | Agen                 |         1 |   0        |

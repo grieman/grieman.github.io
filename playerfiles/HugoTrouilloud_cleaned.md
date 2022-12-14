@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Trouilloud  
-date: 2022-12-09 13:06:24.874805  
+date: 2022-12-12 15:24:06.272366  
 categories: player  
 ---
 # Hugo Trouilloud
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 26.0
+## Current Percentile: 27.0
 
 # Elo History
 

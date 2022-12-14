@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Max Auriac  
-date: 2022-12-09 13:21:57.813876  
+date: 2022-12-14 11:22:35.434722  
 categories: player  
 ---
 # Max Auriac
 
 ## Positions: FB, W
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 22.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |             9 |   0.555556 |
+| Colomiers |            10 |        0.6 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Beziers        |         1 |          1 |
 | Carcassonne    |         1 |          1 |
 | Grenoble       |         1 |          1 |
+| Massy          |         1 |          1 |
 | Montauban      |         1 |          0 |
 | Provence Rugby |         1 |          1 |
 | Rouen          |         1 |          0 |

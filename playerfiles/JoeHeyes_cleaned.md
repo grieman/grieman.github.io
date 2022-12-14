@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Heyes  
-date: 2022-12-09 13:21:51.502968  
+date: 2022-12-14 11:21:00.290486  
 categories: player  
 ---
 # Joe Heyes
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            91 |   0.565934 |
+| Leicester Tigers |            92 |   0.570652 |
 | England          |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,15 +42,16 @@ categories: player
 | Newcastle Falcons        |         5 |   1        |
 | Australia                |         3 |   0.666667 |
 | Cardiff Blues            |         2 |   1        |
-| Scarlets                 |         2 |   0.5      |
 | Calvisano                |         2 |   1        |
-| Connacht                 |         2 |   1        |
 | Ulster                   |         2 |   0        |
+| Connacht                 |         2 |   1        |
+| Scarlets                 |         2 |   0.5      |
+| Bordeaux Begles          |         1 |   1        |
 | Bayonne                  |         1 |   1        |
 | United States of America |         1 |   1        |
-| Brive                    |         1 |   1        |
-| Bordeaux Begles          |         1 |   1        |
+| Ospreys                  |         1 |   1        |
 | Pau                      |         1 |   0        |
+| Brive                    |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Argentina                |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francisco Gomez Kodela  
-date: 2022-12-09 13:06:04.030278  
+date: 2022-12-14 11:22:05.499765  
 categories: player  
 ---
 # Francisco Gomez Kodela
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 112.0
+## Current elo: 113.0
 
 ## Current Percentile: 93.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Lyon               |           128 |   0.550781 |
+| Lyon               |           129 |   0.546512 |
 | Biarritz Olympique |            62 |   0.459677 |
 | Bordeaux Begles    |            48 |   0.541667 |
 | Argentina          |            20 |   0.5      |
@@ -49,42 +49,43 @@ categories: player
 | Lyon                 |         6 |   0.75     |
 | Australia            |         5 |   0.5      |
 | Perpignan            |         4 |   0.5      |
-| Leinster             |         3 |   0        |
 | Saracens             |         3 |   0.333333 |
+| Leinster             |         3 |   0        |
+| Scotland             |         3 |   0.666667 |
 | Ospreys              |         3 |   0.666667 |
 | Wales                |         3 |   0.5      |
-| Scotland             |         3 |   0.666667 |
-| Connacht             |         2 |   0.5      |
+| Olivos               |         2 |   1        |
+| Newman               |         2 |   1        |
 | Pucara               |         2 |   0.5      |
+| London Welsh         |         2 |   1        |
+| Alumni               |         2 |   0        |
+| Connacht             |         2 |   0.5      |
+| South Africa         |         2 |   0        |
 | Italy                |         2 |   1        |
 | Sale Sharks          |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
-| South Africa         |         2 |   0        |
-| Alumni               |         2 |   0        |
-| London Welsh         |         2 |   1        |
-| Exeter Chiefs        |         2 |   0.5      |
 | France               |         2 |   0        |
-| Olivos               |         2 |   1        |
-| Newman               |         2 |   1        |
-| San Luis             |         1 |   1        |
+| Exeter Chiefs        |         2 |   0.5      |
+| SIC                  |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
 | San Albano           |         1 |   1        |
+| San Luis             |         1 |   1        |
 | Wasps                |         1 |   1        |
-| SIC                  |         1 |   1        |
 | Lomas                |         1 |   1        |
 | Northampton Saints   |         1 |   0        |
-| New Zealand          |         1 |   1        |
-| Manuel Belgrano      |         1 |   1        |
-| La Plata             |         1 |   1        |
-| Ireland              |         1 |   0        |
-| Hindu                |         1 |   0        |
-| Harlequins           |         1 |   0        |
-| Gloucester Rugby     |         1 |   1        |
-| England              |         1 |   1        |
 | Edinburgh            |         1 |   0        |
-| Champagnat           |         1 |   1        |
-| Cardiff Blues        |         1 |   0        |
-| CASI                 |         1 |   0        |
-| Benetton Treviso     |         1 |   1        |
 | Atlético del Rosario |         1 |   0.5      |
+| Benetton Treviso     |         1 |   1        |
+| Bulls                |         1 |   0        |
+| CASI                 |         1 |   0        |
+| Cardiff Blues        |         1 |   0        |
+| Champagnat           |         1 |   1        |
+| England              |         1 |   1        |
+| New Zealand          |         1 |   1        |
+| Gloucester Rugby     |         1 |   1        |
+| Harlequins           |         1 |   0        |
+| Hindu                |         1 |   0        |
+| Ireland              |         1 |   0        |
+| La Plata             |         1 |   1        |
+| Manuel Belgrano      |         1 |   1        |
 | Zebre                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffan Thomas  
-date: 2022-12-09 13:24:02.799626  
+date: 2022-12-14 11:34:55.548091  
 categories: player  
 ---
 # Steffan Thomas
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            26 |   0.326923 |
+| Scarlets |            27 |   0.351852 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Benetton Treviso |         2 |   0.5      |
 | Stormers         |         2 |   0        |
 | Ulster           |         2 |   0        |
+| Bayonne          |         1 |   1        |
 | Exeter Chiefs    |         1 |   0        |
 | Glasgow Warriors |         1 |   1        |
 | Leinster         |         1 |   0        |

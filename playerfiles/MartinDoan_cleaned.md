@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Martin Doan  
-date: 2022-12-09 13:20:25.292336  
+date: 2022-12-14 11:21:26.979872  
 categories: player  
 ---
 # Martin Doan
@@ -21,8 +21,8 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
+| Mont-de-Marsan      |            12 |   0.583333 |
 | Albi                |            11 |   0.818182 |
-| Mont-de-Marsan      |            11 |   0.545455 |
 | Montpellier Herault |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -41,8 +41,9 @@ categories: player
 | Nice                       |         1 |        1   |
 | Nevers                     |         1 |        1   |
 | Montauban                  |         1 |        0   |
-| Lyon                       |         1 |        0   |
 | La Rochelle                |         1 |        1   |
+| Lyon                       |         1 |        0   |
+| Grenoble                   |         1 |        1   |
 | Dijon                      |         1 |        1   |
 | Colomiers                  |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |

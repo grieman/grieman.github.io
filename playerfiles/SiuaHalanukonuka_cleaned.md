@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siua Halanukonuka  
-date: 2022-12-09 13:12:33.026500  
+date: 2022-12-12 15:14:47.844218  
 categories: player  
 ---
 # Siua Halanukonuka
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

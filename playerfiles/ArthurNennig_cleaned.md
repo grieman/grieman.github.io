@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Nennig  
-date: 2022-12-09 13:19:45.805156  
+date: 2022-12-14 11:17:20.568713  
 categories: player  
 ---
 # Arthur Nennig
 
 ## Positions: W
 
-## Current elo: 90.0
+## Current elo: 95.0
 
-## Current Percentile: 25.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            20 |       0.35 |
+| Chambery |            21 |   0.380952 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.666667 |
+| Valence Romans Drome Rugby |         3 |   0.333333 |
 | Albi                       |         2 |   0        |
 | Tarbes                     |         2 |   0.5      |
-| Valence Romans Drome Rugby |         2 |   0        |
 | Aubenas                    |         1 |   0        |
 | Blagnac                    |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   0        |

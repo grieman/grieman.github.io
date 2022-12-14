@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul Pimienta  
-date: 2022-12-09 13:08:21.602908  
+date: 2022-12-14 11:16:30.074944  
 categories: player  
 ---
 # Paul Pimienta
 
 ## Positions: C, W
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 82.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            56 |   0.660714 |
+| Colomiers |            57 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,11 +35,11 @@ categories: player
 | Mont-de-Marsan             |         4 |   0.75     |
 | Montauban                  |         3 |   0.333333 |
 | Vannes                     |         3 |   1        |
+| Massy                      |         3 |   0.666667 |
 | Beziers                    |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.333333 |
 | Nevers                     |         2 |   1        |
 | Oyonnax                    |         2 |   0.5      |
-| Massy                      |         2 |   0.5      |
 | Roval Drome XV             |         1 |   1        |
 | US Bressane                |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |

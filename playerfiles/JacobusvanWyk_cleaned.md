@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jacobus van Wyk  
-date: 2022-12-09 13:13:56.921586  
+date: 2022-12-14 11:31:16.381197  
 categories: player  
 ---
 # Jacobus van Wyk
 
 ## Positions: W
 
-## Current elo: 114.0
+## Current elo: 113.0
 
 ## Current Percentile: None
 
@@ -27,8 +27,8 @@ categories: player
 | Leicester Tigers |            15 |   0.533333 |
 | Natal Sharks     |            15 |   0.8      |
 | Hurricanes       |             8 |   0.75     |
+| Zebre            |             2 |   0        |
 | Bordeaux Begles  |             1 |   0        |
-| Zebre            |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,17 +41,17 @@ categories: player
 | Pumas                    |         5 |   0.8      |
 | Cheetahs                 |         4 |   0.75     |
 | Western Force            |         4 |   1        |
-| Jaguares                 |         4 |   0.75     |
+| Hurricanes               |         4 |   0.25     |
 | Griquas                  |         4 |   0.75     |
 | Brumbies                 |         4 |   0.5      |
 | Sunwolves                |         4 |   0.875    |
-| Hurricanes               |         4 |   0.25     |
+| Jaguares                 |         4 |   0.75     |
 | Bulls                    |         3 |   0        |
 | Southern Kings           |         3 |   0.666667 |
 | Eastern Province Kings   |         3 |   1        |
 | Highlanders              |         3 |   0.666667 |
-| Western Province         |         3 |   0.666667 |
 | Crusaders                |         3 |   0        |
+| Western Province         |         3 |   0.666667 |
 | Blues                    |         3 |   0.666667 |
 | Queensland Reds          |         3 |   0.333333 |
 | Stormers                 |         2 |   0.5      |
@@ -67,6 +67,7 @@ categories: player
 | Sharks                   |         1 |   0        |
 | Glasgow Warriors         |         1 |   0        |
 | Exeter Chiefs            |         1 |   0        |
+| Toulon                   |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Bristol Rugby            |         1 |   0        |

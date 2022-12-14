@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ryan Conbeer  
-date: 2022-12-09 13:17:12.954375  
+date: 2022-12-14 11:27:10.321937  
 categories: player  
 ---
 # Ryan Conbeer
 
 ## Positions: W
 
-## Current elo: 88.0
+## Current elo: 93.0
 
-## Current Percentile: 30.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            41 |   0.439024 |
+| Scarlets |            42 |   0.452381 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -34,12 +34,12 @@ categories: player
 | Cardiff Blues    |         3 |   0.666667 |
 | Ospreys          |         3 |   0.5      |
 | Stormers         |         2 |   0        |
-| Lions            |         1 |   0        |
-| Southern Kings   |         1 |   1        |
+| Bayonne          |         2 |   1        |
 | Munster          |         1 |   0        |
+| Southern Kings   |         1 |   1        |
 | Bath Rugby       |         1 |   1        |
+| Lions            |         1 |   0        |
 | Harlequins       |         1 |   0        |
-| Bayonne          |         1 |   1        |
 | Cheetahs         |         1 |   1        |
 | Bulls            |         1 |   0        |
 | Bristol Rugby    |         1 |   0        |

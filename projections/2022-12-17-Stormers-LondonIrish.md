@@ -4,10 +4,10 @@ title: London Irish at Stormers
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# London Irish (~1588.61) at Stormers (~1568.68)
+# London Irish (~1567.67) at Stormers (~1568.59)
 
-# Prediction: Stormers by 1.0
+# Prediction: Stormers by 3.1
 
 
-London Irish by 2.0 on a neutral pitch
+Stormers by 0.1 on a neutral pitch
 

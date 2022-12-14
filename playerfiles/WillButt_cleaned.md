@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Butt  
-date: 2022-12-09 13:07:49.206976  
+date: 2022-12-12 15:32:29.262931  
 categories: player  
 ---
 # Will Butt
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 

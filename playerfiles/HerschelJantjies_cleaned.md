@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Herschel Jantjies  
-date: 2022-12-09 13:20:15.161461  
+date: 2022-12-14 11:16:15.444069  
 categories: player  
 ---
 # Herschel Jantjies
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,10 +23,10 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            40 |     0.725  |
-| South Africa     |            24 |     0.6875 |
-| Western Province |             5 |     0.8    |
-| Scarlets         |             1 |     0      |
+| Stormers         |            41 |   0.707317 |
+| South Africa     |            24 |   0.6875   |
+| Western Province |             5 |   0.8      |
+| Scarlets         |             1 |   0        |
 
 | Opponent                |   Matches |   Win Rate |
 |:------------------------|----------:|-----------:|
@@ -39,14 +39,15 @@ categories: player
 | Jaguares                |         3 |   0.666667 |
 | Australia               |         3 |   0.333333 |
 | Griquas                 |         2 |   1        |
-| England                 |         2 |   0.5      |
+| Edinburgh               |         2 |   1        |
 | Ulster                  |         2 |   1        |
 | Japan                   |         2 |   1        |
 | Hurricanes              |         2 |   0.5      |
+| England                 |         2 |   0.5      |
 | Zebre                   |         2 |   1        |
-| Edinburgh               |         2 |   1        |
 | Blue Bulls              |         2 |   0.5      |
 | Blues                   |         2 |   0        |
+| Dragons                 |         1 |   1        |
 | Namibia                 |         1 |   1        |
 | Sunwolves               |         1 |   1        |
 | Brumbies                |         1 |   0        |
@@ -59,11 +60,11 @@ categories: player
 | Free State Cheetahs     |         1 |   1        |
 | Cardiff Blues           |         1 |   1        |
 | Cheetahs                |         1 |   0        |
-| Connacht                |         1 |   0        |
+| Clermont Auvergne       |         1 |   0        |
 | Italy                   |         1 |   1        |
-| Crusaders               |         1 |   0.5      |
+| Connacht                |         1 |   0        |
 | Highlanders             |         1 |   1        |
-| Dragons                 |         1 |   1        |
+| Crusaders               |         1 |   0.5      |
 | Glasgow Warriors        |         1 |   1        |
 | Georgia                 |         1 |   1        |
 | Argentina               |         1 |   1        |

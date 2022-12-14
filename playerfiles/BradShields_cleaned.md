@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brad Shields  
-date: 2022-12-09 13:10:10.978048  
+date: 2022-12-14 11:30:36.714844  
 categories: player  
 ---
 # Brad Shields
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Wasps      |            75 |   0.466667 |
 | Wellington |            47 |   0.595745 |
 | England    |             8 |   0.4375   |
-| Perpignan  |             2 |   0.5      |
+| Perpignan  |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,18 +39,18 @@ categories: player
 | Gloucester Rugby         |         7 |   0.285714 |
 | North Harbour            |         7 |   0.857143 |
 | Leicester Tigers         |         6 |   0.333333 |
-| Exeter Chiefs            |         6 |   0.5      |
+| Northampton Saints       |         6 |   0.5      |
 | London Irish             |         6 |   0.583333 |
 | Northland                |         6 |   0.833333 |
 | Brumbies                 |         6 |   0.5      |
+| Bristol Rugby            |         6 |   0.666667 |
 | Harlequins               |         6 |   0.333333 |
-| Northampton Saints       |         6 |   0.5      |
 | Lions                    |         6 |   0.833333 |
+| Exeter Chiefs            |         6 |   0.5      |
 | Melbourne Rebels         |         5 |   1        |
 | Worcester Warriors       |         5 |   0.8      |
 | Sale Sharks              |         5 |   0        |
 | New South Wales Waratahs |         5 |   0.8      |
-| Bristol Rugby            |         5 |   0.8      |
 | Queensland Reds          |         5 |   0.8      |
 | Bulls                    |         5 |   0.6      |
 | Taranaki                 |         5 |   0.8      |

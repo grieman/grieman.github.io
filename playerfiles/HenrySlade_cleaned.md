@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Slade  
-date: 2022-11-22 11:45:16.951398  
+date: 2022-12-14 11:33:14.686229  
 categories: player  
 ---
 # Henry Slade
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 117.0
+## Current elo: 118.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           193 |   0.642487 |
-| England       |            48 |   0.75     |
+| Exeter Chiefs |           194 |   0.64433  |
+| England       |            49 |   0.734694 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,25 +40,25 @@ categories: player
 | London Irish             |        10 |   0.8      |
 | Bristol Rugby            |        10 |   0.7      |
 | Worcester Warriors       |         9 |   1        |
+| South Africa             |         7 |   0.428571 |
 | Argentina                |         6 |   0.833333 |
-| South Africa             |         6 |   0.5      |
 | Australia                |         5 |   1        |
 | Glasgow Warriors         |         5 |   0.4      |
 | Italy                    |         5 |   1        |
 | Wales                    |         4 |   0.5      |
 | France                   |         4 |   0.75     |
+| Bordeaux Begles          |         3 |   0.666667 |
 | London Welsh             |         3 |   1        |
 | Scotland                 |         3 |   0.166667 |
 | New Zealand              |         3 |   0.5      |
-| Bordeaux Begles          |         3 |   0.666667 |
+| Castres Olympique        |         3 |   0.666667 |
 | Ireland                  |         3 |   0.666667 |
 | La Rochelle              |         2 |   1        |
-| Ospreys                  |         2 |   0.5      |
 | Toulon                   |         2 |   0        |
 | Tonga                    |         2 |   1        |
 | Connacht                 |         2 |   1        |
 | Cardiff Blues            |         2 |   1        |
-| Castres Olympique        |         2 |   0.5      |
+| Ospreys                  |         2 |   0.5      |
 | Munster                  |         2 |   0.25     |
 | Montpellier Herault      |         2 |   1        |
 | Japan                    |         2 |   1        |

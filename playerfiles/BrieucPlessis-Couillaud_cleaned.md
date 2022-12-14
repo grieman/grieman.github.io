@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brieuc Plessis-Couillaud  
-date: 2022-12-09 13:09:51.833664  
+date: 2022-12-12 15:27:02.407064  
 categories: player  
 ---
 # Brieuc Plessis-Couillaud

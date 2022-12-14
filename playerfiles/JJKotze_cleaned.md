@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: JJ Kotze  
-date: 2022-12-09 13:23:19.785276  
+date: 2022-12-12 14:56:40.609284  
 categories: player  
 ---
 # JJ Kotze
 
 ## Positions: H
 
-## Current elo: 92.0
+## Current elo: 91.0
 
 ## Current Percentile: 44.0
 

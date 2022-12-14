@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Raphael Lakafia  
-date: 2022-12-09 13:09:26.455499  
+date: 2022-12-14 11:26:37.481275  
 categories: player  
 ---
 # Raphael Lakafia
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 111.0
 
 ## Current Percentile: 88.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Toulon               |           116 |   0.538793 |
+| Toulon               |           117 |   0.542735 |
 | Biarritz Olympique   |            82 |   0.518293 |
 | Stade Francais Paris |            68 |   0.580882 |
 | Grenoble             |            15 |   0.633333 |
@@ -52,17 +52,17 @@ categories: player
 | Benetton Treviso     |         3 |   1        |
 | Scarlets             |         3 |   0.666667 |
 | Harlequins           |         3 |   0.333333 |
+| Zebre                |         3 |   1        |
 | Leicester Tigers     |         3 |   0.666667 |
-| Gloucester Rugby     |         2 |   1        |
 | Mont-de-Marsan       |         2 |   1        |
 | Colomiers            |         2 |   0.5      |
 | Ospreys              |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   1        |
 | Edinburgh            |         2 |   0        |
-| Connacht             |         2 |   0.5      |
+| Gloucester Rugby     |         2 |   1        |
 | Timisoara Saracens   |         2 |   1        |
-| Zebre                |         2 |   1        |
+| Connacht             |         2 |   0.5      |
 | Argentina            |         1 |   0        |
 | Auch                 |         1 |   0        |
 | US Bressane          |         1 |   0.5      |

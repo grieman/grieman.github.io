@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Darrell Dyer  
-date: 2022-12-09 13:12:18.605435  
+date: 2022-12-12 15:19:26.723747  
 categories: player  
 ---
 # Darrell Dyer
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 58.0
+## Current Percentile: 59.0
 
 # Elo History
 

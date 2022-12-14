@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémi Brosset  
-date: 2022-12-09 13:07:14.299656  
+date: 2022-12-14 11:17:23.459978  
 categories: player  
 ---
 # Rémi Brosset
 
 ## Positions: FB
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 43.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |             9 |      0.5   |
-| Soyaux-Angouleme   |             8 |      0.375 |
+| Biarritz Olympique |             9 |   0.5      |
+| Soyaux-Angouleme   |             9 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,5 +33,6 @@ categories: player
 | Mont-de-Marsan             |         2 |   0.25     |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Agen                       |         1 |   1        |
+| Biarritz Olympique         |         1 |   0        |
 | Carcassonne                |         1 |   1        |
 | Colomiers                  |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Castant  
-date: 2022-12-09 13:15:17.785040  
+date: 2022-12-14 11:33:19.036649  
 categories: player  
 ---
 # Arthur Castant
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 90.0
 
-## Current Percentile: 12.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            28 |      0.625 |
+| Albi   |            29 |   0.637931 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Chambery                   |         4 |       1    |
+| Cognac Saint Jean d'Angély |         3 |       1    |
 | Tarbes                     |         3 |       0    |
-| Cognac Saint Jean d'Angély |         2 |       1    |
 | Dax                        |         2 |       1    |
 | Massy                      |         2 |       0.5  |
 | Nice                       |         2 |       0.25 |

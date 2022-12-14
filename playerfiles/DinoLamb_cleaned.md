@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dino Lamb  
-date: 2022-12-09 13:12:40.993734  
+date: 2022-12-14 11:21:24.985132  
 categories: player  
 ---
 # Dino Lamb
 
 ## Positions: L
 
-## Current elo: 105.0
+## Current elo: 102.0
 
-## Current Percentile: 72.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            62 |   0.564516 |
+| Harlequins |            63 |   0.555556 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -43,3 +43,4 @@ categories: player
 | La Rochelle        |         1 |   0        |
 | Cardiff Blues      |         1 |   1        |
 | Scarlets           |         1 |   1        |
+| Sharks             |         1 |   0        |

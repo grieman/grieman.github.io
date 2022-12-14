@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mohammed Loukia  
-date: 2022-11-22 11:41:44.453263  
+date: 2022-12-14 11:12:03.963703  
 categories: player  
 ---
 # Mohammed Loukia
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: None
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            34 |   0.529412 |
+| Provence Rugby |            36 |   0.527778 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Mont-de-Marsan             |         5 |   0.4      |
 | Beziers                    |         4 |   0.5      |
 | Aurillac                   |         3 |   0.333333 |
+| Biarritz Olympique         |         3 |   0.166667 |
 | Carcassonne                |         3 |   0.666667 |
 | Nevers                     |         3 |   0.333333 |
+| Rouen                      |         3 |   0.833333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
-| Biarritz Olympique         |         2 |   0.25     |
 | Montauban                  |         2 |   1        |
-| Rouen                      |         2 |   0.75     |
 | Roval Drome XV             |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
 | Oyonnax                    |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Evan Olmstead  
-date: 2022-12-09 13:10:06.934425  
+date: 2022-12-14 11:28:20.587823  
 categories: player  
 ---
 # Evan Olmstead
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 86.0
+## Current elo: 87.0
 
 ## Current Percentile: 21.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Loic Godener  
-date: 2022-12-09 13:22:57.610091  
+date: 2022-12-12 15:26:36.438952  
 categories: player  
 ---
 # Loic Godener
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 26.0
+## Current Percentile: 25.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Tilsley  
-date: 2022-12-09 13:15:19.990744  
+date: 2022-12-12 15:09:26.741042  
 categories: player  
 ---
 # George Tilsley
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 

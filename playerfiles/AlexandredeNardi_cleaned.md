@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alexandre de Nardi  
-date: 2022-12-09 13:04:27.918900  
+date: 2022-12-14 11:34:13.423012  
 categories: player  
 ---
 # Alexandre de Nardi
 
 ## Positions: FB, W
 
-## Current elo: 85.0
+## Current elo: 88.0
 
 ## Current Percentile: 9.0
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            48 |   0.552083 |
+| Mont-de-Marsan |            49 |   0.561224 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Montauban          |         5 |   0.2      |
+| Grenoble           |         5 |   0.4      |
 | Provence Rugby     |         5 |   0.4      |
-| Grenoble           |         4 |   0.25     |
 | Nevers             |         4 |   0.5      |
 | Soyaux-Angouleme   |         3 |   0.666667 |
 | Oyonnax            |         3 |   0.666667 |

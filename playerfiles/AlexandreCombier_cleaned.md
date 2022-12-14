@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Combier  
-date: 2022-12-09 13:18:40.325331  
+date: 2022-12-14 11:25:00.205048  
 categories: player  
 ---
 # Alexandre Combier
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            14 |   0.214286 |
+| Tarbes |            15 |        0.2 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,4 +36,5 @@ categories: player
 | Massy                      |         1 |          0 |
 | Rennes                     |         1 |          1 |
 | Suresnes                   |         1 |          0 |
+| US Bressane                |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

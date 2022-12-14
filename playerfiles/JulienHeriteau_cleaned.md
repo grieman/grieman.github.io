@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Heriteau  
-date: 2022-12-09 13:05:20.945522  
+date: 2022-12-12 15:01:17.252108  
 categories: player  
 ---
 # Julien Heriteau
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 39.0
+## Current Percentile: 38.0
 
 # Elo History
 

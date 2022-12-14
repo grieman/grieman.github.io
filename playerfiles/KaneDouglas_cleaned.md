@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kane Douglas  
-date: 2022-11-16 11:42:40.167745  
+date: 2022-12-14 11:21:06.428475  
 categories: player  
 ---
 # Kane Douglas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 52.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -23,11 +23,13 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Bordeaux Begles          |           101 |   0.608911 |
+| Bordeaux Begles          |           103 |   0.597087 |
 | New South Wales Waratahs |            76 |   0.539474 |
 | Queensland Reds          |            29 |   0.275862 |
 | Australia                |            27 |   0.555556 |
 | Leinster                 |            20 |   0.675    |
+| Brisbane City            |             6 |   0.666667 |
+| NSW Country Eagles       |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,56 +41,63 @@ categories: player
 | Montpellier Herault      |         9 |   0.555556 |
 | Racing 92                |         9 |   0.666667 |
 | Castres Olympique        |         8 |   0.8125   |
-| Toulon                   |         7 |   0.571429 |
-| Stade Toulousain         |         7 |   0.285714 |
 | Lyon                     |         7 |   0.714286 |
 | Blues                    |         7 |   0.285714 |
+| Perpignan                |         7 |   0.642857 |
 | Pau                      |         7 |   0.428571 |
-| Bulls                    |         6 |   0.333333 |
-| Chiefs                   |         6 |   0.5      |
-| Stormers                 |         6 |   0.333333 |
+| Toulon                   |         7 |   0.571429 |
+| Stade Toulousain         |         7 |   0.285714 |
 | Crusaders                |         6 |   0.166667 |
-| Perpignan                |         6 |   0.75     |
 | Stade Francais Paris     |         6 |   0.833333 |
+| Chiefs                   |         6 |   0.5      |
 | Hurricanes               |         6 |   0.333333 |
-| Lions                    |         5 |   0.8      |
-| Argentina                |         5 |   1        |
+| Bulls                    |         6 |   0.333333 |
+| Stormers                 |         6 |   0.333333 |
 | La Rochelle              |         5 |   0.4      |
 | Highlanders              |         5 |   0.2      |
+| Argentina                |         5 |   1        |
+| Lions                    |         5 |   0.8      |
 | Agen                     |         5 |   0.8      |
 | Sharks                   |         4 |   0.75     |
 | South Africa             |         4 |   0.25     |
 | Edinburgh                |         4 |   0.875    |
-| New Zealand              |         4 |   0        |
 | Cheetahs                 |         4 |   0.25     |
+| New Zealand              |         4 |   0        |
 | Brive                    |         4 |   0.5      |
 | British and Irish Lions  |         3 |   0.333333 |
 | Bayonne                  |         3 |   0.666667 |
 | Southern Kings           |         2 |   1        |
+| Ospreys                  |         2 |   0.75     |
+| New South Wales Waratahs |         2 |   0        |
 | Wales                    |         2 |   1        |
 | Wasps                    |         2 |   0.75     |
-| Ospreys                  |         2 |   0.75     |
-| Zebre                    |         2 |   1        |
-| New South Wales Waratahs |         2 |   0        |
-| Grenoble                 |         2 |   0.5      |
-| Biarritz Olympique       |         2 |   0.5      |
-| Cardiff Blues            |         2 |   1        |
 | Munster                  |         2 |   0        |
-| France                   |         2 |   0.5      |
+| Zebre                    |         2 |   1        |
 | England                  |         2 |   0.5      |
+| Cardiff Blues            |         2 |   1        |
 | Harlequins               |         2 |   0.5      |
+| Grenoble                 |         2 |   0.5      |
+| Greater Sydney Rams      |         2 |   0.5      |
+| Biarritz Olympique       |         2 |   0.5      |
+| France                   |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
+| Benetton Treviso         |         1 |   0.5      |
+| Bristol Rugby            |         1 |   0        |
+| Uruguay                  |         1 |   1        |
+| United States of America |         1 |   1        |
+| Ulster                   |         1 |   1        |
+| Canberra Vikings         |         1 |   1        |
+| Sydney Rays              |         1 |   1        |
+| Sunwolves                |         1 |   0        |
+| Melbourne Rising         |         1 |   1        |
+| Connacht                 |         1 |   1        |
+| Dragons                  |         1 |   0        |
+| Fiji                     |         1 |   1        |
+| Fijian Drua              |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Scarlets                 |         1 |   0        |
 | Sale Sharks              |         1 |   1        |
-| Fiji                     |         1 |   1        |
-| Dragons                  |         1 |   0        |
-| Connacht                 |         1 |   1        |
-| Sunwolves                |         1 |   0        |
+| Gloucester Rugby         |         1 |   0        |
+| Perth Spirit             |         1 |   0        |
 | Ireland                  |         1 |   0        |
-| Ulster                   |         1 |   1        |
-| United States of America |         1 |   1        |
-| Uruguay                  |         1 |   1        |
-| Bristol Rugby            |         1 |   0        |
-| Benetton Treviso         |         1 |   0.5      |
 | Leicester Tigers         |         1 |   0        |

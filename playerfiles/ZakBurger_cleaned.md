@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zak Burger  
-date: 2022-12-09 13:19:40.304232  
+date: 2022-12-12 15:00:11.033488  
 categories: player  
 ---
 # Zak Burger
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 

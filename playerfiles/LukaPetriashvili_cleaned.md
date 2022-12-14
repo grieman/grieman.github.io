@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Luka Petriashvili  
-date: 2022-12-09 13:23:48.025767  
+date: 2022-12-14 11:34:53.314709  
 categories: player  
 ---
 # Luka Petriashvili
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 
@@ -17,11 +17,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |             5 |        0.4 |
+| Carcassonne |             6 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Agen             |         1 |          1 |
+| Nevers           |         1 |          1 |
 | Oyonnax          |         1 |          0 |
 | Provence Rugby   |         1 |          0 |
 | Rouen            |         1 |          1 |

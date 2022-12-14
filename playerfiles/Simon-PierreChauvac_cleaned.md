@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon-Pierre Chauvac  
-date: 2022-12-09 13:14:43.833006  
+date: 2022-12-12 15:03:39.909307  
 categories: player  
 ---
 # Simon-Pierre Chauvac

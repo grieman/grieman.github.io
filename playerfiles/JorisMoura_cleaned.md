@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joris Moura  
-date: 2022-12-09 13:14:50.907454  
+date: 2022-12-14 11:29:12.707062  
 categories: player  
 ---
 # Joris Moura

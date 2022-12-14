@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matthieu Ugalde  
-date: 2022-12-09 13:16:31.265901  
+date: 2022-12-14 11:13:05.651823  
 categories: player  
 ---
 # Matthieu Ugalde
 
 ## Positions: FH, C
 
-## Current elo: 109.0
+## Current elo: 107.0
 
-## Current Percentile: 76.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Brive            |            72 |   0.465278 |
-| Soyaux-Angouleme |            66 |   0.545455 |
+| Soyaux-Angouleme |            67 |   0.537313 |
 | Bayonne          |            49 |   0.459184 |
 | Grenoble         |            11 |   0.181818 |
 
@@ -42,11 +42,11 @@ categories: player
 | Agen                       |         6 |   0.5      |
 | Connacht                   |         6 |   0.166667 |
 | Lyon                       |         5 |   0.3      |
+| Biarritz Olympique         |         5 |   0.2      |
 | Pau                        |         4 |   0.5      |
 | Vannes                     |         4 |   0.75     |
 | Valence Romans Drome Rugby |         4 |   0.625    |
 | Perpignan                  |         4 |   0.25     |
-| Biarritz Olympique         |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.5      |
 | Massy                      |         4 |   0.5      |
 | Rouen                      |         3 |   0.666667 |

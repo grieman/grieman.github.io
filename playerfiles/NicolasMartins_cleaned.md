@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Martins  
-date: 2022-11-22 11:43:06.673844  
+date: 2022-12-14 11:30:24.314760  
 categories: player  
 ---
 # Nicolas Martins
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 100.0
+## Current elo: 101.0
 
 ## Current Percentile: 68.0
 

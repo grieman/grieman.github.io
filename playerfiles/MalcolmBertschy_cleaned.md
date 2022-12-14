@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Malcolm Bertschy  
-date: 2022-12-09 13:09:11.682991  
+date: 2022-12-14 11:30:04.803957  
 categories: player  
 ---
 # Malcolm Bertschy
 
 ## Positions: W
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 63.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |             9 |   0.555556 |
+| Rouen  |            10 |        0.5 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,4 +33,5 @@ categories: player
 | Mont-de-Marsan     |         1 |          1 |
 | Montauban          |         1 |          1 |
 | Nevers             |         1 |          0 |
+| Provence Rugby     |         1 |          0 |
 | Soyaux-Angouleme   |         1 |          1 |

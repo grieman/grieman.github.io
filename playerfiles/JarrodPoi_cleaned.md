@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jarrod Poi  
-date: 2022-12-09 13:06:30.727796  
+date: 2022-12-14 11:31:05.397252  
 categories: player  
 ---
 # Jarrod Poi

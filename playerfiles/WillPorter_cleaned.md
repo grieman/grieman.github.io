@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Porter  
-date: 2022-12-09 13:07:12.745156  
+date: 2022-12-14 11:25:51.658975  
 categories: player  
 ---
 # Will Porter
 
 ## Positions: SH
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 37.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Wasps            |            56 |   0.383929 |
-| Bristol Rugby    |             4 |   0.125    |
+| Bristol Rugby    |             5 |   0.3      |
 | Ampthill         |             3 |   0.333333 |
 | Rotherham Titans |             1 |   0        |
 
@@ -43,6 +43,7 @@ categories: player
 | Worcester Warriors  |         2 |   0.5      |
 | Edinburgh           |         2 |   0        |
 | Ospreys             |         1 |   0        |
+| Perpignan           |         1 |   1        |
 | Richmond            |         1 |   1        |
 | Ealing Trailfinders |         1 |   0        |
 | Bordeaux Begles     |         1 |   0        |

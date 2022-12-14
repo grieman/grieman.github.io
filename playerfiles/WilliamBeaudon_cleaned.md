@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: William Beaudon  
-date: 2022-12-09 13:15:12.755696  
+date: 2022-12-14 11:36:16.353179  
 categories: player  
 ---
 # William Beaudon
 
 ## Positions: SH
 
-## Current elo: 84.0
+## Current elo: 82.0
 
 ## Current Percentile: 10.0
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |             9 |          0 |
+| Cognac Saint Jean d'Angély |            10 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Albi                |         1 |          0 |
 | Blagnac             |         1 |          0 |
 | Carqueiranne-Hyères |         1 |          0 |
 | Chambery            |         1 |          0 |

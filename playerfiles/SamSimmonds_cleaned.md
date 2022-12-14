@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Simmonds  
-date: 2022-11-22 11:26:52.372387  
+date: 2022-12-14 11:32:44.743058  
 categories: player  
 ---
 # Sam Simmonds
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 119.0
+## Current elo: 120.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Exeter Chiefs           |           113 |   0.756637 |
-| England                 |            18 |   0.638889 |
+| Exeter Chiefs           |           114 |   0.758772 |
+| England                 |            19 |   0.605263 |
 | Cornish Pirates         |             5 |   0.8      |
 | British and Irish Lions |             1 |   0        |
 
@@ -42,28 +42,29 @@ categories: player
 | Newcastle Falcons   |         7 |   0.714286 |
 | Worcester Warriors  |         7 |   1        |
 | Bristol Rugby       |         5 |   0.6      |
+| South Africa        |         4 |   0.5      |
 | Glasgow Warriors    |         3 |   0.666667 |
-| South Africa        |         3 |   0.666667 |
 | Montpellier Herault |         2 |   1        |
 | Wales               |         2 |   1        |
 | Ospreys             |         2 |   1        |
-| Ireland             |         2 |   0        |
 | Nottingham          |         2 |   1        |
+| France              |         2 |   0        |
 | Argentina           |         2 |   0.5      |
+| Ireland             |         2 |   0        |
 | Italy               |         2 |   1        |
 | Leinster            |         2 |   0        |
-| France              |         2 |   0        |
 | La Rochelle         |         2 |   1        |
 | Australia           |         2 |   1        |
-| Cardiff Blues       |         1 |   1        |
-| Japan               |         1 |   1        |
-| Stade Toulousain    |         1 |   1        |
-| Scotland            |         1 |   0        |
 | London Welsh        |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
+| Stade Toulousain    |         1 |   1        |
+| Japan               |         1 |   1        |
+| Scotland            |         1 |   0        |
+| Castres Olympique   |         1 |   1        |
 | Samoa               |         1 |   1        |
 | Rotherham Titans    |         1 |   0        |
 | Racing 92           |         1 |   1        |
-| Dragons             |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
+| Dragons             |         1 |   1        |
 | New Zealand         |         1 |   0.5      |
 | Doncaster           |         1 |   1        |

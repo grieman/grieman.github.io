@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Marler  
-date: 2022-12-09 13:19:44.057655  
+date: 2022-12-14 11:22:55.172979  
 categories: player  
 ---
 # Joe Marler
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 70.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Harlequins              |           250 |   0.618    |
+| Harlequins              |           251 |   0.615538 |
 | England                 |            79 |   0.639241 |
 | British and Irish Lions |             5 |   0.5      |
 
@@ -69,8 +69,8 @@ categories: player
 | Yorkshire Carnegie       |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
 | Leeds                    |         2 |   1        |
-| Munster                  |         2 |   0.5      |
 | Biarritz Olympique       |         2 |   1        |
+| Munster                  |         2 |   0.5      |
 | Toulon                   |         1 |   0        |
 | Barbarians               |         1 |   0        |
 | Bayonne                  |         1 |   0        |
@@ -82,6 +82,7 @@ categories: player
 | Stade Toulousain         |         1 |   0        |
 | Edinburgh                |         1 |   0        |
 | Highlanders              |         1 |   0        |
+| Sharks                   |         1 |   0        |
 | Hurricanes               |         1 |   0.5      |
 | La Rochelle              |         1 |   0        |
 | Chiefs                   |         1 |   1        |

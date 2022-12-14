@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anthony Bajart  
-date: 2022-11-22 11:40:31.120552  
+date: 2022-12-14 11:26:19.284425  
 categories: player  
 ---
 # Anthony Bajart
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 20.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            33 |   0.484848 |
+| Suresnes |            34 |   0.470588 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.5      |
-| Blagnac                    |         3 |   0.333333 |
 | Dax                        |         3 |   0.666667 |
 | Nice                       |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |

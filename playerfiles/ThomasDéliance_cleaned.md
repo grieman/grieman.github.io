@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Déliance  
-date: 2022-12-09 13:16:21.646804  
+date: 2022-12-14 11:13:54.998700  
 categories: player  
 ---
 # Thomas Déliance
 
-## Positions: L, FL
+## Positions: FL, L
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 68.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |             7 |          1 |
+| US Bressane |             8 |          1 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,4 +31,5 @@ categories: player
 | Nice                       |         1 |          1 |
 | Rennes                     |         1 |          1 |
 | Suresnes                   |         1 |          1 |
+| Tarbes                     |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          1 |

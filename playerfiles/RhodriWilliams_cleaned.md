@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhodri Williams  
-date: 2022-12-09 13:04:05.020035  
+date: 2022-12-14 11:29:07.368807  
 categories: player  
 ---
 # Rhodri Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Barbarians
 
-## Current elo: 114.0
+## Current elo: 115.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
+| Dragons       |            78 |   0.301282 |
 | Scarlets      |            78 |   0.596154 |
-| Dragons       |            77 |   0.298701 |
 | Bristol Rugby |            37 |   0.513514 |
 | Barbarians    |             1 |   1        |
 | Wales         |             1 |   1        |
@@ -39,45 +39,46 @@ categories: player
 | Edinburgh           |        11 |   0.590909 |
 | Munster             |        10 |   0.4      |
 | Leinster            |         9 |   0.111111 |
-| Connacht            |         7 |   0.428571 |
 | Scarlets            |         7 |   0.428571 |
 | Benetton Treviso    |         7 |   0.5      |
-| Worcester Warriors  |         6 |   0.333333 |
+| Connacht            |         7 |   0.428571 |
 | Dragons             |         6 |   1        |
+| Worcester Warriors  |         6 |   0.333333 |
 | Northampton Saints  |         5 |   0.2      |
-| Clermont Auvergne   |         4 |   0        |
 | Sale Sharks         |         4 |   0.5      |
+| Clermont Auvergne   |         4 |   0        |
 | Harlequins          |         3 |   0.333333 |
 | Racing 92           |         3 |   0.5      |
-| Bath Rugby          |         3 |   0.333333 |
 | Leicester Tigers    |         3 |   0.333333 |
+| Bath Rugby          |         3 |   0.333333 |
 | Castres Olympique   |         3 |   0.666667 |
-| Gloucester Rugby    |         2 |   0        |
-| Ealing Trailfinders |         2 |   1        |
-| Cornish Pirates     |         2 |   1        |
 | Toulon              |         2 |   0        |
 | Stormers            |         2 |   0        |
 | Southern Kings      |         2 |   0.75     |
 | Sharks              |         2 |   0        |
-| Doncaster           |         2 |   1        |
-| Saracens            |         2 |   0        |
-| Aironi              |         2 |   1        |
-| Nottingham          |         2 |   1        |
 | Cheetahs            |         2 |   0.5      |
+| Saracens            |         2 |   0        |
+| Nottingham          |         2 |   1        |
+| Aironi              |         2 |   1        |
+| Cornish Pirates     |         2 |   1        |
+| Doncaster           |         2 |   1        |
+| Gloucester Rugby    |         2 |   0        |
+| Ealing Trailfinders |         2 |   1        |
 | London Irish        |         2 |   1        |
+| Bristol Rugby       |         1 |   0        |
 | England             |         1 |   1        |
-| Exeter Chiefs       |         1 |   0        |
 | Yorkshire Carnegie  |         1 |   1        |
-| Jersey              |         1 |   1        |
 | Wasps               |         1 |   0        |
 | Bedford             |         1 |   1        |
-| Brive               |         1 |   0        |
 | Timisoara Saracens  |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
-| Pau                 |         1 |   1        |
-| Scotland            |         1 |   1        |
-| Newcastle Falcons   |         1 |   0        |
-| Hartpury College    |         1 |   1        |
-| Richmond            |         1 |   1        |
 | Bulls               |         1 |   0        |
+| Scotland            |         1 |   1        |
+| Exeter Chiefs       |         1 |   0        |
+| Brive               |         1 |   0        |
 | Rotherham Titans    |         1 |   1        |
+| Richmond            |         1 |   1        |
+| Hartpury College    |         1 |   1        |
+| Pau                 |         1 |   1        |
+| Jersey              |         1 |   1        |
+| Lions               |         1 |   0.5      |
+| Newcastle Falcons   |         1 |   0        |

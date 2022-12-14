@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Dombrandt  
-date: 2022-12-09 13:05:14.775378  
+date: 2022-12-14 11:21:49.748611  
 categories: player  
 ---
 # Alex Dombrandt
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 86.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            90 |   0.611111 |
+| Harlequins |            91 |   0.604396 |
 | England    |             9 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -50,6 +50,7 @@ categories: player
 | Grenoble           |         1 |   1        |
 | France             |         1 |   0        |
 | Scotland           |         1 |   0        |
+| Sharks             |         1 |   0        |
 | South Africa       |         1 |   1        |
 | Tonga              |         1 |   1        |
 | Canada             |         1 |   1        |

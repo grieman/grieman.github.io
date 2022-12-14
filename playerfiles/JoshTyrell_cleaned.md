@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Tyrell  
-date: 2022-12-09 13:05:06.201875  
+date: 2022-12-14 11:15:28.625142  
 categories: player  
 ---
 # Josh Tyrell
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 57.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Doncaster          |            27 |   0.407407 |
-| Biarritz Olympique |            24 |   0.458333 |
+| Biarritz Olympique |            25 |   0.48     |
 | Oyonnax            |            22 |   0.545455 |
 | Waikato            |            16 |   0.4375   |
 | Samoa              |            10 |   0.2      |
@@ -62,11 +62,11 @@ categories: player
 | Hartpury College         |         2 |   1        |
 | Brive                    |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
+| Soyaux-Angouleme         |         2 |   1        |
 | Toulon                   |         1 |   0        |
 | Russia                   |         1 |   1        |
 | Southland                |         1 |   1        |
 | Oyonnax                  |         1 |   1        |
-| Soyaux-Angouleme         |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
 | Stade Toulousain         |         1 |   0        |
 | Pau                      |         1 |   0        |

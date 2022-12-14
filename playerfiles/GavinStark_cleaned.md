@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gavin Stark  
-date: 2022-12-09 13:24:09.876318  
+date: 2022-12-14 11:30:27.295511  
 categories: player  
 ---
 # Gavin Stark
 
 ## Positions: W
 
-## Current elo: 89.0
+## Current elo: 84.0
 
-## Current Percentile: 25.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |            34 |   0.470588 |
-| Oyonnax            |             5 |   1        |
+| Oyonnax            |             6 |   1        |
 | Otago              |             2 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,12 +30,12 @@ categories: player
 | Perpignan                  |         4 |   0        |
 | Carcassonne                |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
+| Montauban                  |         3 |   0.666667 |
 | Nevers                     |         3 |   0.333333 |
 | Bordeaux Begles            |         2 |   0.5      |
 | Toulon                     |         2 |   0        |
 | Stade Francais Paris       |         2 |   0.5      |
 | Grenoble                   |         2 |   1        |
-| Montauban                  |         2 |   0.5      |
 | Oyonnax                    |         2 |   0.5      |
 | Aurillac                   |         1 |   1        |
 | Pau                        |         1 |   0        |

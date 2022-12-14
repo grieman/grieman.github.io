@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nugzar Somkhishvili  
-date: 2022-11-22 11:43:23.254040  
+date: 2022-12-14 11:20:04.982901  
 categories: player  
 ---
 # Nugzar Somkhishvili
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 15.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,14 +21,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |             8 |     0.5625 |
+| Bourgoin-Jallieu |            10 |       0.65 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Chambery                   |         1 |        1   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
 | Dax                        |         1 |        1   |
 | Narbonne                   |         1 |        1   |
 | Nice                       |         1 |        1   |
+| Rennes                     |         1 |        1   |
 | Suresnes                   |         1 |        0   |
 | Tarbes                     |         1 |        0   |
 | US Bressane                |         1 |        0   |

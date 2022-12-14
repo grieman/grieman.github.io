@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George McGuigan  
-date: 2022-12-09 13:09:04.031474  
+date: 2022-12-12 14:46:23.007434  
 categories: player  
 ---
 # George McGuigan

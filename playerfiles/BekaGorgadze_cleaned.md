@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Gorgadze  
-date: 2022-12-09 13:23:26.308473  
+date: 2022-12-14 11:23:06.542715  
 categories: player  
 ---
 # Beka Gorgadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 73.0
+## Current Percentile: 70.0
 
 # Elo History
 

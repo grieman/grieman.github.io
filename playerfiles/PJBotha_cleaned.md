@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: PJ Botha  
-date: 2022-12-09 13:17:05.499298  
+date: 2022-12-14 11:12:14.676518  
 categories: player  
 ---
 # PJ Botha
 
 ## Positions: H
 
-## Current elo: 90.0
+## Current elo: 86.0
 
-## Current Percentile: 17.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -22,20 +22,20 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Golden Lions |             9 |   0.333333 |
-| Lions        |             8 |   0.625    |
+| Lions        |             9 |   0.611111 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Blue Bulls          |         2 |        0   |
-| Natal Sharks        |         2 |        0.5 |
-| Pumas               |         2 |        0   |
-| Western Province    |         2 |        1   |
-| Bulls               |         1 |        0   |
-| Cardiff Blues       |         1 |        1   |
-| Dragons             |         1 |        1   |
-| Edinburgh           |         1 |        1   |
-| Free State Cheetahs |         1 |        0   |
-| Ospreys             |         1 |        1   |
-| Scarlets            |         1 |        1   |
-| Stormers            |         1 |        0   |
-| Ulster              |         1 |        0   |
+| Blue Bulls          |         2 |       0    |
+| Dragons             |         2 |       0.75 |
+| Natal Sharks        |         2 |       0.5  |
+| Pumas               |         2 |       0    |
+| Western Province    |         2 |       1    |
+| Bulls               |         1 |       0    |
+| Cardiff Blues       |         1 |       1    |
+| Edinburgh           |         1 |       1    |
+| Free State Cheetahs |         1 |       0    |
+| Ospreys             |         1 |       1    |
+| Scarlets            |         1 |       1    |
+| Stormers            |         1 |       0    |
+| Ulster              |         1 |       0    |

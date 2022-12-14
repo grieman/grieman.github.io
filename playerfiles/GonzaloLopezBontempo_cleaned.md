@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gonzalo Lopez Bontempo  
-date: 2022-12-09 13:17:15.356833  
+date: 2022-12-14 11:13:23.041800  
 categories: player  
 ---
 # Gonzalo Lopez Bontempo
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre-Samuel Pacheco  
-date: 2022-12-09 13:15:26.392246  
+date: 2022-12-14 11:36:19.203460  
 categories: player  
 ---
 # Pierre-Samuel Pacheco
 
 ## Positions: FL
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            15 |   0.533333 |
+| Colomiers |            16 |     0.5625 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Aurillac         |         1 |        0   |
 | Carcassonne      |         1 |        1   |
 | Grenoble         |         1 |        1   |
+| Massy            |         1 |        1   |
 | Mont-de-Marsan   |         1 |        0   |
 | Montauban        |         1 |        0   |
 | Narbonne         |         1 |        1   |

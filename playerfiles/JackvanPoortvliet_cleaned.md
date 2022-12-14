@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack van Poortvliet  
-date: 2022-12-09 13:09:14.701190  
+date: 2022-12-14 11:20:52.819598  
 categories: player  
 ---
 # Jack van Poortvliet
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            45 |   0.633333 |
+| Leicester Tigers |            46 |   0.641304 |
 | England          |             7 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -41,6 +41,7 @@ categories: player
 | Saracens           |         3 |   0.333333 |
 | Australia          |         3 |   0.666667 |
 | London Irish       |         2 |   1        |
+| Ospreys            |         1 |   1        |
 | New Zealand        |         1 |   0.5      |
 | Japan              |         1 |   1        |
 | South Africa       |         1 |   0        |

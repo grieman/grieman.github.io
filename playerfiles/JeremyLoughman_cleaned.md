@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jeremy Loughman  
-date: 2022-12-09 13:17:50.638317  
+date: 2022-12-14 11:26:17.605197  
 categories: player  
 ---
 # Jeremy Loughman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Munster  |            70 |   0.728571 |
+| Munster  |            71 |   0.71831  |
 | Leinster |             5 |   0.6      |
 | Ireland  |             3 |   0.666667 |
 
@@ -50,6 +50,7 @@ categories: player
 | Saracens          |         1 |   0        |
 | Exeter Chiefs     |         1 |   1        |
 | Sharks            |         1 |   1        |
+| Stade Toulousain  |         1 |   0        |
 | Stormers          |         1 |   1        |
 | Wasps             |         1 |   1        |
 | Cheetahs          |         1 |   1        |

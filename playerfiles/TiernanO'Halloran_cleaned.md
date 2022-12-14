@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tiernan O'Halloran  
-date: 2022-12-09 13:13:54.563113  
+date: 2022-12-14 11:31:04.605567  
 categories: player  
 ---
 # Tiernan O'Halloran
@@ -23,14 +23,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           208 |   0.454327 |
+| Connacht |           209 |   0.456938 |
 | Ireland  |             6 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Ulster                   |        17 |   0.294118 |
 | Scarlets                 |        17 |   0.294118 |
 | Benetton Treviso         |        17 |   0.794118 |
-| Ulster                   |        17 |   0.294118 |
 | Munster                  |        16 |   0.1875   |
 | Cardiff Blues            |        16 |   0.375    |
 | Leinster                 |        15 |   0.266667 |
@@ -45,21 +45,22 @@ categories: player
 | Brive                    |         4 |   0.75     |
 | Cheetahs                 |         3 |   0.666667 |
 | Southern Kings           |         3 |   1        |
-| Sale Sharks              |         2 |   0.5      |
-| South Africa             |         2 |   0        |
-| Wasps                    |         2 |   0.5      |
 | Worcester Warriors       |         2 |   0.75     |
-| Aironi                   |         2 |   0.5      |
+| Wasps                    |         2 |   0.5      |
+| Biarritz Olympique       |         2 |   0.5      |
+| South Africa             |         2 |   0        |
+| Sale Sharks              |         2 |   0.5      |
 | Leicester Tigers         |         2 |   0        |
 | Japan                    |         2 |   1        |
-| Biarritz Olympique       |         2 |   0.5      |
+| Aironi                   |         2 |   0.5      |
 | RC Enisei                |         1 |   1        |
-| Saracens                 |         1 |   0        |
 | Oyonnax                  |         1 |   1        |
-| Sharks                   |         1 |   0        |
-| Stade Francais Paris     |         1 |   0        |
-| Canada                   |         1 |   1        |
-| Bulls                    |         1 |   1        |
-| United States of America |         1 |   1        |
+| Saracens                 |         1 |   0        |
 | Bordeaux Begles          |         1 |   1        |
+| Sharks                   |         1 |   0        |
+| Newcastle Falcons        |         1 |   1        |
+| Bulls                    |         1 |   1        |
+| Stade Francais Paris     |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
+| Canada                   |         1 |   1        |
+| United States of America |         1 |   1        |

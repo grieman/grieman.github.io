@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alapati Leiua  
-date: 2022-11-22 11:35:39.711195  
+date: 2022-12-14 11:19:39.377604  
 categories: player  
 ---
 # Alapati Leiua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 46.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Samoa         |            26 |   0.346154 |
 | Wellington    |            20 |   0.6      |
 | Waikato       |             7 |   0.928571 |
-| Stormers      |             3 |   0.5      |
+| Stormers      |             4 |   0.375    |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -51,66 +51,67 @@ categories: player
 | Chiefs                   |         5 |   0.3      |
 | Zebre                    |         5 |   0.7      |
 | Cheetahs                 |         4 |   0.75     |
-| Stormers                 |         4 |   0        |
 | Italy                    |         4 |   0.5      |
+| Stormers                 |         4 |   0        |
 | Hawke's Bay              |         4 |   0.375    |
 | Auckland                 |         3 |   0.666667 |
-| Manawatu                 |         3 |   0.666667 |
+| Georgia                  |         3 |   0.333333 |
 | New South Wales Waratahs |         3 |   0.666667 |
-| Brumbies                 |         3 |   0        |
 | Bulls                    |         3 |   0.333333 |
+| Brumbies                 |         3 |   0        |
 | Queensland Reds          |         3 |   0.666667 |
 | Scotland                 |         3 |   0.333333 |
-| Georgia                  |         3 |   0.333333 |
 | Taranaki                 |         3 |   1        |
 | Counties Manukau         |         3 |   0.666667 |
+| Manawatu                 |         3 |   0.666667 |
 | Sharks                   |         2 |   0        |
-| Southland                |         2 |   1        |
+| London Scottish          |         2 |   1        |
 | Romania                  |         2 |   0.5      |
+| Southland                |         2 |   1        |
 | Richmond                 |         2 |   1        |
 | Stade Francais Paris     |         2 |   1        |
 | Ospreys                  |         2 |   0.25     |
-| North Harbour            |         2 |   1        |
+| Connacht                 |         2 |   0.5      |
 | Toulon                   |         2 |   0.5      |
 | Bedford                  |         2 |   1        |
 | Melbourne Rebels         |         2 |   1        |
-| Connacht                 |         2 |   0.5      |
-| Canterbury               |         2 |   0        |
-| Ireland                  |         2 |   0        |
-| Lions                    |         2 |   1        |
-| London Scottish          |         2 |   1        |
-| Leinster                 |         2 |   0        |
+| North Harbour            |         2 |   1        |
 | Doncaster                |         2 |   1        |
+| Lions                    |         2 |   1        |
+| Leinster                 |         2 |   0        |
 | England                  |         2 |   0        |
 | Jersey                   |         2 |   0.5      |
 | Ealing Trailfinders      |         2 |   1        |
+| Canterbury               |         2 |   0        |
+| Ireland                  |         2 |   0        |
+| London Welsh             |         1 |   1        |
 | Spain                    |         1 |   1        |
-| Castres Olympique        |         1 |   1        |
 | Stade Toulousain         |         1 |   0.5      |
+| Dragons                  |         1 |   1        |
 | Tasman                   |         1 |   1        |
 | United States of America |         1 |   0        |
-| Dragons                  |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Waikato                  |         1 |   1        |
 | Wales                    |         1 |   0        |
+| Cornish Pirates          |         1 |   1        |
 | Western Force            |         1 |   1        |
 | Bay of Plenty            |         1 |   0        |
 | Yorkshire Carnegie       |         1 |   1        |
-| Germany                  |         1 |   1        |
-| London Welsh             |         1 |   1        |
-| South Africa             |         1 |   0        |
+| Castres Olympique        |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
+| South Africa             |         1 |   0        |
+| Germany                  |         1 |   1        |
+| Australia                |         1 |   0        |
 | Bordeaux Begles          |         1 |   1        |
 | Bristol Rugby            |         1 |   1        |
 | Russia                   |         1 |   1        |
 | Rotherham Titans         |         1 |   1        |
 | Canada                   |         1 |   1        |
-| Japan                    |         1 |   0        |
 | Otago                    |         1 |   1        |
+| Japan                    |         1 |   0        |
 | Nottingham               |         1 |   1        |
 | Northland                |         1 |   1        |
-| Cornish Pirates          |         1 |   1        |
+| Brive                    |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | New Zealand              |         1 |   0        |
-| Australia                |         1 |   0        |
-| Brive                    |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |

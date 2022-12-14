@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierrick Nova  
-date: 2022-12-09 13:07:01.059950  
+date: 2022-12-14 11:17:13.367935  
 categories: player  
 ---
 # Pierrick Nova

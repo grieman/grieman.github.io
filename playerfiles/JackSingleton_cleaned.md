@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Singleton  
-date: 2022-12-09 13:12:20.348641  
+date: 2022-12-12 15:38:27.123714  
 categories: player  
 ---
 # Jack Singleton
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

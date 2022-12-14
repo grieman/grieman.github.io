@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gatien Masse  
-date: 2022-11-16 11:29:42.607257  
+date: 2022-12-14 11:33:52.374486  
 categories: player  
 ---
 # Gatien Masse
 
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 49.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            11 |   0.181818 |
+| Bordeaux Begles |            12 |   0.166667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Pau                  |         2 |          0 |
 | Toulon               |         2 |          0 |
 | Clermont Auvergne    |         1 |          0 |
+| Gloucester Rugby     |         1 |          0 |
 | Montpellier Herault  |         1 |          1 |
 | Racing 92            |         1 |          0 |
 | Stade Francais Paris |         1 |          1 |

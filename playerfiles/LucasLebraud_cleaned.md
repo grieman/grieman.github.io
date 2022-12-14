@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lucas Lebraud  
-date: 2022-11-22 11:26:09.532220  
+date: 2022-12-14 11:21:33.197501  
 categories: player  
 ---
 # Lucas Lebraud
 
 ## Positions: C
 
-## Current elo: 75.0
+## Current elo: 74.0
 
 ## Current Percentile: 4.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Narbonne           |            18 |   0.194444 |
+| Narbonne           |            19 |   0.184211 |
 | Biarritz Olympique |            17 |   0.617647 |
 | Bordeaux Begles    |            10 |   0.5      |
 
@@ -37,10 +37,11 @@ categories: player
 | Mont-de-Marsan             |         2 |   0        |
 | La Rochelle                |         2 |   0.5      |
 | Aurillac                   |         2 |   0.5      |
-| Connacht                   |         2 |   0        |
-| Carcassonne                |         2 |   0.5      |
 | Colomiers                  |         2 |   0        |
+| Carcassonne                |         2 |   0.5      |
+| Connacht                   |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
+| Dax                        |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |
 | US Bressane                |         1 |   0        |

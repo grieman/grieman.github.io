@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Ducat  
-date: 2022-12-09 13:13:36.514963  
+date: 2022-12-14 11:18:49.289950  
 categories: player  
 ---
 # Guillaume Ducat

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Peters  
-date: 2022-11-22 11:30:00.672023  
+date: 2022-12-14 11:33:30.387183  
 categories: player  
 ---
 # Josh Peters
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 42.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Doncaster         |             9 |   0.888889 |
 | Spain             |             9 |   0.555556 |
 | Dijon             |             5 |   0.2      |
-| Newcastle Falcons |             1 |   1        |
+| Newcastle Falcons |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -45,6 +45,6 @@ categories: player
 | London Scottish  |         1 |        1   |
 | Jersey           |         1 |        1   |
 | Hartpury College |         1 |        1   |
-| Gloucester Rugby |         1 |        1   |
 | Germany          |         1 |        1   |
+| Connacht         |         1 |        0   |
 | US Bressane      |         1 |        0   |

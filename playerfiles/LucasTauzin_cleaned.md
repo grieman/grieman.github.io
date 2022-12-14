@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lucas Tauzin  
-date: 2022-12-09 13:17:22.376351  
+date: 2022-12-14 11:36:38.301982  
 categories: player  
 ---
 # Lucas Tauzin
 
 ## Positions: W, C
 
-## Current elo: 100.0
+## Current elo: 101.0
 
 ## Current Percentile: 68.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            61 |   0.622951 |
+| Stade Toulousain |            62 |   0.629032 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,6 +40,7 @@ categories: player
 | Sale Sharks          |         2 |   0.75     |
 | Perpignan            |         2 |   1        |
 | Agen                 |         1 |   1        |
+| Munster              |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
 | Connacht             |         1 |   1        |
 | Cardiff Blues        |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Francois Tardieu  
-date: 2022-11-22 11:40:10.315717  
+date: 2022-12-14 11:20:18.743666  
 categories: player  
 ---
 # Francois Tardieu
 
 ## Positions: W, FB
 
-## Current elo: 78.0
+## Current elo: 79.0
 
-## Current Percentile: 5.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Blagnac   |            31 |   0.435484 |
+| Blagnac   |            32 |   0.453125 |
 | Agen      |             6 |   0        |
 | Colomiers |             6 |   0.166667 |
 
@@ -32,10 +32,10 @@ categories: player
 | Dax                        |         4 |   0.25     |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Tarbes                     |         3 |   1        |
+| Suresnes                   |         3 |   0.333333 |
 | Grenoble                   |         3 |   0        |
 | Narbonne                   |         3 |   0.166667 |
 | Albi                       |         2 |   0.5      |
-| Suresnes                   |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
 | London Irish               |         2 |   0        |
 | Aubenas                    |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Genesis Mamea Lemalu  
-date: 2022-12-09 13:20:50.262111  
+date: 2022-12-12 14:49:50.204822  
 categories: player  
 ---
 # Genesis Mamea Lemalu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 

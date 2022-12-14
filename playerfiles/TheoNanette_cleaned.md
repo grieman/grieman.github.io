@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Theo Nanette  
-date: 2022-12-09 13:12:35.051659  
+date: 2022-12-14 11:16:14.601723  
 categories: player  
 ---
 # Theo Nanette
 
 ## Positions: SH
 
-## Current elo: 78.0
+## Current elo: 79.0
 
 ## Current Percentile: None
 
@@ -24,7 +24,7 @@ categories: player
 | Grenoble       |            33 |   0.378788 |
 | Aurillac       |            29 |   0.362069 |
 | Provence Rugby |             5 |   0.2      |
-| Rouen          |             3 |   0.333333 |
+| Rouen          |             4 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,24 +38,24 @@ categories: player
 | Dax                  |         3 |   0        |
 | Vannes               |         3 |   0.333333 |
 | Benetton Treviso     |         2 |   0        |
-| Albi                 |         2 |   1        |
+| Biarritz Olympique   |         2 |   0        |
 | Aurillac             |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   0.5      |
+| Provence Rugby       |         2 |   0.5      |
 | Castres Olympique    |         2 |   0        |
 | Montpellier Herault  |         2 |   0.5      |
-| Biarritz Olympique   |         2 |   0        |
 | Lyon                 |         2 |   0        |
+| Albi                 |         2 |   1        |
 | Harlequins           |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
 | Colomiers            |         2 |   0        |
 | Mont-de-Marsan       |         1 |   0        |
 | La Rochelle          |         1 |   0        |
-| Grenoble             |         1 |   0        |
 | Oyonnax              |         1 |   1        |
 | Pau                  |         1 |   0        |
 | Bayonne              |         1 |   0        |
-| Provence Rugby       |         1 |   1        |
+| Grenoble             |         1 |   0        |
 | Racing 92            |         1 |   0        |
 | Rouen                |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |

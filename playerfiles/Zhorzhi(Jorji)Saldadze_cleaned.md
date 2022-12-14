@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zhorzhi (Jorji) Saldadze  
-date: 2022-12-09 13:09:32.604958  
+date: 2022-12-12 14:56:31.027780  
 categories: player  
 ---
 # Zhorzhi (Jorji) Saldadze
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 13.0
+## Current Percentile: 12.0
 
 # Elo History
 

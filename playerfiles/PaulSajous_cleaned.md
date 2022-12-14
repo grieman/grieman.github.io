@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul Sajous  
-date: 2022-12-09 13:18:39.467330  
+date: 2022-12-14 11:13:18.164044  
 categories: player  
 ---
 # Paul Sajous
 
 ## Positions: L, FL
 
-## Current elo: 74.0
+## Current elo: 72.0
 
-## Current Percentile: 4.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            23 |   0.304348 |
+| Tarbes |            24 |   0.291667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Dijon                      |         1 |        1   |
 | Massy                      |         1 |        0   |
 | Rennes                     |         1 |        1   |
+| US Bressane                |         1 |        0   |

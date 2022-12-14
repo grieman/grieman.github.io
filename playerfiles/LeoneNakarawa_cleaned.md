@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leone Nakarawa  
-date: 2022-12-09 13:15:20.779244  
+date: 2022-12-14 11:21:27.668251  
 categories: player  
 ---
 # Leone Nakarawa
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 118.0
+## Current elo: 117.0
 
 ## Current Percentile: 91.0
 
@@ -27,7 +27,7 @@ categories: player
 | Glasgow Warriors  |            78 |   0.685897 |
 | Fiji              |            41 |   0.402439 |
 | Toulon            |            12 |   0.458333 |
-| Castres Olympique |             7 |   0.571429 |
+| Castres Olympique |             8 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -61,28 +61,28 @@ categories: player
 | Scotland                 |         3 |   0.333333 |
 | Racing 92                |         3 |   0.333333 |
 | Agen                     |         3 |   0.666667 |
-| England                  |         3 |   0        |
 | Australia                |         3 |   0        |
-| Glasgow Warriors         |         2 |   0        |
+| England                  |         3 |   0        |
+| France                   |         2 |   0.5      |
+| Grenoble                 |         2 |   0.5      |
 | Ireland                  |         2 |   0        |
 | Bath Rugby               |         2 |   0.5      |
+| Exeter Chiefs            |         2 |   0.5      |
 | New Zealand              |         2 |   0        |
 | Samoa                    |         2 |   0        |
-| Grenoble                 |         2 |   0.5      |
-| France                   |         2 |   0.5      |
-| Bayonne                  |         2 |   1        |
+| Glasgow Warriors         |         2 |   0        |
+| Italy                    |         2 |   0.5      |
 | Georgia                  |         2 |   0.75     |
 | Oyonnax                  |         2 |   1        |
 | Canada                   |         2 |   1        |
 | Northampton Saints       |         2 |   0        |
 | New Zealand Maori        |         2 |   0.5      |
-| Italy                    |         2 |   0.5      |
+| Bayonne                  |         2 |   1        |
 | United States of America |         1 |   1        |
 | Namibia                  |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Spain                    |         1 |   1        |
 | South Africa             |         1 |   0        |
-| Exeter Chiefs            |         1 |   1        |
 | Sale Sharks              |         1 |   1        |
 | Romania                  |         1 |   1        |
 | Biarritz Olympique       |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thomas Laclayat  
-date: 2022-12-09 13:11:33.087701  
+date: 2022-12-14 11:14:34.044432  
 categories: player  
 ---
 # Thomas Laclayat
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 103.0
 
 ## Current Percentile: 86.0
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            59 |   0.686441 |
+| Oyonnax |            60 |   0.691667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Provence Rugby             |         5 |   0.7      |
 | Grenoble                   |         5 |   0.6      |
+| Provence Rugby             |         5 |   0.7      |
 | Mont-de-Marsan             |         4 |   0.5      |
 | Beziers                    |         4 |   0.875    |
 | Biarritz Olympique         |         4 |   0.25     |
-| Colomiers                  |         3 |   0.166667 |
 | Vannes                     |         3 |   1        |
 | Nevers                     |         3 |   1        |
+| Montauban                  |         3 |   1        |
 | Agen                       |         3 |   1        |
+| Colomiers                  |         3 |   0.166667 |
 | Carcassonne                |         3 |   1        |
 | Connacht                   |         2 |   0        |
 | Aurillac                   |         2 |   0.5      |
-| Montauban                  |         2 |   1        |
 | Rouen                      |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
 | US Bressane                |         2 |   1        |

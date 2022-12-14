@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Tauleigne  
-date: 2022-12-09 13:14:14.555398  
+date: 2022-12-14 11:23:07.579754  
 categories: player  
 ---
 # Marco Tauleigne
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 64.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bordeaux Begles     |           103 |   0.543689 |
-| Montpellier Herault |            19 |   0.526316 |
+| Montpellier Herault |            20 |   0.55     |
 | France              |             6 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -46,21 +46,22 @@ categories: player
 | Grenoble             |         3 |   1        |
 | Dragons              |         3 |   0.666667 |
 | Edinburgh            |         3 |   0.5      |
-| Wasps                |         2 |   1        |
+| Oyonnax              |         2 |   1        |
 | Ulster               |         2 |   1        |
 | Ospreys              |         2 |   0.5      |
-| Oyonnax              |         2 |   1        |
-| RC Enisei            |         1 |   1        |
-| Wales                |         1 |   0        |
-| Bordeaux Begles      |         1 |   0        |
-| Bristol Rugby        |         1 |   0        |
-| Scotland             |         1 |   0        |
-| Ireland              |         1 |   0        |
-| Perpignan            |         1 |   1        |
-| Italy                |         1 |   1        |
-| Newcastle Falcons    |         1 |   0        |
+| Wasps                |         2 |   1        |
 | New Zealand          |         1 |   0        |
+| Newcastle Falcons    |         1 |   0        |
 | Mogliano             |         1 |   1        |
-| Bath Rugby           |         1 |   0        |
-| London Welsh         |         1 |   1        |
+| Italy                |         1 |   1        |
 | England              |         1 |   1        |
+| Perpignan            |         1 |   1        |
+| RC Enisei            |         1 |   1        |
+| Bath Rugby           |         1 |   0        |
+| Scotland             |         1 |   0        |
+| London Welsh         |         1 |   1        |
+| Bristol Rugby        |         1 |   0        |
+| Bordeaux Begles      |         1 |   0        |
+| London Irish         |         1 |   1        |
+| Wales                |         1 |   0        |
+| Ireland              |         1 |   0        |

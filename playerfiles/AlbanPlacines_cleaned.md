@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alban Placines  
-date: 2022-12-09 13:12:14.544436  
+date: 2022-12-14 11:31:32.128516  
 categories: player  
 ---
 # Alban Placines
 
 ## Positions: FL
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Stade Toulousain   |            76 |   0.644737 |
+| Stade Toulousain   |            77 |   0.649351 |
 | Biarritz Olympique |            50 |   0.48     |
 
 | Opponent             |   Matches |   Win Rate |
@@ -57,6 +57,7 @@ categories: player
 | Dax                  |         2 |   0.5      |
 | Connacht             |         2 |   1        |
 | Aurillac             |         2 |   0        |
+| Munster              |         1 |   1        |
 | Oyonnax              |         1 |   0        |
 | Gloucester Rugby     |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |

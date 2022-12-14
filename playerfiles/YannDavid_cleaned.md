@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yann David  
-date: 2022-12-09 13:22:15.345588  
+date: 2022-12-12 14:47:26.855953  
 categories: player  
 ---
 # Yann David

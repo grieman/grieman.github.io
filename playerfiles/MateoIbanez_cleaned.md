@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mateo Ibanez  
-date: 2022-12-09 13:07:18.666705  
+date: 2022-12-14 11:14:12.025893  
 categories: player  
 ---
 # Mateo Ibanez
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 72.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            11 |   0.590909 |
+| Blagnac |            12 |      0.625 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Narbonne                   |         1 |        0.5 |
 | Nice                       |         1 |        0   |
 | Rennes                     |         1 |        1   |
+| Suresnes                   |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | US Bressane                |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        0   |

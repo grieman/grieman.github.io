@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Sanchez  
-date: 2022-12-09 13:14:23.772022  
+date: 2022-12-12 15:00:09.324488  
 categories: player  
 ---
 # Nicolas Sanchez
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 126.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

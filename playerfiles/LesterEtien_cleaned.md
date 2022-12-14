@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lester Etien  
-date: 2022-12-09 13:21:39.119450  
+date: 2022-12-14 11:14:04.890527  
 categories: player  
 ---
 # Lester Etien
 
 ## Positions: W
 
-## Current elo: 120.0
+## Current elo: 122.0
 
-## Current Percentile: 93.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |            72 |   0.451389 |
+| Stade Francais Paris |            73 |   0.458904 |
 | Massy                |            27 |   0.444444 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,25 +35,26 @@ categories: player
 | Agen                |         5 |   0.6      |
 | Bordeaux Begles     |         5 |   0.2      |
 | Montpellier Herault |         4 |   0.125    |
-| Lyon                |         4 |   0        |
 | Biarritz Olympique  |         4 |   0.5      |
+| Lyon                |         4 |   0        |
 | Racing 92           |         3 |   0.333333 |
 | Carcassonne         |         3 |   0.666667 |
+| Castres Olympique   |         3 |   0.666667 |
+| Clermont Auvergne   |         3 |   0        |
+| Dax                 |         3 |   0.333333 |
+| Grenoble            |         3 |   0.666667 |
 | Mont-de-Marsan      |         3 |   0.333333 |
 | Brive               |         3 |   0.333333 |
-| Grenoble            |         3 |   0.666667 |
-| Dax                 |         3 |   0.333333 |
-| Clermont Auvergne   |         3 |   0        |
-| Castres Olympique   |         3 |   0.666667 |
-| Aurillac            |         2 |   0.5      |
 | Ospreys             |         2 |   0.5      |
+| Aurillac            |         2 |   0.5      |
 | Soyaux-Angouleme    |         2 |   0.5      |
-| Montauban           |         1 |   0        |
-| Connacht            |         1 |   0        |
-| Narbonne            |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
-| Bourgoin-Jallieu    |         1 |   0        |
-| Colomiers           |         1 |   1        |
+| Benetton Treviso    |         1 |   1        |
 | Vannes              |         1 |   1        |
 | Worcester Warriors  |         1 |   0        |
+| Bristol Rugby       |         1 |   0        |
+| Montauban           |         1 |   0        |
+| Bourgoin-Jallieu    |         1 |   0        |
+| Narbonne            |         1 |   1        |
+| Connacht            |         1 |   0        |
+| Colomiers           |         1 |   1        |
 | Zebre               |         1 |   1        |

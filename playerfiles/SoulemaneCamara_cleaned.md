@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Soulemane Camara  
-date: 2022-11-22 11:38:07.764796  
+date: 2022-12-14 11:19:52.756222  
 categories: player  
 ---
 # Soulemane Camara
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

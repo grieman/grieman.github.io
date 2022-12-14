@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Burns  
-date: 2022-12-09 13:08:16.747618  
+date: 2022-12-12 14:59:09.251203  
 categories: player  
 ---
 # Freddie Burns

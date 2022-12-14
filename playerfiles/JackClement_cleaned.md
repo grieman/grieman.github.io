@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Clement  
-date: 2022-11-22 11:29:58.472786  
+date: 2022-12-14 11:35:49.253853  
 categories: player  
 ---
 # Jack Clement
 
 ## Positions: FL, N8
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 42.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            34 |   0.544118 |
+| Gloucester Rugby |            35 |   0.557143 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -37,3 +37,4 @@ categories: player
 | Bristol Rugby      |         2 |   0        |
 | Wasps              |         2 |   1        |
 | Bath Rugby         |         1 |   1        |
+| Bordeaux Begles    |         1 |   1        |

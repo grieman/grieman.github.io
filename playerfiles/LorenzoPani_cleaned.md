@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lorenzo Pani  
-date: 2022-12-09 13:06:38.080352  
+date: 2022-12-14 11:34:32.880062  
 categories: player  
 ---
 # Lorenzo Pani
 
 ## Positions: FB, W
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 67.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Zebre            |            10 |       0    |
+| Zebre            |            11 |       0    |
 | Benetton Treviso |             2 |       0.25 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -34,4 +34,5 @@ categories: player
 | Munster          |         1 |       0    |
 | Scarlets         |         1 |       0    |
 | Stormers         |         1 |       0    |
+| Toulon           |         1 |       0    |
 | Ulster           |         1 |       0    |

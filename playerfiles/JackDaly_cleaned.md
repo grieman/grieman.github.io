@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Daly  
-date: 2022-12-09 13:23:11.812757  
+date: 2022-12-12 15:21:40.479634  
 categories: player  
 ---
 # Jack Daly

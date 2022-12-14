@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Ribbans  
-date: 2022-12-09 13:12:54.915501  
+date: 2022-12-14 11:20:00.710622  
 categories: player  
 ---
 # David Ribbans
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 109.0
+## Current elo: 107.0
 
 ## Current Percentile: 89.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            99 |   0.454545 |
-| England            |             4 |   0.375    |
+| Northampton Saints |           100 |      0.45  |
+| England            |             4 |      0.375 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -43,6 +43,7 @@ categories: player
 | Dragons            |         2 |   1        |
 | Ospreys            |         2 |   0        |
 | Clermont Auvergne  |         2 |   0        |
+| La Rochelle        |         1 |   0        |
 | Japan              |         1 |   1        |
 | Lyon               |         1 |   1        |
 | New Zealand        |         1 |   0.5      |

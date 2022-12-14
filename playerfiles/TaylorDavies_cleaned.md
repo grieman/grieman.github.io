@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taylor Davies  
-date: 2022-12-09 13:14:27.793332  
+date: 2022-12-14 11:32:45.510407  
 categories: player  
 ---
 # Taylor Davies
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 13.0
+## Current Percentile: 12.0
 
 # Elo History
 

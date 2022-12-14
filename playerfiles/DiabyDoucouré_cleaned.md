@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diaby Doucouré  
-date: 2022-12-09 13:24:08.437627  
+date: 2022-12-12 15:19:14.019220  
 categories: player  
 ---
 # Diaby Doucouré
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 22.0
+## Current Percentile: 23.0
 
 # Elo History
 

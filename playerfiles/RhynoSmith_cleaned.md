@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhyno Smith  
-date: 2022-12-09 13:09:36.015960  
+date: 2022-12-12 15:35:48.761164  
 categories: player  
 ---
 # Rhyno Smith
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 72.0
+## Current Percentile: 71.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Will Edwards  
-date: 2022-12-09 13:15:31.939137  
+date: 2022-12-14 11:14:06.545641  
 categories: player  
 ---
 # Will Edwards
 
 ## Positions: FH, FB
 
-## Current elo: 110.0
+## Current elo: 109.0
 
 ## Current Percentile: 82.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            20 |        0.7 |
-| Saracens   |             1 |        1   |
+| Harlequins |            21 |   0.666667 |
+| Saracens   |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -36,4 +36,5 @@ categories: player
 | Bristol Rugby      |         1 |   1        |
 | Northampton Saints |         1 |   1        |
 | Ospreys            |         1 |   1        |
+| Sharks             |         1 |   0        |
 | Worcester Warriors |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maro Itoje  
-date: 2022-11-22 11:31:00.571979  
+date: 2022-12-14 11:27:45.272382  
 categories: player  
 ---
 # Maro Itoje
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 119.0
+## Current elo: 113.0
 
-## Current Percentile: 96.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           148 |   0.810811 |
-| England                 |            57 |   0.675439 |
+| Saracens                |           149 |   0.812081 |
+| England                 |            58 |   0.663793 |
 | British and Irish Lions |             9 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -34,9 +34,9 @@ categories: player
 | Bath Rugby          |        12 |   0.791667 |
 | Harlequins          |        11 |   0.727273 |
 | Wasps               |        11 |   0.909091 |
+| South Africa        |        10 |   0.4      |
 | Australia           |         9 |   0.888889 |
 | Newcastle Falcons   |         9 |   1        |
-| South Africa        |         9 |   0.444444 |
 | Ireland             |         8 |   0.5      |
 | Sale Sharks         |         7 |   0.857143 |
 | Bristol Rugby       |         7 |   0.714286 |
@@ -55,22 +55,22 @@ categories: player
 | Clermont Auvergne   |         3 |   0.333333 |
 | Ospreys             |         3 |   0.833333 |
 | Leinster            |         3 |   0.666667 |
-| Japan               |         2 |   1        |
 | Argentina           |         2 |   0.5      |
 | Ulster              |         2 |   1        |
 | Toulon              |         2 |   1        |
 | Tonga               |         2 |   1        |
 | Oyonnax             |         2 |   1        |
+| Edinburgh           |         2 |   0.5      |
 | Lyon                |         2 |   1        |
 | Scarlets            |         2 |   0.75     |
+| Japan               |         2 |   1        |
 | London Welsh        |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
 | Bedford             |         1 |   1        |
 | Blues               |         1 |   0        |
 | Stade Toulousain    |         1 |   1        |
-| Cardiff Blues       |         1 |   1        |
 | Coventry            |         1 |   1        |
 | Samoa               |         1 |   1        |
-| Edinburgh           |         1 |   0        |
 | Nottingham          |         1 |   1        |
 | Crusaders           |         1 |   1        |
 | Doncaster           |         1 |   1        |

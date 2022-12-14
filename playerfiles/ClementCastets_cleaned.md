@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Castets  
-date: 2022-12-09 13:10:36.036272  
+date: 2022-12-12 15:04:42.117941  
 categories: player  
 ---
 # Clement Castets
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 

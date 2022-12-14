@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yohann Artru  
-date: 2022-12-09 13:17:25.786853  
+date: 2022-12-12 15:41:00.204920  
 categories: player  
 ---
 # Yohann Artru

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Frédéric Quercy  
-date: 2022-12-09 13:09:19.557191  
+date: 2022-12-12 15:03:51.734643  
 categories: player  
 ---
 # Frédéric Quercy

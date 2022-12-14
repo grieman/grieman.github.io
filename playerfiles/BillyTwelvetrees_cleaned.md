@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Twelvetrees  
-date: 2022-12-09 13:18:26.293457  
+date: 2022-12-14 11:24:56.603226  
 categories: player  
 ---
 # Billy Twelvetrees
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           252 |   0.527778 |
+| Gloucester Rugby |           253 |   0.529644 |
 | Leicester Tigers |            58 |   0.681034 |
 | England          |            21 |   0.761905 |
 
@@ -64,6 +64,7 @@ categories: player
 | Bayonne              |         2 |   1        |
 | Pau                  |         2 |   0        |
 | Leeds                |         2 |   1        |
+| Bordeaux Begles      |         2 |   1        |
 | New Zealand          |         2 |   0        |
 | Montpellier Herault  |         2 |   0.5      |
 | Mont-de-Marsan       |         2 |   1        |
@@ -72,7 +73,6 @@ categories: player
 | Agen                 |         2 |   1        |
 | Ospreys              |         1 |   0.5      |
 | Aironi               |         1 |   1        |
-| Bordeaux Begles      |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |

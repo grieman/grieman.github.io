@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Chouzenoux  
-date: 2022-12-09 13:17:26.673852  
+date: 2022-12-14 11:21:18.442337  
 categories: player  
 ---
 # Baptiste Chouzenoux
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 54.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,22 +21,22 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |           124 |    0.66129 |
+| Racing 92 |           125 |    0.656   |
 | Bayonne   |            48 |    0.46875 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |        14 |   0.464286 |
 | Clermont Auvergne    |        13 |   0.653846 |
-| Pau                  |        12 |   0.708333 |
-| Bordeaux Begles      |        12 |   0.5      |
 | Castres Olympique    |        12 |   0.541667 |
-| Lyon                 |        10 |   0.55     |
+| Bordeaux Begles      |        12 |   0.5      |
+| Pau                  |        12 |   0.708333 |
 | Toulon               |        10 |   0.6      |
+| Lyon                 |        10 |   0.55     |
 | Stade Toulousain     |         9 |   0.333333 |
 | Stade Francais Paris |         9 |   0.666667 |
-| Brive                |         8 |   0.875    |
 | Montpellier Herault  |         8 |   0.75     |
+| Brive                |         8 |   0.875    |
 | Grenoble             |         5 |   0.6      |
 | Agen                 |         5 |   0.7      |
 | Perpignan            |         4 |   0.75     |
@@ -44,23 +44,23 @@ categories: player
 | Leicester Tigers     |         4 |   1        |
 | Saracens             |         3 |   0.666667 |
 | Racing 92            |         3 |   0        |
-| Connacht             |         2 |   0        |
-| Biarritz Olympique   |         2 |   0.5      |
+| Narbonne             |         2 |   1        |
 | Tarbes               |         2 |   0.5      |
+| Leinster             |         2 |   0        |
+| Connacht             |         2 |   0        |
+| Colomiers            |         2 |   0.75     |
 | Albi                 |         2 |   1        |
 | Bayonne              |         2 |   0.5      |
-| Colomiers            |         2 |   0.75     |
-| Narbonne             |         2 |   1        |
-| Oyonnax              |         1 |   1        |
-| Scarlets             |         1 |   1        |
-| Leinster             |         1 |   0        |
-| Ospreys              |         1 |   1        |
-| Montauban            |         1 |   0        |
-| Mont-de-Marsan       |         1 |   1        |
-| Gloucester Rugby     |         1 |   0        |
-| Exeter Chiefs        |         1 |   1        |
-| Dax                  |         1 |   0        |
-| Carcassonne          |         1 |   1        |
-| Bourgoin-Jallieu     |         1 |   1        |
+| Biarritz Olympique   |         2 |   0.5      |
 | Beziers              |         1 |   1        |
+| Bourgoin-Jallieu     |         1 |   1        |
+| Scarlets             |         1 |   1        |
+| Carcassonne          |         1 |   1        |
+| Mont-de-Marsan       |         1 |   1        |
+| Montauban            |         1 |   0        |
+| Dax                  |         1 |   0        |
+| Oyonnax              |         1 |   1        |
+| Ospreys              |         1 |   1        |
+| Exeter Chiefs        |         1 |   1        |
+| Gloucester Rugby     |         1 |   0        |
 | Ulster               |         1 |   0        |

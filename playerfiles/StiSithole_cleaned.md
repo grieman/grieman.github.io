@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sti Sithole  
-date: 2022-12-09 13:22:40.286213  
+date: 2022-12-14 11:15:30.564291  
 categories: player  
 ---
 # Sti Sithole
 
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 103.0
 
-## Current Percentile: 80.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Lions          |            45 |  0.511111  |
+| Lions          |            46 |  0.51087   |
 | Golden Lions   |            25 |  0.58      |
 | Southern Kings |            11 |  0.0909091 |
 | Stormers       |             3 |  0.666667  |
@@ -31,12 +31,13 @@ categories: player
 | Bulls                    |         7 |   0.285714 |
 | Sharks                   |         7 |   0.142857 |
 | Griquas                  |         6 |   0.833333 |
-| Stormers                 |         5 |   0.4      |
 | Blue Bulls               |         5 |   0.2      |
+| Stormers                 |         5 |   0.4      |
 | Free State Cheetahs      |         4 |   0.875    |
 | Western Province         |         4 |   0.75     |
 | Natal Sharks             |         4 |   0.25     |
 | Sunwolves                |         3 |   1        |
+| Dragons                  |         3 |   0.833333 |
 | New South Wales Waratahs |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
 | Scarlets                 |         2 |   0.5      |
@@ -44,7 +45,6 @@ categories: player
 | Ospreys                  |         2 |   1        |
 | Pumas                    |         2 |   0.5      |
 | Edinburgh                |         2 |   1        |
-| Dragons                  |         2 |   1        |
 | Crusaders                |         2 |   0        |
 | Chiefs                   |         2 |   0.5      |
 | Ulster                   |         2 |   0        |

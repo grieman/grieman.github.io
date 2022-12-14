@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Peter Nelson  
-date: 2022-12-09 13:16:55.146446  
+date: 2022-12-14 11:17:40.131800  
 categories: player  
 ---
 # Peter Nelson
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Ulster      |            73 |   0.705479 |
-| Aurillac    |            10 |   0.5      |
+| Aurillac    |            11 |   0.545455 |
 | Canada      |             9 |   0.111111 |
 | US Bressane |             7 |   1        |
 | Munster     |             1 |   1        |
@@ -40,15 +40,15 @@ categories: player
 | Zebre                    |         6 |   0.833333 |
 | Scarlets                 |         5 |   0.6      |
 | Ospreys                  |         4 |   0.75     |
-| Cheetahs                 |         2 |   0.75     |
+| Vannes                   |         2 |   0.5      |
 | Southern Kings           |         2 |   1        |
 | Harlequins               |         2 |   1        |
+| Cheetahs                 |         2 |   0.75     |
 | United States of America |         2 |   0        |
 | Cardiff Blues            |         2 |   0.5      |
 | Colomiers                |         2 |   1        |
 | Glasgow Warriors         |         2 |   1        |
 | Provence Rugby           |         1 |   1        |
-| Vannes                   |         1 |   0        |
 | Spain                    |         1 |   0        |
 | Tarbes                   |         1 |   1        |
 | US Bressane              |         1 |   0        |

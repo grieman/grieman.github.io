@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Lazzaroni  
-date: 2022-12-09 13:21:59.200613  
+date: 2022-12-14 11:25:54.465141  
 categories: player  
 ---
 # Marco Lazzaroni
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |           121 |  0.293388  |
+| Benetton Treviso |           122 |  0.290984  |
 | Italy            |            12 |  0.0833333 |
 | Mogliano         |             4 |  0         |
 
@@ -42,12 +42,12 @@ categories: player
 | Ospreys              |         6 |  0.166667  |
 | Ireland              |         4 |  0         |
 | Northampton Saints   |         3 |  0         |
+| Stade Francais Paris |         3 |  0         |
 | Southern Kings       |         3 |  1         |
 | Bayonne              |         2 |  1         |
 | Wales                |         2 |  0         |
 | Bath Rugby           |         2 |  0         |
 | Toulon               |         2 |  0         |
-| Stade Francais Paris |         2 |  0         |
 | Agen                 |         2 |  0.5       |
 | England              |         2 |  0         |
 | Leicester Tigers     |         2 |  0         |

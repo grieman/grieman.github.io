@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Morgan Morris  
-date: 2022-12-09 13:04:43.612061  
+date: 2022-12-14 11:36:47.492775  
 categories: player  
 ---
 # Morgan Morris
 
 ## Positions: N8, FL
 
-## Current elo: 86.0
+## Current elo: 82.0
 
-## Current Percentile: 9.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ospreys |            56 |   0.348214 |
+| Ospreys |            57 |   0.342105 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,15 +32,16 @@ categories: player
 | Ulster             |         4 |   0.25     |
 | Munster            |         3 |   0.333333 |
 | Lions              |         2 |   0        |
+| Bulls              |         2 |   0        |
 | Stormers           |         2 |   0.25     |
 | Sharks             |         2 |   0        |
 | Saracens           |         2 |   0        |
 | Racing 92          |         2 |   0        |
 | Zebre              |         2 |   1        |
-| Bulls              |         2 |   0        |
 | Leinster           |         2 |   0.5      |
 | Glasgow Warriors   |         2 |   0        |
 | Edinburgh          |         2 |   1        |
+| Leicester Tigers   |         1 |   0        |
 | Gloucester Rugby   |         1 |   0        |
 | Southern Kings     |         1 |   0        |
 | Cheetahs           |         1 |   0        |

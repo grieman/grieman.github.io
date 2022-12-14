@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cobus Reinach  
-date: 2022-12-09 13:21:04.814668  
+date: 2022-12-14 11:31:54.605003  
 categories: player  
 ---
 # Cobus Reinach
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 113.0
+## Current elo: 115.0
 
 ## Current Percentile: 90.0
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Northampton Saints  |            72 |   0.430556 |
 | Sharks              |            60 |   0.55     |
-| Montpellier Herault |            42 |   0.511905 |
+| Montpellier Herault |            43 |   0.523256 |
 | South Africa        |            22 |   0.727273 |
 | Natal Sharks        |            16 |   0.65625  |
 
@@ -51,13 +51,13 @@ categories: player
 | Gloucester Rugby         |         5 |   0.4      |
 | Newcastle Falcons        |         4 |   0.25     |
 | Castres Olympique        |         4 |   0.25     |
+| London Irish             |         4 |   0.75     |
 | Argentina                |         4 |   0.75     |
 | Bath Rugby               |         4 |   0.25     |
 | Australia                |         4 |   0.75     |
 | Racing 92                |         4 |   0.25     |
 | La Rochelle              |         3 |   0.666667 |
 | Jaguares                 |         3 |   1        |
-| London Irish             |         3 |   0.666667 |
 | Pau                      |         3 |   0.333333 |
 | Stade Francais Paris     |         3 |   1        |
 | Queensland Reds          |         3 |   0.666667 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Renato Giammarioli  
-date: 2022-11-16 11:37:03.119151  
+date: 2022-12-14 11:28:25.872115  
 categories: player  
 ---
 # Renato Giammarioli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: 73.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Zebre           |            64 |   0.257812 |
 | Italy           |             8 |   0.25     |
 | Calvisano       |             5 |   0        |
-| Bordeaux Begles |             1 |   0        |
+| Bordeaux Begles |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,18 +41,19 @@ categories: player
 | Cardiff Blues        |         4 |       0.25 |
 | Bristol Rugby        |         3 |       0.5  |
 | Scarlets             |         3 |       0    |
-| RC Enisei            |         2 |       1    |
 | Dragons              |         2 |       1    |
+| Gloucester Rugby     |         2 |       0    |
 | Harlequins           |         2 |       0    |
 | Ireland              |         2 |       0    |
 | Cheetahs             |         2 |       0    |
 | Southern Kings       |         2 |       1    |
+| RC Enisei            |         2 |       1    |
 | England              |         1 |       0    |
+| Romania              |         1 |       1    |
 | Stormers             |         1 |       0    |
 | Stade Francais Paris |         1 |       0    |
 | South Africa         |         1 |       0    |
 | Sharks               |         1 |       0    |
-| Romania              |         1 |       1    |
 | Oyonnax              |         1 |       0    |
 | Portugal             |         1 |       1    |
 | Pau                  |         1 |       0    |
@@ -60,5 +61,4 @@ categories: player
 | Brive                |         1 |       1    |
 | New Zealand          |         1 |       0    |
 | Lions                |         1 |       0    |
-| Gloucester Rugby     |         1 |       0    |
 | Montpellier Herault  |         1 |       0    |

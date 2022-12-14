@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Godwin  
-date: 2022-12-09 13:07:05.898001  
+date: 2022-12-14 11:16:11.803923  
 categories: player  
 ---
 # Kyle Godwin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 90.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Connacht           |            38 |   0.526316 |
 | Brumbies           |            24 |   0.5      |
 | NSW Country Eagles |            13 |   0.807692 |
-| Lyon               |            11 |   0.636364 |
+| Lyon               |            12 |   0.583333 |
 | Perth Spirit       |             8 |   0.625    |
 | Australia          |             1 |   1        |
 
@@ -41,9 +41,9 @@ categories: player
 | Highlanders              |         7 |   0.285714 |
 | Chiefs                   |         6 |   0.166667 |
 | Crusaders                |         6 |   0.166667 |
+| Bulls                    |         6 |   0.333333 |
 | Southern Kings           |         5 |   0.8      |
 | Blues                    |         5 |   0        |
-| Bulls                    |         5 |   0.4      |
 | Queensland Country       |         4 |   0.5      |
 | Leinster                 |         4 |   0        |
 | Hurricanes               |         4 |   0.5      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Youssef Amrouni  
-date: 2022-12-09 13:20:27.731836  
+date: 2022-12-14 11:18:48.620343  
 categories: player  
 ---
 # Youssef Amrouni
 
 ## Positions: P
 
-## Current elo: 78.0
+## Current elo: 80.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Aurillac    |            29 |   0.431034 |
-| Carcassonne |            14 |   0.285714 |
+| Carcassonne |            15 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -41,7 +41,8 @@ categories: player
 | Aurillac           |         2 |   0.5      |
 | Colomiers          |         2 |   0        |
 | Beziers            |         2 |   0.5      |
-| Montauban          |         1 |   0.5      |
+| Nevers             |         1 |   1        |
+| Mont-de-Marsan     |         1 |   1        |
 | Carcassonne        |         1 |   1        |
 | Bayonne            |         1 |   0        |
-| Mont-de-Marsan     |         1 |   1        |
+| Montauban          |         1 |   0.5      |

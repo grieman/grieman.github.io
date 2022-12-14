@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Belair  
-date: 2022-12-09 13:21:58.475756  
+date: 2022-12-14 11:21:29.767695  
 categories: player  
 ---
 # Théo Belair
 
-## Positions: C
+## Positions: C, W
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: None
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |             4 |          0 |
+| Tarbes |             5 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |         1 |          0 |
 | Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
+| US Bressane                |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

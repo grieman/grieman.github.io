@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jan Hendrik Wessels  
-date: 2022-12-09 13:03:57.301080  
+date: 2022-12-14 11:34:25.587677  
 categories: player  
 ---
 # Jan Hendrik Wessels
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |             9 |   0.777778 |
+| Bulls      |            10 |   0.8      |
 | Blue Bulls |             6 |   0.833333 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -36,6 +36,7 @@ categories: player
 | Golden Lions        |         1 |        1   |
 | Griquas             |         1 |        1   |
 | Lions               |         1 |        1   |
+| Lyon                |         1 |        1   |
 | Munster             |         1 |        0   |
 | Ospreys             |         1 |        1   |
 | Sharks              |         1 |        1   |

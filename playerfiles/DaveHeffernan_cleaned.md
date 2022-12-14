@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave Heffernan  
-date: 2022-12-09 13:08:58.905971  
+date: 2022-12-12 15:32:05.223265  
 categories: player  
 ---
 # Dave Heffernan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 52.0
+## Current Percentile: 51.0
 
 # Elo History
 

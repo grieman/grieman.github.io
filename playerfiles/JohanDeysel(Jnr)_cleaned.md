@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johan Deysel (Jnr)  
-date: 2022-12-09 13:24:06.832627  
+date: 2022-12-12 14:52:58.876059  
 categories: player  
 ---
 # Johan Deysel (Jnr)
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 86.0
+## Current Percentile: 87.0
 
 # Elo History
 

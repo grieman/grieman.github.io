@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bongi Mbonambi  
-date: 2022-12-09 13:15:39.273029  
+date: 2022-12-14 11:18:06.071234  
 categories: player  
 ---
 # Bongi Mbonambi
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 120.0
+## Current elo: 122.0
 
 ## Current Percentile: 97.0
 
@@ -27,8 +27,8 @@ categories: player
 | South Africa     |            62 |   0.645161 |
 | Bulls            |            19 |   0.5      |
 | Western Province |            18 |   0.666667 |
+| Sharks           |            17 |   0.735294 |
 | Blue Bulls       |            16 |   0.375    |
-| Sharks           |            16 |   0.71875  |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -51,24 +51,24 @@ categories: player
 | Hurricanes               |         5 |   0.2      |
 | Griquas                  |         5 |   1        |
 | Ireland                  |         5 |   0.4      |
-| Chiefs                   |         4 |   0.375    |
 | Western Province         |         4 |   0        |
+| Chiefs                   |         4 |   0.375    |
+| Blue Bulls               |         4 |   0.5      |
 | Blues                    |         4 |   0.75     |
 | Natal Sharks             |         4 |   0.25     |
-| Blue Bulls               |         4 |   0.5      |
-| Melbourne Rebels         |         3 |   1        |
 | New South Wales Waratahs |         3 |   0.333333 |
-| British and Irish Lions  |         3 |   0.666667 |
-| Crusaders                |         3 |   0.5      |
-| Italy                    |         3 |   1        |
 | Western Force            |         3 |   0.666667 |
-| Eastern Province Kings   |         3 |   1        |
 | Highlanders              |         3 |   0        |
-| Japan                    |         2 |   1        |
-| Scotland                 |         2 |   1        |
+| Eastern Province Kings   |         3 |   1        |
+| Italy                    |         3 |   1        |
+| Crusaders                |         3 |   0.5      |
+| British and Irish Lions  |         3 |   0.666667 |
+| Melbourne Rebels         |         3 |   1        |
 | Southern Kings           |         2 |   1        |
 | Pumas                    |         2 |   1        |
 | Queensland Reds          |         2 |   0.5      |
+| Scotland                 |         2 |   1        |
+| Japan                    |         2 |   1        |
 | Benetton Treviso         |         1 |   1        |
 | Ulster                   |         1 |   0        |
 | Glasgow Warriors         |         1 |   1        |
@@ -79,5 +79,6 @@ categories: player
 | Connacht                 |         1 |   1        |
 | Leinster                 |         1 |   1        |
 | Dragons                  |         1 |   1        |
+| Harlequins               |         1 |   1        |
 | Edinburgh                |         1 |   0        |
 | Zebre                    |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Iturria  
-date: 2022-12-09 13:05:11.123876  
+date: 2022-12-14 11:26:33.474670  
 categories: player  
 ---
 # Arthur Iturria
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 104.0
+## Current elo: 106.0
 
-## Current Percentile: 73.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           110 |   0.663636 |
+| Clermont Auvergne |           111 |   0.666667 |
 | France            |            15 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,20 +45,21 @@ categories: player
 | Bayonne                  |         3 |   0.333333 |
 | Grenoble                 |         3 |   1        |
 | Ulster                   |         3 |   0.666667 |
-| Perpignan                |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
-| England                  |         2 |   0        |
+| Perpignan                |         2 |   1        |
 | Argentina                |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Ireland                  |         2 |   0        |
 | Harlequins               |         2 |   1        |
+| England                  |         2 |   0        |
 | Biarritz Olympique       |         1 |   1        |
-| Timisoara Saracens       |         1 |   1        |
 | United States of America |         1 |   1        |
+| Timisoara Saracens       |         1 |   1        |
+| Stormers                 |         1 |   1        |
 | Fiji                     |         1 |   0        |
-| Dragons                  |         1 |   1        |
 | South Africa             |         1 |   0        |
 | Saracens                 |         1 |   0        |
+| Dragons                  |         1 |   1        |
 | Oyonnax                  |         1 |   0        |
 | Ospreys                  |         1 |   1        |
 | Leinster                 |         1 |   1        |

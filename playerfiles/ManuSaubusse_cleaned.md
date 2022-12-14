@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Manu Saubusse  
-date: 2022-12-09 13:04:42.722561  
+date: 2022-12-14 11:17:47.660096  
 categories: player  
 ---
 # Manu Saubusse
 
 ## Positions: SH
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 78.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -23,28 +23,28 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Bayonne          |            69 |   0.369565 |
 | Mont-de-Marsan   |            37 |   0.635135 |
-| Soyaux-Angouleme |            23 |   0.652174 |
+| Soyaux-Angouleme |            24 |   0.625    |
 | Bordeaux Begles  |            21 |   0.238095 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Carcassonne                |         6 |   0.5      |
+| Perpignan                  |         6 |   0.5      |
 | Aurillac                   |         6 |   0.666667 |
 | Toulon                     |         6 |   0.166667 |
-| Perpignan                  |         6 |   0.5      |
+| Carcassonne                |         6 |   0.5      |
 | Mont-de-Marsan             |         5 |   0.3      |
 | Vannes                     |         5 |   0.4      |
 | Narbonne                   |         5 |   0.6      |
 | Grenoble                   |         5 |   0.2      |
-| Colomiers                  |         5 |   0.9      |
+| Biarritz Olympique         |         5 |   0.4      |
 | Montauban                  |         5 |   0.6      |
+| Colomiers                  |         5 |   0.9      |
 | Albi                       |         5 |   1        |
 | Dax                        |         4 |   0.625    |
 | Nevers                     |         4 |   0.25     |
 | Brive                      |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.5      |
 | Montpellier Herault        |         4 |   0        |
-| Biarritz Olympique         |         4 |   0.5      |
 | Beziers                    |         4 |   0.5      |
 | Racing 92                  |         4 |   0        |
 | Lyon                       |         3 |   0.166667 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aurelien Ricart  
-date: 2022-12-09 13:05:08.210375  
+date: 2022-12-14 11:35:43.858393  
 categories: player  
 ---
 # Aurelien Ricart

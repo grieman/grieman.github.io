@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josh Bassett  
-date: 2022-12-09 13:17:36.084899  
+date: 2022-12-14 11:33:58.286423  
 categories: player  
 ---
 # Josh Bassett
 
 ## Positions: W
 
-## Current elo: 119.0
+## Current elo: 116.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -22,22 +22,22 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Wasps      |           176 |   0.542614 |
-| Harlequins |             3 |   1        |
+| Harlequins |             4 |   0.75     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Gloucester Rugby   |        16 |   0.40625  |
+| Leicester Tigers   |        14 |   0.571429 |
 | Bath Rugby         |        14 |   0.535714 |
 | Exeter Chiefs      |        14 |   0.464286 |
-| Leicester Tigers   |        14 |   0.571429 |
 | Worcester Warriors |        13 |   0.923077 |
 | Sale Sharks        |        13 |   0.230769 |
 | Northampton Saints |        13 |   0.615385 |
 | London Irish       |        12 |   0.791667 |
-| Harlequins         |        11 |   0.454545 |
 | Bristol Rugby      |        11 |   0.727273 |
 | Saracens           |        11 |   0.454545 |
 | Newcastle Falcons  |        11 |   0.727273 |
+| Harlequins         |        11 |   0.454545 |
 | Stade Toulousain   |         5 |   0.5      |
 | Leinster           |         4 |   0.25     |
 | Munster            |         2 |   0        |
@@ -48,6 +48,7 @@ categories: player
 | Bordeaux Begles    |         2 |   0        |
 | Arix Viadana       |         1 |   1        |
 | Cardiff Blues      |         1 |   0        |
+| Sharks             |         1 |   0        |
 | Ulster             |         1 |   0        |
 | Bayonne            |         1 |   1        |
 | Agen               |         1 |   1        |

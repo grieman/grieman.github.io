@@ -4,10 +4,10 @@ title: Saracens at Lyon
 date: 2022-12-17 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Saracens (~1618.21) at Lyon (~1516.85)
+# Saracens (~1625.8) at Lyon (~1522.17)
 
-# Prediction: Saracens by 7.1
+# Prediction: Saracens by 7.4
 
 
-Saracens by 10.1 on a neutral pitch
+Saracens by 10.4 on a neutral pitch
 

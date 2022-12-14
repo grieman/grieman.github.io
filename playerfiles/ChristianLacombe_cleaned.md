@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Christian Lacombe  
-date: 2022-12-09 13:08:14.067658  
+date: 2022-12-14 11:33:47.149188  
 categories: player  
 ---
 # Christian Lacombe
@@ -23,7 +23,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Agen        |             9 |   0        |
 | Chambery    |             6 |   0.333333 |
-| US Bressane |             4 |   0.75     |
+| US Bressane |             5 |   0.8      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,5 +40,6 @@ categories: player
 | Pau                        |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   1        |
 | Stade Toulousain           |         1 |   0        |
+| Tarbes                     |         1 |   1        |
 | Toulon                     |         1 |   0        |
 | Vannes                     |         1 |   0        |

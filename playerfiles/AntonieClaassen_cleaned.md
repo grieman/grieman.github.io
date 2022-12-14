@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antonie Claassen  
-date: 2022-11-22 11:43:49.182480  
+date: 2022-12-14 11:31:32.922728  
 categories: player  
 ---
 # Antonie Claassen
@@ -26,7 +26,7 @@ categories: player
 | Racing 92         |           151 |   0.652318 |
 | Brive             |           115 |   0.456522 |
 | Castres Olympique |            45 |   0.6      |
-| Suresnes          |            22 |   0.409091 |
+| Suresnes          |            24 |   0.416667 |
 | France            |             5 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -63,22 +63,22 @@ categories: player
 | Ulster                     |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0        |
 | Albi                       |         3 |   1        |
+| Blagnac                    |         3 |   0.333333 |
 | Leinster                   |         3 |   0        |
-| Scotland                   |         2 |   1        |
+| Chambery                   |         2 |   0.5      |
 | Auch                       |         2 |   1        |
 | Benetton Treviso           |         2 |   1        |
-| Blagnac                    |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
+| Scotland                   |         2 |   1        |
 | Sale Sharks                |         2 |   1        |
 | London Irish               |         2 |   0        |
 | Nice                       |         2 |   0        |
 | Newcastle Falcons          |         2 |   1        |
-| England                    |         1 |   0        |
 | Dijon                      |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | New Zealand                |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
-| Chambery                   |         1 |   0        |
+| England                    |         1 |   0        |
 | Exeter Chiefs              |         1 |   0        |
 | Ireland                    |         1 |   0.5      |
 | Carqueiranne-Hyères        |         1 |   1        |

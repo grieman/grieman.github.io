@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ronan Kelleher  
-date: 2022-12-09 13:15:51.368072  
+date: 2022-12-14 11:30:53.308268  
 categories: player  
 ---
 # Ronan Kelleher
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            23 |   0.913043 |
+| Leinster |            24 |   0.916667 |
 | Ireland  |            15 |   0.733333 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,6 +44,7 @@ categories: player
 | Lyon                     |         1 |   1        |
 | New Zealand              |         1 |   1        |
 | Northampton Saints       |         1 |   1        |
+| Racing 92                |         1 |   1        |
 | Saracens                 |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Southern Kings           |         1 |   1        |

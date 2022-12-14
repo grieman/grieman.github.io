@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simone Ferrari  
-date: 2022-11-22 11:46:06.149129  
+date: 2022-12-14 11:24:13.555436  
 categories: player  
 ---
 # Simone Ferrari
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 76.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            86 |   0.360465 |
+| Benetton Treviso |            88 |   0.363636 |
 | Italy            |            37 |   0.297297 |
 | Mogliano         |             4 |   0        |
 
@@ -34,9 +34,9 @@ categories: player
 | Dragons              |         8 |  0.625     |
 | Munster              |         7 |  0         |
 | Ulster               |         7 |  0.0714286 |
+| Edinburgh            |         7 |  0.428571  |
 | Scarlets             |         6 |  0.166667  |
 | Cardiff Blues        |         6 |  0.5       |
-| Edinburgh            |         6 |  0.333333  |
 | Ospreys              |         5 |  0.4       |
 | Glasgow Warriors     |         4 |  0.5       |
 | England              |         4 |  0         |
@@ -50,6 +50,7 @@ categories: player
 | Australia            |         3 |  0.333333  |
 | Harlequins           |         2 |  0.5       |
 | Fiji                 |         2 |  0.5       |
+| Stade Francais Paris |         2 |  0.5       |
 | Southern Kings       |         2 |  1         |
 | Bulls                |         2 |  0         |
 | Wales                |         2 |  0         |
@@ -57,7 +58,6 @@ categories: player
 | Russia               |         1 |  1         |
 | Toulon               |         1 |  0         |
 | Tonga                |         1 |  0         |
-| Stade Francais Paris |         1 |  1         |
 | Sharks               |         1 |  0         |
 | Samoa                |         1 |  1         |
 | Agen                 |         1 |  1         |

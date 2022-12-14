@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro Ceccarelli  
-date: 2022-12-09 13:22:11.083808  
+date: 2022-12-12 15:41:03.649921  
 categories: player  
 ---
 # Pietro Ceccarelli

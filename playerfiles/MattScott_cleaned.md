@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Scott  
-date: 2022-11-16 11:37:59.819523  
+date: 2022-12-14 11:19:59.875726  
 categories: player  
 ---
 # Matt Scott
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 66.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -24,16 +24,16 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Edinburgh        |            94 |   0.489362 |
-| Leicester Tigers |            48 |   0.604167 |
+| Leicester Tigers |            50 |   0.62     |
 | Scotland         |            37 |   0.432432 |
 | Gloucester Rugby |            35 |   0.442857 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Benetton Treviso         |        12 |   0.666667 |
-| Connacht                 |        10 |   0.7      |
+| London Irish             |        10 |   0.9      |
 | Glasgow Warriors         |        10 |   0.45     |
-| London Irish             |         9 |   0.888889 |
+| Connacht                 |        10 |   0.7      |
 | Exeter Chiefs            |         8 |   0.3125   |
 | Munster                  |         8 |   0.375    |
 | Harlequins               |         8 |   0.25     |
@@ -57,16 +57,16 @@ categories: player
 | South Africa             |         4 |   0        |
 | England                  |         4 |   0        |
 | Leicester Tigers         |         4 |   0.25     |
+| Ospreys                  |         3 |   0.666667 |
 | Wales                    |         3 |   0        |
 | France                   |         3 |   0        |
 | Samoa                    |         3 |   0.666667 |
 | Racing 92                |         3 |   0.666667 |
-| Bristol Rugby            |         2 |   0.5      |
 | Grenoble                 |         2 |   0.5      |
 | Toulon                   |         2 |   0.5      |
 | London Welsh             |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
-| Ospreys                  |         2 |   0.5      |
+| Bristol Rugby            |         2 |   0.5      |
 | Gloucester Rugby         |         2 |   1        |
 | Bayonne                  |         2 |   1        |
 | Stade Toulousain         |         1 |   1        |

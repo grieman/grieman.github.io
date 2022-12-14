@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason Jenkins  
-date: 2022-12-09 13:12:21.998641  
+date: 2022-12-14 11:11:50.050427  
 categories: player  
 ---
 # Jason Jenkins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 54.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bulls           |            52 |   0.451923 |
-| Leinster        |             8 |   1        |
+| Leinster        |             9 |   1        |
 | Toyota Verblitz |             7 |   0.714286 |
 | Munster         |             6 |   0.5      |
 | Blue Bulls      |             3 |   0.333333 |
@@ -52,15 +52,16 @@ categories: player
 | Blues                             |         2 |   0.25     |
 | Brumbies                          |         2 |   0        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |
-| Free State Cheetahs               |         1 |   0        |
+| Glasgow Warriors                  |         1 |   1        |
 | Wales                             |         1 |   0        |
 | Tokyo Sungoliath                  |         1 |   0        |
 | Cardiff Blues                     |         1 |   1        |
 | Coca-Cola Red Sparks              |         1 |   1        |
-| Glasgow Warriors                  |         1 |   1        |
-| Black Rams Tokyo                  |         1 |   1        |
+| Free State Cheetahs               |         1 |   0        |
 | Scarlets                          |         1 |   1        |
+| Black Rams Tokyo                  |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |
+| Racing 92                         |         1 |   1        |
 | Hino Red Dolphins                 |         1 |   1        |
 | New South Wales Waratahs          |         1 |   0        |
 | Munster                           |         1 |   1        |

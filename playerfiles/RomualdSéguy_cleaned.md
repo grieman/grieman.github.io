@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romuald Séguy  
-date: 2022-12-09 13:11:48.004653  
+date: 2022-12-14 11:26:39.705842  
 categories: player  
 ---
 # Romuald Séguy
 
 ## Positions: FH
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 23.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Colomiers      |            28 |   0.642857 |
+| Colomiers      |            29 |   0.655172 |
 | Carcassonne    |            23 |   0.543478 |
 | Perpignan      |             6 |   0.333333 |
 | Mont-de-Marsan |             5 |   0.4      |
@@ -42,6 +42,7 @@ categories: player
 | Rouen                      |         3 |   0.666667 |
 | US Bressane                |         3 |   0.333333 |
 | Bayonne                    |         2 |   0.5      |
+| Massy                      |         1 |   1        |
 | Brive                      |         1 |   1        |
 | Narbonne                   |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |

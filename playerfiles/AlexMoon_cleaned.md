@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Moon  
-date: 2022-12-09 13:03:58.876580  
+date: 2022-12-12 15:21:28.962629  
 categories: player  
 ---
 # Alex Moon
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

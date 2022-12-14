@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taleta Tupuola  
-date: 2022-12-09 13:10:17.785551  
+date: 2022-12-12 14:48:08.288467  
 categories: player  
 ---
 # Taleta Tupuola

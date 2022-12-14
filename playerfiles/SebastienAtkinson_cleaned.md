@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sebastien Atkinson  
-date: 2022-12-09 13:16:43.478396  
+date: 2022-12-14 11:24:35.103258  
 categories: player  
 ---
 # Sebastien Atkinson
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 89.0
 
-## Current Percentile: 28.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -22,10 +22,11 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |             5 |        0.2 |
-| Gloucester Rugby   |             1 |        1   |
+| Gloucester Rugby   |             2 |        1   |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Bordeaux Begles    |         1 |          1 |
 | Bristol Rugby      |         1 |          1 |
 | Harlequins         |         1 |          0 |
 | London Irish       |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luka Plataret  
-date: 2022-12-09 13:17:55.599417  
+date: 2022-12-12 15:06:55.591352  
 categories: player  
 ---
 # Luka Plataret

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Sio  
-date: 2022-11-22 11:38:42.494654  
+date: 2022-12-14 11:36:50.009858  
 categories: player  
 ---
 # Scott Sio
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 31.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Brumbies      |           142 |   0.591549 |
 | Australia     |            74 |   0.472973 |
-| Exeter Chiefs |             3 |   0.333333 |
+| Exeter Chiefs |             5 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -37,12 +37,12 @@ categories: player
 | Argentina                |        12 |   0.791667 |
 | Hurricanes               |        11 |   0.636364 |
 | South Africa             |        10 |   0.5      |
-| England                  |         9 |   0.222222 |
 | Chiefs                   |         9 |   0.555556 |
+| England                  |         9 |   0.222222 |
 | Highlanders              |         8 |   0.25     |
 | Blues                    |         8 |   0.25     |
-| Bulls                    |         7 |   0.857143 |
 | Crusaders                |         7 |   0        |
+| Bulls                    |         7 |   0.857143 |
 | Wales                    |         5 |   0.6      |
 | Sunwolves                |         5 |   1        |
 | Sharks                   |         5 |   0.8      |
@@ -52,16 +52,18 @@ categories: player
 | Cheetahs                 |         4 |   0.75     |
 | Lions                    |         3 |   0.666667 |
 | Jaguares                 |         3 |   0        |
-| Fiji                     |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Fijian Drua              |         2 |   1        |
+| Fiji                     |         2 |   1        |
 | London Irish             |         1 |   1        |
-| Northampton Saints       |         1 |   0        |
 | Japan                    |         1 |   1        |
+| Castres Olympique        |         1 |   1        |
+| Newcastle Falcons        |         1 |   0        |
+| Northampton Saints       |         1 |   0        |
 | Samoa                    |         1 |   1        |
 | Gloucester Rugby         |         1 |   0        |
-| Southern Kings           |         1 |   0.5      |
 | Georgia                  |         1 |   1        |
+| Southern Kings           |         1 |   0.5      |
 | France                   |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | Moana Pasifika           |         1 |   0        |

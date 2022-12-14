@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Patrick Tu'ugahala  
-date: 2022-12-09 13:19:33.253069  
+date: 2022-12-14 11:17:37.810324  
 categories: player  
 ---
 # Patrick Tu'ugahala
 
 ## Positions: H
 
-## Current elo: 90.0
+## Current elo: 89.0
 
 ## Current Percentile: 27.0
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             5 |          0 |
+| Rennes |             6 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
+| Bourgoin-Jallieu           |         1 |          0 |
 | Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |

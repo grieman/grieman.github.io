@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sikeli Nabou  
-date: 2022-12-09 13:18:45.812655  
+date: 2022-12-14 11:29:48.259588  
 categories: player  
 ---
 # Sikeli Nabou
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Soyaux-Angouleme   |            55 |   0.518182 |
+| Soyaux-Angouleme   |            56 |   0.508929 |
 | Counties Manukau   |            39 |   0.410256 |
 | Biarritz Olympique |            36 |   0.5      |
 | Fiji               |             4 |   0.5      |
@@ -42,22 +42,22 @@ categories: player
 | Montauban                  |         4 |   0.5      |
 | Hawke's Bay                |         4 |   0.5      |
 | Wellington                 |         4 |   0.25     |
+| Biarritz Olympique         |         4 |   0        |
 | Aurillac                   |         4 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   1        |
 | Canterbury                 |         4 |   0        |
-| Northland                  |         3 |   0.666667 |
 | Provence Rugby             |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Albi                       |         3 |   1        |
 | Massy                      |         3 |   0.666667 |
-| Manawatu                   |         3 |   0.333333 |
+| Northland                  |         3 |   0.666667 |
 | Tasman                     |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Vannes                     |         3 |   0.666667 |
 | Waikato                    |         3 |   0.666667 |
 | Dax                        |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.333333 |
-| Biarritz Olympique         |         3 |   0        |
+| Manawatu                   |         3 |   0.333333 |
 | Taranaki                   |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Bay of Plenty              |         2 |   0.5      |

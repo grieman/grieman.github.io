@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Bachiri  
-date: 2022-12-09 13:16:37.568403  
+date: 2022-12-14 11:20:47.813295  
 categories: player  
 ---
 # Théo Bachiri
 
 ## Positions: SH
 
-## Current elo: 95.0
+## Current elo: 92.0
 
-## Current Percentile: 30.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             8 |        0.5 |
+| Suresnes |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          1 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |

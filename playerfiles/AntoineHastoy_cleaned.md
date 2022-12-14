@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Hastoy  
-date: 2022-12-09 13:06:28.530808  
+date: 2022-12-14 11:24:31.970845  
 categories: player  
 ---
 # Antoine Hastoy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 84.0
+## Current elo: 85.0
 
-## Current Percentile: 13.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Pau         |           103 |   0.417476 |
-| La Rochelle |             8 |   0.5      |
+| La Rochelle |             9 |   0.555556 |
 | France      |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -49,6 +49,7 @@ categories: player
 | Grenoble             |         2 |  1         |
 | Biarritz Olympique   |         2 |  1         |
 | Bayonne              |         2 |  1         |
+| Northampton Saints   |         1 |  1         |
 | Australia            |         1 |  0         |
 | Oyonnax              |         1 |  1         |
 | Pau                  |         1 |  0         |

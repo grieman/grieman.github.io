@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Praud  
-date: 2022-12-09 13:19:19.779633  
+date: 2022-12-14 11:33:14.125734  
 categories: player  
 ---
 # Clément Praud
 
 ## Positions: L
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 18.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            44 |   0.284091 |
+| Cognac Saint Jean d'Angély |            45 |   0.277778 |
 | La Rochelle                |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Tarbes                     |         6 |   0.25     |
-| Albi                       |         4 |   0.25     |
+| Albi                       |         5 |   0.2      |
 | Bourgoin-Jallieu           |         4 |   0.25     |
 | Dijon                      |         4 |   1        |
 | Aubenas                    |         3 |   0.333333 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Romain Trouilloud  
-date: 2022-12-09 13:18:35.103630  
+date: 2022-12-14 11:14:10.365563  
 categories: player  
 ---
 # Romain Trouilloud
 
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 91.0
 
 ## Current Percentile: 42.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            15 |   0.566667 |
+| Grenoble |            16 |    0.53125 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Biarritz Olympique         |         1 |        0.5 |
 | Carcassonne                |         1 |        1   |
 | Colomiers                  |         1 |        0   |
+| Mont-de-Marsan             |         1 |        0   |
 | Montauban                  |         1 |        0   |
 | Oyonnax                    |         1 |        0   |
 | Provence Rugby             |         1 |        0   |

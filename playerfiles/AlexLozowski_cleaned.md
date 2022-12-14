@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Lozowski  
-date: 2022-11-22 11:47:31.345696  
+date: 2022-12-14 11:12:58.071153  
 categories: player  
 ---
 # Alex Lozowski
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 51.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Saracens            |           139 |   0.741007 |
+| Saracens            |           140 |   0.742857 |
 | Wasps               |            32 |   0.609375 |
 | Montpellier Herault |            20 |   0.45     |
 | England             |             5 |   1        |
@@ -58,12 +58,12 @@ categories: player
 | Scarlets             |         2 |   0.75     |
 | Brive                |         2 |   0.5      |
 | Agen                 |         2 |   1        |
+| Edinburgh            |         2 |   0.5      |
 | Lyon                 |         2 |   0.5      |
 | London Welsh         |         2 |   1        |
 | Japan                |         1 |   1        |
 | Samoa                |         1 |   1        |
 | Saracens             |         1 |   0        |
-| Edinburgh            |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
 | Bordeaux Begles      |         1 |   0        |
 | Pau                  |         1 |   0        |

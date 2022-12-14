@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wes Goosen  
-date: 2022-12-09 13:14:53.356955  
+date: 2022-12-14 11:19:12.576354  
 categories: player  
 ---
 # Wes Goosen
 
 ## Positions: W, C
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 90.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------|--------------:|-----------:|
 | Hurricanes |            70 |   0.6      |
 | Wellington |            52 |   0.644231 |
-| Edinburgh  |             4 |   0.5      |
+| Edinburgh  |             5 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -47,6 +47,7 @@ categories: player
 | Melbourne Rebels         |         3 |   1        |
 | Auckland                 |         3 |   0.333333 |
 | Bulls                    |         3 |   0.666667 |
+| Sunwolves                |         2 |   1        |
 | Western Force            |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
 | Jaguares                 |         2 |   0.5      |
@@ -54,11 +55,11 @@ categories: player
 | Moana Pasifika           |         2 |   0.5      |
 | Canterbury               |         2 |   0.5      |
 | Stormers                 |         2 |   0.5      |
-| Sunwolves                |         2 |   1        |
 | Lions                    |         1 |   0        |
 | Benetton Treviso         |         1 |   0        |
 | British and Irish Lions  |         1 |   0.5      |
 | Cardiff Blues            |         1 |   1        |
+| Saracens                 |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Munster                  |         1 |   0        |

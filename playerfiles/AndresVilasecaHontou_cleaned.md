@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andres Vilaseca Hontou  
-date: 2022-12-09 13:19:54.948920  
+date: 2022-12-12 15:02:41.232290  
 categories: player  
 ---
 # Andres Vilaseca Hontou
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 43.0
+## Current Percentile: 45.0
 
 # Elo History
 

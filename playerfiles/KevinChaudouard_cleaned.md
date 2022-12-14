@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kevin Chaudouard  
-date: 2022-12-09 13:23:37.969624  
+date: 2022-12-14 11:24:57.782807  
 categories: player  
 ---
 # Kevin Chaudouard
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 58.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            27 |    0.37037 |
+| Bourgoin-Jallieu |            28 |   0.392857 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,4 +35,5 @@ categories: player
 | Chambery                   |         2 |   0.5      |
 | Dax                        |         2 |   0        |
 | Dijon                      |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | US Bressane                |         1 |   0        |

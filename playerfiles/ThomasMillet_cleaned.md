@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Millet  
-date: 2022-11-22 11:45:23.209388  
+date: 2022-12-14 11:32:01.105497  
 categories: player  
 ---
 # Thomas Millet
 
 ## Positions: SH
 
-## Current elo: 75.0
+## Current elo: 71.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            19 |   0.342105 |
+| Tarbes |            21 |   0.309524 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Blagnac                    |         2 |   0        |
 | Chambery                   |         2 |   0        |
 | Suresnes                   |         2 |   0        |
+| US Bressane                |         2 |   0        |
 | Aubenas                    |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
@@ -37,4 +38,4 @@ categories: player
 | Massy                      |         1 |   0        |
 | Narbonne                   |         1 |   1        |
 | Rennes                     |         1 |   1        |
-| US Bressane                |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   0        |

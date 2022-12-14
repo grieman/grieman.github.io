@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Marty  
-date: 2022-12-09 13:06:53.316274  
+date: 2022-12-12 15:03:04.301297  
 categories: player  
 ---
 # Maxime Marty

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tiaan Thomas-Wheeler  
-date: 2022-12-09 13:24:13.875869  
+date: 2022-12-12 15:21:03.315743  
 categories: player  
 ---
 # Tiaan Thomas-Wheeler
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 27.0
+## Current Percentile: 26.0
 
 # Elo History
 

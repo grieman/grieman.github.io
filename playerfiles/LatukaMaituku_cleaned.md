@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Latuka Maituku  
-date: 2022-12-09 13:07:08.463002  
+date: 2022-12-14 11:29:44.750938  
 categories: player  
 ---
 # Latuka Maituku
 
 ## Positions: FL, N8
 
-## Current elo: 77.0
+## Current elo: 78.0
 
 ## Current Percentile: 5.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |           157 |   0.515924 |
+| Aurillac |           158 |   0.518987 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,7 +32,7 @@ categories: player
 | Perpignan                  |         8 |   0.5      |
 | Colomiers                  |         8 |   0.5      |
 | Agen                       |         8 |   0.5      |
-| Vannes                     |         7 |   0.285714 |
+| Vannes                     |         8 |   0.375    |
 | Albi                       |         7 |   0.428571 |
 | Oyonnax                    |         6 |   0.333333 |
 | Provence Rugby             |         6 |   1        |

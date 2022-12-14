@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eben Etzebeth  
-date: 2022-11-22 11:45:35.251546  
+date: 2022-12-14 11:27:40.814094  
 categories: player  
 ---
 # Eben Etzebeth
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 119.0
+## Current elo: 126.0
 
-## Current Percentile: 93.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| South Africa                    |           109 |   0.619266 |
+| South Africa                    |           110 |   0.622727 |
 | Stormers                        |            62 |   0.66129  |
 | Toulon                          |            35 |   0.585714 |
 | NTT Docomo Red Hurricanes Osaka |             4 |   0.125    |
 | Western Province                |             3 |   1        |
-| Sharks                          |             1 |   1        |
+| Sharks                          |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,34 +36,34 @@ categories: player
 | Argentina                |        19 |   0.815789 |
 | Australia                |        18 |   0.5      |
 | Wales                    |        10 |   0.6      |
-| England                  |         9 |   0.611111 |
+| England                  |        10 |   0.65     |
 | Bulls                    |         8 |   0.875    |
-| Sharks                   |         7 |   0.428571 |
 | Ireland                  |         7 |   0.428571 |
-| Cheetahs                 |         6 |   1        |
+| Sharks                   |         7 |   0.428571 |
 | France                   |         6 |   0.833333 |
-| Italy                    |         5 |   1        |
+| Cheetahs                 |         6 |   1        |
 | Lions                    |         5 |   0.5      |
+| Italy                    |         5 |   1        |
 | La Rochelle              |         4 |   0.25     |
 | Scotland                 |         4 |   1        |
-| Blues                    |         4 |   0.5      |
 | Jaguares                 |         4 |   0.75     |
-| Japan                    |         3 |   0.666667 |
-| Montpellier Herault      |         3 |   0.333333 |
-| Highlanders              |         3 |   0.333333 |
-| Southern Kings           |         3 |   1        |
-| Crusaders                |         3 |   0.166667 |
-| New South Wales Waratahs |         3 |   0.666667 |
-| Lyon                     |         3 |   0.333333 |
+| Blues                    |         4 |   0.5      |
 | Clermont Auvergne        |         3 |   0.666667 |
-| Chiefs                   |         3 |   0.333333 |
-| Brumbies                 |         3 |   0.666667 |
-| Brive                    |         3 |   0.666667 |
-| British and Irish Lions  |         3 |   0.666667 |
+| Lyon                     |         3 |   0.333333 |
+| Japan                    |         3 |   0.666667 |
 | Bordeaux Begles          |         3 |   1        |
+| British and Irish Lions  |         3 |   0.666667 |
 | Melbourne Rebels         |         3 |   0.666667 |
-| Pau                      |         2 |   1        |
+| Highlanders              |         3 |   0.333333 |
+| Montpellier Herault      |         3 |   0.333333 |
+| Southern Kings           |         3 |   1        |
+| Brive                    |         3 |   0.666667 |
+| Brumbies                 |         3 |   0.666667 |
+| New South Wales Waratahs |         3 |   0.666667 |
+| Chiefs                   |         3 |   0.333333 |
+| Crusaders                |         3 |   0.166667 |
 | Queensland Reds          |         2 |   1        |
+| Pau                      |         2 |   1        |
 | Racing 92                |         2 |   0.5      |
 | Stade Francais Paris     |         2 |   0.5      |
 | London Irish             |         2 |   1        |
@@ -73,13 +73,14 @@ categories: player
 | Western Force            |         2 |   1        |
 | Samoa                    |         2 |   1        |
 | Shizuoka Blue Revs       |         1 |   0        |
+| Scarlets                 |         1 |   1        |
 | Sunwolves                |         1 |   1        |
 | Toyota Verblitz          |         1 |   0        |
 | United States of America |         1 |   1        |
 | Agen                     |         1 |   1        |
-| Scarlets                 |         1 |   1        |
 | Natal Sharks             |         1 |   1        |
 | Namibia                  |         1 |   1        |
+| Harlequins               |         1 |   1        |
 | Green Rockets Tokatsu    |         1 |   0.5      |
 | Glasgow Warriors         |         1 |   1        |
 | Georgia                  |         1 |   1        |

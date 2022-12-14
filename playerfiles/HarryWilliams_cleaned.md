@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Williams  
-date: 2022-11-22 11:31:58.402415  
+date: 2022-12-14 11:19:20.709354  
 categories: player  
 ---
 # Harry Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           146 |   0.705479 |
+| Exeter Chiefs |           148 |   0.702703 |
 | England       |            19 |   0.684211 |
 | Wasps         |             2 |   0        |
 
@@ -39,15 +39,15 @@ categories: player
 | Gloucester Rugby    |        10 |   0.65     |
 | Bristol Rugby       |         9 |   0.666667 |
 | Harlequins          |         9 |   0.888889 |
-| Newcastle Falcons   |         7 |   0.857143 |
+| Newcastle Falcons   |         8 |   0.75     |
 | London Irish        |         6 |   0.833333 |
 | South Africa        |         4 |   0.5      |
 | Wales               |         3 |   0.666667 |
 | Argentina           |         3 |   1        |
+| Castres Olympique   |         3 |   0.666667 |
 | Glasgow Warriors    |         3 |   0.666667 |
 | Leinster            |         2 |   0        |
 | La Rochelle         |         2 |   1        |
-| Castres Olympique   |         2 |   0.5      |
 | Ulster              |         2 |   0.5      |
 | Clermont Auvergne   |         2 |   0        |
 | Scotland            |         2 |   0        |

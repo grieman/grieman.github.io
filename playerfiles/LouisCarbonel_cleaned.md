@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Carbonel  
-date: 2022-12-09 13:16:05.231845  
+date: 2022-12-14 11:29:31.977063  
 categories: player  
 ---
 # Louis Carbonel
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: 74.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Toulon              |            89 |   0.55618  |
-| Montpellier Herault |            12 |   0.5      |
+| Montpellier Herault |            13 |   0.538462 |
 | France              |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -43,9 +43,9 @@ categories: player
 | Perpignan            |         4 |   0.75     |
 | Agen                 |         4 |   0.5      |
 | Scarlets             |         3 |   1        |
+| London Irish         |         3 |   1        |
 | Bayonne              |         3 |   1        |
 | Australia            |         2 |   0.5      |
-| London Irish         |         2 |   1        |
 | Biarritz Olympique   |         2 |   1        |
 | Leicester Tigers     |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |

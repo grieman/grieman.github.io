@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vakhtangi Akhobadze  
-date: 2022-12-09 13:06:51.327774  
+date: 2022-12-14 11:15:32.694988  
 categories: player  
 ---
 # Vakhtangi Akhobadze
 
 ## Positions: P
 
-## Current elo: 62.0
+## Current elo: 63.0
 
 ## Current Percentile: 0.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |            15 |   0.266667 |
 | Agen               |            13 |   0.153846 |
-| Carcassonne        |            10 |   0.2      |
+| Carcassonne        |            11 |   0.272727 |
 | Albi               |             2 |   0.5      |
 | Massy              |             1 |   0        |
 
@@ -38,16 +38,16 @@ categories: player
 | Soyaux-Angouleme    |         2 |   0        |
 | Racing 92           |         2 |   0        |
 | Oyonnax             |         2 |   0        |
+| Nevers              |         2 |   1        |
 | Zebre               |         2 |   0.5      |
 | Colomiers           |         2 |   0        |
 | Clermont Auvergne   |         2 |   0        |
 | Carcassonne         |         2 |   1        |
-| Grenoble            |         1 |   0        |
 | La Rochelle         |         1 |   0        |
 | Massy               |         1 |   0        |
 | Aurillac            |         1 |   1        |
+| Grenoble            |         1 |   0        |
 | Gloucester Rugby    |         1 |   0        |
-| Nevers              |         1 |   1        |
 | Dax                 |         1 |   1        |
 | Castres Olympique   |         1 |   0        |
 | Rouen               |         1 |   1        |

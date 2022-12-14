@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Teiva Jacquelin  
-date: 2022-12-09 13:04:29.509400  
+date: 2022-12-14 11:13:55.932040  
 categories: player  
 ---
 # Jean-Teiva Jacquelin
 
 ## Positions: W
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 8.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |            29 |   0.482759 |
 | Grenoble       |            21 |   0.404762 |
-| Bayonne        |            19 |   0.657895 |
+| Bayonne        |            20 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,18 +39,19 @@ categories: player
 | Oyonnax                    |         3 |   0        |
 | Vannes                     |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.333333 |
+| Biarritz Olympique         |         2 |   0.75     |
 | Benetton Treviso           |         2 |   0        |
 | Colomiers                  |         2 |   0        |
 | Lyon                       |         2 |   0.5      |
-| Biarritz Olympique         |         2 |   0.75     |
-| Harlequins                 |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | US Bressane                |         1 |   1        |
 | Toulon                     |         1 |   0        |
 | Stade Francais Paris       |         1 |   0        |
 | Bayonne                    |         1 |   1        |
-| Bordeaux Begles            |         1 |   1        |
+| Scarlets                   |         1 |   0        |
+| Harlequins                 |         1 |   0        |
 | Racing 92                  |         1 |   1        |
+| Bordeaux Begles            |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
 | Narbonne                   |         1 |   0.5      |
 | Montpellier Herault        |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Paul Surano  
-date: 2022-12-09 13:24:06.079127  
+date: 2022-12-14 11:36:07.459090  
 categories: player  
 ---
 # Paul Surano
 
 ## Positions: W
 
-## Current elo: 87.0
+## Current elo: 89.0
 
 ## Current Percentile: 15.0
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            52 |   0.451923 |
+| Rouen  |            53 |   0.443396 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Grenoble                   |         5 |   0.4      |
+| Provence Rugby             |         5 |   0.5      |
 | Montauban                  |         4 |   0.5      |
-| Provence Rugby             |         4 |   0.625    |
 | Oyonnax                    |         4 |   0.5      |
 | Aurillac                   |         4 |   0.5      |
 | Vannes                     |         4 |   0.75     |

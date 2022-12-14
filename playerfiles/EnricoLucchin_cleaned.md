@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Enrico Lucchin  
-date: 2022-12-09 13:10:20.746516  
+date: 2022-12-14 11:24:52.482229  
 categories: player  
 ---
 # Enrico Lucchin
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 90.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            34 |   0.147059 |
+| Zebre  |            35 |   0.142857 |
 | Italy  |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,11 +37,12 @@ categories: player
 | Dragons              |         2 |          1 |
 | Ospreys              |         2 |          0 |
 | Connacht             |         1 |          0 |
-| Brive                |         1 |          1 |
 | Cheetahs             |         1 |          1 |
+| Brive                |         1 |          1 |
 | Namibia              |         1 |          1 |
 | Samoa                |         1 |          1 |
 | Bulls                |         1 |          0 |
 | Sharks               |         1 |          0 |
 | Stade Francais Paris |         1 |          1 |
+| Toulon               |         1 |          0 |
 | Benetton Treviso     |         1 |          0 |

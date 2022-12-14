@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nikita Bekov  
-date: 2022-12-09 13:09:49.393163  
+date: 2022-12-14 11:35:47.879578  
 categories: player  
 ---
 # Nikita Bekov
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            17 |   0.617647 |
+| Blagnac |            18 |   0.638889 |
 | Russia  |             3 |   0        |
 | Massy   |             1 |   1        |
 
@@ -42,5 +42,6 @@ categories: player
 | Rennes                     |         1 |   1        |
 | Romania                    |         1 |   0        |
 | Spain                      |         1 |   0        |
+| Suresnes                   |         1 |   1        |
 | Tarbes                     |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |

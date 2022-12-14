@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Niall Annett  
-date: 2022-12-09 13:18:02.507476  
+date: 2022-12-14 11:19:47.867640  
 categories: player  
 ---
 # Niall Annett
@@ -23,7 +23,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |           101 |   0.321782 |
 | Ulster             |            28 |   0.571429 |
-| Bath Rugby         |             8 |   0.375    |
+| Bath Rugby         |             9 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -44,10 +44,10 @@ categories: player
 | Leinster             |         3 |   0        |
 | Benetton Treviso     |         3 |   1        |
 | Munster              |         3 |   0.333333 |
+| Glasgow Warriors     |         3 |   0        |
 | Scarlets             |         3 |   0.666667 |
 | Dragons              |         3 |   0.333333 |
 | Zebre                |         3 |   1        |
-| Glasgow Warriors     |         2 |   0        |
 | Connacht             |         2 |   1        |
 | Castres Olympique    |         1 |   0        |
 | La Rochelle          |         1 |   1        |

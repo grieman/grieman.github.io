@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Kriel  
-date: 2022-12-09 13:13:14.499457  
+date: 2022-12-12 15:15:10.219145  
 categories: player  
 ---
 # David Kriel

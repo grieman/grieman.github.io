@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Nueno  
-date: 2022-12-09 13:19:59.176678  
+date: 2022-12-14 11:31:53.908677  
 categories: player  
 ---
 # Pierre Nueno

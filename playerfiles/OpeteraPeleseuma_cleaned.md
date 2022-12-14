@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Opetera Peleseuma  
-date: 2022-12-09 13:17:10.718374  
+date: 2022-12-14 11:13:34.140245  
 categories: player  
 ---
 # Opetera Peleseuma
 
 ## Positions: C
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 42.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rouen          |            39 |   0.448718 |
+| Rouen          |            40 |   0.4375   |
 | Roval Drome XV |            17 |   0.176471 |
 | Wellington     |             6 |   0.166667 |
 | Taranaki       |             5 |   0.2      |
@@ -29,9 +29,9 @@ categories: player
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Provence Rugby             |         6 |   0.25     |
 | Beziers                    |         6 |   0.5      |
 | Montauban                  |         5 |   0.2      |
-| Provence Rugby             |         5 |   0.3      |
 | Colomiers                  |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.5      |
 | Grenoble                   |         4 |   0.25     |

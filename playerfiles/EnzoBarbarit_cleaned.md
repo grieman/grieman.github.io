@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Enzo Barbarit  
-date: 2022-12-09 13:14:39.355262  
+date: 2022-12-14 11:28:23.045021  
 categories: player  
 ---
 # Enzo Barbarit
 
 ## Positions: SH
 
-## Current elo: 83.0
+## Current elo: 80.0
 
 ## Current Percentile: 7.0
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            34 |   0.294118 |
+| Suresnes |            35 |   0.285714 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         4 |   0.25     |
 | Albi                       |         3 |   0.333333 |
-| Blagnac                    |         3 |   0.333333 |
 | Chambery                   |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.333333 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Julien Tisseron  
-date: 2022-11-16 11:42:07.904824  
+date: 2022-12-14 11:24:26.462763  
 categories: player  
 ---
 # Julien Tisseron
 
 ## Positions: FB, W
 
-## Current elo: 113.0
+## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            66 |   0.439394 |
-| Montpellier Herault |            37 |   0.567568 |
+| Montpellier Herault |            39 |   0.589744 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -43,19 +43,19 @@ categories: player
 | Montpellier Herault  |         3 |   0        |
 | Aurillac             |         3 |   1        |
 | Mont-de-Marsan       |         3 |   0.5      |
-| Bordeaux Begles      |         3 |   0        |
 | Carcassonne          |         3 |   0.666667 |
+| Bayonne              |         3 |   0.666667 |
+| Bordeaux Begles      |         3 |   0        |
 | Massy                |         2 |   1        |
-| Colomiers            |         2 |   1        |
-| Bayonne              |         2 |   0.5      |
 | Benetton Treviso     |         2 |   0        |
 | Scarlets             |         2 |   0        |
+| London Irish         |         2 |   0.5      |
 | Vannes               |         2 |   0.5      |
+| Colomiers            |         2 |   1        |
 | Oyonnax              |         2 |   0.5      |
 | Narbonne             |         2 |   0.5      |
 | Grenoble             |         2 |   0        |
 | Montauban            |         2 |   0.5      |
-| London Irish         |         1 |   0        |
 | Racing 92            |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
 | Beziers              |         1 |   0        |

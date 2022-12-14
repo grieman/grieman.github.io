@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Denis Buckley  
-date: 2022-12-09 13:09:06.684590  
+date: 2022-12-14 11:20:21.742383  
 categories: player  
 ---
 # Denis Buckley
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Barbarians
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: 76.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Connacht   |           210 |   0.495238 |
-| Barbarians |             1 |   1        |
+| Connacht   |           211 |    0.49763 |
+| Barbarians |             1 |    1       |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,24 +36,25 @@ categories: player
 | Glasgow Warriors    |        15 |   0.1      |
 | Edinburgh           |        14 |   0.571429 |
 | Benetton Treviso    |        14 |   0.928571 |
-| Ospreys             |        12 |   0.416667 |
 | Scarlets            |        12 |   0.333333 |
+| Ospreys             |        12 |   0.416667 |
 | Dragons             |        11 |   0.909091 |
-| Stade Toulousain    |         5 |   0.2      |
 | Gloucester Rugby    |         5 |   0.2      |
 | Cheetahs            |         5 |   0.8      |
+| Stade Toulousain    |         5 |   0.2      |
 | Southern Kings      |         4 |   1        |
-| Harlequins          |         3 |   0.333333 |
 | Brive               |         3 |   0.666667 |
 | Sale Sharks         |         3 |   0.333333 |
-| RC Enisei           |         2 |   1        |
+| Harlequins          |         3 |   0.333333 |
+| Biarritz Olympique  |         2 |   0.5      |
 | Stormers            |         2 |   0.5      |
 | Wasps               |         2 |   0.5      |
-| Montpellier Herault |         2 |   0.5      |
+| RC Enisei           |         2 |   1        |
 | Aironi              |         2 |   0.5      |
-| Biarritz Olympique  |         2 |   0.5      |
+| Montpellier Herault |         2 |   0.5      |
 | Bayonne             |         2 |   1        |
 | Exeter Chiefs       |         2 |   0        |
+| Newcastle Falcons   |         1 |   1        |
 | Saracens            |         1 |   0        |
 | Lions               |         1 |   1        |
 | Sharks              |         1 |   0        |

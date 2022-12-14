@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibaud Lanen  
-date: 2022-12-09 13:08:55.502221  
+date: 2022-12-14 11:12:08.380284  
 categories: player  
 ---
 # Thibaud Lanen
 
 ## Positions: L, FL
 
-## Current elo: 99.0
+## Current elo: 100.0
 
 ## Current Percentile: 60.0
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            43 |   0.523256 |
+| Clermont Auvergne |            44 |   0.534091 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |         5 |   0.2      |
 | Racing 92            |         5 |   0.2      |
 | Montpellier Herault  |         4 |   0.75     |
-| Lyon                 |         3 |   0.666667 |
+| Pau                  |         3 |   1        |
 | Bordeaux Begles      |         3 |   0.5      |
 | Castres Olympique    |         3 |   0        |
 | Stade Francais Paris |         3 |   1        |
-| Pau                  |         3 |   1        |
+| Lyon                 |         3 |   0.666667 |
 | Stade Toulousain     |         2 |   0        |
 | Agen                 |         2 |   1        |
 | Bayonne              |         2 |   0        |
@@ -41,4 +41,5 @@ categories: player
 | Perpignan            |         1 |   0        |
 | Harlequins           |         1 |   1        |
 | Brive                |         1 |   1        |
+| Stormers             |         1 |   1        |
 | Ulster               |         1 |   0        |

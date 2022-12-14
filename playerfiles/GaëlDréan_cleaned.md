@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaël Dréan  
-date: 2022-12-09 13:09:37.456742  
+date: 2022-12-14 11:20:54.129473  
 categories: player  
 ---
 # Gaël Dréan
 
 ## Positions: W
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 19.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Toulon |             6 |        0.5 |
+| Toulon |             7 |   0.571429 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -31,3 +31,4 @@ categories: player
 | Perpignan            |         1 |          0 |
 | Racing 92            |         1 |          0 |
 | Stade Francais Paris |         1 |          1 |
+| Zebre                |         1 |          1 |

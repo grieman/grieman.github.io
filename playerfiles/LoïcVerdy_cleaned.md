@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Loïc Verdy  
-date: 2022-12-09 13:11:30.396651  
+date: 2022-12-14 11:21:09.483379  
 categories: player  
 ---
 # Loïc Verdy
 
 ## Positions: FL, N8
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 64.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Blagnac        |            34 |   0.529412 |
+| Blagnac        |            35 |   0.542857 |
 | Provence Rugby |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,9 +30,9 @@ categories: player
 | Massy                      |         4 |   0.5      |
 | Tarbes                     |         4 |   0.5      |
 | Dax                        |         3 |   0.333333 |
+| Suresnes                   |         3 |   0.666667 |
 | Chambery                   |         3 |   1        |
 | US Bressane                |         2 |   0        |
-| Suresnes                   |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
 | Nice                       |         2 |   0.5      |
 | Albi                       |         2 |   0.5      |

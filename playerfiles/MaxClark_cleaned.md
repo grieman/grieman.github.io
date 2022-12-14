@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Clark  
-date: 2022-12-09 13:21:31.738130  
+date: 2022-12-12 14:56:43.906785  
 categories: player  
 ---
 # Max Clark
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 

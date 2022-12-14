@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Karim Qadiri  
-date: 2022-12-09 13:17:49.767817  
+date: 2022-12-12 15:39:53.941741  
 categories: player  
 ---
 # Karim Qadiri
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Morocco
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 27.0
+## Current Percentile: 26.0
 
 # Elo History
 

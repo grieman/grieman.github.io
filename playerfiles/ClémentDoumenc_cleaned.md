@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Doumenc  
-date: 2022-12-09 13:13:32.161461  
+date: 2022-12-14 11:31:49.668957  
 categories: player  
 ---
 # Clément Doumenc
 
 ## Positions: FL, N8
 
-## Current elo: 111.0
+## Current elo: 113.0
 
-## Current Percentile: 91.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Carcassonne         |            61 |   0.540984 |
-| Montpellier Herault |             7 |   0.285714 |
+| Montpellier Herault |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -45,6 +45,7 @@ categories: player
 | Brive                      |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   1        |
 | Lyon                       |         1 |   0        |
+| London Irish               |         1 |   1        |
 | La Rochelle                |         1 |   0        |
 | Clermont Auvergne          |         1 |   0        |
 | Castres Olympique          |         1 |   0        |

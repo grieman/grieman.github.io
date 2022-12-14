@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Young  
-date: 2022-12-09 13:22:24.554988  
+date: 2022-12-14 11:24:10.267437  
 categories: player  
 ---
 # Thomas Young
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 105.0
+## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Wasps            |           146 |   0.544521 |
-| Cardiff Blues    |            31 |   0.354839 |
+| Cardiff Blues    |            32 |   0.375    |
 | Wales            |             4 |   1        |
 | Gloucester Rugby |             3 |   0.333333 |
 
@@ -36,22 +36,22 @@ categories: player
 | Exeter Chiefs      |        12 |   0.416667 |
 | Saracens           |        11 |   0.181818 |
 | London Irish       |        10 |   0.9      |
+| Gloucester Rugby   |        10 |   0.35     |
 | Worcester Warriors |        10 |   0.7      |
 | Leicester Tigers   |        10 |   0.7      |
-| Gloucester Rugby   |        10 |   0.35     |
+| Bristol Rugby      |         9 |   0.888889 |
 | Sale Sharks        |         9 |   0.333333 |
 | Newcastle Falcons  |         9 |   0.722222 |
-| Bristol Rugby      |         9 |   0.888889 |
 | Munster            |         7 |   0.142857 |
-| Stade Toulousain   |         4 |   0.375    |
 | Edinburgh          |         4 |   0.25     |
+| Stade Toulousain   |         4 |   0.375    |
+| Glasgow Warriors   |         3 |   0        |
 | Connacht           |         3 |   0.333333 |
 | Ulster             |         3 |   0.333333 |
-| Glasgow Warriors   |         3 |   0        |
 | Toulon             |         2 |   0        |
-| Scarlets           |         2 |   0.5      |
-| Wasps              |         2 |   0.5      |
 | Ospreys            |         2 |   0.5      |
+| Wasps              |         2 |   0.5      |
+| Scarlets           |         2 |   0.5      |
 | Zebre              |         2 |   1        |
 | Leinster           |         2 |   0        |
 | La Rochelle        |         2 |   0.5      |
@@ -59,11 +59,12 @@ categories: player
 | London Welsh       |         1 |   1        |
 | Samoa              |         1 |   1        |
 | Italy              |         1 |   1        |
-| Sharks             |         1 |   1        |
 | Fiji               |         1 |   1        |
+| Sharks             |         1 |   1        |
+| Dragons            |         1 |   1        |
 | Stormers           |         1 |   1        |
 | Tonga              |         1 |   1        |
-| Dragons            |         1 |   1        |
 | Cardiff Blues      |         1 |   0        |
 | Bulls              |         1 |   0        |
+| Brive              |         1 |   1        |
 | Aironi             |         1 |   1        |

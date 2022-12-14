@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alban Roussel  
-date: 2022-11-16 11:25:43.708140  
+date: 2022-12-14 11:32:55.871468  
 categories: player  
 ---
 # Alban Roussel
 
 ## Positions: L, N8
 
-## Current elo: 93.0
+## Current elo: 95.0
 
-## Current Percentile: 46.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -22,33 +22,34 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Perpignan       |            33 |   0.590909 |
-| Bordeaux Begles |            18 |   0.5      |
+| Bordeaux Begles |            20 |   0.45     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         4 |   0.875    |
 | Nevers                     |         3 |   0.333333 |
-| Mont-de-Marsan             |         3 |   0.666667 |
-| Stade Toulousain           |         3 |   0.333333 |
 | Racing 92                  |         3 |   0.333333 |
+| Stade Toulousain           |         3 |   0.333333 |
+| Mont-de-Marsan             |         3 |   0.666667 |
 | Grenoble                   |         3 |   1        |
 | Pau                        |         2 |   0        |
-| Provence Rugby             |         2 |   1        |
+| Perpignan                  |         2 |   0.5      |
 | Lyon                       |         2 |   0.5      |
+| Provence Rugby             |         2 |   1        |
 | Vannes                     |         2 |   1        |
 | Clermont Auvergne          |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
 | Sale Sharks                |         2 |   0        |
 | Rouen                      |         1 |   0        |
+| Oyonnax                    |         1 |   1        |
 | Scarlets                   |         1 |   1        |
 | Stade Francais Paris       |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Perpignan                  |         1 |   1        |
 | Aurillac                   |         1 |   1        |
-| Oyonnax                    |         1 |   1        |
 | Montpellier Herault        |         1 |   1        |
 | Bayonne                    |         1 |   0        |
 | La Rochelle                |         1 |   0        |
+| Gloucester Rugby           |         1 |   0        |
 | Connacht                   |         1 |   0        |
 | Colomiers                  |         1 |   0        |
 | Castres Olympique          |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyril Cazeaux  
-date: 2022-12-09 13:11:29.653151  
+date: 2022-12-14 11:31:12.019589  
 categories: player  
 ---
 # Cyril Cazeaux
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 122.0
+## Current elo: 123.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           142 |   0.538732 |
+| Bordeaux Begles |           143 |   0.534965 |
 | Dax             |             5 |   0.3      |
 | France          |             3 |   0.333333 |
 
@@ -45,10 +45,10 @@ categories: player
 | Perpignan            |         5 |   0.7      |
 | Bayonne              |         4 |   0.5      |
 | Oyonnax              |         3 |   0.666667 |
+| Connacht             |         2 |   0        |
 | Australia            |         2 |   0.5      |
 | RC Enisei            |         2 |   1        |
 | Edinburgh            |         2 |   1        |
-| Connacht             |         2 |   0        |
 | Dragons              |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0.5      |
 | Newcastle Falcons    |         1 |   0        |
@@ -59,6 +59,7 @@ categories: player
 | Bristol Rugby        |         1 |   0        |
 | Sale Sharks          |         1 |   0        |
 | Bourgoin-Jallieu     |         1 |   0.5      |
+| Gloucester Rugby     |         1 |   0        |
 | Tarbes               |         1 |   0        |
 | Ulster               |         1 |   1        |
 | Wasps                |         1 |   1        |

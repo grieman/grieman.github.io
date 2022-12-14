@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manuel Zuliani  
-date: 2022-12-09 13:04:59.401034  
+date: 2022-12-12 15:06:57.465849  
 categories: player  
 ---
 # Manuel Zuliani

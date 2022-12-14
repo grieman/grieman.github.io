@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrew Warwick  
-date: 2022-12-09 13:19:32.444069  
+date: 2022-12-14 11:21:37.800065  
 categories: player  
 ---
 # Andrew Warwick
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 101.0
 
-## Current Percentile: 72.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |           163 |   0.610429 |
+| Ulster |           164 |   0.606707 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -34,22 +34,23 @@ categories: player
 | Benetton Treviso  |        11 |   0.954545 |
 | Ospreys           |        10 |   0.8      |
 | Zebre             |         9 |   0.888889 |
-| Dragons           |         8 |   0.8125   |
 | Cardiff Blues     |         8 |   0.6875   |
+| Dragons           |         8 |   0.8125   |
 | Harlequins        |         4 |   1        |
 | Leicester Tigers  |         4 |   0.75     |
 | Southern Kings    |         4 |   1        |
-| Cheetahs          |         2 |   0.75     |
+| Clermont Auvergne |         2 |   0.5      |
 | Toulon            |         2 |   0        |
 | Stade Toulousain  |         2 |   1        |
-| Exeter Chiefs     |         2 |   0.5      |
-| Clermont Auvergne |         2 |   0.5      |
-| Bordeaux Begles   |         2 |   0        |
 | Racing 92         |         2 |   0.5      |
-| Saracens          |         1 |   0        |
+| Exeter Chiefs     |         2 |   0.5      |
+| Cheetahs          |         2 |   0.75     |
+| Bordeaux Begles   |         2 |   0        |
+| Sale Sharks       |         1 |   0        |
+| La Rochelle       |         1 |   0        |
 | Bulls             |         1 |   0        |
 | Sharks            |         1 |   1        |
 | Lions             |         1 |   1        |
 | Stormers          |         1 |   0        |
-| La Rochelle       |         1 |   0        |
 | Wasps             |         1 |   0        |
+| Saracens          |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason-Colin Fraser  
-date: 2022-12-09 13:17:30.003685  
+date: 2022-12-12 14:57:22.118797  
 categories: player  
 ---
 # Jason-Colin Fraser
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 120.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Makalea Foliaki  
-date: 2022-12-09 13:09:27.269499  
+date: 2022-12-14 11:16:52.135575  
 categories: player  
 ---
 # Makalea Foliaki
 
 ## Positions: W
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 45.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Bourgoin-Jallieu           |            26 |   0.442308 |
+| Bourgoin-Jallieu           |            27 |   0.462963 |
 | Cognac Saint Jean d'Angély |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,5 +39,6 @@ categories: player
 | Dax                        |         1 |   0        |
 | Dijon                      |         1 |   0        |
 | Narbonne                   |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Tarbes                     |         1 |   0        |
 | US Bressane                |         1 |   0        |

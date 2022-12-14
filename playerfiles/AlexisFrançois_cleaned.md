@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alexis François  
-date: 2022-12-09 13:19:11.407786  
+date: 2022-12-14 11:20:42.275493  
 categories: player  
 ---
 # Alexis François
@@ -21,13 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Rennes   |            12 |   0.166667 |
+| Rennes   |            13 |   0.153846 |
 | Narbonne |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          0 |
+| Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |

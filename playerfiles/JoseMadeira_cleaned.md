@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jose Madeira  
-date: 2022-12-09 13:22:51.264889  
+date: 2022-12-14 11:11:54.236231  
 categories: player  
 ---
 # Jose Madeira
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            27 |   0.611111 |
+| Grenoble |            28 |   0.589286 |
 | Portugal |            25 |   0.48     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,11 +32,11 @@ categories: player
 | Georgia                    |         4 |   0.125    |
 | Spain                      |         3 |   0.333333 |
 | Brazil                     |         3 |   0.666667 |
+| Mont-de-Marsan             |         3 |   0.333333 |
 | Russia                     |         2 |   0.5      |
 | Rouen                      |         2 |   1        |
 | Romania                    |         2 |   0        |
 | Netherlands                |         2 |   1        |
-| Mont-de-Marsan             |         2 |   0.5      |
 | Agen                       |         2 |   1        |
 | Carcassonne                |         2 |   0.5      |
 | Aurillac                   |         2 |   1        |

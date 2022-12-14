@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joel Sclavi  
-date: 2022-12-09 13:09:25.163498  
+date: 2022-12-14 11:25:35.893353  
 categories: player  
 ---
 # Joel Sclavi
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 103.0
+## Current elo: 104.0
 
 ## Current Percentile: 75.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |            19 |   0.447368 |
-| La Rochelle      |            16 |   0.5625   |
+| La Rochelle      |            17 |   0.588235 |
 | Argentina        |             9 |   0.444444 |
 | Jaguares         |             6 |   0.5      |
 | Pau              |             4 |   0        |
@@ -32,31 +32,32 @@ categories: player
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Stade Toulousain     |         3 |   0        |
 | Bayonne              |         3 |   0        |
 | Scotland             |         3 |   0.666667 |
-| Stade Toulousain     |         3 |   0        |
 | Carcassonne          |         3 |   0.666667 |
+| Mont-de-Marsan       |         2 |   0.5      |
+| Australia            |         2 |   0.5      |
 | South Africa         |         2 |   0        |
 | Stade Francais Paris |         2 |   0.5      |
-| New Zealand          |         2 |   0.5      |
-| Australia            |         2 |   0.5      |
-| Mont-de-Marsan       |         2 |   0.5      |
-| Massy                |         2 |   0.75     |
 | Olimpia Lions        |         2 |   1        |
+| New Zealand          |         2 |   0.5      |
 | Toulon               |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0        |
 | Beziers              |         2 |   1        |
-| Pau                  |         1 |   1        |
-| Sharks               |         1 |   0        |
-| Stormers             |         1 |   0        |
-| Racing 92            |         1 |   1        |
-| Queensland Reds      |         1 |   1        |
-| Provence Rugby       |         1 |   1        |
+| Massy                |         2 |   0.75     |
 | Perpignan            |         1 |   1        |
-| US Bressane          |         1 |   1        |
+| Pau                  |         1 |   1        |
+| Provence Rugby       |         1 |   1        |
 | Aurillac             |         1 |   0        |
-| Montpellier Herault  |         1 |   0        |
+| Queensland Reds      |         1 |   1        |
+| Racing 92            |         1 |   1        |
 | Oyonnax              |         1 |   0        |
+| Stormers             |         1 |   0        |
+| US Bressane          |         1 |   1        |
+| Sharks               |         1 |   0        |
+| Montpellier Herault  |         1 |   0        |
+| Northampton Saints   |         1 |   1        |
 | Nevers               |         1 |   0        |
 | Montauban            |         1 |   0        |
 | Lyon                 |         1 |   1        |
