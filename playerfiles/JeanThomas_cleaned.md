@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean Thomas  
-date: 2022-12-14 11:13:54.176220  
+date: 2022-12-18 16:25:13.750617  
 categories: player  
 ---
 # Jean Thomas
 
 ## Positions: L, FL
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 63.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            80 |    0.50625 |
+| Colomiers |            81 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         8 |   0.625    |
+| Oyonnax                    |         7 |   0.642857 |
 | Nevers                     |         6 |   0.5      |
 | Provence Rugby             |         6 |   0.5      |
-| Oyonnax                    |         6 |   0.75     |
 | Montauban                  |         5 |   0.4      |
 | Rouen                      |         5 |   0.8      |
 | Vannes                     |         5 |   0.6      |

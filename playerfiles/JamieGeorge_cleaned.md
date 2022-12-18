@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie George  
-date: 2022-12-14 11:22:44.736065  
+date: 2022-12-18 16:33:39.405099  
 categories: player  
 ---
 # Jamie George
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 137.0
+## Current elo: 136.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           274 |   0.764599 |
+| Saracens                |           275 |   0.765455 |
 | England                 |            66 |   0.69697  |
 | British and Irish Lions |             6 |   0.75     |
 
@@ -40,35 +40,35 @@ categories: player
 | Worcester Warriors  |        15 |   0.866667 |
 | London Irish        |        13 |   0.846154 |
 | Newcastle Falcons   |        12 |   1        |
-| Australia           |        10 |   0.9      |
 | Clermont Auvergne   |        10 |   0.3      |
+| Australia           |        10 |   0.9      |
 | Italy               |         8 |   1        |
 | Ireland             |         8 |   0.5      |
+| Bristol Rugby       |         7 |   0.714286 |
 | South Africa        |         7 |   0.428571 |
 | Scotland            |         7 |   0.5      |
-| Bristol Rugby       |         7 |   0.714286 |
 | Wales               |         7 |   0.571429 |
 | New Zealand         |         6 |   0.5      |
-| France              |         6 |   0.5      |
 | Racing 92           |         6 |   0.666667 |
-| Munster             |         5 |   0.8      |
+| France              |         6 |   0.5      |
 | Leinster            |         5 |   0.4      |
-| Ospreys             |         4 |   0.875    |
-| London Welsh        |         4 |   1        |
-| Scarlets            |         4 |   0.875    |
+| Munster             |         5 |   0.8      |
 | Glasgow Warriors    |         4 |   1        |
+| Ospreys             |         4 |   0.875    |
+| Scarlets            |         4 |   0.875    |
+| London Welsh        |         4 |   1        |
 | Stade Toulousain    |         4 |   0.5      |
-| Argentina           |         3 |   1        |
 | Cardiff Blues       |         3 |   1        |
-| Ulster              |         3 |   1        |
 | Toulon              |         3 |   0.666667 |
-| Tonga               |         2 |   1        |
+| Argentina           |         3 |   1        |
+| Lyon                |         3 |   1        |
+| Ulster              |         3 |   1        |
 | Oyonnax             |         2 |   1        |
+| Tonga               |         2 |   1        |
 | Zebre               |         2 |   1        |
 | Japan               |         2 |   1        |
 | Biarritz Olympique  |         2 |   0.5      |
 | Connacht            |         2 |   1        |
-| Lyon                |         2 |   1        |
 | New Zealand Maori   |         1 |   1        |
 | Crusaders           |         1 |   1        |
 | Yorkshire Carnegie  |         1 |   1        |
@@ -77,11 +77,11 @@ categories: player
 | Uruguay             |         1 |   1        |
 | Coventry            |         1 |   1        |
 | Doncaster           |         1 |   1        |
+| Provincial Union XV |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
 | Edinburgh           |         1 |   1        |
 | Fiji                |         1 |   1        |
 | Samoa               |         1 |   1        |
 | Richmond            |         1 |   1        |
 | Leeds               |         1 |   1        |
-| Provincial Union XV |         1 |   1        |
 | Ampthill            |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Biggar  
-date: 2022-12-14 11:18:03.247502  
+date: 2022-12-18 16:22:46.625187  
 categories: player  
 ---
 # Dan Biggar
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 141.0
+## Current elo: 142.0
 
 ## Current Percentile: 99.0
 
@@ -27,7 +27,7 @@ categories: player
 | Wales                   |            95 |   0.547368 |
 | Northampton Saints      |            64 |   0.484375 |
 | British and Irish Lions |             9 |   0.5      |
-| Toulon                  |             1 |   1        |
+| Toulon                  |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -62,10 +62,10 @@ categories: player
 | Northampton Saints   |         5 |   0.2      |
 | Harlequins           |         5 |   0.6      |
 | Aironi               |         4 |   1        |
+| Bath Rugby           |         4 |   0.5      |
 | Fiji                 |         4 |   0.875    |
 | Sale Sharks          |         3 |   0.333333 |
 | Japan                |         3 |   0.666667 |
-| Bath Rugby           |         3 |   0.333333 |
 | Biarritz Olympique   |         3 |   0.333333 |
 | Lyon                 |         3 |   1        |
 | Bristol Rugby        |         3 |   1        |

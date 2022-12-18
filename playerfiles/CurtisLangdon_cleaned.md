@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Curtis Langdon  
-date: 2022-12-14 11:30:02.662830  
+date: 2022-12-18 16:39:22.468799  
 categories: player  
 ---
 # Curtis Langdon
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Sale Sharks         |            81 |   0.623457 |
-| Montpellier Herault |             3 |   0.666667 |
+| Montpellier Herault |             4 |   0.5      |
 | Worcester Warriors  |             3 |   0.333333 |
 | England             |             2 |   1        |
 | Doncaster           |             1 |   0        |
@@ -35,22 +35,23 @@ categories: player
 | Northampton Saints       |         8 |   0.75     |
 | London Irish             |         7 |   0.714286 |
 | Gloucester Rugby         |         7 |   0.857143 |
-| Worcester Warriors       |         6 |   0.666667 |
 | Leicester Tigers         |         6 |   0.666667 |
-| Bristol Rugby            |         6 |   0.75     |
 | Harlequins               |         6 |   0.666667 |
+| Worcester Warriors       |         6 |   0.666667 |
+| Bristol Rugby            |         6 |   0.75     |
 | Newcastle Falcons        |         5 |   0.6      |
 | Wasps                    |         4 |   0.75     |
 | Saracens                 |         4 |   0.75     |
 | Bath Rugby               |         4 |   0.5      |
 | Connacht                 |         3 |   0.666667 |
 | Bordeaux Begles          |         2 |   0.5      |
-| Perpignan                |         2 |   1        |
 | La Rochelle              |         2 |   0        |
+| Perpignan                |         2 |   1        |
+| Canada                   |         1 |   1        |
 | Glasgow Warriors         |         1 |   0        |
-| Ealing Trailfinders      |         1 |   0        |
+| Ospreys                  |         1 |   0        |
 | Clermont Auvergne        |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Toulon                   |         1 |   1        |
 | United States of America |         1 |   1        |
-| Canada                   |         1 |   1        |
+| Ealing Trailfinders      |         1 |   0        |

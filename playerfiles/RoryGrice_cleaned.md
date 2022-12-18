@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rory Grice  
-date: 2022-12-14 11:27:11.149419  
+date: 2022-12-18 16:15:18.918940  
 categories: player  
 ---
 # Rory Grice
 
 ## Positions: N8
 
-## Current elo: 134.0
+## Current elo: 135.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |            87 |   0.568966 |
+| Oyonnax  |            88 |   0.573864 |
 | Grenoble |            60 |   0.466667 |
 | Waikato  |            11 |   0.545455 |
 
@@ -32,10 +32,10 @@ categories: player
 | Racing 92                  |         7 |  0.285714  |
 | Bordeaux Begles            |         7 |  0.142857  |
 | Brive                      |         7 |  0.285714  |
+| Colomiers                  |         6 |  0.5       |
 | Stade Toulousain           |         6 |  0.583333  |
 | La Rochelle                |         6 |  0.416667  |
 | Clermont Auvergne          |         6 |  0.0833333 |
-| Colomiers                  |         5 |  0.4       |
 | Toulon                     |         5 |  0.4       |
 | Stade Francais Paris       |         5 |  0.4       |
 | Nevers                     |         5 |  0.8       |

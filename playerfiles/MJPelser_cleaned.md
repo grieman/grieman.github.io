@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: MJ Pelser  
-date: 2022-12-14 11:27:26.490589  
+date: 2022-12-18 16:18:08.835808  
 categories: player  
 ---
 # MJ Pelser
 
 ## Positions: FL
 
-## Current elo: 74.0
+## Current elo: 77.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -22,13 +22,14 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Golden Lions |             8 |          0 |
-| Zebre        |             7 |          0 |
+| Zebre        |             8 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Griquas             |         2 |          0 |
 | Pumas               |         2 |          0 |
 | Western Province    |         2 |          0 |
+| Bristol Rugby       |         1 |          0 |
 | Edinburgh           |         1 |          0 |
 | Free State Cheetahs |         1 |          0 |
 | Glasgow Warriors    |         1 |          0 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wandrille Picault  
-date: 2022-12-09 13:05:09.697876  
+date: 2022-12-18 16:40:01.234586  
 categories: player  
 ---
 # Wandrille Picault
 
 ## Positions: FL
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 53.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Vannes    |            66 |   0.55303  |
-| Oyonnax   |             6 |   0.833333 |
+| Oyonnax   |             7 |   0.857143 |
 | Perpignan |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -34,11 +34,11 @@ categories: player
 | Aurillac           |         5 |   0.8      |
 | Oyonnax            |         5 |   0.4      |
 | Provence Rugby     |         4 |   0.5      |
+| Colomiers          |         4 |   0.5      |
 | Grenoble           |         4 |   0.75     |
 | Mont-de-Marsan     |         4 |   0.5      |
 | Biarritz Olympique |         3 |   0.333333 |
 | Soyaux-Angouleme   |         3 |   1        |
-| Colomiers          |         3 |   0.333333 |
 | Narbonne           |         3 |   0.833333 |
 | US Bressane        |         2 |   1        |
 | Rouen              |         2 |   0.5      |

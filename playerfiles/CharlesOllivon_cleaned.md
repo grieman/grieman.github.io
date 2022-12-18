@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Ollivon  
-date: 2022-12-14 11:12:36.275777  
+date: 2022-12-18 16:24:33.694988  
 categories: player  
 ---
 # Charles Ollivon
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Toulon  |            78 |   0.589744 |
+| Toulon  |            79 |   0.594937 |
 | Bayonne |            29 |   0.517241 |
 | France  |            25 |   0.68     |
 
@@ -40,27 +40,28 @@ categories: player
 | Lyon                 |         6 |   0.666667 |
 | Bordeaux Begles      |         6 |   0.5      |
 | Stade Francais Paris |         5 |   0.8      |
-| Brive                |         5 |   0.4      |
 | Scarlets             |         5 |   0.8      |
+| Brive                |         5 |   0.4      |
 | Scotland             |         4 |   0.25     |
 | Wales                |         4 |   0.75     |
 | Japan                |         3 |   1        |
 | Ireland              |         3 |   0.666667 |
-| Agen                 |         2 |   1        |
 | Oyonnax              |         2 |   1        |
-| Italy                |         2 |   1        |
 | Australia            |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
-| London Irish         |         2 |   1        |
 | England              |         2 |   0.5      |
-| Bristol Rugby        |         1 |   0        |
-| Toulon               |         1 |   0        |
-| Tonga                |         1 |   1        |
-| South Africa         |         1 |   1        |
-| Leicester Tigers     |         1 |   1        |
-| Saracens             |         1 |   0        |
-| Sale Sharks          |         1 |   1        |
-| Perpignan            |         1 |   0        |
+| Agen                 |         2 |   1        |
+| Italy                |         2 |   1        |
+| London Irish         |         2 |   1        |
 | New Zealand          |         1 |   0        |
-| Argentina            |         1 |   1        |
+| Perpignan            |         1 |   0        |
+| Leicester Tigers     |         1 |   1        |
 | Samoa                |         1 |   1        |
+| Saracens             |         1 |   0        |
+| Bristol Rugby        |         1 |   0        |
+| Argentina            |         1 |   1        |
+| South Africa         |         1 |   1        |
+| Bath Rugby           |         1 |   1        |
+| Tonga                |         1 |   1        |
+| Toulon               |         1 |   0        |
+| Sale Sharks          |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jacques van Rooyen  
-date: 2022-12-14 11:22:08.613310  
+date: 2022-12-18 16:30:01.776563  
 categories: player  
 ---
 # Jacques van Rooyen
 
 ## Positions: P
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Lions                           |            66 |   0.666667 |
 | Golden Lions                    |            33 |   0.727273 |
 | Bath Rugby                      |            23 |   0.456522 |
-| Bulls                           |            13 |   0.615385 |
+| Bulls                           |            14 |   0.571429 |
 | Blue Bulls                      |             7 |   0.714286 |
 | NTT Docomo Red Hurricanes Osaka |             1 |   0        |
 
@@ -64,13 +64,13 @@ categories: player
 | Leicester Tigers         |         2 |   1        |
 | Golden Lions             |         2 |   1        |
 | Gloucester Rugby         |         2 |   0.25     |
+| Exeter Chiefs            |         2 |   0        |
 | Melbourne Rebels         |         1 |   1        |
 | Lyon                     |         1 |   1        |
 | Saracens                 |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Kobelco Kobe Steelers    |         1 |   0        |
 | Harlequins               |         1 |   1        |
-| Exeter Chiefs            |         1 |   0        |
 | Dragons                  |         1 |   1        |
 | Connacht                 |         1 |   0        |
 | Chiefs                   |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Levani Botia Veivuke  
-date: 2022-12-14 11:12:48.168404  
+date: 2022-12-18 16:29:08.310633  
 categories: player  
 ---
 # Levani Botia Veivuke
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           151 |   0.576159 |
+| La Rochelle |           152 |   0.578947 |
 | Fiji        |            16 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,10 +42,10 @@ categories: player
 | Brive                |         6 |   0.666667 |
 | Agen                 |         5 |   0.6      |
 | Grenoble             |         4 |   0.75     |
+| Ulster               |         3 |   0.666667 |
 | Sale Sharks          |         3 |   0.666667 |
 | Gloucester Rugby     |         3 |   0.333333 |
 | Bristol Rugby        |         3 |   0.666667 |
-| Ulster               |         2 |   0.5      |
 | Wales                |         2 |   0        |
 | Perpignan            |         2 |   0.5      |
 | Benetton Treviso     |         2 |   1        |

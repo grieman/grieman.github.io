@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Wells  
-date: 2022-12-14 11:30:19.869011  
+date: 2022-12-18 16:36:56.698641  
 categories: player  
 ---
 # Harry Wells
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |           149 |    0.57047 |
-| England          |             1 |    1       |
+| Leicester Tigers |           150 |   0.573333 |
+| England          |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -36,19 +36,20 @@ categories: player
 | Sale Sharks        |        11 |   0.454545 |
 | Northampton Saints |        11 |   0.636364 |
 | Worcester Warriors |        11 |   0.636364 |
-| Gloucester Rugby   |        10 |   0.8      |
 | London Irish       |        10 |   0.7      |
+| Gloucester Rugby   |        10 |   0.8      |
 | Bristol Rugby      |         9 |   0.5      |
 | Newcastle Falcons  |         9 |   0.888889 |
 | Racing 92          |         3 |   0        |
-| Cardiff Blues      |         3 |   1        |
 | Scarlets           |         3 |   0.333333 |
+| Cardiff Blues      |         3 |   1        |
+| Ulster             |         2 |   0        |
+| Pau                |         2 |   0.5      |
 | Connacht           |         2 |   1        |
 | Ospreys            |         2 |   1        |
-| Pau                |         2 |   0.5      |
-| Ulster             |         2 |   0        |
-| Dragons            |         1 |   1        |
-| Castres Olympique  |         1 |   0        |
 | Canada             |         1 |   1        |
+| Castres Olympique  |         1 |   0        |
 | Toulon             |         1 |   0        |
+| Clermont Auvergne  |         1 |   1        |
 | Brive              |         1 |   1        |
+| Dragons            |         1 |   1        |

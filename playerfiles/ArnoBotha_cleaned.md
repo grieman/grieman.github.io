@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arno Botha  
-date: 2022-12-14 11:16:47.120669  
+date: 2022-12-18 16:18:26.488317  
 categories: player  
 ---
 # Arno Botha
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 119.0
+## Current elo: 120.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Bulls        |            67 |   0.619403 |
 | Munster      |            42 |   0.77381  |
 | Blue Bulls   |            31 |   0.774194 |
-| Lyon         |            10 |   0.5      |
+| Lyon         |            11 |   0.454545 |
 | London Irish |             7 |   0.428571 |
 | South Africa |             2 |   1        |
 
@@ -60,8 +60,8 @@ categories: player
 | Melbourne Rebels         |         3 |   0.666667 |
 | Queensland Reds          |         3 |   1        |
 | Scarlets                 |         3 |   0.666667 |
+| Saracens                 |         3 |   0.333333 |
 | Eastern Province Kings   |         2 |   1        |
-| Saracens                 |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
 | Wasps                    |         2 |   0.5      |
 | Blues                    |         2 |   0.5      |

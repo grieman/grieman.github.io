@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Godwin  
-date: 2022-12-14 11:16:11.803923  
+date: 2022-12-18 16:23:38.992177  
 categories: player  
 ---
 # Kyle Godwin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 114.0
+## Current elo: 115.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -26,8 +26,8 @@ categories: player
 | Western Force      |            83 |   0.259036 |
 | Connacht           |            38 |   0.526316 |
 | Brumbies           |            24 |   0.5      |
+| Lyon               |            13 |   0.538462 |
 | NSW Country Eagles |            13 |   0.807692 |
-| Lyon               |            12 |   0.583333 |
 | Perth Spirit       |             8 |   0.625    |
 | Australia          |             1 |   1        |
 
@@ -37,45 +37,46 @@ categories: player
 | New South Wales Waratahs |        15 |   0.4      |
 | Queensland Reds          |        14 |   0.464286 |
 | Brumbies                 |        10 |   0        |
-| Cheetahs                 |         7 |   0.571429 |
 | Highlanders              |         7 |   0.285714 |
+| Cheetahs                 |         7 |   0.571429 |
+| Bulls                    |         6 |   0.333333 |
 | Chiefs                   |         6 |   0.166667 |
 | Crusaders                |         6 |   0.166667 |
-| Bulls                    |         6 |   0.333333 |
-| Southern Kings           |         5 |   0.8      |
 | Blues                    |         5 |   0        |
-| Queensland Country       |         4 |   0.5      |
-| Leinster                 |         4 |   0        |
+| Southern Kings           |         5 |   0.8      |
 | Hurricanes               |         4 |   0.5      |
-| Sunwolves                |         3 |   1        |
-| Sharks                   |         3 |   0        |
+| Leinster                 |         4 |   0        |
+| Queensland Country       |         4 |   0.5      |
 | Perpignan                |         3 |   0.666667 |
 | Montpellier Herault      |         3 |   0.666667 |
-| Melbourne Rising         |         3 |   1        |
 | Sale Sharks              |         3 |   0.333333 |
-| Ulster                   |         3 |   0.666667 |
+| Sunwolves                |         3 |   1        |
+| Melbourne Rising         |         3 |   1        |
+| Sharks                   |         3 |   0        |
 | Brisbane City            |         3 |   0.5      |
-| Greater Sydney Rams      |         2 |   1        |
+| Ulster                   |         3 |   0.666667 |
 | Gloucester Rugby         |         2 |   0.5      |
+| Bordeaux Begles          |         2 |   1        |
 | Canberra Vikings         |         2 |   1        |
-| Cardiff Blues            |         2 |   0.5      |
 | Perth Spirit             |         2 |   1        |
+| Cardiff Blues            |         2 |   0.5      |
 | Ospreys                  |         2 |   0.5      |
 | North Harbour Rays       |         2 |   0.5      |
-| Bordeaux Begles          |         2 |   1        |
-| Stade Toulousain         |         2 |   0.5      |
+| Greater Sydney Rams      |         2 |   1        |
 | Sydney Stars             |         2 |   0.5      |
 | Stormers                 |         2 |   0        |
-| Edinburgh                |         2 |   0        |
 | Benetton Treviso         |         2 |   1        |
+| Edinburgh                |         2 |   0        |
 | Lions                    |         2 |   0        |
 | Glasgow Warriors         |         2 |   0        |
 | Jaguares                 |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0.5      |
 | Stade Francais Paris     |         1 |   1        |
 | Sydney Rays              |         1 |   1        |
 | Western Force            |         1 |   1        |
-| Bayonne                  |         1 |   0        |
 | Scarlets                 |         1 |   0        |
+| Bayonne                  |         1 |   0        |
+| Saracens                 |         1 |   0        |
 | Racing 92                |         1 |   0        |
 | Pau                      |         1 |   1        |
 | Munster                  |         1 |   0        |

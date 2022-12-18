@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Renato Giammarioli  
-date: 2022-12-14 11:28:25.872115  
+date: 2022-12-18 16:21:25.909436  
 categories: player  
 ---
 # Renato Giammarioli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 105.0
+## Current elo: 103.0
 
-## Current Percentile: 72.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Zebre           |            64 |   0.257812 |
 | Italy           |             8 |   0.25     |
 | Calvisano       |             5 |   0        |
-| Bordeaux Begles |             2 |   0        |
+| Bordeaux Begles |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -47,13 +47,13 @@ categories: player
 | Ireland              |         2 |       0    |
 | Cheetahs             |         2 |       0    |
 | Southern Kings       |         2 |       1    |
+| Sharks               |         2 |       0    |
 | RC Enisei            |         2 |       1    |
 | England              |         1 |       0    |
 | Romania              |         1 |       1    |
 | Stormers             |         1 |       0    |
 | Stade Francais Paris |         1 |       0    |
 | South Africa         |         1 |       0    |
-| Sharks               |         1 |       0    |
 | Oyonnax              |         1 |       0    |
 | Portugal             |         1 |       1    |
 | Pau                  |         1 |       0    |

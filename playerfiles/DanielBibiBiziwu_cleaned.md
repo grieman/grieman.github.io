@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Daniel Bibi Biziwu  
-date: 2022-12-12 15:22:48.688357  
+date: 2022-12-18 16:36:55.337776  
 categories: player  
 ---
 # Daniel Bibi Biziwu
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            27 |   0.555556 |
+| Clermont Auvergne |            28 |   0.535714 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,5 +37,6 @@ categories: player
 | Brive                |         1 |   1        |
 | Castres Olympique    |         1 |   0        |
 | La Rochelle          |         1 |   0        |
+| Leicester Tigers     |         1 |   0        |
 | Perpignan            |         1 |   1        |
 | Stade Francais Paris |         1 |   1        |

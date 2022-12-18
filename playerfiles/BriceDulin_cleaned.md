@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brice Dulin  
-date: 2022-12-14 11:17:32.773173  
+date: 2022-12-18 16:34:48.444675  
 categories: player  
 ---
 # Brice Dulin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Racing 92         |           125 |   0.632    |
 | Agen              |            60 |   0.608333 |
-| La Rochelle       |            43 |   0.697674 |
+| La Rochelle       |            44 |   0.704545 |
 | Castres Olympique |            34 |   0.529412 |
 | France            |            32 |   0.46875  |
 
@@ -63,6 +63,7 @@ categories: player
 | Italy                |         3 |   1        |
 | Argentina            |         3 |   0.666667 |
 | Munster              |         3 |   0.5      |
+| Ulster               |         2 |   0.5      |
 | Auch                 |         2 |   1        |
 | Lannemezan           |         2 |   1        |
 | Leinster             |         2 |   0        |
@@ -72,11 +73,10 @@ categories: player
 | Bourgoin-Jallieu     |         2 |   0.5      |
 | Provence Rugby       |         2 |   1        |
 | Samoa                |         1 |   1        |
-| Romania              |         1 |   1        |
 | Colomiers            |         1 |   1        |
+| Romania              |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | Aurillac             |         1 |   0        |
 | Tarbes               |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Canada               |         1 |   1        |
-| Ulster               |         1 |   0        |

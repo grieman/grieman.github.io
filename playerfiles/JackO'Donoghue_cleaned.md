@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack O'Donoghue  
-date: 2022-12-14 11:32:09.207043  
+date: 2022-12-18 16:16:17.836957  
 categories: player  
 ---
 # Jack O'Donoghue
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 106.0
+## Current elo: 108.0
 
 ## Current Percentile: 82.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |           163 |   0.677914 |
+| Munster |           164 |   0.679878 |
 | Ireland |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -48,10 +48,11 @@ categories: player
 | Cheetahs             |         2 |  1         |
 | Stade Francais Paris |         2 |  0.5       |
 | Stade Toulousain     |         2 |  0.5       |
-| Japan                |         1 |  1         |
+| Toulon               |         1 |  1         |
+| Wasps                |         1 |  1         |
+| Canada               |         1 |  1         |
 | Sharks               |         1 |  1         |
 | Stormers             |         1 |  1         |
-| Toulon               |         1 |  1         |
-| Canada               |         1 |  1         |
-| Wasps                |         1 |  1         |
+| Japan                |         1 |  1         |
 | Lions                |         1 |  0         |
+| Northampton Saints   |         1 |  1         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antonin Berruyer  
-date: 2022-12-14 11:25:59.873336  
+date: 2022-12-18 16:36:50.994430  
 categories: player  
 ---
 # Antonin Berruyer

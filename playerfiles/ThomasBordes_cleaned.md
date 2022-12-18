@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Bordes  
-date: 2022-12-14 11:28:57.359386  
+date: 2022-12-18 16:15:25.473940  
 categories: player  
 ---
 # Thomas Bordes

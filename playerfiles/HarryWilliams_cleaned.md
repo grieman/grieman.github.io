@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Williams  
-date: 2022-12-14 11:19:20.709354  
+date: 2022-12-18 16:29:41.080667  
 categories: player  
 ---
 # Harry Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 114.0
+## Current elo: 115.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           148 |   0.702703 |
+| Exeter Chiefs |           149 |   0.704698 |
 | England       |            19 |   0.684211 |
 | Wasps         |             2 |   0        |
 
@@ -42,24 +42,25 @@ categories: player
 | Newcastle Falcons   |         8 |   0.75     |
 | London Irish        |         6 |   0.833333 |
 | South Africa        |         4 |   0.5      |
-| Wales               |         3 |   0.666667 |
 | Argentina           |         3 |   1        |
-| Castres Olympique   |         3 |   0.666667 |
+| Wales               |         3 |   0.666667 |
 | Glasgow Warriors    |         3 |   0.666667 |
-| Leinster            |         2 |   0        |
-| La Rochelle         |         2 |   1        |
-| Ulster              |         2 |   0.5      |
-| Clermont Auvergne   |         2 |   0        |
+| Castres Olympique   |         3 |   0.666667 |
 | Scotland            |         2 |   0        |
+| La Rochelle         |         2 |   1        |
+| Leinster            |         2 |   0        |
+| Australia           |         2 |   1        |
 | Montpellier Herault |         2 |   1        |
 | Munster             |         2 |   0.25     |
-| Australia           |         2 |   1        |
-| Racing 92           |         1 |   1        |
-| Ospreys             |         1 |   1        |
-| Samoa               |         1 |   1        |
+| Clermont Auvergne   |         2 |   0        |
+| Ulster              |         2 |   0.5      |
+| Bordeaux Begles     |         1 |   1        |
+| Stade Toulousain    |         1 |   1        |
 | Italy               |         1 |   1        |
+| Bulls               |         1 |   1        |
+| Samoa               |         1 |   1        |
+| Racing 92           |         1 |   1        |
 | Japan               |         1 |   1        |
 | New Zealand         |         1 |   0        |
-| Stade Toulousain    |         1 |   1        |
-| Bordeaux Begles     |         1 |   1        |
 | Ireland             |         1 |   1        |
+| Ospreys             |         1 |   1        |

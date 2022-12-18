@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Baptiste Barrère  
-date: 2022-12-14 11:18:16.971836  
+date: 2022-12-18 16:30:53.464609  
 categories: player  
 ---
 # Jean-Baptiste Barrère
 
 ## Positions: FL
 
-## Current elo: 82.0
+## Current elo: 80.0
 
-## Current Percentile: 6.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |           126 |   0.539683 |
+| Beziers |           127 |   0.543307 |
 | Pau     |            43 |   0.639535 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,11 +30,11 @@ categories: player
 | Mont-de-Marsan             |        12 |   0.291667 |
 | Montauban                  |        10 |   0.95     |
 | Aurillac                   |         9 |   0.555556 |
+| Biarritz Olympique         |         8 |   0.5      |
 | Narbonne                   |         8 |   0.75     |
 | Colomiers                  |         8 |   0.75     |
 | Provence Rugby             |         7 |   0.428571 |
 | Perpignan                  |         7 |   0.571429 |
-| Biarritz Olympique         |         7 |   0.428571 |
 | Grenoble                   |         7 |   0.142857 |
 | Agen                       |         6 |   0.666667 |
 | Albi                       |         6 |   0.75     |

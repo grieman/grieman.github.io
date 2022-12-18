@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacob Stockdale  
-date: 2022-12-14 11:33:00.651625  
+date: 2022-12-18 16:39:12.834613  
 categories: player  
 ---
 # Jacob Stockdale

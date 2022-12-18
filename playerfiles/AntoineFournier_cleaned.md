@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Fournier  
-date: 2022-12-12 15:34:12.559634  
+date: 2022-12-18 16:24:24.969061  
 categories: player  
 ---
 # Antoine Fournier
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Aurillac    |            78 |   0.583333 |
-| Rouen       |            39 |   0.384615 |
+| Rouen       |            40 |   0.375    |
 | Carcassonne |            14 |   0.285714 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -45,12 +45,12 @@ categories: player
 | Biarritz Olympique |         4 |   0.5      |
 | Bayonne            |         4 |   0.25     |
 | Massy              |         3 |   1        |
+| Aurillac           |         3 |   0        |
 | Perpignan          |         3 |   0.666667 |
 | Provence Rugby     |         3 |   0.5      |
 | Auch               |         3 |   0.666667 |
 | Vannes             |         3 |   0.666667 |
 | Albi               |         2 |   0.5      |
-| Aurillac           |         2 |   0        |
 | Pau                |         2 |   0.5      |
 | Soyaux-Angouleme   |         2 |   0.5      |
 | US Bressane        |         2 |   1        |

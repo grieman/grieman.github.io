@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Reinhardt Fortuin  
-date: 2022-12-14 11:20:45.574525  
+date: 2022-12-18 16:19:50.012168  
 categories: player  
 ---
 # Reinhardt Fortuin
 
-## Positions: FH
+## Positions: FH, C
 
-## Current elo: 97.0
+## Current elo: 93.0
 
 ## Current Percentile: 53.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Free State Cheetahs |            17 |   0.617647 |
-| Cheetahs            |             1 |   1        |
+| Cheetahs            |             2 |   0.5      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Golden Lions     |         2 |   0.75     |
 | Pau              |         1 |   1        |
 | Pumas            |         1 |   1        |
+| Scarlets         |         1 |   0        |

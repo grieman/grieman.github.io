@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibaut Martel  
-date: 2022-12-14 11:27:57.785811  
+date: 2022-12-18 16:36:40.946377  
 categories: player  
 ---
 # Thibaut Martel
 
 ## Positions: FL, N8
 
-## Current elo: 75.0
+## Current elo: 78.0
 
-## Current Percentile: 6.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            43 |   0.546512 |
+| Grenoble |            44 |   0.556818 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -40,7 +40,8 @@ categories: player
 | Bayonne            |         2 |   0.5      |
 | Soyaux-Angouleme   |         2 |   1        |
 | Clermont Auvergne  |         1 |   0        |
+| Harlequins         |         1 |   0        |
 | Biarritz Olympique |         1 |   0.5      |
 | Narbonne           |         1 |   0.5      |
 | Benetton Treviso   |         1 |   0        |
-| Harlequins         |         1 |   0        |
+| Massy              |         1 |   1        |

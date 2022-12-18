@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yann Thomas  
-date: 2022-12-14 11:33:12.112778  
+date: 2022-12-18 16:11:32.199778  
 categories: player  
 ---
 # Yann Thomas
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |           148 |   0.510135 |
-| Bristol Rugby    |            86 |   0.52907  |
+| Bristol Rugby    |            87 |   0.534483 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,8 +37,8 @@ categories: player
 | London Irish         |        15 |   0.666667 |
 | Leicester Tigers     |        12 |   0.416667 |
 | Saracens             |        12 |   0.416667 |
+| Zebre                |         8 |   0.875    |
 | La Rochelle          |         8 |   0.5      |
-| Zebre                |         7 |   0.857143 |
 | Dragons              |         5 |   0.6      |
 | Gloucester Rugby     |         5 |   0.6      |
 | London Welsh         |         4 |   1        |

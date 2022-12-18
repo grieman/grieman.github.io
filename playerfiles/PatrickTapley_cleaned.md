@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Patrick Tapley  
-date: 2022-12-14 11:12:15.403761  
+date: 2022-12-18 16:30:40.342193  
 categories: player  
 ---
 # Patrick Tapley

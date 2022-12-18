@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Walcker  
-date: 2022-12-14 11:18:54.125624  
+date: 2022-12-18 16:27:32.224605  
 categories: player  
 ---
 # Quentin Walcker
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 33.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -24,29 +24,29 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Perpignan         |            42 |   0.583333 |
-| Castres Olympique |            28 |   0.625    |
+| Castres Olympique |            29 |   0.603448 |
 | France            |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Biarritz Olympique         |         4 |   0.5      |
-| Bordeaux Begles            |         4 |   0.125    |
-| Stade Toulousain           |         4 |   0.5      |
 | Stade Francais Paris       |         4 |   0.5      |
 | Clermont Auvergne          |         4 |   0.75     |
 | Montpellier Herault        |         4 |   0.5      |
-| Montauban                  |         3 |   0.666667 |
-| Aurillac                   |         3 |   0.833333 |
-| Carcassonne                |         3 |   1        |
-| Racing 92                  |         3 |   0.333333 |
+| Biarritz Olympique         |         4 |   0.5      |
+| Bordeaux Begles            |         4 |   0.125    |
+| Stade Toulousain           |         4 |   0.5      |
 | Perpignan                  |         3 |   0.666667 |
-| Valence Romans Drome Rugby |         2 |   1        |
-| Toulon                     |         2 |   0        |
+| Racing 92                  |         3 |   0.333333 |
+| Aurillac                   |         3 |   0.833333 |
+| Montauban                  |         3 |   0.666667 |
+| Carcassonne                |         3 |   1        |
 | Provence Rugby             |         2 |   1        |
+| Toulon                     |         2 |   0        |
 | Pau                        |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
-| Vannes                     |         2 |   1        |
+| Valence Romans Drome Rugby |         2 |   1        |
 | Mont-de-Marsan             |         2 |   1        |
+| Vannes                     |         2 |   1        |
 | Lyon                       |         2 |   0.5      |
 | La Rochelle                |         2 |   0.5      |
 | Connacht                   |         2 |   0        |
@@ -54,6 +54,7 @@ categories: player
 | Australia                  |         2 |   0        |
 | Oyonnax                    |         1 |   1        |
 | Grenoble                   |         1 |   1        |
+| Edinburgh                  |         1 |   0        |
 | Colomiers                  |         1 |   1        |
 | Rouen                      |         1 |   1        |
 | Sale Sharks                |         1 |   0        |

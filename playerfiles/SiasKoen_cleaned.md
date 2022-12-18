@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sias Koen  
-date: 2022-12-14 11:25:08.715435  
+date: 2022-12-18 16:31:52.390573  
 categories: player  
 ---
 # Sias Koen
 
 ## Positions: N8, FL
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 28.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |            44 |   0.454545 |
+| Beziers  |            45 |   0.466667 |
 | Griquas  |            25 |   0.4      |
 | Cheetahs |             4 |   0        |
 
@@ -42,10 +42,10 @@ categories: player
 | Agen                       |         3 |   1        |
 | Colomiers                  |         3 |   0.666667 |
 | Free State Cheetahs        |         2 |   0.5      |
+| Biarritz Olympique         |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
 | Perpignan                  |         2 |   0.5      |
-| Biarritz Olympique         |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Scarlets                   |         1 |   0        |

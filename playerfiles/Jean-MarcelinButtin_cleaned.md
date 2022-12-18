@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Marcelin Buttin  
-date: 2022-12-14 11:31:52.388381  
+date: 2022-12-18 16:24:55.727100  
 categories: player  
 ---
 # Jean-Marcelin Buttin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 63.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Clermont Auvergne |            77 |   0.655844 |
 | Lyon              |            50 |   0.5      |
 | Bordeaux Begles   |            42 |   0.47619  |
-| Agen              |            31 |   0.129032 |
+| Agen              |            32 |   0.125    |
 | France            |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -52,8 +52,8 @@ categories: player
 | Perpignan            |         4 |   0.75     |
 | Exeter Chiefs        |         4 |   0.75     |
 | Saracens             |         4 |   0.5      |
-| Leinster             |         3 |   0        |
 | Cardiff Blues        |         3 |   0        |
+| Leinster             |         3 |   0        |
 | Benetton Treviso     |         2 |   0.5      |
 | Northampton Saints   |         2 |   0        |
 | Ospreys              |         2 |   0.5      |
@@ -66,6 +66,7 @@ categories: player
 | Argentina            |         1 |   0        |
 | Glasgow Warriors     |         1 |   0        |
 | Rouen                |         1 |   1        |
+| Nevers               |         1 |   0        |
 | Munster              |         1 |   1        |
 | Montauban            |         1 |   0        |
 | Aironi               |         1 |   1        |

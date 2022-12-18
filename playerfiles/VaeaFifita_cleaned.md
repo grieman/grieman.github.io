@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaea Fifita  
-date: 2022-12-14 11:13:06.620322  
+date: 2022-12-18 16:28:40.249492  
 categories: player  
 ---
 # Vaea Fifita
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 117.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Wellington  |            41 |   0.54878  |
 | Wasps       |            18 |   0.5      |
 | New Zealand |            11 |   0.954545 |
-| Scarlets    |             5 |   0.1      |
+| Scarlets    |             6 |   0.25     |
 | Tonga       |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,35 +41,36 @@ categories: player
 | Lions                    |         5 |   0.6      |
 | Taranaki                 |         4 |   0.5      |
 | Jaguares                 |         4 |   0.75     |
-| Brumbies                 |         4 |   0.75     |
 | Northland                |         4 |   0.75     |
 | Waikato                  |         4 |   0.5      |
 | Otago                    |         4 |   0.5      |
-| Tasman                   |         3 |   0        |
-| Southland                |         3 |   1        |
-| Counties Manukau         |         3 |   0.666667 |
+| Brumbies                 |         4 |   0.75     |
 | Melbourne Rebels         |         3 |   1        |
-| France                   |         3 |   1        |
 | Hawke's Bay              |         3 |   0.166667 |
-| Stormers                 |         3 |   0.666667 |
+| Southland                |         3 |   1        |
+| France                   |         3 |   1        |
 | Argentina                |         3 |   1        |
+| Counties Manukau         |         3 |   0.666667 |
+| Stormers                 |         3 |   0.666667 |
+| Tasman                   |         3 |   0        |
+| Auckland                 |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   0.5      |
 | Northampton Saints       |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
-| Auckland                 |         2 |   0.5      |
 | Harlequins               |         2 |   0        |
+| Sunwolves                |         2 |   1        |
 | Gloucester Rugby         |         2 |   0.5      |
 | Exeter Chiefs            |         2 |   0.5      |
-| Sunwolves                |         2 |   1        |
+| Cheetahs                 |         2 |   1        |
 | Canterbury               |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
 | Western Force            |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
 | Spain                    |         1 |   1        |
 | Saracens                 |         1 |   1        |
-| Southern Kings           |         1 |   1        |
 | Ulster                   |         1 |   0        |
 | Uruguay                  |         1 |   1        |
+| Southern Kings           |         1 |   1        |
 | South Africa             |         1 |   0.5      |
 | Scotland                 |         1 |   1        |
 | London Irish             |         1 |   1        |
@@ -82,7 +83,6 @@ categories: player
 | Japan                    |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Chile                    |         1 |   1        |
-| Cheetahs                 |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
 | British and Irish Lions  |         1 |   0.5      |
 | Bristol Rugby            |         1 |   1        |

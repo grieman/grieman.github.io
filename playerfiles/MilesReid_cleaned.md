@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Miles Reid  
-date: 2022-12-12 15:31:57.870262  
+date: 2022-12-18 16:15:33.730022  
 categories: player  
 ---
 # Miles Reid
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            53 |   0.424528 |
+| Bath Rugby |            54 |   0.416667 |
 | Selknam    |            14 |   0.642857 |
 | Chile      |             8 |   0.5      |
 
@@ -52,4 +52,5 @@ categories: player
 | Romania                  |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | Tonga                    |         1 |   0        |
+| Toulon                   |         1 |   0        |
 | Brazil                   |         1 |   1        |

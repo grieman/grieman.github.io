@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Freddie Clarke  
-date: 2022-12-14 11:14:17.519553  
+date: 2022-12-18 16:27:58.596088  
 categories: player  
 ---
 # Freddie Clarke
 
 ## Positions: L, FL
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 86.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           120 |   0.541667 |
-| London Welsh     |             1 |   1        |
-| Rotherham Titans |             1 |   0        |
+| Gloucester Rugby |           121 |    0.53719 |
+| London Welsh     |             1 |    1       |
+| Rotherham Titans |             1 |    0       |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,19 +33,21 @@ categories: player
 | Harlequins           |         9 |   0.222222 |
 | Leicester Tigers     |         9 |   0.222222 |
 | Bath Rugby           |         9 |   0.777778 |
+| London Irish         |         8 |   0.6875   |
 | Sale Sharks          |         8 |   0.5      |
 | Northampton Saints   |         8 |   0.625    |
-| London Irish         |         8 |   0.6875   |
 | Bristol Rugby        |         7 |   0.428571 |
 | Newcastle Falcons    |         7 |   0.714286 |
 | Worcester Warriors   |         6 |   0.833333 |
-| Agen                 |         2 |   1        |
-| Munster              |         2 |   0        |
+| Montpellier Herault  |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0        |
 | Pau                  |         2 |   0        |
-| Zebre                |         2 |   1        |
-| Montpellier Herault  |         2 |   0.5      |
+| Munster              |         2 |   0        |
+| Agen                 |         2 |   1        |
 | Castres Olympique    |         2 |   0.5      |
+| Zebre                |         2 |   1        |
+| London Scottish      |         1 |   1        |
+| Leinster             |         1 |   0        |
 | La Rochelle          |         1 |   1        |
 | Ospreys              |         1 |   1        |
 | Dragons              |         1 |   1        |
@@ -54,4 +56,3 @@ categories: player
 | Bordeaux Begles      |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | Bedford              |         1 |   0        |
-| London Scottish      |         1 |   1        |

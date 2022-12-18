@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyril Baille  
-date: 2022-12-14 11:30:26.524350  
+date: 2022-12-18 16:39:07.802888  
 categories: player  
 ---
 # Cyril Baille
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 112.0
+## Current elo: 114.0
 
 ## Current Percentile: 91.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |           143 |   0.618881 |
+| Stade Toulousain |           144 |   0.621528 |
 | France           |            36 |   0.722222 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -56,17 +56,18 @@ categories: player
 | Leinster                 |         2 |   0        |
 | Argentina                |         2 |   1        |
 | Grenoble                 |         2 |   0.5      |
-| Gloucester Rugby         |         2 |   1        |
-| Biarritz Olympique       |         2 |   1        |
-| Bath Rugby               |         2 |   1        |
 | Australia                |         2 |   0.5      |
+| Bath Rugby               |         2 |   1        |
+| Biarritz Olympique       |         2 |   1        |
 | Zebre                    |         2 |   1        |
-| Glasgow Warriors         |         1 |   1        |
-| Samoa                    |         1 |   1        |
+| Gloucester Rugby         |         2 |   1        |
 | Saracens                 |         1 |   0        |
 | Georgia                  |         1 |   1        |
-| South Africa             |         1 |   1        |
+| Samoa                    |         1 |   1        |
 | Exeter Chiefs            |         1 |   0        |
 | Tonga                    |         1 |   1        |
 | Cardiff Blues            |         1 |   1        |
+| Sale Sharks              |         1 |   1        |
 | United States of America |         1 |   1        |
+| Glasgow Warriors         |         1 |   1        |
+| South Africa             |         1 |   1        |

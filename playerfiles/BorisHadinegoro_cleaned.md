@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Boris Hadinegoro  
-date: 2022-12-14 11:31:56.835233  
+date: 2022-12-18 16:34:13.033867  
 categories: player  
 ---
 # Boris Hadinegoro
@@ -17,9 +17,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |             2 |        0.5 |
+| Aurillac |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Biarritz Olympique |         1 |          0 |
+| Rouen              |         1 |          1 |
 | Vannes             |         1 |          1 |

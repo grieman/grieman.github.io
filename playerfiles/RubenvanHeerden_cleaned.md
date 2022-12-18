@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ruben van Heerden  
-date: 2022-12-14 11:27:22.407116  
+date: 2022-12-18 16:18:48.903854  
 categories: player  
 ---
 # Ruben van Heerden
 
 ## Positions: L
 
-## Current elo: 109.0
+## Current elo: 110.0
 
 ## Current Percentile: 85.0
 
@@ -22,14 +22,14 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Sharks        |            32 |   0.53125  |
-| Exeter Chiefs |            11 |   0.545455 |
+| Exeter Chiefs |            12 |   0.583333 |
 | Natal Sharks  |            11 |   0.727273 |
 | Blue Bulls    |             9 |   0.444444 |
 | Bulls         |             4 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Bulls                    |         6 |   0.5      |
+| Bulls                    |         7 |   0.571429 |
 | Stormers                 |         6 |   0.583333 |
 | Griquas                  |         5 |   0.8      |
 | Free State Cheetahs      |         4 |   0.5      |

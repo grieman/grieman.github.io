@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Cuthbert  
-date: 2022-12-14 11:19:19.846645  
+date: 2022-12-18 16:21:17.853014  
 categories: player  
 ---
 # Alex Cuthbert
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 111.0
+## Current elo: 114.0
 
-## Current Percentile: 90.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Cardiff Blues           |           114 |   0.508772 |
 | Wales                   |            55 |   0.518182 |
 | Exeter Chiefs           |            29 |   0.724138 |
-| Ospreys                 |             8 |   0.75     |
+| Ospreys                 |             9 |   0.777778 |
 | British and Irish Lions |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -47,10 +47,10 @@ categories: player
 | Scotland            |         5 |   1        |
 | South Africa        |         5 |   0.4      |
 | France              |         5 |   0.8      |
+| Montpellier Herault |         5 |   0.4      |
 | Harlequins          |         5 |   0.2      |
 | Toulon              |         4 |   0.25     |
 | Newcastle Falcons   |         4 |   1        |
-| Montpellier Herault |         4 |   0.25     |
 | Italy               |         4 |   1        |
 | Zebre               |         4 |   0.75     |
 | Bristol Rugby       |         4 |   0.75     |

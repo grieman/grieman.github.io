@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Stewart Moore  
-date: 2022-12-14 11:36:02.684354  
+date: 2022-12-18 16:34:03.164118  
 categories: player  
 ---
 # Stewart Moore
 
 ## Positions: C, FB
 
-## Current elo: 112.0
+## Current elo: 111.0
 
 ## Current Percentile: 92.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |            35 |   0.742857 |
+| Ulster |            36 |   0.722222 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,6 +38,7 @@ categories: player
 | Stormers         |         2 |   0        |
 | Benetton Treviso |         2 |   1        |
 | Cheetahs         |         1 |   1        |
+| La Rochelle      |         1 |   0        |
 | Bulls            |         1 |   0        |
 | Sale Sharks      |         1 |   0        |
 | Scarlets         |         1 |   1        |

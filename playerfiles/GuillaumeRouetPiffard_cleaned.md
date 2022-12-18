@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Rouet Piffard  
-date: 2022-12-14 11:36:51.416913  
+date: 2022-12-18 16:16:00.558934  
 categories: player  
 ---
 # Guillaume Rouet Piffard

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault Hamonou  
-date: 2022-12-14 11:36:06.812250  
+date: 2022-12-18 16:13:22.576382  
 categories: player  
 ---
 # Thibault Hamonou
 
 ## Positions: FL, L
 
-## Current elo: 81.0
+## Current elo: 85.0
 
-## Current Percentile: 8.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |            12 |   0.166667 |
+| Pau    |            13 |   0.230769 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Castres Olympique  |         1 |          0 |
 | Cheetahs           |         1 |          0 |
 | Clermont Auvergne  |         1 |          0 |
+| Dragons            |         1 |          1 |
 | Edinburgh          |         1 |          0 |
 | London Irish       |         1 |          0 |
 | Lyon               |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kurt Haupt  
-date: 2022-12-14 11:32:36.529993  
+date: 2022-12-18 16:21:54.091814  
 categories: player  
 ---
 # Kurt Haupt

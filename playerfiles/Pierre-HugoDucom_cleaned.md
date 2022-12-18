@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre-Hugo Ducom  
-date: 2022-12-14 11:34:46.830698  
+date: 2022-12-18 16:15:23.175369  
 categories: player  
 ---
 # Pierre-Hugo Ducom

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Atsushi Sakate  
-date: 2022-11-22 11:40:52.220904  
+date: 2022-12-18 16:38:38.499250  
 categories: player  
 ---
 # Atsushi Sakate
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 103.0
+## Current elo: 101.0
 
-## Current Percentile: 62.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            33 |  0.954545  |
+| Saitama Wild Knights |            34 |  0.955882  |
 | Japan                |            24 |  0.354167  |
 | Sunwolves            |            17 |  0.0588235 |
 
@@ -33,19 +33,19 @@ categories: player
 | Yokohama Canon Eagles             |         3 |   1        |
 | Urayasu D-Rocks                   |         3 |   1        |
 | Lions                             |         3 |   0        |
+| Toshiba Brave Lupus Tokyo         |         3 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   1        |
 | Kobelco Kobe Steelers             |         3 |   0.833333 |
 | Ireland                           |         3 |   0.333333 |
 | Coca-Cola Red Sparks              |         3 |   1        |
 | Black Rams Tokyo                  |         3 |   0.666667 |
 | Green Rockets Tokatsu             |         3 |   1        |
-| Russia                            |         2 |   1        |
 | New Zealand                       |         2 |   0        |
 | Scotland                          |         2 |   0.5      |
+| Russia                            |         2 |   1        |
 | Sharks                            |         2 |   0        |
 | South Africa                      |         2 |   0        |
 | Stormers                          |         2 |   0        |
-| Toshiba Brave Lupus Tokyo         |         2 |   1        |
 | Toyota Verblitz                   |         2 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
 | Australia                         |         2 |   0        |

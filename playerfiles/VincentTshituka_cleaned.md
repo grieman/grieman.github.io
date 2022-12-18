@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent Tshituka  
-date: 2022-12-14 11:16:22.582918  
+date: 2022-12-18 16:33:57.500137  
 categories: player  
 ---
 # Vincent Tshituka
 
 ## Positions: FL
 
-## Current elo: 104.0
+## Current elo: 108.0
 
-## Current Percentile: 74.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Lions        |            28 |   0.535714 |
 | Golden Lions |            13 |   0.769231 |
-| Sharks       |             5 |   0.6      |
+| Sharks       |             6 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -53,4 +53,5 @@ categories: player
 | Griquas                  |         1 |   1        |
 | Edinburgh                |         1 |   1        |
 | Connacht                 |         1 |   0        |
+| Bordeaux Begles          |         1 |   1        |
 | Zebre                    |         1 |   1        |

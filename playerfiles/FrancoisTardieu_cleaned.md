@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francois Tardieu  
-date: 2022-12-14 11:20:18.743666  
+date: 2022-12-18 16:12:26.336390  
 categories: player  
 ---
 # Francois Tardieu

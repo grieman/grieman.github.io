@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Bly  
-date: 2022-12-14 11:16:10.942395  
+date: 2022-12-18 16:13:27.235111  
 categories: player  
 ---
 # Kevin Bly
 
 ## Positions: W
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 84.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Vannes         |            50 |    0.52    |
-| Provence Rugby |            27 |    0.62963 |
+| Vannes         |            50 |   0.52     |
+| Provence Rugby |            28 |   0.607143 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -41,10 +41,10 @@ categories: player
 | Grenoble           |         3 |   0.666667 |
 | Biarritz Olympique |         3 |   0        |
 | Bayonne            |         3 |   0.333333 |
+| Vannes             |         3 |   0.333333 |
 | Narbonne           |         2 |   0        |
 | Perpignan          |         2 |   0        |
 | Brive              |         2 |   0        |
 | Roval Drome XV     |         2 |   1        |
 | US Bressane        |         2 |   0.75     |
-| Vannes             |         2 |   0.5      |
 | Massy              |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matthis Lebel  
-date: 2022-12-14 11:35:35.077906  
+date: 2022-12-18 16:36:10.580705  
 categories: player  
 ---
 # Matthis Lebel
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 129.0
+## Current elo: 131.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            73 |   0.671233 |
+| Stade Toulousain |            74 |   0.675676 |
 | France           |             5 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,18 +33,19 @@ categories: player
 | Bordeaux Begles      |         6 |   0.666667 |
 | Clermont Auvergne    |         6 |   0.583333 |
 | Racing 92            |         6 |   0.666667 |
+| Pau                  |         5 |   0.8      |
 | Brive                |         5 |   0.8      |
 | Castres Olympique    |         5 |   0.5      |
 | Stade Francais Paris |         5 |   0.4      |
-| Pau                  |         5 |   0.8      |
 | Lyon                 |         5 |   0.4      |
 | Toulon               |         4 |   0.75     |
 | Japan                |         2 |   1        |
 | Perpignan            |         2 |   0.5      |
-| Munster              |         1 |   1        |
 | Wales                |         1 |   1        |
 | Ulster               |         1 |   1        |
+| Sale Sharks          |         1 |   1        |
 | Agen                 |         1 |   1        |
+| Munster              |         1 |   1        |
 | Australia            |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | Georgia              |         1 |   1        |

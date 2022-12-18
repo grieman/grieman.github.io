@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Leiataua  
-date: 2022-12-09 13:16:14.450623  
+date: 2022-12-18 16:12:08.501605  
 categories: player  
 ---
 # Manu Leiataua
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Bayonne       |            35 |   0.3      |
-| Oyonnax       |            34 |   0.735294 |
+| Oyonnax       |            35 |   0.742857 |
 | Aurillac      |            23 |   0.695652 |
 | Perpignan     |            15 |   0.133333 |
 | Samoa         |            10 |   0.1      |
@@ -51,28 +51,28 @@ categories: player
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Bordeaux Begles            |         3 |   0.333333 |
 | Nevers                     |         3 |   0.666667 |
-| Narbonne                   |         3 |   0.666667 |
 | Toulon                     |         3 |   0.333333 |
-| Montauban                  |         2 |   0.5      |
-| Scotland                   |         2 |   0        |
+| Narbonne                   |         3 |   0.666667 |
+| Colomiers                  |         3 |   0.333333 |
 | Montpellier Herault        |         2 |   0.5      |
 | Sale Sharks                |         2 |   0        |
+| Scotland                   |         2 |   0        |
 | Albi                       |         2 |   0        |
+| Montauban                  |         2 |   0.5      |
 | Massy                      |         2 |   0.5      |
-| Dax                        |         2 |   1        |
 | Bayonne                    |         2 |   0.5      |
 | Brive                      |         2 |   0.5      |
-| Colomiers                  |         2 |   0        |
 | Connacht                   |         2 |   0        |
+| Dax                        |         2 |   1        |
 | Georgia                    |         2 |   0.5      |
-| England                    |         1 |   0        |
 | France                     |         1 |   0        |
+| England                    |         1 |   0        |
 | Romania                    |         1 |   0        |
-| Italy                      |         1 |   0        |
+| Gloucester Rugby           |         1 |   0        |
 | New Zealand                |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   0.5      |
 | Stade Francais Paris       |         1 |   0        |
-| Gloucester Rugby           |         1 |   0        |
+| Italy                      |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Bay of Plenty              |         1 |   0        |
 | Wales                      |         1 |   0        |

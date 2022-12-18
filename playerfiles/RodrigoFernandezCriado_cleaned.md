@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Rodrigo Fernandez Criado  
-date: 2022-12-14 11:21:05.176876  
+date: 2022-12-18 16:23:29.088654  
 categories: player  
 ---
 # Rodrigo Fernandez Criado
 
 ## Positions: L
 
-## Current elo: 111.0
+## Current elo: 112.0
 
 ## Current Percentile: 87.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Jaguares XV  |            12 |   0.666667 |
 | Belgrano     |            11 |   0.772727 |
-| Montauban    |             3 |   0.333333 |
+| Montauban    |             4 |   0.5      |
 | Ceibos Rugby |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -32,16 +32,17 @@ categories: player
 | Penarol Rugby       |         3 |   0.333333 |
 | Olimpia Lions       |         3 |   1        |
 | Cafeteros Pro       |         2 |   1        |
-| Regatas Bella Vista |         2 |   1        |
 | SIC                 |         2 |   0.5      |
-| Cobras              |         1 |   1        |
-| Colomiers           |         1 |   1        |
-| Hindu               |         1 |   1        |
-| La Plata            |         1 |   1        |
-| Newman              |         1 |   1        |
-| Buenos Aires        |         1 |   1        |
-| Oyonnax             |         1 |   0        |
-| Pucara              |         1 |   1        |
-| Rouen               |         1 |   0        |
-| San Luis            |         1 |   0.5      |
+| Regatas Bella Vista |         2 |   1        |
 | Alumni              |         1 |   0        |
+| San Luis            |         1 |   0.5      |
+| Rouen               |         1 |   0        |
+| Pucara              |         1 |   1        |
+| Oyonnax             |         1 |   0        |
+| Buenos Aires        |         1 |   1        |
+| Newman              |         1 |   1        |
+| La Plata            |         1 |   1        |
+| Hindu               |         1 |   1        |
+| Colomiers           |         1 |   1        |
+| Cobras              |         1 |   1        |
+| Soyaux-Angouleme    |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Elliot Roudil  
-date: 2022-12-14 11:18:56.274791  
+date: 2022-12-18 16:31:29.088510  
 categories: player  
 ---
 # Elliot Roudil
 
 ## Positions: W, C
 
-## Current elo: 84.0
+## Current elo: 85.0
 
 ## Current Percentile: 11.0
 
@@ -22,14 +22,14 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |            86 |   0.534884 |
-| Pau         |            40 |   0.4125   |
+| Pau         |            41 |   0.426829 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montpellier Herault  |        12 |   0.458333 |
-| Toulon               |        10 |   0.5      |
-| Stade Francais Paris |        10 |   0.55     |
 | Clermont Auvergne    |        10 |   0.3      |
+| Stade Francais Paris |        10 |   0.55     |
+| Toulon               |        10 |   0.5      |
 | Brive                |         8 |   0.625    |
 | Lyon                 |         8 |   0.625    |
 | Castres Olympique    |         7 |   0.142857 |
@@ -39,20 +39,21 @@ categories: player
 | Pau                  |         4 |   0.5      |
 | Bayonne              |         4 |   0.75     |
 | Bristol Rugby        |         3 |   0.666667 |
-| Oyonnax              |         3 |   0.333333 |
 | Perpignan            |         3 |   1        |
 | Gloucester Rugby     |         3 |   0        |
+| Oyonnax              |         3 |   0.333333 |
 | La Rochelle          |         3 |   0        |
 | Zebre                |         3 |   0.666667 |
 | Worcester Warriors   |         2 |   0.5      |
 | Agen                 |         2 |   1        |
 | Grenoble             |         2 |   1        |
+| Harlequins           |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
-| RC Enisei            |         1 |   1        |
 | Edinburgh            |         1 |   1        |
+| RC Enisei            |         1 |   1        |
+| Dragons              |         1 |   1        |
 | Connacht             |         1 |   0        |
 | Cheetahs             |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |
 | Ulster               |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
-| Harlequins           |         1 |   1        |

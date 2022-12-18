@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: John Ryan  
-date: 2022-12-14 11:35:04.353700  
+date: 2022-12-18 16:14:59.213710  
 categories: player  
 ---
 # John Ryan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 76.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Munster      |           196 |   0.655612 |
+| Munster      |           197 |   0.65736  |
 | Ireland      |            21 |   0.857143 |
 | Wasps        |             4 |   0.25     |
 | London Irish |             2 |   0        |
@@ -48,19 +48,19 @@ categories: player
 | Cheetahs                 |         4 |   1        |
 | Gloucester Rugby         |         4 |   0.5      |
 | Southern Kings           |         3 |   1        |
-| Wales                    |         3 |   0.666667 |
 | France                   |         3 |   1        |
 | Italy                    |         3 |   1        |
 | Japan                    |         3 |   1        |
 | Stade Toulousain         |         3 |   0.666667 |
-| Stade Francais Paris     |         2 |   0.5      |
+| Northampton Saints       |         3 |   0.666667 |
+| Wales                    |         3 |   0.666667 |
 | Toulon                   |         2 |   0.5      |
+| Stade Francais Paris     |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0        |
-| Northampton Saints       |         2 |   0.5      |
 | Australia                |         2 |   0.5      |
 | Exeter Chiefs            |         2 |   0.75     |
-| United States of America |         1 |   1        |
 | Bath Rugby               |         1 |   1        |
+| United States of America |         1 |   1        |
 | South Africa             |         1 |   1        |
 | Wasps                    |         1 |   0        |
 | Sale Sharks              |         1 |   1        |

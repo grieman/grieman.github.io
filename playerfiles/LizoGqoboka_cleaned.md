@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lizo Gqoboka  
-date: 2022-12-14 11:31:10.534814  
+date: 2022-12-18 16:39:34.913763  
 categories: player  
 ---
 # Lizo Gqoboka
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 94.0
+## Current elo: 93.0
 
 ## Current Percentile: 42.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Bulls                  |            67 |   0.440299 |
+| Bulls                  |            68 |   0.433824 |
 | Eastern Province Kings |            20 |   0.35     |
 | Blue Bulls             |            19 |   0.736842 |
 | South Africa           |             2 |   1        |
@@ -46,23 +46,24 @@ categories: player
 | Melbourne Rebels         |         3 |   1        |
 | Hurricanes               |         3 |   0.333333 |
 | Griquas                  |         3 |   1        |
-| Blues                    |         3 |   0.166667 |
 | Crusaders                |         3 |   0        |
 | Chiefs                   |         3 |   0        |
 | Cheetahs                 |         3 |   0.666667 |
 | Blue Bulls               |         3 |   0        |
+| Blues                    |         3 |   0.166667 |
 | Border Bulldogs          |         3 |   1        |
-| New South Wales Waratahs |         2 |   0.5      |
 | Brumbies                 |         2 |   0        |
 | Boland Cavaliers         |         2 |   1        |
+| New South Wales Waratahs |         2 |   0.5      |
 | Western Force            |         1 |   1        |
 | Valke                    |         1 |   1        |
 | Australia                |         1 |   1        |
 | Southern Kings           |         1 |   0        |
+| Exeter Chiefs            |         1 |   0        |
 | Edinburgh                |         1 |   0        |
-| Eastern Province Kings   |         1 |   1        |
 | Cardiff Blues            |         1 |   1        |
 | Lyon                     |         1 |   1        |
 | Connacht                 |         1 |   0        |
 | Argentina                |         1 |   1        |
+| Eastern Province Kings   |         1 |   1        |
 | Agen                     |         1 |   0        |

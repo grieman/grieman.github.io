@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Pertaia  
-date: 2022-12-14 11:21:30.367668  
+date: 2022-12-18 16:33:07.260368  
 categories: player  
 ---
 # Giorgi Pertaia

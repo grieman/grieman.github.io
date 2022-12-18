@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cherif Traore  
-date: 2022-12-14 11:18:17.656242  
+date: 2022-12-18 16:14:35.045438  
 categories: player  
 ---
 # Cherif Traore

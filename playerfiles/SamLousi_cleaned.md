@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Lousi  
-date: 2022-12-14 11:22:00.005944  
+date: 2022-12-18 16:22:00.671648  
 categories: player  
 ---
 # Sam Lousi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 106.0
+## Current elo: 108.0
 
-## Current Percentile: 79.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Scarlets                 |            44 |   0.443182 |
+| Scarlets                 |            45 |   0.455556 |
 | Hurricanes               |            28 |   0.660714 |
 | Wellington               |            22 |   0.681818 |
 | New South Wales Waratahs |            19 |   0.526316 |
@@ -32,24 +32,25 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Cardiff Blues            |         6 |   0.5      |
 | Crusaders                |         6 |   0.333333 |
+| Cardiff Blues            |         6 |   0.5      |
 | Highlanders              |         5 |   0.4      |
 | Brumbies                 |         5 |   0.4      |
-| Ospreys                  |         4 |   0.625    |
-| Chiefs                   |         4 |   0.5      |
-| Bulls                    |         4 |   0.5      |
-| Queensland Reds          |         4 |   1        |
 | Blues                    |         4 |   0.75     |
-| Munster                  |         3 |   0        |
-| Northland                |         3 |   1        |
+| Bulls                    |         4 |   0.5      |
+| Chiefs                   |         4 |   0.5      |
+| Queensland Reds          |         4 |   1        |
+| Ospreys                  |         4 |   0.625    |
 | Benetton Treviso         |         3 |   0.666667 |
+| Northland                |         3 |   1        |
 | Bayonne                  |         3 |   1        |
-| Lions                    |         3 |   0.333333 |
-| Bay of Plenty            |         3 |   1        |
-| Dragons                  |         3 |   0.666667 |
-| Connacht                 |         3 |   0.666667 |
+| Munster                  |         3 |   0        |
 | Melbourne Rebels         |         3 |   0.666667 |
+| Dragons                  |         3 |   0.666667 |
+| Bay of Plenty            |         3 |   1        |
+| Cheetahs                 |         3 |   1        |
+| Lions                    |         3 |   0.333333 |
+| Connacht                 |         3 |   0.666667 |
 | Auckland                 |         2 |   0        |
 | Manawatu                 |         2 |   0.5      |
 | Leinster                 |         2 |   0        |
@@ -58,22 +59,21 @@ categories: player
 | Sharks                   |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
 | Stormers                 |         2 |   0.5      |
-| Taranaki                 |         2 |   1        |
-| Western Force            |         2 |   0.5      |
-| Waikato                  |         2 |   0.5      |
-| Ulster                   |         2 |   0        |
-| Toulon                   |         2 |   0        |
-| Cheetahs                 |         2 |   1        |
 | Sunwolves                |         2 |   1        |
+| Taranaki                 |         2 |   1        |
+| Toulon                   |         2 |   0        |
+| Ulster                   |         2 |   0        |
+| Waikato                  |         2 |   0.5      |
+| Western Force            |         2 |   0.5      |
 | Edinburgh                |         2 |   0.5      |
-| Tasman                   |         1 |   0        |
 | Southland                |         1 |   1        |
-| Queensland Country       |         1 |   0        |
-| Otago                    |         1 |   0        |
 | Samoa                    |         1 |   0        |
+| Sydney Stars             |         1 |   1        |
+| Otago                    |         1 |   0        |
+| Tasman                   |         1 |   0        |
+| Queensland Country       |         1 |   0        |
 | United States of America |         1 |   1        |
 | Perth Spirit             |         1 |   1        |
-| Sydney Stars             |         1 |   1        |
 | Argentina                |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | Counties Manukau         |         1 |   1        |

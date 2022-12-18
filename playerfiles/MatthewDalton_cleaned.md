@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matthew Dalton  
-date: 2022-12-14 11:20:22.504767  
+date: 2022-12-18 16:35:30.405019  
 categories: player  
 ---
 # Matthew Dalton
 
 ## Positions: L, FL
 
-## Current elo: 90.0
+## Current elo: 86.0
 
-## Current Percentile: 42.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Ulster            |             9 |   0.444444 |
-| Newcastle Falcons |             4 |   0        |
+| Newcastle Falcons |             5 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Benetton Treviso   |         2 |       0.75 |
+| Cardiff Blues      |         2 |       0    |
 | Edinburgh          |         2 |       0.5  |
 | Bath Rugby         |         1 |       0    |
-| Cardiff Blues      |         1 |       0    |
 | Connacht           |         1 |       0    |
 | Dragons            |         1 |       0.5  |
 | Leinster           |         1 |       0    |

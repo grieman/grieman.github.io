@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William van Bost  
-date: 2022-12-14 11:21:08.843674  
+date: 2022-12-18 16:19:04.462914  
 categories: player  
 ---
 # William van Bost
@@ -23,15 +23,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            11 |   0.227273 |
+| Beziers |            12 |   0.291667 |
 | Belgium |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Vannes                     |         3 |        0   |
+| Biarritz Olympique         |         2 |        0.5 |
 | Oyonnax                    |         2 |        0   |
 | Agen                       |         1 |        1   |
-| Biarritz Olympique         |         1 |        0   |
 | Germany                    |         1 |        1   |
 | Hong Kong                  |         1 |        0   |
 | Massy                      |         1 |        1   |

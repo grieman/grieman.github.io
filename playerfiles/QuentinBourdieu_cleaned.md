@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Bourdieu  
-date: 2022-12-14 11:24:43.695857  
+date: 2022-12-18 16:28:11.335575  
 categories: player  
 ---
 # Quentin Bourdieu

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Manz  
-date: 2022-12-14 11:24:12.755262  
+date: 2022-12-18 16:28:01.559198  
 categories: player  
 ---
 # Thomas Manz

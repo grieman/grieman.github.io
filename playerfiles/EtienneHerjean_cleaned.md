@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Etienne Herjean  
-date: 2022-12-14 11:19:11.235853  
+date: 2022-12-18 16:25:48.720881  
 categories: player  
 ---
 # Etienne Herjean
 
 ## Positions: N8, FL
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 16.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Narbonne    |            68 |   0.485294 |
 | Oyonnax     |            46 |   0.663043 |
 | Brive       |            16 |   0.21875  |
-| Carcassonne |            13 |   0.461538 |
+| Carcassonne |            14 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,9 +32,9 @@ categories: player
 | Beziers                    |        11 |   0.772727 |
 | Biarritz Olympique         |        10 |   0.3      |
 | Montauban                  |         8 |   0.875    |
+| Mont-de-Marsan             |         7 |   0.357143 |
 | Vannes                     |         7 |   0.428571 |
 | Aurillac                   |         7 |   0.428571 |
-| Mont-de-Marsan             |         6 |   0.416667 |
 | Albi                       |         6 |   0.416667 |
 | Soyaux-Angouleme           |         6 |   0.833333 |
 | Provence Rugby             |         5 |   0.6      |

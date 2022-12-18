@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Brice Ferrer  
-date: 2022-12-14 11:33:10.993629  
+date: 2022-12-18 16:34:21.100719  
 categories: player  
 ---
 # Brice Ferrer
 
 ## Positions: N8, FL
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 71.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            48 |   0.583333 |
+| Dax    |            49 |   0.591837 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,8 +35,8 @@ categories: player
 | Aubenas                    |         3 |   0.666667 |
 | Dijon                      |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
+| US Bressane                |         3 |   0.666667 |
 | Massy                      |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
-| US Bressane                |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Suresnes                   |         1 |   1        |

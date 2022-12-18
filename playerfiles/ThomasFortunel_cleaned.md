@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Fortunel  
-date: 2022-12-14 11:19:16.370480  
+date: 2022-12-18 16:27:59.336617  
 categories: player  
 ---
 # Thomas Fortunel
 
 ## Positions: FH
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Montauban         |            50 |   0.48     |
-| Grenoble          |            20 |   0.45     |
+| Grenoble          |            21 |   0.47619  |
 | Castres Olympique |            15 |   0.366667 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -33,9 +33,9 @@ categories: player
 | Colomiers                  |         5 |   0.2      |
 | Perpignan                  |         5 |   0.4      |
 | Aurillac                   |         5 |   0.4      |
+| Massy                      |         5 |   1        |
 | Vannes                     |         4 |   0.75     |
 | Provence Rugby             |         4 |   0.25     |
-| Massy                      |         4 |   1        |
 | Montauban                  |         3 |   0.833333 |
 | Mont-de-Marsan             |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.666667 |

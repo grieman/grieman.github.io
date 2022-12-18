@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Marko Louis Janse van Rensburg  
-date: 2022-12-14 11:29:27.889207  
+date: 2022-12-18 16:32:53.542946  
 categories: player  
 ---
 # Marko Louis Janse van Rensburg
 
 ## Positions: H
 
-## Current elo: 120.0
+## Current elo: 117.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Pumas     |            14 |   0.214286 |
 | Rugby ATL |             5 |   0.8      |
-| Cheetahs  |             1 |   1        |
+| Cheetahs  |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,5 +36,6 @@ categories: player
 | Houston SaberCats   |         1 |   1        |
 | L. A. Giltinis      |         1 |   1        |
 | Pau                 |         1 |   1        |
+| Scarlets            |         1 |   0        |
 | Utah Warriors       |         1 |   0        |
 | Western Province    |         1 |   0        |

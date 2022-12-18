@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Timoney  
-date: 2022-12-14 11:14:43.491508  
+date: 2022-12-18 16:36:19.109456  
 categories: player  
 ---
 # Nick Timoney
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 109.0
+## Current elo: 107.0
 
 ## Current Percentile: 86.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ulster  |            96 |   0.640625 |
+| Ulster  |            97 |   0.634021 |
 | Ireland |             4 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -46,6 +46,7 @@ categories: player
 | New Zealand Maori        |         2 |   0.5      |
 | Cheetahs                 |         2 |   0.75     |
 | Racing 92                |         2 |   0.5      |
+| La Rochelle              |         2 |   0.5      |
 | Wasps                    |         1 |   0        |
 | United States of America |         1 |   1        |
 | Stormers                 |         1 |   0        |
@@ -53,7 +54,6 @@ categories: player
 | Sale Sharks              |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Bulls                    |         1 |   0        |
-| La Rochelle              |         1 |   1        |
 | Clermont Auvergne        |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Bath Rugby               |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seb Davies  
-date: 2022-12-14 11:36:36.743964  
+date: 2022-12-18 16:13:46.782898  
 categories: player  
 ---
 # Seb Davies
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: 22.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |           104 |   0.490385 |
+| Cardiff Blues |           105 |   0.495238 |
 | Wales         |            17 |   0.647059 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -48,28 +48,28 @@ categories: player
 | Leicester Tigers   |         2 |   0        |
 | Sharks             |         2 |   1        |
 | Saracens           |         2 |   0        |
+| Newcastle Falcons  |         2 |   1        |
 | Leinster           |         2 |   0        |
 | Italy              |         2 |   0.5      |
 | Bath Rugby         |         2 |   0.5      |
 | Harlequins         |         2 |   0        |
+| France             |         2 |   0        |
 | Bulls              |         2 |   0        |
 | Calvisano          |         2 |   1        |
-| France             |         2 |   0        |
-| Exeter Chiefs      |         1 |   0        |
+| Australia          |         1 |   1        |
+| Scotland           |         1 |   1        |
 | Worcester Warriors |         1 |   0        |
 | Wasps              |         1 |   1        |
 | Bristol Rugby      |         1 |   1        |
 | Brive              |         1 |   1        |
 | England            |         1 |   0        |
-| Scotland           |         1 |   1        |
 | Fiji               |         1 |   1        |
-| Australia          |         1 |   1        |
+| Exeter Chiefs      |         1 |   0        |
+| Lions              |         1 |   0        |
 | Samoa              |         1 |   1        |
 | Georgia            |         1 |   1        |
 | Gloucester Rugby   |         1 |   1        |
-| Newcastle Falcons  |         1 |   1        |
 | New Zealand        |         1 |   0        |
 | Lyon               |         1 |   1        |
 | London Irish       |         1 |   0        |
-| Lions              |         1 |   0        |
 | Argentina          |         1 |   1        |

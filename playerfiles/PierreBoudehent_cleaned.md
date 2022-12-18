@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre Boudehent  
-date: 2022-12-14 11:30:21.390299  
+date: 2022-12-18 16:22:06.980798  
 categories: player  
 ---
 # Pierre Boudehent
 
 ## Positions: W, C
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 21.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            41 |   0.573171 |
+| La Rochelle |            42 |   0.583333 |
 | Vannes      |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Castres Olympique    |         5 |   0.6      |
-| Racing 92            |         4 |   0.25     |
 | Stade Francais Paris |         4 |   0.75     |
+| Racing 92            |         4 |   0.25     |
 | Toulon               |         3 |   0.666667 |
 | Lyon                 |         3 |   1        |
 | Perpignan            |         3 |   0.666667 |
@@ -37,12 +37,13 @@ categories: player
 | Clermont Auvergne    |         2 |   0.5      |
 | Montpellier Herault  |         2 |   0.5      |
 | Pau                  |         2 |   1        |
+| Roval Drome XV       |         1 |   1        |
+| Ulster               |         1 |   1        |
 | Stade Toulousain     |         1 |   0        |
 | Scarlets             |         1 |   0        |
-| Roval Drome XV       |         1 |   1        |
-| Northampton Saints   |         1 |   1        |
 | Oyonnax              |         1 |   0.5      |
 | Bayonne              |         1 |   0        |
+| Northampton Saints   |         1 |   1        |
 | Glasgow Warriors     |         1 |   0        |
 | Brive                |         1 |   1        |
 | Biarritz Olympique   |         1 |   0        |

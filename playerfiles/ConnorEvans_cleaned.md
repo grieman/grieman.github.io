@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Connor Evans  
-date: 2022-12-12 15:18:02.847696  
+date: 2022-12-18 16:20:05.271739  
 categories: player  
 ---
 # Connor Evans
 
 ## Positions: L
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: 40.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Western Province |             8 |      0.125 |
-| Stormers         |             2 |      1     |
+| Stormers         |             3 |      1     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Dragons             |         1 |          1 |
 | Golden Lions        |         1 |          1 |
 | Griquas             |         1 |          0 |
+| London Irish        |         1 |          1 |
 | Natal Sharks        |         1 |          0 |
 | Pumas               |         1 |          0 |
 | Scarlets            |         1 |          1 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomos Williams  
-date: 2022-11-22 11:44:03.390600  
+date: 2022-12-18 16:18:27.977322  
 categories: player  
 ---
 # Tomos Williams
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 92.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,52 +23,52 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |           124 |   0.524194 |
-| Wales         |            40 |   0.5375   |
+| Cardiff Blues |           125 |    0.528   |
+| Wales         |            41 |    0.52439 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Scarlets           |        14 |   0.428571 |
-| Ospreys            |        10 |   0.2      |
 | Dragons            |        10 |   1        |
+| Ospreys            |        10 |   0.2      |
 | Glasgow Warriors   |         9 |   0.111111 |
 | Munster            |         8 |   0.5      |
+| Leinster           |         7 |   0        |
 | South Africa       |         7 |   0.428571 |
 | Edinburgh          |         7 |   0.714286 |
-| Leinster           |         7 |   0        |
 | Zebre              |         6 |   0.666667 |
 | Benetton Treviso   |         6 |   0.583333 |
 | Connacht           |         6 |   0.5      |
 | Ireland            |         5 |   0.2      |
-| Ulster             |         5 |   0.5      |
 | Pau                |         5 |   0.8      |
 | France             |         5 |   0.4      |
+| Ulster             |         5 |   0.5      |
 | Lyon               |         4 |   1        |
+| Australia          |         4 |   0.75     |
 | Argentina          |         4 |   0.625    |
 | Cheetahs           |         3 |   0.666667 |
-| Australia          |         3 |   1        |
 | New Zealand        |         3 |   0        |
+| Newcastle Falcons  |         3 |   1        |
 | Stade Toulousain   |         3 |   0.666667 |
 | Georgia            |         2 |   0.5      |
 | Fiji               |         2 |   1        |
 | England            |         2 |   0        |
-| Newcastle Falcons  |         2 |   1        |
-| Sale Sharks        |         2 |   0.5      |
 | Gloucester Rugby   |         2 |   0.5      |
+| Sale Sharks        |         2 |   0.5      |
 | Bath Rugby         |         2 |   0.5      |
 | Scotland           |         2 |   1        |
 | Bristol Rugby      |         2 |   1        |
 | Southern Kings     |         2 |   1        |
 | Harlequins         |         2 |   0        |
-| Wasps              |         1 |   1        |
 | Worcester Warriors |         1 |   0        |
 | Stormers           |         1 |   1        |
+| Wasps              |         1 |   1        |
 | Uruguay            |         1 |   1        |
 | Tonga              |         1 |   1        |
-| Samoa              |         1 |   1        |
-| Sharks             |         1 |   1        |
 | Bulls              |         1 |   0        |
+| Sharks             |         1 |   1        |
+| Italy              |         1 |   1        |
+| Samoa              |         1 |   1        |
 | Canada             |         1 |   1        |
 | Leicester Tigers   |         1 |   0        |
-| Italy              |         1 |   1        |
 | Lions              |         1 |   0        |

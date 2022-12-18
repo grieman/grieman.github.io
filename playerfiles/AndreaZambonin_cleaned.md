@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andrea Zambonin  
-date: 2022-12-14 11:22:23.985409  
+date: 2022-12-18 16:23:43.956356  
 categories: player  
 ---
 # Andrea Zambonin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 17.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Zebre     |            23 |  0.0434783 |
+| Zebre     |            24 |  0.0416667 |
 | Italy     |             2 |  0.5       |
 | Calvisano |             1 |  0         |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Glasgow Warriors |         3 |        0   |
 | Edinburgh        |         3 |        0   |
+| Glasgow Warriors |         3 |        0   |
 | Benetton Treviso |         2 |        0   |
 | Stormers         |         2 |        0   |
 | Scarlets         |         2 |        0   |
@@ -38,11 +38,12 @@ categories: player
 | Dragons          |         2 |        0.5 |
 | England          |         1 |        0   |
 | Leicester Tigers |         1 |        0   |
-| Cardiff Blues    |         1 |        0   |
+| Bristol Rugby    |         1 |        0   |
 | Lions            |         1 |        0   |
 | Munster          |         1 |        0   |
 | Portugal         |         1 |        1   |
-| Sharks           |         1 |        0   |
 | Connacht         |         1 |        0   |
+| Sharks           |         1 |        0   |
+| Cardiff Blues    |         1 |        0   |
 | Toulon           |         1 |        0   |
 | Leinster         |         1 |        0   |

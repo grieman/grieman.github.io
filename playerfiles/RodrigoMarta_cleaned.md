@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rodrigo Marta  
-date: 2022-12-14 11:32:50.079020  
+date: 2022-12-18 16:12:41.673937  
 categories: player  
 ---
 # Rodrigo Marta
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Portugal     |            23 |   0.434783 |
-| Dax          |             9 |   0.777778 |
+| Dax          |            10 |   0.8      |
 | Lusitanos XV |             4 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,12 +32,12 @@ categories: player
 | Georgia                    |         4 |   0.125    |
 | Spain                      |         3 |   0.333333 |
 | Romania                    |         3 |   0.333333 |
+| US Bressane                |         2 |   1        |
 | Russia                     |         2 |   0.5      |
 | Castilla y Leon Iberians   |         2 |   1        |
 | Netherlands                |         2 |   1        |
 | Albi                       |         1 |   0        |
 | Italy                      |         1 |   0        |
-| US Bressane                |         1 |   1        |
 | Tarbes                     |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Narbonne                   |         1 |   1        |

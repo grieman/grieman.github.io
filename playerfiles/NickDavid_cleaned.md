@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nick David  
-date: 2022-12-14 11:27:14.363841  
+date: 2022-12-18 16:28:00.834066  
 categories: player  
 ---
 # Nick David
 
 ## Positions: W, FB
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 64.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            28 |   0.214286 |
-| Harlequins         |            15 |   0.666667 |
+| Harlequins         |            16 |   0.6875   |
 | Hartpury College   |             3 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,6 +42,7 @@ categories: player
 | Newcastle Falcons    |         2 |   0.5      |
 | Castres Olympique    |         2 |   0.5      |
 | Nottingham           |         1 |   1        |
+| Racing 92            |         1 |   1        |
 | Sharks               |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
 | Ampthill             |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jérémy Sinzelle  
-date: 2022-12-14 11:32:25.416933  
+date: 2022-12-18 16:24:57.922860  
 categories: player  
 ---
 # Jérémy Sinzelle
 
 ## Positions: W, C
 
-## Current elo: 80.0
+## Current elo: 83.0
 
-## Current Percentile: 5.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | La Rochelle          |           111 |   0.585586 |
 | Stade Francais Paris |           105 |   0.514286 |
-| Toulon               |            28 |   0.5      |
+| Toulon               |            29 |   0.517241 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -53,9 +53,10 @@ categories: player
 | Mont-de-Marsan       |         2 |   1        |
 | Ulster               |         2 |   0.5      |
 | Zebre                |         2 |   1        |
+| Bath Rugby           |         2 |   1        |
 | Bucuresti            |         2 |   1        |
-| Cavalieri Prato      |         2 |   1        |
 | Edinburgh            |         2 |   0.5      |
+| Cavalieri Prato      |         2 |   1        |
 | Montauban            |         1 |   0        |
 | Scarlets             |         1 |   0        |
 | Wasps                |         1 |   1        |
@@ -68,6 +69,5 @@ categories: player
 | Exeter Chiefs        |         1 |   0        |
 | Glasgow Warriors     |         1 |   0        |
 | Gloucester Rugby     |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
 | Munster              |         1 |   0        |
 | Leinster             |         1 |   0        |

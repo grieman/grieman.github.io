@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mathis Lafon  
-date: 2022-12-09 13:07:30.960396  
+date: 2022-12-18 16:39:50.214061  
 categories: player  
 ---
 # Mathis Lafon
 
 ## Positions: C
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 65.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            13 |   0.538462 |
+| Soyaux-Angouleme |            14 |   0.5      |
 | La Rochelle      |             7 |   0.571429 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -33,6 +33,7 @@ categories: player
 | Pau                 |         1 |        1   |
 | Oyonnax             |         1 |        0   |
 | Montpellier Herault |         1 |        0   |
+| Montauban           |         1 |        0   |
 | Mont-de-Marsan      |         1 |        0   |
 | Massy               |         1 |        1   |
 | Grenoble            |         1 |        0   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luca Bigi  
-date: 2022-12-14 11:21:08.174503  
+date: 2022-12-18 16:36:38.851936  
 categories: player  
 ---
 # Luca Bigi

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tino Mapapalangi  
-date: 2022-12-12 14:55:47.193767  
+date: 2022-12-18 16:20:19.666614  
 categories: player  
 ---
 # Tino Mapapalangi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 82.0
+## Current elo: 80.0
 
-## Current Percentile: 7.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Rouen            |            53 |   0.40566  |
+| Rouen            |            54 |   0.398148 |
 | Leicester Tigers |            26 |   0.538462 |
 | Manawatu         |            16 |   0.3125   |
 | Tonga            |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Aurillac                   |         6 |   0.333333 |
+| Aurillac                   |         7 |   0.285714 |
 | Provence Rugby             |         5 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.75     |
 | Montauban                  |         4 |   0.5      |

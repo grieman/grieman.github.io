@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Samuel Maximin  
-date: 2022-12-14 11:20:42.858082  
+date: 2022-12-18 16:19:03.072746  
 categories: player  
 ---
 # Samuel Maximin
 
 ## Positions: FL
 
-## Current elo: 85.0
+## Current elo: 81.0
 
-## Current Percentile: 9.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Rouen               |            10 |        0.3 |
-| Montpellier Herault |             3 |        0   |
+| Rouen               |            11 |   0.272727 |
+| Montpellier Herault |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Agen                 |         1 |          0 |
+| Aurillac             |         1 |          0 |
 | Beziers              |         1 |          1 |
 | Carcassonne          |         1 |          0 |
 | Grenoble             |         1 |          1 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shaun Reynolds  
-date: 2022-12-14 11:31:38.398492  
+date: 2022-12-18 16:16:56.501349  
 categories: player  
 ---
 # Shaun Reynolds
 
 ## Positions: FH
 
-## Current elo: 87.0
+## Current elo: 91.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,26 +21,26 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Nevers       |            39 |   0.474359 |
+| Nevers       |            40 |   0.4875   |
 | Lions        |            16 |   0.4375   |
 | Golden Lions |            14 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Aurillac                 |         4 |   0.25     |
-| Provence Rugby           |         3 |   0.333333 |
-| Colomiers                |         3 |   0.333333 |
+| Agen                     |         3 |   0.666667 |
 | Montauban                |         3 |   0.333333 |
 | Griquas                  |         3 |   1        |
-| Blue Bulls               |         3 |   0.333333 |
+| Colomiers                |         3 |   0.333333 |
 | Carcassonne              |         3 |   0.333333 |
-| Narbonne                 |         2 |   1        |
-| Natal Sharks             |         2 |   0        |
-| Oyonnax                  |         2 |   0.5      |
-| Agen                     |         2 |   0.5      |
+| Provence Rugby           |         3 |   0.333333 |
+| Blue Bulls               |         3 |   0.333333 |
 | Pumas                    |         2 |   0.5      |
 | Rouen                    |         2 |   1        |
 | Soyaux-Angouleme         |         2 |   1        |
+| Oyonnax                  |         2 |   0.5      |
+| Natal Sharks             |         2 |   0        |
+| Narbonne                 |         2 |   1        |
 | Stormers                 |         2 |   1        |
 | Vannes                   |         2 |   0.5      |
 | Mont-de-Marsan           |         2 |   0.5      |

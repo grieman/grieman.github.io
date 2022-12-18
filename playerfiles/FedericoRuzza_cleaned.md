@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Federico Ruzza  
-date: 2022-12-14 11:34:56.118649  
+date: 2022-12-18 16:37:13.477017  
 categories: player  
 ---
 # Federico Ruzza
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 70.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            81 |   0.432099 |
+| Benetton Treviso |            82 |   0.439024 |
 | Zebre            |            47 |   0.170213 |
 | Italy            |            35 |   0.228571 |
 
@@ -37,42 +37,43 @@ categories: player
 | Dragons              |         9 |  0.777778  |
 | Ulster               |         9 |  0.0555556 |
 | Munster              |         8 |  0         |
-| Ospreys              |         7 |  0.142857  |
 | Connacht             |         7 |  0.142857  |
+| Ospreys              |         7 |  0.142857  |
 | Cardiff Blues        |         6 |  0.166667  |
 | France               |         6 |  0         |
-| Southern Kings       |         4 |  1         |
+| Scotland             |         4 |  0         |
 | Ireland              |         4 |  0         |
 | England              |         4 |  0         |
-| Scotland             |         4 |  0         |
+| Southern Kings       |         4 |  1         |
 | Benetton Treviso     |         3 |  0.333333  |
 | Wales                |         3 |  0.333333  |
-| Wasps                |         2 |  0         |
 | Northampton Saints   |         2 |  0         |
-| Argentina            |         2 |  0         |
 | Stade Francais Paris |         2 |  0.5       |
+| Wasps                |         2 |  0         |
 | South Africa         |         2 |  0         |
+| Argentina            |         2 |  0         |
 | Agen                 |         2 |  0.5       |
-| Grenoble             |         2 |  1         |
 | La Rochelle          |         2 |  0.5       |
+| Grenoble             |         2 |  1         |
 | Cheetahs             |         2 |  0.5       |
-| Lyon                 |         1 |  0         |
-| Canada               |         1 |  1         |
+| Namibia              |         1 |  1         |
+| Bulls                |         1 |  0         |
 | Worcester Warriors   |         1 |  1         |
 | Australia            |         1 |  1         |
 | Bath Rugby           |         1 |  0         |
 | Uruguay              |         1 |  1         |
-| Bulls                |         1 |  0         |
+| Bayonne              |         1 |  1         |
 | Toulon               |         1 |  0         |
 | Stormers             |         1 |  1         |
 | Stade Toulousain     |         1 |  0         |
+| Canada               |         1 |  1         |
+| New Zealand          |         1 |  0         |
+| Lyon                 |         1 |  0         |
 | Fiji                 |         1 |  0         |
 | Georgia              |         1 |  0         |
-| Gloucester Rugby     |         1 |  0         |
 | Samoa                |         1 |  1         |
 | Russia               |         1 |  1         |
 | Romania              |         1 |  1         |
+| Gloucester Rugby     |         1 |  0         |
 | Harlequins           |         1 |  0         |
-| New Zealand          |         1 |  0         |
-| Namibia              |         1 |  1         |
 | Lions                |         1 |  0         |

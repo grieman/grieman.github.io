@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mickael Capelli  
-date: 2022-12-14 11:12:01.373093  
+date: 2022-12-18 16:16:57.186252  
 categories: player  
 ---
 # Mickael Capelli

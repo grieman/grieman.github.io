@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pedro Soto  
-date: 2022-12-14 11:35:33.155621  
+date: 2022-12-18 16:37:45.231142  
 categories: player  
 ---
 # Pedro Soto

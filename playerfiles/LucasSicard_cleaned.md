@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Sicard  
-date: 2022-12-14 11:22:42.751382  
+date: 2022-12-18 16:27:24.864013  
 categories: player  
 ---
 # Lucas Sicard

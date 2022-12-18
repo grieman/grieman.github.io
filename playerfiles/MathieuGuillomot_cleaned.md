@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mathieu Guillomot  
-date: 2022-12-14 11:20:07.678178  
+date: 2022-12-18 16:36:32.541792  
 categories: player  
 ---
 # Mathieu Guillomot
 
 ## Positions: C, FH
 
-## Current elo: 76.0
+## Current elo: 73.0
 
 ## Current Percentile: 4.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Massy       |            52 |   0.548077 |
+| Massy       |            53 |   0.537736 |
 | Carcassonne |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,21 +29,22 @@ categories: player
 | Tarbes                     |         4 |   0.75     |
 | Bourgoin-Jallieu           |         4 |   0.75     |
 | Nice                       |         4 |   0.25     |
-| Dijon                      |         3 |   0.666667 |
+| Chambery                   |         3 |   0.5      |
+| Soyaux-Angouleme           |         3 |   0.333333 |
 | Aubenas                    |         3 |   1        |
 | Blagnac                    |         3 |   0.333333 |
-| Chambery                   |         3 |   0.5      |
 | Cognac Saint Jean d'Angély |         3 |   1        |
+| Dijon                      |         3 |   0.666667 |
 | Albi                       |         3 |   0.666667 |
-| Soyaux-Angouleme           |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
 | Colomiers                  |         2 |   0        |
 | Dax                        |         2 |   1        |
 | Rouen                      |         1 |   0        |
+| Agen                       |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
-| Agen                       |         1 |   0        |
+| Grenoble                   |         1 |   0        |
 | Nevers                     |         1 |   0        |
 | Narbonne                   |         1 |   0        |
 | Montauban                  |         1 |   0        |

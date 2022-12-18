@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arnaud Duputs  
-date: 2022-12-12 15:35:22.174656  
+date: 2022-12-18 16:18:58.803900  
 categories: player  
 ---
 # Arnaud Duputs
 
 ## Positions: FL
 
-## Current elo: 109.0
+## Current elo: 103.0
 
-## Current Percentile: 89.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -22,15 +22,15 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Bayonne |            36 |   0.319444 |
-| Agen    |            28 |   0.464286 |
+| Agen    |            29 |   0.448276 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |         4 |   0.5      |
+| Nevers               |         4 |   0.5      |
 | Mont-de-Marsan       |         3 |   0.666667 |
 | Provence Rugby       |         3 |   0.666667 |
 | Carcassonne          |         3 |   0        |
-| Nevers               |         3 |   0.666667 |
 | Narbonne             |         3 |   0.666667 |
 | Aurillac             |         3 |   1        |
 | Lyon                 |         2 |   0        |

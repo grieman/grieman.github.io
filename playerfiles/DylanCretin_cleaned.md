@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dylan Cretin  
-date: 2022-12-14 11:28:35.269588  
+date: 2022-12-18 16:37:36.336845  
 categories: player  
 ---
 # Dylan Cretin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 105.0
+## Current elo: 106.0
 
-## Current Percentile: 74.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Lyon        |           116 |   0.512931 |
-| Aurillac    |            54 |   0.546296 |
+| Aurillac    |            55 |   0.554545 |
 | Carcassonne |            18 |   0.444444 |
 | France      |            18 |   0.722222 |
 | Oyonnax     |            17 |   0.617647 |
@@ -55,8 +55,8 @@ categories: player
 | Provence Rugby             |         5 |   0.6      |
 | Bordeaux Begles            |         5 |   0.2      |
 | Massy                      |         5 |   0.6      |
+| Rouen                      |         5 |   0.8      |
 | Vannes                     |         5 |   0.4      |
-| Rouen                      |         4 |   0.75     |
 | Soyaux-Angouleme           |         4 |   0.5      |
 | Nevers                     |         4 |   1        |
 | Colomiers                  |         4 |   1        |

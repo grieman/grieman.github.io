@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Connor Slevin  
-date: 2022-12-14 11:32:29.836523  
+date: 2022-12-18 16:18:23.697549  
 categories: player  
 ---
 # Connor Slevin

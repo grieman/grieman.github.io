@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jackson Wray  
-date: 2022-12-14 11:22:41.963173  
+date: 2022-12-18 16:20:13.199028  
 categories: player  
 ---
 # Jackson Wray
 
 ## Positions: FL, N8
 
-## Current elo: 136.0
+## Current elo: 135.0
 
 ## Current Percentile: 99.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           287 |   0.750871 |
+| Saracens |           288 |   0.751736 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Northampton Saints  |        27 |   0.574074 |
 | Exeter Chiefs       |        23 |   0.673913 |
-| Leicester Tigers    |        21 |   0.666667 |
 | Sale Sharks         |        21 |   0.833333 |
+| Leicester Tigers    |        21 |   0.666667 |
 | Harlequins          |        20 |   0.75     |
 | Wasps               |        19 |   0.789474 |
 | Bath Rugby          |        17 |   0.735294 |
@@ -39,18 +39,18 @@ categories: player
 | Bristol Rugby       |         8 |   0.75     |
 | Clermont Auvergne   |         7 |   0.428571 |
 | Racing 92           |         6 |   0.666667 |
-| Munster             |         5 |   0.6      |
 | Scarlets            |         5 |   0.7      |
+| Munster             |         5 |   0.6      |
 | Toulon              |         4 |   0.5      |
 | London Welsh        |         4 |   1        |
 | Glasgow Warriors    |         4 |   1        |
+| Lyon                |         3 |   1        |
 | Leinster            |         3 |   0.666667 |
 | Ospreys             |         3 |   1        |
 | Stade Toulousain    |         3 |   0.666667 |
 | Ulster              |         3 |   1        |
 | Oyonnax             |         2 |   1        |
 | Zebre               |         2 |   1        |
-| Lyon                |         2 |   1        |
 | Edinburgh           |         2 |   1        |
 | Jersey              |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |

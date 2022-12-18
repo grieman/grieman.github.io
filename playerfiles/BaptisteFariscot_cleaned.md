@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Fariscot  
-date: 2022-12-14 11:20:44.209510  
+date: 2022-12-18 16:22:57.138148  
 categories: player  
 ---
 # Baptiste Fariscot

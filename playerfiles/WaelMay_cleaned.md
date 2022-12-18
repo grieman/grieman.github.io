@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wael May  
-date: 2022-12-14 11:28:48.154381  
+date: 2022-12-18 16:40:04.746016  
 categories: player  
 ---
 # Wael May
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            11 |   0.727273 |
+| US Bressane |            12 |   0.666667 |
 | Chambery    |            10 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,12 +29,12 @@ categories: player
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Albi                       |         2 |   0        |
 | Blagnac                    |         2 |   0.5      |
+| Dax                        |         2 |   0        |
 | Nice                       |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Tarbes                     |         2 |   1        |
 | Chambery                   |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
-| Dax                        |         1 |   0        |
 | Massy                      |         1 |   0        |
 | Narbonne                   |         1 |   0        |
 | Rennes                     |         1 |   1        |

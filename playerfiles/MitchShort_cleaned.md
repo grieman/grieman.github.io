@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mitch Short  
-date: 2022-12-14 11:34:36.672718  
+date: 2022-12-18 16:26:21.094422  
 categories: player  
 ---
 # Mitch Short
 
 ## Positions: SH
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: 19.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -23,36 +23,37 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | New South Wales Waratahs |            22 |   0.522727 |
 | NSW Country Eagles       |            10 |   0.35     |
+| Beziers                  |             9 |   0.555556 |
 | Sydney Rays              |             9 |   0.111111 |
-| Beziers                  |             8 |   0.5      |
 | Racing 92                |             7 |   0.571429 |
 | Western Force            |             6 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Melbourne Rebels    |         4 |   0.5      |
+| Queensland Country  |         4 |   0.25     |
 | Brumbies            |         4 |   0.25     |
 | Queensland Reds     |         4 |   0.75     |
-| Queensland Country  |         4 |   0.25     |
 | Western Force       |         3 |   0.666667 |
 | Canberra Vikings    |         3 |   0        |
-| Lions               |         2 |   0.5      |
+| Sharks              |         2 |   0.25     |
 | Melbourne Rising    |         2 |   0        |
+| Lions               |         2 |   0.5      |
+| Hurricanes          |         2 |   0        |
+| NSW Country Eagles  |         2 |   0        |
+| Chiefs              |         2 |   0        |
 | Sunwolves           |         2 |   1        |
 | Brisbane City       |         2 |   0.25     |
-| Sharks              |         2 |   0.25     |
-| Chiefs              |         2 |   0        |
-| NSW Country Eagles  |         2 |   0        |
-| Hurricanes          |         2 |   0        |
-| Pau                 |         1 |   1        |
-| Perpignan           |         1 |   0        |
-| Rouen               |         1 |   1        |
-| Perth Spirit        |         1 |   1        |
-| Provence Rugby      |         1 |   0        |
-| Stormers            |         1 |   1        |
-| Sydney Stars        |         1 |   1        |
-| Vannes              |         1 |   0        |
+| Biarritz Olympique  |         2 |   1        |
 | North Harbour Rays  |         1 |   1        |
+| Stormers            |         1 |   1        |
+| Provence Rugby      |         1 |   0        |
+| Sydney Stars        |         1 |   1        |
+| Perth Spirit        |         1 |   1        |
+| Perpignan           |         1 |   0        |
+| Vannes              |         1 |   0        |
+| Pau                 |         1 |   1        |
+| Rouen               |         1 |   1        |
 | Agen                |         1 |   1        |
 | Mont-de-Marsan      |         1 |   1        |
 | Aurillac            |         1 |   0        |
@@ -66,5 +67,4 @@ categories: player
 | Brive               |         1 |   1        |
 | Bordeaux Begles     |         1 |   1        |
 | Blues               |         1 |   0        |
-| Biarritz Olympique  |         1 |   1        |
 | Massy               |         1 |   1        |

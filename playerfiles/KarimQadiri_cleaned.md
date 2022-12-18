@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Karim Qadiri  
-date: 2022-12-12 15:39:53.941741  
+date: 2022-12-18 16:38:57.920225  
 categories: player  
 ---
 # Karim Qadiri
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Morocco
 
-## Current elo: 88.0
+## Current elo: 90.0
 
-## Current Percentile: 26.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Grenoble             |            45 |   0.522222 |
+| Grenoble             |            46 |   0.532609 |
 | Morocco              |             4 |   0.125    |
 | Stade Francais Paris |             2 |   0        |
 | Massy                |             1 |   0        |
@@ -46,6 +46,7 @@ categories: player
 | Colomiers                  |         2 |   0        |
 | Beziers                    |         2 |   0        |
 | Namibia                    |         1 |   0        |
+| Massy                      |         1 |   1        |
 | Krasny Yar                 |         1 |   0        |
 | Kenya                      |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |

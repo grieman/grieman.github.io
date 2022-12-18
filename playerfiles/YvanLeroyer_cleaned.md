@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yvan Leroyer  
-date: 2022-12-14 11:21:59.390575  
+date: 2022-12-18 16:28:12.006074  
 categories: player  
 ---
 # Yvan Leroyer

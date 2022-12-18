@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Siya Masuku  
-date: 2022-12-14 11:20:16.881565  
+date: 2022-12-18 16:33:22.770259  
 categories: player  
 ---
 # Siya Masuku
 
 ## Positions: FH, C
 
-## Current elo: 103.0
+## Current elo: 98.0
 
-## Current Percentile: 64.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Free State Cheetahs |            16 |    0.65625 |
 | Southern Kings      |             5 |    0.2     |
-| Cheetahs            |             1 |    1       |
+| Cheetahs            |             2 |    0.5     |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Glasgow Warriors |         1 |   0        |
 | Ospreys          |         1 |   1        |
 | Pau              |         1 |   1        |
+| Scarlets         |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Robson  
-date: 2022-12-14 11:36:09.581368  
+date: 2022-12-18 16:37:37.090287  
 categories: player  
 ---
 # Dan Robson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 120.0
+## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Wasps            |           156 |   0.608974 |
 | Gloucester Rugby |            95 |   0.526316 |
 | England          |            12 |   0.583333 |
-| Pau              |             2 |   0.5      |
+| Pau              |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -50,22 +50,23 @@ categories: player
 | Munster            |         3 |   0        |
 | Zebre              |         3 |   1        |
 | Italy              |         3 |   1        |
-| Connacht           |         3 |   0.666667 |
 | Brive              |         3 |   1        |
-| Ulster             |         2 |   0.5      |
-| Ireland            |         2 |   0.5      |
-| France             |         2 |   1        |
-| Ospreys            |         2 |   0.5      |
-| Oyonnax            |         2 |   1        |
-| Perpignan          |         2 |   1        |
+| Connacht           |         3 |   0.666667 |
 | La Rochelle        |         2 |   0.5      |
+| Oyonnax            |         2 |   1        |
 | Wales              |         2 |   0        |
-| Stade Toulousain   |         2 |   0.75     |
+| Ulster             |         2 |   0.5      |
 | Toulon             |         2 |   0.5      |
+| Stade Toulousain   |         2 |   0.75     |
+| Perpignan          |         2 |   1        |
+| Ospreys            |         2 |   0.5      |
+| France             |         2 |   1        |
+| Ireland            |         2 |   0.5      |
 | Barbarians         |         1 |   0        |
-| Biarritz Olympique |         1 |   0        |
 | Castres Olympique  |         1 |   0        |
-| Scotland           |         1 |   0        |
 | Canada             |         1 |   1        |
+| Scotland           |         1 |   0        |
+| Dragons            |         1 |   1        |
 | Mont-de-Marsan     |         1 |   1        |
+| Biarritz Olympique |         1 |   0        |
 | Agen               |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Valentin Saurs  
-date: 2022-12-14 11:35:45.714372  
+date: 2022-12-18 16:24:30.018665  
 categories: player  
 ---
 # Valentin Saurs
 
 ## Positions: W, FB
 
-## Current elo: 87.0
+## Current elo: 85.0
 
-## Current Percentile: 9.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -22,20 +22,21 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Agen      |            53 |   0.169811 |
-| Colomiers |            33 |   0.575758 |
+| Colomiers |            34 |   0.558824 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Francais Paris |         5 |   0.2      |
-| Montpellier Herault  |         4 |   0.25     |
 | Bordeaux Begles      |         4 |   0.25     |
+| Montpellier Herault  |         4 |   0.25     |
 | Lyon                 |         4 |   0        |
 | Grenoble             |         3 |   1        |
-| Clermont Auvergne    |         3 |   0        |
+| Nevers               |         3 |   0.666667 |
 | Narbonne             |         3 |   1        |
 | Racing 92            |         3 |   0        |
 | La Rochelle          |         3 |   0        |
-| Nevers               |         3 |   0.666667 |
+| Oyonnax              |         3 |   0.666667 |
+| Clermont Auvergne    |         3 |   0        |
 | Castres Olympique    |         3 |   0.333333 |
 | Carcassonne          |         3 |   0.333333 |
 | Stade Toulousain     |         3 |   0        |
@@ -49,7 +50,6 @@ categories: player
 | Wasps                |         2 |   0        |
 | Agen                 |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
-| Oyonnax              |         2 |   1        |
 | Aurillac             |         2 |   0        |
 | Mont-de-Marsan       |         2 |   0.5      |
 | Gloucester Rugby     |         2 |   0        |

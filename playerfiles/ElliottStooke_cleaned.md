@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliott Stooke  
-date: 2022-12-14 11:29:58.657816  
+date: 2022-12-18 16:40:08.710405  
 categories: player  
 ---
 # Elliott Stooke
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 103.0
+## Current elo: 102.0
 
 ## Current Percentile: 75.0
 
@@ -27,7 +27,7 @@ categories: player
 | Gloucester Rugby |            72 |   0.5625   |
 | Wasps            |            24 |   0.479167 |
 | London Irish     |             7 |   0        |
-| Bristol Rugby    |             1 |   1        |
+| Bristol Rugby    |             2 |   1        |
 | England          |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -45,7 +45,7 @@ categories: player
 | London Irish         |        11 |   0.954545 |
 | Gloucester Rugby     |        11 |   0.545455 |
 | Bath Rugby           |         8 |   0.375    |
-| Zebre                |         4 |   1        |
+| Zebre                |         5 |   1        |
 | London Welsh         |         3 |   1        |
 | Perpignan            |         3 |   1        |
 | Scarlets             |         3 |   0.333333 |

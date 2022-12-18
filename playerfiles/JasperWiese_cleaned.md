@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jasper Wiese  
-date: 2022-12-12 15:21:20.766120  
+date: 2022-12-18 16:16:49.188932  
 categories: player  
 ---
 # Jasper Wiese
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 87.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Leicester Tigers    |            41 |   0.743902 |
+| Leicester Tigers    |            42 |   0.75     |
 | South Africa        |            20 |   0.75     |
 | Cheetahs            |            18 |   0.388889 |
 | Free State Cheetahs |             6 |   0.333333 |
@@ -33,38 +33,39 @@ categories: player
 | Sale Sharks             |         5 |   0.2      |
 | Connacht                |         5 |   0.4      |
 | Argentina               |         4 |   1        |
-| Northampton Saints      |         4 |   0.75     |
 | Worcester Warriors      |         4 |   1        |
+| Northampton Saints      |         4 |   0.75     |
 | Harlequins              |         4 |   0.75     |
-| Southern Kings          |         3 |   1        |
-| London Irish            |         3 |   0.666667 |
-| Australia               |         3 |   0.333333 |
-| Scarlets                |         3 |   0.333333 |
-| New Zealand             |         3 |   0.666667 |
-| Wales                   |         3 |   1        |
-| Wasps                   |         3 |   1        |
-| Bristol Rugby           |         3 |   0.833333 |
 | Bath Rugby              |         3 |   0.666667 |
+| Bristol Rugby           |         3 |   0.833333 |
+| London Irish            |         3 |   0.666667 |
+| Wasps                   |         3 |   1        |
+| Wales                   |         3 |   1        |
+| Southern Kings          |         3 |   1        |
+| New Zealand             |         3 |   0.666667 |
+| Scarlets                |         3 |   0.333333 |
+| Australia               |         3 |   0.333333 |
+| Ospreys                 |         2 |   0        |
 | Newcastle Falcons       |         2 |   1        |
-| Exeter Chiefs           |         2 |   0.5      |
 | Gloucester Rugby        |         2 |   1        |
 | Saracens                |         2 |   0.5      |
+| Exeter Chiefs           |         2 |   0.5      |
 | British and Irish Lions |         2 |   1        |
 | Western Province        |         2 |   0        |
-| Ospreys                 |         2 |   0        |
-| Ulster                  |         1 |   0        |
 | Pumas                   |         1 |   1        |
+| Ulster                  |         1 |   0        |
 | Scotland                |         1 |   1        |
-| Leinster                |         1 |   0        |
+| Italy                   |         1 |   1        |
 | Natal Sharks            |         1 |   0        |
 | Munster                 |         1 |   0        |
-| Italy                   |         1 |   1        |
+| Leinster                |         1 |   0        |
 | Ireland                 |         1 |   0        |
 | Griquas                 |         1 |   0        |
 | Georgia                 |         1 |   1        |
 | England                 |         1 |   0        |
 | Edinburgh               |         1 |   1        |
 | Dragons                 |         1 |   1        |
+| Clermont Auvergne       |         1 |   1        |
 | Cardiff Blues           |         1 |   0        |
 | Brive                   |         1 |   1        |
 | Bordeaux Begles         |         1 |   1        |

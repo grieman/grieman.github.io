@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Janse Roux  
-date: 2022-12-09 13:14:16.057060  
+date: 2022-12-18 16:33:27.476171  
 categories: player  
 ---
 # Janse Roux
 
 ## Positions: L
 
-## Current elo: 93.0
+## Current elo: 91.0
 
 ## Current Percentile: 37.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            34 |   0.426471 |
+| Soyaux-Angouleme |            35 |   0.414286 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,8 +37,9 @@ categories: player
 | Dax                        |         2 |       0.5  |
 | Oyonnax                    |         2 |       0    |
 | Massy                      |         2 |       0.5  |
-| Nevers                     |         1 |       0    |
+| Montauban                  |         1 |       0    |
 | Nice                       |         1 |       1    |
+| Nevers                     |         1 |       0    |
 | Agen                       |         1 |       1    |
 | Mont-de-Marsan             |         1 |       0    |
 | Grenoble                   |         1 |       0    |

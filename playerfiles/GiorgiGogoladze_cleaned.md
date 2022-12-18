@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Giorgi Gogoladze  
-date: 2022-12-14 11:24:35.769784  
+date: 2022-12-18 16:38:32.809682  
 categories: player  
 ---
 # Giorgi Gogoladze
 
 ## Positions: W, FB
 
-## Current elo: 91.0
+## Current elo: 95.0
 
-## Current Percentile: 17.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            32 |    0.46875 |
+| Aurillac |            33 |   0.484848 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Oyonnax            |         4 |   0.25     |
+| Rouen              |         3 |   0.666667 |
 | Carcassonne        |         3 |   0.333333 |
 | Montauban          |         2 |   1        |
 | Mont-de-Marsan     |         2 |   0        |
-| Rouen              |         2 |   0.5      |
 | Provence Rugby     |         2 |   0.5      |
 | Nevers             |         2 |   1        |
 | Vannes             |         2 |   0.5      |

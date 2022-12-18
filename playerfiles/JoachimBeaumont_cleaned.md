@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joachim Beaumont  
-date: 2022-12-14 11:15:21.132626  
+date: 2022-12-18 16:31:34.434104  
 categories: player  
 ---
 # Joachim Beaumont

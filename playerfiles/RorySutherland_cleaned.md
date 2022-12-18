@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Sutherland  
-date: 2022-11-22 11:45:32.197548  
+date: 2022-12-18 16:33:28.886206  
 categories: player  
 ---
 # Rory Sutherland
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 94.0
+## Current elo: 92.0
 
 ## Current Percentile: 41.0
 
@@ -27,7 +27,7 @@ categories: player
 | Scotland                |            22 |   0.590909 |
 | Worcester Warriors      |            12 |   0.166667 |
 | British and Irish Lions |             3 |   0.666667 |
-| Ulster                  |             1 |   1        |
+| Ulster                  |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -44,32 +44,33 @@ categories: player
 | Agen                 |         4 |   1        |
 | Ospreys              |         4 |   0.75     |
 | Zebre                |         4 |   0.25     |
-| Bordeaux Begles      |         3 |   0.333333 |
 | England              |         3 |   0.666667 |
 | Wasps                |         3 |   0.666667 |
 | Wales                |         3 |   0.333333 |
 | Ireland              |         3 |   0        |
 | Italy                |         3 |   1        |
 | Japan                |         3 |   1        |
+| Bordeaux Begles      |         3 |   0.333333 |
 | France               |         3 |   1        |
-| Southern Kings       |         2 |   1        |
-| Cheetahs             |         2 |   0.5      |
-| Northampton Saints   |         2 |   0        |
-| Stade Francais Paris |         2 |   0.5      |
-| Exeter Chiefs        |         2 |   0        |
 | Lyon                 |         2 |   0.5      |
-| London Welsh         |         2 |   1        |
+| Northampton Saints   |         2 |   0        |
 | South Africa         |         2 |   0.5      |
+| Southern Kings       |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
+| Cheetahs             |         2 |   0.5      |
+| London Welsh         |         2 |   1        |
+| Exeter Chiefs        |         2 |   0        |
 | Argentina            |         2 |   0        |
 | Bath Rugby           |         2 |   0.5      |
-| Timisoara Saracens   |         1 |   1        |
 | Toulon               |         1 |   1        |
+| Timisoara Saracens   |         1 |   1        |
 | Georgia              |         1 |   1        |
-| New Zealand          |         1 |   0        |
 | Saracens             |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
+| New Zealand          |         1 |   0        |
 | Montpellier Herault  |         1 |   0        |
 | Fiji                 |         1 |   1        |
+| La Rochelle          |         1 |   0        |
 | Krasny Yar           |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | Gloucester Rugby     |         1 |   0        |

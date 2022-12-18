@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Le Jallé  
-date: 2022-12-14 11:33:01.951953  
+date: 2022-12-18 16:11:48.570888  
 categories: player  
 ---
 # Baptiste Le Jallé

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Grégory Querin  
-date: 2022-12-14 11:24:03.635174  
+date: 2022-12-18 16:34:28.200066  
 categories: player  
 ---
 # Grégory Querin

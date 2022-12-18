@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Garry Ringrose  
-date: 2022-12-14 11:21:19.158909  
+date: 2022-12-18 16:20:48.923468  
 categories: player  
 ---
 # Garry Ringrose
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 105.0
 
-## Current Percentile: 69.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            95 |   0.805263 |
+| Leinster |            96 |   0.807292 |
 | Ireland  |            48 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,21 +45,22 @@ categories: player
 | Northampton Saints       |         4 |   1        |
 | Wasps                    |         4 |   0.75     |
 | Edinburgh                |         3 |   0.666667 |
+| Saracens                 |         3 |   0.333333 |
 | Stade Toulousain         |         3 |   0.666667 |
 | Australia                |         3 |   1        |
-| Saracens                 |         3 |   0.333333 |
 | Bath Rugby               |         3 |   1        |
 | Zebre                    |         3 |   1        |
-| Racing 92                |         2 |   1        |
-| United States of America |         2 |   1        |
-| Lyon                     |         2 |   1        |
 | Ospreys                  |         2 |   1        |
+| United States of America |         2 |   1        |
+| Racing 92                |         2 |   1        |
+| Lyon                     |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
 | Exeter Chiefs            |         2 |   1        |
 | Castres Olympique        |         2 |   0.75     |
 | Cardiff Blues            |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
 | Russia                   |         1 |   1        |
+| Gloucester Rugby         |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | South Africa             |         1 |   1        |

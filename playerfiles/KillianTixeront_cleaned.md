@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Killian Tixeront  
-date: 2022-12-14 11:27:18.927952  
+date: 2022-12-18 16:18:42.005161  
 categories: player  
 ---
 # Killian Tixeront
 
 ## Positions: FL
 
-## Current elo: 95.0
+## Current elo: 93.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            14 |   0.535714 |
+| Clermont Auvergne |            15 |        0.5 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Biarritz Olympique |         1 |        1   |
 | Bordeaux Begles    |         1 |        0.5 |
 | Castres Olympique  |         1 |        0   |
+| Leicester Tigers   |         1 |        0   |
 | Racing 92          |         1 |        0   |
 | Stade Toulousain   |         1 |        0   |
 | Stormers           |         1 |        1   |

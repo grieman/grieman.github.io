@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jules Plisson  
-date: 2022-12-14 11:32:06.037996  
+date: 2022-12-18 16:32:32.065611  
 categories: player  
 ---
 # Jules Plisson

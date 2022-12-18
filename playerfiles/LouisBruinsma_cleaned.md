@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Bruinsma  
-date: 2022-12-14 11:35:24.321742  
+date: 2022-12-18 16:21:52.376826  
 categories: player  
 ---
 # Louis Bruinsma
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 46.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            30 |   0.583333 |
+| US Bressane |            31 |   0.564516 |
 | Netherlands |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,11 +32,12 @@ categories: player
 | Chambery                   |         2 |        1   |
 | Romania                    |         2 |        0   |
 | Narbonne                   |         2 |        0.5 |
+| Dax                        |         2 |        0   |
 | Vannes                     |         2 |        0   |
-| Blagnac                    |         2 |        1   |
 | Aurillac                   |         2 |        0.5 |
-| Bourgoin-Jallieu           |         1 |        1   |
-| Bayonne                    |         1 |        0   |
+| Blagnac                    |         2 |        1   |
+| Canada                     |         1 |        0   |
+| Nevers                     |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
@@ -44,15 +45,14 @@ categories: player
 | Provence Rugby             |         1 |        0   |
 | Portugal                   |         1 |        0   |
 | Nice                       |         1 |        1   |
-| Nevers                     |         1 |        0   |
+| Bayonne                    |         1 |        0   |
+| Carcassonne                |         1 |        0   |
 | Montauban                  |         1 |        0.5 |
-| Canada                     |         1 |        0   |
 | Mont-de-Marsan             |         1 |        0   |
 | Albi                       |         1 |        0   |
 | Dijon                      |         1 |        1   |
-| Dax                        |         1 |        0   |
 | Colomiers                  |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Bourgoin-Jallieu           |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        1   |
-| Carcassonne                |         1 |        0   |
 | Georgia                    |         1 |        0   |

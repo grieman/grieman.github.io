@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Morgan  
-date: 2022-12-12 15:38:56.676250  
+date: 2022-12-18 16:33:55.384339  
 categories: player  
 ---
 # Luke Morgan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 83.0
+## Current elo: 86.0
 
-## Current Percentile: 8.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ospreys |            68 |   0.411765 |
-| Wales   |             1 |   1        |
+| Ospreys |            69 |    0.42029 |
+| Wales   |             1 |    1       |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -45,6 +45,7 @@ categories: player
 | Sharks               |         2 |   0        |
 | Cheetahs             |         2 |   0.5      |
 | Pau                  |         2 |   0.5      |
+| Montpellier Herault  |         1 |   1        |
 | Saracens             |         1 |   0        |
 | Scotland             |         1 |   1        |
 | Southern Kings       |         1 |   1        |

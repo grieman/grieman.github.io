@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam Stuart  
-date: 2022-12-14 11:17:59.703476  
+date: 2022-12-18 16:15:12.159810  
 categories: player  
 ---
 # Sam Stuart
 
 ## Positions: SH
 
-## Current elo: 73.0
+## Current elo: 71.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            68 |   0.485294 |
+| Newcastle Falcons |            69 |   0.478261 |
 | Richmond          |            19 |   0.263158 |
 | Harlequins        |            18 |   0.444444 |
 
@@ -38,10 +38,10 @@ categories: player
 | Wasps               |         5 |   0.4      |
 | Sale Sharks         |         4 |   0.75     |
 | Bristol Rugby       |         4 |   0.25     |
+| Cardiff Blues       |         4 |   0.25     |
 | Cornish Pirates     |         3 |   1        |
 | Dragons             |         3 |   1        |
 | London Scottish     |         3 |   0.666667 |
-| Cardiff Blues       |         3 |   0.333333 |
 | Nottingham          |         2 |   0.5      |
 | Bordeaux Begles     |         2 |   1        |
 | Newcastle Falcons   |         2 |   1        |

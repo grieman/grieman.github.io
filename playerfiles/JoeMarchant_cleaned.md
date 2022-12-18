@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Marchant  
-date: 2022-12-14 11:36:52.949432  
+date: 2022-12-18 16:16:08.254776  
 categories: player  
 ---
 # Joe Marchant
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 103.0
 
-## Current Percentile: 80.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |           134 |   0.526119 |
+| Harlequins |           135 |   0.52963  |
 | England    |            12 |   0.583333 |
 | Blues      |             7 |   0.714286 |
 
@@ -44,25 +44,26 @@ categories: player
 | Ireland                  |         3 |   0.333333 |
 | Wales                    |         2 |   1        |
 | Timisoara Saracens       |         2 |   1        |
-| La Rochelle              |         2 |   0        |
-| Agen                     |         2 |   1        |
 | Italy                    |         2 |   1        |
-| Benetton Treviso         |         2 |   0.5      |
-| Edinburgh                |         2 |   0        |
+| Agen                     |         2 |   1        |
 | Cardiff Blues            |         2 |   1        |
-| Scotland                 |         1 |   0        |
+| Edinburgh                |         2 |   0        |
+| Benetton Treviso         |         2 |   0.5      |
+| La Rochelle              |         2 |   0        |
+| France                   |         1 |   0        |
+| Sharks                   |         1 |   0        |
+| Australia                |         1 |   0        |
 | Bulls                    |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
 | South Africa             |         1 |   1        |
-| Sharks                   |         1 |   0        |
-| Hurricanes               |         1 |   1        |
-| Australia                |         1 |   0        |
-| Chiefs                   |         1 |   0        |
-| Crusaders                |         1 |   0        |
+| Scotland                 |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
-| France                   |         1 |   0        |
-| Grenoble                 |         1 |   0        |
-| Highlanders              |         1 |   1        |
 | Scarlets                 |         1 |   1        |
+| Highlanders              |         1 |   1        |
+| Chiefs                   |         1 |   0        |
+| Racing 92                |         1 |   1        |
+| Crusaders                |         1 |   0        |
+| Grenoble                 |         1 |   0        |
+| Hurricanes               |         1 |   1        |

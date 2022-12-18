@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Xavier Mignot  
-date: 2022-12-14 11:35:05.065138  
+date: 2022-12-18 16:22:05.624899  
 categories: player  
 ---
 # Xavier Mignot
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Lyon             |            85 |   0.541176 |
+| Lyon             |            86 |   0.534884 |
 | Grenoble         |            52 |   0.384615 |
 | Bourgoin-Jallieu |            17 |   0.5      |
 | France           |             1 |   0        |
@@ -43,26 +43,26 @@ categories: player
 | Castres Olympique    |         5 |   0.4      |
 | Bayonne              |         5 |   0.6      |
 | Lyon                 |         5 |   0.2      |
-| Brive                |         4 |   0.75     |
 | Oyonnax              |         4 |   0.5      |
+| Brive                |         4 |   0.75     |
 | Cardiff Blues        |         3 |   0        |
 | Perpignan            |         3 |   0.666667 |
 | London Irish         |         3 |   0.333333 |
 | Rovigo               |         2 |   1        |
+| Saracens             |         2 |   0        |
 | Leinster             |         2 |   0        |
 | US Bressane          |         2 |   0.5      |
 | Edinburgh            |         2 |   0.5      |
-| Colomiers            |         2 |   0        |
 | Benetton Treviso     |         2 |   0.5      |
+| Colomiers            |         2 |   0        |
 | Albi                 |         1 |   0        |
-| Biarritz Olympique   |         1 |   1        |
+| Bulls                |         1 |   0        |
 | Argentina            |         1 |   0        |
 | Auch                 |         1 |   1        |
 | Aurillac             |         1 |   1        |
-| Saracens             |         1 |   0        |
 | Beziers              |         1 |   1        |
+| Biarritz Olympique   |         1 |   1        |
 | Carcassonne          |         1 |   1        |
-| Bulls                |         1 |   0        |
 | Grenoble             |         1 |   1        |
 | Ospreys              |         1 |   0        |
 | Northampton Saints   |         1 |   0        |

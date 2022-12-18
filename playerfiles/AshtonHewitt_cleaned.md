@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ashton Hewitt  
-date: 2022-12-14 11:16:29.163062  
+date: 2022-12-18 16:22:48.834878  
 categories: player  
 ---
 # Ashton Hewitt
 
 ## Positions: W
 
-## Current elo: 102.0
+## Current elo: 98.0
 
-## Current Percentile: 63.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |           105 |   0.338095 |
+| Dragons |           106 |   0.334906 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,11 +37,11 @@ categories: player
 | Worcester Warriors   |         5 |   0.6      |
 | Zebre                |         4 |   0.5      |
 | Connacht             |         4 |   0.5      |
+| Pau                  |         3 |   0.666667 |
 | Southern Kings       |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   0        |
 | Cheetahs             |         2 |   0.5      |
-| Pau                  |         2 |   1        |
 | Sale Sharks          |         2 |   0.5      |
 | Castres Olympique    |         2 |   0.5      |
 | Harlequins           |         1 |   0        |

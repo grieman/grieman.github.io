@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jiuta Wainiqolo  
-date: 2022-12-14 11:30:39.640411  
+date: 2022-12-18 16:18:06.740871  
 categories: player  
 ---
 # Jiuta Wainiqolo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 69.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Toulon      |            26 |   0.557692 |
+| Toulon      |            27 |   0.574074 |
 | Fiji        |             4 |   0.5      |
 | Fijian Drua |             4 |   0.75     |
 
@@ -33,20 +33,21 @@ categories: player
 | Stade Toulousain     |         3 |   0.333333 |
 | La Rochelle          |         3 |   0.333333 |
 | Pau                  |         3 |   0.833333 |
-| Racing 92            |         2 |   0        |
+| Stade Francais Paris |         2 |   0.5      |
 | Castres Olympique    |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   1        |
-| Stade Francais Paris |         2 |   0.5      |
+| Racing 92            |         2 |   0        |
 | Perpignan            |         2 |   0.5      |
-| Bayonne              |         1 |   1        |
+| Bath Rugby           |         1 |   1        |
+| Queensland Country   |         1 |   1        |
 | Sydney Rays          |         1 |   1        |
 | Spain                |         1 |   1        |
 | Samoa                |         1 |   0        |
 | Melbourne Rising     |         1 |   1        |
-| Queensland Country   |         1 |   1        |
-| Biarritz Olympique   |         1 |   1        |
+| Bayonne              |         1 |   1        |
 | Lyon                 |         1 |   1        |
 | Ireland              |         1 |   0        |
 | Canberra Vikings     |         1 |   0        |
 | Brive                |         1 |   0        |
+| Biarritz Olympique   |         1 |   1        |
 | Tonga                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Youngs  
-date: 2022-12-12 15:20:35.124743  
+date: 2022-12-18 16:27:38.970324  
 categories: player  
 ---
 # Ben Youngs
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           278 |   0.633094 |
+| Leicester Tigers        |           279 |   0.634409 |
 | England                 |           111 |   0.689189 |
 | British and Irish Lions |             1 |   0        |
 
@@ -33,29 +33,29 @@ categories: player
 | Bath Rugby               |        21 |   0.52381  |
 | Harlequins               |        20 |   0.7      |
 | Wasps                    |        18 |   0.388889 |
-| Saracens                 |        17 |   0.411765 |
 | Sale Sharks              |        17 |   0.647059 |
-| Exeter Chiefs            |        16 |   0.625    |
+| Saracens                 |        17 |   0.411765 |
 | Gloucester Rugby         |        16 |   0.78125  |
+| Exeter Chiefs            |        16 |   0.625    |
 | Newcastle Falcons        |        16 |   0.875    |
-| London Irish             |        14 |   0.857143 |
 | Wales                    |        14 |   0.571429 |
-| France                   |        13 |   0.615385 |
+| London Irish             |        14 |   0.857143 |
 | Australia                |        13 |   0.846154 |
-| South Africa             |        12 |   0.333333 |
-| Worcester Warriors       |        12 |   0.916667 |
-| Ireland                  |        12 |   0.583333 |
-| Italy                    |        12 |   1        |
+| France                   |        13 |   0.615385 |
 | Scotland                 |        12 |   0.75     |
+| Worcester Warriors       |        12 |   0.916667 |
+| South Africa             |        12 |   0.333333 |
+| Italy                    |        12 |   1        |
+| Ireland                  |        12 |   0.583333 |
 | Benetton Treviso         |         9 |   1        |
 | Ulster                   |         8 |   0.25     |
-| Bristol Rugby            |         7 |   0.642857 |
 | New Zealand              |         7 |   0.357143 |
 | Racing 92                |         7 |   0.142857 |
-| Munster                  |         6 |   0.5      |
+| Bristol Rugby            |         7 |   0.642857 |
 | Scarlets                 |         6 |   0.666667 |
+| Munster                  |         6 |   0.5      |
+| Clermont Auvergne        |         6 |   0.5      |
 | Argentina                |         5 |   0.8      |
-| Clermont Auvergne        |         5 |   0.4      |
 | Ospreys                  |         5 |   0.4      |
 | Toulon                   |         4 |   0.25     |
 | Samoa                    |         3 |   1        |

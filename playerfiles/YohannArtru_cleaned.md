@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yohann Artru  
-date: 2022-12-12 15:41:00.204920  
+date: 2022-12-18 16:33:58.213350  
 categories: player  
 ---
 # Yohann Artru
 
 ## Positions: W
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 49.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Biarritz Olympique  |            82 |   0.536585 |
+| Biarritz Olympique  |            83 |   0.53012  |
 | Montpellier Herault |            35 |   0.342857 |
 | Perpignan           |            20 |   0.625    |
 
@@ -32,10 +32,10 @@ categories: player
 | Aurillac                   |         7 |   0.714286 |
 | Bayonne                    |         7 |   0.714286 |
 | Montauban                  |         7 |   0.285714 |
+| Beziers                    |         7 |   0.428571 |
 | Oyonnax                    |         6 |   0.666667 |
 | Grenoble                   |         6 |   0.833333 |
 | Carcassonne                |         6 |   0.666667 |
-| Beziers                    |         6 |   0.5      |
 | Brive                      |         5 |   0.1      |
 | Perpignan                  |         5 |   0.4      |
 | Nevers                     |         5 |   0.3      |
@@ -45,8 +45,8 @@ categories: player
 | Lyon                       |         4 |   0.5      |
 | Massy                      |         3 |   0.666667 |
 | Racing 92                  |         3 |   0.166667 |
-| Rouen                      |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
+| Rouen                      |         3 |   0.666667 |
 | Vannes                     |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Clermont Auvergne          |         3 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain Durand  
-date: 2022-12-12 15:04:57.015083  
+date: 2022-12-18 16:15:05.075364  
 categories: player  
 ---
 # Romain Durand
 
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 106.0
 
-## Current Percentile: 72.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            44 |   0.545455 |
+| Mont-de-Marsan |            45 |   0.555556 |
 | Narbonne       |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,8 +31,8 @@ categories: player
 | Beziers                    |         5 |   0.8      |
 | Oyonnax                    |         4 |   0.375    |
 | Vannes                     |         4 |   0.25     |
+| Carcassonne                |         4 |   0.5      |
 | Colomiers                  |         3 |   0.666667 |
-| Carcassonne                |         3 |   0.333333 |
 | Grenoble                   |         2 |   0        |
 | Aurillac                   |         2 |   1        |
 | Rouen                      |         2 |   1        |

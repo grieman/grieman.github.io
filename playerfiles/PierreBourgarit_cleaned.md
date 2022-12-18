@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Bourgarit  
-date: 2022-12-14 11:33:33.428192  
+date: 2022-12-18 16:20:27.778166  
 categories: player  
 ---
 # Pierre Bourgarit
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 83.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           108 |   0.62037  |
+| La Rochelle |           109 |   0.623853 |
 | France      |             6 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,10 +42,10 @@ categories: player
 | Bayonne              |         4 |   0.5      |
 | Agen                 |         4 |   1        |
 | Brive                |         4 |   1        |
+| Ulster               |         3 |   0.666667 |
 | Sale Sharks          |         3 |   0.666667 |
 | Wasps                |         2 |   0.5      |
 | Harlequins           |         2 |   1        |
-| Ulster               |         2 |   0.5      |
 | Grenoble             |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
 | Japan                |         2 |   1        |

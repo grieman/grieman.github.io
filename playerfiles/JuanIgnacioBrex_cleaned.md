@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Ignacio Brex  
-date: 2022-11-22 11:46:05.085768  
+date: 2022-12-18 16:27:12.132969  
 categories: player  
 ---
 # Juan Ignacio Brex
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 101.0
+## Current elo: 104.0
 
-## Current Percentile: 77.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            50 |   0.41     |
+| Benetton Treviso |            52 |   0.432692 |
 | Italy            |            18 |   0.277778 |
 | San Cirano       |            18 |   0.416667 |
 
@@ -31,47 +31,48 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Zebre                |         9 |   0.777778 |
 | Scarlets             |         6 |   0.166667 |
+| Edinburgh            |         5 |   0.4      |
+| Cardiff Blues        |         4 |   0.25     |
 | Ulster               |         4 |   0.125    |
 | Southern Kings       |         4 |   1        |
-| Cardiff Blues        |         4 |   0.25     |
-| Edinburgh            |         4 |   0.25     |
-| Leinster             |         3 |   0        |
 | Dragons              |         3 |   1        |
-| France               |         2 |   0        |
-| Wales                |         2 |   0.5      |
-| Toulon               |         2 |   0        |
-| Scotland             |         2 |   0        |
-| Regatas Bella Vista  |         2 |   0.5      |
-| Ospreys              |         2 |   0.5      |
-| Ireland              |         2 |   0        |
-| Liceo Militar        |         2 |   0.5      |
-| England              |         2 |   0        |
-| Bulls                |         2 |   0        |
+| Leinster             |         3 |   0        |
 | CASI                 |         2 |   0.5      |
-| Georgia              |         1 |   0        |
-| Atlético del Rosario |         1 |   0        |
-| Uruguay              |         1 |   1        |
+| England              |         2 |   0        |
+| Regatas Bella Vista  |         2 |   0.5      |
+| Liceo Militar        |         2 |   0.5      |
+| Ireland              |         2 |   0        |
+| France               |         2 |   0        |
+| Scotland             |         2 |   0        |
+| Toulon               |         2 |   0        |
+| Wales                |         2 |   0.5      |
+| Bulls                |         2 |   0        |
+| Ospreys              |         2 |   0.5      |
 | Australia            |         1 |   1        |
-| Bath Rugby           |         1 |   0        |
-| Belgrano             |         1 |   0.5      |
+| Atlético del Rosario |         1 |   0        |
 | South Africa         |         1 |   0        |
+| Northampton Saints   |         1 |   0        |
+| Bath Rugby           |         1 |   0        |
+| Uruguay              |         1 |   1        |
 | San Luis             |         1 |   1        |
 | Samoa                |         1 |   1        |
 | SIC                  |         1 |   0        |
-| CUBA                 |         1 |   0.5      |
 | Pucara               |         1 |   0        |
 | Portugal             |         1 |   1        |
-| Champagnat           |         1 |   1        |
-| Northampton Saints   |         1 |   0        |
+| Munster              |         1 |   0        |
 | Newman               |         1 |   0        |
 | New Zealand          |         1 |   0        |
-| Munster              |         1 |   0        |
+| CUBA                 |         1 |   0.5      |
 | Los Tilos            |         1 |   1        |
 | Lomas                |         1 |   0        |
 | Argentina            |         1 |   0        |
-| Cheetahs             |         1 |   0        |
 | La Plata             |         1 |   0        |
-| Connacht             |         1 |   0        |
 | Grenoble             |         1 |   1        |
 | Glasgow Warriors     |         1 |   1        |
+| Georgia              |         1 |   0        |
+| Bayonne              |         1 |   1        |
+| Belgrano             |         1 |   0.5      |
+| Connacht             |         1 |   0        |
+| Cheetahs             |         1 |   0        |
+| Champagnat           |         1 |   1        |
 | Alumni               |         1 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Valery Morozov  
-date: 2022-12-12 15:18:20.677701  
+date: 2022-12-18 16:36:24.784364  
 categories: player  
 ---
 # Valery Morozov
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Russia
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 25.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Sale Sharks        |            35 |   0.642857 |
 | Russia             |            22 |   0.409091 |
 | RC Enisei          |            15 |   0.133333 |
-| Bath Rugby         |            13 |   0.384615 |
+| Bath Rugby         |            14 |   0.357143 |
 | Worcester Warriors |             2 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -61,6 +61,7 @@ categories: player
 | Samoa                    |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | Italy                    |         1 |   0        |
+| Toulon                   |         1 |   0        |
 | United States of America |         1 |   0        |
 | Ireland                  |         1 |   0        |
 | Hong Kong                |         1 |   1        |

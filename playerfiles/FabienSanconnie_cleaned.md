@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fabien Sanconnie  
-date: 2022-12-14 11:12:52.180197  
+date: 2022-12-18 16:14:23.451263  
 categories: player  
 ---
 # Fabien Sanconnie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 70.0
+## Current elo: 72.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Brive     |            64 |   0.421875 |
-| Racing 92 |            60 |   0.6      |
+| Racing 92 |            61 |   0.590164 |
 | France    |             5 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -49,20 +49,21 @@ categories: player
 | Ulster               |         2 |   0.5      |
 | Saracens             |         2 |   0.5      |
 | RC Enisei            |         2 |   0.5      |
-| Dragons              |         2 |   0.5      |
 | Connacht             |         2 |   0.5      |
+| Dragons              |         2 |   0.5      |
 | New Zealand          |         2 |   0        |
 | Munster              |         2 |   0.75     |
 | Gloucester Rugby     |         2 |   0        |
 | Zebre                |         2 |   0        |
 | Newcastle Falcons    |         1 |   0        |
-| Italy                |         1 |   1        |
+| Harlequins           |         1 |   0        |
 | Bath Rugby           |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
 | Leinster             |         1 |   0        |
-| Scarlets             |         1 |   1        |
 | Leicester Tigers     |         1 |   1        |
-| Bayonne              |         1 |   1        |
+| Scarlets             |         1 |   1        |
 | Japan                |         1 |   0.5      |
+| Bayonne              |         1 |   1        |
+| Italy                |         1 |   1        |
 | Wales                |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |

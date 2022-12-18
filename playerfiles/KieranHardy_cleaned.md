@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Hardy  
-date: 2022-12-14 11:32:24.062028  
+date: 2022-12-18 16:23:55.176044  
 categories: player  
 ---
 # Kieran Hardy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 109.0
+## Current elo: 110.0
 
 ## Current Percentile: 89.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            65 |   0.484615 |
+| Scarlets |            66 |   0.492424 |
 | Jersey   |            28 |   0.571429 |
 | Wales    |            15 |   0.433333 |
 
@@ -49,12 +49,12 @@ categories: player
 | Bedford             |         3 |   0.666667 |
 | Doncaster           |         3 |   0.333333 |
 | Benetton Treviso    |         3 |   0.333333 |
+| Cheetahs            |         3 |   1        |
 | England             |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
 | Cornish Pirates     |         2 |   1        |
 | Bristol Rugby       |         2 |   0.5      |
 | Richmond            |         2 |   0.5      |
-| Cheetahs            |         2 |   1        |
 | Leinster            |         2 |   0        |
 | Hartpury College    |         2 |   1        |
 | Glasgow Warriors    |         2 |   0        |

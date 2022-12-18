@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Bajart  
-date: 2022-12-14 11:26:19.284425  
+date: 2022-12-18 16:30:43.305799  
 categories: player  
 ---
 # Anthony Bajart

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jean-Jacques Gymael  
-date: 2022-12-14 11:35:12.800879  
+date: 2022-12-18 16:22:45.901048  
 categories: player  
 ---
 # Jean-Jacques Gymael
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 93.0
 
 ## Current Percentile: 37.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |             9 |   0.555556 |
-| Albi     |             8 |   0.375    |
+| Aurillac |            10 |      0.6   |
+| Albi     |             8 |      0.375 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,5 +39,6 @@ categories: player
 | Nevers                     |         1 |          1 |
 | Nice                       |         1 |          1 |
 | Provence Rugby             |         1 |          0 |
+| Rouen                      |         1 |          1 |
 | US Bressane                |         1 |          0 |
 | Vannes                     |         1 |          1 |

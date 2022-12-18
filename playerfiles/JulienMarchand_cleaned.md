@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Marchand  
-date: 2022-12-14 11:27:59.244726  
+date: 2022-12-18 16:39:04.835307  
 categories: player  
 ---
 # Julien Marchand
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 82.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |           159 |   0.672956 |
+| Stade Toulousain |           160 |   0.675    |
 | France           |            22 |   0.818182 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -46,6 +46,7 @@ categories: player
 | Bath Rugby           |         4 |   0.75     |
 | Bayonne              |         4 |   0.75     |
 | Connacht             |         3 |   0.666667 |
+| Sale Sharks          |         3 |   0.833333 |
 | England              |         3 |   0.666667 |
 | Scotland             |         3 |   0.333333 |
 | Ulster               |         3 |   0.333333 |
@@ -56,7 +57,6 @@ categories: player
 | Munster              |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
 | Perpignan            |         2 |   1        |
-| Sale Sharks          |         2 |   0.75     |
 | Wasps                |         2 |   1        |
 | Glasgow Warriors     |         2 |   1        |
 | South Africa         |         1 |   1        |

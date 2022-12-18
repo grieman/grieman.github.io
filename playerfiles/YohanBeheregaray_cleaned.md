@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yohan Beheregaray  
-date: 2022-12-14 11:24:27.214819  
+date: 2022-12-18 16:21:44.886107  
 categories: player  
 ---
 # Yohan Beheregaray
 
 ## Positions: H
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 46.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            90 |   0.566667 |
+| Clermont Auvergne |            91 |    0.56044 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,17 +36,18 @@ categories: player
 | Montpellier Herault  |         5 |   0.6      |
 | Bordeaux Begles      |         5 |   0.1      |
 | Lyon                 |         4 |   0.75     |
-| Brive                |         3 |   0.666667 |
 | Bayonne              |         3 |   0        |
-| Grenoble             |         2 |   0.75     |
-| Bath Rugby           |         2 |   1        |
-| Ospreys              |         2 |   1        |
+| Brive                |         3 |   0.666667 |
 | Dragons              |         2 |   1        |
-| Perpignan            |         2 |   0.5      |
+| Grenoble             |         2 |   0.75     |
 | Biarritz Olympique   |         2 |   1        |
+| Perpignan            |         2 |   0.5      |
 | Ulster               |         2 |   0.5      |
-| Harlequins           |         1 |   1        |
-| Northampton Saints   |         1 |   0        |
+| Ospreys              |         2 |   1        |
+| Bath Rugby           |         2 |   1        |
 | Oyonnax              |         1 |   0        |
+| Northampton Saints   |         1 |   0        |
 | Stormers             |         1 |   1        |
 | Timisoara Saracens   |         1 |   1        |
+| Leicester Tigers     |         1 |   0        |
+| Harlequins           |         1 |   1        |

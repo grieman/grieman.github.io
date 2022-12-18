@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hayata Nakao  
-date: 2022-11-22 11:31:14.937850  
+date: 2022-12-18 16:13:45.329156  
 categories: player  
 ---
 # Hayata Nakao
 
 ## Positions: C, FH
 
-## Current elo: 104.0
+## Current elo: 108.0
 
-## Current Percentile: 64.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            20 |       0.55 |
+| Toshiba Brave Lupus Tokyo |            21 |    0.52381 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | NTT Docomo Red Hurricanes Osaka   |         3 |        1   |
+| Saitama Wild Knights              |         3 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |        0   |
 | Mie Honda Heat                    |         2 |        0.5 |
-| Saitama Wild Knights              |         2 |        0   |
 | Tokyo Sungoliath                  |         2 |        0.5 |
 | Toyota Verblitz                   |         2 |        0.5 |
 | Black Rams Tokyo                  |         1 |        1   |

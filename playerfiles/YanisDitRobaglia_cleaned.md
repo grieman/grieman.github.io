@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yanis Dit Robaglia  
-date: 2022-12-14 11:27:20.115995  
+date: 2022-12-18 16:19:00.276516  
 categories: player  
 ---
 # Yanis Dit Robaglia
 
 ## Positions: W
 
-## Current elo: 86.0
+## Current elo: 83.0
 
-## Current Percentile: 22.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,15 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            29 |   0.568966 |
+| Massy  |            30 |       0.55 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         3 |       1    |
-| Dijon                      |         2 |       1    |
 | Tarbes                     |         2 |       0.5  |
 | Suresnes                   |         2 |       1    |
 | Chambery                   |         2 |       0.25 |
+| Dijon                      |         2 |       1    |
+| Agen                       |         1 |       0    |
 | Montauban                  |         1 |       0    |
 | Valence Romans Drome Rugby |         1 |       1    |
 | Rouen                      |         1 |       0    |
@@ -37,7 +38,7 @@ categories: player
 | Oyonnax                    |         1 |       0    |
 | Nice                       |         1 |       0    |
 | Nevers                     |         1 |       0    |
-| Agen                       |         1 |       0    |
+| Grenoble                   |         1 |       0    |
 | Mont-de-Marsan             |         1 |       1    |
 | Albi                       |         1 |       1    |
 | Dax                        |         1 |       1    |

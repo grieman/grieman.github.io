@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Remi Bourdeau  
-date: 2022-12-14 11:17:35.496500  
+date: 2022-12-18 16:39:30.131862  
 categories: player  
 ---
 # Remi Bourdeau
 
 ## Positions: FL, N8
 
-## Current elo: 116.0
+## Current elo: 120.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Beziers     |            71 |   0.605634 |
-| La Rochelle |            55 |   0.618182 |
+| La Rochelle |            56 |   0.625    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -60,3 +60,4 @@ categories: player
 | Albi                 |         1 |   1        |
 | Provence Rugby       |         1 |   1        |
 | RC Enisei            |         1 |   1        |
+| Ulster               |         1 |   1        |

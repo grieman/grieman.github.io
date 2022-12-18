@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Beaujouan  
-date: 2022-12-14 11:33:06.182444  
+date: 2022-12-18 16:35:39.553112  
 categories: player  
 ---
 # Baptiste Beaujouan

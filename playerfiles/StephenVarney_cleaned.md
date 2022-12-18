@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen Varney  
-date: 2022-12-14 11:27:43.089322  
+date: 2022-12-18 16:26:26.810056  
 categories: player  
 ---
 # Stephen Varney

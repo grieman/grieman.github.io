@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jerome Rey  
-date: 2022-12-14 11:20:10.383948  
+date: 2022-12-18 16:27:24.119012  
 categories: player  
 ---
 # Jerome Rey
 
 ## Positions: P
 
-## Current elo: 59.0
+## Current elo: 60.0
 
 ## Current Percentile: 0.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Lyon             |            31 |   0.516129 |
+| Lyon             |            32 |   0.5      |
 | Grenoble         |            27 |   0.481481 |
 | Bourgoin-Jallieu |             1 |   0        |
 
@@ -52,6 +52,7 @@ categories: player
 | Colomiers            |         1 |   0        |
 | Carcassonne          |         1 |   1        |
 | Bulls                |         1 |   0        |
+| Saracens             |         1 |   0        |
 | Beziers              |         1 |   1        |
 | Bayonne              |         1 |   0        |
 | Agen                 |         1 |   0        |

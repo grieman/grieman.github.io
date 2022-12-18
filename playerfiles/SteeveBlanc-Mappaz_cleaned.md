@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Steeve Blanc-Mappaz  
-date: 2022-12-12 14:51:04.847524  
+date: 2022-12-18 16:34:21.800523  
 categories: player  
 ---
 # Steeve Blanc-Mappaz
 
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 75.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            74 |   0.47973  |
+| Grenoble |            75 |   0.486667 |
 | Vannes   |            14 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -44,10 +44,10 @@ categories: player
 | US Bressane                |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Agen                       |         2 |   1        |
+| Massy                      |         2 |   0.5      |
 | Lyon                       |         2 |   0        |
 | Mont-de-Marsan             |         2 |   1        |
 | Montpellier Herault        |         1 |   0        |
-| Massy                      |         1 |   0        |
 | La Rochelle                |         1 |   0        |
 | Pau                        |         1 |   0        |
 | Harlequins                 |         1 |   0        |

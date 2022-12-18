@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Palis  
-date: 2022-12-14 11:22:47.805148  
+date: 2022-12-18 16:19:53.631375  
 categories: player  
 ---
 # Geoffrey Palis

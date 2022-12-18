@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gerbrandt Grobler  
-date: 2022-12-14 11:15:53.953031  
+date: 2022-12-18 16:35:20.579472  
 categories: player  
 ---
 # Gerbrandt Grobler
 
 ## Positions: L, FL
 
-## Current elo: 74.0
+## Current elo: 77.0
 
-## Current Percentile: 2.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Gloucester Rugby     |            29 |   0.413793 |
 | Racing 92            |            21 |   0.47619  |
-| Sharks               |            19 |   0.631579 |
+| Sharks               |            20 |   0.65     |
 | Stade Francais Paris |            14 |   0.5      |
 | Munster              |            11 |   0.681818 |
 | Stormers             |             8 |   0.75     |
@@ -40,6 +40,7 @@ categories: player
 | Stade Toulousain     |         4 |   0.5      |
 | Glasgow Warriors     |         4 |   0.25     |
 | Leicester Tigers     |         4 |   0.5      |
+| Bordeaux Begles      |         4 |   0.75     |
 | Cardiff Blues        |         3 |   0        |
 | Castres Olympique    |         3 |   0.666667 |
 | Cheetahs             |         3 |   0.666667 |
@@ -48,7 +49,6 @@ categories: player
 | Bulls                |         3 |   0.666667 |
 | Brive                |         3 |   1        |
 | Southern Kings       |         3 |   1        |
-| Bordeaux Begles      |         3 |   0.666667 |
 | Zebre                |         3 |   1        |
 | Bayonne              |         2 |   0.5      |
 | Ospreys              |         2 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Daniel Viljoen Jooste  
-date: 2022-12-14 11:17:58.030207  
+date: 2022-12-18 16:16:18.612253  
 categories: player  
 ---
 # Daniel Viljoen Jooste
 
 ## Positions: H
 
-## Current elo: 91.0
+## Current elo: 92.0
 
 ## Current Percentile: 47.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Natal Sharks |            11 |   0.636364 |
-| Sharks       |             7 |   0.571429 |
+| Sharks       |             8 |   0.625    |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Golden Lions        |         2 |        1   |
 | Griquas             |         2 |        1   |
 | Western Province    |         2 |        0.5 |
+| Bordeaux Begles     |         1 |        1   |
 | Bulls               |         1 |        0   |
 | Cardiff Blues       |         1 |        0   |
 | Dragons             |         1 |        1   |

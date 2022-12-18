@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Conor Maguire  
-date: 2022-12-14 11:23:01.009009  
+date: 2022-12-18 16:29:52.009125  
 categories: player  
 ---
 # Conor Maguire

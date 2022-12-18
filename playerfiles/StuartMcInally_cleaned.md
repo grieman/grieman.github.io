@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stuart McInally  
-date: 2022-12-14 11:15:42.200492  
+date: 2022-12-18 16:37:21.747277  
 categories: player  
 ---
 # Stuart McInally
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 77.0
 
-## Current Percentile: 1.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           166 |   0.46988  |
+| Edinburgh |           167 |   0.473054 |
 | Scotland  |            43 |   0.546512 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -61,11 +61,11 @@ categories: player
 | Aironi               |         2 |   0.5      |
 | Argentina            |         2 |   1        |
 | Bulls                |         2 |   0.5      |
+| Castres Olympique    |         2 |   1        |
 | Georgia              |         2 |   1        |
 | Southern Kings       |         1 |   1        |
 | Australia            |         1 |   1        |
 | Bordeaux Begles      |         1 |   0        |
-| Castres Olympique    |         1 |   1        |
 | Stormers             |         1 |   0        |
 | Stade Toulousain     |         1 |   1        |
 | Cheetahs             |         1 |   1        |

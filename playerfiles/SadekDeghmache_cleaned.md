@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sadek Deghmache  
-date: 2022-12-12 15:17:14.365180  
+date: 2022-12-18 16:26:02.779018  
 categories: player  
 ---
 # Sadek Deghmache
 
 ## Positions: SH
 
-## Current elo: 82.0
+## Current elo: 83.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            83 |   0.403614 |
+| Perpignan |            84 |    0.39881 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,16 +32,16 @@ categories: player
 | Pau                        |         4 |   0        |
 | La Rochelle                |         4 |   0.25     |
 | Lyon                       |         4 |   0.25     |
+| Mont-de-Marsan             |         3 |   0.333333 |
 | Montauban                  |         3 |   0.666667 |
-| Montpellier Herault        |         3 |   0        |
 | Stade Francais Paris       |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   0.833333 |
 | Racing 92                  |         3 |   0        |
 | Provence Rugby             |         3 |   0.666667 |
 | Oyonnax                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
+| Montpellier Herault        |         3 |   0        |
 | Vannes                     |         3 |   1        |
-| Mont-de-Marsan             |         3 |   0.333333 |
 | Clermont Auvergne          |         3 |   0.333333 |
 | Aurillac                   |         2 |   1        |
 | Connacht                   |         2 |   0        |
@@ -50,6 +50,7 @@ categories: player
 | Sale Sharks                |         2 |   0        |
 | Stade Toulousain           |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   1        |
+| Glasgow Warriors           |         1 |   0        |
 | Dax                        |         1 |   1        |
 | Carcassonne                |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |

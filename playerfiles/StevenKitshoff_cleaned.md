@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steven Kitshoff  
-date: 2022-12-14 11:17:38.449074  
+date: 2022-12-18 16:26:16.508707  
 categories: player  
 ---
 # Steven Kitshoff
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 122.0
+## Current elo: 124.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |           115 |   0.6      |
+| Stormers         |           116 |   0.603448 |
 | South Africa     |            70 |   0.592857 |
 | Bordeaux Begles  |            34 |   0.529412 |
 | Western Province |            34 |   0.691176 |
@@ -61,33 +61,34 @@ categories: player
 | Ospreys                  |         3 |   0.833333 |
 | Pau                      |         3 |   0.666667 |
 | Italy                    |         3 |   1        |
+| Ireland                  |         3 |   0.333333 |
 | Stade Francais Paris     |         3 |   1        |
 | Grenoble                 |         3 |   1        |
-| Ireland                  |         3 |   0.333333 |
 | Scotland                 |         2 |   1        |
-| Stade Toulousain         |         2 |   0.75     |
 | Sunwolves                |         2 |   1        |
 | Pumas                    |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
 | Southern Kings           |         2 |   1        |
 | Racing 92                |         2 |   0        |
+| Stade Toulousain         |         2 |   0.75     |
 | Western Force            |         2 |   1        |
+| Exeter Chiefs            |         2 |   0.5      |
 | Brive                    |         2 |   0.5      |
 | Cardiff Blues            |         2 |   0.5      |
 | Castres Olympique        |         2 |   0        |
 | Japan                    |         2 |   1        |
 | Montpellier Herault      |         2 |   0        |
-| Exeter Chiefs            |         2 |   0.5      |
 | Namibia                  |         1 |   1        |
-| Edinburgh                |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Connacht                 |         1 |   0        |
 | Eastern Province Kings   |         1 |   1        |
+| Edinburgh                |         1 |   1        |
 | Georgia                  |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Leinster                 |         1 |   1        |
 | Oyonnax                  |         1 |   1        |
+| London Irish             |         1 |   1        |
 | Lyon                     |         1 |   0        |
 | Agen                     |         1 |   1        |

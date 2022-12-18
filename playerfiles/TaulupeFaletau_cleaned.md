@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taulupe Faletau  
-date: 2022-12-14 11:18:25.530192  
+date: 2022-12-18 16:39:09.974313  
 categories: player  
 ---
 # Taulupe Faletau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Wales                   |            88 |   0.494318 |
 | Bath Rugby              |            66 |   0.515152 |
 | British and Irish Lions |             8 |   0.6875   |
-| Cardiff Blues           |             5 |   0.8      |
+| Cardiff Blues           |             6 |   0.833333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -60,19 +60,19 @@ categories: player
 | Leinster             |         4 |   0.25     |
 | Zebre                |         4 |   0.875    |
 | Argentina            |         3 |   0.666667 |
-| Fiji                 |         3 |   1        |
-| London Irish         |         3 |   1        |
-| Stade Francais Paris |         3 |   0.666667 |
 | Glasgow Warriors     |         3 |   0        |
-| Samoa                |         2 |   0.5      |
-| Perpignan            |         2 |   0.5      |
-| Pau                  |         2 |   1        |
-| Newcastle Falcons    |         2 |   0.5      |
-| Bordeaux Begles      |         2 |   0.5      |
-| Georgia              |         2 |   0.5      |
-| Bayonne              |         2 |   0        |
+| Stade Francais Paris |         3 |   0.666667 |
+| Fiji                 |         3 |   1        |
+| Newcastle Falcons    |         3 |   0.666667 |
+| London Irish         |         3 |   1        |
 | Bath Rugby           |         2 |   0        |
+| Bayonne              |         2 |   0        |
+| Georgia              |         2 |   0.5      |
+| Bordeaux Begles      |         2 |   0.5      |
 | Mogliano             |         2 |   1        |
+| Pau                  |         2 |   1        |
+| Perpignan            |         2 |   0.5      |
+| Samoa                |         2 |   0.5      |
 | Brive                |         2 |   1        |
 | Bucuresti            |         1 |   1        |
 | Toulon               |         1 |   0        |

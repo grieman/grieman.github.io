@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Foures  
-date: 2022-12-14 11:29:03.355913  
+date: 2022-12-18 16:24:20.806005  
 categories: player  
 ---
 # Charles Foures

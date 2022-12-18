@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Tauleigne  
-date: 2022-12-14 11:23:07.579754  
+date: 2022-12-18 16:33:40.237014  
 categories: player  
 ---
 # Marco Tauleigne
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bordeaux Begles     |           103 |   0.543689 |
-| Montpellier Herault |            20 |   0.55     |
+| Montpellier Herault |            21 |   0.52381  |
 | France              |             6 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -46,9 +46,9 @@ categories: player
 | Grenoble             |         3 |   1        |
 | Dragons              |         3 |   0.666667 |
 | Edinburgh            |         3 |   0.5      |
+| Ospreys              |         3 |   0.333333 |
 | Oyonnax              |         2 |   1        |
 | Ulster               |         2 |   1        |
-| Ospreys              |         2 |   0.5      |
 | Wasps                |         2 |   1        |
 | New Zealand          |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |

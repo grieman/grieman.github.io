@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sebastian de Chaves  
-date: 2022-12-14 11:35:11.000418  
+date: 2022-12-18 16:28:46.405172  
 categories: player  
 ---
 # Sebastian de Chaves
 
 ## Positions: L
 
-## Current elo: 93.0
+## Current elo: 89.0
 
-## Current Percentile: 48.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Leicester Tigers  |            56 |   0.598214 |
 | London Irish      |            56 |   0.5      |
 | Austin Gilgronis  |            17 |   0.529412 |
-| Newcastle Falcons |            14 |   0.428571 |
+| Newcastle Falcons |            15 |   0.4      |
 | Mont-de-Marsan    |            13 |   0.153846 |
 | Wasps             |             3 |   0        |
 | Austin Herd       |             1 |   0        |
@@ -45,13 +45,13 @@ categories: player
 | Stade Francais Paris   |         4 |  0.25      |
 | Leicester Tigers       |         4 |  0         |
 | Yorkshire Carnegie     |         4 |  1         |
+| Cardiff Blues          |         3 |  0.666667  |
 | Houston SaberCats      |         3 |  1         |
 | L. A. Giltinis         |         3 |  0         |
 | Bordeaux Begles        |         3 |  0.666667  |
 | San Diego Legion       |         3 |  0.666667  |
 | London Scottish        |         3 |  1         |
 | Ealing Trailfinders    |         2 |  1         |
-| Cardiff Blues          |         2 |  1         |
 | Benetton Treviso       |         2 |  1         |
 | Utah Warriors          |         2 |  0         |
 | Ulster                 |         2 |  0.5       |

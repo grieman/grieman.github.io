@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pat Leafa  
-date: 2022-12-14 11:36:04.658706  
+date: 2022-12-18 16:36:17.016505  
 categories: player  
 ---
 # Pat Leafa
 
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: 46.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Vannes           |            96 |   0.614583 |
+| Vannes           |            97 |   0.618557 |
 | Melbourne Rebels |            51 |   0.352941 |
 | Melbourne Rising |            22 |   0.636364 |
 
@@ -36,10 +36,10 @@ categories: player
 | Soyaux-Angouleme           |         6 |   0.5      |
 | Queensland Reds            |         6 |   0.666667 |
 | Brumbies                   |         6 |   0.333333 |
+| Provence Rugby             |         6 |   0.666667 |
 | Aurillac                   |         6 |   0.833333 |
 | Carcassonne                |         6 |   0.666667 |
 | Montauban                  |         5 |   0.4      |
-| Provence Rugby             |         5 |   0.6      |
 | Oyonnax                    |         5 |   0.6      |
 | Colomiers                  |         5 |   0.6      |
 | Perth Spirit               |         4 |   0.25     |

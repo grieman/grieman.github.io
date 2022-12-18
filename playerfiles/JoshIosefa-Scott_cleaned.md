@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Josh Iosefa-Scott  
-date: 2022-12-14 11:29:08.197246  
+date: 2022-12-18 16:26:39.668221  
 categories: player  
 ---
 # Josh Iosefa-Scott
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 101.0
 
 ## Current Percentile: 69.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Waikato       |            22 |   0.477273 |
-| Exeter Chiefs |            17 |   0.470588 |
+| Exeter Chiefs |            18 |   0.5      |
 | Highlanders   |             3 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -43,15 +43,16 @@ categories: player
 | Tasman             |         1 |   0        |
 | Southland          |         1 |   1        |
 | Sharks             |         1 |   0        |
-| Newcastle Falcons  |         1 |   0        |
-| North Harbour      |         1 |   0        |
-| Bath Rugby         |         1 |   1        |
 | Melbourne Rebels   |         1 |   0        |
+| North Harbour      |         1 |   0        |
+| Newcastle Falcons  |         1 |   0        |
+| Bath Rugby         |         1 |   1        |
 | Manawatu           |         1 |   0        |
 | London Irish       |         1 |   0        |
 | Hurricanes         |         1 |   0        |
 | Harlequins         |         1 |   0        |
 | Castres Olympique  |         1 |   1        |
 | Canterbury         |         1 |   0        |
+| Bulls              |         1 |   1        |
 | Bay of Plenty      |         1 |   1        |
 | Worcester Warriors |         1 |   1        |

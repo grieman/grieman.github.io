@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George Tilsley  
-date: 2022-12-12 15:09:26.741042  
+date: 2022-12-18 16:30:00.336230  
 categories: player  
 ---
 # George Tilsley
 
 ## Positions: W, C
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Agen            |            66 |   0.416667 |
-| Perpignan       |            61 |   0.540984 |
+| Perpignan       |            62 |   0.532258 |
 | Bordeaux Begles |            15 |   0.466667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -44,19 +44,20 @@ categories: player
 | Montauban            |         5 |   0.8      |
 | Perpignan            |         4 |   0.625    |
 | Vannes               |         4 |   0.875    |
-| Grenoble             |         4 |   0.5      |
-| Colomiers            |         4 |   0.5      |
 | Carcassonne          |         4 |   0.75     |
-| Brive                |         4 |   0.5      |
 | Aurillac             |         4 |   0.75     |
+| Colomiers            |         4 |   0.5      |
+| Grenoble             |         4 |   0.5      |
+| Brive                |         4 |   0.5      |
 | Mont-de-Marsan       |         3 |   0.666667 |
 | Provence Rugby       |         3 |   0.666667 |
 | Rouen                |         3 |   0.666667 |
+| Beziers              |         2 |   0        |
 | Dax                  |         2 |   1        |
 | Narbonne             |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   1        |
-| Beziers              |         2 |   0        |
+| Bayonne              |         1 |   0        |
 | Albi                 |         1 |   0        |
 | Connacht             |         1 |   0        |
-| Bayonne              |         1 |   0        |
+| Glasgow Warriors     |         1 |   0        |
 | Agen                 |         1 |   0        |

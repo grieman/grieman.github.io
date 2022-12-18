@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: JT Jackson  
-date: 2022-12-14 11:15:10.643536  
+date: 2022-12-18 16:11:39.674604  
 categories: player  
 ---
 # JT Jackson
 
 ## Positions: C, FH
 
-## Current elo: 83.0
+## Current elo: 79.0
 
-## Current Percentile: 8.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rouen          |            18 |   0.333333 |
+| Rouen          |            19 |   0.315789 |
 | Southern Kings |             9 |   0.111111 |
 | Blue Bulls     |             6 |   0.5      |
 | Bulls          |             5 |   0.2      |
@@ -37,23 +37,24 @@ categories: player
 | Golden Lions        |         2 |        0   |
 | Grenoble            |         2 |        0.5 |
 | Carcassonne         |         2 |        0   |
-| Colomiers           |         1 |        0   |
-| Blues               |         1 |        0.5 |
+| Cardiff Blues       |         1 |        0   |
+| Biarritz Olympique  |         1 |        1   |
 | Ulster              |         1 |        0   |
 | Pumas               |         1 |        0   |
-| Biarritz Olympique  |         1 |        1   |
+| Beziers             |         1 |        0   |
 | Oyonnax             |         1 |        0   |
 | Ospreys             |         1 |        1   |
 | Nevers              |         1 |        0   |
 | Narbonne            |         1 |        0   |
 | Munster             |         1 |        0   |
 | Mont-de-Marsan      |         1 |        0   |
-| Connacht            |         1 |        0   |
-| Brumbies            |         1 |        0   |
+| Colomiers           |         1 |        0   |
+| Blues               |         1 |        0.5 |
 | Highlanders         |         1 |        0.5 |
-| Beziers             |         1 |        0   |
-| Cardiff Blues       |         1 |        0   |
+| Brumbies            |         1 |        0   |
+| Aurillac            |         1 |        0   |
 | Glasgow Warriors    |         1 |        0   |
 | Free State Cheetahs |         1 |        1   |
 | Edinburgh           |         1 |        0   |
+| Connacht            |         1 |        0   |
 | Vannes              |         1 |        1   |

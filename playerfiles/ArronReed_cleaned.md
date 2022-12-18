@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arron Reed  
-date: 2022-12-14 11:22:21.280070  
+date: 2022-12-18 16:23:03.640970  
 categories: player  
 ---
 # Arron Reed
 
 ## Positions: W
 
-## Current elo: 116.0
+## Current elo: 113.0
 
-## Current Percentile: 89.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            64 |      0.625 |
+| Sale Sharks |            65 |   0.615385 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -36,9 +36,9 @@ categories: player
 | Harlequins         |         4 |   0.75     |
 | Bristol Rugby      |         4 |   0.875    |
 | Connacht           |         3 |   0.666667 |
+| Stade Toulousain   |         3 |   0.166667 |
 | London Irish       |         3 |   0.833333 |
 | Perpignan          |         2 |   1        |
-| Stade Toulousain   |         2 |   0.25     |
 | La Rochelle        |         1 |   0        |
 | Bordeaux Begles    |         1 |   0        |
 | Lyon               |         1 |   0        |

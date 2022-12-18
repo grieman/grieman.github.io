@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Frans Malherbe  
-date: 2022-11-22 11:34:46.094628  
+date: 2022-12-18 16:32:29.877300  
 categories: player  
 ---
 # Frans Malherbe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 105.0
+## Current elo: 112.0
 
-## Current Percentile: 76.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |           112 |   0.598214 |
-| South Africa     |            56 |   0.669643 |
+| Stormers         |           113 |   0.60177  |
+| South Africa     |            57 |   0.675439 |
 | Western Province |            16 |   0.59375  |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -43,6 +43,7 @@ categories: player
 | Blues                    |         5 |   0.4      |
 | New South Wales Waratahs |         5 |   0.4      |
 | Melbourne Rebels         |         5 |   0.8      |
+| England                  |         5 |   0.6      |
 | Jaguares                 |         5 |   0.8      |
 | Highlanders              |         5 |   0.6      |
 | Sunwolves                |         4 |   0.625    |
@@ -50,28 +51,28 @@ categories: player
 | Ireland                  |         4 |   0.5      |
 | Crusaders                |         4 |   0        |
 | France                   |         4 |   0.75     |
-| England                  |         4 |   0.5      |
 | Queensland Reds          |         3 |   0.333333 |
 | Blue Bulls               |         3 |   0.333333 |
 | British and Irish Lions  |         3 |   0.666667 |
 | Scotland                 |         3 |   1        |
 | Golden Lions             |         3 |   0        |
 | Western Force            |         2 |   1        |
-| Italy                    |         2 |   1        |
 | Ulster                   |         2 |   1        |
 | Free State Cheetahs      |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Japan                    |         2 |   1        |
 | Leopards                 |         2 |   1        |
+| Scarlets                 |         1 |   1        |
 | Georgia                  |         1 |   1        |
 | United States of America |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Leinster                 |         1 |   1        |
-| Scarlets                 |         1 |   1        |
 | Ospreys                  |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
 | Glasgow Warriors         |         1 |   1        |
 | Natal Sharks             |         1 |   0        |
 | Eastern Province Kings   |         1 |   1        |
+| London Irish             |         1 |   1        |
 | Edinburgh                |         1 |   1        |
 | Samoa                    |         1 |   1        |

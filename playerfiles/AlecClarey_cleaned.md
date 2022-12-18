@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alec Clarey  
-date: 2022-12-14 11:31:23.038710  
+date: 2022-12-18 16:22:42.264955  
 categories: player  
 ---
 # Alec Clarey
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 99.0
 
 ## Current Percentile: 55.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Saracens      |            34 |   0.647059 |
+| Saracens      |            35 |   0.657143 |
 | Jersey        |            11 |   0.363636 |
 | Bristol Rugby |             1 |   0        |
 
@@ -46,6 +46,7 @@ categories: player
 | Leinster            |         1 |   1        |
 | London Irish        |         1 |   0.5      |
 | London Scottish     |         1 |   0        |
+| Lyon                |         1 |   1        |
 | Cornish Pirates     |         1 |   0        |
 | Racing 92           |         1 |   0        |
 | Brive               |         1 |   1        |

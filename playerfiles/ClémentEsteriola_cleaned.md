@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Esteriola  
-date: 2022-12-14 11:34:00.265356  
+date: 2022-12-18 16:24:18.625144  
 categories: player  
 ---
 # Clément Esteriola
 
 ## Positions: H
 
-## Current elo: 97.0
+## Current elo: 94.0
 
-## Current Percentile: 47.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |            48 |   0.385417 |
+| Beziers  |            49 |   0.397959 |
 | Narbonne |            16 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,9 +38,9 @@ categories: player
 | Oyonnax                    |         3 |   0.166667 |
 | Vannes                     |         3 |   0.333333 |
 | Carcassonne                |         3 |   0        |
+| Biarritz Olympique         |         3 |   0.666667 |
 | Dax                        |         2 |   0        |
 | Nevers                     |         2 |   0        |
-| Biarritz Olympique         |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
 | Beziers                    |         2 |   0.5      |
 | Bayonne                    |         2 |   0.5      |

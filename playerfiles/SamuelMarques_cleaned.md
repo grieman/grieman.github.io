@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel Marques  
-date: 2022-12-14 11:22:50.565781  
+date: 2022-12-18 16:27:00.562633  
 categories: player  
 ---
 # Samuel Marques
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 123.0
+## Current elo: 121.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Pau              |            93 |   0.532258 |
 | Albi             |            44 |   0.477273 |
 | Brive            |            43 |   0.476744 |
-| Carcassonne      |            32 |   0.546875 |
+| Carcassonne      |            33 |   0.530303 |
 | Stade Toulousain |            18 |   0.5      |
 | Portugal         |            15 |   0.466667 |
 
@@ -47,6 +47,7 @@ categories: player
 | Aurillac                 |         8 |   0.75     |
 | Tarbes                   |         8 |   0.3125   |
 | La Rochelle              |         7 |   0.142857 |
+| Mont-de-Marsan           |         7 |   0.285714 |
 | Provence Rugby           |         7 |   0.428571 |
 | Stade Toulousain         |         6 |   0.166667 |
 | Toulon                   |         6 |   0.166667 |
@@ -54,7 +55,6 @@ categories: player
 | Montpellier Herault      |         6 |   0.833333 |
 | Montauban                |         6 |   0.666667 |
 | Grenoble                 |         6 |   0.5      |
-| Mont-de-Marsan           |         6 |   0.333333 |
 | Massy                    |         5 |   0.8      |
 | Brive                    |         5 |   0        |
 | Auch                     |         5 |   0.7      |

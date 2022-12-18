@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Germain Burgaud  
-date: 2022-12-09 13:20:18.685464  
+date: 2022-12-18 16:29:44.552860  
 categories: player  
 ---
 # Germain Burgaud
 
 ## Positions: FL
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 29.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            18 |   0.444444 |
+| Soyaux-Angouleme |            19 |   0.421053 |
 | Chambery         |            11 |   0.272727 |
 
 | Opponent       |   Matches |   Win Rate |
@@ -37,8 +37,9 @@ categories: player
 | Rouen          |         1 |   0        |
 | Provence Rugby |         1 |   0        |
 | Oyonnax        |         1 |   0        |
-| Narbonne       |         1 |   1        |
+| Montauban      |         1 |   0        |
 | Nevers         |         1 |   0        |
+| Narbonne       |         1 |   1        |
 | Mont-de-Marsan |         1 |   0        |
 | Colomiers      |         1 |   0        |
 | Carcassonne    |         1 |   1        |

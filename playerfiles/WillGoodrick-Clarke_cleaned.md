@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Goodrick-Clarke  
-date: 2022-11-22 11:33:38.280549  
+date: 2022-12-18 16:35:05.803157  
 categories: player  
 ---
 # Will Goodrick-Clarke
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 101.0
 
-## Current Percentile: 69.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| London Irish     |            54 |   0.361111 |
+| London Irish     |            55 |   0.354545 |
 | Richmond         |            22 |   0.272727 |
 | Gloucester Rugby |             1 |   1        |
 
@@ -33,18 +33,18 @@ categories: player
 | Bristol Rugby       |         4 |   0.375    |
 | Wasps               |         4 |   0.375    |
 | Harlequins          |         4 |   0.375    |
-| Bath Rugby          |         4 |   0.5      |
 | Newcastle Falcons   |         4 |   0.75     |
+| Bath Rugby          |         4 |   0.5      |
 | Leicester Tigers    |         4 |   0        |
 | Worcester Warriors  |         3 |   0.333333 |
 | Bedford             |         3 |   0        |
 | Saracens            |         3 |   0.5      |
 | Northampton Saints  |         3 |   0        |
-| Hartpury College    |         2 |   0.5      |
+| Jersey              |         2 |   0        |
 | London Scottish     |         2 |   1        |
 | Nottingham          |         2 |   0.5      |
 | Yorkshire Carnegie  |         2 |   0        |
-| Jersey              |         2 |   0        |
+| Hartpury College    |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0.5      |
 | Doncaster           |         2 |   0        |
 | Coventry            |         2 |   0.5      |
@@ -52,5 +52,6 @@ categories: player
 | London Irish        |         1 |   0        |
 | London Welsh        |         1 |   1        |
 | Edinburgh           |         1 |   1        |
+| Stormers            |         1 |   0        |
 | Bayonne             |         1 |   0        |
 | Agen                |         1 |   1        |

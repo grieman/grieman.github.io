@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Leolin Zas  
-date: 2022-12-14 11:13:42.293468  
+date: 2022-12-18 16:23:53.103485  
 categories: player  
 ---
 # Leolin Zas
 
 ## Positions: W
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 80.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            32 |   0.734375 |
+| Stormers         |            33 |   0.742424 |
 | Western Province |            14 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -49,6 +49,7 @@ categories: player
 | Leinster                 |         1 |       1    |
 | Munster                  |         1 |       0    |
 | Melbourne Rebels         |         1 |       1    |
+| London Irish             |         1 |       1    |
 | Boland Cavaliers         |         1 |       1    |
 | Jaguares                 |         1 |       1    |
 | Glasgow Warriors         |         1 |       1    |

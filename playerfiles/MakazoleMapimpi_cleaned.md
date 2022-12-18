@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Makazole Mapimpi  
-date: 2022-12-14 11:15:04.037859  
+date: 2022-12-18 16:29:59.576827  
 categories: player  
 ---
 # Makazole Mapimpi
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 121.0
+## Current elo: 123.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| Sharks                          |            50 |   0.62     |
+| Sharks                          |            51 |   0.627451 |
 | South Africa                    |            36 |   0.625    |
 | Border Bulldogs                 |            16 |   0.375    |
 | Southern Kings                  |            14 |   0.428571 |
@@ -42,51 +42,52 @@ categories: player
 | Argentina                |         6 |   0.833333 |
 | Wales                    |         5 |   0.8      |
 | British and Irish Lions  |         3 |   0.666667 |
-| England                  |         3 |   0.666667 |
-| Valke                    |         3 |   0.333333 |
-| Sunwolves                |         3 |   1        |
 | SWD Eagles               |         3 |   0.333333 |
-| Melbourne Rebels         |         3 |   1        |
 | Brumbies                 |         3 |   0        |
-| Griquas                  |         3 |   0.333333 |
+| Valke                    |         3 |   0.333333 |
 | Leopards                 |         3 |   0        |
+| Sunwolves                |         3 |   1        |
+| Melbourne Rebels         |         3 |   1        |
+| Griquas                  |         3 |   0.333333 |
+| England                  |         3 |   0.666667 |
+| New South Wales Waratahs |         2 |   1        |
+| Ospreys                  |         2 |   1        |
+| Leinster                 |         2 |   1        |
+| Scarlets                 |         2 |   1        |
+| Japan                    |         2 |   1        |
+| Southern Kings           |         2 |   1        |
+| Benetton Treviso         |         2 |   0.5      |
+| Ulster                   |         2 |   0        |
+| Sharks                   |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
-| Ospreys                  |         2 |   1        |
-| Scarlets                 |         2 |   1        |
-| New South Wales Waratahs |         2 |   1        |
-| Glasgow Warriors         |         2 |   0.5      |
-| Sharks                   |         2 |   0.5      |
-| Crusaders                |         2 |   0.25     |
-| Southern Kings           |         2 |   1        |
-| Leinster                 |         2 |   1        |
-| Benetton Treviso         |         2 |   0.5      |
-| Japan                    |         2 |   1        |
-| Ulster                   |         2 |   0        |
+| Griffons                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
+| Edinburgh                |         2 |   0.5      |
 | Boland Cavaliers         |         2 |   0.5      |
 | Highlanders              |         2 |   1        |
-| Edinburgh                |         2 |   0.5      |
-| Griffons                 |         2 |   0.5      |
+| Glasgow Warriors         |         2 |   0.5      |
 | Connacht                 |         2 |   0.5      |
-| Queensland Reds          |         1 |   0        |
-| Cheetahs                 |         1 |   0        |
-| Shizuoka Blue Revs       |         1 |   0        |
+| Crusaders                |         2 |   0.25     |
 | Scotland                 |         1 |   1        |
+| Shizuoka Blue Revs       |         1 |   0        |
+| Ireland                  |         1 |   0        |
+| Dragons                  |         1 |   1        |
+| Cheetahs                 |         1 |   0        |
 | Western Force            |         1 |   0        |
 | Western Province         |         1 |   1        |
 | France                   |         1 |   0        |
 | Pumas                    |         1 |   1        |
+| Queensland Reds          |         1 |   0        |
+| Italy                    |         1 |   1        |
+| Golden Lions             |         1 |   1        |
 | Black Rams Tokyo         |         1 |   1        |
+| Namibia Welwitchias      |         1 |   1        |
 | Namibia                  |         1 |   1        |
 | Munster                  |         1 |   0        |
+| Harlequins               |         1 |   1        |
 | Blue Bulls               |         1 |   1        |
-| Dragons                  |         1 |   1        |
+| Hino Red Dolphins        |         1 |   1        |
 | Kobelco Kobe Steelers    |         1 |   0        |
 | Blues                    |         1 |   1        |
-| Italy                    |         1 |   1        |
-| Ireland                  |         1 |   0        |
-| Hino Red Dolphins        |         1 |   1        |
-| Harlequins               |         1 |   1        |
-| Golden Lions             |         1 |   1        |
-| Namibia Welwitchias      |         1 |   1        |
+| Bordeaux Begles          |         1 |   1        |

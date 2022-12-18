@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastian Cancelliere  
-date: 2022-12-12 15:07:37.897764  
+date: 2022-12-18 16:29:09.049175  
 categories: player  
 ---
 # Sebastian Cancelliere
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 114.0
+## Current elo: 113.0
 
-## Current Percentile: 89.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Hindu            |            30 |   0.766667 |
 | Jaguares         |            24 |   0.5      |
-| Glasgow Warriors |            14 |   0.714286 |
+| Glasgow Warriors |            15 |   0.733333 |
 | Argentina        |            13 |   0.230769 |
 | Jaguares XV      |             8 |   1        |
 
@@ -57,7 +57,7 @@ categories: player
 | Brumbies                 |         2 |   1        |
 | Cafeteros Pro            |         2 |   1        |
 | Cardiff Blues            |         2 |   0.5      |
-| Georgia                  |         1 |   1        |
+| Perpignan                |         1 |   1        |
 | Australia                |         1 |   0        |
 | Sunwolves                |         1 |   1        |
 | Blues                    |         1 |   1        |
@@ -68,6 +68,7 @@ categories: player
 | Connacht                 |         1 |   1        |
 | Portugal                 |         1 |   1        |
 | Highlanders              |         1 |   0        |
+| Georgia                  |         1 |   1        |
 | Ospreys                  |         1 |   0        |
 | Crusaders                |         1 |   0        |
 | Dragons                  |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Myles Edwards  
-date: 2022-12-14 11:16:20.854025  
+date: 2022-12-18 16:37:01.121950  
 categories: player  
 ---
 # Myles Edwards
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Vannes   |            27 |   0.407407 |
+| Vannes   |            28 |   0.428571 |
 | Oyonnax  |             8 |   0.25     |
 | Aurillac |             3 |   0        |
 
@@ -30,10 +30,10 @@ categories: player
 | Aurillac           |         4 |   0.25     |
 | Bayonne            |         3 |   0        |
 | Biarritz Olympique |         3 |   0.333333 |
+| Provence Rugby     |         3 |   0.666667 |
 | Oyonnax            |         3 |   0        |
 | Agen               |         2 |   0.5      |
 | Rouen              |         2 |   0        |
-| Provence Rugby     |         2 |   0.5      |
 | Nevers             |         2 |   0        |
 | Narbonne           |         2 |   0.75     |
 | Montauban          |         2 |   0.25     |

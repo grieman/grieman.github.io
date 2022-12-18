@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Leonard Paris  
-date: 2022-12-14 11:35:20.397778  
+date: 2022-12-18 16:16:26.101979  
 categories: player  
 ---
 # Leonard Paris
 
 ## Positions: C
 
-## Current elo: 109.0
+## Current elo: 112.0
 
-## Current Percentile: 86.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Nevers    |            22 |   0.409091 |
+| Nevers    |            23 |   0.434783 |
 | Racing 92 |            12 |   0.541667 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Agen              |         4 |   0.875    |
+| Agen              |         5 |   0.9      |
 | Beziers           |         3 |   0.666667 |
 | Colomiers         |         2 |   0        |
 | Pau               |         2 |   1        |

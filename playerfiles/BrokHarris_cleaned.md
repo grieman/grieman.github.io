@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Brok Harris  
-date: 2022-12-12 15:23:03.989094  
+date: 2022-12-18 16:29:36.048941  
 categories: player  
 ---
 # Brok Harris
 
 ## Positions: P
 
-## Current elo: 141.0
+## Current elo: 142.0
 
 ## Current Percentile: 100.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Dragons          |           138 |   0.365942 |
-| Stormers         |            97 |   0.695876 |
+| Stormers         |            98 |   0.69898  |
 | Western Province |            44 |   0.659091 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -66,16 +66,17 @@ categories: player
 | Dragons                  |         2 |  1         |
 | Northampton Saints       |         2 |  0         |
 | Pau                      |         2 |  1         |
-| Sale Sharks              |         2 |  0.5       |
 | Castres Olympique        |         2 |  1         |
+| Sale Sharks              |         2 |  0.5       |
 | Eastern Province Kings   |         1 |  1         |
 | Timisoara Saracens       |         1 |  1         |
 | Stade Francais Paris     |         1 |  1         |
-| Gloucester Rugby         |         1 |  1         |
+| Harlequins               |         1 |  0         |
 | Bristol Rugby            |         1 |  0         |
 | RC Enisei                |         1 |  1         |
-| London Welsh             |         1 |  1         |
-| Harlequins               |         1 |  0         |
+| Gloucester Rugby         |         1 |  1         |
+| London Irish             |         1 |  1         |
 | Brive                    |         1 |  1         |
 | Clermont Auvergne        |         1 |  0         |
+| London Welsh             |         1 |  1         |
 | Montpellier Herault      |         1 |  0         |

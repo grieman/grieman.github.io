@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Brookes  
-date: 2022-12-14 11:24:32.835044  
+date: 2022-12-18 16:38:33.572819  
 categories: player  
 ---
 # Kieran Brookes
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 88.0
+## Current elo: 89.0
 
 ## Current Percentile: 14.0
 
@@ -26,15 +26,15 @@ categories: player
 | Newcastle Falcons  |            79 |   0.303797 |
 | Northampton Saints |            71 |   0.485915 |
 | Wasps              |            52 |   0.471154 |
-| Toulon             |            25 |   0.5      |
+| Toulon             |            26 |   0.519231 |
 | England            |            10 |   0.8      |
 | Leicester Tigers   |            10 |   0.4      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Harlequins           |        21 |  0.5       |
+| Bath Rugby           |        19 |  0.394737  |
 | Saracens             |        18 |  0.0555556 |
-| Bath Rugby           |        18 |  0.361111  |
 | Exeter Chiefs        |        17 |  0.352941  |
 | Leicester Tigers     |        15 |  0.2       |
 | Sale Sharks          |        15 |  0.5       |

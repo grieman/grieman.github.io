@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Milhorat  
-date: 2022-11-22 11:28:15.880320  
+date: 2022-12-18 16:37:14.968009  
 categories: player  
 ---
 # Kevin Milhorat
 
 ## Positions: FB, W
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 20.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            42 |   0.321429 |
+| Rouen  |            43 |   0.313953 |
 | Massy  |             9 |   0.111111 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Carcassonne        |         6 |   0.333333 |
 | Oyonnax            |         5 |   0.4      |
+| Aurillac           |         5 |   0.2      |
 | Montauban          |         5 |   0.2      |
 | Mont-de-Marsan     |         4 |   0        |
 | Colomiers          |         4 |   0        |
-| Aurillac           |         4 |   0.25     |
 | Beziers            |         3 |   0.333333 |
 | Nevers             |         3 |   0.333333 |
 | Soyaux-Angouleme   |         2 |   0.5      |

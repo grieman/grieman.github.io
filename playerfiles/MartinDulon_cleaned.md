@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Martin Dulon  
-date: 2022-12-14 11:36:32.305722  
+date: 2022-12-18 16:13:00.138992  
 categories: player  
 ---
 # Martin Dulon
 
 ## Positions: W, C
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |            62 |   0.508065 |
+| Carcassonne |            63 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |         5 |   0.6      |
 | Grenoble                   |         5 |   0.4      |
+| Mont-de-Marsan             |         5 |   0.2      |
 | Aurillac                   |         5 |   0.6      |
 | Vannes                     |         4 |   0.375    |
 | Provence Rugby             |         4 |   0.25     |
 | Beziers                    |         4 |   0.75     |
-| Mont-de-Marsan             |         4 |   0.25     |
 | Montauban                  |         4 |   0.75     |
 | Nevers                     |         4 |   0.75     |
 | Rouen                      |         4 |   1        |

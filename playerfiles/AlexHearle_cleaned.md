@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Hearle  
-date: 2022-12-14 11:23:17.564162  
+date: 2022-12-18 16:32:07.799496  
 categories: player  
 ---
 # Alex Hearle
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 56.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            25 |       0.22 |
-| Gloucester Rugby   |             4 |       0.5  |
+| Gloucester Rugby   |             5 |       0.4  |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -39,4 +39,5 @@ categories: player
 | Bristol Rugby      |         1 |      1     |
 | Dragons            |         1 |      0     |
 | Leicester Tigers   |         1 |      0     |
+| Leinster           |         1 |      0     |
 | Pau                |         1 |      0     |

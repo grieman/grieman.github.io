@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oli Hoskins  
-date: 2022-12-14 11:15:00.089991  
+date: 2022-12-18 16:30:39.541567  
 categories: player  
 ---
 # Oli Hoskins
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| London Irish  |           115 |   0.408696 |
+| London Irish  |           116 |   0.405172 |
 | Western Force |            27 |   0.407407 |
 | Perth Spirit  |            11 |   0.272727 |
 | Australia     |             1 |   0        |
@@ -44,11 +44,11 @@ categories: player
 | Newcastle Falcons        |         5 |   0.4      |
 | Melbourne Rebels         |         4 |   0.5      |
 | Brumbies                 |         3 |   0        |
+| Stormers                 |         3 |   0        |
 | New South Wales Waratahs |         3 |   0.666667 |
 | Jersey                   |         3 |   0.333333 |
 | Brisbane City            |         3 |   0        |
 | Queensland Reds          |         3 |   0.666667 |
-| Stormers                 |         2 |   0        |
 | Greater Sydney Rams      |         2 |   0.5      |
 | Melbourne Rising         |         2 |   0.5      |
 | Krasny Yar               |         2 |   1        |

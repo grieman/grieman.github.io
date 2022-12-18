@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Digby  
-date: 2022-12-14 11:32:38.754169  
+date: 2022-12-18 16:25:30.086464  
 categories: player  
 ---
 # Jack Digby

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Marler  
-date: 2022-12-14 11:22:55.172979  
+date: 2022-12-18 16:19:24.664314  
 categories: player  
 ---
 # Joe Marler

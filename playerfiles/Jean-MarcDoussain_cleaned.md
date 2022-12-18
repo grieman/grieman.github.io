@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Marc Doussain  
-date: 2022-12-14 11:11:46.136935  
+date: 2022-12-18 16:36:11.259151  
 categories: player  
 ---
 # Jean-Marc Doussain
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 120.0
+## Current elo: 121.0
 
 ## Current Percentile: 95.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           196 |   0.609694 |
-| Lyon             |            91 |   0.549451 |
+| Lyon             |            92 |   0.543478 |
 | France           |            17 |   0.470588 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -45,7 +45,7 @@ categories: player
 | Biarritz Olympique   |         8 |   1        |
 | Grenoble             |         8 |   0.625    |
 | Stade Toulousain     |         7 |   0.642857 |
-| Saracens             |         6 |   0.333333 |
+| Saracens             |         7 |   0.285714 |
 | Perpignan            |         6 |   0.666667 |
 | Connacht             |         5 |   0.6      |
 | Glasgow Warriors     |         5 |   0.6      |

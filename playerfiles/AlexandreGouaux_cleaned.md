@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alexandre Gouaux  
-date: 2022-12-12 15:05:11.442582  
+date: 2022-12-18 16:36:00.117439  
 categories: player  
 ---
 # Alexandre Gouaux
 
 ## Positions: SH
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: 62.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |             8 |     0.5625 |
+| Vannes |             9 |   0.611111 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,4 +32,5 @@ categories: player
 | Montauban          |         1 |        0.5 |
 | Nevers             |         1 |        1   |
 | Oyonnax            |         1 |        0   |
+| Provence Rugby     |         1 |        1   |
 | Soyaux-Angouleme   |         1 |        0   |

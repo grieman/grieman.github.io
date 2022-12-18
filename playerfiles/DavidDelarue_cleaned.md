@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: David Delarue  
-date: 2022-12-14 11:20:26.670946  
+date: 2022-12-18 16:26:57.678493  
 categories: player  
 ---
 # David Delarue
 
 ## Positions: SH
 
-## Current elo: 84.0
+## Current elo: 87.0
 
-## Current Percentile: 6.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Brive    |            31 |   0.33871  |
-| Aurillac |            14 |   0.357143 |
+| Brive    |            31 |    0.33871 |
+| Aurillac |            15 |    0.4     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,6 +40,7 @@ categories: player
 | Beziers              |         2 |   1        |
 | Zebre                |         2 |   0        |
 | Bristol Rugby        |         2 |   0        |
+| Mont-de-Marsan       |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
 | Vannes               |         1 |   1        |
@@ -47,7 +48,7 @@ categories: player
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
-| Mont-de-Marsan       |         1 |   0        |
+| Rouen                |         1 |   1        |
 | Montauban            |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |
 | Grenoble             |         1 |   0        |

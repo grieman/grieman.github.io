@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Chandler Cunningham-South  
-date: 2022-12-14 11:22:41.361214  
+date: 2022-12-18 16:14:43.502173  
 categories: player  
 ---
 # Chandler Cunningham-South
 
 ## Positions: N8
 
-## Current elo: 95.0
+## Current elo: 93.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |             9 |   0.222222 |
+| London Irish |            10 |        0.2 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Newcastle Falcons   |         1 |        1   |
 | Northampton Saints  |         1 |        0   |
 | Sale Sharks         |         1 |        0   |
+| Stormers            |         1 |        0   |

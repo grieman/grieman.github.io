@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Vunipola  
-date: 2022-12-14 11:20:44.810973  
+date: 2022-12-18 16:14:38.816128  
 categories: player  
 ---
 # Billy Vunipola
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 127.0
+## Current elo: 126.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           155 |   0.825806 |
+| Saracens |           156 |   0.826923 |
 | England  |            60 |   0.65     |
 | Wasps    |            39 |   0.410256 |
 
@@ -62,12 +62,12 @@ categories: player
 | Ospreys                  |         2 |   0.25     |
 | Toulon                   |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
+| Connacht                 |         2 |   1        |
 | Fiji                     |         2 |   1        |
 | Edinburgh                |         2 |   0.5      |
 | Dragons                  |         2 |   1        |
-| Connacht                 |         2 |   1        |
+| Lyon                     |         2 |   1        |
 | Mogliano                 |         1 |   1        |
-| Tonga                    |         1 |   1        |
 | Yorkshire Carnegie       |         1 |   1        |
 | Bayonne                  |         1 |   1        |
 | Bedford                  |         1 |   1        |
@@ -75,8 +75,8 @@ categories: player
 | United States of America |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
 | Doncaster                |         1 |   1        |
+| Tonga                    |         1 |   1        |
 | Coventry                 |         1 |   1        |
-| Lyon                     |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Ealing Trailfinders      |         1 |   1        |
 | Oyonnax                  |         1 |   1        |

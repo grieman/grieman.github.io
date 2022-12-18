@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Etrillard  
-date: 2022-12-14 11:34:10.087915  
+date: 2022-12-18 16:31:14.919097  
 categories: player  
 ---
 # Anthony Etrillard
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 103.0
+## Current elo: 104.0
 
 ## Current Percentile: 77.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Toulon  |           163 |   0.582822 |
+| Toulon  |           164 |   0.585366 |
 | Bayonne |            30 |   0.416667 |
 | France  |             3 |   0.333333 |
 
@@ -44,8 +44,8 @@ categories: player
 | Bayonne              |         6 |   0.666667 |
 | Agen                 |         6 |   0.666667 |
 | Scarlets             |         5 |   0.8      |
+| Bath Rugby           |         4 |   0.75     |
 | Perpignan            |         4 |   0.75     |
-| Bath Rugby           |         3 |   0.666667 |
 | Australia            |         3 |   0.333333 |
 | Oyonnax              |         3 |   0.333333 |
 | Newcastle Falcons    |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keita Inagaki  
-date: 2022-11-22 11:43:04.518811  
+date: 2022-12-18 16:27:04.546889  
 categories: player  
 ---
 # Keita Inagaki
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 116.0
+## Current elo: 114.0
 
-## Current Percentile: 92.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            42 |  0.892857  |
+| Saitama Wild Knights |            43 |  0.895349  |
 | Japan                |            36 |  0.402778  |
 | Sunwolves            |            24 |  0.0416667 |
 | Melbourne Rebels     |             1 |  0         |
@@ -32,8 +32,8 @@ categories: player
 |:----------------------------------|----------:|-----------:|
 | Yokohama Canon Eagles             |         5 |   0.8      |
 | Ireland                           |         5 |   0.2      |
+| Toshiba Brave Lupus Tokyo         |         5 |   1        |
 | Black Rams Tokyo                  |         5 |   0.8      |
-| Toshiba Brave Lupus Tokyo         |         4 |   1        |
 | Shizuoka Blue Revs                |         4 |   0.75     |
 | Scotland                          |         4 |   0.25     |
 | France                            |         4 |   0.125    |

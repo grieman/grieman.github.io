@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Castant  
-date: 2022-12-14 11:33:19.036649  
+date: 2022-12-18 16:19:40.555147  
 categories: player  
 ---
 # Arthur Castant

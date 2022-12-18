@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Peyo Muscarditz  
-date: 2022-12-14 11:21:41.143124  
+date: 2022-12-18 16:14:41.276612  
 categories: player  
 ---
 # Peyo Muscarditz
 
 ## Positions: C
 
-## Current elo: 115.0
+## Current elo: 110.0
 
-## Current Percentile: 95.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |            90 |   0.511111 |
+| Bayonne |            91 |   0.505495 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,29 +34,30 @@ categories: player
 | Narbonne             |         4 |   0.75     |
 | Montpellier Herault  |         4 |   0.5      |
 | Vannes               |         4 |   0.75     |
+| Beziers              |         3 |   0.333333 |
+| US Bressane          |         3 |   1        |
+| Provence Rugby       |         3 |   0.666667 |
+| La Rochelle          |         3 |   0.333333 |
+| Biarritz Olympique   |         3 |   0        |
 | Colomiers            |         3 |   0.666667 |
 | Carcassonne          |         3 |   0.666667 |
-| Provence Rugby       |         3 |   0.666667 |
-| Biarritz Olympique   |         3 |   0        |
-| Beziers              |         3 |   0.333333 |
-| La Rochelle          |         3 |   0.333333 |
-| US Bressane          |         3 |   1        |
-| Toulon               |         2 |   0.5      |
-| London Irish         |         2 |   0.5      |
-| Lyon                 |         2 |   0        |
-| Aurillac             |         2 |   1        |
 | Montauban            |         2 |   1        |
-| Castres Olympique    |         2 |   0        |
-| Grenoble             |         2 |   0        |
-| Oyonnax              |         2 |   0.5      |
-| Pau                  |         2 |   0        |
 | Scarlets             |         2 |   0        |
+| Pau                  |         2 |   0        |
+| Oyonnax              |         2 |   0.5      |
+| Castres Olympique    |         2 |   0        |
+| Aurillac             |         2 |   1        |
+| Lyon                 |         2 |   0        |
+| London Irish         |         2 |   0.5      |
+| Grenoble             |         2 |   0        |
+| Toulon               |         2 |   0.5      |
 | Racing 92            |         2 |   1        |
 | Rouen                |         1 |   1        |
+| Benetton Treviso     |         1 |   0        |
 | Bordeaux Begles      |         1 |   0        |
 | Perpignan            |         1 |   0        |
-| Dax                  |         1 |   0.5      |
 | Mont-de-Marsan       |         1 |   0.5      |
 | Leicester Tigers     |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
+| Dax                  |         1 |   0.5      |
 | Massy                |         1 |   1        |

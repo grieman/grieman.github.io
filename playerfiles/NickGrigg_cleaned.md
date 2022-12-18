@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Grigg  
-date: 2022-12-14 11:11:33.662135  
+date: 2022-12-18 16:17:50.396083  
 categories: player  
 ---
 # Nick Grigg
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 46.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
 | Glasgow Warriors                |            88 |   0.539773 |
-| Carcassonne                     |             9 |   0.444444 |
+| Carcassonne                     |            10 |   0.4      |
 | Scotland                        |             9 |   0.388889 |
 | Hawke's Bay                     |             8 |   0.4375   |
 | NTT Docomo Red Hurricanes Osaka |             4 |   0.25     |
@@ -49,8 +49,8 @@ categories: player
 | England                           |         2 |   0.75     |
 | Leicester Tigers                  |         2 |   1        |
 | Cheetahs                          |         2 |   1        |
-| Sale Sharks                       |         1 |   1        |
 | Oyonnax                           |         1 |   0        |
+| Sale Sharks                       |         1 |   1        |
 | Rouen                             |         1 |   1        |
 | Provence Rugby                    |         1 |   0        |
 | Toyota Verblitz                   |         1 |   0        |
@@ -64,7 +64,7 @@ categories: player
 | Otago                             |         1 |   0        |
 | Agen                              |         1 |   1        |
 | North Harbour                     |         1 |   1        |
-| Nevers                            |         1 |   1        |
+| Grenoble                          |         1 |   0        |
 | Aurillac                          |         1 |   1        |
 | Bay of Plenty                     |         1 |   0        |
 | Canterbury                        |         1 |   0        |
@@ -72,12 +72,13 @@ categories: player
 | Fiji                              |         1 |   0        |
 | France                            |         1 |   0        |
 | Green Rockets Tokatsu             |         1 |   1        |
-| Grenoble                          |         1 |   0        |
 | Ireland                           |         1 |   0        |
+| Nevers                            |         1 |   1        |
 | Italy                             |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | Lions                             |         1 |   1        |
 | Argentina                         |         1 |   1        |
 | Massy                             |         1 |   0        |
+| Mont-de-Marsan                    |         1 |   0        |
 | Montpellier Herault               |         1 |   0        |
 | Lyon                              |         1 |   1        |

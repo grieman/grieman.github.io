@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonny Gray  
-date: 2022-12-14 11:27:04.006219  
+date: 2022-12-18 16:36:26.829138  
 categories: player  
 ---
 # Jonny Gray
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           110 |   0.618182 |
 | Scotland         |            67 |   0.470149 |
-| Exeter Chiefs    |            32 |   0.71875  |
+| Exeter Chiefs    |            33 |   0.727273 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,8 +39,8 @@ categories: player
 | Scarlets                 |         7 |   0.714286 |
 | Saracens                 |         7 |   0.142857 |
 | Argentina                |         7 |   0.714286 |
-| Cardiff Blues            |         7 |   0.857143 |
 | Connacht                 |         7 |   0.714286 |
+| Cardiff Blues            |         7 |   0.857143 |
 | France                   |         6 |   0.333333 |
 | Leicester Tigers         |         5 |   0.8      |
 | Bath Rugby               |         5 |   0.8      |
@@ -52,27 +52,28 @@ categories: player
 | Montpellier Herault      |         4 |   0.5      |
 | Australia                |         4 |   0.5      |
 | Zebre                    |         4 |   1        |
-| Japan                    |         4 |   0.75     |
-| Exeter Chiefs            |         4 |   0.625    |
 | Harlequins               |         4 |   0.5      |
+| Exeter Chiefs            |         4 |   0.625    |
+| Japan                    |         4 |   0.75     |
 | New Zealand              |         3 |   0        |
 | Stade Toulousain         |         3 |   0.333333 |
 | Worcester Warriors       |         3 |   1        |
+| Gloucester Rugby         |         3 |   0.666667 |
 | Northampton Saints       |         3 |   0.333333 |
 | Ospreys                  |         3 |   0.666667 |
 | Sale Sharks              |         3 |   1        |
 | Samoa                    |         3 |   1        |
-| Gloucester Rugby         |         3 |   0.666667 |
 | Fiji                     |         3 |   0.666667 |
 | Wasps                    |         2 |   1        |
+| Cheetahs                 |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | South Africa             |         2 |   0        |
-| Cheetahs                 |         2 |   1        |
-| Lyon                     |         2 |   1        |
 | Georgia                  |         2 |   1        |
+| Lyon                     |         2 |   1        |
 | Southern Kings           |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Toulon                   |         1 |   0        |
-| London Irish             |         1 |   0        |
 | United States of America |         1 |   1        |
 | Castres Olympique        |         1 |   1        |
+| London Irish             |         1 |   0        |
+| Bulls                    |         1 |   1        |

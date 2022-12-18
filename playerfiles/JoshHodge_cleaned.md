@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Josh Hodge  
-date: 2022-12-14 11:12:19.794283  
+date: 2022-12-18 16:20:32.942004  
 categories: player  
 ---
 # Josh Hodge
 
 ## Positions: FB, W
 
-## Current elo: 86.0
+## Current elo: 87.0
 
 ## Current Percentile: 16.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Exeter Chiefs     |            28 |   0.392857 |
+| Exeter Chiefs     |            29 |   0.413793 |
 | Newcastle Falcons |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -35,6 +35,7 @@ categories: player
 | Saracens           |         2 |   0        |
 | Wasps              |         2 |   0        |
 | Bath Rugby         |         1 |   1        |
+| Bulls              |         1 |   1        |
 | Castres Olympique  |         1 |   1        |
 | Sale Sharks        |         1 |   0        |
 | Worcester Warriors |         1 |   0        |

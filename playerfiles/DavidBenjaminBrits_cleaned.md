@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: David Benjamin Brits  
-date: 2022-12-14 11:17:45.670224  
+date: 2022-12-18 16:18:17.347673  
 categories: player  
 ---
 # David Benjamin Brits
 
 ## Positions: C
 
-## Current elo: 111.0
+## Current elo: 106.0
 
-## Current Percentile: 83.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Free State Cheetahs |            16 |    0.65625 |
-| Cheetahs            |             1 |    1       |
+| Cheetahs            |             2 |    0.5     |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Blue Bulls       |         2 |   1        |
 | Golden Lions     |         2 |   0.75     |
 | Pau              |         1 |   1        |
+| Scarlets         |         1 |   0        |

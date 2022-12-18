@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ultan Dillane  
-date: 2022-12-12 14:50:33.469983  
+date: 2022-12-18 16:23:57.343994  
 categories: player  
 ---
 # Ultan Dillane
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 80.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -25,12 +25,12 @@ categories: player
 |:------------|--------------:|-----------:|
 | Connacht    |           115 |   0.517391 |
 | Ireland     |            19 |   0.684211 |
-| La Rochelle |            11 |   0.545455 |
+| La Rochelle |            12 |   0.583333 |
 | Barbarians  |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Ulster               |        15 |   0.4      |
+| Ulster               |        16 |   0.4375   |
 | Munster              |        11 |   0.454545 |
 | Leinster             |        10 |   0.3      |
 | Glasgow Warriors     |         9 |   0.222222 |

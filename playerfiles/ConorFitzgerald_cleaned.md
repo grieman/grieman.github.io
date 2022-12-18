@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Conor Fitzgerald  
-date: 2022-12-14 11:15:13.508803  
+date: 2022-12-18 16:27:18.183852  
 categories: player  
 ---
 # Conor Fitzgerald
 
-## Positions: FH
+## Positions: FH, FB
 
-## Current elo: 84.0
+## Current elo: 87.0
 
 ## Current Percentile: 12.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |            54 |        0.5 |
+| Connacht |            55 |   0.509091 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,18 +33,19 @@ categories: player
 | Cardiff Blues       |         4 |   0.25     |
 | Edinburgh           |         3 |   0.333333 |
 | Scarlets            |         3 |   0.333333 |
-| Cheetahs            |         2 |   1        |
 | Stormers            |         2 |   0.5      |
 | Southern Kings      |         2 |   1        |
-| Glasgow Warriors    |         2 |   0.5      |
 | Perpignan           |         2 |   1        |
-| Montpellier Herault |         2 |   0.5      |
-| Gloucester Rugby    |         2 |   0.5      |
 | Zebre               |         2 |   1        |
-| Newcastle Falcons   |         1 |   1        |
+| Montpellier Herault |         2 |   0.5      |
+| Cheetahs            |         2 |   1        |
+| Gloucester Rugby    |         2 |   0.5      |
+| Glasgow Warriors    |         2 |   0.5      |
 | Bordeaux Begles     |         1 |   1        |
+| Newcastle Falcons   |         1 |   1        |
+| Lions               |         1 |   1        |
 | Sale Sharks         |         1 |   0        |
 | Sharks              |         1 |   0        |
-| Lions               |         1 |   1        |
 | Stade Toulousain    |         1 |   0        |
+| Brive               |         1 |   1        |
 | Dragons             |         1 |   0        |

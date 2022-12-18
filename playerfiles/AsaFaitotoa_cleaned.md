@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Asa Faitotoa  
-date: 2022-12-12 15:18:46.886211  
+date: 2022-12-18 16:38:17.547131  
 categories: player  
 ---
 # Asa Faitotoa
 
 ## Positions: P
 
-## Current elo: 112.0
+## Current elo: 113.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Dax                |            70 |   0.464286 |
+| Dax                |            71 |   0.471831 |
 | Montauban          |             4 |   0.25     |
 | NSW Country Eagles |             1 |   1        |
 
@@ -36,10 +36,10 @@ categories: player
 | Chambery                   |         4 |  1         |
 | Dijon                      |         4 |  0.75      |
 | Valence Romans Drome Rugby |         3 |  0.666667  |
+| US Bressane                |         3 |  0.666667  |
 | Suresnes                   |         3 |  0.666667  |
 | Oyonnax                    |         3 |  0.333333  |
 | Montauban                  |         3 |  0.333333  |
-| US Bressane                |         2 |  0.5       |
 | Nice                       |         2 |  1         |
 | Narbonne                   |         2 |  0.5       |
 | Vannes                     |         2 |  0.5       |

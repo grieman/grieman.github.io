@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian Willemse  
-date: 2022-12-14 11:27:02.807764  
+date: 2022-12-18 16:20:12.465452  
 categories: player  
 ---
 # Damian Willemse
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 122.0
+## Current elo: 124.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            54 |   0.648148 |
+| Stormers         |            55 |   0.654545 |
 | South Africa     |            28 |   0.571429 |
 | Western Province |            14 |   0.642857 |
 | Saracens         |             1 |   0        |
@@ -53,7 +53,7 @@ categories: player
 | Zebre                    |         2 |   1        |
 | England                  |         2 |   0.5      |
 | Chiefs                   |         2 |   0        |
-| Ospreys                  |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
 | Brumbies                 |         1 |   0        |
 | Canada                   |         1 |   1        |
 | Sunwolves                |         1 |   1        |
@@ -62,15 +62,16 @@ categories: player
 | Scarlets                 |         1 |   1        |
 | Racing 92                |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
+| Ospreys                  |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
 | Georgia                  |         1 |   1        |
-| New South Wales Waratahs |         1 |   0        |
 | Natal Sharks             |         1 |   0        |
 | Connacht                 |         1 |   0        |
+| London Irish             |         1 |   1        |
 | Crusaders                |         1 |   0.5      |
 | Leinster                 |         1 |   1        |
 | Edinburgh                |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Ireland                  |         1 |   0        |
 | France                   |         1 |   0        |
-| Clermont Auvergne        |         1 |   0        |
+| New South Wales Waratahs |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Bhatti  
-date: 2022-12-14 11:20:31.613368  
+date: 2022-12-18 16:33:35.851949  
 categories: player  
 ---
 # Jamie Bhatti
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 84.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            69 |   0.536232 |
+| Glasgow Warriors |            70 |   0.542857 |
 | Scotland         |            24 |   0.625    |
 | Edinburgh        |            14 |   0.678571 |
 | Bath Rugby       |             9 |   0.333333 |
@@ -46,26 +46,27 @@ categories: player
 | Italy                    |         3 |   1        |
 | Australia                |         3 |   0.666667 |
 | Sale Sharks              |         2 |   0.5      |
-| Bristol Rugby            |         2 |   0        |
 | Wasps                    |         2 |   1        |
 | France                   |         2 |   0.5      |
 | Glasgow Warriors         |         2 |   0.5      |
-| Sharks                   |         2 |   0.5      |
 | Harlequins               |         2 |   0        |
 | Cheetahs                 |         2 |   1        |
+| Sharks                   |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
 | Southern Kings           |         2 |   0.5      |
 | Lyon                     |         2 |   1        |
 | Montpellier Herault      |         2 |   0        |
-| Bath Rugby               |         1 |   1        |
+| Bristol Rugby            |         2 |   0        |
 | South Africa             |         1 |   0        |
-| Dragons                  |         1 |   1        |
 | Saracens                 |         1 |   0        |
+| Bath Rugby               |         1 |   1        |
+| Dragons                  |         1 |   1        |
+| Samoa                    |         1 |   1        |
 | United States of America |         1 |   0        |
 | Wales                    |         1 |   0        |
 | Stormers                 |         1 |   0        |
 | New Zealand              |         1 |   0        |
-| Samoa                    |         1 |   1        |
+| Perpignan                |         1 |   1        |
 | Bordeaux Begles          |         1 |   0.5      |
 | Northampton Saints       |         1 |   1        |
 | England                  |         1 |   1        |

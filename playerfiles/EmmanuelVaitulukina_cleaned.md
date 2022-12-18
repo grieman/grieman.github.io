@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emmanuel Vaitulukina  
-date: 2022-12-14 11:22:06.791701  
+date: 2022-12-18 16:20:40.390506  
 categories: player  
 ---
 # Emmanuel Vaitulukina

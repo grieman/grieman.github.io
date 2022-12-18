@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Leitch  
-date: 2022-11-22 11:35:23.628161  
+date: 2022-12-18 16:17:33.562577  
 categories: player  
 ---
 # Michael Leitch
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 118.0
+## Current elo: 119.0
 
-## Current Percentile: 91.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,17 +24,17 @@ categories: player
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
 | Japan                     |            52 |   0.538462 |
-| Toshiba Brave Lupus Tokyo |            47 |   0.702128 |
+| Toshiba Brave Lupus Tokyo |            48 |   0.6875   |
 | Chiefs                    |            34 |   0.647059 |
 | Sunwolves                 |             8 |   0.25     |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Hurricanes                        |         5 |   0.4      |
+| Saitama Wild Knights              |         5 |   0.4      |
 | France                            |         5 |   0.1      |
 | Ireland                           |         4 |   0.25     |
 | Queensland Reds                   |         4 |   0.75     |
-| Saitama Wild Knights              |         4 |   0.5      |
 | Stormers                          |         4 |   0.75     |
 | Kobelco Kobe Steelers             |         4 |   0.5      |
 | Shizuoka Blue Revs                |         4 |   0.5      |

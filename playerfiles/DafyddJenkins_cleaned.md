@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dafydd Jenkins  
-date: 2022-12-14 11:35:55.400096  
+date: 2022-12-18 16:11:37.607976  
 categories: player  
 ---
 # Dafydd Jenkins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 70.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            14 |        0.5 |
-| Wales         |             1 |        0   |
+| Exeter Chiefs |            15 |   0.533333 |
+| Wales         |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Newcastle Falcons  |         2 |        0.5 |
 | Northampton Saints |         2 |        0.5 |
 | Bristol Rugby      |         1 |        0   |
+| Bulls              |         1 |        1   |
 | Castres Olympique  |         1 |        1   |
 | Georgia            |         1 |        0   |
 | Gloucester Rugby   |         1 |        1   |

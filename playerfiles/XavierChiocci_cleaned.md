@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Xavier Chiocci  
-date: 2022-12-14 11:26:08.784905  
+date: 2022-12-18 16:39:35.642373  
 categories: player  
 ---
 # Xavier Chiocci
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Toulon    |           149 |   0.607383 |
 | Lyon      |            48 |   0.572917 |
-| Perpignan |            21 |   0.428571 |
+| Perpignan |            22 |   0.409091 |
 | France    |             7 |   0.142857 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -49,26 +49,26 @@ categories: player
 | Leinster             |         5 |   0.8      |
 | Scarlets             |         5 |   0.6      |
 | Benetton Treviso     |         4 |   0.75     |
-| Wasps                |         3 |   0.666667 |
+| Glasgow Warriors     |         3 |   0.666667 |
+| Biarritz Olympique   |         3 |   1        |
 | Bath Rugby           |         3 |   1        |
 | Saracens             |         3 |   0.333333 |
-| Biarritz Olympique   |         3 |   1        |
-| Cardiff Blues        |         2 |   0.5      |
-| Sale Sharks          |         2 |   1        |
-| Exeter Chiefs        |         2 |   1        |
-| Glasgow Warriors     |         2 |   1        |
-| Newcastle Falcons    |         2 |   0        |
-| Munster              |         2 |   0.5      |
+| Wasps                |         3 |   0.666667 |
 | Edinburgh            |         2 |   0        |
+| Munster              |         2 |   0.5      |
 | England              |         2 |   0        |
+| Newcastle Falcons    |         2 |   0        |
+| Sale Sharks          |         2 |   1        |
 | Perpignan            |         2 |   1        |
-| Northampton Saints   |         1 |   0        |
-| Bristol Rugby        |         1 |   0        |
+| Exeter Chiefs        |         2 |   1        |
+| Cardiff Blues        |         2 |   0.5      |
 | Petrarca Padova      |         1 |   1        |
-| New Zealand          |         1 |   0        |
+| Bristol Rugby        |         1 |   0        |
 | Argentina            |         1 |   0        |
 | Scotland             |         1 |   1        |
 | South Africa         |         1 |   0        |
 | Leicester Tigers     |         1 |   0        |
+| Northampton Saints   |         1 |   0        |
 | Australia            |         1 |   0        |
 | Ulster               |         1 |   1        |
+| New Zealand          |         1 |   0        |

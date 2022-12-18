@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Léo Coly  
-date: 2022-12-14 11:23:37.286100  
+date: 2022-12-18 16:28:47.153152  
 categories: player  
 ---
 # Léo Coly
 
 ## Positions: SH
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Mont-de-Marsan      |            34 |   0.705882 |
-| Montpellier Herault |             9 |   0.555556 |
+| Montpellier Herault |            10 |   0.5      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -40,6 +40,7 @@ categories: player
 | Lyon             |         1 |   0        |
 | Aurillac         |         1 |   1        |
 | London Irish     |         1 |   1        |
+| Ospreys          |         1 |   0        |
 | La Rochelle      |         1 |   0        |
 | Pau              |         1 |   1        |
 | Perpignan        |         1 |   1        |

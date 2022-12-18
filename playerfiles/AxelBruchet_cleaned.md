@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Axel Bruchet  
-date: 2022-12-14 11:31:47.064448  
+date: 2022-12-18 16:29:24.419007  
 categories: player  
 ---
 # Axel Bruchet

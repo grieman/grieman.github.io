@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nizaam Carr  
-date: 2022-12-14 11:33:28.575794  
+date: 2022-12-18 16:36:21.909164  
 categories: player  
 ---
 # Nizaam Carr
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Stormers         |            98 |   0.55102  |
 | Wasps            |            69 |   0.398551 |
 | Western Province |            42 |   0.785714 |
-| Bulls            |             3 |   1        |
+| Bulls            |             4 |   0.75     |
 | South Africa     |             3 |   0        |
 | Blue Bulls       |             1 |   1        |
 
@@ -60,12 +60,12 @@ categories: player
 | Worcester Warriors       |         4 |   0.75     |
 | Jaguares                 |         4 |   0.75     |
 | Highlanders              |         4 |   0.25     |
+| Exeter Chiefs            |         4 |   0.25     |
 | Bristol Rugby            |         4 |   0.5      |
 | Western Force            |         3 |   1        |
 | Hurricanes               |         3 |   0.666667 |
 | Southern Kings           |         3 |   1        |
 | Natal Sharks             |         3 |   0.666667 |
-| Exeter Chiefs            |         3 |   0.333333 |
 | Newcastle Falcons        |         3 |   0.666667 |
 | Eastern Province Kings   |         3 |   1        |
 | Leinster                 |         2 |   0        |

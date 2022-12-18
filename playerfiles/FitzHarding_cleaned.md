@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fitz Harding  
-date: 2022-12-14 11:17:12.274277  
+date: 2022-12-18 16:15:42.303970  
 categories: player  
 ---
 # Fitz Harding
 
 ## Positions: N8, FL
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 70.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |            37 |   0.486486 |
+| Bristol Rugby |            38 |        0.5 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,3 +39,4 @@ categories: player
 | Perpignan            |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Stade Francais Paris |         1 |   1        |
+| Zebre                |         1 |   1        |

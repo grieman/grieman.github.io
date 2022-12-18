@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arnaud Feltrin  
-date: 2022-12-12 15:37:46.771201  
+date: 2022-12-18 16:15:10.678752  
 categories: player  
 ---
 # Arnaud Feltrin
 
 ## Positions: H
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,28 +21,29 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Albi      |            16 |      0.625 |
-| Montauban |            16 |      0.375 |
+| Montauban |            17 |   0.411765 |
+| Albi      |            16 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | US Bressane                |         4 |   0.625    |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
-| Nevers                     |         2 |   0.5      |
 | Suresnes                   |         2 |   0.5      |
 | Carcassonne                |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Dax                        |         2 |   1        |
 | Grenoble                   |         2 |   0        |
+| Nevers                     |         2 |   0.5      |
 | Agen                       |         1 |   1        |
+| Nice                       |         1 |   1        |
+| Soyaux-Angouleme           |         1 |   1        |
 | Rouen                      |         1 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Perpignan                  |         1 |   0        |
-| Nice                       |         1 |   1        |
-| Massy                      |         1 |   1        |
-| Narbonne                   |         1 |   1        |
 | Mont-de-Marsan             |         1 |   1        |
+| Narbonne                   |         1 |   1        |
 | Aubenas                    |         1 |   1        |
+| Massy                      |         1 |   1        |
 | Blagnac                    |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
 | Beziers                    |         1 |   0        |

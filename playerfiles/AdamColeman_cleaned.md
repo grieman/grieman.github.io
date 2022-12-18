@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Coleman  
-date: 2022-12-14 11:18:32.998816  
+date: 2022-12-18 16:28:52.754552  
 categories: player  
 ---
 # Adam Coleman
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 121.0
+## Current elo: 120.0
 
 ## Current Percentile: 96.0
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Western Force            |            46 |   0.369565 |
 | Australia                |            38 |   0.526316 |
-| London Irish             |            31 |   0.435484 |
+| London Irish             |            32 |   0.421875 |
 | Melbourne Rebels         |            22 |   0.5      |
 | New South Wales Waratahs |             1 |   1        |
 
@@ -36,12 +36,12 @@ categories: player
 | New Zealand              |         8 |   0.25     |
 | Melbourne Rebels         |         6 |   0.333333 |
 | Argentina                |         6 |   0.833333 |
+| Stormers                 |         5 |   0        |
 | South Africa             |         5 |   0.4      |
 | Brumbies                 |         5 |   0.4      |
 | Sunwolves                |         5 |   1        |
 | Highlanders              |         5 |   0.4      |
 | Bulls                    |         4 |   0.25     |
-| Stormers                 |         4 |   0        |
 | Crusaders                |         4 |   0        |
 | Gloucester Rugby         |         4 |   0.5      |
 | Wales                    |         4 |   0.5      |

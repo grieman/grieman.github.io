@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2022-12-14 11:27:38.101802  
+date: 2022-12-18 16:32:49.356051  
 categories: player  
 ---
 # D'arcy Rae
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 80.0
+## Current elo: 78.0
 
-## Current Percentile: 86.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            84 |   0.559524 |
-| Bath Rugby       |            28 |   0.267857 |
+| Bath Rugby       |            29 |   0.258621 |
 | Benetton Treviso |             4 |   0.5      |
 | Scotland         |             1 |   0        |
 
@@ -55,6 +55,7 @@ categories: player
 | Southern Kings     |         2 |   0.5      |
 | Worcester Warriors |         1 |   1        |
 | Glasgow Warriors   |         1 |   0        |
+| Toulon             |         1 |   0        |
 | Lyon               |         1 |   1        |
 | Ireland            |         1 |   0        |
 | London Irish       |         1 |   0        |

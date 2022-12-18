@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhodri Jones  
-date: 2022-12-14 11:16:24.453565  
+date: 2022-12-18 16:14:53.163323  
 categories: player  
 ---
 # Rhodri Jones
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 31.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Scarlets |           103 |   0.5      |
 | Ospreys  |            82 |   0.536585 |
 | Wales    |            20 |   0.65     |
-| Dragons  |             3 |   0.5      |
+| Dragons  |             4 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -43,12 +43,13 @@ categories: player
 | Ospreys              |         8 |   0.4375   |
 | Cheetahs             |         5 |   0.6      |
 | Leicester Tigers     |         5 |   0.6      |
-| Scarlets             |         4 |   0.25     |
 | Northampton Saints   |         4 |   0.25     |
+| Scarlets             |         4 |   0.25     |
 | Argentina            |         3 |   0.666667 |
 | England              |         3 |   0.333333 |
-| Racing 92            |         2 |   0.25     |
 | Sale Sharks          |         2 |   0        |
+| Pau                  |         2 |   0.5      |
+| Racing 92            |         2 |   0.25     |
 | Scotland             |         2 |   1        |
 | Lyon                 |         2 |   1        |
 | South Africa         |         2 |   1        |
@@ -61,9 +62,9 @@ categories: player
 | Lions                |         2 |   0.25     |
 | Italy                |         2 |   1        |
 | Ireland              |         2 |   0.5      |
-| Castres Olympique    |         2 |   1        |
 | Grenoble             |         2 |   1        |
-| London Irish         |         1 |   1        |
+| Castres Olympique    |         2 |   1        |
+| Bath Rugby           |         1 |   0        |
 | France               |         1 |   1        |
 | Yorkshire Carnegie   |         1 |   1        |
 | Worcester Warriors   |         1 |   0        |
@@ -71,13 +72,12 @@ categories: player
 | Toulon               |         1 |   0        |
 | Tonga                |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
-| Gloucester Rugby     |         1 |   0        |
-| Georgia              |         1 |   0        |
 | Bristol Rugby        |         1 |   1        |
-| Bath Rugby           |         1 |   0        |
+| Georgia              |         1 |   0        |
+| London Irish         |         1 |   1        |
+| Gloucester Rugby     |         1 |   0        |
 | Saracens             |         1 |   0        |
 | Samoa                |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Perpignan            |         1 |   0        |
-| Pau                  |         1 |   1        |
 | Aironi               |         1 |   1        |

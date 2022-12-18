@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Florent Vanverberghe  
-date: 2022-12-14 11:19:34.450947  
+date: 2022-12-18 16:17:09.373942  
 categories: player  
 ---
 # Florent Vanverberghe
 
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 77.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            54 |    0.62037 |
-| Toulon            |             3 |    0       |
+| Castres Olympique |            55 |   0.609091 |
+| Toulon            |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,8 +39,8 @@ categories: player
 | Bordeaux Begles      |         3 |   0.166667 |
 | Perpignan            |         3 |   0.666667 |
 | Racing 92            |         3 |   0.333333 |
+| Edinburgh            |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
-| Edinburgh            |         1 |   0        |
 | Harlequins           |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
 | Agen                 |         1 |   1        |

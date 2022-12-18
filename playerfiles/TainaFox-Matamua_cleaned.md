@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Taina Fox-Matamua  
-date: 2022-12-14 11:35:30.191076  
+date: 2022-12-18 16:32:28.570571  
 categories: player  
 ---
 # Taina Fox-Matamua
 
 ## Positions: N8, FL
 
-## Current elo: 117.0
+## Current elo: 120.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            13 |  0.0769231 |
+| Zebre  |            14 |  0.0714286 |
 | Tasman |             5 |  1         |
 
 | Opponent         |   Matches |   Win Rate |
@@ -29,6 +29,7 @@ categories: player
 | Dragons          |         2 |        0.5 |
 | Edinburgh        |         2 |        0   |
 | Glasgow Warriors |         2 |        0   |
+| Bristol Rugby    |         1 |        0   |
 | Connacht         |         1 |        0   |
 | Leinster         |         1 |        0   |
 | Manawatu         |         1 |        1   |

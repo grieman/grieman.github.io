@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kevin Chaudouard  
-date: 2022-12-14 11:24:57.782807  
+date: 2022-12-18 16:30:47.671992  
 categories: player  
 ---
 # Kevin Chaudouard

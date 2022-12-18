@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Ngatai  
-date: 2022-12-14 11:13:53.231065  
+date: 2022-12-18 16:24:49.265473  
 categories: player  
 ---
 # Charlie Ngatai
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 118.0
+## Current elo: 120.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -28,7 +28,7 @@ categories: player
 | Taranaki          |            26 |   0.634615 |
 | Wellington        |            22 |   0.727273 |
 | Hurricanes        |            15 |   0.533333 |
-| Leinster          |             8 |   1        |
+| Leinster          |             9 |   1        |
 | New Zealand Maori |             7 |   0.857143 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -49,16 +49,16 @@ categories: player
 | Brumbies                 |         5 |   0.8      |
 | Stormers                 |         4 |   0.5      |
 | Blues                    |         4 |   1        |
-| Auckland                 |         4 |   0.75     |
+| Manawatu                 |         4 |   1        |
 | Bay of Plenty            |         4 |   0.75     |
-| North Harbour            |         4 |   0.75     |
 | Western Force            |         4 |   1        |
+| North Harbour            |         4 |   0.75     |
 | Northland                |         4 |   1        |
 | Perpignan                |         4 |   1        |
 | Queensland Reds          |         4 |   1        |
 | Brive                    |         4 |   0.5      |
 | Sharks                   |         4 |   0.75     |
-| Manawatu                 |         4 |   1        |
+| Auckland                 |         4 |   0.75     |
 | Stade Toulousain         |         3 |   0.5      |
 | Waikato                  |         3 |   1        |
 | Otago                    |         3 |   0.666667 |
@@ -66,31 +66,32 @@ categories: player
 | Lions                    |         3 |   0.666667 |
 | Tasman                   |         3 |   0.333333 |
 | Agen                     |         3 |   0.666667 |
+| Counties Manukau         |         3 |   0.833333 |
 | Cheetahs                 |         3 |   0.666667 |
 | Hawke's Bay              |         3 |   0.333333 |
-| Counties Manukau         |         3 |   0.833333 |
-| Southern Kings           |         2 |   1        |
-| Bulls                    |         2 |   0.5      |
+| Chiefs                   |         2 |   0.5      |
 | Cardiff Blues            |         2 |   0        |
 | Southland                |         2 |   1        |
-| Chiefs                   |         2 |   0.5      |
+| Southern Kings           |         2 |   1        |
+| Japan                    |         2 |   1        |
+| Bulls                    |         2 |   0.5      |
 | Canada                   |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
 | Northampton Saints       |         2 |   0        |
-| Jaguares                 |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   0.5      |
-| Japan                    |         2 |   1        |
-| Bayonne                  |         1 |   1        |
+| Jaguares                 |         2 |   0.5      |
+| Taranaki                 |         1 |   1        |
 | United States of America |         1 |   1        |
-| Ulster                   |         1 |   1        |
 | British and Irish Lions  |         1 |   0        |
 | Biarritz Olympique       |         1 |   1        |
+| Bayonne                  |         1 |   1        |
+| Ulster                   |         1 |   1        |
 | Leinster                 |         1 |   0        |
-| Taranaki                 |         1 |   1        |
-| Melbourne Rebels         |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Connacht                 |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
+| Gloucester Rugby         |         1 |   1        |
 | Grenoble                 |         1 |   1        |
+| Melbourne Rebels         |         1 |   0        |
 | Zebre                    |         1 |   1        |

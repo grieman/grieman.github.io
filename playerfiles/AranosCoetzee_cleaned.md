@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aranos Coetzee  
-date: 2022-12-14 11:28:36.114914  
+date: 2022-12-18 16:26:41.716472  
 categories: player  
 ---
 # Aranos Coetzee
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 114.0
+## Current elo: 112.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Cheetahs            |            74 |   0.412162 |
+| Cheetahs            |            75 |   0.406667 |
 | Brive               |            40 |   0.525    |
 | Free State Cheetahs |            23 |   0.586957 |
 | Namibia             |            15 |   0.533333 |
@@ -37,15 +37,15 @@ categories: player
 | Zebre                |         6 |   0.666667 |
 | Cardiff Blues        |         6 |   0.333333 |
 | Griquas              |         6 |   0.5      |
-| Connacht             |         5 |   0.2      |
 | Western Province     |         5 |   0.6      |
+| Scarlets             |         5 |   0.2      |
+| Connacht             |         5 |   0.2      |
 | Oyonnax              |         4 |   0.25     |
 | Sunwolves            |         4 |   1        |
 | Bulls                |         4 |   0.25     |
 | Glasgow Warriors     |         4 |   0        |
 | Castres Olympique    |         4 |   0.5      |
 | Blue Bulls           |         4 |   0.5      |
-| Scarlets             |         4 |   0.25     |
 | Munster              |         4 |   0        |
 | Pumas                |         4 |   0.5      |
 | Ospreys              |         4 |   0.25     |

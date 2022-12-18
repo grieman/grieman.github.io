@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sti Sithole  
-date: 2022-12-14 11:15:30.564291  
+date: 2022-12-18 16:33:42.368706  
 categories: player  
 ---
 # Sti Sithole
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 85.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Lions          |            46 |  0.51087   |
+| Lions          |            47 |  0.521277  |
 | Golden Lions   |            25 |  0.58      |
 | Southern Kings |            11 |  0.0909091 |
 | Stormers       |             3 |  0.666667  |
@@ -31,18 +31,18 @@ categories: player
 | Bulls                    |         7 |   0.285714 |
 | Sharks                   |         7 |   0.142857 |
 | Griquas                  |         6 |   0.833333 |
-| Blue Bulls               |         5 |   0.2      |
 | Stormers                 |         5 |   0.4      |
-| Free State Cheetahs      |         4 |   0.875    |
+| Blue Bulls               |         5 |   0.2      |
 | Western Province         |         4 |   0.75     |
 | Natal Sharks             |         4 |   0.25     |
+| Free State Cheetahs      |         4 |   0.875    |
 | Sunwolves                |         3 |   1        |
 | Dragons                  |         3 |   0.833333 |
-| New South Wales Waratahs |         2 |   0.5      |
-| Melbourne Rebels         |         2 |   0.5      |
-| Scarlets                 |         2 |   0.5      |
 | Highlanders              |         2 |   0.5      |
 | Ospreys                  |         2 |   1        |
+| New South Wales Waratahs |         2 |   0.5      |
+| Scarlets                 |         2 |   0.5      |
+| Melbourne Rebels         |         2 |   0.5      |
 | Pumas                    |         2 |   0.5      |
 | Edinburgh                |         2 |   1        |
 | Crusaders                |         2 |   0        |
@@ -50,13 +50,14 @@ categories: player
 | Ulster                   |         2 |   0        |
 | Cardiff Blues            |         2 |   1        |
 | Blues                    |         2 |   0        |
+| Stade Francais Paris     |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
 | Benetton Treviso         |         1 |   1        |
-| Jaguares                 |         1 |   0        |
+| Leinster                 |         1 |   0        |
 | Munster                  |         1 |   1        |
 | Lions                    |         1 |   0        |
-| Leinster                 |         1 |   0        |
+| Jaguares                 |         1 |   0        |
 | Hurricanes               |         1 |   0        |
 | Glasgow Warriors         |         1 |   0        |
 | Connacht                 |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sergio Parisse  
-date: 2022-12-14 11:13:52.160440  
+date: 2022-12-18 16:27:01.351836  
 categories: player  
 ---
 # Sergio Parisse
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 111.0
+## Current elo: 113.0
 
-## Current Percentile: 84.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           229 |   0.626638 |
 | Italy                |           124 |   0.205645 |
-| Toulon               |            49 |   0.663265 |
+| Toulon               |            50 |   0.67     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -60,10 +60,10 @@ categories: player
 | Scarlets                 |         4 |  0.75      |
 | Harlequins               |         4 |  0         |
 | Leicester Tigers         |         4 |  0.5       |
+| Bath Rugby               |         4 |  1         |
 | Stade Francais Paris     |         4 |  0.5       |
 | Edinburgh                |         3 |  1         |
 | Albi                     |         3 |  1         |
-| Bath Rugby               |         3 |  1         |
 | Mont-de-Marsan           |         3 |  1         |
 | Montauban                |         3 |  1         |
 | Samoa                    |         2 |  0.5       |

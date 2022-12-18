@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Junior Pokomela  
-date: 2022-12-14 11:24:07.835256  
+date: 2022-12-18 16:33:38.703806  
 categories: player  
 ---
 # Junior Pokomela
 
 ## Positions: FL
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: 53.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Cheetahs            |            39 |   0.474359 |
-| Stormers            |            19 |   0.789474 |
+| Stormers            |            20 |   0.8      |
 | Free State Cheetahs |            14 |   0.464286 |
 | Western Province    |             4 |   0.25     |
 
@@ -49,6 +49,7 @@ categories: player
 | Natal Sharks      |         2 |   0        |
 | Bulls             |         2 |   1        |
 | Benetton Treviso  |         2 |   0.5      |
+| London Irish      |         1 |   1        |
 | Clermont Auvergne |         1 |   0        |
 | Sunwolves         |         1 |   1        |
 | Chiefs            |         1 |   0        |

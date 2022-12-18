@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake Polledri  
-date: 2022-12-12 15:15:58.814656  
+date: 2022-12-18 16:26:58.419023  
 categories: player  
 ---
 # Jake Polledri
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: 52.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            65 |   0.492308 |
+| Gloucester Rugby |            66 |   0.484848 |
 | Italy            |            19 |   0.315789 |
 | Hartpury College |             3 |   0.333333 |
 
@@ -46,23 +46,24 @@ categories: player
 | Sale Sharks         |         2 |   0        |
 | Pau                 |         2 |   0        |
 | Agen                |         2 |   1        |
-| Zebre               |         2 |   1        |
-| England             |         2 |   0        |
-| Japan               |         2 |   0.5      |
 | Georgia             |         2 |   1        |
+| Japan               |         2 |   0.5      |
+| England             |         2 |   0        |
+| Zebre               |         2 |   1        |
+| Munster             |         1 |   0        |
+| Connacht            |         1 |   1        |
 | Bedford             |         1 |   0        |
 | Canada              |         1 |   1        |
 | Wales               |         1 |   0        |
 | Cardiff Blues       |         1 |   0        |
 | South Africa        |         1 |   0        |
 | Castres Olympique   |         1 |   1        |
-| Connacht            |         1 |   1        |
-| Jersey              |         1 |   0        |
 | Australia           |         1 |   0        |
+| Namibia             |         1 |   1        |
+| Russia              |         1 |   1        |
+| Leinster            |         1 |   0        |
 | Nottingham          |         1 |   1        |
 | Ireland             |         1 |   0        |
-| New Zealand         |         1 |   0        |
-| Namibia             |         1 |   1        |
-| Munster             |         1 |   0        |
 | Montpellier Herault |         1 |   0        |
-| Russia              |         1 |   1        |
+| New Zealand         |         1 |   0        |
+| Jersey              |         1 |   0        |

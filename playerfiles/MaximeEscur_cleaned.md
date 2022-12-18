@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Escur  
-date: 2022-12-14 11:33:31.612885  
+date: 2022-12-18 16:35:33.121286  
 categories: player  
 ---
 # Maxime Escur

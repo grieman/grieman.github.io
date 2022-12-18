@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clovis Le bail  
-date: 2022-12-14 11:33:57.027654  
+date: 2022-12-18 16:23:56.636243  
 categories: player  
 ---
 # Clovis Le bail
 
 ## Positions: SH
 
-## Current elo: 108.0
+## Current elo: 111.0
 
-## Current Percentile: 80.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |            93 |   0.392473 |
+| Pau    |            94 |   0.398936 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,8 +39,8 @@ categories: player
 | Perpignan            |         4 |  1         |
 | Agen                 |         4 |  1         |
 | Bayonne              |         2 |  1         |
-| Ospreys              |         2 |  0.5       |
 | Gloucester Rugby     |         2 |  1         |
+| Ospreys              |         2 |  0.5       |
 | Cardiff Blues        |         2 |  0.5       |
 | Calvisano            |         2 |  1         |
 | Biarritz Olympique   |         2 |  1         |
@@ -48,5 +48,6 @@ categories: player
 | Leicester Tigers     |         1 |  0         |
 | London Irish         |         1 |  0         |
 | Grenoble             |         1 |  1         |
+| Dragons              |         1 |  1         |
 | Cheetahs             |         1 |  0         |
 | Worcester Warriors   |         1 |  0         |

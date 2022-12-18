@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cobus Reinach  
-date: 2022-12-14 11:31:54.605003  
+date: 2022-12-18 16:19:48.483429  
 categories: player  
 ---
 # Cobus Reinach
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 115.0
+## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Northampton Saints  |            72 |   0.430556 |
 | Sharks              |            60 |   0.55     |
-| Montpellier Herault |            43 |   0.523256 |
+| Montpellier Herault |            44 |   0.511364 |
 | South Africa        |            22 |   0.727273 |
 | Natal Sharks        |            16 |   0.65625  |
 
@@ -40,6 +40,7 @@ categories: player
 | Cheetahs                 |         6 |   0.5      |
 | Stormers                 |         6 |   0.5      |
 | Harlequins               |         5 |   0.8      |
+| Gloucester Rugby         |         5 |   0.4      |
 | Southern Kings           |         5 |   0.8      |
 | Crusaders                |         5 |   0.4      |
 | Worcester Warriors       |         5 |   0.8      |
@@ -48,16 +49,16 @@ categories: player
 | Wasps                    |         5 |   0.4      |
 | Western Province         |         5 |   0.6      |
 | Lyon                     |         5 |   0.6      |
-| Gloucester Rugby         |         5 |   0.4      |
-| Newcastle Falcons        |         4 |   0.25     |
 | Castres Olympique        |         4 |   0.25     |
-| London Irish             |         4 |   0.75     |
+| Newcastle Falcons        |         4 |   0.25     |
 | Argentina                |         4 |   0.75     |
+| London Irish             |         4 |   0.75     |
 | Bath Rugby               |         4 |   0.25     |
-| Australia                |         4 |   0.75     |
 | Racing 92                |         4 |   0.25     |
-| La Rochelle              |         3 |   0.666667 |
+| Australia                |         4 |   0.75     |
 | Jaguares                 |         3 |   1        |
+| La Rochelle              |         3 |   0.666667 |
+| Ospreys                  |         3 |   0        |
 | Pau                      |         3 |   0.333333 |
 | Stade Francais Paris     |         3 |   1        |
 | Queensland Reds          |         3 |   0.666667 |
@@ -70,7 +71,6 @@ categories: player
 | Melbourne Rebels         |         3 |   0.833333 |
 | Perpignan                |         2 |   1        |
 | New Zealand              |         2 |   0.5      |
-| Ospreys                  |         2 |   0        |
 | Stade Toulousain         |         2 |   0        |
 | Wales                    |         2 |   0.5      |
 | Agen                     |         2 |   1        |

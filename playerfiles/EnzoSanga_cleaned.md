@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Enzo Sanga  
-date: 2022-12-14 11:36:21.425345  
+date: 2022-12-18 16:21:14.035317  
 categories: player  
 ---
 # Enzo Sanga
 
 ## Positions: SH
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: 17.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Montpellier Herault        |            55 |   0.572727 |
-| Brive                      |            21 |   0.261905 |
+| Brive                      |            22 |   0.25     |
 | Valence Romans Drome Rugby |            15 |   0.466667 |
 | Clermont Auvergne          |            13 |   0.692308 |
 
@@ -50,11 +50,11 @@ categories: player
 | Beziers              |         2 |   0.25     |
 | Glasgow Warriors     |         2 |   1        |
 | Edinburgh            |         2 |   0.5      |
+| Connacht             |         2 |   0        |
 | Cardiff Blues        |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
 | Gloucester Rugby     |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
-| Connacht             |         1 |   0        |
 | Saracens             |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   0.5      |
 | Colomiers            |         1 |   1        |

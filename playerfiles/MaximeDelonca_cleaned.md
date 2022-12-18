@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Delonca  
-date: 2022-12-14 11:12:22.138939  
+date: 2022-12-18 16:12:56.840136  
 categories: player  
 ---
 # Maxime Delonca
 
 ## Positions: H
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 28.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,19 +21,20 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Dax       |            67 |   0.432836 |
+| Dax       |            68 |   0.441176 |
 | Bayonne   |            48 |   0.395833 |
 | Perpignan |            21 |   0.547619 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         6 |   0.5      |
-| Colomiers                  |         6 |   0.166667 |
 | Toulon                     |         6 |   0.333333 |
+| Colomiers                  |         6 |   0.166667 |
 | Narbonne                   |         6 |   0.666667 |
 | Agen                       |         5 |   0.7      |
 | Beziers                    |         5 |   0.2      |
 | Biarritz Olympique         |         5 |   0.8      |
+| US Bressane                |         5 |   1        |
 | Albi                       |         5 |   0.1      |
 | Castres Olympique          |         4 |   0.5      |
 | Montpellier Herault        |         4 |   0.5      |
@@ -41,7 +42,6 @@ categories: player
 | Racing 92                  |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.75     |
 | Bourgoin-Jallieu           |         4 |   0.75     |
-| US Bressane                |         4 |   1        |
 | Bayonne                    |         4 |   0.375    |
 | Montauban                  |         4 |   0.5      |
 | Perpignan                  |         3 |   0        |

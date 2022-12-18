@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Blair Kinghorn  
-date: 2022-12-14 11:25:11.904113  
+date: 2022-12-18 16:31:07.153225  
 categories: player  
 ---
 # Blair Kinghorn
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 136.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           120 |   0.529167 |
+| Edinburgh |           121 |   0.533058 |
 | Scotland  |            37 |   0.513514 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,42 +36,43 @@ categories: player
 | Zebre                    |         7 |   0.714286 |
 | Ulster                   |         7 |   0.142857 |
 | Cardiff Blues            |         7 |   0.285714 |
-| Connacht                 |         6 |   0.5      |
 | Argentina                |         6 |   0.666667 |
-| Ospreys                  |         5 |   0.2      |
+| Connacht                 |         6 |   0.5      |
 | France                   |         5 |   0.4      |
+| Ospreys                  |         5 |   0.2      |
 | Wales                    |         4 |   0.25     |
 | Ireland                  |         4 |   0        |
 | Leinster                 |         4 |   0        |
 | Georgia                  |         3 |   1        |
-| England                  |         3 |   0.666667 |
-| Bordeaux Begles          |         3 |   0.166667 |
-| Southern Kings           |         3 |   1        |
-| London Irish             |         3 |   0.333333 |
 | Italy                    |         3 |   1        |
 | Stade Francais Paris     |         3 |   0.666667 |
+| Bordeaux Begles          |         3 |   0.166667 |
+| London Irish             |         3 |   0.333333 |
+| Southern Kings           |         3 |   1        |
+| England                  |         3 |   0.666667 |
 | Krasny Yar               |         2 |   1        |
-| Lions                    |         2 |   0        |
-| Montpellier Herault      |         2 |   0.5      |
 | Cheetahs                 |         2 |   0.5      |
+| Montpellier Herault      |         2 |   0.5      |
 | Harlequins               |         2 |   1        |
-| Newcastle Falcons        |         2 |   1        |
 | Toulon                   |         2 |   1        |
+| Newcastle Falcons        |         2 |   1        |
 | Timisoara Saracens       |         2 |   1        |
 | Stormers                 |         2 |   0        |
+| Lions                    |         2 |   0        |
 | Australia                |         1 |   0        |
 | United States of America |         1 |   0        |
-| Wasps                    |         1 |   1        |
-| Tonga                    |         1 |   1        |
-| Russia                   |         1 |   1        |
 | South Africa             |         1 |   0        |
+| Tonga                    |         1 |   1        |
+| Wasps                    |         1 |   1        |
+| Canada                   |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | Brive                    |         1 |   1        |
 | Saracens                 |         1 |   0        |
-| Grenoble                 |         1 |   1        |
-| Canada                   |         1 |   1        |
+| Russia                   |         1 |   1        |
+| Fiji                     |         1 |   1        |
 | New Zealand              |         1 |   0        |
+| Castres Olympique        |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Japan                    |         1 |   0        |
-| Fiji                     |         1 |   1        |
+| Grenoble                 |         1 |   1        |
 | Agen                     |         1 |   1        |

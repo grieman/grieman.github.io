@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tedo Abzhandadze  
-date: 2022-12-12 15:20:56.081749  
+date: 2022-12-18 16:30:28.499188  
 categories: player  
 ---
 # Tedo Abzhandadze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 61.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Georgia   |            33 |   0.727273 |
 | Brive     |            28 |   0.357143 |
-| Montauban |             6 |   0.25     |
+| Montauban |             7 |   0.357143 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,30 +41,31 @@ categories: player
 | Uruguay              |         2 |   1        |
 | Toulon               |         2 |   0.5      |
 | Samoa                |         2 |   0.5      |
-| Portugal             |         2 |   0.75     |
-| Netherlands          |         2 |   1        |
 | Pau                  |         2 |   1        |
+| Netherlands          |         2 |   1        |
+| Portugal             |         2 |   0.75     |
+| Castres Olympique    |         2 |   0        |
 | Belgium              |         2 |   1        |
 | Bordeaux Begles      |         2 |   0.5      |
 | Bristol Rugby        |         2 |   0        |
-| Castres Olympique    |         2 |   0        |
 | Italy                |         1 |   1        |
-| Montpellier Herault  |         1 |   0        |
 | Vannes               |         1 |   0.5      |
 | Biarritz Olympique   |         1 |   0        |
 | Tonga                |         1 |   1        |
 | Stade Toulousain     |         1 |   0        |
 | Carcassonne          |         1 |   0        |
+| Soyaux-Angouleme     |         1 |   1        |
 | South Africa         |         1 |   0        |
 | Saracens             |         1 |   0        |
+| Montpellier Herault  |         1 |   0        |
 | Edinburgh            |         1 |   0        |
 | Fiji                 |         1 |   0.5      |
 | Rouen                |         1 |   0        |
 | France               |         1 |   0        |
 | Racing 92            |         1 |   0        |
 | Provence Rugby       |         1 |   0        |
-| Germany              |         1 |   1        |
 | Bayonne              |         1 |   1        |
+| Germany              |         1 |   1        |
 | Nevers               |         1 |   1        |
 | Grenoble             |         1 |   0        |
 | Argentina            |         1 |   0        |

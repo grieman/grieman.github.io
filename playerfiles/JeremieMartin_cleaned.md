@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jeremie Martin  
-date: 2022-12-14 11:31:41.472501  
+date: 2022-12-18 16:35:01.270085  
 categories: player  
 ---
 # Jeremie Martin
@@ -17,9 +17,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |             2 |        0.5 |
+| Provence Rugby |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Biarritz Olympique |         1 |          0 |
 | Rouen              |         1 |          1 |
+| Vannes             |         1 |          0 |

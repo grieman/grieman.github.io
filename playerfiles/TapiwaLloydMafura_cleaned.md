@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tapiwa Lloyd Mafura  
-date: 2022-12-14 11:36:27.617774  
+date: 2022-12-18 16:18:52.944233  
 categories: player  
 ---
 # Tapiwa Lloyd Mafura
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Zimbabwe
 
-## Current elo: 87.0
+## Current elo: 84.0
 
-## Current Percentile: 13.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Pumas               |            21 |   0.380952 |
 | Leopards            |             8 |   0.8125   |
+| Cheetahs            |             2 |   0.5      |
 | Zimbabwe            |             2 |   0.5      |
-| Cheetahs            |             1 |   1        |
 | Free State Cheetahs |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
@@ -45,3 +45,4 @@ categories: player
 | Griffons               |         1 |   0        |
 | Namibia                |         1 |   0        |
 | Pau                    |         1 |   1        |
+| Scarlets               |         1 |   0        |

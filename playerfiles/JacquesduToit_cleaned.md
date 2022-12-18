@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jacques du Toit  
-date: 2022-12-12 15:35:34.407160  
+date: 2022-12-18 16:18:57.347675  
 categories: player  
 ---
 # Jacques du Toit
 
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 90.0
 
 ## Current Percentile: 25.0
 
@@ -25,7 +25,7 @@ categories: player
 | Bath Rugby          |            27 |   0.240741 |
 | Free State Cheetahs |            17 |   0.617647 |
 | Southern Kings      |             9 |   0.111111 |
-| Zebre               |             6 |   0        |
+| Zebre               |             7 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -36,9 +36,9 @@ categories: player
 | Griquas                |         4 |   0.75     |
 | Golden Lions           |         4 |   0.25     |
 | Ospreys                |         4 |   0.5      |
+| Bristol Rugby          |         4 |   0.25     |
 | Connacht               |         3 |   0.333333 |
 | Ulster                 |         3 |   0.166667 |
-| Bristol Rugby          |         3 |   0.333333 |
 | Pumas                  |         3 |   1        |
 | Sale Sharks            |         3 |   0.166667 |
 | Leicester Tigers       |         3 |   0.333333 |

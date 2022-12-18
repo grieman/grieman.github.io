@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George North  
-date: 2022-12-14 11:29:37.107832  
+date: 2022-12-18 16:15:35.282104  
 categories: player  
 ---
 # George North

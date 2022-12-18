@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Chudley  
-date: 2022-12-14 11:17:02.282096  
+date: 2022-12-18 16:12:00.823146  
 categories: player  
 ---
 # Will Chudley

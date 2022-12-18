@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan Farissier  
-date: 2022-12-14 11:35:48.513324  
+date: 2022-12-18 16:27:21.157393  
 categories: player  
 ---
 # Nathan Farissier
 
 ## Positions: W
 
-## Current elo: 90.0
+## Current elo: 87.0
 
-## Current Percentile: 40.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            10 |        0.3 |
+| Massy  |            11 |   0.272727 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Beziers          |         1 |          0 |
 | Carcassonne      |         1 |          1 |
 | Colomiers        |         1 |          0 |
+| Grenoble         |         1 |          0 |
 | Mont-de-Marsan   |         1 |          1 |
 | Montauban        |         1 |          0 |
 | Nevers           |         1 |          0 |

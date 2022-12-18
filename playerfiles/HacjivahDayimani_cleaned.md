@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hacjivah Dayimani  
-date: 2022-12-14 11:14:14.532070  
+date: 2022-12-18 16:33:40.935824  
 categories: player  
 ---
 # Hacjivah Dayimani
 
 ## Positions: N8, FL
 
-## Current elo: 108.0
+## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Lions            |            29 |   0.37931  |
-| Stormers         |            24 |   0.833333 |
+| Stormers         |            25 |   0.84     |
 | Golden Lions     |            11 |   0.636364 |
 | Western Province |             4 |   0.75     |
 
@@ -43,20 +43,21 @@ categories: player
 | Lions                    |         2 |   1        |
 | Blues                    |         2 |   0        |
 | Blue Bulls               |         2 |   0.5      |
-| Crusaders                |         2 |   0        |
 | Brumbies                 |         2 |   0.5      |
 | Cardiff Blues            |         2 |   0.5      |
 | Free State Cheetahs      |         2 |   1        |
 | Edinburgh                |         2 |   1        |
 | Connacht                 |         2 |   0.5      |
+| Crusaders                |         2 |   0        |
 | Highlanders              |         1 |   1        |
+| Queensland Reds          |         1 |   0        |
 | Sunwolves                |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Pumas                    |         1 |   1        |
-| Queensland Reds          |         1 |   0        |
 | Golden Lions             |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | Melbourne Rebels         |         1 |   0        |
+| London Irish             |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
 | Leinster                 |         1 |   1        |
 | Zebre                    |         1 |   1        |

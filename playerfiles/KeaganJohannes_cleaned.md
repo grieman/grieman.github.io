@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keagan Johannes  
-date: 2022-12-14 11:18:14.015049  
+date: 2022-12-18 16:34:05.983195  
 categories: player  
 ---
 # Keagan Johannes
@@ -22,7 +22,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Blue Bulls |            11 |   0.818182 |
-| Bulls      |             1 |   1        |
+| Bulls      |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Free State Cheetahs |         2 |          0 |
 | Griquas             |         2 |          1 |
 | Western Province    |         2 |          1 |
+| Exeter Chiefs       |         1 |          0 |
 | Lyon                |         1 |          1 |
 | Natal Sharks        |         1 |          1 |
 | Pumas               |         1 |          1 |

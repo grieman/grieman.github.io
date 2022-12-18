@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Schalk Ferreira  
-date: 2022-12-14 11:36:24.147442  
+date: 2022-12-18 16:24:47.732264  
 categories: player  
 ---
 # Schalk Ferreira
 
 ## Positions: P
 
-## Current elo: 79.0
+## Current elo: 74.0
 
 ## Current Percentile: 3.0
 
@@ -25,13 +25,13 @@ categories: player
 | Stade Toulousain       |            25 |   0.74     |
 | Eastern Province Kings |             8 |   0.125    |
 | Free State Cheetahs    |             8 |   0.75     |
+| Cheetahs               |             2 |   0.5      |
 | Stormers               |             2 |   0.5      |
-| Cheetahs               |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Cheetahs                 |        11 |  0.0909091 |
-| Scarlets                 |         5 |  0         |
+| Scarlets                 |         6 |  0         |
 | Bulls                    |         5 |  0.2       |
 | Leinster                 |         4 |  0         |
 | Dragons                  |         4 |  0.375     |

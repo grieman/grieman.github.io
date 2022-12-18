@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Giorgi Kartvelishvili  
-date: 2022-12-14 11:28:29.724654  
+date: 2022-12-18 16:12:54.585769  
 categories: player  
 ---
 # Giorgi Kartvelishvili
 
 ## Positions: P
 
-## Current elo: 112.0
+## Current elo: 115.0
 
-## Current Percentile: 90.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            59 |   0.516949 |
+| Aurillac |            60 |      0.525 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,8 +37,8 @@ categories: player
 | Carcassonne                |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
 | Oyonnax                    |         3 |   0.666667 |
+| Rouen                      |         3 |   1        |
 | US Bressane                |         2 |   0.5      |
-| Rouen                      |         2 |   1        |
 | Agen                       |         2 |   0.5      |
 | Perpignan                  |         2 |   0.25     |
 | Narbonne                   |         2 |   1        |

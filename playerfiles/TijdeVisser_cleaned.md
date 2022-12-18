@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tijde Visser  
-date: 2022-12-14 11:27:52.094315  
+date: 2022-12-18 16:23:33.474713  
 categories: player  
 ---
 # Tijde Visser
 
 ## Positions: P
 
-## Current elo: 84.0
+## Current elo: 82.0
 
-## Current Percentile: 13.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            14 |   0.714286 |
+| Massy  |            15 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Colomiers                  |         1 |          0 |
 | Dax                        |         1 |          1 |
+| Grenoble                   |         1 |          0 |
 | Nice                       |         1 |          1 |
 | Provence Rugby             |         1 |          1 |
 | Soyaux-Angouleme           |         1 |          0 |

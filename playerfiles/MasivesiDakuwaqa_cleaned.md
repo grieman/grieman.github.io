@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Masivesi Dakuwaqa  
-date: 2022-12-14 11:28:41.328331  
+date: 2022-12-18 16:39:01.381492  
 categories: player  
 ---
 # Masivesi Dakuwaqa
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Toulon              |            37 |   0.594595 |
-| Montpellier Herault |            21 |   0.666667 |
+| Montpellier Herault |            22 |   0.636364 |
 | Fiji                |             2 |   0.25     |
 | Western Force       |             2 |   0.5      |
 
@@ -48,6 +48,7 @@ categories: player
 | Clermont Auvergne    |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
 | NSW Country Eagles   |         1 |   1        |
+| Ospreys              |         1 |   0        |
 | Leicester Tigers     |         1 |   1        |
 | Georgia              |         1 |   0.5      |
 | Racing 92            |         1 |   1        |

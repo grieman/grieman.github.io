@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kylian Jaminet  
-date: 2022-12-14 11:29:41.048904  
+date: 2022-12-18 16:13:57.836203  
 categories: player  
 ---
 # Kylian Jaminet

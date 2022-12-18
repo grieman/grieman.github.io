@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Kornath  
-date: 2022-12-14 11:30:25.072673  
+date: 2022-12-18 16:19:15.280800  
 categories: player  
 ---
 # Kevin Kornath
 
 ## Positions: FL, N8
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: 21.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Castres Olympique   |            35 |   0.457143 |
+| Castres Olympique   |            36 |   0.444444 |
 | Montpellier Herault |            24 |   0.5      |
 | Grenoble            |             9 |   0.222222 |
 
@@ -33,14 +33,15 @@ categories: player
 | Stade Francais Paris |         5 |   0.2      |
 | Toulon               |         5 |   0.6      |
 | Agen                 |         4 |   1        |
-| Pau                  |         4 |   0.75     |
 | Bordeaux Begles      |         4 |   0.25     |
 | Lyon                 |         4 |   0.25     |
 | Newcastle Falcons    |         4 |   0.5      |
+| Pau                  |         4 |   0.75     |
 | Brive                |         3 |   0.666667 |
 | Montpellier Herault  |         3 |   0.666667 |
 | Ospreys              |         3 |   0        |
 | Perpignan            |         2 |   1        |
+| Edinburgh            |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   0.5      |
 | Biarritz Olympique   |         1 |   1        |
@@ -48,5 +49,4 @@ categories: player
 | Harlequins           |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
-| Edinburgh            |         1 |   1        |
 | Munster              |         1 |   0        |

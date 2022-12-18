@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shay Kerry  
-date: 2022-12-14 11:16:08.365171  
+date: 2022-12-18 16:15:28.592509  
 categories: player  
 ---
 # Shay Kerry
 
 ## Positions: L, FL
 
-## Current elo: 79.0
+## Current elo: 77.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Rouen    |            17 |   0.441176 |
+| Rouen    |            18 |   0.416667 |
 | Ampthill |            13 |   0.653846 |
 | Oyonnax  |            12 |   0.25     |
 
@@ -39,20 +39,21 @@ categories: player
 | Yorkshire Carnegie |         2 |       1    |
 | Connacht           |         2 |       0    |
 | Coventry           |         1 |       1    |
-| Nottingham         |         1 |       0    |
+| Bayonne            |         1 |       0    |
 | Bedford            |         1 |       1    |
 | Beziers            |         1 |       1    |
-| Biarritz Olympique |         1 |       0    |
 | Soyaux-Angouleme   |         1 |       1    |
-| Castres Olympique  |         1 |       0    |
+| Biarritz Olympique |         1 |       0    |
 | Perpignan          |         1 |       1    |
 | Oyonnax            |         1 |       0    |
+| Nottingham         |         1 |       0    |
 | Nevers             |         1 |       0    |
-| Doncaster          |         1 |       1    |
 | Narbonne           |         1 |       0    |
 | Montauban          |         1 |       1    |
 | Lyon               |         1 |       0    |
-| Colomiers          |         1 |       0    |
-| Bayonne            |         1 |       0    |
+| Castres Olympique  |         1 |       0    |
+| Aurillac           |         1 |       0    |
 | Jersey             |         1 |       0    |
+| Colomiers          |         1 |       0    |
+| Doncaster          |         1 |       1    |
 | La Rochelle        |         1 |       1    |

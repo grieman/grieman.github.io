@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hans Lombard-Buret  
-date: 2022-12-14 11:20:02.882838  
+date: 2022-12-18 16:31:18.573070  
 categories: player  
 ---
 # Hans Lombard-Buret
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 88.0
 
-## Current Percentile: 43.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |            14 |   0.357143 |
+| Agen   |            15 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Colomiers           |         1 |          0 |
 | Grenoble            |         1 |          0 |
 | Montpellier Herault |         1 |          0 |
+| Nevers              |         1 |          0 |
 | Provence Rugby      |         1 |          1 |
 | Rouen               |         1 |          1 |
 | Soyaux-Angouleme    |         1 |          0 |

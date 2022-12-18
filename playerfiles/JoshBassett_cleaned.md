@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josh Bassett  
-date: 2022-12-14 11:33:58.286423  
+date: 2022-12-18 16:34:13.584174  
 categories: player  
 ---
 # Josh Bassett
 
 ## Positions: W
 
-## Current elo: 116.0
+## Current elo: 113.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Wasps      |           176 |   0.542614 |
-| Harlequins |             4 |   0.75     |
+| Harlequins |             5 |   0.8      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -47,6 +47,7 @@ categories: player
 | Connacht           |         2 |   0.5      |
 | Bordeaux Begles    |         2 |   0        |
 | Arix Viadana       |         1 |   1        |
+| Racing 92          |         1 |   1        |
 | Cardiff Blues      |         1 |   0        |
 | Sharks             |         1 |   0        |
 | Ulster             |         1 |   0        |

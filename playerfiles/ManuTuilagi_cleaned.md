@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Tuilagi  
-date: 2022-12-14 11:20:36.420972  
+date: 2022-12-18 16:34:55.733747  
 categories: player  
 ---
 # Manu Tuilagi

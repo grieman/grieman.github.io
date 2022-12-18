@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keith Earls  
-date: 2022-12-14 11:32:46.199283  
+date: 2022-12-18 16:24:04.349965  
 categories: player  
 ---
 # Keith Earls
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 101.0
+## Current elo: 103.0
 
 ## Current Percentile: 70.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |           181 |   0.635359 |
+| Munster |           182 |   0.637363 |
 | Ireland |            85 |   0.652941 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -49,9 +49,9 @@ categories: player
 | Cardiff Blues            |         5 |   0.6      |
 | Leicester Tigers         |         5 |   0.4      |
 | Australia                |         5 |   0.8      |
+| Northampton Saints       |         5 |   0.8      |
 | South Africa             |         4 |   0.5      |
 | Perpignan                |         4 |   1        |
-| Northampton Saints       |         4 |   0.75     |
 | Sale Sharks              |         3 |   1        |
 | Zebre                    |         3 |   1        |
 | Stade Toulousain         |         3 |   0.666667 |

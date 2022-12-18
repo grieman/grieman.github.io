@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Fritz  
-date: 2022-12-14 11:26:56.249327  
+date: 2022-12-18 16:32:18.517054  
 categories: player  
 ---
 # Julien Fritz

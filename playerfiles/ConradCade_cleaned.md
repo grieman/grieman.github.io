@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Conrad Cade  
-date: 2022-12-14 11:32:48.209972  
+date: 2022-12-18 16:39:08.591098  
 categories: player  
 ---
 # Conrad Cade
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -22,13 +22,14 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Doncaster         |            10 |        0.6 |
-| Newcastle Falcons |             1 |        0   |
+| Newcastle Falcons |             2 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Bedford             |         2 |        0.5 |
 | Richmond            |         2 |        1   |
 | Ampthill            |         1 |        1   |
+| Cardiff Blues       |         1 |        0   |
 | Connacht            |         1 |        0   |
 | Coventry            |         1 |        0   |
 | Ealing Trailfinders |         1 |        0   |

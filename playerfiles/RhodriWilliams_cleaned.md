@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhodri Williams  
-date: 2022-12-14 11:29:07.368807  
+date: 2022-12-18 16:13:02.207606  
 categories: player  
 ---
 # Rhodri Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Barbarians
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |            78 |   0.301282 |
+| Dragons       |            79 |   0.297468 |
 | Scarlets      |            78 |   0.596154 |
 | Bristol Rugby |            37 |   0.513514 |
 | Barbarians    |             1 |   1        |
@@ -58,6 +58,7 @@ categories: player
 | Sharks              |         2 |   0        |
 | Cheetahs            |         2 |   0.5      |
 | Saracens            |         2 |   0        |
+| Pau                 |         2 |   0.5      |
 | Nottingham          |         2 |   1        |
 | Aironi              |         2 |   1        |
 | Cornish Pirates     |         2 |   1        |
@@ -66,19 +67,18 @@ categories: player
 | Ealing Trailfinders |         2 |   1        |
 | London Irish        |         2 |   1        |
 | Bristol Rugby       |         1 |   0        |
-| England             |         1 |   1        |
+| Bulls               |         1 |   0        |
 | Yorkshire Carnegie  |         1 |   1        |
 | Wasps               |         1 |   0        |
 | Bedford             |         1 |   1        |
 | Timisoara Saracens  |         1 |   1        |
-| Bulls               |         1 |   0        |
 | Scotland            |         1 |   1        |
+| England             |         1 |   1        |
 | Exeter Chiefs       |         1 |   0        |
 | Brive               |         1 |   0        |
 | Rotherham Titans    |         1 |   1        |
 | Richmond            |         1 |   1        |
 | Hartpury College    |         1 |   1        |
-| Pau                 |         1 |   1        |
 | Jersey              |         1 |   1        |
 | Lions               |         1 |   0.5      |
 | Newcastle Falcons   |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mike Tadjer Barbosa  
-date: 2022-12-12 15:22:23.298358  
+date: 2022-12-18 16:29:03.463172  
 categories: player  
 ---
 # Mike Tadjer Barbosa
@@ -26,7 +26,7 @@ categories: player
 | Agen              |            38 |   0.342105 |
 | Brive             |            25 |   0.24     |
 | Massy             |            23 |   0.347826 |
-| Perpignan         |            21 |   0.428571 |
+| Perpignan         |            22 |   0.409091 |
 | Grenoble          |            20 |   0.25     |
 | Montauban         |            15 |   0.433333 |
 | Portugal          |            14 |   0.464286 |
@@ -53,35 +53,36 @@ categories: player
 | Carcassonne                |         4 |   0.5      |
 | Castres Olympique          |         4 |   0.5      |
 | Beziers                    |         3 |   0        |
-| Narbonne                   |         3 |   0.666667 |
-| Grenoble                   |         3 |   0.166667 |
-| Georgia                    |         3 |   0        |
 | Harlequins                 |         3 |   0.666667 |
+| Narbonne                   |         3 |   0.666667 |
+| Georgia                    |         3 |   0        |
+| Grenoble                   |         3 |   0.166667 |
 | Tarbes                     |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   1        |
 | Romania                    |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
-| Vannes                     |         2 |   0.75     |
 | Provence Rugby             |         2 |   0.5      |
+| Vannes                     |         2 |   0.75     |
 | Perpignan                  |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Worcester Warriors         |         2 |   0.5      |
 | Connacht                   |         2 |   0        |
-| Dax                        |         2 |   1        |
 | Montauban                  |         2 |   0.5      |
+| Dax                        |         2 |   1        |
 | Mont-de-Marsan             |         2 |   0.5      |
 | Albi                       |         2 |   0.5      |
-| Auch                       |         1 |   0        |
+| Hong Kong                  |         1 |   1        |
 | United States of America   |         1 |   0.5      |
 | Ulster                     |         1 |   0        |
 | Argentina                  |         1 |   0        |
-| Hong Kong                  |         1 |   1        |
-| Netherlands                |         1 |   1        |
-| Italy                      |         1 |   0        |
-| Nevers                     |         1 |   1        |
-| Japan                      |         1 |   0        |
-| Russia                     |         1 |   1        |
-| Kenya                      |         1 |   1        |
-| Bayonne                    |         1 |   0        |
+| Glasgow Warriors           |         1 |   0        |
+| Auch                       |         1 |   0        |
 | Benetton Treviso           |         1 |   0        |
 | Spain                      |         1 |   1        |
+| Netherlands                |         1 |   1        |
+| Russia                     |         1 |   1        |
+| Japan                      |         1 |   0        |
+| Kenya                      |         1 |   1        |
+| Bayonne                    |         1 |   0        |
+| Nevers                     |         1 |   1        |
+| Italy                      |         1 |   0        |

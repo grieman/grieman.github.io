@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Ingall  
-date: 2022-12-14 11:30:37.547752  
+date: 2022-12-18 16:16:55.840782  
 categories: player  
 ---
 # Jack Ingall

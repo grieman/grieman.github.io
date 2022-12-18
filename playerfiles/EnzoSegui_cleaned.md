@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Enzo Segui  
-date: 2022-12-14 11:15:47.185699  
+date: 2022-12-18 16:18:35.876797  
 categories: player  
 ---
 # Enzo Segui

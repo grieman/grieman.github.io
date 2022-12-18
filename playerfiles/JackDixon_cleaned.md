@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Dixon  
-date: 2022-12-14 11:21:03.120756  
+date: 2022-12-18 16:21:45.697163  
 categories: player  
 ---
 # Jack Dixon
 
 ## Positions: C
 
-## Current elo: 116.0
+## Current elo: 113.0
 
-## Current Percentile: 87.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |           157 |   0.318471 |
+| Dragons |           158 |   0.316456 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -52,6 +52,7 @@ categories: player
 | Montpellier Herault  |         1 |   0        |
 | Bayonne              |         1 |   0        |
 | Leicester Tigers     |         1 |   0        |
+| Pau                  |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
 | Clermont Auvergne    |         1 |   0        |

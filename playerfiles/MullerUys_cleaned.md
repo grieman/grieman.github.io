@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Muller Uys  
-date: 2022-12-14 11:16:30.930200  
+date: 2022-12-18 16:39:51.618632  
 categories: player  
 ---
 # Muller Uys
 
 ## Positions: N8, FL
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 64.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Blue Bulls |            14 |   0.785714 |
-| Bulls      |             7 |   0.571429 |
+| Bulls      |             8 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Lions               |         2 |          1 |
 | Pumas               |         2 |          1 |
 | Edinburgh           |         1 |          0 |
+| Exeter Chiefs       |         1 |          0 |
 | Highlanders         |         1 |          1 |
 | Lyon                |         1 |          1 |
 | Natal Sharks        |         1 |          0 |

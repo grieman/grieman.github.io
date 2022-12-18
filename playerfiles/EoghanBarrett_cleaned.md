@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Eoghan Barrett  
-date: 2022-12-14 11:23:50.182399  
+date: 2022-12-18 16:22:28.195894  
 categories: player  
 ---
 # Eoghan Barrett
 
 ## Positions: W
 
-## Current elo: 91.0
+## Current elo: 95.0
 
-## Current Percentile: 41.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |            21 |   0.285714 |
+| Pau    |            22 |   0.318182 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Castres Olympique    |         1 |   0        |
 | Cheetahs             |         1 |   0        |
 | Clermont Auvergne    |         1 |   0        |
+| Dragons              |         1 |   1        |
 | Edinburgh            |         1 |   0        |
 | Lyon                 |         1 |   0        |
 | Perpignan            |         1 |   1        |

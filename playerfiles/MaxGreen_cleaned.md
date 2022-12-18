@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Green  
-date: 2022-12-12 15:16:49.803672  
+date: 2022-12-18 16:27:33.674373  
 categories: player  
 ---
 # Max Green
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bath Rugby         |            38 |   0.421053 |
+| Bath Rugby         |            39 |   0.410256 |
 | Jersey             |             7 |   0.571429 |
 | Yorkshire Carnegie |             6 |   0.666667 |
 | Bristol Rugby      |             2 |   0        |
@@ -48,5 +48,6 @@ categories: player
 | Richmond            |         1 |   1        |
 | Coventry            |         1 |   0        |
 | Stade Toulousain    |         1 |   0        |
+| Toulon              |         1 |   0        |
 | Cornish Pirates     |         1 |   1        |
 | Ampthill            |         1 |   1        |

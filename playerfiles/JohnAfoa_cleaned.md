@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: John Afoa  
-date: 2022-12-14 11:28:15.509858  
+date: 2022-12-18 16:24:57.121772  
 categories: player  
 ---
 # John Afoa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Barbarians
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 35.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Blues            |            41 |   0.573171 |
 | New Zealand      |            21 |   0.714286 |
 | Auckland         |            16 |   0.53125  |
-| Vannes           |            12 |   0.541667 |
+| Vannes           |            13 |   0.576923 |
 | Barbarians       |             1 |   1        |
 | Munster          |             1 |   1        |
 
@@ -86,9 +86,9 @@ categories: player
 | Clermont Auvergne        |         2 |   0.5      |
 | Brive                    |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
+| Ireland                  |         2 |   1        |
 | Castres Olympique        |         2 |   1        |
 | London Welsh             |         2 |   1        |
-| Ireland                  |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
 | Carcassonne              |         1 |   1        |
 | England                  |         1 |   1        |
@@ -100,11 +100,12 @@ categories: player
 | Wellington               |         1 |   1        |
 | Argentina                |         1 |   1        |
 | Bristol Rugby            |         1 |   1        |
+| Bay of Plenty            |         1 |   0        |
 | Bordeaux Begles          |         1 |   1        |
 | Montauban                |         1 |   0.5      |
-| Bay of Plenty            |         1 |   0        |
 | Hawke's Bay              |         1 |   0.5      |
 | Rouen                    |         1 |   0        |
+| Provence Rugby           |         1 |   1        |
 | Pau                      |         1 |   0        |
 | Italy                    |         1 |   1        |
 | Japan                    |         1 |   1        |

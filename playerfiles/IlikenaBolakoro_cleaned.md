@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ilikena Bolakoro  
-date: 2022-12-14 11:16:31.757647  
+date: 2022-12-18 16:33:50.299968  
 categories: player  
 ---
 # Ilikena Bolakoro
 
 ## Positions: W, C
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 56.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Colomiers          |            85 |   0.505882 |
 | Nevers             |            45 |   0.633333 |
 | Soyaux-Angouleme   |            23 |   0.543478 |
-| Dax                |            18 |   0.611111 |
+| Dax                |            19 |   0.631579 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -57,11 +57,11 @@ categories: player
 | Vannes                     |         5 |   0.7      |
 | Racing 92                  |         4 |   0.5      |
 | Colomiers                  |         4 |   1        |
+| US Bressane                |         4 |   0.75     |
 | Toulon                     |         4 |   0.75     |
 | Auch                       |         4 |   0.75     |
 | Stade Francais Paris       |         4 |   0.75     |
 | Grenoble                   |         3 |   0.666667 |
-| US Bressane                |         3 |   0.666667 |
 | Ospreys                    |         3 |   0.666667 |
 | Pau                        |         3 |   0.666667 |
 | Aironi                     |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Aungier  
-date: 2022-12-14 11:20:10.977729  
+date: 2022-12-18 16:32:31.383688  
 categories: player  
 ---
 # Jack Aungier

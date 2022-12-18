@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richard Wigglesworth  
-date: 2022-12-14 11:30:16.849539  
+date: 2022-12-18 16:15:56.763908  
 categories: player  
 ---
 # Richard Wigglesworth
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Saracens         |           247 |   0.771255 |
 | Sale Sharks      |           102 |   0.495098 |
-| Leicester Tigers |            34 |   0.705882 |
+| Leicester Tigers |            35 |   0.714286 |
 | England          |            26 |   0.615385 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -41,8 +41,8 @@ categories: player
 | Exeter Chiefs      |        22 |   0.613636 |
 | Worcester Warriors |        20 |   0.65     |
 | Sale Sharks        |        20 |   0.7      |
+| Clermont Auvergne  |        12 |   0.5      |
 | Bristol Rugby      |        11 |   0.727273 |
-| Clermont Auvergne  |        11 |   0.454545 |
 | Munster            |         9 |   0.555556 |
 | Saracens           |         8 |   0.375    |
 | Racing 92          |         8 |   0.75     |

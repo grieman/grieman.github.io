@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shamus Hurley-Langton  
-date: 2022-12-14 11:25:28.336003  
+date: 2022-12-18 16:25:50.097640  
 categories: player  
 ---
 # Shamus Hurley-Langton
 
 ## Positions: FL
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 44.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -22,11 +22,12 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Manawatu |             9 |   0.444444 |
-| Connacht |             7 |   0.428571 |
+| Connacht |             8 |   0.5      |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Otago             |         2 |        0.5 |
+| Brive             |         1 |        1   |
 | Bulls             |         1 |        0   |
 | Canterbury        |         1 |        0   |
 | Counties Manukau  |         1 |        1   |

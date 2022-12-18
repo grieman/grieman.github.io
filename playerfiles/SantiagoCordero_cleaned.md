@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Cordero  
-date: 2022-12-14 11:12:26.722442  
+date: 2022-12-18 16:27:42.644661  
 categories: player  
 ---
 # Santiago Cordero
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 68.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bordeaux Begles     |            54 |   0.638889 |
+| Bordeaux Begles     |            55 |   0.627273 |
 | Argentina           |            43 |   0.302326 |
 | Exeter Chiefs       |            34 |   0.720588 |
 | Jaguares            |            20 |   0.5      |
@@ -50,13 +50,13 @@ categories: player
 | Sale Sharks              |         3 |   1        |
 | Newcastle Falcons        |         3 |   1        |
 | Worcester Warriors       |         3 |   0.666667 |
+| Sharks                   |         3 |   0        |
 | Edinburgh                |         3 |   0.833333 |
 | Southern Kings           |         3 |   0.666667 |
 | Brive                    |         3 |   0.666667 |
 | Bristol Rugby            |         3 |   0.666667 |
 | Wales                    |         3 |   0.166667 |
 | Alumni                   |         3 |   1        |
-| Sharks                   |         2 |   0        |
 | Saracens                 |         2 |   1        |
 | San Luis                 |         2 |   0        |
 | Lyon                     |         2 |   1        |

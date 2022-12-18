@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Orlando Bailey  
-date: 2022-12-14 11:31:31.471945  
+date: 2022-12-18 16:32:09.624248  
 categories: player  
 ---
 # Orlando Bailey
 
 ## Positions: FH
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 22.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            37 |    0.22973 |
+| Bath Rugby |            38 |   0.223684 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Saracens           |         2 |   0        |
 | Glasgow Warriors   |         1 |   0        |
 | Newcastle Falcons  |         1 |   0        |
+| Toulon             |         1 |   0        |

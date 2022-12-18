@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Auradou  
-date: 2022-12-14 11:36:24.815995  
+date: 2022-12-18 16:24:56.473093  
 categories: player  
 ---
 # Paul Auradou

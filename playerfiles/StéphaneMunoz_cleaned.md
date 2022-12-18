@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Stéphane Munoz  
-date: 2022-12-14 11:33:45.425029  
+date: 2022-12-18 16:22:26.672618  
 categories: player  
 ---
 # Stéphane Munoz
 
 ## Positions: FL
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 6.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Montauban |           125 |      0.548 |
+| Montauban |           126 |   0.551587 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |        10 |   0.55     |
 | Vannes                     |         9 |   0.611111 |
+| Soyaux-Angouleme           |         9 |   0.611111 |
 | Colomiers                  |         9 |   0.666667 |
 | Beziers                    |         8 |   0.375    |
 | Biarritz Olympique         |         8 |   0.375    |
-| Soyaux-Angouleme           |         8 |   0.5625   |
 | Carcassonne                |         8 |   0.375    |
 | Mont-de-Marsan             |         6 |   0.833333 |
 | Perpignan                  |         6 |   0.333333 |

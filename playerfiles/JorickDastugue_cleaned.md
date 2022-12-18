@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jorick Dastugue  
-date: 2022-11-22 11:34:47.053193  
+date: 2022-12-18 16:38:37.036568  
 categories: player  
 ---
 # Jorick Dastugue
 
 ## Positions: N8, FL
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 60.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Rouen     |            30 |   0.283333 |
-| Colomiers |            18 |   0.444444 |
+| Colomiers |            19 |   0.421053 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,14 +35,14 @@ categories: player
 | Aurillac                   |         3 |   0.333333 |
 | Carcassonne                |         3 |   0.333333 |
 | Biarritz Olympique         |         2 |   0        |
-| Soyaux-Angouleme           |         2 |   0        |
+| Rouen                      |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
-| Perpignan                  |         2 |   0.5      |
-| Provence Rugby             |         2 |   0.25     |
-| Rouen                      |         2 |   0.5      |
+| Soyaux-Angouleme           |         2 |   0        |
 | Roval Drome XV             |         2 |   1        |
-| Oyonnax                    |         1 |   0        |
+| Oyonnax                    |         2 |   0        |
+| Provence Rugby             |         2 |   0.25     |
+| Perpignan                  |         2 |   0.5      |
 | Narbonne                   |         1 |   1        |
 | Grenoble                   |         1 |   1        |
 | Agen                       |         1 |   1        |

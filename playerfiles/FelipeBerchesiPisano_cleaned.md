@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Felipe Berchesi Pisano  
-date: 2022-12-14 11:36:20.662530  
+date: 2022-12-18 16:21:33.102641  
 categories: player  
 ---
 # Felipe Berchesi Pisano
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 57.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            44 |   0.511364 |
+| Dax         |            45 |   0.522222 |
 | Carcassonne |            24 |   0.416667 |
 | Uruguay     |            19 |   0.368421 |
 
@@ -49,6 +49,7 @@ categories: player
 | Fiji                       |         2 |   0.5      |
 | Wales                      |         2 |   0        |
 | Dax                        |         2 |   0.5      |
+| US Bressane                |         2 |   1        |
 | Carcassonne                |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Bayonne                    |         2 |   0.25     |
@@ -57,7 +58,6 @@ categories: player
 | Vannes                     |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   0        |
 | Spain                      |         1 |   1        |
-| US Bressane                |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Agen                       |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   1        |

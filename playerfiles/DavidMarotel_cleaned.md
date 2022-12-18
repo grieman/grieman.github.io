@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Marotel  
-date: 2022-12-14 11:23:01.545035  
+date: 2022-12-18 16:25:47.337668  
 categories: player  
 ---
 # David Marotel

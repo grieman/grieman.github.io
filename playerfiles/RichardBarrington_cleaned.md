@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Richard Barrington  
-date: 2022-12-12 15:16:24.994665  
+date: 2022-12-18 16:14:07.197863  
 categories: player  
 ---
 # Richard Barrington
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 87.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Saracens |           206 |   0.752427 |
-| Agen     |            10 |   0.6      |
+| Agen     |            11 |   0.545455 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -50,19 +50,20 @@ categories: player
 | Oyonnax            |         2 |   0.5      |
 | Stade Toulousain   |         2 |   0.5      |
 | Zebre              |         2 |   1        |
-| Lyon               |         2 |   1        |
 | Cardiff Blues      |         2 |   1        |
-| Montauban          |         1 |   0        |
-| Biarritz Olympique |         1 |   1        |
-| Massy              |         1 |   1        |
-| Provence Rugby     |         1 |   1        |
-| Richmond           |         1 |   1        |
-| Rouen              |         1 |   1        |
-| London Welsh       |         1 |   1        |
+| Lyon               |         2 |   1        |
+| Nevers             |         1 |   0        |
 | Jersey             |         1 |   1        |
-| Grenoble           |         1 |   0        |
-| Cornish Pirates    |         1 |   0        |
-| Connacht           |         1 |   1        |
-| Vannes             |         1 |   1        |
 | Carcassonne        |         1 |   0        |
+| Vannes             |         1 |   1        |
+| Connacht           |         1 |   1        |
+| Cornish Pirates    |         1 |   0        |
+| Grenoble           |         1 |   0        |
+| London Welsh       |         1 |   1        |
+| Montauban          |         1 |   0        |
+| Rouen              |         1 |   1        |
+| Richmond           |         1 |   1        |
+| Provence Rugby     |         1 |   1        |
+| Massy              |         1 |   1        |
+| Biarritz Olympique |         1 |   1        |
 | Mont-de-Marsan     |         1 |   1        |

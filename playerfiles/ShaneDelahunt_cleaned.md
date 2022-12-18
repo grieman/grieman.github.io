@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shane Delahunt  
-date: 2022-12-14 11:21:55.304874  
+date: 2022-12-18 16:36:06.398279  
 categories: player  
 ---
 # Shane Delahunt
 
 ## Positions: H
 
-## Current elo: 115.0
+## Current elo: 117.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           114 |        0.5 |
+| Connacht |           115 |   0.504348 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,11 +38,11 @@ categories: player
 | Dragons              |         5 |   0.6      |
 | Southern Kings       |         3 |   1        |
 | Newcastle Falcons    |         3 |   0.666667 |
+| Brive                |         3 |   1        |
 | Gloucester Rugby     |         2 |   0.5      |
 | Cheetahs             |         2 |   0.5      |
 | Oyonnax              |         2 |   1        |
 | Sale Sharks          |         2 |   0.5      |
-| Brive                |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   1        |

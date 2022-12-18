@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vano Karkadze  
-date: 2022-12-12 14:54:54.799251  
+date: 2022-12-18 16:24:05.944760  
 categories: player  
 ---
 # Vano Karkadze
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 92.0
+## Current elo: 91.0
 
 ## Current Percentile: 38.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Brive   |            30 |      0.25  |
-| Georgia |             4 |      0.625 |
+| Brive   |            31 |   0.241935 |
+| Georgia |             4 |   0.625    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,6 +38,7 @@ categories: player
 | Montpellier Herault  |         2 |       0    |
 | Castres Olympique    |         2 |       0.5  |
 | Edinburgh            |         1 |       0    |
+| Connacht             |         1 |       0    |
 | Clermont Auvergne    |         1 |       0    |
 | Belgium              |         1 |       1    |
 | Pau                  |         1 |       0    |

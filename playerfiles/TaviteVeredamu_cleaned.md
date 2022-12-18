@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tavite Veredamu  
-date: 2022-12-14 11:13:11.099962  
+date: 2022-12-18 16:16:02.864458  
 categories: player  
 ---
 # Tavite Veredamu
 
 ## Positions: W, C
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 44.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Lyon              |            10 |        0.5 |
-| Clermont Auvergne |             4 |        0.5 |
+| Lyon              |            11 |   0.454545 |
+| Clermont Auvergne |             4 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -35,5 +35,6 @@ categories: player
 | Bulls                |         1 |        0   |
 | Castres Olympique    |         1 |        1   |
 | Pau                  |         1 |        1   |
+| Saracens             |         1 |        0   |
 | Stade Francais Paris |         1 |        0   |
 | Stade Toulousain     |         1 |        1   |

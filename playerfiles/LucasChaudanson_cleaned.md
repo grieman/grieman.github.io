@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Chaudanson  
-date: 2022-12-14 11:23:04.660351  
+date: 2022-12-18 16:29:43.268978  
 categories: player  
 ---
 # Lucas Chaudanson

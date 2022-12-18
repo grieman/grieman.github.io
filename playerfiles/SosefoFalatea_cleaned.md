@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sosefo Falatea  
-date: 2022-12-14 11:29:22.781581  
+date: 2022-12-18 16:20:00.897600  
 categories: player  
 ---
 # Sosefo Falatea
 
 ## Positions: P
 
-## Current elo: 65.0
+## Current elo: 66.0
 
-## Current Percentile: 0.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -25,13 +25,13 @@ categories: player
 | Narbonne          |            19 |   0.368421 |
 | Agen              |            18 |   0        |
 | Castres Olympique |            10 |   0.5      |
-| Nevers            |             4 |   0.375    |
+| Nevers            |             5 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Perpignan            |         6 |   0.25     |
+| Agen                 |         6 |   0.333333 |
 | Pau                  |         6 |   0.166667 |
-| Agen                 |         5 |   0.2      |
+| Perpignan            |         6 |   0.25     |
 | Biarritz Olympique   |         4 |   0.375    |
 | La Rochelle          |         4 |   0        |
 | Dax                  |         3 |   0.666667 |

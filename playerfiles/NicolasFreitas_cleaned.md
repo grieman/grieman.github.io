@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Freitas  
-date: 2022-12-14 11:35:50.690212  
+date: 2022-12-18 16:38:18.282693  
 categories: player  
 ---
 # Nicolas Freitas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 98.0
+## Current elo: 97.0
 
-## Current Percentile: 65.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Uruguay       |            20 |   0.4      |
-| Vannes        |            18 |   0.444444 |
+| Vannes        |            19 |   0.473684 |
 | Penarol Rugby |             8 |   0.625    |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -32,13 +32,13 @@ categories: player
 | Romania                  |         4 |   0.25     |
 | Spain                    |         4 |   0.25     |
 | Selknam                  |         3 |   0.333333 |
-| Colomiers                |         2 |   0.5      |
+| Provence Rugby           |         2 |   0.5      |
 | Namibia                  |         2 |   1        |
 | Olimpia Lions            |         2 |   1        |
 | Oyonnax                  |         2 |   0        |
+| Colomiers                |         2 |   0.5      |
 | Aurillac                 |         2 |   0.5      |
 | Massy                    |         1 |   1        |
-| Provence Rugby           |         1 |   0        |
 | Rouen                    |         1 |   0        |
 | Soyaux-Angouleme         |         1 |   0        |
 | US Bressane              |         1 |   1        |

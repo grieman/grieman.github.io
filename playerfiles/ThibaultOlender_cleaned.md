@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault Olender  
-date: 2022-12-14 11:36:48.559024  
+date: 2022-12-18 16:17:12.898286  
 categories: player  
 ---
 # Thibault Olender
 
 ## Positions: FH
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 52.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Rouen       |            11 |   0.454545 |
+| Rouen       |            12 |   0.416667 |
 | US Bressane |             9 |   0.444444 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -32,6 +32,7 @@ categories: player
 | Grenoble         |         2 |        0   |
 | Narbonne         |         2 |        0.5 |
 | Provence Rugby   |         2 |        0   |
+| Aurillac         |         1 |        0   |
 | Carcassonne      |         1 |        0   |
 | Massy            |         1 |        1   |
 | Mont-de-Marsan   |         1 |        0   |

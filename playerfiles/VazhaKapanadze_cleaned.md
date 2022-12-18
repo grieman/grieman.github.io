@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vazha Kapanadze  
-date: 2022-12-14 11:29:11.420201  
+date: 2022-12-18 16:31:56.662928  
 categories: player  
 ---
 # Vazha Kapanadze
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 82.0
 
-## Current Percentile: 5.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            46 |   0.576087 |
+| US Bressane |            47 |    0.56383 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |         3 |   0.333333 |
 | Aurillac                   |         3 |   0.666667 |
 | Bayonne                    |         3 |   0        |
 | Nevers                     |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0        |
 | Grenoble                   |         2 |   0.5      |
-| Dax                        |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Nice                       |         2 |   0.5      |
 | Montauban                  |         2 |   0.25     |

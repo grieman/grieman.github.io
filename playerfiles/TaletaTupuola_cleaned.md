@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Taleta Tupuola  
-date: 2022-12-12 14:48:08.288467  
+date: 2022-12-18 16:14:51.618195  
 categories: player  
 ---
 # Taleta Tupuola
 
 ## Positions: C, W
 
-## Current elo: 89.0
+## Current elo: 91.0
 
-## Current Percentile: 35.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montauban           |           104 |   0.567308 |
+| Montauban           |           105 |   0.571429 |
 | Grenoble            |            53 |   0.481132 |
 | Montpellier Herault |             3 |   0.666667 |
 
@@ -37,7 +37,7 @@ categories: player
 | Carcassonne                |         7 |   0.428571 |
 | Nevers                     |         7 |   0.714286 |
 | Agen                       |         6 |   0.416667 |
-| Soyaux-Angouleme           |         5 |   0.8      |
+| Soyaux-Angouleme           |         6 |   0.833333 |
 | Rouen                      |         5 |   0.6      |
 | Vannes                     |         5 |   0.7      |
 | Bourgoin-Jallieu           |         5 |   0.8      |

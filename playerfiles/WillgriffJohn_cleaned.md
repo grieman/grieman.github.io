@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willgriff John  
-date: 2022-12-14 11:24:29.683400  
+date: 2022-12-18 16:36:30.656448  
 categories: player  
 ---
 # Willgriff John
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 108.0
+## Current elo: 110.0
 
-## Current Percentile: 84.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Sale Sharks   |            85 |   0.523529 |
 | Northland     |            18 |   0.361111 |
+| Scarlets      |            15 |   0.333333 |
 | Doncaster     |            14 |   0.571429 |
-| Scarlets      |            14 |   0.285714 |
 | Wales         |             2 |   0.5      |
 | Cardiff Blues |             1 |   0        |
 
@@ -44,42 +44,43 @@ categories: player
 | Wasps               |         4 |   0.5      |
 | London Irish        |         4 |   0.75     |
 | Bristol Rugby       |         4 |   0.875    |
+| Ospreys             |         3 |   0.333333 |
 | Connacht            |         3 |   0.333333 |
 | Hawke's Bay         |         3 |   0.333333 |
-| Ospreys             |         3 |   0.333333 |
-| Bordeaux Begles     |         2 |   0        |
-| Ealing Trailfinders |         2 |   0        |
-| Wellington          |         2 |   0.5      |
-| Bay of Plenty       |         2 |   1        |
-| Stormers            |         2 |   0        |
-| Rotherham Titans    |         2 |   1        |
-| Richmond            |         2 |   1        |
+| Auckland            |         2 |   0        |
 | Perpignan           |         2 |   1        |
-| Otago               |         2 |   0.5      |
+| Richmond            |         2 |   1        |
 | Bedford             |         2 |   1        |
 | North Harbour       |         2 |   0.75     |
-| Auckland            |         2 |   0        |
-| Glasgow Warriors    |         2 |   0        |
+| Bordeaux Begles     |         2 |   0        |
+| Rotherham Titans    |         2 |   1        |
 | Lions               |         2 |   0.5      |
 | Leinster            |         2 |   0        |
 | La Rochelle         |         2 |   0.5      |
-| Scarlets            |         1 |   1        |
-| Edinburgh           |         1 |   0        |
-| Cornish Pirates     |         1 |   0        |
-| Tasman              |         1 |   0        |
-| Taranaki            |         1 |   0        |
-| Fiji                |         1 |   1        |
+| Stormers            |         2 |   0        |
+| Glasgow Warriors    |         2 |   0        |
+| Bay of Plenty       |         2 |   1        |
+| Wellington          |         2 |   0.5      |
+| Ealing Trailfinders |         2 |   0        |
+| Otago               |         2 |   0.5      |
 | Stade Toulousain    |         1 |   0.5      |
 | Southland           |         1 |   0        |
 | South Africa        |         1 |   0        |
-| London Welsh        |         1 |   0        |
+| Scarlets            |         1 |   1        |
 | Bayonne             |         1 |   1        |
-| Lyon                |         1 |   0        |
-| Cardiff Blues       |         1 |   1        |
-| Jersey              |         1 |   0        |
-| Canterbury          |         1 |   0        |
+| Taranaki            |         1 |   0        |
+| Tasman              |         1 |   0        |
+| Cornish Pirates     |         1 |   0        |
 | Nottingham          |         1 |   1        |
-| London Scottish     |         1 |   1        |
-| Munster             |         1 |   0        |
-| Manawatu            |         1 |   0        |
 | Dragons             |         1 |   1        |
+| Manawatu            |         1 |   0        |
+| Lyon                |         1 |   0        |
+| London Welsh        |         1 |   0        |
+| London Scottish     |         1 |   1        |
+| Canterbury          |         1 |   0        |
+| Jersey              |         1 |   0        |
+| Cardiff Blues       |         1 |   1        |
+| Cheetahs            |         1 |   1        |
+| Fiji                |         1 |   1        |
+| Edinburgh           |         1 |   0        |
+| Munster             |         1 |   0        |

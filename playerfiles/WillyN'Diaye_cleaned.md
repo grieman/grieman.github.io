@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Willy N'Diaye  
-date: 2022-12-14 11:17:04.196538  
+date: 2022-12-18 16:19:27.705897  
 categories: player  
 ---
 # Willy N'Diaye
 
 ## Positions: FL, N8
 
-## Current elo: 106.0
+## Current elo: 102.0
 
-## Current Percentile: 77.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Rouen                      |            34 |   0.455882 |
+| Rouen                      |            35 |   0.442857 |
 | Valence Romans Drome Rugby |            10 |   0.2      |
 | Roval Drome XV             |             4 |   0        |
 
@@ -35,9 +35,9 @@ categories: player
 | Colomiers          |         4 |   0.25     |
 | Oyonnax            |         3 |   0.333333 |
 | Nevers             |         3 |   0.333333 |
+| Aurillac           |         3 |   0.333333 |
 | US Bressane        |         2 |   0.25     |
 | Agen               |         2 |   0.5      |
-| Aurillac           |         2 |   0.5      |
 | Carcassonne        |         2 |   0        |
 | Mont-de-Marsan     |         2 |   0.5      |
 | Narbonne           |         1 |   1        |

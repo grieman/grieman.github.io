@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Julien Farnoux  
-date: 2022-12-14 11:13:51.177538  
+date: 2022-12-18 16:25:18.092472  
 categories: player  
 ---
 # Julien Farnoux
 
 ## Positions: FB
 
-## Current elo: 98.0
+## Current elo: 101.0
 
-## Current Percentile: 68.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Perpignan |           106 |   0.523585 |
-| Grenoble  |             7 |   0.714286 |
+| Grenoble  |             8 |   0.75     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -50,6 +50,7 @@ categories: player
 | Vannes                     |         2 |   1        |
 | Clermont Auvergne          |         2 |   0        |
 | Connacht                   |         2 |   0        |
+| Massy                      |         2 |   1        |
 | Castres Olympique          |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Montpellier Herault        |         1 |   1        |
@@ -59,6 +60,5 @@ categories: player
 | Stade Francais Paris       |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |
 | Tarbes                     |         1 |   1        |
-| Massy                      |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | La Rochelle                |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Williams  
-date: 2022-12-14 11:13:49.438348  
+date: 2022-12-18 16:24:54.910580  
 categories: player  
 ---
 # Scott Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |           145 |   0.572414 |
+| Scarlets |           146 |   0.575342 |
 | Wales    |            59 |   0.610169 |
 | Ospreys  |            24 |   0.375    |
 
@@ -51,9 +51,9 @@ categories: player
 | South Africa         |         4 |  0.5       |
 | New Zealand          |         4 |  0         |
 | Leicester Tigers     |         4 |  0.25      |
+| Cheetahs             |         4 |  0.75      |
 | Harlequins           |         3 |  0.5       |
 | Scarlets             |         3 |  0.333333  |
-| Cheetahs             |         3 |  0.666667  |
 | Racing 92            |         3 |  0.5       |
 | Clermont Auvergne    |         3 |  0         |
 | Southern Kings       |         2 |  0.5       |

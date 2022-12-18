@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nadir Bouhedjeur  
-date: 2022-12-12 14:57:13.166295  
+date: 2022-12-18 16:39:31.542890  
 categories: player  
 ---
 # Nadir Bouhedjeur
 
 ## Positions: W, FB
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 82.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Provence Rugby             |            23 |   0.456522 |
-| Valence Romans Drome Rugby |             5 |   0.4      |
+| Provence Rugby             |            24 |     0.4375 |
+| Valence Romans Drome Rugby |             5 |     0.4    |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -40,3 +40,4 @@ categories: player
 | Perpignan        |         1 |   0        |
 | Rouen            |         1 |   0        |
 | Soyaux-Angouleme |         1 |   1        |
+| Vannes           |         1 |   0        |

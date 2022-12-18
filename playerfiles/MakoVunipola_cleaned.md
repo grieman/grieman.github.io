@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mako Vunipola  
-date: 2022-12-14 11:12:35.147352  
+date: 2022-12-18 16:33:47.366657  
 categories: player  
 ---
 # Mako Vunipola
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           203 |   0.805419 |
+| Saracens                |           204 |   0.806373 |
 | England                 |            65 |   0.730769 |
 | British and Irish Lions |            10 |   0.55     |
 
@@ -37,41 +37,41 @@ categories: player
 | Australia           |        12 |   0.75     |
 | Wasps               |        12 |   0.916667 |
 | Leicester Tigers    |        11 |   0.863636 |
-| Worcester Warriors  |        10 |   1        |
-| Newcastle Falcons   |        10 |   1        |
 | Gloucester Rugby    |        10 |   0.6      |
+| Newcastle Falcons   |        10 |   1        |
+| Worcester Warriors  |        10 |   1        |
 | Ireland             |         9 |   0.555556 |
 | London Irish        |         9 |   0.833333 |
-| France              |         8 |   0.75     |
 | South Africa        |         8 |   0.25     |
+| France              |         8 |   0.75     |
 | Italy               |         8 |   1        |
 | Scotland            |         7 |   0.857143 |
 | Wales               |         7 |   0.571429 |
 | Clermont Auvergne   |         7 |   0.285714 |
 | Racing 92           |         6 |   0.833333 |
 | Munster             |         6 |   0.833333 |
-| Bristol Rugby       |         5 |   0.8      |
 | New Zealand         |         5 |   0.6      |
-| Ulster              |         4 |   1        |
+| Bristol Rugby       |         5 |   0.8      |
+| Argentina           |         4 |   0.75     |
 | Stade Toulousain    |         4 |   0.5      |
 | Edinburgh           |         4 |   0.75     |
-| Argentina           |         4 |   0.75     |
-| London Welsh        |         3 |   1        |
+| Ulster              |         4 |   1        |
 | Leinster            |         3 |   0.666667 |
-| Toulon              |         3 |   0.333333 |
+| London Welsh        |         3 |   1        |
 | Glasgow Warriors    |         3 |   1        |
 | Ospreys             |         3 |   0.833333 |
-| Connacht            |         2 |   1        |
+| Toulon              |         3 |   0.333333 |
 | Cardiff Blues       |         2 |   1        |
+| Lyon                |         2 |   1        |
 | Fiji                |         2 |   1        |
 | Oyonnax             |         2 |   1        |
-| Uruguay             |         1 |   1        |
+| Connacht            |         2 |   1        |
 | Scarlets            |         1 |   1        |
+| Uruguay             |         1 |   1        |
 | Ampthill            |         1 |   1        |
 | Provincial Union XV |         1 |   1        |
 | Nottingham          |         1 |   1        |
 | New Zealand Maori   |         1 |   1        |
-| Lyon                |         1 |   1        |
 | Japan               |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
 | Doncaster           |         1 |   1        |

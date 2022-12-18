@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo Castinel  
-date: 2022-12-14 11:35:29.592593  
+date: 2022-12-18 16:18:01.984298  
 categories: player  
 ---
 # Théo Castinel

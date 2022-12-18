@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Strippoli  
-date: 2022-12-14 11:31:42.010391  
+date: 2022-12-18 16:32:56.938155  
 categories: player  
 ---
 # Pierre Strippoli

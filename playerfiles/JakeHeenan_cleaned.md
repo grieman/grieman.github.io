@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jake Heenan  
-date: 2022-12-14 11:35:03.173483  
+date: 2022-12-18 16:15:59.715595  
 categories: player  
 ---
 # Jake Heenan
 
 ## Positions: FL
 
-## Current elo: 85.0
+## Current elo: 82.0
 
 ## Current Percentile: 12.0
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bristol Rugby    |            73 |   0.568493 |
+| Bristol Rugby    |            74 |   0.574324 |
 | Connacht         |            56 |   0.464286 |
 | Hartpury College |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Zebre                |         8 |   0.8125   |
+| Zebre                |         9 |   0.833333 |
 | Wasps                |         8 |   0.375    |
 | Scarlets             |         7 |   0.142857 |
 | Dragons              |         7 |   0.714286 |

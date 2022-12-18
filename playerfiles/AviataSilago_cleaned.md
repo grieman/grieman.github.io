@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Aviata Silago  
-date: 2022-12-12 15:11:57.297942  
+date: 2022-12-18 16:27:07.428546  
 categories: player  
 ---
 # Aviata Silago
 
 ## Positions: C, FH
 
-## Current elo: 77.0
+## Current elo: 79.0
 
 ## Current Percentile: 4.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Montauban        |            53 |  0.481132  |
-| Nevers           |            25 |  0.56      |
+| Nevers           |            26 |  0.576923  |
 | Bourgoin-Jallieu |            14 |  0.0714286 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -40,13 +40,13 @@ categories: player
 | Perpignan                  |         4 |   0        |
 | Aurillac                   |         4 |   0.75     |
 | Rouen                      |         3 |   1        |
+| Agen                       |         3 |   0.333333 |
 | Brive                      |         2 |   0.5      |
 | Albi                       |         2 |   0        |
 | Montauban                  |         2 |   0        |
 | Provence Rugby             |         2 |   0.5      |
 | Roval Drome XV             |         2 |   1        |
 | US Bressane                |         2 |   1        |
-| Agen                       |         2 |   0        |
 | Dax                        |         1 |   1        |
 | Massy                      |         1 |   1        |
 | Narbonne                   |         1 |   1        |

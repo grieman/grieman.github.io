@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Tagi  
-date: 2022-12-14 11:36:43.922392  
+date: 2022-12-18 16:12:20.686316  
 categories: player  
 ---
 # Luke Tagi
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 42.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Provence Rugby       |            34 |   0.617647 |
+| Provence Rugby       |            35 |   0.6      |
 | Stade Francais Paris |            20 |   0.35     |
 | Fiji                 |             3 |   0.166667 |
 | Fijian Drua          |             1 |   1        |
@@ -44,16 +44,17 @@ categories: player
 | Mont-de-Marsan      |         2 |   0.5      |
 | Aurillac            |         2 |   0.5      |
 | Zebre               |         2 |   0.5      |
-| Bordeaux Begles     |         2 |   0.5      |
 | Grenoble            |         2 |   1        |
 | Colomiers           |         2 |   0.5      |
 | Beziers             |         2 |   1        |
+| Bordeaux Begles     |         2 |   0.5      |
 | Lyon                |         1 |   0        |
+| Racing 92           |         1 |   0        |
+| Vannes              |         1 |   0        |
 | Benetton Treviso    |         1 |   0        |
 | Toulon              |         1 |   1        |
 | Soyaux-Angouleme    |         1 |   1        |
 | Scotland            |         1 |   0        |
-| Racing 92           |         1 |   0        |
 | Bristol Rugby       |         1 |   0        |
 | Massy               |         1 |   0        |
 | New Zealand Maori   |         1 |   0        |

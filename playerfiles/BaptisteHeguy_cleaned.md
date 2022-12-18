@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Heguy  
-date: 2022-12-14 11:14:25.468196  
+date: 2022-12-18 16:38:59.328273  
 categories: player  
 ---
 # Baptiste Heguy

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dave Ewers  
-date: 2022-12-14 11:20:25.255301  
+date: 2022-12-18 16:22:17.428204  
 categories: player  
 ---
 # Dave Ewers
 
 ## Positions: FL, N8
 
-## Current elo: 127.0
+## Current elo: 129.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           209 |   0.677033 |
+| Exeter Chiefs |           210 |   0.678571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,21 +36,22 @@ categories: player
 | Northampton Saints  |        14 |   0.714286 |
 | Saracens            |        13 |   0.384615 |
 | London Irish        |        11 |   0.818182 |
+| Glasgow Warriors    |         4 |   0.375    |
 | London Welsh        |         4 |   1        |
 | Bristol Rugby       |         4 |   0.75     |
-| Glasgow Warriors    |         4 |   0.375    |
 | Cardiff Blues       |         3 |   0.833333 |
 | La Rochelle         |         3 |   1        |
 | Ospreys             |         3 |   0.666667 |
 | Dragons             |         2 |   1        |
-| Toulon              |         2 |   0        |
 | Bordeaux Begles     |         2 |   0.5      |
+| Toulon              |         2 |   0        |
 | Connacht            |         2 |   1        |
-| Bayonne             |         1 |   1        |
-| Montpellier Herault |         1 |   1        |
-| Munster             |         1 |   0.5      |
-| Castres Olympique   |         1 |   1        |
-| Racing 92           |         1 |   1        |
-| Cavalieri Prato     |         1 |   1        |
-| Scarlets            |         1 |   1        |
 | Stade Toulousain    |         1 |   1        |
+| Scarlets            |         1 |   1        |
+| Cavalieri Prato     |         1 |   1        |
+| Racing 92           |         1 |   1        |
+| Montpellier Herault |         1 |   1        |
+| Bayonne             |         1 |   1        |
+| Bulls               |         1 |   1        |
+| Castres Olympique   |         1 |   1        |
+| Munster             |         1 |   0.5      |

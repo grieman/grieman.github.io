@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jessy Jegerlehner  
-date: 2022-12-12 15:39:31.639235  
+date: 2022-12-18 16:20:10.311411  
 categories: player  
 ---
 # Jessy Jegerlehner
 
 ## Positions: FL
 
-## Current elo: 62.0
+## Current elo: 64.0
 
 ## Current Percentile: 0.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Agen           |            55 |   0.172727 |
-| Provence Rugby |             9 |   0.611111 |
+| Provence Rugby |            10 |   0.55     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,9 +42,9 @@ categories: player
 | Zebre                |         2 |   0.5      |
 | Harlequins           |         2 |   0        |
 | Edinburgh            |         2 |   0        |
+| Vannes               |         2 |   0        |
 | Gloucester Rugby     |         2 |   0        |
 | Oyonnax              |         1 |   0.5      |
-| Vannes               |         1 |   0        |
 | Wasps                |         1 |   0        |
 | Aurillac             |         1 |   0        |
 | Nevers               |         1 |   0        |

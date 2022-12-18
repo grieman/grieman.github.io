@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Mathy  
-date: 2022-12-12 15:28:52.180412  
+date: 2022-12-18 16:26:15.598113  
 categories: player  
 ---
 # Maxime Mathy
 
 ## Positions: C
 
-## Current elo: 104.0
+## Current elo: 107.0
 
-## Current Percentile: 81.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Montauban |           110 |   0.513636 |
+| Montauban |           111 |   0.518018 |
 | Dax       |            23 |   0.369565 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,11 +38,11 @@ categories: player
 | Oyonnax                    |         5 |   0.5      |
 | Grenoble                   |         5 |   0.5      |
 | Albi                       |         5 |   0.8      |
+| Soyaux-Angouleme           |         5 |   0.8      |
 | Nevers                     |         5 |   0.8      |
 | Provence Rugby             |         5 |   0.4      |
 | Rouen                      |         4 |   0.5      |
 | Dax                        |         4 |   0.75     |
-| Soyaux-Angouleme           |         4 |   0.75     |
 | US Bressane                |         3 |   0.666667 |
 | Lyon                       |         3 |   0        |
 | Bayonne                    |         3 |   0        |

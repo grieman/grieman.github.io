@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Thacker  
-date: 2022-12-14 11:33:48.347146  
+date: 2022-12-18 16:18:39.826783  
 categories: player  
 ---
 # Charlie Thacker

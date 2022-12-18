@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Francis  
-date: 2022-12-14 11:32:51.826209  
+date: 2022-12-18 16:36:36.723225  
 categories: player  
 ---
 # Tomas Francis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 117.0
+## Current elo: 118.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Exeter Chiefs           |           122 |   0.717213 |
 | Wales                   |            64 |   0.570312 |
-| Ospreys                 |            17 |   0.529412 |
+| Ospreys                 |            18 |   0.555556 |
 | British and Irish Lions |             2 |   0.75     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -52,28 +52,28 @@ categories: player
 | Bristol Rugby       |         4 |   0.75     |
 | Italy               |         4 |   1        |
 | Dragons             |         4 |   0.75     |
-| Clermont Auvergne   |         3 |   0.333333 |
+| Montpellier Herault |         3 |   1        |
 | Scarlets            |         3 |   0.5      |
+| Clermont Auvergne   |         3 |   0.333333 |
 | Argentina           |         3 |   1        |
 | Castres Olympique   |         2 |   0.5      |
-| London Welsh        |         2 |   1        |
-| Montpellier Herault |         2 |   1        |
 | Leinster            |         2 |   0        |
-| Georgia             |         2 |   1        |
 | Ulster              |         2 |   0.5      |
+| Georgia             |         2 |   1        |
 | Tonga               |         2 |   1        |
-| Cardiff Blues       |         2 |   1        |
 | Stormers            |         2 |   0.25     |
+| Cardiff Blues       |         2 |   1        |
+| London Welsh        |         2 |   1        |
 | Fiji                |         2 |   1        |
 | Bordeaux Begles     |         1 |   0        |
 | Benetton Treviso    |         1 |   1        |
 | Uruguay             |         1 |   1        |
 | Stade Toulousain    |         1 |   1        |
-| Lions               |         1 |   0        |
-| Hurricanes          |         1 |   0.5      |
 | Connacht            |         1 |   1        |
+| Hurricanes          |         1 |   0.5      |
 | Racing 92           |         1 |   1        |
 | Ospreys             |         1 |   0        |
 | Chiefs              |         1 |   1        |
 | Munster             |         1 |   0.5      |
+| Lions               |         1 |   0        |
 | Bulls               |         1 |   0        |

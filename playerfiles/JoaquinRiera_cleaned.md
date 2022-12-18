@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joaquin Riera  
-date: 2022-12-14 11:36:54.789049  
+date: 2022-12-18 16:16:44.500976  
 categories: player  
 ---
 # Joaquin Riera
 
 ## Positions: C
 
-## Current elo: 89.0
+## Current elo: 93.0
 
-## Current Percentile: 29.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            35 |   0.271429 |
+| Benetton Treviso |            36 |   0.291667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,5 +36,6 @@ categories: player
 | Scarlets             |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Zebre                |         2 |   0.5      |
+| Bayonne              |         1 |   1        |
 | Sharks               |         1 |   0        |
 | Stormers             |         1 |   1        |

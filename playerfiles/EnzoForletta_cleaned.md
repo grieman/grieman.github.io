@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Enzo Forletta  
-date: 2022-12-14 11:14:20.041623  
+date: 2022-12-18 16:14:15.888528  
 categories: player  
 ---
 # Enzo Forletta
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 107.0
 
-## Current Percentile: 87.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Perpignan           |           100 |   0.52     |
-| Montpellier Herault |            51 |   0.578431 |
+| Montpellier Herault |            52 |   0.567308 |
 | France              |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -52,8 +52,8 @@ categories: player
 | Aurillac             |         4 |   0.625    |
 | Colomiers            |         4 |   0.5      |
 | Bayonne              |         4 |   0.75     |
-| Brive                |         4 |   0.875    |
 | Beziers              |         4 |   0.75     |
+| Brive                |         4 |   0.875    |
 | Dax                  |         3 |   0.333333 |
 | Albi                 |         2 |   0.5      |
 | Australia            |         2 |   0.5      |
@@ -64,6 +64,7 @@ categories: player
 | Nevers               |         2 |   0.5      |
 | London Irish         |         1 |   1        |
 | Roval Drome XV       |         1 |   1        |
+| Ospreys              |         1 |   0        |
 | Tarbes               |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
 | Provence Rugby       |         1 |   0        |

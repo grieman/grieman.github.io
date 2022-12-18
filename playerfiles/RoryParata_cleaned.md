@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Parata  
-date: 2022-12-14 11:14:08.346616  
+date: 2022-12-18 16:37:31.452630  
 categories: player  
 ---
 # Rory Parata

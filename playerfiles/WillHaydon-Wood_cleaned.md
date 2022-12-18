@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Will Haydon-Wood  
-date: 2022-12-12 14:59:33.729006  
+date: 2022-12-18 16:23:53.814185  
 categories: player  
 ---
 # Will Haydon-Wood
 
 ## Positions: FH
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: 57.0
 
@@ -22,8 +22,8 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Newcastle Falcons |            20 |      0.225 |
+| Massy             |             2 |      0     |
 | Wasps             |             2 |      0     |
-| Massy             |             1 |      0     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,5 +38,6 @@ categories: player
 | Worcester Warriors |         2 |   0.75     |
 | Agen               |         1 |   0        |
 | Gloucester Rugby   |         1 |   0        |
+| Grenoble           |         1 |   0        |
 | Leicester Tigers   |         1 |   0        |
 | Sale Sharks        |         1 |   0        |

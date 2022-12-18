@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Richie Arnold  
-date: 2022-12-14 11:32:07.629632  
+date: 2022-12-18 16:34:54.295933  
 categories: player  
 ---
 # Richie Arnold
 
 ## Positions: L
 
-## Current elo: 85.0
+## Current elo: 89.0
 
-## Current Percentile: 12.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Stade Toulousain   |            62 |   0.612903 |
+| Stade Toulousain   |            63 |   0.619048 |
 | Brumbies           |            10 |   0.6      |
 | Western Force      |             7 |   0.428571 |
 | Perth Spirit       |             6 |   0.666667 |
@@ -33,28 +33,29 @@ categories: player
 | La Rochelle                       |         7 |   0.857143 |
 | Racing 92                         |         7 |   0.714286 |
 | Lyon                              |         6 |   0.166667 |
-| Clermont Auvergne                 |         5 |   0.8      |
-| Pau                               |         5 |   0.6      |
 | Castres Olympique                 |         5 |   0.5      |
-| Toulon                            |         4 |   0.75     |
-| Stade Francais Paris              |         4 |   0.375    |
+| Pau                               |         5 |   0.6      |
+| Clermont Auvergne                 |         5 |   0.8      |
 | Brive                             |         4 |   0.75     |
+| Stade Francais Paris              |         4 |   0.375    |
+| Toulon                            |         4 |   0.75     |
 | Perpignan                         |         3 |   0.666667 |
+| Sunwolves                         |         2 |   1        |
+| New South Wales Waratahs          |         2 |   0.5      |
+| Leinster                          |         2 |   0        |
 | Melbourne Rising                  |         2 |   0.5      |
 | Montpellier Herault               |         2 |   0.5      |
 | Hurricanes                        |         2 |   0.5      |
-| New South Wales Waratahs          |         2 |   0.5      |
-| Leinster                          |         2 |   0        |
 | Queensland Reds                   |         2 |   0.5      |
-| Sunwolves                         |         2 |   1        |
-| Queensland Country                |         1 |   1        |
-| Sharks                            |         1 |   1        |
-| Southern Kings                    |         1 |   1        |
+| Toyota Verblitz                   |         1 |   1        |
 | Munster                           |         1 |   1        |
-| Sydney Rays                       |         1 |   0        |
+| Queensland Country                |         1 |   1        |
 | Sydney Stars                      |         1 |   0        |
 | Melbourne Rebels                  |         1 |   0        |
-| Toyota Verblitz                   |         1 |   1        |
+| Sale Sharks                       |         1 |   1        |
+| Sydney Rays                       |         1 |   0        |
+| Sharks                            |         1 |   1        |
+| Southern Kings                    |         1 |   1        |
 | Agen                              |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |
 | Bath Rugby                        |         1 |   1        |

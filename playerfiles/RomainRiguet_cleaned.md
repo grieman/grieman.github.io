@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Riguet  
-date: 2022-12-14 11:35:57.998692  
+date: 2022-12-18 16:31:03.021459  
 categories: player  
 ---
 # Romain Riguet

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Filimo Taofifenua  
-date: 2022-12-09 13:24:28.867232  
+date: 2022-12-18 16:25:10.980213  
 categories: player  
 ---
 # Filimo Taofifenua
@@ -23,7 +23,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Bayonne |            63 |   0.468254 |
 | Dax     |            44 |   0.409091 |
-| Oyonnax |            10 |   0.8      |
+| Oyonnax |            11 |   0.818182 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,10 +32,10 @@ categories: player
 | Beziers              |         6 |   0.333333 |
 | Nevers               |         6 |   0.583333 |
 | Mont-de-Marsan       |         6 |   0.166667 |
+| Colomiers            |         5 |   1        |
 | Perpignan            |         5 |   0.6      |
 | Montauban            |         5 |   0.4      |
 | Agen                 |         4 |   0.25     |
-| Colomiers            |         4 |   1        |
 | Stade Toulousain     |         4 |   0.5      |
 | Narbonne             |         4 |   0.5      |
 | Massy                |         4 |   0.75     |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Temo Matiu  
-date: 2022-12-14 11:18:23.450184  
+date: 2022-12-18 16:39:00.730362  
 categories: player  
 ---
 # Temo Matiu
 
 ## Positions: FL
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: None
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |             5 |        0.9 |
+| Biarritz Olympique |             6 |       0.75 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Aurillac         |         1 |        1   |
+| Beziers          |         1 |        0   |
 | Grenoble         |         1 |        0.5 |
 | Massy            |         1 |        1   |
 | Provence Rugby   |         1 |        1   |

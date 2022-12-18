@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor Kutlwano Sekekete  
-date: 2022-12-14 11:14:33.166824  
+date: 2022-12-18 16:21:30.334224  
 categories: player  
 ---
 # Victor Kutlwano Sekekete
 
 ## Positions: L, FL
 
-## Current elo: 112.0
+## Current elo: 107.0
 
-## Current Percentile: 86.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Free State Cheetahs    |            17 |   0.588235 |
 | Griquas                |             5 |   0.8      |
-| Cheetahs               |             1 |   1        |
+| Cheetahs               |             2 |   0.5      |
 | Eastern Province Kings |             1 |   0        |
 | Golden Lions           |             1 |   1        |
 
@@ -37,4 +37,5 @@ categories: player
 | Golden Lions     |         2 |       0.5  |
 | Boland Cavaliers |         1 |       1    |
 | Pau              |         1 |       1    |
+| Scarlets         |         1 |       0    |
 | Valke            |         1 |       0    |

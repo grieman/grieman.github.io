@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Akker van der Merwe  
-date: 2022-12-14 11:32:06.839616  
+date: 2022-12-18 16:26:00.017057  
 categories: player  
 ---
 # Akker van der Merwe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 120.0
+## Current elo: 118.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
+| Sale Sharks  |            50 |   0.64     |
 | Lions        |            49 |   0.683673 |
-| Sale Sharks  |            49 |   0.653061 |
 | Sharks       |            24 |   0.5      |
 | Golden Lions |            13 |   0.615385 |
 | Leopards     |             3 |   0.666667 |
@@ -73,6 +73,7 @@ categories: player
 | Glasgow Warriors         |         1 |   0        |
 | Oyonnax                  |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
+| Stade Toulousain         |         1 |   0        |
 | Grenoble                 |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Valke                    |         1 |   1        |

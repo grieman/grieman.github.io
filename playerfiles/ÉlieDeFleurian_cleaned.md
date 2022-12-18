@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Élie De Fleurian  
-date: 2022-12-14 11:22:38.502086  
+date: 2022-12-18 16:20:44.259039  
 categories: player  
 ---
 # Élie De Fleurian
 
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| US Bressane      |            17 |   0.470588 |
+| US Bressane      |            18 |   0.444444 |
 | Bourgoin-Jallieu |             6 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |         3 |        0   |
 | Carcassonne                |         2 |        0   |
 | Cognac Saint Jean d'Angély |         2 |        0.5 |
-| Dax                        |         2 |        0   |
 | Agen                       |         1 |        1   |
 | Nevers                     |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        1   |

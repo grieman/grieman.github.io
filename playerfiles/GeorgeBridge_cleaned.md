@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Bridge  
-date: 2022-12-14 11:34:19.507741  
+date: 2022-12-18 16:33:37.941423  
 categories: player  
 ---
 # George Bridge
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 120.0
+## Current elo: 118.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Crusaders           |            83 |   0.843373 |
 | Canterbury          |            40 |   0.8      |
 | New Zealand         |            19 |   0.789474 |
-| Montpellier Herault |             2 |   0.5      |
+| Montpellier Herault |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -73,6 +73,7 @@ categories: player
 | France                   |         1 |   0        |
 | Ireland                  |         1 |   1        |
 | Italy                    |         1 |   1        |
+| Ospreys                  |         1 |   0        |
 | Japan                    |         1 |   1        |
 | London Irish             |         1 |   1        |
 | Southland                |         1 |   1        |

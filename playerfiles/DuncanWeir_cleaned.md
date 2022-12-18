@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duncan Weir  
-date: 2022-12-14 11:30:07.281560  
+date: 2022-12-18 16:12:27.014836  
 categories: player  
 ---
 # Duncan Weir
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 51.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Glasgow Warriors   |           127 |   0.586614 |
+| Glasgow Warriors   |           128 |   0.589844 |
 | Worcester Warriors |            50 |   0.32     |
 | Edinburgh          |            35 |   0.485714 |
 | Scotland           |            27 |   0.37037  |
@@ -67,12 +67,13 @@ categories: player
 | South Africa             |         2 |   0        |
 | Stade Francais Paris     |         2 |   0.5      |
 | Stade Toulousain         |         2 |   0        |
-| Australia                |         1 |   0        |
 | United States of America |         1 |   1        |
+| Australia                |         1 |   0        |
 | Bulls                    |         1 |   0        |
 | La Rochelle              |         1 |   0        |
 | Timisoara Saracens       |         1 |   1        |
 | Stormers                 |         1 |   0        |
+| Perpignan                |         1 |   1        |
 | Pau                      |         1 |   1        |
 | Argentina                |         1 |   1        |
 | Lions                    |         1 |   1        |

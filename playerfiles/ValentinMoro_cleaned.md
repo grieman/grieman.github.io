@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Valentin Moro  
-date: 2022-12-14 11:20:56.824522  
+date: 2022-12-18 16:26:01.638175  
 categories: player  
 ---
 # Valentin Moro

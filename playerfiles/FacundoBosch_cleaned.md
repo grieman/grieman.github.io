@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Bosch  
-date: 2022-12-14 11:36:46.767269  
+date: 2022-12-18 16:30:30.672599  
 categories: player  
 ---
 # Facundo Bosch

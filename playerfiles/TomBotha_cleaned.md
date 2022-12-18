@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom Botha  
-date: 2022-12-14 11:17:43.690513  
+date: 2022-12-18 16:31:41.580634  
 categories: player  
 ---
 # Tom Botha
 
 ## Positions: P
 
-## Current elo: 78.0
+## Current elo: 81.0
 
 ## Current Percentile: 3.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Ospreys                |            76 |   0.467105 |
+| Ospreys                |            77 |   0.474026 |
 | Cheetahs               |            33 |   0.454545 |
 | Southern Kings         |            15 |   0.133333 |
 | Eastern Province Kings |            14 |   0.142857 |
@@ -42,29 +42,30 @@ categories: player
 | Sharks                 |         5 |   0        |
 | Leinster               |         5 |   0.4      |
 | Benetton Treviso       |         5 |   0.8      |
+| Bulls                  |         4 |   0        |
 | Golden Lions           |         4 |   0.25     |
 | Blue Bulls             |         4 |   0.5      |
-| Bulls                  |         4 |   0        |
 | Lions                  |         4 |   0        |
 | Edinburgh              |         4 |   1        |
+| Natal Sharks           |         3 |   0.333333 |
+| Cheetahs               |         3 |   0.666667 |
 | Jaguares               |         3 |   0.333333 |
 | Western Province       |         3 |   0.333333 |
 | Sunwolves              |         3 |   1        |
-| Cheetahs               |         3 |   0.666667 |
-| Natal Sharks           |         3 |   0.333333 |
-| Pumas                  |         2 |   0        |
-| Blues                  |         2 |   0        |
-| Stade Francais Paris   |         2 |   0.5      |
 | Chiefs                 |         2 |   0        |
+| Pumas                  |         2 |   0        |
 | Free State Cheetahs    |         2 |   0.5      |
 | Crusaders              |         2 |   0        |
+| Stade Francais Paris   |         2 |   0.5      |
 | Hurricanes             |         2 |   0        |
 | Highlanders            |         2 |   0        |
-| Saracens               |         1 |   0        |
-| Ospreys                |         1 |   1        |
-| Eastern Province Kings |         1 |   1        |
-| Leicester Tigers       |         1 |   0        |
+| Blues                  |         2 |   0        |
 | Boland Cavaliers       |         1 |   1        |
-| Griquas                |         1 |   1        |
 | Worcester Warriors     |         1 |   0        |
+| Ospreys                |         1 |   1        |
+| Saracens               |         1 |   0        |
 | Pau                    |         1 |   1        |
+| Montpellier Herault    |         1 |   1        |
+| Eastern Province Kings |         1 |   1        |
+| Griquas                |         1 |   1        |
+| Leicester Tigers       |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romaric Camou  
-date: 2022-11-22 11:31:24.914661  
+date: 2022-12-18 16:12:59.410382  
 categories: player  
 ---
 # Romaric Camou
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 86.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Nevers      |            46 |   0.608696 |
 | La Rochelle |            11 |   0.5      |
-| Vannes      |            10 |   0.6      |
+| Vannes      |            11 |   0.636364 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,11 +37,11 @@ categories: player
 | Oyonnax              |         3 |   0        |
 | Soyaux-Angouleme     |         3 |   0.333333 |
 | Grenoble             |         3 |   0.666667 |
+| Provence Rugby       |         3 |   0.666667 |
 | Aurillac             |         3 |   1        |
 | Montpellier Herault  |         3 |   0.333333 |
 | US Bressane          |         2 |   1        |
 | RC Enisei            |         2 |   1        |
-| Provence Rugby       |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |
 | Agen                 |         2 |   0        |
 | Clermont Auvergne    |         2 |   0.25     |

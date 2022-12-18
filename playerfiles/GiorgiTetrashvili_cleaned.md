@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Tetrashvili  
-date: 2022-12-12 15:07:03.321911  
+date: 2022-12-18 16:27:57.196488  
 categories: player  
 ---
 # Giorgi Tetrashvili
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Agen      |            90 |   0.255556 |
-| Perpignan |            15 |   0.333333 |
+| Perpignan |            16 |   0.3125   |
 | Albi      |            11 |   0.363636 |
 | Georgia   |             1 |   1        |
 
@@ -51,19 +51,20 @@ categories: player
 | Albi                 |         2 |   0.5      |
 | Benetton Treviso     |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |
-| London Irish         |         1 |   0        |
 | Auch                 |         1 |   0.5      |
+| Provence Rugby       |         1 |   0        |
 | Wasps                |         1 |   0        |
 | Beziers              |         1 |   0        |
 | Bourgoin-Jallieu     |         1 |   1        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Carcassonne          |         1 |   1        |
-| Provence Rugby       |         1 |   0        |
 | Portugal             |         1 |   1        |
+| London Irish         |         1 |   0        |
 | Perpignan            |         1 |   1        |
 | Colomiers            |         1 |   0.5      |
 | Edinburgh            |         1 |   0        |
+| Glasgow Warriors     |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
-| Harlequins           |         1 |   0        |
 | Massy                |         1 |   1        |
+| Harlequins           |         1 |   0        |
 | Zebre                |         1 |   0        |

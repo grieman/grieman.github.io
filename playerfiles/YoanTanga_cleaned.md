@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoan Tanga  
-date: 2022-12-14 11:16:27.226090  
+date: 2022-12-18 16:20:15.083876  
 categories: player  
 ---
 # Yoan Tanga
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 65.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Racing 92   |            59 |   0.59322  |
 | Agen        |            46 |   0.380435 |
-| La Rochelle |             9 |   0.666667 |
+| La Rochelle |            10 |   0.7      |
 | France      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -56,3 +56,4 @@ categories: player
 | Racing 92            |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |
+| Ulster               |         1 |   1        |

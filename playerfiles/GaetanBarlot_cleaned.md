@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaetan Barlot  
-date: 2022-12-14 11:21:50.402793  
+date: 2022-12-18 16:22:54.279806  
 categories: player  
 ---
 # Gaetan Barlot

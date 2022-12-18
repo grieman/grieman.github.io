@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Sheedy  
-date: 2022-12-14 11:36:15.710720  
+date: 2022-12-18 16:34:56.578080  
 categories: player  
 ---
 # Callum Sheedy
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |           110 |   0.568182 |
+| Bristol Rugby |           111 |   0.572072 |
 | Wales         |            12 |   0.625    |
 | Jersey        |             7 |   0.857143 |
 
@@ -41,7 +41,7 @@ categories: player
 | Northampton Saints   |         7 |   0.428571 |
 | Newcastle Falcons    |         6 |   0.666667 |
 | London Irish         |         6 |   0.833333 |
-| Zebre                |         4 |   0.625    |
+| Zebre                |         5 |   0.7      |
 | La Rochelle          |         3 |   0.333333 |
 | RC Enisei            |         2 |   1        |
 | London Scottish      |         2 |   1        |

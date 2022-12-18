@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gabriel Quesmel  
-date: 2022-12-14 11:11:55.672448  
+date: 2022-12-18 16:29:24.953420  
 categories: player  
 ---
 # Gabriel Quesmel

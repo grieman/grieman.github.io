@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tanguy Lacoste  
-date: 2022-12-14 11:35:10.552922  
+date: 2022-12-18 16:30:34.892773  
 categories: player  
 ---
 # Tanguy Lacoste

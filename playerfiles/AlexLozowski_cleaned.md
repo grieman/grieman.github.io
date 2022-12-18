@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Lozowski  
-date: 2022-12-14 11:12:58.071153  
+date: 2022-12-18 16:28:55.237387  
 categories: player  
 ---
 # Alex Lozowski
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 55.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Saracens            |           140 |   0.742857 |
+| Saracens            |           141 |   0.744681 |
 | Wasps               |            32 |   0.609375 |
 | Montpellier Herault |            20 |   0.45     |
 | England             |             5 |   1        |
@@ -49,21 +49,21 @@ categories: player
 | Glasgow Warriors     |         4 |   1        |
 | Clermont Auvergne    |         4 |   0.5      |
 | Castres Olympique    |         4 |   0.5      |
-| Racing 92            |         3 |   0.333333 |
 | Argentina            |         3 |   1        |
+| Lyon                 |         3 |   0.666667 |
 | Cardiff Blues        |         3 |   0.666667 |
+| Racing 92            |         3 |   0.333333 |
 | La Rochelle          |         2 |   0.5      |
+| Brive                |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0.5      |
 | Scarlets             |         2 |   0.75     |
-| Brive                |         2 |   0.5      |
 | Agen                 |         2 |   1        |
 | Edinburgh            |         2 |   0.5      |
-| Lyon                 |         2 |   0.5      |
 | London Welsh         |         2 |   1        |
-| Japan                |         1 |   1        |
 | Samoa                |         1 |   1        |
 | Saracens             |         1 |   0        |
+| Japan                |         1 |   1        |
 | Stade Francais Paris |         1 |   1        |
 | Bordeaux Begles      |         1 |   0        |
 | Pau                  |         1 |   0        |

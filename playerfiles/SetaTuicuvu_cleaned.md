@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta Tuicuvu  
-date: 2022-12-12 15:25:21.086981  
+date: 2022-12-18 16:29:53.328767  
 categories: player  
 ---
 # Seta Tuicuvu
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Brive             |            45 |   0.233333 |
+| Brive             |            46 |   0.228261 |
 | Clermont Auvergne |            25 |   0.46     |
 | Fiji              |            10 |   0.25     |
 
@@ -40,22 +40,23 @@ categories: player
 | Clermont Auvergne    |         4 |   0.25     |
 | Toulon               |         4 |   0.25     |
 | Perpignan            |         3 |   0.666667 |
-| New Zealand          |         2 |   0        |
 | Bayonne              |         2 |   0.5      |
+| New Zealand          |         2 |   0        |
 | Agen                 |         2 |   1        |
-| Scotland             |         2 |   0        |
 | Biarritz Olympique   |         2 |   0.5      |
+| Scotland             |         2 |   0        |
+| Saracens             |         1 |   0        |
 | Timisoara Saracens   |         1 |   1        |
+| Spain                |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Wales                |         1 |   0        |
-| Spain                |         1 |   1        |
-| Oyonnax              |         1 |   0        |
-| Saracens             |         1 |   0        |
-| Samoa                |         1 |   0        |
 | Northampton Saints   |         1 |   1        |
+| Samoa                |         1 |   0        |
+| Oyonnax              |         1 |   0        |
 | La Rochelle          |         1 |   0        |
 | Ireland              |         1 |   0        |
 | Harlequins           |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | Georgia              |         1 |   0.5      |
+| Connacht             |         1 |   0        |
 | Zebre                |         1 |   0        |

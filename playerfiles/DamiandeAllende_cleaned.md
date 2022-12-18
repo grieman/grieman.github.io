@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian de Allende  
-date: 2022-11-22 11:44:22.912050  
+date: 2022-12-18 16:19:14.477691  
 categories: player  
 ---
 # Damian de Allende
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 118.0
+## Current elo: 123.0
 
-## Current Percentile: 90.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,10 +24,10 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stormers             |            91 |   0.532967 |
-| South Africa         |            72 |   0.576389 |
+| South Africa         |            73 |   0.582192 |
 | Munster              |            26 |   0.653846 |
 | Western Province     |            16 |   0.75     |
-| Saitama Wild Knights |             5 |   1        |
+| Saitama Wild Knights |             6 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -38,8 +38,8 @@ categories: player
 | Australia                         |         9 |   0.222222 |
 | Sharks                            |         9 |   0.555556 |
 | Cheetahs                          |         7 |   0.571429 |
+| England                           |         7 |   0.571429 |
 | Chiefs                            |         6 |   0.166667 |
-| England                           |         6 |   0.5      |
 | Wales                             |         6 |   0.833333 |
 | Queensland Reds                   |         5 |   0.6      |
 | Blues                             |         5 |   0.6      |
@@ -69,13 +69,13 @@ categories: player
 | Benetton Treviso                  |         2 |   1        |
 | Ospreys                           |         2 |   0.5      |
 | Ulster                            |         2 |   0.5      |
+| Toshiba Brave Lupus Tokyo         |         2 |   1        |
 | Japan                             |         2 |   1        |
 | Griquas                           |         2 |   1        |
 | Yokohama Canon Eagles             |         1 |   1        |
 | Wasps                             |         1 |   1        |
 | United States of America          |         1 |   1        |
 | Toyota Verblitz                   |         1 |   1        |
-| Toshiba Brave Lupus Tokyo         |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |
 | Boland Cavaliers                  |         1 |   1        |
 | Edinburgh                         |         1 |   1        |

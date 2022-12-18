@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam James  
-date: 2022-12-14 11:13:12.007372  
+date: 2022-12-18 16:19:36.928491  
 categories: player  
 ---
 # Sam James
 
 ## Positions: C, FH
 
-## Current elo: 126.0
+## Current elo: 122.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |           193 |   0.554404 |
+| Sale Sharks |           194 |   0.551546 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -40,10 +40,10 @@ categories: player
 | Connacht            |         3 |   0.666667 |
 | Cardiff Blues       |         3 |   0.666667 |
 | Scarlets            |         3 |   0.666667 |
+| Stade Toulousain    |         3 |   0.166667 |
 | La Rochelle         |         2 |   0        |
 | Bordeaux Begles     |         2 |   0.5      |
 | Perpignan           |         2 |   1        |
-| Stade Toulousain    |         2 |   0.25     |
 | Toulon              |         2 |   0        |
 | Lyon                |         2 |   0.5      |
 | Dragons             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Herring  
-date: 2022-12-14 11:27:09.478598  
+date: 2022-12-18 16:24:28.579823  
 categories: player  
 ---
 # Rob Herring
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Ulster       |           215 |   0.672093 |
+| Ulster       |           216 |   0.668981 |
 | Ireland      |            25 |   0.8      |
 | London Irish |             8 |   0.375    |
 | Munster      |             1 |   1        |
@@ -48,28 +48,28 @@ categories: player
 | Italy               |         4 |   1        |
 | Australia           |         4 |   0.75     |
 | Clermont Auvergne   |         4 |   0.5      |
+| La Rochelle         |         3 |   0.333333 |
 | Bath Rugby          |         3 |   0.666667 |
-| Stade Toulousain    |         3 |   0.666667 |
 | England             |         3 |   0.666667 |
+| Stade Toulousain    |         3 |   0.666667 |
 | Scotland            |         3 |   1        |
 | Gloucester Rugby    |         2 |   0        |
-| France              |         2 |   0        |
+| Cheetahs            |         2 |   0.75     |
 | Wasps               |         2 |   0.5      |
 | Wales               |         2 |   0.5      |
 | Toulon              |         2 |   0        |
 | Stormers            |         2 |   0        |
 | South Africa        |         2 |   1        |
 | Castres Olympique   |         2 |   1        |
-| Cheetahs            |         2 |   0.75     |
 | Lions               |         2 |   1        |
+| France              |         2 |   0        |
 | Oyonnax             |         2 |   1        |
 | Northampton Saints  |         2 |   0.5      |
 | New Zealand         |         2 |   1        |
 | Fiji                |         2 |   1        |
-| La Rochelle         |         2 |   0.5      |
 | Sale Sharks         |         1 |   0        |
-| Newcastle Falcons   |         1 |   1        |
 | Sharks              |         1 |   1        |
+| Newcastle Falcons   |         1 |   1        |
 | Bordeaux Begles     |         1 |   0        |
 | Montpellier Herault |         1 |   1        |
 | Exeter Chiefs       |         1 |   1        |

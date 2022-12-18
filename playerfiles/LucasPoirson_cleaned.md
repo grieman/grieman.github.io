@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Poirson  
-date: 2022-12-14 11:36:06.154167  
+date: 2022-12-18 16:17:19.673308  
 categories: player  
 ---
 # Lucas Poirson

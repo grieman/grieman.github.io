@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alex Burin  
-date: 2022-12-14 11:32:28.351989  
+date: 2022-12-18 16:33:14.220151  
 categories: player  
 ---
 # Alex Burin
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 101.0
 
 ## Current Percentile: 80.0
 
@@ -21,20 +21,21 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |            29 |   0.172414 |
+| Agen   |            30 |   0.166667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| La Rochelle          |         2 |        0   |
+| Lyon                 |         2 |        0   |
 | Stade Toulousain     |         2 |        0   |
 | Stade Francais Paris |         2 |        0   |
 | Brive                |         2 |        0   |
 | Oyonnax              |         2 |        0   |
 | Colomiers            |         2 |        0   |
 | Grenoble             |         2 |        0.5 |
-| Lyon                 |         2 |        0   |
+| La Rochelle          |         2 |        0   |
 | Mont-de-Marsan       |         1 |        1   |
 | Racing 92            |         1 |        0   |
+| Nevers               |         1 |        0   |
 | Montpellier Herault  |         1 |        0   |
 | Montauban            |         1 |        0   |
 | Bayonne              |         1 |        0   |

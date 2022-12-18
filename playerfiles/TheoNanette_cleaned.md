@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Theo Nanette  
-date: 2022-12-14 11:16:14.601723  
+date: 2022-12-18 16:12:56.079739  
 categories: player  
 ---
 # Theo Nanette
 
 ## Positions: SH
 
-## Current elo: 79.0
+## Current elo: 77.0
 
-## Current Percentile: None
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Grenoble       |            33 |   0.378788 |
 | Aurillac       |            29 |   0.362069 |
 | Provence Rugby |             5 |   0.2      |
-| Rouen          |             4 |   0.25     |
+| Rouen          |             5 |   0.2      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,9 +37,9 @@ categories: player
 | Narbonne             |         3 |   0.333333 |
 | Dax                  |         3 |   0        |
 | Vannes               |         3 |   0.333333 |
+| Aurillac             |         3 |   0.333333 |
 | Benetton Treviso     |         2 |   0        |
 | Biarritz Olympique   |         2 |   0        |
-| Aurillac             |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   0.5      |
 | Provence Rugby       |         2 |   0.5      |

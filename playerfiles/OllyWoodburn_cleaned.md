@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Olly Woodburn  
-date: 2022-12-14 11:25:24.917888  
+date: 2022-12-18 16:23:59.530813  
 categories: player  
 ---
 # Olly Woodburn
 
 ## Positions: W
 
-## Current elo: 120.0
+## Current elo: 122.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           138 |   0.684783 |
+| Exeter Chiefs |           139 |   0.68705  |
 | Bath Rugby    |            53 |   0.622642 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -32,17 +32,17 @@ categories: player
 | Gloucester Rugby    |        13 |   0.576923 |
 | Northampton Saints  |        13 |   0.615385 |
 | Worcester Warriors  |        13 |   0.769231 |
+| Newcastle Falcons   |        12 |   0.833333 |
 | Saracens            |        12 |   0.333333 |
 | Sale Sharks         |        12 |   0.666667 |
-| Newcastle Falcons   |        12 |   0.833333 |
 | Bath Rugby          |        10 |   0.8      |
 | London Irish        |        10 |   0.8      |
 | Bristol Rugby       |         7 |   0.714286 |
 | Exeter Chiefs       |         5 |   0.6      |
 | Glasgow Warriors    |         4 |   0.375    |
 | Montpellier Herault |         4 |   0.75     |
-| Bordeaux Begles     |         3 |   0.666667 |
 | Clermont Auvergne   |         3 |   0.333333 |
+| Bordeaux Begles     |         3 |   0.666667 |
 | London Welsh        |         2 |   1        |
 | Ulster              |         2 |   0.5      |
 | Stade Toulousain    |         2 |   0.5      |
@@ -52,6 +52,7 @@ categories: player
 | Leinster            |         2 |   0        |
 | Bucuresti           |         2 |   1        |
 | Dragons             |         2 |   1        |
-| La Rochelle         |         1 |   1        |
-| Calvisano           |         1 |   1        |
 | Castres Olympique   |         1 |   1        |
+| La Rochelle         |         1 |   1        |
+| Bulls               |         1 |   1        |
+| Calvisano           |         1 |   1        |

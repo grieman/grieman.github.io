@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Thomas  
-date: 2022-11-16 11:44:04.315365  
+date: 2022-12-18 16:30:11.792828  
 categories: player  
 ---
 # Henry Thomas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 27.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Bath Rugby          |           113 |   0.50885  |
 | Sale Sharks         |            82 |   0.512195 |
-| Montpellier Herault |            22 |   0.704545 |
+| Montpellier Herault |            23 |   0.673913 |
 | England             |             6 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -51,24 +51,24 @@ categories: player
 | Biarritz Olympique   |         3 |   1        |
 | Brive                |         3 |   0.5      |
 | Agen                 |         2 |   1        |
-| Castres Olympique    |         2 |   0.5      |
-| Ireland              |         2 |   0.5      |
-| London Welsh         |         2 |   1        |
-| Lyon                 |         2 |   0.5      |
-| Montpellier Herault  |         2 |   1        |
-| Glasgow Warriors     |         2 |   0.5      |
-| Bordeaux Begles      |         2 |   0.5      |
-| Bristol Rugby        |         2 |   0        |
-| Racing 92            |         2 |   1        |
+| Ospreys              |         2 |   0        |
 | Clermont Auvergne    |         2 |   0        |
-| Benetton Treviso     |         1 |   1        |
+| Racing 92            |         2 |   1        |
+| Bristol Rugby        |         2 |   0        |
+| Bordeaux Begles      |         2 |   0.5      |
+| Glasgow Warriors     |         2 |   0.5      |
+| Montpellier Herault  |         2 |   1        |
+| Lyon                 |         2 |   0.5      |
+| London Welsh         |         2 |   1        |
+| Ireland              |         2 |   0.5      |
+| Castres Olympique    |         2 |   0.5      |
 | Wales                |         1 |   1        |
 | Scotland             |         1 |   1        |
+| Benetton Treviso     |         1 |   1        |
 | La Vila              |         1 |   1        |
 | Dragons              |         1 |   0        |
 | Leeds                |         1 |   1        |
 | Pau                  |         1 |   1        |
-| Ospreys              |         1 |   0        |
 | France               |         1 |   0        |
 | Italy                |         1 |   1        |
 | La Rochelle          |         1 |   1        |

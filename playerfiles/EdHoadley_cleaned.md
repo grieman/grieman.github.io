@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ed Hoadley  
-date: 2022-12-14 11:26:32.267771  
+date: 2022-12-18 16:23:16.649153  
 categories: player  
 ---
 # Ed Hoadley

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matthew Screech  
-date: 2022-12-14 11:34:26.209999  
+date: 2022-12-18 16:13:51.246933  
 categories: player  
 ---
 # Matthew Screech
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 84.0
+## Current elo: 82.0
 
-## Current Percentile: 10.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |           160 |   0.315625 |
+| Dragons       |           161 |   0.313665 |
 | Cardiff Blues |            23 |   0.347826 |
 | Wales         |             1 |   0        |
 
@@ -49,6 +49,7 @@ categories: player
 | Lions               |         3 |   0.166667 |
 | Dragons             |         3 |   1        |
 | Southern Kings      |         3 |   0.833333 |
+| Pau                 |         3 |   0.666667 |
 | Clermont Auvergne   |         2 |   0        |
 | Cheetahs            |         2 |   0.5      |
 | Mogliano            |         2 |   1        |
@@ -57,7 +58,6 @@ categories: player
 | Timisoara Saracens  |         2 |   1        |
 | Bordeaux Begles     |         2 |   0.5      |
 | Bath Rugby          |         2 |   0        |
-| Pau                 |         2 |   1        |
 | Aironi              |         1 |   1        |
 | Montpellier Herault |         1 |   0        |
 | Argentina           |         1 |   0        |

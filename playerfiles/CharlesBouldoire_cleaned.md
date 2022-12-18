@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Bouldoire  
-date: 2022-12-14 11:18:38.915782  
+date: 2022-12-18 16:22:20.921224  
 categories: player  
 ---
 # Charles Bouldoire

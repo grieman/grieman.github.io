@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Sio  
-date: 2022-12-14 11:36:50.009858  
+date: 2022-12-18 16:26:00.814206  
 categories: player  
 ---
 # Scott Sio
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 24.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Brumbies      |           142 |   0.591549 |
 | Australia     |            74 |   0.472973 |
-| Exeter Chiefs |             5 |   0.4      |
+| Exeter Chiefs |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,9 +40,9 @@ categories: player
 | Chiefs                   |         9 |   0.555556 |
 | England                  |         9 |   0.222222 |
 | Highlanders              |         8 |   0.25     |
+| Bulls                    |         8 |   0.875    |
 | Blues                    |         8 |   0.25     |
 | Crusaders                |         7 |   0        |
-| Bulls                    |         7 |   0.857143 |
 | Wales                    |         5 |   0.6      |
 | Sunwolves                |         5 |   1        |
 | Sharks                   |         5 |   0.8      |

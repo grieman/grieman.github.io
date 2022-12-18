@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mzamo Majola  
-date: 2022-12-14 11:19:36.969539  
+date: 2022-12-18 16:23:20.657250  
 categories: player  
 ---
 # Mzamo Majola
@@ -25,7 +25,7 @@ categories: player
 | Seattle Seawolves |            12 |   0.583333 |
 | Southern Kings    |             6 |   0.333333 |
 | Natal Sharks      |             5 |   0.5      |
-| Cheetahs          |             1 |   1        |
+| Cheetahs          |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -51,5 +51,6 @@ categories: player
 | NOLA Gold                |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
 | Pau                      |         1 |   1        |
+| Scarlets                 |         1 |   0        |
 | Ulster                   |         1 |   0        |
 | Utah Warriors            |         1 |   1        |

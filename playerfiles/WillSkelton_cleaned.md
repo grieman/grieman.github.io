@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Skelton  
-date: 2022-12-14 11:24:58.506947  
+date: 2022-12-18 16:28:31.353704  
 categories: player  
 ---
 # Will Skelton
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 112.0
+## Current elo: 116.0
 
-## Current Percentile: 88.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Saracens                 |            72 |   0.743056 |
 | New South Wales Waratahs |            65 |   0.584615 |
-| La Rochelle              |            46 |   0.673913 |
-| Nevers                   |            32 |   0.59375  |
+| La Rochelle              |            47 |   0.680851 |
+| Nevers                   |            33 |   0.606061 |
 | Australia                |            19 |   0.447368 |
 | Greater Sydney Rams      |            12 |   0.25     |
 | Sydney Stars             |             7 |   0.214286 |
@@ -82,7 +82,7 @@ categories: player
 | Vannes               |         2 |   0        |
 | NSW Country Eagles   |         2 |   0        |
 | Scotland             |         2 |   0.5      |
-| London Irish         |         2 |   1        |
+| Agen                 |         2 |   1        |
 | Munster              |         2 |   0.5      |
 | Lions                |         2 |   0.5      |
 | Aurillac             |         2 |   0.5      |
@@ -92,24 +92,25 @@ categories: player
 | England              |         2 |   0        |
 | Grenoble             |         2 |   0.5      |
 | Greater Sydney Rams  |         2 |   0.5      |
-| Massy                |         2 |   0.5      |
 | Melbourne Rising     |         2 |   0.5      |
 | Argentina            |         2 |   0.5      |
 | Montauban            |         2 |   1        |
 | Mont-de-Marsan       |         2 |   0        |
-| North Harbour Rays   |         1 |   0        |
-| Beziers              |         1 |   1        |
-| Wales                |         1 |   0        |
-| Uruguay              |         1 |   1        |
-| Sunwolves            |         1 |   1        |
-| Cheetahs             |         1 |   1        |
-| Provence Rugby       |         1 |   0        |
-| Leinster             |         1 |   1        |
-| Fiji                 |         1 |   1        |
-| Southern Kings       |         1 |   0        |
-| South Africa         |         1 |   1        |
+| Massy                |         2 |   0.5      |
+| London Irish         |         2 |   1        |
 | Montpellier Herault  |         1 |   1        |
+| South Africa         |         1 |   1        |
+| Southern Kings       |         1 |   0        |
+| Fiji                 |         1 |   1        |
 | Scarlets             |         1 |   0.5      |
+| Leinster             |         1 |   1        |
+| Cheetahs             |         1 |   1        |
+| Sunwolves            |         1 |   1        |
 | Ireland              |         1 |   0        |
+| Ulster               |         1 |   1        |
+| Uruguay              |         1 |   1        |
 | Italy                |         1 |   0        |
-| Agen                 |         1 |   1        |
+| Wales                |         1 |   0        |
+| Beziers              |         1 |   1        |
+| North Harbour Rays   |         1 |   0        |
+| Provence Rugby       |         1 |   0        |

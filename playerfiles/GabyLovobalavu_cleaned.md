@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaby Lovobalavu  
-date: 2022-12-14 11:29:27.088582  
+date: 2022-12-18 16:31:57.993960  
 categories: player  
 ---
 # Gaby Lovobalavu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 9.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Bayonne |            82 |   0.487805 |
 | Toulon  |            81 |   0.54321  |
-| Oyonnax |            45 |   0.7      |
+| Oyonnax |            46 |   0.706522 |
 | Wasps   |            34 |   0.588235 |
 | Fiji    |            14 |   0.25     |
 
@@ -58,12 +58,13 @@ categories: player
 | Aurillac                   |         4 |   0.5      |
 | Beziers                    |         4 |   0.625    |
 | Exeter Chiefs              |         3 |   0.666667 |
-| Newcastle Falcons          |         3 |   0.666667 |
+| Rouen                      |         3 |   0.666667 |
 | Oyonnax                    |         3 |   0.333333 |
 | Gloucester Rugby           |         3 |   0.333333 |
+| Colomiers                  |         3 |   0.666667 |
 | Albi                       |         3 |   1        |
-| Rouen                      |         3 |   0.666667 |
 | Northampton Saints         |         3 |   0.666667 |
+| Newcastle Falcons          |         3 |   0.666667 |
 | Bath Rugby                 |         3 |   0.333333 |
 | Vannes                     |         3 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
@@ -78,7 +79,6 @@ categories: player
 | Narbonne                   |         2 |   1        |
 | Munster                    |         2 |   0.5      |
 | Dragons                    |         2 |   1        |
-| Colomiers                  |         2 |   0.5      |
 | Connacht                   |         2 |   0.5      |
 | London Irish               |         2 |   1        |
 | Nevers                     |         2 |   1        |
@@ -92,11 +92,11 @@ categories: player
 | New Zealand Maori          |         1 |   0        |
 | South Africa               |         1 |   0        |
 | Scotland                   |         1 |   0        |
-| Leinster                   |         1 |   0        |
+| Samoa                      |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Romania                    |         1 |   1        |
 | Cardiff Blues              |         1 |   0        |
-| Petrarca Padova            |         1 |   1        |
 | Canada                     |         1 |   1        |
+| Petrarca Padova            |         1 |   1        |
 | Namibia                    |         1 |   1        |
-| Samoa                      |         1 |   0        |
+| Leinster                   |         1 |   0        |

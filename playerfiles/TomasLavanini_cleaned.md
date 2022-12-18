@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Lavanini  
-date: 2022-12-14 11:13:12.937131  
+date: 2022-12-18 16:38:35.025070  
 categories: player  
 ---
 # Tomas Lavanini
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Argentina         |            72 |   0.270833 |
 | Jaguares          |            48 |   0.520833 |
 | Leicester Tigers  |            34 |   0.485294 |
-| Clermont Auvergne |            14 |   0.392857 |
+| Clermont Auvergne |            15 |   0.366667 |
 | Racing 92         |            10 |   0.45     |
 | Hindu             |             2 |   1        |
 
@@ -72,21 +72,22 @@ categories: player
 | Hurricanes               |         2 |  0.5       |
 | Highlanders              |         2 |  0         |
 | Bordeaux Begles          |         2 |  0.25      |
-| Harlequins               |         2 |  0.25      |
 | Bristol Rugby            |         2 |  0.5       |
+| Harlequins               |         2 |  0.25      |
 | Crusaders                |         2 |  0         |
-| Montpellier Herault      |         1 |  1         |
+| Melbourne Rebels         |         1 |  1         |
 | Western Force            |         1 |  0         |
 | Bayonne                  |         1 |  1         |
 | Benetton Treviso         |         1 |  1         |
 | Calvisano                |         1 |  1         |
 | Cardiff Blues            |         1 |  1         |
-| Georgia                  |         1 |  1         |
-| Cheetahs                 |         1 |  1         |
-| Melbourne Rebels         |         1 |  1         |
 | Grenoble                 |         1 |  1         |
+| Cheetahs                 |         1 |  1         |
+| Georgia                  |         1 |  1         |
+| Montpellier Herault      |         1 |  1         |
 | Romania                  |         1 |  1         |
 | Racing 92                |         1 |  0         |
 | La Plata                 |         1 |  1         |
 | Oyonnax                  |         1 |  0         |
+| Leicester Tigers         |         1 |  0         |
 | Atlético del Rosario     |         1 |  1         |

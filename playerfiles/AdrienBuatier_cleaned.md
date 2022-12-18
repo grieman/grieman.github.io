@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Adrien Buatier  
-date: 2022-11-22 11:30:43.968652  
+date: 2022-12-18 16:22:32.300342  
 categories: player  
 ---
 # Adrien Buatier
 
 ## Positions: FL
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            56 |   0.553571 |
+| US Bressane |            57 |    0.54386 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Beziers                    |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0.333333 |
 | Massy                      |         3 |   0.666667 |
+| Dax                        |         3 |   0.333333 |
 | Colomiers                  |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Tarbes                     |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Montauban                  |         2 |   0        |
-| Dax                        |         2 |   0.5      |
 | Vannes                     |         2 |   0.25     |
 | Carcassonne                |         2 |   0        |
 | Auch                       |         2 |   0.5      |

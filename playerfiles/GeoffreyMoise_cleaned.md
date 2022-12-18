@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geoffrey Moise  
-date: 2022-12-14 11:23:35.711106  
+date: 2022-12-18 16:35:55.219814  
 categories: player  
 ---
 # Geoffrey Moise

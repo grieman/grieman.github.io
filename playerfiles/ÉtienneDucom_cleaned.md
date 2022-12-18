@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Étienne Ducom  
-date: 2022-12-14 11:26:30.276140  
+date: 2022-12-18 16:38:56.560850  
 categories: player  
 ---
 # Étienne Ducom

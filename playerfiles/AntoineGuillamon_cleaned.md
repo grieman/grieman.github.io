@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Antoine Guillamon  
-date: 2022-12-14 11:33:44.142883  
+date: 2022-12-18 16:27:12.886907  
 categories: player  
 ---
 # Antoine Guillamon
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 98.0
 
 ## Current Percentile: 51.0
 
@@ -24,7 +24,7 @@ categories: player
 | Montpellier Herault |            46 |   0.554348 |
 | Oyonnax             |            32 |   0.34375  |
 | Lyon                |            12 |   0.291667 |
-| Castres Olympique   |             9 |   0.222222 |
+| Castres Olympique   |            10 |   0.2      |
 | Stade Toulousain    |             3 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -51,11 +51,11 @@ categories: player
 | Harlequins           |         2 |   0        |
 | Perpignan            |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
+| Edinburgh            |         2 |   0.5      |
 | Mont-de-Marsan       |         1 |   1        |
 | Leicester Tigers     |         1 |   1        |
 | Munster              |         1 |   0        |
 | Northampton Saints   |         1 |   1        |
 | Saracens             |         1 |   0        |
-| Edinburgh            |         1 |   1        |
 | Biarritz Olympique   |         1 |   0        |
 | Zebre                |         1 |   1        |

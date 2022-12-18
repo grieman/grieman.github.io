@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Burns  
-date: 2022-12-14 11:29:42.567895  
+date: 2022-12-18 16:13:37.120258  
 categories: player  
 ---
 # Billy Burns
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |           107 |   0.579439 |
-| Ulster           |            68 |   0.676471 |
+| Ulster           |            69 |   0.666667 |
 | Ireland          |             5 |   0.6      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -47,9 +47,9 @@ categories: player
 | Zebre                |         6 |   1        |
 | Exeter Chiefs        |         6 |   0.5      |
 | Cardiff Blues        |         6 |   0.833333 |
+| La Rochelle          |         5 |   0.6      |
 | Edinburgh            |         5 |   1        |
 | Benetton Treviso     |         5 |   0.9      |
-| La Rochelle          |         4 |   0.75     |
 | Southern Kings       |         3 |   1        |
 | Glasgow Warriors     |         3 |   0.333333 |
 | Oyonnax              |         2 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom O'Flaherty  
-date: 2022-12-14 11:16:38.258166  
+date: 2022-12-18 16:26:09.290453  
 categories: player  
 ---
 # Tom O'Flaherty
 
 ## Positions: W
 
-## Current elo: 121.0
+## Current elo: 118.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Exeter Chiefs |            83 |   0.722892 |
-| Sale Sharks   |             8 |   0.75     |
+| Sale Sharks   |             9 |   0.666667 |
 | Ospreys       |             5 |   0.8      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -40,12 +40,12 @@ categories: player
 | Gloucester Rugby   |         5 |   0.8      |
 | Newcastle Falcons  |         4 |   1        |
 | Glasgow Warriors   |         2 |   1        |
+| Stade Toulousain   |         2 |   0.5      |
 | La Rochelle        |         1 |   1        |
 | Exeter Chiefs      |         1 |   1        |
 | Racing 92          |         1 |   1        |
 | Castres Olympique  |         1 |   1        |
 | Cardiff Blues      |         1 |   1        |
 | Scarlets           |         1 |   1        |
-| Stade Toulousain   |         1 |   1        |
 | Ulster             |         1 |   1        |
 | Munster            |         1 |   0        |

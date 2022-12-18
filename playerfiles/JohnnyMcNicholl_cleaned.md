@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johnny McNicholl  
-date: 2022-12-14 11:15:15.388683  
+date: 2022-12-18 16:17:13.569281  
 categories: player  
 ---
 # Johnny McNicholl
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 85.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Scarlets   |           100 |   0.56     |
+| Scarlets   |           101 |   0.564356 |
 | Canterbury |            41 |   0.804878 |
 | Crusaders  |            39 |   0.692308 |
 | Wales      |             9 |   0.222222 |
@@ -44,9 +44,9 @@ categories: player
 | Dragons                  |         5 |   0.6      |
 | Counties Manukau         |         5 |   0.8      |
 | Tasman                   |         5 |   0.6      |
+| Cheetahs                 |         5 |   0.8      |
 | Ulster                   |         5 |   0.4      |
 | Chiefs                   |         4 |   0.25     |
-| Cheetahs                 |         4 |   0.75     |
 | Toulon                   |         4 |   0        |
 | Taranaki                 |         4 |   0.75     |
 | Highlanders              |         4 |   0.75     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emile Dayral  
-date: 2022-12-14 11:20:50.634297  
+date: 2022-12-18 16:30:18.642848  
 categories: player  
 ---
 # Emile Dayral

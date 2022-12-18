@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Callum Hunter-Hill  
-date: 2022-12-14 11:30:23.543438  
+date: 2022-12-18 16:19:01.593674  
 categories: player  
 ---
 # Callum Hunter-Hill
 
 ## Positions: L
 
-## Current elo: 81.0
+## Current elo: 80.0
 
 ## Current Percentile: 11.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Saracens          |            44 |   0.647727 |
+| Saracens          |            45 |   0.655556 |
 | Edinburgh         |            19 |   0.473684 |
 | London Scottish   |             3 |   0.333333 |
 | Glasgow Warriors  |             1 |   1        |
@@ -50,6 +50,7 @@ categories: player
 | Edinburgh          |         2 |   0.5      |
 | Dragons            |         2 |   0.5      |
 | Zebre              |         2 |   0.5      |
+| Lyon               |         1 |   1        |
 | Munster            |         1 |   0        |
 | London Welsh       |         1 |   0        |
 | Benetton Treviso   |         1 |   0        |

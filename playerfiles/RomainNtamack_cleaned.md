@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Ntamack  
-date: 2022-12-14 11:15:02.199331  
+date: 2022-12-18 16:25:21.070980  
 categories: player  
 ---
 # Romain Ntamack
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 83.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            88 |   0.738636 |
+| Stade Toulousain |            89 |   0.741573 |
 | France           |            31 |   0.774194 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -43,9 +43,9 @@ categories: player
 | Agen                     |         4 |   1        |
 | Brive                    |         4 |   1        |
 | Wasps                    |         3 |   0.666667 |
+| Sale Sharks              |         3 |   0.833333 |
 | Ireland                  |         3 |   0.666667 |
 | Leinster                 |         3 |   0.333333 |
-| Sale Sharks              |         2 |   0.75     |
 | Biarritz Olympique       |         2 |   1        |
 | Perpignan                |         2 |   1        |
 | Pau                      |         2 |   1        |

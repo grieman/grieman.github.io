@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daniel du Preez  
-date: 2022-12-14 11:17:10.434626  
+date: 2022-12-18 16:33:43.762848  
 categories: player  
 ---
 # Daniel du Preez
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 125.0
+## Current elo: 123.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sale Sharks  |            65 |   0.615385 |
+| Sale Sharks  |            66 |   0.606061 |
 | Sharks       |            53 |   0.556604 |
 | Natal Sharks |            13 |   0.692308 |
 | South Africa |             4 |   0.75     |
@@ -64,6 +64,7 @@ categories: player
 | Queensland Reds          |         1 |  0         |
 | France                   |         1 |  1         |
 | Griquas                  |         1 |  1         |
+| Stade Toulousain         |         1 |  0         |
 | New South Wales Waratahs |         1 |  1         |
 | Brumbies                 |         1 |  0         |
 | Ulster                   |         1 |  1         |

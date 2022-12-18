@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Powell  
-date: 2022-12-14 11:34:59.039723  
+date: 2022-12-18 16:31:04.909784  
 categories: player  
 ---
 # Charlie Powell

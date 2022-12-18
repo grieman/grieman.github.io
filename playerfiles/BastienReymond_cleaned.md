@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bastien Reymond  
-date: 2022-12-14 11:31:51.050619  
+date: 2022-12-18 16:17:04.154477  
 categories: player  
 ---
 # Bastien Reymond

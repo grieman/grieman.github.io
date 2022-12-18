@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Christian Wade  
-date: 2022-12-14 11:28:33.489029  
+date: 2022-12-18 16:34:52.357411  
 categories: player  
 ---
 # Christian Wade
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 79.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -24,12 +24,12 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Wasps     |           165 |   0.542424 |
-| Racing 92 |             5 |   0.8      |
+| Racing 92 |             6 |   0.666667 |
 | England   |             2 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Harlequins         |        19 |   0.368421 |
+| Harlequins         |        20 |   0.35     |
 | Exeter Chiefs      |        16 |   0.28125  |
 | Leicester Tigers   |        13 |   0.692308 |
 | Saracens           |        13 |   0.230769 |

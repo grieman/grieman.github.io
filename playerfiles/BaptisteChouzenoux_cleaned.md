@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Chouzenoux  
-date: 2022-12-14 11:21:18.442337  
+date: 2022-12-18 16:21:22.005143  
 categories: player  
 ---
 # Baptiste Chouzenoux

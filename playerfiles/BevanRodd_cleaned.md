@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bevan Rodd  
-date: 2022-12-14 11:18:19.080426  
+date: 2022-12-18 16:17:30.799623  
 categories: player  
 ---
 # Bevan Rodd
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            46 |   0.717391 |
+| Sale Sharks |            47 |   0.702128 |
 | England     |             2 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -42,4 +42,5 @@ categories: player
 | Worcester Warriors |         3 |   0.666667 |
 | Australia          |         1 |   1        |
 | South Africa       |         1 |   1        |
+| Stade Toulousain   |         1 |   0        |
 | Ulster             |         1 |   1        |

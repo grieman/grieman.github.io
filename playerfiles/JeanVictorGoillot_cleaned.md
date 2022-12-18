@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Victor Goillot  
-date: 2022-12-14 11:25:31.339840  
+date: 2022-12-18 16:16:34.239853  
 categories: player  
 ---
 # Jean Victor Goillot
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 66.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |            29 |   0.724138 |
-| Beziers     |            16 |   0.375    |
+| Beziers     |            17 |   0.411765 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,11 +39,11 @@ categories: player
 | Montauban            |         2 |   1        |
 | Zebre                |         2 |   1        |
 | Brive                |         2 |   1        |
+| Biarritz Olympique   |         2 |   1        |
 | Bayonne              |         1 |   0        |
 | Ulster               |         1 |   1        |
 | Toulon               |         1 |   0        |
 | Stade Toulousain     |         1 |   1        |
-| Biarritz Olympique   |         1 |   1        |
 | Bordeaux Begles      |         1 |   0        |
 | Bristol Rugby        |         1 |   1        |
 | Harlequins           |         1 |   1        |

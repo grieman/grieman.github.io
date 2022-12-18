@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leigh Halfpenny  
-date: 2022-11-22 11:38:04.569746  
+date: 2022-12-18 16:37:12.587488  
 categories: player  
 ---
 # Leigh Halfpenny
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 27.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Wales                   |            97 |   0.525773 |
 | Cardiff Blues           |            85 |   0.564706 |
-| Scarlets                |            46 |   0.565217 |
+| Scarlets                |            47 |   0.574468 |
 | Toulon                  |            40 |   0.7      |
 | British and Irish Lions |             7 |   0.5      |
 
@@ -59,12 +59,12 @@ categories: player
 | Argentina            |         4 |   0.75     |
 | Zebre                |         4 |   0.75     |
 | Montpellier Herault  |         3 |   0.666667 |
+| Cheetahs             |         3 |   1        |
 | Gloucester Rugby     |         3 |   1        |
 | Samoa                |         3 |   0.666667 |
 | Clermont Auvergne    |         3 |   0.666667 |
 | Bayonne              |         3 |   0.666667 |
 | Canada               |         2 |   1        |
-| Cheetahs             |         2 |   1        |
 | Pau                  |         2 |   1        |
 | Saracens             |         2 |   0        |
 | Exeter Chiefs        |         2 |   0        |

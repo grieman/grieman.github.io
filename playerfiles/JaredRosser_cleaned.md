@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jared Rosser  
-date: 2022-12-14 11:27:08.059127  
+date: 2022-12-18 16:30:46.295730  
 categories: player  
 ---
 # Jared Rosser

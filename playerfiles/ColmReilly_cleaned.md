@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Colm Reilly  
-date: 2022-12-14 11:35:28.472380  
+date: 2022-12-18 16:35:58.036905  
 categories: player  
 ---
 # Colm Reilly
 
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 101.0
 
 ## Current Percentile: 62.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |            14 |   0.571429 |
+| Connacht |            15 |        0.6 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Leinster          |         2 |   0.5      |
 | Zebre             |         2 |   1        |
 | Benetton Treviso  |         1 |   1        |
+| Brive             |         1 |   1        |
 | Bulls             |         1 |   0        |
 | Edinburgh         |         1 |   1        |
 | Glasgow Warriors  |         1 |   0        |

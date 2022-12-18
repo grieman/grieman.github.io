@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mathias Colombet  
-date: 2022-12-14 11:28:49.509784  
+date: 2022-12-18 16:12:12.774423  
 categories: player  
 ---
 # Mathias Colombet
 
 ## Positions: FB, W
 
-## Current elo: 87.0
+## Current elo: 91.0
 
 ## Current Percentile: 18.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |            29 |   0.465517 |
+| Pau    |            30 |   0.483333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -31,11 +31,12 @@ categories: player
 | Toulon               |         2 |   0.25     |
 | Stade Francais Paris |         2 |   0.5      |
 | Perpignan            |         2 |   1        |
-| La Rochelle          |         2 |   0        |
 | Lyon                 |         2 |   0.5      |
+| La Rochelle          |         2 |   0        |
 | Bordeaux Begles      |         2 |   0.5      |
-| Cheetahs             |         1 |   0        |
+| Dragons              |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
+| Cheetahs             |         1 |   0        |
 | Castres Olympique    |         1 |   0        |
 | Ospreys              |         1 |   0        |
 | Calvisano            |         1 |   1        |

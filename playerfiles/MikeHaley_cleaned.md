@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mike Haley  
-date: 2022-12-14 11:26:56.988350  
+date: 2022-12-18 16:25:00.092298  
 categories: player  
 ---
 # Mike Haley
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 92.0
+## Current elo: 94.0
 
-## Current Percentile: 42.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -24,18 +24,18 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Sale Sharks |           111 |   0.472973 |
-| Munster     |            73 |   0.726027 |
+| Munster     |            74 |   0.72973  |
 | Ireland     |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Saracens            |        15 |   0.3      |
 | Exeter Chiefs       |         9 |   0.388889 |
+| Northampton Saints  |         9 |   0.555556 |
 | Harlequins          |         9 |   0.555556 |
 | Bath Rugby          |         8 |   0.375    |
 | Leicester Tigers    |         8 |   0.25     |
 | Wasps               |         8 |   0.5      |
-| Northampton Saints  |         8 |   0.5      |
 | Scarlets            |         8 |   0.75     |
 | Gloucester Rugby    |         8 |   0.5      |
 | Cardiff Blues       |         7 |   0.857143 |

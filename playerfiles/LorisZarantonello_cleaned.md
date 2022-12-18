@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Loris Zarantonello  
-date: 2022-12-14 11:28:28.971664  
+date: 2022-12-18 16:15:17.455761  
 categories: player  
 ---
 # Loris Zarantonello

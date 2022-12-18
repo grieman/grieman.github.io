@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clement Lanen  
-date: 2022-11-22 11:37:34.786682  
+date: 2022-12-18 16:17:18.891059  
 categories: player  
 ---
 # Clement Lanen
 
 ## Positions: FL, N8
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 32.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            14 |        0.5 |
-| Massy             |            10 |        0.2 |
+| Clermont Auvergne |            14 |   0.5      |
+| Massy             |            12 |   0.166667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Toulon               |         1 |        0   |
 | Stade Toulousain     |         1 |        1   |
 | Stade Francais Paris |         1 |        1   |
+| Soyaux-Angouleme     |         1 |        0   |
 | Rouen                |         1 |        0   |
 | Perpignan            |         1 |        1   |
 | Pau                  |         1 |        1   |
@@ -42,6 +43,7 @@ categories: player
 | Mont-de-Marsan       |         1 |        1   |
 | La Rochelle          |         1 |        0   |
 | Harlequins           |         1 |        1   |
+| Grenoble             |         1 |        0   |
 | Castres Olympique    |         1 |        0   |
 | Carcassonne          |         1 |        1   |
 | Bordeaux Begles      |         1 |        0   |

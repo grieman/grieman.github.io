@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Jones  
-date: 2022-12-12 15:21:50.636137  
+date: 2022-12-18 16:34:47.123543  
 categories: player  
 ---
 # Lewis Jones
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 69.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cardiff Blues |           143 |   0.426573 |
-| Dragons       |            13 |   0        |
+| Dragons       |            14 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,27 +35,28 @@ categories: player
 | Zebre               |         9 |   0.666667 |
 | Ulster              |         9 |   0.222222 |
 | Dragons             |         8 |   0.5      |
-| Leinster            |         7 |   0        |
 | Scarlets            |         7 |   0.428571 |
-| Toulon              |         4 |   0.25     |
+| Leinster            |         7 |   0        |
 | London Irish        |         4 |   0.5      |
-| Sale Sharks         |         3 |   0.333333 |
+| Toulon              |         4 |   0.25     |
 | Saracens            |         3 |   0        |
+| Sale Sharks         |         3 |   0.333333 |
+| Sharks              |         2 |   0        |
 | Rovigo              |         2 |   1        |
 | Wasps               |         2 |   1        |
-| Calvisano           |         2 |   1        |
-| Sharks              |         2 |   0        |
-| Cheetahs            |         2 |   0.5      |
-| Harlequins          |         2 |   1        |
-| Leicester Tigers    |         2 |   0        |
-| Exeter Chiefs       |         2 |   0        |
 | Newcastle Falcons   |         2 |   0        |
-| Montpellier Herault |         2 |   0        |
-| Lyon                |         2 |   1        |
-| Lions               |         2 |   0        |
 | Aironi              |         2 |   1        |
+| Montpellier Herault |         2 |   0        |
+| Lions               |         2 |   0        |
+| Leicester Tigers    |         2 |   0        |
+| Harlequins          |         2 |   1        |
+| Exeter Chiefs       |         2 |   0        |
+| Cheetahs            |         2 |   0.5      |
+| Calvisano           |         2 |   1        |
+| Lyon                |         2 |   1        |
+| Bath Rugby          |         1 |   0        |
+| Pau                 |         1 |   0        |
 | Gloucester Rugby    |         1 |   0        |
 | Stormers            |         1 |   0        |
 | Cardiff Blues       |         1 |   0        |
-| Bath Rugby          |         1 |   0        |
 | Worcester Warriors  |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gavin Coombes  
-date: 2022-12-14 11:26:43.486960  
+date: 2022-12-18 16:32:44.189232  
 categories: player  
 ---
 # Gavin Coombes
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 112.0
+## Current elo: 113.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            49 |   0.734694 |
-| Ireland |             4 |   0.75     |
+| Munster |            50 |       0.74 |
+| Ireland |             4 |       0.75 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -44,6 +44,7 @@ categories: player
 | New Zealand Maori        |         2 |   0.5      |
 | Japan                    |         1 |   1        |
 | Bulls                    |         1 |   1        |
+| Northampton Saints       |         1 |   1        |
 | Castres Olympique        |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | Stade Toulousain         |         1 |   0        |

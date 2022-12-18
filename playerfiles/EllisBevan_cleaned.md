@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ellis Bevan  
-date: 2022-12-12 15:23:37.733527  
+date: 2022-12-18 16:35:35.673653  
 categories: player  
 ---
 # Ellis Bevan

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charly Trussardi  
-date: 2022-12-14 11:29:56.731486  
+date: 2022-12-18 16:31:13.507114  
 categories: player  
 ---
 # Charly Trussardi

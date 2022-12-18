@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jules Coulon  
-date: 2022-12-14 11:33:08.508006  
+date: 2022-12-18 16:23:12.645528  
 categories: player  
 ---
 # Jules Coulon
 
 ## Positions: FL
 
-## Current elo: 98.0
+## Current elo: 101.0
 
-## Current Percentile: 56.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Toulon |             8 |      0.625 |
+| Toulon |             9 |   0.666667 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Bath Rugby        |         1 |          1 |
 | Bayonne           |         1 |          1 |
 | Bordeaux Begles   |         1 |          1 |
 | Clermont Auvergne |         1 |          0 |

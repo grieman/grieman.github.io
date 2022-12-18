@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Daniel Thomas  
-date: 2022-12-14 11:31:01.272906  
+date: 2022-12-18 16:17:44.103323  
 categories: player  
 ---
 # Daniel Thomas
 
 ## Positions: FL
 
-## Current elo: 109.0
+## Current elo: 108.0
 
 ## Current Percentile: 83.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bristol Rugby    |           104 |   0.644231 |
+| Bristol Rugby    |           105 |   0.647619 |
 | Gloucester Rugby |            13 |   0.653846 |
 | Scarlets         |            11 |   0.454545 |
 
@@ -39,7 +39,7 @@ categories: player
 | Sale Sharks          |         6 |   0.416667 |
 | Northampton Saints   |         6 |   0.666667 |
 | Newcastle Falcons    |         6 |   0.666667 |
-| Zebre                |         3 |   1        |
+| Zebre                |         4 |   1        |
 | Dragons              |         3 |   1        |
 | Connacht             |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |

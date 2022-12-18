@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Dupont  
-date: 2022-12-14 11:33:58.928936  
+date: 2022-12-18 16:37:14.247843  
 categories: player  
 ---
 # Lucas Dupont
 
 ## Positions: W
 
-## Current elo: 95.0
+## Current elo: 98.0
 
-## Current Percentile: 56.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Grenoble            |           167 |   0.556886 |
+| Grenoble            |           168 |   0.559524 |
 | Montpellier Herault |            31 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -47,29 +47,30 @@ categories: player
 | Lyon                 |         5 |   0.5      |
 | Vannes               |         5 |   0.6      |
 | Dax                  |         5 |   0.8      |
-| Carcassonne          |         4 |   1        |
-| Perpignan            |         4 |   0.5      |
 | Montpellier Herault  |         4 |   0        |
 | Provence Rugby       |         4 |   0.5      |
+| Perpignan            |         4 |   0.5      |
 | Brive                |         4 |   0.25     |
-| Auch                 |         3 |   1        |
-| Albi                 |         3 |   0.5      |
-| Rouen                |         3 |   0.666667 |
-| Racing 92            |         3 |   0.666667 |
+| Carcassonne          |         4 |   1        |
 | Clermont Auvergne    |         3 |   0.333333 |
-| Benetton Treviso     |         3 |   0.333333 |
+| Racing 92            |         3 |   0.666667 |
 | Harlequins           |         3 |   0.333333 |
-| Périgueux            |         2 |   1        |
+| Rouen                |         3 |   0.666667 |
+| Benetton Treviso     |         3 |   0.333333 |
+| Albi                 |         3 |   0.5      |
+| Auch                 |         3 |   1        |
 | Soyaux-Angouleme     |         2 |   1        |
 | Tarbes               |         2 |   1        |
+| Périgueux            |         2 |   1        |
 | London Irish         |         2 |   1        |
+| Roval Drome XV       |         1 |   1        |
 | Saint-Etienne        |         1 |   1        |
 | Bath Rugby           |         1 |   0        |
 | Grenoble             |         1 |   0        |
-| Bourgoin-Jallieu     |         1 |   1        |
-| Roval Drome XV       |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
 | Connacht             |         1 |   1        |
+| Massy                |         1 |   1        |
 | Edinburgh            |         1 |   0        |
-| Glasgow Warriors     |         1 |   0        |
 | Leicester Tigers     |         1 |   0        |
+| Glasgow Warriors     |         1 |   0        |
+| Bourgoin-Jallieu     |         1 |   1        |

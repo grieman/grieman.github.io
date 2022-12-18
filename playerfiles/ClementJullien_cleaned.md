@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Clement Jullien  
-date: 2022-12-14 11:23:52.118900  
+date: 2022-12-18 16:25:57.170166  
 categories: player  
 ---
 # Clement Jullien
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 87.0
 
 ## Current Percentile: 18.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            49 |   0.612245 |
+| US Bressane |            50 |   0.6      |
 | Carcassonne |            20 |   0.4      |
 | Oyonnax     |            13 |   0.538462 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |         5 |   0.6      |
 | Mont-de-Marsan             |         5 |   0.2      |
-| Dax                        |         4 |   0.75     |
 | Aurillac                   |         4 |   0.25     |
 | Bayonne                    |         4 |   0        |
 | Montauban                  |         4 |   0.25     |

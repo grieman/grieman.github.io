@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Bernard Pujol  
-date: 2022-12-14 11:33:27.400960  
+date: 2022-12-18 16:27:41.928468  
 categories: player  
 ---
 # Jean-Bernard Pujol

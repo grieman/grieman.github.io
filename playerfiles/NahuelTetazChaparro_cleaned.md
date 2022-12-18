@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nahuel Tetaz Chaparro  
-date: 2022-12-14 11:14:44.372594  
+date: 2022-12-18 16:31:48.231986  
 categories: player  
 ---
 # Nahuel Tetaz Chaparro
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 104.0
+## Current elo: 107.0
 
-## Current Percentile: 84.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Argentina            |            70 |   0.328571 |
 | Jaguares             |            50 |   0.56     |
 | Dragons              |            18 |   0.333333 |
-| Benetton Treviso     |            16 |   0.34375  |
+| Benetton Treviso     |            17 |   0.382353 |
 | La Plata             |            13 |   0.692308 |
 | Lyon                 |            11 |   0.409091 |
 | Stade Francais Paris |             7 |   0.357143 |
@@ -44,25 +44,26 @@ categories: player
 | Wales                    |         5 |  0.3       |
 | Scotland                 |         5 |  0.4       |
 | England                  |         5 |  0.2       |
-| Stormers                 |         5 |  0.6       |
 | Bulls                    |         5 |  0.8       |
+| Stormers                 |         5 |  0.6       |
 | Edinburgh                |         4 |  0.5       |
 | Chiefs                   |         4 |  0.5       |
 | Glasgow Warriors         |         3 |  0.333333  |
 | Crusaders                |         3 |  0         |
-| Leinster                 |         3 |  0         |
-| Southern Kings           |         3 |  0.333333  |
 | Hurricanes               |         3 |  0.333333  |
+| Southern Kings           |         3 |  0.333333  |
+| Leinster                 |         3 |  0         |
 | Connacht                 |         3 |  0         |
 | Italy                    |         3 |  1         |
+| Munster                  |         3 |  0         |
 | Cardiff Blues            |         3 |  0.666667  |
 | Brumbies                 |         3 |  1         |
-| Munster                  |         3 |  0         |
-| Toulon                   |         3 |  0.166667  |
 | New South Wales Waratahs |         3 |  1         |
-| Sale Sharks              |         2 |  0         |
+| Toulon                   |         3 |  0.166667  |
+| Bayonne                  |         3 |  0.333333  |
 | Melbourne Rebels         |         2 |  1         |
 | Queensland Reds          |         2 |  0.5       |
+| Sale Sharks              |         2 |  0         |
 | Newman                   |         2 |  1         |
 | Zebre                    |         2 |  1         |
 | Georgia                  |         2 |  1         |
@@ -72,15 +73,14 @@ categories: player
 | Stade Francais Paris     |         2 |  0.5       |
 | Stade Toulousain         |         2 |  0         |
 | Sunwolves                |         2 |  0.5       |
-| Bayonne                  |         2 |  0         |
 | San Luis                 |         1 |  1         |
 | SIC                      |         1 |  1         |
 | Romania                  |         1 |  0         |
 | Racing 92                |         1 |  0         |
 | Tonga                    |         1 |  1         |
 | Ulster                   |         1 |  1         |
-| United States of America |         1 |  1         |
 | Pucara                   |         1 |  0.5       |
+| United States of America |         1 |  1         |
 | Oyonnax                  |         1 |  0         |
 | Alumni                   |         1 |  0         |
 | Olivos                   |         1 |  1         |

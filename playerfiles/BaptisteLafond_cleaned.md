@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Lafond  
-date: 2022-12-12 15:28:15.443198  
+date: 2022-12-18 16:15:30.883131  
 categories: player  
 ---
 # Baptiste Lafond

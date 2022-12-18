@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taylor Gontineac  
-date: 2022-11-22 11:42:48.074205  
+date: 2022-12-18 16:31:58.754356  
 categories: player  
 ---
 # Taylor Gontineac
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 58.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -23,26 +23,27 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Rouen   |            21 |   0.452381 |
+| Rouen   |            23 |   0.413043 |
 | Romania |             5 |   0.4      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Colomiers        |         3 |   0.333333 |
 | Nevers           |         3 |   0        |
+| Colomiers        |         3 |   0.333333 |
+| Aurillac         |         3 |   0.333333 |
 | Vannes           |         2 |   1        |
 | Oyonnax          |         2 |   0.5      |
 | Grenoble         |         2 |   0        |
-| Aurillac         |         2 |   0.5      |
-| Narbonne         |         1 |   1        |
+| Mont-de-Marsan   |         1 |   1        |
 | US Bressane      |         1 |   0.5      |
 | Soyaux-Angouleme |         1 |   1        |
 | Portugal         |         1 |   0        |
+| Narbonne         |         1 |   1        |
 | Argentina        |         1 |   0        |
-| Mont-de-Marsan   |         1 |   1        |
-| Italy            |         1 |   0        |
+| Massy            |         1 |   1        |
 | Chile            |         1 |   1        |
 | Carcassonne      |         1 |   0        |
 | Brazil           |         1 |   1        |
+| Beziers          |         1 |   0        |
 | Bayonne          |         1 |   0        |
-| Massy            |         1 |   1        |
+| Italy            |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Tameifuna  
-date: 2022-12-12 14:52:02.101042  
+date: 2022-12-18 16:29:02.004959  
 categories: player  
 ---
 # Ben Tameifuna
@@ -25,7 +25,7 @@ categories: player
 |:----------------|--------------:|-----------:|
 | Racing 92       |           106 |   0.683962 |
 | Chiefs          |            65 |   0.661538 |
-| Bordeaux Begles |            59 |   0.601695 |
+| Bordeaux Begles |            60 |   0.591667 |
 | Waikato         |            20 |   0.45     |
 | Tonga           |            12 |   0.25     |
 | Hawke's Bay     |             4 |   0.5      |
@@ -51,9 +51,9 @@ categories: player
 | Racing 92                |         6 |   0.666667 |
 | Brumbies                 |         5 |   0.6      |
 | Bordeaux Begles          |         5 |   0.8      |
+| Sharks                   |         5 |   0.6      |
 | Perpignan                |         5 |   0.6      |
 | Munster                  |         4 |   0.5      |
-| Sharks                   |         4 |   0.75     |
 | Western Force            |         4 |   0.75     |
 | Cheetahs                 |         4 |   0.875    |
 | Bayonne                  |         4 |   0.75     |

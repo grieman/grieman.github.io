@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Damian Penaud  
-date: 2022-12-14 11:34:30.380644  
+date: 2022-12-18 16:13:17.717001  
 categories: player  
 ---
 # Damian Penaud
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 75.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           105 |   0.657143 |
+| Clermont Auvergne |           106 |   0.650943 |
 | France            |            37 |   0.581081 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,37 +32,38 @@ categories: player
 | Stade Toulousain     |         9 |   0.277778 |
 | La Rochelle          |         8 |   0.75     |
 | Toulon               |         8 |   0.625    |
-| Pau                  |         7 |   0.857143 |
 | Montpellier Herault  |         7 |   0.571429 |
+| Pau                  |         7 |   0.857143 |
 | Lyon                 |         6 |   0.833333 |
-| Scotland             |         6 |   0.5      |
 | Bordeaux Begles      |         6 |   0.416667 |
-| South Africa         |         5 |   0.2      |
+| Scotland             |         6 |   0.5      |
 | Agen                 |         5 |   0.8      |
 | Castres Olympique    |         5 |   0.6      |
 | Brive                |         5 |   0.8      |
+| South Africa         |         5 |   0.2      |
+| Stade Francais Paris |         4 |   0.5      |
 | Northampton Saints   |         4 |   1        |
 | Australia            |         4 |   0.5      |
-| Stade Francais Paris |         4 |   0.5      |
 | Japan                |         4 |   0.875    |
-| Bayonne              |         3 |   0.333333 |
 | Saracens             |         3 |   0.666667 |
 | Wales                |         3 |   0.333333 |
-| Italy                |         3 |   1        |
 | England              |         3 |   0.333333 |
+| Italy                |         3 |   1        |
+| Bayonne              |         3 |   0.333333 |
 | Ireland              |         3 |   0.666667 |
-| Argentina            |         2 |   1        |
-| Grenoble             |         2 |   1        |
 | Perpignan            |         2 |   1        |
-| Harlequins           |         2 |   1        |
 | Biarritz Olympique   |         2 |   1        |
+| Grenoble             |         2 |   1        |
+| Argentina            |         2 |   1        |
+| Harlequins           |         2 |   1        |
 | New Zealand          |         2 |   0.5      |
-| Timisoara Saracens   |         1 |   1        |
-| Ulster               |         1 |   1        |
-| Tonga                |         1 |   1        |
-| Dragons              |         1 |   1        |
-| Stormers             |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
-| Leinster             |         1 |   1        |
-| Ospreys              |         1 |   1        |
 | Georgia              |         1 |   1        |
+| Leicester Tigers     |         1 |   0        |
+| Dragons              |         1 |   1        |
+| Ospreys              |         1 |   1        |
+| Stormers             |         1 |   1        |
+| Timisoara Saracens   |         1 |   1        |
+| Tonga                |         1 |   1        |
+| Bath Rugby           |         1 |   1        |
+| Ulster               |         1 |   1        |
+| Leinster             |         1 |   1        |

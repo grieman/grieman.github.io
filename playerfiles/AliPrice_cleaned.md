@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ali Price  
-date: 2022-11-22 11:43:38.583630  
+date: 2022-12-18 16:31:08.624351  
 categories: player  
 ---
 # Ali Price
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 109.0
+## Current elo: 108.0
 
-## Current Percentile: 82.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Glasgow Warriors        |           109 |   0.53211  |
+| Glasgow Warriors        |           110 |   0.536364 |
 | Scotland                |            58 |   0.543103 |
 | British and Irish Lions |             3 |   0.333333 |
 | Saracens                |             2 |   0.5      |
@@ -50,23 +50,24 @@ categories: player
 | Benetton Treviso    |         5 |   0.8      |
 | Exeter Chiefs       |         4 |   0.375    |
 | Saracens            |         4 |   0        |
-| Racing 92           |         4 |   0.75     |
 | Georgia             |         4 |   1        |
+| Racing 92           |         4 |   0.75     |
 | Sale Sharks         |         3 |   0.666667 |
 | Dragons             |         3 |   1        |
-| Leicester Tigers    |         2 |   1        |
 | La Rochelle         |         2 |   0.5      |
 | Bulls               |         2 |   0.5      |
-| Lyon                |         2 |   1        |
-| Montpellier Herault |         2 |   0        |
-| Fiji                |         2 |   0.5      |
-| New Zealand         |         2 |   0        |
 | Cheetahs            |         2 |   1        |
-| Samoa               |         1 |   1        |
+| Montpellier Herault |         2 |   0        |
+| Lyon                |         2 |   1        |
+| New Zealand         |         2 |   0        |
+| Fiji                |         2 |   0.5      |
+| Leicester Tigers    |         2 |   1        |
 | Japan               |         1 |   1        |
+| Samoa               |         1 |   1        |
+| Perpignan           |         1 |   1        |
+| Northampton Saints  |         1 |   0        |
 | Sharks              |         1 |   0        |
 | Canada              |         1 |   1        |
 | Southern Kings      |         1 |   0        |
 | Stormers            |         1 |   0        |
 | Tonga               |         1 |   1        |
-| Northampton Saints  |         1 |   0        |

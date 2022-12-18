@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo Vidal  
-date: 2022-12-14 11:17:44.362999  
+date: 2022-12-18 16:35:36.952072  
 categories: player  
 ---
 # Théo Vidal

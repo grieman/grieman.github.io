@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Juan Martin Scelzo  
-date: 2022-12-14 11:36:50.786643  
+date: 2022-12-18 16:14:57.702852  
 categories: player  
 ---
 # Juan Martin Scelzo
 
 ## Positions: N8
 
-## Current elo: 97.0
+## Current elo: 94.0
 
-## Current Percentile: None
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |             2 |       0.75 |
+| Stade Francais Paris |             3 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Benetton Treviso |         1 |        1   |
+| Lions            |         1 |        0   |
 | Stade Toulousain |         1 |        0.5 |

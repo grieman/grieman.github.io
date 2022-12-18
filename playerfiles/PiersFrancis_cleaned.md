@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Piers Francis  
-date: 2022-12-14 11:35:27.827706  
+date: 2022-12-18 16:21:24.800380  
 categories: player  
 ---
 # Piers Francis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 84.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -28,7 +28,7 @@ categories: player
 | Counties Manukau   |            19 |   0.526316 |
 | Edinburgh          |            18 |   0.166667 |
 | England            |            10 |   0.7      |
-| Bath Rugby         |             7 |   0        |
+| Bath Rugby         |             8 |   0        |
 | Auckland           |             2 |   0.5      |
 | Waikato            |             1 |   1        |
 
@@ -43,56 +43,57 @@ categories: player
 | Worcester Warriors       |         6 |   0.833333 |
 | Saracens                 |         6 |   0        |
 | Bristol Rugby            |         6 |   0.166667 |
-| Leicester Tigers         |         4 |   0.75     |
 | London Irish             |         4 |   0.5      |
+| Leicester Tigers         |         4 |   0.75     |
 | Glasgow Warriors         |         4 |   0        |
-| Munster                  |         3 |   0        |
 | Leinster                 |         3 |   0        |
 | Clermont Auvergne        |         3 |   0        |
+| Munster                  |         3 |   0        |
+| Tasman                   |         3 |   0.333333 |
 | Chiefs                   |         3 |   0.166667 |
 | Newcastle Falcons        |         3 |   0        |
 | Ospreys                  |         3 |   0        |
-| Tasman                   |         3 |   0.333333 |
 | Melbourne Rebels         |         2 |   1        |
 | Auckland                 |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
-| Taranaki                 |         2 |   0        |
 | North Harbour            |         2 |   0        |
 | Racing 92                |         2 |   0        |
+| Taranaki                 |         2 |   0        |
 | Argentina                |         2 |   1        |
-| Highlanders              |         2 |   0        |
+| Waikato                  |         2 |   1        |
+| Hurricanes               |         2 |   0        |
 | Western Force            |         2 |   1        |
 | Wellington               |         2 |   0.5      |
-| Hawke's Bay              |         2 |   0.5      |
-| Dragons                  |         2 |   1        |
-| Crusaders                |         2 |   0        |
 | Wales                    |         2 |   0.5      |
-| Hurricanes               |         2 |   0        |
-| Waikato                  |         2 |   1        |
 | Canterbury               |         2 |   0.5      |
+| Highlanders              |         2 |   0        |
+| Crusaders                |         2 |   0        |
+| Dragons                  |         2 |   1        |
+| Hawke's Bay              |         2 |   0.5      |
+| Ulster                   |         1 |   1        |
+| United States of America |         1 |   1        |
+| Southern Kings           |         1 |   1        |
+| South Africa             |         1 |   0        |
+| Stormers                 |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Scarlets                 |         1 |   0        |
-| Stormers                 |         1 |   0        |
-| Ulster                   |         1 |   1        |
-| South Africa             |         1 |   0        |
-| Southern Kings           |         1 |   1        |
-| Samoa                    |         1 |   1        |
-| United States of America |         1 |   1        |
+| Toulon                   |         1 |   0        |
 | Lyon                     |         1 |   1        |
+| Samoa                    |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
-| Connacht                 |         1 |   0        |
 | Barbarians               |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
 | Benetton Treviso         |         1 |   0        |
 | Brumbies                 |         1 |   1        |
 | Bulls                    |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
+| Connacht                 |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
-| Otago                    |         1 |   1        |
 | Ireland                  |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Jaguares                 |         1 |   1        |
 | Lions                    |         1 |   0        |
 | Manawatu                 |         1 |   1        |
 | Northland                |         1 |   1        |
+| Otago                    |         1 |   1        |
 | Zebre                    |         1 |   1        |

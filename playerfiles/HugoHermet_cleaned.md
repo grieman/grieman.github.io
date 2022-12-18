@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Hermet  
-date: 2022-12-14 11:28:55.364529  
+date: 2022-12-18 16:16:10.646224  
 categories: player  
 ---
 # Hugo Hermet

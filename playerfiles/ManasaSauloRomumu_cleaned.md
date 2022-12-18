@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manasa Saulo Romumu  
-date: 2022-12-14 11:33:21.320757  
+date: 2022-12-18 16:37:22.555849  
 categories: player  
 ---
 # Manasa Saulo Romumu
@@ -26,7 +26,7 @@ categories: player
 | Fiji             |            28 |   0.392857 |
 | Toulon           |            22 |   0.590909 |
 | Fijian Drua      |            12 |   0.166667 |
-| Soyaux-Angouleme |             3 |   0.333333 |
+| Soyaux-Angouleme |             4 |   0.25     |
 | London Irish     |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,26 +36,27 @@ categories: player
 | Bordeaux Begles          |         3 |   0.666667 |
 | Tonga                    |         3 |   0.666667 |
 | Italy                    |         3 |   0.666667 |
-| Scotland                 |         2 |   0        |
-| Ireland                  |         2 |   0        |
-| France                   |         2 |   0.5      |
 | England                  |         2 |   0        |
-| Montpellier Herault      |         2 |   0.5      |
+| France                   |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   0        |
-| Clermont Auvergne        |         2 |   0        |
-| Australia                |         2 |   0        |
-| Uruguay                  |         2 |   0.5      |
 | New Zealand Maori        |         2 |   0.5      |
+| Australia                |         2 |   0        |
 | Oyonnax                  |         2 |   0.5      |
-| Pau                      |         1 |   1        |
-| Agen                     |         1 |   1        |
-| Queensland Reds          |         1 |   0        |
+| Ireland                  |         2 |   0        |
+| Montpellier Herault      |         2 |   0.5      |
+| Scotland                 |         2 |   0        |
+| Clermont Auvergne        |         2 |   0        |
+| Uruguay                  |         2 |   0.5      |
+| Montauban                |         1 |   0        |
+| Saracens                 |         1 |   0        |
 | Samoa                    |         1 |   0        |
+| Queensland Reds          |         1 |   0        |
+| Pau                      |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
 | Stade Toulousain         |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wasps                    |         1 |   1        |
-| Saracens                 |         1 |   0        |
+| Agen                     |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |

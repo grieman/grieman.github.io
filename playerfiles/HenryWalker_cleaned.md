@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Henry Walker  
-date: 2022-12-14 11:21:02.409033  
+date: 2022-12-18 16:36:17.746107  
 categories: player  
 ---
 # Henry Walker
 
 ## Positions: H
 
-## Current elo: 106.0
+## Current elo: 104.0
 
-## Current Percentile: None
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            48 |   0.333333 |
+| Gloucester Rugby |            49 |   0.326531 |
 | Hartpury College |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -44,6 +44,7 @@ categories: player
 | Stade Toulousain    |         1 |   0        |
 | Montpellier Herault |         1 |   1        |
 | Nottingham          |         1 |   0        |
+| Leinster            |         1 |   0        |
 | Harlequins          |         1 |   0        |
 | Coventry            |         1 |   1        |
 | Bedford             |         1 |   0        |

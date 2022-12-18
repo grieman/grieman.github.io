@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Loader  
-date: 2022-12-14 11:29:04.733664  
+date: 2022-12-18 16:33:07.896598  
 categories: player  
 ---
 # Ben Loader
 
 ## Positions: W
 
-## Current elo: 110.0
+## Current elo: 107.0
 
-## Current Percentile: 89.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            67 |   0.447761 |
+| London Irish |            68 |   0.441176 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -48,4 +48,5 @@ categories: player
 | Hartpury College     |         1 |   1        |
 | Saracens             |         1 |   0        |
 | Stade Francais Paris |         1 |   0        |
+| Stormers             |         1 |   0        |
 | Cornish Pirates      |         1 |   1        |

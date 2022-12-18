@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Cole  
-date: 2022-12-12 14:50:23.548981  
+date: 2022-12-18 16:11:45.642545  
 categories: player  
 ---
 # Dan Cole
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 65.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           293 |   0.624573 |
+| Leicester Tigers        |           294 |   0.62585  |
 | England                 |            91 |   0.708791 |
 | British and Irish Lions |             5 |   0.5      |
 
@@ -51,9 +51,9 @@ categories: player
 | Racing 92                |         7 |   0.142857 |
 | South Africa             |         7 |   0.214286 |
 | Ulster                   |         6 |   0.166667 |
+| Clermont Auvergne        |         5 |   0.6      |
 | Munster                  |         4 |   0.5      |
 | Perpignan                |         4 |   0.375    |
-| Clermont Auvergne        |         4 |   0.5      |
 | Ospreys                  |         4 |   0.625    |
 | Argentina                |         4 |   1        |
 | Toulon                   |         4 |   0.25     |

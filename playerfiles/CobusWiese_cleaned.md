@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cobus Wiese  
-date: 2022-12-14 11:29:20.651984  
+date: 2022-12-18 16:26:56.966274  
 categories: player  
 ---
 # Cobus Wiese
 
 ## Positions: L, FL
 
-## Current elo: 105.0
+## Current elo: 102.0
 
-## Current Percentile: 70.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Sale Sharks      |            48 |   0.65625  |
+| Sale Sharks      |            49 |   0.642857 |
 | Stormers         |            32 |   0.515625 |
 | Western Province |             4 |   0.5      |
 
@@ -54,6 +54,7 @@ categories: player
 | Brumbies            |         1 |   0        |
 | Highlanders         |         1 |   1        |
 | Golden Lions        |         1 |   1        |
+| Stade Toulousain    |         1 |   0        |
 | Free State Cheetahs |         1 |   1        |
 | Ulster              |         1 |   1        |
 | Cheetahs            |         1 |   1        |

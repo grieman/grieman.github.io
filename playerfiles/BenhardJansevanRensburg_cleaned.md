@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benhard Janse van Rensburg  
-date: 2022-12-14 11:31:44.934724  
+date: 2022-12-18 16:33:56.778480  
 categories: player  
 ---
 # Benhard Janse van Rensburg
 
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 49.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| London Irish          |            34 |   0.397059 |
+| London Irish          |            35 |   0.385714 |
 | Cheetahs              |            29 |   0.396552 |
 | Free State Cheetahs   |             7 |   0.571429 |
 | Green Rockets Tokatsu |             6 |   0        |
@@ -34,44 +34,44 @@ categories: player
 | Southern Kings        |         6 |   1        |
 | Ospreys               |         4 |   0.25     |
 | Zebre                 |         3 |   0.666667 |
+| Edinburgh             |         3 |   0.333333 |
 | Northampton Saints    |         3 |   0        |
 | Harlequins            |         3 |   0.333333 |
 | Sale Sharks           |         3 |   0.333333 |
 | Gloucester Rugby      |         3 |   0.166667 |
-| Edinburgh             |         3 |   0.333333 |
 | Exeter Chiefs         |         3 |   0.666667 |
 | Ulster                |         3 |   0.166667 |
 | Cardiff Blues         |         3 |   0.333333 |
 | Bristol Rugby         |         3 |   0.333333 |
 | Worcester Warriors    |         3 |   0.666667 |
 | Leicester Tigers      |         3 |   0        |
-| Leinster              |         2 |   0        |
+| Stormers              |         2 |   0.5      |
+| Munster               |         2 |   0        |
 | Scarlets              |         2 |   0        |
-| Saracens              |         2 |   0.75     |
 | Wasps                 |         2 |   0.25     |
+| Saracens              |         2 |   0.75     |
 | Western Province      |         2 |   1        |
 | Newcastle Falcons     |         2 |   1        |
-| Munster               |         2 |   0        |
 | Bath Rugby            |         2 |   0.5      |
-| Free State Cheetahs   |         2 |   0.5      |
+| Glasgow Warriors      |         2 |   0        |
+| Leinster              |         2 |   0        |
 | Blue Bulls            |         2 |   0.5      |
 | Connacht              |         2 |   0        |
-| Golden Lions          |         2 |   0.5      |
-| Glasgow Warriors      |         2 |   0        |
 | Dragons               |         2 |   0.5      |
+| Golden Lions          |         2 |   0.5      |
+| Free State Cheetahs   |         2 |   0.5      |
 | Shizuoka Blue Revs    |         1 |   0        |
 | Yokohama Canon Eagles |         1 |   0        |
 | Black Rams Tokyo      |         1 |   0        |
 | Cheetahs              |         1 |   0        |
 | Sunwolves             |         1 |   1        |
-| Stormers              |         1 |   1        |
 | Benetton Treviso      |         1 |   1        |
 | Montpellier Herault   |         1 |   0        |
+| Griquas               |         1 |   1        |
 | Saitama Wild Knights  |         1 |   0        |
 | Pumas                 |         1 |   1        |
-| Griquas               |         1 |   1        |
 | Hino Red Dolphins     |         1 |   0        |
 | Jaguares              |         1 |   1        |
-| Natal Sharks          |         1 |   0        |
 | Kobelco Kobe Steelers |         1 |   0        |
+| Natal Sharks          |         1 |   0        |
 | Melbourne Rebels      |         1 |   0.5      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anthony Meric  
-date: 2022-12-14 11:20:57.368372  
+date: 2022-12-18 16:34:39.329857  
 categories: player  
 ---
 # Anthony Meric
 
 ## Positions: SH
 
-## Current elo: 75.0
+## Current elo: 76.0
 
-## Current Percentile: 1.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Toulon           |            51 |   0.519608 |
-| Montauban        |             6 |   0.166667 |
+| Montauban        |             7 |   0.285714 |
 | Stade Toulousain |             5 |   0.4      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -51,5 +51,6 @@ categories: player
 | Perpignan            |         1 |   1        |
 | Provence Rugby       |         1 |   0        |
 | Bayonne              |         1 |   0        |
+| Soyaux-Angouleme     |         1 |   1        |
 | Bath Rugby           |         1 |   1        |
 | Leicester Tigers     |         1 |   1        |

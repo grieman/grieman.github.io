@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: German Kessler Lordon  
-date: 2022-12-12 15:31:45.211285  
+date: 2022-12-18 16:20:36.311884  
 categories: player  
 ---
 # German Kessler Lordon
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 57.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Provence Rugby   |            24 |   0.541667 |
+| Provence Rugby   |            25 |   0.52     |
 | Uruguay          |            17 |   0.470588 |
 | Soyaux-Angouleme |            14 |   0.178571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Vannes                     |         4 |   0.25     |
 | Aurillac                   |         3 |   0.333333 |
-| Vannes                     |         3 |   0.333333 |
 | Rouen                      |         3 |   0        |
 | Montauban                  |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.666667 |

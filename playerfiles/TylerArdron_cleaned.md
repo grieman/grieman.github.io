@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyler Ardron  
-date: 2022-12-14 11:32:55.170076  
+date: 2022-12-18 16:25:00.837299  
 categories: player  
 ---
 # Tyler Ardron

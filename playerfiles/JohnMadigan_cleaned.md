@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: John Madigan  
-date: 2022-12-12 15:30:53.863276  
+date: 2022-12-18 16:25:30.744050  
 categories: player  
 ---
 # John Madigan
 
 ## Positions: L
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            38 |   0.368421 |
+| Beziers |            39 |   0.384615 |
 | Massy   |            29 |   0.448276 |
 | Munster |             2 |   1        |
 
@@ -34,12 +34,12 @@ categories: player
 | Bayonne                    |         4 |   0.25     |
 | Provence Rugby             |         4 |   0.5      |
 | Aurillac                   |         4 |   0.5      |
+| Biarritz Olympique         |         4 |   0.75     |
 | Oyonnax                    |         4 |   0.125    |
 | Carcassonne                |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.666667 |
-| Biarritz Olympique         |         3 |   0.666667 |
 | Rouen                      |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         2 |   0.75     |
 | US Bressane                |         2 |   0        |

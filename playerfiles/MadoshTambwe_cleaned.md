@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Madosh Tambwe  
-date: 2022-12-12 14:49:05.237985  
+date: 2022-12-18 16:20:07.430250  
 categories: player  
 ---
 # Madosh Tambwe
 
 ## Positions: W
 
-## Current elo: 119.0
+## Current elo: 115.0
 
 ## Current Percentile: 94.0
 
@@ -24,7 +24,7 @@ categories: player
 | Bulls           |            20 |   0.65     |
 | Golden Lions    |            13 |   0.538462 |
 | Lions           |            12 |   0.833333 |
-| Bordeaux Begles |             8 |   0.4375   |
+| Bordeaux Begles |             9 |   0.388889 |
 | Blue Bulls      |             7 |   0.857143 |
 | Sharks          |             6 |   0.833333 |
 | Natal Sharks    |             1 |   1        |
@@ -33,8 +33,8 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Stormers                 |         7 |   0.571429 |
 | Pumas                    |         6 |   0.833333 |
+| Sharks                   |         5 |   0.4      |
 | Natal Sharks             |         4 |   0.25     |
-| Sharks                   |         4 |   0.5      |
 | Free State Cheetahs      |         3 |   1        |
 | Queensland Reds          |         3 |   0.666667 |
 | Griquas                  |         3 |   1        |

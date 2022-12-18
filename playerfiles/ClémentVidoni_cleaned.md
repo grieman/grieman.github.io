@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clément Vidoni  
-date: 2022-12-14 11:26:54.572048  
+date: 2022-12-18 16:31:33.929491  
 categories: player  
 ---
 # Clément Vidoni

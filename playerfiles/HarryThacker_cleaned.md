@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry Thacker  
-date: 2022-12-14 11:27:46.899957  
+date: 2022-12-18 16:27:23.349180  
 categories: player  
 ---
 # Harry Thacker
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 55.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bristol Rugby    |            78 |   0.474359 |
+| Bristol Rugby    |            79 |   0.481013 |
 | Leicester Tigers |            73 |   0.650685 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -40,11 +40,11 @@ categories: player
 | Leicester Tigers     |         7 |   0.5      |
 | Stade Francais Paris |         4 |   0.75     |
 | Munster              |         4 |   0.75     |
-| La Rochelle          |         2 |   0        |
+| Zebre                |         3 |   0.833333 |
 | Racing 92            |         2 |   0        |
 | Bristol Rugby        |         2 |   1        |
 | Brive                |         2 |   1        |
-| Zebre                |         2 |   0.75     |
+| La Rochelle          |         2 |   0        |
 | Dragons              |         2 |   1        |
 | Glasgow Warriors     |         2 |   0        |
 | Ospreys              |         1 |   1        |

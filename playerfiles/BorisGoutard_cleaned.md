@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Boris Goutard  
-date: 2022-12-14 11:14:02.139869  
+date: 2022-12-18 16:15:22.428383  
 categories: player  
 ---
 # Boris Goutard
 
 ## Positions: FB, FH
 
-## Current elo: 61.0
+## Current elo: 62.0
 
 ## Current Percentile: 0.0
 
@@ -21,25 +21,26 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Narbonne  |            25 |       0.22 |
-| Perpignan |             5 |       0.2  |
+| Narbonne  |            25 |   0.22     |
+| Perpignan |             6 |   0.166667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Dijon                |         2 |       0.5  |
 | Aurillac             |         2 |       0    |
 | US Bressane          |         2 |       0.5  |
 | Oyonnax              |         2 |       0    |
 | Montauban            |         2 |       0    |
+| Dijon                |         2 |       0.5  |
 | Aubenas              |         2 |       0.5  |
 | Grenoble             |         2 |       0.25 |
+| Albi                 |         1 |       0    |
 | La Rochelle          |         1 |       0    |
 | Stade Francais Paris |         1 |       0    |
 | Racing 92            |         1 |       0    |
 | Provence Rugby       |         1 |       1    |
 | Nevers               |         1 |       0    |
 | Mont-de-Marsan       |         1 |       0    |
-| Albi                 |         1 |       0    |
+| Glasgow Warriors     |         1 |       0    |
 | Dax                  |         1 |       0    |
 | Colomiers            |         1 |       0    |
 | Castres Olympique    |         1 |       1    |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Lafage  
-date: 2022-12-12 15:00:02.026437  
+date: 2022-12-18 16:19:22.724336  
 categories: player  
 ---
 # Maxime Lafage
 
 ## Positions: FH
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 43.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Colomiers   |            35 |   0.642857 |
 | Bayonne     |            34 |   0.5      |
 | La Rochelle |            21 |   0.761905 |
-| Vannes      |            13 |   0.576923 |
+| Vannes      |            14 |   0.607143 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,27 +39,27 @@ categories: player
 | Biarritz Olympique   |         4 |   1        |
 | Toulon               |         3 |   1        |
 | Racing 92            |         3 |   1        |
+| Provence Rugby       |         3 |   1        |
 | Bayonne              |         3 |   0.333333 |
 | Stade Francais Paris |         3 |   0.666667 |
 | Mont-de-Marsan       |         3 |   0.333333 |
 | Oyonnax              |         3 |   0.333333 |
-| Soyaux-Angouleme     |         3 |   0.666667 |
 | Grenoble             |         3 |   0.666667 |
 | Dax                  |         3 |   0.666667 |
 | Vannes               |         3 |   1        |
-| Colomiers            |         2 |   0.5      |
-| Aurillac             |         2 |   1        |
-| Rouen                |         2 |   0.5      |
-| RC Enisei            |         2 |   1        |
-| Provence Rugby       |         2 |   1        |
+| Soyaux-Angouleme     |         3 |   0.666667 |
+| Lyon                 |         2 |   0.5      |
+| Massy                |         2 |   1        |
+| Narbonne             |         2 |   1        |
+| Nevers               |         2 |   0.75     |
 | Castres Olympique    |         2 |   0        |
 | Pau                  |         2 |   0        |
-| Lyon                 |         2 |   0.5      |
-| Nevers               |         2 |   0.75     |
-| Narbonne             |         2 |   1        |
-| Massy                |         2 |   1        |
-| Tarbes               |         1 |   0        |
+| Colomiers            |         2 |   0.5      |
+| RC Enisei            |         2 |   1        |
+| Rouen                |         2 |   0.5      |
+| Aurillac             |         2 |   1        |
 | US Bressane          |         1 |   1        |
+| Tarbes               |         1 |   0        |
 | Bristol Rugby        |         1 |   1        |
 | Sale Sharks          |         1 |   1        |
 | Albi                 |         1 |   1        |

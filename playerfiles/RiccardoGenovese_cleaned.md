@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Riccardo Genovese  
-date: 2022-12-14 11:15:37.394615  
+date: 2022-12-18 16:18:53.701152  
 categories: player  
 ---
 # Riccardo Genovese

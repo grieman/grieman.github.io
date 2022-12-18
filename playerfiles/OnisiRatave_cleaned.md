@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Onisi Ratave  
-date: 2022-12-14 11:27:25.057844  
+date: 2022-12-18 16:36:21.248597  
 categories: player  
 ---
 # Onisi Ratave
 
 ## Positions: W
 
-## Current elo: 88.0
+## Current elo: 93.0
 
-## Current Percentile: 22.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,11 +23,12 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Fijian Drua      |            11 |   0.181818 |
 | Bay of Plenty    |             3 |   0.333333 |
-| Benetton Treviso |             2 |   0        |
+| Benetton Treviso |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Brumbies                 |         2 |          0 |
+| Bayonne                  |         1 |          1 |
 | Blues                    |         1 |          0 |
 | Chiefs                   |         1 |          0 |
 | Hawke's Bay              |         1 |          0 |

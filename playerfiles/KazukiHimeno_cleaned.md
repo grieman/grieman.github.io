@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kazuki Himeno  
-date: 2022-11-22 11:47:16.067758  
+date: 2022-12-18 16:25:53.871310  
 categories: player  
 ---
 # Kazuki Himeno
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 67.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,14 +23,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
+| Toyota Verblitz |            22 |  0.590909  |
 | Japan           |            21 |  0.452381  |
-| Toyota Verblitz |            21 |  0.571429  |
 | Highlanders     |            11 |  0.636364  |
 | Sunwolves       |            11 |  0.0909091 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Blues                             |         3 |   0.333333 |
+| Shizuoka Blue Revs                |         3 |   0.666667 |
 | Saitama Wild Knights              |         3 |   0        |
 | Queensland Reds                   |         3 |   0.666667 |
 | Hurricanes                        |         3 |   0        |
@@ -40,7 +41,6 @@ categories: player
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
 | Tokyo Sungoliath                  |         2 |   0        |
-| Shizuoka Blue Revs                |         2 |   0.5      |
 | Scotland                          |         2 |   0.5      |
 | Russia                            |         2 |   1        |
 | New Zealand                       |         2 |   0        |

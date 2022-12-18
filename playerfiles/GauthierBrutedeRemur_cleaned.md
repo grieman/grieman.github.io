@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gauthier Brute de Remur  
-date: 2022-12-14 11:18:51.375035  
+date: 2022-12-18 16:30:12.582528  
 categories: player  
 ---
 # Gauthier Brute de Remur

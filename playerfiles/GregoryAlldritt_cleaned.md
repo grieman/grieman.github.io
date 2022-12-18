@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gregory Alldritt  
-date: 2022-12-14 11:16:40.933423  
+date: 2022-12-18 16:20:24.426166  
 categories: player  
 ---
 # Gregory Alldritt
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 119.0
+## Current elo: 121.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            77 |   0.597403 |
+| La Rochelle |            78 |   0.602564 |
 | France      |            33 |   0.757576 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -48,17 +48,18 @@ categories: player
 | Bristol Rugby            |         3 |   0.666667 |
 | Brive                    |         3 |   1        |
 | Argentina                |         2 |   1        |
+| Perpignan                |         2 |   1        |
 | RC Enisei                |         2 |   1        |
 | Bayonne                  |         2 |   1        |
 | Exeter Chiefs            |         2 |   0        |
-| Perpignan                |         2 |   1        |
-| Glasgow Warriors         |         1 |   1        |
-| Georgia                  |         1 |   1        |
-| New Zealand              |         1 |   1        |
-| South Africa             |         1 |   1        |
-| Japan                    |         1 |   1        |
-| Tonga                    |         1 |   1        |
-| Northampton Saints       |         1 |   1        |
-| United States of America |         1 |   1        |
 | Australia                |         1 |   1        |
+| United States of America |         1 |   1        |
+| Ulster                   |         1 |   1        |
+| Tonga                    |         1 |   1        |
+| South Africa             |         1 |   1        |
+| New Zealand              |         1 |   1        |
+| Georgia                  |         1 |   1        |
+| Glasgow Warriors         |         1 |   1        |
+| Japan                    |         1 |   1        |
+| Northampton Saints       |         1 |   1        |
 | Zebre                    |         1 |   1        |

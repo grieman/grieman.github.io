@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastian Poet  
-date: 2022-12-14 11:33:09.196883  
+date: 2022-12-18 16:32:33.504949  
 categories: player  
 ---
 # Sebastian Poet
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 43.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Colomiers            |            62 |   0.548387 |
 | Atlético del Rosario |            46 |   0.423913 |
 | Tarbes               |            29 |   0.465517 |
-| US Bressane          |            22 |   0.454545 |
+| US Bressane          |            23 |   0.434783 |
 | Soyaux-Angouleme     |            17 |   0.411765 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -36,11 +36,11 @@ categories: player
 | Mont-de-Marsan             |         8 |  0.5       |
 | Carcassonne                |         8 |  0.625     |
 | Oyonnax                    |         6 |  0.0833333 |
+| Dax                        |         6 |  0.5       |
 | Perpignan                  |         5 |  0.6       |
 | Nevers                     |         5 |  0.2       |
 | Narbonne                   |         5 |  0.5       |
 | Albi                       |         5 |  0.2       |
-| Dax                        |         5 |  0.6       |
 | Vannes                     |         5 |  0.4       |
 | Belgrano                   |         4 |  0.375     |
 | Colomiers                  |         4 |  0.25      |

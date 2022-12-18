@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Sanchez  
-date: 2022-12-12 15:00:09.324488  
+date: 2022-12-18 16:20:34.151883  
 categories: player  
 ---
 # Nicolas Sanchez
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 126.0
+## Current elo: 125.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -28,7 +28,7 @@ categories: player
 | Jaguares             |            41 |  0.414634  |
 | Bordeaux Begles      |            17 |  0.0882353 |
 | Toulon               |            14 |  0.714286  |
-| Brive                |             2 |  0         |
+| Brive                |             3 |  0         |
 | Argentina Jaguares   |             1 |  0         |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -60,9 +60,9 @@ categories: player
 | Lyon                     |         3 |   0.666667 |
 | Southern Kings           |         3 |   0.333333 |
 | Agen                     |         3 |   0.666667 |
+| Connacht                 |         3 |   0.333333 |
 | Bordeaux Begles          |         3 |   0        |
 | Grenoble                 |         3 |   0.666667 |
-| Connacht                 |         2 |   0.5      |
 | Bristol Rugby            |         2 |   0        |
 | Stade Francais Paris     |         2 |   0        |
 | Chiefs                   |         2 |   0.5      |

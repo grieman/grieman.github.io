@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luan de Bruin  
-date: 2022-12-14 11:18:21.984860  
+date: 2022-12-18 16:32:59.743822  
 categories: player  
 ---
 # Luan de Bruin

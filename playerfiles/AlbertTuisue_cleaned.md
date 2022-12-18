@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Albert Tuisue  
-date: 2022-12-14 11:35:46.370676  
+date: 2022-12-18 16:35:29.677899  
 categories: player  
 ---
 # Albert Tuisue
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 101.0
+## Current elo: 100.0
 
 ## Current Percentile: 71.0
 
@@ -25,9 +25,9 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | London Irish        |            63 |   0.468254 |
 | Fiji                |            14 |   0.321429 |
+| Gloucester Rugby    |             8 |   0.75     |
 | Greater Sydney Rams |             8 |   0.375    |
 | Fijian Drua         |             7 |   0.857143 |
-| Gloucester Rugby    |             7 |   0.857143 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -53,8 +53,8 @@ categories: player
 | NSW Country Eagles  |         2 |   1        |
 | Brisbane City       |         2 |   1        |
 | Canberra Vikings    |         2 |   0.5      |
+| Leinster            |         1 |   0        |
 | London Irish        |         1 |   1        |
-| Samoa               |         1 |   0        |
 | Western Force       |         1 |   1        |
 | Bayonne             |         1 |   1        |
 | Wales               |         1 |   0        |
@@ -64,8 +64,8 @@ categories: player
 | Spain               |         1 |   1        |
 | Scarlets            |         1 |   0        |
 | Cornish Pirates     |         1 |   1        |
+| Samoa               |         1 |   0        |
 | Coventry            |         1 |   1        |
-| London Scottish     |         1 |   1        |
 | Richmond            |         1 |   1        |
 | Doncaster           |         1 |   1        |
 | Perth Spirit        |         1 |   0        |
@@ -77,4 +77,5 @@ categories: player
 | Georgia             |         1 |   0.5      |
 | Hartpury College    |         1 |   1        |
 | Ireland             |         1 |   0        |
+| London Scottish     |         1 |   1        |
 | Agen                |         1 |   1        |

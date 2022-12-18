@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Auguste Cadot  
-date: 2022-12-14 11:23:16.551955  
+date: 2022-12-18 16:30:31.406672  
 categories: player  
 ---
 # Auguste Cadot
 
 ## Positions: C
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 50.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            10 |       0.55 |
+| Biarritz Olympique |            11 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Agen             |         1 |        0   |
 | Aurillac         |         1 |        1   |
+| Beziers          |         1 |        0   |
 | Carcassonne      |         1 |        1   |
 | Colomiers        |         1 |        1   |
 | Montauban        |         1 |        1   |

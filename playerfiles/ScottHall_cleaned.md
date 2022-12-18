@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Hall  
-date: 2022-12-14 11:18:09.037413  
+date: 2022-12-18 16:39:17.601118  
 categories: player  
 ---
 # Scott Hall

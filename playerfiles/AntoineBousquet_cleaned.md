@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Bousquet  
-date: 2022-12-14 11:23:43.114864  
+date: 2022-12-18 16:23:05.008789  
 categories: player  
 ---
 # Antoine Bousquet

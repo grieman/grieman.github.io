@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aaron Wainwright  
-date: 2022-12-12 15:01:28.737611  
+date: 2022-12-18 16:15:05.803477  
 categories: player  
 ---
 # Aaron Wainwright
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 82.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |            73 |   0.30137  |
+| Dragons |            74 |   0.297297 |
 | Wales   |            34 |   0.661765 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -55,14 +55,15 @@ categories: player
 | Australia          |         2 |   1        |
 | Cheetahs           |         2 |   0        |
 | New Zealand        |         1 |   0        |
-| Bristol Rugby      |         1 |   0        |
+| Canada             |         1 |   1        |
 | Uruguay            |         1 |   1        |
 | Ulster             |         1 |   0.5      |
 | Tonga              |         1 |   1        |
+| Bristol Rugby      |         1 |   0        |
 | Sharks             |         1 |   0        |
-| Canada             |         1 |   1        |
 | Connacht           |         1 |   1        |
 | Saracens           |         1 |   0        |
+| Pau                |         1 |   0        |
 | Fiji               |         1 |   1        |
 | Georgia            |         1 |   1        |
 | Lions              |         1 |   0        |

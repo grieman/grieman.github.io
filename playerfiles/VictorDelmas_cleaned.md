@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor Delmas  
-date: 2022-12-14 11:20:39.768654  
+date: 2022-12-18 16:21:10.110660  
 categories: player  
 ---
 # Victor Delmas

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duane Vermeulen  
-date: 2022-12-14 11:20:09.616604  
+date: 2022-12-18 16:35:46.905262  
 categories: player  
 ---
 # Duane Vermeulen
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 133.0
+## Current elo: 131.0
 
 ## Current Percentile: 98.0
 
@@ -27,7 +27,7 @@ categories: player
 | Toulon                            |            68 |   0.573529 |
 | South Africa                      |            65 |   0.669231 |
 | Western Province                  |            19 |   0.684211 |
-| Ulster                            |            17 |   0.647059 |
+| Ulster                            |            18 |   0.611111 |
 | Bulls                             |            14 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |             7 |   0.571429 |
 | Blue Bulls                        |             4 |   0.75     |
@@ -55,9 +55,9 @@ categories: player
 | Castres Olympique         |         5 |   0.8      |
 | Clermont Auvergne         |         5 |   0.2      |
 | Queensland Reds           |         5 |   0.4      |
+| La Rochelle               |         5 |   0.5      |
 | Natal Sharks              |         5 |   0.4      |
 | Lyon                      |         5 |   0.5      |
-| La Rochelle               |         4 |   0.625    |
 | Ireland                   |         4 |   0.5      |
 | Leinster                  |         4 |   0.75     |
 | Golden Lions              |         4 |   0.5      |

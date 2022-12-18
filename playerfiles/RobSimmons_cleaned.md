@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Simmons  
-date: 2022-12-14 11:23:11.569306  
+date: 2022-12-18 16:17:14.997693  
 categories: player  
 ---
 # Rob Simmons
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 122.0
+## Current elo: 120.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Queensland Reds          |           114 |   0.52193  |
 | Australia                |           100 |   0.545    |
-| London Irish             |            47 |   0.404255 |
+| London Irish             |            48 |   0.395833 |
 | New South Wales Waratahs |            43 |   0.465116 |
 | Queensland Country       |             3 |   0        |
 | Sydney Rays              |             2 |   0        |
@@ -42,8 +42,8 @@ categories: player
 | New South Wales Waratahs |        12 |   0.416667 |
 | Blues                    |        10 |   0.45     |
 | Wales                    |        10 |   0.9      |
+| Stormers                 |         9 |   0.444444 |
 | Lions                    |         9 |   0.444444 |
-| Stormers                 |         8 |   0.5      |
 | Sharks                   |         8 |   0.25     |
 | Hurricanes               |         7 |   0.142857 |
 | England                  |         7 |   0.142857 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Ludlam  
-date: 2022-12-14 11:26:59.543676  
+date: 2022-12-18 16:37:45.894688  
 categories: player  
 ---
 # Lewis Ludlam
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 62.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            99 |   0.474747 |
+| Northampton Saints |           100 |   0.47     |
 | England            |            13 |   0.692308 |
 | Rotherham Titans   |             4 |   0        |
 
@@ -49,15 +49,16 @@ categories: player
 | Wales                    |         2 |   0.5      |
 | Lyon                     |         2 |   1        |
 | Scotland                 |         2 |   0.5      |
-| Canada                   |         1 |   1        |
 | United States of America |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
 | Scarlets                 |         1 |   1        |
+| Canada                   |         1 |   1        |
 | France                   |         1 |   0        |
 | La Rochelle              |         1 |   0        |
 | Nottingham               |         1 |   0        |
 | Cornish Pirates          |         1 |   0        |
+| Munster                  |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
 | London Scottish          |         1 |   0        |
 | Dragons                  |         1 |   1        |

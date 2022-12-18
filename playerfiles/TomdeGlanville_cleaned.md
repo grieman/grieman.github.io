@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom de Glanville  
-date: 2022-12-14 11:12:43.302363  
+date: 2022-12-18 16:32:52.122480  
 categories: player  
 ---
 # Tom de Glanville
 
 ## Positions: FB
 
-## Current elo: 86.0
+## Current elo: 82.0
 
-## Current Percentile: 28.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            48 |    0.34375 |
+| Bath Rugby |            49 |   0.336735 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | London Irish       |         2 |   1        |
 | Glasgow Warriors   |         1 |   0        |
 | Saracens           |         1 |   0        |
+| Toulon             |         1 |   0        |

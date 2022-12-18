@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ronan Kelleher  
-date: 2022-12-14 11:30:53.308268  
+date: 2022-12-18 16:18:08.156866  
 categories: player  
 ---
 # Ronan Kelleher
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 118.0
+## Current elo: 119.0
 
 ## Current Percentile: 96.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            24 |   0.916667 |
+| Leinster |            25 |   0.92     |
 | Ireland  |            15 |   0.733333 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -40,6 +40,7 @@ categories: player
 | England                  |         2 |   0.5      |
 | Dragons                  |         2 |   1        |
 | Connacht                 |         2 |   1        |
+| Gloucester Rugby         |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Lyon                     |         1 |   1        |
 | New Zealand              |         1 |   1        |

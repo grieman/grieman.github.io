@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Georgi Javakhia  
-date: 2022-12-14 11:13:00.935922  
+date: 2022-12-18 16:34:19.235738  
 categories: player  
 ---
 # Georgi Javakhia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 68.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            44 |   0.477273 |
+| Aurillac |            45 |   0.488889 |
 | Georgia  |             2 |   1        |
 | Lyon     |             1 |   0        |
 
@@ -40,9 +40,9 @@ categories: player
 | Carcassonne                |         2 |   0        |
 | Massy                      |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
+| Rouen                      |         2 |   0.5      |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Russia                     |         1 |   1        |
-| Rouen                      |         1 |   0        |
 | Agen                       |         1 |   0        |
 | Perpignan                  |         1 |   0        |
 | Narbonne                   |         1 |   1        |

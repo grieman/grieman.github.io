@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Eoghan Masterson  
-date: 2022-12-14 11:16:03.986011  
+date: 2022-12-18 16:12:32.105664  
 categories: player  
 ---
 # Eoghan Masterson
 
 ## Positions: FL, N8
 
-## Current elo: 95.0
+## Current elo: 99.0
 
-## Current Percentile: 33.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Connacht |           111 |   0.5      |
-| Aurillac |            12 |   0.666667 |
+| Aurillac |            13 |   0.692308 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -47,18 +47,19 @@ categories: player
 | Sale Sharks         |         2 |   0.5      |
 | Montpellier Herault |         2 |   0.5      |
 | Nevers              |         1 |   1        |
-| Newcastle Falcons   |         1 |   0        |
-| Montauban           |         1 |   1        |
-| Massy               |         1 |   1        |
-| Grenoble            |         1 |   0        |
-| Provence Rugby      |         1 |   1        |
-| RC Enisei           |         1 |   1        |
-| Colomiers           |         1 |   1        |
 | Carcassonne         |         1 |   0        |
-| Bordeaux Begles     |         1 |   1        |
-| Soyaux-Angouleme    |         1 |   1        |
-| Stade Toulousain    |         1 |   0        |
-| Biarritz Olympique  |         1 |   0        |
-| Vannes              |         1 |   1        |
 | Beziers             |         1 |   1        |
+| Vannes              |         1 |   1        |
+| Biarritz Olympique  |         1 |   0        |
+| Stade Toulousain    |         1 |   0        |
+| Soyaux-Angouleme    |         1 |   1        |
+| Bordeaux Begles     |         1 |   1        |
+| Colomiers           |         1 |   1        |
+| Newcastle Falcons   |         1 |   0        |
+| Rouen               |         1 |   1        |
+| RC Enisei           |         1 |   1        |
+| Provence Rugby      |         1 |   1        |
+| Grenoble            |         1 |   0        |
+| Massy               |         1 |   1        |
+| Montauban           |         1 |   1        |
 | Agen                |         1 |   0        |

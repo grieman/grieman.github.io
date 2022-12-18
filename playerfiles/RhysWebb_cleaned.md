@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Webb  
-date: 2022-12-14 11:33:22.696523  
+date: 2022-12-18 16:31:55.144586  
 categories: player  
 ---
 # Rhys Webb
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 69.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Ospreys                 |           200 |   0.57     |
+| Ospreys                 |           201 |   0.572139 |
 | Wales                   |            33 |   0.484848 |
 | Toulon                  |            24 |   0.458333 |
 | British and Irish Lions |             7 |   0.5      |
@@ -52,11 +52,12 @@ categories: player
 | France               |         4 |   0.5      |
 | Ireland              |         4 |   0.75     |
 | Racing 92            |         4 |   0.125    |
-| Saracens             |         3 |   0.166667 |
+| Montpellier Herault  |         3 |   0.5      |
 | Lyon                 |         3 |   0.333333 |
 | Aironi               |         3 |   1        |
-| Clermont Auvergne    |         3 |   0.333333 |
+| Saracens             |         3 |   0.166667 |
 | Castres Olympique    |         3 |   0.666667 |
+| Clermont Auvergne    |         3 |   0.333333 |
 | Scotland             |         2 |   0.5      |
 | Perpignan            |         2 |   1        |
 | Pau                  |         2 |   0.5      |
@@ -65,7 +66,6 @@ categories: player
 | Australia            |         2 |   0        |
 | Worcester Warriors   |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |
-| Montpellier Herault  |         2 |   0.25     |
 | Agen                 |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
 | Bulls                |         2 |   0        |

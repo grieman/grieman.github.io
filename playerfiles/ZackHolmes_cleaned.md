@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Zack Holmes  
-date: 2022-12-14 11:27:15.485810  
+date: 2022-12-18 16:35:22.010864  
 categories: player  
 ---
 # Zack Holmes
 
 ## Positions: FH, C
 
-## Current elo: 129.0
+## Current elo: 125.0
 
 ## Current Percentile: 97.0
 
@@ -25,7 +25,7 @@ categories: player
 | La Rochelle      |            49 |   0.561224 |
 | Western Force    |            26 |   0.423077 |
 | Brumbies         |            15 |   0.566667 |
-| Bordeaux Begles  |            10 |   0.45     |
+| Bordeaux Begles  |            11 |   0.409091 |
 | Perth Spirit     |            10 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -51,14 +51,14 @@ categories: player
 | Brumbies                 |         4 |   0        |
 | Perpignan                |         4 |   0.5      |
 | New South Wales Waratahs |         4 |   0.75     |
+| Sharks                   |         3 |   0        |
 | Cheetahs                 |         3 |   0.666667 |
 | Oyonnax                  |         3 |   0.5      |
-| Wasps                    |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
 | Blues                    |         2 |   0        |
 | Brisbane City            |         2 |   0        |
 | Stormers                 |         2 |   0        |
-| Bulls                    |         2 |   0.5      |
+| Wasps                    |         2 |   1        |
 | Melbourne Rising         |         2 |   0.5      |
 | Western Force            |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
@@ -66,7 +66,7 @@ categories: player
 | Hurricanes               |         2 |   0.5      |
 | Highlanders              |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
-| Sharks                   |         2 |   0        |
+| Bulls                    |         2 |   0.5      |
 | Ulster                   |         1 |   1        |
 | Southern Kings           |         1 |   0.5      |
 | Sydney Stars             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastien Bezy  
-date: 2022-12-14 11:19:06.235969  
+date: 2022-12-18 16:13:24.060917  
 categories: player  
 ---
 # Sebastien Bezy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Stade Toulousain  |           172 |   0.633721 |
-| Clermont Auvergne |            49 |   0.489796 |
+| Clermont Auvergne |            50 |   0.48     |
 | France            |             7 |   0.428571 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -46,24 +46,25 @@ categories: player
 | Clermont Auvergne    |         7 |   0.857143 |
 | Perpignan            |         6 |   0.666667 |
 | Connacht             |         5 |   0.8      |
-| Wasps                |         4 |   0.625    |
 | Stade Toulousain     |         4 |   0.5      |
+| Wasps                |         4 |   0.625    |
 | Zebre                |         4 |   1        |
 | Leinster             |         3 |   0.333333 |
 | Bath Rugby           |         3 |   1        |
 | Biarritz Olympique   |         3 |   1        |
-| Argentina            |         2 |   0.5      |
-| Sale Sharks          |         2 |   0.75     |
-| Ulster               |         2 |   0        |
-| Saracens             |         2 |   0.5      |
-| Gloucester Rugby     |         2 |   1        |
 | Glasgow Warriors     |         2 |   1        |
+| Ulster               |         2 |   0        |
 | Cardiff Blues        |         2 |   0        |
-| Munster              |         1 |   0        |
+| Sale Sharks          |         2 |   0.75     |
+| Argentina            |         2 |   0.5      |
+| Gloucester Rugby     |         2 |   1        |
+| Saracens             |         2 |   0.5      |
+| Leicester Tigers     |         1 |   0        |
+| Scotland             |         1 |   0        |
 | England              |         1 |   0        |
-| Italy                |         1 |   1        |
+| Ireland              |         1 |   1        |
 | Stormers             |         1 |   1        |
+| Italy                |         1 |   1        |
 | Ospreys              |         1 |   0        |
 | Wales                |         1 |   0        |
-| Ireland              |         1 |   1        |
-| Scotland             |         1 |   0        |
+| Munster              |         1 |   0        |

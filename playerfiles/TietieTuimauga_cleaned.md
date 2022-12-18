@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tietie Tuimauga  
-date: 2022-12-14 11:32:01.825166  
+date: 2022-12-18 16:16:52.287633  
 categories: player  
 ---
 # Tietie Tuimauga
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 68.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -26,24 +26,25 @@ categories: player
 | Connacht   |             7 |   0.571429 |
 | Wellington |             7 |   0.857143 |
 | Samoa      |             4 |   0.75     |
+| Brive      |             2 |   0        |
 | Manawatu   |             2 |   0.5      |
-| Brive      |             1 |   0        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Tonga             |         3 |        1   |
+| Waikato           |         2 |        0.5 |
 | Canterbury        |         2 |        0.5 |
 | Counties Manukau  |         2 |        1   |
-| Waikato           |         2 |        0.5 |
-| Auckland          |         1 |        1   |
-| Benetton Treviso  |         1 |        1   |
-| Cardiff Blues     |         1 |        0   |
-| Edinburgh         |         1 |        0   |
-| Glasgow Warriors  |         1 |        0   |
-| Hawke's Bay       |         1 |        1   |
-| Munster           |         1 |        1   |
 | New Zealand Maori |         1 |        0   |
-| North Harbour     |         1 |        1   |
-| Scarlets          |         1 |        1   |
-| Stormers          |         1 |        1   |
 | Ulster            |         1 |        0   |
+| Stormers          |         1 |        1   |
+| Scarlets          |         1 |        1   |
+| North Harbour     |         1 |        1   |
+| Auckland          |         1 |        1   |
+| Munster           |         1 |        1   |
+| Benetton Treviso  |         1 |        1   |
+| Glasgow Warriors  |         1 |        0   |
+| Edinburgh         |         1 |        0   |
+| Connacht          |         1 |        0   |
+| Cardiff Blues     |         1 |        0   |
+| Hawke's Bay       |         1 |        1   |

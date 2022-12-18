@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fletcher Smith  
-date: 2022-12-14 11:23:26.648414  
+date: 2022-12-18 16:14:00.016567  
 categories: player  
 ---
 # Fletcher Smith
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 11.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Waikato               |            27 |   0.555556 |
 | Highlanders           |            20 |   0.8      |
 | Hurricanes            |            14 |   0.714286 |
-| Lyon                  |             7 |   0.285714 |
+| Lyon                  |             8 |   0.25     |
 | Green Rockets Tokatsu |             6 |   0        |
 | New Zealand Maori     |             2 |   0.5      |
 
@@ -63,9 +63,10 @@ categories: player
 | Cheetahs                          |         1 |   1        |
 | Stade Francais Paris              |         1 |   1        |
 | Clermont Auvergne                 |         1 |   0        |
-| Saitama Wild Knights              |         1 |   0        |
+| Saracens                          |         1 |   0        |
 | Sharks                            |         1 |   1        |
 | Kobelco Kobe Steelers             |         1 |   0        |
+| Saitama Wild Knights              |         1 |   0        |
 | Racing 92                         |         1 |   0        |
 | Perpignan                         |         1 |   0        |
 | Counties Manukau                  |         1 |   0        |

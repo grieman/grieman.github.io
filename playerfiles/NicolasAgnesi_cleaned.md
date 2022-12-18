@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Agnesi  
-date: 2022-12-12 15:10:27.589748  
+date: 2022-12-18 16:39:46.902787  
 categories: player  
 ---
 # Nicolas Agnesi

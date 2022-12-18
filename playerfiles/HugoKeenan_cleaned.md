@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Keenan  
-date: 2022-12-14 11:19:48.519266  
+date: 2022-12-18 16:25:08.159151  
 categories: player  
 ---
 # Hugo Keenan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 122.0
+## Current elo: 123.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,26 +23,27 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            27 |   0.925926 |
+| Leinster |            28 |   0.928571 |
 | Ireland  |            21 |   0.761905 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Munster                  |         4 |       1    |
-| New Zealand              |         4 |       0.75 |
 | Ulster                   |         4 |       1    |
 | Glasgow Warriors         |         4 |       0.75 |
+| New Zealand              |         4 |       0.75 |
 | Connacht                 |         3 |       1    |
 | Dragons                  |         3 |       1    |
 | France                   |         3 |       0    |
+| Japan                    |         2 |       1    |
 | Wales                    |         2 |       0.5  |
 | Scotland                 |         2 |       1    |
 | Ospreys                  |         2 |       1    |
 | Zebre                    |         2 |       1    |
-| Japan                    |         2 |       1    |
 | Italy                    |         2 |       1    |
 | England                  |         2 |       1    |
 | Australia                |         1 |       1    |
+| Gloucester Rugby         |         1 |       1    |
 | Racing 92                |         1 |       1    |
 | Saracens                 |         1 |       0    |
 | Scarlets                 |         1 |       1    |

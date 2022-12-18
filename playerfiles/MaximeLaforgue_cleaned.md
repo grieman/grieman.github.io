@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Laforgue  
-date: 2022-12-14 11:30:44.193993  
+date: 2022-12-18 16:26:50.685766  
 categories: player  
 ---
 # Maxime Laforgue

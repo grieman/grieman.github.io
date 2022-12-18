@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Yeandle  
-date: 2022-12-14 11:31:15.515815  
+date: 2022-12-18 16:25:02.579105  
 categories: player  
 ---
 # Jack Yeandle
 
 ## Positions: H
 
-## Current elo: 127.0
+## Current elo: 128.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           245 |   0.640816 |
+| Exeter Chiefs |           246 |   0.642276 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -40,17 +40,18 @@ categories: player
 | Clermont Auvergne   |         5 |   0.2      |
 | London Welsh        |         4 |   1        |
 | Ospreys             |         3 |   0.666667 |
+| Castres Olympique   |         3 |   0.666667 |
 | Glasgow Warriors    |         3 |   0.666667 |
 | Leinster            |         3 |   0        |
-| Castres Olympique   |         3 |   0.666667 |
 | Montpellier Herault |         2 |   1        |
 | Munster             |         2 |   0.25     |
-| Cardiff Blues       |         2 |   1        |
 | Toulon              |         2 |   0        |
 | Ulster              |         2 |   0.5      |
 | Bordeaux Begles     |         2 |   0.5      |
+| Cardiff Blues       |         2 |   1        |
 | Bayonne             |         1 |   1        |
-| La Rochelle         |         1 |   1        |
-| Racing 92           |         1 |   1        |
 | Connacht            |         1 |   1        |
+| Racing 92           |         1 |   1        |
+| Bulls               |         1 |   1        |
+| La Rochelle         |         1 |   1        |
 | Stade Toulousain    |         1 |   1        |

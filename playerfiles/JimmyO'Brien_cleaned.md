@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jimmy O'Brien  
-date: 2022-12-14 11:19:13.475320  
+date: 2022-12-18 16:28:47.843021  
 categories: player  
 ---
 # Jimmy O'Brien
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            48 |    0.84375 |
-| Ireland  |             5 |    0.8     |
+| Leinster |            49 |   0.846939 |
+| Ireland  |             5 |   0.8      |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -32,19 +32,20 @@ categories: player
 | Zebre             |         5 |   1        |
 | Glasgow Warriors  |         5 |   1        |
 | Benetton Treviso  |         5 |   0.9      |
-| Ospreys           |         4 |   1        |
-| Munster           |         4 |   1        |
 | Connacht          |         4 |   0.75     |
+| Munster           |         4 |   1        |
+| Ospreys           |         4 |   1        |
+| Cardiff Blues     |         2 |   0.5      |
 | Dragons           |         2 |   1        |
 | Edinburgh         |         2 |   0.5      |
 | New Zealand Maori |         2 |   0.5      |
-| Cardiff Blues     |         2 |   0.5      |
+| Scarlets          |         1 |   1        |
+| Southern Kings    |         1 |   1        |
+| South Africa      |         1 |   1        |
+| Sharks            |         1 |   1        |
+| Australia         |         1 |   1        |
+| Racing 92         |         1 |   1        |
 | Fiji              |         1 |   1        |
 | Cheetahs          |         1 |   1        |
-| Racing 92         |         1 |   1        |
-| Scarlets          |         1 |   1        |
-| Sharks            |         1 |   1        |
-| South Africa      |         1 |   1        |
-| Southern Kings    |         1 |   1        |
 | Bulls             |         1 |   0        |
-| Australia         |         1 |   1        |
+| Gloucester Rugby  |         1 |   1        |

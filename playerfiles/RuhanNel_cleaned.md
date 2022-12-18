@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruhan Nel  
-date: 2022-12-14 11:25:52.641381  
+date: 2022-12-18 16:31:10.747101  
 categories: player  
 ---
 # Ruhan Nel
 
 ## Positions: C, W
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 92.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            36 |   0.680556 |
+| Stormers         |            37 |   0.689189 |
 | Western Province |            19 |   0.578947 |
 | Griquas          |             9 |   0.111111 |
 | Golden Lions     |             1 |   1        |
@@ -33,21 +33,22 @@ categories: player
 | Bulls               |         5 |      0.8   |
 | Golden Lions        |         5 |      0.4   |
 | Pumas               |         4 |      0.75  |
-| Blue Bulls          |         4 |      0.5   |
-| Griquas             |         4 |      0.5   |
 | Lions               |         4 |      0.75  |
 | Sharks              |         4 |      0.625 |
+| Blue Bulls          |         4 |      0.5   |
+| Griquas             |         4 |      0.5   |
+| Hurricanes          |         2 |      0.5   |
+| Jaguares            |         2 |      1     |
 | Dragons             |         2 |      1     |
 | Ulster              |         2 |      1     |
-| Jaguares            |         2 |      1     |
 | Western Province    |         2 |      0     |
-| Hurricanes          |         2 |      0.5   |
-| Munster             |         1 |      0     |
-| Queensland Reds     |         1 |      0     |
 | Ospreys             |         1 |      1     |
-| Scarlets            |         1 |      1     |
-| Benetton Treviso    |         1 |      0     |
 | Melbourne Rebels    |         1 |      1     |
+| Queensland Reds     |         1 |      0     |
+| Scarlets            |         1 |      1     |
+| Munster             |         1 |      0     |
+| Benetton Treviso    |         1 |      0     |
+| London Irish        |         1 |      1     |
 | Leinster            |         1 |      1     |
 | Glasgow Warriors    |         1 |      1     |
 | Edinburgh           |         1 |      1     |

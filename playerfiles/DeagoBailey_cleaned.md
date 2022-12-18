@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Deago Bailey  
-date: 2022-12-12 15:18:52.065710  
+date: 2022-12-18 16:36:57.446621  
 categories: player  
 ---
 # Deago Bailey
 
 ## Positions: W
 
-## Current elo: 80.0
+## Current elo: 76.0
 
-## Current Percentile: 3.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |             5 |       0.5  |
-| Bristol Rugby    |             2 |       0.25 |
+| Hartpury College |             5 |        0.5 |
+| Bristol Rugby    |             3 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | London Scottish  |         1 |        0.5 |
 | Nottingham       |         1 |        1   |
 | Saracens         |         1 |        0   |
+| Zebre            |         1 |        1   |

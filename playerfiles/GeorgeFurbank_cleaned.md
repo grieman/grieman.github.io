@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Furbank  
-date: 2022-12-14 11:13:09.519860  
+date: 2022-12-18 16:35:04.329052  
 categories: player  
 ---
 # George Furbank
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 113.0
+## Current elo: 111.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            74 |   0.540541 |
+| Northampton Saints |            75 |   0.533333 |
 | England            |             6 |   0.666667 |
 | Nottingham         |             2 |   0.5      |
 
@@ -43,9 +43,10 @@ categories: player
 | Worcester Warriors  |         3 |   1        |
 | France              |         2 |   0        |
 | Lyon                |         2 |   1        |
+| Italy               |         1 |   1        |
 | Benetton Treviso    |         1 |   1        |
-| La Rochelle         |         1 |   0        |
 | Ealing Trailfinders |         1 |   0        |
+| Munster             |         1 |   0        |
 | Dragons             |         1 |   1        |
 | Cornish Pirates     |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
@@ -53,4 +54,4 @@ categories: player
 | Timisoara Saracens  |         1 |   1        |
 | Tonga               |         1 |   1        |
 | Canada              |         1 |   1        |
-| Italy               |         1 |   1        |
+| La Rochelle         |         1 |   0        |

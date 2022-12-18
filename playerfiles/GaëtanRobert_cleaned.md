@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaëtan Robert  
-date: 2022-12-14 11:22:07.348959  
+date: 2022-12-18 16:20:31.474852  
 categories: player  
 ---
 # Gaëtan Robert

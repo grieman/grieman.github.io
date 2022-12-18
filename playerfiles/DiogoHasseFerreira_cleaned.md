@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diogo Hasse Ferreira  
-date: 2022-12-14 11:31:09.813118  
+date: 2022-12-18 16:28:28.314107  
 categories: player  
 ---
 # Diogo Hasse Ferreira
@@ -23,20 +23,20 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dax      |            24 |   0.541667 |
+| Dax      |            25 |   0.56     |
 | Portugal |            14 |   0.392857 |
 | Dijon    |             7 |   0.142857 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         5 |   0.2      |
+| US Bressane                |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
 | Suresnes                   |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Georgia                    |         3 |   0.166667 |
 | Albi                       |         2 |   0.5      |
-| US Bressane                |         2 |   0.5      |
 | Brazil                     |         2 |   0.5      |
 | Aubenas                    |         2 |   0.5      |
 | Massy                      |         2 |   0        |

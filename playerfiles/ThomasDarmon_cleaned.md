@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Darmon  
-date: 2022-12-14 11:19:32.903831  
+date: 2022-12-18 16:40:17.204390  
 categories: player  
 ---
 # Thomas Darmon
 
 ## Positions: C, FH
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: 24.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            66 |   0.537879 |
+| Montpellier Herault |            67 |   0.529851 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,9 +40,10 @@ categories: player
 | La Rochelle          |         2 |   0        |
 | Gloucester Rugby     |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   1        |
-| London Irish         |         1 |   1        |
+| Leinster             |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
+| Ospreys              |         1 |   0        |
 | Oyonnax              |         1 |   1        |
 | Connacht             |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
-| Leinster             |         1 |   0        |
+| London Irish         |         1 |   1        |

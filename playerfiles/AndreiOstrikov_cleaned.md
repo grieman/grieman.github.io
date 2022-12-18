@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andrei Ostrikov  
-date: 2022-12-14 11:29:22.010193  
+date: 2022-12-18 16:36:13.433555  
 categories: player  
 ---
 # Andrei Ostrikov
@@ -26,7 +26,7 @@ categories: player
 | Sale Sharks    |           143 |   0.503497 |
 | Aurillac       |            38 |   0.526316 |
 | Russia         |            32 |   0.28125  |
-| Mont-de-Marsan |            21 |   0.571429 |
+| Mont-de-Marsan |            22 |   0.590909 |
 | Grenoble       |            16 |   0.5      |
 | Agen           |             5 |   0.2      |
 
@@ -59,30 +59,29 @@ categories: player
 | Aurillac                   |         4 |   1        |
 | Auch                       |         4 |   0.5      |
 | Lyon                       |         4 |   0.5      |
+| Biarritz Olympique         |         3 |   1        |
 | Spain                      |         3 |   0        |
 | Dax                        |         3 |   0.666667 |
-| Biarritz Olympique         |         3 |   1        |
+| Carcassonne                |         3 |   0.666667 |
 | Tarbes                     |         3 |   0.333333 |
 | Scarlets                   |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0.333333 |
-| Perpignan                  |         2 |   0        |
 | Portugal                   |         2 |   1        |
 | Beziers                    |         2 |   0        |
 | Belgium                    |         2 |   1        |
-| Stade Toulousain           |         2 |   0.25     |
-| Bristol Rugby              |         2 |   0.5      |
+| Perpignan                  |         2 |   0        |
+| Dragons                    |         2 |   0.5      |
 | Toulon                     |         2 |   0        |
 | United States of America   |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
-| Dragons                    |         2 |   0.5      |
+| Stade Toulousain           |         2 |   0.25     |
 | Germany                    |         2 |   1        |
+| Bristol Rugby              |         2 |   0.5      |
 | Montauban                  |         2 |   0        |
-| Carcassonne                |         2 |   0.5      |
+| Nevers                     |         2 |   0.5      |
 | Munster                    |         2 |   0        |
 | Castres Olympique          |         2 |   1        |
-| Nevers                     |         2 |   0.5      |
-| Brive                      |         1 |   0        |
 | Clermont Auvergne          |         1 |   0        |
 | Lannemezan                 |         1 |   1        |
 | Cardiff Blues              |         1 |   1        |
@@ -92,6 +91,7 @@ categories: player
 | Massy                      |         1 |   0        |
 | Scotland                   |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
+| Brive                      |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |
 | Connacht                   |         1 |   0        |
 | Samoa                      |         1 |   0        |

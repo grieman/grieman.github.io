@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Max Clark  
-date: 2022-12-12 14:56:43.906785  
+date: 2022-12-18 16:29:21.755386  
 categories: player  
 ---
 # Max Clark
 
 ## Positions: C
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Bath Rugby |            85 |   0.470588 |
-| Dragons    |             6 |   0.5      |
+| Dragons    |             7 |   0.428571 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -40,6 +40,7 @@ categories: player
 | Leicester Tigers   |         4 |   0.5      |
 | Benetton Treviso   |         2 |   0.5      |
 | Cardiff Blues      |         2 |   0.5      |
+| Pau                |         1 |   0        |
 | Ospreys            |         1 |   1        |
 | Munster            |         1 |   1        |
 | Scarlets           |         1 |   1        |

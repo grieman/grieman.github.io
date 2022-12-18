@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Lewington  
-date: 2022-12-14 11:28:42.100403  
+date: 2022-12-18 16:36:15.553326  
 categories: player  
 ---
 # Alex Lewington
 
 ## Positions: W
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 78.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | London Irish     |           106 |   0.363208 |
-| Saracens         |            88 |   0.772727 |
+| Saracens         |            89 |   0.775281 |
 | Leicester Tigers |             8 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -44,11 +44,11 @@ categories: player
 | Cardiff Blues        |         5 |   0.8      |
 | Grenoble             |         4 |   0.5      |
 | Ospreys              |         3 |   0.666667 |
+| Lyon                 |         3 |   1        |
 | Lusitanos XV         |         2 |   1        |
 | Racing 92            |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Munster              |         2 |   0.5      |
-| Lyon                 |         2 |   1        |
 | Agen                 |         2 |   1        |
 | London Welsh         |         2 |   1        |
 | Doncaster            |         2 |   1        |

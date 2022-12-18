@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Joseph  
-date: 2022-12-14 11:33:59.629127  
+date: 2022-12-18 16:23:41.890224  
 categories: player  
 ---
 # Will Joseph
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 58.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            18 |   0.416667 |
+| London Irish |            19 |   0.394737 |
 | England      |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -41,3 +41,4 @@ categories: player
 | Harlequins          |         1 |       0    |
 | Montpellier Herault |         1 |       0    |
 | Northampton Saints  |         1 |       0    |
+| Stormers            |         1 |       0    |

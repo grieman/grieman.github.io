@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ilia Kaikatsishvili  
-date: 2022-12-12 15:21:36.836633  
+date: 2022-12-18 16:28:16.026586  
 categories: player  
 ---
 # Ilia Kaikatsishvili
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 94.0
 
 ## Current Percentile: 34.0
 
@@ -22,8 +22,8 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Grenoble |            29 |   0.5      |
+| Nevers   |            19 |   0.552632 |
 | Massy    |            18 |   0.333333 |
-| Nevers   |            18 |   0.527778 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -42,8 +42,8 @@ categories: player
 | Perpignan                  |         3 |   0        |
 | Provence Rugby             |         3 |   0.333333 |
 | Rouen                      |         2 |   0.5      |
-| Narbonne                   |         2 |   0.75     |
+| Agen                       |         2 |   0.5      |
 | Oyonnax                    |         2 |   1        |
+| Narbonne                   |         2 |   0.75     |
 | Roval Drome XV             |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Agen                       |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Evans  
-date: 2022-12-14 11:36:14.338962  
+date: 2022-12-18 16:32:39.084994  
 categories: player  
 ---
 # Will Evans
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 87.0
 
-## Current Percentile: 34.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Harlequins       |            44 |   0.511364 |
+| Harlequins       |            45 |   0.522222 |
 | Leicester Tigers |            40 |   0.525    |
 
 | Opponent           |   Matches |   Win Rate |
@@ -36,8 +36,8 @@ categories: player
 | London Irish       |         5 |   0.7      |
 | Bristol Rugby      |         5 |   0.4      |
 | Sale Sharks        |         5 |   0.8      |
+| Racing 92          |         4 |   0.5      |
 | Leicester Tigers   |         3 |   0.666667 |
-| Racing 92          |         3 |   0.333333 |
 | Glasgow Warriors   |         2 |   0        |
 | Newcastle Falcons  |         2 |   1        |
 | Ulster             |         2 |   0        |

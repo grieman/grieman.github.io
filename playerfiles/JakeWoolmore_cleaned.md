@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jake Woolmore  
-date: 2022-12-14 11:31:35.170311  
+date: 2022-12-18 16:15:08.621064  
 categories: player  
 ---
 # Jake Woolmore
 
 ## Positions: P
 
-## Current elo: 109.0
+## Current elo: 107.0
 
 ## Current Percentile: 88.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |           109 |   0.568807 |
+| Bristol Rugby |           110 |   0.572727 |
 | Jersey        |            19 |   0.684211 |
 | Exeter Chiefs |             1 |   1        |
 
@@ -39,8 +39,8 @@ categories: player
 | Saracens             |         7 |   0.285714 |
 | London Irish         |         6 |   0.666667 |
 | Newcastle Falcons    |         5 |   0.8      |
+| Zebre                |         4 |   0.625    |
 | London Scottish      |         3 |   1        |
-| Zebre                |         3 |   0.5      |
 | Doncaster            |         3 |   0.333333 |
 | Rotherham Titans     |         2 |   1        |
 | Bristol Rugby        |         2 |   0.5      |

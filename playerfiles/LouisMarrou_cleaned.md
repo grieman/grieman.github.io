@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Louis Marrou  
-date: 2022-12-14 11:26:36.740249  
+date: 2022-12-18 16:29:00.491618  
 categories: player  
 ---
 # Louis Marrou
 
 ## Positions: C
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 91.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Carcassonne    |            69 |   0.507246 |
-| Provence Rugby |            58 |   0.5      |
+| Provence Rugby |            59 |   0.491525 |
 | Rouen          |            14 |   0.285714 |
 | Grenoble       |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Vannes                     |        10 |   0.5      |
 | Montauban                  |        10 |   0.4      |
-| Vannes                     |         9 |   0.555556 |
 | Perpignan                  |         9 |   0.333333 |
 | Oyonnax                    |         9 |   0.388889 |
 | Colomiers                  |         8 |   0.125    |

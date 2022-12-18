@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Tompkins  
-date: 2022-12-14 11:17:19.553462  
+date: 2022-12-18 16:12:07.033956  
 categories: player  
 ---
 # Nick Tompkins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 129.0
+## Current elo: 128.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           149 |   0.734899 |
+| Saracens |           150 |   0.736667 |
 | Wales    |            23 |   0.413043 |
 | Dragons  |            11 |   0.409091 |
 
@@ -48,6 +48,7 @@ categories: player
 | Scotland            |         3 |   0.666667 |
 | Ireland             |         3 |   0.333333 |
 | Argentina           |         3 |   0.5      |
+| Lyon                |         3 |   1        |
 | Munster             |         3 |   0.666667 |
 | England             |         2 |   0        |
 | France              |         2 |   0        |
@@ -55,7 +56,6 @@ categories: player
 | Edinburgh           |         2 |   1        |
 | Leinster            |         2 |   0.5      |
 | Racing 92           |         2 |   0.5      |
-| Lyon                |         2 |   1        |
 | Ulster              |         2 |   0.5      |
 | Italy               |         2 |   0.5      |
 | Toulon              |         1 |   1        |

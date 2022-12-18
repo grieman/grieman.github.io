@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Florian Dufour  
-date: 2022-12-14 11:15:04.967140  
+date: 2022-12-18 16:34:40.014760  
 categories: player  
 ---
 # Florian Dufour
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 102.0
 
 ## Current Percentile: 84.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bordeaux Begles |            31 |   0.467742 |
-| Brive           |            17 |   0.176471 |
+| Brive           |            18 |   0.166667 |
 | Agen            |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -41,11 +41,11 @@ categories: player
 | Lyon                 |         2 |       0    |
 | La Rochelle          |         2 |       0    |
 | Edinburgh            |         2 |       0    |
+| Connacht             |         2 |       0    |
 | Castres Olympique    |         2 |       0    |
 | Grenoble             |         1 |       0    |
 | Oyonnax              |         1 |       0    |
 | Dragons              |         1 |       0    |
-| Connacht             |         1 |       0    |
 | Racing 92            |         1 |       0    |
 | Cardiff Blues        |         1 |       0    |
 | Brive                |         1 |       0    |

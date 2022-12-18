@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicky Smith  
-date: 2022-12-14 11:20:12.791057  
+date: 2022-12-18 16:13:40.856180  
 categories: player  
 ---
 # Nicky Smith
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 32.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ospreys |           150 |   0.543333 |
+| Ospreys |           151 |   0.546358 |
 | Wales   |            38 |   0.671053 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -52,25 +52,26 @@ categories: player
 | Clermont Auvergne    |         3 |   0.333333 |
 | Italy                |         3 |   1        |
 | Leicester Tigers     |         2 |   0        |
+| Lions                |         2 |   0        |
+| Lyon                 |         2 |   1        |
+| New Zealand          |         2 |   0        |
+| Grenoble             |         2 |   1        |
 | Racing 92            |         2 |   0        |
 | Stormers             |         2 |   0.25     |
 | Stade Francais Paris |         2 |   0.5      |
 | Southern Kings       |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
 | Georgia              |         2 |   1        |
-| New Zealand          |         2 |   0        |
-| Grenoble             |         2 |   1        |
-| Lyon                 |         2 |   1        |
-| Lions                |         2 |   0        |
-| Pau                  |         1 |   1        |
-| Sale Sharks          |         1 |   1        |
-| Samoa                |         1 |   1        |
-| Japan                |         1 |   1        |
-| Bordeaux Begles      |         1 |   1        |
 | Sharks               |         1 |   0        |
-| Newcastle Falcons    |         1 |   1        |
-| Bulls                |         1 |   0        |
-| Tonga                |         1 |   1        |
-| Canada               |         1 |   1        |
 | Uruguay              |         1 |   1        |
+| Canada               |         1 |   1        |
+| Tonga                |         1 |   1        |
+| Samoa                |         1 |   1        |
+| Bordeaux Begles      |         1 |   1        |
 | Gloucester Rugby     |         1 |   1        |
+| Japan                |         1 |   1        |
+| Sale Sharks          |         1 |   1        |
+| Pau                  |         1 |   1        |
+| Newcastle Falcons    |         1 |   1        |
+| Montpellier Herault  |         1 |   1        |
+| Bulls                |         1 |   0        |

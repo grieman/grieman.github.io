@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gautier Gibouin  
-date: 2022-12-14 11:33:07.849383  
+date: 2022-12-18 16:36:01.524991  
 categories: player  
 ---
 # Gautier Gibouin

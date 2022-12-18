@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Marco Manfredi  
-date: 2022-12-14 11:21:05.798206  
+date: 2022-12-18 16:37:35.639525  
 categories: player  
 ---
 # Marco Manfredi
 
 ## Positions: H
 
-## Current elo: 68.0
+## Current elo: 70.0
 
 ## Current Percentile: 0.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            28 |      0.125 |
+| Zebre  |            29 |    0.12069 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,11 +30,11 @@ categories: player
 | Glasgow Warriors |         3 |   0        |
 | Scarlets         |         3 |   0        |
 | Ulster           |         3 |   0        |
+| Bristol Rugby    |         2 |   0        |
 | Brive            |         2 |   0.5      |
 | Dragons          |         2 |   0        |
 | Leinster         |         2 |   0        |
 | Bayonne          |         1 |   0.5      |
-| Bristol Rugby    |         1 |   0        |
 | Cardiff Blues    |         1 |   0        |
 | Connacht         |         1 |   0        |
 | Munster          |         1 |   0        |

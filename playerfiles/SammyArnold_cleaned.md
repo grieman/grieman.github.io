@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sammy Arnold  
-date: 2022-12-12 15:25:08.761476  
+date: 2022-12-18 16:17:00.723507  
 categories: player  
 ---
 # Sammy Arnold
 
 ## Positions: C
 
-## Current elo: 85.0
+## Current elo: 82.0
 
 ## Current Percentile: 14.0
 
@@ -24,7 +24,7 @@ categories: player
 | Munster  |            45 |   0.688889 |
 | Connacht |            30 |   0.466667 |
 | Ulster   |            14 |   0.428571 |
-| Brive    |            10 |   0.2      |
+| Brive    |            11 |   0.181818 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,8 +38,8 @@ categories: player
 | Scarlets             |         5 |   0.4      |
 | Benetton Treviso     |         5 |   1        |
 | Zebre                |         5 |   1        |
+| Connacht             |         5 |   0.8      |
 | Leicester Tigers     |         4 |   0.5      |
-| Connacht             |         4 |   1        |
 | Dragons              |         4 |   0.5      |
 | Castres Olympique    |         3 |   0.333333 |
 | Stade Francais Paris |         3 |   0.333333 |

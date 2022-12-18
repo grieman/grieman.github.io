@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Lazzaroni  
-date: 2022-12-14 11:25:54.465141  
+date: 2022-12-18 16:20:43.545827  
 categories: player  
 ---
 # Marco Lazzaroni
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 63.0
+## Current elo: 65.0
 
 ## Current Percentile: 0.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |           122 |  0.290984  |
+| Benetton Treviso |           123 |  0.296748  |
 | Italy            |            12 |  0.0833333 |
 | Mogliano         |             4 |  0         |
 
@@ -42,9 +42,9 @@ categories: player
 | Ospreys              |         6 |  0.166667  |
 | Ireland              |         4 |  0         |
 | Northampton Saints   |         3 |  0         |
+| Bayonne              |         3 |  1         |
 | Stade Francais Paris |         3 |  0         |
 | Southern Kings       |         3 |  1         |
-| Bayonne              |         2 |  1         |
 | Wales                |         2 |  0         |
 | Bath Rugby           |         2 |  0         |
 | Toulon               |         2 |  0         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Javan Sebastian  
-date: 2022-12-14 11:29:50.487908  
+date: 2022-12-18 16:23:34.171039  
 categories: player  
 ---
 # Javan Sebastian
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 85.0
+## Current elo: 86.0
 
 ## Current Percentile: 12.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            50 |       0.41 |
-| Scotland |             4 |       0.5  |
+| Scarlets |            51 |   0.421569 |
+| Scotland |             4 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -39,6 +39,7 @@ categories: player
 | Connacht           |         3 |   0.666667 |
 | Edinburgh          |         2 |   0        |
 | Bayonne            |         2 |   1        |
+| Cheetahs           |         2 |   1        |
 | Sale Sharks        |         2 |   0        |
 | Toulon             |         2 |   0        |
 | Exeter Chiefs      |         1 |   0        |
@@ -47,7 +48,6 @@ categories: player
 | Lions              |         1 |   0        |
 | Chile              |         1 |   1        |
 | Northampton Saints |         1 |   0        |
-| Cheetahs           |         1 |   1        |
 | Southern Kings     |         1 |   1        |
 | Stormers           |         1 |   0        |
 | Bulls              |         1 |   0        |

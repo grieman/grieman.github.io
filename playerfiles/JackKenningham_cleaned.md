@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Kenningham  
-date: 2022-12-14 11:13:50.356112  
+date: 2022-12-18 16:15:50.117522  
 categories: player  
 ---
 # Jack Kenningham
 
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 108.0
 
-## Current Percentile: 91.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            32 |     0.6875 |
+| Harlequins |            33 |    0.69697 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,4 +38,5 @@ categories: player
 | Wasps              |         2 |   1        |
 | Worcester Warriors |         2 |   1        |
 | Cardiff Blues      |         1 |   1        |
+| Racing 92          |         1 |   1        |
 | Sharks             |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bynjamin Rabatel  
-date: 2022-12-14 11:13:08.607979  
+date: 2022-12-18 16:18:55.231381  
 categories: player  
 ---
 # Bynjamin Rabatel

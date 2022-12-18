@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Afusipa Taumoepeau  
-date: 2022-12-12 14:56:01.860771  
+date: 2022-12-18 16:36:27.626288  
 categories: player  
 ---
 # Afusipa Taumoepeau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 114.0
+## Current elo: 115.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Perpignan         |            95 |   0.447368 |
+| Perpignan         |            96 |   0.442708 |
 | Castres Olympique |            51 |   0.558824 |
 | Albi              |            48 |   0.520833 |
 | Pau               |            41 |   0.670732 |
@@ -34,68 +34,69 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Lyon                       |        11 |   0.363636 |
-| Racing 92                  |         9 |   0.444444 |
 | Beziers                    |         9 |   0.5      |
 | Biarritz Olympique         |         9 |   0.777778 |
-| Brive                      |         8 |   0.5      |
+| Racing 92                  |         9 |   0.444444 |
 | La Rochelle                |         8 |   0.5      |
-| Colomiers                  |         8 |   0.625    |
-| Montpellier Herault        |         8 |   0.375    |
-| Pau                        |         8 |   0.125    |
-| Mont-de-Marsan             |         8 |   0.375    |
-| Stade Francais Paris       |         8 |   0.25     |
-| Bordeaux Begles            |         8 |   0.6875   |
+| Brive                      |         8 |   0.5      |
 | Stade Toulousain           |         8 |   0.625    |
-| Aurillac                   |         8 |   0.875    |
+| Colomiers                  |         8 |   0.625    |
 | Toulon                     |         8 |   0.5      |
-| Carcassonne                |         7 |   0.642857 |
+| Pau                        |         8 |   0.125    |
+| Stade Francais Paris       |         8 |   0.25     |
+| Montpellier Herault        |         8 |   0.375    |
+| Bordeaux Begles            |         8 |   0.6875   |
+| Aurillac                   |         8 |   0.875    |
+| Mont-de-Marsan             |         8 |   0.375    |
 | Narbonne                   |         7 |   0.571429 |
-| Montauban                  |         7 |   0.428571 |
-| Clermont Auvergne          |         7 |   0.285714 |
 | Dax                        |         7 |   0.785714 |
-| Grenoble                   |         6 |   0.5      |
+| Clermont Auvergne          |         7 |   0.285714 |
+| Montauban                  |         7 |   0.428571 |
+| Carcassonne                |         7 |   0.642857 |
 | Tarbes                     |         6 |   0.666667 |
+| Grenoble                   |         6 |   0.5      |
 | Agen                       |         6 |   0.333333 |
 | Provence Rugby             |         5 |   0.6      |
 | Oyonnax                    |         5 |   0.6      |
-| Bayonne                    |         4 |   0.375    |
-| Bourgoin-Jallieu           |         4 |   0.5      |
-| Soyaux-Angouleme           |         4 |   1        |
 | Castres Olympique          |         4 |   0.25     |
-| Vannes                     |         3 |   1        |
-| Auch                       |         3 |   0.666667 |
+| Soyaux-Angouleme           |         4 |   1        |
+| Bourgoin-Jallieu           |         4 |   0.5      |
+| Bayonne                    |         4 |   0.375    |
 | Rouen                      |         3 |   0.333333 |
 | Queensland Reds            |         3 |   0.333333 |
+| Vannes                     |         3 |   1        |
+| Auch                       |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         2 |   1        |
+| Munster                    |         2 |   0.25     |
+| Massy                      |         2 |   1        |
+| Albi                       |         2 |   1        |
+| Connacht                   |         2 |   0        |
 | Blues                      |         2 |   0.5      |
 | Brumbies                   |         2 |   0.5      |
 | Bulls                      |         2 |   0.5      |
-| Western Force              |         2 |   0.5      |
-| Munster                    |         2 |   0.25     |
 | Chiefs                     |         2 |   0        |
-| Albi                       |         2 |   1        |
+| Western Force              |         2 |   0.5      |
 | Hurricanes                 |         2 |   0.5      |
-| Massy                      |         2 |   1        |
-| Connacht                   |         2 |   0        |
-| New South Wales Waratahs   |         1 |   0        |
 | Spain                      |         1 |   1        |
-| Highlanders                |         1 |   0        |
-| Hong Kong                  |         1 |   1        |
+| Nevers                     |         1 |   0        |
+| New South Wales Waratahs   |         1 |   0        |
 | Uruguay                    |         1 |   1        |
 | US Bressane                |         1 |   1        |
+| Northampton Saints         |         1 |   0        |
+| Cheetahs                   |         1 |   0        |
 | Stormers                   |         1 |   0        |
 | Leicester Tigers           |         1 |   0        |
-| Leinster                   |         1 |   0.5      |
-| Samoa                      |         1 |   0        |
 | Chile                      |         1 |   1        |
+| Hong Kong                  |         1 |   1        |
+| Highlanders                |         1 |   0        |
 | Sharks                     |         1 |   0        |
-| Northampton Saints         |         1 |   0        |
-| Sale Sharks                |         1 |   0        |
+| Samoa                      |         1 |   0        |
+| Leinster                   |         1 |   0.5      |
 | Roval Drome XV             |         1 |   1        |
-| Romania                    |         1 |   0        |
-| Périgueux                  |         1 |   1        |
 | England                    |         1 |   0        |
-| Cheetahs                   |         1 |   0        |
-| Nevers                     |         1 |   0        |
+| Romania                    |         1 |   0        |
 | Fiji                       |         1 |   0        |
+| Glasgow Warriors           |         1 |   0        |
+| Périgueux                  |         1 |   1        |
+| Sale Sharks                |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jaco Kriel  
-date: 2022-12-14 11:28:05.205936  
+date: 2022-12-18 16:22:42.950852  
 categories: player  
 ---
 # Jaco Kriel
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 125.0
+## Current elo: 126.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Lions            |            82 |   0.573171 |
+| Lions            |            83 |   0.578313 |
 | Golden Lions     |            39 |   0.666667 |
 | Gloucester Rugby |            17 |   0.647059 |
 | South Africa     |            11 |   0.590909 |
@@ -41,27 +41,28 @@ categories: player
 | Griquas                  |         5 |   0.6      |
 | Crusaders                |         5 |   0.2      |
 | Free State Cheetahs      |         5 |   0.8      |
-| Argentina                |         4 |   0.75     |
 | Highlanders              |         4 |   0.5      |
 | Southern Kings           |         4 |   1        |
 | Queensland Reds          |         4 |   0.75     |
+| Argentina                |         4 |   0.75     |
 | Blues                    |         4 |   0.75     |
+| Jaguares                 |         3 |   0.666667 |
+| Australia                |         3 |   0.5      |
+| Saracens                 |         3 |   0.333333 |
 | New South Wales Waratahs |         3 |   0.666667 |
 | Melbourne Rebels         |         3 |   1        |
-| Saracens                 |         3 |   0.333333 |
-| Jaguares                 |         3 |   0.666667 |
+| Pumas                    |         3 |   1        |
 | Eastern Province Kings   |         3 |   1        |
 | Chiefs                   |         3 |   0.333333 |
-| Pumas                    |         3 |   1        |
-| Australia                |         3 |   0.5      |
-| Scarlets                 |         2 |   0.5      |
-| Western Force            |         2 |   0        |
 | Sunwolves                |         2 |   1        |
+| Scarlets                 |         2 |   0.5      |
 | Wasps                    |         2 |   1        |
-| Sale Sharks              |         2 |   0.5      |
+| Western Force            |         2 |   0        |
 | Worcester Warriors       |         2 |   0.5      |
 | New Zealand              |         2 |   0        |
 | Newcastle Falcons        |         2 |   1        |
+| Sale Sharks              |         2 |   0.5      |
+| Stade Francais Paris     |         1 |   1        |
 | Leicester Tigers         |         1 |   1        |
 | Northampton Saints       |         1 |   1        |
 | Montpellier Herault      |         1 |   0        |

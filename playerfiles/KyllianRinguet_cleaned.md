@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyllian Ringuet  
-date: 2022-12-14 11:16:19.214529  
+date: 2022-12-18 16:18:50.353622  
 categories: player  
 ---
 # Kyllian Ringuet

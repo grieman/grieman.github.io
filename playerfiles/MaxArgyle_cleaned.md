@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Argyle  
-date: 2022-12-14 11:18:59.258936  
+date: 2022-12-18 16:31:11.458824  
 categories: player  
 ---
 # Max Argyle

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gautier Lacointa  
-date: 2022-12-14 11:31:45.712002  
+date: 2022-12-18 16:31:29.824545  
 categories: player  
 ---
 # Gautier Lacointa

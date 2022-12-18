@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ollie Lawrence  
-date: 2022-12-14 11:20:14.190786  
+date: 2022-12-18 16:23:40.508998  
 categories: player  
 ---
 # Ollie Lawrence
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 36.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            52 |   0.326923 |
-| Bath Rugby         |             7 |   0.428571 |
+| Bath Rugby         |             8 |   0.375    |
 | England            |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -52,4 +52,5 @@ categories: player
 | Glasgow Warriors         |         1 |   0        |
 | France                   |         1 |   1        |
 | Scotland                 |         1 |   0        |
+| Toulon                   |         1 |   0        |
 | United States of America |         1 |   1        |

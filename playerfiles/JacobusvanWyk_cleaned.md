@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jacobus van Wyk  
-date: 2022-12-14 11:31:16.381197  
+date: 2022-12-18 16:19:21.054047  
 categories: player  
 ---
 # Jacobus van Wyk
 
 ## Positions: W
 
-## Current elo: 113.0
+## Current elo: 116.0
 
-## Current Percentile: None
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Leicester Tigers |            15 |   0.533333 |
 | Natal Sharks     |            15 |   0.8      |
 | Hurricanes       |             8 |   0.75     |
-| Zebre            |             2 |   0        |
+| Zebre            |             3 |   0        |
 | Bordeaux Begles  |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -60,6 +60,7 @@ categories: player
 | Melbourne Rebels         |         2 |   0.5      |
 | London Irish             |         2 |   0.5      |
 | Gloucester Rugby         |         2 |   1        |
+| Bristol Rugby            |         2 |   0        |
 | Natal Sharks             |         1 |   1        |
 | Northampton Saints       |         1 |   0        |
 | Harlequins               |         1 |   0        |
@@ -70,5 +71,4 @@ categories: player
 | Toulon                   |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
-| Bristol Rugby            |         1 |   0        |
 | Bath Rugby               |         1 |   1        |

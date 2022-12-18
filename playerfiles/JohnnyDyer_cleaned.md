@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johnny Dyer  
-date: 2022-12-14 11:26:34.389528  
+date: 2022-12-18 16:18:12.305518  
 categories: player  
 ---
 # Johnny Dyer
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 77.0
+## Current elo: 78.0
 
-## Current Percentile: 5.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            51 |   0.441176 |
+| Biarritz Olympique |            52 |   0.432692 |
 | Fijian Drua        |             7 |   0.571429 |
 | Fiji               |             3 |   0        |
 
@@ -31,12 +31,12 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Perpignan                  |         3 |   0.333333 |
 | Rouen                      |         3 |   0.666667 |
+| Beziers                    |         3 |   0.333333 |
 | Colomiers                  |         3 |   1        |
 | Nevers                     |         2 |   0.75     |
 | Racing 92                  |         2 |   0.5      |
 | Pau                        |         2 |   0        |
 | Oyonnax                    |         2 |   0.5      |
-| Beziers                    |         2 |   0.5      |
 | Stade Francais Paris       |         2 |   0.5      |
 | Montpellier Herault        |         2 |   0        |
 | Montauban                  |         2 |   0.5      |

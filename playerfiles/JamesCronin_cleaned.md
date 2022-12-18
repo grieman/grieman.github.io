@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Cronin  
-date: 2022-11-16 11:21:02.019108  
+date: 2022-12-18 16:38:10.337028  
 categories: player  
 ---
 # James Cronin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Munster            |           134 |   0.690299 |
 | Biarritz Olympique |            14 |   0.285714 |
-| Leicester Tigers   |             7 |   0.428571 |
+| Leicester Tigers   |             8 |   0.5      |
 | Ireland            |             3 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -47,14 +47,14 @@ categories: player
 | Sale Sharks          |         3 |   0.666667 |
 | Perpignan            |         3 |   0.666667 |
 | Leicester Tigers     |         3 |   0        |
+| Clermont Auvergne    |         3 |   0.333333 |
 | Gloucester Rugby     |         3 |   1        |
-| La Rochelle          |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0.25     |
 | Bordeaux Begles      |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Southern Kings       |         2 |   1        |
-| Clermont Auvergne    |         2 |   0        |
+| La Rochelle          |         2 |   0.5      |
 | France               |         1 |   0        |
 | Pau                  |         1 |   0        |
 | Italy                |         1 |   1        |

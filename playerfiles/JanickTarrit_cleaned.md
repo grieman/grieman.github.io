@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Janick Tarrit  
-date: 2022-12-14 11:14:31.254947  
+date: 2022-12-18 16:18:40.545499  
 categories: player  
 ---
 # Janick Tarrit
 
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 92.0
 
 ## Current Percentile: 15.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Nevers    |            36 |   0.569444 |
-| Racing 92 |            12 |   0.583333 |
+| Racing 92 |            13 |   0.538462 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -42,11 +42,12 @@ categories: player
 | Pau                        |         1 |   1        |
 | Narbonne                   |         1 |   1        |
 | Montpellier Herault        |         1 |   1        |
-| Lyon                       |         1 |   1        |
-| Mont-de-Marsan             |         1 |   1        |
-| Aurillac                   |         1 |   1        |
 | Leinster                   |         1 |   0        |
+| Mont-de-Marsan             |         1 |   1        |
+| Lyon                       |         1 |   1        |
+| Aurillac                   |         1 |   1        |
 | La Rochelle                |         1 |   0        |
+| Harlequins                 |         1 |   0        |
 | Colomiers                  |         1 |   1        |
 | Clermont Auvergne          |         1 |   1        |
 | Castres Olympique          |         1 |   1        |

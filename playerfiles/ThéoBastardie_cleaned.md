@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Bastardie  
-date: 2022-12-14 11:22:02.032888  
+date: 2022-12-18 16:30:38.152888  
 categories: player  
 ---
 # Théo Bastardie
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 68.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |             3 |        0.5 |
+| Vannes |             4 |      0.625 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Aurillac   |         1 |        0   |
-| Montauban  |         1 |        0.5 |
-| Nevers     |         1 |        1   |
+| Opponent       |   Matches |   Win Rate |
+|:---------------|----------:|-----------:|
+| Aurillac       |         1 |        0   |
+| Montauban      |         1 |        0.5 |
+| Nevers         |         1 |        1   |
+| Provence Rugby |         1 |        1   |

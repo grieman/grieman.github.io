@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain Sazy  
-date: 2022-12-14 11:34:34.000094  
+date: 2022-12-18 16:22:35.163622  
 categories: player  
 ---
 # Romain Sazy
 
 ## Positions: L, FL
 
-## Current elo: 95.0
+## Current elo: 99.0
 
-## Current Percentile: 44.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           293 |   0.573379 |
+| La Rochelle |           294 |   0.57483  |
 | Montauban   |            15 |   0.133333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -55,21 +55,21 @@ categories: player
 | Colomiers            |         4 |   1        |
 | Albi                 |         4 |   1        |
 | Mont-de-Marsan       |         3 |   0.666667 |
-| Tarbes               |         3 |   0        |
 | Provence Rugby       |         3 |   0.666667 |
+| Tarbes               |         3 |   0        |
 | Bristol Rugby        |         3 |   0.666667 |
 | Worcester Warriors   |         2 |   0.5      |
 | Wasps                |         2 |   0.5      |
+| Ulster               |         2 |   1        |
 | Sale Sharks          |         2 |   0.5      |
 | Périgueux            |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
 | Massy                |         2 |   1        |
-| Edinburgh            |         1 |   1        |
 | Newcastle Falcons    |         1 |   0        |
 | Scarlets             |         1 |   0        |
+| Edinburgh            |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | US Bressane          |         1 |   1        |
-| Ulster               |         1 |   1        |
 | Harlequins           |         1 |   1        |
 | Northampton Saints   |         1 |   1        |

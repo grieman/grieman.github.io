@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nathan McBeth  
-date: 2022-12-14 11:16:54.000592  
+date: 2022-12-18 16:38:25.580209  
 categories: player  
 ---
 # Nathan McBeth

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sibabalo Qoma  
-date: 2022-12-14 11:17:34.016328  
+date: 2022-12-18 16:40:18.524032  
 categories: player  
 ---
 # Sibabalo Qoma
@@ -23,7 +23,7 @@ categories: player
 |:---------|--------------:|-----------:|
 | Griquas  |            17 |   0.529412 |
 | Griffons |             6 |   0.75     |
-| Cheetahs |             1 |   1        |
+| Cheetahs |             2 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -39,4 +39,5 @@ categories: player
 | Leopards               |         1 |   1        |
 | Pau                    |         1 |   1        |
 | SWD Eagles             |         1 |   0.5      |
+| Scarlets               |         1 |   0        |
 | Valke                  |         1 |   0.5      |

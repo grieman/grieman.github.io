@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jean-Pierre Smith  
-date: 2022-12-14 11:35:31.439170  
+date: 2022-12-18 16:40:00.066428  
 categories: player  
 ---
 # Jean-Pierre Smith
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 97.0
 
 ## Current Percentile: 43.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Queensland Reds  |            39 |   0.397436 |
 | Brumbies         |            24 |   0.583333 |
-| Lions            |            17 |   0.647059 |
+| Lions            |            18 |   0.666667 |
 | Canberra Vikings |             8 |   0.375    |
 | L. A. Giltinis   |             8 |   0.875    |
 | Brisbane City    |             7 |   0.571429 |
@@ -60,18 +60,19 @@ categories: player
 | Crusaders                |         2 |   0        |
 | Highlanders              |         2 |   0.5      |
 | Houston SaberCats        |         1 |   1        |
-| Connacht                 |         1 |   0        |
+| Cheetahs                 |         1 |   0        |
 | Brisbane City            |         1 |   0        |
 | Utah Warriors            |         1 |   1        |
 | Ulster                   |         1 |   0        |
 | Sydney Stars             |         1 |   0.5      |
 | Sydney Rays              |         1 |   1        |
 | Canberra Vikings         |         1 |   0        |
+| Stade Francais Paris     |         1 |   1        |
 | Southern Kings           |         1 |   1        |
-| Cheetahs                 |         1 |   0        |
-| Rugby ATL                |         1 |   0        |
-| Scarlets                 |         1 |   1        |
 | San Diego Legion         |         1 |   1        |
+| Connacht                 |         1 |   0        |
+| Scarlets                 |         1 |   1        |
+| Rugby ATL                |         1 |   0        |
 | Perth Spirit             |         1 |   0        |
 | North Harbour Rays       |         1 |   0.5      |
 | Fijian Drua              |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruan Pienaar  
-date: 2022-12-14 11:31:36.637315  
+date: 2022-12-18 16:32:57.595741  
 categories: player  
 ---
 # Ruan Pienaar
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 121.0
+## Current elo: 119.0
 
 ## Current Percentile: 96.0
 
@@ -28,7 +28,7 @@ categories: player
 | Montpellier Herault |            40 |   0.5375   |
 | Sharks              |            26 |   0.538462 |
 | Free State Cheetahs |            22 |   0.659091 |
-| Cheetahs            |            10 |   0.4      |
+| Cheetahs            |            11 |   0.363636 |
 | Munster             |             1 |   1        |
 | Natal Sharks        |             1 |   1        |
 
@@ -36,8 +36,8 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Leinster                 |        20 |   0.25     |
 | Australia                |        15 |   0.466667 |
+| Scarlets                 |        15 |   0.6      |
 | New Zealand              |        15 |   0.2      |
-| Scarlets                 |        14 |   0.642857 |
 | Glasgow Warriors         |        12 |   0.583333 |
 | Edinburgh                |        11 |   0.727273 |
 | Dragons                  |        10 |   0.9      |

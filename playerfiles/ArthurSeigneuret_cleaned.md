@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Seigneuret  
-date: 2022-12-14 11:14:53.363488  
+date: 2022-12-18 16:20:48.253465  
 categories: player  
 ---
 # Arthur Seigneuret
 
 ## Positions: C
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            12 |   0.583333 |
+| Massy  |            13 |   0.538462 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Chambery                   |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Colomiers                  |         1 |        0   |
+| Grenoble                   |         1 |        0   |

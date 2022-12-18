@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dorian Aldegheri  
-date: 2022-12-14 11:29:01.399048  
+date: 2022-12-18 16:27:30.787750  
 categories: player  
 ---
 # Dorian Aldegheri
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 117.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |           156 |   0.605769 |
-| France           |             6 |   0.5      |
+| Stade Toulousain |           157 |    0.60828 |
+| France           |             6 |    0.5     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -51,10 +51,10 @@ categories: player
 | Munster              |         2 |   0.5      |
 | England              |         2 |   0        |
 | Cardiff Blues        |         2 |   0.5      |
-| Saracens             |         1 |   0        |
+| Sale Sharks          |         2 |   1        |
 | Scotland             |         1 |   1        |
 | Leinster             |         1 |   0        |
-| Sale Sharks          |         1 |   1        |
+| Saracens             |         1 |   0        |
 | Perpignan            |         1 |   1        |
 | Bath Rugby           |         1 |   1        |
 | Ireland              |         1 |   0        |

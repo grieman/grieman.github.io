@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Salmaan Moerat  
-date: 2022-12-14 11:23:42.122030  
+date: 2022-12-18 16:22:49.575415  
 categories: player  
 ---
 # Salmaan Moerat
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 69.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            31 |   0.580645 |
-| Western Province |            10 |   0.4      |
-| South Africa     |             3 |   1        |
+| Stormers         |            32 |    0.59375 |
+| Western Province |            10 |    0.4     |
+| South Africa     |             3 |    1       |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -52,6 +52,7 @@ categories: player
 | Benetton Treviso    |         1 |   0        |
 | Munster             |         1 |   0        |
 | Melbourne Rebels    |         1 |   1        |
+| London Irish        |         1 |   1        |
 | Leinster            |         1 |   1        |
 | Italy               |         1 |   1        |
 | Highlanders         |         1 |   0        |

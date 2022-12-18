@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Kockott  
-date: 2022-12-14 11:32:54.511960  
+date: 2022-12-18 16:19:02.324767  
 categories: player  
 ---
 # Rory Kockott
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 105.0
+## Current elo: 106.0
 
 ## Current Percentile: 79.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           259 |   0.542471 |
+| Castres Olympique |           260 |   0.540385 |
 | Sharks            |            25 |   0.6      |
 | Lions             |            15 |   0.2      |
 | Natal Sharks      |             9 |   0.666667 |
@@ -59,34 +59,35 @@ categories: player
 | Leinster                 |         3 |   0        |
 | Exeter Chiefs            |         3 |   0.333333 |
 | Hurricanes               |         3 |   0.666667 |
-| Blues                    |         3 |   0.666667 |
-| Highlanders              |         3 |   1        |
-| Brumbies                 |         3 |   0.666667 |
-| Harlequins               |         3 |   0        |
 | Chiefs                   |         3 |   0.333333 |
+| Highlanders              |         3 |   1        |
+| Blues                    |         3 |   0.666667 |
+| Harlequins               |         3 |   0        |
+| Brumbies                 |         3 |   0.666667 |
+| New South Wales Waratahs |         2 |   0        |
 | Ospreys                  |         2 |   0.5      |
-| Blue Bulls               |         2 |   1        |
-| Ulster                   |         2 |   0        |
-| Crusaders                |         2 |   0        |
 | Gloucester Rugby         |         2 |   0.5      |
 | Worcester Warriors       |         2 |   1        |
+| Ulster                   |         2 |   0        |
+| Crusaders                |         2 |   0        |
 | Lions                    |         2 |   1        |
-| New South Wales Waratahs |         2 |   0        |
-| Golden Lions             |         1 |   1        |
-| New Zealand              |         1 |   0        |
-| Leicester Tigers         |         1 |   0        |
-| Leopards                 |         1 |   1        |
-| Wasps                    |         1 |   0        |
-| Boland Cavaliers         |         1 |   1        |
-| Mont-de-Marsan           |         1 |   1        |
-| Griquas                  |         1 |   0        |
+| Blue Bulls               |         2 |   1        |
 | Sharks                   |         1 |   0        |
 | Scotland                 |         1 |   1        |
-| Scarlets                 |         1 |   0        |
+| Boland Cavaliers         |         1 |   1        |
 | Romania                  |         1 |   1        |
+| Wasps                    |         1 |   0        |
+| Scarlets                 |         1 |   0        |
+| Ireland                  |         1 |   0        |
 | Dragons                  |         1 |   1        |
 | RC Enisei                |         1 |   1        |
-| England                  |         1 |   0        |
-| Ireland                  |         1 |   0        |
-| Glasgow Warriors         |         1 |   1        |
+| Edinburgh                |         1 |   0        |
 | Italy                    |         1 |   1        |
+| Glasgow Warriors         |         1 |   1        |
+| New Zealand              |         1 |   0        |
+| Golden Lions             |         1 |   1        |
+| Griquas                  |         1 |   0        |
+| Mont-de-Marsan           |         1 |   1        |
+| Leopards                 |         1 |   1        |
+| Leicester Tigers         |         1 |   0        |
+| England                  |         1 |   0        |

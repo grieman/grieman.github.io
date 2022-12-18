@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Christ Tshiunza  
-date: 2022-12-14 11:33:51.315097  
+date: 2022-12-18 16:24:52.885673  
 categories: player  
 ---
 # Christ Tshiunza
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 31.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            14 |   0.571429 |
+| Exeter Chiefs |            15 |   0.6      |
 | Wales         |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -34,6 +34,7 @@ categories: player
 | Worcester Warriors |         2 |        1   |
 | Australia          |         1 |        1   |
 | Bristol Rugby      |         1 |        1   |
+| Bulls              |         1 |        1   |
 | Castres Olympique  |         1 |        1   |
 | Fiji               |         1 |        1   |
 | Harlequins         |         1 |        1   |

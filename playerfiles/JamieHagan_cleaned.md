@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jamie Hagan  
-date: 2022-12-14 11:23:49.361572  
+date: 2022-12-18 16:24:05.190324  
 categories: player  
 ---
 # Jamie Hagan
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: 46.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Beziers          |            76 |   0.513158 |
+| Beziers          |            77 |   0.519481 |
 | Leinster         |            57 |   0.745614 |
 | Connacht         |            40 |   0.325    |
 | London Irish     |            33 |   0.393939 |
@@ -42,10 +42,10 @@ categories: player
 | Benetton Treviso           |         7 |   0.785714 |
 | Wasps                      |         6 |   0.416667 |
 | Carcassonne                |         6 |   0.333333 |
+| Biarritz Olympique         |         6 |   0.666667 |
 | Grenoble                   |         6 |   0.333333 |
 | Edinburgh                  |         6 |   0.5      |
 | Soyaux-Angouleme           |         5 |   0.2      |
-| Biarritz Olympique         |         5 |   0.6      |
 | Montauban                  |         5 |   1        |
 | Vannes                     |         5 |   0.6      |
 | Aurillac                   |         4 |   0.75     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josaia Raisuqe  
-date: 2022-12-14 11:32:59.478988  
+date: 2022-12-18 16:15:50.849607  
 categories: player  
 ---
 # Josaia Raisuqe
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 26.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Nevers               |            62 |   0.620968 |
-| Castres Olympique    |            28 |   0.535714 |
+| Castres Olympique    |            29 |   0.517241 |
 | Stade Francais Paris |            18 |   0.444444 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -45,13 +45,13 @@ categories: player
 | Montpellier Herault  |         3 |   0.666667 |
 | Vannes               |         3 |   0.333333 |
 | Grenoble             |         3 |   0.333333 |
+| Edinburgh            |         3 |   0.333333 |
 | Colomiers            |         3 |   1        |
 | Bordeaux Begles      |         3 |   0        |
 | Brive                |         3 |   0.666667 |
 | Harlequins           |         2 |   0.5      |
 | Rouen                |         2 |   1        |
 | Toulon               |         2 |   0        |
-| Edinburgh            |         2 |   0.5      |
 | Dax                  |         2 |   0.5      |
 | Narbonne             |         2 |   1        |
 | Stade Toulousain     |         2 |   0.5      |

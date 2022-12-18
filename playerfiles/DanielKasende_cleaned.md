@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Daniel Kasende  
-date: 2022-12-14 11:19:01.319757  
+date: 2022-12-18 16:12:03.056157  
 categories: player  
 ---
 # Daniel Kasende
 
 ## Positions: W
 
-## Current elo: 106.0
+## Current elo: 101.0
 
-## Current Percentile: 77.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Free State Cheetahs |             9 |   0.777778 |
 | Griquas             |             9 |   0.444444 |
-| Cheetahs            |             1 |   1        |
+| Cheetahs            |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,3 +35,4 @@ categories: player
 | Blue Bulls          |         1 |   1        |
 | Griquas             |         1 |   0        |
 | Pau                 |         1 |   1        |
+| Scarlets            |         1 |   0        |

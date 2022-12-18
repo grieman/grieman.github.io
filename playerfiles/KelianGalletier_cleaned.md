@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kelian Galletier  
-date: 2022-12-12 15:10:43.481786  
+date: 2022-12-18 16:40:14.451866  
 categories: player  
 ---
 # Kelian Galletier
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 23.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Montpellier Herault |           169 |   0.514793 |
-| Perpignan           |             7 |   0.285714 |
+| Perpignan           |             8 |   0.25     |
 | France              |             5 |   0.6      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -41,8 +41,8 @@ categories: player
 | Bayonne              |         9 |   0.666667 |
 | Racing 92            |         8 |   0.125    |
 | Grenoble             |         7 |   0.857143 |
+| Glasgow Warriors     |         7 |   0.357143 |
 | Clermont Auvergne    |         7 |   0.428571 |
-| Glasgow Warriors     |         6 |   0.416667 |
 | Perpignan            |         5 |   0.6      |
 | Agen                 |         4 |   0.75     |
 | Biarritz Olympique   |         4 |   0.75     |

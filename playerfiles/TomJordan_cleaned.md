@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Jordan  
-date: 2022-12-12 14:58:29.612912  
+date: 2022-12-18 16:40:19.881917  
 categories: player  
 ---
 # Tom Jordan
 
 ## Positions: FH
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 17.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |             8 |        0.5 |
+| Glasgow Warriors |             9 |   0.555556 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,5 +30,6 @@ categories: player
 | Cardiff Blues    |         1 |        1   |
 | Leinster         |         1 |        0   |
 | Ospreys          |         1 |        0   |
+| Perpignan        |         1 |        1   |
 | Sharks           |         1 |        0   |
 | Zebre            |         1 |        1   |

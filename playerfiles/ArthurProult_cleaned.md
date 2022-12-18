@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Proult  
-date: 2022-12-14 11:34:37.949647  
+date: 2022-12-18 16:20:30.013661  
 categories: player  
 ---
 # Arthur Proult

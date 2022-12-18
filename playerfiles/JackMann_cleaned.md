@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Mann  
-date: 2022-12-14 11:11:56.358344  
+date: 2022-12-18 16:37:46.636708  
 categories: player  
 ---
 # Jack Mann

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Willis  
-date: 2022-12-14 11:33:35.400938  
+date: 2022-12-18 16:28:21.998004  
 categories: player  
 ---
 # Jack Willis
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 118.0
+## Current elo: 120.0
 
 ## Current Percentile: 94.0
 
@@ -25,11 +25,11 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Wasps            |            76 |   0.532895 |
 | England          |             4 |   0.625    |
-| Stade Toulousain |             3 |   0.666667 |
+| Stade Toulousain |             4 |   0.75     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Sale Sharks        |         9 |   0.222222 |
+| Sale Sharks        |        10 |   0.3      |
 | Leicester Tigers   |         7 |   0.428571 |
 | Bristol Rugby      |         6 |   0.666667 |
 | Northampton Saints |         6 |   0.5      |

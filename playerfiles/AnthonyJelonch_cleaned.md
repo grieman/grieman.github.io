@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Jelonch  
-date: 2022-12-14 11:23:41.366841  
+date: 2022-12-18 16:32:52.804900  
 categories: player  
 ---
 # Anthony Jelonch
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 108.0
+## Current elo: 110.0
 
-## Current Percentile: 81.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -24,16 +24,16 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Castres Olympique |            93 |   0.586022 |
-| Stade Toulousain  |            27 |   0.703704 |
+| Stade Toulousain  |            28 |   0.714286 |
 | France            |            21 |   0.714286 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |        10 |   0.5      |
-| Racing 92            |        10 |   0.4      |
 | Montpellier Herault  |        10 |   0.6      |
-| Bordeaux Begles      |        10 |   0.6      |
 | Lyon                 |        10 |   0.7      |
+| Bordeaux Begles      |        10 |   0.6      |
+| Racing 92            |        10 |   0.4      |
 | Clermont Auvergne    |        10 |   0.6      |
 | Brive                |         8 |   0.75     |
 | La Rochelle          |         8 |   0.625    |
@@ -44,20 +44,21 @@ categories: player
 | Australia            |         4 |   0.5      |
 | England              |         2 |   0.5      |
 | Dragons              |         2 |   0.5      |
+| Castres Olympique    |         2 |   0.5      |
 | Ireland              |         2 |   1        |
 | Italy                |         2 |   1        |
 | South Africa         |         2 |   0.5      |
-| Castres Olympique    |         2 |   0.5      |
+| Wales                |         2 |   1        |
 | Scotland             |         2 |   0.5      |
 | Leinster             |         2 |   0.25     |
-| Wales                |         2 |   1        |
 | Biarritz Olympique   |         2 |   1        |
 | Munster              |         2 |   0.75     |
 | New Zealand          |         2 |   0.5      |
 | Perpignan            |         2 |   1        |
-| RC Enisei            |         1 |   1        |
 | Wasps                |         1 |   0        |
+| Sale Sharks          |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |
+| RC Enisei            |         1 |   1        |
 | Northampton Saints   |         1 |   1        |
 | Argentina            |         1 |   1        |
 | Japan                |         1 |   1        |

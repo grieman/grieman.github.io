@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wenceslas Lauret  
-date: 2022-12-14 11:36:52.147793  
+date: 2022-12-18 16:36:22.664096  
 categories: player  
 ---
 # Wenceslas Lauret

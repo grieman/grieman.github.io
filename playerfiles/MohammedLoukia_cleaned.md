@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mohammed Loukia  
-date: 2022-12-14 11:12:03.963703  
+date: 2022-12-18 16:24:32.283959  
 categories: player  
 ---
 # Mohammed Loukia
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            36 |   0.527778 |
+| Provence Rugby |            37 |   0.513514 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,9 +33,9 @@ categories: player
 | Nevers                     |         3 |   0.333333 |
 | Rouen                      |         3 |   0.833333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
+| Vannes                     |         3 |   0.333333 |
 | Montauban                  |         2 |   1        |
 | Roval Drome XV             |         2 |   1        |
-| Vannes                     |         2 |   0.5      |
 | Oyonnax                    |         1 |   0        |
 | Perpignan                  |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |

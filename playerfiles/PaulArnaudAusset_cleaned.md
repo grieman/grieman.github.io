@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Arnaud Ausset  
-date: 2022-12-14 11:19:37.741358  
+date: 2022-12-18 16:39:32.186073  
 categories: player  
 ---
 # Paul Arnaud Ausset
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 75.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            10 |        0.8 |
+| Dax    |            11 |   0.818182 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| US Bressane                |         2 |          1 |
 | Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          1 |
 | Bourgoin-Jallieu           |         1 |          0 |
@@ -33,5 +34,4 @@ categories: player
 | Narbonne                   |         1 |          1 |
 | Nice                       |         1 |          1 |
 | Tarbes                     |         1 |          1 |
-| US Bressane                |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          1 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Treadwell  
-date: 2022-12-14 11:33:03.758749  
+date: 2022-12-18 16:33:32.447799  
 categories: player  
 ---
 # Kieran Treadwell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 67.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Ulster     |           114 |   0.635965 |
+| Ulster     |           115 |   0.630435 |
 | Ireland    |            12 |   0.833333 |
 | Harlequins |            10 |   0.5      |
 
@@ -43,22 +43,22 @@ categories: player
 | Clermont Auvergne   |         4 |   0.5      |
 | Harlequins          |         4 |   1        |
 | Southern Kings      |         4 |   1        |
-| Leicester Tigers    |         3 |   1        |
 | New Zealand         |         3 |   0.666667 |
+| La Rochelle         |         3 |   0.333333 |
+| Leicester Tigers    |         3 |   1        |
 | Exeter Chiefs       |         2 |   0        |
-| Calvisano           |         2 |   1        |
 | Wasps               |         2 |   0.5      |
 | Stormers            |         2 |   0        |
 | Racing 92           |         2 |   0.5      |
 | Fiji                |         2 |   1        |
 | New Zealand Maori   |         2 |   0.5      |
+| Calvisano           |         2 |   1        |
 | Montpellier Herault |         2 |   0.5      |
 | Cheetahs            |         2 |   0.75     |
-| La Rochelle         |         2 |   0.5      |
 | Japan               |         2 |   1        |
 | Bath Rugby          |         2 |   0.5      |
-| Lions               |         1 |   1        |
 | Bulls               |         1 |   0        |
+| Lions               |         1 |   1        |
 | Sale Sharks         |         1 |   0        |
 | Saracens            |         1 |   0        |
 | Bordeaux Begles     |         1 |   0        |

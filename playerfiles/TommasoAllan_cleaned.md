@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommaso Allan  
-date: 2022-12-14 11:20:46.208164  
+date: 2022-12-18 16:21:50.906694  
 categories: player  
 ---
 # Tommaso Allan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 67.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Benetton Treviso |            64 |   0.335938 |
 | Italy            |            59 |   0.220339 |
 | Perpignan        |            28 |   0.428571 |
-| Harlequins       |            26 |   0.538462 |
+| Harlequins       |            27 |   0.555556 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -62,6 +62,7 @@ categories: player
 | Samoa                |         2 |   0.5      |
 | Sale Sharks          |         2 |   0.5      |
 | Romania              |         2 |   1        |
+| Racing 92            |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
 | Biarritz Olympique   |         2 |   1        |
 | New Zealand          |         2 |   0        |
@@ -71,7 +72,7 @@ categories: player
 | La Rochelle          |         2 |   0        |
 | Japan                |         2 |   0.5      |
 | Castres Olympique    |         2 |   0.5      |
-| Sharks               |         1 |   0        |
+| Colomiers            |         1 |   0        |
 | Connacht             |         1 |   0        |
 | Wasps                |         1 |   1        |
 | Argentina            |         1 |   0        |
@@ -81,16 +82,15 @@ categories: player
 | Tarbes               |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
 | Southern Kings       |         1 |   1        |
-| Colomiers            |         1 |   0        |
-| Bristol Rugby        |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
+| Sharks               |         1 |   0        |
+| Bordeaux Begles      |         1 |   0        |
 | Carcassonne          |         1 |   1        |
 | Russia               |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |
-| Racing 92            |         1 |   0        |
 | Ospreys              |         1 |   0        |
 | Lyon                 |         1 |   0        |
 | Massy                |         1 |   1        |
+| Bristol Rugby        |         1 |   1        |
 | Namibia              |         1 |   1        |
-| Bordeaux Begles      |         1 |   0        |
 | Fiji                 |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Boutin  
-date: 2022-12-14 11:30:10.930771  
+date: 2022-12-18 16:16:45.851411  
 categories: player  
 ---
 # Hugo Boutin

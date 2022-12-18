@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Latuka Maituku  
-date: 2022-12-14 11:29:44.750938  
+date: 2022-12-18 16:37:06.962744  
 categories: player  
 ---
 # Latuka Maituku
 
 ## Positions: FL, N8
 
-## Current elo: 78.0
+## Current elo: 79.0
 
 ## Current Percentile: 5.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |           158 |   0.518987 |
+| Aurillac |           159 |   0.522013 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,22 +34,22 @@ categories: player
 | Agen                       |         8 |   0.5      |
 | Vannes                     |         8 |   0.375    |
 | Albi                       |         7 |   0.428571 |
-| Oyonnax                    |         6 |   0.333333 |
-| Provence Rugby             |         6 |   1        |
 | Massy                      |         6 |   1        |
 | Montauban                  |         6 |   0.416667 |
+| Provence Rugby             |         6 |   1        |
+| Oyonnax                    |         6 |   0.333333 |
 | Dax                        |         5 |   0.6      |
 | Tarbes                     |         5 |   0.2      |
 | Narbonne                   |         5 |   0.6      |
 | US Bressane                |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.75     |
 | Auch                       |         3 |   0.666667 |
+| Rouen                      |         3 |   0.666667 |
 | Brive                      |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.5      |
 | La Rochelle                |         3 |   0.333333 |
 | Nevers                     |         3 |   0        |
 | Lyon                       |         2 |   1        |
-| Rouen                      |         2 |   0.5      |
 | Grenoble                   |         2 |   0        |
 | Bayonne                    |         2 |   0.5      |
 | Pau                        |         1 |   0        |

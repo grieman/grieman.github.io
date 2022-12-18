@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliott Gourlay  
-date: 2022-12-14 11:28:32.086936  
+date: 2022-12-18 16:17:17.570424  
 categories: player  
 ---
 # Elliott Gourlay

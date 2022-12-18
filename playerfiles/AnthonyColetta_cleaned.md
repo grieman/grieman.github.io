@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Anthony Coletta  
-date: 2022-12-14 11:17:46.964267  
+date: 2022-12-18 16:35:40.210202  
 categories: player  
 ---
 # Anthony Coletta
 
 ## Positions: FL, L
 
-## Current elo: 60.0
+## Current elo: 58.0
 
 ## Current Percentile: 0.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Dax              |            59 |   0.237288 |
-| Colomiers        |            50 |   0.56     |
+| Colomiers        |            51 |   0.54902  |
 | Soyaux-Angouleme |            49 |   0.622449 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,12 +39,12 @@ categories: player
 | Grenoble                   |         6 |   0.5      |
 | Bayonne                    |         6 |   0.666667 |
 | Narbonne                   |         6 |   0.666667 |
+| Oyonnax                    |         6 |   0.333333 |
 | Pau                        |         5 |   0        |
 | Perpignan                  |         5 |   0.4      |
 | US Bressane                |         5 |   0.6      |
 | Soyaux-Angouleme           |         5 |   0.6      |
 | Provence Rugby             |         5 |   1        |
-| Oyonnax                    |         5 |   0.4      |
 | Tarbes                     |         4 |   0.25     |
 | Rouen                      |         4 |   0.75     |
 | Beziers                    |         4 |   0.75     |

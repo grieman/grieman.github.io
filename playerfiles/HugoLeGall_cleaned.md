@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Le Gall  
-date: 2022-12-14 11:27:11.993751  
+date: 2022-12-18 16:12:37.311718  
 categories: player  
 ---
 # Hugo Le Gall

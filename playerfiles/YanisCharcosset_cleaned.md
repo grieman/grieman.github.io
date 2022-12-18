@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yanis Charcosset  
-date: 2022-12-12 15:09:15.589979  
+date: 2022-12-18 16:20:00.216174  
 categories: player  
 ---
 # Yanis Charcosset
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 61.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Lyon   |            18 |   0.666667 |
+| Lyon   |            19 |   0.631579 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,3 +36,4 @@ categories: player
 | Bordeaux Begles      |         1 |        1   |
 | Brive                |         1 |        1   |
 | La Rochelle          |         1 |        0   |
+| Saracens             |         1 |        0   |

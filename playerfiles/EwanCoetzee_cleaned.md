@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ewan Coetzee  
-date: 2022-12-14 11:29:09.600047  
+date: 2022-12-18 16:17:00.063438  
 categories: player  
 ---
 # Ewan Coetzee
 
 ## Positions: L, FL
 
-## Current elo: 75.0
+## Current elo: 74.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Massy   |            14 |   0.428571 |
-| Griquas |             1 |   0        |
+| Massy   |            15 |        0.4 |
+| Griquas |             1 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Colomiers                  |         1 |        0   |
 | Dax                        |         1 |        1   |
 | Dijon                      |         1 |        1   |
+| Grenoble                   |         1 |        0   |
 | Montauban                  |         1 |        0   |
 | Natal Sharks               |         1 |        0   |
 | Oyonnax                    |         1 |        0   |

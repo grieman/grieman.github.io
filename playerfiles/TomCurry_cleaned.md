@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Curry  
-date: 2022-12-14 11:32:14.633064  
+date: 2022-12-18 16:21:20.049272  
 categories: player  
 ---
 # Tom Curry
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 106.0
+## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Sale Sharks             |            86 |   0.517442 |
+| Sale Sharks             |            87 |   0.511494 |
 | England                 |            42 |   0.642857 |
 | British and Irish Lions |             3 |   0.333333 |
 
@@ -58,6 +58,7 @@ categories: player
 | La Rochelle              |         2 |   0.5      |
 | Japan                    |         1 |   1        |
 | Cardiff Blues            |         1 |   1        |
+| Stade Toulousain         |         1 |   0        |
 | Ulster                   |         1 |   1        |
 | United States of America |         1 |   1        |
 | Bordeaux Begles          |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bautista Delguy  
-date: 2022-11-22 11:40:43.149798  
+date: 2022-12-18 16:32:22.573824  
 categories: player  
 ---
 # Bautista Delguy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 111.0
+## Current elo: 108.0
 
-## Current Percentile: 89.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -28,38 +28,39 @@ categories: player
 | Pucara            |            19 |   0.578947 |
 | Perpignan         |            15 |   0.333333 |
 | Bordeaux Begles   |             7 |   0.642857 |
-| Clermont Auvergne |             4 |   0.375    |
+| Clermont Auvergne |             6 |   0.25     |
 | Jaguares XV       |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Lions                    |         5 |   0.4      |
+| Stormers                 |         4 |   0.25     |
+| New Zealand              |         4 |   0.25     |
+| South Africa             |         4 |   0.25     |
 | Scotland                 |         4 |   0.25     |
 | Australia                |         4 |   0.625    |
-| New Zealand              |         4 |   0.25     |
-| Stormers                 |         4 |   0.25     |
-| South Africa             |         4 |   0.25     |
-| Clermont Auvergne        |         3 |   0.5      |
-| Castres Olympique        |         3 |   0        |
-| Wales                    |         3 |   0.333333 |
-| Bulls                    |         3 |   0.666667 |
-| Stade Toulousain         |         3 |   0.333333 |
 | Bordeaux Begles          |         3 |   0.5      |
+| Stade Toulousain         |         3 |   0.333333 |
 | Belgrano                 |         3 |   0.666667 |
+| Bulls                    |         3 |   0.666667 |
 | La Rochelle              |         3 |   0.333333 |
+| Castres Olympique        |         3 |   0        |
+| Clermont Auvergne        |         3 |   0.5      |
+| Racing 92                |         3 |   0.666667 |
+| Wales                    |         3 |   0.333333 |
 | Sharks                   |         2 |   0.5      |
-| Racing 92                |         2 |   1        |
 | Queensland Reds          |         2 |   0.5      |
 | Newman                   |         2 |   0.5      |
 | Montpellier Herault      |         2 |   0        |
 | Atlético del Rosario     |         2 |   1        |
-| Lyon                     |         2 |   0.5      |
 | Alumni                   |         2 |   0.5      |
-| La Plata                 |         2 |   0.5      |
-| CUBA                     |         2 |   0        |
-| France                   |         2 |   0        |
+| Lyon                     |         2 |   0.5      |
 | Blues                    |         2 |   1        |
+| France                   |         2 |   0        |
 | CASI                     |         2 |   0.5      |
+| CUBA                     |         2 |   0        |
+| La Plata                 |         2 |   0.5      |
+| SWD Eagles               |         1 |   1        |
 | Valke                    |         1 |   1        |
 | United States of America |         1 |   1        |
 | Toulon                   |         1 |   0        |
@@ -67,9 +68,7 @@ categories: player
 | Brive                    |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
 | Brumbies                 |         1 |   1        |
-| SWD Eagles               |         1 |   1        |
-| Ireland                  |         1 |   0        |
-| SIC                      |         1 |   1        |
+| Leicester Tigers         |         1 |   0        |
 | Regatas Bella Vista      |         1 |   1        |
 | Crusaders                |         1 |   0        |
 | England                  |         1 |   0        |
@@ -79,3 +78,5 @@ categories: player
 | New South Wales Waratahs |         1 |   1        |
 | Hurricanes               |         1 |   0        |
 | Mariano Moreno           |         1 |   1        |
+| Ireland                  |         1 |   0        |
+| SIC                      |         1 |   1        |

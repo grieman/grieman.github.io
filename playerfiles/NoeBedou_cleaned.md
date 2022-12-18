@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Noe Bedou  
-date: 2022-12-14 11:11:25.656500  
+date: 2022-12-18 16:18:43.475293  
 categories: player  
 ---
 # Noe Bedou

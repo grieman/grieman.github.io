@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Said Hireche  
-date: 2022-12-12 14:52:34.145552  
+date: 2022-12-18 16:34:00.334114  
 categories: player  
 ---
 # Said Hireche
 
 ## Positions: FL
 
-## Current elo: 117.0
+## Current elo: 115.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Brive                |           200 |   0.5175   |
+| Brive                |           201 |   0.514925 |
 | Aurillac             |            73 |   0.520548 |
 | Stade Francais Paris |             3 |   0.333333 |
 
@@ -50,26 +50,26 @@ categories: player
 | Dax                  |         6 |   0.5      |
 | Colomiers            |         5 |   0.8      |
 | Tarbes               |         5 |   0.8      |
-| Carcassonne          |         4 |   0.5      |
 | Biarritz Olympique   |         4 |   0.625    |
 | Albi                 |         4 |   0.625    |
+| Carcassonne          |         4 |   0.5      |
 | Newcastle Falcons    |         4 |   0.75     |
-| US Bressane          |         3 |   0.666667 |
 | Perpignan            |         3 |   0.333333 |
+| US Bressane          |         3 |   0.666667 |
 | RC Enisei            |         3 |   0.666667 |
-| Worcester Warriors   |         3 |   0.666667 |
 | Aurillac             |         3 |   0.666667 |
-| Vannes               |         2 |   1        |
-| Nevers               |         2 |   1        |
-| Bucuresti            |         2 |   1        |
+| Worcester Warriors   |         3 |   0.666667 |
 | Bourgoin-Jallieu     |         2 |   0.5      |
-| Massy                |         2 |   1        |
+| Nevers               |         2 |   1        |
 | Périgueux            |         2 |   0.5      |
+| Vannes               |         2 |   1        |
+| Massy                |         2 |   1        |
 | Soyaux-Angouleme     |         2 |   1        |
+| Connacht             |         2 |   0        |
+| Bucuresti            |         2 |   1        |
 | Gloucester Rugby     |         1 |   0        |
 | Bath Rugby           |         1 |   0        |
 | Saint-Etienne        |         1 |   1        |
 | Calvisano            |         1 |   1        |
 | Montauban            |         1 |   1        |
-| Connacht             |         1 |   0        |
 | Zebre                |         1 |   0        |

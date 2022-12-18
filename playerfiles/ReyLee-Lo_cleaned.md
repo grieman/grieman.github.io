@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rey Lee-Lo  
-date: 2022-12-14 11:30:49.658053  
+date: 2022-12-18 16:26:49.159514  
 categories: player  
 ---
 # Rey Lee-Lo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 131.0
+## Current elo: 133.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Cardiff Blues    |           140 |   0.532143 |
+| Cardiff Blues    |           141 |   0.535461 |
 | Counties Manukau |            33 |   0.590909 |
 | Hurricanes       |            28 |   0.607143 |
 | Samoa            |            18 |   0.25     |
@@ -57,12 +57,11 @@ categories: player
 | Queensland Reds          |         3 |   0.666667 |
 | Sharks                   |         3 |   0.666667 |
 | Manawatu                 |         3 |   0.666667 |
+| Calvisano                |         3 |   1        |
 | Georgia                  |         3 |   0.166667 |
 | Bay of Plenty            |         3 |   0.666667 |
 | Crusaders                |         3 |   0.333333 |
-| Calvisano                |         3 |   1        |
 | Gloucester Rugby         |         2 |   0.5      |
-| Sale Sharks              |         2 |   0.5      |
 | Western Force            |         2 |   1        |
 | Bath Rugby               |         2 |   0.5      |
 | United States of America |         2 |   0.5      |
@@ -73,25 +72,27 @@ categories: player
 | Southern Kings           |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
+| Sale Sharks              |         2 |   0.5      |
 | Auckland                 |         2 |   0.5      |
 | Leicester Tigers         |         2 |   0        |
-| Otago                    |         2 |   1        |
 | England                  |         2 |   0        |
+| Otago                    |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   0.5      |
 | North Harbour            |         2 |   1        |
-| Russia                   |         1 |   1        |
-| Northland                |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
 | France                   |         1 |   0        |
 | Wales                    |         1 |   0        |
 | Australia                |         1 |   0        |
-| Stade Toulousain         |         1 |   1        |
-| Romania                  |         1 |   0        |
-| Spain                    |         1 |   1        |
-| Brive                    |         1 |   1        |
-| Canterbury               |         1 |   0        |
-| South Africa             |         1 |   0        |
+| Newcastle Falcons        |         1 |   1        |
 | Canada                   |         1 |   1        |
+| Romania                  |         1 |   0        |
+| Brive                    |         1 |   1        |
+| Northland                |         1 |   1        |
+| South Africa             |         1 |   0        |
+| Canterbury               |         1 |   0        |
 | Bulls                    |         1 |   0        |
-| Japan                    |         1 |   0        |
 | Saracens                 |         1 |   0        |
+| Japan                    |         1 |   0        |
+| Russia                   |         1 |   1        |
+| Spain                    |         1 |   1        |

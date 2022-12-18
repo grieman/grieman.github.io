@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibault Berthaud  
-date: 2022-12-09 13:23:50.724269  
+date: 2022-12-18 16:35:00.574753  
 categories: player  
 ---
 # Thibault Berthaud
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 92.0
 
 ## Current Percentile: 29.0
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Oyonnax          |            18 |   0.694444 |
+| Oyonnax          |            19 |   0.710526 |
 | Soyaux-Angouleme |            12 |   0.458333 |
 | US Bressane      |             4 |   0.25     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Colomiers          |         4 |   0.75     |
 | Montauban          |         3 |   0.333333 |
 | Carcassonne        |         3 |   0.833333 |
 | Rouen              |         3 |   0.333333 |
-| Colomiers          |         3 |   0.666667 |
 | Vannes             |         3 |   0.666667 |
 | Biarritz Olympique |         2 |   0        |
 | Grenoble           |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Dunn  
-date: 2022-12-14 11:33:17.164950  
+date: 2022-12-18 16:15:48.386144  
 categories: player  
 ---
 # Tom Dunn
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |           179 |   0.477654 |
-| England    |             2 |   1        |
+| Bath Rugby |           180 |      0.475 |
+| England    |             2 |      1     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -40,7 +40,7 @@ categories: player
 | Newcastle Falcons  |        11 |   0.545455 |
 | Worcester Warriors |        10 |   0.8      |
 | Bristol Rugby      |        10 |   0.4      |
-| Toulon             |         3 |   0.333333 |
+| Toulon             |         4 |   0.25     |
 | Scarlets           |         3 |   0.333333 |
 | Stade Toulousain   |         2 |   0        |
 | Leinster           |         2 |   0        |

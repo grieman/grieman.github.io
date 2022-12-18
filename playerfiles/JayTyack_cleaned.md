@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jay Tyack  
-date: 2022-12-14 11:21:53.946750  
+date: 2022-12-18 16:37:27.795677  
 categories: player  
 ---
 # Jay Tyack
 
 ## Positions: P
 
-## Current elo: 120.0
+## Current elo: 118.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            18 |   0.25     |
 | Cornish Pirates    |            13 |   0.846154 |
-| Bristol Rugby      |             5 |   0.3      |
+| Bristol Rugby      |             6 |   0.416667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -47,3 +47,4 @@ categories: player
 | Richmond            |         1 |   1        |
 | Bedford             |         1 |   1        |
 | Wasps               |         1 |   1        |
+| Zebre               |         1 |   1        |

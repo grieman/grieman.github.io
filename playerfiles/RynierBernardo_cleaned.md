@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Rynier Bernardo  
-date: 2022-12-14 11:13:37.067360  
+date: 2022-12-18 16:12:16.264497  
 categories: player  
 ---
 # Rynier Bernardo
 
 ## Positions: L
 
-## Current elo: 98.0
+## Current elo: 94.0
 
 ## Current Percentile: 57.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
 | Ospreys                |            31 |   0.548387 |
-| Cheetahs               |            21 |   0.571429 |
+| Cheetahs               |            22 |   0.545455 |
 | Free State Cheetahs    |            12 |   0.458333 |
 | Southern Kings         |            10 |   0.15     |
 | Scarlets               |             8 |   0.5      |
@@ -34,10 +34,10 @@ categories: player
 | Benetton Treviso         |         7 |   0.714286 |
 | Dragons                  |         6 |   0.666667 |
 | Munster                  |         5 |   0.6      |
+| Scarlets                 |         5 |   0.4      |
 | Connacht                 |         5 |   0.4      |
 | Ulster                   |         4 |   0.25     |
 | Edinburgh                |         4 |   0.75     |
-| Scarlets                 |         4 |   0.5      |
 | Northampton Saints       |         3 |   0        |
 | Pumas                    |         3 |   0.333333 |
 | Zebre                    |         3 |   1        |

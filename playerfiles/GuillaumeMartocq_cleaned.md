@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Martocq  
-date: 2022-12-14 11:15:49.772832  
+date: 2022-12-18 16:13:32.205249  
 categories: player  
 ---
 # Guillaume Martocq

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Piers O'Conor  
-date: 2022-12-12 15:11:11.173789  
+date: 2022-12-18 16:16:17.067621  
 categories: player  
 ---
 # Piers O'Conor
 
 ## Positions: C, FB
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 11.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bristol Rugby       |           106 |   0.54717  |
+| Bristol Rugby       |           107 |   0.551402 |
 | Ealing Trailfinders |            16 |   0.875    |
 | Bedford             |             7 |   0.642857 |
 | Wasps               |             7 |   0.428571 |
@@ -45,18 +45,18 @@ categories: player
 | Nottingham           |         3 |   0.666667 |
 | London Scottish      |         3 |   0.666667 |
 | La Rochelle          |         3 |   0.333333 |
-| RC Enisei            |         2 |   1        |
-| Brive                |         2 |   1        |
-| Cornish Pirates      |         2 |   0.75     |
-| Bedford              |         2 |   1        |
-| Richmond             |         2 |   1        |
-| Zebre                |         2 |   0.5      |
-| Hartpury College     |         2 |   1        |
+| Zebre                |         3 |   0.666667 |
 | Jersey               |         2 |   1        |
-| Ospreys              |         1 |   0        |
-| Ealing Trailfinders  |         1 |   0        |
-| Cardiff Blues        |         1 |   0        |
+| Hartpury College     |         2 |   1        |
+| RC Enisei            |         2 |   1        |
+| Richmond             |         2 |   1        |
+| Bedford              |         2 |   1        |
+| Cornish Pirates      |         2 |   0.75     |
+| Brive                |         2 |   1        |
 | London Welsh         |         1 |   1        |
+| Ealing Trailfinders  |         1 |   0        |
+| Ospreys              |         1 |   0        |
+| Cardiff Blues        |         1 |   0        |
 | Toulon               |         1 |   1        |
 | Bristol Rugby        |         1 |   0        |
 | Bordeaux Begles      |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Iain Henderson  
-date: 2022-12-12 15:28:54.977916  
+date: 2022-12-18 16:35:49.248893  
 categories: player  
 ---
 # Iain Henderson
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 106.0
+## Current elo: 104.0
 
 ## Current Percentile: 81.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Ulster                  |           124 |   0.620968 |
+| Ulster                  |           125 |   0.616    |
 | Ireland                 |            63 |   0.706349 |
 | British and Irish Lions |             7 |   0.642857 |
 | Munster                 |             1 |   1        |
@@ -51,14 +51,14 @@ categories: player
 | Harlequins               |         4 |   1        |
 | Zebre                    |         4 |   0.75     |
 | Clermont Auvergne        |         4 |   0.5      |
-| Benetton Treviso         |         3 |   0.833333 |
 | Saracens                 |         3 |   0        |
+| Benetton Treviso         |         3 |   0.833333 |
+| La Rochelle              |         3 |   0.333333 |
 | Japan                    |         2 |   0.5      |
-| Bath Rugby               |         2 |   1        |
 | Northampton Saints       |         2 |   0.5      |
 | Castres Olympique        |         2 |   1        |
 | United States of America |         2 |   1        |
-| La Rochelle              |         2 |   0.5      |
+| Bath Rugby               |         2 |   1        |
 | Australia                |         2 |   0.5      |
 | Exeter Chiefs            |         2 |   0.5      |
 | Wasps                    |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Evan Olmstead  
-date: 2022-12-14 11:28:20.587823  
+date: 2022-12-18 16:13:56.329318  
 categories: player  
 ---
 # Evan Olmstead
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 21.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Biarritz Olympique |            45 |   0.455556 |
 | Newcastle Falcons  |            33 |   0.454545 |
 | Canada             |            25 |   0.22     |
-| Agen               |            13 |   0.461538 |
+| Agen               |            14 |   0.428571 |
 | Auckland           |            12 |   0.916667 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,19 +36,20 @@ categories: player
 | Vannes                   |         4 |   0.75     |
 | United States of America |         4 |   0.125    |
 | Sale Sharks              |         4 |   0.75     |
+| Rouen                    |         3 |   1        |
 | Provence Rugby           |         3 |   0.833333 |
-| Grenoble                 |         3 |   0.666667 |
+| Oyonnax                  |         3 |   0.333333 |
 | Exeter Chiefs            |         3 |   0.333333 |
 | Leicester Tigers         |         3 |   0        |
-| Oyonnax                  |         3 |   0.333333 |
-| Rouen                    |         3 |   1        |
+| Soyaux-Angouleme         |         3 |   0.666667 |
 | Gloucester Rugby         |         3 |   0.666667 |
 | Carcassonne              |         3 |   0.666667 |
 | Bath Rugby               |         3 |   0.666667 |
 | Wasps                    |         3 |   0.333333 |
 | Montauban                |         3 |   0.333333 |
-| Soyaux-Angouleme         |         3 |   0.666667 |
+| Grenoble                 |         3 |   0.666667 |
 | Northampton Saints       |         2 |   1        |
+| Nevers                   |         2 |   0        |
 | Montpellier Herault      |         2 |   0        |
 | Pau                      |         2 |   0        |
 | Romania                  |         2 |   0        |
@@ -59,7 +60,6 @@ categories: player
 | Lyon                     |         2 |   0        |
 | Worcester Warriors       |         2 |   0        |
 | Colomiers                |         2 |   0        |
-| Harlequins               |         2 |   0.5      |
 | Beziers                  |         2 |   0.5      |
 | Fiji                     |         2 |   0        |
 | Italy                    |         2 |   0        |
@@ -67,14 +67,14 @@ categories: player
 | Brive                    |         2 |   0.5      |
 | Castres Olympique        |         2 |   0        |
 | Canterbury               |         2 |   1        |
-| Clermont Auvergne        |         1 |   0        |
+| Harlequins               |         2 |   0.5      |
+| Stade Francais Paris     |         1 |   1        |
 | Scotland                 |         1 |   0        |
 | South Africa             |         1 |   0        |
 | Southland                |         1 |   1        |
 | Spain                    |         1 |   1        |
 | La Rochelle              |         1 |   0        |
-| Stade Francais Paris     |         1 |   1        |
-| Samoa                    |         1 |   0        |
+| Clermont Auvergne        |         1 |   0        |
 | Tasman                   |         1 |   1        |
 | Uruguay                  |         1 |   0        |
 | Bordeaux Begles          |         1 |   1        |
@@ -82,14 +82,13 @@ categories: player
 | Biarritz Olympique       |         1 |   1        |
 | Taranaki                 |         1 |   1        |
 | Counties Manukau         |         1 |   1        |
-| Kenya                    |         1 |   1        |
-| Dragons                  |         1 |   1        |
+| Samoa                    |         1 |   0        |
 | London Irish             |         1 |   1        |
-| Japan                    |         1 |   0        |
+| Kenya                    |         1 |   1        |
 | Massy                    |         1 |   1        |
 | Mont-de-Marsan           |         1 |   1        |
+| Japan                    |         1 |   0        |
 | Ireland                  |         1 |   0        |
-| Nevers                   |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | North Harbour            |         1 |   1        |
 | Hong Kong                |         1 |   1        |
@@ -99,4 +98,5 @@ categories: player
 | Georgia                  |         1 |   0        |
 | France                   |         1 |   0        |
 | Racing 92                |         1 |   1        |
+| Dragons                  |         1 |   1        |
 | Aurillac                 |         1 |   1        |

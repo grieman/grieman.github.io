@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mattieu Bidau  
-date: 2022-12-14 11:12:53.174523  
+date: 2022-12-18 16:12:05.250428  
 categories: player  
 ---
 # Mattieu Bidau
 
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 60.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            22 |   0.590909 |
+| Dax    |            23 |   0.608696 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Blagnac                    |         2 |   1        |
 | Chambery                   |         2 |   0.5      |
 | Narbonne                   |         2 |   1        |
+| US Bressane                |         2 |   0.5      |
 | Aubenas                    |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
@@ -38,5 +39,4 @@ categories: player
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Suresnes                   |         1 |   0        |
-| US Bressane                |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |

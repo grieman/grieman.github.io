@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Géraud Clermont  
-date: 2022-12-14 11:33:29.276094  
+date: 2022-12-18 16:15:40.456868  
 categories: player  
 ---
 # Géraud Clermont

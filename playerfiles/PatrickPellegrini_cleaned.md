@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Patrick Pellegrini  
-date: 2022-12-14 11:33:41.084095  
+date: 2022-12-18 16:17:30.144024  
 categories: player  
 ---
 # Patrick Pellegrini

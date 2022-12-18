@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giovanni Pettinelli  
-date: 2022-12-14 11:27:57.082532  
+date: 2022-12-18 16:31:50.946267  
 categories: player  
 ---
 # Giovanni Pettinelli

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lekso Kaulashvili  
-date: 2022-12-14 11:19:31.944273  
+date: 2022-12-18 16:11:49.705771  
 categories: player  
 ---
 # Lekso Kaulashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 114.0
+## Current elo: 113.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            73 |   0.630137 |
+| Bordeaux Begles |            74 |   0.621622 |
 | La Rochelle     |            72 |   0.527778 |
 | Georgia         |             1 |   0        |
 
@@ -50,8 +50,9 @@ categories: player
 | Wasps                |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
-| Scotland             |         1 |   0        |
+| Sharks               |         1 |   0        |
 | Harlequins           |         1 |   1        |
+| Scotland             |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
 | Connacht             |         1 |   0        |
 | Carcassonne          |         1 |   1        |

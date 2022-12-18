@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Raphael Lagarde  
-date: 2022-12-14 11:21:42.412448  
+date: 2022-12-18 16:16:40.915543  
 categories: player  
 ---
 # Raphael Lagarde

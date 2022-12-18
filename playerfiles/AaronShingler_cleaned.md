@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aaron Shingler  
-date: 2022-12-14 11:36:41.057623  
+date: 2022-12-18 16:25:52.314758  
 categories: player  
 ---
 # Aaron Shingler
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 55.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |           195 |   0.541026 |
+| Scarlets |           196 |   0.543367 |
 | Wales    |            25 |   0.52     |
 
 | Opponent           |   Matches |   Win Rate |
@@ -57,6 +57,7 @@ categories: player
 | Aironi             |         2 |   1        |
 | France             |         2 |   1        |
 | Bath Rugby         |         2 |   0.5      |
+| Cheetahs           |         2 |   1        |
 | Castres Olympique  |         2 |   1        |
 | Leicester Tigers   |         2 |   0.5      |
 | Lions              |         1 |   0        |
@@ -70,7 +71,6 @@ categories: player
 | Bristol Rugby      |         1 |   0        |
 | Bulls              |         1 |   0        |
 | Samoa              |         1 |   1        |
-| Cheetahs           |         1 |   1        |
 | Exeter Chiefs      |         1 |   0        |
 | Fiji               |         1 |   1        |
 | Georgia            |         1 |   1        |

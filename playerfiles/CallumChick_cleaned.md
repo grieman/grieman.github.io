@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Chick  
-date: 2022-12-14 11:15:40.674598  
+date: 2022-12-18 16:14:37.286396  
 categories: player  
 ---
 # Callum Chick

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Beard  
-date: 2022-12-14 11:21:38.477517  
+date: 2022-12-18 16:17:07.348537  
 categories: player  
 ---
 # Adam Beard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 39.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Ospreys                 |            99 |   0.550505 |
+| Ospreys                 |           100 |   0.555    |
 | Wales                   |            42 |   0.571429 |
 | British and Irish Lions |             1 |   0        |
 
@@ -49,28 +49,29 @@ categories: player
 | Australia            |         3 |   0.666667 |
 | Argentina            |         3 |   1        |
 | Connacht             |         3 |   1        |
+| Italy                |         2 |   0.5      |
 | Northampton Saints   |         2 |   1        |
 | Worcester Warriors   |         2 |   0.5      |
 | Stormers             |         2 |   0.25     |
 | Southern Kings       |         2 |   1        |
-| Edinburgh            |         2 |   1        |
 | Racing 92            |         2 |   0        |
-| Italy                |         2 |   0.5      |
+| Edinburgh            |         2 |   1        |
 | Lyon                 |         2 |   1        |
 | Georgia              |         2 |   0.5      |
-| Pau                  |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | Wasps                |         1 |   1        |
 | Uruguay              |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |
 | Tonga                |         1 |   1        |
+| Lions                |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
-| Bulls                |         1 |   0        |
+| Exeter Chiefs        |         1 |   0        |
 | Sharks               |         1 |   0        |
 | Clermont Auvergne    |         1 |   0        |
+| Montpellier Herault  |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |
-| Fiji                 |         1 |   1        |
 | Samoa                |         1 |   1        |
-| Exeter Chiefs        |         1 |   0        |
-| Lions                |         1 |   0        |
+| Fiji                 |         1 |   1        |
+| Pau                  |         1 |   1        |
+| Bulls                |         1 |   0        |

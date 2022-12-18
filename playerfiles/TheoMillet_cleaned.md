@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Theo Millet  
-date: 2022-12-14 11:33:15.948691  
+date: 2022-12-18 16:16:07.485441  
 categories: player  
 ---
 # Theo Millet
 
 ## Positions: C
 
-## Current elo: 117.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Oyonnax              |            77 |   0.675325 |
+| Oyonnax              |            78 |   0.679487 |
 | Stade Francais Paris |            25 |   0.44     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,9 +30,9 @@ categories: player
 | Provence Rugby             |         7 |   0.857143 |
 | Nevers                     |         6 |   0.666667 |
 | Mont-de-Marsan             |         5 |   0.6      |
+| Colomiers                  |         5 |   0.4      |
 | Montauban                  |         5 |   0.5      |
 | Grenoble                   |         5 |   0.6      |
-| Colomiers                  |         4 |   0.25     |
 | Soyaux-Angouleme           |         4 |   1        |
 | Aurillac                   |         4 |   0.75     |
 | Vannes                     |         4 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daniel Cutmore  
-date: 2022-12-14 11:35:23.680422  
+date: 2022-12-18 16:40:02.716142  
 categories: player  
 ---
 # Daniel Cutmore

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Hugo Cerisier  
-date: 2022-12-14 11:13:40.098203  
+date: 2022-12-18 16:27:03.818777  
 categories: player  
 ---
 # Hugo Cerisier
 
 ## Positions: FH
 
-## Current elo: 112.0
+## Current elo: 114.0
 
 ## Current Percentile: 85.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            22 |   0.681818 |
+| Dax    |            23 |   0.695652 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Chambery                   |         2 |   0.5      |
 | Dijon                      |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
+| US Bressane                |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Albi                       |         1 |   0        |
 | Blagnac                    |         1 |   1        |
@@ -39,4 +40,3 @@ categories: player
 | Narbonne                   |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | Suresnes                   |         1 |   1        |
-| US Bressane                |         1 |   1        |

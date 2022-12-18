@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Manevy  
-date: 2022-12-14 11:32:17.493795  
+date: 2022-12-18 16:17:51.097376  
 categories: player  
 ---
 # Guillaume Manevy

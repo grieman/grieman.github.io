@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johan Deysel (Jnr)  
-date: 2022-12-12 14:52:58.876059  
+date: 2022-12-18 16:13:47.558194  
 categories: player  
 ---
 # Johan Deysel (Jnr)
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 113.0
+## Current elo: 112.0
 
 ## Current Percentile: 87.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            54 |   0.601852 |
+| Colomiers |            55 |   0.590909 |
 | Namibia   |            16 |   0.5625   |
 | Leopards  |             8 |   0.875    |
 | Sharks    |             4 |   1        |
@@ -32,10 +32,10 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Nevers                     |         6 |   0.5      |
 | Aurillac                   |         5 |   0.6      |
+| Oyonnax                    |         4 |   0.625    |
 | Carcassonne                |         4 |   0.75     |
 | Agen                       |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0.333333 |
-| Oyonnax                    |         3 |   0.833333 |
 | Rouen                      |         3 |   0.666667 |
 | Montauban                  |         3 |   1        |
 | US Bressane                |         3 |   0.333333 |

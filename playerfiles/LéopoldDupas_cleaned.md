@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Léopold Dupas  
-date: 2022-12-14 11:35:01.324746  
+date: 2022-12-18 16:13:12.311783  
 categories: player  
 ---
 # Léopold Dupas

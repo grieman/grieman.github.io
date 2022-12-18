@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Mouchous  
-date: 2022-12-14 11:15:51.215407  
+date: 2022-12-18 16:16:13.593938  
 categories: player  
 ---
 # Baptiste Mouchous
 
 ## Positions: FH, FB
 
-## Current elo: 82.0
+## Current elo: 79.0
 
-## Current Percentile: 9.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |            24 |   0.395833 |
+| Carcassonne |            25 |       0.38 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Beziers                    |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0        |
 | Colomiers                  |         2 |   0        |
+| Mont-de-Marsan             |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
 | Oyonnax                    |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
@@ -36,7 +37,6 @@ categories: player
 | Agen                       |         1 |   1        |
 | Grenoble                   |         1 |   0        |
 | Massy                      |         1 |   0        |
-| Mont-de-Marsan             |         1 |   1        |
 | Montauban                  |         1 |   1        |
 | Rouen                      |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |

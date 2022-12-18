@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Semi Radradra  
-date: 2022-12-14 11:20:54.794011  
+date: 2022-12-18 16:31:00.158214  
 categories: player  
 ---
 # Semi Radradra
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bristol Rugby   |            37 |   0.635135 |
+| Bristol Rugby   |            38 |   0.644737 |
 | Bordeaux Begles |            33 |   0.621212 |
 | Toulon          |            23 |   0.586957 |
 | Fiji            |             7 |   0.428571 |
@@ -44,32 +44,33 @@ categories: player
 | Wasps                |         3 |   0.666667 |
 | Scarlets             |         3 |   0.666667 |
 | Montpellier Herault  |         3 |   0.5      |
-| Exeter Chiefs        |         3 |   0.333333 |
 | Bordeaux Begles      |         3 |   0.666667 |
+| Exeter Chiefs        |         3 |   0.333333 |
 | Clermont Auvergne    |         3 |   0.666667 |
-| Pau                  |         2 |   0.5      |
-| Northampton Saints   |         2 |   0.5      |
-| Benetton Treviso     |         2 |   1        |
 | Toulon               |         2 |   0.5      |
-| Stade Toulousain     |         2 |   0        |
-| Brive                |         2 |   0.5      |
 | Saracens             |         2 |   0.5      |
 | Sale Sharks          |         2 |   0.5      |
-| Worcester Warriors   |         2 |   0.5      |
+| Stade Toulousain     |         2 |   0        |
+| Pau                  |         2 |   0.5      |
+| Northampton Saints   |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   1        |
-| Edinburgh            |         2 |   0.75     |
+| Brive                |         2 |   0.5      |
 | London Irish         |         2 |   0.5      |
+| Edinburgh            |         2 |   0.75     |
 | La Rochelle          |         2 |   1        |
-| Grenoble             |         1 |   1        |
-| Wales                |         1 |   0        |
+| Benetton Treviso     |         2 |   1        |
+| Worcester Warriors   |         2 |   0.5      |
 | Uruguay              |         1 |   0        |
-| England              |         1 |   1        |
+| Wales                |         1 |   0        |
 | Tonga                |         1 |   1        |
-| Scotland             |         1 |   0        |
-| Oyonnax              |         1 |   0        |
-| Australia            |         1 |   0        |
-| Bayonne              |         1 |   1        |
-| Munster              |         1 |   0        |
-| Dragons              |         1 |   1        |
-| Georgia              |         1 |   1        |
 | France               |         1 |   1        |
+| Dragons              |         1 |   1        |
+| Scotland             |         1 |   0        |
+| Georgia              |         1 |   1        |
+| Oyonnax              |         1 |   0        |
+| Munster              |         1 |   0        |
+| Bayonne              |         1 |   1        |
+| Australia            |         1 |   0        |
+| England              |         1 |   1        |
+| Grenoble             |         1 |   1        |
+| Zebre                |         1 |   1        |

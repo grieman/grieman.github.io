@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pascal Cotet  
-date: 2022-12-14 11:13:28.596104  
+date: 2022-12-18 16:20:33.459033  
 categories: player  
 ---
 # Pascal Cotet

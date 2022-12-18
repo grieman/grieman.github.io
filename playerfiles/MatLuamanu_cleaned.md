@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mat Luamanu  
-date: 2022-12-14 11:23:46.881580  
+date: 2022-12-18 16:12:43.957112  
 categories: player  
 ---
 # Mat Luamanu
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 29.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Bayonne          |            47 |   0.574468 |
 | Benetton Treviso |            22 |   0.113636 |
 | North Harbour    |            21 |   0.285714 |
-| Dax              |            13 |   0.846154 |
+| Dax              |            14 |   0.857143 |
 | Blues            |             4 |   0.75     |
 | Kyuden Voltex    |             4 |   0.5      |
 
@@ -64,24 +64,24 @@ categories: player
 | Benetton Treviso                |         2 |   0.5      |
 | Glasgow Warriors                |         2 |   0        |
 | Cardiff Blues                   |         2 |   1        |
+| Carcassonne                     |         2 |   0.5      |
 | Wellington                      |         2 |   0        |
 | Counties Manukau                |         2 |   0        |
 | Connacht                        |         2 |   0        |
 | Auckland                        |         2 |   0        |
 | Clermont Auvergne               |         2 |   0.5      |
 | Tasman                          |         2 |   1        |
-| Castres Olympique               |         2 |   0.5      |
-| Dragons                         |         2 |   0        |
-| Carcassonne                     |         2 |   0.5      |
-| Brive                           |         2 |   0.5      |
 | Bristol Rugby                   |         2 |   1        |
-| Saitama Wild Knights            |         1 |   0        |
+| Brive                           |         2 |   0.5      |
+| Castres Olympique               |         2 |   0.5      |
+| US Bressane                     |         2 |   1        |
+| Dragons                         |         2 |   0        |
 | Waikato                         |         1 |   0        |
 | Valence Romans Drome Rugby      |         1 |   1        |
+| Saitama Wild Knights            |         1 |   0        |
 | Rouen                           |         1 |   1        |
 | Suresnes                        |         1 |   1        |
 | Urayasu D-Rocks                 |         1 |   0        |
-| US Bressane                     |         1 |   1        |
 | Timisoara Saracens              |         1 |   1        |
 | Southland                       |         1 |   0        |
 | Tarbes                          |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luca Rizzoli  
-date: 2022-12-14 11:23:54.085517  
+date: 2022-12-18 16:39:18.274101  
 categories: player  
 ---
 # Luca Rizzoli
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 90.0
 
-## Current Percentile: 22.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |             6 |          0 |
+| Zebre  |             7 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Bristol Rugby    |         1 |          0 |
 | Edinburgh        |         1 |          0 |
 | Glasgow Warriors |         1 |          0 |
 | Munster          |         1 |          0 |

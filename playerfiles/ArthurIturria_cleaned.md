@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Iturria  
-date: 2022-12-14 11:26:33.474670  
+date: 2022-12-18 16:23:31.964848  
 categories: player  
 ---
 # Arthur Iturria
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 76.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           111 |   0.666667 |
+| Clermont Auvergne |           112 |   0.660714 |
 | France            |            15 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -39,29 +39,30 @@ categories: player
 | Stade Francais Paris     |         6 |   0.666667 |
 | Montpellier Herault      |         5 |   0.6      |
 | Agen                     |         5 |   0.8      |
-| Northampton Saints       |         4 |   0.75     |
 | Brive                    |         4 |   1        |
+| Northampton Saints       |         4 |   0.75     |
 | Scotland                 |         3 |   0.333333 |
 | Bayonne                  |         3 |   0.333333 |
 | Grenoble                 |         3 |   1        |
 | Ulster                   |         3 |   0.666667 |
-| Bath Rugby               |         2 |   1        |
-| Perpignan                |         2 |   1        |
 | Argentina                |         2 |   1        |
+| Perpignan                |         2 |   1        |
+| England                  |         2 |   0        |
+| Bath Rugby               |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Ireland                  |         2 |   0        |
 | Harlequins               |         2 |   1        |
-| England                  |         2 |   0        |
 | Biarritz Olympique       |         1 |   1        |
-| United States of America |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
 | Stormers                 |         1 |   1        |
+| United States of America |         1 |   1        |
 | Fiji                     |         1 |   0        |
+| Dragons                  |         1 |   1        |
 | South Africa             |         1 |   0        |
 | Saracens                 |         1 |   0        |
-| Dragons                  |         1 |   1        |
 | Oyonnax                  |         1 |   0        |
 | Ospreys                  |         1 |   1        |
 | Leinster                 |         1 |   1        |
+| Leicester Tigers         |         1 |   0        |
 | Exeter Chiefs            |         1 |   1        |
 | Wales                    |         1 |   0        |

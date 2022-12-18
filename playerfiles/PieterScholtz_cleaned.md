@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pieter Scholtz  
-date: 2022-12-14 11:11:27.759669  
+date: 2022-12-18 16:16:34.948099  
 categories: player  
 ---
 # Pieter Scholtz
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 83.0
 
-## Current Percentile: 25.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Southern Kings |            26 |  0.0961538 |
-| Bayonne        |            10 |  0.6       |
+| Bayonne        |            11 |  0.545455  |
 | Pumas          |             8 |  0.5       |
 | Scarlets       |             7 |  0.714286  |
 | Wasps          |             3 |  0.333333  |
@@ -31,26 +31,26 @@ categories: player
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Benetton Treviso     |         5 |   0.2      |
 | Edinburgh            |         5 |   0.2      |
-| Ospreys              |         4 |   0.5      |
 | Munster              |         4 |   0        |
-| Benetton Treviso     |         4 |   0.25     |
+| Ospreys              |         4 |   0.5      |
 | Scarlets             |         3 |   0        |
 | Connacht             |         3 |   0.333333 |
 | Dragons              |         3 |   0.833333 |
+| Leinster             |         2 |   0        |
+| Golden Lions         |         2 |   0.5      |
 | Cardiff Blues        |         2 |   0        |
 | Cheetahs             |         2 |   0        |
-| Golden Lions         |         2 |   0.5      |
-| Griquas              |         2 |   1        |
 | Natal Sharks         |         2 |   0        |
-| Leinster             |         2 |   0        |
-| Stade Francais Paris |         1 |   0        |
-| Montpellier Herault  |         1 |   0        |
-| Saracens             |         1 |   0        |
-| Perpignan            |         1 |   1        |
-| Stade Toulousain     |         1 |   1        |
+| Griquas              |         2 |   1        |
 | Northampton Saints   |         1 |   1        |
 | Ulster               |         1 |   0        |
+| Perpignan            |         1 |   1        |
+| Stade Toulousain     |         1 |   1        |
+| Montpellier Herault  |         1 |   0        |
+| Stade Francais Paris |         1 |   0        |
+| Saracens             |         1 |   0        |
 | Hurricanes           |         1 |   0        |
 | Lyon                 |         1 |   1        |
 | La Rochelle          |         1 |   1        |

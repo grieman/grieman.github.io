@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Abdelkarim Fofana  
-date: 2022-12-14 11:16:04.914279  
+date: 2022-12-18 16:37:18.469776  
 categories: player  
 ---
 # Abdelkarim Fofana

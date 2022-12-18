@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marcel Theunissen  
-date: 2022-12-14 11:25:00.926703  
+date: 2022-12-18 16:32:54.238775  
 categories: player  
 ---
 # Marcel Theunissen
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Western Province |            14 |   0.285714 |
-| Stormers         |             5 |   0.7      |
+| Stormers         |             6 |   0.75     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Pumas               |         2 |        0.5 |
 | Clermont Auvergne   |         1 |        0   |
 | Connacht            |         1 |        1   |
+| London Irish        |         1 |        1   |
 | Ospreys             |         1 |        0.5 |
 | Scarlets            |         1 |        1   |
 | Zebre               |         1 |        1   |

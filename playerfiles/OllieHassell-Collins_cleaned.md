@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ollie Hassell-Collins  
-date: 2022-12-14 11:18:52.087207  
+date: 2022-12-18 16:30:15.404585  
 categories: player  
 ---
 # Ollie Hassell-Collins
 
 ## Positions: W
 
-## Current elo: 95.0
+## Current elo: 92.0
 
-## Current Percentile: 61.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,28 +21,29 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            77 |   0.344156 |
+| London Irish |            78 |   0.339744 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Harlequins          |         7 |   0.357143 |
 | Sale Sharks         |         7 |   0.142857 |
-| Worcester Warriors  |         6 |   0.333333 |
-| Northampton Saints  |         6 |   0.166667 |
-| Wasps               |         6 |   0.416667 |
-| Exeter Chiefs       |         6 |   0.333333 |
-| Gloucester Rugby    |         6 |   0.416667 |
+| Harlequins          |         7 |   0.357143 |
 | Leicester Tigers    |         6 |   0.166667 |
-| Bristol Rugby       |         4 |   0.125    |
-| Saracens            |         4 |   0.375    |
+| Exeter Chiefs       |         6 |   0.333333 |
+| Wasps               |         6 |   0.416667 |
+| Northampton Saints  |         6 |   0.166667 |
+| Gloucester Rugby    |         6 |   0.416667 |
+| Worcester Warriors  |         6 |   0.333333 |
 | Bath Rugby          |         4 |   0.5      |
 | Newcastle Falcons   |         4 |   0.75     |
-| Toulon              |         2 |   0        |
+| Bristol Rugby       |         4 |   0.125    |
+| Saracens            |         4 |   0.375    |
 | Scarlets            |         2 |   0        |
-| Agen                |         1 |   1        |
-| Montpellier Herault |         1 |   0        |
+| Toulon              |         2 |   0        |
 | Edinburgh           |         1 |   1        |
 | Coventry            |         1 |   1        |
-| Cornish Pirates     |         1 |   1        |
-| Bayonne             |         1 |   1        |
 | Jersey              |         1 |   0        |
+| Montpellier Herault |         1 |   0        |
+| Cornish Pirates     |         1 |   1        |
+| Stormers            |         1 |   0        |
+| Bayonne             |         1 |   1        |
+| Agen                |         1 |   1        |

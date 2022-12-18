@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Hamza Kaabeche  
-date: 2022-12-14 11:14:40.773760  
+date: 2022-12-18 16:37:52.042919  
 categories: player  
 ---
 # Hamza Kaabeche
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: 33.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Lyon   |            68 |   0.433824 |
+| Lyon   |            69 |   0.427536 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,9 +40,9 @@ categories: player
 | Glasgow Warriors     |         2 |   0        |
 | Stade Francais Paris |         2 |   1        |
 | Bayonne              |         2 |   0.5      |
+| Saracens             |         2 |   0        |
 | Newcastle Falcons    |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
-| Saracens             |         1 |   0        |
 | Sale Sharks          |         1 |   1        |
 | Agen                 |         1 |   1        |
 | Northampton Saints   |         1 |   0        |

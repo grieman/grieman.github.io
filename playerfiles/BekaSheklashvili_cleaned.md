@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Sheklashvili  
-date: 2022-12-14 11:17:16.496957  
+date: 2022-12-18 16:24:10.203176  
 categories: player  
 ---
 # Beka Sheklashvili
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            57 |   0.719298 |
+| Colomiers |            58 |   0.706897 |
 | Agen      |            44 |   0.397727 |
 | Albi      |            41 |   0.487805 |
 | Beziers   |            38 |   0.407895 |
@@ -38,10 +38,10 @@ categories: player
 | Aurillac                   |         8 |   0.5      |
 | Dax                        |         7 |   0.571429 |
 | Narbonne                   |         7 |   0.642857 |
+| Oyonnax                    |         7 |   0.285714 |
 | Perpignan                  |         7 |   0.714286 |
 | La Rochelle                |         7 |   0.428571 |
 | Brive                      |         6 |   0.666667 |
-| Oyonnax                    |         6 |   0.333333 |
 | Lyon                       |         6 |   0.5      |
 | Beziers                    |         6 |   0.333333 |
 | Soyaux-Angouleme           |         6 |   0.5      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andy Uren  
-date: 2022-12-12 15:27:03.969564  
+date: 2022-12-18 16:34:58.669044  
 categories: player  
 ---
 # Andy Uren
 
 ## Positions: SH
 
-## Current elo: 72.0
+## Current elo: 70.0
 
-## Current Percentile: 0.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |           114 |   0.583333 |
+| Bristol Rugby |           115 |   0.586957 |
 | Richmond      |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -38,7 +38,7 @@ categories: player
 | Newcastle Falcons    |         7 |   0.571429 |
 | Saracens             |         6 |   0.333333 |
 | London Irish         |         5 |   0.8      |
-| Zebre                |         4 |   0.625    |
+| Zebre                |         5 |   0.7      |
 | La Rochelle          |         2 |   0.5      |
 | RC Enisei            |         2 |   1        |
 | Cardiff Blues        |         2 |   0        |

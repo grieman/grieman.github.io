@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nacani Wakaya  
-date: 2022-12-14 11:32:05.275116  
+date: 2022-12-18 16:35:05.026371  
 categories: player  
 ---
 # Nacani Wakaya
 
 ## Positions: C, W
 
-## Current elo: 114.0
+## Current elo: 117.0
 
-## Current Percentile: 86.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            95 |   0.615789 |
+| Mont-de-Marsan |            96 |   0.619792 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         9 |   0.777778 |
+| Carcassonne                |         8 |   0.625    |
 | Vannes                     |         7 |   0.714286 |
-| Carcassonne                |         7 |   0.571429 |
 | Aurillac                   |         7 |   0.857143 |
 | Nevers                     |         6 |   0.666667 |
 | Oyonnax                    |         5 |   0.3      |

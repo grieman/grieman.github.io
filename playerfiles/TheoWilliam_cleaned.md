@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Theo William  
-date: 2022-12-14 11:32:04.557435  
+date: 2022-12-18 16:25:28.768312  
 categories: player  
 ---
 # Theo William
 
 ## Positions: FL, L
 
-## Current elo: 95.0
+## Current elo: 97.0
 
 ## Current Percentile: 48.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Lyon        |            16 |   0.625    |
+| Lyon        |            17 |   0.588235 |
 | US Bressane |             6 |   0.416667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -40,4 +40,5 @@ categories: player
 | Mont-de-Marsan       |         1 |        0   |
 | Pau                  |         1 |        0   |
 | Provence Rugby       |         1 |        0.5 |
+| Saracens             |         1 |        0   |
 | Vannes               |         1 |        0   |

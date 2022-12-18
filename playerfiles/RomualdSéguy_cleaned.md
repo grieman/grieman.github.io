@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romuald Séguy  
-date: 2022-12-14 11:26:39.705842  
+date: 2022-12-18 16:15:34.538594  
 categories: player  
 ---
 # Romuald Séguy
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 26.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Colomiers      |            29 |   0.655172 |
+| Colomiers      |            30 |   0.633333 |
 | Carcassonne    |            23 |   0.543478 |
 | Perpignan      |             6 |   0.333333 |
 | Mont-de-Marsan |             5 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Oyonnax                    |         6 |   0.333333 |
 | Aurillac                   |         6 |   0.666667 |
 | Montauban                  |         5 |   0.8      |
 | Mont-de-Marsan             |         5 |   0.4      |
-| Oyonnax                    |         5 |   0.4      |
 | Nevers                     |         5 |   0.6      |
 | Provence Rugby             |         4 |   0.5      |
 | Vannes                     |         4 |   0.375    |

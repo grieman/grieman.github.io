@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Corentin Glenat  
-date: 2022-12-14 11:19:58.325632  
+date: 2022-12-18 16:32:11.740045  
 categories: player  
 ---
 # Corentin Glenat

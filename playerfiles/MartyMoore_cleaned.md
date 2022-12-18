@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marty Moore  
-date: 2022-12-14 11:15:46.266866  
+date: 2022-12-18 16:36:29.183336  
 categories: player  
 ---
 # Marty Moore
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 104.0
+## Current elo: 103.0
 
 ## Current Percentile: 81.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Ulster   |            69 |   0.688406 |
+| Ulster   |            70 |   0.678571 |
 | Leinster |            58 |   0.698276 |
 | Wasps    |            52 |   0.644231 |
 | Ireland  |            10 |   0.8      |
@@ -52,10 +52,10 @@ categories: player
 | Gloucester Rugby   |         4 |   0.625    |
 | Saracens           |         4 |   0        |
 | Toulon             |         4 |   0        |
+| La Rochelle        |         3 |   0.333333 |
 | Stade Toulousain   |         3 |   0.5      |
 | Worcester Warriors |         3 |   1        |
 | Castres Olympique  |         3 |   1        |
-| La Rochelle        |         2 |   0.5      |
 | Wasps              |         2 |   0.25     |
 | Wales              |         2 |   0.5      |
 | England            |         2 |   0.5      |

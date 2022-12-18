@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mateo Carreras  
-date: 2022-12-12 15:20:37.000743  
+date: 2022-12-18 16:11:55.387136  
 categories: player  
 ---
 # Mateo Carreras
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 42.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            23 |   0.217391 |
+| Newcastle Falcons |            24 |   0.208333 |
 | Argentina         |             9 |   0.444444 |
 | Jaguares XV       |             1 |   1        |
 
@@ -32,21 +32,22 @@ categories: player
 | Northampton Saints |         3 |        0   |
 | Leicester Tigers   |         3 |        0   |
 | Australia          |         2 |        0   |
-| Harlequins         |         2 |        0.5 |
+| Gloucester Rugby   |         2 |        0   |
 | Wasps              |         2 |        0   |
 | Sale Sharks        |         2 |        0   |
 | London Irish       |         2 |        0   |
+| Harlequins         |         2 |        0.5 |
 | Worcester Warriors |         2 |        0.5 |
-| Gloucester Rugby   |         2 |        0   |
 | Bristol Rugby      |         2 |        1   |
+| Georgia            |         1 |        1   |
 | Ireland            |         1 |        0   |
 | Bath Rugby         |         1 |        0   |
-| Georgia            |         1 |        1   |
-| Leopards           |         1 |        1   |
 | France             |         1 |        0   |
+| Leopards           |         1 |        1   |
 | Exeter Chiefs      |         1 |        1   |
-| Portugal           |         1 |        1   |
 | England            |         1 |        1   |
+| Portugal           |         1 |        1   |
+| Cardiff Blues      |         1 |        0   |
 | Saracens           |         1 |        0   |
 | Wales              |         1 |        0   |
 | Italy              |         1 |        1   |

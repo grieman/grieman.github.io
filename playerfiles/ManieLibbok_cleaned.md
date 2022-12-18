@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manie Libbok  
-date: 2022-12-14 11:11:48.430799  
+date: 2022-12-18 16:14:41.987341  
 categories: player  
 ---
 # Manie Libbok
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 81.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Bulls        |            34 |   0.441176 |
-| Stormers     |            28 |   0.75     |
+| Stormers     |            29 |   0.758621 |
 | Blue Bulls   |            13 |   0.384615 |
 | Natal Sharks |             6 |   0.5      |
 | South Africa |             3 |   0.666667 |
@@ -36,30 +36,31 @@ categories: player
 | Stormers                 |         5 |   0.4      |
 | Jaguares                 |         4 |   0.25     |
 | Griquas                  |         4 |   0.75     |
-| Free State Cheetahs      |         3 |   0.333333 |
+| Bulls                    |         3 |   1        |
+| Western Province         |         3 |   0        |
 | Highlanders              |         3 |   0.5      |
 | Golden Lions             |         3 |   0.333333 |
 | Natal Sharks             |         3 |   0        |
-| Bulls                    |         3 |   1        |
-| Western Province         |         3 |   0        |
-| Dragons                  |         2 |   1        |
-| Ospreys                  |         2 |   0.75     |
+| Free State Cheetahs      |         3 |   0.333333 |
 | Melbourne Rebels         |         2 |   1        |
-| Blues                    |         2 |   0.25     |
+| Ospreys                  |         2 |   0.75     |
 | Pumas                    |         2 |   1        |
-| Brumbies                 |         2 |   0        |
 | Queensland Reds          |         2 |   0.5      |
-| Crusaders                |         2 |   0        |
-| Cardiff Blues            |         2 |   0.5      |
-| Ulster                   |         2 |   1        |
-| Connacht                 |         2 |   0.5      |
-| Edinburgh                |         2 |   1        |
 | Zebre                    |         2 |   1        |
+| Edinburgh                |         2 |   1        |
+| Dragons                  |         2 |   1        |
+| Crusaders                |         2 |   0        |
+| Connacht                 |         2 |   0.5      |
+| Ulster                   |         2 |   1        |
+| Cardiff Blues            |         2 |   0.5      |
+| Brumbies                 |         2 |   0        |
+| Blues                    |         2 |   0.25     |
+| Sunwolves                |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
-| Sunwolves                |         1 |   0        |
 | Benetton Treviso         |         1 |   0        |
 | Munster                  |         1 |   0        |
+| London Irish             |         1 |   1        |
 | Leinster                 |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Blue Bulls               |         1 |   1        |

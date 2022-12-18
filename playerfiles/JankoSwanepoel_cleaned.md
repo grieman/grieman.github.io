@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Janko Swanepoel  
-date: 2022-12-14 11:28:00.666681  
+date: 2022-12-18 16:24:21.490908  
 categories: player  
 ---
 # Janko Swanepoel
 
 ## Positions: L
 
-## Current elo: 92.0
+## Current elo: 90.0
 
 ## Current Percentile: 36.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |            26 |   0.692308 |
+| Bulls      |            27 |   0.666667 |
 | Blue Bulls |            12 |   0.833333 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -44,4 +44,5 @@ categories: player
 | Lyon                |         1 |   1        |
 | Munster             |         1 |   1        |
 | Natal Sharks        |         1 |   1        |
+| Exeter Chiefs       |         1 |   0        |
 | Zebre               |         1 |   1        |

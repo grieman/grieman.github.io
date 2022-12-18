@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tawera Kerr-Barlow  
-date: 2022-12-14 11:22:22.528688  
+date: 2022-12-18 16:19:56.459391  
 categories: player  
 ---
 # Tawera Kerr-Barlow
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 128.0
+## Current elo: 129.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| La Rochelle       |           110 |   0.559091 |
+| La Rochelle       |           111 |   0.563063 |
 | Chiefs            |            82 |   0.682927 |
 | New Zealand       |            22 |   0.954545 |
 | Waikato           |            14 |   0.75     |
@@ -69,13 +69,13 @@ categories: player
 | Melbourne Rebels         |         2 |   1        |
 | Sharks                   |         2 |   1        |
 | Auckland                 |         2 |   1        |
+| Ulster                   |         2 |   0.5      |
 | France                   |         2 |   1        |
 | Biarritz Olympique       |         2 |   0.5      |
 | Taranaki                 |         1 |   0.5      |
 | Tasman                   |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
 | Tonga                    |         1 |   1        |
-| Ulster                   |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   1        |
 | Wellington               |         1 |   0        |

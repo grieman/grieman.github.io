@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: William Davies-King  
-date: 2022-12-12 15:18:34.701707  
+date: 2022-12-18 16:16:26.859891  
 categories: player  
 ---
 # William Davies-King
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 88.0
 
 ## Current Percentile: 15.0
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |             6 |   0.333333 |
+| Cardiff Blues |             7 |   0.428571 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Bulls            |         1 |          0 |
-| Edinburgh        |         1 |          0 |
-| Harlequins       |         1 |          0 |
-| Scarlets         |         1 |          1 |
-| Sharks           |         1 |          1 |
-| Stade Toulousain |         1 |          0 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Bulls             |         1 |          0 |
+| Edinburgh         |         1 |          0 |
+| Harlequins        |         1 |          0 |
+| Newcastle Falcons |         1 |          1 |
+| Scarlets          |         1 |          1 |
+| Sharks            |         1 |          1 |
+| Stade Toulousain  |         1 |          0 |

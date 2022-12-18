@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Gigena  
-date: 2022-12-14 11:16:54.845918  
+date: 2022-12-18 16:11:53.319513  
 categories: player  
 ---
 # Facundo Gigena
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 39.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |            39 |   0.294872 |
-| London Irish     |            28 |   0.392857 |
+| London Irish     |            29 |   0.37931  |
 | Argentina        |             9 |   0.5      |
 | Jaguares         |             5 |   0.2      |
 
@@ -46,13 +46,14 @@ categories: player
 | Calvisano           |         2 |   1        |
 | Wales               |         2 |   0.75     |
 | Leicester Tigers    |         2 |   0        |
-| Southern Kings      |         2 |   0.5      |
 | Cardiff Blues       |         2 |   1        |
 | New Zealand         |         2 |   0        |
+| Southern Kings      |         2 |   0.5      |
 | South Africa        |         1 |   0        |
 | Ulster              |         1 |   0        |
 | Toulon              |         1 |   0        |
 | Sunwolves           |         1 |   0        |
+| Stormers            |         1 |   0        |
 | Montpellier Herault |         1 |   0        |
 | Sharks              |         1 |   0        |
 | Georgia             |         1 |   1        |

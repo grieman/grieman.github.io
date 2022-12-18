@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Loic Baradel  
-date: 2022-12-14 11:28:25.089866  
+date: 2022-12-18 16:37:02.637775  
 categories: player  
 ---
 # Loic Baradel
 
 ## Positions: N8, FL
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 20.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            53 |   0.632075 |
+| US Bressane |            54 |   0.62037  |
 | Grenoble    |            15 |   0.266667 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,11 +34,11 @@ categories: player
 | Nevers                     |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0        |
 | Lyon                       |         3 |   0.333333 |
+| Dax                        |         3 |   0.333333 |
 | Colomiers                  |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Provence Rugby             |         2 |   0.25     |
 | Albi                       |         2 |   0.5      |
-| Dax                        |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
 | Carcassonne                |         2 |   0        |

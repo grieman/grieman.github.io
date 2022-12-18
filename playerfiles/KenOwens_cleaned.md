@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ken Owens  
-date: 2022-12-14 11:26:49.187196  
+date: 2022-12-18 16:19:35.242310  
 categories: player  
 ---
 # Ken Owens
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: 46.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Scarlets                |           216 |   0.511574 |
+| Scarlets                |           217 |   0.513825 |
 | Wales                   |            81 |   0.598765 |
 | British and Irish Lions |            11 |   0.5      |
 
@@ -61,10 +61,11 @@ categories: player
 | Exeter Chiefs        |         2 |   0        |
 | Bath Rugby           |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
+| Cheetahs             |         2 |   1        |
 | Argentina            |         2 |   1        |
 | Castres Olympique    |         2 |   1        |
-| Georgia              |         2 |   0.5      |
 | Fiji                 |         2 |   1        |
+| Georgia              |         2 |   0.5      |
 | Highlanders          |         1 |   0        |
 | Yorkshire Carnegie   |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
@@ -73,11 +74,10 @@ categories: player
 | Bayonne              |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Namibia              |         1 |   1        |
-| Blues                |         1 |   0        |
+| New Zealand Maori    |         1 |   1        |
+| Bristol Rugby        |         1 |   1        |
 | Sale Sharks          |         1 |   1        |
 | Japan                |         1 |   1        |
 | Perpignan            |         1 |   1        |
-| Cheetahs             |         1 |   1        |
 | Crusaders            |         1 |   1        |
-| New Zealand Maori    |         1 |   1        |
-| Bristol Rugby        |         1 |   1        |
+| Blues                |         1 |   0        |

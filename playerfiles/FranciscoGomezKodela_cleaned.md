@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francisco Gomez Kodela  
-date: 2022-12-14 11:22:05.499765  
+date: 2022-12-18 16:15:46.801778  
 categories: player  
 ---
 # Francisco Gomez Kodela
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Lyon               |           129 |   0.546512 |
+| Lyon               |           130 |   0.542308 |
 | Biarritz Olympique |            62 |   0.459677 |
 | Bordeaux Begles    |            48 |   0.541667 |
 | Argentina          |            20 |   0.5      |
@@ -48,8 +48,8 @@ categories: player
 | Oyonnax              |         7 |   0.428571 |
 | Lyon                 |         6 |   0.75     |
 | Australia            |         5 |   0.5      |
+| Saracens             |         4 |   0.25     |
 | Perpignan            |         4 |   0.5      |
-| Saracens             |         3 |   0.333333 |
 | Leinster             |         3 |   0        |
 | Scotland             |         3 |   0.666667 |
 | Ospreys              |         3 |   0.666667 |

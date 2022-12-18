@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Solomone Kata  
-date: 2022-11-22 11:37:35.734320  
+date: 2022-12-18 16:38:55.807904  
 categories: player  
 ---
 # Solomone Kata
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 106.0
+## Current elo: 108.0
 
-## Current Percentile: 79.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Brumbies       |            18 |   0.611111 |
 | Moana Pasifika |             8 |   0.125    |
+| Exeter Chiefs  |             6 |   0.666667 |
 | Tonga          |             5 |   0.6      |
-| Exeter Chiefs  |             4 |   0.75     |
 | Auckland       |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,6 +44,7 @@ categories: player
 | Spain                    |         1 |   1        |
 | Sale Sharks              |         1 |   0        |
 | Romania                  |         1 |   0        |
+| Newcastle Falcons        |         1 |   0        |
 | Leicester Tigers         |         1 |   1        |
 | Bristol Rugby            |         1 |   1        |
 | Hurricanes               |         1 |   1        |
@@ -52,5 +53,6 @@ categories: player
 | Crusaders                |         1 |   0        |
 | Chile                    |         1 |   1        |
 | Canterbury               |         1 |   1        |
+| Bulls                    |         1 |   1        |
 | Brumbies                 |         1 |   1        |
 | Worcester Warriors       |         1 |   1        |

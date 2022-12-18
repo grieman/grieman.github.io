@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francisco Gorrissen  
-date: 2022-12-12 15:31:46.421784  
+date: 2022-12-18 16:12:06.321737  
 categories: player  
 ---
 # Francisco Gorrissen
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 133.0
+## Current elo: 132.0
 
 ## Current Percentile: 98.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Belgrano    |            59 |   0.711864 |
-| Vannes      |            30 |   0.566667 |
+| Vannes      |            31 |   0.580645 |
 | Jaguares XV |            11 |   1        |
 | Jaguares    |             8 |   0.75     |
 | Argentina   |             3 |   0.5      |
@@ -40,10 +40,10 @@ categories: player
 | SIC                    |         5 |   0.6      |
 | CUBA                   |         5 |   0.6      |
 | Alumni                 |         4 |   1        |
+| Provence Rugby         |         3 |   0.666667 |
 | Beziers                |         3 |   0.666667 |
 | Colomiers              |         3 |   0.666667 |
 | Hindu                  |         3 |   0        |
-| Provence Rugby         |         2 |   0.5      |
 | Penarol Rugby          |         2 |   1        |
 | Mont-de-Marsan         |         2 |   0.5      |
 | Lomas                  |         2 |   0.5      |

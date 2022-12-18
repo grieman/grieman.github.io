@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Cordwell  
-date: 2022-12-14 11:11:30.999508  
+date: 2022-12-18 16:19:33.364912  
 categories: player  
 ---
 # Arthur Cordwell

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Connor Edwards  
-date: 2022-12-14 11:32:00.371955  
+date: 2022-12-18 16:16:27.519961  
 categories: player  
 ---
 # Connor Edwards

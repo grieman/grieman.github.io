@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave Attwood  
-date: 2022-12-14 11:22:02.660566  
+date: 2022-12-18 16:31:16.349992  
 categories: player  
 ---
 # Dave Attwood
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 139.0
+## Current elo: 137.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bath Rugby       |           162 |   0.527778 |
+| Bath Rugby       |           163 |   0.52454  |
 | Bristol Rugby    |            55 |   0.572727 |
 | Gloucester Rugby |            45 |   0.533333 |
 | England          |            17 |   0.764706 |
@@ -56,6 +56,7 @@ categories: player
 | La Rochelle          |         2 |   0.5      |
 | Leeds                |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
+| Toulon               |         2 |   0.5      |
 | Bucuresti            |         2 |   1        |
 | South Africa         |         2 |   0.5      |
 | Scotland             |         2 |   1        |
@@ -67,13 +68,12 @@ categories: player
 | Argentina            |         2 |   1        |
 | Italy                |         2 |   1        |
 | Yorkshire Carnegie   |         2 |   1        |
-| Clermont Auvergne    |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
 | Racing 92            |         1 |   0        |
-| New Zealand          |         1 |   0        |
+| Clermont Auvergne    |         1 |   1        |
 | Samoa                |         1 |   1        |
-| Munster              |         1 |   0        |
+| New Zealand          |         1 |   0        |
 | Scarlets             |         1 |   0        |
+| Munster              |         1 |   0        |
 | France               |         1 |   0        |
-| Toulon               |         1 |   1        |
 | Australia            |         1 |   1        |

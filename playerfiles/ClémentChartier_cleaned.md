@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clément Chartier  
-date: 2022-12-14 11:23:36.445741  
+date: 2022-12-18 16:26:52.042658  
 categories: player  
 ---
 # Clément Chartier

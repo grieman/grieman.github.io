@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Dupont  
-date: 2022-12-14 11:18:16.182634  
+date: 2022-12-18 16:13:38.599826  
 categories: player  
 ---
 # Antoine Dupont
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 126.0
+## Current elo: 127.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Stade Toulousain  |            82 |   0.768293 |
+| Stade Toulousain  |            83 |   0.771084 |
 | Castres Olympique |            61 |   0.47541  |
 | France            |            40 |   0.6875   |
 
@@ -48,9 +48,9 @@ categories: player
 | Ireland              |         5 |   0.6      |
 | Stade Toulousain     |         5 |   0.4      |
 | England              |         4 |   0.5      |
+| Sale Sharks          |         4 |   0.5      |
 | South Africa         |         4 |   0.25     |
 | Bayonne              |         4 |   0.625    |
-| Sale Sharks          |         3 |   0.333333 |
 | Perpignan            |         3 |   1        |
 | Agen                 |         3 |   1        |
 | Wasps                |         3 |   0.666667 |

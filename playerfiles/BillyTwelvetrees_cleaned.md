@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Twelvetrees  
-date: 2022-12-14 11:24:56.603226  
+date: 2022-12-18 16:29:15.466599  
 categories: player  
 ---
 # Billy Twelvetrees
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 112.0
+## Current elo: 111.0
 
 ## Current Percentile: 87.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |           253 |   0.529644 |
+| Gloucester Rugby |           254 |   0.527559 |
 | Leicester Tigers |            58 |   0.681034 |
 | England          |            21 |   0.761905 |
 
@@ -41,40 +41,41 @@ categories: player
 | Worcester Warriors   |        19 |   0.789474 |
 | Leicester Tigers     |        16 |   0.3125   |
 | Bristol Rugby        |        10 |   0.4      |
+| Connacht             |         4 |   0.75     |
+| Zebre                |         4 |   1        |
 | London Welsh         |         4 |   1        |
 | Gloucester Rugby     |         4 |   0.625    |
-| Zebre                |         4 |   1        |
-| Connacht             |         4 |   0.75     |
-| Edinburgh            |         3 |   0.666667 |
-| Munster              |         3 |   0        |
-| Yorkshire Carnegie   |         3 |   1        |
-| Wales                |         3 |   0.666667 |
-| Scotland             |         3 |   1        |
-| Perpignan            |         3 |   0.833333 |
-| Benetton Treviso     |         3 |   1        |
-| Ireland              |         3 |   0.666667 |
-| France               |         3 |   0.666667 |
 | La Rochelle          |         3 |   1        |
 | Italy                |         3 |   1        |
+| Ireland              |         3 |   0.666667 |
+| Edinburgh            |         3 |   0.666667 |
+| France               |         3 |   0.666667 |
+| Perpignan            |         3 |   0.833333 |
+| Scotland             |         3 |   1        |
+| Benetton Treviso     |         3 |   1        |
+| Wales                |         3 |   0.666667 |
+| Yorkshire Carnegie   |         3 |   1        |
+| Munster              |         3 |   0        |
+| New Zealand          |         2 |   0        |
+| Pau                  |         2 |   0        |
 | Oyonnax              |         2 |   1        |
-| Argentina            |         2 |   1        |
-| Clermont Auvergne    |         2 |   0.5      |
 | Stade Toulousain     |         2 |   0        |
+| Agen                 |         2 |   1        |
+| Montpellier Herault  |         2 |   0.5      |
+| Cardiff Blues        |         2 |   0.5      |
+| Argentina            |         2 |   1        |
 | Australia            |         2 |   1        |
 | Bayonne              |         2 |   1        |
-| Pau                  |         2 |   0        |
-| Leeds                |         2 |   1        |
 | Bordeaux Begles      |         2 |   1        |
-| New Zealand          |         2 |   0        |
-| Montpellier Herault  |         2 |   0.5      |
 | Mont-de-Marsan       |         2 |   1        |
 | Brive                |         2 |   1        |
-| Cardiff Blues        |         2 |   0.5      |
-| Agen                 |         2 |   1        |
-| Ospreys              |         1 |   0.5      |
-| Aironi               |         1 |   1        |
+| Clermont Auvergne    |         2 |   0.5      |
+| Leeds                |         2 |   1        |
 | Scarlets             |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |
 | Ulster               |         1 |   0        |
+| Aironi               |         1 |   1        |
 | Arix Viadana         |         1 |   1        |
+| Ospreys              |         1 |   0.5      |
+| Leinster             |         1 |   0        |

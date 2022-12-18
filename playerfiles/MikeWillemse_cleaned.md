@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mike Willemse  
-date: 2022-12-14 11:17:58.859641  
+date: 2022-12-18 16:22:16.680688  
 categories: player  
 ---
 # Mike Willemse
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Southern Kings         |            42 |   0.202381 |
 | Edinburgh              |            34 |   0.573529 |
-| London Irish           |            14 |   0.5      |
+| London Irish           |            15 |   0.466667 |
 | Western Province       |             7 |   0.571429 |
 | Stormers               |             5 |   0.5      |
 | Eastern Province Kings |             4 |   0        |
@@ -50,26 +50,26 @@ categories: player
 | Bristol Rugby            |         2 |   0.5      |
 | Wasps                    |         2 |   1        |
 | Blue Bulls               |         2 |   0.5      |
+| Stormers                 |         2 |   0        |
 | Boland Cavaliers         |         2 |   0.5      |
 | Queensland Reds          |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   1        |
 | Agen                     |         2 |   1        |
 | Jaguares                 |         2 |   0.5      |
-| Harlequins               |         2 |   0.5      |
 | Edinburgh                |         2 |   0.5      |
+| Harlequins               |         2 |   0.5      |
+| New South Wales Waratahs |         1 |   1        |
 | Western Province         |         1 |   0        |
 | Western Force            |         1 |   0        |
 | Gloucester Rugby         |         1 |   0        |
 | Sunwolves                |         1 |   1        |
-| Stormers                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | Montpellier Herault      |         1 |   0        |
-| Melbourne Rebels         |         1 |   1        |
+| Leicester Tigers         |         1 |   0        |
 | Saracens                 |         1 |   0.5      |
 | Sale Sharks              |         1 |   0.5      |
-| Leicester Tigers         |         1 |   0        |
-| Pumas                    |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
+| Pumas                    |         1 |   1        |
 | Bulls                    |         1 |   1        |
-| New South Wales Waratahs |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |
 | Free State Cheetahs      |         1 |   0        |

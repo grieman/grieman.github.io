@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Geronimo Prisciantelli  
-date: 2022-12-12 15:28:11.356696  
+date: 2022-12-18 16:19:17.577384  
 categories: player  
 ---
 # Geronimo Prisciantelli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 126.0
+## Current elo: 127.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -25,16 +25,16 @@ categories: player
 |:------------|--------------:|-----------:|
 | CASI        |            24 |   0.458333 |
 | Jaguares XV |            12 |   0.75     |
-| Zebre       |             5 |   0        |
+| Zebre       |             6 |   0        |
 | Argentina   |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | San Luis             |         4 |   0.5      |
 | Hindu                |         4 |   0.25     |
-| Pucara               |         3 |   0.333333 |
 | Cafeteros Pro        |         3 |   1        |
 | Cobras               |         3 |   1        |
+| Pucara               |         3 |   0.333333 |
 | Alumni               |         2 |   0.5      |
 | Belgrano             |         2 |   0.5      |
 | Selknam              |         2 |   0        |
@@ -43,13 +43,14 @@ categories: player
 | Newman               |         2 |   0        |
 | Olimpia Lions        |         2 |   1        |
 | Penarol Rugby        |         2 |   0.5      |
+| Portugal             |         1 |   1        |
 | Scarlets             |         1 |   0        |
 | SIC                  |         1 |   1        |
 | Los Tilos            |         1 |   1        |
-| Portugal             |         1 |   1        |
 | Glasgow Warriors     |         1 |   0        |
 | Georgia              |         1 |   1        |
 | Edinburgh            |         1 |   0        |
 | Dragons              |         1 |   0        |
 | CUBA                 |         1 |   0        |
+| Bristol Rugby        |         1 |   0        |
 | Ulster               |         1 |   0        |

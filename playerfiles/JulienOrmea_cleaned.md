@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Ormea  
-date: 2022-12-14 11:34:23.896520  
+date: 2022-12-18 16:23:07.058035  
 categories: player  
 ---
 # Julien Ormea

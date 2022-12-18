@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lewis Finlay  
-date: 2022-12-14 11:28:06.067652  
+date: 2022-12-18 16:34:36.573857  
 categories: player  
 ---
 # Lewis Finlay

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adrian Sanday  
-date: 2022-12-12 15:00:47.932099  
+date: 2022-12-18 16:26:51.371165  
 categories: player  
 ---
 # Adrian Sanday
@@ -22,16 +22,16 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Oyonnax        |            28 |   0.553571 |
-| Provence Rugby |             9 |   0.333333 |
+| Provence Rugby |            10 |   0.3      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |         5 |   0.1      |
-| Mont-de-Marsan             |         3 |   0.666667 |
+| Vannes                     |         4 |   0.5      |
 | Carcassonne                |         3 |   1        |
 | Soyaux-Angouleme           |         3 |   1        |
 | Aurillac                   |         3 |   0        |
-| Vannes                     |         3 |   0.666667 |
+| Mont-de-Marsan             |         3 |   0.666667 |
 | Beziers                    |         2 |   1        |
 | Montauban                  |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |

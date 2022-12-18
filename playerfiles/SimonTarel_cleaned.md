@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon Tarel  
-date: 2022-12-14 11:32:12.855000  
+date: 2022-12-18 16:15:26.268606  
 categories: player  
 ---
 # Simon Tarel
 
 ## Positions: SH
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |             4 |       0.75 |
+| Provence Rugby |             5 |        0.6 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -29,3 +29,4 @@ categories: player
 | Biarritz Olympique |         1 |          0 |
 | Carcassonne        |         1 |          1 |
 | Rouen              |         1 |          1 |
+| Vannes             |         1 |          0 |

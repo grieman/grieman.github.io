@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Harley  
-date: 2022-12-14 11:36:18.435204  
+date: 2022-12-18 16:39:41.811959  
 categories: player  
 ---
 # Rob Harley
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 114.0
+## Current elo: 112.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           256 |   0.558594 |
 | Scotland         |            19 |   0.473684 |
-| Carcassonne      |            14 |   0.428571 |
+| Carcassonne      |            15 |   0.4      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -82,4 +82,5 @@ categories: player
 | New Zealand         |         1 |   0        |
 | Nevers              |         1 |   1        |
 | Montauban           |         1 |   1        |
+| Mont-de-Marsan      |         1 |   0        |
 | Agen                |         1 |   1        |

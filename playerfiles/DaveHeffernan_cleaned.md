@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave Heffernan  
-date: 2022-12-12 15:32:05.223265  
+date: 2022-12-18 16:23:45.864548  
 categories: player  
 ---
 # Dave Heffernan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 51.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           168 |   0.488095 |
+| Connacht |           169 |   0.491124 |
 | Ireland  |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,25 +44,25 @@ categories: player
 | Worcester Warriors       |         2 |   0.75     |
 | Wasps                    |         2 |   0.5      |
 | United States of America |         2 |   1        |
+| Brive                    |         2 |   1        |
 | Southern Kings           |         2 |   1        |
 | RC Enisei                |         2 |   1        |
 | Perpignan                |         2 |   1        |
 | Newcastle Falcons        |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
-| Exeter Chiefs            |         2 |   0        |
-| Bulls                    |         2 |   0.5      |
-| Gloucester Rugby         |         2 |   0.5      |
-| La Rochelle              |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
+| Bulls                    |         2 |   0.5      |
+| La Rochelle              |         2 |   1        |
+| Gloucester Rugby         |         2 |   0.5      |
+| Exeter Chiefs            |         2 |   0        |
 | New Zealand              |         1 |   0        |
-| Grenoble                 |         1 |   0        |
-| France                   |         1 |   0        |
-| Brive                    |         1 |   1        |
-| Stormers                 |         1 |   0        |
-| Sharks                   |         1 |   0        |
-| Italy                    |         1 |   1        |
-| Sale Sharks              |         1 |   0        |
-| Leicester Tigers         |         1 |   0        |
 | Oyonnax                  |         1 |   1        |
 | Lions                    |         1 |   1        |
+| Sale Sharks              |         1 |   0        |
+| Leicester Tigers         |         1 |   0        |
+| Sharks                   |         1 |   0        |
+| Italy                    |         1 |   1        |
+| Stormers                 |         1 |   0        |
+| Grenoble                 |         1 |   0        |
+| France                   |         1 |   0        |
 | New Zealand Maori        |         1 |   0        |

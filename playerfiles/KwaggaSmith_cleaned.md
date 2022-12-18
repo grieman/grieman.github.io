@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kwagga Smith  
-date: 2022-11-22 11:47:27.635604  
+date: 2022-12-18 16:17:10.766098  
 categories: player  
 ---
 # Kwagga Smith
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 81.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Lions              |            50 |   0.69     |
-| South Africa       |            30 |   0.65     |
-| Shizuoka Blue Revs |            29 |   0.551724 |
+| South Africa       |            31 |   0.66129  |
+| Shizuoka Blue Revs |            30 |   0.533333 |
 | Golden Lions       |            26 |   0.769231 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -45,6 +45,7 @@ categories: player
 | Australia                         |         4 |   0.25     |
 | British and Irish Lions           |         3 |   0.666667 |
 | Hurricanes                        |         3 |   0.333333 |
+| Toyota Verblitz                   |         3 |   0.333333 |
 | Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | Blue Bulls                        |         3 |   0.333333 |
 | Saitama Wild Knights              |         3 |   0        |
@@ -55,29 +56,28 @@ categories: player
 | Free State Cheetahs               |         3 |   0.666667 |
 | Queensland Reds                   |         2 |   0.5      |
 | Green Rockets Tokatsu             |         2 |   1        |
-| Toyota Verblitz                   |         2 |   0.5      |
 | Cheetahs                          |         2 |   1        |
 | Sunwolves                         |         2 |   1        |
 | Southern Kings                    |         2 |   1        |
-| Highlanders                       |         2 |   0.5      |
+| England                           |         2 |   0.5      |
 | Melbourne Rebels                  |         2 |   1        |
-| Kobelco Kobe Steelers             |         2 |   0        |
 | Brumbies                          |         2 |   1        |
-| Griquas                           |         2 |   1        |
+| Highlanders                       |         2 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
+| Griquas                           |         2 |   1        |
+| Kobelco Kobe Steelers             |         2 |   0        |
 | Namibia                           |         1 |   1        |
-| Ireland                           |         1 |   0        |
+| Tokyo Sungoliath                  |         1 |   0        |
+| Italy                             |         1 |   1        |
 | Western Force                     |         1 |   1        |
 | Canada                            |         1 |   1        |
 | Urayasu D-Rocks                   |         1 |   1        |
-| Italy                             |         1 |   1        |
-| Tokyo Sungoliath                  |         1 |   0        |
 | Chiefs                            |         1 |   1        |
-| Georgia                           |         1 |   1        |
+| Coca-Cola Red Sparks              |         1 |   1        |
 | Blues                             |         1 |   0        |
 | Scotland                          |         1 |   1        |
-| Coca-Cola Red Sparks              |         1 |   1        |
-| England                           |         1 |   0        |
+| Ireland                           |         1 |   0        |
 | France                            |         1 |   0        |
 | Mie Honda Heat                    |         1 |   1        |
+| Georgia                           |         1 |   1        |
 | Hino Red Dolphins                 |         1 |   1        |

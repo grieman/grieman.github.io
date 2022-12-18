@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Deleuze  
-date: 2022-12-14 11:22:58.767352  
+date: 2022-12-18 16:31:42.379272  
 categories: player  
 ---
 # Tom Deleuze

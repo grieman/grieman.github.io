@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Benjamin Daurau Bedin  
-date: 2022-12-14 11:20:11.702365  
+date: 2022-12-18 16:35:09.428820  
 categories: player  
 ---
 # Benjamin Daurau Bedin

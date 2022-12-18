@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Nennig  
-date: 2022-12-14 11:17:20.568713  
+date: 2022-12-18 16:15:19.695726  
 categories: player  
 ---
 # Arthur Nennig

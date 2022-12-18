@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Bitz  
-date: 2022-12-14 11:21:12.823047  
+date: 2022-12-18 16:21:03.179220  
 categories: player  
 ---
 # Clément Bitz
 
 ## Positions: L, FL
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 63.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            39 |   0.487179 |
+| Beziers |            40 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,9 +37,9 @@ categories: player
 | Montauban                  |         2 |   1        |
 | Aurillac                   |         2 |   0.5      |
 | Carcassonne                |         2 |   0        |
+| Biarritz Olympique         |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
 | Narbonne                   |         1 |   1        |
 | Massy                      |         1 |   1        |
-| Biarritz Olympique         |         1 |   0        |
 | Bayonne                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0.5      |

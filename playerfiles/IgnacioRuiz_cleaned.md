@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ignacio Ruiz  
-date: 2022-11-22 11:39:35.101116  
+date: 2022-12-18 16:16:12.013049  
 categories: player  
 ---
 # Ignacio Ruiz
 
 ## Positions: H, N8
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 44.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,6 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Jaguares XV         |            10 |        0.7 |
 | Regatas Bella Vista |             5 |        0.4 |
+| London Irish        |             1 |        0   |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -36,3 +37,4 @@ categories: player
 | Pucara        |         1 |          1 |
 | San Luis      |         1 |          0 |
 | Selknam       |         1 |          0 |
+| Stormers      |         1 |          0 |

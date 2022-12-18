@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pita Ahki  
-date: 2022-12-14 11:30:32.529858  
+date: 2022-12-18 16:28:45.712821  
 categories: player  
 ---
 # Pita Ahki
 
 ## Positions: C
 
-## Current elo: 100.0
+## Current elo: 104.0
 
-## Current Percentile: 53.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            86 |   0.69186  |
+| Stade Toulousain |            87 |   0.695402 |
 | North Harbour    |            26 |   0.173077 |
 | Blues            |            14 |   0.428571 |
 | Connacht         |             8 |   0.375    |
@@ -54,24 +54,25 @@ categories: player
 | Wellington               |         2 |   0        |
 | Zebre                    |         2 |   0        |
 | Cardiff Blues            |         2 |   0.5      |
-| Crusaders                |         2 |   0.5      |
-| Highlanders              |         2 |   0.5      |
 | Chiefs                   |         2 |   0        |
-| Biarritz Olympique       |         2 |   1        |
-| Connacht                 |         2 |   1        |
-| Counties Manukau         |         2 |   0        |
-| Bayonne                  |         2 |   0.5      |
-| Hawke's Bay              |         2 |   0.5      |
 | Canterbury               |         2 |   0        |
-| Waikato                  |         1 |   0        |
-| Bulls                    |         1 |   0        |
+| Hawke's Bay              |         2 |   0.5      |
+| Bayonne                  |         2 |   0.5      |
+| Highlanders              |         2 |   0.5      |
+| Crusaders                |         2 |   0.5      |
+| Counties Manukau         |         2 |   0        |
+| Connacht                 |         2 |   1        |
+| Biarritz Olympique       |         2 |   1        |
+| Brumbies                 |         1 |   1        |
+| Tasman                   |         1 |   1        |
 | Ulster                   |         1 |   1        |
+| Sharks                   |         1 |   0        |
+| Waikato                  |         1 |   0        |
 | Wasps                    |         1 |   0        |
 | Western Force            |         1 |   1        |
-| Tasman                   |         1 |   1        |
-| Brumbies                 |         1 |   1        |
+| Bulls                    |         1 |   0        |
 | Hurricanes               |         1 |   1        |
-| Sharks                   |         1 |   0        |
+| Sale Sharks              |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
 | Cheetahs                 |         1 |   0        |
 | Ospreys                  |         1 |   1        |
@@ -79,5 +80,5 @@ categories: player
 | Exeter Chiefs            |         1 |   0        |
 | Gloucester Rugby         |         1 |   1        |
 | Grenoble                 |         1 |   1        |
-| Lions                    |         1 |   0        |
 | Leinster                 |         1 |   0        |
+| Lions                    |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lloyd Fairbrother  
-date: 2022-12-12 15:28:39.136408  
+date: 2022-12-18 16:37:38.350826  
 categories: player  
 ---
 # Lloyd Fairbrother
 
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 14.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |           154 |   0.288961 |
+| Dragons       |           155 |   0.287097 |
 | Exeter Chiefs |             9 |   0.555556 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -41,11 +41,11 @@ categories: player
 | Newcastle Falcons    |         5 |   0.2      |
 | Northampton Saints   |         5 |   0.2      |
 | Southern Kings       |         4 |   0.625    |
+| Pau                  |         3 |   0.666667 |
 | Castres Olympique    |         3 |   0.333333 |
 | Cheetahs             |         3 |   0.333333 |
 | Bordeaux Begles      |         2 |   0.5      |
 | Saracens             |         2 |   0        |
-| Pau                  |         2 |   1        |
 | Stade Francais Paris |         2 |   1        |
 | Lions                |         2 |   0        |
 | Timisoara Saracens   |         1 |   1        |

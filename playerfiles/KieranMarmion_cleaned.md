@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kieran Marmion  
-date: 2022-12-12 14:52:54.640559  
+date: 2022-12-18 16:16:46.566610  
 categories: player  
 ---
 # Kieran Marmion
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           204 |   0.477941 |
+| Connacht |           205 |   0.480488 |
 | Ireland  |            29 |   0.775862 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,24 +34,24 @@ categories: player
 | Ospreys                  |        16 |   0.4375   |
 | Leinster                 |        16 |   0.3125   |
 | Glasgow Warriors         |        15 |   0.2      |
-| Edinburgh                |        14 |   0.5      |
 | Scarlets                 |        14 |   0.285714 |
+| Edinburgh                |        14 |   0.5      |
 | Cardiff Blues            |        13 |   0.423077 |
 | Dragons                  |        10 |   0.8      |
 | Benetton Treviso         |        10 |   0.85     |
 | Wales                    |         5 |   0.5      |
-| Stade Toulousain         |         4 |   0.5      |
+| Brive                    |         4 |   1        |
 | Italy                    |         4 |   1        |
-| Australia                |         3 |   0.666667 |
-| New Zealand              |         3 |   0.666667 |
-| Brive                    |         3 |   1        |
+| Stade Toulousain         |         4 |   0.5      |
 | South Africa             |         3 |   0.666667 |
+| New Zealand              |         3 |   0.666667 |
+| Australia                |         3 |   0.666667 |
+| Southern Kings           |         2 |   1        |
+| Stormers                 |         2 |   0.5      |
 | Saracens                 |         2 |   0        |
 | Oyonnax                  |         2 |   1        |
-| Southern Kings           |         2 |   1        |
-| Worcester Warriors       |         2 |   0.75     |
-| Stormers                 |         2 |   0.5      |
 | Wasps                    |         2 |   0.5      |
+| Worcester Warriors       |         2 |   0.75     |
 | Scotland                 |         2 |   0.5      |
 | Leicester Tigers         |         2 |   0        |
 | England                  |         2 |   1        |

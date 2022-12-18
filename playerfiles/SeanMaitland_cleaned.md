@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean Maitland  
-date: 2022-12-14 11:35:51.561860  
+date: 2022-12-18 16:22:37.830223  
 categories: player  
 ---
 # Sean Maitland
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 125.0
+## Current elo: 124.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Saracens         |           113 |   0.814159 |
+| Saracens         |           114 |   0.815789 |
 | Scotland         |            51 |   0.558824 |
 | Crusaders        |            44 |   0.670455 |
 | Glasgow Warriors |            39 |   0.589744 |
@@ -71,8 +71,8 @@ categories: player
 | Wellington               |         3 |   1        |
 | Sharks                   |         3 |   1        |
 | South Africa             |         3 |   0        |
+| Lyon                     |         3 |   1        |
 | Tasman                   |         3 |   0.333333 |
-| Georgia                  |         2 |   1        |
 | Castres Olympique        |         2 |   0        |
 | Waikato                  |         2 |   0.5      |
 | Samoa                    |         2 |   1        |
@@ -81,7 +81,7 @@ categories: player
 | Wales                    |         2 |   0        |
 | Benetton Treviso         |         2 |   1        |
 | New South Wales Waratahs |         2 |   1        |
-| Lyon                     |         2 |   1        |
+| Georgia                  |         2 |   1        |
 | Montpellier Herault      |         2 |   1        |
 | Hurricanes               |         2 |   0.25     |
 | Clermont Auvergne        |         2 |   0        |

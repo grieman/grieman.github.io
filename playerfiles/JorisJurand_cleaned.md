@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joris Jurand  
-date: 2022-12-14 11:30:04.062435  
+date: 2022-12-18 16:26:52.796597  
 categories: player  
 ---
 # Joris Jurand

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michele Lamaro  
-date: 2022-12-14 11:31:27.139357  
+date: 2022-12-18 16:32:32.815577  
 categories: player  
 ---
 # Michele Lamaro
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 108.0
+## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            33 |   0.469697 |
+| Benetton Treviso |            34 |   0.485294 |
 | Italy            |            19 |   0.315789 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -31,22 +31,22 @@ categories: player
 | Zebre                |         6 |   0.666667 |
 | Cardiff Blues        |         3 |   0.333333 |
 | Ulster               |         3 |   0.166667 |
-| France               |         2 |   0        |
+| Scotland             |         2 |   0        |
+| Southern Kings       |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
 | Ospreys              |         2 |   0        |
 | Leinster             |         2 |   0        |
 | Ireland              |         2 |   0        |
 | Glasgow Warriors     |         2 |   1        |
-| Scotland             |         2 |   0        |
+| France               |         2 |   0        |
 | England              |         2 |   0        |
-| Stade Francais Paris |         2 |   0.5      |
 | Edinburgh            |         2 |   0.5      |
 | Dragons              |         2 |   1        |
 | Connacht             |         2 |   0        |
-| Wales                |         2 |   0.5      |
 | Bulls                |         2 |   0        |
-| Southern Kings       |         2 |   1        |
-| Uruguay              |         1 |   1        |
+| Wales                |         2 |   0.5      |
 | Stormers             |         1 |   1        |
+| Uruguay              |         1 |   1        |
 | South Africa         |         1 |   0        |
 | Argentina            |         1 |   0        |
 | Scarlets             |         1 |   1        |
@@ -56,4 +56,5 @@ categories: player
 | Australia            |         1 |   1        |
 | Georgia              |         1 |   0        |
 | Cheetahs             |         1 |   0        |
+| Bayonne              |         1 |   1        |
 | New Zealand          |         1 |   0        |

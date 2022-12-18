@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uini Atonio  
-date: 2022-12-14 11:35:13.938596  
+date: 2022-12-18 16:15:03.569969  
 categories: player  
 ---
 # Uini Atonio
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 117.0
+## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           224 |   0.604911 |
+| La Rochelle |           225 |   0.606667 |
 | France      |            40 |   0.525    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -58,12 +58,12 @@ categories: player
 | Perpignan            |         3 |   1        |
 | Italy                |         3 |   1        |
 | Dax                  |         3 |   0.666667 |
+| Ulster               |         3 |   0.666667 |
 | Beziers              |         3 |   1        |
 | Australia            |         2 |   0.5      |
 | Auch                 |         2 |   1        |
 | Sale Sharks          |         2 |   1        |
 | Argentina            |         2 |   0.5      |
-| Ulster               |         2 |   0.5      |
 | Wasps                |         2 |   0.5      |
 | Bristol Rugby        |         2 |   1        |
 | Zebre                |         2 |   1        |

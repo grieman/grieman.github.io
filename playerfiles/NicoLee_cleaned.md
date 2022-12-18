@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nico Lee  
-date: 2022-12-12 14:54:18.523740  
+date: 2022-12-18 16:16:12.802748  
 categories: player  
 ---
 # Nico Lee
 
 ## Positions: C
 
-## Current elo: 108.0
+## Current elo: 105.0
 
-## Current Percentile: 85.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Brive               |            46 |   0.402174 |
+| Brive               |            47 |   0.393617 |
 | Cheetahs            |            44 |   0.420455 |
 | Free State Cheetahs |             8 |   0.75     |
 
@@ -30,10 +30,10 @@ categories: player
 | Zebre                    |         5 |   1        |
 | Southern Kings           |         5 |   1        |
 | Bordeaux Begles          |         5 |   0.4      |
+| Connacht                 |         5 |   0.2      |
 | Lyon                     |         5 |   0.4      |
 | Racing 92                |         4 |   0        |
 | Castres Olympique        |         4 |   0.5      |
-| Connacht                 |         4 |   0.25     |
 | Glasgow Warriors         |         3 |   0        |
 | Stade Francais Paris     |         3 |   0.666667 |
 | Perpignan                |         3 |   0.666667 |

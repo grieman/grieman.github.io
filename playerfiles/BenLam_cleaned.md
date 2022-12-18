@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Lam  
-date: 2022-12-14 11:14:35.908916  
+date: 2022-12-18 16:33:41.639600  
 categories: player  
 ---
 # Ben Lam
 
 ## Positions: W
 
-## Current elo: 122.0
+## Current elo: 118.0
 
-## Current Percentile: 94.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 | Bordeaux Begles     |            42 |   0.619048 |
 | Wellington          |            25 |   0.76     |
 | Auckland            |            20 |   0.75     |
+| Montpellier Herault |             8 |   0.625    |
 | Blues               |             7 |   0.142857 |
-| Montpellier Herault |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -35,30 +35,30 @@ categories: player
 | Chiefs                   |         6 |   0.666667 |
 | Highlanders              |         6 |   0.666667 |
 | Tasman                   |         6 |   0.416667 |
-| Canterbury               |         5 |   0.4      |
 | Stormers                 |         5 |   0.4      |
 | La Rochelle              |         5 |   0        |
-| Stade Francais Paris     |         5 |   0.8      |
 | Racing 92                |         5 |   0.6      |
-| Bulls                    |         4 |   0.75     |
-| Clermont Auvergne        |         4 |   0.875    |
-| Lyon                     |         4 |   0.75     |
-| Otago                    |         4 |   1        |
-| Northland                |         4 |   1        |
-| Manawatu                 |         4 |   1        |
+| Stade Francais Paris     |         5 |   0.8      |
+| Canterbury               |         5 |   0.4      |
 | Montpellier Herault      |         4 |   0.75     |
+| Lyon                     |         4 |   0.75     |
+| Clermont Auvergne        |         4 |   0.875    |
+| Manawatu                 |         4 |   1        |
 | Toulon                   |         4 |   0.5      |
-| Waikato                  |         3 |   1        |
+| Bulls                    |         4 |   0.75     |
+| Northland                |         4 |   1        |
+| Otago                    |         4 |   1        |
+| North Harbour            |         3 |   1        |
 | Brumbies                 |         3 |   0.666667 |
+| Waikato                  |         3 |   1        |
 | Taranaki                 |         3 |   0.666667 |
 | Jaguares                 |         3 |   0.666667 |
 | Sunwolves                |         3 |   1        |
 | Auckland                 |         3 |   0.333333 |
 | Bay of Plenty            |         3 |   1        |
-| North Harbour            |         3 |   1        |
 | Sharks                   |         3 |   1        |
-| Pau                      |         2 |   1        |
 | Southland                |         2 |   0.75     |
+| Pau                      |         2 |   1        |
 | Lions                    |         2 |   1        |
 | Stade Toulousain         |         2 |   0.5      |
 | Counties Manukau         |         2 |   1        |
@@ -70,6 +70,7 @@ categories: player
 | Wellington               |         1 |   1        |
 | Agen                     |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
+| Ospreys                  |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
 | London Irish             |         1 |   1        |

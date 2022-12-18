@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas Corato  
-date: 2022-12-14 11:20:53.458647  
+date: 2022-12-18 16:27:19.683289  
 categories: player  
 ---
 # Nicolas Corato
 
 ## Positions: P
 
-## Current elo: 82.0
+## Current elo: 85.0
 
-## Current Percentile: 7.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |            70 |   0.392857 |
+| Pau    |            71 |   0.401408 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,6 +42,7 @@ categories: player
 | Worcester Warriors   |         2 |   1        |
 | Ospreys              |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
-| Leicester Tigers     |         1 |   0        |
-| Cheetahs             |         1 |   0        |
 | London Irish         |         1 |   0        |
+| Dragons              |         1 |   1        |
+| Cheetahs             |         1 |   0        |
+| Leicester Tigers     |         1 |   0        |

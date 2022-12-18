@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Adrian Smith  
-date: 2022-12-14 11:13:07.668287  
+date: 2022-12-18 16:15:38.889390  
 categories: player  
 ---
 # Adrian Smith
 
 ## Positions: H
 
-## Current elo: 108.0
+## Current elo: 111.0
 
-## Current Percentile: 80.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Aurillac      |            61 |   0.57377  |
+| Aurillac      |            62 |   0.580645 |
 | North Harbour |            28 |   0.5      |
 | Highlanders   |             3 |   0.333333 |
 
@@ -31,16 +31,16 @@ categories: player
 | Provence Rugby     |         6 |   0.833333 |
 | Beziers            |         5 |   0.4      |
 | Nevers             |         5 |   0.4      |
-| Soyaux-Angouleme   |         4 |   0.75     |
+| Colomiers          |         4 |   0.75     |
 | Wellington         |         4 |   0.25     |
 | Vannes             |         4 |   0.75     |
-| Colomiers          |         4 |   0.75     |
+| Soyaux-Angouleme   |         4 |   0.75     |
+| Rouen              |         3 |   1        |
 | Southland          |         3 |   1        |
 | Carcassonne        |         3 |   0.666667 |
 | Waikato            |         3 |   0.333333 |
 | Bay of Plenty      |         3 |   0.333333 |
 | Tasman             |         2 |   0.25     |
-| Rouen              |         2 |   1        |
 | Oyonnax            |         2 |   1        |
 | Otago              |         2 |   0.5      |
 | Northland          |         2 |   0.75     |

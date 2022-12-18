@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Vargas  
-date: 2022-12-14 11:16:33.740491  
+date: 2022-12-18 16:22:50.952640  
 categories: player  
 ---
 # Adam Vargas

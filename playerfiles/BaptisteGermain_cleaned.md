@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Germain  
-date: 2022-12-12 15:38:10.883208  
+date: 2022-12-18 16:19:44.122204  
 categories: player  
 ---
 # Baptiste Germain
 
 ## Positions: SH, FH
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 43.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Stade Toulousain   |            29 |   0.465517 |
-| Biarritz Olympique |            12 |   0.625    |
+| Biarritz Olympique |            13 |   0.576923 |
 | Bordeaux Begles    |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,8 +37,8 @@ categories: player
 | Bordeaux Begles      |         2 |   0.5      |
 | Brive                |         2 |   1        |
 | Racing 92            |         2 |   0.5      |
-| Lyon                 |         2 |   0        |
 | Perpignan            |         2 |   0.5      |
+| Lyon                 |         2 |   0        |
 | Rouen                |         1 |   0        |
 | Provence Rugby       |         1 |   1        |
 | Oyonnax              |         1 |   1        |
@@ -50,5 +50,6 @@ categories: player
 | Colomiers            |         1 |   1        |
 | Carcassonne          |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
+| Beziers              |         1 |   0        |
 | Bayonne              |         1 |   0        |
 | Vannes               |         1 |   0        |

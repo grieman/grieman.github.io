@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Piutau  
-date: 2022-12-14 11:30:40.377463  
+date: 2022-12-18 16:35:17.509579  
 categories: player  
 ---
 # Charles Piutau

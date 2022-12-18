@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Clouté  
-date: 2022-12-14 11:24:01.479018  
+date: 2022-12-18 16:18:04.010199  
 categories: player  
 ---
 # Romain Clouté

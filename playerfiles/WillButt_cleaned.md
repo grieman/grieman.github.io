@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Butt  
-date: 2022-12-12 15:32:29.262931  
+date: 2022-12-18 16:18:33.930859  
 categories: player  
 ---
 # Will Butt
 
 ## Positions: W, C
 
-## Current elo: 104.0
+## Current elo: 100.0
 
-## Current Percentile: 83.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            17 |   0.323529 |
+| Bath Rugby |            18 |   0.305556 |
 | Coventry   |             5 |   0.6      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -39,4 +39,5 @@ categories: player
 | Jersey             |         1 |        1   |
 | Richmond           |         1 |        1   |
 | Sale Sharks        |         1 |        0.5 |
+| Toulon             |         1 |        0   |
 | Wasps              |         1 |        0   |

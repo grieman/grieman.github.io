@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Baptiste De Clercq  
-date: 2022-12-14 11:26:22.390077  
+date: 2022-12-18 16:34:55.002655  
 categories: player  
 ---
 # Jean Baptiste De Clercq

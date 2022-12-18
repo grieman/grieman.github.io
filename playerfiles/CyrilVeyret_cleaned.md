@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cyril Veyret  
-date: 2022-12-14 11:17:17.532034  
+date: 2022-12-18 16:30:48.871938  
 categories: player  
 ---
 # Cyril Veyret
 
 ## Positions: L
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            57 |   0.587719 |
+| US Bressane |            58 |   0.577586 |
 | Grenoble    |            23 |   0.630435 |
 | Tarbes      |            22 |   0.340909 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         7 |   0.428571 |
+| Dax                        |         6 |   0.333333 |
 | Colomiers                  |         6 |   0.5      |
-| Dax                        |         5 |   0.4      |
 | Montauban                  |         5 |   0.4      |
 | Albi                       |         5 |   0.4      |
 | Carcassonne                |         5 |   0.6      |

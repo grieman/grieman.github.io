@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Kvesic  
-date: 2022-12-14 11:24:25.675548  
+date: 2022-12-18 16:38:45.273118  
 categories: player  
 ---
 # Matt Kvesic
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 67.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Worcester Warriors |            91 |   0.263736 |
 | Exeter Chiefs      |            56 |   0.660714 |
 | England            |             4 |   1        |
-| Zebre              |             3 |   0        |
+| Zebre              |             4 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -43,7 +43,7 @@ categories: player
 | Newcastle Falcons    |        13 |   0.730769 |
 | Gloucester Rugby     |        12 |   0.291667 |
 | Worcester Warriors   |        11 |   0.681818 |
-| Bristol Rugby        |         8 |   0.375    |
+| Bristol Rugby        |         9 |   0.333333 |
 | La Rochelle          |         5 |   0.8      |
 | Perpignan            |         4 |   0.75     |
 | London Welsh         |         3 |   1        |

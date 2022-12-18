@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Gulizzi  
-date: 2022-12-14 11:18:49.974933  
+date: 2022-12-18 16:30:13.575860  
 categories: player  
 ---
 # Lucas Gulizzi

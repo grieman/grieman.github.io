@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gwenaël Duplenne  
-date: 2022-12-14 11:23:56.680888  
+date: 2022-12-18 16:35:28.343357  
 categories: player  
 ---
 # Gwenaël Duplenne

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tommy Raynaud  
-date: 2022-12-14 11:12:13.974729  
+date: 2022-12-18 16:16:52.990912  
 categories: player  
 ---
 # Tommy Raynaud
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 91.0
 
 ## Current Percentile: 30.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |           122 |   0.577869 |
+| Oyonnax |           123 |   0.581301 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |        10 |   0.7      |
+| Colomiers                  |         8 |   0.5      |
 | Carcassonne                |         8 |   0.875    |
 | Vannes                     |         7 |   0.571429 |
-| Colomiers                  |         7 |   0.428571 |
 | Provence Rugby             |         7 |   0.785714 |
 | Montauban                  |         7 |   0.785714 |
 | Nevers                     |         6 |   0.666667 |

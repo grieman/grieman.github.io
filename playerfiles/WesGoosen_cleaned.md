@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wes Goosen  
-date: 2022-12-14 11:19:12.576354  
+date: 2022-12-18 16:18:00.569793  
 categories: player  
 ---
 # Wes Goosen
 
 ## Positions: W, C
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 83.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------|--------------:|-----------:|
 | Hurricanes |            70 |   0.6      |
 | Wellington |            52 |   0.644231 |
-| Edinburgh  |             5 |   0.4      |
+| Edinburgh  |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -31,15 +31,15 @@ categories: player
 | Crusaders                |        12 |   0.25     |
 | Blues                    |         9 |   0.555556 |
 | Northland                |         6 |   1        |
-| Waikato                  |         5 |   0.4      |
 | North Harbour            |         5 |   0.6      |
-| Taranaki                 |         5 |   0.6      |
+| Waikato                  |         5 |   0.4      |
 | Highlanders              |         5 |   0.8      |
+| Taranaki                 |         5 |   0.6      |
 | Bay of Plenty            |         5 |   0.8      |
 | Manawatu                 |         4 |   0.75     |
-| Hawke's Bay              |         4 |   0.625    |
 | Brumbies                 |         4 |   0.5      |
 | Southland                |         4 |   1        |
+| Hawke's Bay              |         4 |   0.625    |
 | Otago                    |         4 |   0.5      |
 | Queensland Reds          |         3 |   1        |
 | Sharks                   |         3 |   1        |
@@ -47,19 +47,20 @@ categories: player
 | Melbourne Rebels         |         3 |   1        |
 | Auckland                 |         3 |   0.333333 |
 | Bulls                    |         3 |   0.666667 |
-| Sunwolves                |         2 |   1        |
+| Stormers                 |         2 |   0.5      |
+| Moana Pasifika           |         2 |   0.5      |
 | Western Force            |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
-| Jaguares                 |         2 |   0.5      |
 | Counties Manukau         |         2 |   1        |
-| Moana Pasifika           |         2 |   0.5      |
+| Jaguares                 |         2 |   0.5      |
+| Sunwolves                |         2 |   1        |
 | Canterbury               |         2 |   0.5      |
-| Stormers                 |         2 |   0.5      |
 | Lions                    |         1 |   0        |
 | Benetton Treviso         |         1 |   0        |
 | British and Irish Lions  |         1 |   0.5      |
-| Cardiff Blues            |         1 |   1        |
 | Saracens                 |         1 |   0        |
+| Cardiff Blues            |         1 |   1        |
+| Castres Olympique        |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Munster                  |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seydou Diakité  
-date: 2022-12-14 11:21:39.285593  
+date: 2022-12-18 16:39:27.462281  
 categories: player  
 ---
 # Seydou Diakité
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            11 |   0.363636 |
+| Soyaux-Angouleme |            12 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Colomiers          |         1 |          0 |
 | Grenoble           |         1 |          0 |
 | Mont-de-Marsan     |         1 |          0 |
+| Montauban          |         1 |          0 |
 | Nevers             |         1 |          0 |
 | Provence Rugby     |         1 |          0 |
 | Vannes             |         1 |          1 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andries Coetzee  
-date: 2022-12-14 11:18:43.117472  
+date: 2022-12-18 16:12:19.906550  
 categories: player  
 ---
 # Andries Coetzee
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Lions            |           106 |   0.556604 |
+| Lions            |           107 |   0.560748 |
 | Golden Lions     |            39 |   0.692308 |
 | South Africa     |            13 |   0.615385 |
 | Benetton Treviso |             9 |   0.222222 |
@@ -67,6 +67,7 @@ categories: player
 | Ireland                  |         1 |   0        |
 | Scarlets                 |         1 |   0        |
 | Dragons                  |         1 |   0.5      |
+| Stade Francais Paris     |         1 |   1        |
 | Connacht                 |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
 | Ulster                   |         1 |   0        |

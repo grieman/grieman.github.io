@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Craig Millar  
-date: 2022-11-22 11:35:38.826633  
+date: 2022-12-18 16:17:27.425273  
 categories: player  
 ---
 # Craig Millar
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 60.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Otago                |            43 |   0.534884 |
 | Sunwolves            |            18 |   0.166667 |
 | Highlanders          |            13 |   0.538462 |
-| Saitama Wild Knights |             9 |   1        |
+| Saitama Wild Knights |            10 |   1        |
 | Japan                |             7 |   0.142857 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -50,17 +50,18 @@ categories: player
 | Chiefs                            |         3 |   0        |
 | Yokohama Canon Eagles             |         2 |   1        |
 | Queensland Reds                   |         2 |   0.5      |
-| Bulls                             |         2 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
+| Bulls                             |         2 |   1        |
 | Western Force                     |         1 |   0        |
 | Waikato                           |         1 |   1        |
+| Toshiba Brave Lupus Tokyo         |         1 |   1        |
 | Taranaki                          |         1 |   1        |
 | Stormers                          |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   1        |
 | Scotland                          |         1 |   0        |
 | Green Rockets Tokatsu             |         1 |   1        |
-| Portugal                          |         1 |   1        |
 | France                            |         1 |   0        |
+| Coca-Cola Red Sparks              |         1 |   1        |
 | Counties Manukau                  |         1 |   0        |
 | New Zealand                       |         1 |   0        |
 | Mitsubishi Dynaboars              |         1 |   1        |
@@ -70,4 +71,4 @@ categories: player
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |
 | Ireland                           |         1 |   0        |
 | Hurricanes                        |         1 |   0        |
-| Coca-Cola Red Sparks              |         1 |   1        |
+| Portugal                          |         1 |   1        |

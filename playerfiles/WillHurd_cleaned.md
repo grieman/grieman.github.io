@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Hurd  
-date: 2022-12-14 11:15:57.684560  
+date: 2022-12-18 16:20:35.080649  
 categories: player  
 ---
 # Will Hurd

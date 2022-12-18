@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hypolite Cornu  
-date: 2022-12-14 11:19:56.876857  
+date: 2022-12-18 16:15:04.376555  
 categories: player  
 ---
 # Hypolite Cornu

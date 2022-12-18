@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elia Elia  
-date: 2022-12-14 11:17:21.380442  
+date: 2022-12-18 16:25:13.032935  
 categories: player  
 ---
 # Elia Elia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 84.0
+## Current elo: 86.0
 
-## Current Percentile: 11.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Harlequins  |            62 |   0.483871 |
 | US Bressane |             9 |   0.277778 |
-| Nevers      |             6 |   0.166667 |
+| Nevers      |             7 |   0.285714 |
 | Samoa       |             2 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -44,11 +44,12 @@ categories: player
 | Exeter Chiefs      |         3 |   0        |
 | Newcastle Falcons  |         3 |   0.666667 |
 | Nevers             |         2 |   0        |
-| La Rochelle        |         2 |   0        |
+| Agen               |         2 |   1        |
 | Aurillac           |         2 |   0.5      |
 | Grenoble           |         2 |   0        |
 | Clermont Auvergne  |         2 |   0        |
 | Beziers            |         2 |   1        |
+| La Rochelle        |         2 |   0        |
 | London Irish       |         1 |   0.5      |
 | Mont-de-Marsan     |         1 |   0        |
 | Montauban          |         1 |   0.5      |
@@ -58,4 +59,3 @@ categories: player
 | Canada             |         1 |   1        |
 | Benetton Treviso   |         1 |   1        |
 | Bayonne            |         1 |   0        |
-| Agen               |         1 |   1        |

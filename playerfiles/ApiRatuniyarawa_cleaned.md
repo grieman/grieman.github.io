@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Api Ratuniyarawa  
-date: 2022-12-12 15:26:13.841498  
+date: 2022-12-18 16:11:50.450273  
 categories: player  
 ---
 # Api Ratuniyarawa
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 76.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Northampton Saints |           123 |   0.447154 |
 | Agen               |            56 |   0.473214 |
 | Fiji               |            24 |   0.354167 |
-| London Irish       |             9 |   0.333333 |
+| London Irish       |            10 |   0.3      |
 | North Harbour      |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -79,6 +79,7 @@ categories: player
 | Vannes               |         1 |   0.5      |
 | Tonga                |         1 |   1        |
 | Manawatu             |         1 |   0        |
+| Stormers             |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
 | Scotland             |         1 |   0        |
 | Northampton Saints   |         1 |   0        |
@@ -88,6 +89,6 @@ categories: player
 | Mont-de-Marsan       |         1 |   1        |
 | Montauban            |         1 |   1        |
 | Canada               |         1 |   1        |
-| Otago                |         1 |   0        |
 | France               |         1 |   0        |
 | Ospreys              |         1 |   0        |
+| Otago                |         1 |   0        |

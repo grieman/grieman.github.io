@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Bodilly  
-date: 2022-12-14 11:35:46.985149  
+date: 2022-12-18 16:37:59.468979  
 categories: player  
 ---
 # Max Bodilly

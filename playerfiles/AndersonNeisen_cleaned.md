@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anderson Neisen  
-date: 2022-12-14 11:13:17.302328  
+date: 2022-12-18 16:37:20.356114  
 categories: player  
 ---
 # Anderson Neisen
 
-## Positions: FH, FB
+## Positions: FB, FH
 
-## Current elo: 81.0
+## Current elo: 85.0
 
-## Current Percentile: 7.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            42 |   0.392857 |
+| Aurillac |            43 |   0.406977 |
 | Brive    |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,6 +32,7 @@ categories: player
 | Biarritz Olympique         |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0        |
 | Perpignan                  |         3 |   0.166667 |
+| Rouen                      |         3 |   0.666667 |
 | Soyaux-Angouleme           |         2 |   1        |
 | Carcassonne                |         2 |   0        |
 | Colomiers                  |         2 |   1        |
@@ -40,7 +41,6 @@ categories: player
 | Montauban                  |         2 |   0.5      |
 | Nevers                     |         2 |   0        |
 | Provence Rugby             |         2 |   1        |
-| Rouen                      |         2 |   0.5      |
 | Toulon                     |         1 |   0        |
 | Agen                       |         1 |   0        |
 | Bayonne                    |         1 |   0        |

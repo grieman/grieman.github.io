@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Luc du Preez  
-date: 2022-12-14 11:24:02.242892  
+date: 2022-12-18 16:27:55.756648  
 categories: player  
 ---
 # Jean-Luc du Preez
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 132.0
+## Current elo: 130.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sale Sharks  |            73 |   0.664384 |
+| Sale Sharks  |            74 |   0.655405 |
 | Sharks       |            45 |   0.522222 |
 | South Africa |            13 |   0.615385 |
 | Natal Sharks |            11 |   0.454545 |
@@ -39,10 +39,10 @@ categories: player
 | London Irish             |         6 |   0.916667 |
 | Leicester Tigers         |         6 |   0.833333 |
 | Exeter Chiefs            |         6 |   0.333333 |
-| Wasps                    |         5 |   1        |
 | Jaguares                 |         5 |   0.6      |
-| Hurricanes               |         4 |   0.25     |
+| Wasps                    |         5 |   1        |
 | Southern Kings           |         4 |   0.75     |
+| Hurricanes               |         4 |   0.25     |
 | Stormers                 |         3 |   1        |
 | Saracens                 |         3 |   0.333333 |
 | Pumas                    |         3 |   0.666667 |
@@ -69,6 +69,7 @@ categories: player
 | Golden Lions             |         2 |   0        |
 | Free State Cheetahs      |         1 |   0        |
 | Melbourne Rebels         |         1 |   0        |
+| Stade Toulousain         |         1 |   0        |
 | Sunwolves                |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Wales                    |         1 |   0        |

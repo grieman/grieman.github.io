@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Laranjeira  
-date: 2022-12-14 11:32:11.406569  
+date: 2022-12-18 16:23:24.876925  
 categories: player  
 ---
 # Thomas Laranjeira
 
 ## Positions: FB, FH
 
-## Current elo: 119.0
+## Current elo: 118.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Brive  |           190 |   0.486842 |
+| Brive  |           191 |   0.484293 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,10 +39,10 @@ categories: player
 | Oyonnax              |         6 |   0.833333 |
 | Castres Olympique    |         5 |   0.6      |
 | Biarritz Olympique   |         5 |   0.5      |
+| Connacht             |         4 |   0.25     |
 | Newcastle Falcons    |         4 |   0.5      |
 | Grenoble             |         4 |   0.625    |
 | Bayonne              |         4 |   0.375    |
-| Connacht             |         3 |   0.333333 |
 | Aurillac             |         3 |   0.666667 |
 | RC Enisei            |         3 |   0.666667 |
 | Carcassonne          |         3 |   0.333333 |

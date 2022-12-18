@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh MacLeod  
-date: 2022-12-14 11:34:36.045430  
+date: 2022-12-18 16:26:32.672919  
 categories: player  
 ---
 # Josh MacLeod
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 24.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            93 |    0.55914 |
+| Scarlets |            94 |    0.56383 |
 | Wales    |             2 |    0       |
 
 | Opponent         |   Matches |   Win Rate |
@@ -38,8 +38,8 @@ categories: player
 | Toulon           |         5 |   0.2      |
 | Leinster         |         5 |   0.5      |
 | Munster          |         5 |   0.2      |
+| Cheetahs         |         4 |   0.75     |
 | Connacht         |         4 |   0.75     |
-| Cheetahs         |         3 |   0.666667 |
 | Southern Kings   |         3 |   1        |
 | Bath Rugby       |         3 |   0.666667 |
 | Saracens         |         2 |   0        |

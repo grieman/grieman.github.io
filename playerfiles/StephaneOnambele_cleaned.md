@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Stephane Onambele  
-date: 2022-12-14 11:33:34.738882  
+date: 2022-12-18 16:29:05.634099  
 categories: player  
 ---
 # Stephane Onambele
 
 ## Positions: FL
 
-## Current elo: 66.0
+## Current elo: 64.0
 
 ## Current Percentile: 1.0
 
@@ -23,16 +23,16 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Colomiers         |            29 |   0.396552 |
 | Toulon            |            25 |   0.52     |
-| Carcassonne       |            12 |   0.5      |
+| Carcassonne       |            13 |   0.461538 |
 | Castres Olympique |             4 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Mont-de-Marsan       |         4 |   0.5      |
 | Bayonne              |         4 |   0.75     |
 | Narbonne             |         4 |   0.625    |
 | Montpellier Herault  |         4 |   0.25     |
 | Grenoble             |         4 |   0.5      |
-| Mont-de-Marsan       |         3 |   0.666667 |
 | Beziers              |         3 |   0.333333 |
 | Stade Francais Paris |         3 |   0.333333 |
 | Racing 92            |         3 |   0.333333 |

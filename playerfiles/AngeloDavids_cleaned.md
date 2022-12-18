@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Angelo Davids  
-date: 2022-12-14 11:35:08.237500  
+date: 2022-12-18 16:27:16.062094  
 categories: player  
 ---
 # Angelo Davids
 
 ## Positions: W
 
-## Current elo: 108.0
+## Current elo: 112.0
 
 ## Current Percentile: 86.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Western Province |            14 |   0.428571 |
-| Stormers         |             7 |   0.785714 |
+| Stormers         |             8 |   0.8125   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Connacht            |         1 |   1        |
 | Edinburgh           |         1 |   1        |
 | Lions               |         1 |   1        |
+| London Irish        |         1 |   1        |
 | Natal Sharks        |         1 |   1        |
 | Ospreys             |         1 |   0.5      |
 | Scarlets            |         1 |   1        |

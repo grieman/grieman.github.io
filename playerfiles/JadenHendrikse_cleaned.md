@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jaden Hendrikse  
-date: 2022-12-14 11:21:31.738792  
+date: 2022-12-18 16:16:58.652410  
 categories: player  
 ---
 # Jaden Hendrikse
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 79.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,20 +23,20 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sharks       |            17 |   0.735294 |
+| Sharks       |            18 |   0.75     |
 | South Africa |            12 |   0.666667 |
 | Natal Sharks |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Argentina           |         4 |       1    |
-| Bulls               |         2 |       0.5  |
 | Wales               |         2 |       0.5  |
+| Bulls               |         2 |       0.5  |
 | Stormers            |         2 |       0.25 |
 | New Zealand         |         2 |       0.5  |
+| Lions               |         2 |       1    |
 | Griquas             |         2 |       1    |
 | Australia           |         2 |       0.5  |
-| Lions               |         2 |       1    |
 | Leinster            |         1 |       1    |
 | Western Province    |         1 |       0    |
 | Ulster              |         1 |       0    |
@@ -50,5 +50,6 @@ categories: player
 | Edinburgh           |         1 |       0    |
 | Dragons             |         1 |       1    |
 | Connacht            |         1 |       1    |
+| Bordeaux Begles     |         1 |       1    |
 | Benetton Treviso    |         1 |       1    |
 | Zebre               |         1 |       1    |

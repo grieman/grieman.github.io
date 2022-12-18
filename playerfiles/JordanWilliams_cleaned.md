@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jordan Williams  
-date: 2022-12-14 11:14:42.558577  
+date: 2022-12-18 16:11:44.421242  
 categories: player  
 ---
 # Jordan Williams
 
 ## Positions: FB, W
 
-## Current elo: 114.0
+## Current elo: 110.0
 
-## Current Percentile: 87.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |            58 |   0.258621 |
+| Dragons       |            59 |   0.254237 |
 | Scarlets      |            48 |   0.489583 |
 | Bristol Rugby |            27 |   0.592593 |
 
@@ -52,22 +52,23 @@ categories: player
 | Racing 92           |         2 |   0.75     |
 | Nottingham          |         2 |   1        |
 | Exeter Chiefs       |         2 |   0        |
+| Hartpury College    |         2 |   1        |
 | Bedford             |         2 |   1        |
 | Harlequins          |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   1        |
 | Doncaster           |         2 |   1        |
 | Jersey              |         2 |   0.5      |
-| Hartpury College    |         2 |   1        |
 | Newcastle Falcons   |         1 |   0        |
-| Stormers            |         1 |   0        |
 | Yorkshire Carnegie  |         1 |   1        |
 | Wasps               |         1 |   0        |
 | Bristol Rugby       |         1 |   0        |
 | Toulon              |         1 |   0        |
+| Stormers            |         1 |   0        |
 | Bulls               |         1 |   0        |
 | Sale Sharks         |         1 |   0        |
 | Richmond            |         1 |   1        |
 | Gloucester Rugby    |         1 |   1        |
+| Pau                 |         1 |   0        |
 | Cheetahs            |         1 |   0        |
 | London Irish        |         1 |   0        |
 | RC Enisei           |         1 |   1        |

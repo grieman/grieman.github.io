@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Faumuina  
-date: 2022-12-14 11:18:47.836107  
+date: 2022-12-18 16:26:22.521847  
 categories: player  
 ---
 # Charlie Faumuina

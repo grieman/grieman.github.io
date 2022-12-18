@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lucas Martin  
-date: 2022-12-14 11:23:25.646142  
+date: 2022-12-18 16:38:46.798877  
 categories: player  
 ---
 # Lucas Martin
 
 ## Positions: H, FL
 
-## Current elo: 97.0
+## Current elo: 98.0
 
 ## Current Percentile: 58.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            15 |        0.5 |
+| Provence Rugby |            16 |    0.46875 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Oyonnax            |         1 |        0.5 |
 | Rouen              |         1 |        1   |
 | Soyaux-Angouleme   |         1 |        1   |
+| Vannes             |         1 |        0   |

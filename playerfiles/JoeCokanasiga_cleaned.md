@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Cokanasiga  
-date: 2022-12-14 11:17:22.321123  
+date: 2022-12-18 16:19:42.668462  
 categories: player  
 ---
 # Joe Cokanasiga
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 74.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,25 +23,25 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Bath Rugby   |            48 |   0.385417 |
+| Bath Rugby   |            49 |   0.377551 |
 | London Irish |            30 |   0.433333 |
 | England      |            14 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Gloucester Rugby         |         7 |   0.214286 |
 | Exeter Chiefs            |         7 |   0        |
+| Gloucester Rugby         |         7 |   0.214286 |
 | Wasps                    |         7 |   0.357143 |
 | Sale Sharks              |         6 |   0.166667 |
 | Harlequins               |         5 |   0.4      |
-| Newcastle Falcons        |         5 |   0.6      |
 | Northampton Saints       |         5 |   0.6      |
+| Newcastle Falcons        |         5 |   0.6      |
 | Worcester Warriors       |         5 |   0.6      |
 | Bristol Rugby            |         4 |   0.5      |
 | Saracens                 |         4 |   0.125    |
 | Wales                    |         3 |   0.333333 |
-| Bath Rugby               |         3 |   0        |
 | Leicester Tigers         |         3 |   0.666667 |
+| Bath Rugby               |         3 |   0        |
 | London Irish             |         3 |   0.333333 |
 | United States of America |         2 |   1        |
 | Stade Francais Paris     |         2 |   0.5      |
@@ -50,6 +50,7 @@ categories: player
 | Australia                |         2 |   0.5      |
 | Rotherham Titans         |         2 |   1        |
 | Krasny Yar               |         2 |   1        |
+| Toulon                   |         1 |   0        |
 | Argentina                |         1 |   0        |
 | London Scottish          |         1 |   1        |
 | Leinster                 |         1 |   0        |

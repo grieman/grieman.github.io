@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Byron McGuigan  
-date: 2022-12-14 11:27:29.359332  
+date: 2022-12-18 16:19:16.757388  
 categories: player  
 ---
 # Byron McGuigan
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 124.0
+## Current elo: 122.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Sale Sharks      |           107 |   0.556075 |
+| Sale Sharks      |           108 |   0.550926 |
 | Exeter Chiefs    |            21 |   0.714286 |
 | Glasgow Warriors |            20 |   0.55     |
 | Bay of Plenty    |            10 |   0.2      |
@@ -36,8 +36,8 @@ categories: player
 | Gloucester Rugby         |        11 |   0.545455 |
 | Saracens                 |        11 |   0.363636 |
 | Wasps                    |        10 |   0.7      |
-| Northampton Saints       |         9 |   0.666667 |
 | Bath Rugby               |         9 |   0.666667 |
+| Northampton Saints       |         9 |   0.666667 |
 | Newcastle Falcons        |         9 |   0.555556 |
 | Worcester Warriors       |         8 |   0.9375   |
 | Bristol Rugby            |         8 |   0.625    |
@@ -47,19 +47,20 @@ categories: player
 | Connacht                 |         4 |   1        |
 | Zebre                    |         3 |   1        |
 | Dragons                  |         3 |   0.333333 |
-| Ulster                   |         2 |   0.5      |
 | Leinster                 |         2 |   0.5      |
+| Bordeaux Begles          |         2 |   0        |
 | Wales                    |         2 |   0        |
 | Munster                  |         2 |   0        |
-| Bordeaux Begles          |         2 |   0        |
 | Toulon                   |         2 |   0        |
-| Otago                    |         1 |   1        |
+| Ulster                   |         2 |   0.5      |
 | United States of America |         1 |   0        |
-| Tasman                   |         1 |   0        |
-| Taranaki                 |         1 |   0        |
+| Stade Toulousain         |         1 |   0        |
+| Otago                    |         1 |   1        |
 | Southland                |         1 |   0        |
-| Waikato                  |         1 |   0        |
 | Scarlets                 |         1 |   0        |
+| Taranaki                 |         1 |   0        |
+| Waikato                  |         1 |   0        |
+| Tasman                   |         1 |   0        |
 | Sale Sharks              |         1 |   1        |
 | Perpignan                |         1 |   1        |
 | Argentina                |         1 |   1        |

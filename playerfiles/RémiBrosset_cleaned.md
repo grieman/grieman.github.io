@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rémi Brosset  
-date: 2022-12-14 11:17:23.459978  
+date: 2022-12-18 16:34:33.808420  
 categories: player  
 ---
 # Rémi Brosset

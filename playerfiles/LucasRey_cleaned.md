@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Rey  
-date: 2022-12-14 11:16:05.730855  
+date: 2022-12-18 16:17:59.852607  
 categories: player  
 ---
 # Lucas Rey

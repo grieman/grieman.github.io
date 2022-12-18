@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jandré Marais  
-date: 2022-12-12 15:20:42.635746  
+date: 2022-12-18 16:34:03.854484  
 categories: player  
 ---
 # Jandré Marais
 
 ## Positions: L
 
-## Current elo: 123.0
+## Current elo: 120.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           186 |   0.583333 |
+| Bordeaux Begles |           187 |   0.580214 |
 | Sharks          |            13 |   0.615385 |
 | Natal Sharks    |             8 |   0.75     |
 
@@ -53,15 +53,16 @@ categories: player
 | Blues                    |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.5      |
 | Lions                    |         1 |   0        |
-| RC Enisei                |         1 |   1        |
+| Brumbies                 |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Bristol Rugby            |         1 |   0        |
 | Southern Kings           |         1 |   1        |
+| Sharks                   |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Sale Sharks              |         1 |   1        |
-| Brumbies                 |         1 |   1        |
-| Queensland Reds          |         1 |   1        |
+| RC Enisei                |         1 |   1        |
 | Bath Rugby               |         1 |   0        |
+| Queensland Reds          |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Dragons                  |         1 |   0        |
 | Ospreys                  |         1 |   1        |

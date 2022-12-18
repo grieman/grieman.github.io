@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Beckett  
-date: 2022-12-14 11:28:06.834007  
+date: 2022-12-18 16:40:20.559370  
 categories: player  
 ---
 # Charlie Beckett

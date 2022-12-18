@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Johnny Matthews  
-date: 2022-12-12 15:25:19.128009  
+date: 2022-12-18 16:19:06.412329  
 categories: player  
 ---
 # Johnny Matthews
 
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: 34.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            31 |   0.483871 |
+| Glasgow Warriors |            32 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -36,5 +36,6 @@ categories: player
 | Connacht         |         1 |   1        |
 | Lions            |         1 |   1        |
 | Ospreys          |         1 |   1        |
+| Perpignan        |         1 |   1        |
 | Scarlets         |         1 |   0        |
 | Stormers         |         1 |   0        |

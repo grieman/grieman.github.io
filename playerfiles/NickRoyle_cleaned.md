@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Royle  
-date: 2022-12-14 11:35:34.537811  
+date: 2022-12-18 16:22:52.023949  
 categories: player  
 ---
 # Nick Royle

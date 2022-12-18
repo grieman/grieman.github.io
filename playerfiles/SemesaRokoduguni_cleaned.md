@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Semesa Rokoduguni  
-date: 2022-12-12 15:03:48.983144  
+date: 2022-12-18 16:33:04.479534  
 categories: player  
 ---
 # Semesa Rokoduguni
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 123.0
+## Current elo: 124.0
 
 ## Current Percentile: 97.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Bath Rugby |           188 |   0.526596 |
-| Montauban  |            12 |   0.375    |
+| Montauban  |            13 |   0.423077 |
 | England    |             5 |   0.8      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -45,22 +45,23 @@ categories: player
 | Stade Toulousain     |         3 |   0        |
 | London Welsh         |         3 |   1        |
 | Bordeaux Begles      |         2 |   1        |
-| Toulon               |         2 |   0        |
 | Brive                |         2 |   1        |
+| Toulon               |         2 |   0        |
 | Pau                  |         2 |   1        |
-| Ospreys              |         1 |   0        |
-| Australia            |         1 |   1        |
-| Vannes               |         1 |   0.5      |
-| Ulster               |         1 |   0        |
-| Benetton Treviso     |         1 |   1        |
-| Stade Francais Paris |         1 |   0        |
-| Scarlets             |         1 |   1        |
-| Beziers              |         1 |   0        |
-| Samoa                |         1 |   1        |
-| Biarritz Olympique   |         1 |   0        |
-| Rouen                |         1 |   0        |
-| Provence Rugby       |         1 |   0        |
 | Fiji                 |         1 |   1        |
+| Beziers              |         1 |   0        |
+| Rouen                |         1 |   0        |
+| Biarritz Olympique   |         1 |   0        |
+| Samoa                |         1 |   1        |
+| Soyaux-Angouleme     |         1 |   1        |
+| Scarlets             |         1 |   1        |
+| Stade Francais Paris |         1 |   0        |
+| Benetton Treviso     |         1 |   1        |
+| Ulster               |         1 |   0        |
+| Vannes               |         1 |   0.5      |
+| Australia            |         1 |   1        |
+| Provence Rugby       |         1 |   0        |
+| Ospreys              |         1 |   0        |
 | Glasgow Warriors     |         1 |   0        |
 | New Zealand          |         1 |   0        |
 | Nevers               |         1 |   1        |

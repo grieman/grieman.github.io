@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tjuee Uanivi  
-date: 2022-12-14 11:13:48.559213  
+date: 2022-12-18 16:18:42.728803  
 categories: player  
 ---
 # Tjuee Uanivi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 33.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Montauban        |            29 |   0.362069 |
+| Montauban        |            30 |   0.383333 |
 | London Scottish  |            27 |   0.351852 |
 | Namibia          |            19 |   0.421053 |
 | Massy            |            10 |   0.55     |
@@ -33,24 +33,24 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Oyonnax             |         5 |   0.4      |
+| Nottingham          |         3 |   0.333333 |
+| Aurillac            |         3 |   0.333333 |
+| Provence Rugby      |         3 |   0        |
+| Bedford             |         3 |   0.5      |
 | Beziers             |         3 |   0.333333 |
+| Richmond            |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0        |
 | Grenoble            |         3 |   0.166667 |
 | Carcassonne         |         3 |   0.333333 |
-| Nottingham          |         3 |   0.333333 |
-| Bedford             |         3 |   0.5      |
-| Provence Rugby      |         3 |   0        |
-| Aurillac            |         3 |   0.333333 |
-| Richmond            |         3 |   0.333333 |
-| New Zealand         |         2 |   0        |
-| Nevers              |         2 |   1        |
-| Coventry            |         2 |   0.5      |
-| Mont-de-Marsan      |         2 |   1        |
-| Russia              |         2 |   1        |
 | Jersey              |         2 |   0.5      |
 | Tarbes              |         2 |   0.5      |
-| Portugal            |         2 |   0.5      |
+| Mont-de-Marsan      |         2 |   1        |
 | London Irish        |         2 |   0        |
+| Russia              |         2 |   1        |
+| Coventry            |         2 |   0.5      |
+| New Zealand         |         2 |   0        |
+| Nevers              |         2 |   1        |
+| Doncaster           |         2 |   0        |
 | Cornish Pirates     |         2 |   0.5      |
 | Ulster              |         2 |   0        |
 | Aubenas             |         2 |   1        |
@@ -58,12 +58,13 @@ categories: player
 | Zebre               |         2 |   0        |
 | Blagnac             |         2 |   0.5      |
 | Yorkshire Carnegie  |         2 |   1        |
-| Doncaster           |         2 |   0        |
+| Portugal            |         2 |   0.5      |
 | Chambery            |         2 |   0.25     |
+| Soyaux-Angouleme    |         1 |   1        |
 | South Africa        |         1 |   0        |
 | US Bressane         |         1 |   0.5      |
-| Rouen               |         1 |   1        |
 | Vannes              |         1 |   0        |
+| Rouen               |         1 |   1        |
 | Rotherham Titans    |         1 |   1        |
 | Spain               |         1 |   0        |
 | Uganda              |         1 |   1        |

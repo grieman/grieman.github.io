@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charlie Shiel  
-date: 2022-12-14 11:34:43.760805  
+date: 2022-12-18 16:22:54.965735  
 categories: player  
 ---
 # Charlie Shiel

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Léo Darrelatour  
-date: 2022-12-14 11:31:17.227516  
+date: 2022-12-18 16:12:53.854178  
 categories: player  
 ---
 # Léo Darrelatour

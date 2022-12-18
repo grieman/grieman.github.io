@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Christopher Vaotoa  
-date: 2022-11-16 11:26:07.440327  
+date: 2022-12-18 16:17:32.846385  
 categories: player  
 ---
 # Christopher Vaotoa
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 68.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Montauban       |            46 |   0.478261 |
-| Bordeaux Begles |             2 |   0.25     |
+| Bordeaux Begles |             3 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -45,4 +45,5 @@ categories: player
 | Mont-de-Marsan             |         1 |   1        |
 | Bayonne                    |         1 |   0        |
 | Pau                        |         1 |   0        |
+| Sharks                     |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |

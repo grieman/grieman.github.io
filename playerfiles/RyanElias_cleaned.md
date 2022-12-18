@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryan Elias  
-date: 2022-12-14 11:34:09.408153  
+date: 2022-12-18 16:33:52.196736  
 categories: player  
 ---
 # Ryan Elias
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |           139 |    0.57554 |
-| Wales    |            31 |    0.5     |
+| Scarlets |           140 |   0.578571 |
+| Wales    |            31 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -42,8 +42,8 @@ categories: player
 | Zebre              |         6 |   1        |
 | South Africa       |         5 |   0.4      |
 | Argentina          |         4 |   0.875    |
+| Cheetahs           |         4 |   0.75     |
 | Leicester Tigers   |         3 |   0.333333 |
-| Cheetahs           |         3 |   0.666667 |
 | France             |         3 |   0        |
 | Southern Kings     |         3 |   1        |
 | Bayonne            |         3 |   1        |

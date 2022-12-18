@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke McGrath  
-date: 2022-12-14 11:18:02.097389  
+date: 2022-12-18 16:19:05.160234  
 categories: player  
 ---
 # Luke McGrath
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 114.0
+## Current elo: 115.0
 
 ## Current Percentile: 92.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           172 |   0.784884 |
+| Leinster |           173 |   0.786127 |
 | Ireland  |            19 |   0.842105 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -51,20 +51,21 @@ categories: player
 | New Zealand              |         2 |   0.5      |
 | Argentina                |         2 |   1        |
 | Lyon                     |         2 |   1        |
-| Italy                    |         2 |   1        |
-| Bulls                    |         2 |   0.5      |
 | Exeter Chiefs            |         2 |   1        |
-| England                  |         2 |   0.5      |
+| Bulls                    |         2 |   0.5      |
 | Japan                    |         2 |   0.5      |
-| Southern Kings           |         1 |   1        |
-| Canada                   |         1 |   1        |
-| United States of America |         1 |   1        |
-| Cheetahs                 |         1 |   1        |
-| Clermont Auvergne        |         1 |   0        |
-| Lions                    |         1 |   1        |
-| Sharks                   |         1 |   1        |
-| Samoa                    |         1 |   1        |
-| Russia                   |         1 |   1        |
+| England                  |         2 |   0.5      |
+| Italy                    |         2 |   1        |
 | Fiji                     |         1 |   1        |
+| Russia                   |         1 |   1        |
+| Samoa                    |         1 |   1        |
 | France                   |         1 |   1        |
+| Gloucester Rugby         |         1 |   1        |
 | Scotland                 |         1 |   1        |
+| Sharks                   |         1 |   1        |
+| Southern Kings           |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
+| Cheetahs                 |         1 |   1        |
+| United States of America |         1 |   1        |
+| Canada                   |         1 |   1        |
+| Lions                    |         1 |   1        |

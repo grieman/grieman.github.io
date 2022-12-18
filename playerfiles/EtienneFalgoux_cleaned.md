@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Etienne Falgoux  
-date: 2022-12-14 11:36:22.191203  
+date: 2022-12-18 16:11:38.278972  
 categories: player  
 ---
 # Etienne Falgoux
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 108.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           143 |   0.629371 |
+| Clermont Auvergne |           144 |   0.625    |
 | France            |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -41,19 +41,20 @@ categories: player
 | Perpignan            |         5 |   0.8      |
 | Northampton Saints   |         5 |   0.8      |
 | Agen                 |         5 |   0.8      |
-| Brive                |         4 |   0.75     |
 | Ulster               |         4 |   0.5      |
-| Harlequins           |         3 |   1        |
+| Brive                |         4 |   0.75     |
 | Saracens             |         3 |   0.666667 |
-| Bayonne              |         2 |   0.5      |
-| Ospreys              |         2 |   1        |
+| Harlequins           |         3 |   1        |
 | Oyonnax              |         2 |   0.25     |
-| Grenoble             |         2 |   1        |
 | Biarritz Olympique   |         2 |   1        |
+| Grenoble             |         2 |   1        |
+| Ospreys              |         2 |   1        |
+| Bayonne              |         2 |   0.5      |
 | Leinster             |         1 |   1        |
-| Italy                |         1 |   1        |
-| Ireland              |         1 |   0        |
 | Exeter Chiefs        |         1 |   1        |
+| Ireland              |         1 |   0        |
 | Scotland             |         1 |   1        |
 | Dragons              |         1 |   1        |
+| Italy                |         1 |   1        |
 | Stormers             |         1 |   1        |
+| Leicester Tigers     |         1 |   0        |

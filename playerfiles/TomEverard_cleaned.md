@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Everard  
-date: 2022-12-14 11:18:45.205960  
+date: 2022-12-18 16:34:49.922754  
 categories: player  
 ---
 # Tom Everard

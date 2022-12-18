@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Maxime Javaux  
-date: 2022-12-14 11:34:54.296492  
+date: 2022-12-18 16:28:38.117304  
 categories: player  
 ---
 # Maxime Javaux
 
 ## Positions: FH
 
-## Current elo: 84.0
+## Current elo: 83.0
 
 ## Current Percentile: 6.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Colomiers                  |            17 |   0.470588 |
+| Colomiers                  |            18 |   0.444444 |
 | Roval Drome XV             |            16 |   0.1875   |
 | Valence Romans Drome Rugby |            14 |   0.428571 |
 | Racing 92                  |             5 |   0.6      |
@@ -41,14 +41,14 @@ categories: player
 | Soyaux-Angouleme    |         2 |   0.75     |
 | Biarritz Olympique  |         2 |   0.5      |
 | Perpignan           |         2 |   0        |
+| Oyonnax             |         2 |   0        |
 | Nevers              |         2 |   0        |
 | Carcassonne         |         2 |   0.5      |
 | La Rochelle         |         2 |   1        |
 | Grenoble            |         2 |   0        |
-| Brive               |         1 |   0        |
 | Narbonne            |         1 |   1        |
+| Brive               |         1 |   0        |
 | Massy               |         1 |   1        |
-| Oyonnax             |         1 |   0        |
 | Lyon                |         1 |   1        |
 | Leinster            |         1 |   0        |
 | Toulon              |         1 |   1        |

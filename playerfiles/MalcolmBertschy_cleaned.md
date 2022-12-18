@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Malcolm Bertschy  
-date: 2022-12-14 11:30:04.803957  
+date: 2022-12-18 16:19:27.014042  
 categories: player  
 ---
 # Malcolm Bertschy

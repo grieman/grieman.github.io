@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Friedle Olivier  
-date: 2022-12-14 11:21:17.126111  
+date: 2022-12-18 16:31:47.557017  
 categories: player  
 ---
 # Friedle Olivier
 
-## Positions: N8, L
+## Positions: N8, FL
 
-## Current elo: 101.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Valke    |            24 |   0.583333 |
-| Cheetahs |             1 |   1        |
+| Cheetahs |             2 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -34,3 +34,4 @@ categories: player
 | Leopards               |         1 |   0        |
 | Namibia Welwitchias    |         1 |   1        |
 | Pau                    |         1 |   1        |
+| Scarlets               |         1 |   0        |

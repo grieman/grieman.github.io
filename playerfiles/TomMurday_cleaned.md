@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom Murday  
-date: 2022-12-09 13:06:23.350843  
+date: 2022-12-18 16:36:54.606187  
 categories: player  
 ---
 # Tom Murday
 
 ## Positions: L
 
-## Current elo: 145.0
+## Current elo: 146.0
 
 ## Current Percentile: 99.0
 
@@ -22,8 +22,8 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Agen                             |            85 |   0.435294 |
+| Oyonnax                          |            22 |   0.840909 |
 | Northland                        |            21 |   0.357143 |
-| Oyonnax                          |            21 |   0.833333 |
 | Queensland Reds                  |             4 |   0.25     |
 | Toyota Industries Shuttles Aichi |             3 |   1        |
 
@@ -35,18 +35,18 @@ categories: player
 | Carcassonne              |         5 |   1        |
 | Bordeaux Begles          |         5 |   0.2      |
 | Montpellier Herault      |         5 |   0.4      |
+| Colomiers                |         4 |   0.375    |
 | Lyon                     |         4 |   0.25     |
 | Stade Francais Paris     |         4 |   0.75     |
 | La Rochelle              |         4 |   0.25     |
 | Oyonnax                  |         4 |   0.25     |
 | Pau                      |         4 |   0.25     |
 | Grenoble                 |         4 |   0.625    |
-| Toulon                   |         3 |   0.666667 |
 | Beziers                  |         3 |   0.666667 |
 | Montauban                |         3 |   1        |
 | Hawke's Bay              |         3 |   0.333333 |
 | Perpignan                |         3 |   0.666667 |
-| Colomiers                |         3 |   0.166667 |
+| Toulon                   |         3 |   0.666667 |
 | Racing 92                |         3 |   0.666667 |
 | Aurillac                 |         3 |   0.333333 |
 | Brive                    |         3 |   1        |

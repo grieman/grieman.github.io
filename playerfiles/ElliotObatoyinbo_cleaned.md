@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Elliot Obatoyinbo  
-date: 2022-12-12 15:05:15.536085  
+date: 2022-12-18 16:24:58.679780  
 categories: player  
 ---
 # Elliot Obatoyinbo
@@ -22,14 +22,14 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Saracens          |            23 |   0.586957 |
-| Newcastle Falcons |             4 |   0.5      |
+| Newcastle Falcons |             5 |   0.4      |
 | Ampthill          |             1 |   0        |
 | London Scottish   |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Harlequins          |         3 |   0.666667 |
 | Gloucester Rugby    |         3 |   0.666667 |
+| Harlequins          |         3 |   0.666667 |
 | Wasps               |         2 |   0        |
 | Bristol Rugby       |         2 |   0.5      |
 | Cornish Pirates     |         2 |   0        |
@@ -37,12 +37,13 @@ categories: player
 | Bath Rugby          |         2 |   0.5      |
 | Jersey              |         2 |   0.5      |
 | London Irish        |         2 |   0.25     |
-| Northampton Saints  |         1 |   0        |
+| Newcastle Falcons   |         1 |   1        |
 | Sale Sharks         |         1 |   0        |
 | Ospreys             |         1 |   1        |
+| Northampton Saints  |         1 |   0        |
 | Ampthill            |         1 |   1        |
-| Newcastle Falcons   |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
 | Doncaster           |         1 |   1        |
+| Cardiff Blues       |         1 |   0        |
 | Bedford             |         1 |   1        |
 | Worcester Warriors  |         1 |   0        |

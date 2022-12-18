@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gio Sordia  
-date: 2022-12-14 11:34:21.434867  
+date: 2022-12-18 16:37:09.067118  
 categories: player  
 ---
 # Gio Sordia

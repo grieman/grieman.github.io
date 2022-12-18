@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siya Kolisi  
-date: 2022-12-14 11:22:04.156485  
+date: 2022-12-18 16:27:22.562958  
 categories: player  
 ---
 # Siya Kolisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 116.0
+## Current elo: 118.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Stormers         |           115 |   0.569565 |
 | South Africa     |            71 |   0.633803 |
 | Western Province |            21 |   0.642857 |
-| Sharks           |            16 |   0.71875  |
+| Sharks           |            17 |   0.735294 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -46,38 +46,39 @@ categories: player
 | Golden Lions             |         6 |   0.333333 |
 | France                   |         6 |   0.833333 |
 | Hurricanes               |         6 |   0.5      |
-| Brumbies                 |         6 |   0.5      |
 | Blues                    |         6 |   0.666667 |
+| Brumbies                 |         6 |   0.5      |
 | Melbourne Rebels         |         5 |   0.8      |
-| Jaguares                 |         5 |   0.8      |
 | Sunwolves                |         5 |   0.7      |
+| Jaguares                 |         5 |   0.8      |
 | Ireland                  |         5 |   0.4      |
-| Western Force            |         4 |   1        |
 | Crusaders                |         4 |   0.125    |
 | Blue Bulls               |         4 |   0.75     |
-| Natal Sharks             |         3 |   0.666667 |
-| Japan                    |         3 |   0.666667 |
-| British and Irish Lions  |         3 |   0.666667 |
+| Western Force            |         4 |   1        |
 | Pumas                    |         3 |   1        |
+| Japan                    |         3 |   0.666667 |
+| Natal Sharks             |         3 |   0.666667 |
+| British and Irish Lions  |         3 |   0.666667 |
+| Stormers                 |         2 |   0.25     |
 | Southern Kings           |         2 |   1        |
 | Scotland                 |         2 |   1        |
-| Eastern Province Kings   |         2 |   1        |
-| Stormers                 |         2 |   0.25     |
 | Italy                    |         2 |   1        |
+| Eastern Province Kings   |         2 |   1        |
+| Ulster                   |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Samoa                    |         1 |   1        |
-| Ulster                   |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
 | Edinburgh                |         1 |   0        |
+| Bordeaux Begles          |         1 |   1        |
 | Namibia                  |         1 |   1        |
-| Canada                   |         1 |   1        |
 | Leopards                 |         1 |   1        |
 | Leinster                 |         1 |   1        |
+| Canada                   |         1 |   1        |
 | Connacht                 |         1 |   1        |
 | Harlequins               |         1 |   1        |
 | Griquas                  |         1 |   0.5      |
-| Dragons                  |         1 |   1        |
 | Glasgow Warriors         |         1 |   1        |
 | Georgia                  |         1 |   1        |
 | Free State Cheetahs      |         1 |   0        |
+| Dragons                  |         1 |   1        |
 | Zebre                    |         1 |   1        |

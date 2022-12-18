@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud Dréan  
-date: 2022-12-14 11:31:50.371244  
+date: 2022-12-18 16:11:31.542689  
 categories: player  
 ---
 # Thibaud Dréan
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            47 |   0.574468 |
+| Dax         |            48 |   0.583333 |
 | Carcassonne |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,13 +31,14 @@ categories: player
 | Tarbes                     |         4 |   0.75     |
 | Narbonne                   |         3 |   0.666667 |
 | Aurillac                   |         3 |   0        |
-| Soyaux-Angouleme           |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
+| Soyaux-Angouleme           |         3 |   0.666667 |
 | Dijon                      |         3 |   1        |
+| Nice                       |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
+| US Bressane                |         2 |   1        |
 | Suresnes                   |         2 |   1        |
 | Oyonnax                    |         2 |   0        |
-| Nice                       |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
@@ -48,6 +49,5 @@ categories: player
 | Rennes                     |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Brive                      |         1 |   0        |
-| US Bressane                |         1 |   1        |
 | Beziers                    |         1 |   0        |
 | Agen                       |         1 |   0        |

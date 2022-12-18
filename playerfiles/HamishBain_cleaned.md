@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hamish Bain  
-date: 2022-12-14 11:19:43.907289  
+date: 2022-12-18 16:32:35.615283  
 categories: player  
 ---
 # Hamish Bain

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Gregory Annetta  
-date: 2022-12-14 11:35:09.372692  
+date: 2022-12-18 16:17:16.905884  
 categories: player  
 ---
 # Gregory Annetta
 
 ## Positions: FL
 
-## Current elo: 79.0
+## Current elo: 77.0
 
 ## Current Percentile: 4.0
 
@@ -22,15 +22,15 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Provence Rugby |            59 |   0.525424 |
-| Carcassonne    |            13 |   0.384615 |
+| Carcassonne    |            14 |   0.357143 |
 | Toulon         |             4 |   0.75     |
 | Beziers        |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Vannes               |         8 |   0.5      |
+| Mont-de-Marsan       |         8 |   0.5      |
 | Oyonnax              |         7 |   0.142857 |
-| Mont-de-Marsan       |         7 |   0.571429 |
 | Beziers              |         5 |   0.6      |
 | Carcassonne          |         5 |   0.4      |
 | Grenoble             |         5 |   0.4      |

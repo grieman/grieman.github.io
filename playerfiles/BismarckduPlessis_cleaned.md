@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bismarck du Plessis  
-date: 2022-12-14 11:29:29.287322  
+date: 2022-12-18 16:12:04.445829  
 categories: player  
 ---
 # Bismarck du Plessis
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 117.0
+## Current elo: 116.0
 
 ## Current Percentile: 95.0
 
@@ -26,7 +26,7 @@ categories: player
 | Montpellier Herault |           102 |   0.593137 |
 | Sharks              |            85 |   0.617647 |
 | South Africa        |            59 |   0.652542 |
-| Bulls               |            19 |   0.526316 |
+| Bulls               |            20 |   0.5      |
 | Natal Sharks        |             8 |   0.625    |
 | Blue Bulls          |             4 |   1        |
 
@@ -58,39 +58,39 @@ categories: player
 | Hurricanes               |         5 |   0.6      |
 | Brumbies                 |         5 |   0.6      |
 | Bordeaux Begles          |         5 |   0.7      |
-| Clermont Auvergne        |         5 |   0.8      |
 | Blues                    |         5 |   1        |
-| England                  |         4 |   0.875    |
-| Highlanders              |         4 |   0.75     |
+| Clermont Auvergne        |         5 |   0.8      |
 | Leinster                 |         4 |   0.25     |
 | Scotland                 |         4 |   0.75     |
-| Western Force            |         3 |   1        |
-| Glasgow Warriors         |         3 |   0.666667 |
-| Bayonne                  |         3 |   1        |
-| Sharks                   |         3 |   0.333333 |
+| Highlanders              |         4 |   0.75     |
+| England                  |         4 |   0.875    |
 | Edinburgh                |         3 |   0.333333 |
-| Melbourne Rebels         |         3 |   1        |
-| Grenoble                 |         3 |   1        |
 | Oyonnax                  |         3 |   1        |
+| Glasgow Warriors         |         3 |   0.666667 |
 | Connacht                 |         3 |   0.333333 |
-| Golden Lions             |         2 |   1        |
-| Cardiff Blues            |         2 |   0.5      |
-| Perpignan                |         2 |   0.5      |
-| Griquas                  |         2 |   1        |
-| Ireland                  |         2 |   0.5      |
+| Melbourne Rebels         |         3 |   1        |
+| Sharks                   |         3 |   0.333333 |
+| Western Force            |         3 |   1        |
+| Grenoble                 |         3 |   1        |
+| Bayonne                  |         3 |   1        |
+| Exeter Chiefs            |         2 |   0        |
 | Munster                  |         2 |   0.5      |
-| Harlequins               |         2 |   1        |
 | Blue Bulls               |         2 |   0.5      |
+| Ireland                  |         2 |   0.5      |
+| Harlequins               |         2 |   1        |
+| Perpignan                |         2 |   0.5      |
+| Cardiff Blues            |         2 |   0.5      |
+| Griquas                  |         2 |   1        |
+| Golden Lions             |         2 |   1        |
 | France                   |         2 |   0.5      |
+| Southern Kings           |         1 |   1        |
 | United States of America |         1 |   1        |
 | Benetton Treviso         |         1 |   1        |
-| Southern Kings           |         1 |   1        |
 | Ospreys                  |         1 |   1        |
 | Samoa                    |         1 |   1        |
 | Sale Sharks              |         1 |   1        |
 | Calvisano                |         1 |   1        |
 | Dragons                  |         1 |   1        |
-| Exeter Chiefs            |         1 |   0        |
 | Japan                    |         1 |   0        |
 | Italy                    |         1 |   1        |
 | Fiji                     |         1 |   1        |

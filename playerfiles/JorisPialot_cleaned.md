@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joris Pialot  
-date: 2022-11-22 11:26:34.227935  
+date: 2022-12-18 16:25:57.910199  
 categories: player  
 ---
 # Joris Pialot
 
 ## Positions: FH
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 38.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Narbonne       |             8 |   0.4375   |
-| Mont-de-Marsan |             7 |   0.285714 |
+| Mont-de-Marsan |             8 |     0.375  |
+| Narbonne       |             8 |     0.4375 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Rouen            |         2 |        0.5 |
 | Agen             |         1 |        0   |
 | Aurillac         |         1 |        1   |
+| Carcassonne      |         1 |        1   |
 | Colomiers        |         1 |        0   |
 | Grenoble         |         1 |        0.5 |
 | Massy            |         1 |        0   |

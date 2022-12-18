@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bastien Guillemin  
-date: 2022-12-12 15:01:59.572666  
+date: 2022-12-18 16:21:57.361865  
 categories: player  
 ---
 # Bastien Guillemin
 
 ## Positions: W, FB
 
-## Current elo: 93.0
+## Current elo: 95.0
 
-## Current Percentile: 49.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Grenoble          |            53 |   0.509434 |
 | Castres Olympique |            16 |   0.375    |
-| Montauban         |            11 |   0.5      |
+| Montauban         |            12 |   0.541667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Lyon                 |         4 |   0.25     |
 | Vannes               |         4 |   0.625    |
 | Toulon               |         3 |   0.333333 |
+| Soyaux-Angouleme     |         3 |   1        |
 | Bayonne              |         3 |   1        |
 | Perpignan            |         3 |   0.333333 |
 | Ospreys              |         3 |   0        |
@@ -43,7 +44,6 @@ categories: player
 | Bordeaux Begles      |         2 |   0        |
 | Montpellier Herault  |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
-| Soyaux-Angouleme     |         2 |   1        |
 | Carcassonne          |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
 | Benetton Treviso     |         2 |   0        |

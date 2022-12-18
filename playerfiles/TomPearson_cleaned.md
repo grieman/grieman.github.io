@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Pearson  
-date: 2022-11-22 11:41:26.535545  
+date: 2022-12-18 16:31:49.493022  
 categories: player  
 ---
 # Tom Pearson
 
 ## Positions: FL
 
-## Current elo: 112.0
+## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            21 |   0.547619 |
+| London Irish |            23 |        0.5 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -34,7 +34,9 @@ categories: player
 | Wasps              |         2 |   0.25     |
 | Edinburgh          |         1 |   1        |
 | Harlequins         |         1 |   1        |
+| Leicester Tigers   |         1 |   0        |
 | Pau                |         1 |   1        |
 | Sale Sharks        |         1 |   0.5      |
 | Saracens           |         1 |   0.5      |
+| Stormers           |         1 |   0        |
 | Worcester Warriors |         1 |   1        |

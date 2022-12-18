@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brandon Paenga-Amosa  
-date: 2022-12-14 11:30:54.055937  
+date: 2022-12-18 16:30:32.768034  
 categories: player  
 ---
 # Brandon Paenga-Amosa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 29.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Queensland Reds     |            55 |   0.463636 |
-| Montpellier Herault |            25 |   0.7      |
+| Montpellier Herault |            26 |   0.673077 |
 | Australia           |            16 |   0.34375  |
 | Brisbane City       |            10 |   0.35     |
 | Greater Sydney Rams |             7 |   0.285714 |
@@ -51,10 +51,10 @@ categories: player
 | Bordeaux Begles          |         3 |   0.666667 |
 | Crusaders                |         2 |   0        |
 | NSW Country Eagles       |         2 |   0.5      |
-| Racing 92                |         2 |   0.5      |
 | Perth Spirit             |         2 |   0.5      |
 | Perpignan                |         2 |   1        |
 | Pau                      |         2 |   1        |
+| Stade Francais Paris     |         2 |   1        |
 | Stade Toulousain         |         2 |   0        |
 | Brisbane City            |         2 |   0.25     |
 | Brive                    |         2 |   0.75     |
@@ -65,11 +65,12 @@ categories: player
 | La Rochelle              |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
-| Stade Francais Paris     |         2 |   1        |
+| Racing 92                |         2 |   0.5      |
 | South Africa             |         1 |   0        |
 | Toulon                   |         1 |   1        |
 | North Harbour Rays       |         1 |   0        |
 | Sharks                   |         1 |   1        |
+| Ospreys                  |         1 |   0        |
 | Clermont Auvergne        |         1 |   0        |
 | Lyon                     |         1 |   0        |
 | Bayonne                  |         1 |   1        |

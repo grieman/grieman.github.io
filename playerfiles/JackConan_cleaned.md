@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Conan  
-date: 2022-12-14 11:12:23.979357  
+date: 2022-12-18 16:29:55.953151  
 categories: player  
 ---
 # Jack Conan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 122.0
+## Current elo: 123.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leinster                |           112 |   0.763393 |
+| Leinster                |           113 |   0.765487 |
 | Ireland                 |            34 |   0.882353 |
 | British and Irish Lions |             4 |   0.5      |
 
@@ -46,23 +46,24 @@ categories: player
 | New Zealand              |         4 |   0.75     |
 | Japan                    |         4 |   1        |
 | Italy                    |         4 |   1        |
-| Montpellier Herault      |         3 |   1        |
 | Castres Olympique        |         3 |   0.833333 |
-| Stade Toulousain         |         3 |   0.666667 |
-| Ospreys                  |         3 |   0.666667 |
 | Australia                |         3 |   0.666667 |
-| Harlequins               |         2 |   0.5      |
+| Montpellier Herault      |         3 |   1        |
+| Ospreys                  |         3 |   0.666667 |
+| Stade Toulousain         |         3 |   0.666667 |
 | Saracens                 |         2 |   0        |
+| France                   |         2 |   0.5      |
+| Fiji                     |         2 |   1        |
+| Exeter Chiefs            |         2 |   1        |
+| Northampton Saints       |         2 |   1        |
+| Racing 92                |         2 |   1        |
+| Harlequins               |         2 |   0.5      |
+| England                  |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
 | United States of America |         2 |   1        |
-| England                  |         2 |   1        |
-| Racing 92                |         2 |   1        |
-| Northampton Saints       |         2 |   1        |
-| Exeter Chiefs            |         2 |   1        |
-| Fiji                     |         2 |   1        |
-| France                   |         2 |   0.5      |
-| Clermont Auvergne        |         1 |   0        |
-| Cheetahs                 |         1 |   0        |
-| Southern Kings           |         1 |   1        |
 | Bulls                    |         1 |   0        |
+| Gloucester Rugby         |         1 |   1        |
+| Southern Kings           |         1 |   1        |
+| Cheetahs                 |         1 |   0        |
+| Clermont Auvergne        |         1 |   0        |
 | Argentina                |         1 |   1        |

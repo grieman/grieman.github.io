@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrzej Charlat  
-date: 2022-12-14 11:22:58.081952  
+date: 2022-12-18 16:36:07.775038  
 categories: player  
 ---
 # Andrzej Charlat
 
 ## Positions: W
 
-## Current elo: 104.0
+## Current elo: 109.0
 
-## Current Percentile: 81.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Provence Rugby |            39 |   0.525641 |
-| Nevers         |            20 |   0.4      |
+| Nevers         |            21 |   0.428571 |
 | US Bressane    |            15 |   0.533333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -44,5 +44,5 @@ categories: player
 | Rouen                      |         3 |   1        |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         2 |   1        |
+| Agen                       |         2 |   1        |
 | Roval Drome XV             |         1 |   1        |
-| Agen                       |         1 |   1        |

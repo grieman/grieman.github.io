@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simone Ferrari  
-date: 2022-12-14 11:24:13.555436  
+date: 2022-12-18 16:27:20.382593  
 categories: player  
 ---
 # Simone Ferrari
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 100.0
+## Current elo: 102.0
 
-## Current Percentile: 69.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            88 |   0.363636 |
+| Benetton Treviso |            89 |   0.370787 |
 | Italy            |            37 |   0.297297 |
 | Mogliano         |             4 |   0        |
 
@@ -46,6 +46,7 @@ categories: player
 | Georgia              |         3 |  0.666667  |
 | France               |         3 |  0         |
 | Connacht             |         3 |  0.333333  |
+| Bayonne              |         3 |  1         |
 | Bath Rugby           |         3 |  0         |
 | Australia            |         3 |  0.333333  |
 | Harlequins           |         2 |  0.5       |
@@ -54,7 +55,6 @@ categories: player
 | Southern Kings       |         2 |  1         |
 | Bulls                |         2 |  0         |
 | Wales                |         2 |  0         |
-| Bayonne              |         2 |  1         |
 | Russia               |         1 |  1         |
 | Toulon               |         1 |  0         |
 | Tonga                |         1 |  0         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Kleyn  
-date: 2022-12-14 11:18:40.951511  
+date: 2022-12-18 16:14:46.472237  
 categories: player  
 ---
 # Jean Kleyn
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 77.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Munster          |           107 |   0.696262 |
+| Munster          |           108 |   0.699074 |
 | Western Province |            21 |   0.761905 |
 | Stormers         |            19 |   0.657895 |
 | Ireland          |             5 |   0.8      |
@@ -56,21 +56,22 @@ categories: player
 | Brumbies                 |         2 |   0.5      |
 | Castres Olympique        |         2 |   1        |
 | Gloucester Rugby         |         2 |   1        |
+| Exeter Chiefs            |         2 |   0.75     |
 | Free State Cheetahs      |         2 |   0.5      |
 | Lions                    |         2 |   0.25     |
-| Exeter Chiefs            |         2 |   0.75     |
-| Stade Toulousain         |         1 |   0        |
 | Highlanders              |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Wales                    |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Toulon                   |         1 |   1        |
 | Stormers                 |         1 |   1        |
+| Stade Toulousain         |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
-| England                  |         1 |   0        |
+| Northampton Saints       |         1 |   1        |
 | Chiefs                   |         1 |   0        |
 | Samoa                    |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
 | Natal Sharks             |         1 |   1        |
 | Pumas                    |         1 |   1        |
+| England                  |         1 |   0        |
 | Russia                   |         1 |   1        |

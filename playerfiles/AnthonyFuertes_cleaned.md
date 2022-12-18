@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Fuertes  
-date: 2022-12-14 11:17:00.280884  
+date: 2022-12-18 16:15:13.708912  
 categories: player  
 ---
 # Anthony Fuertes
