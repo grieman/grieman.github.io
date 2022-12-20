@@ -4,10 +4,10 @@ title: Bulls at Stormers
 date: 2022-12-23 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bulls (~1502.39) at Stormers (~1604.52)
+# Bulls (~1519.94) at Stormers (~1588.67)
 
-# Prediction: Stormers by 13.2
+# Prediction: Stormers by 9.9
 
 
-Stormers by 10.2 on a neutral pitch
+Stormers by 6.9 on a neutral pitch
 

@@ -4,10 +4,10 @@ title: Lyon at Toulon
 date: 2022-12-22 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Lyon (~1536.66) at Toulon (~1506.78)
+# Lyon (~1525.05) at Toulon (~1507.11)
 
-# Prediction: Toulon by 0.0
+# Prediction: Toulon by 1.2
 
 
-Lyon by 3.0 on a neutral pitch
+Lyon by 1.8 on a neutral pitch
 

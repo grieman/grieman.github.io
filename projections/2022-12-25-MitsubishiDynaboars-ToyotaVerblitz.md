@@ -4,10 +4,10 @@ title: Toyota Verblitz at Mitsubishi Dynaboars
 date: 2022-12-25 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Toyota Verblitz (~1566.46) at Mitsubishi Dynaboars (~1530.69)
+# Toyota Verblitz (~1548.2) at Mitsubishi Dynaboars (~1534.28)
 
-# Prediction: Toyota Verblitz by 0.6
+# Prediction: Mitsubishi Dynaboars by 1.6
 
 
-Toyota Verblitz by 3.6 on a neutral pitch
+Toyota Verblitz by 1.4 on a neutral pitch
 

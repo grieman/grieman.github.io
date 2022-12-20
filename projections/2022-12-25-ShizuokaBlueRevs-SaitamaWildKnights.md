@@ -4,10 +4,10 @@ title: Saitama Wild Knights at Shizuoka Blue Revs
 date: 2022-12-25 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Saitama Wild Knights (~1614.6) at Shizuoka Blue Revs (~1516.95)
+# Saitama Wild Knights (~1598.69) at Shizuoka Blue Revs (~1486.22)
 
-# Prediction: Saitama Wild Knights by 6.8
+# Prediction: Saitama Wild Knights by 8.2
 
 
-Saitama Wild Knights by 9.8 on a neutral pitch
+Saitama Wild Knights by 11.2 on a neutral pitch
 

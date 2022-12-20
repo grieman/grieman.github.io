@@ -4,7 +4,7 @@ title: Jersey at Ealing Trailfinders
 date: 2022-12-24 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Jersey (~1536.31) at Ealing Trailfinders (~1593.86)
+# Jersey (~1530.68) at Ealing Trailfinders (~1588.23)
 
 # Prediction: Ealing Trailfinders by 8.8
 
