@@ -10,9 +10,9 @@ key: page-recents
 
 [2022-12-16 Stade Francais Paris (1490.39) at Lions (1505.58); 12-30](reviews//2022-12-16-Lions-StadeFrancaisParis)
 
-[2022-12-16 Connacht (1497.86) at Brive (1448.85); 31-24](reviews//2022-12-16-Brive-Connacht)
-
 [2022-12-16 Perpignan (1454.72) at Glasgow Warriors (1489.96); 18-26](reviews//2022-12-16-GlasgowWarriors-Perpignan)
+
+[2022-12-16 Connacht (1497.86) at Brive (1448.85); 31-24](reviews//2022-12-16-Brive-Connacht)
 
 [2022-12-17 Bath Rugby (1466.59) at Toulon (1469.96); 7-29](reviews//2022-12-17-Toulon-BathRugby)
 
@@ -28,9 +28,9 @@ key: page-recents
 ## European Rugby Champions Cup 2022
 
 
-[2022-12-16 Sharks (1585.16) at Bordeaux Begles (1589.36); 19-16](reviews//2022-12-16-BordeauxBegles-Sharks)
-
 [2022-12-16 Gloucester Rugby (1494.96) at Leinster (1759.73); 0-57](reviews//2022-12-16-Leinster-GloucesterRugby)
+
+[2022-12-16 Sharks (1585.16) at Bordeaux Begles (1589.36); 19-16](reviews//2022-12-16-BordeauxBegles-Sharks)
 
 [2022-12-17 Castres Olympique (1414.07) at Edinburgh (1580.74); 20-31](reviews//2022-12-17-Edinburgh-CastresOlympique)
 
@@ -40,9 +40,9 @@ key: page-recents
 
 [2022-12-17 Saracens (1675.56) at Lyon (1501.2); 28-20](reviews//2022-12-17-Lyon-Saracens)
 
-[2022-12-17 London Irish (1572.53) at Stormers (1586.17); 14-34](reviews//2022-12-17-Stormers-LondonIrish)
-
 [2022-12-17 La Rochelle (1623.46) at Ulster (1610.56); 36-29](reviews//2022-12-17-Ulster-LaRochelle)
+
+[2022-12-17 London Irish (1572.53) at Stormers (1586.17); 14-34](reviews//2022-12-17-Stormers-LondonIrish)
 
 [2022-12-17 Ospreys (1480.61) at Montpellier Herault (1615.81); 21-10](reviews//2022-12-17-MontpellierHerault-Ospreys)
 
@@ -51,14 +51,22 @@ key: page-recents
 [2022-12-18 Sale Sharks (1639.9) at Stade Toulousain (1646.73); 19-45](reviews//2022-12-18-StadeToulousain-SaleSharks)
 
 [2022-12-18 Racing 92 (1546.24) at Harlequins (1579.79); 10-14](reviews//2022-12-18-Harlequins-Racing92)
+## Gallagher Premiership 2023
+
+
+[2022-12-23 Sale Sharks (1527.61) at Newcastle Falcons (1397.32); 14.0-20.0](reviews//2022-12-23-NewcastleFalcons-SaleSharks)
+
+[2022-12-23 Saracens (1659.39) at London Irish (1543.36); 20.0-29.0](reviews//2022-12-23-LondonIrish-Saracens)
+
+[2022-12-24 Bath Rugby (1426.42) at Exeter Chiefs (1652.84); 15.0-20.0](reviews//2022-12-24-ExeterChiefs-BathRugby)
 ## Japan Rugby League One 2022
 
 
 [2022-12-17 Shizuoka Blue Revs (1494.38) at Toyota Verblitz (1450.8); 26-31](reviews//2022-12-17-ToyotaVerblitz-ShizuokaBlueRevs)
 
-[2022-12-17 Toshiba Brave Lupus Tokyo (1532.6) at Saitama Wild Knights (1585.06); 19-22](reviews//2022-12-17-SaitamaWildKnights-ToshibaBraveLupusTokyo)
-
 [2022-12-17 Mitsubishi Dynaboars (1524.87) at Black Rams Tokyo (1420.45); 34-8](reviews//2022-12-17-BlackRamsTokyo-MitsubishiDynaboars)
+
+[2022-12-17 Toshiba Brave Lupus Tokyo (1532.6) at Saitama Wild Knights (1585.06); 19-22](reviews//2022-12-17-SaitamaWildKnights-ToshibaBraveLupusTokyo)
 ## Japan Rugby League One Division 2 2022
 
 
