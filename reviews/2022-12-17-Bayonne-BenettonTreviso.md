@@ -10,6 +10,14 @@ categories: match review
 
 
 Benetton Treviso by 2.0 on a neutral field
+## Scores over Time
+
+
+![In Match Scores](recap_scores_2022-12-17-Bayonne-BenettonTreviso.png)
+## Win Probability over Time
+
+
+![In Match Predictions](recap_prob_2022-12-17-Bayonne-BenettonTreviso.png)
 # Pre-Match Prediction: Benetton Treviso by 1.1
 
 
