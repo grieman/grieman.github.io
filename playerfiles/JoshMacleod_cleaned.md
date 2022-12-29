@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh MacLeod  
-date: 2022-12-18 16:26:32.672919  
+date: 2022-12-28 18:27:25.948009  
 categories: player  
 ---
 # Josh MacLeod
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 93.0
+## Current elo: 88.0
 
-## Current Percentile: 28.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            94 |    0.56383 |
-| Wales    |             2 |    0       |
+| Scarlets |            95 |   0.557895 |
+| Wales    |             2 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Ospreys          |        10 |   0.75     |
+| Ospreys          |        11 |   0.681818 |
 | Benetton Treviso |         8 |   0.625    |
 | Cardiff Blues    |         8 |   0.75     |
 | Dragons          |         7 |   0.428571 |

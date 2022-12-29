@@ -4,10 +4,10 @@ title: Toulon at Bayonne
 date: 2022-12-31 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Toulon (~1507.11) at Bayonne (~1434.57)
+# Toulon (~1536.13) at Bayonne (~1476.19)
 
-# Prediction: Toulon by 4.3
+# Prediction: Toulon by 3.0
 
 
-Toulon by 7.3 on a neutral pitch
+Toulon by 6.0 on a neutral pitch
 

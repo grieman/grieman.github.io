@@ -35,7 +35,7 @@ def clean_leading_space(orig_name, new_name):
                 else:
                     out_file.write(line)
 
-def main(named_players):
+def main(named_players, regenerate = False):
     ## Load in + prep data
     team_colors = pd.DataFrame(team_color_dict).T
     team_colors.columns = ['Primary', 'Secondary']
@@ -80,11 +80,14 @@ def main(named_players):
 
     starters = player_elo[player_elo.Position != 'R']
     starters = starters.dropna(subset=['Position'])
+
+    starters.end_elo = starters.end_elo.astype("float")
     last_date_of_months = player_elo.groupby(pd.Grouper(key="Date", freq='M')).Date.max()
+    #last_date_of_months = last_date_of_months[last_date_of_months >= pd.to_datetime("1-1-2008")]
     percentile_list = []
 
     for date in last_date_of_months:
-        current_players = starters[starters.Date < date]
+        current_players = starters[starters.Date <= date]
         current_players = current_players[current_players.Date >= date - datetime.timedelta(days=365)]
         current_players = current_players[current_players.groupby(['Full Name'])['Date'].transform(max) == current_players['Date']].copy()
         percentile_df = current_players.groupby('Position')['end_elo'].quantile([0.05, 0.1, 0.25, 0.5, 0.75, 0.9, 0.95]).reset_index()
@@ -106,6 +109,10 @@ def main(named_players):
 
     ## Data loaded
     # Limit named_players to those that are not already in playerfiles
+    if not regenerate:
+        existing_files = glob.glob(os.path.join("playerfiles", "*.md"))
+        existing_files = [x.split("_")[0].split("\\")[1] for x in existing_files]
+        named_players = [x for x in named_players if x.replace(" ", "") not in existing_files]
 
     for player in tqdm.tqdm(named_players):
         playerid = player_elo[player_elo['Full Name'] == player].Unicode_ID.iloc[0]

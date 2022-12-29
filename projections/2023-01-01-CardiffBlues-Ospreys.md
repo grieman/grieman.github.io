@@ -4,10 +4,10 @@ title: Ospreys at Cardiff Blues
 date: 2023-01-01 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Ospreys (~1486.21) at Cardiff Blues (~1512.51)
+# Ospreys (~1533.82) at Cardiff Blues (~1521.61)
 
-# Prediction: Cardiff Blues by 5.6
+# Prediction: Cardiff Blues by 1.8
 
 
-Cardiff Blues by 2.6 on a neutral pitch
+Ospreys by 1.2 on a neutral pitch
 
