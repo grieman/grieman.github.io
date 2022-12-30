@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2022-12-28 18:27:27.612952  
+date: 2022-12-30 11:13:01.557408  
 categories: player  
 ---
 # Willem Nel
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 106.0
+## Current elo: 105.0
 
 ## Current Percentile: 99.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willgriff John  
-date: 2022-12-28 18:27:25.051382  
+date: 2022-12-30 11:13:03.417920  
 categories: player  
 ---
 # Willgriff John
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 31.0
+## Current Percentile: 33.0
 
 # Elo History
 

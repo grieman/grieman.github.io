@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon HICKEY  
-date: 2022-12-28 18:27:22.800183  
+date: 2022-12-30 11:13:00.548679  
 categories: player  
 ---
 # Simon HICKEY
 
 ## Positions: FH
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 74.0
+## Current Percentile: 69.0
 
 # Elo History
 

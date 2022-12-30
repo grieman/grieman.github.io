@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2022-12-28 18:27:20.415708  
+date: 2022-12-30 11:12:50.710219  
 categories: player  
 ---
 # D'arcy Rae
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 91.0
+## Current Percentile: 87.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Timothy Gregory SWIEL  
-date: 2022-12-28 18:27:30.351883  
+date: 2022-12-30 11:12:49.628977  
 categories: player  
 ---
 # Timothy Gregory SWIEL
 
 ## Positions: FH, FB
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 40.0
+## Current Percentile: 39.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh MacLeod  
-date: 2022-12-28 18:27:25.948009  
+date: 2022-12-30 11:12:55.833330  
 categories: player  
 ---
 # Josh MacLeod
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 25.0
+## Current Percentile: 26.0
 
 # Elo History
 

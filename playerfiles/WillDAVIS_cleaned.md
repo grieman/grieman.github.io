@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will DAVIS  
-date: 2022-12-28 18:27:28.523907  
+date: 2022-12-30 11:12:57.872642  
 categories: player  
 ---
 # Will DAVIS
 
 ## Positions: P
 
-## Current elo: 114.0
+## Current elo: 111.0
 
-## Current Percentile: 93.0
+## Current Percentile: 90.0
 
 # Elo History
 

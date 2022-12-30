@@ -4,10 +4,10 @@ title: Glasgow Warriors at Edinburgh
 date: 2022-12-30 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Glasgow Warriors (~1490.47) at Edinburgh (~1566.76)
+# Glasgow Warriors (~1493.59) at Edinburgh (~1562.32)
 
-# Prediction: Edinburgh by 10.6
+# Prediction: Edinburgh by 9.9
 
 
-Edinburgh by 7.6 on a neutral pitch
+Edinburgh by 6.9 on a neutral pitch
 

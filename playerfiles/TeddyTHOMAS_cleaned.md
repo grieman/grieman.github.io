@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy THOMAS  
-date: 2022-12-28 18:27:21.936500  
+date: 2022-12-30 11:12:54.750102  
 categories: player  
 ---
 # Teddy THOMAS
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 104.0
+## Current elo: 101.0
 
-## Current Percentile: 81.0
+## Current Percentile: 76.0
 
 # Elo History
 
