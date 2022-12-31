@@ -65,17 +65,16 @@ def main(named_players):
 
     player_elo = pd.concat(player_elo_list).reset_index(drop=True)
     player_elo = pd.merge(player_elo, team_colors, on = 'Team', how = 'left')
-    player_elo['elo_change'] = player_elo.end_elo - player_elo.start_elo
     player_elo.Date = pd.to_datetime(player_elo.Date)
+    player_elo.end_elo = player_elo.end_elo.astype(float)
+    player_elo['elo_change'] = player_elo.end_elo - player_elo.start_elo
+
 
     player_elo['week_num'] = player_elo['Date'].dt.isocalendar().week
     player_elo['month'] = player_elo['Date'].dt.month
     player_elo['year'] = player_elo['Date'].dt.year
 
     player_elo.loc[player_elo.Position == 'BR', 'Position'] = 'N8'
-
-    starters = player_elo[player_elo.Position != 'R']
-    starters = starters.dropna(subset=['Position'])
 
     starters = player_elo[player_elo.Position != 'R']
     starters = starters.dropna(subset=['Position'])
@@ -115,7 +114,7 @@ def main(named_players):
         player_df.loc[player_df['Home Score'] == player_df['Away Score'], 'win'] = 0.5
 
         name = player_df.Full_Name.iloc[0]
-        print(name)
+        #print(name)
         current_elo = player_df.end_elo.iloc[-1]
         try:
             current_percentile = player_df.merge(make_current_percentile(starters, player_df.Date.iloc[-1])).percentile[0]

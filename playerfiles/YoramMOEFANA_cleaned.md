@@ -1,0 +1,57 @@
+---  
+layout: page  
+title: Yoram MOEFANA  
+date: 2022-12-31 16:29:48.019978  
+categories: player  
+---
+# Yoram MOEFANA
+
+## Positions: C, W
+
+## Country: France
+
+## Current elo: 98.0
+
+## Current Percentile: 57.0
+
+# Elo History
+
+
+![elo history](history_YoramMOEFANA.png)
+# Match History
+
+
+| Team            |   Appearances |   Win Rate |
+|:----------------|--------------:|-----------:|
+| Bordeaux Begles |            44 |   0.590909 |
+| France          |             9 |   1        |
+| Colomiers       |             6 |   0.5      |
+
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Montpellier Herault  |         6 |   0.666667 |
+| Lyon                 |         4 |   0.5      |
+| Bayonne              |         4 |   0.5      |
+| Castres Olympique    |         4 |   0.875    |
+| Biarritz Olympique   |         3 |   0.666667 |
+| Brive                |         3 |   0.666667 |
+| Stade Toulousain     |         3 |   0.333333 |
+| Stade Francais Paris |         3 |   0.666667 |
+| Racing 92            |         3 |   1        |
+| Perpignan            |         3 |   0.333333 |
+| Japan                |         3 |   1        |
+| La Rochelle          |         3 |   0        |
+| Pau                  |         2 |   1        |
+| Agen                 |         2 |   1        |
+| Carcassonne          |         2 |   0.5      |
+| Australia            |         1 |   1        |
+| Nevers               |         1 |   0        |
+| Leicester Tigers     |         1 |   0        |
+| Italy                |         1 |   1        |
+| Ireland              |         1 |   1        |
+| Scarlets             |         1 |   1        |
+| Scotland             |         1 |   1        |
+| South Africa         |         1 |   1        |
+| Clermont Auvergne    |         1 |   0.5      |
+| Toulon               |         1 |   0        |
+| Wales                |         1 |   1        |

@@ -25,9 +25,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from plot_functions import *
 
-## Need to ge the current home advantage? as 5 as of 8/5, 3 as of 11/8
-# this should not be hard coded
-home_advantage = 3
+## Need to ge the current home advantage? as 5 as of 8/5, 3 as of 11/8, 7 as of 12/31
+# this should REALLY not be hard coded
+home_advantage = 7
 named_players = []
 
 def elo_contribition(player_df, column):
@@ -47,7 +47,28 @@ def clean_leading_space(orig_name, new_name):
                 else:
                     out_file.write(line)
 
-files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*') + glob.glob('playerfiles/*')
+def comp_accuracy_statements(matchlist, comp):
+    output_list = []
+    comp_matches = pd.DataFrame([x for x in match_list if (x['competition'] == comp) and ('point_diff' in x.keys())])
+    if len(comp_matches) > 0:
+        comp_matches = comp_matches.drop(['home_team','away_team','commentary_df'], axis =1)
+        comp_matches = comp_matches[~comp_matches.point_diff.isna()]
+
+        correct_preds = sum((comp_matches.point_diff * comp_matches.adv_spread) > 0)
+        avg_error = np.mean(abs(comp_matches.adv_spread - comp_matches.point_diff))
+        num_teams = pd.concat([comp_matches.home_team_name, comp_matches.away_team_name]).nunique()
+        recent_comp_matches = comp_matches.tail(int(np.ceil(num_teams/2)))
+        recent_correct_preds = sum((recent_comp_matches.point_diff * recent_comp_matches.adv_spread) > 0)
+        recent_avg_error = np.mean(abs(recent_comp_matches.adv_spread - recent_comp_matches.point_diff))
+
+        output_list.append(f"Competition Accuracy: {correct_preds} of {comp_matches.shape[0]} ({np.round((correct_preds / comp_matches.shape[0]) * 100,2)}%)")
+        output_list.append(f"Competition Error: {np.round(avg_error,2)} points per match")
+        output_list.append(f"Last Round Accuracy: {recent_correct_preds} of {recent_comp_matches.shape[0]} ({np.round((recent_correct_preds / recent_comp_matches.shape[0]) * 100,2)}%)")
+        output_list.append(f"Last Round Error: {np.round(recent_avg_error,2)} points per match")
+    
+    return output_list
+
+files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')# + glob.glob('playerfiles/*')
 for f in files:
     os.remove(f)
 
@@ -252,21 +273,38 @@ dir_dom = dir_df[dir_df.levels == 'Domestic']
 if dir_int.shape[0] > 0:
     rec_dir_md.new_header(level = 1, title = 'International Matches')
     for comp in sorted(dir_int.comps.unique()):
-        rec_dir_md.new_header(level = 2, title = comp)
+        rec_dir_md.new_header(level = 2, title = comp[:-5])
+        accuracy_lines = comp_accuracy_statements(matchlist, comp)
+        for line in accuracy_lines:
+            rec_dir_md.new_paragraph(line)
+
         for _, row in dir_int[dir_int.comps == comp].iterrows():
             rec_dir_md.new_paragraph(row[0])
 
 if dir_pro.shape[0] > 0:
     rec_dir_md.new_header(level = 1, title = 'Professional Leagues')
     for comp in sorted(dir_pro.comps.unique()):
-        rec_dir_md.new_header(level = 2, title = comp)
+        rec_dir_md.new_header(level = 2, title = comp[:-5])
+        accuracy_lines = comp_accuracy_statements(matchlist, comp)
+        for line in accuracy_lines:
+            rec_dir_md.new_paragraph(line)
+
+        #correct_preds = sum([x['spread'] * x['point_diff'] > 0 for x in comp_matches])
+        #avg_error = np.mean([abs(x['spread'] - x['point_diff']) for x in comp_matches])
+        #recent_correct_preds = sum([x['spread'] * x['point_diff'] > 0 for x in comp_matches if x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)])
+        #recent_avg_error =  np.mean([abs(x['spread'] - x['point_diff']) for x in comp_matches if x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)])
+
         for _, row in dir_pro[dir_pro.comps == comp].iterrows():
             rec_dir_md.new_paragraph(row[0])
 
 if dir_dom.shape[0] > 0:
     rec_dir_md.new_header(level = 1, title = 'Domestic Leagues')
     for comp in sorted(dir_dom.comps.unique()):
-        rec_dir_md.new_header(level = 2, title = comp)
+        rec_dir_md.new_header(level = 2, title = comp[:-5])
+        accuracy_lines = comp_accuracy_statements(matchlist, comp)
+        for line in accuracy_lines:
+            rec_dir_md.new_paragraph(line)
+            
         for _, row in dir_dom[dir_dom.comps == comp].iterrows():
             rec_dir_md.new_paragraph(row[0])
 
@@ -382,7 +420,7 @@ fut_matches_df['comp_level'] = "Unknown"
 for key, value in comp_level_dict.items():
     fut_matches_df.loc[fut_matches_df.Competition.str.contains(key), 'comp_level'] = value
 
-fut_matches_df['Competition'] = fut_matches_df['Competition'].str[:-5]
+#fut_matches_df['Competition'] = fut_matches_df['Competition'].str[:-5]
 
 for _, row in fut_matches_df.iterrows():
     match_date = row["Date"].date().strftime("%Y-%m-%d")
@@ -460,21 +498,33 @@ dir_dom = dir_df[dir_df.levels == 'Domestic']
 if dir_int.shape[0] > 0:
     fut_dir_md.new_header(level = 1, title = 'International Matches')
     for comp in sorted(dir_int.comps.unique()):
-        fut_dir_md.new_header(level = 2, title = comp)
+        fut_dir_md.new_header(level = 2, title = comp[:-5])
+        accuracy_lines = comp_accuracy_statements(matchlist, comp)
+        for line in accuracy_lines:
+            fut_dir_md.new_paragraph(line)
+            
         for _, row in dir_int[dir_int.comps == comp].iterrows():
             fut_dir_md.new_paragraph(row[0])
 
 if dir_pro.shape[0] > 0:
     fut_dir_md.new_header(level = 1, title = 'Professional Leagues')
     for comp in sorted(dir_pro.comps.unique()):
-        fut_dir_md.new_header(level = 2, title = comp)
+        fut_dir_md.new_header(level = 2, title = comp[:-5])
+        accuracy_lines = comp_accuracy_statements(matchlist, comp)
+        for line in accuracy_lines:
+            fut_dir_md.new_paragraph(line)
+            
         for _, row in dir_pro[dir_pro.comps == comp].iterrows():
             fut_dir_md.new_paragraph(row[0])
 
 if dir_dom.shape[0] > 0:
     fut_dir_md.new_header(level = 1, title = 'Domestic Leagues')
     for comp in sorted(dir_dom.comps.unique()):
-        fut_dir_md.new_header(level = 2, title = comp)
+        fut_dir_md.new_header(level = 2, title = comp[:-5])
+        accuracy_lines = comp_accuracy_statements(matchlist, comp)
+        for line in accuracy_lines:
+            fut_dir_md.new_paragraph(line)
+            
         for _, row in dir_dom[dir_dom.comps == comp].iterrows():
             fut_dir_md.new_paragraph(row[0])
 
@@ -485,6 +535,9 @@ clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 ## run generate playerpage for all named players
 import generate_playerpage
 named_players = list(set(pd.concat(named_players)))
+'''with open(r'named_players.txt', 'w') as fp:
+    fp.write("\n".join(str(item) for item in named_players))'''
+
 generate_playerpage.main(named_players)
 
 
