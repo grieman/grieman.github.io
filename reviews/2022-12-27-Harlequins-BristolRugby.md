@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Bristol Rugby at Harlequins; 15.0-12.0  
+title: Bristol Rugby at Harlequins; 15-12  
 date: 2022-12-27 11:15:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bristol Rugby (1506.58) at Harlequins (1578.4); 15.0-12.0
+# Bristol Rugby (1506.58) at Harlequins (1578.4); 15-12
 
 # Prediction: Harlequins by 10.2
 

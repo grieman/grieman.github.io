@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy THOMAS  
-date: 2022-12-30 11:12:54.750102  
+date: 2023-01-01 11:18:41.170968  
 categories: player  
 ---
 # Teddy THOMAS
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 76.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -26,13 +26,13 @@ categories: player
 | Racing 92          |           103 |   0.601942 |
 | Biarritz Olympique |            27 |   0.240741 |
 | France             |            26 |   0.480769 |
-| La Rochelle        |            10 |   0.5      |
+| La Rochelle        |            11 |   0.545455 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Clermont Auvergne    |        13 |   0.461538 |
-| Castres Olympique    |        11 |   0.681818 |
 | Bordeaux Begles      |        11 |   0.363636 |
+| Castres Olympique    |        11 |   0.681818 |
 | Toulon               |        10 |   0.5      |
 | Stade Toulousain     |        10 |   0.4      |
 | Stade Francais Paris |        10 |   0.5      |
@@ -46,9 +46,9 @@ categories: player
 | Oyonnax              |         4 |   0.25     |
 | Lyon                 |         4 |   0.5      |
 | New Zealand          |         4 |   0        |
+| Perpignan            |         4 |   0.5      |
 | Leicester Tigers     |         3 |   1        |
 | Agen                 |         3 |   0.666667 |
-| Perpignan            |         3 |   0.333333 |
 | Saracens             |         3 |   0.666667 |
 | Scotland             |         3 |   0.333333 |
 | Wales                |         3 |   1        |

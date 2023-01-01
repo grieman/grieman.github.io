@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Gloucester Rugby at Leicester Tigers; 13.0-28.0  
+title: Gloucester Rugby at Leicester Tigers; 13-28  
 date: 2022-12-24 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Gloucester Rugby (1592.92) at Leicester Tigers (1543.95); 13.0-28.0
+# Gloucester Rugby (1592.92) at Leicester Tigers (1543.95); 13-28
 
 # Prediction: Gloucester Rugby by 1.9
 

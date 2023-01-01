@@ -4,10 +4,10 @@ title: Nevers at Soyaux-Angouleme
 date: 2023-01-06 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Nevers (~1469.5) at Soyaux-Angouleme (~1442.74)
+# Nevers (~1470.51) at Soyaux-Angouleme (~1442.74)
 
-# Prediction: Soyaux-Angouleme by 0.3
+# Prediction: Soyaux-Angouleme by 0.2
 
 
-Nevers by 2.7 on a neutral pitch
+Nevers by 2.8 on a neutral pitch
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2022-12-30 11:13:01.557408  
+date: 2023-01-01 11:19:51.012660  
 categories: player  
 ---
 # Willem Nel
@@ -23,14 +23,14 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Edinburgh           |           172 |   0.511628 |
+| Edinburgh           |           173 |   0.508671 |
 | Scotland            |            48 |   0.552083 |
 | Cheetahs            |            46 |   0.315217 |
 | Free State Cheetahs |            24 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Glasgow Warriors         |        19 |  0.578947  |
+| Glasgow Warriors         |        20 |  0.55      |
 | Munster                  |        15 |  0.133333  |
 | Benetton Treviso         |        12 |  0.583333  |
 | Ulster                   |        12 |  0.0833333 |

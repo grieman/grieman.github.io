@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Bath Rugby at Exeter Chiefs; 15.0-20.0  
+title: Bath Rugby at Exeter Chiefs; 15-20  
 date: 2022-12-24 10:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bath Rugby (1447.91) at Exeter Chiefs (1641.82); 15.0-20.0
+# Bath Rugby (1447.91) at Exeter Chiefs (1641.82); 15-20
 
 # Prediction: Exeter Chiefs by 22.4
 

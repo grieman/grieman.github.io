@@ -8,27 +8,43 @@ key: page-projections
 ## Gallagher Premiership
 
 
-[2022-12-30 Leicester Tigers (1571.03) at Sale Sharks (1550.19)](projections//2022-12-30-SaleSharks-LeicesterTigers)
+[2023-01-01 Harlequins (~1482.54) at Northampton Saints (~1519.94)](projections//2023-01-01-NorthamptonSaints-Harlequins)
 
-[2022-12-31 Newcastle Falcons (1356.64) at Bath Rugby (1501.93)](projections//2022-12-31-BathRugby-NewcastleFalcons)
+[2023-01-06 Saracens (~1672.49) at Gloucester Rugby (~1515.0)](projections//2023-01-06-GloucesterRugby-Saracens)
 
-[2022-12-31 London Irish (1553.48) at Gloucester Rugby (1570.91)](projections//2022-12-31-GloucesterRugby-LondonIrish)
+[2023-01-07 Leicester Tigers (~1549.15) at Newcastle Falcons (~1427.65)](projections//2023-01-07-NewcastleFalcons-LeicesterTigers)
 
-[2022-12-31 Exeter Chiefs (1547.01) at Saracens (1695.12)](projections//2022-12-31-Saracens-ExeterChiefs)
+[2023-01-07 Northampton Saints (~1519.94) at Exeter Chiefs (~1556.27)](projections//2023-01-07-ExeterChiefs-NorthamptonSaints)
 
-[2023-01-01 Harlequins (1487.75) at Northampton Saints (1515.49)](projections//2023-01-01-NorthamptonSaints-Harlequins)
+[2023-01-08 Bristol Rugby (~1558.11) at London Irish (~1592.01)](projections//2023-01-08-LondonIrish-BristolRugby)
+
+[2023-01-08 Sale Sharks (~1567.99) at Harlequins (~1482.54)](projections//2023-01-08-Harlequins-SaleSharks)
+## Japan Rugby League One
+
+
+[2023-01-07 Yokohama Canon Eagles (~1565.9) at Tokyo Sungoliath (~1600.3)](projections//2023-01-07-TokyoSungoliath-YokohamaCanonEagles)
+
+[2023-01-07 Shizuoka Blue Revs (~1499.31) at Toshiba Brave Lupus Tokyo (~1560.67)](projections//2023-01-07-ToshibaBraveLupusTokyo-ShizuokaBlueRevs)
+
+[2023-01-07 Mitsubishi Dynaboars (~1502.46) at Saitama Wild Knights (~1571.57)](projections//2023-01-07-SaitamaWildKnights-MitsubishiDynaboars)
+
+[2023-01-08 Kubota Spears Funabashi Tokyo-Bay (~1617.29) at Hanazono Kintetsu Liners (~1448.08)](projections//2023-01-08-HanazonoKintetsuLiners-KubotaSpearsFunabashiTokyo-Bay)
+
+[2023-01-08 Black Rams Tokyo (~1379.5) at Toyota Verblitz (~1537.86)](projections//2023-01-08-ToyotaVerblitz-BlackRamsTokyo)
+
+[2023-01-08 Kobelco Kobe Steelers (~1582.69) at Green Rockets Tokatsu (~1381.78)](projections//2023-01-08-GreenRocketsTokatsu-KobelcoKobeSteelers)
 ## Pro D2
 
 
 [2023-01-05 Montauban (~1430.67) at Biarritz Olympique (~1524.47)](projections//2023-01-05-BiarritzOlympique-Montauban)
 
-[2023-01-06 Grenoble (~1441.55) at Provence Rugby (~1446.94)](projections//2023-01-06-ProvenceRugby-Grenoble)
+[2023-01-06 Mont-de-Marsan (~1505.57) at Aurillac (~1451.61)](projections//2023-01-06-Aurillac-Mont-de-Marsan)
 
 [2023-01-06 Colomiers (~1401.93) at Carcassonne (~1386.28)](projections//2023-01-06-Carcassonne-Colomiers)
 
-[2023-01-06 Mont-de-Marsan (~1505.57) at Aurillac (~1451.61)](projections//2023-01-06-Aurillac-Mont-de-Marsan)
+[2023-01-06 Nevers (~1470.51) at Soyaux-Angouleme (~1442.74)](projections//2023-01-06-Soyaux-Angouleme-Nevers)
 
-[2023-01-06 Nevers (~1469.5) at Soyaux-Angouleme (~1442.74)](projections//2023-01-06-Soyaux-Angouleme-Nevers)
+[2023-01-06 Grenoble (~1441.55) at Provence Rugby (~1446.94)](projections//2023-01-06-ProvenceRugby-Grenoble)
 
 [2023-01-06 Vannes (~1435.53) at Massy (~1330.61)](projections//2023-01-06-Massy-Vannes)
 
@@ -38,33 +54,31 @@ key: page-projections
 ## RFU Championship
 
 
-[2022-12-31 London Scottish (~1319.84) at Richmond (~1327.07)](projections//2022-12-31-Richmond-LondonScottish)
+[2023-01-07 Ealing Trailfinders (~1638.5) at Caldy (~1322.17)](projections//2023-01-07-Caldy-EalingTrailfinders)
+
+[2023-01-07 Doncaster (~1460.28) at Cornish Pirates (~1454.63)](projections//2023-01-07-CornishPirates-Doncaster)
+
+[2023-01-07 Hartpury College (~1449.78) at London Scottish (~1312.64)](projections//2023-01-07-LondonScottish-HartpuryCollege)
 ## Top 14 Orange
 
 
-[2022-12-30 Montpellier Herault (~1589.73) at Bordeaux Begles (~1590.62)](projections//2022-12-30-BordeauxBegles-MontpellierHerault)
-
-[2022-12-31 Toulon (~1529.1) at Bayonne (~1478.05)](projections//2022-12-31-Bayonne-Toulon)
-
-[2022-12-31 Pau (~1493.72) at Stade Francais Paris (~1546.01)](projections//2022-12-31-StadeFrancaisParis-Pau)
-
-[2022-12-31 La Rochelle (~1581.8) at Perpignan (~1452.51)](projections//2022-12-31-Perpignan-LaRochelle)
-
-[2022-12-31 Racing 92 (~1539.93) at Castres Olympique (~1526.08)](projections//2022-12-31-CastresOlympique-Racing92)
-
-[2022-12-31 Brive (~1446.64) at Lyon (~1497.41)](projections//2022-12-31-Lyon-Brive)
-
 [2023-01-01 Stade Toulousain (~1623.64) at Clermont Auvergne (~1558.19)](projections//2023-01-01-ClermontAuvergne-StadeToulousain)
+
+[2023-01-07 Perpignan (~1435.7) at Clermont Auvergne (~1558.19)](projections//2023-01-07-ClermontAuvergne-Perpignan)
+
+[2023-01-07 Castres Olympique (~1512.96) at Stade Francais Paris (~1589.93)](projections//2023-01-07-StadeFrancaisParis-CastresOlympique)
+
+[2023-01-07 Stade Toulousain (~1623.64) at La Rochelle (~1592.95)](projections//2023-01-07-LaRochelle-StadeToulousain)
+
+[2023-01-07 Toulon (~1548.11) at Brive (~1471.38)](projections//2023-01-07-Brive-Toulon)
+
+[2023-01-07 Lyon (~1460.14) at Pau (~1491.84)](projections//2023-01-07-Pau-Lyon)
+
+[2023-01-07 Bayonne (~1518.59) at Bordeaux Begles (~1607.57)](projections//2023-01-07-BordeauxBegles-Bayonne)
+
+[2023-01-08 Racing 92 (~1567.09) at Montpellier Herault (~1565.68)](projections//2023-01-08-MontpellierHerault-Racing92)
 ## United Rugby Championship
 
-
-[2022-12-30 Glasgow Warriors (~1493.59) at Edinburgh (~1562.32)](projections//2022-12-30-Edinburgh-GlasgowWarriors)
-
-[2022-12-31 Lions (~1471.51) at Stormers (~1613.09)](projections//2022-12-31-Stormers-Lions)
-
-[2022-12-31 Bulls (~1521.95) at Sharks (~1590.17)](projections//2022-12-31-Sharks-Bulls)
-
-[2022-12-31 Benetton Treviso (~1510.86) at Zebre (~1404.13)](projections//2022-12-31-Zebre-BenettonTreviso)
 
 [2023-01-01 Ospreys (~1530.7) at Cardiff Blues (~1522.41)](projections//2023-01-01-CardiffBlues-Ospreys)
 
@@ -73,3 +87,27 @@ key: page-projections
 [2023-01-01 Munster (~1588.78) at Ulster (~1605.58)](projections//2023-01-01-Ulster-Munster)
 
 [2023-01-01 Connacht (~1535.07) at Leinster (~1707.1)](projections//2023-01-01-Leinster-Connacht)
+
+[2023-01-06 Lions (~1438.59) at Munster (~1588.78)](projections//2023-01-06-Munster-Lions)
+
+[2023-01-06 Bulls (~1518.17) at Dragons (~1445.95)](projections//2023-01-06-Dragons-Bulls)
+
+[2023-01-07 Zebre (~1385.11) at Edinburgh (~1549.6)](projections//2023-01-07-Edinburgh-Zebre)
+
+[2023-01-07 Scarlets (~1489.95) at Cardiff Blues (~1522.41)](projections//2023-01-07-CardiffBlues-Scarlets)
+
+[2023-01-07 Sharks (~1628.65) at Connacht (~1535.07)](projections//2023-01-07-Connacht-Sharks)
+
+[2023-01-07 Ulster (~1605.58) at Benetton Treviso (~1516.64)](projections//2023-01-07-BenettonTreviso-Ulster)
+
+[2023-01-07 Leinster (~1707.1) at Ospreys (~1530.7)](projections//2023-01-07-Ospreys-Leinster)
+
+[2023-01-08 Stormers (~1638.07) at Glasgow Warriors (~1522.59)](projections//2023-01-08-GlasgowWarriors-Stormers)
+# Domestic Leagues
+
+## Japan Rugby League One Division 3
+
+
+[2023-01-07 Chugoku Red Regulions (~1225.42) at Kyuden Voltex (~1377.15)](projections//2023-01-07-KyudenVoltex-ChugokuRedRegulions)
+
+[2023-01-08 Skyactivs Hiroshima (~1200.26) at Kurita Water Gush (~1342.44)](projections//2023-01-08-KuritaWaterGush-SkyactivsHiroshima)

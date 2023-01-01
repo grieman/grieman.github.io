@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Sale Sharks at Newcastle Falcons; 14.0-20.0  
+title: Sale Sharks at Newcastle Falcons; 14-20  
 date: 2022-12-23 14:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Sale Sharks (1521.82) at Newcastle Falcons (1401.82); 14.0-20.0
+# Sale Sharks (1521.82) at Newcastle Falcons (1401.82); 14-20
 
 # Prediction: Sale Sharks by 9.0
 

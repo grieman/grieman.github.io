@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Saracens at London Irish; 20.0-29.0  
+title: Saracens at London Irish; 20-29  
 date: 2022-12-23 14:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Saracens (1674.21) at London Irish (1553.33); 20.0-29.0
+# Saracens (1674.21) at London Irish (1553.33); 20-29
 
 # Prediction: Saracens by 9.1
 
