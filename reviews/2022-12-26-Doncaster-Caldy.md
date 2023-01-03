@@ -4,7 +4,7 @@ title: Caldy at Doncaster; 14-52
 date: 2022-12-26 15:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Caldy (1347.09) at Doncaster (1423.0); 14-52
+# Caldy (1347.1) at Doncaster (1423.0); 14-52
 
 # Prediction: Doncaster by 10.6
 
@@ -39,11 +39,11 @@ Doncaster by 8.1 on a neutral pitch
 |             59 | [Ezra Hinchcliffe](..//playerfiles//EzraHinchcliffe_cleaned.md)      |      92.14 |                31 |       10 |                35 |      92.72 | [Sam Olver](..//playerfiles//SamOlver_cleaned.md)                       |             80 |
 |             52 | [Benjamin Jones](..//playerfiles//BenjaminJones_cleaned.md)          |      90.33 |                26 |       11 |                94 |     117.75 | [Maliq Holden](..//playerfiles//MaliqHolden_cleaned.md)                 |             80 |
 |             80 | [Michael Cartmill](..//playerfiles//MichaelCartmill_cleaned.md)      |      90.35 |                27 |       12 |                34 |      91.72 | [Connor Edwards](..//playerfiles//ConnorEdwards_cleaned.md)             |             68 |
-|             80 | [Dan Bibby](..//playerfiles//DanBibby_cleaned.md)                    |      87.93 |                20 |       13 |                49 |      95.53 | [Joe Margetts](..//playerfiles//JoeMargetts_cleaned.md)                 |             80 |
-|             80 | [Nick Royle](..//playerfiles//NickRoyle_cleaned.md)                  |      88.88 |                20 |       14 |                44 |      91.79 | [George Simpson](..//playerfiles//GeorgeSimpson_cleaned.md)             |             80 |
+|             80 | [Dan Bibby](..//playerfiles//DanBibby_cleaned.md)                    |      87.93 |                20 |       13 |                49 |      95.54 | [Joe Margetts](..//playerfiles//JoeMargetts_cleaned.md)                 |             80 |
+|             80 | [Nick Royle](..//playerfiles//NickRoyle_cleaned.md)                  |      88.88 |                20 |       14 |                44 |      91.78 | [George Simpson](..//playerfiles//GeorgeSimpson_cleaned.md)             |             80 |
 |             80 | [Elliott Gourlay](..//playerfiles//ElliottGourlay_cleaned.md)        |      92.48 |                39 |       15 |                65 |     100.33 | [Billy McBryde](..//playerfiles//BillyMcBryde_cleaned.md)               |             48 |
 |             40 | [William Sanderson](..//playerfiles//WilliamSanderson_cleaned.md)    |      94.16 |               nan |       16 |               nan |      96.48 | [James Wayland](..//playerfiles//JamesWayland_cleaned.md)               |             32 |
-|             28 | [Michael Barlow](..//playerfiles//MichaelBarlow_cleaned.md)          |      91.95 |                35 |       17 |               nan |      73.41 | [Robbie Smith](..//playerfiles//RobbieSmith_cleaned.md)                 |             32 |
+|             28 | [Michael Barlow](..//playerfiles//MichaelBarlow_cleaned.md)          |      91.96 |                35 |       17 |               nan |      73.4  | [Robbie Smith](..//playerfiles//RobbieSmith_cleaned.md)                 |             32 |
 |             25 | [Harrison Crowe](..//playerfiles//HarrisonCrowe_cleaned.md)          |      85.41 |                13 |       18 |                51 |      94.93 | [Martin Molina](..//playerfiles//MartinMolina_cleaned.md)               |             22 |
 |             21 | [Joseph Murray](..//playerfiles//JosephMurray_cleaned.md)            |      90.53 |                28 |       19 |                60 |      95.78 | [Mak Wilson](..//playerfiles//MakWilson_cleaned.md)                     |             20 |
 |             21 | [Rhys Hayes](..//playerfiles//RhysHayes_cleaned.md)                  |      86.99 |                25 |       20 |                50 |      91.3  | [Will Holling](..//playerfiles//WillHolling_cleaned.md)                 |             20 |

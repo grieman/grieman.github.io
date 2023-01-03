@@ -4,7 +4,7 @@ title: Bulls at Sharks; 20-47
 date: 2022-12-31 15:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Bulls (1571.73) at Sharks (1625.76); 20-47
+# Bulls (1571.73) at Sharks (1625.77); 20-47
 
 # Prediction: Sharks by 8.4
 

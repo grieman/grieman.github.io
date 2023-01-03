@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willgriff John  
-date: 2023-01-01 11:18:34.249925  
+date: 2023-01-03 11:28:18.866998  
 categories: player  
 ---
 # Willgriff John
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Sale Sharks   |            85 |   0.523529 |
 | Northland     |            18 |   0.361111 |
-| Scarlets      |            16 |   0.3125   |
+| Scarlets      |            17 |   0.352941 |
 | Doncaster     |            15 |   0.533333 |
 | Wales         |             2 |   0.5      |
 | Cardiff Blues |             1 |   0        |
@@ -63,7 +63,8 @@ categories: player
 | Glasgow Warriors    |         2 |   0        |
 | Bordeaux Begles     |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
-| Cardiff Blues       |         1 |   1        |
+| Dragons             |         2 |   1        |
+| Canterbury          |         1 |   0        |
 | Bayonne             |         1 |   1        |
 | Tasman              |         1 |   0        |
 | Taranaki            |         1 |   0        |
@@ -71,11 +72,10 @@ categories: player
 | Southland           |         1 |   0        |
 | South Africa        |         1 |   0        |
 | Scarlets            |         1 |   1        |
-| Canterbury          |         1 |   0        |
 | Cheetahs            |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
 | Jersey              |         1 |   0        |
 | Cornish Pirates     |         1 |   0        |
-| Dragons             |         1 |   1        |
 | Nottingham          |         1 |   1        |
 | Edinburgh           |         1 |   0        |
 | Fiji                |         1 |   1        |

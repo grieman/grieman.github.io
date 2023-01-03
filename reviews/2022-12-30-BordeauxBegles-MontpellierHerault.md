@@ -4,7 +4,7 @@ title: Montpellier Herault at Bordeaux Begles; 10-40
 date: 2022-12-30 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Montpellier Herault (1579.5) at Bordeaux Begles (1564.4); 10-40
+# Montpellier Herault (1579.5) at Bordeaux Begles (1564.41); 10-40
 
 # Prediction: Bordeaux Begles by 1.5
 

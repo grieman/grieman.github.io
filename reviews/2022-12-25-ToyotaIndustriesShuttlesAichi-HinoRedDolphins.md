@@ -4,7 +4,7 @@ title: Hino Red Dolphins at Toyota Industries Shuttles Aichi; 31-37
 date: 2022-12-25 00:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Hino Red Dolphins (1493.84) at Toyota Industries Shuttles Aichi (1501.18); 31-37
+# Hino Red Dolphins (1493.84) at Toyota Industries Shuttles Aichi (1501.19); 31-37
 
 # Prediction: Toyota Industries Shuttles Aichi by 3.7
 
@@ -38,7 +38,7 @@ Toyota Industries Shuttles Aichi by 6.4 on a neutral pitch
 |             71 | [Augustine Pulu](..//playerfiles//AugustinePulu_cleaned.md)   |     112.77 |                91 |        9 |                87 |     109.98 | [Keita Fujiwara](..//playerfiles//KeitaFujiwara_cleaned.md)                 |             68 |
 |             80 | [Riku Kitahara](..//playerfiles//RikuKitahara_cleaned.md)     |     111.47 |                86 |       10 |                65 |     100.16 | [Akihiro Shimizu](..//playerfiles//AkihiroShimizu_cleaned.md)               |             80 |
 |             80 | [Chance Peni](..//playerfiles//ChancePeni_cleaned.md)         |     105.71 |                82 |       11 |                62 |      99.27 | [Tom Haddad](..//playerfiles//TomHaddad_cleaned.md)                         |             80 |
-|             80 | [TJ Faiane](..//playerfiles//TJFaiane_cleaned.md)             |     105.98 |                79 |       12 |                73 |     103.35 | [Josh Matavesi](..//playerfiles//JoshMatavesi_cleaned.md)                   |             80 |
+|             80 | [TJ Faiane](..//playerfiles//TJFaiane_cleaned.md)             |     105.98 |                79 |       12 |                73 |     103.36 | [Josh Matavesi](..//playerfiles//JoshMatavesi_cleaned.md)                   |             80 |
 |             79 | [Taiki Kawai](..//playerfiles//TaikiKawai_cleaned.md)         |     107.2  |                81 |       13 |                68 |     101.42 | [Hitoshi Matsumoto](..//playerfiles//HitoshiMatsumoto_cleaned.md)           |             74 |
 |             80 | [Ryo Kikkawa](..//playerfiles//RyoKikkawa_cleaned.md)         |      95.25 |                48 |       14 |                 9 |      82.51 | [Joe Kamana](..//playerfiles//JoeKamana_cleaned.md)                         |             68 |
 |             71 | [Taroma Togo](..//playerfiles//TaromaTogo_cleaned.md)         |     104.48 |                75 |       15 |                39 |      92.54 | [Tim Swiel](..//playerfiles//TimSwiel_cleaned.md)                           |             80 |

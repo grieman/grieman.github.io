@@ -4,7 +4,7 @@ title: Racing 92 at Castres Olympique; 26-26
 date: 2022-12-31 17:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Racing 92 (1567.37) at Castres Olympique (1549.52); 26-26
+# Racing 92 (1567.4) at Castres Olympique (1549.52); 26-26
 
 # Prediction: Castres Olympique by 1.2
 
@@ -27,7 +27,7 @@ Racing 92 by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player                                                           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                       |   Home Minutes |
 |---------------:|:----------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------------------------|---------------:|
-|             56 | [Guram Gogichashvili](..//playerfiles//GuramGogichashvili_cleaned.md) |     109.17 |                90 |        1 |                40 |      93.87 | [Quentin Walcker](..//playerfiles//QuentinWalcker_cleaned.md)                     |             76 |
+|             56 | [Guram Gogichashvili](..//playerfiles//GuramGogichashvili_cleaned.md) |     109.18 |                90 |        1 |                40 |      93.87 | [Quentin Walcker](..//playerfiles//QuentinWalcker_cleaned.md)                     |             76 |
 |             72 | [Camille Chat](..//playerfiles//CamilleChat_cleaned.md)               |     107.15 |                89 |        2 |                95 |     115.44 | [Gaetan Barlot](..//playerfiles//GaetanBarlot_cleaned.md)                         |             76 |
 |             72 | [Trevor Nyakane](..//playerfiles//TrevorNyakane_cleaned.md)           |      99.37 |                66 |        3 |                78 |     102.86 | [Wilfrid Hounkpatin](..//playerfiles//WilfridHounkpatin_cleaned.md)               |             59 |
 |             80 | [Boris Palu](..//playerfiles//BorisPalu_cleaned.md)                   |     110.69 |                89 |        4 |                65 |     102.47 | [Florent Vanverberghe](..//playerfiles//FlorentVanverberghe_cleaned.md)           |             50 |
@@ -39,10 +39,10 @@ Racing 92 by 4.3 on a neutral pitch
 |             80 | [Antoine Gibert](..//playerfiles//AntoineGibert_cleaned.md)           |     105.57 |                79 |       10 |                95 |     124.31 | [Benjamin Urdapilleta](..//playerfiles//BenjaminUrdapilleta_cleaned.md)           |             80 |
 |             80 | [Juan Imhoff](..//playerfiles//JuanImhoff_cleaned.md)                 |     118.65 |                94 |       11 |                85 |     108.28 | [Filipo Nakosi](..//playerfiles//FilipoNakosi_cleaned.md)                         |             80 |
 |             67 | [Henry Chavancy](..//playerfiles//HenryChavancy_cleaned.md)           |     120.6  |                96 |       12 |                65 |     100.54 | [Adrien Seguret](..//playerfiles//AdrienSeguret_cleaned.md)                       |             80 |
-|             80 | [Francis Saili](..//playerfiles//FrancisSaili_cleaned.md)             |      97.1  |                54 |       13 |                39 |      95.66 | [Vilimoni Botitu](..//playerfiles//VilimoniBotitu_cleaned.md)                     |             80 |
-|             80 | [Donovan Taofifenua](..//playerfiles//DonovanTaofifenua_cleaned.md)   |      94.88 |                47 |       14 |                65 |     100.5  | [Antoine Zeghdar](..//playerfiles//AntoineZeghdar_cleaned.md)                     |             41 |
+|             80 | [Francis Saili](..//playerfiles//FrancisSaili_cleaned.md)             |      97.11 |                54 |       13 |                39 |      95.66 | [Vilimoni Botitu](..//playerfiles//VilimoniBotitu_cleaned.md)                     |             80 |
+|             80 | [Donovan Taofifenua](..//playerfiles//DonovanTaofifenua_cleaned.md)   |      94.89 |                47 |       14 |                65 |     100.5  | [Antoine Zeghdar](..//playerfiles//AntoineZeghdar_cleaned.md)                     |             41 |
 |             80 | [Max Spring](..//playerfiles//MaxSpring_cleaned.md)                   |      92.01 |                38 |       15 |                94 |     117.54 | [Geoffrey Palis](..//playerfiles//GeoffreyPalis_cleaned.md)                       |             80 |
-|             48 | [Cameron Woki](..//playerfiles//CameronWoki_cleaned.md)               |      89.29 |                28 |       16 |                66 |     100.51 | [Julien Dumora](..//playerfiles//JulienDumora_cleaned.md)                         |             39 |
+|             48 | [Cameron Woki](..//playerfiles//CameronWoki_cleaned.md)               |      89.3  |                28 |       16 |                66 |     100.51 | [Julien Dumora](..//playerfiles//JulienDumora_cleaned.md)                         |             39 |
 |             27 | [Nolann Le Garrec](..//playerfiles//NolannLeGarrec_cleaned.md)        |      94.21 |                41 |       17 |               nan |      97.33 | [Baptiste Cope](..//playerfiles//BaptisteCope_cleaned.md)                         |             39 |
 |             24 | [Eddy Ben Arous](..//playerfiles//EddyBenArous_cleaned.md)            |     111.33 |                93 |       18 |                65 |      99.82 | [Asier Usarraga](..//playerfiles//AsierUsarraga_cleaned.md)                       |             30 |
 |             13 | [Baptiste Chouzenoux](..//playerfiles//BaptisteChouzenoux_cleaned.md) |      86.86 |                16 |       19 |                71 |     101.87 | [Gauthier Doubrere](..//playerfiles//GauthierDoubrere_cleaned.md)                 |             30 |
