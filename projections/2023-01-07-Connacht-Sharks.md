@@ -4,10 +4,10 @@ title: Sharks at Connacht
 date: 2023-01-07 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Sharks (~1635.15) at Connacht (~1535.07)
+# Sharks (~1752.02) at Connacht (~1625.57)
 
-# Prediction: Sharks by 3.0
+# Prediction: Sharks by 8.6
 
 
-Sharks by 10.0 on a neutral pitch
+Sharks by 12.6 on a neutral pitch
 

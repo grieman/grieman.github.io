@@ -5,6 +5,10 @@ with open('secrets.yml', 'r') as file:
     secrets = yaml.safe_load(file)
 sys.path.append(secrets['elo_proj_path'])
 
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
+
 from player_club_classes import team_elo, Player, Club, Match, team_elo_minutes
 import pandas as pd
 import numpy as np
@@ -27,7 +31,7 @@ from plot_functions import *
 
 ## Need to ge the current home advantage? as 5 as of 8/5, 3 as of 11/8, 7 as of 12/31
 # this should REALLY not be hard coded
-home_advantage = 7
+home_advantage = 4
 named_players = []
 
 def elo_contribition(player_df, column):
@@ -175,8 +179,8 @@ for recent_game in recent_games:
         named_players.append(home_team['Home Player'])
         named_players.append(away_team['Away Player'])
 
-        home_team['Home Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
-        away_team['Away Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
+        home_team['Home Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
+        away_team['Away Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
 
         all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
         all_players = all_players.sort_values('Number')
@@ -216,23 +220,26 @@ for recent_game in recent_games:
 
         ## Win probability plots
         if isinstance(recent_game['commentary_df'], np.ndarray):
-            match_events = real_time_preds.real_time_df(recent_game)
-            '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
-            ax2 = plt.twinx()
-            sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
-            pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
-            pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
-            pred_plot.figure.clf()'''
-            prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
-            plt.close()
-            score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
-            plt.close()
+            try:
+                match_events = real_time_preds.real_time_df(recent_game)
+                '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
+                ax2 = plt.twinx()
+                sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
+                pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
+                pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
+                pred_plot.figure.clf()'''
+                prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
+                plt.close()
+                score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
+                plt.close()
 
-
-            rec_match_md.new_header(level = 2, title = 'Scores over Time')
-            rec_match_md.new_paragraph(f'![In Match Scores]({score_path})')
-            rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
-            rec_match_md.new_paragraph(f'![In Match Predictions]({prob_path})')
+                rec_match_md.new_header(level = 2, title = 'Scores over Time')
+                rec_match_md.new_paragraph(f'![In Match Scores]({score_path})')
+                rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
+                rec_match_md.new_paragraph(f'![In Match Predictions]({prob_path})')
+                 
+            except:
+                pass
 
 
         rec_match_md.new_header(level = 1, title = f'Pre-Match Prediction: {lineup_pred_text}')
@@ -346,8 +353,8 @@ for future_game in future_games:
     named_players.append(home_team['Home Player'])
     named_players.append(away_team['Away Player'])
 
-    home_team['Home Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
-    away_team['Away Player'] = [f"[{name}](playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
+    home_team['Home Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
+    away_team['Away Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
 
     all_players = pd.merge(home_team, away_team, on = 'Number')
     all_players = all_players.sort_values('Number')
@@ -391,7 +398,8 @@ for future_game in future_games:
     #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
 
     match_dir_strings.append(f'[{future_game["date"].date().strftime("%Y-%m-%d")} {main_header}](projections//{file_name})')
-    match_comps.append(future_game['competition'][:-5])
+    #short_comp_name = future_game['competition'][:-5] if future_game['competition'][-4:].isnumeric() else future_game['competition']
+    match_comps.append(future_game['competition'])
     match_levels.append(future_game['comp_level'])
     match_dates.append(future_game["date"])
     future_names.append(pretty_name)
@@ -534,11 +542,11 @@ clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 
 ## run generate playerpage for all named players
 import generate_playerpage
-named_players = list(set(pd.concat(named_players)))
+named_players = list(set(list(pd.concat(named_players))))
 '''with open(r'named_players.txt', 'w') as fp:
     fp.write("\n".join(str(item) for item in named_players))'''
 
-generate_playerpage.main(named_players)
+#generate_playerpage.main(named_players, regenerate = False)
 
 
 files = glob.glob('temp/*')

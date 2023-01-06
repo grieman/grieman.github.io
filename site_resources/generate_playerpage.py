@@ -18,6 +18,7 @@ import datetime
 import pickle
 from IPython.display import display
 from tabulate import tabulate
+import tqdm
 
 pd.options.display.max_columns = None
 
@@ -34,7 +35,7 @@ def clean_leading_space(orig_name, new_name):
                 else:
                     out_file.write(line)
 
-def main(named_players):
+def main(named_players, regenerate = False):
     ## Load in + prep data
     team_colors = pd.DataFrame(team_color_dict).T
     team_colors.columns = ['Primary', 'Secondary']
@@ -65,10 +66,8 @@ def main(named_players):
 
     player_elo = pd.concat(player_elo_list).reset_index(drop=True)
     player_elo = pd.merge(player_elo, team_colors, on = 'Team', how = 'left')
-    player_elo.Date = pd.to_datetime(player_elo.Date)
-    player_elo.end_elo = player_elo.end_elo.astype(float)
     player_elo['elo_change'] = player_elo.end_elo - player_elo.start_elo
-
+    player_elo.Date = pd.to_datetime(player_elo.Date)
 
     player_elo['week_num'] = player_elo['Date'].dt.isocalendar().week
     player_elo['month'] = player_elo['Date'].dt.month
@@ -78,11 +77,17 @@ def main(named_players):
 
     starters = player_elo[player_elo.Position != 'R']
     starters = starters.dropna(subset=['Position'])
+
+    starters = player_elo[player_elo.Position != 'R']
+    starters = starters.dropna(subset=['Position'])
+
+    starters.end_elo = starters.end_elo.astype("float")
     last_date_of_months = player_elo.groupby(pd.Grouper(key="Date", freq='M')).Date.max()
+    #last_date_of_months = last_date_of_months[last_date_of_months >= pd.to_datetime("1-1-2008")]
     percentile_list = []
 
     for date in last_date_of_months:
-        current_players = starters[starters.Date < date]
+        current_players = starters[starters.Date <= date]
         current_players = current_players[current_players.Date >= date - datetime.timedelta(days=365)]
         current_players = current_players[current_players.groupby(['Full Name'])['Date'].transform(max) == current_players['Date']].copy()
         percentile_df = current_players.groupby('Position')['end_elo'].quantile([0.05, 0.1, 0.25, 0.5, 0.75, 0.9, 0.95]).reset_index()
@@ -103,8 +108,13 @@ def main(named_players):
     percentile_df['dates'] = pd.to_datetime(percentile_df['year'].astype(int).astype(str)  + percentile_df['month'].astype(int).astype(str).str.pad(2, fillchar = '0'), format='%Y%m')
 
     ## Data loaded
-    for player in named_players:
-        # Takeshi Hino
+    # Limit named_players to those that are not already in playerfiles
+    if not regenerate:
+        existing_files = glob.glob(os.path.join("playerfiles", "*.md"))
+        existing_files = [x.split("_")[0].split("\\")[1] for x in existing_files]
+        named_players = [x for x in named_players if x.replace(" ", "") not in existing_files]
+
+    for player in tqdm.tqdm(named_players):
         playerid = player_elo[player_elo['Full Name'] == player].Unicode_ID.iloc[0]
         player_df = player_elo[player_elo.Unicode_ID == playerid].copy()
         player_df['opponent'] = np.where(player_df.Team == player_df['Home Team'], player_df['Away Team'], player_df['Home Team'])
@@ -114,7 +124,6 @@ def main(named_players):
         player_df.loc[player_df['Home Score'] == player_df['Away Score'], 'win'] = 0.5
 
         name = player_df.Full_Name.iloc[0]
-        #print(name)
         current_elo = player_df.end_elo.iloc[-1]
         try:
             current_percentile = player_df.merge(make_current_percentile(starters, player_df.Date.iloc[-1])).percentile[0]
