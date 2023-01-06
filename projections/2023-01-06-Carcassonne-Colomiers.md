@@ -4,10 +4,10 @@ title: Colomiers at Carcassonne
 date: 2023-01-06 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Colomiers (~1541.8) at Carcassonne (~1502.73)
+# Colomiers (~1480.77) at Carcassonne (~1395.88)
 
-# Prediction: Carcassonne by 0.1
+# Prediction: Colomiers by 4.5
 
 
-Colomiers by 3.9 on a neutral pitch
+Colomiers by 8.5 on a neutral pitch
 

@@ -1,0 +1,60 @@
+---  
+layout: page  
+title: Quentin WITT  
+date: 2023-01-06 11:51:18.383320  
+categories: player  
+---
+# Quentin WITT
+
+## Positions: FL, N8
+
+## Current elo: 104.0
+
+## Current Percentile: 47.0
+
+# Elo History
+
+
+![elo history](history_QuentinWITT.png)
+# Match History
+
+
+| Team             |   Appearances |   Win Rate |
+|:-----------------|--------------:|-----------:|
+| Soyaux-Angouleme |            84 |   0.458333 |
+| Provence Rugby   |            25 |   0.66     |
+| US Bressane      |            20 |   0.275    |
+| Montauban        |            10 |   0.55     |
+| Oyonnax          |             7 |   0.428571 |
+
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Mont-de-Marsan             |        10 |   0.45     |
+| Colomiers                  |        10 |   0.5      |
+| Aurillac                   |         9 |   0.666667 |
+| Beziers                    |         9 |   0.666667 |
+| Carcassonne                |         9 |   0.333333 |
+| Biarritz Olympique         |         8 |   0.375    |
+| Nevers                     |         8 |   0.5625   |
+| Grenoble                   |         8 |   0.5      |
+| Montauban                  |         8 |   0.5      |
+| Provence Rugby             |         7 |   0.714286 |
+| Vannes                     |         6 |   0.583333 |
+| Oyonnax                    |         6 |   0.166667 |
+| Rouen                      |         5 |   0.2      |
+| Agen                       |         5 |   0.4      |
+| Bayonne                    |         5 |   0.6      |
+| Dax                        |         4 |   0.5      |
+| Perpignan                  |         4 |   0        |
+| US Bressane                |         4 |   0.625    |
+| Massy                      |         4 |   0.625    |
+| Narbonne                   |         3 |   0.333333 |
+| Pau                        |         3 |   0        |
+| Bourgoin-Jallieu           |         2 |   0.5      |
+| Roval Drome XV             |         2 |   0.5      |
+| Valence Romans Drome Rugby |         2 |   0.75     |
+| Albi                       |         1 |   0        |
+| Lyon                       |         1 |   0        |
+| La Rochelle                |         1 |   0        |
+| Auch                       |         1 |   1        |
+| Soyaux-Angouleme           |         1 |   1        |

@@ -1,0 +1,87 @@
+---  
+layout: page  
+title: Trevor Ntando NYAKANE  
+date: 2023-01-06 11:51:58.892462  
+categories: player  
+---
+# Trevor Ntando NYAKANE
+
+## Positions: P
+
+## Country: South Africa
+
+## Current elo: 106.0
+
+## Current Percentile: 80.0
+
+# Elo History
+
+
+![elo history](history_TrevorNtandoNYAKANE.png)
+# Match History
+
+
+| Team                |   Appearances |   Win Rate |
+|:--------------------|--------------:|-----------:|
+| Bulls               |            72 |   0.423611 |
+| South Africa        |            59 |   0.618644 |
+| Cheetahs            |            48 |   0.40625  |
+| Free State Cheetahs |            23 |   0.565217 |
+| Racing 92           |            19 |   0.657895 |
+| Blue Bulls          |             7 |   0.571429 |
+
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Stormers                 |        16 |  0.3125    |
+| Sharks                   |        14 |  0.607143  |
+| New Zealand              |        11 |  0.318182  |
+| Argentina                |        10 |  0.9       |
+| Lions                    |         9 |  0.444444  |
+| Australia                |         8 |  0.5       |
+| Wales                    |         7 |  0.428571  |
+| Queensland Reds          |         7 |  0.571429  |
+| Melbourne Rebels         |         7 |  0.714286  |
+| Chiefs                   |         7 |  0.0714286 |
+| Brumbies                 |         7 |  0.142857  |
+| Bulls                    |         6 |  0.166667  |
+| Crusaders                |         6 |  0.166667  |
+| Blues                    |         6 |  0.25      |
+| Golden Lions             |         6 |  0.416667  |
+| Griquas                  |         6 |  0.833333  |
+| Highlanders              |         6 |  0.416667  |
+| Jaguares                 |         5 |  0.2       |
+| Blue Bulls               |         5 |  0.5       |
+| Natal Sharks             |         5 |  0.2       |
+| Western Force            |         5 |  0.8       |
+| Hurricanes               |         5 |  0.2       |
+| Scotland                 |         4 |  1         |
+| New South Wales Waratahs |         4 |  0.75      |
+| Western Province         |         4 |  0.5       |
+| Italy                    |         4 |  0.75      |
+| Cheetahs                 |         4 |  0.5       |
+| Pau                      |         3 |  1         |
+| Bordeaux Begles          |         3 |  0.333333  |
+| Sunwolves                |         3 |  0.666667  |
+| British and Irish Lions  |         3 |  0.666667  |
+| Southern Kings           |         3 |  1         |
+| Ireland                  |         3 |  0.333333  |
+| Samoa                    |         2 |  1         |
+| Stade Francais Paris     |         2 |  0.5       |
+| Brive                    |         2 |  1         |
+| Japan                    |         2 |  0.5       |
+| England                  |         2 |  0.5       |
+| Leopards                 |         2 |  1         |
+| Perpignan                |         1 |  0         |
+| Pumas                    |         1 |  1         |
+| Clermont Auvergne        |         1 |  1         |
+| Leinster                 |         1 |  0         |
+| Castres Olympique        |         1 |  0.5       |
+| France                   |         1 |  1         |
+| Montpellier Herault      |         1 |  1         |
+| Stade Toulousain         |         1 |  1         |
+| Free State Cheetahs      |         1 |  1         |
+| Georgia                  |         1 |  1         |
+| Toulon                   |         1 |  1         |
+| United States of America |         1 |  1         |
+| Biarritz Olympique       |         1 |  1         |
+| La Rochelle              |         1 |  0         |

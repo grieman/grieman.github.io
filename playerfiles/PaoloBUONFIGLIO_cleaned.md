@@ -1,0 +1,45 @@
+---  
+layout: page  
+title: Paolo BUONFIGLIO  
+date: 2023-01-06 11:51:37.048060  
+categories: player  
+---
+# Paolo BUONFIGLIO
+
+## Positions: P
+
+## Country: Italy
+
+## Current elo: 93.0
+
+## Current Percentile: 51.0
+
+# Elo History
+
+
+![elo history](history_PaoloBUONFIGLIO.png)
+# Match History
+
+
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Zebre  |            23 |   0.130435 |
+| Italy  |             1 |   1        |
+
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Leinster         |         3 |   0        |
+| Ospreys          |         3 |   0.333333 |
+| Benetton Treviso |         2 |   0        |
+| Dragons          |         2 |   1        |
+| Edinburgh        |         2 |   0        |
+| Glasgow Warriors |         2 |   0        |
+| Scarlets         |         2 |   0        |
+| Bulls            |         1 |   0        |
+| Cardiff Blues    |         1 |   0        |
+| Connacht         |         1 |   0        |
+| Munster          |         1 |   0        |
+| Namibia          |         1 |   1        |
+| Sharks           |         1 |   0        |
+| Stormers         |         1 |   0        |
+| Ulster           |         1 |   0        |

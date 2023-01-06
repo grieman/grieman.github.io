@@ -4,10 +4,10 @@ title: Bulls at Dragons
 date: 2023-01-06 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bulls (~1642.83) at Dragons (~1555.62)
+# Bulls (~1555.23) at Dragons (~1493.31)
 
-# Prediction: Bulls by 4.7
+# Prediction: Bulls by 2.2
 
 
-Bulls by 8.7 on a neutral pitch
+Bulls by 6.2 on a neutral pitch
 

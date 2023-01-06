@@ -4,10 +4,10 @@ title: Black Rams Tokyo at Toyota Verblitz
 date: 2023-01-08 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Black Rams Tokyo (~1513.45) at Toyota Verblitz (~1675.75)
+# Black Rams Tokyo (~1368.91) at Toyota Verblitz (~1584.48)
 
-# Prediction: Toyota Verblitz by 20.2
+# Prediction: Toyota Verblitz by 25.6
 
 
-Toyota Verblitz by 16.2 on a neutral pitch
+Toyota Verblitz by 21.6 on a neutral pitch
 

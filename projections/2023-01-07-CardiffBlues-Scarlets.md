@@ -4,10 +4,10 @@ title: Scarlets at Cardiff Blues
 date: 2023-01-07 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Scarlets (~1640.65) at Cardiff Blues (~1635.71)
+# Scarlets (~1534.88) at Cardiff Blues (~1532.37)
 
-# Prediction: Cardiff Blues by 3.5
+# Prediction: Cardiff Blues by 3.7
 
 
-Scarlets by 0.5 on a neutral pitch
+Scarlets by 0.3 on a neutral pitch
 

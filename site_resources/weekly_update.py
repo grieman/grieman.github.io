@@ -543,10 +543,10 @@ clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 ## run generate playerpage for all named players
 import generate_playerpage
 named_players = list(set(list(pd.concat(named_players))))
-'''with open(r'named_players.txt', 'w') as fp:
-    fp.write("\n".join(str(item) for item in named_players))'''
+#with open(r'named_players.txt', 'w') as fp:
+#    fp.write("\n".join(str(item) for item in named_players))
 
-#generate_playerpage.main(named_players, regenerate = False)
+generate_playerpage.main(named_players, regenerate = False)
 
 
 files = glob.glob('temp/*')

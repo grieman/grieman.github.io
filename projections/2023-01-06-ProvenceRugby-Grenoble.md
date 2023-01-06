@@ -4,10 +4,10 @@ title: Grenoble at Provence Rugby
 date: 2023-01-06 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Grenoble (~1557.33) at Provence Rugby (~1547.91)
+# Grenoble (~1442.38) at Provence Rugby (~1455.63)
 
-# Prediction: Provence Rugby by 3.1
+# Prediction: Provence Rugby by 5.3
 
 
-Grenoble by 0.9 on a neutral pitch
+Provence Rugby by 1.3 on a neutral pitch
 
