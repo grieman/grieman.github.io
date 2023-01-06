@@ -4,10 +4,10 @@ title: Sale Sharks at Harlequins
 date: 2023-01-08 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Sale Sharks (~1567.99) at Harlequins (~1488.2)
+# Sale Sharks (~1701.91) at Harlequins (~1605.69)
 
-# Prediction: Sale Sharks by 5.0
+# Prediction: Sale Sharks by 5.6
 
 
-Sale Sharks by 8.0 on a neutral pitch
+Sale Sharks by 9.6 on a neutral pitch
 
