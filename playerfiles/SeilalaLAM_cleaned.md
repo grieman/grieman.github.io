@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seilala LAM  
-date: 2023-01-06 11:51:25.983813  
+date: 2023-01-13 11:29:02.402850  
 categories: player  
 ---
 # Seilala LAM
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 68.0
+## Current elo: 69.0
 
 ## Current Percentile: 2.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Perpignan        |            97 |   0.536082 |
+| Perpignan        |            98 |   0.530612 |
 | Samoa            |            17 |   0.558824 |
 | Canberra Vikings |             6 |   0.5      |
 
@@ -31,19 +31,19 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Castres Olympique          |         5 |   0.2      |
 | Vannes                     |         5 |   1        |
-| Colomiers                  |         4 |   0.5      |
+| Montauban                  |         4 |   0.75     |
 | Grenoble                   |         4 |   0.75     |
 | Aurillac                   |         4 |   0.875    |
 | Biarritz Olympique         |         4 |   1        |
 | Toulon                     |         4 |   0.25     |
 | La Rochelle                |         4 |   0        |
 | Soyaux-Angouleme           |         4 |   0.875    |
-| Montauban                  |         4 |   0.75     |
+| Clermont Auvergne          |         4 |   0        |
+| Colomiers                  |         4 |   0.5      |
 | Oyonnax                    |         3 |   0.666667 |
 | Pau                        |         3 |   0        |
 | Lyon                       |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.333333 |
-| Clermont Auvergne          |         3 |   0        |
 | Montpellier Herault        |         3 |   0        |
 | Carcassonne                |         3 |   1        |
 | Stade Toulousain           |         3 |   0.333333 |

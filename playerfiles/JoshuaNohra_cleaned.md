@@ -1,0 +1,40 @@
+---  
+layout: page  
+title: Joshua Nohra  
+date: 2023-01-13 11:34:33.205063  
+categories: player  
+---
+# Joshua Nohra
+
+## Positions: W
+
+## Current elo: 96.0
+
+## Current Percentile: 60.0
+
+# Elo History
+
+
+![elo history](history_JoshuaNohra.png)
+# Match History
+
+
+| Team                     |   Appearances |   Win Rate |
+|:-------------------------|--------------:|-----------:|
+| Hanazono Kintetsu Liners |            18 |   0.722222 |
+
+| Opponent                          |   Matches |   Win Rate |
+|:----------------------------------|----------:|-----------:|
+| Hino Red Dolphins                 |         2 |          1 |
+| Kamaishi Seawaves                 |         2 |          1 |
+| Mie Honda Heat                    |         2 |          1 |
+| Mitsubishi Dynaboars              |         2 |          0 |
+| Skyactivs Hiroshima               |         2 |          1 |
+| Coca-Cola Red Sparks              |         1 |          1 |
+| Green Rockets Tokatsu             |         1 |          0 |
+| Kobelco Kobe Steelers             |         1 |          0 |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
+| Kyuden Voltex                     |         1 |          1 |
+| Mazda Blue Zoomers                |         1 |          1 |
+| Shimizu Blue Sharks               |         1 |          1 |
+| Toyota Industries Shuttles Aichi  |         1 |          1 |

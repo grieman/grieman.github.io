@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sazi SANDI  
-date: 2023-01-06 11:51:42.908233  
+date: 2023-01-13 11:23:11.037473  
 categories: player  
 ---
 # Sazi SANDI
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 28.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Western Province |            15 |   0.5      |
-| Stormers         |             6 |   0.833333 |
+| Stormers         |             7 |   0.714286 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,5 +35,6 @@ categories: player
 | Clermont Auvergne   |         1 |       0    |
 | Edinburgh           |         1 |       1    |
 | Free State Cheetahs |         1 |       1    |
+| Glasgow Warriors    |         1 |       0    |
 | London Irish        |         1 |       1    |
 | Scarlets            |         1 |       1    |

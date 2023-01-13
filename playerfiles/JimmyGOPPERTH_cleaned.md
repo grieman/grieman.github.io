@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jimmy GOPPERTH  
-date: 2023-01-06 11:52:02.687568  
+date: 2023-01-13 11:23:41.276851  
 categories: player  
 ---
 # Jimmy GOPPERTH
 
 ## Positions: FH, C
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 34.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Leinster          |            61 |   0.696721 |
 | Blues             |            11 |   0.272727 |
 | Wellington        |            11 |   0.636364 |
-| Leicester Tigers  |             6 |   0.5      |
+| Leicester Tigers  |             7 |   0.428571 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,7 +40,7 @@ categories: player
 | Gloucester Rugby         |        16 |   0.46875  |
 | London Irish             |        15 |   0.666667 |
 | Worcester Warriors       |        13 |   0.730769 |
-| Newcastle Falcons        |        11 |   0.818182 |
+| Newcastle Falcons        |        12 |   0.75     |
 | Bristol Rugby            |         9 |   0.777778 |
 | Wasps                    |         8 |   0.6875   |
 | Ospreys                  |         7 |   0.714286 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom ECOCHARD  
-date: 2023-01-06 11:51:14.202875  
+date: 2023-01-13 11:27:33.832817  
 categories: player  
 ---
 # Tom ECOCHARD
 
 ## Positions: SH
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 56.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |           209 |        0.5 |
+| Perpignan |           210 |   0.497619 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -48,18 +48,18 @@ categories: player
 | Bordeaux Begles            |         5 |   0.3      |
 | Castres Olympique          |         5 |   0.4      |
 | Massy                      |         4 |   0.75     |
-| Pau                        |         4 |   0.25     |
+| Clermont Auvergne          |         4 |   0        |
 | Stade Toulousain           |         4 |   0.25     |
 | Rouen                      |         4 |   0.5      |
+| Pau                        |         4 |   0.25     |
+| Provence Rugby             |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
-| Provence Rugby             |         3 |   0.333333 |
 | Brive                      |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
-| Clermont Auvergne          |         3 |   0        |
-| Munster                    |         2 |   0        |
 | Stade Francais Paris       |         2 |   0        |
+| Munster                    |         2 |   0        |
 | Connacht                   |         2 |   0        |
 | Glasgow Warriors           |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |

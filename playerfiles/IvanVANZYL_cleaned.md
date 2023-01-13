@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-01-06 11:51:23.678286  
+date: 2023-01-13 11:22:56.123138  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Bulls        |            37 |   0.459459 |
-| Saracens     |            36 |   0.763889 |
+| Saracens     |            37 |   0.77027  |
 | Blue Bulls   |            28 |   0.607143 |
 | South Africa |             6 |   0.5      |
 
@@ -35,18 +35,18 @@ categories: player
 | Stormers                 |         5 |   0.4      |
 | Sharks                   |         5 |   0.8      |
 | Jaguares                 |         5 |   0.2      |
-| Griquas                  |         4 |   1        |
+| Harlequins               |         4 |   1        |
 | London Irish             |         4 |   0.375    |
 | Lions                    |         4 |   0.5      |
 | Pumas                    |         4 |   0.75     |
 | Exeter Chiefs            |         4 |   0.75     |
 | Natal Sharks             |         4 |   0.25     |
-| Harlequins               |         4 |   1        |
+| Gloucester Rugby         |         4 |   0.5      |
 | Golden Lions             |         4 |   0.5      |
+| Griquas                  |         4 |   1        |
 | Northampton Saints       |         3 |   1        |
 | Highlanders              |         3 |   0.5      |
 | Bath Rugby               |         3 |   1        |
-| Gloucester Rugby         |         3 |   0.333333 |
 | England                  |         3 |   0.666667 |
 | Queensland Reds          |         2 |   0.5      |
 | Sale Sharks              |         2 |   1        |

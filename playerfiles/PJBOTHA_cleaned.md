@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: PJ BOTHA  
-date: 2023-01-06 11:51:05.102945  
+date: 2023-01-13 11:29:52.025167  
 categories: player  
 ---
 # PJ BOTHA
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 84.0
 
-## Current Percentile: 30.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Golden Lions |            14 |   0.392857 |
-| Lions        |            11 |   0.5      |
+| Lions        |            12 |   0.458333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Bulls               |         1 |       0    |
 | Cardiff Blues       |         1 |       1    |
 | Edinburgh           |         1 |       1    |
+| Munster             |         1 |       0    |
 | Ospreys             |         1 |       1    |
 | Scarlets            |         1 |       1    |
 | Sharks              |         1 |       0    |

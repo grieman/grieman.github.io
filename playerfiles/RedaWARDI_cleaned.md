@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda WARDI  
-date: 2023-01-06 11:51:53.455450  
+date: 2023-01-13 11:29:16.964332  
 categories: player  
 ---
 # Reda WARDI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            72 |   0.597222 |
+| La Rochelle |            73 |   0.60274  |
 | Beziers     |            58 |   0.534483 |
 | France      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Stade Toulousain     |         9 |   0.222222 |
 | Bayonne              |         8 |   0.5      |
-| Stade Toulousain     |         8 |   0.125    |
 | Biarritz Olympique   |         6 |   0.5      |
 | Stade Francais Paris |         6 |   0.5      |
 | Racing 92            |         6 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen VARNEY  
-date: 2023-01-06 11:51:28.332054  
+date: 2023-01-13 11:26:56.365013  
 categories: player  
 ---
 # Stephen VARNEY
@@ -23,30 +23,30 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            24 |   0.541667 |
+| Gloucester Rugby |            25 |   0.52     |
 | Italy            |            12 |   0.166667 |
 | Hartpury College |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | London Irish       |         5 |   0.8      |
-| Newcastle Falcons  |         3 |   1        |
 | Bristol Rugby      |         3 |   0.333333 |
+| Newcastle Falcons  |         3 |   1        |
 | Leicester Tigers   |         3 |   0.333333 |
-| France             |         2 |   0        |
-| Northampton Saints |         2 |   0.5      |
 | Harlequins         |         2 |   0        |
+| Saracens           |         2 |   0        |
+| Northampton Saints |         2 |   0.5      |
 | Worcester Warriors |         2 |   1        |
+| France             |         2 |   0        |
 | England            |         2 |   0        |
 | Ireland            |         1 |   0        |
-| Cornish Pirates    |         1 |   0        |
 | Australia          |         1 |   1        |
 | New Zealand        |         1 |   0        |
+| Cornish Pirates    |         1 |   0        |
 | Bordeaux Begles    |         1 |   1        |
-| Bath Rugby         |         1 |   0        |
 | Sale Sharks        |         1 |   0        |
 | Samoa              |         1 |   1        |
-| Saracens           |         1 |   0        |
+| Bath Rugby         |         1 |   0        |
 | Scotland           |         1 |   0        |
 | South Africa       |         1 |   0        |
 | Wales              |         1 |   0        |

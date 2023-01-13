@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-01-06 11:51:43.689490  
+date: 2023-01-13 11:31:47.212828  
 categories: player  
 ---
 # Uini ATONIO
@@ -23,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           252 |   0.609127 |
+| La Rochelle |           253 |   0.610672 |
 | France      |            45 |   0.533333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Racing 92            |        16 |   0.5      |
+| Stade Toulousain     |        16 |   0.3125   |
 | Lyon                 |        15 |   0.7      |
-| Stade Toulousain     |        15 |   0.266667 |
 | Pau                  |        14 |   0.785714 |
 | Montpellier Herault  |        14 |   0.535714 |
 | Castres Olympique    |        14 |   0.571429 |

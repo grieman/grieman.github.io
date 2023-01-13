@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre HUGUET  
-date: 2023-01-06 11:51:04.297849  
+date: 2023-01-13 11:34:39.370677  
 categories: player  
 ---
 # Pierre HUGUET
 
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 88.0
 
-## Current Percentile: 6.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Carcassonne |           102 |   0.534314 |
-| Bayonne     |            14 |   0.607143 |
+| Bayonne     |            15 |   0.566667 |
 | Dax         |            13 |   0.153846 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -46,19 +46,19 @@ categories: player
 | US Bressane                |         3 |   1        |
 | Narbonne                   |         3 |   0.666667 |
 | Massy                      |         2 |   0.5      |
-| Brive                      |         2 |   0.5      |
 | Toulon                     |         2 |   0.5      |
-| Valence Romans Drome Rugby |         1 |   0        |
-| Stade Toulousain           |         1 |   1        |
-| Stade Francais Paris       |         1 |   0        |
-| Carcassonne                |         1 |   0        |
-| Roval Drome XV             |         1 |   1        |
-| Racing 92                  |         1 |   1        |
-| Lyon                       |         1 |   1        |
-| Castres Olympique          |         1 |   0        |
-| Clermont Auvergne          |         1 |   1        |
-| Pau                        |         1 |   0.5      |
+| Bordeaux Begles            |         2 |   0.5      |
+| Brive                      |         2 |   0.5      |
 | La Rochelle                |         1 |   1        |
+| Pau                        |         1 |   0.5      |
+| Clermont Auvergne          |         1 |   1        |
+| Castres Olympique          |         1 |   0        |
+| Lyon                       |         1 |   1        |
+| Roval Drome XV             |         1 |   1        |
+| Carcassonne                |         1 |   0        |
+| Stade Francais Paris       |         1 |   0        |
+| Stade Toulousain           |         1 |   1        |
 | Montpellier Herault        |         1 |   0        |
 | Benetton Treviso           |         1 |   0        |
-| Bordeaux Begles            |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   0        |
+| Racing 92                  |         1 |   1        |

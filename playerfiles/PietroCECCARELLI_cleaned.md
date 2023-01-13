@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro CECCARELLI  
-date: 2023-01-06 11:52:01.115114  
+date: 2023-01-13 11:36:12.888725  
 categories: player  
 ---
 # Pietro CECCARELLI
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 105.0
+## Current elo: 106.0
 
 ## Current Percentile: 78.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Zebre       |            45 |   0.177778 |
-| Brive       |            39 |   0.346154 |
+| Brive       |            40 |   0.3625   |
 | Edinburgh   |            23 |   0.586957 |
 | Oyonnax     |            23 |   0.217391 |
 | Italy       |            21 |   0.285714 |
@@ -33,47 +33,47 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Lyon                     |         7 |   0.428571 |
-| Bordeaux Begles          |         7 |   0.214286 |
 | Cardiff Blues            |         7 |   0.428571 |
+| Bordeaux Begles          |         7 |   0.214286 |
 | La Rochelle              |         7 |   0.357143 |
+| Dragons                  |         6 |   0.5      |
 | Scarlets                 |         6 |   0.5      |
 | Castres Olympique        |         6 |   0.166667 |
-| Dragons                  |         6 |   0.5      |
-| Benetton Treviso         |         5 |   0.2      |
-| Glasgow Warriors         |         5 |   0.2      |
-| Munster                  |         5 |   0.2      |
-| Stade Toulousain         |         5 |   0        |
 | Montpellier Herault      |         5 |   0.3      |
 | Connacht                 |         5 |   0.2      |
-| Stade Francais Paris     |         4 |   0        |
+| Munster                  |         5 |   0.2      |
+| Glasgow Warriors         |         5 |   0.2      |
+| Benetton Treviso         |         5 |   0.2      |
+| Stade Toulousain         |         5 |   0        |
 | Racing 92                |         4 |   0        |
+| Stade Francais Paris     |         4 |   0        |
+| Toulon                   |         4 |   0.5      |
 | Leinster                 |         4 |   0        |
 | Pau                      |         4 |   0.5      |
 | Agen                     |         4 |   0.75     |
 | Edinburgh                |         4 |   0.25     |
 | Clermont Auvergne        |         4 |   0.375    |
 | Brive                    |         4 |   0.25     |
+| Ireland                  |         3 |   0        |
 | England                  |         3 |   0        |
 | Wasps                    |         3 |   0.333333 |
-| Toulon                   |         3 |   0.333333 |
-| Ireland                  |         3 |   0        |
 | Gloucester Rugby         |         2 |   0        |
-| Southern Kings           |         2 |   0.5      |
 | Worcester Warriors       |         2 |   1        |
 | Wales                    |         2 |   0.5      |
 | Ulster                   |         2 |   0        |
 | Australia                |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
-| Zebre                    |         2 |   0.5      |
+| Southern Kings           |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
 | Ospreys                  |         2 |   0        |
 | New Zealand              |         2 |   0        |
 | Argentina                |         2 |   0        |
+| Zebre                    |         2 |   0.5      |
 | South Africa             |         1 |   0        |
 | Samoa                    |         1 |   1        |
-| Perpignan                |         1 |   1        |
+| Biarritz Olympique       |         1 |   0        |
 | Canada                   |         1 |   1        |
+| Perpignan                |         1 |   1        |
+| Carcassonne              |         1 |   1        |
 | United States of America |         1 |   1        |
 | Uruguay                  |         1 |   1        |
-| Carcassonne              |         1 |   1        |
-| Biarritz Olympique       |         1 |   0        |

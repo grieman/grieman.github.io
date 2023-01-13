@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thierry PAIVA  
-date: 2023-01-06 11:51:29.086987  
+date: 2023-01-13 11:32:26.402009  
 categories: player  
 ---
 # Thierry PAIVA
 
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 71.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 |:----------------|--------------:|-----------:|
 | Bordeaux Begles |            93 |   0.569892 |
 | Carcassonne     |            19 |   0.5      |
-| La Rochelle     |            12 |   0.75     |
+| La Rochelle     |            13 |   0.769231 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Stade Toulousain     |         9 |   0.333333 |
 | Montpellier Herault  |         9 |   0.666667 |
 | Toulon               |         8 |   0.5      |
-| Stade Toulousain     |         8 |   0.25     |
 | Racing 92            |         8 |   0.625    |
 | Agen                 |         7 |   0.714286 |
 | Perpignan            |         7 |   0.785714 |

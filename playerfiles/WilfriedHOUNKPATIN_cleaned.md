@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfried HOUNKPATIN  
-date: 2023-01-06 11:50:58.896596  
+date: 2023-01-13 11:36:00.830462  
 categories: player  
 ---
 # Wilfried HOUNKPATIN
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 108.0
+## Current elo: 109.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,17 +23,17 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            97 |   0.592784 |
+| Castres Olympique |            98 |   0.586735 |
 | Narbonne          |             3 |   0.333333 |
 | France            |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Racing 92            |         9 |  0.388889  |
+| Stade Francais Paris |         8 |  0.375     |
 | Montpellier Herault  |         8 |  0.625     |
 | Toulon               |         7 |  0.428571  |
 | Stade Toulousain     |         7 |  0.5       |
-| Stade Francais Paris |         7 |  0.428571  |
 | Bordeaux Begles      |         7 |  0.0714286 |
 | Pau                  |         7 |  0.857143  |
 | Agen                 |         6 |  0.833333  |

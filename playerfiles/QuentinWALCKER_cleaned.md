@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin WALCKER  
-date: 2023-01-06 11:51:55.796241  
+date: 2023-01-13 11:36:46.777407  
 categories: player  
 ---
 # Quentin WALCKER
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 72.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Perpignan         |            66 |   0.651515 |
-| Castres Olympique |            31 |   0.580645 |
+| Castres Olympique |            32 |   0.5625   |
 | France            |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,8 +32,8 @@ categories: player
 | Biarritz Olympique         |         6 |   0.666667 |
 | Montauban                  |         5 |   0.8      |
 | Stade Toulousain           |         5 |   0.4      |
+| Stade Francais Paris       |         5 |   0.4      |
 | Mont-de-Marsan             |         4 |   0.5      |
-| Stade Francais Paris       |         4 |   0.5      |
 | Bordeaux Begles            |         4 |   0.125    |
 | Soyaux-Angouleme           |         4 |   0.875    |
 | Racing 92                  |         4 |   0.375    |

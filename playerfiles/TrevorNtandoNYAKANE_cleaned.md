@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Trevor Ntando NYAKANE  
-date: 2023-01-06 11:51:58.892462  
+date: 2023-01-13 11:30:53.935122  
 categories: player  
 ---
 # Trevor Ntando NYAKANE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | South Africa        |            59 |   0.618644 |
 | Cheetahs            |            48 |   0.40625  |
 | Free State Cheetahs |            23 |   0.565217 |
-| Racing 92           |            19 |   0.657895 |
+| Racing 92           |            20 |   0.625    |
 | Blue Bulls          |             7 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -70,6 +70,7 @@ categories: player
 | Brive                    |         2 |  1         |
 | Japan                    |         2 |  0.5       |
 | England                  |         2 |  0.5       |
+| Montpellier Herault      |         2 |  0.5       |
 | Leopards                 |         2 |  1         |
 | Perpignan                |         1 |  0         |
 | Pumas                    |         1 |  1         |
@@ -77,7 +78,6 @@ categories: player
 | Leinster                 |         1 |  0         |
 | Castres Olympique        |         1 |  0.5       |
 | France                   |         1 |  1         |
-| Montpellier Herault      |         1 |  1         |
 | Stade Toulousain         |         1 |  1         |
 | Free State Cheetahs      |         1 |  1         |
 | Georgia                  |         1 |  1         |

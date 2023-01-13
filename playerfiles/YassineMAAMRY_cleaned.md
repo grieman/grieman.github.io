@@ -1,0 +1,57 @@
+---  
+layout: page  
+title: Yassine MAAMRY  
+date: 2023-01-13 11:27:41.264295  
+categories: player  
+---
+# Yassine MAAMRY
+
+## Positions: L
+
+## Current elo: 80.0
+
+## Current Percentile: 12.0
+
+# Elo History
+
+
+![elo history](history_YassineMAAMRY.png)
+# Match History
+
+
+| Team           |   Appearances |   Win Rate |
+|:---------------|--------------:|-----------:|
+| Beziers        |           133 |   0.488722 |
+| Provence Rugby |             7 |   0.285714 |
+
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Aurillac           |        12 |   0.416667 |
+| Oyonnax            |        11 |   0.272727 |
+| Vannes             |        10 |   0.3      |
+| Mont-de-Marsan     |        10 |   0.4      |
+| Montauban          |        10 |   0.75     |
+| Soyaux-Angouleme   |         8 |   0.375    |
+| Nevers             |         8 |   0.3125   |
+| Biarritz Olympique |         7 |   0.571429 |
+| Carcassonne        |         7 |   0.428571 |
+| Provence Rugby     |         5 |   0.4      |
+| Perpignan          |         5 |   0.6      |
+| Massy              |         5 |   1        |
+| Grenoble           |         5 |   0.6      |
+| Agen               |         4 |   1        |
+| US Bressane        |         4 |   0.25     |
+| Rouen              |         4 |   0.5      |
+| Bayonne            |         3 |   0.666667 |
+| Albi               |         3 |   0.333333 |
+| Narbonne           |         3 |   0.333333 |
+| Colomiers          |         3 |   0.666667 |
+| Bourgoin-Jallieu   |         3 |   0.666667 |
+| Dax                |         2 |   1        |
+| Brive              |         2 |   0.5      |
+| Tarbes             |         1 |   0        |
+| La Rochelle        |         1 |   0        |
+| Roval Drome XV     |         1 |   1        |
+| Beziers            |         1 |   0        |
+| Lyon               |         1 |   0        |
+| Pau                |         1 |   0        |

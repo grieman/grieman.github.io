@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yohan BEHEREGARAY  
-date: 2023-01-06 11:51:58.116668  
+date: 2023-01-13 11:30:52.726123  
 categories: player  
 ---
 # Yohan BEHEREGARAY
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 84.0
 
-## Current Percentile: 40.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            99 |   0.555556 |
+| Clermont Auvergne |           100 |       0.56 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,10 +38,10 @@ categories: player
 | Brive                |         5 |   0.4      |
 | Lyon                 |         4 |   0.75     |
 | Bayonne              |         3 |   0        |
+| Perpignan            |         3 |   0.666667 |
 | Dragons              |         2 |   1        |
 | Grenoble             |         2 |   0.75     |
 | Biarritz Olympique   |         2 |   1        |
-| Perpignan            |         2 |   0.5      |
 | Ulster               |         2 |   0.5      |
 | Ospreys              |         2 |   1        |
 | Bath Rugby           |         2 |   1        |

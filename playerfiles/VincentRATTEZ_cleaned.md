@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent RATTEZ  
-date: 2023-01-06 11:51:52.675683  
+date: 2023-01-13 11:28:53.562251  
 categories: player  
 ---
 # Vincent RATTEZ
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | La Rochelle         |            97 |   0.608247 |
 | Narbonne            |            92 |   0.467391 |
-| Montpellier Herault |            53 |   0.566038 |
+| Montpellier Herault |            54 |   0.574074 |
 | France              |             8 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -35,7 +35,7 @@ categories: player
 | Bordeaux Begles      |        12 |   0.416667 |
 | Castres Olympique    |        11 |   0.454545 |
 | Stade Toulousain     |        11 |   0.454545 |
-| Racing 92            |        10 |   0.65     |
+| Racing 92            |        11 |   0.681818 |
 | Toulon               |         9 |   0.444444 |
 | Clermont Auvergne    |         9 |   0.388889 |
 | Agen                 |         9 |   0.777778 |

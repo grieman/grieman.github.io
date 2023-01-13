@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sekou MACALOU  
-date: 2023-01-06 11:51:10.952688  
+date: 2023-01-13 11:24:41.523907  
 categories: player  
 ---
 # Sekou MACALOU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |           129 |   0.515504 |
+| Stade Francais Paris |           130 |   0.519231 |
 | Massy                |            14 |   0.285714 |
 | France               |            11 |   0.772727 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Stade Toulousain    |        12 |   0.416667 |
+| Castres Olympique   |        11 |   0.636364 |
 | Racing 92           |        11 |   0.363636 |
-| Castres Olympique   |        10 |   0.6      |
 | Pau                 |        10 |   0.8      |
 | La Rochelle         |         9 |   0.666667 |
 | Toulon              |         9 |   0.333333 |
