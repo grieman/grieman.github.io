@@ -1,0 +1,80 @@
+---  
+layout: page  
+title: Charles Brousse  
+date: 2023-01-17 11:45:50.831492  
+categories: player  
+---
+# Charles Brousse
+
+## Positions: C
+
+## Current elo: 117.0
+
+## Current Percentile: 83.0
+
+# Elo History
+
+
+![elo history](history_CharlesBrousse.png)
+# Match History
+
+
+| Team                |   Appearances |   Win Rate |
+|:--------------------|--------------:|-----------:|
+| Provence Rugby      |            65 |   0.530769 |
+| Bordeaux Begles     |            55 |   0.363636 |
+| Carqueiranne-Hyères |            14 |   0.357143 |
+
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Mont-de-Marsan             |         8 |   0.375    |
+| Oyonnax                    |         8 |   0.25     |
+| Grenoble                   |         7 |   0.571429 |
+| Vannes                     |         6 |   0.666667 |
+| Nevers                     |         5 |   0.6      |
+| Colomiers                  |         5 |   0.2      |
+| Carcassonne                |         5 |   0.6      |
+| Biarritz Olympique         |         4 |   0.5      |
+| Rouen                      |         4 |   0.375    |
+| Brive                      |         4 |   0.25     |
+| Clermont Auvergne          |         4 |   0.375    |
+| Beziers                    |         4 |   0.75     |
+| Aurillac                   |         4 |   0.5      |
+| Montauban                  |         3 |   1        |
+| Castres Olympique          |         3 |   0.833333 |
+| Stade Francais Paris       |         3 |   0.666667 |
+| US Bressane                |         3 |   0.333333 |
+| Toulon                     |         3 |   0.333333 |
+| Bayonne                    |         3 |   0.333333 |
+| Perpignan                  |         3 |   0.666667 |
+| Roval Drome XV             |         2 |   1        |
+| Montpellier Herault        |         2 |   0        |
+| Soyaux-Angouleme           |         2 |   0        |
+| Stade Toulousain           |         2 |   0.5      |
+| Massy                      |         2 |   0.5      |
+| Lyon                       |         2 |   0.5      |
+| London Welsh               |         2 |   1        |
+| London Irish               |         2 |   0        |
+| Suresnes                   |         2 |   0.5      |
+| Gloucester Rugby           |         2 |   0        |
+| Dragons                    |         2 |   0.5      |
+| Bourgoin-Jallieu           |         2 |   0        |
+| Bath Rugby                 |         2 |   0        |
+| Edinburgh                  |         2 |   0        |
+| Tarbes                     |         1 |   1        |
+| Rennes                     |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   1        |
+| Agen                       |         1 |   0        |
+| Racing 92                  |         1 |   0        |
+| Ospreys                    |         1 |   0        |
+| Nice                       |         1 |   0        |
+| Narbonne                   |         1 |   0        |
+| Mogliano                   |         1 |   1        |
+| Albi                       |         1 |   1        |
+| La Rochelle                |         1 |   1        |
+| Exeter Chiefs              |         1 |   0        |
+| Dax                        |         1 |   0        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| Chambery                   |         1 |   1        |
+| Blagnac                    |         1 |   0        |
+| Wasps                      |         1 |   0        |

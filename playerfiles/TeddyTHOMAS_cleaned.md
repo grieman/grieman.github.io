@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy THOMAS  
-date: 2023-01-13 11:22:41.696537  
+date: 2023-01-17 11:42:55.781943  
 categories: player  
 ---
 # Teddy THOMAS
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 117.0
+## Current elo: 116.0
 
-## Current Percentile: 86.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Racing 92          |           103 |   0.601942 |
 | Biarritz Olympique |            27 |   0.240741 |
 | France             |            26 |   0.480769 |
-| La Rochelle        |            12 |   0.583333 |
+| La Rochelle        |            13 |   0.615385 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,24 +39,25 @@ categories: player
 | La Rochelle          |         9 |   0.388889 |
 | Brive                |         8 |   0.75     |
 | Munster              |         6 |   0.583333 |
-| Pau                  |         5 |   0.6      |
 | Montpellier Herault  |         5 |   0.4      |
 | Grenoble             |         5 |   0.6      |
-| Ireland              |         4 |   0.5      |
-| Oyonnax              |         4 |   0.25     |
+| Pau                  |         5 |   0.6      |
 | Lyon                 |         4 |   0.5      |
+| Oyonnax              |         4 |   0.25     |
 | New Zealand          |         4 |   0        |
+| Ireland              |         4 |   0.5      |
 | Perpignan            |         4 |   0.5      |
 | Leicester Tigers     |         3 |   1        |
 | Agen                 |         3 |   0.666667 |
-| Saracens             |         3 |   0.666667 |
 | Scotland             |         3 |   0.333333 |
 | Wales                |         3 |   1        |
+| Saracens             |         3 |   0.666667 |
 | Racing 92            |         2 |   0.5      |
-| Ospreys              |         2 |   1        |
-| South Africa         |         2 |   0        |
 | Sale Sharks          |         2 |   0        |
+| South Africa         |         2 |   0        |
+| Ulster               |         2 |   1        |
 | Leinster             |         2 |   0        |
+| Ospreys              |         2 |   1        |
 | Italy                |         2 |   1        |
 | Fiji                 |         2 |   0.5      |
 | England              |         2 |   0.5      |
@@ -69,5 +70,4 @@ categories: player
 | Glasgow Warriors     |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
-| Ulster               |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |

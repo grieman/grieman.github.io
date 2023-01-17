@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Rémi BOURDEAU  
-date: 2023-01-13 11:26:22.586695  
+date: 2023-01-17 11:45:13.257015  
 categories: player  
 ---
 # Rémi BOURDEAU
 
 ## Positions: FL, N8
 
-## Current elo: 139.0
+## Current elo: 133.0
 
 ## Current Percentile: 97.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Beziers     |            90 |   0.572222 |
-| La Rochelle |            58 |   0.637931 |
+| La Rochelle |            59 |   0.644068 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -58,6 +58,6 @@ categories: player
 | Oyonnax              |         2 |   0.5      |
 | Provence Rugby       |         2 |   1        |
 | Nevers               |         2 |   1        |
+| Ulster               |         2 |   1        |
 | Northampton Saints   |         1 |   1        |
-| Ulster               |         1 |   1        |
 | RC Enisei            |         1 |   1        |

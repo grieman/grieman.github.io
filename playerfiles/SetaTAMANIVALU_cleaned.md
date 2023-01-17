@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta TAMANIVALU  
-date: 2023-01-13 11:32:24.018833  
+date: 2023-01-17 11:34:24.865364  
 categories: player  
 ---
 # Seta TAMANIVALU
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 115.0
+## Current elo: 114.0
 
 ## Current Percentile: 86.0
 
@@ -27,7 +27,7 @@ categories: player
 | Bordeaux Begles           |            37 |   0.594595 |
 | Crusaders                 |            33 |   0.878788 |
 | Chiefs                    |            22 |   0.681818 |
-| Toshiba Brave Lupus Tokyo |            16 |   0.6875   |
+| Toshiba Brave Lupus Tokyo |            17 |   0.647059 |
 | New Zealand               |             4 |   1        |
 | Fiji                      |             2 |   0.5      |
 
@@ -56,31 +56,31 @@ categories: player
 | Castres Olympique                 |         3 |   0.666667 |
 | Crusaders                         |         3 |   1        |
 | Clermont Auvergne                 |         3 |   0.666667 |
-| Cheetahs                          |         2 |   1        |
+| Queensland Reds                   |         2 |   1        |
+| Stade Francais Paris              |         2 |   1        |
 | Stade Toulousain                  |         2 |   0        |
-| Brive                             |         2 |   0.5      |
 | Stormers                          |         2 |   1        |
 | Sunwolves                         |         2 |   1        |
 | Saitama Wild Knights              |         2 |   0        |
-| Tokyo Sungoliath                  |         2 |   0.5      |
-| Queensland Reds                   |         2 |   1        |
+| Cheetahs                          |         2 |   1        |
 | Perpignan                         |         2 |   1        |
 | Pau                               |         2 |   0        |
+| Tokyo Sungoliath                  |         2 |   0.5      |
 | Northland                         |         2 |   1        |
-| Toulon                            |         2 |   0.5      |
 | New South Wales Waratahs          |         2 |   0.5      |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
 | Montpellier Herault               |         2 |   0.25     |
+| Toulon                            |         2 |   0.5      |
 | Toyota Verblitz                   |         2 |   0.5      |
 | Lyon                              |         2 |   0.5      |
 | La Rochelle                       |         2 |   0        |
 | Wales                             |         2 |   1        |
 | Wasps                             |         2 |   1        |
 | Hawke's Bay                       |         2 |   0.5      |
-| Stade Francais Paris              |         2 |   1        |
+| Brive                             |         2 |   0.5      |
 | Tonga                             |         1 |   1        |
-| Black Rams Tokyo                  |         1 |   1        |
 | British and Irish Lions           |         1 |   0        |
+| Black Rams Tokyo                  |         1 |   1        |
 | Australia                         |         1 |   1        |
 | Western Force                     |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |
@@ -90,6 +90,7 @@ categories: player
 | Grenoble                          |         1 |   1        |
 | Otago                             |         1 |   0        |
 | North Harbour                     |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   0        |
 | Connacht                          |         1 |   0        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | Kobelco Kobe Steelers             |         1 |   1        |

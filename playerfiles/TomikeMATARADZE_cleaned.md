@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomike MATARADZE  
-date: 2023-01-13 11:34:55.338808  
+date: 2023-01-17 11:38:11.343182  
 categories: player  
 ---
 # Tomike MATARADZE
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 78.0
+## Current elo: 76.0
 
 ## Current Percentile: 7.0
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Nevers  |            71 |   0.514085 |
+| Nevers  |            72 |   0.506944 |
 | Georgia |             3 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         7 |   0.642857 |
+| Oyonnax                    |         6 |   0.166667 |
 | Aurillac                   |         6 |   0.5      |
 | Montauban                  |         5 |   0.4      |
 | Provence Rugby             |         5 |   0.8      |
-| Oyonnax                    |         5 |   0.2      |
 | Colomiers                  |         5 |   0.4      |
 | Grenoble                   |         4 |   0.375    |
 | Rouen                      |         4 |   1        |

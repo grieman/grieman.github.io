@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Trevor Ntando NYAKANE  
-date: 2023-01-13 11:30:53.935122  
+date: 2023-01-17 11:36:51.025990  
 categories: player  
 ---
 # Trevor Ntando NYAKANE
@@ -27,7 +27,7 @@ categories: player
 | South Africa        |            59 |   0.618644 |
 | Cheetahs            |            48 |   0.40625  |
 | Free State Cheetahs |            23 |   0.565217 |
-| Racing 92           |            20 |   0.625    |
+| Racing 92           |            21 |   0.642857 |
 | Blue Bulls          |             7 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,26 +38,26 @@ categories: player
 | Argentina                |        10 |  0.9       |
 | Lions                    |         9 |  0.444444  |
 | Australia                |         8 |  0.5       |
-| Wales                    |         7 |  0.428571  |
 | Queensland Reds          |         7 |  0.571429  |
 | Melbourne Rebels         |         7 |  0.714286  |
 | Chiefs                   |         7 |  0.0714286 |
 | Brumbies                 |         7 |  0.142857  |
+| Wales                    |         7 |  0.428571  |
 | Bulls                    |         6 |  0.166667  |
 | Crusaders                |         6 |  0.166667  |
 | Blues                    |         6 |  0.25      |
 | Golden Lions             |         6 |  0.416667  |
 | Griquas                  |         6 |  0.833333  |
 | Highlanders              |         6 |  0.416667  |
-| Jaguares                 |         5 |  0.2       |
-| Blue Bulls               |         5 |  0.5       |
 | Natal Sharks             |         5 |  0.2       |
+| Blue Bulls               |         5 |  0.5       |
 | Western Force            |         5 |  0.8       |
 | Hurricanes               |         5 |  0.2       |
+| Jaguares                 |         5 |  0.2       |
 | Scotland                 |         4 |  1         |
+| Italy                    |         4 |  0.75      |
 | New South Wales Waratahs |         4 |  0.75      |
 | Western Province         |         4 |  0.5       |
-| Italy                    |         4 |  0.75      |
 | Cheetahs                 |         4 |  0.5       |
 | Pau                      |         3 |  1         |
 | Bordeaux Begles          |         3 |  0.333333  |
@@ -65,23 +65,24 @@ categories: player
 | British and Irish Lions  |         3 |  0.666667  |
 | Southern Kings           |         3 |  1         |
 | Ireland                  |         3 |  0.333333  |
+| Montpellier Herault      |         2 |  0.5       |
 | Samoa                    |         2 |  1         |
+| Leopards                 |         2 |  1         |
 | Stade Francais Paris     |         2 |  0.5       |
 | Brive                    |         2 |  1         |
-| Japan                    |         2 |  0.5       |
 | England                  |         2 |  0.5       |
-| Montpellier Herault      |         2 |  0.5       |
-| Leopards                 |         2 |  1         |
+| Japan                    |         2 |  0.5       |
 | Perpignan                |         1 |  0         |
 | Pumas                    |         1 |  1         |
-| Clermont Auvergne        |         1 |  1         |
-| Leinster                 |         1 |  0         |
+| Harlequins               |         1 |  1         |
+| Free State Cheetahs      |         1 |  1         |
 | Castres Olympique        |         1 |  0.5       |
 | France                   |         1 |  1         |
-| Stade Toulousain         |         1 |  1         |
-| Free State Cheetahs      |         1 |  1         |
 | Georgia                  |         1 |  1         |
+| Clermont Auvergne        |         1 |  1         |
+| Stade Toulousain         |         1 |  1         |
+| Leinster                 |         1 |  0         |
 | Toulon                   |         1 |  1         |
 | United States of America |         1 |  1         |
-| Biarritz Olympique       |         1 |  1         |
 | La Rochelle              |         1 |  0         |
+| Biarritz Olympique       |         1 |  1         |

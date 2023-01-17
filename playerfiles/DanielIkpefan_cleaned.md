@@ -1,0 +1,66 @@
+---  
+layout: page  
+title: Daniel Ikpefan  
+date: 2023-01-17 11:28:25.860193  
+categories: player  
+---
+# Daniel Ikpefan
+
+## Positions: W
+
+## Current elo: 80.0
+
+## Current Percentile: 21.0
+
+# Elo History
+
+
+![elo history](history_DanielIkpefan.png)
+# Match History
+
+
+| Team    |   Appearances |   Win Rate |
+|:--------|--------------:|-----------:|
+| Toulon  |            51 |   0.539216 |
+| Oyonnax |            49 |   0.377551 |
+| Pau     |            18 |   0.5      |
+
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| La Rochelle          |         9 |   0.277778 |
+| Brive                |         8 |   0.5      |
+| Lyon                 |         8 |   0.5      |
+| Racing 92            |         7 |   0.285714 |
+| Stade Francais Paris |         7 |   0.285714 |
+| Agen                 |         6 |   0.666667 |
+| Clermont Auvergne    |         6 |   0.75     |
+| Stade Toulousain     |         6 |   0.333333 |
+| Pau                  |         6 |   0.666667 |
+| Bordeaux Begles      |         6 |   0.5      |
+| Montpellier Herault  |         5 |   0.2      |
+| Castres Olympique    |         5 |   0.6      |
+| Perpignan            |         4 |   1        |
+| Scarlets             |         3 |   1        |
+| Saracens             |         2 |   0        |
+| Bayonne              |         2 |   0        |
+| London Irish         |         2 |   0.5      |
+| Toulon               |         2 |   0.5      |
+| Beziers              |         2 |   0.5      |
+| Biarritz Olympique   |         2 |   0.5      |
+| Newcastle Falcons    |         2 |   0.5      |
+| Colomiers            |         2 |   0        |
+| Grenoble             |         2 |   0        |
+| Soyaux-Angouleme     |         1 |   1        |
+| Ulster               |         1 |   0        |
+| Leicester Tigers     |         1 |   1        |
+| Narbonne             |         1 |   1        |
+| Montauban            |         1 |   0        |
+| Mont-de-Marsan       |         1 |   1        |
+| Albi                 |         1 |   1        |
+| Edinburgh            |         1 |   0        |
+| Dragons              |         1 |   0        |
+| Dax                  |         1 |   0        |
+| Connacht             |         1 |   0        |
+| Bourgoin-Jallieu     |         1 |   1        |
+| Aurillac             |         1 |   1        |
+| Vannes               |         1 |   0        |

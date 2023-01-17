@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2023-01-06 11:51:03.537451  
+date: 2023-01-17 11:44:48.498846  
 categories: player  
 ---
 # D'arcy Rae
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 66.0
+## Current elo: 62.0
 
 ## Current Percentile: 92.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            85 |   0.552941 |
-| Bath Rugby       |            31 |   0.274194 |
+| Bath Rugby       |            32 |   0.265625 |
 | Benetton Treviso |             4 |   0.5      |
 | Scotland         |             1 |   0        |
 
@@ -38,24 +38,24 @@ categories: player
 | Dragons            |         7 |   0.5      |
 | Ulster             |         6 |   0.166667 |
 | Benetton Treviso   |         6 |   0.833333 |
-| Exeter Chiefs      |         6 |   0.166667 |
 | Edinburgh          |         6 |   0.166667 |
+| Exeter Chiefs      |         6 |   0.166667 |
 | Saracens           |         5 |   0        |
-| Leicester Tigers   |         4 |   0.5      |
 | Newcastle Falcons  |         4 |   0.75     |
-| Connacht           |         4 |   0.5      |
 | Scarlets           |         4 |   0.5      |
+| Leicester Tigers   |         4 |   0.5      |
+| Connacht           |         4 |   0.5      |
+| Sale Sharks        |         3 |   0.5      |
 | Northampton Saints |         3 |   0.333333 |
 | Cheetahs           |         3 |   1        |
 | Harlequins         |         3 |   0.333333 |
-| Sale Sharks        |         3 |   0.5      |
-| Bristol Rugby      |         2 |   0.5      |
-| Wasps              |         2 |   0        |
 | Gloucester Rugby   |         2 |   0        |
+| Wasps              |         2 |   0        |
+| Bristol Rugby      |         2 |   0.5      |
 | Southern Kings     |         2 |   0.5      |
+| Toulon             |         2 |   0        |
 | Worcester Warriors |         1 |   1        |
 | Glasgow Warriors   |         1 |   0        |
-| Toulon             |         1 |   0        |
 | Lyon               |         1 |   1        |
 | Ireland            |         1 |   0        |
 | London Irish       |         1 |   0        |

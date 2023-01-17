@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2023-01-06 11:51:24.424279  
+date: 2023-01-17 11:42:06.919770  
 categories: player  
 ---
 # Willem Nel
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Edinburgh           |           173 |   0.508671 |
+| Edinburgh           |           174 |   0.511494 |
 | Scotland            |            48 |   0.552083 |
 | Cheetahs            |            46 |   0.315217 |
 | Free State Cheetahs |            24 |   0.666667 |
@@ -67,30 +67,30 @@ categories: player
 | Griquas                  |         3 |  1         |
 | Brumbies                 |         3 |  0.333333  |
 | Gloucester Rugby         |         3 |  0.333333  |
-| Fiji                     |         2 |  0.5       |
+| Perpignan                |         2 |  0.5       |
 | Western Force            |         2 |  1         |
 | Bordeaux Begles          |         2 |  1         |
 | Toulon                   |         2 |  1         |
 | South Africa             |         2 |  0         |
+| Castres Olympique        |         2 |  1         |
 | Chiefs                   |         2 |  0.25      |
 | Racing 92                |         2 |  0         |
 | Queensland Reds          |         2 |  0         |
-| Perpignan                |         2 |  0.5       |
 | Crusaders                |         2 |  0.5       |
 | Melbourne Rebels         |         2 |  1         |
-| Montpellier Herault      |         2 |  0.5       |
+| Grenoble                 |         2 |  0.5       |
 | Harlequins               |         2 |  1         |
 | London Welsh             |         2 |  1         |
 | Lyon                     |         2 |  0.5       |
-| Newcastle Falcons        |         2 |  1         |
+| Fiji                     |         2 |  0.5       |
+| Montpellier Herault      |         2 |  0.5       |
 | Agen                     |         2 |  1         |
-| Grenoble                 |         2 |  0.5       |
+| Newcastle Falcons        |         2 |  1         |
 | Cheetahs                 |         1 |  1         |
-| Castres Olympique        |         1 |  1         |
+| Georgia                  |         1 |  1         |
 | Russia                   |         1 |  1         |
 | Southern Kings           |         1 |  1         |
 | Brive                    |         1 |  1         |
-| Georgia                  |         1 |  1         |
 | New Zealand              |         1 |  0         |
 | United States of America |         1 |  1         |
 | Blues                    |         1 |  0         |

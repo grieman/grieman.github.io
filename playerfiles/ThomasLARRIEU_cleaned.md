@@ -1,0 +1,57 @@
+---  
+layout: page  
+title: Thomas LARRIEU  
+date: 2023-01-17 11:41:34.753846  
+categories: player  
+---
+# Thomas LARRIEU
+
+## Positions: H
+
+## Current elo: 117.0
+
+## Current Percentile: 94.0
+
+# Elo History
+
+
+![elo history](history_ThomasLARRIEU.png)
+# Match History
+
+
+| Team           |   Appearances |   Win Rate |
+|:---------------|--------------:|-----------:|
+| Colomiers      |            55 |   0.590909 |
+| Dax            |            38 |   0.355263 |
+| Roval Drome XV |            15 |   0.2      |
+
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Aurillac                   |         8 |   0.5      |
+| Carcassonne                |         7 |   0.285714 |
+| Oyonnax                    |         7 |   0.642857 |
+| Montauban                  |         6 |   0.166667 |
+| Provence Rugby             |         6 |   0.666667 |
+| Vannes                     |         6 |   0.166667 |
+| Beziers                    |         6 |   0.5      |
+| Rouen                      |         5 |   0.6      |
+| Mont-de-Marsan             |         5 |   0.8      |
+| Narbonne                   |         5 |   0.2      |
+| Agen                       |         4 |   0.5      |
+| Tarbes                     |         4 |   0.25     |
+| Auch                       |         4 |   0.5      |
+| Nevers                     |         4 |   0.75     |
+| Pau                        |         3 |   0.333333 |
+| Soyaux-Angouleme           |         3 |   1        |
+| Perpignan                  |         3 |   0.333333 |
+| Biarritz Olympique         |         3 |   0.333333 |
+| Grenoble                   |         3 |   0.666667 |
+| Colomiers                  |         3 |   0        |
+| Albi                       |         2 |   0.5      |
+| Massy                      |         2 |   0.75     |
+| Lyon                       |         2 |   0        |
+| US Bressane                |         2 |   0.5      |
+| Valence Romans Drome Rugby |         2 |   0.5      |
+| Brive                      |         1 |   0        |
+| Périgueux                  |         1 |   1        |
+| Bayonne                    |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tjiuee UANIVI  
-date: 2023-01-13 11:39:03.598203  
+date: 2023-01-17 11:44:29.159101  
 categories: player  
 ---
 # Tjiuee UANIVI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Montauban        |            33 |   0.409091 |
+| Montauban        |            34 |   0.426471 |
 | London Scottish  |            27 |   0.351852 |
 | Namibia          |            20 |   0.45     |
 | Massy            |            11 |   0.5      |
@@ -33,6 +33,7 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Oyonnax             |         5 |   0.4      |
+| Provence Rugby      |         4 |   0.25     |
 | Ealing Trailfinders |         3 |   0        |
 | Carcassonne         |         3 |   0.333333 |
 | Aurillac            |         3 |   0.333333 |
@@ -40,7 +41,6 @@ categories: player
 | Bedford             |         3 |   0.5      |
 | Beziers             |         3 |   0.333333 |
 | Nottingham          |         3 |   0.333333 |
-| Provence Rugby      |         3 |   0        |
 | Grenoble            |         3 |   0.166667 |
 | US Bressane         |         2 |   0.75     |
 | Jersey              |         2 |   0.5      |

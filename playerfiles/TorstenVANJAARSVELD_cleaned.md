@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Torsten VAN JAARSVELD  
-date: 2023-01-13 11:26:04.613889  
+date: 2023-01-17 11:41:28.168539  
 categories: player  
 ---
 # Torsten VAN JAARSVELD
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bayonne             |            85 |   0.588235 |
+| Bayonne             |            86 |   0.581395 |
 | Cheetahs            |            71 |   0.366197 |
 | Pumas               |            32 |   0.359375 |
 | Free State Cheetahs |            18 |   0.583333 |
@@ -65,54 +65,54 @@ categories: player
 | Free State Cheetahs      |         3 |   0        |
 | Eastern Province Kings   |         3 |   0.833333 |
 | Glasgow Warriors         |         2 |   0        |
-| Russia                   |         2 |   1        |
-| New South Wales Waratahs |         2 |   0        |
+| Crusaders                |         2 |   0        |
 | New Zealand              |         2 |   0        |
 | Ospreys                  |         2 |   0.5      |
 | Pumas                    |         2 |   0        |
 | Queensland Reds          |         2 |   0        |
 | Rouen                    |         2 |   1        |
-| Crusaders                |         2 |   0        |
-| Biarritz Olympique       |         2 |   0        |
+| Russia                   |         2 |   1        |
 | Connacht                 |         2 |   0.5      |
+| Nevers                   |         2 |   0.75     |
 | Soyaux-Angouleme         |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0.5      |
 | Chiefs                   |         2 |   0        |
+| Benetton Treviso         |         2 |   0        |
 | Toulon                   |         2 |   0.5      |
 | US Bressane              |         2 |   1        |
 | Cardiff Blues            |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
-| Nevers                   |         2 |   0.75     |
+| New South Wales Waratahs |         2 |   0        |
 | Zimbabwe                 |         2 |   1        |
-| Blues                    |         2 |   0.5      |
+| Biarritz Olympique       |         2 |   0        |
 | Highlanders              |         2 |   0        |
-| Massy                    |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
-| Munster                  |         2 |   0        |
+| Massy                    |         2 |   1        |
+| Blues                    |         2 |   0.5      |
 | Border Bulldogs          |         2 |   1        |
-| Boland Cavaliers         |         1 |   1        |
+| Munster                  |         2 |   0        |
 | Canada                   |         1 |   0        |
-| Ulster                   |         1 |   0        |
+| Boland Cavaliers         |         1 |   1        |
 | Griffons                 |         1 |   1        |
+| Ulster                   |         1 |   0        |
+| Leinster                 |         1 |   1        |
 | Italy                    |         1 |   0        |
 | Tonga                    |         1 |   0        |
 | Castres Olympique        |         1 |   0        |
-| Benetton Treviso         |         1 |   0        |
 | Jaguares                 |         1 |   0        |
 | Kenya                    |         1 |   1        |
 | Hurricanes               |         1 |   0        |
+| Argentina                |         1 |   0        |
 | Narbonne                 |         1 |   1        |
-| Leinster                 |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | SWD Eagles               |         1 |   1        |
-| Argentina                |         1 |   0        |
 | London Irish             |         1 |   1        |
-| Racing 92                |         1 |   1        |
 | Germany                  |         1 |   1        |
+| Racing 92                |         1 |   1        |
 | Melbourne Rebels         |         1 |   0        |
+| Georgia                  |         1 |   0        |
 | Portugal                 |         1 |   0        |
 | Perpignan                |         1 |   1        |
 | Pau                      |         1 |   0        |
 | Grenoble                 |         1 |   1        |
-| Georgia                  |         1 |   0        |
 | Edinburgh                |         1 |   1        |

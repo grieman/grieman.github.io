@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tijde VISSER  
-date: 2023-01-13 11:26:55.442220  
+date: 2023-01-17 11:39:54.582492  
 categories: player  
 ---
 # Tijde VISSER
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 43.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Massy   |            23 |   0.695652 |
+| Massy   |            24 |   0.666667 |
 | Griquas |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,16 +31,17 @@ categories: player
 | Dax                        |         2 |        1   |
 | Nice                       |         2 |        0.5 |
 | Agen                       |         1 |        0   |
-| Natal Sharks               |         1 |        0   |
+| Mont-de-Marsan             |         1 |        0   |
 | Vannes                     |         1 |        1   |
 | Valence Romans Drome Rugby |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Pumas                      |         1 |        0   |
 | Provence Rugby             |         1 |        1   |
-| Free State Cheetahs        |         1 |        0   |
+| Natal Sharks               |         1 |        0   |
 | Grenoble                   |         1 |        0   |
 | Albi                       |         1 |        1   |
+| Free State Cheetahs        |         1 |        0   |
 | Colomiers                  |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Carcassonne                |         1 |        1   |

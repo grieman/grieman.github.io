@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-01-13 11:37:04.291703  
+date: 2023-01-17 11:46:09.515251  
 categories: player  
 ---
 # Romain SAZY
 
 ## Positions: L, FL
 
-## Current elo: 136.0
+## Current elo: 134.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           309 |   0.579288 |
+| La Rochelle |           310 |   0.580645 |
 | Montauban   |            20 |   0.15     |
 
 | Opponent             |   Matches |   Win Rate |
@@ -57,6 +57,7 @@ categories: player
 | Zebre                |         4 |   0.75     |
 | Colomiers            |         4 |   1        |
 | Mont-de-Marsan       |         3 |   0.666667 |
+| Ulster               |         3 |   1        |
 | Bristol Rugby        |         3 |   0.666667 |
 | Massy                |         2 |   1        |
 | Worcester Warriors   |         2 |   0.5      |
@@ -64,7 +65,6 @@ categories: player
 | Wasps                |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
 | Sale Sharks          |         2 |   0.5      |
-| Ulster               |         2 |   1        |
 | US Bressane          |         2 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | Northampton Saints   |         1 |   1        |

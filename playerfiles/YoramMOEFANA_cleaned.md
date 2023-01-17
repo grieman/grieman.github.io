@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoram MOEFANA  
-date: 2023-01-13 11:30:51.606954  
+date: 2023-01-17 11:37:06.071526  
 categories: player  
 ---
 # Yoram MOEFANA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 84.0
+## Current elo: 83.0
 
-## Current Percentile: 21.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            45 |        0.6 |
-| France          |             9 |        1   |
-| Colomiers       |             6 |        0.5 |
+| Bordeaux Begles |            46 |   0.586957 |
+| France          |             9 |   1        |
+| Colomiers       |             6 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -51,6 +51,7 @@ categories: player
 | Ireland              |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Scotland             |         1 |   1        |
+| Sharks               |         1 |   0        |
 | South Africa         |         1 |   1        |
 | Clermont Auvergne    |         1 |   0.5      |
 | Toulon               |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain LATERRADE  
-date: 2023-01-13 11:25:39.756500  
+date: 2023-01-17 11:46:43.764411  
 categories: player  
 ---
 # Romain LATERRADE
 
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 55.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |           105 |   0.609524 |
+| Mont-de-Marsan |           106 |   0.613208 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,10 +38,10 @@ categories: player
 | Grenoble                   |         5 |   0.6      |
 | Biarritz Olympique         |         5 |   0.7      |
 | Soyaux-Angouleme           |         5 |   0.6      |
+| Massy                      |         4 |   0.75     |
 | Perpignan                  |         4 |   0.5      |
 | Bayonne                    |         4 |   0.875    |
 | US Bressane                |         4 |   0.75     |
-| Massy                      |         3 |   0.666667 |
 | Narbonne                   |         2 |   1        |
 | Brive                      |         2 |   0.5      |
 | Agen                       |         2 |   0.5      |

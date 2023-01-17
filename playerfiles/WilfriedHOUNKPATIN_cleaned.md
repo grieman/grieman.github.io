@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfried HOUNKPATIN  
-date: 2023-01-13 11:36:00.830462  
+date: 2023-01-17 11:30:23.180844  
 categories: player  
 ---
 # Wilfried HOUNKPATIN
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 108.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            98 |   0.586735 |
+| Castres Olympique |            99 |   0.580808 |
 | Narbonne          |             3 |   0.333333 |
 | France            |             1 |   1        |
 
@@ -49,6 +49,7 @@ categories: player
 | Biarritz Olympique   |         2 |  1         |
 | Worcester Warriors   |         2 |  1         |
 | Aurillac             |         1 |  1         |
+| Edinburgh            |         1 |  0         |
 | Dragons              |         1 |  1         |
 | RC Enisei            |         1 |  1         |
 | Australia            |         1 |  1         |

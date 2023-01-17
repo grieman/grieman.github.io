@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Olivier KLEMENCZAK  
-date: 2023-01-13 11:37:32.829247  
+date: 2023-01-17 11:33:28.103271  
 categories: player  
 ---
 # Olivier KLEMENCZAK
@@ -21,28 +21,28 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            90 |   0.616667 |
+| Racing 92 |            91 |   0.620879 |
 | Dax       |            59 |   0.355932 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |         9 |  0.444444  |
 | Castres Olympique    |         8 |  0.625     |
-| Lyon                 |         8 |  0.375     |
 | Perpignan            |         8 |  0.625     |
+| Lyon                 |         8 |  0.375     |
 | Clermont Auvergne    |         7 |  0.785714  |
-| Bayonne              |         6 |  0.0833333 |
 | Toulon               |         6 |  0.666667  |
-| Montpellier Herault  |         6 |  0.833333  |
 | Stade Toulousain     |         6 |  0.333333  |
-| Narbonne             |         5 |  0.6       |
+| Bayonne              |         6 |  0.0833333 |
+| Montpellier Herault  |         6 |  0.833333  |
 | Pau                  |         5 |  0.6       |
+| Narbonne             |         5 |  0.6       |
 | Agen                 |         5 |  0.4       |
-| Colomiers            |         4 |  0.25      |
-| Mont-de-Marsan       |         4 |  0.25      |
-| Stade Francais Paris |         4 |  0.5       |
-| Bordeaux Begles      |         4 |  0.5       |
 | Biarritz Olympique   |         4 |  0.5       |
+| Bordeaux Begles      |         4 |  0.5       |
+| Stade Francais Paris |         4 |  0.5       |
+| Mont-de-Marsan       |         4 |  0.25      |
+| Colomiers            |         4 |  0.25      |
 | Aurillac             |         4 |  0.5       |
 | Soyaux-Angouleme     |         3 |  0.333333  |
 | Montauban            |         3 |  0.333333  |
@@ -61,7 +61,8 @@ categories: player
 | Ospreys              |         2 |  1         |
 | Nevers               |         2 |  0.5       |
 | Leicester Tigers     |         2 |  1         |
-| Leinster             |         1 |  0         |
-| Exeter Chiefs        |         1 |  0         |
-| Munster              |         1 |  1         |
 | Provence Rugby       |         1 |  1         |
+| Leinster             |         1 |  0         |
+| Harlequins           |         1 |  1         |
+| Munster              |         1 |  1         |
+| Exeter Chiefs        |         1 |  0         |

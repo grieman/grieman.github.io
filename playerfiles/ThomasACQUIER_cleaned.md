@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas ACQUIER  
-date: 2023-01-13 11:24:39.545831  
+date: 2023-01-17 11:43:24.935306  
 categories: player  
 ---
 # Thomas ACQUIER
 
 ## Positions: H
 
-## Current elo: 122.0
+## Current elo: 119.0
 
-## Current Percentile: 90.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Brive       |           144 |   0.527778 |
 | Carcassonne |            59 |   0.432203 |
 | Beziers     |            28 |   0.285714 |
-| Bayonne     |            12 |   0.375    |
+| Bayonne     |            13 |   0.346154 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -64,11 +64,11 @@ categories: player
 | Périgueux            |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |
+| Benetton Treviso     |         2 |   0        |
 | Carcassonne          |         2 |   0        |
 | Gloucester Rugby     |         2 |   0        |
 | Connacht             |         2 |   0.5      |
 | Zebre                |         2 |   0.5      |
-| Benetton Treviso     |         1 |   0        |
 | Scarlets             |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Bath Rugby           |         1 |   0        |

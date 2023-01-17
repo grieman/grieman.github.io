@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nic SCHONERT  
-date: 2023-01-13 11:22:47.810363  
+date: 2023-01-17 11:44:18.443013  
 categories: player  
 ---
 # Nic SCHONERT
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 22.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |           109 |   0.334862 |
-| Sale Sharks        |            27 |   0.574074 |
+| Sale Sharks        |            28 |   0.553571 |
 | Griquas            |             7 |   0.142857 |
 | England            |             1 |   0        |
 
@@ -43,11 +43,11 @@ categories: player
 | Exeter Chiefs       |         8 |   0.125    |
 | Bath Rugby          |         7 |   0.428571 |
 | Dragons             |         3 |   0        |
+| Stade Toulousain    |         2 |   0        |
 | Castres Olympique   |         2 |   0        |
 | Natal Sharks        |         2 |   0.5      |
 | Western Province    |         2 |   0        |
 | Ulster              |         1 |   1        |
-| Stade Toulousain    |         1 |   0        |
 | Worcester Warriors  |         1 |   0        |
 | Barbarians          |         1 |   0        |
 | RC Enisei           |         1 |   1        |

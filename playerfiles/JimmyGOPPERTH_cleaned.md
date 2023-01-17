@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jimmy GOPPERTH  
-date: 2023-01-13 11:23:41.276851  
+date: 2023-01-17 11:35:49.369244  
 categories: player  
 ---
 # Jimmy GOPPERTH
 
 ## Positions: FH, C
 
-## Current elo: 89.0
+## Current elo: 90.0
 
 ## Current Percentile: 35.0
 
@@ -26,14 +26,14 @@ categories: player
 | Leinster          |            61 |   0.696721 |
 | Blues             |            11 |   0.272727 |
 | Wellington        |            11 |   0.636364 |
-| Leicester Tigers  |             7 |   0.428571 |
+| Leicester Tigers  |             8 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Exeter Chiefs            |        21 |   0.357143 |
 | Northampton Saints       |        21 |   0.47619  |
-| Sale Sharks              |        20 |   0.4      |
+| Exeter Chiefs            |        21 |   0.357143 |
 | Bath Rugby               |        20 |   0.6      |
+| Sale Sharks              |        20 |   0.4      |
 | Harlequins               |        20 |   0.5      |
 | Leicester Tigers         |        19 |   0.368421 |
 | Saracens                 |        18 |   0.277778 |
@@ -44,43 +44,44 @@ categories: player
 | Bristol Rugby            |         9 |   0.777778 |
 | Wasps                    |         8 |   0.6875   |
 | Ospreys                  |         7 |   0.714286 |
-| Ulster                   |         6 |   0.666667 |
-| Connacht                 |         6 |   0.666667 |
 | Edinburgh                |         6 |   0.5      |
+| Ulster                   |         6 |   0.666667 |
 | Zebre                    |         6 |   1        |
-| Glasgow Warriors         |         5 |   0.5      |
+| Connacht                 |         6 |   0.666667 |
 | Munster                  |         5 |   0.2      |
+| Glasgow Warriors         |         5 |   0.5      |
 | Cardiff Blues            |         5 |   1        |
 | Dragons                  |         4 |   0.5      |
-| Castres Olympique        |         4 |   1        |
-| Leeds                    |         4 |   0.375    |
-| Toulon                   |         4 |   0.25     |
-| Benetton Treviso         |         4 |   0.875    |
 | Yorkshire Carnegie       |         4 |   0.375    |
+| Benetton Treviso         |         4 |   0.875    |
+| Toulon                   |         4 |   0.25     |
+| Leeds                    |         4 |   0.375    |
 | Scarlets                 |         4 |   0.75     |
+| Castres Olympique        |         4 |   1        |
 | Stade Toulousain         |         3 |   0.833333 |
 | Southland                |         2 |   1        |
 | Northland                |         2 |   1        |
 | Agen                     |         2 |   1        |
-| Leinster                 |         2 |   0.5      |
 | La Rochelle              |         2 |   0.5      |
-| Cheetahs                 |         1 |   1        |
+| Leinster                 |         2 |   0.5      |
+| Clermont Auvergne        |         1 |   1        |
 | Bay of Plenty            |         1 |   1        |
-| Bordeaux Begles          |         1 |   0        |
 | Western Force            |         1 |   1        |
-| Brumbies                 |         1 |   0        |
+| Chiefs                   |         1 |   0        |
 | Waikato                  |         1 |   1        |
-| Bulls                    |         1 |   0        |
-| Canterbury               |         1 |   0        |
-| Taranaki                 |         1 |   1        |
-| New South Wales Waratahs |         1 |   0        |
-| North Harbour            |         1 |   0        |
-| Sharks                   |         1 |   0        |
-| Crusaders                |         1 |   0        |
+| Bordeaux Begles          |         1 |   0        |
 | Highlanders              |         1 |   1        |
+| Taranaki                 |         1 |   1        |
 | Hurricanes               |         1 |   0        |
+| Montauban                |         1 |   1        |
+| New South Wales Waratahs |         1 |   0        |
+| Auckland                 |         1 |   0        |
+| Brumbies                 |         1 |   0        |
+| Bulls                    |         1 |   0        |
 | Queensland Reds          |         1 |   0        |
 | Otago                    |         1 |   0        |
-| Auckland                 |         1 |   0        |
-| Montauban                |         1 |   1        |
-| Chiefs                   |         1 |   0        |
+| Canterbury               |         1 |   0        |
+| Crusaders                |         1 |   0        |
+| North Harbour            |         1 |   0        |
+| Cheetahs                 |         1 |   1        |
+| Sharks                   |         1 |   0        |

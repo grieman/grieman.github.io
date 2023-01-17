@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Swan CORMENIER  
-date: 2023-01-13 11:33:22.041773  
+date: 2023-01-17 11:35:58.107108  
 categories: player  
 ---
 # Swan CORMENIER
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 69.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |            53 |   0.481132 |
+| Bayonne |            54 |   0.472222 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,22 +32,23 @@ categories: player
 | Racing 92            |         3 |   0.666667 |
 | Pau                  |         3 |   0.166667 |
 | Agen                 |         2 |   0.75     |
-| Oyonnax              |         2 |   0.5      |
+| Nevers               |         2 |   0.75     |
 | US Bressane          |         2 |   1        |
-| Castres Olympique    |         2 |   0        |
 | Stade Toulousain     |         2 |   0.5      |
+| Castres Olympique    |         2 |   0        |
 | La Rochelle          |         2 |   0.5      |
 | Lyon                 |         2 |   0.5      |
+| Oyonnax              |         2 |   0.5      |
 | Narbonne             |         2 |   1        |
-| Nevers               |         2 |   0.75     |
 | Provence Rugby       |         1 |   1        |
+| Montauban            |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
 | Aurillac             |         1 |   1        |
-| Montauban            |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |
 | Grenoble             |         1 |   1        |
 | Colomiers            |         1 |   1        |
 | Clermont Auvergne    |         1 |   0        |
 | Carcassonne          |         1 |   1        |
 | Beziers              |         1 |   0        |
+| Benetton Treviso     |         1 |   0        |
 | Vannes               |         1 |   1        |

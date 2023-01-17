@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zhorzhi (Jorji) SALDADZE  
-date: 2023-01-13 11:29:41.122504  
+date: 2023-01-17 11:42:28.413534  
 categories: player  
 ---
 # Zhorzhi (Jorji) SALDADZE
 
 ## Positions: P
 
-## Current elo: 77.0
+## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Beziers            |            33 |    0.30303 |
-| Biarritz Olympique |             1 |    1       |
+| Biarritz Olympique |             2 |    0.5     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Colomiers                  |         4 |   0        |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Nevers                     |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   0        |
-| Colomiers                  |         3 |   0        |
 | Grenoble                   |         3 |   0.333333 |
 | Aurillac                   |         2 |   0.5      |
 | Rouen                      |         2 |   0.5      |

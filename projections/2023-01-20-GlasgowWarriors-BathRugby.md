@@ -4,10 +4,10 @@ title: Bath Rugby at Glasgow Warriors
 date: 2023-01-20 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bath Rugby (~1458.22) at Glasgow Warriors (~1569.15)
+# Bath Rugby (~1457.69) at Glasgow Warriors (~1567.38)
 
-# Prediction: Glasgow Warriors by 15.1
+# Prediction: Glasgow Warriors by 15.0
 
 
-Glasgow Warriors by 11.1 on a neutral pitch
+Glasgow Warriors by 11.0 on a neutral pitch
 

@@ -8,196 +8,160 @@ key: page-projections
 ## European Rugby Challenge Cup
 
 
-Competition Accuracy: 11 of 18 (61.11%)
+Competition Accuracy: 19 of 27 (70.37%)
 
-Competition Error: 14.39 points per match
+Competition Error: 14.03 points per match
 
-Last Round Accuracy: 6 of 9 (66.67%)
+Last Round Accuracy: 8 of 9 (88.89%)
 
-Last Round Error: 17.27 points per match
+Last Round Error: 13.32 points per match
 
-[2023-01-13 Cheetahs (~1487.76) at Scarlets (~1550.15)](projections//2023-01-13-Scarlets-Cheetahs)
+[2023-01-20 Zebre (~1388.57) at Toulon (~1610.01)](projections//2023-01-20-Toulon-Zebre)
 
-[2023-01-13 Dragons (~1474.25) at Pau (~1461.23)](projections//2023-01-13-Pau-Dragons)
+[2023-01-20 Bath Rugby (~1457.69) at Glasgow Warriors (~1567.38)](projections//2023-01-20-GlasgowWarriors-BathRugby)
 
-[2023-01-14 Toulon (~1565.95) at Bath Rugby (~1458.22)](projections//2023-01-14-BathRugby-Toulon)
+[2023-01-20 Perpignan (~1436.37) at Bristol Rugby (~1605.47)](projections//2023-01-20-BristolRugby-Perpignan)
 
-[2023-01-14 Glasgow Warriors (~1569.15) at Perpignan (~1473.46)](projections//2023-01-14-Perpignan-GlasgowWarriors)
+[2023-01-21 Scarlets (~1530.75) at Bayonne (~1530.29)](projections//2023-01-21-Bayonne-Scarlets)
 
-[2023-01-14 Bristol Rugby (~1587.85) at Zebre (~1389.88)](projections//2023-01-14-Zebre-BristolRugby)
+[2023-01-21 Stade Francais Paris (~1627.45) at Benetton Treviso (~1517.81)](projections//2023-01-21-BenettonTreviso-StadeFrancaisParis)
 
-[2023-01-14 Lions (~1442.84) at Stade Francais Paris (~1670.4)](projections//2023-01-14-StadeFrancaisParis-Lions)
+[2023-01-21 Cardiff Blues (~1524.25) at Brive (~1498.15)](projections//2023-01-21-Brive-CardiffBlues)
 
-[2023-01-14 Brive (~1563.01) at Connacht (~1491.41)](projections//2023-01-14-Connacht-Brive)
+[2023-01-21 Connacht (~1525.46) at Newcastle Falcons (~1449.43)](projections//2023-01-21-NewcastleFalcons-Connacht)
 
-[2023-01-15 Newcastle Falcons (~1492.31) at Cardiff Blues (~1528.22)](projections//2023-01-15-CardiffBlues-NewcastleFalcons)
+[2023-01-22 Lions (~1465.53) at Dragons (~1515.39)](projections//2023-01-22-Dragons-Lions)
 
-[2023-01-20 Perpignan (~1473.46) at Bristol Rugby (~1587.85)](projections//2023-01-20-BristolRugby-Perpignan)
-
-[2023-01-20 Bath Rugby (~1458.22) at Glasgow Warriors (~1569.15)](projections//2023-01-20-GlasgowWarriors-BathRugby)
-
-[2023-01-20 Zebre (~1389.88) at Toulon (~1565.95)](projections//2023-01-20-Toulon-Zebre)
+[2023-01-22 Pau (~1433.43) at Cheetahs (~1510.17)](projections//2023-01-22-Cheetahs-Pau)
 ## European Rugby Champions Cup
 
 
-Competition Accuracy: 13 of 24 (54.17%)
+Competition Accuracy: 23 of 36 (63.89%)
 
-Competition Error: 14.68 points per match
+Competition Error: 13.31 points per match
 
-Last Round Accuracy: 8 of 12 (66.67%)
+Last Round Accuracy: 10 of 12 (83.33%)
 
-Last Round Error: 12.91 points per match
+Last Round Error: 10.56 points per match
 
-[2023-01-13 Leicester Tigers (~1545.6) at Clermont Auvergne (~1514.44)](projections//2023-01-13-ClermontAuvergne-LeicesterTigers)
+[2023-01-20 Ospreys (~1627.41) at Leicester Tigers (~1575.44)](projections//2023-01-20-LeicesterTigers-Ospreys)
 
-[2023-01-14 Montpellier Herault (~1589.63) at Ospreys (~1618.68)](projections//2023-01-14-Ospreys-MontpellierHerault)
+[2023-01-20 Bulls (~1602.93) at Lyon (~1502.93)](projections//2023-01-20-Lyon-Bulls)
 
-[2023-01-14 Ulster (~1594.21) at La Rochelle (~1644.79)](projections//2023-01-14-LaRochelle-Ulster)
+[2023-01-21 La Rochelle (~1605.75) at Northampton Saints (~1565.32)](projections//2023-01-21-NorthamptonSaints-LaRochelle)
 
-[2023-01-14 Stade Toulousain (~1631.97) at Sale Sharks (~1580.67)](projections//2023-01-14-SaleSharks-StadeToulousain)
+[2023-01-21 Clermont Auvergne (~1467.45) at Stormers (~1651.81)](projections//2023-01-21-Stormers-ClermontAuvergne)
 
-[2023-01-14 Northampton Saints (~1517.96) at Munster (~1633.65)](projections//2023-01-14-Munster-NorthamptonSaints)
+[2023-01-21 Sale Sharks (~1537.47) at Ulster (~1602.51)](projections//2023-01-21-Ulster-SaleSharks)
 
-[2023-01-14 Leinster (~1708.24) at Gloucester Rugby (~1544.73)](projections//2023-01-14-GloucesterRugby-Leinster)
+[2023-01-21 Castres Olympique (~1553.83) at Exeter Chiefs (~1596.71)](projections//2023-01-21-ExeterChiefs-CastresOlympique)
 
-[2023-01-14 Exeter Chiefs (~1575.74) at Bulls (~1592.83)](projections//2023-01-14-Bulls-ExeterChiefs)
+[2023-01-21 Gloucester Rugby (~1525.37) at Bordeaux Begles (~1583.83)](projections//2023-01-21-BordeauxBegles-GloucesterRugby)
 
-[2023-01-14 Lyon (~1509.05) at Saracens (~1679.81)](projections//2023-01-14-Saracens-Lyon)
+[2023-01-21 Sharks (~1616.84) at Harlequins (~1544.59)](projections//2023-01-21-Harlequins-Sharks)
 
-[2023-01-14 Bordeaux Begles (~1614.67) at Sharks (~1597.22)](projections//2023-01-14-Sharks-BordeauxBegles)
+[2023-01-21 Racing 92 (~1564.66) at Leinster (~1713.63)](projections//2023-01-21-Leinster-Racing92)
 
-[2023-01-15 Stormers (~1627.54) at London Irish (~1595.57)](projections//2023-01-15-LondonIrish-Stormers)
+[2023-01-22 Saracens (~1676.04) at Edinburgh (~1590.99)](projections//2023-01-22-Edinburgh-Saracens)
 
-[2023-01-15 Harlequins (~1503.88) at Racing 92 (~1580.74)](projections//2023-01-15-Racing92-Harlequins)
+[2023-01-22 Munster (~1614.36) at Stade Toulousain (~1654.34)](projections//2023-01-22-StadeToulousain-Munster)
 
-[2023-01-15 Edinburgh (~1549.99) at Castres Olympique (~1588.0)](projections//2023-01-15-CastresOlympique-Edinburgh)
-
-[2023-01-20 Ospreys (~1618.68) at Leicester Tigers (~1545.6)](projections//2023-01-20-LeicesterTigers-Ospreys)
-
-[2023-01-20 Bulls (~1592.83) at Lyon (~1509.05)](projections//2023-01-20-Lyon-Bulls)
+[2023-01-22 London Irish (~1543.1) at Montpellier Herault (~1584.95)](projections//2023-01-22-MontpellierHerault-LondonIrish)
 ## Japan Rugby League One
 
 
-Competition Accuracy: 13 of 18 (72.22%)
+Competition Accuracy: 16 of 24 (66.67%)
 
-Competition Error: 14.2 points per match
-
-Last Round Accuracy: 5 of 6 (83.33%)
-
-Last Round Error: 18.86 points per match
-
-[2023-01-14 Green Rockets Tokatsu (~1458.9) at Kubota Spears Funabashi Tokyo-Bay (~1666.86)](projections//2023-01-14-KubotaSpearsFunabashiTokyo-Bay-GreenRocketsTokatsu)
-
-[2023-01-14 Tokyo Sungoliath (~1650.24) at Kobelco Kobe Steelers (~1575.47)](projections//2023-01-14-KobelcoKobeSteelers-TokyoSungoliath)
-
-[2023-01-14 Yokohama Canon Eagles (~1587.41) at Hanazono Kintetsu Liners (~1413.97)](projections//2023-01-14-HanazonoKintetsuLiners-YokohamaCanonEagles)
-
-[2023-01-14 Toshiba Brave Lupus Tokyo (~1588.04) at Mitsubishi Dynaboars (~1457.62)](projections//2023-01-14-MitsubishiDynaboars-ToshibaBraveLupusTokyo)
-
-[2023-01-15 Black Rams Tokyo (~1459.09) at Shizuoka Blue Revs (~1509.89)](projections//2023-01-15-ShizuokaBlueRevs-BlackRamsTokyo)
-
-[2023-01-15 Toyota Verblitz (~1537.8) at Saitama Wild Knights (~1630.34)](projections//2023-01-15-SaitamaWildKnights-ToyotaVerblitz)
-## Japan Rugby League One Division 2
-
-
-Competition Accuracy: 4 of 5 (80.0%)
-
-Competition Error: 22.71 points per match
-
-Last Round Accuracy: 2 of 3 (66.67%)
-
-Last Round Error: 35.42 points per match
-
-[2023-01-14 Kamaishi Seawaves (~1248.04) at Shimizu Blue Sharks (~1375.12)](projections//2023-01-14-ShimizuBlueSharks-KamaishiSeawaves)
-
-[2023-01-14 Toyota Industries Shuttles Aichi (~1557.44) at Urayasu D-Rocks (~1374.49)](projections//2023-01-14-UrayasuD-Rocks-ToyotaIndustriesShuttlesAichi)
-
-[2023-01-15 Hino Red Dolphins (~1547.84) at Mie Honda Heat (~1510.01)](projections//2023-01-15-MieHondaHeat-HinoRedDolphins)
-## Pro D2
-
-
-Competition Accuracy: 80 of 129 (62.02%)
-
-Competition Error: 9.43 points per match
-
-Last Round Accuracy: 4 of 8 (50.0%)
-
-Last Round Error: 9.27 points per match
-
-[2023-01-13 Soyaux-Angouleme (~1446.7) at Rouen (~1345.78)](projections//2023-01-13-Rouen-Soyaux-Angouleme)
-
-[2023-01-13 Massy (~1374.15) at Mont-de-Marsan (~1525.75)](projections//2023-01-13-Mont-de-Marsan-Massy)
-
-[2023-01-13 Carcassonne (~1361.57) at Grenoble (~1481.0)](projections//2023-01-13-Grenoble-Carcassonne)
-
-[2023-01-13 Aurillac (~1514.62) at Beziers (~1501.13)](projections//2023-01-13-Beziers-Aurillac)
-
-[2023-01-13 Oyonnax (~1654.44) at Nevers (~1541.38)](projections//2023-01-13-Nevers-Oyonnax)
-
-[2023-01-13 Provence Rugby (~1428.94) at Montauban (~1513.36)](projections//2023-01-13-Montauban-ProvenceRugby)
-
-[2023-01-13 Biarritz Olympique (~1503.46) at Colomiers (~1514.87)](projections//2023-01-13-Colomiers-BiarritzOlympique)
-## RFU Championship
-
-
-Competition Accuracy: 45 of 65 (69.23%)
-
-Competition Error: 13.18 points per match
+Competition Error: 16.37 points per match
 
 Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 18.48 points per match
+Last Round Error: 22.88 points per match
 
-[2023-01-13 Nottingham (~1420.33) at Cornish Pirates (~1544.49)](projections//2023-01-13-CornishPirates-Nottingham)
+[2023-01-21 Green Rockets Tokatsu (~1445.79) at Yokohama Canon Eagles (~1636.17)](projections//2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu)
 
-[2023-01-14 Jersey (~1527.41) at Coventry (~1663.0)](projections//2023-01-14-Coventry-Jersey)
+[2023-01-21 Kobelco Kobe Steelers (~1544.76) at Kubota Spears Funabashi Tokyo-Bay (~1684.34)](projections//2023-01-21-KubotaSpearsFunabashiTokyo-Bay-KobelcoKobeSteelers)
 
-[2023-01-14 Richmond (~1363.94) at Caldy (~1384.84)](projections//2023-01-14-Caldy-Richmond)
+[2023-01-21 Saitama Wild Knights (~1638.83) at Black Rams Tokyo (~1526.56)](projections//2023-01-21-BlackRamsTokyo-SaitamaWildKnights)
 
-[2023-01-14 Hartpury College (~1415.86) at Doncaster (~1375.7)](projections//2023-01-14-Doncaster-HartpuryCollege)
+[2023-01-22 Shizuoka Blue Revs (~1465.57) at Mitsubishi Dynaboars (~1536.22)](projections//2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs)
 
-[2023-01-14 Bedford (~1398.21) at London Scottish (~1366.36)](projections//2023-01-14-LondonScottish-Bedford)
+[2023-01-22 Toyota Verblitz (~1515.87) at Toshiba Brave Lupus Tokyo (~1561.59)](projections//2023-01-22-ToshibaBraveLupusTokyo-ToyotaVerblitz)
 
-[2023-01-14 Ampthill (~1336.3) at Ealing Trailfinders (~1512.78)](projections//2023-01-14-EalingTrailfinders-Ampthill)
+[2023-01-22 Tokyo Sungoliath (~1689.51) at Hanazono Kintetsu Liners (~1367.67)](projections//2023-01-22-HanazonoKintetsuLiners-TokyoSungoliath)
+## Japan Rugby League One Division 2
+
+
+Competition Accuracy: 5 of 8 (62.5%)
+
+Competition Error: 25.77 points per match
+
+Last Round Accuracy: 1 of 3 (33.33%)
+
+Last Round Error: 30.87 points per match
+
+[2023-01-21 Urayasu D-Rocks (~1439.18) at Hino Red Dolphins (~1584.77)](projections//2023-01-21-HinoRedDolphins-UrayasuD-Rocks)
+
+[2023-01-22 Kamaishi Seawaves (~1332.1) at Toyota Industries Shuttles Aichi (~1482.53)](projections//2023-01-22-ToyotaIndustriesShuttlesAichi-KamaishiSeawaves)
+
+[2023-01-22 Mie Honda Heat (~1494.33) at Shimizu Blue Sharks (~1314.93)](projections//2023-01-22-ShimizuBlueSharks-MieHondaHeat)
+## RFU Championship
+
+
+Competition Accuracy: 46 of 66 (69.7%)
+
+Competition Error: 13.1 points per match
+
+Last Round Accuracy: 4 of 6 (66.67%)
+
+Last Round Error: 14.96 points per match
+
+[2023-01-21 Coventry (~1659.87) at Ampthill (~1336.3)](projections//2023-01-21-Ampthill-Coventry)
+
+[2023-01-21 Ealing Trailfinders (~1512.47) at Hartpury College (~1416.92)](projections//2023-01-21-HartpuryCollege-EalingTrailfinders)
+
+[2023-01-21 Doncaster (~1375.7) at Richmond (~1362.45)](projections//2023-01-21-Richmond-Doncaster)
+
+[2023-01-21 Cornish Pirates (~1487.93) at Bedford (~1398.04)](projections//2023-01-21-Bedford-CornishPirates)
+
+[2023-01-21 London Scottish (~1367.17) at Jersey (~1527.41)](projections//2023-01-21-Jersey-LondonScottish)
+
+[2023-01-21 Caldy (~1384.43) at Nottingham (~1470.62)](projections//2023-01-21-Nottingham-Caldy)
 # Domestic Leagues
 
 ## Japan Rugby League One Division 3
 
 
-Competition Accuracy: 4 of 6 (66.67%)
+Competition Accuracy: 5 of 8 (62.5%)
 
-Competition Error: 17.11 points per match
+Competition Error: 16.75 points per match
 
-Last Round Accuracy: 3 of 3 (100.0%)
+Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 15.84 points per match
+Last Round Error: 16.82 points per match
 
-[2023-01-15 Skyactivs Hiroshima (~1200.41) at NTT Docomo Red Hurricanes Osaka (~1405.01)](projections//2023-01-15-NTTDocomoRedHurricanesOsaka-SkyactivsHiroshima)
-
-[2023-01-15 Kurita Water Gush (~1221.74) at Chugoku Red Regulions (~1123.03)](projections//2023-01-15-ChugokuRedRegulions-KuritaWaterGush)
+[2023-01-22 Kyuden Voltex (~1356.67) at Skyactivs Hiroshima (~1269.68)](projections//2023-01-22-SkyactivsHiroshima-KyudenVoltex)
 ## Nationale
 
 
-Competition Accuracy: 58 of 97 (59.79%)
+Competition Accuracy: 64 of 104 (61.54%)
 
-Competition Error: 11.21 points per match
+Competition Error: 11.09 points per match
 
-Last Round Accuracy: 2 of 7 (28.57%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 12.27 points per match
+Last Round Error: 9.46 points per match
 
-[2023-01-14 Bourgoin-Jallieu (~1397.42) at Narbonne (~1452.27)](projections//2023-01-14-Narbonne-Bourgoin-Jallieu)
+[2023-01-20 Cognac Saint Jean d'Angély (~1136.55) at US Bressane (~1403.02)](projections//2023-01-20-USBressane-CognacSaintJeand'Angély)
 
-[2023-01-14 Nice (~1373.16) at Dax (~1583.93)](projections//2023-01-14-Dax-Nice)
+[2023-01-21 Rennes (~1409.77) at Valence Romans Drome Rugby (~1478.54)](projections//2023-01-21-ValenceRomansDromeRugby-Rennes)
 
-[2023-01-14 Valence Romans Drome Rugby (~1448.5) at Blagnac (~1466.69)](projections//2023-01-14-Blagnac-ValenceRomansDromeRugby)
+[2023-01-21 Narbonne (~1487.49) at Suresnes (~1303.05)](projections//2023-01-21-Suresnes-Narbonne)
 
-[2023-01-14 Suresnes (~1330.39) at Carqueiranne-Hyères (~1407.74)](projections//2023-01-14-Carqueiranne-Hyères-Suresnes)
+[2023-01-21 Carqueiranne-Hyères (~1456.77) at Albi (~1486.58)](projections//2023-01-21-Albi-Carqueiranne-Hyères)
 
-[2023-01-15 US Bressane (~1472.93) at Chambery (~1354.95)](projections//2023-01-15-Chambery-USBressane)
+[2023-01-21 Nice (~1435.89) at Bourgoin-Jallieu (~1363.25)](projections//2023-01-21-Bourgoin-Jallieu-Nice)
 
-[2023-01-15 Tarbes (~1398.31) at Cognac Saint Jean d'Angély (~1162.94)](projections//2023-01-15-CognacSaintJeand'Angély-Tarbes)
+[2023-01-21 Blagnac (~1413.31) at Tarbes (~1426.53)](projections//2023-01-21-Tarbes-Blagnac)
 
-[2023-01-15 Albi (~1519.95) at Rennes (~1377.72)](projections//2023-01-15-Rennes-Albi)
-
-[2023-01-20 Cognac Saint Jean d'Angély (~1162.94) at US Bressane (~1472.93)](projections//2023-01-20-USBressane-CognacSaintJeand'Angély)
+[2023-01-22 Dax (~1494.68) at Chambery (~1407.69)](projections//2023-01-22-Chambery-Dax)

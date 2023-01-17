@@ -1,0 +1,42 @@
+---  
+layout: page  
+title: Nekolo Tolofua  
+date: 2023-01-15 11:54:26.028771  
+categories: player  
+---
+# Nekolo Tolofua
+
+## Positions: C
+
+## Current elo: 98.0
+
+## Current Percentile: 54.0
+
+# Elo History
+
+
+![elo history](history_NekoloTolofua.png)
+# Match History
+
+
+| Team        |   Appearances |   Win Rate |
+|:------------|--------------:|-----------:|
+| Blagnac     |            19 |   0.421053 |
+| Carcassonne |             2 |   0        |
+
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Albi                       |         2 |        0.5 |
+| Aubenas                    |         2 |        0.5 |
+| Cognac Saint Jean d'Angély |         2 |        1   |
+| Dax                        |         2 |        0.5 |
+| Massy                      |         2 |        0.5 |
+| US Bressane                |         2 |        0   |
+| Valence Romans Drome Rugby |         2 |        0.5 |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Dijon                      |         1 |        0   |
+| La Rochelle                |         1 |        0   |
+| Narbonne                   |         1 |        0   |
+| Pau                        |         1 |        0   |
+| Suresnes                   |         1 |        1   |
+| Tarbes                     |         1 |        0   |

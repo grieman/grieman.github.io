@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael WILLEMSE  
-date: 2023-01-13 11:23:00.819775  
+date: 2023-01-17 11:42:03.901028  
 categories: player  
 ---
 # Michael WILLEMSE
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 85.0
 
-## Current Percentile: 33.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Southern Kings         |            42 |   0.202381 |
 | Edinburgh              |            36 |   0.597222 |
-| London Irish           |            18 |   0.5      |
+| London Irish           |            19 |   0.473684 |
 | Western Province       |            11 |   0.727273 |
 | Golden Lions           |             5 |   0.2      |
 | Stormers               |             5 |   0.5      |
@@ -43,19 +43,19 @@ categories: player
 | Zebre                    |         4 |   0.5      |
 | Blue Bulls               |         4 |   0.5      |
 | Sharks                   |         3 |   0.333333 |
+| Benetton Treviso         |         3 |   0        |
 | Bordeaux Begles          |         3 |   0.166667 |
 | Exeter Chiefs            |         3 |   0.666667 |
 | Pumas                    |         3 |   0.666667 |
 | Bristol Rugby            |         3 |   0.666667 |
 | Golden Lions             |         3 |   0        |
+| Stormers                 |         3 |   0        |
 | Lions                    |         3 |   0.166667 |
-| Benetton Treviso         |         3 |   0        |
-| Saracens                 |         2 |   0.75     |
 | Queensland Reds          |         2 |   0.5      |
 | Natal Sharks             |         2 |   0.5      |
+| Saracens                 |         2 |   0.75     |
 | Boland Cavaliers         |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   1        |
-| Stormers                 |         2 |   0        |
 | Wasps                    |         2 |   1        |
 | Western Province         |         2 |   0        |
 | Ospreys                  |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault BERTHAUD  
-date: 2023-01-13 11:36:21.657067  
+date: 2023-01-17 11:31:42.196914  
 categories: player  
 ---
 # Thibault BERTHAUD
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 46.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Oyonnax          |            35 |   0.771429 |
+| Oyonnax          |            36 |   0.777778 |
 | Soyaux-Angouleme |            31 |   0.483871 |
 | US Bressane      |            14 |   0.285714 |
 
@@ -37,10 +37,10 @@ categories: player
 | Aurillac           |         5 |   0.4      |
 | Biarritz Olympique |         5 |   0.2      |
 | Grenoble           |         3 |   0.666667 |
+| Nevers             |         3 |   0.333333 |
 | Agen               |         3 |   1        |
 | Massy              |         2 |   1        |
 | Mont-de-Marsan     |         2 |   1        |
-| Nevers             |         2 |   0        |
 | Oyonnax            |         2 |   0        |
 | Perpignan          |         2 |   0        |
 | Bayonne            |         2 |   0.5      |

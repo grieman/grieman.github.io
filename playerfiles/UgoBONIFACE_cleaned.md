@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ugo BONIFACE  
-date: 2023-01-13 11:38:56.369817  
+date: 2023-01-17 11:30:54.093293  
 categories: player  
 ---
 # Ugo BONIFACE
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 66.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bayonne         |            76 |   0.546053 |
-| Bordeaux Begles |             4 |   0.5      |
+| Bordeaux Begles |             5 |   0.4      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -56,5 +56,6 @@ categories: player
 | Lyon                 |         1 |   0        |
 | London Irish         |         1 |   1        |
 | Racing 92            |         1 |   1        |
+| Sharks               |         1 |   0        |
 | Biarritz Olympique   |         1 |   0        |
 | US Bressane          |         1 |   1        |

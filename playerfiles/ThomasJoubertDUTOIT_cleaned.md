@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Joubert DU TOIT  
-date: 2023-01-06 11:51:38.750635  
+date: 2023-01-17 11:37:32.738687  
 categories: player  
 ---
 # Thomas Joubert DU TOIT
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Sharks           |           100 |   0.53     |
+| Sharks           |           101 |   0.534653 |
 | Natal Sharks     |            37 |   0.689189 |
 | South Africa     |            15 |   0.666667 |
 | Munster          |             6 |   1        |
@@ -64,10 +64,10 @@ categories: player
 | Leinster                 |         2 |   0.5      |
 | Western Force            |         2 |   1        |
 | Sunwolves                |         2 |   1        |
+| Bordeaux Begles          |         2 |   1        |
 | Scotland                 |         1 |   1        |
 | Boland Cavaliers         |         1 |   1        |
 | Ulster                   |         1 |   0        |
-| Bordeaux Begles          |         1 |   1        |
 | France                   |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Racing 92                |         1 |   1        |

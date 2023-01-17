@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pierre AGUILLON  
-date: 2023-01-13 11:26:05.586411  
+date: 2023-01-17 11:37:14.395954  
 categories: player  
 ---
 # Pierre AGUILLON
 
 ## Positions: C
 
-## Current elo: 51.0
+## Current elo: 58.0
 
 ## Current Percentile: 0.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | La Rochelle       |           125 |   0.612    |
-| Carcassonne       |            57 |   0.587719 |
+| Carcassonne       |            58 |   0.586207 |
 | Oyonnax           |            47 |   0.489362 |
 | Grenoble          |            44 |   0.704545 |
 | Auch              |            41 |   0.390244 |
@@ -34,37 +34,37 @@ categories: player
 | Stade Francais Paris |        16 |   0.375    |
 | Pau                  |        15 |   0.633333 |
 | Agen                 |        14 |   0.607143 |
-| Bordeaux Begles      |        14 |   0.607143 |
 | Lyon                 |        14 |   0.428571 |
+| Bordeaux Begles      |        14 |   0.607143 |
 | Toulon               |        13 |   0.538462 |
+| Grenoble             |        13 |   0.576923 |
 | Oyonnax              |        13 |   0.615385 |
-| Grenoble             |        12 |   0.583333 |
+| Stade Toulousain     |        12 |   0.375    |
 | Castres Olympique    |        12 |   0.583333 |
 | Clermont Auvergne    |        12 |   0.375    |
-| Stade Toulousain     |        12 |   0.375    |
 | Brive                |        12 |   0.75     |
 | Montpellier Herault  |        11 |   0.545455 |
 | Colomiers            |        10 |   0.5      |
-| Tarbes               |         9 |   0.555556 |
 | Aurillac             |         9 |   0.555556 |
+| Tarbes               |         9 |   0.555556 |
 | La Rochelle          |         8 |   0.4375   |
 | Bayonne              |         8 |   0.5      |
-| Narbonne             |         8 |   0.625    |
 | Albi                 |         8 |   0.5625   |
-| Dax                  |         6 |   0.75     |
-| Beziers              |         6 |   1        |
-| Provence Rugby       |         6 |   0.666667 |
+| Narbonne             |         8 |   0.625    |
 | Mont-de-Marsan       |         6 |   0.333333 |
+| Beziers              |         6 |   1        |
+| Dax                  |         6 |   0.75     |
+| Provence Rugby       |         6 |   0.666667 |
 | Auch                 |         5 |   1        |
-| Biarritz Olympique   |         4 |   0.5      |
 | Harlequins           |         4 |   0.5      |
 | Gloucester Rugby     |         4 |   0.25     |
+| Biarritz Olympique   |         4 |   0.5      |
 | RC Enisei            |         2 |   1        |
 | Périgueux            |         2 |   1        |
-| Ulster               |         2 |   0.5      |
 | Saint-Etienne        |         2 |   1        |
-| Perpignan            |         2 |   1        |
 | Worcester Warriors   |         2 |   0.75     |
+| Perpignan            |         2 |   1        |
+| Ulster               |         2 |   0.5      |
 | Massy                |         2 |   0        |
 | Zebre                |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |

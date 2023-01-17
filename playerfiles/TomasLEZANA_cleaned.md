@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas LEZANA  
-date: 2023-01-13 11:35:53.266141  
+date: 2023-01-17 11:28:42.518594  
 categories: player  
 ---
 # Tomas LEZANA
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Jaguares      |            47 |   0.489362 |
 | Argentina     |            40 |   0.3      |
-| Scarlets      |            17 |   0.441176 |
+| Scarlets      |            18 |   0.472222 |
 | Western Force |             5 |   0.4      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,6 +45,7 @@ categories: player
 | Southern Kings           |         3 |   0.666667 |
 | Australia                |         3 |   0        |
 | Chiefs                   |         3 |   0.666667 |
+| Cheetahs                 |         3 |   1        |
 | Georgia                  |         2 |   1        |
 | Dragons                  |         2 |   0.5      |
 | Ireland                  |         2 |   0        |
@@ -52,7 +53,6 @@ categories: player
 | Crusaders                |         2 |   0        |
 | Melbourne Rebels         |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
-| Cheetahs                 |         2 |   1        |
 | Cardiff Blues            |         2 |   1        |
 | Scotland                 |         2 |   0        |
 | Blues                    |         2 |   0.5      |

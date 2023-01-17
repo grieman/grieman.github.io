@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vano KARKADZE  
-date: 2023-01-13 11:34:34.229319  
+date: 2023-01-17 11:37:31.127996  
 categories: player  
 ---
 # Vano KARKADZE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 42.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Brive    |            33 |   0.287879 |
+| Brive    |            34 |   0.279412 |
 | Georgia  |             7 |   0.785714 |
 | Aurillac |             3 |   0.333333 |
 
@@ -38,6 +38,7 @@ categories: player
 | Racing 92            |         2 |        0   |
 | Castres Olympique    |         2 |        0.5 |
 | Toulon               |         2 |        0.5 |
+| Connacht             |         2 |        0   |
 | Belgium              |         2 |        1   |
 | Montpellier Herault  |         2 |        0   |
 | Perpignan            |         2 |        1   |
@@ -51,7 +52,6 @@ categories: player
 | Carcassonne          |         1 |        0   |
 | Germany              |         1 |        1   |
 | Edinburgh            |         1 |        0   |
-| Connacht             |         1 |        0   |
 | Colomiers            |         1 |        1   |
 | Clermont Auvergne    |         1 |        0   |
 | Zebre                |         1 |        0   |

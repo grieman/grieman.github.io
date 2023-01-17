@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Segundo TUCULET  
-date: 2023-01-13 11:34:41.473493  
+date: 2023-01-17 11:38:03.493707  
 categories: player  
 ---
 # Segundo TUCULET
 
 ## Positions: FB, W
 
-## Current elo: 81.0
+## Current elo: 76.0
 
 ## Current Percentile: 16.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Montauban                  |            31 |   0.467742 |
+| Montauban                  |            32 |   0.484375 |
 | Valence Romans Drome Rugby |            25 |   0.38     |
 | Los Tilos                  |            17 |   0.264706 |
 | Narbonne                   |            12 |   0.166667 |
@@ -34,9 +34,9 @@ categories: player
 | Aurillac            |         5 |   0.4      |
 | Rouen               |         5 |   0.6      |
 | Biarritz Olympique  |         5 |   0.2      |
+| Provence Rugby      |         5 |   0.2      |
 | Vannes              |         4 |   0.75     |
 | Grenoble            |         4 |   0        |
-| Provence Rugby      |         4 |   0        |
 | Carcassonne         |         4 |   0.5      |
 | Montauban           |         4 |   0.25     |
 | Soyaux-Angouleme    |         3 |   0.166667 |

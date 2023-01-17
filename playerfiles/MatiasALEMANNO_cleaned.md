@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias ALEMANNO  
-date: 2023-01-13 11:32:50.740676  
+date: 2023-01-17 11:43:46.379677  
 categories: player  
 ---
 # Matias ALEMANNO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Argentina        |            84 |   0.27381  |
 | Jaguares         |            46 |   0.434783 |
-| Gloucester Rugby |            41 |   0.52439  |
+| Gloucester Rugby |            42 |   0.511905 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -42,33 +42,34 @@ categories: player
 | London Irish             |         5 |   0.7      |
 | Bristol Rugby            |         5 |   0.4      |
 | Exeter Chiefs            |         4 |   0.5      |
-| Bath Rugby               |         4 |   0.75     |
-| Southern Kings           |         4 |   0.5      |
 | Northampton Saints       |         4 |   0.75     |
 | Harlequins               |         4 |   0        |
+| Southern Kings           |         4 |   0.5      |
+| Bath Rugby               |         4 |   0.75     |
 | Wasps                    |         3 |   0.666667 |
 | Leicester Tigers         |         3 |   0        |
 | Bulls                    |         3 |   0.666667 |
 | Saracens                 |         3 |   0.666667 |
 | Queensland Reds          |         3 |   0.666667 |
-| Crusaders                |         2 |   0        |
-| Italy                    |         2 |   1        |
 | Blues                    |         2 |   1        |
 | Tonga                    |         2 |   1        |
 | Sunwolves                |         2 |   0.5      |
-| Georgia                  |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
 | Sale Sharks              |         2 |   0.5      |
-| France                   |         2 |   0        |
 | Newcastle Falcons        |         2 |   0.5      |
+| France                   |         2 |   0        |
 | Cheetahs                 |         2 |   1        |
 | Chiefs                   |         2 |   0.5      |
+| Italy                    |         2 |   1        |
+| Crusaders                |         2 |   0        |
+| Georgia                  |         2 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Namibia                  |         1 |   1        |
-| Bordeaux Begles          |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
-| Hurricanes               |         1 |   0        |
-| United States of America |         1 |   1        |
+| Leinster                 |         1 |   0        |
 | Japan                    |         1 |   1        |
+| Bordeaux Begles          |         1 |   1        |
+| United States of America |         1 |   1        |
+| Hurricanes               |         1 |   0        |
 | Western Force            |         1 |   0        |
 | Worcester Warriors       |         1 |   1        |

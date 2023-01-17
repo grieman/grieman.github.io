@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom ECOCHARD  
-date: 2023-01-13 11:27:33.832817  
+date: 2023-01-17 11:31:36.972473  
 categories: player  
 ---
 # Tom ECOCHARD
 
 ## Positions: SH
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: 57.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |           210 |   0.497619 |
+| Perpignan |           211 |   0.495261 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -58,10 +58,10 @@ categories: player
 | Brive                      |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
+| Glasgow Warriors           |         2 |   0        |
 | Stade Francais Paris       |         2 |   0        |
 | Munster                    |         2 |   0        |
 | Connacht                   |         2 |   0        |
-| Glasgow Warriors           |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Rovigo                     |         1 |   1        |
 | Edinburgh                  |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Victor DREUILLE  
-date: 2023-01-13 11:38:58.361816  
+date: 2023-01-17 11:29:35.074416  
 categories: player  
 ---
 # Victor DREUILLE
 
 ## Positions: FH, C
 
-## Current elo: 84.0
+## Current elo: 89.0
 
 ## Current Percentile: 19.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            57 |   0.464912 |
+| Beziers |            58 |   0.474138 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -31,10 +31,10 @@ categories: player
 | Vannes             |         4 |   0.5      |
 | Mont-de-Marsan     |         4 |   0.25     |
 | Montauban          |         4 |   0.75     |
+| Aurillac           |         4 |   0.75     |
 | Bayonne            |         3 |   0.333333 |
 | Soyaux-Angouleme   |         3 |   0.333333 |
 | Grenoble           |         3 |   0.333333 |
-| Aurillac           |         3 |   0.666667 |
 | Rouen              |         3 |   1        |
 | Provence Rugby     |         2 |   0.5      |
 | Roval Drome XV     |         2 |   1        |
