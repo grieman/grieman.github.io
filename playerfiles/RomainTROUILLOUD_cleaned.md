@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain TROUILLOUD  
-date: 2023-01-17 11:28:45.456062  
+date: 2023-01-19 11:51:09.343859  
 categories: player  
 ---
 # Romain TROUILLOUD

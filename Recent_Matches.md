@@ -20,9 +20,9 @@ Last Round Error: 13.32 points per match
 
 [2023-01-13 Cheetahs (1457.05) at Scarlets (1527.18); 17-20](reviews//2023-01-13-Scarlets-Cheetahs)
 
-[2023-01-14 Bayonne (1439.76) at Benetton Treviso (1528.54); 7-26](reviews//2023-01-14-BenettonTreviso-Bayonne)
-
 [2023-01-14 Lions (1471.66) at Stade Francais Paris (1531.5); 7-17](reviews//2023-01-14-StadeFrancaisParis-Lions)
+
+[2023-01-14 Bayonne (1439.76) at Benetton Treviso (1528.54); 7-26](reviews//2023-01-14-BenettonTreviso-Bayonne)
 
 [2023-01-14 Brive (1409.06) at Connacht (1499.61); 5-61](reviews//2023-01-14-Connacht-Brive)
 
@@ -67,22 +67,6 @@ Last Round Error: 10.56 points per match
 [2023-01-15 Stormers (1597.68) at London Irish (1568.4); 28-14](reviews//2023-01-15-LondonIrish-Stormers)
 
 [2023-01-15 Harlequins (1570.92) at Racing 92 (1568.96); 29-30](reviews//2023-01-15-Racing92-Harlequins)
-## Gallagher Premiership
-
-
-Competition Accuracy: 46 of 72 (63.89%)
-
-Competition Error: 11.46 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 13.1 points per match
-
-[2023-01-07 Northampton Saints (1588.11) at Exeter Chiefs (1521.3); 12-35](reviews//2023-01-07-ExeterChiefs-NorthamptonSaints)
-
-[2023-01-08 Sale Sharks (1632.45) at Harlequins (1452.53); 24-16](reviews//2023-01-08-Harlequins-SaleSharks)
-
-[2023-01-08 Bristol Rugby (1505.74) at London Irish (1645.79); 7-23](reviews//2023-01-08-LondonIrish-BristolRugby)
 ## Japan Rugby League One
 
 
@@ -94,12 +78,6 @@ Last Round Accuracy: 3 of 6 (50.0%)
 
 Last Round Error: 22.88 points per match
 
-[2023-01-08 Kubota Spears Funabashi Tokyo-Bay (1629.22) at Hanazono Kintetsu Liners (1465.55); 77-12](reviews//2023-01-08-HanazonoKintetsuLiners-KubotaSpearsFunabashiTokyo-Bay)
-
-[2023-01-08 Black Rams Tokyo (1417.9) at Toyota Verblitz (1620.16); 29-25](reviews//2023-01-08-ToyotaVerblitz-BlackRamsTokyo)
-
-[2023-01-08 Kobelco Kobe Steelers (1620.09) at Green Rockets Tokatsu (1417.84); 43-33](reviews//2023-01-08-GreenRocketsTokatsu-KobelcoKobeSteelers)
-
 [2023-01-14 Yokohama Canon Eagles (1613.02) at Hanazono Kintetsu Liners (1431.87); 74-7](reviews//2023-01-14-HanazonoKintetsuLiners-YokohamaCanonEagles)
 
 [2023-01-14 Toshiba Brave Lupus Tokyo (1663.3) at Mitsubishi Dynaboars (1491.53); 19-23](reviews//2023-01-14-MitsubishiDynaboars-ToshibaBraveLupusTokyo)
@@ -108,9 +86,9 @@ Last Round Error: 22.88 points per match
 
 [2023-01-14 Green Rockets Tokatsu (1521.06) at Kubota Spears Funabashi Tokyo-Bay (1625.24); 7-40](reviews//2023-01-14-KubotaSpearsFunabashiTokyo-Bay-GreenRocketsTokatsu)
 
-[2023-01-15 Toyota Verblitz (1566.95) at Saitama Wild Knights (1606.34); 19-34](reviews//2023-01-15-SaitamaWildKnights-ToyotaVerblitz)
-
 [2023-01-15 Black Rams Tokyo (1467.61) at Shizuoka Blue Revs (1519.72); 34-22](reviews//2023-01-15-ShizuokaBlueRevs-BlackRamsTokyo)
+
+[2023-01-15 Toyota Verblitz (1566.95) at Saitama Wild Knights (1606.34); 19-34](reviews//2023-01-15-SaitamaWildKnights-ToyotaVerblitz)
 ## Japan Rugby League One Division 2
 
 
@@ -122,9 +100,9 @@ Last Round Accuracy: 1 of 3 (33.33%)
 
 Last Round Error: 30.87 points per match
 
-[2023-01-14 Toyota Industries Shuttles Aichi (1531.1) at Urayasu D-Rocks (1391.74); 16-55](reviews//2023-01-14-UrayasuD-Rocks-ToyotaIndustriesShuttlesAichi)
-
 [2023-01-14 Kamaishi Seawaves (1260.32) at Shimizu Blue Sharks (1329.44); 44-22](reviews//2023-01-14-ShimizuBlueSharks-KamaishiSeawaves)
+
+[2023-01-14 Toyota Industries Shuttles Aichi (1531.1) at Urayasu D-Rocks (1391.74); 16-55](reviews//2023-01-14-UrayasuD-Rocks-ToyotaIndustriesShuttlesAichi)
 
 [2023-01-15 Hino Red Dolphins (1515.69) at Mie Honda Heat (1588.25); 19-20](reviews//2023-01-15-MieHondaHeat-HinoRedDolphins)
 ## Pro D2
@@ -142,15 +120,15 @@ Last Round Error: 10.65 points per match
 
 [2023-01-13 Oyonnax (1628.09) at Nevers (1497.81); 21-12](reviews//2023-01-13-Nevers-Oyonnax)
 
-[2023-01-13 Soyaux-Angouleme (1383.47) at Rouen (1280.84); 16-42](reviews//2023-01-13-Rouen-Soyaux-Angouleme)
-
-[2023-01-13 Provence Rugby (1360.02) at Montauban (1528.14); 16-20](reviews//2023-01-13-Montauban-ProvenceRugby)
-
-[2023-01-13 Massy (1405.79) at Mont-de-Marsan (1524.82); 7-23](reviews//2023-01-13-Mont-de-Marsan-Massy)
+[2023-01-13 Aurillac (1489.59) at Beziers (1526.94); 10-34](reviews//2023-01-13-Beziers-Aurillac)
 
 [2023-01-13 Carcassonne (1376.85) at Grenoble (1485.56); 15-15](reviews//2023-01-13-Grenoble-Carcassonne)
 
-[2023-01-13 Aurillac (1489.59) at Beziers (1526.94); 10-34](reviews//2023-01-13-Beziers-Aurillac)
+[2023-01-13 Massy (1405.79) at Mont-de-Marsan (1524.82); 7-23](reviews//2023-01-13-Mont-de-Marsan-Massy)
+
+[2023-01-13 Provence Rugby (1360.02) at Montauban (1528.14); 16-20](reviews//2023-01-13-Montauban-ProvenceRugby)
+
+[2023-01-13 Soyaux-Angouleme (1383.47) at Rouen (1280.84); 16-42](reviews//2023-01-13-Rouen-Soyaux-Angouleme)
 
 [2023-01-13 Biarritz Olympique (1475.7) at Colomiers (1518.82); 17-23](reviews//2023-01-13-Colomiers-BiarritzOlympique)
 ## RFU Championship
@@ -164,59 +142,7 @@ Last Round Accuracy: 4 of 6 (66.67%)
 
 Last Round Error: 14.96 points per match
 
-[2023-01-07 Ealing Trailfinders (1534.86) at Caldy (1294.11); 24-26](reviews//2023-01-07-Caldy-EalingTrailfinders)
-
-[2023-01-07 Doncaster (1418.12) at Cornish Pirates (1526.69); 15-37](reviews//2023-01-07-CornishPirates-Doncaster)
-
-[2023-01-07 Hartpury College (1460.95) at London Scottish (1306.74); 20-19](reviews//2023-01-07-LondonScottish-HartpuryCollege)
-
 [2023-01-13 Nottingham (1412.6) at Cornish Pirates (1573.3); 6-17](reviews//2023-01-13-CornishPirates-Nottingham)
-## Top 14 Orange
-
-
-Competition Accuracy: 64 of 105 (60.95%)
-
-Competition Error: 11.51 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 10.53 points per match
-
-[2023-01-07 Bayonne (1559.29) at Bordeaux Begles (1683.98); 15-23](reviews//2023-01-07-BordeauxBegles-Bayonne)
-
-[2023-01-07 Castres Olympique (1591.32) at Stade Francais Paris (1741.51); 7-26](reviews//2023-01-07-StadeFrancaisParis-CastresOlympique)
-
-[2023-01-07 Lyon (1472.91) at Pau (1501.3); 21-12](reviews//2023-01-07-Pau-Lyon)
-
-[2023-01-07 Perpignan (1399.68) at Clermont Auvergne (1578.17); 20-31](reviews//2023-01-07-ClermontAuvergne-Perpignan)
-
-[2023-01-07 Toulon (1593.43) at Brive (1547.67); 17-26](reviews//2023-01-07-Brive-Toulon)
-
-[2023-01-07 Stade Toulousain (1690.9) at La Rochelle (1617.21); 7-30](reviews//2023-01-07-LaRochelle-StadeToulousain)
-
-[2023-01-08 Racing 92 (1593.19) at Montpellier Herault (1582.41); 12-17](reviews//2023-01-08-MontpellierHerault-Racing92)
-## United Rugby Championship
-
-
-Competition Accuracy: 66 of 93 (70.97%)
-
-Competition Error: 11.82 points per match
-
-Last Round Accuracy: 6 of 8 (75.0%)
-
-Last Round Error: 10.75 points per match
-
-[2023-01-07 Ulster (1623.43) at Benetton Treviso (1510.96); 29-31](reviews//2023-01-07-BenettonTreviso-Ulster)
-
-[2023-01-07 Zebre (1353.11) at Edinburgh (1611.3); 17-24](reviews//2023-01-07-Edinburgh-Zebre)
-
-[2023-01-07 Scarlets (1604.82) at Cardiff Blues (1476.06); 28-22](reviews//2023-01-07-CardiffBlues-Scarlets)
-
-[2023-01-07 Sharks (1440.04) at Connacht (1523.53); 12-24](reviews//2023-01-07-Connacht-Sharks)
-
-[2023-01-07 Leinster (1714.04) at Ospreys (1539.73); 24-19](reviews//2023-01-07-Ospreys-Leinster)
-
-[2023-01-08 Stormers (1669.34) at Glasgow Warriors (1513.76); 17-24](reviews//2023-01-08-GlasgowWarriors-Stormers)
 # Domestic Leagues
 
 ## Japan Rugby League One Division 3
@@ -230,11 +156,9 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 16.82 points per match
 
-[2023-01-08 Skyactivs Hiroshima (1127.41) at Kurita Water Gush (1333.95); 27-33](reviews//2023-01-08-KuritaWaterGush-SkyactivsHiroshima)
+[2023-01-15 Kurita Water Gush (1250.47) at Chugoku Red Regulions (1095.7); 24-36](reviews//2023-01-15-ChugokuRedRegulions-KuritaWaterGush)
 
 [2023-01-15 Skyactivs Hiroshima (1174.0) at NTT Docomo Red Hurricanes Osaka (1432.4); 21-43](reviews//2023-01-15-NTTDocomoRedHurricanesOsaka-SkyactivsHiroshima)
-
-[2023-01-15 Kurita Water Gush (1250.47) at Chugoku Red Regulions (1095.7); 24-36](reviews//2023-01-15-ChugokuRedRegulions-KuritaWaterGush)
 ## Nationale
 
 
