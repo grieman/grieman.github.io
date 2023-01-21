@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Johannes Gideon Andries JONKER  
-date: 2023-01-19 11:41:06.193812  
+date: 2023-01-21 15:40:58.339129  
 categories: player  
 ---
 # Johannes Gideon Andries JONKER
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -23,20 +23,20 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Lions               |            37 |   0.648649 |
 | Golden Lions        |            13 |   0.615385 |
+| Bath Rugby          |            12 |   0.291667 |
 | Border Bulldogs     |            12 |   0.333333 |
 | Montpellier Herault |            12 |   0.5      |
-| Bath Rugby          |            11 |   0.272727 |
 | Ealing Trailfinders |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Griquas                  |         5 |   0.8      |
 | Sharks                   |         4 |   0.5      |
+| Glasgow Warriors         |         4 |   0.625    |
 | Jaguares                 |         4 |   0.5      |
 | Western Province         |         3 |   0.333333 |
 | Blue Bulls               |         3 |   0.666667 |
 | New South Wales Waratahs |         3 |   1        |
-| Glasgow Warriors         |         3 |   0.666667 |
 | Newcastle Falcons        |         3 |   0.666667 |
 | Crusaders                |         3 |   0        |
 | Hurricanes               |         3 |   0.333333 |

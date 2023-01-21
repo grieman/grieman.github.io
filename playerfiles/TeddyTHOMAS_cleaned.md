@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy THOMAS  
-date: 2023-01-19 11:43:22.269305  
+date: 2023-01-21 15:41:41.787917  
 categories: player  
 ---
 # Teddy THOMAS
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Racing 92          |           103 |   0.601942 |
 | Biarritz Olympique |            27 |   0.240741 |
 | France             |            26 |   0.480769 |
-| La Rochelle        |            13 |   0.615385 |
+| La Rochelle        |            14 |   0.642857 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -58,12 +58,12 @@ categories: player
 | Ulster               |         2 |   1        |
 | Leinster             |         2 |   0        |
 | Ospreys              |         2 |   1        |
+| Northampton Saints   |         2 |   1        |
 | Italy                |         2 |   1        |
 | Fiji                 |         2 |   0.5      |
 | England              |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
 | Australia            |         2 |   0.5      |
-| Northampton Saints   |         1 |   1        |
 | Argentina            |         1 |   1        |
 | Japan                |         1 |   0.5      |
 | Gloucester Rugby     |         1 |   1        |

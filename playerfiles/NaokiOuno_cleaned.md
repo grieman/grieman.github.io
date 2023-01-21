@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Naoki Ouno  
-date: 2023-01-19 11:41:25.583736  
+date: 2023-01-21 15:44:41.453469  
 categories: player  
 ---
 # Naoki Ouno

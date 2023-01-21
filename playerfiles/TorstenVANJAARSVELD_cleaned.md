@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Torsten VAN JAARSVELD  
-date: 2023-01-19 11:52:54.329744  
+date: 2023-01-21 15:43:36.634879  
 categories: player  
 ---
 # Torsten VAN JAARSVELD
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 114.0
+## Current elo: 113.0
 
 ## Current Percentile: 87.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bayonne             |            86 |   0.581395 |
+| Bayonne             |            87 |   0.574713 |
 | Cheetahs            |            71 |   0.366197 |
 | Pumas               |            32 |   0.359375 |
 | Free State Cheetahs |            18 |   0.583333 |
@@ -46,16 +46,16 @@ categories: player
 | Montauban                |         4 |   1        |
 | Stade Toulousain         |         4 |   0.75     |
 | Mont-de-Marsan           |         4 |   0.125    |
+| Scarlets                 |         4 |   0.25     |
 | Bordeaux Begles          |         4 |   0.25     |
 | Stade Francais Paris     |         4 |   0.5      |
 | Colomiers                |         4 |   0.75     |
 | Sunwolves                |         4 |   1        |
 | Aurillac                 |         4 |   0.75     |
 | Vannes                   |         3 |   1        |
-| Western Force            |         3 |   0.666667 |
 | Southern Kings           |         3 |   1        |
 | Beziers                  |         3 |   0.666667 |
-| Scarlets                 |         3 |   0.333333 |
+| Western Force            |         3 |   0.666667 |
 | Provence Rugby           |         3 |   0.333333 |
 | Oyonnax                  |         3 |   0.666667 |
 | Montpellier Herault      |         3 |   0.333333 |

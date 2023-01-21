@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Quentin LESPIAUCQ-BRETTES  
-date: 2023-01-19 11:40:50.402849  
+date: 2023-01-21 15:45:30.956961  
 categories: player  
 ---
 # Quentin LESPIAUCQ-BRETTES
 
 ## Positions: H
 
-## Current elo: 76.0
+## Current elo: 78.0
 
 ## Current Percentile: 2.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Pau         |           135 |   0.437037 |
-| La Rochelle |            14 |   0.714286 |
+| La Rochelle |            15 |   0.733333 |
 | Dax         |             9 |   0.222222 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -31,28 +31,28 @@ categories: player
 | Stade Francais Paris |        13 |   0.461538 |
 | Castres Olympique    |        12 |   0.416667 |
 | Racing 92            |        10 |   0.35     |
+| Brive                |         9 |   0.555556 |
 | La Rochelle          |         9 |   0.222222 |
 | Bordeaux Begles      |         9 |   0.444444 |
-| Brive                |         9 |   0.555556 |
 | Agen                 |         8 |   0.875    |
-| Stade Toulousain     |         8 |   0.25     |
 | Lyon                 |         8 |   0.5625   |
-| Clermont Auvergne    |         7 |   0.285714 |
+| Stade Toulousain     |         8 |   0.25     |
 | Montpellier Herault  |         7 |   0.428571 |
+| Clermont Auvergne    |         7 |   0.285714 |
 | Bayonne              |         6 |   0.75     |
 | Cardiff Blues        |         4 |   0.25     |
 | Grenoble             |         4 |   1        |
 | Oyonnax              |         4 |   0.75     |
 | Perpignan            |         4 |   1        |
 | Pau                  |         3 |   0        |
+| Northampton Saints   |         2 |   1        |
 | Ulster               |         2 |   1        |
 | Bristol Rugby        |         2 |   0        |
 | Bath Rugby           |         2 |   0        |
-| Massy                |         1 |   0        |
 | Montauban            |         1 |   0        |
-| Albi                 |         1 |   0        |
+| Massy                |         1 |   0        |
 | Narbonne             |         1 |   1        |
-| Northampton Saints   |         1 |   1        |
+| Albi                 |         1 |   0        |
 | Leicester Tigers     |         1 |   1        |
 | Dragons              |         1 |   0        |
 | Calvisano            |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Olivier KLEMENCZAK  
-date: 2023-01-19 11:43:20.001027  
+date: 2023-01-21 15:40:28.209923  
 categories: player  
 ---
 # Olivier KLEMENCZAK
 
 ## Positions: C
 
-## Current elo: 113.0
+## Current elo: 110.0
 
 ## Current Percentile: 86.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            91 |   0.620879 |
+| Racing 92 |            92 |   0.61413  |
 | Dax       |            59 |   0.355932 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -57,12 +57,12 @@ categories: player
 | Beziers              |         2 |  0.5       |
 | Scarlets             |         2 |  1         |
 | Vannes               |         2 |  1         |
+| Leinster             |         2 |  0         |
 | Oyonnax              |         2 |  0.5       |
 | Ospreys              |         2 |  1         |
 | Nevers               |         2 |  0.5       |
 | Leicester Tigers     |         2 |  1         |
 | Provence Rugby       |         1 |  1         |
-| Leinster             |         1 |  0         |
 | Harlequins           |         1 |  1         |
 | Munster              |         1 |  1         |
 | Exeter Chiefs        |         1 |  0         |

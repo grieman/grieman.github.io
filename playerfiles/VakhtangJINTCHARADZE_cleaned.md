@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vakhtang JINTCHARADZE  
-date: 2023-01-19 11:52:22.322521  
+date: 2023-01-21 15:46:00.709689  
 categories: player  
 ---
 # Vakhtang JINTCHARADZE
 
 ## Positions: P
 
-## Current elo: 86.0
+## Current elo: 88.0
 
 ## Current Percentile: None
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            15 |   0.766667 |
-| Narbonne  |             3 |   0        |
+| Perpignan |            16 |    0.71875 |
+| Narbonne  |             3 |    0       |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Colomiers                  |         2 |   0.5      |
 | Aurillac                   |         1 |   0.5      |
 | Beziers                    |         1 |   0        |
+| Bristol Rugby              |         1 |   0        |
 | Carcassonne                |         1 |   1        |
 | Glasgow Warriors           |         1 |   0        |
 | Mont-de-Marsan             |         1 |   1        |

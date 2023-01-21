@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nika NEPARIDZE  
-date: 2023-01-19 11:40:20.373423  
+date: 2023-01-21 15:45:02.003705  
 categories: player  
 ---
 # Nika NEPARIDZE
 
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 82.0
 
-## Current Percentile: 9.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Vannes   |            26 |   0.538462 |
-| Nice     |            22 |   0.477273 |
+| Nice     |            23 |   0.456522 |
 | Grenoble |            18 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,6 +31,7 @@ categories: player
 | Massy                      |         4 |   0.75     |
 | Provence Rugby             |         4 |   0.5      |
 | Biarritz Olympique         |         4 |   0.25     |
+| Bourgoin-Jallieu           |         4 |   0.25     |
 | Nevers                     |         4 |   0.75     |
 | Carcassonne                |         4 |   0.25     |
 | Colomiers                  |         3 |   0.666667 |
@@ -38,20 +39,19 @@ categories: player
 | Mont-de-Marsan             |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
 | Albi                       |         3 |   0.833333 |
-| Bourgoin-Jallieu           |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
-| Soyaux-Angouleme           |         2 |   0        |
-| Beziers                    |         2 |   1        |
-| Perpignan                  |         2 |   0        |
-| Blagnac                    |         2 |   0.5      |
 | Montauban                  |         2 |   0        |
+| Blagnac                    |         2 |   0.5      |
+| Perpignan                  |         2 |   0        |
+| Beziers                    |         2 |   1        |
+| Soyaux-Angouleme           |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
-| Narbonne                   |         1 |   0        |
-| Chambery                   |         1 |   0        |
-| Brive                      |         1 |   0        |
+| Dijon                      |         1 |   0        |
 | Aubenas                    |         1 |   1        |
+| Chambery                   |         1 |   0        |
+| Narbonne                   |         1 |   0        |
+| Brive                      |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Rouen                      |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
-| Dijon                      |         1 |   0        |
 | Suresnes                   |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas MUNILLA  
-date: 2023-01-19 11:40:14.201688  
+date: 2023-01-21 15:42:30.677507  
 categories: player  
 ---
 # Tomas MUNILLA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 83.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Beziers          |            68 |   0.411765 |
 | Spain            |            14 |   0.642857 |
-| Bourgoin-Jallieu |             7 |   0.571429 |
+| Bourgoin-Jallieu |             8 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,31 +36,32 @@ categories: player
 | Oyonnax                    |         5 |   0.2      |
 | Nevers                     |         5 |   0.1      |
 | Carcassonne                |         5 |   0.4      |
-| Grenoble                   |         4 |   0.25     |
 | Montauban                  |         4 |   0.75     |
+| Grenoble                   |         4 |   0.25     |
 | Vannes                     |         4 |   0.25     |
 | Portugal                   |         3 |   0.666667 |
 | US Bressane                |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.666667 |
+| Perpignan                  |         2 |   0        |
 | Russia                     |         2 |   1        |
 | Roval Drome XV             |         2 |   1        |
 | Biarritz Olympique         |         2 |   0        |
 | Romania                    |         2 |   0.5      |
-| Perpignan                  |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
 | Bayonne                    |         2 |   0.5      |
 | Georgia                    |         2 |   0        |
-| Netherlands                |         1 |   1        |
 | Brazil                     |         1 |   1        |
+| Nice                       |         1 |   1        |
 | Blagnac                    |         1 |   0        |
-| Chile                      |         1 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| Netherlands                |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | Brive                      |         1 |   1        |
-| Massy                      |         1 |   1        |
 | Canada                     |         1 |   1        |
-| Samoa                      |         1 |   0        |
+| Massy                      |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   0.5      |
+| Samoa                      |         1 |   0        |
 | Chambery                   |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   0.5      |
+| Chile                      |         1 |   1        |

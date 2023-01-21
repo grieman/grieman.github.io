@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias ALEMANNO  
-date: 2023-01-19 11:52:40.383041  
+date: 2023-01-21 15:43:23.932965  
 categories: player  
 ---
 # Matias ALEMANNO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 115.0
+## Current elo: 117.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Argentina        |            84 |   0.27381  |
 | Jaguares         |            46 |   0.434783 |
-| Gloucester Rugby |            42 |   0.511905 |
+| Gloucester Rugby |            43 |   0.523256 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -44,17 +44,18 @@ categories: player
 | Exeter Chiefs            |         4 |   0.5      |
 | Northampton Saints       |         4 |   0.75     |
 | Harlequins               |         4 |   0        |
-| Southern Kings           |         4 |   0.5      |
 | Bath Rugby               |         4 |   0.75     |
-| Wasps                    |         3 |   0.666667 |
-| Leicester Tigers         |         3 |   0        |
-| Bulls                    |         3 |   0.666667 |
+| Southern Kings           |         4 |   0.5      |
 | Saracens                 |         3 |   0.666667 |
+| Bulls                    |         3 |   0.666667 |
+| Leicester Tigers         |         3 |   0        |
+| Wasps                    |         3 |   0.666667 |
 | Queensland Reds          |         3 |   0.666667 |
-| Blues                    |         2 |   1        |
-| Tonga                    |         2 |   1        |
+| Bordeaux Begles          |         2 |   1        |
 | Sunwolves                |         2 |   0.5      |
+| Tonga                    |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
+| Blues                    |         2 |   1        |
 | Sale Sharks              |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   0.5      |
 | France                   |         2 |   0        |
@@ -68,7 +69,6 @@ categories: player
 | Melbourne Rebels         |         1 |   1        |
 | Leinster                 |         1 |   0        |
 | Japan                    |         1 |   1        |
-| Bordeaux Begles          |         1 |   1        |
 | United States of America |         1 |   1        |
 | Hurricanes               |         1 |   0        |
 | Western Force            |         1 |   0        |

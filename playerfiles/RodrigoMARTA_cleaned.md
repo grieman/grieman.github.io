@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rodrigo MARTA  
-date: 2023-01-19 11:43:03.035376  
+date: 2023-01-21 15:40:05.462939  
 categories: player  
 ---
 # Rodrigo MARTA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 

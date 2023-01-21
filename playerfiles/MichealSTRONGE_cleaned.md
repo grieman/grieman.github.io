@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Micheal STRONGE  
-date: 2023-01-19 11:40:25.794238  
+date: 2023-01-21 15:46:23.916406  
 categories: player  
 ---
 # Micheal STRONGE
 
 ## Positions: SH
 
-## Current elo: 88.0
+## Current elo: 85.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            31 |   0.225806 |
+| Nottingham |            32 |    0.21875 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,4 +35,5 @@ categories: player
 | Ampthill            |         2 |   0.5      |
 | Doncaster           |         2 |   0        |
 | London Scottish     |         2 |   1        |
+| Caldy               |         1 |   0        |
 | Saracens            |         1 |   0        |

@@ -49,5 +49,5 @@ Castres Olympique by 0.1 on a neutral pitch
 |              5 | [Nick Haining](..//playerfiles//NickHaining_cleaned.md)           |     116.55 |                87 |       20 |                65 |     101.93 | [Santiago Arata](..//playerfiles//SantiagoArata_cleaned.md)             |             20 |
 |             30 | [Ben Vellacott](..//playerfiles//BenVellacott_cleaned.md)         |     108.3  |                81 |       21 |                97 |     135.6  | [Adrea Cocagi](..//playerfiles//AdreaCocagi_cleaned.md)                 |             26 |
 |              5 | [Cameron Scott](..//playerfiles//CameronScott_cleaned.md)         |      98.07 |               nan |       22 |                47 |      96.45 | [Kevin Kornath](..//playerfiles//KevinKornath_cleaned.md)               |             76 |
-|            nan | nan                                                               |     nan    |               nan |       23 |                49 |      95.41 | [Tom Staniforth](..//playerfiles//TomStaniforth_cleaned.md)             |             10 |
+|            nan | nan                                                               |     nan    |               nan |       23 |                50 |      95.41 | [Tom Staniforth](..//playerfiles//TomStaniforth_cleaned.md)             |             10 |
 

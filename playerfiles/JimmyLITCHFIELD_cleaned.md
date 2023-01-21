@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jimmy LITCHFIELD  
-date: 2023-01-06 11:51:47.747754  
+date: 2023-01-21 15:42:06.642127  
 categories: player  
 ---
 # Jimmy LITCHFIELD
 
 ## Positions: P
 
-## Current elo: 69.0
+## Current elo: 67.0
 
-## Current Percentile: 1.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Richmond        |            37 |   0.324324 |
+| Richmond        |            38 |   0.315789 |
 | London Scottish |             7 |   0.285714 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -36,6 +36,6 @@ categories: player
 | Ampthill            |         3 |   0.166667 |
 | Doncaster           |         3 |   0        |
 | London Scottish     |         3 |   1        |
-| Caldy               |         1 |   0        |
+| Caldy               |         2 |   0        |
 | London Irish        |         1 |   0        |
 | Saracens            |         1 |   0        |

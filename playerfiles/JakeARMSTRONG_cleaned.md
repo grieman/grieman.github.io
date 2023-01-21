@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake ARMSTRONG  
-date: 2023-01-17 11:42:48.554377  
+date: 2023-01-21 15:44:16.728357  
 categories: player  
 ---
 # Jake ARMSTRONG
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 92.0
 
-## Current Percentile: 71.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Jersey           |            35 |   0.614286 |
 | Bristol Rugby    |            30 |   0.516667 |
-| Doncaster        |             9 |   0.555556 |
+| Doncaster        |            10 |   0.5      |
 | Hartpury College |             7 |   0.142857 |
 | Edinburgh        |             2 |   0        |
 
@@ -36,18 +36,18 @@ categories: player
 | Yorkshire Carnegie  |         4 |   0.25     |
 | Ealing Trailfinders |         4 |   0        |
 | Richmond            |         4 |   0.75     |
-| Bedford             |         3 |   0.666667 |
-| Bath Rugby          |         3 |   0.666667 |
-| Doncaster           |         3 |   0.333333 |
-| Gloucester Rugby    |         3 |   0.666667 |
 | Rotherham Titans    |         3 |   1        |
-| Wasps               |         3 |   0.333333 |
+| Bath Rugby          |         3 |   0.666667 |
 | La Rochelle         |         3 |   0.333333 |
-| Saracens            |         2 |   0        |
-| Zebre               |         2 |   0.5      |
+| Wasps               |         3 |   0.333333 |
+| Hartpury College    |         3 |   0.666667 |
+| Gloucester Rugby    |         3 |   0.666667 |
+| Doncaster           |         3 |   0.333333 |
+| Bedford             |         3 |   0.666667 |
 | Northampton Saints  |         2 |   0        |
+| Saracens            |         2 |   0        |
 | Newcastle Falcons   |         2 |   0.5      |
-| Hartpury College    |         2 |   1        |
+| Zebre               |         2 |   0.5      |
 | Leicester Tigers    |         2 |   0.5      |
 | Harlequins          |         2 |   0.5      |
 | Worcester Warriors  |         2 |   0.5      |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ugo BONIFACE  
-date: 2023-01-19 11:39:42.073466  
+date: 2023-01-21 15:41:30.055342  
 categories: player  
 ---
 # Ugo BONIFACE
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 90.0
 
 ## Current Percentile: 65.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bayonne         |            76 |   0.546053 |
-| Bordeaux Begles |             5 |   0.4      |
+| Bordeaux Begles |             6 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,8 +33,8 @@ categories: player
 | Brive                |         4 |   0.375    |
 | Colomiers            |         4 |   0.75     |
 | Oyonnax              |         3 |   0.666667 |
-| Provence Rugby       |         3 |   0.333333 |
 | La Rochelle          |         3 |   0.333333 |
+| Provence Rugby       |         3 |   0.333333 |
 | Agen                 |         3 |   0.666667 |
 | Castres Olympique    |         3 |   0.666667 |
 | Carcassonne          |         3 |   0.333333 |
@@ -51,11 +51,12 @@ categories: player
 | Bordeaux Begles      |         2 |   0        |
 | Bayonne              |         2 |   0.5      |
 | Vannes               |         2 |   0.5      |
-| Nevers               |         1 |   1        |
 | Massy                |         1 |   1        |
+| Nevers               |         1 |   1        |
 | Lyon                 |         1 |   0        |
 | London Irish         |         1 |   1        |
 | Racing 92            |         1 |   1        |
+| Gloucester Rugby     |         1 |   0        |
 | Sharks               |         1 |   0        |
 | Biarritz Olympique   |         1 |   0        |
 | US Bressane          |         1 |   1        |

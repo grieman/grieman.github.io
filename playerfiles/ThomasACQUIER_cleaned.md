@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas ACQUIER  
-date: 2023-01-19 11:39:58.436552  
+date: 2023-01-21 15:41:40.644201  
 categories: player  
 ---
 # Thomas ACQUIER
 
 ## Positions: H
 
-## Current elo: 119.0
+## Current elo: 117.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Brive       |           144 |   0.527778 |
 | Carcassonne |            59 |   0.432203 |
 | Beziers     |            28 |   0.285714 |
-| Bayonne     |            13 |   0.346154 |
+| Bayonne     |            14 |   0.321429 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -45,10 +45,10 @@ categories: player
 | Narbonne             |         6 |   0.166667 |
 | Colomiers            |         6 |   0.5      |
 | Dax                  |         6 |   0.5      |
-| Beziers              |         6 |   0.833333 |
 | Auch                 |         6 |   0.5      |
 | Tarbes               |         6 |   0.333333 |
 | Grenoble             |         6 |   0.5      |
+| Beziers              |         6 |   0.833333 |
 | Albi                 |         6 |   0.5      |
 | Clermont Auvergne    |         5 |   0.6      |
 | Bourgoin-Jallieu     |         4 |   0.5      |
@@ -58,10 +58,11 @@ categories: player
 | Brive                |         3 |   0.666667 |
 | Biarritz Olympique   |         3 |   0.833333 |
 | Massy                |         3 |   0.333333 |
-| Provence Rugby       |         3 |   0.666667 |
 | US Bressane          |         3 |   0.333333 |
-| Vannes               |         2 |   1        |
+| Provence Rugby       |         3 |   0.666667 |
+| Scarlets             |         2 |   0        |
 | Périgueux            |         2 |   0.5      |
+| Vannes               |         2 |   1        |
 | Newcastle Falcons    |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |
 | Benetton Treviso     |         2 |   0        |
@@ -69,7 +70,6 @@ categories: player
 | Gloucester Rugby     |         2 |   0        |
 | Connacht             |         2 |   0.5      |
 | Zebre                |         2 |   0.5      |
-| Scarlets             |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
 | Bath Rugby           |         1 |   0        |
 | Nevers               |         1 |   1        |

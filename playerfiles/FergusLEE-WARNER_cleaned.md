@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fergus LEE-WARNER  
-date: 2023-01-19 11:42:32.586763  
+date: 2023-01-21 15:39:37.135643  
 categories: player  
 ---
 # Fergus LEE-WARNER
 
 ## Positions: L, FL
 
-## Current elo: 82.0
+## Current elo: 86.0
 
-## Current Percentile: 20.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Western Force       |            49 |   0.367347 |
-| Bath Rugby          |            10 |   0.4      |
+| Bath Rugby          |            11 |   0.409091 |
 | Greater Sydney Rams |             7 |   0.428571 |
 | Worcester Warriors  |             3 |   0.333333 |
 
@@ -44,13 +44,13 @@ categories: player
 | Toulon                   |         2 |   0        |
 | Hurricanes               |         2 |   0.5      |
 | Highlanders              |         2 |   0        |
+| Glasgow Warriors         |         2 |   0.25     |
 | Exeter Chiefs            |         2 |   0        |
 | Crusaders                |         2 |   0        |
 | Chiefs                   |         2 |   0        |
 | Leicester Tigers         |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | Harlequins               |         1 |   0        |
-| Glasgow Warriors         |         1 |   0        |
 | Northampton Saints       |         1 |   1        |
 | Perth Spirit             |         1 |   0        |
 | Saracens                 |         1 |   0        |

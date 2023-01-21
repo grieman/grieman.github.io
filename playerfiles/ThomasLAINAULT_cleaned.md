@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LAINAULT  
-date: 2023-01-19 11:39:32.857220  
+date: 2023-01-21 15:40:27.124639  
 categories: player  
 ---
 # Thomas LAINAULT

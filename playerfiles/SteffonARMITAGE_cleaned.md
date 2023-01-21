@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffon ARMITAGE  
-date: 2023-01-19 11:42:04.322024  
+date: 2023-01-21 15:43:32.097067  
 categories: player  
 ---
 # Steffon ARMITAGE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 103.0
+## Current elo: 101.0
 
-## Current Percentile: 62.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | London Irish       |           120 |   0.545833 |
 | Biarritz Olympique |            65 |   0.469231 |
 | Pau                |            62 |   0.524194 |
-| Nice               |            10 |   0.25     |
+| Nice               |            11 |   0.227273 |
 | England            |             5 |   0.8      |
 | Saracens           |             4 |   0.25     |
 
@@ -70,22 +70,22 @@ categories: player
 | Montauban                  |         4 |   0.5      |
 | Carcassonne                |         4 |   0.5      |
 | Mont-de-Marsan             |         3 |   0.666667 |
-| Exeter Chiefs              |         3 |   1        |
+| Provence Rugby             |         3 |   0.833333 |
 | Vannes                     |         3 |   0.666667 |
+| Bourgoin-Jallieu           |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   1        |
 | Colomiers                  |         3 |   0.666667 |
-| Provence Rugby             |         3 |   0.833333 |
 | Dax                        |         3 |   0.333333 |
+| Exeter Chiefs              |         3 |   1        |
 | Nevers                     |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
-| Glasgow Warriors           |         2 |   1        |
 | Ulster                     |         2 |   1        |
 | Rouen                      |         2 |   1        |
-| Italy                      |         2 |   1        |
+| Glasgow Warriors           |         2 |   1        |
 | Aurillac                   |         2 |   1        |
+| Italy                      |         2 |   1        |
 | Ospreys                    |         2 |   1        |
 | Argentina                  |         2 |   0.5      |
-| Bourgoin-Jallieu           |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
 | Wales                      |         1 |   1        |
 | Munster                    |         1 |   1        |

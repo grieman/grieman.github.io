@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Trevor Ntando NYAKANE  
-date: 2023-01-19 11:42:06.084657  
+date: 2023-01-21 15:42:26.192106  
 categories: player  
 ---
 # Trevor Ntando NYAKANE
@@ -27,7 +27,7 @@ categories: player
 | South Africa        |            59 |   0.618644 |
 | Cheetahs            |            48 |   0.40625  |
 | Free State Cheetahs |            23 |   0.565217 |
-| Racing 92           |            21 |   0.642857 |
+| Racing 92           |            22 |   0.613636 |
 | Blue Bulls          |             7 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -67,21 +67,21 @@ categories: player
 | Ireland                  |         3 |  0.333333  |
 | Montpellier Herault      |         2 |  0.5       |
 | Samoa                    |         2 |  1         |
+| Leinster                 |         2 |  0         |
 | Leopards                 |         2 |  1         |
 | Stade Francais Paris     |         2 |  0.5       |
 | Brive                    |         2 |  1         |
 | England                  |         2 |  0.5       |
 | Japan                    |         2 |  0.5       |
-| Perpignan                |         1 |  0         |
 | Pumas                    |         1 |  1         |
 | Harlequins               |         1 |  1         |
-| Free State Cheetahs      |         1 |  1         |
+| Perpignan                |         1 |  0         |
 | Castres Olympique        |         1 |  0.5       |
 | France                   |         1 |  1         |
 | Georgia                  |         1 |  1         |
-| Clermont Auvergne        |         1 |  1         |
+| Free State Cheetahs      |         1 |  1         |
 | Stade Toulousain         |         1 |  1         |
-| Leinster                 |         1 |  0         |
+| Clermont Auvergne        |         1 |  1         |
 | Toulon                   |         1 |  1         |
 | United States of America |         1 |  1         |
 | La Rochelle              |         1 |  0         |

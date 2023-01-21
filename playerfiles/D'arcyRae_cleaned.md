@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2023-01-19 11:39:47.364557  
+date: 2023-01-21 15:40:53.959600  
 categories: player  
 ---
 # D'arcy Rae
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 62.0
+## Current elo: 64.0
 
 ## Current Percentile: 92.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            85 |   0.552941 |
-| Bath Rugby       |            32 |   0.265625 |
+| Bath Rugby       |            33 |   0.272727 |
 | Benetton Treviso |             4 |   0.5      |
 | Scotland         |             1 |   0        |
 
@@ -38,24 +38,24 @@ categories: player
 | Dragons            |         7 |   0.5      |
 | Ulster             |         6 |   0.166667 |
 | Benetton Treviso   |         6 |   0.833333 |
-| Edinburgh          |         6 |   0.166667 |
 | Exeter Chiefs      |         6 |   0.166667 |
+| Edinburgh          |         6 |   0.166667 |
 | Saracens           |         5 |   0        |
-| Newcastle Falcons  |         4 |   0.75     |
 | Scarlets           |         4 |   0.5      |
 | Leicester Tigers   |         4 |   0.5      |
+| Newcastle Falcons  |         4 |   0.75     |
 | Connacht           |         4 |   0.5      |
-| Sale Sharks        |         3 |   0.5      |
 | Northampton Saints |         3 |   0.333333 |
-| Cheetahs           |         3 |   1        |
 | Harlequins         |         3 |   0.333333 |
-| Gloucester Rugby   |         2 |   0        |
+| Cheetahs           |         3 |   1        |
+| Sale Sharks        |         3 |   0.5      |
 | Wasps              |         2 |   0        |
-| Bristol Rugby      |         2 |   0.5      |
-| Southern Kings     |         2 |   0.5      |
 | Toulon             |         2 |   0        |
-| Worcester Warriors |         1 |   1        |
-| Glasgow Warriors   |         1 |   0        |
+| Southern Kings     |         2 |   0.5      |
+| Glasgow Warriors   |         2 |   0.25     |
+| Gloucester Rugby   |         2 |   0        |
+| Bristol Rugby      |         2 |   0.5      |
 | Lyon               |         1 |   1        |
 | Ireland            |         1 |   0        |
+| Worcester Warriors |         1 |   1        |
 | London Irish       |         1 |   0        |

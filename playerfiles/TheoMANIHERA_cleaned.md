@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo MANIHERA  
-date: 2023-01-17 11:45:15.065380  
+date: 2023-01-21 15:39:04.492622  
 categories: player  
 ---
 # Theo MANIHERA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 24.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |             7 |   0        |
+| London Scottish |             8 |   0        |
 | Nottingham      |             7 |   0.142857 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Jersey              |         3 |          0 |
+| Bedford             |         2 |          0 |
 | Ealing Trailfinders |         2 |          0 |
 | Hartpury College    |         2 |          0 |
 | Ampthill            |         1 |          0 |
-| Bedford             |         1 |          0 |
 | Cornish Pirates     |         1 |          0 |
 | Coventry            |         1 |          0 |
 | Doncaster           |         1 |          0 |

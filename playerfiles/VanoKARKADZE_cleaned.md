@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vano KARKADZE  
-date: 2023-01-19 11:42:08.305879  
+date: 2023-01-21 15:42:17.607803  
 categories: player  
 ---
 # Vano KARKADZE

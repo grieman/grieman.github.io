@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Scott HALL  
-date: 2023-01-19 11:44:12.684985  
+date: 2023-01-21 15:46:19.009166  
 categories: player  
 ---
 # Scott HALL
 
 ## Positions: L, FL
 
-## Current elo: 72.0
+## Current elo: 68.0
 
-## Current Percentile: 3.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            27 |   0.259259 |
+| Nottingham |            28 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,3 +35,4 @@ categories: player
 | Hartpury College    |         2 |   0.5      |
 | London Scottish     |         2 |   1        |
 | Ampthill            |         1 |   1        |
+| Caldy               |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yassine JARMOUNI  
-date: 2023-01-19 11:52:28.330710  
+date: 2023-01-21 15:40:18.613923  
 categories: player  
 ---
 # Yassine JARMOUNI

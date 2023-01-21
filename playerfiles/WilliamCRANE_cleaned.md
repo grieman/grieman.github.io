@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William CRANE  
-date: 2023-01-19 11:51:44.754890  
+date: 2023-01-21 15:42:41.404524  
 categories: player  
 ---
 # William CRANE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nizaam CARR  
-date: 2023-01-19 11:44:18.911204  
+date: 2023-01-21 15:40:14.326869  
 categories: player  
 ---
 # Nizaam CARR
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 80.0
+## Current elo: 79.0
 
-## Current Percentile: 13.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Stormers         |            98 |   0.55102  |
 | Wasps            |            70 |   0.407143 |
 | Western Province |            47 |   0.744681 |
-| Bulls            |             8 |   0.625    |
+| Bulls            |             9 |   0.555556 |
 | South Africa     |             5 |   0.2      |
 | Blue Bulls       |             4 |   0.75     |
 
@@ -69,20 +69,20 @@ categories: player
 | Newcastle Falcons        |         3 |   0.666667 |
 | Eastern Province Kings   |         3 |   1        |
 | Hurricanes               |         3 |   0.666667 |
-| La Rochelle              |         2 |   0.5      |
-| Edinburgh                |         2 |   0        |
-| Ospreys                  |         2 |   1        |
-| Leinster                 |         2 |   0        |
+| Lyon                     |         2 |   0.5      |
 | Wales                    |         2 |   0        |
-| Munster                  |         2 |   0        |
 | Italy                    |         2 |   0.5      |
-| Boland Cavaliers         |         1 |   1        |
-| Western Province         |         1 |   1        |
-| Leopards                 |         1 |   1        |
-| Ulster                   |         1 |   1        |
-| England                  |         1 |   0        |
-| Stormers                 |         1 |   0        |
-| Bordeaux Begles          |         1 |   0        |
+| Munster                  |         2 |   0        |
+| La Rochelle              |         2 |   0.5      |
+| Leinster                 |         2 |   0        |
+| Ospreys                  |         2 |   1        |
+| Edinburgh                |         2 |   0        |
 | Cardiff Blues            |         1 |   1        |
 | Dragons                  |         1 |   1        |
-| Lyon                     |         1 |   1        |
+| Bordeaux Begles          |         1 |   0        |
+| Stormers                 |         1 |   0        |
+| Boland Cavaliers         |         1 |   1        |
+| Ulster                   |         1 |   1        |
+| Leopards                 |         1 |   1        |
+| Western Province         |         1 |   1        |
+| England                  |         1 |   0        |

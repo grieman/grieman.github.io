@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Quentin DAUVERGNE  
-date: 2023-01-19 11:52:05.132192  
+date: 2023-01-21 15:39:49.497296  
 categories: player  
 ---
 # Quentin DAUVERGNE
 
 ## Positions: SH
 
-## Current elo: 77.0
+## Current elo: 72.0
 
 ## Current Percentile: 8.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Massy    |            43 |   0.290698 |
-| Suresnes |            34 |   0.5      |
+| Suresnes |            35 |   0.485714 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,27 +31,27 @@ categories: player
 | Albi                       |         4 |   0.5      |
 | Nice                       |         4 |   0.25     |
 | Aubenas                    |         4 |   0.75     |
-| Cognac Saint Jean d'Angély |         3 |   1        |
+| Chambery                   |         3 |   0.166667 |
 | Nevers                     |         3 |   0.333333 |
 | Montauban                  |         3 |   0        |
 | Dijon                      |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
-| Chambery                   |         3 |   0.166667 |
+| Cognac Saint Jean d'Angély |         3 |   1        |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Beziers                    |         3 |   0        |
 | US Bressane                |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0        |
-| Provence Rugby             |         2 |   0.5      |
 | Carqueiranne-Hyères        |         2 |   0.5      |
+| Provence Rugby             |         2 |   0.5      |
 | Carcassonne                |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
-| Rennes                     |         2 |   1        |
+| Narbonne                   |         2 |   0        |
 | Oyonnax                    |         2 |   0        |
+| Rennes                     |         2 |   1        |
 | Suresnes                   |         1 |   1        |
 | Massy                      |         1 |   0        |
 | Perpignan                  |         1 |   0        |
-| Narbonne                   |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Colomiers                  |         1 |   0        |
 | Brive                      |         1 |   0        |

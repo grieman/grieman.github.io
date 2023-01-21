@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe MARGETTS  
-date: 2023-01-17 11:44:55.253517  
+date: 2023-01-21 15:39:33.702841  
 categories: player  
 ---
 # Joe MARGETTS
 
 ## Positions: C
 
-## Current elo: 91.0
+## Current elo: 86.0
 
-## Current Percentile: 44.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Doncaster        |            22 |   0.772727 |
-| Hartpury College |             3 |   0        |
+| Doncaster        |            23 |    0.73913 |
+| Hartpury College |             3 |    0       |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Hartpury College    |         4 |   0.75     |
 | Ampthill            |         3 |   0.666667 |
 | Bedford             |         3 |   0.666667 |
 | Ealing Trailfinders |         3 |   0.333333 |
-| Hartpury College    |         3 |   1        |
 | Nottingham          |         3 |   0.666667 |
 | Cornish Pirates     |         2 |   0.5      |
 | Coventry            |         2 |   0.5      |

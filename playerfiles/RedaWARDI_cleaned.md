@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda WARDI  
-date: 2023-01-17 11:31:49.642007  
+date: 2023-01-21 15:40:41.284497  
 categories: player  
 ---
 # Reda WARDI
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            73 |   0.60274  |
+| La Rochelle |            74 |   0.608108 |
 | Beziers     |            58 |   0.534483 |
 | France      |             2 |   1        |
 
@@ -54,12 +54,12 @@ categories: player
 | Montauban            |         3 |   0.166667 |
 | Narbonne             |         3 |   0.666667 |
 | Dax                  |         3 |   1        |
+| Northampton Saints   |         2 |   1        |
 | Glasgow Warriors     |         2 |   0.5      |
 | Provence Rugby       |         2 |   0.5      |
 | Colomiers            |         2 |   0.5      |
 | Sale Sharks          |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   1        |
-| Northampton Saints   |         1 |   1        |
 | Oyonnax              |         1 |   0        |
 | South Africa         |         1 |   1        |
 | Albi                 |         1 |   0        |

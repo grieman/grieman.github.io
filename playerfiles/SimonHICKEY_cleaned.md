@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Simon HICKEY  
-date: 2023-01-19 11:52:38.448591  
+date: 2023-01-21 15:46:25.018171  
 categories: player  
 ---
 # Simon HICKEY
 
 ## Positions: FH
 
-## Current elo: 98.0
+## Current elo: 92.0
 
 ## Current Percentile: 48.0
 
@@ -26,7 +26,7 @@ categories: player
 | Edinburgh         |            43 |   0.639535 |
 | Blues             |            20 |   0.35     |
 | Crusaders         |             5 |   0.8      |
-| Hino Red Dolphins |             2 |   0        |
+| Hino Red Dolphins |             3 |   0        |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
@@ -35,8 +35,8 @@ categories: player
 | Montpellier Herault              |         6 |   0.333333 |
 | Stade Francais Paris             |         5 |   0.8      |
 | North Harbour                    |         5 |   1        |
-| Northland                        |         5 |   0.8      |
 | Glasgow Warriors                 |         5 |   0.6      |
+| Northland                        |         5 |   0.8      |
 | Tasman                           |         5 |   0.7      |
 | Taranaki                         |         5 |   0.4      |
 | Manawatu                         |         4 |   1        |
@@ -46,8 +46,8 @@ categories: player
 | Scarlets                         |         4 |   1        |
 | Otago                            |         4 |   0.75     |
 | Castres Olympique                |         4 |   0        |
-| Bay of Plenty                    |         4 |   0.75     |
 | Waikato                          |         4 |   0.5      |
+| Bay of Plenty                    |         4 |   0.75     |
 | Racing 92                        |         3 |   0        |
 | Oyonnax                          |         3 |   0.666667 |
 | La Rochelle                      |         3 |   0.333333 |
@@ -85,7 +85,8 @@ categories: player
 | Lyon                             |         1 |   0        |
 | Toyota Industries Shuttles Aichi |         1 |   0        |
 | Brumbies                         |         1 |   0        |
+| Urayasu D-Rocks                  |         1 |   0        |
 | Ospreys                          |         1 |   0        |
-| Mie Honda Heat                   |         1 |   0        |
-| Bayonne                          |         1 |   0        |
 | Melbourne Rebels                 |         1 |   0        |
+| Bayonne                          |         1 |   0        |
+| Mie Honda Heat                   |         1 |   0        |

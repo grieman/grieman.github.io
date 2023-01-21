@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wael MAY  
-date: 2023-01-19 11:39:43.517276  
+date: 2023-01-21 15:43:14.848373  
 categories: player  
 ---
 # Wael MAY
 
 ## Positions: FL, L
 
-## Current elo: 94.0
+## Current elo: 88.0
 
-## Current Percentile: 62.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Chambery    |            14 |   0.5      |
-| US Bressane |            13 |   0.615385 |
+| US Bressane |            14 |   0.642857 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Albi                       |         2 |   0        |
 | Chambery                   |         2 |   0.5      |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Dax                        |         2 |   0        |
 | Nice                       |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   1        |
@@ -37,7 +38,6 @@ categories: player
 | Tarbes                     |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Aubenas                    |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
 | Massy                      |         1 |   0        |
 | Narbonne                   |         1 |   0        |
 | Rennes                     |         1 |   1        |

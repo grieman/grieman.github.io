@@ -1,12 +1,12 @@
 ---  
 layout: page  
 title: Pablo MATERA  
-date: 2023-01-19 11:43:39.829466  
+date: 2023-01-21 15:43:19.382072  
 categories: player  
 ---
 # Pablo MATERA
 
-## Positions: FL
+## Positions: FL, N8
 
 ## Country: Argentina
 
@@ -29,39 +29,39 @@ categories: player
 | Crusaders            |            14 |   0.785714 |
 | Leicester Tigers     |            10 |   0.5      |
 | Alumni               |             3 |   0.333333 |
-| Mie Honda Heat       |             2 |   1        |
+| Mie Honda Heat       |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | South Africa             |        18 |   0.166667 |
 | New Zealand              |        16 |   0.125    |
 | Australia                |        15 |   0.2      |
-| Wales                    |         7 |   0.214286 |
 | Sharks                   |         7 |   0.285714 |
 | England                  |         7 |   0.142857 |
-| Scotland                 |         6 |   0.333333 |
+| Wales                    |         7 |   0.214286 |
 | Stormers                 |         6 |   0.333333 |
 | Lions                    |         6 |   0.333333 |
-| France                   |         5 |   0.2      |
+| Scotland                 |         6 |   0.333333 |
 | Bulls                    |         5 |   0.6      |
 | Queensland Reds          |         5 |   0.8      |
 | Chiefs                   |         5 |   0.4      |
-| Ireland                  |         4 |   0.25     |
-| Italy                    |         4 |   1        |
-| Highlanders              |         4 |   0.5      |
-| Hurricanes               |         4 |   0.5      |
-| New South Wales Waratahs |         4 |   0.75     |
+| France                   |         5 |   0.2      |
 | Brumbies                 |         4 |   1        |
-| Crusaders                |         3 |   0        |
-| Melbourne Rebels         |         3 |   1        |
-| Pau                      |         3 |   0.666667 |
-| Blues                    |         3 |   0.666667 |
+| Italy                    |         4 |   1        |
+| Ireland                  |         4 |   0.25     |
+| Hurricanes               |         4 |   0.5      |
+| Highlanders              |         4 |   0.5      |
+| New South Wales Waratahs |         4 |   0.75     |
 | Bayonne                  |         3 |   0.333333 |
-| Southern Kings           |         2 |   0.5      |
+| Melbourne Rebels         |         3 |   1        |
+| Crusaders                |         3 |   0        |
+| Blues                    |         3 |   0.666667 |
+| Pau                      |         3 |   0.666667 |
 | Montpellier Herault      |         2 |   0.75     |
 | Stade Toulousain         |         2 |   0.5      |
+| Racing 92                |         2 |   0.5      |
+| Southern Kings           |         2 |   0.5      |
 | Agen                     |         2 |   1        |
-| Tonga                    |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | Saracens                 |         2 |   0.5      |
 | Harlequins               |         2 |   0        |
@@ -70,9 +70,10 @@ categories: player
 | Castres Olympique        |         2 |   1        |
 | Brive                    |         2 |   0.5      |
 | Wasps                    |         2 |   0.5      |
-| Racing 92                |         2 |   0.5      |
+| Tonga                    |         2 |   1        |
 | Sunwolves                |         1 |   0        |
 | Toulon                   |         1 |   0        |
+| Shimizu Blue Sharks      |         1 |   1        |
 | United States of America |         1 |   1        |
 | Western Force            |         1 |   1        |
 | Lyon                     |         1 |   1        |

@@ -1,24 +1,28 @@
 ---  
 layout: page  
 title: Romain MAURICE  
-date: 2023-01-19 11:40:37.615665  
+date: 2023-01-21 15:42:14.374579  
 categories: player  
 ---
 # Romain MAURICE
 
-## Positions: 
+## Positions: H
 
-## Current elo: 98.0
+## Current elo: 102.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_RomainMAURICE.png)
 # Match History
 
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            10 |   0.2      |
-| Albi   |             7 |   0.714286 |
+| Dax    |            10 |       0.2  |
+| Albi   |             8 |       0.75 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -28,6 +32,7 @@ categories: player
 | Albi                       |         1 |        0   |
 | Aurillac                   |         1 |        0   |
 | Beziers                    |         1 |        1   |
+| Carqueiranne-Hyères        |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Colomiers                  |         1 |        0   |
 | Dax                        |         1 |        1   |

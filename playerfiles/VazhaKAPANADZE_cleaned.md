@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vazha KAPANADZE  
-date: 2023-01-19 11:40:29.444742  
+date: 2023-01-21 15:41:26.824336  
 categories: player  
 ---
 # Vazha KAPANADZE

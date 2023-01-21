@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo VIDAL  
-date: 2023-01-19 11:41:28.640722  
+date: 2023-01-21 15:46:14.493379  
 categories: player  
 ---
 # Théo VIDAL
 
 ## Positions: FH, SH
 
-## Current elo: 81.0
+## Current elo: 85.0
 
-## Current Percentile: 14.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            40 |     0.6625 |
+| Albi   |            41 |   0.670732 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,11 +33,11 @@ categories: player
 | Tarbes                     |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Aubenas                    |         2 |   1        |
+| Carqueiranne-Hyères        |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Dax                        |         2 |   1        |
 | Dijon                      |         2 |   1        |
 | Nice                       |         2 |   0.25     |
 | Rennes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0        |
-| Carqueiranne-Hyères        |         1 |   0        |
 | Narbonne                   |         1 |   1        |

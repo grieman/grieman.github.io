@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-01-19 11:42:46.424917  
+date: 2023-01-21 15:39:42.646725  
 categories: player  
 ---
 # Romain SAZY
 
 ## Positions: L, FL
 
-## Current elo: 134.0
+## Current elo: 136.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           310 |   0.580645 |
+| La Rochelle |           311 |   0.581994 |
 | Montauban   |            20 |   0.15     |
 
 | Opponent             |   Matches |   Win Rate |
@@ -59,17 +59,17 @@ categories: player
 | Mont-de-Marsan       |         3 |   0.666667 |
 | Ulster               |         3 |   1        |
 | Bristol Rugby        |         3 |   0.666667 |
-| Massy                |         2 |   1        |
+| Northampton Saints   |         2 |   1        |
 | Worcester Warriors   |         2 |   0.5      |
-| Périgueux            |         2 |   0.5      |
 | Wasps                |         2 |   0.5      |
-| Exeter Chiefs        |         2 |   0        |
-| Sale Sharks          |         2 |   0.5      |
 | US Bressane          |         2 |   1        |
-| Benetton Treviso     |         1 |   1        |
-| Northampton Saints   |         1 |   1        |
+| Massy                |         2 |   1        |
+| Sale Sharks          |         2 |   0.5      |
+| Exeter Chiefs        |         2 |   0        |
+| Périgueux            |         2 |   0.5      |
 | Newcastle Falcons    |         1 |   0        |
 | Scarlets             |         1 |   0        |
+| Benetton Treviso     |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Harlequins           |         1 |   1        |
 | Edinburgh            |         1 |   1        |

@@ -1,0 +1,52 @@
+---  
+layout: page  
+title: Ospreys at Leicester Tigers; 27-26  
+date: 2023-01-20 21:00:00 18:00:00 -0500  
+categories: match review  
+---
+# Ospreys (1613.76) at Leicester Tigers (1558.04); 27-26
+
+# Prediction: Ospreys by 1.6
+
+
+Ospreys by 5.6 on a neutral field
+## Scores over Time
+
+
+![In Match Scores](recap_scores_2023-01-20-LeicesterTigers-Ospreys.png)
+## Win Probability over Time
+
+
+![In Match Predictions](recap_prob_2023-01-20-LeicesterTigers-Ospreys.png)
+# Pre-Match Prediction: Ospreys by 1.6
+
+
+Ospreys by 2.4 on a neutral pitch
+
+
+
+|   Away Minutes | Away Player                                                                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                          |   Home Minutes |
+|---------------:|:----------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------------------------------------------------|---------------:|
+|             51 | [Nicky Smith](..//playerfiles//NickySmith_cleaned.md)                       |      85.92 |                19 |        1 |                56 |      97.62 | [James Whitcombe](..//playerfiles//JamesWhitcombe_cleaned.md)        |             77 |
+|             26 | [Dewi Lake](..//playerfiles//DewiLake_cleaned.md)                           |      87.71 |                26 |        2 |                 9 |      78.43 | [Charlie Clare](..//playerfiles//CharlieClare_cleaned.md)            |             55 |
+|             67 | [Tom Botha](..//playerfiles//TomBotha_cleaned.md)                           |      89.96 |                31 |        3 |                28 |      89.44 | [Dan Cole](..//playerfiles//DanCole_cleaned.md)                      |             59 |
+|             80 | [Adam Beard](..//playerfiles//AdamBeard_cleaned.md)                         |      91.11 |                36 |        4 |                93 |     122.3  | [Ollie Chessum](..//playerfiles//OllieChessum_cleaned.md)            |             80 |
+|             59 | [Alun Wyn Jones](..//playerfiles//AlunWynJones_cleaned.md)                  |     117.59 |                89 |        5 |                87 |     115.2  | [Cameron Henderson](..//playerfiles//CameronHenderson_cleaned.md)    |             65 |
+|             80 | [Rhys Davies](..//playerfiles//RhysDavies_cleaned.md)                       |     117.12 |                89 |        6 |                87 |     116.18 | [Hanro Liebenberg](..//playerfiles//HanroLiebenberg_cleaned.md)      |             80 |
+|             80 | [Justin Tipuric](..//playerfiles//JustinTipuric_cleaned.md)                 |     130.33 |                96 |        7 |                84 |     113.13 | [Tommy Reffell](..//playerfiles//TommyReffell_cleaned.md)            |             80 |
+|             80 | [Jac Morgan](..//playerfiles//JacMorgan_cleaned.md)                         |     102.89 |                64 |        8 |                18 |      85.06 | [Olly Cracknell](..//playerfiles//OllyCracknell_cleaned.md)          |             67 |
+|             80 | [Reuben Morgan-Williams](..//playerfiles//ReubenMorgan-Williams_cleaned.md) |     116.96 |                86 |        9 |                57 |      98.92 | [Jack van Poortvliet](..//playerfiles//JackvanPoortvliet_cleaned.md) |             69 |
+|             80 | [Owen Williams](..//playerfiles//OwenWilliams_cleaned.md)                   |     131.75 |                94 |       10 |                93 |     130.14 | [Handre Pollard](..//playerfiles//HandrePollard_cleaned.md)          |             80 |
+|             80 | [Keelan Giles](..//playerfiles//KeelanGiles_cleaned.md)                     |      86.91 |                23 |       11 |                83 |     112.23 | [Harry Simmons](..//playerfiles//HarrySimmons_cleaned.md)            |             64 |
+|             59 | [Joe Hawkins](..//playerfiles//JoeHawkins_cleaned.md)                       |      85.71 |                24 |       12 |                82 |     112.2  | [Dan Kelly](..//playerfiles//DanKelly_cleaned.md)                    |             80 |
+|             80 | [Michael Collins](..//playerfiles//MichaelCollins_cleaned.md)               |     127.33 |                94 |       13 |                12 |      79.34 | [Matt Scott](..//playerfiles//MattScott_cleaned.md)                  |             80 |
+|             80 | [Alex Cuthbert](..//playerfiles//AlexCuthbert_cleaned.md)                   |     133.78 |                97 |       14 |                38 |      92.64 | [Harry Potter](..//playerfiles//HarryPotter_cleaned.md)              |             80 |
+|             20 | [Cai Evans](..//playerfiles//CaiEvans_cleaned.md)                           |     105.26 |                69 |       15 |                73 |     105.57 | [Freddie Steward](..//playerfiles//FreddieSteward_cleaned.md)        |             80 |
+|             29 | [Gareth Thomas](..//playerfiles//GarethThomas_cleaned.md)                   |      61.35 |                 1 |       16 |                48 |      95.02 | [Dan Richardson](..//playerfiles//DanRichardson_cleaned.md)          |              3 |
+|             54 | [Scott Baldwin](..//playerfiles//ScottBaldwin_cleaned.md)                   |      97.22 |                56 |       17 |                49 |      94.49 | [Julian Montoya](..//playerfiles//JulianMontoya_cleaned.md)          |             25 |
+|             21 | [Morgan Morris](..//playerfiles//MorganMorris_cleaned.md)                   |      92.22 |                35 |       18 |                33 |      93.11 | [Will Hurd](..//playerfiles//WillHurd_cleaned.md)                    |             21 |
+|             13 | [Rhys Henry](..//playerfiles//RhysHenry_cleaned.md)                         |     107.83 |                82 |       19 |                99 |     155.48 | [Harry Wells](..//playerfiles//HarryWells_cleaned.md)                |             15 |
+|             21 | [Keiran Williams](..//playerfiles//KeiranWilliams_cleaned.md)               |     121.64 |                92 |       20 |                31 |      88.94 | [Sean Jansen](..//playerfiles//SeanJansen_cleaned.md)                |             13 |
+|             60 | [George North](..//playerfiles//GeorgeNorth_cleaned.md)                     |     105.59 |                72 |       21 |                43 |      94.52 | [Ben Youngs](..//playerfiles//BenYoungs_cleaned.md)                  |             11 |
+|            nan | nan                                                                         |     nan    |               nan |       22 |                44 |      93.13 | [Charlie Atkinson](..//playerfiles//CharlieAtkinson_cleaned.md)      |             16 |
+

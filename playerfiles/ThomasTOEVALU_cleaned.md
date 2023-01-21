@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thomas TOEVALU  
-date: 2023-01-19 11:39:36.503482  
+date: 2023-01-21 15:40:10.930905  
 categories: player  
 ---
 # Thomas TOEVALU
 
 ## Positions: N8, FL
 
-## Current elo: 66.0
+## Current elo: 72.0
 
 ## Current Percentile: 3.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Bourgoin-Jallieu           |            30 |   0.25     |
-| Cognac Saint Jean d'Angély |            24 |   0.166667 |
+| Cognac Saint Jean d'Angély |            25 |   0.16     |
 | Rouen                      |            17 |   0.294118 |
 | Narbonne                   |            14 |   0.178571 |
 | Albi                       |             4 |   0.375    |
@@ -40,6 +40,7 @@ categories: player
 | Nice                       |         4 |   0.375    |
 | Narbonne                   |         4 |   0.25     |
 | Montauban                  |         4 |   0.25     |
+| US Bressane                |         3 |   0        |
 | Tarbes                     |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0        |
 | Oyonnax                    |         3 |   0.333333 |
@@ -49,14 +50,13 @@ categories: player
 | Massy                      |         2 |   0        |
 | Grenoble                   |         2 |   0.25     |
 | Bourgoin-Jallieu           |         2 |   0        |
-| Blagnac                    |         2 |   0.5      |
 | Roval Drome XV             |         2 |   1        |
-| US Bressane                |         2 |   0        |
+| Blagnac                    |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Agen                       |         2 |   0        |
-| Carqueiranne-Hyères        |         1 |   0        |
 | Nevers                     |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   0        |
 | Rennes                     |         1 |   0        |
-| Biarritz Olympique         |         1 |   0        |
 | Suresnes                   |         1 |   0        |
+| Biarritz Olympique         |         1 |   0        |
 | Bayonne                    |         1 |   1        |

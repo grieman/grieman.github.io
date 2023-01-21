@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan CHAMBERLAIN  
-date: 2023-01-17 11:36:10.529291  
+date: 2023-01-21 15:39:14.023354  
 categories: player  
 ---
 # Nathan CHAMBERLAIN
 
 ## Positions: FH
 
-## Current elo: 92.0
+## Current elo: 86.0
 
-## Current Percentile: None
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Edinburgh        |            17 |   0.411765 |
-| London Scottish  |             2 |   0        |
+| London Scottish  |             3 |   0        |
 | Hartpury College |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
@@ -32,6 +32,7 @@ categories: player
 | Munster          |         2 |        0   |
 | Scarlets         |         2 |        0.5 |
 | Ulster           |         2 |        0   |
+| Bedford          |         1 |        0   |
 | Cardiff Blues    |         1 |        1   |
 | Doncaster        |         1 |        0   |
 | Hartpury College |         1 |        0   |

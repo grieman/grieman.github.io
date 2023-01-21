@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Irne HERBST  
-date: 2023-01-19 11:40:12.442046  
+date: 2023-01-21 15:45:26.138607  
 categories: player  
 ---
 # Irne HERBST
 
 ## Positions: L
 
-## Current elo: 116.0
+## Current elo: 118.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            67 |   0.365672 |
-| Harlequins       |            14 |   0.5      |
+| Harlequins       |            15 |   0.533333 |
 | Southern Kings   |            13 |   0.384615 |
 | Blue Bulls       |             6 |   0.5      |
 
@@ -31,18 +31,18 @@ categories: player
 | Leinster                 |         8 |   0.1875   |
 | Scarlets                 |         8 |   0.25     |
 | Cardiff Blues            |         7 |   0.285714 |
-| Munster                  |         5 |   0        |
 | Connacht                 |         5 |   0        |
+| Munster                  |         5 |   0        |
 | Ulster                   |         4 |   0.125    |
+| Sharks                   |         4 |   0.5      |
 | Dragons                  |         4 |   0.875    |
 | Glasgow Warriors         |         3 |   0.333333 |
 | Lions                    |         3 |   0        |
 | Zebre                    |         3 |   1        |
-| Sharks                   |         3 |   0.333333 |
 | Southern Kings           |         3 |   1        |
-| Racing 92                |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
 | Northampton Saints       |         2 |   0.5      |
+| Racing 92                |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
 | Bath Rugby               |         2 |   0.5      |
 | Sale Sharks              |         2 |   0.5      |

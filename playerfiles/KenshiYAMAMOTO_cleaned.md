@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kenshi YAMAMOTO  
-date: 2023-01-19 11:41:30.636039  
+date: 2023-01-21 15:42:49.333339  
 categories: player  
 ---
 # Kenshi YAMAMOTO
 
 ## Positions: 
 
-## Current elo: 99.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 
@@ -17,11 +17,12 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |             8 |      0.875 |
+| Kubota Spears Funabashi Tokyo-Bay |             9 |   0.888889 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
 | Green Rockets Tokatsu           |         2 |          1 |
+| Kobelco Kobe Steelers           |         1 |          1 |
 | NTT Docomo Red Hurricanes Osaka |         1 |          1 |
 | Saitama Wild Knights            |         1 |          0 |
 | Shizuoka Blue Revs              |         1 |          1 |

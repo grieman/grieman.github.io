@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sébastien GIORGIS  
-date: 2023-01-19 11:52:46.665971  
+date: 2023-01-21 15:42:28.429514  
 categories: player  
 ---
 # Sébastien GIORGIS
 
 ## Positions: W, C
 
-## Current elo: 95.0
+## Current elo: 100.0
 
-## Current Percentile: 39.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Narbonne    |            61 |   0.467213 |
+| Narbonne    |            62 |   0.475806 |
 | Carcassonne |            49 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -41,19 +41,19 @@ categories: player
 | Provence Rugby             |         3 |  0.666667  |
 | Albi                       |         3 |  0.5       |
 | Massy                      |         3 |  0.666667  |
-| Carcassonne                |         3 |  0.666667  |
 | Dax                        |         3 |  0.666667  |
 | Bayonne                    |         3 |  0.333333  |
+| Carcassonne                |         3 |  0.666667  |
+| Rouen                      |         2 |  0.5       |
 | Valence Romans Drome Rugby |         2 |  0         |
 | Tarbes                     |         2 |  0.5       |
-| Rouen                      |         2 |  0.5       |
+| Suresnes                   |         2 |  1         |
 | Grenoble                   |         2 |  0         |
 | Nice                       |         2 |  1         |
-| Brive                      |         1 |  1         |
 | Lyon                       |         1 |  1         |
+| Brive                      |         1 |  1         |
 | Roval Drome XV             |         1 |  1         |
 | Carqueiranne-Hyères        |         1 |  1         |
-| Suresnes                   |         1 |  1         |
 | Chambery                   |         1 |  0         |
 | US Bressane                |         1 |  1         |
 | Cognac Saint Jean d'Angély |         1 |  1         |

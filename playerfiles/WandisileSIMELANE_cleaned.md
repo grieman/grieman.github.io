@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wandisile SIMELANE  
-date: 2023-01-19 11:52:18.513933  
+date: 2023-01-21 15:39:02.218666  
 categories: player  
 ---
 # Wandisile SIMELANE
 
 ## Positions: C, FB
 
-## Current elo: 102.0
+## Current elo: 98.0
 
-## Current Percentile: 70.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -23,35 +23,35 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Golden Lions |            26 |   0.596154 |
 | Lions        |            24 |   0.458333 |
-| Bulls        |             9 |   0.777778 |
+| Bulls        |            10 |   0.7      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Blue Bulls               |         6 |   0.166667 |
-| Natal Sharks             |         4 |   0.5      |
-| Free State Cheetahs      |         4 |   0.875    |
 | Western Province         |         4 |   0.5      |
 | Pumas                    |         4 |   0.75     |
+| Natal Sharks             |         4 |   0.5      |
+| Free State Cheetahs      |         4 |   0.875    |
 | Griquas                  |         4 |   1        |
-| Sharks                   |         3 |   0.333333 |
 | Stormers                 |         3 |   0.333333 |
-| Exeter Chiefs            |         2 |   0.5      |
-| Ospreys                  |         2 |   1        |
-| Jaguares                 |         2 |   1        |
-| Bulls                    |         2 |   0        |
-| Melbourne Rebels         |         2 |   0.5      |
-| Munster                  |         2 |   0.5      |
+| Sharks                   |         3 |   0.333333 |
 | Benetton Treviso         |         2 |   1        |
-| Sunwolves                |         1 |   1        |
-| Scarlets                 |         1 |   0        |
-| Ulster                   |         1 |   0        |
-| Lyon                     |         1 |   1        |
-| New South Wales Waratahs |         1 |   0        |
+| Ospreys                  |         2 |   1        |
+| Munster                  |         2 |   0.5      |
+| Melbourne Rebels         |         2 |   0.5      |
+| Lyon                     |         2 |   0.5      |
+| Jaguares                 |         2 |   1        |
+| Exeter Chiefs            |         2 |   0.5      |
+| Bulls                    |         2 |   0        |
 | Lions                    |         1 |   1        |
 | Leinster                 |         1 |   0        |
 | Glasgow Warriors         |         1 |   0        |
+| New South Wales Waratahs |         1 |   0        |
 | Edinburgh                |         1 |   1        |
 | Dragons                  |         1 |   1        |
+| Scarlets                 |         1 |   0        |
 | Connacht                 |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
+| Sunwolves                |         1 |   1        |
+| Ulster                   |         1 |   0        |
 | Zebre                    |         1 |   1        |

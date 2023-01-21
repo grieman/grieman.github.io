@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin ÉTIENNE  
-date: 2023-01-19 11:51:12.467735  
+date: 2023-01-21 15:45:04.183912  
 categories: player  
 ---
 # Quentin ÉTIENNE
