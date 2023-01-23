@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jordan HOLGATE  
-date: 2023-01-21 15:40:23.864799  
+date: 2023-01-23 15:30:23.998894  
 categories: player  
 ---
 # Jordan HOLGATE
 
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 18.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Jersey           |            27 |   0.777778 |
+| Jersey           |            28 |   0.785714 |
 | Boland Cavaliers |             6 |   0.25     |
 
 | Opponent               |   Matches |   Win Rate |
@@ -31,10 +31,10 @@ categories: player
 | Richmond               |         3 |   1        |
 | Nottingham             |         3 |   1        |
 | Doncaster              |         3 |   0.333333 |
+| London Scottish        |         3 |   1        |
 | Cornish Pirates        |         2 |   1        |
 | Ealing Trailfinders    |         2 |   0        |
 | Bedford                |         2 |   0.5      |
-| London Scottish        |         2 |   1        |
 | Hartpury College       |         2 |   1        |
 | Leopards               |         1 |   0        |
 | Eastern Province Kings |         1 |   0        |

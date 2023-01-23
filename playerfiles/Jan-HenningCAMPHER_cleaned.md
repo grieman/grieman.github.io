@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jan-Henning CAMPHER  
-date: 2023-01-21 15:41:49.368197  
+date: 2023-01-23 15:31:12.764291  
 categories: player  
 ---
 # Jan-Henning CAMPHER
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 69.0
 
-## Current Percentile: 4.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            23 |   0.782609 |
+| Ealing Trailfinders |            24 |   0.791667 |
 | Lions               |            15 |   0.333333 |
 | Golden Lions        |            10 |   0.7      |
 | Blue Bulls          |             7 |   0.428571 |
@@ -30,10 +30,10 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Ampthill                 |         4 |   1        |
 | Free State Cheetahs      |         4 |   0.75     |
+| Hartpury College         |         4 |   1        |
 | Pumas                    |         3 |   0.666667 |
 | Natal Sharks             |         3 |   0.333333 |
 | Doncaster                |         3 |   0.333333 |
-| Hartpury College         |         3 |   1        |
 | Bedford                  |         2 |   0.5      |
 | Stormers                 |         2 |   0.5      |
 | Sharks                   |         2 |   0        |

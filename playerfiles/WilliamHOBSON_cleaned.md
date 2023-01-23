@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: William HOBSON  
-date: 2023-01-21 15:45:48.542855  
+date: 2023-01-23 15:32:36.158725  
 categories: player  
 ---
 # William HOBSON
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |             9 |   0.111111 |
-| Harlequins      |             1 |   1        |
+| London Scottish |            10 |        0.1 |
+| Harlequins      |             1 |        1   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,4 +34,5 @@ categories: player
 | Coventry            |         1 |          0 |
 | Doncaster           |         1 |          0 |
 | Ealing Trailfinders |         1 |          0 |
+| Jersey              |         1 |          0 |
 | Richmond            |         1 |          0 |

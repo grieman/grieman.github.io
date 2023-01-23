@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Daniel Kasende  
-date: 2023-01-21 15:43:29.826240  
+date: 2023-01-23 15:30:27.071498  
 categories: player  
 ---
 # Daniel Kasende
 
 ## Positions: W
 
-## Current elo: 98.0
+## Current elo: 95.0
 
-## Current Percentile: 44.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Griquas             |            11 |   0.363636 |
 | Free State Cheetahs |             9 |   0.777778 |
-| Cheetahs            |             3 |   0.333333 |
+| Cheetahs            |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,7 +32,7 @@ categories: player
 | Western Province    |         4 |   0.75     |
 | Golden Lions        |         3 |   0.666667 |
 | Free State Cheetahs |         2 |   0.5      |
+| Pau                 |         2 |   1        |
 | Scarlets            |         2 |   0        |
 | Blue Bulls          |         1 |   1        |
 | Griquas             |         1 |   0        |
-| Pau                 |         1 |   1        |

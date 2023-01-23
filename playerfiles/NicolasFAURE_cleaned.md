@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas FAURE  
-date: 2023-01-21 15:41:00.538534  
+date: 2023-01-23 15:31:02.226642  
 categories: player  
 ---
 # Nicolas FAURE

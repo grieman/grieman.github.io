@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro CECCARELLI  
-date: 2023-01-17 11:34:43.908525  
+date: 2023-01-23 15:31:03.146866  
 categories: player  
 ---
 # Pietro CECCARELLI
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 78.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Zebre       |            45 |   0.177778 |
-| Brive       |            40 |   0.3625   |
+| Brive       |            41 |   0.378049 |
 | Edinburgh   |            23 |   0.586957 |
 | Oyonnax     |            23 |   0.217391 |
 | Italy       |            21 |   0.285714 |
@@ -32,8 +32,8 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Cardiff Blues            |         8 |   0.5      |
 | Lyon                     |         7 |   0.428571 |
-| Cardiff Blues            |         7 |   0.428571 |
 | Bordeaux Begles          |         7 |   0.214286 |
 | La Rochelle              |         7 |   0.357143 |
 | Dragons                  |         6 |   0.5      |

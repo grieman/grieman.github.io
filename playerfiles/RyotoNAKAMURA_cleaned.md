@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryoto NAKAMURA  
-date: 2023-01-21 15:42:22.862894  
+date: 2023-01-23 15:33:39.407559  
 categories: player  
 ---
 # Ryoto NAKAMURA

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tobias SAYSELL  
-date: 2023-01-21 15:40:15.571907  
+date: 2023-01-23 15:32:46.819243  
 categories: player  
 ---
 # Tobias SAYSELL
 
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 103.0
 
-## Current Percentile: 86.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |            44 |   0.397727 |
+| Richmond |            45 |   0.388889 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -29,9 +29,9 @@ categories: player
 | Bedford             |         5 |   0.4      |
 | Hartpury College    |         5 |   0.6      |
 | London Scottish     |         5 |   0.8      |
+| Doncaster           |         4 |   0.25     |
 | Ealing Trailfinders |         4 |   0.25     |
 | Coventry            |         3 |   0        |
-| Doncaster           |         3 |   0.333333 |
 | Jersey              |         3 |   0.333333 |
 | Ampthill            |         2 |   0.25     |
 | Cornish Pirates     |         2 |   0        |

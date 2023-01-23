@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sylvain ABADIE  
-date: 2023-01-21 15:44:56.474956  
+date: 2023-01-23 15:30:07.930008  
 categories: player  
 ---
 # Sylvain ABADIE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 59.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            51 |   0.460784 |
+| Narbonne |            52 |   0.471154 |
 | Auch     |            45 |   0.355556 |
 | Massy    |            36 |   0.375    |
 
@@ -43,9 +43,9 @@ categories: player
 | Dax                        |         4 |   0.375    |
 | Soyaux-Angouleme           |         4 |   0.375    |
 | Pau                        |         4 |   0.25     |
+| Suresnes                   |         4 |   0.75     |
 | Biarritz Olympique         |         4 |   0.5      |
 | Provence Rugby             |         3 |   1        |
-| Suresnes                   |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.833333 |
 | Nevers                     |         3 |   0.333333 |
 | Nice                       |         3 |   1        |

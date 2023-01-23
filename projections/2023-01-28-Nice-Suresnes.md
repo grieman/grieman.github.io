@@ -4,7 +4,7 @@ title: Suresnes at Nice
 date: 2023-01-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Suresnes (~1264.78) at Nice (~1397.32)
+# Suresnes (~1269.09) at Nice (~1402.08)
 
 # Prediction: Nice by 17.3
 

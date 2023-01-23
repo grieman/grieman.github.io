@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Siya MASUKU  
-date: 2023-01-21 15:43:55.291821  
+date: 2023-01-23 15:34:02.180433  
 categories: player  
 ---
 # Siya MASUKU
 
 ## Positions: FH, C
 
-## Current elo: 117.0
+## Current elo: 114.0
 
-## Current Percentile: 81.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Free State Cheetahs |            16 |   0.65625  |
-| Southern Kings      |             5 |   0.2      |
-| Cheetahs            |             3 |   0.333333 |
-| Golden Lions        |             2 |   0        |
-| Valke               |             1 |   1        |
+| Free State Cheetahs |            16 |    0.65625 |
+| Southern Kings      |             5 |    0.2     |
+| Cheetahs            |             4 |    0.5     |
+| Golden Lions        |             2 |    0       |
+| Valke               |             1 |    1       |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -36,9 +36,9 @@ categories: player
 | Connacht         |         2 |   0        |
 | Golden Lions     |         2 |   0.75     |
 | Griquas          |         2 |   0.5      |
+| Pau              |         2 |   1        |
 | Scarlets         |         2 |   0        |
 | Benetton Treviso |         1 |   0        |
 | Glasgow Warriors |         1 |   0        |
 | Ospreys          |         1 |   1        |
-| Pau              |         1 |   1        |
 | SWD Eagles       |         1 |   1        |

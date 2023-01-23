@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi KVESELADZE  
-date: 2023-01-13 11:31:32.650017  
+date: 2023-01-23 15:33:31.608372  
 categories: player  
 ---
 # Giorgi KVESELADZE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -24,23 +24,23 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Georgia          |            37 |   0.689189 |
-| Gloucester Rugby |            19 |   0.526316 |
+| Gloucester Rugby |            20 |   0.55     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Romania                  |         5 |   1        |
 | Spain                    |         4 |   1        |
-| London Irish             |         3 |   0.666667 |
-| Bristol Rugby            |         3 |   0.333333 |
 | Russia                   |         3 |   1        |
+| Bristol Rugby            |         3 |   0.333333 |
 | Italy                    |         3 |   0.333333 |
+| London Irish             |         3 |   0.666667 |
 | Portugal                 |         2 |   1        |
-| Belgium                  |         2 |   1        |
+| Saracens                 |         2 |   0.5      |
 | Northampton Saints       |         2 |   0.5      |
+| Belgium                  |         2 |   1        |
+| Uruguay                  |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.5      |
 | Fiji                     |         2 |   0.25     |
-| Uruguay                  |         2 |   1        |
-| Saracens                 |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
 | Samoa                    |         1 |   1        |
 | Argentina                |         1 |   0        |
@@ -59,5 +59,6 @@ categories: player
 | Germany                  |         1 |   1        |
 | France                   |         1 |   0        |
 | Canada                   |         1 |   1        |
+| Bordeaux Begles          |         1 |   1        |
 | Bath Rugby               |         1 |   1        |
 | Worcester Warriors       |         1 |   1        |

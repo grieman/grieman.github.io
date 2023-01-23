@@ -4,7 +4,7 @@ title: Richmond at Caldy; 7-27
 date: 2023-01-14 15:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Richmond (1367.4) at Caldy (1400.15); 7-27
+# Richmond (1367.43) at Caldy (1400.15); 7-27
 
 # Prediction: Caldy by 7.3
 
@@ -39,7 +39,7 @@ Caldy by 4.0 on a neutral pitch
 |             71 | [Bill Johnston](..//playerfiles//BillJohnston_cleaned.md)         |     103.51 |                66 |       10 |                26 |      89.28 | [Rhys Hayes](..//playerfiles//RhysHayes_cleaned.md)             |             71 |
 |             63 | [Jack Caddy](..//playerfiles//JackCaddy_cleaned.md)               |      77.97 |                10 |       11 |                66 |     101.37 | [Louis Beer](..//playerfiles//LouisBeer_cleaned.md)             |             80 |
 |             80 | [Paul Kiernan](..//playerfiles//PaulKiernan_cleaned.md)           |      88.72 |                30 |       12 |                59 |      99.78 | [Michael Barlow](..//playerfiles//MichaelBarlow_cleaned.md)     |             80 |
-|             80 | [Michael Little](..//playerfiles//MichaelLittle_cleaned.md)       |     102.71 |                70 |       13 |                24 |      85.7  | [Michael Cartmill](..//playerfiles//MichaelCartmill_cleaned.md) |             40 |
+|             80 | [Michael Little](..//playerfiles//MichaelLittle_cleaned.md)       |     102.74 |                70 |       13 |                24 |      85.7  | [Michael Cartmill](..//playerfiles//MichaelCartmill_cleaned.md) |             40 |
 |             80 | [Alexander O'Meara](..//playerfiles//AlexanderO'Meara_cleaned.md) |      98.08 |                57 |       14 |                39 |      92.31 | [Nick Royle](..//playerfiles//NickRoyle_cleaned.md)             |             80 |
 |             80 | [Darren Atkins](..//playerfiles//DarrenAtkins_cleaned.md)         |      72.42 |                 9 |       15 |                52 |      97.62 | [Elliott Gourlay](..//playerfiles//ElliottGourlay_cleaned.md)   |             80 |
 |             46 | [Luke Spring](..//playerfiles//LukeSpring_cleaned.md)             |      90.45 |                39 |       16 |               nan |      95.33 | [Lewis Barker](..//playerfiles//LewisBarker_cleaned.md)         |             40 |

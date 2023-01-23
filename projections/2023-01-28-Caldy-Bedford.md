@@ -4,10 +4,10 @@ title: Bedford at Caldy
 date: 2023-01-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Bedford (~1465.64) at Caldy (~1532.37)
+# Bedford (~1540.03) at Caldy (~1532.78)
 
-# Prediction: Caldy by 10.7
+# Prediction: Caldy by 3.3
 
 
-Caldy by 6.7 on a neutral pitch
+Bedford by 0.7 on a neutral pitch
 

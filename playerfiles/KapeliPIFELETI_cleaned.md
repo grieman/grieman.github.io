@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kapeli PIFELETI  
-date: 2023-01-06 11:51:29.884138  
+date: 2023-01-23 15:32:34.141945  
 categories: player  
 ---
 # Kapeli PIFELETI
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Saracens                 |            28 |   0.571429 |
+| Saracens                 |            29 |   0.551724 |
 | San Diego Legion         |            13 |   0.730769 |
 | United States of America |             6 |   0.583333 |
 
@@ -31,22 +31,23 @@ categories: player
 |:-------------------|----------:|-----------:|
 | Exeter Chiefs      |         5 |       0.8  |
 | Leicester Tigers   |         2 |       0.5  |
-| Glendale Raptors   |         2 |       0.75 |
+| Newcastle Falcons  |         2 |       1    |
 | London Irish       |         2 |       0    |
 | Bath Rugby         |         2 |       1    |
 | R.U. New York      |         2 |       0.5  |
 | Sale Sharks        |         2 |       0.5  |
-| NOLA Gold          |         2 |       1    |
-| Gloucester Rugby   |         2 |       0.5  |
 | Seattle Seawolves  |         2 |       1    |
+| Gloucester Rugby   |         2 |       0.5  |
+| Glendale Raptors   |         2 |       0.75 |
+| Edinburgh          |         2 |       0    |
 | Toronto Arrows     |         2 |       0    |
 | Wasps              |         2 |       0    |
-| Newcastle Falcons  |         2 |       1    |
+| NOLA Gold          |         2 |       1    |
 | Richmond           |         1 |       1    |
 | Uruguay            |         1 |       0    |
 | Portugal           |         1 |       0.5  |
-| Northampton Saints |         1 |       0    |
 | Utah Warriors      |         1 |       1    |
+| Northampton Saints |         1 |       0    |
 | Austin Elite Rugby |         1 |       1    |
 | Munster            |         1 |       0    |
 | Jersey             |         1 |       1    |
@@ -54,7 +55,6 @@ categories: player
 | Houston SaberCats  |         1 |       1    |
 | Hong Kong          |         1 |       1    |
 | Harlequins         |         1 |       1    |
-| Edinburgh          |         1 |       0    |
 | Cornish Pirates    |         1 |       0    |
 | Chile              |         1 |       1    |
 | Canada             |         1 |       1    |

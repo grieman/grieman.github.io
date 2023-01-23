@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George DAVIS  
-date: 2023-01-21 15:45:56.951683  
+date: 2023-01-23 15:29:46.302772  
 categories: player  
 ---
 # George DAVIS
 
 ## Positions: P
 
-## Current elo: 83.0
+## Current elo: 85.0
 
-## Current Percentile: 57.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            28 |   0.910714 |
+| Ealing Trailfinders |            29 |   0.913793 |
 | London Scottish     |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -29,10 +29,10 @@ categories: player
 | Bedford            |         6 |   0.833333 |
 | Ampthill           |         4 |   1        |
 | Coventry           |         3 |   0.833333 |
+| Hartpury College   |         3 |   1        |
 | Jersey             |         3 |   1        |
 | Cornish Pirates    |         2 |   0.5      |
 | Doncaster          |         2 |   1        |
-| Hartpury College   |         2 |   1        |
 | London Scottish    |         2 |   1        |
 | Nottingham         |         2 |   0.5      |
 | Richmond           |         2 |   1        |

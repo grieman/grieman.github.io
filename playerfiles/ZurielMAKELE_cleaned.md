@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Zuriel MAKELE  
-date: 2023-01-06 11:51:21.447258  
+date: 2023-01-23 15:29:49.242680  
 categories: player  
 ---
 # Zuriel MAKELE
 
 ## Positions: 
 
-## Current elo: 91.0
+## Current elo: 90.0
 
 ## Current Percentile: None
 
@@ -17,7 +17,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |             9 |   0.333333 |
+| Richmond |            10 |        0.3 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -26,6 +26,7 @@ categories: player
 | Caldy               |         1 |          0 |
 | Cornish Pirates     |         1 |          0 |
 | Coventry            |         1 |          0 |
+| Doncaster           |         1 |          0 |
 | Ealing Trailfinders |         1 |          0 |
 | Hartpury College    |         1 |          1 |
 | London Scottish     |         1 |          1 |

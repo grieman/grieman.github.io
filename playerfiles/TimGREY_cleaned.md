@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim GREY  
-date: 2023-01-21 15:41:33.137537  
+date: 2023-01-23 15:34:42.587984  
 categories: player  
 ---
 # Tim GREY
 
 ## Positions: N8, FL
 
-## Current elo: 109.0
+## Current elo: 105.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Jersey |            21 |        0.5 |
+| Jersey |            22 |   0.522727 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,4 +33,5 @@ categories: player
 | Ampthill            |         2 |       1    |
 | Cornish Pirates     |         1 |       0    |
 | Hartpury College    |         1 |       1    |
+| London Scottish     |         1 |       1    |
 | Saracens            |         1 |       0    |

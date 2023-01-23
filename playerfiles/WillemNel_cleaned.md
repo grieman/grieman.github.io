@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2023-01-21 15:43:09.279964  
+date: 2023-01-23 15:31:43.960823  
 categories: player  
 ---
 # Willem Nel
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Edinburgh           |           174 |   0.511494 |
+| Edinburgh           |           175 |   0.514286 |
 | Scotland            |            48 |   0.552083 |
 | Cheetahs            |            46 |   0.315217 |
 | Free State Cheetahs |            24 |   0.666667 |
@@ -47,10 +47,10 @@ categories: player
 | Ospreys                  |         7 |  0.428571  |
 | Ireland                  |         6 |  0         |
 | England                  |         5 |  0.7       |
+| Saracens                 |         5 |  0.4       |
 | France                   |         5 |  0.6       |
 | Sharks                   |         5 |  0.2       |
 | Wales                    |         5 |  0         |
-| Saracens                 |         4 |  0.25      |
 | New South Wales Waratahs |         4 |  0.5       |
 | Golden Lions             |         4 |  0.25      |
 | London Irish             |         4 |  0.75      |

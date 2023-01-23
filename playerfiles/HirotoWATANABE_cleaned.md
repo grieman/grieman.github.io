@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hiroto WATANABE  
-date: 2023-01-21 15:43:04.963663  
+date: 2023-01-23 15:29:47.309314  
 categories: player  
 ---
 # Hiroto WATANABE

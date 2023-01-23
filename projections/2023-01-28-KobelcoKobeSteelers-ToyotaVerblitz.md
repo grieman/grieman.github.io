@@ -4,7 +4,7 @@ title: Toyota Verblitz at Kobelco Kobe Steelers
 date: 2023-01-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Toyota Verblitz (~1515.86) at Kobelco Kobe Steelers (~1582.69)
+# Toyota Verblitz (~1515.86) at Kobelco Kobe Steelers (~1583.06)
 
 # Prediction: Kobelco Kobe Steelers by 10.7
 

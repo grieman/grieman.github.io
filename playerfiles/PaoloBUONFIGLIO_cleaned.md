@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paolo BUONFIGLIO  
-date: 2023-01-21 15:40:55.048503  
+date: 2023-01-23 15:29:13.196423  
 categories: player  
 ---
 # Paolo BUONFIGLIO
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 52.0
+## Current Percentile: 54.0
 
 # Elo History
 

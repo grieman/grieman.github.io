@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James LENNON  
-date: 2023-01-21 15:39:48.412161  
+date: 2023-01-23 15:32:31.953850  
 categories: player  
 ---
 # James LENNON
 
 ## Positions: SH
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 54.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Bedford  |            32 |     0.4375 |
-| Richmond |            20 |     0.45   |
+| Bedford  |            32 |   0.4375   |
+| Richmond |            21 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,9 +32,9 @@ categories: player
 | Jersey              |         5 |   0.2      |
 | London Scottish     |         5 |   0.8      |
 | Ampthill            |         4 |   0.375    |
+| Doncaster           |         4 |   0.25     |
 | Nottingham          |         4 |   0.5      |
 | Bedford             |         3 |   1        |
-| Doncaster           |         3 |   0.333333 |
 | Hartpury College    |         3 |   1        |
 | London Irish        |         2 |   0        |
 | Yorkshire Carnegie  |         2 |   0.5      |

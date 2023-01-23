@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joey CONWAY  
-date: 2023-01-21 15:41:09.275661  
+date: 2023-01-23 15:30:14.408003  
 categories: player  
 ---
 # Joey CONWAY
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 99.0
 
-## Current Percentile: 24.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            30 |   0.533333 |
+| Bedford |            31 |   0.548387 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         4 |   0.5      |
 | London Scottish     |         4 |   1        |
 | Ampthill            |         3 |   0.666667 |
-| Cornish Pirates     |         3 |   0.333333 |
 | Coventry            |         3 |   0        |
 | Doncaster           |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0.333333 |

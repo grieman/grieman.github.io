@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack HUGHES  
-date: 2023-01-21 15:41:04.538547  
+date: 2023-01-23 15:29:53.357638  
 categories: player  
 ---
 # Jack HUGHES
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 102.0
 
-## Current Percentile: 36.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            34 |   0.470588 |
+| Bedford |            35 |   0.485714 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ampthill            |         4 |   0.75     |
+| Cornish Pirates     |         4 |   0.5      |
 | Doncaster           |         4 |   0.25     |
 | Ealing Trailfinders |         4 |   0.25     |
 | London Scottish     |         4 |   1        |
-| Cornish Pirates     |         3 |   0.333333 |
 | Hartpury College    |         3 |   0.666667 |
 | Jersey              |         3 |   0.333333 |
 | Nottingham          |         3 |   0.666667 |

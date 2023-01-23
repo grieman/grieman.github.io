@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Johannes Casper KIRSTEN  
-date: 2023-01-21 15:41:47.413245  
+date: 2023-01-23 15:35:41.337521  
 categories: player  
 ---
 # Johannes Casper KIRSTEN
 
 ## Positions: FL, L
 
-## Current elo: 118.0
+## Current elo: 116.0
 
 ## Current Percentile: 83.0
 

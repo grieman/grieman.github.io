@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibaut TROTTA  
-date: 2023-01-21 15:40:03.233093  
+date: 2023-01-23 15:28:55.715911  
 categories: player  
 ---
 # Thibaut TROTTA
 
 ## Positions: FB
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 62.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Tarbes   |            13 |   0.461538 |
+| Tarbes   |            14 |   0.464286 |
 | Chambery |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -33,6 +33,7 @@ categories: player
 | Suresnes                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Albi                       |         1 |   1        |
+| Blagnac                    |         1 |   0.5      |
 | Carqueiranne-Hyères        |         1 |   0        |
 | Dax                        |         1 |   0        |
 | Dijon                      |         1 |   1        |

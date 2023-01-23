@@ -1,23 +1,27 @@
 ---  
 layout: page  
 title: James WAYLAND  
-date: 2023-01-21 15:40:22.992974  
+date: 2023-01-23 15:30:43.899640  
 categories: player  
 ---
 # James WAYLAND
 
-## Positions: 
+## Positions: P
 
-## Current elo: 96.0
+## Current elo: 103.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_JamesWAYLAND.png)
 # Match History
 
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |             5 |        0.4 |
+| Doncaster |             6 |        0.5 |
 | Jersey    |             2 |        1   |
 
 | Opponent            |   Matches |   Win Rate |
@@ -27,4 +31,5 @@ categories: player
 | Cornish Pirates     |         1 |        0   |
 | Coventry            |         1 |        1   |
 | Ealing Trailfinders |         1 |        0   |
+| Richmond            |         1 |        1   |
 | Yorkshire Carnegie  |         1 |        1   |

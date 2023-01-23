@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harvey BEATON  
-date: 2023-01-21 15:42:01.234760  
+date: 2023-01-23 15:34:43.661239  
 categories: player  
 ---
 # Harvey BEATON
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 51.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            12 |       0.5  |
-| Ampthill        |             5 |       0    |
-| Saracens        |             4 |       0.75 |
+| Cornish Pirates |            13 |   0.461538 |
+| Ampthill        |             5 |   0        |
+| Saracens        |             4 |   0.75     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bedford             |         3 |        0   |
 | Ealing Trailfinders |         3 |        0   |
-| Bedford             |         2 |        0   |
 | Doncaster           |         2 |        0.5 |
 | Hartpury College    |         2 |        0   |
 | Nottingham          |         2 |        1   |

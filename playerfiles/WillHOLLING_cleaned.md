@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Will HOLLING  
-date: 2023-01-21 15:42:08.875390  
+date: 2023-01-23 15:34:24.616808  
 categories: player  
 ---
 # Will HOLLING
 
 ## Positions: H
 
-## Current elo: 90.0
+## Current elo: 97.0
 
 ## Current Percentile: 53.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |            27 |   0.555556 |
+| Doncaster |            28 |   0.571429 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,6 +34,6 @@ categories: player
 | Cornish Pirates     |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
 | Nottingham          |         2 |   1        |
+| Richmond            |         2 |   1        |
 | Caldy               |         1 |   1        |
 | Newcastle Falcons   |         1 |   0        |
-| Richmond            |         1 |   1        |

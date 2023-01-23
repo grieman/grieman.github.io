@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théophile COTTE  
-date: 2023-01-21 15:46:26.164982  
+date: 2023-01-23 15:30:46.839530  
 categories: player  
 ---
 # Théophile COTTE
 
 ## Positions: FL
 
-## Current elo: 86.0
+## Current elo: 84.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

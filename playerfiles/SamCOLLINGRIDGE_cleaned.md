@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam COLLINGRIDGE  
-date: 2023-01-21 15:42:55.215561  
+date: 2023-01-23 15:32:07.709527  
 categories: player  
 ---
 # Sam COLLINGRIDGE
 
 ## Positions: L
 
-## Current elo: 90.0
+## Current elo: 85.0
 
-## Current Percentile: 51.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |            22 |   0.204545 |
+| Richmond |            23 |   0.195652 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Doncaster           |         4 |   0        |
 | Ampthill            |         3 |   0.166667 |
-| Doncaster           |         3 |   0        |
 | Jersey              |         3 |   0.333333 |
 | Caldy               |         2 |   0        |
 | Cornish Pirates     |         2 |   0        |

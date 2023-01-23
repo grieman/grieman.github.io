@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastiano NEGRI DA OLEGGIO  
-date: 2023-01-17 11:43:50.191597  
+date: 2023-01-23 15:29:15.430350  
 categories: player  
 ---
 # Sebastiano NEGRI DA OLEGGIO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            56 |   0.455357 |
+| Benetton Treviso |            57 |   0.464912 |
 | Italy            |            39 |   0.230769 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,15 +34,16 @@ categories: player
 | Scarlets                 |         5 |   0        |
 | Glasgow Warriors         |         4 |   0.25     |
 | Edinburgh                |         4 |   0.5      |
-| Ireland                  |         4 |   0        |
 | Leinster                 |         4 |   0.375    |
+| Ireland                  |         4 |   0        |
 | Scotland                 |         4 |   0        |
 | Wales                    |         4 |   0        |
 | Southern Kings           |         3 |   1        |
 | Ulster                   |         3 |   0.333333 |
 | Munster                  |         3 |   0        |
-| New Zealand              |         2 |   0        |
+| Stade Francais Paris     |         2 |   0.5      |
 | Toulon                   |         2 |   0        |
+| New Zealand              |         2 |   0        |
 | Lyon                     |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
 | Japan                    |         2 |   0.5      |
@@ -50,17 +51,16 @@ categories: player
 | Georgia                  |         2 |   1        |
 | Dragons                  |         2 |   1        |
 | Australia                |         2 |   0.5      |
-| Bath Rugby               |         2 |   0        |
 | Harlequins               |         2 |   0.5      |
+| Bath Rugby               |         2 |   0        |
 | Canada                   |         2 |   1        |
 | Argentina                |         1 |   0        |
 | Bayonne                  |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | United States of America |         1 |   1        |
 | South Africa             |         1 |   0        |
-| Stade Francais Paris     |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
-| Russia                   |         1 |   1        |
 | Connacht                 |         1 |   0        |
+| Russia                   |         1 |   1        |
 | Agen                     |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lovejoy CHAWATAMA  
-date: 2023-01-21 15:45:59.487153  
+date: 2023-01-23 15:34:12.818159  
 categories: player  
 ---
 # Lovejoy CHAWATAMA
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 43.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            72 |   0.416667 |
+| London Irish |            73 |   0.417808 |
 | London Welsh |            10 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -39,24 +39,24 @@ categories: player
 | Newcastle Falcons    |         3 |   0.666667 |
 | Edinburgh            |         3 |   0.333333 |
 | Bath Rugby           |         3 |   0.666667 |
-| Stormers             |         2 |   0        |
+| Toulon               |         2 |   0        |
 | Northampton Saints   |         2 |   0        |
-| Stade Francais Paris |         2 |   0.5      |
+| Stormers             |         2 |   0        |
 | Richmond             |         2 |   1        |
 | Rotherham Titans     |         2 |   0.5      |
 | Krasny Yar           |         2 |   1        |
-| Toulon               |         2 |   0        |
+| Montpellier Herault  |         2 |   0.25     |
+| Stade Francais Paris |         2 |   0.5      |
 | Hartpury College     |         2 |   1        |
 | Ealing Trailfinders  |         2 |   0.5      |
 | Doncaster            |         2 |   1        |
 | Cornish Pirates      |         2 |   0.5      |
 | Bayonne              |         2 |   0.5      |
 | Saracens             |         2 |   0        |
-| Scarlets             |         1 |   0        |
 | Agen                 |         1 |   1        |
+| Scarlets             |         1 |   0        |
 | Pau                  |         1 |   1        |
 | Nottingham           |         1 |   1        |
-| Montpellier Herault  |         1 |   0        |
 | London Irish         |         1 |   0        |
 | Jersey               |         1 |   0        |
 | London Welsh         |         1 |   1        |

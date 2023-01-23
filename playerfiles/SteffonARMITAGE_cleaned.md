@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffon ARMITAGE  
-date: 2023-01-21 15:43:32.097067  
+date: 2023-01-23 15:30:13.269672  
 categories: player  
 ---
 # Steffon ARMITAGE
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 101.0
+## Current elo: 102.0
 
 ## Current Percentile: 64.0
 

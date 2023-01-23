@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain FUSIER  
-date: 2023-01-21 15:39:55.183100  
+date: 2023-01-23 15:33:59.003907  
 categories: player  
 ---
 # Romain FUSIER

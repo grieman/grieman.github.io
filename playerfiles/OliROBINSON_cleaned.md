@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Oli ROBINSON  
-date: 2023-01-21 15:43:18.280314  
+date: 2023-01-23 15:34:13.894362  
 categories: player  
 ---
 # Oli ROBINSON
 
 ## Positions: N8, FL
 
-## Current elo: 94.0
+## Current elo: 89.0
 
-## Current Percentile: 35.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Hartpury College    |            14 |   0.464286 |
+| Hartpury College    |            15 |   0.433333 |
 | Bedford             |             8 |   0.375    |
 | Ealing Trailfinders |             2 |   1        |
 
@@ -29,9 +29,9 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Doncaster           |         5 |   0.4      |
 | Ampthill            |         3 |   0.666667 |
+| Ealing Trailfinders |         3 |   0        |
 | Cornish Pirates     |         2 |   0.5      |
 | Coventry            |         2 |   0        |
-| Ealing Trailfinders |         2 |   0        |
 | London Scottish     |         2 |   0.75     |
 | Nottingham          |         2 |   0.5      |
 | Richmond            |         2 |   1        |

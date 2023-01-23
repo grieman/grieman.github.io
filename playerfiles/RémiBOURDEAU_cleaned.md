@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rémi BOURDEAU  
-date: 2023-01-21 15:45:24.966811  
+date: 2023-01-23 15:32:58.149998  
 categories: player  
 ---
 # Rémi BOURDEAU

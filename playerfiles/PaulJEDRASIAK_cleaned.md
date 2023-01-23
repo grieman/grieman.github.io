@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul JEDRASIAK  
-date: 2023-01-21 15:43:15.932313  
+date: 2023-01-23 15:34:21.444445  
 categories: player  
 ---
 # Paul JEDRASIAK
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 81.0
+## Current elo: 82.0
 
 ## Current Percentile: 13.0
 

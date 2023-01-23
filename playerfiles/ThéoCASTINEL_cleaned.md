@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Théo CASTINEL  
-date: 2023-01-21 15:40:33.652286  
+date: 2023-01-23 15:35:30.723178  
 categories: player  
 ---
 # Théo CASTINEL
 
 ## Positions: P
 
-## Current elo: 122.0
+## Current elo: 121.0
 
 ## Current Percentile: 84.0
 

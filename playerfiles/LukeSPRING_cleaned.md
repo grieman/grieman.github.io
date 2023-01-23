@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Luke SPRING  
-date: 2023-01-21 15:46:05.030516  
+date: 2023-01-23 15:34:11.812130  
 categories: player  
 ---
 # Luke SPRING
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 86.0
 
 ## Current Percentile: 39.0
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |            17 |   0.264706 |
+| Richmond |            18 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ampthill            |         2 |       0.25 |
 | Caldy               |         2 |       0    |
 | Coventry            |         2 |       0    |
+| Doncaster           |         2 |       0    |
 | Ealing Trailfinders |         2 |       0    |
 | Hartpury College    |         2 |       1    |
 | Jersey              |         2 |       0    |
 | Bedford             |         1 |       1    |
 | Cornish Pirates     |         1 |       0    |
-| Doncaster           |         1 |       0    |
 | London Scottish     |         1 |       1    |
 | Nottingham          |         1 |       0    |

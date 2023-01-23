@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thierry PAIVA  
-date: 2023-01-21 15:45:27.330324  
+date: 2023-01-23 15:30:24.978059  
 categories: player  
 ---
 # Thierry PAIVA

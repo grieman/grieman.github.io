@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent RATTEZ  
-date: 2023-01-21 15:41:39.469600  
+date: 2023-01-23 15:33:16.538705  
 categories: player  
 ---
 # Vincent RATTEZ
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 128.0
+## Current elo: 127.0
 
 ## Current Percentile: 95.0
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | La Rochelle         |            97 |   0.608247 |
 | Narbonne            |            92 |   0.467391 |
-| Montpellier Herault |            55 |   0.563636 |
+| Montpellier Herault |            56 |   0.5625   |
 | France              |             8 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -48,28 +48,28 @@ categories: player
 | Dax                  |         7 |   0.714286 |
 | Tarbes               |         6 |   0.416667 |
 | La Rochelle          |         6 |   0.666667 |
-| Beziers              |         6 |   0.5      |
-| Carcassonne          |         6 |   0.666667 |
 | Biarritz Olympique   |         6 |   0.333333 |
+| Beziers              |         6 |   0.5      |
 | Bourgoin-Jallieu     |         6 |   0.416667 |
+| Carcassonne          |         6 |   0.666667 |
 | Bayonne              |         6 |   0.5      |
-| Montpellier Herault  |         5 |   0.6      |
 | Mont-de-Marsan       |         5 |   0.2      |
+| Montpellier Herault  |         5 |   0.6      |
 | Montauban            |         4 |   0.75     |
-| Grenoble             |         3 |   1        |
 | Gloucester Rugby     |         3 |   0.333333 |
-| Ulster               |         2 |   0.5      |
-| Massy                |         2 |   0.5      |
-| Wales                |         2 |   0.5      |
-| South Africa         |         2 |   0        |
-| Harlequins           |         2 |   1        |
-| Auch                 |         2 |   0.5      |
-| Oyonnax              |         2 |   0.75     |
-| Exeter Chiefs        |         2 |   0        |
+| Grenoble             |         3 |   1        |
 | Provence Rugby       |         2 |   0.5      |
-| Benetton Treviso     |         2 |   1        |
-| Sale Sharks          |         2 |   0.5      |
 | Bristol Rugby        |         2 |   1        |
+| Exeter Chiefs        |         2 |   0        |
+| Benetton Treviso     |         2 |   1        |
+| Oyonnax              |         2 |   0.75     |
+| South Africa         |         2 |   0        |
+| Massy                |         2 |   0.5      |
+| Auch                 |         2 |   0.5      |
+| Ulster               |         2 |   0.5      |
+| Wales                |         2 |   0.5      |
+| Harlequins           |         2 |   1        |
+| Sale Sharks          |         2 |   0.5      |
 | US Bressane          |         1 |   1        |
 | Wasps                |         1 |   1        |
 | England              |         1 |   1        |
@@ -77,6 +77,7 @@ categories: player
 | RC Enisei            |         1 |   1        |
 | Ospreys              |         1 |   0        |
 | New Zealand          |         1 |   0        |
+| London Irish         |         1 |   0.5      |
 | Edinburgh            |         1 |   1        |
 | Italy                |         1 |   1        |
 | Ireland              |         1 |   1        |

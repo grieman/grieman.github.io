@@ -4,10 +4,10 @@ title: Gloucester Rugby at Exeter Chiefs
 date: 2023-01-28 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
-# Gloucester Rugby (~1543.09) at Exeter Chiefs (~1638.53)
+# Gloucester Rugby (~1543.09) at Exeter Chiefs (~1630.79)
 
-# Prediction: Exeter Chiefs by 13.5
+# Prediction: Exeter Chiefs by 12.8
 
 
-Exeter Chiefs by 9.5 on a neutral pitch
+Exeter Chiefs by 8.8 on a neutral pitch
 

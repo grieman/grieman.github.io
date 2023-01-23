@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-01-21 15:39:19.609178  
+date: 2023-01-23 15:30:28.139209  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Saracens     |            38 |   0.776316 |
+| Saracens     |            39 |   0.75641  |
 | Bulls        |            37 |   0.459459 |
 | Blue Bulls   |            28 |   0.607143 |
 | South Africa |             6 |   0.5      |
@@ -48,6 +48,7 @@ categories: player
 | Highlanders              |         3 |   0.5      |
 | Bath Rugby               |         3 |   1        |
 | England                  |         3 |   0.666667 |
+| Edinburgh                |         3 |   0.333333 |
 | Queensland Reds          |         2 |   0.5      |
 | Sale Sharks              |         2 |   1        |
 | Sunwolves                |         2 |   0.5      |
@@ -58,10 +59,9 @@ categories: player
 | Lyon                     |         2 |   1        |
 | Blues                    |         2 |   0.25     |
 | Hurricanes               |         2 |   0        |
-| Edinburgh                |         2 |   0.5      |
 | Worcester Warriors       |         2 |   1        |
-| Melbourne Rebels         |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Crusaders                |         1 |   0        |

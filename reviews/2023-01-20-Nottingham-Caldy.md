@@ -4,7 +4,7 @@ title: Caldy at Nottingham; 29-17
 date: 2023-01-20 20:45:00 18:00:00 -0500  
 categories: match review  
 ---
-# Caldy (1461.67) at Nottingham (1471.32); 29-17
+# Caldy (1461.68) at Nottingham (1471.32); 29-17
 
 # Prediction: Nottingham by 5.0
 
@@ -33,7 +33,7 @@ Caldy by 0.5 on a neutral pitch
 |             72 | [Sam Dickinson](..//playerfiles//SamDickinson_cleaned.md)       |     109.49 |                79 |        4 |                82 |     111.1  | [Callum Allen](..//playerfiles//CallumAllen_cleaned.md)                         |             65 |
 |             80 | [Thomas Sanders](..//playerfiles//ThomasSanders_cleaned.md)     |      93.42 |                43 |        5 |                88 |     116.42 | [Iosefa Danny Wayne Fiaola](..//playerfiles//IosefaDannyWayneFiaola_cleaned.md) |             80 |
 |             60 | [Harrison Crowe](..//playerfiles//HarrisonCrowe_cleaned.md)     |      88.23 |                26 |        6 |                 5 |      72.28 | [Scott Hall](..//playerfiles//ScottHall_cleaned.md)                             |             53 |
-|             80 | [Callum Ridgway](..//playerfiles//CallumRidgway_cleaned.md)     |      99.7  |                61 |        7 |                89 |     118.2  | [Nathan Tweedy](..//playerfiles//NathanTweedy_cleaned.md)                       |             80 |
+|             80 | [Callum Ridgway](..//playerfiles//CallumRidgway_cleaned.md)     |      99.71 |                61 |        7 |                89 |     118.2  | [Nathan Tweedy](..//playerfiles//NathanTweedy_cleaned.md)                       |             80 |
 |             80 | [Josiah Dickinson](..//playerfiles//JosiahDickinson_cleaned.md) |      88.46 |                28 |        8 |                65 |     103.71 | [Josh Poullet](..//playerfiles//JoshPoullet_cleaned.md)                         |             80 |
 |             65 | [Chris Pilgrim](..//playerfiles//ChrisPilgrim_cleaned.md)       |      93.04 |                40 |        9 |                10 |      79.62 | [Liam Slatem](..//playerfiles//LiamSlatem_cleaned.md)                           |             49 |
 |             80 | [Rhys Hayes](..//playerfiles//RhysHayes_cleaned.md)             |      94.13 |                40 |       10 |                15 |      83.81 | [John Joseph Neville](..//playerfiles//JohnJosephNeville_cleaned.md)            |             80 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yacouba CAMARA  
-date: 2023-01-21 15:43:47.539792  
+date: 2023-01-23 15:33:34.437745  
 categories: player  
 ---
 # Yacouba CAMARA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 121.0
+## Current elo: 120.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            91 |   0.516484 |
+| Montpellier Herault |            92 |   0.516304 |
 | Stade Toulousain    |            71 |   0.514085 |
 | France              |            17 |   0.470588 |
 | Massy               |             5 |   0        |
@@ -59,11 +59,11 @@ categories: player
 | England                  |         2 |   0.5      |
 | Ireland                  |         2 |   0.5      |
 | Leinster                 |         2 |   0        |
+| London Irish             |         2 |   0.75     |
 | Gloucester Rugby         |         1 |   1        |
 | Ospreys                  |         1 |   0        |
 | Edinburgh                |         1 |   0        |
 | Tonga                    |         1 |   1        |
-| London Irish             |         1 |   1        |
 | Auch                     |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   0        |

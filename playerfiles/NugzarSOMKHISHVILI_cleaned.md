@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nugzar SOMKHISHVILI  
-date: 2023-01-21 15:45:37.939374  
+date: 2023-01-23 15:31:51.041475  
 categories: player  
 ---
 # Nugzar SOMKHISHVILI
