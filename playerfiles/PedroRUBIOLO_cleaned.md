@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pedro RUBIOLO  
-date: 2023-01-23 15:30:58.026492  
+date: 2023-01-25 19:00:16.727517  
 categories: player  
 ---
 # Pedro RUBIOLO

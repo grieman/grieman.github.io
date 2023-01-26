@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo DUPRAT  
-date: 2023-01-23 15:35:19.137279  
+date: 2023-01-25 18:58:39.661183  
 categories: player  
 ---
 # Théo DUPRAT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 

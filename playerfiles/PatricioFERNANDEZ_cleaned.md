@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Patricio FERNANDEZ  
-date: 2023-01-23 15:31:07.725596  
+date: 2023-01-25 18:57:14.630345  
 categories: player  
 ---
 # Patricio FERNANDEZ
 
 ## Positions: FH
 
-## Current elo: 116.0
+## Current elo: 115.0
 
 ## Current Percentile: 78.0
 

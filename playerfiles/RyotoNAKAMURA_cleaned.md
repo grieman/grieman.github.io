@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryoto NAKAMURA  
-date: 2023-01-23 15:33:39.407559  
+date: 2023-01-25 18:57:16.150493  
 categories: player  
 ---
 # Ryoto NAKAMURA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 76.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            22 |   0.772727 |
+| Tokyo Sungoliath |            23 |   0.782609 |
 | Japan            |            21 |   0.380952 |
 | Sunwolves        |            10 |   0.1      |
 
@@ -36,26 +36,26 @@ categories: player
 | Italy                             |         2 |   0.5      |
 | New South Wales Waratahs          |         2 |   0        |
 | Russia                            |         2 |   1        |
-| Melbourne Rebels                  |         2 |   0        |
 | Samoa                             |         2 |   1        |
+| Melbourne Rebels                  |         2 |   0        |
+| Scotland                          |         2 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Yokohama Canon Eagles             |         2 |   1        |
-| Scotland                          |         2 |   0.5      |
+| Hanazono Kintetsu Liners          |         2 |   1        |
 | England                           |         2 |   0        |
 | South Africa                      |         2 |   0        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
 | New Zealand                       |         2 |   0        |
-| Portugal                          |         1 |   1        |
+| Queensland Reds                   |         1 |   0        |
 | Sharks                            |         1 |   0        |
 | Toyota Industries Shuttles Aichi  |         1 |   1        |
-| Queensland Reds                   |         1 |   0        |
 | Toyota Verblitz                   |         1 |   1        |
 | Australia                         |         1 |   0        |
+| Portugal                          |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   1        |
 | Black Rams Tokyo                  |         1 |   1        |
 | Lions                             |         1 |   0        |
-| Hanazono Kintetsu Liners          |         1 |   1        |
 | France                            |         1 |   0        |
 | Crusaders                         |         1 |   0        |
 | Bulls                             |         1 |   1        |

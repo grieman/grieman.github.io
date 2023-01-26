@@ -170,7 +170,7 @@ for recent_game in recent_games:
             away_color2 = 'white'
 
         ## Club Level Info
-        club_level_match = club_histories[(club_histories.Club == recent_game['home_team_name']) & (club_histories.Date == recent_game['date'])]
+        '''club_level_match = club_histories[(club_histories.Club == recent_game['home_team_name']) & (club_histories.Date == recent_game['date'])]
         home_sims = np.random.normal(club_level_match.mu, club_level_match.sigma, size=1000)
         away_sims = np.random.normal(club_level_match.Opponent_mu, club_level_match.Opponent_sigma, size=1000)
         spreads = (home_sims - away_sims) / 20
@@ -181,14 +181,14 @@ for recent_game in recent_games:
         ax.legend()
         sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
         plt.tight_layout()
-        plt.show()
+        #plt.show()
 
         spread_df = pd.DataFrame({'spread': np.round(spreads, 0).astype(int)})
         spread_df['result_numeric'] = ((np.sign(spread_df.spread) + 1) / 2)
         spread_df['result'] = spread_df['result_numeric'].map({1:f'{recent_game["home_team_name"]} Victory', 0:f'{recent_game["away_team_name"]} Victory', 0.5:'Tie'})
         spread_df = spread_df.sort_values('result_numeric')
         sns.displot(spread_df, x='spread', bins = np.sort(spread_df.spread.unique()), hue='result', palette=[away_color1, 'yellow', home_color1,])
-        plt.show()
+        #plt.show()'''
 
         ## Match Lineups
         home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
