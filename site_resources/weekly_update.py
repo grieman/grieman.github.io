@@ -95,9 +95,13 @@ with open('../Rugby_ELO/processed_data/matchlist.pickle', 'rb') as handle:
     matchlist = pickle.load(handle)
 with open('../Rugby_ELO/processed_data/teamlist.pickle', 'rb') as handle:
     teamlist = pickle.load(handle)
+with open('../Rugby_ELO/processed_data/clubbase.pickle', 'rb') as handle:
+    clubbase = pickle.load(handle)
 
 
 ## LOAD DATA
+club_histories = pd.concat([x.return_history() for x in clubbase.values()])
+
 match_list = []
 for _, match in matchlist.items():
     match_list.append({key:val for key, val in vars(match).items()})
@@ -164,6 +168,27 @@ for recent_game in recent_games:
             home_color2 = 'black'
             away_color1 = 'white'
             away_color2 = 'white'
+
+        ## Club Level Info
+        club_level_match = club_histories[(club_histories.Club == recent_game['home_team_name']) & (club_histories.Date == recent_game['date'])]
+        home_sims = np.random.normal(club_level_match.mu, club_level_match.sigma, size=1000)
+        away_sims = np.random.normal(club_level_match.Opponent_mu, club_level_match.Opponent_sigma, size=1000)
+        spreads = (home_sims - away_sims) / 20
+
+        fig, ax = plt.subplots()
+        sns.kdeplot(data=home_sims, ax=ax, color=home_color1, fill=True, label=f'{recent_game["home_team_name"]} Possible Performances')
+        sns.kdeplot(data=away_sims, ax=ax, color=away_color1, fill=True, label=f'{recent_game["away_team_name"]} Possible Performances')
+        ax.legend()
+        sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
+        plt.tight_layout()
+        plt.show()
+
+        spread_df = pd.DataFrame({'spread': np.round(spreads, 0).astype(int)})
+        spread_df['result_numeric'] = ((np.sign(spread_df.spread) + 1) / 2)
+        spread_df['result'] = spread_df['result_numeric'].map({1:f'{recent_game["home_team_name"]} Victory', 0:f'{recent_game["away_team_name"]} Victory', 0.5:'Tie'})
+        spread_df = spread_df.sort_values('result_numeric')
+        sns.displot(spread_df, x='spread', bins = np.sort(spread_df.spread.unique()), hue='result', palette=[away_color1, 'yellow', home_color1,])
+        plt.show()
 
         ## Match Lineups
         home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
@@ -284,7 +309,6 @@ if dir_int.shape[0] > 0:
         accuracy_lines = comp_accuracy_statements(matchlist, comp)
         for line in accuracy_lines:
             rec_dir_md.new_paragraph(line)
-
         for _, row in dir_int[dir_int.comps == comp].iterrows():
             rec_dir_md.new_paragraph(row[0])
 
@@ -295,12 +319,6 @@ if dir_pro.shape[0] > 0:
         accuracy_lines = comp_accuracy_statements(matchlist, comp)
         for line in accuracy_lines:
             rec_dir_md.new_paragraph(line)
-
-        #correct_preds = sum([x['spread'] * x['point_diff'] > 0 for x in comp_matches])
-        #avg_error = np.mean([abs(x['spread'] - x['point_diff']) for x in comp_matches])
-        #recent_correct_preds = sum([x['spread'] * x['point_diff'] > 0 for x in comp_matches if x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)])
-        #recent_avg_error =  np.mean([abs(x['spread'] - x['point_diff']) for x in comp_matches if x['date'] > datetime.datetime.now() - datetime.timedelta(days=8)])
-
         for _, row in dir_pro[dir_pro.comps == comp].iterrows():
             rec_dir_md.new_paragraph(row[0])
 
@@ -311,7 +329,6 @@ if dir_dom.shape[0] > 0:
         accuracy_lines = comp_accuracy_statements(matchlist, comp)
         for line in accuracy_lines:
             rec_dir_md.new_paragraph(line)
-            
         for _, row in dir_dom[dir_dom.comps == comp].iterrows():
             rec_dir_md.new_paragraph(row[0])
 
