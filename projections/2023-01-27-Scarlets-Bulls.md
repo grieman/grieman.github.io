@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bulls at Scarlets  
-date: 2023-01-28 00:00:00 18:00:00 -0500  
+date: 2023-01-27 00:00:00 18:00:00 -0500  
 categories: match prediction imputed  
 ---
 # Bulls (~1574.76) at Scarlets (~1555.32)

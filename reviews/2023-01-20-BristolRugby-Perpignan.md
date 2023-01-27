@@ -4,9 +4,27 @@ title: Perpignan at Bristol Rugby; 19-33
 date: 2023-01-20 21:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Perpignan (1376.33) at Bristol Rugby (1541.85); 19-33
+# Perpignan at Bristol Rugby; 19-33
 
-# Prediction: Bristol Rugby by 20.6
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.754, which translates to predicting Bristol Rugby to win by 9.8.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-20-BristolRugby-Perpignan.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-20-BristolRugby-Perpignan.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Bristol Rugby by 20.6
 
 
 Bristol Rugby by 16.6 on a neutral field
@@ -18,7 +36,7 @@ Bristol Rugby by 16.6 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-20-BristolRugby-Perpignan.png)
-# Pre-Match Prediction: Bristol Rugby by 19.5
+## Prediction without Player Minutes: Bristol Rugby by 19.5
 
 
 Bristol Rugby by 15.5 on a neutral pitch

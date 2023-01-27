@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vakhtang JINTCHARADZE  
-date: 2023-01-25 18:57:35.809757  
+date: 2023-01-27 11:07:04.416025  
 categories: player  
 ---
 # Vakhtang JINTCHARADZE

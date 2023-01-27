@@ -4,9 +4,27 @@ title: Scarlets at Bayonne; 20-7
 date: 2023-01-21 14:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Scarlets (1533.53) at Bayonne (1449.63); 20-7
+# Scarlets at Bayonne; 20-7
 
-# Prediction: Scarlets by 4.4
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.601, which translates to predicting Bayonne to win by 3.6.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-21-Bayonne-Scarlets.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-21-Bayonne-Scarlets.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Scarlets by 4.4
 
 
 Scarlets by 8.4 on a neutral field
@@ -18,7 +36,7 @@ Scarlets by 8.4 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-21-Bayonne-Scarlets.png)
-# Pre-Match Prediction: Scarlets by 1.3
+## Prediction without Player Minutes: Scarlets by 1.3
 
 
 Scarlets by 2.7 on a neutral pitch

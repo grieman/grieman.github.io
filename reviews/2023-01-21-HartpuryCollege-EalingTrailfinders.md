@@ -4,9 +4,27 @@ title: Ealing Trailfinders at Hartpury College; 26-13
 date: 2023-01-21 15:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Ealing Trailfinders (1485.2) at Hartpury College (1470.24); 26-13
+# Ealing Trailfinders at Hartpury College; 26-13
 
-# Prediction: Hartpury College by 2.5
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.133, which translates to predicting Ealing Trailfinders to win by 16.6.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-21-HartpuryCollege-EalingTrailfinders.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-21-HartpuryCollege-EalingTrailfinders.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Hartpury College by 2.5
 
 
 Ealing Trailfinders by 1.5 on a neutral field
@@ -18,7 +36,7 @@ Ealing Trailfinders by 1.5 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-21-HartpuryCollege-EalingTrailfinders.png)
-# Pre-Match Prediction: Ealing Trailfinders by 6.7
+## Prediction without Player Minutes: Ealing Trailfinders by 6.7
 
 
 Ealing Trailfinders by 10.7 on a neutral pitch

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin DAUVERGNE  
-date: 2023-01-25 18:57:57.971395  
+date: 2023-01-27 11:07:40.665810  
 categories: player  
 ---
 # Quentin DAUVERGNE

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain SOLA  
-date: 2023-01-25 19:00:12.412886  
+date: 2023-01-27 11:07:53.922469  
 categories: player  
 ---
 # Romain SOLA

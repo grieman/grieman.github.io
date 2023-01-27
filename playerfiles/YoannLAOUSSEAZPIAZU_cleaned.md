@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yoann LAOUSSE AZPIAZU  
-date: 2023-01-23 15:31:47.593933  
+date: 2023-01-27 11:06:52.097229  
 categories: player  
 ---
 # Yoann LAOUSSE AZPIAZU
 
 ## Positions: FB
 
-## Current elo: 140.0
+## Current elo: 143.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |           167 |   0.595808 |
+| Mont-de-Marsan |           168 |   0.598214 |
 | Dax            |            69 |   0.362319 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,9 +30,9 @@ categories: player
 | Beziers                    |        17 |   0.705882 |
 | Colomiers                  |        16 |   0.40625  |
 | Carcassonne                |        16 |   0.5625   |
+| Oyonnax                    |        13 |   0.423077 |
 | Narbonne                   |        13 |   0.461538 |
 | Montauban                  |        13 |   0.461538 |
-| Oyonnax                    |        12 |   0.375    |
 | Perpignan                  |        10 |   0.5      |
 | Vannes                     |         9 |   0.444444 |
 | Biarritz Olympique         |         9 |   0.444444 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yann BRETHOUS  
-date: 2023-01-23 15:34:38.445394  
+date: 2023-01-27 11:07:00.600905  
 categories: player  
 ---
 # Yann BRETHOUS
 
 ## Positions: FL
 
-## Current elo: 105.0
+## Current elo: 111.0
 
-## Current Percentile: 78.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |           291 |   0.542955 |
+| Mont-de-Marsan |           292 |   0.544521 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,8 +31,8 @@ categories: player
 | Biarritz Olympique         |        14 |   0.464286 |
 | Carcassonne                |        14 |   0.714286 |
 | Montauban                  |        13 |   0.538462 |
+| Oyonnax                    |        13 |   0.5      |
 | Narbonne                   |        12 |   0.75     |
-| Oyonnax                    |        12 |   0.458333 |
 | Dax                        |        12 |   0.583333 |
 | Perpignan                  |        12 |   0.416667 |
 | Provence Rugby             |        10 |   0.5      |

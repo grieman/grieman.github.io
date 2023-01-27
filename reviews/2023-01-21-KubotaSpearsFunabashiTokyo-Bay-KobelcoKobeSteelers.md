@@ -4,9 +4,27 @@ title: Kobelco Kobe Steelers at Kubota Spears Funabashi Tokyo-Bay; 21-25
 date: 2023-01-21 06:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Kobelco Kobe Steelers (1520.47) at Kubota Spears Funabashi Tokyo-Bay (1702.04); 21-25
+# Kobelco Kobe Steelers at Kubota Spears Funabashi Tokyo-Bay; 21-25
 
-# Prediction: Kubota Spears Funabashi Tokyo-Bay by 22.2
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.6, which translates to predicting Kubota Spears Funabashi Tokyo-Bay to win by 3.7.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-21-KubotaSpearsFunabashiTokyo-Bay-KobelcoKobeSteelers.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-21-KubotaSpearsFunabashiTokyo-Bay-KobelcoKobeSteelers.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Kubota Spears Funabashi Tokyo-Bay by 22.2
 
 
 Kubota Spears Funabashi Tokyo-Bay by 18.2 on a neutral field
@@ -18,7 +36,7 @@ Kubota Spears Funabashi Tokyo-Bay by 18.2 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-21-KubotaSpearsFunabashiTokyo-Bay-KobelcoKobeSteelers.png)
-# Pre-Match Prediction: Kubota Spears Funabashi Tokyo-Bay by 19.6
+## Prediction without Player Minutes: Kubota Spears Funabashi Tokyo-Bay by 19.6
 
 
 Kubota Spears Funabashi Tokyo-Bay by 15.6 on a neutral pitch

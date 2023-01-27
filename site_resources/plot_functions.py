@@ -7,6 +7,7 @@ import datetime
 import pandas as pd
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
+import seaborn as sns
 
 #sns.set_style("darkgrid")
 
@@ -123,3 +124,45 @@ def player_history_plot(player_df, percentile_df):
     plt.savefig(f"playerfiles/history_{playername.replace(' ','')}.png")
     plt.close()
     return f"history_{playername.replace(' ','')}.png"
+
+def glicko_club_plots(home_sims, away_sims, recent_game, file_loc, file_name, home_color1, away_color1, home_color2, away_color2):
+    fig, ax = plt.subplots()
+    sns.kdeplot(data=home_sims, ax=ax, color=home_color1, fill=True)#, label=f'{recent_game["home_team_name"]} Simulated Performances')
+    sns.kdeplot(data=home_sims, ax=ax, color=home_color2, fill=False)#, label=f'{recent_game["home_team_name"]} Simulated Performances')
+    sns.kdeplot(data=away_sims, ax=ax, color=away_color1, fill=True)#, label=f'{recent_game["away_team_name"]} Simulated Performances')
+    sns.kdeplot(data=away_sims, ax=ax, color=away_color2, fill=False)#, label=f'{recent_game["away_team_name"]} Simulated Performances')
+    legend_elements = [
+        mpatches.Patch(edgecolor=away_color2, facecolor=away_color1, label=f'{recent_game["away_team_name"]} Simulated Performances', alpha=0.5),
+        mpatches.Patch(edgecolor=home_color2, facecolor=home_color1, label=f'{recent_game["home_team_name"]} Simulated Performances', alpha=0.5)
+    ]
+    ax.legend(handles = legend_elements)
+    sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
+    plt.tight_layout()
+    plt.savefig(f"reviews/{file_loc}_performances_{file_name}.png")
+    plt.close()
+
+    fig, ax = plt.subplots()
+    spreads = (home_sims - away_sims) / 20
+    spread_df = pd.DataFrame({'spread': np.round(spreads, 0).astype(int)})
+    spread_df['result_numeric'] = ((np.sign(spread_df.spread) + 1) / 2)
+    spread_df['result'] = spread_df['result_numeric'].map({1:f'{recent_game["home_team_name"]} Victory', 0:f'{recent_game["away_team_name"]} Victory', 0.5:'Tie'})
+    spread_df['hue1'] = spread_df['result_numeric'].map({1:home_color1, 0:away_color1, 0.5:'silver'})
+    spread_df['hue2'] = spread_df['result_numeric'].map({1:home_color2, 0:away_color2, 0.5:'silver'})
+    spread_df = spread_df.sort_values('result_numeric')
+    wins = spread_df[spread_df.result_numeric == 1]
+    losses = spread_df[spread_df.result_numeric == 0]
+    ties = spread_df[spread_df.result_numeric == 0.5]
+    sns.histplot(wins, ax=ax, x='spread', discrete=True, color = home_color1, edgecolor=home_color2)
+    sns.histplot(losses, ax=ax, x='spread', discrete=True, color = away_color1, edgecolor=away_color2)
+    sns.histplot(ties, ax=ax, x='spread', discrete=True, color = 'silver')
+    legend_elements = [
+        mpatches.Patch(edgecolor=away_color2, facecolor=away_color1, label=f'{recent_game["away_team_name"]} Victories', alpha=0.5),
+        mpatches.Patch(edgecolor=home_color2, facecolor=home_color1, label=f'{recent_game["home_team_name"]} Victories', alpha=0.5),
+        mpatches.Patch(facecolor='silver', label='Ties', alpha=0.5)
+
+    ]
+    ax.legend(handles = legend_elements)
+    #sns.displot(spread_df, x='spread', discrete=True), hue='result', palette=list(spread_df.hue1.unique()))#[away_color1, 'yellow', home_color1])
+    plt.savefig(f"reviews/{file_loc}_spreads_{file_name}.png")
+    plt.close()
+    return f"{file_loc}_performances_{file_name}.png", f"{file_loc}_spreads_{file_name}.png"

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain MAURICE  
-date: 2023-01-25 18:58:50.200207  
+date: 2023-01-27 11:06:33.845279  
 categories: player  
 ---
 # Romain MAURICE

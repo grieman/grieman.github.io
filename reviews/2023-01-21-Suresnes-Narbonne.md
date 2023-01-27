@@ -4,9 +4,27 @@ title: Narbonne at Suresnes; 36-13
 date: 2023-01-21 18:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Narbonne (1517.27) at Suresnes (1315.25); 36-13
+# Narbonne at Suresnes; 36-13
 
-# Prediction: Narbonne by 16.2
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting Suresnes to win by 0.9.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-21-Suresnes-Narbonne.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-21-Suresnes-Narbonne.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Narbonne by 16.2
 
 
 Narbonne by 20.2 on a neutral field
@@ -18,7 +36,7 @@ Narbonne by 20.2 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-21-Suresnes-Narbonne.png)
-# Pre-Match Prediction: Narbonne by 14.1
+## Prediction without Player Minutes: Narbonne by 14.1
 
 
 Narbonne by 18.1 on a neutral pitch

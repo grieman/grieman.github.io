@@ -4,9 +4,27 @@ title: Carqueiranne-Hyères at Albi; 6-23
 date: 2023-01-21 18:30:00 18:00:00 -0500  
 categories: match review  
 ---
-# Carqueiranne-Hyères (1352.07) at Albi (1462.85); 6-23
+# Carqueiranne-Hyères at Albi; 6-23
 
-# Prediction: Albi by 15.1
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.889, which translates to predicting Albi to win by 19.0.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-21-Albi-Carqueiranne-Hyères.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-21-Albi-Carqueiranne-Hyères.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Albi by 15.1
 
 
 Albi by 11.1 on a neutral field
@@ -18,7 +36,7 @@ Albi by 11.1 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-21-Albi-Carqueiranne-Hyères.png)
-# Pre-Match Prediction: Albi by 12.2
+## Prediction without Player Minutes: Albi by 12.2
 
 
 Albi by 8.2 on a neutral pitch

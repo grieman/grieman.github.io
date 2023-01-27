@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoan GAUNE  
-date: 2023-01-25 18:56:59.204594  
+date: 2023-01-27 11:07:24.910890  
 categories: player  
 ---
 # Yoan GAUNE

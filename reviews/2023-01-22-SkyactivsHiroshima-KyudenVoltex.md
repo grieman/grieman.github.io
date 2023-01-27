@@ -4,9 +4,27 @@ title: Kyuden Voltex at Skyactivs Hiroshima; 38-14
 date: 2023-01-22 00:00:00 18:00:00 -0500  
 categories: match review  
 ---
-# Kyuden Voltex (1373.13) at Skyactivs Hiroshima (1315.19); 38-14
+# Kyuden Voltex at Skyactivs Hiroshima; 38-14
 
-# Prediction: Kyuden Voltex by 1.8
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.246, which translates to predicting Kyuden Voltex to win by 10.2.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](recap_performances_2023-01-22-SkyactivsHiroshima-KyudenVoltex.png)
+## Projected Spreads
+
+
+![Projected Spreads](recap_spreads_2023-01-22-SkyactivsHiroshima-KyudenVoltex.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Kyuden Voltex by 1.8
 
 
 Kyuden Voltex by 5.8 on a neutral field
@@ -18,7 +36,7 @@ Kyuden Voltex by 5.8 on a neutral field
 
 
 ![In Match Predictions](recap_prob_2023-01-22-SkyactivsHiroshima-KyudenVoltex.png)
-# Pre-Match Prediction: Kyuden Voltex by 4.7
+## Prediction without Player Minutes: Kyuden Voltex by 4.7
 
 
 Kyuden Voltex by 8.7 on a neutral pitch
