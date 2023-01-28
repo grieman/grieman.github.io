@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George DAVIS  
-date: 2023-01-27 11:07:01.664372  
+date: 2023-01-27 19:01:51.764609  
 categories: player  
 ---
 # George DAVIS

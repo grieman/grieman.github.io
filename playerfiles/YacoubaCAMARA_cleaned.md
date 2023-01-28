@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yacouba CAMARA  
-date: 2023-01-27 11:08:08.651205  
+date: 2023-01-27 19:02:13.301147  
 categories: player  
 ---
 # Yacouba CAMARA

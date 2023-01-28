@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke STRATFORD  
-date: 2023-01-27 11:06:57.334711  
+date: 2023-01-27 19:00:34.704785  
 categories: player  
 ---
 # Luke STRATFORD

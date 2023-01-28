@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaut TROTTA  
-date: 2023-01-27 11:07:18.946697  
+date: 2023-01-27 19:00:57.844158  
 categories: player  
 ---
 # Thibaut TROTTA

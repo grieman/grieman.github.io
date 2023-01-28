@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kenshi YAMAMOTO  
-date: 2023-01-27 11:07:19.575738  
+date: 2023-01-27 19:01:10.349362  
 categories: player  
 ---
 # Kenshi YAMAMOTO

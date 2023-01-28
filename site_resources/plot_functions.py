@@ -125,44 +125,90 @@ def player_history_plot(player_df, percentile_df):
     plt.close()
     return f"history_{playername.replace(' ','')}.png"
 
-def glicko_club_plots(home_sims, away_sims, recent_game, file_loc, file_name, home_color1, away_color1, home_color2, away_color2):
+def glicko_club_plots(home_sims, away_sims, home_team_name, away_team_name, file_loc, file_name, home_color1, away_color1, home_color2, away_color2, point_diff = None):
     fig, ax = plt.subplots()
-    sns.kdeplot(data=home_sims, ax=ax, color=home_color1, fill=True)#, label=f'{recent_game["home_team_name"]} Simulated Performances')
-    sns.kdeplot(data=home_sims, ax=ax, color=home_color2, fill=False)#, label=f'{recent_game["home_team_name"]} Simulated Performances')
-    sns.kdeplot(data=away_sims, ax=ax, color=away_color1, fill=True)#, label=f'{recent_game["away_team_name"]} Simulated Performances')
-    sns.kdeplot(data=away_sims, ax=ax, color=away_color2, fill=False)#, label=f'{recent_game["away_team_name"]} Simulated Performances')
+    sns.kdeplot(data=home_sims, ax=ax, color=home_color1, fill=True)#, label=f'{home_team_name} Simulated Performances')
+    sns.kdeplot(data=home_sims, ax=ax, color=home_color2, fill=False)#, label=f'{home_team_name} Simulated Performances')
+    sns.kdeplot(data=away_sims, ax=ax, color=away_color1, fill=True)#, label=f'{away_team_name} Simulated Performances')
+    sns.kdeplot(data=away_sims, ax=ax, color=away_color2, fill=False)#, label=f'{away_team_name} Simulated Performances')
     legend_elements = [
-        mpatches.Patch(edgecolor=away_color2, facecolor=away_color1, label=f'{recent_game["away_team_name"]} Simulated Performances', alpha=0.5),
-        mpatches.Patch(edgecolor=home_color2, facecolor=home_color1, label=f'{recent_game["home_team_name"]} Simulated Performances', alpha=0.5)
+        mpatches.Patch(edgecolor=away_color2, facecolor=away_color1, label=f'{away_team_name} Simulated Performances', alpha=0.5),
+        mpatches.Patch(edgecolor=home_color2, facecolor=home_color1, label=f'{home_team_name} Simulated Performances', alpha=0.5)
     ]
+    if point_diff:
+        performance_diff = point_diff * 20
+        '''if home_sims.mean() > away_sims.mean():
+            high_mean = home_sims.mean()
+            low_mean = away_sims.mean()
+            high_std = home_sims.std()
+            low_std = away_sims.std()
+            high_color = home_color2
+            low_color = away_color2
+        else:
+            high_mean = away_sims.mean()
+            low_mean = home_sims.mean()
+            high_std = away_sims.std()
+            low_std = home_sims.std()
+            high_color = away_color2
+            low_color = home_color2'''
+        
+        y_height = np.max(ax.get_ylim()) * 0.2
+        rating_diff = home_sims.mean() - away_sims.mean()
+        perf_home = home_sims.mean() + ((performance_diff - rating_diff) * (home_sims.std() / (home_sims.std() + away_sims.std())))
+        perf_away = away_sims.mean() - ((performance_diff - rating_diff) * (away_sims.std() / (away_sims.std() + away_sims.std())))
+
+        '''rating_diff = high_mean - low_mean
+        #axis_midpoint = np.mean(ax.get_xlim())
+        y_height = np.max(ax.get_ylim()) * 0.2
+        diff_low = low_mean - ((performance_diff - rating_diff) * (low_std / (low_std + high_std)))
+        diff_high = high_mean + ((performance_diff - rating_diff) * (high_std / (low_std + high_std)))'''
+          
+        plt.plot([perf_home, perf_home], [0, y_height], color = home_color2)
+        plt.plot([perf_away, perf_away], [0, y_height], color = away_color2)
+        plt.plot([perf_home, perf_away], [y_height/2, y_height/2], color = "black")
+        plt.text(x=(perf_home + perf_away)/2, y=y_height/1.9, s="Observed Performance Gap", ha='center')
+
     ax.legend(handles = legend_elements)
     sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
+    #plt.show()
     plt.tight_layout()
-    plt.savefig(f"reviews/{file_loc}_performances_{file_name}.png")
+    plt.savefig(f"{file_loc}_performances_{file_name}.png")
     plt.close()
 
     fig, ax = plt.subplots()
     spreads = (home_sims - away_sims) / 20
     spread_df = pd.DataFrame({'spread': np.round(spreads, 0).astype(int)})
     spread_df['result_numeric'] = ((np.sign(spread_df.spread) + 1) / 2)
-    spread_df['result'] = spread_df['result_numeric'].map({1:f'{recent_game["home_team_name"]} Victory', 0:f'{recent_game["away_team_name"]} Victory', 0.5:'Tie'})
+    spread_df['result'] = spread_df['result_numeric'].map({1:f'{home_team_name} Victory', 0:f'{away_team_name} Victory', 0.5:'Tie'})
     spread_df['hue1'] = spread_df['result_numeric'].map({1:home_color1, 0:away_color1, 0.5:'silver'})
-    spread_df['hue2'] = spread_df['result_numeric'].map({1:home_color2, 0:away_color2, 0.5:'silver'})
+    spread_df['hue2'] = spread_df['result_numeric'].map({1:home_color2, 0:away_color2, 0.5:'black'})
     spread_df = spread_df.sort_values('result_numeric')
     wins = spread_df[spread_df.result_numeric == 1]
     losses = spread_df[spread_df.result_numeric == 0]
     ties = spread_df[spread_df.result_numeric == 0.5]
     sns.histplot(wins, ax=ax, x='spread', discrete=True, color = home_color1, edgecolor=home_color2)
     sns.histplot(losses, ax=ax, x='spread', discrete=True, color = away_color1, edgecolor=away_color2)
-    sns.histplot(ties, ax=ax, x='spread', discrete=True, color = 'silver')
+    sns.histplot(ties, ax=ax, x='spread', discrete=True, color = 'silver', edgecolor='black')
     legend_elements = [
-        mpatches.Patch(edgecolor=away_color2, facecolor=away_color1, label=f'{recent_game["away_team_name"]} Victories', alpha=0.5),
-        mpatches.Patch(edgecolor=home_color2, facecolor=home_color1, label=f'{recent_game["home_team_name"]} Victories', alpha=0.5),
+        mpatches.Patch(edgecolor=away_color2, facecolor=away_color1, label=f'{away_team_name} Victories', alpha=0.5),
+        mpatches.Patch(edgecolor=home_color2, facecolor=home_color1, label=f'{home_team_name} Victories', alpha=0.5),
         mpatches.Patch(facecolor='silver', label='Ties', alpha=0.5)
-
     ]
+    if point_diff:
+        actual = spread_df[spread_df.spread == int(point_diff)]
+        if actual.shape[0] == 0:
+            actual = spread_df[np.sign(spread_df.spread) == np.sign(int(point_diff))][0:1]
+            actual.spread = int(point_diff)
+        if actual.shape[0] != 0:
+            sns.histplot(actual, ax=ax, x='spread', discrete=True, hatch='x', color = actual.hue1.iloc[0], edgecolor=actual.hue2.iloc[0])
+            legend_elements.append(mpatches.Patch(hatch='x', facecolor = actual.hue1.iloc[0], edgecolor=actual.hue2.iloc[0], label='Observed Point Difference', alpha=0.75))
+        else:
+            plt.plot([int(point_diff), int(point_diff)], [0, 10], color = "black")
+            legend_elements.append(mlines.Line2D([0], [0], color="black", lw=2))
+
     ax.legend(handles = legend_elements)
-    #sns.displot(spread_df, x='spread', discrete=True), hue='result', palette=list(spread_df.hue1.unique()))#[away_color1, 'yellow', home_color1])
-    plt.savefig(f"reviews/{file_loc}_spreads_{file_name}.png")
+    sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
+    plt.savefig(f"{file_loc}_spreads_{file_name}.png")
     plt.close()
-    return f"{file_loc}_performances_{file_name}.png", f"{file_loc}_spreads_{file_name}.png"
+
+    return f"{file_loc}_performances_{file_name}.png".split("/")[1], f"{file_loc}_spreads_{file_name}.png".split("/")[1]

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack HUGHES  
-date: 2023-01-27 11:07:38.018453  
+date: 2023-01-27 19:01:18.492928  
 categories: player  
 ---
 # Jack HUGHES

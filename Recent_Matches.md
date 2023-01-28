@@ -106,13 +106,13 @@ Last Round Error: 13.38 points per match
 ## Pro D2
 
 
-Competition Accuracy: 85 of 137 (62.04%)
+Competition Accuracy: 89 of 143 (62.24%)
 
-Competition Error: 9.7 points per match
+Competition Error: 9.55 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 14.07 points per match
+Last Round Error: 8.51 points per match
 
 [2023-01-26 Mont-de-Marsan at Oyonnax; 26-25](reviews//2023-01-26-Oyonnax-Mont-de-Marsan)
 ## RFU Championship

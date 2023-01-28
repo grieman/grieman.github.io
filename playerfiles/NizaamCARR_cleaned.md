@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nizaam CARR  
-date: 2023-01-27 11:06:35.760892  
+date: 2023-01-27 19:01:59.239727  
 categories: player  
 ---
 # Nizaam CARR
@@ -26,7 +26,7 @@ categories: player
 | Stormers         |            98 |   0.55102  |
 | Wasps            |            70 |   0.407143 |
 | Western Province |            47 |   0.744681 |
-| Bulls            |             9 |   0.555556 |
+| Bulls            |            10 |   0.5      |
 | South Africa     |             5 |   0.2      |
 | Blue Bulls       |             4 |   0.75     |
 
@@ -60,29 +60,30 @@ categories: player
 | Sale Sharks              |         4 |   0.25     |
 | Leicester Tigers         |         4 |   0.5      |
 | Worcester Warriors       |         4 |   0.75     |
-| Highlanders              |         4 |   0.25     |
 | Jaguares                 |         4 |   0.75     |
+| Highlanders              |         4 |   0.25     |
 | Bristol Rugby            |         4 |   0.5      |
+| Eastern Province Kings   |         3 |   1        |
 | Western Force            |         3 |   1        |
 | Stade Toulousain         |         3 |   0.333333 |
+| Hurricanes               |         3 |   0.666667 |
 | Southern Kings           |         3 |   1        |
 | Newcastle Falcons        |         3 |   0.666667 |
-| Eastern Province Kings   |         3 |   1        |
-| Hurricanes               |         3 |   0.666667 |
-| Lyon                     |         2 |   0.5      |
 | Wales                    |         2 |   0        |
-| Italy                    |         2 |   0.5      |
-| Munster                  |         2 |   0        |
-| La Rochelle              |         2 |   0.5      |
 | Leinster                 |         2 |   0        |
+| La Rochelle              |         2 |   0.5      |
 | Ospreys                  |         2 |   1        |
 | Edinburgh                |         2 |   0        |
+| Munster                  |         2 |   0        |
+| Lyon                     |         2 |   0.5      |
+| Italy                    |         2 |   0.5      |
 | Cardiff Blues            |         1 |   1        |
-| Dragons                  |         1 |   1        |
+| England                  |         1 |   0        |
+| Scarlets                 |         1 |   0        |
 | Bordeaux Begles          |         1 |   0        |
 | Stormers                 |         1 |   0        |
 | Boland Cavaliers         |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Leopards                 |         1 |   1        |
 | Western Province         |         1 |   1        |
-| England                  |         1 |   0        |
+| Dragons                  |         1 |   1        |
