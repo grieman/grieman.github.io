@@ -9,7 +9,7 @@ categories: match prediction imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.655, which translates to predicting Nevers to win by 5.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.655, which translates to predicting Nevers to win by 5.6.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -26,10 +26,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. Before teamsheets are announced (and added here), team ratings are calculated as an average of recent team ratings.
 ## Predictions without Teamsheets
 
-### Aurillac (~1468.1) at Nevers (~1514.77)
+### Aurillac (~1468.65) at Nevers (~1514.77)
 
-#### Prediction: Nevers by 8.7
+#### Prediction: Nevers by 8.6
 
 
-Nevers by 4.7 on a neutral pitch
+Nevers by 4.6 on a neutral pitch
 

@@ -66,6 +66,6 @@ Mie Honda Heat by 24.5 on a neutral pitch
 |             14 | [Matthys Basson](..//playerfiles//MatthysBasson_cleaned.md)           |      89.64 |                29 |       19 |                84 |     114.44 | [Sergeal Petersen](..//playerfiles//SergealPetersen_cleaned.md)   |             16 |
 |              4 | [Takumi Fuji](..//playerfiles//TakumiFuji_cleaned.md)                 |      91.96 |               nan |       20 |                31 |      88.73 | [Naomichi Tatekawa](..//playerfiles//NaomichiTatekawa_cleaned.md) |              4 |
 |              4 | [Paddy Butler](..//playerfiles//PaddyButler_cleaned.md)               |     102.48 |                59 |       21 |                75 |     102.39 | [Kazuki Kanazawa](..//playerfiles//KazukiKanazawa_cleaned.md)     |              4 |
-|              4 | [Masaki Kondo](..//playerfiles//MasakiKondo_cleaned.md)               |     108.12 |                77 |       22 |                38 |      91.8  | [Taishi Sakurai](..//playerfiles//TaishiSakurai_cleaned.md)       |              1 |
+|              4 | [Masaki Kondo](..//playerfiles//MasakiKondo_cleaned.md)               |     108.12 |                77 |       22 |                37 |      91.8  | [Taishi Sakurai](..//playerfiles//TaishiSakurai_cleaned.md)       |              1 |
 |              4 | [Kengo Gunji](..//playerfiles//KengoGunji_cleaned.md)                 |      95    |               nan |       23 |               nan |     nan    | nan                                                               |            nan |
 

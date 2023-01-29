@@ -26,10 +26,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. Before teamsheets are announced (and added here), team ratings are calculated as an average of recent team ratings.
 ## Predictions without Teamsheets
 
-### Oyonnax (~1586.44) at Rouen (~1350.3)
+### Oyonnax (~1586.44) at Rouen (~1345.93)
 
-#### Prediction: Oyonnax by 19.6
+#### Prediction: Oyonnax by 20.1
 
 
-Oyonnax by 23.6 on a neutral pitch
+Oyonnax by 24.1 on a neutral pitch
 

@@ -26,7 +26,7 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. Before teamsheets are announced (and added here), team ratings are calculated as an average of recent team ratings.
 ## Predictions without Teamsheets
 
-### Vannes (~1385.83) at Biarritz Olympique (~1494.79)
+### Vannes (~1385.89) at Biarritz Olympique (~1494.79)
 
 #### Prediction: Biarritz Olympique by 14.9
 
