@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro CECCARELLI  
-date: 2023-01-27 19:00:35.529356  
+date: 2023-01-30 18:29:21.156850  
 categories: player  
 ---
 # Pietro CECCARELLI
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Zebre       |            45 |   0.177778 |
-| Brive       |            41 |   0.378049 |
+| Brive       |            42 |   0.369048 |
 | Edinburgh   |            23 |   0.586957 |
 | Oyonnax     |            23 |   0.217391 |
 | Italy       |            21 |   0.285714 |
@@ -57,12 +57,12 @@ categories: player
 | Ireland                  |         3 |   0        |
 | England                  |         3 |   0        |
 | Wasps                    |         3 |   0.333333 |
+| Bayonne                  |         3 |   0.666667 |
 | Gloucester Rugby         |         2 |   0        |
 | Worcester Warriors       |         2 |   1        |
 | Wales                    |         2 |   0.5      |
 | Ulster                   |         2 |   0        |
 | Australia                |         2 |   0.5      |
-| Bayonne                  |         2 |   1        |
 | Southern Kings           |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
 | Ospreys                  |         2 |   0        |

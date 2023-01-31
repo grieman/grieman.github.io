@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-20-LeicesterTigers-Ospreys.png)
+![Projected Performances](plots/performances_2023-01-20-LeicesterTigers-Ospreys.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-20-LeicesterTigers-Ospreys.png)
+![Projected Spreads](plots/spreads_2023-01-20-LeicesterTigers-Ospreys.png)
 # Player Level Predictions
 
 
@@ -31,12 +31,12 @@ Ospreys by 5.6 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-20-LeicesterTigers-Ospreys.png)
+![In Match Scores](plots/recap_scores_2023-01-20-LeicesterTigers-Ospreys.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-20-LeicesterTigers-Ospreys.png)
-## Prediction without Player Minutes: Ospreys by 1.6
+![In Match Predictions](plots/recap_prob_2023-01-20-LeicesterTigers-Ospreys.png)
+## Prediction without Player Minutes: Leicester Tigers by 1.6
 
 
 Ospreys by 2.4 on a neutral pitch

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sonatane TAKULUA  
-date: 2023-01-21 15:44:23.073143  
+date: 2023-01-30 18:32:31.839028  
 categories: player  
 ---
 # Sonatane TAKULUA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 32.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -27,71 +27,72 @@ categories: player
 | Tonga             |            30 |   0.3      |
 | Toulon            |            26 |   0.5      |
 | Northland         |            24 |   0.354167 |
-| Agen              |            17 |   0.470588 |
+| Agen              |            18 |   0.5      |
 | Blues             |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Exeter Chiefs            |         9 |   0.111111 |
 | Leicester Tigers         |         9 |   0.333333 |
-| Sale Sharks              |         7 |   0.571429 |
+| Exeter Chiefs            |         9 |   0.111111 |
 | Wasps                    |         7 |   0.142857 |
 | Harlequins               |         7 |   0.571429 |
 | Saracens                 |         7 |   0        |
+| Sale Sharks              |         7 |   0.571429 |
 | Gloucester Rugby         |         7 |   0.571429 |
 | Bath Rugby               |         7 |   0.428571 |
 | Worcester Warriors       |         6 |   0.666667 |
 | Northampton Saints       |         5 |   0.8      |
-| Georgia                  |         4 |   0.25     |
 | Bristol Rugby            |         4 |   0.5      |
-| Lyon                     |         3 |   0.666667 |
+| Georgia                  |         4 |   0.25     |
+| London Irish             |         3 |   1        |
 | Hawke's Bay              |         3 |   0.333333 |
 | Southland                |         3 |   0.333333 |
 | United States of America |         3 |   1        |
-| London Irish             |         3 |   1        |
+| New Zealand              |         3 |   0        |
 | Samoa                    |         3 |   0        |
 | Montpellier Herault      |         3 |   0.666667 |
-| New Zealand              |         3 |   0        |
+| Lyon                     |         3 |   0.666667 |
+| Nevers                   |         2 |   0.5      |
 | Manawatu                 |         2 |   0        |
-| Grenoble                 |         2 |   0.5      |
-| Romania                  |         2 |   0.5      |
+| North Harbour            |         2 |   0.75     |
 | La Rochelle              |         2 |   0        |
 | Scotland                 |         2 |   0        |
 | Rouen                    |         2 |   1        |
-| Nevers                   |         2 |   0.5      |
+| Romania                  |         2 |   0.5      |
+| Grenoble                 |         2 |   0.5      |
 | Otago                    |         2 |   0.5      |
-| Stade Francais Paris     |         2 |   0.5      |
-| Pau                      |         2 |   1        |
-| North Harbour            |         2 |   0.75     |
-| Stade Toulousain         |         2 |   0.5      |
-| Provence Rugby           |         2 |   0.5      |
 | Fiji                     |         2 |   0.5      |
+| Stade Francais Paris     |         2 |   0.5      |
+| Clermont Auvergne        |         2 |   0.5      |
 | Argentina                |         2 |   0        |
 | Auckland                 |         2 |   0        |
 | Aurillac                 |         2 |   0.5      |
 | Bay of Plenty            |         2 |   1        |
 | Bayonne                  |         2 |   0        |
-| Bordeaux Begles          |         2 |   0.5      |
 | Wellington               |         2 |   0.5      |
+| Bordeaux Begles          |         2 |   0.5      |
 | Wales                    |         2 |   0        |
 | Carcassonne              |         2 |   0.5      |
+| Provence Rugby           |         2 |   0.5      |
 | Castres Olympique        |         2 |   0.5      |
-| Clermont Auvergne        |         2 |   0.5      |
 | Connacht                 |         2 |   0.5      |
 | Toulon                   |         2 |   0.5      |
 | Tasman                   |         2 |   0.5      |
 | Taranaki                 |         2 |   0        |
+| Stade Toulousain         |         2 |   0.5      |
 | Edinburgh                |         2 |   0        |
 | England                  |         2 |   0        |
-| Waikato                  |         1 |   0        |
+| Pau                      |         2 |   1        |
 | Vannes                   |         1 |   1        |
+| Waikato                  |         1 |   0        |
 | Scarlets                 |         1 |   1        |
 | Spain                    |         1 |   1        |
 | Racing 92                |         1 |   1        |
 | Agen                     |         1 |   1        |
 | Perpignan                |         1 |   0        |
-| Ealing Trailfinders      |         1 |   1        |
+| Nottingham               |         1 |   1        |
 | Beziers                  |         1 |   0        |
+| Biarritz Olympique       |         1 |   1        |
 | Brive                    |         1 |   0        |
 | Brumbies                 |         1 |   0        |
 | Canterbury               |         1 |   0        |
@@ -100,8 +101,8 @@ categories: player
 | Coventry                 |         1 |   1        |
 | Doncaster                |         1 |   1        |
 | Dragons                  |         1 |   1        |
+| Ealing Trailfinders      |         1 |   1        |
 | France                   |         1 |   0        |
-| Nottingham               |         1 |   1        |
 | Hartpury College         |         1 |   1        |
 | Highlanders              |         1 |   1        |
 | Italy                    |         1 |   1        |

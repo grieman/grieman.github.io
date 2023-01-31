@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-Suresnes-Narbonne.png)
+![Projected Performances](plots/performances_2023-01-21-Suresnes-Narbonne.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-Suresnes-Narbonne.png)
+![Projected Spreads](plots/spreads_2023-01-21-Suresnes-Narbonne.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Narbonne by 20.2 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-Suresnes-Narbonne.png)
+![In Match Scores](plots/recap_scores_2023-01-21-Suresnes-Narbonne.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-Suresnes-Narbonne.png)
+![In Match Predictions](plots/recap_prob_2023-01-21-Suresnes-Narbonne.png)
 ## Prediction without Player Minutes: Narbonne by 14.1
 
 

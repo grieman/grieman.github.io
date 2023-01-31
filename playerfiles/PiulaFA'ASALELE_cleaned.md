@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Piula FA'ASALELE  
-date: 2023-01-17 11:33:29.690620  
+date: 2023-01-30 18:31:54.406479  
 categories: player  
 ---
 # Piula FA'ASALELE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 80.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Castres Olympique |            77 |   0.454545 |
 | Stade Toulousain  |            72 |   0.569444 |
-| Perpignan         |            61 |   0.557377 |
+| Perpignan         |            62 |   0.564516 |
 | La Rochelle       |            48 |   0.479167 |
 | Samoa             |            15 |   0.266667 |
 
@@ -37,9 +37,9 @@ categories: player
 | Racing 92                  |        14 |   0.571429 |
 | Grenoble                   |        14 |   0.607143 |
 | Agen                       |        11 |   0.818182 |
+| Stade Francais Paris       |        11 |   0.545455 |
 | La Rochelle                |        11 |   0.545455 |
 | Brive                      |        11 |   0.454545 |
-| Stade Francais Paris       |        10 |   0.5      |
 | Pau                        |        10 |   0.35     |
 | Bordeaux Begles            |        10 |   0.75     |
 | Lyon                       |         9 |   0.388889 |

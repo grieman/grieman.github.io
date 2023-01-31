@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-27-Ulster-Stormers.png)
+![Projected Performances](plots/performances_2023-01-27-Ulster-Stormers.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-27-Ulster-Stormers.png)
+![Projected Spreads](plots/spreads_2023-01-27-Ulster-Stormers.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Ulster by 3.5 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-27-Ulster-Stormers.png)
+![In Match Scores](plots/recap_scores_2023-01-27-Ulster-Stormers.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-27-Ulster-Stormers.png)
+![In Match Predictions](plots/recap_prob_2023-01-27-Ulster-Stormers.png)
 ## Prediction without Player Minutes: Ulster by 8.5
 
 
@@ -60,7 +60,7 @@ Ulster by 4.5 on a neutral pitch
 |             80 | [Ruhan Nel](..//playerfiles//RuhanNel_cleaned.md)                                |     106    |                74 |       13 |                77 |     107.88 | [James Hume](..//playerfiles//JamesHume_cleaned.md)                 |             80 |
 |             80 | [Suleiman  Hartzenberg](..//playerfiles//SuleimanHartzenberg_cleaned.md)         |      87.13 |                24 |       14 |                86 |     115.63 | [Rob Lyttle](..//playerfiles//RobLyttle_cleaned.md)                 |             57 |
 |             80 | [Clayton Blommetjies](..//playerfiles//ClaytonBlommetjies_cleaned.md)            |      97.91 |                52 |       15 |                49 |      96.88 | [Michael Lowry](..//playerfiles//MichaelLowry_cleaned.md)           |             80 |
-|             44 | [Scarra Ntubeni](..//playerfiles//ScarraNtubeni_cleaned.md)                      |     136.15 |                99 |       16 |                55 |      97.43 | [John Cooney](..//playerfiles//JohnCooney_cleaned.md)               |             29 |
+|             44 | [Scarra Ntubeni](..//playerfiles//ScarraNtubeni_cleaned.md)                      |     136.15 |                99 |       16 |                54 |      97.43 | [John Cooney](..//playerfiles//JohnCooney_cleaned.md)               |             29 |
 |             58 | [Juan de Jongh](..//playerfiles//JuandeJongh_cleaned.md)                         |     113.26 |                84 |       17 |                62 |      99.85 | [Kieran Treadwell](..//playerfiles//KieranTreadwell_cleaned.md)     |             28 |
 |             58 | [Ruben van Heerden](..//playerfiles//RubenvanHeerden_cleaned.md)                 |     112.7  |                83 |       18 |                21 |      85.2  | [John Andrew](..//playerfiles//JohnAndrew_cleaned.md)               |             28 |
 |             33 | [Andre-Hugo Venter](..//playerfiles//Andre-HugoVenter_cleaned.md)                |     108.09 |                80 |       19 |                92 |     121.23 | [Jordi Murphy](..//playerfiles//JordiMurphy_cleaned.md)             |             26 |

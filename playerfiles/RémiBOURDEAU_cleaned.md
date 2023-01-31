@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rémi BOURDEAU  
-date: 2023-01-27 19:01:46.904289  
+date: 2023-01-30 18:29:29.272891  
 categories: player  
 ---
 # Rémi BOURDEAU
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 135.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Beziers     |            90 |   0.572222 |
-| La Rochelle |            60 |   0.65     |
+| La Rochelle |            61 |   0.639344 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,10 +30,10 @@ categories: player
 | Carcassonne          |         7 |   0.714286 |
 | Bayonne              |         7 |   0.571429 |
 | Biarritz Olympique   |         7 |   0.285714 |
+| Racing 92            |         7 |   0.428571 |
 | Narbonne             |         6 |   0.666667 |
 | Lyon                 |         6 |   0.5      |
 | Dax                  |         6 |   0.5      |
-| Racing 92            |         6 |   0.5      |
 | Clermont Auvergne    |         5 |   0.4      |
 | Agen                 |         5 |   1        |
 | Stade Francais Paris |         5 |   0.4      |

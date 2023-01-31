@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nugzar SOMKHISHVILI  
-date: 2023-01-23 15:31:51.041475  
+date: 2023-01-30 18:30:39.768992  
 categories: player  
 ---
 # Nugzar SOMKHISHVILI
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: 64.0
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            11 |   0.590909 |
+| Bourgoin-Jallieu |            12 |   0.541667 |
 | Carcassonne      |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |         2 |        0.5 |
 | Mont-de-Marsan             |         2 |        0   |
 | Narbonne                   |         2 |        0.5 |
 | US Bressane                |         2 |        0.5 |
 | Chambery                   |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
-| Dax                        |         1 |        1   |
 | Nevers                     |         1 |        1   |
 | Nice                       |         1 |        1   |
 | Oyonnax                    |         1 |        0   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta TAMANIVALU  
-date: 2023-01-27 19:01:58.274388  
+date: 2023-01-30 18:32:13.737749  
 categories: player  
 ---
 # Seta TAMANIVALU
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Bordeaux Begles           |            37 |   0.594595 |
 | Crusaders                 |            33 |   0.878788 |
 | Chiefs                    |            22 |   0.681818 |
-| Toshiba Brave Lupus Tokyo |            18 |   0.666667 |
+| Toshiba Brave Lupus Tokyo |            19 |   0.684211 |
 | New Zealand               |             4 |   1        |
 | Fiji                      |             2 |   0.5      |
 
@@ -54,29 +54,29 @@ categories: player
 | Sharks                            |         3 |   0.666667 |
 | Racing 92                         |         3 |   0.666667 |
 | Melbourne Rebels                  |         3 |   1        |
-| Clermont Auvergne                 |         3 |   0.666667 |
 | Castres Olympique                 |         3 |   0.666667 |
+| Clermont Auvergne                 |         3 |   0.666667 |
 | Crusaders                         |         3 |   1        |
-| New South Wales Waratahs          |         2 |   0.5      |
-| Stormers                          |         2 |   1        |
-| Cheetahs                          |         2 |   1        |
-| Sunwolves                         |         2 |   1        |
-| Saitama Wild Knights              |         2 |   0        |
-| Hawke's Bay                       |         2 |   0.5      |
 | Queensland Reds                   |         2 |   1        |
+| NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
+| Cheetahs                          |         2 |   1        |
+| Stormers                          |         2 |   1        |
+| Saitama Wild Knights              |         2 |   0        |
+| Sunwolves                         |         2 |   1        |
 | Perpignan                         |         2 |   1        |
 | Pau                               |         2 |   0        |
 | Brive                             |         2 |   0.5      |
 | Northland                         |         2 |   1        |
 | Tokyo Sungoliath                  |         2 |   0.5      |
-| NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
-| Stade Francais Paris              |         2 |   1        |
+| New South Wales Waratahs          |         2 |   0.5      |
 | Montpellier Herault               |         2 |   0.25     |
+| Stade Francais Paris              |         2 |   1        |
 | Toulon                            |         2 |   0.5      |
 | Lyon                              |         2 |   0.5      |
 | La Rochelle                       |         2 |   0        |
 | Wales                             |         2 |   1        |
 | Wasps                             |         2 |   1        |
+| Hawke's Bay                       |         2 |   0.5      |
 | Stade Toulousain                  |         2 |   0        |
 | Tonga                             |         1 |   1        |
 | British and Irish Lions           |         1 |   0        |
@@ -87,6 +87,7 @@ categories: player
 | Bulls                             |         1 |   1        |
 | Southern Kings                    |         1 |   1        |
 | Samoa                             |         1 |   0        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | Otago                             |         1 |   0        |
 | North Harbour                     |         1 |   0        |
 | Mitsubishi Dynaboars              |         1 |   0        |

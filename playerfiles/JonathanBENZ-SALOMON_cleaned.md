@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan BENZ-SALOMON  
-date: 2023-01-27 19:01:42.041446  
+date: 2023-01-30 18:30:43.486835  
 categories: player  
 ---
 # Jonathan BENZ-SALOMON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 22.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -22,6 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            13 |        0.5 |
+| Bristol Rugby    |             1 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,3 +33,4 @@ categories: player
 | Nottingham          |         2 |   0.5      |
 | Coventry            |         1 |   1        |
 | Jersey              |         1 |   0        |
+| Saracens            |         1 |   0        |

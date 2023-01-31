@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-20-Toulon-Zebre.png)
+![Projected Performances](plots/performances_2023-01-20-Toulon-Zebre.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-20-Toulon-Zebre.png)
+![Projected Spreads](plots/spreads_2023-01-20-Toulon-Zebre.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Toulon by 10.6 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-20-Toulon-Zebre.png)
+![In Match Scores](plots/recap_scores_2023-01-20-Toulon-Zebre.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-20-Toulon-Zebre.png)
+![In Match Predictions](plots/recap_prob_2023-01-20-Toulon-Zebre.png)
 ## Prediction without Player Minutes: Toulon by 16.6
 
 

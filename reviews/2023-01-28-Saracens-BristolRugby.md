@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Saracens-BristolRugby.png)
+![Projected Performances](plots/performances_2023-01-28-Saracens-BristolRugby.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Saracens-BristolRugby.png)
+![Projected Spreads](plots/spreads_2023-01-28-Saracens-BristolRugby.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Saracens by 7.8 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Saracens-BristolRugby.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Saracens-BristolRugby.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Saracens-BristolRugby.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Saracens-BristolRugby.png)
 ## Prediction without Player Minutes: Saracens by 13.1
 
 
@@ -47,16 +47,16 @@ Saracens by 9.1 on a neutral pitch
 |---------------:|:--------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------|---------------:|
 |             42 | [Yann Thomas](..//playerfiles//YannThomas_cleaned.md)                     |      91.08 |                35 |        1 |                66 |     100.41 | [Robin Hislop](..//playerfiles//RobinHislop_cleaned.md)           |             35 |
 |             41 | [Harry Thacker](..//playerfiles//HarryThacker_cleaned.md)                 |      98.81 |                60 |        2 |                92 |     119.57 | [Theo Dan](..//playerfiles//TheoDan_cleaned.md)                   |             60 |
-|             75 | [Max Lahiff](..//playerfiles//MaxLahiff_cleaned.md)                       |      84.4  |                17 |        3 |                50 |      99.41 | [Christian Judge](..//playerfiles//ChristianJudge_cleaned.md)     |             45 |
+|             75 | [Max Lahiff](..//playerfiles//MaxLahiff_cleaned.md)                       |      84.4  |                17 |        3 |                51 |      99.41 | [Christian Judge](..//playerfiles//ChristianJudge_cleaned.md)     |             45 |
 |             80 | [Joe Batley](..//playerfiles//JoeBatley_cleaned.md)                       |     109.13 |                79 |        4 |                12 |      77.87 | [Andrew Kitchener](..//playerfiles//AndrewKitchener_cleaned.md)   |             41 |
 |             80 | [Chris Vui](..//playerfiles//ChrisVui_cleaned.md)                         |     108.42 |                79 |        5 |                80 |     110.18 | [Hugh Tizard](..//playerfiles//HughTizard_cleaned.md)             |             80 |
 |             61 | [Steven Luatua](..//playerfiles//StevenLuatua_cleaned.md)                 |     133.85 |                97 |        6 |                40 |      92.26 | [Andy Christie](..//playerfiles//AndyChristie_cleaned.md)         |             80 |
 |             65 | [Jake Heenan](..//playerfiles//JakeHeenan_cleaned.md)                     |      91.94 |                41 |        7 |                98 |     140.63 | [Jackson Wray](..//playerfiles//JacksonWray_cleaned.md)           |             80 |
 |             80 | [Magnus Bradbury](..//playerfiles//MagnusBradbury_cleaned.md)             |      91.32 |                37 |        8 |                83 |     113.75 | [Billy Vunipola](..//playerfiles//BillyVunipola_cleaned.md)       |             80 |
 |             69 | [Harry Randall](..//playerfiles//HarryRandall_cleaned.md)                 |     108.71 |                81 |        9 |                46 |      95.58 | [Aled Davies](..//playerfiles//AledDavies_cleaned.md)             |             55 |
-|             72 | [AJ MacGinty](..//playerfiles//AJMacGinty_cleaned.md)                     |     107.62 |                75 |       10 |                63 |     101.93 | [Manu Vunipola](..//playerfiles//ManuVunipola_cleaned.md)         |             80 |
-|             80 | [Gabriel Ibitoye](..//playerfiles//GabrielIbitoye_cleaned.md)             |     113.14 |                84 |       11 |                30 |      91.74 | [Alex Lewington](..//playerfiles//AlexLewington_cleaned.md)       |             53 |
-|             80 | [James Williams](..//playerfiles//JamesWilliams_cleaned.md)               |      77.13 |                 9 |       12 |                94 |     126.37 | [Duncan Taylor](..//playerfiles//DuncanTaylor_cleaned.md)         |             74 |
+|             72 | [AJ MacGinty](..//playerfiles//AJMacGinty_cleaned.md)                     |     107.62 |                74 |       10 |                62 |     101.93 | [Manu Vunipola](..//playerfiles//ManuVunipola_cleaned.md)         |             80 |
+|             80 | [Gabriel Ibitoye](..//playerfiles//GabrielIbitoye_cleaned.md)             |     113.14 |                85 |       11 |                30 |      91.74 | [Alex Lewington](..//playerfiles//AlexLewington_cleaned.md)       |             53 |
+|             80 | [James Williams](..//playerfiles//JamesWilliams_cleaned.md)               |      77.13 |                10 |       12 |                94 |     126.37 | [Duncan Taylor](..//playerfiles//DuncanTaylor_cleaned.md)         |             74 |
 |             80 | [Semi Radradra](..//playerfiles//SemiRadradra_cleaned.md)                 |     117.27 |                88 |       13 |                70 |     104.76 | [Alex Lozowski](..//playerfiles//AlexLozowski_cleaned.md)         |             52 |
 |             80 | [Ratu Naulago](..//playerfiles//RatuNaulago_cleaned.md)                   |      92.27 |                39 |       14 |                76 |     107.5  | [Rotimi Segun](..//playerfiles//RotimiSegun_cleaned.md)           |             80 |
 |             80 | [Richard Lane](..//playerfiles//RichardLane_cleaned.md)                   |      94.61 |                46 |       15 |                77 |     110.33 | [Alex Goode](..//playerfiles//AlexGoode_cleaned.md)               |             80 |

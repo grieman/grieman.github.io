@@ -1,34 +1,30 @@
 ---  
 layout: page  
 title: Belgium at Portugal  
-date: 2023-02-04 00:00:00 18:00:00 -0500  
-categories: match prediction imputed  
+date: 2023-02-04 18:00:00 -0500  
+categories: match projection imputed  
 ---
 # Belgium at Portugal
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.847, which translates to predicting Portugal to win by 16.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.847, which translates to predicting Portugal to win by 16.2.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
 
 
-![Projected Performances](proj_performances_2023-02-04-Portugal-Belgium.png)
+![Projected Performances](plots/performances_2023-02-04-Portugal-Belgium.png)
 ## Projected Spreads
 
 
-![Projected Spreads](proj_spreads_2023-02-04-Portugal-Belgium.png)
+![Projected Spreads](plots/spreads_2023-02-04-Portugal-Belgium.png)
 # Player Level Predictions
 
 
-Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. Before teamsheets are announced (and added here), team ratings are calculated as an average of recent team ratings.
-## Predictions without Teamsheets
-
-### Belgium (~1101.49) at Portugal (~1611.14)
-
-#### Prediction: Portugal by 55.0
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Imputed Lineups: Portugal by 55.0
 
 
 Portugal by 51.0 on a neutral pitch

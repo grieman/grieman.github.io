@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Timothy Gregory SWIEL  
-date: 2023-01-23 15:32:56.051159  
+date: 2023-01-30 18:29:30.174930  
 categories: player  
 ---
 # Timothy Gregory SWIEL
 
 ## Positions: FH, FB
 
-## Current elo: 77.0
+## Current elo: 81.0
 
-## Current Percentile: 21.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Sharks                           |             7 |   0.428571 |
 | Stormers                         |             7 |   0.5      |
 | Natal Sharks                     |             4 |   0.625    |
-| Toyota Industries Shuttles Aichi |             3 |   0.666667 |
+| Toyota Industries Shuttles Aichi |             4 |   0.75     |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -52,8 +52,8 @@ categories: player
 | Cheetahs               |         2 |   0.5      |
 | Harlequins             |         2 |   0        |
 | Cardiff Blues          |         2 |   1        |
-| Bath Rugby             |         2 |   0.5      |
 | Calvisano              |         2 |   1        |
+| Bath Rugby             |         2 |   0.5      |
 | Timisoara Saracens     |         2 |   1        |
 | Leinster               |         2 |   0.5      |
 | Shimizu Blue Sharks    |         1 |   1        |
@@ -62,12 +62,13 @@ categories: player
 | Ospreys                |         1 |   1        |
 | Yorkshire Carnegie     |         1 |   1        |
 | Ampthill               |         1 |   1        |
-| Hino Red Dolphins      |         1 |   1        |
+| Kamaishi Seawaves      |         1 |   1        |
 | Munster                |         1 |   0        |
 | Montpellier Herault    |         1 |   0        |
 | London Welsh           |         1 |   1        |
 | Lions                  |         1 |   0        |
 | La Rochelle            |         1 |   0        |
+| Hino Red Dolphins      |         1 |   1        |
 | Highlanders            |         1 |   0        |
 | Eastern Province Kings |         1 |   1        |
 | Crusaders              |         1 |   1        |

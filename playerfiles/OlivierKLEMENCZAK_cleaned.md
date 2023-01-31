@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Olivier KLEMENCZAK  
-date: 2023-01-27 19:02:03.391465  
+date: 2023-01-30 18:32:36.237038  
 categories: player  
 ---
 # Olivier KLEMENCZAK
 
 ## Positions: C
 
-## Current elo: 110.0
+## Current elo: 114.0
 
-## Current Percentile: 86.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            92 |   0.61413  |
+| Racing 92 |            93 |   0.61828  |
 | Dax       |            59 |   0.355932 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| La Rochelle          |         9 |  0.444444  |
+| La Rochelle          |        10 |  0.5       |
 | Castres Olympique    |         8 |  0.625     |
 | Perpignan            |         8 |  0.625     |
 | Lyon                 |         8 |  0.375     |

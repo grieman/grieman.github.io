@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Raphaël CARBOU  
-date: 2023-01-23 15:33:05.455671  
+date: 2023-01-30 18:31:10.067447  
 categories: player  
 ---
 # Raphaël CARBOU
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 89.0
 
 ## Current Percentile: 20.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Perpignan   |           125 |   0.488    |
-| Carcassonne |            60 |   0.558333 |
+| Carcassonne |            61 |   0.565574 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,7 +39,7 @@ categories: player
 | Carcassonne                |         7 |   0.714286 |
 | Agen                       |         6 |   0.5      |
 | Soyaux-Angouleme           |         6 |   0.666667 |
-| Rouen                      |         5 |   1        |
+| Rouen                      |         6 |   1        |
 | Oyonnax                    |         5 |   0.2      |
 | Provence Rugby             |         4 |   0.25     |
 | Albi                       |         4 |   0.25     |

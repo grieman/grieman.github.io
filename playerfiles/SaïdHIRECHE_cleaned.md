@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Saïd HIRECHE  
-date: 2023-01-27 19:01:24.170191  
+date: 2023-01-30 18:29:38.413879  
 categories: player  
 ---
 # Saïd HIRECHE
 
 ## Positions: FL
 
-## Current elo: 162.0
+## Current elo: 157.0
 
 ## Current Percentile: 99.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Brive                |           225 |   0.531111 |
+| Brive                |           226 |   0.528761 |
 | Aurillac             |           102 |   0.529412 |
 | Stade Francais Paris |             9 |   0.555556 |
 
@@ -40,11 +40,11 @@ categories: player
 | Stade Francais Paris |        12 |   0.583333 |
 | Racing 92            |        12 |   0.291667 |
 | Agen                 |        11 |   0.454545 |
+| Bayonne              |        10 |   0.55     |
 | Provence Rugby       |        10 |   0.65     |
 | Narbonne             |        10 |   0.55     |
 | Montpellier Herault  |         9 |   0.611111 |
 | Dax                  |         9 |   0.555556 |
-| Bayonne              |         9 |   0.611111 |
 | Auch                 |         8 |   0.375    |
 | Tarbes               |         8 |   0.75     |
 | Mont-de-Marsan       |         8 |   0.375    |

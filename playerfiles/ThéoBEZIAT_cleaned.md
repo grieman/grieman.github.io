@@ -1,0 +1,55 @@
+---  
+layout: page  
+title: Théo BEZIAT  
+date: 2023-01-30 18:32:12.817688  
+categories: player  
+---
+# Théo BEZIAT
+
+## Positions: H
+
+## Current elo: 101.0
+
+## Current Percentile: 62.0
+
+# Elo History
+
+
+![elo history](history_ThéoBEZIAT.png)
+# Match History
+
+
+| Team           |   Appearances |   Win Rate |
+|:---------------|--------------:|-----------:|
+| Vannes         |            46 |  0.543478  |
+| Provence Rugby |            17 |  0.411765  |
+| Tarbes         |            12 |  0.0833333 |
+
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Aurillac                   |         6 |   0.5      |
+| Carcassonne                |         6 |   0.666667 |
+| Rouen                      |         5 |   0.4      |
+| Grenoble                   |         5 |   0.6      |
+| Montauban                  |         5 |   0.5      |
+| Bayonne                    |         4 |   0.25     |
+| Biarritz Olympique         |         4 |   0        |
+| Colomiers                  |         4 |   1        |
+| Oyonnax                    |         4 |   0        |
+| Mont-de-Marsan             |         4 |   0.75     |
+| Nevers                     |         3 |   0        |
+| Beziers                    |         3 |   0.666667 |
+| Soyaux-Angouleme           |         3 |   0.333333 |
+| Provence Rugby             |         3 |   0.666667 |
+| Agen                       |         2 |   0.5      |
+| Perpignan                  |         2 |   0        |
+| Massy                      |         2 |   0.5      |
+| Narbonne                   |         2 |   0.25     |
+| Albi                       |         1 |   0        |
+| Lyon                       |         1 |   0        |
+| Dax                        |         1 |   0        |
+| Brive                      |         1 |   1        |
+| Bourgoin-Jallieu           |         1 |   0        |
+| US Bressane                |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   0        |
+| Vannes                     |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémy BAGET  
-date: 2023-01-17 11:46:33.597139  
+date: 2023-01-30 18:32:18.452050  
 categories: player  
 ---
 # Rémy BAGET
 
 ## Positions: W
 
-## Current elo: 113.0
+## Current elo: 119.0
 
-## Current Percentile: 76.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |            63 |   0.555556 |
+| Bayonne |            64 |     0.5625 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -47,6 +47,7 @@ categories: player
 | Mont-de-Marsan       |         2 |   0        |
 | Grenoble             |         2 |   0.5      |
 | Colomiers            |         2 |   0.5      |
+| Brive                |         2 |   0.5      |
 | Pau                  |         1 |   0.5      |
 | Perpignan            |         1 |   1        |
 | Lyon                 |         1 |   1        |
@@ -55,5 +56,4 @@ categories: player
 | Soyaux-Angouleme     |         1 |   1        |
 | La Rochelle          |         1 |   1        |
 | Castres Olympique    |         1 |   0        |
-| Brive                |         1 |   0        |
 | Zebre                |         1 |   0.5      |

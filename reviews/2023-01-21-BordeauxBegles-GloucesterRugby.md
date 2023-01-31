@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-BordeauxBegles-GloucesterRugby.png)
+![Projected Performances](plots/performances_2023-01-21-BordeauxBegles-GloucesterRugby.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-BordeauxBegles-GloucesterRugby.png)
+![Projected Spreads](plots/spreads_2023-01-21-BordeauxBegles-GloucesterRugby.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Bordeaux Begles by 6.4 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-BordeauxBegles-GloucesterRugby.png)
+![In Match Scores](plots/recap_scores_2023-01-21-BordeauxBegles-GloucesterRugby.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-BordeauxBegles-GloucesterRugby.png)
+![In Match Predictions](plots/recap_prob_2023-01-21-BordeauxBegles-GloucesterRugby.png)
 ## Prediction without Player Minutes: Bordeaux Begles by 24.2
 
 

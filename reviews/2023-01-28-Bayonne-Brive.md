@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Bayonne-Brive.png)
+![Projected Performances](plots/performances_2023-01-28-Bayonne-Brive.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Bayonne-Brive.png)
+![Projected Spreads](plots/spreads_2023-01-28-Bayonne-Brive.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Bayonne by 7.6 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Bayonne-Brive.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Bayonne-Brive.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Bayonne-Brive.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Bayonne-Brive.png)
 ## Prediction without Player Minutes: Bayonne by 9.4
 
 
@@ -62,7 +62,7 @@ Bayonne by 5.4 on a neutral pitch
 |             80 | [Mathis Ferté](..//playerfiles//MathisFerté_cleaned.md)               |      94.45 |                45 |       15 |                95 |     133.7  | [Luke Morahan](..//playerfiles//LukeMorahan_cleaned.md)                      |             80 |
 |             34 | [Oskar Rixen](..//playerfiles//OskarRixen_cleaned.md)                 |      91.54 |                33 |       16 |                27 |      88.9  | [Pieter Scholtz](..//playerfiles//PieterScholtz_cleaned.md)                  |             28 |
 |             34 | [Nico Lee](..//playerfiles//NicoLee_cleaned.md)                       |     121.64 |                92 |       17 |                 3 |      67.98 | [Guillaume Martocq](..//playerfiles//GuillaumeMartocq_cleaned.md)            |             15 |
-|             28 | [Abraham Papali'i](..//playerfiles//AbrahamPapali'i_cleaned.md)       |     106.49 |                71 |       18 |                86 |     112.21 | [Maxime Machenaud](..//playerfiles//MaximeMachenaud_cleaned.md)              |             15 |
+|             28 | [Abraham Papali'i](..//playerfiles//AbrahamPapali'i_cleaned.md)       |     106.49 |                72 |       18 |                86 |     112.21 | [Maxime Machenaud](..//playerfiles//MaximeMachenaud_cleaned.md)              |             15 |
 |             28 | [Daniel Brennan](..//playerfiles//DanielBrennan_cleaned.md)           |      94.58 |                47 |       19 |                60 |      99.33 | [Manuel Leindekar](..//playerfiles//ManuelLeindekar_cleaned.md)              |             13 |
 |             18 | [Pietro Ceccarelli](..//playerfiles//PietroCeccarelli_cleaned.md)     |     106.03 |                79 |       20 |                 0 |      50.48 | [Matis Perchaud](..//playerfiles//MatisPerchaud_cleaned.md)                  |              9 |
 |             18 | [Leo Carbonneau](..//playerfiles//LeoCarbonneau_cleaned.md)           |      87.94 |                29 |       21 |                93 |     116.71 | [Thomas Acquier](..//playerfiles//ThomasAcquier_cleaned.md)                  |              9 |

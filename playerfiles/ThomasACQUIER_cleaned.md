@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas ACQUIER  
-date: 2023-01-27 19:01:53.333093  
+date: 2023-01-30 18:29:20.180871  
 categories: player  
 ---
 # Thomas ACQUIER
@@ -24,7 +24,7 @@ categories: player
 | Brive       |           144 |   0.527778 |
 | Carcassonne |            59 |   0.432203 |
 | Beziers     |            28 |   0.285714 |
-| Bayonne     |            14 |   0.321429 |
+| Bayonne     |            15 |   0.366667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,26 +42,26 @@ categories: player
 | Agen                 |         7 |   0.428571 |
 | Bayonne              |         7 |   0.5      |
 | Aurillac             |         7 |   0.285714 |
-| Narbonne             |         6 |   0.166667 |
 | Colomiers            |         6 |   0.5      |
+| Beziers              |         6 |   0.833333 |
 | Dax                  |         6 |   0.5      |
 | Auch                 |         6 |   0.5      |
 | Tarbes               |         6 |   0.333333 |
 | Grenoble             |         6 |   0.5      |
-| Beziers              |         6 |   0.833333 |
+| Narbonne             |         6 |   0.166667 |
 | Albi                 |         6 |   0.5      |
 | Clermont Auvergne    |         5 |   0.6      |
+| Brive                |         4 |   0.75     |
+| Mont-de-Marsan       |         4 |   0.5      |
 | Bourgoin-Jallieu     |         4 |   0.5      |
 | Worcester Warriors   |         4 |   0.75     |
-| Mont-de-Marsan       |         4 |   0.5      |
-| RC Enisei            |         3 |   0.666667 |
-| Brive                |         3 |   0.666667 |
-| Biarritz Olympique   |         3 |   0.833333 |
 | Massy                |         3 |   0.333333 |
+| Biarritz Olympique   |         3 |   0.833333 |
 | US Bressane          |         3 |   0.333333 |
+| RC Enisei            |         3 |   0.666667 |
 | Provence Rugby       |         3 |   0.666667 |
-| Scarlets             |         2 |   0        |
 | Périgueux            |         2 |   0.5      |
+| Scarlets             |         2 |   0        |
 | Vannes               |         2 |   1        |
 | Newcastle Falcons    |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |

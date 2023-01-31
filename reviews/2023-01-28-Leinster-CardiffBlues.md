@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Leinster-CardiffBlues.png)
+![Projected Performances](plots/performances_2023-01-28-Leinster-CardiffBlues.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Leinster-CardiffBlues.png)
+![Projected Spreads](plots/spreads_2023-01-28-Leinster-CardiffBlues.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Leinster by 3.0 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Leinster-CardiffBlues.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Leinster-CardiffBlues.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Leinster-CardiffBlues.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Leinster-CardiffBlues.png)
 ## Prediction without Player Minutes: Leinster by 3.5
 
 
@@ -47,9 +47,9 @@ Cardiff Blues by 0.5 on a neutral pitch
 |---------------:|:----------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------|---------------:|
 |             52 | [Bradley Thyer](..//playerfiles//BradleyThyer_cleaned.md)             |     114.33 |                85 |        1 |                64 |      98.56 | [Michael Milne](..//playerfiles//MichaelMilne_cleaned.md)         |             56 |
 |             52 | [Kirby Myhill](..//playerfiles//KirbyMyhill_cleaned.md)               |      87.65 |                26 |        2 |                58 |     100.17 | [John McKee](..//playerfiles//JohnMcKee_cleaned.md)               |             56 |
-|             73 | [Keiron Assiratti](..//playerfiles//KeironAssiratti_cleaned.md)       |      96.7  |                53 |        3 |                28 |      89.2  | [Michael Alaalatoa](..//playerfiles//MichaelAlaalatoa_cleaned.md) |             56 |
+|             73 | [Keiron Assiratti](..//playerfiles//KeironAssiratti_cleaned.md)       |      96.7  |                54 |        3 |                28 |      89.2  | [Michael Alaalatoa](..//playerfiles//MichaelAlaalatoa_cleaned.md) |             56 |
 |             80 | [Lopeti Timani](..//playerfiles//LopetiTimani_cleaned.md)             |      83.87 |                19 |        4 |                92 |     122.49 | [Ross Molony](..//playerfiles//RossMolony_cleaned.md)             |             80 |
-|             66 | [Seb Davies](..//playerfiles//SebDavies_cleaned.md)                   |      88.66 |                31 |        5 |                35 |      91.16 | [Brian Deeny](..//playerfiles//BrianDeeny_cleaned.md)             |             80 |
+|             66 | [Seb Davies](..//playerfiles//SebDavies_cleaned.md)                   |      88.66 |                31 |        5 |                34 |      91.16 | [Brian Deeny](..//playerfiles//BrianDeeny_cleaned.md)             |             80 |
 |             69 | [Josh Turnbull](..//playerfiles//JoshTurnbull_cleaned.md)             |      86.4  |                23 |        6 |                89 |     118.04 | [Rhys Ruddock](..//playerfiles//RhysRuddock_cleaned.md)           |             80 |
 |             80 | [James Botham](..//playerfiles//JamesBotham_cleaned.md)               |     105.97 |                74 |        7 |                74 |     106.54 | [Scott Penny](..//playerfiles//ScottPenny_cleaned.md)             |             56 |
 |             80 | [James Ratti](..//playerfiles//JamesRatti_cleaned.md)                 |      97.47 |                50 |        8 |                87 |     116.03 | [Max Deegan](..//playerfiles//MaxDeegan_cleaned.md)               |             80 |
@@ -58,14 +58,14 @@ Cardiff Blues by 0.5 on a neutral pitch
 |             80 | [Jason Harries](..//playerfiles//JasonHarries_cleaned.md)             |     145.76 |                99 |       11 |                73 |     104.91 | [Dave Kearney](..//playerfiles//DaveKearney_cleaned.md)           |             80 |
 |             80 | [Ben Thomas](..//playerfiles//BenThomas_cleaned.md)                   |     103.55 |                67 |       12 |               nan |      96.6  | [Ben Brownlee](..//playerfiles//BenBrownlee_cleaned.md)           |             80 |
 |             80 | [Rey Lee-Lo](..//playerfiles//ReyLee-Lo_cleaned.md)                   |     156.56 |               100 |       13 |                88 |     117.6  | [Liam Turner](..//playerfiles//LiamTurner_cleaned.md)             |             80 |
-|             69 | [Owen Lane](..//playerfiles//OwenLane_cleaned.md)                     |      74.7  |                 8 |       14 |                12 |      76.84 | [Max O'Reilly](..//playerfiles//MaxO'Reilly_cleaned.md)           |             80 |
+|             69 | [Owen Lane](..//playerfiles//OwenLane_cleaned.md)                     |      74.7  |                 8 |       14 |                11 |      76.84 | [Max O'Reilly](..//playerfiles//MaxO'Reilly_cleaned.md)           |             80 |
 |             20 | [Rhys Priestland](..//playerfiles//RhysPriestland_cleaned.md)         |      87.43 |                23 |       15 |                62 |     102.52 | [Chris Cosgrave](..//playerfiles//ChrisCosgrave_cleaned.md)       |             67 |
-|             60 | [Matthew Morgan](..//playerfiles//MatthewMorgan_cleaned.md)           |      91.76 |                39 |       16 |                73 |     102.83 | [Tom Clarkson](..//playerfiles//TomClarkson_cleaned.md)           |             24 |
+|             60 | [Matthew Morgan](..//playerfiles//MatthewMorgan_cleaned.md)           |      91.76 |                39 |       16 |                74 |     102.83 | [Tom Clarkson](..//playerfiles//TomClarkson_cleaned.md)           |             24 |
 |             28 | [Corey Domachowski](..//playerfiles//CoreyDomachowski_cleaned.md)     |      88.65 |                26 |       17 |                95 |     127.29 | [Will Connors](..//playerfiles//WillConnors_cleaned.md)           |             24 |
-|             28 | [Kristian Dacey](..//playerfiles//KristianDacey_cleaned.md)           |      88.9  |                31 |       18 |                53 |      99.15 | [Nick McCarthy](..//playerfiles//NickMcCarthy_cleaned.md)         |             24 |
+|             28 | [Kristian Dacey](..//playerfiles//KristianDacey_cleaned.md)           |      88.9  |                31 |       18 |                52 |      99.15 | [Nick McCarthy](..//playerfiles//NickMcCarthy_cleaned.md)         |             24 |
 |             14 | [Rory Thornton](..//playerfiles//RoryThornton_cleaned.md)             |      86.59 |                25 |       19 |               nan |      95    | [Marcus Hannan](..//playerfiles//MarcusHannan_cleaned.md)         |             24 |
 |             11 | [Ellis Bevan](..//playerfiles//EllisBevan_cleaned.md)                 |      97.76 |               nan |       20 |               nan |      92.09 | [Tadgh McElroy](..//playerfiles//TadghMcElroy_cleaned.md)         |             24 |
-|             11 | [Shane Lewis-Hughes](..//playerfiles//ShaneLewis-Hughes_cleaned.md)   |      86.98 |                26 |       21 |               nan |      95    | [Aitzol King](..//playerfiles//AitzolKing_cleaned.md)             |             13 |
+|             11 | [Shane Lewis-Hughes](..//playerfiles//ShaneLewis-Hughes_cleaned.md)   |      86.98 |                25 |       21 |               nan |      95    | [Aitzol King](..//playerfiles//AitzolKing_cleaned.md)             |             13 |
 |             11 | [Aled Summerhill](..//playerfiles//AledSummerhill_cleaned.md)         |      70.07 |                 5 |       22 |               nan |     nan    | nan                                                               |            nan |
 |              7 | [William Davies-King](..//playerfiles//WilliamDavies-King_cleaned.md) |      98.52 |                55 |       23 |               nan |     nan    | nan                                                               |            nan |
 

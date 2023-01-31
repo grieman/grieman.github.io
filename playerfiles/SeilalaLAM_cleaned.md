@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seilala LAM  
-date: 2023-01-17 11:39:27.868757  
+date: 2023-01-30 18:30:25.199475  
 categories: player  
 ---
 # Seilala LAM
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 69.0
+## Current elo: 70.0
 
 ## Current Percentile: 2.0
 
@@ -23,40 +23,40 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Perpignan        |            98 |   0.530612 |
+| Perpignan        |            99 |   0.535354 |
 | Samoa            |            17 |   0.558824 |
 | Canberra Vikings |             6 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Castres Olympique          |         5 |   0.2      |
 | Vannes                     |         5 |   1        |
-| Montauban                  |         4 |   0.75     |
-| Grenoble                   |         4 |   0.75     |
-| Aurillac                   |         4 |   0.875    |
-| Biarritz Olympique         |         4 |   1        |
-| Toulon                     |         4 |   0.25     |
-| La Rochelle                |         4 |   0        |
-| Soyaux-Angouleme           |         4 |   0.875    |
+| Castres Olympique          |         5 |   0.2      |
 | Clermont Auvergne          |         4 |   0        |
+| Aurillac                   |         4 |   0.875    |
+| Soyaux-Angouleme           |         4 |   0.875    |
+| Biarritz Olympique         |         4 |   1        |
+| La Rochelle                |         4 |   0        |
+| Toulon                     |         4 |   0.25     |
+| Montauban                  |         4 |   0.75     |
 | Colomiers                  |         4 |   0.5      |
-| Oyonnax                    |         3 |   0.666667 |
+| Grenoble                   |         4 |   0.75     |
+| Stade Francais Paris       |         3 |   0.333333 |
+| Montpellier Herault        |         3 |   0        |
+| Nevers                     |         3 |   0.666667 |
 | Pau                        |         3 |   0        |
 | Lyon                       |         3 |   0.333333 |
+| Oyonnax                    |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0.333333 |
-| Montpellier Herault        |         3 |   0        |
 | Carcassonne                |         3 |   1        |
 | Stade Toulousain           |         3 |   0.333333 |
 | Tonga                      |         3 |   1        |
 | Bordeaux Begles            |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.666667 |
-| Nevers                     |         3 |   0.666667 |
-| Agen                       |         2 |   0        |
-| Narbonne                   |         2 |   1        |
 | Provence Rugby             |         2 |   1        |
 | Racing 92                  |         2 |   0.5      |
+| Narbonne                   |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   1        |
-| Stade Francais Paris       |         2 |   0        |
+| Agen                       |         2 |   0        |
 | Massy                      |         2 |   0.5      |
 | Beziers                    |         2 |   0        |
 | Brive                      |         2 |   0.5      |

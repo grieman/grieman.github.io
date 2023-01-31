@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Nice-Suresnes.png)
+![Projected Performances](plots/performances_2023-01-28-Nice-Suresnes.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Nice-Suresnes.png)
+![Projected Spreads](plots/spreads_2023-01-28-Nice-Suresnes.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Nice by 11.5 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Nice-Suresnes.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Nice-Suresnes.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Nice-Suresnes.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Nice-Suresnes.png)
 ## Prediction without Player Minutes: Nice by 17.9
 
 
@@ -55,17 +55,17 @@ Nice by 13.9 on a neutral pitch
 |             80 | [Antonie Claassen](..//playerfiles//AntonieClaassen_cleaned.md)              |     123.31 |                92 |        8 |                94 |     126.01 | [Laijiasa Bolenaivalu](..//playerfiles//LaijiasaBolenaivalu_cleaned.md) |             52 |
 |             61 | [Théo Bachiri](..//playerfiles//ThéoBachiri_cleaned.md)                      |      93.36 |                45 |        9 |                91 |     117.41 | [Mathieu Loree](..//playerfiles//MathieuLoree_cleaned.md)               |             74 |
 |             80 | [Gaëtan Robert](..//playerfiles//GaëtanRobert_cleaned.md)                    |      87.88 |                24 |       10 |                40 |      93.95 | [Mathis Viard](..//playerfiles//MathisViard_cleaned.md)                 |             80 |
-|             61 | [Ervin Muric](..//playerfiles//ErvinMuric_cleaned.md)                        |      -3.49 |                 0 |       11 |                26 |      86    | [David Odiete](..//playerfiles//DavidOdiete_cleaned.md)                 |             68 |
+|             61 | [Ervin Muric](..//playerfiles//ErvinMuric_cleaned.md)                        |      -3.49 |                 0 |       11 |                25 |      86    | [David Odiete](..//playerfiles//DavidOdiete_cleaned.md)                 |             68 |
 |             80 | [Hugo Detre](..//playerfiles//HugoDetre_cleaned.md)                          |      87.43 |                37 |       12 |                57 |      99.06 | [Julien Fritz](..//playerfiles//JulienFritz_cleaned.md)                 |             60 |
 |             80 | [Thomas Baudy](..//playerfiles//ThomasBaudy_cleaned.md)                      |      80.34 |                16 |       13 |                14 |      80.57 | [Alban Conduche](..//playerfiles//AlbanConduche_cleaned.md)             |             80 |
 |             80 | [Alexis Clement](..//playerfiles//AlexisClement_cleaned.md)                  |      79.92 |                12 |       14 |                42 |      93.36 | [Clement Egiziano](..//playerfiles//ClementEgiziano_cleaned.md)         |             80 |
 |             64 | [Goulwen Gueho](..//playerfiles//GoulwenGueho_cleaned.md)                    |      82.42 |                19 |       15 |                 6 |      68.49 | [Loic Le Gal](..//playerfiles//LoicLeGal_cleaned.md)                    |             80 |
-|             26 | [Hayam El Bibouji](..//playerfiles//HayamElBibouji_cleaned.md)               |      92.88 |                51 |       16 |                61 |     101.61 | [Steffon Armitage](..//playerfiles//SteffonArmitage_cleaned.md)         |             28 |
+|             26 | [Hayam El Bibouji](..//playerfiles//HayamElBibouji_cleaned.md)               |      92.88 |                52 |       16 |                61 |     101.61 | [Steffon Armitage](..//playerfiles//SteffonArmitage_cleaned.md)         |             28 |
 |             26 | [Wian Vosloo](..//playerfiles//WianVosloo_cleaned.md)                        |     104.14 |                71 |       17 |                 4 |      70.8  | [Jemal Shatirishvili](..//playerfiles//JemalShatirishvili_cleaned.md)   |             20 |
 |             19 | [Enzo Barbarit](..//playerfiles//EnzoBarbarit_cleaned.md)                    |      87.48 |                27 |       18 |                90 |     112.61 | [Sunia Vola](..//playerfiles//SuniaVola_cleaned.md)                     |             20 |
-|             19 | [Jean-Baptiste Fuster](..//playerfiles//Jean-BaptisteFuster_cleaned.md)      |      66.18 |                 3 |       19 |                38 |      91.56 | [Jérôme Mondoulet](..//playerfiles//JérômeMondoulet_cleaned.md)         |             20 |
+|             19 | [Jean-Baptiste Fuster](..//playerfiles//Jean-BaptisteFuster_cleaned.md)      |      66.18 |                 3 |       19 |                37 |      91.56 | [Jérôme Mondoulet](..//playerfiles//JérômeMondoulet_cleaned.md)         |             20 |
 |             19 | [Beqa Kakabadze](..//playerfiles//BeqaKakabadze_cleaned.md)                  |     107.99 |                86 |       20 |                59 |      99.66 | [Luca Cutayar](..//playerfiles//LucaCutayar_cleaned.md)                 |             20 |
-|             19 | [Victor Damian Arias](..//playerfiles//VictorDamianArias_cleaned.md)         |     114.67 |                93 |       21 |                57 |      96.35 | [Killian Taofifenua](..//playerfiles//KillianTaofifenua_cleaned.md)     |             16 |
+|             19 | [Victor Damian Arias](..//playerfiles//VictorDamianArias_cleaned.md)         |     114.67 |                93 |       21 |                58 |      96.35 | [Killian Taofifenua](..//playerfiles//KillianTaofifenua_cleaned.md)     |             16 |
 |             16 | [Damien Bozic](..//playerfiles//DamienBozic_cleaned.md)                      |      95    |               nan |       22 |                55 |      98.89 | [Augustin Slowik](..//playerfiles//AugustinSlowik_cleaned.md)           |             12 |
-|             16 | [Clément Amon](..//playerfiles//ClémentAmon_cleaned.md)                      |      63.5  |                 2 |       23 |                24 |      84.9  | [Louis Peutin](..//playerfiles//LouisPeutin_cleaned.md)                 |              6 |
+|             16 | [Clément Amon](..//playerfiles//ClémentAmon_cleaned.md)                      |      63.5  |                 2 |       23 |                25 |      84.9  | [Louis Peutin](..//playerfiles//LouisPeutin_cleaned.md)                 |              6 |
 

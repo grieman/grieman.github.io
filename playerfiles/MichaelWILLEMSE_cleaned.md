@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael WILLEMSE  
-date: 2023-01-27 19:00:46.214042  
+date: 2023-01-30 18:29:35.646431  
 categories: player  
 ---
 # Michael WILLEMSE
 
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Southern Kings         |            42 |   0.202381 |
 | Edinburgh              |            36 |   0.597222 |
-| London Irish           |            20 |   0.475    |
+| London Irish           |            21 |   0.5      |
 | Western Province       |            11 |   0.727273 |
 | Golden Lions           |             5 |   0.2      |
 | Stormers               |             5 |   0.5      |
@@ -42,18 +42,19 @@ categories: player
 | Munster                  |         4 |   0.25     |
 | Zebre                    |         4 |   0.5      |
 | Blue Bulls               |         4 |   0.5      |
-| Sharks                   |         3 |   0.333333 |
-| Benetton Treviso         |         3 |   0        |
-| Bordeaux Begles          |         3 |   0.166667 |
-| Exeter Chiefs            |         3 |   0.666667 |
+| Harlequins               |         3 |   0.666667 |
+| Lions                    |         3 |   0.166667 |
 | Pumas                    |         3 |   0.666667 |
+| Exeter Chiefs            |         3 |   0.666667 |
+| Bordeaux Begles          |         3 |   0.166667 |
 | Bristol Rugby            |         3 |   0.666667 |
 | Golden Lions             |         3 |   0        |
 | Stormers                 |         3 |   0        |
-| Lions                    |         3 |   0.166667 |
+| Sharks                   |         3 |   0.333333 |
+| Benetton Treviso         |         3 |   0        |
 | Queensland Reds          |         2 |   0.5      |
-| Natal Sharks             |         2 |   0.5      |
 | Saracens                 |         2 |   0.75     |
+| Natal Sharks             |         2 |   0.5      |
 | Boland Cavaliers         |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   1        |
 | Wasps                    |         2 |   1        |
@@ -62,14 +63,13 @@ categories: player
 | Agen                     |         2 |   1        |
 | Montpellier Herault      |         2 |   0.25     |
 | Jaguares                 |         2 |   0.5      |
-| Harlequins               |         2 |   0.5      |
 | Griquas                  |         2 |   1        |
 | Gloucester Rugby         |         2 |   0        |
 | Edinburgh                |         2 |   0.5      |
 | New South Wales Waratahs |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
 | Sale Sharks              |         1 |   0.5      |
+| Melbourne Rebels         |         1 |   1        |
 | Leicester Tigers         |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | Sunwolves                |         1 |   1        |

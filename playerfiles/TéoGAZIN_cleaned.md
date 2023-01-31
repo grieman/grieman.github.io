@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Téo GAZIN  
-date: 2023-01-27 19:00:43.875900  
+date: 2023-01-30 18:31:12.776165  
 categories: player  
 ---
 # Téo GAZIN
 
 ## Positions: FL, N8
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 45.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Rennes   |             9 |   0.222222 |
-| Narbonne |             3 |   0.5      |
+| Rennes   |            10 |        0.2 |
+| Narbonne |             3 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Tarbes                     |         2 |        0   |
 | Valence Romans Drome Rugby |         2 |        0   |
 | Albi                       |         1 |        0   |
 | Bayonne                    |         1 |        1   |
@@ -35,5 +36,4 @@ categories: player
 | Grenoble                   |         1 |        0.5 |
 | Narbonne                   |         1 |        0   |
 | Nevers                     |         1 |        0   |
-| Tarbes                     |         1 |        0   |
 | US Bressane                |         1 |        0   |

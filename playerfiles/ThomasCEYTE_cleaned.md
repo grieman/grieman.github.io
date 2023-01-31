@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas CEYTE  
-date: 2023-01-06 11:51:42.074825  
+date: 2023-01-30 18:29:34.732628  
 categories: player  
 ---
 # Thomas CEYTE
 
 ## Positions: L
 
-## Current elo: 137.0
+## Current elo: 142.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Nevers  |            87 |   0.54023  |
 | Dax     |            38 |   0.381579 |
-| Bayonne |            13 |   0.653846 |
+| Bayonne |            14 |   0.678571 |
 | Beziers |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -43,8 +43,8 @@ categories: player
 | Bayonne                    |         5 |   0.3      |
 | Narbonne                   |         5 |   0.6      |
 | Agen                       |         4 |   0.25     |
+| Brive                      |         4 |   0.25     |
 | Grenoble                   |         4 |   0.25     |
-| Brive                      |         3 |   0        |
 | Albi                       |         3 |   0.166667 |
 | Lyon                       |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.333333 |

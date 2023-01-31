@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Joubert DU TOIT  
-date: 2023-01-27 19:01:12.627083  
+date: 2023-01-30 18:29:59.198803  
 categories: player  
 ---
 # Thomas Joubert DU TOIT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Sharks           |           102 |   0.529412 |
+| Sharks           |           103 |   0.533981 |
 | Natal Sharks     |            37 |   0.689189 |
 | South Africa     |            15 |   0.666667 |
 | Munster          |             6 |   1        |
@@ -53,27 +53,27 @@ categories: player
 | New South Wales Waratahs |         3 |   0.833333 |
 | Highlanders              |         3 |   1        |
 | Connacht                 |         3 |   1        |
-| Chiefs                   |         3 |   0.333333 |
-| Blues                    |         3 |   0.666667 |
-| Brumbies                 |         3 |   0.333333 |
 | Eastern Province Kings   |         3 |   1        |
 | Cheetahs                 |         3 |   0.666667 |
-| Bordeaux Begles          |         2 |   1        |
-| Sunwolves                |         2 |   1        |
-| Zebre                    |         2 |   1        |
-| Leinster                 |         2 |   0.5      |
-| Western Force            |         2 |   1        |
+| Chiefs                   |         3 |   0.333333 |
+| Brumbies                 |         3 |   0.333333 |
+| Blues                    |         3 |   0.666667 |
 | Dragons                  |         2 |   1        |
+| Western Force            |         2 |   1        |
+| Leinster                 |         2 |   0.5      |
 | Benetton Treviso         |         2 |   1        |
-| Scarlets                 |         1 |   1        |
+| Edinburgh                |         2 |   0.5      |
+| Sunwolves                |         2 |   1        |
+| Bordeaux Begles          |         2 |   1        |
+| Zebre                    |         2 |   1        |
+| Scotland                 |         1 |   1        |
 | Boland Cavaliers         |         1 |   1        |
 | Ulster                   |         1 |   0        |
-| Scotland                 |         1 |   1        |
 | France                   |         1 |   1        |
+| Scarlets                 |         1 |   1        |
 | Racing 92                |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Cardiff Blues            |         1 |   0        |
-| Edinburgh                |         1 |   0        |
 | Namibia                  |         1 |   1        |
 | Munster                  |         1 |   0        |
 | Leicester Tigers         |         1 |   1        |

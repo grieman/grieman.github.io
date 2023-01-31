@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel MARQUES  
-date: 2023-01-23 15:31:45.171526  
+date: 2023-01-30 18:29:31.134158  
 categories: player  
 ---
 # Samuel MARQUES
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 134.0
+## Current elo: 135.0
 
 ## Current Percentile: 98.0
 
@@ -26,7 +26,7 @@ categories: player
 | Pau              |           118 |   0.54661  |
 | Albi             |            55 |   0.409091 |
 | Brive            |            53 |   0.471698 |
-| Carcassonne      |            37 |   0.540541 |
+| Carcassonne      |            38 |   0.552632 |
 | Stade Toulousain |            18 |   0.5      |
 | Portugal         |            15 |   0.466667 |
 
@@ -58,27 +58,27 @@ categories: player
 | Bourgoin-Jallieu         |         6 |   1        |
 | Toulon                   |         6 |   0.166667 |
 | Brive                    |         6 |   0.166667 |
-| Auch                     |         6 |   0.75     |
 | Stade Toulousain         |         6 |   0.166667 |
+| Auch                     |         6 |   0.75     |
 | Biarritz Olympique       |         5 |   0.7      |
-| Nevers                   |         5 |   0.8      |
-| Clermont Auvergne        |         5 |   0.2      |
 | US Bressane              |         5 |   0.8      |
+| Clermont Auvergne        |         5 |   0.2      |
+| Nevers                   |         5 |   0.8      |
 | Vannes                   |         4 |   0.625    |
+| Spain                    |         2 |   0.5      |
+| Romania                  |         2 |   0        |
+| Sale Sharks              |         2 |   0        |
+| Soyaux-Angouleme         |         2 |   0.5      |
+| Perpignan                |         2 |   0.5      |
+| Rouen                    |         2 |   1        |
 | Georgia                  |         2 |   0.25     |
 | Albi                     |         2 |   1        |
-| Spain                    |         2 |   0.5      |
-| Perpignan                |         2 |   0.5      |
-| Soyaux-Angouleme         |         2 |   0.5      |
-| Sale Sharks              |         2 |   0        |
-| Romania                  |         2 |   0        |
 | Russia                   |         1 |   1        |
-| Argentina                |         1 |   0        |
 | United States of America |         1 |   0.5      |
 | Uruguay                  |         1 |   1        |
 | Worcester Warriors       |         1 |   1        |
+| Argentina                |         1 |   0        |
 | Italy                    |         1 |   0        |
-| Rouen                    |         1 |   1        |
 | Périgueux                |         1 |   1        |
 | Japan                    |         1 |   0        |
 | Calvisano                |         1 |   1        |

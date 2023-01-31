@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Baptiste Florent ALTIER  
-date: 2023-01-27 19:00:20.475522  
+date: 2023-01-30 18:30:54.487633  
 categories: player  
 ---
 # Paul Baptiste Florent ALTIER

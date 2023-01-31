@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul JEDRASIAK  
-date: 2023-01-27 19:01:20.078144  
+date: 2023-01-30 18:32:24.330389  
 categories: player  
 ---
 # Paul JEDRASIAK
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 82.0
+## Current elo: 80.0
 
-## Current Percentile: 13.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           178 |   0.567416 |
+| Clermont Auvergne |           179 |   0.564246 |
 | France            |            10 |   0.45     |
 
 | Opponent             |   Matches |   Win Rate |
@@ -33,8 +33,8 @@ categories: player
 | Stade Francais Paris |        15 |   0.566667 |
 | Toulon               |        12 |   0.416667 |
 | Racing 92            |        12 |   0.25     |
+| Lyon                 |        11 |   0.545455 |
 | Montpellier Herault  |        11 |   0.454545 |
-| Lyon                 |        10 |   0.6      |
 | La Rochelle          |        10 |   0.7      |
 | Brive                |         9 |   0.666667 |
 | Pau                  |         9 |   0.777778 |

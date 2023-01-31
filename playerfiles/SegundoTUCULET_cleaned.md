@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Segundo TUCULET  
-date: 2023-01-23 15:33:25.098005  
+date: 2023-01-30 18:29:43.100790  
 categories: player  
 ---
 # Segundo TUCULET
 
 ## Positions: FB, W
 
-## Current elo: 76.0
+## Current elo: 73.0
 
-## Current Percentile: 16.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Montauban                  |            32 |   0.484375 |
+| Montauban                  |            33 |   0.469697 |
 | Valence Romans Drome Rugby |            25 |   0.38     |
 | Los Tilos                  |            17 |   0.264706 |
 | Narbonne                   |            12 |   0.166667 |
@@ -45,12 +45,12 @@ categories: player
 | Bayonne             |         3 |   0.333333 |
 | Beziers             |         3 |   0.5      |
 | Colomiers           |         3 |   0.333333 |
+| Massy               |         2 |   0        |
 | Narbonne            |         2 |   1        |
 | US Bressane         |         2 |   0.75     |
 | La Plata            |         2 |   0.25     |
 | Perpignan           |         2 |   0        |
 | Alumni              |         2 |   0        |
-| Dax                 |         1 |   0        |
 | Regatas Bella Vista |         1 |   0        |
 | Richmond            |         1 |   1        |
 | San Albano          |         1 |   0        |
@@ -59,7 +59,7 @@ categories: player
 | San Luis            |         1 |   0        |
 | Southern Kings      |         1 |   0        |
 | CASI                |         1 |   0        |
-| Olivos              |         1 |   1        |
+| Dax                 |         1 |   0        |
 | Oyonnax             |         1 |   0        |
 | Doncaster           |         1 |   1        |
 | Nottingham          |         1 |   0        |
@@ -71,4 +71,4 @@ categories: player
 | Liceo Militar       |         1 |   1        |
 | Hindu               |         1 |   0        |
 | Coventry            |         1 |   1        |
-| Massy               |         1 |   0        |
+| Olivos              |         1 |   1        |

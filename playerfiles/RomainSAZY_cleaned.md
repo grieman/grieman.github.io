@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-01-27 19:00:24.583922  
+date: 2023-01-30 18:30:06.335664  
 categories: player  
 ---
 # Romain SAZY
 
 ## Positions: L, FL
 
-## Current elo: 136.0
+## Current elo: 131.0
 
 ## Current Percentile: 98.0
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           311 |   0.581994 |
+| La Rochelle |           312 |   0.580128 |
 | Montauban   |            20 |   0.15     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Racing 92            |        19 |   0.473684 |
+| Racing 92            |        20 |   0.45     |
 | Stade Toulousain     |        19 |   0.315789 |
 | Toulon               |        19 |   0.5      |
 | Clermont Auvergne    |        18 |   0.25     |

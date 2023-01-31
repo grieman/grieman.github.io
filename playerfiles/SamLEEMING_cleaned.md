@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam LEEMING  
-date: 2023-01-27 19:01:52.553718  
+date: 2023-01-30 18:30:00.161872  
 categories: player  
 ---
 # Sam LEEMING
 
-## Positions: FH, C
+## Positions: FH
 
-## Current elo: 116.0
+## Current elo: 108.0
 
-## Current Percentile: 78.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Hartpury College |            17 |   0.235294 |
 | Jersey           |            10 |   0.75     |
 | Bedford          |             7 |   0.571429 |
-| Rennes           |             3 |   0        |
+| Rennes           |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,14 +34,15 @@ categories: player
 | Cornish Pirates            |         3 |   0.333333 |
 | Ealing Trailfinders        |         3 |   0        |
 | Nottingham                 |         3 |   0.666667 |
-| Richmond                   |         2 |   0.5      |
 | Doncaster                  |         2 |   0.5      |
 | Hartpury College           |         2 |   1        |
 | Ampthill                   |         2 |   0.75     |
 | London Irish               |         2 |   0        |
 | London Scottish            |         2 |   0.5      |
-| Valence Romans Drome Rugby |         1 |   0        |
+| Richmond                   |         2 |   0.5      |
 | Suresnes                   |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   0        |
+| Tarbes                     |         1 |   0        |
 | Albi                       |         1 |   0        |
 | Newcastle Falcons          |         1 |   0        |
 | Bristol Rugby              |         1 |   0        |

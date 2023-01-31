@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul SURANO  
-date: 2023-01-23 15:29:17.666533  
+date: 2023-01-30 18:30:15.535715  
 categories: player  
 ---
 # Paul SURANO
 
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 89.0
 
-## Current Percentile: 15.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            63 |   0.404762 |
+| Rouen  |            64 |   0.398438 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,9 +34,9 @@ categories: player
 | Oyonnax                    |         4 |   0.5      |
 | Montauban                  |         4 |   0.5      |
 | Colomiers                  |         4 |   0.25     |
+| Carcassonne                |         4 |   0        |
 | Vannes                     |         4 |   0.75     |
 | Nevers                     |         3 |   0.333333 |
-| Carcassonne                |         3 |   0        |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Mont-de-Marsan             |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |

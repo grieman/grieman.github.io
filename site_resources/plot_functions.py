@@ -68,9 +68,9 @@ def score_plot(match_events, file_name, recent_game, home_color1, away_color1, h
     plt.ylabel('Score')
     plt.xlabel('Minute')
 
-    plt.savefig(f"reviews/recap_scores_{file_name}.png")
+    plt.savefig(f"reviews/plots/recap_scores_{file_name}.png")
     plt.close()
-    return f'recap_scores_{file_name}.png'
+    return f'plots/recap_scores_{file_name}.png'
 
 def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2):
 
@@ -88,9 +88,9 @@ def prob_plot(match_events, file_name, home_color1, away_color1, home_color2, aw
     plt.ylabel('Home Team Win Probability')
     plt.xlabel('Minute')
 
-    plt.savefig(f"reviews/recap_prob_{file_name}.png")
+    plt.savefig(f"reviews/plots/recap_prob_{file_name}.png")
     plt.close()
-    return f'recap_prob_{file_name}.png'
+    return f'plots/recap_prob_{file_name}.png'
 
 def player_history_plot(player_df, percentile_df):
     fig, ax = plt.subplots()
@@ -172,7 +172,7 @@ def glicko_club_plots(home_sims, away_sims, home_team_name, away_team_name, file
     sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
     #plt.show()
     plt.tight_layout()
-    plt.savefig(f"{file_loc}_performances_{file_name}.png")
+    plt.savefig(f"{file_loc}plots/performances_{file_name}.png")
     plt.close()
 
     fig, ax = plt.subplots()
@@ -208,7 +208,7 @@ def glicko_club_plots(home_sims, away_sims, home_team_name, away_team_name, file
 
     ax.legend(handles = legend_elements)
     sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
-    plt.savefig(f"{file_loc}_spreads_{file_name}.png")
+    plt.savefig(f"{file_loc}plots/spreads_{file_name}.png")
     plt.close()
 
-    return f"{file_loc}_performances_{file_name}.png".split("/")[1], f"{file_loc}_spreads_{file_name}.png".split("/")[1]
+    return f"plots/performances_{file_name}.png", f"plots/spreads_{file_name}.png"

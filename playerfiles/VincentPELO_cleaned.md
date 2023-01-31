@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent PELO  
-date: 2023-01-27 19:00:27.919616  
+date: 2023-01-30 18:30:18.105515  
 categories: player  
 ---
 # Vincent PELO
@@ -25,7 +25,7 @@ categories: player
 |:---------------------------|--------------:|-----------:|
 | La Rochelle                |            96 |   0.505208 |
 | Bourgoin-Jallieu           |            77 |   0.376623 |
-| Valence Romans Drome Rugby |            29 |   0.637931 |
+| Valence Romans Drome Rugby |            30 |   0.65     |
 | Bayonne                    |             8 |   0.5      |
 | Montpellier Herault        |             8 |   0.625    |
 | France                     |             2 |   0        |
@@ -70,13 +70,13 @@ categories: player
 | Biarritz Olympique         |         2 |  0         |
 | Mont-de-Marsan             |         2 |  0.5       |
 | Beziers                    |         2 |  0.5       |
+| Carqueiranne-Hyères        |         2 |  1         |
 | Exeter Chiefs              |         2 |  0         |
 | Connacht                   |         2 |  0         |
 | Blagnac                    |         2 |  0.5       |
 | Worcester Warriors         |         1 |  0         |
 | Wasps                      |         1 |  0         |
 | Wales                      |         1 |  0         |
-| Carqueiranne-Hyères        |         1 |  1         |
 | US Bressane                |         1 |  0         |
 | Aubenas                    |         1 |  1         |
 | Chambery                   |         1 |  1         |

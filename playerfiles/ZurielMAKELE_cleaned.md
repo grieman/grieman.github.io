@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zuriel MAKELE  
-date: 2023-01-27 19:01:22.665469  
+date: 2023-01-30 18:30:23.516995  
 categories: player  
 ---
 # Zuriel MAKELE

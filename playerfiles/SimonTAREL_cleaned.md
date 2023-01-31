@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon TAREL  
-date: 2023-01-23 15:34:55.736879  
+date: 2023-01-30 18:29:22.096138  
 categories: player  
 ---
 # Simon TAREL
@@ -21,13 +21,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            12 |        0.5 |
+| Provence Rugby |            13 |   0.461538 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Beziers            |         2 |        0.5 |
 | Rouen              |         2 |        0.5 |
 | Agen               |         1 |        1   |
-| Beziers            |         1 |        1   |
 | Biarritz Olympique |         1 |        0   |
 | Carcassonne        |         1 |        1   |
 | Colomiers          |         1 |        1   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas BAQUER  
-date: 2023-01-27 19:00:38.000381  
+date: 2023-01-30 18:30:17.209340  
 categories: player  
 ---
 # Nicolas BAQUER
 
 ## Positions: FL
 
-## Current elo: 92.0
+## Current elo: 86.0
 
-## Current Percentile: 50.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             8 |          0 |
+| Carqueiranne-Hyères |             9 |          0 |
 | Carcassonne         |             1 |          1 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Valence Romans Drome Rugby |         2 |          0 |
 | Albi                       |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Dax                        |         1 |          0 |
@@ -34,4 +35,3 @@ categories: player
 | Rennes                     |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |

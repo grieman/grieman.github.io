@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy THOMAS  
-date: 2023-01-27 19:00:22.196323  
+date: 2023-01-30 18:29:24.730834  
 categories: player  
 ---
 # Teddy THOMAS
@@ -26,7 +26,7 @@ categories: player
 | Racing 92          |           103 |   0.601942 |
 | Biarritz Olympique |            27 |   0.240741 |
 | France             |            26 |   0.480769 |
-| La Rochelle        |            14 |   0.642857 |
+| La Rochelle        |            15 |   0.6      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -49,10 +49,10 @@ categories: player
 | Perpignan            |         4 |   0.5      |
 | Leicester Tigers     |         3 |   1        |
 | Agen                 |         3 |   0.666667 |
+| Racing 92            |         3 |   0.333333 |
 | Scotland             |         3 |   0.333333 |
 | Wales                |         3 |   1        |
 | Saracens             |         3 |   0.666667 |
-| Racing 92            |         2 |   0.5      |
 | Sale Sharks          |         2 |   0        |
 | South Africa         |         2 |   0        |
 | Ulster               |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-01-27 19:01:50.940379  
+date: 2023-01-30 18:30:59.814659  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Saracens     |            39 |   0.75641  |
+| Saracens     |            40 |   0.7625   |
 | Bulls        |            37 |   0.459459 |
 | Blue Bulls   |            28 |   0.607143 |
 | South Africa |             6 |   0.5      |
@@ -59,6 +59,7 @@ categories: player
 | Lyon                     |         2 |   1        |
 | Blues                    |         2 |   0.25     |
 | Hurricanes               |         2 |   0        |
+| Bristol Rugby            |         2 |   1        |
 | Worcester Warriors       |         2 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
@@ -70,4 +71,3 @@ categories: player
 | Cheetahs                 |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Brive                    |         1 |   1        |
-| Bristol Rugby            |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paolo BUONFIGLIO  
-date: 2023-01-27 19:02:00.971719  
+date: 2023-01-30 18:31:45.027722  
 categories: player  
 ---
 # Paolo BUONFIGLIO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 52.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -23,25 +23,25 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            26 |   0.115385 |
+| Zebre  |            27 |   0.111111 |
 | Italy  |             1 |   1        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Leinster         |         3 |   0        |
-| Edinburgh        |         3 |   0        |
-| Ospreys          |         3 |   0.333333 |
-| Scarlets         |         2 |   0        |
-| Glasgow Warriors |         2 |   0        |
-| Benetton Treviso |         2 |   0        |
-| Dragons          |         2 |   1        |
-| Connacht         |         1 |   0        |
-| Bristol Rugby    |         1 |   0        |
-| Munster          |         1 |   0        |
-| Namibia          |         1 |   1        |
-| Cardiff Blues    |         1 |   0        |
-| Bulls            |         1 |   0        |
-| Sharks           |         1 |   0        |
-| Stormers         |         1 |   0        |
-| Toulon           |         1 |   0        |
-| Ulster           |         1 |   0        |
+| Ospreys          |         4 |       0.25 |
+| Leinster         |         3 |       0    |
+| Edinburgh        |         3 |       0    |
+| Scarlets         |         2 |       0    |
+| Glasgow Warriors |         2 |       0    |
+| Benetton Treviso |         2 |       0    |
+| Dragons          |         2 |       1    |
+| Connacht         |         1 |       0    |
+| Bristol Rugby    |         1 |       0    |
+| Munster          |         1 |       0    |
+| Namibia          |         1 |       1    |
+| Cardiff Blues    |         1 |       0    |
+| Bulls            |         1 |       0    |
+| Sharks           |         1 |       0    |
+| Stormers         |         1 |       0    |
+| Toulon           |         1 |       0    |
+| Ulster           |         1 |       0    |

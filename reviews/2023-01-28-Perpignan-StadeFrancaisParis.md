@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Perpignan-StadeFrancaisParis.png)
+![Projected Performances](plots/performances_2023-01-28-Perpignan-StadeFrancaisParis.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Perpignan-StadeFrancaisParis.png)
+![Projected Spreads](plots/spreads_2023-01-28-Perpignan-StadeFrancaisParis.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Stade Francais Paris by 15.0 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Perpignan-StadeFrancaisParis.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Perpignan-StadeFrancaisParis.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Perpignan-StadeFrancaisParis.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Perpignan-StadeFrancaisParis.png)
 ## Prediction without Player Minutes: Stade Francais Paris by 11.5
 
 
@@ -57,14 +57,14 @@ Stade Francais Paris by 15.5 on a neutral pitch
 |             80 | [Joris Segonds](..//playerfiles//JorisSegonds_cleaned.md)                     |     140.9  |                98 |       10 |                84 |     116.01 | [Jake McIntyre](..//playerfiles//JakeMcIntyre_cleaned.md)               |             80 |
 |             80 | [Lester Etien](..//playerfiles//LesterEtien_cleaned.md)                       |     125.93 |                94 |       11 |                83 |     115.26 | [Ali Crossdale](..//playerfiles//AliCrossdale_cleaned.md)               |             80 |
 |             53 | [Alex Arrate](..//playerfiles//AlexArrate_cleaned.md)                         |      75.02 |                 7 |       12 |                 3 |      66.95 | [Jeronimo de la Fuente](..//playerfiles//JeronimodelaFuente_cleaned.md) |             80 |
-|             80 | [Jeremy Ward](..//playerfiles//JeremyWard_cleaned.md)                         |     120.11 |                91 |       13 |                57 |      98.94 | [Afusipa Taumoepeau](..//playerfiles//AfusipaTaumoepeau_cleaned.md)     |             80 |
+|             80 | [Jeremy Ward](..//playerfiles//JeremyWard_cleaned.md)                         |     120.11 |                90 |       13 |                57 |      98.94 | [Afusipa Taumoepeau](..//playerfiles//AfusipaTaumoepeau_cleaned.md)     |             80 |
 |             80 | [Sione Tui](..//playerfiles//SioneTui_cleaned.md)                             |     109.06 |                80 |       14 |                64 |     102.11 | [George Tilsley](..//playerfiles//GeorgeTilsley_cleaned.md)             |             80 |
-|             80 | [Leo Barre](..//playerfiles//LeoBarre_cleaned.md)                             |     116.99 |                86 |       15 |                35 |      89.66 | [Tristan Tedder](..//playerfiles//TristanTedder_cleaned.md)             |             80 |
-|             30 | [Morgan Parra](..//playerfiles//MorganParra_cleaned.md)                       |     103.1  |                70 |       16 |                98 |     128.88 | [Arthur Joly](..//playerfiles//ArthurJoly_cleaned.md)                   |             68 |
+|             80 | [Leo Barre](..//playerfiles//LeoBarre_cleaned.md)                             |     116.99 |                86 |       15 |                34 |      89.66 | [Tristan Tedder](..//playerfiles//TristanTedder_cleaned.md)             |             80 |
+|             30 | [Morgan Parra](..//playerfiles//MorganParra_cleaned.md)                       |     103.1  |                69 |       16 |                98 |     128.88 | [Arthur Joly](..//playerfiles//ArthurJoly_cleaned.md)                   |             68 |
 |             27 | [Paul Alo-Emile](..//playerfiles//PaulAlo-Emile_cleaned.md)                   |      92.13 |                38 |       17 |                12 |      81.42 | [Xavier Chiocci](..//playerfiles//XavierChiocci_cleaned.md)             |             20 |
 |              7 | [Paolo Odogwu](..//playerfiles//PaoloOdogwu_cleaned.md)                       |      98    |                61 |       18 |                44 |      93.26 | [Mike Tadjer Barbosa](..//playerfiles//MikeTadjerBarbosa_cleaned.md)    |             20 |
 |             30 | [Mathieu Hirigoyen](..//playerfiles//MathieuHirigoyen_cleaned.md)             |      75.83 |                 7 |       19 |               nan |      94.16 | [Posolo Tuilagi](..//playerfiles//PosoloTuilagi_cleaned.md)             |             20 |
-|             20 | [Kylan Hamdaoui](..//playerfiles//KylanHamdaoui_cleaned.md)                   |     113.91 |                81 |       20 |                 9 |      77.2  | [Kelian Galletier](..//playerfiles//KelianGalletier_cleaned.md)         |             14 |
+|             20 | [Kylan Hamdaoui](..//playerfiles//KylanHamdaoui_cleaned.md)                   |     113.91 |                81 |       20 |                 8 |      77.2  | [Kelian Galletier](..//playerfiles//KelianGalletier_cleaned.md)         |             14 |
 |             20 | [Moses Alo-Emile](..//playerfiles//MosesAlo-Emile_cleaned.md)                 |     101.86 |                70 |       21 |                45 |      94.59 | [Matteo Rodor](..//playerfiles//MatteoRodor_cleaned.md)                 |             20 |
 |             20 | [Lucas Peyresblanques](..//playerfiles//LucasPeyresblanques_cleaned.md)       |     103.4  |                76 |       22 |                64 |     100.69 | [Andrei Mahu](..//playerfiles//AndreiMahu_cleaned.md)                   |              8 |
 

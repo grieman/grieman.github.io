@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo DUPRAT  
-date: 2023-01-27 19:01:01.333999  
+date: 2023-01-30 18:32:48.221192  
 categories: player  
 ---
 # Théo DUPRAT
 
 ## Positions: FB
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 84.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,25 +21,25 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dax            |            16 |      0.875 |
-| Mont-de-Marsan |             5 |      0.4   |
+| Dax            |            17 |   0.882353 |
+| Mont-de-Marsan |             5 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Nice                       |         2 |          1 |
-| US Bressane                |         2 |          1 |
-| Chambery                   |         2 |          1 |
-| Provence Rugby             |         2 |          1 |
-| Albi                       |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          1 |
-| Tarbes                     |         1 |          1 |
-| Suresnes                   |         1 |          1 |
-| Rennes                     |         1 |          1 |
-| Narbonne                   |         1 |          1 |
-| Aurillac                   |         1 |          0 |
-| Montauban                  |         1 |          0 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Blagnac                    |         1 |          1 |
-| Vannes                     |         1 |          0 |
+| Provence Rugby             |         2 |        1   |
+| Bourgoin-Jallieu           |         2 |        0.5 |
+| US Bressane                |         2 |        1   |
+| Chambery                   |         2 |        1   |
+| Nice                       |         2 |        1   |
+| Albi                       |         1 |        0   |
+| Valence Romans Drome Rugby |         1 |        1   |
+| Tarbes                     |         1 |        1   |
+| Suresnes                   |         1 |        1   |
+| Rennes                     |         1 |        1   |
+| Narbonne                   |         1 |        1   |
+| Aurillac                   |         1 |        0   |
+| Montauban                  |         1 |        0   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Carqueiranne-Hyères        |         1 |        1   |
+| Blagnac                    |         1 |        1   |
+| Vannes                     |         1 |        0   |

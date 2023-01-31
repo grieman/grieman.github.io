@@ -23,6 +23,7 @@ import support_files.real_time_preds as real_time_preds
 from support_files.comp_levels import comp_level_dict, comp_match_dict
 from tabulate import tabulate
 import os
+import shutil
 import glob
 import datetime
 import matplotlib.pyplot as plt
@@ -72,6 +73,25 @@ def comp_accuracy_statements(matchlist, comp):
     
     return output_list
 
+def club_comp_accuracy_statements(club_histories, comp):
+    output_list = []
+    comp_matches = club_histories[(club_histories.Home == 1) & (club_histories.Competition == comp) & (~club_histories.Point_Diff.isna())]
+    if len(comp_matches) > 0:
+        num_teams = pd.concat([comp_matches.Opponent, comp_matches.Club]).nunique()
+        recent_comp_matches = comp_matches.tail(int(np.ceil(num_teams/2)))
+
+        correct_preds = sum((comp_matches.Point_Diff * comp_matches.Predicted_Spread) > 0)
+        avg_error = np.mean(abs(comp_matches.Predicted_Spread - comp_matches.Point_Diff))
+        recent_correct_preds = sum((recent_comp_matches.Point_Diff * recent_comp_matches.Predicted_Spread) > 0)
+        recent_avg_error = np.mean(abs(recent_comp_matches.Predicted_Spread - recent_comp_matches.Point_Diff))
+
+        output_list.append(f"Competition Accuracy: {correct_preds} of {comp_matches.shape[0]} ({np.round((correct_preds / comp_matches.shape[0]) * 100,2)}%)")
+        output_list.append(f"Competition Error: {np.round(avg_error,2)} points per match")
+        output_list.append(f"Last Round Accuracy: {recent_correct_preds} of {recent_comp_matches.shape[0]} ({np.round((recent_correct_preds / recent_comp_matches.shape[0]) * 100,2)}%)")
+        output_list.append(f"Last Round Error: {np.round(recent_avg_error,2)} points per match")
+    
+    return output_list
+
 def get_team_colors(home_team_name, away_team_name):
     # team colors
     if (home_team_name in set(team_colors.Team)) & (away_team_name in set(team_colors.Team)):
@@ -88,9 +108,140 @@ def get_team_colors(home_team_name, away_team_name):
         
     return home_color1, home_color2, away_color1, away_color2
 
-files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')# + glob.glob('playerfiles/*')
-for f in files:
-    os.remove(f)
+def fill_matches(directory_df, md_file):
+    dir_df = directory_df.sort_values('dates')
+    dir_int = dir_df[dir_df.levels == 'International']
+    dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
+    dir_dom = dir_df[dir_df.levels == 'Domestic']
+    if dir_int.shape[0] > 0:
+        md_file.new_header(level = 1, title = 'International Matches')
+        for comp in sorted(dir_int.comps.unique()):
+            md_file.new_header(level = 2, title = comp[:-5])
+            accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
+            for line in accuracy_lines:
+                md_file.new_paragraph(line)
+                
+            for _, row in dir_int[dir_int.comps == comp].iterrows():
+                md_file.new_paragraph(row[0])
+
+    if dir_pro.shape[0] > 0:
+        md_file.new_header(level = 1, title = 'Professional Leagues')
+        for comp in sorted(dir_pro.comps.unique()):
+            md_file.new_header(level = 2, title = comp[:-5])
+            accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
+            for line in accuracy_lines:
+                md_file.new_paragraph(line)
+                
+            for _, row in dir_pro[dir_pro.comps == comp].iterrows():
+                md_file.new_paragraph(row[0])
+
+    if dir_dom.shape[0] > 0:
+        md_file.new_header(level = 1, title = 'Domestic Leagues')
+        for comp in sorted(dir_dom.comps.unique()):
+            md_file.new_header(level = 2, title = comp[:-5])
+            accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
+            for line in accuracy_lines:
+                md_file.new_paragraph(line)
+                
+            for _, row in dir_dom[dir_dom.comps == comp].iterrows():
+                md_file.new_paragraph(row[0])
+
+def make_matchpage(
+    file_name,
+    folder,
+    main_header, 
+    match_date,
+    club_prediction,
+    club_victor,
+    club_margin,
+    perf_plot_path,
+    spread_plot_path,
+    pred_text,
+    n_pred_text,
+    lineup_pred_text,
+    n_lineup_pred_text,
+    categories_list = ["review", "projection", "imputed"],
+    player_table = None,
+    score_path = None,
+    prob_path = None
+    ):
+
+    md_file = MdUtils(file_name=f'temp//{file_name}')
+    # yaml header
+    md_file.new_line("HEADERSTART")
+    md_file.new_line("---")
+    md_file.new_line("layout: page")
+    md_file.new_line(f'title: {main_header}')
+    md_file.new_line(f'date: {match_date} 18:00:00 -0500')
+    md_file.new_line("categories: match " + " ".join(categories_list))
+    md_file.new_line("---")
+
+    md_file.new_header(level = 1, title = main_header)
+    md_file.new_header(level=1, title = "Club Level Predictions")
+    md_file.new_paragraph(
+        f"The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of {club_prediction}, which translates to predicting {club_victor} to win by {club_margin}."
+        )
+    md_file.new_paragraph(
+        "Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below."
+        )
+
+    md_file.new_header(level=2, title = "Projected Performances")
+    md_file.new_paragraph(f'![Projected Performances]({perf_plot_path})')
+
+    md_file.new_header(level=2, title = "Projected Spreads")
+    md_file.new_paragraph(f'![Projected Spreads]({spread_plot_path})')
+
+
+
+    ## Break, now player level
+    md_file.new_header(level=1, title = "Player Level Predictions")
+    md_file.new_paragraph(
+        "Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings."
+        )
+
+    if pred_text:
+        md_file.new_header(level = 2, title = f'Prediction with Player Minutes: {pred_text}')
+        md_file.new_paragraph(n_pred_text)
+
+    ## Win probability plots
+    if score_path:
+        md_file.new_header(level = 2, title = 'Scores over Time')
+        md_file.new_paragraph(f'![In Match Scores]({score_path})')
+
+    if prob_path:
+        md_file.new_header(level = 2, title = 'Win Probability over Time')
+        md_file.new_paragraph(f'![In Match Predictions]({prob_path})')
+
+    if lineup_pred_text:
+        if ("imputed" not in categories_list):
+            md_file.new_header(level = 2, title = f'Prediction without Player Minutes: {lineup_pred_text}')
+            md_file.new_paragraph(n_lineup_pred_text)
+            md_file.new_paragraph()
+    
+    if "imputed" in categories_list:
+        md_file.new_header(level = 2, title = f'Prediction with Imputed Lineups: {lineup_pred_text}')
+        md_file.new_paragraph(n_lineup_pred_text)
+        md_file.new_paragraph()
+
+    if player_table:
+        md_file.new_paragraph(player_table)
+        md_file.new_paragraph()
+
+
+    md_file.create_md_file()
+
+    clean_leading_space(f'temp//{file_name}.md', f'{folder}//{file_name}.md')
+
+# files = glob.glob('projections/*') + glob.glob('reviews/*') + glob.glob('_includes/plots/recap_predictions/*')# + glob.glob('playerfiles/*')
+folders = ["projections", "reviews"]
+for f in folders:
+    shutil.rmtree(f)
+
+if not os.path.exists('projections/plots'):
+    os.makedirs('projections/plots', mode=0o777)
+
+if not os.path.exists('reviews/plots'):
+    os.makedirs('reviews/plots', mode=0o777)
 
 team_colors = pd.DataFrame(team_color_dict).T
 team_colors.columns = ['Primary', 'Secondary']
@@ -163,51 +314,35 @@ match_dates = []
 recent_games = [x for x in match_list if datetime.datetime.now() > x['date'] > datetime.datetime.now() - datetime.timedelta(days=10)]
 recent_games = [x for x in recent_games if 'point_diff' in x.keys()]
 
+
 for recent_game in recent_games:
     if 'away_score' in recent_game.keys():
         
         current_players = make_current_percentile(starters, recent_game['date'])
         pretty_name = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}'
-        file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
-        score_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
-        #main_header = f'{recent_game["away_team_name"]} ({round(recent_game["away_elo"], 2)}) at {recent_game["home_team_name"]} ({round(recent_game["home_elo"], 2)}); {recent_game["away_score"]}-{recent_game["home_score"]}'
-        main_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
         print(pretty_name)
 
         # team colors
         home_color1, home_color2, away_color1, away_color2 = get_team_colors(recent_game["home_team_name"], recent_game["away_team_name"])
 
-        ## Club Level Info
+        ## Generate Club Level Info
         club_level_match = club_histories[(club_histories.Club == recent_game['home_team_name']) & (club_histories.Opponent == recent_game['away_team_name']) & (club_histories.Date == recent_game['date'])].iloc[0]
         home_sims = np.random.normal(club_level_match['mu'], club_level_match['sigma'], size=2000)
         away_sims = np.random.normal(club_level_match.Opponent_mu, club_level_match.Opponent_sigma, size=2000)
-        club_prediction = np.round(club_level_match['Prediction'], 3)
-        club_victor = club_level_match['Club'] if club_prediction >= 0.5 else club_level_match['Opponent']
-        club_margin = np.round(club_level_match['Predicted_Spread'], 1) if club_prediction >= 0.5 else np.round(club_level_match['Predicted_Spread'], 1) * -1
 
-        perf_plot, spread_plot = glicko_club_plots(
-            home_sims, away_sims, recent_game['home_team_name'], 
-            recent_game['away_team_name'], "reviews/recap", file_name, home_color1, 
-            away_color1, home_color2, away_color2, recent_game['point_diff']
-            )
-
-        ## Match Lineups
+        ## Match Lineups + player_table
         home_team = pd.DataFrame(recent_game['home_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
         home_team = home_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
         home_team = home_team.drop(['Unicode_ID'], axis = 1)
         away_team = pd.DataFrame(recent_game['away_team'][:, [0,1,31,-3,-1]], columns = ['Number', 'Full_Name', 'Minutes', 'Unicode_ID', 'elo'])
         away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'], how = 'left')
         away_team = away_team.drop(['Unicode_ID'], axis = 1)
-
         home_team.columns = ['Number', 'Home Player', 'Home Minutes', 'Home elo', 'Home Percentile']
         away_team.columns = ['Number', 'Away Player', 'Away Minutes', 'Away elo', 'Away Percentile']
-        
         named_players.append(home_team['Home Player'])
         named_players.append(away_team['Away Player'])
-
         home_team['Home Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
         away_team['Away Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
-
         all_players = home_team.merge(away_team, on = 'Number', how= 'outer')
         all_players = all_players.sort_values('Number')
         all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
@@ -215,139 +350,70 @@ for recent_game in recent_games:
         player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
         favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
-        pred_text = f'{favorite} by {round(abs(recent_game["spread"]), 1)}'
         lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] + home_advantage > 0 else recent_game["away_team_name"]
-        lineup_pred_text = f'{favorite} by {round(abs(recent_game["lineup_spread"] + home_advantage), 1)}'
         n_lineup_favorite = recent_game["home_team_name"] if recent_game["lineup_spread"] > 0 else recent_game["away_team_name"]
-        n_lineup_pred_text = f'{n_lineup_favorite} by {round(abs(recent_game["lineup_spread"]), 1)} on a neutral pitch'
         favorite = recent_game["home_team_name"] if recent_game["spread"] + home_advantage > 0 else recent_game["away_team_name"]
-        pred_text = f'{favorite} by {round(abs(recent_game["spread"] + home_advantage ), 1)}'
         n_favorite = recent_game["home_team_name"] if recent_game["spread"] > 0 else recent_game["away_team_name"]
+
+
+        file_name = f'{recent_game["date"].date().strftime("%Y-%m-%d")}-{recent_game["home_team_name"].replace(" ", "")}-{recent_game["away_team_name"].replace(" ", "")}'
+        main_header = f'{recent_game["away_team_name"]} at {recent_game["home_team_name"]}; {recent_game["away_score"]}-{recent_game["home_score"]}'
+        match_date = recent_game["date"]
+        club_prediction = np.round(club_level_match['Prediction'], 3)
+        club_victor = club_level_match['Club'] if club_prediction >= 0.5 else club_level_match['Opponent']
+        club_margin = np.round(club_level_match['Predicted_Spread'], 1) if club_prediction >= 0.5 else np.round(club_level_match['Predicted_Spread'], 1) * -1
+        perf_plot_path, spread_plot_path = glicko_club_plots(
+            home_sims, away_sims, recent_game['home_team_name'], 
+            recent_game['away_team_name'], "reviews/", file_name, home_color1, 
+            away_color1, home_color2, away_color2, recent_game['point_diff']
+            )
+        pred_text = f'{favorite} by {round(abs(recent_game["spread"] + home_advantage ), 1)}'
         n_pred_text = f'{n_favorite} by {round(abs(recent_game["spread"]), 1)} on a neutral field'
-
-        rec_match_md = MdUtils(file_name=f'temp//{file_name}')
-
-        # yaml header
-        rec_match_md.new_line("HEADERSTART")
-        rec_match_md.new_line("---")
-        rec_match_md.new_line("layout: page")
-        rec_match_md.new_line(f'title: {score_header}')
-        rec_match_md.new_line(f'date: {recent_game["date"]} 18:00:00 -0500')
-        rec_match_md.new_line("categories: match review")
-        rec_match_md.new_line("---")
-
-        rec_match_md.new_header(level = 1, title = main_header)
-        rec_match_md.new_header(level=1, title = "Club Level Predictions")
-        rec_match_md.new_paragraph(
-            f"The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of {club_prediction}, which translates to predicting {club_victor} to win by {club_margin}."
-            )
-        rec_match_md.new_paragraph(
-            "Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below."
-            )
-
-        rec_match_md.new_header(level=2, title = "Projected Performances")
-        rec_match_md.new_paragraph(f'![Projected Performances]({perf_plot})')
-
-        rec_match_md.new_header(level=2, title = "Projected Spreads")
-        rec_match_md.new_paragraph(f'![Projected Spreads]({spread_plot})')
-
-        rec_match_md.new_header(level=1, title = "Player Level Predictions")
-        rec_match_md.new_paragraph(
-            "Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings."
-            )
-
-        rec_match_md.new_header(level = 2, title = f'Prediction with Player Minutes: {pred_text}')
-        rec_match_md.new_paragraph(n_pred_text)
-
+        lineup_pred_text = f'{lineup_favorite} by {round(abs(recent_game["lineup_spread"] + home_advantage), 1)}'
+        n_lineup_pred_text = f'{n_lineup_favorite} by {round(abs(recent_game["lineup_spread"]), 1)} on a neutral pitch'
         ## Win probability plots
+        prob_path = None
+        score_path = None
         if isinstance(recent_game['commentary_df'], np.ndarray):
             try:
                 match_events = real_time_preds.real_time_df(recent_game)
-                '''sns.lineplot(x = 'Time', y = 'prediction', data = match_events)
-                ax2 = plt.twinx()
-                sns.lineplot(x = 'Time', y = 'Home Points', data=match_events, color=home_color1, ax=ax2)
-                pred_plot = sns.lineplot(x = 'Time', y = 'Away Points', data=match_events, color=away_color1, ax=ax2)
-                pred_plot.figure.savefig(f"reviews/recap_predictions_{file_name}.png")
-                pred_plot.figure.clf()'''
                 prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
                 plt.close()
                 score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
-                plt.close()
-
-                rec_match_md.new_header(level = 2, title = 'Scores over Time')
-                rec_match_md.new_paragraph(f'![In Match Scores]({score_path})')
-                rec_match_md.new_header(level = 2, title = 'Win Probability over Time')
-                rec_match_md.new_paragraph(f'![In Match Predictions]({prob_path})')
-                 
+                plt.close()                 
             except:
                 pass
 
-
-        rec_match_md.new_header(level = 2, title = f'Prediction without Player Minutes: {lineup_pred_text}')
-        rec_match_md.new_paragraph(n_lineup_pred_text)
-        #rec_match_md.new_header(level = 1, title = f'Projection using minutes played for each player: {pred_text}')
-        #rec_match_md.new_paragraph(n_pred_text)
-        rec_match_md.new_paragraph()
-        rec_match_md.new_paragraph(player_table)
-        rec_match_md.new_paragraph()
-
-        #rec_match_md.new_header(level = 1, title = 'Elo Contributions')
-
-        all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
-        all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
-        all_players['home minute_elos'] = all_players['Home elo'] * all_players['Home Minutes'] / max(all_players['Home Minutes'])
-        all_players['away minute_elos'] = all_players['Away elo'] * all_players['Away Minutes'] / max(all_players['Home Minutes'])
-        #review_contribution_plot(all_players, f"reviews//{file_name}_contributions.html")
-        #rec_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
-
-        rec_match_md.create_md_file()
+        make_matchpage(
+            file_name,
+            "reviews",
+            main_header, 
+            match_date,
+            club_prediction,
+            club_victor,
+            club_margin,
+            perf_plot_path,
+            spread_plot_path,
+            pred_text,
+            n_pred_text,
+            lineup_pred_text,
+            n_lineup_pred_text,
+            categories_list = ["review"],
+            player_table = player_table,
+            score_path = score_path,
+            prob_path = prob_path
+        )
 
         match_dir_strings.append(f'[{recent_game["date"].date().strftime("%Y-%m-%d") + " " + main_header}](reviews//{file_name})')
         match_comps.append(recent_game['competition'])
         match_levels.append(recent_game['comp_level'])
-        match_dates.append(recent_game["date"])
+        match_dates.append(match_date)
 
-        #rec_dir_md.new_paragraph(f'[{score_header}](reviews//{file_name})')
 
-        ## quick and dirty remove empty leading lines
-        clean_leading_space(f'temp//{file_name}.md', f'reviews//{file_name}.md')
 
 dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
 ## Add a summary of accuracy for each competition?
-dir_df = dir_df.sort_values('dates')
-dir_int = dir_df[dir_df.levels == 'International']
-dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
-dir_dom = dir_df[dir_df.levels == 'Domestic']
-if dir_int.shape[0] > 0:
-    rec_dir_md.new_header(level = 1, title = 'International Matches')
-    for comp in sorted(dir_int.comps.unique()):
-        rec_dir_md.new_header(level = 2, title = comp[:-5])
-        accuracy_lines = comp_accuracy_statements(matchlist, comp)
-        for line in accuracy_lines:
-            rec_dir_md.new_paragraph(line)
-        for _, row in dir_int[dir_int.comps == comp].iterrows():
-            rec_dir_md.new_paragraph(row[0])
-
-if dir_pro.shape[0] > 0:
-    rec_dir_md.new_header(level = 1, title = 'Professional Leagues')
-    for comp in sorted(dir_pro.comps.unique()):
-        rec_dir_md.new_header(level = 2, title = comp[:-5])
-        accuracy_lines = comp_accuracy_statements(matchlist, comp)
-        for line in accuracy_lines:
-            rec_dir_md.new_paragraph(line)
-        for _, row in dir_pro[dir_pro.comps == comp].iterrows():
-            rec_dir_md.new_paragraph(row[0])
-
-if dir_dom.shape[0] > 0:
-    rec_dir_md.new_header(level = 1, title = 'Domestic Leagues')
-    for comp in sorted(dir_dom.comps.unique()):
-        rec_dir_md.new_header(level = 2, title = comp[:-5])
-        accuracy_lines = comp_accuracy_statements(matchlist, comp)
-        for line in accuracy_lines:
-            rec_dir_md.new_paragraph(line)
-        for _, row in dir_dom[dir_dom.comps == comp].iterrows():
-            rec_dir_md.new_paragraph(row[0])
-
+fill_matches(dir_df, rec_dir_md)
 rec_dir_md.create_md_file()
 clean_leading_space(f'temp//Recent_Matches.md', f'Recent_Matches.md')
 
@@ -374,9 +440,7 @@ future_games =[x for x in match_list if 'point_diff' not in x.keys()]
 for future_game in future_games:
 
     pretty_name = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
-    file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
-    main_header = f'{future_game["away_team_name"]} ({round(future_game["lineup_away_elo"], 2)}) at {future_game["home_team_name"]} ({round(future_game["lineup_home_elo"], 2)})'
-    ratingless_header = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
+    print(pretty_name)
 
     home_color1, home_color2, away_color1, away_color2 = get_team_colors(future_game['home_team_name'], future_game['away_team_name'])
 
@@ -385,18 +449,7 @@ for future_game in future_games:
     away_club = clubbase[future_game['away_team_name']]
     expectation, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
     club_spread = spreads.mean()
-    club_prediction = np.round(expectation, 3)
-    club_victor = future_game['home_team_name'] if club_prediction >= 0.5 else future_game['away_team_name']
-    club_margin = np.round(club_spread, 1) if club_prediction >= 0.5 else np.round(club_spread, 1) * -1
     club_header = f'{future_game["away_team_name"]} (~{round(away_sims.mean(), 2)}) at {future_game["home_team_name"]} (~{round(home_sims.mean(), 2)})'
-
-    
-    perf_plot, spread_plot = glicko_club_plots(
-        home_sims, away_sims, future_game['home_team_name'], 
-        future_game['away_team_name'], "projections/proj", file_name, home_color1, 
-        away_color1, home_color2, away_color2
-        )
-
 
     # Player Predictions
     home_team = pd.DataFrame(future_game['home_team'][:, [0,1,-3, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
@@ -405,90 +458,63 @@ for future_game in future_games:
     away_team = pd.DataFrame(future_game['away_team'][:, [0,1,-3, -1]], columns = ['Number', 'Full_Name', 'Unicode_ID', 'elo'])
     away_team = away_team.merge(current_players, on=['Full_Name', 'Unicode_ID'])
     away_team = away_team.drop(['Unicode_ID'], axis = 1)
-
     home_team.columns = ['Number', 'Home Player', 'Home elo', 'Home Percentile']
     away_team.columns = ['Number', 'Away Player', 'Away elo', 'Away Percentile']
-
     named_players.append(home_team['Home Player'])
     named_players.append(away_team['Away Player'])
-
     home_team['Home Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in home_team['Home Player']]
     away_team['Away Player'] = [f"[{name}](..//playerfiles//{name.replace(' ', '')}_cleaned.md)" for name in away_team['Away Player']]
-
     all_players = pd.merge(home_team, away_team, on = 'Number')
     all_players = all_players.sort_values('Number')
     all_players = all_players.apply(pd.to_numeric, errors='ignore').round({'Home elo':2, 'Away elo':2})
     all_players = all_players[['Away Player', 'Away elo','Away Percentile', 'Number', 'Home Percentile', 'Home elo', 'Home Player']]
     player_table = tabulate(all_players, tablefmt="pipe", headers="keys", showindex=False)
 
-    fut_match_md = MdUtils(file_name=f'temp//{file_name}')
 
-    # yaml header
-    fut_match_md.new_line("HEADERSTART")
-    fut_match_md.new_line("---")
-    fut_match_md.new_line("layout: page")
-    fut_match_md.new_line(f'title: {pretty_name}')
-    fut_match_md.new_line(f'date: {future_game["date"]} 18:00:00 -0500')
-    fut_match_md.new_line("categories: match prediction")
-    fut_match_md.new_line("---")
-
-    print(pretty_name)
-
-    favorite = future_game["home_team_name"] if future_game["lineup_spread"] + home_advantage > 0 else future_game["away_team_name"]
-    pred_text = f'{favorite} by {round(abs(future_game["lineup_spread"] + home_advantage), 1)}'
-
-    n_favorite = future_game["home_team_name"] if future_game["lineup_spread"] > 0 else future_game["away_team_name"]
-    n_pred_text = f'{n_favorite} by {round(abs(future_game["lineup_spread"]), 1)} on a neutral pitch'
+    lineup_favorite = future_game["home_team_name"] if future_game["lineup_spread"] + home_advantage > 0 else future_game["away_team_name"]
+    n_lineup_favorite = future_game["home_team_name"] if future_game["lineup_spread"] > 0 else future_game["away_team_name"]
 
 
-    fut_match_md.new_header(level = 1, title = ratingless_header)
-    fut_match_md.new_header(level = 1, title = "Club Level Predictions")
-    fut_match_md.new_paragraph(
-        f"The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of {club_prediction}, which translates to predicting {club_victor} to win by {club_margin}."
+    file_name = f'{future_game["date"].date().strftime("%Y-%m-%d")}-{future_game["home_team_name"].replace(" ", "")}-{future_game["away_team_name"].replace(" ", "")}'
+    main_header = f'{future_game["away_team_name"]} at {future_game["home_team_name"]}'
+    match_date = future_game["date"]
+    club_prediction = np.round(expectation, 3)
+    club_victor = future_game['home_team_name'] if club_prediction >= 0.5 else future_game['away_team_name']
+    club_margin = np.round(club_spread, 1) if club_prediction >= 0.5 else np.round(club_spread, 1) * -1
+    perf_plot, spread_plot = glicko_club_plots(
+        home_sims, away_sims, future_game['home_team_name'], 
+        future_game['away_team_name'], "projections/", file_name, home_color1, 
+        away_color1, home_color2, away_color2
         )
-    fut_match_md.new_paragraph(
-        "Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below."
-        )
+    lineup_pred_text = f'{lineup_favorite} by {round(abs(future_game["lineup_spread"] + home_advantage ), 1)}'
+    n_lineup_pred_text = f'{n_lineup_favorite} by {round(abs(future_game["lineup_spread"]), 1)} on a neutral field'
 
-    fut_match_md.new_header(level=2, title = "Projected Performances")
-    fut_match_md.new_paragraph(f'![Projected Performances]({perf_plot})')
-
-    fut_match_md.new_header(level=2, title = "Projected Spreads")
-    fut_match_md.new_paragraph(f'![Projected Spreads]({spread_plot})')
-
-    fut_match_md.new_header(level=1, title = "Player Level Predictions")
-    fut_match_md.new_paragraph(
-        "Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. Before teamsheets are announced (and added here), team ratings are calculated as an average of recent team ratings."
-        )
-
-    fut_match_md.new_header(level = 2, title = "Predictions with Teamsheets")
-    fut_match_md.new_header(level = 3, title = main_header)
-    fut_match_md.new_header(level = 3, title = f'Prediction: {pred_text}')
-    fut_match_md.new_paragraph(n_pred_text)
-    fut_match_md.new_paragraph(player_table)
-    fut_match_md.new_paragraph()
-
-    #fut_match_md.new_header(level = 1, title = 'Elo Contributions')
-
-    all_players['home contributions'] = elo_contribition(all_players, 'Home elo')
-    all_players['away contributions'] = elo_contribition(all_players, 'Away elo')
-    #projection_contribution_plot(all_players, f"projections//{file_name}_contributions.html")
-    #fut_match_md.new_paragraph(f"{{% include_relative {file_name}_contributions.html %}}")
+    make_matchpage(
+        file_name,
+        "projections",
+        main_header, 
+        match_date,
+        club_prediction,
+        club_victor,
+        club_margin,
+        perf_plot_path = None,
+        spread_plot_path = None,
+        pred_text = None,
+        n_pred_text = None,
+        lineup_pred_text = lineup_pred_text,
+        n_lineup_pred_text = n_lineup_pred_text,
+        categories_list = ["projection"],
+        player_table = player_table,
+        score_path = None,
+        prob_path = None
+    )
 
     match_dir_strings.append(f'[{future_game["date"].date().strftime("%Y-%m-%d")} {club_header}](projections//{file_name})')
-    #short_comp_name = future_game['competition'][:-5] if future_game['competition'][-4:].isnumeric() else future_game['competition']
     match_comps.append(future_game['competition'])
     match_levels.append(future_game['comp_level'])
     match_dates.append(future_game["date"])
     future_names.append(pretty_name)
 
-
-    fut_match_md.create_md_file()
-
-    #fut_dir_md.new_paragraph(f'[{pretty_name}; {pred_text}](projections//{file_name})')
-
-    ## quick and dirty remove empty leading lines
-    clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
 
 print("FUTURE MATCHES - NO LINEUPS")
 all_fut_matches = glob.glob(os.path.join("../Rugby_ELO/future_matches", "*.psv"))
@@ -514,147 +540,96 @@ for _, row in fut_matches_df.iterrows():
     file_name = f'{match_date}-{row["Home Team"].replace(" ", "")}-{row["Away Team"].replace(" ", "")}'
 
     if pretty_name not in future_names:
-        # team colors
-        home_color1, home_color2, away_color1, away_color2 = get_team_colors(row['Home Team'], row['Away Team'])
-
-        # Club Level Info
-        home_club = clubbase[row['Home Team']]
-        away_club = clubbase[row['Away Team']]
-        expectation, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
-        club_spread = spreads.mean()
-        club_prediction = np.round(expectation, 3)
-        club_victor = row['Home Team'] if club_prediction >= 0.5 else row['Away Team']
-        club_margin = np.round(club_spread, 1) if club_prediction >= 0.5 else np.round(club_spread, 1) * -1
-        club_header = f'{row["Away Team"]} (~{round(away_sims.mean(), 2)}) at {row["Home Team"]} (~{round(home_sims.mean(), 2)})'
-
-        perf_plot, spread_plot = glicko_club_plots(
-            home_sims, away_sims, row['Home Team'], 
-            row['Away Team'], "projections/proj", file_name, home_color1, 
-            away_color1, home_color2, away_color2
-            )
-
-        # Player Ranks
-        ## Use current player elos, but historic team + minutes
-        home_team = teamlist[row['Home Team']]
-        away_team = teamlist[row['Away Team']]
-
-        home_team_elos = [
-            team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
-            if matchlist[x['Match_Name']].home_team_name == row['Home Team'] 
-            else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
-            for x in home_team.history[-5:]
-            ]
-        away_team_elos = [
-            team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
-            if matchlist[x['Match_Name']].home_team_name == row['Away Team'] 
-            else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
-            for x in away_team.history[-5:]
-            ]
-
-        #home_team_elos = [x['elo'] for x in home_team.history[-5:]]
-        #away_team_elos = [x['elo'] for x in away_team.history[-5:]]
-        historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
-        home_elo_avg = sum(np.multiply(home_team_elos, historic_weighting))
-        away_elo_avg = sum(np.multiply(away_team_elos, historic_weighting))
-
-        imputed_spread =  (home_elo_avg -  away_elo_avg) / 10 #GLOBAL_score_factor == 10, this should not be hard-coded
-        main_header = f'{row["Away Team"]} (~{round(away_elo_avg, 2)}) at {row["Home Team"]} (~{round(home_elo_avg, 2)})'
-        ratingless_header = f'{row["Away Team"]} at {row["Home Team"]}'
-
-        fut_match_md = MdUtils(file_name=f'temp//{file_name}')
-
-        # yaml header
-        fut_match_md.new_line("HEADERSTART")
-        fut_match_md.new_line("---")
-        fut_match_md.new_line("layout: page")
-        fut_match_md.new_line(f'title: {pretty_name}')
-        fut_match_md.new_line(f'date: {row["Date"]} 18:00:00 -0500')
-        fut_match_md.new_line("categories: match prediction imputed")
-        fut_match_md.new_line("---")
-
         print(pretty_name)
 
-        favorite = row["Home Team"] if imputed_spread + home_advantage > 0 else row["Away Team"]
-        pred_text = f'{favorite} by {round(abs(imputed_spread + home_advantage), 1)}'
+        if (row['Home Team'] in clubbase.keys()) & (row['Away Team'] in clubbase.keys()):
+            # team colors
+            home_color1, home_color2, away_color1, away_color2 = get_team_colors(row['Home Team'], row['Away Team'])
 
-        n_favorite = row["Home Team"] if imputed_spread > 0 else row["Away Team"]
-        n_pred_text = f'{n_favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
+            # Club Level Info
+            home_club = clubbase[row['Home Team']]
+            away_club = clubbase[row['Away Team']]
+            expectation, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
+            club_spread = spreads.mean()
+            club_prediction = np.round(expectation, 3)
+            club_victor = row['Home Team'] if club_prediction >= 0.5 else row['Away Team']
+            club_margin = np.round(club_spread, 1) if club_prediction >= 0.5 else np.round(club_spread, 1) * -1
+            club_header = f'{row["Away Team"]} (~{round(away_sims.mean(), 2)}) at {row["Home Team"]} (~{round(home_sims.mean(), 2)})'
 
-        fut_match_md.new_header(level = 1, title = ratingless_header)
-        fut_match_md.new_header(level = 1, title = "Club Level Predictions")
-        fut_match_md.new_paragraph(
-            f"The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of {club_prediction}, which translates to predicting {club_victor} to win by {club_margin}."
+            perf_plot, spread_plot = glicko_club_plots(
+                home_sims, away_sims, row['Home Team'], 
+                row['Away Team'], "projections/", file_name, home_color1, 
+                away_color1, home_color2, away_color2
+                )
+
+            # Player Ranks
+            ## Use current player elos, but historic team + minutes
+            home_team = teamlist[row['Home Team']]
+            away_team = teamlist[row['Away Team']]
+
+            home_team_elos = [
+                team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
+                if matchlist[x['Match_Name']].home_team_name == row['Home Team'] 
+                else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
+                for x in home_team.history[-5:]
+                ]
+            away_team_elos = [
+                team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
+                if matchlist[x['Match_Name']].home_team_name == row['Away Team'] 
+                else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
+                for x in away_team.history[-5:]
+                ]
+
+            #home_team_elos = [x['elo'] for x in home_team.history[-5:]]
+            #away_team_elos = [x['elo'] for x in away_team.history[-5:]]
+            historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
+            home_elo_avg = sum(np.multiply(home_team_elos, historic_weighting))
+            away_elo_avg = sum(np.multiply(away_team_elos, historic_weighting))
+
+            imputed_spread =  (home_elo_avg -  away_elo_avg) / 10 #GLOBAL_score_factor == 10, this should not be hard-coded
+            main_header = f'{row["Away Team"]} (~{round(away_elo_avg, 2)}) at {row["Home Team"]} (~{round(home_elo_avg, 2)})'
+
+            favorite = row["Home Team"] if imputed_spread + home_advantage > 0 else row["Away Team"]
+            pred_text = f'{favorite} by {round(abs(imputed_spread + home_advantage), 1)}'
+
+            n_favorite = row["Home Team"] if imputed_spread > 0 else row["Away Team"]
+            n_pred_text = f'{n_favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
+
+            make_matchpage(
+                file_name,
+                "projections",
+                pretty_name,
+                match_date,
+                club_prediction,
+                club_victor,
+                club_margin,
+                perf_plot_path = perf_plot,
+                spread_plot_path = spread_plot,
+                pred_text = None,
+                n_pred_text = None,
+                lineup_pred_text = pred_text,
+                n_lineup_pred_text = n_pred_text,
+                categories_list = ["projection", "imputed"],
+                player_table = None,
+                score_path = None,
+                prob_path = None
             )
-        fut_match_md.new_paragraph(
-            "Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below."
-            )
 
-        fut_match_md.new_header(level=2, title = "Projected Performances")
-        fut_match_md.new_paragraph(f'![Projected Performances]({perf_plot})')
-
-        fut_match_md.new_header(level=2, title = "Projected Spreads")
-        fut_match_md.new_paragraph(f'![Projected Spreads]({spread_plot})')
-
-        fut_match_md.new_header(level=1, title = "Player Level Predictions")
-        fut_match_md.new_paragraph(
-            "Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. Before teamsheets are announced (and added here), team ratings are calculated as an average of recent team ratings."
-            )
-
-        fut_match_md.new_header(level = 2, title = "Predictions without Teamsheets")
-        fut_match_md.new_header(level = 3, title = main_header)
-        fut_match_md.new_header(level = 4, title = f'Prediction: {pred_text}')
-        fut_match_md.new_paragraph(n_pred_text)
-        fut_match_md.new_paragraph()
-
-        match_dir_strings.append(f'[{match_date} {club_header}](projections//{file_name})')
-        match_comps.append(row['Competition'])
-        match_levels.append(row['comp_level'])
-        match_dates.append(match_date)
-
-        fut_match_md.create_md_file()
-
-        clean_leading_space(f'temp//{file_name}.md', f'projections//{file_name}.md')
+            match_dir_strings.append(f'[{match_date} {club_header}](projections//{file_name})')
+            match_comps.append(row['Competition'])
+            match_levels.append(row['comp_level'])
+            match_dates.append(match_date)
+    
+        else:
+            match_dir_strings.append(f'{match_date} {pretty_name}')
+            match_comps.append(row['Competition'])
+            match_levels.append(row['comp_level'])
+            match_dates.append(match_date)
 
 
 
 dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
-dir_df = dir_df.sort_values('dates')
-dir_int = dir_df[dir_df.levels == 'International']
-dir_pro = dir_df[(dir_df.levels == 'Pro1')|(dir_df.levels == 'Pro0')]
-dir_dom = dir_df[dir_df.levels == 'Domestic']
-if dir_int.shape[0] > 0:
-    fut_dir_md.new_header(level = 1, title = 'International Matches')
-    for comp in sorted(dir_int.comps.unique()):
-        fut_dir_md.new_header(level = 2, title = comp[:-5])
-        accuracy_lines = comp_accuracy_statements(matchlist, comp)
-        for line in accuracy_lines:
-            fut_dir_md.new_paragraph(line)
-            
-        for _, row in dir_int[dir_int.comps == comp].iterrows():
-            fut_dir_md.new_paragraph(row[0])
-
-if dir_pro.shape[0] > 0:
-    fut_dir_md.new_header(level = 1, title = 'Professional Leagues')
-    for comp in sorted(dir_pro.comps.unique()):
-        fut_dir_md.new_header(level = 2, title = comp[:-5])
-        accuracy_lines = comp_accuracy_statements(matchlist, comp)
-        for line in accuracy_lines:
-            fut_dir_md.new_paragraph(line)
-            
-        for _, row in dir_pro[dir_pro.comps == comp].iterrows():
-            fut_dir_md.new_paragraph(row[0])
-
-if dir_dom.shape[0] > 0:
-    fut_dir_md.new_header(level = 1, title = 'Domestic Leagues')
-    for comp in sorted(dir_dom.comps.unique()):
-        fut_dir_md.new_header(level = 2, title = comp[:-5])
-        accuracy_lines = comp_accuracy_statements(matchlist, comp)
-        for line in accuracy_lines:
-            fut_dir_md.new_paragraph(line)
-            
-        for _, row in dir_dom[dir_dom.comps == comp].iterrows():
-            fut_dir_md.new_paragraph(row[0])
-
+fill_matches(dir_df, fut_dir_md)
 fut_dir_md.create_md_file()
 clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 

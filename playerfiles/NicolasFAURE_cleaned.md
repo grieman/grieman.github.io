@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas FAURE  
-date: 2023-01-23 15:31:02.226642  
+date: 2023-01-30 18:29:41.163305  
 categories: player  
 ---
 # Nicolas FAURE
 
 ## Positions: SH
 
-## Current elo: 117.0
+## Current elo: 115.0
 
-## Current Percentile: 95.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Bourgoin-Jallieu           |            56 |   0.401786 |
-| US Bressane                |            32 |   0.453125 |
+| US Bressane                |            33 |   0.439394 |
 | Valence Romans Drome Rugby |            20 |   0.325    |
 | Roval Drome XV             |            13 |   0.230769 |
 
@@ -48,6 +48,7 @@ categories: player
 | Oyonnax                    |         3 |   0        |
 | Grenoble                   |         3 |   0.333333 |
 | Agen                       |         2 |   0.5      |
+| Blagnac                    |         2 |   0.5      |
 | Lyon                       |         2 |   0        |
 | La Rochelle                |         1 |   0        |
 | Nice                       |         1 |   1        |
@@ -56,7 +57,6 @@ categories: player
 | Carqueiranne-Hyères        |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Rennes                     |         1 |   1        |
-| Blagnac                    |         1 |   1        |
 | Auch                       |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Tarbes                     |         1 |   1        |

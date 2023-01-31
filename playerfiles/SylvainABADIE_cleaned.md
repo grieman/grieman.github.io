@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sylvain ABADIE  
-date: 2023-01-27 19:00:11.590297  
+date: 2023-01-30 18:32:47.293380  
 categories: player  
 ---
 # Sylvain ABADIE
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 99.0
 
 ## Current Percentile: 60.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            52 |   0.471154 |
+| Narbonne |            53 |   0.462264 |
 | Auch     |            45 |   0.355556 |
 | Massy    |            36 |   0.375    |
 
@@ -35,8 +35,8 @@ categories: player
 | Bayonne                    |         6 |   0        |
 | Bourgoin-Jallieu           |         6 |   0.5      |
 | Carcassonne                |         6 |   0.5      |
+| Albi                       |         6 |   0.25     |
 | US Bressane                |         5 |   0.6      |
-| Albi                       |         5 |   0.3      |
 | Vannes                     |         4 |   0.25     |
 | Narbonne                   |         4 |   0.625    |
 | Montauban                  |         4 |   0        |

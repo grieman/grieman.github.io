@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Naoki Ouno  
-date: 2023-01-23 15:28:56.761758  
+date: 2023-01-30 18:29:33.026820  
 categories: player  
 ---
 # Naoki Ouno
 
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 102.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             7 |   0.285714 |
+| Kamaishi Seawaves |             8 |       0.25 |
 
-| Opponent                 |   Matches |   Win Rate |
-|:-------------------------|----------:|-----------:|
-| Hino Red Dolphins        |         2 |        0   |
-| Skyactivs Hiroshima      |         2 |        0.5 |
-| Hanazono Kintetsu Liners |         1 |        0   |
-| Mitsubishi Dynaboars     |         1 |        0   |
-| Shimizu Blue Sharks      |         1 |        1   |
+| Opponent                         |   Matches |   Win Rate |
+|:---------------------------------|----------:|-----------:|
+| Hino Red Dolphins                |         2 |        0   |
+| Skyactivs Hiroshima              |         2 |        0.5 |
+| Hanazono Kintetsu Liners         |         1 |        0   |
+| Mitsubishi Dynaboars             |         1 |        0   |
+| Shimizu Blue Sharks              |         1 |        1   |
+| Toyota Industries Shuttles Aichi |         1 |        0   |

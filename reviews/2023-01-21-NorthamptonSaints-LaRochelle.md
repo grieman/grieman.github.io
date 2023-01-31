@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-NorthamptonSaints-LaRochelle.png)
+![Projected Performances](plots/performances_2023-01-21-NorthamptonSaints-LaRochelle.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-NorthamptonSaints-LaRochelle.png)
+![Projected Spreads](plots/spreads_2023-01-21-NorthamptonSaints-LaRochelle.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ La Rochelle by 18.6 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-NorthamptonSaints-LaRochelle.png)
+![In Match Scores](plots/recap_scores_2023-01-21-NorthamptonSaints-LaRochelle.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-NorthamptonSaints-LaRochelle.png)
+![In Match Predictions](plots/recap_prob_2023-01-21-NorthamptonSaints-LaRochelle.png)
 ## Prediction without Player Minutes: La Rochelle by 16.4
 
 

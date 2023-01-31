@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-22-Cheetahs-Pau.png)
+![Projected Performances](plots/performances_2023-01-22-Cheetahs-Pau.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-22-Cheetahs-Pau.png)
+![Projected Spreads](plots/spreads_2023-01-22-Cheetahs-Pau.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Cheetahs by 2.9 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-22-Cheetahs-Pau.png)
+![In Match Scores](plots/recap_scores_2023-01-22-Cheetahs-Pau.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-22-Cheetahs-Pau.png)
+![In Match Predictions](plots/recap_prob_2023-01-22-Cheetahs-Pau.png)
 ## Prediction without Player Minutes: Cheetahs by 0.0
 
 

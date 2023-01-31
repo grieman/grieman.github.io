@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-Harlequins-Sharks.png)
+![Projected Performances](plots/performances_2023-01-21-Harlequins-Sharks.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-Harlequins-Sharks.png)
+![Projected Spreads](plots/spreads_2023-01-21-Harlequins-Sharks.png)
 # Player Level Predictions
 
 
@@ -31,12 +31,12 @@ Sharks by 1.7 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-Harlequins-Sharks.png)
+![In Match Scores](plots/recap_scores_2023-01-21-Harlequins-Sharks.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-Harlequins-Sharks.png)
-## Prediction without Player Minutes: Sharks by 0.1
+![In Match Predictions](plots/recap_prob_2023-01-21-Harlequins-Sharks.png)
+## Prediction without Player Minutes: Harlequins by 0.1
 
 
 Sharks by 3.9 on a neutral pitch

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas CACHET  
-date: 2023-01-23 15:30:15.444214  
+date: 2023-01-30 18:29:54.717591  
 categories: player  
 ---
 # Nicolas CACHET
 
 ## Positions: FB, FH
 
-## Current elo: 76.0
+## Current elo: 74.0
 
-## Current Percentile: 11.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| Bourgoin-Jallieu |            44 |   0.375    |
 | Dax              |            44 |   0.397727 |
-| Bourgoin-Jallieu |            43 |   0.383721 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         6 |   0.5      |
+| Dax                        |         6 |   0.333333 |
 | Massy                      |         5 |   0.4      |
 | Albi                       |         5 |   0        |
-| Dax                        |         5 |   0.4      |
 | Vannes                     |         4 |   0.75     |
 | Soyaux-Angouleme           |         4 |   0        |
 | Tarbes                     |         4 |   0.25     |

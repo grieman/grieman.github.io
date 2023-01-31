@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William DEMOTTE  
-date: 2023-01-21 15:42:29.547803  
+date: 2023-01-30 18:31:44.106361  
 categories: player  
 ---
 # William DEMOTTE
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 63.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Agen        |           115 |   0.452174 |
+| Agen        |           116 |   0.456897 |
 | Grenoble    |            20 |   0.55     |
 | La Rochelle |            18 |   0.527778 |
 | France      |             1 |   0        |
@@ -37,11 +37,11 @@ categories: player
 | Vannes               |         6 |   0.75     |
 | Narbonne             |         6 |   0.666667 |
 | Beziers              |         6 |   0.333333 |
+| Biarritz Olympique   |         6 |   0.5      |
 | Pau                  |         6 |   0.333333 |
 | Clermont Auvergne    |         5 |   0.2      |
 | Grenoble             |         5 |   0.2      |
 | Stade Francais Paris |         5 |   0.2      |
-| Biarritz Olympique   |         5 |   0.4      |
 | Racing 92            |         5 |   0.2      |
 | Carcassonne          |         5 |   0.6      |
 | Perpignan            |         4 |   0.25     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zhorzhi (Jorji) SALDADZE  
-date: 2023-01-23 15:35:08.419329  
+date: 2023-01-30 18:31:01.685607  
 categories: player  
 ---
 # Zhorzhi (Jorji) SALDADZE
@@ -21,8 +21,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Beziers            |            33 |    0.30303 |
-| Biarritz Olympique |             2 |    0.5     |
+| Beziers            |            33 |   0.30303  |
+| Biarritz Olympique |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Rouen                      |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
 | Oyonnax                    |         2 |   0        |
+| Agen                       |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
 | Montauban                  |         1 |   1        |
 | Carcassonne                |         1 |   0        |
@@ -43,4 +44,3 @@ categories: player
 | Bayonne                    |         1 |   0        |
 | US Bressane                |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Agen                       |         1 |   1        |

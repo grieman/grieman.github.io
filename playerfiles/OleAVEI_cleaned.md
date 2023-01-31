@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ole AVEI  
-date: 2023-01-23 15:31:06.576767  
+date: 2023-01-30 18:29:22.895450  
 categories: player  
 ---
 # Ole AVEI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Bordeaux Begles  |           170 |   0.5      |
-| Soyaux-Angouleme |            53 |   0.528302 |
+| Soyaux-Angouleme |            54 |   0.518519 |
 | Racing 92        |            29 |   0.586207 |
 | Samoa            |            17 |   0.411765 |
 
@@ -46,8 +46,8 @@ categories: player
 | La Rochelle                |         8 |   0.375    |
 | Mont-de-Marsan             |         7 |   0.714286 |
 | Agen                       |         7 |   0.714286 |
+| Colomiers                  |         6 |   0.5      |
 | Biarritz Olympique         |         6 |   0.5      |
-| Colomiers                  |         5 |   0.6      |
 | Oyonnax                    |         5 |   0.4      |
 | Aurillac                   |         5 |   0.6      |
 | Rouen                      |         4 |   0.5      |

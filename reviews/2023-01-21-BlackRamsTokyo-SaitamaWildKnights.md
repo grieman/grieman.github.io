@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
+![Projected Performances](plots/performances_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
+![Projected Spreads](plots/spreads_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
 # Player Level Predictions
 
 
@@ -31,12 +31,12 @@ Saitama Wild Knights by 1.4 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
+![In Match Scores](plots/recap_scores_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
-## Prediction without Player Minutes: Saitama Wild Knights by 1.8
+![In Match Predictions](plots/recap_prob_2023-01-21-BlackRamsTokyo-SaitamaWildKnights.png)
+## Prediction without Player Minutes: Black Rams Tokyo by 1.8
 
 
 Saitama Wild Knights by 2.2 on a neutral pitch

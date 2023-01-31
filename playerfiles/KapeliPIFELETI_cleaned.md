@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kapeli PIFELETI  
-date: 2023-01-27 19:00:25.595655  
+date: 2023-01-30 18:31:55.403684  
 categories: player  
 ---
 # Kapeli PIFELETI
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Saracens                 |            29 |   0.551724 |
+| Saracens                 |            30 |   0.566667 |
 | San Diego Legion         |            13 |   0.730769 |
 | United States of America |             6 |   0.583333 |
 
@@ -31,23 +31,24 @@ categories: player
 |:-------------------|----------:|-----------:|
 | Exeter Chiefs      |         5 |       0.8  |
 | Leicester Tigers   |         2 |       0.5  |
-| Newcastle Falcons  |         2 |       1    |
+| Gloucester Rugby   |         2 |       0.5  |
+| NOLA Gold          |         2 |       1    |
 | London Irish       |         2 |       0    |
 | Bath Rugby         |         2 |       1    |
 | R.U. New York      |         2 |       0.5  |
 | Sale Sharks        |         2 |       0.5  |
 | Seattle Seawolves  |         2 |       1    |
-| Gloucester Rugby   |         2 |       0.5  |
+| Toronto Arrows     |         2 |       0    |
 | Glendale Raptors   |         2 |       0.75 |
 | Edinburgh          |         2 |       0    |
-| Toronto Arrows     |         2 |       0    |
 | Wasps              |         2 |       0    |
-| NOLA Gold          |         2 |       1    |
+| Bristol Rugby      |         2 |       1    |
+| Newcastle Falcons  |         2 |       1    |
+| Northampton Saints |         1 |       0    |
 | Richmond           |         1 |       1    |
 | Uruguay            |         1 |       0    |
-| Portugal           |         1 |       0.5  |
 | Utah Warriors      |         1 |       1    |
-| Northampton Saints |         1 |       0    |
+| Portugal           |         1 |       0.5  |
 | Austin Elite Rugby |         1 |       1    |
 | Munster            |         1 |       0    |
 | Jersey             |         1 |       1    |
@@ -58,5 +59,4 @@ categories: player
 | Cornish Pirates    |         1 |       0    |
 | Chile              |         1 |       1    |
 | Canada             |         1 |       1    |
-| Bristol Rugby      |         1 |       1    |
 | Worcester Warriors |         1 |       1    |

@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-BenettonTreviso-Munster.png)
+![Projected Performances](plots/performances_2023-01-28-BenettonTreviso-Munster.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-BenettonTreviso-Munster.png)
+![Projected Spreads](plots/spreads_2023-01-28-BenettonTreviso-Munster.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Munster by 8.0 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-BenettonTreviso-Munster.png)
+![In Match Scores](plots/recap_scores_2023-01-28-BenettonTreviso-Munster.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-BenettonTreviso-Munster.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-BenettonTreviso-Munster.png)
 ## Prediction without Player Minutes: Munster by 11.1
 
 
@@ -59,10 +59,10 @@ Munster by 15.1 on a neutral pitch
 |             67 | [Malakai Fekitoa](..//playerfiles//MalakaiFekitoa_cleaned.md)   |     126.33 |                94 |       12 |                36 |      90.38 | [Filippo Drago](..//playerfiles//FilippoDrago_cleaned.md)                |             80 |
 |             80 | [Antoine Frisch](..//playerfiles//AntoineFrisch_cleaned.md)     |     102.61 |                66 |       13 |                89 |     118.69 | [Marco Zanon](..//playerfiles//MarcoZanon_cleaned.md)                    |             80 |
 |             20 | [Calvin Nash](..//playerfiles//CalvinNash_cleaned.md)           |     129.98 |                96 |       14 |                16 |      83.34 | [Ignacio Mendy](..//playerfiles//IgnacioMendy_cleaned.md)                |             80 |
-|             80 | [Shane Daly](..//playerfiles//ShaneDaly_cleaned.md)             |     124.17 |                93 |       15 |                73 |     107.15 | [Rhyno Smith](..//playerfiles//RhynoSmith_cleaned.md)                    |             80 |
+|             80 | [Shane Daly](..//playerfiles//ShaneDaly_cleaned.md)             |     124.17 |                93 |       15 |                72 |     107.15 | [Rhyno Smith](..//playerfiles//RhynoSmith_cleaned.md)                    |             80 |
 |             60 | [Ben Healy](..//playerfiles//BenHealy_cleaned.md)               |      97.09 |                44 |       16 |                80 |     109.53 | [Marcus Watson](..//playerfiles//MarcusWatson_cleaned.md)                |             48 |
-|             25 | [Stephen Archer](..//playerfiles//StephenArcher_cleaned.md)     |      92.75 |                38 |       17 |                68 |     100.64 | [Thomas Gallo](..//playerfiles//ThomasGallo_cleaned.md)                  |             33 |
-|             25 | [Cian Hurley](..//playerfiles//CianHurley_cleaned.md)           |      92.47 |               nan |       18 |                24 |      85.93 | [Carl Wegner](..//playerfiles//CarlWegner_cleaned.md)                    |             33 |
+|             25 | [Stephen Archer](..//playerfiles//StephenArcher_cleaned.md)     |      92.75 |                39 |       17 |                69 |     100.64 | [Thomas Gallo](..//playerfiles//ThomasGallo_cleaned.md)                  |             33 |
+|             25 | [Cian Hurley](..//playerfiles//CianHurley_cleaned.md)           |      92.47 |               nan |       18 |                23 |      85.93 | [Carl Wegner](..//playerfiles//CarlWegner_cleaned.md)                    |             33 |
 |             13 | [Rory Scannell](..//playerfiles//RoryScannell_cleaned.md)       |     112.05 |                82 |       19 |                12 |      79.74 | [Braam Steyn](..//playerfiles//BraamSteyn_cleaned.md)                    |             29 |
 |              7 | [Ruadhan Quinn](..//playerfiles//RuadhanQuinn_cleaned.md)       |      96.37 |               nan |       20 |                64 |     101.85 | [Manfredi Albanese](..//playerfiles//ManfrediAlbanese_cleaned.md)        |              7 |
 |              8 | [Mark Donnelly](..//playerfiles//MarkDonnelly_cleaned.md)       |      95    |               nan |       21 |                41 |      93.41 | [Filippo Alongi](..//playerfiles//FilippoAlongi_cleaned.md)              |             17 |

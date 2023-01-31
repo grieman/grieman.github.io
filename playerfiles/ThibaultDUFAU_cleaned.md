@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault DUFAU  
-date: 2023-01-27 19:02:06.690712  
+date: 2023-01-30 18:30:35.636671  
 categories: player  
 ---
 # Thibault DUFAU
 
 ## Positions: SH
 
-## Current elo: 121.0
+## Current elo: 125.0
 
-## Current Percentile: 90.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -22,15 +22,15 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Dijon          |            37 |   0.324324 |
-| Chambery       |            12 |   0.5      |
+| Chambery       |            13 |   0.538462 |
 | Provence Rugby |             7 |   0.428571 |
 | Perpignan      |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Tarbes                     |         5 |   0.5      |
+| Cognac Saint Jean d'Angély |         5 |   0.2      |
 | Bourgoin-Jallieu           |         4 |   0        |
-| Cognac Saint Jean d'Angély |         4 |   0        |
 | Suresnes                   |         4 |   0.25     |
 | Dax                        |         4 |   0        |
 | Nice                       |         4 |   0.5      |

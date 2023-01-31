@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Edinburgh-Sharks.png)
+![Projected Performances](plots/performances_2023-01-28-Edinburgh-Sharks.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Edinburgh-Sharks.png)
+![Projected Spreads](plots/spreads_2023-01-28-Edinburgh-Sharks.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Sharks by 7.7 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Edinburgh-Sharks.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Edinburgh-Sharks.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Edinburgh-Sharks.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Edinburgh-Sharks.png)
 ## Prediction without Player Minutes: Sharks by 2.1
 
 
@@ -61,11 +61,11 @@ Sharks by 6.1 on a neutral pitch
 |             80 | [Marnus Potgieter](..//playerfiles//MarnusPotgieter_cleaned.md)                  |     101.57 |                66 |       14 |                60 |      98.89 | [Wes Goosen](..//playerfiles//WesGoosen_cleaned.md)               |             80 |
 |             80 | [Aphelele Fassi](..//playerfiles//ApheleleFassi_cleaned.md)                      |     136.97 |                96 |       15 |                62 |     102.21 | [Henry Immelman](..//playerfiles//HenryImmelman_cleaned.md)       |             80 |
 |             21 | [Khuthuzani Kingdom Mchunu](..//playerfiles//KhuthuzaniKingdomMchunu_cleaned.md) |      91.62 |                38 |       16 |                77 |     106.68 | [Charlie Shiel](..//playerfiles//CharlieShiel_cleaned.md)         |             35 |
-|             15 | [Daniel Viljoen Jooste](..//playerfiles//DanielViljoenJooste_cleaned.md)         |      99.22 |                62 |       17 |                71 |     103.09 | [Dave Cherry](..//playerfiles//DaveCherry_cleaned.md)             |             31 |
+|             15 | [Daniel Viljoen Jooste](..//playerfiles//DanielViljoenJooste_cleaned.md)         |      99.22 |                63 |       17 |                71 |     103.09 | [Dave Cherry](..//playerfiles//DaveCherry_cleaned.md)             |             31 |
 |             20 | [Carlu Sadie](..//playerfiles//CarluSadie_cleaned.md)                            |      95.18 |                49 |       18 |                 7 |      74.36 | [Lee-Roy Atalifo](..//playerfiles//Lee-RoyAtalifo_cleaned.md)     |             31 |
-|             15 | [Reniel Hugo](..//playerfiles//RenielHugo_cleaned.md)                            |     122.48 |                93 |       19 |                53 |      97.14 | [Jamie Hodgson](..//playerfiles//JamieHodgson_cleaned.md)         |             20 |
-|             17 | [Sikhumbuzo Notshe](..//playerfiles//SikhumbuzoNotshe_cleaned.md)                |     111.25 |                82 |       20 |                69 |     105.49 | [Ben Muncaster](..//playerfiles//BenMuncaster_cleaned.md)         |             14 |
-|             40 | [Cameron Wright](..//playerfiles//CameronWright_cleaned.md)                      |      91.51 |                32 |       21 |                21 |      84.15 | [Luan de Bruin](..//playerfiles//LuandeBruin_cleaned.md)          |             16 |
+|             15 | [Reniel Hugo](..//playerfiles//RenielHugo_cleaned.md)                            |     122.48 |                93 |       19 |                52 |      97.14 | [Jamie Hodgson](..//playerfiles//JamieHodgson_cleaned.md)         |             20 |
+|             17 | [Sikhumbuzo Notshe](..//playerfiles//SikhumbuzoNotshe_cleaned.md)                |     111.25 |                83 |       20 |                70 |     105.49 | [Ben Muncaster](..//playerfiles//BenMuncaster_cleaned.md)         |             14 |
+|             40 | [Cameron Wright](..//playerfiles//CameronWright_cleaned.md)                      |      91.51 |                33 |       21 |                21 |      84.15 | [Luan de Bruin](..//playerfiles//LuandeBruin_cleaned.md)          |             16 |
 |              8 | [Yaw Penxe](..//playerfiles//YawPenxe_cleaned.md)                                |      71.6  |                 6 |       22 |                70 |     104.54 | [Cameron Hutchison](..//playerfiles//CameronHutchison_cleaned.md) |             13 |
-|            nan | nan                                                                              |     nan    |               nan |       23 |                76 |     107.56 | [Jaco van der Walt](..//playerfiles//JacovanderWalt_cleaned.md)   |              6 |
+|            nan | nan                                                                              |     nan    |               nan |       23 |                75 |     107.56 | [Jaco van der Walt](..//playerfiles//JacovanderWalt_cleaned.md)   |              6 |
 

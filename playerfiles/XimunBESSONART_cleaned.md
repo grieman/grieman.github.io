@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ximun BESSONART  
-date: 2023-01-21 15:39:03.402995  
+date: 2023-01-30 18:32:43.574842  
 categories: player  
 ---
 # Ximun BESSONART
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 87.0
 
 ## Current Percentile: 29.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Tarbes             |            38 |   0.513158 |
-| Vannes             |            14 |   0.607143 |
+| Vannes             |            15 |   0.566667 |
 | Biarritz Olympique |             4 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,6 +39,7 @@ categories: player
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Oyonnax                    |         2 |   0        |
 | Nice                       |         2 |   0.25     |
+| Nevers                     |         2 |   0.5      |
 | Narbonne                   |         2 |   0        |
 | Montauban                  |         2 |   0.75     |
 | Agen                       |         2 |   0        |
@@ -48,7 +49,6 @@ categories: player
 | Mont-de-Marsan             |         1 |   0        |
 | Colomiers                  |         1 |   1        |
 | Chambery                   |         1 |   0        |
-| Nevers                     |         1 |   1        |
 | Carcassonne                |         1 |   1        |
 | Provence Rugby             |         1 |   1        |
 | Biarritz Olympique         |         1 |   1        |

@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
+![Projected Performances](plots/performances_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
+![Projected Spreads](plots/spreads_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Mitsubishi Dynaboars by 9.6 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
+![In Match Scores](plots/recap_scores_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
+![In Match Predictions](plots/recap_prob_2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs.png)
 ## Prediction without Player Minutes: Mitsubishi Dynaboars by 11.5
 
 

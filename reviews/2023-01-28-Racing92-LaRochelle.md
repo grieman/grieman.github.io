@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-28-Racing92-LaRochelle.png)
+![Projected Performances](plots/performances_2023-01-28-Racing92-LaRochelle.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-28-Racing92-LaRochelle.png)
+![Projected Spreads](plots/spreads_2023-01-28-Racing92-LaRochelle.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ La Rochelle by 6.4 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-28-Racing92-LaRochelle.png)
+![In Match Scores](plots/recap_scores_2023-01-28-Racing92-LaRochelle.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-28-Racing92-LaRochelle.png)
+![In Match Predictions](plots/recap_prob_2023-01-28-Racing92-LaRochelle.png)
 ## Prediction without Player Minutes: La Rochelle by 3.9
 
 
@@ -59,12 +59,12 @@ La Rochelle by 7.9 on a neutral pitch
 |             80 | [Jules Favre](..//playerfiles//JulesFavre_cleaned.md)                     |     129.5  |                96 |       12 |                91 |     120.38 | [Henry Chavancy](..//playerfiles//HenryChavancy_cleaned.md)           |             80 |
 |             80 | [Ulupano Seuteni](..//playerfiles//UlupanoSeuteni_cleaned.md)             |      88.3  |                30 |       13 |                75 |     106.83 | [Francis Saili](..//playerfiles//FrancisSaili_cleaned.md)             |             56 |
 |             80 | [Teddy Thomas](..//playerfiles//TeddyThomas_cleaned.md)                   |     116.47 |                87 |       14 |                57 |      98.38 | [Donovan Taofifenua](..//playerfiles//DonovanTaofifenua_cleaned.md)   |             80 |
-|             61 | [Pierre Popelin](..//playerfiles//PierrePopelin_cleaned.md)               |      89.98 |                25 |       15 |                36 |      90.09 | [Max Spring](..//playerfiles//MaxSpring_cleaned.md)                   |             80 |
+|             61 | [Pierre Popelin](..//playerfiles//PierrePopelin_cleaned.md)               |      89.98 |                25 |       15 |                35 |      90.09 | [Max Spring](..//playerfiles//MaxSpring_cleaned.md)                   |             80 |
 |             64 | [Paul Boudehent](..//playerfiles//PaulBoudehent_cleaned.md)               |      88.73 |                25 |       16 |                79 |     110.17 | [Olivier Klemenczak](..//playerfiles//OlivierKlemenczak_cleaned.md)   |             64 |
-|             39 | [Levani Botia Veivuke](..//playerfiles//LevaniBotiaVeivuke_cleaned.md)    |     116.07 |                88 |       17 |                90 |     118.45 | [Anton Bresler](..//playerfiles//AntonBresler_cleaned.md)             |             39 |
+|             39 | [Levani Botia Veivuke](..//playerfiles//LevaniBotiaVeivuke_cleaned.md)    |     116.07 |                87 |       17 |                90 |     118.45 | [Anton Bresler](..//playerfiles//AntonBresler_cleaned.md)             |             39 |
 |             35 | [Aleksandre Kuntelia](..//playerfiles//AleksandreKuntelia_cleaned.md)     |      93.73 |                45 |       18 |                96 |     123.03 | [Guram Gogichashvili](..//playerfiles//GuramGogichashvili_cleaned.md) |             33 |
-|             23 | [Samuel Lagrange](..//playerfiles//SamuelLagrange_cleaned.md)             |      99.63 |                61 |       19 |                27 |      87.73 | [Kitione Kamikamica](..//playerfiles//KitioneKamikamica_cleaned.md)   |             33 |
+|             23 | [Samuel Lagrange](..//playerfiles//SamuelLagrange_cleaned.md)             |      99.63 |                62 |       19 |                28 |      87.73 | [Kitione Kamikamica](..//playerfiles//KitioneKamikamica_cleaned.md)   |             33 |
 |             20 | [Leo Aouf](..//playerfiles//LeoAouf_cleaned.md)                           |      87.29 |                23 |       20 |                61 |      99.05 | [Peniami Narisia](..//playerfiles//PeniamiNarisia_cleaned.md)         |             26 |
 |             19 | [Brice Dulin](..//playerfiles//BriceDulin_cleaned.md)                     |     117.61 |                86 |       21 |                98 |     133.89 | [Biyi Alo](..//playerfiles//BiyiAlo_cleaned.md)                       |             26 |
-|             15 | [Thomas Berjon](..//playerfiles//ThomasBerjon_cleaned.md)                 |      97.26 |                52 |       22 |                97 |     128.22 | [Teddy Iribaren](..//playerfiles//TeddyIribaren_cleaned.md)           |             24 |
+|             15 | [Thomas Berjon](..//playerfiles//ThomasBerjon_cleaned.md)                 |      97.26 |                51 |       22 |                97 |     128.22 | [Teddy Iribaren](..//playerfiles//TeddyIribaren_cleaned.md)           |             24 |
 

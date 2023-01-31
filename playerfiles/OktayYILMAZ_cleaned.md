@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Oktay YILMAZ  
-date: 2023-01-27 19:01:48.533387  
+date: 2023-01-30 18:29:58.296571  
 categories: player  
 ---
 # Oktay YILMAZ
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: 39.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Nevers           |            21 |   0.380952 |
-| Bourgoin-Jallieu |            16 |   0.46875  |
+| Bourgoin-Jallieu |            17 |   0.441176 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,17 +37,18 @@ categories: player
 | Vannes                     |         2 |       0    |
 | Aurillac                   |         2 |       0.5  |
 | Cognac Saint Jean d'Angély |         1 |       1    |
-| Grenoble                   |         1 |       0    |
-| Chambery                   |         1 |       1    |
-| Albi                       |         1 |       0    |
-| Carqueiranne-Hyères        |         1 |       1    |
-| Carcassonne                |         1 |       0    |
-| Oyonnax                    |         1 |       0    |
-| Perpignan                  |         1 |       0    |
 | Provence Rugby             |         1 |       0    |
-| Rennes                     |         1 |       1    |
-| Blagnac                    |         1 |       0    |
-| Suresnes                   |         1 |       0    |
-| Tarbes                     |         1 |       0    |
 | Biarritz Olympique         |         1 |       0    |
+| Tarbes                     |         1 |       0    |
+| Suresnes                   |         1 |       0    |
+| Blagnac                    |         1 |       0    |
+| Rennes                     |         1 |       1    |
+| Perpignan                  |         1 |       0    |
+| Dax                        |         1 |       0    |
+| Oyonnax                    |         1 |       0    |
+| Carcassonne                |         1 |       0    |
+| Carqueiranne-Hyères        |         1 |       1    |
+| Albi                       |         1 |       0    |
+| Chambery                   |         1 |       1    |
+| Grenoble                   |         1 |       0    |
 | Agen                       |         1 |       0    |

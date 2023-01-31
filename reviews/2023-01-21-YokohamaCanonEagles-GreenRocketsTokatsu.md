@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
+![Projected Performances](plots/performances_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
+![Projected Spreads](plots/spreads_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
 # Player Level Predictions
 
 
@@ -31,11 +31,11 @@ Yokohama Canon Eagles by 11.1 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
+![In Match Scores](plots/recap_scores_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
+![In Match Predictions](plots/recap_prob_2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu.png)
 ## Prediction without Player Minutes: Yokohama Canon Eagles by 16.9
 
 

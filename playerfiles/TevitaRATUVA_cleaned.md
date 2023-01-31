@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita RATUVA  
-date: 2023-01-27 19:01:46.087557  
+date: 2023-01-30 18:30:45.314928  
 categories: player  
 ---
 # Tevita RATUVA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 32.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Brive         |            27 |   0.314815 |
+| Brive         |            28 |   0.303571 |
 | Scarlets      |            19 |   0.526316 |
 | Fiji          |            10 |   0.35     |
 | Brisbane City |             2 |   0.25     |
@@ -36,18 +36,18 @@ categories: player
 | Lyon                 |         3 |   0        |
 | Edinburgh            |         3 |   0.333333 |
 | Montpellier Herault  |         2 |   0.25     |
-| Pau                  |         2 |   0.5      |
+| Ospreys              |         2 |   1        |
 | Munster              |         2 |   0        |
 | London Irish         |         2 |   1        |
-| Stade Francais Paris |         2 |   1        |
 | La Rochelle          |         2 |   0        |
+| Stade Francais Paris |         2 |   1        |
 | Stade Toulousain     |         2 |   0        |
-| Tonga                |         2 |   1        |
 | Dragons              |         2 |   0.5      |
 | Connacht             |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   0.5      |
+| Tonga                |         2 |   1        |
 | Bordeaux Begles      |         2 |   0        |
-| Ospreys              |         2 |   1        |
+| Pau                  |         2 |   0.5      |
 | Spain                |         1 |   1        |
 | Southern Kings       |         1 |   1        |
 | Samoa                |         1 |   0        |
@@ -56,10 +56,11 @@ categories: player
 | New Zealand Maori    |         1 |   0        |
 | New Zealand          |         1 |   0        |
 | NSW Country Eagles   |         1 |   0.5      |
-| Benetton Treviso     |         1 |   1        |
+| Bayonne              |         1 |   0        |
 | Leinster             |         1 |   0        |
 | Greater Sydney Rams  |         1 |   0        |
 | Georgia              |         1 |   0.5      |
 | Castres Olympique    |         1 |   0        |
 | Biarritz Olympique   |         1 |   0        |
+| Benetton Treviso     |         1 |   1        |
 | Wales                |         1 |   0        |

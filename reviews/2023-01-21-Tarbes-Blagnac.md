@@ -15,11 +15,11 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](recap_performances_2023-01-21-Tarbes-Blagnac.png)
+![Projected Performances](plots/performances_2023-01-21-Tarbes-Blagnac.png)
 ## Projected Spreads
 
 
-![Projected Spreads](recap_spreads_2023-01-21-Tarbes-Blagnac.png)
+![Projected Spreads](plots/spreads_2023-01-21-Tarbes-Blagnac.png)
 # Player Level Predictions
 
 
@@ -31,12 +31,12 @@ Blagnac by 2.3 on a neutral field
 ## Scores over Time
 
 
-![In Match Scores](recap_scores_2023-01-21-Tarbes-Blagnac.png)
+![In Match Scores](plots/recap_scores_2023-01-21-Tarbes-Blagnac.png)
 ## Win Probability over Time
 
 
-![In Match Predictions](recap_prob_2023-01-21-Tarbes-Blagnac.png)
-## Prediction without Player Minutes: Blagnac by 3.3
+![In Match Predictions](plots/recap_prob_2023-01-21-Tarbes-Blagnac.png)
+## Prediction without Player Minutes: Tarbes by 3.3
 
 
 Blagnac by 0.7 on a neutral pitch

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ruhan STRAEULI  
-date: 2023-01-23 15:33:19.736592  
+date: 2023-01-30 18:31:32.104048  
 categories: player  
 ---
 # Ruhan STRAEULI
 
 ## Positions: FL, N8
 
-## Current elo: 101.0
+## Current elo: 98.0
 
 ## Current Percentile: 63.0
 
@@ -21,14 +21,15 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
+| Lions        |             7 |   0.571429 |
 | Golden Lions |             6 |   0.416667 |
-| Lions        |             6 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Blue Bulls           |         1 |        0   |
 | Bulls                |         1 |        0   |
 | Cardiff Blues        |         1 |        1   |
+| Connacht             |         1 |        0   |
 | Dragons              |         1 |        1   |
 | Edinburgh            |         1 |        1   |
 | Free State Cheetahs  |         1 |        0.5 |

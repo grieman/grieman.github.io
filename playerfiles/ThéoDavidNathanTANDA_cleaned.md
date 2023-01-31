@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Théo David Nathan TANDA  
-date: 2023-01-23 15:33:29.613594  
+date: 2023-01-30 18:32:10.231371  
 categories: player  
 ---
 # Théo David Nathan TANDA
 
 ## Positions: FL
 
-## Current elo: 96.0
+## Current elo: 92.0
 
 ## Current Percentile: 52.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            22 |   0.272727 |
+| Suresnes |            23 |    0.26087 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Massy                      |         3 |   0        |
 | Tarbes                     |         3 |   1        |
 | Blagnac                    |         2 |   0        |
+| Nice                       |         2 |   0        |
 | US Bressane                |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Carqueiranne-Hyères        |         1 |   0        |
@@ -36,5 +37,4 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Dax                        |         1 |   1        |
 | Narbonne                   |         1 |   0        |
-| Nice                       |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
