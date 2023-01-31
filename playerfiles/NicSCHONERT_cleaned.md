@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nic SCHONERT  
-date: 2023-01-30 18:31:22.810899  
+date: 2023-01-31 10:56:52.891834  
 categories: player  
 ---
 # Nic SCHONERT

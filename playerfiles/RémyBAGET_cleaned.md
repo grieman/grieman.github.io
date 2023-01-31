@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rémy BAGET  
-date: 2023-01-30 18:32:18.452050  
+date: 2023-01-31 10:54:32.126347  
 categories: player  
 ---
 # Rémy BAGET

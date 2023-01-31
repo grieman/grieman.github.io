@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago ARATA PERRONE  
-date: 2023-01-30 18:31:06.372110  
+date: 2023-01-31 10:55:44.373664  
 categories: player  
 ---
 # Santiago ARATA PERRONE

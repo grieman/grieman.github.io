@@ -16,12 +16,6 @@ Last Round Accuracy: 6 of 9 (66.67%)
 
 Last Round Error: 12.0 points per match
 
-[2023-01-20 Perpignan at Bristol Rugby; 19-33](reviews//2023-01-20-BristolRugby-Perpignan)
-
-[2023-01-20 Bath Rugby at Glasgow Warriors; 19-19](reviews//2023-01-20-GlasgowWarriors-BathRugby)
-
-[2023-01-20 Zebre at Toulon; 5-14](reviews//2023-01-20-Toulon-Zebre)
-
 [2023-01-21 Scarlets at Bayonne; 20-7](reviews//2023-01-21-Bayonne-Scarlets)
 
 [2023-01-21 Stade Francais Paris at Benetton Treviso; 32-35](reviews//2023-01-21-BenettonTreviso-StadeFrancaisParis)
@@ -44,17 +38,13 @@ Last Round Accuracy: 8 of 12 (66.67%)
 
 Last Round Error: 11.65 points per match
 
-[2023-01-20 Ospreys at Leicester Tigers; 27-26](reviews//2023-01-20-LeicesterTigers-Ospreys)
-
-[2023-01-20 Bulls at Lyon; 7-31](reviews//2023-01-20-Lyon-Bulls)
-
 [2023-01-21 Sharks at Harlequins; 29-39](reviews//2023-01-21-Harlequins-Sharks)
 
 [2023-01-21 La Rochelle at Northampton Saints; 31-13](reviews//2023-01-21-NorthamptonSaints-LaRochelle)
 
-[2023-01-21 Racing 92 at Leinster; 10-36](reviews//2023-01-21-Leinster-Racing92)
-
 [2023-01-21 Gloucester Rugby at Bordeaux Begles; 26-17](reviews//2023-01-21-BordeauxBegles-GloucesterRugby)
+
+[2023-01-21 Racing 92 at Leinster; 10-36](reviews//2023-01-21-Leinster-Racing92)
 
 [2023-01-21 Castres Olympique at Exeter Chiefs; 3-40](reviews//2023-01-21-ExeterChiefs-CastresOlympique)
 
@@ -94,12 +84,6 @@ Last Round Accuracy: 1 of 6 (16.67%)
 
 Last Round Error: 5.2 points per match
 
-[2023-01-21 Green Rockets Tokatsu at Yokohama Canon Eagles; 12-36](reviews//2023-01-21-YokohamaCanonEagles-GreenRocketsTokatsu)
-
-[2023-01-21 Saitama Wild Knights at Black Rams Tokyo; 38-17](reviews//2023-01-21-BlackRamsTokyo-SaitamaWildKnights)
-
-[2023-01-21 Kobelco Kobe Steelers at Kubota Spears Funabashi Tokyo-Bay; 21-25](reviews//2023-01-21-KubotaSpearsFunabashiTokyo-Bay-KobelcoKobeSteelers)
-
 [2023-01-22 Tokyo Sungoliath at Hanazono Kintetsu Liners; 51-10](reviews//2023-01-22-HanazonoKintetsuLiners-TokyoSungoliath)
 
 [2023-01-22 Shizuoka Blue Revs at Mitsubishi Dynaboars; 27-27](reviews//2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs)
@@ -128,10 +112,6 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 24.6 points per match
 
-[2023-01-21 Urayasu D-Rocks at Hino Red Dolphins; 41-26](reviews//2023-01-21-HinoRedDolphins-UrayasuD-Rocks)
-
-[2023-01-21 Mie Honda Heat at Shimizu Blue Sharks; 29-10](reviews//2023-01-21-ShimizuBlueSharks-MieHondaHeat)
-
 [2023-01-28 Kamaishi Seawaves at Toyota Industries Shuttles Aichi; 14-64](reviews//2023-01-28-ToyotaIndustriesShuttlesAichi-KamaishiSeawaves)
 ## Pro D2
 
@@ -146,15 +126,15 @@ Last Round Error: 11.89 points per match
 
 [2023-01-26 Mont-de-Marsan at Oyonnax; 26-25](reviews//2023-01-26-Oyonnax-Mont-de-Marsan)
 
-[2023-01-27 Rouen at Carcassonne; 3-15](reviews//2023-01-27-Carcassonne-Rouen)
-
-[2023-01-27 Montauban at Massy; 10-21](reviews//2023-01-27-Massy-Montauban)
+[2023-01-27 Nevers at Vannes; 24-22](reviews//2023-01-27-Vannes-Nevers)
 
 [2023-01-27 Beziers at Provence Rugby; 44-25](reviews//2023-01-27-ProvenceRugby-Beziers)
 
 [2023-01-27 Colomiers at Soyaux-Angouleme; 25-21](reviews//2023-01-27-Soyaux-Angouleme-Colomiers)
 
-[2023-01-27 Nevers at Vannes; 24-22](reviews//2023-01-27-Vannes-Nevers)
+[2023-01-27 Montauban at Massy; 10-21](reviews//2023-01-27-Massy-Montauban)
+
+[2023-01-27 Rouen at Carcassonne; 3-15](reviews//2023-01-27-Carcassonne-Rouen)
 
 [2023-01-27 Biarritz Olympique at Agen; 17-27](reviews//2023-01-27-Agen-BiarritzOlympique)
 ## RFU Championship
@@ -167,8 +147,6 @@ Competition Error: 13.59 points per match
 Last Round Accuracy: 2 of 6 (33.33%)
 
 Last Round Error: 22.59 points per match
-
-[2023-01-20 Caldy at Nottingham; 29-17](reviews//2023-01-20-Nottingham-Caldy)
 
 [2023-01-21 Ealing Trailfinders at Hartpury College; 26-13](reviews//2023-01-21-HartpuryCollege-EalingTrailfinders)
 
@@ -190,13 +168,13 @@ Last Round Error: 8.73 points per match
 
 [2023-01-28 Clermont Auvergne at Lyon; 14-34](reviews//2023-01-28-Lyon-ClermontAuvergne)
 
-[2023-01-28 Brive at Bayonne; 9-37](reviews//2023-01-28-Bayonne-Brive)
+[2023-01-28 Pau at Toulon; 17-27](reviews//2023-01-28-Toulon-Pau)
 
 [2023-01-28 Bordeaux Begles at Castres Olympique; 18-23](reviews//2023-01-28-CastresOlympique-BordeauxBegles)
 
-[2023-01-28 Stade Francais Paris at Perpignan; 24-31](reviews//2023-01-28-Perpignan-StadeFrancaisParis)
+[2023-01-28 Brive at Bayonne; 9-37](reviews//2023-01-28-Bayonne-Brive)
 
-[2023-01-28 Pau at Toulon; 17-27](reviews//2023-01-28-Toulon-Pau)
+[2023-01-28 Stade Francais Paris at Perpignan; 24-31](reviews//2023-01-28-Perpignan-StadeFrancaisParis)
 
 [2023-01-28 La Rochelle at Racing 92; 36-39](reviews//2023-01-28-Racing92-LaRochelle)
 
@@ -253,8 +231,6 @@ Competition Error: 10.33 points per match
 Last Round Accuracy: 3 of 7 (42.86%)
 
 Last Round Error: 9.07 points per match
-
-[2023-01-20 Cognac Saint Jean d'Angély at US Bressane; 14-32](reviews//2023-01-20-USBressane-CognacSaintJeand'Angély)
 
 [2023-01-21 Carqueiranne-Hyères at Albi; 6-23](reviews//2023-01-21-Albi-Carqueiranne-Hyères)
 

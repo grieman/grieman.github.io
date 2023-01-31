@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi KVESELADZE  
-date: 2023-01-30 18:31:03.542982  
+date: 2023-01-31 10:57:31.686378  
 categories: player  
 ---
 # Giorgi KVESELADZE
