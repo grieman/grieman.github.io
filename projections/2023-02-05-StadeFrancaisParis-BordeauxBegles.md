@@ -9,7 +9,7 @@ categories: match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.534, which translates to predicting Stade Francais Paris to win by 1.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.534, which translates to predicting Stade Francais Paris to win by 1.2.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -20,6 +20,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 ![Projected Spreads](plots/spreads_2023-02-05-StadeFrancaisParis-BordeauxBegles.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-02-05-StadeFrancaisParis-BordeauxBegles.png)
 # Player Level Predictions
 
 

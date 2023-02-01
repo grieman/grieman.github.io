@@ -15,11 +15,15 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 ## Projected Performances
 
 
-![Projected Performances](None)
+![Projected Performances](plots/performances_2023-01-28-LeicesterTigers-NorthamptonSaints.png)
 ## Projected Spreads
 
 
-![Projected Spreads](None)
+![Projected Spreads](plots/spreads_2023-01-28-LeicesterTigers-NorthamptonSaints.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-01-28-LeicesterTigers-NorthamptonSaints.png)
 # Player Level Predictions
 
 

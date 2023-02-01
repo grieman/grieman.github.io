@@ -16,8 +16,6 @@ Last Round Accuracy: 6 of 9 (66.67%)
 
 Last Round Error: 12.0 points per match
 
-[2023-01-21 Scarlets at Bayonne; 20-7](reviews//2023-01-21-Bayonne-Scarlets)
-
 [2023-01-21 Stade Francais Paris at Benetton Treviso; 32-35](reviews//2023-01-21-BenettonTreviso-StadeFrancaisParis)
 
 [2023-01-21 Connacht at Newcastle Falcons; 21-35](reviews//2023-01-21-NewcastleFalcons-Connacht)
@@ -37,10 +35,6 @@ Competition Error: 13.0 points per match
 Last Round Accuracy: 8 of 12 (66.67%)
 
 Last Round Error: 11.65 points per match
-
-[2023-01-21 Sharks at Harlequins; 29-39](reviews//2023-01-21-Harlequins-Sharks)
-
-[2023-01-21 La Rochelle at Northampton Saints; 31-13](reviews//2023-01-21-NorthamptonSaints-LaRochelle)
 
 [2023-01-21 Gloucester Rugby at Bordeaux Begles; 26-17](reviews//2023-01-21-BordeauxBegles-GloucesterRugby)
 
@@ -86,9 +80,9 @@ Last Round Error: 5.2 points per match
 
 [2023-01-22 Tokyo Sungoliath at Hanazono Kintetsu Liners; 51-10](reviews//2023-01-22-HanazonoKintetsuLiners-TokyoSungoliath)
 
-[2023-01-22 Shizuoka Blue Revs at Mitsubishi Dynaboars; 27-27](reviews//2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs)
-
 [2023-01-22 Toyota Verblitz at Toshiba Brave Lupus Tokyo; 25-63](reviews//2023-01-22-ToshibaBraveLupusTokyo-ToyotaVerblitz)
+
+[2023-01-22 Shizuoka Blue Revs at Mitsubishi Dynaboars; 27-27](reviews//2023-01-22-MitsubishiDynaboars-ShizuokaBlueRevs)
 
 [2023-01-28 Hanazono Kintetsu Liners at Toshiba Brave Lupus Tokyo; 14-60](reviews//2023-01-28-ToshibaBraveLupusTokyo-HanazonoKintetsuLiners)
 
@@ -126,35 +120,17 @@ Last Round Error: 11.89 points per match
 
 [2023-01-26 Mont-de-Marsan at Oyonnax; 26-25](reviews//2023-01-26-Oyonnax-Mont-de-Marsan)
 
-[2023-01-27 Nevers at Vannes; 24-22](reviews//2023-01-27-Vannes-Nevers)
+[2023-01-27 Rouen at Carcassonne; 3-15](reviews//2023-01-27-Carcassonne-Rouen)
+
+[2023-01-27 Montauban at Massy; 10-21](reviews//2023-01-27-Massy-Montauban)
 
 [2023-01-27 Beziers at Provence Rugby; 44-25](reviews//2023-01-27-ProvenceRugby-Beziers)
 
 [2023-01-27 Colomiers at Soyaux-Angouleme; 25-21](reviews//2023-01-27-Soyaux-Angouleme-Colomiers)
 
-[2023-01-27 Montauban at Massy; 10-21](reviews//2023-01-27-Massy-Montauban)
-
-[2023-01-27 Rouen at Carcassonne; 3-15](reviews//2023-01-27-Carcassonne-Rouen)
+[2023-01-27 Nevers at Vannes; 24-22](reviews//2023-01-27-Vannes-Nevers)
 
 [2023-01-27 Biarritz Olympique at Agen; 17-27](reviews//2023-01-27-Agen-BiarritzOlympique)
-## RFU Championship
-
-
-Competition Accuracy: 58 of 76 (76.32%)
-
-Competition Error: 13.59 points per match
-
-Last Round Accuracy: 2 of 6 (33.33%)
-
-Last Round Error: 22.59 points per match
-
-[2023-01-21 Ealing Trailfinders at Hartpury College; 26-13](reviews//2023-01-21-HartpuryCollege-EalingTrailfinders)
-
-[2023-01-21 Cornish Pirates at Bedford; 13-55](reviews//2023-01-21-Bedford-CornishPirates)
-
-[2023-01-21 London Scottish at Jersey; 22-24](reviews//2023-01-21-Jersey-LondonScottish)
-
-[2023-01-21 Doncaster at Richmond; 27-17](reviews//2023-01-21-Richmond-Doncaster)
 ## Top 14 Orange
 
 
@@ -168,13 +144,13 @@ Last Round Error: 8.73 points per match
 
 [2023-01-28 Clermont Auvergne at Lyon; 14-34](reviews//2023-01-28-Lyon-ClermontAuvergne)
 
-[2023-01-28 Pau at Toulon; 17-27](reviews//2023-01-28-Toulon-Pau)
+[2023-01-28 Brive at Bayonne; 9-37](reviews//2023-01-28-Bayonne-Brive)
 
 [2023-01-28 Bordeaux Begles at Castres Olympique; 18-23](reviews//2023-01-28-CastresOlympique-BordeauxBegles)
 
-[2023-01-28 Brive at Bayonne; 9-37](reviews//2023-01-28-Bayonne-Brive)
-
 [2023-01-28 Stade Francais Paris at Perpignan; 24-31](reviews//2023-01-28-Perpignan-StadeFrancaisParis)
+
+[2023-01-28 Pau at Toulon; 17-27](reviews//2023-01-28-Toulon-Pau)
 
 [2023-01-28 La Rochelle at Racing 92; 36-39](reviews//2023-01-28-Racing92-LaRochelle)
 
@@ -246,9 +222,9 @@ Last Round Error: 9.07 points per match
 
 [2023-01-28 US Bressane at Blagnac; 15-31](reviews//2023-01-28-Blagnac-USBressane)
 
-[2023-01-28 Suresnes at Nice; 11-32](reviews//2023-01-28-Nice-Suresnes)
-
 [2023-01-28 Tarbes at Rennes; 21-16](reviews//2023-01-28-Rennes-Tarbes)
+
+[2023-01-28 Suresnes at Nice; 11-32](reviews//2023-01-28-Nice-Suresnes)
 
 [2023-01-28 Albi at Narbonne; 30-18](reviews//2023-01-28-Narbonne-Albi)
 

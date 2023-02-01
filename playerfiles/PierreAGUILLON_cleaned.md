@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre AGUILLON  
-date: 2023-01-31 10:55:40.983829  
+date: 2023-01-31 16:09:16.935400  
 categories: player  
 ---
 # Pierre AGUILLON

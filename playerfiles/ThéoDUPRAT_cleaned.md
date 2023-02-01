@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo DUPRAT  
-date: 2023-01-31 10:55:04.888069  
+date: 2023-01-31 16:07:51.237741  
 categories: player  
 ---
 # Théo DUPRAT

@@ -20,6 +20,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 ![Projected Spreads](plots/spreads_2023-01-26-Oyonnax-Mont-de-Marsan.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-01-26-Oyonnax-Mont-de-Marsan.png)
 # Player Level Predictions
 
 

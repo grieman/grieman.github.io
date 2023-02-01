@@ -156,6 +156,7 @@ def make_matchpage(
     club_margin,
     perf_plot_path,
     spread_plot_path,
+    resultbar_path,
     pred_text,
     n_pred_text,
     lineup_pred_text,
@@ -191,6 +192,8 @@ def make_matchpage(
     md_file.new_header(level=2, title = "Projected Spreads")
     md_file.new_paragraph(f'![Projected Spreads]({spread_plot_path})')
 
+    md_file.new_header(level=2, title = "Projected Results")
+    md_file.new_paragraph(f'![Projected Results]({resultbar_path})')
 
 
     ## Break, now player level
@@ -362,7 +365,7 @@ for recent_game in recent_games:
         club_prediction = np.round(club_level_match['Prediction'], 3)
         club_victor = club_level_match['Club'] if club_prediction >= 0.5 else club_level_match['Opponent']
         club_margin = np.round(club_level_match['Predicted_Spread'], 1) if club_prediction >= 0.5 else np.round(club_level_match['Predicted_Spread'], 1) * -1
-        perf_plot_path, spread_plot_path = glicko_club_plots(
+        perf_plot_path, spread_plot_path, resultbar_path = glicko_club_plots(
             home_sims, away_sims, recent_game['home_team_name'], 
             recent_game['away_team_name'], "reviews/", file_name, home_color1, 
             away_color1, home_color2, away_color2, recent_game['point_diff']
@@ -394,6 +397,7 @@ for recent_game in recent_games:
             club_margin,
             perf_plot_path,
             spread_plot_path,
+            resultbar_path,
             pred_text,
             n_pred_text,
             lineup_pred_text,
@@ -481,7 +485,7 @@ for future_game in future_games:
     club_prediction = np.round(expectation, 3)
     club_victor = future_game['home_team_name'] if club_prediction >= 0.5 else future_game['away_team_name']
     club_margin = np.round(club_spread, 1) if club_prediction >= 0.5 else np.round(club_spread, 1) * -1
-    perf_plot, spread_plot = glicko_club_plots(
+    perf_plot_path, spread_plot_path, resultbar_path = glicko_club_plots(
         home_sims, away_sims, future_game['home_team_name'], 
         future_game['away_team_name'], "projections/", file_name, home_color1, 
         away_color1, home_color2, away_color2
@@ -497,8 +501,9 @@ for future_game in future_games:
         club_prediction,
         club_victor,
         club_margin,
-        perf_plot_path = None,
-        spread_plot_path = None,
+        perf_plot_path = perf_plot_path,
+        spread_plot_path = spread_plot_path,
+        resultbar_path = resultbar_path,
         pred_text = None,
         n_pred_text = None,
         lineup_pred_text = lineup_pred_text,
@@ -556,7 +561,7 @@ for _, row in fut_matches_df.iterrows():
             club_margin = np.round(club_spread, 1) if club_prediction >= 0.5 else np.round(club_spread, 1) * -1
             club_header = f'{row["Away Team"]} (~{round(away_sims.mean(), 2)}) at {row["Home Team"]} (~{round(home_sims.mean(), 2)})'
 
-            perf_plot, spread_plot = glicko_club_plots(
+            perf_plot, spread_plot, resultbar_plot = glicko_club_plots(
                 home_sims, away_sims, row['Home Team'], 
                 row['Away Team'], "projections/", file_name, home_color1, 
                 away_color1, home_color2, away_color2
@@ -605,6 +610,7 @@ for _, row in fut_matches_df.iterrows():
                 club_margin,
                 perf_plot_path = perf_plot,
                 spread_plot_path = spread_plot,
+                resultbar_path =  resultbar_plot,
                 pred_text = None,
                 n_pred_text = None,
                 lineup_pred_text = pred_text,

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sosefo Tapu FALATEA  
-date: 2023-01-31 10:54:30.422413  
+date: 2023-01-31 16:08:05.482502  
 categories: player  
 ---
 # Sosefo Tapu FALATEA

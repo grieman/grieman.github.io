@@ -20,6 +20,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 ![Projected Spreads](plots/spreads_2023-01-28-Racing92-LaRochelle.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-01-28-Racing92-LaRochelle.png)
 # Player Level Predictions
 
 

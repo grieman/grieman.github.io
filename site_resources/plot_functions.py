@@ -126,6 +126,8 @@ def player_history_plot(player_df, percentile_df):
     return f"history_{playername.replace(' ','')}.png"
 
 def glicko_club_plots(home_sims, away_sims, home_team_name, away_team_name, file_loc, file_name, home_color1, away_color1, home_color2, away_color2, point_diff = None):
+    
+    # Distributions
     fig, ax = plt.subplots()
     sns.kdeplot(data=home_sims, ax=ax, color=home_color1, fill=True)#, label=f'{home_team_name} Simulated Performances')
     sns.kdeplot(data=home_sims, ax=ax, color=home_color2, fill=False)#, label=f'{home_team_name} Simulated Performances')
@@ -175,6 +177,8 @@ def glicko_club_plots(home_sims, away_sims, home_team_name, away_team_name, file
     plt.savefig(f"{file_loc}plots/performances_{file_name}.png")
     plt.close()
 
+
+    # Histogram
     fig, ax = plt.subplots()
     spreads = (home_sims - away_sims) / 20
     spread_df = pd.DataFrame({'spread': np.round(spreads, 0).astype(int)})
@@ -211,4 +215,30 @@ def glicko_club_plots(home_sims, away_sims, home_team_name, away_team_name, file
     plt.savefig(f"{file_loc}plots/spreads_{file_name}.png")
     plt.close()
 
-    return f"plots/performances_{file_name}.png", f"plots/spreads_{file_name}.png"
+
+    # Barplot
+    fig, ax = plt.subplots(figsize=[16,4])
+    outcomes_df = pd.DataFrame(spread_df.result.value_counts(normalize=True)).reset_index()
+    outcomes_df.columns = ['result', 'pct']
+    outcomes_df = pd.merge(outcomes_df, spread_df.drop('spread', axis = 1).drop_duplicates())
+    outcomes_df = outcomes_df.sort_values("result_numeric")
+
+    prev_pct = 0
+    legend_elements = []
+
+    for _,row in outcomes_df.iterrows():
+        plt.barh(0, row['pct'], left = prev_pct, color = row['hue1'], edgecolor = row['hue2'])
+        legend_elements.append(mpatches.Patch(facecolor = row['hue1'], edgecolor = row['hue2'], label = row['result']))
+        plt.text(prev_pct + (row['pct']/2), 0.4, f"{np.round(row['pct'] * 100, 1)}%", horizontalalignment='center')
+        prev_pct += row['pct']
+
+    ax.legend(handles = legend_elements)
+    sns.move_legend(ax, "lower center", bbox_to_anchor=(.5, 1), ncol=3, title=None, frameon=False)
+    sns.despine(left=True, bottom=True)
+    ax.tick_params(left=False, bottom=False)
+    ax.set(yticklabels=[], xticklabels=[])    
+    plt.savefig(f"{file_loc}plots/resultbar_{file_name}.png")
+    plt.close()
+
+
+    return f"plots/performances_{file_name}.png", f"plots/spreads_{file_name}.png", f"plots/resultbar_{file_name}.png"

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain BRIATTE  
-date: 2023-01-31 10:55:37.544380  
+date: 2023-01-31 16:08:24.434855  
 categories: player  
 ---
 # Romain BRIATTE

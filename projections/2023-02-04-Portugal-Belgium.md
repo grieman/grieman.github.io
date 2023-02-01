@@ -9,7 +9,7 @@ categories: match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.847, which translates to predicting Portugal to win by 16.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.847, which translates to predicting Portugal to win by 16.5.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -20,6 +20,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 ![Projected Spreads](plots/spreads_2023-02-04-Portugal-Belgium.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-02-04-Portugal-Belgium.png)
 # Player Level Predictions
 
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tim GREY  
-date: 2023-01-31 10:55:57.908277  
+date: 2023-01-31 15:56:58.126235  
 categories: player  
 ---
 # Tim GREY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 73.0
+## Current Percentile: None
 
 # Elo History
 
