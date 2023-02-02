@@ -7,8 +7,6 @@ import datetime
 import pandas as pd
 import matplotlib.patches as mpatches
 import matplotlib.lines as mlines
-import seaborn as sns
-
 #sns.set_style("darkgrid")
 
 def percentile(group):

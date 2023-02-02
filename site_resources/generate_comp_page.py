@@ -14,5 +14,10 @@ from mdutils import Html
 from support_files.team_colors import team_color_dict
 
 
+
 with open('../Rugby_ELO/processed_data/matchlist.pickle', 'rb') as handle:
     matchlist = pickle.load(handle)
+with open('../Rugby_ELO/processed_data/clubbase.pickle', 'rb') as handle:
+    clubbase = pickle.load(handle)
+
+comp = "United Rugby Championship 2022"
