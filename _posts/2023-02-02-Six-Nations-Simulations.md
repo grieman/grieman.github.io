@@ -36,7 +36,7 @@ None of the matches opening weekend look to be particularly close, but are great
 
 Simulations have Ireland winning by 9.69 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Ireland Victory | 65.62% |
 | Ireland Victory, Losing Bonus Point | 29.63% |
@@ -48,7 +48,7 @@ Simulations have Ireland winning by 9.69 points, on average.
 
 Simulations have England winning by 10.29 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | England Victory | 69.83% |
 | England Victory, Losing Bonus Point | 26.5% |
@@ -60,7 +60,7 @@ Simulations have England winning by 10.29 points, on average.
 
 Simulations have France winning by 17.72 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | France Victory | 95.72% |
 | France Victory, Losing Bonus Point | 4.1% |
@@ -75,7 +75,7 @@ Ireland v France is an early test for each team, with the winner likely to win  
 
 Simulations have Ireland winning by 7.66 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Ireland Victory | 51.1% |
 | Ireland Victory, Losing Bonus Point | 38.94% |
@@ -87,7 +87,7 @@ Simulations have Ireland winning by 7.66 points, on average.
 
 Simulations have Scotland winning by 2.64 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Scotland Victory, Losing Bonus Point | 47.22% |
 | Wales Victory, Losing Bonus Point | 25.29% |
@@ -99,7 +99,7 @@ Simulations have Scotland winning by 2.64 points, on average.
 
 Simulations have England winning by 22.09 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | England Victory | 99.4% |
 | England Victory, Losing Bonus Point | 0.58% |
@@ -114,7 +114,7 @@ Italy ought to have a rough go in Ireland, while France should be mostly comfort
 
 Simulations have Ireland winning by 22.05 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Ireland Victory | 99.33% |
 | Ireland Victory, Losing Bonus Point | 0.67% |
@@ -123,7 +123,7 @@ Simulations have Ireland winning by 22.05 points, on average.
 
 Simulations have England winning by 2.94 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | England Victory, Losing Bonus Point | 47.35% |
 | Wales Victory, Losing Bonus Point | 23.45% |
@@ -135,7 +135,7 @@ Simulations have England winning by 2.94 points, on average.
 
 Simulations have France winning by 12.71 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | France Victory | 83.2% |
 | France Victory, Losing Bonus Point | 15.46% |
@@ -151,7 +151,7 @@ The last two weeks are Italy's best chance to get a win, and repeating against W
 
 Simulations have Wales winning by 8.93 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Wales Victory | 59.91% |
 | Wales Victory, Losing Bonus Point | 33.41% |
@@ -163,7 +163,7 @@ Simulations have Wales winning by 8.93 points, on average.
 
 Simulations have England winning by 1.43 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | England Victory, Losing Bonus Point | 43.55% |
 | France Victory, Losing Bonus Point | 31.63% |
@@ -175,7 +175,7 @@ Simulations have England winning by 1.43 points, on average.
 
 Simulations have Ireland winning by 11.56 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Ireland Victory | 78.36% |
 | Ireland Victory, Losing Bonus Point | 20.01% |
@@ -202,7 +202,7 @@ As for Scotland and Italy... this is one Scotland ought to win, and likely needs
 ### Scotland v Italy
 Simulations have Scotland winning by 15.15 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Scotland Victory | 91.8% |
 | Scotland Victory, Losing Bonus Point | 7.71% |
@@ -212,7 +212,7 @@ Simulations have Scotland winning by 15.15 points, on average.
 ### France v Wales
 Simulations have France winning by 12.91 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | France Victory | 84.51% |
 | France Victory, Losing Bonus Point | 14.55% |
@@ -223,7 +223,7 @@ Simulations have France winning by 12.91 points, on average.
 ### Ireland v England
 Simulations have Ireland winning by 10.14 points, on average.
 
-| Outcomes | Occurance in Simulation |
+| Outcomes | Occurrence in Simulation |
 | -------- | ----------------------- |
 | Ireland Victory | 68.82% |
 | Ireland Victory, Losing Bonus Point | 27.56% |
