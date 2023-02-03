@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Toby TRINDER  
-date: 2023-01-23 15:30:09.179980  
+date: 2023-02-02 15:49:45.537541  
 categories: player  
 ---
 # Toby TRINDER
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 101.0
 
-## Current Percentile: 73.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Coventry |            34 |   0.573529 |
+| Coventry |            35 |   0.585714 |
 | Bedford  |             7 |   0.285714 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Doncaster           |         5 |   0.6      |
+| Ealing Trailfinders |         5 |   0.2      |
 | Jersey              |         5 |   0.3      |
 | Bedford             |         4 |   1        |
-| Ealing Trailfinders |         4 |   0        |
 | London Scottish     |         4 |   0.75     |
 | Richmond            |         4 |   1        |
 | Cornish Pirates     |         3 |   0.333333 |

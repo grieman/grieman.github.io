@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: William CRANE  
-date: 2023-01-31 10:56:34.772026  
+date: 2023-02-02 15:51:22.573952  
 categories: player  
 ---
 # William CRANE
 
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 91.0
 
-## Current Percentile: 62.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            41 |   0.329268 |
-| Cornish Pirates  |            13 |   0.461538 |
+| Cornish Pirates  |            14 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,9 +31,9 @@ categories: player
 | Bedford             |         5 |   0        |
 | Coventry            |         5 |   0.4      |
 | Ealing Trailfinders |         5 |   0        |
+| Jersey              |         5 |   0        |
 | Cornish Pirates     |         4 |   0.25     |
 | Doncaster           |         4 |   0.25     |
-| Jersey              |         4 |   0        |
 | London Scottish     |         3 |   1        |
 | Richmond            |         3 |   0.666667 |
 | Yorkshire Carnegie  |         3 |   0.833333 |

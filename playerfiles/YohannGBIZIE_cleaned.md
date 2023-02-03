@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yohann GBIZIE  
-date: 2023-01-31 16:08:45.795932  
+date: 2023-02-02 15:50:41.203297  
 categories: player  
 ---
 # Yohann GBIZIE

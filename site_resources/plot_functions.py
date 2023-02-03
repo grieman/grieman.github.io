@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-#import seaborn as sns
+import seaborn as sns
 import matplotlib.patheffects as pe
 import numpy as np
 import datetime

@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Viliami TAULANI  
-date: 2023-01-31 15:56:40.414080  
+date: 2023-02-02 15:50:33.020187  
 categories: player  
 ---
 # Viliami TAULANI
 
-## Positions: FL, N8
+## Positions: N8, FL
 
 ## Country: Tonga
 
-## Current elo: 79.0
+## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            13 |   0.346154 |
 | Harlequins       |             9 |   0.444444 |
-| London Scottish  |             6 |   0        |
+| London Scottish  |             7 |   0        |
 | Tonga            |             4 |   0        |
 | Chiefs           |             2 |   0.5      |
 
@@ -35,7 +35,7 @@ categories: player
 | Samoa                    |         3 |        0   |
 | Taranaki                 |         2 |        0   |
 | Cardiff Blues            |         2 |        1   |
-| Auckland                 |         1 |        1   |
+| Ampthill                 |         1 |        0   |
 | Manawatu                 |         1 |        0   |
 | Waikato                  |         1 |        0   |
 | Saracens                 |         1 |        0   |
@@ -46,9 +46,9 @@ categories: player
 | North Harbour            |         1 |        0   |
 | New Zealand              |         1 |        0   |
 | New South Wales Waratahs |         1 |        1   |
-| London Irish             |         1 |        0   |
-| Bath Rugby               |         1 |        0   |
 | Leicester Tigers         |         1 |        0   |
+| London Irish             |         1 |        0   |
+| Auckland                 |         1 |        1   |
 | Jersey                   |         1 |        0   |
 | Hawke's Bay              |         1 |        1   |
 | Ealing Trailfinders      |         1 |        0   |
@@ -58,4 +58,5 @@ categories: player
 | Canterbury               |         1 |        0   |
 | Blues                    |         1 |        0   |
 | Bedford                  |         1 |        0   |
+| Bath Rugby               |         1 |        0   |
 | Wellington               |         1 |        0   |

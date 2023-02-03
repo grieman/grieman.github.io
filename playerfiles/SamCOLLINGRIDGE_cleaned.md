@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam COLLINGRIDGE  
-date: 2023-01-31 15:56:54.811964  
+date: 2023-02-02 15:49:02.646138  
 categories: player  
 ---
 # Sam COLLINGRIDGE
 
 ## Positions: L
 
-## Current elo: 85.0
+## Current elo: 91.0
 
-## Current Percentile: None
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |            23 |   0.195652 |
+| Richmond |            24 |     0.1875 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Doncaster           |         4 |   0        |
 | Ampthill            |         3 |   0.166667 |
+| Hartpury College    |         3 |   0.333333 |
 | Jersey              |         3 |   0.333333 |
 | Caldy               |         2 |   0        |
 | Cornish Pirates     |         2 |   0        |
 | Coventry            |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
-| Hartpury College    |         2 |   0.5      |
 | London Scottish     |         2 |   1        |
 | Nottingham          |         1 |   0        |

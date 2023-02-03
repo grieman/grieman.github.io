@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James WHITCOMBE  
-date: 2023-01-31 16:08:25.309213  
+date: 2023-02-02 15:49:59.550055  
 categories: player  
 ---
 # James WHITCOMBE
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 95.0
 
-## Current Percentile: 56.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            24 |   0.645833 |
-| Nottingham       |             5 |   0.2      |
+| Leicester Tigers |            25 |       0.62 |
+| Nottingham       |             5 |       0.2  |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,13 +32,13 @@ categories: player
 | Exeter Chiefs       |         2 |        0.5 |
 | Wasps               |         2 |        0.5 |
 | Ospreys             |         2 |        0.5 |
+| Northampton Saints  |         2 |        0.5 |
 | London Irish        |         2 |        1   |
 | Worcester Warriors  |         2 |        1   |
-| Ealing Trailfinders |         1 |        0   |
 | Bayonne             |         1 |        1   |
 | Hartpury College    |         1 |        1   |
+| Ealing Trailfinders |         1 |        0   |
 | Cornish Pirates     |         1 |        0   |
-| Northampton Saints  |         1 |        1   |
 | Connacht            |         1 |        1   |
 | Richmond            |         1 |        0   |
 | Clermont Auvergne   |         1 |        1   |

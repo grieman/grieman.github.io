@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault BERTHAUD  
-date: 2023-01-31 16:07:01.929022  
+date: 2023-02-02 15:51:20.996684  
 categories: player  
 ---
 # Thibault BERTHAUD

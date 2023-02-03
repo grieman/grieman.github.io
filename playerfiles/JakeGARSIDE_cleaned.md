@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake GARSIDE  
-date: 2023-01-31 10:56:43.997482  
+date: 2023-02-02 15:50:12.044732  
 categories: player  
 ---
 # Jake GARSIDE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 43.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            14 |        0.5 |
+| Bedford |            15 |   0.466667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Cornish Pirates     |         3 |   0.666667 |
+| Caldy               |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
 | London Scottish     |         2 |   1        |
 | Ampthill            |         1 |   1        |
-| Caldy               |         1 |   1        |
 | Coventry            |         1 |   0        |
 | Doncaster           |         1 |   0        |
 | Jersey              |         1 |   0        |

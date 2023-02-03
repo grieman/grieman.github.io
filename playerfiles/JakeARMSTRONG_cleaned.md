@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake ARMSTRONG  
-date: 2023-01-31 15:56:13.212082  
+date: 2023-02-02 15:50:13.745596  
 categories: player  
 ---
 # Jake ARMSTRONG
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 104.0
 
-## Current Percentile: 39.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Jersey           |            35 |   0.614286 |
 | Bristol Rugby    |            30 |   0.516667 |
-| Doncaster        |            11 |   0.545455 |
+| Doncaster        |            12 |   0.583333 |
 | Hartpury College |             7 |   0.142857 |
 | Edinburgh        |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Nottingham          |         6 |   0.416667 |
+| Nottingham          |         7 |   0.5      |
 | London Scottish     |         6 |   0.833333 |
 | Cornish Pirates     |         5 |   0.8      |
 | Richmond            |         5 |   0.8      |

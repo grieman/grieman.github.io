@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin WILLIAMS  
-date: 2023-01-31 15:56:20.069745  
+date: 2023-02-02 15:50:16.313460  
 categories: player  
 ---
 # Robin WILLIAMS
 
 ## Positions: L
 
-## Current elo: 114.0
+## Current elo: 112.0
 
-## Current Percentile: 76.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            24 |   0.541667 |
+| Bedford |            25 |       0.52 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | London Scottish     |         4 |   1        |
 | Cornish Pirates     |         3 |   0.666667 |
 | Jersey              |         3 |   0.333333 |
+| Caldy               |         2 |   0.5      |
 | Coventry            |         2 |   0        |
 | Doncaster           |         2 |   0        |
 | Ealing Trailfinders |         2 |   0.5      |
@@ -35,4 +36,3 @@ categories: player
 | Nottingham          |         2 |   1        |
 | Richmond            |         2 |   0        |
 | Ampthill            |         1 |   1        |
-| Caldy               |         1 |   1        |

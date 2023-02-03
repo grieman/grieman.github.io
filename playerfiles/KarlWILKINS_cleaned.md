@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Karl WILKINS  
-date: 2023-01-31 16:07:59.089273  
+date: 2023-02-02 15:49:15.012396  
 categories: player  
 ---
 # Karl WILKINS
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Beziers            |            61 |   0.47541  |
-| Northampton Saints |             9 |   0.444444 |
+| Northampton Saints |            10 |   0.5      |
 | Bedford            |             6 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -45,6 +45,7 @@ categories: player
 | Massy               |         2 |   1        |
 | Ampthill            |         2 |   1        |
 | Brive               |         2 |   0.5      |
+| Leicester Tigers    |         2 |   0.5      |
 | Jersey              |         1 |   0        |
 | Hartpury College    |         1 |   1        |
 | Harlequins          |         1 |   1        |
@@ -58,4 +59,3 @@ categories: player
 | Bristol Rugby       |         1 |   1        |
 | Bayonne             |         1 |   0        |
 | Bath Rugby          |         1 |   1        |
-| Leicester Tigers    |         1 |   0        |

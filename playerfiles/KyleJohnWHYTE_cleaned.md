@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kyle John WHYTE  
-date: 2023-01-31 10:55:27.668327  
+date: 2023-02-02 15:50:56.124633  
 categories: player  
 ---
 # Kyle John WHYTE
 
 ## Positions: P
 
-## Current elo: 129.0
+## Current elo: 126.0
 
 ## Current Percentile: 97.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            35 |   0.885714 |
+| Ealing Trailfinders |            36 |   0.861111 |
 | London Scottish     |            13 |   0.346154 |
 | Bayonne             |             6 |   0.5      |
 
@@ -29,11 +29,11 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Ampthill            |         6 |       0.75 |
 | Cornish Pirates     |         5 |       0.8  |
+| Coventry            |         5 |       0.6  |
 | Nottingham          |         5 |       0.6  |
 | Hartpury College    |         5 |       0.8  |
 | Jersey              |         4 |       1    |
 | Bedford             |         4 |       0.75 |
-| Coventry            |         4 |       0.75 |
 | Doncaster           |         4 |       0.5  |
 | Richmond            |         3 |       1    |
 | London Scottish     |         3 |       1    |

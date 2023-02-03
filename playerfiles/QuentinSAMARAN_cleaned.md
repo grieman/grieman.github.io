@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin SAMARAN  
-date: 2023-01-31 16:08:26.037616  
+date: 2023-02-02 15:51:28.185657  
 categories: player  
 ---
 # Quentin SAMARAN

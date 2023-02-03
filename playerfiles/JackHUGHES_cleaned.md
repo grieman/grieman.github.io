@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack HUGHES  
-date: 2023-01-31 10:57:01.989555  
+date: 2023-02-02 15:48:49.107526  
 categories: player  
 ---
 # Jack HUGHES
 
 ## Positions: H
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 54.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            35 |   0.485714 |
+| Bedford |            36 |   0.472222 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,5 +34,5 @@ categories: player
 | Jersey              |         3 |   0.333333 |
 | Nottingham          |         3 |   0.666667 |
 | Richmond            |         3 |   0        |
+| Caldy               |         2 |   0.5      |
 | Coventry            |         2 |   0        |
-| Caldy               |         1 |   1        |

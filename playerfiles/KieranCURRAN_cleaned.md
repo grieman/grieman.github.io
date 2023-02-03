@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kieran CURRAN  
-date: 2023-01-31 10:55:57.097254  
+date: 2023-02-02 15:51:23.357837  
 categories: player  
 ---
 # Kieran CURRAN
 
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 
@@ -21,14 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| Bedford          |             4 |       0.75 |
 | Hartpury College |             4 |       0.25 |
-| Bedford          |             3 |       1    |
 | Nottingham       |             1 |       0    |
 | Wasps            |             1 |       0    |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ampthill            |         3 |   0.333333 |
+| Caldy               |         1 |   0        |
 | Cornish Pirates     |         1 |   1        |
 | Ealing Trailfinders |         1 |   0        |
 | London Scottish     |         1 |   1        |

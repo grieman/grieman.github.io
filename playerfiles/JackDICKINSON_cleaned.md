@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack DICKINSON  
-date: 2023-01-30 18:30:19.021048  
+date: 2023-02-02 15:50:01.854207  
 categories: player  
 ---
 # Jack DICKINSON
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 81.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -22,13 +22,13 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Ampthill   |            17 |   0.470588 |
-| Nottingham |            12 |   0.333333 |
+| Nottingham |            13 |   0.307692 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Doncaster           |         4 |   0.25     |
 | Bedford             |         3 |   0.333333 |
 | Coventry            |         3 |   0.333333 |
-| Doncaster           |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0        |
 | Hartpury College    |         3 |   0.333333 |
 | London Scottish     |         3 |   1        |

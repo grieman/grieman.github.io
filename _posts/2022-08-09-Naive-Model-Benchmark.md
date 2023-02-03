@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Naive Model Benchmarks"
 date:   2022-08-09 18:00:00 -0500
 categories: model update

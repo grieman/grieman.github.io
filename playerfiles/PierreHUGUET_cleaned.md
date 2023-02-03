@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre HUGUET  
-date: 2023-01-31 16:08:13.803571  
+date: 2023-02-02 15:50:32.163849  
 categories: player  
 ---
 # Pierre HUGUET
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 26.0
+## Current Percentile: 25.0
 
 # Elo History
 

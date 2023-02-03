@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfried HOUNKPATIN  
-date: 2023-01-31 16:07:05.987409  
+date: 2023-02-02 15:49:24.151715  
 categories: player  
 ---
 # Wilfried HOUNKPATIN
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 

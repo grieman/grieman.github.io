@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent PELO  
-date: 2023-01-31 16:07:54.881273  
+date: 2023-02-02 15:48:57.534039  
 categories: player  
 ---
 # Vincent PELO

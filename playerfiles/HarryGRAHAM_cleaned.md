@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry GRAHAM  
-date: 2023-01-23 15:33:15.522102  
+date: 2023-02-02 15:48:27.712001  
 categories: player  
 ---
 # Harry GRAHAM
 
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: 31.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            26 |   0.230769 |
+| Nottingham |            27 |   0.222222 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Cornish Pirates     |         5 |   0        |
-| Coventry            |         4 |   0.25     |
-| Doncaster           |         3 |   0.333333 |
-| Ealing Trailfinders |         3 |   0        |
-| London Scottish     |         3 |   1        |
-| Bedford             |         2 |   0        |
-| Hartpury College    |         2 |   0        |
-| Caldy               |         1 |   1        |
-| Jersey              |         1 |   0        |
-| Richmond            |         1 |   0        |
-| Saracens            |         1 |   0        |
+| Cornish Pirates     |         5 |       0    |
+| Coventry            |         4 |       0.25 |
+| Doncaster           |         4 |       0.25 |
+| Ealing Trailfinders |         3 |       0    |
+| London Scottish     |         3 |       1    |
+| Bedford             |         2 |       0    |
+| Hartpury College    |         2 |       0    |
+| Caldy               |         1 |       1    |
+| Jersey              |         1 |       0    |
+| Richmond            |         1 |       0    |
+| Saracens            |         1 |       0    |

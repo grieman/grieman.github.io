@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom LOCKETT  
-date: 2023-01-31 10:57:23.365584  
+date: 2023-02-02 15:49:46.374906  
 categories: player  
 ---
 # Tom LOCKETT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 65.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |             7 |   0.714286 |
+| Bedford |             8 |      0.625 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Hartpury College |         2 |        0.5 |
 | Ampthill         |         1 |        1   |
+| Caldy            |         1 |        0   |
 | Cornish Pirates  |         1 |        1   |
 | London Scottish  |         1 |        1   |
 | Nottingham       |         1 |        1   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin WALCKER  
-date: 2023-01-31 16:08:49.681260  
+date: 2023-02-02 15:51:15.493567  
 categories: player  
 ---
 # Quentin WALCKER
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 

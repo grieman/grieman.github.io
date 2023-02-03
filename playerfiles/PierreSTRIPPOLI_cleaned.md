@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre STRIPPOLI  
-date: 2023-01-31 16:08:42.433052  
+date: 2023-02-02 15:49:00.974861  
 categories: player  
 ---
 # Pierre STRIPPOLI

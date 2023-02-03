@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian MONTOYA  
-date: 2023-01-31 16:06:55.303169  
+date: 2023-02-02 15:51:11.536707  
 categories: player  
 ---
 # Julian MONTOYA
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: 49.0
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Argentina        |            83 |   0.289157 |
 | Jaguares         |            63 |   0.52381  |
-| Leicester Tigers |            31 |   0.758065 |
+| Leicester Tigers |            32 |   0.734375 |
 | Newman           |             7 |   0.428571 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,13 +44,13 @@ categories: player
 | Ireland                  |         5 |   0.2      |
 | Sale Sharks              |         4 |   0.25     |
 | Chiefs                   |         4 |   0.5      |
+| Northampton Saints       |         4 |   0.75     |
 | Bristol Rugby            |         4 |   0.625    |
 | Southern Kings           |         4 |   0.5      |
 | Hurricanes               |         4 |   0.25     |
 | Brumbies                 |         4 |   0.75     |
 | Italy                    |         3 |   1        |
 | Queensland Reds          |         3 |   0.666667 |
-| Northampton Saints       |         3 |   1        |
 | New South Wales Waratahs |         3 |   1        |
 | London Irish             |         3 |   1        |
 | Wasps                    |         3 |   0.666667 |
