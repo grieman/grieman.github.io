@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fineen Wycherley  
-date: 2023-01-30 11:48:41.239621  
+date: 2023-02-02 19:13:47.229621  
 categories: player  
 ---
 # Fineen Wycherley

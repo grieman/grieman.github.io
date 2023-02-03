@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Daniel Nutton  
-date: 2023-01-06 00:21:50.798119  
+date: 2023-02-02 19:14:37.544008  
 categories: player  
 ---
 # Daniel Nutton
 
 ## Positions: SH, FH
 
-## Current elo: 76.0
+## Current elo: 62.0
 
 ## Current Percentile: 2.0
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |            24 |   0.104167 |
+| London Scottish |            28 |  0.0892857 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Jersey              |         4 |   0        |
+| Ampthill            |         3 |   0        |
+| Bedford             |         3 |   0        |
 | Cornish Pirates     |         3 |   0        |
 | Coventry            |         3 |   0.333333 |
-| Jersey              |         3 |   0        |
+| Hartpury College    |         3 |   0.166667 |
 | Nottingham          |         3 |   0        |
 | Richmond            |         3 |   0        |
-| Ampthill            |         2 |   0        |
-| Bedford             |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
-| Hartpury College    |         2 |   0.25     |
 | Caldy               |         1 |   1        |

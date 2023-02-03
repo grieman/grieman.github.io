@@ -1,12 +1,12 @@
 ---  
 layout: page  
 title: Valentin Sese  
-date: 2023-01-15 11:48:55.036777  
+date: 2023-02-02 19:04:58.924252  
 categories: player  
 ---
 # Valentin Sese
 
-## Positions: FL, L
+## Positions: L, FL
 
 ## Current elo: 90.0
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            54 |   0.435185 |
+| Narbonne |            56 |     0.4375 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Suresnes                   |         4 |   0.75     |
+| Albi                       |         3 |   0        |
 | Tarbes                     |         3 |   0.666667 |
-| Suresnes                   |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.833333 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Nice                       |         3 |   1        |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Grenoble                   |         2 |   0.25     |
-| Albi                       |         2 |   0        |
 | US Bressane                |         2 |   1        |
 | Oyonnax                    |         2 |   0        |
 | Nevers                     |         2 |   0        |

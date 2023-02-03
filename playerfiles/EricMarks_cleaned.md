@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eric Marks  
-date: 2023-01-13 11:32:44.340956  
+date: 2023-02-02 19:06:46.995471  
 categories: player  
 ---
 # Eric Marks
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 45.0
+## Current elo: 44.0
 
 ## Current Percentile: 0.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Vannes  |            63 |   0.579365 |
+| Vannes  |            64 |   0.570312 |
 | Germany |            22 |   0.318182 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,8 +35,8 @@ categories: player
 | Soyaux-Angouleme           |         5 |   0.6      |
 | Montauban                  |         5 |   0.7      |
 | Mont-de-Marsan             |         5 |   0.8      |
+| Nevers                     |         4 |   0.375    |
 | Colomiers                  |         4 |   0.5      |
-| Nevers                     |         3 |   0.5      |
 | Rouen                      |         3 |   0.333333 |
 | Brazil                     |         3 |   1        |
 | Carcassonne                |         3 |   0.5      |

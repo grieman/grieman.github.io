@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kevin Firmin  
-date: 2023-01-15 11:53:06.658974  
+date: 2023-02-02 18:58:59.809552  
 categories: player  
 ---
 # Kevin Firmin
 
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 92.0
 
 ## Current Percentile: 60.0
 
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Castres Olympique |            41 |   0.414634 |
 | Dax               |            36 |   0.333333 |
-| Montauban         |            30 |   0.583333 |
+| Montauban         |            31 |   0.564516 |
 | Pau               |             6 |   0.833333 |
 | Stade Toulousain  |             1 |   0        |
 
@@ -55,8 +55,9 @@ categories: player
 | Bordeaux Begles            |         2 |   0        |
 | Dragons                    |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0.5      |
-| Rouen                      |         2 |   0.5      |
+| Massy                      |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0        |
+| Rouen                      |         2 |   0.5      |
 | Leicester Tigers           |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | US Bressane                |         1 |   1        |
@@ -64,7 +65,6 @@ categories: player
 | Tarbes                     |         1 |   0        |
 | Brive                      |         1 |   0        |
 | RC Enisei                  |         1 |   1        |
-| Massy                      |         1 |   1        |
 | Dax                        |         1 |   1        |
 | Ospreys                    |         1 |   0        |
 | Newcastle Falcons          |         1 |   0        |

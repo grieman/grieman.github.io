@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Heiichiro Ito  
-date: 2023-01-15 12:02:55.821468  
+date: 2023-02-02 18:58:55.279615  
 categories: player  
 ---
 # Heiichiro Ito
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 61.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            53 |   0.679245 |
+| Shizuoka Blue Revs |            55 |   0.681818 |
 | Sunwolves          |             8 |   0.125    |
 | Japan              |             6 |   0.333333 |
 
@@ -35,18 +35,19 @@ categories: player
 | Kobelco Kobe Steelers             |         4 |   0        |
 | Toyota Verblitz                   |         4 |   0.5      |
 | Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
+| Green Rockets Tokatsu             |         4 |   1        |
 | Urayasu D-Rocks                   |         3 |   1        |
 | Coca-Cola Red Sparks              |         3 |   1        |
-| Green Rockets Tokatsu             |         3 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
 | Toyota Industries Shuttles Aichi  |         2 |   1        |
 | Munakata Sanix Blues              |         2 |   1        |
-| Mie Honda Heat                    |         2 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   1        |
+| Mie Honda Heat                    |         2 |   1        |
 | Hino Red Dolphins                 |         2 |   1        |
 | Bulls                             |         2 |   0.5      |
 | Ireland                           |         1 |   0        |
 | Hurricanes                        |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   0.5      |
 | Highlanders                       |         1 |   0        |
 | Romania                           |         1 |   1        |
 | Georgia                           |         1 |   1        |

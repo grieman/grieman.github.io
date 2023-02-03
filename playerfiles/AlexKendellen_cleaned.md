@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Kendellen  
-date: 2023-01-06 00:09:18.692974  
+date: 2023-02-02 19:07:06.463767  
 categories: player  
 ---
 # Alex Kendellen
 
 ## Positions: FL, N8
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 66.0
+## Current Percentile: 79.0
 
 # Elo History
 

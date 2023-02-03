@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Xavier Chiocci  
-date: 2023-01-06 00:08:08.288041  
+date: 2023-02-02 18:58:06.953174  
 categories: player  
 ---
 # Xavier Chiocci
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 107.0
+## Current elo: 99.0
 
-## Current Percentile: 18.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -25,14 +25,14 @@ categories: player
 |:----------|--------------:|-----------:|
 | Toulon    |           176 |   0.616477 |
 | Lyon      |            50 |   0.59     |
-| Perpignan |            24 |   0.375    |
+| Perpignan |            28 |   0.357143 |
 | France    |            10 |   0.3      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Castres Olympique    |        20 |   0.55     |
-| Clermont Auvergne    |        19 |   0.447368 |
-| Stade Francais Paris |        17 |   0.470588 |
+| Clermont Auvergne    |        20 |   0.425    |
+| Stade Francais Paris |        18 |   0.5      |
 | Montpellier Herault  |        16 |   0.59375  |
 | Bordeaux Begles      |        15 |   0.666667 |
 | Stade Toulousain     |        13 |   0.615385 |
@@ -49,10 +49,10 @@ categories: player
 | Toulon               |         6 |   0.666667 |
 | Leinster             |         5 |   0.8      |
 | Scarlets             |         5 |   0.6      |
+| Glasgow Warriors     |         4 |   0.5      |
 | Benetton Treviso     |         4 |   0.75     |
 | Perpignan            |         4 |   1        |
 | Wasps                |         3 |   0.666667 |
-| Glasgow Warriors     |         3 |   0.666667 |
 | England              |         3 |   0        |
 | Bath Rugby           |         3 |   1        |
 | Saracens             |         3 |   0.333333 |
@@ -64,6 +64,7 @@ categories: player
 | Cardiff Blues        |         2 |   0.5      |
 | Mont-de-Marsan       |         2 |   1        |
 | Edinburgh            |         2 |   0        |
+| Bristol Rugby        |         2 |   0        |
 | Fiji                 |         1 |   1        |
 | Northampton Saints   |         1 |   0        |
 | Petrarca Padova      |         1 |   1        |
@@ -73,4 +74,3 @@ categories: player
 | Argentina            |         1 |   0        |
 | Leicester Tigers     |         1 |   0        |
 | Ulster               |         1 |   1        |
-| Bristol Rugby        |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Morahan  
-date: 2023-01-06 00:24:13.775778  
+date: 2023-02-02 18:59:55.216407  
 categories: player  
 ---
 # Luke Morahan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 104.0
+## Current elo: 96.0
 
-## Current Percentile: 94.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -28,6 +28,7 @@ categories: player
 | Western Force   |            41 |   0.292683 |
 | Perth Spirit    |             8 |   0.625    |
 | Australia       |             2 |   0.5      |
+| Bayonne         |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -60,19 +61,19 @@ categories: player
 | Zebre                    |         3 |   0.833333 |
 | Leicester Tigers         |         3 |   0.666667 |
 | Hurricanes               |         3 |   0.333333 |
+| Brive                    |         3 |   1        |
 | Bedford                  |         2 |   1        |
 | Cornish Pirates          |         2 |   1        |
 | Ealing Trailfinders      |         2 |   1        |
 | Rotherham Titans         |         2 |   1        |
 | Richmond                 |         2 |   1        |
-| Brive                    |         2 |   1        |
 | Queensland Country       |         2 |   1        |
 | Brisbane City            |         2 |   0        |
 | Nottingham               |         2 |   1        |
+| Bordeaux Begles          |         2 |   0.5      |
 | Yorkshire Carnegie       |         2 |   1        |
 | Jersey                   |         2 |   0.5      |
 | Melbourne Rising         |         2 |   1        |
-| Bordeaux Begles          |         1 |   1        |
 | Toulon                   |         1 |   1        |
 | Sydney Stars             |         1 |   1        |
 | Sunwolves                |         1 |   1        |

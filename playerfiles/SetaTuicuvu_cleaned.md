@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta Tuicuvu  
-date: 2023-01-06 00:11:30.672836  
+date: 2023-02-02 18:55:56.153317  
 categories: player  
 ---
 # Seta Tuicuvu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 187.0
+## Current elo: 219.0
 
-## Current Percentile: 35.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,41 +23,42 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Brive             |            49 |   0.255102 |
+| Brive             |            52 |   0.278846 |
 | Clermont Auvergne |            28 |   0.446429 |
 | Fiji              |            10 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montpellier Herault  |         9 |  0.166667  |
+| Lyon                 |         6 |  0.333333  |
 | Stade Toulousain     |         6 |  0.166667  |
 | Castres Olympique    |         6 |  0.166667  |
-| Pau                  |         6 |  0.5       |
-| Lyon                 |         6 |  0.333333  |
 | Racing 92            |         6 |  0.0833333 |
-| Clermont Auvergne    |         5 |  0.4       |
-| Stade Francais Paris |         5 |  0.4       |
+| Pau                  |         6 |  0.5       |
+| Toulon               |         5 |  0.4       |
 | Bordeaux Begles      |         5 |  0.2       |
-| Toulon               |         4 |  0.25      |
+| Stade Francais Paris |         5 |  0.4       |
+| Clermont Auvergne    |         5 |  0.4       |
 | Perpignan            |         3 |  0.666667  |
-| New Zealand          |         2 |  0         |
-| Bayonne              |         2 |  0.5       |
-| Scotland             |         2 |  0         |
-| Biarritz Olympique   |         2 |  0.5       |
+| Bayonne              |         3 |  0.333333  |
 | Agen                 |         2 |  1         |
-| Tonga                |         1 |  1         |
-| Timisoara Saracens   |         1 |  1         |
-| Saracens             |         1 |  0         |
-| Spain                |         1 |  1         |
-| Wales                |         1 |  0         |
-| Northampton Saints   |         1 |  1         |
-| Samoa                |         1 |  0         |
-| Oyonnax              |         1 |  0         |
+| Scotland             |         2 |  0         |
+| New Zealand          |         2 |  0         |
+| Biarritz Olympique   |         2 |  0.5       |
 | La Rochelle          |         1 |  0         |
 | Ireland              |         1 |  0         |
-| Harlequins           |         1 |  1         |
-| Grenoble             |         1 |  1         |
-| Georgia              |         1 |  0.5       |
-| Connacht             |         1 |  0         |
+| Wales                |         1 |  0         |
+| Tonga                |         1 |  1         |
+| Timisoara Saracens   |         1 |  1         |
 | Brive                |         1 |  0         |
+| Cardiff Blues        |         1 |  1         |
+| Spain                |         1 |  1         |
+| Connacht             |         1 |  0         |
+| Saracens             |         1 |  0         |
+| Samoa                |         1 |  0         |
+| Georgia              |         1 |  0.5       |
+| Grenoble             |         1 |  1         |
+| Harlequins           |         1 |  1         |
+| Oyonnax              |         1 |  0         |
+| Northampton Saints   |         1 |  1         |
 | Zebre                |         1 |  0         |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clement Martinez  
-date: 2023-01-13 11:26:10.218562  
+date: 2023-02-02 19:02:21.861471  
 categories: player  
 ---
 # Clement Martinez
 
 ## Positions: H
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 85.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Agen               |            80 |   0.25     |
+| Agen               |            81 |   0.259259 |
 | Biarritz Olympique |            27 |   0.574074 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -36,26 +36,27 @@ categories: player
 | Provence Rugby       |         4 |   0.5      |
 | Oyonnax              |         4 |   0.5      |
 | Aurillac             |         4 |   0.75     |
-| Colomiers            |         4 |   0.25     |
-| Bordeaux Begles      |         4 |   0        |
-| Clermont Auvergne    |         4 |   0        |
 | Carcassonne          |         4 |   0.5      |
-| Castres Olympique    |         3 |   0        |
-| Soyaux-Angouleme     |         3 |   0.333333 |
+| Colomiers            |         4 |   0.25     |
+| Clermont Auvergne    |         4 |   0        |
+| Bordeaux Begles      |         4 |   0        |
+| Racing 92            |         3 |   0.166667 |
+| Grenoble             |         3 |   0.333333 |
 | Vannes               |         3 |   0.666667 |
-| US Bressane          |         3 |   0.333333 |
 | Massy                |         3 |   0.666667 |
 | Montpellier Herault  |         3 |   0.333333 |
-| Grenoble             |         3 |   0.333333 |
-| Racing 92            |         3 |   0.166667 |
+| Soyaux-Angouleme     |         3 |   0.333333 |
+| US Bressane          |         3 |   0.333333 |
+| Castres Olympique    |         3 |   0        |
 | Rouen                |         3 |   0.666667 |
-| Toulon               |         2 |   0        |
 | Stade Francais Paris |         2 |   0.5      |
-| Gloucester Rugby     |         2 |   0        |
 | Nevers               |         2 |   1        |
+| Gloucester Rugby     |         2 |   0        |
 | Narbonne             |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |
-| Edinburgh            |         1 |   0        |
-| London Irish         |         1 |   0        |
+| Toulon               |         2 |   0        |
 | Wasps                |         1 |   0        |
+| Edinburgh            |         1 |   0        |
+| Biarritz Olympique   |         1 |   1        |
+| London Irish         |         1 |   0        |
 | Zebre                |         1 |   1        |

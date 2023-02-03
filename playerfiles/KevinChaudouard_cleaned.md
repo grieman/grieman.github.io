@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kevin Chaudouard  
-date: 2023-01-15 11:43:31.963637  
+date: 2023-02-02 18:58:47.734527  
 categories: player  
 ---
 # Kevin Chaudouard
 
 ## Positions: FL
 
-## Current elo: 95.0
+## Current elo: 100.0
 
-## Current Percentile: 55.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            38 |   0.368421 |
+| Bourgoin-Jallieu |            40 |      0.375 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Nice                       |         5 |   0.4      |
 | Tarbes                     |         5 |   0.2      |
 | Albi                       |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.75     |
-| Nice                       |         4 |   0.25     |
 | Aubenas                    |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.333333 |
 | Chambery                   |         3 |   0.666667 |
+| Dax                        |         3 |   0        |
 | Massy                      |         3 |   0.333333 |
-| Dax                        |         2 |   0        |
 | Narbonne                   |         2 |   0        |
 | Dijon                      |         1 |   1        |
 | Rennes                     |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yannick Arroyo  
-date: 2023-01-13 11:33:59.347628  
+date: 2023-02-02 18:42:54.323172  
 categories: player  
 ---
 # Yannick Arroyo
@@ -21,17 +21,17 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
+| Beziers             |            13 |   0.384615 |
 | Montpellier Herault |            13 |   0.615385 |
-| Beziers             |            12 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Francais Paris |         3 |   0.666667 |
 | Vannes               |         2 |   0        |
+| Provence Rugby       |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   1        |
 | Lyon                 |         2 |   0        |
 | Nevers               |         2 |   0        |
-| Provence Rugby       |         1 |   0        |
 | Toulon               |         1 |   1        |
 | Stade Toulousain     |         1 |   1        |
 | Roval Drome XV       |         1 |   1        |

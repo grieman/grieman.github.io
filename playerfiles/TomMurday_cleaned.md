@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Murday  
-date: 2023-01-17 11:38:26.895891  
+date: 2023-02-02 18:59:23.203631  
 categories: player  
 ---
 # Tom Murday
@@ -22,7 +22,7 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Agen                             |            92 |   0.461957 |
-| Oyonnax                          |            30 |   0.833333 |
+| Oyonnax                          |            31 |   0.806452 |
 | Northland                        |            21 |   0.357143 |
 | Queensland Reds                  |             4 |   0.25     |
 | Toyota Industries Shuttles Aichi |             3 |   1        |
@@ -36,16 +36,17 @@ categories: player
 | Castres Olympique        |         5 |   0.4      |
 | Bordeaux Begles          |         5 |   0.2      |
 | Carcassonne              |         5 |   1        |
-| Perpignan                |         4 |   0.75     |
+| Mont-de-Marsan           |         4 |   0.75     |
 | Lyon                     |         4 |   0.25     |
 | Colomiers                |         4 |   0.375    |
 | Oyonnax                  |         4 |   0.25     |
 | Pau                      |         4 |   0.25     |
-| La Rochelle              |         4 |   0.25     |
+| Perpignan                |         4 |   0.75     |
 | Racing 92                |         4 |   0.625    |
 | Beziers                  |         4 |   0.625    |
 | Stade Francais Paris     |         4 |   0.75     |
 | Aurillac                 |         4 |   0.5      |
+| La Rochelle              |         4 |   0.25     |
 | Provence Rugby           |         3 |   0.5      |
 | Soyaux-Angouleme         |         3 |   1        |
 | Toulon                   |         3 |   0.666667 |
@@ -54,7 +55,6 @@ categories: player
 | Vannes                   |         3 |   1        |
 | Montauban                |         3 |   1        |
 | Agen                     |         3 |   1        |
-| Mont-de-Marsan           |         3 |   1        |
 | Hawke's Bay              |         3 |   0.333333 |
 | Brive                    |         3 |   1        |
 | Bayonne                  |         3 |   0.666667 |

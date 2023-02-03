@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richie Gray  
-date: 2023-01-06 00:13:33.561787  
+date: 2023-02-02 18:44:14.314498  
 categories: player  
 ---
 # Richie Gray
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 105.0
+## Current elo: 97.0
 
-## Current Percentile: 13.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Glasgow Warriors        |            86 |   0.488372 |
+| Glasgow Warriors        |            88 |   0.494318 |
 | Scotland                |            65 |   0.446154 |
 | Castres Olympique       |            61 |   0.409836 |
 | Stade Toulousain        |            50 |   0.66     |
@@ -41,38 +41,38 @@ categories: player
 | La Rochelle              |         8 |  0.625     |
 | Wales                    |         8 |  0.125     |
 | France                   |         8 |  0.125     |
+| Stade Francais Paris     |         7 |  0.714286  |
 | Italy                    |         7 |  0.857143  |
 | Ireland                  |         7 |  0.428571  |
-| Grenoble                 |         7 |  0.571429  |
 | Ospreys                  |         7 |  0.5       |
-| Stade Francais Paris     |         7 |  0.714286  |
+| Grenoble                 |         7 |  0.571429  |
 | England                  |         7 |  0.142857  |
-| Toulon                   |         7 |  0.285714  |
 | Bordeaux Begles          |         7 |  0.571429  |
 | Cardiff Blues            |         7 |  0.428571  |
+| Toulon                   |         7 |  0.285714  |
 | Ulster                   |         6 |  0.333333  |
+| Lyon                     |         5 |  0.2       |
+| Benetton Treviso         |         5 |  0.6       |
 | Dragons                  |         5 |  0.6       |
 | Munster                  |         5 |  0.2       |
-| Lyon                     |         5 |  0.2       |
 | Stade Toulousain         |         5 |  0.2       |
-| Benetton Treviso         |         5 |  0.6       |
+| Pau                      |         4 |  0.5       |
+| Brive                    |         4 |  0.5       |
+| Perpignan                |         4 |  0.75      |
+| Japan                    |         4 |  1         |
+| Bayonne                  |         4 |  0.75      |
 | South Africa             |         4 |  0.25      |
+| Bath Rugby               |         4 |  0.625     |
 | Scarlets                 |         4 |  0.5       |
 | New Zealand              |         4 |  0         |
 | Wasps                    |         4 |  0.25      |
 | Castres Olympique        |         4 |  0.25      |
-| Japan                    |         4 |  1         |
-| Bayonne                  |         4 |  0.75      |
-| Brive                    |         4 |  0.5       |
-| Pau                      |         4 |  0.5       |
-| Perpignan                |         3 |  0.666667  |
 | Oyonnax                  |         3 |  1         |
 | Northampton Saints       |         3 |  0.333333  |
 | Zebre                    |         3 |  1         |
 | Harlequins               |         3 |  0         |
 | Gloucester Rugby         |         3 |  0.666667  |
 | Samoa                    |         3 |  1         |
-| Bath Rugby               |         3 |  0.666667  |
 | Australia                |         3 |  0.333333  |
 | Sharks                   |         2 |  0.5       |
 | Tonga                    |         2 |  0.5       |

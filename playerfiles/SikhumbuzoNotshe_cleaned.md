@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sikhumbuzo Notshe  
-date: 2023-01-06 00:21:23.786040  
+date: 2023-02-02 18:41:45.388252  
 categories: player  
 ---
 # Sikhumbuzo Notshe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 106.0
+## Current elo: 98.0
 
-## Current Percentile: 88.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Stormers         |            58 |   0.5      |
 | Western Province |            35 |   0.628571 |
-| Sharks           |            29 |   0.758621 |
+| Sharks           |            32 |   0.75     |
 | Natal Sharks     |             7 |   0.571429 |
 | South Africa     |             6 |   0.5      |
 
@@ -57,20 +57,20 @@ categories: player
 | Western Province         |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
 | Hurricanes               |         2 |   0        |
+| Harlequins               |         2 |   0.5      |
 | Blues                    |         2 |   1        |
-| Brumbies                 |         2 |   0.5      |
+| Bordeaux Begles          |         2 |   1        |
+| Edinburgh                |         2 |   0.5      |
 | Dragons                  |         2 |   1        |
-| Cardiff Blues            |         1 |   0        |
-| Bordeaux Begles          |         1 |   1        |
+| Brumbies                 |         2 |   0.5      |
+| Stormers                 |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Ulster                   |         1 |   0        |
-| Stormers                 |         1 |   1        |
 | Connacht                 |         1 |   1        |
+| Cardiff Blues            |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
 | Scarlets                 |         1 |   1        |
-| Edinburgh                |         1 |   0        |
 | Ospreys                  |         1 |   1        |
 | New Zealand              |         1 |   0        |
 | Glasgow Warriors         |         1 |   1        |
-| Harlequins               |         1 |   1        |
 | Australia                |         1 |   1        |

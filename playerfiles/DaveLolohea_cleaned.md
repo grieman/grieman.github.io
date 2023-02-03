@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dave Lolohea  
-date: 2023-01-13 11:32:39.249374  
+date: 2023-02-02 19:01:32.771182  
 categories: player  
 ---
 # Dave Lolohea
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 73.0
+## Current elo: 74.0
 
-## Current Percentile: 5.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
 | Nevers                   |            64 |   0.539062 |
-| Provence Rugby           |            30 |   0.583333 |
+| Provence Rugby           |            32 |   0.546875 |
 | Greater Sydney Rams      |            15 |   0.366667 |
 | New South Wales Waratahs |             8 |   0.25     |
 | Sydney Rays              |             8 |   0.375    |
@@ -34,16 +34,16 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |         9 |   0.666667 |
 | Aurillac                   |         7 |   0.714286 |
+| Beziers                    |         7 |   0.785714 |
 | Biarritz Olympique         |         7 |   0.571429 |
 | Oyonnax                    |         7 |   0.357143 |
 | Colomiers                  |         7 |   0.285714 |
-| Beziers                    |         6 |   0.916667 |
 | Vannes                     |         6 |   0.416667 |
 | Rouen                      |         6 |   0.5      |
 | Provence Rugby             |         5 |   0.4      |
 | Soyaux-Angouleme           |         5 |   0.7      |
 | US Bressane                |         4 |   0.625    |
-| Montauban                  |         3 |   1        |
+| Montauban                  |         4 |   0.75     |
 | Nevers                     |         3 |   0.333333 |
 | NSW Country Eagles         |         3 |   0        |
 | Perpignan                  |         3 |   0.333333 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kakeru Okumura  
-date: 2023-01-30 17:52:31.265599  
+date: 2023-02-02 19:13:10.606963  
 categories: player  
 ---
 # Kakeru Okumura

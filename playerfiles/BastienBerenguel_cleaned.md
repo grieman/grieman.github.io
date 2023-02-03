@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bastien Berenguel  
-date: 2023-01-15 11:53:54.183007  
+date: 2023-02-02 18:48:58.536053  
 categories: player  
 ---
 # Bastien Berenguel
 
 ## Positions: FL
 
-## Current elo: 104.0
+## Current elo: 96.0
 
-## Current Percentile: 79.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Suresnes       |            25 |   0.52     |
+| Suresnes       |            27 |   0.481481 |
 | Dijon          |            13 |   0.384615 |
 | Mont-de-Marsan |             9 |   0.555556 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Narbonne                   |         4 |   0.25     |
 | Blagnac                    |         4 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         4 |   0.75     |
 | Dax                        |         4 |   0.25     |
-| Narbonne                   |         3 |   0.333333 |
+| Nice                       |         3 |   0.333333 |
 | Chambery                   |         3 |   1        |
 | Dijon                      |         2 |   1        |
 | US Bressane                |         2 |   0        |
 | Tarbes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0        |
-| Nice                       |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Albi                       |         2 |   0.5      |
 | Aubenas                    |         2 |   0.5      |

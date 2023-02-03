@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zach Mercer  
-date: 2023-01-13 11:30:27.264870  
+date: 2023-02-02 18:55:45.038359  
 categories: player  
 ---
 # Zach Mercer
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 100.0
 
-## Current Percentile: 60.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bath Rugby          |            96 |   0.536458 |
-| Montpellier Herault |            41 |   0.658537 |
+| Montpellier Herault |            44 |   0.625    |
 | England             |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -38,10 +38,10 @@ categories: player
 | Harlequins           |         7 |   0.428571 |
 | Sale Sharks          |         7 |   0.5      |
 | Northampton Saints   |         6 |   0.833333 |
+| Stade Toulousain     |         6 |   0        |
 | Gloucester Rugby     |         6 |   0.583333 |
-| Stade Toulousain     |         5 |   0        |
+| London Irish         |         6 |   0.75     |
 | Toulon               |         5 |   0.7      |
-| London Irish         |         5 |   0.8      |
 | Brive                |         4 |   0.875    |
 | Racing 92            |         4 |   0.75     |
 | Pau                  |         4 |   0.75     |
@@ -52,11 +52,11 @@ categories: player
 | La Rochelle          |         3 |   0.666667 |
 | Clermont Auvergne    |         3 |   0        |
 | Bordeaux Begles      |         3 |   0.666667 |
+| Ospreys              |         2 |   0        |
 | Saracens             |         2 |   1        |
 | Castres Olympique    |         2 |   1        |
 | Biarritz Olympique   |         2 |   1        |
 | Benetton Treviso     |         2 |   1        |
-| Ospreys              |         1 |   0        |
 | Bayonne              |         1 |   1        |
 | Japan                |         1 |   1        |
 | South Africa         |         1 |   1        |

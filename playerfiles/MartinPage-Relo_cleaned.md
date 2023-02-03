@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Martin Page-Relo  
-date: 2023-01-30 17:51:26.178868  
+date: 2023-02-02 18:57:45.576043  
 categories: player  
 ---
 # Martin Page-Relo
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

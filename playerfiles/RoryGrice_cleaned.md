@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Grice  
-date: 2023-01-13 11:34:46.446293  
+date: 2023-02-02 19:12:49.579376  
 categories: player  
 ---
 # Rory Grice
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |            93 |   0.586022 |
+| Oyonnax  |            94 |   0.579787 |
 | Grenoble |            60 |   0.466667 |
 | Waikato  |            11 |   0.545455 |
 
@@ -35,12 +35,12 @@ categories: player
 | La Rochelle                |         6 |  0.416667  |
 | Stade Toulousain           |         6 |  0.583333  |
 | Bayonne                    |         6 |  0.5       |
+| Mont-de-Marsan             |         6 |  0.5       |
 | Clermont Auvergne          |         6 |  0.0833333 |
 | Colomiers                  |         6 |  0.5       |
 | Toulon                     |         5 |  0.4       |
 | Stade Francais Paris       |         5 |  0.4       |
 | Nevers                     |         5 |  0.8       |
-| Mont-de-Marsan             |         5 |  0.6       |
 | Montauban                  |         5 |  0.6       |
 | Biarritz Olympique         |         5 |  0.4       |
 | Pau                        |         4 |  0.25      |

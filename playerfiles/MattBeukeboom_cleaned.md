@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Matt Beukeboom  
-date: 2023-01-15 11:44:44.502780  
+date: 2023-02-02 18:59:07.881813  
 categories: player  
 ---
 # Matt Beukeboom
 
 ## Positions: FL, L
 
-## Current elo: 74.0
+## Current elo: 73.0
 
 ## Current Percentile: 9.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Montauban        |            19 |   0.289474 |
-| Soyaux-Angouleme |            11 |   0.272727 |
+| Soyaux-Angouleme |            12 |   0.25     |
 | US Bressane      |            10 |   0.35     |
 
 | Opponent           |   Matches |   Win Rate |
@@ -36,10 +36,10 @@ categories: player
 | Rouen              |         3 |       0    |
 | Aurillac           |         2 |       0.5  |
 | Biarritz Olympique |         2 |       0.5  |
+| Colomiers          |         2 |       0    |
 | Montauban          |         2 |       0.25 |
 | Perpignan          |         2 |       0    |
 | Agen               |         1 |       1    |
 | Beziers            |         1 |       1    |
-| Colomiers          |         1 |       0    |
 | Nevers             |         1 |       0    |
 | Roval Drome XV     |         1 |       1    |

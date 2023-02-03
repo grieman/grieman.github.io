@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taro Aihara  
-date: 2023-01-30 17:50:44.271015  
+date: 2023-02-02 18:54:28.765123  
 categories: player  
 ---
 # Taro Aihara

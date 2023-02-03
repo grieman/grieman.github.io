@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alifereti Loaloa  
-date: 2023-01-13 11:25:40.697858  
+date: 2023-02-02 18:55:22.195983  
 categories: player  
 ---
 # Alifereti Loaloa
 
 ## Positions: C
 
-## Current elo: 76.0
+## Current elo: 79.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            39 |        0.5 |
+| Nevers |            41 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Vannes                     |         4 |   0.5      |
+| Oyonnax                    |         4 |   0        |
 | Rouen                      |         4 |   0.75     |
 | Provence Rugby             |         4 |   0.75     |
-| Mont-de-Marsan             |         3 |   0.666667 |
-| Oyonnax                    |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   1        |
-| Vannes                     |         3 |   0.333333 |
+| Mont-de-Marsan             |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.5      |
 | Grenoble                   |         2 |   0        |
 | Montauban                  |         2 |   1        |

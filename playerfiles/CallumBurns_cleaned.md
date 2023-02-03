@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Burns  
-date: 2023-01-21 15:41:36.436700  
+date: 2023-02-02 19:09:05.488576  
 categories: player  
 ---
 # Callum Burns
@@ -17,11 +17,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |             5 |        0.6 |
+| Bedford |             6 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ampthill            |         1 |          1 |
+| Caldy               |         1 |          0 |
 | Ealing Trailfinders |         1 |          0 |
 | Jersey              |         1 |          0 |
 | London Scottish     |         1 |          1 |

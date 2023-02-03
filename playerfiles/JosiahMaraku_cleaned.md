@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josiah Maraku  
-date: 2023-01-06 00:11:50.243469  
+date: 2023-02-02 19:14:21.471145  
 categories: player  
 ---
 # Josiah Maraku
 
 ## Positions: C
 
-## Current elo: 80.0
+## Current elo: 79.0
 
-## Current Percentile: 2.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,26 +23,28 @@ categories: player
 |:---------|--------------:|-----------:|
 | Narbonne |            15 |   0.233333 |
 | Manawatu |            14 |   0.428571 |
-| Lyon     |             6 |   0.333333 |
+| Lyon     |            10 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Otago                |         2 |        0.5 |
+| Oyonnax              |         2 |        0   |
+| Bay of Plenty        |         2 |        0   |
 | Brive                |         2 |        0.5 |
 | Canterbury           |         2 |        0.5 |
 | Carcassonne          |         2 |        0   |
+| Otago                |         2 |        0.5 |
 | Counties Manukau     |         2 |        1   |
-| Bay of Plenty        |         2 |        0   |
-| Oyonnax              |         2 |        0   |
-| Agen                 |         1 |        0   |
-| US Bressane          |         1 |        1   |
-| Taranaki             |         1 |        0   |
-| Stade Francais Paris |         1 |        1   |
-| Southland            |         1 |        1   |
-| Rouen                |         1 |        1   |
 | Racing 92            |         1 |        0   |
-| Provence Rugby       |         1 |        1   |
+| Pau                  |         1 |        1   |
 | Perpignan            |         1 |        0   |
+| Provence Rugby       |         1 |        1   |
+| Agen                 |         1 |        0   |
+| Rouen                |         1 |        1   |
+| Southland            |         1 |        1   |
+| Stade Francais Paris |         1 |        1   |
+| Taranaki             |         1 |        0   |
+| US Bressane          |         1 |        1   |
+| Saracens             |         1 |        0   |
 | Nevers               |         1 |        0   |
 | Northland            |         1 |        1   |
 | North Harbour        |         1 |        0   |
@@ -52,6 +54,8 @@ categories: player
 | Hawke's Bay          |         1 |        0   |
 | Grenoble             |         1 |        0.5 |
 | Colomiers            |         1 |        0   |
+| Clermont Auvergne    |         1 |        1   |
+| Bulls                |         1 |        1   |
 | Beziers              |         1 |        0   |
 | Bayonne              |         1 |        0   |
 | Wellington           |         1 |        0   |

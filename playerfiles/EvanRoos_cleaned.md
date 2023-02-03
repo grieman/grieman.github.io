@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Evan Roos  
-date: 2023-01-23 15:34:15.077397  
+date: 2023-02-02 18:58:43.531883  
 categories: player  
 ---
 # Evan Roos
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            24 |   0.791667 |
+| Stormers         |            25 |   0.76     |
 | Western Province |            10 |   0.55     |
 | South Africa     |             3 |   0.666667 |
 | Natal Sharks     |             2 |   1        |
@@ -31,12 +31,12 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Bulls               |         3 |   1        |
+| Ulster              |         3 |   0.666667 |
 | Edinburgh           |         3 |   0.833333 |
 | Free State Cheetahs |         3 |   0.666667 |
 | Golden Lions        |         3 |   0.666667 |
 | Zebre               |         2 |   1        |
 | Lions               |         2 |   0.5      |
-| Ulster              |         2 |   1        |
 | Connacht            |         2 |   0.5      |
 | Pumas               |         2 |   0.75     |
 | Ospreys             |         2 |   0.75     |

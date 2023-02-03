@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eroni Mawi  
-date: 2023-01-06 00:18:12.113078  
+date: 2023-02-02 19:10:21.026909  
 categories: player  
 ---
 # Eroni Mawi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 102.0
+## Current elo: 73.0
 
-## Current Percentile: 43.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -23,43 +23,43 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Saracens    |            33 |   0.69697  |
+| Saracens    |            37 |   0.702703 |
 | Fiji        |            16 |   0.40625  |
 | Fijian Drua |            15 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Gloucester Rugby    |         4 |   0.5      |
 | Harlequins          |         3 |   1        |
+| Bristol Rugby       |         3 |   0.666667 |
 | Newcastle Falcons   |         3 |   1        |
+| Edinburgh           |         3 |   0.333333 |
 | Exeter Chiefs       |         3 |   0.666667 |
 | Leicester Tigers    |         3 |   0.333333 |
-| Gloucester Rugby    |         3 |   0.333333 |
-| Melbourne Rising    |         2 |   1        |
+| Sydney Rays         |         2 |   0.5      |
 | Sale Sharks         |         2 |   1        |
+| Scotland            |         2 |   0        |
 | NSW Country Eagles  |         2 |   1        |
 | Bath Rugby          |         2 |   1        |
-| Scotland            |         2 |   0        |
+| Lyon                |         2 |   1        |
 | London Irish        |         2 |   0.5      |
-| Sydney Rays         |         2 |   0.5      |
+| Melbourne Rising    |         2 |   1        |
 | Tonga               |         2 |   1        |
 | Uruguay             |         2 |   0.5      |
 | Wales               |         2 |   0        |
-| Edinburgh           |         2 |   0.5      |
 | Canberra Vikings    |         2 |   0.5      |
-| Bristol Rugby       |         2 |   0.5      |
 | Brisbane City       |         2 |   0.5      |
 | Queensland Country  |         2 |   0        |
-| Perth Spirit        |         1 |   1        |
 | Spain               |         1 |   1        |
+| Perth Spirit        |         1 |   1        |
 | Wasps               |         1 |   0        |
-| Western Force       |         1 |   1        |
 | Samoa               |         1 |   0        |
+| Western Force       |         1 |   1        |
 | Australia           |         1 |   0        |
 | Nottingham          |         1 |   1        |
 | Northampton Saints  |         1 |   1        |
 | New Zealand Maori   |         1 |   1        |
 | New Zealand         |         1 |   0        |
-| Lyon                |         1 |   1        |
 | Jersey              |         1 |   1        |
 | Ireland             |         1 |   0        |
 | Greater Sydney Rams |         1 |   1        |

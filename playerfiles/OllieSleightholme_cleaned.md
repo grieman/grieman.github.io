@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ollie Sleightholme  
-date: 2023-01-21 15:43:11.710801  
+date: 2023-02-02 18:56:51.893717  
 categories: player  
 ---
 # Ollie Sleightholme
 
 ## Positions: W
 
-## Current elo: 103.0
+## Current elo: 109.0
 
-## Current Percentile: 70.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            45 |   0.622222 |
+| Northampton Saints |            46 |   0.630435 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,10 +33,10 @@ categories: player
 | Worcester Warriors |         4 |   1        |
 | Exeter Chiefs      |         4 |   0.75     |
 | Newcastle Falcons  |         3 |   0.333333 |
+| Leicester Tigers   |         2 |   0.5      |
 | Benetton Treviso   |         2 |   1        |
 | Saracens           |         2 |   0.5      |
 | La Rochelle        |         1 |   0        |
-| Leicester Tigers   |         1 |   0        |
 | Lyon               |         1 |   1        |
 | Dragons            |         1 |   1        |
 | Timisoara Saracens |         1 |   1        |

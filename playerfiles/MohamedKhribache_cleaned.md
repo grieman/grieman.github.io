@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mohamed Khribache  
-date: 2023-01-17 11:40:36.406095  
+date: 2023-02-02 18:39:49.820600  
 categories: player  
 ---
 # Mohamed Khribache
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 102.0
 
 ## Current Percentile: 75.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |           146 |   0.414384 |
+| Bourgoin-Jallieu |           147 |   0.411565 |
 | Mont-de-Marsan   |            57 |   0.508772 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |        13 |   0.423077 |
 | Albi                       |        12 |   0.166667 |
-| Dax                        |        10 |   0.6      |
+| Dax                        |        11 |   0.545455 |
 | Beziers                    |        10 |   0.6      |
 | Tarbes                     |         9 |   0.444444 |
 | Soyaux-Angouleme           |         9 |   0.222222 |

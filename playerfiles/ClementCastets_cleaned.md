@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clement Castets  
-date: 2023-01-06 00:09:34.237401  
+date: 2023-02-02 19:02:12.716288  
 categories: player  
 ---
 # Clement Castets
 
 ## Positions: P
 
-## Current elo: 119.0
+## Current elo: 103.0
 
-## Current Percentile: 88.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stade Toulousain     |            71 |   0.683099 |
-| Stade Francais Paris |            22 |   0.613636 |
+| Stade Francais Paris |            25 |   0.58     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -31,16 +31,16 @@ categories: player
 | Bordeaux Begles      |         7 |   0.571429 |
 | Pau                  |         7 |   0.857143 |
 | Toulon               |         6 |   0.583333 |
-| Lyon                 |         5 |   0.4      |
+| Castres Olympique    |         6 |   0.5      |
 | Bayonne              |         5 |   0.6      |
-| Castres Olympique    |         5 |   0.4      |
 | Racing 92            |         5 |   0.6      |
+| Lyon                 |         5 |   0.4      |
 | Brive                |         4 |   0.5      |
 | Clermont Auvergne    |         4 |   1        |
-| Stade Francais Paris |         3 |   0.666667 |
-| Perpignan            |         3 |   1        |
-| Agen                 |         3 |   1        |
+| Perpignan            |         4 |   0.75     |
 | Leinster             |         3 |   0.333333 |
+| Stade Francais Paris |         3 |   0.666667 |
+| Agen                 |         3 |   1        |
 | Bath Rugby           |         2 |   1        |
 | Oyonnax              |         2 |   0.75     |
 | Gloucester Rugby     |         2 |   1        |
@@ -51,3 +51,4 @@ categories: player
 | Grenoble             |         1 |   1        |
 | Sale Sharks          |         1 |   0.5      |
 | Biarritz Olympique   |         1 |   1        |
+| Benetton Treviso     |         1 |   0        |

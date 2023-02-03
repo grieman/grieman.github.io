@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Valentin Gayraud  
-date: 2023-01-30 11:43:15.994074  
+date: 2023-02-02 18:53:15.217672  
 categories: player  
 ---
 # Valentin Gayraud

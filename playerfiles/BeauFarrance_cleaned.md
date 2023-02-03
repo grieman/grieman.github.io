@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beau Farrance  
-date: 2023-01-13 11:25:31.089409  
+date: 2023-02-02 18:49:39.436227  
 categories: player  
 ---
 # Beau Farrance
@@ -22,12 +22,13 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |             5 |        0.4 |
-| Agen             |             2 |        1   |
+| Agen             |             3 |        1   |
 | Tarbes           |             2 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          1 |
+| Biarritz Olympique         |         1 |          1 |
 | Carqueiranne-Hyères        |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Dijon                      |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommy Mathews  
-date: 2023-01-13 11:36:36.096360  
+date: 2023-02-02 18:48:20.346742  
 categories: player  
 ---
 # Tommy Mathews
@@ -21,18 +21,18 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            21 |   0.357143 |
+| Hartpury College |            24 |   0.395833 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Cornish Pirates     |         3 |   0.666667 |
+| Doncaster           |         3 |   0.333333 |
+| Ealing Trailfinders |         3 |   0        |
+| Richmond            |         3 |   0.333333 |
 | Ampthill            |         2 |   0.5      |
 | Coventry            |         2 |   0.5      |
-| Doncaster           |         2 |   0        |
-| Ealing Trailfinders |         2 |   0        |
 | Jersey              |         2 |   0        |
 | London Scottish     |         2 |   0.75     |
 | Nottingham          |         2 |   0.5      |
-| Richmond            |         2 |   0        |
 | Bedford             |         1 |   0        |
 | Caldy               |         1 |   1        |

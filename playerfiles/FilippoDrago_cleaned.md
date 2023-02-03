@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Filippo Drago  
-date: 2023-01-06 00:16:31.568976  
+date: 2023-02-02 19:03:49.268916  
 categories: player  
 ---
 # Filippo Drago
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 103.0
+## Current elo: 90.0
 
-## Current Percentile: 48.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            10 |       0.35 |
-| Italy            |             1 |       1    |
+| Benetton Treviso |            11 |   0.318182 |
+| Italy            |             1 |   1        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -36,5 +36,6 @@ categories: player
 | Glasgow Warriors |         1 |        0   |
 | Leinster         |         1 |        0   |
 | Lions            |         1 |        0   |
+| Munster          |         1 |        0   |
 | Namibia          |         1 |        1   |
 | Sharks           |         1 |        0   |

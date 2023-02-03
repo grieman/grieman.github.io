@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thom Smith  
-date: 2023-01-13 11:26:41.978712  
+date: 2023-02-02 19:06:17.495891  
 categories: player  
 ---
 # Thom Smith
 
 ## Positions: N8, FL
 
-## Current elo: 78.0
+## Current elo: 76.0
 
-## Current Percentile: 14.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,20 +21,20 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Doncaster          |            24 |   0.75     |
+| Doncaster          |            27 |   0.740741 |
 | Leicester Tigers   |             9 |   0.222222 |
 | Yorkshire Carnegie |             6 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Hartpury College    |         4 |   0.75     |
+| Hartpury College    |         5 |   0.6      |
+| Nottingham          |         4 |   0.75     |
 | Ealing Trailfinders |         4 |   0.5      |
 | Ampthill            |         3 |   0.666667 |
 | Bedford             |         3 |   0.666667 |
-| Nottingham          |         3 |   0.666667 |
+| Richmond            |         3 |   1        |
 | Cornish Pirates     |         3 |   0.333333 |
 | Coventry            |         3 |   0.333333 |
-| Richmond            |         2 |   1        |
 | London Scottish     |         2 |   0.5      |
 | Jersey              |         2 |   0.5      |
 | Toulon              |         1 |   0        |

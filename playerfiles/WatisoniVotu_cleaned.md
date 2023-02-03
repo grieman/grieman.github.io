@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Watisoni Votu  
-date: 2023-01-17 11:43:11.143360  
+date: 2023-02-02 18:58:12.475502  
 categories: player  
 ---
 # Watisoni Votu
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Pau           |           121 |   0.458678 |
 | Perpignan     |            36 |   0.513889 |
-| Beziers       |            32 |   0.453125 |
+| Beziers       |            33 |   0.469697 |
 | Fiji          |             6 |   0.333333 |
 | Exeter Chiefs |             3 |   0.333333 |
 
@@ -47,15 +47,15 @@ categories: player
 | Oyonnax                  |         6 |   0.583333 |
 | Carcassonne              |         4 |   0.25     |
 | Aurillac                 |         4 |   0.625    |
+| Provence Rugby           |         4 |   0.25     |
 | Grenoble                 |         4 |   0.75     |
 | Colomiers                |         4 |   0.5      |
-| Sale Sharks              |         3 |   0        |
 | Rouen                    |         3 |   0.666667 |
-| Provence Rugby           |         3 |   0        |
+| Sale Sharks              |         3 |   0        |
 | Narbonne                 |         3 |   1        |
 | Mont-de-Marsan           |         3 |   0.333333 |
-| Vannes                   |         2 |   0        |
 | Tarbes                   |         2 |   0.5      |
+| Vannes                   |         2 |   0        |
 | Perpignan                |         2 |   1        |
 | Worcester Warriors       |         2 |   1        |
 | US Bressane              |         2 |   0        |

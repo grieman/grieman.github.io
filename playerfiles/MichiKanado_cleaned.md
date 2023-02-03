@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michi Kanado  
-date: 2023-01-30 17:52:21.512549  
+date: 2023-02-02 18:59:27.390601  
 categories: player  
 ---
 # Michi Kanado

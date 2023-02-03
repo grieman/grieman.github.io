@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Liam Chad Hendricks  
-date: 2023-01-15 11:50:21.803429  
+date: 2023-02-02 19:12:12.845435  
 categories: player  
 ---
 # Liam Chad Hendricks
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 93.0
 
-## Current Percentile: 43.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
+| Carqueiranne-Hyères |            15 |   0.333333 |
 | Griquas             |            15 |   0.266667 |
-| Carqueiranne-Hyères |            14 |   0.357143 |
 | Pumas               |             4 |   0.5      |
 | Olimpia Lions       |             1 |   0        |
 
@@ -31,13 +31,13 @@ categories: player
 | Blue Bulls                 |         4 |   0.25     |
 | Natal Sharks               |         4 |   0        |
 | Western Province           |         3 |   0.333333 |
+| Valence Romans Drome Rugby |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0        |
 | Suresnes                   |         2 |   0.5      |
 | Free State Cheetahs        |         2 |   0.5      |
 | Golden Lions               |         2 |   0        |
 | Pumas                      |         2 |   0.5      |
 | Nice                       |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0        |
 | US Bressane                |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Rennes                     |         1 |   0        |

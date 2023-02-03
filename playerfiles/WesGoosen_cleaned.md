@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wes Goosen  
-date: 2023-01-23 15:29:27.144057  
+date: 2023-02-02 18:52:03.155925  
 categories: player  
 ---
 # Wes Goosen
@@ -25,7 +25,7 @@ categories: player
 |:-----------|--------------:|-----------:|
 | Hurricanes |            71 |   0.591549 |
 | Wellington |            52 |   0.644231 |
-| Edinburgh  |             7 |   0.571429 |
+| Edinburgh  |             8 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,18 +33,18 @@ categories: player
 | Crusaders                |        12 |   0.25     |
 | Blues                    |         9 |   0.555556 |
 | Northland                |         6 |   1        |
-| North Harbour            |         5 |   0.6      |
 | Waikato                  |         5 |   0.4      |
 | Highlanders              |         5 |   0.8      |
 | Brumbies                 |         5 |   0.4      |
 | Taranaki                 |         5 |   0.6      |
 | Bay of Plenty            |         5 |   0.8      |
+| North Harbour            |         5 |   0.6      |
 | Manawatu                 |         4 |   0.75     |
-| Southland                |         4 |   1        |
 | Hawke's Bay              |         4 |   0.625    |
+| Southland                |         4 |   1        |
+| Sharks                   |         4 |   0.75     |
 | Otago                    |         4 |   0.5      |
 | Queensland Reds          |         3 |   1        |
-| Sharks                   |         3 |   1        |
 | Tasman                   |         3 |   0        |
 | Melbourne Rebels         |         3 |   1        |
 | Auckland                 |         3 |   0.333333 |

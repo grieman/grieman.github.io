@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Burns  
-date: 2023-01-06 00:10:33.583047  
+date: 2023-02-02 18:44:27.727479  
 categories: player  
 ---
 # Freddie Burns
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 106.0
+## Current elo: 104.0
 
-## Current Percentile: 83.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Gloucester Rugby                 |           136 |   0.511029 |
-| Leicester Tigers                 |           116 |   0.646552 |
+| Leicester Tigers                 |           117 |   0.641026 |
 | Bath Rugby                       |            70 |   0.492857 |
 | Jersey                           |            11 |   0.5      |
 | England                          |             6 |   0.666667 |
@@ -34,7 +34,7 @@ categories: player
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
 | Saracens              |        28 |   0.392857 |
-| Northampton Saints    |        26 |   0.615385 |
+| Northampton Saints    |        27 |   0.592593 |
 | Harlequins            |        24 |   0.458333 |
 | Exeter Chiefs         |        23 |   0.478261 |
 | Wasps                 |        23 |   0.413043 |

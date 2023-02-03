@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Morgan Morris  
-date: 2023-01-06 00:09:05.051044  
+date: 2023-02-02 18:53:13.036018  
 categories: player  
 ---
 # Morgan Morris
 
 ## Positions: N8, FL
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: 13.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Ospreys |            61 |   0.385246 |
+| Ospreys |            65 |   0.407692 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,20 +30,20 @@ categories: player
 | Scarlets            |         6 |   0.416667 |
 | Connacht            |         5 |   0.4      |
 | Ulster              |         4 |   0.25     |
+| Zebre               |         3 |   1        |
 | Munster             |         3 |   0.333333 |
-| Lions               |         2 |   0        |
+| Leinster            |         3 |   0.333333 |
 | Worcester Warriors  |         2 |   0.5      |
 | Stormers            |         2 |   0.25     |
 | Sharks              |         2 |   0        |
 | Saracens            |         2 |   0        |
 | Racing 92           |         2 |   0        |
-| Zebre               |         2 |   1        |
+| Lions               |         2 |   0        |
+| Montpellier Herault |         2 |   1        |
 | Bulls               |         2 |   0        |
-| Leinster            |         2 |   0.5      |
+| Leicester Tigers    |         2 |   0.5      |
 | Glasgow Warriors    |         2 |   0        |
 | Edinburgh           |         2 |   1        |
-| Montpellier Herault |         1 |   1        |
-| Leicester Tigers    |         1 |   0        |
 | Gloucester Rugby    |         1 |   0        |
 | Southern Kings      |         1 |   0        |
 | Cheetahs            |         1 |   0        |

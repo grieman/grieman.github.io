@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Florian Lamothe  
-date: 2023-01-17 11:32:41.943035  
+date: 2023-02-02 18:49:50.889825  
 categories: player  
 ---
 # Florian Lamothe
 
 ## Positions: H
 
-## Current elo: 80.0
+## Current elo: 81.0
 
-## Current Percentile: 5.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            55 |   0.454545 |
+| Tarbes |            57 |   0.464912 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Cognac Saint Jean d'Angély |         6 |   0.916667 |
+| Blagnac                    |         5 |   0.3      |
 | Chambery                   |         5 |   0.4      |
 | Albi                       |         4 |   0.75     |
-| Blagnac                    |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   1        |
 | Suresnes                   |         4 |   0.25     |
 | Dax                        |         4 |   0.5      |
@@ -37,8 +37,8 @@ categories: player
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Massy                      |         3 |   0        |
 | Aubenas                    |         3 |   0.666667 |
+| Rennes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | US Bressane                |         2 |   0        |
 | Dijon                      |         2 |   0.25     |
-| Rennes                     |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   0        |

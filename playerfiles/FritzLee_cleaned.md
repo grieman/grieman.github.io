@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fritz Lee  
-date: 2023-01-06 00:11:01.104809  
+date: 2023-02-02 18:48:46.884492  
 categories: player  
 ---
 # Fritz Lee
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 144.0
+## Current elo: 138.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           209 |   0.633971 |
+| Clermont Auvergne |           212 |   0.629717 |
 | Counties Manukau  |            30 |   0.566667 |
 | Chiefs            |            21 |   0.452381 |
 | Samoa             |             4 |   0.75     |
@@ -39,7 +39,7 @@ categories: player
 | Pau                      |        13 |   0.769231 |
 | La Rochelle              |        12 |   0.708333 |
 | Castres Olympique        |        12 |   0.625    |
-| Lyon                     |        11 |   0.636364 |
+| Lyon                     |        12 |   0.583333 |
 | Grenoble                 |         7 |   0.785714 |
 | Brive                    |         6 |   0.5      |
 | Saracens                 |         6 |   0.5      |
@@ -49,10 +49,10 @@ categories: player
 | Northampton Saints       |         5 |   0.8      |
 | Tasman                   |         4 |   0.5      |
 | Blues                    |         4 |   0.75     |
+| Perpignan                |         4 |   0.75     |
 | Bay of Plenty            |         4 |   0.5      |
 | Ospreys                  |         4 |   0.75     |
 | Southland                |         3 |   0.666667 |
-| Perpignan                |         3 |   0.666667 |
 | Waikato                  |         3 |   0.333333 |
 | Wellington               |         3 |   0.333333 |
 | Harlequins               |         3 |   1        |
@@ -60,31 +60,31 @@ categories: player
 | Highlanders              |         3 |   0.666667 |
 | Exeter Chiefs            |         3 |   1        |
 | Hawke's Bay              |         3 |   0.333333 |
-| Queensland Reds          |         2 |   0        |
+| Leicester Tigers         |         2 |   0.5      |
 | Bath Rugby               |         2 |   1        |
 | Ulster                   |         2 |   0.5      |
 | Taranaki                 |         2 |   0.5      |
 | Crusaders                |         2 |   0        |
 | Scarlets                 |         2 |   1        |
 | Sale Sharks              |         2 |   1        |
+| Queensland Reds          |         2 |   0        |
 | Manawatu                 |         2 |   1        |
 | Northland                |         2 |   1        |
 | North Harbour            |         2 |   1        |
 | New South Wales Waratahs |         2 |   0        |
 | Munster                  |         2 |   1        |
 | Hurricanes               |         2 |   0.25     |
-| Otago                    |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Lions                    |         1 |   1        |
 | Italy                    |         1 |   0        |
 | Auckland                 |         1 |   0        |
 | Tonga                    |         1 |   1        |
 | Brumbies                 |         1 |   0        |
-| Cheetahs                 |         1 |   1        |
+| Otago                    |         1 |   1        |
 | Bulls                    |         1 |   0        |
 | Georgia                  |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | Leinster                 |         1 |   1        |
 | Fiji                     |         1 |   1        |
-| Leicester Tigers         |         1 |   1        |
+| Cheetahs                 |         1 |   1        |

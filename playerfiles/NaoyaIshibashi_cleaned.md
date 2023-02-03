@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Naoya Ishibashi  
-date: 2023-01-30 17:54:10.579399  
+date: 2023-02-02 18:46:12.055302  
 categories: player  
 ---
 # Naoya Ishibashi

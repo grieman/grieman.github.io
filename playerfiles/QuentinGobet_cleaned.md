@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Gobet  
-date: 2023-01-15 11:42:30.298513  
+date: 2023-02-02 18:51:11.621811  
 categories: player  
 ---
 # Quentin Gobet

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andre Warner  
-date: 2023-01-13 11:37:48.146968  
+date: 2023-02-02 18:47:27.302548  
 categories: player  
 ---
 # Andre Warner
 
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 91.0
 
-## Current Percentile: 35.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Lions                |            25 |   0.38     |
+| Lions                |            27 |   0.388889 |
 | Blue Bulls           |            21 |   0.619048 |
 | Bulls                |            20 |   0.425    |
 | Golden Lions         |            13 |   0.423077 |
@@ -30,25 +30,26 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Griquas                  |         9 |   0.666667 |
-| Sharks                   |         6 |   0.5      |
 | Pumas                    |         6 |   0.666667 |
+| Sharks                   |         6 |   0.5      |
 | Natal Sharks             |         5 |   0.4      |
+| Dragons                  |         4 |   0.875    |
 | Free State Cheetahs      |         4 |   0.625    |
-| Dragons                  |         3 |   0.833333 |
-| Melbourne Rebels         |         3 |   0.666667 |
-| Stormers                 |         3 |   0.333333 |
 | Golden Lions             |         3 |   0.666667 |
-| Western Province         |         3 |   0.333333 |
 | Blue Bulls               |         3 |   0        |
-| New South Wales Waratahs |         2 |   0.5      |
+| Stormers                 |         3 |   0.333333 |
+| Western Province         |         3 |   0.333333 |
+| Melbourne Rebels         |         3 |   0.666667 |
 | Ospreys                  |         2 |   0.5      |
 | Scarlets                 |         2 |   0.5      |
+| Connacht                 |         2 |   0        |
+| New South Wales Waratahs |         2 |   0.5      |
 | Bulls                    |         2 |   0        |
 | Brumbies                 |         2 |   0        |
-| Blues                    |         2 |   0.25     |
 | Hurricanes               |         2 |   0.5      |
 | Jaguares                 |         2 |   0        |
 | Lions                    |         2 |   0.5      |
+| Blues                    |         2 |   0.25     |
 | Benetton Treviso         |         1 |   1        |
 | Southern Kings           |         1 |   0        |
 | Stade Francais Paris     |         1 |   1        |
@@ -64,6 +65,5 @@ categories: player
 | Edinburgh                |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
 | Crusaders                |         1 |   0        |
-| Connacht                 |         1 |   0        |
 | Chiefs                   |         1 |   0        |
 | Zebre                    |         1 |   1        |

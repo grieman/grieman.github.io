@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Caillet  
-date: 2023-01-23 15:33:17.596803  
+date: 2023-02-02 18:52:35.832886  
 categories: player  
 ---
 # Maxime Caillet
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 54.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |             2 |        0.5 |
+| Bourgoin-Jallieu |             3 |   0.333333 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Albi       |         1 |          0 |
+| Dax        |         1 |          0 |
 | Nice       |         1 |          1 |

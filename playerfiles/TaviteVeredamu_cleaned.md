@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tavite Veredamu  
-date: 2023-01-06 00:17:45.943738  
+date: 2023-02-02 18:52:29.803013  
 categories: player  
 ---
 # Tavite Veredamu
 
 ## Positions: W, C
 
-## Current elo: 98.0
+## Current elo: 88.0
 
-## Current Percentile: 35.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,20 +21,20 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Lyon              |            13 |   0.384615 |
-| Clermont Auvergne |             4 |   0.5      |
+| Lyon              |            16 |     0.4375 |
+| Clermont Auvergne |             4 |     0.5    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Toulon               |         3 |        0   |
-| Brive                |         2 |        0.5 |
-| Clermont Auvergne    |         2 |        0.5 |
-| Montpellier Herault  |         2 |        0.5 |
-| Agen                 |         1 |        1   |
-| Bayonne              |         1 |        0   |
-| Bulls                |         1 |        0   |
-| Castres Olympique    |         1 |        1   |
-| Pau                  |         1 |        1   |
-| Saracens             |         1 |        0   |
-| Stade Francais Paris |         1 |        0   |
-| Stade Toulousain     |         1 |        1   |
+| Clermont Auvergne    |         3 |   0.666667 |
+| Toulon               |         3 |   0        |
+| Brive                |         2 |   0.5      |
+| Montpellier Herault  |         2 |   0.5      |
+| Pau                  |         2 |   1        |
+| Saracens             |         2 |   0        |
+| Agen                 |         1 |   1        |
+| Bayonne              |         1 |   0        |
+| Bulls                |         1 |   0        |
+| Castres Olympique    |         1 |   1        |
+| Stade Francais Paris |         1 |   0        |
+| Stade Toulousain     |         1 |   1        |

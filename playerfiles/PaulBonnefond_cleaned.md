@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Bonnefond  
-date: 2023-01-17 11:46:41.754400  
+date: 2023-02-02 19:14:14.740918  
 categories: player  
 ---
 # Paul Bonnefond
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Castres Olympique |            74 |   0.513514 |
 | Lyon              |            44 |   0.534091 |
-| Montauban         |            31 |   0.580645 |
+| Montauban         |            32 |   0.5625   |
 | Vannes            |            19 |   0.578947 |
 | Oyonnax           |            12 |   0.416667 |
 
@@ -64,6 +64,7 @@ categories: player
 | Munster              |         2 |   0        |
 | Newcastle Falcons    |         2 |   0.5      |
 | Montpellier Herault  |         2 |   1        |
+| Massy                |         2 |   0.5      |
 | London Welsh         |         2 |   1        |
 | La Rochelle          |         2 |   0.25     |
 | Glasgow Warriors     |         2 |   1        |
@@ -74,6 +75,5 @@ categories: player
 | Saint-Etienne        |         1 |   1        |
 | Saracens             |         1 |   0        |
 | Albi                 |         1 |   0        |
-| Massy                |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
 | Bourgoin-Jallieu     |         1 |   0        |

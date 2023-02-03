@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake Pope  
-date: 2023-02-02 15:50:01.092236  
+date: 2023-02-02 19:13:46.313597  
 categories: player  
 ---
 # Jake Pope

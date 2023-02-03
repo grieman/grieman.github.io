@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Willis  
-date: 2023-01-06 00:08:56.662848  
+date: 2023-02-02 18:58:50.645003  
 categories: player  
 ---
 # Tom Willis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 83.0
+## Current Percentile: 85.0
 
 # Elo History
 

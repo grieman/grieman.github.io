@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kazuhiro Kawata  
-date: 2023-01-13 11:31:40.528645  
+date: 2023-02-02 19:08:01.504406  
 categories: player  
 ---
 # Kazuhiro Kawata
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 69.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,17 +21,18 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            14 |   0.285714 |
+| Shizuoka Blue Revs |            17 |   0.323529 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Toshiba Brave Lupus Tokyo         |         3 |          0 |
-| Saitama Wild Knights              |         2 |          0 |
-| Toyota Verblitz                   |         2 |          0 |
-| Black Rams Tokyo                  |         1 |          1 |
-| Green Rockets Tokatsu             |         1 |          1 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
-| NTT Docomo Red Hurricanes Osaka   |         1 |          1 |
-| Tokyo Sungoliath                  |         1 |          0 |
-| Urayasu D-Rocks                   |         1 |          1 |
-| Yokohama Canon Eagles             |         1 |          0 |
+| Toshiba Brave Lupus Tokyo         |         3 |        0   |
+| Black Rams Tokyo                  |         2 |        0.5 |
+| Green Rockets Tokatsu             |         2 |        1   |
+| Saitama Wild Knights              |         2 |        0   |
+| Toyota Verblitz                   |         2 |        0   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
+| Mitsubishi Dynaboars              |         1 |        0.5 |
+| NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
+| Tokyo Sungoliath                  |         1 |        0   |
+| Urayasu D-Rocks                   |         1 |        1   |
+| Yokohama Canon Eagles             |         1 |        0   |

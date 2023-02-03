@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Epineri Uluiviti  
-date: 2023-01-13 11:36:58.358427  
+date: 2023-02-02 19:09:18.419401  
 categories: player  
 ---
 # Epineri Uluiviti
 
-## Positions: L, N8
+## Positions: L
 
-## Current elo: 87.0
+## Current elo: 85.0
 
-## Current Percentile: 30.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            14 |   0.714286 |
+| Mitsubishi Dynaboars |            15 |   0.666667 |
 | Northland            |             3 |   0        |
 
 | Opponent                  |   Matches |   Win Rate |
@@ -39,5 +39,6 @@ categories: player
 | Saitama Wild Knights      |         1 |        0   |
 | Shizuoka Blue Revs        |         1 |        0   |
 | Skyactivs Hiroshima       |         1 |        1   |
+| Tokyo Sungoliath          |         1 |        0   |
 | Toshiba Brave Lupus Tokyo |         1 |        0   |
 | Toyota Verblitz           |         1 |        1   |

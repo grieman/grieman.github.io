@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Crosbie  
-date: 2023-01-06 00:09:23.939525  
+date: 2023-02-02 19:13:26.261625  
 categories: player  
 ---
 # Luke Crosbie
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 125.0
+## Current elo: 130.0
 
 ## Current Percentile: 96.0
 
@@ -23,29 +23,29 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            73 |   0.616438 |
+| Edinburgh |            75 |   0.626667 |
 | Scotland  |             3 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Glasgow Warriors    |         8 |   0.625    |
-| Zebre               |         6 |   0.833333 |
+| Zebre               |         7 |   0.857143 |
+| Dragons             |         6 |   0.833333 |
 | Benetton Treviso    |         6 |   0.333333 |
 | Cardiff Blues       |         6 |   0.666667 |
-| Dragons             |         6 |   0.833333 |
 | Scarlets            |         5 |   0.8      |
-| Ulster              |         4 |   0.25     |
 | Southern Kings      |         4 |   0.75     |
+| Ulster              |         4 |   0.25     |
 | Leinster            |         3 |   0.333333 |
-| Krasny Yar          |         2 |   1        |
-| Munster             |         2 |   0        |
-| Stormers            |         2 |   0.25     |
-| Connacht            |         2 |   1        |
+| Saracens            |         3 |   0.666667 |
 | Ospreys             |         2 |   0.5      |
+| Krasny Yar          |         2 |   1        |
 | Toulon              |         2 |   1        |
+| Stormers            |         2 |   0.25     |
 | Bulls               |         2 |   0.5      |
 | Bordeaux Begles     |         2 |   0.25     |
-| Saracens            |         2 |   0.5      |
+| Munster             |         2 |   0        |
+| Connacht            |         2 |   1        |
 | Tonga               |         1 |   1        |
 | Agen                |         1 |   1        |
 | Newcastle Falcons   |         1 |   1        |

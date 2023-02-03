@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shane Lewis-Hughes  
-date: 2023-01-23 15:34:03.205212  
+date: 2023-02-02 19:07:36.449353  
 categories: player  
 ---
 # Shane Lewis-Hughes
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            55 |   0.454545 |
+| Cardiff Blues |            56 |   0.446429 |
 | Wales         |             1 |   0        |
 
 | Opponent          |   Matches |   Win Rate |
@@ -34,22 +34,22 @@ categories: player
 | Dragons           |         4 |   1        |
 | Benetton Treviso  |         3 |   0.666667 |
 | Munster           |         3 |   0        |
-| Leicester Tigers  |         2 |   0        |
-| Pau               |         2 |   0.5      |
 | Lions             |         2 |   0        |
+| Ulster            |         2 |   0        |
+| Southern Kings    |         2 |   1        |
+| Pau               |         2 |   0.5      |
 | Newcastle Falcons |         2 |   0.5      |
+| Leinster          |         2 |   0.5      |
+| Leicester Tigers  |         2 |   0        |
 | Glasgow Warriors  |         2 |   0        |
 | Edinburgh         |         2 |   0.5      |
-| Southern Kings    |         2 |   1        |
 | Calvisano         |         2 |   1        |
-| Ulster            |         2 |   0        |
-| Scotland          |         1 |   0        |
-| Sharks            |         1 |   1        |
-| Leinster          |         1 |   1        |
-| Lyon              |         1 |   1        |
 | Brive             |         1 |   0        |
+| Lyon              |         1 |   1        |
 | Harlequins        |         1 |   0        |
 | Exeter Chiefs     |         1 |   0        |
 | Cheetahs          |         1 |   1        |
+| Scotland          |         1 |   0        |
+| Sharks            |         1 |   1        |
 | Bulls             |         1 |   0        |
 | Zebre             |         1 |   1        |

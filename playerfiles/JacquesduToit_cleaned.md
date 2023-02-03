@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacques du Toit  
-date: 2023-01-13 11:28:26.521645  
+date: 2023-02-02 19:10:25.943817  
 categories: player  
 ---
 # Jacques du Toit
@@ -25,34 +25,34 @@ categories: player
 | Free State Cheetahs |            32 |  0.578125  |
 | Bath Rugby          |            27 |  0.240741  |
 | Southern Kings      |            12 |  0.0833333 |
-| Zebre               |             8 |  0         |
+| Zebre               |             9 |  0         |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Blue Bulls             |         7 |   0.428571 |
 | Golden Lions           |         6 |   0.333333 |
 | Glasgow Warriors       |         5 |   0        |
-| Munster                |         5 |   0        |
-| Western Province       |         5 |   0.6      |
-| Griquas                |         5 |   0.8      |
 | Scarlets               |         5 |   0.2      |
-| Edinburgh              |         4 |   0.25     |
+| Munster                |         5 |   0        |
+| Griquas                |         5 |   0.8      |
+| Ospreys                |         5 |   0.4      |
+| Western Province       |         5 |   0.6      |
 | Southern Kings         |         4 |   1        |
-| Ospreys                |         4 |   0.5      |
-| Ulster                 |         4 |   0.125    |
-| Cardiff Blues          |         4 |   0.25     |
 | Bristol Rugby          |         4 |   0.25     |
-| Stormers               |         3 |   0        |
-| Connacht               |         3 |   0.333333 |
+| Cardiff Blues          |         4 |   0.25     |
+| Ulster                 |         4 |   0.125    |
+| Edinburgh              |         4 |   0.25     |
 | Northampton Saints     |         3 |   0.333333 |
+| Stormers               |         3 |   0        |
 | Wasps                  |         3 |   0        |
+| Connacht               |         3 |   0.333333 |
 | Harlequins             |         3 |   0.333333 |
 | Leicester Tigers       |         3 |   0.333333 |
 | Sale Sharks            |         3 |   0.166667 |
 | Pumas                  |         3 |   1        |
 | Natal Sharks           |         3 |   0.5      |
-| Sunwolves              |         2 |   1        |
 | Saracens               |         2 |   0        |
+| Sunwolves              |         2 |   1        |
 | Worcester Warriors     |         2 |   0.5      |
 | Benetton Treviso       |         2 |   0        |
 | Leinster               |         2 |   0.5      |

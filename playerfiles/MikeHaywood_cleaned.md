@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mike Haywood  
-date: 2023-01-06 00:08:54.066776  
+date: 2023-02-02 19:09:39.291896  
 categories: player  
 ---
 # Mike Haywood
 
 ## Positions: H
 
-## Current elo: 139.0
+## Current elo: 148.0
 
 ## Current Percentile: 99.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           266 |   0.571429 |
+| Northampton Saints |           270 |   0.566667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Saracens            |        24 |   0.416667 |
+| Leicester Tigers    |        23 |   0.326087 |
 | Harlequins          |        23 |   0.608696 |
-| Leicester Tigers    |        22 |   0.295455 |
-| Exeter Chiefs       |        20 |   0.4      |
+| Exeter Chiefs       |        21 |   0.380952 |
 | Gloucester Rugby    |        19 |   0.710526 |
 | Sale Sharks         |        19 |   0.473684 |
 | Wasps               |        17 |   0.647059 |
@@ -36,18 +36,19 @@ categories: player
 | Worcester Warriors  |        16 |   0.8125   |
 | Newcastle Falcons   |        14 |   0.571429 |
 | London Irish        |        14 |   0.714286 |
-| Bristol Rugby       |         8 |   0.625    |
 | Castres Olympique   |         8 |   0.5      |
+| Bristol Rugby       |         8 |   0.625    |
 | Ospreys             |         7 |   0.714286 |
 | Scarlets            |         5 |   0.8      |
-| Clermont Auvergne   |         4 |   0.25     |
-| Racing 92           |         4 |   0.125    |
-| Glasgow Warriors    |         4 |   0.75     |
 | Dragons             |         4 |   1        |
 | Leinster            |         4 |   0.25     |
 | London Welsh        |         4 |   1        |
+| Racing 92           |         4 |   0.125    |
+| Clermont Auvergne   |         4 |   0.25     |
+| Glasgow Warriors    |         4 |   0.75     |
 | Benetton Treviso    |         3 |   1        |
-| Montpellier Herault |         2 |   0.5      |
 | Lyon                |         2 |   1        |
+| Montpellier Herault |         2 |   0.5      |
+| Munster             |         2 |   0        |
 | Ulster              |         2 |   0.5      |
-| Munster             |         1 |   0        |
+| La Rochelle         |         1 |   0        |

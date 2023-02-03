@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shaun Malton  
-date: 2023-01-23 15:31:46.493722  
+date: 2023-02-02 19:05:39.564407  
 categories: player  
 ---
 # Shaun Malton
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            34 |   0.852941 |
+| Ealing Trailfinders |            35 |   0.828571 |
 | Exeter Chiefs       |            22 |   0.727273 |
 | Bristol Rugby       |            16 |   0.625    |
 | London Irish        |             2 |   0.5      |
@@ -29,8 +29,8 @@ categories: player
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Worcester Warriors |         6 |   0.5      |
+| Coventry           |         5 |   0.8      |
 | Jersey             |         4 |   1        |
-| Coventry           |         4 |   1        |
 | Nottingham         |         4 |   1        |
 | Bath Rugby         |         4 |   1        |
 | Hartpury College   |         4 |   1        |

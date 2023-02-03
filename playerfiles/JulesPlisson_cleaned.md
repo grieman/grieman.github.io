@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jules Plisson  
-date: 2023-01-06 00:21:59.107532  
+date: 2023-02-02 18:55:09.871061  
 categories: player  
 ---
 # Jules Plisson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 116.0
+## Current elo: 98.0
 
-## Current Percentile: 81.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Stade Francais Paris |           206 |   0.509709 |
 | La Rochelle          |            39 |   0.641026 |
 | France               |            19 |   0.368421 |
-| Clermont Auvergne    |            13 |   0.423077 |
+| Clermont Auvergne    |            15 |   0.433333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,10 +39,10 @@ categories: player
 | Montpellier Herault  |        15 |   0.466667 |
 | Pau                  |        13 |   0.692308 |
 | Brive                |        13 |   0.538462 |
+| Lyon                 |        10 |   0.3      |
 | Bayonne              |        10 |   0.5      |
 | La Rochelle          |        10 |   0.45     |
-| Lyon                 |         9 |   0.333333 |
-| Perpignan            |         9 |   0.666667 |
+| Perpignan            |        10 |   0.7      |
 | Grenoble             |         8 |   0.75     |
 | Agen                 |         7 |   0.571429 |
 | Stade Francais Paris |         7 |   0.428571 |

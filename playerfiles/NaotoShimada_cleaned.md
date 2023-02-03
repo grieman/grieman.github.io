@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Naoto Shimada  
-date: 2023-01-30 17:53:08.065979  
+date: 2023-02-02 18:56:03.586046  
 categories: player  
 ---
 # Naoto Shimada

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacob Wright  
-date: 2023-02-02 15:49:19.154365  
+date: 2023-02-02 18:53:24.394179  
 categories: player  
 ---
 # Jacob Wright

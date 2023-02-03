@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémi Dubié  
-date: 2023-01-17 11:38:34.046903  
+date: 2023-02-02 18:55:14.906022  
 categories: player  
 ---
 # Rémi Dubié
 
 ## Positions: SH
 
-## Current elo: 85.0
+## Current elo: 81.0
 
-## Current Percentile: 16.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |            13 |   0.384615 |
+| Carqueiranne-Hyères |            15 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         2 |          0 |
-| Albi                       |         1 |          1 |
-| Blagnac                    |         1 |          0 |
-| Chambery                   |         1 |          1 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
-| Nice                       |         1 |          0 |
-| Rennes                     |         1 |          0 |
-| Suresnes                   |         1 |          1 |
-| Tarbes                     |         1 |          1 |
-| US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |
+| Albi                       |         2 |        0.5 |
+| Bourgoin-Jallieu           |         2 |        0   |
+| Valence Romans Drome Rugby |         2 |        0   |
+| Blagnac                    |         1 |        0   |
+| Chambery                   |         1 |        1   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Dax                        |         1 |        0   |
+| Nice                       |         1 |        0   |
+| Rennes                     |         1 |        0   |
+| Suresnes                   |         1 |        1   |
+| Tarbes                     |         1 |        1   |
+| US Bressane                |         1 |        0   |

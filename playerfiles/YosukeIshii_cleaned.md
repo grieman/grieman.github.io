@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yosuke Ishii  
-date: 2023-01-13 11:28:33.369681  
+date: 2023-02-02 18:54:55.548469  
 categories: player  
 ---
 # Yosuke Ishii
 
 ## Positions: FL
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 45.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             6 |   0.333333 |
+| Kurita Water Gush |             8 |      0.375 |
 
-| Opponent              |   Matches |   Win Rate |
-|:----------------------|----------:|-----------:|
-| Munakata Sanix Blues  |         2 |          0 |
-| Chugoku Red Regulions |         1 |          1 |
-| Kyuden Voltex         |         1 |          0 |
-| Shimizu Blue Sharks   |         1 |          0 |
-| Skyactivs Hiroshima   |         1 |          1 |
+| Opponent                        |   Matches |   Win Rate |
+|:--------------------------------|----------:|-----------:|
+| Chugoku Red Regulions           |         2 |        0.5 |
+| Munakata Sanix Blues            |         2 |        0   |
+| Kyuden Voltex                   |         1 |        0   |
+| NTT Docomo Red Hurricanes Osaka |         1 |        1   |
+| Shimizu Blue Sharks             |         1 |        0   |
+| Skyactivs Hiroshima             |         1 |        1   |

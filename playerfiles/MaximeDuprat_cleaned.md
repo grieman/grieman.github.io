@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maxime Duprat  
-date: 2023-01-13 11:23:08.395827  
+date: 2023-02-02 19:12:23.875487  
 categories: player  
 ---
 # Maxime Duprat

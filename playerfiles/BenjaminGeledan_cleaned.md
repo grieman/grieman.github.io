@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benjamin Geledan  
-date: 2023-01-13 11:30:06.509464  
+date: 2023-02-02 18:58:18.234161  
 categories: player  
 ---
 # Benjamin Geledan
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Oyonnax     |           147 |   0.561224 |
+| Oyonnax     |           149 |   0.560403 |
 | La Rochelle |            93 |   0.553763 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,15 +30,15 @@ categories: player
 | Beziers                    |        14 |   0.75     |
 | Carcassonne                |        13 |   0.692308 |
 | Colomiers                  |        11 |   0.409091 |
+| Mont-de-Marsan             |         9 |   0.388889 |
 | Vannes                     |         9 |   0.555556 |
 | Biarritz Olympique         |         9 |   0.333333 |
 | Brive                      |         9 |   0.222222 |
 | Montauban                  |         9 |   0.611111 |
-| Mont-de-Marsan             |         8 |   0.4375   |
 | Provence Rugby             |         8 |   0.6875   |
+| Nevers                     |         8 |   0.75     |
 | Narbonne                   |         8 |   0.625    |
 | Albi                       |         7 |   0.857143 |
-| Nevers                     |         7 |   0.714286 |
 | Montpellier Herault        |         7 |   0.5      |
 | Agen                       |         7 |   0.571429 |
 | Dax                        |         6 |   0.666667 |

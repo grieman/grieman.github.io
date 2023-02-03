@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keisuke Uchida  
-date: 2023-01-13 11:37:26.131827  
+date: 2023-02-02 18:53:50.731628  
 categories: player  
 ---
 # Keisuke Uchida
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 106.0
+## Current elo: 108.0
 
-## Current Percentile: 74.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            51 |  0.931373  |
+| Saitama Wild Knights |            54 |  0.935185  |
 | Sunwolves            |            23 |  0.0869565 |
 | Japan                |             8 |  0.375     |
 | Tasman               |             6 |  1         |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Yokohama Canon Eagles             |         7 |   1        |
+| Yokohama Canon Eagles             |         8 |   1        |
 | Shizuoka Blue Revs                |         6 |   0.833333 |
-| Black Rams Tokyo                  |         4 |   0.75     |
+| Black Rams Tokyo                  |         5 |   0.8      |
+| Toyota Verblitz                   |         4 |   1        |
 | Kobelco Kobe Steelers             |         4 |   0.875    |
 | Urayasu D-Rocks                   |         3 |   1        |
-| Toyota Verblitz                   |         3 |   1        |
 | Toshiba Brave Lupus Tokyo         |         3 |   1        |
 | Tokyo Sungoliath                  |         3 |   0.666667 |
 | Coca-Cola Red Sparks              |         3 |   1        |

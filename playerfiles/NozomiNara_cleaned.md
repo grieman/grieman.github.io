@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nozomi Nara  
-date: 2023-01-30 17:52:22.597982  
+date: 2023-02-02 19:02:33.692375  
 categories: player  
 ---
 # Nozomi Nara

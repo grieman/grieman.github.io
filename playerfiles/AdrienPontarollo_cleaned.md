@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Adrien Pontarollo  
-date: 2023-01-17 11:37:50.440399  
+date: 2023-02-02 19:02:17.708096  
 categories: player  
 ---
 # Adrien Pontarollo
 
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 40.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            25 |        0.3 |
+| Bourgoin-Jallieu |            26 |   0.288462 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Soyaux-Angouleme           |         2 |   0        |
 | Tarbes                     |         2 |   0        |
 | Chambery                   |         1 |   1        |
+| Dax                        |         1 |   0        |
 | Dijon                      |         1 |   0        |
 | Massy                      |         1 |   0        |
 | Rennes                     |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Go Maeda  
-date: 2023-01-13 11:30:12.934550  
+date: 2023-02-02 19:00:55.529373  
 categories: player  
 ---
 # Go Maeda
 
 ## Positions: FL
 
-## Current elo: 106.0
+## Current elo: 101.0
 
 ## Current Percentile: 78.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             9 |   0.555556 |
+| Kobelco Kobe Steelers |            10 |        0.5 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -30,4 +30,5 @@ categories: player
 | Yokohama Canon Eagles    |         2 |        0.5 |
 | Hanazono Kintetsu Liners |         1 |        1   |
 | Tokyo Sungoliath         |         1 |        0   |
+| Toyota Verblitz          |         1 |        0   |
 | Urayasu D-Rocks          |         1 |        1   |

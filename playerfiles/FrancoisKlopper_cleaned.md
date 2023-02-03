@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Francois Klopper  
-date: 2023-01-15 11:48:23.947936  
+date: 2023-02-02 18:48:10.670921  
 categories: player  
 ---
 # Francois Klopper
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 87.0
 
-## Current Percentile: 28.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |             9 |   0.888889 |
+| Bulls      |            11 |   0.727273 |
 | Blue Bulls |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,7 +35,9 @@ categories: player
 | Glasgow Warriors    |         1 |          0 |
 | Golden Lions        |         1 |          1 |
 | Lions               |         1 |          1 |
+| Lyon                |         1 |          0 |
 | Ospreys             |         1 |          1 |
 | Pumas               |         1 |          1 |
+| Scarlets            |         1 |          0 |
 | Sharks              |         1 |          1 |
 | Western Province    |         1 |          0 |

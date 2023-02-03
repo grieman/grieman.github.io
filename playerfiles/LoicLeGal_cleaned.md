@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Loic Le Gal  
-date: 2023-01-23 15:29:08.815092  
+date: 2023-02-02 18:59:01.405517  
 categories: player  
 ---
 # Loic Le Gal
 
 ## Positions: FB
 
-## Current elo: 68.0
+## Current elo: 72.0
 
 ## Current Percentile: 6.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-------|--------------:|-----------:|
 | Nevers |            67 |   0.492537 |
 | Albi   |            36 |   0.416667 |
-| Nice   |            30 |   0.616667 |
+| Nice   |            31 |   0.629032 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -42,11 +42,11 @@ categories: player
 | Grenoble                   |         4 |   0.25     |
 | Narbonne                   |         4 |   0.75     |
 | Massy                      |         4 |   0.5      |
+| Suresnes                   |         4 |   0.75     |
 | Dax                        |         4 |   0.5      |
 | Valence Romans Drome Rugby |         4 |   0.25     |
 | Bayonne                    |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   0.5      |
-| Suresnes                   |         3 |   0.666667 |
 | US Bressane                |         3 |   0.333333 |
 | Tarbes                     |         3 |   1        |
 | Albi                       |         2 |   0.75     |

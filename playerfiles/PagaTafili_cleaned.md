@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Paga Tafili  
-date: 2023-01-13 11:24:48.739400  
+date: 2023-02-02 18:47:43.584410  
 categories: player  
 ---
 # Paga Tafili
 
 ## Positions: P
 
-## Current elo: 129.0
+## Current elo: 127.0
 
 ## Current Percentile: 98.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |           150 |       0.53 |
+| Vannes |           151 |    0.52649 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |        12 |   0.583333 |
+| Nevers                     |        11 |   0.5      |
 | Colomiers                  |        11 |   0.727273 |
 | Beziers                    |        11 |   0.636364 |
 | Mont-de-Marsan             |        11 |   0.545455 |
-| Nevers                     |        10 |   0.55     |
 | Montauban                  |        10 |   0.4      |
 | Provence Rugby             |         9 |   0.555556 |
 | Carcassonne                |         9 |   0.388889 |

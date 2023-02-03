@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Time-Stowers  
-date: 2023-01-06 00:25:31.279104  
+date: 2023-02-02 19:04:25.150938  
 categories: player  
 ---
 # Henry Time-Stowers
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 98.0
+## Current elo: 78.0
 
-## Current Percentile: 25.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -27,10 +27,10 @@ categories: player
 | Western Force    |            16 |   0.4375   |
 | Moana Pasifika   |            11 |   0.181818 |
 | Canterbury       |             8 |   0.5      |
+| Benetton Treviso |             7 |   0.285714 |
 | Brumbies         |             6 |   0.166667 |
 | Samoa            |             6 |   0.666667 |
 | Wellington       |             6 |   0.25     |
-| Benetton Treviso |             5 |   0.2      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -47,24 +47,25 @@ categories: player
 | Hurricanes               |         3 |   0.666667 |
 | Melbourne Rebels         |         3 |   0        |
 | Fijian Drua              |         3 |   0.333333 |
-| Chiefs                   |         3 |   0        |
 | Brumbies                 |         3 |   0.333333 |
+| Chiefs                   |         3 |   0        |
 | Blues                    |         2 |   0        |
 | Waikato                  |         2 |   0.5      |
 | Taranaki                 |         2 |   0        |
 | Bay of Plenty            |         2 |   1        |
 | Melbourne Rising         |         2 |   1        |
+| Stade Francais Paris     |         2 |   0.5      |
 | Crusaders                |         2 |   0        |
 | New Zealand Maori        |         2 |   0        |
 | Glasgow Warriors         |         1 |   0        |
 | Canberra Vikings         |         1 |   1        |
 | Brisbane City            |         1 |   1        |
 | Sydney Rays              |         1 |   1        |
-| Stade Francais Paris     |         1 |   0        |
-| Counties Manukau         |         1 |   0        |
-| Queensland Country       |         1 |   1        |
 | North Harbour            |         1 |   0        |
+| Queensland Country       |         1 |   1        |
+| Counties Manukau         |         1 |   0        |
 | NSW Country Eagles       |         1 |   0        |
+| Munster                  |         1 |   0        |
 | Edinburgh                |         1 |   0        |
 | Leinster                 |         1 |   0        |
 | Fiji                     |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aaron Shingler  
-date: 2023-01-06 00:17:06.314250  
+date: 2023-02-02 18:39:19.914589  
 categories: player  
 ---
 # Aaron Shingler
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 106.0
+## Current elo: 95.0
 
-## Current Percentile: 55.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |           199 |   0.540201 |
-| Wales    |            26 |   0.5      |
+| Scarlets |           202 |    0.54703 |
+| Wales    |            26 |    0.5     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -35,7 +35,7 @@ categories: player
 | Connacht           |        13 |   0.615385 |
 | Ulster             |        13 |   0.5      |
 | Glasgow Warriors   |        13 |   0.846154 |
-| Cardiff Blues      |        12 |   0.833333 |
+| Cardiff Blues      |        13 |   0.846154 |
 | Benetton Treviso   |        11 |   0.818182 |
 | Edinburgh          |        11 |   0.681818 |
 | Zebre              |         9 |   0.944444 |
@@ -58,18 +58,18 @@ categories: player
 | France             |         2 |   1        |
 | Bath Rugby         |         2 |   0.5      |
 | Cheetahs           |         2 |   1        |
+| Bayonne            |         2 |   1        |
 | Castres Olympique  |         2 |   1        |
+| Bulls              |         2 |   0.5      |
 | Leicester Tigers   |         2 |   0.5      |
 | Lions              |         1 |   0        |
-| Southern Kings     |         1 |   1        |
+| Bordeaux Begles    |         1 |   0        |
 | Yorkshire Carnegie |         1 |   1        |
 | Uruguay            |         1 |   1        |
-| Bayonne            |         1 |   1        |
 | Tonga              |         1 |   1        |
-| Bordeaux Begles    |         1 |   0        |
 | Sharks             |         1 |   0        |
+| Southern Kings     |         1 |   1        |
 | Bristol Rugby      |         1 |   0        |
-| Bulls              |         1 |   0        |
 | Samoa              |         1 |   1        |
 | Exeter Chiefs      |         1 |   0        |
 | Fiji               |         1 |   1        |

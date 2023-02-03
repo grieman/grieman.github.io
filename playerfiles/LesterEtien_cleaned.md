@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lester Etien  
-date: 2023-01-06 00:25:34.622128  
+date: 2023-02-02 18:46:35.993939  
 categories: player  
 ---
 # Lester Etien
 
 ## Positions: W
 
-## Current elo: 135.0
+## Current elo: 118.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |            76 |   0.467105 |
+| Stade Francais Paris |            78 |   0.467949 |
 | Massy                |            29 |   0.413793 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -30,17 +30,17 @@ categories: player
 | Pau                 |         8 |   0.625    |
 | Bayonne             |         6 |   0.333333 |
 | Stade Toulousain    |         6 |   0.666667 |
+| Perpignan           |         6 |   0.666667 |
 | Toulon              |         5 |   0.4      |
-| Perpignan           |         5 |   0.8      |
 | Agen                |         5 |   0.6      |
 | Bordeaux Begles     |         5 |   0.2      |
 | Lyon                |         4 |   0        |
 | Montpellier Herault |         4 |   0.125    |
+| Castres Olympique   |         4 |   0.75     |
 | Clermont Auvergne   |         4 |   0        |
 | Racing 92           |         4 |   0.5      |
 | Biarritz Olympique  |         4 |   0.5      |
 | Carcassonne         |         3 |   0.666667 |
-| Castres Olympique   |         3 |   0.666667 |
 | Dax                 |         3 |   0.333333 |
 | Grenoble            |         3 |   0.666667 |
 | Mont-de-Marsan      |         3 |   0.333333 |

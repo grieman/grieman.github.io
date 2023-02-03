@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Axel Muller  
-date: 2023-01-06 00:09:17.674312  
+date: 2023-02-02 18:59:53.834787  
 categories: player  
 ---
 # Axel Muller
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 122.0
+## Current elo: 101.0
 
-## Current Percentile: 88.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Brive     |            77 |   0.474026 |
+| Brive     |            79 |   0.474684 |
 | Oyonnax   |            24 |   0.25     |
 | Toulon    |            11 |   0.5      |
 | Argentina |             1 |   0        |
@@ -32,16 +32,16 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Pau                  |         9 |  0.444444  |
 | Clermont Auvergne    |         9 |  0.611111  |
+| Toulon               |         9 |  0.555556  |
 | Lyon                 |         8 |  0.5       |
-| Toulon               |         8 |  0.5       |
 | Castres Olympique    |         7 |  0.285714  |
 | Stade Francais Paris |         7 |  0.428571  |
 | Racing 92            |         7 |  0.142857  |
+| Bayonne              |         6 |  0.666667  |
 | Montpellier Herault  |         6 |  0.0833333 |
 | Stade Toulousain     |         6 |  0.333333  |
 | La Rochelle          |         6 |  0.25      |
 | Agen                 |         5 |  0.4       |
-| Bayonne              |         5 |  0.8       |
 | Bordeaux Begles      |         5 |  0.6       |
 | Biarritz Olympique   |         3 |  0.666667  |
 | Brive                |         3 |  0.333333  |

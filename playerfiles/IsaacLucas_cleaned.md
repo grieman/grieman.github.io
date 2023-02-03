@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Isaac Lucas  
-date: 2023-01-13 11:25:25.519476  
+date: 2023-02-02 18:53:11.946707  
 categories: player  
 ---
 # Isaac Lucas

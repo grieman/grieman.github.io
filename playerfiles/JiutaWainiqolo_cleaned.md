@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jiuta Wainiqolo  
-date: 2023-01-06 00:17:32.117546  
+date: 2023-02-02 18:39:39.666655  
 categories: player  
 ---
 # Jiuta Wainiqolo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 106.0
+## Current elo: 97.0
 
-## Current Percentile: 66.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -23,31 +23,32 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Toulon      |            29 |   0.568966 |
+| Toulon      |            32 |   0.609375 |
 | Fiji        |             4 |   0.5      |
 | Fijian Drua |             4 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Pau                  |         4 |   0.875    |
 | Bordeaux Begles      |         3 |   0.666667 |
 | Stade Toulousain     |         3 |   0.333333 |
 | La Rochelle          |         3 |   0.333333 |
-| Pau                  |         3 |   0.833333 |
-| Racing 92            |         2 |   0        |
-| Stade Francais Paris |         2 |   0.5      |
+| Bath Rugby           |         2 |   1        |
 | Castres Olympique    |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
 | Lyon                 |         2 |   1        |
 | Bayonne              |         2 |   0.5      |
 | Perpignan            |         2 |   0.5      |
-| Bath Rugby           |         1 |   1        |
+| Racing 92            |         2 |   0        |
+| Samoa                |         1 |   0        |
+| Tonga                |         1 |   1        |
 | Sydney Rays          |         1 |   1        |
 | Spain                |         1 |   1        |
-| Samoa                |         1 |   0        |
 | Melbourne Rising     |         1 |   1        |
 | Queensland Country   |         1 |   1        |
 | Ireland              |         1 |   0        |
 | Canberra Vikings     |         1 |   0        |
 | Brive                |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |
-| Tonga                |         1 |   1        |
+| Zebre                |         1 |   1        |

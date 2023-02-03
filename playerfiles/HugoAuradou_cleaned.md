@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hugo Auradou  
-date: 2023-01-06 00:14:12.009701  
+date: 2023-02-02 18:47:28.202191  
 categories: player  
 ---
 # Hugo Auradou
 
 ## Positions: L
 
-## Current elo: 95.0
+## Current elo: 86.0
 
-## Current Percentile: 21.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,14 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |             7 |   0.214286 |
+| Pau    |            10 |       0.15 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Dragons              |         2 |        0.5 |
 | Bayonne              |         1 |        0.5 |
 | Brive                |         1 |        0   |
 | Cheetahs             |         1 |        0   |
-| Dragons              |         1 |        1   |
 | Edinburgh            |         1 |        0   |
 | London Irish         |         1 |        0   |
+| Lyon                 |         1 |        0   |
 | Stade Francais Paris |         1 |        0   |
+| Toulon               |         1 |        0   |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jason Harries  
-date: 2023-01-17 11:39:22.613026  
+date: 2023-02-02 18:41:25.474762  
 categories: player  
 ---
 # Jason Harries
 
 ## Positions: W
 
-## Current elo: 152.0
+## Current elo: 140.0
 
 ## Current Percentile: 99.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cardiff Blues   |            47 |   0.531915 |
+| Cardiff Blues   |            49 |   0.510204 |
 | London Scottish |            17 |   0.352941 |
 | Edinburgh       |            10 |   0.8      |
 
@@ -44,19 +44,20 @@ categories: player
 | Richmond            |         2 |   0.5      |
 | Ospreys             |         2 |   0.5      |
 | London Irish        |         2 |   0.5      |
+| Leinster            |         2 |   0        |
 | Jersey              |         2 |   0.5      |
-| Ealing Trailfinders |         2 |   0.5      |
-| Cornish Pirates     |         2 |   0.5      |
 | Calvisano           |         2 |   1        |
+| Cornish Pirates     |         2 |   0.5      |
+| Ealing Trailfinders |         2 |   0.5      |
 | Zebre               |         2 |   0.5      |
-| London Welsh        |         1 |   0        |
-| Lyon                |         1 |   1        |
-| Leinster            |         1 |   0        |
-| Newcastle Falcons   |         1 |   1        |
 | Nottingham          |         1 |   0        |
-| Leicester Tigers    |         1 |   0        |
-| Rotherham Titans    |         1 |   1        |
+| Newcastle Falcons   |         1 |   1        |
+| London Welsh        |         1 |   0        |
 | Saracens            |         1 |   0        |
 | Doncaster           |         1 |   0        |
+| Leicester Tigers    |         1 |   0        |
 | Cardiff Blues       |         1 |   1        |
+| Lyon                |         1 |   1        |
 | Bulls               |         1 |   0        |
+| Brive               |         1 |   0        |
+| Rotherham Titans    |         1 |   1        |

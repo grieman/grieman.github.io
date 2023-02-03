@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sione Kalamafoni  
-date: 2023-01-06 00:26:43.966844  
+date: 2023-02-02 18:56:33.048261  
 categories: player  
 ---
 # Sione Kalamafoni
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 111.0
+## Current elo: 99.0
 
-## Current Percentile: 70.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |           106 |   0.537736 |
 | Leicester Tigers |            64 |   0.429688 |
-| Scarlets         |            47 |   0.414894 |
+| Scarlets         |            49 |   0.438776 |
 | Tonga            |            23 |   0.26087  |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -65,18 +65,18 @@ categories: player
 | United States of America |         2 |   1        |
 | Argentina                |         2 |   0        |
 | Lions                    |         2 |   0.5      |
+| Bayonne                  |         2 |   1        |
 | Japan                    |         2 |   0.5      |
 | Glasgow Warriors         |         2 |   0.5      |
 | Georgia                  |         2 |   0.5      |
 | Fiji                     |         2 |   0        |
 | Brive                    |         2 |   1        |
+| Bulls                    |         2 |   0.5      |
 | Mont-de-Marsan           |         2 |   1        |
 | Calvisano                |         2 |   1        |
 | Sharks                   |         1 |   0        |
-| Bayonne                  |         1 |   1        |
 | Biarritz Olympique       |         1 |   0        |
 | Wales                    |         1 |   0        |
-| Bulls                    |         1 |   0        |
 | Toulon                   |         1 |   0        |
 | Namibia                  |         1 |   1        |
 | Scotland                 |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Takato Okabe  
-date: 2023-01-13 11:28:22.604410  
+date: 2023-02-02 18:45:39.930941  
 categories: player  
 ---
 # Takato Okabe
 
 ## Positions: P
 
-## Current elo: 122.0
+## Current elo: 123.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            24 |     0.5625 |
+| Yokohama Canon Eagles |            26 |   0.557692 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Green Rockets Tokatsu             |         4 |        1   |
 | Kobelco Kobe Steelers             |         4 |        0.5 |
-| Green Rockets Tokatsu             |         3 |        1   |
+| Saitama Wild Knights              |         4 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |        0.5 |
-| Saitama Wild Knights              |         3 |        0   |
 | Black Rams Tokyo                  |         2 |        1   |
 | NTT Docomo Red Hurricanes Osaka   |         2 |        0.5 |
 | Tokyo Sungoliath                  |         2 |        0   |

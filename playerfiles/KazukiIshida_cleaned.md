@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kazuki Ishida  
-date: 2023-01-13 11:23:52.478417  
+date: 2023-02-02 19:02:02.715890  
 categories: player  
 ---
 # Kazuki Ishida
 
 ## Positions: FH, FB
 
-## Current elo: 99.0
+## Current elo: 93.0
 
-## Current Percentile: 58.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            12 |   0.833333 |
+| Mitsubishi Dynaboars |            15 |   0.766667 |
 | Shimizu Blue Sharks  |             7 |   0        |
 
 | Opponent                         |   Matches |   Win Rate |
@@ -37,5 +37,8 @@ categories: player
 | Kyuden Voltex                    |         1 |   0        |
 | Mazda Blue Zoomers               |         1 |   0        |
 | Saitama Wild Knights             |         1 |   0        |
+| Shizuoka Blue Revs               |         1 |   0.5      |
+| Tokyo Sungoliath                 |         1 |   0        |
+| Toshiba Brave Lupus Tokyo        |         1 |   1        |
 | Toyota Industries Shuttles Aichi |         1 |   0        |
 | Toyota Verblitz                  |         1 |   1        |

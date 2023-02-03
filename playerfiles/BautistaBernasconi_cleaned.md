@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bautista Bernasconi  
-date: 2023-01-30 11:48:25.695111  
+date: 2023-02-02 18:49:07.728488  
 categories: player  
 ---
 # Bautista Bernasconi

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ben Foley  
-date: 2023-01-21 15:43:48.713387  
+date: 2023-02-02 19:05:27.310092  
 categories: player  
 ---
 # Ben Foley
 
 ## Positions: W, FB
 
-## Current elo: 91.0
+## Current elo: 88.0
 
 ## Current Percentile: 23.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            50 |   0.35     |
+| Hartpury College |            51 |   0.362745 |
 | Rotherham Titans |            28 |   0.125    |
 | Nottingham       |            12 |   0.416667 |
 
@@ -33,8 +33,8 @@ categories: player
 | Ealing Trailfinders |         8 |   0        |
 | London Scottish     |         8 |   0.4375   |
 | Nottingham          |         8 |   0.4375   |
+| Richmond            |         8 |   0.625    |
 | Cornish Pirates     |         7 |   0.285714 |
-| Richmond            |         7 |   0.571429 |
 | Coventry            |         6 |   0.333333 |
 | Yorkshire Carnegie  |         6 |   0.333333 |
 | Ampthill            |         4 |   0.5      |

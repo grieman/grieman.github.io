@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jon Zabala Arrieta  
-date: 2023-01-13 11:28:46.705197  
+date: 2023-02-02 18:43:51.367872  
 categories: player  
 ---
 # Jon Zabala Arrieta
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            33 |   0.439394 |
+| Beziers |            35 |   0.471429 |
 | Spain   |            20 |   0.7      |
 | Tarbes  |            18 |   0.444444 |
 | Bayonne |             9 |   0.444444 |
@@ -41,12 +41,12 @@ categories: player
 | Colomiers                  |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.166667 |
 | Portugal                   |         3 |   0.666667 |
+| Provence Rugby             |         3 |   0.333333 |
 | Rouen                      |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.333333 |
 | Nice                       |         2 |   0.25     |
 | Nevers                     |         2 |   0.5      |
-| Provence Rugby             |         2 |   0        |
 | Montauban                  |         2 |   0.5      |
 | Agen                       |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   0.75     |
@@ -54,6 +54,7 @@ categories: player
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Belgium                    |         2 |   1        |
 | Bayonne                    |         2 |   0.5      |
+| Aurillac                   |         2 |   1        |
 | Grenoble                   |         2 |   0.5      |
 | Hong Kong                  |         1 |   1        |
 | Albi                       |         1 |   1        |
@@ -63,5 +64,4 @@ categories: player
 | Chambery                   |         1 |   0        |
 | Canada                     |         1 |   1        |
 | Biarritz Olympique         |         1 |   1        |
-| Aurillac                   |         1 |   1        |
 | Aubenas                    |         1 |   1        |

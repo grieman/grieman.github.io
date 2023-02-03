@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Musk  
-date: 2023-01-06 00:23:46.856259  
+date: 2023-02-02 18:58:04.629404  
 categories: player  
 ---
 # Jack Musk
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 93.0
 
-## Current Percentile: 82.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            31 |   0.596774 |
+| Harlequins |            33 |   0.560606 |
 | Richmond   |            13 |   0.384615 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Northampton Saints  |         4 |   0.5      |
+| London Irish        |         4 |   0.5      |
 | Leicester Tigers    |         4 |   0.375    |
 | Gloucester Rugby    |         3 |   1        |
-| London Irish        |         3 |   0.666667 |
+| Sale Sharks         |         3 |   0.333333 |
 | Ampthill            |         2 |   0        |
 | Ulster              |         2 |   0        |
 | Saracens            |         2 |   0.5      |
-| Sale Sharks         |         2 |   0.5      |
 | Nottingham          |         2 |   1        |
 | Bath Rugby          |         2 |   0.5      |
 | Wasps               |         2 |   1        |

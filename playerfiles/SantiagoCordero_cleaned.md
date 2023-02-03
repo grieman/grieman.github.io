@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Cordero  
-date: 2023-01-06 00:13:32.459685  
+date: 2023-02-02 18:39:27.710087  
 categories: player  
 ---
 # Santiago Cordero
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 108.0
+## Current elo: 105.0
 
-## Current Percentile: 81.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bordeaux Begles     |            58 |   0.62931  |
+| Bordeaux Begles     |            61 |   0.614754 |
 | Argentina           |            46 |   0.315217 |
 | Exeter Chiefs       |            34 |   0.720588 |
 | Jaguares            |            20 |   0.5      |
@@ -33,9 +33,9 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | New Zealand              |        12 |   0.166667 |
 | Australia                |         9 |   0.111111 |
-| Castres Olympique        |         6 |   0.833333 |
+| Castres Olympique        |         7 |   0.714286 |
 | Stade Toulousain         |         6 |   0.166667 |
-| Gloucester Rugby         |         5 |   0.4      |
+| Gloucester Rugby         |         6 |   0.333333 |
 | South Africa             |         5 |   0.2      |
 | Clermont Auvergne        |         5 |   0.7      |
 | Racing 92                |         5 |   0.8      |
@@ -75,6 +75,7 @@ categories: player
 | Ireland                  |         2 |   0.5      |
 | CASI                     |         2 |   0        |
 | Bulls                    |         2 |   0.5      |
+| Bayonne                  |         2 |   1        |
 | Lyon                     |         2 |   1        |
 | Sunwolves                |         1 |   1        |
 | Georgia                  |         1 |   1        |
@@ -82,7 +83,6 @@ categories: player
 | Tonga                    |         1 |   1        |
 | Chiefs                   |         1 |   0        |
 | Biarritz Olympique       |         1 |   1        |
-| Bayonne                  |         1 |   1        |
 | Western Force            |         1 |   0        |
 | Melbourne Rebels         |         1 |   1        |
 | Scarlets                 |         1 |   1        |

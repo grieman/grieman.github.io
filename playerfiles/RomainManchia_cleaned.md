@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Manchia  
-date: 2023-01-30 11:43:23.041134  
+date: 2023-02-02 18:53:20.931913  
 categories: player  
 ---
 # Romain Manchia

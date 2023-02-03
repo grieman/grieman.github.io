@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Masataka Mikami  
-date: 2023-01-15 11:48:34.954066  
+date: 2023-02-02 18:50:33.103278  
 categories: player  
 ---
 # Masataka Mikami
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 80.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            51 |   0.627451 |
+| Toshiba Brave Lupus Tokyo |            53 |   0.641509 |
 | Sunwolves                 |            33 |   0.106061 |
 | Japan                     |            22 |   0.590909 |
 
@@ -37,22 +37,22 @@ categories: player
 | Tokyo Sungoliath                  |         4 |   0.75     |
 | Scotland                          |         4 |   0        |
 | Yokohama Canon Eagles             |         4 |   0.75     |
-| Melbourne Rebels                  |         3 |   0        |
-| Bulls                             |         3 |   0        |
-| Coca-Cola Red Sparks              |         3 |   1        |
-| Kobelco Kobe Steelers             |         3 |   0.666667 |
-| Cheetahs                          |         3 |   0        |
+| Hanazono Kintetsu Liners          |         3 |   1        |
 | Lions                             |         3 |   0        |
+| Coca-Cola Red Sparks              |         3 |   1        |
+| Cheetahs                          |         3 |   0        |
+| Bulls                             |         3 |   0        |
 | Mie Honda Heat                    |         3 |   1        |
-| Samoa                             |         2 |   1        |
-| Sharks                            |         2 |   0        |
-| Southern Kings                    |         2 |   0        |
-| Hanazono Kintetsu Liners          |         2 |   1        |
-| Hurricanes                        |         2 |   0        |
+| Melbourne Rebels                  |         3 |   0        |
+| Toyota Verblitz                   |         3 |   0.666667 |
+| Kobelco Kobe Steelers             |         3 |   0.666667 |
 | Brumbies                          |         2 |   0        |
-| Toyota Verblitz                   |         2 |   0.5      |
+| Hurricanes                        |         2 |   0        |
+| Southern Kings                    |         2 |   0        |
 | Uruguay                           |         2 |   1        |
+| Sharks                            |         2 |   0        |
 | Wales                             |         2 |   0.5      |
+| Samoa                             |         2 |   1        |
 | Georgia                           |         2 |   0.5      |
 | Russia                            |         2 |   1        |
 | Mitsubishi Dynaboars              |         2 |   0.5      |

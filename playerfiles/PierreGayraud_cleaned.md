@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Gayraud  
-date: 2023-01-15 11:42:08.084606  
+date: 2023-02-02 19:00:57.457105  
 categories: player  
 ---
 # Pierre Gayraud
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Grenoble         |            43 |   0.55814  |
 | Bayonne          |            36 |   0.472222 |
-| Beziers          |            25 |   0.44     |
+| Beziers          |            26 |   0.461538 |
 | Bordeaux Begles  |            11 |   0.545455 |
 | Stade Toulousain |             6 |   0.833333 |
 
@@ -31,11 +31,11 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Montauban                  |         9 |   0.5      |
 | Colomiers                  |         6 |   0.25     |
+| Provence Rugby             |         6 |   0.5      |
 | Nevers                     |         6 |   0.666667 |
 | Mont-de-Marsan             |         5 |   0.6      |
 | Aurillac                   |         5 |   0.6      |
 | Soyaux-Angouleme           |         5 |   0.6      |
-| Provence Rugby             |         5 |   0.4      |
 | Biarritz Olympique         |         5 |   0.3      |
 | Oyonnax                    |         5 |   0.6      |
 | Rouen                      |         4 |   0.5      |

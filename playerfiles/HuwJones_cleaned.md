@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Huw Jones  
-date: 2023-01-13 11:34:19.240016  
+date: 2023-02-02 18:58:58.188743  
 categories: player  
 ---
 # Huw Jones
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 83.0
+## Current elo: 82.0
 
-## Current Percentile: 16.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            48 |   0.53125  |
+| Glasgow Warriors |            49 |   0.530612 |
 | Scotland         |            30 |   0.533333 |
 | Stormers         |            27 |   0.611111 |
 | Harlequins       |            24 |   0.708333 |
@@ -43,6 +43,7 @@ categories: player
 | Zebre                    |         4 |   1        |
 | Wales                    |         4 |   0.25     |
 | Cardiff Blues            |         4 |   1        |
+| Bath Rugby               |         4 |   0.625    |
 | Pumas                    |         3 |   0.666667 |
 | Southern Kings           |         3 |   0.666667 |
 | Sharks                   |         3 |   0.333333 |
@@ -50,7 +51,6 @@ categories: player
 | Bulls                    |         3 |   0.666667 |
 | Ulster                   |         3 |   0.333333 |
 | Exeter Chiefs            |         3 |   0.833333 |
-| Bath Rugby               |         3 |   0.666667 |
 | Golden Lions             |         3 |   0.333333 |
 | Natal Sharks             |         2 |   0.5      |
 | London Irish             |         2 |   0.5      |

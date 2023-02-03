@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lautaro Caro Saisi  
-date: 2023-01-17 11:42:05.497812  
+date: 2023-02-02 18:45:54.259980  
 categories: player  
 ---
 # Lautaro Caro Saisi
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 105.0
 
-## Current Percentile: 52.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
+| Chambery    |             9 |   0.444444 |
 | Jaguares XV |             8 |   0.625    |
-| Chambery    |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,6 +33,8 @@ categories: player
 | Blagnac                    |         1 |          0 |
 | Cafeteros Pro              |         1 |          1 |
 | Carqueiranne-Hyères        |         1 |          0 |
+| Cognac Saint Jean d'Angély |         1 |          1 |
+| Dax                        |         1 |          0 |
 | Penarol Rugby              |         1 |          0 |
 | Rennes                     |         1 |          1 |
 | Tarbes                     |         1 |          0 |

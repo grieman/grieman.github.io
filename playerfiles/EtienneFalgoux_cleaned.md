@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Etienne Falgoux  
-date: 2023-01-06 00:11:44.298871  
+date: 2023-02-02 18:50:14.960505  
 categories: player  
 ---
 # Etienne Falgoux
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 119.0
 
-## Current Percentile: 77.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |           147 |   0.619048 |
+| Clermont Auvergne |           149 |   0.61745  |
 | France            |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bordeaux Begles      |        13 |   0.538462 |
+| Lyon                 |        12 |   0.75     |
 | Castres Olympique    |        12 |   0.5      |
-| Lyon                 |        11 |   0.818182 |
 | Racing 92            |        11 |   0.454545 |
 | La Rochelle          |        10 |   0.55     |
 | Toulon               |        10 |   0.5      |
@@ -38,7 +38,7 @@ categories: player
 | Pau                  |         9 |   0.666667 |
 | Montpellier Herault  |         9 |   0.555556 |
 | Stade Toulousain     |         7 |   0.214286 |
-| Perpignan            |         5 |   0.8      |
+| Perpignan            |         6 |   0.833333 |
 | Northampton Saints   |         5 |   0.8      |
 | Agen                 |         5 |   0.8      |
 | Ulster               |         4 |   0.5      |

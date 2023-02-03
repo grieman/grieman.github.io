@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marlen Walker  
-date: 2023-01-13 11:28:02.253967  
+date: 2023-02-02 18:49:43.453131  
 categories: player  
 ---
 # Marlen Walker
@@ -21,19 +21,19 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            93 |   0.564516 |
+| Cornish Pirates |            96 |   0.557292 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Doncaster           |        10 |   0.8      |
+| Bedford             |        10 |   0.65     |
 | Ealing Trailfinders |         9 |   0.388889 |
-| Bedford             |         9 |   0.722222 |
+| Jersey              |         9 |   0.111111 |
 | London Scottish     |         8 |   0.625    |
 | Richmond            |         8 |   0.75     |
-| Jersey              |         8 |   0.125    |
 | Yorkshire Carnegie  |         7 |   0.571429 |
+| Nottingham          |         7 |   0.714286 |
 | Hartpury College    |         7 |   0.857143 |
-| Nottingham          |         6 |   0.666667 |
 | Rotherham Titans    |         4 |   0.5      |
 | Ampthill            |         4 |   0.875    |
 | London Irish        |         4 |   0        |

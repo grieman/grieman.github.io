@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Bradley Thyer  
-date: 2023-01-23 15:32:01.790863  
+date: 2023-02-02 18:56:55.364490  
 categories: player  
 ---
 # Bradley Thyer
 
 ## Positions: P
 
-## Current elo: 114.0
+## Current elo: 110.0
 
 ## Current Percentile: 85.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Cardiff Blues    |            96 |   0.489583 |
+| Cardiff Blues    |            97 |   0.484536 |
 | Glasgow Warriors |             4 |   0.75     |
 
 | Opponent          |   Matches |   Win Rate |
@@ -37,11 +37,11 @@ categories: player
 | Zebre             |         4 |   0.75     |
 | Cheetahs          |         4 |   0.75     |
 | Connacht          |         4 |   0.75     |
+| Leinster          |         4 |   0        |
 | Southern Kings    |         3 |   1        |
 | Newcastle Falcons |         3 |   0.666667 |
 | Lyon              |         3 |   1        |
 | Lions             |         3 |   0.333333 |
-| Leinster          |         3 |   0        |
 | Leicester Tigers  |         3 |   0        |
 | Sale Sharks       |         2 |   0.5      |
 | Saracens          |         2 |   0        |

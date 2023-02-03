@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor Laval  
-date: 2023-01-06 11:43:24.345537  
+date: 2023-02-02 19:07:07.380417  
 categories: player  
 ---
 # Victor Laval
@@ -24,7 +24,7 @@ categories: player
 | Mont-de-Marsan |            90 |   0.566667 |
 | Carcassonne    |            41 |   0.390244 |
 | Brive          |            13 |   0.5      |
-| Montauban      |            10 |   0.45     |
+| Montauban      |            12 |   0.458333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,7 +33,7 @@ categories: player
 | Biarritz Olympique         |        10 |   0.35     |
 | Perpignan                  |         9 |   0.444444 |
 | Beziers                    |         8 |   0.75     |
-| Provence Rugby             |         7 |   0.714286 |
+| Provence Rugby             |         8 |   0.75     |
 | Carcassonne                |         7 |   0.714286 |
 | Grenoble                   |         7 |   0.285714 |
 | Bayonne                    |         6 |   0.416667 |
@@ -44,15 +44,15 @@ categories: player
 | Soyaux-Angouleme           |         5 |   0.2      |
 | Rouen                      |         5 |   0.8      |
 | Narbonne                   |         5 |   0.6      |
-| Vannes                     |         4 |   0.125    |
+| Massy                      |         4 |   0.5      |
 | Dax                        |         4 |   1        |
+| Vannes                     |         4 |   0.125    |
 | Mont-de-Marsan             |         3 |   0.333333 |
 | Albi                       |         3 |   0.666667 |
 | Lyon                       |         3 |   0        |
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |
 | US Bressane                |         3 |   0.666667 |
-| Massy                      |         3 |   0.666667 |
 | Pau                        |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.75     |
 | La Rochelle                |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin Hislop  
-date: 2023-01-23 15:32:39.276529  
+date: 2023-02-02 19:13:21.502965  
 categories: player  
 ---
 # Robin Hislop
@@ -24,7 +24,7 @@ categories: player
 | Doncaster |            53 |   0.528302 |
 | Edinburgh |            29 |   0.172414 |
 | Wasps     |            23 |   0.391304 |
-| Saracens  |             7 |   0.5      |
+| Saracens  |             8 |   0.5625   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -42,10 +42,10 @@ categories: player
 | London Scottish     |         4 |   1        |
 | London Irish        |         4 |   0        |
 | Yorkshire Carnegie  |         4 |   0.25     |
+| Bristol Rugby       |         4 |   0.75     |
 | Bath Rugby          |         4 |   0.875    |
 | Bedford             |         4 |   0.75     |
 | Glasgow Warriors    |         3 |   0        |
-| Bristol Rugby       |         3 |   0.666667 |
 | Exeter Chiefs       |         3 |   0.666667 |
 | Sale Sharks         |         3 |   0        |
 | Leinster            |         3 |   0        |

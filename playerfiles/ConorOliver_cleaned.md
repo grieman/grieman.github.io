@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Conor Oliver  
-date: 2023-01-06 00:10:42.922854  
+date: 2023-02-02 18:57:30.955909  
 categories: player  
 ---
 # Conor Oliver
 
 ## Positions: FL
 
-## Current elo: 107.0
+## Current elo: 113.0
 
-## Current Percentile: 64.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |            44 |   0.409091 |
+| Connacht |            48 |   0.4375   |
 | Munster  |            28 |   0.732143 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Ulster               |         8 |   0.3125   |
-| Edinburgh            |         7 |   0.428571 |
 | Munster              |         7 |   0.285714 |
+| Edinburgh            |         7 |   0.428571 |
 | Ospreys              |         6 |   0.666667 |
 | Leinster             |         5 |   0.2      |
 | Scarlets             |         5 |   0.2      |
@@ -39,10 +39,12 @@ categories: player
 | Glasgow Warriors     |         3 |   0.666667 |
 | Connacht             |         3 |   1        |
 | Leicester Tigers     |         2 |   0        |
-| Bulls                |         2 |   0.5      |
+| Sharks               |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
+| Bulls                |         2 |   0.5      |
+| Lions                |         2 |   1        |
+| Brive                |         1 |   1        |
+| Newcastle Falcons    |         1 |   0        |
 | Cheetahs             |         1 |   1        |
-| Sharks               |         1 |   0        |
 | Southern Kings       |         1 |   1        |
 | Stormers             |         1 |   1        |
-| Lions                |         1 |   1        |

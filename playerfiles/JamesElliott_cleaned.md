@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Elliott  
-date: 2023-01-21 15:41:25.753019  
+date: 2023-02-02 19:10:10.128138  
 categories: player  
 ---
 # James Elliott
@@ -21,19 +21,19 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Jersey             |            37 |   0.675676 |
+| Jersey             |            39 |   0.692308 |
 | Yorkshire Carnegie |            11 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Coventry            |         7 |   0.5      |
 | Ampthill            |         6 |   0.583333 |
+| Cornish Pirates     |         5 |   0.6      |
 | Hartpury College    |         5 |   0.8      |
+| London Scottish     |         5 |   0.8      |
 | Bedford             |         4 |   0.5      |
-| Cornish Pirates     |         4 |   0.5      |
 | Doncaster           |         4 |   0.25     |
 | Ealing Trailfinders |         4 |   0        |
-| London Scottish     |         4 |   0.75     |
 | Nottingham          |         4 |   0.75     |
 | Richmond            |         4 |   0.75     |
 | Newcastle Falcons   |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Rouet Piffard  
-date: 2023-01-06 00:18:41.272846  
+date: 2023-02-02 19:07:54.502255  
 categories: player  
 ---
 # Guillaume Rouet Piffard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 118.0
+## Current elo: 112.0
 
-## Current Percentile: 86.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |           230 |   0.506522 |
+| Bayonne |           232 |   0.506466 |
 | Spain   |            19 |   0.684211 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,12 +32,12 @@ categories: player
 | La Rochelle          |        11 |   0.409091 |
 | Stade Toulousain     |        10 |   0.5      |
 | Stade Francais Paris |        10 |   0.4      |
+| Brive                |        10 |   0.55     |
 | Grenoble             |        10 |   0.35     |
 | Lyon                 |         9 |   0.277778 |
 | Clermont Auvergne    |         9 |   0.444444 |
 | Montpellier Herault  |         9 |   0.222222 |
 | Bordeaux Begles      |         9 |   0.222222 |
-| Brive                |         9 |   0.5      |
 | Biarritz Olympique   |         8 |   0.625    |
 | Castres Olympique    |         8 |   0.4375   |
 | Montauban            |         7 |   0.714286 |
@@ -65,18 +65,18 @@ categories: player
 | Arix Viadana         |         2 |   1        |
 | Tarbes               |         2 |   0.5      |
 | Soyaux-Angouleme     |         2 |   0.5      |
+| Scarlets             |         2 |   0        |
 | Georgia              |         2 |   0        |
 | Connacht             |         2 |   0        |
 | Netherlands          |         2 |   1        |
 | Albi                 |         2 |   1        |
 | Wasps                |         2 |   0.25     |
-| Canada               |         1 |   0        |
 | Germany              |         1 |   1        |
 | Mogliano             |         1 |   1        |
-| Brazil               |         1 |   1        |
+| Canada               |         1 |   0        |
 | Rouen                |         1 |   1        |
 | Exeter Chiefs        |         1 |   1        |
-| Scarlets             |         1 |   0        |
+| Brazil               |         1 |   1        |
 | London Irish         |         1 |   0        |
 | Dragons              |         1 |   1        |
 | Benetton Treviso     |         1 |   0        |

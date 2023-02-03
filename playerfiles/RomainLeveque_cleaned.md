@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Leveque  
-date: 2023-01-17 11:42:19.173044  
+date: 2023-02-02 18:48:56.249835  
 categories: player  
 ---
 # Romain Leveque
@@ -21,28 +21,28 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
+| Carqueiranne-Hyères |            15 |   0.266667 |
 | Carcassonne         |            13 |   0.461538 |
-| Carqueiranne-Hyères |            13 |   0.307692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Agen                       |         2 |        0   |
-| Tarbes                     |         2 |        0.5 |
-| Suresnes                   |         2 |        0.5 |
-| Bourgoin-Jallieu           |         2 |        0   |
-| Narbonne                   |         2 |        0   |
-| Albi                       |         2 |        1   |
-| Mont-de-Marsan             |         1 |        0   |
-| US Bressane                |         1 |        0   |
-| Rennes                     |         1 |        0   |
-| Pau                        |         1 |        1   |
-| Nice                       |         1 |        0   |
-| Massy                      |         1 |        1   |
-| La Rochelle                |         1 |        0   |
-| Dax                        |         1 |        1   |
-| Colomiers                  |         1 |        1   |
-| Cognac Saint Jean d'Angély |         1 |        1   |
-| Blagnac                    |         1 |        0   |
-| Biarritz Olympique         |         1 |        0   |
-| Beziers                    |         1 |        1   |
-| Valence Romans Drome Rugby |         1 |        0   |
+| Albi                       |         3 |   0.666667 |
+| Agen                       |         2 |   0        |
+| Tarbes                     |         2 |   0.5      |
+| Suresnes                   |         2 |   0.5      |
+| Narbonne                   |         2 |   0        |
+| Valence Romans Drome Rugby |         2 |   0        |
+| Bourgoin-Jallieu           |         2 |   0        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| Colomiers                  |         1 |   1        |
+| Dax                        |         1 |   1        |
+| La Rochelle                |         1 |   0        |
+| Mont-de-Marsan             |         1 |   0        |
+| Blagnac                    |         1 |   0        |
+| Nice                       |         1 |   0        |
+| Pau                        |         1 |   1        |
+| Rennes                     |         1 |   0        |
+| Biarritz Olympique         |         1 |   0        |
+| Beziers                    |         1 |   1        |
+| US Bressane                |         1 |   0        |
+| Massy                      |         1 |   1        |

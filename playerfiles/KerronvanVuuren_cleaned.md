@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kerron van Vuuren  
-date: 2023-01-06 00:20:03.824224  
+date: 2023-02-02 18:57:00.171895  
 categories: player  
 ---
 # Kerron van Vuuren
 
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 86.0
 
-## Current Percentile: 20.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Sharks         |            49 |   0.591837 |
+| Sharks         |            53 |   0.584906 |
 | Natal Sharks   |            21 |   0.619048 |
 | Southern Kings |             1 |   0        |
 
@@ -41,21 +41,23 @@ categories: player
 | Pumas                    |         2 |   0.5      |
 | Leinster                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
-| Glasgow Warriors         |         2 |   0.5      |
-| Dragons                  |         2 |   1        |
-| Cardiff Blues            |         2 |   0        |
 | Zebre                    |         2 |   1        |
-| Crusaders                |         1 |   0.5      |
-| Connacht                 |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
-| Munster                  |         1 |   0        |
-| New South Wales Waratahs |         1 |   1        |
-| Highlanders              |         1 |   1        |
-| Chiefs                   |         1 |   0        |
-| Edinburgh                |         1 |   0        |
+| Glasgow Warriors         |         2 |   0.5      |
+| Cardiff Blues            |         2 |   0        |
+| Edinburgh                |         2 |   0.5      |
+| Dragons                  |         2 |   1        |
+| Connacht                 |         2 |   0.5      |
+| Blues                    |         1 |   1        |
+| Ulster                   |         1 |   0        |
+| Sunwolves                |         1 |   1        |
+| Bordeaux Begles          |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Brumbies                 |         1 |   0        |
-| Sunwolves                |         1 |   1        |
-| Ulster                   |         1 |   0        |
-| Blues                    |         1 |   1        |
+| New South Wales Waratahs |         1 |   1        |
 | Ospreys                  |         1 |   1        |
+| Harlequins               |         1 |   0        |
+| Munster                  |         1 |   0        |
+| Melbourne Rebels         |         1 |   1        |
+| Chiefs                   |         1 |   0        |
+| Crusaders                |         1 |   0.5      |
+| Highlanders              |         1 |   1        |

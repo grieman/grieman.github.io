@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Saba Pesvianidze  
-date: 2023-01-13 11:25:36.756596  
+date: 2023-02-02 18:47:50.502774  
 categories: player  
 ---
 # Saba Pesvianidze
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            17 |   0.588235 |
+| Soyaux-Angouleme |            18 |   0.555556 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Biarritz Olympique         |         1 |        0   |
 | Blagnac                    |         1 |        1   |
 | Carcassonne                |         1 |        1   |
+| Colomiers                  |         1 |        0   |
 | Dijon                      |         1 |        1   |
 | Grenoble                   |         1 |        0   |
 | Massy                      |         1 |        1   |

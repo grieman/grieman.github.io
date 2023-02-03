@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Christiaan van der Merwe  
-date: 2023-01-15 12:01:47.528826  
+date: 2023-02-02 18:59:03.085053  
 categories: player  
 ---
 # Christiaan van der Merwe
 
 ## Positions: L
 
-## Current elo: 59.0
+## Current elo: 65.0
 
 ## Current Percentile: 2.0
 
@@ -23,16 +23,16 @@ categories: player
 |:------------|--------------:|-----------:|
 | Carcassonne |            65 |   0.569231 |
 | Agen        |            10 |   0.3      |
-| Nevers      |             8 |   0.125    |
+| Nevers      |             9 |   0.222222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Grenoble                   |         6 |   0.5      |
+| Vannes                     |         6 |   0.5      |
 | Nevers                     |         6 |   0.5      |
 | Aurillac                   |         6 |   0.5      |
 | Mont-de-Marsan             |         6 |   0.333333 |
 | Montauban                  |         5 |   0.8      |
-| Vannes                     |         5 |   0.4      |
 | Provence Rugby             |         5 |   0.4      |
 | Rouen                      |         4 |   1        |
 | Oyonnax                    |         4 |   0        |

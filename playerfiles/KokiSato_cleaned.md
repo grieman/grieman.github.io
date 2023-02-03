@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Koki Sato  
-date: 2023-01-30 17:54:22.309161  
+date: 2023-02-02 18:41:10.048067  
 categories: player  
 ---
 # Koki Sato

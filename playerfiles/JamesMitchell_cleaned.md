@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Mitchell  
-date: 2023-01-21 15:44:13.278610  
+date: 2023-02-02 19:05:04.444896  
 categories: player  
 ---
 # James Mitchell
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Sale Sharks        |            34 |   0.411765 |
-| Jersey             |            29 |   0.741379 |
+| Jersey             |            30 |   0.75     |
 | Connacht           |            20 |   0.55     |
 | Doncaster          |             8 |   0.75     |
 | Northampton Saints |             5 |   0.6      |
@@ -30,10 +30,10 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Coventry            |         5 |   0.9      |
-| Bedford             |         4 |   0.75     |
 | Ealing Trailfinders |         4 |   0        |
+| Bedford             |         4 |   0.75     |
+| Cornish Pirates     |         4 |   0.75     |
 | Ampthill            |         3 |   1        |
-| Doncaster           |         3 |   0.333333 |
 | Saracens            |         3 |   0        |
 | Richmond            |         3 |   1        |
 | Nottingham          |         3 |   1        |
@@ -42,7 +42,7 @@ categories: player
 | Hartpury College    |         3 |   1        |
 | Harlequins          |         3 |   0.333333 |
 | Leicester Tigers    |         3 |   1        |
-| Cornish Pirates     |         3 |   0.666667 |
+| Doncaster           |         3 |   0.333333 |
 | Cardiff Blues       |         3 |   0.333333 |
 | Dragons             |         2 |   0.5      |
 | Worcester Warriors  |         2 |   1        |

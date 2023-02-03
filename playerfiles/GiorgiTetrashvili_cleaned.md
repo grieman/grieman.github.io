@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Tetrashvili  
-date: 2023-01-06 00:14:28.913237  
+date: 2023-02-02 18:46:32.914005  
 categories: player  
 ---
 # Giorgi Tetrashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 90.0
+## Current elo: 87.0
 
-## Current Percentile: 8.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Agen      |           115 |   0.334783 |
 | Albi      |            36 |   0.402778 |
-| Perpignan |            17 |   0.294118 |
+| Perpignan |            20 |   0.3      |
 | Georgia   |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -36,17 +36,17 @@ categories: player
 | Stade Toulousain     |         9 |   0        |
 | Brive                |         7 |   0.285714 |
 | Racing 92            |         7 |   0.285714 |
+| Stade Francais Paris |         7 |   0.428571 |
 | Toulon               |         7 |   0.428571 |
 | Bordeaux Begles      |         7 |   0.142857 |
-| Stade Francais Paris |         6 |   0.333333 |
 | Dax                  |         6 |   0.5      |
 | Castres Olympique    |         6 |   0.333333 |
+| Clermont Auvergne    |         6 |   0        |
 | Narbonne             |         6 |   0.5      |
 | Tarbes               |         5 |   0.4      |
 | Montpellier Herault  |         5 |   0.4      |
 | Aurillac             |         5 |   0.3      |
 | Mont-de-Marsan       |         5 |   0.8      |
-| Clermont Auvergne    |         5 |   0        |
 | Biarritz Olympique   |         4 |   0.5      |
 | Beziers              |         4 |   0.5      |
 | Grenoble             |         4 |   0.5      |
@@ -60,6 +60,7 @@ categories: player
 | Perpignan            |         2 |   0.5      |
 | Agen                 |         2 |   0        |
 | Massy                |         2 |   1        |
+| Glasgow Warriors     |         2 |   0        |
 | Benetton Treviso     |         2 |   0.5      |
 | Montauban            |         1 |   1        |
 | London Irish         |         1 |   0        |
@@ -68,7 +69,6 @@ categories: player
 | Provence Rugby       |         1 |   0        |
 | Gloucester Rugby     |         1 |   0        |
 | Soyaux-Angouleme     |         1 |   1        |
-| Glasgow Warriors     |         1 |   0        |
 | Edinburgh            |         1 |   0        |
 | Bourgoin-Jallieu     |         1 |   1        |
 | Belgium              |         1 |   1        |

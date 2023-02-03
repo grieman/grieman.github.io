@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Filippo Alongi  
-date: 2023-01-06 00:26:23.608995  
+date: 2023-02-02 18:57:05.691076  
 categories: player  
 ---
 # Filippo Alongi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 89.0
+## Current elo: 93.0
 
-## Current Percentile: 5.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            21 |   0.214286 |
+| Benetton Treviso |            22 |   0.204545 |
 | Italy            |             2 |   1        |
 | Zebre            |             2 |   0        |
 
@@ -35,10 +35,10 @@ categories: player
 | Dragons              |         2 |       0.75 |
 | Glasgow Warriors     |         2 |       0    |
 | Leinster             |         2 |       0    |
+| Munster              |         2 |       0    |
 | Ospreys              |         2 |       0    |
 | Scarlets             |         2 |       0    |
 | Benetton Treviso     |         1 |       0    |
-| Munster              |         1 |       0    |
 | Namibia              |         1 |       1    |
 | Stade Francais Paris |         1 |       1    |
 | Wales                |         1 |       1    |

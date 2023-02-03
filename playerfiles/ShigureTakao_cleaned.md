@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shigure Takao  
-date: 2023-01-13 11:24:32.993018  
+date: 2023-02-02 19:14:30.779733  
 categories: player  
 ---
 # Shigure Takao
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 95.0
 
-## Current Percentile: 83.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |            12 |       0.75 |
+| Kobelco Kobe Steelers |            14 |   0.642857 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -33,5 +33,7 @@ categories: player
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   1        |
+| Tokyo Sungoliath                  |         1 |   0        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
+| Toyota Verblitz                   |         1 |   0        |
 | Urayasu D-Rocks                   |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tadhg Beirne  
-date: 2023-01-17 11:30:49.459390  
+date: 2023-02-02 18:53:21.859736  
 categories: player  
 ---
 # Tadhg Beirne
@@ -24,7 +24,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Scarlets                |            54 |   0.666667 |
-| Munster                 |            48 |   0.6875   |
+| Munster                 |            49 |   0.673469 |
 | Ireland                 |            33 |   0.727273 |
 | Leinster                |             4 |   0.5      |
 | British and Irish Lions |             3 |   0.666667 |
@@ -49,23 +49,23 @@ categories: player
 | Castres Olympique        |         4 |   0.75     |
 | Glasgow Warriors         |         4 |   0.75     |
 | Australia                |         3 |   1        |
-| England                  |         3 |   0.666667 |
 | Japan                    |         3 |   0.666667 |
 | France                   |         3 |   0        |
 | Bath Rugby               |         3 |   0.666667 |
 | South Africa             |         3 |   0.666667 |
 | Scotland                 |         3 |   1        |
+| England                  |         3 |   0.666667 |
+| Scarlets                 |         2 |   0.5      |
 | Wasps                    |         2 |   1        |
 | Cheetahs                 |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0        |
 | Southern Kings           |         2 |   1        |
-| Scarlets                 |         2 |   0.5      |
 | Gloucester Rugby         |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.75     |
 | Northampton Saints       |         2 |   1        |
 | Sale Sharks              |         1 |   0        |
 | Russia                   |         1 |   1        |
 | Racing 92                |         1 |   0.5      |
-| Stade Toulousain         |         1 |   0        |
 | Fiji                     |         1 |   1        |
 | United States of America |         1 |   1        |
 | Bulls                    |         1 |   1        |

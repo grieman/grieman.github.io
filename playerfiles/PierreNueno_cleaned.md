@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Nueno  
-date: 2023-01-17 11:29:46.459308  
+date: 2023-02-02 18:58:36.364420  
 categories: player  
 ---
 # Pierre Nueno
@@ -23,32 +23,32 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            53 |   0.45283  |
+| Narbonne |            55 |   0.454545 |
 | Pau      |            13 |   0.461538 |
 | Spain    |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Suresnes                   |         4 |   0.75     |
 | Agen                       |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.833333 |
-| Suresnes                   |         3 |   0.666667 |
+| Albi                       |         3 |   0        |
 | Tarbes                     |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Nice                       |         3 |   1        |
 | Dax                        |         2 |   0.5      |
-| Nevers                     |         2 |   0        |
 | Carcassonne                |         2 |   0        |
 | Cardiff Blues              |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
+| Bayonne                    |         2 |   0        |
 | Aurillac                   |         2 |   0        |
-| Aubenas                    |         2 |   0.5      |
 | Ospreys                    |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Colomiers                  |         2 |   0        |
-| Bayonne                    |         2 |   0        |
+| Nevers                     |         2 |   0        |
 | Provence Rugby             |         2 |   1        |
 | Grenoble                   |         2 |   0.25     |
-| Albi                       |         2 |   0        |
+| Aubenas                    |         2 |   0.5      |
 | Rennes                     |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Vannes                     |         1 |   0        |

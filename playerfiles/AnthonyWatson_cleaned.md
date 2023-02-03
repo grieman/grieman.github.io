@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Watson  
-date: 2023-01-06 00:12:57.111402  
+date: 2023-02-02 18:44:54.548327  
 categories: player  
 ---
 # Anthony Watson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: British and Irish Lions
 
-## Current elo: 101.0
+## Current elo: 84.0
 
-## Current Percentile: 43.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Bath Rugby              |           122 |   0.569672 |
 | England                 |            49 |   0.714286 |
 | London Irish            |            21 |   0.52381  |
-| Leicester Tigers        |            10 |   0.55     |
+| Leicester Tigers        |            11 |   0.5      |
 | British and Irish Lions |             9 |   0.722222 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,9 +38,9 @@ categories: player
 | Saracens                 |        10 |   0.25     |
 | Exeter Chiefs            |        10 |   0.5      |
 | Wales                    |         9 |   0.666667 |
+| Northampton Saints       |         9 |   0.277778 |
 | Harlequins               |         9 |   0.444444 |
 | Worcester Warriors       |         8 |   0.875    |
-| Northampton Saints       |         8 |   0.3125   |
 | Newcastle Falcons        |         7 |   0.714286 |
 | London Irish             |         7 |   0.857143 |
 | Australia                |         7 |   0.857143 |

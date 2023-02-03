@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mickael Ivaldi  
-date: 2023-01-06 00:09:00.899908  
+date: 2023-02-02 19:04:16.899144  
 categories: player  
 ---
 # Mickael Ivaldi
 
 ## Positions: H
 
-## Current elo: 114.0
+## Current elo: 81.0
 
-## Current Percentile: 80.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -24,13 +24,13 @@ categories: player
 | Lyon                 |           134 |   0.559701 |
 | Montpellier Herault  |            83 |   0.536145 |
 | Toulon               |            45 |   0.666667 |
-| Stade Francais Paris |            10 |   0.8      |
+| Stade Francais Paris |            12 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Racing 92            |        20 |   0.575    |
 | Toulon               |        20 |   0.45     |
-| Castres Olympique    |        19 |   0.368421 |
+| Castres Olympique    |        20 |   0.4      |
 | Clermont Auvergne    |        19 |   0.447368 |
 | Bordeaux Begles      |        18 |   0.611111 |
 | Stade Toulousain     |        18 |   0.5      |
@@ -42,7 +42,7 @@ categories: player
 | La Rochelle          |        12 |   0.541667 |
 | Agen                 |        10 |   0.7      |
 | Grenoble             |         9 |   0.777778 |
-| Perpignan            |         7 |   0.857143 |
+| Perpignan            |         8 |   0.75     |
 | Oyonnax              |         6 |   0.666667 |
 | Lyon                 |         5 |   0.8      |
 | Biarritz Olympique   |         5 |   0.6      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jan Serfontein  
-date: 2023-01-06 00:09:53.796115  
+date: 2023-02-02 18:48:54.243715  
 categories: player  
 ---
 # Jan Serfontein
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 111.0
+## Current elo: 99.0
 
-## Current Percentile: 78.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            91 |   0.532967 |
+| Montpellier Herault |            93 |   0.532258 |
 | Bulls               |            60 |   0.516667 |
 | South Africa        |            36 |   0.722222 |
 | Blue Bulls          |             9 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Stade Toulousain         |         9 |   0.444444 |
+| Stade Toulousain         |        10 |   0.4      |
+| Racing 92                |         8 |   0.375    |
 | Clermont Auvergne        |         8 |   0.5      |
 | Toulon                   |         8 |   0.75     |
 | New Zealand              |         7 |   0.142857 |
 | Argentina                |         7 |   1        |
-| Racing 92                |         7 |   0.285714 |
 | Sharks                   |         7 |   0.785714 |
 | Australia                |         6 |   0.666667 |
 | Pau                      |         6 |   0.333333 |

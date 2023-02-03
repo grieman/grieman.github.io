@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shunta Kawano  
-date: 2023-01-30 17:51:22.493549  
+date: 2023-02-02 19:12:15.147328  
 categories: player  
 ---
 # Shunta Kawano

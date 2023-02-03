@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yanis Boulassel  
-date: 2023-01-30 11:48:00.917552  
+date: 2023-02-02 19:12:52.403105  
 categories: player  
 ---
 # Yanis Boulassel

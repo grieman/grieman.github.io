@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duhan van der Merwe  
-date: 2023-01-06 00:13:49.874968  
+date: 2023-02-02 18:55:33.387420  
 categories: player  
 ---
 # Duhan van der Merwe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 112.0
+## Current elo: 99.0
 
-## Current Percentile: 82.0
+## Current Percentile: 64.0
 
 # Elo History
 

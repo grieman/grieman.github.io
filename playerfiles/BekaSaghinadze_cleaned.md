@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Saghinadze  
-date: 2023-01-15 11:50:53.716738  
+date: 2023-02-02 18:45:48.209547  
 categories: player  
 ---
 # Beka Saghinadze
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 107.0
+## Current elo: 108.0
 
 ## Current Percentile: 77.0
 
@@ -24,17 +24,17 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Georgia  |            26 |   0.634615 |
-| Lyon     |            24 |   0.541667 |
+| Lyon     |            25 |   0.56     |
 | Aurillac |            23 |   0.434783 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Clermont Auvergne          |         4 |   0.5      |
 | Romania                    |         3 |   1        |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Provence Rugby             |         3 |   0.333333 |
 | Perpignan                  |         3 |   0.333333 |
 | Brive                      |         3 |   1        |
-| Clermont Auvergne          |         3 |   0.333333 |
 | Colomiers                  |         3 |   0.666667 |
 | Nevers                     |         3 |   0.333333 |
 | Stade Toulousain           |         3 |   0.666667 |

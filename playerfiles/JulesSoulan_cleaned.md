@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jules Soulan  
-date: 2023-01-13 11:29:00.393232  
+date: 2023-02-02 18:58:25.622269  
 categories: player  
 ---
 # Jules Soulan
 
 ## Positions: FH
 
-## Current elo: 112.0
+## Current elo: 104.0
 
-## Current Percentile: 68.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Oyonnax   |            40 |   0.8      |
+| Oyonnax   |            42 |   0.785714 |
 | Colomiers |            39 |   0.730769 |
 | Agen      |             3 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Nevers                     |         8 |   0.875    |
 | Vannes                     |         7 |   0.714286 |
 | Beziers                    |         7 |   0.785714 |
 | Provence Rugby             |         7 |   0.642857 |
-| Nevers                     |         7 |   0.857143 |
-| Mont-de-Marsan             |         5 |   0.6      |
+| Mont-de-Marsan             |         6 |   0.5      |
 | Aurillac                   |         5 |   0.8      |
 | Rouen                      |         5 |   1        |
 | Soyaux-Angouleme           |         4 |   0.5      |

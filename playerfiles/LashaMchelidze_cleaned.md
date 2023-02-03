@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lasha Mchelidze  
-date: 2023-01-17 11:40:46.870373  
+date: 2023-02-02 18:47:36.198068  
 categories: player  
 ---
 # Lasha Mchelidze
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 90.0
 
-## Current Percentile: 38.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |            12 |   0.333333 |
+| Carqueiranne-Hyères |            13 |   0.307692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Valence Romans Drome Rugby |         2 |          0 |
 | Albi                       |         1 |          1 |
 | Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
@@ -36,4 +37,3 @@ categories: player
 | Rennes                     |         1 |          0 |
 | Suresnes                   |         1 |          1 |
 | US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |

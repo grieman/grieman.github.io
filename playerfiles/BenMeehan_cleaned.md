@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Meehan  
-date: 2023-01-06 00:24:08.928242  
+date: 2023-02-02 18:41:51.384118  
 categories: player  
 ---
 # Ben Meehan
 
 ## Positions: SH
 
-## Current elo: 116.0
+## Current elo: 100.0
 
-## Current Percentile: 89.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -23,36 +23,37 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | London Irish     |            73 |   0.486301 |
 | Melbourne Rebels |            38 |   0.263158 |
-| Gloucester Rugby |            31 |   0.532258 |
+| Gloucester Rugby |            34 |   0.485294 |
 | Melbourne Rising |            17 |   0.647059 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Leicester Tigers         |         7 |   0.285714 |
-| Bath Rugby               |         7 |   0.571429 |
-| Sale Sharks              |         7 |   0.142857 |
 | Wasps                    |         7 |   0.571429 |
-| Exeter Chiefs            |         6 |   0.333333 |
-| New South Wales Waratahs |         6 |   0.166667 |
+| Bath Rugby               |         7 |   0.571429 |
+| Exeter Chiefs            |         7 |   0.285714 |
+| Leicester Tigers         |         7 |   0.285714 |
+| Sale Sharks              |         7 |   0.142857 |
 | Worcester Warriors       |         6 |   0.333333 |
 | Bristol Rugby            |         6 |   0.5      |
-| Western Force            |         5 |   0.4      |
-| Newcastle Falcons        |         5 |   0.4      |
+| Saracens                 |         6 |   0.333333 |
+| New South Wales Waratahs |         6 |   0.166667 |
 | Harlequins               |         5 |   0.3      |
 | Gloucester Rugby         |         5 |   0.4      |
-| Saracens                 |         5 |   0.4      |
+| Western Force            |         5 |   0.4      |
+| Newcastle Falcons        |         5 |   0.4      |
 | Northampton Saints       |         5 |   0.4      |
 | Queensland Reds          |         4 |   0.75     |
 | Hurricanes               |         4 |   0        |
 | Crusaders                |         3 |   0        |
 | NSW Country Eagles       |         3 |   0.666667 |
-| London Irish             |         3 |   0.833333 |
 | Brumbies                 |         3 |   0        |
+| London Irish             |         3 |   0.833333 |
 | North Harbour Rays       |         2 |   1        |
-| Queensland Country       |         2 |   1        |
-| Perth Spirit             |         2 |   0        |
 | Nottingham               |         2 |   1        |
+| Perth Spirit             |         2 |   0        |
+| Queensland Country       |         2 |   1        |
 | Sydney Stars             |         2 |   1        |
+| Leinster                 |         2 |   0        |
 | Richmond                 |         2 |   1        |
 | Krasny Yar               |         2 |   1        |
 | Jersey                   |         2 |   0.5      |
@@ -70,14 +71,13 @@ categories: player
 | Edinburgh                |         2 |   0        |
 | Greater Sydney Rams      |         2 |   1        |
 | Hartpury College         |         2 |   1        |
-| Stormers                 |         1 |   0        |
 | Sunwolves                |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
+| Stormers                 |         1 |   0        |
 | Agen                     |         1 |   1        |
 | Scarlets                 |         1 |   0        |
 | London Scottish          |         1 |   1        |
 | Lions                    |         1 |   0        |
-| Leinster                 |         1 |   0        |
 | Jaguares                 |         1 |   0        |
 | Highlanders              |         1 |   0        |
 | Ealing Trailfinders      |         1 |   1        |

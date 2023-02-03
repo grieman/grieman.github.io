@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommy Taylor  
-date: 2023-01-23 15:33:07.579826  
+date: 2023-02-02 19:12:54.209102  
 categories: player  
 ---
 # Tommy Taylor
@@ -23,15 +23,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |           136 |   0.511029 |
+| Sale Sharks |           137 |   0.514599 |
 | Wasps       |            85 |   0.564706 |
 | England     |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Harlequins          |        20 |   0.25     |
+| Bath Rugby          |        18 |   0.694444 |
 | Leicester Tigers    |        17 |   0.411765 |
-| Bath Rugby          |        17 |   0.676471 |
 | Gloucester Rugby    |        17 |   0.470588 |
 | Worcester Warriors  |        16 |   0.8125   |
 | Exeter Chiefs       |        16 |   0.375    |

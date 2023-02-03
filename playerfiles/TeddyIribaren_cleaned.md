@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Teddy Iribaren  
-date: 2023-01-06 00:21:25.526170  
+date: 2023-02-02 18:48:53.408164  
 categories: player  
 ---
 # Teddy Iribaren
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 94.0
+## Current elo: 81.0
 
-## Current Percentile: 37.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Racing 92           |           108 |   0.578704 |
+| Racing 92           |           110 |   0.577273 |
 | Tarbes              |            63 |   0.571429 |
 | Brive               |            44 |   0.545455 |
 | Montpellier Herault |            12 |   0.25     |
@@ -32,15 +32,15 @@ categories: player
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| La Rochelle          |        18 |   0.388889 |
+| La Rochelle          |        19 |   0.421053 |
 | Lyon                 |        15 |   0.433333 |
 | Castres Olympique    |        13 |   0.5      |
 | Stade Toulousain     |        13 |   0.346154 |
 | Pau                  |        12 |   0.583333 |
 | Toulon               |        11 |   0.636364 |
 | Stade Francais Paris |        10 |   0.4      |
+| Montpellier Herault  |         9 |   0.666667 |
 | Bordeaux Begles      |         9 |   0.555556 |
-| Montpellier Herault  |         8 |   0.75     |
 | Agen                 |         7 |   0.642857 |
 | Clermont Auvergne    |         7 |   0.571429 |
 | Oyonnax              |         7 |   0.785714 |

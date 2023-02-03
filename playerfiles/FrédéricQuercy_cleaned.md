@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Frédéric Quercy  
-date: 2023-01-06 11:44:26.856523  
+date: 2023-02-02 19:01:14.646982  
 categories: player  
 ---
 # Frédéric Quercy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 57.0
+## Current elo: 55.0
 
 ## Current Percentile: 0.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Nevers              |            48 |   0.46875  |
-| Montauban           |            42 |   0.416667 |
+| Montauban           |            44 |   0.420455 |
 | Albi                |            25 |   0.46     |
 | Spain               |            12 |   0.5      |
 | Montpellier Herault |             3 |   0.666667 |
@@ -44,13 +44,13 @@ categories: player
 | Narbonne           |         5 |   0.9      |
 | Agen               |         5 |   0.6      |
 | Aurillac           |         5 |   0.2      |
+| Massy              |         4 |   0.75     |
+| Provence Rugby     |         4 |   0.25     |
 | Dax                |         3 |   0.666667 |
 | Nevers             |         3 |   0.666667 |
 | US Bressane        |         3 |   0.666667 |
 | Romania            |         3 |   0.333333 |
-| Provence Rugby     |         3 |   0        |
 | Mont-de-Marsan     |         3 |   0.333333 |
-| Massy              |         3 |   1        |
 | Oyonnax            |         2 |   0        |
 | Bourgoin-Jallieu   |         2 |   1        |
 | Georgia            |         2 |   0        |

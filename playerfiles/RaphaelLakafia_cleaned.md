@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Raphael Lakafia  
-date: 2023-01-06 00:24:02.798316  
+date: 2023-02-02 18:55:20.202227  
 categories: player  
 ---
 # Raphael Lakafia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 97.0
+## Current elo: 103.0
 
-## Current Percentile: 90.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Toulon               |           120 |   0.5375   |
+| Toulon               |           124 |   0.544355 |
 | Biarritz Olympique   |            86 |   0.505814 |
 | Stade Francais Paris |            68 |   0.580882 |
 | Grenoble             |            26 |   0.576923 |
@@ -35,42 +35,42 @@ categories: player
 | La Rochelle          |        19 |   0.5      |
 | Stade Toulousain     |        18 |   0.25     |
 | Castres Olympique    |        18 |   0.555556 |
+| Brive                |        17 |   0.705882 |
 | Stade Francais Paris |        17 |   0.529412 |
 | Bordeaux Begles      |        17 |   0.588235 |
-| Brive                |        16 |   0.75     |
 | Montpellier Herault  |        16 |   0.40625  |
 | Bayonne              |        15 |   0.566667 |
 | Lyon                 |        14 |   0.607143 |
 | Clermont Auvergne    |        14 |   0.571429 |
 | Toulon               |        13 |   0.423077 |
 | Agen                 |        12 |   0.666667 |
+| Pau                  |        10 |   0.9      |
 | Perpignan            |         9 |   0.555556 |
-| Pau                  |         9 |   0.888889 |
 | Grenoble             |         8 |   0.5      |
+| Bath Rugby           |         7 |   0.857143 |
 | Oyonnax              |         7 |   0.285714 |
-| Bath Rugby           |         6 |   0.833333 |
-| Narbonne             |         3 |   0.333333 |
-| Benetton Treviso     |         3 |   1        |
-| Scarlets             |         3 |   0.666667 |
-| Harlequins           |         3 |   0.333333 |
-| Zebre                |         3 |   1        |
+| Zebre                |         4 |   1        |
 | Leicester Tigers     |         3 |   0.666667 |
-| Mont-de-Marsan       |         2 |   1        |
-| Colomiers            |         2 |   0.5      |
+| Harlequins           |         3 |   0.333333 |
+| Scarlets             |         3 |   0.666667 |
+| Benetton Treviso     |         3 |   1        |
+| Narbonne             |         3 |   0.333333 |
 | Ospreys              |         2 |   0.5      |
-| Newcastle Falcons    |         2 |   0.5      |
-| Connacht             |         2 |   0.5      |
-| Bourgoin-Jallieu     |         2 |   1        |
 | Gloucester Rugby     |         2 |   1        |
+| Connacht             |         2 |   0.5      |
 | Timisoara Saracens   |         2 |   1        |
+| Colomiers            |         2 |   0.5      |
 | Edinburgh            |         2 |   0        |
-| Albi                 |         1 |   0        |
-| Auch                 |         1 |   0        |
+| Mont-de-Marsan       |         2 |   1        |
+| Bourgoin-Jallieu     |         2 |   1        |
+| Newcastle Falcons    |         2 |   0.5      |
+| Wasps                |         1 |   1        |
+| Ulster               |         1 |   0        |
+| US Bressane          |         1 |   0.5      |
 | Argentina            |         1 |   0        |
 | Tonga                |         1 |   0        |
-| Ulster               |         1 |   0        |
-| Wasps                |         1 |   1        |
-| US Bressane          |         1 |   0.5      |
+| Albi                 |         1 |   0        |
+| Auch                 |         1 |   0        |
 | Bristol Rugby        |         1 |   0        |
 | Saracens             |         1 |   1        |
 | Beziers              |         1 |   1        |

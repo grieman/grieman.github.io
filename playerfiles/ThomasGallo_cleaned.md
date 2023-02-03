@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Gallo  
-date: 2023-01-30 11:44:48.713175  
+date: 2023-02-02 18:51:31.039426  
 categories: player  
 ---
 # Thomas Gallo
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 

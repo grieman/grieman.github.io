@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Antoine Erbani  
-date: 2023-01-13 11:35:23.111116  
+date: 2023-02-02 18:57:26.183059  
 categories: player  
 ---
 # Antoine Erbani
 
 ## Positions: FL, N8
 
-## Current elo: 115.0
+## Current elo: 119.0
 
 ## Current Percentile: 86.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Agen               |           146 |   0.506849 |
+| Agen               |           147 |   0.510204 |
 | Pau                |            41 |   0.463415 |
 | Biarritz Olympique |            10 |   0.3      |
 
@@ -43,11 +43,11 @@ categories: player
 | Narbonne             |         6 |   0.5      |
 | Carcassonne          |         6 |   0.833333 |
 | Bourgoin-Jallieu     |         6 |   0.5      |
+| Biarritz Olympique   |         6 |   0.666667 |
 | Aurillac             |         6 |   0.666667 |
 | Stade Francais Paris |         5 |   0.6      |
 | Colomiers            |         5 |   0.5      |
 | Grenoble             |         5 |   0.4      |
-| Biarritz Olympique   |         5 |   0.6      |
 | Racing 92            |         5 |   0.6      |
 | Perpignan            |         5 |   0.4      |
 | Beziers              |         4 |   0.25     |

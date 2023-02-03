@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clayton Blommetjies  
-date: 2023-01-06 00:16:35.750407  
+date: 2023-02-02 19:03:15.046020  
 categories: player  
 ---
 # Clayton Blommetjies
 
 ## Positions: FB, W
 
-## Current elo: 110.0
+## Current elo: 94.0
 
-## Current Percentile: 66.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Cheetahs            |            63 |   0.333333 |
 | Free State Cheetahs |            55 |   0.572727 |
 | Blue Bulls          |            13 |   0.346154 |
-| Stormers            |            11 |   0.772727 |
+| Stormers            |            13 |   0.653846 |
 | Scarlets            |             6 |   0.5      |
 | Leicester Tigers    |             2 |   0        |
 
@@ -40,23 +40,23 @@ categories: player
 | Stormers                 |         6 |   0.166667 |
 | Bulls                    |         6 |   0.5      |
 | Lions                    |         6 |   0.333333 |
+| Ulster                   |         5 |   0.2      |
 | Cardiff Blues            |         4 |   0.25     |
 | Scarlets                 |         4 |   0.5      |
 | Sharks                   |         4 |   0.25     |
-| Ulster                   |         4 |   0.25     |
 | Sunwolves                |         3 |   1        |
-| Edinburgh                |         3 |   0.666667 |
+| Glasgow Warriors         |         3 |   0        |
 | Ospreys                  |         3 |   0.5      |
 | Eastern Province Kings   |         3 |   0.666667 |
 | Dragons                  |         3 |   0.666667 |
 | Connacht                 |         3 |   0.666667 |
+| Edinburgh                |         3 |   0.666667 |
 | Free State Cheetahs      |         2 |   0        |
 | Highlanders              |         2 |   0        |
 | Jaguares                 |         2 |   0        |
 | Crusaders                |         2 |   0        |
 | Chiefs                   |         2 |   0        |
 | Munster                  |         2 |   0        |
-| Glasgow Warriors         |         2 |   0        |
 | Queensland Reds          |         1 |   0        |
 | Western Force            |         1 |   1        |
 | Bath Rugby               |         1 |   0        |

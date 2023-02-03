@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Richie Arnold  
-date: 2023-01-06 00:23:07.753688  
+date: 2023-02-02 18:53:25.148976  
 categories: player  
 ---
 # Richie Arnold
 
 ## Positions: L
 
-## Current elo: 103.0
+## Current elo: 94.0
 
-## Current Percentile: 47.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Stade Toulousain   |            67 |   0.626866 |
+| Stade Toulousain   |            71 |   0.633803 |
 | Brumbies           |            10 |   0.6      |
 | Western Force      |             7 |   0.428571 |
 | Perth Spirit       |             6 |   0.666667 |
@@ -30,9 +30,9 @@ categories: player
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Castres Olympique                 |         7 |   0.642857 |
-| La Rochelle                       |         7 |   0.857143 |
+| La Rochelle                       |         8 |   0.75     |
 | Racing 92                         |         7 |   0.714286 |
+| Castres Olympique                 |         7 |   0.642857 |
 | Lyon                              |         6 |   0.166667 |
 | Clermont Auvergne                 |         6 |   0.833333 |
 | Pau                               |         5 |   0.6      |
@@ -40,19 +40,19 @@ categories: player
 | Toulon                            |         4 |   0.75     |
 | Brive                             |         4 |   0.75     |
 | Perpignan                         |         3 |   0.666667 |
-| Hurricanes                        |         2 |   0.5      |
+| Montpellier Herault               |         3 |   0.666667 |
 | Sunwolves                         |         2 |   1        |
+| Munster                           |         2 |   1        |
 | Brisbane City                     |         2 |   0.5      |
 | Melbourne Rising                  |         2 |   0.5      |
-| New South Wales Waratahs          |         2 |   0.5      |
+| Sale Sharks                       |         2 |   1        |
 | Bordeaux Begles                   |         2 |   0.5      |
 | Queensland Reds                   |         2 |   0.5      |
+| New South Wales Waratahs          |         2 |   0.5      |
 | Leinster                          |         2 |   0        |
-| Montpellier Herault               |         2 |   0.5      |
-| Munster                           |         1 |   1        |
+| Hurricanes                        |         2 |   0.5      |
 | Agen                              |         1 |   1        |
 | Queensland Country                |         1 |   1        |
-| Sale Sharks                       |         1 |   1        |
 | Southern Kings                    |         1 |   1        |
 | Sydney Rays                       |         1 |   0        |
 | Sydney Stars                      |         1 |   0        |

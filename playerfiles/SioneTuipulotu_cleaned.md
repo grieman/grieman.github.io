@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sione Tuipulotu  
-date: 2023-01-06 00:09:36.994892  
+date: 2023-02-02 19:07:35.571591  
 categories: player  
 ---
 # Sione Tuipulotu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 99.0
+## Current elo: 97.0
 
-## Current Percentile: 33.0
+## Current Percentile: 53.0
 
 # Elo History
 

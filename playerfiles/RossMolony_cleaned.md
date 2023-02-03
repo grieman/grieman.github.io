@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ross Molony  
-date: 2023-01-13 11:35:51.269454  
+date: 2023-02-02 18:52:16.748889  
 categories: player  
 ---
 # Ross Molony
 
 ## Positions: L
 
-## Current elo: 116.0
+## Current elo: 128.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           135 |   0.792593 |
+| Leinster |           138 |   0.797101 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,17 +35,17 @@ categories: player
 | Benetton Treviso    |        10 |   0.9      |
 | Ospreys             |         9 |   0.777778 |
 | Edinburgh           |         8 |   0.75     |
-| Cardiff Blues       |         5 |   0.8      |
+| Cardiff Blues       |         6 |   0.833333 |
 | Southern Kings      |         4 |   1        |
 | Montpellier Herault |         3 |   1        |
 | Bath Rugby          |         3 |   1        |
+| Gloucester Rugby    |         2 |   1        |
+| Racing 92           |         2 |   1        |
 | Cheetahs            |         2 |   0.5      |
 | Castres Olympique   |         2 |   0.75     |
 | Bulls               |         2 |   0.5      |
 | Wasps               |         2 |   0.5      |
-| Gloucester Rugby    |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
-| Racing 92           |         1 |   1        |
 | Sharks              |         1 |   1        |
 | Stade Toulousain    |         1 |   1        |
 | Lyon                |         1 |   1        |

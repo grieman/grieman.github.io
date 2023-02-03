@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Scott  
-date: 2023-01-06 11:43:10.914175  
+date: 2023-02-02 19:04:38.243703  
 categories: player  
 ---
 # Matt Scott
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Edinburgh        |            94 |   0.489362 |
-| Leicester Tigers |            50 |   0.62     |
+| Leicester Tigers |            54 |   0.592593 |
 | Scotland         |            39 |   0.435897 |
 | Gloucester Rugby |            35 |   0.442857 |
 
@@ -34,46 +34,46 @@ categories: player
 | London Irish             |        10 |   0.9      |
 | Glasgow Warriors         |        10 |   0.45     |
 | Connacht                 |        10 |   0.7      |
-| Italy                    |         8 |   0.875    |
-| Exeter Chiefs            |         8 |   0.3125   |
-| Munster                  |         8 |   0.375    |
 | Harlequins               |         8 |   0.25     |
+| Italy                    |         8 |   0.875    |
+| Munster                  |         8 |   0.375    |
+| Exeter Chiefs            |         8 |   0.3125   |
 | Worcester Warriors       |         7 |   0.785714 |
+| Newcastle Falcons        |         7 |   0.428571 |
+| Dragons                  |         6 |   0.666667 |
+| Northampton Saints       |         6 |   0.333333 |
+| Leinster                 |         6 |   0.166667 |
+| Cardiff Blues            |         6 |   0.333333 |
+| Saracens                 |         6 |   0.333333 |
+| Scarlets                 |         6 |   0.666667 |
+| Ulster                   |         6 |   0        |
 | Wasps                    |         6 |   0.583333 |
 | Bath Rugby               |         6 |   0.5      |
-| Ulster                   |         6 |   0        |
-| Scarlets                 |         6 |   0.666667 |
-| Saracens                 |         6 |   0.333333 |
-| Cardiff Blues            |         6 |   0.333333 |
-| Dragons                  |         6 |   0.666667 |
 | Sale Sharks              |         6 |   0.333333 |
-| Newcastle Falcons        |         6 |   0.5      |
-| Leinster                 |         6 |   0.166667 |
-| Northampton Saints       |         5 |   0.4      |
-| Zebre                    |         5 |   0.6      |
 | Ireland                  |         5 |   0.2      |
+| Zebre                    |         5 |   0.6      |
 | Japan                    |         4 |   1        |
-| Bordeaux Begles          |         4 |   0.625    |
-| South Africa             |         4 |   0        |
-| England                  |         4 |   0        |
 | Leicester Tigers         |         4 |   0.25     |
-| Ospreys                  |         3 |   0.666667 |
+| South Africa             |         4 |   0        |
+| Ospreys                  |         4 |   0.5      |
+| England                  |         4 |   0        |
+| Bordeaux Begles          |         4 |   0.625    |
 | Wales                    |         3 |   0        |
 | France                   |         3 |   0        |
-| Samoa                    |         3 |   0.666667 |
 | Racing 92                |         3 |   0.666667 |
-| Grenoble                 |         2 |   0.5      |
-| Toulon                   |         2 |   0.5      |
-| London Welsh             |         2 |   1        |
-| La Rochelle              |         2 |   0.5      |
+| Samoa                    |         3 |   0.666667 |
 | Bristol Rugby            |         2 |   0.5      |
-| Gloucester Rugby         |         2 |   1        |
+| Toulon                   |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
-| Stade Toulousain         |         1 |   1        |
+| London Welsh             |         2 |   1        |
+| Gloucester Rugby         |         2 |   1        |
+| La Rochelle              |         2 |   0.5      |
+| Grenoble                 |         2 |   0.5      |
 | United States of America |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
 | Australia                |         1 |   1        |
 | Tonga                    |         1 |   0        |
-| Aironi                   |         1 |   0        |
+| Clermont Auvergne        |         1 |   1        |
 | Stade Francais Paris     |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | Brive                    |         1 |   1        |
@@ -81,4 +81,5 @@ categories: player
 | New Zealand              |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
 | Lyon                     |         1 |   0        |
+| Aironi                   |         1 |   0        |
 | Agen                     |         1 |   1        |

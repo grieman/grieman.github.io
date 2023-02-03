@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jefferson Poirot  
-date: 2023-01-23 15:29:16.543928  
+date: 2023-02-02 18:51:55.329324  
 categories: player  
 ---
 # Jefferson Poirot
@@ -23,15 +23,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           188 |   0.510638 |
+| Bordeaux Begles |           189 |   0.507937 |
 | France          |            36 |   0.430556 |
 | Brive           |             7 |   0.142857 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Castres Olympique        |        16 |  0.5       |
 | Clermont Auvergne        |        16 |  0.5       |
 | Racing 92                |        15 |  0.4       |
-| Castres Olympique        |        15 |  0.533333  |
 | Stade Francais Paris     |        15 |  0.466667  |
 | Montpellier Herault      |        14 |  0.392857  |
 | Stade Toulousain         |        11 |  0.0909091 |

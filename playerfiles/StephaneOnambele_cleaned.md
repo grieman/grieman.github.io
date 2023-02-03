@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephane Onambele  
-date: 2023-01-13 11:28:39.936383  
+date: 2023-02-02 19:14:44.310598  
 categories: player  
 ---
 # Stephane Onambele
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Colomiers         |            59 |   0.457627 |
 | Toulon            |            28 |   0.5      |
-| Carcassonne       |            14 |   0.428571 |
+| Carcassonne       |            15 |   0.466667 |
 | Castres Olympique |             4 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -50,17 +50,17 @@ categories: player
 | Carcassonne          |         3 |   0.333333 |
 | Oyonnax              |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   0.5      |
+| Rouen                |         2 |   1        |
 | Provence Rugby       |         2 |   0.5      |
 | Castres Olympique    |         2 |   1        |
 | Lyon                 |         2 |   0        |
 | Nevers               |         2 |   0.5      |
 | Colomiers            |         2 |   0        |
-| Clermont Auvergne    |         1 |   0        |
 | Ospreys              |         1 |   0        |
+| Clermont Auvergne    |         1 |   0        |
 | Albi                 |         1 |   0        |
 | Edinburgh            |         1 |   0        |
 | La Rochelle          |         1 |   1        |
-| Rouen                |         1 |   1        |
 | Brive                |         1 |   0        |
 | London Irish         |         1 |   1        |
 | Bordeaux Begles      |         1 |   0        |

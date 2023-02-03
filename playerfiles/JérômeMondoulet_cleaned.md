@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jérôme Mondoulet  
-date: 2023-01-17 11:40:05.129479  
+date: 2023-02-02 18:52:10.710664  
 categories: player  
 ---
 # Jérôme Mondoulet
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 92.0
 
-## Current Percentile: 50.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Provence Rugby |            68 |   0.470588 |
 | Albi           |            51 |   0.411765 |
-| Nice           |            19 |   0.552632 |
+| Nice           |            21 |   0.547619 |
 | Agen           |             7 |   0.857143 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -41,19 +41,19 @@ categories: player
 | Vannes                     |         5 |   0.6      |
 | US Bressane                |         5 |   0.6      |
 | Biarritz Olympique         |         5 |   0.3      |
+| Bourgoin-Jallieu           |         5 |   0.4      |
 | Montauban                  |         5 |   0.6      |
 | Soyaux-Angouleme           |         4 |   0.5      |
 | Massy                      |         4 |   0.75     |
 | Brive                      |         4 |   0.25     |
-| Bourgoin-Jallieu           |         4 |   0.5      |
-| La Rochelle                |         3 |   0.333333 |
 | Lyon                       |         3 |   0.333333 |
+| Suresnes                   |         3 |   1        |
 | Pau                        |         3 |   0        |
 | Provence Rugby             |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.333333 |
+| La Rochelle                |         3 |   0.333333 |
 | Rouen                      |         2 |   0.75     |
 | Bayonne                    |         2 |   0.5      |
-| Suresnes                   |         2 |   1        |
 | Auch                       |         2 |   0.25     |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |

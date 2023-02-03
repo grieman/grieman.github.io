@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brice Ferrer  
-date: 2023-01-17 11:45:24.068463  
+date: 2023-02-02 18:43:13.023224  
 categories: player  
 ---
 # Brice Ferrer
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 48.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            55 |   0.563636 |
+| Dax    |            57 |   0.578947 |
 | Spain  |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Chambery                   |         6 |   0.833333 |
 | Albi                       |         5 |   0.2      |
 | Nice                       |         5 |   0.8      |
 | Blagnac                    |         5 |   0.6      |
-| Chambery                   |         5 |   0.8      |
-| Bourgoin-Jallieu           |         4 |   0.5      |
+| Bourgoin-Jallieu           |         5 |   0.6      |
 | Cognac Saint Jean d'Angély |         4 |   0.25     |
 | Dijon                      |         4 |   0.75     |
 | Tarbes                     |         4 |   0.75     |

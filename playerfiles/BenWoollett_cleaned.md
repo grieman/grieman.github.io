@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Woollett  
-date: 2023-01-21 15:41:14.402498  
+date: 2023-02-02 19:00:14.248843  
 categories: player  
 ---
 # Ben Woollett
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 99.0
 
-## Current Percentile: 38.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Jersey             |            10 |       0.85 |
-| NSW Country Eagles |             4 |       0.5  |
+| Jersey             |            11 |   0.863636 |
+| NSW Country Eagles |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         2 |       1    |
 | Coventry            |         2 |       0.75 |
 | Ampthill            |         1 |       1    |
 | Canberra Vikings    |         1 |       0    |
-| Cornish Pirates     |         1 |       1    |
 | Doncaster           |         1 |       1    |
 | Ealing Trailfinders |         1 |       0    |
 | Hartpury College    |         1 |       1    |

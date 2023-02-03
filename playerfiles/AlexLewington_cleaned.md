@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Lewington  
-date: 2023-01-06 00:24:31.878873  
+date: 2023-02-02 18:59:25.297256  
 categories: player  
 ---
 # Alex Lewington
 
 ## Positions: W
 
-## Current elo: 107.0
+## Current elo: 87.0
 
-## Current Percentile: 60.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | London Irish     |           106 |   0.363208 |
-| Saracens         |            91 |   0.769231 |
+| Saracens         |            95 |   0.768421 |
 | Leicester Tigers |             8 |   0.375    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -34,17 +34,17 @@ categories: player
 | Exeter Chiefs        |        14 |   0.357143 |
 | Northampton Saints   |        13 |   0.384615 |
 | Leicester Tigers     |        13 |   0.538462 |
-| Gloucester Rugby     |        12 |   0.25     |
+| Gloucester Rugby     |        13 |   0.307692 |
 | Sale Sharks          |        11 |   0.636364 |
 | Saracens             |         8 |   0.125    |
 | London Irish         |         7 |   0.642857 |
 | Worcester Warriors   |         7 |   0.714286 |
-| Bristol Rugby        |         6 |   0.666667 |
-| Edinburgh            |         5 |   0.4      |
+| Bristol Rugby        |         7 |   0.714286 |
+| Edinburgh            |         6 |   0.333333 |
 | Cardiff Blues        |         5 |   0.8      |
 | Grenoble             |         4 |   0.5      |
+| Lyon                 |         4 |   1        |
 | Ospreys              |         3 |   0.666667 |
-| Lyon                 |         3 |   1        |
 | Lusitanos XV         |         2 |   1        |
 | Racing 92            |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |

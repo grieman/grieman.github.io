@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrew Warwick  
-date: 2023-01-13 11:27:06.399957  
+date: 2023-02-02 18:59:21.160973  
 categories: player  
 ---
 # Andrew Warwick
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 102.0
 
-## Current Percentile: 77.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |           165 |    0.60303 |
+| Ulster |           168 |   0.604167 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -39,18 +39,18 @@ categories: player
 | Harlequins        |         4 |   1        |
 | Leicester Tigers  |         4 |   0.75     |
 | Southern Kings    |         4 |   1        |
-| Clermont Auvergne |         2 |   0.5      |
+| Sale Sharks       |         2 |   0.5      |
 | Toulon            |         2 |   0        |
+| Stormers          |         2 |   0.5      |
 | Stade Toulousain  |         2 |   1        |
+| La Rochelle       |         2 |   0        |
 | Racing 92         |         2 |   0.5      |
+| Clermont Auvergne |         2 |   0.5      |
 | Exeter Chiefs     |         2 |   0.5      |
 | Cheetahs          |         2 |   0.75     |
 | Bordeaux Begles   |         2 |   0        |
-| Sale Sharks       |         1 |   0        |
-| La Rochelle       |         1 |   0        |
 | Bulls             |         1 |   0        |
 | Sharks            |         1 |   1        |
 | Lions             |         1 |   1        |
-| Stormers          |         1 |   0        |
 | Wasps             |         1 |   0        |
 | Saracens          |         1 |   0        |

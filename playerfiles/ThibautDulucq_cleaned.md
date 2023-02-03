@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaut Dulucq  
-date: 2023-01-17 11:34:12.897178  
+date: 2023-02-02 19:00:59.577917  
 categories: player  
 ---
 # Thibaut Dulucq
@@ -21,12 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            28 |   0.428571 |
+| Tarbes |            30 |       0.45 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         4 |   0.375    |
 | Albi                       |         3 |   0.666667 |
-| Blagnac                    |         3 |   0.333333 |
 | Chambery                   |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
@@ -38,4 +38,5 @@ categories: player
 | Dijon                      |         1 |   0        |
 | Massy                      |         1 |   0        |
 | Narbonne                   |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

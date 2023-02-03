@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Valentine  
-date: 2023-01-13 11:37:43.619613  
+date: 2023-02-02 19:05:41.656720  
 categories: player  
 ---
 # Josh Valentine
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 106.0
+## Current elo: 108.0
 
 ## Current Percentile: 77.0
 
@@ -23,22 +23,22 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Beziers     |           122 |   0.532787 |
+| Beziers     |           124 |   0.540323 |
 | Narbonne    |            65 |   0.584615 |
 | Carcassonne |            38 |   0.578947 |
 | Australia   |             3 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Aurillac           |        15 |   0.466667 |
+| Aurillac           |        16 |   0.5      |
 | Colomiers          |        14 |   0.642857 |
 | Biarritz Olympique |        12 |   0.333333 |
 | Carcassonne        |        11 |   0.727273 |
 | Mont-de-Marsan     |        11 |   0.454545 |
 | Oyonnax            |        10 |   0.35     |
+| Provence Rugby     |        10 |   0.6      |
 | Dax                |        10 |   0.6      |
 | Albi               |         9 |   0.833333 |
-| Provence Rugby     |         9 |   0.555556 |
 | Vannes             |         9 |   0.555556 |
 | Montauban          |         9 |   0.666667 |
 | Narbonne           |         8 |   0.5      |

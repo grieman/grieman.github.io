@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Tapuai  
-date: 2023-01-15 11:57:41.860093  
+date: 2023-02-02 18:41:02.015262  
 categories: player  
 ---
 # Ben Tapuai
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 78.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Queensland Reds |            69 |  0.521739  |
 | Bath Rugby      |            43 |  0.5       |
 | Harlequins      |            38 |  0.513158  |
-| Sharks          |            21 |  0.738095  |
+| Sharks          |            23 |  0.717391  |
 | Western Force   |            12 |  0.0833333 |
 | Australia       |             7 |  0.785714  |
 | Perth Spirit    |             7 |  0.714286  |
@@ -53,9 +53,9 @@ categories: player
 | Highlanders              |         5 |   0.8      |
 | Stormers                 |         5 |   0.3      |
 | Chiefs                   |         5 |   0.6      |
+| Harlequins               |         5 |   0.4      |
 | Bulls                    |         5 |   0.2      |
 | Blues                    |         5 |   0.6      |
-| Harlequins               |         4 |   0.5      |
 | Wasps                    |         4 |   0.25     |
 | Gloucester Rugby         |         4 |   0.875    |
 | Bath Rugby               |         4 |   0.5      |
@@ -70,10 +70,10 @@ categories: player
 | London Irish             |         2 |   0.75     |
 | Zebre                    |         2 |   1        |
 | Leinster                 |         2 |   0.5      |
+| Edinburgh                |         2 |   0.5      |
 | Greater Sydney Rams      |         2 |   0.5      |
 | Bordeaux Begles          |         2 |   1        |
 | Dragons                  |         2 |   1        |
-| Edinburgh                |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
 | Western Province         |         1 |   0        |
 | Brisbane City            |         1 |   1        |

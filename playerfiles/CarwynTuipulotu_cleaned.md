@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Carwyn Tuipulotu  
-date: 2023-01-06 00:20:22.178026  
+date: 2023-02-02 18:57:34.035032  
 categories: player  
 ---
 # Carwyn Tuipulotu
 
 ## Positions: N8
 
-## Current elo: 110.0
+## Current elo: 106.0
 
-## Current Percentile: 49.0
+## Current Percentile: 50.0
 
 # Elo History
 

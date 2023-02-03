@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rouben Birch  
-date: 2023-01-13 11:24:13.580970  
+date: 2023-02-02 19:10:57.494088  
 categories: player  
 ---
 # Rouben Birch
@@ -19,16 +19,19 @@ categories: player
 # Match History
 
 
-| Team       |   Appearances |   Win Rate |
-|:-----------|--------------:|-----------:|
-| Doncaster  |             4 |       0.25 |
-| Caldy      |             2 |       0.5  |
-| Nottingham |             2 |       0    |
+| Team        |   Appearances |   Win Rate |
+|:------------|--------------:|-----------:|
+| Doncaster   |             4 |   0.25     |
+| Caldy       |             3 |   0.666667 |
+| Nottingham  |             2 |   0        |
+| Sale Sharks |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Coventry            |         2 |        0   |
 | Ealing Trailfinders |         2 |        0.5 |
 | Jersey              |         2 |        0   |
+| Bath Rugby          |         1 |        1   |
 | Bedford             |         1 |        1   |
 | Doncaster           |         1 |        0   |
+| Richmond            |         1 |        1   |

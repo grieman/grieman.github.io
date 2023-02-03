@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Beaumont  
-date: 2023-01-06 00:15:11.720646  
+date: 2023-02-02 18:55:27.687321  
 categories: player  
 ---
 # Josh Beaumont
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 115.0
+## Current elo: 112.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |           143 |   0.520979 |
+| Sale Sharks |           147 |   0.520408 |
 | England     |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,26 +31,26 @@ categories: player
 | Saracens            |        13 |   0.153846 |
 | Wasps               |        13 |   0.692308 |
 | Northampton Saints  |        12 |   0.416667 |
+| Harlequins          |        12 |   0.416667 |
 | Gloucester Rugby    |        11 |   0.636364 |
 | Leicester Tigers    |        11 |   0.636364 |
-| Harlequins          |        11 |   0.363636 |
 | Newcastle Falcons   |        10 |   0.4      |
 | London Irish        |         8 |   0.875    |
 | Worcester Warriors  |         8 |   0.6875   |
 | Exeter Chiefs       |         8 |   0.25     |
+| Bath Rugby          |         7 |   0.5      |
 | Bristol Rugby       |         7 |   0.642857 |
-| Bath Rugby          |         6 |   0.416667 |
 | Scarlets            |         3 |   0.666667 |
 | Dragons             |         2 |   0.5      |
 | Connacht            |         2 |   1        |
 | Castres Olympique   |         2 |   1        |
+| Stade Toulousain    |         2 |   0        |
 | Munster             |         2 |   0        |
 | Bordeaux Begles     |         2 |   0.5      |
 | Pau                 |         2 |   1        |
 | Perpignan           |         2 |   1        |
+| Ulster              |         2 |   0.5      |
 | Toulon              |         1 |   0        |
-| Stade Toulousain    |         1 |   0        |
-| Ulster              |         1 |   1        |
 | Barbarians          |         1 |   0        |
 | Montpellier Herault |         1 |   0        |
 | Lyon                |         1 |   1        |

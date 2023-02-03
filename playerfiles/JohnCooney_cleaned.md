@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: John Cooney  
-date: 2023-01-06 00:23:56.407675  
+date: 2023-02-02 18:44:22.943285  
 categories: player  
 ---
 # John Cooney
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 111.0
+## Current elo: 98.0
 
-## Current Percentile: 79.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Ulster    |            97 |   0.664948 |
+| Ulster    |           100 |   0.665    |
 | Leinster  |            44 |   0.738636 |
 | Connacht  |            39 |   0.538462 |
 | Ireland   |            11 |   0.818182 |
@@ -34,10 +34,10 @@ categories: player
 | Munster                  |        18 |   0.555556 |
 | Glasgow Warriors         |        17 |   0.558824 |
 | Ospreys                  |        14 |   0.5      |
+| Benetton Treviso         |        12 |   0.833333 |
 | Scarlets                 |        12 |   0.75     |
 | Connacht                 |        12 |   0.583333 |
 | Zebre                    |        11 |   0.818182 |
-| Benetton Treviso         |        11 |   0.909091 |
 | Cardiff Blues            |        11 |   0.818182 |
 | Dragons                  |        11 |   0.863636 |
 | Edinburgh                |        11 |   0.727273 |
@@ -46,26 +46,27 @@ categories: player
 | Southern Kings           |         5 |   1        |
 | Harlequins               |         4 |   1        |
 | Wasps                    |         3 |   0.666667 |
+| Stormers                 |         3 |   0.333333 |
 | La Rochelle              |         3 |   0.333333 |
-| Scotland                 |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Northampton Saints       |         2 |   0.5      |
 | Bath Rugby               |         2 |   1        |
-| Stormers                 |         2 |   0        |
 | Stade Toulousain         |         2 |   0        |
-| Italy                    |         2 |   1        |
 | Clermont Auvergne        |         2 |   0.5      |
-| Aironi                   |         2 |   1        |
 | England                  |         2 |   0        |
+| Scotland                 |         2 |   1        |
 | Leicester Tigers         |         2 |   1        |
-| Lions                    |         1 |   1        |
-| Cheetahs                 |         1 |   1        |
+| Aironi                   |         2 |   1        |
 | France                   |         1 |   1        |
+| Lions                    |         1 |   1        |
+| Sale Sharks              |         1 |   1        |
+| Grenoble                 |         1 |   0        |
+| Japan                    |         1 |   1        |
 | Sharks                   |         1 |   1        |
-| Bulls                    |         1 |   0        |
+| Cheetahs                 |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
-| Australia                |         1 |   1        |
+| Bulls                    |         1 |   0        |
 | Biarritz Olympique       |         1 |   1        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   1        |
-| Japan                    |         1 |   1        |
-| Grenoble                 |         1 |   0        |
+| Australia                |         1 |   1        |

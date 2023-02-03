@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tsuyoshi Murata  
-date: 2023-01-25 18:59:04.243097  
+date: 2023-02-02 19:09:49.904707  
 categories: player  
 ---
 # Tsuyoshi Murata
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -25,13 +25,14 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Green Rockets Tokatsu    |            27 |   0.537037 |
 | Hino Red Dolphins        |            14 |   0.428571 |
-| Hanazono Kintetsu Liners |             1 |   0        |
+| Hanazono Kintetsu Liners |             2 |   0        |
 | Japan                    |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Tokyo Sungoliath                  |         4 |   0        |
 | Urayasu D-Rocks                   |         3 |   0.666667 |
+| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | Mie Honda Heat                    |         3 |   0.333333 |
 | Shizuoka Blue Revs                |         3 |   0.333333 |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   0.5      |
@@ -40,7 +41,6 @@ categories: player
 | Toyota Verblitz                   |         2 |   0.5      |
 | Hanazono Kintetsu Liners          |         2 |   0.5      |
 | Kobelco Kobe Steelers             |         2 |   0        |
-| Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
 | Kyuden Voltex                     |         2 |   1        |
 | Munakata Sanix Blues              |         2 |   1        |
 | Uruguay                           |         1 |   1        |

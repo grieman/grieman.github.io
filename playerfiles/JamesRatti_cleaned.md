@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James Ratti  
-date: 2023-01-06 00:18:14.408671  
+date: 2023-02-02 18:55:30.533960  
 categories: player  
 ---
 # James Ratti
 
-## Positions: L, N8
+## Positions: N8, L
 
-## Current elo: 107.0
+## Current elo: 91.0
 
-## Current Percentile: 58.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            44 |   0.454545 |
+| Cardiff Blues |            46 |   0.434783 |
 | Ospreys       |            13 |   0.384615 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -34,21 +34,21 @@ categories: player
 | Connacht           |         3 |   0.666667 |
 | Dragons            |         3 |   1        |
 | Scarlets           |         3 |   0.333333 |
-| Ulster             |         2 |   0        |
 | Cardiff Blues      |         2 |   1        |
-| Pau                |         2 |   0.5      |
-| Bulls              |         2 |   0        |
-| Harlequins         |         2 |   0        |
 | Wasps              |         2 |   0.5      |
+| Ulster             |         2 |   0        |
+| Harlequins         |         2 |   0        |
+| Bulls              |         2 |   0        |
+| Leinster           |         2 |   0        |
+| Brive              |         2 |   0.5      |
+| Pau                |         2 |   0.5      |
 | Zebre              |         2 |   0.5      |
-| Stormers           |         1 |   1        |
 | Sharks             |         1 |   1        |
+| Stormers           |         1 |   1        |
 | Worcester Warriors |         1 |   0        |
 | Bath Rugby         |         1 |   0        |
 | Newcastle Falcons  |         1 |   1        |
-| Leinster           |         1 |   0        |
 | Gloucester Rugby   |         1 |   0        |
 | Calvisano          |         1 |   1        |
-| Brive              |         1 |   1        |
 | Bristol Rugby      |         1 |   1        |
 | Leicester Tigers   |         1 |   0        |

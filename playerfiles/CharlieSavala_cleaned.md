@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charlie Savala  
-date: 2023-01-06 00:24:15.921725  
+date: 2023-02-02 18:44:07.156377  
 categories: player  
 ---
 # Charlie Savala
 
 ## Positions: FH
 
-## Current elo: 102.0
+## Current elo: 91.0
 
-## Current Percentile: 48.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,23 +21,24 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            22 |        0.5 |
+| Edinburgh |            26 |   0.538462 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Zebre             |         3 |        1   |
 | Glasgow Warriors  |         3 |        0   |
-| Benetton Treviso  |         2 |        0.5 |
-| Cardiff Blues     |         2 |        0.5 |
 | Dragons           |         2 |        1   |
-| Zebre             |         2 |        1   |
-| Brive             |         1 |        1   |
-| Bulls             |         1 |        0   |
-| Castres Olympique |         1 |        1   |
+| Saracens          |         2 |        1   |
+| Benetton Treviso  |         2 |        0.5 |
+| Castres Olympique |         2 |        1   |
+| Cardiff Blues     |         2 |        0.5 |
 | Connacht          |         1 |        1   |
-| Leinster          |         1 |        0   |
+| Brive             |         1 |        1   |
 | Lions             |         1 |        0   |
 | Munster           |         1 |        0   |
 | Ospreys           |         1 |        0   |
 | Pau               |         1 |        1   |
-| Saracens          |         1 |        1   |
+| Bulls             |         1 |        0   |
+| Sharks            |         1 |        0   |
 | Stormers          |         1 |        0   |
+| Leinster          |         1 |        0   |

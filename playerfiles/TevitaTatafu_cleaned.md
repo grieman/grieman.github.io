@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita Tatafu  
-date: 2023-01-13 11:30:50.632773  
+date: 2023-02-02 18:43:57.396242  
 categories: player  
 ---
 # Tevita Tatafu
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            19 |   0.789474 |
+| Tokyo Sungoliath |            22 |   0.818182 |
 | Japan            |            11 |   0.181818 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -34,6 +34,7 @@ categories: player
 | Urayasu D-Rocks                   |         2 |   1        |
 | Green Rockets Tokatsu             |         2 |   1        |
 | Toyota Verblitz                   |         2 |   1        |
+| Kobelco Kobe Steelers             |         2 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Black Rams Tokyo                  |         2 |   1        |
 | Portugal                          |         1 |   1        |
@@ -42,9 +43,10 @@ categories: player
 | Scotland                          |         1 |   0        |
 | Australia                         |         1 |   0        |
 | New Zealand                       |         1 |   0        |
-| Kobelco Kobe Steelers             |         1 |   0        |
+| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Ireland                           |         1 |   0        |
 | Hino Red Dolphins                 |         1 |   1        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | England                           |         1 |   0        |
 | British and Irish Lions           |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
+| Mitsubishi Dynaboars              |         1 |   1        |

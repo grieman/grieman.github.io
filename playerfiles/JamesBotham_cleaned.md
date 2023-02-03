@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Botham  
-date: 2023-01-17 11:42:36.289680  
+date: 2023-02-02 18:59:04.653903  
 categories: player  
 ---
 # James Botham
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 72.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            37 |   0.486486 |
+| Cardiff Blues |            39 |   0.461538 |
 | Wales         |             6 |   0.583333 |
 
 | Opponent          |   Matches |   Win Rate |
@@ -38,18 +38,19 @@ categories: player
 | Stormers          |         2 |   0.5      |
 | Ospreys           |         2 |   0.5      |
 | Lions             |         2 |   0        |
+| Leinster          |         2 |   0.5      |
 | Leicester Tigers  |         2 |   0        |
 | Edinburgh         |         2 |   0        |
 | Zebre             |         2 |   1        |
 | Harlequins        |         1 |   0        |
 | Benetton Treviso  |         1 |   1        |
-| Leinster          |         1 |   1        |
 | France            |         1 |   0        |
 | England           |         1 |   1        |
 | Newcastle Falcons |         1 |   1        |
 | Canada            |         1 |   1        |
+| Calvisano         |         1 |   1        |
 | Scotland          |         1 |   1        |
 | Sharks            |         1 |   1        |
 | Stade Toulousain  |         1 |   0        |
-| Calvisano         |         1 |   1        |
 | Bulls             |         1 |   0        |
+| Brive             |         1 |   0        |

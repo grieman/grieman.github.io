@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Monty Leverstein  
-date: 2023-01-17 11:40:55.227327  
+date: 2023-02-02 19:00:46.857990  
 categories: player  
 ---
 # Monty Leverstein
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 91.0
+## Current elo: 90.0
 
 ## Current Percentile: 38.0
 
@@ -24,11 +24,12 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Netherlands |             3 |          0 |
+| US Bressane |             2 |          0 |
 | Narbonne    |             1 |          0 |
-| US Bressane |             1 |          0 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
+| Blagnac     |         1 |          0 |
 | Chambery    |         1 |          0 |
 | Italy       |         1 |          0 |
 | Portugal    |         1 |          0 |

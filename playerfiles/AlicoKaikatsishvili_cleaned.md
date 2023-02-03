@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alico Kaikatsishvili  
-date: 2023-01-17 11:38:08.273135  
+date: 2023-02-02 19:13:48.448847  
 categories: player  
 ---
 # Alico Kaikatsishvili
@@ -21,15 +21,17 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |             8 |          0 |
+| Cognac Saint Jean d'Angély |            10 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          0 |
+| Chambery                   |         1 |          0 |
 | Narbonne                   |         1 |          0 |
 | Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |
+| US Bressane                |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

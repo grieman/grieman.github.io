@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: JJ Kotze  
-date: 2023-01-13 11:25:34.873766  
+date: 2023-02-02 18:40:34.905445  
 categories: player  
 ---
 # JJ Kotze
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 58.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,19 +21,20 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            16 |    0.84375 |
-| Western Province |            10 |    0.3     |
+| Stormers         |            18 |   0.805556 |
+| Western Province |            10 |   0.3      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ulster              |         3 |   0.666667 |
 | Free State Cheetahs |         3 |   0.333333 |
-| Blue Bulls          |         2 |   0.5      |
+| Edinburgh           |         2 |   0.75     |
 | Bulls               |         2 |   1        |
 | Glasgow Warriors    |         2 |   0.5      |
-| Griquas             |         2 |   0        |
-| Edinburgh           |         2 |   0.75     |
+| Blue Bulls          |         2 |   0.5      |
 | Dragons             |         2 |   1        |
-| Ulster              |         2 |   1        |
+| Griquas             |         2 |   0        |
+| Clermont Auvergne   |         1 |   1        |
 | Golden Lions        |         1 |   0        |
 | Cardiff Blues       |         1 |   0        |
 | Leinster            |         1 |   1        |

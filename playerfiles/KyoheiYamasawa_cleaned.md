@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyohei Yamasawa  
-date: 2023-01-30 17:52:43.174037  
+date: 2023-02-02 19:03:10.871869  
 categories: player  
 ---
 # Kyohei Yamasawa

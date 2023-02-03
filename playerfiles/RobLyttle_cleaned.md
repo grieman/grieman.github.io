@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rob Lyttle  
-date: 2023-01-15 11:41:37.921053  
+date: 2023-02-02 19:11:13.401628  
 categories: player  
 ---
 # Rob Lyttle
 
 ## Positions: W
 
-## Current elo: 122.0
+## Current elo: 120.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |            55 |   0.645455 |
+| Ulster |            57 |   0.657895 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,17 +30,18 @@ categories: player
 | Connacht         |         5 |   0.6      |
 | Dragons          |         5 |   1        |
 | Edinburgh        |         5 |   0.8      |
-| Munster          |         4 |   0.25     |
 | Ospreys          |         4 |   1        |
+| Munster          |         4 |   0.25     |
 | Glasgow Warriors |         3 |   0.666667 |
 | Benetton Treviso |         3 |   0.833333 |
 | Scarlets         |         3 |   1        |
 | La Rochelle      |         2 |   0        |
 | Southern Kings   |         2 |   1        |
+| Stormers         |         2 |   0.5      |
+| Lions            |         1 |   1        |
+| Bordeaux Begles  |         1 |   0        |
+| Sale Sharks      |         1 |   1        |
+| Sharks           |         1 |   1        |
 | Stade Toulousain |         1 |   0        |
 | Wasps            |         1 |   0        |
-| Stormers         |         1 |   0        |
 | Bath Rugby       |         1 |   1        |
-| Sharks           |         1 |   1        |
-| Bordeaux Begles  |         1 |   0        |
-| Lions            |         1 |   1        |

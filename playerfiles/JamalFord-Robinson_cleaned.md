@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamal Ford-Robinson  
-date: 2023-01-27 11:06:22.226676  
+date: 2023-02-02 18:46:37.929453  
 categories: player  
 ---
 # Jamal Ford-Robinson
@@ -21,15 +21,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Gloucester Rugby   |            52 |   0.432692 |
+| Gloucester Rugby   |            53 |   0.424528 |
 | Northampton Saints |            25 |   0.32     |
 | Bristol Rugby      |            24 |   0.25     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Exeter Chiefs       |        10 |   0.1      |
 | Sale Sharks         |        10 |   0.5      |
 | Bath Rugby          |         9 |   0.444444 |
-| Exeter Chiefs       |         9 |   0.111111 |
 | Harlequins          |         8 |   0.25     |
 | Leicester Tigers    |         7 |   0        |
 | Worcester Warriors  |         7 |   0.571429 |

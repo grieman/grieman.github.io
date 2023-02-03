@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matthew Screech  
-date: 2023-01-06 00:18:02.017843  
+date: 2023-02-02 19:08:12.682662  
 categories: player  
 ---
 # Matthew Screech
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 6.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |           163 |   0.309816 |
+| Dragons       |           164 |   0.307927 |
 | Cardiff Blues |            23 |   0.347826 |
 | Wales         |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Scarlets            |        18 |   0.277778 |
+| Glasgow Warriors    |        14 |   0.428571 |
 | Ospreys             |        14 |   0.178571 |
-| Glasgow Warriors    |        13 |   0.461538 |
 | Leinster            |        13 |   0.153846 |
 | Ulster              |        13 |   0.192308 |
 | Munster             |        12 |   0.166667 |

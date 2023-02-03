@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Gray  
-date: 2023-01-23 15:30:35.575686  
+date: 2023-02-02 18:48:39.420114  
 categories: player  
 ---
 # Josh Gray
@@ -22,16 +22,16 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            19 |   0.315789 |
-| Jersey           |             4 |   1        |
+| Jersey           |             5 |   1        |
 | Gloucester Rugby |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Bedford             |         3 |   0.666667 |
+| Cornish Pirates     |         3 |   0.666667 |
 | Doncaster           |         3 |   0        |
 | Ealing Trailfinders |         3 |   0        |
 | Nottingham          |         3 |   0.666667 |
-| Cornish Pirates     |         2 |   0.5      |
 | Jersey              |         2 |   0        |
 | London Scottish     |         2 |   1        |
 | Richmond            |         2 |   0.5      |

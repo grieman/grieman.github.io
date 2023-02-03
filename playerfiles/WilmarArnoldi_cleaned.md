@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilmar Arnoldi  
-date: 2023-01-13 11:24:53.941682  
+date: 2023-02-02 18:47:32.398286  
 categories: player  
 ---
 # Wilmar Arnoldi
@@ -22,8 +22,8 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Griquas             |            13 |   0.461538 |
+| Beziers             |             5 |   0.4      |
 | Free State Cheetahs |             5 |   0.2      |
-| Beziers             |             4 |   0.25     |
 | Leopards            |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -38,6 +38,7 @@ categories: player
 | Griquas             |         1 |   0        |
 | Montauban           |         1 |   1        |
 | Oyonnax             |         1 |   0        |
+| Provence Rugby      |         1 |   1        |
 | Pumas               |         1 |   1        |
 | SWD Eagles          |         1 |   1        |
 | Soyaux-Angouleme    |         1 |   0        |

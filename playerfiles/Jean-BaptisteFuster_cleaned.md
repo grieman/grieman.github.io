@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Baptiste Fuster  
-date: 2023-01-30 11:43:19.953932  
+date: 2023-02-02 19:14:33.457446  
 categories: player  
 ---
 # Jean-Baptiste Fuster

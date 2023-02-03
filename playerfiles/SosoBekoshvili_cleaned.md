@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Soso Bekoshvili  
-date: 2023-01-13 11:30:57.834832  
+date: 2023-02-02 19:11:15.365444  
 categories: player  
 ---
 # Soso Bekoshvili
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Brive       |            75 |   0.493333 |
-| Carcassonne |            13 |   0.461538 |
+| Carcassonne |            14 |   0.5      |
 | Georgia     |             6 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,28 +45,28 @@ categories: player
 | Agen                     |         3 |   1        |
 | Colomiers                |         3 |   0.333333 |
 | Provence Rugby           |         2 |   0.5      |
+| Canada                   |         2 |   1        |
 | Vannes                   |         2 |   0.5      |
 | United States of America |         2 |   1        |
 | Aurillac                 |         2 |   1        |
+| Rouen                    |         2 |   1        |
 | Perpignan                |         2 |   0.5      |
-| Canada                   |         2 |   1        |
 | Montauban                |         2 |   0.5      |
 | Dragons                  |         2 |   0.5      |
 | Massy                    |         2 |   0.5      |
-| Nevers                   |         1 |   1        |
-| Soyaux-Angouleme         |         1 |   0        |
+| Newcastle Falcons        |         1 |   0        |
+| Carcassonne              |         1 |   0        |
 | Wales                    |         1 |   0        |
 | Lyon                     |         1 |   0        |
 | US Bressane              |         1 |   0        |
 | Bath Rugby               |         1 |   0        |
 | Beziers                  |         1 |   1        |
+| Soyaux-Angouleme         |         1 |   0        |
 | Saracens                 |         1 |   0        |
-| Newcastle Falcons        |         1 |   0        |
-| Rouen                    |         1 |   1        |
+| Mont-de-Marsan           |         1 |   1        |
 | Biarritz Olympique       |         1 |   1        |
 | RC Enisei                |         1 |   1        |
 | Grenoble                 |         1 |   0        |
-| Mont-de-Marsan           |         1 |   1        |
 | Argentina                |         1 |   0        |
-| Carcassonne              |         1 |   0        |
+| Nevers                   |         1 |   1        |
 | Edinburgh                |         1 |   0        |

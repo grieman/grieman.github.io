@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Taumua Lui Sanft Naeata  
-date: 2023-01-15 11:43:22.841363  
+date: 2023-02-02 19:14:04.784092  
 categories: player  
 ---
 # Taumua Lui Sanft Naeata
 
 ## Positions: N8
 
-## Current elo: 92.0
+## Current elo: 99.0
 
-## Current Percentile: 61.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers            |             9 |   1        |
-| NTT Docomo Red Hurricanes Osaka  |             8 |   0.125    |
-| Toyota Industries Shuttles Aichi |             3 |   0.666667 |
+| Kobelco Kobe Steelers            |             9 |      1     |
+| NTT Docomo Red Hurricanes Osaka  |             8 |      0.125 |
+| Toyota Industries Shuttles Aichi |             4 |      0.75  |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Hino Red Dolphins                 |         2 |   1        |
 | Tokyo Sungoliath                  |         2 |   0.5      |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
+| Kamaishi Seawaves                 |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yuya Otsuka  
-date: 2023-01-30 17:53:15.611743  
+date: 2023-02-02 18:44:36.283424  
 categories: player  
 ---
 # Yuya Otsuka

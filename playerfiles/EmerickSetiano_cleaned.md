@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Emerick Setiano  
-date: 2023-01-30 11:46:57.779614  
+date: 2023-02-02 19:14:29.721896  
 categories: player  
 ---
 # Emerick Setiano

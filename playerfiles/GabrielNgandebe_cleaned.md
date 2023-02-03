@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gabriel Ngandebe  
-date: 2023-01-06 00:22:17.310385  
+date: 2023-02-02 18:48:57.034884  
 categories: player  
 ---
 # Gabriel Ngandebe
 
 ## Positions: W
 
-## Current elo: 95.0
+## Current elo: 74.0
 
-## Current Percentile: 19.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            92 |   0.494565 |
+| Montpellier Herault |            94 |   0.489362 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Stade Toulousain     |        10 |   0.4      |
+| Stade Toulousain     |        11 |   0.363636 |
 | Bordeaux Begles      |         9 |   0.444444 |
 | Toulon               |         8 |   0.5      |
 | Castres Olympique    |         8 |   0.25     |
@@ -42,6 +42,7 @@ categories: player
 | Perpignan            |         2 |   1        |
 | Connacht             |         2 |   0.5      |
 | Grenoble             |         2 |   0.5      |
+| London Irish         |         1 |   0.5      |
 | Newcastle Falcons    |         1 |   0        |
 | Oyonnax              |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |

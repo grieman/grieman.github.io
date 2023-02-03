@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Gia Kharaishvili  
-date: 2023-01-06 00:10:57.733936  
+date: 2023-02-02 18:39:21.960818  
 categories: player  
 ---
 # Gia Kharaishvili
 
 ## Positions: 
 
-## Current elo: 105.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

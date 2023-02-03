@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Franco Smith  
-date: 2023-01-13 11:23:28.521064  
+date: 2023-02-02 18:51:27.872125  
 categories: player  
 ---
 # Franco Smith
 
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 95.0
 
 ## Current Percentile: 24.0
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            11 |          0 |
+| Zebre  |            13 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Toulon           |         2 |          0 |
 | Benetton Treviso |         1 |          0 |
 | Bristol Rugby    |         1 |          0 |
 | Cardiff Blues    |         1 |          0 |
@@ -33,6 +34,6 @@ categories: player
 | Glasgow Warriors |         1 |          0 |
 | Leinster         |         1 |          0 |
 | Munster          |         1 |          0 |
+| Ospreys          |         1 |          0 |
 | Scarlets         |         1 |          0 |
 | Sharks           |         1 |          0 |
-| Toulon           |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Powell  
-date: 2023-01-06 00:20:02.454916  
+date: 2023-02-02 18:42:30.078048  
 categories: player  
 ---
 # Joe Powell
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 38.0
+## Current Percentile: 42.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Chris Coleman  
-date: 2023-01-06 00:24:59.950706  
+date: 2023-02-02 18:42:02.310884  
 categories: player  
 ---
 # Chris Coleman
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 87.0
 
-## Current Percentile: 20.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,28 +21,28 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |            43 |   0.290698 |
+| Dragons |            46 |   0.293478 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Scarlets           |         6 |   0.166667 |
 | Benetton Treviso   |         3 |   0.166667 |
+| Glasgow Warriors   |         3 |   0.666667 |
 | Ospreys            |         3 |   0.5      |
 | Lions              |         3 |   0.166667 |
 | Cardiff Blues      |         3 |   0        |
-| Zebre              |         2 |   0.5      |
 | Connacht           |         2 |   0.5      |
 | Edinburgh          |         2 |   0        |
-| Glasgow Warriors   |         2 |   1        |
 | Leinster           |         2 |   0        |
-| Ulster             |         2 |   0        |
+| Bulls              |         2 |   0        |
 | Munster            |         2 |   0.5      |
-| Stormers           |         2 |   0        |
+| Pau                |         2 |   0.5      |
 | RC Enisei          |         2 |   1        |
+| Stormers           |         2 |   0        |
+| Ulster             |         2 |   0        |
+| Zebre              |         2 |   0.5      |
+| Clermont Auvergne  |         1 |   0        |
+| Cheetahs           |         1 |   1        |
+| Castres Olympique  |         1 |   0        |
 | Sharks             |         1 |   0        |
 | Timisoara Saracens |         1 |   1        |
-| Cheetahs           |         1 |   1        |
-| Pau                |         1 |   0        |
-| Clermont Auvergne  |         1 |   0        |
-| Bulls              |         1 |   0        |
-| Castres Olympique  |         1 |   0        |

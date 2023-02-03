@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steven Longwell  
-date: 2023-01-21 15:45:07.529370  
+date: 2023-02-02 19:08:39.867283  
 categories: player  
 ---
 # Steven Longwell
@@ -21,20 +21,20 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Jersey       |            26 |   0.711538 |
+| Jersey       |            28 |   0.732143 |
 | Old Glory DC |             3 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         4 |   0.75     |
 | Coventry            |         4 |   0.875    |
-| Cornish Pirates     |         3 |   0.666667 |
 | Doncaster           |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0        |
 | Hartpury College    |         3 |   1        |
+| London Scottish     |         3 |   1        |
 | Nottingham          |         3 |   1        |
 | Ampthill            |         2 |   1        |
 | Bedford             |         2 |   0.5      |
-| London Scottish     |         2 |   1        |
 | Austin Gilgronis    |         1 |   1        |
 | Richmond            |         1 |   1        |
 | San Diego Legion    |         1 |   1        |

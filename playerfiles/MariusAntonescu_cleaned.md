@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marius Antonescu  
-date: 2023-01-17 11:35:10.607362  
+date: 2023-02-02 19:06:49.965455  
 categories: player  
 ---
 # Marius Antonescu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 118.0
+## Current elo: 115.0
 
-## Current Percentile: 91.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            38 |   0.552632 |
+| US Bressane |            40 |   0.55     |
 | Colomiers   |            35 |   0.485714 |
 | Romania     |            29 |   0.655172 |
 | Tarbes      |            14 |   0.392857 |
@@ -56,25 +56,25 @@ categories: player
 | Germany                    |         2 |   1        |
 | Chambery                   |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   1        |
+| Blagnac                    |         2 |   0.5      |
 | Georgia                    |         2 |   0        |
 | Brazil                     |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Italy                      |         2 |   0        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Colomiers                  |         2 |   0.5      |
 | Dijon                      |         2 |   1        |
-| Belgium                    |         1 |   1        |
+| Aubenas                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Uruguay                    |         1 |   1        |
 | United States of America   |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Argentina                  |         1 |   0        |
-| Aubenas                    |         1 |   1        |
-| Chile                      |         1 |   1        |
-| Japan                      |         1 |   0        |
 | Netherlands                |         1 |   1        |
-| Blagnac                    |         1 |   1        |
+| Belgium                    |         1 |   1        |
+| Chile                      |         1 |   1        |
+| Samoa                      |         1 |   1        |
 | Rouen                      |         1 |   0.5      |
 | Brive                      |         1 |   1        |
 | Nice                       |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
-| Samoa                      |         1 |   1        |
+| Japan                      |         1 |   0        |

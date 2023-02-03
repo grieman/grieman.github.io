@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shoichi Yura  
-date: 2023-01-30 17:51:29.141638  
+date: 2023-02-02 18:56:36.942311  
 categories: player  
 ---
 # Shoichi Yura

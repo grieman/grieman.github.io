@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Martin Bertrand  
-date: 2023-01-17 11:46:31.821556  
+date: 2023-02-02 19:08:46.372334  
 categories: player  
 ---
 # Martin Bertrand
 
 ## Positions: FL
 
-## Current elo: 79.0
+## Current elo: 87.0
 
 ## Current Percentile: 13.0
 
@@ -21,16 +21,17 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |             9 |   0.444444 |
+| Chambery |            11 |   0.454545 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Albi                |         1 |          0 |
-| Blagnac             |         1 |          1 |
-| Carqueiranne-Hyères |         1 |          0 |
-| Dax                 |         1 |          0 |
-| Rennes              |         1 |          1 |
-| Soyaux-Angouleme    |         1 |          1 |
-| Suresnes            |         1 |          0 |
-| Tarbes              |         1 |          0 |
-| US Bressane         |         1 |          1 |
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Dax                        |         2 |          0 |
+| Albi                       |         1 |          0 |
+| Blagnac                    |         1 |          1 |
+| Carqueiranne-Hyères        |         1 |          0 |
+| Cognac Saint Jean d'Angély |         1 |          1 |
+| Rennes                     |         1 |          1 |
+| Soyaux-Angouleme           |         1 |          1 |
+| Suresnes                   |         1 |          0 |
+| Tarbes                     |         1 |          0 |
+| US Bressane                |         1 |          1 |

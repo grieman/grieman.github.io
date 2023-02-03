@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ethan Waller  
-date: 2023-01-17 11:38:18.938713  
+date: 2023-02-02 19:01:15.355520  
 categories: player  
 ---
 # Ethan Waller
@@ -22,12 +22,12 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |           106 |   0.320755 |
-| Northampton Saints |           101 |   0.648515 |
+| Northampton Saints |           103 |   0.645631 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Leicester Tigers     |        17 |   0.294118 |
 | Saracens             |        16 |   0.4375   |
-| Leicester Tigers     |        16 |   0.25     |
 | Gloucester Rugby     |        15 |   0.6      |
 | London Irish         |        14 |   0.714286 |
 | Exeter Chiefs        |        14 |   0.285714 |
@@ -52,6 +52,7 @@ categories: player
 | Connacht             |         2 |   0.25     |
 | Stade Francais Paris |         2 |   1        |
 | Munster              |         1 |   0        |
+| La Rochelle          |         1 |   0        |
 | RC Enisei            |         1 |   1        |
 | Brive                |         1 |   1        |
 | London Welsh         |         1 |   1        |

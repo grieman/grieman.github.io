@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richard Barrington  
-date: 2023-01-13 11:25:30.091820  
+date: 2023-02-02 18:54:52.819123  
 categories: player  
 ---
 # Richard Barrington
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Saracens |           209 |   0.755981 |
-| Agen     |            13 |   0.615385 |
+| Agen     |            14 |   0.642857 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -52,6 +52,7 @@ categories: player
 | Ulster              |         2 |   1        |
 | Rouen               |         2 |   1        |
 | Zebre               |         2 |   1        |
+| Biarritz Olympique  |         2 |   1        |
 | Lyon                |         2 |   1        |
 | Cardiff Blues       |         2 |   1        |
 | Nevers              |         1 |   0        |
@@ -67,6 +68,5 @@ categories: player
 | Richmond            |         1 |   1        |
 | London Welsh        |         1 |   1        |
 | Provence Rugby      |         1 |   1        |
-| Biarritz Olympique  |         1 |   1        |
 | Mont-de-Marsan      |         1 |   1        |
 | Massy               |         1 |   1        |

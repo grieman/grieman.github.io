@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Morgan Naude  
-date: 2023-01-06 00:18:42.555238  
+date: 2023-02-02 18:54:05.461878  
 categories: player  
 ---
 # Morgan Naude
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 107.0
 
 ## Current Percentile: None
 
@@ -22,7 +22,7 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Pumas  |            13 |   0.307692 |
-| Lions  |             2 |   0        |
+| Lions  |             5 |   0.2      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,4 +32,7 @@ categories: player
 | Free State Cheetahs |         2 |   0.5      |
 | Griquas             |         2 |   0.25     |
 | Stormers            |         2 |   0        |
+| Connacht            |         1 |   0        |
+| Dragons             |         1 |   1        |
+| Munster             |         1 |   0        |
 | Natal Sharks        |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: John Henry Fincham  
-date: 2023-01-17 11:29:07.967046  
+date: 2023-02-02 18:40:58.895274  
 categories: player  
 ---
 # John Henry Fincham
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 47.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Beziers                    |            26 |   0.326923 |
-| Valence Romans Drome Rugby |             5 |   0.2      |
+| Valence Romans Drome Rugby |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Tarbes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Perpignan                  |         1 |   0        |
 | Agen                       |         1 |   1        |
 | Narbonne                   |         1 |   1        |
@@ -45,6 +46,7 @@ categories: player
 | Dax                        |         1 |   0        |
 | Colomiers                  |         1 |   0        |
 | Chambery                   |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Blagnac                    |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
 | Nevers                     |         1 |   0        |

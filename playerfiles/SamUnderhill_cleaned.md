@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Underhill  
-date: 2023-01-06 00:10:05.213476  
+date: 2023-02-02 18:52:59.750819  
 categories: player  
 ---
 # Sam Underhill
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 120.0
+## Current elo: 95.0
 
-## Current Percentile: 90.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bath Rugby       |            65 |   0.407692 |
+| Bath Rugby       |            67 |   0.395522 |
 | Ospreys          |            37 |   0.581081 |
 | England          |            26 |   0.807692 |
 | Gloucester Rugby |             2 |   0.5      |
@@ -31,9 +31,9 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Wasps                    |         8 |   0.5625   |
+| Sale Sharks              |         7 |   0.285714 |
 | Gloucester Rugby         |         7 |   0.214286 |
 | Exeter Chiefs            |         7 |   0        |
-| Sale Sharks              |         6 |   0.333333 |
 | Scarlets                 |         5 |   0.4      |
 | Australia                |         5 |   1        |
 | Bristol Rugby            |         5 |   0.6      |
@@ -67,6 +67,7 @@ categories: player
 | Stade Francais Paris     |         1 |   0        |
 | Stade Toulousain         |         1 |   0        |
 | Lyon                     |         1 |   1        |
+| Toulon                   |         1 |   0        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   1        |
 | Canada                   |         1 |   1        |

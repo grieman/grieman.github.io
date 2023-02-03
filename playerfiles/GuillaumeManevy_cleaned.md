@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guillaume Manevy  
-date: 2023-01-15 11:55:44.042346  
+date: 2023-02-02 18:39:29.682083  
 categories: player  
 ---
 # Guillaume Manevy
 
 ## Positions: SH
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 69.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            59 |   0.474576 |
+| Nevers |            60 |   0.483333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Vannes                     |         5 |   0.3      |
+| Vannes                     |         6 |   0.416667 |
 | Mont-de-Marsan             |         5 |   0.6      |
 | Grenoble                   |         4 |   0.125    |
 | Provence Rugby             |         4 |   0.5      |

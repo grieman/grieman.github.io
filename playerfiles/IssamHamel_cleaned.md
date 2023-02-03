@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Issam Hamel  
-date: 2023-01-13 11:31:00.825687  
+date: 2023-02-02 18:55:05.672484  
 categories: player  
 ---
 # Issam Hamel
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 58.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,27 +21,27 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Nevers           |            69 |   0.536232 |
+| Nevers           |            71 |   0.535211 |
 | Bourgoin-Jallieu |             3 |   0        |
 | Racing 92        |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Oyonnax                    |         6 |   0.166667 |
 | Montauban                  |         5 |   0.4      |
-| Mont-de-Marsan             |         5 |   0.6      |
-| Provence Rugby             |         5 |   0.6      |
-| Oyonnax                    |         5 |   0.2      |
 | Colomiers                  |         5 |   0.2      |
+| Provence Rugby             |         5 |   0.6      |
 | Aurillac                   |         5 |   0.4      |
-| Soyaux-Angouleme           |         4 |   1        |
-| Rouen                      |         4 |   1        |
-| Agen                       |         4 |   0.5      |
+| Mont-de-Marsan             |         5 |   0.6      |
+| Vannes                     |         5 |   0.3      |
 | Grenoble                   |         4 |   0.125    |
 | Carcassonne                |         4 |   0.5      |
 | Beziers                    |         4 |   1        |
-| Vannes                     |         4 |   0.125    |
-| Narbonne                   |         3 |   0.666667 |
+| Rouen                      |         4 |   1        |
+| Soyaux-Angouleme           |         4 |   1        |
+| Agen                       |         4 |   0.5      |
 | Biarritz Olympique         |         3 |   0.5      |
+| Narbonne                   |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.166667 |
 | US Bressane                |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.5      |

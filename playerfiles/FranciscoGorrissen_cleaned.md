@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francisco Gorrissen  
-date: 2023-01-13 11:27:36.053037  
+date: 2023-02-02 18:49:01.635411  
 categories: player  
 ---
 # Francisco Gorrissen
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 164.0
+## Current elo: 163.0
 
 ## Current Percentile: 100.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Belgrano    |            63 |   0.706349 |
-| Vannes      |            37 |   0.513514 |
+| Vannes      |            38 |   0.5      |
 | Jaguares XV |            12 |   1        |
 | Jaguares    |             8 |   0.75     |
 | Argentina   |             4 |   0.375    |
@@ -40,18 +40,18 @@ categories: player
 | Alumni                 |         5 |   0.8      |
 | Regatas Bella Vista    |         5 |   0.8      |
 | CUBA                   |         5 |   0.6      |
+| Nevers                 |         3 |   0.666667 |
 | Hindu                  |         3 |   0        |
 | Rouen                  |         3 |   0        |
 | Colomiers              |         3 |   0.666667 |
 | Agen                   |         3 |   0        |
 | Provence Rugby         |         3 |   0.666667 |
-| Australia              |         3 |   0.166667 |
 | Beziers                |         3 |   0.666667 |
+| Australia              |         3 |   0.166667 |
 | Penarol Rugby          |         2 |   1        |
 | Oyonnax                |         2 |   0        |
 | Olimpia Lions          |         2 |   1        |
 | Aurillac               |         2 |   0.5      |
-| Nevers                 |         2 |   1        |
 | Narbonne               |         2 |   0.75     |
 | Montauban              |         2 |   0.75     |
 | Mont-de-Marsan         |         2 |   0.5      |
@@ -68,8 +68,8 @@ categories: player
 | Sunwolves              |         1 |   1        |
 | Stormers               |         1 |   0        |
 | Soyaux-Angouleme       |         1 |   0        |
-| SWD Eagles             |         1 |   1        |
 | Sharks                 |         1 |   1        |
+| SWD Eagles             |         1 |   1        |
 | Los Tilos              |         1 |   1        |
 | Mariano Moreno         |         1 |   1        |
 | Lions                  |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Aurelien Callandret  
-date: 2023-01-13 11:23:02.744946  
+date: 2023-02-02 19:12:37.492849  
 categories: player  
 ---
 # Aurelien Callandret
 
 ## Positions: W, FB
 
-## Current elo: 128.0
+## Current elo: 118.0
 
 ## Current Percentile: 94.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            87 |   0.678161 |
+| Oyonnax |            88 |   0.670455 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,10 +29,10 @@ categories: player
 | Provence Rugby             |         7 |   0.785714 |
 | Nevers                     |         7 |   0.714286 |
 | Vannes                     |         6 |   0.666667 |
+| Mont-de-Marsan             |         6 |   0.416667 |
 | Rouen                      |         6 |   0.666667 |
 | Carcassonne                |         6 |   0.833333 |
 | Colomiers                  |         6 |   0.583333 |
-| Mont-de-Marsan             |         5 |   0.5      |
 | Montauban                  |         5 |   0.6      |
 | Grenoble                   |         5 |   0.4      |
 | Aurillac                   |         4 |   0.5      |

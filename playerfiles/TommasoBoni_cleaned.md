@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommaso Boni  
-date: 2023-01-13 11:32:25.271178  
+date: 2023-02-02 19:07:44.048316  
 categories: player  
 ---
 # Tommaso Boni
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Zebre    |           112 |   0.196429 |
+| Zebre    |           114 |   0.192982 |
 | Italy    |            11 |   0.181818 |
 | Mogliano |             8 |   0        |
 
@@ -31,15 +31,15 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Benetton Treviso     |        14 |   0.214286 |
 | Dragons              |        11 |   0.363636 |
+| Ospreys              |         9 |   0.111111 |
 | Connacht             |         9 |   0.222222 |
-| Ospreys              |         8 |   0.125    |
 | Edinburgh            |         8 |   0.25     |
 | Glasgow Warriors     |         8 |   0        |
 | Ulster               |         7 |   0.142857 |
 | Munster              |         7 |   0        |
 | Leinster             |         6 |   0        |
 | Scarlets             |         6 |   0        |
-| Bristol Rugby        |         4 |   0.375    |
+| Bristol Rugby        |         5 |   0.3      |
 | Cardiff Blues        |         4 |   0.25     |
 | La Rochelle          |         3 |   0.333333 |
 | Cheetahs             |         3 |   0        |

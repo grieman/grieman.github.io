@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Edoardo Gori  
-date: 2023-01-30 11:45:34.832187  
+date: 2023-02-02 18:54:15.748142  
 categories: player  
 ---
 # Edoardo Gori

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean French  
-date: 2023-01-23 15:35:31.674718  
+date: 2023-02-02 18:52:36.735810  
 categories: player  
 ---
 # Sean French

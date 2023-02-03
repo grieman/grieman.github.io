@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harumoto Kodera  
-date: 2023-01-17 11:29:44.952918  
+date: 2023-02-02 19:00:06.301501  
 categories: player  
 ---
 # Harumoto Kodera
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 31.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toyota Industries Shuttles Aichi |             6 |   0.833333 |
+| Toyota Industries Shuttles Aichi |             7 |   0.857143 |
 
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
 | Shimizu Blue Sharks   |         2 |          1 |
 | Chugoku Red Regulions |         1 |          1 |
 | Hino Red Dolphins     |         1 |          1 |
+| Kamaishi Seawaves     |         1 |          1 |
 | Kyuden Voltex         |         1 |          1 |
 | Urayasu D-Rocks       |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Bastareaud  
-date: 2023-01-13 11:32:03.616495  
+date: 2023-02-02 19:04:34.311949  
 categories: player  
 ---
 # Mathieu Bastareaud
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 80.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Toulon               |           218 |   0.658257 |
+| Toulon               |           219 |   0.659817 |
 | Stade Francais Paris |            99 |   0.555556 |
 | France               |            55 |   0.509091 |
 | Lyon                 |            19 |   0.710526 |
@@ -43,8 +43,8 @@ categories: player
 | La Rochelle          |        11 |   0.590909 |
 | Grenoble             |        11 |   0.590909 |
 | Perpignan            |        10 |   0.3      |
+| Pau                  |        10 |   0.85     |
 | Biarritz Olympique   |        10 |   0.5      |
-| Pau                  |         9 |   0.833333 |
 | Lyon                 |         9 |   0.833333 |
 | Agen                 |         9 |   0.888889 |
 | Italy                |         8 |   0.875    |

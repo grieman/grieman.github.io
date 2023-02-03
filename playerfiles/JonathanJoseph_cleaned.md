@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan Joseph  
-date: 2023-01-06 00:16:23.170350  
+date: 2023-02-02 18:48:01.016638  
 categories: player  
 ---
 # Jonathan Joseph
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 103.0
+## Current elo: 94.0
 
-## Current Percentile: 17.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Bath Rugby              |           163 |   0.533742 |
+| Bath Rugby              |           165 |   0.530303 |
 | London Irish            |            67 |   0.380597 |
 | England                 |            51 |   0.754902 |
 | British and Irish Lions |             3 |   0.5      |
@@ -35,7 +35,7 @@ categories: player
 | Northampton Saints       |        18 |   0.305556 |
 | Gloucester Rugby         |        18 |   0.444444 |
 | Newcastle Falcons        |        17 |   0.705882 |
-| Sale Sharks              |        16 |   0.5      |
+| Sale Sharks              |        17 |   0.470588 |
 | Harlequins               |        15 |   0.4      |
 | Saracens                 |        14 |   0.321429 |
 | Worcester Warriors       |        14 |   0.785714 |
@@ -56,9 +56,9 @@ categories: player
 | Stade Toulousain         |         3 |   0.333333 |
 | Yorkshire Carnegie       |         3 |   0.333333 |
 | Cardiff Blues            |         3 |   0.666667 |
+| Glasgow Warriors         |         3 |   0.5      |
 | Bath Rugby               |         3 |   0.333333 |
 | Leeds                    |         3 |   0.333333 |
-| Glasgow Warriors         |         2 |   0.5      |
 | Dragons                  |         2 |   1        |
 | Mont-de-Marsan           |         2 |   1        |
 | Fiji                     |         2 |   1        |

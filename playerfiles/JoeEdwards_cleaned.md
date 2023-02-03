@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Edwards  
-date: 2023-01-13 11:32:01.682894  
+date: 2023-02-02 19:07:03.179737  
 categories: player  
 ---
 # Joe Edwards
 
 ## Positions: FL, N8
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 80.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Vannes          |            45 |   0.588889 |
+| Vannes          |            46 |   0.576087 |
 | Provence Rugby  |            37 |   0.513514 |
 | Auckland        |            32 |   0.65625  |
 | Blues           |             8 |   0.3125   |
@@ -31,9 +31,9 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Mont-de-Marsan             |         7 |   0.714286 |
 | Colomiers                  |         6 |   0.666667 |
+| Nevers                     |         6 |   0.583333 |
 | Beziers                    |         6 |   0.5      |
 | Oyonnax                    |         6 |   0.333333 |
-| Nevers                     |         5 |   0.7      |
 | Aurillac                   |         5 |   0.6      |
 | Biarritz Olympique         |         5 |   0.6      |
 | Grenoble                   |         5 |   0.6      |

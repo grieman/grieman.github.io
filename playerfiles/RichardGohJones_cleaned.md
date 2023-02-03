@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Richard Goh Jones  
-date: 2023-01-17 11:39:07.230631  
+date: 2023-02-02 18:41:00.993974  
 categories: player  
 ---
 # Richard Goh Jones
 
 ## Positions: FL
 
-## Current elo: 84.0
+## Current elo: 93.0
 
 ## Current Percentile: 34.0
 
@@ -21,9 +21,11 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |             2 |          0 |
+| Shizuoka Blue Revs |             4 |      0.375 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Black Rams Tokyo |         1 |          0 |
-| Tokyo Sungoliath |         1 |          0 |
+| Opponent              |   Matches |   Win Rate |
+|:----------------------|----------:|-----------:|
+| Black Rams Tokyo      |         1 |        0   |
+| Green Rockets Tokatsu |         1 |        1   |
+| Mitsubishi Dynaboars  |         1 |        0.5 |
+| Tokyo Sungoliath      |         1 |        0   |

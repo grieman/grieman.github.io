@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robbie Smith  
-date: 2023-01-06 11:43:45.965447  
+date: 2023-02-02 18:54:39.555237  
 categories: player  
 ---
 # Robbie Smith
@@ -22,20 +22,20 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            37 |   0.283784 |
-| Doncaster        |             8 |   0.625    |
+| Doncaster        |            12 |   0.583333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ealing Trailfinders |         6 |   0        |
-| Bedford             |         5 |   0.4      |
-| Jersey              |         5 |   0        |
-| Nottingham          |         5 |   0.4      |
-| Ampthill            |         4 |   0.25     |
-| Coventry            |         4 |   0.5      |
-| London Scottish     |         4 |   0.625    |
-| Richmond            |         4 |   0.75     |
-| Cornish Pirates     |         3 |   0.333333 |
-| Doncaster           |         2 |   0        |
-| Caldy               |         1 |   1        |
-| Hartpury College    |         1 |   1        |
-| Newcastle Falcons   |         1 |   0        |
+| Ealing Trailfinders |         6 |      0     |
+| Nottingham          |         6 |      0.5   |
+| Bedford             |         5 |      0.4   |
+| Jersey              |         5 |      0     |
+| Richmond            |         5 |      0.8   |
+| Ampthill            |         4 |      0.25  |
+| Cornish Pirates     |         4 |      0.25  |
+| Coventry            |         4 |      0.5   |
+| London Scottish     |         4 |      0.625 |
+| Doncaster           |         2 |      0     |
+| Hartpury College    |         2 |      0.5   |
+| Caldy               |         1 |      1     |
+| Newcastle Falcons   |         1 |      0     |

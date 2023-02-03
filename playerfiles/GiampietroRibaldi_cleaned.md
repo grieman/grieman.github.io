@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giampietro Ribaldi  
-date: 2023-01-21 15:41:02.688344  
+date: 2023-02-02 18:43:06.159873  
 categories: player  
 ---
 # Giampietro Ribaldi

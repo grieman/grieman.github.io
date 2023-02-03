@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aki Seiuli  
-date: 2023-01-06 00:23:59.583837  
+date: 2023-02-02 18:57:44.775832  
 categories: player  
 ---
 # Aki Seiuli
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 64.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Otago            |            59 |   0.508475 |
 | Highlanders      |            40 |   0.7      |
-| Dragons          |            27 |   0.203704 |
+| Dragons          |            30 |   0.183333 |
 | Glasgow Warriors |            26 |   0.442308 |
 | Samoa            |             2 |   1        |
 
@@ -37,22 +37,22 @@ categories: player
 | Hawke's Bay              |         6 |   0.166667 |
 | Tasman                   |         6 |   0.333333 |
 | Manawatu                 |         6 |   0.833333 |
+| Lions                    |         5 |   0.2      |
 | Ospreys                  |         5 |   0.4      |
 | Cardiff Blues            |         5 |   0.2      |
 | North Harbour            |         5 |   0.8      |
 | Leinster                 |         5 |   0        |
 | Hurricanes               |         5 |   0.4      |
 | Edinburgh                |         5 |   0.4      |
-| Auckland                 |         4 |   0.5      |
 | Stormers                 |         4 |   0.5      |
 | Southland                |         4 |   0.75     |
 | Scarlets                 |         4 |   0.5      |
-| Lions                    |         4 |   0.25     |
+| Auckland                 |         4 |   0.5      |
 | Crusaders                |         4 |   0.25     |
 | Blues                    |         4 |   1        |
 | Chiefs                   |         4 |   0.5      |
+| Bulls                    |         4 |   0.5      |
 | Zebre                    |         3 |   0.666667 |
-| Canterbury               |         3 |   0        |
 | Benetton Treviso         |         3 |   0.833333 |
 | Dragons                  |         3 |   0.333333 |
 | Ulster                   |         3 |   0        |
@@ -60,13 +60,13 @@ categories: player
 | Sharks                   |         3 |   0        |
 | Munster                  |         3 |   0.333333 |
 | New South Wales Waratahs |         3 |   0.333333 |
-| Bulls                    |         3 |   0.666667 |
+| Canterbury               |         3 |   0        |
+| Glasgow Warriors         |         2 |   0        |
 | Waikato                  |         2 |   1        |
 | Queensland Reds          |         2 |   1        |
 | Melbourne Rebels         |         2 |   1        |
 | Connacht                 |         2 |   0.5      |
 | La Rochelle              |         2 |   0.5      |
-| Glasgow Warriors         |         1 |   0        |
 | Sale Sharks              |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Southern Kings           |         1 |   1        |

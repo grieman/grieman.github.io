@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richard Buckman  
-date: 2023-01-21 15:42:37.935704  
+date: 2023-02-02 19:11:53.393778  
 categories: player  
 ---
 # Richard Buckman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Highlanders
 
-## Current elo: 109.0
+## Current elo: 108.0
 
-## Current Percentile: 76.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------------|--------------:|-----------:|
 | Hawke's Bay           |            57 |   0.587719 |
 | Highlanders           |            48 |   0.583333 |
-| Kobelco Kobe Steelers |            15 |   0.666667 |
+| Kobelco Kobe Steelers |            16 |   0.625    |
 | Saitama Wild Knights  |             5 |   0.8      |
 | Hurricanes            |             4 |   0.375    |
 
@@ -67,5 +67,6 @@ categories: player
 | Hino Red Dolphins                 |         1 |   1        |
 | Coca-Cola Red Sparks              |         1 |   1        |
 | Cheetahs                          |         1 |   1        |
+| Toyota Verblitz                   |         1 |   0        |
 | British and Irish Lions           |         1 |   1        |
 | Auckland                          |         1 |   1        |

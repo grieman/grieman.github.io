@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jeronimo de la Fuente  
-date: 2023-01-06 00:08:49.466156  
+date: 2023-02-02 18:46:04.625182  
 categories: player  
 ---
 # Jeronimo de la Fuente
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 110.0
+## Current elo: 68.0
 
-## Current Percentile: 76.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Argentina |            70 |   0.285714 |
 | Jaguares  |            50 |   0.56     |
-| Perpignan |            34 |   0.573529 |
+| Perpignan |            36 |   0.569444 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,34 +40,34 @@ categories: player
 | Scotland                 |         5 |   0.2      |
 | England                  |         5 |   0.2      |
 | Chiefs                   |         4 |   0.5      |
-| Brumbies                 |         4 |   0.75     |
+| Clermont Auvergne        |         4 |   0.25     |
 | France                   |         4 |   0        |
+| Brumbies                 |         4 |   0.75     |
 | Hurricanes               |         3 |   0.333333 |
 | Stormers                 |         3 |   0.333333 |
 | Italy                    |         3 |   1        |
 | Castres Olympique        |         3 |   0.333333 |
-| Clermont Auvergne        |         3 |   0.333333 |
 | Crusaders                |         3 |   0        |
-| Bordeaux Begles          |         2 |   1        |
+| Highlanders              |         2 |   0        |
+| Stade Toulousain         |         2 |   0.5      |
+| Biarritz Olympique       |         2 |   1        |
+| Southern Kings           |         2 |   1        |
+| Queensland Reds          |         2 |   1        |
+| Provence Rugby           |         2 |   1        |
+| Stade Francais Paris     |         2 |   0.5      |
 | Blues                    |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
-| Stade Toulousain         |         2 |   0.5      |
 | Montpellier Herault      |         2 |   0        |
-| Highlanders              |         2 |   0        |
-| Southern Kings           |         2 |   1        |
+| Bordeaux Begles          |         2 |   1        |
 | Lyon                     |         2 |   0.5      |
-| Provence Rugby           |         2 |   1        |
 | Cheetahs                 |         2 |   1        |
 | La Rochelle              |         2 |   0.5      |
 | Tonga                    |         2 |   1        |
-| Biarritz Olympique       |         2 |   1        |
 | Georgia                  |         2 |   1        |
-| Queensland Reds          |         2 |   1        |
 | Toulon                   |         1 |   0        |
-| Soyaux-Angouleme         |         1 |   1        |
-| Stade Francais Paris     |         1 |   0        |
-| Sunwolves                |         1 |   0        |
 | United States of America |         1 |   1        |
+| Sunwolves                |         1 |   0        |
+| Soyaux-Angouleme         |         1 |   1        |
 | Vannes                   |         1 |   1        |
 | Aurillac                 |         1 |   0.5      |
 | Romania                  |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Ruddock  
-date: 2023-01-13 11:38:37.926353  
+date: 2023-02-02 19:02:52.428934  
 categories: player  
 ---
 # Rhys Ruddock
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Leinster  |           208 |   0.790865 |
+| Leinster  |           209 |   0.791866 |
 | Ireland   |            27 |   0.685185 |
 | Edinburgh |             1 |   0        |
 
@@ -32,9 +32,9 @@ categories: player
 | Ospreys                  |        19 |   0.736842 |
 | Ulster                   |        18 |   0.666667 |
 | Connacht                 |        17 |   0.823529 |
+| Cardiff Blues            |        16 |   0.875    |
 | Munster                  |        16 |   0.625    |
 | Glasgow Warriors         |        15 |   0.866667 |
-| Cardiff Blues            |        15 |   0.866667 |
 | Scarlets                 |        15 |   0.766667 |
 | Benetton Treviso         |        14 |   0.928571 |
 | Dragons                  |        12 |   0.916667 |

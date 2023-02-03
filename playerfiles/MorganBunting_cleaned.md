@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Morgan Bunting  
-date: 2023-01-21 15:45:21.667534  
+date: 2023-02-02 18:59:07.044294  
 categories: player  
 ---
 # Morgan Bunting
 
-## Positions: C, FH
+## Positions: FH, C
 
-## Current elo: 85.0
+## Current elo: 79.0
 
 ## Current Percentile: 22.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            27 |   0.259259 |
+| Nottingham |            28 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Doncaster           |         4 |   0.25     |
 | Bedford             |         3 |   0        |
 | Cornish Pirates     |         3 |   0        |
 | Coventry            |         3 |   0.333333 |
-| Doncaster           |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0        |
 | Jersey              |         3 |   0        |
 | London Scottish     |         3 |   1        |

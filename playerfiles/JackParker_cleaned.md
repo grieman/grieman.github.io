@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jack Parker  
-date: 2023-01-13 11:25:50.249657  
+date: 2023-02-02 19:13:42.234824  
 categories: player  
 ---
 # Jack Parker
 
 ## Positions: 
 
-## Current elo: 97.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |             1 |          1 |
+| Caldy  |             4 |          1 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bedford             |         1 |          1 |
 | Ealing Trailfinders |         1 |          1 |
+| Nottingham          |         1 |          1 |
+| Richmond            |         1 |          1 |

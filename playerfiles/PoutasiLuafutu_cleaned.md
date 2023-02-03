@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Poutasi Luafutu  
-date: 2023-01-17 11:43:07.563881  
+date: 2023-02-02 18:48:50.513096  
 categories: player  
 ---
 # Poutasi Luafutu
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Brive            |           134 |   0.496269 |
-| Bourgoin-Jallieu |            47 |   0.5      |
+| Bourgoin-Jallieu |            49 |   0.5      |
 | Provence Rugby   |            41 |   0.487805 |
 | Bordeaux Begles  |            15 |   0.4      |
 | Queensland Reds  |            11 |   0.363636 |
@@ -39,10 +39,10 @@ categories: player
 | Lyon                       |         8 |   0.4375   |
 | Castres Olympique          |         8 |   0.5      |
 | Pau                        |         7 |   0.428571 |
+| Dax                        |         7 |   0.428571 |
 | Montpellier Herault        |         7 |   0.571429 |
 | Clermont Auvergne          |         7 |   0.142857 |
 | Stade Francais Paris       |         6 |   0.333333 |
-| Dax                        |         6 |   0.5      |
 | Albi                       |         6 |   0.5      |
 | Bordeaux Begles            |         6 |   0.416667 |
 | Massy                      |         6 |   0.666667 |
@@ -56,9 +56,9 @@ categories: player
 | Beziers                    |         5 |   0.6      |
 | Narbonne                   |         5 |   0.4      |
 | Bayonne                    |         5 |   0.2      |
+| Nice                       |         5 |   0.6      |
 | Nevers                     |         4 |   0.5      |
 | Chambery                   |         4 |   0.75     |
-| Nice                       |         4 |   0.5      |
 | Carcassonne                |         4 |   0.25     |
 | Dijon                      |         4 |   0.75     |
 | Grenoble                   |         4 |   0.5      |

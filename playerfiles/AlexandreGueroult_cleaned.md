@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Gueroult  
-date: 2023-01-17 11:39:26.305745  
+date: 2023-02-02 18:50:02.097754  
 categories: player  
 ---
 # Alexandre Gueroult
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,12 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            14 |   0.142857 |
+| Rennes |            16 |      0.125 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         2 |          0 |
 | Suresnes                   |         2 |          0 |
+| Tarbes                     |         2 |          0 |
+| Valence Romans Drome Rugby |         2 |          0 |
 | Blagnac                    |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Chambery                   |         1 |          0 |
@@ -34,6 +36,4 @@ categories: player
 | Dax                        |         1 |          0 |
 | Narbonne                   |         1 |          0 |
 | Nice                       |         1 |          0 |
-| Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |

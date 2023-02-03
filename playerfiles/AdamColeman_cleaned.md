@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Coleman  
-date: 2023-01-23 15:31:56.435874  
+date: 2023-02-02 18:38:59.254381  
 categories: player  
 ---
 # Adam Coleman
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Western Force            |            46 |   0.369565 |
 | Australia                |            38 |   0.526316 |
-| London Irish             |            36 |   0.472222 |
+| London Irish             |            37 |   0.486486 |
 | Melbourne Rebels         |            22 |   0.5      |
 | New South Wales Waratahs |             1 |   1        |
 
@@ -50,20 +50,20 @@ categories: player
 | Newcastle Falcons        |         3 |   1        |
 | Sharks                   |         3 |   0.333333 |
 | Worcester Warriors       |         3 |   0.333333 |
+| England                  |         3 |   0        |
 | Blues                    |         3 |   0.333333 |
 | Ireland                  |         3 |   0.333333 |
 | Hurricanes               |         3 |   0        |
+| Harlequins               |         3 |   1        |
 | Chiefs                   |         3 |   0.333333 |
-| England                  |         3 |   0        |
 | Jaguares                 |         2 |   0.5      |
-| Exeter Chiefs            |         2 |   0.5      |
 | Wasps                    |         2 |   0        |
 | Bristol Rugby            |         2 |   0.75     |
 | Cheetahs                 |         2 |   0.5      |
 | Scotland                 |         2 |   0.5      |
 | Lions                    |         2 |   0.5      |
+| Exeter Chiefs            |         2 |   0.5      |
 | Fiji                     |         2 |   1        |
-| Harlequins               |         2 |   1        |
 | Montpellier Herault      |         2 |   0.25     |
 | Italy                    |         2 |   1        |
 | Bath Rugby               |         2 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Hiroshi Murakawa  
-date: 2023-01-15 11:51:04.067765  
+date: 2023-02-02 19:06:06.312932  
 categories: player  
 ---
 # Hiroshi Murakawa
 
 ## Positions: H
 
-## Current elo: 99.0
+## Current elo: 100.0
 
 ## Current Percentile: 69.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toyota Industries Shuttles Aichi |            37 |   0.513514 |
+| Toyota Industries Shuttles Aichi |            38 |   0.526316 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -35,6 +35,7 @@ categories: player
 | Chugoku Red Regulions             |         2 |   1        |
 | Kurita Water Gush                 |         2 |   1        |
 | Kobelco Kobe Steelers             |         2 |   0        |
+| Kamaishi Seawaves                 |         2 |   1        |
 | Munakata Sanix Blues              |         2 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
@@ -42,5 +43,4 @@ categories: player
 | Shizuoka Blue Revs                |         1 |   0        |
 | Tokyo Sungoliath                  |         1 |   0        |
 | Toshiba Brave Lupus Tokyo         |         1 |   1        |
-| Kamaishi Seawaves                 |         1 |   1        |
 | Hino Red Dolphins                 |         1 |   1        |

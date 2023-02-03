@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: JJ Hanrahan  
-date: 2023-01-06 00:25:21.775032  
+date: 2023-02-02 19:12:58.250824  
 categories: player  
 ---
 # JJ Hanrahan
 
 ## Positions: FH, C
 
-## Current elo: 119.0
+## Current elo: 129.0
 
-## Current Percentile: 90.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Munster            |           143 |   0.681818 |
 | Northampton Saints |            38 |   0.513158 |
 | Clermont Auvergne  |            23 |   0.521739 |
-| Dragons            |            11 |   0.272727 |
+| Dragons            |            13 |   0.230769 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,8 +32,8 @@ categories: player
 | Scarlets             |        13 |   0.653846 |
 | Zebre                |        12 |   1        |
 | Cardiff Blues        |        12 |   0.75     |
+| Glasgow Warriors     |        12 |   0.5      |
 | Edinburgh            |        12 |   0.666667 |
-| Glasgow Warriors     |        11 |   0.545455 |
 | Ospreys              |        11 |   0.818182 |
 | Racing 92            |        10 |   0.4      |
 | Connacht             |         9 |   0.777778 |
@@ -58,6 +58,7 @@ categories: player
 | Bath Rugby           |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
 | Lyon                 |         2 |   0.5      |
+| Lions                |         2 |   0        |
 | Harlequins           |         2 |   1        |
 | Clermont Auvergne    |         2 |   0        |
 | Cheetahs             |         2 |   1        |
@@ -66,7 +67,6 @@ categories: player
 | Biarritz Olympique   |         2 |   1        |
 | London Irish         |         2 |   0.5      |
 | Munster              |         1 |   1        |
-| Lions                |         1 |   0        |
 | La Rochelle          |         1 |   1        |
 | Stormers             |         1 |   0        |
 | Bristol Rugby        |         1 |   1        |

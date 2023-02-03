@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Meret  
-date: 2023-01-15 11:49:42.802689  
+date: 2023-02-02 19:07:21.115911  
 categories: player  
 ---
 # Lucas Meret
 
 ## Positions: FH
 
-## Current elo: 88.0
+## Current elo: 86.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Bordeaux Begles            |            21 |   0.5      |
 | Carcassonne                |            21 |   0.571429 |
 | Narbonne                   |            17 |   0.235294 |
-| Valence Romans Drome Rugby |            12 |   0.625    |
+| Valence Romans Drome Rugby |            14 |   0.678571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -44,6 +44,7 @@ categories: player
 | Agen                       |         4 |   0.5      |
 | Biarritz Olympique         |         4 |   0.75     |
 | Oyonnax                    |         3 |   0        |
+| Nevers                     |         3 |   0.666667 |
 | Clermont Auvergne          |         3 |   0.666667 |
 | Aurillac                   |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.833333 |
@@ -51,30 +52,29 @@ categories: player
 | Lyon                       |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.666667 |
 | Pau                        |         3 |   0.166667 |
-| Nevers                     |         3 |   0.666667 |
 | US Bressane                |         2 |   0        |
 | Tarbes                     |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0        |
 | Sale Sharks                |         2 |   0.5      |
+| Rennes                     |         2 |   1        |
 | Benetton Treviso           |         2 |   0        |
+| Carqueiranne-Hyères        |         2 |   1        |
 | Wasps                      |         2 |   1        |
+| Connacht                   |         2 |   0        |
 | Montpellier Herault        |         2 |   0        |
-| Gloucester Rugby           |         2 |   0        |
 | Blagnac                    |         2 |   0.5      |
 | Albi                       |         2 |   1        |
 | Massy                      |         2 |   0.5      |
-| Brive                      |         2 |   0.5      |
 | La Rochelle                |         2 |   0        |
-| Connacht                   |         2 |   0        |
+| Brive                      |         2 |   0.5      |
+| Gloucester Rugby           |         2 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
 | Toulon                     |         1 |   1        |
-| Suresnes                   |         1 |   1        |
-| Soyaux-Angouleme           |         1 |   1        |
-| Stade Francais Paris       |         1 |   0        |
 | Nice                       |         1 |   1        |
-| Bordeaux Begles            |         1 |   1        |
-| Rennes                     |         1 |   1        |
-| Racing 92                  |         1 |   0        |
+| Suresnes                   |         1 |   1        |
+| Stade Francais Paris       |         1 |   0        |
 | Chambery                   |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   1        |
+| Bordeaux Begles            |         1 |   1        |
+| Racing 92                  |         1 |   0        |
+| Soyaux-Angouleme           |         1 |   1        |

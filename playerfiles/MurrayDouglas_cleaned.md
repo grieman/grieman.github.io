@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Murray Douglas  
-date: 2023-01-30 17:52:24.568483  
+date: 2023-02-02 19:13:54.748927  
 categories: player  
 ---
 # Murray Douglas
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

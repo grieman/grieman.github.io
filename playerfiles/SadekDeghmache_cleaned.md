@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sadek Deghmache  
-date: 2023-01-06 00:26:16.212532  
+date: 2023-02-02 18:59:43.435320  
 categories: player  
 ---
 # Sadek Deghmache
 
 ## Positions: SH
 
-## Current elo: 89.0
+## Current elo: 102.0
 
-## Current Percentile: 10.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |           131 |   0.492366 |
+| Perpignan |           133 |   0.492481 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,27 +31,27 @@ categories: player
 | Soyaux-Angouleme           |         6 |   0.916667 |
 | Mont-de-Marsan             |         6 |   0.333333 |
 | Vannes                     |         5 |   1        |
+| La Rochelle                |         5 |   0.2      |
+| Stade Francais Paris       |         5 |   0.2      |
 | Aurillac                   |         5 |   0.8      |
 | Beziers                    |         5 |   0.4      |
-| La Rochelle                |         5 |   0.2      |
+| Lyon                       |         4 |   0.25     |
+| Clermont Auvergne          |         4 |   0.25     |
+| Colomiers                  |         4 |   0.75     |
 | Pau                        |         4 |   0        |
 | Oyonnax                    |         4 |   0.5      |
 | Nevers                     |         4 |   0.5      |
-| Montpellier Herault        |         4 |   0        |
-| Lyon                       |         4 |   0.25     |
-| Stade Francais Paris       |         4 |   0        |
-| Colomiers                  |         4 |   0.75     |
-| Castres Olympique          |         4 |   0        |
 | Bordeaux Begles            |         4 |   0.25     |
-| Racing 92                  |         3 |   0        |
-| Clermont Auvergne          |         3 |   0.333333 |
-| Carcassonne                |         3 |   1        |
+| Castres Olympique          |         4 |   0        |
+| Montpellier Herault        |         4 |   0        |
 | Rouen                      |         3 |   0.666667 |
+| Carcassonne                |         3 |   1        |
 | Bayonne                    |         3 |   0.666667 |
+| Racing 92                  |         3 |   0        |
 | Provence Rugby             |         3 |   0.666667 |
-| Stade Toulousain           |         2 |   0        |
 | Sale Sharks                |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   1        |
+| Stade Toulousain           |         2 |   0        |
 | Agen                       |         2 |   0        |
 | Narbonne                   |         2 |   1        |
 | Albi                       |         2 |   0.5      |

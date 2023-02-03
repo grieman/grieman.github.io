@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Colin Bourke  
-date: 2023-01-17 11:46:35.222235  
+date: 2023-02-02 19:14:10.504693  
 categories: player  
 ---
 # Colin Bourke
 
 ## Positions: N8, FH
 
-## Current elo: 89.0
+## Current elo: 82.0
 
-## Current Percentile: 44.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Black Rams Tokyo                |            47 |   0.457447 |
 | Bay of Plenty                   |            33 |   0.575758 |
 | Chiefs                          |            15 |   0.3      |
-| NTT Docomo Red Hurricanes Osaka |             3 |   1        |
+| NTT Docomo Red Hurricanes Osaka |             4 |   0.75     |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -44,30 +44,31 @@ categories: player
 | Northland                         |         3 |   0.666667 |
 | Auckland                          |         3 |   0.333333 |
 | Green Rockets Tokatsu             |         3 |   1        |
-| Kobelco Kobe Steelers             |         3 |   0        |
-| Canterbury                        |         3 |   0        |
 | Hanazono Kintetsu Liners          |         3 |   0.333333 |
-| New South Wales Waratahs          |         2 |   0        |
+| Canterbury                        |         3 |   0        |
+| Kobelco Kobe Steelers             |         3 |   0        |
 | Western Force                     |         2 |   1        |
 | Bulls                             |         2 |   0        |
-| Munakata Sanix Blues              |         2 |   1        |
 | Urayasu D-Rocks                   |         2 |   0.5      |
+| Coca-Cola Red Sparks              |         2 |   0.75     |
 | Counties Manukau                  |         2 |   1        |
 | Crusaders                         |         2 |   0        |
+| New South Wales Waratahs          |         2 |   0        |
 | Kyuden Voltex                     |         2 |   0.5      |
-| Coca-Cola Red Sparks              |         2 |   0.75     |
-| Cheetahs                          |         1 |   0.5      |
-| Chugoku Red Regulions             |         1 |   1        |
-| Toyota Industries Shuttles Aichi  |         1 |   1        |
-| Tasman                            |         1 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
-| Stormers                          |         1 |   0        |
-| Sharks                            |         1 |   1        |
+| Munakata Sanix Blues              |         2 |   1        |
 | Queensland Reds                   |         1 |   0        |
 | Hawke's Bay                       |         1 |   1        |
-| Highlanders                       |         1 |   1        |
-| Hurricanes                        |         1 |   0        |
-| Blues                             |         1 |   0        |
-| Mie Honda Heat                    |         1 |   1        |
 | Manawatu                          |         1 |   1        |
+| Mie Honda Heat                    |         1 |   1        |
+| Cheetahs                          |         1 |   0.5      |
+| Toyota Industries Shuttles Aichi  |         1 |   1        |
+| Chugoku Red Regulions             |         1 |   1        |
+| Blues                             |         1 |   0        |
+| Tasman                            |         1 |   0        |
+| Hurricanes                        |         1 |   0        |
+| Stormers                          |         1 |   0        |
+| Highlanders                       |         1 |   1        |
 | Skyactivs Hiroshima               |         1 |   1        |
+| Kurita Water Gush                 |         1 |   0        |
+| Sharks                            |         1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |

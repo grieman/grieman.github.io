@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Tompkins  
-date: 2023-01-06 00:26:21.459920  
+date: 2023-02-02 19:01:41.877426  
 categories: player  
 ---
 # Nick Tompkins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 102.0
+## Current elo: 93.0
 
-## Current Percentile: 90.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           153 |   0.728758 |
+| Saracens |           156 |   0.727564 |
 | Wales    |            23 |   0.413043 |
 | Dragons  |            11 |   0.409091 |
 
@@ -35,21 +35,21 @@ categories: player
 | Sale Sharks         |        11 |   0.681818 |
 | Newcastle Falcons   |        11 |   1        |
 | Gloucester Rugby    |        10 |   0.5      |
+| Bristol Rugby       |         9 |   0.777778 |
 | Northampton Saints  |         9 |   0.777778 |
 | Wasps               |         8 |   0.625    |
-| Bristol Rugby       |         8 |   0.75     |
 | London Irish        |         8 |   0.75     |
 | Worcester Warriors  |         8 |   0.75     |
 | Bath Rugby          |         7 |   0.571429 |
 | Scarlets            |         6 |   0.583333 |
 | Ospreys             |         5 |   0.7      |
 | Glasgow Warriors    |         5 |   1        |
+| Edinburgh           |         4 |   0.5      |
 | South Africa        |         4 |   0.25     |
-| Edinburgh           |         3 |   0.666667 |
+| Lyon                |         4 |   1        |
 | Scotland            |         3 |   0.666667 |
 | Ireland             |         3 |   0.333333 |
 | Argentina           |         3 |   0.5      |
-| Lyon                |         3 |   1        |
 | Munster             |         3 |   0.666667 |
 | England             |         2 |   0        |
 | France              |         2 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ken Owens  
-date: 2023-01-06 00:18:16.898457  
+date: 2023-02-02 18:43:56.227700  
 categories: player  
 ---
 # Ken Owens
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 101.0
+## Current elo: 108.0
 
-## Current Percentile: 23.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Scarlets                |           220 |   0.511364 |
+| Scarlets                |           223 |   0.517937 |
 | Wales                   |            88 |   0.5625   |
 | British and Irish Lions |            11 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Cardiff Blues        |        23 |   0.565217 |
+| Cardiff Blues        |        24 |   0.583333 |
 | Dragons              |        23 |   0.869565 |
 | Ospreys              |        18 |   0.416667 |
 | Leinster             |        18 |   0.25     |
@@ -58,19 +58,19 @@ categories: player
 | Aironi               |         3 |   1        |
 | Zebre                |         3 |   1        |
 | Harlequins           |         3 |   0.166667 |
+| Cheetahs             |         3 |   1        |
 | Brive                |         3 |   0.666667 |
 | Georgia              |         2 |   0.5      |
 | Fiji                 |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
 | Bath Rugby           |         2 |   0.5      |
-| Cheetahs             |         2 |   1        |
+| Bayonne              |         2 |   1        |
 | Castres Olympique    |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
 | Blues                |         1 |   0        |
 | Yorkshire Carnegie   |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
 | Uruguay              |         1 |   1        |
-| Bayonne              |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Japan                |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |

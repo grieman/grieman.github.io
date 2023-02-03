@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Badri Alkhazashvili  
-date: 2023-01-15 11:55:19.397576  
+date: 2023-02-02 18:57:31.730177  
 categories: player  
 ---
 # Badri Alkhazashvili
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 14.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Nice           |            28 |   0.517857 |
+| Nice           |            30 |   0.516667 |
 | Brive          |            13 |   0.307692 |
 | Lyon           |             9 |   0.444444 |
 | Georgia        |             8 |   0.75     |
@@ -32,18 +32,18 @@ categories: player
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Suresnes                   |         3 |   0.666667 |
 | Chambery                   |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.666667 |
+| Bourgoin-Jallieu           |         3 |   0.333333 |
 | Pau                        |         3 |   1        |
 | Narbonne                   |         2 |   0        |
-| Suresnes                   |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Dax                        |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Clermont Auvergne          |         2 |   0        |
 | Racing 92                  |         2 |   0.5      |
 | Brive                      |         2 |   0        |
-| Bourgoin-Jallieu           |         2 |   0.5      |
 | Bordeaux Begles            |         2 |   0.5      |
 | Tarbes                     |         2 |   1        |
 | Toulon                     |         2 |   0.5      |

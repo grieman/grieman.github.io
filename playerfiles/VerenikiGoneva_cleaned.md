@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vereniki Goneva  
-date: 2023-01-17 11:46:58.574958  
+date: 2023-02-02 19:08:16.675434  
 categories: player  
 ---
 # Vereniki Goneva
@@ -29,7 +29,7 @@ categories: player
 | Mont-de-Marsan    |            43 |   0.662791 |
 | Fiji              |            35 |   0.328571 |
 | Tarbes            |            19 |   0.421053 |
-| Chambery          |            14 |   0.428571 |
+| Chambery          |            16 |   0.4375   |
 | Harlequins        |             8 |   0.4375   |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -50,9 +50,9 @@ categories: player
 | Leicester Tigers           |         7 |   0.214286 |
 | London Irish               |         7 |   0.857143 |
 | Ulster                     |         6 |   0.166667 |
+| Dax                        |         6 |   0.5      |
 | Tarbes                     |         5 |   0.5      |
 | Auch                       |         5 |   0.2      |
-| Dax                        |         5 |   0.6      |
 | Albi                       |         5 |   0.2      |
 | Newcastle Falcons          |         5 |   1        |
 | Carcassonne                |         5 |   0.6      |
@@ -67,30 +67,31 @@ categories: player
 | Beziers                    |         4 |   0.75     |
 | Benetton Treviso           |         4 |   1        |
 | Agen                       |         3 |   0.666667 |
-| Montauban                  |         3 |   0.333333 |
-| Scarlets                   |         3 |   0.333333 |
+| Lyon                       |         3 |   0.5      |
+| Bordeaux Begles            |         3 |   0        |
 | Scotland                   |         3 |   0        |
 | Ireland                    |         3 |   0        |
+| Montauban                  |         3 |   0.333333 |
 | Toulon                     |         3 |   0.333333 |
-| Bordeaux Begles            |         3 |   0        |
+| Scarlets                   |         3 |   0.333333 |
 | Uruguay                    |         3 |   0.666667 |
 | Italy                      |         3 |   0.333333 |
 | Vannes                     |         3 |   0.333333 |
-| Lyon                       |         3 |   0.5      |
-| Stade Francais Paris       |         2 |   1        |
-| Canada                     |         2 |   1        |
-| Rouen                      |         2 |   1        |
 | Bayonne                    |         2 |   1        |
+| Rouen                      |         2 |   1        |
+| Soyaux-Angouleme           |         2 |   0.5      |
 | Périgueux                  |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
-| Soyaux-Angouleme           |         2 |   0.5      |
+| Stade Francais Paris       |         2 |   1        |
 | Bristol Rugby              |         2 |   0.5      |
-| Nevers                     |         2 |   0        |
+| Canada                     |         2 |   1        |
 | Biarritz Olympique         |         2 |   0.75     |
 | Tonga                      |         2 |   0.5      |
+| Nevers                     |         2 |   0        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | England                    |         2 |   0        |
-| Valence Romans Drome Rugby |         2 |   0.75     |
 | Munster                    |         2 |   1        |
+| Valence Romans Drome Rugby |         2 |   0.75     |
 | Stade Toulousain           |         1 |   0        |
 | Suresnes                   |         1 |   0        |
 | Blagnac                    |         1 |   0        |
@@ -98,7 +99,7 @@ categories: player
 | United States of America   |         1 |   1        |
 | Georgia                    |         1 |   0        |
 | Samoa                      |         1 |   0        |
-| Saint-Etienne              |         1 |   1        |
+| Namibia                    |         1 |   1        |
 | Japan                      |         1 |   1        |
 | France                     |         1 |   1        |
 | Lannemezan                 |         1 |   0        |
@@ -106,9 +107,8 @@ categories: player
 | London Welsh               |         1 |   1        |
 | Dragons                    |         1 |   1        |
 | Colomiers                  |         1 |   0        |
-| Namibia                    |         1 |   1        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
 | New Zealand Maori          |         1 |   0        |
+| Saint-Etienne              |         1 |   1        |
 | Clermont Auvergne          |         1 |   0        |
 | Nice                       |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   0        |

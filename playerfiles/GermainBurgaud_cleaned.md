@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Germain Burgaud  
-date: 2023-01-13 11:37:18.282334  
+date: 2023-02-02 19:13:23.494282  
 categories: player  
 ---
 # Germain Burgaud
 
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 64.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            30 |   0.5      |
+| Soyaux-Angouleme |            31 |   0.483871 |
 | Chambery         |            14 |   0.214286 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -36,9 +36,9 @@ categories: player
 | Suresnes                   |         2 |   1        |
 | Nevers                     |         2 |   0        |
 | US Bressane                |         2 |   0        |
+| Colomiers                  |         2 |   0        |
 | Chambery                   |         2 |   0        |
 | Blagnac                    |         2 |   0.5      |
-| Colomiers                  |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Albi                       |         1 |   1        |
 | Mont-de-Marsan             |         1 |   0        |

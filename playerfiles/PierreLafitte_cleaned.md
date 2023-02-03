@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Lafitte  
-date: 2023-01-13 11:30:47.851586  
+date: 2023-02-02 18:40:28.564251  
 categories: player  
 ---
 # Pierre Lafitte
@@ -21,19 +21,19 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |           107 |   0.46729  |
+| Soyaux-Angouleme |           109 |   0.458716 |
 | Périgueux        |             9 |   0.222222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         7 |   0.428571 |
 | Beziers                    |         7 |   0.571429 |
+| Colomiers                  |         7 |   0.428571 |
 | Vannes                     |         6 |   0.5      |
+| Rouen                      |         6 |   0.333333 |
 | Carcassonne                |         6 |   0.333333 |
-| Colomiers                  |         6 |   0.5      |
 | Mont-de-Marsan             |         6 |   0.333333 |
 | Grenoble                   |         5 |   0.2      |
-| Rouen                      |         5 |   0.4      |
 | Oyonnax                    |         5 |   0        |
 | Montauban                  |         5 |   0.2      |
 | Massy                      |         5 |   0.7      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Delonca  
-date: 2023-01-17 11:33:33.113649  
+date: 2023-02-02 18:51:34.072450  
 categories: player  
 ---
 # Maxime Delonca
 
 ## Positions: H
 
-## Current elo: 108.0
+## Current elo: 105.0
 
-## Current Percentile: 92.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Dax       |            87 |   0.413793 |
+| Dax       |            89 |   0.426966 |
 | Bayonne   |            74 |   0.486486 |
 | Perpignan |            30 |   0.45     |
 
@@ -37,9 +37,9 @@ categories: player
 | Nevers                     |         6 |  0.583333  |
 | Albi                       |         6 |  0.0833333 |
 | Montauban                  |         6 |  0.666667  |
+| Bourgoin-Jallieu           |         6 |  0.833333  |
 | Beziers                    |         6 |  0.166667  |
 | Bayonne                    |         6 |  0.416667  |
-| Bourgoin-Jallieu           |         5 |  0.8       |
 | US Bressane                |         5 |  1         |
 | Castres Olympique          |         5 |  0.6       |
 | Racing 92                  |         5 |  0.4       |
@@ -52,27 +52,27 @@ categories: player
 | Oyonnax                    |         4 |  0.25      |
 | Soyaux-Angouleme           |         4 |  0.5       |
 | Mont-de-Marsan             |         4 |  0         |
-| Bordeaux Begles            |         4 |  0.25      |
-| Clermont Auvergne          |         4 |  0.25      |
 | Brive                      |         4 |  0.25      |
-| Massy                      |         3 |  0.666667  |
+| Clermont Auvergne          |         4 |  0.25      |
+| Bordeaux Begles            |         4 |  0.25      |
 | La Rochelle                |         3 |  0.333333  |
 | Grenoble                   |         3 |  0.333333  |
-| London Irish               |         2 |  0.5       |
-| Bizkaia Gernika RT         |         2 |  1         |
+| Massy                      |         3 |  0.666667  |
 | Nice                       |         2 |  1         |
+| Bizkaia Gernika RT         |         2 |  1         |
+| London Irish               |         2 |  0.5       |
+| Chambery                   |         2 |  1         |
 | Lyon                       |         2 |  0         |
 | Stade Toulousain           |         2 |  0.5       |
-| Carqueiranne-Hyères        |         1 |  1         |
 | Valence Romans Drome Rugby |         1 |  1         |
-| Blagnac                    |         1 |  1         |
+| Carqueiranne-Hyères        |         1 |  1         |
 | Tarbes                     |         1 |  0         |
 | Suresnes                   |         1 |  1         |
+| Blagnac                    |         1 |  1         |
 | Rennes                     |         1 |  1         |
 | Scarlets                   |         1 |  0         |
 | Rovigo                     |         1 |  1         |
 | Rouen                      |         1 |  1         |
-| Chambery                   |         1 |  1         |
 | Cognac Saint Jean d'Angély |         1 |  1         |
 | Edinburgh                  |         1 |  0         |
 | Gloucester Rugby           |         1 |  0         |

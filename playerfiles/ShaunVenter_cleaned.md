@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shaun Venter  
-date: 2023-01-15 11:55:29.819626  
+date: 2023-02-02 18:58:35.555736  
 categories: player  
 ---
 # Shaun Venter
@@ -27,7 +27,7 @@ categories: player
 | Bayonne             |            24 |   0.666667 |
 | Ospreys             |            22 |   0.272727 |
 | Southern Kings      |            16 |   0.21875  |
-| Montauban           |             8 |   0.5      |
+| Montauban           |             9 |   0.444444 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -54,7 +54,7 @@ categories: player
 | Crusaders                |         4 |   0        |
 | Cardiff Blues            |         4 |   0.25     |
 | New South Wales Waratahs |         3 |   0        |
-| Mont-de-Marsan           |         3 |   0.333333 |
+| Melbourne Rebels         |         3 |   0.333333 |
 | Benetton Treviso         |         3 |   0.666667 |
 | Western Force            |         3 |   0.666667 |
 | Valke                    |         3 |   1        |
@@ -65,13 +65,14 @@ categories: player
 | Brumbies                 |         3 |   0.5      |
 | Nevers                   |         3 |   0.833333 |
 | Carcassonne              |         3 |   0.333333 |
+| Mont-de-Marsan           |         3 |   0.333333 |
 | Agen                     |         3 |   0.833333 |
-| Melbourne Rebels         |         3 |   0.333333 |
 | Free State Cheetahs      |         3 |   0        |
 | Connacht                 |         3 |   0        |
 | Cheetahs                 |         3 |   0        |
 | Hurricanes               |         3 |   0        |
 | Highlanders              |         3 |   0.333333 |
+| SWD Eagles               |         2 |   0.5      |
 | Montauban                |         2 |   1        |
 | Edinburgh                |         2 |   0.5      |
 | Beziers                  |         2 |   0.5      |
@@ -79,7 +80,7 @@ categories: player
 | Blues                    |         2 |   0        |
 | Grenoble                 |         2 |   0.5      |
 | Saracens                 |         2 |   0        |
-| SWD Eagles               |         2 |   0.5      |
+| Dragons                  |         2 |   0.5      |
 | Racing 92                |         2 |   0        |
 | Queensland Reds          |         2 |   0        |
 | Provence Rugby           |         2 |   0.5      |
@@ -87,7 +88,6 @@ categories: player
 | Jaguares                 |         2 |   0        |
 | Aurillac                 |         2 |   0.5      |
 | Narbonne                 |         2 |   1        |
-| Dragons                  |         2 |   0.5      |
 | Rouen                    |         1 |   1        |
 | Griffons                 |         1 |   1        |
 | Biarritz Olympique       |         1 |   0        |
@@ -95,3 +95,4 @@ categories: player
 | Vannes                   |         1 |   1        |
 | Castres Olympique        |         1 |   1        |
 | Worcester Warriors       |         1 |   1        |
+| Massy                    |         1 |   0        |

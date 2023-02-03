@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastien Taofifenua  
-date: 2023-01-21 15:44:53.103214  
+date: 2023-02-02 18:47:53.624538  
 categories: player  
 ---
 # Sebastien Taofifenua
@@ -26,14 +26,14 @@ categories: player
 | Bordeaux Begles |            92 |   0.478261 |
 | Perpignan       |            56 |   0.473214 |
 | Toulon          |            53 |   0.528302 |
-| Lyon            |            24 |   0.5      |
+| Lyon            |            25 |   0.52     |
 | France          |             2 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montpellier Herault  |        17 |   0.441176 |
 | Stade Francais Paris |        17 |   0.411765 |
-| Clermont Auvergne    |        15 |   0.366667 |
+| Clermont Auvergne    |        16 |   0.40625  |
 | Racing 92            |        14 |   0.392857 |
 | Toulon               |        14 |   0.214286 |
 | La Rochelle          |        14 |   0.285714 |

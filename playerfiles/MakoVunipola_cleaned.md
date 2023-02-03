@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mako Vunipola  
-date: 2023-01-06 00:24:28.872831  
+date: 2023-02-02 18:55:57.595854  
 categories: player  
 ---
 # Mako Vunipola
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 97.0
 
-## Current Percentile: 94.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           207 |   0.804348 |
+| Saracens                |           209 |   0.80622  |
 | England                 |            71 |   0.711268 |
 | British and Irish Lions |            12 |   0.625    |
 
@@ -37,11 +37,11 @@ categories: player
 | Sale Sharks         |        13 |   0.846154 |
 | Wasps               |        12 |   0.916667 |
 | Leicester Tigers    |        11 |   0.863636 |
+| Gloucester Rugby    |        11 |   0.636364 |
 | London Irish        |        10 |   0.75     |
 | Newcastle Falcons   |        10 |   1        |
 | Ireland             |        10 |   0.6      |
 | Worcester Warriors  |        10 |   1        |
-| Gloucester Rugby    |        10 |   0.6      |
 | France              |         9 |   0.666667 |
 | South Africa        |         9 |   0.222222 |
 | Italy               |         8 |   1        |
@@ -58,11 +58,11 @@ categories: player
 | Stade Toulousain    |         4 |   0.5      |
 | Ospreys             |         3 |   0.833333 |
 | Toulon              |         3 |   0.333333 |
+| Lyon                |         3 |   1        |
 | London Welsh        |         3 |   1        |
 | Leinster            |         3 |   0.666667 |
 | Glasgow Warriors    |         3 |   1        |
 | Fiji                |         3 |   1        |
-| Lyon                |         2 |   1        |
 | Oyonnax             |         2 |   1        |
 | Connacht            |         2 |   1        |
 | Cardiff Blues       |         2 |   1        |

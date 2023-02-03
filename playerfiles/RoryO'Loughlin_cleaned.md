@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory O'Loughlin  
-date: 2023-01-06 00:09:11.651737  
+date: 2023-02-02 18:42:00.233633  
 categories: player  
 ---
 # Rory O'Loughlin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 109.0
+## Current elo: 91.0
 
-## Current Percentile: 67.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Leinster      |            93 |   0.763441 |
-| Exeter Chiefs |            12 |   0.583333 |
+| Exeter Chiefs |            16 |   0.625    |
 | Ireland       |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -34,26 +34,26 @@ categories: player
 | Ulster              |         8 |   0.75     |
 | Connacht            |         7 |   0.857143 |
 | Glasgow Warriors    |         7 |   0.714286 |
-| Dragons             |         6 |   1        |
 | Scarlets            |         6 |   0.583333 |
-| Zebre               |         5 |   1        |
-| Cardiff Blues       |         5 |   0.8      |
+| Dragons             |         6 |   1        |
 | Edinburgh           |         5 |   0.8      |
+| Cardiff Blues       |         5 |   0.8      |
 | Saracens            |         5 |   0.2      |
+| Zebre               |         5 |   1        |
+| Bulls               |         4 |   0.5      |
 | Ospreys             |         4 |   0.5      |
-| Bulls               |         3 |   0.666667 |
+| Northampton Saints  |         4 |   0.75     |
 | Stade Toulousain    |         3 |   0.666667 |
+| Castres Olympique   |         3 |   0.833333 |
 | Southern Kings      |         3 |   1        |
-| Northampton Saints  |         3 |   0.666667 |
 | Bath Rugby          |         2 |   1        |
-| Castres Olympique   |         2 |   0.75     |
+| Gloucester Rugby    |         2 |   0.5      |
 | London Irish        |         1 |   1        |
 | Leicester Tigers    |         1 |   1        |
-| Japan               |         1 |   1        |
 | Racing 92           |         1 |   1        |
 | Sale Sharks         |         1 |   0        |
+| Japan               |         1 |   1        |
 | Harlequins          |         1 |   1        |
-| Gloucester Rugby    |         1 |   0        |
 | Sharks              |         1 |   0        |
 | Cheetahs            |         1 |   0        |
 | Stormers            |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Allardice  
-date: 2023-01-25 18:59:12.397439  
+date: 2023-02-02 18:47:34.449445  
 categories: player  
 ---
 # Michael Allardice
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Chiefs
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 68.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------|--------------:|-----------:|
 | Hawke's Bay     |            55 |   0.581818 |
 | Chiefs          |            45 |   0.555556 |
-| Toyota Verblitz |             7 |   0.428571 |
+| Toyota Verblitz |             8 |   0.5      |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
@@ -37,30 +37,31 @@ categories: player
 | North Harbour                   |         5 |   0.4      |
 | Highlanders                     |         5 |   0.3      |
 | New South Wales Waratahs        |         4 |   0.75     |
-| Manawatu                        |         4 |   0.5      |
 | Brumbies                        |         4 |   0.5      |
-| Tasman                          |         4 |   0        |
+| Manawatu                        |         4 |   0.5      |
 | Wellington                      |         4 |   0.875    |
 | Counties Manukau                |         4 |   0.75     |
-| Taranaki                        |         3 |   0.333333 |
-| Jaguares                        |         3 |   0.666667 |
+| Tasman                          |         4 |   0        |
 | Waikato                         |         3 |   0.333333 |
+| Jaguares                        |         3 |   0.666667 |
 | Canterbury                      |         3 |   0        |
+| Taranaki                        |         3 |   0.333333 |
 | Blues                           |         3 |   1        |
+| Sharks                          |         2 |   0        |
 | Toshiba Brave Lupus Tokyo       |         2 |   0        |
+| Stormers                        |         2 |   1        |
 | Melbourne Rebels                |         2 |   0.5      |
 | Sunwolves                       |         2 |   0.5      |
 | Crusaders                       |         2 |   0.5      |
-| Sharks                          |         2 |   0        |
 | Bulls                           |         2 |   1        |
-| Stormers                        |         2 |   1        |
 | Tokyo Sungoliath                |         1 |   0        |
 | Western Force                   |         1 |   1        |
 | Auckland                        |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka |         1 |   1        |
 | Southern Kings                  |         1 |   1        |
 | Shizuoka Blue Revs              |         1 |   1        |
-| NTT Docomo Red Hurricanes Osaka |         1 |   1        |
 | Lions                           |         1 |   0        |
+| Kobelco Kobe Steelers           |         1 |   1        |
 | Green Rockets Tokatsu           |         1 |   1        |
 | Cheetahs                        |         1 |   1        |
 | British and Irish Lions         |         1 |   0        |

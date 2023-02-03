@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Tichit  
-date: 2023-01-17 11:35:36.574108  
+date: 2023-02-02 18:46:24.646919  
 categories: player  
 ---
 # Antoine Tichit
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 95.0
 
-## Current Percentile: 71.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           170 |   0.555882 |
+| Castres Olympique |           172 |   0.555233 |
 | Oyonnax           |           110 |   0.572727 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |        18 |   0.5      |
+| Bordeaux Begles      |        18 |   0.527778 |
 | Montpellier Herault  |        18 |   0.444444 |
 | Toulon               |        17 |   0.411765 |
-| Bordeaux Begles      |        17 |   0.5      |
 | Pau                  |        16 |   0.75     |
 | Brive                |        15 |   0.6      |
 | Racing 92            |        15 |   0.6      |
@@ -46,11 +46,11 @@ categories: player
 | Munster              |         5 |   0.3      |
 | Biarritz Olympique   |         5 |   0.8      |
 | Tarbes               |         5 |   0.8      |
+| Exeter Chiefs        |         4 |   0.25     |
 | Perpignan            |         4 |   0.75     |
 | Castres Olympique    |         4 |   0.5      |
 | Dax                  |         4 |   0.75     |
 | Gloucester Rugby     |         3 |   0.333333 |
-| Exeter Chiefs        |         3 |   0.333333 |
 | Sale Sharks          |         3 |   0        |
 | Colomiers            |         3 |   0.166667 |
 | Oyonnax              |         3 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kenta Matsuoka  
-date: 2023-01-13 11:34:09.026962  
+date: 2023-02-02 18:56:28.606036  
 categories: player  
 ---
 # Kenta Matsuoka
 
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 44.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             3 |   0.666667 |
+| Kobelco Kobe Steelers |             5 |        0.4 |
 
-| Opponent                 |   Matches |   Win Rate |
-|:-------------------------|----------:|-----------:|
-| Green Rockets Tokatsu    |         1 |          1 |
-| Hanazono Kintetsu Liners |         1 |          1 |
-| Yokohama Canon Eagles    |         1 |          0 |
+| Opponent                          |   Matches |   Win Rate |
+|:----------------------------------|----------:|-----------:|
+| Green Rockets Tokatsu             |         1 |          1 |
+| Hanazono Kintetsu Liners          |         1 |          1 |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
+| Toyota Verblitz                   |         1 |          0 |
+| Yokohama Canon Eagles             |         1 |          0 |

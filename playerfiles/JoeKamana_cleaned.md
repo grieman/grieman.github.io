@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Kamana  
-date: 2023-01-17 11:28:46.887457  
+date: 2023-02-02 18:55:26.016163  
 categories: player  
 ---
 # Joe Kamana
 
 ## Positions: C, W
 
-## Current elo: 57.0
+## Current elo: 61.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 |:---------------------------------|--------------:|-----------:|
 | Mazda Blue Zoomers               |            17 |   0.382353 |
 | Melbourne Rising                 |             9 |   0.888889 |
-| Toyota Industries Shuttles Aichi |             3 |   0.666667 |
+| Toyota Industries Shuttles Aichi |             4 |   0.75     |
 | Coca-Cola Red Sparks             |             2 |   0.5      |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
+| Kamaishi Seawaves                |         4 |   0.625    |
 | Kyuden Voltex                    |         3 |   0.666667 |
 | Chugoku Red Regulions            |         3 |   0.666667 |
-| Kamaishi Seawaves                |         3 |   0.5      |
 | Toyota Industries Shuttles Aichi |         2 |   0        |
 | Shimizu Blue Sharks              |         2 |   1        |
 | Hino Red Dolphins                |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Garry Ringrose  
-date: 2023-01-15 11:44:50.120574  
+date: 2023-02-02 19:07:22.087926  
 categories: player  
 ---
 # Garry Ringrose
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 87.0
+## Current elo: 88.0
 
-## Current Percentile: 25.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            98 |   0.811224 |
+| Leinster |            99 |   0.813131 |
 | Ireland  |            48 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -48,11 +48,11 @@ categories: player
 | Saracens                 |         3 |   0.333333 |
 | Stade Toulousain         |         3 |   0.666667 |
 | Australia                |         3 |   1        |
+| Racing 92                |         3 |   1        |
 | Bath Rugby               |         3 |   1        |
 | Zebre                    |         3 |   1        |
 | Ospreys                  |         2 |   1        |
 | United States of America |         2 |   1        |
-| Racing 92                |         2 |   1        |
 | Lyon                     |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
 | Gloucester Rugby         |         2 |   1        |

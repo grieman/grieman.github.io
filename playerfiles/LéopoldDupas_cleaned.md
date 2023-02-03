@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Léopold Dupas  
-date: 2023-01-15 11:53:36.390426  
+date: 2023-02-02 18:53:28.435973  
 categories: player  
 ---
 # Léopold Dupas
 
 ## Positions: SH
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 13.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            30 |   0.616667 |
+| Valence Romans Drome Rugby |            32 |   0.640625 |
 | Colomiers                  |            15 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -40,10 +40,12 @@ categories: player
 | Grenoble                   |         2 |   1        |
 | Oyonnax                    |         2 |   0        |
 | Albi                       |         2 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Aubenas                    |         1 |   1        |
 | Biarritz Olympique         |         1 |   0        |
 | Beziers                    |         1 |   0        |
 | Bayonne                    |         1 |   0        |
 | Narbonne                   |         1 |   1        |
 | Aurillac                   |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

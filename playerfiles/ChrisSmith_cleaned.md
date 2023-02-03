@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Chris Smith  
-date: 2023-01-06 00:18:47.865592  
+date: 2023-02-02 18:53:31.765596  
 categories: player  
 ---
 # Chris Smith
 
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 112.0
 
-## Current Percentile: 63.0
+## Current Percentile: 91.0
 
 # Elo History
 

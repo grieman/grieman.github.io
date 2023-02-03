@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Turnbull  
-date: 2023-01-06 00:13:37.795285  
+date: 2023-02-02 18:39:18.716260  
 categories: player  
 ---
 # Josh Turnbull
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 108.0
+## Current elo: 85.0
 
-## Current Percentile: 72.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -23,22 +23,22 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |           178 |   0.491573 |
+| Cardiff Blues |           181 |   0.48895  |
 | Scarlets      |           116 |   0.443966 |
 | Wales         |            11 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Leinster             |        22 |  0.113636  |
 | Ospreys              |        22 |  0.0909091 |
 | Dragons              |        22 |  0.863636  |
-| Leinster             |        21 |  0.119048  |
 | Glasgow Warriors     |        21 |  0.238095  |
 | Munster              |        20 |  0.375     |
 | Connacht             |        20 |  0.625     |
 | Benetton Treviso     |        19 |  0.684211  |
 | Ulster               |        19 |  0.263158  |
 | Edinburgh            |        17 |  0.352941  |
-| Scarlets             |        14 |  0.571429  |
+| Scarlets             |        15 |  0.533333  |
 | Zebre                |        12 |  0.791667  |
 | Cardiff Blues        |        10 |  0.6       |
 | Harlequins           |         7 |  0.214286  |
@@ -50,9 +50,10 @@ categories: player
 | Lyon                 |         4 |  1         |
 | Clermont Auvergne    |         4 |  0         |
 | Aironi               |         3 |  1         |
-| Brive                |         3 |  0.666667  |
+| Newcastle Falcons    |         3 |  1         |
 | Northampton Saints   |         3 |  0         |
-| Racing 92            |         2 |  0.75      |
+| Brive                |         3 |  0.666667  |
+| Grenoble             |         2 |  1         |
 | Stormers             |         2 |  0.5       |
 | Stade Francais Paris |         2 |  0.5       |
 | Southern Kings       |         2 |  1         |
@@ -60,12 +61,11 @@ categories: player
 | Sharks               |         2 |  1         |
 | Saracens             |         2 |  0         |
 | Sale Sharks          |         2 |  0.5       |
-| Grenoble             |         2 |  1         |
 | Rovigo               |         2 |  1         |
+| Racing 92            |         2 |  0.75      |
 | Perpignan            |         2 |  0.5       |
 | Bulls                |         2 |  0         |
 | Calvisano            |         2 |  1         |
-| Newcastle Falcons    |         2 |  1         |
 | Montpellier Herault  |         2 |  0.5       |
 | Lions                |         2 |  0         |
 | Gloucester Rugby     |         2 |  1         |

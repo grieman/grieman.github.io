@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tim Bennetts  
-date: 2023-01-13 11:28:29.433531  
+date: 2023-02-02 19:11:05.638246  
 categories: player  
 ---
 # Tim Bennetts
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 42.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -23,10 +23,10 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            39 |   0.435897 |
-| Green Rockets Tokatsu |             9 |   0.111111 |
-| Munakata Sanix Blues  |             6 |   0.333333 |
-| Japan                 |             3 |   0.333333 |
+| Yokohama Canon Eagles |            39 |  0.435897  |
+| Green Rockets Tokatsu |            12 |  0.0833333 |
+| Munakata Sanix Blues  |             6 |  0.333333  |
+| Japan                 |             3 |  0.333333  |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -39,11 +39,11 @@ categories: player
 | NTT Docomo Red Hurricanes Osaka   |         4 |   1        |
 | Hanazono Kintetsu Liners          |         4 |   0.75     |
 | Coca-Cola Red Sparks              |         4 |   1        |
+| Yokohama Canon Eagles             |         4 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0        |
+| Shizuoka Blue Revs                |         3 |   0.333333 |
 | Green Rockets Tokatsu             |         3 |   0.333333 |
-| Yokohama Canon Eagles             |         3 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
 | Scotland                          |         2 |   0        |
-| Shizuoka Blue Revs                |         2 |   0.5      |
 | Toyota Industries Shuttles Aichi  |         2 |   1        |
 | Kyuden Voltex                     |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   1        |

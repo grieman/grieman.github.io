@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jean-Étienne Lesueur  
-date: 2023-01-13 11:34:57.619234  
+date: 2023-02-02 18:55:02.545062  
 categories: player  
 ---
 # Jean-Étienne Lesueur
 
 ## Positions: H
 
-## Current elo: 81.0
+## Current elo: 79.0
 
 ## Current Percentile: 18.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            47 |   0.308511 |
+| Rouen  |            48 |   0.302083 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Oyonnax                    |         5 |   0.4      |
+| Carcassonne                |         4 |   0        |
 | Colomiers                  |         4 |   0.25     |
 | Grenoble                   |         4 |   0.5      |
 | Beziers                    |         3 |   0.333333 |
-| Carcassonne                |         3 |   0        |
 | Mont-de-Marsan             |         3 |   0        |
 | Aurillac                   |         3 |   0.333333 |
 | Nevers                     |         3 |   0        |

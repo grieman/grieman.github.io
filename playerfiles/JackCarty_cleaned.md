@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Carty  
-date: 2023-01-06 00:14:42.334343  
+date: 2023-02-02 18:48:48.258549  
 categories: player  
 ---
 # Jack Carty
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 112.0
+## Current elo: 97.0
 
-## Current Percentile: 75.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           181 |   0.48895  |
+| Connacht |           184 |   0.497283 |
 | Ireland  |            11 |   0.636364 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -39,32 +39,32 @@ categories: player
 | Dragons              |        10 |  0.7       |
 | Edinburgh            |        10 |  0.4       |
 | Ospreys              |        10 |  0.4       |
+| Brive                |         5 |  0.8       |
 | Cheetahs             |         4 |  0.75      |
 | Stade Toulousain     |         4 |  0.25      |
 | Gloucester Rugby     |         4 |  0.25      |
 | Southern Kings       |         4 |  1         |
-| Brive                |         4 |  0.75      |
 | Wales                |         3 |  0.666667  |
-| Newcastle Falcons    |         2 |  0.5       |
+| Sharks               |         2 |  0.5       |
 | Sale Sharks          |         2 |  0.5       |
 | RC Enisei            |         2 |  1         |
 | Wasps                |         2 |  0.5       |
 | Stade Francais Paris |         2 |  0.5       |
 | Montpellier Herault  |         2 |  0.5       |
-| France               |         2 |  0.5       |
-| Leicester Tigers     |         2 |  0         |
-| La Rochelle          |         2 |  1         |
-| Bordeaux Begles      |         2 |  1         |
+| Newcastle Falcons    |         2 |  0.5       |
 | Exeter Chiefs        |         2 |  0         |
+| Lions                |         2 |  1         |
+| Leicester Tigers     |         2 |  0         |
+| Bordeaux Begles      |         2 |  1         |
+| La Rochelle          |         2 |  1         |
 | Italy                |         2 |  1         |
-| Lions                |         1 |  1         |
+| France               |         2 |  0.5       |
 | Worcester Warriors   |         1 |  1         |
 | Bulls                |         1 |  1         |
 | England              |         1 |  0         |
-| Sharks               |         1 |  0         |
+| Japan                |         1 |  0         |
 | Perpignan            |         1 |  1         |
 | Scotland             |         1 |  1         |
-| Japan                |         1 |  0         |
 | Saracens             |         1 |  0         |
 | Russia               |         1 |  1         |
 | Bayonne              |         1 |  1         |

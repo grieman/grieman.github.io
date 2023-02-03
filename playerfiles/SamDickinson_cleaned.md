@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Dickinson  
-date: 2023-01-13 11:31:01.672748  
+date: 2023-02-02 18:56:42.583086  
 categories: player  
 ---
 # Sam Dickinson
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Northampton Saints  |            97 |   0.659794 |
 | Ealing Trailfinders |            17 |   0.705882 |
-| Caldy               |            11 |   0.272727 |
+| Caldy               |            14 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -38,20 +38,20 @@ categories: player
 | London Irish        |         6 |   0.833333 |
 | Sale Sharks         |         6 |   0.5      |
 | Gloucester Rugby    |         6 |   0.583333 |
+| Bedford             |         4 |   0.75     |
 | Scarlets            |         3 |   1        |
 | Jersey              |         3 |   0.666667 |
-| Bedford             |         3 |   0.666667 |
+| Nottingham          |         3 |   0.666667 |
 | Doncaster           |         3 |   0.333333 |
 | Racing 92           |         3 |   0.166667 |
 | Cornish Pirates     |         3 |   0.333333 |
+| Richmond            |         3 |   0.666667 |
 | Coventry            |         3 |   0.666667 |
 | Hartpury College    |         2 |   0.5      |
 | Castres Olympique   |         2 |   0.5      |
-| Richmond            |         2 |   0.5      |
 | Benetton Treviso    |         2 |   1        |
 | London Scottish     |         2 |   0.5      |
 | London Welsh        |         2 |   1        |
-| Nottingham          |         2 |   0.5      |
 | Ospreys             |         2 |   1        |
 | Leinster            |         2 |   0.5      |
 | Rotherham Titans    |         1 |   1        |

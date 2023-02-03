@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aitzol King  
-date: 2023-01-30 11:48:29.873651  
+date: 2023-02-02 18:42:23.331094  
 categories: player  
 ---
 # Aitzol King

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jack Walker  
-date: 2023-01-06 00:24:39.670308  
+date: 2023-02-02 19:14:28.742616  
 categories: player  
 ---
 # Jack Walker
 
 ## Positions: H
 
-## Current elo: 105.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Bath Rugby      |            84 |   0.458333 |
-| Harlequins      |            35 |   0.571429 |
+| Harlequins      |            38 |   0.552632 |
 | London Scottish |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -37,15 +37,16 @@ categories: player
 | Bristol Rugby      |         8 |   0.375    |
 | Worcester Warriors |         8 |   1        |
 | London Irish       |         7 |   0.714286 |
+| Sale Sharks        |         7 |   0.357143 |
 | Harlequins         |         6 |   0.5      |
-| Sale Sharks        |         6 |   0.416667 |
 | Cardiff Blues      |         3 |   0.666667 |
 | Bath Rugby         |         3 |   0.666667 |
 | Leinster           |         2 |   0        |
 | Clermont Auvergne  |         2 |   0        |
+| Sharks             |         2 |   0.5      |
 | Stade Toulousain   |         2 |   0        |
 | Ulster             |         2 |   0        |
+| Racing 92          |         1 |   0        |
 | Rotherham Titans   |         1 |   1        |
 | Castres Olympique  |         1 |   1        |
 | Scarlets           |         1 |   1        |
-| Sharks             |         1 |   0        |

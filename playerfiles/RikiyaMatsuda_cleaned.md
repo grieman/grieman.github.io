@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rikiya Matsuda  
-date: 2023-01-13 11:36:47.802133  
+date: 2023-02-02 18:48:04.051969  
 categories: player  
 ---
 # Rikiya Matsuda
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 96.0
+## Current elo: 99.0
 
-## Current Percentile: 46.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            43 |   0.965116 |
+| Saitama Wild Knights |            46 |   0.967391 |
 | Japan                |            23 |   0.391304 |
 | Sunwolves            |            10 |   0.2      |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Yokohama Canon Eagles             |         5 |   1        |
-| Ireland                           |         5 |   0.2      |
+| Yokohama Canon Eagles             |         6 |   1        |
 | Shizuoka Blue Revs                |         5 |   1        |
+| Ireland                           |         5 |   0.2      |
+| Black Rams Tokyo                  |         5 |   0.8      |
 | Toshiba Brave Lupus Tokyo         |         4 |   1        |
+| Toyota Verblitz                   |         4 |   1        |
 | Scotland                          |         4 |   0.25     |
-| Black Rams Tokyo                  |         4 |   0.75     |
-| Toyota Verblitz                   |         3 |   1        |
 | Kobelco Kobe Steelers             |         3 |   0.833333 |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |

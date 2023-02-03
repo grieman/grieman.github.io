@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Louis Bielle-Biarrey  
-date: 2023-01-06 00:08:35.052408  
+date: 2023-02-02 19:02:10.575281  
 categories: player  
 ---
 # Louis Bielle-Biarrey
 
 ## Positions: FB, W
 
-## Current elo: 103.0
+## Current elo: 97.0
 
-## Current Percentile: 26.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,15 +21,16 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            16 |     0.4375 |
+| Bordeaux Begles |            18 |   0.444444 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Castres Olympique    |         2 |        0.5 |
 | Pau                  |         2 |        0   |
 | Stade Toulousain     |         2 |        0   |
 | Toulon               |         2 |        0.5 |
+| Bayonne              |         1 |        1   |
 | Brive                |         1 |        1   |
-| Castres Olympique    |         1 |        1   |
 | Clermont Auvergne    |         1 |        0   |
 | La Rochelle          |         1 |        1   |
 | Lyon                 |         1 |        0   |

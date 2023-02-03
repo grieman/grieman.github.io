@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Herschel Jantjies  
-date: 2023-01-23 15:31:52.028275  
+date: 2023-02-02 19:11:25.632319  
 categories: player  
 ---
 # Herschel Jantjies
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            43 |   0.72093  |
+| Stormers         |            44 |   0.704545 |
 | South Africa     |            24 |   0.6875   |
 | Western Province |             9 |   0.888889 |
 | Scarlets         |             1 |   0        |
@@ -36,17 +36,17 @@ categories: player
 | Lions                   |         4 |   0.75     |
 | British and Irish Lions |         3 |   0.666667 |
 | Wales                   |         3 |   1        |
+| Ulster                  |         3 |   0.666667 |
 | Australia               |         3 |   0.333333 |
 | Jaguares                |         3 |   0.666667 |
 | Zebre                   |         2 |   1        |
-| Edinburgh               |         2 |   1        |
+| England                 |         2 |   0.5      |
 | Hurricanes              |         2 |   0.5      |
 | Pumas                   |         2 |   1        |
 | Free State Cheetahs     |         2 |   1        |
-| England                 |         2 |   0.5      |
 | Clermont Auvergne       |         2 |   0.5      |
+| Edinburgh               |         2 |   1        |
 | Japan                   |         2 |   1        |
-| Ulster                  |         2 |   1        |
 | Blues                   |         2 |   0        |
 | Blue Bulls              |         2 |   0.5      |
 | Griquas                 |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Walker  
-date: 2023-01-27 11:07:41.154836  
+date: 2023-02-02 18:41:27.155474  
 categories: player  
 ---
 # Henry Walker
@@ -21,12 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |            49 |   0.326531 |
-| Hartpury College |             8 |   0.5      |
+| Gloucester Rugby |            50 |       0.32 |
+| Hartpury College |             8 |       0.5  |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Exeter Chiefs       |         7 |   0.428571 |
+| Exeter Chiefs       |         8 |   0.375    |
 | Sale Sharks         |         6 |   0        |
 | Leicester Tigers    |         6 |   0.166667 |
 | Northampton Saints  |         4 |   0.25     |

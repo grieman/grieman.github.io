@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ollie Hassell-Collins  
-date: 2023-01-06 00:20:39.230561  
+date: 2023-02-02 18:58:27.986186  
 categories: player  
 ---
 # Ollie Hassell-Collins
 
 ## Positions: W
 
-## Current elo: 103.0
+## Current elo: 94.0
 
-## Current Percentile: 69.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            83 |    0.36747 |
+| London Irish |            86 |   0.372093 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,19 +33,19 @@ categories: player
 | Wasps               |         6 |   0.416667 |
 | Northampton Saints  |         6 |   0.166667 |
 | Worcester Warriors  |         6 |   0.333333 |
+| Bristol Rugby       |         5 |   0.3      |
 | Saracens            |         5 |   0.5      |
-| Bristol Rugby       |         4 |   0.125    |
 | Bath Rugby          |         4 |   0.5      |
 | Newcastle Falcons   |         4 |   0.75     |
 | Toulon              |         2 |   0        |
+| Stormers            |         2 |   0        |
+| Montpellier Herault |         2 |   0.25     |
 | Scarlets            |         2 |   0        |
 | Bedford             |         1 |   1        |
 | Bayonne             |         1 |   1        |
-| Stormers            |         1 |   0        |
 | Edinburgh           |         1 |   1        |
 | Pau                 |         1 |   1        |
 | Coventry            |         1 |   1        |
-| Montpellier Herault |         1 |   0        |
 | London Scottish     |         1 |   1        |
 | Jersey              |         1 |   0        |
 | Cornish Pirates     |         1 |   1        |

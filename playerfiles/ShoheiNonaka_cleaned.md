@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shohei Nonaka  
-date: 2023-01-30 17:52:18.561530  
+date: 2023-02-02 18:43:29.741773  
 categories: player  
 ---
 # Shohei Nonaka

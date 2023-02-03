@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Baldwin  
-date: 2023-01-13 11:30:43.318323  
+date: 2023-02-02 18:54:12.883414  
 categories: player  
 ---
 # Scott Baldwin
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Ospreys            |           188 |   0.550532 |
+| Ospreys            |           190 |   0.555263 |
 | Harlequins         |            38 |   0.565789 |
 | Wales              |            35 |   0.557143 |
 | Worcester Warriors |            12 |   0.291667 |
@@ -44,8 +44,8 @@ categories: player
 | Exeter Chiefs        |         9 |   0.333333 |
 | Connacht             |         9 |   0.666667 |
 | Bristol Rugby        |         6 |   0.333333 |
+| Leicester Tigers     |         6 |   0.416667 |
 | Newcastle Falcons    |         6 |   0.583333 |
-| Leicester Tigers     |         5 |   0.3      |
 | Worcester Warriors   |         5 |   0.2      |
 | Bath Rugby           |         5 |   0.4      |
 | England              |         5 |   0.2      |
@@ -71,6 +71,7 @@ categories: player
 | Aironi               |         2 |   1        |
 | Racing 92            |         2 |   0.25     |
 | Bordeaux Begles      |         2 |   0.5      |
+| Montpellier Herault  |         2 |   1        |
 | Lyon                 |         2 |   1        |
 | Harlequins           |         2 |   0        |
 | Lions                |         2 |   0        |
@@ -79,7 +80,6 @@ categories: player
 | Sharks               |         1 |   0        |
 | Grenoble             |         1 |   1        |
 | Southern Kings       |         1 |   1        |
-| Montpellier Herault  |         1 |   1        |
 | Stormers             |         1 |   0.5      |
 | Uruguay              |         1 |   1        |
 | Argentina            |         1 |   1        |

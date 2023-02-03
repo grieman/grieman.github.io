@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Christophe Loustalot  
-date: 2023-01-13 11:37:21.200197  
+date: 2023-02-02 19:13:43.130902  
 categories: player  
 ---
 # Christophe Loustalot
 
 ## Positions: SH
 
-## Current elo: 71.0
+## Current elo: 79.0
 
 ## Current Percentile: 4.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |           127 |   0.559055 |
+| Mont-de-Marsan |           129 |   0.565891 |
 | Bayonne        |            31 |   0.370968 |
 | Grenoble       |            17 |   0.411765 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Grenoble                   |        10 |   0.4      |
+| Oyonnax                    |        10 |   0.55     |
 | Biarritz Olympique         |         9 |   0.5      |
-| Oyonnax                    |         9 |   0.5      |
 | Vannes                     |         9 |   0.555556 |
 | Aurillac                   |         9 |   0.666667 |
 | Carcassonne                |         9 |   0.777778 |
@@ -39,11 +39,11 @@ categories: player
 | Montauban                  |         7 |   0.571429 |
 | Beziers                    |         6 |   0.666667 |
 | Rouen                      |         6 |   0.833333 |
+| Massy                      |         5 |   0.8      |
 | Perpignan                  |         5 |   0.6      |
 | Colomiers                  |         5 |   0.4      |
 | Stade Francais Paris       |         4 |   0.5      |
 | Racing 92                  |         4 |   0        |
-| Massy                      |         4 |   0.75     |
 | Narbonne                   |         4 |   0.5      |
 | Agen                       |         4 |   0.75     |
 | Brive                      |         4 |   0.5      |

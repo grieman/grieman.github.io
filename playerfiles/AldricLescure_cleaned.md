@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aldric Lescure  
-date: 2023-01-13 11:39:00.895823  
+date: 2023-02-02 18:56:53.882724  
 categories: player  
 ---
 # Aldric Lescure

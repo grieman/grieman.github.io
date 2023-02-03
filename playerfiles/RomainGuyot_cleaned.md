@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain Guyot  
-date: 2023-01-17 11:32:05.957519  
+date: 2023-02-02 18:43:12.011765  
 categories: player  
 ---
 # Romain Guyot
@@ -21,26 +21,26 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Chambery    |            36 |   0.444444 |
+| Chambery    |            38 |   0.447368 |
 | Carcassonne |             5 |   0.2      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Cognac Saint Jean d'Angély |         4 |   0.75     |
 | Tarbes                     |         4 |   0.5      |
 | Albi                       |         3 |   0        |
-| Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Suresnes                   |         3 |   0.666667 |
+| Dax                        |         3 |   0        |
 | Massy                      |         3 |   0        |
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
-| Dax                        |         2 |   0        |
 | Aubenas                    |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
-| Brive                      |         1 |   0        |
 | Colomiers                  |         1 |   0        |
+| Brive                      |         1 |   0        |
 | Dijon                      |         1 |   1        |
 | Montauban                  |         1 |   1        |
 | Narbonne                   |         1 |   1        |

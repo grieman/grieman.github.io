@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Arthur Seigneuret  
-date: 2023-01-13 11:34:50.650809  
+date: 2023-02-02 18:42:51.440328  
 categories: player  
 ---
 # Arthur Seigneuret
 
 ## Positions: C
 
-## Current elo: 108.0
+## Current elo: 110.0
 
 ## Current Percentile: 75.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            15 |        0.6 |
+| Massy  |            17 |   0.588235 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,5 +34,7 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Colomiers                  |         1 |        0   |
 | Grenoble                   |         1 |        0   |
+| Mont-de-Marsan             |         1 |        0   |
+| Montauban                  |         1 |        1   |
 | Valence Romans Drome Rugby |         1 |        1   |
 | Vannes                     |         1 |        1   |

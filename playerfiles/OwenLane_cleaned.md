@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Owen Lane  
-date: 2023-01-06 00:23:04.289439  
+date: 2023-02-02 18:49:49.222947  
 categories: player  
 ---
 # Owen Lane
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 77.0
+## Current elo: 74.0
 
-## Current Percentile: 2.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            71 |   0.450704 |
+| Cardiff Blues |            74 |   0.445946 |
 | Wales         |             5 |   0.1      |
 
 | Opponent          |   Matches |   Win Rate |
@@ -33,16 +33,16 @@ categories: player
 | Connacht          |         5 |   0.6      |
 | Dragons           |         5 |   1        |
 | Edinburgh         |         5 |   0.4      |
-| Scarlets          |         4 |   0.25     |
+| Scarlets          |         5 |   0.2      |
 | Glasgow Warriors  |         4 |   0        |
+| Leinster          |         4 |   0.25     |
 | Benetton Treviso  |         4 |   0.5      |
 | Zebre             |         3 |   0.666667 |
 | Ulster            |         3 |   0.333333 |
 | Cheetahs          |         3 |   0.666667 |
 | Pau               |         3 |   0.666667 |
-| Leinster          |         3 |   0.333333 |
+| Newcastle Falcons |         3 |   0.666667 |
 | Sale Sharks       |         2 |   0.5      |
-| Newcastle Falcons |         2 |   0.5      |
 | New Zealand       |         2 |   0        |
 | Argentina         |         2 |   0.25     |
 | Lyon              |         2 |   1        |

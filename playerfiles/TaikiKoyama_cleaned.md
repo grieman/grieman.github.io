@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Taiki Koyama  
-date: 2023-01-13 11:25:35.824343  
+date: 2023-02-02 19:03:35.727977  
 categories: player  
 ---
 # Taiki Koyama
 
 ## Positions: SH
 
-## Current elo: 121.0
+## Current elo: 126.0
 
-## Current Percentile: 93.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,20 +21,20 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            35 |   0.985714 |
+| Saitama Wild Knights |            38 |   0.986842 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Yokohama Canon Eagles             |         5 |   1        |
+| Yokohama Canon Eagles             |         6 |   1        |
+| Black Rams Tokyo                  |         3 |   1        |
 | Green Rockets Tokatsu             |         3 |   1        |
 | Kobelco Kobe Steelers             |         3 |   0.833333 |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
 | Shizuoka Blue Revs                |         3 |   1        |
 | Toshiba Brave Lupus Tokyo         |         3 |   1        |
-| Black Rams Tokyo                  |         2 |   1        |
+| Toyota Verblitz                   |         3 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   1        |
 | Mitsubishi Dynaboars              |         2 |   1        |
-| Toyota Verblitz                   |         2 |   1        |
 | Urayasu D-Rocks                   |         2 |   1        |
 | Coca-Cola Red Sparks              |         1 |   1        |
 | Hino Red Dolphins                 |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kylian Jaminet  
-date: 2023-01-13 11:32:08.669588  
+date: 2023-02-02 18:49:00.075223  
 categories: player  
 ---
 # Kylian Jaminet
 
 ## Positions: FB, W
 
-## Current elo: 120.0
+## Current elo: 124.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Nevers            |            65 |   0.576923 |
+| Nevers            |            67 |   0.574627 |
 | Colomiers         |            22 |   0.5      |
 | Castres Olympique |             7 |   0.428571 |
 | Toulon            |             1 |   1        |
@@ -30,16 +30,16 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         7 |   0.642857 |
 | Provence Rugby             |         7 |   0.714286 |
+| Vannes                     |         6 |   0.583333 |
 | Mont-de-Marsan             |         6 |   0.666667 |
 | Carcassonne                |         6 |   0.5      |
 | Colomiers                  |         6 |   0        |
-| Vannes                     |         5 |   0.5      |
 | Beziers                    |         5 |   0.8      |
 | Biarritz Olympique         |         5 |   0.9      |
 | Grenoble                   |         5 |   0.2      |
+| Oyonnax                    |         5 |   0        |
 | Aurillac                   |         5 |   0.4      |
 | Rouen                      |         4 |   1        |
-| Oyonnax                    |         4 |   0        |
 | Montauban                  |         4 |   0.75     |
 | Racing 92                  |         3 |   0.666667 |
 | US Bressane                |         3 |   0.666667 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Caolin Blade  
-date: 2023-01-06 00:09:13.728299  
+date: 2023-02-02 19:04:55.866600  
 categories: player  
 ---
 # Caolin Blade
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 102.0
+## Current elo: 93.0
 
-## Current Percentile: 46.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |           152 |   0.503289 |
+| Connacht |           154 |   0.503247 |
 | Ireland  |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -40,10 +40,10 @@ categories: player
 | Cardiff Blues            |         7 |  0.714286  |
 | Glasgow Warriors         |         5 |  0.2       |
 | Cheetahs                 |         5 |  0.8       |
+| Newcastle Falcons        |         4 |  0.5       |
 | Southern Kings           |         4 |  1         |
 | Sale Sharks              |         3 |  0.333333  |
 | Gloucester Rugby         |         3 |  0.333333  |
-| Newcastle Falcons        |         3 |  0.666667  |
 | Stade Toulousain         |         3 |  0.333333  |
 | Worcester Warriors       |         2 |  0.75      |
 | Wasps                    |         2 |  0.5       |
@@ -55,11 +55,11 @@ categories: player
 | Exeter Chiefs            |         2 |  0         |
 | Oyonnax                  |         2 |  1         |
 | Montpellier Herault      |         2 |  0.5       |
+| Lions                    |         2 |  1         |
 | Leicester Tigers         |         2 |  0         |
 | Bayonne                  |         2 |  1         |
 | Brive                    |         1 |  0         |
 | Sharks                   |         1 |  0         |
 | Bulls                    |         1 |  1         |
-| Lions                    |         1 |  1         |
 | United States of America |         1 |  1         |
 | La Rochelle              |         1 |  1         |

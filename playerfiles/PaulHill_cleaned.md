@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Hill  
-date: 2023-01-06 00:09:22.912419  
+date: 2023-02-02 19:02:29.244429  
 categories: player  
 ---
 # Paul Hill
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 112.0
+## Current elo: 101.0
 
-## Current Percentile: 75.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           159 |        0.5 |
-| England            |             8 |        1   |
+| Northampton Saints |           162 |   0.496914 |
+| England            |             8 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Exeter Chiefs       |        15 |   0.4      |
-| Leicester Tigers    |        14 |   0.357143 |
+| Exeter Chiefs       |        16 |   0.375    |
+| Leicester Tigers    |        15 |   0.4      |
 | Saracens            |        13 |   0.153846 |
 | Wasps               |        12 |   0.416667 |
 | Sale Sharks         |        12 |   0.416667 |
@@ -43,12 +43,13 @@ categories: player
 | Leinster            |         4 |   0        |
 | Australia           |         3 |   1        |
 | Scarlets            |         3 |   1        |
-| Castres Olympique   |         2 |   0.5      |
+| Ospreys             |         2 |   0        |
 | Benetton Treviso    |         2 |   1        |
 | Racing 92           |         2 |   0.25     |
 | Glasgow Warriors    |         2 |   1        |
 | Montpellier Herault |         2 |   0.5      |
-| Ospreys             |         2 |   0        |
+| Castres Olympique   |         2 |   0.5      |
+| Munster             |         1 |   0        |
 | Dragons             |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
 | Canada              |         1 |   1        |

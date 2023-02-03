@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Erich de Jager  
-date: 2023-01-21 15:45:06.498089  
+date: 2023-02-02 18:55:47.581848  
 categories: player  
 ---
 # Erich de Jager
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 97.0
 
 ## Current Percentile: 72.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| US Bressane            |            11 |   0.909091 |
+| US Bressane            |            12 |   0.833333 |
 | Free State Cheetahs    |             9 |   0.444444 |
 | Griffons               |             5 |   0.6      |
 | Griquas                |             5 |   0.3      |
@@ -32,9 +32,10 @@ categories: player
 | Blue Bulls                 |         4 |      0.25  |
 | Pumas                      |         4 |      0.875 |
 | Austin Gilgronis           |         2 |      1     |
-| Cognac Saint Jean d'Angély |         2 |      1     |
 | Golden Lions               |         2 |      0     |
+| Blagnac                    |         2 |      0.5   |
 | Western Province           |         2 |      0.5   |
+| Cognac Saint Jean d'Angély |         2 |      1     |
 | Dax                        |         1 |      0     |
 | Rennes                     |         1 |      1     |
 | Valke                      |         1 |      0.5   |
@@ -48,9 +49,8 @@ categories: player
 | Eastern Province Kings     |         1 |      1     |
 | Nice                       |         1 |      1     |
 | Natal Sharks               |         1 |      0     |
-| Blagnac                    |         1 |      1     |
+| Chambery                   |         1 |      1     |
 | L. A. Giltinis             |         1 |      0     |
 | Jaguares XV                |         1 |      0     |
-| Chambery                   |         1 |      1     |
 | Free State Cheetahs        |         1 |      0     |
 | Leopards                   |         1 |      1     |

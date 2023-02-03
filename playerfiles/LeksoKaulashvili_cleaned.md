@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lekso Kaulashvili  
-date: 2023-01-06 00:19:00.796794  
+date: 2023-02-02 18:43:58.462271  
 categories: player  
 ---
 # Lekso Kaulashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 116.0
+## Current elo: 113.0
 
-## Current Percentile: 86.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            81 |   0.62963  |
+| Bordeaux Begles |            83 |   0.626506 |
 | La Rochelle     |            78 |   0.538462 |
 | Georgia         |             1 |   0        |
 
@@ -32,12 +32,12 @@ categories: player
 | Lyon                 |        13 |   0.576923 |
 | Brive                |        13 |   0.692308 |
 | Clermont Auvergne    |        12 |   0.583333 |
+| Bayonne              |        11 |   0.772727 |
 | Stade Toulousain     |        11 |   0.272727 |
-| Bayonne              |        10 |   0.75     |
+| Castres Olympique    |        10 |   0.55     |
 | Stade Francais Paris |         9 |   0.722222 |
 | Racing 92            |         9 |   0.5      |
 | Toulon               |         9 |   0.444444 |
-| Castres Olympique    |         9 |   0.611111 |
 | Pau                  |         8 |   0.625    |
 | Montpellier Herault  |         8 |   0.75     |
 | Agen                 |         7 |   0.714286 |

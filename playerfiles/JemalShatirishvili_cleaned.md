@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jemal Shatirishvili  
-date: 2023-01-30 11:44:10.299590  
+date: 2023-02-02 18:51:16.049151  
 categories: player  
 ---
 # Jemal Shatirishvili

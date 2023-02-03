@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daiki Yanagawa  
-date: 2023-01-30 17:53:53.756431  
+date: 2023-02-02 19:09:13.397094  
 categories: player  
 ---
 # Daiki Yanagawa

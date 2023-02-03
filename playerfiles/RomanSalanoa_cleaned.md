@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Roman Salanoa  
-date: 2023-01-06 00:12:42.059613  
+date: 2023-02-02 19:07:46.869328  
 categories: player  
 ---
 # Roman Salanoa
 
 ## Positions: 
 
-## Current elo: 102.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Ainu'u  
-date: 2023-01-13 11:24:28.518998  
+date: 2023-02-02 19:03:31.721959  
 categories: player  
 ---
 # David Ainu'u
@@ -23,34 +23,35 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Stade Toulousain         |            47 |   0.648936 |
+| Stade Toulousain         |            49 |   0.663265 |
 | United States of America |            12 |   0.541667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Montpellier Herault  |         6 |   0.666667 |
 | La Rochelle          |         5 |   0.8      |
-| Montpellier Herault  |         5 |   0.6      |
 | Bordeaux Begles      |         5 |   1        |
 | Racing 92            |         5 |   0.6      |
 | Perpignan            |         4 |   0.75     |
 | Toulon               |         3 |   0        |
 | Pau                  |         3 |   0.666667 |
 | Agen                 |         3 |   1        |
-| Castres Olympique    |         3 |   0.166667 |
 | Brive                |         3 |   1        |
-| Chile                |         2 |   0.5      |
-| Stade Francais Paris |         2 |   0        |
-| England              |         2 |   0        |
+| Castres Olympique    |         3 |   0.166667 |
 | Clermont Auvergne    |         2 |   1        |
-| Leinster             |         1 |   1        |
+| Stade Francais Paris |         2 |   0        |
+| Chile                |         2 |   0.5      |
+| England              |         2 |   0        |
+| Canada               |         1 |   1        |
+| Biarritz Olympique   |         1 |   1        |
+| Samoa                |         1 |   1        |
+| Romania              |         1 |   1        |
+| Portugal             |         1 |   0.5      |
+| Munster              |         1 |   1        |
 | Lyon                 |         1 |   0        |
+| Leinster             |         1 |   1        |
 | Bayonne              |         1 |   0        |
 | Kenya                |         1 |   1        |
-| Canada               |         1 |   1        |
-| Portugal             |         1 |   0.5      |
 | Ireland              |         1 |   0        |
-| Romania              |         1 |   1        |
-| Samoa                |         1 |   1        |
 | Hong Kong            |         1 |   1        |
-| Biarritz Olympique   |         1 |   1        |
 | Uruguay              |         1 |   0        |

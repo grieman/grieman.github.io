@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Baudonne  
-date: 2023-01-06 00:22:57.139425  
+date: 2023-02-02 18:39:26.815851  
 categories: player  
 ---
 # Maxime Baudonne
 
 ## Positions: N8, FL
 
-## Current elo: 106.0
+## Current elo: 86.0
 
-## Current Percentile: 45.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,18 +21,20 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            14 |   0.535714 |
+| Racing 92 |            18 |   0.527778 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Brive                |         2 |        0.5 |
-| Montpellier Herault  |         2 |        0.5 |
-| Pau                  |         2 |        1   |
-| Bayonne              |         1 |        0   |
-| Castres Olympique    |         1 |        0.5 |
-| Clermont Auvergne    |         1 |        1   |
-| Leinster             |         1 |        0   |
-| Lyon                 |         1 |        0   |
-| Perpignan            |         1 |        1   |
-| Stade Francais Paris |         1 |        0   |
-| Toulon               |         1 |        1   |
+| Montpellier Herault  |         3 |   0.333333 |
+| Brive                |         2 |   0.5      |
+| Leinster             |         2 |   0        |
+| Pau                  |         2 |   1        |
+| Bayonne              |         1 |   0        |
+| Castres Olympique    |         1 |   0.5      |
+| Clermont Auvergne    |         1 |   1        |
+| Harlequins           |         1 |   1        |
+| La Rochelle          |         1 |   1        |
+| Lyon                 |         1 |   0        |
+| Perpignan            |         1 |   1        |
+| Stade Francais Paris |         1 |   0        |
+| Toulon               |         1 |   1        |

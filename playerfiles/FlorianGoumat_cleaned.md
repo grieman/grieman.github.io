@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Florian Goumat  
-date: 2023-01-15 11:50:06.985879  
+date: 2023-02-02 18:59:20.155947  
 categories: player  
 ---
 # Florian Goumat
 
 ## Positions: L
 
-## Current elo: 87.0
+## Current elo: 89.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            50 |       0.55 |
-| Grenoble                   |             3 |       0    |
-| Roval Drome XV             |             1 |       0    |
+| Valence Romans Drome Rugby |            52 |   0.567308 |
+| Grenoble                   |             3 |   0        |
+| Roval Drome XV             |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,24 +32,24 @@ categories: player
 | Dax                        |         4 |   0.25     |
 | Albi                       |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |
-| Oyonnax                    |         3 |   0        |
 | Cognac Saint Jean d'Angély |         3 |   1        |
+| Oyonnax                    |         3 |   0        |
 | Aubenas                    |         2 |   1        |
 | Suresnes                   |         2 |   1        |
 | Rouen                      |         2 |   0.5      |
+| Rennes                     |         2 |   1        |
 | Provence Rugby             |         2 |   0        |
 | Nice                       |         2 |   1        |
 | Montauban                  |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
 | Chambery                   |         2 |   0.5      |
-| Grenoble                   |         1 |   0        |
+| Carqueiranne-Hyères        |         2 |   1        |
 | Mont-de-Marsan             |         1 |   0        |
-| Dijon                      |         1 |   1        |
+| Grenoble                   |         1 |   0        |
 | Narbonne                   |         1 |   1        |
+| Dijon                      |         1 |   1        |
 | Colomiers                  |         1 |   0        |
 | Perpignan                  |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   1        |
-| Rennes                     |         1 |   1        |
 | Carcassonne                |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Stade Toulousain           |         1 |   0        |

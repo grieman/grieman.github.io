@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bernard Foley  
-date: 2023-01-13 11:23:33.348449  
+date: 2023-02-02 19:11:19.579221  
 categories: player  
 ---
 # Bernard Foley
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 149.0
+## Current elo: 146.0
 
-## Current Percentile: 100.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------------------------|--------------:|-----------:|
 | New South Wales Waratahs          |           118 |   0.538136 |
 | Australia                         |            78 |   0.467949 |
-| Kubota Spears Funabashi Tokyo-Bay |            17 |   0.735294 |
+| Kubota Spears Funabashi Tokyo-Bay |            20 |   0.775    |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -38,36 +38,37 @@ categories: player
 | England                  |         9 |   0.111111 |
 | Western Force            |         9 |   0.555556 |
 | Blues                    |         8 |   0.25     |
-| Highlanders              |         7 |   0.428571 |
-| Hurricanes               |         7 |   0.285714 |
 | Wales                    |         7 |   0.714286 |
+| Hurricanes               |         7 |   0.285714 |
+| Highlanders              |         7 |   0.428571 |
 | Chiefs                   |         6 |   0.5      |
 | Stormers                 |         6 |   0.666667 |
+| France                   |         6 |   0.666667 |
 | Ireland                  |         6 |   0.166667 |
 | Crusaders                |         6 |   0.5      |
-| France                   |         6 |   0.666667 |
-| Lions                    |         5 |   0.2      |
-| Scotland                 |         5 |   0.6      |
 | Sharks                   |         5 |   0.5      |
+| Scotland                 |         5 |   0.6      |
+| Lions                    |         5 |   0.2      |
 | Sunwolves                |         4 |   1        |
 | Cheetahs                 |         4 |   0.5      |
 | Bulls                    |         4 |   0.5      |
+| Kobelco Kobe Steelers    |         3 |   0.666667 |
 | Jaguares                 |         3 |   0        |
-| Tokyo Sungoliath         |         2 |   0.5      |
-| Toyota Verblitz          |         2 |   0.5      |
-| Southern Kings           |         2 |   0.5      |
-| Urayasu D-Rocks          |         2 |   1        |
 | Yokohama Canon Eagles    |         2 |   0.75     |
-| Kobelco Kobe Steelers    |         2 |   0.5      |
-| Italy                    |         2 |   1        |
+| Tokyo Sungoliath         |         2 |   0.5      |
 | Fiji                     |         2 |   1        |
+| Green Rockets Tokatsu    |         2 |   1        |
+| Urayasu D-Rocks          |         2 |   1        |
+| Italy                    |         2 |   1        |
+| Southern Kings           |         2 |   0.5      |
+| Toyota Verblitz          |         2 |   0.5      |
+| Uruguay                  |         1 |   1        |
+| United States of America |         1 |   1        |
+| Munakata Sanix Blues     |         1 |   1        |
+| Hanazono Kintetsu Liners |         1 |   1        |
+| Mie Honda Heat           |         1 |   1        |
 | Shizuoka Blue Revs       |         1 |   1        |
 | Samoa                    |         1 |   1        |
 | Saitama Wild Knights     |         1 |   0        |
-| Munakata Sanix Blues     |         1 |   1        |
+| Black Rams Tokyo         |         1 |   1        |
 | Hino Red Dolphins        |         1 |   1        |
-| United States of America |         1 |   1        |
-| Hanazono Kintetsu Liners |         1 |   1        |
-| Uruguay                  |         1 |   1        |
-| Green Rockets Tokatsu    |         1 |   1        |
-| Mie Honda Heat           |         1 |   1        |

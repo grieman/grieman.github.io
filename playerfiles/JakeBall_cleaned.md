@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake Ball  
-date: 2023-01-17 11:42:26.580335  
+date: 2023-02-02 18:39:45.820570  
 categories: player  
 ---
 # Jake Ball
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 112.0
+## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------------|--------------:|-----------:|
 | Scarlets              |           122 |  0.512295  |
 | Wales                 |            49 |  0.510204  |
-| Green Rockets Tokatsu |            13 |  0.0769231 |
+| Green Rockets Tokatsu |            15 |  0.0666667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -47,27 +47,28 @@ categories: player
 | Zebre                             |         5 |   0.9      |
 | France                            |         5 |   0.6      |
 | Australia                         |         4 |   0.25     |
-| Scotland                          |         4 |   0.75     |
 | Racing 92                         |         4 |   0.375    |
-| South Africa                      |         3 |   0.333333 |
+| Scotland                          |         4 |   0.75     |
 | Saracens                          |         3 |   0.166667 |
 | Sale Sharks                       |         3 |   0.333333 |
-| Clermont Auvergne                 |         2 |   0        |
-| Harlequins                        |         2 |   0.5      |
-| Southern Kings                    |         2 |   1        |
-| Uruguay                           |         2 |   1        |
+| South Africa                      |         3 |   0.333333 |
+| Yokohama Canon Eagles             |         3 |   0        |
 | Leicester Tigers                  |         2 |   0.5      |
+| Uruguay                           |         2 |   1        |
+| Southern Kings                    |         2 |   1        |
+| Clermont Auvergne                 |         2 |   0        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
+| Harlequins                        |         2 |   0.5      |
 | Kobelco Kobe Steelers             |         2 |   0        |
-| Yokohama Canon Eagles             |         2 |   0        |
-| Bayonne                           |         1 |   1        |
-| Tokyo Sungoliath                  |         1 |   0        |
 | Urayasu D-Rocks                   |         1 |   0        |
+| Bayonne                           |         1 |   1        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
 | Tonga                             |         1 |   1        |
 | Worcester Warriors                |         1 |   0        |
+| Tokyo Sungoliath                  |         1 |   0        |
 | Black Rams Tokyo                  |         1 |   0        |
 | Hanazono Kintetsu Liners          |         1 |   1        |
+| Shizuoka Blue Revs                |         1 |   0        |
 | Cheetahs                          |         1 |   1        |
 | Northampton Saints                |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   0        |

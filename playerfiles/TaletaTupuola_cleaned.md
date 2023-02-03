@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taleta Tupuola  
-date: 2023-01-06 11:43:38.817913  
+date: 2023-02-02 18:55:29.512672  
 categories: player  
 ---
 # Taleta Tupuola
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montauban           |           123 |   0.569106 |
+| Montauban           |           124 |   0.564516 |
 | Grenoble            |            61 |   0.483607 |
 | Montpellier Herault |             3 |   0.666667 |
 
@@ -40,21 +40,21 @@ categories: player
 | Agen                       |         6 |   0.416667 |
 | Dax                        |         6 |   0.666667 |
 | Vannes                     |         6 |   0.583333 |
-| Bourgoin-Jallieu           |         5 |   0.8      |
+| Oyonnax                    |         5 |   0.8      |
 | Bayonne                    |         5 |   0.2      |
 | Rouen                      |         5 |   0.6      |
 | Albi                       |         5 |   0.8      |
-| Oyonnax                    |         5 |   0.8      |
+| Bourgoin-Jallieu           |         5 |   0.8      |
 | Grenoble                   |         4 |   0.25     |
+| Massy                      |         4 |   0.75     |
 | Provence Rugby             |         4 |   0.5      |
 | Pau                        |         4 |   0        |
 | Tarbes                     |         3 |   0.833333 |
 | Montauban                  |         3 |   0.5      |
-| Massy                      |         3 |   1        |
 | Lyon                       |         3 |   0        |
 | Castres Olympique          |         2 |   0        |
-| Montpellier Herault        |         2 |   0.5      |
 | Harlequins                 |         2 |   0.5      |
+| Montpellier Herault        |         2 |   0.5      |
 | Clermont Auvergne          |         2 |   0.25     |
 | Stade Francais Paris       |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0.5      |

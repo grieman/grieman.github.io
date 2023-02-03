@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ntinga MPIKO  
-date: 2023-02-02 15:51:29.767483  
+date: 2023-02-02 19:13:49.461960  
 categories: player  
 ---
 # Ntinga MPIKO

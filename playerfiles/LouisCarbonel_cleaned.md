@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Carbonel  
-date: 2023-01-13 11:30:08.476383  
+date: 2023-02-02 18:41:33.294218  
 categories: player  
 ---
 # Louis Carbonel
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 57.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -24,31 +24,31 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Toulon              |            93 |   0.553763 |
-| Montpellier Herault |            16 |   0.5625   |
+| Montpellier Herault |            19 |   0.5      |
 | France              |             3 |   0.666667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Francais Paris |         9 |   0.666667 |
+| Stade Toulousain     |         9 |   0.388889 |
+| Clermont Auvergne    |         8 |   0.5      |
 | Racing 92            |         8 |   0.375    |
 | Bordeaux Begles      |         8 |   0.625    |
-| Stade Toulousain     |         8 |   0.4375   |
 | Castres Olympique    |         8 |   0.375    |
-| Clermont Auvergne    |         8 |   0.5      |
+| Lyon                 |         7 |   0.285714 |
 | La Rochelle          |         7 |   0.285714 |
 | Pau                  |         7 |   0.642857 |
-| Lyon                 |         7 |   0.285714 |
-| Montpellier Herault  |         6 |   0.416667 |
 | Brive                |         6 |   0.666667 |
+| Montpellier Herault  |         6 |   0.416667 |
 | Perpignan            |         5 |   0.8      |
+| London Irish         |         4 |   0.875    |
 | Bayonne              |         4 |   1        |
 | Agen                 |         4 |   0.5      |
-| London Irish         |         3 |   1        |
 | Scarlets             |         3 |   1        |
 | Australia            |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   1        |
+| Ospreys              |         2 |   0        |
 | Leicester Tigers     |         1 |   1        |
-| Ospreys              |         1 |   0        |
 | Newcastle Falcons    |         1 |   1        |
 | Italy                |         1 |   1        |
 | Edinburgh            |         1 |   0        |

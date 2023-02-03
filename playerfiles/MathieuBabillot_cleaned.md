@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Babillot  
-date: 2023-01-23 15:29:39.966347  
+date: 2023-02-02 18:42:36.421757  
 categories: player  
 ---
 # Mathieu Babillot
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 74.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           160 |   0.521875 |
+| Castres Olympique |           161 |   0.524845 |
 | France            |             5 |   0.2      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -31,8 +31,8 @@ categories: player
 | Racing 92            |        15 |   0.4      |
 | Montpellier Herault  |        14 |   0.428571 |
 | Stade Toulousain     |        13 |   0.653846 |
+| Bordeaux Begles      |        13 |   0.576923 |
 | Pau                  |        13 |   0.769231 |
-| Bordeaux Begles      |        12 |   0.541667 |
 | Stade Francais Paris |        12 |   0.333333 |
 | Toulon               |        11 |   0.454545 |
 | La Rochelle          |        10 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aurélien Lisena  
-date: 2023-01-27 11:06:50.818331  
+date: 2023-02-02 18:40:15.949479  
 categories: player  
 ---
 # Aurélien Lisena

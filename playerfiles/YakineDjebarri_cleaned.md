@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yakine Djebarri  
-date: 2023-01-15 11:46:55.283523  
+date: 2023-02-02 18:47:45.659259  
 categories: player  
 ---
 # Yakine Djebarri
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            39 |   0.538462 |
+| Suresnes |            41 |   0.512195 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,10 +30,10 @@ categories: player
 | Dax                        |         4 |   0.5      |
 | Albi                       |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
+| Nice                       |         3 |   0.333333 |
+| Narbonne                   |         3 |   0.333333 |
 | Massy                      |         2 |   0        |
 | Tarbes                     |         2 |   1        |
-| Nice                       |         2 |   0.5      |
-| Narbonne                   |         2 |   0.5      |
 | Dijon                      |         2 |   1        |
 | Aubenas                    |         2 |   1        |
 | Carqueiranne-Hyères        |         2 |   0.5      |

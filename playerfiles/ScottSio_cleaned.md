@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Sio  
-date: 2023-01-06 00:12:11.424294  
+date: 2023-02-02 18:45:05.216757  
 categories: player  
 ---
 # Scott Sio
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 106.0
+## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Brumbies      |           142 |   0.591549 |
 | Australia     |            77 |   0.480519 |
-| Exeter Chiefs |             8 |   0.5      |
+| Exeter Chiefs |            12 |   0.583333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,9 +39,9 @@ categories: player
 | South Africa             |        10 |   0.5      |
 | Chiefs                   |         9 |   0.555556 |
 | England                  |         9 |   0.222222 |
+| Bulls                    |         9 |   0.777778 |
 | Highlanders              |         8 |   0.25     |
 | Blues                    |         8 |   0.25     |
-| Bulls                    |         8 |   0.875    |
 | Crusaders                |         7 |   0        |
 | Wales                    |         5 |   0.6      |
 | Sunwolves                |         5 |   1        |
@@ -53,20 +53,20 @@ categories: player
 | Lions                    |         3 |   0.666667 |
 | Jaguares                 |         3 |   0        |
 | Italy                    |         2 |   1        |
+| Castres Olympique        |         2 |   1        |
 | Fiji                     |         2 |   1        |
+| Northampton Saints       |         2 |   0.5      |
 | Fijian Drua              |         2 |   1        |
 | France                   |         2 |   1        |
-| Gloucester Rugby         |         1 |   0        |
+| Gloucester Rugby         |         2 |   0.5      |
+| Southern Kings           |         1 |   0.5      |
 | Uruguay                  |         1 |   1        |
 | United States of America |         1 |   1        |
-| Southern Kings           |         1 |   0.5      |
-| Georgia                  |         1 |   1        |
 | London Irish             |         1 |   1        |
+| Georgia                  |         1 |   1        |
 | Bath Rugby               |         1 |   1        |
 | Saracens                 |         1 |   0        |
 | Samoa                    |         1 |   1        |
-| Northampton Saints       |         1 |   0        |
 | Newcastle Falcons        |         1 |   0        |
 | Japan                    |         1 |   1        |
-| Castres Olympique        |         1 |   1        |
 | Moana Pasifika           |         1 |   0        |

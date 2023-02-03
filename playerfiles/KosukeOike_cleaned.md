@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kosuke Oike  
-date: 2023-01-30 17:54:26.872479  
+date: 2023-02-02 19:11:54.470506  
 categories: player  
 ---
 # Kosuke Oike

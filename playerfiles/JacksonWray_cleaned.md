@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jackson Wray  
-date: 2023-01-06 00:15:03.064195  
+date: 2023-02-02 19:12:26.590204  
 categories: player  
 ---
 # Jackson Wray
 
 ## Positions: FL, N8
 
-## Current elo: 107.0
+## Current elo: 94.0
 
-## Current Percentile: 94.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |           293 |   0.749147 |
+| Saracens |           295 |   0.750847 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,8 +35,8 @@ categories: player
 | Bath Rugby          |        17 |   0.735294 |
 | Newcastle Falcons   |        16 |   1        |
 | Worcester Warriors  |        16 |   0.8125   |
-| Gloucester Rugby    |        15 |   0.633333 |
-| Bristol Rugby       |         8 |   0.75     |
+| Gloucester Rugby    |        16 |   0.65625  |
+| Bristol Rugby       |         9 |   0.777778 |
 | Clermont Auvergne   |         7 |   0.428571 |
 | Racing 92           |         6 |   0.666667 |
 | Scarlets            |         5 |   0.7      |

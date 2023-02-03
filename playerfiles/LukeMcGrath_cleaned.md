@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke McGrath  
-date: 2023-01-23 15:32:57.059255  
+date: 2023-02-02 19:10:50.953944  
 categories: player  
 ---
 # Luke McGrath
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           175 |   0.788571 |
+| Leinster |           176 |   0.789773 |
 | Ireland  |            20 |   0.85     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -37,7 +37,7 @@ categories: player
 | Scarlets                 |        12 |   0.666667 |
 | Dragons                  |        11 |   0.727273 |
 | Ospreys                  |        10 |   0.75     |
-| Cardiff Blues            |         9 |   0.888889 |
+| Cardiff Blues            |        10 |   0.9      |
 | Zebre                    |         9 |   1        |
 | Montpellier Herault      |         4 |   0.75     |
 | Northampton Saints       |         4 |   1        |

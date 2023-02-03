@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clement Maynadier  
-date: 2023-01-06 00:09:46.087359  
+date: 2023-02-02 18:40:52.585115  
 categories: player  
 ---
 # Clement Maynadier
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 101.0
 
-## Current Percentile: 71.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           197 |   0.550761 |
+| Bordeaux Begles |           200 |   0.5475   |
 | Albi            |            81 |   0.506173 |
 | France          |             8 |   0.125    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Castres Olympique    |        19 |   0.552632 |
+| Castres Olympique    |        20 |   0.525    |
 | Stade Toulousain     |        16 |   0.28125  |
 | Montpellier Herault  |        16 |   0.40625  |
 | Stade Francais Paris |        16 |   0.625    |
@@ -43,7 +43,7 @@ categories: player
 | Pau                  |        10 |   0.3      |
 | Grenoble             |        10 |   0.7      |
 | Oyonnax              |         9 |   0.666667 |
-| Bayonne              |         7 |   0.714286 |
+| Bayonne              |         8 |   0.75     |
 | Agen                 |         6 |   1        |
 | Biarritz Olympique   |         6 |   0.666667 |
 | Dax                  |         5 |   0.4      |
@@ -62,10 +62,10 @@ categories: player
 | Bordeaux Begles      |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0.5      |
 | Périgueux            |         2 |   0.5      |
+| Sharks               |         2 |   0        |
 | Ulster               |         2 |   1        |
 | London Welsh         |         2 |   1        |
 | Argentina            |         2 |   0.5      |
-| Sharks               |         1 |   0        |
 | US Bressane          |         1 |   1        |
 | Saint-Etienne        |         1 |   1        |
 | Leicester Tigers     |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Everett  
-date: 2023-01-13 11:29:37.331217  
+date: 2023-02-02 18:56:21.090307  
 categories: player  
 ---
 # Alex Everett
 
 ## Positions: FL
 
-## Current elo: 105.0
+## Current elo: 87.0
 
-## Current Percentile: 63.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,20 +21,20 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            11 |   0.454545 |
+| Cornish Pirates |            14 |   0.428571 |
 | Cardiff Blues   |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bedford             |         2 |          0 |
+| Jersey              |         2 |          0 |
+| Nottingham          |         2 |          1 |
 | Ampthill            |         1 |          1 |
-| Bedford             |         1 |          0 |
 | Caldy               |         1 |          0 |
 | Coventry            |         1 |          0 |
 | Doncaster           |         1 |          1 |
 | Ealing Trailfinders |         1 |          0 |
 | Hartpury College    |         1 |          0 |
-| Jersey              |         1 |          0 |
 | London Scottish     |         1 |          1 |
-| Nottingham          |         1 |          1 |
 | Richmond            |         1 |          1 |
 | Stade Toulousain    |         1 |          0 |

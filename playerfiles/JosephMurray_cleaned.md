@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joseph Murray  
-date: 2023-01-13 11:36:55.351784  
+date: 2023-02-02 18:39:59.915308  
 categories: player  
 ---
 # Joseph Murray
 
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 95.0
 
-## Current Percentile: 30.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |             7 |   0.285714 |
+| Caldy  |            10 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Bedford             |         1 |          0 |
-| Doncaster           |         1 |          0 |
-| Ealing Trailfinders |         1 |          1 |
-| Hartpury College    |         1 |          0 |
-| London Scottish     |         1 |          0 |
-| Nottingham          |         1 |          0 |
-| Richmond            |         1 |          1 |
+| Bedford             |         2 |        0.5 |
+| Nottingham          |         2 |        0.5 |
+| Richmond            |         2 |        1   |
+| Doncaster           |         1 |        0   |
+| Ealing Trailfinders |         1 |        1   |
+| Hartpury College    |         1 |        0   |
+| London Scottish     |         1 |        0   |

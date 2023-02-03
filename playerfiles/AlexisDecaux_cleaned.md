@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexis Decaux  
-date: 2023-01-15 11:52:08.808745  
+date: 2023-02-02 19:08:24.422238  
 categories: player  
 ---
 # Alexis Decaux
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 105.0
 
-## Current Percentile: 80.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Blagnac           |            12 |   0.708333 |
+| Blagnac           |            13 |   0.730769 |
 | Castres Olympique |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,3 +39,4 @@ categories: player
 | Rennes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Tarbes                     |         1 |        1   |
+| US Bressane                |         1 |        1   |

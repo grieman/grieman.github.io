@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Olver  
-date: 2023-01-13 11:30:30.173497  
+date: 2023-02-02 19:05:23.926666  
 categories: player  
 ---
 # Sam Olver
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Doncaster           |            64 |   0.640625 |
+| Doncaster           |            67 |   0.641791 |
 | Northampton Saints  |            20 |   0.675    |
 | Worcester Warriors  |            19 |   0.289474 |
 | Ealing Trailfinders |             3 |   0.333333 |
@@ -30,13 +30,13 @@ categories: player
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Coventry            |         9 |   0.444444 |
+| Nottingham          |         8 |   0.625    |
 | Jersey              |         7 |   0.571429 |
-| Nottingham          |         7 |   0.571429 |
 | Cornish Pirates     |         7 |   0.285714 |
+| Hartpury College    |         7 |   0.857143 |
 | Bedford             |         6 |   0.666667 |
-| Hartpury College    |         6 |   1        |
+| Richmond            |         6 |   1        |
 | Ealing Trailfinders |         5 |   0.4      |
-| Richmond            |         5 |   1        |
 | London Scottish     |         5 |   1        |
 | Ampthill            |         5 |   0.8      |
 | Exeter Chiefs       |         4 |   0.5      |

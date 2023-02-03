@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Gunter  
-date: 2023-01-17 11:39:38.574912  
+date: 2023-02-02 18:53:56.606051  
 categories: player  
 ---
 # Ben Gunter
@@ -23,13 +23,13 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            32 |   0.953125 |
+| Saitama Wild Knights |            33 |   0.954545 |
 | Sunwolves            |            10 |   0        |
 | Japan                |             5 |   0.2      |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Yokohama Canon Eagles           |         4 |   1        |
+| Yokohama Canon Eagles           |         5 |   1        |
 | Green Rockets Tokatsu           |         3 |   1        |
 | Toyota Verblitz                 |         3 |   1        |
 | Toshiba Brave Lupus Tokyo       |         3 |   1        |

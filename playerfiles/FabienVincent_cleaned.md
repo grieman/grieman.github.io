@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fabien Vincent  
-date: 2023-01-30 11:47:51.066351  
+date: 2023-02-02 19:12:56.262652  
 categories: player  
 ---
 # Fabien Vincent

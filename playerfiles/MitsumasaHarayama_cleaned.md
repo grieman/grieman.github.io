@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mitsumasa Harayama  
-date: 2023-01-17 11:40:57.014335  
+date: 2023-02-02 19:04:52.558124  
 categories: player  
 ---
 # Mitsumasa Harayama
 
 ## Positions: H
 
-## Current elo: 111.0
+## Current elo: 109.0
 
-## Current Percentile: None
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
 | Coca-Cola Red Sparks            |            26 |   0.326923 |
-| NTT Docomo Red Hurricanes Osaka |             5 |   0.6      |
+| NTT Docomo Red Hurricanes Osaka |             6 |   0.5      |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -34,9 +34,9 @@ categories: player
 | Saitama Wild Knights              |         2 |   0        |
 | Chugoku Red Regulions             |         2 |   1        |
 | Black Rams Tokyo                  |         2 |   0        |
+| Kurita Water Gush                 |         2 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
 | Mazda Blue Zoomers                |         1 |   1        |
-| Kurita Water Gush                 |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   0        |
 | Shimizu Blue Sharks               |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   0        |

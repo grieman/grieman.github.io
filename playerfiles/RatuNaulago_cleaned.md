@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ratu Naulago  
-date: 2023-01-17 11:34:39.947605  
+date: 2023-02-02 18:58:18.962599  
 categories: player  
 ---
 # Ratu Naulago
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |            15 |        0.7 |
+| Bristol Rugby |            17 |   0.676471 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,7 +32,9 @@ categories: player
 | Exeter Chiefs      |         1 |       1    |
 | Harlequins         |         1 |       1    |
 | Leicester Tigers   |         1 |       1    |
+| Perpignan          |         1 |       1    |
 | Sale Sharks        |         1 |       0    |
+| Saracens           |         1 |       0    |
 | Scarlets           |         1 |       1    |
 | Wasps              |         1 |       1    |
 | Worcester Warriors |         1 |       1    |

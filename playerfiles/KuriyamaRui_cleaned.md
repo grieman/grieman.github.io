@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kuriyama Rui  
-date: 2023-01-13 11:25:46.147887  
+date: 2023-02-02 18:38:56.898447  
 categories: player  
 ---
 # Kuriyama Rui
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 76.0
 
-## Current Percentile: 15.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             8 |       0.25 |
+| Kurita Water Gush |            10 |        0.3 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         2 |        0.5 |
-| Munakata Sanix Blues             |         2 |        0   |
-| Kyuden Voltex                    |         1 |        0   |
-| Shimizu Blue Sharks              |         1 |        0   |
-| Skyactivs Hiroshima              |         1 |        1   |
-| Toyota Industries Shuttles Aichi |         1 |        0   |
+| Chugoku Red Regulions            |         3 |   0.333333 |
+| Munakata Sanix Blues             |         2 |   0        |
+| Kyuden Voltex                    |         1 |   0        |
+| NTT Docomo Red Hurricanes Osaka  |         1 |   1        |
+| Shimizu Blue Sharks              |         1 |   0        |
+| Skyactivs Hiroshima              |         1 |   1        |
+| Toyota Industries Shuttles Aichi |         1 |   0        |

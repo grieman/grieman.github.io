@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Dominic Hardman  
-date: 2023-01-21 15:39:22.895098  
+date: 2023-02-02 18:54:37.970549  
 categories: player  
 ---
 # Dominic Hardman
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 54.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Ampthill      |             8 |     0.1875 |
-| Western Force |             4 |     1      |
+| Ampthill      |             9 |   0.277778 |
+| Western Force |             4 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Coventry            |         1 |        0   |
 | Fijian Drua         |         1 |        1   |
 | Jersey              |         1 |        0   |
+| London Scottish     |         1 |        1   |
 | Melbourne Rising    |         1 |        1   |
 | Queensland Country  |         1 |        1   |
 | Richmond            |         1 |        0.5 |

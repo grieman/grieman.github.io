@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thaakir Abrahams  
-date: 2023-01-21 15:45:09.725034  
+date: 2023-02-02 19:11:31.432614  
 categories: player  
 ---
 # Thaakir Abrahams
 
 ## Positions: W
 
-## Current elo: 87.0
+## Current elo: 85.0
 
-## Current Percentile: 32.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sharks       |             8 |   0.375    |
+| Sharks       |             9 |   0.444444 |
 | Natal Sharks |             7 |   0.571429 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,6 +31,7 @@ categories: player
 | Blue Bulls          |         1 |          1 |
 | Bulls               |         1 |          0 |
 | Dragons             |         1 |          1 |
+| Edinburgh           |         1 |          1 |
 | Glasgow Warriors    |         1 |          0 |
 | Golden Lions        |         1 |          1 |
 | Griquas             |         1 |          0 |

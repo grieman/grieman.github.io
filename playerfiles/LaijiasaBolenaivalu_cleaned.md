@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Laijiasa Bolenaivalu  
-date: 2023-01-23 15:31:20.309691  
+date: 2023-02-02 18:53:59.971675  
 categories: player  
 ---
 # Laijiasa Bolenaivalu
 
 ## Positions: N8, FL
 
-## Current elo: 126.0
+## Current elo: 128.0
 
 ## Current Percentile: 94.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Vannes |            89 |   0.578652 |
-| Nice   |            31 |   0.564516 |
+| Nice   |            32 |   0.578125 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -43,11 +43,11 @@ categories: player
 | Provence Rugby             |         4 |   0.5      |
 | Bayonne                    |         4 |   0.5      |
 | Perpignan                  |         4 |   0.25     |
+| Suresnes                   |         3 |   1        |
 | Blagnac                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
 | Oyonnax                    |         3 |   1        |
 | Rouen                      |         2 |   0.5      |
-| Suresnes                   |         2 |   1        |
 | Tarbes                     |         2 |   1        |
 | US Bressane                |         2 |   0.75     |
 | Agen                       |         2 |   0.25     |

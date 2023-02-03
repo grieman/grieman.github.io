@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mateaki Kafatolu  
-date: 2023-01-15 12:02:03.546322  
+date: 2023-02-02 18:54:57.332699  
 categories: player  
 ---
 # Mateaki Kafatolu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -24,9 +24,9 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Wellington        |            23 |   0.652174 |
+| Bayonne           |             7 |   0.428571 |
 | Tonga             |             7 |   0        |
 | Castres Olympique |             6 |   0.333333 |
-| Bayonne           |             5 |   0.4      |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -36,22 +36,23 @@ categories: player
 | Samoa             |         3 |   0        |
 | Waikato           |         3 |   0.666667 |
 | Canterbury        |         3 |   0.666667 |
-| North Harbour     |         2 |   0.5      |
-| Brive             |         2 |   0        |
-| Otago             |         2 |   1        |
+| Brive             |         3 |   0.333333 |
 | Munster           |         2 |   0        |
-| Lyon              |         1 |   1        |
-| Manawatu          |         1 |   1        |
-| Bay of Plenty     |         1 |   1        |
-| New Zealand       |         1 |   0        |
-| La Rochelle       |         1 |   1        |
-| Counties Manukau  |         1 |   1        |
-| Harlequins        |         1 |   0        |
+| North Harbour     |         2 |   0.5      |
+| Otago             |         2 |   1        |
 | Perpignan         |         1 |   1        |
-| Romania           |         1 |   0        |
-| England           |         1 |   0        |
-| Scotland          |         1 |   0        |
-| Taranaki          |         1 |   1        |
-| Benetton Treviso  |         1 |   0        |
 | Toulon            |         1 |   1        |
+| Benetton Treviso  |         1 |   0        |
+| Taranaki          |         1 |   1        |
+| Scotland          |         1 |   0        |
+| Scarlets          |         1 |   0        |
+| Romania           |         1 |   0        |
 | Castres Olympique |         1 |   0        |
+| Counties Manukau  |         1 |   1        |
+| Bay of Plenty     |         1 |   1        |
+| Manawatu          |         1 |   1        |
+| Lyon              |         1 |   1        |
+| La Rochelle       |         1 |   1        |
+| Harlequins        |         1 |   0        |
+| England           |         1 |   0        |
+| New Zealand       |         1 |   0        |

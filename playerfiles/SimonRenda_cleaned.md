@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon Renda  
-date: 2023-01-13 11:25:54.609853  
+date: 2023-02-02 18:55:04.914755  
 categories: player  
 ---
 # Simon Renda

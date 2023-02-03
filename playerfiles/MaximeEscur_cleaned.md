@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Escur  
-date: 2023-01-17 11:42:24.521652  
+date: 2023-02-02 18:51:08.777565  
 categories: player  
 ---
 # Maxime Escur
 
 ## Positions: P
 
-## Current elo: 83.0
+## Current elo: 86.0
 
-## Current Percentile: 15.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Aurillac |            99 |   0.540404 |
-| Albi     |            53 |   0.698113 |
+| Albi     |            55 |   0.709091 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |        10 |   0.6      |
 | Bourgoin-Jallieu           |        10 |   0.75     |
 | Tarbes                     |         9 |   0.555556 |
-| Narbonne                   |         8 |   0.625    |
+| Narbonne                   |         9 |   0.666667 |
 | Mont-de-Marsan             |         8 |   0.625    |
 | Massy                      |         7 |   0.428571 |
 | Colomiers                  |         6 |   0.333333 |
@@ -56,8 +56,8 @@ categories: player
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
+| Carqueiranne-Hyères        |         2 |   0.5      |
 | Auch                       |         2 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Rennes                     |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   0        |
 | La Rochelle                |         1 |   0        |

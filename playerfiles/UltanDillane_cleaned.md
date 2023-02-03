@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ultan Dillane  
-date: 2023-01-06 00:12:42.744517  
+date: 2023-02-02 19:02:46.599468  
 categories: player  
 ---
 # Ultan Dillane
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 103.0
+## Current elo: 93.0
 
-## Current Percentile: 89.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -25,45 +25,46 @@ categories: player
 |:------------|--------------:|-----------:|
 | Connacht    |           118 |   0.512712 |
 | Ireland     |            19 |   0.684211 |
-| La Rochelle |            14 |   0.571429 |
+| La Rochelle |            18 |   0.611111 |
 | Barbarians  |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Ulster               |        16 |   0.4375   |
+| Ulster               |        17 |   0.470588 |
 | Munster              |        11 |   0.454545 |
 | Leinster             |        10 |   0.3      |
 | Glasgow Warriors     |         9 |   0.222222 |
-| Scarlets             |         8 |   0.25     |
 | Ospreys              |         8 |   0.5      |
+| Scarlets             |         8 |   0.25     |
 | Cardiff Blues        |         6 |   0.5      |
-| Benetton Treviso     |         6 |   1        |
 | Zebre                |         6 |   0.833333 |
+| Benetton Treviso     |         6 |   1        |
+| Stade Toulousain     |         5 |   0.4      |
 | Brive                |         4 |   0.75     |
-| Cheetahs             |         4 |   0.75     |
-| Stade Toulousain     |         4 |   0.25     |
 | Dragons              |         4 |   0.75     |
-| Italy                |         4 |   1        |
 | Southern Kings       |         4 |   1        |
+| Italy                |         4 |   1        |
+| Cheetahs             |         4 |   0.75     |
+| Edinburgh            |         3 |   0.333333 |
+| England              |         3 |   0.333333 |
+| France               |         3 |   0.333333 |
 | Gloucester Rugby     |         3 |   0.333333 |
 | Scotland             |         3 |   0.666667 |
-| France               |         3 |   0.333333 |
-| England              |         3 |   0.333333 |
-| Edinburgh            |         3 |   0.333333 |
-| RC Enisei            |         2 |   1        |
 | South Africa         |         2 |   0.5      |
-| Leicester Tigers     |         2 |   0        |
+| Oyonnax              |         2 |   1        |
+| Racing 92            |         2 |   0.5      |
+| Sale Sharks          |         2 |   0.5      |
+| RC Enisei            |         2 |   1        |
 | Montpellier Herault  |         2 |   1        |
 | Wasps                |         2 |   0.5      |
-| Sale Sharks          |         2 |   0.5      |
-| Oyonnax              |         2 |   1        |
+| Leicester Tigers     |         2 |   0        |
+| Worcester Warriors   |         1 |   0.5      |
+| Perpignan            |         1 |   1        |
 | Stade Francais Paris |         1 |   0        |
 | Toulon               |         1 |   1        |
-| Worcester Warriors   |         1 |   0.5      |
-| Racing 92            |         1 |   1        |
 | Australia            |         1 |   1        |
-| Perpignan            |         1 |   1        |
 | Pau                  |         1 |   0        |
+| Northampton Saints   |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
 | New Zealand          |         1 |   1        |
 | Bayonne              |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Gregoire Bazin  
-date: 2023-01-13 11:33:45.847400  
+date: 2023-02-02 18:49:47.026220  
 categories: player  
 ---
 # Gregoire Bazin
 
 ## Positions: FL
 
-## Current elo: 72.0
+## Current elo: 70.0
 
 ## Current Percentile: 7.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |            48 |    0.53125 |
+| Vannes |            49 |   0.520408 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -29,10 +29,10 @@ categories: player
 | Carcassonne        |         5 |   0.6      |
 | Agen               |         4 |   0.25     |
 | Provence Rugby     |         4 |   0.25     |
+| Nevers             |         4 |   0.25     |
 | Rouen              |         3 |   0        |
 | Oyonnax            |         3 |   0.333333 |
 | Mont-de-Marsan     |         3 |   1        |
-| Nevers             |         3 |   0.333333 |
 | Narbonne           |         2 |   0.75     |
 | Soyaux-Angouleme   |         2 |   0.5      |
 | US Bressane        |         2 |   1        |

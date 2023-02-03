@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brandon Nansen  
-date: 2023-01-27 11:06:17.127380  
+date: 2023-02-02 19:06:45.025085  
 categories: player  
 ---
 # Brandon Nansen
@@ -25,7 +25,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | North Harbour        |            37 |   0.432432 |
 | Dragons              |            15 |   0.4      |
-| Northampton Saints   |            13 |   0.538462 |
+| Northampton Saints   |            14 |   0.571429 |
 | Brive                |             5 |   0.2      |
 | Bedford              |             4 |   0.5      |
 | Stade Francais Paris |             4 |   0.25     |
@@ -36,24 +36,25 @@ categories: player
 | Otago               |         5 |   0.2      |
 | Wellington          |         4 |   0.25     |
 | Canterbury          |         4 |   0.25     |
-| Manawatu            |         3 |   0.333333 |
-| Waikato             |         3 |   0.333333 |
-| Southland           |         3 |   0.666667 |
 | Northland           |         3 |   0.666667 |
+| Waikato             |         3 |   0.333333 |
+| Manawatu            |         3 |   0.333333 |
+| Southland           |         3 |   0.666667 |
 | Counties Manukau    |         3 |   0.666667 |
 | Auckland            |         3 |   0.333333 |
-| Cardiff Blues       |         2 |   0        |
-| Sale Sharks         |         2 |   0        |
 | Tasman              |         2 |   0.5      |
+| Hawke's Bay         |         2 |   1        |
+| Saracens            |         2 |   0        |
+| Scarlets            |         2 |   0.5      |
+| Exeter Chiefs       |         2 |   0.5      |
+| Sale Sharks         |         2 |   0        |
+| Cardiff Blues       |         2 |   0        |
 | Pau                 |         2 |   0.5      |
 | Bordeaux Begles     |         2 |   0.5      |
 | Benetton Treviso    |         2 |   0        |
-| Exeter Chiefs       |         2 |   0.5      |
-| Scarlets            |         2 |   0.5      |
-| Saracens            |         2 |   0        |
-| Hawke's Bay         |         2 |   1        |
-| Richmond            |         1 |   0        |
 | Romania             |         1 |   0        |
+| Richmond            |         1 |   0        |
+| Ampthill            |         1 |   1        |
 | Stade Toulousain    |         1 |   0        |
 | Southern Kings      |         1 |   1        |
 | Taranaki            |         1 |   1        |
@@ -61,7 +62,7 @@ categories: player
 | Wasps               |         1 |   1        |
 | Worcester Warriors  |         1 |   1        |
 | Ospreys             |         1 |   1        |
-| Ampthill            |         1 |   1        |
+| Lyon                |         1 |   0        |
 | Northampton Saints  |         1 |   0        |
 | Ealing Trailfinders |         1 |   0        |
 | Bath Rugby          |         1 |   1        |
@@ -76,8 +77,8 @@ categories: player
 | Germany             |         1 |   1        |
 | Glasgow Warriors    |         1 |   0        |
 | Gloucester Rugby    |         1 |   0        |
+| Leicester Tigers    |         1 |   1        |
 | Leinster            |         1 |   0        |
 | London Irish        |         1 |   1        |
-| Lyon                |         1 |   0        |
 | Montpellier Herault |         1 |   0        |
 | Zebre               |         1 |   1        |

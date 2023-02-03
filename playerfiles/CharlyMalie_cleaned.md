@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charly Malie  
-date: 2023-01-13 11:24:20.660886  
+date: 2023-02-02 18:50:15.997250  
 categories: player  
 ---
 # Charly Malie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 80.0
+## Current elo: 82.0
 
-## Current Percentile: 20.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Pau       |           136 |   0.455882 |
-| Beziers   |            94 |   0.37234  |
+| Beziers   |            96 |   0.385417 |
 | Montauban |            20 |   0.5      |
 | Spain     |            11 |   0.545455 |
 
@@ -43,14 +43,14 @@ categories: player
 | Stade Toulousain     |         8 |   0.375    |
 | Mont-de-Marsan       |         8 |   0.4375   |
 | Lyon                 |         8 |   0.4375   |
+| Aurillac             |         8 |   0.5      |
 | Oyonnax              |         7 |   0.285714 |
 | Toulon               |         7 |   0.285714 |
 | Bayonne              |         7 |   0.785714 |
-| Aurillac             |         7 |   0.428571 |
+| Provence Rugby       |         7 |   0.428571 |
 | Narbonne             |         7 |   0.357143 |
 | Pau                  |         6 |   0        |
 | Albi                 |         6 |   0.333333 |
-| Provence Rugby       |         6 |   0.333333 |
 | Tarbes               |         6 |   0.666667 |
 | Dax                  |         6 |   0.5      |
 | Colomiers            |         6 |   0.5      |

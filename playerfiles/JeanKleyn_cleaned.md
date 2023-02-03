@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Kleyn  
-date: 2023-01-06 00:12:47.672757  
+date: 2023-02-02 18:52:54.309259  
 categories: player  
 ---
 # Jean Kleyn
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 110.0
+## Current elo: 96.0
 
-## Current Percentile: 68.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Munster          |           111 |   0.698198 |
+| Munster          |           115 |   0.7      |
 | Western Province |            22 |   0.772727 |
 | Stormers         |            19 |   0.657895 |
 | Ireland          |             5 |   0.8      |
@@ -46,9 +46,10 @@ categories: player
 | Scarlets                 |         5 |   0.8      |
 | Sharks                   |         4 |   0.75     |
 | Leicester Tigers         |         4 |   0.75     |
+| Benetton Treviso         |         4 |   1        |
 | Zebre                    |         4 |   1        |
-| Benetton Treviso         |         3 |   1        |
 | Southern Kings           |         3 |   1        |
+| Lions                    |         3 |   0.5      |
 | Castres Olympique        |         3 |   1        |
 | Saracens                 |         3 |   0.333333 |
 | Griquas                  |         3 |   1        |
@@ -56,22 +57,21 @@ categories: player
 | Pumas                    |         2 |   1        |
 | Western Force            |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0        |
 | Gloucester Rugby         |         2 |   1        |
-| Free State Cheetahs      |         2 |   0.5      |
-| Lions                    |         2 |   0.25     |
+| Northampton Saints       |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.75     |
-| Stade Toulousain         |         1 |   0        |
-| Highlanders              |         1 |   0        |
-| Wasps                    |         1 |   1        |
-| Wales                    |         1 |   1        |
-| Italy                    |         1 |   1        |
-| Toulon                   |         1 |   1        |
-| Stormers                 |         1 |   1        |
-| Northampton Saints       |         1 |   1        |
+| Free State Cheetahs      |         2 |   0.5      |
 | England                  |         1 |   0        |
-| Chiefs                   |         1 |   0        |
-| Samoa                    |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
-| Natal Sharks             |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
+| Samoa                    |         1 |   1        |
+| Natal Sharks             |         1 |   1        |
+| Chiefs                   |         1 |   0        |
+| Melbourne Rebels         |         1 |   1        |
+| Stormers                 |         1 |   1        |
+| Toulon                   |         1 |   1        |
+| Italy                    |         1 |   1        |
+| Wales                    |         1 |   1        |
+| Wasps                    |         1 |   1        |
+| Highlanders              |         1 |   0        |
 | Russia                   |         1 |   1        |

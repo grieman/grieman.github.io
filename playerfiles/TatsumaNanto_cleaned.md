@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tatsuma Nanto  
-date: 2023-01-30 17:54:32.736564  
+date: 2023-02-02 19:14:11.706206  
 categories: player  
 ---
 # Tatsuma Nanto

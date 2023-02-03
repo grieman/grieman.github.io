@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mattéo Faucher  
-date: 2023-01-17 11:39:05.481866  
+date: 2023-02-02 19:01:10.534877  
 categories: player  
 ---
 # Mattéo Faucher
 
 ## Positions: C, FH
 
-## Current elo: 92.0
+## Current elo: 103.0
 
-## Current Percentile: 18.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -22,23 +22,25 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Nevers   |            13 |   0.346154 |
-| Chambery |             6 |   0.333333 |
+| Chambery |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Grenoble                   |         2 |        0   |
 | Narbonne                   |         2 |        1   |
 | Oyonnax                    |         2 |        0   |
+| Grenoble                   |         2 |        0   |
+| Valence Romans Drome Rugby |         1 |        1   |
+| US Bressane                |         1 |        1   |
+| Tarbes                     |         1 |        0   |
+| Suresnes                   |         1 |        0   |
+| Rouen                      |         1 |        1   |
+| Perpignan                  |         1 |        0   |
 | Albi                       |         1 |        0   |
 | Bayonne                    |         1 |        0.5 |
-| Bourgoin-Jallieu           |         1 |        0   |
-| Carcassonne                |         1 |        0   |
-| Colomiers                  |         1 |        1   |
 | Montauban                  |         1 |        0   |
-| Perpignan                  |         1 |        0   |
-| Rouen                      |         1 |        1   |
-| Suresnes                   |         1 |        0   |
-| Tarbes                     |         1 |        0   |
-| US Bressane                |         1 |        1   |
-| Valence Romans Drome Rugby |         1 |        1   |
+| Dax                        |         1 |        0   |
+| Colomiers                  |         1 |        1   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Carcassonne                |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
 | Vannes                     |         1 |        0   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benjamin Daurau Bedin  
-date: 2023-01-17 11:31:15.446499  
+date: 2023-02-02 18:49:29.796606  
 categories: player  
 ---
 # Benjamin Daurau Bedin
 
 ## Positions: W, FB
 
-## Current elo: 72.0
+## Current elo: 77.0
 
-## Current Percentile: 9.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            36 |   0.513889 |
+| Blagnac |            37 |   0.527027 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,10 +35,10 @@ categories: player
 | Nice                       |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
 | Tarbes                     |         2 |   1        |
+| US Bressane                |         2 |   0.5      |
 | Massy                      |         2 |   0.5      |
 | Chambery                   |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Dijon                      |         1 |   1        |
 | Aubenas                    |         1 |   1        |
 | Rennes                     |         1 |   1        |
-| US Bressane                |         1 |   0        |

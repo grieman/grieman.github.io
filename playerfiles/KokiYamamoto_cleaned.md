@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Koki Yamamoto  
-date: 2023-01-15 11:57:16.741182  
+date: 2023-02-02 18:56:04.399648  
 categories: player  
 ---
 # Koki Yamamoto
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 58.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -24,23 +24,23 @@ categories: player
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
 | Shizuoka Blue Revs    |            49 |   0.785714 |
+| Kobelco Kobe Steelers |            15 |   0.4      |
 | Sunwolves             |            15 |   0.133333 |
-| Kobelco Kobe Steelers |            13 |   0.461538 |
 | Japan                 |             6 |   0.333333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Yokohama Canon Eagles             |         7 |   0.714286 |
 | Saitama Wild Knights              |         7 |   0.214286 |
+| Kubota Spears Funabashi Tokyo-Bay |         6 |   0.666667 |
 | Green Rockets Tokatsu             |         5 |   1        |
 | Black Rams Tokyo                  |         5 |   1        |
 | Toshiba Brave Lupus Tokyo         |         5 |   0.6      |
-| Kubota Spears Funabashi Tokyo-Bay |         5 |   0.8      |
 | Urayasu D-Rocks                   |         4 |   0.75     |
 | Kobelco Kobe Steelers             |         4 |   0        |
 | Coca-Cola Red Sparks              |         4 |   1        |
+| Toyota Verblitz                   |         3 |   0.666667 |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
-| Toyota Verblitz                   |         2 |   1        |
 | Toyota Industries Shuttles Aichi  |         2 |   1        |
 | Bulls                             |         2 |   0.5      |
 | Tokyo Sungoliath                  |         2 |   0        |

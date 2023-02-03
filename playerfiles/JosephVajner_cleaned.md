@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Joseph Vajner  
-date: 2023-01-06 00:17:18.926591  
+date: 2023-02-02 19:03:25.693556  
 categories: player  
 ---
 # Joseph Vajner
 
 ## Positions: 
 
-## Current elo: 104.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

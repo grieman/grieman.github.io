@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Remi Bouet  
-date: 2023-01-23 15:35:29.537040  
+date: 2023-02-02 19:01:54.821698  
 categories: player  
 ---
 # Remi Bouet
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 110.0
 
-## Current Percentile: 69.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |           129 |   0.352713 |
+| Bourgoin-Jallieu |           130 |       0.35 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Dax                        |        10 |   0.4      |
+| Dax                        |        11 |   0.363636 |
 | Tarbes                     |         9 |   0.444444 |
 | Beziers                    |         9 |   0.333333 |
 | Albi                       |         8 |   0.125    |

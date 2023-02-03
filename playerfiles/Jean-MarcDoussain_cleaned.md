@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Marc Doussain  
-date: 2023-01-13 11:38:33.627533  
+date: 2023-02-02 19:02:57.301817  
 categories: player  
 ---
 # Jean-Marc Doussain
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -24,15 +24,15 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           212 |   0.603774 |
-| Lyon             |            97 |   0.556701 |
+| Lyon             |           100 |   0.56     |
 | France           |            20 |   0.4      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |        26 |   0.5      |
 | Montpellier Herault  |        25 |   0.64     |
+| Clermont Auvergne    |        21 |   0.428571 |
 | Stade Francais Paris |        20 |   0.775    |
-| Clermont Auvergne    |        20 |   0.4      |
 | Castres Olympique    |        19 |   0.526316 |
 | Bordeaux Begles      |        19 |   0.605263 |
 | Racing 92            |        18 |   0.611111 |
@@ -42,11 +42,11 @@ categories: player
 | Bayonne              |        11 |   0.636364 |
 | Agen                 |        11 |   0.818182 |
 | Lyon                 |        10 |   0.7      |
-| Biarritz Olympique   |         9 |   0.888889 |
 | Grenoble             |         9 |   0.666667 |
+| Biarritz Olympique   |         9 |   0.888889 |
+| Saracens             |         8 |   0.25     |
 | Perpignan            |         8 |   0.5      |
 | Stade Toulousain     |         8 |   0.6875   |
-| Saracens             |         7 |   0.285714 |
 | Oyonnax              |         6 |   0.583333 |
 | Connacht             |         5 |   0.6      |
 | Glasgow Warriors     |         5 |   0.6      |
@@ -56,6 +56,7 @@ categories: player
 | South Africa         |         3 |   0        |
 | Zebre                |         3 |   1        |
 | Leicester Tigers     |         2 |   0.5      |
+| Bulls                |         2 |   0.5      |
 | Wales                |         2 |   0.5      |
 | Munster              |         2 |   0        |
 | Italy                |         2 |   1        |
@@ -68,7 +69,6 @@ categories: player
 | Benetton Treviso     |         2 |   1        |
 | Bourgoin-Jallieu     |         2 |   1        |
 | Scotland             |         2 |   1        |
-| Bulls                |         1 |   0        |
 | Bath Rugby           |         1 |   0        |
 | Leinster             |         1 |   0        |
 | Dragons              |         1 |   1        |

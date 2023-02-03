@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francois Cros  
-date: 2023-01-23 15:31:33.179765  
+date: 2023-02-02 18:58:10.918229  
 categories: player  
 ---
 # Francois Cros
@@ -23,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |           135 |   0.633333 |
+| Stade Toulousain |           136 |   0.636029 |
 | France           |            15 |   0.933333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Montpellier Herault  |        12 |   0.5      |
 | Castres Olympique    |        11 |   0.363636 |
-| Montpellier Herault  |        11 |   0.454545 |
 | La Rochelle          |        10 |   0.8      |
 | Toulon               |        10 |   0.65     |
 | Clermont Auvergne    |        10 |   0.6      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi Melikidze  
-date: 2023-01-06 00:19:04.789492  
+date: 2023-02-02 19:13:14.488581  
 categories: player  
 ---
 # Giorgi Melikidze
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 121.0
+## Current elo: 115.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,24 +23,24 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |           116 |   0.478448 |
+| Stade Francais Paris |           118 |   0.478814 |
 | Georgia              |            22 |   0.727273 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Pau                 |        10 |   0.8      |
 | Brive               |         9 |   0.444444 |
+| Castres Olympique   |         9 |   0.777778 |
 | Montpellier Herault |         8 |   0.3125   |
 | Stade Toulousain    |         8 |   0.5625   |
-| Castres Olympique   |         8 |   0.75     |
 | Clermont Auvergne   |         8 |   0.3125   |
 | Toulon              |         7 |   0        |
 | Lyon                |         6 |   0.333333 |
 | La Rochelle         |         6 |   0.333333 |
 | Racing 92           |         6 |   0.5      |
 | Bordeaux Begles     |         5 |   0.2      |
+| Perpignan           |         5 |   0.8      |
 | Russia              |         4 |   1        |
-| Perpignan           |         4 |   1        |
 | Edinburgh           |         4 |   0.5      |
 | Bayonne             |         4 |   0.75     |
 | Grenoble            |         3 |   0.333333 |

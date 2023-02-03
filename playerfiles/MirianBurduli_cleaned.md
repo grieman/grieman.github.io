@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mirian Burduli  
-date: 2023-01-06 11:43:08.416438  
+date: 2023-02-02 18:41:28.165597  
 categories: player  
 ---
 # Mirian Burduli
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 96.0
 
-## Current Percentile: 58.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Carcassonne                |            42 |   0.404762 |
-| Montauban                  |            33 |   0.484848 |
+| Montauban                  |            35 |   0.485714 |
 | Valence Romans Drome Rugby |            27 |   0.388889 |
 | Roval Drome XV             |            14 |   0.214286 |
 
@@ -37,14 +37,14 @@ categories: player
 | Vannes             |         7 |  0.642857  |
 | Carcassonne        |         6 |  0.5       |
 | Grenoble           |         6 |  0.0833333 |
+| Provence Rugby     |         6 |  0.166667  |
 | Rouen              |         6 |  0.333333  |
 | Soyaux-Angouleme   |         6 |  0.583333  |
 | Montauban          |         5 |  0.2       |
 | Oyonnax            |         5 |  0.2       |
-| Provence Rugby     |         5 |  0         |
+| Massy              |         4 |  0.5       |
 | Bayonne            |         4 |  0         |
 | Perpignan          |         4 |  0         |
-| Massy              |         3 |  0.666667  |
 | Dax                |         2 |  1         |
 | Brive              |         2 |  0.5       |
 | Narbonne           |         2 |  0.5       |

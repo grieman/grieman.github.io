@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Serafin Bordoli  
-date: 2023-01-17 11:43:02.816239  
+date: 2023-02-02 19:03:45.175893  
 categories: player  
 ---
 # Serafin Bordoli

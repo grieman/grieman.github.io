@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Herring  
-date: 2023-01-13 11:34:24.305449  
+date: 2023-02-02 18:42:27.865498  
 categories: player  
 ---
 # Rob Herring
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Ulster       |           217 |   0.665899 |
+| Ulster       |           219 |   0.664384 |
 | Ireland      |            28 |   0.821429 |
 | London Irish |             9 |   0.333333 |
 | Munster      |             1 |   1        |
@@ -48,34 +48,34 @@ categories: player
 | Saracens                 |         4 |   0        |
 | Italy                    |         4 |   1        |
 | Australia                |         4 |   0.75     |
+| La Rochelle              |         4 |   0.25     |
 | Stade Toulousain         |         3 |   0.666667 |
 | Scotland                 |         3 |   1        |
 | Bath Rugby               |         3 |   0.666667 |
 | New Zealand              |         3 |   1        |
 | England                  |         3 |   0.666667 |
-| La Rochelle              |         3 |   0.333333 |
-| Gloucester Rugby         |         2 |   0        |
-| Castres Olympique        |         2 |   1        |
 | Fiji                     |         2 |   1        |
+| Castres Olympique        |         2 |   1        |
 | Stormers                 |         2 |   0        |
 | Toulon                   |         2 |   0        |
-| Oyonnax                  |         2 |   1        |
 | France                   |         2 |   0        |
-| South Africa             |         2 |   1        |
-| Cheetahs                 |         2 |   0.75     |
+| Sale Sharks              |         2 |   0.5      |
+| Oyonnax                  |         2 |   1        |
+| Gloucester Rugby         |         2 |   0        |
+| Northampton Saints       |         2 |   0.5      |
 | Wales                    |         2 |   0.5      |
+| Cheetahs                 |         2 |   0.75     |
 | Wasps                    |         2 |   0.5      |
 | Lions                    |         2 |   1        |
-| Northampton Saints       |         2 |   0.5      |
+| South Africa             |         2 |   1        |
 | United States of America |         1 |   1        |
 | Yorkshire Carnegie       |         1 |   0        |
 | Leeds                    |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Exeter Chiefs            |         1 |   1        |
-| Sale Sharks              |         1 |   0        |
+| Japan                    |         1 |   1        |
 | Racing 92                |         1 |   1        |
 | Newcastle Falcons        |         1 |   1        |
 | Bordeaux Begles          |         1 |   0        |
 | Montpellier Herault      |         1 |   1        |
-| Japan                    |         1 |   1        |
 | Argentina                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Nagy  
-date: 2023-01-30 17:53:39.977295  
+date: 2023-02-02 18:50:27.828329  
 categories: player  
 ---
 # Max Nagy
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 

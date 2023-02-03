@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Christian Laui  
-date: 2023-01-21 15:44:29.860983  
+date: 2023-02-02 18:56:23.439755  
 categories: player  
 ---
 # Christian Laui
 
 ## Positions: C
 
-## Current elo: 95.0
+## Current elo: 92.0
 
-## Current Percentile: 56.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |             3 |   0.333333 |
+| Green Rockets Tokatsu |             4 |       0.25 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Hanazono Kintetsu Liners |         1 |          1 |
+| Shizuoka Blue Revs       |         1 |          0 |
 | Tokyo Sungoliath         |         1 |          0 |
 | Yokohama Canon Eagles    |         1 |          0 |

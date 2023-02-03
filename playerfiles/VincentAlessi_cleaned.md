@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent Alessi  
-date: 2023-01-17 11:41:04.896014  
+date: 2023-02-02 18:45:33.982187  
 categories: player  
 ---
 # Vincent Alessi
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Aubenas             |            18 |   0.25     |
-| Carqueiranne-Hyères |            11 |   0.454545 |
+| Carqueiranne-Hyères |            12 |   0.416667 |
 | Nice                |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,7 +38,7 @@ categories: player
 | Narbonne                   |         2 |   0        |
 | Nice                       |         2 |   0        |
 | US Bressane                |         2 |   0        |
+| Valence Romans Drome Rugby |         2 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Dax                        |         1 |   0        |
 | Rennes                     |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0        |

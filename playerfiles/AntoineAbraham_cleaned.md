@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antoine Abraham  
-date: 2023-01-13 11:35:17.588182  
+date: 2023-02-02 18:52:07.517962  
 categories: player  
 ---
 # Antoine Abraham
@@ -23,14 +23,14 @@ categories: player
 |:--------|--------------:|-----------:|
 | Vannes  |            48 |   0.552083 |
 | Massy   |            25 |   0.2      |
-| Oyonnax |             8 |   1        |
+| Oyonnax |            10 |   0.9      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Nevers             |         8 |   0.5625   |
 | Montauban          |         7 |   0.571429 |
-| Nevers             |         7 |   0.5      |
+| Mont-de-Marsan     |         6 |   0.333333 |
 | Beziers            |         6 |   0.5      |
-| Mont-de-Marsan     |         5 |   0.4      |
 | Bayonne            |         5 |   0        |
 | Biarritz Olympique |         5 |   0.4      |
 | Carcassonne        |         5 |   0.8      |

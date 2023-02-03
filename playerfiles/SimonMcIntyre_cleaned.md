@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon McIntyre  
-date: 2023-01-06 00:24:58.884645  
+date: 2023-02-02 19:02:20.821402  
 categories: player  
 ---
 # Simon McIntyre
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 99.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Wasps       |           191 |   0.520942 |
-| Sale Sharks |            37 |   0.513514 |
+| Sale Sharks |            40 |   0.525    |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Exeter Chiefs      |        24 |   0.395833 |
 | Leicester Tigers   |        21 |   0.52381  |
-| Bath Rugby         |        20 |   0.475    |
-| Harlequins         |        18 |   0.333333 |
+| Bath Rugby         |        21 |   0.5      |
+| Harlequins         |        19 |   0.368421 |
 | Gloucester Rugby   |        17 |   0.676471 |
 | Northampton Saints |        16 |   0.5      |
 | Worcester Warriors |        16 |   0.875    |
@@ -40,10 +40,11 @@ categories: player
 | Bristol Rugby      |         6 |   0.833333 |
 | Bayonne            |         4 |   0.875    |
 | Leinster           |         4 |   0.375    |
+| Ulster             |         3 |   0.666667 |
 | Toulon             |         3 |   0.333333 |
 | Dragons            |         3 |   0        |
-| Ulster             |         3 |   0.666667 |
 | Wasps              |         3 |   0.666667 |
+| Stade Toulousain   |         2 |   0.5      |
 | Agen               |         2 |   1        |
 | London Welsh       |         2 |   1        |
 | Arix Viadana       |         2 |   1        |
@@ -51,7 +52,6 @@ categories: player
 | Castres Olympique  |         2 |   1        |
 | Bordeaux Begles    |         2 |   0        |
 | Ospreys            |         1 |   0        |
-| Stade Toulousain   |         1 |   1        |
 | Cardiff Blues      |         1 |   0        |
 | Brive              |         1 |   0        |
 | Biarritz Olympique |         1 |   0        |

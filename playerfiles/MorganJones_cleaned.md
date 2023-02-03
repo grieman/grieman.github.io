@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Morgan Jones  
-date: 2023-01-15 11:44:00.581067  
+date: 2023-02-02 18:43:30.760502  
 categories: player  
 ---
 # Morgan Jones
 
 ## Positions: L
 
-## Current elo: 52.0
+## Current elo: 53.0
 
-## Current Percentile: 2.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |            27 |   0.444444 |
+| Scarlets |            28 |   0.464286 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -29,12 +29,12 @@ categories: player
 | Connacht         |         3 |   0.333333 |
 | Leinster         |         3 |   0        |
 | Zebre            |         3 |   1        |
+| Bulls            |         2 |   0.5      |
 | Dragons          |         2 |   0.5      |
 | Edinburgh        |         2 |   0.5      |
 | Ospreys          |         2 |   0.5      |
 | Bordeaux Begles  |         1 |   0        |
 | Bristol Rugby    |         1 |   0        |
-| Bulls            |         1 |   0        |
 | Cardiff Blues    |         1 |   1        |
 | Cheetahs         |         1 |   1        |
 | Lions            |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Aristot Benz-Salomon  
-date: 2023-01-13 11:30:26.350093  
+date: 2023-02-02 18:42:49.397613  
 categories: player  
 ---
 # Aristot Benz-Salomon
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 94.0
 
 ## Current Percentile: 60.0
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |             5 |        0.6 |
+| Hartpury College |             7 |   0.714286 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Caldy               |         1 |          1 |
-| Doncaster           |         1 |          0 |
-| Ealing Trailfinders |         1 |          0 |
-| London Scottish     |         1 |          1 |
-| Nottingham          |         1 |          1 |
+| Doncaster           |         2 |        0.5 |
+| Caldy               |         1 |        1   |
+| Ealing Trailfinders |         1 |        0   |
+| London Scottish     |         1 |        1   |
+| Nottingham          |         1 |        1   |
+| Richmond            |         1 |        1   |

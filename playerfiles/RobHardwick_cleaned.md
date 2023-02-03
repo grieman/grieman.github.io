@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Hardwick  
-date: 2023-01-21 15:42:23.977401  
+date: 2023-02-02 18:48:09.856491  
 categories: player  
 ---
 # Rob Hardwick
@@ -22,7 +22,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | London Irish |            42 |   0.440476 |
-| Ampthill     |             6 |   0.166667 |
+| Ampthill     |             7 |   0.285714 |
 | Bedford      |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -37,6 +37,7 @@ categories: player
 | Leicester Tigers    |         3 |   0        |
 | Newcastle Falcons   |         3 |   0.666667 |
 | Northampton Saints  |         3 |   0.666667 |
+| London Scottish     |         2 |   1        |
 | Rotherham Titans    |         2 |   1        |
 | Ealing Trailfinders |         2 |   0        |
 | Cornish Pirates     |         2 |   0        |
@@ -44,5 +45,4 @@ categories: player
 | Hartpury College    |         1 |   1        |
 | Jersey              |         1 |   0        |
 | Bedford             |         1 |   0        |
-| London Scottish     |         1 |   1        |
 | Bristol Rugby       |         1 |   1        |

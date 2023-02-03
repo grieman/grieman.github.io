@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Martin Gonzalez  
-date: 2023-01-06 00:24:19.820009  
+date: 2023-02-02 18:39:51.807403  
 categories: player  
 ---
 # Juan Martin Gonzalez
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 103.0
+## Current elo: 95.0
 
-## Current Percentile: 74.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            23 |   0.413043 |
+| London Irish |            27 |   0.444444 |
 | Argentina    |            21 |   0.333333 |
 | Jaguares XV  |             7 |   1        |
 
@@ -35,14 +35,15 @@ categories: player
 | South Africa        |         3 |   0        |
 | Saracens            |         3 |   0.666667 |
 | Gloucester Rugby    |         3 |   0        |
-| Leicester Tigers    |         2 |   0        |
+| Harlequins          |         3 |   0.333333 |
+| Montpellier Herault |         2 |   0.25     |
 | Selknam             |         2 |   1        |
 | Sale Sharks         |         2 |   0.25     |
 | Olimpia Lions       |         2 |   1        |
 | Bath Rugby          |         2 |   0.5      |
 | Newcastle Falcons   |         2 |   1        |
-| Harlequins          |         2 |   0        |
-| Montpellier Herault |         1 |   0        |
+| Leicester Tigers    |         2 |   0        |
+| Bristol Rugby       |         2 |   1        |
 | Italy               |         1 |   1        |
 | Northampton Saints  |         1 |   0        |
 | France              |         1 |   0        |
@@ -53,7 +54,7 @@ categories: player
 | England             |         1 |   1        |
 | Cobras              |         1 |   1        |
 | Cafeteros Pro       |         1 |   1        |
-| Bristol Rugby       |         1 |   1        |
+| Stormers            |         1 |   0        |
 | Wales               |         1 |   0        |
 | Wasps               |         1 |   0        |
 | Worcester Warriors  |         1 |   1        |

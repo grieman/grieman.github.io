@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Gibson  
-date: 2023-01-13 11:35:56.007894  
+date: 2023-02-02 19:05:12.976388  
 categories: player  
 ---
 # Will Gibson
 
 ## Positions: FL
 
-## Current elo: 88.0
+## Current elo: 80.0
 
-## Current Percentile: 14.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,15 +21,16 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            11 |   0.454545 |
+| Cornish Pirates |            14 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bedford             |         2 |        0   |
 | Doncaster           |         2 |        0.5 |
 | Ealing Trailfinders |         2 |        0   |
+| Jersey              |         2 |        0   |
 | London Scottish     |         2 |        1   |
-| Bedford             |         1 |        0   |
 | Caldy               |         1 |        0   |
 | Hartpury College    |         1 |        1   |
-| Jersey              |         1 |        0   |
+| Nottingham          |         1 |        1   |
 | Richmond            |         1 |        1   |

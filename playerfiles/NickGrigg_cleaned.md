@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Grigg  
-date: 2023-01-13 11:31:17.453375  
+date: 2023-02-02 18:54:49.977710  
 categories: player  
 ---
 # Nick Grigg
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 64.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
 | Glasgow Warriors                |            88 |   0.539773 |
-| Carcassonne                     |            11 |   0.363636 |
+| Carcassonne                     |            13 |   0.423077 |
 | Scotland                        |             9 |   0.388889 |
 | Hawke's Bay                     |             8 |   0.4375   |
 | NTT Docomo Red Hurricanes Osaka |             5 |   0.2      |
@@ -42,16 +42,17 @@ categories: player
 | Benetton Treviso                  |         4 |   1        |
 | Connacht                          |         3 |   0.666667 |
 | Ulster                            |         3 |   0        |
-| Saracens                          |         2 |   0        |
-| Southern Kings                    |         2 |   0.5      |
-| Leicester Tigers                  |         2 |   1        |
-| England                           |         2 |   0.75     |
 | Exeter Chiefs                     |         2 |   0        |
+| Southern Kings                    |         2 |   0.5      |
+| Grenoble                          |         2 |   0.25     |
+| Saracens                          |         2 |   0        |
 | La Rochelle                       |         2 |   0.5      |
+| England                           |         2 |   0.75     |
+| Leicester Tigers                  |         2 |   1        |
+| Rouen                             |         2 |   1        |
 | Cheetahs                          |         2 |   1        |
 | Sale Sharks                       |         1 |   1        |
 | Oyonnax                           |         1 |   0        |
-| Rouen                             |         1 |   1        |
 | Provence Rugby                    |         1 |   0        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
 | Southland                         |         1 |   1        |
@@ -65,7 +66,7 @@ categories: player
 | Otago                             |         1 |   0        |
 | Agen                              |         1 |   1        |
 | North Harbour                     |         1 |   1        |
-| Nevers                            |         1 |   1        |
+| Green Rockets Tokatsu             |         1 |   1        |
 | Aurillac                          |         1 |   1        |
 | Bay of Plenty                     |         1 |   0        |
 | Canterbury                        |         1 |   0        |
@@ -73,9 +74,8 @@ categories: player
 | Counties Manukau                  |         1 |   1        |
 | Fiji                              |         1 |   0        |
 | France                            |         1 |   0        |
-| Green Rockets Tokatsu             |         1 |   1        |
-| Grenoble                          |         1 |   0        |
 | Ireland                           |         1 |   0        |
+| Nevers                            |         1 |   1        |
 | Italy                             |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | Lions                             |         1 |   1        |

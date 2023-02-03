@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Evans  
-date: 2023-01-06 00:16:39.754033  
+date: 2023-02-02 19:06:23.730783  
 categories: player  
 ---
 # Will Evans
 
 ## Positions: FL
 
-## Current elo: 98.0
+## Current elo: 91.0
 
-## Current Percentile: 43.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Harlequins       |            46 |    0.51087 |
-| Leicester Tigers |            40 |    0.525   |
+| Harlequins       |            49 |      0.5   |
+| Leicester Tigers |            40 |      0.525 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,19 +32,19 @@ categories: player
 | Saracens           |         6 |   0        |
 | Northampton Saints |         6 |   0.833333 |
 | Bristol Rugby      |         6 |   0.333333 |
+| London Irish       |         6 |   0.583333 |
 | Worcester Warriors |         6 |   0.5      |
 | Exeter Chiefs      |         6 |   0        |
-| London Irish       |         5 |   0.7      |
+| Racing 92          |         5 |   0.4      |
 | Sale Sharks        |         5 |   0.8      |
-| Racing 92          |         4 |   0.5      |
 | Leicester Tigers   |         3 |   0.666667 |
 | Glasgow Warriors   |         2 |   0        |
 | Newcastle Falcons  |         2 |   1        |
+| Sharks             |         2 |   0.5      |
 | Ulster             |         2 |   0        |
 | Munster            |         2 |   0.5      |
 | Dragons            |         1 |   1        |
 | Clermont Auvergne  |         1 |   0        |
 | Castres Olympique  |         1 |   0        |
 | Scarlets           |         1 |   0        |
-| Sharks             |         1 |   0        |
 | Cardiff Blues      |         1 |   1        |

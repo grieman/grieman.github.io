@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sohei Nishimura  
-date: 2023-01-25 19:00:13.935629  
+date: 2023-02-02 18:43:10.978615  
 categories: player  
 ---
 # Sohei Nishimura
 
 ## Positions: P
 
-## Current elo: 70.0
+## Current elo: 71.0
 
 ## Current Percentile: 2.0
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            17 |   0.558824 |
+| Shizuoka Blue Revs |            18 |   0.583333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Green Rockets Tokatsu             |         3 |   1        |
 | Yokohama Canon Eagles             |         3 |   0.333333 |
-| Green Rockets Tokatsu             |         2 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Saitama Wild Knights              |         2 |   0.5      |
 | Black Rams Tokyo                  |         1 |   0        |

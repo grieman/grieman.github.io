@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Youngs  
-date: 2023-01-06 00:19:13.520386  
+date: 2023-02-02 18:53:45.309401  
 categories: player  
 ---
 # Ben Youngs
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 110.0
+## Current elo: 95.0
 
-## Current Percentile: 75.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           289 |   0.633218 |
+| Leicester Tigers        |           292 |   0.630137 |
 | England                 |           120 |   0.654167 |
 | British and Irish Lions |             2 |   0.5      |
 
@@ -35,9 +35,9 @@ categories: player
 | Wasps                    |        19 |   0.421053 |
 | Gloucester Rugby         |        18 |   0.75     |
 | Sale Sharks              |        18 |   0.611111 |
+| Newcastle Falcons        |        17 |   0.823529 |
 | Australia                |        17 |   0.764706 |
 | Saracens                 |        17 |   0.411765 |
-| Newcastle Falcons        |        16 |   0.875    |
 | Exeter Chiefs            |        16 |   0.625    |
 | Wales                    |        14 |   0.571429 |
 | London Irish             |        14 |   0.857143 |
@@ -52,10 +52,10 @@ categories: player
 | Ulster                   |         8 |   0.25     |
 | Bristol Rugby            |         8 |   0.5625   |
 | Racing 92                |         7 |   0.142857 |
+| Clermont Auvergne        |         7 |   0.571429 |
 | Scarlets                 |         6 |   0.666667 |
 | Munster                  |         6 |   0.5      |
-| Clermont Auvergne        |         6 |   0.5      |
-| Ospreys                  |         5 |   0.4      |
+| Ospreys                  |         6 |   0.333333 |
 | Argentina                |         5 |   0.8      |
 | Leeds                    |         4 |   1        |
 | Stade Toulousain         |         4 |   0.5      |

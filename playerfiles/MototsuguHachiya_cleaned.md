@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mototsugu Hachiya  
-date: 2023-01-30 17:50:38.908044  
+date: 2023-02-02 18:57:18.352518  
 categories: player  
 ---
 # Mototsugu Hachiya

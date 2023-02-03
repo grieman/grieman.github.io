@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Tauleigne  
-date: 2023-01-06 00:21:08.036743  
+date: 2023-02-02 19:07:40.502916  
 categories: player  
 ---
 # Marco Tauleigne
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 96.0
 
-## Current Percentile: 79.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -24,22 +24,22 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bordeaux Begles     |           108 |   0.555556 |
-| Montpellier Herault |            23 |   0.521739 |
+| Montpellier Herault |            25 |   0.52     |
 | France              |             6 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Clermont Auvergne    |        13 |   0.5      |
+| Stade Toulousain     |        12 |   0.291667 |
 | Lyon                 |        11 |   0.454545 |
-| Stade Toulousain     |        11 |   0.318182 |
 | Castres Olympique    |        11 |   0.363636 |
 | Stade Francais Paris |        10 |   0.7      |
 | Toulon               |         9 |   0.5      |
 | Brive                |         6 |   0.583333 |
 | Pau                  |         6 |   0.666667 |
 | Bayonne              |         5 |   0.8      |
+| Racing 92            |         5 |   0.2      |
 | La Rochelle          |         4 |   0.5      |
-| Racing 92            |         4 |   0        |
 | Montpellier Herault  |         4 |   0.625    |
 | Agen                 |         4 |   1        |
 | Exeter Chiefs        |         4 |   0.5      |

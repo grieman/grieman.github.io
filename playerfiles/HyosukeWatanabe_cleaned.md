@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Hyosuke Watanabe  
-date: 2023-01-15 11:45:10.448142  
+date: 2023-02-02 18:46:33.928447  
 categories: player  
 ---
 # Hyosuke Watanabe
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 109.0
 
 ## Current Percentile: None
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toyota Industries Shuttles Aichi |            16 |     0.8125 |
+| Toyota Industries Shuttles Aichi |            17 |   0.823529 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Shimizu Blue Sharks      |         3 |        1   |
 | Chugoku Red Regulions    |         2 |        1   |
 | Coca-Cola Red Sparks     |         2 |        0.5 |
+| Kamaishi Seawaves        |         2 |        1   |
 | Kyuden Voltex            |         2 |        1   |
 | Hanazono Kintetsu Liners |         1 |        0   |
 | Hino Red Dolphins        |         1 |        1   |
-| Kamaishi Seawaves        |         1 |        1   |
 | Kurita Water Gush        |         1 |        1   |
 | Mazda Blue Zoomers       |         1 |        1   |
 | Skyactivs Hiroshima      |         1 |        1   |

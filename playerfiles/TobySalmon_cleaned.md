@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Toby Salmon  
-date: 2023-01-17 11:46:52.086002  
+date: 2023-02-02 18:58:21.373850  
 categories: player  
 ---
 # Toby Salmon
@@ -23,7 +23,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Exeter Chiefs     |            19 |   0.631579 |
 | Rotherham Titans  |            15 |   0.3      |
-| Rouen             |            12 |   0.666667 |
+| Rouen             |            13 |   0.615385 |
 | Agen              |             7 |   0.142857 |
 | Newcastle Falcons |             4 |   0.75     |
 | London Irish      |             1 |   0        |
@@ -46,6 +46,7 @@ categories: player
 | Bedford             |         2 |   0.5      |
 | Doncaster           |         2 |   0        |
 | Beziers             |         2 |   0        |
+| Carcassonne         |         2 |   0        |
 | Northampton Saints  |         1 |   1        |
 | Bath Rugby          |         1 |   1        |
 | Vannes              |         1 |   1        |
@@ -53,7 +54,6 @@ categories: player
 | Scarlets            |         1 |   1        |
 | Biarritz Olympique  |         1 |   1        |
 | Sale Sharks         |         1 |   1        |
-| Carcassonne         |         1 |   0        |
 | Provence Rugby      |         1 |   0        |
 | Castres Olympique   |         1 |   0        |
 | Exeter Chiefs       |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nahuel Tetaz Chaparro  
-date: 2023-01-23 15:31:23.184949  
+date: 2023-02-02 18:54:17.464246  
 categories: player  
 ---
 # Nahuel Tetaz Chaparro
@@ -25,7 +25,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Argentina            |            76 |   0.328947 |
 | Jaguares             |            50 |   0.56     |
-| Benetton Treviso     |            18 |   0.416667 |
+| Benetton Treviso     |            19 |   0.394737 |
 | Dragons              |            18 |   0.333333 |
 | La Plata             |            14 |   0.714286 |
 | Lyon                 |            11 |   0.409091 |
@@ -49,10 +49,10 @@ categories: player
 | Chiefs                   |         4 |  0.5       |
 | Edinburgh                |         4 |  0.5       |
 | Italy                    |         4 |  1         |
+| Munster                  |         4 |  0         |
 | Glasgow Warriors         |         3 |  0.333333  |
 | Crusaders                |         3 |  0         |
 | New South Wales Waratahs |         3 |  1         |
-| Munster                  |         3 |  0         |
 | Hurricanes               |         3 |  0.333333  |
 | Connacht                 |         3 |  0         |
 | Southern Kings           |         3 |  0.333333  |

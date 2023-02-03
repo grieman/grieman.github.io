@@ -1,24 +1,30 @@
 ---  
 layout: page  
 title: Vilikesa Wara  
-date: 2023-01-21 15:43:20.652912  
+date: 2023-02-02 19:07:29.716175  
 categories: player  
 ---
 # Vilikesa Wara
 
-## Positions: 
+## Positions: C
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_VilikesaWara.png)
 # Match History
 
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |             1 |          0 |
+| London Scottish |             3 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Ampthill   |         1 |          0 |
 | Bedford    |         1 |          0 |
+| Jersey     |         1 |          0 |

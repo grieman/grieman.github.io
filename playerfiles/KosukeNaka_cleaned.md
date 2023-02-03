@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kosuke Naka  
-date: 2023-01-30 17:50:46.311604  
+date: 2023-02-02 18:51:52.260385  
 categories: player  
 ---
 # Kosuke Naka

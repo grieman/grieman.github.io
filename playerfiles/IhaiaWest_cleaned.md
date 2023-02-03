@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ihaia West  
-date: 2023-01-13 11:24:30.443885  
+date: 2023-02-02 18:54:07.259949  
 categories: player  
 ---
 # Ihaia West
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 111.0
+## Current elo: 109.0
 
-## Current Percentile: 76.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Hawke's Bay       |            55 |   0.490909 |
 | Blues             |            47 |   0.43617  |
 | Hurricanes        |            15 |   0.6      |
-| Toulon            |            12 |   0.583333 |
+| Toulon            |            15 |   0.666667 |
 | New Zealand Maori |             7 |   0.857143 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -40,6 +40,7 @@ categories: player
 | Lyon                     |         7 |   0.714286 |
 | Highlanders              |         6 |   0.333333 |
 | Bordeaux Begles          |         6 |   0.666667 |
+| Pau                      |         6 |   1        |
 | Stade Francais Paris     |         6 |   0.666667 |
 | Southland                |         6 |   0.75     |
 | Bay of Plenty            |         6 |   0.5      |
@@ -48,7 +49,6 @@ categories: player
 | Hurricanes               |         5 |   0.2      |
 | Northland                |         5 |   0.6      |
 | Clermont Auvergne        |         5 |   0.4      |
-| Pau                      |         5 |   1        |
 | Counties Manukau         |         5 |   0.4      |
 | Castres Olympique        |         5 |   0.4      |
 | Brive                    |         5 |   0.8      |
@@ -63,19 +63,20 @@ categories: player
 | Taranaki                 |         3 |   0.333333 |
 | Agen                     |         3 |   1        |
 | Lions                    |         3 |   0.333333 |
+| Zebre                    |         3 |   1        |
 | Brumbies                 |         3 |   0.666667 |
 | Bulls                    |         3 |   0.666667 |
 | Canterbury               |         3 |   0        |
-| Auckland                 |         2 |   0.5      |
-| Sale Sharks              |         2 |   1        |
+| Canada                   |         2 |   1        |
+| Bath Rugby               |         2 |   1        |
 | Bayonne                  |         2 |   0.5      |
 | Waikato                  |         2 |   0        |
 | United States of America |         2 |   1        |
 | Blues                    |         2 |   1        |
 | Bristol Rugby            |         2 |   0.5      |
 | British and Irish Lions  |         2 |   0.5      |
-| Canada                   |         2 |   1        |
-| Zebre                    |         2 |   1        |
+| Auckland                 |         2 |   0.5      |
+| Sale Sharks              |         2 |   1        |
 | RC Enisei                |         2 |   1        |
 | Queensland Reds          |         2 |   0.75     |
 | Cheetahs                 |         2 |   0.5      |
@@ -86,8 +87,7 @@ categories: player
 | Stormers                 |         1 |   0        |
 | Sunwolves                |         1 |   0        |
 | Glasgow Warriors         |         1 |   1        |
-| Grenoble                 |         1 |   1        |
 | Biarritz Olympique       |         1 |   0        |
+| Grenoble                 |         1 |   1        |
 | Jaguares                 |         1 |   1        |
-| Bath Rugby               |         1 |   1        |
 | Southern Kings           |         1 |   1        |

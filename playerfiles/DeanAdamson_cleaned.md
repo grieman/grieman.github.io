@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dean Adamson  
-date: 2023-01-21 15:42:43.595827  
+date: 2023-02-02 18:57:30.161221  
 categories: player  
 ---
 # Dean Adamson
 
 ## Positions: W
 
-## Current elo: 94.0
+## Current elo: 98.0
 
-## Current Percentile: 26.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            87 |   0.494253 |
+| Bedford |            89 |   0.494382 |
 | Rouen   |            11 |   0.363636 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | London Scottish            |        11 |   0.772727 |
+| Cornish Pirates            |         9 |   0.444444 |
 | Nottingham                 |         8 |   0.75     |
-| Cornish Pirates            |         8 |   0.375    |
 | Doncaster                  |         8 |   0.3125   |
 | Ealing Trailfinders        |         8 |   0.25     |
 | Jersey                     |         7 |   0.571429 |
@@ -40,13 +40,13 @@ categories: player
 | Ampthill                   |         3 |   0.333333 |
 | London Irish               |         3 |   0        |
 | Colomiers                  |         2 |   0        |
+| Caldy                      |         2 |   0.5      |
 | Bristol Rugby              |         2 |   0        |
 | Vannes                     |         2 |   0        |
 | Aurillac                   |         1 |   1        |
 | Carcassonne                |         1 |   0        |
 | London Welsh               |         1 |   1        |
 | Newcastle Falcons          |         1 |   0        |
-| Caldy                      |         1 |   1        |
 | Perpignan                  |         1 |   1        |
 | Provence Rugby             |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |

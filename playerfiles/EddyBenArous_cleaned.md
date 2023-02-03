@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eddy Ben Arous  
-date: 2023-01-06 00:13:46.866166  
+date: 2023-02-02 19:09:57.168196  
 categories: player  
 ---
 # Eddy Ben Arous
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 120.0
+## Current elo: 106.0
 
-## Current Percentile: 93.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |           253 |   0.624506 |
+| Racing 92 |           257 |   0.622568 |
 | France    |            20 |   0.55     |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,36 +32,36 @@ categories: player
 | Castres Olympique    |        19 |   0.552632 |
 | Clermont Auvergne    |        17 |   0.676471 |
 | Stade Toulousain     |        16 |   0.5      |
+| Montpellier Herault  |        15 |   0.7      |
 | Stade Francais Paris |        15 |   0.6      |
-| Montpellier Herault  |        14 |   0.75     |
 | Brive                |        13 |   0.807692 |
 | Bordeaux Begles      |        12 |   0.75     |
-| La Rochelle          |        11 |   0.545455 |
+| La Rochelle          |        12 |   0.583333 |
 | Lyon                 |        10 |   0.6      |
-| Perpignan            |         9 |   0.722222 |
 | Pau                  |         9 |   0.833333 |
+| Perpignan            |         9 |   0.722222 |
 | Bayonne              |         8 |   0.625    |
+| Saracens             |         7 |   0.285714 |
+| Grenoble             |         7 |   0.571429 |
 | Munster              |         7 |   0.642857 |
 | Biarritz Olympique   |         7 |   0.714286 |
-| Grenoble             |         7 |   0.571429 |
-| Saracens             |         7 |   0.285714 |
-| Agen                 |         6 |   0.666667 |
-| Oyonnax              |         6 |   0.5      |
 | Leicester Tigers     |         6 |   0.833333 |
+| Oyonnax              |         6 |   0.5      |
+| Agen                 |         6 |   0.666667 |
 | Scarlets             |         5 |   0.9      |
 | Northampton Saints   |         4 |   0.875    |
-| Italy                |         4 |   1        |
 | Ireland              |         4 |   0.25     |
-| Ospreys              |         4 |   0.875    |
+| Italy                |         4 |   1        |
 | Edinburgh            |         4 |   0.5      |
+| Ospreys              |         4 |   0.875    |
 | Scotland             |         3 |   0.666667 |
+| Leinster             |         3 |   0        |
+| Harlequins           |         3 |   0.333333 |
 | Glasgow Warriors     |         3 |   0.333333 |
-| South Africa         |         2 |   0        |
-| Leinster             |         2 |   0        |
 | New Zealand          |         2 |   0        |
 | Mont-de-Marsan       |         2 |   0.5      |
-| Harlequins           |         2 |   0        |
 | Cardiff Blues        |         2 |   0        |
+| South Africa         |         2 |   0        |
 | Benetton Treviso     |         2 |   1        |
 | Wales                |         2 |   0.5      |
 | London Irish         |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kamaliele Tufele  
-date: 2023-01-13 11:23:56.386613  
+date: 2023-02-02 18:51:40.922534  
 categories: player  
 ---
 # Kamaliele Tufele
 
 ## Positions: P
 
-## Current elo: 86.0
+## Current elo: 89.0
 
-## Current Percentile: 17.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 |:------------|--------------:|-----------:|
 | Montauban   |            25 |   0.44     |
 | Albi        |            12 |   0.416667 |
+| Nevers      |            10 |   0.55     |
 | Agen        |             8 |   0.25     |
-| Nevers      |             8 |   0.5625   |
 | La Rochelle |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -32,14 +32,14 @@ categories: player
 | Mont-de-Marsan      |         4 |   0.25     |
 | Carcassonne         |         4 |   0.25     |
 | Montauban           |         3 |   0        |
+| Vannes              |         3 |   0.333333 |
 | Soyaux-Angouleme    |         3 |   1        |
 | Biarritz Olympique  |         3 |   0.166667 |
+| Oyonnax             |         3 |   0.333333 |
 | Colomiers           |         3 |   0.666667 |
 | Narbonne            |         3 |   1        |
-| Vannes              |         2 |   0        |
 | Rouen               |         2 |   1        |
 | Pau                 |         2 |   0        |
-| Oyonnax             |         2 |   0.5      |
 | Nevers              |         2 |   0.5      |
 | Aurillac            |         2 |   0.5      |
 | Agen                |         2 |   0.5      |

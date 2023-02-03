@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jason-Colin Fraser  
-date: 2023-01-13 11:34:13.259451  
+date: 2023-02-02 18:45:53.262943  
 categories: player  
 ---
 # Jason-Colin Fraser
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Zimbabwe
 
-## Current elo: 131.0
+## Current elo: 132.0
 
 ## Current Percentile: 96.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Nevers           |            98 |   0.581633 |
+| Nevers           |            99 |   0.585859 |
 | Pumas            |            10 |   0.35     |
 | Griquas          |             8 |   0.5      |
 | Boland Cavaliers |             3 |   0.333333 |
@@ -32,11 +32,11 @@ categories: player
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Soyaux-Angouleme       |         9 |   0.611111 |
+| Vannes                 |         8 |   0.5      |
 | Carcassonne            |         8 |   0.375    |
 | Montauban              |         8 |   0.375    |
 | Mont-de-Marsan         |         7 |   0.714286 |
 | Aurillac               |         7 |   0.571429 |
-| Vannes                 |         7 |   0.428571 |
 | Beziers                |         5 |   0.4      |
 | Biarritz Olympique     |         5 |   0.8      |
 | Colomiers              |         5 |   0.6      |

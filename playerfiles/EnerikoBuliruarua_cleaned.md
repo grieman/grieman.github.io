@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eneriko Buliruarua  
-date: 2023-01-13 11:32:18.139166  
+date: 2023-02-02 18:48:33.850376  
 categories: player  
 ---
 # Eneriko Buliruarua
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 23.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | Brive       |            32 |   0.34375  |
 | La Rochelle |            16 |   0.375    |
-| Bayonne     |             8 |   0.625    |
+| Bayonne     |            11 |   0.545455 |
 | Toulon      |             5 |   0.2      |
 | Fiji        |             3 |   0.166667 |
 
@@ -44,11 +44,14 @@ categories: player
 | Agen                 |         3 |   0.333333 |
 | Bordeaux Begles      |         3 |   0.333333 |
 | Bayonne              |         2 |   0.5      |
-| New Zealand          |         2 |   0        |
 | La Rochelle          |         2 |   0.5      |
+| New Zealand          |         2 |   0        |
 | Bristol Rugby        |         2 |   0        |
 | Biarritz Olympique   |         2 |   0.5      |
-| Oyonnax              |         1 |   0        |
 | Leicester Tigers     |         1 |   0        |
+| Oyonnax              |         1 |   0        |
 | Georgia              |         1 |   0.5      |
+| Brive                |         1 |   1        |
+| Scarlets             |         1 |   0        |
+| Benetton Treviso     |         1 |   0        |
 | Zebre                |         1 |   0        |

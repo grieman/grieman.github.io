@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Samuel Ezeala  
-date: 2023-01-06 00:24:06.954326  
+date: 2023-02-02 19:08:27.855267  
 categories: player  
 ---
 # Samuel Ezeala
 
 ## Positions: W, C
 
-## Current elo: 90.0
+## Current elo: 77.0
 
-## Current Percentile: 10.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            29 |   0.517241 |
+| Clermont Auvergne |            32 |        0.5 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Lyon                 |         4 |   0.5      |
 | Bordeaux Begles      |         3 |   0.333333 |
-| Lyon                 |         3 |   0.666667 |
 | Pau                  |         3 |   0.666667 |
 | Stade Francais Paris |         3 |   0.666667 |
 | Stade Toulousain     |         3 |   0        |
@@ -38,3 +38,5 @@ categories: player
 | Racing 92            |         2 |   0        |
 | Brive                |         1 |   0        |
 | La Rochelle          |         1 |   1        |
+| Perpignan            |         1 |   1        |
+| Stormers             |         1 |   0        |

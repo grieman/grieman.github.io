@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johnny Sexton  
-date: 2023-01-06 00:26:08.701195  
+date: 2023-02-02 18:38:46.770808  
 categories: player  
 ---
 # Johnny Sexton
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 144.0
+## Current elo: 147.0
 
 ## Current Percentile: 98.0
 

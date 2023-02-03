@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sitaleki Timani  
-date: 2023-01-13 11:28:06.608945  
+date: 2023-02-02 19:02:16.651955  
 categories: player  
 ---
 # Sitaleki Timani
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Barbarians
 
-## Current elo: 117.0
+## Current elo: 116.0
 
 ## Current Percentile: 89.0
 
@@ -30,8 +30,8 @@ categories: player
 | Brumbies                 |            11 |   0.727273 |
 | Western Force            |            11 |   0.272727 |
 | Toulon                   |             9 |   0.555556 |
+| Stade Francais Paris     |             4 |   0.5      |
 | Barbarians               |             1 |   1        |
-| Stade Francais Paris     |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,50 +40,51 @@ categories: player
 | Bordeaux Begles          |        12 |   0.5      |
 | Lyon                     |        11 |   0.727273 |
 | Stade Toulousain         |        10 |   0.35     |
-| Racing 92                |        10 |   0.4      |
 | Stade Francais Paris     |        10 |   0.8      |
+| Racing 92                |        10 |   0.4      |
 | Toulon                   |         9 |   0.444444 |
-| Brumbies                 |         8 |   0.375    |
-| Bayonne                  |         8 |   0.75     |
 | Queensland Reds          |         8 |   0.375    |
-| Pau                      |         8 |   0.625    |
 | Montpellier Herault      |         8 |   0.375    |
+| Brumbies                 |         8 |   0.375    |
+| Pau                      |         8 |   0.625    |
+| Bayonne                  |         8 |   0.75     |
 | Brive                    |         6 |   0.333333 |
-| Grenoble                 |         6 |   0.75     |
 | Melbourne Rebels         |         6 |   0.666667 |
 | Western Force            |         6 |   0.666667 |
+| Grenoble                 |         6 |   0.75     |
 | Harlequins               |         5 |   0.8      |
 | Agen                     |         5 |   1        |
-| Crusaders                |         5 |   0.2      |
+| Perpignan                |         5 |   0.6      |
 | Blues                    |         5 |   0.4      |
-| Perpignan                |         4 |   0.75     |
-| Cheetahs                 |         4 |   0.25     |
+| Crusaders                |         5 |   0.2      |
 | Chiefs                   |         4 |   0.5      |
 | Oyonnax                  |         4 |   0.625    |
-| New Zealand              |         4 |   0.125    |
 | Northampton Saints       |         4 |   1        |
+| New Zealand              |         4 |   0.125    |
 | Bulls                    |         4 |   0.25     |
-| Ulster                   |         3 |   0.333333 |
-| Argentina                |         3 |   1        |
-| England                  |         3 |   0.666667 |
-| Clermont Auvergne        |         3 |   0.666667 |
-| Highlanders              |         3 |   0.666667 |
-| Hurricanes               |         3 |   0        |
+| Cheetahs                 |         4 |   0.25     |
 | Stormers                 |         3 |   0.666667 |
+| Argentina                |         3 |   1        |
+| Clermont Auvergne        |         3 |   0.666667 |
 | South Africa             |         3 |   0.666667 |
+| Hurricanes               |         3 |   0        |
+| Highlanders              |         3 |   0.666667 |
+| Ulster                   |         3 |   0.333333 |
+| England                  |         3 |   0.666667 |
+| Sharks                   |         2 |   0.5      |
+| Lions                    |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
-| Sharks                   |         2 |   0.5      |
-| Wales                    |         1 |   1        |
-| Cardiff Blues            |         1 |   1        |
-| Timisoara Saracens       |         1 |   1        |
-| Glasgow Warriors         |         1 |   0        |
-| Southern Kings           |         1 |   1        |
-| Scotland                 |         1 |   1        |
-| Saracens                 |         1 |   1        |
 | Ospreys                  |         1 |   1        |
-| Dragons                  |         1 |   1        |
-| Lions                    |         1 |   0        |
+| Saracens                 |         1 |   1        |
+| Scotland                 |         1 |   1        |
+| Southern Kings           |         1 |   1        |
 | Ireland                  |         1 |   1        |
+| Glasgow Warriors         |         1 |   0        |
+| Dragons                  |         1 |   1        |
+| Timisoara Saracens       |         1 |   1        |
+| Cardiff Blues            |         1 |   1        |
+| Benetton Treviso         |         1 |   0        |
+| Wales                    |         1 |   1        |
 | Zebre                    |         1 |   1        |

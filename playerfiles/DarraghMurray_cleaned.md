@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Darragh Murray  
-date: 2023-01-06 00:11:54.970739  
+date: 2023-02-02 18:51:54.290248  
 categories: player  
 ---
 # Darragh Murray
 
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 86.0
 
-## Current Percentile: 53.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,12 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Connacht |             6 |        0.5 |
+| Connacht |             9 |   0.555556 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Munster    |         2 |        0.5 |
-| Brive      |         1 |        1   |
-| Leinster   |         1 |        0   |
-| Ospreys    |         1 |        1   |
-| Ulster     |         1 |        0   |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Munster           |         2 |        0.5 |
+| Brive             |         1 |        1   |
+| Leinster          |         1 |        0   |
+| Lions             |         1 |        1   |
+| Newcastle Falcons |         1 |        0   |
+| Ospreys           |         1 |        1   |
+| Sharks            |         1 |        1   |
+| Ulster            |         1 |        0   |

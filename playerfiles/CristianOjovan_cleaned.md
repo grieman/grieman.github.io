@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cristian Ojovan  
-date: 2023-01-30 11:48:50.642189  
+date: 2023-02-02 19:08:35.687099  
 categories: player  
 ---
 # Cristian Ojovan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 41.0
+## Current Percentile: 42.0
 
 # Elo History
 

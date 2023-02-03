@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ewan Thomas Johnson  
-date: 2023-01-13 11:32:27.404009  
+date: 2023-02-02 18:54:37.160933  
 categories: player  
 ---
 # Ewan Thomas Johnson
 
 ## Positions: L
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: 47.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,28 +21,28 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Vannes    |            39 |   0.564103 |
-| Racing 92 |             1 |   0        |
+| Vannes    |            40 |       0.55 |
+| Racing 92 |             1 |       0    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |         4 |   0.75     |
 | Agen                       |         3 |   0        |
+| Aurillac                   |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Rouen                      |         3 |   0.333333 |
 | Carcassonne                |         3 |   0.666667 |
-| Aurillac                   |         3 |   0.666667 |
-| Massy                      |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
+| Nevers                     |         2 |   0.5      |
 | Montauban                  |         2 |   1        |
 | Mont-de-Marsan             |         2 |   0.5      |
+| Massy                      |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
 | Beziers                    |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Lyon                       |         1 |   0        |
-| Grenoble                   |         1 |   1        |
 | Narbonne                   |         1 |   1        |
-| Nevers                     |         1 |   1        |
+| Grenoble                   |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Bayonne                    |         1 |   0        |
 | US Bressane                |         1 |   1        |

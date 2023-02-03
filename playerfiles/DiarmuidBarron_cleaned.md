@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Diarmuid Barron  
-date: 2023-01-13 11:28:48.760299  
+date: 2023-02-02 18:39:56.960077  
 categories: player  
 ---
 # Diarmuid Barron
 
 ## Positions: H
 
-## Current elo: 120.0
+## Current elo: 123.0
 
-## Current Percentile: 91.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,26 +21,26 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            41 |   0.658537 |
+| Munster |            43 |   0.651163 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Leinster          |         5 |       0    |
 | Ulster            |         5 |       0.4  |
+| Leinster          |         5 |       0    |
 | Cardiff Blues     |         4 |       0.5  |
 | Connacht          |         4 |       0.75 |
+| Benetton Treviso  |         3 |       1    |
 | Dragons           |         3 |       1    |
-| Benetton Treviso  |         2 |       1    |
-| Scarlets          |         2 |       1    |
 | Bulls             |         2 |       0.5  |
+| Stade Toulousain  |         2 |       0    |
+| Scarlets          |         2 |       1    |
 | Zebre             |         2 |       1    |
 | Edinburgh         |         2 |       1    |
 | Castres Olympique |         2 |       1    |
-| Glasgow Warriors  |         1 |       0    |
 | Ospreys           |         1 |       1    |
+| Glasgow Warriors  |         1 |       0    |
 | Sharks            |         1 |       1    |
 | Southern Kings    |         1 |       1    |
-| Stade Toulousain  |         1 |       0    |
 | Stormers          |         1 |       1    |
 | Wasps             |         1 |       1    |
 | Lions             |         1 |       1    |

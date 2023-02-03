@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ian Madigan  
-date: 2023-01-15 11:57:22.390764  
+date: 2023-02-02 19:02:59.836734  
 categories: player  
 ---
 # Ian Madigan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 22.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Leinster        |           164 |   0.728659 |
 | Bristol Rugby   |            46 |   0.695652 |
 | Ireland         |            34 |   0.676471 |
-| Ulster          |            28 |   0.678571 |
+| Ulster          |            29 |   0.689655 |
 | Bordeaux Begles |            22 |   0.477273 |
 | Edinburgh       |             1 |   0        |
 
@@ -70,6 +70,7 @@ categories: player
 | Worcester Warriors       |         2 |   0        |
 | Sale Sharks              |         2 |   0.25     |
 | Rotherham Titans         |         2 |   1        |
+| Stormers                 |         2 |   0.5      |
 | Richmond                 |         2 |   1        |
 | Gloucester Rugby         |         2 |   0.5      |
 | Bedford                  |         2 |   1        |
@@ -84,7 +85,6 @@ categories: player
 | Bayonne                  |         2 |   0.5      |
 | United States of America |         1 |   1        |
 | Biarritz Olympique       |         1 |   1        |
-| Stormers                 |         1 |   0        |
 | Georgia                  |         1 |   1        |
 | Brive                    |         1 |   1        |
 | Samoa                    |         1 |   1        |

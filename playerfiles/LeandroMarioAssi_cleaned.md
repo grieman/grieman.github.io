@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Leandro Mario Assi  
-date: 2023-01-15 11:56:10.126280  
+date: 2023-02-02 18:50:28.914986  
 categories: player  
 ---
 # Leandro Mario Assi
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 99.0
 
-## Current Percentile: 82.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -24,14 +24,14 @@ categories: player
 | Biarritz Olympique |            39 |   0.589744 |
 | Provence Rugby     |            34 |   0.411765 |
 | Bourgoin-Jallieu   |            33 |   0.454545 |
+| Suresnes           |            17 |   0.470588 |
 | Belgrano           |            15 |   0.766667 |
-| Suresnes           |            15 |   0.533333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |         8 |   0.25     |
+| Narbonne                   |         8 |   0.5      |
 | Colomiers                  |         7 |   0.428571 |
-| Narbonne                   |         7 |   0.571429 |
 | Montauban                  |         5 |   0.4      |
 | Chambery                   |         5 |   0.6      |
 | Albi                       |         5 |   0.6      |
@@ -42,11 +42,11 @@ categories: player
 | Perpignan                  |         4 |   0.75     |
 | Massy                      |         4 |   0.5      |
 | Blagnac                    |         4 |   0.5      |
+| Nice                       |         4 |   0        |
 | Tarbes                     |         4 |   0.75     |
 | Bayonne                    |         4 |   0.5      |
 | US Bressane                |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.75     |
-| Nice                       |         3 |   0        |
 | Vannes                     |         3 |   0        |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   1        |

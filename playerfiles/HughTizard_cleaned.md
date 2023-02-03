@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hugh Tizard  
-date: 2023-01-06 00:14:40.193193  
+date: 2023-02-02 18:58:23.917816  
 categories: player  
 ---
 # Hugh Tizard
 
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 96.0
 
-## Current Percentile: 45.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -22,29 +22,29 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Harlequins      |            37 |   0.635135 |
-| Saracens        |            12 |   0.916667 |
+| Saracens        |            16 |   0.875    |
 | London Scottish |             4 |   0.625    |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Bristol Rugby      |         5 |   0.8      |
+| Gloucester Rugby   |         5 |   1        |
 | Newcastle Falcons  |         5 |   0.8      |
-| Bristol Rugby      |         4 |   0.75     |
 | Exeter Chiefs      |         4 |   0.75     |
-| Gloucester Rugby   |         4 |   1        |
 | London Irish       |         4 |   0.375    |
 | Northampton Saints |         4 |   0.75     |
 | Leicester Tigers   |         3 |   0.666667 |
-| Worcester Warriors |         3 |   1        |
-| Saracens           |         3 |   0        |
-| Bath Rugby         |         3 |   0.666667 |
 | Sale Sharks        |         3 |   0        |
+| Worcester Warriors |         3 |   1        |
+| Bath Rugby         |         3 |   0.666667 |
+| Saracens           |         3 |   0        |
 | Cardiff Blues      |         2 |   1        |
 | Castres Olympique  |         2 |   1        |
+| Edinburgh          |         2 |   0.5      |
 | Wasps              |         2 |   1        |
-| Nottingham         |         1 |   0        |
+| Lyon               |         2 |   1        |
 | Ampthill           |         1 |   0.5      |
-| Lyon               |         1 |   1        |
+| Nottingham         |         1 |   0        |
 | Harlequins         |         1 |   1        |
-| Edinburgh          |         1 |   1        |
 | Cornish Pirates    |         1 |   1        |
 | Yorkshire Carnegie |         1 |   1        |

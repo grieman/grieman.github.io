@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Takahiro Doi  
-date: 2023-01-13 11:27:57.167586  
+date: 2023-02-02 18:39:04.747551  
 categories: player  
 ---
 # Takahiro Doi
 
 ## Positions: P
 
-## Current elo: 75.0
+## Current elo: 67.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            63 |   0.285714 |
+| Green Rockets Tokatsu |            66 |   0.272727 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Yokohama Canon Eagles             |         7 |   0.285714 |
 | Kobelco Kobe Steelers             |         7 |   0        |
-| Yokohama Canon Eagles             |         6 |   0.333333 |
-| Shizuoka Blue Revs                |         5 |   0        |
+| Shizuoka Blue Revs                |         6 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         6 |   0.416667 |
 | Tokyo Sungoliath                  |         5 |   0.2      |
 | Black Rams Tokyo                  |         5 |   0.2      |
-| Kubota Spears Funabashi Tokyo-Bay |         5 |   0.5      |
 | Saitama Wild Knights              |         4 |   0        |
 | Toyota Industries Shuttles Aichi  |         4 |   0.75     |
 | Toyota Verblitz                   |         4 |   0.25     |
@@ -40,5 +40,5 @@ categories: player
 | NTT Docomo Red Hurricanes Osaka   |         3 |   0.166667 |
 | Hino Red Dolphins                 |         2 |   0        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0        |
-| Kyuden Voltex                     |         1 |   1        |
 | Mitsubishi Dynaboars              |         1 |   0        |
+| Kyuden Voltex                     |         1 |   1        |

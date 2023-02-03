@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Max Curie  
-date: 2023-01-13 11:39:11.065746  
+date: 2023-02-02 18:52:20.979827  
 categories: player  
 ---
 # Max Curie
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 103.0
 
-## Current Percentile: 74.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Nevers         |            77 |   0.571429 |
 | Albi           |            35 |   0.442857 |
-| Mont-de-Marsan |             9 |   0.777778 |
+| Mont-de-Marsan |            11 |   0.818182 |
 | US Bressane    |             9 |   0.222222 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -32,23 +32,23 @@ categories: player
 | Vannes             |         9 |   0.388889 |
 | Beziers            |         9 |   0.333333 |
 | Colomiers          |         9 |   0.333333 |
-| Biarritz Olympique |         8 |   0.625    |
 | Aurillac           |         8 |   0.625    |
-| Mont-de-Marsan     |         7 |   0.714286 |
+| Biarritz Olympique |         8 |   0.625    |
 | Provence Rugby     |         7 |   0.428571 |
+| Mont-de-Marsan     |         7 |   0.714286 |
 | Bayonne            |         6 |   0.25     |
 | Grenoble           |         6 |   0.583333 |
 | Montauban          |         6 |   0.333333 |
 | Perpignan          |         5 |   0.6      |
 | Narbonne           |         5 |   0.7      |
-| US Bressane        |         4 |   0.75     |
-| Massy              |         4 |   0.75     |
+| Massy              |         5 |   0.8      |
 | Dax                |         4 |   0.5      |
 | Bourgoin-Jallieu   |         4 |   0.75     |
+| US Bressane        |         4 |   0.75     |
+| Oyonnax            |         3 |   0.666667 |
 | Soyaux-Angouleme   |         3 |   0.666667 |
 | Agen               |         3 |   0.666667 |
 | Lyon               |         2 |   0        |
-| Oyonnax            |         2 |   0.5      |
 | Brive              |         2 |   0        |
 | Rouen              |         2 |   1        |
 | Tarbes             |         2 |   0.5      |

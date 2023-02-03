@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon-Pierre Chauvac  
-date: 2023-01-23 15:30:19.735182  
+date: 2023-02-02 19:04:05.560744  
 categories: player  
 ---
 # Simon-Pierre Chauvac
@@ -22,17 +22,17 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Brive               |            68 |   0.522059 |
-| Montpellier Herault |            12 |   0.541667 |
+| Montpellier Herault |            13 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Pau                  |         6 |   0.666667 |
+| Stade Toulousain     |         5 |   0.2      |
 | Clermont Auvergne    |         5 |   0.4      |
 | Racing 92            |         5 |   0.2      |
 | Montpellier Herault  |         4 |   0.375    |
 | Toulon               |         4 |   0.5      |
 | Bordeaux Begles      |         4 |   0.5      |
-| Stade Toulousain     |         4 |   0.25     |
 | Castres Olympique    |         4 |   0.25     |
 | Lyon                 |         4 |   0.5      |
 | La Rochelle          |         3 |   0.333333 |

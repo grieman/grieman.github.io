@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rey Lee-Lo  
-date: 2023-01-06 00:15:59.758660  
+date: 2023-02-02 18:51:20.908808  
 categories: player  
 ---
 # Rey Lee-Lo
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 103.0
+## Current elo: 95.0
 
-## Current Percentile: 61.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Cardiff Blues    |           143 |   0.534965 |
+| Cardiff Blues    |           145 |   0.527586 |
 | Counties Manukau |            37 |   0.581081 |
 | Hurricanes       |            28 |   0.607143 |
 | Samoa            |            18 |   0.25     |
@@ -31,7 +31,7 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Scarlets                 |        14 |   0.5      |
+| Scarlets                 |        15 |   0.466667 |
 | Dragons                  |        13 |   1        |
 | Ospreys                  |        12 |   0.166667 |
 | Munster                  |        10 |   0.5      |
@@ -39,24 +39,24 @@ categories: player
 | Glasgow Warriors         |         9 |   0.111111 |
 | Edinburgh                |         8 |   0.75     |
 | Zebre                    |         7 |   0.857143 |
+| Leinster                 |         7 |   0.142857 |
 | Benetton Treviso         |         7 |   0.714286 |
 | Ulster                   |         7 |   0.357143 |
 | Cheetahs                 |         6 |   0.666667 |
-| Leinster                 |         6 |   0.166667 |
 | Chiefs                   |         5 |   0.4      |
-| Waikato                  |         5 |   0.2      |
 | Blues                    |         5 |   0.4      |
+| Waikato                  |         5 |   0.2      |
 | Highlanders              |         4 |   0.5      |
 | Tasman                   |         4 |   0.5      |
 | Bay of Plenty            |         4 |   0.5      |
 | Lyon                     |         4 |   1        |
 | Wellington               |         4 |   0.5      |
 | Harlequins               |         4 |   0        |
+| Pau                      |         3 |   0.666667 |
 | Sharks                   |         3 |   0.666667 |
 | Queensland Reds          |         3 |   0.666667 |
-| Southland                |         3 |   1        |
-| Pau                      |         3 |   0.666667 |
 | Lions                    |         3 |   0.333333 |
+| Southland                |         3 |   1        |
 | Manawatu                 |         3 |   0.666667 |
 | Crusaders                |         3 |   0.333333 |
 | Hawke's Bay              |         3 |   0.333333 |

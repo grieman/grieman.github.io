@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Itaru Taniguchi  
-date: 2023-01-30 17:54:11.398990  
+date: 2023-02-02 19:04:29.296597  
 categories: player  
 ---
 # Itaru Taniguchi

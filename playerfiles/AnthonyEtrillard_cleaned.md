@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Etrillard  
-date: 2023-01-06 00:24:20.825759  
+date: 2023-02-02 19:04:21.457467  
 categories: player  
 ---
 # Anthony Etrillard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 72.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Toulon  |           167 |   0.580838 |
+| Toulon  |           170 |   0.582353 |
 | Bayonne |            43 |   0.44186  |
 | France  |             3 |   0.333333 |
 
@@ -37,16 +37,16 @@ categories: player
 | Montpellier Herault  |        14 |   0.392857 |
 | Lyon                 |        13 |   0.576923 |
 | Bordeaux Begles      |        12 |   0.5      |
-| Brive                |        11 |   0.454545 |
-| Pau                  |        11 |   0.863636 |
+| Brive                |        12 |   0.416667 |
+| Pau                  |        12 |   0.875    |
 | Racing 92            |        10 |   0.2      |
 | Grenoble             |        10 |   0.5      |
 | Bayonne              |         7 |   0.571429 |
 | Agen                 |         6 |   0.666667 |
 | Scarlets             |         5 |   0.8      |
+| Bath Rugby           |         5 |   0.8      |
 | Perpignan            |         5 |   0.6      |
 | Oyonnax              |         5 |   0.4      |
-| Bath Rugby           |         4 |   0.75     |
 | Australia            |         3 |   0.333333 |
 | Newcastle Falcons    |         2 |   0.5      |
 | Wasps                |         2 |   0.5      |

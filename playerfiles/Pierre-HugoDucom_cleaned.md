@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre-Hugo Ducom  
-date: 2023-01-17 11:46:30.052930  
+date: 2023-02-02 18:41:47.347132  
 categories: player  
 ---
 # Pierre-Hugo Ducom
@@ -21,20 +21,20 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            49 |   0.377551 |
+| Narbonne |            51 |   0.382353 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Suresnes                   |         3 |   0.666667 |
 | US Bressane                |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
+| Albi                       |         3 |   0        |
 | Dax                        |         3 |   0.333333 |
 | Grenoble                   |         2 |   0.25     |
-| Suresnes                   |         2 |   0.5      |
 | Nice                       |         2 |   1        |
 | Nevers                     |         2 |   0        |
 | Rouen                      |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0        |
-| Albi                       |         2 |   0        |
 | Dijon                      |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Tarbes                     |         2 |   0.5      |

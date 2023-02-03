@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Caelan Doris  
-date: 2023-01-06 00:15:44.670410  
+date: 2023-02-02 18:54:54.695833  
 categories: player  
 ---
 # Caelan Doris
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            47 |   0.882979 |
+| Leinster |            49 |   0.887755 |
 | Ireland  |            20 |   0.8      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -39,22 +39,22 @@ categories: player
 | Southern Kings           |         2 |   1        |
 | Scotland                 |         2 |   1        |
 | Scarlets                 |         2 |   1        |
+| Racing 92                |         2 |   1        |
 | Northampton Saints       |         2 |   1        |
 | Zebre                    |         2 |   1        |
 | Italy                    |         2 |   1        |
-| England                  |         2 |   0.5      |
+| Gloucester Rugby         |         2 |   1        |
 | France                   |         2 |   0        |
+| England                  |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
-| Wales                    |         1 |   1        |
-| United States of America |         1 |   1        |
-| Stade Toulousain         |         1 |   1        |
-| Cardiff Blues            |         1 |   1        |
-| South Africa             |         1 |   1        |
-| Fiji                     |         1 |   1        |
 | Lyon                     |         1 |   1        |
-| Saracens                 |         1 |   0        |
-| Racing 92                |         1 |   1        |
-| Ospreys                  |         1 |   1        |
-| Gloucester Rugby         |         1 |   1        |
 | Australia                |         1 |   1        |
+| Ospreys                  |         1 |   1        |
+| Saracens                 |         1 |   0        |
+| Fiji                     |         1 |   1        |
+| South Africa             |         1 |   1        |
+| Cardiff Blues            |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
+| United States of America |         1 |   1        |
+| Wales                    |         1 |   1        |
 | Argentina                |         1 |   1        |

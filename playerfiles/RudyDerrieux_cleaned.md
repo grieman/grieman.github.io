@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rudy Derrieux  
-date: 2023-01-30 11:45:50.652174  
+date: 2023-02-02 19:00:28.170900  
 categories: player  
 ---
 # Rudy Derrieux

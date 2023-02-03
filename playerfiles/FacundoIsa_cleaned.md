@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Isa  
-date: 2023-01-06 00:10:40.745470  
+date: 2023-02-02 19:11:06.647947  
 categories: player  
 ---
 # Facundo Isa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 120.0
+## Current elo: 105.0
 
-## Current Percentile: 88.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Toulon    |            97 |   0.57732  |
+| Toulon    |            99 |   0.575758 |
 | Argentina |            43 |   0.44186  |
 | Jaguares  |            13 |   0.307692 |
 | Lyon      |             7 |   0.714286 |
@@ -34,12 +34,12 @@ categories: player
 | La Rochelle          |         9 |   0.555556 |
 | Stade Francais Paris |         9 |   0.777778 |
 | Australia            |         8 |   0.3125   |
+| Pau                  |         8 |   0.9375   |
 | Stade Toulousain     |         7 |   0.428571 |
+| Brive                |         7 |   0.428571 |
 | Castres Olympique    |         7 |   0.571429 |
 | Montpellier Herault  |         7 |   0.357143 |
 | Clermont Auvergne    |         7 |   0.571429 |
-| Pau                  |         7 |   0.928571 |
-| Brive                |         6 |   0.5      |
 | Scotland             |         6 |   0.333333 |
 | Racing 92            |         6 |   0.166667 |
 | South Africa         |         5 |   0.2      |

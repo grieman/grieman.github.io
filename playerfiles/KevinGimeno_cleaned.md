@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kevin Gimeno  
-date: 2023-01-06 11:43:06.828594  
+date: 2023-02-02 18:40:22.354851  
 categories: player  
 ---
 # Kevin Gimeno
 
 ## Positions: FL, L
 
-## Current elo: 55.0
+## Current elo: 50.0
 
 ## Current Percentile: 0.0
 
@@ -24,7 +24,7 @@ categories: player
 | Carcassonne         |            88 |   0.431818 |
 | Biarritz Olympique  |            23 |   0.478261 |
 | Castres Olympique   |            18 |   0.444444 |
-| Montauban           |            10 |   0.45     |
+| Montauban           |            12 |   0.458333 |
 | Montpellier Herault |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,14 +35,14 @@ categories: player
 | Biarritz Olympique         |         7 |   0.571429 |
 | Narbonne                   |         7 |   0.571429 |
 | Montauban                  |         7 |   0.142857 |
+| Massy                      |         6 |   0.333333 |
 | Perpignan                  |         6 |   0.5      |
 | Dax                        |         6 |   1        |
-| Massy                      |         5 |   0.4      |
 | Aurillac                   |         5 |   0.4      |
 | Bayonne                    |         5 |   0.2      |
+| Provence Rugby             |         5 |   0.5      |
 | Vannes                     |         4 |   0.625    |
 | Soyaux-Angouleme           |         4 |   0.75     |
-| Provence Rugby             |         4 |   0.375    |
 | Pau                        |         4 |   0.75     |
 | Albi                       |         4 |   0.25     |
 | Agen                       |         4 |   0.25     |

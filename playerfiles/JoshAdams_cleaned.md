@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Adams  
-date: 2023-01-06 00:15:15.599112  
+date: 2023-02-02 18:45:57.297248  
 categories: player  
 ---
 # Josh Adams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 113.0
+## Current elo: 105.0
 
-## Current Percentile: 81.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Worcester Warriors      |            64 |   0.359375 |
 | Wales                   |            42 |   0.52381  |
-| Cardiff Blues           |            28 |   0.535714 |
+| Cardiff Blues           |            30 |   0.533333 |
 | British and Irish Lions |             2 |   0.5      |
 | Nottingham              |             1 |   1        |
 | Scarlets                |             1 |   0        |
@@ -36,13 +36,13 @@ categories: player
 | Wasps              |         7 |   0        |
 | South Africa       |         7 |   0.285714 |
 | France             |         6 |   0.333333 |
-| Dragons            |         6 |   0.833333 |
-| Sale Sharks        |         6 |   0.25     |
 | England            |         6 |   0.5      |
+| Sale Sharks        |         6 |   0.25     |
+| Newcastle Falcons  |         6 |   0.666667 |
+| Scarlets           |         6 |   0.333333 |
 | Northampton Saints |         6 |   0.166667 |
+| Dragons            |         6 |   0.833333 |
 | Exeter Chiefs      |         5 |   0.2      |
-| Scarlets           |         5 |   0.4      |
-| Newcastle Falcons  |         5 |   0.6      |
 | Bristol Rugby      |         5 |   0.8      |
 | Ospreys            |         5 |   0.4      |
 | Saracens           |         4 |   0.5      |

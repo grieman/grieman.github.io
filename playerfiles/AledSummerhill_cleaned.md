@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Aled Summerhill  
-date: 2023-01-23 15:34:05.327007  
+date: 2023-02-02 18:47:19.390248  
 categories: player  
 ---
 # Aled Summerhill
 
 ## Positions: W
 
-## Current elo: 70.0
+## Current elo: 69.0
 
-## Current Percentile: 9.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            88 |   0.488636 |
+| Cardiff Blues |            89 |   0.483146 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,8 +33,8 @@ categories: player
 | Ulster              |         5 |   0.2      |
 | Ospreys             |         5 |   0.2      |
 | Zebre               |         5 |   1        |
+| Leinster            |         4 |   0.25     |
 | Dragons             |         4 |   1        |
-| Leinster            |         3 |   0.333333 |
 | Lyon                |         3 |   1        |
 | Connacht            |         3 |   0.333333 |
 | Cheetahs            |         3 |   0.666667 |

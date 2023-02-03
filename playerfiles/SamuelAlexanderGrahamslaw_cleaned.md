@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Samuel Alexander Grahamslaw  
-date: 2023-01-21 15:39:54.107619  
+date: 2023-02-02 18:48:01.802671  
 categories: player  
 ---
 # Samuel Alexander Grahamslaw
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 103.0
 
-## Current Percentile: 49.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Jersey |            11 |   0.863636 |
+| Jersey |            12 |      0.875 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         2 |       1    |
 | Coventry            |         2 |       0.75 |
 | Ampthill            |         1 |       1    |
 | Bedford             |         1 |       1    |
 | Caldy               |         1 |       1    |
-| Cornish Pirates     |         1 |       1    |
 | Doncaster           |         1 |       1    |
 | Ealing Trailfinders |         1 |       0    |
 | Hartpury College    |         1 |       1    |

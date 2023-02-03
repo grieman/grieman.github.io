@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaetan Pichon  
-date: 2023-01-13 11:38:47.490619  
+date: 2023-02-02 19:03:28.712301  
 categories: player  
 ---
 # Gaetan Pichon
 
 ## Positions: SH
 
-## Current elo: 105.0
+## Current elo: 109.0
 
-## Current Percentile: 67.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -22,24 +22,24 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Carcassonne |            24 |   0.520833 |
-| Massy       |            12 |   0.333333 |
+| Massy       |            14 |   0.357143 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Mont-de-Marsan             |         4 |   0.5      |
+| Mont-de-Marsan             |         5 |   0.4      |
 | Aurillac                   |         4 |   0.25     |
-| Vannes                     |         3 |   0.5      |
-| Provence Rugby             |         3 |   0.666667 |
+| Montauban                  |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.666667 |
-| Soyaux-Angouleme           |         2 |   0.5      |
-| Perpignan                  |         2 |   0        |
-| Agen                       |         2 |   0.5      |
+| Provence Rugby             |         3 |   0.666667 |
+| Vannes                     |         3 |   0.5      |
 | Colomiers                  |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
+| Perpignan                  |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
-| Montauban                  |         2 |   0.5      |
+| Soyaux-Angouleme           |         2 |   0.5      |
+| Agen                       |         2 |   0.5      |
+| Carcassonne                |         1 |   1        |
 | Nevers                     |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
-| Carcassonne                |         1 |   1        |
 | Rouen                      |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

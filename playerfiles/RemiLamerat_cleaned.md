@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Remi Lamerat  
-date: 2023-01-30 11:47:15.525893  
+date: 2023-02-02 18:44:21.834227  
 categories: player  
 ---
 # Remi Lamerat

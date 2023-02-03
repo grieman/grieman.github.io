@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Baptiste Couchinave  
-date: 2023-01-17 11:40:52.219014  
+date: 2023-02-02 18:42:38.258422  
 categories: player  
 ---
 # Baptiste Couchinave

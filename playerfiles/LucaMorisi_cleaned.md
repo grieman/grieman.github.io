@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luca Morisi  
-date: 2023-01-06 00:21:31.804959  
+date: 2023-02-02 19:11:41.575082  
 categories: player  
 ---
 # Luca Morisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 123.0
+## Current elo: 105.0
 
-## Current Percentile: 91.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            91 |   0.351648 |
 | Italy            |            40 |   0.275    |
-| London Irish     |             8 |   0.25     |
+| London Irish     |            12 |   0.375    |
 | Crociati Rugby   |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,35 +41,36 @@ categories: player
 | Cardiff Blues            |         6 |  0.333333  |
 | Dragons                  |         5 |  0.6       |
 | Scotland                 |         5 |  0.2       |
-| Wales                    |         4 |  0         |
-| France                   |         4 |  0         |
 | South Africa             |         4 |  0         |
 | Ireland                  |         4 |  0         |
+| Harlequins               |         4 |  0.5       |
+| Wales                    |         4 |  0         |
+| France                   |         4 |  0         |
 | England                  |         4 |  0         |
-| Edinburgh                |         3 |  0         |
 | Australia                |         3 |  0.333333  |
 | Northampton Saints       |         3 |  0         |
 | Leicester Tigers         |         3 |  0         |
-| Harlequins               |         3 |  0.333333  |
-| Lyon                     |         2 |  0.5       |
-| Samoa                    |         2 |  1         |
+| Montpellier Herault      |         3 |  0.166667  |
+| Edinburgh                |         3 |  0         |
+| Stormers                 |         2 |  0         |
 | Worcester Warriors       |         2 |  0.5       |
-| Georgia                  |         2 |  1         |
-| Montpellier Herault      |         2 |  0         |
 | Bayonne                  |         2 |  1         |
-| Grenoble                 |         2 |  1         |
-| Argentina                |         2 |  0         |
+| Samoa                    |         2 |  1         |
 | Agen                     |         2 |  0.5       |
-| Russia                   |         1 |  1         |
-| Racing 92                |         1 |  0         |
-| Newcastle Falcons        |         1 |  1         |
-| New Zealand              |         1 |  0         |
-| Gloucester Rugby         |         1 |  0         |
-| Southern Kings           |         1 |  1         |
-| Stade Toulousain         |         1 |  0         |
-| Stormers                 |         1 |  0         |
+| Georgia                  |         2 |  1         |
+| Argentina                |         2 |  0         |
+| Lyon                     |         2 |  0.5       |
+| Grenoble                 |         2 |  1         |
+| Bristol Rugby            |         1 |  1         |
 | Toulon                   |         1 |  0         |
-| Namibia                  |         1 |  1         |
-| United States of America |         1 |  1         |
-| Uruguay                  |         1 |  1         |
 | Fiji                     |         1 |  1         |
+| Uruguay                  |         1 |  1         |
+| United States of America |         1 |  1         |
+| Gloucester Rugby         |         1 |  0         |
+| Stade Toulousain         |         1 |  0         |
+| Racing 92                |         1 |  0         |
+| Southern Kings           |         1 |  1         |
+| Namibia                  |         1 |  1         |
+| New Zealand              |         1 |  0         |
+| Russia                   |         1 |  1         |
+| Newcastle Falcons        |         1 |  1         |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Carter  
-date: 2023-01-17 11:35:40.363678  
+date: 2023-02-02 18:44:33.287816  
 categories: player  
 ---
 # Ben Carter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 88.0
+## Current elo: 85.0
 
-## Current Percentile: 26.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,23 +23,25 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |            29 |   0.275862 |
+| Dragons |            31 |   0.258065 |
 | Wales   |             9 |   0.388889 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Ospreys          |         5 |   0.4      |
 | Argentina        |         3 |   0.5      |
+| Glasgow Warriors |         3 |   0.666667 |
 | Scarlets         |         3 |   0.333333 |
 | Cardiff Blues    |         3 |   0        |
 | Edinburgh        |         3 |   0.333333 |
-| Glasgow Warriors |         2 |   1        |
 | Munster          |         2 |   0.5      |
-| Leinster         |         2 |   0        |
 | Australia        |         2 |   0.5      |
+| Leinster         |         2 |   0        |
 | Zebre            |         2 |   0        |
 | Georgia          |         1 |   0        |
+| Ireland          |         1 |   0        |
 | Connacht         |         1 |   0        |
+| Lions            |         1 |   0        |
 | Canada           |         1 |   1        |
 | Bulls            |         1 |   0        |
 | Pau              |         1 |   1        |
@@ -48,4 +50,3 @@ categories: player
 | South Africa     |         1 |   0        |
 | Stormers         |         1 |   0        |
 | Ulster           |         1 |   0        |
-| Ireland          |         1 |   0        |

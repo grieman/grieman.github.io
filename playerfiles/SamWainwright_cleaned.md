@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Wainwright  
-date: 2023-01-06 00:26:29.019179  
+date: 2023-02-02 18:48:05.586146  
 categories: player  
 ---
 # Sam Wainwright
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 99.0
+## Current elo: 88.0
 
 ## Current Percentile: None
 

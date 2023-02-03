@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Felipe Berchesi Pisano  
-date: 2023-01-23 15:30:06.770283  
+date: 2023-02-02 18:43:33.953702  
 categories: player  
 ---
 # Felipe Berchesi Pisano
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            56 |   0.491071 |
+| Dax         |            57 |   0.5      |
 | Carcassonne |            33 |   0.439394 |
 | Uruguay     |            19 |   0.368421 |
 
@@ -33,10 +33,10 @@ categories: player
 | Narbonne                   |         6 |  0.666667  |
 | Chambery                   |         6 |  0.833333  |
 | Aurillac                   |         5 |  0.6       |
+| Bourgoin-Jallieu           |         5 |  0.8       |
 | Soyaux-Angouleme           |         4 |  0.5       |
 | Biarritz Olympique         |         4 |  0.5       |
 | Romania                    |         4 |  0.75      |
-| Bourgoin-Jallieu           |         4 |  0.75      |
 | Mont-de-Marsan             |         4 |  0.25      |
 | Beziers                    |         4 |  0.25      |
 | Blagnac                    |         3 |  0.666667  |

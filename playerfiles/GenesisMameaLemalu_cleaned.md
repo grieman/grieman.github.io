@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Genesis Mamea Lemalu  
-date: 2023-01-06 00:14:27.694914  
+date: 2023-02-02 19:01:05.994046  
 categories: player  
 ---
 # Genesis Mamea Lemalu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 117.0
+## Current elo: 115.0
 
-## Current Percentile: 84.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Perpignan        |           138 |   0.539855 |
+| Perpignan        |           140 |   0.539286 |
 | Bourgoin-Jallieu |            42 |   0.464286 |
 | Mont-de-Marsan   |            11 |   0.545455 |
 | Wellington       |             9 |   0.777778 |
@@ -44,9 +44,9 @@ categories: player
 | Narbonne                   |         7 |   0.785714 |
 | Pau                        |         7 |   0        |
 | Vannes                     |         6 |   0.833333 |
+| Stade Francais Paris       |         5 |   0.2      |
 | Montpellier Herault        |         5 |   0.2      |
 | Toulon                     |         5 |   0.4      |
-| Stade Francais Paris       |         4 |   0        |
 | Massy                      |         4 |   0.5      |
 | Albi                       |         4 |   0.25     |
 | Oyonnax                    |         4 |   0.75     |
@@ -62,10 +62,10 @@ categories: player
 | Bordeaux Begles            |         3 |   0.666667 |
 | Racing 92                  |         3 |   0.333333 |
 | Brive                      |         3 |   0.333333 |
+| Clermont Auvergne          |         3 |   0.333333 |
 | La Rochelle                |         3 |   0.333333 |
 | Bayonne                    |         3 |   0.666667 |
 | Canterbury                 |         2 |   0.5      |
-| Clermont Auvergne          |         2 |   0.5      |
 | Sale Sharks                |         2 |   0        |
 | Rouen                      |         2 |   1        |
 | Roval Drome XV             |         1 |   1        |

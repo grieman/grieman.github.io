@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Philippe Laville  
-date: 2023-01-15 11:55:49.962612  
+date: 2023-02-02 18:46:17.550114  
 categories: player  
 ---
 # Philippe Laville
@@ -21,10 +21,12 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |             3 |          0 |
+| Valence Romans Drome Rugby |             5 |        0.4 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Blagnac          |         1 |          0 |
-| Bourgoin-Jallieu |         1 |          0 |
-| Massy            |         1 |          0 |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Blagnac             |         1 |          0 |
+| Bourgoin-Jallieu    |         1 |          0 |
+| Carqueiranne-Hyères |         1 |          1 |
+| Massy               |         1 |          0 |
+| Rennes              |         1 |          1 |

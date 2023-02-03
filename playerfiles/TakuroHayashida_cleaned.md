@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Takuro Hayashida  
-date: 2023-01-13 11:38:30.773537  
+date: 2023-02-02 18:50:04.088315  
 categories: player  
 ---
 # Takuro Hayashida
 
-## Positions: C, FH
+## Positions: FH, C
 
-## Current elo: 79.0
+## Current elo: 85.0
 
-## Current Percentile: 21.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             5 |        0.2 |
+| Kurita Water Gush |             7 |   0.285714 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         1 |          0 |
+| Chugoku Red Regulions            |         2 |          0 |
 | Kyuden Voltex                    |         1 |          0 |
 | Munakata Sanix Blues             |         1 |          0 |
+| NTT Docomo Red Hurricanes Osaka  |         1 |          1 |
 | Skyactivs Hiroshima              |         1 |          1 |
 | Toyota Industries Shuttles Aichi |         1 |          0 |

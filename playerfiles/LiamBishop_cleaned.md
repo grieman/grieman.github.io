@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Liam Bishop  
-date: 2023-01-21 15:45:47.560260  
+date: 2023-02-02 18:41:34.316513  
 categories: player  
 ---
 # Liam Bishop
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,9 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |             1 |          0 |
+| Nottingham |             2 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Caldy      |         1 |          0 |
+| Doncaster  |         1 |          0 |

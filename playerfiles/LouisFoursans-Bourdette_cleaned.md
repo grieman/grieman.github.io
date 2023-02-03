@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Louis Foursans-Bourdette  
-date: 2023-01-06 00:10:17.452323  
+date: 2023-02-02 19:01:27.247086  
 categories: player  
 ---
 # Louis Foursans-Bourdette
 
 ## Positions: FH
 
-## Current elo: 98.0
+## Current elo: 85.0
 
-## Current Percentile: 40.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            29 |   0.568966 |
+| Montpellier Herault |            30 |       0.55 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,7 +34,7 @@ categories: player
 | Castres Olympique    |         2 |   0        |
 | La Rochelle          |         2 |   1        |
 | Racing 92            |         2 |   1        |
+| Stade Toulousain     |         2 |   0        |
 | Biarritz Olympique   |         1 |   1        |
 | Brive                |         1 |   1        |
 | Perpignan            |         1 |   1        |
-| Stade Toulousain     |         1 |   0        |

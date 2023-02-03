@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Christophe David  
-date: 2023-01-17 11:40:17.153293  
+date: 2023-02-02 18:39:33.827341  
 categories: player  
 ---
 # Christophe David
 
 ## Positions: H, P
 
-## Current elo: 106.0
+## Current elo: 103.0
 
-## Current Percentile: 72.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |           103 |   0.509709 |
 | Perpignan      |            45 |   0.577778 |
-| Narbonne       |            28 |   0.410714 |
+| Narbonne       |            30 |   0.416667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,9 +39,9 @@ categories: player
 | Provence Rugby             |         7 |   0.428571 |
 | Dax                        |         7 |   0.571429 |
 | Narbonne                   |         7 |   0.428571 |
+| Albi                       |         6 |   0.5      |
 | Bourgoin-Jallieu           |         6 |   0.833333 |
 | Oyonnax                    |         6 |   0.416667 |
-| Albi                       |         5 |   0.6      |
 | Rouen                      |         5 |   0.8      |
 | Mont-de-Marsan             |         5 |   0.4      |
 | Grenoble                   |         5 |   0        |
@@ -52,6 +52,7 @@ categories: player
 | Pau                        |         2 |   0.5      |
 | Nice                       |         2 |   1        |
 | Lyon                       |         2 |   0.5      |
+| Suresnes                   |         2 |   1        |
 | Tarbes                     |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
 | Chambery                   |         1 |   0        |
@@ -59,6 +60,5 @@ categories: player
 | Blagnac                    |         1 |   0.5      |
 | Roval Drome XV             |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
-| Suresnes                   |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Rennes                     |         1 |   1        |

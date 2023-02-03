@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Odiete  
-date: 2023-01-17 11:44:13.115763  
+date: 2023-02-02 18:58:16.563447  
 categories: player  
 ---
 # David Odiete
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 86.0
+## Current elo: 87.0
 
-## Current Percentile: 24.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Zebre            |            42 |   0.166667 |
 | Dijon            |            38 |   0.368421 |
 | Benetton Treviso |            18 |   0.277778 |
-| Nice             |            11 |   0.409091 |
+| Nice             |            12 |   0.458333 |
 | Italy            |             7 |   0.285714 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,12 +34,12 @@ categories: player
 | Leinster                   |         7 |   0        |
 | Munster                    |         6 |   0        |
 | Scarlets                   |         5 |   0.1      |
+| Suresnes                   |         5 |   0.6      |
 | Ospreys                    |         5 |   0.4      |
 | Bourgoin-Jallieu           |         5 |   0.2      |
 | Dax                        |         5 |   0.2      |
 | Connacht                   |         5 |   0        |
 | Chambery                   |         4 |   0.5      |
-| Suresnes                   |         4 |   0.5      |
 | Glasgow Warriors           |         4 |   0        |
 | Ulster                     |         4 |   0        |
 | Edinburgh                  |         4 |   0.25     |

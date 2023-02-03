@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Raffi Quirke  
-date: 2023-01-17 11:46:23.458185  
+date: 2023-02-02 18:46:46.403270  
 categories: player  
 ---
 # Raffi Quirke
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 64.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            26 |   0.634615 |
-| England     |             2 |   1        |
+| Sale Sharks |            28 |      0.625 |
+| England     |             2 |      1     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Harlequins         |         4 |   0.5      |
+| Bath Rugby         |         3 |   1        |
 | Exeter Chiefs      |         3 |   0.333333 |
 | Leicester Tigers   |         3 |   1        |
-| Bath Rugby         |         2 |   1        |
 | Gloucester Rugby   |         2 |   0.5      |
 | London Irish       |         2 |   0.75     |
 | Northampton Saints |         2 |   0.5      |
@@ -42,4 +42,5 @@ categories: player
 | Newcastle Falcons  |         1 |   1        |
 | South Africa       |         1 |   1        |
 | Stade Toulousain   |         1 |   0        |
+| Ulster             |         1 |   0        |
 | Wasps              |         1 |   1        |

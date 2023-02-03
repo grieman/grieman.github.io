@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maliq Holden  
-date: 2023-01-13 11:30:45.227721  
+date: 2023-02-02 18:48:19.141216  
 categories: player  
 ---
 # Maliq Holden
@@ -21,16 +21,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Doncaster        |            25 |   0.76     |
+| Doncaster        |            28 |   0.75     |
 | Cornish Pirates  |            17 |   0.529412 |
 | Hartpury College |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Hartpury College    |         5 |   0.8      |
 | Ealing Trailfinders |         5 |   0.6      |
-| Hartpury College    |         4 |   1        |
-| Richmond            |         4 |   1        |
-| Nottingham          |         4 |   0.5      |
+| Richmond            |         5 |   1        |
+| Nottingham          |         5 |   0.6      |
 | Jersey              |         4 |   0.25     |
 | Bedford             |         4 |   0.75     |
 | London Scottish     |         3 |   0.666667 |

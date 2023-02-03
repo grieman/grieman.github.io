@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ross Byrne  
-date: 2023-01-13 11:27:03.602231  
+date: 2023-02-02 18:55:52.152059  
 categories: player  
 ---
 # Ross Byrne
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |           128 |   0.8125   |
+| Leinster |           130 |   0.815385 |
 | Ireland  |            12 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -46,15 +46,15 @@ categories: player
 | Southern Kings           |         2 |   1        |
 | Saracens                 |         2 |   0        |
 | Wasps                    |         2 |   1        |
+| Racing 92                |         2 |   1        |
 | Australia                |         2 |   1        |
 | Lyon                     |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
 | Italy                    |         2 |   1        |
+| Gloucester Rugby         |         2 |   1        |
 | France                   |         2 |   0        |
 | Exeter Chiefs            |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
-| Gloucester Rugby         |         1 |   1        |
-| Racing 92                |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Sharks                   |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |

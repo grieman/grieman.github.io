@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Chavancy  
-date: 2023-01-06 00:11:36.083020  
+date: 2023-02-02 19:01:39.107837  
 categories: player  
 ---
 # Henry Chavancy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 126.0
+## Current elo: 121.0
 
-## Current Percentile: 94.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |           347 |   0.606628 |
+| Racing 92 |           349 |   0.606017 |
 | France    |             5 |   0.1      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Castres Olympique    |        26 |   0.576923 |
+| Montpellier Herault  |        24 |   0.604167 |
 | Toulon               |        23 |   0.521739 |
 | Clermont Auvergne    |        23 |   0.521739 |
-| Montpellier Herault  |        23 |   0.630435 |
 | Stade Toulousain     |        22 |   0.5      |
 | Stade Francais Paris |        20 |   0.6      |
 | Bordeaux Begles      |        20 |   0.6      |
-| La Rochelle          |        17 |   0.470588 |
+| La Rochelle          |        18 |   0.5      |
 | Bayonne              |        17 |   0.764706 |
 | Brive                |        15 |   0.833333 |
 | Lyon                 |        14 |   0.5      |

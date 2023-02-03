@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Iosefa Danny Wayne Fiaola  
-date: 2023-01-15 11:45:45.256023  
+date: 2023-02-02 18:58:53.148092  
 categories: player  
 ---
 # Iosefa Danny Wayne Fiaola
 
-## Positions: L, FL
+## Positions: L
 
-## Current elo: 116.0
+## Current elo: 104.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            11 |   0.363636 |
+| Nottingham |            13 |   0.307692 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Cornish Pirates     |         2 |          0 |
-| Bedford             |         1 |          0 |
-| Caldy               |         1 |          1 |
-| Coventry            |         1 |          0 |
-| Doncaster           |         1 |          1 |
-| Ealing Trailfinders |         1 |          0 |
-| Hartpury College    |         1 |          0 |
-| Jersey              |         1 |          0 |
-| London Scottish     |         1 |          1 |
-| Richmond            |         1 |          1 |
+| Caldy               |         2 |        0.5 |
+| Cornish Pirates     |         2 |        0   |
+| Doncaster           |         2 |        0.5 |
+| Bedford             |         1 |        0   |
+| Coventry            |         1 |        0   |
+| Ealing Trailfinders |         1 |        0   |
+| Hartpury College    |         1 |        0   |
+| Jersey              |         1 |        0   |
+| London Scottish     |         1 |        1   |
+| Richmond            |         1 |        1   |

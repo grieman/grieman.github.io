@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrew Deegan  
-date: 2023-01-13 11:29:36.337772  
+date: 2023-02-02 18:41:16.223373  
 categories: player  
 ---
 # Andrew Deegan
 
 ## Positions: FH
 
-## Current elo: 93.0
+## Current elo: 87.0
 
-## Current Percentile: 46.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Western Force      |            13 |   0.769231 |
 | Melbourne Rebels   |            12 |   0.5      |
-| Kurita Water Gush  |             8 |   0.25     |
+| Kurita Water Gush  |            10 |   0.3      |
 | NSW Country Eagles |             7 |   0.857143 |
 | Connacht           |             2 |   0.5      |
 
@@ -32,21 +32,22 @@ categories: player
 | Brisbane City                    |         3 |   1        |
 | Melbourne Rising                 |         3 |   1        |
 | Canberra Vikings                 |         3 |   0.666667 |
+| Chugoku Red Regulions            |         3 |   0.333333 |
 | Queensland Country               |         3 |   0.666667 |
 | Queensland Reds                  |         2 |   0        |
+| New South Wales Waratahs         |         2 |   0.5      |
 | Brumbies                         |         2 |   0.5      |
 | NSW Country Eagles               |         2 |   0.5      |
 | Munakata Sanix Blues             |         2 |   0        |
-| New South Wales Waratahs         |         2 |   0.5      |
-| Chugoku Red Regulions            |         2 |   0.5      |
-| Fijian Drua                      |         2 |   0.5      |
 | Western Force                    |         2 |   1        |
-| Greater Sydney Rams              |         1 |   1        |
+| Fijian Drua                      |         2 |   0.5      |
+| Lions                            |         1 |   1        |
+| Kyuden Voltex                    |         1 |   0        |
 | Highlanders                      |         1 |   1        |
+| Greater Sydney Rams              |         1 |   1        |
 | North Harbour Rays               |         1 |   1        |
 | Oyonnax                          |         1 |   1        |
 | Perth Spirit                     |         1 |   1        |
-| Kyuden Voltex                    |         1 |   0        |
 | Cardiff Blues                    |         1 |   0        |
 | Sharks                           |         1 |   0        |
 | Shimizu Blue Sharks              |         1 |   0        |
@@ -54,4 +55,4 @@ categories: player
 | Sunwolves                        |         1 |   0        |
 | Sydney Rays                      |         1 |   1        |
 | Toyota Industries Shuttles Aichi |         1 |   0        |
-| Lions                            |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka  |         1 |   1        |

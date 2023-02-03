@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Taiki Noguchi  
-date: 2023-01-17 11:30:44.725657  
+date: 2023-02-02 19:01:57.822356  
 categories: player  
 ---
 # Taiki Noguchi
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 102.0
 
-## Current Percentile: 53.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             3 |   0.333333 |
+| Kamaishi Seawaves |             4 |       0.25 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Hino Red Dolphins   |         1 |          0 |
-| Mie Honda Heat      |         1 |          0 |
-| Shimizu Blue Sharks |         1 |          1 |
+| Opponent                         |   Matches |   Win Rate |
+|:---------------------------------|----------:|-----------:|
+| Hino Red Dolphins                |         1 |          0 |
+| Mie Honda Heat                   |         1 |          0 |
+| Shimizu Blue Sharks              |         1 |          1 |
+| Toyota Industries Shuttles Aichi |         1 |          0 |

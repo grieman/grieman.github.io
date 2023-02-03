@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob Harley  
-date: 2023-01-13 11:33:02.096778  
+date: 2023-02-02 19:09:48.772627  
 categories: player  
 ---
 # Rob Harley
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           256 |   0.558594 |
 | Scotland         |            23 |   0.521739 |
-| Carcassonne      |            16 |   0.375    |
+| Carcassonne      |            18 |   0.416667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -53,21 +53,22 @@ categories: player
 | Aironi              |         2 |   1        |
 | Lyon                |         2 |   1        |
 | Montpellier Herault |         2 |   1        |
-| Georgia             |         2 |   1        |
+| Grenoble            |         2 |   0.25     |
 | La Rochelle         |         2 |   0.5      |
-| Racing 92           |         2 |   1        |
+| Rouen               |         2 |   1        |
+| Georgia             |         2 |   1        |
 | Tonga               |         2 |   1        |
 | Colomiers           |         2 |   0        |
 | Castres Olympique   |         2 |   0        |
 | Wales               |         2 |   0        |
 | Wasps               |         2 |   0.5      |
 | Argentina           |         2 |   1        |
-| Soyaux-Angouleme    |         1 |   0        |
+| Racing 92           |         2 |   1        |
 | Stormers            |         1 |   0        |
+| Soyaux-Angouleme    |         1 |   0        |
 | South Africa        |         1 |   0        |
 | Vannes              |         1 |   0        |
 | Samoa               |         1 |   1        |
-| Rouen               |         1 |   1        |
 | Agen                |         1 |   1        |
 | Provence Rugby      |         1 |   0        |
 | Oyonnax             |         1 |   0        |
@@ -77,7 +78,6 @@ categories: player
 | Montauban           |         1 |   1        |
 | Mont-de-Marsan      |         1 |   0        |
 | Lions               |         1 |   1        |
-| Grenoble            |         1 |   0        |
 | France              |         1 |   0        |
 | England             |         1 |   0        |
 | Bulls               |         1 |   0        |

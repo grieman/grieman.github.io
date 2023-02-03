@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Palisse  
-date: 2023-01-17 11:44:09.692236  
+date: 2023-02-02 18:47:00.600692  
 categories: player  
 ---
 # Antoine Palisse
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 41.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            30 |        0.4 |
+| Tarbes |            31 |   0.419355 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,4 +39,5 @@ categories: player
 | Carqueiranne-Hyères        |         1 |   0        |
 | Dijon                      |         1 |   0        |
 | Narbonne                   |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

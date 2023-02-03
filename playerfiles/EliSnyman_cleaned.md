@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Eli Snyman  
-date: 2023-01-27 11:07:41.810147  
+date: 2023-02-02 19:12:04.570030  
 categories: player  
 ---
 # Eli Snyman
 
 ## Positions: L
 
-## Current elo: 89.0
+## Current elo: 86.0
 
 ## Current Percentile: 31.0
 
@@ -22,14 +22,14 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            25 |   0.24     |
-| Leicester Tigers |            24 |   0.6875   |
+| Leicester Tigers |            25 |   0.66     |
 | Bulls            |             7 |   0.571429 |
 | Blue Bulls       |             6 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Northampton Saints |         5 |   0.4      |
 | Cardiff Blues      |         4 |   0        |
-| Northampton Saints |         4 |   0.5      |
 | Bath Rugby         |         3 |   0.666667 |
 | Leinster           |         3 |   0        |
 | Connacht           |         3 |   0.333333 |

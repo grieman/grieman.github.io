@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Ryan  
-date: 2023-01-06 00:16:01.465205  
+date: 2023-02-02 18:42:15.878487  
 categories: player  
 ---
 # James Ryan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 115.0
+## Current elo: 107.0
 
-## Current Percentile: 82.0
+## Current Percentile: 43.0
 
 # Elo History
 

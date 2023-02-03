@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maile Mamao  
-date: 2023-01-17 11:43:05.964610  
+date: 2023-02-02 18:44:58.445702  
 categories: player  
 ---
 # Maile Mamao
 
 ## Positions: C
 
-## Current elo: 81.0
+## Current elo: 72.0
 
-## Current Percentile: 27.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Tarbes      |            34 |   0.514706 |
-| US Bressane |            13 |   0.692308 |
+| US Bressane |            15 |   0.666667 |
 | Bayonne     |             4 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,10 +31,10 @@ categories: player
 | Bourgoin-Jallieu           |         5 |   0.8      |
 | Chambery                   |         5 |   0.4      |
 | Nice                       |         5 |   0.3      |
+| Blagnac                    |         4 |   0.5      |
+| Cognac Saint Jean d'Angély |         4 |   1        |
 | Narbonne                   |         4 |   0.25     |
 | Suresnes                   |         4 |   0.5      |
-| Blagnac                    |         3 |   0.666667 |
-| Cognac Saint Jean d'Angély |         3 |   1        |
 | Aubenas                    |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Massy                      |         2 |   0.5      |

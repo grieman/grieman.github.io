@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mohamed Kbaier  
-date: 2023-01-17 11:37:07.520592  
+date: 2023-02-02 18:56:27.136781  
 categories: player  
 ---
 # Mohamed Kbaier
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 48.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -22,36 +22,37 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Provence Rugby |            37 |   0.459459 |
-| Narbonne       |            34 |   0.514706 |
+| Narbonne       |            36 |   0.513889 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | US Bressane                |         5 |   0.6      |
-| Nevers                     |         4 |   0.5      |
+| Suresnes                   |         4 |   0.75     |
 | Aurillac                   |         4 |   0.5      |
+| Nevers                     |         4 |   0.5      |
 | Colomiers                  |         4 |   0.5      |
-| Vannes                     |         3 |   0.333333 |
-| Massy                      |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         3 |   1        |
-| Mont-de-Marsan             |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0        |
+| Mont-de-Marsan             |         3 |   0.333333 |
+| Massy                      |         3 |   0.666667 |
+| Vannes                     |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
-| Suresnes                   |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.333333 |
-| Rouen                      |         2 |   0.5      |
-| Oyonnax                    |         2 |   0.5      |
-| Nice                       |         2 |   1        |
-| Tarbes                     |         2 |   1        |
-| Roval Drome XV             |         2 |   1        |
-| Aubenas                    |         2 |   0.5      |
-| Montauban                  |         2 |   1        |
-| Dax                        |         2 |   0.5      |
 | Chambery                   |         2 |   0        |
 | Carcassonne                |         2 |   0        |
+| Tarbes                     |         2 |   1        |
+| Aubenas                    |         2 |   0.5      |
 | Blagnac                    |         2 |   0.75     |
+| Montauban                  |         2 |   1        |
 | Beziers                    |         2 |   0        |
+| Nice                       |         2 |   1        |
+| Oyonnax                    |         2 |   0.5      |
+| Rouen                      |         2 |   0.5      |
+| Roval Drome XV             |         2 |   1        |
 | Bayonne                    |         2 |   0        |
+| Dax                        |         2 |   0.5      |
+| Valence Romans Drome Rugby |         1 |   0        |
+| Albi                       |         1 |   0        |
 | Dijon                      |         1 |   0        |
 | Brive                      |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0        |
 | Grenoble                   |         1 |   0        |

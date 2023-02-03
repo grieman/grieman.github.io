@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Leiataua  
-date: 2023-01-13 11:26:28.822367  
+date: 2023-02-02 19:02:05.440397  
 categories: player  
 ---
 # Manu Leiataua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 46.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Oyonnax       |            50 |   0.74     |
+| Oyonnax       |            52 |   0.730769 |
 | Aurillac      |            45 |   0.577778 |
 | Bayonne       |            41 |   0.329268 |
 | Perpignan     |            17 |   0.176471 |
@@ -37,21 +37,21 @@ categories: player
 | Beziers                    |         8 |   0.75     |
 | Grenoble                   |         7 |   0.428571 |
 | Biarritz Olympique         |         7 |   0.428571 |
+| Mont-de-Marsan             |         7 |   0.571429 |
 | Perpignan                  |         6 |   0.416667 |
-| Mont-de-Marsan             |         6 |   0.666667 |
 | Lyon                       |         5 |   0.3      |
+| Pau                        |         5 |   0.3      |
 | Aurillac                   |         5 |   0.8      |
 | Vannes                     |         5 |   0.8      |
 | Soyaux-Angouleme           |         5 |   0.8      |
-| Pau                        |         5 |   0.3      |
 | Provence Rugby             |         5 |   0.8      |
 | Colomiers                  |         5 |   0.2      |
+| Nevers                     |         4 |   0.75     |
 | Dax                        |         4 |   0.5      |
 | Massy                      |         4 |   0.75     |
 | La Rochelle                |         4 |   0        |
 | Bayonne                    |         4 |   0.5      |
 | Rouen                      |         3 |   0.666667 |
-| Nevers                     |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
 | Scotland                   |         3 |   0.333333 |
 | Toulon                     |         3 |   0.333333 |

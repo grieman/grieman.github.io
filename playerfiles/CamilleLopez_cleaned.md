@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Camille Lopez  
-date: 2023-01-06 00:24:22.953476  
+date: 2023-02-02 19:12:18.612552  
 categories: player  
 ---
 # Camille Lopez
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 148.0
+## Current elo: 144.0
 
 ## Current Percentile: 98.0
 
@@ -26,7 +26,7 @@ categories: player
 | Clermont Auvergne |           167 |   0.682635 |
 | Bordeaux Begles   |            88 |   0.471591 |
 | France            |            28 |   0.464286 |
-| Bayonne           |            14 |   0.607143 |
+| Bayonne           |            16 |   0.59375  |
 | Perpignan         |            13 |   0.461538 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -35,15 +35,15 @@ categories: player
 | Stade Toulousain         |        18 |   0.583333 |
 | Stade Francais Paris     |        18 |   0.527778 |
 | Toulon                   |        16 |   0.5      |
+| Bordeaux Begles          |        16 |   0.5      |
 | Montpellier Herault      |        15 |   0.4      |
-| Bordeaux Begles          |        15 |   0.533333 |
 | La Rochelle              |        15 |   0.633333 |
 | Castres Olympique        |        15 |   0.6      |
 | Agen                     |        12 |   0.833333 |
 | Grenoble                 |        12 |   0.708333 |
 | Pau                      |        12 |   0.791667 |
+| Brive                    |        10 |   0.8      |
 | Bayonne                  |         9 |   0.444444 |
-| Brive                    |         9 |   0.777778 |
 | Lyon                     |         8 |   0.625    |
 | Biarritz Olympique       |         7 |   0.571429 |
 | Perpignan                |         6 |   0.666667 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tsukasa Yasuda  
-date: 2023-01-17 11:39:35.058509  
+date: 2023-02-02 18:51:37.298081  
 categories: player  
 ---
 # Tsukasa Yasuda
 
 ## Positions: FL
 
-## Current elo: 96.0
+## Current elo: 94.0
 
 ## Current Percentile: 46.0
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka |             6 |        0.5 |
+| NTT Docomo Red Hurricanes Osaka |             7 |   0.428571 |
 
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
 | Chugoku Red Regulions |         1 |          1 |
+| Kurita Water Gush     |         1 |          0 |
 | Kyuden Voltex         |         1 |          1 |
 | Saitama Wild Knights  |         1 |          0 |
 | Skyactivs Hiroshima   |         1 |          1 |

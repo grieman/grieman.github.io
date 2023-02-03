@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Filipo Nakosi  
-date: 2023-01-06 00:14:49.675069  
+date: 2023-02-02 18:44:45.157885  
 categories: player  
 ---
 # Filipo Nakosi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 119.0
+## Current elo: 106.0
 
-## Current Percentile: 89.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            72 |   0.590278 |
+| Castres Olympique |            74 |   0.587838 |
 | Agen              |            57 |   0.45614  |
 | Toulon            |            18 |   0.5      |
 | Northland         |            11 |   0.181818 |
@@ -32,16 +32,16 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |        11 |   0.409091 |
+| Bordeaux Begles      |        10 |   0.25     |
 | Clermont Auvergne    |         9 |   0.444444 |
 | Racing 92            |         9 |   0.388889 |
-| Bordeaux Begles      |         9 |   0.166667 |
 | Montpellier Herault  |         9 |   0.555556 |
 | Pau                  |         8 |   0.875    |
 | Lyon                 |         8 |   0.5      |
 | La Rochelle          |         7 |   0.428571 |
+| Stade Francais Paris |         7 |   0.571429 |
 | Brive                |         7 |   0.714286 |
 | Toulon               |         6 |   0.666667 |
-| Stade Francais Paris |         6 |   0.666667 |
 | Perpignan            |         5 |   0.6      |
 | Oyonnax              |         4 |   0.25     |
 | Agen                 |         4 |   1        |

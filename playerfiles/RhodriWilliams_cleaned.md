@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhodri Williams  
-date: 2023-01-30 11:48:35.686394  
+date: 2023-02-02 18:45:43.751387  
 categories: player  
 ---
 # Rhodri Williams
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Dragons       |            81 |   0.290123 |
+| Dragons       |            82 |   0.286585 |
 | Scarlets      |            78 |   0.596154 |
 | Bristol Rugby |            44 |   0.568182 |
 | Wales         |             2 |   1        |
@@ -63,24 +63,24 @@ categories: player
 | Toulon              |         2 |   0        |
 | Aironi              |         2 |   1        |
 | Doncaster           |         2 |   1        |
-| London Irish        |         2 |   1        |
-| Jersey              |         2 |   0.5      |
-| Hartpury College    |         2 |   1        |
-| Bedford             |         2 |   1        |
-| Gloucester Rugby    |         2 |   0        |
 | Ealing Trailfinders |         2 |   1        |
-| London Scottish     |         2 |   1        |
-| Cornish Pirates     |         2 |   1        |
+| Bedford             |         2 |   1        |
 | Cheetahs            |         2 |   0.5      |
-| Tonga               |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
-| Wasps               |         1 |   0        |
-| Brive               |         1 |   0        |
-| Bulls               |         1 |   0        |
-| Newcastle Falcons   |         1 |   0        |
-| Timisoara Saracens  |         1 |   1        |
-| Scotland            |         1 |   1        |
-| England             |         1 |   1        |
+| Cornish Pirates     |         2 |   1        |
+| London Scottish     |         2 |   1        |
+| Lions               |         2 |   0.25     |
+| Gloucester Rugby    |         2 |   0        |
+| Hartpury College    |         2 |   1        |
+| Jersey              |         2 |   0.5      |
+| London Irish        |         2 |   1        |
 | Exeter Chiefs       |         1 |   0        |
+| England             |         1 |   1        |
+| Scotland            |         1 |   1        |
 | Richmond            |         1 |   1        |
-| Lions               |         1 |   0.5      |
+| Timisoara Saracens  |         1 |   1        |
+| Tonga               |         1 |   1        |
+| Bulls               |         1 |   0        |
+| Brive               |         1 |   0        |
+| Wasps               |         1 |   0        |
+| Bristol Rugby       |         1 |   0        |
+| Newcastle Falcons   |         1 |   0        |

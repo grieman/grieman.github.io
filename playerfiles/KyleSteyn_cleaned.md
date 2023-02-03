@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Steyn  
-date: 2023-01-06 00:11:58.064968  
+date: 2023-02-02 19:06:39.460520  
 categories: player  
 ---
 # Kyle Steyn
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 114.0
+## Current elo: 109.0
 
-## Current Percentile: 77.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            44 |   0.647727 |
+| Glasgow Warriors |            46 |   0.652174 |
 | Griquas          |             9 |   0.111111 |
 | Scotland         |             5 |   0.8      |
 
@@ -36,26 +36,26 @@ categories: player
 | Ulster              |         3 |   0.666667 |
 | Cardiff Blues       |         3 |   0.666667 |
 | Golden Lions        |         2 |   0        |
+| Stormers            |         2 |   0.5      |
 | Sale Sharks         |         2 |   1        |
 | Pumas               |         2 |   0        |
 | Natal Sharks        |         2 |   0        |
+| Bath Rugby          |         2 |   0.75     |
 | La Rochelle         |         2 |   0.5      |
 | Connacht            |         2 |   1        |
 | Exeter Chiefs       |         2 |   0.25     |
 | Dragons             |         2 |   0.5      |
-| Saracens            |         1 |   0        |
+| Scarlets            |         1 |   0        |
 | Western Province    |         1 |   0        |
 | Blue Bulls          |         1 |   0        |
 | Tonga               |         1 |   1        |
-| Stormers            |         1 |   0        |
-| Sharks              |         1 |   1        |
-| Scarlets            |         1 |   0        |
-| Free State Cheetahs |         1 |   1        |
 | Cheetahs            |         1 |   1        |
-| France              |         1 |   1        |
+| Sharks              |         1 |   1        |
+| Ireland             |         1 |   0        |
+| Saracens            |         1 |   0        |
+| Italy               |         1 |   1        |
 | Ospreys             |         1 |   1        |
 | Lions               |         1 |   1        |
-| Bath Rugby          |         1 |   1        |
-| Italy               |         1 |   1        |
-| Ireland             |         1 |   0        |
+| France              |         1 |   1        |
+| Free State Cheetahs |         1 |   1        |
 | Australia           |         1 |   1        |

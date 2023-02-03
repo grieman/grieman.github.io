@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean Leleu  
-date: 2023-01-13 11:34:28.567159  
+date: 2023-02-02 18:57:19.137277  
 categories: player  
 ---
 # Jean Leleu
 
 ## Positions: FL, L
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 81.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |            61 |   0.385246 |
+| Rouen  |            63 |   0.388889 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Carcassonne        |         6 |   0        |
 | Vannes             |         5 |   0.6      |
-| Carcassonne        |         5 |   0        |
 | Grenoble           |         4 |   0.5      |
 | Oyonnax            |         4 |   0.5      |
 | Nevers             |         4 |   0.25     |
@@ -38,9 +38,9 @@ categories: player
 | Biarritz Olympique |         3 |   0.333333 |
 | Montauban          |         3 |   0        |
 | Provence Rugby     |         3 |   0.666667 |
+| Soyaux-Angouleme   |         3 |   1        |
 | Narbonne           |         2 |   0.5      |
 | Bayonne            |         2 |   0        |
 | Perpignan          |         2 |   0.5      |
-| Soyaux-Angouleme   |         2 |   1        |
 | Massy              |         1 |   1        |
 | US Bressane        |         1 |   0.5      |

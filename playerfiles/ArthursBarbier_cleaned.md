@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthurs Barbier  
-date: 2023-01-13 11:39:04.618596  
+date: 2023-02-02 18:57:39.441244  
 categories: player  
 ---
 # Arthurs Barbier
 
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 105.0
 
-## Current Percentile: 59.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |             7 |   0.357143 |
+| Nevers |             8 |     0.4375 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -32,3 +32,4 @@ categories: player
 | Grenoble           |         1 |        0   |
 | Mont-de-Marsan     |         1 |        0   |
 | Soyaux-Angouleme   |         1 |        1   |
+| Vannes             |         1 |        1   |

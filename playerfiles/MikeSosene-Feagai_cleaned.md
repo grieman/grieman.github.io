@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mike Sosene-Feagai  
-date: 2023-01-13 11:35:41.413808  
+date: 2023-02-02 18:48:22.611618  
 categories: player  
 ---
 # Mike Sosene-Feagai
@@ -25,34 +25,34 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Toulon                   |            18 |   0.555556 |
 | Auckland                 |            14 |   0.857143 |
+| Agen                     |            11 |   0.636364 |
 | San Diego                |            11 |   0.272727 |
-| Agen                     |            10 |   0.6      |
 | United States of America |             4 |   0.375    |
 | Old Glory DC             |             3 |   1        |
 | Hawke's Bay              |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Biarritz Olympique   |         4 |   1        |
 | Wellington           |         3 |   0.666667 |
-| Canterbury           |         3 |   0.666667 |
-| Sacramento           |         3 |   0.666667 |
 | Denver               |         3 |   0        |
+| Sacramento           |         3 |   0.666667 |
 | Ohio                 |         3 |   0.333333 |
-| Biarritz Olympique   |         3 |   1        |
+| Canterbury           |         3 |   0.666667 |
 | Vannes               |         2 |   1        |
-| Lyon                 |         2 |   1        |
 | Perpignan            |         2 |   0.5      |
 | Racing 92            |         2 |   0        |
 | San Francisco        |         2 |   0        |
+| Lyon                 |         2 |   1        |
 | La Rochelle          |         2 |   0.5      |
 | Counties Manukau     |         2 |   1        |
 | Clermont Auvergne    |         2 |   0.5      |
 | Pau                  |         1 |   0.5      |
 | Southland            |         1 |   1        |
 | Tasman               |         1 |   1        |
-| Waikato              |         1 |   1        |
 | Seattle Seawolves    |         1 |   1        |
 | Stade Toulousain     |         1 |   0        |
+| Waikato              |         1 |   1        |
 | Rouen                |         1 |   1        |
 | Portugal             |         1 |   0.5      |
 | Taranaki             |         1 |   1        |

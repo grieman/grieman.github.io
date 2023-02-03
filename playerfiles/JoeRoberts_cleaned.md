@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Roberts  
-date: 2023-01-06 00:23:57.522662  
+date: 2023-02-02 18:59:56.039983  
 categories: player  
 ---
 # Joe Roberts
 
 ## Positions: C
 
-## Current elo: 112.0
+## Current elo: 103.0
 
-## Current Percentile: 65.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,14 +21,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |             9 |   0.444444 |
+| Scarlets |            13 |   0.615385 |
 | Ampthill |             6 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bulls               |         2 |        0.5 |
+| Cardiff Blues       |         2 |        1   |
 | Dragons             |         2 |        0.5 |
-| Bulls               |         1 |        0   |
-| Cardiff Blues       |         1 |        1   |
+| Bayonne             |         1 |        1   |
+| Cheetahs            |         1 |        1   |
 | Connacht            |         1 |        0   |
 | Cornish Pirates     |         1 |        1   |
 | Coventry            |         1 |        0   |

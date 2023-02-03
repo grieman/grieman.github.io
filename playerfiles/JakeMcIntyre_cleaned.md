@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake McIntyre  
-date: 2023-01-06 00:15:24.897517  
+date: 2023-02-02 19:08:38.772192  
 categories: player  
 ---
 # Jake McIntyre
 
 ## Positions: FH
 
-## Current elo: 116.0
+## Current elo: 121.0
 
-## Current Percentile: 86.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -26,17 +26,17 @@ categories: player
 | Queensland Reds   |            25 |   0.26     |
 | Western Force     |            22 |   0.227273 |
 | Clermont Auvergne |            21 |   0.619048 |
-| Perpignan         |            11 |   0.272727 |
+| Perpignan         |            13 |   0.307692 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Stade Francais Paris     |         8 |   0.625    |
 | Bordeaux Begles          |         7 |   0.285714 |
-| Stade Francais Paris     |         7 |   0.571429 |
 | Montpellier Herault      |         6 |   0.333333 |
+| Clermont Auvergne        |         6 |   0.166667 |
 | Lyon                     |         6 |   0.5      |
 | Brumbies                 |         6 |   0        |
 | La Rochelle              |         6 |   0.333333 |
-| Clermont Auvergne        |         5 |   0.2      |
 | Toulon                   |         5 |   0.6      |
 | New South Wales Waratahs |         5 |   0.2      |
 | Melbourne Rebels         |         5 |   0.4      |

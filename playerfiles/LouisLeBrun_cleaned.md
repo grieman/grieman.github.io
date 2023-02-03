@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Le Brun  
-date: 2023-01-30 11:43:16.770606  
+date: 2023-02-02 18:50:39.784633  
 categories: player  
 ---
 # Louis Le Brun
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 82.0
 
-## Current Percentile: 13.0
+## Current Percentile: 14.0
 
 # Elo History
 

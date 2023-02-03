@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jean-Baptiste Martin  
-date: 2023-01-23 15:31:19.257228  
+date: 2023-02-02 18:44:59.504613  
 categories: player  
 ---
 # Jean-Baptiste Martin
 
 ## Positions: P
 
-## Current elo: 81.0
+## Current elo: 85.0
 
 ## Current Percentile: 10.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Blagnac   |            44 |   0.5      |
+| Blagnac   |            45 |   0.511111 |
 | Colomiers |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,8 +29,8 @@ categories: player
 | Cognac Saint Jean d'Angély |         5 |   0.6      |
 | Massy                      |         4 |   0.5      |
 | Aubenas                    |         4 |   0.75     |
+| US Bressane                |         4 |   0.25     |
 | Tarbes                     |         4 |   0.625    |
-| US Bressane                |         3 |   0        |
 | Chambery                   |         3 |   1        |
 | Dax                        |         3 |   0.333333 |
 | Dijon                      |         3 |   0.333333 |

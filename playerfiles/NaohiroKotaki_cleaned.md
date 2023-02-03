@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Naohiro Kotaki  
-date: 2023-01-15 11:50:40.145325  
+date: 2023-02-02 18:48:29.712419  
 categories: player  
 ---
 # Naohiro Kotaki
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 107.0
+## Current elo: 106.0
 
 ## Current Percentile: 77.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
 | Toshiba Brave Lupus Tokyo |            20 |   0.45     |
-| Kobelco Kobe Steelers     |            11 |   0.363636 |
+| Kobelco Kobe Steelers     |            12 |   0.333333 |
 | Japan                     |             4 |   0.5      |
 | Sunwolves                 |             4 |   0        |
 
@@ -44,10 +44,11 @@ categories: player
 | Kobelco Kobe Steelers             |         1 |   0        |
 | Hanazono Kintetsu Liners          |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   0        |
+| New South Wales Waratahs          |         1 |   0        |
 | Bulls                             |         1 |   0        |
-| Portugal                          |         1 |   1        |
 | Canada                            |         1 |   1        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
 | Toyota Industries Shuttles Aichi  |         1 |   0        |
+| Toyota Verblitz                   |         1 |   0        |
 | Urayasu D-Rocks                   |         1 |   0        |
-| New South Wales Waratahs          |         1 |   0        |
+| Portugal                          |         1 |   1        |

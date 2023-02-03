@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Barnabe Couilloud  
-date: 2023-01-06 11:44:12.638938  
+date: 2023-02-02 18:41:44.510321  
 categories: player  
 ---
 # Barnabe Couilloud
 
 ## Positions: SH
 
-## Current elo: 78.0
+## Current elo: 77.0
 
 ## Current Percentile: 11.0
 
@@ -21,36 +21,36 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            77 |   0.525974 |
+| Biarritz Olympique |            79 |   0.512658 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Soyaux-Angouleme           |         5 |   0.8      |
-| Perpignan                  |         5 |   0.2      |
 | Oyonnax                    |         5 |   0.6      |
+| Perpignan                  |         5 |   0.2      |
 | Nevers                     |         5 |   0.3      |
-| Vannes                     |         4 |   0.75     |
-| Carcassonne                |         4 |   0.75     |
+| Soyaux-Angouleme           |         5 |   0.8      |
 | Aurillac                   |         4 |   0.75     |
 | Montauban                  |         4 |   0.75     |
-| Grenoble                   |         4 |   0.75     |
 | Mont-de-Marsan             |         4 |   0.375    |
-| Provence Rugby             |         3 |   0.833333 |
+| Grenoble                   |         4 |   0.75     |
+| Vannes                     |         4 |   0.75     |
+| Carcassonne                |         4 |   0.75     |
+| Colomiers                  |         4 |   0.5      |
 | Rouen                      |         3 |   0.666667 |
-| Colomiers                  |         3 |   0.666667 |
+| Provence Rugby             |         3 |   0.833333 |
 | Beziers                    |         3 |   0.333333 |
-| Clermont Auvergne          |         2 |   0        |
-| Castres Olympique          |         2 |   0        |
-| Valence Romans Drome Rugby |         2 |   0.5      |
-| Bordeaux Begles            |         2 |   0.5      |
 | Racing 92                  |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0        |
-| Toulon                     |         1 |   0        |
-| Stade Francais Paris       |         1 |   1        |
-| Agen                       |         1 |   0        |
-| Roval Drome XV             |         1 |   1        |
+| Valence Romans Drome Rugby |         2 |   0.5      |
+| Agen                       |         2 |   0        |
+| Clermont Auvergne          |         2 |   0        |
+| Castres Olympique          |         2 |   0        |
+| Bordeaux Begles            |         2 |   0.5      |
 | Pau                        |         1 |   0        |
 | Massy                      |         1 |   1        |
 | Lyon                       |         1 |   0        |
+| Roval Drome XV             |         1 |   1        |
+| Stade Francais Paris       |         1 |   1        |
 | Brive                      |         1 |   1        |
+| Toulon                     |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Conan  
-date: 2023-01-13 11:30:00.413314  
+date: 2023-02-02 19:02:44.235363  
 categories: player  
 ---
 # Jack Conan
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 144.0
+## Current elo: 145.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leinster                |           115 |   0.769565 |
+| Leinster                |           117 |   0.773504 |
 | Ireland                 |            35 |   0.857143 |
 | British and Irish Lions |             4 |   0.5      |
 
@@ -47,12 +47,12 @@ categories: player
 | Ospreys                  |         4 |   0.75     |
 | New Zealand              |         4 |   0.75     |
 | Italy                    |         4 |   1        |
+| Racing 92                |         3 |   1        |
 | Montpellier Herault      |         3 |   1        |
 | Castres Olympique        |         3 |   0.833333 |
 | Stade Toulousain         |         3 |   0.666667 |
 | Australia                |         3 |   0.666667 |
 | Harlequins               |         2 |   0.5      |
-| Racing 92                |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
 | United States of America |         2 |   1        |
 | England                  |         2 |   1        |
@@ -61,10 +61,10 @@ categories: player
 | Northampton Saints       |         2 |   1        |
 | Fiji                     |         2 |   1        |
 | France                   |         2 |   0.5      |
+| Gloucester Rugby         |         2 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Cheetahs                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | New Zealand Maori        |         1 |   0        |
 | Bulls                    |         1 |   0        |
-| Gloucester Rugby         |         1 |   1        |
 | Argentina                |         1 |   1        |

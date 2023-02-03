@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Moala  
-date: 2023-01-30 11:47:08.832637  
+date: 2023-02-02 19:05:20.801565  
 categories: player  
 ---
 # George Moala

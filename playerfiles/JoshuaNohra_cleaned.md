@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joshua Nohra  
-date: 2023-01-13 11:34:33.205063  
+date: 2023-02-02 18:40:11.929566  
 categories: player  
 ---
 # Joshua Nohra
 
 ## Positions: W
 
-## Current elo: 96.0
+## Current elo: 83.0
 
-## Current Percentile: 60.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |            18 |   0.722222 |
+| Hanazono Kintetsu Liners |            21 |   0.619048 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -37,4 +37,7 @@ categories: player
 | Kyuden Voltex                     |         1 |          1 |
 | Mazda Blue Zoomers                |         1 |          1 |
 | Shimizu Blue Sharks               |         1 |          1 |
+| Tokyo Sungoliath                  |         1 |          0 |
+| Toshiba Brave Lupus Tokyo         |         1 |          0 |
 | Toyota Industries Shuttles Aichi  |         1 |          1 |
+| Yokohama Canon Eagles             |         1 |          0 |

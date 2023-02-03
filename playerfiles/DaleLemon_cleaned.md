@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dale Lemon  
-date: 2023-01-13 11:37:51.149781  
+date: 2023-02-02 19:01:19.349758  
 categories: player  
 ---
 # Dale Lemon
 
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 95.0
 
-## Current Percentile: 78.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            38 |   0.381579 |
+| Hartpury College |            41 |   0.402439 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Doncaster           |         5 |   0.2      |
+| Ealing Trailfinders |         5 |   0        |
+| Richmond            |         5 |   0.6      |
 | Ampthill            |         4 |   0.5      |
 | Bedford             |         4 |   0.25     |
 | Coventry            |         4 |   0.5      |
-| Doncaster           |         4 |   0        |
-| Ealing Trailfinders |         4 |   0        |
 | Jersey              |         4 |   0        |
-| Richmond            |         4 |   0.5      |
 | Cornish Pirates     |         3 |   0.333333 |
 | London Scottish     |         3 |   0.833333 |
 | Nottingham          |         3 |   1        |

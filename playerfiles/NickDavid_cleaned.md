@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nick David  
-date: 2023-01-06 00:26:07.622436  
+date: 2023-02-02 19:05:32.320796  
 categories: player  
 ---
 # Nick David
 
 ## Positions: W, FB
 
-## Current elo: 102.0
+## Current elo: 100.0
 
-## Current Percentile: 54.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |            28 |   0.214286 |
-| Harlequins         |            18 |   0.611111 |
+| Harlequins         |            22 |   0.545455 |
 | Hartpury College   |             3 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -31,18 +31,18 @@ categories: player
 | Northampton Saints   |         5 |   0.2      |
 | Bristol Rugby        |         4 |   0        |
 | Leicester Tigers     |         4 |   0.25     |
+| London Irish         |         4 |   0.5      |
 | Wasps                |         3 |   0.333333 |
 | Dragons              |         3 |   0.333333 |
 | Exeter Chiefs        |         3 |   0        |
 | Gloucester Rugby     |         3 |   0.666667 |
-| London Irish         |         3 |   0.666667 |
-| Ospreys              |         2 |   0.5      |
-| Sale Sharks          |         2 |   0.5      |
+| Sale Sharks          |         3 |   0.333333 |
 | RC Enisei            |         2 |   1        |
+| Sharks               |         2 |   0.5      |
+| Racing 92            |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   0.5      |
+| Ospreys              |         2 |   0.5      |
 | Castres Olympique    |         2 |   0.5      |
 | Nottingham           |         1 |   1        |
-| Racing 92            |         1 |   1        |
-| Sharks               |         1 |   0        |
 | Stade Francais Paris |         1 |   1        |
 | Ampthill             |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Litchfield  
-date: 2023-01-21 15:41:46.284788  
+date: 2023-02-02 18:57:04.904004  
 categories: player  
 ---
 # Tom Litchfield
 
 ## Positions: C
 
-## Current elo: 95.0
+## Current elo: 102.0
 
-## Current Percentile: 39.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            14 |        0.5 |
+| Bedford |            15 |   0.533333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Jersey              |         2 |        0   |
 | London Scottish     |         2 |        1   |
 | Richmond            |         2 |        0.5 |
+| Cornish Pirates     |         1 |        1   |
 | Ealing Trailfinders |         1 |        0   |
 | Hartpury College    |         1 |        0   |
 | Nottingham          |         1 |        1   |

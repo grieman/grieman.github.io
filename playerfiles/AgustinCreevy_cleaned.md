@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Agustin Creevy  
-date: 2023-01-23 15:33:40.438772  
+date: 2023-02-02 18:41:07.030037  
 categories: player  
 ---
 # Agustin Creevy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 123.0
+## Current elo: 124.0
 
 ## Current Percentile: 95.0
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Argentina           |            95 |   0.284211 |
 | Jaguares            |            59 |   0.542373 |
-| London Irish        |            56 |   0.428571 |
+| London Irish        |            57 |   0.438596 |
 | Montpellier Herault |            42 |   0.630952 |
 | Worcester Warriors  |            13 |   0.153846 |
 | San Luis            |             9 |   0.333333 |
@@ -42,13 +42,13 @@ categories: player
 | Sharks                   |         8 |   0.375    |
 | France                   |         8 |   0.375    |
 | Lions                    |         7 |   0.428571 |
-| England                  |         6 |   0        |
+| Harlequins               |         7 |   0.357143 |
 | Bulls                    |         6 |   0.666667 |
 | Leicester Tigers         |         6 |   0.166667 |
 | Worcester Warriors       |         6 |   0.5      |
+| England                  |         6 |   0        |
 | Exeter Chiefs            |         6 |   0.333333 |
 | Newcastle Falcons        |         6 |   0.833333 |
-| Harlequins               |         6 |   0.25     |
 | Bath Rugby               |         6 |   0.333333 |
 | Gloucester Rugby         |         6 |   0.416667 |
 | Castres Olympique        |         5 |   0.2      |

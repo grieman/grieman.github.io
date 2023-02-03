@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Demba Bamba  
-date: 2023-01-06 00:09:06.227645  
+date: 2023-02-02 18:44:20.656894  
 categories: player  
 ---
 # Demba Bamba
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 117.0
+## Current elo: 116.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Lyon   |            38 |   0.513158 |
+| Lyon   |            42 |   0.535714 |
 | Brive  |            26 |   0.557692 |
 | France |            24 |   0.708333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Pau                  |         5 |   0.5      |
 | Racing 92            |         5 |   0.2      |
 | La Rochelle          |         4 |   0.5      |
 | Bayonne              |         4 |   0.75     |
-| Pau                  |         4 |   0.375    |
 | Brive                |         4 |   0.75     |
 | Toulon               |         3 |   0        |
 | Stade Francais Paris |         3 |   0.333333 |
@@ -48,20 +48,22 @@ categories: player
 | Argentina            |         2 |   1        |
 | Japan                |         2 |   1        |
 | Agen                 |         2 |   1        |
-| Colomiers            |         2 |   0.5      |
+| Clermont Auvergne    |         2 |   1        |
 | England              |         2 |   0.5      |
+| Connacht             |         2 |   0        |
 | Aurillac             |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.75     |
-| Connacht             |         2 |   0        |
+| Colomiers            |         2 |   0.5      |
 | Castres Olympique    |         2 |   0        |
-| Perpignan            |         1 |   1        |
+| Provence Rugby       |         1 |   0        |
 | US Bressane          |         1 |   1        |
 | Benetton Treviso     |         1 |   1        |
 | Beziers              |         1 |   1        |
+| Bulls                |         1 |   1        |
 | Carcassonne          |         1 |   1        |
-| Clermont Auvergne    |         1 |   1        |
-| Provence Rugby       |         1 |   0        |
+| Saracens             |         1 |   0        |
 | Georgia              |         1 |   1        |
+| Perpignan            |         1 |   1        |
 | Fiji                 |         1 |   0        |
 | Northampton Saints   |         1 |   0        |
 | New Zealand          |         1 |   1        |

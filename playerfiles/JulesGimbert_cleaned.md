@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jules Gimbert  
-date: 2023-01-06 00:10:50.298843  
+date: 2023-02-02 19:01:44.827100  
 categories: player  
 ---
 # Jules Gimbert
 
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 74.0
 
 ## Current Percentile: 4.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |            56 |   0.535714 |
+| Bordeaux Begles |            60 |   0.516667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,16 +36,16 @@ categories: player
 | Lyon                 |         3 |   0.333333 |
 | Connacht             |         2 |   0        |
 | Brive                |         2 |   0.75     |
+| Sharks               |         2 |   0        |
 | Perpignan            |         2 |   0.75     |
-| Wasps                |         2 |   1        |
+| Castres Olympique    |         2 |   0.5      |
+| Bayonne              |         2 |   1        |
 | La Rochelle          |         2 |   0.5      |
 | Grenoble             |         2 |   0.5      |
+| Gloucester Rugby     |         2 |   0        |
 | Dragons              |         2 |   0.5      |
+| Wasps                |         2 |   1        |
 | Newcastle Falcons    |         1 |   0        |
-| Bayonne              |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Sale Sharks          |         1 |   0        |
-| Sharks               |         1 |   0        |
-| Gloucester Rugby     |         1 |   0        |
 | Edinburgh            |         1 |   0.5      |
-| Castres Olympique    |         1 |   1        |

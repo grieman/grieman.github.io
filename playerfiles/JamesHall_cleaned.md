@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: James Hall  
-date: 2023-01-06 00:23:50.610560  
+date: 2023-02-02 18:56:10.490198  
 categories: player  
 ---
 # James Hall
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 85.0
 
 ## Current Percentile: None
 

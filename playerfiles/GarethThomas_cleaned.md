@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gareth Thomas  
-date: 2023-01-06 00:12:07.842337  
+date: 2023-02-02 18:48:27.434715  
 categories: player  
 ---
 # Gareth Thomas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 112.0
+## Current elo: 106.0
 
-## Current Percentile: 77.0
+## Current Percentile: 65.0
 
 # Elo History
 

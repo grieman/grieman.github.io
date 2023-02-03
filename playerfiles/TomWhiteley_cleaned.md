@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Whiteley  
-date: 2023-01-06 00:21:18.705054  
+date: 2023-02-02 18:58:26.399721  
 categories: player  
 ---
 # Tom Whiteley
 
 ## Positions: SH, FH
 
-## Current elo: 107.0
+## Current elo: 100.0
 
-## Current Percentile: 45.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -19,25 +19,26 @@ categories: player
 # Match History
 
 
-| Team          |   Appearances |   Win Rate |
-|:--------------|--------------:|-----------:|
-| Saracens      |            57 |   0.649123 |
-| Bristol Rugby |            11 |   0.454545 |
-| Bedford       |             7 |   0.428571 |
+| Team             |   Appearances |   Win Rate |
+|:-----------------|--------------:|-----------:|
+| Saracens         |            57 |   0.649123 |
+| Bristol Rugby    |            12 |   0.416667 |
+| Bedford          |             7 |   0.428571 |
+| Leicester Tigers |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Exeter Chiefs       |         8 |   0.5      |
 | Leicester Tigers    |         7 |   0.714286 |
 | Newcastle Falcons   |         6 |   0.833333 |
+| London Irish        |         6 |   0.5      |
 | Sale Sharks         |         5 |   0.6      |
-| London Irish        |         5 |   0.6      |
 | Gloucester Rugby    |         4 |   0.25     |
 | Harlequins          |         4 |   0.75     |
 | Worcester Warriors  |         4 |   0.5      |
+| Northampton Saints  |         4 |   0.25     |
 | Wasps               |         3 |   0.333333 |
 | Ospreys             |         3 |   1        |
-| Northampton Saints  |         3 |   0.333333 |
 | Rotherham Titans    |         2 |   1        |
 | Ealing Trailfinders |         2 |   0.5      |
 | London Welsh        |         2 |   1        |

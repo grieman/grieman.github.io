@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Clement Laporte  
-date: 2023-01-23 15:30:56.998397  
+date: 2023-02-02 18:46:20.459164  
 categories: player  
 ---
 # Clement Laporte
 
 ## Positions: FB, W
 
-## Current elo: 156.0
+## Current elo: 163.0
 
 ## Current Percentile: 99.0
 
@@ -23,11 +23,11 @@ categories: player
 |:-------|--------------:|-----------:|
 | Agen   |            46 |   0.423913 |
 | Lyon   |            24 |   0.541667 |
-| Pau    |            10 |   0.4      |
+| Pau    |            11 |   0.363636 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Toulon               |         7 |   0.571429 |
+| Toulon               |         8 |   0.5      |
 | Stade Toulousain     |         7 |   0.428571 |
 | Clermont Auvergne    |         7 |   0.285714 |
 | Stade Francais Paris |         6 |   0.5      |

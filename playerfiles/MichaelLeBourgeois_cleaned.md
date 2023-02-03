@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Le Bourgeois  
-date: 2023-01-21 15:43:00.538170  
+date: 2023-02-02 19:04:07.535001  
 categories: player  
 ---
 # Michael Le Bourgeois
@@ -22,7 +22,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Wasps   |            65 |   0.392308 |
-| Bedford |            48 |   0.489583 |
+| Bedford |            50 |   0.49     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,10 +31,10 @@ categories: player
 | Bath Rugby          |         6 |   0.75     |
 | Sale Sharks         |         6 |   0.333333 |
 | Northampton Saints  |         6 |   0.166667 |
+| Cornish Pirates     |         6 |   0.416667 |
 | London Scottish     |         6 |   0.75     |
 | London Irish        |         6 |   0.333333 |
 | Exeter Chiefs       |         6 |   0.333333 |
-| Cornish Pirates     |         5 |   0.3      |
 | Doncaster           |         5 |   0.3      |
 | Leicester Tigers    |         4 |   0.25     |
 | Jersey              |         4 |   0.5      |
@@ -49,9 +49,9 @@ categories: player
 | Nottingham          |         3 |   0.666667 |
 | Newcastle Falcons   |         3 |   0.666667 |
 | Munster             |         2 |   0        |
+| Caldy               |         2 |   0.5      |
 | Bordeaux Begles     |         2 |   0        |
 | Stade Toulousain    |         2 |   0        |
-| Caldy               |         1 |   1        |
 | London Welsh        |         1 |   1        |
 | Coventry            |         1 |   0        |
 | Leinster            |         1 |   0        |

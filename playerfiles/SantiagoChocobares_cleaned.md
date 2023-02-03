@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Chocobares  
-date: 2023-01-30 17:50:25.039697  
+date: 2023-02-02 18:56:25.610388  
 categories: player  
 ---
 # Santiago Chocobares
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 

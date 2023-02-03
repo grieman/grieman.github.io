@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: John McKee  
-date: 2023-01-06 00:15:43.297127  
+date: 2023-02-02 18:41:48.376351  
 categories: player  
 ---
 # John McKee
 
 ## Positions: H
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 78.0
+## Current Percentile: 81.0
 
 # Elo History
 

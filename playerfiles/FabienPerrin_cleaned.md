@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fabien Perrin  
-date: 2023-01-13 11:35:19.167931  
+date: 2023-02-02 19:14:35.592319  
 categories: player  
 ---
 # Fabien Perrin

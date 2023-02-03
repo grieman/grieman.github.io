@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rento Tsukayama  
-date: 2023-01-13 11:31:19.475875  
+date: 2023-02-02 18:48:36.537099  
 categories: player  
 ---
 # Rento Tsukayama
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 102.0
 
-## Current Percentile: 53.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,16 +21,17 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            18 |   0.583333 |
+| Yokohama Canon Eagles |            21 |   0.595238 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Green Rockets Tokatsu             |         3 |   1        |
 | Kobelco Kobe Steelers             |         3 |   0.666667 |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   0.5      |
-| Green Rockets Tokatsu             |         2 |   1        |
-| Saitama Wild Knights              |         2 |   0        |
+| Saitama Wild Knights              |         3 |   0        |
 | Tokyo Sungoliath                  |         2 |   0        |
 | Black Rams Tokyo                  |         1 |   1        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   1        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |

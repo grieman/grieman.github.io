@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Badet  
-date: 2023-01-17 11:38:22.286250  
+date: 2023-02-02 19:14:26.843469  
 categories: player  
 ---
 # Alexandre Badet
 
 ## Positions: C
 
-## Current elo: 79.0
+## Current elo: 77.0
 
-## Current Percentile: 26.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            26 |   0.538462 |
+| US Bressane |            27 |   0.518519 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
-| Blagnac                    |         2 |   1        |
 | Nevers                     |         2 |   0        |
 | Agen                       |         1 |   1        |
 | Massy                      |         1 |   0        |

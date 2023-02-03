@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julien Dechavanne  
-date: 2023-01-23 15:35:02.198512  
+date: 2023-02-02 18:43:49.610063  
 categories: player  
 ---
 # Julien Dechavanne
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            75 |       0.48 |
+| Dax    |            76 |   0.486842 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         7 |   0.571429 |
+| Bourgoin-Jallieu           |         6 |   0.666667 |
 | Chambery                   |         5 |   0.8      |
-| Bourgoin-Jallieu           |         5 |   0.6      |
 | Blagnac                    |         4 |   0.75     |
 | Albi                       |         4 |   0        |
 | Nice                       |         3 |   0.666667 |

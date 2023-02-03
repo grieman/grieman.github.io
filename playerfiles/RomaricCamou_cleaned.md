@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romaric Camou  
-date: 2023-01-13 11:33:15.553312  
+date: 2023-02-02 18:42:22.155349  
 categories: player  
 ---
 # Romaric Camou
 
 ## Positions: W, FB
 
-## Current elo: 90.0
+## Current elo: 87.0
 
-## Current Percentile: 43.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Nevers      |            46 |   0.608696 |
-| Vannes      |            13 |   0.538462 |
+| Vannes      |            14 |   0.5      |
 | La Rochelle |            11 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -42,13 +42,13 @@ categories: player
 | Montauban            |         3 |   0.666667 |
 | Grenoble             |         3 |   0.666667 |
 | Massy                |         2 |   0.5      |
+| Nevers               |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   0.25     |
 | Perpignan            |         2 |   0.5      |
 | RC Enisei            |         2 |   1        |
 | US Bressane          |         2 |   1        |
 | Vannes               |         2 |   0.5      |
 | Narbonne             |         1 |   1        |
-| Nevers               |         1 |   1        |
 | Pau                  |         1 |   1        |
 | Castres Olympique    |         1 |   0        |
 | Benetton Treviso     |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Ingall  
-date: 2023-01-13 11:35:45.388924  
+date: 2023-02-02 19:01:49.359114  
 categories: player  
 ---
 # Jack Ingall
@@ -21,16 +21,16 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |            20 |      0.125 |
+| London Scottish |            23 |   0.108696 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ampthill            |         3 |   0        |
+| Bedford             |         3 |   0        |
 | Hartpury College    |         3 |   0.166667 |
-| Ampthill            |         2 |   0        |
-| Bedford             |         2 |   0        |
+| Jersey              |         3 |   0        |
 | Doncaster           |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
-| Jersey              |         2 |   0        |
 | Yorkshire Carnegie  |         2 |   0.5      |
 | Caldy               |         1 |   1        |
 | Cornish Pirates     |         1 |   0        |

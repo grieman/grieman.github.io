@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gabin Villerouge  
-date: 2023-01-17 11:34:14.691636  
+date: 2023-02-02 19:01:59.412733  
 categories: player  
 ---
 # Gabin Villerouge
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 110.0
 
-## Current Percentile: 78.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            42 |    0.47619 |
+| Blagnac |            44 |   0.488636 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,10 +33,10 @@ categories: player
 | Dax                        |         3 |   0.333333 |
 | Massy                      |         3 |   0.333333 |
 | Nice                       |         3 |   0.333333 |
+| US Bressane                |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Chambery                   |         2 |   1        |
 | Dijon                      |         2 |   0.5      |
 | Narbonne                   |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
-| US Bressane                |         2 |   0        |
-| Tarbes                     |         1 |   1        |
+| Tarbes                     |         2 |   0.75     |

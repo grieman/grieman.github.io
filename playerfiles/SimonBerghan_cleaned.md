@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon Berghan  
-date: 2023-01-06 00:14:53.024585  
+date: 2023-02-02 19:00:25.143992  
 categories: player  
 ---
 # Simon Berghan
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 105.0
+## Current elo: 97.0
 
-## Current Percentile: 25.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Edinburgh        |            94 |   0.547872 |
 | Scotland         |            32 |   0.578125 |
-| Glasgow Warriors |            17 |   0.529412 |
+| Glasgow Warriors |            21 |   0.595238 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -39,9 +39,9 @@ categories: player
 | Zebre                |         6 |   0.5      |
 | Ospreys              |         6 |   0.333333 |
 | Ireland              |         5 |   0.2      |
+| Dragons              |         5 |   1        |
 | Benetton Treviso     |         5 |   0.6      |
 | Ulster               |         5 |   0.2      |
-| Dragons              |         4 |   1        |
 | Edinburgh            |         4 |   0.75     |
 | England              |         4 |   0.375    |
 | Wales                |         4 |   0.5      |
@@ -54,19 +54,19 @@ categories: player
 | Wasps                |         2 |   1        |
 | Georgia              |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
+| Bath Rugby           |         2 |   0.75     |
 | Toulon               |         2 |   1        |
 | Newcastle Falcons    |         2 |   1        |
+| Perpignan            |         2 |   1        |
+| Stormers             |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Harlequins           |         1 |   1        |
-| South Africa         |         1 |   0        |
 | Australia            |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
 | Timisoara Saracens   |         1 |   1        |
-| Stormers             |         1 |   0        |
 | Russia               |         1 |   1        |
+| South Africa         |         1 |   0        |
 | Bulls                |         1 |   0        |
 | Grenoble             |         1 |   0        |
-| Perpignan            |         1 |   1        |
 | Canada               |         1 |   1        |
 | New Zealand          |         1 |   0        |
 | Cheetahs             |         1 |   1        |

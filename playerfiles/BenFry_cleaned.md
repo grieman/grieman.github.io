@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ben Fry  
-date: 2023-01-06 00:19:32.821826  
+date: 2023-02-02 18:47:25.740524  
 categories: player  
 ---
 # Ben Fry
 
 ## Positions: FL
 
-## Current elo: 111.0
+## Current elo: 107.0
 
-## Current Percentile: 72.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dragons |            33 |   0.333333 |
+| Dragons |            35 |   0.314286 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -30,14 +30,14 @@ categories: player
 | Scarlets           |         3 |   0.333333 |
 | Ulster             |         2 |   0        |
 | Ospreys            |         2 |   0.25     |
+| Bulls              |         2 |   0        |
 | Benetton Treviso   |         2 |   0.5      |
+| Glasgow Warriors   |         2 |   0.5      |
 | Edinburgh          |         2 |   0.5      |
 | Connacht           |         2 |   0.5      |
 | Cardiff Blues      |         2 |   0        |
 | Munster            |         2 |   0        |
-| Glasgow Warriors   |         1 |   1        |
 | Leinster           |         1 |   0        |
-| Bulls              |         1 |   0        |
 | RC Enisei          |         1 |   1        |
 | Castres Olympique  |         1 |   1        |
 | Sharks             |         1 |   0        |

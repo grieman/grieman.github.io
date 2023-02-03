@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Phil Kite  
-date: 2023-01-13 11:23:06.668262  
+date: 2023-02-02 19:11:48.733301  
 categories: player  
 ---
 # Phil Kite
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Vannes          |           108 |   0.555556 |
+| Vannes          |           109 |   0.550459 |
 | Northland       |            18 |   0.277778 |
 | Brisbane City   |             8 |   0.75     |
 | Tonga           |             2 |   0.5      |
@@ -32,8 +32,8 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |        10 |   0.7      |
+| Nevers                     |         9 |   0.555556 |
 | Mont-de-Marsan             |         9 |   0.666667 |
-| Nevers                     |         8 |   0.625    |
 | Aurillac                   |         7 |   0.857143 |
 | Soyaux-Angouleme           |         7 |   0.571429 |
 | Beziers                    |         7 |   0.714286 |

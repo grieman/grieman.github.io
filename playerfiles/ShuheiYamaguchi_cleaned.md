@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Shuhei Yamaguchi  
-date: 2023-01-25 18:59:05.842334  
+date: 2023-02-02 18:56:27.894637  
 categories: player  
 ---
 # Shuhei Yamaguchi
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,9 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |             1 |          0 |
+| Toyota Verblitz |             2 |        0.5 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
+| Kobelco Kobe Steelers     |         1 |          1 |
 | Toshiba Brave Lupus Tokyo |         1 |          0 |

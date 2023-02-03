@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Victor Goillot  
-date: 2023-01-17 11:40:42.402356  
+date: 2023-02-02 18:48:44.689906  
 categories: player  
 ---
 # Jean Victor Goillot
@@ -21,16 +21,16 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Beziers     |            36 |   0.486111 |
+| Beziers     |            37 |   0.5      |
 | La Rochelle |            30 |   0.733333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Nevers                     |         4 |   0.25     |
+| Provence Rugby             |         4 |   0.5      |
 | Montauban                  |         4 |   0.75     |
 | Clermont Auvergne          |         3 |   0.666667 |
 | Stade Francais Paris       |         3 |   0.333333 |
-| Provence Rugby             |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.333333 |
 | Aurillac                   |         3 |   0.666667 |
 | Grenoble                   |         3 |   1        |

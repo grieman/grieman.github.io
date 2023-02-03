@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Connors  
-date: 2023-01-30 11:45:26.811492  
+date: 2023-02-02 19:08:28.942868  
 categories: player  
 ---
 # Will Connors
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 128.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

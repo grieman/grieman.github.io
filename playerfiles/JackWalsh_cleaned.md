@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jack Walsh  
-date: 2023-01-06 00:12:39.896632  
+date: 2023-02-02 18:56:18.807643  
 categories: player  
 ---
 # Jack Walsh
 
 ## Positions: FB
 
-## Current elo: 99.0
+## Current elo: 86.0
 
 ## Current Percentile: None
 

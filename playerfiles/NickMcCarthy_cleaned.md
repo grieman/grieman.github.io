@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nick McCarthy  
-date: 2023-01-17 11:32:38.590533  
+date: 2023-02-02 18:40:10.962301  
 categories: player  
 ---
 # Nick McCarthy
 
 ## Positions: SH
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 51.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Leinster |            59 |   0.771186 |
+| Leinster |            60 |   0.775    |
 | Munster  |            21 |   0.809524 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Connacht         |        10 |   0.9      |
+| Cardiff Blues    |         8 |   0.875    |
 | Ulster           |         7 |   0.428571 |
 | Scarlets         |         7 |   0.928571 |
-| Cardiff Blues    |         7 |   0.857143 |
 | Zebre            |         6 |   1        |
 | Munster          |         6 |   1        |
 | Dragons          |         5 |   1        |

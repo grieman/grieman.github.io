@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josh Wycherley  
-date: 2023-01-06 00:13:02.710204  
+date: 2023-02-02 18:58:59.037976  
 categories: player  
 ---
 # Josh Wycherley
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 89.0
 
-## Current Percentile: 15.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,22 +21,23 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            27 |   0.666667 |
+| Munster |            31 |   0.677419 |
 
-| Opponent          |   Matches |   Win Rate |
-|:------------------|----------:|-----------:|
-| Ulster            |         4 |   0.75     |
-| Cardiff Blues     |         3 |   0.666667 |
-| Benetton Treviso  |         2 |   1        |
-| Connacht          |         2 |   1        |
-| Dragons           |         2 |   1        |
-| Glasgow Warriors  |         2 |   0.5      |
-| Leinster          |         2 |   0        |
-| Ospreys           |         2 |   0.5      |
-| Zebre             |         2 |   1        |
-| Bulls             |         1 |   0        |
-| Castres Olympique |         1 |   1        |
-| Lions             |         1 |   0        |
-| Scarlets          |         1 |   1        |
-| Stade Toulousain  |         1 |   0        |
-| Wasps             |         1 |   1        |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Ulster             |         4 |   0.75     |
+| Benetton Treviso   |         3 |   1        |
+| Cardiff Blues      |         3 |   0.666667 |
+| Connacht           |         2 |   1        |
+| Dragons            |         2 |   1        |
+| Glasgow Warriors   |         2 |   0.5      |
+| Leinster           |         2 |   0        |
+| Lions              |         2 |   0.5      |
+| Ospreys            |         2 |   0.5      |
+| Stade Toulousain   |         2 |   0        |
+| Zebre              |         2 |   1        |
+| Bulls              |         1 |   0        |
+| Castres Olympique  |         1 |   1        |
+| Northampton Saints |         1 |   1        |
+| Scarlets           |         1 |   1        |
+| Wasps              |         1 |   1        |

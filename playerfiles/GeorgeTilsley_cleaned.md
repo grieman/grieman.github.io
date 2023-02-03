@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George Tilsley  
-date: 2023-01-06 00:13:26.859194  
+date: 2023-02-02 19:05:18.133488  
 categories: player  
 ---
 # George Tilsley
 
 ## Positions: W, C
 
-## Current elo: 99.0
+## Current elo: 110.0
 
-## Current Percentile: 32.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Agen            |            70 |   0.435714 |
-| Perpignan       |            65 |   0.523077 |
+| Perpignan       |            67 |   0.522388 |
 | Bordeaux Begles |            15 |   0.466667 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -34,15 +34,15 @@ categories: player
 | Stade Toulousain     |         7 |  0.142857  |
 | Bordeaux Begles      |         7 |  0.285714  |
 | Racing 92            |         7 |  0.571429  |
+| Clermont Auvergne    |         7 |  0.285714  |
+| Stade Francais Paris |         6 |  0.5       |
 | Montpellier Herault  |         6 |  0.0833333 |
-| Oyonnax              |         6 |  0.333333  |
 | Lyon                 |         6 |  0.333333  |
-| Clermont Auvergne    |         6 |  0.333333  |
+| Oyonnax              |         6 |  0.333333  |
 | Montauban            |         5 |  0.8       |
 | Carcassonne          |         5 |  0.8       |
 | Soyaux-Angouleme     |         5 |  1         |
 | Biarritz Olympique   |         5 |  0.6       |
-| Stade Francais Paris |         5 |  0.4       |
 | Perpignan            |         4 |  0.625     |
 | Mont-de-Marsan       |         4 |  0.75      |
 | Vannes               |         4 |  0.875     |

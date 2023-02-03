@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alexis Palisson  
-date: 2023-01-13 11:24:27.449326  
+date: 2023-02-02 18:46:45.242999  
 categories: player  
 ---
 # Alexis Palisson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 75.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Toulon               |            58 |   0.663793 |
 | Stade Toulousain     |            45 |   0.477778 |
 | Lyon                 |            41 |   0.54878  |
-| Colomiers            |            38 |   0.684211 |
+| Colomiers            |            40 |   0.7      |
 | France               |            19 |   0.578947 |
 | Stade Francais Paris |             1 |   0        |
 
@@ -44,26 +44,26 @@ categories: player
 | Racing 92                  |        11 |   0.5      |
 | La Rochelle                |        10 |   0.2      |
 | Bordeaux Begles            |         9 |   0.611111 |
-| Agen                       |         8 |   0.625    |
 | Grenoble                   |         8 |   0.625    |
-| Biarritz Olympique         |         7 |   0.428571 |
+| Agen                       |         8 |   0.625    |
+| Biarritz Olympique         |         8 |   0.5      |
 | Montauban                  |         6 |   0.333333 |
 | Bourgoin-Jallieu           |         6 |   0.666667 |
 | Oyonnax                    |         6 |   0.666667 |
 | Brive                      |         5 |   0.6      |
-| Lyon                       |         4 |   1        |
-| Cardiff Blues              |         4 |   0.25     |
 | Beziers                    |         4 |   0.75     |
 | Australia                  |         4 |   0        |
+| Soyaux-Angouleme           |         4 |   0.75     |
+| Lyon                       |         4 |   1        |
 | Wales                      |         4 |   0.75     |
 | Rouen                      |         4 |   1        |
+| Cardiff Blues              |         4 |   0.25     |
 | Albi                       |         3 |   0.666667 |
 | Pau                        |         3 |   1        |
 | England                    |         3 |   0.666667 |
 | Sale Sharks                |         3 |   0.666667 |
 | Saracens                   |         3 |   0.333333 |
 | Glasgow Warriors           |         3 |   0.333333 |
-| Soyaux-Angouleme           |         3 |   0.666667 |
 | Nevers                     |         3 |   1        |
 | Carcassonne                |         3 |   0.333333 |
 | Vannes                     |         3 |   0.333333 |

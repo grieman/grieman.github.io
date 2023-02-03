@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matthieu Ugalde  
-date: 2023-01-13 11:30:05.522812  
+date: 2023-02-02 18:44:25.140436  
 categories: player  
 ---
 # Matthieu Ugalde
 
 ## Positions: FH, C
 
-## Current elo: 112.0
+## Current elo: 105.0
 
-## Current Percentile: 79.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            79 |   0.506329 |
+| Soyaux-Angouleme |            81 |   0.493827 |
 | Brive            |            77 |   0.493506 |
 | Bayonne          |            59 |   0.5      |
 | Grenoble         |            11 |   0.181818 |
@@ -47,18 +47,18 @@ categories: player
 | Vannes                     |         5 |   0.6      |
 | Montauban                  |         5 |   0.3      |
 | Lyon                       |         5 |   0.3      |
-| Colomiers                  |         4 |   0.75     |
+| Colomiers                  |         5 |   0.6      |
 | Massy                      |         4 |   0.5      |
 | Valence Romans Drome Rugby |         4 |   0.625    |
+| Rouen                      |         4 |   0.5      |
 | Mont-de-Marsan             |         4 |   0.5      |
 | Pau                        |         4 |   0.5      |
-| Dragons                    |         3 |   1        |
 | Carcassonne                |         3 |   0.166667 |
 | Brive                      |         3 |   0.333333 |
 | Aurillac                   |         3 |   0.666667 |
 | Beziers                    |         3 |   1        |
-| Rouen                      |         3 |   0.666667 |
-| Cognac Saint Jean d'Angély |         2 |   1        |
+| Dragons                    |         3 |   1        |
+| Chambery                   |         2 |   0        |
 | Bayonne                    |         2 |   0        |
 | Arix Viadana               |         2 |   1        |
 | Dijon                      |         2 |   0.5      |
@@ -67,13 +67,13 @@ categories: player
 | Suresnes                   |         2 |   1        |
 | Roval Drome XV             |         2 |   0.5      |
 | Worcester Warriors         |         2 |   0.5      |
-| Chambery                   |         2 |   0        |
+| Albi                       |         2 |   1        |
 | Provence Rugby             |         2 |   1        |
 | Dax                        |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
 | Nice                       |         2 |   0.5      |
 | Exeter Chiefs              |         2 |   0.5      |
-| Albi                       |         2 |   1        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
 | Bath Rugby                 |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |

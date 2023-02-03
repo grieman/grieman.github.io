@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Dobie  
-date: 2023-01-17 11:34:28.622649  
+date: 2023-02-02 18:44:26.140343  
 categories: player  
 ---
 # Jamie Dobie
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 38.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            37 |   0.540541 |
+| Glasgow Warriors |            38 |   0.552632 |
 | Bay of Plenty    |             3 |   0.666667 |
 | Scotland         |             1 |   1        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Dragons          |         5 |   0.4      |
+| Dragons          |         6 |   0.5      |
 | Zebre            |         4 |   1        |
 | Edinburgh        |         4 |   0.5      |
 | Leinster         |         4 |   0        |

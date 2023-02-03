@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Temo Matiu  
-date: 2023-01-06 11:43:19.302879  
+date: 2023-02-02 19:08:43.325288  
 categories: player  
 ---
 # Temo Matiu
@@ -21,12 +21,14 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |             7 |   0.785714 |
+| Biarritz Olympique |             9 |   0.611111 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Agen             |         1 |        0   |
 | Aurillac         |         1 |        1   |
 | Beziers          |         1 |        0   |
+| Colomiers        |         1 |        0   |
 | Grenoble         |         1 |        0.5 |
 | Massy            |         1 |        1   |
 | Montauban        |         1 |        1   |

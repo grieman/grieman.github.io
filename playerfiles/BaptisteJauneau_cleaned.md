@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Baptiste Jauneau  
-date: 2023-01-06 00:14:00.201156  
+date: 2023-02-02 19:10:24.028269  
 categories: player  
 ---
 # Baptiste Jauneau
 
 ## Positions: 
 
-## Current elo: 104.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 

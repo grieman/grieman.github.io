@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shota Horie  
-date: 2023-01-13 11:31:53.953635  
+date: 2023-02-02 19:03:20.974322  
 categories: player  
 ---
 # Shota Horie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 139.0
+## Current elo: 140.0
 
-## Current Percentile: 99.0
+## Current Percentile: None
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            83 |   0.903614 |
+| Saitama Wild Knights |            85 |   0.905882 |
 | Japan                |            48 |   0.583333 |
 | Melbourne Rebels     |            28 |   0.25     |
 | Sunwolves            |            26 |   0.134615 |
@@ -32,10 +32,10 @@ categories: player
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Shizuoka Blue Revs                |         9 |   0.833333 |
-| Yokohama Canon Eagles             |         7 |   0.857143 |
+| Yokohama Canon Eagles             |         8 |   0.875    |
+| Toyota Verblitz                   |         7 |   0.857143 |
 | Kobelco Kobe Steelers             |         7 |   0.928571 |
 | Toshiba Brave Lupus Tokyo         |         7 |   0.857143 |
-| Toyota Verblitz                   |         6 |   0.833333 |
 | Black Rams Tokyo                  |         6 |   1        |
 | Brumbies                          |         6 |   0.166667 |
 | Queensland Reds                   |         6 |   0.166667 |

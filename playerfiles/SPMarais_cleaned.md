@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: SP Marais  
-date: 2023-01-13 11:31:31.615976  
+date: 2023-02-02 19:09:51.072323  
 categories: player  
 ---
 # SP Marais
 
 ## Positions: FB, W
 
-## Current elo: 125.0
+## Current elo: 130.0
 
-## Current Percentile: 91.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Stormers               |            29 |   0.413793 |
 | Sharks                 |            26 |   0.576923 |
-| Yokohama Canon Eagles  |            23 |   0.521739 |
+| Yokohama Canon Eagles  |            26 |   0.538462 |
 | Natal Sharks           |            22 |   0.704545 |
 | Western Province       |            14 |   0.642857 |
 | Eastern Province Kings |            13 |   0.923077 |
@@ -40,10 +40,11 @@ categories: player
 | Free State Cheetahs               |         7 |   0.642857 |
 | Blue Bulls                        |         6 |   1        |
 | Stormers                          |         6 |   0.333333 |
+| Saitama Wild Knights              |         5 |   0        |
 | Chiefs                            |         5 |   0.4      |
-| Saitama Wild Knights              |         4 |   0        |
 | Kobelco Kobe Steelers             |         4 |   0.25     |
 | Sharks                            |         4 |   0.25     |
+| Green Rockets Tokatsu             |         4 |   1        |
 | Griquas                           |         4 |   0.5      |
 | Highlanders                       |         4 |   0.25     |
 | Crusaders                         |         4 |   0.25     |
@@ -54,21 +55,21 @@ categories: player
 | Jaguares                          |         3 |   0.666667 |
 | Blues                             |         3 |   0.666667 |
 | Hurricanes                        |         3 |   0.333333 |
-| Green Rockets Tokatsu             |         3 |   1        |
-| SWD Eagles                        |         2 |   1        |
+| Eastern Province Kings            |         2 |   1        |
 | Valke                             |         2 |   1        |
 | Tokyo Sungoliath                  |         2 |   0        |
 | Sunwolves                         |         2 |   0.5      |
 | Boland Cavaliers                  |         2 |   1        |
 | Southern Kings                    |         2 |   1        |
 | Border Bulldogs                   |         2 |   1        |
+| SWD Eagles                        |         2 |   1        |
 | Brumbies                          |         2 |   0        |
-| Eastern Province Kings            |         2 |   1        |
 | Griffons                          |         2 |   1        |
 | Natal Sharks                      |         2 |   0.5      |
 | Melbourne Rebels                  |         2 |   1        |
 | Black Rams Tokyo                  |         2 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Mitsubishi Dynaboars              |         1 |   1        |

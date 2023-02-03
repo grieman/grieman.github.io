@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre HUGUET  
-date: 2023-02-02 15:50:32.163849  
+date: 2023-02-02 18:46:43.064825  
 categories: player  
 ---
 # Pierre HUGUET

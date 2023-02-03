@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dominic Robertson-McCoy  
-date: 2023-01-06 00:22:21.381196  
+date: 2023-02-02 19:11:45.754788  
 categories: player  
 ---
 # Dominic Robertson-McCoy
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Connacht  |            69 |        0.5 |
-| Northland |             3 |        0   |
+| Connacht  |            71 |   0.514085 |
+| Northland |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,10 +42,12 @@ categories: player
 | Perpignan            |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
 | Gloucester Rugby     |         2 |   0.5      |
-| Oyonnax              |         1 |   1        |
 | Bordeaux Begles      |         1 |   1        |
-| Sale Sharks          |         1 |   0        |
+| Oyonnax              |         1 |   1        |
 | Brive                |         1 |   1        |
+| Sale Sharks          |         1 |   0        |
+| Sharks               |         1 |   1        |
+| Lions                |         1 |   1        |
 | Stade Francais Paris |         1 |   1        |
 | Hawke's Bay          |         1 |   0        |
 | Taranaki             |         1 |   0        |

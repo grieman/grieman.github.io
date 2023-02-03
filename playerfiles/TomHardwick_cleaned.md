@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Hardwick  
-date: 2023-01-21 15:45:16.095917  
+date: 2023-02-02 19:01:55.511206  
 categories: player  
 ---
 # Tom Hardwick
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |            29 |   0.37931  |
-| Ampthill         |             5 |   0        |
+| Ampthill         |             6 |   0.166667 |
 | Albi             |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -41,9 +41,10 @@ categories: player
 | Jersey                     |         1 |   0        |
 | London Irish               |         1 |   0        |
 | Bedford                    |         1 |   0        |
+| Newcastle Falcons          |         1 |   1        |
 | Nice                       |         1 |   0        |
 | Northampton Saints         |         1 |   1        |
 | Pau                        |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
-| Newcastle Falcons          |         1 |   1        |
+| London Scottish            |         1 |   1        |

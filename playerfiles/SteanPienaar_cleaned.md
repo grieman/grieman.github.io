@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stean Pienaar  
-date: 2023-01-13 11:28:35.251582  
+date: 2023-02-02 18:46:47.337675  
 categories: player  
 ---
 # Stean Pienaar
@@ -22,7 +22,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Golden Lions |            22 |   0.568182 |
-| Lions        |            12 |   0.416667 |
+| Lions        |            13 |   0.384615 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Free State Cheetahs |         3 |   0.833333 |
 | Munster             |         2 |   0.5      |
 | Pumas               |         2 |   1        |
+| Connacht            |         1 |   0        |
 | Dragons             |         1 |   1        |
 | Edinburgh           |         1 |   1        |
 | Glasgow Warriors    |         1 |   0        |

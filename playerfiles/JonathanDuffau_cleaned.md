@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jonathan Duffau  
-date: 2023-01-17 11:42:46.351162  
+date: 2023-02-02 18:53:41.152639  
 categories: player  
 ---
 # Jonathan Duffau
 
 ## Positions: W, C
 
-## Current elo: 125.0
+## Current elo: 129.0
 
 ## Current Percentile: 91.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            41 |        0.5 |
+| Tarbes |            43 |   0.511628 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,14 +31,14 @@ categories: player
 | Albi                       |         3 |   1        |
 | Aubenas                    |         3 |   0.666667 |
 | Dijon                      |         3 |   0.5      |
+| Blagnac                    |         3 |   0.166667 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Dax                        |         2 |   0        |
-| Blagnac                    |         2 |   0        |
 | Massy                      |         2 |   0.5      |
 | Narbonne                   |         2 |   0.5      |
 | Nice                       |         2 |   0        |
+| Rennes                     |         2 |   1        |
 | Suresnes                   |         2 |   0        |
 | US Bressane                |         2 |   0        |
 | Carqueiranne-Hyères        |         1 |   0        |
-| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Loick Jammes  
-date: 2023-01-13 11:32:34.209338  
+date: 2023-02-02 18:48:55.776814  
 categories: player  
 ---
 # Loick Jammes
 
 ## Positions: H
 
-## Current elo: 57.0
+## Current elo: 59.0
 
 ## Current Percentile: 0.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            64 |   0.5625   |
+| Provence Rugby |            66 |   0.545455 |
 | Grenoble       |            51 |   0.352941 |
 | Brive          |            17 |   0.647059 |
 | Agen           |             4 |   0.25     |
@@ -29,27 +29,27 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Oyonnax              |        11 |   0.454545 |
+| Montauban            |         8 |   0.75     |
 | Mont-de-Marsan       |         8 |   0.5      |
-| Montauban            |         7 |   0.857143 |
 | Nevers               |         7 |   0.571429 |
 | Vannes               |         7 |   0.714286 |
 | Colomiers            |         6 |   0.333333 |
 | Agen                 |         5 |   0.8      |
 | Rouen                |         5 |   0.6      |
 | Grenoble             |         5 |   0.7      |
-| London Irish         |         4 |   0.5      |
+| Lyon                 |         4 |   0        |
 | US Bressane          |         4 |   0.625    |
 | Stade Toulousain     |         4 |   0.5      |
 | Soyaux-Angouleme     |         4 |   0.5      |
 | Racing 92            |         4 |   0.5      |
+| Beziers              |         4 |   0.5      |
 | Carcassonne          |         4 |   0.75     |
-| Lyon                 |         4 |   0        |
 | Brive                |         4 |   0.5      |
-| La Rochelle          |         3 |   0.333333 |
+| London Irish         |         4 |   0.5      |
 | Bordeaux Begles      |         3 |   0        |
 | Toulon               |         3 |   0        |
 | Montpellier Herault  |         3 |   0        |
-| Beziers              |         3 |   0.666667 |
+| La Rochelle          |         3 |   0.333333 |
 | Edinburgh            |         2 |   0.5      |
 | Castres Olympique    |         2 |   0        |
 | Stade Francais Paris |         2 |   0.5      |

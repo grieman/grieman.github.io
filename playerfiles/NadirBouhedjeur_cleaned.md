@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nadir Bouhedjeur  
-date: 2023-01-17 11:28:29.065682  
+date: 2023-02-02 18:57:43.369863  
 categories: player  
 ---
 # Nadir Bouhedjeur
@@ -21,21 +21,21 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Provence Rugby             |            27 |   0.425926 |
+| Provence Rugby             |            28 |   0.410714 |
 | Valence Romans Drome Rugby |             5 |   0.4      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Montauban        |         4 |   0.5      |
 | Oyonnax          |         3 |   0.166667 |
-| Nevers           |         3 |   0.666667 |
+| Beziers          |         3 |   0.666667 |
 | Carcassonne      |         3 |   1        |
-| Mont-de-Marsan   |         2 |   0.5      |
-| Narbonne         |         2 |   0        |
+| Nevers           |         3 |   0.666667 |
 | Aurillac         |         2 |   0        |
+| Narbonne         |         2 |   0        |
 | Agen             |         2 |   0.5      |
+| Mont-de-Marsan   |         2 |   0.5      |
 | Colomiers        |         2 |   0        |
-| Beziers          |         2 |   1        |
 | Massy            |         1 |   0        |
 | Bayonne          |         1 |   0        |
 | Perpignan        |         1 |   0        |

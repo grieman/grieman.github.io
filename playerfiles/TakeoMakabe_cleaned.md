@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Takeo Makabe  
-date: 2023-01-30 17:53:56.584856  
+date: 2023-02-02 18:49:32.869555  
 categories: player  
 ---
 # Takeo Makabe

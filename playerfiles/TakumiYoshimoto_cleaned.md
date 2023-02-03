@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Takumi Yoshimoto  
-date: 2023-01-17 11:34:16.215410  
+date: 2023-02-02 18:39:46.896810  
 categories: player  
 ---
 # Takumi Yoshimoto
 
 ## Positions: FH
 
-## Current elo: 97.0
+## Current elo: 87.0
 
-## Current Percentile: 58.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             3 |   0.666667 |
+| Hanazono Kintetsu Liners |             5 |        0.4 |
 
-| Opponent              |   Matches |   Win Rate |
-|:----------------------|----------:|-----------:|
-| Hino Red Dolphins     |         1 |          1 |
-| Kamaishi Seawaves     |         1 |          1 |
-| Yokohama Canon Eagles |         1 |          0 |
+| Opponent                  |   Matches |   Win Rate |
+|:--------------------------|----------:|-----------:|
+| Hino Red Dolphins         |         1 |          1 |
+| Kamaishi Seawaves         |         1 |          1 |
+| Tokyo Sungoliath          |         1 |          0 |
+| Toshiba Brave Lupus Tokyo |         1 |          0 |
+| Yokohama Canon Eagles     |         1 |          0 |

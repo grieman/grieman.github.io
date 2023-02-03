@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bradley Denty  
-date: 2023-01-13 11:26:43.809220  
+date: 2023-02-02 19:12:16.317460  
 categories: player  
 ---
 # Bradley Denty
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 91.0
 
-## Current Percentile: 70.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            10 |        0.5 |
+| Hartpury College |            13 |   0.538462 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ampthill            |         1 |          1 |
-| Bedford             |         1 |          0 |
-| Cornish Pirates     |         1 |          1 |
-| Coventry            |         1 |          1 |
-| Doncaster           |         1 |          0 |
-| Ealing Trailfinders |         1 |          0 |
-| Jersey              |         1 |          0 |
-| London Scottish     |         1 |          1 |
-| Nottingham          |         1 |          1 |
-| Richmond            |         1 |          0 |
+| Doncaster           |         2 |        0.5 |
+| Ealing Trailfinders |         2 |        0   |
+| Richmond            |         2 |        0.5 |
+| Ampthill            |         1 |        1   |
+| Bedford             |         1 |        0   |
+| Cornish Pirates     |         1 |        1   |
+| Coventry            |         1 |        1   |
+| Jersey              |         1 |        0   |
+| London Scottish     |         1 |        1   |
+| Nottingham          |         1 |        1   |

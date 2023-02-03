@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yan TABAROT  
-date: 2023-02-02 15:49:26.564427  
+date: 2023-02-02 18:48:26.388005  
 categories: player  
 ---
 # Yan TABAROT

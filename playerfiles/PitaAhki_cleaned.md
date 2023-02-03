@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pita Ahki  
-date: 2023-01-23 15:32:50.785142  
+date: 2023-02-02 18:44:04.313808  
 categories: player  
 ---
 # Pita Ahki
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            88 |   0.698864 |
+| Stade Toulousain |            89 |   0.702247 |
 | North Harbour    |            31 |   0.209677 |
 | Blues            |            14 |   0.428571 |
 | Connacht         |             8 |   0.375    |
@@ -31,10 +31,10 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | La Rochelle              |         9 |   0.888889 |
+| Montpellier Herault      |         8 |   0.75     |
 | Racing 92                |         8 |   0.625    |
 | Bordeaux Begles          |         7 |   0.714286 |
 | Brive                    |         7 |   0.857143 |
-| Montpellier Herault      |         7 |   0.714286 |
 | Manawatu                 |         6 |   0.166667 |
 | Northland                |         6 |   0.416667 |
 | Clermont Auvergne        |         6 |   0.583333 |

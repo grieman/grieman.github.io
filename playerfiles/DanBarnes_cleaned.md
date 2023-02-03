@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Barnes  
-date: 2023-01-23 15:31:49.916715  
+date: 2023-02-02 18:57:42.642445  
 categories: player  
 ---
 # Dan Barnes
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 125.0
 
-## Current Percentile: 97.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Jersey          |            30 |   0.75     |
+| Jersey          |            31 |   0.758065 |
 | London Scottish |            11 |   0.227273 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         5 |   0.8      |
 | Nottingham          |         5 |   0.6      |
 | Ampthill            |         4 |   0.5      |
 | Bedford             |         4 |   0.75     |
-| Cornish Pirates     |         4 |   0.75     |
 | Coventry            |         4 |   0.5      |
 | London Scottish     |         4 |   1        |
 | Doncaster           |         3 |   0.333333 |

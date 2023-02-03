@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo Idjellidaine  
-date: 2023-01-13 11:27:54.154868  
+date: 2023-02-02 19:04:44.648819  
 categories: player  
 ---
 # Theo Idjellidaine
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Agen             |            24 |   0.333333 |
-| Stade Toulousain |             8 |   0.25     |
+| Agen             |            25 |       0.36 |
+| Stade Toulousain |             8 |       0.25 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Colomiers            |         3 |   0.333333 |
 | Oyonnax              |         3 |   0        |
 | Bayonne              |         2 |   0        |
+| Biarritz Olympique   |         2 |   1        |
 | Stade Francais Paris |         2 |   0        |
 | Provence Rugby       |         2 |   0.5      |
 | Nevers               |         2 |   0        |
@@ -45,5 +46,4 @@ categories: player
 | Clermont Auvergne    |         1 |   0        |
 | Carcassonne          |         1 |   0        |
 | Brive                |         1 |   0        |
-| Biarritz Olympique   |         1 |   1        |
 | Vannes               |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Brian Deeny  
-date: 2023-01-06 00:13:56.956435  
+date: 2023-02-02 19:04:49.584900  
 categories: player  
 ---
 # Brian Deeny
 
 ## Positions: L
 
-## Current elo: 108.0
+## Current elo: 104.0
 
 ## Current Percentile: 60.0
 

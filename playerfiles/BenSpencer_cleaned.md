@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Spencer  
-date: 2023-01-06 00:22:07.421816  
+date: 2023-02-02 18:53:27.421514  
 categories: player  
 ---
 # Ben Spencer
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 104.0
+## Current elo: 100.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -24,12 +24,12 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Saracens   |           179 |   0.73743  |
-| Bath Rugby |            53 |   0.396226 |
+| Bath Rugby |            56 |   0.383929 |
 | England    |             5 |   0.3      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Sale Sharks        |        22 |   0.636364 |
+| Sale Sharks        |        23 |   0.608696 |
 | Northampton Saints |        22 |   0.590909 |
 | Exeter Chiefs      |        22 |   0.431818 |
 | Wasps              |        18 |   0.555556 |
@@ -42,11 +42,11 @@ categories: player
 | Bath Rugby         |        10 |   0.7      |
 | Bristol Rugby      |         8 |   0.5      |
 | Ospreys            |         5 |   0.9      |
+| Glasgow Warriors   |         5 |   0.7      |
+| Toulon             |         4 |   0.5      |
 | Munster            |         4 |   0.75     |
-| Glasgow Warriors   |         4 |   0.75     |
 | South Africa       |         4 |   0.25     |
 | Scarlets           |         3 |   0.833333 |
-| Toulon             |         3 |   0.666667 |
 | Clermont Auvergne  |         3 |   0.333333 |
 | Cardiff Blues      |         3 |   1        |
 | Racing 92          |         3 |   0.666667 |

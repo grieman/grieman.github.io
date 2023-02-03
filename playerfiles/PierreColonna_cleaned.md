@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pierre Colonna  
-date: 2023-01-06 00:09:30.359928  
+date: 2023-02-02 18:50:06.176003  
 categories: player  
 ---
 # Pierre Colonna
 
 ## Positions: 
 
-## Current elo: 101.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 

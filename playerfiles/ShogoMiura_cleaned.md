@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shogo Miura  
-date: 2023-01-13 11:33:09.123145  
+date: 2023-02-02 18:54:27.025241  
 categories: player  
 ---
 # Shogo Miura

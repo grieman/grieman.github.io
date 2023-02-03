@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alexandre Duny  
-date: 2023-01-23 15:31:39.555163  
+date: 2023-02-02 18:42:55.369345  
 categories: player  
 ---
 # Alexandre Duny
 
 ## Positions: P
 
-## Current elo: 69.0
+## Current elo: 75.0
 
 ## Current Percentile: 4.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Tarbes      |            32 |   0.4375   |
+| Tarbes      |            33 |   0.454545 |
 | Carcassonne |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,13 +35,14 @@ categories: player
 | Blagnac                    |         3 |   0.166667 |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Dax                        |         2 |   0.5      |
+| Massy                      |         2 |   0        |
 | Aubenas                    |         2 |   0.5      |
 | Rouen                      |         2 |   1        |
-| Massy                      |         2 |   0        |
 | Dijon                      |         1 |   0.5      |
-| Mont-de-Marsan             |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
 | Perpignan                  |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Beziers                    |         1 |   0        |
 | Suresnes                   |         1 |   0        |
 | US Bressane                |         1 |   0        |
+| Mont-de-Marsan             |         1 |   0        |

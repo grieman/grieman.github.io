@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Keitaro Hitora  
-date: 2023-01-13 11:24:58.888030  
+date: 2023-02-02 19:12:41.584046  
 categories: player  
 ---
 # Keitaro Hitora
 
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 95.0
 
 ## Current Percentile: 71.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |            13 |   0.615385 |
+| Hanazono Kintetsu Liners |            16 |        0.5 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -33,3 +33,6 @@ categories: player
 | Green Rockets Tokatsu             |         1 |          0 |
 | Kobelco Kobe Steelers             |         1 |          0 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
+| Tokyo Sungoliath                  |         1 |          0 |
+| Toshiba Brave Lupus Tokyo         |         1 |          0 |
+| Yokohama Canon Eagles             |         1 |          0 |

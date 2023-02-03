@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Embrose Papier  
-date: 2023-01-06 00:12:21.027366  
+date: 2023-02-02 18:54:31.744181  
 categories: player  
 ---
 # Embrose Papier
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 112.0
+## Current elo: 107.0
 
-## Current Percentile: 78.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Bulls        |            57 |   0.5      |
+| Bulls        |            60 |   0.491667 |
 | Blue Bulls   |            13 |   0.692308 |
 | South Africa |            11 |   0.363636 |
 | Sale Sharks  |             7 |   0.428571 |
@@ -35,40 +35,42 @@ categories: player
 | Lions               |         6 |   0.666667 |
 | Jaguares            |         4 |   0.25     |
 | Glasgow Warriors    |         3 |   0.333333 |
-| Queensland Reds     |         3 |   0.333333 |
-| Pumas               |         3 |   1        |
-| Highlanders         |         3 |   0.5      |
 | Griquas             |         3 |   0.666667 |
-| Western Province    |         2 |   0.5      |
-| Wales               |         2 |   0        |
-| Ospreys             |         2 |   1        |
-| Munster             |         2 |   0.5      |
-| Australia           |         2 |   0.5      |
-| Golden Lions        |         2 |   1        |
-| Argentina           |         2 |   0.5      |
-| Cardiff Blues       |         2 |   1        |
-| England             |         2 |   0        |
-| Benetton Treviso    |         2 |   1        |
-| Edinburgh           |         2 |   0.5      |
+| Queensland Reds     |         3 |   0.333333 |
+| Highlanders         |         3 |   0.5      |
+| Pumas               |         3 |   1        |
 | Crusaders           |         2 |   0        |
-| Free State Cheetahs |         2 |   0.5      |
 | Connacht            |         2 |   0.5      |
+| Munster             |         2 |   0.5      |
+| Benetton Treviso    |         2 |   1        |
+| Western Province    |         2 |   0.5      |
+| Australia           |         2 |   0.5      |
+| Cardiff Blues       |         2 |   1        |
+| Dragons             |         2 |   1        |
 | Chiefs              |         2 |   0        |
-| Gloucester Rugby    |         1 |   0        |
-| Worcester Warriors  |         1 |   0        |
-| Wasps               |         1 |   1        |
-| Blues               |         1 |   0        |
+| Golden Lions        |         2 |   1        |
+| Ospreys             |         2 |   1        |
+| Free State Cheetahs |         2 |   0.5      |
+| Wales               |         2 |   0        |
+| England             |         2 |   0        |
+| Edinburgh           |         2 |   0.5      |
+| Argentina           |         2 |   0.5      |
 | Sunwolves           |         1 |   0        |
-| Bristol Rugby       |         1 |   0        |
-| Brumbies            |         1 |   0        |
+| Wasps               |         1 |   1        |
+| Worcester Warriors  |         1 |   0        |
 | Scotland            |         1 |   1        |
+| Scarlets            |         1 |   0        |
+| La Rochelle         |         1 |   1        |
 | New Zealand         |         1 |   0        |
 | Natal Sharks        |         1 |   0        |
 | Melbourne Rebels    |         1 |   1        |
+| Lyon                |         1 |   0        |
 | London Irish        |         1 |   1        |
-| Dragons             |         1 |   1        |
 | Leinster            |         1 |   1        |
-| La Rochelle         |         1 |   1        |
 | Hurricanes          |         1 |   1        |
+| Gloucester Rugby    |         1 |   0        |
 | France              |         1 |   1        |
+| Brumbies            |         1 |   0        |
+| Bristol Rugby       |         1 |   0        |
+| Blues               |         1 |   0        |
 | Zebre               |         1 |   1        |

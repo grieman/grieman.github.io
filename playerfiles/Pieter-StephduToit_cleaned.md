@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pieter-Steph du Toit  
-date: 2023-01-13 11:30:21.415969  
+date: 2023-02-02 19:11:44.504444  
 categories: player  
 ---
 # Pieter-Steph du Toit
@@ -26,7 +26,7 @@ categories: player
 | South Africa    |            67 |   0.559701 |
 | Stormers        |            54 |   0.555556 |
 | Sharks          |            27 |   0.592593 |
-| Toyota Verblitz |            13 |   0.461538 |
+| Toyota Verblitz |            16 |   0.4375   |
 | Natal Sharks    |             3 |   0.666667 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -40,39 +40,40 @@ categories: player
 | Lions                             |         7 |   0.571429 |
 | England                           |         6 |   0.5      |
 | France                            |         6 |   0.833333 |
-| Chiefs                            |         5 |   0        |
 | Sharks                            |         5 |   0.4      |
+| Chiefs                            |         5 |   0        |
 | Ireland                           |         5 |   0.4      |
+| Highlanders                       |         4 |   0.5      |
+| Jaguares                          |         4 |   0.75     |
 | Sunwolves                         |         4 |   0.625    |
 | Stormers                          |         4 |   0.5      |
-| Blues                             |         4 |   0.5      |
-| Jaguares                          |         4 |   0.75     |
-| Highlanders                       |         4 |   0.5      |
 | Crusaders                         |         4 |   0.375    |
-| Queensland Reds                   |         3 |   0.666667 |
-| Western Force                     |         3 |   1        |
+| Blues                             |         4 |   0.5      |
 | Melbourne Rebels                  |         3 |   1        |
+| Brumbies                          |         3 |   0.333333 |
+| Queensland Reds                   |         3 |   0.666667 |
+| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
+| Hurricanes                        |         3 |   0.666667 |
 | Japan                             |         3 |   0.666667 |
 | Italy                             |         3 |   0.666667 |
-| Hurricanes                        |         3 |   0.666667 |
-| Brumbies                          |         3 |   0.333333 |
+| Western Force                     |         3 |   1        |
+| British and Irish Lions           |         2 |   0.5      |
+| New South Wales Waratahs          |         2 |   0        |
+| Saitama Wild Knights              |         2 |   0        |
 | Scotland                          |         2 |   1        |
 | Black Rams Tokyo                  |         2 |   0.5      |
-| British and Irish Lions           |         2 |   0.5      |
-| Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
-| Southern Kings                    |         2 |   1        |
 | Shizuoka Blue Revs                |         2 |   1        |
-| New South Wales Waratahs          |         2 |   0        |
-| Saitama Wild Knights              |         1 |   0        |
-| Free State Cheetahs               |         1 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
-| Georgia                           |         1 |   1        |
-| Canada                            |         1 |   1        |
-| Green Rockets Tokatsu             |         1 |   1        |
+| Southern Kings                    |         2 |   1        |
+| Western Province                  |         1 |   0        |
+| Urayasu D-Rocks                   |         1 |   1        |
 | Tokyo Sungoliath                  |         1 |   0        |
 | United States of America          |         1 |   1        |
-| Urayasu D-Rocks                   |         1 |   1        |
+| Kobelco Kobe Steelers             |         1 |   1        |
 | Mitsubishi Dynaboars              |         1 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | Griquas                           |         1 |   1        |
-| Western Province                  |         1 |   0        |
+| Green Rockets Tokatsu             |         1 |   1        |
+| Georgia                           |         1 |   1        |
+| Free State Cheetahs               |         1 |   1        |
+| Canada                            |         1 |   1        |
 | Yokohama Canon Eagles             |         1 |   0        |

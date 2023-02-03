@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Evan Olmstead  
-date: 2023-01-13 11:33:50.969116  
+date: 2023-02-02 18:59:26.421600  
 categories: player  
 ---
 # Evan Olmstead
@@ -26,7 +26,7 @@ categories: player
 | Biarritz Olympique |            47 |   0.478723 |
 | Newcastle Falcons  |            33 |   0.454545 |
 | Canada             |            27 |   0.240741 |
-| Agen               |            16 |   0.5      |
+| Agen               |            17 |   0.529412 |
 | Auckland           |            12 |   0.916667 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -60,19 +60,20 @@ categories: player
 | Lyon                     |         2 |   0        |
 | Worcester Warriors       |         2 |   0        |
 | Colomiers                |         2 |   0        |
-| Harlequins               |         2 |   0.5      |
 | Beziers                  |         2 |   0.5      |
-| Fiji                     |         2 |   0        |
+| Biarritz Olympique       |         2 |   1        |
 | Italy                    |         2 |   0        |
+| Fiji                     |         2 |   0        |
 | Bristol Rugby            |         2 |   0.5      |
 | Brive                    |         2 |   0.5      |
 | Castres Olympique        |         2 |   0        |
-| Georgia                  |         2 |   0.5      |
 | Canterbury               |         2 |   1        |
+| Georgia                  |         2 |   0.5      |
+| Harlequins               |         2 |   0.5      |
+| Spain                    |         1 |   1        |
 | Scotland                 |         1 |   0        |
 | South Africa             |         1 |   0        |
 | Southland                |         1 |   1        |
-| Spain                    |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Stade Francais Paris     |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
@@ -80,7 +81,6 @@ categories: player
 | Uruguay                  |         1 |   0        |
 | Bordeaux Begles          |         1 |   1        |
 | Waikato                  |         1 |   1        |
-| Biarritz Olympique       |         1 |   1        |
 | Taranaki                 |         1 |   1        |
 | Counties Manukau         |         1 |   1        |
 | Samoa                    |         1 |   0        |

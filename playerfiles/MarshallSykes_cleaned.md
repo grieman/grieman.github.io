@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marshall Sykes  
-date: 2023-01-06 00:21:12.636831  
+date: 2023-02-02 18:45:45.168078  
 categories: player  
 ---
 # Marshall Sykes
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 105.0
+## Current elo: 88.0
 
-## Current Percentile: 60.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -23,26 +23,27 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            28 |   0.482143 |
-| Scotland  |             1 |   1        |
+| Edinburgh |            31 |        0.5 |
+| Scotland  |             1 |        1   |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Glasgow Warriors  |         4 |   0.25     |
 | Dragons           |         3 |   0.666667 |
 | Benetton Treviso  |         2 |   0.5      |
-| Bulls             |         2 |   0.5      |
-| Cardiff Blues     |         2 |   1        |
 | Stormers          |         2 |   0.25     |
 | Saracens          |         2 |   0.5      |
 | Munster           |         2 |   0        |
-| Pau               |         1 |   1        |
-| Tonga             |         1 |   1        |
-| Scarlets          |         1 |   1        |
-| London Irish      |         1 |   0        |
-| Ospreys           |         1 |   0        |
-| Brive             |         1 |   1        |
-| Lions             |         1 |   0        |
+| Zebre             |         2 |   1        |
+| Castres Olympique |         2 |   1        |
+| Cardiff Blues     |         2 |   1        |
+| Bulls             |         2 |   0.5      |
 | Leinster          |         1 |   0        |
-| Castres Olympique |         1 |   1        |
-| Zebre             |         1 |   1        |
+| Lions             |         1 |   0        |
+| Brive             |         1 |   1        |
+| Ospreys           |         1 |   0        |
+| Pau               |         1 |   1        |
+| Scarlets          |         1 |   1        |
+| Sharks            |         1 |   0        |
+| Tonga             |         1 |   1        |
+| London Irish      |         1 |   0        |

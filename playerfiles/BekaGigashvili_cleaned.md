@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beka Gigashvili  
-date: 2023-01-06 00:17:33.350273  
+date: 2023-02-02 18:50:23.613573  
 categories: player  
 ---
 # Beka Gigashvili
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 117.0
+## Current elo: 106.0
 
-## Current Percentile: 92.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -23,54 +23,55 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Toulon   |            62 |   0.604839 |
+| Toulon   |            66 |   0.613636 |
 | Grenoble |            28 |   0.482143 |
 | Georgia  |            27 |   0.740741 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Lyon                 |         7 |   0.571429 |
 | Stade Toulousain     |         7 |   0.357143 |
-| Castres Olympique    |         6 |   0.333333 |
+| Lyon                 |         7 |   0.571429 |
 | Bayonne              |         6 |   0.666667 |
+| Castres Olympique    |         6 |   0.333333 |
 | Stade Francais Paris |         5 |   0.6      |
+| Pau                  |         5 |   0.9      |
 | Bordeaux Begles      |         5 |   0.6      |
+| Brive                |         5 |   0.6      |
 | Clermont Auvergne    |         5 |   0.7      |
-| Pau                  |         4 |   0.875    |
 | Perpignan            |         4 |   0.25     |
-| Racing 92            |         4 |   0.25     |
-| Brive                |         4 |   0.75     |
-| Romania              |         4 |   1        |
-| Spain                |         4 |   1        |
 | Montpellier Herault  |         4 |   0.375    |
-| La Rochelle          |         3 |   0        |
-| Russia               |         3 |   1        |
-| Portugal             |         3 |   0.833333 |
+| Spain                |         4 |   1        |
+| Romania              |         4 |   1        |
+| Racing 92            |         4 |   0.25     |
 | Scarlets             |         3 |   1        |
-| Agen                 |         3 |   0.5      |
+| La Rochelle          |         3 |   0        |
+| Portugal             |         3 |   0.833333 |
+| Russia               |         3 |   1        |
 | Biarritz Olympique   |         3 |   1        |
+| Agen                 |         3 |   0.5      |
+| Scotland             |         2 |   0        |
 | London Irish         |         2 |   1        |
 | Montauban            |         2 |   0.5      |
 | Harlequins           |         2 |   0.5      |
+| Bath Rugby           |         2 |   1        |
 | Fiji                 |         2 |   0.25     |
-| Scotland             |         2 |   0        |
-| Italy                |         1 |   1        |
-| Samoa                |         1 |   1        |
-| Vannes               |         1 |   1        |
 | Uruguay              |         1 |   1        |
-| Toulon               |         1 |   0        |
 | Tonga                |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
-| Belgium              |         1 |   1        |
-| Beziers              |         1 |   1        |
-| Carcassonne          |         1 |   1        |
-| Bristol Rugby        |         1 |   0        |
-| Leicester Tigers     |         1 |   1        |
-| Dax                  |         1 |   1        |
-| France               |         1 |   0        |
-| Germany              |         1 |   1        |
+| Vannes               |         1 |   1        |
+| Samoa                |         1 |   1        |
+| Wales                |         1 |   0        |
+| Toulon               |         1 |   0        |
+| Mont-de-Marsan       |         1 |   1        |
 | Nevers               |         1 |   0        |
 | Narbonne             |         1 |   0.5      |
-| Mont-de-Marsan       |         1 |   1        |
 | Australia            |         1 |   0        |
-| Wales                |         1 |   0        |
+| Leicester Tigers     |         1 |   1        |
+| Italy                |         1 |   1        |
+| Germany              |         1 |   1        |
+| France               |         1 |   0        |
+| Dax                  |         1 |   1        |
+| Carcassonne          |         1 |   1        |
+| Bristol Rugby        |         1 |   0        |
+| Beziers              |         1 |   1        |
+| Belgium              |         1 |   1        |
+| Zebre                |         1 |   1        |

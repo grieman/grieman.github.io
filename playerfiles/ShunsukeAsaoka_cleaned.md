@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shunsuke Asaoka  
-date: 2023-01-13 11:28:41.926412  
+date: 2023-02-02 19:01:32.027651  
 categories: player  
 ---
 # Shunsuke Asaoka
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 56.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,18 +23,19 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            20 |       0.55 |
-| Japan           |             1 |       1    |
+| Toyota Verblitz |            23 |   0.521739 |
+| Japan           |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Black Rams Tokyo                  |         3 |   0.666667 |
+| Saitama Wild Knights              |         3 |   0        |
 | Shizuoka Blue Revs                |         3 |   0.666667 |
+| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
-| Saitama Wild Knights              |         2 |   0        |
-| Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
 | Green Rockets Tokatsu             |         1 |   1        |
 | Hino Red Dolphins                 |         1 |   1        |
+| Kobelco Kobe Steelers             |         1 |   1        |
 | Mie Honda Heat                    |         1 |   1        |
 | Mitsubishi Dynaboars              |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |

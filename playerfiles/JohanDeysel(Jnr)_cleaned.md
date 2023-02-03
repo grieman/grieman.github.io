@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Johan Deysel (Jnr)  
-date: 2023-01-13 11:24:16.585868  
+date: 2023-02-02 18:39:08.785775  
 categories: player  
 ---
 # Johan Deysel (Jnr)
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Colomiers    |            65 |   0.592308 |
+| Colomiers    |            67 |   0.604478 |
 | Namibia      |            16 |   0.5625   |
 | Leopards     |             8 |   0.875    |
 | Sharks       |             4 |   1        |
@@ -33,20 +33,20 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Nevers                     |         7 |   0.571429 |
 | Aurillac                   |         6 |   0.666667 |
-| Carcassonne                |         5 |   0.8      |
 | Beziers                    |         5 |   0.6      |
+| Carcassonne                |         5 |   0.8      |
 | Mont-de-Marsan             |         4 |   0.5      |
-| Vannes                     |         4 |   0        |
-| US Bressane                |         4 |   0.5      |
 | Oyonnax                    |         4 |   0.625    |
+| Vannes                     |         4 |   0        |
+| Biarritz Olympique         |         4 |   0.5      |
+| US Bressane                |         4 |   0.5      |
+| Soyaux-Angouleme           |         4 |   0.75     |
 | Montauban                  |         3 |   1        |
-| Rouen                      |         3 |   0.666667 |
 | Agen                       |         3 |   0.666667 |
-| Soyaux-Angouleme           |         3 |   0.666667 |
-| Biarritz Olympique         |         3 |   0.333333 |
-| Massy                      |         2 |   0.5      |
+| Rouen                      |         3 |   0.666667 |
 | Provence Rugby             |         2 |   1        |
 | New Zealand                |         2 |   0        |
+| Massy                      |         2 |   0.5      |
 | Valke                      |         2 |   1        |
 | SWD Eagles                 |         2 |   1        |
 | Zimbabwe                   |         2 |   1        |

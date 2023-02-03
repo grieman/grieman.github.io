@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Julien Kazubek  
-date: 2023-01-17 11:36:29.786024  
+date: 2023-02-02 18:43:40.097725  
 categories: player  
 ---
 # Julien Kazubek
 
 ## Positions: FL
 
-## Current elo: 94.0
+## Current elo: 96.0
 
 ## Current Percentile: 47.0
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Nevers            |            84 |   0.511905 |
+| Nevers            |            85 |   0.517647 |
 | Clermont Auvergne |             5 |   0.2      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Vannes               |         8 |   0.5      |
 | Colomiers            |         8 |   0.5      |
-| Vannes               |         7 |   0.428571 |
 | Aurillac             |         7 |   0.571429 |
 | Oyonnax              |         6 |   0.333333 |
 | Biarritz Olympique   |         6 |   0.75     |

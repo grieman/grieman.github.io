@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Koga Nezuka  
-date: 2023-01-13 11:26:38.206847  
+date: 2023-02-02 19:00:32.254112  
 categories: player  
 ---
 # Koga Nezuka
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,16 +23,17 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |            13 |   0.730769 |
-| Japan                             |             1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |            16 |    0.78125 |
+| Japan                             |             1 |    1       |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| Green Rockets Tokatsu           |         2 |       1    |
+| Kobelco Kobe Steelers           |         2 |       1    |
 | Tokyo Sungoliath                |         2 |       0.5  |
 | Yokohama Canon Eagles           |         2 |       0.25 |
-| Green Rockets Tokatsu           |         1 |       1    |
+| Black Rams Tokyo                |         1 |       1    |
 | Hanazono Kintetsu Liners        |         1 |       1    |
-| Kobelco Kobe Steelers           |         1 |       1    |
 | NTT Docomo Red Hurricanes Osaka |         1 |       1    |
 | Saitama Wild Knights            |         1 |       0    |
 | Shizuoka Blue Revs              |         1 |       1    |

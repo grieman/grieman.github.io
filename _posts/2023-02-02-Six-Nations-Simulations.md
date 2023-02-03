@@ -5,7 +5,7 @@ categories: projection
 ---
 
 # Method
-As I covered in the last post, I can now generate expected performances for any given team. I figured I could test out what I can do by trying to simulate an entire competition, and the Six Nations came around at the perfect time. I simulated each match in the competition and updated team rankings using the simulated result before simulating the next week's matches, arriving at a simulated tournament result. I did this 10,000 times, giving us a large number of potential tournament outcomes to work with. Unfortunately, I don't currently predict if a team scores at least four tries - just the win, loss, and a loss within 7 points. So for now, any tournament point projections may be a bit off and I'll try to keep that front of mind. Here's how some of the simulations break down.
+Now that I can generate expected performances for any given team, I figured I could test out what I can do by trying to simulate an entire competition, and the Six Nations came around at the perfect time. I simulated each match in the competition and updated team rankings using the simulated result before simulating the next week's matches, arriving at a simulated tournament result. I did this 10,000 times, giving us a large number of potential tournament outcomes to work with. Unfortunately, I don't currently predict if a team scores at least four tries - just the win, loss, and a loss within 7 points. So for now, any tournament point projections may be a bit off and I'll try to keep that front of mind. Here's how some of the simulations break down.
 
 # Overall Projections
 Averaging the results for each of my 10,000 tournaments, here's my projected table

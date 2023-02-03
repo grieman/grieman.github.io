@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stéphane Munoz  
-date: 2023-01-15 11:48:46.341141  
+date: 2023-02-02 18:58:15.714046  
 categories: player  
 ---
 # Stéphane Munoz
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Montauban |           163 |    0.52454 |
+| Montauban |           164 |   0.521341 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -44,10 +44,10 @@ categories: player
 | Albi                       |         4 |   1        |
 | US Bressane                |         4 |   0.625    |
 | Agen                       |         3 |   0        |
+| Massy                      |         3 |   0.666667 |
 | Lyon                       |         2 |   0        |
 | Brive                      |         2 |   0.5      |
 | Roval Drome XV             |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Bayonne                    |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
-| Massy                      |         2 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Blain  
-date: 2023-01-13 11:26:19.796331  
+date: 2023-02-02 18:47:30.629023  
 categories: player  
 ---
 # Jack Blain
 
 ## Positions: W, FB
 
-## Current elo: 98.0
+## Current elo: 103.0
 
-## Current Percentile: 78.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,17 +21,19 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            17 |   0.529412 |
+| Edinburgh |            20 |       0.55 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Cardiff Blues    |         3 |   0.666667 |
-| Zebre            |         3 |   1        |
-| Benetton Treviso |         2 |   0        |
-| Connacht         |         2 |   0.5      |
-| Scarlets         |         2 |   1        |
-| Dragons          |         1 |   0        |
-| Leinster         |         1 |   0        |
-| Munster          |         1 |   0        |
-| Saracens         |         1 |   1        |
-| Ulster           |         1 |   0        |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Cardiff Blues     |         3 |   0.666667 |
+| Zebre             |         3 |   1        |
+| Benetton Treviso  |         2 |   0        |
+| Connacht          |         2 |   0.5      |
+| Saracens          |         2 |   1        |
+| Scarlets          |         2 |   1        |
+| Castres Olympique |         1 |   1        |
+| Dragons           |         1 |   0        |
+| Leinster          |         1 |   0        |
+| Munster           |         1 |   0        |
+| Sharks            |         1 |   0        |
+| Ulster            |         1 |   0        |

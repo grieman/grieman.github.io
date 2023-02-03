@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tristan Labouteley  
-date: 2023-01-06 00:09:47.145258  
+date: 2023-02-02 19:10:26.823393  
 categories: player  
 ---
 # Tristan Labouteley
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 9.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,21 +21,21 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Perpignan       |           127 |   0.523622 |
+| Perpignan       |           129 |   0.523256 |
 | Bordeaux Begles |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Biarritz Olympique         |         8 |   0.75     |
+| Stade Francais Paris       |         6 |   0.166667 |
+| Clermont Auvergne          |         6 |   0        |
 | Bordeaux Begles            |         6 |   0.416667 |
 | Aurillac                   |         6 |   0.75     |
 | Grenoble                   |         6 |   0.833333 |
-| Vannes                     |         5 |   1        |
-| Clermont Auvergne          |         5 |   0        |
 | Pau                        |         5 |   0        |
 | Montauban                  |         5 |   0.8      |
 | Mont-de-Marsan             |         5 |   0.6      |
-| Stade Francais Paris       |         5 |   0        |
+| Vannes                     |         5 |   1        |
 | Carcassonne                |         5 |   0.8      |
 | Toulon                     |         5 |   0.4      |
 | Racing 92                  |         4 |   0.25     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Deegan  
-date: 2023-01-30 11:44:24.412488  
+date: 2023-02-02 18:56:11.259176  
 categories: player  
 ---
 # Max Deegan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 

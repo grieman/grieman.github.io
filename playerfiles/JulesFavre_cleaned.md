@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jules Favre  
-date: 2023-01-06 00:10:07.496650  
+date: 2023-02-02 18:54:35.287958  
 categories: player  
 ---
 # Jules Favre
 
 ## Positions: W, C
 
-## Current elo: 124.0
+## Current elo: 125.0
 
-## Current Percentile: 91.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            83 |   0.650602 |
+| La Rochelle |            87 |   0.655172 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Stade Toulousain     |         8 |   0.125    |
+| Stade Toulousain     |         9 |   0.222222 |
 | Montpellier Herault  |         8 |   0.375    |
 | Clermont Auvergne    |         7 |   0.428571 |
-| Lyon                 |         6 |   0.833333 |
+| Racing 92            |         7 |   0.571429 |
 | Pau                  |         6 |   1        |
 | Toulon               |         6 |   0.833333 |
-| Racing 92            |         6 |   0.666667 |
 | Perpignan            |         6 |   0.833333 |
+| Lyon                 |         6 |   0.833333 |
 | Bordeaux Begles      |         4 |   0.75     |
 | Stade Francais Paris |         4 |   0.75     |
 | Castres Olympique    |         4 |   0.25     |
@@ -40,9 +40,11 @@ categories: player
 | Agen                 |         3 |   1        |
 | Brive                |         3 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
+| Northampton Saints   |         1 |   1        |
 | Grenoble             |         1 |   1        |
 | RC Enisei            |         1 |   1        |
 | Glasgow Warriors     |         1 |   1        |
 | Sale Sharks          |         1 |   1        |
 | Bristol Rugby        |         1 |   1        |
+| Ulster               |         1 |   1        |
 | Zebre                |         1 |   1        |

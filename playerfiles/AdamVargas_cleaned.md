@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Vargas  
-date: 2023-01-15 11:45:05.436280  
+date: 2023-02-02 19:04:26.277656  
 categories: player  
 ---
 # Adam Vargas
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 52.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            25 |       0.54 |
+| Valence Romans Drome Rugby |            27 |   0.574074 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Tarbes              |         3 |   0.666667 |
 | Albi                |         2 |   0        |
 | Bourgoin-Jallieu    |         2 |   0.25     |
+| Carqueiranne-Hyères |         2 |   1        |
 | Dax                 |         2 |   0.5      |
 | Dijon               |         2 |   0.5      |
 | Massy               |         2 |   0        |
+| Rennes              |         2 |   1        |
 | Aubenas             |         1 |   1        |
 | Blagnac             |         1 |   0        |
-| Carqueiranne-Hyères |         1 |   1        |
-| Rennes              |         1 |   1        |
 | Suresnes            |         1 |   1        |
 | US Bressane         |         1 |   0        |

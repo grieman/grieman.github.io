@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pedro Ortega  
-date: 2023-01-30 11:43:29.244582  
+date: 2023-02-02 18:56:18.127217  
 categories: player  
 ---
 # Pedro Ortega
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 

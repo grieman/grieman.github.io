@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor Danielli  
-date: 2023-01-30 11:46:27.196081  
+date: 2023-02-02 18:39:23.778023  
 categories: player  
 ---
 # Victor Danielli

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Gau  
-date: 2023-01-17 11:35:52.646254  
+date: 2023-02-02 18:47:48.876539  
 categories: player  
 ---
 # Maxime Gau
 
 ## Positions: H, P
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 16.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Albi                       |            77 |   0.422078 |
-| Cognac Saint Jean d'Angély |            44 |   0.284091 |
+| Cognac Saint Jean d'Angély |            46 |   0.271739 |
 | La Rochelle                |            33 |   0.484848 |
 | Stade Francais Paris       |            10 |   0.3      |
 | Massy                      |             5 |   0        |
@@ -43,15 +43,15 @@ categories: player
 | Beziers                    |         5 |   0.4      |
 | Blagnac                    |         5 |   0.4      |
 | Carcassonne                |         4 |   0.25     |
-| La Rochelle                |         4 |   0.5      |
+| US Bressane                |         4 |   0.25     |
 | Nice                       |         4 |   0.25     |
 | Suresnes                   |         4 |   0.25     |
 | Albi                       |         4 |   0.25     |
 | Bordeaux Begles            |         4 |   0.5      |
+| La Rochelle                |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.5      |
 | Grenoble                   |         4 |   0.75     |
 | Brive                      |         4 |   0        |
-| US Bressane                |         3 |   0.333333 |
 | Gloucester Rugby           |         3 |   0        |
 | Dijon                      |         3 |   1        |
 | Colomiers                  |         3 |   0.833333 |
@@ -65,6 +65,7 @@ categories: player
 | Toulon                     |         2 |   0.5      |
 | Zebre                      |         2 |   0.5      |
 | Auch                       |         2 |   0.25     |
+| Chambery                   |         2 |   0.5      |
 | Périgueux                  |         1 |   1        |
 | Rennes                     |         1 |   0        |
 | Stade Francais Paris       |         1 |   1        |
@@ -73,7 +74,6 @@ categories: player
 | Montauban                  |         1 |   0        |
 | London Irish               |         1 |   0        |
 | Krasny Yar                 |         1 |   0        |
-| Chambery                   |         1 |   1        |
 | Vannes                     |         1 |   0        |
 | Castres Olympique          |         1 |   1        |
 | Nevers                     |         1 |   0        |

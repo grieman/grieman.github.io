@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Enzo Forletta  
-date: 2023-01-13 11:37:03.295677  
+date: 2023-02-02 18:53:40.216942  
 categories: player  
 ---
 # Enzo Forletta
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 100.0
+## Current elo: 98.0
 
 ## Current Percentile: 62.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Perpignan           |           139 |   0.52518  |
-| Montpellier Herault |            55 |   0.572727 |
+| Montpellier Herault |            58 |   0.551724 |
 | France              |             2 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -38,13 +38,13 @@ categories: player
 | Beziers              |         8 |   0.625    |
 | Agen                 |         7 |   0.571429 |
 | Lyon                 |         7 |   0.142857 |
+| Stade Toulousain     |         7 |   0.142857 |
 | La Rochelle          |         7 |   0.428571 |
 | Grenoble             |         6 |   0.666667 |
 | Dax                  |         6 |   0.333333 |
 | Castres Olympique    |         6 |   0.166667 |
 | Narbonne             |         6 |   0.833333 |
 | Stade Francais Paris |         6 |   0.666667 |
-| Stade Toulousain     |         6 |   0.166667 |
 | Bordeaux Begles      |         6 |   0.25     |
 | Bayonne              |         6 |   0.833333 |
 | Montauban            |         6 |   0.5      |
@@ -60,11 +60,11 @@ categories: player
 | Perpignan            |         3 |   1        |
 | Massy                |         3 |   0.666667 |
 | Nevers               |         2 |   0.5      |
+| Ospreys              |         2 |   0        |
+| London Irish         |         2 |   0.75     |
 | Rouen                |         2 |   0.5      |
 | Australia            |         2 |   0.5      |
 | Montpellier Herault  |         1 |   0        |
-| Ospreys              |         1 |   0        |
 | Provence Rugby       |         1 |   0        |
-| London Irish         |         1 |   1        |
 | Roval Drome XV       |         1 |   1        |
 | Tarbes               |         1 |   1        |

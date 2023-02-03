@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Goode  
-date: 2023-01-06 00:16:49.117184  
+date: 2023-02-02 18:52:09.523497  
 categories: player  
 ---
 # Alex Goode
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 120.0
+## Current elo: 109.0
 
-## Current Percentile: 85.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Saracens              |           335 |   0.726866 |
+| Saracens              |           339 |   0.727139 |
 | England               |            25 |   0.66     |
 | Green Rockets Tokatsu |             4 |   0        |
 
@@ -32,34 +32,34 @@ categories: player
 | Northampton Saints    |        32 |   0.65625  |
 | Sale Sharks           |        26 |   0.884615 |
 | Exeter Chiefs         |        25 |   0.62     |
-| Leicester Tigers      |        24 |   0.583333 |
 | Wasps                 |        24 |   0.708333 |
 | Harlequins            |        24 |   0.791667 |
+| Leicester Tigers      |        24 |   0.583333 |
 | Bath Rugby            |        23 |   0.73913  |
-| Gloucester Rugby      |        20 |   0.575    |
+| Gloucester Rugby      |        21 |   0.595238 |
 | London Irish          |        18 |   0.694444 |
 | Newcastle Falcons     |        17 |   0.941176 |
 | Worcester Warriors    |        14 |   0.892857 |
+| Bristol Rugby         |         9 |   0.777778 |
 | Clermont Auvergne     |         9 |   0.333333 |
-| Bristol Rugby         |         8 |   0.75     |
 | Munster               |         6 |   0.666667 |
 | Toulon                |         5 |   0.4      |
-| Ospreys               |         4 |   0.875    |
-| Leeds                 |         4 |   0.75     |
 | Racing 92             |         4 |   0.75     |
+| Leeds                 |         4 |   0.75     |
+| Ospreys               |         4 |   0.875    |
+| Lyon                  |         4 |   1        |
 | Ireland               |         4 |   0.75     |
 | Leinster              |         4 |   0.5      |
 | Glasgow Warriors      |         4 |   1        |
+| Edinburgh             |         4 |   0.5      |
 | Stade Toulousain      |         4 |   0.5      |
 | Yorkshire Carnegie    |         4 |   0.75     |
 | Scarlets              |         3 |   0.666667 |
 | France                |         3 |   0.666667 |
-| Edinburgh             |         3 |   0.666667 |
 | South Africa          |         3 |   0.166667 |
 | Cardiff Blues         |         3 |   1        |
 | Ulster                |         3 |   1        |
 | Wales                 |         3 |   0.333333 |
-| Lyon                  |         3 |   1        |
 | Scotland              |         3 |   1        |
 | Oyonnax               |         2 |   1        |
 | Zebre                 |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Carl Wegner  
-date: 2023-01-30 11:45:02.953946  
+date: 2023-02-02 18:55:11.595381  
 categories: player  
 ---
 # Carl Wegner
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 24.0
+## Current Percentile: 23.0
 
 # Elo History
 

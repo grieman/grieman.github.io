@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Api Ratuniyarawa  
-date: 2023-01-06 00:09:21.838627  
+date: 2023-02-02 19:03:22.068915  
 categories: player  
 ---
 # Api Ratuniyarawa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 106.0
+## Current elo: 75.0
 
-## Current Percentile: 51.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -26,21 +26,21 @@ categories: player
 | Northampton Saints |           123 |   0.447154 |
 | Agen               |            67 |   0.514925 |
 | Fiji               |            27 |   0.388889 |
-| London Irish       |            12 |   0.333333 |
+| London Irish       |            15 |   0.4      |
 | North Harbour      |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Harlequins           |        13 |   0.615385 |
 | Gloucester Rugby     |        13 |   0.461538 |
-| Harlequins           |        12 |   0.583333 |
 | Bath Rugby           |        12 |   0.333333 |
 | Sale Sharks          |        12 |   0.416667 |
 | Leicester Tigers     |        11 |   0.363636 |
 | Wasps                |        10 |   0.4      |
 | Exeter Chiefs        |        10 |   0.3      |
 | Newcastle Falcons    |        10 |   0.5      |
+| Bristol Rugby        |         8 |   0.5      |
 | Saracens             |         8 |   0.125    |
-| Bristol Rugby        |         7 |   0.428571 |
 | Worcester Warriors   |         7 |   1        |
 | Pau                  |         5 |   0.4      |
 | Clermont Auvergne    |         5 |   0.2      |
@@ -67,6 +67,7 @@ categories: player
 | Uruguay              |         2 |   0.5      |
 | Toulon               |         2 |   0        |
 | Benetton Treviso     |         2 |   1        |
+| Stormers             |         2 |   0        |
 | Bordeaux Begles      |         2 |   0        |
 | Bourgoin-Jallieu     |         2 |   0.5      |
 | Perpignan            |         2 |   0        |
@@ -74,7 +75,7 @@ categories: player
 | Castres Olympique    |         2 |   0        |
 | Auch                 |         2 |   0.5      |
 | Massy                |         2 |   1        |
-| Canada               |         1 |   1        |
+| Brive                |         1 |   1        |
 | Stade Francais Paris |         1 |   1        |
 | Australia            |         1 |   0        |
 | Vannes               |         1 |   0.5      |
@@ -82,18 +83,17 @@ categories: player
 | US Bressane          |         1 |   1        |
 | Dragons              |         1 |   1        |
 | Tonga                |         1 |   1        |
-| Stormers             |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |
-| Southland            |         1 |   0        |
 | Spain                |         1 |   1        |
-| Brive                |         1 |   1        |
+| Northampton Saints   |         1 |   0        |
+| Southland            |         1 |   0        |
 | Scotland             |         1 |   0        |
-| Samoa                |         1 |   0        |
 | Mont-de-Marsan       |         1 |   1        |
+| Samoa                |         1 |   0        |
+| Montauban            |         1 |   1        |
 | Portugal             |         1 |   1        |
 | Japan                |         1 |   1        |
-| Montauban            |         1 |   1        |
+| Canada               |         1 |   1        |
 | Otago                |         1 |   0        |
 | Ospreys              |         1 |   0        |
-| Northampton Saints   |         1 |   0        |
 | Manawatu             |         1 |   0        |

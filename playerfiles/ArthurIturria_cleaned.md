@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Arthur Iturria  
-date: 2023-01-30 11:45:00.581737  
+date: 2023-02-02 18:59:37.571432  
 categories: player  
 ---
 # Arthur Iturria
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 70.0
+## Current Percentile: 71.0
 
 # Elo History
 

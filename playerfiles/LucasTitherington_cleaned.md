@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lucas Titherington  
-date: 2023-02-02 15:49:57.040343  
+date: 2023-02-02 18:54:38.818225  
 categories: player  
 ---
 # Lucas Titherington

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James Fender  
-date: 2023-01-13 11:35:40.405309  
+date: 2023-02-02 19:04:46.547003  
 categories: player  
 ---
 # James Fender
 
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 91.0
 
-## Current Percentile: 65.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,16 +21,17 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |             7 |   0.714286 |
-| Ospreys         |             1 |   0        |
+| Cornish Pirates |             9 |   0.666667 |
+| Ospreys         |             2 |   0.5      |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
+| Bedford         |         2 |          0 |
+| Nottingham      |         2 |          1 |
 | Ampthill        |         1 |          1 |
-| Bedford         |         1 |          0 |
 | Bulls           |         1 |          0 |
 | Doncaster       |         1 |          1 |
 | Jersey          |         1 |          0 |
 | London Scottish |         1 |          1 |
-| Nottingham      |         1 |          1 |
 | Richmond        |         1 |          1 |
+| Zebre           |         1 |          1 |

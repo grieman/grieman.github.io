@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Atonio Ulutuipalelei  
-date: 2023-01-17 11:38:16.557195  
+date: 2023-02-02 19:11:12.360467  
 categories: player  
 ---
 # Atonio Ulutuipalelei
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 40.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,12 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            13 |   0.153846 |
+| Rennes |            15 |   0.133333 |
 | Vannes |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         2 |          0 |
+| Tarbes                     |         2 |          0 |
+| Valence Romans Drome Rugby |         2 |          0 |
 | Blagnac                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
@@ -38,6 +40,4 @@ categories: player
 | Oyonnax                    |         1 |          0 |
 | Perpignan                  |         1 |          0 |
 | Suresnes                   |         1 |          0 |
-| Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |

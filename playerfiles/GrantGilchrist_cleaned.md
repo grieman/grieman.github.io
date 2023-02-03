@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Grant Gilchrist  
-date: 2023-01-06 00:11:14.048426  
+date: 2023-02-02 18:52:17.822072  
 categories: player  
 ---
 # Grant Gilchrist
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 128.0
+## Current elo: 130.0
 
-## Current Percentile: 95.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           182 |   0.472527 |
+| Edinburgh |           184 |   0.478261 |
 | Scotland  |            60 |   0.575    |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,8 +45,8 @@ categories: player
 | Zebre                    |         5 |   0.8      |
 | London Irish             |         5 |   0.8      |
 | Australia                |         5 |   0.4      |
+| Saracens                 |         5 |   0.4      |
 | Racing 92                |         4 |   0.5      |
-| Saracens                 |         4 |   0.25     |
 | Wales                    |         4 |   0        |
 | Japan                    |         3 |   0.666667 |
 | Stormers                 |         3 |   0.166667 |
@@ -65,19 +65,19 @@ categories: player
 | Gloucester Rugby         |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
 | Canada                   |         2 |   1        |
+| Castres Olympique        |         2 |   1        |
 | Fiji                     |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
 | Georgia                  |         2 |   1        |
 | Aironi                   |         2 |   0.5      |
 | Lions                    |         2 |   0        |
-| Krasny Yar               |         1 |   1        |
 | Harlequins               |         1 |   1        |
+| Krasny Yar               |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Russia                   |         1 |   1        |
 | Stade Toulousain         |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
-| Castres Olympique        |         1 |   1        |
 | Lyon                     |         1 |   1        |
 | Pau                      |         1 |   1        |
 | Brive                    |         1 |   1        |

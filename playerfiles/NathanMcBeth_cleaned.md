@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nathan McBeth  
-date: 2023-01-06 00:21:11.567543  
+date: 2023-02-02 18:39:57.983738  
 categories: player  
 ---
 # Nathan McBeth
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 90.0
 
 ## Current Percentile: None
 

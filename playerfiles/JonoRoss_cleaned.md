@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jono Ross  
-date: 2023-01-06 00:25:22.857136  
+date: 2023-02-02 18:50:44.200768  
 categories: player  
 ---
 # Jono Ross
 
 ## Positions: FL, N8
 
-## Current elo: 102.0
+## Current elo: 97.0
 
-## Current Percentile: 38.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Sale Sharks          |           125 |   0.568    |
+| Sale Sharks          |           129 |   0.565891 |
 | Stade Francais Paris |            65 |   0.530769 |
 | Blue Bulls           |            22 |   0.477273 |
 | Bulls                |            19 |   0.5      |
@@ -31,9 +31,9 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Leicester Tigers         |        15 |   0.6      |
 | Exeter Chiefs            |        13 |   0.230769 |
+| Harlequins               |        13 |   0.615385 |
 | Northampton Saints       |        12 |   0.833333 |
-| Harlequins               |        12 |   0.583333 |
-| Bath Rugby               |        11 |   0.545455 |
+| Bath Rugby               |        12 |   0.583333 |
 | Gloucester Rugby         |        11 |   0.727273 |
 | London Irish             |         9 |   0.888889 |
 | Wasps                    |         8 |   0.75     |
@@ -42,8 +42,8 @@ categories: player
 | La Rochelle              |         7 |   0.5      |
 | Newcastle Falcons        |         7 |   0.285714 |
 | Bristol Rugby            |         7 |   0.642857 |
+| Stade Toulousain         |         6 |   0.25     |
 | Western Province         |         5 |   0.1      |
-| Stade Toulousain         |         5 |   0.3      |
 | Grenoble                 |         5 |   0.4      |
 | Golden Lions             |         4 |   0.25     |
 | Racing 92                |         4 |   0.75     |
@@ -70,9 +70,9 @@ categories: player
 | Glasgow Warriors         |         2 |   0        |
 | Eastern Province Kings   |         2 |   1        |
 | Lions                    |         2 |   0.5      |
+| Ulster                   |         2 |   0.5      |
 | Timisoara Saracens       |         1 |   1        |
 | Western Force            |         1 |   0        |
-| Ulster                   |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Cardiff Blues            |         1 |   1        |
 | Benetton Treviso         |         1 |   1        |

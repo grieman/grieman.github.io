@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Hugo Pirlet  
-date: 2023-01-17 11:46:07.660199  
+date: 2023-02-02 18:45:10.093794  
 categories: player  
 ---
 # Hugo Pirlet
 
 ## Positions: P
 
-## Current elo: 78.0
+## Current elo: 81.0
 
 ## Current Percentile: 10.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            58 |   0.586207 |
-| Narbonne  |            16 |   0.34375  |
+| Colomiers |            59 |    0.59322 |
+| Narbonne  |            16 |    0.34375 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,10 +33,10 @@ categories: player
 | Grenoble           |         5 |   0.8      |
 | Mont-de-Marsan     |         5 |   0.6      |
 | Vannes             |         4 |   0.25     |
+| Soyaux-Angouleme   |         4 |   0.5      |
 | Provence Rugby     |         4 |   0.75     |
 | Oyonnax            |         4 |   0.5      |
 | Biarritz Olympique |         4 |   0.75     |
-| Soyaux-Angouleme   |         3 |   0.333333 |
 | Rouen              |         3 |   0.666667 |
 | Beziers            |         3 |   0.666667 |
 | Bayonne            |         3 |   0.333333 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Piazzoli  
-date: 2023-01-30 11:43:13.779439  
+date: 2023-02-02 18:44:03.773209  
 categories: player  
 ---
 # Guillaume Piazzoli

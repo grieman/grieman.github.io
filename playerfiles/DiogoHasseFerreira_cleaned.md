@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diogo Hasse Ferreira  
-date: 2023-01-23 15:34:41.518013  
+date: 2023-02-02 19:03:37.700174  
 categories: player  
 ---
 # Diogo Hasse Ferreira
@@ -23,13 +23,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dax      |            31 |   0.516129 |
+| Dax      |            32 |   0.53125  |
 | Portugal |            21 |   0.452381 |
 | Dijon    |            13 |   0.307692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         5 |   0.2      |
+| Bourgoin-Jallieu           |         6 |   0.333333 |
 | US Bressane                |         4 |   0.5      |
 | Chambery                   |         4 |   0.75     |
 | Nice                       |         4 |   0.5      |

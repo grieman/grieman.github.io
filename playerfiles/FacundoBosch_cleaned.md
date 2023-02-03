@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Facundo Bosch  
-date: 2023-01-06 00:20:42.004939  
+date: 2023-02-02 19:01:54.014944  
 categories: player  
 ---
 # Facundo Bosch
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 113.0
+## Current elo: 107.0
 
-## Current Percentile: 80.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | La Rochelle |            48 |   0.583333 |
 | Agen        |            45 |   0.388889 |
 | CUBA        |            41 |   0.780488 |
-| Bayonne     |            13 |   0.576923 |
+| Bayonne     |            14 |   0.607143 |
 | Argentina   |            12 |   0.458333 |
 | Jaguares    |             6 |   0.166667 |
 
@@ -37,17 +37,17 @@ categories: player
 | Montpellier Herault  |         9 |   0.333333 |
 | Toulon               |         8 |   0.625    |
 | Bordeaux Begles      |         8 |   0.5      |
-| Pau                  |         7 |   0.5      |
 | Racing 92            |         7 |   0.571429 |
+| Pau                  |         7 |   0.5      |
 | Castres Olympique    |         7 |   0.428571 |
 | Lyon                 |         7 |   0.571429 |
 | Alumni               |         5 |   1        |
 | La Rochelle          |         5 |   0.4      |
+| Brive                |         5 |   0.6      |
 | Perpignan            |         5 |   0.8      |
-| Regatas Bella Vista  |         4 |   1        |
 | La Plata             |         4 |   0.75     |
 | Clermont Auvergne    |         4 |   0.25     |
-| Brive                |         4 |   0.5      |
+| Regatas Bella Vista  |         4 |   1        |
 | Belgrano             |         4 |   0.75     |
 | CASI                 |         3 |   1        |
 | Grenoble             |         3 |   0.833333 |

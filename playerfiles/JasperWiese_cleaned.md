@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jasper Wiese  
-date: 2023-01-27 11:06:51.382003  
+date: 2023-02-02 18:40:03.826399  
 categories: player  
 ---
 # Jasper Wiese
@@ -23,17 +23,17 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Leicester Tigers    |            43 |   0.732558 |
+| Leicester Tigers    |            44 |   0.715909 |
 | South Africa        |            20 |   0.75     |
 | Cheetahs            |            18 |   0.388889 |
 | Free State Cheetahs |            11 |   0.545455 |
 
 | Opponent                |   Matches |   Win Rate |
 |:------------------------|----------:|-----------:|
+| Northampton Saints      |         5 |   0.6      |
 | Sale Sharks             |         5 |   0.2      |
 | Connacht                |         5 |   0.4      |
 | Argentina               |         4 |   1        |
-| Northampton Saints      |         4 |   0.75     |
 | Worcester Warriors      |         4 |   1        |
 | Bristol Rugby           |         4 |   0.625    |
 | Harlequins              |         4 |   0.75     |

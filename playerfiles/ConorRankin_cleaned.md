@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Conor Rankin  
-date: 2023-01-21 15:43:33.292977  
+date: 2023-02-02 19:09:30.041252  
 categories: player  
 ---
 # Conor Rankin
 
 ## Positions: W, FB
 
-## Current elo: 93.0
+## Current elo: 97.0
 
-## Current Percentile: 17.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Ampthill |            11 |   0.227273 |
+| Ampthill |            12 |   0.291667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ealing Trailfinders |         2 |        0   |
+| London Scottish     |         2 |        1   |
 | Bedford             |         1 |        0   |
 | Caldy               |         1 |        1   |
 | Cornish Pirates     |         1 |        0   |
@@ -33,5 +34,4 @@ categories: player
 | Doncaster           |         1 |        0   |
 | Hartpury College    |         1 |        0   |
 | Jersey              |         1 |        0   |
-| London Scottish     |         1 |        1   |
 | Richmond            |         1 |        0.5 |

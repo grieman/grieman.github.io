@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ryoma Nakamura  
-date: 2023-01-17 11:32:30.057792  
+date: 2023-02-02 19:00:07.174763  
 categories: player  
 ---
 # Ryoma Nakamura
 
 ## Positions: FH, FB
 
-## Current elo: 65.0
+## Current elo: 57.0
 
 ## Current Percentile: 1.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |            24 |     0.3125 |
+| Kamaishi Seawaves |            25 |        0.3 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
@@ -33,7 +33,7 @@ categories: player
 | Mazda Blue Zoomers               |         2 |   0.5      |
 | Mitsubishi Dynaboars             |         2 |   0        |
 | Shimizu Blue Sharks              |         2 |   1        |
+| Toyota Industries Shuttles Aichi |         2 |   0        |
 | Coca-Cola Red Sparks             |         1 |   0.5      |
 | Hino Red Dolphins                |         1 |   0        |
 | NTT Docomo Red Hurricanes Osaka  |         1 |   0        |
-| Toyota Industries Shuttles Aichi |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo Bastardie  
-date: 2023-01-30 11:44:04.783559  
+date: 2023-02-02 19:10:04.940653  
 categories: player  
 ---
 # Théo Bastardie

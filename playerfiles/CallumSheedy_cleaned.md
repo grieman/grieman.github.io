@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Callum Sheedy  
-date: 2023-01-06 11:43:37.907026  
+date: 2023-02-02 18:44:02.698385  
 categories: player  
 ---
 # Callum Sheedy
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 136.0
+## Current elo: 137.0
 
 ## Current Percentile: 96.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |           117 |   0.594017 |
+| Bristol Rugby |           121 |   0.590909 |
 | Wales         |            12 |   0.625    |
 | Jersey        |             7 |   0.857143 |
 
@@ -34,14 +34,14 @@ categories: player
 | Harlequins           |         9 |   0.444444 |
 | Leicester Tigers     |         8 |   0.5625   |
 | Gloucester Rugby     |         8 |   0.625    |
+| Saracens             |         8 |   0.25     |
 | Worcester Warriors   |         7 |   0.571429 |
 | Wasps                |         7 |   0.285714 |
-| Saracens             |         7 |   0.285714 |
 | Sale Sharks          |         7 |   0.357143 |
 | Northampton Saints   |         7 |   0.428571 |
+| London Irish         |         7 |   0.714286 |
 | Newcastle Falcons    |         6 |   0.666667 |
-| London Irish         |         6 |   0.833333 |
-| Zebre                |         5 |   0.7      |
+| Zebre                |         6 |   0.75     |
 | La Rochelle          |         3 |   0.333333 |
 | RC Enisei            |         2 |   1        |
 | Cornish Pirates      |         2 |   1        |
@@ -50,13 +50,13 @@ categories: player
 | Scotland             |         2 |   1        |
 | Brive                |         2 |   1        |
 | Rotherham Titans     |         2 |   1        |
+| Perpignan            |         2 |   1        |
 | Nottingham           |         2 |   1        |
 | Argentina            |         2 |   0.25     |
 | Doncaster            |         2 |   0.5      |
 | London Scottish      |         2 |   1        |
 | Italy                |         2 |   0.5      |
 | Ireland              |         2 |   0.5      |
-| Perpignan            |         1 |   1        |
 | Fiji                 |         1 |   1        |
 | Richmond             |         1 |   1        |
 | Dragons              |         1 |   1        |

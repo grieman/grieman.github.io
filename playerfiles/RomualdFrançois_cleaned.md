@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romuald François  
-date: 2023-01-23 15:34:06.452656  
+date: 2023-02-02 18:39:01.704581  
 categories: player  
 ---
 # Romuald François
 
 ## Positions: W
 
-## Current elo: 79.0
+## Current elo: 71.0
 
-## Current Percentile: 6.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             9 |   0.222222 |
+| Rennes |            10 |        0.2 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,4 +32,5 @@ categories: player
 | Narbonne                   |         1 |          0 |
 | Nice                       |         1 |          0 |
 | Suresnes                   |         1 |          0 |
+| Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |

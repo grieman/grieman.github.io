@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Craig Hampson  
-date: 2023-01-13 11:32:56.099742  
+date: 2023-02-02 19:03:29.722601  
 categories: player  
 ---
 # Craig Hampson
 
 ## Positions: SH
 
-## Current elo: 111.0
+## Current elo: 103.0
 
-## Current Percentile: 91.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            48 |   0.84375  |
+| Ealing Trailfinders |            51 |   0.833333 |
 | Wasps               |            38 |   0.355263 |
 | Yorkshire Carnegie  |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Coventry           |         7 |   0.785714 |
+| Ampthill           |         6 |   1        |
+| Hartpury College   |         6 |   1        |
 | Jersey             |         6 |   1        |
-| Coventry           |         6 |   0.916667 |
-| Ampthill           |         5 |   1        |
-| Hartpury College   |         5 |   1        |
 | Bath Rugby         |         5 |   0.1      |
 | Doncaster          |         5 |   0.6      |
 | Newcastle Falcons  |         4 |   0.25     |

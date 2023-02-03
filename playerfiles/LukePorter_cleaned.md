@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luke Porter  
-date: 2023-01-13 11:33:18.349946  
+date: 2023-02-02 19:13:22.463119  
 categories: player  
 ---
 # Luke Porter
 
 ## Positions: L
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 26.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |             3 |          0 |
+| Green Rockets Tokatsu |             6 |          0 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Kubota Spears Funabashi Tokyo-Bay |         2 |          0 |
 | Kobelco Kobe Steelers             |         1 |          0 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
+| Shizuoka Blue Revs                |         1 |          0 |
 | Toyota Verblitz                   |         1 |          0 |
+| Yokohama Canon Eagles             |         1 |          0 |

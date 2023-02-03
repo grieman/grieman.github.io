@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael Collins  
-date: 2023-01-06 00:13:00.270083  
+date: 2023-02-02 18:39:52.174188  
 categories: player  
 ---
 # Michael Collins
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 61.0
+## Current Percentile: 62.0
 
 # Elo History
 

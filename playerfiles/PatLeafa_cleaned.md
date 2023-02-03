@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pat Leafa  
-date: 2023-01-13 11:27:12.694771  
+date: 2023-02-02 19:11:17.402105  
 categories: player  
 ---
 # Pat Leafa
@@ -21,14 +21,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Vannes           |           113 |   0.579646 |
+| Vannes           |           114 |   0.574561 |
 | Melbourne Rebels |            51 |   0.352941 |
 | Melbourne Rising |            24 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Nevers                     |        10 |   0.65     |
 | Beziers                    |         9 |   0.777778 |
-| Nevers                     |         9 |   0.722222 |
 | Mont-de-Marsan             |         8 |   0.625    |
 | Carcassonne                |         8 |   0.5625   |
 | Colomiers                  |         7 |   0.571429 |

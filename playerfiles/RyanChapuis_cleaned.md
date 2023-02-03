@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ryan Chapuis  
-date: 2023-01-13 11:26:17.941838  
+date: 2023-02-02 18:48:55.023262  
 categories: player  
 ---
 # Ryan Chapuis
 
-## Positions: FL
+## Positions: FL, N8
 
-## Current elo: 69.0
+## Current elo: 57.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |            70 |   0.335714 |
+| Stade Francais Paris |            73 |   0.335616 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -37,13 +37,14 @@ categories: player
 | Stade Toulousain    |         3 |   0.666667 |
 | Bayonne             |         3 |   0.666667 |
 | Worcester Warriors  |         2 |   0        |
+| Perpignan           |         2 |   0.5      |
 | Zebre               |         2 |   0.5      |
 | Brive               |         2 |   0        |
 | Bristol Rugby       |         2 |   0        |
-| Grenoble            |         1 |   0        |
+| Benetton Treviso    |         2 |   0        |
+| Lions               |         1 |   1        |
 | Ospreys             |         1 |   0        |
+| Grenoble            |         1 |   0        |
 | Connacht            |         1 |   1        |
-| Perpignan           |         1 |   1        |
 | Biarritz Olympique  |         1 |   1        |
-| Benetton Treviso    |         1 |   0        |
 | Agen                |         1 |   0        |

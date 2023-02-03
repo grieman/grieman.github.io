@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pascal Cotet  
-date: 2023-01-06 00:10:26.791634  
+date: 2023-02-02 19:05:07.338321  
 categories: player  
 ---
 # Pascal Cotet
 
 ## Positions: P
 
-## Current elo: 110.0
+## Current elo: 104.0
 
 ## Current Percentile: None
 

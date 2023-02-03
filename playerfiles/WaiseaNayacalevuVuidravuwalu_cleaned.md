@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Waisea Nayacalevu Vuidravuwalu  
-date: 2023-01-21 15:44:43.942424  
+date: 2023-02-02 18:57:40.975262  
 categories: player  
 ---
 # Waisea Nayacalevu Vuidravuwalu
@@ -25,16 +25,16 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           200 |   0.5275   |
 | Fiji                 |            19 |   0.394737 |
-| Toulon               |             7 |   0.714286 |
+| Toulon               |             8 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Clermont Auvergne        |        17 |   0.382353 |
 | Racing 92                |        15 |   0.533333 |
 | Toulon                   |        14 |   0.428571 |
+| Pau                      |        13 |   0.615385 |
 | Bordeaux Begles          |        13 |   0.384615 |
 | Brive                    |        13 |   0.615385 |
-| Pau                      |        12 |   0.583333 |
 | Montpellier Herault      |        12 |   0.375    |
 | Stade Toulousain         |        12 |   0.458333 |
 | Castres Olympique        |        11 |   0.727273 |

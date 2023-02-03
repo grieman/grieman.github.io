@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Francisco Fernandes Moreira  
-date: 2023-01-13 11:23:39.325165  
+date: 2023-02-02 18:46:50.577362  
 categories: player  
 ---
 # Francisco Fernandes Moreira
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 120.0
+## Current elo: 121.0
 
 ## Current Percentile: 95.0
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |           276 |   0.478261 |
+| Beziers  |           278 |   0.482014 |
 | Portugal |            19 |   0.447368 |
 | Tyrosse  |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Aurillac                   |        19 |   0.526316 |
+| Aurillac                   |        20 |   0.55     |
 | Colomiers                  |        18 |   0.611111 |
 | Mont-de-Marsan             |        17 |   0.441176 |
 | Carcassonne                |        17 |   0.411765 |
+| Provence Rugby             |        14 |   0.571429 |
 | Oyonnax                    |        14 |   0.25     |
 | Narbonne                   |        14 |   0.607143 |
-| Provence Rugby             |        13 |   0.538462 |
 | Dax                        |        13 |   0.461538 |
 | Montauban                  |        13 |   0.730769 |
 | Tarbes                     |        10 |   0.5      |

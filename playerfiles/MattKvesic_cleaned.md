@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Kvesic  
-date: 2023-01-13 11:25:23.626940  
+date: 2023-02-02 18:53:01.808520  
 categories: player  
 ---
 # Matt Kvesic
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 52.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Gloucester Rugby   |            98 |   0.5      |
 | Worcester Warriors |            91 |   0.263736 |
 | Exeter Chiefs      |            56 |   0.660714 |
-| Zebre              |             6 |   0        |
+| Zebre              |             9 |   0        |
 | England            |             4 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,22 +37,23 @@ categories: player
 | London Irish         |        18 |   0.611111 |
 | Wasps                |        17 |   0.411765 |
 | Bath Rugby           |        17 |   0.352941 |
-| Exeter Chiefs        |        17 |   0.323529 |
 | Harlequins           |        17 |   0.382353 |
+| Exeter Chiefs        |        17 |   0.323529 |
 | Sale Sharks          |        14 |   0.428571 |
 | Newcastle Falcons    |        13 |   0.730769 |
 | Gloucester Rugby     |        12 |   0.291667 |
 | Worcester Warriors   |        11 |   0.681818 |
-| Bristol Rugby        |         9 |   0.333333 |
+| Bristol Rugby        |        10 |   0.3      |
 | La Rochelle          |         5 |   0.8      |
-| Edinburgh            |         4 |   0.5      |
 | Perpignan            |         4 |   0.75     |
-| Glasgow Warriors     |         3 |   0.166667 |
-| Munster              |         3 |   0.166667 |
+| Edinburgh            |         4 |   0.5      |
 | London Welsh         |         3 |   1        |
+| Munster              |         3 |   0.166667 |
+| Glasgow Warriors     |         3 |   0.166667 |
 | Oyonnax              |         2 |   1        |
 | Scarlets             |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0        |
+| Toulon               |         2 |   0        |
 | Argentina            |         2 |   1        |
 | Leinster             |         2 |   0        |
 | Castres Olympique    |         2 |   0.5      |
@@ -61,11 +62,11 @@ categories: player
 | Bayonne              |         2 |   1        |
 | Zebre                |         2 |   1        |
 | Montpellier Herault  |         1 |   1        |
+| Ospreys              |         1 |   0        |
 | Italy                |         1 |   1        |
 | Dragons              |         1 |   0        |
 | Crociati Rugby       |         1 |   1        |
 | Connacht             |         1 |   1        |
 | Bizkaia Gernika RT   |         1 |   1        |
-| Toulon               |         1 |   0        |
 | Ulster               |         1 |   0        |
 | Wales                |         1 |   1        |

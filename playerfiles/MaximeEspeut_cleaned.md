@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Maxime Espeut  
-date: 2023-01-13 11:36:31.189420  
+date: 2023-02-02 18:58:05.416178  
 categories: player  
 ---
 # Maxime Espeut
 
 ## Positions: W, C
 
-## Current elo: 133.0
+## Current elo: 143.0
 
 ## Current Percentile: 98.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            52 |   0.432692 |
+| Beziers |            54 |   0.453704 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,9 +30,9 @@ categories: player
 | Biarritz Olympique         |         4 |   0.5      |
 | Carcassonne                |         4 |   0.25     |
 | Grenoble                   |         4 |   0.5      |
+| Aurillac                   |         4 |   0.75     |
 | Oyonnax                    |         4 |   0        |
-| Aurillac                   |         3 |   0.666667 |
-| Provence Rugby             |         3 |   0.333333 |
+| Provence Rugby             |         4 |   0.5      |
 | Rouen                      |         3 |   0.666667 |
 | Agen                       |         3 |   1        |
 | Bayonne                    |         2 |   0.5      |

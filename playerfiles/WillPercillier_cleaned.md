@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will Percillier  
-date: 2023-01-13 11:25:27.341613  
+date: 2023-02-02 18:48:46.090974  
 categories: player  
 ---
 # Will Percillier
@@ -23,9 +23,9 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |            16 |       0.5  |
-| Vannes               |            10 |       0.35 |
-| Canada               |             2 |       0    |
+| Stade Francais Paris |            16 |   0.5      |
+| Vannes               |            11 |   0.318182 |
+| Canada               |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -40,10 +40,11 @@ categories: player
 | Racing 92           |         1 |        1   |
 | Pau                 |         1 |        1   |
 | Oyonnax             |         1 |        0   |
+| Nevers              |         1 |        0   |
 | Montpellier Herault |         1 |        0   |
-| Grenoble            |         1 |        1   |
 | Massy               |         1 |        0   |
 | Aurillac            |         1 |        0   |
+| Grenoble            |         1 |        1   |
 | England             |         1 |        0   |
 | Colomiers           |         1 |        1   |
 | Carcassonne         |         1 |        1   |

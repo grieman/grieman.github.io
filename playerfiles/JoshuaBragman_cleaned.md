@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joshua Bragman  
-date: 2023-01-21 15:40:32.590245  
+date: 2023-02-02 18:49:04.674010  
 categories: player  
 ---
 # Joshua Bragman
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            23 |   0.26087  |
-| Ampthill         |            13 |   0.423077 |
+| Ampthill         |            14 |   0.464286 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,9 +33,9 @@ categories: player
 | Coventry            |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0        |
 | Jersey              |         3 |   0        |
+| London Scottish     |         3 |   1        |
 | Nottingham          |         3 |   0.666667 |
 | Hartpury College    |         2 |   0.5      |
-| London Scottish     |         2 |   1        |
 | Newcastle Falcons   |         2 |   0        |
 | Richmond            |         2 |   1        |
 | Caldy               |         1 |   1        |

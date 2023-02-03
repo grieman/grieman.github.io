@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siua Halanukonuka  
-date: 2023-01-06 00:09:01.880326  
+date: 2023-02-02 18:43:53.988677  
 categories: player  
 ---
 # Siua Halanukonuka
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 107.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Tasman           |            47 |   0.702128 |
-| Perpignan        |            38 |   0.394737 |
+| Perpignan        |            39 |   0.410256 |
 | Glasgow Warriors |            31 |   0.516129 |
 | Highlanders      |            28 |   0.821429 |
 | Narbonne         |            10 |   0.45     |
@@ -44,6 +44,7 @@ categories: player
 | Hawke's Bay              |         4 |   1        |
 | Stade Toulousain         |         3 |   0.333333 |
 | Toulon                   |         3 |   0.666667 |
+| Stade Francais Paris     |         3 |   0.333333 |
 | Lyon                     |         3 |   0.666667 |
 | Clermont Auvergne        |         3 |   0.333333 |
 | Scarlets                 |         3 |   0.333333 |
@@ -51,9 +52,9 @@ categories: player
 | Pau                      |         3 |   0        |
 | Southland                |         3 |   1        |
 | Racing 92                |         3 |   0.333333 |
+| Waikato                  |         3 |   1        |
 | Cheetahs                 |         3 |   1        |
 | Brumbies                 |         3 |   1        |
-| Waikato                  |         3 |   1        |
 | Chiefs                   |         2 |   1        |
 | Rouen                    |         2 |   0.5      |
 | Bay of Plenty            |         2 |   1        |
@@ -68,23 +69,22 @@ categories: player
 | Melbourne Rebels         |         2 |   1        |
 | Manawatu                 |         2 |   1        |
 | Leinster                 |         2 |   0        |
-| La Rochelle              |         2 |   0        |
-| United States of America |         2 |   1        |
 | Connacht                 |         2 |   1        |
-| Castres Olympique        |         2 |   0.5      |
+| La Rochelle              |         2 |   0        |
+| Brive                    |         2 |   0.5      |
+| Hurricanes               |         2 |   0.5      |
+| United States of America |         2 |   1        |
 | Cardiff Blues            |         2 |   1        |
 | Ulster                   |         2 |   0.5      |
+| Castres Olympique        |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
-| Hurricanes               |         2 |   0.5      |
-| Brive                    |         2 |   0.5      |
-| Stade Francais Paris     |         2 |   0        |
-| Southern Kings           |         1 |   1        |
 | Spain                    |         1 |   1        |
+| Vannes                   |         1 |   1        |
+| Southern Kings           |         1 |   1        |
+| Stormers                 |         1 |   1        |
+| Sunwolves                |         1 |   1        |
 | Tarbes                   |         1 |   0        |
 | Queensland Reds          |         1 |   0        |
-| Sunwolves                |         1 |   1        |
-| Stormers                 |         1 |   1        |
-| Vannes                   |         1 |   1        |
 | Agen                     |         1 |   1        |
 | Provence Rugby           |         1 |   1        |
 | France                   |         1 |   0        |

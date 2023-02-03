@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Matt Va'ai  
-date: 2023-01-17 11:39:10.445180  
+date: 2023-02-02 19:12:30.262746  
 categories: player  
 ---
 # Matt Va'ai
 
 ## Positions: N8, L
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 41.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            59 |   0.440678 |
+| Soyaux-Angouleme |            60 |   0.433333 |
 | Counties Manukau |            18 |   0.333333 |
 | Grenoble         |             5 |   0        |
 
@@ -29,10 +29,10 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Rouen                      |         5 |   0.2      |
 | Vannes                     |         4 |   0.5      |
+| Colomiers                  |         4 |   0.25     |
 | Aurillac                   |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.5      |
 | Beziers                    |         3 |   1        |
-| Colomiers                  |         3 |   0.333333 |
 | Grenoble                   |         3 |   0.333333 |
 | Nevers                     |         3 |   0.166667 |
 | Canterbury                 |         3 |   0.333333 |

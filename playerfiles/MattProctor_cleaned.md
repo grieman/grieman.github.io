@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Proctor  
-date: 2023-01-06 00:14:01.267001  
+date: 2023-02-02 18:40:50.387588  
 categories: player  
 ---
 # Matt Proctor
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 118.0
+## Current elo: 132.0
 
-## Current Percentile: 77.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Hurricanes         |            67 |   0.738806 |
-| Northampton Saints |            62 |   0.403226 |
+| Northampton Saints |            65 |   0.4      |
 | Wellington         |            43 |   0.639535 |
 | New Zealand Maori  |             8 |   0.875    |
 | New Zealand        |             1 |   1        |
@@ -32,10 +32,10 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |        10 |   0.45     |
+| Exeter Chiefs            |         9 |   0.333333 |
+| Leicester Tigers         |         8 |   0.375    |
 | Highlanders              |         8 |   0.625    |
-| Exeter Chiefs            |         8 |   0.375    |
 | Crusaders                |         8 |   0.5      |
-| Leicester Tigers         |         7 |   0.285714 |
 | North Harbour            |         6 |   0.833333 |
 | Blues                    |         6 |   0.833333 |
 | Bristol Rugby            |         6 |   0.5      |
@@ -68,11 +68,11 @@ categories: player
 | Stormers                 |         2 |   0.5      |
 | Auckland                 |         2 |   0        |
 | Leinster                 |         2 |   0        |
+| Munster                  |         2 |   0        |
 | Bulls                    |         2 |   0.5      |
 | Brumbies                 |         2 |   1        |
 | Bay of Plenty            |         2 |   1        |
 | Worcester Warriors       |         2 |   1        |
-| Munster                  |         1 |   0        |
 | Lyon                     |         1 |   1        |
 | La Rochelle              |         1 |   0        |
 | Fiji                     |         1 |   1        |

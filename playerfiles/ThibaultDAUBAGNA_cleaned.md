@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault DAUBAGNA  
-date: 2023-02-02 15:49:47.215127  
+date: 2023-02-02 18:43:23.112510  
 categories: player  
 ---
 # Thibault DAUBAGNA

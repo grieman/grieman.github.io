@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gautier Gibouin  
-date: 2023-01-13 11:29:45.417247  
+date: 2023-02-02 19:09:11.433827  
 categories: player  
 ---
 # Gautier Gibouin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 81.0
+## Current elo: 80.0
 
-## Current Percentile: 14.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Montauban        |            54 |   0.453704 |
+| Soyaux-Angouleme |            47 |   0.457447 |
 | Nevers           |            45 |   0.533333 |
-| Soyaux-Angouleme |            45 |   0.477778 |
 | Bordeaux Begles  |            22 |   0.318182 |
 | Spain            |            21 |   0.52381  |
 | Périgueux        |            19 |   0.210526 |
@@ -36,8 +36,8 @@ categories: player
 | Aurillac                   |        10 |   0.4      |
 | Beziers                    |        10 |   0.4      |
 | Carcassonne                |        10 |   0.3      |
+| Colomiers                  |         9 |   0.333333 |
 | Grenoble                   |         9 |   0.222222 |
-| Colomiers                  |         8 |   0.375    |
 | Mont-de-Marsan             |         8 |   0.5      |
 | Tarbes                     |         7 |   0.5      |
 | Albi                       |         7 |   0.714286 |
@@ -59,28 +59,28 @@ categories: player
 | La Rochelle                |         3 |   0.333333 |
 | Agen                       |         3 |   0.333333 |
 | Lyon                       |         3 |   0.333333 |
-| Aubenas                    |         2 |   1        |
+| Chambery                   |         2 |   0        |
+| Rouen                      |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
 | Racing 92                  |         2 |   0        |
 | Portugal                   |         2 |   0.5      |
 | Canada                     |         2 |   0        |
 | Suresnes                   |         2 |   1        |
-| Chambery                   |         2 |   0        |
 | Nice                       |         2 |   0.5      |
+| Aubenas                    |         2 |   1        |
 | Montpellier Herault        |         2 |   0        |
 | Clermont Auvergne          |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Uruguay                    |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.25     |
+| Saint-Etienne              |         1 |   1        |
 | Tonga                      |         1 |   0        |
-| Belgium                    |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |
 | Stade Francais Paris       |         1 |   0        |
 | Auch                       |         1 |   0        |
-| Saint-Etienne              |         1 |   1        |
 | Japan                      |         1 |   0        |
+| Belgium                    |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
-| Rouen                      |         1 |   1        |
 | Germany                    |         1 |   1        |
 | Brive                      |         1 |   0        |
 | Castres Olympique          |         1 |   0        |

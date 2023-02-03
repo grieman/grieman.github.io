@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gerhard Steenekamp  
-date: 2023-01-06 00:21:29.746277  
+date: 2023-02-02 19:13:35.161984  
 categories: player  
 ---
 # Gerhard Steenekamp
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 102.0
 
-## Current Percentile: 65.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |            31 |   0.580645 |
+| Bulls      |            35 |   0.571429 |
 | Blue Bulls |            13 |   0.769231 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -33,21 +33,23 @@ categories: player
 | Benetton Treviso    |         2 |   1        |
 | Natal Sharks        |         2 |   0.5      |
 | Western Province    |         2 |   1        |
+| Scarlets            |         2 |   0.5      |
 | Ospreys             |         2 |   1        |
 | Leinster            |         2 |   0.5      |
-| Golden Lions        |         2 |   1        |
 | Glasgow Warriors    |         2 |   0.5      |
-| Griquas             |         1 |   1        |
-| Highlanders         |         1 |   1        |
-| Jaguares            |         1 |   0        |
-| Blues               |         1 |   0        |
-| Lions               |         1 |   1        |
-| Munster             |         1 |   1        |
+| Dragons             |         2 |   1        |
+| Golden Lions        |         2 |   1        |
+| Exeter Chiefs       |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
+| Ulster              |         1 |   1        |
+| Connacht            |         1 |   1        |
 | Edinburgh           |         1 |   1        |
 | Queensland Reds     |         1 |   0        |
-| Scarlets            |         1 |   1        |
-| Dragons             |         1 |   1        |
-| Connacht            |         1 |   1        |
-| Ulster              |         1 |   1        |
-| Cardiff Blues       |         1 |   1        |
+| Griquas             |         1 |   1        |
+| Highlanders         |         1 |   1        |
+| Munster             |         1 |   1        |
+| Lyon                |         1 |   0        |
+| Lions               |         1 |   1        |
+| Blues               |         1 |   0        |
+| Jaguares            |         1 |   0        |
 | Zebre               |         1 |   1        |

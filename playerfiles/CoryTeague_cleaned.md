@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cory Teague  
-date: 2023-01-13 11:24:33.907706  
+date: 2023-02-02 19:01:17.737163  
 categories: player  
 ---
 # Cory Teague
 
 ## Positions: L
 
-## Current elo: 81.0
+## Current elo: 66.0
 
-## Current Percentile: 10.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            22 |   0.590909 |
+| Cornish Pirates |            25 |       0.56 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ampthill            |         3 |   0.5      |
+| Bedford             |         3 |   0.333333 |
 | London Scottish     |         3 |   1        |
+| Nottingham          |         3 |   1        |
 | Richmond            |         3 |   0.833333 |
-| Bedford             |         2 |   0.5      |
 | Coventry            |         2 |   0.5      |
 | Doncaster           |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
-| Nottingham          |         2 |   1        |
+| Jersey              |         2 |   0.5      |
 | Caldy               |         1 |   0        |
 | Hartpury College    |         1 |   0        |
-| Jersey              |         1 |   1        |

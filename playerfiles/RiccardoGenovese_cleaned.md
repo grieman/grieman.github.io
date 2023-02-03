@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Riccardo Genovese  
-date: 2023-01-06 00:12:23.388518  
+date: 2023-02-02 19:02:25.148507  
 categories: player  
 ---
 # Riccardo Genovese
 
 ## Positions: 
 
-## Current elo: 102.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 
@@ -17,10 +17,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |             3 |          0 |
+| Zebre  |             4 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Benetton Treviso |         1 |          0 |
+| Ospreys          |         1 |          0 |
 | Toulon           |         1 |          0 |
 | Ulster           |         1 |          0 |

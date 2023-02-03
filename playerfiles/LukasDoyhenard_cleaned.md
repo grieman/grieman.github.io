@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lukas Doyhenard  
-date: 2023-01-17 11:33:31.387732  
+date: 2023-02-02 19:08:33.482886  
 categories: player  
 ---
 # Lukas Doyhenard
 
 ## Positions: W
 
-## Current elo: 85.0
+## Current elo: 94.0
 
-## Current Percentile: 33.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |             3 |   0.333333 |
+| Blagnac |             5 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         1 |          0 |
-| US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          1 |
+| US Bressane                |         2 |        0.5 |
+| Albi                       |         1 |        0   |
+| Tarbes                     |         1 |        0.5 |
+| Valence Romans Drome Rugby |         1 |        1   |

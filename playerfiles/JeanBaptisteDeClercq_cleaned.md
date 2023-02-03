@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Baptiste De Clercq  
-date: 2023-01-17 11:38:25.190336  
+date: 2023-02-02 18:57:28.502520  
 categories: player  
 ---
 # Jean Baptiste De Clercq
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 37.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -24,14 +24,14 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Bayonne              |            20 |   0.375    |
-| Albi                 |            13 |   0.730769 |
+| Albi                 |            14 |   0.75     |
 | US Bressane          |            11 |   0.272727 |
 | Belgium              |             4 |   0.5      |
 | Stade Francais Paris |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Narbonne                   |         3 |   0.666667 |
+| Narbonne                   |         4 |   0.75     |
 | Stade Francais Paris       |         3 |   0.666667 |
 | Montpellier Herault        |         2 |   0.5      |
 | Aurillac                   |         2 |   1        |

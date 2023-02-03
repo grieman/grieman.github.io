@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Come Clayver Joussain  
-date: 2023-01-13 11:27:28.647579  
+date: 2023-02-02 18:38:44.187153  
 categories: player  
 ---
 # Come Clayver Joussain
 
 ## Positions: L
 
-## Current elo: 89.0
+## Current elo: 97.0
 
-## Current Percentile: 41.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,15 +21,16 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |            10 |        0.2 |
+| Carcassonne |            12 |   0.291667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Aurillac           |         2 |          1 |
-| Mont-de-Marsan     |         2 |          0 |
-| Bayonne            |         1 |          0 |
-| Biarritz Olympique |         1 |          0 |
-| Colomiers          |         1 |          0 |
-| Grenoble           |         1 |          0 |
-| Oyonnax            |         1 |          0 |
-| Soyaux-Angouleme   |         1 |          0 |
+| Aurillac           |         2 |       1    |
+| Grenoble           |         2 |       0.25 |
+| Mont-de-Marsan     |         2 |       0    |
+| Bayonne            |         1 |       0    |
+| Biarritz Olympique |         1 |       0    |
+| Colomiers          |         1 |       0    |
+| Oyonnax            |         1 |       0    |
+| Rouen              |         1 |       1    |
+| Soyaux-Angouleme   |         1 |       0    |

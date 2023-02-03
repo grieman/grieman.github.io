@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Steven Luatua  
-date: 2023-01-06 00:22:33.077379  
+date: 2023-02-02 18:45:26.702965  
 categories: player  
 ---
 # Steven Luatua
 
 ## Positions: FL, N8
 
-## Country: New Zealand
+## Country: Blues
 
-## Current elo: 104.0
+## Current elo: 96.0
 
-## Current Percentile: 94.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,41 +23,41 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |            99 |   0.641414 |
+| Bristol Rugby |           101 |   0.628713 |
 | Blues         |            75 |   0.453333 |
 | New Zealand   |            16 |   0.90625  |
 | Auckland      |            13 |   0.653846 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Chiefs                   |         9 |  0.0555556 |
 | Harlequins               |         9 |  0.555556  |
 | Leicester Tigers         |         9 |  0.611111  |
+| Chiefs                   |         9 |  0.0555556 |
 | Hurricanes               |         8 |  0.375     |
 | Bath Rugby               |         8 |  0.75      |
 | Crusaders                |         8 |  0.25      |
+| Highlanders              |         7 |  0.428571  |
 | Wasps                    |         7 |  0.285714  |
 | Gloucester Rugby         |         7 |  0.714286  |
-| Highlanders              |         7 |  0.428571  |
 | Exeter Chiefs            |         6 |  0.5       |
-| Sale Sharks              |         5 |  0.3       |
-| Saracens                 |         5 |  0.4       |
+| Saracens                 |         6 |  0.333333  |
 | New South Wales Waratahs |         5 |  0.6       |
 | Brumbies                 |         5 |  0.8       |
+| Sale Sharks              |         5 |  0.3       |
 | Australia                |         5 |  0.9       |
 | Worcester Warriors       |         5 |  0.4       |
 | Northampton Saints       |         5 |  0.8       |
 | Newcastle Falcons        |         4 |  1         |
 | Melbourne Rebels         |         4 |  0.75      |
-| Lions                    |         4 |  0.25      |
+| London Irish             |         4 |  0.25      |
 | Queensland Reds          |         4 |  0.625     |
 | Cheetahs                 |         4 |  0.5       |
 | South Africa             |         4 |  0.75      |
 | Western Force            |         4 |  1         |
+| Lions                    |         4 |  0.25      |
 | Sharks                   |         3 |  0.333333  |
 | Stormers                 |         3 |  0.333333  |
 | Tasman                   |         3 |  0.166667  |
-| London Irish             |         3 |  0.333333  |
 | Zebre                    |         3 |  0.5       |
 | Bulls                    |         3 |  0.333333  |
 | Argentina                |         2 |  1         |

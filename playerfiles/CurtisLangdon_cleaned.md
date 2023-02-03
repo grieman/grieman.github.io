@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Curtis Langdon  
-date: 2023-01-15 11:54:05.683819  
+date: 2023-02-02 19:08:50.139448  
 categories: player  
 ---
 # Curtis Langdon
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Sale Sharks         |            81 |   0.623457 |
 | Doncaster           |            10 |   0.15     |
-| Montpellier Herault |             6 |   0.5      |
+| Montpellier Herault |             7 |   0.428571 |
 | Worcester Warriors  |             3 |   0.333333 |
 | England             |             2 |   1        |
 
@@ -40,23 +40,24 @@ categories: player
 | Worcester Warriors       |         6 |   0.666667 |
 | Harlequins               |         6 |   0.666667 |
 | Newcastle Falcons        |         5 |   0.6      |
-| Bath Rugby               |         4 |   0.5      |
 | Wasps                    |         4 |   0.75     |
 | Saracens                 |         4 |   0.75     |
+| Bath Rugby               |         4 |   0.5      |
 | Connacht                 |         3 |   0.666667 |
 | Perpignan                |         3 |   1        |
-| Ospreys                  |         2 |   0        |
 | La Rochelle              |         2 |   0        |
 | Bedford                  |         2 |   0.25     |
 | Ealing Trailfinders      |         2 |   0.5      |
 | Bordeaux Begles          |         2 |   0.5      |
-| Jersey                   |         1 |   0        |
+| Ospreys                  |         2 |   0        |
 | Glasgow Warriors         |         1 |   0        |
-| Cornish Pirates          |         1 |   0        |
-| Richmond                 |         1 |   0        |
-| Clermont Auvergne        |         1 |   0        |
-| Scarlets                 |         1 |   1        |
-| Toulon                   |         1 |   1        |
-| United States of America |         1 |   1        |
+| Stade Toulousain         |         1 |   0        |
 | Canada                   |         1 |   1        |
+| United States of America |         1 |   1        |
+| Toulon                   |         1 |   1        |
+| Richmond                 |         1 |   0        |
+| Scarlets                 |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
+| Jersey                   |         1 |   0        |
+| Cornish Pirates          |         1 |   0        |
 | Yorkshire Carnegie       |         1 |   0        |

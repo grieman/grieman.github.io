@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Futo Yamaguchi  
-date: 2023-01-25 18:58:46.055755  
+date: 2023-02-02 19:06:52.201873  
 categories: player  
 ---
 # Futo Yamaguchi
 
 ## Positions: FB
 
-## Current elo: 102.0
+## Current elo: 106.0
 
-## Current Percentile: None
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |             1 |        0.5 |
+| Shizuoka Blue Revs |             2 |       0.75 |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Mitsubishi Dynaboars |         1 |        0.5 |
+| Opponent              |   Matches |   Win Rate |
+|:----------------------|----------:|-----------:|
+| Green Rockets Tokatsu |         1 |        1   |
+| Mitsubishi Dynaboars  |         1 |        0.5 |

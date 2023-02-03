@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alan O'Connor  
-date: 2023-01-13 11:33:46.860312  
+date: 2023-02-02 19:05:54.282028  
 categories: player  
 ---
 # Alan O'Connor
 
 ## Positions: L
 
-## Current elo: 115.0
+## Current elo: 121.0
 
-## Current Percentile: 89.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |           151 |   0.665563 |
+| Ulster |           154 |   0.665584 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -38,16 +38,16 @@ categories: player
 | Cardiff Blues     |         6 |   0.75     |
 | Southern Kings    |         5 |   1        |
 | Harlequins        |         4 |   1        |
-| La Rochelle       |         3 |   0.333333 |
+| La Rochelle       |         4 |   0.25     |
 | Leicester Tigers  |         3 |   1        |
 | Stade Toulousain  |         3 |   0.666667 |
 | Cheetahs          |         3 |   0.833333 |
-| Racing 92         |         2 |   0.5      |
-| Stormers          |         2 |   0        |
+| Stormers          |         3 |   0.333333 |
+| Sale Sharks       |         2 |   0.5      |
 | Bath Rugby        |         2 |   1        |
+| Racing 92         |         2 |   0.5      |
 | Clermont Auvergne |         2 |   0.5      |
 | Lions             |         2 |   1        |
-| Sale Sharks       |         1 |   0        |
 | Saracens          |         1 |   0        |
 | Oyonnax           |         1 |   1        |
 | Sharks            |         1 |   1        |

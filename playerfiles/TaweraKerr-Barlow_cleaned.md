@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tawera Kerr-Barlow  
-date: 2023-01-06 00:26:37.425751  
+date: 2023-02-02 18:41:41.306800  
 categories: player  
 ---
 # Tawera Kerr-Barlow
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 104.0
+## Current elo: 95.0
 
-## Current Percentile: 98.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| La Rochelle       |           112 |   0.566964 |
+| La Rochelle       |           115 |   0.569565 |
 | Chiefs            |            82 |   0.682927 |
 | New Zealand       |            29 |   0.965517 |
 | Waikato           |            16 |   0.71875  |
@@ -32,7 +32,7 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Crusaders                |        13 |   0.461538 |
-| Racing 92                |        10 |   0.6      |
+| Racing 92                |        11 |   0.545455 |
 | Stade Toulousain         |        10 |   0.1      |
 | Highlanders              |        10 |   0.6      |
 | Hurricanes               |        10 |   0.65     |
@@ -63,13 +63,14 @@ categories: player
 | Perpignan                |         3 |   0.666667 |
 | Bayonne                  |         3 |   0.333333 |
 | Manawatu                 |         3 |   0.666667 |
-| Ulster                   |         2 |   0.5      |
-| Auckland                 |         2 |   1        |
+| Ulster                   |         3 |   0.666667 |
+| North Harbour            |         2 |   1        |
+| Southern Kings           |         2 |   1        |
 | Sale Sharks              |         2 |   0.5      |
 | Bristol Rugby            |         2 |   0.5      |
-| Southern Kings           |         2 |   1        |
-| North Harbour            |         2 |   1        |
+| Northampton Saints       |         2 |   1        |
 | Biarritz Olympique       |         2 |   0.5      |
+| Auckland                 |         2 |   1        |
 | Italy                    |         2 |   1        |
 | Melbourne Rebels         |         2 |   1        |
 | Sharks                   |         2 |   1        |
@@ -86,7 +87,6 @@ categories: player
 | British and Irish Lions  |         1 |   0        |
 | England                  |         1 |   1        |
 | Otago                    |         1 |   1        |
-| Northampton Saints       |         1 |   1        |
 | Namibia                  |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Jaguares                 |         1 |   1        |

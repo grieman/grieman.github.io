@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Savage  
-date: 2023-01-13 11:32:54.934888  
+date: 2023-02-02 19:12:02.319557  
 categories: player  
 ---
 # Tom Savage
 
 ## Positions: L, FL
 
-## Current elo: 126.0
+## Current elo: 133.0
 
-## Current Percentile: 94.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |           191 |   0.528796 |
-| Tokyo Sungoliath |             8 |   0.75     |
+| Tokyo Sungoliath |            11 |   0.818182 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -46,22 +46,24 @@ categories: player
 | Benetton Treviso                  |         2 |   1        |
 | Pau                               |         2 |   0        |
 | Oyonnax                           |         2 |   1        |
-| Brive                             |         2 |   1        |
 | Bristol Rugby                     |         2 |   1        |
-| Agen                              |         2 |   1        |
+| Brive                             |         2 |   1        |
 | Connacht                          |         2 |   1        |
-| Biarritz Olympique                |         1 |   0        |
-| Yokohama Canon Eagles             |         1 |   1        |
-| Hino Red Dolphins                 |         1 |   1        |
-| Kobelco Kobe Steelers             |         1 |   0        |
-| Urayasu D-Rocks                   |         1 |   1        |
-| Toyota Verblitz                   |         1 |   1        |
-| Stade Francais Paris              |         1 |   0        |
-| Cardiff Blues                     |         1 |   1        |
+| Kobelco Kobe Steelers             |         2 |   0.5      |
+| Agen                              |         2 |   1        |
 | Mont-de-Marsan                    |         1 |   1        |
-| Perpignan                         |         1 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
-| Dragons                           |         1 |   0        |
-| Edinburgh                         |         1 |   1        |
 | Munster                           |         1 |   0        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
+| Dragons                           |         1 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   1        |
+| Cardiff Blues                     |         1 |   1        |
 | Bordeaux Begles                   |         1 |   1        |
+| Biarritz Olympique                |         1 |   0        |
+| Stade Francais Paris              |         1 |   0        |
+| Toyota Verblitz                   |         1 |   1        |
+| Urayasu D-Rocks                   |         1 |   1        |
+| Hino Red Dolphins                 |         1 |   1        |
+| Edinburgh                         |         1 |   1        |
+| Yokohama Canon Eagles             |         1 |   1        |
+| Perpignan                         |         1 |   1        |

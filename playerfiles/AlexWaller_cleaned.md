@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Waller  
-date: 2023-01-06 00:23:16.944008  
+date: 2023-02-02 19:09:14.474271  
 categories: player  
 ---
 # Alex Waller
 
 ## Positions: P
 
-## Current elo: 129.0
+## Current elo: 144.0
 
-## Current Percentile: 97.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           340 |   0.583824 |
+| Northampton Saints |           343 |   0.581633 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Saracens            |        29 |   0.396552 |
-| Leicester Tigers    |        28 |   0.303571 |
+| Leicester Tigers    |        29 |   0.327586 |
+| Exeter Chiefs       |        25 |   0.48     |
 | Gloucester Rugby    |        24 |   0.5625   |
 | Wasps               |        24 |   0.625    |
 | Sale Sharks         |        24 |   0.541667 |
-| Exeter Chiefs       |        24 |   0.5      |
 | Harlequins          |        24 |   0.625    |
 | Bath Rugby          |        23 |   0.630435 |
 | Worcester Warriors  |        21 |   0.857143 |
@@ -41,8 +41,8 @@ categories: player
 | Scarlets            |         7 |   0.857143 |
 | Leinster            |         7 |   0.142857 |
 | Ospreys             |         6 |   1        |
+| Munster             |         5 |   0        |
 | Clermont Auvergne   |         5 |   0        |
-| Munster             |         4 |   0        |
 | Racing 92           |         4 |   0.125    |
 | Dragons             |         4 |   1        |
 | Glasgow Warriors    |         4 |   0.75     |

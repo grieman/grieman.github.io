@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake Woolmore  
-date: 2023-01-06 00:19:51.088215  
+date: 2023-02-02 19:08:18.883455  
 categories: player  
 ---
 # Jake Woolmore
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 97.0
 
-## Current Percentile: 24.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |           113 |   0.584071 |
+| Bristol Rugby |           115 |   0.582609 |
 | Jersey        |            31 |   0.66129  |
 | Exeter Chiefs |             1 |   1        |
 
@@ -34,9 +34,9 @@ categories: player
 | Gloucester Rugby     |         9 |   0.666667 |
 | Harlequins           |         9 |   0.555556 |
 | Worcester Warriors   |         8 |   0.625    |
+| Saracens             |         8 |   0.25     |
 | Sale Sharks          |         8 |   0.25     |
 | Northampton Saints   |         8 |   0.625    |
-| Saracens             |         7 |   0.285714 |
 | London Irish         |         6 |   0.666667 |
 | Newcastle Falcons    |         5 |   0.8      |
 | Nottingham           |         4 |   0.625    |
@@ -48,6 +48,7 @@ categories: player
 | Richmond             |         3 |   0.666667 |
 | London Scottish      |         3 |   1        |
 | Ealing Trailfinders  |         3 |   0        |
+| Perpignan            |         2 |   1        |
 | RC Enisei            |         2 |   1        |
 | Dragons              |         2 |   1        |
 | Hartpury College     |         2 |   1        |
@@ -56,7 +57,6 @@ categories: player
 | Bristol Rugby        |         2 |   0.5      |
 | Yorkshire Carnegie   |         2 |   0.5      |
 | La Rochelle          |         2 |   0.5      |
-| Perpignan            |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Toulon               |         1 |   1        |
 | Bordeaux Begles      |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Utu Maninoa  
-date: 2023-01-17 11:33:38.414577  
+date: 2023-02-02 18:44:42.056453  
 categories: player  
 ---
 # Utu Maninoa
@@ -24,7 +24,7 @@ categories: player
 | Aurillac                   |           152 |   0.496711 |
 | Montauban                  |            54 |   0.444444 |
 | Tarbes                     |            25 |   0.46     |
-| Cognac Saint Jean d'Angély |            14 |   0        |
+| Cognac Saint Jean d'Angély |            15 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -55,10 +55,10 @@ categories: player
 | Grenoble                   |         4 |   0.5      |
 | Auch                       |         4 |   0.5      |
 | Aurillac                   |         4 |   0.75     |
+| Chambery                   |         4 |   0.25     |
 | Suresnes                   |         3 |   0        |
 | Blagnac                    |         3 |   0        |
 | Lyon                       |         3 |   0        |
-| Chambery                   |         3 |   0.333333 |
 | Périgueux                  |         2 |   0.5      |
 | Rouen                      |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
@@ -66,6 +66,6 @@ categories: player
 | Dijon                      |         2 |   0.75     |
 | Aubenas                    |         2 |   0.5      |
 | Brive                      |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   0        |
 | Rennes                     |         1 |   0        |

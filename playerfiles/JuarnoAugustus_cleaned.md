@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juarno Augustus  
-date: 2023-01-27 11:07:10.653314  
+date: 2023-02-02 19:01:20.020797  
 categories: player  
 ---
 # Juarno Augustus
@@ -21,13 +21,13 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            34 |   0.5      |
+| Northampton Saints |            35 |   0.514286 |
 | Stormers           |            14 |   0.642857 |
 | Western Province   |            12 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Leicester Tigers    |         4 |   0        |
+| Leicester Tigers    |         5 |   0.2      |
 | Gloucester Rugby    |         3 |   0.333333 |
 | Wasps               |         3 |   0.666667 |
 | Sharks              |         3 |   0.666667 |

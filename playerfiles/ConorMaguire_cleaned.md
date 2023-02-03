@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Conor Maguire  
-date: 2023-01-06 00:10:37.555880  
+date: 2023-02-02 19:03:42.602021  
 categories: player  
 ---
 # Conor Maguire
 
 ## Positions: 
 
-## Current elo: 104.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 

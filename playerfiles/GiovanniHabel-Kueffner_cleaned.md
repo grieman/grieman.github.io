@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Giovanni Habel-Kueffner  
-date: 2023-01-06 00:16:06.061553  
+date: 2023-02-02 19:13:15.536753  
 categories: player  
 ---
 # Giovanni Habel-Kueffner
 
 ## Positions: FL, N8
 
-## Current elo: 141.0
+## Current elo: 139.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -22,13 +22,13 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Pau                  |            92 |   0.369565 |
-| Stade Francais Paris |            14 |   0.678571 |
+| Stade Francais Paris |            16 |   0.65625  |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Castres Olympique    |         8 |  0.125     |
 | Stade Francais Paris |         8 |  0.375     |
 | La Rochelle          |         7 |  0.142857  |
-| Castres Olympique    |         7 |  0         |
 | Toulon               |         7 |  0.0714286 |
 | Lyon                 |         7 |  0.357143  |
 | Clermont Auvergne    |         7 |  0.428571  |
@@ -39,8 +39,8 @@ categories: player
 | Brive                |         6 |  0.333333  |
 | Cardiff Blues        |         4 |  0.25      |
 | Bordeaux Begles      |         4 |  0.5       |
+| Perpignan            |         4 |  0.75      |
 | Bayonne              |         3 |  1         |
-| Perpignan            |         3 |  1         |
 | Calvisano            |         2 |  1         |
 | Worcester Warriors   |         2 |  0.5       |
 | Biarritz Olympique   |         2 |  1         |

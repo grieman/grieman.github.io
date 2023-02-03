@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Webb  
-date: 2023-01-06 00:16:24.630052  
+date: 2023-02-02 19:07:25.179422  
 categories: player  
 ---
 # Rhys Webb
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 115.0
+## Current elo: 113.0
 
-## Current Percentile: 78.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Ospreys                 |           204 |   0.578431 |
+| Ospreys                 |           205 |   0.580488 |
 | Wales                   |            34 |   0.470588 |
 | Toulon                  |            26 |   0.461538 |
 | British and Irish Lions |             7 |   0.5      |
@@ -47,12 +47,12 @@ categories: player
 | England              |         6 |   0        |
 | Leicester Tigers     |         5 |   0.3      |
 | Stade Toulousain     |         5 |   0.5      |
+| Montpellier Herault  |         4 |   0.625    |
 | Newcastle Falcons    |         4 |   0.75     |
 | Northampton Saints   |         4 |   0.25     |
 | France               |         4 |   0.5      |
 | Ireland              |         4 |   0.75     |
 | Racing 92            |         4 |   0.125    |
-| Montpellier Herault  |         3 |   0.5      |
 | Saracens             |         3 |   0.166667 |
 | Aironi               |         3 |   1        |
 | Lyon                 |         3 |   0.333333 |

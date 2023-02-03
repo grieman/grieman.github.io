@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Huw Taylor  
-date: 2023-01-13 11:25:16.432861  
+date: 2023-02-02 19:06:56.254222  
 categories: player  
 ---
 # Huw Taylor
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Dragons            |            48 |   0.208333 |
+| Dragons            |            49 |   0.204082 |
 | Worcester Warriors |            21 |   0.261905 |
 | Doncaster          |             3 |   0.666667 |
 | London Scottish    |             3 |   0        |
@@ -29,7 +29,7 @@ categories: player
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Glasgow Warriors   |         5 |   0.4      |
+| Glasgow Warriors   |         6 |   0.333333 |
 | Zebre              |         4 |   0.25     |
 | Cardiff Blues      |         4 |   0        |
 | Connacht           |         4 |   0.125    |

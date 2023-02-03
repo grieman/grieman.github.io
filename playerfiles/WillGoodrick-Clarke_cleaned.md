@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Goodrick-Clarke  
-date: 2023-01-06 00:26:35.405809  
+date: 2023-02-02 18:39:34.765810  
 categories: player  
 ---
 # Will Goodrick-Clarke
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 87.0
 
-## Current Percentile: 84.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| London Irish     |            58 |    0.37069 |
-| Richmond         |            40 |    0.325   |
-| Gloucester Rugby |             1 |    1       |
+| London Irish     |            61 |   0.385246 |
+| Richmond         |            40 |   0.325    |
+| Gloucester Rugby |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bristol Rugby       |         7 |   0.357143 |
 | Gloucester Rugby    |         7 |   0.214286 |
-| Bristol Rugby       |         6 |   0.25     |
 | Sale Sharks         |         6 |   0.166667 |
 | Exeter Chiefs       |         6 |   0.5      |
 | Yorkshire Carnegie  |         5 |   0.2      |
-| Harlequins          |         4 |   0.375    |
+| Harlequins          |         5 |   0.5      |
 | Wasps               |         4 |   0.375    |
 | Saracens            |         4 |   0.625    |
 | Newcastle Falcons   |         4 |   0.75     |
@@ -49,8 +49,8 @@ categories: player
 | Northampton Saints  |         3 |   0        |
 | Jersey              |         3 |   0.333333 |
 | Coventry            |         2 |   0.5      |
+| Stormers            |         2 |   0        |
 | Bayonne             |         1 |   0        |
-| Stormers            |         1 |   0        |
 | Edinburgh           |         1 |   1        |
 | Rotherham Titans    |         1 |   1        |
 | Pau                 |         1 |   1        |

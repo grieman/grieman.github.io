@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Cole  
-date: 2023-01-06 00:24:32.934601  
+date: 2023-02-02 18:40:54.609835  
 categories: player  
 ---
 # Dan Cole
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 90.0
 
-## Current Percentile: 64.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           299 |   0.628763 |
+| Leicester Tigers        |           301 |   0.624585 |
 | England                 |            93 |   0.715054 |
 | British and Irish Lions |             7 |   0.5      |
 
@@ -39,7 +39,7 @@ categories: player
 | Gloucester Rugby         |        17 |   0.794118 |
 | Worcester Warriors       |        17 |   0.882353 |
 | London Irish             |        17 |   0.911765 |
-| Newcastle Falcons        |        15 |   0.866667 |
+| Newcastle Falcons        |        16 |   0.8125   |
 | Australia                |        14 |   0.714286 |
 | France                   |        12 |   0.583333 |
 | Wales                    |        12 |   0.666667 |
@@ -53,7 +53,7 @@ categories: player
 | Ulster                   |         6 |   0.166667 |
 | Argentina                |         5 |   1        |
 | Clermont Auvergne        |         5 |   0.6      |
-| Ospreys                  |         4 |   0.625    |
+| Ospreys                  |         5 |   0.5      |
 | Munster                  |         4 |   0.5      |
 | New Zealand              |         4 |   0.5      |
 | Perpignan                |         4 |   0.375    |

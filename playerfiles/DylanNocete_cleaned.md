@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dylan Nocete  
-date: 2023-01-30 17:54:35.715980  
+date: 2023-02-02 18:41:30.266903  
 categories: player  
 ---
 # Dylan Nocete
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 

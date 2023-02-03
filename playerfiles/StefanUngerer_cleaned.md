@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stefan Ungerer  
-date: 2023-01-17 11:33:19.961906  
+date: 2023-02-02 19:13:50.273690  
 categories: player  
 ---
 # Stefan Ungerer
@@ -26,7 +26,7 @@ categories: player
 | Sharks         |            19 |   0.684211 |
 | Pumas          |            13 |   0.461538 |
 | Natal Sharks   |            12 |   0.583333 |
-| Stormers       |             6 |   0.5      |
+| Stormers       |             8 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,21 +40,22 @@ categories: player
 | Lions                    |         4 |   0.25     |
 | Munster                  |         4 |   0        |
 | Connacht                 |         3 |   0        |
+| Eastern Province Kings   |         3 |   1        |
 | Edinburgh                |         3 |   0.333333 |
+| Ulster                   |         3 |   0        |
 | Griquas                  |         3 |   1        |
 | Hurricanes               |         3 |   0.333333 |
-| Eastern Province Kings   |         3 |   1        |
 | Scarlets                 |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   0.5      |
 | Stormers                 |         2 |   1        |
-| Ulster                   |         2 |   0        |
 | Benetton Treviso         |         2 |   0        |
-| Jaguares                 |         2 |   1        |
-| Dragons                  |         2 |   0.75     |
 | Leinster                 |         2 |   0        |
+| Dragons                  |         2 |   0.75     |
+| Jaguares                 |         2 |   1        |
 | London Irish             |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
 | Highlanders              |         1 |   0        |
+| Clermont Auvergne        |         1 |   1        |
 | Ospreys                  |         1 |   0        |
 | Chiefs                   |         1 |   0        |
 | Queensland Reds          |         1 |   1        |

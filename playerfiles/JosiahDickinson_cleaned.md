@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josiah Dickinson  
-date: 2023-01-21 15:44:01.032390  
+date: 2023-02-02 19:02:24.090203  
 categories: player  
 ---
 # Josiah Dickinson
 
 ## Positions: N8, L
 
-## Current elo: 96.0
+## Current elo: 99.0
 
-## Current Percentile: 28.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |            12 |   0.333333 |
+| Caldy  |            13 |   0.384615 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Bedford          |         2 |        0.5 |
 | Nottingham       |         2 |        0.5 |
 | Richmond         |         2 |        1   |
 | Ampthill         |         1 |        0   |
-| Bedford          |         1 |        0   |
 | Cornish Pirates  |         1 |        1   |
 | Coventry         |         1 |        0   |
 | Doncaster        |         1 |        0   |

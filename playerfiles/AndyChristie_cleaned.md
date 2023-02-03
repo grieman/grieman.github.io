@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Andy Christie  
-date: 2023-01-06 00:23:49.432468  
+date: 2023-02-02 18:55:50.681176  
 categories: player  
 ---
 # Andy Christie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 117.0
+## Current elo: 91.0
 
-## Current Percentile: 83.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |            52 |   0.740385 |
+| Saracens |            56 |   0.741071 |
 | Scotland |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -33,13 +33,14 @@ categories: player
 | Sale Sharks         |         4 |   0.75     |
 | London Irish        |         4 |   0.375    |
 | Leicester Tigers    |         4 |   0.5      |
+| Gloucester Rugby    |         4 |   0.75     |
 | Wasps               |         3 |   0.333333 |
 | Newcastle Falcons   |         3 |   1        |
 | Bath Rugby          |         3 |   1        |
-| Gloucester Rugby    |         3 |   0.666667 |
 | Argentina           |         3 |   0.666667 |
-| Edinburgh           |         2 |   0.5      |
-| Bristol Rugby       |         2 |   1        |
+| Edinburgh           |         3 |   0.333333 |
+| Bristol Rugby       |         3 |   1        |
+| Lyon                |         2 |   1        |
 | Worcester Warriors  |         2 |   0.5      |
 | France              |         1 |   0        |
 | Ealing Trailfinders |         1 |   1        |
@@ -47,7 +48,6 @@ categories: player
 | Jersey              |         1 |   1        |
 | Coventry            |         1 |   1        |
 | Cornish Pirates     |         1 |   0        |
-| Lyon                |         1 |   1        |
 | Brive               |         1 |   1        |
 | Northampton Saints  |         1 |   1        |
 | Nottingham          |         1 |   1        |

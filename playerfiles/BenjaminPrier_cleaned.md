@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benjamin Prier  
-date: 2023-01-13 11:35:05.548748  
+date: 2023-02-02 19:11:32.518341  
 categories: player  
 ---
 # Benjamin Prier
 
 ## Positions: SH
 
-## Current elo: 118.0
+## Current elo: 120.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |           138 |   0.394928 |
+| Massy  |           140 |   0.396429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         8 |   0.125    |
 | Colomiers                  |         7 |   0.285714 |
 | Soyaux-Angouleme           |         7 |   0.357143 |
+| Montauban                  |         7 |   0.142857 |
+| Mont-de-Marsan             |         7 |   0.285714 |
 | Albi                       |         6 |   0.333333 |
 | Biarritz Olympique         |         6 |   0.333333 |
 | Narbonne                   |         6 |   0.5      |
-| Montauban                  |         6 |   0        |
 | Carcassonne                |         6 |   0.833333 |
-| Mont-de-Marsan             |         6 |   0.333333 |
 | Tarbes                     |         5 |   0.6      |
 | Nevers                     |         5 |   0.2      |
 | Dax                        |         5 |   0.9      |

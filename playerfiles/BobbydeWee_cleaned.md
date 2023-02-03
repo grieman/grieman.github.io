@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Bobby de Wee  
-date: 2023-01-13 11:36:37.122939  
+date: 2023-02-02 19:11:26.601420  
 categories: player  
 ---
 # Bobby de Wee
 
 ## Positions: L
 
-## Current elo: 120.0
+## Current elo: 117.0
 
 ## Current Percentile: 92.0
 
@@ -21,22 +21,22 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
+| Ealing Trailfinders |            40 |  0.85      |
 | Southern Kings      |            39 |  0.0769231 |
-| Ealing Trailfinders |            37 |  0.864865  |
 | Golden Lions        |             8 |  0.5       |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Ampthill               |         5 |   1        |
 | Cheetahs               |         5 |   0        |
-| Ampthill               |         4 |   1        |
+| Coventry               |         5 |   0.8      |
+| Hartpury College       |         5 |   1        |
 | Benetton Treviso       |         4 |   0        |
 | Ulster                 |         4 |   0        |
 | Scarlets               |         4 |   0        |
 | Nottingham             |         4 |   1        |
-| Coventry               |         4 |   1        |
 | Doncaster              |         4 |   0.5      |
 | Jersey                 |         4 |   1        |
-| Hartpury College       |         4 |   1        |
 | Bedford                |         3 |   0.666667 |
 | Richmond               |         3 |   1        |
 | Munster                |         3 |   0        |

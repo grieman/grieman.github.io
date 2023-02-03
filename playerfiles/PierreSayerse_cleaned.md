@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Sayerse  
-date: 2023-01-27 11:07:01.044934  
+date: 2023-02-02 19:00:47.573068  
 categories: player  
 ---
 # Pierre Sayerse

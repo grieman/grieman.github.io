@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Castant  
-date: 2023-01-17 11:39:18.793160  
+date: 2023-02-02 18:55:09.029557  
 categories: player  
 ---
 # Arthur Castant
 
 ## Positions: H
 
-## Current elo: 106.0
+## Current elo: 110.0
 
-## Current Percentile: 84.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            44 |   0.715909 |
+| Albi   |            46 |   0.728261 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,12 +33,12 @@ categories: player
 | Tarbes                     |         3 |   0        |
 | Dax                        |         3 |   0.666667 |
 | Dijon                      |         3 |   1        |
+| Narbonne                   |         3 |   1        |
 | Nice                       |         3 |   0.166667 |
-| Rennes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0        |
 | Aubenas                    |         2 |   1        |
-| Narbonne                   |         2 |   1        |
+| Rennes                     |         2 |   1        |
 | Blagnac                    |         2 |   1        |
+| Carqueiranne-Hyères        |         2 |   0.5      |
 | Massy                      |         2 |   0.5      |
-| Carqueiranne-Hyères        |         1 |   0        |
 | US Bressane                |         1 |   1        |

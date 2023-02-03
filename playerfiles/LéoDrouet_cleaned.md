@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Léo Drouet  
-date: 2023-01-13 11:25:28.281566  
+date: 2023-02-02 18:50:11.449142  
 categories: player  
 ---
 # Léo Drouet
 
 ## Positions: W, FB
 
-## Current elo: 104.0
+## Current elo: 111.0
 
-## Current Percentile: 76.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            17 |   0.647059 |
+| Provence Rugby |            19 |   0.578947 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Montauban          |         4 |   0.75     |
+| Beziers            |         3 |   0.666667 |
 | Grenoble           |         3 |   0.833333 |
-| Montauban          |         3 |   1        |
-| Beziers            |         2 |   1        |
 | Biarritz Olympique |         1 |   0        |
 | Carcassonne        |         1 |   1        |
 | Colomiers          |         1 |   1        |

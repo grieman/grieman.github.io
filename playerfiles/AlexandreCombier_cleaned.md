@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alexandre Combier  
-date: 2023-01-23 15:33:11.543249  
+date: 2023-02-02 18:53:33.531758  
 categories: player  
 ---
 # Alexandre Combier
 
 ## Positions: P
 
-## Current elo: 82.0
+## Current elo: 87.0
 
 ## Current Percentile: 15.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            24 |     0.4375 |
-| Nice   |             2 |     0.5    |
+| Tarbes |            25 |       0.46 |
+| Nice   |             2 |       0.5  |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,11 +33,11 @@ categories: player
 | Bourgoin-Jallieu           |         2 |   1        |
 | Dax                        |         2 |   0        |
 | Dijon                      |         2 |   1        |
+| Rennes                     |         2 |   1        |
 | Aubenas                    |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Massy                      |         1 |   0        |
-| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
 | Suresnes                   |         1 |   0        |
 | US Bressane                |         1 |   0        |

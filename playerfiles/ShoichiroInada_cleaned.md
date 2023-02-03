@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shoichiro Inada  
-date: 2023-01-30 17:50:41.729732  
+date: 2023-02-02 19:08:06.519717  
 categories: player  
 ---
 # Shoichiro Inada

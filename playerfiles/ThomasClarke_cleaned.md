@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Clarke  
-date: 2023-01-21 15:43:02.777277  
+date: 2023-02-02 18:43:18.193474  
 categories: player  
 ---
 # Thomas Clarke
@@ -17,13 +17,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |             6 |   0.333333 |
+| Caldy  |             7 |   0.428571 |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
-| Bedford         |         1 |          0 |
-| Doncaster       |         1 |          0 |
-| Jersey          |         1 |          0 |
-| London Scottish |         1 |          0 |
-| Nottingham      |         1 |          1 |
-| Richmond        |         1 |          1 |
+| Bedford         |         2 |        0.5 |
+| Doncaster       |         1 |        0   |
+| Jersey          |         1 |        0   |
+| London Scottish |         1 |        0   |
+| Nottingham      |         1 |        1   |
+| Richmond        |         1 |        1   |

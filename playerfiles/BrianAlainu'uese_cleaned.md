@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brian Alainu'uese  
-date: 2023-01-06 00:21:30.748053  
+date: 2023-02-02 18:50:41.882942  
 categories: player  
 ---
 # Brian Alainu'uese
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 112.0
+## Current elo: 108.0
 
-## Current Percentile: 82.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Toulon           |            92 |   0.565217 |
+| Toulon           |            95 |   0.568421 |
 | Glasgow Warriors |            22 |   0.636364 |
 | Waikato          |            14 |   0.607143 |
 | Chiefs           |             2 |   0.5      |
@@ -33,14 +33,14 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Racing 92            |         9 |   0.555556 |
 | La Rochelle          |         9 |   0.222222 |
+| Brive                |         7 |   0.428571 |
 | Stade Toulousain     |         7 |   0.357143 |
 | Stade Francais Paris |         7 |   0.714286 |
 | Bayonne              |         7 |   0.571429 |
+| Pau                  |         7 |   0.928571 |
 | Lyon                 |         7 |   0.571429 |
-| Brive                |         6 |   0.5      |
 | Montpellier Herault  |         6 |   0.333333 |
 | Bordeaux Begles      |         6 |   0.5      |
-| Pau                  |         6 |   0.916667 |
 | Perpignan            |         5 |   0.6      |
 | Clermont Auvergne    |         5 |   1        |
 | Scarlets             |         4 |   0.5      |
@@ -53,12 +53,12 @@ categories: player
 | Leicester Tigers     |         2 |   1        |
 | Canterbury           |         2 |   0        |
 | Grenoble             |         2 |   0.5      |
+| Bath Rugby           |         2 |   1        |
 | Hawke's Bay          |         1 |   1        |
 | Wellington           |         1 |   1        |
 | Ulster               |         1 |   0        |
 | Tasman               |         1 |   0        |
 | Taranaki             |         1 |   0.5      |
-| Bath Rugby           |         1 |   1        |
 | Bay of Plenty        |         1 |   1        |
 | Southland            |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |

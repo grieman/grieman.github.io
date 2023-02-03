@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Martin Devergie  
-date: 2023-01-13 11:36:06.814972  
+date: 2023-02-02 19:07:49.661767  
 categories: player  
 ---
 # Martin Devergie
 
 ## Positions: N8, FL
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 33.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            70 |       0.5  |
-| Agen                |            31 |       0.5  |
-| Colomiers           |            25 |       0.58 |
+| Montpellier Herault |            70 |   0.5      |
+| Agen                |            32 |   0.515625 |
+| Colomiers           |            25 |   0.58     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,13 +42,13 @@ categories: player
 | La Rochelle          |         4 |   0.25     |
 | Vannes               |         4 |   1        |
 | Bayonne              |         4 |   0.375    |
+| Biarritz Olympique   |         4 |   0.75     |
 | Brive                |         4 |   0.75     |
 | Narbonne             |         3 |   1        |
 | Aurillac             |         3 |   0.333333 |
 | Beziers              |         3 |   0.333333 |
 | Soyaux-Angouleme     |         3 |   0.333333 |
 | Rouen                |         3 |   0.666667 |
-| Biarritz Olympique   |         3 |   0.666667 |
 | Nevers               |         3 |   0.333333 |
 | Colomiers            |         3 |   0.333333 |
 | Montauban            |         3 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jeronimo Negrotto  
-date: 2023-01-23 15:30:16.520175  
+date: 2023-02-02 18:43:53.070837  
 categories: player  
 ---
 # Jeronimo Negrotto
 
 ## Positions: P
 
-## Current elo: 77.0
+## Current elo: 79.0
 
-## Current Percentile: 15.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |            80 |   0.56875  |
-| Nice           |            32 |   0.59375  |
+| Nice           |            33 |   0.606061 |
 | Tarbes         |            23 |   0.434783 |
 | Agen           |             4 |   0.5      |
 
@@ -52,10 +52,10 @@ categories: player
 | Provence Rugby             |         3 |   0        |
 | Chambery                   |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
+| Suresnes                   |         2 |   1        |
 | Mont-de-Marsan             |         2 |   0.5      |
 | Aubenas                    |         2 |   1        |
 | Rennes                     |         1 |   1        |
-| Suresnes                   |         1 |   1        |
 | Rouen                      |         1 |   1        |
 | Agen                       |         1 |   0        |
 | Lyon                       |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kemsley Mathias  
-date: 2023-01-06 00:12:22.177148  
+date: 2023-02-02 18:45:16.398530  
 categories: player  
 ---
 # Kemsley Mathias
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 97.0
 
 ## Current Percentile: 38.0
 

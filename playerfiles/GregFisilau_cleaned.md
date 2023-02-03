@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Greg Fisilau  
-date: 2023-01-06 00:23:53.121703  
+date: 2023-02-02 18:49:09.436557  
 categories: player  
 ---
 # Greg Fisilau
 
 ## Positions: N8
 
-## Current elo: 98.0
+## Current elo: 90.0
 
-## Current Percentile: None
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,10 +21,13 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Ampthill      |             1 |          0 |
-| Exeter Chiefs |             1 |          0 |
+| Exeter Chiefs |             4 |       0.75 |
+| Ampthill      |             1 |       0    |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Jersey     |         1 |          0 |
-| Saracens   |         1 |          0 |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Castres Olympique  |         1 |          1 |
+| Gloucester Rugby   |         1 |          1 |
+| Jersey             |         1 |          0 |
+| Northampton Saints |         1 |          1 |
+| Saracens           |         1 |          0 |

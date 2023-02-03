@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Giorgi Sharashidze  
-date: 2023-01-21 15:39:32.642821  
+date: 2023-02-02 19:06:31.470689  
 categories: player  
 ---
 # Giorgi Sharashidze
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 90.0
 
-## Current Percentile: 31.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            37 |   0.283784 |
+| Cognac Saint Jean d'Angély |            38 |   0.276316 |
 | Aurillac                   |             2 |   0.5      |
 | Roval Drome XV             |             1 |   0        |
 
@@ -29,8 +29,8 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Tarbes                     |         5 |   0.1      |
 | Blagnac                    |         4 |   0.25     |
+| Chambery                   |         4 |   0.25     |
 | Dax                        |         4 |   0.75     |
-| Chambery                   |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.333333 |
 | Nice                       |         3 |   0.333333 |
 | Aubenas                    |         2 |   0.5      |

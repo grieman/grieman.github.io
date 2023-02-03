@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Bruinsma  
-date: 2023-01-21 15:39:51.665216  
+date: 2023-02-02 18:57:55.166072  
 categories: player  
 ---
 # Louis Bruinsma
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 75.0
+## Current elo: 73.0
 
 ## Current Percentile: 8.0
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            47 |   0.595745 |
+| US Bressane |            48 |   0.583333 |
 | Netherlands |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Blagnac                    |         4 |   0.75     |
 | Tarbes                     |         3 |   0.666667 |
-| Blagnac                    |         3 |   1        |
 | Narbonne                   |         3 |   0.666667 |
 | Agen                       |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   1        |

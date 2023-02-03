@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yuki Aoki  
-date: 2023-01-17 11:30:43.205359  
+date: 2023-02-02 18:55:17.555148  
 categories: player  
 ---
 # Yuki Aoki
 
 ## Positions: L
 
-## Current elo: 83.0
+## Current elo: 74.0
 
-## Current Percentile: 12.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |            34 |   0.632353 |
+| Kubota Spears Funabashi Tokyo-Bay |            35 |   0.642857 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
@@ -31,12 +31,12 @@ categories: player
 | Saitama Wild Knights             |         3 |   0        |
 | Shizuoka Blue Revs               |         3 |   0.333333 |
 | Toshiba Brave Lupus Tokyo        |         3 |   0.666667 |
+| Black Rams Tokyo                 |         2 |   1        |
 | Coca-Cola Red Sparks             |         2 |   1        |
 | Kobelco Kobe Steelers            |         2 |   0.5      |
 | Toyota Verblitz                  |         2 |   0.5      |
 | Urayasu D-Rocks                  |         2 |   1        |
 | Yokohama Canon Eagles            |         2 |   0.5      |
-| Black Rams Tokyo                 |         1 |   1        |
 | Hanazono Kintetsu Liners         |         1 |   0        |
 | Hino Red Dolphins                |         1 |   1        |
 | Tokyo Sungoliath                 |         1 |   0        |

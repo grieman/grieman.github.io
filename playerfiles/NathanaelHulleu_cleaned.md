@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nathanael Hulleu  
-date: 2023-01-13 11:34:09.978470  
+date: 2023-02-02 19:03:55.795568  
 categories: player  
 ---
 # Nathanael Hulleu
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Vannes          |            17 |   0.5      |
+| Vannes          |            18 |   0.472222 |
 | Bordeaux Begles |            14 |   0.571429 |
 | Grenoble        |             5 |   0.6      |
 
@@ -33,6 +33,7 @@ categories: player
 | Rouen                |         2 |   0.5      |
 | Racing 92            |         2 |   0        |
 | Oyonnax              |         2 |   0.5      |
+| Nevers               |         2 |   0.5      |
 | Mont-de-Marsan       |         2 |   0        |
 | Montpellier Herault  |         2 |   1        |
 | Biarritz Olympique   |         2 |   0.5      |
@@ -40,10 +41,9 @@ categories: player
 | Stade Toulousain     |         2 |   0        |
 | Grenoble             |         1 |   1        |
 | Colomiers            |         1 |   1        |
-| Clermont Auvergne    |         1 |   1        |
 | Montauban            |         1 |   0.5      |
 | Aurillac             |         1 |   0        |
-| Nevers               |         1 |   1        |
+| Clermont Auvergne    |         1 |   1        |
 | Carcassonne          |         1 |   1        |
 | Pau                  |         1 |   1        |
 | Perpignan            |         1 |   1        |

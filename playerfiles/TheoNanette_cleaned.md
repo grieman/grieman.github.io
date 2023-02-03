@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo Nanette  
-date: 2023-01-15 12:02:45.060194  
+date: 2023-02-02 19:13:58.967290  
 categories: player  
 ---
 # Theo Nanette
@@ -24,7 +24,7 @@ categories: player
 | Aurillac       |            73 |   0.589041 |
 | Grenoble       |            42 |   0.440476 |
 | Provence Rugby |            10 |   0.5      |
-| Rouen          |             6 |   0.333333 |
+| Rouen          |             7 |   0.285714 |
 | Oyonnax        |             2 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -33,10 +33,10 @@ categories: player
 | Montauban                  |         9 |   0.722222 |
 | Perpignan                  |         8 |   0.6875   |
 | Narbonne                   |         7 |   0.428571 |
+| Carcassonne                |         7 |   0.428571 |
 | Agen                       |         6 |   0.416667 |
 | Soyaux-Angouleme           |         6 |   0.666667 |
 | Biarritz Olympique         |         6 |   0.5      |
-| Carcassonne                |         6 |   0.5      |
 | Colomiers                  |         5 |   0.6      |
 | Dax                        |         5 |   0.4      |
 | Mont-de-Marsan             |         5 |   0.6      |

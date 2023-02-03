@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo Velten  
-date: 2023-01-17 11:33:11.176858  
+date: 2023-02-02 18:58:39.641176  
 categories: player  
 ---
 # Theo Velten
@@ -21,12 +21,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Chambery         |            36 |   0.527778 |
+| Chambery         |            37 |   0.540541 |
 | Soyaux-Angouleme |            30 |   0.366667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         4 |   1        |
+| Cognac Saint Jean d'Angély |         4 |   0.75     |
 | Albi                       |         3 |   0        |
 | Montauban                  |         3 |   0        |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
@@ -35,7 +36,6 @@ categories: player
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.333333 |
-| Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Nice                       |         3 |   0.666667 |
 | Soyaux-Angouleme           |         2 |   1        |
 | Rouen                      |         2 |   0        |

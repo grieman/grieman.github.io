@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sam Daly  
-date: 2023-01-23 15:32:42.480118  
+date: 2023-02-02 18:47:35.241490  
 categories: player  
 ---
 # Sam Daly
 
 ## Positions: FL
 
-## Current elo: 87.0
+## Current elo: 88.0
 
 ## Current Percentile: 21.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |             7 |   0.571429 |
+| Doncaster |             8 |      0.625 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,4 +31,5 @@ categories: player
 | Hartpury College    |         1 |          1 |
 | Jersey              |         1 |          0 |
 | London Scottish     |         1 |          1 |
+| Nottingham          |         1 |          1 |
 | Richmond            |         1 |          1 |

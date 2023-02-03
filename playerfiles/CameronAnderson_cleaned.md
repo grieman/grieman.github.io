@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Cameron Anderson  
-date: 2023-01-06 00:22:52.108161  
+date: 2023-02-02 18:47:16.586167  
 categories: player  
 ---
 # Cameron Anderson
 
 ## Positions: 
 
-## Current elo: 103.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

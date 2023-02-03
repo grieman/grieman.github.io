@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Chris Cook  
-date: 2023-01-21 15:46:16.709853  
+date: 2023-02-02 18:40:17.042216  
 categories: player  
 ---
 # Chris Cook
 
 ## Positions: SH
 
-## Current elo: 86.0
+## Current elo: 91.0
 
 ## Current Percentile: 17.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Bath Rugby    |           157 |  0.566879  |
-| Zebre         |            13 |  0.0769231 |
+| Zebre         |            14 |  0.0714286 |
 | Bristol Rugby |             2 |  0.5       |
 
 | Opponent             |   Matches |   Win Rate |
@@ -45,11 +45,11 @@ categories: player
 | Dragons              |         4 |   0.75     |
 | Glasgow Warriors     |         3 |   0.666667 |
 | Montpellier Herault  |         3 |   0.666667 |
+| Ospreys              |         3 |   0.333333 |
 | Ulster               |         3 |   0        |
 | London Welsh         |         3 |   1        |
 | Edinburgh            |         2 |   0        |
 | Clermont Auvergne    |         2 |   0        |
-| Ospreys              |         2 |   0.5      |
 | Pau                  |         2 |   1        |
 | Cardiff Blues        |         2 |   0.5      |
 | Bucuresti            |         2 |   1        |

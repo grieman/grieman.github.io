@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Bachelier  
-date: 2023-01-13 11:32:12.344444  
+date: 2023-02-02 18:53:06.986896  
 categories: player  
 ---
 # Lucas Bachelier
 
 ## Positions: FL
 
-## Current elo: 129.0
+## Current elo: 135.0
 
-## Current Percentile: 94.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            91 |   0.467033 |
+| Perpignan |            92 |   0.472826 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,16 +31,16 @@ categories: player
 | Clermont Auvergne          |         5 |   0.2      |
 | Montpellier Herault        |         4 |   0        |
 | Bordeaux Begles            |         4 |   0.625    |
-| Oyonnax                    |         4 |   0.75     |
+| Stade Francais Paris       |         4 |   0.25     |
 | Soyaux-Angouleme           |         4 |   0.875    |
+| Oyonnax                    |         4 |   0.75     |
 | Carcassonne                |         4 |   0.5      |
 | Colomiers                  |         4 |   0.5      |
-| Racing 92                  |         3 |   0.333333 |
+| Grenoble                   |         3 |   0.333333 |
 | Montauban                  |         3 |   0.666667 |
 | Pau                        |         3 |   0        |
-| Grenoble                   |         3 |   0.333333 |
 | Castres Olympique          |         3 |   0.333333 |
-| Stade Francais Paris       |         3 |   0        |
+| Racing 92                  |         3 |   0.333333 |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Provence Rugby             |         2 |   1        |
 | Nevers                     |         2 |   0.5      |

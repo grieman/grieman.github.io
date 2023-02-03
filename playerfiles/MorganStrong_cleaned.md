@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Morgan Strong  
-date: 2023-01-21 15:41:13.284800  
+date: 2023-02-02 18:50:40.864732  
 categories: player  
 ---
 # Morgan Strong
 
 ## Positions: N8
 
-## Current elo: 91.0
+## Current elo: 95.0
 
-## Current Percentile: 15.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Ampthill |             6 |       0.25 |
+| Ampthill |             7 |   0.357143 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,4 +30,5 @@ categories: player
 | Doncaster           |         1 |        0   |
 | Ealing Trailfinders |         1 |        0   |
 | Hartpury College    |         1 |        0   |
+| London Scottish     |         1 |        1   |
 | Richmond            |         1 |        0.5 |

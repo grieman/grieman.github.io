@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Darren Sweetnam  
-date: 2023-01-15 11:47:08.437238  
+date: 2023-02-02 19:09:29.045688  
 categories: player  
 ---
 # Darren Sweetnam
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 110.0
+## Current elo: 109.0
 
 ## Current Percentile: 78.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Munster     |            91 |   0.730769 |
-| Oyonnax     |            31 |   0.774194 |
+| Oyonnax     |            32 |   0.75     |
 | La Rochelle |             6 |   0.5      |
 | Ireland     |             3 |   1        |
 
@@ -56,20 +56,21 @@ categories: player
 | Racing 92                |         2 |   1        |
 | Southern Kings           |         2 |   1        |
 | Narbonne                 |         2 |   1        |
-| Soyaux-Angouleme         |         1 |   1        |
-| Fiji                     |         1 |   1        |
-| Stade Toulousain         |         1 |   1        |
 | South Africa             |         1 |   1        |
+| Fiji                     |         1 |   1        |
+| Soyaux-Angouleme         |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
+| Brive                    |         1 |   0        |
 | US Bressane              |         1 |   1        |
 | United States of America |         1 |   1        |
 | Toulon                   |         1 |   1        |
 | Castres Olympique        |         1 |   0.5      |
-| Brive                    |         1 |   0        |
 | Exeter Chiefs            |         1 |   0.5      |
 | Pau                      |         1 |   1        |
 | Clermont Auvergne        |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
 | Montauban                |         1 |   0        |
+| Mont-de-Marsan           |         1 |   0        |
 | Lyon                     |         1 |   1        |
 | Grenoble                 |         1 |   1        |
 | Gloucester Rugby         |         1 |   1        |

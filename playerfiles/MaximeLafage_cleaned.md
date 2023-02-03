@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maxime Lafage  
-date: 2023-01-13 11:32:05.617100  
+date: 2023-02-02 19:07:04.415851  
 categories: player  
 ---
 # Maxime Lafage
 
 ## Positions: FH
 
-## Current elo: 95.0
+## Current elo: 90.0
 
-## Current Percentile: 59.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Colomiers   |            52 |   0.557692 |
 | Bayonne     |            43 |   0.534884 |
 | La Rochelle |            21 |   0.761905 |
-| Vannes      |            16 |   0.53125  |
+| Vannes      |            17 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Montauban            |         5 |   0.5      |
 | Bordeaux Begles      |         5 |   0.2      |
 | Beziers              |         5 |   0.6      |
+| Nevers               |         4 |   0.375    |
 | Oyonnax              |         4 |   0.5      |
 | Aurillac             |         4 |   0.75     |
 | Stade Toulousain     |         4 |   0.5      |
@@ -45,13 +46,12 @@ categories: player
 | Massy                |         4 |   0.5      |
 | Montpellier Herault  |         4 |   0.5      |
 | Narbonne             |         4 |   0.875    |
-| Bourgoin-Jallieu     |         3 |   0.333333 |
 | Toulon               |         3 |   1        |
 | Stade Francais Paris |         3 |   0.666667 |
 | Soyaux-Angouleme     |         3 |   0.666667 |
 | Racing 92            |         3 |   1        |
 | Bayonne              |         3 |   0.333333 |
-| Nevers               |         3 |   0.5      |
+| Bourgoin-Jallieu     |         3 |   0.333333 |
 | Lyon                 |         3 |   0.666667 |
 | Grenoble             |         3 |   0.666667 |
 | Pau                  |         2 |   0        |

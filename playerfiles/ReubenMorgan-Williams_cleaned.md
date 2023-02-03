@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Reuben Morgan-Williams  
-date: 2023-01-06 00:14:36.739839  
+date: 2023-02-02 18:57:47.114108  
 categories: player  
 ---
 # Reuben Morgan-Williams
 
 ## Positions: SH
 
-## Current elo: 91.0
+## Current elo: 86.0
 
-## Current Percentile: 15.0
+## Current Percentile: 34.0
 
 # Elo History
 

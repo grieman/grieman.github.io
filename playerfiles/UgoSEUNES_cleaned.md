@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ugo SEUNES  
-date: 2023-02-02 15:50:17.130087  
+date: 2023-02-02 19:08:52.306679  
 categories: player  
 ---
 # Ugo SEUNES

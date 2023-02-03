@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffan Evans  
-date: 2023-01-06 00:24:24.041735  
+date: 2023-02-02 18:56:56.145999  
 categories: player  
 ---
 # Steffan Evans
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 113.0
+## Current elo: 112.0
 
-## Current Percentile: 78.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Scarlets |           149 |   0.553691 |
+| Scarlets |           153 |   0.565359 |
 | Wales    |            13 |   0.615385 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Cardiff Blues      |        14 |   0.428571 |
+| Cardiff Blues      |        15 |   0.466667 |
 | Benetton Treviso   |        13 |   0.846154 |
 | Ospreys            |        12 |   0.583333 |
 | Glasgow Warriors   |        11 |   0.545455 |
@@ -40,10 +40,10 @@ categories: player
 | Zebre              |         9 |   1        |
 | Toulon             |         6 |   0.166667 |
 | Leinster           |         5 |   0.4      |
+| Cheetahs           |         4 |   1        |
+| Bayonne            |         4 |   1        |
 | Racing 92          |         4 |   0        |
-| Cheetahs           |         3 |   1        |
 | Southern Kings     |         3 |   1        |
-| Bayonne            |         3 |   1        |
 | Tonga              |         2 |   1        |
 | Scotland           |         2 |   1        |
 | Saracens           |         2 |   0.25     |
@@ -51,9 +51,9 @@ categories: player
 | Lions              |         2 |   0.5      |
 | London Irish       |         2 |   1        |
 | Leicester Tigers   |         2 |   0.5      |
+| Bulls              |         2 |   0.5      |
 | Ireland            |         2 |   0        |
 | Bath Rugby         |         1 |   0        |
-| Northampton Saints |         1 |   0        |
 | La Rochelle        |         1 |   1        |
 | Samoa              |         1 |   1        |
 | Italy              |         1 |   1        |
@@ -63,6 +63,6 @@ categories: player
 | France             |         1 |   1        |
 | Stormers           |         1 |   0        |
 | England            |         1 |   0        |
-| Bulls              |         1 |   0        |
+| Northampton Saints |         1 |   0        |
 | Bordeaux Begles    |         1 |   0        |
 | Australia          |         1 |   0        |

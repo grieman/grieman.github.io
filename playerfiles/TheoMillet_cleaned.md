@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Theo Millet  
-date: 2023-01-13 11:25:06.438372  
+date: 2023-02-02 18:59:36.619361  
 categories: player  
 ---
 # Theo Millet
@@ -21,17 +21,17 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Oyonnax              |            97 |   0.654639 |
+| Oyonnax              |            99 |   0.651515 |
 | Stade Francais Paris |            25 |   0.44     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Beziers                    |         9 |   0.722222 |
+| Mont-de-Marsan             |         8 |   0.4375   |
 | Provence Rugby             |         8 |   0.75     |
-| Mont-de-Marsan             |         7 |   0.5      |
+| Nevers                     |         7 |   0.714286 |
 | Colomiers                  |         7 |   0.571429 |
 | Carcassonne                |         6 |   0.833333 |
-| Nevers                     |         6 |   0.666667 |
 | Montauban                  |         6 |   0.583333 |
 | Vannes                     |         6 |   0.666667 |
 | Biarritz Olympique         |         6 |   0.333333 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alban Conduche  
-date: 2023-01-15 11:43:36.952156  
+date: 2023-02-02 19:05:14.188833  
 categories: player  
 ---
 # Alban Conduche
 
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 84.0
 
-## Current Percentile: 9.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -22,28 +22,28 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Dijon  |            41 |  0.353659  |
-| Nice   |            15 |  0.433333  |
+| Nice   |            17 |  0.441176  |
 | Agen   |            14 |  0.0714286 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Suresnes                   |         6 |   0.5      |
 | Dax                        |         5 |   0.2      |
-| Suresnes                   |         5 |   0.4      |
 | Albi                       |         4 |   0.125    |
 | Blagnac                    |         4 |   0.75     |
-| Tarbes                     |         4 |   0.625    |
+| Bourgoin-Jallieu           |         4 |   0.25     |
 | Chambery                   |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.25     |
+| Tarbes                     |         4 |   0.625    |
 | Narbonne                   |         4 |   0.25     |
 | Aubenas                    |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | US Bressane                |         3 |   0        |
 | Nice                       |         3 |   0.333333 |
 | Massy                      |         3 |   0.333333 |
-| Bourgoin-Jallieu           |         3 |   0.333333 |
-| Gloucester Rugby           |         2 |   0        |
 | Pau                        |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
+| Gloucester Rugby           |         2 |   0        |
 | Edinburgh                  |         2 |   0        |
 | Zebre                      |         2 |   0.5      |
 | Harlequins                 |         1 |   0        |

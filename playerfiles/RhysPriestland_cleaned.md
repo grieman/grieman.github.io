@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rhys Priestland  
-date: 2023-01-13 11:36:45.651244  
+date: 2023-02-02 19:01:58.569568  
 categories: player  
 ---
 # Rhys Priestland
@@ -26,11 +26,11 @@ categories: player
 | Scarlets      |           138 |   0.48913  |
 | Bath Rugby    |           126 |   0.456349 |
 | Wales         |            58 |   0.525862 |
-| Cardiff Blues |            23 |   0.478261 |
+| Cardiff Blues |            26 |   0.461538 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Leinster             |        15 |   0.3      |
+| Leinster             |        16 |   0.28125  |
 | Leicester Tigers     |        15 |   0.533333 |
 | Ospreys              |        14 |   0.142857 |
 | Munster              |        14 |   0.142857 |
@@ -50,18 +50,18 @@ categories: player
 | Edinburgh            |         9 |   0.388889 |
 | Saracens             |         9 |   0.388889 |
 | Worcester Warriors   |         8 |   0.75     |
-| Newcastle Falcons    |         7 |   0.428571 |
+| Newcastle Falcons    |         8 |   0.5      |
 | Scarlets             |         7 |   0.285714 |
 | London Irish         |         7 |   1        |
 | England              |         7 |   0.285714 |
 | Connacht             |         7 |   0.857143 |
 | Ireland              |         6 |   0.75     |
 | New Zealand          |         6 |   0        |
+| Brive                |         6 |   0.666667 |
 | Toulon               |         6 |   0.166667 |
 | Italy                |         5 |   1        |
 | Scotland             |         5 |   1        |
 | Clermont Auvergne    |         5 |   0        |
-| Brive                |         5 |   0.8      |
 | Zebre                |         4 |   0.875    |
 | France               |         4 |   1        |
 | Aironi               |         3 |   1        |

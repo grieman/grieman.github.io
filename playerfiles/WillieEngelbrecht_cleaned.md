@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Willie Engelbrecht  
-date: 2023-01-06 00:14:29.903092  
+date: 2023-02-02 19:06:48.914399  
 categories: player  
 ---
 # Willie Engelbrecht
 
 ## Positions: N8, FL
 
-## Current elo: 106.0
+## Current elo: 101.0
 
-## Current Percentile: 70.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Pumas    |            43 |   0.372093 |
-| Stormers |            14 |   0.642857 |
+| Stormers |            18 |   0.611111 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,12 +34,15 @@ categories: player
 | Natal Sharks        |         5 |   0.2      |
 | Lions               |         3 |   0.666667 |
 | Dragons             |         2 |   1        |
-| London Irish        |         1 |   1        |
+| London Irish        |         2 |   1        |
+| Ulster              |         1 |   0        |
 | Ospreys             |         1 |   0.5      |
 | Munster             |         1 |   0        |
 | Benetton Treviso    |         1 |   0        |
+| Glasgow Warriors    |         1 |   0        |
 | Edinburgh           |         1 |   0.5      |
 | Connacht            |         1 |   1        |
+| Clermont Auvergne   |         1 |   1        |
 | Cardiff Blues       |         1 |   0        |
 | Bulls               |         1 |   1        |
 | Zebre               |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Conor Murray  
-date: 2023-01-06 00:09:02.990873  
+date: 2023-02-02 18:42:06.224041  
 categories: player  
 ---
 # Conor Murray
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 143.0
+## Current elo: 138.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Munster                 |           161 |   0.645963 |
+| Munster                 |           163 |   0.644172 |
 | Ireland                 |            97 |   0.634021 |
 | British and Irish Lions |            11 |   0.590909 |
 
@@ -60,20 +60,21 @@ categories: player
 | Harlequins               |         2 |   0.5      |
 | Wasps                    |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0.5      |
 | Stade Francais Paris     |         2 |   0.5      |
 | Samoa                    |         2 |   1        |
 | Aironi                   |         2 |   1        |
-| Russia                   |         1 |   1        |
+| Sale Sharks              |         1 |   1        |
 | Romania                  |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Perpignan                |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Bulls                    |         1 |   1        |
 | Crusaders                |         1 |   1        |
-| Stade Toulousain         |         1 |   1        |
 | New Zealand Maori        |         1 |   1        |
+| Lions                    |         1 |   1        |
 | Brive                    |         1 |   1        |
 | United States of America |         1 |   1        |
 | Exeter Chiefs            |         1 |   1        |
 | Fiji                     |         1 |   1        |
-| Sale Sharks              |         1 |   1        |
+| Russia                   |         1 |   1        |

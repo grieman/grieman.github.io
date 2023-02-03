@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aniseko Sio  
-date: 2023-01-17 11:41:22.651561  
+date: 2023-02-02 19:08:31.288228  
 categories: player  
 ---
 # Aniseko Sio
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 95.0
+## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            72 |   0.430556 |
+| Nottingham |            74 |   0.418919 |
 | Samoa      |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Doncaster           |         8 |   0.25     |
+| Doncaster           |         9 |   0.222222 |
 | Jersey              |         7 |   0.214286 |
 | Cornish Pirates     |         7 |   0.285714 |
 | Coventry            |         7 |   0.357143 |
@@ -39,9 +39,9 @@ categories: player
 | Ealing Trailfinders |         5 |   0.2      |
 | Ampthill            |         3 |   0.333333 |
 | Yorkshire Carnegie  |         3 |   0.333333 |
+| Caldy               |         2 |   0.5      |
 | Rotherham Titans    |         2 |   1        |
 | London Irish        |         1 |   0        |
-| Caldy               |         1 |   1        |
 | Newcastle Falcons   |         1 |   0        |
 | Bristol Rugby       |         1 |   0        |
 | Saracens            |         1 |   0        |

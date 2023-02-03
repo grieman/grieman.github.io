@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Killian Taofifenua  
-date: 2023-01-23 15:31:18.120747  
+date: 2023-02-02 19:08:13.855287  
 categories: player  
 ---
 # Killian Taofifenua
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Nice      |             6 |   0.666667 |
+| Nice      |             7 |   0.714286 |
 | Perpignan |             5 |   0.8      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,5 +35,6 @@ categories: player
 | Narbonne                   |         1 |          0 |
 | Rennes                     |         1 |          1 |
 | Rouen                      |         1 |          0 |
+| Suresnes                   |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          1 |
 | Vannes                     |         1 |          1 |

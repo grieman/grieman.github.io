@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Owen Farrell  
-date: 2023-01-06 00:22:29.865014  
+date: 2023-02-02 18:52:55.288192  
 categories: player  
 ---
 # Owen Farrell
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 107.0
+## Current elo: 104.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           228 |   0.804825 |
+| Saracens                |           229 |   0.805677 |
 | England                 |            97 |   0.675258 |
 | British and Irish Lions |            10 |   0.65     |
 
@@ -34,8 +34,8 @@ categories: player
 | Exeter Chiefs            |        16 |   0.6875   |
 | Australia                |        16 |   0.8125   |
 | Bath Rugby               |        16 |   0.9375   |
+| Gloucester Rugby         |        15 |   0.766667 |
 | Wasps                    |        14 |   0.857143 |
-| Gloucester Rugby         |        14 |   0.75     |
 | South Africa             |        14 |   0.321429 |
 | Leicester Tigers         |        13 |   0.730769 |
 | Sale Sharks              |        12 |   0.833333 |

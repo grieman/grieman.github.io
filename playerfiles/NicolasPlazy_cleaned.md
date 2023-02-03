@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas Plazy  
-date: 2023-01-13 11:23:07.574121  
+date: 2023-02-02 19:02:41.130289  
 categories: player  
 ---
 # Nicolas Plazy
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Beziers         |            48 |   0.479167 |
+| Beziers         |            49 |   0.489796 |
 | Colomiers       |            40 |   0.5625   |
 | Bordeaux Begles |             8 |   0.5625   |
 
@@ -36,23 +36,23 @@ categories: player
 | Biarritz Olympique         |         5 |   0.6      |
 | Oyonnax                    |         5 |   0.3      |
 | Dax                        |         4 |   0.5      |
+| Provence Rugby             |         4 |   0.5      |
 | Agen                       |         4 |   0.875    |
-| Carcassonne                |         4 |   0.25     |
 | Beziers                    |         4 |   0.25     |
-| Colomiers                  |         3 |   0.666667 |
+| Carcassonne                |         4 |   0.25     |
+| Rouen                      |         3 |   0.333333 |
 | Bayonne                    |         3 |   0.666667 |
 | Narbonne                   |         3 |   1        |
 | Nevers                     |         3 |   0.333333 |
-| Provence Rugby             |         3 |   0.333333 |
-| Rouen                      |         3 |   0.333333 |
-| Wasps                      |         2 |   1        |
+| Colomiers                  |         3 |   0.666667 |
+| Grenoble                   |         2 |   1        |
 | US Bressane                |         2 |   0        |
+| Sale Sharks                |         2 |   0.5      |
+| Wasps                      |         2 |   1        |
 | Massy                      |         2 |   1        |
 | Albi                       |         2 |   0.5      |
-| Grenoble                   |         2 |   1        |
-| Sale Sharks                |         2 |   0.5      |
+| Montpellier Herault        |         1 |   0.5      |
+| Stade Toulousain           |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | Connacht                   |         1 |   0        |
-| Stade Toulousain           |         1 |   0        |
-| Montpellier Herault        |         1 |   0.5      |
 | Bourgoin-Jallieu           |         1 |   1        |

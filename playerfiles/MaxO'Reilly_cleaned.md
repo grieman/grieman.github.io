@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max O'Reilly  
-date: 2023-01-30 11:44:25.599622  
+date: 2023-02-02 19:13:18.533706  
 categories: player  
 ---
 # Max O'Reilly
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 12.0
+## Current Percentile: 11.0
 
 # Elo History
 

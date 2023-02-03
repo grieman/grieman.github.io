@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benhard Janse van Rensburg  
-date: 2023-01-06 00:19:44.398618  
+date: 2023-02-02 18:53:17.033590  
 categories: player  
 ---
 # Benhard Janse van Rensburg
 
 ## Positions: C
 
-## Current elo: 101.0
+## Current elo: 90.0
 
-## Current Percentile: 24.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| London Irish          |            38 |   0.381579 |
+| London Irish          |            41 |   0.402439 |
 | Cheetahs              |            29 |   0.396552 |
 | Free State Cheetahs   |             7 |   0.571429 |
 | Green Rockets Tokatsu |             6 |   0        |
@@ -32,24 +32,24 @@ categories: player
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
 | Southern Kings        |         6 |   1        |
+| Bristol Rugby         |         4 |   0.5      |
 | Ospreys               |         4 |   0.25     |
-| Gloucester Rugby      |         4 |   0.125    |
+| Harlequins            |         4 |   0.5      |
 | Saracens              |         4 |   0.625    |
+| Gloucester Rugby      |         4 |   0.125    |
 | Zebre                 |         3 |   0.666667 |
-| Harlequins            |         3 |   0.333333 |
-| Worcester Warriors    |         3 |   0.666667 |
-| Blue Bulls            |         3 |   0.666667 |
-| Bristol Rugby         |         3 |   0.333333 |
-| Cardiff Blues         |         3 |   0.333333 |
 | Leicester Tigers      |         3 |   0        |
 | Northampton Saints    |         3 |   0        |
-| Ulster                |         3 |   0.166667 |
-| Edinburgh             |         3 |   0.333333 |
-| Exeter Chiefs         |         3 |   0.666667 |
 | Sale Sharks           |         3 |   0.333333 |
-| Stormers              |         2 |   0.5      |
-| Scarlets              |         2 |   0        |
+| Stormers              |         3 |   0.333333 |
+| Exeter Chiefs         |         3 |   0.666667 |
+| Edinburgh             |         3 |   0.333333 |
+| Ulster                |         3 |   0.166667 |
+| Cardiff Blues         |         3 |   0.333333 |
+| Blue Bulls            |         3 |   0.666667 |
+| Worcester Warriors    |         3 |   0.666667 |
 | Munster               |         2 |   0        |
+| Scarlets              |         2 |   0        |
 | Wasps                 |         2 |   0.25     |
 | Western Province      |         2 |   1        |
 | Newcastle Falcons     |         2 |   1        |

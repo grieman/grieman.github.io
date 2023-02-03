@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lennox Anyanwu  
-date: 2023-01-23 15:32:08.656157  
+date: 2023-02-02 18:42:59.184512  
 categories: player  
 ---
 # Lennox Anyanwu
@@ -21,17 +21,17 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Richmond        |            12 |   0.5      |
-| Harlequins      |             9 |   0.666667 |
-| London Scottish |             2 |   0        |
+| Richmond        |            12 |        0.5 |
+| Harlequins      |            10 |        0.6 |
+| London Scottish |             2 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Jersey              |         3 |   0        |
 | Nottingham          |         3 |   0.666667 |
+| London Irish        |         2 |   0.5      |
 | Hartpury College    |         2 |   0.5      |
 | London Scottish     |         2 |   1        |
-| London Irish        |         1 |   1        |
 | Saracens            |         1 |   0        |
 | Sale Sharks         |         1 |   1        |
 | Northampton Saints  |         1 |   1        |

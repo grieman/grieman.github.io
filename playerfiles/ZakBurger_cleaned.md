@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zak Burger  
-date: 2023-01-13 11:23:03.665491  
+date: 2023-02-02 18:44:43.110547  
 categories: player  
 ---
 # Zak Burger
 
 ## Positions: SH
 
-## Current elo: 112.0
+## Current elo: 106.0
 
-## Current Percentile: 80.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |            29 |   0.655172 |
+| Bulls      |            31 |   0.645161 |
 | Griquas    |            15 |   0.333333 |
 | Blue Bulls |             8 |   0.875    |
 
@@ -35,6 +35,7 @@ categories: player
 | Golden Lions        |         4 |   0.5      |
 | Lions               |         3 |   1        |
 | Free State Cheetahs |         3 |   0.333333 |
+| Scarlets            |         2 |   0.5      |
 | Ospreys             |         2 |   1        |
 | Munster             |         2 |   0.5      |
 | Benetton Treviso    |         2 |   1        |
@@ -44,7 +45,7 @@ categories: player
 | Leinster            |         2 |   0.5      |
 | Blue Bulls          |         1 |   1        |
 | Griquas             |         1 |   1        |
+| Exeter Chiefs       |         1 |   1        |
 | Edinburgh           |         1 |   1        |
-| Scarlets            |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |
 | Ulster              |         1 |   1        |

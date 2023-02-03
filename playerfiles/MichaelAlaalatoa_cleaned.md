@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2023-01-06 00:19:10.902459  
+date: 2023-02-02 18:52:12.605426  
 categories: player  
 ---
 # Michael Alaalatoa
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 108.0
+## Current elo: 92.0
 
-## Current Percentile: 62.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Crusaders                |            96 |   0.854167 |
 | Manawatu                 |            36 |   0.333333 |
-| Leinster                 |            27 |   0.851852 |
+| Leinster                 |            31 |   0.870968 |
 | Samoa                    |            13 |   0.461538 |
 | NSW Country Eagles       |             9 |   0.666667 |
 | New South Wales Waratahs |             1 |   1        |
@@ -38,59 +38,59 @@ categories: player
 | Blues                    |        11 |   1        |
 | Lions                    |         7 |   0.857143 |
 | Queensland Reds          |         6 |   1        |
+| New South Wales Waratahs |         5 |   1        |
 | Brumbies                 |         5 |   1        |
 | Bulls                    |         5 |   0.8      |
-| Melbourne Rebels         |         5 |   1        |
 | Sharks                   |         5 |   0.7      |
-| New South Wales Waratahs |         5 |   1        |
-| Northland                |         4 |   0.75     |
+| Melbourne Rebels         |         5 |   1        |
 | Taranaki                 |         4 |   0        |
 | Connacht                 |         4 |   1        |
-| Stormers                 |         3 |   0.833333 |
-| Bay of Plenty            |         3 |   0.333333 |
-| Otago                    |         3 |   0        |
-| Hawke's Bay              |         3 |   0        |
+| Northland                |         4 |   0.75     |
+| Waikato                  |         3 |   0.333333 |
+| Ulster                   |         3 |   0.666667 |
 | Tonga                    |         3 |   1        |
 | Tasman                   |         3 |   0.333333 |
-| Western Force            |         3 |   1        |
-| Jaguares                 |         3 |   1        |
-| Ulster                   |         3 |   0.666667 |
-| Waikato                  |         3 |   0.333333 |
 | Canterbury               |         3 |   0.333333 |
 | Wellington               |         3 |   0.666667 |
+| Western Force            |         3 |   1        |
+| Otago                    |         3 |   0        |
+| Bay of Plenty            |         3 |   0.333333 |
 | Southland                |         3 |   0.666667 |
-| Zebre                    |         2 |   1        |
-| Munster                  |         2 |   1        |
+| Jaguares                 |         3 |   1        |
+| Stormers                 |         3 |   0.833333 |
+| Hawke's Bay              |         3 |   0        |
+| Ospreys                  |         2 |   1        |
 | New Zealand Maori        |         2 |   0        |
+| Munster                  |         2 |   1        |
+| Zebre                    |         2 |   1        |
 | Sunwolves                |         2 |   1        |
+| Gloucester Rugby         |         2 |   1        |
 | Glasgow Warriors         |         2 |   1        |
 | Counties Manukau         |         2 |   0        |
+| Cardiff Blues            |         2 |   0.5      |
 | Brisbane City            |         2 |   0        |
 | Benetton Treviso         |         2 |   1        |
-| Southern Kings           |         1 |   1        |
+| Racing 92                |         2 |   1        |
 | Sydney Stars             |         1 |   1        |
+| Russia                   |         1 |   1        |
+| Southern Kings           |         1 |   1        |
 | Scotland                 |         1 |   0        |
 | Scarlets                 |         1 |   1        |
-| Russia                   |         1 |   1        |
-| Romania                  |         1 |   1        |
-| Racing 92                |         1 |   1        |
 | Auckland                 |         1 |   0        |
-| Queensland Country       |         1 |   1        |
-| Gloucester Rugby         |         1 |   1        |
+| Romania                  |         1 |   1        |
+| Greater Sydney Rams      |         1 |   1        |
 | British and Irish Lions  |         1 |   0        |
 | Canberra Vikings         |         1 |   1        |
-| Cardiff Blues            |         1 |   0        |
 | Cheetahs                 |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | Edinburgh                |         1 |   1        |
 | Georgia                  |         1 |   1        |
-| Greater Sydney Rams      |         1 |   1        |
-| Perth Spirit             |         1 |   1        |
 | Ireland                  |         1 |   0        |
+| Queensland Country       |         1 |   1        |
 | Italy                    |         1 |   0        |
 | Japan                    |         1 |   0        |
 | Australia                |         1 |   0        |
 | North Harbour            |         1 |   1        |
 | North Harbour Rays       |         1 |   1        |
-| Ospreys                  |         1 |   1        |
+| Perth Spirit             |         1 |   1        |
 | Melbourne Rising         |         1 |   0        |

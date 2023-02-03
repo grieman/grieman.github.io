@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mathieu Hirigoyen  
-date: 2023-01-06 00:26:22.555566  
+date: 2023-02-02 18:54:56.374226  
 categories: player  
 ---
 # Mathieu Hirigoyen
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 73.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -22,20 +22,20 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Biarritz Olympique   |            65 |   0.446154 |
-| Stade Francais Paris |             9 |   0.666667 |
+| Stade Francais Paris |            12 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Perpignan                  |         6 |   0.333333 |
+| Perpignan                  |         7 |   0.285714 |
+| Colomiers                  |         4 |   0.5      |
 | Montauban                  |         4 |   0.5      |
 | Mont-de-Marsan             |         4 |   0.5      |
-| Colomiers                  |         4 |   0.5      |
-| Pau                        |         3 |   0.333333 |
+| Castres Olympique          |         4 |   0.25     |
 | Provence Rugby             |         3 |   1        |
 | Racing 92                  |         3 |   0.666667 |
 | La Rochelle                |         3 |   0.666667 |
 | Montpellier Herault        |         3 |   0        |
-| Castres Olympique          |         3 |   0        |
+| Pau                        |         3 |   0.333333 |
 | Carcassonne                |         3 |   0.333333 |
 | Beziers                    |         3 |   0.666667 |
 | Rouen                      |         2 |   1        |
@@ -46,13 +46,13 @@ categories: player
 | Aurillac                   |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
 | Lyon                       |         2 |   0        |
+| Lions                      |         2 |   0.5      |
 | Grenoble                   |         2 |   1        |
 | Clermont Auvergne          |         2 |   0        |
 | Bordeaux Begles            |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
 | Oyonnax                    |         1 |   0        |
 | Bayonne                    |         1 |   1        |
-| Lions                      |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Brive                      |         1 |   1        |
 | Benetton Treviso           |         1 |   1        |

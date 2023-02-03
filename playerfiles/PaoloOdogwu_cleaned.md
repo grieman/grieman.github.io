@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paolo Odogwu  
-date: 2023-01-06 00:18:13.176441  
+date: 2023-02-02 18:45:36.637287  
 categories: player  
 ---
 # Paolo Odogwu
 
 ## Positions: W, C
 
-## Current elo: 102.0
+## Current elo: 93.0
 
-## Current Percentile: 24.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Wasps                |            33 |   0.560606 |
 | Sale Sharks          |            30 |   0.433333 |
-| Stade Francais Paris |             4 |   0.75     |
+| Stade Francais Paris |             7 |   0.714286 |
 | Rotherham Titans     |             3 |   0        |
 | Leicester Tigers     |             1 |   1        |
 
@@ -33,25 +33,26 @@ categories: player
 | Exeter Chiefs      |         6 |   0.333333 |
 | Worcester Warriors |         6 |   0.75     |
 | Northampton Saints |         5 |   0.2      |
-| London Irish       |         4 |   0.875    |
-| Saracens           |         4 |   0.5      |
-| Sale Sharks        |         4 |   0.25     |
 | Gloucester Rugby   |         4 |   0.5      |
 | Harlequins         |         4 |   0.25     |
-| Leicester Tigers   |         3 |   0.666667 |
-| Newcastle Falcons  |         3 |   0.333333 |
+| Saracens           |         4 |   0.5      |
+| Sale Sharks        |         4 |   0.25     |
+| London Irish       |         4 |   0.875    |
 | Bristol Rugby      |         3 |   0.666667 |
-| Cardiff Blues      |         2 |   0.5      |
-| Perpignan          |         2 |   1        |
-| Scarlets           |         2 |   0.5      |
-| Stade Toulousain   |         2 |   0.5      |
+| Newcastle Falcons  |         3 |   0.333333 |
+| Leicester Tigers   |         3 |   0.666667 |
+| Perpignan          |         3 |   0.666667 |
 | Toulon             |         2 |   0        |
-| Lions              |         1 |   0        |
+| Stade Toulousain   |         2 |   0.5      |
+| Scarlets           |         2 |   0.5      |
+| Lions              |         2 |   0.5      |
+| Cardiff Blues      |         2 |   0.5      |
+| Pau                |         1 |   1        |
 | Benetton Treviso   |         1 |   1        |
+| Racing 92          |         1 |   1        |
 | Jersey             |         1 |   0        |
 | Hartpury College   |         1 |   0        |
-| Pau                |         1 |   1        |
-| Racing 92          |         1 |   1        |
 | Bordeaux Begles    |         1 |   1        |
 | Doncaster          |         1 |   0        |
+| Castres Olympique  |         1 |   1        |
 | Munster            |         1 |   0        |

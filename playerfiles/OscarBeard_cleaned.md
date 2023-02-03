@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Oscar Beard  
-date: 2023-01-06 00:08:20.968446  
+date: 2023-02-02 18:57:14.673080  
 categories: player  
 ---
 # Oscar Beard
 
 ## Positions: W, C
 
-## Current elo: 103.0
+## Current elo: 94.0
 
-## Current Percentile: 34.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,19 +21,21 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Harlequins      |            15 |   0.466667 |
+| Harlequins      |            19 |   0.421053 |
 | London Scottish |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Bath Rugby          |         2 |        0.5 |
-| Bristol Rugby       |         2 |        0.5 |
-| London Irish        |         2 |        0.5 |
-| Sale Sharks         |         2 |        0   |
-| Wasps               |         2 |        1   |
-| Castres Olympique   |         1 |        1   |
-| Ealing Trailfinders |         1 |        0   |
-| Leicester Tigers    |         1 |        0   |
-| Northampton Saints  |         1 |        0   |
-| Saracens            |         1 |        0   |
-| Worcester Warriors  |         1 |        1   |
+| London Irish        |         3 |   0.333333 |
+| Sale Sharks         |         3 |   0        |
+| Bath Rugby          |         2 |   0.5      |
+| Bristol Rugby       |         2 |   0.5      |
+| Wasps               |         2 |   1        |
+| Castres Olympique   |         1 |   1        |
+| Ealing Trailfinders |         1 |   0        |
+| Leicester Tigers    |         1 |   0        |
+| Northampton Saints  |         1 |   0        |
+| Racing 92           |         1 |   0        |
+| Saracens            |         1 |   0        |
+| Sharks              |         1 |   1        |
+| Worcester Warriors  |         1 |   1        |

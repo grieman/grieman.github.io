@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: John-Charles Astle  
-date: 2023-01-13 11:31:55.981272  
+date: 2023-02-02 19:09:27.962067  
 categories: player  
 ---
 # John-Charles Astle
 
 ## Positions: L
 
-## Current elo: 47.0
+## Current elo: 51.0
 
 ## Current Percentile: 0.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Rouen            |            44 |   0.397727 |
+| Rouen            |            46 |   0.402174 |
 | Southern Kings   |            43 |   0.104651 |
 | Mont-de-Marsan   |            35 |   0.514286 |
 | Boland Cavaliers |            19 |   0.447368 |
@@ -29,13 +29,13 @@ categories: player
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Carcassonne                |         8 |   0.25     |
 | Grenoble                   |         7 |   0.285714 |
-| Carcassonne                |         7 |   0.285714 |
 | Oyonnax                    |         6 |   0.5      |
 | Beziers                    |         6 |   0.666667 |
 | Colomiers                  |         6 |   0.166667 |
+| Soyaux-Angouleme           |         6 |   0.666667 |
 | Cheetahs                   |         5 |   0        |
-| Soyaux-Angouleme           |         5 |   0.6      |
 | Pumas                      |         5 |   0.4      |
 | Montauban                  |         5 |   0.6      |
 | Aurillac                   |         5 |   0.4      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William Maisey  
-date: 2023-01-21 15:44:46.343928  
+date: 2023-02-02 19:06:11.458755  
 categories: player  
 ---
 # William Maisey
@@ -21,15 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Bedford  |            38 |   0.447368 |
-| Coventry |            21 |   0.52381  |
+| Bedford  |            40 |    0.45    |
+| Coventry |            21 |    0.52381 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         6 |   0.5      |
 | Doncaster           |         6 |   0.5      |
 | Jersey              |         6 |   0.5      |
 | Nottingham          |         6 |   0.583333 |
-| Cornish Pirates     |         5 |   0.4      |
 | Ealing Trailfinders |         5 |   0.1      |
 | Hartpury College    |         5 |   0.8      |
 | London Scottish     |         5 |   0.8      |
@@ -37,7 +37,7 @@ categories: player
 | Ampthill            |         4 |   0.75     |
 | Coventry            |         4 |   0        |
 | Yorkshire Carnegie  |         3 |   0.666667 |
+| Caldy               |         2 |   0.5      |
 | Newcastle Falcons   |         2 |   0        |
 | Bedford             |         1 |   1        |
-| Caldy               |         1 |   1        |
 | Saracens            |         1 |   0        |

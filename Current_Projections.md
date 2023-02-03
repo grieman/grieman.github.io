@@ -8,23 +8,23 @@ key: page-projections
 ## Rugby Europe Championship
 
 
-[2023-02-04 Belgium (~851.76) at Portugal (~1171.1)](projections//2023-02-04-Portugal-Belgium)
+[2023-02-04 Belgium (~853.22) at Portugal (~1173.24)](projections//2023-02-04-Portugal-Belgium)
 
 2023-02-04 Poland at Romania
 
-[2023-02-05 Germany (~871.45) at Georgia (~1451.37)](projections//2023-02-05-Georgia-Germany)
+[2023-02-05 Germany (~875.87) at Georgia (~1444.22)](projections//2023-02-05-Georgia-Germany)
 
-[2023-02-05 Netherlands (~697.54) at Spain (~1259.19)](projections//2023-02-05-Spain-Netherlands)
+[2023-02-05 Netherlands (~705.71) at Spain (~1261.88)](projections//2023-02-05-Spain-Netherlands)
 ## Six Nations
 
 
-[2023-02-05 France (~1742.71) at Italy (~1390.37)](projections//2023-02-05-Italy-France)
+[2023-02-05 France (~1744.99) at Italy (~1391.66)](projections//2023-02-05-Italy-France)
 ## Six Nations Championship
 
 
-[2023-02-04 Ireland (~1832.23) at Wales (~1640.31)](projections//2023-02-04-Wales-Ireland)
+[2023-02-04 Ireland (~1827.84) at Wales (~1635.44)](projections//2023-02-04-Wales-Ireland)
 
-[2023-02-04 Scotland (~1560.57) at England (~1763.97)](projections//2023-02-04-England-Scotland)
+[2023-02-04 Scotland (~1558.47) at England (~1765.21)](projections//2023-02-04-England-Scotland)
 # Professional Leagues
 
 ## Japan Rugby League One
@@ -38,17 +38,17 @@ Last Round Accuracy: 1 of 6 (16.67%)
 
 Last Round Error: 5.2 points per match
 
-[2023-02-04 Kubota Spears Funabashi Tokyo-Bay (~1763.59) at Toyota Verblitz (~1711.67)](projections//2023-02-04-ToyotaVerblitz-KubotaSpearsFunabashiTokyo-Bay)
+[2023-02-04 Kubota Spears Funabashi Tokyo-Bay (~1767.3) at Toyota Verblitz (~1709.82)](projections//2023-02-04-ToyotaVerblitz-KubotaSpearsFunabashiTokyo-Bay)
 
-[2023-02-04 Black Rams Tokyo (~1476.44) at Yokohama Canon Eagles (~1714.44)](projections//2023-02-04-YokohamaCanonEagles-BlackRamsTokyo)
+[2023-02-04 Black Rams Tokyo (~1474.84) at Yokohama Canon Eagles (~1712.37)](projections//2023-02-04-YokohamaCanonEagles-BlackRamsTokyo)
 
-[2023-02-05 Tokyo Sungoliath (~1909.7) at Toshiba Brave Lupus Tokyo (~1803.42)](projections//2023-02-05-ToshibaBraveLupusTokyo-TokyoSungoliath)
+[2023-02-05 Tokyo Sungoliath (~1906.77) at Toshiba Brave Lupus Tokyo (~1802.37)](projections//2023-02-05-ToshibaBraveLupusTokyo-TokyoSungoliath)
 
-[2023-02-05 Saitama Wild Knights (~2074.99) at Green Rockets Tokatsu (~1281.44)](projections//2023-02-05-GreenRocketsTokatsu-SaitamaWildKnights)
+[2023-02-05 Saitama Wild Knights (~2071.53) at Green Rockets Tokatsu (~1284.32)](projections//2023-02-05-GreenRocketsTokatsu-SaitamaWildKnights)
 
-[2023-02-05 Shizuoka Blue Revs (~1563.92) at Hanazono Kintetsu Liners (~1531.47)](projections//2023-02-05-HanazonoKintetsuLiners-ShizuokaBlueRevs)
+[2023-02-05 Shizuoka Blue Revs (~1562.44) at Hanazono Kintetsu Liners (~1528.18)](projections//2023-02-05-HanazonoKintetsuLiners-ShizuokaBlueRevs)
 
-[2023-02-05 Kobelco Kobe Steelers (~1680.79) at Mitsubishi Dynaboars (~1654.8)](projections//2023-02-05-MitsubishiDynaboars-KobelcoKobeSteelers)
+[2023-02-05 Kobelco Kobe Steelers (~1681.99) at Mitsubishi Dynaboars (~1662.12)](projections//2023-02-05-MitsubishiDynaboars-KobelcoKobeSteelers)
 ## Japan Rugby League One Division 2
 
 
@@ -60,11 +60,11 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 24.6 points per match
 
-[2023-02-04 Shimizu Blue Sharks (~980.89) at Hino Red Dolphins (~1333.74)](projections//2023-02-04-HinoRedDolphins-ShimizuBlueSharks)
+[2023-02-04 Shimizu Blue Sharks (~973.18) at Hino Red Dolphins (~1333.14)](projections//2023-02-04-HinoRedDolphins-ShimizuBlueSharks)
 
-[2023-02-05 Kamaishi Seawaves (~1013.09) at Urayasu D-Rocks (~1652.01)](projections//2023-02-05-UrayasuD-Rocks-KamaishiSeawaves)
+[2023-02-05 Kamaishi Seawaves (~1014.67) at Urayasu D-Rocks (~1650.79)](projections//2023-02-05-UrayasuD-Rocks-KamaishiSeawaves)
 
-[2023-02-05 Toyota Industries Shuttles Aichi (~1373.31) at Mie Honda Heat (~1514.56)](projections//2023-02-05-MieHondaHeat-ToyotaIndustriesShuttlesAichi)
+[2023-02-05 Toyota Industries Shuttles Aichi (~1368.41) at Mie Honda Heat (~1517.76)](projections//2023-02-05-MieHondaHeat-ToyotaIndustriesShuttlesAichi)
 ## Pro D2
 
 
@@ -76,23 +76,23 @@ Last Round Accuracy: 2 of 8 (25.0%)
 
 Last Round Error: 11.89 points per match
 
-[2023-02-02 Oyonnax (~1515.83) at Rouen (~1367.64)](projections//2023-02-02-Rouen-Oyonnax)
+[2023-02-02 Oyonnax (~1517.08) at Rouen (~1370.16)](projections//2023-02-02-Rouen-Oyonnax)
 
-[2023-02-03 Aurillac (~1369.85) at Nevers (~1481.97)](projections//2023-02-03-Nevers-Aurillac)
+[2023-02-03 Aurillac (~1367.8) at Nevers (~1479.59)](projections//2023-02-03-Nevers-Aurillac)
 
-[2023-02-03 Agen (~1348.09) at Grenoble (~1495.5)](projections//2023-02-03-Grenoble-Agen)
+[2023-02-03 Agen (~1349.07) at Grenoble (~1493.28)](projections//2023-02-03-Grenoble-Agen)
 
-[2023-02-03 Colomiers (~1450.75) at Montauban (~1447.11)](projections//2023-02-03-Montauban-Colomiers)
+[2023-02-03 Colomiers (~1454.38) at Montauban (~1449.93)](projections//2023-02-03-Montauban-Colomiers)
 
-[2023-02-03 Provence Rugby (~1376.75) at Mont-de-Marsan (~1538.16)](projections//2023-02-03-Mont-de-Marsan-ProvenceRugby)
+[2023-02-03 Provence Rugby (~1377.93) at Mont-de-Marsan (~1539.5)](projections//2023-02-03-Mont-de-Marsan-ProvenceRugby)
 
-[2023-02-03 Carcassonne (~1389.53) at Massy (~1422.75)](projections//2023-02-03-Massy-Carcassonne)
+[2023-02-03 Carcassonne (~1387.07) at Massy (~1424.9)](projections//2023-02-03-Massy-Carcassonne)
 
-[2023-02-03 Soyaux-Angouleme (~1331.46) at Beziers (~1434.02)](projections//2023-02-03-Beziers-Soyaux-Angouleme)
+[2023-02-03 Soyaux-Angouleme (~1327.75) at Beziers (~1436.12)](projections//2023-02-03-Beziers-Soyaux-Angouleme)
 
-[2023-02-03 Vannes (~1410.28) at Biarritz Olympique (~1502.27)](projections//2023-02-03-BiarritzOlympique-Vannes)
+[2023-02-03 Vannes (~1411.61) at Biarritz Olympique (~1502.45)](projections//2023-02-03-BiarritzOlympique-Vannes)
 
-[2023-02-09 Biarritz Olympique (~1436.82) at Oyonnax (~1584.95)](projections//2023-02-09-Oyonnax-BiarritzOlympique)
+[2023-02-09 Biarritz Olympique (~1437.17) at Oyonnax (~1585.24)](projections//2023-02-09-Oyonnax-BiarritzOlympique)
 ## Top 14 Orange
 
 
@@ -104,19 +104,19 @@ Last Round Accuracy: 5 of 7 (71.43%)
 
 Last Round Error: 21.69 points per match
 
-[2023-02-04 Toulon (~1629.71) at Montpellier Herault (~1675.63)](projections//2023-02-04-MontpellierHerault-Toulon)
+[2023-02-04 Toulon (~1631.4) at Montpellier Herault (~1674.79)](projections//2023-02-04-MontpellierHerault-Toulon)
 
-[2023-02-04 Lyon (~1600.89) at La Rochelle (~1726.9)](projections//2023-02-04-LaRochelle-Lyon)
+[2023-02-04 Lyon (~1602.12) at La Rochelle (~1727.27)](projections//2023-02-04-LaRochelle-Lyon)
 
-[2023-02-04 Racing 92 (~1676.01) at Pau (~1555.65)](projections//2023-02-04-Pau-Racing92)
+[2023-02-04 Racing 92 (~1674.91) at Pau (~1556.14)](projections//2023-02-04-Pau-Racing92)
 
-[2023-02-04 Perpignan (~1486.45) at Brive (~1556.17)](projections//2023-02-04-Brive-Perpignan)
+[2023-02-04 Perpignan (~1483.79) at Brive (~1553.28)](projections//2023-02-04-Brive-Perpignan)
 
-[2023-02-04 Castres Olympique (~1606.85) at Clermont Auvergne (~1696.84)](projections//2023-02-04-ClermontAuvergne-CastresOlympique)
+[2023-02-04 Castres Olympique (~1604.55) at Clermont Auvergne (~1692.02)](projections//2023-02-04-ClermontAuvergne-CastresOlympique)
 
-[2023-02-04 Bayonne (~1506.93) at Stade Toulousain (~1785.16)](projections//2023-02-04-StadeToulousain-Bayonne)
+[2023-02-04 Bayonne (~1504.44) at Stade Toulousain (~1788.52)](projections//2023-02-04-StadeToulousain-Bayonne)
 
-[2023-02-05 Bordeaux Begles (~1607.81) at Stade Francais Paris (~1631.39)](projections//2023-02-05-StadeFrancaisParis-BordeauxBegles)
+[2023-02-05 Bordeaux Begles (~1611.48) at Stade Francais Paris (~1630.48)](projections//2023-02-05-StadeFrancaisParis-BordeauxBegles)
 ## United Rugby Championship
 
 
@@ -128,7 +128,7 @@ Last Round Accuracy: 8 of 8 (100.0%)
 
 Last Round Error: 12.9 points per match
 
-[2023-02-04 Stormers (~1674.39) at Sharks (~1693.5)](projections//2023-02-04-Sharks-Stormers)
+[2023-02-04 Stormers (~1672.45) at Sharks (~1693.84)](projections//2023-02-04-Sharks-Stormers)
 # Domestic Leagues
 
 ## Japan Rugby League One Division 3
@@ -142,6 +142,6 @@ Last Round Accuracy: 1 of 3 (33.33%)
 
 Last Round Error: 21.87 points per match
 
-[2023-02-04 Skyactivs Hiroshima (~719.81) at Kyuden Voltex (~1125.73)](projections//2023-02-04-KyudenVoltex-SkyactivsHiroshima)
+[2023-02-04 Skyactivs Hiroshima (~715.98) at Kyuden Voltex (~1127.6)](projections//2023-02-04-KyudenVoltex-SkyactivsHiroshima)
 
-[2023-02-05 Chugoku Red Regulions (~819.26) at Kurita Water Gush (~1056.68)](projections//2023-02-05-KuritaWaterGush-ChugokuRedRegulions)
+[2023-02-05 Chugoku Red Regulions (~817.48) at Kurita Water Gush (~1051.24)](projections//2023-02-05-KuritaWaterGush-ChugokuRedRegulions)

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain DURAND  
-date: 2023-02-02 15:50:26.119463  
+date: 2023-02-02 18:46:25.727795  
 categories: player  
 ---
 # Romain DURAND

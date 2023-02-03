@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Spring  
-date: 2023-01-06 00:21:27.713985  
+date: 2023-02-02 19:13:29.163576  
 categories: player  
 ---
 # Max Spring
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 100.0
+## Current elo: 91.0
 
-## Current Percentile: 32.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            25 |       0.54 |
-| France    |             1 |       1    |
+| Racing 92 |            28 |   0.553571 |
+| France    |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -34,12 +34,13 @@ categories: player
 | Brive                |         2 |   0.5      |
 | Castres Olympique    |         2 |   0.75     |
 | Clermont Auvergne    |         2 |   0.5      |
+| La Rochelle          |         2 |   0.5      |
+| Leinster             |         2 |   0        |
 | Montpellier Herault  |         2 |   0.5      |
 | Pau                  |         2 |   1        |
 | Perpignan            |         2 |   1        |
 | Bayonne              |         1 |   0        |
+| Harlequins           |         1 |   1        |
 | Japan                |         1 |   1        |
-| La Rochelle          |         1 |   0        |
-| Leinster             |         1 |   0        |
 | Lyon                 |         1 |   1        |
 | Toulon               |         1 |   1        |

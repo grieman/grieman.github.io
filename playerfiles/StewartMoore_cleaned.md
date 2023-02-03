@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Stewart Moore  
-date: 2023-01-06 00:18:18.225054  
+date: 2023-02-02 19:03:06.692479  
 categories: player  
 ---
 # Stewart Moore
 
 ## Positions: C, FB
 
-## Current elo: 126.0
+## Current elo: 121.0
 
-## Current Percentile: 96.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,25 +21,25 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Ulster |            38 |   0.710526 |
+| Ulster |            41 |   0.682927 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Leinster         |         4 |       0.25 |
-| Munster          |         4 |       0.5  |
-| Zebre            |         4 |       1    |
-| Connacht         |         3 |       1    |
-| Dragons          |         3 |       1    |
-| Edinburgh        |         2 |       1    |
-| Glasgow Warriors |         2 |       1    |
-| Lions            |         2 |       1    |
-| Cardiff Blues    |         2 |       1    |
-| Ospreys          |         2 |       0.5  |
-| Stormers         |         2 |       0    |
-| Benetton Treviso |         2 |       1    |
-| Cheetahs         |         1 |       1    |
-| La Rochelle      |         1 |       0    |
-| Bulls            |         1 |       0    |
-| Sale Sharks      |         1 |       0    |
-| Scarlets         |         1 |       1    |
-| Sharks           |         1 |       1    |
+| Leinster         |         4 |   0.25     |
+| Munster          |         4 |   0.5      |
+| Zebre            |         4 |   1        |
+| Connacht         |         3 |   1        |
+| Dragons          |         3 |   1        |
+| Stormers         |         3 |   0.333333 |
+| Benetton Treviso |         3 |   0.666667 |
+| Edinburgh        |         2 |   1        |
+| Glasgow Warriors |         2 |   1        |
+| La Rochelle      |         2 |   0        |
+| Lions            |         2 |   1        |
+| Cardiff Blues    |         2 |   1        |
+| Ospreys          |         2 |   0.5      |
+| Cheetahs         |         1 |   1        |
+| Bulls            |         1 |   0        |
+| Sale Sharks      |         1 |   0        |
+| Scarlets         |         1 |   1        |
+| Sharks           |         1 |   1        |

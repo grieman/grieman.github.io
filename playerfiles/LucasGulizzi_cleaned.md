@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Gulizzi  
-date: 2023-01-17 11:44:33.173165  
+date: 2023-02-02 18:49:08.452534  
 categories: player  
 ---
 # Lucas Gulizzi
 
 ## Positions: FL
 
-## Current elo: 59.0
+## Current elo: 53.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            25 |       0.12 |
+| Cognac Saint Jean d'Angély |            26 |   0.115385 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Suresnes                   |         3 |        0   |
 | Albi                       |         2 |        0   |
-| Dax                        |         2 |        0.5 |
+| Chambery                   |         2 |        0   |
 | Tarbes                     |         2 |        0   |
+| Dax                        |         2 |        0.5 |
 | Valence Romans Drome Rugby |         2 |        0   |
 | Bourgoin-Jallieu           |         2 |        0   |
 | Blagnac                    |         2 |        0.5 |
-| Chambery                   |         1 |        0   |
 | Carqueiranne-Hyères        |         1 |        0   |
 | Dijon                      |         1 |        1   |
 | Aubenas                    |         1 |        0   |

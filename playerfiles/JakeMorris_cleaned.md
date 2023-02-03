@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake Morris  
-date: 2023-01-21 15:44:37.876248  
+date: 2023-02-02 19:10:40.512554  
 categories: player  
 ---
 # Jake Morris
 
-## Positions: W
+## Positions: W, FB
 
-## Current elo: 79.0
+## Current elo: 66.0
 
-## Current Percentile: 6.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,19 +21,20 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |             8 |        0.5 |
+| Hartpury College |            10 |        0.5 |
 | Gloucester Rugby |             4 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ealing Trailfinders |         2 |          0 |
 | Newcastle Falcons   |         2 |          0 |
 | Ampthill            |         1 |          0 |
 | Coventry            |         1 |          1 |
 | Doncaster           |         1 |          1 |
-| Ealing Trailfinders |         1 |          0 |
 | Harlequins          |         1 |          0 |
 | Leinster            |         1 |          0 |
 | London Scottish     |         1 |          1 |
 | Nottingham          |         1 |          0 |
+| Richmond            |         1 |          1 |
 | Sale Sharks         |         1 |          0 |
 | Yorkshire Carnegie  |         1 |          1 |

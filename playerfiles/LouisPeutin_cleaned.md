@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Louis Peutin  
-date: 2023-01-15 12:01:40.518377  
+date: 2023-02-02 19:07:48.639169  
 categories: player  
 ---
 # Louis Peutin
 
 ## Positions: SH
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 24.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |             3 |          0 |
+| Nice   |             5 |        0.2 |
 
-| Opponent    |   Matches |   Win Rate |
-|:------------|----------:|-----------:|
-| Chambery    |         1 |          0 |
-| Dax         |         1 |          0 |
-| US Bressane |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Bourgoin-Jallieu |         1 |          0 |
+| Chambery         |         1 |          0 |
+| Dax              |         1 |          0 |
+| Suresnes         |         1 |          1 |
+| US Bressane      |         1 |          0 |

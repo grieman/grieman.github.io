@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Corentin Penc'hoat  
-date: 2023-01-23 15:32:43.580644  
+date: 2023-02-02 18:42:11.528513  
 categories: player  
 ---
 # Corentin Penc'hoat
 
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 97.0
 
-## Current Percentile: 37.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |             5 |        0.5 |
+| Blagnac |             6 |   0.583333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Tarbes                     |         2 |       0.75 |
+| US Bressane                |         2 |       0.5  |
 | Albi                       |         1 |       1    |
-| US Bressane                |         1 |       0    |
 | Valence Romans Drome Rugby |         1 |       0    |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jake Holcombe  
-date: 2023-01-13 11:36:38.123540  
+date: 2023-02-02 18:40:25.504100  
 categories: player  
 ---
 # Jake Holcombe
 
 ## Positions: N8
 
-## Current elo: 94.0
+## Current elo: 92.0
 
 ## Current Percentile: 37.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |             7 |   0.571429 |
+| Hartpury College |            10 |        0.6 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ampthill            |         1 |          1 |
-| Caldy               |         1 |          1 |
-| Coventry            |         1 |          1 |
-| Doncaster           |         1 |          0 |
-| Ealing Trailfinders |         1 |          0 |
-| London Scottish     |         1 |          1 |
-| Richmond            |         1 |          0 |
+| Doncaster           |         2 |        0.5 |
+| Ealing Trailfinders |         2 |        0   |
+| Richmond            |         2 |        0.5 |
+| Ampthill            |         1 |        1   |
+| Caldy               |         1 |        1   |
+| Coventry            |         1 |        1   |
+| London Scottish     |         1 |        1   |

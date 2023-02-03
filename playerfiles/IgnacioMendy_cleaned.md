@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ignacio Mendy  
-date: 2023-01-15 11:52:15.860912  
+date: 2023-02-02 19:06:40.457629  
 categories: player  
 ---
 # Ignacio Mendy
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,10 +23,10 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |             8 |        0.5 |
-| Jaguares XV      |             8 |        0.5 |
-| Los Tilos        |             3 |        0   |
-| Argentina        |             1 |        0   |
+| Benetton Treviso |             9 |   0.444444 |
+| Jaguares XV      |             8 |   0.5      |
+| Los Tilos        |             3 |   0        |
+| Argentina        |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -41,6 +41,7 @@ categories: player
 | Connacht         |         1 |        0   |
 | Dragons          |         1 |        1   |
 | Leinster         |         1 |        0   |
+| Munster          |         1 |        0   |
 | Newman           |         1 |        0   |
 | Pucara           |         1 |        0   |
 | Scarlets         |         1 |        1   |

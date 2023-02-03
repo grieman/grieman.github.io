@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordi Murphy  
-date: 2023-01-06 00:19:16.153214  
+date: 2023-02-02 19:05:40.567538  
 categories: player  
 ---
 # Jordi Murphy
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 117.0
+## Current elo: 122.0
 
-## Current Percentile: 86.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leinster |           112 |   0.71875  |
-| Ulster   |            52 |   0.653846 |
+| Ulster   |            54 |   0.666667 |
 | Ireland  |            31 |   0.806452 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,8 +41,8 @@ categories: player
 | Ulster                   |         8 |   0.75     |
 | Zebre                    |         7 |   1        |
 | Leinster                 |         6 |   0.166667 |
-| Italy                    |         5 |   1        |
 | Bath Rugby               |         5 |   0.8      |
+| Italy                    |         5 |   1        |
 | Wales                    |         4 |   0.5      |
 | Toulon                   |         4 |   0        |
 | Clermont Auvergne        |         3 |   0.333333 |
@@ -54,18 +54,19 @@ categories: player
 | Montpellier Herault      |         3 |   0.666667 |
 | Australia                |         3 |   0.666667 |
 | England                  |         3 |   0.666667 |
-| South Africa             |         2 |   0.5      |
+| Stormers                 |         2 |   0.5      |
 | Castres Olympique        |         2 |   1        |
 | New Zealand              |         2 |   1        |
 | Leicester Tigers         |         2 |   1        |
 | Cheetahs                 |         2 |   0.5      |
 | France                   |         2 |   1        |
+| South Africa             |         2 |   0.5      |
 | United States of America |         1 |   1        |
 | Stade Toulousain         |         1 |   0        |
-| Stormers                 |         1 |   0        |
 | Romania                  |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Saracens                 |         1 |   1        |
+| Sale Sharks              |         1 |   1        |
 | Russia                   |         1 |   1        |
 | Bulls                    |         1 |   0        |
 | Fiji                     |         1 |   1        |

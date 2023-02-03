@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Carlo Tizzano  
-date: 2023-01-21 15:40:02.151489  
+date: 2023-02-02 18:52:11.850426  
 categories: player  
 ---
 # Carlo Tizzano
 
 ## Positions: FL
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 60.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
 | New South Wales Waratahs |            18 |   0.166667 |
-| Ealing Trailfinders      |            11 |   1        |
+| Ealing Trailfinders      |            13 |   0.923077 |
 | Western Force            |             5 |   0.8      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -32,12 +32,12 @@ categories: player
 | Melbourne Rebels   |         3 |   0.333333 |
 | Brumbies           |         3 |   0        |
 | Crusaders          |         2 |   0        |
+| Hartpury College   |         2 |   1        |
 | Fijian Drua        |         2 |   1        |
 | Ampthill           |         2 |   1        |
-| Coventry           |         1 |   1        |
+| Coventry           |         2 |   0.5      |
 | Doncaster          |         1 |   1        |
 | Cornish Pirates    |         1 |   1        |
-| Hartpury College   |         1 |   1        |
 | Bedford            |         1 |   1        |
 | Hurricanes         |         1 |   0        |
 | Jersey             |         1 |   1        |

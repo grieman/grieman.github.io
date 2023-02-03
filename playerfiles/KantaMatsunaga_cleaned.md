@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kanta Matsunaga  
-date: 2023-01-13 11:33:23.979638  
+date: 2023-02-02 18:48:17.910117  
 categories: player  
 ---
 # Kanta Matsunaga
 
 ## Positions: W
 
-## Current elo: 95.0
+## Current elo: 88.0
 
 ## Current Percentile: 48.0
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             3 |   0.666667 |
+| Kobelco Kobe Steelers |             5 |        0.4 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Green Rockets Tokatsu    |         1 |          1 |
 | Hanazono Kintetsu Liners |         1 |          1 |
+| Tokyo Sungoliath         |         1 |          0 |
+| Toyota Verblitz          |         1 |          0 |
 | Yokohama Canon Eagles    |         1 |          0 |

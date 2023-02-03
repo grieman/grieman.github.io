@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shaun Adendorff  
-date: 2023-01-15 11:48:32.432491  
+date: 2023-02-02 18:46:23.612349  
 categories: player  
 ---
 # Shaun Adendorff
@@ -21,16 +21,16 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Aurillac           |            32 |   0.5625   |
-| Nevers             |            32 |   0.484375 |
-| Northampton Saints |            16 |   0.4375   |
-| Blue Bulls         |             5 |   0.6      |
-| Boland Cavaliers   |             5 |   0.2      |
-| Bulls              |             4 |   0.5      |
+| Nevers             |            33 |     0.5    |
+| Aurillac           |            32 |     0.5625 |
+| Northampton Saints |            16 |     0.4375 |
+| Blue Bulls         |             5 |     0.6    |
+| Boland Cavaliers   |             5 |     0.2    |
+| Bulls              |             4 |     0.5    |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Vannes              |         6 |   0.333333 |
+| Vannes              |         7 |   0.428571 |
 | Provence Rugby      |         6 |   0.666667 |
 | Oyonnax             |         6 |   0.5      |
 | Montauban           |         5 |   0.4      |

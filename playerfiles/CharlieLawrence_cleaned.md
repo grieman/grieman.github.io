@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charlie Lawrence  
-date: 2023-01-15 11:50:29.409381  
+date: 2023-02-02 19:02:52.054412  
 categories: player  
 ---
 # Charlie Lawrence
 
 ## Positions: C
 
-## Current elo: 118.0
+## Current elo: 127.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Toyota Verblitz       |            12 |   0.583333 |
+| Toyota Verblitz       |            13 |   0.615385 |
 | Kobelco Kobe Steelers |             1 |   1        |
 
 | Opponent                        |   Matches |   Win Rate |
@@ -31,6 +31,7 @@ categories: player
 | Saitama Wild Knights            |         2 |        0   |
 | Toshiba Brave Lupus Tokyo       |         2 |        0.5 |
 | Green Rockets Tokatsu           |         1 |        1   |
+| Kobelco Kobe Steelers           |         1 |        1   |
 | Shizuoka Blue Revs              |         1 |        1   |
 | Tokyo Sungoliath                |         1 |        0   |
 | Urayasu D-Rocks                 |         1 |        1   |

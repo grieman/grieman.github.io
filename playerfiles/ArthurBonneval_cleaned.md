@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Bonneval  
-date: 2023-01-23 15:35:39.271095  
+date: 2023-02-02 19:01:53.145866  
 categories: player  
 ---
 # Arthur Bonneval
 
 ## Positions: W
 
-## Current elo: 100.0
+## Current elo: 94.0
 
-## Current Percentile: 43.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |            80 |     0.6125 |
-| Brive            |             1 |     1      |
+| Brive            |             2 |     0.5    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,10 +32,10 @@ categories: player
 | Montpellier Herault  |         6 |   0.5      |
 | Agen                 |         5 |   1        |
 | Brive                |         5 |   0.8      |
+| Bayonne              |         5 |   0.2      |
 | Pau                  |         5 |   0.6      |
 | Clermont Auvergne    |         4 |   0.375    |
 | Perpignan            |         4 |   0.75     |
-| Bayonne              |         4 |   0.25     |
 | Lyon                 |         4 |   0.5      |
 | Bordeaux Begles      |         3 |   0.666667 |
 | Toulon               |         3 |   0.166667 |

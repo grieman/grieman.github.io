@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George Nott  
-date: 2023-01-06 00:13:23.451848  
+date: 2023-02-02 19:00:58.542614  
 categories: player  
 ---
 # George Nott
 
 ## Positions: L
 
-## Current elo: 95.0
+## Current elo: 79.0
 
-## Current Percentile: 22.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------|--------------:|-----------:|
 | London Irish |            54 |   0.324074 |
 | Sale Sharks  |            43 |   0.488372 |
-| Dragons      |             4 |   0.25     |
+| Dragons      |             8 |   0.25     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,22 +33,25 @@ categories: player
 | Wasps              |         7 |   0.642857 |
 | Northampton Saints |         7 |   0.142857 |
 | Bath Rugby         |         7 |   0.428571 |
-| Exeter Chiefs      |         6 |   0.333333 |
 | Bristol Rugby      |         6 |   0.333333 |
+| Exeter Chiefs      |         6 |   0.333333 |
+| Gloucester Rugby   |         5 |   0.1      |
 | Harlequins         |         5 |   0.4      |
 | Newcastle Falcons  |         5 |   0.4      |
-| Gloucester Rugby   |         5 |   0.1      |
-| Sale Sharks        |         4 |   0.125    |
 | Cardiff Blues      |         4 |   0.5      |
+| Sale Sharks        |         4 |   0.125    |
 | Toulon             |         3 |   0        |
+| Pau                |         3 |   1        |
 | Scarlets           |         3 |   0.333333 |
-| Stade Toulousain   |         2 |   0.25     |
-| Pau                |         2 |   1        |
 | Lyon               |         2 |   0.5      |
+| Stade Toulousain   |         2 |   0.25     |
 | Munster            |         2 |   0.5      |
-| Perpignan          |         1 |   1        |
-| Connacht           |         1 |   1        |
-| Dragons            |         1 |   0        |
+| Bulls              |         1 |   0        |
 | Sharks             |         1 |   0        |
-| London Irish       |         1 |   1        |
 | Edinburgh          |         1 |   1        |
+| Perpignan          |         1 |   1        |
+| London Irish       |         1 |   1        |
+| Lions              |         1 |   0        |
+| Dragons            |         1 |   0        |
+| Glasgow Warriors   |         1 |   0        |
+| Connacht           |         1 |   1        |

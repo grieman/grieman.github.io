@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Canut  
-date: 2023-01-15 11:46:20.616695  
+date: 2023-02-02 19:00:45.353127  
 categories: player  
 ---
 # Baptiste Canut
 
 ## Positions: SH
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |             3 |          1 |
+| Mont-de-Marsan |             4 |          1 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
 | Carcassonne |         1 |          1 |
 | Colomiers   |         1 |          1 |
 | Massy       |         1 |          1 |
+| Oyonnax     |         1 |          1 |

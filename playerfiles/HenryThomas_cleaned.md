@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Thomas  
-date: 2023-01-06 00:22:00.231487  
+date: 2023-02-02 18:44:57.360896  
 categories: player  
 ---
 # Henry Thomas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 78.0
 
-## Current Percentile: 44.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Bath Rugby          |           113 |   0.50885  |
 | Sale Sharks         |            82 |   0.512195 |
-| Montpellier Herault |            24 |   0.645833 |
+| Montpellier Herault |            25 |   0.62     |
 | England             |             8 |   0.625    |
 
 | Opponent             |   Matches |   Win Rate |
@@ -43,7 +43,7 @@ categories: player
 | Newcastle Falcons    |        11 |   0.590909 |
 | Bath Rugby           |         7 |   0.714286 |
 | Toulon               |         6 |   0.5      |
-| Stade Toulousain     |         5 |   0.2      |
+| Stade Toulousain     |         6 |   0.166667 |
 | Leinster             |         4 |   0.25     |
 | Stade Francais Paris |         3 |   1        |
 | Scarlets             |         3 |   0.333333 |

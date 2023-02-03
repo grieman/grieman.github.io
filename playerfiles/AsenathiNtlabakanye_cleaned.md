@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Asenathi Ntlabakanye  
-date: 2023-01-06 00:13:45.754130  
+date: 2023-02-02 18:44:30.044813  
 categories: player  
 ---
 # Asenathi Ntlabakanye
 
 ## Positions: P
 
-## Current elo: 80.0
+## Current elo: 75.0
 
-## Current Percentile: 2.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -22,18 +22,20 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Golden Lions |            12 |   0.166667 |
-| Lions        |             6 |   0.583333 |
+| Lions        |            10 |   0.45     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Dragons              |         3 |   0.833333 |
 | Natal Sharks         |         3 |   0.333333 |
 | Western Province     |         3 |   0.333333 |
 | Blue Bulls           |         2 |   0        |
-| Dragons              |         2 |   0.75     |
 | Pumas                |         2 |   0        |
+| Stade Francais Paris |         2 |   0.5      |
+| Connacht             |         1 |   0        |
 | Free State Cheetahs  |         1 |   0        |
 | Griquas              |         1 |   0        |
+| Munster              |         1 |   0        |
 | Scarlets             |         1 |   1        |
 | Sharks               |         1 |   0        |
-| Stade Francais Paris |         1 |   1        |
 | Stormers             |         1 |   0        |

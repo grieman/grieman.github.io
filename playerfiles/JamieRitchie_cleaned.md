@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie Ritchie  
-date: 2023-01-06 00:08:10.617425  
+date: 2023-02-02 18:55:01.675972  
 categories: player  
 ---
 # Jamie Ritchie
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 134.0
+## Current elo: 151.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            90 |   0.55     |
+| Edinburgh |            92 |   0.559783 |
 | Scotland  |            34 |   0.617647 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -55,17 +55,17 @@ categories: player
 | Stade Francais Paris |         2 |   0.5      |
 | Southern Kings       |         2 |   1        |
 | South Africa         |         2 |   0        |
+| Saracens             |         2 |   0.5      |
 | Georgia              |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
+| Castres Olympique    |         2 |   1        |
 | Japan                |         2 |   0.5      |
-| Bulls                |         1 |   0        |
 | Russia               |         1 |   1        |
+| Bulls                |         1 |   0        |
 | Newcastle Falcons    |         1 |   1        |
-| Saracens             |         1 |   0        |
 | Brive                |         1 |   1        |
 | New Zealand          |         1 |   0        |
 | Canada               |         1 |   1        |
-| Castres Olympique    |         1 |   1        |
 | Timisoara Saracens   |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Cheetahs             |         1 |   1        |

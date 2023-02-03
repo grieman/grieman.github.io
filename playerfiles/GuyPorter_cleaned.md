@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guy Porter  
-date: 2023-01-06 00:22:53.739745  
+date: 2023-02-02 18:57:21.303652  
 categories: player  
 ---
 # Guy Porter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 99.0
 
-## Current Percentile: 65.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -23,17 +23,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            47 |   0.734043 |
-| England          |             5 |   0.7      |
-| Sydney Rays      |             2 |   0        |
-| Sydney Stars     |             2 |   0        |
+| Leicester Tigers |            48 |    0.71875 |
+| England          |             5 |    0.7     |
+| Sydney Rays      |             2 |    0       |
+| Sydney Stars     |             2 |    0       |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Gloucester Rugby   |         6 |   0.833333 |
+| Northampton Saints |         5 |   0.8      |
 | Newcastle Falcons  |         4 |   1        |
 | Bristol Rugby      |         4 |   0.625    |
-| Northampton Saints |         4 |   1        |
 | Exeter Chiefs      |         4 |   0.5      |
 | London Irish       |         4 |   0.75     |
 | Australia          |         3 |   0.666667 |

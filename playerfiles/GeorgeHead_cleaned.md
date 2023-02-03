@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: George Head  
-date: 2023-01-06 00:20:37.849334  
+date: 2023-02-02 19:04:33.344355  
 categories: player  
 ---
 # George Head
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Harlequins      |            11 |  0.636364  |
+| Harlequins      |            13 |  0.615385  |
 | London Scottish |             6 |  0.0833333 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Bath Rugby        |         2 |        1   |
+| London Irish      |         2 |        0.5 |
 | Richmond          |         2 |        0   |
 | Ampthill          |         1 |        0   |
 | Bristol Rugby     |         1 |        0   |
@@ -35,9 +36,9 @@ categories: player
 | Gloucester Rugby  |         1 |        1   |
 | Hartpury College  |         1 |        0.5 |
 | Leicester Tigers  |         1 |        1   |
-| London Irish      |         1 |        1   |
 | Newcastle Falcons |         1 |        1   |
 | Nottingham        |         1 |        0   |
 | Racing 92         |         1 |        1   |
 | Saracens          |         1 |        0   |
+| Sharks            |         1 |        1   |
 | Wasps             |         1 |        0   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jules Even  
-date: 2023-01-13 11:37:17.322335  
+date: 2023-02-02 18:50:56.268874  
 categories: player  
 ---
 # Jules Even
 
 ## Positions: C, FB
 
-## Current elo: 69.0
+## Current elo: 77.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -22,11 +22,11 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |            31 |   0.258065 |
-| Mont-de-Marsan   |            26 |   0.692308 |
+| Mont-de-Marsan   |            28 |   0.714286 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Oyonnax            |         7 |   0.142857 |
+| Oyonnax            |         8 |   0.25     |
 | Beziers            |         6 |   0.666667 |
 | Provence Rugby     |         5 |   0.4      |
 | Nevers             |         4 |   0.25     |
@@ -40,8 +40,8 @@ categories: player
 | Rouen              |         2 |   0        |
 | Vannes             |         2 |   0.5      |
 | Montauban          |         2 |   0        |
+| Massy              |         2 |   0.5      |
 | Biarritz Olympique |         2 |   0.5      |
-| Massy              |         1 |   0        |
 | Brive              |         1 |   0        |
 | Roval Drome XV     |         1 |   0        |
 | Soyaux-Angouleme   |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Viliame Mata  
-date: 2023-01-06 00:25:40.024716  
+date: 2023-02-02 18:57:48.614745  
 categories: player  
 ---
 # Viliame Mata
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 105.0
+## Current elo: 98.0
 
-## Current Percentile: 10.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |           102 |   0.558824 |
+| Edinburgh |           106 |   0.566038 |
 | Fiji      |            15 |   0.433333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Glasgow Warriors     |        16 |   0.5      |
 | Ulster               |         8 |   0.25     |
+| Zebre                |         7 |   0.714286 |
 | Munster              |         7 |   0.285714 |
-| Zebre                |         6 |   0.666667 |
 | Scarlets             |         6 |   0.666667 |
 | Benetton Treviso     |         6 |   0.5      |
 | Dragons              |         5 |   0.8      |
@@ -45,6 +45,7 @@ categories: player
 | Wasps                |         2 |   1        |
 | Timisoara Saracens   |         2 |   1        |
 | Scotland             |         2 |   0        |
+| Saracens             |         2 |   0.5      |
 | Ospreys              |         2 |   0        |
 | Newcastle Falcons    |         2 |   1        |
 | Tonga                |         2 |   0.5      |
@@ -52,18 +53,18 @@ categories: player
 | Montpellier Herault  |         2 |   0.5      |
 | Bulls                |         2 |   0.5      |
 | Leinster             |         2 |   1        |
-| Cheetahs             |         2 |   0.5      |
+| Castres Olympique    |         2 |   1        |
 | Krasny Yar           |         2 |   1        |
+| Cheetahs             |         2 |   0.5      |
 | Georgia              |         2 |   0.75     |
 | Harlequins           |         2 |   1        |
 | Stormers             |         1 |   0.5      |
-| Castres Olympique    |         1 |   1        |
 | France               |         1 |   1        |
-| Ireland              |         1 |   0        |
 | New Zealand Maori    |         1 |   1        |
+| London Irish         |         1 |   1        |
 | Spain                |         1 |   1        |
 | Italy                |         1 |   1        |
+| Sharks               |         1 |   0        |
 | La Rochelle          |         1 |   0        |
-| Saracens             |         1 |   0        |
 | Lions                |         1 |   0        |
-| London Irish         |         1 |   1        |
+| Ireland              |         1 |   0        |

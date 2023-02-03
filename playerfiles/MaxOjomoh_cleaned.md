@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Max Ojomoh  
-date: 2023-01-06 00:17:58.237220  
+date: 2023-02-02 19:01:04.808895  
 categories: player  
 ---
 # Max Ojomoh
 
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 76.0
 
-## Current Percentile: 11.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            28 |       0.25 |
+| Bath Rugby |            30 |       0.25 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -33,8 +33,9 @@ categories: player
 | Exeter Chiefs      |         2 |   0        |
 | Leicester Tigers   |         2 |   0        |
 | London Irish       |         2 |   0        |
+| Sale Sharks        |         2 |   0        |
 | Worcester Warriors |         2 |   0.5      |
 | Bristol Rugby      |         1 |   0        |
+| Glasgow Warriors   |         1 |   0.5      |
 | Gloucester Rugby   |         1 |   0        |
-| Sale Sharks        |         1 |   0        |
 | Toulon             |         1 |   0        |

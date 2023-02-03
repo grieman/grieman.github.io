@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daniel Viljoen Jooste  
-date: 2023-01-21 15:44:08.846086  
+date: 2023-02-02 18:56:13.620915  
 categories: player  
 ---
 # Daniel Viljoen Jooste
@@ -22,7 +22,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Natal Sharks |            18 |   0.611111 |
-| Sharks       |            10 |   0.6      |
+| Sharks       |            11 |   0.636364 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -37,6 +37,7 @@ categories: player
 | Bulls               |         1 |       0    |
 | Cardiff Blues       |         1 |       0    |
 | Dragons             |         1 |       1    |
+| Edinburgh           |         1 |       1    |
 | Leinster            |         1 |       0    |
 | Lions               |         1 |       1    |
 | Ospreys             |         1 |       1    |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Florent Lorenzon  
-date: 2023-01-30 17:50:47.758434  
+date: 2023-02-02 19:01:16.146561  
 categories: player  
 ---
 # Florent Lorenzon

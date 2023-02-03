@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Francis  
-date: 2023-01-06 00:13:22.277232  
+date: 2023-02-02 18:49:37.260434  
 categories: player  
 ---
 # Tomas Francis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 130.0
+## Current elo: 126.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Exeter Chiefs           |           122 |   0.717213 |
 | Wales                   |            64 |   0.570312 |
-| Ospreys                 |            20 |   0.6      |
+| Ospreys                 |            22 |   0.590909 |
 | British and Irish Lions |             2 |   0.75     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -49,16 +49,16 @@ categories: player
 | Harlequins          |         6 |   1        |
 | Worcester Warriors  |         6 |   1        |
 | Glasgow Warriors    |         4 |   0.5      |
+| Montpellier Herault |         4 |   1        |
 | Bristol Rugby       |         4 |   0.75     |
 | Scarlets            |         4 |   0.625    |
 | Italy               |         4 |   1        |
 | Dragons             |         4 |   0.75     |
-| Montpellier Herault |         3 |   1        |
 | Cardiff Blues       |         3 |   1        |
 | Clermont Auvergne   |         3 |   0.333333 |
 | Argentina           |         3 |   1        |
+| Leinster            |         3 |   0        |
 | London Welsh        |         2 |   1        |
-| Leinster            |         2 |   0        |
 | Ulster              |         2 |   0.5      |
 | Tonga               |         2 |   1        |
 | Stormers            |         2 |   0.25     |

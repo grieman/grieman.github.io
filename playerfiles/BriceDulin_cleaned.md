@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brice Dulin  
-date: 2023-01-13 11:30:28.229285  
+date: 2023-02-02 18:51:48.729118  
 categories: player  
 ---
 # Brice Dulin
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 85.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Racing 92         |           127 |   0.629921 |
 | Agen              |            60 |   0.608333 |
-| La Rochelle       |            46 |   0.695652 |
+| La Rochelle       |            49 |   0.693878 |
 | Castres Olympique |            37 |   0.567568 |
 | France            |            34 |   0.441176 |
 
@@ -40,14 +40,14 @@ categories: player
 | Lyon                 |        14 |   0.714286 |
 | Castres Olympique    |        14 |   0.571429 |
 | Montpellier Herault  |        13 |   0.807692 |
+| Racing 92            |        12 |   0.583333 |
 | Bayonne              |        11 |   0.636364 |
 | La Rochelle          |        11 |   0.636364 |
-| Racing 92            |        11 |   0.636364 |
 | Pau                  |         9 |   0.777778 |
 | Grenoble             |         9 |   0.777778 |
 | Perpignan            |         8 |   0.8125   |
 | Biarritz Olympique   |         8 |   0.625    |
-| Northampton Saints   |         6 |   0.583333 |
+| Northampton Saints   |         7 |   0.642857 |
 | Agen                 |         6 |   0.833333 |
 | Oyonnax              |         6 |   0.5      |
 | Glasgow Warriors     |         5 |   0.4      |
@@ -62,12 +62,12 @@ categories: player
 | Ireland              |         3 |   0.333333 |
 | Scarlets             |         3 |   1        |
 | England              |         3 |   0.333333 |
+| Ulster               |         3 |   0.666667 |
 | Argentina            |         3 |   0.666667 |
-| Provence Rugby       |         2 |   1        |
-| Scotland             |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   0.5      |
+| Scotland             |         2 |   0.5      |
 | Leinster             |         2 |   0        |
-| Ulster               |         2 |   0.5      |
+| Provence Rugby       |         2 |   1        |
 | Ospreys              |         2 |   1        |
 | Narbonne             |         2 |   0.5      |
 | Lannemezan           |         2 |   1        |

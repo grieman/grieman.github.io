@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Levani Botia Veivuke  
-date: 2023-01-13 11:37:52.118323  
+date: 2023-02-02 18:51:05.349467  
 categories: player  
 ---
 # Levani Botia Veivuke
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           154 |   0.577922 |
+| La Rochelle |           156 |   0.576923 |
 | Fiji        |            17 |   0.411765 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -36,9 +36,9 @@ categories: player
 | Bayonne              |         9 |   0.722222 |
 | Stade Francais Paris |         9 |   0.444444 |
 | Lyon                 |         8 |   0.5625   |
+| Racing 92            |         8 |   0.3125   |
 | Castres Olympique    |         8 |   0.625    |
 | Clermont Auvergne    |         8 |   0.375    |
-| Racing 92            |         7 |   0.357143 |
 | Brive                |         6 |   0.666667 |
 | Agen                 |         5 |   0.6      |
 | Grenoble             |         4 |   0.75     |
@@ -47,14 +47,14 @@ categories: player
 | Gloucester Rugby     |         3 |   0.333333 |
 | Ulster               |         3 |   0.666667 |
 | Oyonnax              |         2 |   1        |
-| Benetton Treviso     |         2 |   1        |
 | Exeter Chiefs        |         2 |   0        |
+| Northampton Saints   |         2 |   1        |
+| Benetton Treviso     |         2 |   1        |
 | Perpignan            |         2 |   0.5      |
 | Ireland              |         2 |   0        |
 | Uruguay              |         2 |   0.5      |
 | Wales                |         2 |   0        |
 | Australia            |         1 |   0        |
-| Portugal             |         1 |   1        |
 | Tarbes               |         1 |   0        |
 | Biarritz Olympique   |         1 |   1        |
 | Scotland             |         1 |   0        |
@@ -62,8 +62,8 @@ categories: player
 | Wasps                |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Edinburgh            |         1 |   1        |
+| Portugal             |         1 |   1        |
 | Canada               |         1 |   1        |
-| Northampton Saints   |         1 |   1        |
 | New Zealand Maori    |         1 |   1        |
 | New Zealand          |         1 |   0        |
 | Narbonne             |         1 |   1        |

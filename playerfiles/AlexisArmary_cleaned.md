@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Alexis Armary  
-date: 2023-01-17 11:44:58.252205  
+date: 2023-02-02 18:54:45.699806  
 categories: player  
 ---
 # Alexis Armary
 
 ## Positions: FL
 
-## Current elo: 114.0
+## Current elo: 115.0
 
 ## Current Percentile: 79.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            54 |   0.527778 |
+| Valence Romans Drome Rugby |            56 |   0.544643 |
 | Roval Drome XV             |            10 |   0        |
 | Tarbes                     |             6 |   0.5      |
 
@@ -47,12 +47,13 @@ categories: player
 | Grenoble                   |         2 |   0        |
 | Dijon                      |         2 |   0.5      |
 | Chambery                   |         2 |   1        |
+| Carqueiranne-Hyères        |         2 |   1        |
 | Carcassonne                |         2 |   1        |
 | Aurillac                   |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
 | Colomiers                  |         1 |   0        |
 | Nice                       |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Bayonne                    |         1 |   1        |
 | Suresnes                   |         1 |   1        |

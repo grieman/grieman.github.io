@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ion Neculai  
-date: 2023-01-21 15:42:04.498384  
+date: 2023-02-02 18:46:18.427464  
 categories: player  
 ---
 # Ion Neculai
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 85.0
+## Current elo: 86.0
 
 ## Current Percentile: 19.0
 
@@ -23,17 +23,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Zebre  |            23 |  0.0434783 |
+| Zebre  |            24 |  0.0416667 |
 | Italy  |             3 |  0.666667  |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Benetton Treviso |         3 |          0 |
 | Edinburgh        |         3 |          0 |
+| Ospreys          |         2 |          0 |
 | Stormers         |         2 |          0 |
 | Sharks           |         2 |          0 |
 | Glasgow Warriors |         2 |          0 |
-| Ospreys          |         1 |          0 |
 | Toulon           |         1 |          0 |
 | Scarlets         |         1 |          0 |
 | Romania          |         1 |          1 |

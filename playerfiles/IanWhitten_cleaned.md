@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ian Whitten  
-date: 2023-01-27 11:07:53.257931  
+date: 2023-02-02 18:56:05.281259  
 categories: player  
 ---
 # Ian Whitten
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 66.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           267 |   0.632959 |
+| Exeter Chiefs |           268 |   0.634328 |
 | Ulster        |            75 |   0.56     |
 | Ireland       |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Bath Rugby               |        25 |   0.66     |
-| Gloucester Rugby         |        23 |   0.586957 |
+| Gloucester Rugby         |        24 |   0.604167 |
 | Northampton Saints       |        22 |   0.5      |
 | Saracens                 |        21 |   0.452381 |
 | Wasps                    |        19 |   0.605263 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manasa Saulo Romumu  
-date: 2023-01-30 11:44:20.124209  
+date: 2023-02-02 18:51:49.985810  
 categories: player  
 ---
 # Manasa Saulo Romumu

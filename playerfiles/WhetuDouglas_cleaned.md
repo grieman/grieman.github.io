@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Whetu Douglas  
-date: 2023-01-13 11:28:07.651546  
+date: 2023-02-02 19:02:45.520557  
 categories: player  
 ---
 # Whetu Douglas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 95.0
+## Current elo: 93.0
 
-## Current Percentile: 42.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Crusaders             |            40 |  0.8625    |
-| Waikato               |            31 |  0.5       |
-| Benetton Treviso      |            13 |  0.384615  |
-| Green Rockets Tokatsu |            13 |  0.0769231 |
-| Canterbury            |            11 |  0.636364  |
-| Bay of Plenty         |             4 |  0.25      |
-| New Zealand Maori     |             4 |  0.75      |
+| Crusaders             |            40 |   0.8625   |
+| Waikato               |            31 |   0.5      |
+| Green Rockets Tokatsu |            16 |   0.0625   |
+| Benetton Treviso      |            13 |   0.384615 |
+| Canterbury            |            11 |   0.636364 |
+| Bay of Plenty         |             4 |   0.25     |
+| New Zealand Maori     |             4 |   0.75     |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -39,27 +39,27 @@ categories: player
 | Tasman                            |         6 |   0        |
 | Manawatu                          |         5 |   0.6      |
 | Blues                             |         5 |   1        |
-| North Harbour                     |         4 |   1        |
+| Auckland                          |         4 |   0.25     |
 | New South Wales Waratahs          |         4 |   0.75     |
 | Taranaki                          |         4 |   0.375    |
-| Auckland                          |         4 |   0.25     |
+| North Harbour                     |         4 |   1        |
 | Wellington                        |         4 |   0.75     |
 | Bay of Plenty                     |         4 |   1        |
 | Canterbury                        |         3 |   0        |
 | Counties Manukau                  |         3 |   0.333333 |
 | Scarlets                          |         3 |   0.333333 |
 | Hawke's Bay                       |         3 |   0.666667 |
+| Yokohama Canon Eagles             |         3 |   0        |
 | Queensland Reds                   |         3 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0        |
 | Ulster                            |         2 |   0        |
 | Southland                         |         2 |   1        |
-| Yokohama Canon Eagles             |         2 |   0        |
 | Samoa                             |         2 |   1        |
 | Otago                             |         2 |   0.5      |
 | Northland                         |         2 |   0.5      |
 | Sunwolves                         |         2 |   1        |
 | Melbourne Rebels                  |         2 |   1        |
 | Zebre                             |         2 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
 | Kobelco Kobe Steelers             |         2 |   0        |
 | Fiji                              |         2 |   0.5      |
 | Cheetahs                          |         1 |   1        |
@@ -75,6 +75,7 @@ categories: player
 | Connacht                          |         1 |   0        |
 | Bath Rugby                        |         1 |   0        |
 | Stormers                          |         1 |   0.5      |
+| Shizuoka Blue Revs                |         1 |   0        |
 | Hanazono Kintetsu Liners          |         1 |   1        |
 | Jaguares                          |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |

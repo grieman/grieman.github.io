@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Davies  
-date: 2023-01-13 11:31:48.134096  
+date: 2023-02-02 18:58:41.877706  
 categories: player  
 ---
 # Jack Davies

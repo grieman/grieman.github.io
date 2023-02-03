@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Smart  
-date: 2023-01-21 15:45:39.025806  
+date: 2023-02-02 19:03:07.680579  
 categories: player  
 ---
 # Josh Smart
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Ampthill     |            11 |   0.363636 |
+| Ampthill     |            12 |   0.416667 |
 | London Irish |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,3 +35,4 @@ categories: player
 | Doncaster           |         1 |        0   |
 | Harlequins          |         1 |        0   |
 | Jersey              |         1 |        0   |
+| London Scottish     |         1 |        1   |

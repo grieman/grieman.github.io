@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Florian Bertrand  
-date: 2023-01-15 11:46:58.776578  
+date: 2023-02-02 18:45:17.377738  
 categories: player  
 ---
 # Florian Bertrand
 
-## Positions: H, N8
+## Positions: H
 
-## Current elo: 90.0
+## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            32 |   0.484375 |
+| Blagnac |            34 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,14 +30,14 @@ categories: player
 | Chambery                   |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.666667 |
+| Tarbes                     |         3 |   0.833333 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Aubenas                    |         2 |   1        |
 | Nice                       |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
-| Tarbes                     |         2 |   1        |
+| US Bressane                |         2 |   0.5      |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   0        |
 | Dijon                      |         1 |   0        |
 | Narbonne                   |         1 |   0.5      |
 | Rennes                     |         1 |   1        |
-| US Bressane                |         1 |   0        |

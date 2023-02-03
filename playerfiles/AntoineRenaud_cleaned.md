@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Antoine Renaud  
-date: 2023-01-15 11:50:09.254155  
+date: 2023-02-02 19:11:22.510764  
 categories: player  
 ---
 # Antoine Renaud
 
 ## Positions: FB, FH
 
-## Current elo: 57.0
+## Current elo: 67.0
 
-## Current Percentile: 3.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Aurillac    |            80 |   0.5625   |
-| Blagnac     |            32 |   0.484375 |
+| Blagnac     |            34 |   0.5      |
 | Carcassonne |            14 |   0.214286 |
 | Rouen       |            10 |   0.3      |
 | Dax         |             9 |   0.666667 |
@@ -38,19 +38,19 @@ categories: player
 | Carcassonne                |         7 |   0.714286 |
 | Colomiers                  |         7 |   0.571429 |
 | Perpignan                  |         6 |   0.583333 |
+| Tarbes                     |         6 |   0.75     |
 | Massy                      |         6 |   0.333333 |
 | Biarritz Olympique         |         6 |   0.666667 |
 | Albi                       |         6 |   0.5      |
 | Montauban                  |         5 |   0.6      |
-| Tarbes                     |         5 |   0.8      |
 | Pau                        |         4 |   0.25     |
 | Agen                       |         4 |   0.5      |
 | Nice                       |         4 |   0.5      |
 | Chambery                   |         4 |   0.75     |
+| US Bressane                |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0        |
 | Oyonnax                    |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.666667 |
-| US Bressane                |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
 | Lyon                       |         3 |   0        |
 | Cognac Saint Jean d'Angély |         3 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jules Bousquet  
-date: 2023-01-30 11:47:37.731068  
+date: 2023-02-02 18:43:39.247987  
 categories: player  
 ---
 # Jules Bousquet

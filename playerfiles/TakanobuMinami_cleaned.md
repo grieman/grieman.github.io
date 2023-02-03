@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Takanobu Minami  
-date: 2023-01-30 17:51:46.288026  
+date: 2023-02-02 19:05:01.168661  
 categories: player  
 ---
 # Takanobu Minami

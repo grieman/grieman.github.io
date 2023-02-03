@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean Despiau  
-date: 2023-01-30 11:42:50.055801  
+date: 2023-02-02 19:13:58.007712  
 categories: player  
 ---
 # Jean Despiau
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 21.0
+## Current Percentile: 22.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ewan Ashman  
-date: 2023-01-06 00:23:12.884599  
+date: 2023-02-02 18:43:22.137498  
 categories: player  
 ---
 # Ewan Ashman
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 101.0
+## Current elo: 88.0
 
-## Current Percentile: 33.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -23,24 +23,26 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            36 |   0.666667 |
+| Sale Sharks |            40 |   0.65     |
 | Scotland    |             6 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Leicester Tigers   |         6 |   1        |
+| Bath Rugby         |         5 |   0.7      |
 | Exeter Chiefs      |         5 |   0.4      |
-| Bath Rugby         |         4 |   0.625    |
-| Saracens           |         4 |   0.25     |
 | Wasps              |         4 |   1        |
-| Bristol Rugby      |         3 |   0.666667 |
-| Harlequins         |         3 |   0.333333 |
+| Saracens           |         4 |   0.25     |
+| Harlequins         |         4 |   0.5      |
 | London Irish       |         3 |   0.833333 |
-| Argentina          |         2 |   0        |
+| Bristol Rugby      |         3 |   0.666667 |
 | Newcastle Falcons  |         2 |   0.5      |
-| Australia          |         1 |   1        |
-| Fiji               |         1 |   1        |
-| Gloucester Rugby   |         1 |   1        |
+| Argentina          |         2 |   0        |
 | New Zealand        |         1 |   0        |
+| Australia          |         1 |   1        |
+| Gloucester Rugby   |         1 |   1        |
 | South Africa       |         1 |   0        |
+| Stade Toulousain   |         1 |   0        |
+| Ulster             |         1 |   0        |
+| Fiji               |         1 |   1        |
 | Worcester Warriors |         1 |   1        |

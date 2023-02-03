@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rory Thornton  
-date: 2023-01-23 15:33:47.028807  
+date: 2023-02-02 18:56:43.406146  
 categories: player  
 ---
 # Rory Thornton
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 26.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Ospreys       |            65 |   0.561538 |
-| Cardiff Blues |            57 |   0.368421 |
+| Cardiff Blues |            58 |   0.362069 |
 | Wales         |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -35,9 +35,9 @@ categories: player
 | Connacht             |         9 |   0.555556 |
 | Benetton Treviso     |         8 |   0.75     |
 | Scarlets             |         7 |   0.571429 |
+| Leinster             |         7 |   0.142857 |
 | Ulster               |         6 |   0        |
 | Cardiff Blues        |         6 |   0.833333 |
-| Leinster             |         6 |   0.166667 |
 | Ospreys              |         5 |   0        |
 | Zebre                |         5 |   0.8      |
 | Dragons              |         5 |   0.8      |

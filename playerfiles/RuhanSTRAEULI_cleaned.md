@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruhan STRAEULI  
-date: 2023-02-02 15:49:00.160134  
+date: 2023-02-02 19:00:43.288237  
 categories: player  
 ---
 # Ruhan STRAEULI

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Maro Itoje  
-date: 2023-01-06 00:22:24.284293  
+date: 2023-02-02 19:10:23.029034  
 categories: player  
 ---
 # Maro Itoje
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 124.0
+## Current elo: 106.0
 
-## Current Percentile: 91.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           150 |   0.813333 |
+| Saracens                |           153 |   0.810458 |
 | England                 |            58 |   0.663793 |
 | British and Irish Lions |             9 |   0.5      |
 
@@ -44,36 +44,36 @@ categories: player
 | New Zealand         |         6 |   0.5      |
 | France              |         6 |   0.5      |
 | Italy               |         6 |   1        |
+| Gloucester Rugby    |         6 |   0.666667 |
 | Worcester Warriors  |         6 |   1        |
 | Scotland            |         5 |   0.4      |
 | Leicester Tigers    |         5 |   0.6      |
 | London Irish        |         5 |   1        |
-| Gloucester Rugby    |         5 |   0.6      |
+| Glasgow Warriors    |         4 |   1        |
 | Munster             |         4 |   0.75     |
 | Racing 92           |         4 |   0.75     |
-| Glasgow Warriors    |         4 |   1        |
-| Clermont Auvergne   |         3 |   0.333333 |
 | Ospreys             |         3 |   0.833333 |
+| Edinburgh           |         3 |   0.333333 |
 | Leinster            |         3 |   0.666667 |
-| Argentina           |         2 |   0.5      |
+| Lyon                |         3 |   1        |
+| Clermont Auvergne   |         3 |   0.333333 |
 | Ulster              |         2 |   1        |
 | Toulon              |         2 |   1        |
 | Tonga               |         2 |   1        |
-| Oyonnax             |         2 |   1        |
-| Edinburgh           |         2 |   0.5      |
-| Lyon                |         2 |   1        |
 | Scarlets            |         2 |   0.75     |
 | Japan               |         2 |   1        |
-| London Welsh        |         1 |   1        |
-| Cardiff Blues       |         1 |   1        |
-| Bedford             |         1 |   1        |
-| Blues               |         1 |   0        |
-| Stade Toulousain    |         1 |   1        |
-| Coventry            |         1 |   1        |
-| Samoa               |         1 |   1        |
+| Oyonnax             |         2 |   1        |
+| Argentina           |         2 |   0.5      |
 | Nottingham          |         1 |   1        |
 | Crusaders           |         1 |   1        |
+| Coventry            |         1 |   1        |
+| Samoa               |         1 |   1        |
 | Doncaster           |         1 |   1        |
 | New Zealand Maori   |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
+| Stade Toulousain    |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |
+| London Welsh        |         1 |   1        |
+| Blues               |         1 |   0        |
+| Bedford             |         1 |   1        |
 | Ampthill            |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jaco van der Walt  
-date: 2023-01-30 11:47:27.816742  
+date: 2023-02-02 18:51:51.115810  
 categories: player  
 ---
 # Jaco van der Walt
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 76.0
+## Current Percentile: 75.0
 
 # Elo History
 

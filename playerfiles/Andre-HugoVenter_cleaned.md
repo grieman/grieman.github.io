@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andre-Hugo Venter  
-date: 2023-01-06 00:08:57.785315  
+date: 2023-02-02 19:14:20.409076  
 categories: player  
 ---
 # Andre-Hugo Venter
 
 ## Positions: H
 
-## Current elo: 104.0
+## Current elo: 106.0
 
-## Current Percentile: 53.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| Stormers         |             9 |   0.722222 |
 | Western Province |             8 |   0.5625   |
-| Stormers         |             7 |   0.785714 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,6 +35,8 @@ categories: player
 | Free State Cheetahs |         1 |       0    |
 | Golden Lions        |         1 |       1    |
 | Lions               |         1 |       1    |
+| London Irish        |         1 |       1    |
 | Ospreys             |         1 |       0.5  |
 | Scarlets            |         1 |       1    |
+| Ulster              |         1 |       0    |
 | Zebre               |         1 |       1    |

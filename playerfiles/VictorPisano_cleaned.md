@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor Pisano  
-date: 2023-01-23 15:32:14.896685  
+date: 2023-02-02 18:40:48.383889  
 categories: player  
 ---
 # Victor Pisano
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Dax      |            33 |   0.515152 |
-| Chambery |            15 |   0.4      |
+| Chambery |            16 |   0.4375   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Tarbes                     |         4 |   0.75     |
 | Chambery                   |         4 |   0.75     |
+| Cognac Saint Jean d'Angély |         4 |   0.5      |
 | Albi                       |         3 |   0        |
-| Dijon                      |         3 |   0.666667 |
-| Suresnes                   |         3 |   0.333333 |
 | Nice                       |         3 |   1        |
+| Suresnes                   |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
+| Dijon                      |         3 |   0.666667 |
 | Aubenas                    |         2 |   0.5      |
 | Narbonne                   |         2 |   0.5      |
 | Dax                        |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan Fraissenon  
-date: 2023-01-06 00:12:35.819003  
+date: 2023-02-02 18:57:46.361608  
 categories: player  
 ---
 # Nathan Fraissenon
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 101.0
 
-## Current Percentile: 58.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,13 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Brive  |             8 |      0.375 |
+| Brive  |            11 |   0.363636 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Connacht            |         2 |          0 |
+| Bayonne             |         1 |          0 |
+| Cardiff Blues       |         1 |          1 |
 | Castres Olympique   |         1 |          0 |
 | Clermont Auvergne   |         1 |          1 |
-| Connacht            |         1 |          0 |
 | La Rochelle         |         1 |          0 |
 | Lyon                |         1 |          1 |
 | Montpellier Herault |         1 |          0 |

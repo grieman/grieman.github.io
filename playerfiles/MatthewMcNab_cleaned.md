@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matthew McNab  
-date: 2023-01-21 15:40:35.807567  
+date: 2023-02-02 19:01:45.551640  
 categories: player  
 ---
 # Matthew McNab
@@ -23,14 +23,14 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Hartpury College  |            15 |   0.333333 |
+| Hartpury College  |            16 |   0.375    |
 | Zimbabwe          |             6 |   0.416667 |
 | Zimbabwe Goshawks |             3 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Richmond               |         4 |   0.5      |
 | Doncaster              |         3 |   0.333333 |
-| Richmond               |         3 |   0.333333 |
 | Bedford                |         2 |   0.5      |
 | Ealing Trailfinders    |         2 |   0        |
 | Jersey                 |         2 |   0        |

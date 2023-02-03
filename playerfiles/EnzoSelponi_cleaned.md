@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Enzo Selponi  
-date: 2023-01-13 11:24:15.593334  
+date: 2023-02-02 18:58:42.722355  
 categories: player  
 ---
 # Enzo Selponi
 
 ## Positions: FH
 
-## Current elo: 124.0
+## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,12 +23,12 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Perpignan           |            88 |   0.443182 |
 | Grenoble            |            44 |   0.556818 |
-| Provence Rugby      |            35 |   0.571429 |
+| Provence Rugby      |            36 |   0.555556 |
 | Montpellier Herault |            20 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Beziers                    |        11 |   0.636364 |
+| Beziers                    |        12 |   0.583333 |
 | Colomiers                  |         9 |   0.333333 |
 | Aurillac                   |         9 |   0.666667 |
 | Soyaux-Angouleme           |         9 |   0.777778 |

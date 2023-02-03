@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adam Beard  
-date: 2023-01-06 00:23:23.772716  
+date: 2023-02-02 18:59:00.620776  
 categories: player  
 ---
 # Adam Beard
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 107.0
+## Current elo: 91.0
 
-## Current Percentile: 57.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Ospreys                 |           103 |   0.567961 |
+| Ospreys                 |           105 |   0.57619  |
 | Wales                   |            42 |   0.571429 |
 | British and Irish Lions |             1 |   0        |
 
@@ -49,30 +49,30 @@ categories: player
 | Australia            |         3 |   0.666667 |
 | Argentina            |         3 |   1        |
 | Connacht             |         3 |   1        |
-| Northampton Saints   |         2 |   1        |
-| Southern Kings       |         2 |   1        |
+| Edinburgh            |         2 |   1        |
+| Stormers             |         2 |   0.25     |
 | Italy                |         2 |   0.5      |
 | Racing 92            |         2 |   0        |
-| Stormers             |         2 |   0.25     |
-| Edinburgh            |         2 |   1        |
+| Northampton Saints   |         2 |   1        |
+| Southern Kings       |         2 |   1        |
+| Montpellier Herault  |         2 |   1        |
 | Lyon                 |         2 |   1        |
-| Georgia              |         2 |   0.5      |
 | Worcester Warriors   |         2 |   0.5      |
-| Bristol Rugby        |         1 |   1        |
-| Sharks               |         1 |   0        |
-| Tonga                |         1 |   1        |
-| Uruguay              |         1 |   1        |
+| Georgia              |         2 |   0.5      |
+| Leicester Tigers     |         2 |   0.5      |
 | Wasps                |         1 |   1        |
-| Stade Francais Paris |         1 |   1        |
 | Bulls                |         1 |   0        |
+| Bristol Rugby        |         1 |   1        |
+| Tonga                |         1 |   1        |
+| Stade Francais Paris |         1 |   1        |
+| Uruguay              |         1 |   1        |
 | Grenoble             |         1 |   1        |
+| Sharks               |         1 |   0        |
 | Castres Olympique    |         1 |   1        |
 | Clermont Auvergne    |         1 |   0        |
 | Samoa                |         1 |   1        |
 | Pau                  |         1 |   1        |
 | Newcastle Falcons    |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
-| Montpellier Herault  |         1 |   1        |
 | Fiji                 |         1 |   1        |
-| Leicester Tigers     |         1 |   0        |
 | Lions                |         1 |   0        |

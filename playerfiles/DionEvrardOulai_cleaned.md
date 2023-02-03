@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dion Evrard Oulai  
-date: 2023-01-13 11:31:05.698025  
+date: 2023-02-02 18:40:51.482914  
 categories: player  
 ---
 # Dion Evrard Oulai
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ivory Coast
 
-## Current elo: 77.0
+## Current elo: 79.0
 
-## Current Percentile: 9.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Bayonne     |            56 |   0.464286 |
-| Massy       |            36 |   0.638889 |
+| Massy       |            38 |   0.631579 |
 | Montauban   |            24 |   0.458333 |
 | Carcassonne |            23 |   0.391304 |
 | Ivory Coast |             1 |   0        |
@@ -35,13 +35,13 @@ categories: player
 | Aurillac                   |         7 |   0.428571 |
 | Beziers                    |         7 |   0.428571 |
 | Biarritz Olympique         |         7 |   0.285714 |
+| Montauban                  |         6 |   0.666667 |
 | Colomiers                  |         6 |   0.333333 |
 | Perpignan                  |         6 |   0.166667 |
 | Carcassonne                |         6 |   0.333333 |
-| Montauban                  |         5 |   0.6      |
+| Mont-de-Marsan             |         6 |   0.416667 |
 | Provence Rugby             |         5 |   0.6      |
 | Oyonnax                    |         5 |   0.4      |
-| Mont-de-Marsan             |         5 |   0.5      |
 | Massy                      |         4 |   1        |
 | Albi                       |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   0.75     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Berard  
-date: 2023-01-21 15:41:52.502970  
+date: 2023-02-02 19:02:47.744798  
 categories: player  
 ---
 # Pierre Berard
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Montpellier Herault |            95 |   0.536842 |
 | Beziers             |            47 |   0.510638 |
-| US Bressane         |            24 |   0.583333 |
+| US Bressane         |            25 |   0.56     |
 | Castres Olympique   |            13 |   0.423077 |
 | La Rochelle         |             8 |   0.5      |
 
@@ -57,26 +57,26 @@ categories: player
 | Cardiff Blues              |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
 | Bath Rugby                 |         2 |   0.5      |
+| Blagnac                    |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   1        |
 | Sale Sharks                |         2 |   1        |
 | Roval Drome XV             |         2 |   1        |
 | Pau                        |         2 |   0.5      |
 | Dax                        |         2 |   0        |
-| Massy                      |         2 |   1        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Nevers                     |         2 |   0.5      |
 | Leicester Tigers           |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   1        |
-| Blagnac                    |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   1        |
-| Leinster                   |         1 |   0.5      |
-| Tarbes                     |         1 |   1        |
-| Suresnes                   |         1 |   1        |
-| Benetton Treviso           |         1 |   1        |
-| Nice                       |         1 |   1        |
-| Newcastle Falcons          |         1 |   1        |
-| Chambery                   |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   1        |
+| Massy                      |         2 |   1        |
 | Rennes                     |         1 |   1        |
 | Narbonne                   |         1 |   0        |
-| Provence Rugby             |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
+| Chambery                   |         1 |   1        |
+| Newcastle Falcons          |         1 |   1        |
 | Lyon                       |         1 |   0        |
+| Benetton Treviso           |         1 |   1        |
+| Suresnes                   |         1 |   1        |
+| Tarbes                     |         1 |   1        |
+| Leinster                   |         1 |   0.5      |
+| Provence Rugby             |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   1        |
+| Nice                       |         1 |   1        |

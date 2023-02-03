@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anton Bresler  
-date: 2023-01-06 00:08:37.218370  
+date: 2023-02-02 18:52:13.722929  
 categories: player  
 ---
 # Anton Bresler
 
 ## Positions: L
 
-## Current elo: 127.0
+## Current elo: 120.0
 
-## Current Percentile: 95.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 | Worcester Warriors |            57 |   0.385965 |
 | Sharks             |            43 |   0.627907 |
 | Natal Sharks       |            25 |   0.68     |
-| Racing 92          |            21 |   0.642857 |
+| Racing 92          |            22 |   0.659091 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -74,21 +74,21 @@ categories: player
 | Pumas                    |         2 |   1        |
 | Agen                     |         2 |   1        |
 | Newcastle Falcons        |         2 |   0        |
-| Blues                    |         2 |   1        |
-| London Welsh             |         2 |   1        |
-| Brive                    |         2 |   1        |
 | Hurricanes               |         2 |   0.5      |
-| Highlanders              |         2 |   0.5      |
+| Blues                    |         2 |   1        |
+| Brive                    |         2 |   1        |
 | Grenoble                 |         2 |   0.5      |
-| Crusaders                |         1 |   1        |
-| Bayonne                  |         1 |   0        |
-| Biarritz Olympique       |         1 |   1        |
-| Clermont Auvergne        |         1 |   1        |
-| Southern Kings           |         1 |   1        |
-| Stade Toulousain         |         1 |   1        |
-| New South Wales Waratahs |         1 |   0        |
+| Highlanders              |         2 |   0.5      |
+| La Rochelle              |         2 |   0.5      |
+| London Welsh             |         2 |   1        |
 | Krasny Yar               |         1 |   1        |
+| New South Wales Waratahs |         1 |   0        |
 | Melbourne Rebels         |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
+| Crusaders                |         1 |   1        |
+| Clermont Auvergne        |         1 |   1        |
 | Perpignan                |         1 |   1        |
 | Montpellier Herault      |         1 |   0        |
-| La Rochelle              |         1 |   0        |
+| Biarritz Olympique       |         1 |   1        |
+| Bayonne                  |         1 |   0        |
+| Southern Kings           |         1 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vadim Cobilas  
-date: 2023-01-06 00:26:02.082039  
+date: 2023-02-02 18:57:13.085095  
 categories: player  
 ---
 # Vadim Cobilas
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 91.0
 
 ## Current Percentile: 98.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           149 |   0.567114 |
+| Bordeaux Begles |           152 |   0.5625   |
 | Sale Sharks     |           130 |   0.469231 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montpellier Herault  |        16 |   0.375    |
+| Castres Olympique    |        14 |   0.571429 |
 | Clermont Auvergne    |        14 |   0.571429 |
-| Castres Olympique    |        13 |   0.615385 |
 | Pau                  |        12 |   0.583333 |
 | Toulon               |        12 |   0.416667 |
 | Stade Toulousain     |        12 |   0.25     |
@@ -49,19 +49,19 @@ categories: player
 | Worcester Warriors   |         9 |   0.666667 |
 | Northampton Saints   |         8 |   0.5      |
 | Agen                 |         8 |   0.875    |
-| Bayonne              |         4 |   0.75     |
+| Bayonne              |         5 |   0.8      |
 | Oyonnax              |         4 |   0.5      |
 | Perpignan            |         4 |   0.75     |
 | London Welsh         |         3 |   0.666667 |
 | Biarritz Olympique   |         3 |   1        |
 | Scarlets             |         3 |   1        |
-| Cardiff Blues        |         2 |   0.5      |
 | Grenoble             |         2 |   1        |
 | Edinburgh            |         2 |   1        |
 | Ulster               |         2 |   1        |
+| Sharks               |         2 |   0        |
+| Cardiff Blues        |         2 |   0.5      |
 | Bristol Rugby        |         1 |   0        |
 | Munster              |         1 |   0        |
-| Sharks               |         1 |   0        |
 | La Vila              |         1 |   1        |
 | Dragons              |         1 |   1        |
 | Ospreys              |         1 |   0        |

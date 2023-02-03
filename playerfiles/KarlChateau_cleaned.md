@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Karl Chateau  
-date: 2023-01-13 11:37:20.201764  
+date: 2023-02-02 18:59:03.877171  
 categories: player  
 ---
 # Karl Chateau
 
 ## Positions: FL, N8
 
-## Current elo: 67.0
+## Current elo: 62.0
 
-## Current Percentile: 4.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Perpignan        |           179 |   0.522346 |
 | Colomiers        |            16 |   0.5625   |
-| Vannes           |             7 |   0.357143 |
+| Vannes           |             8 |   0.3125   |
 | Stade Toulousain |             5 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -38,9 +38,9 @@ categories: player
 | Carcassonne                |         9 |   0.666667 |
 | Colomiers                  |         9 |   0.388889 |
 | Grenoble                   |         9 |   0.777778 |
+| Nevers                     |         7 |   0.714286 |
 | Dax                        |         6 |   0.333333 |
 | Soyaux-Angouleme           |         6 |   0.833333 |
-| Nevers                     |         6 |   0.833333 |
 | Vannes                     |         6 |   1        |
 | Rouen                      |         5 |   0.6      |
 | Racing 92                  |         5 |   0.1      |

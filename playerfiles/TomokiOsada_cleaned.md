@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tomoki Osada  
-date: 2023-01-21 15:44:34.386133  
+date: 2023-02-02 18:56:34.345772  
 categories: player  
 ---
 # Tomoki Osada
 
 ## Positions: C
 
-## Current elo: 103.0
+## Current elo: 106.0
 
-## Current Percentile: None
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |             1 |          1 |
+| Saitama Wild Knights |             2 |          1 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Black Rams Tokyo |         1 |          1 |
+| Opponent              |   Matches |   Win Rate |
+|:----------------------|----------:|-----------:|
+| Black Rams Tokyo      |         1 |          1 |
+| Yokohama Canon Eagles |         1 |          1 |

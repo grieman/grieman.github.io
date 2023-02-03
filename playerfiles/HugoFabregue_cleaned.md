@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hugo Fabregue  
-date: 2023-01-13 11:25:47.628878  
+date: 2023-02-02 18:56:40.309535  
 categories: player  
 ---
 # Hugo Fabregue

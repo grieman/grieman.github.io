@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bill Johnston  
-date: 2023-01-06 00:14:20.826519  
+date: 2023-02-02 18:44:00.922108  
 categories: player  
 ---
 # Bill Johnston
 
 ## Positions: FH
 
-## Current elo: 107.0
+## Current elo: 96.0
 
-## Current Percentile: 55.0
+## Current Percentile: 40.0
 
 # Elo History
 

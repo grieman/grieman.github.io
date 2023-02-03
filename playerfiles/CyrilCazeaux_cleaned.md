@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cyril Cazeaux  
-date: 2023-01-06 00:09:40.185475  
+date: 2023-02-02 19:14:25.830402  
 categories: player  
 ---
 # Cyril Cazeaux
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 127.0
+## Current elo: 114.0
 
-## Current Percentile: 93.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bordeaux Begles |           146 |   0.530822 |
+| Bordeaux Begles |           150 |   0.523333 |
 | Dax             |             9 |   0.166667 |
 | France          |             3 |   0.333333 |
 
@@ -36,32 +36,32 @@ categories: player
 | Stade Francais Paris |        10 |   0.7      |
 | Montpellier Herault  |        10 |   0.4      |
 | Racing 92            |         9 |   0.555556 |
+| Castres Olympique    |         9 |   0.222222 |
 | La Rochelle          |         8 |   0.5      |
 | Brive                |         8 |   0.625    |
 | Pau                  |         8 |   0.5      |
-| Castres Olympique    |         8 |   0.25     |
 | Agen                 |         7 |   1        |
 | Grenoble             |         5 |   0.8      |
+| Bayonne              |         5 |   0.6      |
 | Perpignan            |         5 |   0.7      |
-| Bayonne              |         4 |   0.5      |
 | Oyonnax              |         3 |   0.666667 |
 | Edinburgh            |         2 |   1        |
+| Sharks               |         2 |   0        |
 | Exeter Chiefs        |         2 |   0.5      |
+| Gloucester Rugby     |         2 |   0        |
 | Dragons              |         2 |   0.5      |
 | Albi                 |         2 |   0        |
-| Australia            |         2 |   0.5      |
 | Connacht             |         2 |   0        |
-| Bourgoin-Jallieu     |         2 |   0.25     |
+| Australia            |         2 |   0.5      |
 | RC Enisei            |         2 |   1        |
-| Sale Sharks          |         1 |   0        |
+| Bourgoin-Jallieu     |         2 |   0.25     |
 | Ulster               |         1 |   1        |
 | Tarbes               |         1 |   0        |
-| Sharks               |         1 |   0        |
 | Carcassonne          |         1 |   0        |
+| Sale Sharks          |         1 |   0        |
 | Bristol Rugby        |         1 |   0        |
 | England              |         1 |   0        |
 | Ospreys              |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
 | Montauban            |         1 |   1        |
-| Gloucester Rugby     |         1 |   0        |
 | Wasps                |         1 |   1        |

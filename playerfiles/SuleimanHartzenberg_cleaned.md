@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Suleiman  Hartzenberg  
-date: 2023-01-06 00:13:11.648704  
+date: 2023-02-02 19:05:08.328222  
 categories: player  
 ---
 # Suleiman  Hartzenberg
 
-## Positions: C, W
+## Positions: W, C
 
-## Current elo: 110.0
+## Current elo: 81.0
 
-## Current Percentile: 63.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,14 +21,17 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Stormers |             8 |      0.875 |
+| Stormers |            12 |       0.75 |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Lions         |         2 |          1 |
-| Bulls         |         1 |          1 |
-| Cardiff Blues |         1 |          0 |
-| Connacht      |         1 |          1 |
-| Edinburgh     |         1 |          1 |
-| London Irish  |         1 |          1 |
-| Zebre         |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Lions             |         2 |          1 |
+| London Irish      |         2 |          1 |
+| Bulls             |         1 |          1 |
+| Cardiff Blues     |         1 |          0 |
+| Clermont Auvergne |         1 |          1 |
+| Connacht          |         1 |          1 |
+| Edinburgh         |         1 |          1 |
+| Glasgow Warriors  |         1 |          0 |
+| Ulster            |         1 |          0 |
+| Zebre             |         1 |          1 |

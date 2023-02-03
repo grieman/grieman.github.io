@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marcus Smith  
-date: 2023-01-17 11:41:58.386533  
+date: 2023-02-02 18:52:42.843830  
 categories: player  
 ---
 # Marcus Smith
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |           124 |   0.5      |
+| Harlequins |           125 |   0.504    |
 | England    |            17 |   0.617647 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,20 +45,21 @@ categories: player
 | Clermont Auvergne        |         3 |   0        |
 | South Africa             |         2 |   0.5      |
 | Agen                     |         2 |   1        |
-| Castres Olympique        |         2 |   1        |
-| Grenoble                 |         2 |   0.5      |
-| Benetton Treviso         |         2 |   0.5      |
-| Cardiff Blues            |         2 |   1        |
 | La Rochelle              |         2 |   0        |
-| Ireland                  |         1 |   0        |
-| Racing 92                |         1 |   0        |
-| France                   |         1 |   0        |
-| Japan                    |         1 |   1        |
-| Scotland                 |         1 |   0        |
-| New Zealand              |         1 |   0.5      |
-| Tonga                    |         1 |   1        |
-| Canada                   |         1 |   1        |
-| United States of America |         1 |   1        |
+| Benetton Treviso         |         2 |   0.5      |
+| Grenoble                 |         2 |   0.5      |
+| Castres Olympique        |         2 |   1        |
+| Cardiff Blues            |         2 |   1        |
+| Sharks                   |         1 |   1        |
 | Wales                    |         1 |   1        |
-| Italy                    |         1 |   1        |
+| United States of America |         1 |   1        |
+| Canada                   |         1 |   1        |
+| Tonga                    |         1 |   1        |
 | Argentina                |         1 |   0        |
+| Japan                    |         1 |   1        |
+| France                   |         1 |   0        |
+| Racing 92                |         1 |   0        |
+| Ireland                  |         1 |   0        |
+| New Zealand              |         1 |   0.5      |
+| Italy                    |         1 |   1        |
+| Scotland                 |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gauthier Doubrere  
-date: 2023-01-06 00:23:27.922269  
+date: 2023-02-02 19:01:42.652470  
 categories: player  
 ---
 # Gauthier Doubrere
 
 ## Positions: SH
 
-## Current elo: 110.0
+## Current elo: 103.0
 
-## Current Percentile: 71.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Biarritz Olympique |            49 |   0.561224 |
 | Bordeaux Begles    |            21 |   0.5      |
 | Mont-de-Marsan     |            21 |   0.761905 |
-| Castres Olympique  |             9 |   0.277778 |
+| Castres Olympique  |            12 |   0.291667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,18 +42,18 @@ categories: player
 | Agen                 |         4 |   1        |
 | Colomiers            |         4 |   0.25     |
 | Clermont Auvergne    |         3 |   0.5      |
+| Stade Francais Paris |         3 |   0.333333 |
 | Soyaux-Angouleme     |         3 |   0.666667 |
 | Perpignan            |         3 |   0        |
 | Provence Rugby       |         3 |   0.333333 |
-| Rouen                |         2 |   1        |
-| Massy                |         2 |   0.5      |
 | Exeter Chiefs        |         2 |   0        |
-| Dragons              |         2 |   0.5      |
-| Stade Francais Paris |         2 |   0.5      |
-| La Rochelle          |         2 |   0.5      |
-| RC Enisei            |         2 |   1        |
 | Racing 92            |         2 |   0.25     |
-| Bordeaux Begles      |         1 |   0        |
+| La Rochelle          |         2 |   0.5      |
+| Massy                |         2 |   0.5      |
+| Dragons              |         2 |   0.5      |
+| Rouen                |         2 |   1        |
+| Bordeaux Begles      |         2 |   0.5      |
+| RC Enisei            |         2 |   1        |
 | Stade Toulousain     |         1 |   0        |
 | Roval Drome XV       |         1 |   1        |
 | Pau                  |         1 |   1        |
@@ -61,5 +61,6 @@ categories: player
 | Castres Olympique    |         1 |   0        |
 | Narbonne             |         1 |   1        |
 | Montpellier Herault  |         1 |   0        |
+| Edinburgh            |         1 |   0        |
 | Lyon                 |         1 |   0        |
 | Brive                |         1 |   0        |

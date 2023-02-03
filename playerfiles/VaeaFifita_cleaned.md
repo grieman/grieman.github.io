@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaea Fifita  
-date: 2023-01-06 00:18:57.815305  
+date: 2023-02-02 18:39:25.720945  
 categories: player  
 ---
 # Vaea Fifita
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 134.0
+## Current elo: 128.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -26,8 +26,8 @@ categories: player
 | Hurricanes  |            71 |   0.71831  |
 | Wellington  |            41 |   0.54878  |
 | Wasps       |            18 |   0.5      |
+| Scarlets    |            12 |   0.541667 |
 | New Zealand |            11 |   0.954545 |
-| Scarlets    |             8 |   0.3125   |
 | Tonga       |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -37,56 +37,57 @@ categories: player
 | Crusaders                |         9 |   0.333333 |
 | North Harbour            |         7 |   0.714286 |
 | Highlanders              |         6 |   0.666667 |
-| Sharks                   |         5 |   0.8      |
 | Lions                    |         5 |   0.6      |
-| Taranaki                 |         4 |   0.5      |
-| Jaguares                 |         4 |   0.75     |
-| Waikato                  |         4 |   0.5      |
-| Northland                |         4 |   0.75     |
+| Sharks                   |         5 |   0.8      |
 | Otago                    |         4 |   0.5      |
+| Jaguares                 |         4 |   0.75     |
+| Northland                |         4 |   0.75     |
 | Brumbies                 |         4 |   0.75     |
-| Argentina                |         3 |   1        |
-| Tasman                   |         3 |   0        |
-| Stormers                 |         3 |   0.666667 |
-| Southland                |         3 |   1        |
-| Counties Manukau         |         3 |   0.666667 |
-| Melbourne Rebels         |         3 |   1        |
+| Taranaki                 |         4 |   0.5      |
+| Waikato                  |         4 |   0.5      |
 | France                   |         3 |   1        |
+| Southland                |         3 |   1        |
+| Melbourne Rebels         |         3 |   1        |
+| Stormers                 |         3 |   0.666667 |
+| Tasman                   |         3 |   0        |
 | Hawke's Bay              |         3 |   0.166667 |
-| Northampton Saints       |         2 |   0.5      |
-| Auckland                 |         2 |   0.5      |
-| Ospreys                  |         2 |   0.25     |
-| Newcastle Falcons        |         2 |   0.5      |
+| Argentina                |         3 |   1        |
+| Bulls                    |         3 |   0.666667 |
+| Counties Manukau         |         3 |   0.666667 |
+| Cheetahs                 |         3 |   1        |
 | New South Wales Waratahs |         2 |   1        |
-| Harlequins               |         2 |   0        |
-| Gloucester Rugby         |         2 |   0.5      |
-| Exeter Chiefs            |         2 |   0.5      |
-| Sunwolves                |         2 |   1        |
-| Cheetahs                 |         2 |   1        |
-| Canterbury               |         2 |   0.5      |
-| Bulls                    |         2 |   0.5      |
 | Western Force            |         2 |   1        |
 | Bath Rugby               |         2 |   1        |
-| Spain                    |         1 |   1        |
-| Saracens                 |         1 |   1        |
+| Sunwolves                |         2 |   1        |
+| Gloucester Rugby         |         2 |   0.5      |
+| Ospreys                  |         2 |   0.25     |
+| Canterbury               |         2 |   0.5      |
+| Northampton Saints       |         2 |   0.5      |
+| Cardiff Blues            |         2 |   0.5      |
+| Newcastle Falcons        |         2 |   0.5      |
+| Exeter Chiefs            |         2 |   0.5      |
+| Auckland                 |         2 |   0.5      |
+| Harlequins               |         2 |   0        |
+| Manawatu                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |
-| Ulster                   |         1 |   0        |
+| Dragons                  |         1 |   1        |
 | Uruguay                  |         1 |   1        |
+| Ulster                   |         1 |   0        |
+| Bay of Plenty            |         1 |   1        |
+| Bayonne                  |         1 |   1        |
+| Italy                    |         1 |   1        |
+| Benetton Treviso         |         1 |   0        |
+| Spain                    |         1 |   1        |
+| Bristol Rugby            |         1 |   1        |
 | South Africa             |         1 |   0.5      |
-| Scotland                 |         1 |   1        |
 | London Irish             |         1 |   1        |
+| British and Irish Lions  |         1 |   0.5      |
+| Scotland                 |         1 |   1        |
+| Saracens                 |         1 |   1        |
 | Samoa                    |         1 |   1        |
 | Sale Sharks              |         1 |   0        |
 | Queensland Reds          |         1 |   1        |
-| Manawatu                 |         1 |   0        |
-| Leicester Tigers         |         1 |   0        |
-| Japan                    |         1 |   1        |
-| Italy                    |         1 |   1        |
-| Dragons                  |         1 |   1        |
 | Chile                    |         1 |   1        |
-| Cardiff Blues            |         1 |   0        |
-| British and Irish Lions  |         1 |   0.5      |
-| Bristol Rugby            |         1 |   1        |
-| Benetton Treviso         |         1 |   0        |
-| Bay of Plenty            |         1 |   1        |
+| Japan                    |         1 |   1        |
+| Leicester Tigers         |         1 |   0        |
 | Worcester Warriors       |         1 |   0        |

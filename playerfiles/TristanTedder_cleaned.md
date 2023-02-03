@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tristan Tedder  
-date: 2023-01-30 11:47:44.726936  
+date: 2023-02-02 18:47:58.201189  
 categories: player  
 ---
 # Tristan Tedder

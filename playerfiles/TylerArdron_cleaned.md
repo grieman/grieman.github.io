@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyler Ardron  
-date: 2023-01-13 11:33:19.258217  
+date: 2023-02-02 19:03:09.666756  
 categories: player  
 ---
 # Tyler Ardron
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Ospreys           |            64 |   0.539062 |
-| Castres Olympique |            41 |   0.585366 |
+| Castres Olympique |            42 |   0.595238 |
 | Chiefs            |            30 |   0.666667 |
 | Canada            |            26 |   0.25     |
 | Bay of Plenty     |            15 |   0.466667 |
@@ -46,6 +46,7 @@ categories: player
 | Highlanders              |         4 |   0.625    |
 | Dragons                  |         4 |   1        |
 | Pau                      |         4 |   1        |
+| Bordeaux Begles          |         4 |   0.375    |
 | Ulster                   |         4 |   0.25     |
 | Georgia                  |         3 |   0.333333 |
 | Bayonne                  |         3 |   1        |
@@ -54,7 +55,6 @@ categories: player
 | Italy                    |         3 |   0        |
 | Brive                    |         3 |   0.666667 |
 | Romania                  |         3 |   0        |
-| Bordeaux Begles          |         3 |   0.166667 |
 | Crusaders                |         3 |   0.666667 |
 | Stade Toulousain         |         3 |   0.5      |
 | Cardiff Blues            |         3 |   0.666667 |

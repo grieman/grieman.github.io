@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Clergue  
-date: 2023-01-30 11:46:37.317064  
+date: 2023-02-02 18:51:24.123769  
 categories: player  
 ---
 # Paul Clergue
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 25.0
+## Current Percentile: 24.0
 
 # Elo History
 

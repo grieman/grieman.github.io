@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kirby Myhill  
-date: 2023-01-06 00:12:55.930329  
+date: 2023-02-02 18:49:11.100178  
 categories: player  
 ---
 # Kirby Myhill
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 97.0
+## Current elo: 87.0
 
-## Current Percentile: 25.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Cardiff Blues |            93 |   0.543011 |
+| Cardiff Blues |            97 |   0.530928 |
 | Scarlets      |            73 |   0.582192 |
 | Wales         |             1 |   0        |
 
@@ -36,27 +36,28 @@ categories: player
 | Dragons            |        11 |   1        |
 | Connacht           |        10 |   0.6      |
 | Ulster             |        10 |   0.45     |
-| Scarlets           |         7 |   0.285714 |
+| Scarlets           |         8 |   0.25     |
 | Cardiff Blues      |         7 |   0.428571 |
 | Glasgow Warriors   |         7 |   0.428571 |
 | Benetton Treviso   |         6 |   1        |
+| Leinster           |         6 |   0.333333 |
 | Leicester Tigers   |         5 |   0.6      |
-| Leinster           |         5 |   0.4      |
 | Pau                |         5 |   0.8      |
 | Northampton Saints |         4 |   0        |
 | Cheetahs           |         4 |   0.75     |
 | Racing 92          |         3 |   0.5      |
 | Harlequins         |         3 |   0.333333 |
 | Sale Sharks        |         3 |   0.333333 |
+| Newcastle Falcons  |         3 |   0.666667 |
 | Saracens           |         2 |   0        |
 | Worcester Warriors |         2 |   0        |
-| Newcastle Falcons  |         2 |   0.5      |
 | Lions              |         2 |   0        |
 | Lyon               |         2 |   1        |
 | London Irish       |         2 |   0.5      |
 | Bath Rugby         |         2 |   0.5      |
 | Gloucester Rugby   |         2 |   1        |
 | Bulls              |         2 |   0        |
+| Brive              |         2 |   0.5      |
 | Bristol Rugby      |         2 |   1        |
 | New Zealand        |         1 |   0        |
 | Exeter Chiefs      |         1 |   0        |
@@ -66,5 +67,4 @@ categories: player
 | Southern Kings     |         1 |   1        |
 | Stormers           |         1 |   1        |
 | Toulon             |         1 |   0        |
-| Brive              |         1 |   1        |
 | Aironi             |         1 |   1        |

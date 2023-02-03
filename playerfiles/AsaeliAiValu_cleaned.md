@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Asaeli Ai Valu  
-date: 2023-01-15 11:52:21.976369  
+date: 2023-02-02 18:53:53.256879  
 categories: player  
 ---
 # Asaeli Ai Valu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 119.0
+## Current elo: 120.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,19 +23,19 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            48 |   0.927083 |
+| Saitama Wild Knights |            50 |   0.93     |
 | Japan                |            20 |   0.375    |
 | Sunwolves            |             6 |   0.166667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Yokohama Canon Eagles             |         5 |   1        |
+| Yokohama Canon Eagles             |         6 |   1        |
 | Shizuoka Blue Revs                |         5 |   0.8      |
+| Black Rams Tokyo                  |         5 |   0.8      |
 | Toyota Verblitz                   |         4 |   1        |
 | Coca-Cola Red Sparks              |         4 |   1        |
 | Green Rockets Tokatsu             |         4 |   1        |
 | Kobelco Kobe Steelers             |         4 |   0.875    |
-| Black Rams Tokyo                  |         4 |   0.75     |
 | Urayasu D-Rocks                   |         3 |   1        |
 | Tokyo Sungoliath                  |         3 |   0.666667 |
 | France                            |         3 |   0.166667 |

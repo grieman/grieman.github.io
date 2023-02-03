@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keita Inagaki  
-date: 2023-01-13 11:32:14.262954  
+date: 2023-02-02 18:48:15.120267  
 categories: player  
 ---
 # Keita Inagaki
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 118.0
+## Current elo: 120.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,22 +23,23 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            56 |  0.910714  |
+| Saitama Wild Knights |            59 |  0.915254  |
 | Japan                |            40 |  0.3875    |
 | Sunwolves            |            24 |  0.0416667 |
 | Melbourne Rebels     |             1 |  0         |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Yokohama Canon Eagles             |         7 |   0.857143 |
 | Shizuoka Blue Revs                |         7 |   0.785714 |
-| Yokohama Canon Eagles             |         6 |   0.833333 |
-| Black Rams Tokyo                  |         5 |   0.8      |
+| Black Rams Tokyo                  |         6 |   0.833333 |
+| Scotland                          |         5 |   0.2      |
 | Toshiba Brave Lupus Tokyo         |         5 |   1        |
 | Ireland                           |         5 |   0.2      |
-| Scotland                          |         5 |   0.2      |
-| France                            |         4 |   0.125    |
+| Toyota Verblitz                   |         4 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         4 |   1        |
 | Kobelco Kobe Steelers             |         4 |   0.875    |
+| France                            |         4 |   0.125    |
 | Melbourne Rebels                  |         3 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
 | Green Rockets Tokatsu             |         3 |   1        |
@@ -46,7 +47,6 @@ categories: player
 | South Africa                      |         3 |   0.333333 |
 | Tokyo Sungoliath                  |         3 |   0.666667 |
 | Bulls                             |         3 |   0.333333 |
-| Toyota Verblitz                   |         3 |   1        |
 | Urayasu D-Rocks                   |         3 |   1        |
 | New South Wales Waratahs          |         3 |   0        |
 | Sharks                            |         2 |   0        |

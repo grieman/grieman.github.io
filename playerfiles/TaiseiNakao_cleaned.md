@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taisei Nakao  
-date: 2023-01-30 17:52:03.842214  
+date: 2023-02-02 18:39:37.698375  
 categories: player  
 ---
 # Taisei Nakao

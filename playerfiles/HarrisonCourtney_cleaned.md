@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Harrison Courtney  
-date: 2023-01-06 00:09:54.929010  
+date: 2023-02-02 19:03:01.044641  
 categories: player  
 ---
 # Harrison Courtney
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 94.0
 
 ## Current Percentile: 45.0
 

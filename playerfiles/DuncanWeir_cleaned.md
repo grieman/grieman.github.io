@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duncan Weir  
-date: 2023-01-17 11:35:09.056268  
+date: 2023-02-02 19:04:06.627485  
 categories: player  
 ---
 # Duncan Weir
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Glasgow Warriors   |           129 |   0.593023 |
+| Glasgow Warriors   |           131 |   0.59542  |
 | Worcester Warriors |            50 |   0.32     |
 | Edinburgh          |            35 |   0.485714 |
 | Scotland           |            33 |   0.424242 |
@@ -31,7 +31,7 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Scarlets                 |        15 |   0.533333 |
-| Dragons                  |        13 |   0.730769 |
+| Dragons                  |        14 |   0.75     |
 | Ulster                   |        13 |   0.461538 |
 | Munster                  |        13 |   0.461538 |
 | Ospreys                  |        13 |   0.576923 |
@@ -40,7 +40,7 @@ categories: player
 | Benetton Treviso         |        11 |   0.454545 |
 | Connacht                 |        11 |   0.590909 |
 | Edinburgh                |         9 |   0.833333 |
-| Bath Rugby               |         8 |   0.5      |
+| Bath Rugby               |         9 |   0.5      |
 | Zebre                    |         7 |   1        |
 | Leicester Tigers         |         6 |   0.5      |
 | Exeter Chiefs            |         6 |   0.333333 |

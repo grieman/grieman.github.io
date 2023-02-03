@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Grant Williams  
-date: 2023-01-06 00:19:38.826024  
+date: 2023-02-02 18:47:33.129832  
 categories: player  
 ---
 # Grant Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 100.0
+## Current elo: 90.0
 
-## Current Percentile: 26.0
+## Current Percentile: 23.0
 
 # Elo History
 

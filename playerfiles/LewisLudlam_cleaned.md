@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Lewis Ludlam  
-date: 2023-01-06 00:16:15.429312  
+date: 2023-02-02 18:45:47.095782  
 categories: player  
 ---
 # Lewis Ludlam
 
-## Positions: FL
+## Positions: FL, N8
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 92.0
 
-## Current Percentile: 32.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |           101 |   0.475248 |
+| Northampton Saints |           104 |   0.461538 |
 | England            |            14 |   0.714286 |
 | Rotherham Titans   |             4 |   0        |
 
@@ -31,9 +31,9 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Wasps                    |         9 |   0.555556 |
 | Leicester Tigers         |         9 |   0.333333 |
+| Exeter Chiefs            |         9 |   0.333333 |
 | Gloucester Rugby         |         8 |   0.5      |
 | Bath Rugby               |         8 |   0.5      |
-| Exeter Chiefs            |         8 |   0.375    |
 | Sale Sharks              |         7 |   0.428571 |
 | Newcastle Falcons        |         7 |   0.571429 |
 | Harlequins               |         7 |   0.285714 |
@@ -49,16 +49,16 @@ categories: player
 | Wales                    |         2 |   0.5      |
 | United States of America |         2 |   1        |
 | Lyon                     |         2 |   1        |
+| Munster                  |         2 |   0        |
 | Scotland                 |         2 |   0.5      |
+| La Rochelle              |         2 |   0        |
+| Scarlets                 |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Timisoara Saracens       |         1 |   1        |
-| Scarlets                 |         1 |   1        |
-| Canada                   |         1 |   1        |
 | France                   |         1 |   0        |
-| La Rochelle              |         1 |   0        |
+| Canada                   |         1 |   1        |
 | Nottingham               |         1 |   0        |
 | Cornish Pirates          |         1 |   0        |
-| Munster                  |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
 | London Scottish          |         1 |   0        |
 | Dragons                  |         1 |   1        |

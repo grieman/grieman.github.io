@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Coletta  
-date: 2023-01-13 11:29:51.071387  
+date: 2023-02-02 18:42:53.473819  
 categories: player  
 ---
 # Anthony Coletta
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 65.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Dax              |           109 |   0.325688 |
-| Colomiers        |            61 |   0.565574 |
+| Colomiers        |            63 |   0.579365 |
 | Soyaux-Angouleme |            61 |   0.57377  |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -31,8 +31,8 @@ categories: player
 | Beziers                    |        14 |   0.571429 |
 | Montauban                  |        14 |   0.535714 |
 | Aurillac                   |        13 |   0.538462 |
+| Biarritz Olympique         |        13 |   0.384615 |
 | Mont-de-Marsan             |        12 |   0.416667 |
-| Biarritz Olympique         |        12 |   0.333333 |
 | Narbonne                   |        11 |   0.636364 |
 | Perpignan                  |        10 |   0.35     |
 | Colomiers                  |        10 |   0.3      |
@@ -43,11 +43,11 @@ categories: player
 | Oyonnax                    |         8 |   0.4375   |
 | Provence Rugby             |         7 |   0.857143 |
 | Tarbes                     |         7 |   0.428571 |
+| Soyaux-Angouleme           |         6 |   0.666667 |
 | Bourgoin-Jallieu           |         6 |   0.333333 |
 | Bayonne                    |         6 |   0.666667 |
 | Pau                        |         5 |   0        |
 | US Bressane                |         5 |   0.6      |
-| Soyaux-Angouleme           |         5 |   0.6      |
 | Rouen                      |         5 |   0.8      |
 | Agen                       |         5 |   0.2      |
 | Massy                      |         5 |   0.5      |

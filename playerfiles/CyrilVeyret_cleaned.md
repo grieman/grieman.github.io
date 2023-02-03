@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Cyril Veyret  
-date: 2023-01-17 11:45:20.503386  
+date: 2023-02-02 19:09:47.085965  
 categories: player  
 ---
 # Cyril Veyret
 
 ## Positions: L
 
-## Current elo: 135.0
+## Current elo: 130.0
 
 ## Current Percentile: 98.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            68 |   0.536765 |
+| US Bressane |            69 |   0.528986 |
 | Grenoble    |            46 |   0.684783 |
 | Tarbes      |            38 |   0.434211 |
 
@@ -39,17 +39,17 @@ categories: player
 | Oyonnax                    |         6 |   0.5      |
 | Bayonne                    |         6 |   0.166667 |
 | Montauban                  |         6 |   0.333333 |
-| Provence Rugby             |         5 |   0.5      |
 | Massy                      |         5 |   0.8      |
+| Provence Rugby             |         5 |   0.5      |
+| Blagnac                    |         4 |   0.75     |
 | Lyon                       |         4 |   0.375    |
 | Biarritz Olympique         |         4 |   0.5      |
 | Auch                       |         4 |   0.75     |
 | Pau                        |         4 |   0.875    |
-| Perpignan                  |         3 |   0.333333 |
 | Vannes                     |         3 |   0.166667 |
+| Perpignan                  |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |
 | Bordeaux Begles            |         3 |   0.5      |
-| Blagnac                    |         3 |   1        |
 | Chambery                   |         3 |   0.666667 |
 | Rouen                      |         2 |   0.75     |
 | Soyaux-Angouleme           |         2 |   0.5      |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Luca Petrozzi  
-date: 2023-01-06 00:15:39.379805  
+date: 2023-02-02 18:39:15.740625  
 categories: player  
 ---
 # Luca Petrozzi
 
 ## Positions: SH
 
-## Current elo: 106.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| London Scottish  |             9 |   0.111111 |
-| Benetton Treviso |             3 |   0.333333 |
+| London Scottish  |            11 |  0.0909091 |
+| Benetton Treviso |             3 |  0.333333  |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Ampthill             |         1 |          0 |
+| Ampthill             |         2 |          0 |
+| Jersey               |         2 |          0 |
 | Caldy                |         1 |          1 |
 | Connacht             |         1 |          0 |
 | Cornish Pirates      |         1 |          0 |
 | Coventry             |         1 |          0 |
 | Doncaster            |         1 |          0 |
 | Ealing Trailfinders  |         1 |          0 |
-| Jersey               |         1 |          0 |
 | Leinster             |         1 |          0 |
 | Nottingham           |         1 |          0 |
 | Richmond             |         1 |          0 |

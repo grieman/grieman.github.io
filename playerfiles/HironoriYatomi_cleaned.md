@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hironori Yatomi  
-date: 2023-01-13 11:38:51.389464  
+date: 2023-02-02 19:14:19.244358  
 categories: player  
 ---
 # Hironori Yatomi
 
 ## Positions: W
 
-## Current elo: 87.0
+## Current elo: 83.0
 
-## Current Percentile: 36.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            13 |   0.384615 |
+| Shizuoka Blue Revs |            15 |        0.4 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
-| Black Rams Tokyo          |         3 |   0.666667 |
-| Toshiba Brave Lupus Tokyo |         2 |   0        |
-| Toyota Verblitz           |         2 |   0        |
-| Green Rockets Tokatsu     |         1 |   1        |
-| Hino Red Dolphins         |         1 |   1        |
-| Kobelco Kobe Steelers     |         1 |   0        |
-| Saitama Wild Knights      |         1 |   0        |
-| Tokyo Sungoliath          |         1 |   0        |
-| Yokohama Canon Eagles     |         1 |   1        |
+| Black Rams Tokyo          |         4 |        0.5 |
+| Green Rockets Tokatsu     |         2 |        1   |
+| Toshiba Brave Lupus Tokyo |         2 |        0   |
+| Toyota Verblitz           |         2 |        0   |
+| Hino Red Dolphins         |         1 |        1   |
+| Kobelco Kobe Steelers     |         1 |        0   |
+| Saitama Wild Knights      |         1 |        0   |
+| Tokyo Sungoliath          |         1 |        0   |
+| Yokohama Canon Eagles     |         1 |        1   |

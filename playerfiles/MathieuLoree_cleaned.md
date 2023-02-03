@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathieu Loree  
-date: 2023-01-15 11:42:23.171348  
+date: 2023-02-02 18:44:46.181311  
 categories: player  
 ---
 # Mathieu Loree
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Algeria
 
-## Current elo: 119.0
+## Current elo: 118.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Agen                       |            21 |   0.238095 |
 | Massy                      |            17 |   0.205882 |
 | Mont-de-Marsan             |            16 |   0.625    |
-| Nice                       |            10 |   0.45     |
+| Nice                       |            12 |   0.458333 |
 | Grenoble                   |             9 |   0.166667 |
 | Roval Drome XV             |             4 |   0        |
 | Algeria                    |             3 |   0.666667 |
@@ -46,15 +46,15 @@ categories: player
 | Stade Toulousain           |         7 |   0.428571 |
 | Stade Francais Paris       |         7 |   0.714286 |
 | Aurillac                   |         7 |   0.571429 |
+| Bourgoin-Jallieu           |         7 |   0.285714 |
 | Carcassonne                |         6 |   1        |
 | Montauban                  |         6 |   0.333333 |
 | Dax                        |         6 |   0.5      |
 | Mont-de-Marsan             |         6 |   0.583333 |
-| Bourgoin-Jallieu           |         6 |   0.333333 |
 | Bordeaux Begles            |         6 |   0.5      |
 | Biarritz Olympique         |         6 |   0.5      |
-| Albi                       |         5 |   0.9      |
 | Oyonnax                    |         5 |   0.2      |
+| Albi                       |         5 |   0.9      |
 | Brive                      |         5 |   0.8      |
 | Provence Rugby             |         5 |   0.4      |
 | Vannes                     |         5 |   0.4      |
@@ -72,6 +72,7 @@ categories: player
 | Blagnac                    |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         2 |   1        |
+| Suresnes                   |         2 |   1        |
 | Cardiff Blues              |         2 |   0        |
 | Massy                      |         2 |   0        |
 | Lyon                       |         2 |   1        |
@@ -79,7 +80,6 @@ categories: player
 | London Welsh               |         2 |   1        |
 | Leinster                   |         2 |   0        |
 | Senegal                    |         1 |   1        |
-| Suresnes                   |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Wasps                      |         1 |   0        |
 | London Irish               |         1 |   0        |

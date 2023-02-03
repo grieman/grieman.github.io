@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Bodilly  
-date: 2023-01-21 15:41:22.671055  
+date: 2023-02-02 18:46:13.744634  
 categories: player  
 ---
 # Max Bodilly
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            34 |   0.852941 |
+| Ealing Trailfinders |            36 |   0.833333 |
 | Exeter Chiefs       |            34 |   0.573529 |
 | Cornish Pirates     |             8 |   0.6875   |
 
@@ -30,13 +30,13 @@ categories: player
 | Saracens            |         8 |   0.125    |
 | Doncaster           |         5 |   0.6      |
 | Bedford             |         5 |   0.7      |
+| Hartpury College    |         5 |   1        |
 | Ampthill            |         4 |   1        |
 | Richmond            |         4 |   0.75     |
 | Nottingham          |         4 |   1        |
 | Leicester Tigers    |         4 |   0.25     |
-| Hartpury College    |         4 |   1        |
 | Jersey              |         4 |   0.75     |
-| Coventry            |         3 |   1        |
+| Coventry            |         4 |   0.75     |
 | Gloucester Rugby    |         3 |   0.5      |
 | Harlequins          |         3 |   0.666667 |
 | Cornish Pirates     |         3 |   0.666667 |

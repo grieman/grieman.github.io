@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Timothy Lafaele  
-date: 2023-01-13 11:27:34.976866  
+date: 2023-02-02 18:40:29.567133  
 categories: player  
 ---
 # Timothy Lafaele
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 108.0
+## Current elo: 107.0
 
 ## Current Percentile: 77.0
 
@@ -25,7 +25,7 @@ categories: player
 |:----------------------|--------------:|-----------:|
 | Coca-Cola Red Sparks  |            27 |   0.037037 |
 | Japan                 |            25 |   0.46     |
-| Kobelco Kobe Steelers |            22 |   0.818182 |
+| Kobelco Kobe Steelers |            25 |   0.72     |
 | Sunwolves             |            21 |   0.190476 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -35,18 +35,18 @@ categories: player
 | Green Rockets Tokatsu             |         5 |   0.8      |
 | Shizuoka Blue Revs                |         5 |   0.4      |
 | Black Rams Tokyo                  |         5 |   0.6      |
+| Toyota Verblitz                   |         3 |   0        |
 | Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
+| Tokyo Sungoliath                  |         3 |   0.333333 |
 | Stormers                          |         3 |   0.333333 |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |
 | Ireland                           |         3 |   0.333333 |
-| Toyota Verblitz                   |         2 |   0        |
-| Tokyo Sungoliath                  |         2 |   0.5      |
 | South Africa                      |         2 |   0        |
 | Italy                             |         2 |   0.5      |
 | Urayasu D-Rocks                   |         2 |   0.5      |
 | Russia                            |         2 |   1        |
 | Munakata Sanix Blues              |         2 |   0        |
 | Australia                         |         2 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Kobelco Kobe Steelers             |         2 |   0        |
 | Jaguares                          |         2 |   0        |
 | Mie Honda Heat                    |         2 |   0.5      |

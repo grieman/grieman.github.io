@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taylor Davies  
-date: 2023-01-30 11:44:03.618887  
+date: 2023-02-02 19:07:39.538334  
 categories: player  
 ---
 # Taylor Davies

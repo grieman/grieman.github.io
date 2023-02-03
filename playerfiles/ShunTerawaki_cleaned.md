@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shun Terawaki  
-date: 2023-01-30 17:52:27.316510  
+date: 2023-02-02 19:00:49.577865  
 categories: player  
 ---
 # Shun Terawaki

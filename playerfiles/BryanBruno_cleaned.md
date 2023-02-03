@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Bryan Bruno  
-date: 2023-01-21 15:41:03.569321  
+date: 2023-02-02 19:13:27.253397  
 categories: player  
 ---
 # Bryan Bruno
 
 ## Positions: 
 
-## Current elo: 88.0
+## Current elo: 87.0
 
 ## Current Percentile: None
 
@@ -17,13 +17,13 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |             6 |          0 |
+| Cognac Saint Jean d'Angély |             7 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Chambery            |         2 |          0 |
 | Albi                |         1 |          0 |
 | Carqueiranne-Hyères |         1 |          0 |
-| Chambery            |         1 |          0 |
 | Dax                 |         1 |          0 |
 | Narbonne            |         1 |          0 |
 | US Bressane         |         1 |          0 |

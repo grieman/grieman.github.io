@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Daisuke Iba  
-date: 2023-01-17 11:39:16.936122  
+date: 2023-02-02 18:52:20.024965  
 categories: player  
 ---
 # Daisuke Iba
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 89.0
 
 ## Current Percentile: 46.0
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka |             2 |        0.5 |
+| NTT Docomo Red Hurricanes Osaka |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Kurita Water Gush   |         1 |          0 |
 | Skyactivs Hiroshima |         1 |          1 |
 | Tokyo Sungoliath    |         1 |          0 |

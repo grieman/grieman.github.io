@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jean-Luc du Plessis  
-date: 2023-01-23 15:32:10.877070  
+date: 2023-02-02 18:51:30.029210  
 categories: player  
 ---
 # Jean-Luc du Plessis
 
 ## Positions: FH
 
-## Current elo: 82.0
+## Current elo: 81.0
 
 ## Current Percentile: 16.0
 
@@ -21,9 +21,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            42 |   0.571429 |
-| Western Province |             4 |   0.5      |
-| Mie Honda Heat   |             1 |   1        |
+| Stormers         |            43 |    0.55814 |
+| Western Province |             4 |    0.5     |
+| Mie Honda Heat   |             1 |    1       |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -35,13 +35,14 @@ categories: player
 | Queensland Reds          |         2 |   0.5      |
 | Blues                    |         2 |   0        |
 | Melbourne Rebels         |         2 |   1        |
-| Natal Sharks             |         1 |   0        |
+| New South Wales Waratahs |         1 |   0        |
+| Ulster                   |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | Skyactivs Hiroshima      |         1 |   1        |
 | Scarlets                 |         1 |   1        |
 | Pumas                    |         1 |   1        |
-| New South Wales Waratahs |         1 |   0        |
 | Blue Bulls               |         1 |   1        |
+| Natal Sharks             |         1 |   0        |
 | Hurricanes               |         1 |   0        |
 | Highlanders              |         1 |   1        |
 | Free State Cheetahs      |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Salles  
-date: 2023-01-06 00:15:55.662625  
+date: 2023-02-02 19:05:02.142249  
 categories: player  
 ---
 # Thomas Salles
 
 ## Positions: FB, W
 
-## Current elo: 111.0
+## Current elo: 100.0
 
-## Current Percentile: 18.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Aurillac |            94 |   0.409574 |
-| Toulon   |            20 |   0.45     |
+| Toulon   |            23 |   0.478261 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,15 +40,16 @@ categories: player
 | Colomiers                  |         5 |  0.4       |
 | Rouen                      |         4 |  0.75      |
 | Oyonnax                    |         4 |  0.5       |
+| Brive                      |         4 |  0.5       |
 | Montauban                  |         4 |  0.5       |
-| Brive                      |         3 |  0.666667  |
 | Massy                      |         3 |  0.666667  |
+| Pau                        |         3 |  1         |
 | Valence Romans Drome Rugby |         2 |  0.5       |
-| Pau                        |         2 |  1         |
-| Montpellier Herault        |         2 |  0         |
+| Bath Rugby                 |         2 |  1         |
 | Dax                        |         2 |  0.5       |
 | Clermont Auvergne          |         2 |  0.5       |
 | Castres Olympique          |         2 |  0.5       |
+| Montpellier Herault        |         2 |  0         |
 | Narbonne                   |         1 |  0         |
 | La Rochelle                |         1 |  0         |
 | Racing 92                  |         1 |  0         |
@@ -57,4 +58,3 @@ categories: player
 | Stade Toulousain           |         1 |  0         |
 | US Bressane                |         1 |  0         |
 | Bordeaux Begles            |         1 |  0         |
-| Bath Rugby                 |         1 |  1         |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Joly  
-date: 2023-01-13 11:37:13.531655  
+date: 2023-02-02 18:58:46.855186  
 categories: player  
 ---
 # Arthur Joly
 
 ## Positions: P
 
-## Current elo: 129.0
+## Current elo: 135.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Agen                 |           104 |   0.509615 |
 | La Rochelle          |            59 |   0.59322  |
-| Perpignan            |            22 |   0.454545 |
+| Perpignan            |            23 |   0.478261 |
 | Bourgoin-Jallieu     |            19 |   0.421053 |
 | London Welsh         |            17 |   0.294118 |
 | Stade Francais Paris |            15 |   0.6      |
@@ -33,22 +33,22 @@ categories: player
 | Racing 92            |        13 |   0.538462 |
 | Toulon               |        12 |   0.75     |
 | Pau                  |        12 |   0.333333 |
+| Stade Francais Paris |        12 |   0.583333 |
 | La Rochelle          |        11 |   0.454545 |
-| Stade Francais Paris |        11 |   0.545455 |
-| Brive                |        10 |   0.4      |
 | Stade Toulousain     |        10 |   0.1      |
+| Brive                |        10 |   0.4      |
 | Lyon                 |         9 |   0.333333 |
 | Castres Olympique    |         9 |   0.444444 |
-| Bordeaux Begles      |         8 |   0.5      |
 | Montpellier Herault  |         8 |   0.5      |
+| Bordeaux Begles      |         8 |   0.5      |
 | Albi                 |         8 |   0.625    |
-| Beziers              |         7 |   0.285714 |
 | Clermont Auvergne    |         7 |   0.285714 |
 | Oyonnax              |         7 |   0.285714 |
+| Beziers              |         7 |   0.285714 |
 | Grenoble             |         6 |   0.5      |
 | Narbonne             |         6 |   0.5      |
-| Biarritz Olympique   |         5 |   0.4      |
 | Bourgoin-Jallieu     |         5 |   0.6      |
+| Biarritz Olympique   |         5 |   0.4      |
 | Aurillac             |         5 |   0.4      |
 | Mont-de-Marsan       |         4 |   1        |
 | Agen                 |         4 |   1        |

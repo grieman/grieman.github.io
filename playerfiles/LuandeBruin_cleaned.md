@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luan de Bruin  
-date: 2023-01-13 11:30:25.364561  
+date: 2023-02-02 19:05:37.386458  
 categories: player  
 ---
 # Luan de Bruin
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 20.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -22,8 +22,8 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Cheetahs            |            31 |   0.322581 |
+| Edinburgh           |            17 |   0.5      |
 | Free State Cheetahs |            17 |   0.294118 |
-| Edinburgh           |            16 |   0.53125  |
 | Leicester Tigers    |            13 |   0.538462 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,8 +36,9 @@ categories: player
 | Cardiff Blues            |         3 |   0.666667 |
 | Glasgow Warriors         |         3 |   0        |
 | Ospreys                  |         3 |   0.333333 |
-| Blue Bulls               |         3 |   0        |
 | Griquas                  |         3 |   1        |
+| Blue Bulls               |         3 |   0        |
+| Sharks                   |         2 |   0.5      |
 | Scarlets                 |         2 |   0        |
 | Sale Sharks              |         2 |   0        |
 | Pumas                    |         2 |   0.25     |
@@ -55,16 +56,15 @@ categories: player
 | Western Force            |         1 |   1        |
 | Wasps                    |         1 |   1        |
 | Ulster                   |         1 |   0        |
-| Sharks                   |         1 |   1        |
-| Queensland Reds          |         1 |   0        |
 | Eastern Province Kings   |         1 |   0        |
-| Jaguares                 |         1 |   0        |
 | Exeter Chiefs            |         1 |   0        |
-| Pau                      |         1 |   1        |
+| London Irish             |         1 |   1        |
+| Queensland Reds          |         1 |   0        |
 | Gloucester Rugby         |         1 |   1        |
+| Pau                      |         1 |   1        |
 | Northampton Saints       |         1 |   0        |
 | Newcastle Falcons        |         1 |   1        |
 | New South Wales Waratahs |         1 |   0        |
+| Jaguares                 |         1 |   0        |
 | Melbourne Rebels         |         1 |   0        |
-| London Irish             |         1 |   1        |
 | Bath Rugby               |         1 |   0        |

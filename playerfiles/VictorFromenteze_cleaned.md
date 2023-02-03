@@ -1,12 +1,12 @@
 ---  
 layout: page  
 title: Victor Fromenteze  
-date: 2023-01-17 11:37:45.940595  
+date: 2023-02-02 18:39:05.742158  
 categories: player  
 ---
 # Victor Fromenteze
 
-## Positions: L
+## Positions: L, N8
 
 ## Current elo: 94.0
 
@@ -23,20 +23,20 @@ categories: player
 |:--------|--------------:|-----------:|
 | Dijon   |            18 |   0.277778 |
 | Aubenas |            17 |   0.323529 |
-| Rennes  |            13 |   0.153846 |
+| Rennes  |            15 |   0.133333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         6 |   0        |
+| Tarbes                     |         5 |   0.1      |
 | Chambery                   |         5 |   0.2      |
 | Massy                      |         4 |   0        |
-| Tarbes                     |         4 |   0.125    |
 | Suresnes                   |         4 |   0.25     |
 | Nice                       |         4 |   0.25     |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
-| Dax                        |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.333333 |
-| Valence Romans Drome Rugby |         2 |   0.5      |
+| Valence Romans Drome Rugby |         3 |   0.333333 |
+| Dax                        |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Aubenas                    |         2 |   0.75     |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Blagnac                    |         2 |   0.5      |

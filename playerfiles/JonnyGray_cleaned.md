@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonny Gray  
-date: 2023-01-06 00:14:08.741330  
+date: 2023-02-02 19:13:25.151765  
 categories: player  
 ---
 # Jonny Gray
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 102.0
+## Current elo: 93.0
 
-## Current Percentile: 59.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           110 |   0.618182 |
 | Scotland         |            70 |   0.45     |
-| Exeter Chiefs    |            35 |   0.714286 |
+| Exeter Chiefs    |            36 |   0.722222 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -55,13 +55,13 @@ categories: player
 | Zebre                    |         4 |   1        |
 | Japan                    |         4 |   0.75     |
 | Harlequins               |         4 |   0.5      |
+| Gloucester Rugby         |         4 |   0.75     |
 | Exeter Chiefs            |         4 |   0.625    |
 | New Zealand              |         3 |   0        |
 | Stade Toulousain         |         3 |   0.333333 |
 | Worcester Warriors       |         3 |   1        |
 | Northampton Saints       |         3 |   0.333333 |
 | Ospreys                  |         3 |   0.666667 |
-| Gloucester Rugby         |         3 |   0.666667 |
 | Sale Sharks              |         3 |   1        |
 | Samoa                    |         3 |   1        |
 | Fiji                     |         3 |   0.666667 |

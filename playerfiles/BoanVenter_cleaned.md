@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Boan Venter  
-date: 2023-01-06 00:14:58.125347  
+date: 2023-02-02 19:12:36.511161  
 categories: player  
 ---
 # Boan Venter
 
 ## Positions: P
 
-## Current elo: 106.0
+## Current elo: 92.0
 
-## Current Percentile: 80.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,21 +21,21 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Edinburgh           |            34 |   0.455882 |
+| Edinburgh           |            36 |   0.458333 |
 | Cheetahs            |            11 |   0.363636 |
 | Free State Cheetahs |             7 |   0.571429 |
 | Griffons            |             1 |   1        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Zebre             |         4 |   0.75     |
 | Cardiff Blues     |         4 |   0.5      |
-| Benetton Treviso  |         3 |   0.333333 |
 | Dragons           |         3 |   0.666667 |
 | Southern Kings    |         3 |   1        |
 | Scarlets          |         3 |   0.333333 |
 | Munster           |         3 |   0        |
 | Glasgow Warriors  |         3 |   0        |
-| Zebre             |         3 |   0.666667 |
+| Benetton Treviso  |         3 |   0.333333 |
 | Connacht          |         3 |   0.666667 |
 | Saracens          |         2 |   0.5      |
 | Western Province  |         2 |   0.5      |
@@ -43,10 +43,10 @@ categories: player
 | Lions             |         2 |   0        |
 | Stormers          |         2 |   0.25     |
 | Ospreys           |         2 |   0.5      |
+| Sharks            |         2 |   0.5      |
 | Bulls             |         2 |   0.5      |
 | Ulster            |         1 |   0        |
 | Border Bulldogs   |         1 |   1        |
-| Sharks            |         1 |   1        |
 | Pau               |         1 |   1        |
 | Pumas             |         1 |   1        |
 | Golden Lions      |         1 |   0        |

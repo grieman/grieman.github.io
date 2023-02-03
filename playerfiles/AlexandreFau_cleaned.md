@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexandre Fau  
-date: 2023-01-17 11:30:32.728690  
+date: 2023-02-02 19:11:00.556194  
 categories: player  
 ---
 # Alexandre Fau
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 43.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            10 |        0.2 |
+| Rennes |            12 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,4 +33,6 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Narbonne                   |         1 |          0 |
 | Nice                       |         1 |          0 |
+| Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          0 |

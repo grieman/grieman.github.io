@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom Stewart  
-date: 2023-01-06 00:11:25.125074  
+date: 2023-02-02 18:48:47.640039  
 categories: player  
 ---
 # Tom Stewart
 
 ## Positions: 
 
-## Current elo: 101.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 

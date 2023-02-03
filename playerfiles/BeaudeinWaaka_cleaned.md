@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Beaudein Waaka  
-date: 2023-01-21 15:45:13.698160  
+date: 2023-02-02 18:40:27.578650  
 categories: player  
 ---
 # Beaudein Waaka
 
 ## Positions: FB, W
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 45.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Taranaki               |            29 |   0.448276 |
 | New England Free Jacks |             6 |   0.666667 |
 | Waikato                |             6 |   0.666667 |
-| Kobelco Kobe Steelers  |             1 |   0        |
+| Kobelco Kobe Steelers  |             2 |   0        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -41,9 +41,10 @@ categories: player
 | Waikato                           |         2 |   0.25     |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
 | L. A. Giltinis                    |         1 |   0        |
-| Northland                         |         1 |   0        |
+| North Harbour                     |         1 |   0        |
 | Otago                             |         1 |   1        |
 | Seattle Seawolves                 |         1 |   1        |
 | Southland                         |         1 |   1        |
 | Taranaki                          |         1 |   0        |
-| North Harbour                     |         1 |   0        |
+| Toyota Verblitz                   |         1 |   0        |
+| Northland                         |         1 |   0        |

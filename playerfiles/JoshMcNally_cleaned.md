@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh McNally  
-date: 2023-01-30 11:42:53.929804  
+date: 2023-02-02 19:07:18.875786  
 categories: player  
 ---
 # Josh McNally

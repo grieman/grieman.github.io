@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Bridge  
-date: 2023-01-30 17:51:32.810293  
+date: 2023-02-02 18:54:51.035921  
 categories: player  
 ---
 # George Bridge

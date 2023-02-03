@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Shoma Makinouchi  
-date: 2023-01-15 11:54:29.391202  
+date: 2023-02-02 18:40:35.925014  
 categories: player  
 ---
 # Shoma Makinouchi
 
 ## Positions: L, FL
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: 49.0
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------------------|--------------:|-----------:|
 | Urayasu D-Rocks                  |             7 |   0.428571 |
 | Munakata Sanix Blues             |             3 |   0.666667 |
-| Toyota Industries Shuttles Aichi |             2 |   0.5      |
+| Toyota Industries Shuttles Aichi |             3 |   0.666667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Shimizu Blue Sharks               |         2 |        0.5 |
 | Chugoku Red Regulions             |         1 |        1   |
 | Hino Red Dolphins                 |         1 |        1   |
+| Kamaishi Seawaves                 |         1 |        1   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
 | Kyuden Voltex                     |         1 |        1   |
 | Shizuoka Blue Revs                |         1 |        0   |

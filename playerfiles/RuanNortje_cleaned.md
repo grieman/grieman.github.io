@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruan Nortje  
-date: 2023-01-06 00:11:17.526083  
+date: 2023-02-02 18:56:21.804971  
 categories: player  
 ---
 # Ruan Nortje
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 108.0
+## Current elo: 103.0
 
-## Current Percentile: 52.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Bulls        |            39 |   0.538462 |
+| Bulls        |            43 |   0.534884 |
 | Blue Bulls   |            26 |   0.653846 |
 | South Africa |             1 |   0        |
 
@@ -39,19 +39,21 @@ categories: player
 | Western Province    |         3 |   0.666667 |
 | Griquas             |         3 |   0.666667 |
 | Leinster            |         2 |   0.5      |
+| Scarlets            |         2 |   0.5      |
 | Ospreys             |         2 |   1        |
 | Munster             |         2 |   0.5      |
 | Benetton Treviso    |         2 |   1        |
 | Glasgow Warriors    |         2 |   0.5      |
 | Edinburgh           |         2 |   0.5      |
+| Dragons             |         2 |   1        |
 | Connacht            |         2 |   0.5      |
 | Cardiff Blues       |         2 |   1        |
 | Blues               |         1 |   0        |
+| Lyon                |         1 |   0        |
 | Jaguares            |         1 |   0        |
 | Highlanders         |         1 |   1        |
+| Exeter Chiefs       |         1 |   1        |
 | Queensland Reds     |         1 |   0        |
-| Scarlets            |         1 |   1        |
-| Dragons             |         1 |   1        |
 | Ulster              |         1 |   1        |
 | Wales               |         1 |   0        |
 | Zebre               |         1 |   1        |

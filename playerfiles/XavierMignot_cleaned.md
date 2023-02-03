@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Xavier Mignot  
-date: 2023-01-30 11:42:26.519681  
+date: 2023-02-02 19:01:34.564788  
 categories: player  
 ---
 # Xavier Mignot

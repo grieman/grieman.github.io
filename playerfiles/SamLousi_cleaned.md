@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Lousi  
-date: 2023-01-06 00:14:04.444175  
+date: 2023-02-02 18:52:22.634127  
 categories: player  
 ---
 # Sam Lousi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 103.0
+## Current elo: 95.0
 
-## Current Percentile: 51.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Scarlets                 |            46 |   0.467391 |
+| Scarlets                 |            50 |   0.51     |
 | Hurricanes               |            28 |   0.660714 |
 | Wellington               |            22 |   0.681818 |
 | New South Wales Waratahs |            19 |   0.526316 |
@@ -32,28 +32,28 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Cardiff Blues            |         6 |   0.5      |
+| Cardiff Blues            |         7 |   0.571429 |
 | Crusaders                |         6 |   0.333333 |
 | Highlanders              |         5 |   0.4      |
 | Brumbies                 |         5 |   0.4      |
+| Bulls                    |         5 |   0.6      |
+| Cheetahs                 |         4 |   1        |
+| Bayonne                  |         4 |   1        |
 | Ospreys                  |         4 |   0.625    |
-| Dragons                  |         4 |   0.75     |
 | Blues                    |         4 |   0.75     |
+| Dragons                  |         4 |   0.75     |
 | Queensland Reds          |         4 |   1        |
 | Chiefs                   |         4 |   0.5      |
-| Bulls                    |         4 |   0.5      |
 | Northland                |         3 |   1        |
 | Connacht                 |         3 |   0.666667 |
-| Cheetahs                 |         3 |   1        |
 | Lions                    |         3 |   0.333333 |
 | Melbourne Rebels         |         3 |   0.666667 |
 | Munster                  |         3 |   0        |
 | Benetton Treviso         |         3 |   0.666667 |
-| Bayonne                  |         3 |   1        |
 | Bay of Plenty            |         3 |   1        |
 | Glasgow Warriors         |         2 |   0.5      |
-| Manawatu                 |         2 |   0.5      |
 | Leinster                 |         2 |   0        |
+| Manawatu                 |         2 |   0.5      |
 | North Harbour            |         2 |   0.5      |
 | Auckland                 |         2 |   0        |
 | Sharks                   |         2 |   0.5      |

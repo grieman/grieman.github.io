@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ollie Andrews  
-date: 2023-01-21 15:43:12.793396  
+date: 2023-02-02 18:40:49.386921  
 categories: player  
 ---
 # Ollie Andrews
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 104.0
 
 ## Current Percentile: 55.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Coventry |            10 |       0.75 |
+| Coventry |            11 |   0.772727 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ealing Trailfinders |         2 |        0.5 |
 | Ampthill            |         1 |        1   |
 | Bedford             |         1 |        1   |
 | Caldy               |         1 |        1   |
 | Cornish Pirates     |         1 |        1   |
-| Ealing Trailfinders |         1 |        0   |
 | Hartpury College    |         1 |        0   |
 | Jersey              |         1 |        0.5 |
 | London Scottish     |         1 |        1   |

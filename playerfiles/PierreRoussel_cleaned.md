@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Roussel  
-date: 2023-01-30 11:44:40.390142  
+date: 2023-02-02 18:45:17.883783  
 categories: player  
 ---
 # Pierre Roussel

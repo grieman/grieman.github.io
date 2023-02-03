@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kohei Ishigaki  
-date: 2023-01-30 17:51:33.593458  
+date: 2023-02-02 18:39:50.836886  
 categories: player  
 ---
 # Kohei Ishigaki

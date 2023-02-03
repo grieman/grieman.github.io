@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Étienne Ducom  
-date: 2023-01-17 11:30:18.398424  
+date: 2023-02-02 19:09:15.548664  
 categories: player  
 ---
 # Étienne Ducom
 
 ## Positions: W
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 52.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            31 |   0.548387 |
+| Narbonne |            32 |    0.53125 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Albi                       |         3 |   0        |
 | Dax                        |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.833333 |
-| Albi                       |         2 |   0        |
 | Tarbes                     |         2 |   0.5      |
 | Suresnes                   |         2 |   0.5      |
 | Nice                       |         2 |   1        |

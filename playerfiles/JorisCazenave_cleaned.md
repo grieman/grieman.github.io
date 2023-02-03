@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joris Cazenave  
-date: 2023-01-13 11:32:42.359800  
+date: 2023-02-02 18:53:36.626943  
 categories: player  
 ---
 # Joris Cazenave
 
 ## Positions: SH
 
-## Current elo: 74.0
+## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,17 +23,17 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Colomiers      |            86 |   0.436047 |
 | Nevers         |            54 |   0.574074 |
-| Provence Rugby |            10 |   0.45     |
+| Provence Rugby |            12 |   0.375    |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Beziers            |        12 |   0.416667 |
+| Beziers            |        13 |   0.384615 |
 | Carcassonne        |        12 |   0.416667 |
 | Aurillac           |        10 |   0.5      |
 | Narbonne           |         9 |   0.833333 |
 | Biarritz Olympique |         9 |   0.666667 |
+| Montauban          |         9 |   0.444444 |
 | Soyaux-Angouleme   |         9 |   0.611111 |
-| Montauban          |         8 |   0.5      |
 | Mont-de-Marsan     |         8 |   0.5      |
 | Vannes             |         7 |   0.285714 |
 | Provence Rugby     |         7 |   0.714286 |

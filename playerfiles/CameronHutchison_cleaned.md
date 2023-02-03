@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cameron Hutchison  
-date: 2023-01-06 00:16:20.943299  
+date: 2023-02-02 18:59:05.423474  
 categories: player  
 ---
 # Cameron Hutchison
 
 ## Positions: C
 
-## Current elo: 112.0
+## Current elo: 105.0
 
-## Current Percentile: 76.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,17 +21,19 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Edinburgh |            12 |      0.625 |
+| Edinburgh |            15 |   0.633333 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Glasgow Warriors |         2 |        0   |
-| Zebre            |         2 |        1   |
-| Brive            |         1 |        1   |
-| Dragons          |         1 |        1   |
-| Leinster         |         1 |        0   |
-| Ospreys          |         1 |        0   |
-| Pau              |         1 |        1   |
-| Saracens         |         1 |        1   |
-| Scarlets         |         1 |        1   |
-| Stormers         |         1 |        0.5 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Zebre             |         3 |        1   |
+| Glasgow Warriors  |         2 |        0   |
+| Brive             |         1 |        1   |
+| Castres Olympique |         1 |        1   |
+| Dragons           |         1 |        1   |
+| Leinster          |         1 |        0   |
+| Ospreys           |         1 |        0   |
+| Pau               |         1 |        1   |
+| Saracens          |         1 |        1   |
+| Scarlets          |         1 |        1   |
+| Sharks            |         1 |        0   |
+| Stormers          |         1 |        0.5 |

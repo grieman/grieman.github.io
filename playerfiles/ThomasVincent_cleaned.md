@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Vincent  
-date: 2023-01-13 11:29:58.540061  
+date: 2023-02-02 18:39:28.688323  
 categories: player  
 ---
 # Thomas Vincent
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Agen     |            47 |   0.425532 |
+| Agen     |            48 |   0.4375   |
 | Aurillac |            23 |   0.413043 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,21 +29,21 @@ categories: player
 | Grenoble                   |         5 |   0.4      |
 | Vannes                     |         5 |   0.4      |
 | Rouen                      |         5 |   0.6      |
-| Montauban                  |         4 |   0.5      |
 | Carcassonne                |         4 |   0.5      |
-| Oyonnax                    |         4 |   0.5      |
 | Colomiers                  |         4 |   0.25     |
+| Oyonnax                    |         4 |   0.5      |
+| Montauban                  |         4 |   0.5      |
 | Beziers                    |         3 |   0.333333 |
+| Biarritz Olympique         |         3 |   0.666667 |
 | Provence Rugby             |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.333333 |
+| Stade Francais Paris       |         2 |   1        |
 | Pau                        |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
-| Stade Francais Paris       |         2 |   1        |
 | Aurillac                   |         2 |   1        |
 | Clermont Auvergne          |         2 |   0.5      |
 | Bordeaux Begles            |         2 |   0        |
-| Biarritz Olympique         |         2 |   0.5      |
 | Racing 92                  |         2 |   0        |
 | Toulon                     |         1 |   0        |
 | US Bressane                |         1 |   0        |

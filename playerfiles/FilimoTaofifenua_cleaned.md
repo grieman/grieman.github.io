@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Filimo Taofifenua  
-date: 2023-01-17 11:30:02.582417  
+date: 2023-02-02 19:06:33.192451  
 categories: player  
 ---
 # Filimo Taofifenua
 
 ## Positions: FL, N8
 
-## Current elo: 123.0
+## Current elo: 119.0
 
 ## Current Percentile: 92.0
 
@@ -23,12 +23,12 @@ categories: player
 |:--------|--------------:|-----------:|
 | Bayonne |            77 |   0.525974 |
 | Dax     |            58 |   0.37931  |
-| Oyonnax |            12 |   0.833333 |
+| Oyonnax |            13 |   0.769231 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Mont-de-Marsan       |         9 |   0.111111 |
 | Biarritz Olympique   |         8 |   0.25     |
-| Mont-de-Marsan       |         8 |   0.125    |
 | Aurillac             |         7 |   0.714286 |
 | Soyaux-Angouleme     |         7 |   0.571429 |
 | Beziers              |         7 |   0.428571 |

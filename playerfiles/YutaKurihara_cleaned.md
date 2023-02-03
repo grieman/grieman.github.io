@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yuta Kurihara  
-date: 2023-01-30 17:54:30.816815  
+date: 2023-02-02 19:00:39.234863  
 categories: player  
 ---
 # Yuta Kurihara
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 81.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

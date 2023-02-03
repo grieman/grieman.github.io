@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin Wedlake  
-date: 2023-01-13 11:27:32.148508  
+date: 2023-02-02 18:47:12.569954  
 categories: player  
 ---
 # Robin Wedlake
@@ -21,16 +21,16 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            55 |   0.654545 |
+| Cornish Pirates |            58 |   0.637931 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Bedford             |         6 |   0.5      |
+| Bedford             |         7 |   0.428571 |
+| Nottingham          |         7 |   0.857143 |
 | Doncaster           |         6 |   0.833333 |
-| Nottingham          |         6 |   0.833333 |
+| Jersey              |         6 |   0.333333 |
 | Ampthill            |         5 |   0.9      |
 | Hartpury College    |         5 |   0.8      |
-| Jersey              |         5 |   0.4      |
 | Richmond            |         5 |   0.9      |
 | Ealing Trailfinders |         4 |   0.25     |
 | London Scottish     |         4 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Puletua  
-date: 2023-01-30 11:47:25.589721  
+date: 2023-02-02 18:42:10.489638  
 categories: player  
 ---
 # Jordan Puletua

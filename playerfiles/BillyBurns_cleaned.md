@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Billy Burns  
-date: 2023-01-06 00:24:49.971118  
+date: 2023-02-02 18:49:55.514979  
 categories: player  
 ---
 # Billy Burns
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 119.0
+## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |           107 |   0.579439 |
-| Ulster           |            70 |   0.657143 |
+| Ulster           |            73 |   0.657534 |
 | Ireland          |             5 |   0.6      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -38,22 +38,22 @@ categories: player
 | London Irish         |         7 |   0.857143 |
 | Wasps                |         7 |   0.357143 |
 | Scarlets             |         7 |   0.714286 |
+| Sale Sharks          |         7 |   0.571429 |
 | Northampton Saints   |         7 |   0.214286 |
 | Leinster             |         7 |   0.285714 |
 | Leicester Tigers     |         7 |   0.428571 |
 | Saracens             |         6 |   0.5      |
-| Sale Sharks          |         6 |   0.5      |
 | Ospreys              |         6 |   0.5      |
 | Zebre                |         6 |   1        |
 | Exeter Chiefs        |         6 |   0.5      |
 | Cardiff Blues        |         6 |   0.833333 |
+| Benetton Treviso     |         6 |   0.75     |
 | La Rochelle          |         5 |   0.6      |
 | Edinburgh            |         5 |   1        |
-| Benetton Treviso     |         5 |   0.9      |
 | Southern Kings       |         3 |   1        |
 | Glasgow Warriors     |         3 |   0.333333 |
+| Stormers             |         3 |   0.333333 |
 | Oyonnax              |         2 |   1        |
-| Stormers             |         2 |   0        |
 | Bristol Rugby        |         2 |   1        |
 | Brive                |         2 |   1        |
 | Pau                  |         2 |   0        |

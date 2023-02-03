@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Talau Fakatava  
-date: 2023-01-13 11:33:48.873117  
+date: 2023-02-02 18:57:57.485754  
 categories: player  
 ---
 # Talau Fakatava
 
 ## Positions: L, N8
 
-## Current elo: 90.0
+## Current elo: 100.0
 
-## Current Percentile: 12.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,16 +21,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            18 |   0.277778 |
+| Black Rams Tokyo |            21 |   0.285714 |
 
-| Opponent                        |   Matches |   Win Rate |
-|:--------------------------------|----------:|-----------:|
-| Toyota Verblitz                 |         3 |   0.333333 |
-| Green Rockets Tokatsu           |         2 |   1        |
-| Kobelco Kobe Steelers           |         2 |   0        |
-| NTT Docomo Red Hurricanes Osaka |         2 |   0.5      |
-| Saitama Wild Knights            |         2 |   0        |
-| Tokyo Sungoliath                |         2 |   0        |
-| Toshiba Brave Lupus Tokyo       |         2 |   0        |
-| Urayasu D-Rocks                 |         2 |   0        |
-| Shizuoka Blue Revs              |         1 |   1        |
+| Opponent                          |   Matches |   Win Rate |
+|:----------------------------------|----------:|-----------:|
+| Saitama Wild Knights              |         3 |   0        |
+| Toyota Verblitz                   |         3 |   0.333333 |
+| Green Rockets Tokatsu             |         2 |   1        |
+| Kobelco Kobe Steelers             |         2 |   0        |
+| NTT Docomo Red Hurricanes Osaka   |         2 |   0.5      |
+| Shizuoka Blue Revs                |         2 |   1        |
+| Tokyo Sungoliath                  |         2 |   0        |
+| Toshiba Brave Lupus Tokyo         |         2 |   0        |
+| Urayasu D-Rocks                   |         2 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |

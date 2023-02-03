@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Vernet  
-date: 2023-01-17 11:32:02.896064  
+date: 2023-02-02 19:10:11.737922  
 categories: player  
 ---
 # Thomas Vernet

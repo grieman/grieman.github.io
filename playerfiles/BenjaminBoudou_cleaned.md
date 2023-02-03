@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Benjamin Boudou  
-date: 2023-01-06 00:25:07.535818  
+date: 2023-02-02 19:14:34.389723  
 categories: player  
 ---
 # Benjamin Boudou
 
 ## Positions: 
 
-## Current elo: 104.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 
