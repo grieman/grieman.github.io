@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul ABADIE  
-date: 2023-02-04 18:27:03.200083  
+date: 2023-02-05 15:10:01.400577  
 categories: player  
 ---
 # Paul ABADIE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 54.0
+## Current Percentile: 53.0
 
 # Elo History
 

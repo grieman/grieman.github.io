@@ -70,6 +70,6 @@ Grenoble by 4.9 on a neutral pitch
 |             20 | [Corentin Vernet](..//playerfiles//CorentinVernet_cleaned.md)       |      84.26 |                22 |       19 |                86 |     111.24 | [Lilian Rossi](..//playerfiles//LilianRossi_cleaned.md)               |             26 |
 |             20 | [Loris Zarantonello](..//playerfiles//LorisZarantonello_cleaned.md) |     107.64 |                80 |       20 |                32 |      89.71 | [Adrien Vigne](..//playerfiles//AdrienVigne_cleaned.md)               |             16 |
 |             16 | [Malik Hamadache](..//playerfiles//MalikHamadache_cleaned.md)       |     103.31 |                71 |       21 |                27 |      88.64 | [Irakli Aptsiauri](..//playerfiles//IrakliAptsiauri_cleaned.md)       |             16 |
-|             16 | [Evan Olmstead](..//playerfiles//EvanOlmstead_cleaned.md)           |     101.51 |                65 |       22 |                38 |      91.68 | [Wilfried Hulleu](..//playerfiles//WilfriedHulleu_cleaned.md)         |             13 |
+|             16 | [Evan Olmstead](..//playerfiles//EvanOlmstead_cleaned.md)           |     101.51 |                64 |       22 |                38 |      91.68 | [Wilfried Hulleu](..//playerfiles//WilfriedHulleu_cleaned.md)         |             13 |
 |             11 | [Dorian Bellot](..//playerfiles//DorianBellot_cleaned.md)           |      93.82 |                45 |       23 |               nan |      95    | [Max Clement](..//playerfiles//MaxClement_cleaned.md)                 |              9 |
 

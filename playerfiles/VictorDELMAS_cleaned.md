@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor DELMAS  
-date: 2023-02-04 18:27:39.558336  
+date: 2023-02-05 15:09:44.787670  
 categories: player  
 ---
 # Victor DELMAS

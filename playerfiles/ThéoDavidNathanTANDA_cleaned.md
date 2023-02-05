@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo David Nathan TANDA  
-date: 2023-02-04 18:26:51.280200  
+date: 2023-02-05 15:14:12.431699  
 categories: player  
 ---
 # Théo David Nathan TANDA

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-02-04 18:30:00.994273  
+date: 2023-02-05 15:11:31.285151  
 categories: player  
 ---
 # Uini ATONIO
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 126.0
+## Current elo: 123.0
 
 ## Current Percentile: 97.0
 
@@ -24,69 +24,69 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |           269 |   0.626394 |
-| France      |            45 |   0.533333 |
+| France      |            46 |   0.543478 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Stade Toulousain     |        17 |   0.294118 |
 | Racing 92            |        17 |   0.529412 |
+| Stade Toulousain     |        17 |   0.294118 |
 | Pau                  |        16 |   0.75     |
 | Lyon                 |        15 |   0.7      |
 | Montpellier Herault  |        15 |   0.566667 |
 | Bordeaux Begles      |        15 |   0.666667 |
 | Castres Olympique    |        14 |   0.571429 |
-| Clermont Auvergne    |        12 |   0.291667 |
 | Toulon               |        12 |   0.625    |
+| Clermont Auvergne    |        12 |   0.291667 |
 | Stade Francais Paris |        10 |   0.45     |
 | Agen                 |         8 |   0.75     |
-| Bayonne              |         7 |   0.571429 |
-| Brive                |         7 |   0.571429 |
 | Oyonnax              |         7 |   0.357143 |
-| England              |         6 |   0.333333 |
-| Wales                |         6 |   0.5      |
+| Brive                |         7 |   0.571429 |
+| Bayonne              |         7 |   0.571429 |
 | Grenoble             |         6 |   0.666667 |
+| England              |         6 |   0.333333 |
 | Aurillac             |         6 |   0.666667 |
-| Tarbes               |         5 |   0.6      |
+| Wales                |         6 |   0.5      |
+| Scotland             |         5 |   0.6      |
 | Beziers              |         5 |   0.8      |
+| Tarbes               |         5 |   0.6      |
+| New Zealand          |         5 |   0.2      |
 | Narbonne             |         5 |   0.4      |
 | Ireland              |         5 |   0.6      |
-| New Zealand          |         5 |   0.2      |
-| Scotland             |         5 |   0.6      |
-| Gloucester Rugby     |         4 |   0.25     |
-| South Africa         |         4 |   0.25     |
-| Albi                 |         4 |   0.75     |
-| Colomiers            |         4 |   1        |
-| Auch                 |         4 |   1        |
-| Perpignan            |         4 |   1        |
 | Provence Rugby       |         4 |   0.75     |
+| South Africa         |         4 |   0.25     |
+| Perpignan            |         4 |   1        |
+| Albi                 |         4 |   0.75     |
+| Italy                |         4 |   1        |
+| Auch                 |         4 |   1        |
 | Dax                  |         4 |   0.75     |
-| Sale Sharks          |         3 |   1        |
-| Mont-de-Marsan       |         3 |   0.666667 |
-| Ulster               |         3 |   0.666667 |
-| Italy                |         3 |   1        |
+| Gloucester Rugby     |         4 |   0.25     |
+| Colomiers            |         4 |   1        |
+| Carcassonne          |         3 |   0.666667 |
 | Argentina            |         3 |   0.333333 |
+| Ulster               |         3 |   0.666667 |
+| Mont-de-Marsan       |         3 |   0.666667 |
 | Australia            |         3 |   0.666667 |
 | Bourgoin-Jallieu     |         3 |   0.833333 |
-| Carcassonne          |         3 |   0.666667 |
-| Massy                |         2 |   1        |
-| Leinster             |         2 |   1        |
+| Sale Sharks          |         3 |   1        |
+| Harlequins           |         2 |   1        |
 | Wasps                |         2 |   0.5      |
 | US Bressane          |         2 |   1        |
 | Benetton Treviso     |         2 |   1        |
 | Bristol Rugby        |         2 |   1        |
 | Zebre                |         2 |   1        |
-| Glasgow Warriors     |         2 |   1        |
 | Northampton Saints   |         2 |   1        |
-| Harlequins           |         2 |   1        |
-| Connacht             |         1 |   0        |
-| Samoa                |         1 |   1        |
-| Romania              |         1 |   1        |
-| Edinburgh            |         1 |   1        |
-| Exeter Chiefs        |         1 |   0        |
+| Glasgow Warriors     |         2 |   1        |
+| Leinster             |         2 |   1        |
+| Massy                |         2 |   1        |
 | Fiji                 |         1 |   1        |
-| Biarritz Olympique   |         1 |   1        |
-| Georgia              |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
-| Japan                |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
+| Japan                |         1 |   1        |
+| Georgia              |         1 |   1        |
+| Connacht             |         1 |   0        |
+| Romania              |         1 |   1        |
+| Exeter Chiefs        |         1 |   0        |
+| Biarritz Olympique   |         1 |   1        |
+| Edinburgh            |         1 |   1        |
 | Scarlets             |         1 |   0        |
+| Samoa                |         1 |   1        |
+| Bath Rugby           |         1 |   1        |

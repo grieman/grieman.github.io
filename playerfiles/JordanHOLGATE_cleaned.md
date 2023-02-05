@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan HOLGATE  
-date: 2023-02-04 18:30:43.078519  
+date: 2023-02-05 15:09:50.416026  
 categories: player  
 ---
 # Jordan HOLGATE

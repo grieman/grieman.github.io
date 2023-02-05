@@ -8,29 +8,37 @@ key: page-recents
 ## Rugby Europe Championship
 
 
-Competition Accuracy: 0 of 1 (0.0%)
+Competition Accuracy: 3 of 4 (75.0%)
 
-Competition Error: 55.57 points per match
+Competition Error: 31.54 points per match
 
-Last Round Accuracy: 0 of 1 (0.0%)
+Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 55.57 points per match
+Last Round Error: 31.54 points per match
 
 [2023-02-04 Poland at Romania; 27-67](reviews//2023-02-04-Romania-Poland)
-## Six Nations
+
+[2023-02-04 Belgium at Portugal; 17-54](reviews//2023-02-04-Portugal-Belgium)
+
+[2023-02-05 Germany at Georgia; 12-75](reviews//2023-02-05-Georgia-Germany)
+
+[2023-02-05 Netherlands at Spain; 20-28](reviews//2023-02-05-Spain-Netherlands)
+## Six Nations Championship
 
 
-Competition Accuracy: 1 of 2 (50.0%)
+Competition Accuracy: 2 of 3 (66.67%)
 
-Competition Error: 15.23 points per match
+Competition Error: 14.44 points per match
 
-Last Round Accuracy: 1 of 2 (50.0%)
+Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 15.23 points per match
+Last Round Error: 14.44 points per match
 
 [2023-02-04 Ireland at Wales; 34.0-10.0](reviews//2023-02-04-Wales-Ireland)
 
 [2023-02-04 Scotland at England; 29.0-23.0](reviews//2023-02-04-England-Scotland)
+
+[2023-02-05 France at Italy; 29.0-24.0](reviews//2023-02-05-Italy-France)
 # Professional Leagues
 
 ## Gallagher Premiership
@@ -72,9 +80,9 @@ Last Round Error: 5.27 points per match
 
 [2023-01-29 Green Rockets Tokatsu at Shizuoka Blue Revs; 0-21](reviews//2023-01-29-ShizuokaBlueRevs-GreenRocketsTokatsu)
 
-[2023-01-29 Mitsubishi Dynaboars at Tokyo Sungoliath; 13-51](reviews//2023-01-29-TokyoSungoliath-MitsubishiDynaboars)
-
 [2023-01-29 Black Rams Tokyo at Kubota Spears Funabashi Tokyo-Bay; 38-40](reviews//2023-01-29-KubotaSpearsFunabashiTokyo-Bay-BlackRamsTokyo)
+
+[2023-01-29 Mitsubishi Dynaboars at Tokyo Sungoliath; 13-51](reviews//2023-01-29-TokyoSungoliath-MitsubishiDynaboars)
 
 [2023-02-04 Kubota Spears Funabashi Tokyo-Bay at Toyota Verblitz; 44-34](reviews//2023-02-04-ToyotaVerblitz-KubotaSpearsFunabashiTokyo-Bay)
 
@@ -120,15 +128,15 @@ Last Round Error: 12.35 points per match
 
 [2023-02-03 Vannes at Biarritz Olympique; 13-19](reviews//2023-02-03-BiarritzOlympique-Vannes)
 
-[2023-02-03 Aurillac at Nevers; 18-22](reviews//2023-02-03-Nevers-Aurillac)
-
 [2023-02-03 Colomiers at Montauban; 19-25](reviews//2023-02-03-Montauban-Colomiers)
+
+[2023-02-03 Provence Rugby at Mont-de-Marsan; 28-12](reviews//2023-02-03-Mont-de-Marsan-ProvenceRugby)
+
+[2023-02-03 Aurillac at Nevers; 18-22](reviews//2023-02-03-Nevers-Aurillac)
 
 [2023-02-03 Soyaux-Angouleme at Beziers; 13-22](reviews//2023-02-03-Beziers-Soyaux-Angouleme)
 
 [2023-02-03 Carcassonne at Massy; 17-22](reviews//2023-02-03-Massy-Carcassonne)
-
-[2023-02-03 Provence Rugby at Mont-de-Marsan; 28-12](reviews//2023-02-03-Mont-de-Marsan-ProvenceRugby)
 
 [2023-02-03 Agen at Grenoble; 16-20](reviews//2023-02-03-Grenoble-Agen)
 ## RFU Championship
@@ -150,9 +158,9 @@ Last Round Error: 21.58 points per match
 
 [2023-01-28 Richmond at Hartpury College; 14-26](reviews//2023-01-28-HartpuryCollege-Richmond)
 
-[2023-01-28 Coventry at Ealing Trailfinders; 22-19](reviews//2023-01-28-EalingTrailfinders-Coventry)
-
 [2023-01-28 Ampthill at London Scottish; 28-19](reviews//2023-01-28-LondonScottish-Ampthill)
+
+[2023-01-28 Coventry at Ealing Trailfinders; 22-19](reviews//2023-01-28-EalingTrailfinders-Coventry)
 ## Top 14 Orange
 
 
@@ -160,9 +168,9 @@ Competition Accuracy: 79 of 118 (66.95%)
 
 Competition Error: 10.81 points per match
 
-Last Round Accuracy: 4 of 7 (57.14%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 19.31 points per match
+Last Round Error: 13.73 points per match
 
 [2023-01-28 Clermont Auvergne at Lyon; 14-34](reviews//2023-01-28-Lyon-ClermontAuvergne)
 
@@ -180,13 +188,15 @@ Last Round Error: 19.31 points per match
 
 [2023-02-04 Bayonne at Stade Toulousain; 16-21](reviews//2023-02-04-StadeToulousain-Bayonne)
 
-[2023-02-04 Lyon at La Rochelle; 20-16](reviews//2023-02-04-LaRochelle-Lyon)
-
 [2023-02-04 Perpignan at Brive; 24-22](reviews//2023-02-04-Brive-Perpignan)
 
 [2023-02-04 Castres Olympique at Clermont Auvergne; 26-41](reviews//2023-02-04-ClermontAuvergne-CastresOlympique)
 
+[2023-02-04 Lyon at La Rochelle; 20-16](reviews//2023-02-04-LaRochelle-Lyon)
+
 [2023-02-04 Racing 92 at Pau; 19-38](reviews//2023-02-04-Pau-Racing92)
+
+[2023-02-04 Toulon at Montpellier Herault; 20-18](reviews//2023-02-04-MontpellierHerault-Toulon)
 ## United Rugby Championship
 
 
