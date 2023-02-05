@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nizaam CARR  
-date: 2023-02-02 19:01:02.670115  
+date: 2023-02-04 18:29:08.475346  
 categories: player  
 ---
 # Nizaam CARR
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 79.0
+## Current elo: 86.0
 
-## Current Percentile: 12.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,21 +23,21 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            98 |   0.55102  |
+| Stormers         |            99 |   0.555556 |
 | Wasps            |            70 |   0.407143 |
-| Western Province |            47 |   0.744681 |
+| Western Province |            51 |   0.745098 |
 | Bulls            |            10 |   0.5      |
 | South Africa     |             5 |   0.2      |
 | Blue Bulls       |             4 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Bulls                    |        12 |   0.666667 |
 | Cheetahs                 |        11 |   0.727273 |
+| Golden Lions             |        11 |   0.590909 |
 | Sharks                   |        11 |   0.363636 |
-| Bulls                    |        11 |   0.636364 |
-| Blue Bulls               |        10 |   0.75     |
+| Blue Bulls               |        11 |   0.681818 |
 | Lions                    |         9 |   0.388889 |
-| Golden Lions             |         9 |   0.5      |
 | Griquas                  |         8 |   0.875    |
 | Free State Cheetahs      |         8 |   0.75     |
 | Bath Rugby               |         8 |   0.5625   |
@@ -46,6 +46,7 @@ categories: player
 | Harlequins               |         6 |   0.166667 |
 | Gloucester Rugby         |         6 |   0.333333 |
 | Exeter Chiefs            |         5 |   0.4      |
+| Natal Sharks             |         5 |   0.6      |
 | Blues                    |         5 |   0.8      |
 | Saracens                 |         5 |   0.2      |
 | New South Wales Waratahs |         5 |   0.2      |
@@ -54,7 +55,6 @@ categories: player
 | Queensland Reds          |         5 |   0.8      |
 | Crusaders                |         5 |   0        |
 | Sunwolves                |         4 |   0.625    |
-| Natal Sharks             |         4 |   0.5      |
 | Melbourne Rebels         |         4 |   0.75     |
 | London Irish             |         4 |   0.75     |
 | Sale Sharks              |         4 |   0.25     |

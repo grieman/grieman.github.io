@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin WALCKER  
-date: 2023-02-02 19:01:16.920606  
+date: 2023-02-04 18:31:33.146835  
 categories: player  
 ---
 # Quentin WALCKER
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 102.0
+## Current elo: 113.0
 
-## Current Percentile: 73.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,30 +23,32 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Perpignan         |            66 |   0.651515 |
-| Castres Olympique |            34 |   0.558824 |
+| Perpignan         |            68 |   0.661765 |
+| Castres Olympique |            35 |   0.542857 |
 | France            |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Biarritz Olympique         |         6 |   0.666667 |
+| Biarritz Olympique         |         7 |   0.714286 |
 | Montauban                  |         5 |   0.8      |
 | Stade Toulousain           |         5 |   0.4      |
 | Stade Francais Paris       |         5 |   0.4      |
 | Bordeaux Begles            |         5 |   0.3      |
+| Clermont Auvergne          |         5 |   0.6      |
 | Mont-de-Marsan             |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.875    |
 | Racing 92                  |         4 |   0.375    |
-| Clermont Auvergne          |         4 |   0.75     |
-| Montpellier Herault        |         4 |   0.5      |
 | Grenoble                   |         4 |   0.75     |
+| Montpellier Herault        |         4 |   0.5      |
 | Aurillac                   |         4 |   0.875    |
 | Perpignan                  |         3 |   0.666667 |
+| Oyonnax                    |         3 |   1        |
 | Nevers                     |         3 |   0.666667 |
 | Narbonne                   |         3 |   1        |
 | Vannes                     |         3 |   1        |
-| Carcassonne                |         3 |   1        |
 | Colomiers                  |         3 |   0.666667 |
+| Carcassonne                |         3 |   1        |
+| Lyon                       |         2 |   0.5      |
 | La Rochelle                |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Toulon                     |         2 |   0        |
@@ -54,10 +56,8 @@ categories: player
 | Beziers                    |         2 |   0.5      |
 | Brive                      |         2 |   1        |
 | Rouen                      |         2 |   1        |
-| Lyon                       |         2 |   0.5      |
 | Provence Rugby             |         2 |   1        |
 | Pau                        |         2 |   0.5      |
-| Oyonnax                    |         2 |   1        |
 | Connacht                   |         2 |   0        |
 | Edinburgh                  |         2 |   0        |
 | Roval Drome XV             |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin WITT  
-date: 2023-02-02 18:51:10.694126  
+date: 2023-02-04 18:28:36.294354  
 categories: player  
 ---
 # Quentin WITT
 
 ## Positions: FL, N8
 
-## Current elo: 93.0
+## Current elo: 97.0
 
-## Current Percentile: 48.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -24,13 +24,13 @@ categories: player
 | Soyaux-Angouleme |            84 |   0.458333 |
 | Provence Rugby   |            25 |   0.66     |
 | US Bressane      |            20 |   0.275    |
-| Montauban        |            12 |   0.541667 |
+| Montauban        |            13 |   0.576923 |
 | Oyonnax          |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Colomiers                  |        11 |   0.545455 |
 | Mont-de-Marsan             |        10 |   0.45     |
-| Colomiers                  |        10 |   0.5      |
 | Aurillac                   |         9 |   0.666667 |
 | Beziers                    |         9 |   0.666667 |
 | Carcassonne                |         9 |   0.333333 |

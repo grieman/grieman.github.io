@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain BRIATTE  
-date: 2023-02-02 19:02:18.784252  
+date: 2023-02-04 18:28:03.733355  
 categories: player  
 ---
 # Romain BRIATTE
 
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 108.0
 
-## Current Percentile: 55.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,43 +21,43 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Aurillac             |            67 |   0.470149 |
-| Agen                 |            51 |   0.186275 |
-| Stade Francais Paris |            32 |   0.484375 |
+| Aurillac             |            68 |   0.463235 |
+| Agen                 |            52 |   0.182692 |
+| Stade Francais Paris |            34 |   0.455882 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Perpignan            |        11 |   0.681818 |
+| Racing 92            |         9 |   0.166667 |
 | Castres Olympique    |         8 |   0.25     |
-| Pau                  |         7 |   0.428571 |
+| Bayonne              |         7 |   0.285714 |
 | Montauban            |         7 |   0.5      |
-| Colomiers            |         7 |   0.285714 |
-| Racing 92            |         7 |   0.214286 |
 | Bordeaux Begles      |         7 |   0        |
+| Pau                  |         7 |   0.428571 |
+| Colomiers            |         7 |   0.285714 |
 | Dax                  |         6 |   0.5      |
-| Stade Toulousain     |         6 |   0.25     |
-| Bayonne              |         6 |   0.333333 |
 | Lyon                 |         6 |   0.333333 |
-| La Rochelle          |         5 |   0.6      |
+| Stade Toulousain     |         6 |   0.25     |
 | Narbonne             |         5 |   0.6      |
-| Beziers              |         5 |   0.4      |
+| Montpellier Herault  |         5 |   0.2      |
+| La Rochelle          |         5 |   0.6      |
 | Clermont Auvergne    |         5 |   0.2      |
 | Toulon               |         5 |   0.4      |
-| Montpellier Herault  |         5 |   0.2      |
-| Mont-de-Marsan       |         4 |   0.5      |
-| Soyaux-Angouleme     |         4 |   0.5      |
+| Beziers              |         5 |   0.4      |
 | Albi                 |         4 |   0.5      |
-| Stade Francais Paris |         4 |   0.25     |
+| Mont-de-Marsan       |         4 |   0.5      |
 | Biarritz Olympique   |         4 |   0.5      |
-| Grenoble             |         3 |   0.333333 |
+| Soyaux-Angouleme     |         4 |   0.5      |
+| Stade Francais Paris |         4 |   0.25     |
 | Brive                |         3 |   0.333333 |
+| Grenoble             |         3 |   0.333333 |
 | Bourgoin-Jallieu     |         3 |   0.5      |
-| Edinburgh            |         2 |   0        |
-| Carcassonne          |         2 |   1        |
-| Tarbes               |         2 |   0.5      |
 | Vannes               |         2 |   0.5      |
+| Tarbes               |         2 |   0.5      |
+| Carcassonne          |         2 |   1        |
+| Benetton Treviso     |         2 |   0        |
+| Edinburgh            |         2 |   0        |
 | Agen                 |         1 |   0        |
 | Oyonnax              |         1 |   0        |
 | Bristol Rugby        |         1 |   0        |
-| Benetton Treviso     |         1 |   0        |
 | Harlequins           |         1 |   0        |

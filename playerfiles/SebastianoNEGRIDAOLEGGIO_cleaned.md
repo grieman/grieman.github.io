@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastiano NEGRI DA OLEGGIO  
-date: 2023-01-31 16:09:18.615040  
+date: 2023-02-04 18:29:54.006516  
 categories: player  
 ---
 # Sebastiano NEGRI DA OLEGGIO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 84.0
+## Current elo: 91.0
 
-## Current Percentile: 17.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            57 |   0.464912 |
+| Benetton Treviso |            62 |   0.443548 |
 | Italy            |            39 |   0.230769 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,33 +34,35 @@ categories: player
 | Scarlets                 |         5 |   0        |
 | Glasgow Warriors         |         4 |   0.25     |
 | Edinburgh                |         4 |   0.5      |
-| Leinster                 |         4 |   0.375    |
 | Ireland                  |         4 |   0        |
+| Leinster                 |         4 |   0.375    |
 | Scotland                 |         4 |   0        |
 | Wales                    |         4 |   0        |
 | Southern Kings           |         3 |   1        |
+| Toulon                   |         3 |   0        |
 | Ulster                   |         3 |   0.333333 |
 | Munster                  |         3 |   0        |
+| Lyon                     |         3 |   0.333333 |
 | Stade Francais Paris     |         2 |   0.5      |
-| Toulon                   |         2 |   0        |
 | New Zealand              |         2 |   0        |
-| Lyon                     |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
+| Agen                     |         2 |   1        |
 | Japan                    |         2 |   0.5      |
+| Canada                   |         2 |   1        |
 | Grenoble                 |         2 |   1        |
+| Australia                |         2 |   0.5      |
 | Georgia                  |         2 |   1        |
 | Dragons                  |         2 |   1        |
-| Australia                |         2 |   0.5      |
-| Harlequins               |         2 |   0.5      |
 | Bath Rugby               |         2 |   0        |
-| Canada                   |         2 |   1        |
-| Argentina                |         1 |   0        |
-| Bayonne                  |         1 |   1        |
+| Harlequins               |         2 |   0.5      |
 | Uruguay                  |         1 |   1        |
 | United States of America |         1 |   1        |
-| South Africa             |         1 |   0        |
+| Bayonne                  |         1 |   1        |
+| Argentina                |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
-| Cheetahs                 |         1 |   1        |
+| South Africa             |         1 |   0        |
 | Connacht                 |         1 |   0        |
 | Russia                   |         1 |   1        |
-| Agen                     |         1 |   1        |
+| Gloucester Rugby         |         1 |   0        |
+| Montpellier Herault      |         1 |   0        |
+| Cheetahs                 |         1 |   1        |

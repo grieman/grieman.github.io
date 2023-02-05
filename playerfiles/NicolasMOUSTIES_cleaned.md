@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas MOUSTIES  
-date: 2023-02-02 18:53:09.048518  
+date: 2023-02-04 18:32:09.610354  
 categories: player  
 ---
 # Nicolas MOUSTIES
 
 ## Positions: FL
 
-## Current elo: 68.0
+## Current elo: 75.0
 
-## Current Percentile: 2.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            29 |   0.413793 |
+| Provence Rugby |            30 |   0.433333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Montauban          |         4 |   0.5      |
 | Colomiers          |         3 |   0        |
+| Mont-de-Marsan     |         3 |   0.666667 |
 | Vannes             |         3 |   0.333333 |
 | Aurillac           |         2 |   0.5      |
 | Biarritz Olympique |         2 |   0        |
 | Grenoble           |         2 |   1        |
-| Mont-de-Marsan     |         2 |   0.5      |
 | Nevers             |         2 |   0        |
 | Rouen              |         2 |   1        |
 | Bayonne            |         1 |   1        |

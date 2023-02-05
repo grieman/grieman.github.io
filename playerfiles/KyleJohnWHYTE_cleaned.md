@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Kyle John WHYTE  
-date: 2023-02-02 18:54:11.423743  
+date: 2023-02-04 18:26:35.325716  
 categories: player  
 ---
 # Kyle John WHYTE
 
 ## Positions: P
 
-## Current elo: 126.0
+## Current elo: 127.0
 
 ## Current Percentile: 97.0
 

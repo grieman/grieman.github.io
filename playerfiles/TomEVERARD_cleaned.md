@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom EVERARD  
-date: 2023-02-02 18:55:08.181549  
+date: 2023-02-04 18:29:42.546364  
 categories: player  
 ---
 # Tom EVERARD
 
 ## Positions: L
 
-## Current elo: 74.0
+## Current elo: 78.0
 
-## Current Percentile: 7.0
+## Current Percentile: 11.0
 
 # Elo History
 

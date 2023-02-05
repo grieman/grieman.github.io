@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita RATUVA  
-date: 2023-02-02 19:06:19.268335  
+date: 2023-02-04 18:27:34.024807  
 categories: player  
 ---
 # Tevita RATUVA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 90.0
+## Current elo: 95.0
 
-## Current Percentile: 35.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Brive         |            28 |   0.303571 |
+| Brive         |            29 |   0.293103 |
 | Scarlets      |            19 |   0.526316 |
 | Fiji          |            10 |   0.35     |
 | Brisbane City |             2 |   0.25     |
@@ -31,7 +31,7 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Cardiff Blues        |         5 |   0.4      |
-| Perpignan            |         3 |   0.666667 |
+| Perpignan            |         4 |   0.5      |
 | Toulon               |         3 |   0.333333 |
 | Lyon                 |         3 |   0        |
 | Edinburgh            |         3 |   0.333333 |

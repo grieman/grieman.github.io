@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine JARMOUNI  
-date: 2023-01-23 15:32:05.241597  
+date: 2023-02-04 18:30:30.225886  
 categories: player  
 ---
 # Yassine JARMOUNI
 
 ## Positions: N8, FL
 
-## Current elo: 84.0
+## Current elo: 91.0
 
-## Current Percentile: 27.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -23,13 +23,14 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Narbonne         |            21 |   0.333333 |
 | Aubenas          |            19 |   0.315789 |
-| Soyaux-Angouleme |            11 |   0.363636 |
+| Soyaux-Angouleme |            13 |   0.307692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Mont-de-Marsan             |         4 |   0        |
 | Bourgoin-Jallieu           |         4 |   0.75     |
+| Mont-de-Marsan             |         4 |   0        |
 | Soyaux-Angouleme           |         3 |   0.333333 |
+| Beziers                    |         3 |   0.333333 |
 | Perpignan                  |         3 |   0        |
 | Agen                       |         2 |   0.5      |
 | Colomiers                  |         2 |   0.5      |
@@ -39,20 +40,19 @@ categories: player
 | Dax                        |         2 |   1        |
 | Grenoble                   |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
+| Chambery                   |         2 |   0.5      |
 | Carcassonne                |         2 |   0.5      |
 | Blagnac                    |         2 |   0        |
 | Biarritz Olympique         |         2 |   0.5      |
-| Chambery                   |         2 |   0.5      |
-| Provence Rugby             |         1 |   0        |
+| Rouen                      |         1 |   0        |
 | Aurillac                   |         1 |   1        |
 | Tarbes                     |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Bayonne                    |         1 |   0        |
-| Rouen                      |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
-| Beziers                    |         1 |   1        |
+| Provence Rugby             |         1 |   0        |
+| Dijon                      |         1 |   0        |
 | Nice                       |         1 |   0        |
 | Montauban                  |         1 |   0        |
 | Albi                       |         1 |   0        |
-| Dijon                      |         1 |   0        |
 | Vannes                     |         1 |   0        |

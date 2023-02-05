@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo David Nathan TANDA  
-date: 2023-02-02 18:59:58.967500  
+date: 2023-02-04 18:26:51.280200  
 categories: player  
 ---
 # Théo David Nathan TANDA
 
 ## Positions: FL
 
-## Current elo: 92.0
+## Current elo: 95.0
 
-## Current Percentile: 52.0
+## Current Percentile: 61.0
 
 # Elo History
 

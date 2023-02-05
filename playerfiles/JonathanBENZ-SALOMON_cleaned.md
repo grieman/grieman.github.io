@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jonathan BENZ-SALOMON  
-date: 2023-02-02 18:53:47.587233  
+date: 2023-02-04 18:26:27.323727  
 categories: player  
 ---
 # Jonathan BENZ-SALOMON
 
 ## Positions: P
 
-## Current elo: 80.0
+## Current elo: 81.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

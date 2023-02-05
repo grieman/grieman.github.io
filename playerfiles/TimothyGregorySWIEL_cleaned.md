@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Timothy Gregory SWIEL  
-date: 2023-02-02 18:56:58.538630  
+date: 2023-02-04 18:31:01.469312  
 categories: player  
 ---
 # Timothy Gregory SWIEL
 
 ## Positions: FH, FB
 
-## Current elo: 81.0
+## Current elo: 88.0
 
-## Current Percentile: 11.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Harlequins                       |            57 |   0.508772 |
-| Western Province                 |            28 |   0.392857 |
+| Western Province                 |            30 |   0.366667 |
 | Newcastle Falcons                |             9 |   0.444444 |
 | Sharks                           |             7 |   0.428571 |
 | Stormers                         |             7 |   0.5      |
@@ -32,20 +32,20 @@ categories: player
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Northampton Saints     |         6 |   0.166667 |
+| Blue Bulls             |         6 |   0.166667 |
 | Griquas                |         6 |   0.166667 |
 | Golden Lions           |         6 |   0.416667 |
 | Gloucester Rugby       |         6 |   0.5      |
 | Free State Cheetahs    |         6 |   0.416667 |
-| Blue Bulls             |         5 |   0.2      |
 | Wasps                  |         5 |   0.4      |
 | Pumas                  |         5 |   0.7      |
 | Newcastle Falcons      |         4 |   0.5      |
+| Natal Sharks           |         4 |   0.5      |
 | Worcester Warriors     |         4 |   0.75     |
 | Leicester Tigers       |         4 |   0.5      |
 | Sale Sharks            |         4 |   0.5      |
 | Saracens               |         4 |   0.5      |
 | Exeter Chiefs          |         4 |   0        |
-| Natal Sharks           |         3 |   0.666667 |
 | Edinburgh              |         3 |   0.166667 |
 | Dragons                |         2 |   1        |
 | Stade Francais Paris   |         2 |   0.5      |

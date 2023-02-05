@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James LENNON  
-date: 2023-02-02 18:40:41.294510  
+date: 2023-02-04 18:31:28.631117  
 categories: player  
 ---
 # James LENNON
 
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 55.0
+## Current Percentile: 58.0
 
 # Elo History
 

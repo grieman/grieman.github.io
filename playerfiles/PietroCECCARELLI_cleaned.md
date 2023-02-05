@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pietro CECCARELLI  
-date: 2023-02-02 19:13:37.175080  
+date: 2023-02-04 18:32:08.457253  
 categories: player  
 ---
 # Pietro CECCARELLI
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:------------|--------------:|-----------:|
 | Zebre       |            45 |   0.177778 |
 | Brive       |            42 |   0.369048 |
-| Edinburgh   |            23 |   0.586957 |
-| Oyonnax     |            23 |   0.217391 |
+| Edinburgh   |            24 |   0.5625   |
+| Oyonnax     |            24 |   0.208333 |
 | Italy       |            21 |   0.285714 |
 | La Rochelle |             1 |   1        |
 
@@ -36,9 +36,10 @@ categories: player
 | Lyon                     |         7 |   0.428571 |
 | Bordeaux Begles          |         7 |   0.214286 |
 | La Rochelle              |         7 |   0.357143 |
+| Castres Olympique        |         6 |   0.166667 |
 | Dragons                  |         6 |   0.5      |
 | Scarlets                 |         6 |   0.5      |
-| Castres Olympique        |         6 |   0.166667 |
+| Leinster                 |         5 |   0        |
 | Montpellier Herault      |         5 |   0.3      |
 | Connacht                 |         5 |   0.2      |
 | Munster                  |         5 |   0.2      |
@@ -48,32 +49,32 @@ categories: player
 | Racing 92                |         4 |   0        |
 | Stade Francais Paris     |         4 |   0        |
 | Toulon                   |         4 |   0.5      |
-| Leinster                 |         4 |   0        |
 | Pau                      |         4 |   0.5      |
 | Agen                     |         4 |   0.75     |
+| Brive                    |         4 |   0.25     |
 | Edinburgh                |         4 |   0.25     |
 | Clermont Auvergne        |         4 |   0.375    |
-| Brive                    |         4 |   0.25     |
 | Ireland                  |         3 |   0        |
 | England                  |         3 |   0        |
 | Wasps                    |         3 |   0.333333 |
 | Bayonne                  |         3 |   0.666667 |
-| Gloucester Rugby         |         2 |   0        |
 | Worcester Warriors       |         2 |   1        |
 | Wales                    |         2 |   0.5      |
 | Ulster                   |         2 |   0        |
 | Australia                |         2 |   0.5      |
 | Southern Kings           |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
+| Zebre                    |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
 | New Zealand              |         2 |   0        |
 | Argentina                |         2 |   0        |
-| Zebre                    |         2 |   0.5      |
-| South Africa             |         1 |   0        |
+| Gloucester Rugby         |         2 |   0        |
 | Samoa                    |         1 |   1        |
-| Biarritz Olympique       |         1 |   0        |
+| South Africa             |         1 |   0        |
 | Canada                   |         1 |   1        |
+| Biarritz Olympique       |         1 |   0        |
 | Perpignan                |         1 |   1        |
 | Carcassonne              |         1 |   1        |
 | United States of America |         1 |   1        |
 | Uruguay                  |         1 |   1        |
+| Grenoble                 |         1 |   0        |

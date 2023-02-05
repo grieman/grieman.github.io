@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffon ARMITAGE  
-date: 2023-02-02 19:01:36.170178  
+date: 2023-02-04 18:30:45.879808  
 categories: player  
 ---
 # Steffon ARMITAGE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 102.0
+## Current elo: 109.0
 
-## Current Percentile: 61.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Toulon             |           159 |   0.701258 |
-| London Irish       |           120 |   0.545833 |
-| Biarritz Olympique |            65 |   0.469231 |
+| Toulon             |           165 |   0.7      |
+| London Irish       |           126 |   0.543651 |
+| Biarritz Olympique |            73 |   0.479452 |
 | Pau                |            62 |   0.524194 |
 | Nice               |            12 |   0.291667 |
 | England            |             5 |   0.8      |
@@ -33,66 +33,68 @@ categories: player
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Castres Olympique          |        20 |   0.45     |
+| Racing 92                  |        20 |   0.55     |
 | Montpellier Herault        |        18 |   0.527778 |
-| Racing 92                  |        18 |   0.555556 |
-| Castres Olympique          |        18 |   0.444444 |
-| Clermont Auvergne          |        17 |   0.5      |
+| Stade Toulousain           |        18 |   0.277778 |
+| Clermont Auvergne          |        18 |   0.527778 |
 | Bordeaux Begles            |        16 |   0.625    |
-| Stade Toulousain           |        16 |   0.3125   |
 | Stade Francais Paris       |        16 |   0.65625  |
+| Grenoble                   |        15 |   0.733333 |
 | Brive                      |        15 |   0.733333 |
+| Wasps                      |        14 |   0.428571 |
+| Perpignan                  |        14 |   0.535714 |
 | Leicester Tigers           |        14 |   0.357143 |
-| Grenoble                   |        14 |   0.714286 |
-| Wasps                      |        13 |   0.461538 |
 | Harlequins                 |        13 |   0.653846 |
 | Sale Sharks                |        13 |   0.769231 |
-| Perpignan                  |        12 |   0.541667 |
-| Saracens                   |        11 |   0.545455 |
-| Newcastle Falcons          |        11 |   0.772727 |
+| Saracens                   |        12 |   0.583333 |
+| Newcastle Falcons          |        12 |   0.708333 |
 | Bath Rugby                 |        11 |   0.409091 |
-| Oyonnax                    |        10 |   0.8      |
 | Lyon                       |        10 |   0.5      |
+| Oyonnax                    |        10 |   0.8      |
+| Toulon                     |         9 |   0.111111 |
 | Northampton Saints         |         9 |   0.333333 |
+| Bayonne                    |         9 |   0.833333 |
 | Gloucester Rugby           |         9 |   0.444444 |
-| Toulon                     |         8 |   0        |
-| Worcester Warriors         |         8 |   0.8125   |
-| Bayonne                    |         8 |   0.875    |
 | La Rochelle                |         8 |   0.5      |
+| Worcester Warriors         |         8 |   0.8125   |
 | Agen                       |         7 |   0.714286 |
 | Biarritz Olympique         |         7 |   0.714286 |
-| Cardiff Blues              |         6 |   0.666667 |
 | Leinster                   |         6 |   0.916667 |
+| Cardiff Blues              |         6 |   0.666667 |
 | Leeds                      |         5 |   0.6      |
 | Bristol Rugby              |         5 |   0.8      |
-| Pau                        |         4 |   0.5      |
 | Scarlets                   |         4 |   0.5      |
-| Yorkshire Carnegie         |         4 |   0.5      |
+| Ulster                     |         4 |   0.75     |
 | Montauban                  |         4 |   0.5      |
 | Carcassonne                |         4 |   0.5      |
-| Mont-de-Marsan             |         3 |   0.666667 |
-| Provence Rugby             |         3 |   0.833333 |
-| Valence Romans Drome Rugby |         3 |   0.333333 |
-| Vannes                     |         3 |   0.666667 |
-| Bourgoin-Jallieu           |         3 |   0        |
+| Vannes                     |         4 |   0.75     |
+| Yorkshire Carnegie         |         4 |   0.5      |
+| Pau                        |         4 |   0.5      |
 | Soyaux-Angouleme           |         3 |   1        |
-| Colomiers                  |         3 |   0.666667 |
-| Dax                        |         3 |   0.333333 |
+| Valence Romans Drome Rugby |         3 |   0.333333 |
+| Provence Rugby             |         3 |   0.833333 |
+| Mont-de-Marsan             |         3 |   0.666667 |
 | Exeter Chiefs              |         3 |   1        |
+| Dax                        |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
-| Ulster                     |         2 |   1        |
-| Rouen                      |         2 |   1        |
-| Aurillac                   |         2 |   1        |
-| Glasgow Warriors           |         2 |   1        |
-| Italy                      |         2 |   1        |
+| Bourgoin-Jallieu           |         3 |   0        |
+| Colomiers                  |         3 |   0.666667 |
 | Ospreys                    |         2 |   1        |
 | Argentina                  |         2 |   0.5      |
+| Aurillac                   |         2 |   1        |
+| Rouen                      |         2 |   1        |
 | Beziers                    |         2 |   0.5      |
+| Italy                      |         2 |   1        |
+| Glasgow Warriors           |         2 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
 | Wales                      |         1 |   1        |
-| Munster                    |         1 |   1        |
+| Chambery                   |         1 |   0        |
+| Suresnes                   |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Tarbes                     |         1 |   1        |
-| Suresnes                   |         1 |   1        |
-| Narbonne                   |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
+| Dragons                    |         1 |   1        |
 | Albi                       |         1 |   0.5      |
-| Chambery                   |         1 |   0        |
+| Munster                    |         1 |   1        |
+| Narbonne                   |         1 |   0        |
+| Zebre                      |         1 |   1        |

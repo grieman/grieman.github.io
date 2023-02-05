@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas CACHET  
-date: 2023-02-02 19:08:48.942260  
+date: 2023-02-04 18:31:41.039825  
 categories: player  
 ---
 # Nicolas CACHET
 
 ## Positions: FB, FH
 
-## Current elo: 74.0
+## Current elo: 81.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

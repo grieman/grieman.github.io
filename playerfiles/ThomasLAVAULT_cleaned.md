@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LAVAULT  
-date: 2023-01-31 10:55:49.627690  
+date: 2023-02-04 18:27:20.546574  
 categories: player  
 ---
 # Thomas LAVAULT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 105.0
+## Current elo: 132.0
 
-## Current Percentile: 71.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,18 +23,18 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            66 |   0.590909 |
+| La Rochelle |            72 |   0.611111 |
 | France      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Stade Toulousain     |         7 |   0        |
+| Stade Toulousain     |         8 |   0        |
 | Pau                  |         6 |   0.833333 |
-| Toulon               |         5 |   0.8      |
-| Bordeaux Begles      |         5 |   0.8      |
+| Bordeaux Begles      |         6 |   0.833333 |
+| Racing 92            |         6 |   0.666667 |
+| Montpellier Herault  |         6 |   0.5      |
 | Castres Olympique    |         5 |   0.6      |
-| Racing 92            |         5 |   0.6      |
-| Montpellier Herault  |         5 |   0.4      |
+| Toulon               |         5 |   0.8      |
 | Lyon                 |         4 |   0.75     |
 | Brive                |         4 |   1        |
 | Stade Francais Paris |         4 |   0.25     |
@@ -44,8 +44,10 @@ categories: player
 | Japan                |         2 |   1        |
 | Glasgow Warriors     |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |
-| Bayonne              |         1 |   1        |
-| Perpignan            |         1 |   0        |
 | Sale Sharks          |         1 |   1        |
+| Leinster             |         1 |   1        |
+| Perpignan            |         1 |   0        |
+| Bayonne              |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
+| Edinburgh            |         1 |   1        |
 | Ulster               |         1 |   1        |

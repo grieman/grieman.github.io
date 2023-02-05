@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James WILLIAMS  
-date: 2023-02-02 19:02:54.966453  
+date: 2023-02-04 18:29:43.883980  
 categories: player  
 ---
 # James WILLIAMS
 
 ## Positions: FH, C
 
-## Current elo: 84.0
+## Current elo: 92.0
 
-## Current Percentile: 9.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -23,11 +23,12 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            54 |   0.333333 |
 | Bristol Rugby    |             3 |   0.666667 |
+| Sale Sharks      |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Bedford             |         6 |   0.166667 |
 | Jersey              |         6 |   0        |
+| Bedford             |         6 |   0.166667 |
 | Nottingham          |         6 |   0.666667 |
 | Cornish Pirates     |         5 |   0.4      |
 | Doncaster           |         5 |   0.2      |
@@ -36,9 +37,11 @@ categories: player
 | Coventry            |         4 |   0.5      |
 | Ampthill            |         3 |   0.333333 |
 | London Scottish     |         3 |   0.833333 |
-| Bristol Rugby       |         2 |   0        |
 | Rotherham Titans    |         2 |   1        |
+| Bristol Rugby       |         2 |   0        |
 | Yorkshire Carnegie  |         2 |   0.25     |
-| Perpignan           |         1 |   1        |
 | Saracens            |         1 |   0        |
+| La Rochelle         |         1 |   0        |
+| Perpignan           |         1 |   1        |
+| Glasgow Warriors    |         1 |   0        |
 | Zebre               |         1 |   1        |

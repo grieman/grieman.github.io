@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yacouba CAMARA  
-date: 2023-02-02 18:56:02.749196  
+date: 2023-02-04 18:27:31.414572  
 categories: player  
 ---
 # Yacouba CAMARA
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 120.0
+## Current elo: 122.0
 
 ## Current Percentile: 91.0
 
@@ -23,48 +23,52 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Montpellier Herault |            93 |   0.510753 |
-| Stade Toulousain    |            71 |   0.514085 |
+| Montpellier Herault |           100 |   0.515    |
+| Stade Toulousain    |            72 |   0.506944 |
 | France              |            17 |   0.470588 |
 | Massy               |             5 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Racing 92                |        13 |   0.307692 |
 | Toulon                   |        12 |   0.625    |
-| Racing 92                |        12 |   0.333333 |
 | Bordeaux Begles          |        11 |   0.363636 |
 | Castres Olympique        |        11 |   0.545455 |
 | Clermont Auvergne        |        11 |   0.363636 |
 | Stade Francais Paris     |        11 |   0.818182 |
+| La Rochelle              |        11 |   0.363636 |
 | Lyon                     |        10 |   0.5      |
-| La Rochelle              |        10 |   0.4      |
-| Brive                    |         9 |   0.611111 |
 | Pau                      |         9 |   0.555556 |
+| Brive                    |         9 |   0.611111 |
 | Bayonne                  |         8 |   0.625    |
 | Stade Toulousain         |         7 |   0.142857 |
-| Grenoble                 |         6 |   0.5      |
-| Oyonnax                  |         6 |   0.75     |
 | Montpellier Herault      |         6 |   0.5      |
+| Oyonnax                  |         6 |   0.75     |
+| Grenoble                 |         6 |   0.5      |
 | Italy                    |         4 |   1        |
+| Agen                     |         3 |   1        |
+| Perpignan                |         3 |   0.666667 |
 | Saracens                 |         3 |   0.333333 |
 | Scotland                 |         3 |   0        |
-| Perpignan                |         3 |   0.666667 |
 | South Africa             |         3 |   0        |
-| Agen                     |         3 |   1        |
+| Leinster                 |         3 |   0        |
+| Exeter Chiefs            |         3 |   0.333333 |
 | Biarritz Olympique       |         3 |   1        |
 | Connacht                 |         3 |   0.333333 |
-| Munster                  |         2 |   0        |
-| Exeter Chiefs            |         2 |   0        |
+| London Irish             |         2 |   0.75     |
 | Ulster                   |         2 |   0        |
 | England                  |         2 |   0.5      |
 | Ireland                  |         2 |   0.5      |
-| Leinster                 |         2 |   0        |
-| London Irish             |         2 |   0.75     |
+| Munster                  |         2 |   0        |
+| Harlequins               |         1 |   0        |
 | Gloucester Rugby         |         1 |   1        |
-| Ospreys                  |         1 |   0        |
-| Edinburgh                |         1 |   0        |
-| Tonga                    |         1 |   1        |
+| Glasgow Warriors         |         1 |   1        |
 | Auch                     |         1 |   0        |
+| Edinburgh                |         1 |   0        |
+| Ospreys                  |         1 |   0        |
+| Tonga                    |         1 |   1        |
+| Bath Rugby               |         1 |   1        |
+| Leicester Tigers         |         1 |   1        |
 | United States of America |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Zebre                    |         1 |   1        |

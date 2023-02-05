@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sam HOLLINGSWORTH  
-date: 2023-02-02 19:06:34.337700  
+date: 2023-02-04 18:28:33.417936  
 categories: player  
 ---
 # Sam HOLLINGSWORTH
 
 ## Positions: FH
 
-## Current elo: 78.0
+## Current elo: 75.0
 
 ## Current Percentile: 7.0
 

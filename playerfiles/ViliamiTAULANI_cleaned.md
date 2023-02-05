@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Viliami TAULANI  
-date: 2023-02-02 19:13:55.849017  
+date: 2023-02-04 18:28:37.720098  
 categories: player  
 ---
 # Viliami TAULANI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 78.0
+## Current elo: 80.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

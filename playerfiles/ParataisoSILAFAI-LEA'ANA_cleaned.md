@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Parataiso SILAFAI-LEA'ANA  
-date: 2023-02-02 18:43:20.166262  
+date: 2023-02-04 18:29:29.543371  
 categories: player  
 ---
 # Parataiso SILAFAI-LEA'ANA
 
 ## Positions: C
 
-## Current elo: 119.0
+## Current elo: 120.0
 
 ## Current Percentile: 94.0
 
@@ -21,28 +21,28 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Albi             |            24 |   0.708333 |
+| Albi             |            27 |   0.703704 |
 | US Bressane      |            15 |   0.666667 |
+| Nice             |            10 |   0.75     |
 | Roval Drome XV   |            10 |   0        |
-| Nice             |             9 |   0.833333 |
 | Grenoble         |             8 |   0.875    |
 | Melbourne Rising |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Chambery                   |         6 |   0.833333 |
+| Chambery                   |         7 |   0.857143 |
+| Massy                      |         5 |   0.6      |
 | Tarbes                     |         4 |   0.625    |
 | Suresnes                   |         4 |   1        |
 | Blagnac                    |         4 |   0.75     |
 | Bourgoin-Jallieu           |         4 |   1        |
 | Cognac Saint Jean d'Angély |         4 |   1        |
 | Dax                        |         4 |   0.5      |
-| Massy                      |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Nice                       |         3 |   0.333333 |
+| Narbonne                   |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Montauban                  |         3 |   0        |
-| Narbonne                   |         2 |   0.5      |
 | Albi                       |         2 |   0        |
 | Dijon                      |         2 |   1        |
 | Carcassonne                |         2 |   0.5      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will HAYDON-WOOD  
-date: 2023-02-02 19:12:39.444335  
+date: 2023-02-04 18:31:39.752129  
 categories: player  
 ---
 # Will HAYDON-WOOD
 
 ## Positions: FH
 
-## Current elo: 101.0
+## Current elo: 85.0
 
-## Current Percentile: 55.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,14 +21,15 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            21 |   0.261905 |
-| Massy             |             4 |   0.25     |
+| Newcastle Falcons |            22 |   0.295455 |
+| Massy             |             6 |   0.5      |
 | Wasps             |             2 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Worcester Warriors |         3 |   0.833333 |
 | Bristol Rugby      |         3 |   0.333333 |
-| Worcester Warriors |         2 |   0.75     |
+| Carcassonne        |         2 |   1        |
 | Wasps              |         2 |   0.5      |
 | Exeter Chiefs      |         2 |   0        |
 | Saracens           |         2 |   0        |

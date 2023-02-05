@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas BAQUER  
-date: 2023-02-02 19:00:54.548018  
+date: 2023-02-04 18:31:21.792683  
 categories: player  
 ---
 # Nicolas BAQUER
 
 ## Positions: FL
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 40.0
+## Current Percentile: 39.0
 
 # Elo History
 

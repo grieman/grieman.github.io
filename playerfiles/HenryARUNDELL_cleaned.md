@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry ARUNDELL  
-date: 2023-02-02 18:56:12.787019  
+date: 2023-02-04 18:27:44.846365  
 categories: player  
 ---
 # Henry ARUNDELL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 98.0
+## Current elo: 95.0
 
-## Current Percentile: 51.0
+## Current Percentile: 45.0
 
 # Elo History
 

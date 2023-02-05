@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ugo SEGUELA  
-date: 2023-02-02 19:02:35.888311  
+date: 2023-02-04 18:28:41.943124  
 categories: player  
 ---
 # Ugo SEGUELA
 
 ## Positions: SH
 
-## Current elo: 108.0
+## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            54 |   0.611111 |
+| Colomiers |            55 |        0.6 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Montauban                  |         6 |   0.333333 |
 | Vannes                     |         5 |   0.2      |
-| Montauban                  |         5 |   0.4      |
 | Carcassonne                |         4 |   0.5      |
 | Rouen                      |         4 |   0.75     |
 | Mont-de-Marsan             |         4 |   0.5      |

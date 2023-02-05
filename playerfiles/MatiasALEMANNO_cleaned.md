@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias ALEMANNO  
-date: 2023-02-02 18:57:20.545226  
+date: 2023-02-04 18:29:49.396020  
 categories: player  
 ---
 # Matias ALEMANNO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 116.0
+## Current elo: 107.0
 
-## Current Percentile: 88.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -23,53 +23,56 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Argentina        |            84 |   0.27381  |
+| Argentina        |            85 |   0.270588 |
+| Gloucester Rugby |            49 |   0.520408 |
 | Jaguares         |            46 |   0.434783 |
-| Gloucester Rugby |            44 |   0.511364 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Australia                |        19 |   0.236842 |
-| South Africa             |        16 |   0.1875   |
+| South Africa             |        17 |   0.176471 |
 | New Zealand              |        14 |   0.142857 |
 | Lions                    |         8 |   0.375    |
 | Scotland                 |         7 |   0.142857 |
 | Wales                    |         6 |   0.25     |
-| Stormers                 |         6 |   0.166667 |
 | Sharks                   |         6 |   0.166667 |
 | England                  |         6 |   0.166667 |
+| Stormers                 |         6 |   0.166667 |
+| Northampton Saints       |         5 |   0.8      |
 | Exeter Chiefs            |         5 |   0.4      |
-| Ireland                  |         5 |   0.2      |
-| London Irish             |         5 |   0.7      |
 | Bristol Rugby            |         5 |   0.4      |
-| Northampton Saints       |         4 |   0.75     |
-| Harlequins               |         4 |   0        |
+| London Irish             |         5 |   0.7      |
+| Ireland                  |         5 |   0.2      |
 | Southern Kings           |         4 |   0.5      |
+| Saracens                 |         4 |   0.5      |
+| Harlequins               |         4 |   0        |
 | Bath Rugby               |         4 |   0.75     |
 | Queensland Reds          |         3 |   0.666667 |
-| Wasps                    |         3 |   0.666667 |
 | Leicester Tigers         |         3 |   0        |
+| Wasps                    |         3 |   0.666667 |
 | Bulls                    |         3 |   0.666667 |
-| Saracens                 |         3 |   0.666667 |
+| Italy                    |         2 |   1        |
+| Sunwolves                |         2 |   0.5      |
+| Brumbies                 |         2 |   0.5      |
+| Cheetahs                 |         2 |   1        |
+| Sale Sharks              |         2 |   0.5      |
+| Chiefs                   |         2 |   0.5      |
+| Crusaders                |         2 |   0        |
+| Newcastle Falcons        |         2 |   0.5      |
 | Blues                    |         2 |   1        |
 | Tonga                    |         2 |   1        |
-| Sunwolves                |         2 |   0.5      |
-| Bordeaux Begles          |         2 |   1        |
-| Brumbies                 |         2 |   0.5      |
-| Sale Sharks              |         2 |   0.5      |
 | France                   |         2 |   0        |
 | Georgia                  |         2 |   1        |
-| Newcastle Falcons        |         2 |   0.5      |
-| Cheetahs                 |         2 |   1        |
-| Chiefs                   |         2 |   0.5      |
-| Italy                    |         2 |   1        |
-| Crusaders                |         2 |   0        |
+| Bordeaux Begles          |         2 |   1        |
+| Ulster                   |         1 |   1        |
+| Western Force            |         1 |   0        |
+| United States of America |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |
+| Benetton Treviso         |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Namibia                  |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
 | Leinster                 |         1 |   0        |
+| La Rochelle              |         1 |   0        |
 | Japan                    |         1 |   1        |
-| United States of America |         1 |   1        |
 | Hurricanes               |         1 |   0        |
-| Western Force            |         1 |   0        |
 | Worcester Warriors       |         1 |   1        |

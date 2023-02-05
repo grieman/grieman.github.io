@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ntinga MPIKO  
-date: 2023-02-02 19:13:49.461960  
+date: 2023-02-04 18:28:32.037274  
 categories: player  
 ---
 # Ntinga MPIKO
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 91.0
 
-## Current Percentile: 27.0
+## Current Percentile: 26.0
 
 # Elo History
 

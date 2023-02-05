@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James WHITCOMBE  
-date: 2023-02-02 19:12:22.867402  
+date: 2023-02-04 18:31:35.779149  
 categories: player  
 ---
 # James WHITCOMBE
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 77.0
 
-## Current Percentile: 64.0
+## Current Percentile: 12.0
 
 # Elo History
 

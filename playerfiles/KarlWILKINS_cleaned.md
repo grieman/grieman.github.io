@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Karl WILKINS  
-date: 2023-02-02 18:50:32.044083  
+date: 2023-02-04 18:30:12.646261  
 categories: player  
 ---
 # Karl WILKINS
 
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 80.0
 
-## Current Percentile: 13.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Beziers            |            61 |   0.47541  |
-| Northampton Saints |            10 |   0.5      |
+| Northampton Saints |            11 |   0.454545 |
 | Bedford            |             6 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -55,6 +55,7 @@ categories: player
 | Gloucester Rugby    |         1 |   0        |
 | Exeter Chiefs       |         1 |   0        |
 | Ealing Trailfinders |         1 |   0        |
+| Racing 92           |         1 |   0        |
 | Roval Drome XV      |         1 |   1        |
 | Bristol Rugby       |         1 |   1        |
 | Bayonne             |         1 |   0        |

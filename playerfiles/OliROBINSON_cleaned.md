@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Oli ROBINSON  
-date: 2023-02-02 19:02:58.790530  
+date: 2023-02-04 18:27:21.815576  
 categories: player  
 ---
 # Oli ROBINSON
 
 ## Positions: N8, FL
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 27.0
+## Current Percentile: 30.0
 
 # Elo History
 

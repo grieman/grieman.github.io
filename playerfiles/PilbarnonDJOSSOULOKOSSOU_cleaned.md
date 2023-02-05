@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pilbarnon DJOSSOU LOKOSSOU  
-date: 2023-02-02 19:04:54.848434  
+date: 2023-02-04 18:29:46.615243  
 categories: player  
 ---
 # Pilbarnon DJOSSOU LOKOSSOU
 
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 45.0
+## Current Percentile: 36.0
 
 # Elo History
 

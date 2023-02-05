@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Miles WAKELING  
-date: 2023-02-02 18:53:14.144184  
+date: 2023-02-04 18:30:19.517435  
 categories: player  
 ---
 # Miles WAKELING
 
 ## Positions: FL
 
-## Current elo: 87.0
+## Current elo: 90.0
 
-## Current Percentile: 20.0
+## Current Percentile: 29.0
 
 # Elo History
 

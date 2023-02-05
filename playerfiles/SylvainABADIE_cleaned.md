@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sylvain ABADIE  
-date: 2023-02-02 19:00:40.280448  
+date: 2023-02-04 18:28:29.627042  
 categories: player  
 ---
 # Sylvain ABADIE
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 60.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            53 |   0.462264 |
+| Narbonne |            55 |   0.463636 |
 | Auch     |            45 |   0.355556 |
 | Massy    |            36 |   0.375    |
 
@@ -31,12 +31,12 @@ categories: player
 | Tarbes                     |         8 |   0.5      |
 | Colomiers                  |         7 |   0.214286 |
 | Beziers                    |         7 |   0.285714 |
+| US Bressane                |         6 |   0.5      |
 | Aurillac                   |         6 |   0.333333 |
 | Bayonne                    |         6 |   0        |
 | Bourgoin-Jallieu           |         6 |   0.5      |
 | Carcassonne                |         6 |   0.5      |
 | Albi                       |         6 |   0.25     |
-| US Bressane                |         5 |   0.6      |
 | Vannes                     |         4 |   0.25     |
 | Narbonne                   |         4 |   0.625    |
 | Montauban                  |         4 |   0        |
@@ -45,10 +45,10 @@ categories: player
 | Pau                        |         4 |   0.25     |
 | Suresnes                   |         4 |   0.75     |
 | Biarritz Olympique         |         4 |   0.5      |
+| Nice                       |         4 |   1        |
 | Provence Rugby             |         3 |   1        |
 | Blagnac                    |         3 |   0.833333 |
 | Nevers                     |         3 |   0.333333 |
-| Nice                       |         3 |   1        |
 | Rouen                      |         2 |   0.5      |
 | Perpignan                  |         2 |   0.5      |
 | Agen                       |         2 |   1        |

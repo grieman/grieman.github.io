@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe ELDERKIN  
-date: 2023-02-02 18:38:45.038110  
+date: 2023-02-04 18:31:07.796245  
 categories: player  
 ---
 # Joe ELDERKIN
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 65.0
+## Current Percentile: 66.0
 
 # Elo History
 

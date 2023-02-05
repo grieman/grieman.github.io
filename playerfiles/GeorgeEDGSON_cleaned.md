@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George EDGSON  
-date: 2023-02-02 18:43:19.110623  
+date: 2023-02-04 18:31:31.908686  
 categories: player  
 ---
 # George EDGSON
 
 ## Positions: H, FL
 
-## Current elo: 122.0
+## Current elo: 116.0
 
-## Current Percentile: 93.0
+## Current Percentile: 90.0
 
 # Elo History
 

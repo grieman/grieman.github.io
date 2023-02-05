@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yoan GAUNE  
-date: 2023-02-02 19:13:13.542877  
+date: 2023-02-04 18:31:14.389518  
 categories: player  
 ---
 # Yoan GAUNE
 
 ## Positions: L
 
-## Current elo: 121.0
+## Current elo: 119.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 

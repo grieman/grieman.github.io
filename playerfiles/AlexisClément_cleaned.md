@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexis Clément  
-date: 2023-02-02 19:13:03.402046  
+date: 2023-02-04 18:26:25.971549  
 categories: player  
 ---
 # Alexis Clément
 
 ## Positions: W
 
-## Current elo: 76.0
+## Current elo: 75.0
 
-## Current Percentile: 42.0
+## Current Percentile: 50.0
 
 # Elo History
 

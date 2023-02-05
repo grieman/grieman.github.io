@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago ARATA PERRONE  
-date: 2023-02-02 19:14:45.379224  
+date: 2023-02-04 18:26:37.666425  
 categories: player  
 ---
 # Santiago ARATA PERRONE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 66.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            51 |   0.607843 |
+| Castres Olympique |            52 |   0.596154 |
 | Uruguay           |            15 |   0.466667 |
 | Houston SaberCats |             3 |   0.666667 |
 | Penarol Rugby     |             1 |   0        |
@@ -31,10 +31,10 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Bordeaux Begles          |         5 |   0.3      |
+| Clermont Auvergne        |         5 |   0.4      |
 | Montpellier Herault      |         5 |   0.6      |
 | Stade Toulousain         |         4 |   0.625    |
 | Brive                    |         4 |   0.75     |
-| Clermont Auvergne        |         4 |   0.5      |
 | Pau                      |         4 |   1        |
 | Lyon                     |         3 |   1        |
 | Racing 92                |         3 |   0.666667 |

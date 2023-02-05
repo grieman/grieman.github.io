@@ -523,6 +523,10 @@ for future_game in future_games:
 
 print("FUTURE MATCHES - NO LINEUPS")
 all_fut_matches = glob.glob(os.path.join("../Rugby_ELO/future_matches", "*.psv"))
+## This needs cleaned up
+# int(all_fut_matches[0].split("_")[-1].split(".")[0])
+all_fut_matches = [x for x in all_fut_matches if int(x.split("_")[-1].split(".")[0]) > 2020]
+
 fut_matches_df = pd.concat((pd.read_csv(f, sep="|") for f in all_fut_matches))
 fut_matches_df = fut_matches_df.drop(["Unnamed: 0"], axis=1)
 fut_matches_df.Date = pd.to_datetime(fut_matches_df.Date)

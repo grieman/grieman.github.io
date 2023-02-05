@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Zuriel MAKELE  
-date: 2023-02-02 18:49:12.047347  
+date: 2023-02-04 18:28:19.211437  
 categories: player  
 ---
 # Zuriel MAKELE
 
 ## Positions: C
 
-## Current elo: 94.0
+## Current elo: 93.0
 
 ## Current Percentile: None
 

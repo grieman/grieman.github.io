@@ -1,32 +1,38 @@
 ---  
 layout: page  
-title: Kenshi YAMAMOTO  
-date: 2023-02-02 19:14:40.519416  
+title: Kenshi Yamamoto  
+date: 2023-02-04 18:31:02.485921  
 categories: player  
 ---
-# Kenshi YAMAMOTO
+# Kenshi Yamamoto
 
-## Positions: 
+## Positions: P
 
 ## Current elo: 96.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_KenshiYamamoto.png)
 # Match History
 
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |            10 |        0.9 |
+| Kubota Spears Funabashi Tokyo-Bay |            15 |        0.8 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Green Rockets Tokatsu           |         2 |          1 |
-| Black Rams Tokyo                |         1 |          1 |
-| Kobelco Kobe Steelers           |         1 |          1 |
-| NTT Docomo Red Hurricanes Osaka |         1 |          1 |
-| Saitama Wild Knights            |         1 |          0 |
-| Shizuoka Blue Revs              |         1 |          1 |
-| Toshiba Brave Lupus Tokyo       |         1 |          1 |
-| Toyota Verblitz                 |         1 |          1 |
-| Yokohama Canon Eagles           |         1 |          1 |
+| Toyota Verblitz                 |         3 |   0.666667 |
+| Green Rockets Tokatsu           |         2 |   1        |
+| Toshiba Brave Lupus Tokyo       |         2 |   1        |
+| Black Rams Tokyo                |         1 |   1        |
+| Kobelco Kobe Steelers           |         1 |   1        |
+| Mitsubishi Dynaboars            |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka |         1 |   1        |
+| Saitama Wild Knights            |         1 |   0        |
+| Shizuoka Blue Revs              |         1 |   1        |
+| Tokyo Sungoliath                |         1 |   0        |
+| Yokohama Canon Eagles           |         1 |   1        |

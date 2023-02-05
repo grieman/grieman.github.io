@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael WILLEMSE  
-date: 2023-02-02 19:09:53.120224  
+date: 2023-02-04 18:30:54.837664  
 categories: player  
 ---
 # Michael WILLEMSE
 
 ## Positions: H
 
-## Current elo: 91.0
+## Current elo: 80.0
 
-## Current Percentile: 27.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
 | Southern Kings         |            42 |   0.202381 |
-| Edinburgh              |            36 |   0.597222 |
+| Edinburgh              |            38 |   0.565789 |
 | London Irish           |            21 |   0.5      |
 | Western Province       |            11 |   0.727273 |
 | Golden Lions           |             5 |   0.2      |
@@ -31,13 +31,13 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Glasgow Warriors         |         9 |   0.555556 |
+| Glasgow Warriors         |        10 |   0.5      |
 | Scarlets                 |         6 |   0.5      |
 | Cheetahs                 |         6 |   0        |
+| Leinster                 |         5 |   0        |
 | Ulster                   |         5 |   0        |
 | Dragons                  |         5 |   0.5      |
 | Cardiff Blues            |         5 |   0.6      |
-| Leinster                 |         4 |   0        |
 | Connacht                 |         4 |   0.5      |
 | Munster                  |         4 |   0.25     |
 | Zebre                    |         4 |   0.5      |

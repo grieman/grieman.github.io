@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zhorzhi (Jorji) SALDADZE  
-date: 2023-02-02 18:55:32.356811  
+date: 2023-02-04 18:28:50.356726  
 categories: player  
 ---
 # Zhorzhi (Jorji) SALDADZE
 
 ## Positions: P
 
-## Current elo: 78.0
+## Current elo: 82.0
 
-## Current Percentile: 10.0
+## Current Percentile: 16.0
 
 # Elo History
 

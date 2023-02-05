@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.26, which translates to predicting Glasgow Warriors to win by 9.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.257, which translates to predicting Glasgow Warriors to win by 9.3.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Glasgow Warriors by 2.3
+## Prediction with Player Minutes: Dragons by 4.1
 
 
-Glasgow Warriors by 6.3 on a neutral field
+Dragons by 0.1 on a neutral field
 ## Scores over Time
 
 
@@ -40,36 +40,36 @@ Glasgow Warriors by 6.3 on a neutral field
 
 
 ![In Match Predictions](plots/recap_prob_2023-01-28-Dragons-GlasgowWarriors.png)
-## Prediction without Player Minutes: Glasgow Warriors by 6.2
+## Prediction without Player Minutes: Dragons by 1.7
 
 
-Glasgow Warriors by 10.2 on a neutral pitch
+Glasgow Warriors by 2.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                       |   Home Minutes |
 |---------------:|:--------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------|---------------:|
-|             65 | [Jamie Bhatti](..//playerfiles//JamieBhatti_cleaned.md)                   |     117.76 |                93 |        1 |                57 |      97.63 | [Rhodri Jones](..//playerfiles//RhodriJones_cleaned.md)           |             48 |
-|             65 | [Fraser Brown](..//playerfiles//FraserBrown_cleaned.md)                   |     126.52 |                97 |        2 |               nan |      92.54 | [Brodie Coghlan](..//playerfiles//BrodieCoghlan_cleaned.md)       |             70 |
-|             65 | [Simon Berghan](..//playerfiles//SimonBerghan_cleaned.md)                 |      91.38 |                33 |        3 |                 3 |      69.85 | [Lloyd Fairbrother](..//playerfiles//LloydFairbrother_cleaned.md) |             48 |
-|             80 | [Lewis Bean](..//playerfiles//LewisBean_cleaned.md)                       |     103.84 |                74 |        4 |                19 |      83.56 | [Matthew Screech](..//playerfiles//MatthewScreech_cleaned.md)     |             80 |
-|             75 | [JP du Preez](..//playerfiles//JPduPreez_cleaned.md)                      |      93.39 |                45 |        5 |                24 |      86.47 | [Ben Carter](..//playerfiles//BenCarter_cleaned.md)               |             80 |
-|             65 | [Tom Gordon](..//playerfiles//TomGordon_cleaned.md)                       |     125.21 |                93 |        6 |                15 |      82.27 | [George Nott](..//playerfiles//GeorgeNott_cleaned.md)             |             40 |
-|             80 | [Sione Vailanu](..//playerfiles//SioneVailanu_cleaned.md)                 |      90.45 |                34 |        7 |                14 |      81.86 | [Sean Lonsdale](..//playerfiles//SeanLonsdale_cleaned.md)         |             70 |
-|             75 | [Jack Dempsey](..//playerfiles//JackDempsey_cleaned.md)                   |      86.8  |                25 |        8 |                72 |     104.46 | [Taine Basham](..//playerfiles//TaineBasham_cleaned.md)           |             80 |
-|             45 | [Ali Price](..//playerfiles//AliPrice_cleaned.md)                         |     103.76 |                70 |        9 |                79 |     107.6  | [Rhodri Williams](..//playerfiles//RhodriWilliams_cleaned.md)     |             70 |
-|             66 | [Duncan Weir](..//playerfiles//DuncanWeir_cleaned.md)                     |      89.32 |                25 |       10 |                96 |     134.46 | [JJ Hanrahan](..//playerfiles//JJHanrahan_cleaned.md)             |             80 |
-|             80 | [Cole Forbes](..//playerfiles//ColeForbes_cleaned.md)                     |     104.29 |                72 |       11 |                72 |     104.19 | [Ashton Hewitt](..//playerfiles//AshtonHewitt_cleaned.md)         |             80 |
-|             80 | [Sam Johnson](..//playerfiles//SamJohnson_cleaned.md)                     |     110.71 |                80 |       12 |                87 |     114.57 | [Jack Dixon](..//playerfiles//JackDixon_cleaned.md)               |             80 |
-|             80 | [Stafford McDowall](..//playerfiles//StaffordMcDowall_cleaned.md)         |     138.67 |                98 |       13 |                85 |     114.28 | [Sio Tomkinson](..//playerfiles//SioTomkinson_cleaned.md)         |             80 |
-|             80 | [Sebastian Cancelliere](..//playerfiles//SebastianCancelliere_cleaned.md) |     107.9  |                78 |       14 |                 9 |      75.89 | [Jared Rosser](..//playerfiles//JaredRosser_cleaned.md)           |             48 |
-|             80 | [Josh McKay](..//playerfiles//JoshMcKay_cleaned.md)                       |      87.08 |                29 |       15 |                66 |     104.47 | [Jordan Williams](..//playerfiles//JordanWilliams_cleaned.md)     |             64 |
-|             35 | [Jamie Dobie](..//playerfiles//JamieDobie_cleaned.md)                     |      92.96 |                40 |       16 |                82 |     110.21 | [Ben Fry](..//playerfiles//BenFry_cleaned.md)                     |             40 |
-|             15 | [Cameron Neild](..//playerfiles//CameronNeild_cleaned.md)                 |      92.97 |                41 |       17 |                79 |     104.91 | [Aki Seiuli](..//playerfiles//AkiSeiuli_cleaned.md)               |             32 |
-|             15 | [Nathan McBeth](..//playerfiles//NathanMcBeth_cleaned.md)                 |      94.42 |                52 |       18 |                30 |      89.75 | [Chris Coleman](..//playerfiles//ChrisColeman_cleaned.md)         |             32 |
-|             15 | [Johnny Matthews](..//playerfiles//JohnnyMatthews_cleaned.md)             |     102.03 |                70 |       19 |                93 |     124.68 | [Steffan Hughes](..//playerfiles//SteffanHughes_cleaned.md)       |             32 |
-|             15 | [Lucio Sordoni](..//playerfiles//LucioSordoni_cleaned.md)                 |     108.21 |                83 |       20 |                92 |     124.53 | [Sam Davies](..//playerfiles//SamDavies_cleaned.md)               |             16 |
-|             14 | [Tom Jordan](..//playerfiles//TomJordan_cleaned.md)                       |      92.17 |                35 |       21 |                 8 |      78.94 | [James Benjamin](..//playerfiles//JamesBenjamin_cleaned.md)       |             10 |
-|              5 | [Euan Ferrie](..//playerfiles//EuanFerrie_cleaned.md)                     |     102.26 |                67 |       22 |                58 |      99.1  | [Lewis Jones](..//playerfiles//LewisJones_cleaned.md)             |             10 |
-|              5 | [Alex Samuel](..//playerfiles//AlexSamuel_cleaned.md)                     |     105.1  |                73 |       23 |                14 |      80.65 | [Huw Taylor](..//playerfiles//HuwTaylor_cleaned.md)               |             10 |
+|             65 | [Jamie Bhatti](..//playerfiles//JamieBhatti_cleaned.md)                   |     120.61 |                94 |        1 |                86 |     110.72 | [Rhodri Jones](..//playerfiles//RhodriJones_cleaned.md)           |             48 |
+|             65 | [Fraser Brown](..//playerfiles//FraserBrown_cleaned.md)                   |     119.65 |                93 |        2 |               nan |      92.15 | [Brodie Coghlan](..//playerfiles//BrodieCoghlan_cleaned.md)       |             70 |
+|             65 | [Simon Berghan](..//playerfiles//SimonBerghan_cleaned.md)                 |     102.07 |                68 |        3 |                 6 |      75.58 | [Lloyd Fairbrother](..//playerfiles//LloydFairbrother_cleaned.md) |             48 |
+|             80 | [Lewis Bean](..//playerfiles//LewisBean_cleaned.md)                       |     104.15 |                78 |        4 |                76 |     107.07 | [Matthew Screech](..//playerfiles//MatthewScreech_cleaned.md)     |             80 |
+|             75 | [JP du Preez](..//playerfiles//JPduPreez_cleaned.md)                      |      84.74 |                23 |        5 |                40 |      92.31 | [Ben Carter](..//playerfiles//BenCarter_cleaned.md)               |             80 |
+|             65 | [Tom Gordon](..//playerfiles//TomGordon_cleaned.md)                       |     120.42 |                91 |        6 |                17 |      83.12 | [George Nott](..//playerfiles//GeorgeNott_cleaned.md)             |             40 |
+|             80 | [Sione Vailanu](..//playerfiles//SioneVailanu_cleaned.md)                 |      91.14 |                37 |        7 |                10 |      79.31 | [Sean Lonsdale](..//playerfiles//SeanLonsdale_cleaned.md)         |             70 |
+|             75 | [Jack Dempsey](..//playerfiles//JackDempsey_cleaned.md)                   |      88.82 |                28 |        8 |                82 |     111.52 | [Taine Basham](..//playerfiles//TaineBasham_cleaned.md)           |             80 |
+|             45 | [Ali Price](..//playerfiles//AliPrice_cleaned.md)                         |      88.71 |                29 |        9 |                90 |     115    | [Rhodri Williams](..//playerfiles//RhodriWilliams_cleaned.md)     |             70 |
+|             66 | [Duncan Weir](..//playerfiles//DuncanWeir_cleaned.md)                     |      90.51 |                32 |       10 |                91 |     121.86 | [JJ Hanrahan](..//playerfiles//JJHanrahan_cleaned.md)             |             80 |
+|             80 | [Cole Forbes](..//playerfiles//ColeForbes_cleaned.md)                     |     108.39 |                78 |       11 |                75 |     106.48 | [Ashton Hewitt](..//playerfiles//AshtonHewitt_cleaned.md)         |             80 |
+|             80 | [Sam Johnson](..//playerfiles//SamJohnson_cleaned.md)                     |     102.11 |                65 |       12 |                68 |     101.43 | [Jack Dixon](..//playerfiles//JackDixon_cleaned.md)               |             80 |
+|             80 | [Stafford McDowall](..//playerfiles//StaffordMcDowall_cleaned.md)         |     132.81 |                97 |       13 |                87 |     116.83 | [Sio Tomkinson](..//playerfiles//SioTomkinson_cleaned.md)         |             80 |
+|             80 | [Sebastian Cancelliere](..//playerfiles//SebastianCancelliere_cleaned.md) |      98.64 |                57 |       14 |                26 |      87.93 | [Jared Rosser](..//playerfiles//JaredRosser_cleaned.md)           |             48 |
+|             80 | [Josh McKay](..//playerfiles//JoshMcKay_cleaned.md)                       |      92.06 |                40 |       15 |                65 |     103.76 | [Jordan Williams](..//playerfiles//JordanWilliams_cleaned.md)     |             64 |
+|             35 | [Jamie Dobie](..//playerfiles//JamieDobie_cleaned.md)                     |      97    |                52 |       16 |                78 |     107.59 | [Ben Fry](..//playerfiles//BenFry_cleaned.md)                     |             40 |
+|             15 | [Cameron Neild](..//playerfiles//CameronNeild_cleaned.md)                 |      84.39 |                20 |       17 |                61 |      99.03 | [Aki Seiuli](..//playerfiles//AkiSeiuli_cleaned.md)               |             32 |
+|             15 | [Nathan McBeth](..//playerfiles//NathanMcBeth_cleaned.md)                 |      87.34 |                26 |       18 |                51 |      96.52 | [Chris Coleman](..//playerfiles//ChrisColeman_cleaned.md)         |             32 |
+|             15 | [Johnny Matthews](..//playerfiles//JohnnyMatthews_cleaned.md)             |     113.98 |                89 |       19 |                90 |     121.53 | [Steffan Hughes](..//playerfiles//SteffanHughes_cleaned.md)       |             32 |
+|             15 | [Lucio Sordoni](..//playerfiles//LucioSordoni_cleaned.md)                 |     102.2  |                70 |       20 |                94 |     129.19 | [Sam Davies](..//playerfiles//SamDavies_cleaned.md)               |             16 |
+|             14 | [Tom Jordan](..//playerfiles//TomJordan_cleaned.md)                       |      92.49 |                37 |       21 |                65 |     101.97 | [James Benjamin](..//playerfiles//JamesBenjamin_cleaned.md)       |             10 |
+|              5 | [Euan Ferrie](..//playerfiles//EuanFerrie_cleaned.md)                     |      94.17 |                45 |       22 |                45 |      94.21 | [Lewis Jones](..//playerfiles//LewisJones_cleaned.md)             |             10 |
+|              5 | [Alex Samuel](..//playerfiles//AlexSamuel_cleaned.md)                     |     103.39 |                70 |       23 |                 7 |      74.15 | [Huw Taylor](..//playerfiles//HuwTaylor_cleaned.md)               |             10 |
 

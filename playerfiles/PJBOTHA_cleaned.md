@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: PJ BOTHA  
-date: 2023-02-02 18:51:01.717980  
+date: 2023-02-04 18:32:05.805495  
 categories: player  
 ---
 # PJ BOTHA
 
 ## Positions: H
 
-## Current elo: 83.0
+## Current elo: 91.0
 
-## Current Percentile: 20.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,26 +21,30 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
+| Lions        |            34 |   0.397059 |
 | Golden Lions |            14 |   0.392857 |
-| Lions        |            14 |   0.392857 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Blue Bulls           |         3 |       0    |
-| Western Province     |         3 |       1    |
-| Dragons              |         2 |       0.75 |
-| Free State Cheetahs  |         2 |       0.25 |
-| Griquas              |         2 |       0.5  |
-| Pumas                |         2 |       0    |
-| Stormers             |         2 |       0    |
-| Natal Sharks         |         2 |       0.5  |
-| Cardiff Blues        |         1 |       1    |
-| Connacht             |         1 |       0    |
-| Edinburgh            |         1 |       1    |
-| Munster              |         1 |       0    |
-| Bulls                |         1 |       0    |
-| Ospreys              |         1 |       1    |
-| Scarlets             |         1 |       1    |
-| Sharks               |         1 |       0    |
-| Stade Francais Paris |         1 |       0    |
-| Ulster               |         1 |       0    |
+| Bulls                |         5 |   0        |
+| Stormers             |         4 |   0.25     |
+| Western Province     |         3 |   1        |
+| Dragons              |         3 |   0.833333 |
+| Blue Bulls           |         3 |   0        |
+| Sharks               |         3 |   0        |
+| Edinburgh            |         2 |   1        |
+| Free State Cheetahs  |         2 |   0.25     |
+| Connacht             |         2 |   0        |
+| Griquas              |         2 |   0.5      |
+| Ulster               |         2 |   0        |
+| Cardiff Blues        |         2 |   1        |
+| Natal Sharks         |         2 |   0.5      |
+| Ospreys              |         2 |   1        |
+| Pumas                |         2 |   0        |
+| Scarlets             |         2 |   0.5      |
+| Munster              |         2 |   0.5      |
+| Benetton Treviso     |         1 |   1        |
+| Stade Francais Paris |         1 |   0        |
+| Leinster             |         1 |   0        |
+| Glasgow Warriors     |         1 |   0        |
+| Zebre                |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent MUTEL  
-date: 2023-02-02 18:50:07.169723  
+date: 2023-02-04 18:28:58.908066  
 categories: player  
 ---
 # Vincent MUTEL
 
 ## Positions: L
 
-## Current elo: 110.0
+## Current elo: 106.0
 
-## Current Percentile: 72.0
+## Current Percentile: 61.0
 
 # Elo History
 

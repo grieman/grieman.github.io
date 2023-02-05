@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Téo GAZIN  
-date: 2023-02-02 19:01:03.700287  
+date: 2023-02-04 18:29:17.456193  
 categories: player  
 ---
 # Téo GAZIN
 
 ## Positions: FL, N8
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 66.0
+## Current Percentile: 62.0
 
 # Elo History
 

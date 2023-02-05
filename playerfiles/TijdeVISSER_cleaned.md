@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tijde VISSER  
-date: 2023-02-02 19:00:27.245177  
+date: 2023-02-04 18:32:00.335393  
 categories: player  
 ---
 # Tijde VISSER
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 51.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,31 +21,31 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Massy   |            25 |       0.68 |
-| Griquas |             4 |       0    |
+| Massy   |            28 |   0.714286 |
+| Griquas |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Soyaux-Angouleme           |         2 |        0   |
+| Carcassonne                |         3 |        1   |
 | Chambery                   |         2 |        1   |
+| Soyaux-Angouleme           |         2 |        0   |
 | Dax                        |         2 |        1   |
+| Albi                       |         2 |        1   |
 | Nice                       |         2 |        0.5 |
 | Agen                       |         1 |        0   |
-| Montauban                  |         1 |        1   |
+| Natal Sharks               |         1 |        0   |
 | Vannes                     |         1 |        1   |
 | Valence Romans Drome Rugby |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |
 | Pumas                      |         1 |        0   |
 | Provence Rugby             |         1 |        1   |
-| Natal Sharks               |         1 |        0   |
 | Grenoble                   |         1 |        0   |
+| Montauban                  |         1 |        1   |
 | Mont-de-Marsan             |         1 |        0   |
-| Albi                       |         1 |        1   |
 | Free State Cheetahs        |         1 |        0   |
 | Colomiers                  |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
-| Carcassonne                |         1 |        1   |
 | Bourgoin-Jallieu           |         1 |        1   |
 | Blagnac                    |         1 |        1   |
 | Beziers                    |         1 |        0   |

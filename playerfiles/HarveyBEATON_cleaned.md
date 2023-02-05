@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harvey BEATON  
-date: 2023-02-02 18:57:13.942384  
+date: 2023-02-04 18:28:10.745061  
 categories: player  
 ---
 # Harvey BEATON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 42.0
+## Current Percentile: 40.0
 
 # Elo History
 

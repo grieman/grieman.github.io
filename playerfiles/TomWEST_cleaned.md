@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom WEST  
-date: 2023-02-02 18:50:29.967034  
+date: 2023-02-04 18:29:11.067117  
 categories: player  
 ---
 # Tom WEST
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 96.0
 
-## Current Percentile: 71.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Wasps            |            70 |   0.492857 |
+| Wasps            |            74 |   0.506757 |
 | Nottingham       |            28 |   0.410714 |
 | Leicester Tigers |             1 |   0        |
 
@@ -30,26 +30,29 @@ categories: player
 | Bristol Rugby       |         9 |   0.555556 |
 | London Irish        |         7 |   0.5      |
 | Exeter Chiefs       |         6 |   0.5      |
+| Worcester Warriors  |         6 |   0.833333 |
 | Sale Sharks         |         6 |   0.333333 |
 | Northampton Saints  |         6 |   0.166667 |
-| Worcester Warriors  |         6 |   0.833333 |
 | Newcastle Falcons   |         5 |   0.4      |
-| Bath Rugby          |         5 |   1        |
 | Leicester Tigers    |         5 |   0.4      |
-| Saracens            |         4 |   0.5      |
-| Gloucester Rugby    |         4 |   0.5      |
+| Bath Rugby          |         5 |   1        |
 | Harlequins          |         4 |   0.25     |
+| Gloucester Rugby    |         4 |   0.5      |
 | Yorkshire Carnegie  |         4 |   0        |
-| Cornish Pirates     |         3 |   0.333333 |
+| Saracens            |         4 |   0.5      |
 | Ealing Trailfinders |         3 |   0.333333 |
 | Rotherham Titans    |         3 |   0.833333 |
+| Cornish Pirates     |         3 |   0.333333 |
 | London Scottish     |         3 |   0.666667 |
-| Richmond            |         2 |   1        |
-| Jersey              |         2 |   0.5      |
+| Edinburgh           |         3 |   0.333333 |
 | Munster             |         2 |   0        |
+| Richmond            |         2 |   1        |
 | Hartpury College    |         2 |   0.5      |
-| Edinburgh           |         2 |   0        |
+| Jersey              |         2 |   0.5      |
 | Doncaster           |         2 |   0        |
 | Bedford             |         2 |   0.5      |
+| Lyon                |         1 |   0        |
+| Dragons             |         1 |   1        |
 | Bordeaux Begles     |         1 |   0        |
+| Biarritz Olympique  |         1 |   1        |
 | Agen                |         1 |   1        |

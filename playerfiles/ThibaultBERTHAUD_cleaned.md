@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault BERTHAUD  
-date: 2023-02-02 18:44:53.542356  
+date: 2023-02-04 18:27:51.662589  
 categories: player  
 ---
 # Thibault BERTHAUD
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 53.0
+## Current Percentile: 46.0
 
 # Elo History
 

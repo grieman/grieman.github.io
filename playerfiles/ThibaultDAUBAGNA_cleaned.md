@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibault DAUBAGNA  
-date: 2023-02-02 18:43:23.112510  
+date: 2023-02-04 18:27:46.143485  
 categories: player  
 ---
 # Thibault DAUBAGNA
 
 ## Positions: SH
 
-## Current elo: 140.0
+## Current elo: 146.0
 
 ## Current Percentile: 99.0
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |           221 |   0.463801 |
+| Pau    |           222 |   0.466216 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |        16 |   0.1875   |
 | Castres Olympique    |        16 |   0.3125   |
+| Racing 92            |        15 |   0.3      |
 | Toulon               |        14 |   0.178571 |
 | Montpellier Herault  |        14 |   0.428571 |
-| Racing 92            |        14 |   0.25     |
 | Stade Francais Paris |        13 |   0.384615 |
 | Bordeaux Begles      |        13 |   0.461538 |
 | Lyon                 |        12 |   0.375    |

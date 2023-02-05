@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BORDES  
-date: 2023-02-02 18:44:52.499377  
+date: 2023-02-04 18:26:40.045658  
 categories: player  
 ---
 # Thomas BORDES
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 85.0
 
-## Current Percentile: 32.0
+## Current Percentile: 24.0
 
 # Elo History
 

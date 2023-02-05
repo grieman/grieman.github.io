@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Quentin SAMARAN  
-date: 2023-02-02 18:42:15.554755  
+date: 2023-02-04 18:27:01.869953  
 categories: player  
 ---
 # Quentin SAMARAN
 
 ## Positions: P
 
-## Current elo: 81.0
+## Current elo: 74.0
 
 ## Current Percentile: 15.0
 
@@ -22,38 +22,39 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Beziers            |            54 |   0.518519 |
-| Biarritz Olympique |            23 |   0.369565 |
+| Biarritz Olympique |            26 |   0.442308 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         7 |   0.428571 |
+| Montauban                  |         5 |   0.8      |
 | Aurillac                   |         5 |   0.8      |
 | Grenoble                   |         5 |   0.5      |
-| Montauban                  |         5 |   0.8      |
 | Biarritz Olympique         |         4 |   0.5      |
-| Provence Rugby             |         4 |   0.5      |
 | Colomiers                  |         4 |   0.25     |
 | Oyonnax                    |         4 |   0.5      |
-| Mont-de-Marsan             |         3 |   0.333333 |
-| Brive                      |         3 |   0.666667 |
-| Nevers                     |         3 |   0.5      |
+| Vannes                     |         4 |   0.75     |
+| Provence Rugby             |         4 |   0.5      |
 | Massy                      |         3 |   1        |
+| Mont-de-Marsan             |         3 |   0.333333 |
+| Nevers                     |         3 |   0.5      |
+| Brive                      |         3 |   0.666667 |
 | Toulon                     |         2 |   0        |
-| Rouen                      |         2 |   0        |
-| Perpignan                  |         2 |   0        |
-| Vannes                     |         2 |   0.5      |
-| La Rochelle                |         2 |   0.5      |
 | Dax                        |         2 |   1        |
+| Rouen                      |         2 |   0        |
+| La Rochelle                |         2 |   0.5      |
 | Bordeaux Begles            |         2 |   0.5      |
 | Bayonne                    |         2 |   0.5      |
-| Lyon                       |         1 |   0        |
-| Montpellier Herault        |         1 |   0        |
-| Pau                        |         1 |   0        |
-| Clermont Auvergne          |         1 |   0        |
-| Carcassonne                |         1 |   1        |
-| Racing 92                  |         1 |   1        |
-| Beziers                    |         1 |   0        |
+| Perpignan                  |         2 |   0        |
+| Valence Romans Drome Rugby |         1 |   0.5      |
 | Stade Francais Paris       |         1 |   0        |
 | Stade Toulousain           |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0.5      |
 | Agen                       |         1 |   0        |
+| Racing 92                  |         1 |   1        |
+| Pau                        |         1 |   0        |
+| Montpellier Herault        |         1 |   0        |
+| Lyon                       |         1 |   0        |
+| Clermont Auvergne          |         1 |   0        |
+| Carcassonne                |         1 |   1        |
+| Beziers                    |         1 |   0        |
+| Zebre                      |         1 |   1        |

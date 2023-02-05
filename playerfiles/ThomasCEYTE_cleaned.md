@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas CEYTE  
-date: 2023-02-02 18:59:22.239460  
+date: 2023-02-04 18:27:40.843976  
 categories: player  
 ---
 # Thomas CEYTE
 
 ## Positions: L
 
-## Current elo: 142.0
+## Current elo: 139.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Nevers  |            87 |   0.54023  |
+| Nevers  |            90 |   0.533333 |
 | Dax     |            38 |   0.381579 |
-| Bayonne |            14 |   0.678571 |
+| Bayonne |            15 |   0.633333 |
 | Beziers |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Mont-de-Marsan             |        10 |   0.6      |
+| Mont-de-Marsan             |        11 |   0.545455 |
 | Montauban                  |        10 |   0.4      |
 | Biarritz Olympique         |         9 |   0.555556 |
-| Carcassonne                |         8 |   0.5      |
+| Carcassonne                |         9 |   0.555556 |
 | Vannes                     |         8 |   0.5      |
 | Beziers                    |         8 |   0.5625   |
 | Aurillac                   |         7 |   0.714286 |
@@ -39,8 +39,8 @@ categories: player
 | Oyonnax                    |         7 |   0.428571 |
 | Colomiers                  |         7 |   0.571429 |
 | Provence Rugby             |         6 |   0.5      |
+| Bayonne                    |         6 |   0.25     |
 | Perpignan                  |         6 |   0.666667 |
-| Bayonne                    |         5 |   0.3      |
 | Narbonne                   |         5 |   0.6      |
 | Agen                       |         4 |   0.25     |
 | Brive                      |         4 |   0.25     |
@@ -53,9 +53,9 @@ categories: player
 | US Bressane                |         2 |   1        |
 | Toulon                     |         2 |   0.5      |
 | Tarbes                     |         2 |   0        |
+| Stade Toulousain           |         2 |   0.5      |
 | Roval Drome XV             |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Stade Toulousain           |         1 |   1        |
 | La Rochelle                |         1 |   1        |
 | Racing 92                  |         1 |   1        |
 | Castres Olympique          |         1 |   0        |

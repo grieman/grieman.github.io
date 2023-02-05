@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-02-02 18:51:14.837815  
+date: 2023-02-04 18:32:37.467191  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 117.0
+## Current elo: 115.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -25,24 +25,24 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Saracens     |            40 |   0.7625   |
 | Bulls        |            37 |   0.459459 |
-| Blue Bulls   |            28 |   0.607143 |
+| Blue Bulls   |            32 |   0.59375  |
 | South Africa |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Western Province         |         6 |   0.333333 |
+| Western Province         |         7 |   0.285714 |
+| Natal Sharks             |         6 |   0.333333 |
 | Free State Cheetahs      |         5 |   0.8      |
 | Stormers                 |         5 |   0.4      |
 | Sharks                   |         5 |   0.8      |
 | Jaguares                 |         5 |   0.2      |
+| Golden Lions             |         5 |   0.6      |
 | Harlequins               |         4 |   1        |
 | London Irish             |         4 |   0.375    |
 | Lions                    |         4 |   0.5      |
 | Pumas                    |         4 |   0.75     |
 | Exeter Chiefs            |         4 |   0.75     |
-| Natal Sharks             |         4 |   0.25     |
 | Gloucester Rugby         |         4 |   0.5      |
-| Golden Lions             |         4 |   0.5      |
 | Griquas                  |         4 |   1        |
 | Northampton Saints       |         3 |   1        |
 | Highlanders              |         3 |   0.5      |

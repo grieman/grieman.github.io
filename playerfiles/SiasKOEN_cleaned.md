@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sias KOEN  
-date: 2023-02-02 18:54:42.006229  
+date: 2023-02-04 18:27:50.344946  
 categories: player  
 ---
 # Sias KOEN
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 54.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,40 +21,41 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |            54 |   0.444444 |
-| Griquas  |            27 |   0.37037  |
+| Beziers  |            55 |   0.454545 |
+| Griquas  |            29 |   0.37931  |
 | Cheetahs |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Golden Lions               |         5 |   0.2      |
+| Golden Lions               |         6 |   0.166667 |
 | Blue Bulls                 |         5 |   0.2      |
 | Provence Rugby             |         5 |   0.4      |
 | Nevers                     |         5 |   0.2      |
 | Natal Sharks               |         5 |   0.2      |
 | Aurillac                   |         5 |   0.4      |
 | Western Province           |         4 |   0.5      |
+| Grenoble                   |         4 |   0.5      |
 | Pumas                      |         4 |   0.5      |
 | Carcassonne                |         4 |   0.25     |
 | Mont-de-Marsan             |         4 |   0.25     |
-| Grenoble                   |         4 |   0.5      |
+| Soyaux-Angouleme           |         3 |   0.333333 |
 | Rouen                      |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.166667 |
 | Agen                       |         3 |   1        |
 | Colomiers                  |         3 |   0.666667 |
-| Free State Cheetahs        |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
 | Montauban                  |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.75     |
 | Perpignan                  |         2 |   0.5      |
-| Soyaux-Angouleme           |         2 |   0        |
+| Free State Cheetahs        |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   1        |
+| Griffons                   |         1 |   1        |
 | Scarlets                   |         1 |   0        |
 | US Bressane                |         1 |   0        |
-| Boland Cavaliers           |         1 |   1        |
 | Bayonne                    |         1 |   1        |
-| Eastern Province Kings     |         1 |   1        |
 | Cardiff Blues              |         1 |   0        |
+| Boland Cavaliers           |         1 |   1        |
 | Connacht                   |         1 |   0        |
 | Dragons                    |         1 |   0        |
+| Eastern Province Kings     |         1 |   1        |
 | Massy                      |         1 |   1        |

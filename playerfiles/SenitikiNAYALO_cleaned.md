@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Senitiki NAYALO  
-date: 2023-02-02 18:54:12.335018  
+date: 2023-02-04 18:27:30.008904  
 categories: player  
 ---
 # Senitiki NAYALO
 
 ## Positions: N8, FL
 
-## Current elo: 116.0
+## Current elo: 118.0
 
-## Current Percentile: 79.0
+## Current Percentile: 76.0
 
 # Elo History
 

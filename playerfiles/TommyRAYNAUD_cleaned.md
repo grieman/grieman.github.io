@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tommy RAYNAUD  
-date: 2023-02-02 19:11:46.802787  
+date: 2023-02-04 18:29:02.860364  
 categories: player  
 ---
 # Tommy RAYNAUD
 
 ## Positions: P
 
-## Current elo: 71.0
+## Current elo: 68.0
 
-## Current Percentile: 11.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |           150 |   0.593333 |
+| Oyonnax  |           156 |   0.583333 |
 | Narbonne |            27 |   0.37037  |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Colomiers                  |        15 |   0.5      |
 | Beziers                    |        13 |   0.692308 |
-| Colomiers                  |        13 |   0.423077 |
 | Mont-de-Marsan             |        11 |   0.318182 |
 | Carcassonne                |        10 |   0.7      |
 | Aurillac                   |        10 |   0.5      |
@@ -36,13 +36,13 @@ categories: player
 | Vannes                     |         8 |   0.625    |
 | Biarritz Olympique         |         8 |   0.25     |
 | Nevers                     |         7 |   0.714286 |
-| Grenoble                   |         6 |   0.5      |
+| Grenoble                   |         7 |   0.428571 |
 | Soyaux-Angouleme           |         6 |   1        |
 | Agen                       |         6 |   0.666667 |
-| Perpignan                  |         4 |   0.25     |
+| Perpignan                  |         5 |   0.2      |
+| Rouen                      |         5 |   0.6      |
+| Bayonne                    |         5 |   0.4      |
 | Bourgoin-Jallieu           |         4 |   0.5      |
-| Rouen                      |         4 |   0.75     |
-| Bayonne                    |         4 |   0.5      |
 | Pau                        |         4 |   0        |
 | Brive                      |         4 |   0.25     |
 | Massy                      |         4 |   0.75     |

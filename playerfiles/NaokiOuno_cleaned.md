@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Naoki Ouno  
-date: 2023-02-02 18:47:59.048743  
+date: 2023-02-04 18:32:02.943193  
 categories: player  
 ---
 # Naoki Ouno
 
 ## Positions: FL
 
-## Current elo: 102.0
+## Current elo: 100.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 

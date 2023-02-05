@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Raphaël ROBIC  
-date: 2023-02-02 18:47:57.579152  
+date: 2023-02-04 18:29:59.564120  
 categories: player  
 ---
 # Raphaël ROBIC
 
 ## Positions: N8
 
-## Current elo: 104.0
+## Current elo: 103.0
 
 ## Current Percentile: 61.0
 

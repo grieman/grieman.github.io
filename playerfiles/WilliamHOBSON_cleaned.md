@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: William HOBSON  
-date: 2023-02-02 19:03:27.637231  
+date: 2023-02-04 18:30:04.903162  
 categories: player  
 ---
 # William HOBSON
 
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: 76.0
+## Current Percentile: 75.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2023-02-02 18:59:24.238416  
+date: 2023-02-04 18:26:22.281073  
 categories: player  
 ---
 # D'arcy Rae
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 66.0
+## Current elo: 56.0
 
-## Current Percentile: 92.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            85 |   0.552941 |
-| Bath Rugby       |            34 |   0.264706 |
+| Glasgow Warriors |            87 |   0.54023  |
+| Bath Rugby       |            35 |   0.257143 |
 | Benetton Treviso |             4 |   0.5      |
 | Scotland         |             1 |   0        |
 
@@ -41,14 +41,14 @@ categories: player
 | Exeter Chiefs      |         6 |   0.166667 |
 | Edinburgh          |         6 |   0.166667 |
 | Saracens           |         5 |   0        |
-| Scarlets           |         4 |   0.5      |
+| Scarlets           |         5 |   0.4      |
+| Cheetahs           |         4 |   0.75     |
 | Leicester Tigers   |         4 |   0.5      |
 | Newcastle Falcons  |         4 |   0.75     |
 | Connacht           |         4 |   0.5      |
 | Sale Sharks        |         4 |   0.375    |
 | Northampton Saints |         3 |   0.333333 |
 | Harlequins         |         3 |   0.333333 |
-| Cheetahs           |         3 |   1        |
 | Wasps              |         2 |   0        |
 | Toulon             |         2 |   0        |
 | Southern Kings     |         2 |   0.5      |
@@ -56,6 +56,7 @@ categories: player
 | Gloucester Rugby   |         2 |   0        |
 | Bristol Rugby      |         2 |   0.5      |
 | Lyon               |         1 |   1        |
+| La Rochelle        |         1 |   0        |
 | Ireland            |         1 |   0        |
 | Worcester Warriors |         1 |   1        |
 | London Irish       |         1 |   0        |

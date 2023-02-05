@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vakhtangi AKHOBADZE  
-date: 2023-02-02 18:57:27.746022  
+date: 2023-02-04 18:28:49.033095  
 categories: player  
 ---
 # Vakhtangi AKHOBADZE
 
 ## Positions: P
 
-## Current elo: 55.0
+## Current elo: 62.0
 
 ## Current Percentile: 0.0
 
@@ -21,18 +21,19 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            47 |   0.414894 |
+| Biarritz Olympique |            48 |   0.40625  |
 | Agen               |            23 |   0.413043 |
-| Carcassonne        |            15 |   0.3      |
+| Carcassonne        |            17 |   0.264706 |
 | Massy              |            11 |   0.181818 |
 | Albi               |             4 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |         8 |   0.1875   |
-| Perpignan                  |         6 |   0.166667 |
+| Perpignan                  |         7 |   0.142857 |
 | Mont-de-Marsan             |         5 |   0.3      |
 | Carcassonne                |         5 |   0.6      |
+| Massy                      |         5 |   0.2      |
 | Oyonnax                    |         5 |   0        |
 | Grenoble                   |         4 |   0.5      |
 | Pau                        |         4 |   0        |
@@ -41,9 +42,8 @@ categories: player
 | Montauban                  |         4 |   0.5      |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0        |
-| Vannes                     |         3 |   0        |
 | Nevers                     |         3 |   1        |
-| Massy                      |         3 |   0.333333 |
+| Vannes                     |         3 |   0        |
 | Narbonne                   |         3 |   0.666667 |
 | Racing 92                  |         2 |   0        |
 | Montpellier Herault        |         2 |   0        |

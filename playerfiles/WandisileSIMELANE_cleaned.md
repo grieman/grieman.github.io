@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wandisile SIMELANE  
-date: 2023-02-02 18:55:03.298975  
+date: 2023-02-04 18:32:21.710950  
 categories: player  
 ---
 # Wandisile SIMELANE
 
 ## Positions: C, FB
 
-## Current elo: 98.0
+## Current elo: 106.0
 
-## Current Percentile: 55.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,18 +21,19 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Golden Lions |            26 |   0.596154 |
-| Lions        |            24 |   0.458333 |
+| Golden Lions |            29 |   0.568966 |
+| Lions        |            25 |   0.44     |
 | Bulls        |            11 |   0.636364 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blue Bulls               |         6 |   0.166667 |
+| Blue Bulls               |         7 |   0.142857 |
+| Free State Cheetahs      |         5 |   0.7      |
+| Griquas                  |         5 |   1        |
 | Western Province         |         4 |   0.5      |
 | Pumas                    |         4 |   0.75     |
-| Free State Cheetahs      |         4 |   0.875    |
 | Natal Sharks             |         4 |   0.5      |
-| Griquas                  |         4 |   1        |
+| Bulls                    |         3 |   0        |
 | Stormers                 |         3 |   0.333333 |
 | Sharks                   |         3 |   0.333333 |
 | Benetton Treviso         |         2 |   1        |
@@ -43,15 +44,14 @@ categories: player
 | Lyon                     |         2 |   0.5      |
 | Jaguares                 |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.5      |
-| Bulls                    |         2 |   0        |
 | Lions                    |         1 |   1        |
 | Leinster                 |         1 |   0        |
-| Glasgow Warriors         |         1 |   0        |
 | New South Wales Waratahs |         1 |   0        |
+| Glasgow Warriors         |         1 |   0        |
 | Edinburgh                |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | Connacht                 |         1 |   0        |
-| Cardiff Blues            |         1 |   1        |
 | Sunwolves                |         1 |   1        |
 | Ulster                   |         1 |   0        |
+| Cardiff Blues            |         1 |   1        |
 | Zebre                    |         1 |   1        |

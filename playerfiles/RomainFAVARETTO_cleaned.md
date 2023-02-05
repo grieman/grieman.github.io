@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain FAVARETTO  
-date: 2023-02-02 18:54:23.343170  
+date: 2023-02-04 18:28:20.588071  
 categories: player  
 ---
 # Romain FAVARETTO
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 87.0
 
-## Current Percentile: 20.0
+## Current Percentile: 19.0
 
 # Elo History
 

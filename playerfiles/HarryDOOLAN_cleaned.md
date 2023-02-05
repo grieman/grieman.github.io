@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry DOOLAN  
-date: 2023-02-02 19:02:36.941702  
+date: 2023-02-04 18:28:13.480831  
 categories: player  
 ---
 # Harry DOOLAN
 
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 51.0
+## Current Percentile: 49.0
 
 # Elo History
 
