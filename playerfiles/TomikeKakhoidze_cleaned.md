@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomike Kakhoidze  
-date: 2023-02-05 17:57:30.955840  
+date: 2023-02-06 11:17:24.653221  
 categories: player  
 ---
 # Tomike Kakhoidze
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 100.0
+## Current elo: 101.0
 
 ## Current Percentile: 49.0
 

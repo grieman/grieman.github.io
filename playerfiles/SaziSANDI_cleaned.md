@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sazi SANDI  
-date: 2023-02-05 17:58:14.799465  
+date: 2023-02-06 11:16:07.804596  
 categories: player  
 ---
 # Sazi SANDI
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 47.0
+## Current Percentile: 46.0
 
 # Elo History
 

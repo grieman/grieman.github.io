@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Harry GRAHAM  
-date: 2023-02-05 17:57:10.434340  
+date: 2023-02-06 11:17:34.454886  
 categories: player  
 ---
 # Harry GRAHAM
 
 ## Positions: W
 
-## Current elo: 91.0
+## Current elo: 90.0
 
 ## Current Percentile: 38.0
 

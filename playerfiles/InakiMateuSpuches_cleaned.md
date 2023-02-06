@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Mateu Spuches  
-date: 2023-02-05 17:59:26.975078  
+date: 2023-02-06 11:17:32.857933  
 categories: player  
 ---
 # Inaki Mateu Spuches
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 83.0
+## Current elo: 81.0
 
 ## Current Percentile: 33.0
 

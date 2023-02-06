@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin WITT  
-date: 2023-02-05 17:59:43.761011  
+date: 2023-02-06 11:16:05.232821  
 categories: player  
 ---
 # Quentin WITT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 

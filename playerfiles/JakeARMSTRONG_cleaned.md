@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake ARMSTRONG  
-date: 2023-02-05 17:58:12.141655  
+date: 2023-02-06 11:15:04.944070  
 categories: player  
 ---
 # Jake ARMSTRONG
 
 ## Positions: P
 
-## Current elo: 114.0
+## Current elo: 111.0
 
-## Current Percentile: 84.0
+## Current Percentile: 79.0
 
 # Elo History
 

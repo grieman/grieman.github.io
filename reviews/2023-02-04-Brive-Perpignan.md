@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Brive by 8.5
+## Prediction with Player Minutes: Brive by 8.4
 
 
-Brive by 4.5 on a neutral field
+Brive by 4.4 on a neutral field
 ## Scores over Time
 
 
@@ -40,10 +40,10 @@ Brive by 4.5 on a neutral field
 
 
 ![In Match Predictions](plots/recap_prob_2023-02-04-Brive-Perpignan.png)
-## Prediction without Player Minutes: Brive by 7.3
+## Prediction without Player Minutes: Brive by 7.2
 
 
-Brive by 3.3 on a neutral pitch
+Brive by 3.2 on a neutral pitch
 
 
 
@@ -59,10 +59,10 @@ Brive by 3.3 on a neutral pitch
 |             55 | [Genesis Mamea Lemalu](..//playerfiles//GenesisMameaLemalu_cleaned.md) |      94.34 |                42 |        8 |                91 |     120.45 | [Esteban Abadie](..//playerfiles//EstebanAbadie_cleaned.md)                      |             80 |
 |             58 | [Sadek Deghmache](..//playerfiles//SadekDeghmache_cleaned.md)          |     108.65 |                79 |        9 |                53 |      97.44 | [Paul Abadie](..//playerfiles//PaulAbadie_cleaned.md)                            |             55 |
 |             80 | [Jake McIntyre](..//playerfiles//JakeMcIntyre_cleaned.md)              |     107.63 |                75 |       10 |                95 |     129.83 | [Nicolas Sanchez](..//playerfiles//NicolasSanchez_cleaned.md)                    |             72 |
-|             80 | [Ali Crossdale](..//playerfiles//AliCrossdale_cleaned.md)              |     120.37 |                90 |       11 |                59 |      98.85 | [Axel Muller](..//playerfiles//AxelMuller_cleaned.md)                            |             80 |
-|             80 | [Edward Sawailau](..//playerfiles//EdwardSawailau_cleaned.md)          |      80.64 |                14 |       12 |                91 |     121.3  | [Nico Lee](..//playerfiles//NicoLee_cleaned.md)                                  |             80 |
-|             80 | [Afusipa Taumoepeau](..//playerfiles//AfusipaTaumoepeau_cleaned.md)    |     106.56 |                73 |       13 |                40 |      92.72 | [Seta Tuicuvu](..//playerfiles//SetaTuicuvu_cleaned.md)                          |             27 |
-|             72 | [Lucas Dubois](..//playerfiles//LucasDubois_cleaned.md)                |     105.96 |                74 |       14 |                87 |     116.77 | [Setareki Bituniyata](..//playerfiles//SetarekiBituniyata_cleaned.md)            |             80 |
+|             80 | [Ali Crossdale](..//playerfiles//AliCrossdale_cleaned.md)              |     120.4  |                90 |       11 |                59 |      98.85 | [Axel Muller](..//playerfiles//AxelMuller_cleaned.md)                            |             80 |
+|             80 | [Edward Sawailau](..//playerfiles//EdwardSawailau_cleaned.md)          |      80.69 |                15 |       12 |                91 |     121.3  | [Nico Lee](..//playerfiles//NicoLee_cleaned.md)                                  |             80 |
+|             80 | [Afusipa Taumoepeau](..//playerfiles//AfusipaTaumoepeau_cleaned.md)    |     106.56 |                73 |       13 |                41 |      92.72 | [Seta Tuicuvu](..//playerfiles//SetaTuicuvu_cleaned.md)                          |             27 |
+|             72 | [Lucas Dubois](..//playerfiles//LucasDubois_cleaned.md)                |     106.01 |                74 |       14 |                87 |     116.77 | [Setareki Bituniyata](..//playerfiles//SetarekiBituniyata_cleaned.md)            |             80 |
 |             80 | [Tristan Tedder](..//playerfiles//TristanTedder_cleaned.md)            |      86.06 |                25 |       15 |                29 |      88.24 | [Mathis Ferté](..//playerfiles//MathisFerté_cleaned.md)                          |             80 |
 |             30 | [Victor Moreaux](..//playerfiles//VictorMoreaux_cleaned.md)            |      82.49 |                17 |       16 |                50 |      96.01 | [Sammy Arnold](..//playerfiles//SammyArnold_cleaned.md)                          |             53 |
 |             30 | [Joaquin Oviedo](..//playerfiles//JoaquinOviedo_cleaned.md)            |     103.15 |                69 |       17 |                45 |      94.5  | [Tietie Tuimauga](..//playerfiles//TietieTuimauga_cleaned.md)                    |             28 |
@@ -70,6 +70,6 @@ Brive by 3.3 on a neutral pitch
 |             25 | [Mike Tadjer Barbosa](..//playerfiles//MikeTadjerBarbosa_cleaned.md)   |      89.47 |                30 |       19 |                28 |      85.58 | [Leo Carbonneau](..//playerfiles//LeoCarbonneau_cleaned.md)                      |             25 |
 |             25 | [Ma'afu Fia](..//playerfiles//Ma'afuFia_cleaned.md)                    |     105.65 |                78 |       20 |                 9 |      75.71 | [Andres Zafra Tarazona](..//playerfiles//AndresZafraTarazona_cleaned.md)         |              8 |
 |             25 | [Kelian Galletier](..//playerfiles//KelianGalletier_cleaned.md)        |     100.26 |                62 |       21 |                98 |     135.19 | [Enzo Herve](..//playerfiles//EnzoHerve_cleaned.md)                              |              8 |
-|             22 | [Matteo Rodor](..//playerfiles//MatteoRodor_cleaned.md)                |      97.05 |                47 |       22 |                58 |     102.92 | [Nathan Fraissenon](..//playerfiles//NathanFraissenon_cleaned.md)                |              8 |
+|             22 | [Matteo Rodor](..//playerfiles//MatteoRodor_cleaned.md)                |      97.1  |                47 |       22 |                58 |     102.92 | [Nathan Fraissenon](..//playerfiles//NathanFraissenon_cleaned.md)                |              8 |
 |              8 | [Boris Goutard](..//playerfiles//BorisGoutard_cleaned.md)              |      58.07 |                 2 |       23 |                17 |      85.05 | [Sasha Gue](..//playerfiles//SashaGue_cleaned.md)                                |             14 |
 

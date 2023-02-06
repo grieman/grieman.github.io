@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Naoaki Horibe  
-date: 2023-02-05 17:59:23.071600  
+date: 2023-02-06 11:16:41.617680  
 categories: player  
 ---
 # Naoaki Horibe

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jordan HOLGATE  
-date: 2023-02-05 17:57:48.937961  
+date: 2023-02-06 11:14:42.040878  
 categories: player  
 ---
 # Jordan HOLGATE
 
 ## Positions: C
 
-## Current elo: 82.0
+## Current elo: 83.0
 
 ## Current Percentile: 18.0
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain BRIATTE  
-date: 2023-02-05 17:55:12.748802  
+date: 2023-02-06 11:15:19.958107  
 categories: player  
 ---
 # Romain BRIATTE
 
 ## Positions: FL
 
-## Current elo: 108.0
+## Current elo: 112.0
 
-## Current Percentile: 87.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,16 +23,16 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Aurillac             |            68 |   0.463235 |
 | Agen                 |            52 |   0.182692 |
-| Stade Francais Paris |            34 |   0.455882 |
+| Stade Francais Paris |            35 |   0.471429 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Perpignan            |        11 |   0.681818 |
 | Racing 92            |         9 |   0.166667 |
+| Bordeaux Begles      |         8 |   0.125    |
 | Castres Olympique    |         8 |   0.25     |
 | Bayonne              |         7 |   0.285714 |
 | Montauban            |         7 |   0.5      |
-| Bordeaux Begles      |         7 |   0        |
 | Pau                  |         7 |   0.428571 |
 | Colomiers            |         7 |   0.285714 |
 | Dax                  |         6 |   0.5      |

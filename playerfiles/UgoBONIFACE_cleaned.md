@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ugo BONIFACE  
-date: 2023-01-31 16:07:42.028123  
+date: 2023-02-06 11:16:43.378299  
 categories: player  
 ---
 # Ugo BONIFACE
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 102.0
 
-## Current Percentile: 65.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,24 +21,24 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bayonne         |            76 |   0.546053 |
-| Bordeaux Begles |             6 |   0.333333 |
+| Bayonne         |            78 |   0.551282 |
+| Bordeaux Begles |             7 |   0.285714 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montpellier Herault  |         5 |   0.4      |
-| Montauban            |         4 |   1        |
+| Brive                |         5 |   0.5      |
+| Colomiers            |         4 |   0.75     |
 | Narbonne             |         4 |   0.75     |
 | Stade Toulousain     |         4 |   0.5      |
-| Brive                |         4 |   0.375    |
-| Colomiers            |         4 |   0.75     |
+| Stade Francais Paris |         4 |   0.5      |
+| Montauban            |         4 |   1        |
 | Oyonnax              |         3 |   0.666667 |
 | La Rochelle          |         3 |   0.333333 |
 | Provence Rugby       |         3 |   0.333333 |
 | Agen                 |         3 |   0.666667 |
 | Castres Olympique    |         3 |   0.666667 |
 | Carcassonne          |         3 |   0.333333 |
-| Stade Francais Paris |         3 |   0.666667 |
 | Beziers              |         3 |   0.666667 |
 | Toulon               |         3 |   0.333333 |
 | Soyaux-Angouleme     |         3 |   0.666667 |
@@ -49,6 +49,7 @@ categories: player
 | Grenoble             |         2 |   0.5      |
 | Clermont Auvergne    |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0        |
+| Biarritz Olympique   |         2 |   0.25     |
 | Bayonne              |         2 |   0.5      |
 | Vannes               |         2 |   0.5      |
 | Massy                |         1 |   1        |
@@ -58,5 +59,4 @@ categories: player
 | Racing 92            |         1 |   1        |
 | Gloucester Rugby     |         1 |   0        |
 | Sharks               |         1 |   0        |
-| Biarritz Olympique   |         1 |   0        |
 | US Bressane          |         1 |   1        |

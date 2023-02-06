@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jimmy LITCHFIELD  
-date: 2023-02-05 17:59:38.406215  
+date: 2023-02-06 11:14:39.637095  
 categories: player  
 ---
 # Jimmy LITCHFIELD
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 58.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 

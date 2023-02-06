@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault DUFAU  
-date: 2023-02-05 17:57:56.404824  
+date: 2023-02-06 11:14:51.997127  
 categories: player  
 ---
 # Thibault DUFAU

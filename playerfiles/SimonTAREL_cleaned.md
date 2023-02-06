@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon TAREL  
-date: 2023-02-05 17:56:08.612616  
+date: 2023-02-06 11:16:30.871967  
 categories: player  
 ---
 # Simon TAREL

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh POULLET  
-date: 2023-02-05 17:59:41.109144  
+date: 2023-02-06 11:14:24.483703  
 categories: player  
 ---
 # Josh POULLET
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 39.0
+## Current Percentile: 41.0
 
 # Elo History
 

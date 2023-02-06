@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tobias SAYSELL  
-date: 2023-02-05 17:55:50.949548  
+date: 2023-02-06 11:15:55.714824  
 categories: player  
 ---
 # Tobias SAYSELL
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 63.0
+## Current Percentile: 60.0
 
 # Elo History
 

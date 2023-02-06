@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jose Maria Andrade  
-date: 2023-02-05 18:00:07.857691  
+date: 2023-02-06 11:16:16.318546  
 categories: player  
 ---
 # Jose Maria Andrade
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 52.0
+## Current Percentile: 51.0
 
 # Elo History
 

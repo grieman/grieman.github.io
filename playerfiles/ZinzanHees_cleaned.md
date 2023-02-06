@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zinzan Hees  
-date: 2023-02-05 17:57:25.676148  
+date: 2023-02-06 11:15:13.750753  
 categories: player  
 ---
 # Zinzan Hees
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 90.0
+## Current elo: 89.0
 
 ## Current Percentile: None
 

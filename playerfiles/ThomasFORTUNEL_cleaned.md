@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas FORTUNEL  
-date: 2023-02-05 17:59:37.063062  
+date: 2023-02-06 11:14:46.576600  
 categories: player  
 ---
 # Thomas FORTUNEL

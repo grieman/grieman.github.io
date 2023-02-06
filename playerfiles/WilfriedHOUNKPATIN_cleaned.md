@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfried HOUNKPATIN  
-date: 2023-02-05 17:59:03.408923  
+date: 2023-02-06 11:15:56.537539  
 categories: player  
 ---
 # Wilfried HOUNKPATIN

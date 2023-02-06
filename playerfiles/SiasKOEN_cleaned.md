@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sias KOEN  
-date: 2023-02-05 17:55:19.338448  
+date: 2023-02-06 11:15:31.998168  
 categories: player  
 ---
 # Sias KOEN
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 58.0
+## Current Percentile: 59.0
 
 # Elo History
 

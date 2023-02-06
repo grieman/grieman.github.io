@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam COLLINGRIDGE  
-date: 2023-02-05 17:57:53.911451  
+date: 2023-02-06 11:16:46.636021  
 categories: player  
 ---
 # Sam COLLINGRIDGE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 19.0
+## Current Percentile: 18.0
 
 # Elo History
 

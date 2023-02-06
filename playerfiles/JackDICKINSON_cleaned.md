@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack DICKINSON  
-date: 2023-02-05 17:55:15.284534  
+date: 2023-02-06 11:17:50.553105  
 categories: player  
 ---
 # Jack DICKINSON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 73.0
 
 # Elo History
 

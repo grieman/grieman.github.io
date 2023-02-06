@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Wandisile SIMELANE  
-date: 2023-02-05 17:57:17.839099  
+date: 2023-02-06 11:14:27.705242  
 categories: player  
 ---
 # Wandisile SIMELANE
 
 ## Positions: C, FB
 
-## Current elo: 106.0
+## Current elo: 107.0
 
 ## Current Percentile: 75.0
 

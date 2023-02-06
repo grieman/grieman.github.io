@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oli ROBINSON  
-date: 2023-02-05 17:56:20.263786  
+date: 2023-02-06 11:16:12.875283  
 categories: player  
 ---
 # Oli ROBINSON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 84.0
 
-## Current Percentile: 30.0
+## Current Percentile: 32.0
 
 # Elo History
 
