@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas ACQUIER  
-date: 2023-02-05 15:12:35.534895  
+date: 2023-02-05 17:56:49.734341  
 categories: player  
 ---
 # Thomas ACQUIER

@@ -10,11 +10,11 @@ key: page-recents
 
 Competition Accuracy: 3 of 4 (75.0%)
 
-Competition Error: 31.54 points per match
+Competition Error: 32.55 points per match
 
 Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 31.54 points per match
+Last Round Error: 32.55 points per match
 
 [2023-02-04 Poland at Romania; 27-67](reviews//2023-02-04-Romania-Poland)
 
@@ -28,11 +28,11 @@ Last Round Error: 31.54 points per match
 
 Competition Accuracy: 2 of 3 (66.67%)
 
-Competition Error: 14.44 points per match
+Competition Error: 12.31 points per match
 
 Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 14.44 points per match
+Last Round Error: 12.31 points per match
 
 [2023-02-04 Ireland at Wales; 34.0-10.0](reviews//2023-02-04-Wales-Ireland)
 
@@ -44,13 +44,13 @@ Last Round Error: 14.44 points per match
 ## Gallagher Premiership
 
 
-Competition Accuracy: 51 of 80 (63.75%)
+Competition Accuracy: 57 of 80 (71.25%)
 
-Competition Error: 11.37 points per match
+Competition Error: 10.72 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 6.08 points per match
+Last Round Error: 4.64 points per match
 
 [2023-01-27 Bath Rugby at Sale Sharks; 27-30](reviews//2023-01-27-SaleSharks-BathRugby)
 
@@ -64,13 +64,13 @@ Last Round Error: 6.08 points per match
 ## Japan Rugby League One
 
 
-Competition Accuracy: 27 of 38 (71.05%)
+Competition Accuracy: 28 of 38 (73.68%)
 
-Competition Error: 15.1 points per match
+Competition Error: 13.46 points per match
 
 Last Round Accuracy: 2 of 6 (33.33%)
 
-Last Round Error: 5.27 points per match
+Last Round Error: 3.9 points per match
 
 [2023-01-28 Hanazono Kintetsu Liners at Toshiba Brave Lupus Tokyo; 14-60](reviews//2023-01-28-ToshibaBraveLupusTokyo-HanazonoKintetsuLiners)
 
@@ -92,23 +92,23 @@ Last Round Error: 5.27 points per match
 
 Competition Accuracy: 11 of 12 (91.67%)
 
-Competition Error: 15.75 points per match
+Competition Error: 17.04 points per match
 
 Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 25.3 points per match
+Last Round Error: 31.33 points per match
 
 [2023-01-28 Kamaishi Seawaves at Toyota Industries Shuttles Aichi; 14-64](reviews//2023-01-28-ToyotaIndustriesShuttlesAichi-KamaishiSeawaves)
 ## Pro D2
 
 
-Competition Accuracy: 101 of 151 (66.89%)
+Competition Accuracy: 97 of 151 (64.24%)
 
-Competition Error: 9.23 points per match
+Competition Error: 9.08 points per match
 
 Last Round Accuracy: 2 of 8 (25.0%)
 
-Last Round Error: 12.35 points per match
+Last Round Error: 11.86 points per match
 
 [2023-01-26 Mont-de-Marsan at Oyonnax; 26-25](reviews//2023-01-26-Oyonnax-Mont-de-Marsan)
 
@@ -142,13 +142,13 @@ Last Round Error: 12.35 points per match
 ## RFU Championship
 
 
-Competition Accuracy: 61 of 82 (74.39%)
+Competition Accuracy: 63 of 82 (76.83%)
 
-Competition Error: 13.38 points per match
+Competition Error: 13.33 points per match
 
 Last Round Accuracy: 2 of 6 (33.33%)
 
-Last Round Error: 21.58 points per match
+Last Round Error: 17.96 points per match
 
 [2023-01-28 Bedford at Caldy; 28-36](reviews//2023-01-28-Caldy-Bedford)
 
@@ -164,13 +164,13 @@ Last Round Error: 21.58 points per match
 ## Top 14 Orange
 
 
-Competition Accuracy: 79 of 118 (66.95%)
+Competition Accuracy: 78 of 118 (66.1%)
 
-Competition Error: 10.81 points per match
+Competition Error: 10.83 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 13.73 points per match
+Last Round Error: 14.87 points per match
 
 [2023-01-28 Clermont Auvergne at Lyon; 14-34](reviews//2023-01-28-Lyon-ClermontAuvergne)
 
@@ -202,11 +202,11 @@ Last Round Error: 13.73 points per match
 
 Competition Accuracy: 76 of 102 (74.51%)
 
-Competition Error: 11.73 points per match
+Competition Error: 11.95 points per match
 
 Last Round Accuracy: 7 of 8 (87.5%)
 
-Last Round Error: 10.42 points per match
+Last Round Error: 10.95 points per match
 
 [2023-01-27 Bulls at Scarlets; 28-37](reviews//2023-01-27-Scarlets-Bulls)
 
@@ -230,13 +230,13 @@ Last Round Error: 10.42 points per match
 ## Japan Rugby League One Division 3
 
 
-Competition Accuracy: 8 of 11 (72.73%)
+Competition Accuracy: 9 of 11 (81.82%)
 
-Competition Error: 13.95 points per match
+Competition Error: 13.32 points per match
 
 Last Round Accuracy: 1 of 3 (33.33%)
 
-Last Round Error: 21.29 points per match
+Last Round Error: 19.9 points per match
 
 [2023-01-28 NTT Docomo Red Hurricanes Osaka at Kurita Water Gush; 32-37](reviews//2023-01-28-KuritaWaterGush-NTTDocomoRedHurricanesOsaka)
 
@@ -246,11 +246,11 @@ Last Round Error: 21.29 points per match
 
 Competition Accuracy: 78 of 118 (66.1%)
 
-Competition Error: 10.36 points per match
+Competition Error: 11.0 points per match
 
 Last Round Accuracy: 3 of 7 (42.86%)
 
-Last Round Error: 9.26 points per match
+Last Round Error: 12.13 points per match
 
 [2023-01-28 US Bressane at Blagnac; 15-31](reviews//2023-01-28-Blagnac-USBressane)
 

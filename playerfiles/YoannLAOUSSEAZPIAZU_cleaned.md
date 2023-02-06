@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoann LAOUSSE AZPIAZU  
-date: 2023-02-05 15:12:44.833384  
+date: 2023-02-05 17:57:02.595456  
 categories: player  
 ---
 # Yoann LAOUSSE AZPIAZU

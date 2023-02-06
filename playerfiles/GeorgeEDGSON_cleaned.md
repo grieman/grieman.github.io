@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George EDGSON  
-date: 2023-02-05 15:10:57.938946  
+date: 2023-02-05 17:59:28.379713  
 categories: player  
 ---
 # George EDGSON

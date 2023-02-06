@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sven BERNAT GIRLANDO  
-date: 2023-02-05 15:13:23.749500  
+date: 2023-02-05 17:59:11.406410  
 categories: player  
 ---
 # Sven BERNAT GIRLANDO

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ugo SEGUELA  
-date: 2023-02-05 15:14:03.465240  
+date: 2023-02-05 17:59:06.136207  
 categories: player  
 ---
 # Ugo SEGUELA

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain FAVARETTO  
-date: 2023-02-05 15:11:49.985766  
+date: 2023-02-05 17:57:43.998858  
 categories: player  
 ---
 # Romain FAVARETTO

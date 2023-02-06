@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas BAQUER  
-date: 2023-02-05 15:08:38.246969  
+date: 2023-02-05 17:58:02.982691  
 categories: player  
 ---
 # Nicolas BAQUER

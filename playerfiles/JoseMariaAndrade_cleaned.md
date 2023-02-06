@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jose Maria Andrade  
-date: 2023-02-05 15:11:37.480352  
+date: 2023-02-05 18:00:07.857691  
 categories: player  
 ---
 # Jose Maria Andrade
