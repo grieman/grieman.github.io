@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.55, which translates to predicting Stade Francais Paris to win by 1.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.619, which translates to predicting Stade Francais Paris to win by 4.3.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -40,6 +40,8 @@ Bordeaux Begles by 1.8 on a neutral field
 
 
 ![In Match Predictions](plots/recap_prob_2023-02-05-StadeFrancaisParis-BordeauxBegles.png)
+
+There were 5 large changes in win probability in this match
 ## Prediction without Player Minutes: Bordeaux Begles by 2.5
 
 

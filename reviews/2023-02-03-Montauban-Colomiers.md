@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.522, which translates to predicting Montauban to win by 0.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.555, which translates to predicting Montauban to win by 1.9.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -40,6 +40,8 @@ Colomiers by 52.7 on a neutral field
 
 
 ![In Match Predictions](plots/recap_prob_2023-02-03-Montauban-Colomiers.png)
+
+There were 9 large changes in win probability in this match
 ## Prediction without Player Minutes: Colomiers by 51.4
 
 

@@ -164,7 +164,8 @@ def make_matchpage(
     categories_list = ["review", "projection", "imputed"],
     player_table = None,
     score_path = None,
-    prob_path = None
+    prob_path = None,
+    num_shifts = None
     ):
 
     md_file = MdUtils(file_name=f'temp//{file_name}')
@@ -214,6 +215,9 @@ def make_matchpage(
     if prob_path:
         md_file.new_header(level = 2, title = 'Win Probability over Time')
         md_file.new_paragraph(f'![In Match Predictions]({prob_path})')
+    
+    if num_shifts:
+        md_file.new_paragraph(f"There were {int(num_shifts)} large changes in win probability in this match")
 
     if lineup_pred_text:
         if ("imputed" not in categories_list):
@@ -377,9 +381,11 @@ for recent_game in recent_games:
         ## Win probability plots
         prob_path = None
         score_path = None
+        num_shifts = None
         if isinstance(recent_game['commentary_df'], np.ndarray):
             try:
                 match_events = real_time_preds.real_time_df(recent_game)
+                num_shifts = sum(abs(match_events.prediction.diff()) > 0.025)
                 prob_path = prob_plot(match_events, file_name, home_color1, away_color1, home_color2, away_color2)
                 plt.close()
                 score_path = score_plot(match_events, file_name, recent_game, home_color1, away_color1, home_color2, away_color2)
@@ -405,7 +411,8 @@ for recent_game in recent_games:
             categories_list = ["review"],
             player_table = player_table,
             score_path = score_path,
-            prob_path = prob_path
+            prob_path = prob_path,
+            num_shifts = num_shifts
         )
 
         match_dir_strings.append(f'[{recent_game["date"].date().strftime("%Y-%m-%d") + " " + main_header}](reviews//{file_name})')

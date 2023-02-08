@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.276, which translates to predicting Valence Romans Drome Rugby to win by 8.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.297, which translates to predicting Valence Romans Drome Rugby to win by 7.6.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -40,6 +40,8 @@ Carqueiranne-Hyères by 0.3 on a neutral field
 
 
 ![In Match Predictions](plots/recap_prob_2023-01-29-Carqueiranne-Hyères-ValenceRomansDromeRugby.png)
+
+There were 2 large changes in win probability in this match
 ## Prediction without Player Minutes: Carqueiranne-Hyères by 7.6
 
 

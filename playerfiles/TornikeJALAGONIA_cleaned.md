@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tornike JALAGONIA  
-date: 2023-02-06 11:16:24.251703  
+date: 2023-02-08 11:10:33.514516  
 categories: player  
 ---
 # Tornike JALAGONIA

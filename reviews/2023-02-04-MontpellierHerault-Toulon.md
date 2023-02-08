@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.598, which translates to predicting Montpellier Herault to win by 3.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.631, which translates to predicting Montpellier Herault to win by 4.7.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -40,6 +40,8 @@ Toulon by 5.9 on a neutral field
 
 
 ![In Match Predictions](plots/recap_prob_2023-02-04-MontpellierHerault-Toulon.png)
+
+There were 12 large changes in win probability in this match
 ## Prediction without Player Minutes: Montpellier Herault by 2.9
 
 
