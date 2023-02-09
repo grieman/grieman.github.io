@@ -11,4 +11,4 @@ Turns out it's a bit complicated. I have gathered data for most of the professio
 
 ## About Me
 
-This may get fleshed out later. For now, you can contact me via email at rugbyclubrankings@gmail.com, or on github [here](https://github.com/grieman)
+This may get fleshed out later. For now, you can contact me via email at rugbyclubrankings@gmail.com. Feel free to leave any feedback, even if it's just that I got your favorite club's colors wrong.
