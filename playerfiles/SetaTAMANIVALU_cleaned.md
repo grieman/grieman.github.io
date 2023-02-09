@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta Tamanivalu  
-date: 2023-02-06 16:01:25.885657  
+date: 2023-02-09 13:55:25.937032  
 categories: player  
 ---
 # Seta Tamanivalu
@@ -26,7 +26,7 @@ categories: player
 | Taranaki                  |            58 |   0.568966 |
 | Bordeaux Begles           |            37 |   0.594595 |
 | Crusaders                 |            33 |   0.878788 |
-| Toshiba Brave Lupus Tokyo |            27 |   0.555556 |
+| Toshiba Brave Lupus Tokyo |            28 |   0.535714 |
 | Chiefs                    |            22 |   0.681818 |
 | New Zealand               |             4 |   1        |
 | Fiji                      |             2 |   0.5      |
@@ -43,9 +43,9 @@ categories: player
 | Manawatu                          |         5 |   0.8      |
 | Counties Manukau                  |         5 |   0.7      |
 | Agen                              |         5 |   1        |
+| Tokyo Sungoliath                  |         5 |   0.2      |
 | Wellington                        |         5 |   0.4      |
 | Brumbies                          |         4 |   1        |
-| Tokyo Sungoliath                  |         4 |   0.25     |
 | Chiefs                            |         4 |   1        |
 | Toyota Verblitz                   |         4 |   0.5      |
 | Blues                             |         4 |   1        |

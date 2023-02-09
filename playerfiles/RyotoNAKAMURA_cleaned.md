@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryoto NAKAMURA  
-date: 2023-02-06 16:03:46.986115  
+date: 2023-02-09 13:55:16.625611  
 categories: player  
 ---
 # Ryoto NAKAMURA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 125.0
+## Current elo: 124.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            49 |   0.816327 |
+| Tokyo Sungoliath |            50 |   0.82     |
 | Japan            |            21 |   0.380952 |
 | Sunwolves        |            10 |   0.1      |
 
@@ -31,8 +31,8 @@ categories: player
 |:----------------------------------|----------:|-----------:|
 | Saitama Wild Knights              |         6 |   0.333333 |
 | Kubota Spears Funabashi Tokyo-Bay |         6 |   0.833333 |
+| Toshiba Brave Lupus Tokyo         |         6 |   0.666667 |
 | Green Rockets Tokatsu             |         5 |   1        |
-| Toshiba Brave Lupus Tokyo         |         5 |   0.6      |
 | Kobelco Kobe Steelers             |         4 |   0.75     |
 | Ireland                           |         3 |   0.333333 |
 | Hanazono Kintetsu Liners          |         3 |   0.666667 |

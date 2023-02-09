@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tornike JALAGONIA  
-date: 2023-02-08 11:10:33.514516  
+date: 2023-02-09 13:56:37.316280  
 categories: player  
 ---
 # Tornike JALAGONIA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

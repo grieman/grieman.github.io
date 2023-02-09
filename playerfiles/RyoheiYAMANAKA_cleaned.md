@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryohei Yamanaka  
-date: 2023-02-06 16:04:47.000918  
+date: 2023-02-09 13:57:10.005234  
 categories: player  
 ---
 # Ryohei Yamanaka
@@ -23,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |            80 |   0.7      |
+| Kobelco Kobe Steelers |            81 |   0.703704 |
 | Japan                 |            18 |   0.277778 |
 | Sunwolves             |            18 |   0.166667 |
 
@@ -55,13 +55,13 @@ categories: player
 | Coca-Cola Red Sparks              |         2 |   1        |
 | Hino Red Dolphins                 |         2 |   1        |
 | Hurricanes                        |         2 |   0        |
+| Mitsubishi Dynaboars              |         2 |   1        |
 | Jaguares                          |         1 |   0        |
 | England                           |         1 |   0        |
 | Highlanders                       |         1 |   0        |
 | British and Irish Lions           |         1 |   0        |
 | South Africa                      |         1 |   0        |
 | Blues                             |         1 |   1        |
-| Mitsubishi Dynaboars              |         1 |   1        |
 | Melbourne Rebels                  |         1 |   0        |
 | Samoa                             |         1 |   1        |
 | Mie Honda Heat                    |         1 |   1        |

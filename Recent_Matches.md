@@ -41,32 +41,40 @@ Last Round Error: 10.65 points per match
 [2023-02-05 France at Italy; 29.0-24.0](reviews//2023-02-05-Italy-France)
 # Professional Leagues
 
-## Gallagher Premiership
-
-
-Competition Accuracy: 56 of 80 (70.0%)
-
-Competition Error: 10.81 points per match
-
-Last Round Accuracy: 6 of 7 (85.71%)
-
-Last Round Error: 4.8 points per match
-
-[2023-01-29 Harlequins at London Irish; 24-42](reviews//2023-01-29-LondonIrish-Harlequins)
 ## Japan Rugby League One
 
 
-Competition Accuracy: 28 of 38 (73.68%)
+Competition Accuracy: 30 of 42 (71.43%)
 
-Competition Error: 13.17 points per match
+Competition Error: 13.4 points per match
 
 Last Round Accuracy: 2 of 6 (33.33%)
 
-Last Round Error: 3.51 points per match
+Last Round Error: 6.77 points per match
+
+[2023-02-04 Kubota Spears Funabashi Tokyo-Bay at Toyota Verblitz; 44-34](reviews//2023-02-04-ToyotaVerblitz-KubotaSpearsFunabashiTokyo-Bay)
 
 [2023-02-04 Black Rams Tokyo at Yokohama Canon Eagles; 13-34](reviews//2023-02-04-YokohamaCanonEagles-BlackRamsTokyo)
 
-[2023-02-04 Kubota Spears Funabashi Tokyo-Bay at Toyota Verblitz; 44-34](reviews//2023-02-04-ToyotaVerblitz-KubotaSpearsFunabashiTokyo-Bay)
+[2023-02-05 Kobelco Kobe Steelers at Mitsubishi Dynaboars; 49-30](reviews//2023-02-05-MitsubishiDynaboars-KobelcoKobeSteelers)
+
+[2023-02-05 Tokyo Sungoliath at Toshiba Brave Lupus Tokyo; 40-34](reviews//2023-02-05-ToshibaBraveLupusTokyo-TokyoSungoliath)
+
+[2023-02-05 Saitama Wild Knights at Green Rockets Tokatsu; 45-0](reviews//2023-02-05-GreenRocketsTokatsu-SaitamaWildKnights)
+
+[2023-02-05 Shizuoka Blue Revs at Hanazono Kintetsu Liners; 34-14](reviews//2023-02-05-HanazonoKintetsuLiners-ShizuokaBlueRevs)
+## Japan Rugby League One Division 2
+
+
+Competition Accuracy: 12 of 13 (92.31%)
+
+Competition Error: 17.61 points per match
+
+Last Round Accuracy: 2 of 3 (66.67%)
+
+Last Round Error: 33.2 points per match
+
+[2023-02-05 Toyota Industries Shuttles Aichi at Mie Honda Heat; 24-46](reviews//2023-02-05-MieHondaHeat-ToyotaIndustriesShuttlesAichi)
 ## Pro D2
 
 
@@ -104,8 +112,6 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 8.44 points per match
 
-[2023-01-29 Montpellier Herault at Stade Toulousain; 9-23](reviews//2023-01-29-StadeToulousain-MontpellierHerault)
-
 [2023-02-04 Bayonne at Stade Toulousain; 16-21](reviews//2023-02-04-StadeToulousain-Bayonne)
 
 [2023-02-04 Perpignan at Brive; 24-22](reviews//2023-02-04-Brive-Perpignan)
@@ -130,34 +136,20 @@ Last Round Accuracy: 7 of 8 (87.5%)
 
 Last Round Error: 11.33 points per match
 
-[2023-01-29 Ospreys at Zebre; 28-24](reviews//2023-01-29-Zebre-Ospreys)
-
 [2023-02-04 Stormers at Sharks; 46-19](reviews//2023-02-04-Sharks-Stormers)
 # Domestic Leagues
 
 ## Japan Rugby League One Division 3
 
 
-Competition Accuracy: 9 of 11 (81.82%)
+Competition Accuracy: 10 of 12 (83.33%)
 
-Competition Error: 13.9 points per match
+Competition Error: 14.52 points per match
 
-Last Round Accuracy: 1 of 3 (33.33%)
+Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 20.55 points per match
+Last Round Error: 18.15 points per match
 
 [2023-02-04 Skyactivs Hiroshima at Kyuden Voltex; 6-35](reviews//2023-02-04-KyudenVoltex-SkyactivsHiroshima)
-## Nationale
 
-
-Competition Accuracy: 79 of 118 (66.95%)
-
-Competition Error: 11.0 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 12.72 points per match
-
-[2023-01-29 Valence Romans Drome Rugby at Carqueiranne-Hyères; 19-11](reviews//2023-01-29-Carqueiranne-Hyères-ValenceRomansDromeRugby)
-
-[2023-01-29 Chambery at Cognac Saint Jean d'Angély; 46-3](reviews//2023-01-29-CognacSaintJeand'Angély-Chambery)
+[2023-02-05 Chugoku Red Regulions at Kurita Water Gush; 22-49](reviews//2023-02-05-KuritaWaterGush-ChugokuRedRegulions)
