@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre REYNAUD  
-date: 2023-02-09 13:56:07.962540  
+date: 2023-02-10 10:36:25.834600  
 categories: player  
 ---
 # Pierre REYNAUD

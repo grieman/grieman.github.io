@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoram MOEFANA  
-date: 2023-02-09 13:56:56.916712  
+date: 2023-02-10 10:36:15.782652  
 categories: player  
 ---
 # Yoram MOEFANA

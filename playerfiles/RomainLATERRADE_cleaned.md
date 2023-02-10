@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain LATERRADE  
-date: 2023-02-09 13:55:41.700195  
+date: 2023-02-10 10:37:28.516014  
 categories: player  
 ---
 # Romain LATERRADE
