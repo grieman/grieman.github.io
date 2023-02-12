@@ -77,6 +77,8 @@ Simulations now have Scotland winning by 11 points, on average.
 
 Teamsheets haven't been announced yet. May update this tomorrow. As is, A 5% chance for England to lose again at home sounds like it could be a perfect story for Italy.
 
+Update: The club model has England by 12.4, but with teamsheets the player model only has England by 6.6. And 4 of that is from home field advantage. Could be a close match.
+
 Simulations now have England winning by 11.4 points, on average.
 
 | Outcomes | Occurrence in Simulation |
