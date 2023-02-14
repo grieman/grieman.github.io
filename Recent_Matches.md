@@ -40,8 +40,6 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 6.71 points per match
 
-[2023-02-04 Ireland at Wales; 34.0-10.0](reviews//2023-02-04-Wales-Ireland)
-
 [2023-02-04 Scotland at England; 29.0-23.0](reviews//2023-02-04-England-Scotland)
 
 [2023-02-05 France at Italy; 29.0-24.0](reviews//2023-02-05-Italy-France)
@@ -63,10 +61,6 @@ Competition Error: 13.4 points per match
 Last Round Accuracy: 2 of 6 (33.33%)
 
 Last Round Error: 6.77 points per match
-
-[2023-02-04 Kubota Spears Funabashi Tokyo-Bay at Toyota Verblitz; 44-34](reviews//2023-02-04-ToyotaVerblitz-KubotaSpearsFunabashiTokyo-Bay)
-
-[2023-02-04 Black Rams Tokyo at Yokohama Canon Eagles; 13-34](reviews//2023-02-04-YokohamaCanonEagles-BlackRamsTokyo)
 
 [2023-02-05 Kobelco Kobe Steelers at Mitsubishi Dynaboars; 49-30](reviews//2023-02-05-MitsubishiDynaboars-KobelcoKobeSteelers)
 
@@ -100,35 +94,19 @@ Last Round Accuracy: 2 of 8 (25.0%)
 
 Last Round Error: 12.23 points per match
 
-[2023-02-02 Oyonnax at Rouen; 13-17](reviews//2023-02-02-Rouen-Oyonnax)
-
-[2023-02-03 Vannes at Biarritz Olympique; 13-19](reviews//2023-02-03-BiarritzOlympique-Vannes)
-
-[2023-02-03 Soyaux-Angouleme at Beziers; 13-22](reviews//2023-02-03-Beziers-Soyaux-Angouleme)
-
-[2023-02-03 Carcassonne at Massy; 17-22](reviews//2023-02-03-Massy-Carcassonne)
-
-[2023-02-03 Provence Rugby at Mont-de-Marsan; 28-12](reviews//2023-02-03-Mont-de-Marsan-ProvenceRugby)
-
-[2023-02-03 Colomiers at Montauban; 19-25](reviews//2023-02-03-Montauban-Colomiers)
-
-[2023-02-03 Aurillac at Nevers; 18-22](reviews//2023-02-03-Nevers-Aurillac)
-
-[2023-02-03 Agen at Grenoble; 16-20](reviews//2023-02-03-Grenoble-Agen)
-
 [2023-02-09 Biarritz Olympique at Oyonnax; 17-42](reviews//2023-02-09-Oyonnax-BiarritzOlympique)
 
 [2023-02-10 Grenoble at Rouen; 11-3](reviews//2023-02-10-Rouen-Grenoble)
 
-[2023-02-10 Montauban at Vannes; 37-40](reviews//2023-02-10-Vannes-Montauban)
-
-[2023-02-10 Massy at Soyaux-Angouleme; 19-21](reviews//2023-02-10-Soyaux-Angouleme-Massy)
+[2023-02-10 Carcassonne at Aurillac; 26-30](reviews//2023-02-10-Aurillac-Carcassonne)
 
 [2023-02-10 Beziers at Colomiers; 20-39](reviews//2023-02-10-Colomiers-Beziers)
 
-[2023-02-10 Carcassonne at Aurillac; 26-30](reviews//2023-02-10-Aurillac-Carcassonne)
-
 [2023-02-10 Nevers at Provence Rugby; 9-19](reviews//2023-02-10-ProvenceRugby-Nevers)
+
+[2023-02-10 Massy at Soyaux-Angouleme; 19-21](reviews//2023-02-10-Soyaux-Angouleme-Massy)
+
+[2023-02-10 Montauban at Vannes; 37-40](reviews//2023-02-10-Vannes-Montauban)
 
 [2023-02-10 Mont-de-Marsan at Agen; 19-41](reviews//2023-02-10-Agen-Mont-de-Marsan)
 ## Top 14 Orange
@@ -180,8 +158,6 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 18.15 points per match
 
-[2023-02-04 Skyactivs Hiroshima at Kyuden Voltex; 6-35](reviews//2023-02-04-KyudenVoltex-SkyactivsHiroshima)
-
 [2023-02-05 Chugoku Red Regulions at Kurita Water Gush; 22-49](reviews//2023-02-05-KuritaWaterGush-ChugokuRedRegulions)
 ## Nationale
 
@@ -196,10 +172,10 @@ Last Round Error: 12.72 points per match
 
 [2023-02-10 Rennes at US Bressane; 14-31](reviews//2023-02-10-USBressane-Rennes)
 
-[2023-02-11 Bourgoin-Jallieu at Suresnes; 30-12](reviews//2023-02-11-Suresnes-Bourgoin-Jallieu)
-
 [2023-02-11 Nice at Albi; 23-23](reviews//2023-02-11-Albi-Nice)
 
-[2023-02-11 Narbonne at Valence Romans Drome Rugby; 24-30](reviews//2023-02-11-ValenceRomansDromeRugby-Narbonne)
+[2023-02-11 Bourgoin-Jallieu at Suresnes; 30-12](reviews//2023-02-11-Suresnes-Bourgoin-Jallieu)
 
 [2023-02-11 Carqueiranne-Hyères at Tarbes; 19-25](reviews//2023-02-11-Tarbes-Carqueiranne-Hyères)
+
+[2023-02-11 Narbonne at Valence Romans Drome Rugby; 24-30](reviews//2023-02-11-ValenceRomansDromeRugby-Narbonne)
