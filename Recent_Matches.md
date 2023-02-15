@@ -8,27 +8,21 @@ key: page-recents
 ## Rugby Europe Championship
 
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 36.25 points per match
+Competition Error: 32.57 points per match
 
 Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 35.39 points per match
-
-[2023-02-04 Poland at Romania; 27-67](reviews//2023-02-04-Romania-Poland)
-
-[2023-02-04 Belgium at Portugal; 17-54](reviews//2023-02-04-Portugal-Belgium)
-
-[2023-02-05 Germany at Georgia; 12-75](reviews//2023-02-05-Georgia-Germany)
-
-[2023-02-05 Netherlands at Spain; 20-28](reviews//2023-02-05-Spain-Netherlands)
+Last Round Error: 33.92 points per match
 
 [2023-02-11 Portugal at Poland; 65-3](reviews//2023-02-11-Poland-Portugal)
 
 [2023-02-11 Georgia at Netherlands; 40-8](reviews//2023-02-11-Netherlands-Georgia)
 
 [2023-02-11 Romania at Belgium; 56-5](reviews//2023-02-11-Belgium-Romania)
+
+[2023-02-12 Spain at Germany; 32-14](reviews//2023-02-12-Germany-Spain)
 ## Six Nations Championship
 
 
@@ -38,11 +32,7 @@ Competition Error: 9.67 points per match
 
 Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 6.71 points per match
-
-[2023-02-04 Scotland at England; 29.0-23.0](reviews//2023-02-04-England-Scotland)
-
-[2023-02-05 France at Italy; 29.0-24.0](reviews//2023-02-05-Italy-France)
+Last Round Error: 6.65 points per match
 
 [2023-02-11 France at Ireland; 19.0-32.0](reviews//2023-02-11-Ireland-France)
 
@@ -51,24 +41,6 @@ Last Round Error: 6.71 points per match
 [2023-02-12 Italy at England; 14.0-31.0](reviews//2023-02-12-England-Italy)
 # Professional Leagues
 
-## Japan Rugby League One
-
-
-Competition Accuracy: 30 of 42 (71.43%)
-
-Competition Error: 13.4 points per match
-
-Last Round Accuracy: 2 of 6 (33.33%)
-
-Last Round Error: 6.77 points per match
-
-[2023-02-05 Kobelco Kobe Steelers at Mitsubishi Dynaboars; 49-30](reviews//2023-02-05-MitsubishiDynaboars-KobelcoKobeSteelers)
-
-[2023-02-05 Tokyo Sungoliath at Toshiba Brave Lupus Tokyo; 40-34](reviews//2023-02-05-ToshibaBraveLupusTokyo-TokyoSungoliath)
-
-[2023-02-05 Saitama Wild Knights at Green Rockets Tokatsu; 45-0](reviews//2023-02-05-GreenRocketsTokatsu-SaitamaWildKnights)
-
-[2023-02-05 Shizuoka Blue Revs at Hanazono Kintetsu Liners; 34-14](reviews//2023-02-05-HanazonoKintetsuLiners-ShizuokaBlueRevs)
 ## Japan Rugby League One Division 2
 
 
@@ -79,8 +51,6 @@ Competition Error: 16.89 points per match
 Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 33.2 points per match
-
-[2023-02-05 Toyota Industries Shuttles Aichi at Mie Honda Heat; 24-46](reviews//2023-02-05-MieHondaHeat-ToyotaIndustriesShuttlesAichi)
 
 [2023-02-11 Kamaishi Seawaves at Urayasu D-Rocks; 26-64](reviews//2023-02-11-UrayasuD-Rocks-KamaishiSeawaves)
 ## Pro D2
@@ -116,55 +86,19 @@ Competition Accuracy: 82 of 119 (68.91%)
 
 Competition Error: 10.63 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 14.21 points per match
-
-[2023-02-04 Bayonne at Stade Toulousain; 16-21](reviews//2023-02-04-StadeToulousain-Bayonne)
-
-[2023-02-04 Perpignan at Brive; 24-22](reviews//2023-02-04-Brive-Perpignan)
-
-[2023-02-04 Castres Olympique at Clermont Auvergne; 26-41](reviews//2023-02-04-ClermontAuvergne-CastresOlympique)
-
-[2023-02-04 Lyon at La Rochelle; 20-16](reviews//2023-02-04-LaRochelle-Lyon)
-
-[2023-02-04 Racing 92 at Pau; 19-38](reviews//2023-02-04-Pau-Racing92)
-
-[2023-02-04 Toulon at Montpellier Herault; 20-18](reviews//2023-02-04-MontpellierHerault-Toulon)
+Last Round Error: 19.02 points per match
 
 [2023-02-05 Bordeaux Begles at Stade Francais Paris; 6-12](reviews//2023-02-05-StadeFrancaisParis-BordeauxBegles)
-## United Rugby Championship
-
-
-Competition Accuracy: 74 of 102 (72.55%)
-
-Competition Error: 11.57 points per match
-
-Last Round Accuracy: 7 of 8 (87.5%)
-
-Last Round Error: 11.33 points per match
-
-[2023-02-04 Stormers at Sharks; 46-19](reviews//2023-02-04-Sharks-Stormers)
 # Domestic Leagues
 
-## Japan Rugby League One Division 3
-
-
-Competition Accuracy: 10 of 12 (83.33%)
-
-Competition Error: 14.52 points per match
-
-Last Round Accuracy: 2 of 3 (66.67%)
-
-Last Round Error: 18.15 points per match
-
-[2023-02-05 Chugoku Red Regulions at Kurita Water Gush; 22-49](reviews//2023-02-05-KuritaWaterGush-ChugokuRedRegulions)
 ## Nationale
 
 
-Competition Accuracy: 82 of 123 (66.67%)
+Competition Accuracy: 83 of 125 (66.4%)
 
-Competition Error: 10.84 points per match
+Competition Error: 10.94 points per match
 
 Last Round Accuracy: 4 of 7 (57.14%)
 
@@ -179,3 +113,7 @@ Last Round Error: 12.72 points per match
 [2023-02-11 Carqueiranne-Hyères at Tarbes; 19-25](reviews//2023-02-11-Tarbes-Carqueiranne-Hyères)
 
 [2023-02-11 Narbonne at Valence Romans Drome Rugby; 24-30](reviews//2023-02-11-ValenceRomansDromeRugby-Narbonne)
+
+[2023-02-12 Blagnac at Chambery; 28-27](reviews//2023-02-12-Chambery-Blagnac)
+
+[2023-02-12 Dax at Cognac Saint Jean d'Angély; 59-17](reviews//2023-02-12-CognacSaintJeand'Angély-Dax)
