@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain MAURICE  
-date: 2023-01-31 16:06:52.987231  
+date: 2023-02-16 11:18:37.732263  
 categories: player  
 ---
 # Romain MAURICE
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: None
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            10 |       0.2  |
-| Albi   |             8 |       0.75 |
+| Dax    |            10 |   0.2      |
+| Albi   |             9 |   0.722222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,5 +39,6 @@ categories: player
 | Grenoble                   |         1 |        0   |
 | Mont-de-Marsan             |         1 |        0   |
 | Montauban                  |         1 |        0   |
+| Nice                       |         1 |        0.5 |
 | Suresnes                   |         1 |        0   |
 | Vannes                     |         1 |        1   |

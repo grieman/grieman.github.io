@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon GARROUTEIGT  
-date: 2023-01-31 16:09:15.483977  
+date: 2023-02-16 11:17:35.622390  
 categories: player  
 ---
 # Simon GARROUTEIGT
 
 ## Positions: SH
 
-## Current elo: 88.0
+## Current elo: 93.0
 
-## Current Percentile: 37.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            49 |   0.530612 |
+| Dax    |            50 |       0.54 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Tarbes                     |         5 |   0.6      |
 | Albi                       |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   0.5      |
+| Cognac Saint Jean d'Angély |         4 |   0.5      |
 | Blagnac                    |         3 |   0.333333 |
 | Chambery                   |         3 |   0.666667 |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Dijon                      |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
 | Nice                       |         3 |   0.666667 |

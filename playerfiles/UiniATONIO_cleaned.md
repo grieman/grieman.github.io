@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-02-10 10:36:06.070767  
+date: 2023-02-16 11:18:25.372688  
 categories: player  
 ---
 # Uini ATONIO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 123.0
+## Current elo: 129.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |           269 |   0.626394 |
-| France      |            46 |   0.543478 |
+| France      |            47 |   0.531915 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -46,12 +46,12 @@ categories: player
 | England              |         6 |   0.333333 |
 | Aurillac             |         6 |   0.666667 |
 | Wales                |         6 |   0.5      |
+| Ireland              |         6 |   0.5      |
 | Scotland             |         5 |   0.6      |
 | Beziers              |         5 |   0.8      |
 | Tarbes               |         5 |   0.6      |
 | New Zealand          |         5 |   0.2      |
 | Narbonne             |         5 |   0.4      |
-| Ireland              |         5 |   0.6      |
 | Provence Rugby       |         4 |   0.75     |
 | South Africa         |         4 |   0.25     |
 | Perpignan            |         4 |   1        |

@@ -599,8 +599,15 @@ for _, row in fut_matches_df.iterrows():
             #home_team_elos = [x['elo'] for x in home_team.history[-5:]]
             #away_team_elos = [x['elo'] for x in away_team.history[-5:]]
             historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
-            home_elo_avg = sum(np.multiply(home_team_elos, historic_weighting))
-            away_elo_avg = sum(np.multiply(away_team_elos, historic_weighting))
+            if len(home_team_elos) == 5:
+                home_elo_avg = sum(np.multiply(home_team_elos, historic_weighting))
+            else:
+                home_elo_avg = np.mean(home_team_elos)
+
+            if len(away_team_elos) == 5:
+                away_elo_avg = sum(np.multiply(away_team_elos, historic_weighting))
+            else:
+                away_elo_avg = np.mean(away_team_elos)
 
             imputed_spread =  (home_elo_avg -  away_elo_avg) / 10 #GLOBAL_score_factor == 10, this should not be hard-coded
             main_header = f'{row["Away Team"]} (~{round(away_elo_avg, 2)}) at {row["Home Team"]} (~{round(home_elo_avg, 2)})'

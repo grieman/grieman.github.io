@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pablo MIEJIMOLLE  
-date: 2023-02-10 10:37:40.748985  
+date: 2023-02-16 11:18:01.587732  
 categories: player  
 ---
 # Pablo MIEJIMOLLE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 97.0
+## Current elo: 99.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
 | Castilla y Leon Iberians |            11 |   0.545455 |
-| Spain                    |             5 |   0.6      |
+| Spain                    |             6 |   0.666667 |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Delta           |         2 |       1    |
 | Fiji            |         1 |       0    |
 | Georgia         |         1 |       0    |
+| Germany         |         1 |       1    |
 | Hong Kong       |         1 |       1    |
 | Netherlands     |         1 |       1    |
 | Uruguay         |         1 |       1    |

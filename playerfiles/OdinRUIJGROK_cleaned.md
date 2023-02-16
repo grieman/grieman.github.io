@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Odin RUIJGROK  
-date: 2023-02-10 10:36:16.777724  
+date: 2023-02-16 11:18:49.053199  
 categories: player  
 ---
 # Odin RUIJGROK
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 
@@ -19,11 +19,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Netherlands |             2 |          0 |
+| Netherlands |             3 |          0 |
 | Delta       |             1 |          0 |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
 | Brussels Devils |         1 |          0 |
+| Georgia         |         1 |          0 |
 | Italy           |         1 |          0 |
 | Spain           |         1 |          0 |

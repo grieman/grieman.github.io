@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Romain URUTY  
-date: 2023-02-10 10:36:03.156007  
+date: 2023-02-16 11:17:48.402082  
 categories: player  
 ---
 # Romain URUTY
 
 ## Positions: FH
 
-## Current elo: 98.0
+## Current elo: 97.0
 
 ## Current Percentile: 60.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            46 |   0.467391 |
+| Beziers |            47 |   0.457447 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Montauban                  |         5 |   0.8      |
 | Nevers                     |         5 |   0.2      |
+| Colomiers                  |         4 |   0.25     |
 | Grenoble                   |         4 |   0.5      |
-| Colomiers                  |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.166667 |

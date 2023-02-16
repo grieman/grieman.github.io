@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain CLOUTé  
-date: 2023-02-10 10:37:43.089193  
+date: 2023-02-16 11:17:37.604917  
 categories: player  
 ---
 # Romain CLOUTé
 
 ## Positions: FB
 
-## Current elo: 89.0
+## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            52 |      0.625 |
+| Massy  |            53 |   0.613208 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Soyaux-Angouleme           |         5 |   0.4      |
 | Bourgoin-Jallieu           |         4 |   0.75     |
 | Chambery                   |         4 |   0.625    |
-| Soyaux-Angouleme           |         4 |   0.5      |
 | Albi                       |         3 |   0.666667 |
 | Aubenas                    |         3 |   1        |
 | Tarbes                     |         3 |   0.666667 |

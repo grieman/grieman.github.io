@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul SAJOUS  
-date: 2023-01-31 16:07:25.264240  
+date: 2023-02-16 11:19:46.667819  
 categories: player  
 ---
 # Paul SAJOUS
 
 ## Positions: L, FL
 
-## Current elo: 63.0
+## Current elo: 65.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            41 |   0.414634 |
+| Tarbes |            42 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,10 +33,10 @@ categories: player
 | Nice                       |         3 |   0        |
 | Dax                        |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
+| Carqueiranne-Hyères        |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Suresnes                   |         2 |   0        |
 | Dijon                      |         2 |   0.75     |
-| Carqueiranne-Hyères        |         1 |   0        |
 | Aubenas                    |         1 |   1        |
 | Lyon                       |         1 |   0        |
 | Beziers                    |         1 |   0        |

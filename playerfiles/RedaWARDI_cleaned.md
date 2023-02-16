@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda WARDI  
-date: 2023-02-10 10:37:09.308269  
+date: 2023-02-16 11:19:38.115319  
 categories: player  
 ---
 # Reda WARDI
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 108.0
+## Current elo: 111.0
 
 ## Current Percentile: 84.0
 
@@ -25,7 +25,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | La Rochelle |            80 |   0.625    |
 | Beziers     |            59 |   0.525424 |
-| France      |             3 |   1        |
+| France      |             4 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -44,23 +44,23 @@ categories: player
 | Agen                 |         4 |   1        |
 | Massy                |         4 |   1        |
 | Vannes               |         4 |   0.25     |
-| Aurillac             |         4 |   0.5      |
 | Carcassonne          |         4 |   0.75     |
 | Clermont Auvergne    |         4 |   0.25     |
+| Aurillac             |         4 |   0.5      |
 | Brive                |         4 |   0.5      |
-| Dax                  |         3 |   1        |
-| Montauban            |         3 |   0.166667 |
 | Soyaux-Angouleme     |         3 |   0.333333 |
-| Nevers               |         3 |   0.833333 |
-| Glasgow Warriors     |         3 |   0.666667 |
 | Pau                  |         3 |   1        |
-| Sale Sharks          |         3 |   0.666667 |
+| Glasgow Warriors     |         3 |   0.666667 |
+| Nevers               |         3 |   0.833333 |
 | Narbonne             |         3 |   0.666667 |
-| Leinster             |         2 |   1        |
-| Bourgoin-Jallieu     |         2 |   1        |
-| Colomiers            |         2 |   0.5      |
+| Sale Sharks          |         3 |   0.666667 |
+| Montauban            |         3 |   0.166667 |
+| Dax                  |         3 |   1        |
 | Northampton Saints   |         2 |   1        |
+| Bourgoin-Jallieu     |         2 |   1        |
+| Leinster             |         2 |   1        |
 | Provence Rugby       |         2 |   0.5      |
+| Colomiers            |         2 |   0.5      |
 | US Bressane          |         1 |   0        |
 | Ulster               |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |
@@ -69,4 +69,5 @@ categories: player
 | Edinburgh            |         1 |   1        |
 | Japan                |         1 |   1        |
 | Italy                |         1 |   1        |
+| Ireland              |         1 |   0        |
 | Oyonnax              |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas CACHET  
-date: 2023-02-06 16:03:14.472739  
+date: 2023-02-16 11:19:38.926515  
 categories: player  
 ---
 # Nicolas CACHET
 
 ## Positions: FB, FH
 
-## Current elo: 81.0
+## Current elo: 84.0
 
-## Current Percentile: 11.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,20 +21,21 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            44 |   0.375    |
+| Bourgoin-Jallieu |            45 |   0.388889 |
 | Dax              |            44 |   0.397727 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Narbonne                   |         6 |   0.5      |
 | Dax                        |         6 |   0.333333 |
+| Narbonne                   |         6 |   0.5      |
 | Massy                      |         5 |   0.4      |
 | Albi                       |         5 |   0        |
 | Vannes                     |         4 |   0.75     |
-| Soyaux-Angouleme           |         4 |   0        |
 | Tarbes                     |         4 |   0.25     |
 | Biarritz Olympique         |         4 |   0.5      |
 | Chambery                   |         4 |   0.5      |
+| Soyaux-Angouleme           |         4 |   0        |
+| Suresnes                   |         3 |   0.666667 |
 | Nice                       |         3 |   0.666667 |
 | Montauban                  |         3 |   0        |
 | Mont-de-Marsan             |         3 |   0        |
@@ -44,13 +45,12 @@ categories: player
 | Aubenas                    |         3 |   0.333333 |
 | Perpignan                  |         3 |   0.333333 |
 | Colomiers                  |         2 |   1        |
-| Carcassonne                |         2 |   0        |
 | US Bressane                |         2 |   0        |
+| Carcassonne                |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Blagnac                    |         2 |   0        |
 | Bayonne                    |         2 |   0.25     |
 | Aurillac                   |         2 |   1        |
-| Suresnes                   |         2 |   0.5      |
 | Agen                       |         1 |   0        |
 | Oyonnax                    |         1 |   1        |
 | Nevers                     |         1 |   1        |

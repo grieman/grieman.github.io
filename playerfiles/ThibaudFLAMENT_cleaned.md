@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud FLAMENT  
-date: 2023-02-10 10:37:37.394675  
+date: 2023-02-16 11:19:15.850659  
 categories: player  
 ---
 # Thibaud FLAMENT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 102.0
+## Current elo: 111.0
 
-## Current Percentile: 76.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -24,32 +24,33 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |            41 |   0.743902 |
+| France           |            13 |   0.923077 |
 | Wasps            |            13 |   0.538462 |
-| France           |            12 |   1        |
 | Newman           |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | La Rochelle         |         7 |   1        |
 | Castres Olympique   |         5 |   0.4      |
-| Brive               |         4 |   1        |
 | Clermont Auvergne   |         4 |   0.75     |
+| Brive               |         4 |   1        |
 | Agen                |         3 |   1        |
 | Bordeaux Begles     |         3 |   0.666667 |
 | Toulon              |         3 |   0.333333 |
-| Japan               |         2 |   1        |
-| Munster             |         2 |   0.75     |
-| Montpellier Herault |         2 |   1        |
+| Sale Sharks         |         2 |   0.5      |
+| Ireland             |         2 |   0.5      |
+| Gloucester Rugby    |         2 |   0.5      |
+| London Irish        |         2 |   0.5      |
 | Lyon                |         2 |   0.5      |
 | Biarritz Olympique  |         2 |   1        |
-| London Irish        |         2 |   0.5      |
-| Gloucester Rugby    |         2 |   0.5      |
-| Sale Sharks         |         2 |   0.5      |
-| Racing 92           |         1 |   1        |
-| Scotland            |         1 |   1        |
+| Montpellier Herault |         2 |   1        |
+| Munster             |         2 |   0.75     |
+| Japan               |         2 |   1        |
 | SIC                 |         1 |   0        |
+| Racing 92           |         1 |   1        |
 | Saracens            |         1 |   1        |
 | Pau                 |         1 |   1        |
+| Scotland            |         1 |   1        |
 | South Africa        |         1 |   1        |
 | Ulster              |         1 |   0        |
 | Wales               |         1 |   1        |
@@ -60,7 +61,6 @@ categories: player
 | New Zealand         |         1 |   1        |
 | Alumni              |         1 |   0        |
 | Italy               |         1 |   1        |
-| Ireland             |         1 |   1        |
 | Georgia             |         1 |   1        |
 | England             |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thierry FUTEU YOUTCHEU  
-date: 2023-02-10 10:37:20.441262  
+date: 2023-02-16 11:19:29.909455  
 categories: player  
 ---
 # Thierry FUTEU YOUTCHEU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 64.0
+## Current elo: 70.0
 
-## Current Percentile: 22.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Carcassonne          |            38 |   0.473684 |
-| Spain                |            22 |   0.636364 |
+| Spain                |            23 |   0.652174 |
 | Stade Francais Paris |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -47,19 +47,19 @@ categories: player
 | Netherlands                |         2 |   1        |
 | Vannes                     |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0        |
+| Germany                    |         2 |   1        |
 | Colomiers                  |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
-| Canada                     |         1 |   1        |
+| Brazil                     |         1 |   1        |
 | Bayonne                    |         1 |   0        |
 | Uruguay                    |         1 |   1        |
 | Tonga                      |         1 |   0        |
 | Belgium                    |         1 |   1        |
-| Brazil                     |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
+| Canada                     |         1 |   1        |
 | Namibia                    |         1 |   1        |
 | Chile                      |         1 |   1        |
 | Clermont Auvergne          |         1 |   0        |
 | Fiji                       |         1 |   0        |
-| Germany                    |         1 |   1        |
 | Narbonne                   |         1 |   1        |
 | Agen                       |         1 |   1        |

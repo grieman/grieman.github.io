@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Robin GRAULLE  
-date: 2023-02-06 16:04:13.007156  
+date: 2023-02-16 11:19:11.563385  
 categories: player  
 ---
 # Robin GRAULLE
 
 ## Positions: SH, W
 
-## Current elo: 78.0
+## Current elo: 83.0
 
 ## Current Percentile: 15.0
 
@@ -21,24 +21,25 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
+| US Bressane |            10 |   0.5      |
 | Colomiers   |             9 |   0.333333 |
-| US Bressane |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Nevers                     |         2 |        0.5 |
 | Vannes                     |         2 |        0   |
+| Nevers                     |         2 |        0.5 |
+| Mont-de-Marsan             |         1 |        0   |
+| US Bressane                |         1 |        0   |
+| Rennes                     |         1 |        1   |
+| Perpignan                  |         1 |        0   |
+| Oyonnax                    |         1 |        1   |
+| Montauban                  |         1 |        1   |
 | Agen                       |         1 |        1   |
 | Albi                       |         1 |        0   |
-| Beziers                    |         1 |        0   |
-| Biarritz Olympique         |         1 |        0   |
-| Blagnac                    |         1 |        0   |
-| Carcassonne                |         1 |        0   |
-| Chambery                   |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Chambery                   |         1 |        1   |
+| Carcassonne                |         1 |        0   |
+| Blagnac                    |         1 |        0   |
+| Biarritz Olympique         |         1 |        0   |
+| Beziers                    |         1 |        0   |
 | Colomiers                  |         1 |        1   |
-| Mont-de-Marsan             |         1 |        0   |
-| Montauban                  |         1 |        1   |
-| Oyonnax                    |         1 |        1   |
-| Perpignan                  |         1 |        0   |
-| US Bressane                |         1 |        0   |

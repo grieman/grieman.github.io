@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Peni ROKODUGUNI  
-date: 2023-02-10 10:36:40.825440  
+date: 2023-02-16 11:18:13.149773  
 categories: player  
 ---
 # Peni ROKODUGUNI
 
 ## Positions: W
 
-## Current elo: 74.0
+## Current elo: 76.0
 
-## Current Percentile: 27.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            51 |   0.588235 |
+| Colomiers |            52 |   0.596154 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Beziers            |         5 |   0.8      |
 | Montauban          |         4 |   0        |
-| Beziers            |         4 |   0.75     |
 | Provence Rugby     |         4 |   0.75     |
 | Carcassonne        |         4 |   0.5      |
 | Nevers             |         4 |   0.75     |

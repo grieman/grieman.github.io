@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yann PEYSSON  
-date: 2023-02-10 10:37:23.975088  
+date: 2023-02-16 11:17:44.819816  
 categories: player  
 ---
 # Yann PEYSSON
 
 ## Positions: N8
 
-## Current elo: 77.0
+## Current elo: 79.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            26 |   0.653846 |
+| Colomiers |            27 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Beziers            |         3 |   1        |
 | Provence Rugby     |         3 |   0.666667 |
 | Nevers             |         2 |   0.5      |
 | Soyaux-Angouleme   |         2 |   1        |
-| Beziers            |         2 |   1        |
 | Biarritz Olympique |         2 |   0.5      |
 | Grenoble           |         2 |   1        |
 | Aurillac           |         2 |   0        |

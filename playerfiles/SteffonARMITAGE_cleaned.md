@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffon ARMITAGE  
-date: 2023-02-06 16:01:29.684997  
+date: 2023-02-16 11:18:57.850108  
 categories: player  
 ---
 # Steffon ARMITAGE
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: England
 
-## Current elo: 109.0
+## Current elo: 111.0
 
 ## Current Percentile: 74.0
 
@@ -27,7 +27,7 @@ categories: player
 | London Irish       |           126 |   0.543651 |
 | Biarritz Olympique |            73 |   0.479452 |
 | Pau                |            62 |   0.524194 |
-| Nice               |            12 |   0.291667 |
+| Nice               |            13 |   0.307692 |
 | England            |             5 |   0.8      |
 | Saracens           |             4 |   0.25     |
 
@@ -78,23 +78,23 @@ categories: player
 | Exeter Chiefs              |         3 |   1        |
 | Dax                        |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
-| Bourgoin-Jallieu           |         3 |   0        |
 | Colomiers                  |         3 |   0.666667 |
+| Bourgoin-Jallieu           |         3 |   0        |
 | Ospreys                    |         2 |   1        |
 | Argentina                  |         2 |   0.5      |
 | Aurillac                   |         2 |   1        |
 | Rouen                      |         2 |   1        |
-| Beziers                    |         2 |   0.5      |
+| Albi                       |         2 |   0.5      |
 | Italy                      |         2 |   1        |
 | Glasgow Warriors           |         2 |   1        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
-| Wales                      |         1 |   1        |
+| Beziers                    |         2 |   0.5      |
 | Chambery                   |         1 |   0        |
+| Wales                      |         1 |   1        |
 | Suresnes                   |         1 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Dragons                    |         1 |   1        |
-| Albi                       |         1 |   0.5      |
 | Munster                    |         1 |   1        |
 | Narbonne                   |         1 |   0        |
 | Zebre                      |         1 |   1        |

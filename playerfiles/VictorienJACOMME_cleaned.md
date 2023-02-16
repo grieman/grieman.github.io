@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victorien JACOMME  
-date: 2023-02-10 10:37:56.129277  
+date: 2023-02-16 11:19:42.959977  
 categories: player  
 ---
 # Victorien JACOMME
 
 ## Positions: C
 
-## Current elo: 98.0
+## Current elo: 102.0
 
-## Current Percentile: 59.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            58 |    0.62069 |
+| Massy  |            59 |   0.610169 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Soyaux-Angouleme           |         5 |   0.5      |
 | Tarbes                     |         4 |   0.75     |
 | Chambery                   |         4 |   0.625    |
-| Soyaux-Angouleme           |         4 |   0.625    |
 | Albi                       |         3 |   1        |
 | Aubenas                    |         3 |   1        |
 | Bourgoin-Jallieu           |         3 |   1        |

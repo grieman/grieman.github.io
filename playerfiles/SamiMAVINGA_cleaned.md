@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sami MAVINGA  
-date: 2023-02-06 16:04:33.654307  
+date: 2023-02-16 11:18:44.561700  
 categories: player  
 ---
 # Sami MAVINGA
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -24,22 +24,22 @@ categories: player
 | Lyon                 |            30 |   0.733333 |
 | Stade Francais Paris |            28 |   0.410714 |
 | Newcastle Falcons    |            26 |   0.461538 |
-| Carcassonne          |            13 |   0.576923 |
+| Carcassonne          |            14 |   0.535714 |
 | Perpignan            |            12 |   0.166667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bordeaux Begles      |         6 |   0.5      |
-| Toulon               |         5 |   0.2      |
 | La Rochelle          |         5 |   0.8      |
+| Toulon               |         5 |   0.2      |
 | Lyon                 |         4 |   0        |
+| Aurillac             |         4 |   0.75     |
 | Montpellier Herault  |         4 |   0.375    |
 | Edinburgh            |         4 |   0.25     |
 | Bayonne              |         4 |   0.5      |
 | Wasps                |         3 |   0.333333 |
 | Pau                  |         3 |   0.333333 |
 | Stade Toulousain     |         3 |   0.666667 |
-| Aurillac             |         3 |   1        |
 | Clermont Auvergne    |         3 |   0.333333 |
 | Colomiers            |         3 |   0.333333 |
 | Bristol Rugby        |         3 |   0        |

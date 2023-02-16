@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie DU PLESSIS  
-date: 2023-02-10 10:37:48.703678  
+date: 2023-02-16 11:19:50.855604  
 categories: player  
 ---
 # Willie DU PLESSIS
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 124.0
+## Current elo: 123.0
 
 ## Current Percentile: 93.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            68 |   0.580882 |
-| Mont-de-Marsan      |            38 |   0.736842 |
+| Mont-de-Marsan      |            39 |   0.717949 |
 | Free State Cheetahs |            18 |   0.416667 |
 | Biarritz Olympique  |            16 |   0.5625   |
 | Cheetahs            |            10 |   0.3      |
@@ -43,23 +43,23 @@ categories: player
 | Beziers                |         6 |   0.666667 |
 | Biarritz Olympique     |         6 |   0.5      |
 | Colomiers              |         6 |   0.75     |
-| Brive                  |         5 |   0.4      |
-| Racing 92              |         5 |   0.2      |
-| Grenoble               |         5 |   0.4      |
-| Oyonnax                |         5 |   0.8      |
 | Massy                  |         5 |   0.8      |
+| Grenoble               |         5 |   0.4      |
+| Racing 92              |         5 |   0.2      |
+| Oyonnax                |         5 |   0.8      |
+| Brive                  |         5 |   0.4      |
 | Mont-de-Marsan         |         5 |   0.5      |
 | La Rochelle            |         4 |   0.25     |
 | Griquas                |         4 |   1        |
-| Natal Sharks           |         4 |   0.125    |
-| Rouen                  |         4 |   0.75     |
+| Agen                   |         4 |   0.5      |
 | Narbonne               |         4 |   1        |
-| Perpignan              |         3 |   0        |
-| Agen                   |         3 |   0.666667 |
+| Rouen                  |         4 |   0.75     |
+| Natal Sharks           |         4 |   0.125    |
 | Dax                    |         3 |   0.833333 |
 | Castres Olympique      |         3 |   0.166667 |
 | Soyaux-Angouleme       |         3 |   0.666667 |
 | Stade Francais Paris   |         3 |   0.666667 |
+| Perpignan              |         3 |   0        |
 | Blue Bulls             |         3 |   0.333333 |
 | Bayonne                |         3 |   0.666667 |
 | Pumas                  |         2 |   0        |

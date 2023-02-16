@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Freddie LOCKWOOD  
-date: 2023-01-31 16:07:06.698253  
+date: 2023-02-16 11:19:16.800895  
 categories: player  
 ---
 # Freddie LOCKWOOD
 
-## Positions: FL, N8
+## Positions: N8, FL
 
-## Current elo: 115.0
+## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            14 |   0.428571 |
+| Newcastle Falcons |            16 |     0.4375 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Castres Olympique  |         1 |          1 |
 | Connacht           |         1 |          1 |
 | Exeter Chiefs      |         1 |          1 |
+| Glasgow Warriors   |         1 |          0 |
 | Gloucester Rugby   |         1 |          1 |
 | Harlequins         |         1 |          0 |
 | Leicester Tigers   |         1 |          0 |
@@ -38,3 +39,4 @@ categories: player
 | Northampton Saints |         1 |          0 |
 | Wasps              |         1 |          0 |
 | Worcester Warriors |         1 |          1 |
+| Zebre              |         1 |          1 |

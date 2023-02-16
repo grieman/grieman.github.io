@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rodrigo MARTA  
-date: 2023-02-10 10:36:38.629247  
+date: 2023-02-16 11:18:34.777189  
 categories: player  
 ---
 # Rodrigo MARTA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 105.0
+## Current elo: 111.0
 
-## Current Percentile: 61.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Portugal     |            25 |   0.44     |
+| Portugal     |            26 |   0.461538 |
 | Dax          |            13 |   0.846154 |
 | Lusitanos XV |             6 |   0.833333 |
 
@@ -38,15 +38,16 @@ categories: player
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Castilla y Leon Iberians   |         2 |   1        |
 | Chambery                   |         2 |   1        |
-| Narbonne                   |         1 |   1        |
 | Nice                       |         1 |   1        |
+| Poland                     |         1 |   1        |
 | Albi                       |         1 |   0        |
-| Japan                      |         1 |   0        |
+| Namibia                    |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Tarbes                     |         1 |   1        |
 | Tel-Aviv Heat              |         1 |   1        |
-| Namibia                    |         1 |   0        |
+| Narbonne                   |         1 |   1        |
 | Hong Kong                  |         1 |   1        |
+| Japan                      |         1 |   0        |
 | Italy                      |         1 |   0        |
 | Argentina                  |         1 |   0        |
 | Germany                    |         1 |   1        |

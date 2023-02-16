@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibaud DRéAN  
-date: 2023-02-06 16:01:55.989019  
+date: 2023-02-16 11:18:00.259762  
 categories: player  
 ---
 # Thibaud DRéAN
 
 ## Positions: P
 
-## Current elo: 76.0
+## Current elo: 78.0
 
 ## Current Percentile: 8.0
 
@@ -21,36 +21,36 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            78 |   0.487179 |
+| Dax         |            79 |   0.493671 |
 | Carcassonne |            15 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         6 |   0.166667 |
-| Soyaux-Angouleme           |         5 |   0.6      |
 | Aurillac                   |         5 |   0.4      |
 | Blagnac                    |         5 |   0.6      |
 | Bourgoin-Jallieu           |         5 |   0.6      |
-| Colomiers                  |         4 |   0.25     |
-| Beziers                    |         4 |   0.25     |
+| Soyaux-Angouleme           |         5 |   0.6      |
 | Narbonne                   |         4 |   0.75     |
+| Beziers                    |         4 |   0.25     |
 | Tarbes                     |         4 |   0.75     |
+| Colomiers                  |         4 |   0.25     |
 | Vannes                     |         3 |   0.666667 |
+| Dijon                      |         3 |   1        |
+| Nice                       |         3 |   1        |
+| Montauban                  |         3 |   0        |
 | Massy                      |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.666667 |
-| Dijon                      |         3 |   1        |
-| Carcassonne                |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
-| Nice                       |         3 |   1        |
+| Carcassonne                |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
-| Montauban                  |         3 |   0        |
-| Nevers                     |         2 |   0.5      |
-| Oyonnax                    |         2 |   0        |
-| Perpignan                  |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   0.5      |
 | US Bressane                |         2 |   1        |
 | Biarritz Olympique         |         2 |   0        |
 | Bayonne                    |         2 |   0.5      |
+| Nevers                     |         2 |   0.5      |
+| Oyonnax                    |         2 |   0        |
+| Perpignan                  |         2 |   0        |
 | Provence Rugby             |         2 |   0.5      |
 | Rennes                     |         1 |   1        |
 | Agen                       |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Willem Johannes HARMSE  
-date: 2023-02-06 16:01:34.573516  
+date: 2023-02-16 11:19:25.448356  
 categories: player  
 ---
 # Willem Johannes HARMSE
 
 ## Positions: P
 
-## Current elo: 82.0
+## Current elo: 86.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            85 |   0.511765 |
+| US Bressane |            86 |   0.517442 |
 | Narbonne    |            43 |   0.430233 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,19 +29,19 @@ categories: player
 | Aurillac                   |         7 |   0.428571 |
 | Tarbes                     |         7 |   0.285714 |
 | Carcassonne                |         7 |   0.571429 |
+| Oyonnax                    |         6 |   0.333333 |
 | Dax                        |         6 |   0.5      |
 | Beziers                    |         6 |   0.5      |
-| Oyonnax                    |         6 |   0.333333 |
-| Provence Rugby             |         5 |   0.4      |
-| Massy                      |         5 |   0.8      |
-| Auch                       |         5 |   0.3      |
-| Narbonne                   |         5 |   0.4      |
-| Colomiers                  |         5 |   0.4      |
 | Albi                       |         5 |   0.6      |
-| Pau                        |         4 |   0        |
-| Mont-de-Marsan             |         4 |   0.25     |
+| Massy                      |         5 |   0.8      |
+| Colomiers                  |         5 |   0.4      |
+| Narbonne                   |         5 |   0.4      |
+| Provence Rugby             |         5 |   0.4      |
+| Auch                       |         5 |   0.3      |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Montauban                  |         4 |   0.375    |
+| Mont-de-Marsan             |         4 |   0.25     |
+| Pau                        |         4 |   0        |
 | Nevers                     |         3 |   0.333333 |
 | Lyon                       |         3 |   0.333333 |
 | Agen                       |         3 |   0.666667 |
@@ -51,13 +51,13 @@ categories: player
 | Bayonne                    |         3 |   0        |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Périgueux                  |         2 |   0.5      |
+| Rennes                     |         2 |   1        |
 | Suresnes                   |         2 |   1        |
 | La Rochelle                |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
 | Dijon                      |         2 |   1        |
 | Vannes                     |         2 |   0.25     |
-| Rennes                     |         1 |   1        |
 | Rouen                      |         1 |   0.5      |
 | Soyaux-Angouleme           |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |

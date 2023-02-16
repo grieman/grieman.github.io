@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vicente DEL HOYO  
-date: 2023-02-10 10:36:55.429064  
+date: 2023-02-16 11:17:43.090497  
 categories: player  
 ---
 # Vicente DEL HOYO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 88.0
+## Current elo: 93.0
 
-## Current Percentile: 87.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Spain  |            21 |   0.571429 |
+| Spain  |            22 |   0.590909 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
@@ -36,6 +36,7 @@ categories: player
 | Brazil      |         1 |   1        |
 | Canada      |         1 |   1        |
 | Chile       |         1 |   1        |
+| Germany     |         1 |   1        |
 | Hong Kong   |         1 |   1        |
 | Namibia     |         1 |   1        |
 | Russia      |         1 |   1        |

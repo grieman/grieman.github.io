@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo CASTINEL  
-date: 2023-02-06 16:02:56.474174  
+date: 2023-02-16 11:18:56.635551  
 categories: player  
 ---
 # Théo CASTINEL
 
 ## Positions: P
 
-## Current elo: 120.0
+## Current elo: 121.0
 
-## Current Percentile: 97.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |            60 |   0.475    |
-| Narbonne       |            23 |   0.434783 |
+| Narbonne       |            24 |   0.416667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,9 +39,9 @@ categories: player
 | Carcassonne                |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Biarritz Olympique         |         3 |   0.5      |
+| Valence Romans Drome Rugby |         3 |   0.166667 |
 | Suresnes                   |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
-| Valence Romans Drome Rugby |         2 |   0.25     |
 | Nice                       |         2 |   1        |
 | Agen                       |         2 |   0        |
 | Albi                       |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yoann LAOUSSE AZPIAZU  
-date: 2023-02-10 10:36:19.048469  
+date: 2023-02-16 11:19:17.992799  
 categories: player  
 ---
 # Yoann LAOUSSE AZPIAZU
 
 ## Positions: FB
 
-## Current elo: 131.0
+## Current elo: 125.0
 
-## Current Percentile: 96.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |           177 |   0.579096 |
+| Mont-de-Marsan |           178 |   0.575843 |
 | Dax            |            69 |   0.362319 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -40,20 +40,20 @@ categories: player
 | Nevers                     |         8 |   0.5      |
 | Massy                      |         8 |   0.5625   |
 | Bayonne                    |         8 |   0.6875   |
-| Albi                       |         7 |   0.571429 |
 | Grenoble                   |         7 |   0.428571 |
 | Soyaux-Angouleme           |         7 |   0.428571 |
+| Agen                       |         7 |   0.142857 |
+| Albi                       |         7 |   0.571429 |
 | Bourgoin-Jallieu           |         6 |   0.583333 |
-| US Bressane                |         6 |   0.666667 |
 | Tarbes                     |         6 |   0.5      |
-| Agen                       |         6 |   0.166667 |
-| Rouen                      |         5 |   0.8      |
+| US Bressane                |         6 |   0.666667 |
 | Dax                        |         5 |   0.8      |
+| Rouen                      |         5 |   0.8      |
 | Pau                        |         4 |   0.5      |
 | Lyon                       |         4 |   0        |
 | La Rochelle                |         4 |   0.25     |
-| Auch                       |         2 |   1        |
-| Brive                      |         2 |   1        |
 | Mont-de-Marsan             |         2 |   0        |
+| Brive                      |         2 |   1        |
+| Auch                       |         2 |   1        |
 | Roval Drome XV             |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |

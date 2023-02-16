@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sekou MACALOU  
-date: 2023-02-10 10:37:26.235324  
+date: 2023-02-16 11:18:41.306465  
 categories: player  
 ---
 # Sekou MACALOU
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 114.0
+## Current elo: 118.0
 
 ## Current Percentile: 87.0
 
@@ -25,7 +25,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           133 |   0.515038 |
 | Massy                |            14 |   0.285714 |
-| France               |            12 |   0.791667 |
+| France               |            13 |   0.730769 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,39 +33,40 @@ categories: player
 | Racing 92           |        12 |   0.333333 |
 | Castres Olympique   |        11 |   0.636364 |
 | Pau                 |        10 |   0.8      |
-| Toulon              |         9 |   0.333333 |
 | La Rochelle         |         9 |   0.666667 |
+| Toulon              |         9 |   0.333333 |
 | Agen                |         8 |   0.5      |
-| Perpignan           |         7 |   0.714286 |
-| Bordeaux Begles     |         7 |   0.428571 |
-| Montpellier Herault |         7 |   0.5      |
 | Lyon                |         7 |   0.285714 |
+| Perpignan           |         7 |   0.714286 |
+| Montpellier Herault |         7 |   0.5      |
 | Clermont Auvergne   |         7 |   0.285714 |
+| Bordeaux Begles     |         7 |   0.428571 |
 | Brive               |         6 |   0.5      |
 | Bayonne             |         5 |   0.8      |
 | Edinburgh           |         4 |   0.5      |
 | Japan               |         4 |   0.875    |
-| Australia           |         3 |   0.666667 |
-| Biarritz Olympique  |         3 |   0.333333 |
 | Grenoble            |         3 |   0.333333 |
+| Biarritz Olympique  |         3 |   0.333333 |
+| Australia           |         3 |   0.666667 |
 | Tarbes              |         2 |   0.5      |
+| Oyonnax             |         2 |   0        |
 | Mont-de-Marsan      |         2 |   0.5      |
 | Munster             |         2 |   0.5      |
-| Oyonnax             |         2 |   0        |
-| Georgia             |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
-| Worcester Warriors  |         1 |   0        |
 | Timisoara Saracens  |         1 |   1        |
-| Benetton Treviso    |         1 |   0        |
 | South Africa        |         1 |   1        |
-| Beziers             |         1 |   1        |
+| Worcester Warriors  |         1 |   0        |
 | New Zealand         |         1 |   0        |
-| Carcassonne         |         1 |   1        |
-| Montauban           |         1 |   0        |
-| Cardiff Blues       |         1 |   1        |
-| London Irish        |         1 |   1        |
-| Colomiers           |         1 |   0        |
-| Argentina           |         1 |   1        |
 | Italy               |         1 |   1        |
+| Montauban           |         1 |   0        |
+| London Irish        |         1 |   1        |
+| Argentina           |         1 |   1        |
+| Ireland             |         1 |   0        |
 | Harlequins          |         1 |   0        |
+| Georgia             |         1 |   1        |
+| Colomiers           |         1 |   0        |
+| Cardiff Blues       |         1 |   1        |
+| Carcassonne         |         1 |   1        |
+| Bristol Rugby       |         1 |   0        |
+| Beziers             |         1 |   1        |
+| Benetton Treviso    |         1 |   0        |
 | Zebre               |         1 |   1        |

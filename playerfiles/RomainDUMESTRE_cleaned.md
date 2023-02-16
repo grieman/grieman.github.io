@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain DUMESTRE  
-date: 2023-02-06 16:04:03.445547  
+date: 2023-02-16 11:19:08.120812  
 categories: player  
 ---
 # Romain DUMESTRE
@@ -21,16 +21,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            71 |   0.492958 |
+| Tarbes |            72 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         6 |   0.666667 |
 | Dax                        |         6 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   0.75     |
+| Massy                      |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.875    |
 | Albi                       |         4 |   0.25     |
-| Massy                      |         4 |   0.25     |
 | Grenoble                   |         3 |   0        |
 | Chambery                   |         3 |   0        |
 | Colomiers                  |         3 |   0.166667 |
@@ -47,6 +47,7 @@ categories: player
 | Aurillac                   |         2 |   0.5      |
 | Auch                       |         2 |   0.5      |
 | Aubenas                    |         2 |   0.5      |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Blagnac                    |         1 |   1        |
 | Pau                        |         1 |   0        |
 | Provence Rugby             |         1 |   1        |

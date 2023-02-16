@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Robin GASCOU  
-date: 2023-02-06 16:02:12.293662  
+date: 2023-02-16 11:18:43.632740  
 categories: player  
 ---
 # Robin GASCOU
 
 ## Positions: L, N8
 
-## Current elo: 83.0
+## Current elo: 85.0
 
 ## Current Percentile: 17.0
 
@@ -22,8 +22,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Nevers           |            13 |   0.269231 |
+| Bourgoin-Jallieu |            10 |   0.45     |
 | Chambery         |            10 |   0.4      |
-| Bourgoin-Jallieu |             9 |   0.388889 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,11 +31,11 @@ categories: player
 | Valence Romans Drome Rugby |         2 |       0.25 |
 | Tarbes                     |         2 |       0    |
 | Carcassonne                |         2 |       0    |
+| Suresnes                   |         2 |       0.5  |
 | Dax                        |         2 |       0.5  |
 | Montauban                  |         2 |       0.5  |
 | Narbonne                   |         1 |       1    |
 | US Bressane                |         1 |       0    |
-| Suresnes                   |         1 |       0    |
 | Soyaux-Angouleme           |         1 |       1    |
 | Rouen                      |         1 |       0    |
 | Provence Rugby             |         1 |       1    |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo LEPAGE  
-date: 2023-01-31 16:08:21.910781  
+date: 2023-02-16 11:17:42.044268  
 categories: player  
 ---
 # Théo LEPAGE
 
 ## Positions: N8, FL
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 48.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,22 +21,22 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            19 |   0.394737 |
+| Bourgoin-Jallieu |            20 |   0.425    |
 | Chambery         |             9 |   0.555556 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         4 |       0.25 |
-| Nice                       |         4 |       0.25 |
-| Tarbes                     |         4 |       0.5  |
-| Aubenas                    |         2 |       0.5  |
-| Chambery                   |         2 |       0.5  |
-| Dijon                      |         2 |       1    |
-| Massy                      |         2 |       0.5  |
-| Suresnes                   |         2 |       0.5  |
-| Blagnac                    |         1 |       1    |
-| Bourgoin-Jallieu           |         1 |       0    |
-| Dax                        |         1 |       1    |
-| Narbonne                   |         1 |       0    |
-| US Bressane                |         1 |       0    |
-| Valence Romans Drome Rugby |         1 |       0.5  |
+| Albi                       |         4 |   0.25     |
+| Nice                       |         4 |   0.25     |
+| Tarbes                     |         4 |   0.5      |
+| Suresnes                   |         3 |   0.666667 |
+| Aubenas                    |         2 |   0.5      |
+| Chambery                   |         2 |   0.5      |
+| Dijon                      |         2 |   1        |
+| Massy                      |         2 |   0.5      |
+| Blagnac                    |         1 |   1        |
+| Bourgoin-Jallieu           |         1 |   0        |
+| Dax                        |         1 |   1        |
+| Narbonne                   |         1 |   0        |
+| US Bressane                |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   0.5      |

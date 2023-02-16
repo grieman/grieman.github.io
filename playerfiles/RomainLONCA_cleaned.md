@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain LONCA  
-date: 2023-02-10 10:36:24.811003  
+date: 2023-02-16 11:19:01.062870  
 categories: player  
 ---
 # Romain LONCA
 
 ## Positions: FB, C
 
-## Current elo: 121.0
+## Current elo: 117.0
 
-## Current Percentile: 93.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Bordeaux Begles    |            82 |   0.506098 |
-| Biarritz Olympique |            38 |   0.473684 |
+| Biarritz Olympique |            39 |   0.461538 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,13 +36,13 @@ categories: player
 | Stade Toulousain     |         5 |   0.3      |
 | Brive                |         5 |   0.4      |
 | Pau                  |         5 |   0.8      |
+| Oyonnax              |         4 |   0.5      |
 | Perpignan            |         4 |   0        |
 | Vannes               |         4 |   0.75     |
 | Bayonne              |         4 |   0.375    |
 | Castres Olympique    |         4 |   0.25     |
 | Racing 92            |         4 |   0.75     |
 | Agen                 |         3 |   1        |
-| Oyonnax              |         3 |   0.666667 |
 | Exeter Chiefs        |         3 |   0.333333 |
 | Dragons              |         3 |   0.666667 |
 | Soyaux-Angouleme     |         2 |   1        |

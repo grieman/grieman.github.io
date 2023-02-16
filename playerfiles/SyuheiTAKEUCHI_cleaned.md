@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-01-23 15:33:35.495509  
+date: 2023-02-16 11:19:33.416342  
 categories: player  
 ---
 # Syuhei TAKEUCHI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 90.0
+## Current elo: 96.0
 
-## Current Percentile: 16.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Urayasu D-Rocks |            15 |        0.4 |
-| Japan           |             1 |        1   |
+| Urayasu D-Rocks |            17 |   0.411765 |
+| Japan           |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -33,6 +33,8 @@ categories: player
 | Saitama Wild Knights              |         2 |        0   |
 | Black Rams Tokyo                  |         1 |        1   |
 | Green Rockets Tokatsu             |         1 |        1   |
+| Kamaishi Seawaves                 |         1 |        1   |
+| Mitsubishi Dynaboars              |         1 |        0   |
 | Shimizu Blue Sharks               |         1 |        1   |
 | Shizuoka Blue Revs                |         1 |        0   |
 | Tokyo Sungoliath                  |         1 |        0   |

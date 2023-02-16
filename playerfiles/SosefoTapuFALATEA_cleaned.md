@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sosefo Tapu FALATEA  
-date: 2023-02-06 16:02:05.644989  
+date: 2023-02-16 11:18:38.747571  
 categories: player  
 ---
 # Sosefo Tapu FALATEA
 
 ## Positions: P
 
-## Current elo: 78.0
+## Current elo: 82.0
 
 ## Current Percentile: 8.0
 
@@ -25,7 +25,7 @@ categories: player
 | Narbonne          |            44 |   0.340909 |
 | Agen              |            24 |   0.145833 |
 | Castres Olympique |            15 |   0.333333 |
-| Nevers            |             6 |   0.583333 |
+| Nevers            |             7 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -50,17 +50,18 @@ categories: player
 | Colomiers            |         4 |   0        |
 | Nevers               |         3 |   0.333333 |
 | Racing 92            |         3 |   0.333333 |
-| Massy                |         3 |   0.666667 |
 | Lyon                 |         3 |   0        |
+| Massy                |         3 |   0.666667 |
 | Clermont Auvergne    |         2 |   0.5      |
 | Oyonnax              |         2 |   0        |
 | Castres Olympique    |         2 |   0        |
+| Grenoble             |         2 |   0.25     |
 | Gloucester Rugby     |         2 |   0.5      |
 | Tarbes               |         2 |   0        |
 | Toulon               |         2 |   0        |
 | US Bressane          |         2 |   1        |
-| Grenoble             |         2 |   0.25     |
 | Montpellier Herault  |         1 |   0        |
+| Provence Rugby       |         1 |   0        |
 | Auch                 |         1 |   0.5      |
 | Stade Francais Paris |         1 |   0        |
 | Stade Toulousain     |         1 |   0        |

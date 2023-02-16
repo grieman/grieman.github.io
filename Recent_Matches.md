@@ -79,20 +79,22 @@ Last Round Error: 12.23 points per match
 [2023-02-10 Montauban at Vannes; 37-40](reviews//2023-02-10-Vannes-Montauban)
 
 [2023-02-10 Mont-de-Marsan at Agen; 19-41](reviews//2023-02-10-Agen-Mont-de-Marsan)
-## Top 14 Orange
-
-
-Competition Accuracy: 82 of 119 (68.91%)
-
-Competition Error: 10.63 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 19.02 points per match
-
-[2023-02-05 Bordeaux Begles at Stade Francais Paris; 6-12](reviews//2023-02-05-StadeFrancaisParis-BordeauxBegles)
 # Domestic Leagues
 
+## Japan Rugby League One Division 3
+
+
+Competition Accuracy: 12 of 14 (85.71%)
+
+Competition Error: 13.87 points per match
+
+Last Round Accuracy: 2 of 3 (66.67%)
+
+Last Round Error: 11.97 points per match
+
+[2023-02-12 Kyuden Voltex at Kurita Water Gush; 33-26](reviews//2023-02-12-KuritaWaterGush-KyudenVoltex)
+
+[2023-02-12 Chugoku Red Regulions at NTT Docomo Red Hurricanes Osaka; 14-59](reviews//2023-02-12-NTTDocomoRedHurricanesOsaka-ChugokuRedRegulions)
 ## Nationale
 
 

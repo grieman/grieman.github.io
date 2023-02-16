@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sikeli NABOU  
-date: 2023-02-10 10:37:35.691521  
+date: 2023-02-16 11:18:14.150846  
 categories: player  
 ---
 # Sikeli NABOU
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 112.0
+## Current elo: 111.0
 
 ## Current Percentile: 82.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Soyaux-Angouleme   |            70 |   0.492857 |
+| Soyaux-Angouleme   |            71 |   0.5      |
 | Biarritz Olympique |            64 |   0.515625 |
 | Counties Manukau   |            43 |   0.395349 |
 | Fiji               |             4 |   0.5      |
@@ -33,22 +33,22 @@ categories: player
 | Vannes                     |         8 |   0.375    |
 | Grenoble                   |         7 |   0.285714 |
 | Mont-de-Marsan             |         7 |   0.571429 |
-| Beziers                    |         7 |   0.714286 |
 | Montauban                  |         7 |   0.428571 |
 | Nevers                     |         7 |   0.214286 |
-| Aurillac                   |         6 |   0.5      |
-| Valence Romans Drome Rugby |         6 |   0.75     |
+| Beziers                    |         7 |   0.714286 |
+| Perpignan                  |         6 |   0.333333 |
 | Colomiers                  |         6 |   0.333333 |
 | Oyonnax                    |         6 |   0.333333 |
-| Perpignan                  |         6 |   0.333333 |
+| Massy                      |         6 |   0.833333 |
+| Valence Romans Drome Rugby |         6 |   0.75     |
+| Aurillac                   |         6 |   0.5      |
 | Canterbury                 |         5 |   0        |
-| Dax                        |         5 |   0.6      |
-| Massy                      |         5 |   0.8      |
 | Soyaux-Angouleme           |         5 |   0.6      |
+| Dax                        |         5 |   0.6      |
 | Auckland                   |         5 |   0.2      |
 | Rouen                      |         5 |   0.2      |
-| Provence Rugby             |         4 |   0.25     |
 | Hawke's Bay                |         4 |   0.5      |
+| Provence Rugby             |         4 |   0.25     |
 | Southland                  |         4 |   0.75     |
 | Tasman                     |         4 |   0.5      |
 | Agen                       |         4 |   0.5      |

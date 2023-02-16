@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alexis Clément  
-date: 2023-02-06 16:04:42.305601  
+date: 2023-02-16 11:17:50.588397  
 categories: player  
 ---
 # Alexis Clément
 
 ## Positions: W
 
-## Current elo: 75.0
+## Current elo: 72.0
 
-## Current Percentile: 50.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Aubenas  |            23 |   0.326087 |
-| Suresnes |            17 |   0.470588 |
+| Suresnes |            18 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Bourgoin-Jallieu           |         4 |   0.5      |
 | Nice                       |         4 |   0        |
 | Albi                       |         3 |   0.333333 |
 | Blagnac                    |         3 |   0        |
-| Bourgoin-Jallieu           |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Dax                        |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |

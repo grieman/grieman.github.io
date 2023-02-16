@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault TAULEIGNE  
-date: 2023-02-05 17:55:17.965802  
+date: 2023-02-16 11:17:39.959183  
 categories: player  
 ---
 # Thibault TAULEIGNE
@@ -22,13 +22,13 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Oyonnax        |            25 |   0.58     |
-| Mont-de-Marsan |            11 |   0.636364 |
+| Mont-de-Marsan |            12 |   0.583333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Montauban                  |         4 |   0.375    |
-| Aurillac                   |         3 |   0.666667 |
 | Nevers                     |         3 |   1        |
+| Aurillac                   |         3 |   0.666667 |
 | Provence Rugby             |         3 |   0.333333 |
 | Carcassonne                |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
@@ -40,13 +40,14 @@ categories: player
 | Toulon                     |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |
 | Rouen                      |         1 |   0        |
-| Oyonnax                    |         1 |   1        |
+| Agen                       |         1 |   0        |
 | Pau                        |         1 |   0        |
-| Bayonne                    |         1 |   0        |
+| Oyonnax                    |         1 |   1        |
 | Massy                      |         1 |   1        |
 | La Rochelle                |         1 |   0.5      |
 | Connacht                   |         1 |   0        |
 | Colomiers                  |         1 |   1        |
 | Brive                      |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
+| Bayonne                    |         1 |   0        |
 | Worcester Warriors         |         1 |   1        |

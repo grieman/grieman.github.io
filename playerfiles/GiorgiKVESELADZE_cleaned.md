@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi KVESELADZE  
-date: 2023-01-31 16:06:50.588714  
+date: 2023-02-16 11:18:20.937988  
 categories: player  
 ---
 # Giorgi KVESELADZE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 107.0
+## Current elo: 100.0
 
-## Current Percentile: 74.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Georgia          |            37 |   0.689189 |
-| Gloucester Rugby |            20 |   0.55     |
+| Georgia          |            38 |   0.697368 |
+| Gloucester Rugby |            21 |   0.52381  |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -32,24 +32,25 @@ categories: player
 | Spain                    |         4 |   1        |
 | Russia                   |         3 |   1        |
 | Bristol Rugby            |         3 |   0.333333 |
-| Italy                    |         3 |   0.333333 |
 | London Irish             |         3 |   0.666667 |
-| Portugal                 |         2 |   1        |
-| Saracens                 |         2 |   0.5      |
+| Italy                    |         3 |   0.333333 |
 | Northampton Saints       |         2 |   0.5      |
-| Belgium                  |         2 |   1        |
-| Uruguay                  |         2 |   1        |
-| Exeter Chiefs            |         2 |   0.5      |
-| Fiji                     |         2 |   0.25     |
+| Netherlands              |         2 |   1        |
+| Saracens                 |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
-| Samoa                    |         1 |   1        |
-| Argentina                |         1 |   0        |
-| South Africa             |         1 |   0        |
+| Portugal                 |         2 |   1        |
+| Fiji                     |         2 |   0.25     |
+| Exeter Chiefs            |         2 |   0.5      |
+| Uruguay                  |         2 |   1        |
+| Belgium                  |         2 |   1        |
+| Tonga                    |         1 |   1        |
 | United States of America |         1 |   1        |
+| South Africa             |         1 |   0        |
+| Samoa                    |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Wasps                    |         1 |   1        |
-| Tonga                    |         1 |   1        |
-| Netherlands              |         1 |   1        |
+| Argentina                |         1 |   0        |
+| Lyon                     |         1 |   0        |
 | Newcastle Falcons        |         1 |   1        |
 | Australia                |         1 |   0        |
 | Leinster                 |         1 |   0        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Yohann GBIZIE  
-date: 2023-02-10 10:36:58.945358  
+date: 2023-02-16 11:17:58.257494  
 categories: player  
 ---
 # Yohann GBIZIE
 
 ## Positions: N8, FL
 
-## Current elo: 92.0
+## Current elo: 94.0
 
 ## Current Percentile: 43.0
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Massy       |            40 |      0.675 |
-| Carcassonne |             3 |      0     |
+| Massy       |            41 |   0.658537 |
+| Carcassonne |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Soyaux-Angouleme           |         4 |   0.5      |
+| Soyaux-Angouleme           |         5 |   0.4      |
 | Nice                       |         3 |   0.333333 |
 | Aubenas                    |         3 |   1        |
 | Blagnac                    |         3 |   0.666667 |

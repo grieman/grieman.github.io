@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre REYNAUD  
-date: 2023-02-10 10:36:25.834600  
+date: 2023-02-16 11:19:40.806140  
 categories: player  
 ---
 # Pierre REYNAUD
 
 ## Positions: FL, N8
 
-## Current elo: 111.0
+## Current elo: 117.0
 
-## Current Percentile: 68.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Perpignan   |            25 |   0.3      |
-| Carcassonne |            19 |   0.578947 |
+| Perpignan   |            25 |       0.3  |
+| Carcassonne |            20 |       0.55 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Aurillac                   |         4 |   0.375    |
 | Nevers                     |         4 |   0.5      |
-| Aurillac                   |         3 |   0.5      |
 | Grenoble                   |         3 |   0.5      |
 | Rouen                      |         3 |   0.666667 |
 | Oyonnax                    |         2 |   0.5      |

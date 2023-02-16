@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin VERMEERSCH  
-date: 2023-02-10 10:37:34.628939  
+date: 2023-02-16 11:18:58.968024  
 categories: player  
 ---
 # Robin VERMEERSCH
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 66.0
+## Current elo: 54.0
 
 ## Current Percentile: 2.0
 
@@ -24,11 +24,12 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Brussels Devils |            12 |   0.166667 |
-| Belgium         |             1 |   0        |
+| Belgium         |             3 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Castilla y Leon Iberians |         4 |        0   |
 | Delta                    |         4 |        0.5 |
 | Lusitanos XV             |         4 |        0   |
+| Romania                  |         2 |        0   |
 | Portugal                 |         1 |        0   |
