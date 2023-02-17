@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre PAGèS  
-date: 2023-02-16 11:18:59.976531  
+date: 2023-02-16 16:41:17.195967  
 categories: player  
 ---
 # Pierre PAGèS

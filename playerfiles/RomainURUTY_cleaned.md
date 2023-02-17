@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain URUTY  
-date: 2023-02-16 11:17:48.402082  
+date: 2023-02-16 16:39:07.387740  
 categories: player  
 ---
 # Romain URUTY

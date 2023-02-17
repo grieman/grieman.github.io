@@ -272,7 +272,6 @@ with open('../Rugby_ELO/processed_data/teamlist.pickle', 'rb') as handle:
 with open('../Rugby_ELO/processed_data/clubbase.pickle', 'rb') as handle:
     clubbase = pickle.load(handle)
 
-
 ## LOAD DATA
 club_histories = pd.concat([x.return_history() for x in clubbase.values()])
 #club_histories = club_histories[(~club_histories.Outcome.isna())]

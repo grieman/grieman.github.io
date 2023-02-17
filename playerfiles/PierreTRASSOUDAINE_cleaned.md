@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre TRASSOUDAINE  
-date: 2023-02-16 11:19:44.714769  
+date: 2023-02-16 16:41:21.713351  
 categories: player  
 ---
 # Pierre TRASSOUDAINE
