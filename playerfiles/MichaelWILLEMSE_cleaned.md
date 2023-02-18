@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael WILLEMSE  
-date: 2023-02-08 11:09:56.914187  
+date: 2023-02-17 14:40:33.638730  
 categories: player  
 ---
 # Michael WILLEMSE
 
 ## Positions: H
 
-## Current elo: 80.0
+## Current elo: 82.0
 
-## Current Percentile: 7.0
+## Current Percentile: 12.0
 
 # Elo History
 

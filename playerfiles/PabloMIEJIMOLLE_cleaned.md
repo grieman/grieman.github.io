@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pablo MIEJIMOLLE  
-date: 2023-02-16 16:41:23.282223  
+date: 2023-02-17 14:43:42.030500  
 categories: player  
 ---
 # Pablo MIEJIMOLLE
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 69.0
+## Current Percentile: 68.0
 
 # Elo History
 

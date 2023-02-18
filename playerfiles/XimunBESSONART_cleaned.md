@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ximun BESSONART  
-date: 2023-02-16 16:41:01.324620  
+date: 2023-02-17 14:41:15.931091  
 categories: player  
 ---
 # Ximun BESSONART
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 42.0
+## Current Percentile: 49.0
 
 # Elo History
 

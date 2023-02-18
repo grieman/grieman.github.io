@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen VARNEY  
-date: 2023-02-16 16:40:22.429804  
+date: 2023-02-17 14:40:46.570350  
 categories: player  
 ---
 # Stephen VARNEY
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 74.0
+## Current elo: 73.0
 
 ## Current Percentile: 10.0
 

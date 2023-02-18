@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thierry FUTEU YOUTCHEU  
-date: 2023-02-16 16:39:13.430599  
+date: 2023-02-17 14:43:11.237425  
 categories: player  
 ---
 # Thierry FUTEU YOUTCHEU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 70.0
+## Current elo: 71.0
 
-## Current Percentile: 4.0
+## Current Percentile: 11.0
 
 # Elo History
 

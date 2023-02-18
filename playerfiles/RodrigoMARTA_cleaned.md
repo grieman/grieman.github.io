@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rodrigo MARTA  
-date: 2023-02-16 16:40:53.967762  
+date: 2023-02-17 14:39:15.621985  
 categories: player  
 ---
 # Rodrigo MARTA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 72.0
+## Current Percentile: 70.0
 
 # Elo History
 

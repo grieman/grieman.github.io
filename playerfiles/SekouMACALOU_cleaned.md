@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sekou MACALOU  
-date: 2023-02-16 16:41:54.765822  
+date: 2023-02-17 14:40:08.335723  
 categories: player  
 ---
 # Sekou MACALOU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 

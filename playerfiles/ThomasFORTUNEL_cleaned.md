@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas FORTUNEL  
-date: 2023-02-16 16:39:16.624523  
+date: 2023-02-17 14:41:12.481018  
 categories: player  
 ---
 # Thomas FORTUNEL
 
 ## Positions: FH
 
-## Current elo: 89.0
+## Current elo: 94.0
 
-## Current Percentile: 18.0
+## Current Percentile: 33.0
 
 # Elo History
 

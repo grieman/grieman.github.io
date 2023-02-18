@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel MARQUES  
-date: 2023-02-16 16:40:39.269822  
+date: 2023-02-17 14:43:23.358588  
 categories: player  
 ---
 # Samuel MARQUES
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 135.0
+## Current elo: 136.0
 
 ## Current Percentile: 96.0
 

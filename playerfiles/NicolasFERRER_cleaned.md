@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas FERRER  
-date: 2023-02-16 16:40:31.463031  
+date: 2023-02-17 14:41:19.710728  
 categories: player  
 ---
 # Nicolas FERRER
 
 ## Positions: P
 
-## Current elo: 108.0
+## Current elo: 111.0
 
-## Current Percentile: 83.0
+## Current Percentile: 87.0
 
 # Elo History
 

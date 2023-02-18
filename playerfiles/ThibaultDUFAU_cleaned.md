@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault DUFAU  
-date: 2023-02-16 16:39:18.221730  
+date: 2023-02-17 14:39:03.932706  
 categories: player  
 ---
 # Thibault DUFAU
 
 ## Positions: SH
 
-## Current elo: 119.0
+## Current elo: 113.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 

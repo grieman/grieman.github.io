@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin GASCOU  
-date: 2023-02-16 16:39:22.890435  
+date: 2023-02-17 14:39:34.623229  
 categories: player  
 ---
 # Robin GASCOU
 
 ## Positions: L, N8
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 

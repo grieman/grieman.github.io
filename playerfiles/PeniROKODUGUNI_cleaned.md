@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Peni ROKODUGUNI  
-date: 2023-02-16 16:40:49.593747  
+date: 2023-02-17 14:41:28.102448  
 categories: player  
 ---
 # Peni ROKODUGUNI
 
 ## Positions: W
 
-## Current elo: 76.0
+## Current elo: 67.0
 
-## Current Percentile: 8.0
+## Current Percentile: 5.0
 
 # Elo History
 

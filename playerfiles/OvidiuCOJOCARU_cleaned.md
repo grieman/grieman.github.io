@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ovidiu COJOCARU  
-date: 2023-02-16 16:42:19.105893  
+date: 2023-02-17 14:42:57.974071  
 categories: player  
 ---
 # Ovidiu COJOCARU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 82.0
+## Current elo: 79.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 

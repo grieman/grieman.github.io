@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan GENDRE  
-date: 2023-02-16 16:39:50.999065  
+date: 2023-02-17 14:39:50.122302  
 categories: player  
 ---
 # Nathan GENDRE
 
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 101.0
 
-## Current Percentile: 62.0
+## Current Percentile: 53.0
 
 # Elo History
 

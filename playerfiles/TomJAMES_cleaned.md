@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom James  
-date: 2023-02-06 16:01:52.866541  
+date: 2023-02-17 14:43:14.257355  
 categories: player  
 ---
 # Tom James
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 64.0
+## Current Percentile: 66.0
 
 # Elo History
 

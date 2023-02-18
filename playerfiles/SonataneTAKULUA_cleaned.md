@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sonatane TAKULUA  
-date: 2023-02-16 16:39:45.209594  
+date: 2023-02-17 14:40:06.105925  
 categories: player  
 ---
 # Sonatane TAKULUA
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 92.0
+## Current elo: 93.0
 
 ## Current Percentile: 36.0
 

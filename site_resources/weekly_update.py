@@ -125,7 +125,7 @@ def fill_matches(directory_df, md_file):
                 md_file.new_paragraph(row[0])
 
     if dir_pro.shape[0] > 0:
-        md_file.new_header(level = 1, title = 'Professional Leagues')
+        md_file.new_header(level = 1, title = 'Top Flight Leagues')
         for comp in sorted(dir_pro.comps.unique()):
             md_file.new_header(level = 2, title = comp[:-5])
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)

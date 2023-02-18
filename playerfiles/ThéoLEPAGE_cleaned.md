@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo LEPAGE  
-date: 2023-02-16 16:41:20.080094  
+date: 2023-02-17 14:42:09.960753  
 categories: player  
 ---
 # Théo LEPAGE
 
 ## Positions: N8, FL
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 45.0
+## Current Percentile: 47.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Joubert DU TOIT  
-date: 2023-02-16 16:39:19.732943  
+date: 2023-02-17 14:39:29.445397  
 categories: player  
 ---
 # Thomas Joubert DU TOIT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 101.0
+## Current elo: 98.0
 
-## Current Percentile: 89.0
+## Current Percentile: 85.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Irne HERBST  
-date: 2023-02-16 16:41:45.912649  
+date: 2023-02-17 14:40:02.076376  
 categories: player  
 ---
 # Irne HERBST
 
 ## Positions: L
 
-## Current elo: 113.0
+## Current elo: 116.0
 
-## Current Percentile: 87.0
+## Current Percentile: 90.0
 
 # Elo History
 

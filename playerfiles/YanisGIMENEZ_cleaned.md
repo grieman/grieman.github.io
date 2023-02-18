@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yanis GIMENEZ  
-date: 2023-02-16 16:42:12.925553  
+date: 2023-02-17 14:41:39.409527  
 categories: player  
 ---
 # Yanis GIMENEZ
 
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 73.0
+## Current Percentile: 78.0
 
 # Elo History
 

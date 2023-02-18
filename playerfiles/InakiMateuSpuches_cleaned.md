@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Mateu Spuches  
-date: 2023-02-16 16:40:32.849229  
+date: 2023-02-17 14:40:18.092466  
 categories: player  
 ---
 # Inaki Mateu Spuches
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 

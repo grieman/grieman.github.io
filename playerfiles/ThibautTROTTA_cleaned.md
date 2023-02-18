@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibaut TROTTA  
-date: 2023-02-16 16:41:07.621768  
+date: 2023-02-17 14:39:46.215309  
 categories: player  
 ---
 # Thibaut TROTTA
 
 ## Positions: FB
 
-## Current elo: 93.0
+## Current elo: 86.0
 
-## Current Percentile: 50.0
+## Current Percentile: 37.0
 
 # Elo History
 

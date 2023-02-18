@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam LEEMING  
-date: 2023-02-16 16:39:38.161659  
+date: 2023-02-17 14:40:55.078140  
 categories: player  
 ---
 # Sam LEEMING
 
 ## Positions: FH
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: 78.0
+## Current Percentile: 79.0
 
 # Elo History
 

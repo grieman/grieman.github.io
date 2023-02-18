@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Freddie LOCKWOOD  
-date: 2023-02-16 16:40:45.132179  
+date: 2023-02-17 14:40:19.981227  
 categories: player  
 ---
 # Freddie LOCKWOOD
 
 ## Positions: N8, FL
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 66.0
+## Current Percentile: 68.0
 
 # Elo History
 

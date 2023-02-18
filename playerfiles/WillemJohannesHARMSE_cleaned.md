@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Willem Johannes HARMSE  
-date: 2023-02-16 16:42:01.316960  
+date: 2023-02-17 14:42:27.431941  
 categories: player  
 ---
 # Willem Johannes HARMSE
 
 ## Positions: P
 
-## Current elo: 86.0
+## Current elo: 81.0
 
-## Current Percentile: 16.0
+## Current Percentile: 11.0
 
 # Elo History
 

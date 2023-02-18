@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Valéry DULIEU  
-date: 2023-02-16 16:41:42.009171  
+date: 2023-02-17 14:39:21.632776  
 categories: player  
 ---
 # Valéry DULIEU
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 79.0
 
-## Current Percentile: 13.0
+## Current Percentile: 16.0
 
 # Elo History
 

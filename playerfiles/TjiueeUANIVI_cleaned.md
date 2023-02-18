@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tjiuee UANIVI  
-date: 2023-02-16 16:41:14.644582  
+date: 2023-02-17 14:39:08.225785  
 categories: player  
 ---
 # Tjiuee UANIVI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

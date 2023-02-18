@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom WEST  
-date: 2023-02-06 16:03:10.657860  
+date: 2023-02-17 14:42:19.897807  
 categories: player  
 ---
 # Tom WEST
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: 53.0
 

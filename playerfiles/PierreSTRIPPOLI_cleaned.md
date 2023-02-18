@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre STRIPPOLI  
-date: 2023-02-16 16:40:12.598013  
+date: 2023-02-17 14:43:21.390844  
 categories: player  
 ---
 # Pierre STRIPPOLI
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 49.0
+## Current Percentile: 51.0
 
 # Elo History
 

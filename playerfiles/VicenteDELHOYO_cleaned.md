@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vicente DEL HOYO  
-date: 2023-02-16 16:40:48.234571  
+date: 2023-02-17 14:43:06.876825  
 categories: player  
 ---
 # Vicente DEL HOYO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 70.0
+## Current Percentile: 72.0
 
 # Elo History
 

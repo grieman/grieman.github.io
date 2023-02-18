@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias ALEMANNO  
-date: 2023-02-16 16:40:23.648334  
+date: 2023-02-17 14:41:08.533374  
 categories: player  
 ---
 # Matias ALEMANNO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 107.0
+## Current elo: 110.0
 
-## Current Percentile: 74.0
+## Current Percentile: 79.0
 
 # Elo History
 

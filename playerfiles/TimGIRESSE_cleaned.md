@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim GIRESSE  
-date: 2023-02-16 16:41:40.298926  
+date: 2023-02-17 14:41:58.998152  
 categories: player  
 ---
 # Tim GIRESSE
 
 ## Positions: W
 
-## Current elo: 113.0
+## Current elo: 106.0
 
-## Current Percentile: 87.0
+## Current Percentile: 83.0
 
 # Elo History
 

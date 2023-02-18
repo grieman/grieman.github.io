@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ole AVEI  
-date: 2023-02-16 16:39:41.967430  
+date: 2023-02-17 14:41:02.636463  
 categories: player  
 ---
 # Ole AVEI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 132.0
+## Current elo: 129.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 

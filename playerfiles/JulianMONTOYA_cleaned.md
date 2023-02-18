@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian MONTOYA  
-date: 2023-02-06 16:03:05.696891  
+date: 2023-02-17 14:40:10.073433  
 categories: player  
 ---
 # Julian MONTOYA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 48.0
+## Current Percentile: 44.0
 
 # Elo History
 

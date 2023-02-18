@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor Damian ARIAS  
-date: 2023-02-16 16:41:56.408612  
+date: 2023-02-17 14:40:53.157844  
 categories: player  
 ---
 # Victor Damian ARIAS
 
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 101.0
 
-## Current Percentile: 87.0
+## Current Percentile: 77.0
 
 # Elo History
 

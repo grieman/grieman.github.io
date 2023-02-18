@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yohann GBIZIE  
-date: 2023-02-16 16:40:52.411468  
+date: 2023-02-17 14:43:26.853496  
 categories: player  
 ---
 # Yohann GBIZIE
 
 ## Positions: N8, FL
 
-## Current elo: 94.0
+## Current elo: 111.0
 
-## Current Percentile: 43.0
+## Current Percentile: 79.0
 
 # Elo History
 

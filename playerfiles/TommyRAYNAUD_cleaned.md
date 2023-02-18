@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tommy RAYNAUD  
-date: 2023-02-16 16:40:36.116686  
+date: 2023-02-17 14:39:02.420010  
 categories: player  
 ---
 # Tommy RAYNAUD
 
 ## Positions: P
 
-## Current elo: 72.0
+## Current elo: 71.0
 
-## Current Percentile: 4.0
+## Current Percentile: 5.0
 
 # Elo History
 

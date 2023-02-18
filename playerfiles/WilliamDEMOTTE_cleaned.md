@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William DEMOTTE  
-date: 2023-02-16 16:39:06.173371  
+date: 2023-02-17 14:41:33.412741  
 categories: player  
 ---
 # William DEMOTTE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 62.0
+## Current Percentile: 59.0
 
 # Elo History
 

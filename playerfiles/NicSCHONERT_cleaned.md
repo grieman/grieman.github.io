@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nic SCHONERT  
-date: 2023-02-06 16:04:06.270822  
+date: 2023-02-17 14:39:38.745779  
 categories: player  
 ---
 # Nic SCHONERT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 23.0
+## Current Percentile: 27.0
 
 # Elo History
 

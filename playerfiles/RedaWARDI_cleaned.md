@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda WARDI  
-date: 2023-02-16 16:40:50.880401  
+date: 2023-02-17 14:41:43.212282  
 categories: player  
 ---
 # Reda WARDI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 111.0
+## Current elo: 115.0
 
-## Current Percentile: 84.0
+## Current Percentile: 89.0
 
 # Elo History
 

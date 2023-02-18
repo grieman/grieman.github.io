@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zak FARRANCE  
-date: 2023-02-16 16:41:25.938988  
+date: 2023-02-17 14:39:06.716581  
 categories: player  
 ---
 # Zak FARRANCE
 
 ## Positions: L
 
-## Current elo: 86.0
+## Current elo: 100.0
 
-## Current Percentile: 20.0
+## Current Percentile: 56.0
 
 # Elo History
 

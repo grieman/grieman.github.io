@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2023-02-06 16:02:52.603717  
+date: 2023-02-17 14:42:06.113522  
 categories: player  
 ---
 # D'arcy Rae
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 56.0
+## Current elo: 54.0
 
-## Current Percentile: 62.0
+## Current Percentile: 71.0
 
 # Elo History
 

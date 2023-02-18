@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul SAJOUS  
-date: 2023-02-16 16:39:33.958532  
+date: 2023-02-17 14:40:48.536652  
 categories: player  
 ---
 # Paul SAJOUS
 
 ## Positions: L, FL
 
-## Current elo: 65.0
+## Current elo: 70.0
 
-## Current Percentile: 4.0
+## Current Percentile: 6.0
 
 # Elo History
 

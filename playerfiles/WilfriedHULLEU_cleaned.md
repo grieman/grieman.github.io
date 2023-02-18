@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wilfried HULLEU  
-date: 2023-02-16 16:40:37.856436  
+date: 2023-02-17 14:43:40.465328  
 categories: player  
 ---
 # Wilfried HULLEU
 
 ## Positions: W
 
-## Current elo: 96.0
+## Current elo: 101.0
 
-## Current Percentile: 38.0
+## Current Percentile: 52.0
 
 # Elo History
 

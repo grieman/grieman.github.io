@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain MAURICE  
-date: 2023-02-16 16:41:38.658179  
+date: 2023-02-17 14:39:18.613880  
 categories: player  
 ---
 # Romain MAURICE
 
 ## Positions: H
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 62.0
+## Current Percentile: 59.0
 
 # Elo History
 

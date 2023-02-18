@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain DUMESTRE  
-date: 2023-02-16 16:41:50.795369  
+date: 2023-02-17 14:40:50.774994  
 categories: player  
 ---
 # Romain DUMESTRE
 
 ## Positions: W, FB
 
-## Current elo: 88.0
+## Current elo: 82.0
 
-## Current Percentile: 24.0
+## Current Percentile: 17.0
 
 # Elo History
 

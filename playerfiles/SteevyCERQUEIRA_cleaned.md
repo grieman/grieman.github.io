@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steevy CERQUEIRA  
-date: 2023-02-16 16:40:07.985303  
+date: 2023-02-17 14:39:44.220052  
 categories: player  
 ---
 # Steevy CERQUEIRA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 93.0
+## Current elo: 98.0
 
-## Current Percentile: 41.0
+## Current Percentile: 61.0
 
 # Elo History
 

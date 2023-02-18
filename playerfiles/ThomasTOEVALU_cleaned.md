@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas TOEVALU  
-date: 2023-02-16 16:39:32.335782  
+date: 2023-02-17 14:41:23.882405  
 categories: player  
 ---
 # Thomas TOEVALU
 
 ## Positions: N8, FL
 
-## Current elo: 65.0
+## Current elo: 53.0
 
-## Current Percentile: 4.0
+## Current Percentile: 1.0
 
 # Elo History
 

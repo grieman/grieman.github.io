@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre REYNAUD  
-date: 2023-02-16 16:41:06.423916  
+date: 2023-02-17 14:41:00.775162  
 categories: player  
 ---
 # Pierre REYNAUD
 
 ## Positions: FL, N8
 
-## Current elo: 117.0
+## Current elo: 118.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

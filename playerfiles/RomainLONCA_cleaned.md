@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain LONCA  
-date: 2023-02-16 16:40:42.009284  
+date: 2023-02-17 14:39:26.922022  
 categories: player  
 ---
 # Romain LONCA
 
 ## Positions: FB, C
 
-## Current elo: 117.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 89.0
 
 # Elo History
 

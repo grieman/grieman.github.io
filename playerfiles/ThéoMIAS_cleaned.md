@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo MIAS  
-date: 2023-02-16 16:40:15.092797  
+date: 2023-02-17 14:39:57.954795  
 categories: player  
 ---
 # Théo MIAS
 
 ## Positions: W, C
 
-## Current elo: 96.0
+## Current elo: 101.0
 
-## Current Percentile: 39.0
+## Current Percentile: 51.0
 
 # Elo History
 

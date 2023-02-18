@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie DU PLESSIS  
-date: 2023-02-16 16:39:49.424842  
+date: 2023-02-17 14:42:01.068453  
 categories: player  
 ---
 # Willie DU PLESSIS
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 123.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 

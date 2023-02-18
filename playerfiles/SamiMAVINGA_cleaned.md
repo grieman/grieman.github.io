@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sami MAVINGA  
-date: 2023-02-16 16:40:58.473183  
+date: 2023-02-17 14:40:26.404793  
 categories: player  
 ---
 # Sami MAVINGA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 16.0
+## Current Percentile: 18.0
 
 # Elo History
 

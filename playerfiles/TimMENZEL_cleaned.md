@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tim MENZEL  
-date: 2023-02-16 16:39:24.383643  
+date: 2023-02-17 14:42:11.830646  
 categories: player  
 ---
 # Tim MENZEL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 78.0
+## Current elo: 75.0
 
-## Current Percentile: 12.0
+## Current Percentile: 11.0
 
 # Elo History
 

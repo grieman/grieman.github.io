@@ -1,35 +1,35 @@
 ---  
 layout: page  
-title: Provence Rugby at Agen  
-date: 2023-02-16 18:00:00 -0500  
+title: Montauban at Soyaux-Angouleme  
+date: 2023-02-24 18:00:00 -0500  
 categories: match projection imputed  
 ---
-# Provence Rugby at Agen
+# Montauban at Soyaux-Angouleme
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.633, which translates to predicting Agen to win by 4.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.595, which translates to predicting Soyaux-Angouleme to win by 3.2.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
 
 
-![Projected Performances](plots/performances_2023-02-16-Agen-ProvenceRugby.png)
+![Projected Performances](plots/performances_2023-02-24-Soyaux-Angouleme-Montauban.png)
 ## Projected Spreads
 
 
-![Projected Spreads](plots/spreads_2023-02-16-Agen-ProvenceRugby.png)
+![Projected Spreads](plots/spreads_2023-02-24-Soyaux-Angouleme-Montauban.png)
 ## Projected Results
 
 
-![Projected Results](plots/resultbar_2023-02-16-Agen-ProvenceRugby.png)
+![Projected Results](plots/resultbar_2023-02-24-Soyaux-Angouleme-Montauban.png)
 # Player Level Predictions
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Provence Rugby by 12.1
+## Prediction with Imputed Lineups: Montauban by 1.9
 
 
-Provence Rugby by 16.1 on a neutral pitch
+Montauban by 5.9 on a neutral pitch
 

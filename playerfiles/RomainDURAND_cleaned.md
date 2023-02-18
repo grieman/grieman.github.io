@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain DURAND  
-date: 2023-02-16 16:40:21.215654  
+date: 2023-02-17 14:42:23.290272  
 categories: player  
 ---
 # Romain DURAND
 
 ## Positions: L
 
-## Current elo: 112.0
+## Current elo: 119.0
 
-## Current Percentile: 88.0
+## Current Percentile: 94.0
 
 # Elo History
 

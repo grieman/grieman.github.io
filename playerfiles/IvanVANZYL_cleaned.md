@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-02-06 16:04:07.363956  
+date: 2023-02-17 14:43:18.955551  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 115.0
+## Current elo: 117.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 

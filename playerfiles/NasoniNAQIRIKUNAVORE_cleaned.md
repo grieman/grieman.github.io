@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nasoni NAQIRI KUNAVORE  
-date: 2023-02-16 16:41:13.087360  
+date: 2023-02-17 14:42:25.486631  
 categories: player  
 ---
 # Nasoni NAQIRI KUNAVORE
 
 ## Positions: C, W
 
-## Current elo: 104.0
+## Current elo: 111.0
 
-## Current Percentile: 76.0
+## Current Percentile: 88.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BULTEL  
-date: 2023-02-16 16:40:11.291322  
+date: 2023-02-17 14:39:48.116044  
 categories: player  
 ---
 # Thomas BULTEL
 
 ## Positions: P
 
-## Current elo: 117.0
+## Current elo: 112.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 

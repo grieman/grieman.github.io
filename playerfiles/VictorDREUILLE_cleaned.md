@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor DREUILLE  
-date: 2023-02-16 16:41:31.546978  
+date: 2023-02-17 14:43:38.673108  
 categories: player  
 ---
 # Victor DREUILLE
 
 ## Positions: FH, C
 
-## Current elo: 81.0
+## Current elo: 83.0
 
-## Current Percentile: 33.0
+## Current Percentile: 38.0
 
 # Elo History
 

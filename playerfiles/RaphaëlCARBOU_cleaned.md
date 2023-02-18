@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Raphaël CARBOU  
-date: 2023-02-16 16:39:10.045592  
+date: 2023-02-17 14:42:29.387328  
 categories: player  
 ---
 # Raphaël CARBOU
 
 ## Positions: H
 
-## Current elo: 86.0
+## Current elo: 84.0
 
-## Current Percentile: 5.0
+## Current Percentile: 6.0
 
 # Elo History
 

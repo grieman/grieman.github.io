@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yann TIVOLI  
-date: 2023-02-16 16:40:18.392769  
+date: 2023-02-17 14:42:18.093416  
 categories: player  
 ---
 # Yann TIVOLI
 
 ## Positions: L, FL
 
-## Current elo: 97.0
+## Current elo: 101.0
 
-## Current Percentile: 57.0
+## Current Percentile: 67.0
 
 # Elo History
 

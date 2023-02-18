@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Yann PEYSSON  
-date: 2023-02-16 16:41:47.593387  
+date: 2023-02-17 14:42:08.060438  
 categories: player  
 ---
 # Yann PEYSSON
 
 ## Positions: N8
 
-## Current elo: 79.0
+## Current elo: 77.0
 
 ## Current Percentile: 14.0
 

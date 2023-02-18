@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoram MOEFANA  
-date: 2023-02-16 16:42:02.727255  
+date: 2023-02-17 14:40:37.517750  
 categories: player  
 ---
 # Yoram MOEFANA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 98.0
+## Current elo: 95.0
 
-## Current Percentile: 31.0
+## Current Percentile: 27.0
 
 # Elo History
 

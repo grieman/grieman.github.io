@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul AURADOU  
-date: 2023-02-16 16:41:24.738171  
+date: 2023-02-17 14:42:44.686480  
 categories: player  
 ---
 # Paul AURADOU
 
 ## Positions: FH, FB
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 39.0
 
 # Elo History
 

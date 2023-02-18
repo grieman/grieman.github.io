@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nicolas MOUSTIES  
-date: 2023-02-16 16:39:46.520795  
+date: 2023-02-17 14:39:14.120792  
 categories: player  
 ---
 # Nicolas MOUSTIES
 
 ## Positions: FL
 
-## Current elo: 72.0
+## Current elo: 64.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 

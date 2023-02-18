@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lovejoy CHAWATAMA  
-date: 2023-01-31 16:07:44.458178  
+date: 2023-02-17 14:41:17.788898  
 categories: player  
 ---
 # Lovejoy CHAWATAMA
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 82.0
 
-## Current Percentile: 30.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,42 +21,43 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            73 |   0.417808 |
-| London Welsh |            10 |   0.5      |
+| London Irish |            75 |       0.42 |
+| London Welsh |            10 |       0.5  |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Gloucester Rugby     |         5 |   0.2      |
 | Worcester Warriors   |         5 |   0.4      |
 | Exeter Chiefs        |         5 |   0.2      |
-| Sale Sharks          |         4 |   0        |
+| Gloucester Rugby     |         5 |   0.2      |
 | Bristol Rugby        |         4 |   0.5      |
+| Sale Sharks          |         4 |   0        |
+| Bath Rugby           |         4 |   0.5      |
 | Leicester Tigers     |         4 |   0.25     |
-| Harlequins           |         3 |   0        |
 | London Scottish      |         3 |   1        |
+| Harlequins           |         3 |   0        |
 | Wasps                |         3 |   0.666667 |
-| Yorkshire Carnegie   |         3 |   0.333333 |
 | Newcastle Falcons    |         3 |   0.666667 |
+| Yorkshire Carnegie   |         3 |   0.333333 |
 | Edinburgh            |         3 |   0.333333 |
-| Bath Rugby           |         3 |   0.666667 |
-| Toulon               |         2 |   0        |
+| Hartpury College     |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
+| Krasny Yar           |         2 |   1        |
+| Bayonne              |         2 |   0.5      |
+| Ealing Trailfinders  |         2 |   0.5      |
+| Montpellier Herault  |         2 |   0.25     |
+| Doncaster            |         2 |   1        |
 | Northampton Saints   |         2 |   0        |
+| Toulon               |         2 |   0        |
 | Stormers             |         2 |   0        |
 | Richmond             |         2 |   1        |
 | Rotherham Titans     |         2 |   0.5      |
-| Krasny Yar           |         2 |   1        |
-| Montpellier Herault  |         2 |   0.25     |
-| Stade Francais Paris |         2 |   0.5      |
-| Hartpury College     |         2 |   1        |
-| Ealing Trailfinders  |         2 |   0.5      |
-| Doncaster            |         2 |   1        |
 | Cornish Pirates      |         2 |   0.5      |
-| Bayonne              |         2 |   0.5      |
 | Saracens             |         2 |   0        |
-| Agen                 |         1 |   1        |
-| Scarlets             |         1 |   0        |
+| Cardiff Blues        |         1 |   1        |
 | Pau                  |         1 |   1        |
-| Nottingham           |         1 |   1        |
-| London Irish         |         1 |   0        |
+| Scarlets             |         1 |   0        |
 | Jersey               |         1 |   0        |
+| Nottingham           |         1 |   1        |
 | London Welsh         |         1 |   1        |
+| London Irish         |         1 |   0        |
+| Agen                 |         1 |   1        |

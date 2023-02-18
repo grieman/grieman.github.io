@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: David Wallis  
-date: 2023-02-16 16:41:15.936280  
+date: 2023-02-17 14:39:54.168823  
 categories: player  
 ---
 # David Wallis
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 41.0
+## Current Percentile: 39.0
 
 # Elo History
 

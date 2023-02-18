@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yann BRETHOUS  
-date: 2023-02-16 16:40:40.657138  
+date: 2023-02-17 14:41:35.229617  
 categories: player  
 ---
 # Yann BRETHOUS
 
 ## Positions: FL
 
-## Current elo: 97.0
+## Current elo: 101.0
 
-## Current Percentile: 70.0
+## Current Percentile: 75.0
 
 # Elo History
 

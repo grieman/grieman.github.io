@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-02-16 16:39:47.891447  
+date: 2023-02-17 14:41:47.267006  
 categories: player  
 ---
 # Uini ATONIO
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 129.0
+## Current elo: 130.0
 
 ## Current Percentile: 96.0
 

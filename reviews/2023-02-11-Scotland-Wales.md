@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Scotland by 29.3
+## Prediction with Player Minutes: Scotland by 29.0
 
 
-Scotland by 25.3 on a neutral field
+Scotland by 25.0 on a neutral field
 ## Scores over Time
 
 
@@ -42,36 +42,36 @@ Scotland by 25.3 on a neutral field
 ![In Match Predictions](plots/recap_prob_2023-02-11-Scotland-Wales.png)
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Scotland by 27.7
+## Prediction without Player Minutes: Scotland by 26.7
 
 
-Scotland by 23.7 on a neutral pitch
+Scotland by 22.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                         |   Home Minutes |
 |---------------:|:--------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------------|---------------:|
-|             53 | [Wyn Jones](..//playerfiles//WynJones_cleaned.md)             |     117.79 |                93 |        1 |                41 |      93.14 | [Pierre Schoeman](..//playerfiles//PierreSchoeman_cleaned.md)       |             65 |
-|             65 | [Ken Owens](..//playerfiles//KenOwens_cleaned.md)             |      87.78 |                25 |        2 |                98 |     132.43 | [George Turner](..//playerfiles//GeorgeTurner_cleaned.md)           |             59 |
-|             65 | [Dillon Lewis](..//playerfiles//DillonLewis_cleaned.md)       |     105.13 |                79 |        3 |                94 |     119.83 | [Zander Fagerson](..//playerfiles//ZanderFagerson_cleaned.md)       |             65 |
-|             66 | [Dafydd Jenkins](..//playerfiles//DafyddJenkins_cleaned.md)   |     115.86 |                88 |        4 |                95 |     128.14 | [Richie Gray](..//playerfiles//RichieGray_cleaned.md)               |             82 |
-|             82 | [Adam Beard](..//playerfiles//AdamBeard_cleaned.md)           |      94.78 |                48 |        5 |                98 |     141.23 | [Grant Gilchrist](..//playerfiles//GrantGilchrist_cleaned.md)       |             65 |
-|             82 | [Christ Tshiunza](..//playerfiles//ChristTshiunza_cleaned.md) |      91.92 |                39 |        6 |                98 |     144.62 | [Jamie Ritchie](..//playerfiles//JamieRitchie_cleaned.md)           |             82 |
-|             82 | [Tommy Reffell](..//playerfiles//TommyReffell_cleaned.md)     |     111.76 |                84 |        7 |                97 |     134.11 | [Luke Crosbie](..//playerfiles//LukeCrosbie_cleaned.md)             |             39 |
-|             53 | [Jac Morgan](..//playerfiles//JacMorgan_cleaned.md)           |     100.37 |                63 |        8 |                83 |     114.24 | [Matt Fagerson](..//playerfiles//MattFagerson_cleaned.md)           |             82 |
-|             57 | [Tomos Williams](..//playerfiles//TomosWilliams_cleaned.md)   |     109.05 |                80 |        9 |                93 |     119.94 | [Ben White](..//playerfiles//BenWhite_cleaned.md)                   |             59 |
-|             57 | [Dan Biggar](..//playerfiles//DanBiggar_cleaned.md)           |     131.34 |                95 |       10 |                98 |     142.33 | [Finn Russell](..//playerfiles//FinnRussell_cleaned.md)             |             82 |
-|             82 | [Rio Dyer](..//playerfiles//RioDyer_cleaned.md)               |      59.75 |                 2 |       11 |                74 |     106.1  | [Duhan van der Merwe](..//playerfiles//DuhanvanderMerwe_cleaned.md) |             82 |
-|             82 | [Joe Hawkins](..//playerfiles//JoeHawkins_cleaned.md)         |      76.84 |                10 |       12 |                52 |      96.75 | [Sione Tuipulotu](..//playerfiles//SioneTuipulotu_cleaned.md)       |             72 |
-|             75 | [George North](..//playerfiles//GeorgeNorth_cleaned.md)       |     107.69 |                75 |       13 |                22 |      85.22 | [Huw Jones](..//playerfiles//HuwJones_cleaned.md)                   |             82 |
-|             59 | [Josh Adams](..//playerfiles//JoshAdams_cleaned.md)           |      92.22 |                40 |       14 |                85 |     114.87 | [Kyle Steyn](..//playerfiles//KyleSteyn_cleaned.md)                 |             82 |
-|             82 | [Liam Williams](..//playerfiles//LiamWilliams_cleaned.md)     |     142.28 |                97 |       15 |                86 |     118.81 | [Stuart Hogg](..//playerfiles//StuartHogg_cleaned.md)               |             14 |
-|             17 | [Scott Baldwin](..//playerfiles//ScottBaldwin_cleaned.md)     |     101.49 |                68 |       16 |                94 |     121.61 | [Fraser Brown](..//playerfiles//FraserBrown_cleaned.md)             |             29 |
-|             29 | [Rhys Carré](..//playerfiles//RhysCarré_cleaned.md)           |      83.25 |                18 |       17 |                95 |     122.26 | [Jamie Bhatti](..//playerfiles//JamieBhatti_cleaned.md)             |             17 |
-|             17 | [Leon Brown](..//playerfiles//LeonBrown_cleaned.md)           |      87.15 |                25 |       18 |                99 |     136.66 | [WP Nel](..//playerfiles//WPNel_cleaned.md)                         |             17 |
-|             16 | [Rhys Davies](..//playerfiles//RhysDavies_cleaned.md)         |     133.95 |                96 |       19 |                78 |     109.74 | [Jonny Gray](..//playerfiles//JonnyGray_cleaned.md)                 |             17 |
-|             29 | [Taulupe Faletau](..//playerfiles//TaulupeFaletau_cleaned.md) |      93.49 |                40 |       20 |                33 |      90.93 | [Jack Dempsey](..//playerfiles//JackDempsey_cleaned.md)             |             37 |
-|             25 | [Rhys Webb](..//playerfiles//RhysWebb_cleaned.md)             |     112.09 |                86 |       21 |                95 |     124.41 | [George Horne](..//playerfiles//GeorgeHorne_cleaned.md)             |             23 |
-|             25 | [Rhys Patchell](..//playerfiles//RhysPatchell_cleaned.md)     |     146.86 |                99 |       22 |                99 |     152.64 | [Blair Kinghorn](..//playerfiles//BlairKinghorn_cleaned.md)         |             68 |
-|             30 | [Alex Cuthbert](..//playerfiles//AlexCuthbert_cleaned.md)     |     127.34 |                95 |       23 |                86 |     115.11 | [Chris Harris](..//playerfiles//ChrisHarris_cleaned.md)             |             10 |
+|             53 | [Wyn Jones](..//playerfiles//WynJones_cleaned.md)             |     124.74 |                96 |        1 |                55 |      96.83 | [Pierre Schoeman](..//playerfiles//PierreSchoeman_cleaned.md)       |             65 |
+|             65 | [Ken Owens](..//playerfiles//KenOwens_cleaned.md)             |      92.87 |                44 |        2 |                98 |     131.47 | [George Turner](..//playerfiles//GeorgeTurner_cleaned.md)           |             59 |
+|             65 | [Dillon Lewis](..//playerfiles//DillonLewis_cleaned.md)       |      99.47 |                68 |        3 |                93 |     117.77 | [Zander Fagerson](..//playerfiles//ZanderFagerson_cleaned.md)       |             65 |
+|             66 | [Dafydd Jenkins](..//playerfiles//DafyddJenkins_cleaned.md)   |     115.61 |                88 |        4 |                96 |     131.73 | [Richie Gray](..//playerfiles//RichieGray_cleaned.md)               |             82 |
+|             82 | [Adam Beard](..//playerfiles//AdamBeard_cleaned.md)           |      92.93 |                43 |        5 |                97 |     136.31 | [Grant Gilchrist](..//playerfiles//GrantGilchrist_cleaned.md)       |             65 |
+|             82 | [Christ Tshiunza](..//playerfiles//ChristTshiunza_cleaned.md) |      91.23 |                37 |        6 |                99 |     141.7  | [Jamie Ritchie](..//playerfiles//JamieRitchie_cleaned.md)           |             82 |
+|             82 | [Tommy Reffell](..//playerfiles//TommyReffell_cleaned.md)     |     110.62 |                83 |        7 |                96 |     132.3  | [Luke Crosbie](..//playerfiles//LukeCrosbie_cleaned.md)             |             39 |
+|             53 | [Jac Morgan](..//playerfiles//JacMorgan_cleaned.md)           |      98.96 |                59 |        8 |                81 |     112.79 | [Matt Fagerson](..//playerfiles//MattFagerson_cleaned.md)           |             82 |
+|             57 | [Tomos Williams](..//playerfiles//TomosWilliams_cleaned.md)   |     113.17 |                86 |        9 |                88 |     114.69 | [Ben White](..//playerfiles//BenWhite_cleaned.md)                   |             59 |
+|             57 | [Dan Biggar](..//playerfiles//DanBiggar_cleaned.md)           |     130.03 |                96 |       10 |                98 |     141.36 | [Finn Russell](..//playerfiles//FinnRussell_cleaned.md)             |             82 |
+|             82 | [Rio Dyer](..//playerfiles//RioDyer_cleaned.md)               |      62.42 |                 4 |       11 |                82 |     111.57 | [Duhan van der Merwe](..//playerfiles//DuhanvanderMerwe_cleaned.md) |             82 |
+|             82 | [Joe Hawkins](..//playerfiles//JoeHawkins_cleaned.md)         |      78.64 |                13 |       12 |                52 |      96.76 | [Sione Tuipulotu](..//playerfiles//SioneTuipulotu_cleaned.md)       |             72 |
+|             75 | [George North](..//playerfiles//GeorgeNorth_cleaned.md)       |     108.74 |                76 |       13 |                28 |      86.33 | [Huw Jones](..//playerfiles//HuwJones_cleaned.md)                   |             82 |
+|             59 | [Josh Adams](..//playerfiles//JoshAdams_cleaned.md)           |      95.73 |                51 |       14 |                88 |     117.09 | [Kyle Steyn](..//playerfiles//KyleSteyn_cleaned.md)                 |             82 |
+|             82 | [Liam Williams](..//playerfiles//LiamWilliams_cleaned.md)     |     135.51 |                96 |       15 |                87 |     118.65 | [Stuart Hogg](..//playerfiles//StuartHogg_cleaned.md)               |             14 |
+|             17 | [Scott Baldwin](..//playerfiles//ScottBaldwin_cleaned.md)     |      98.28 |                62 |       16 |                95 |     125.73 | [Fraser Brown](..//playerfiles//FraserBrown_cleaned.md)             |             29 |
+|             29 | [Rhys Carré](..//playerfiles//RhysCarré_cleaned.md)           |      84.29 |                22 |       17 |                95 |     122.09 | [Jamie Bhatti](..//playerfiles//JamieBhatti_cleaned.md)             |             17 |
+|             17 | [Leon Brown](..//playerfiles//LeonBrown_cleaned.md)           |      90.09 |                33 |       18 |                99 |     137.37 | [WP Nel](..//playerfiles//WPNel_cleaned.md)                         |             17 |
+|             16 | [Rhys Davies](..//playerfiles//RhysDavies_cleaned.md)         |     131.95 |                95 |       19 |                75 |     107.59 | [Jonny Gray](..//playerfiles//JonnyGray_cleaned.md)                 |             17 |
+|             29 | [Taulupe Faletau](..//playerfiles//TaulupeFaletau_cleaned.md) |      95.63 |                46 |       20 |                34 |      91.19 | [Jack Dempsey](..//playerfiles//JackDempsey_cleaned.md)             |             37 |
+|             25 | [Rhys Webb](..//playerfiles//RhysWebb_cleaned.md)             |     111.96 |                86 |       21 |                95 |     123.84 | [George Horne](..//playerfiles//GeorgeHorne_cleaned.md)             |             23 |
+|             25 | [Rhys Patchell](..//playerfiles//RhysPatchell_cleaned.md)     |     147.51 |                99 |       22 |                99 |     152.75 | [Blair Kinghorn](..//playerfiles//BlairKinghorn_cleaned.md)         |             68 |
+|             30 | [Alex Cuthbert](..//playerfiles//AlexCuthbert_cleaned.md)     |     127.12 |                95 |       23 |                80 |     111.15 | [Chris Harris](..//playerfiles//ChrisHarris_cleaned.md)             |             10 |
 

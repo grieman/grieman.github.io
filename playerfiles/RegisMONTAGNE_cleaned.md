@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Regis MONTAGNE  
-date: 2023-02-16 16:40:43.664487  
+date: 2023-02-17 14:41:54.586831  
 categories: player  
 ---
 # Regis MONTAGNE
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 62.0
+## Current Percentile: 55.0
 
 # Elo History
 

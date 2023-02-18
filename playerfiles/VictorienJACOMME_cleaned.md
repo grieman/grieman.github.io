@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victorien JACOMME  
-date: 2023-02-16 16:41:33.092189  
+date: 2023-02-17 14:40:57.020469  
 categories: player  
 ---
 # Victorien JACOMME
 
 ## Positions: C
 
-## Current elo: 102.0
+## Current elo: 96.0
 
-## Current Percentile: 60.0
+## Current Percentile: 42.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sam EDWARDS  
-date: 2023-02-06 16:03:16.383566  
+date: 2023-02-17 14:41:45.339688  
 categories: player  
 ---
 # Sam EDWARDS
 
 ## Positions: SH
 
-## Current elo: 78.0
+## Current elo: 77.0
 
 ## Current Percentile: None
 

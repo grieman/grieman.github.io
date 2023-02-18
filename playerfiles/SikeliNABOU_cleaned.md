@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sikeli NABOU  
-date: 2023-02-16 16:41:09.982832  
+date: 2023-02-17 14:39:24.053613  
 categories: player  
 ---
 # Sikeli NABOU
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 111.0
+## Current elo: 109.0
 
 ## Current Percentile: 82.0
 

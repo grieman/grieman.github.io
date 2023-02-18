@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin SAMARAN  
-date: 2023-02-16 16:39:29.096314  
+date: 2023-02-17 14:41:50.709744  
 categories: player  
 ---
 # Quentin SAMARAN
 
 ## Positions: P
 
-## Current elo: 70.0
+## Current elo: 64.0
 
-## Current Percentile: 11.0
+## Current Percentile: 5.0
 
 # Elo History
 

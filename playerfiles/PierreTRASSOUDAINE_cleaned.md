@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre TRASSOUDAINE  
-date: 2023-02-16 16:41:21.713351  
+date: 2023-02-17 14:41:56.827702  
 categories: player  
 ---
 # Pierre TRASSOUDAINE
 
 ## Positions: H
 
-## Current elo: 130.0
+## Current elo: 133.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 

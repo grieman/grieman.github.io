@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thibault TAULEIGNE  
-date: 2023-02-16 16:39:35.511245  
+date: 2023-02-17 14:43:25.079796  
 categories: player  
 ---
 # Thibault TAULEIGNE
 
 ## Positions: N8, L
 
-## Current elo: 98.0
+## Current elo: 97.0
 
 ## Current Percentile: 41.0
 

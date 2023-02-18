@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin VERMEERSCH  
-date: 2023-02-16 16:41:52.263552  
+date: 2023-02-17 14:40:31.796492  
 categories: player  
 ---
 # Robin VERMEERSCH
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 54.0
+## Current elo: 55.0
 
-## Current Percentile: 2.0
+## Current Percentile: 4.0
 
 # Elo History
 

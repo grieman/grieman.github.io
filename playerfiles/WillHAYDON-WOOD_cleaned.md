@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will HAYDON-WOOD  
-date: 2023-02-16 16:42:10.468383  
+date: 2023-02-17 14:41:26.140194  
 categories: player  
 ---
 # Will HAYDON-WOOD
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 40.0
+## Current Percentile: 35.0
 
 # Elo History
 

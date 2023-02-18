@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-02-16 16:42:05.342909  
+date: 2023-02-17 14:43:08.490039  
 categories: player  
 ---
 # Syuhei TAKEUCHI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 48.0
+## Current Percentile: 43.0
 
 # Elo History
 
