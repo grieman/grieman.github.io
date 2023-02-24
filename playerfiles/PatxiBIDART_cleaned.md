@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Patxi BIDART  
-date: 2023-02-24 09:50:23.006552  
+date: 2023-02-24 14:46:01.874654  
 categories: player  
 ---
 # Patxi BIDART

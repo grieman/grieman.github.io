@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas BAUDY  
-date: 2023-02-24 09:50:35.266056  
+date: 2023-02-24 14:45:20.516282  
 categories: player  
 ---
 # Thomas BAUDY

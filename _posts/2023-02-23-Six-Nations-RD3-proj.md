@@ -8,7 +8,7 @@ categories: projection
 
 With the week off, model review was done in the last post. They've been pretty spot on so far.
 
-Club ratings have been updated from last week's outcomes, so we re-ran simulations and have new projections. For a bit more depth, check out the match predictions in the [Current Projections page](..//Current_Projections.md). Or check out the [Six Nations Status page](..//comp_files//Six_Nations_Championship_2022.md)
+Club ratings have been updated from last week's outcomes, so we re-ran simulations and have new projections. For a bit more depth, check out the match predictions in the [Current Projections page](../../../../Current_Projections). Or check out the [Six Nations Status page](/comp_files/Six_Nations_Championship_2022)
 
 ## Italy v Ireland
 

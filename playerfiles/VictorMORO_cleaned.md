@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor MORO  
-date: 2023-02-24 09:54:56.051465  
+date: 2023-02-24 14:47:19.325726  
 categories: player  
 ---
 # Victor MORO

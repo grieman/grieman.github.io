@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title:  2022 Status  
+title: Rugby Europe Championship Status  
 date:   
 categories: model review projection  
 ---
-#  2022 Status
+# Rugby Europe Championship Status
 
 # Completed Match Review
 
@@ -26,6 +26,8 @@ categories: model review projection
 | ------ | ------ | ------ | ------ | ------ |
 | Average Error |       - | 28.6 | 28.1 | 30.1 |
 | Correct Winner |       - | 75.0% | 75.0% | 75.0% |
+
+
 ## Future Club-Level Match Predictions
 
 ### Week 3
@@ -33,7 +35,7 @@ categories: model review projection
 #### Germany V Netherlands on 2023/02/18
 
 
-Average Margin: Germany by 0.4
+Average Margin: Netherlands by 0.2
 
 <p float="left">
 <img src="plots/performances_Germany_V_Netherlands_3.png" width="32%" />
@@ -44,7 +46,7 @@ Average Margin: Germany by 0.4
 #### Spain V Georgia on 2023/02/18
 
 
-Average Margin: Georgia by 14.1
+Average Margin: Georgia by 13.1
 
 <p float="left">
 <img src="plots/performances_Spain_V_Georgia_3.png" width="32%" />
@@ -55,7 +57,7 @@ Average Margin: Georgia by 14.1
 #### Poland V Belgium on 2023/02/18
 
 
-Average Margin: Belgium by 43.1
+Average Margin: Belgium by 43.4
 
 <p float="left">
 <img src="plots/performances_Poland_V_Belgium_3.png" width="32%" />
@@ -66,7 +68,7 @@ Average Margin: Belgium by 43.1
 #### Portugal V Romania on 2023/02/19
 
 
-Average Margin: Portugal by 8.4
+Average Margin: Portugal by 8.6
 
 <p float="left">
 <img src="plots/performances_Portugal_V_Romania_3.png" width="32%" />

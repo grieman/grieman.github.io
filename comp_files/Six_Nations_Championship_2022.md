@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title:  2022 Status  
+title: Six Nations Championship Status  
 date:   
 categories: model review projection  
 ---
-#  2022 Status
+# Six Nations Championship Status
 
 # Completed Match Review
 
@@ -20,6 +20,8 @@ categories: model review projection
 | ------ | ------ | ------ | ------ | ------ |
 | Average Error |       - | 6.4 | 6.0 | 9.7 |
 | Correct Winner |       - | 100.0% | 100.0% | 83.3% |
+
+
 ## Future Club-Level Match Predictions
 
 ### Week 3
@@ -27,7 +29,7 @@ categories: model review projection
 #### Italy V Ireland on 2023/02/25
 
 
-Average Margin: Ireland by 16.2
+Average Margin: Ireland by 15.9
 
 <p float="left">
 <img src="plots/performances_Italy_V_Ireland_3.png" width="32%" />
@@ -38,7 +40,7 @@ Average Margin: Ireland by 16.2
 #### Wales V England on 2023/02/25
 
 
-Average Margin: England by 4.1
+Average Margin: England by 3.8
 
 <p float="left">
 <img src="plots/performances_Wales_V_England_3.png" width="32%" />
@@ -49,7 +51,7 @@ Average Margin: England by 4.1
 #### France V Scotland on 2023/02/26
 
 
-Average Margin: France by 6.6
+Average Margin: France by 6.7
 
 <p float="left">
 <img src="plots/performances_France_V_Scotland_3.png" width="32%" />
@@ -62,7 +64,7 @@ Average Margin: France by 6.6
 #### Italy V Wales on 2023/03/11
 
 
-Average Margin: Italy by 2.1
+Average Margin: Italy by 2.0
 
 <p float="left">
 <img src="plots/performances_Italy_V_Wales_4.png" width="32%" />
@@ -73,7 +75,7 @@ Average Margin: Italy by 2.1
 #### England V France on 2023/03/11
 
 
-Average Margin: France by 1.6
+Average Margin: France by 1.9
 
 <p float="left">
 <img src="plots/performances_England_V_France_4.png" width="32%" />
@@ -84,7 +86,7 @@ Average Margin: France by 1.6
 #### Scotland V Ireland on 2023/03/12
 
 
-Average Margin: Ireland by 5.2
+Average Margin: Ireland by 5.3
 
 <p float="left">
 <img src="plots/performances_Scotland_V_Ireland_4.png" width="32%" />
@@ -97,7 +99,7 @@ Average Margin: Ireland by 5.2
 #### Scotland V Italy on 2023/03/18
 
 
-Average Margin: Scotland by 13.5
+Average Margin: Scotland by 13.6
 
 <p float="left">
 <img src="plots/performances_Scotland_V_Italy_5.png" width="32%" />
@@ -108,7 +110,7 @@ Average Margin: Scotland by 13.5
 #### France V Wales on 2023/03/18
 
 
-Average Margin: France by 15.7
+Average Margin: France by 15.5
 
 <p float="left">
 <img src="plots/performances_France_V_Wales_5.png" width="32%" />
@@ -119,7 +121,7 @@ Average Margin: France by 15.7
 #### Ireland V England on 2023/03/18
 
 
-Average Margin: Ireland by 13.8
+Average Margin: Ireland by 13.5
 
 <p float="left">
 <img src="plots/performances_Ireland_V_England_5.png" width="32%" />

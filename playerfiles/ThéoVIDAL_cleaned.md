@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo VIDAL  
-date: 2023-02-24 09:54:41.462009  
+date: 2023-02-24 14:46:42.765227  
 categories: player  
 ---
 # Théo VIDAL

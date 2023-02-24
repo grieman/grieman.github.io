@@ -45,12 +45,12 @@ def make_comp_page(comp):
     md_file.new_line("HEADERSTART")
     md_file.new_line("---")
     md_file.new_line("layout: page")
-    md_file.new_line(f'title: {comp[-5:]} Status')
+    md_file.new_line(f'title: {comp[:-5]} Status')
     md_file.new_line(f'date: ')
     md_file.new_line("categories: model review projection")
     md_file.new_line("---")
 
-    md_file.new_header(level = 1, title = f"{comp[-5:]} Status")
+    md_file.new_header(level = 1, title = f"{comp[:-5]} Status")
     md_file.new_header(level=1, title = "Completed Match Review")
 
     club_histories['name'] = club_histories['Club'] + " V " + club_histories['Opponent'] + " on "+ club_histories['Date'].dt.strftime('%Y/%m/%d')
@@ -79,7 +79,7 @@ def make_comp_page(comp):
     pred_table = pred_table +\
         "\n| ------ | ------ | ------ | ------ | ------ |" +\
         f"\n| Average Error |       - | {lineup_margin_error} | {minutes_margin_error} | {club_margin_error} |" +\
-        f"\n| Correct Winner |       - | {lineup_binary_acc}% | {minutes_binary_acc}% | {club_binary_acc}% |"
+        f"\n| Correct Winner |       - | {lineup_binary_acc}% | {minutes_binary_acc}% | {club_binary_acc}% |\n\n"
 
     md_file.new_paragraph(pred_table)
 

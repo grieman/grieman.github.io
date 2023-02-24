@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault De Freitas  
-date: 2023-02-24 09:51:49.245024  
+date: 2023-02-24 14:46:30.679068  
 categories: player  
 ---
 # Thibault De Freitas

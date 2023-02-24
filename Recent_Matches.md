@@ -8,7 +8,7 @@ key: page-recents
 ## Rugby Europe Championship
 
 
-[In depth model review and projections for Rugby Europe Championship 2022](comp_files/Rugby_Europe_Championship_2022.md)
+[In depth model review and projections for Rugby Europe Championship 2022](comp_files/Rugby_Europe_Championship_2022)
 
 Competition Accuracy: 9 of 12 (75.0%)
 
@@ -30,7 +30,7 @@ Last Round Error: 40.55 points per match
 ## Gallagher Premiership
 
 
-[In depth model review and projections for Gallagher Premiership 2022](comp_files/Gallagher_Premiership_2022.md)
+[In depth model review and projections for Gallagher Premiership 2022](comp_files/Gallagher_Premiership_2022)
 
 Competition Accuracy: 61 of 85 (71.76%)
 
@@ -52,7 +52,7 @@ Last Round Error: 4.8 points per match
 ## Japan Rugby League One
 
 
-[In depth model review and projections for Japan Rugby League One 2022](comp_files/Japan_Rugby_League_One_2022.md)
+[In depth model review and projections for Japan Rugby League One 2022](comp_files/Japan_Rugby_League_One_2022)
 
 Competition Accuracy: 36 of 48 (75.0%)
 
@@ -76,7 +76,7 @@ Last Round Error: 7.69 points per match
 ## Major League Rugby
 
 
-[In depth model review and projections for Major League Rugby 2022](comp_files/Major_League_Rugby_2022.md)
+[In depth model review and projections for Major League Rugby 2022](comp_files/Major_League_Rugby_2022)
 
 Competition Accuracy: 6 of 6 (100.0%)
 
@@ -92,7 +92,7 @@ Last Round Error: 10.29 points per match
 ## Super Rugby Pacific
 
 
-[In depth model review and projections for Super Rugby Pacific 2022](comp_files/Super_Rugby_Pacific_2022.md)
+[In depth model review and projections for Super Rugby Pacific 2022](comp_files/Super_Rugby_Pacific_2022)
 
 Competition Accuracy: 1 of 2 (50.0%)
 
@@ -108,7 +108,7 @@ Last Round Error: 19.25 points per match
 ## Top 14 Orange
 
 
-[In depth model review and projections for Top 14 Orange 2022](comp_files/Top_14_Orange_2022.md)
+[In depth model review and projections for Top 14 Orange 2022](comp_files/Top_14_Orange_2022)
 
 Competition Accuracy: 87 of 126 (69.05%)
 
@@ -134,7 +134,7 @@ Last Round Error: 8.73 points per match
 ## United Rugby Championship
 
 
-[In depth model review and projections for United Rugby Championship 2022](comp_files/United_Rugby_Championship_2022.md)
+[In depth model review and projections for United Rugby Championship 2022](comp_files/United_Rugby_Championship_2022)
 
 Competition Accuracy: 81 of 110 (73.64%)
 
@@ -162,7 +162,7 @@ Last Round Error: 11.38 points per match
 # Domestic Leagues
 
 
-[In depth model review and projections for Japan Rugby League One Division 3 2022](comp_files/Japan_Rugby_League_One_Division_3_2022.md)
+[In depth model review and projections for Japan Rugby League One Division 3 2022](comp_files/Japan_Rugby_League_One_Division_3_2022)
 ## Japan Rugby League One Division 3
 
 
@@ -176,7 +176,7 @@ Last Round Error: 24.04 points per match
 
 [2023-02-18 Kurita Water Gush at Skyactivs Hiroshima; 5-38](reviews//2023-02-18-SkyactivsHiroshima-KuritaWaterGush)
 
-[In depth model review and projections for Nationale 2022](comp_files/Nationale_2022.md)
+[In depth model review and projections for Nationale 2022](comp_files/Nationale_2022)
 ## Nationale
 
 
@@ -202,7 +202,7 @@ Last Round Error: 18.06 points per match
 
 [2023-02-19 US Bressane at Carqueiranne-Hyères; 0-40](reviews//2023-02-19-Carqueiranne-Hyères-USBressane)
 
-[In depth model review and projections for Pro D2 2022](comp_files/Pro_D2_2022.md)
+[In depth model review and projections for Pro D2 2022](comp_files/Pro_D2_2022)
 ## Pro D2
 
 

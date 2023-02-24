@@ -118,7 +118,7 @@ def fill_matches(directory_df, md_file):
         md_file.new_header(level = 1, title = 'International Matches')
         for comp in sorted(dir_int.comps.unique()):
             md_file.new_header(level = 2, title = comp[:-5])
-            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")}.md)')
+            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")})')
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
             for line in accuracy_lines:
                 md_file.new_paragraph(line)
@@ -130,7 +130,7 @@ def fill_matches(directory_df, md_file):
         md_file.new_header(level = 1, title = 'Top Flight Leagues')
         for comp in sorted(dir_pro.comps.unique()):
             md_file.new_header(level = 2, title = comp[:-5])
-            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")}.md)')
+            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")})')
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
             for line in accuracy_lines:
                 md_file.new_paragraph(line)
@@ -141,7 +141,7 @@ def fill_matches(directory_df, md_file):
     if dir_dom.shape[0] > 0:
         md_file.new_header(level = 1, title = 'Domestic Leagues')
         for comp in sorted(dir_dom.comps.unique()):
-            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")}.md)')
+            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")})')
             md_file.new_header(level = 2, title = comp[:-5])
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
             for line in accuracy_lines:

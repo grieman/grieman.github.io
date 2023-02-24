@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent CALAS  
-date: 2023-02-24 09:48:40.801527  
+date: 2023-02-24 14:44:02.800073  
 categories: player  
 ---
 # Vincent CALAS
