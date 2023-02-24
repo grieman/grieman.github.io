@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will HAYDON-WOOD  
-date: 2023-02-17 14:41:26.140194  
+date: 2023-02-24 02:36:31.170720  
 categories: player  
 ---
 # Will HAYDON-WOOD
 
 ## Positions: FH
 
-## Current elo: 86.0
+## Current elo: 98.0
 
-## Current Percentile: 35.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -22,27 +22,20 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Newcastle Falcons |            22 |   0.295455 |
-| Massy             |             7 |   0.428571 |
 | Wasps             |             2 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Worcester Warriors |         3 |   0.833333 |
 | Bristol Rugby      |         3 |   0.333333 |
-| Northampton Saints |         2 |   0        |
-| Carcassonne        |         2 |   1        |
-| Wasps              |         2 |   0.5      |
-| Exeter Chiefs      |         2 |   0        |
-| Saracens           |         2 |   0        |
-| Harlequins         |         2 |   0        |
+| Worcester Warriors |         3 |   0.833333 |
 | Bath Rugby         |         2 |   0.5      |
+| Exeter Chiefs      |         2 |   0        |
+| Harlequins         |         2 |   0        |
 | London Irish       |         2 |   0        |
-| Soyaux-Angouleme   |         1 |   0        |
-| Sale Sharks        |         1 |   0        |
-| Agen               |         1 |   0        |
-| Montauban          |         1 |   1        |
-| Mont-de-Marsan     |         1 |   0        |
-| Grenoble           |         1 |   0        |
-| Gloucester Rugby   |         1 |   0        |
+| Northampton Saints |         2 |   0        |
+| Saracens           |         2 |   0        |
+| Wasps              |         2 |   0.5      |
 | Castres Olympique  |         1 |   1        |
+| Gloucester Rugby   |         1 |   0        |
 | Leicester Tigers   |         1 |   0        |
+| Sale Sharks        |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry POTTER  
-date: 2023-02-17 14:40:41.282235  
+date: 2023-02-24 02:22:29.448650  
 categories: player  
 ---
 # Harry POTTER
 
 ## Positions: W
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 40.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,26 +21,26 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Leicester Tigers   |            57 |   0.622807 |
-| NSW Country Eagles |             2 |   0        |
-| Melbourne Rising   |             1 |   1        |
+| Leicester Tigers   |            58 |    0.62931 |
+| NSW Country Eagles |             2 |    0       |
+| Melbourne Rising   |             1 |    1       |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Northampton Saints |         6 |   0.833333 |
+| Newcastle Falcons  |         5 |   0.8      |
 | Bristol Rugby      |         5 |   0.5      |
 | Gloucester Rugby   |         5 |   0.8      |
-| Newcastle Falcons  |         5 |   0.8      |
 | Bath Rugby         |         4 |   0.25     |
-| London Irish       |         4 |   0.75     |
 | Clermont Auvergne  |         4 |   1        |
 | Sale Sharks        |         4 |   0.25     |
+| London Irish       |         4 |   0.75     |
 | Wasps              |         3 |   0.333333 |
+| Saracens           |         3 |   0.666667 |
 | Worcester Warriors |         3 |   1        |
 | Harlequins         |         3 |   0.666667 |
 | Exeter Chiefs      |         3 |   0.333333 |
 | Ospreys            |         2 |   0.5      |
-| Saracens           |         2 |   0.5      |
 | Bordeaux Begles    |         1 |   1        |
 | Leinster           |         1 |   0        |
 | Queensland Country |         1 |   1        |

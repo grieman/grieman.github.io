@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sikeli NABOU  
-date: 2023-02-17 14:39:24.053613  
+date: 2023-02-24 02:29:38.866557  
 categories: player  
 ---
 # Sikeli NABOU
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 109.0
+## Current elo: 112.0
 
 ## Current Percentile: 82.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Soyaux-Angouleme   |            71 |   0.5      |
 | Biarritz Olympique |            64 |   0.515625 |
+| Soyaux-Angouleme   |            64 |   0.539062 |
 | Counties Manukau   |            43 |   0.395349 |
 | Fiji               |             4 |   0.5      |
 
@@ -33,38 +33,38 @@ categories: player
 | Vannes                     |         8 |   0.375    |
 | Grenoble                   |         7 |   0.285714 |
 | Mont-de-Marsan             |         7 |   0.571429 |
-| Montauban                  |         7 |   0.428571 |
 | Nevers                     |         7 |   0.214286 |
-| Beziers                    |         7 |   0.714286 |
-| Perpignan                  |         6 |   0.333333 |
-| Colomiers                  |         6 |   0.333333 |
-| Oyonnax                    |         6 |   0.333333 |
-| Massy                      |         6 |   0.833333 |
-| Valence Romans Drome Rugby |         6 |   0.75     |
 | Aurillac                   |         6 |   0.5      |
+| Valence Romans Drome Rugby |         6 |   0.75     |
+| Beziers                    |         6 |   0.833333 |
+| Montauban                  |         6 |   0.5      |
+| Perpignan                  |         6 |   0.333333 |
 | Canterbury                 |         5 |   0        |
-| Soyaux-Angouleme           |         5 |   0.6      |
 | Dax                        |         5 |   0.6      |
+| Colomiers                  |         5 |   0.4      |
+| Oyonnax                    |         5 |   0.4      |
+| Massy                      |         5 |   0.8      |
+| Soyaux-Angouleme           |         5 |   0.6      |
 | Auckland                   |         5 |   0.2      |
-| Rouen                      |         5 |   0.2      |
-| Hawke's Bay                |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.25     |
+| Hawke's Bay                |         4 |   0.5      |
 | Southland                  |         4 |   0.75     |
 | Tasman                     |         4 |   0.5      |
+| Rouen                      |         4 |   0.25     |
 | Agen                       |         4 |   0.5      |
 | Wellington                 |         4 |   0.25     |
-| Carcassonne                |         4 |   0.375    |
 | Bourgoin-Jallieu           |         4 |   1        |
-| Biarritz Olympique         |         4 |   0        |
-| Waikato                    |         3 |   0.666667 |
+| Carcassonne                |         4 |   0.375    |
 | Bay of Plenty              |         3 |   0.333333 |
-| Northland                  |         3 |   0.666667 |
-| Albi                       |         3 |   1        |
 | Bayonne                    |         3 |   1        |
+| Northland                  |         3 |   0.666667 |
+| Biarritz Olympique         |         3 |   0        |
+| Waikato                    |         3 |   0.666667 |
+| Albi                       |         3 |   1        |
 | Manawatu                   |         3 |   0.333333 |
-| Cognac Saint Jean d'Angély |         2 |   1        |
 | Nice                       |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Taranaki                   |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | North Harbour              |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul AURADOU  
-date: 2023-02-17 14:42:44.686480  
+date: 2023-02-24 02:27:03.017792  
 categories: player  
 ---
 # Paul AURADOU
 
 ## Positions: FH, FB
 
-## Current elo: 95.0
+## Current elo: 87.0
 
-## Current Percentile: 39.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             9 |   0.333333 |
-| Pau      |             2 |   0        |
+| Narbonne |            10 |        0.3 |
+| Pau      |             2 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Tarbes                     |         2 |          0 |
 | Valence Romans Drome Rugby |         2 |          0 |
 | Albi                       |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
@@ -34,5 +35,4 @@ categories: player
 | London Irish               |         1 |          0 |
 | Nice                       |         1 |          1 |
 | Suresnes                   |         1 |          1 |
-| Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          1 |

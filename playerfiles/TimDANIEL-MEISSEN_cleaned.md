@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim DANIEL-MEISSEN  
-date: 2023-01-15 12:02:49.125410  
+date: 2023-02-24 02:26:09.990967  
 categories: player  
 ---
 # Tim DANIEL-MEISSEN
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 89.0
 
-## Current Percentile: 27.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            36 |      0.375 |
+| Aurillac |            37 |   0.391892 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,11 +35,11 @@ categories: player
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Vannes                     |         2 |   0        |
 | Montauban                  |         2 |   0.5      |
+| Massy                      |         2 |   1        |
 | Carcassonne                |         2 |   0        |
 | Bayonne                    |         1 |   0        |
 | Nevers                     |         1 |   1        |
 | Perpignan                  |         1 |   0.5      |
-| Massy                      |         1 |   1        |
 | Colomiers                  |         1 |   0        |
 | Beziers                    |         1 |   1        |
 | Narbonne                   |         1 |   1        |

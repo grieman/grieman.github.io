@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-02-10 10:36:29.492872  
+date: 2023-02-24 02:28:18.137976  
 categories: player  
 ---
 # Romain SAZY
 
 ## Positions: L, FL
 
-## Current elo: 130.0
+## Current elo: 112.0
 
-## Current Percentile: 97.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,59 +21,58 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           327 |   0.587156 |
+| La Rochelle |           316 |   0.585443 |
 | Montauban   |            20 |   0.15     |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| Stade Toulousain       |        20 |   0.3      |
-| Racing 92              |        20 |   0.45     |
 | Pau                    |        19 |   0.684211 |
+| Racing 92              |        19 |   0.473684 |
 | Toulon                 |        19 |   0.5      |
+| Stade Toulousain       |        19 |   0.263158 |
 | Clermont Auvergne      |        18 |   0.25     |
-| Castres Olympique      |        17 |   0.529412 |
-| Stade Francais Paris   |        17 |   0.5      |
+| Castres Olympique      |        16 |   0.5      |
+| Stade Francais Paris   |        16 |   0.53125  |
 | Brive                  |        15 |   0.6      |
-| Bordeaux Begles        |        15 |   0.533333 |
-| Lyon                   |        14 |   0.678571 |
+| Bordeaux Begles        |        14 |   0.571429 |
 | Agen                   |        14 |   0.642857 |
+| Lyon                   |        13 |   0.730769 |
 | Montpellier Herault    |        11 |   0.545455 |
 | Bayonne                |        11 |   0.5      |
 | Grenoble               |         9 |   0.666667 |
-| Perpignan              |         8 |   0.625    |
 | Oyonnax                |         7 |   0.285714 |
 | Dax                    |         7 |   0.428571 |
+| Perpignan              |         7 |   0.571429 |
 | Bourgoin-Jallieu       |         6 |   0.583333 |
-| Gloucester Rugby       |         6 |   0.333333 |
 | Auch                   |         6 |   1        |
 | Albi                   |         6 |   0.833333 |
+| Gloucester Rugby       |         6 |   0.333333 |
 | Narbonne               |         6 |   0.5      |
 | Aurillac               |         6 |   0.666667 |
 | Biarritz Olympique     |         5 |   0.2      |
 | Tarbes                 |         5 |   0.4      |
-| Beziers                |         5 |   1        |
 | Carcassonne            |         5 |   0.6      |
+| Beziers                |         5 |   1        |
 | Provence Rugby         |         4 |   0.75     |
 | Zebre                  |         4 |   0.75     |
 | Colomiers              |         4 |   1        |
 | Mont-de-Marsan         |         3 |   0.666667 |
-| Ulster                 |         3 |   1        |
 | Bristol Rugby          |         3 |   0.666667 |
 | Sale Sharks            |         3 |   0.666667 |
 | Glasgow Warriors       |         2 |   1        |
-| Exeter Chiefs          |         2 |   0        |
+| Massy                  |         2 |   1        |
 | Worcester Warriors     |         2 |   0.5      |
 | Wasps                  |         2 |   0.5      |
 | US Bressane            |         2 |   1        |
-| Northampton Saints     |         2 |   1        |
+| Exeter Chiefs          |         2 |   0        |
 | Leinster               |         2 |   1        |
-| Massy                  |         2 |   1        |
 | Périgueux              |         2 |   0.5      |
 | Scarlets               |         1 |   0        |
 | Edinburgh              |         1 |   1        |
+| Newcastle Falcons      |         1 |   0        |
 | Benetton Treviso       |         1 |   1        |
 | Bath Rugby             |         1 |   1        |
 | RC Enisei              |         1 |   1        |
-| Newcastle Falcons      |         1 |   0        |
+| Ulster                 |         1 |   1        |
 | Enisey-STM Krasnoyarsk |         1 |   1        |
 | Harlequins             |         1 |   1        |

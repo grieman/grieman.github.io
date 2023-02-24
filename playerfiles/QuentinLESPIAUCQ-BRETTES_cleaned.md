@@ -1,63 +1,34 @@
 ---  
 layout: page  
-title: Quentin LESPIAUCQ-BRETTES  
-date: 2023-02-10 10:37:05.772966  
+title: Quentin Lespiaucq-Brettes  
+date: 2023-02-24 02:35:19.973453  
 categories: player  
 ---
-# Quentin LESPIAUCQ-BRETTES
+# Quentin Lespiaucq-Brettes
 
 ## Positions: H
 
-## Current elo: 74.0
+## Current elo: 101.0
 
-## Current Percentile: 9.0
+## Current Percentile: 66.0
 
 # Elo History
 
 
-![elo history](history_QuentinLESPIAUCQ-BRETTES.png)
+![elo history](history_QuentinLespiaucq-Brettes.png)
 # Match History
 
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Pau         |           135 |   0.437037 |
-| La Rochelle |            17 |   0.647059 |
-| Dax         |             9 |   0.222222 |
+| La Rochelle |            10 |        0.7 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Toulon               |        14 |   0.25     |
-| Stade Francais Paris |        13 |   0.461538 |
-| Castres Olympique    |        12 |   0.416667 |
-| Racing 92            |        11 |   0.318182 |
-| Lyon                 |         9 |   0.5      |
-| Brive                |         9 |   0.555556 |
-| La Rochelle          |         9 |   0.222222 |
-| Bordeaux Begles      |         9 |   0.444444 |
-| Agen                 |         8 |   0.875    |
-| Stade Toulousain     |         8 |   0.25     |
-| Montpellier Herault  |         7 |   0.428571 |
-| Clermont Auvergne    |         7 |   0.285714 |
-| Bayonne              |         6 |   0.75     |
-| Cardiff Blues        |         4 |   0.25     |
-| Grenoble             |         4 |   1        |
-| Oyonnax              |         4 |   0.75     |
-| Perpignan            |         4 |   1        |
-| Pau                  |         3 |   0        |
-| Northampton Saints   |         2 |   1        |
-| Ulster               |         2 |   1        |
-| Bristol Rugby        |         2 |   0        |
-| Bath Rugby           |         2 |   0        |
-| Montauban            |         1 |   0        |
-| Massy                |         1 |   0        |
-| Narbonne             |         1 |   1        |
-| Albi                 |         1 |   0        |
-| Leicester Tigers     |         1 |   1        |
-| Dragons              |         1 |   0        |
-| Calvisano            |         1 |   1        |
-| Sale Sharks          |         1 |   0        |
-| Bourgoin-Jallieu     |         1 |   0        |
-| Biarritz Olympique   |         1 |   1        |
-| Tarbes               |         1 |   0        |
-| London Irish         |         1 |   0        |
+| Castres Olympique    |         2 |          1 |
+| Northampton Saints   |         2 |          1 |
+| Ulster               |         2 |          1 |
+| Lyon                 |         1 |          0 |
+| Perpignan            |         1 |          1 |
+| Racing 92            |         1 |          0 |
+| Stade Francais Paris |         1 |          0 |

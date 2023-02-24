@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Oktay YILMAZ  
-date: 2023-02-06 16:01:25.125945  
+date: 2023-02-24 02:31:24.517906  
 categories: player  
 ---
 # Oktay YILMAZ
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 38.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Nevers           |            21 |   0.380952 |
-| Bourgoin-Jallieu |            17 |   0.441176 |
+| Bourgoin-Jallieu |            18 |   0.472222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,22 +33,22 @@ categories: player
 | US Bressane                |         2 |       0.5  |
 | Rouen                      |         2 |       0.5  |
 | Nice                       |         2 |       1    |
+| Albi                       |         2 |       0.5  |
 | Mont-de-Marsan             |         2 |       0.5  |
 | Vannes                     |         2 |       0    |
 | Aurillac                   |         2 |       0.5  |
-| Cognac Saint Jean d'Angély |         1 |       1    |
-| Provence Rugby             |         1 |       0    |
-| Biarritz Olympique         |         1 |       0    |
-| Tarbes                     |         1 |       0    |
-| Suresnes                   |         1 |       0    |
-| Blagnac                    |         1 |       0    |
-| Rennes                     |         1 |       1    |
-| Perpignan                  |         1 |       0    |
 | Dax                        |         1 |       0    |
-| Oyonnax                    |         1 |       0    |
-| Carcassonne                |         1 |       0    |
-| Carqueiranne-Hyères        |         1 |       1    |
-| Albi                       |         1 |       0    |
-| Chambery                   |         1 |       1    |
 | Grenoble                   |         1 |       0    |
+| Cognac Saint Jean d'Angély |         1 |       1    |
+| Chambery                   |         1 |       1    |
+| Carqueiranne-Hyères        |         1 |       1    |
+| Carcassonne                |         1 |       0    |
+| Oyonnax                    |         1 |       0    |
+| Perpignan                  |         1 |       0    |
+| Provence Rugby             |         1 |       0    |
+| Rennes                     |         1 |       1    |
+| Blagnac                    |         1 |       0    |
+| Suresnes                   |         1 |       0    |
+| Tarbes                     |         1 |       0    |
+| Biarritz Olympique         |         1 |       0    |
 | Agen                       |         1 |       0    |

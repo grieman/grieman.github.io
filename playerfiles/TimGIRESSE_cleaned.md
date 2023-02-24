@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim GIRESSE  
-date: 2023-02-17 14:41:58.998152  
+date: 2023-02-24 02:33:23.135429  
 categories: player  
 ---
 # Tim GIRESSE
 
 ## Positions: W
 
-## Current elo: 106.0
+## Current elo: 114.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------------|--------------:|-----------:|
 | Oyonnax                    |            55 |   0.509091 |
 | Biarritz Olympique         |            43 |   0.55814  |
-| Valence Romans Drome Rugby |            28 |   0.642857 |
+| Valence Romans Drome Rugby |            26 |   0.653846 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,11 +31,11 @@ categories: player
 | Carcassonne                |         8 |   0.625    |
 | Beziers                    |         7 |   0.857143 |
 | Mont-de-Marsan             |         7 |   0.714286 |
-| Narbonne                   |         6 |   0.833333 |
 | Colomiers                  |         6 |   0.416667 |
 | Aurillac                   |         6 |   0.166667 |
 | Dax                        |         6 |   0.333333 |
 | Soyaux-Angouleme           |         6 |   0.666667 |
+| Narbonne                   |         5 |   0.8      |
 | Vannes                     |         5 |   0.6      |
 | Biarritz Olympique         |         5 |   0.2      |
 | Bourgoin-Jallieu           |         5 |   1        |
@@ -47,8 +47,8 @@ categories: player
 | Provence Rugby             |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.333333 |
 | Brive                      |         3 |   0        |
-| US Bressane                |         3 |   0.333333 |
 | Tarbes                     |         2 |   0.5      |
+| US Bressane                |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Worcester Warriors         |         2 |   0.5      |
 | Nevers                     |         2 |   1        |

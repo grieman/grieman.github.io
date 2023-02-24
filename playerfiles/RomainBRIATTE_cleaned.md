@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain BRIATTE  
-date: 2023-02-10 10:36:08.145929  
+date: 2023-02-24 02:25:01.019065  
 categories: player  
 ---
 # Romain BRIATTE
 
 ## Positions: FL
 
-## Current elo: 112.0
+## Current elo: 91.0
 
-## Current Percentile: 76.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,28 +23,28 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Aurillac             |            68 |   0.463235 |
 | Agen                 |            52 |   0.182692 |
-| Stade Francais Paris |            35 |   0.471429 |
+| Stade Francais Paris |            28 |   0.410714 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Perpignan            |        11 |   0.681818 |
-| Racing 92            |         9 |   0.166667 |
-| Bordeaux Begles      |         8 |   0.125    |
-| Castres Olympique    |         8 |   0.25     |
+| Perpignan            |        10 |   0.75     |
+| Racing 92            |         8 |   0.0625   |
+| Colomiers            |         7 |   0.285714 |
 | Bayonne              |         7 |   0.285714 |
 | Montauban            |         7 |   0.5      |
-| Pau                  |         7 |   0.428571 |
-| Colomiers            |         7 |   0.285714 |
-| Dax                  |         6 |   0.5      |
+| Bordeaux Begles      |         7 |   0        |
+| Castres Olympique    |         7 |   0.142857 |
 | Lyon                 |         6 |   0.333333 |
 | Stade Toulousain     |         6 |   0.25     |
+| Dax                  |         6 |   0.5      |
+| Pau                  |         6 |   0.333333 |
 | Narbonne             |         5 |   0.6      |
 | Montpellier Herault  |         5 |   0.2      |
-| La Rochelle          |         5 |   0.6      |
 | Clermont Auvergne    |         5 |   0.2      |
-| Toulon               |         5 |   0.4      |
 | Beziers              |         5 |   0.4      |
+| Toulon               |         4 |   0.5      |
 | Albi                 |         4 |   0.5      |
+| La Rochelle          |         4 |   0.5      |
 | Mont-de-Marsan       |         4 |   0.5      |
 | Biarritz Olympique   |         4 |   0.5      |
 | Soyaux-Angouleme     |         4 |   0.5      |

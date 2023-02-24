@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vakhtangi AKHOBADZE  
-date: 2023-02-10 10:37:47.641099  
+date: 2023-02-24 02:28:10.741450  
 categories: player  
 ---
 # Vakhtangi AKHOBADZE
 
 ## Positions: P
 
-## Current elo: 62.0
+## Current elo: 61.0
 
-## Current Percentile: 0.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -23,32 +23,32 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |            48 |   0.40625  |
 | Agen               |            23 |   0.413043 |
-| Carcassonne        |            17 |   0.264706 |
 | Massy              |            11 |   0.181818 |
+| Carcassonne        |             9 |   0.222222 |
 | Albi               |             4 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Colomiers                  |         8 |   0.1875   |
+| Colomiers                  |         7 |   0.214286 |
 | Perpignan                  |         7 |   0.142857 |
-| Mont-de-Marsan             |         5 |   0.3      |
 | Carcassonne                |         5 |   0.6      |
-| Massy                      |         5 |   0.2      |
 | Oyonnax                    |         5 |   0        |
-| Grenoble                   |         4 |   0.5      |
+| Mont-de-Marsan             |         4 |   0.375    |
 | Pau                        |         4 |   0        |
-| Provence Rugby             |         4 |   0.5      |
-| Rouen                      |         4 |   1        |
 | Montauban                  |         4 |   0.5      |
+| Rouen                      |         3 |   1        |
 | Biarritz Olympique         |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0        |
-| Nevers                     |         3 |   1        |
 | Vannes                     |         3 |   0        |
+| Grenoble                   |         3 |   0.5      |
+| Massy                      |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.666667 |
+| Provence Rugby             |         3 |   0.666667 |
 | Racing 92                  |         2 |   0        |
 | Montpellier Herault        |         2 |   0        |
 | Stade Toulousain           |         2 |   0        |
 | US Bressane                |         2 |   0.5      |
+| Nevers                     |         2 |   1        |
 | Agen                       |         2 |   0.5      |
 | Albi                       |         2 |   0        |
 | Dax                        |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita RATUVA  
-date: 2023-02-10 10:37:44.095270  
+date: 2023-02-24 02:22:57.506335  
 categories: player  
 ---
 # Tevita RATUVA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 51.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -23,29 +23,28 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Brive         |            29 |   0.293103 |
+| Brive         |            24 |   0.3125   |
 | Scarlets      |            19 |   0.526316 |
 | Fiji          |            10 |   0.35     |
 | Brisbane City |             2 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Cardiff Blues        |         5 |   0.4      |
-| Perpignan            |         4 |   0.5      |
+| Perpignan            |         3 |   0.666667 |
+| Cardiff Blues        |         3 |   0.333333 |
 | Toulon               |         3 |   0.333333 |
 | Lyon                 |         3 |   0        |
 | Edinburgh            |         3 |   0.333333 |
 | Montpellier Herault  |         2 |   0.25     |
-| Ospreys              |         2 |   1        |
+| Stade Francais Paris |         2 |   1        |
 | Munster              |         2 |   0        |
 | London Irish         |         2 |   1        |
 | La Rochelle          |         2 |   0        |
-| Stade Francais Paris |         2 |   1        |
 | Stade Toulousain     |         2 |   0        |
+| Ospreys              |         2 |   1        |
 | Dragons              |         2 |   0.5      |
-| Connacht             |         2 |   0.5      |
-| Clermont Auvergne    |         2 |   0.5      |
 | Tonga                |         2 |   1        |
+| Clermont Auvergne    |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0        |
 | Pau                  |         2 |   0.5      |
 | Spain                |         1 |   1        |
@@ -56,11 +55,11 @@ categories: player
 | New Zealand Maori    |         1 |   0        |
 | New Zealand          |         1 |   0        |
 | NSW Country Eagles   |         1 |   0.5      |
-| Bayonne              |         1 |   0        |
+| Benetton Treviso     |         1 |   1        |
 | Leinster             |         1 |   0        |
 | Greater Sydney Rams  |         1 |   0        |
 | Georgia              |         1 |   0.5      |
+| Connacht             |         1 |   1        |
 | Castres Olympique    |         1 |   0        |
 | Biarritz Olympique   |         1 |   0        |
-| Benetton Treviso     |         1 |   1        |
 | Wales                |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Olivier KLEMENCZAK  
-date: 2023-02-10 10:37:13.914175  
+date: 2023-02-24 02:26:45.049456  
 categories: player  
 ---
 # Olivier KLEMENCZAK
 
 ## Positions: C
 
-## Current elo: 110.0
+## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,48 +21,46 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |            95 |   0.605263 |
+| Racing 92 |            86 |   0.622093 |
 | Dax       |            59 |   0.355932 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| La Rochelle          |        10 |  0.5       |
-| Castres Olympique    |         8 |  0.625     |
+| La Rochelle          |         9 |  0.444444  |
 | Perpignan            |         8 |  0.625     |
+| Castres Olympique    |         8 |  0.625     |
 | Lyon                 |         8 |  0.375     |
-| Clermont Auvergne    |         7 |  0.785714  |
-| Toulon               |         6 |  0.666667  |
-| Stade Toulousain     |         6 |  0.333333  |
 | Bayonne              |         6 |  0.0833333 |
-| Pau                  |         6 |  0.5       |
-| Montpellier Herault  |         6 |  0.833333  |
-| Bordeaux Begles      |         5 |  0.4       |
-| Narbonne             |         5 |  0.6       |
+| Stade Toulousain     |         6 |  0.333333  |
+| Clermont Auvergne    |         6 |  0.75      |
 | Agen                 |         5 |  0.4       |
-| Biarritz Olympique   |         4 |  0.5       |
-| Stade Francais Paris |         4 |  0.5       |
+| Toulon               |         5 |  0.6       |
+| Bordeaux Begles      |         5 |  0.4       |
+| Pau                  |         5 |  0.6       |
+| Narbonne             |         5 |  0.6       |
+| Montpellier Herault  |         5 |  1         |
 | Mont-de-Marsan       |         4 |  0.25      |
 | Colomiers            |         4 |  0.25      |
 | Aurillac             |         4 |  0.5       |
-| Soyaux-Angouleme     |         3 |  0.333333  |
-| Montauban            |         3 |  0.333333  |
+| Biarritz Olympique   |         4 |  0.5       |
+| Grenoble             |         3 |  0.666667  |
 | Massy                |         3 |  0.333333  |
 | Albi                 |         3 |  0.166667  |
-| Bourgoin-Jallieu     |         3 |  0         |
-| Brive                |         3 |  1         |
+| Montauban            |         3 |  0.333333  |
 | Carcassonne          |         3 |  0.333333  |
-| Grenoble             |         3 |  0.666667  |
+| Brive                |         3 |  1         |
+| Stade Francais Paris |         3 |  0.666667  |
+| Soyaux-Angouleme     |         3 |  0.333333  |
+| Bourgoin-Jallieu     |         3 |  0         |
 | Saracens             |         2 |  0.5       |
 | Ulster               |         2 |  0.5       |
 | Beziers              |         2 |  0.5       |
 | Scarlets             |         2 |  1         |
-| Vannes               |         2 |  1         |
-| Leinster             |         2 |  0         |
 | Oyonnax              |         2 |  0.5       |
 | Ospreys              |         2 |  1         |
 | Nevers               |         2 |  0.5       |
 | Leicester Tigers     |         2 |  1         |
+| Vannes               |         2 |  1         |
 | Provence Rugby       |         1 |  1         |
-| Harlequins           |         1 |  1         |
-| Munster              |         1 |  1         |
 | Exeter Chiefs        |         1 |  0         |
+| Munster              |         1 |  1         |

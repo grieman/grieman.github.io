@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sanele NOHAMBA  
-date: 2023-01-06 11:51:54.999090  
+date: 2023-02-24 02:20:28.569368  
 categories: player  
 ---
 # Sanele NOHAMBA
 
 ## Positions: SH
 
-## Current elo: 118.0
+## Current elo: 113.0
 
-## Current Percentile: 93.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,26 +21,29 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Natal Sharks |            20 |   0.65     |
-| Lions        |            12 |   0.541667 |
-| Golden Lions |             2 |   1        |
+| Natal Sharks |            25 |        0.6 |
+| Sharks       |            10 |        0.8 |
+| Lions        |             6 |        0.5 |
+| Golden Lions |             2 |        1   |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Blue Bulls           |         4 |   0.75     |
-| Golden Lions         |         4 |   0.75     |
-| Griquas              |         4 |   0.5      |
-| Western Province     |         4 |   0.75     |
-| Pumas                |         3 |   0.666667 |
-| Free State Cheetahs  |         2 |   0.5      |
-| Dragons              |         2 |   0.75     |
-| Stormers             |         2 |   0        |
-| Edinburgh            |         1 |   1        |
-| Cardiff Blues        |         1 |   1        |
-| Bulls                |         1 |   0        |
-| Ospreys              |         1 |   1        |
-| Scarlets             |         1 |   1        |
-| Sharks               |         1 |   0        |
-| Stade Francais Paris |         1 |   1        |
-| Ulster               |         1 |   0        |
-| Natal Sharks         |         1 |   1        |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Blue Bulls          |         6 |   0.5      |
+| Griquas             |         5 |   0.6      |
+| Western Province    |         5 |   0.8      |
+| Golden Lions        |         4 |   0.75     |
+| Free State Cheetahs |         3 |   0.333333 |
+| Bulls               |         3 |   0.666667 |
+| Pumas               |         3 |   0.666667 |
+| Ospreys             |         2 |   1        |
+| Stormers            |         2 |   0.5      |
+| Edinburgh           |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
+| Highlanders         |         1 |   1        |
+| Hurricanes          |         1 |   0        |
+| Melbourne Rebels    |         1 |   1        |
+| Munster             |         1 |   0        |
+| Natal Sharks        |         1 |   1        |
+| Queensland Reds     |         1 |   1        |
+| Ulster              |         1 |   0        |
+| Jaguares            |         1 |   1        |

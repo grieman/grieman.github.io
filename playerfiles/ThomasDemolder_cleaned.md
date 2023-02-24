@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Demolder  
-date: 2023-02-10 10:36:27.597226  
+date: 2023-02-24 02:26:47.802829  
 categories: player  
 ---
 # Thomas Demolder
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 91.0
+## Current elo: 70.0
 
-## Current Percentile: None
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Belgium |            22 |   0.204545 |
+| Belgium |            24 |     0.1875 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
@@ -32,4 +32,5 @@ categories: player
 | Spain      |         5 |        0.3 |
 | Georgia    |         3 |        0   |
 | Germany    |         2 |        0.5 |
+| Poland     |         2 |        0   |
 | Romania    |         2 |        0   |

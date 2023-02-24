@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sacha LOTRIAN  
-date: 2023-02-10 10:37:52.377503  
+date: 2023-02-24 02:36:25.482766  
 categories: player  
 ---
 # Sacha LOTRIAN
 
 ## Positions: P
 
-## Current elo: 121.0
+## Current elo: 108.0
 
-## Current Percentile: 95.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,28 +21,27 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            65 |   0.607692 |
+| Perpignan |            61 |   0.631148 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Biarritz Olympique         |         5 |   0.8      |
-| Brive                      |         4 |   0.5      |
 | Mont-de-Marsan             |         4 |   1        |
 | Aurillac                   |         3 |   0.833333 |
+| Brive                      |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   1        |
 | Racing 92                  |         3 |   0.333333 |
 | Grenoble                   |         3 |   1        |
 | La Rochelle                |         3 |   0.333333 |
 | Pau                        |         3 |   0        |
-| Montpellier Herault        |         3 |   0        |
-| Oyonnax                    |         2 |   1        |
+| Nevers                     |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   1        |
-| Stade Toulousain           |         2 |   0.5      |
 | Stade Francais Paris       |         2 |   0        |
 | Rouen                      |         2 |   0.5      |
 | Provence Rugby             |         2 |   1        |
+| Oyonnax                    |         2 |   1        |
 | Montauban                  |         2 |   0.5      |
-| Nevers                     |         2 |   1        |
+| Montpellier Herault        |         2 |   0        |
 | Colomiers                  |         2 |   0.5      |
 | Castres Olympique          |         2 |   0        |
 | Carcassonne                |         2 |   1        |
@@ -51,5 +50,5 @@ categories: player
 | Beziers                    |         1 |   0        |
 | Lyon                       |         1 |   0        |
 | Clermont Auvergne          |         1 |   1        |
-| Bristol Rugby              |         1 |   0        |
+| Stade Toulousain           |         1 |   1        |
 | Toulon                     |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Swan CORMENIER  
-date: 2023-02-10 10:36:39.779838  
+date: 2023-02-24 02:34:02.352976  
 categories: player  
 ---
 # Swan CORMENIER
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 90.0
 
-## Current Percentile: 63.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,36 +21,33 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |            59 |   0.483051 |
+| Bayonne |            49 |   0.510204 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Toulon               |         7 |   0.428571 |
-| Bordeaux Begles      |         4 |   0.25     |
+| Toulon               |         6 |   0.333333 |
 | Stade Francais Paris |         4 |   0.25     |
-| Scarlets             |         4 |   0        |
-| Stade Toulousain     |         3 |   0.333333 |
+| Bordeaux Begles      |         3 |   0.333333 |
 | Racing 92            |         3 |   0.666667 |
-| Pau                  |         3 |   0.166667 |
 | Oyonnax              |         3 |   0.666667 |
 | Agen                 |         2 |   0.75     |
-| Narbonne             |         2 |   1        |
+| Nevers               |         2 |   0.75     |
 | US Bressane          |         2 |   1        |
 | Castres Olympique    |         2 |   0        |
+| Stade Toulousain     |         2 |   0.5      |
+| Scarlets             |         2 |   0        |
 | La Rochelle          |         2 |   0.5      |
-| Lyon                 |         2 |   0.5      |
-| Nevers               |         2 |   0.75     |
+| Pau                  |         2 |   0        |
+| Narbonne             |         2 |   1        |
 | Provence Rugby       |         1 |   1        |
-| Mont-de-Marsan       |         1 |   1        |
-| Montpellier Herault  |         1 |   0        |
 | Montauban            |         1 |   1        |
 | Aurillac             |         1 |   1        |
+| Mont-de-Marsan       |         1 |   1        |
+| Lyon                 |         1 |   0        |
 | Leicester Tigers     |         1 |   0        |
 | Grenoble             |         1 |   1        |
 | Colomiers            |         1 |   1        |
 | Clermont Auvergne    |         1 |   0        |
 | Carcassonne          |         1 |   1        |
-| Brive                |         1 |   1        |
 | Beziers              |         1 |   0        |
-| Benetton Treviso     |         1 |   0        |
 | Vannes               |         1 |   1        |

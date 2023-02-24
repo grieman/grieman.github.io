@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sazi SANDI  
-date: 2023-02-10 10:37:30.686688  
+date: 2023-02-24 02:24:04.669568  
 categories: player  
 ---
 # Sazi SANDI
@@ -21,27 +21,23 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            19 |   0.657895 |
 | Western Province |            16 |   0.46875  |
+| Stormers         |            13 |   0.730769 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Griquas             |         4 |       0.25 |
-| Sharks              |         4 |       0.75 |
-| Golden Lions        |         4 |       0.5  |
-| Pumas               |         3 |       0.5  |
-| Lions               |         3 |       1    |
-| Edinburgh           |         2 |       0.75 |
-| Natal Sharks        |         2 |       1    |
-| Blue Bulls          |         2 |       0    |
-| Munster             |         1 |       0    |
-| Ulster              |         1 |       0    |
-| Scarlets            |         1 |       1    |
-| Benetton Treviso    |         1 |       0    |
-| London Irish        |         1 |       1    |
-| Glasgow Warriors    |         1 |       0    |
-| Free State Cheetahs |         1 |       1    |
-| Dragons             |         1 |       1    |
-| Clermont Auvergne   |         1 |       0    |
-| Bulls               |         1 |       1    |
-| Zebre               |         1 |       1    |
+| Golden Lions        |         4 |   0.5      |
+| Griquas             |         4 |   0.25     |
+| Pumas               |         3 |   0.5      |
+| Sharks              |         3 |   0.666667 |
+| Blue Bulls          |         2 |   0        |
+| Edinburgh           |         2 |   0.75     |
+| Lions               |         2 |   1        |
+| Natal Sharks        |         2 |   1        |
+| Benetton Treviso    |         1 |   0        |
+| Bulls               |         1 |   1        |
+| Dragons             |         1 |   1        |
+| Free State Cheetahs |         1 |   1        |
+| Munster             |         1 |   0        |
+| Scarlets            |         1 |   1        |
+| Zebre               |         1 |   1        |

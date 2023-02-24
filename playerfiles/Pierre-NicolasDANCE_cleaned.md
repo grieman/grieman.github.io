@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre-Nicolas DANCE  
-date: 2023-02-17 14:42:49.025265  
+date: 2023-02-24 02:34:32.437614  
 categories: player  
 ---
 # Pierre-Nicolas DANCE
 
 ## Positions: FL
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 54.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            45 |   0.455556 |
+| Chambery |            46 |   0.445652 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,6 +38,6 @@ categories: player
 | Albi                       |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Narbonne                   |         2 |   1        |
+| Rennes                     |         2 |   0.5      |
 | Carqueiranne-Hyères        |         1 |   0        |
-| Rennes                     |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sunia VOLA  
-date: 2023-02-17 14:40:44.547533  
+date: 2023-02-24 02:36:40.366140  
 categories: player  
 ---
 # Sunia VOLA
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 105.0
 
-## Current Percentile: 50.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |            43 |   0.651163 |
+| Nice   |            44 |   0.659091 |
 | Vannes |            39 |   0.474359 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,13 +29,13 @@ categories: player
 | Soyaux-Angouleme           |         5 |   0.4      |
 | Narbonne                   |         5 |   0        |
 | Albi                       |         5 |   0.5      |
+| Valence Romans Drome Rugby |         4 |   0.25     |
 | US Bressane                |         4 |   0.625    |
 | Tarbes                     |         4 |   0.875    |
 | Bourgoin-Jallieu           |         4 |   0.875    |
 | Suresnes                   |         4 |   0.75     |
 | Chambery                   |         4 |   0.75     |
 | Massy                      |         4 |   0.75     |
-| Valence Romans Drome Rugby |         3 |   0        |
 | Dax                        |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
 | Montauban                  |         3 |   0.666667 |

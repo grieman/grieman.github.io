@@ -1,56 +1,36 @@
 ---  
 layout: page  
-title: Wilfried HOUNKPATIN  
-date: 2023-02-10 10:36:36.288522  
+title: Wilfried Hounkpatin  
+date: 2023-02-24 02:37:05.156936  
 categories: player  
 ---
-# Wilfried HOUNKPATIN
+# Wilfried Hounkpatin
 
 ## Positions: P
 
-## Country: France
+## Current elo: 91.0
 
-## Current elo: 99.0
-
-## Current Percentile: 61.0
+## Current Percentile: 40.0
 
 # Elo History
 
 
-![elo history](history_WilfriedHOUNKPATIN.png)
+![elo history](history_WilfriedHounkpatin.png)
 # Match History
 
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |           102 |   0.583333 |
-| Narbonne          |             3 |   0.333333 |
-| France            |             1 |   1        |
+| Castres Olympique |             9 |   0.277778 |
 
-| Opponent               |   Matches |   Win Rate |
-|:-----------------------|----------:|-----------:|
-| Racing 92              |         9 |   0.388889 |
-| Montpellier Herault    |         8 |   0.625    |
-| Bordeaux Begles        |         8 |   0.1875   |
-| Stade Francais Paris   |         8 |   0.375    |
-| Toulon                 |         7 |   0.428571 |
-| Stade Toulousain       |         7 |   0.5      |
-| Pau                    |         7 |   0.857143 |
-| Agen                   |         6 |   0.833333 |
-| Brive                  |         6 |   0.666667 |
-| Clermont Auvergne      |         6 |   0.666667 |
-| Lyon                   |         6 |   0.666667 |
-| La Rochelle            |         5 |   0.4      |
-| Bayonne                |         4 |   0.75     |
-| Perpignan              |         3 |   0.666667 |
-| Munster                |         2 |   0.5      |
-| Gloucester Rugby       |         2 |   0.5      |
-| Exeter Chiefs          |         2 |   0.5      |
-| Biarritz Olympique     |         2 |   1        |
-| Worcester Warriors     |         2 |   1        |
-| Aurillac               |         1 |   1        |
-| Enisey-STM Krasnoyarsk |         1 |   1        |
-| RC Enisei              |         1 |   1        |
-| Edinburgh              |         1 |   0        |
-| Dragons                |         1 |   1        |
-| Australia              |         1 |   1        |
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Bordeaux Begles      |         1 |        1   |
+| Clermont Auvergne    |         1 |        0   |
+| Edinburgh            |         1 |        0   |
+| Exeter Chiefs        |         1 |        0   |
+| La Rochelle          |         1 |        0   |
+| Pau                  |         1 |        1   |
+| Racing 92            |         1 |        0.5 |
+| Stade Francais Paris |         1 |        0   |
+| Stade Toulousain     |         1 |        0   |

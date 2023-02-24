@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie DU PLESSIS  
-date: 2023-02-17 14:42:01.068453  
+date: 2023-02-24 02:26:56.001379  
 categories: player  
 ---
 # Willie DU PLESSIS
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 123.0
+## Current elo: 126.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            68 |   0.580882 |
-| Mont-de-Marsan      |            39 |   0.717949 |
+| Mont-de-Marsan      |            32 |   0.71875  |
 | Free State Cheetahs |            18 |   0.416667 |
 | Biarritz Olympique  |            16 |   0.5625   |
 | Cheetahs            |            10 |   0.3      |
@@ -35,31 +35,31 @@ categories: player
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Montauban              |         8 |   0.625    |
-| Vannes                 |         8 |   0.75     |
-| Carcassonne            |         7 |   0.571429 |
-| Aurillac               |         7 |   0.857143 |
-| Provence Rugby         |         7 |   0.571429 |
+| Vannes                 |         7 |   0.714286 |
+| Aurillac               |         6 |   0.833333 |
 | Nevers                 |         6 |   0.666667 |
 | Beziers                |         6 |   0.666667 |
 | Biarritz Olympique     |         6 |   0.5      |
+| Provence Rugby         |         6 |   0.666667 |
 | Colomiers              |         6 |   0.75     |
-| Massy                  |         5 |   0.8      |
-| Grenoble               |         5 |   0.4      |
-| Racing 92              |         5 |   0.2      |
-| Oyonnax                |         5 |   0.8      |
+| Carcassonne            |         6 |   0.5      |
 | Brive                  |         5 |   0.4      |
 | Mont-de-Marsan         |         5 |   0.5      |
-| La Rochelle            |         4 |   0.25     |
-| Griquas                |         4 |   1        |
-| Agen                   |         4 |   0.5      |
-| Narbonne               |         4 |   1        |
-| Rouen                  |         4 |   0.75     |
+| Racing 92              |         5 |   0.2      |
+| Oyonnax                |         5 |   0.8      |
 | Natal Sharks           |         4 |   0.125    |
+| Rouen                  |         4 |   0.75     |
+| Narbonne               |         4 |   1        |
+| Griquas                |         4 |   1        |
+| La Rochelle            |         4 |   0.25     |
+| Massy                  |         4 |   0.75     |
+| Grenoble               |         4 |   0.25     |
+| Perpignan              |         3 |   0        |
+| Agen                   |         3 |   0.666667 |
 | Dax                    |         3 |   0.833333 |
 | Castres Olympique      |         3 |   0.166667 |
 | Soyaux-Angouleme       |         3 |   0.666667 |
 | Stade Francais Paris   |         3 |   0.666667 |
-| Perpignan              |         3 |   0        |
 | Blue Bulls             |         3 |   0.333333 |
 | Bayonne                |         3 |   0.666667 |
 | Pumas                  |         2 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo MIAS  
-date: 2023-02-17 14:39:57.954795  
+date: 2023-02-24 02:23:28.745251  
 categories: player  
 ---
 # Théo MIAS
 
 ## Positions: W, C
 
-## Current elo: 101.0
+## Current elo: 97.0
 
-## Current Percentile: 51.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            15 |   0.333333 |
+| Narbonne |            16 |     0.3125 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,5 +36,6 @@ categories: player
 | Oyonnax                    |         1 |       0    |
 | Rennes                     |         1 |       1    |
 | Suresnes                   |         1 |       1    |
+| Tarbes                     |         1 |       0    |
 | Valence Romans Drome Rugby |         1 |       0    |
 | Vannes                     |         1 |       0.5  |

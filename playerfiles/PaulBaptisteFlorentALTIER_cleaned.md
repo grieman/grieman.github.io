@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Baptiste Florent ALTIER  
-date: 2023-01-31 16:07:30.314425  
+date: 2023-02-24 02:32:22.221820  
 categories: player  
 ---
 # Paul Baptiste Florent ALTIER
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Hong Kong
 
-## Current elo: 99.0
+## Current elo: 86.0
 
-## Current Percentile: 47.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -24,22 +24,23 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Dijon     |            21 |   0.333333 |
-| Chambery  |             3 |   0.333333 |
+| Chambery  |             4 |   0.25     |
 | Hong Kong |             2 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |         3 |   0.333333 |
+| Albi                       |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   0        |
 | Tarbes                     |         2 |   0.25     |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
-| Massy                      |         2 |   0        |
 | Aubenas                    |         2 |   0.75     |
-| Albi                       |         2 |   0        |
+| Massy                      |         2 |   0        |
 | Chambery                   |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |
+| Rennes                     |         1 |   0        |
 | Blagnac                    |         1 |   0        |
 | Spain                      |         1 |   0        |
 | Suresnes                   |         1 |   0        |

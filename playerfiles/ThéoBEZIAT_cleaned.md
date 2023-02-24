@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo BEZIAT  
-date: 2023-02-10 10:37:51.027385  
+date: 2023-02-24 02:27:31.074333  
 categories: player  
 ---
 # Théo BEZIAT
 
 ## Positions: H
 
-## Current elo: 108.0
+## Current elo: 88.0
 
-## Current Percentile: 54.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Vannes         |            49 |  0.510204  |
+| Vannes         |            50 |  0.5       |
 | Provence Rugby |            17 |  0.411765  |
 | Tarbes         |            12 |  0.0833333 |
 
@@ -32,11 +32,11 @@ categories: player
 | Carcassonne                |         6 |   0.666667 |
 | Rouen                      |         5 |   0.4      |
 | Grenoble                   |         5 |   0.6      |
+| Mont-de-Marsan             |         5 |   0.6      |
 | Montauban                  |         5 |   0.5      |
 | Bayonne                    |         4 |   0.25     |
 | Colomiers                  |         4 |   1        |
 | Oyonnax                    |         4 |   0        |
-| Mont-de-Marsan             |         4 |   0.75     |
 | Nevers                     |         3 |   0        |
 | Beziers                    |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.333333 |

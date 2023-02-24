@@ -1,0 +1,77 @@
+---  
+layout: page  
+title: Newcastle Falcons at Bristol Rugby; 12.0-30.0  
+date: 2023-02-17 14:45:00 18:00:00 -0500  
+categories: match review  
+---
+# Newcastle Falcons at Bristol Rugby; 12.0-30.0
+
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.757, which translates to predicting Bristol Rugby to win by 10.0.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](plots/performances_2023-02-17-BristolRugby-NewcastleFalcons.png)
+## Projected Spreads
+
+
+![Projected Spreads](plots/spreads_2023-02-17-BristolRugby-NewcastleFalcons.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-02-17-BristolRugby-NewcastleFalcons.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Bristol Rugby by 1.0
+
+
+Newcastle Falcons by 3.0 on a neutral field
+## Scores over Time
+
+
+![In Match Scores](plots/recap_scores_2023-02-17-BristolRugby-NewcastleFalcons.png)
+## Win Probability over Time
+
+
+![In Match Predictions](plots/recap_prob_2023-02-17-BristolRugby-NewcastleFalcons.png)
+
+There were 7 large changes in win probability in this match
+## Prediction without Player Minutes: Bristol Rugby by 0.7
+
+
+Newcastle Falcons by 3.3 on a neutral pitch
+
+
+
+|   Away Minutes | Away Player                                                          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                   |   Home Minutes |
+|---------------:|:---------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------|---------------:|
+|             52 | [Adam Brocklebank](..//playerfiles//AdamBrocklebank_cleaned.md)      |     107.14 |                81 |        1 |                91 |     114.96 | [Jake Woolmore](..//playerfiles//JakeWoolmore_cleaned.md)     |             69 |
+|             82 | [Jamie Blamire](..//playerfiles//JamieBlamire_cleaned.md)            |      92.49 |                42 |        2 |                19 |      85.71 | [Harry Thacker](..//playerfiles//HarryThacker_cleaned.md)     |             82 |
+|             62 | [Trevor Davison](..//playerfiles//TrevorDavison_cleaned.md)          |      69.74 |                 3 |        3 |                33 |      90.57 | [Max Lahiff](..//playerfiles//MaxLahiff_cleaned.md)           |             69 |
+|             62 | [Greg Peterson](..//playerfiles//GregPeterson_cleaned.md)            |      81.9  |                16 |        4 |                79 |     106.56 | [Joe Batley](..//playerfiles//JoeBatley_cleaned.md)           |             73 |
+|             82 | [Sebastian de Chaves](..//playerfiles//SebastiandeChaves_cleaned.md) |      86.42 |                24 |        5 |                83 |     109.3  | [Chris Vui](..//playerfiles//ChrisVui_cleaned.md)             |             65 |
+|             82 | [Gary Graham](..//playerfiles//GaryGraham_cleaned.md)                |     107.54 |                79 |        6 |                96 |     131.49 | [Steven Luatua](..//playerfiles//StevenLuatua_cleaned.md)     |             75 |
+|             82 | [Callum Chick](..//playerfiles//CallumChick_cleaned.md)              |     105.23 |                75 |        7 |                53 |      98.31 | [Fitz Harding](..//playerfiles//FitzHarding_cleaned.md)       |             82 |
+|             52 | [Carl Fearns](..//playerfiles//CarlFearns_cleaned.md)                |     125.29 |                96 |        8 |                30 |      89.69 | [Magnus Bradbury](..//playerfiles//MagnusBradbury_cleaned.md) |             82 |
+|             82 | [Michael Young](..//playerfiles//MichaelYoung_cleaned.md)            |     123.86 |                97 |        9 |                86 |     108.78 | [Harry Randall](..//playerfiles//HarryRandall_cleaned.md)     |             82 |
+|             82 | [Brett Connon](..//playerfiles//BrettConnon_cleaned.md)              |     105.37 |                78 |       10 |                81 |     107.49 | [AJ MacGinty](..//playerfiles//AJMacGinty_cleaned.md)         |             82 |
+|             35 | [Mateo Carreras](..//playerfiles//MateoCarreras_cleaned.md)          |      94.45 |                48 |       11 |                60 |      98.5  | [Gabriel Ibitoye](..//playerfiles//GabrielIbitoye_cleaned.md) |             82 |
+|             82 | [Matias Orlando](..//playerfiles//MatiasOrlando_cleaned.md)          |      82.1  |                15 |       12 |                12 |      79.81 | [James Williams](..//playerfiles//JamesWilliams_cleaned.md)   |             82 |
+|             82 | [Ben Stevenson](..//playerfiles//BenStevenson_cleaned.md)            |     100.41 |                66 |       13 |                96 |     126.26 | [Semi Radradra](..//playerfiles//SemiRadradra_cleaned.md)     |             82 |
+|             82 | [Adam Radwan](..//playerfiles//AdamRadwan_cleaned.md)                |     133.82 |                98 |       14 |                58 |      97.71 | [Ratu Naulago](..//playerfiles//RatuNaulago_cleaned.md)       |             53 |
+|             29 | [Tom Penny](..//playerfiles//TomPenny_cleaned.md)                    |     129.47 |                96 |       15 |                12 |      76.41 | [Noah Heward](..//playerfiles//NoahHeward_cleaned.md)         |             82 |
+|              0 | [Ollie Fletcher](..//playerfiles//OllieFletcher_cleaned.md)          |      95    |               nan |       16 |               nan |      95    | [Fred Davies](..//playerfiles//FredDavies_cleaned.md)         |              7 |
+|             30 | [Logovi'i Mulipola](..//playerfiles//Logovi'iMulipola_cleaned.md)    |     104.4  |               nan |       17 |                36 |      91.37 | [Yann Thomas](..//playerfiles//YannThomas_cleaned.md)         |             13 |
+|             20 | [Richard Palframan](..//playerfiles//RichardPalframan_cleaned.md)    |      97.96 |                54 |       18 |               nan |      91.76 | [George Kloska](..//playerfiles//GeorgeKloska_cleaned.md)     |             13 |
+|             20 | [Philip van der Walt](..//playerfiles//PhilipvanderWalt_cleaned.md)  |      95    |               nan |       19 |               nan |      95    | [Ed Holmes](..//playerfiles//EdHolmes_cleaned.md)             |             17 |
+|             30 | [Freddie Lockwood](..//playerfiles//FreddieLockwood_cleaned.md)      |      95    |               nan |       20 |                37 |      91.34 | [Jake Heenan](..//playerfiles//JakeHeenan_cleaned.md)         |              9 |
+|              5 | [Sam Stuart](..//playerfiles//SamStuart_cleaned.md)                  |      64.39 |                 2 |       21 |                10 |      76.89 | [Andy Uren](..//playerfiles//AndyUren_cleaned.md)             |              0 |
+|             47 | [Tian Schoeman](..//playerfiles//TianSchoeman_cleaned.md)            |     117.55 |                90 |       22 |               nan |      94.32 | [Harry Ascherl](..//playerfiles//HarryAscherl_cleaned.md)     |              0 |
+|             48 | [Alex Tait](..//playerfiles//AlexTait_cleaned.md)                    |      95    |               nan |       23 |                 9 |      76    | [Ioan Lloyd](..//playerfiles//IoanLloyd_cleaned.md)           |             29 |
+

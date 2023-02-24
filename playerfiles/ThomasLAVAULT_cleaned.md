@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LAVAULT  
-date: 2023-02-10 10:36:31.607040  
+date: 2023-02-24 02:30:46.616088  
 categories: player  
 ---
 # Thomas LAVAULT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 132.0
+## Current elo: 127.0
 
-## Current Percentile: 97.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -23,32 +23,29 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            72 |   0.611111 |
-| France      |             3 |   1        |
+| La Rochelle |            67 |   0.597015 |
+| France      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Stade Toulousain     |         8 |   0        |
-| Racing 92            |         6 |   0.666667 |
-| Montpellier Herault  |         6 |   0.5      |
-| Pau                  |         6 |   0.833333 |
 | Bordeaux Begles      |         6 |   0.833333 |
-| Castres Olympique    |         5 |   0.6      |
+| Racing 92            |         6 |   0.666667 |
+| Pau                  |         6 |   0.833333 |
+| Montpellier Herault  |         6 |   0.5      |
 | Toulon               |         5 |   0.8      |
-| Brive                |         4 |   1        |
-| Stade Francais Paris |         4 |   0.25     |
 | Lyon                 |         4 |   0.75     |
+| Brive                |         4 |   1        |
+| Castres Olympique    |         4 |   0.5      |
 | Clermont Auvergne    |         3 |   0.333333 |
-| Glasgow Warriors     |         2 |   0.5      |
-| Japan                |         2 |   1        |
-| Biarritz Olympique   |         2 |   0.5      |
-| Northampton Saints   |         2 |   1        |
+| Stade Francais Paris |         3 |   0.333333 |
 | Agen                 |         2 |   1        |
-| Sale Sharks          |         1 |   1        |
+| Glasgow Warriors     |         2 |   0.5      |
+| Biarritz Olympique   |         2 |   0.5      |
+| Japan                |         2 |   1        |
 | Leinster             |         1 |   1        |
-| Perpignan            |         1 |   0        |
 | Bayonne              |         1 |   1        |
-| Italy                |         1 |   1        |
+| Perpignan            |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
+| Sale Sharks          |         1 |   1        |
 | Edinburgh            |         1 |   1        |
-| Ulster               |         1 |   1        |

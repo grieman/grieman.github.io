@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam EDWARDS  
-date: 2023-02-17 14:41:45.339688  
+date: 2023-02-24 02:23:30.204529  
 categories: player  
 ---
 # Sam EDWARDS
 
 ## Positions: SH
 
-## Current elo: 77.0
+## Current elo: 84.0
 
-## Current Percentile: None
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -19,21 +19,17 @@ categories: player
 # Match History
 
 
-| Team             |   Appearances |   Win Rate |
-|:-----------------|--------------:|-----------:|
-| Nottingham       |            13 |   0.307692 |
-| Leicester Tigers |             3 |   0.333333 |
+| Team       |   Appearances |   Win Rate |
+|:-----------|--------------:|-----------:|
+| Nottingham |            12 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Hartpury College    |         3 |   0.333333 |
 | Ampthill            |         2 |   0.5      |
-| Coventry            |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
-| Bath Rugby          |         1 |   0        |
 | Cornish Pirates     |         1 |   0        |
+| Coventry            |         1 |   0        |
 | Doncaster           |         1 |   1        |
-| London Irish        |         1 |   1        |
 | London Scottish     |         1 |   1        |
-| Northampton Saints  |         1 |   0        |
 | Richmond            |         1 |   0        |

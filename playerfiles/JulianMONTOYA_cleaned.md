@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian MONTOYA  
-date: 2023-02-17 14:40:10.073433  
+date: 2023-02-24 02:34:22.582210  
 categories: player  
 ---
 # Julian MONTOYA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 92.0
+## Current elo: 85.0
 
-## Current Percentile: 44.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Argentina        |            84 |   0.285714 |
+| Argentina        |            85 |   0.282353 |
 | Jaguares         |            63 |   0.52381  |
-| Leicester Tigers |            34 |   0.720588 |
+| Leicester Tigers |            35 |   0.728571 |
 | Newman           |             7 |   0.428571 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -39,9 +39,9 @@ categories: player
 | Stormers                 |         6 |   0.166667 |
 | England                  |         6 |   0.166667 |
 | Bulls                    |         6 |   0.833333 |
+| Wales                    |         6 |   0.25     |
 | France                   |         5 |   0.2      |
 | Ireland                  |         5 |   0.2      |
-| Wales                    |         5 |   0.3      |
 | Hurricanes               |         4 |   0.25     |
 | Brumbies                 |         4 |   0.75     |
 | Bristol Rugby            |         4 |   0.625    |
@@ -49,8 +49,8 @@ categories: player
 | Sale Sharks              |         4 |   0.25     |
 | Southern Kings           |         4 |   0.5      |
 | Chiefs                   |         4 |   0.5      |
-| New South Wales Waratahs |         3 |   1        |
 | London Irish             |         3 |   1        |
+| New South Wales Waratahs |         3 |   1        |
 | Italy                    |         3 |   1        |
 | Worcester Warriors       |         3 |   1        |
 | Harlequins               |         3 |   0.666667 |
@@ -64,10 +64,10 @@ categories: player
 | Melbourne Rebels         |         2 |   1        |
 | Clermont Auvergne        |         2 |   1        |
 | Cheetahs                 |         2 |   1        |
+| Saracens                 |         2 |   1        |
 | Romania                  |         1 |   1        |
 | Sunwolves                |         1 |   1        |
 | United States of America |         1 |   1        |
-| Saracens                 |         1 |   1        |
 | Western Force            |         1 |   0        |
 | Atlético del Rosario     |         1 |   0        |
 | Regatas Bella Vista      |         1 |   1        |

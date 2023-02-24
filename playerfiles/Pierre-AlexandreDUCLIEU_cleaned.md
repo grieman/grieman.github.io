@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre-Alexandre DUCLIEU  
-date: 2023-02-10 10:36:50.311549  
+date: 2023-02-24 02:25:59.701709  
 categories: player  
 ---
 # Pierre-Alexandre DUCLIEU
 
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 88.0
 
-## Current Percentile: 42.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            19 |   0.789474 |
+| Massy  |            20 |       0.75 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Agen                       |         1 |   0        |
 | Albi                       |         1 |   1        |
 | Aubenas                    |         1 |   1        |
+| Aurillac                   |         1 |   0        |
 | Carcassonne                |         1 |   1        |
 | Chambery                   |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |

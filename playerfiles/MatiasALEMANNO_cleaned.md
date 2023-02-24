@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias ALEMANNO  
-date: 2023-02-17 14:41:08.533374  
+date: 2023-02-24 02:30:11.682493  
 categories: player  
 ---
 # Matias ALEMANNO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 110.0
+## Current elo: 103.0
 
-## Current Percentile: 79.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Argentina        |            85 |   0.270588 |
-| Gloucester Rugby |            49 |   0.520408 |
+| Gloucester Rugby |            50 |   0.53     |
 | Jaguares         |            46 |   0.434783 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,10 +42,10 @@ categories: player
 | Exeter Chiefs            |         5 |   0.4      |
 | Bristol Rugby            |         5 |   0.4      |
 | London Irish             |         5 |   0.7      |
+| Harlequins               |         5 |   0.2      |
 | Ireland                  |         5 |   0.2      |
 | Southern Kings           |         4 |   0.5      |
 | Saracens                 |         4 |   0.5      |
-| Harlequins               |         4 |   0        |
 | Bath Rugby               |         4 |   0.75     |
 | Queensland Reds          |         3 |   0.666667 |
 | Leicester Tigers         |         3 |   0        |

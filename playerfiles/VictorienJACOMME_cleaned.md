@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victorien JACOMME  
-date: 2023-02-17 14:40:57.020469  
+date: 2023-02-24 02:21:56.604605  
 categories: player  
 ---
 # Victorien JACOMME
 
 ## Positions: C
 
-## Current elo: 96.0
+## Current elo: 92.0
 
-## Current Percentile: 42.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            59 |   0.610169 |
+| Massy  |            60 |        0.6 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,21 +29,21 @@ categories: player
 | Tarbes                     |         4 |   0.75     |
 | Chambery                   |         4 |   0.625    |
 | Albi                       |         3 |   1        |
-| Aubenas                    |         3 |   1        |
+| Aurillac                   |         3 |   0        |
 | Bourgoin-Jallieu           |         3 |   1        |
 | Dax                        |         3 |   1        |
 | Dijon                      |         3 |   0.666667 |
+| Aubenas                    |         3 |   1        |
+| Mont-de-Marsan             |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
 | Nevers                     |         2 |   0        |
 | Montauban                  |         2 |   0        |
-| Mont-de-Marsan             |         2 |   0.5      |
 | Colomiers                  |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Carcassonne                |         2 |   1        |
 | Blagnac                    |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
-| Aurillac                   |         2 |   0        |
 | Suresnes                   |         2 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Grenoble                   |         1 |   0        |

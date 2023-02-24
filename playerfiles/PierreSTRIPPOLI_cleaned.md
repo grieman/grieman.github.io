@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre STRIPPOLI  
-date: 2023-02-17 14:43:21.390844  
+date: 2023-02-24 02:24:15.175250  
 categories: player  
 ---
 # Pierre STRIPPOLI
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 51.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Rennes   |             7 |   0.142857 |
-| Grenoble |             2 |   0.25     |
+| Rennes   |             8 |       0.25 |
+| Grenoble |             2 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Albi                |         1 |       0    |
 | Bourgoin-Jallieu    |         1 |       0    |
 | Carqueiranne-Hyères |         1 |       1    |
+| Chambery            |         1 |       1    |
 | Dax                 |         1 |       0    |
 | Mont-de-Marsan      |         1 |       0    |
 | Tarbes              |         1 |       0    |

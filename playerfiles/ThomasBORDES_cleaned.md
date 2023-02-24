@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BORDES  
-date: 2023-02-17 14:39:41.240129  
+date: 2023-02-24 02:23:54.243106  
 categories: player  
 ---
 # Thomas BORDES
 
 ## Positions: H
 
-## Current elo: 79.0
+## Current elo: 82.0
 
-## Current Percentile: 15.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -22,56 +22,55 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Massy          |            59 |   0.322034 |
-| Suresnes       |            36 |   0.416667 |
+| Suresnes       |            29 |   0.413793 |
 | Mont-de-Marsan |            25 |   0.28     |
 | Oyonnax        |            22 |   0.318182 |
 | Lyon           |             7 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         9 |   0.555556 |
+| Bourgoin-Jallieu           |         8 |   0.625    |
 | Dax                        |         7 |   0.571429 |
-| Mont-de-Marsan             |         6 |   0.5      |
 | Beziers                    |         6 |   0.333333 |
 | Soyaux-Angouleme           |         6 |   0.25     |
+| Mont-de-Marsan             |         6 |   0.5      |
 | US Bressane                |         5 |   0.4      |
-| Narbonne                   |         5 |   0.4      |
-| Blagnac                    |         5 |   0.4      |
+| Tarbes                     |         5 |   0.8      |
 | Montauban                  |         5 |   0        |
 | Grenoble                   |         5 |   0.2      |
-| Tarbes                     |         5 |   0.8      |
-| Nice                       |         5 |   0.2      |
+| Narbonne                   |         5 |   0.4      |
+| Nice                       |         4 |   0.25     |
 | Agen                       |         4 |   0.25     |
+| Blagnac                    |         4 |   0.5      |
 | Bayonne                    |         4 |   0        |
 | Nevers                     |         3 |   0.333333 |
+| Oyonnax                    |         3 |   0        |
 | Perpignan                  |         3 |   0        |
 | Massy                      |         3 |   0        |
 | Albi                       |         3 |   0.333333 |
-| Oyonnax                    |         3 |   0        |
 | Vannes                     |         3 |   0.333333 |
 | Bordeaux Begles            |         3 |   1        |
 | Colomiers                  |         3 |   0.666667 |
-| Cognac Saint Jean d'Angély |         3 |   1        |
 | Clermont Auvergne          |         3 |   0        |
-| Chambery                   |         3 |   0.5      |
 | Aurillac                   |         3 |   0.333333 |
 | Biarritz Olympique         |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.666667 |
-| Provence Rugby             |         2 |   0.5      |
+| La Rochelle                |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Aubenas                    |         2 |   0.5      |
 | Saracens                   |         2 |   0        |
-| Rennes                     |         2 |   1        |
+| Provence Rugby             |         2 |   0.5      |
 | Gloucester Rugby           |         2 |   0        |
-| Dijon                      |         2 |   1        |
 | Pau                        |         2 |   0        |
 | Brive                      |         2 |   0.5      |
 | Castres Olympique          |         2 |   0        |
-| La Rochelle                |         2 |   1        |
+| Chambery                   |         2 |   0.25     |
+| Cognac Saint Jean d'Angély |         2 |   1        |
+| Dijon                      |         2 |   1        |
 | London Irish               |         2 |   0        |
 | Racing 92                  |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   0        |
+| Rennes                     |         1 |   1        |
 | Stade Francais Paris       |         1 |   0        |
-| Toulon                     |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |
+| Toulon                     |         1 |   0        |
 | Ulster                     |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan GENDRE  
-date: 2023-02-17 14:39:50.122302  
+date: 2023-02-24 02:30:53.814562  
 categories: player  
 ---
 # Nathan GENDRE
 
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 112.0
 
-## Current Percentile: 53.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Aubenas             |            33 |   0.242424 |
-| Carqueiranne-Hyères |            11 |   0.181818 |
+| Carqueiranne-Hyères |            12 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,10 +35,10 @@ categories: player
 | Massy                      |         3 |   0        |
 | Nice                       |         3 |   0        |
 | Suresnes                   |         3 |   0.333333 |
+| US Bressane                |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0        |
 | Chambery                   |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
-| US Bressane                |         2 |   0        |
 | Dijon                      |         1 |   0        |
 | Narbonne                   |         1 |   1        |
 | Rennes                     |         1 |   0        |

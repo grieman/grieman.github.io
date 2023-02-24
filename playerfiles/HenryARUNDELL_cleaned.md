@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry ARUNDELL  
-date: 2023-02-17 14:39:17.109179  
+date: 2023-02-24 02:22:41.986971  
 categories: player  
 ---
 # Henry ARUNDELL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 97.0
+## Current elo: 94.0
 
-## Current Percentile: 47.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            14 |   0.464286 |
+| London Irish |            13 |   0.423077 |
 | England      |             4 |   0.75     |
 
 | Opponent           |   Matches |   Win Rate |
@@ -31,9 +31,9 @@ categories: player
 | Australia          |         3 |   0.666667 |
 | Bath Rugby         |         2 |   0.5      |
 | Bristol Rugby      |         2 |   0.5      |
-| Harlequins         |         2 |   0.5      |
 | Worcester Warriors |         2 |   1        |
 | Gloucester Rugby   |         1 |   0        |
+| Harlequins         |         1 |   0        |
 | Italy              |         1 |   1        |
 | Leicester Tigers   |         1 |   0        |
 | Newcastle Falcons  |         1 |   1        |

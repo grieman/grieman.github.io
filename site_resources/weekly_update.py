@@ -21,6 +21,7 @@ from mdutils import Html
 from support_files.team_colors import team_color_dict
 import support_files.real_time_preds as real_time_preds
 from support_files.comp_levels import comp_level_dict, comp_match_dict
+from support_files.plot_functions import *
 from tabulate import tabulate
 import os
 import shutil
@@ -28,7 +29,7 @@ import glob
 import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
-from plot_functions import *
+from generate_comp_page import *
 
 ## Need to ge the current home advantage? as 5 as of 8/5, 3 as of 11/8, 7 as of 12/31
 # this should REALLY not be hard coded
@@ -117,6 +118,7 @@ def fill_matches(directory_df, md_file):
         md_file.new_header(level = 1, title = 'International Matches')
         for comp in sorted(dir_int.comps.unique()):
             md_file.new_header(level = 2, title = comp[:-5])
+            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")}.md)')
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
             for line in accuracy_lines:
                 md_file.new_paragraph(line)
@@ -128,6 +130,7 @@ def fill_matches(directory_df, md_file):
         md_file.new_header(level = 1, title = 'Top Flight Leagues')
         for comp in sorted(dir_pro.comps.unique()):
             md_file.new_header(level = 2, title = comp[:-5])
+            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")}.md)')
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
             for line in accuracy_lines:
                 md_file.new_paragraph(line)
@@ -138,6 +141,7 @@ def fill_matches(directory_df, md_file):
     if dir_dom.shape[0] > 0:
         md_file.new_header(level = 1, title = 'Domestic Leagues')
         for comp in sorted(dir_dom.comps.unique()):
+            md_file.new_paragraph(f'[In depth model review and projections for {comp}](comp_files/{comp.replace(" ", "_")}.md)')
             md_file.new_header(level = 2, title = comp[:-5])
             accuracy_lines = club_comp_accuracy_statements(club_histories, comp)
             for line in accuracy_lines:
@@ -421,9 +425,9 @@ for recent_game in recent_games:
 
 
 
-dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
+review_dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
 ## Add a summary of accuracy for each competition?
-fill_matches(dir_df, rec_dir_md)
+fill_matches(review_dir_df, rec_dir_md)
 rec_dir_md.create_md_file()
 clean_leading_space(f'temp//Recent_Matches.md', f'Recent_Matches.md')
 
@@ -457,7 +461,7 @@ for future_game in future_games:
     # Club Level Info
     home_club = clubbase[future_game['home_team_name']]
     away_club = clubbase[future_game['away_team_name']]
-    expectation, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
+    expectation, spread, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
     club_spread = spreads.mean()
     club_header = f'{future_game["away_team_name"]} (~{round(away_sims.mean(), 2)}) at {future_game["home_team_name"]} (~{round(home_sims.mean(), 2)})'
 
@@ -564,7 +568,7 @@ for _, row in fut_matches_df.iterrows():
             # Club Level Info
             home_club = clubbase[row['Home Team']]
             away_club = clubbase[row['Away Team']]
-            expectation, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
+            expectation, spread, expectations, spreads, home_sims, away_sims = home_club.predict(away_club, home=True, n_sims=1000)
             club_spread = spreads.mean()
             club_prediction = np.round(expectation, 3)
             club_victor = row['Home Team'] if club_prediction >= 0.5 else row['Away Team']
@@ -579,64 +583,86 @@ for _, row in fut_matches_df.iterrows():
 
             # Player Ranks
             ## Use current player elos, but historic team + minutes
-            home_team = teamlist[row['Home Team']]
-            away_team = teamlist[row['Away Team']]
+            if (row['Home Team'] in teamlist.keys()) & (row['Away Team'] in teamlist.keys()):
+                home_team = teamlist[row['Home Team']]
+                away_team = teamlist[row['Away Team']]
 
-            home_team_elos = [
-                team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
-                if matchlist[x['Match_Name']].home_team_name == row['Home Team'] 
-                else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
-                for x in home_team.history[-5:]
-                ]
-            away_team_elos = [
-                team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
-                if matchlist[x['Match_Name']].home_team_name == row['Away Team'] 
-                else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
-                for x in away_team.history[-5:]
-                ]
+                home_team_elos = [
+                    team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
+                    if matchlist[x['Match_Name']].home_team_name == row['Home Team'] 
+                    else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
+                    for x in home_team.history[-5:]
+                    ]
+                away_team_elos = [
+                    team_elo_minutes(matchlist[x['Match_Name']].home_team, playerbase) 
+                    if matchlist[x['Match_Name']].home_team_name == row['Away Team'] 
+                    else team_elo_minutes(matchlist[x['Match_Name']].away_team, playerbase)
+                    for x in away_team.history[-5:]
+                    ]
 
-            #home_team_elos = [x['elo'] for x in home_team.history[-5:]]
-            #away_team_elos = [x['elo'] for x in away_team.history[-5:]]
-            historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
-            if len(home_team_elos) == 5:
-                home_elo_avg = sum(np.multiply(home_team_elos, historic_weighting))
+                #home_team_elos = [x['elo'] for x in home_team.history[-5:]]
+                #away_team_elos = [x['elo'] for x in away_team.history[-5:]]
+                historic_weighting = [0.1, 0.15, 0.2, 0.25, 0.3]
+                if len(home_team_elos) == 5:
+                    home_elo_avg = sum(np.multiply(home_team_elos, historic_weighting))
+                else:
+                    home_elo_avg = np.mean(home_team_elos)
+
+                if len(away_team_elos) == 5:
+                    away_elo_avg = sum(np.multiply(away_team_elos, historic_weighting))
+                else:
+                    away_elo_avg = np.mean(away_team_elos)
+
+                imputed_spread =  (home_elo_avg -  away_elo_avg) / 10 #GLOBAL_score_factor == 10, this should not be hard-coded
+
+                favorite = row["Home Team"] if imputed_spread + home_advantage > 0 else row["Away Team"]
+                pred_text = f'{favorite} by {round(abs(imputed_spread + home_advantage), 1)}'
+
+                n_favorite = row["Home Team"] if imputed_spread > 0 else row["Away Team"]
+                n_pred_text = f'{n_favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
+
+                make_matchpage(
+                    file_name,
+                    "projections",
+                    pretty_name,
+                    match_date,
+                    club_prediction,
+                    club_victor,
+                    club_margin,
+                    perf_plot_path = perf_plot,
+                    spread_plot_path = spread_plot,
+                    resultbar_path =  resultbar_plot,
+                    pred_text = None,
+                    n_pred_text = None,
+                    lineup_pred_text = pred_text,
+                    n_lineup_pred_text = n_pred_text,
+                    categories_list = ["projection", "imputed"],
+                    player_table = None,
+                    score_path = None,
+                    prob_path = None
+                )
+
             else:
-                home_elo_avg = np.mean(home_team_elos)
-
-            if len(away_team_elos) == 5:
-                away_elo_avg = sum(np.multiply(away_team_elos, historic_weighting))
-            else:
-                away_elo_avg = np.mean(away_team_elos)
-
-            imputed_spread =  (home_elo_avg -  away_elo_avg) / 10 #GLOBAL_score_factor == 10, this should not be hard-coded
-            main_header = f'{row["Away Team"]} (~{round(away_elo_avg, 2)}) at {row["Home Team"]} (~{round(home_elo_avg, 2)})'
-
-            favorite = row["Home Team"] if imputed_spread + home_advantage > 0 else row["Away Team"]
-            pred_text = f'{favorite} by {round(abs(imputed_spread + home_advantage), 1)}'
-
-            n_favorite = row["Home Team"] if imputed_spread > 0 else row["Away Team"]
-            n_pred_text = f'{n_favorite} by {round(abs(imputed_spread), 1)} on a neutral pitch'
-
-            make_matchpage(
-                file_name,
-                "projections",
-                pretty_name,
-                match_date,
-                club_prediction,
-                club_victor,
-                club_margin,
-                perf_plot_path = perf_plot,
-                spread_plot_path = spread_plot,
-                resultbar_path =  resultbar_plot,
-                pred_text = None,
-                n_pred_text = None,
-                lineup_pred_text = pred_text,
-                n_lineup_pred_text = n_pred_text,
-                categories_list = ["projection", "imputed"],
-                player_table = None,
-                score_path = None,
-                prob_path = None
-            )
+                make_matchpage(
+                    file_name,
+                    "projections",
+                    pretty_name,
+                    match_date,
+                    club_prediction,
+                    club_victor,
+                    club_margin,
+                    perf_plot_path = perf_plot,
+                    spread_plot_path = spread_plot,
+                    resultbar_path =  resultbar_plot,
+                    pred_text = None,
+                    n_pred_text = None,
+                    lineup_pred_text = None,
+                    n_lineup_pred_text = None,
+                    categories_list = ["projection"],
+                    player_table = None,
+                    score_path = None,
+                    prob_path = None
+                )
 
             match_dir_strings.append(f'[{match_date} {club_header}](projections//{file_name})')
             match_comps.append(row['Competition'])
@@ -651,11 +677,18 @@ for _, row in fut_matches_df.iterrows():
 
 
 
-dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
-fill_matches(dir_df, fut_dir_md)
+proj_dir_df = pd.DataFrame({'links':match_dir_strings, 'comps':match_comps, 'levels':match_levels, 'dates':match_dates})
+fill_matches(proj_dir_df, fut_dir_md)
 fut_dir_md.create_md_file()
 clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 
+seen_comps = list(set(proj_dir_df.comps).union(set(review_dir_df.comps)))
+for comp in seen_comps:
+    print(comp)
+    try:
+        make_comp_page(comp)
+    except:
+        print(comp + " FAILED")
 
 ## run generate playerpage for all named players
 import generate_playerpage

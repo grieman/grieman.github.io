@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steffon ARMITAGE  
-date: 2023-02-17 14:42:40.462276  
+date: 2023-02-24 02:28:27.714312  
 categories: player  
 ---
 # Steffon ARMITAGE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 114.0
+## Current elo: 110.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | London Irish       |           126 |   0.543651 |
 | Biarritz Olympique |            73 |   0.479452 |
 | Pau                |            62 |   0.524194 |
-| Nice               |            13 |   0.307692 |
+| Nice               |             9 |   0.277778 |
 | England            |             5 |   0.8      |
 | Saracens           |             4 |   0.25     |
 
@@ -76,25 +76,24 @@ categories: player
 | Provence Rugby             |         3 |   0.833333 |
 | Mont-de-Marsan             |         3 |   0.666667 |
 | Exeter Chiefs              |         3 |   1        |
-| Dax                        |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
 | Colomiers                  |         3 |   0.666667 |
-| Bourgoin-Jallieu           |         3 |   0        |
 | Ospreys                    |         2 |   1        |
 | Argentina                  |         2 |   0.5      |
 | Aurillac                   |         2 |   1        |
 | Rouen                      |         2 |   1        |
-| Albi                       |         2 |   0.5      |
+| Beziers                    |         2 |   0.5      |
 | Italy                      |         2 |   1        |
 | Glasgow Warriors           |         2 |   1        |
-| Beziers                    |         2 |   0.5      |
+| Dax                        |         2 |   0.5      |
+| Bourgoin-Jallieu           |         2 |   0        |
 | Chambery                   |         1 |   0        |
 | Wales                      |         1 |   1        |
-| Suresnes                   |         1 |   1        |
+| Tarbes                     |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | US Bressane                |         1 |   0        |
-| Tarbes                     |         1 |   1        |
 | Dragons                    |         1 |   1        |
+| Albi                       |         1 |   0.5      |
 | Munster                    |         1 |   1        |
 | Narbonne                   |         1 |   0        |
 | Zebre                      |         1 |   1        |

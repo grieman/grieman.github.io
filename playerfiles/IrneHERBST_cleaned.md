@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Irne HERBST  
-date: 2023-02-17 14:40:02.076376  
+date: 2023-02-24 02:22:56.013637  
 categories: player  
 ---
 # Irne HERBST
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            73 |   0.376712 |
-| Harlequins       |            16 |   0.5      |
+| Harlequins       |            17 |   0.470588 |
 | Southern Kings   |            13 |   0.384615 |
 | Blue Bulls       |             6 |   0.5      |
 
@@ -40,12 +40,12 @@ categories: player
 | Glasgow Warriors         |         3 |   0.333333 |
 | Southern Kings           |         3 |   1        |
 | Lions                    |         3 |   0        |
+| Gloucester Rugby         |         3 |   0.333333 |
 | Zebre                    |         3 |   1        |
-| Northampton Saints       |         2 |   0.5      |
-| London Irish             |         2 |   0.5      |
 | Ospreys                  |         2 |   0        |
-| Gloucester Rugby         |         2 |   0.5      |
+| London Irish             |         2 |   0.5      |
 | Sale Sharks              |         2 |   0.5      |
+| Northampton Saints       |         2 |   0.5      |
 | Cheetahs                 |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
 | Bath Rugby               |         2 |   0.5      |
@@ -54,16 +54,17 @@ categories: player
 | Toulon                   |         2 |   0        |
 | Jaguares                 |         2 |   0.5      |
 | Queensland Reds          |         1 |   0        |
-| Stormers                 |         1 |   0        |
+| Stade Francais Paris     |         1 |   1        |
 | Brumbies                 |         1 |   0        |
-| Saracens                 |         1 |   0        |
 | Bristol Rugby            |         1 |   0        |
+| Saracens                 |         1 |   0        |
 | Western Force            |         1 |   0        |
 | Western Province         |         1 |   0        |
-| Stade Francais Paris     |         1 |   1        |
+| Stormers                 |         1 |   0        |
 | Free State Cheetahs      |         1 |   0        |
 | Pumas                    |         1 |   1        |
 | Perpignan                |         1 |   1        |
+| Golden Lions             |         1 |   1        |
 | Newcastle Falcons        |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Natal Sharks             |         1 |   0        |
@@ -74,5 +75,4 @@ categories: player
 | Leicester Tigers         |         1 |   0        |
 | Harlequins               |         1 |   1        |
 | Grenoble                 |         1 |   1        |
-| Golden Lions             |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |

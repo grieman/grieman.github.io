@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Victor DELMAS  
-date: 2023-02-17 14:43:16.850275  
+date: 2023-02-24 02:23:44.010867  
 categories: player  
 ---
 # Victor DELMAS
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 106.0
 
 ## Current Percentile: None
 
@@ -22,13 +22,13 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Colomiers |           120 |   0.541667 |
-| Oyonnax   |             6 |   0.833333 |
+| Oyonnax   |             7 |   0.857143 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Montauban          |        11 |   0.636364 |
 | Aurillac           |        10 |   0.7      |
 | Narbonne           |        10 |   0.8      |
-| Montauban          |        10 |   0.6      |
 | Dax                |         9 |   0.777778 |
 | Beziers            |         8 |   0.25     |
 | Mont-de-Marsan     |         8 |   0.3125   |

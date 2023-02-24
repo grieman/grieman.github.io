@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine JARMOUNI  
-date: 2023-02-17 14:39:10.972653  
+date: 2023-02-24 02:28:15.107485  
 categories: player  
 ---
 # Yassine JARMOUNI
 
 ## Positions: N8, FL
 
-## Current elo: 88.0
+## Current elo: 101.0
 
-## Current Percentile: 29.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Narbonne         |            21 |   0.333333 |
 | Aubenas          |            19 |   0.315789 |
-| Soyaux-Angouleme |            14 |   0.357143 |
+| Soyaux-Angouleme |            15 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,16 +32,16 @@ categories: player
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Beziers                    |         3 |   0.333333 |
 | Perpignan                  |         3 |   0        |
+| Carcassonne                |         3 |   0.666667 |
 | Massy                      |         3 |   0.666667 |
 | Agen                       |         2 |   0.5      |
-| Colomiers                  |         2 |   0.5      |
+| Dax                        |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Nevers                     |         2 |   0        |
-| Dax                        |         2 |   1        |
 | Grenoble                   |         2 |   0        |
+| Colomiers                  |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Chambery                   |         2 |   0.5      |
-| Carcassonne                |         2 |   0.5      |
 | Blagnac                    |         2 |   0        |
 | Biarritz Olympique         |         2 |   0.5      |
 | Rouen                      |         1 |   0        |

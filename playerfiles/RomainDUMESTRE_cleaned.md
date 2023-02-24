@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain DUMESTRE  
-date: 2023-02-17 14:40:50.774994  
+date: 2023-02-24 02:33:34.015336  
 categories: player  
 ---
 # Romain DUMESTRE
 
 ## Positions: W, FB
 
-## Current elo: 82.0
+## Current elo: 83.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            72 |        0.5 |
+| Tarbes |            73 |   0.506849 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Narbonne                   |         6 |   0.666667 |
+| Narbonne                   |         7 |   0.714286 |
 | Dax                        |         6 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   0.75     |
 | Massy                      |         4 |   0.25     |

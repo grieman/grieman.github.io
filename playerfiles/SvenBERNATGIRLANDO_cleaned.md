@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sven BERNAT GIRLANDO  
-date: 2023-02-08 11:10:37.184710  
+date: 2023-02-24 02:23:48.196930  
 categories: player  
 ---
 # Sven BERNAT GIRLANDO
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 59.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,27 +21,27 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            13 |   0.615385 |
+| Valence Romans Drome Rugby |            14 |   0.571429 |
 | Biarritz Olympique         |            11 |   0.590909 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Nice                |         2 |        1   |
-| Tarbes              |         2 |        0.5 |
-| Carqueiranne-Hyères |         2 |        1   |
-| Oyonnax             |         2 |        0.5 |
-| Beziers             |         2 |        0.5 |
-| Albi                |         1 |        0   |
-| US Bressane         |         1 |        0   |
-| Soyaux-Angouleme    |         1 |        1   |
-| Roval Drome XV      |         1 |        1   |
-| Rennes              |         1 |        1   |
-| Narbonne            |         1 |        1   |
-| Nevers              |         1 |        0   |
-| Mont-de-Marsan      |         1 |        1   |
-| Massy               |         1 |        0   |
-| Grenoble            |         1 |        0.5 |
-| Chambery            |         1 |        0   |
-| Brive               |         1 |        0   |
-| Blagnac             |         1 |        1   |
-| Vannes              |         1 |        1   |
+| Nice                |         3 |   0.666667 |
+| Tarbes              |         2 |   0.5      |
+| Carqueiranne-Hyères |         2 |   1        |
+| Oyonnax             |         2 |   0.5      |
+| Beziers             |         2 |   0.5      |
+| Albi                |         1 |   0        |
+| US Bressane         |         1 |   0        |
+| Soyaux-Angouleme    |         1 |   1        |
+| Roval Drome XV      |         1 |   1        |
+| Rennes              |         1 |   1        |
+| Narbonne            |         1 |   1        |
+| Nevers              |         1 |   0        |
+| Mont-de-Marsan      |         1 |   1        |
+| Massy               |         1 |   0        |
+| Grenoble            |         1 |   0.5      |
+| Chambery            |         1 |   0        |
+| Brive               |         1 |   0        |
+| Blagnac             |         1 |   1        |
+| Vannes              |         1 |   1        |

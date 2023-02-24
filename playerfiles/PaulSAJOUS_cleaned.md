@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Paul SAJOUS  
-date: 2023-02-17 14:40:48.536652  
+date: 2023-02-24 02:21:11.884704  
 categories: player  
 ---
 # Paul SAJOUS
 
 ## Positions: L, FL
 
-## Current elo: 70.0
+## Current elo: 71.0
 
 ## Current Percentile: 6.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            42 |   0.428571 |
+| Tarbes |            43 |    0.44186 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,6 +39,7 @@ categories: player
 | Dijon                      |         2 |   0.75     |
 | Aubenas                    |         1 |   1        |
 | Lyon                       |         1 |   0        |
+| Narbonne                   |         1 |   1        |
 | Beziers                    |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William DEMOTTE  
-date: 2023-02-17 14:41:33.412741  
+date: 2023-02-24 02:27:42.882351  
 categories: player  
 ---
 # William DEMOTTE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 59.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Agen        |           118 |   0.461864 |
+| Agen        |           114 |   0.442982 |
 | Grenoble    |            20 |   0.55     |
 | La Rochelle |            18 |   0.527778 |
 | France      |             1 |   0        |
@@ -31,30 +31,30 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Montauban            |         8 |   0.5      |
-| Mont-de-Marsan       |         8 |   0.75     |
+| Mont-de-Marsan       |         7 |   0.714286 |
 | Aurillac             |         7 |   0.571429 |
 | Oyonnax              |         7 |   0.5      |
-| Vannes               |         6 |   0.75     |
 | Narbonne             |         6 |   0.666667 |
-| Beziers              |         6 |   0.333333 |
-| Biarritz Olympique   |         6 |   0.5      |
 | Pau                  |         6 |   0.333333 |
-| Clermont Auvergne    |         5 |   0.2      |
-| Perpignan            |         5 |   0.3      |
-| Grenoble             |         5 |   0.2      |
-| Stade Francais Paris |         5 |   0.2      |
+| Beziers              |         6 |   0.333333 |
 | Racing 92            |         5 |   0.2      |
+| Grenoble             |         5 |   0.2      |
+| Clermont Auvergne    |         5 |   0.2      |
 | Carcassonne          |         5 |   0.6      |
-| Colomiers            |         4 |   0.75     |
-| Rouen                |         4 |   0.75     |
-| Castres Olympique    |         4 |   0        |
+| Vannes               |         5 |   0.7      |
+| Biarritz Olympique   |         5 |   0.4      |
+| Stade Francais Paris |         5 |   0.2      |
+| Perpignan            |         5 |   0.3      |
 | Brive                |         4 |   0.75     |
+| Albi                 |         4 |   0.5      |
 | Bourgoin-Jallieu     |         4 |   0.5      |
+| Castres Olympique    |         4 |   0        |
+| Colomiers            |         4 |   0.75     |
 | Stade Toulousain     |         4 |   0.25     |
 | Montpellier Herault  |         4 |   0        |
-| Albi                 |         4 |   0.5      |
 | Provence Rugby       |         3 |   0.666667 |
 | Dax                  |         3 |   0.666667 |
+| Rouen                |         3 |   0.666667 |
 | Nevers               |         3 |   1        |
 | Soyaux-Angouleme     |         2 |   1        |
 | Toulon               |         2 |   0        |

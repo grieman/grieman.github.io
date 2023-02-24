@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Antonio Santos  
-date: 2023-02-10 10:37:10.259437  
+date: 2023-02-24 02:33:19.612947  
 categories: player  
 ---
 # Antonio Santos
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 82.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Lusitanos XV |             7 |   0.714286 |
-| Portugal     |             1 |   1        |
+| Portugal     |             2 |   1        |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
@@ -32,3 +32,4 @@ categories: player
 | Brussels Devils |         2 |          1 |
 | Tel-Aviv Heat   |         2 |          0 |
 | Belgium         |         1 |          1 |
+| Romania         |         1 |          1 |

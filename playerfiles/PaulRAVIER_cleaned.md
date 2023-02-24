@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul RAVIER  
-date: 2023-02-17 14:42:42.793182  
+date: 2023-02-24 02:23:46.875703  
 categories: player  
 ---
 # Paul RAVIER
 
 ## Positions: SH
 
-## Current elo: 110.0
+## Current elo: 107.0
 
-## Current Percentile: 74.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blagnac     |            43 |   0.55814  |
+| Blagnac     |            44 |   0.568182 |
 | US Bressane |             9 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,11 +29,11 @@ categories: player
 | Albi                       |         4 |   0.25     |
 | Chambery                   |         4 |   0.75     |
 | Tarbes                     |         4 |   0.875    |
+| Cognac Saint Jean d'Angély |         4 |   0.5      |
 | Suresnes                   |         3 |   0.666667 |
 | Nice                       |         3 |   0.333333 |
 | Massy                      |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
 | Brive                      |         2 |   0.5      |

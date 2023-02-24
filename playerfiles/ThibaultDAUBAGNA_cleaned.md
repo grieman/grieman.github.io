@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault DAUBAGNA  
-date: 2023-02-10 10:37:46.457995  
+date: 2023-02-24 02:32:52.664788  
 categories: player  
 ---
 # Thibault DAUBAGNA
 
 ## Positions: SH
 
-## Current elo: 146.0
+## Current elo: 128.0
 
-## Current Percentile: 99.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,48 +21,47 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |           222 |   0.466216 |
+| Pau    |           215 |   0.469767 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | La Rochelle          |        16 |   0.1875   |
 | Castres Olympique    |        16 |   0.3125   |
-| Racing 92            |        15 |   0.3      |
-| Toulon               |        14 |   0.178571 |
+| Racing 92            |        14 |   0.25     |
 | Montpellier Herault  |        14 |   0.428571 |
-| Stade Francais Paris |        13 |   0.384615 |
+| Toulon               |        13 |   0.192308 |
 | Bordeaux Begles      |        13 |   0.461538 |
-| Lyon                 |        12 |   0.375    |
+| Stade Francais Paris |        12 |   0.416667 |
 | Clermont Auvergne    |        12 |   0.25     |
 | Agen                 |        11 |   0.727273 |
 | Stade Toulousain     |        11 |   0.272727 |
-| Brive                |         9 |   0.555556 |
+| Lyon                 |        11 |   0.409091 |
+| Brive                |         8 |   0.5      |
 | Perpignan            |         7 |   0.857143 |
-| Bayonne              |         6 |   0.833333 |
+| Bayonne              |         5 |   0.9      |
 | Colomiers            |         4 |   0.75     |
-| Grenoble             |         4 |   1        |
 | Oyonnax              |         4 |   0.75     |
-| Cardiff Blues        |         3 |   0.333333 |
-| Biarritz Olympique   |         3 |   1        |
+| Grenoble             |         4 |   1        |
 | Mont-de-Marsan       |         3 |   0.666667 |
+| Biarritz Olympique   |         3 |   1        |
 | Albi                 |         3 |   0.666667 |
-| Leicester Tigers     |         2 |   0.5      |
-| Narbonne             |         2 |   1        |
-| Gloucester Rugby     |         2 |   1        |
+| Cardiff Blues        |         3 |   0.333333 |
+| Calvisano            |         2 |   1        |
 | Bourgoin-Jallieu     |         2 |   0.5      |
+| Bristol Rugby        |         2 |   0        |
+| Narbonne             |         2 |   1        |
 | Dax                  |         2 |   1        |
 | Carcassonne          |         2 |   0.5      |
-| Calvisano            |         2 |   1        |
-| Bristol Rugby        |         2 |   0        |
+| Leicester Tigers     |         2 |   0.5      |
+| Gloucester Rugby     |         2 |   1        |
 | Bath Rugby           |         2 |   0        |
-| Aurillac             |         1 |   1        |
+| Tarbes               |         1 |   1        |
 | Worcester Warriors   |         1 |   1        |
 | US Bressane          |         1 |   1        |
 | Auch                 |         1 |   1        |
-| Tarbes               |         1 |   1        |
-| Dragons              |         1 |   0        |
-| Sale Sharks          |         1 |   0        |
-| Massy                |         1 |   1        |
 | Ospreys              |         1 |   1        |
-| Cheetahs             |         1 |   0        |
+| Aurillac             |         1 |   1        |
+| Sale Sharks          |         1 |   0        |
+| Dragons              |         1 |   0        |
+| Massy                |         1 |   1        |
 | Zebre                |         1 |   1        |

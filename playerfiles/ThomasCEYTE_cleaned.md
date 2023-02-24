@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas CEYTE  
-date: 2023-02-10 10:36:23.610890  
+date: 2023-02-24 02:32:29.410765  
 categories: player  
 ---
 # Thomas CEYTE
 
 ## Positions: L
 
-## Current elo: 139.0
+## Current elo: 132.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Nevers  |            90 |   0.533333 |
 | Dax     |            38 |   0.381579 |
-| Bayonne |            15 |   0.633333 |
+| Bayonne |            16 |   0.65625  |
 | Beziers |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -42,25 +42,26 @@ categories: player
 | Bayonne                    |         6 |   0.25     |
 | Perpignan                  |         6 |   0.666667 |
 | Narbonne                   |         5 |   0.6      |
-| Agen                       |         4 |   0.25     |
-| Brive                      |         4 |   0.25     |
 | Grenoble                   |         4 |   0.25     |
-| Albi                       |         3 |   0.166667 |
-| Lyon                       |         3 |   0.333333 |
-| Bourgoin-Jallieu           |         3 |   0.333333 |
+| Brive                      |         4 |   0.25     |
+| Agen                       |         4 |   0.25     |
 | Rouen                      |         3 |   1        |
-| Massy                      |         2 |   0.5      |
+| Bourgoin-Jallieu           |         3 |   0.333333 |
+| Lyon                       |         3 |   0.333333 |
+| Albi                       |         3 |   0.166667 |
 | US Bressane                |         2 |   1        |
 | Toulon                     |         2 |   0.5      |
 | Tarbes                     |         2 |   0        |
+| Massy                      |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0.5      |
-| Roval Drome XV             |         1 |   1        |
+| Montpellier Herault        |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |
+| Stade Francais Paris       |         1 |   1        |
+| Roval Drome XV             |         1 |   1        |
+| Bordeaux Begles            |         1 |   1        |
+| Dax                        |         1 |   1        |
 | La Rochelle                |         1 |   1        |
-| Racing 92                  |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
 | Pau                        |         1 |   0.5      |
 | Clermont Auvergne          |         1 |   1        |
-| Dax                        |         1 |   1        |
-| Bordeaux Begles            |         1 |   1        |
-| Montpellier Herault        |         1 |   0        |
+| Racing 92                  |         1 |   1        |

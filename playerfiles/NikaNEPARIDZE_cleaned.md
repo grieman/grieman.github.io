@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nika NEPARIDZE  
-date: 2023-02-06 16:03:41.028075  
+date: 2023-02-24 02:28:22.730091  
 categories: player  
 ---
 # Nika NEPARIDZE
 
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 87.0
 
-## Current Percentile: 32.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Vannes   |            27 |   0.518519 |
-| Nice     |            24 |   0.479167 |
+| Nice     |            25 |   0.5      |
 | Grenoble |            18 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -39,6 +39,7 @@ categories: player
 | Mont-de-Marsan             |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
 | Albi                       |         3 |   0.833333 |
+| Valence Romans Drome Rugby |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Montauban                  |         2 |   0        |
 | Brive                      |         2 |   0        |
@@ -47,7 +48,6 @@ categories: player
 | Beziers                    |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0        |
 | Suresnes                   |         2 |   1        |
-| Valence Romans Drome Rugby |         2 |   0.5      |
 | Dijon                      |         1 |   0        |
 | Aubenas                    |         1 |   1        |
 | Chambery                   |         1 |   0        |

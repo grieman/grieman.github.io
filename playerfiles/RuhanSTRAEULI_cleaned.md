@@ -1,45 +1,31 @@
 ---  
 layout: page  
-title: Ruhan STRAEULI  
-date: 2023-02-06 16:04:21.297165  
+title: Ruhan Straeuli  
+date: 2023-02-24 02:22:39.371863  
 categories: player  
 ---
-# Ruhan STRAEULI
+# Ruhan Straeuli
 
-## Positions: FL, N8
+## Positions: FL
 
-## Current elo: 113.0
+## Current elo: 92.0
 
-## Current Percentile: 86.0
+## Current Percentile: 46.0
 
 # Elo History
 
 
-![elo history](history_RuhanSTRAEULI.png)
+![elo history](history_RuhanStraeuli.png)
 # Match History
 
 
-| Team         |   Appearances |   Win Rate |
-|:-------------|--------------:|-----------:|
-| Lions        |            15 |   0.333333 |
-| Golden Lions |             6 |   0.416667 |
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Lions  |             4 |       0.25 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Bulls                |         4 |        0   |
-| Stormers             |         2 |        0.5 |
-| Blue Bulls           |         1 |        0   |
-| Natal Sharks         |         1 |        0   |
-| Ulster               |         1 |        0   |
-| Stade Francais Paris |         1 |        0   |
-| Sharks               |         1 |        0   |
-| Pumas                |         1 |        0   |
-| Ospreys              |         1 |        1   |
-| Griquas              |         1 |        1   |
-| Glasgow Warriors     |         1 |        0   |
-| Free State Cheetahs  |         1 |        0.5 |
-| Edinburgh            |         1 |        1   |
-| Dragons              |         1 |        1   |
-| Connacht             |         1 |        0   |
-| Cardiff Blues        |         1 |        1   |
-| Western Province     |         1 |        1   |
+| Connacht             |         1 |          0 |
+| Dragons              |         1 |          1 |
+| Sharks               |         1 |          0 |
+| Stade Francais Paris |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thierry FUTEU YOUTCHEU  
-date: 2023-02-17 14:43:11.237425  
+date: 2023-02-24 02:25:32.056696  
 categories: player  
 ---
 # Thierry FUTEU YOUTCHEU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 71.0
+## Current elo: 69.0
 
-## Current Percentile: 11.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -24,18 +24,18 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Carcassonne          |            38 |   0.473684 |
-| Spain                |            23 |   0.652174 |
+| Spain                |            24 |   0.583333 |
 | Stade Francais Paris |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Georgia                    |         5 |   0        |
 | Montauban                  |         3 |   0.666667 |
 | Beziers                    |         3 |   0.666667 |
 | Russia                     |         3 |   1        |
 | Rouen                      |         3 |   1        |
 | Romania                    |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.333333 |
-| Georgia                    |         3 |   0        |
 | Grenoble                   |         3 |   0.333333 |
 | Aurillac                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
@@ -50,16 +50,15 @@ categories: player
 | Germany                    |         2 |   1        |
 | Colomiers                  |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
-| Brazil                     |         1 |   1        |
-| Bayonne                    |         1 |   0        |
-| Uruguay                    |         1 |   1        |
-| Tonga                      |         1 |   0        |
-| Belgium                    |         1 |   1        |
-| Castres Olympique          |         1 |   0        |
-| Canada                     |         1 |   1        |
 | Namibia                    |         1 |   1        |
-| Chile                      |         1 |   1        |
-| Clermont Auvergne          |         1 |   0        |
-| Fiji                       |         1 |   0        |
 | Narbonne                   |         1 |   1        |
+| Fiji                       |         1 |   0        |
+| Clermont Auvergne          |         1 |   0        |
+| Chile                      |         1 |   1        |
+| Castres Olympique          |         1 |   0        |
+| Brazil                     |         1 |   1        |
+| Belgium                    |         1 |   1        |
+| Tonga                      |         1 |   0        |
+| Uruguay                    |         1 |   1        |
+| Bayonne                    |         1 |   0        |
 | Agen                       |         1 |   1        |

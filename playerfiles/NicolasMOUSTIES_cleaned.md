@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nicolas MOUSTIES  
-date: 2023-02-17 14:39:14.120792  
+date: 2023-02-24 02:36:16.151732  
 categories: player  
 ---
 # Nicolas MOUSTIES
 
 ## Positions: FL
 
-## Current elo: 64.0
+## Current elo: 67.0
 
 ## Current Percentile: 3.0
 
@@ -21,23 +21,24 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |            31 |   0.451613 |
+| Provence Rugby |            32 |   0.453125 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Montauban          |         4 |   0.5      |
+| Vannes             |         3 |   0.333333 |
+| Nevers             |         3 |   0.333333 |
 | Colomiers          |         3 |   0        |
 | Mont-de-Marsan     |         3 |   0.666667 |
-| Nevers             |         3 |   0.333333 |
-| Vannes             |         3 |   0.333333 |
-| Aurillac           |         2 |   0.5      |
+| Rouen              |         2 |   1        |
 | Biarritz Olympique |         2 |   0        |
 | Grenoble           |         2 |   1        |
-| Rouen              |         2 |   1        |
-| Bayonne            |         1 |   1        |
-| Beziers            |         1 |   0        |
-| Carcassonne        |         1 |   1        |
-| Massy              |         1 |   0        |
-| Narbonne           |         1 |   0        |
-| Oyonnax            |         1 |   0        |
+| Aurillac           |         2 |   0.5      |
 | Soyaux-Angouleme   |         1 |   1        |
+| Oyonnax            |         1 |   0        |
+| Agen               |         1 |   0.5      |
+| Narbonne           |         1 |   0        |
+| Carcassonne        |         1 |   1        |
+| Beziers            |         1 |   0        |
+| Bayonne            |         1 |   1        |
+| Massy              |         1 |   0        |

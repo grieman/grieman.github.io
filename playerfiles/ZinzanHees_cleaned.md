@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zinzan Hees  
-date: 2023-02-17 14:43:00.497429  
+date: 2023-02-24 02:35:30.304829  
 categories: player  
 ---
 # Zinzan Hees
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 82.0
+## Current elo: 92.0
 
-## Current Percentile: 30.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,9 +23,10 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Germany |             3 |          0 |
+| Germany |             4 |          0 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Spain      |         2 |          0 |
-| Georgia    |         1 |          0 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Spain       |         2 |          0 |
+| Georgia     |         1 |          0 |
+| Netherlands |         1 |          0 |

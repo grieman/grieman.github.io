@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ugo SEUNES  
-date: 2023-02-17 14:42:03.018450  
+date: 2023-02-24 02:27:32.897118  
 categories: player  
 ---
 # Ugo SEUNES
 
 ## Positions: FH
 
-## Current elo: 108.0
+## Current elo: 101.0
 
-## Current Percentile: 63.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            54 |   0.537037 |
+| Blagnac |            55 |   0.545455 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         5 |   0.4      |
 | Tarbes                     |         5 |   0.7      |
-| Aubenas                    |         4 |   0.75     |
+| Cognac Saint Jean d'Angély |         4 |   0.5      |
 | US Bressane                |         4 |   0.25     |
+| Aubenas                    |         4 |   0.75     |
 | Valence Romans Drome Rugby |         4 |   0.5      |
 | Chambery                   |         4 |   0.75     |
 | Bourgoin-Jallieu           |         4 |   0.5      |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Dax                        |         3 |   0.666667 |
 | Dijon                      |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.166667 |

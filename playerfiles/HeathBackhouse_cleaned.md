@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Heath Backhouse  
-date: 2023-02-17 14:43:30.544036  
+date: 2023-02-24 02:24:21.767799  
 categories: player  
 ---
 # Heath Backhouse
 
 ## Positions: L
 
-## Current elo: 90.0
+## Current elo: 94.0
 
-## Current Percentile: 69.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Albi               |            29 |   0.672414 |
+| Albi               |            30 |   0.65     |
 | Biarritz Olympique |            22 |   0.522727 |
 | Pumas              |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Bourgoin-Jallieu           |         4 |   0.75     |
 | Vannes                     |         3 |   0.666667 |
 | Massy                      |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.666667 |
-| Bourgoin-Jallieu           |         3 |   1        |
 | Chambery                   |         3 |   1        |
 | Soyaux-Angouleme           |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         2 |   0.5      |
