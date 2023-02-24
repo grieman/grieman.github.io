@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin VERMEERSCH  
-date: 2023-02-24 02:33:53.078295  
+date: 2023-02-24 09:48:50.798180  
 categories: player  
 ---
 # Robin VERMEERSCH
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 46.0
 
-## Current Percentile: 2.0
+## Current Percentile: 3.0
 
 # Elo History
 

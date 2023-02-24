@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Lespiaucq-Brettes  
-date: 2023-02-24 02:35:19.973453  
+date: 2023-02-24 09:52:09.200110  
 categories: player  
 ---
 # Quentin Lespiaucq-Brettes

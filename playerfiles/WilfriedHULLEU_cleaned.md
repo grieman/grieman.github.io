@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfried HULLEU  
-date: 2023-02-24 02:28:40.218677  
+date: 2023-02-24 09:47:22.015054  
 categories: player  
 ---
 # Wilfried HULLEU
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 

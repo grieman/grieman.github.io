@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo MIAS  
-date: 2023-02-24 02:23:28.745251  
+date: 2023-02-24 09:55:30.289554  
 categories: player  
 ---
 # Théo MIAS
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 56.0
+## Current Percentile: 57.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul AURADOU  
-date: 2023-02-24 02:27:03.017792  
+date: 2023-02-24 09:56:38.201841  
 categories: player  
 ---
 # Paul AURADOU
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 50.0
+## Current Percentile: 51.0
 
 # Elo History
 

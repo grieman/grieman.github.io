@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémy Baget  
-date: 2023-02-24 02:21:38.763267  
+date: 2023-02-24 09:53:27.516250  
 categories: player  
 ---
 # Rémy Baget
 
 ## Positions: W
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 

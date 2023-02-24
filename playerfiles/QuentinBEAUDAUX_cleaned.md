@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin BEAUDAUX  
-date: 2023-02-24 02:25:50.215043  
+date: 2023-02-24 09:47:27.103323  
 categories: player  
 ---
 # Quentin BEAUDAUX
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 31.0
+## Current Percentile: 32.0
 
 # Elo History
 

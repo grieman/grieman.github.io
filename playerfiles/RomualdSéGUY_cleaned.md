@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romuald SéGUY  
-date: 2023-02-24 02:35:38.071241  
+date: 2023-02-24 09:49:23.860421  
 categories: player  
 ---
 # Romuald SéGUY

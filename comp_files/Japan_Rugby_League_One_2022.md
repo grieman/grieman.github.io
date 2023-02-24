@@ -59,7 +59,7 @@ categories: model review projection
 | Toyota Verblitz V Green Rockets Tokatsu on 2023/02/18                      |        3 |                11.9 |                 18.8 |              18.9 |
 | Kobelco Kobe Steelers V Shizuoka Blue Revs on 2023/02/19                   |        3 |                 4.5 |                  4.1 |               7.2 |
 | Kubota Spears Funabashi Tokyo-Bay V Mitsubishi Dynaboars on 2023/02/19     |       38 |                24.5 |                 24.3 |              16.1 |
-|
+| ------ | ------ | ------ | ------ | ------ |
 | Average Error |       - | 15.3 | 15.8 | 12.8 |
 | Correct Winner |       - | 72.9% | 70.8% | 75.0% |
 ## Future Club-Level Match Predictions
@@ -69,7 +69,7 @@ categories: model review projection
 #### Kubota Spears Funabashi Tokyo-Bay V Toshiba Brave Lupus Tokyo on 2023/02/25
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 7.5
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 7.4
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Toshiba Brave Lupus Tokyo_7.png" width="32%" />
@@ -102,7 +102,7 @@ Average Margin: Tokyo Sungoliath by 10.0
 #### Toyota Verblitz V Yokohama Canon Eagles on 2023/02/25
 
 
-Average Margin: Yokohama Canon Eagles by 7.6
+Average Margin: Yokohama Canon Eagles by 7.0
 
 <p float="left">
 <img src="plots/performances_Toyota Verblitz_V_Yokohama Canon Eagles_7.png" width="32%" />
@@ -113,7 +113,7 @@ Average Margin: Yokohama Canon Eagles by 7.6
 #### Kobelco Kobe Steelers V Saitama Wild Knights on 2023/02/26
 
 
-Average Margin: Saitama Wild Knights by 8.3
+Average Margin: Saitama Wild Knights by 8.4
 
 <p float="left">
 <img src="plots/performances_Kobelco Kobe Steelers_V_Saitama Wild Knights_7.png" width="32%" />
@@ -124,7 +124,7 @@ Average Margin: Saitama Wild Knights by 8.3
 #### Mitsubishi Dynaboars V Green Rockets Tokatsu on 2023/02/26
 
 
-Average Margin: Mitsubishi Dynaboars by 11.3
+Average Margin: Mitsubishi Dynaboars by 12.1
 
 <p float="left">
 <img src="plots/performances_Mitsubishi Dynaboars_V_Green Rockets Tokatsu_7.png" width="32%" />
@@ -137,7 +137,7 @@ Average Margin: Mitsubishi Dynaboars by 11.3
 #### Yokohama Canon Eagles V Shizuoka Blue Revs on 2023/03/03
 
 
-Average Margin: Yokohama Canon Eagles by 12.4
+Average Margin: Yokohama Canon Eagles by 12.5
 
 <p float="left">
 <img src="plots/performances_Yokohama Canon Eagles_V_Shizuoka Blue Revs_8.png" width="32%" />
@@ -148,7 +148,7 @@ Average Margin: Yokohama Canon Eagles by 12.4
 #### Green Rockets Tokatsu V Black Rams Tokyo on 2023/03/04
 
 
-Average Margin: Black Rams Tokyo by 5.0
+Average Margin: Black Rams Tokyo by 5.5
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Black Rams Tokyo_8.png" width="32%" />
@@ -159,7 +159,7 @@ Average Margin: Black Rams Tokyo by 5.0
 #### Toshiba Brave Lupus Tokyo V Kobelco Kobe Steelers on 2023/03/04
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 7.8
+Average Margin: Toshiba Brave Lupus Tokyo by 8.0
 
 <p float="left">
 <img src="plots/performances_Toshiba Brave Lupus Tokyo_V_Kobelco Kobe Steelers_8.png" width="32%" />
@@ -170,7 +170,7 @@ Average Margin: Toshiba Brave Lupus Tokyo by 7.8
 #### Saitama Wild Knights V Kubota Spears Funabashi Tokyo-Bay on 2023/03/04
 
 
-Average Margin: Saitama Wild Knights by 6.2
+Average Margin: Saitama Wild Knights by 6.3
 
 <p float="left">
 <img src="plots/performances_Saitama Wild Knights_V_Kubota Spears Funabashi Tokyo-Bay_8.png" width="32%" />
@@ -181,7 +181,7 @@ Average Margin: Saitama Wild Knights by 6.2
 #### Tokyo Sungoliath V Toyota Verblitz on 2023/03/05
 
 
-Average Margin: Tokyo Sungoliath by 17.5
+Average Margin: Tokyo Sungoliath by 17.9
 
 <p float="left">
 <img src="plots/performances_Tokyo Sungoliath_V_Toyota Verblitz_8.png" width="32%" />
@@ -205,7 +205,7 @@ Average Margin: Mitsubishi Dynaboars by 6.7
 #### Black Rams Tokyo V Kobelco Kobe Steelers on 2023/03/10
 
 
-Average Margin: Kobelco Kobe Steelers by 3.3
+Average Margin: Kobelco Kobe Steelers by 3.2
 
 <p float="left">
 <img src="plots/performances_Black Rams Tokyo_V_Kobelco Kobe Steelers_9.png" width="32%" />
@@ -216,7 +216,7 @@ Average Margin: Kobelco Kobe Steelers by 3.3
 #### Tokyo Sungoliath V Saitama Wild Knights on 2023/03/11
 
 
-Average Margin: Tokyo Sungoliath by 2.2
+Average Margin: Tokyo Sungoliath by 2.6
 
 <p float="left">
 <img src="plots/performances_Tokyo Sungoliath_V_Saitama Wild Knights_9.png" width="32%" />
@@ -227,7 +227,7 @@ Average Margin: Tokyo Sungoliath by 2.2
 #### Hanazono Kintetsu Liners V Toyota Verblitz on 2023/03/11
 
 
-Average Margin: Toyota Verblitz by 9.9
+Average Margin: Toyota Verblitz by 10.1
 
 <p float="left">
 <img src="plots/performances_Hanazono Kintetsu Liners_V_Toyota Verblitz_9.png" width="32%" />
@@ -238,7 +238,7 @@ Average Margin: Toyota Verblitz by 9.9
 #### Shizuoka Blue Revs V Kubota Spears Funabashi Tokyo-Bay on 2023/03/11
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 7.7
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 7.6
 
 <p float="left">
 <img src="plots/performances_Shizuoka Blue Revs_V_Kubota Spears Funabashi Tokyo-Bay_9.png" width="32%" />
@@ -249,7 +249,7 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 7.7
 #### Green Rockets Tokatsu V Toshiba Brave Lupus Tokyo on 2023/03/12
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 16.1
+Average Margin: Toshiba Brave Lupus Tokyo by 16.2
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Toshiba Brave Lupus Tokyo_9.png" width="32%" />
@@ -260,7 +260,7 @@ Average Margin: Toshiba Brave Lupus Tokyo by 16.1
 #### Mitsubishi Dynaboars V Yokohama Canon Eagles on 2023/03/12
 
 
-Average Margin: Yokohama Canon Eagles by 10.2
+Average Margin: Yokohama Canon Eagles by 10.0
 
 <p float="left">
 <img src="plots/performances_Mitsubishi Dynaboars_V_Yokohama Canon Eagles_9.png" width="32%" />
@@ -284,7 +284,7 @@ Average Margin: Tokyo Sungoliath by 30.8
 #### Kobelco Kobe Steelers V Green Rockets Tokatsu on 2023/03/18
 
 
-Average Margin: Kobelco Kobe Steelers by 18.3
+Average Margin: Kobelco Kobe Steelers by 18.2
 
 <p float="left">
 <img src="plots/performances_Kobelco Kobe Steelers_V_Green Rockets Tokatsu_10.png" width="32%" />
@@ -295,7 +295,7 @@ Average Margin: Kobelco Kobe Steelers by 18.3
 #### Kubota Spears Funabashi Tokyo-Bay V Yokohama Canon Eagles on 2023/03/18
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 5.0
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 5.2
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Yokohama Canon Eagles_10.png" width="32%" />
@@ -306,7 +306,7 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 5.0
 #### Black Rams Tokyo V Shizuoka Blue Revs on 2023/03/18
 
 
-Average Margin: Shizuoka Blue Revs by 0.2
+Average Margin: Shizuoka Blue Revs by 0.4
 
 <p float="left">
 <img src="plots/performances_Black Rams Tokyo_V_Shizuoka Blue Revs_10.png" width="32%" />
@@ -317,7 +317,7 @@ Average Margin: Shizuoka Blue Revs by 0.2
 #### Toyota Verblitz V Toshiba Brave Lupus Tokyo on 2023/03/18
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 5.1
+Average Margin: Toshiba Brave Lupus Tokyo by 4.8
 
 <p float="left">
 <img src="plots/performances_Toyota Verblitz_V_Toshiba Brave Lupus Tokyo_10.png" width="32%" />
@@ -328,7 +328,7 @@ Average Margin: Toshiba Brave Lupus Tokyo by 5.1
 #### Mitsubishi Dynaboars V Saitama Wild Knights on 2023/03/18
 
 
-Average Margin: Saitama Wild Knights by 14.9
+Average Margin: Saitama Wild Knights by 14.7
 
 <p float="left">
 <img src="plots/performances_Mitsubishi Dynaboars_V_Saitama Wild Knights_10.png" width="32%" />
@@ -341,7 +341,7 @@ Average Margin: Saitama Wild Knights by 14.9
 #### Black Rams Tokyo V Toshiba Brave Lupus Tokyo on 2023/03/24
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 7.9
+Average Margin: Toshiba Brave Lupus Tokyo by 7.7
 
 <p float="left">
 <img src="plots/performances_Black Rams Tokyo_V_Toshiba Brave Lupus Tokyo_11.png" width="32%" />
@@ -352,7 +352,7 @@ Average Margin: Toshiba Brave Lupus Tokyo by 7.9
 #### Yokohama Canon Eagles V Hanazono Kintetsu Liners on 2023/03/25
 
 
-Average Margin: Yokohama Canon Eagles by 26.7
+Average Margin: Yokohama Canon Eagles by 27.0
 
 <p float="left">
 <img src="plots/performances_Yokohama Canon Eagles_V_Hanazono Kintetsu Liners_11.png" width="32%" />
@@ -363,7 +363,7 @@ Average Margin: Yokohama Canon Eagles by 26.7
 #### Toyota Verblitz V Saitama Wild Knights on 2023/03/25
 
 
-Average Margin: Saitama Wild Knights by 12.0
+Average Margin: Saitama Wild Knights by 11.6
 
 <p float="left">
 <img src="plots/performances_Toyota Verblitz_V_Saitama Wild Knights_11.png" width="32%" />
@@ -374,7 +374,7 @@ Average Margin: Saitama Wild Knights by 12.0
 #### Shizuoka Blue Revs V Mitsubishi Dynaboars on 2023/03/25
 
 
-Average Margin: Shizuoka Blue Revs by 7.2
+Average Margin: Shizuoka Blue Revs by 7.4
 
 <p float="left">
 <img src="plots/performances_Shizuoka Blue Revs_V_Mitsubishi Dynaboars_11.png" width="32%" />
@@ -385,7 +385,7 @@ Average Margin: Shizuoka Blue Revs by 7.2
 #### Green Rockets Tokatsu V Tokyo Sungoliath on 2023/03/26
 
 
-Average Margin: Tokyo Sungoliath by 22.4
+Average Margin: Tokyo Sungoliath by 21.7
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Tokyo Sungoliath_11.png" width="32%" />
@@ -396,7 +396,7 @@ Average Margin: Tokyo Sungoliath by 22.4
 #### Kobelco Kobe Steelers V Kubota Spears Funabashi Tokyo-Bay on 2023/03/26
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 5.1
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 5.3
 
 <p float="left">
 <img src="plots/performances_Kobelco Kobe Steelers_V_Kubota Spears Funabashi Tokyo-Bay_11.png" width="32%" />
@@ -420,7 +420,7 @@ Average Margin: Tokyo Sungoliath by 13.7
 #### Kubota Spears Funabashi Tokyo-Bay V Hanazono Kintetsu Liners on 2023/04/08
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 28.7
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 28.3
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Hanazono Kintetsu Liners_12.png" width="32%" />
@@ -431,7 +431,7 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 28.7
 #### Shizuoka Blue Revs V Toshiba Brave Lupus Tokyo on 2023/04/08
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 4.0
+Average Margin: Toshiba Brave Lupus Tokyo by 3.9
 
 <p float="left">
 <img src="plots/performances_Shizuoka Blue Revs_V_Toshiba Brave Lupus Tokyo_12.png" width="32%" />
@@ -442,7 +442,7 @@ Average Margin: Toshiba Brave Lupus Tokyo by 4.0
 #### Saitama Wild Knights V Black Rams Tokyo on 2023/04/08
 
 
-Average Margin: Saitama Wild Knights by 21.0
+Average Margin: Saitama Wild Knights by 21.1
 
 <p float="left">
 <img src="plots/performances_Saitama Wild Knights_V_Black Rams Tokyo_12.png" width="32%" />
@@ -453,7 +453,7 @@ Average Margin: Saitama Wild Knights by 21.0
 #### Toyota Verblitz V Mitsubishi Dynaboars on 2023/04/08
 
 
-Average Margin: Toyota Verblitz by 6.1
+Average Margin: Toyota Verblitz by 6.4
 
 <p float="left">
 <img src="plots/performances_Toyota Verblitz_V_Mitsubishi Dynaboars_12.png" width="32%" />
@@ -464,7 +464,7 @@ Average Margin: Toyota Verblitz by 6.1
 #### Green Rockets Tokatsu V Yokohama Canon Eagles on 2023/04/09
 
 
-Average Margin: Yokohama Canon Eagles by 17.7
+Average Margin: Yokohama Canon Eagles by 17.9
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Yokohama Canon Eagles_12.png" width="32%" />
@@ -477,7 +477,7 @@ Average Margin: Yokohama Canon Eagles by 17.7
 #### Hanazono Kintetsu Liners V Kobelco Kobe Steelers on 2023/04/14
 
 
-Average Margin: Kobelco Kobe Steelers by 13.3
+Average Margin: Kobelco Kobe Steelers by 13.6
 
 <p float="left">
 <img src="plots/performances_Hanazono Kintetsu Liners_V_Kobelco Kobe Steelers_13.png" width="32%" />
@@ -499,7 +499,7 @@ Average Margin: Toshiba Brave Lupus Tokyo by 14.4
 #### Yokohama Canon Eagles V Tokyo Sungoliath on 2023/04/15
 
 
-Average Margin: Tokyo Sungoliath by 0.5
+Average Margin: Tokyo Sungoliath by 0.7
 
 <p float="left">
 <img src="plots/performances_Yokohama Canon Eagles_V_Tokyo Sungoliath_13.png" width="32%" />
@@ -510,7 +510,7 @@ Average Margin: Tokyo Sungoliath by 0.5
 #### Black Rams Tokyo V Toyota Verblitz on 2023/04/15
 
 
-Average Margin: Black Rams Tokyo by 0.9
+Average Margin: Black Rams Tokyo by 0.3
 
 <p float="left">
 <img src="plots/performances_Black Rams Tokyo_V_Toyota Verblitz_13.png" width="32%" />
@@ -521,7 +521,7 @@ Average Margin: Black Rams Tokyo by 0.9
 #### Saitama Wild Knights V Shizuoka Blue Revs on 2023/04/15
 
 
-Average Margin: Saitama Wild Knights by 17.4
+Average Margin: Saitama Wild Knights by 17.5
 
 <p float="left">
 <img src="plots/performances_Saitama Wild Knights_V_Shizuoka Blue Revs_13.png" width="32%" />
@@ -532,7 +532,7 @@ Average Margin: Saitama Wild Knights by 17.4
 #### Green Rockets Tokatsu V Kubota Spears Funabashi Tokyo-Bay on 2023/04/16
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 19.7
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 19.8
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Kubota Spears Funabashi Tokyo-Bay_13.png" width="32%" />
@@ -545,7 +545,7 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 19.7
 #### Toshiba Brave Lupus Tokyo V Saitama Wild Knights on 2023/04/21
 
 
-Average Margin: Saitama Wild Knights by 3.9
+Average Margin: Saitama Wild Knights by 3.3
 
 <p float="left">
 <img src="plots/performances_Toshiba Brave Lupus Tokyo_V_Saitama Wild Knights_14.png" width="32%" />
@@ -556,7 +556,7 @@ Average Margin: Saitama Wild Knights by 3.9
 #### Hanazono Kintetsu Liners V Green Rockets Tokatsu on 2023/04/22
 
 
-Average Margin: Hanazono Kintetsu Liners by 1.5
+Average Margin: Hanazono Kintetsu Liners by 0.8
 
 <p float="left">
 <img src="plots/performances_Hanazono Kintetsu Liners_V_Green Rockets Tokatsu_14.png" width="32%" />
@@ -567,7 +567,7 @@ Average Margin: Hanazono Kintetsu Liners by 1.5
 #### Kubota Spears Funabashi Tokyo-Bay V Tokyo Sungoliath on 2023/04/22
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 1.2
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 1.4
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Tokyo Sungoliath_14.png" width="32%" />
@@ -578,7 +578,7 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 1.2
 #### Mitsubishi Dynaboars V Black Rams Tokyo on 2023/04/22
 
 
-Average Margin: Mitsubishi Dynaboars by 3.2
+Average Margin: Mitsubishi Dynaboars by 3.1
 
 <p float="left">
 <img src="plots/performances_Mitsubishi Dynaboars_V_Black Rams Tokyo_14.png" width="32%" />
@@ -589,7 +589,7 @@ Average Margin: Mitsubishi Dynaboars by 3.2
 #### Kobelco Kobe Steelers V Yokohama Canon Eagles on 2023/04/23
 
 
-Average Margin: Yokohama Canon Eagles by 3.2
+Average Margin: Yokohama Canon Eagles by 3.1
 
 <p float="left">
 <img src="plots/performances_Kobelco Kobe Steelers_V_Yokohama Canon Eagles_14.png" width="32%" />
@@ -600,7 +600,7 @@ Average Margin: Yokohama Canon Eagles by 3.2
 #### Shizuoka Blue Revs V Toyota Verblitz on 2023/04/23
 
 
-Average Margin: Shizuoka Blue Revs by 4.5
+Average Margin: Shizuoka Blue Revs by 4.2
 
 <p float="left">
 <img src="plots/performances_Shizuoka Blue Revs_V_Toyota Verblitz_14.png" width="32%" />

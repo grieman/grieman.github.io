@@ -89,6 +89,22 @@ Last Round Error: 10.29 points per match
 [2023-02-18 Toronto Arrows at Rugby ATL; 10-17](reviews//2023-02-18-RugbyATL-TorontoArrows)
 
 [2023-02-18 New England Free Jacks at NOLA Gold; 36-12](reviews//2023-02-18-NOLAGold-NewEnglandFreeJacks)
+## Super Rugby Pacific
+
+
+[In depth model review and projections for Super Rugby Pacific 2022](comp_files/Super_Rugby_Pacific_2022.md)
+
+Competition Accuracy: 1 of 2 (50.0%)
+
+Competition Error: 19.25 points per match
+
+Last Round Accuracy: 1 of 2 (50.0%)
+
+Last Round Error: 19.25 points per match
+
+[2023-02-24 Chiefs at Crusaders; 31.0-10.0](reviews//2023-02-24-Crusaders-Chiefs)
+
+[2023-02-24 Brumbies at New South Wales Waratahs; 31.0-25.0](reviews//2023-02-24-NewSouthWalesWaratahs-Brumbies)
 ## Top 14 Orange
 
 
@@ -98,9 +114,9 @@ Competition Accuracy: 87 of 126 (69.05%)
 
 Competition Error: 10.49 points per match
 
-Last Round Accuracy: 4 of 7 (57.14%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 19.02 points per match
+Last Round Error: 8.73 points per match
 
 [2023-02-18 Stade Francais Paris at Bayonne; 26-29](reviews//2023-02-18-Bayonne-StadeFrancaisParis)
 

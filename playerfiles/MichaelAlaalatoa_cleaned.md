@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2023-02-24 02:36:06.244156  
+date: 2023-02-24 09:47:15.237109  
 categories: player  
 ---
 # Michael Alaalatoa

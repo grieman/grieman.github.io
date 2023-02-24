@@ -36,6 +36,7 @@ def make_comp_page(comp):
     team_colors = team_colors.rename_axis('Team').reset_index()
 
     match_df, club_histories, clubbase = get_comp_history(comp)
+    match_df = match_df[~match_df.point_diff.isna()]
     fut_matches_df = get_fut_comp_matches(comp)
     sim_df, playoff_df = sim_remaining(comp, n_sims=1000, fut_matches_df=fut_matches_df, clubbase=clubbase)
 
@@ -55,7 +56,14 @@ def make_comp_page(comp):
     club_histories['name'] = club_histories['Club'] + " V " + club_histories['Opponent'] + " on "+ club_histories['Date'].dt.strftime('%Y/%m/%d')
     club_histories['point_diff'] = club_histories.Point_Diff
     pred_df = np.round(match_df[['name', 'point_diff', 'adv_lineup_spread', 'adv_spread']].merge(club_histories[['name', 'point_diff', 'Predicted_Spread']], how='outer'), 1)
-    pred_df.columns = ['Match', 'Result', 'Lineup Prediction', 'Minutes Prediction', 'Club Prediction']
+    pred_df = pred_df.rename({
+        'name':'Match',
+        'point_diff':'Result',
+        'adv_lineup_spread':'Lineup Prediction',
+        'adv_spread':'Minutes Prediction',
+        'Predicted_Spread':'Club Prediction',
+        }, axis = 'columns')
+    pred_df = pred_df[['Match', 'Result', 'Lineup Prediction', 'Minutes Prediction', 'Club Prediction']]
 
     lineup_pred_df = pred_df[~pred_df['Lineup Prediction'].isna()]
     minutes_pred_df = pred_df[~pred_df['Minutes Prediction'].isna()]
@@ -63,13 +71,13 @@ def make_comp_page(comp):
     lineup_binary_acc = np.round(100 * np.mean((lineup_pred_df['Result'] * lineup_pred_df['Lineup Prediction']) > 0), 1)
     minutes_binary_acc = np.round(100 * np.mean((minutes_pred_df['Result'] * minutes_pred_df['Minutes Prediction']) > 0), 1)
     club_binary_acc = np.round(100 * np.mean((club_pred_df['Result'] * club_pred_df['Club Prediction']) > 0), 1)
-    lineup_margin_error = np.round(metrics.mean_absolute_error(lineup_pred_df['Result'], lineup_pred_df['Lineup Prediction']), 1)
-    minutes_margin_error = np.round(metrics.mean_absolute_error(minutes_pred_df['Result'], minutes_pred_df['Minutes Prediction']), 1)
-    club_margin_error = np.round(metrics.mean_absolute_error(club_pred_df['Result'], club_pred_df['Club Prediction']), 1)
+    lineup_margin_error = np.round(np.mean(abs(club_pred_df['Result'] - club_pred_df['Lineup Prediction'])), 1)
+    minutes_margin_error = np.round(np.mean(abs(club_pred_df['Result'] - club_pred_df['Minutes Prediction'])), 1)
+    club_margin_error = np.round(np.mean(abs(club_pred_df['Result'] - club_pred_df['Club Prediction'])), 1)
 
     pred_table = tabulate(pred_df, tablefmt="pipe", headers="keys", showindex=False)
     pred_table = pred_table +\
-        "\n|" +\
+        "\n| ------ | ------ | ------ | ------ | ------ |" +\
         f"\n| Average Error |       - | {lineup_margin_error} | {minutes_margin_error} | {club_margin_error} |" +\
         f"\n| Correct Winner |       - | {lineup_binary_acc}% | {minutes_binary_acc}% | {club_binary_acc}% |"
 
@@ -117,3 +125,4 @@ def make_comp_page(comp):
     md_file.create_md_file()
 
     clean_leading_space(f'temp//{comp.replace(" ", "_")}.md', f'comp_files//{comp.replace(" ", "_")}.md')
+    

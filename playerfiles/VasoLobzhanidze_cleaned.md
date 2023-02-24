@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2023-02-24 02:37:01.145315  
+date: 2023-02-24 09:48:31.271595  
 categories: player  
 ---
 # Vaso Lobzhanidze

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain URUTY  
-date: 2023-02-24 02:27:14.189709  
+date: 2023-02-24 09:55:28.175574  
 categories: player  
 ---
 # Romain URUTY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 83.0
+## Current Percentile: 82.0
 
 # Elo History
 

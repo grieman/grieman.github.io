@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leroy van Dam  
-date: 2023-02-24 02:29:01.785495  
+date: 2023-02-24 09:51:56.191336  
 categories: player  
 ---
 # Leroy van Dam
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 

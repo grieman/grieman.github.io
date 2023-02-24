@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quinn ROUX  
-date: 2023-02-24 02:20:09.849191  
+date: 2023-02-24 09:53:50.366210  
 categories: player  
 ---
 # Quinn ROUX
