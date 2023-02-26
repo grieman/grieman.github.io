@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaetan Pichon  
-date: 2023-02-02 19:03:28.712301  
+date: 2023-02-26 11:20:09.794150  
 categories: player  
 ---
 # Gaetan Pichon
 
 ## Positions: SH
 
-## Current elo: 109.0
+## Current elo: 90.0
 
-## Current Percentile: 78.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,25 +21,25 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
+| Massy       |            25 |   0.4      |
 | Carcassonne |            24 |   0.520833 |
-| Massy       |            14 |   0.357143 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Mont-de-Marsan             |         5 |   0.4      |
-| Aurillac                   |         4 |   0.25     |
-| Montauban                  |         3 |   0.666667 |
+| Mont-de-Marsan             |         6 |   0.333333 |
+| Aurillac                   |         6 |   0.166667 |
+| Montauban                  |         4 |   0.75     |
+| Soyaux-Angouleme           |         4 |   0.25     |
+| Vannes                     |         4 |   0.625    |
+| Carcassonne                |         4 |   1        |
 | Grenoble                   |         3 |   0.666667 |
 | Provence Rugby             |         3 |   0.666667 |
-| Vannes                     |         3 |   0.5      |
 | Colomiers                  |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
+| Rouen                      |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
-| Soyaux-Angouleme           |         2 |   0.5      |
 | Agen                       |         2 |   0.5      |
-| Carcassonne                |         1 |   1        |
 | Nevers                     |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
-| Rouen                      |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

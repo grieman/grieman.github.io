@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin GRAULLE  
-date: 2023-02-24 14:47:31.379902  
+date: 2023-02-26 11:18:36.385202  
 categories: player  
 ---
 # Robin GRAULLE
 
 ## Positions: SH, W
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 19.0
+## Current Percentile: 18.0
 
 # Elo History
 

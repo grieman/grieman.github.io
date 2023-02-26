@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault DAUBAGNA  
-date: 2023-02-24 14:47:33.821838  
+date: 2023-02-26 11:18:59.572401  
 categories: player  
 ---
 # Thibault DAUBAGNA
 
 ## Positions: SH
 
-## Current elo: 128.0
+## Current elo: 130.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pau    |           215 |   0.469767 |
+| Pau    |           216 |   0.472222 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -36,7 +36,7 @@ categories: player
 | Agen                 |        11 |   0.727273 |
 | Stade Toulousain     |        11 |   0.272727 |
 | Lyon                 |        11 |   0.409091 |
-| Brive                |         8 |   0.5      |
+| Brive                |         9 |   0.555556 |
 | Perpignan            |         7 |   0.857143 |
 | Bayonne              |         5 |   0.9      |
 | Colomiers            |         4 |   0.75     |

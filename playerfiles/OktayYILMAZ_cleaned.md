@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Oktay YILMAZ  
-date: 2023-02-24 14:45:43.540314  
+date: 2023-02-26 11:19:30.741595  
 categories: player  
 ---
 # Oktay YILMAZ
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 48.0
+## Current Percentile: 50.0
 
 # Elo History
 

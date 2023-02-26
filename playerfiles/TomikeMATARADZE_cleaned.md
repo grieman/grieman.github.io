@@ -1,54 +1,35 @@
 ---  
 layout: page  
-title: Tomike MATARADZE  
-date: 2023-02-03 10:23:37.790881  
+title: Tomike Mataradze  
+date: 2023-02-26 11:18:56.168649  
 categories: player  
 ---
-# Tomike MATARADZE
+# Tomike Mataradze
 
 ## Positions: P
 
-## Country: Georgia
+## Current elo: 101.0
 
-## Current elo: 79.0
-
-## Current Percentile: 7.0
+## Current Percentile: 66.0
 
 # Elo History
 
 
-![elo history](history_TomikeMATARADZE.png)
+![elo history](history_TomikeMataradze.png)
 # Match History
 
 
-| Team    |   Appearances |   Win Rate |
-|:--------|--------------:|-----------:|
-| Nevers  |            73 |   0.513699 |
-| Georgia |             3 |   1        |
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Nevers |             8 |      0.625 |
 
-| Opponent                   |   Matches |   Win Rate |
-|:---------------------------|----------:|-----------:|
-| Beziers                    |         7 |   0.642857 |
-| Oyonnax                    |         6 |   0.166667 |
-| Aurillac                   |         6 |   0.5      |
-| Montauban                  |         5 |   0.4      |
-| Colomiers                  |         5 |   0.4      |
-| Provence Rugby             |         5 |   0.8      |
-| Vannes                     |         5 |   0.4      |
-| Bayonne                    |         4 |   0.375    |
-| Grenoble                   |         4 |   0.375    |
-| Mont-de-Marsan             |         4 |   0.5      |
-| Rouen                      |         4 |   1        |
-| Carcassonne                |         3 |   0.666667 |
-| US Bressane                |         3 |   0.666667 |
-| Soyaux-Angouleme           |         2 |   0.5      |
-| Perpignan                  |         2 |   0        |
-| Narbonne                   |         2 |   1        |
-| Agen                       |         2 |   0.5      |
-| Germany                    |         1 |   1        |
-| Belgium                    |         1 |   1        |
-| Romania                    |         1 |   1        |
-| Roval Drome XV             |         1 |   1        |
-| Brive                      |         1 |   0        |
-| Massy                      |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   0        |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Aurillac         |         1 |          1 |
+| Beziers          |         1 |          1 |
+| Carcassonne      |         1 |          0 |
+| Mont-de-Marsan   |         1 |          1 |
+| Oyonnax          |         1 |          0 |
+| Provence Rugby   |         1 |          0 |
+| Soyaux-Angouleme |         1 |          1 |
+| Vannes           |         1 |          1 |

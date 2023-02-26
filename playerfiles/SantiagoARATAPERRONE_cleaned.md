@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Santiago Arata Perrone  
-date: 2023-02-24 14:43:41.259352  
+date: 2023-02-26 11:18:16.399930  
 categories: player  
 ---
 # Santiago Arata Perrone
 
 ## Positions: SH
 
-## Current elo: 93.0
+## Current elo: 89.0
 
-## Current Percentile: 52.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |             4 |       0.25 |
+| Castres Olympique |             5 |        0.2 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Bayonne           |         1 |          0 |
 | Bordeaux Begles   |         1 |          1 |
 | Clermont Auvergne |         1 |          0 |
 | Edinburgh         |         1 |          0 |

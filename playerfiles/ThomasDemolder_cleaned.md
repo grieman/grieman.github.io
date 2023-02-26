@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas Demolder  
-date: 2023-02-24 14:46:06.812771  
+date: 2023-02-26 11:19:48.901523  
 categories: player  
 ---
 # Thomas Demolder
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 70.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 

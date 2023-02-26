@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nika NEPARIDZE  
-date: 2023-02-24 14:46:08.095929  
+date: 2023-02-26 11:20:00.947181  
 categories: player  
 ---
 # Nika NEPARIDZE
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 26.0
+## Current Percentile: 23.0
 
 # Elo History
 

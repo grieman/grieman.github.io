@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas FORTUNEL  
-date: 2023-02-17 14:41:12.481018  
+date: 2023-02-26 11:18:06.357213  
 categories: player  
 ---
 # Thomas FORTUNEL
 
 ## Positions: FH
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 33.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -22,25 +22,25 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Montauban         |            81 |   0.5      |
-| Grenoble          |            26 |   0.5      |
 | Castres Olympique |            19 |   0.394737 |
+| Grenoble          |            19 |   0.447368 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Carcassonne                |         9 |   0.722222 |
 | Aurillac                   |         8 |   0.3125   |
-| Provence Rugby             |         7 |   0.357143 |
+| Carcassonne                |         8 |   0.75     |
 | Perpignan                  |         7 |   0.428571 |
-| Massy                      |         6 |   1        |
 | Beziers                    |         6 |   0.416667 |
-| Biarritz Olympique         |         6 |   0.25     |
+| Provence Rugby             |         6 |   0.333333 |
 | Colomiers                  |         6 |   0.333333 |
-| Mont-de-Marsan             |         6 |   0.333333 |
+| Massy                      |         5 |   1        |
 | Vannes                     |         5 |   0.6      |
+| Biarritz Olympique         |         5 |   0.2      |
 | Soyaux-Angouleme           |         5 |   0.8      |
-| Agen                       |         4 |   0.5      |
+| Mont-de-Marsan             |         5 |   0.4      |
 | Dax                        |         4 |   0.25     |
 | Narbonne                   |         4 |   0.625    |
+| Agen                       |         3 |   0.333333 |
 | Nevers                     |         3 |   0.5      |
 | Albi                       |         3 |   1        |
 | Montauban                  |         3 |   0.833333 |
@@ -51,14 +51,14 @@ categories: player
 | Tarbes                     |         2 |   0.75     |
 | Stade Toulousain           |         2 |   0.25     |
 | Bordeaux Begles            |         2 |   0        |
-| Rouen                      |         2 |   1        |
 | Racing 92                  |         2 |   0        |
 | RC Enisei                  |         2 |   1        |
 | Dragons                    |         2 |   0.5      |
-| Bourgoin-Jallieu           |         1 |   1        |
 | Brive                      |         1 |   0        |
+| Bourgoin-Jallieu           |         1 |   1        |
 | Pau                        |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
+| Rouen                      |         1 |   1        |
 | Ospreys                    |         1 |   0        |
 | Clermont Auvergne          |         1 |   0        |
 | Toulon                     |         1 |   0        |

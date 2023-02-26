@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yoann LAOUSSE AZPIAZU  
-date: 2023-02-24 14:46:27.039897  
+date: 2023-02-26 11:19:40.657254  
 categories: player  
 ---
 # Yoann LAOUSSE AZPIAZU
 
 ## Positions: FB
 
-## Current elo: 127.0
+## Current elo: 133.0
 
-## Current Percentile: 95.0
+## Current Percentile: 97.0
 
 # Elo History
 

@@ -28,30 +28,31 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Exeter Chiefs by 11.4
+## Prediction without Player Minutes: Exeter Chiefs by 12.4
 
 
-Exeter Chiefs by 7.4 on a neutral field
+Exeter Chiefs by 8.4 on a neutral field
 
 
 
 | Away Player                                                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                             |
 |:------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------|
-| [Bevan Rodd](..//playerfiles//BevanRodd_cleaned.md)               |     112.69 |                91 |        1 |                65 |      99.42 | [Scott Sio](..//playerfiles//ScottSio_cleaned.md)                       |
-| [Ewan Ashman](..//playerfiles//EwanAshman_cleaned.md)             |      90.18 |                33 |        2 |                65 |      98.72 | [Jack Innard](..//playerfiles//JackInnard_cleaned.md)                   |
-| [Coenie Oosthuizen](..//playerfiles//CoenieOosthuizen_cleaned.md) |     120.63 |                96 |        3 |                90 |     111.79 | [Harry Williams](..//playerfiles//HarryWilliams_cleaned.md)             |
-| [Cobus Wiese](..//playerfiles//CobusWiese_cleaned.md)             |      92.63 |                42 |        4 |                92 |     119.31 | [Jannes Kirsten](..//playerfiles//JannesKirsten_cleaned.md)             |
-| [Jonny Hill](..//playerfiles//JonnyHill_cleaned.md)               |      92.23 |                40 |        5 |                81 |     109.23 | [Jack Dunne](..//playerfiles//JackDunne_cleaned.md)                     |
-| [Jono Ross](..//playerfiles//JonoRoss_cleaned.md)                 |     102.87 |                70 |        6 |                99 |     139.8  | [Dave Ewers](..//playerfiles//DaveEwers_cleaned.md)                     |
-| [Jean-Luc du Preez](..//playerfiles//Jean-LucduPreez_cleaned.md)  |     111.19 |                86 |        8 |                95 |     122.77 | [Sam Simmonds](..//playerfiles//SamSimmonds_cleaned.md)                 |
-| [Gus Warr](..//playerfiles//GusWarr_cleaned.md)                   |      80.63 |                14 |        9 |                 4 |      69.18 | [Sam Maunder](..//playerfiles//SamMaunder_cleaned.md)                   |
-| [George Ford](..//playerfiles//GeorgeFord_cleaned.md)             |     116    |                89 |       10 |                70 |     102.16 | [Harvey Skinner](..//playerfiles//HarveySkinner_cleaned.md)             |
-| [Tom O'Flaherty](..//playerfiles//TomO'Flaherty_cleaned.md)       |      89.39 |                33 |       11 |                98 |     132.56 | [Olly Woodburn](..//playerfiles//OllyWoodburn_cleaned.md)               |
-| [Ryan Mills](..//playerfiles//RyanMills_cleaned.md)               |      96.66 |                55 |       12 |                95 |     120.98 | [Solomone Kata](..//playerfiles//SolomoneKata_cleaned.md)               |
-| [Robert du Preez](..//playerfiles//RobertduPreez_cleaned.md)      |     108.83 |                83 |       13 |                52 |      95.71 | [Ian Whitten](..//playerfiles//IanWhitten_cleaned.md)                   |
-| [Joe Carpenter](..//playerfiles//JoeCarpenter_cleaned.md)         |      68.52 |                 7 |       15 |                20 |      82.01 | [Josh Hodge](..//playerfiles//JoshHodge_cleaned.md)                     |
-| [Nic Schonert](..//playerfiles//NicSchonert_cleaned.md)           |      89.03 |                28 |       18 |                75 |     106.06 | [Patrick Schickerling](..//playerfiles//PatrickSchickerling_cleaned.md) |
-| [Raffi Quirke](..//playerfiles//RaffiQuirke_cleaned.md)           |     103.17 |                77 |       21 |                16 |      82.26 | [Jack Maunder](..//playerfiles//JackMaunder_cleaned.md)                 |
-| [Sam James](..//playerfiles//SamJames_cleaned.md)                 |     129.08 |                97 |       22 |                91 |     120.63 | [Joe Simmonds](..//playerfiles//JoeSimmonds_cleaned.md)                 |
-| [Arron Reed](..//playerfiles//ArronReed_cleaned.md)               |     104.14 |                75 |       23 |                32 |      86.22 | [Tom Hendrickson](..//playerfiles//TomHendrickson_cleaned.md)           |
+| [Bevan Rodd](..//playerfiles//BevanRodd_cleaned.md)               |     111.55 |                90 |        1 |                63 |      98.84 | [Scott Sio](..//playerfiles//ScottSio_cleaned.md)                       |
+| [Ewan Ashman](..//playerfiles//EwanAshman_cleaned.md)             |      89.88 |                34 |        2 |                67 |      99.7  | [Jack Innard](..//playerfiles//JackInnard_cleaned.md)                   |
+| [Coenie Oosthuizen](..//playerfiles//CoenieOosthuizen_cleaned.md) |     120.64 |                96 |        3 |                89 |     111.21 | [Harry Williams](..//playerfiles//HarryWilliams_cleaned.md)             |
+| [Cobus Wiese](..//playerfiles//CobusWiese_cleaned.md)             |      91.18 |                37 |        4 |                93 |     119.93 | [Jannes Kirsten](..//playerfiles//JannesKirsten_cleaned.md)             |
+| [Jonny Hill](..//playerfiles//JonnyHill_cleaned.md)               |      97.95 |                60 |        5 |                81 |     110.06 | [Jack Dunne](..//playerfiles//JackDunne_cleaned.md)                     |
+| [Jono Ross](..//playerfiles//JonoRoss_cleaned.md)                 |     100.5  |                67 |        6 |                98 |     135.02 | [Dave Ewers](..//playerfiles//DaveEwers_cleaned.md)                     |
+| [Jean-Luc du Preez](..//playerfiles//Jean-LucduPreez_cleaned.md)  |     110.34 |                83 |        8 |                94 |     122.63 | [Sam Simmonds](..//playerfiles//SamSimmonds_cleaned.md)                 |
+| [Gus Warr](..//playerfiles//GusWarr_cleaned.md)                   |      77.36 |                10 |        9 |                 3 |      65.95 | [Sam Maunder](..//playerfiles//SamMaunder_cleaned.md)                   |
+| [George Ford](..//playerfiles//GeorgeFord_cleaned.md)             |     116    |                89 |       10 |                72 |     103.01 | [Harvey Skinner](..//playerfiles//HarveySkinner_cleaned.md)             |
+| [Tom O'Flaherty](..//playerfiles//TomO'Flaherty_cleaned.md)       |      87    |                25 |       11 |                97 |     128.61 | [Olly Woodburn](..//playerfiles//OllyWoodburn_cleaned.md)               |
+| [Ryan Mills](..//playerfiles//RyanMills_cleaned.md)               |      96.76 |                56 |       12 |                95 |     121.48 | [Solomone Kata](..//playerfiles//SolomoneKata_cleaned.md)               |
+| [Robert du Preez](..//playerfiles//RobertduPreez_cleaned.md)      |     107.95 |                82 |       13 |                53 |      95.84 | [Ian Whitten](..//playerfiles//IanWhitten_cleaned.md)                   |
+| [Tom Roebuck](..//playerfiles//TomRoebuck_cleaned.md)             |     105.75 |                79 |       14 |                13 |      79.93 | [Jack Nowell](..//playerfiles//JackNowell_cleaned.md)                   |
+| [Joe Carpenter](..//playerfiles//JoeCarpenter_cleaned.md)         |      63.97 |                 5 |       15 |                24 |      83.63 | [Josh Hodge](..//playerfiles//JoshHodge_cleaned.md)                     |
+| [Nic Schonert](..//playerfiles//NicSchonert_cleaned.md)           |      88.56 |                26 |       18 |                75 |     106.42 | [Patrick Schickerling](..//playerfiles//PatrickSchickerling_cleaned.md) |
+| [Raffi Quirke](..//playerfiles//RaffiQuirke_cleaned.md)           |     103.18 |                77 |       21 |                16 |      82.31 | [Jack Maunder](..//playerfiles//JackMaunder_cleaned.md)                 |
+| [Sam James](..//playerfiles//SamJames_cleaned.md)                 |     124.54 |                96 |       22 |                89 |     115.88 | [Joe Simmonds](..//playerfiles//JoeSimmonds_cleaned.md)                 |
+| [Arron Reed](..//playerfiles//ArronReed_cleaned.md)               |     102.11 |                71 |       23 |                32 |      86.37 | [Tom Hendrickson](..//playerfiles//TomHendrickson_cleaned.md)           |
 

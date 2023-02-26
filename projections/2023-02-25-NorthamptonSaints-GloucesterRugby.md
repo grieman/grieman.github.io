@@ -28,29 +28,31 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Northampton Saints by 6.7
+## Prediction without Player Minutes: Northampton Saints by 5.7
 
 
-Northampton Saints by 2.7 on a neutral field
+Northampton Saints by 1.7 on a neutral field
 
 
 
 | Away Player                                                         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                             |
 |:--------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------|
-| [Val Rapava-Ruskin](..//playerfiles//ValRapava-Ruskin_cleaned.md)   |      84.01 |                15 |        1 |                99 |     132.03 | [Alex Waller](..//playerfiles//AlexWaller_cleaned.md)                   |
-| [Sebastian Blake](..//playerfiles//SebastianBlake_cleaned.md)       |      77.42 |                 8 |        2 |                 7 |      76.85 | [Robbie Smith](..//playerfiles//RobbieSmith_cleaned.md)                 |
-| [Freddie Clarke](..//playerfiles//FreddieClarke_cleaned.md)         |      91.74 |                39 |        4 |                46 |      93.32 | [David Ribbans](..//playerfiles//DavidRibbans_cleaned.md)               |
-| [Matias Alemanno](..//playerfiles//MatiasAlemanno_cleaned.md)       |     103.08 |                72 |        5 |                94 |     120.66 | [Alex Moon](..//playerfiles//AlexMoon_cleaned.md)                       |
-| [Ruan Ackermann](..//playerfiles//RuanAckermann_cleaned.md)         |     100.23 |                65 |        6 |                 4 |      64.89 | [Alex Coles](..//playerfiles//AlexColes_cleaned.md)                     |
-| [Lewis Ludlow](..//playerfiles//LewisLudlow_cleaned.md)             |      96.52 |                53 |        7 |                86 |     111.29 | [Angus Scott-Young](..//playerfiles//AngusScott-Young_cleaned.md)       |
-| [Albert Tuisue](..//playerfiles//AlbertTuisue_cleaned.md)           |      93.15 |                41 |        8 |                85 |     114.98 | [Sam Graham](..//playerfiles//SamGraham_cleaned.md)                     |
-| [Ollie Thorley](..//playerfiles//OllieThorley_cleaned.md)           |     117.37 |                92 |       11 |                92 |     116.07 | [Tom Collins](..//playerfiles//TomCollins_cleaned.md)                   |
-| [Sebastien Atkinson](..//playerfiles//SebastienAtkinson_cleaned.md) |      50.52 |                 1 |       12 |                31 |      89.75 | [Rory Hutchinson](..//playerfiles//RoryHutchinson_cleaned.md)           |
-| [Chris Harris](..//playerfiles//ChrisHarris_cleaned.md)             |     108.78 |                83 |       13 |                10 |      78.27 | [Fraser Dingwall](..//playerfiles//FraserDingwall_cleaned.md)           |
-| [Jonny May](..//playerfiles//JonnyMay_cleaned.md)                   |      99.94 |                65 |       14 |                80 |     106.53 | [Tommy Freeman](..//playerfiles//TommyFreeman_cleaned.md)               |
-| [Lloyd Evans](..//playerfiles//LloydEvans_cleaned.md)               |     104.26 |                71 |       15 |                91 |     116.66 | [James Ramm](..//playerfiles//JamesRamm_cleaned.md)                     |
-| [Cameron Jordan](..//playerfiles//CameronJordan_cleaned.md)         |      82.14 |                17 |       19 |                17 |      83.05 | [Lukhan Salakaia-Loto](..//playerfiles//LukhanSalakaia-Loto_cleaned.md) |
-| [Jack Clement](..//playerfiles//JackClement_cleaned.md)             |     107.08 |                81 |       20 |                25 |      87.51 | [Aaron Hinkley](..//playerfiles//AaronHinkley_cleaned.md)               |
-| [Billy Twelvetrees](..//playerfiles//BillyTwelvetrees_cleaned.md)   |     134.56 |                97 |       22 |                43 |      92.88 | [Fin Smith](..//playerfiles//FinSmith_cleaned.md)                       |
-| [Tom Seabrook](..//playerfiles//TomSeabrook_cleaned.md)             |      66.42 |                 6 |       23 |                92 |     117.81 | [Courtnall Skosan](..//playerfiles//CourtnallSkosan_cleaned.md)         |
+| [Val Rapava-Ruskin](..//playerfiles//ValRapava-Ruskin_cleaned.md)   |      83.57 |                15 |        1 |                99 |     130.8  | [Alex Waller](..//playerfiles//AlexWaller_cleaned.md)                   |
+| [Sebastian Blake](..//playerfiles//SebastianBlake_cleaned.md)       |      77.21 |                 8 |        2 |                 7 |      76.1  | [Robbie Smith](..//playerfiles//RobbieSmith_cleaned.md)                 |
+| [Kirill Gotovtsev](..//playerfiles//KirillGotovtsev_cleaned.md)     |     111.88 |                90 |        3 |                20 |      86.45 | [Ehren Painter](..//playerfiles//EhrenPainter_cleaned.md)               |
+| [Freddie Clarke](..//playerfiles//FreddieClarke_cleaned.md)         |      92.19 |                40 |        4 |                53 |      95.86 | [David Ribbans](..//playerfiles//DavidRibbans_cleaned.md)               |
+| [Matias Alemanno](..//playerfiles//MatiasAlemanno_cleaned.md)       |     102.92 |                71 |        5 |                93 |     119.98 | [Alex Moon](..//playerfiles//AlexMoon_cleaned.md)                       |
+| [Ruan Ackermann](..//playerfiles//RuanAckermann_cleaned.md)         |     100.49 |                67 |        6 |                 5 |      68.21 | [Alex Coles](..//playerfiles//AlexColes_cleaned.md)                     |
+| [Lewis Ludlow](..//playerfiles//LewisLudlow_cleaned.md)             |      96.36 |                54 |        7 |                85 |     110.73 | [Angus Scott-Young](..//playerfiles//AngusScott-Young_cleaned.md)       |
+| [Albert Tuisue](..//playerfiles//AlbertTuisue_cleaned.md)           |      93.1  |                42 |        8 |                85 |     114.78 | [Sam Graham](..//playerfiles//SamGraham_cleaned.md)                     |
+| [Ben Meehan](..//playerfiles//BenMeehan_cleaned.md)                 |      89.11 |                32 |        9 |                44 |      92.9  | [Callum Braley](..//playerfiles//CallumBraley_cleaned.md)               |
+| [Ollie Thorley](..//playerfiles//OllieThorley_cleaned.md)           |     117.2  |                92 |       11 |                92 |     115.94 | [Tom Collins](..//playerfiles//TomCollins_cleaned.md)                   |
+| [Sebastien Atkinson](..//playerfiles//SebastienAtkinson_cleaned.md) |      49.65 |                 1 |       12 |                31 |      89.6  | [Rory Hutchinson](..//playerfiles//RoryHutchinson_cleaned.md)           |
+| [Chris Harris](..//playerfiles//ChrisHarris_cleaned.md)             |     108.65 |                83 |       13 |                10 |      77.32 | [Fraser Dingwall](..//playerfiles//FraserDingwall_cleaned.md)           |
+| [Jonny May](..//playerfiles//JonnyMay_cleaned.md)                   |     106.04 |                79 |       14 |                84 |     109.42 | [Tommy Freeman](..//playerfiles//TommyFreeman_cleaned.md)               |
+| [Lloyd Evans](..//playerfiles//LloydEvans_cleaned.md)               |     103.9  |                70 |       15 |                90 |     114.99 | [James Ramm](..//playerfiles//JamesRamm_cleaned.md)                     |
+| [Cameron Jordan](..//playerfiles//CameronJordan_cleaned.md)         |      81.04 |                16 |       19 |                17 |      82.82 | [Lukhan Salakaia-Loto](..//playerfiles//LukhanSalakaia-Loto_cleaned.md) |
+| [Jack Clement](..//playerfiles//JackClement_cleaned.md)             |     106.32 |                79 |       20 |                24 |      86.84 | [Aaron Hinkley](..//playerfiles//AaronHinkley_cleaned.md)               |
+| [Billy Twelvetrees](..//playerfiles//BillyTwelvetrees_cleaned.md)   |     134.49 |                97 |       22 |                40 |      91.82 | [Fin Smith](..//playerfiles//FinSmith_cleaned.md)                       |
+| [Tom Seabrook](..//playerfiles//TomSeabrook_cleaned.md)             |      66.48 |                 6 |       23 |                92 |     117.74 | [Courtnall Skosan](..//playerfiles//CourtnallSkosan_cleaned.md)         |
 

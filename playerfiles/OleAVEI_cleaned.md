@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ole AVEI  
-date: 2023-02-17 14:41:02.636463  
+date: 2023-02-26 11:19:52.914926  
 categories: player  
 ---
 # Ole AVEI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 129.0
+## Current elo: 131.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Bordeaux Begles  |           175 |   0.514286 |
-| Soyaux-Angouleme |            57 |   0.526316 |
+| Soyaux-Angouleme |            51 |   0.568627 |
 | Racing 92        |            29 |   0.586207 |
 | Samoa            |            18 |   0.444444 |
 
@@ -36,55 +36,55 @@ categories: player
 | Toulon                     |        12 |   0.416667 |
 | Brive                      |        11 |   0.772727 |
 | Castres Olympique          |        11 |   0.454545 |
-| Montpellier Herault        |        10 |   0.2      |
 | Lyon                       |        10 |   0.5      |
 | Bayonne                    |        10 |   0.6      |
 | Stade Francais Paris       |        10 |   0.5      |
+| Montpellier Herault        |        10 |   0.2      |
 | Racing 92                  |         9 |   0.333333 |
-| La Rochelle                |         8 |   0.375    |
 | Perpignan                  |         8 |   0.5      |
+| La Rochelle                |         8 |   0.375    |
 | Pau                        |         8 |   0.5      |
-| Agen                       |         7 |   0.714286 |
 | Mont-de-Marsan             |         7 |   0.714286 |
-| Colomiers                  |         6 |   0.5      |
+| Agen                       |         7 |   0.714286 |
 | Biarritz Olympique         |         6 |   0.5      |
-| Aurillac                   |         5 |   0.6      |
+| Colomiers                  |         5 |   0.6      |
 | Oyonnax                    |         5 |   0.4      |
+| Aurillac                   |         5 |   0.6      |
 | Albi                       |         4 |   0.75     |
-| Exeter Chiefs              |         4 |   0.5      |
 | Carcassonne                |         4 |   0.375    |
-| Rouen                      |         4 |   0.5      |
-| Montauban                  |         4 |   0.375    |
-| Nevers                     |         3 |   0.333333 |
-| South Africa               |         3 |   0        |
+| Exeter Chiefs              |         4 |   0.5      |
 | Provence Rugby             |         3 |   1        |
+| Montauban                  |         3 |   0.5      |
 | Italy                      |         3 |   0.666667 |
+| South Africa               |         3 |   0        |
+| Rouen                      |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   1        |
-| Beziers                    |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.333333 |
 | Dax                        |         3 |   1        |
-| Leicester Tigers           |         2 |   1        |
-| Enisey-STM Krasnoyarsk     |         2 |   1        |
-| RC Enisei                  |         2 |   1        |
-| Bordeaux Begles            |         2 |   0.5      |
-| United States of America   |         2 |   1        |
-| Blagnac                    |         2 |   1        |
+| Nevers                     |         2 |   0.5      |
 | Nice                       |         2 |   0.5      |
-| Newcastle Falcons          |         2 |   0        |
-| Saint-Etienne              |         2 |   1        |
-| Canada                     |         2 |   1        |
 | Narbonne                   |         2 |   1        |
-| Dijon                      |         2 |   0.5      |
-| Massy                      |         2 |   0.5      |
-| Vannes                     |         2 |   0.5      |
+| Saint-Etienne              |         2 |   1        |
+| Newcastle Falcons          |         2 |   0        |
+| RC Enisei                  |         2 |   1        |
+| Leicester Tigers           |         2 |   1        |
 | Scotland                   |         2 |   0.5      |
-| Wales                      |         1 |   1        |
-| Roval Drome XV             |         1 |   0        |
+| Enisey-STM Krasnoyarsk     |         2 |   1        |
+| Dijon                      |         2 |   0.5      |
+| United States of America   |         2 |   1        |
+| Canada                     |         2 |   1        |
+| Bordeaux Begles            |         2 |   0.5      |
+| Blagnac                    |         2 |   1        |
+| Beziers                    |         2 |   0.5      |
+| Vannes                     |         2 |   0.5      |
 | Ulster                     |         1 |   1        |
+| Roval Drome XV             |         1 |   0        |
+| Wales                      |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Leinster                   |         1 |   0        |
 | Ospreys                    |         1 |   1        |
 | New Zealand                |         1 |   0        |
+| Massy                      |         1 |   0        |
 | Japan                      |         1 |   0        |
 | Ireland                    |         1 |   0        |
 | Gloucester Rugby           |         1 |   1        |

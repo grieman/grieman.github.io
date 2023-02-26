@@ -1,0 +1,78 @@
+---  
+layout: page  
+title: Ulster at Sharks; 31-24  
+date: 2023-02-25 13:00:00 18:00:00 -0500  
+categories: match review  
+---
+# Ulster at Sharks; 31-24
+
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.564, which translates to predicting Sharks to win by 2.3.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](plots/performances_2023-02-25-Sharks-Ulster.png)
+## Projected Spreads
+
+
+![Projected Spreads](plots/spreads_2023-02-25-Sharks-Ulster.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-02-25-Sharks-Ulster.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Sharks by 1.4
+
+
+Ulster by 2.6 on a neutral field
+## Scores over Time
+
+
+![In Match Scores](plots/recap_scores_2023-02-25-Sharks-Ulster.png)
+## Win Probability over Time
+
+
+![In Match Predictions](plots/recap_prob_2023-02-25-Sharks-Ulster.png)
+
+There were 13 large changes in win probability in this match
+## Prediction without Player Minutes: Sharks by 4.5
+
+
+Sharks by 0.5 on a neutral pitch
+
+
+
+|   Away Minutes | Away Player                                                                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                         |   Home Minutes |
+|---------------:|:----------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------------------|---------------:|
+|             65 | [Rory Sutherland](..//playerfiles//RorySutherland_cleaned.md)               |     103.24 |                65 |        1 |                28 |      88.84 | [Ntuthuko Mchunu](..//playerfiles//NtuthukoMchunu_cleaned.md)                       |             58 |
+|              2 | [John Andrew](..//playerfiles//JohnAndrew_cleaned.md)                       |      99.62 |               nan |        2 |                58 |      96.22 | [Daniel Viljoen Jooste](..//playerfiles//DanielViljoenJooste_cleaned.md)            |             58 |
+|             65 | [Jeffery To'omaga-Allen](..//playerfiles//JefferyTo'omaga-Allen_cleaned.md) |     115.33 |                93 |        3 |               nan |      95.4  | [Hanro Jacobs](..//playerfiles//HanroJacobs_cleaned.md)                             |             71 |
+|             80 | [Alan O'Connor](..//playerfiles//AlanO'Connor_cleaned.md)                   |     111.97 |                88 |        4 |                50 |      94.98 | [Daniel Pieter (Reniel) Hugo](..//playerfiles//DanielPieter(Reniel)Hugo_cleaned.md) |             58 |
+|             80 | [Harry Sheridan](..//playerfiles//HarrySheridan_cleaned.md)                 |     103.46 |                72 |        5 |                85 |     109.55 | [Douw Gerbrandt Grobler](..//playerfiles//DouwGerbrandtGrobler_cleaned.md)          |             80 |
+|             58 | [Jordi Murphy](..//playerfiles//JordiMurphy_cleaned.md)                     |      98.5  |                60 |        6 |               nan |      97.56 | [Dylan Richardson](..//playerfiles//DylanRichardson_cleaned.md)                     |             80 |
+|             80 | [Nick Timoney](..//playerfiles//NickTimoney_cleaned.md)                     |     117.96 |                91 |        7 |                87 |     116.61 | [Vincent Tshikaya Tshituka](..//playerfiles//VincentTshikayaTshituka_cleaned.md)    |             80 |
+|             71 | [Duane Vermeulen](..//playerfiles//DuaneVermeulen_cleaned.md)               |      93.11 |                43 |        8 |                73 |     104.22 | [Phendulani Buthelezi](..//playerfiles//PhendulaniButhelezi_cleaned.md)             |             55 |
+|             80 | [John Cooney](..//playerfiles//JohnCooney_cleaned.md)                       |     106.12 |                75 |        9 |                83 |     107.36 | [Grant Williams](..//playerfiles//GrantWilliams_cleaned.md)                         |             65 |
+|             58 | [Jake Flannery](..//playerfiles//JakeFlannery_cleaned.md)                   |      94.52 |               nan |       10 |                86 |     113.44 | [Curwin Dominique Bosch](..//playerfiles//CurwinDominiqueBosch_cleaned.md)          |             80 |
+|             80 | [Aaron Sexton](..//playerfiles//AaronSexton_cleaned.md)                     |      94.74 |                45 |       11 |                11 |      78.35 | [Thaakir Abrahams](..//playerfiles//ThaakirAbrahams_cleaned.md)                     |             80 |
+|             80 | [Stewart Moore](..//playerfiles//StewartMoore_cleaned.md)                   |     115.97 |                91 |       12 |                66 |     100.4  | [Rohan Janse van Rensburg](..//playerfiles//RohanJansevanRensburg_cleaned.md)       |             80 |
+|             80 | [Luke Marshall](..//playerfiles//LukeMarshall_cleaned.md)                   |      99.31 |                63 |       13 |                86 |     110.59 | [François Venter](..//playerfiles//FrançoisVenter_cleaned.md)                       |             58 |
+|             37 | [Craig Gilroy](..//playerfiles//CraigGilroy_cleaned.md)                     |      95.8  |               nan |       14 |                94 |     120.74 | [Werner Kok](..//playerfiles//WernerKok_cleaned.md)                                 |             80 |
+|             80 | [Michael Lowry](..//playerfiles//MichaelLowry_cleaned.md)                   |     112.02 |                85 |       15 |                95 |     124.03 | [Boeta Chamberlain](..//playerfiles//BoetaChamberlain_cleaned.md)                   |             69 |
+|             78 | [Tom Stewart](..//playerfiles//TomStewart_cleaned.md)                       |     102.84 |                76 |       16 |                88 |     108.38 | [Sikhumbuzo Notshe](..//playerfiles//SikhumbuzoNotshe_cleaned.md)                   |             25 |
+|             43 | [Ethan McIlroy](..//playerfiles//EthanMcIlroy_cleaned.md)                   |     101.42 |                66 |       17 |                27 |      87.95 | [Emile van Heerden](..//playerfiles//EmilevanHeerden_cleaned.md)                    |             22 |
+|             22 | [David McCann](..//playerfiles//DavidMcCann_cleaned.md)                     |     100.58 |                61 |       18 |                32 |      86.32 | [Yaw Osei Penxe](..//playerfiles//YawOseiPenxe_cleaned.md)                          |             22 |
+|             22 | [Ian Madigan](..//playerfiles//IanMadigan_cleaned.md)                       |     103.39 |                71 |       19 |                38 |      93.16 | [Fezokuhle Mbatha](..//playerfiles//FezokuhleMbatha_cleaned.md)                     |             22 |
+|             15 | [Andrew Warwick](..//playerfiles//AndrewWarwick_cleaned.md)                 |      98.98 |                57 |       20 |                29 |      90.03 | [Dian Bleuler](..//playerfiles//DianBleuler_cleaned.md)                             |             22 |
+|             15 | [Gareth Milasinovich](..//playerfiles//GarethMilasinovich_cleaned.md)       |      92.49 |               nan |       21 |                 8 |      77.01 | [Cameron Robin Wright](..//playerfiles//CameronRobinWright_cleaned.md)              |             15 |
+|             15 | [Gareth Milasinovich](..//playerfiles//GarethMilasinovich_cleaned.md)       |      92.49 |               nan |       21 |                17 |      77.01 | [Cameron Robin Wright](..//playerfiles//CameronRobinWright_cleaned.md)              |             15 |
+|              9 | [Cormac Izuchukwu](..//playerfiles//CormacIzuchukwu_cleaned.md)             |      95.44 |               nan |       22 |               nan |      90.43 | [Lionel Cronje](..//playerfiles//LionelCronje_cleaned.md)                           |             11 |
+|            nan | nan                                                                         |     nan    |               nan |       23 |               nan |      95    | [Khwezi Jongamazizi Mona](..//playerfiles//KhweziJongamaziziMona_cleaned.md)        |              9 |
+

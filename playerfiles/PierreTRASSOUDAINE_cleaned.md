@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre TRASSOUDAINE  
-date: 2023-02-17 14:41:56.827702  
+date: 2023-02-26 11:18:12.407909  
 categories: player  
 ---
 # Pierre TRASSOUDAINE
 
 ## Positions: H
 
-## Current elo: 133.0
+## Current elo: 132.0
 
-## Current Percentile: 99.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            41 |   0.719512 |
+| Massy  |            42 |   0.702381 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,14 +32,15 @@ categories: player
 | Dax                        |         3 |   1        |
 | Nice                       |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
+| Tarbes                     |         2 |   1        |
 | Blagnac                    |         2 |   0.5      |
 | Carcassonne                |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Dijon                      |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Suresnes                   |         2 |   1        |
-| Tarbes                     |         2 |   1        |
 | US Bressane                |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
+| Rouen                      |         1 |   0        |
 | Montauban                  |         1 |   1        |
 | Vannes                     |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sonatane Takulua  
-date: 2023-02-24 14:44:22.924921  
+date: 2023-02-26 11:19:36.711582  
 categories: player  
 ---
 # Sonatane Takulua
 
 ## Positions: SH
 
-## Current elo: 94.0
+## Current elo: 80.0
 
-## Current Percentile: 64.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |             9 |   0.611111 |
+| Agen   |            10 |       0.55 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Colomiers          |         2 |        0   |
 | Beziers            |         1 |        0   |
 | Biarritz Olympique |         1 |        1   |
-| Colomiers          |         1 |        0   |
 | Massy              |         1 |        1   |
 | Mont-de-Marsan     |         1 |        1   |
 | Nevers             |         1 |        0   |

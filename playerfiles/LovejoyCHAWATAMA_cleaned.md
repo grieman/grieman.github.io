@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lovejoy CHAWATAMA  
-date: 2023-02-24 14:47:23.037924  
+date: 2023-02-26 11:18:31.505192  
 categories: player  
 ---
 # Lovejoy CHAWATAMA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 12.0
+## Current Percentile: 11.0
 
 # Elo History
 

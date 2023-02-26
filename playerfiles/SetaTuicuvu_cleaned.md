@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Seta Tuicuvu  
-date: 2023-02-24 14:46:36.602094  
+date: 2023-02-26 11:19:12.247796  
 categories: player  
 ---
 # Seta Tuicuvu
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Brive             |            44 |   0.238636 |
+| Brive             |            45 |   0.233333 |
 | Clermont Auvergne |            28 |   0.446429 |
 | Fiji              |            10 |   0.25     |
 
@@ -33,7 +33,7 @@ categories: player
 | Stade Toulousain     |         6 |  0.166667  |
 | Racing 92            |         6 |  0.0833333 |
 | Castres Olympique    |         6 |  0.166667  |
-| Pau                  |         5 |  0.6       |
+| Pau                  |         6 |  0.5       |
 | Stade Francais Paris |         5 |  0.4       |
 | Lyon                 |         5 |  0.2       |
 | Bordeaux Begles      |         4 |  0.25      |

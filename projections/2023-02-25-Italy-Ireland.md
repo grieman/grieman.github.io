@@ -28,22 +28,28 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ireland by 13.3
+## Prediction without Player Minutes: Ireland by 12.9
 
 
-Ireland by 17.3 on a neutral field
+Ireland by 16.9 on a neutral field
 
 
 
 | Away Player                                                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                         |
 |:------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------------|
-| [Andrew Porter](..//playerfiles//AndrewPorter_cleaned.md)         |      97.68 |                60 |        1 |                74 |     101.83 | [Danilo Fischetti](..//playerfiles//DaniloFischetti_cleaned.md)     |
-| [Finlay Bealham](..//playerfiles//FinlayBealham_cleaned.md)       |      94.89 |                50 |        3 |                39 |      93.69 | [Simone Ferrari](..//playerfiles//SimoneFerrari_cleaned.md)         |
-| [James Ryan](..//playerfiles//JamesRyan_cleaned.md)               |     108.88 |                84 |        5 |                89 |     113.02 | [Federico Ruzza](..//playerfiles//FedericoRuzza_cleaned.md)         |
-| [Caelan Doris](..//playerfiles//CaelanDoris_cleaned.md)           |     124.55 |                96 |        6 |                38 |      91.31 | [Sebastian Negri](..//playerfiles//SebastianNegri_cleaned.md)       |
-| [Josh van der Flier](..//playerfiles//JoshvanderFlier_cleaned.md) |     129.13 |                96 |        7 |                92 |     117.44 | [Michele Lamaro](..//playerfiles//MicheleLamaro_cleaned.md)         |
-| [James Lowe](..//playerfiles//JamesLowe_cleaned.md)               |     143.39 |                99 |       11 |                82 |     109.06 | [Pierre Bruno](..//playerfiles//PierreBruno_cleaned.md)             |
-| [Stuart McCloskey](..//playerfiles//StuartMcCloskey_cleaned.md)   |     132.8  |                98 |       12 |                97 |     129.91 | [Tommaso Menoncello](..//playerfiles//TommasoMenoncello_cleaned.md) |
-| [Mack Hansen](..//playerfiles//MackHansen_cleaned.md)             |      86.34 |                23 |       14 |                88 |     112.84 | [Edoardo Padovani](..//playerfiles//EdoardoPadovani_cleaned.md)     |
-| [Hugo Keenan](..//playerfiles//HugoKeenan_cleaned.md)             |     141.81 |                99 |       15 |                91 |     117.45 | [Ange Capuozzo](..//playerfiles//AngeCapuozzo_cleaned.md)           |
+| [Andrew Porter](..//playerfiles//AndrewPorter_cleaned.md)         |      98.08 |                61 |        1 |                75 |     102.02 | [Danilo Fischetti](..//playerfiles//DaniloFischetti_cleaned.md)     |
+| [Ronan Kelleher](..//playerfiles//RonanKelleher_cleaned.md)       |     124.28 |                98 |        2 |                97 |     130.56 | [Giacomo Nicotera](..//playerfiles//GiacomoNicotera_cleaned.md)     |
+| [Finlay Bealham](..//playerfiles//FinlayBealham_cleaned.md)       |      96.19 |                54 |        3 |                40 |      94.04 | [Simone Ferrari](..//playerfiles//SimoneFerrari_cleaned.md)         |
+| [Iain Henderson](..//playerfiles//IainHenderson_cleaned.md)       |     113.43 |                91 |        4 |                 4 |      64.85 | [Niccolo Cannone](..//playerfiles//NiccoloCannone_cleaned.md)       |
+| [James Ryan](..//playerfiles//JamesRyan_cleaned.md)               |     109.22 |                84 |        5 |                89 |     113.56 | [Federico Ruzza](..//playerfiles//FedericoRuzza_cleaned.md)         |
+| [Caelan Doris](..//playerfiles//CaelanDoris_cleaned.md)           |     124.91 |                96 |        6 |                41 |      91.78 | [Sebastian Negri](..//playerfiles//SebastianNegri_cleaned.md)       |
+| [Josh van der Flier](..//playerfiles//JoshvanderFlier_cleaned.md) |     129.42 |                97 |        7 |                92 |     118.12 | [Michele Lamaro](..//playerfiles//MicheleLamaro_cleaned.md)         |
+| [Jack Conan](..//playerfiles//JackConan_cleaned.md)               |     121.74 |                95 |        8 |                72 |     103.47 | [Lorenzo Cannone](..//playerfiles//LorenzoCannone_cleaned.md)       |
+| [Craig Casey](..//playerfiles//CraigCasey_cleaned.md)             |     108.11 |                87 |        9 |                13 |      80.02 | [Stephen Varney](..//playerfiles//StephenVarney_cleaned.md)         |
+| [Ross Byrne](..//playerfiles//RossByrne_cleaned.md)               |     110.96 |                87 |       10 |                68 |     104.45 | [Paolo Garbisi](..//playerfiles//PaoloGarbisi_cleaned.md)           |
+| [James Lowe](..//playerfiles//JamesLowe_cleaned.md)               |     143.96 |                99 |       11 |                83 |     110.27 | [Pierre Bruno](..//playerfiles//PierreBruno_cleaned.md)             |
+| [Stuart McCloskey](..//playerfiles//StuartMcCloskey_cleaned.md)   |     133.62 |                98 |       12 |                97 |     130.68 | [Tommaso Menoncello](..//playerfiles//TommasoMenoncello_cleaned.md) |
+| [Bundee Aki](..//playerfiles//BundeeAki_cleaned.md)               |     134.38 |                98 |       13 |                88 |     112.98 | [Juan Ignacio Brex](..//playerfiles//JuanIgnacioBrex_cleaned.md)    |
+| [Mack Hansen](..//playerfiles//MackHansen_cleaned.md)             |      86.86 |                25 |       14 |                89 |     113.58 | [Edoardo Padovani](..//playerfiles//EdoardoPadovani_cleaned.md)     |
+| [Hugo Keenan](..//playerfiles//HugoKeenan_cleaned.md)             |     142.25 |                98 |       15 |                90 |     117.27 | [Ange Capuozzo](..//playerfiles//AngeCapuozzo_cleaned.md)           |
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin BEAUDAUX  
-date: 2023-02-24 14:45:08.881827  
+date: 2023-02-26 11:19:14.286024  
 categories: player  
 ---
 # Quentin BEAUDAUX

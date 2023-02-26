@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi KVESELADZE  
-date: 2023-02-24 14:43:52.920707  
+date: 2023-02-26 11:18:30.413639  
 categories: player  
 ---
 # Giorgi KVESELADZE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 114.0
+## Current elo: 115.0
 
-## Current Percentile: 75.0
+## Current Percentile: 78.0
 
 # Elo History
 

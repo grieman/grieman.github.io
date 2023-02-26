@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul ABADIE  
-date: 2023-02-24 14:43:55.224480  
+date: 2023-02-26 11:18:01.874659  
 categories: player  
 ---
 # Paul ABADIE
 
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 34.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -22,11 +22,11 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Agen   |           118 |   0.313559 |
-| Brive  |            25 |   0.32     |
+| Brive  |            26 |   0.307692 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Pau                  |        11 |   0.181818 |
+| Pau                  |        12 |   0.166667 |
 | La Rochelle          |         9 |   0.111111 |
 | Toulon               |         9 |   0.111111 |
 | Stade Toulousain     |         8 |   0        |

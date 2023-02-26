@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Patricio FERNANDEZ  
-date: 2023-01-30 18:30:50.924971  
+date: 2023-02-26 11:19:07.982122  
 categories: player  
 ---
 # Patricio FERNANDEZ
 
 ## Positions: FH
 
-## Current elo: 115.0
+## Current elo: 99.0
 
-## Current Percentile: 78.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,42 +21,41 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Clermont Auvergne |            72 |   0.694444 |
-| Perpignan         |            19 |   0.342105 |
+| Clermont Auvergne |            73 |   0.69863  |
+| Perpignan         |            21 |   0.404762 |
 | Lyon              |            13 |   0.615385 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Racing 92            |         9 |   0.555556 |
 | Bordeaux Begles      |         9 |   0.611111 |
+| Toulon               |         8 |   0.75     |
 | La Rochelle          |         8 |   0.5625   |
-| Toulon               |         7 |   0.714286 |
 | Brive                |         7 |   0.714286 |
-| Castres Olympique    |         6 |   0.333333 |
+| Lyon                 |         6 |   0.333333 |
 | Stade Toulousain     |         6 |   0.5      |
+| Castres Olympique    |         6 |   0.333333 |
 | Stade Francais Paris |         6 |   0.583333 |
 | Pau                  |         5 |   1        |
-| Lyon                 |         5 |   0.4      |
 | Agen                 |         4 |   0.75     |
-| Northampton Saints   |         3 |   0.666667 |
-| Exeter Chiefs        |         3 |   0.666667 |
 | Grenoble             |         3 |   0.833333 |
-| Bristol Rugby        |         2 |   0        |
-| Benetton Treviso     |         2 |   0.5      |
+| Dragons              |         3 |   1        |
+| Exeter Chiefs        |         3 |   0.666667 |
+| Benetton Treviso     |         3 |   0.333333 |
+| Northampton Saints   |         3 |   0.666667 |
+| Biarritz Olympique   |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
-| Dragons              |         2 |   1        |
-| Bayonne              |         1 |   1        |
-| Timisoara Saracens   |         1 |   1        |
-| Beziers              |         1 |   1        |
 | Soyaux-Angouleme     |         1 |   1        |
-| Saracens             |         1 |   0        |
-| Biarritz Olympique   |         1 |   1        |
-| Clermont Auvergne    |         1 |   0        |
 | Oyonnax              |         1 |   1        |
+| Saracens             |         1 |   0        |
+| Timisoara Saracens   |         1 |   1        |
+| Leinster             |         1 |   1        |
 | Nevers               |         1 |   1        |
 | Montauban            |         1 |   0        |
-| Carcassonne          |         1 |   1        |
-| Leinster             |         1 |   1        |
 | Aurillac             |         1 |   0.5      |
-| Glasgow Warriors     |         1 |   0        |
+| Gloucester Rugby     |         1 |   0        |
+| Clermont Auvergne    |         1 |   0        |
+| Carcassonne          |         1 |   1        |
+| Beziers              |         1 |   1        |
+| Bayonne              |         1 |   1        |
 | Ulster               |         1 |   1        |

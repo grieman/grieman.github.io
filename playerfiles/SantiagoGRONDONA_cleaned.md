@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago GRONDONA  
-date: 2023-01-06 11:51:50.290689  
+date: 2023-02-26 11:19:45.795042  
 categories: player  
 ---
 # Santiago GRONDONA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 104.0
+## Current elo: 99.0
 
-## Current Percentile: 71.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -25,28 +25,30 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Exeter Chiefs |            15 |   0.533333 |
 | Argentina     |            11 |   0.5      |
-| Jaguares XV   |             6 |   1        |
+| Jaguares XV   |             7 |   1        |
 | Jaguares      |             1 |   0        |
+| Pau           |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Australia              |         4 |      0.375 |
 | New Zealand            |         4 |      0.5   |
 | Saracens               |         2 |      0     |
+| Griffons               |         2 |      1     |
 | Bath Rugby             |         2 |      1     |
-| Leopards               |         1 |      1     |
+| London Irish           |         1 |      0     |
 | Wasps                  |         1 |      0     |
+| Stade Toulousain       |         1 |      0     |
 | Sharks                 |         1 |      0     |
 | Scotland               |         1 |      1     |
 | Sale Sharks            |         1 |      1     |
 | SWD Eagles             |         1 |      1     |
 | Northampton Saints     |         1 |      1     |
 | Newcastle Falcons      |         1 |      1     |
-| London Irish           |         1 |      0     |
+| Leopards               |         1 |      1     |
 | Leicester Tigers       |         1 |      0     |
 | Italy                  |         1 |      1     |
 | Ireland                |         1 |      0     |
-| Griffons               |         1 |      1     |
 | Gloucester Rugby       |         1 |      1     |
 | Eastern Province Kings |         1 |      1     |
 | Castres Olympique      |         1 |      1     |

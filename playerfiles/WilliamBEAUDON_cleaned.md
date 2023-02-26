@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William BEAUDON  
-date: 2023-02-24 14:43:47.585979  
+date: 2023-02-26 11:19:02.887592  
 categories: player  
 ---
 # William BEAUDON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 

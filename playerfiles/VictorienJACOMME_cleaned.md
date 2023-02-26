@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victorien JACOMME  
-date: 2023-02-24 14:46:28.187616  
+date: 2023-02-26 11:18:08.398061  
 categories: player  
 ---
 # Victorien JACOMME
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 53.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,33 +21,33 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            60 |        0.6 |
+| Massy  |            61 |   0.590164 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         5 |   0.5      |
 | Tarbes                     |         4 |   0.75     |
 | Chambery                   |         4 |   0.625    |
+| Bourgoin-Jallieu           |         3 |   1        |
+| Aubenas                    |         3 |   1        |
+| Dijon                      |         3 |   0.666667 |
 | Albi                       |         3 |   1        |
 | Aurillac                   |         3 |   0        |
-| Bourgoin-Jallieu           |         3 |   1        |
 | Dax                        |         3 |   1        |
-| Dijon                      |         3 |   0.666667 |
-| Aubenas                    |         3 |   1        |
-| Mont-de-Marsan             |         2 |   0.5      |
-| Provence Rugby             |         2 |   0.5      |
-| Nice                       |         2 |   0.5      |
-| Nevers                     |         2 |   0        |
-| Montauban                  |         2 |   0        |
-| Colomiers                  |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   1        |
 | Carcassonne                |         2 |   1        |
 | Blagnac                    |         2 |   1        |
-| US Bressane                |         2 |   0.5      |
+| Cognac Saint Jean d'Angély |         2 |   1        |
+| Colomiers                  |         2 |   0        |
 | Suresnes                   |         2 |   1        |
+| US Bressane                |         2 |   0.5      |
+| Mont-de-Marsan             |         2 |   0.5      |
+| Montauban                  |         2 |   0        |
+| Nevers                     |         2 |   0        |
+| Nice                       |         2 |   0.5      |
+| Provence Rugby             |         2 |   0.5      |
+| Rouen                      |         2 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Grenoble                   |         1 |   0        |
-| Rouen                      |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
 | Beziers                    |         1 |   0        |

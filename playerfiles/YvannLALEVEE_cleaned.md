@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yvann LALEVEE  
-date: 2023-01-23 15:35:21.277802  
+date: 2023-02-26 11:19:10.089168  
 categories: player  
 ---
 # Yvann LALEVEE
 
 ## Positions: H
 
-## Current elo: 97.0
+## Current elo: 100.0
 
-## Current Percentile: 45.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Beziers                    |             9 |   0.444444 |
-| Valence Romans Drome Rugby |             6 |   0.5      |
+| Beziers                    |            10 |        0.4 |
+| Valence Romans Drome Rugby |             6 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,6 +34,7 @@ categories: player
 | Blagnac                    |         1 |        0   |
 | Carcassonne                |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
+| Grenoble                   |         1 |        0   |
 | Nevers                     |         1 |        0   |
 | Oyonnax                    |         1 |        0   |
 | Suresnes                   |         1 |        1   |

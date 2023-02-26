@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nizaam CARR  
-date: 2023-02-24 14:43:42.474587  
+date: 2023-02-26 11:18:20.497757  
 categories: player  
 ---
 # Nizaam CARR
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 27.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -28,6 +28,7 @@ categories: player
 | Western Province |            51 |   0.745098 |
 | South Africa     |             5 |   0.2      |
 | Blue Bulls       |             4 |   0.75     |
+| Bulls            |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -70,6 +71,7 @@ categories: player
 | Southern Kings           |         3 |   1        |
 | Wales                    |         2 |   0        |
 | Leinster                 |         2 |   0        |
+| Ospreys                  |         2 |   1        |
 | Munster                  |         2 |   0        |
 | Italy                    |         2 |   0.5      |
 | La Rochelle              |         2 |   0.5      |
@@ -77,7 +79,6 @@ categories: player
 | Leopards                 |         1 |   1        |
 | England                  |         1 |   0        |
 | Bordeaux Begles          |         1 |   0        |
-| Ospreys                  |         1 |   1        |
 | Boland Cavaliers         |         1 |   1        |
 | Ulster                   |         1 |   1        |
 | Western Province         |         1 |   1        |

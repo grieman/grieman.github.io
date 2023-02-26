@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sébastien GIORGIS  
-date: 2023-02-24 14:45:56.844049  
+date: 2023-02-26 11:18:45.456199  
 categories: player  
 ---
 # Sébastien GIORGIS
 
 ## Positions: W, C
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 

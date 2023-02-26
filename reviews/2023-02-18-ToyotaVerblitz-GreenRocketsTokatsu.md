@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Toyota Verblitz by 18.3
+## Prediction with Player Minutes: Toyota Verblitz by 16.2
 
 
-Toyota Verblitz by 14.3 on a neutral field
+Toyota Verblitz by 12.2 on a neutral field
 ## Scores over Time
 
 
@@ -42,36 +42,36 @@ Toyota Verblitz by 14.3 on a neutral field
 ![In Match Predictions](plots/recap_prob_2023-02-18-ToyotaVerblitz-GreenRocketsTokatsu.png)
 
 There were 11 large changes in win probability in this match
-## Prediction without Player Minutes: Toyota Verblitz by 11.4
+## Prediction without Player Minutes: Toyota Verblitz by 9.7
 
 
-Toyota Verblitz by 7.4 on a neutral pitch
+Toyota Verblitz by 5.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                   |   Home Minutes |
 |---------------:|:--------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------------|---------------:|
-|             62 | [Suguru Kubo](..//playerfiles//SuguruKubo_cleaned.md)               |      88.78 |                27 |        1 |                57 |      96.97 | [Shogo Miura](..//playerfiles//ShogoMiura_cleaned.md)                         |             80 |
-|             55 | [Myuu Arai](..//playerfiles//MyuuArai_cleaned.md)                   |      85.48 |                24 |        2 |               nan |      95    | [Toshizaku Nobeyama](..//playerfiles//ToshizakuNobeyama_cleaned.md)           |             80 |
-|             49 | [Satoshi Ueda](..//playerfiles//SatoshiUeda_cleaned.md)             |     117.54 |                94 |        3 |                23 |      87.76 | [Yusuke Kizu](..//playerfiles//YusukeKizu_cleaned.md)                         |             62 |
-|             74 | [Daiki Yamagiwa](..//playerfiles//DaikiYamagiwa_cleaned.md)         |      68.84 |                 5 |        4 |                48 |      93.72 | [Daichi Akiyama](..//playerfiles//DaichiAkiyama_cleaned.md)                   |             80 |
-|             80 | [Jake Ball](..//playerfiles//JakeBall_cleaned.md)                   |      85.27 |                21 |        5 |                86 |     111.99 | [Ryoma Nishimura](..//playerfiles//RyomaNishimura_cleaned.md)                 |             65 |
-|             76 | [Wheetu Douglas](..//playerfiles//WheetuDouglas_cleaned.md)         |      77.87 |                 9 |        6 |                55 |      97.73 | [Pieter Stephanus du Toit](..//playerfiles//PieterStephanusduToit_cleaned.md) |             80 |
-|             80 | [Ryoi Kamei](..//playerfiles//RyoiKamei_cleaned.md)                 |      49.36 |                 1 |        7 |                55 |      97.35 | [Masato Furukawa](..//playerfiles//MasatoFurukawa_cleaned.md)                 |             80 |
-|             80 | [Aseri Masivou](..//playerfiles//AseriMasivou_cleaned.md)           |     102.23 |                70 |        8 |                28 |      88.56 | [Kazuki Himeno](..//playerfiles//KazukiHimeno_cleaned.md)                     |             62 |
-|             74 | [Nicholas Phipps](..//playerfiles//NicholasPhipps_cleaned.md)       |      84.36 |                19 |        9 |                40 |      91.73 | [Kaito Shigeno](..//playerfiles//KaitoShigeno_cleaned.md)                     |             51 |
-|             80 | [Taisetsu Kanai](..//playerfiles//TaisetsuKanai_cleaned.md)         |      90.02 |                34 |       10 |                63 |      99.63 | [Willem Jacobus Le Roux](..//playerfiles//WillemJacobusLeRoux_cleaned.md)     |             80 |
-|             62 | [Kenta Omata](..//playerfiles//KentaOmata_cleaned.md)               |     103.82 |                74 |       11 |                67 |     100.58 | [Vatiliai Tuidraki](..//playerfiles//VatiliaiTuidraki_cleaned.md)             |             74 |
-|             80 | [Christian Laui](..//playerfiles//ChristianLaui_cleaned.md)         |      85.09 |                21 |       12 |                85 |     110    | [Charlie Lawrence](..//playerfiles//CharlieLawrence_cleaned.md)               |             80 |
-|             62 | [Maritino Nemani](..//playerfiles//MaritinoNemani_cleaned.md)       |      96.97 |                58 |       13 |                14 |      81.96 | [Rob Thompson](..//playerfiles//RobThompson_cleaned.md)                       |             62 |
-|             80 | [Yuma Sugimoto](..//playerfiles//YumaSugimoto_cleaned.md)           |      95.12 |                50 |       14 |                18 |      83.97 | [Taichi Takahashi](..//playerfiles//TaichiTakahashi_cleaned.md)               |             80 |
-|             80 | [Lomano Lemeki](..//playerfiles//LomanoLemeki_cleaned.md)           |      80.79 |                14 |       15 |                55 |      97.25 | [Tiaan Falcon](..//playerfiles//TiaanFalcon_cleaned.md)                       |             80 |
-|             31 | [Taku Toma](..//playerfiles//TakuToma_cleaned.md)                   |      90.71 |                21 |       16 |                80 |     105.41 | [Kenta Fukuda](..//playerfiles//KentaFukuda_cleaned.md)                       |             29 |
-|             25 | [Yo Sato](..//playerfiles//YoSato_cleaned.md)                       |      71.07 |                 4 |       17 |                71 |     100.05 | [Shunsuke Asaoka](..//playerfiles//ShunsukeAsaoka_cleaned.md)                 |             18 |
-|             18 | [Tim Bennetts](..//playerfiles//TimBennetts_cleaned.md)             |      86.58 |                30 |       18 |                 8 |      75.22 | [Lautaimi Fetuani](..//playerfiles//LautaimiFetuani_cleaned.md)               |             18 |
-|             18 | [Taqele Naiyaravoro](..//playerfiles//TaqeleNaiyaravoro_cleaned.md) |      93.48 |               nan |       19 |                35 |      89.25 | [Viliame Tuidraki](..//playerfiles//ViliameTuidraki_cleaned.md)               |             18 |
-|             18 | [Sunao Takizawa](..//playerfiles//SunaoTakizawa_cleaned.md)         |      85.99 |                19 |       20 |                41 |      93.52 | [Kyo Yoshida](..//playerfiles//KyoYoshida_cleaned.md)                         |             15 |
-|              6 | [Fumiaki Tanaka](..//playerfiles//FumiakiTanaka_cleaned.md)         |      93.34 |               nan |       21 |               nan |      94.33 | [Jamie Henry](..//playerfiles//JamieHenry_cleaned.md)                         |              6 |
-|              6 | [Luke Porter](..//playerfiles//LukePorter_cleaned.md)               |      82.75 |                17 |       22 |               nan |     nan    | nan                                                                           |            nan |
-|              4 | [Yoshida Hosoda](..//playerfiles//YoshidaHosoda_cleaned.md)         |      94.06 |                52 |       23 |               nan |     nan    | nan                                                                           |            nan |
+|             62 | [Suguru Kubo](..//playerfiles//SuguruKubo_cleaned.md)               |      88.78 |                28 |        1 |                57 |      97.05 | [Shogo Miura](..//playerfiles//ShogoMiura_cleaned.md)                         |             80 |
+|             55 | [Myuu Arai](..//playerfiles//MyuuArai_cleaned.md)                   |      85.29 |                24 |        2 |               nan |      95    | [Toshizaku Nobeyama](..//playerfiles//ToshizakuNobeyama_cleaned.md)           |             80 |
+|             49 | [Satoshi Ueda](..//playerfiles//SatoshiUeda_cleaned.md)             |     117.46 |                94 |        3 |                25 |      88.21 | [Yusuke Kizu](..//playerfiles//YusukeKizu_cleaned.md)                         |             62 |
+|             74 | [Daiki Yamagiwa](..//playerfiles//DaikiYamagiwa_cleaned.md)         |      68.86 |                 5 |        4 |                47 |      93.86 | [Daichi Akiyama](..//playerfiles//DaichiAkiyama_cleaned.md)                   |             80 |
+|             80 | [Jake Ball](..//playerfiles//JakeBall_cleaned.md)                   |      85.27 |                21 |        5 |                86 |     112.32 | [Ryoma Nishimura](..//playerfiles//RyomaNishimura_cleaned.md)                 |             65 |
+|             76 | [Wheetu Douglas](..//playerfiles//WheetuDouglas_cleaned.md)         |      77.83 |                 9 |        6 |                58 |      98.58 | [Pieter Stephanus du Toit](..//playerfiles//PieterStephanusduToit_cleaned.md) |             80 |
+|             80 | [Ryoi Kamei](..//playerfiles//RyoiKamei_cleaned.md)                 |      49.24 |                 1 |        7 |                57 |      97.82 | [Masato Furukawa](..//playerfiles//MasatoFurukawa_cleaned.md)                 |             80 |
+|             80 | [Aseri Masivou](..//playerfiles//AseriMasivou_cleaned.md)           |     102.09 |                68 |        8 |                29 |      88.83 | [Kazuki Himeno](..//playerfiles//KazukiHimeno_cleaned.md)                     |             62 |
+|             74 | [Nicholas Phipps](..//playerfiles//NicholasPhipps_cleaned.md)       |      84.27 |                19 |        9 |                41 |      91.71 | [Kaito Shigeno](..//playerfiles//KaitoShigeno_cleaned.md)                     |             51 |
+|             80 | [Taisetsu Kanai](..//playerfiles//TaisetsuKanai_cleaned.md)         |      89.92 |                33 |       10 |                10 |      72.23 | [Willem Jacobus Le Roux](..//playerfiles//WillemJacobusLeRoux_cleaned.md)     |             80 |
+|             62 | [Kenta Omata](..//playerfiles//KentaOmata_cleaned.md)               |     103.8  |                74 |       11 |                68 |     101.4  | [Vatiliai Tuidraki](..//playerfiles//VatiliaiTuidraki_cleaned.md)             |             74 |
+|             80 | [Christian Laui](..//playerfiles//ChristianLaui_cleaned.md)         |      85.18 |                21 |       12 |                86 |     110.59 | [Charlie Lawrence](..//playerfiles//CharlieLawrence_cleaned.md)               |             80 |
+|             62 | [Maritino Nemani](..//playerfiles//MaritinoNemani_cleaned.md)       |      96.84 |                58 |       13 |                15 |      82.44 | [Rob Thompson](..//playerfiles//RobThompson_cleaned.md)                       |             62 |
+|             80 | [Yuma Sugimoto](..//playerfiles//YumaSugimoto_cleaned.md)           |      95.26 |                51 |       14 |                19 |      84.39 | [Taichi Takahashi](..//playerfiles//TaichiTakahashi_cleaned.md)               |             80 |
+|             80 | [Lomano Lemeki](..//playerfiles//LomanoLemeki_cleaned.md)           |      80.64 |                14 |       15 |                56 |      97.78 | [Tiaan Falcon](..//playerfiles//TiaanFalcon_cleaned.md)                       |             80 |
+|             31 | [Taku Toma](..//playerfiles//TakuToma_cleaned.md)                   |      90.71 |                21 |       16 |                81 |     105.93 | [Kenta Fukuda](..//playerfiles//KentaFukuda_cleaned.md)                       |             29 |
+|             25 | [Yo Sato](..//playerfiles//YoSato_cleaned.md)                       |      71.09 |                 4 |       17 |                72 |     100.11 | [Shunsuke Asaoka](..//playerfiles//ShunsukeAsaoka_cleaned.md)                 |             18 |
+|             18 | [Tim Bennetts](..//playerfiles//TimBennetts_cleaned.md)             |      86.54 |                30 |       18 |                 8 |      76.08 | [Lautaimi Fetuani](..//playerfiles//LautaimiFetuani_cleaned.md)               |             18 |
+|             18 | [Taqele Naiyaravoro](..//playerfiles//TaqeleNaiyaravoro_cleaned.md) |      93.48 |               nan |       19 |                36 |      89.59 | [Viliame Tuidraki](..//playerfiles//ViliameTuidraki_cleaned.md)               |             18 |
+|             18 | [Sunao Takizawa](..//playerfiles//SunaoTakizawa_cleaned.md)         |      85.91 |                19 |       20 |                42 |      93.56 | [Kyo Yoshida](..//playerfiles//KyoYoshida_cleaned.md)                         |             15 |
+|              6 | [Fumiaki Tanaka](..//playerfiles//FumiakiTanaka_cleaned.md)         |      93.35 |               nan |       21 |               nan |      94.32 | [Jamie Henry](..//playerfiles//JamieHenry_cleaned.md)                         |              6 |
+|              6 | [Luke Porter](..//playerfiles//LukePorter_cleaned.md)               |      82.59 |                17 |       22 |               nan |     nan    | nan                                                                           |            nan |
+|              4 | [Yoshida Hosoda](..//playerfiles//YoshidaHosoda_cleaned.md)         |      94    |                51 |       23 |               nan |     nan    | nan                                                                           |            nan |
 
