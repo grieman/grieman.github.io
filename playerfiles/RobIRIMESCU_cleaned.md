@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rob IRIMESCU  
-date: 2023-02-24 14:43:50.640859  
+date: 2023-02-28 11:07:00.643227  
 categories: player  
 ---
 # Rob IRIMESCU
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 28.0
+## Current Percentile: 29.0
 
 # Elo History
 

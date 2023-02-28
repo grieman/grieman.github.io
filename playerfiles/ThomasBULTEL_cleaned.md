@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BULTEL  
-date: 2023-02-24 14:44:48.543306  
+date: 2023-02-28 11:06:56.117919  
 categories: player  
 ---
 # Thomas BULTEL
 
 ## Positions: P
 
-## Current elo: 117.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            52 |   0.480769 |
+| Mont-de-Marsan |            53 |   0.471698 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,11 +33,11 @@ categories: player
 | Biarritz Olympique         |         3 |   0.5      |
 | US Bressane                |         3 |   0.666667 |
 | Aurillac                   |         3 |   1        |
+| Nevers                     |         3 |   0        |
 | Valence Romans Drome Rugby |         2 |   0.75     |
 | Rouen                      |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
 | Agen                       |         2 |   0        |
-| Nevers                     |         2 |   0        |
 | Montauban                  |         2 |   0.5      |
 | Grenoble                   |         2 |   1        |
 | Colomiers                  |         2 |   0        |

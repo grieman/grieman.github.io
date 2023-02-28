@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tim MENZEL  
-date: 2023-02-24 14:46:57.563202  
+date: 2023-02-28 11:02:29.784085  
 categories: player  
 ---
 # Tim MENZEL
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 76.0
 
-## Current Percentile: 8.0
+## Current Percentile: 9.0
 
 # Elo History
 

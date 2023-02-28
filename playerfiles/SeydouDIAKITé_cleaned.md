@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Seydou DIAKITé  
-date: 2023-02-24 14:46:35.450405  
+date: 2023-02-28 11:07:05.278636  
 categories: player  
 ---
 # Seydou DIAKITé
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 89.0
 
 ## Current Percentile: 44.0
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            22 |        0.5 |
+| Soyaux-Angouleme |            23 |   0.521739 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Massy                      |         3 |   0.666667 |
+| Montauban                  |         2 |   0.5      |
 | Agen                       |         1 |   1        |
 | Albi                       |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
@@ -33,7 +34,6 @@ categories: player
 | Provence Rugby             |         1 |   0        |
 | Nice                       |         1 |   0        |
 | Nevers                     |         1 |   0        |
-| Montauban                  |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Grenoble                   |         1 |   0        |
 | Dijon                      |         1 |   1        |

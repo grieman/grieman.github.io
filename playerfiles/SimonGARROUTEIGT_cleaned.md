@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon GARROUTEIGT  
-date: 2023-02-24 14:45:10.053512  
+date: 2023-02-28 11:08:07.815675  
 categories: player  
 ---
 # Simon GARROUTEIGT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 36.0
+## Current Percentile: 37.0
 
 # Elo History
 

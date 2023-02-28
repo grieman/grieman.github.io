@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nasoni NAQIRI KUNAVORE  
-date: 2023-02-24 14:46:34.232697  
+date: 2023-02-28 11:06:25.975101  
 categories: player  
 ---
 # Nasoni NAQIRI KUNAVORE
 
 ## Positions: C, W
 
-## Current elo: 120.0
+## Current elo: 117.0
 
-## Current Percentile: 89.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Albi             |            68 |   0.419118 |
 | Nevers           |            55 |   0.572727 |
-| Soyaux-Angouleme |            28 |   0.464286 |
+| Soyaux-Angouleme |            29 |   0.482759 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |        12 |   0.708333 |
 | Mont-de-Marsan             |        12 |   0.333333 |
 | Aurillac                   |        11 |   0.454545 |
-| Montauban                  |         9 |   0.222222 |
+| Montauban                  |        10 |   0.3      |
 | Massy                      |         7 |   0.714286 |
 | Dax                        |         7 |   0.857143 |
 | Colomiers                  |         7 |   0.571429 |

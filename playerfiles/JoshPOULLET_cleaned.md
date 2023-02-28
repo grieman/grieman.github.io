@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josh POULLET  
-date: 2023-02-06 16:01:33.639432  
+date: 2023-02-28 11:08:32.973794  
 categories: player  
 ---
 # Josh POULLET
 
 ## Positions: N8, FL
 
-## Current elo: 88.0
+## Current elo: 92.0
 
-## Current Percentile: 41.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |           104 |   0.384615 |
+| Nottingham |           105 |   0.380952 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,8 +36,8 @@ categories: player
 | Yorkshire Carnegie  |         7 |   0.285714 |
 | Coventry            |         6 |   0.416667 |
 | London Irish        |         4 |   0        |
+| Ampthill            |         4 |   0.5      |
 | Rotherham Titans    |         3 |   1        |
-| Ampthill            |         3 |   0.666667 |
 | Bristol Rugby       |         2 |   0        |
 | Caldy               |         1 |   0        |
 | London Welsh        |         1 |   0        |

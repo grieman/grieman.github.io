@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo TREMEAU  
-date: 2023-02-24 14:45:28.821143  
+date: 2023-02-28 11:08:30.042792  
 categories: player  
 ---
 # Théo TREMEAU
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 91.0
 
-## Current Percentile: 66.0
+## Current Percentile: 68.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2023-02-24 14:44:25.249822  
+date: 2023-02-28 11:04:36.142774  
 categories: player  
 ---
 # Vaso Lobzhanidze
@@ -23,18 +23,18 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Brive   |           102 |   0.480392 |
+| Brive   |           103 |   0.475728 |
 | Georgia |            62 |   0.653226 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Stade Francais Paris     |         7 |   0.714286 |
-| Lyon                     |         7 |   0.285714 |
-| Castres Olympique        |         7 |   0.571429 |
 | Romania                  |         7 |   0.857143 |
-| Spain                    |         6 |   1        |
-| Pau                      |         6 |   0.666667 |
+| Castres Olympique        |         7 |   0.571429 |
+| Lyon                     |         7 |   0.285714 |
+| Pau                      |         7 |   0.571429 |
 | Bayonne                  |         6 |   0.583333 |
+| Spain                    |         6 |   1        |
 | Bordeaux Begles          |         5 |   0.2      |
 | Russia                   |         5 |   1        |
 | Clermont Auvergne        |         5 |   0.2      |

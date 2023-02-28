@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wilfried Hounkpatin  
-date: 2023-02-24 14:44:46.130892  
+date: 2023-02-28 11:06:23.072268  
 categories: player  
 ---
 # Wilfried Hounkpatin
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 84.0
 
-## Current Percentile: 39.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |             9 |   0.277778 |
+| Castres Olympique |            10 |       0.25 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Bayonne              |         1 |        0   |
 | Bordeaux Begles      |         1 |        1   |
 | Clermont Auvergne    |         1 |        0   |
 | Edinburgh            |         1 |        0   |

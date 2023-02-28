@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kenshi Yamamoto  
-date: 2023-02-24 14:44:06.390056  
+date: 2023-02-28 11:02:24.598965  
 categories: player  
 ---
 # Kenshi Yamamoto
@@ -21,14 +21,14 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |            16 |     0.8125 |
+| Kubota Spears Funabashi Tokyo-Bay |            17 |   0.823529 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| Toshiba Brave Lupus Tokyo       |         3 |   1        |
 | Toyota Verblitz                 |         3 |   0.666667 |
 | Green Rockets Tokatsu           |         2 |   1        |
 | Mitsubishi Dynaboars            |         2 |   1        |
-| Toshiba Brave Lupus Tokyo       |         2 |   1        |
 | Black Rams Tokyo                |         1 |   1        |
 | Kobelco Kobe Steelers           |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka |         1 |   1        |

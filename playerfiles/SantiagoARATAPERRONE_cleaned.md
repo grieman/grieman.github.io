@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago Arata Perrone  
-date: 2023-02-26 11:18:16.399930  
+date: 2023-02-28 11:06:54.444048  
 categories: player  
 ---
 # Santiago Arata Perrone

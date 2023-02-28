@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor MORO  
-date: 2023-02-24 14:47:19.325726  
+date: 2023-02-28 11:09:33.521021  
 categories: player  
 ---
 # Victor MORO
 
 ## Positions: W, C
 
-## Current elo: 63.0
+## Current elo: 66.0
 
-## Current Percentile: 2.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            42 |   0.511905 |
+| Colomiers |            43 |   0.523256 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Oyonnax                    |         5 |   0.7      |
 | Carcassonne                |         4 |   0.5      |
+| Agen                       |         3 |   0.666667 |
 | Nevers                     |         3 |   0.666667 |
 | Rouen                      |         3 |   0.666667 |
 | Provence Rugby             |         3 |   1        |
 | Grenoble                   |         3 |   0.333333 |
 | Perpignan                  |         3 |   0.333333 |
-| Agen                       |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
 | Montauban                  |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0        |

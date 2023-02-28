@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo VIDAL  
-date: 2023-02-24 14:46:42.765227  
+date: 2023-02-28 11:08:35.387930  
 categories: player  
 ---
 # Théo VIDAL
 
 ## Positions: FH, SH
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 42.0
+## Current Percentile: 44.0
 
 # Elo History
 

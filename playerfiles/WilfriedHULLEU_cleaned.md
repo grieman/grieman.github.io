@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wilfried HULLEU  
-date: 2023-02-24 14:46:10.662744  
+date: 2023-02-28 11:06:09.113795  
 categories: player  
 ---
 # Wilfried HULLEU
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 102.0
 
-## Current Percentile: 69.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            14 |   0.535714 |
+| Grenoble |            15 |   0.566667 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
@@ -32,5 +32,6 @@ categories: player
 | Rouen          |         2 |       1    |
 | Agen           |         1 |       1    |
 | Aurillac       |         1 |       1    |
+| Beziers        |         1 |       1    |
 | Oyonnax        |         1 |       0    |
 | Vannes         |         1 |       0    |

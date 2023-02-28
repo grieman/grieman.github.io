@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Youssef AMROUNI  
-date: 2023-02-24 14:44:12.648377  
+date: 2023-02-28 11:08:38.096611  
 categories: player  
 ---
 # Youssef AMROUNI
 
 ## Positions: P
 
-## Current elo: 68.0
+## Current elo: 72.0
 
-## Current Percentile: 6.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -22,16 +22,16 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Aurillac       |            52 |   0.432692 |
-| Carcassonne    |            32 |   0.4375   |
+| Carcassonne    |            33 |   0.424242 |
 | Provence Rugby |             4 |   0.75     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Vannes                     |         6 |   0.333333 |
+| Oyonnax                    |         6 |   0.333333 |
 | Beziers                    |         6 |   0.333333 |
 | Soyaux-Angouleme           |         6 |   0.166667 |
 | Provence Rugby             |         6 |   0.166667 |
-| Oyonnax                    |         5 |   0.4      |
 | Rouen                      |         5 |   0.8      |
 | Grenoble                   |         5 |   0.4      |
 | Montauban                  |         5 |   0.7      |

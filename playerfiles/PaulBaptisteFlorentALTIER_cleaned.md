@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul Baptiste Florent ALTIER  
-date: 2023-02-24 14:47:08.738502  
+date: 2023-02-28 11:08:06.321946  
 categories: player  
 ---
 # Paul Baptiste Florent ALTIER
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Hong Kong
 
-## Current elo: 86.0
+## Current elo: 87.0
 
-## Current Percentile: 40.0
+## Current Percentile: 44.0
 
 # Elo History
 

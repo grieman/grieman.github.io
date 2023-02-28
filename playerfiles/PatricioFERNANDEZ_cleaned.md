@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Patricio FERNANDEZ  
-date: 2023-02-26 11:19:07.982122  
+date: 2023-02-28 11:06:12.825863  
 categories: player  
 ---
 # Patricio FERNANDEZ

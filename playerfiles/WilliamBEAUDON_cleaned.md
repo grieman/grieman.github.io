@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: William BEAUDON  
-date: 2023-02-26 11:19:02.887592  
+date: 2023-02-28 11:05:20.924325  
 categories: player  
 ---
 # William BEAUDON

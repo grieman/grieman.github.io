@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leroy van Dam  
-date: 2023-02-24 14:44:04.108234  
+date: 2023-02-28 11:04:32.623983  
 categories: player  
 ---
 # Leroy van Dam
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 88.0
+## Current Percentile: 85.0
 
 # Elo History
 

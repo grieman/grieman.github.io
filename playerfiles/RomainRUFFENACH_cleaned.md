@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain RUFFENACH  
-date: 2023-02-24 14:43:49.692771  
+date: 2023-02-28 11:04:01.273393  
 categories: player  
 ---
 # Romain RUFFENACH
 
 ## Positions: H
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 70.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Biarritz Olympique  |           112 |   0.473214 |
 | Montpellier Herault |            64 |   0.5625   |
-| Pau                 |             3 |   1        |
+| Pau                 |             4 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -57,11 +57,11 @@ categories: player
 | Leinster                   |         3 |   0.333333 |
 | Vannes                     |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
+| Brive                      |         3 |   0.666667 |
 | Newcastle Falcons          |         2 |   0.5      |
 | Exeter Chiefs              |         2 |   0        |
 | Massy                      |         2 |   1        |
 | Dax                        |         2 |   1        |
-| Brive                      |         2 |   0.5      |
 | Glasgow Warriors           |         2 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
 | Sale Sharks                |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uzair CASSIEM  
-date: 2023-02-24 14:44:37.737567  
+date: 2023-02-28 11:08:36.632240  
 categories: player  
 ---
 # Uzair CASSIEM
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 67.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -25,8 +25,8 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Scarlets            |            48 |   0.541667 |
 | Pumas               |            39 |   0.653846 |
+| Bayonne             |            37 |   0.648649 |
 | Cheetahs            |            37 |   0.351351 |
-| Bayonne             |            36 |   0.666667 |
 | Free State Cheetahs |            12 |   1        |
 | South Africa        |             8 |   0.375    |
 | Valke               |             4 |   0        |
@@ -76,24 +76,24 @@ categories: player
 | Argentina                |         2 |   1        |
 | Beziers                  |         2 |   0.5      |
 | Cheetahs                 |         2 |   1        |
-| Border Bulldogs          |         2 |   1        |
 | Colomiers                |         2 |   0.5      |
+| Border Bulldogs          |         2 |   1        |
 | Grenoble                 |         2 |   0.5      |
 | Carcassonne              |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
 | Australia                |         2 |   0.5      |
 | Aurillac                 |         2 |   1        |
 | Blues                    |         1 |   0        |
-| Sharks                   |         1 |   0        |
-| Bordeaux Begles          |         1 |   1        |
+| US Bressane              |         1 |   1        |
+| Scarlets                 |         1 |   0        |
 | Western Force            |         1 |   1        |
 | Brive                    |         1 |   0        |
 | Stade Toulousain         |         1 |   1        |
 | Stade Francais Paris     |         1 |   0        |
 | Brumbies                 |         1 |   0        |
-| US Bressane              |         1 |   1        |
+| Sharks                   |         1 |   0        |
+| Bordeaux Begles          |         1 |   1        |
 | Castres Olympique        |         1 |   0        |
-| Scarlets                 |         1 |   0        |
 | Leicester Tigers         |         1 |   0        |
 | Racing 92                |         1 |   1        |
 | Queensland Reds          |         1 |   0        |
@@ -104,6 +104,7 @@ categories: player
 | New South Wales Waratahs |         1 |   0        |
 | Highlanders              |         1 |   0        |
 | Hurricanes               |         1 |   0        |
+| Montpellier Herault      |         1 |   0        |
 | Ireland                  |         1 |   0        |
 | Jaguares                 |         1 |   0        |
 | La Rochelle              |         1 |   1        |

@@ -135,7 +135,7 @@ categories: model review projection
 #### Munster V Scarlets on 2023/03/03
 
 
-Average Margin: Munster by 10.7
+Average Margin: Munster by 10.8
 
 <p float="left">
 <img src="plots/performances_Munster_V_Scarlets_6.png" width="32%" />
@@ -146,7 +146,7 @@ Average Margin: Munster by 10.7
 #### Glasgow Warriors V Zebre on 2023/03/03
 
 
-Average Margin: Glasgow Warriors by 19.5
+Average Margin: Glasgow Warriors by 19.4
 
 <p float="left">
 <img src="plots/performances_Glasgow Warriors_V_Zebre_6.png" width="32%" />
@@ -168,7 +168,7 @@ Average Margin: Stormers by 7.4
 #### Bulls V Lions on 2023/03/04
 
 
-Average Margin: Bulls by 9.1
+Average Margin: Bulls by 9.3
 
 <p float="left">
 <img src="plots/performances_Bulls_V_Lions_6.png" width="32%" />
@@ -190,7 +190,7 @@ Average Margin: Leinster by 10.1
 #### Ospreys V Benetton Treviso on 2023/03/04
 
 
-Average Margin: Ospreys by 4.6
+Average Margin: Ospreys by 4.9
 
 <p float="left">
 <img src="plots/performances_Ospreys_V_Benetton Treviso_6.png" width="32%" />
@@ -201,7 +201,7 @@ Average Margin: Ospreys by 4.6
 #### Cardiff Blues V Ulster on 2023/03/04
 
 
-Average Margin: Ulster by 4.7
+Average Margin: Ulster by 4.9
 
 <p float="left">
 <img src="plots/performances_Cardiff Blues_V_Ulster_6.png" width="32%" />
@@ -212,7 +212,7 @@ Average Margin: Ulster by 4.7
 #### Dragons V Connacht on 2023/03/04
 
 
-Average Margin: Connacht by 5.9
+Average Margin: Connacht by 5.8
 
 <p float="left">
 <img src="plots/performances_Dragons_V_Connacht_6.png" width="32%" />
@@ -225,7 +225,7 @@ Average Margin: Connacht by 5.9
 #### Benetton Treviso V Lions on 2023/03/25
 
 
-Average Margin: Benetton Treviso by 4.5
+Average Margin: Benetton Treviso by 4.3
 
 <p float="left">
 <img src="plots/performances_Benetton Treviso_V_Lions_7.png" width="32%" />
@@ -236,7 +236,7 @@ Average Margin: Benetton Treviso by 4.5
 #### Ulster V Bulls on 2023/03/25
 
 
-Average Margin: Ulster by 7.3
+Average Margin: Ulster by 7.2
 
 <p float="left">
 <img src="plots/performances_Ulster_V_Bulls_7.png" width="32%" />
@@ -258,7 +258,7 @@ Average Margin: Sharks by 0.5
 #### Zebre V Cardiff Blues on 2023/03/25
 
 
-Average Margin: Cardiff Blues by 8.5
+Average Margin: Cardiff Blues by 8.8
 
 <p float="left">
 <img src="plots/performances_Zebre_V_Cardiff Blues_7.png" width="32%" />
@@ -269,7 +269,7 @@ Average Margin: Cardiff Blues by 8.5
 #### Leinster V Stormers on 2023/03/25
 
 
-Average Margin: Leinster by 10.6
+Average Margin: Leinster by 10.8
 
 <p float="left">
 <img src="plots/performances_Leinster_V_Stormers_7.png" width="32%" />
@@ -291,7 +291,7 @@ Average Margin: Ospreys by 10.0
 #### Connacht V Edinburgh on 2023/03/25
 
 
-Average Margin: Connacht by 3.7
+Average Margin: Connacht by 3.6
 
 <p float="left">
 <img src="plots/performances_Connacht_V_Edinburgh_7.png" width="32%" />
@@ -315,7 +315,7 @@ Average Margin: Munster by 7.8
 #### Sharks V Benetton Treviso on 2023/04/15
 
 
-Average Margin: Sharks by 8.7
+Average Margin: Sharks by 8.6
 
 <p float="left">
 <img src="plots/performances_Sharks_V_Benetton Treviso_8.png" width="32%" />
@@ -326,7 +326,7 @@ Average Margin: Sharks by 8.7
 #### Connacht V Cardiff Blues on 2023/04/15
 
 
-Average Margin: Connacht by 6.9
+Average Margin: Connacht by 6.8
 
 <p float="left">
 <img src="plots/performances_Connacht_V_Cardiff Blues_8.png" width="32%" />
@@ -337,7 +337,7 @@ Average Margin: Connacht by 6.9
 #### Glasgow Warriors V Scarlets on 2023/04/15
 
 
-Average Margin: Glasgow Warriors by 6.3
+Average Margin: Glasgow Warriors by 6.2
 
 <p float="left">
 <img src="plots/performances_Glasgow Warriors_V_Scarlets_8.png" width="32%" />
@@ -359,7 +359,7 @@ Average Margin: Bulls by 19.8
 #### Edinburgh V Ospreys on 2023/04/15
 
 
-Average Margin: Edinburgh by 5.1
+Average Margin: Edinburgh by 5.2
 
 <p float="left">
 <img src="plots/performances_Edinburgh_V_Ospreys_8.png" width="32%" />
@@ -370,7 +370,7 @@ Average Margin: Edinburgh by 5.1
 #### Lions V Leinster on 2023/04/15
 
 
-Average Margin: Leinster by 14.5
+Average Margin: Leinster by 14.6
 
 <p float="left">
 <img src="plots/performances_Lions_V_Leinster_8.png" width="32%" />
@@ -381,7 +381,7 @@ Average Margin: Leinster by 14.5
 #### Stormers V Munster on 2023/04/15
 
 
-Average Margin: Stormers by 4.0
+Average Margin: Stormers by 4.2
 
 <p float="left">
 <img src="plots/performances_Stormers_V_Munster_8.png" width="32%" />
@@ -405,7 +405,7 @@ Average Margin: Ulster by 17.4
 #### Stormers V Benetton Treviso on 2023/04/22
 
 
-Average Margin: Stormers by 12.9
+Average Margin: Stormers by 12.8
 
 <p float="left">
 <img src="plots/performances_Stormers_V_Benetton Treviso_9.png" width="32%" />
@@ -416,7 +416,7 @@ Average Margin: Stormers by 12.9
 #### Glasgow Warriors V Connacht on 2023/04/22
 
 
-Average Margin: Glasgow Warriors by 4.2
+Average Margin: Glasgow Warriors by 3.9
 
 <p float="left">
 <img src="plots/performances_Glasgow Warriors_V_Connacht_9.png" width="32%" />
@@ -427,7 +427,7 @@ Average Margin: Glasgow Warriors by 4.2
 #### Bulls V Leinster on 2023/04/22
 
 
-Average Margin: Leinster by 8.4
+Average Margin: Leinster by 8.5
 
 <p float="left">
 <img src="plots/performances_Bulls_V_Leinster_9.png" width="32%" />
@@ -438,7 +438,7 @@ Average Margin: Leinster by 8.4
 #### Lions V Zebre on 2023/04/22
 
 
-Average Margin: Lions by 14.0
+Average Margin: Lions by 13.8
 
 <p float="left">
 <img src="plots/performances_Lions_V_Zebre_9.png" width="32%" />
@@ -449,7 +449,7 @@ Average Margin: Lions by 14.0
 #### Ospreys V Cardiff Blues on 2023/04/22
 
 
-Average Margin: Ospreys by 4.0
+Average Margin: Ospreys by 4.4
 
 <p float="left">
 <img src="plots/performances_Ospreys_V_Cardiff Blues_9.png" width="32%" />
@@ -471,7 +471,7 @@ Average Margin: Scarlets by 3.6
 #### Ulster V Edinburgh on 2023/04/22
 
 
-Average Margin: Ulster by 8.5
+Average Margin: Ulster by 8.7
 
 <p float="left">
 <img src="plots/performances_Ulster_V_Edinburgh_9.png" width="32%" />
@@ -482,7 +482,7 @@ Average Margin: Ulster by 8.5
 #### Sharks V Munster on 2023/04/22
 
 
-Average Margin: Munster by 0.0
+Average Margin: Sharks by 0.1
 
 <p float="left">
 <img src="plots/performances_Sharks_V_Munster_9.png" width="32%" />

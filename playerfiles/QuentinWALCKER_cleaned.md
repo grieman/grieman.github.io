@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin WALCKER  
-date: 2023-02-24 14:46:53.983579  
+date: 2023-02-28 11:02:59.373558  
 categories: player  
 ---
 # Quentin WALCKER
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Perpignan         |            68 |   0.661765 |
-| Castres Olympique |            26 |   0.634615 |
+| Castres Olympique |            27 |   0.611111 |
 | France            |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -55,11 +55,11 @@ categories: player
 | Australia                  |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
 | Rouen                      |         2 |   1        |
+| La Rochelle                |         2 |   0.5      |
 | Provence Rugby             |         2 |   1        |
 | Connacht                   |         2 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Sale Sharks                |         1 |   0        |
-| La Rochelle                |         1 |   1        |
 | Castres Olympique          |         1 |   0        |
 | Pau                        |         1 |   0        |
 | Agen                       |         1 |   0        |

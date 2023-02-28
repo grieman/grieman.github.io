@@ -9,7 +9,7 @@ categories: match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.422, which translates to predicting England to win by 2.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.422, which translates to predicting England to win by 2.6.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -42,9 +42,9 @@ England by 13.4 on a neutral field
 | [Kyle Sinckler](..//playerfiles//KyleSinckler_cleaned.md)            |     111.38 |                89 |        3 |                98 |     126.66 | [Tomas Francis](..//playerfiles//TomasFrancis_cleaned.md)         |
 | [Maro Itoje](..//playerfiles//MaroItoje_cleaned.md)                  |     107.7  |                81 |        4 |                40 |      92.26 | [Adam Beard](..//playerfiles//AdamBeard_cleaned.md)               |
 | [Ollie Chessum](..//playerfiles//OllieChessum_cleaned.md)            |     117.83 |                92 |        5 |                75 |     104.8  | [Alun Wyn Jones](..//playerfiles//AlunWynJones_cleaned.md)        |
-| [Lewis Ludlam](..//playerfiles//LewisLudlam_cleaned.md)              |      94.71 |                49 |        6 |                22 |      86.14 | [Christ Tshiunza](..//playerfiles//ChristTshiunza_cleaned.md)     |
-| [Jack Willis](..//playerfiles//JackWillis_cleaned.md)                |     124.28 |                95 |        7 |                92 |     117.44 | [Justin Tipuric](..//playerfiles//JustinTipuric_cleaned.md)       |
-| [Alex Dombrandt](..//playerfiles//AlexDombrandt_cleaned.md)          |     139.37 |                99 |        8 |                40 |      91.57 | [Taulupe Faletau](..//playerfiles//TaulupeFaletau_cleaned.md)     |
+| [Lewis Ludlam](..//playerfiles//LewisLudlam_cleaned.md)              |      94.71 |                49 |        6 |                21 |      86.14 | [Christ Tshiunza](..//playerfiles//ChristTshiunza_cleaned.md)     |
+| [Jack Willis](..//playerfiles//JackWillis_cleaned.md)                |     124.28 |                95 |        7 |                91 |     117.44 | [Justin Tipuric](..//playerfiles//JustinTipuric_cleaned.md)       |
+| [Alex Dombrandt](..//playerfiles//AlexDombrandt_cleaned.md)          |     139.37 |                99 |        8 |                39 |      91.57 | [Taulupe Faletau](..//playerfiles//TaulupeFaletau_cleaned.md)     |
 | [Jack van Poortvliet](..//playerfiles//JackvanPoortvliet_cleaned.md) |      89.82 |                35 |        9 |                88 |     110.66 | [Tomos Williams](..//playerfiles//TomosWilliams_cleaned.md)       |
 | [Owen Farrell](..//playerfiles//OwenFarrell_cleaned.md)              |     125.09 |                94 |       10 |                86 |     111.82 | [Owen Williams](..//playerfiles//OwenWilliams_cleaned.md)         |
 | [Anthony Watson](..//playerfiles//AnthonyWatson_cleaned.md)          |      86.2  |                22 |       11 |                24 |      86.22 | [Louis Rees-Zammit](..//playerfiles//LouisRees-Zammit_cleaned.md) |

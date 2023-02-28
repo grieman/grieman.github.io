@@ -108,7 +108,7 @@ categories: model review projection
 #### Bath Rugby V Wasps on 2022/09/23
 
 
-Average Margin: Bath Rugby by 0.1
+Average Margin: Wasps by 0.0
 
 <p float="left">
 <img src="plots/performances_Bath Rugby_V_Wasps_12.png" width="32%" />
@@ -132,7 +132,7 @@ Average Margin: Bristol Rugby by 3.6
 #### Leicester Tigers V Bath Rugby on 2023/03/04
 
 
-Average Margin: Leicester Tigers by 11.5
+Average Margin: Leicester Tigers by 11.7
 
 <p float="left">
 <img src="plots/performances_Leicester Tigers_V_Bath Rugby_4.png" width="32%" />
@@ -143,7 +143,7 @@ Average Margin: Leicester Tigers by 11.5
 #### Harlequins V Exeter Chiefs on 2023/03/04
 
 
-Average Margin: Harlequins by 0.6
+Average Margin: Harlequins by 0.7
 
 <p float="left">
 <img src="plots/performances_Harlequins_V_Exeter Chiefs_4.png" width="32%" />
@@ -165,7 +165,7 @@ Average Margin: London Irish by 4.5
 #### Sale Sharks V Saracens on 2023/03/05
 
 
-Average Margin: Sale Sharks by 0.2
+Average Margin: Saracens by 0.1
 
 <p float="left">
 <img src="plots/performances_Sale Sharks_V_Saracens_4.png" width="32%" />
@@ -178,7 +178,7 @@ Average Margin: Sale Sharks by 0.2
 #### Northampton Saints V Bath Rugby on 2023/03/10
 
 
-Average Margin: Northampton Saints by 8.2
+Average Margin: Northampton Saints by 8.1
 
 <p float="left">
 <img src="plots/performances_Northampton Saints_V_Bath Rugby_5.png" width="32%" />
@@ -189,7 +189,7 @@ Average Margin: Northampton Saints by 8.2
 #### London Irish V Sale Sharks on 2023/03/11
 
 
-Average Margin: London Irish by 1.6
+Average Margin: London Irish by 1.3
 
 <p float="left">
 <img src="plots/performances_London Irish_V_Sale Sharks_5.png" width="32%" />
@@ -200,7 +200,7 @@ Average Margin: London Irish by 1.6
 #### Exeter Chiefs V Newcastle Falcons on 2023/03/11
 
 
-Average Margin: Exeter Chiefs by 12.8
+Average Margin: Exeter Chiefs by 12.6
 
 <p float="left">
 <img src="plots/performances_Exeter Chiefs_V_Newcastle Falcons_5.png" width="32%" />
@@ -211,7 +211,7 @@ Average Margin: Exeter Chiefs by 12.8
 #### Gloucester Rugby V Leicester Tigers on 2023/03/12
 
 
-Average Margin: Gloucester Rugby by 1.3
+Average Margin: Gloucester Rugby by 1.1
 
 <p float="left">
 <img src="plots/performances_Gloucester Rugby_V_Leicester Tigers_5.png" width="32%" />
@@ -222,7 +222,7 @@ Average Margin: Gloucester Rugby by 1.3
 #### Bristol Rugby V Harlequins on 2023/03/12
 
 
-Average Margin: Bristol Rugby by 2.4
+Average Margin: Bristol Rugby by 2.5
 
 <p float="left">
 <img src="plots/performances_Bristol Rugby_V_Harlequins_5.png" width="32%" />
@@ -235,7 +235,7 @@ Average Margin: Bristol Rugby by 2.4
 #### Newcastle Falcons V Gloucester Rugby on 2023/03/25
 
 
-Average Margin: Gloucester Rugby by 3.8
+Average Margin: Gloucester Rugby by 3.6
 
 <p float="left">
 <img src="plots/performances_Newcastle Falcons_V_Gloucester Rugby_6.png" width="32%" />
@@ -246,7 +246,7 @@ Average Margin: Gloucester Rugby by 3.8
 #### London Irish V Northampton Saints on 2023/03/25
 
 
-Average Margin: London Irish by 5.7
+Average Margin: London Irish by 5.5
 
 <p float="left">
 <img src="plots/performances_London Irish_V_Northampton Saints_6.png" width="32%" />
@@ -257,7 +257,7 @@ Average Margin: London Irish by 5.7
 #### Leicester Tigers V Bristol Rugby on 2023/03/25
 
 
-Average Margin: Leicester Tigers by 6.7
+Average Margin: Leicester Tigers by 6.6
 
 <p float="left">
 <img src="plots/performances_Leicester Tigers_V_Bristol Rugby_6.png" width="32%" />
@@ -279,7 +279,7 @@ Average Margin: Exeter Chiefs by 5.2
 #### Saracens V Harlequins on 2023/03/25
 
 
-Average Margin: Saracens by 9.4
+Average Margin: Saracens by 9.6
 
 <p float="left">
 <img src="plots/performances_Saracens_V_Harlequins_6.png" width="32%" />
@@ -303,7 +303,7 @@ Average Margin: Sale Sharks by 0.4
 #### Leicester Tigers V Exeter Chiefs on 2023/04/15
 
 
-Average Margin: Leicester Tigers by 3.0
+Average Margin: Leicester Tigers by 3.1
 
 <p float="left">
 <img src="plots/performances_Leicester Tigers_V_Exeter Chiefs_7.png" width="32%" />
@@ -314,7 +314,7 @@ Average Margin: Leicester Tigers by 3.0
 #### Gloucester Rugby V Bath Rugby on 2023/04/15
 
 
-Average Margin: Gloucester Rugby by 9.6
+Average Margin: Gloucester Rugby by 9.5
 
 <p float="left">
 <img src="plots/performances_Gloucester Rugby_V_Bath Rugby_7.png" width="32%" />
@@ -325,7 +325,7 @@ Average Margin: Gloucester Rugby by 9.6
 #### Harlequins V Newcastle Falcons on 2023/04/15
 
 
-Average Margin: Harlequins by 10.2
+Average Margin: Harlequins by 10.4
 
 <p float="left">
 <img src="plots/performances_Harlequins_V_Newcastle Falcons_7.png" width="32%" />
@@ -336,7 +336,7 @@ Average Margin: Harlequins by 10.2
 #### Northampton Saints V Saracens on 2023/04/15
 
 
-Average Margin: Saracens by 4.0
+Average Margin: Saracens by 3.9
 
 <p float="left">
 <img src="plots/performances_Northampton Saints_V_Saracens_7.png" width="32%" />
@@ -349,7 +349,7 @@ Average Margin: Saracens by 4.0
 #### Exeter Chiefs V Bristol Rugby on 2023/04/22
 
 
-Average Margin: Exeter Chiefs by 7.0
+Average Margin: Exeter Chiefs by 6.8
 
 <p float="left">
 <img src="plots/performances_Exeter Chiefs_V_Bristol Rugby_8.png" width="32%" />
@@ -360,7 +360,7 @@ Average Margin: Exeter Chiefs by 7.0
 #### Gloucester Rugby V Sale Sharks on 2023/04/22
 
 
-Average Margin: Gloucester Rugby by 0.9
+Average Margin: Gloucester Rugby by 0.8
 
 <p float="left">
 <img src="plots/performances_Gloucester Rugby_V_Sale Sharks_8.png" width="32%" />
@@ -371,7 +371,7 @@ Average Margin: Gloucester Rugby by 0.9
 #### Harlequins V Bath Rugby on 2023/04/22
 
 
-Average Margin: Harlequins by 9.1
+Average Margin: Harlequins by 9.5
 
 <p float="left">
 <img src="plots/performances_Harlequins_V_Bath Rugby_8.png" width="32%" />
@@ -382,7 +382,7 @@ Average Margin: Harlequins by 9.1
 #### Newcastle Falcons V Northampton Saints on 2023/04/22
 
 
-Average Margin: Northampton Saints by 2.4
+Average Margin: Northampton Saints by 2.3
 
 <p float="left">
 <img src="plots/performances_Newcastle Falcons_V_Northampton Saints_8.png" width="32%" />
@@ -393,7 +393,7 @@ Average Margin: Northampton Saints by 2.4
 #### Saracens V London Irish on 2023/04/22
 
 
-Average Margin: Saracens by 8.8
+Average Margin: Saracens by 8.6
 
 <p float="left">
 <img src="plots/performances_Saracens_V_London Irish_8.png" width="32%" />
@@ -406,7 +406,7 @@ Average Margin: Saracens by 8.8
 #### London Irish V Exeter Chiefs on 2023/05/06
 
 
-Average Margin: London Irish by 1.5
+Average Margin: London Irish by 1.9
 
 <p float="left">
 <img src="plots/performances_London Irish_V_Exeter Chiefs_9.png" width="32%" />
@@ -428,7 +428,7 @@ Average Margin: Leicester Tigers by 5.7
 #### Bristol Rugby V Gloucester Rugby on 2023/05/06
 
 
-Average Margin: Bristol Rugby by 2.3
+Average Margin: Bristol Rugby by 2.2
 
 <p float="left">
 <img src="plots/performances_Bristol Rugby_V_Gloucester Rugby_9.png" width="32%" />
@@ -450,7 +450,7 @@ Average Margin: Saracens by 8.8
 #### Sale Sharks V Newcastle Falcons on 2023/05/06
 
 
-Average Margin: Sale Sharks by 13.0
+Average Margin: Sale Sharks by 13.1
 
 <p float="left">
 <img src="plots/performances_Sale Sharks_V_Newcastle Falcons_9.png" width="32%" />

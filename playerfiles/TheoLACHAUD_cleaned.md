@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Theo LACHAUD  
-date: 2023-01-23 15:31:31.032547  
+date: 2023-02-28 11:06:06.038188  
 categories: player  
 ---
 # Theo LACHAUD
 
 ## Positions: H
 
-## Current elo: 85.0
+## Current elo: 81.0
 
-## Current Percentile: 27.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            28 |   0.392857 |
+| Aurillac |            29 |    0.37931 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Agen             |         2 |   0.5      |
 | Grenoble         |         2 |   0        |
 | Carcassonne      |         2 |   0        |
+| Vannes           |         2 |   0        |
 | Massy            |         1 |   1        |
 | Bayonne          |         1 |   0        |
 | Narbonne         |         1 |   1        |
@@ -41,4 +42,3 @@ categories: player
 | Rouen            |         1 |   0        |
 | Soyaux-Angouleme |         1 |   1        |
 | US Bressane      |         1 |   0        |
-| Vannes           |         1 |   0        |

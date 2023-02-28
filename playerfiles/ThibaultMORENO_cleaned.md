@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault MORENO  
-date: 2023-02-24 14:44:56.618277  
+date: 2023-02-28 11:02:26.466522  
 categories: player  
 ---
 # Thibault MORENO
 
 ## Positions: FH
 
-## Current elo: 82.0
+## Current elo: 88.0
 
-## Current Percentile: 22.0
+## Current Percentile: 43.0
 
 # Elo History
 

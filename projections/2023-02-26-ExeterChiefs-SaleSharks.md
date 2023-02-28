@@ -9,7 +9,7 @@ categories: match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.619, which translates to predicting Exeter Chiefs to win by 4.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.619, which translates to predicting Exeter Chiefs to win by 4.2.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -41,9 +41,9 @@ Exeter Chiefs by 8.4 on a neutral field
 | [Ewan Ashman](..//playerfiles//EwanAshman_cleaned.md)             |      89.88 |                34 |        2 |                67 |      99.7  | [Jack Innard](..//playerfiles//JackInnard_cleaned.md)                   |
 | [Coenie Oosthuizen](..//playerfiles//CoenieOosthuizen_cleaned.md) |     120.64 |                96 |        3 |                89 |     111.21 | [Harry Williams](..//playerfiles//HarryWilliams_cleaned.md)             |
 | [Cobus Wiese](..//playerfiles//CobusWiese_cleaned.md)             |      91.18 |                37 |        4 |                93 |     119.93 | [Jannes Kirsten](..//playerfiles//JannesKirsten_cleaned.md)             |
-| [Jonny Hill](..//playerfiles//JonnyHill_cleaned.md)               |      97.95 |                60 |        5 |                81 |     110.06 | [Jack Dunne](..//playerfiles//JackDunne_cleaned.md)                     |
+| [Jonny Hill](..//playerfiles//JonnyHill_cleaned.md)               |      97.95 |                60 |        5 |                80 |     110.06 | [Jack Dunne](..//playerfiles//JackDunne_cleaned.md)                     |
 | [Jono Ross](..//playerfiles//JonoRoss_cleaned.md)                 |     100.5  |                67 |        6 |                98 |     135.02 | [Dave Ewers](..//playerfiles//DaveEwers_cleaned.md)                     |
-| [Jean-Luc du Preez](..//playerfiles//Jean-LucduPreez_cleaned.md)  |     110.34 |                83 |        8 |                94 |     122.63 | [Sam Simmonds](..//playerfiles//SamSimmonds_cleaned.md)                 |
+| [Jean-Luc du Preez](..//playerfiles//Jean-LucduPreez_cleaned.md)  |     110.34 |                84 |        8 |                94 |     122.63 | [Sam Simmonds](..//playerfiles//SamSimmonds_cleaned.md)                 |
 | [Gus Warr](..//playerfiles//GusWarr_cleaned.md)                   |      77.36 |                10 |        9 |                 3 |      65.95 | [Sam Maunder](..//playerfiles//SamMaunder_cleaned.md)                   |
 | [George Ford](..//playerfiles//GeorgeFord_cleaned.md)             |     116    |                89 |       10 |                72 |     103.01 | [Harvey Skinner](..//playerfiles//HarveySkinner_cleaned.md)             |
 | [Tom O'Flaherty](..//playerfiles//TomO'Flaherty_cleaned.md)       |      87    |                25 |       11 |                97 |     128.61 | [Olly Woodburn](..//playerfiles//OllyWoodburn_cleaned.md)               |
@@ -51,8 +51,8 @@ Exeter Chiefs by 8.4 on a neutral field
 | [Robert du Preez](..//playerfiles//RobertduPreez_cleaned.md)      |     107.95 |                82 |       13 |                53 |      95.84 | [Ian Whitten](..//playerfiles//IanWhitten_cleaned.md)                   |
 | [Tom Roebuck](..//playerfiles//TomRoebuck_cleaned.md)             |     105.75 |                79 |       14 |                13 |      79.93 | [Jack Nowell](..//playerfiles//JackNowell_cleaned.md)                   |
 | [Joe Carpenter](..//playerfiles//JoeCarpenter_cleaned.md)         |      63.97 |                 5 |       15 |                24 |      83.63 | [Josh Hodge](..//playerfiles//JoshHodge_cleaned.md)                     |
-| [Nic Schonert](..//playerfiles//NicSchonert_cleaned.md)           |      88.56 |                26 |       18 |                75 |     106.42 | [Patrick Schickerling](..//playerfiles//PatrickSchickerling_cleaned.md) |
-| [Raffi Quirke](..//playerfiles//RaffiQuirke_cleaned.md)           |     103.18 |                77 |       21 |                16 |      82.31 | [Jack Maunder](..//playerfiles//JackMaunder_cleaned.md)                 |
+| [Nic Schonert](..//playerfiles//NicSchonert_cleaned.md)           |      88.56 |                27 |       18 |                75 |     106.42 | [Patrick Schickerling](..//playerfiles//PatrickSchickerling_cleaned.md) |
+| [Raffi Quirke](..//playerfiles//RaffiQuirke_cleaned.md)           |     103.18 |                77 |       21 |                17 |      82.31 | [Jack Maunder](..//playerfiles//JackMaunder_cleaned.md)                 |
 | [Sam James](..//playerfiles//SamJames_cleaned.md)                 |     124.54 |                96 |       22 |                89 |     115.88 | [Joe Simmonds](..//playerfiles//JoeSimmonds_cleaned.md)                 |
 | [Arron Reed](..//playerfiles//ArronReed_cleaned.md)               |     102.11 |                71 |       23 |                32 |      86.37 | [Tom Hendrickson](..//playerfiles//TomHendrickson_cleaned.md)           |
 

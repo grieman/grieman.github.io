@@ -42,7 +42,7 @@ Bristol Rugby by 7.9 on a neutral field
 | [Max Lahiff](..//playerfiles//MaxLahiff_cleaned.md)           |      95.7  |                52 |        3 |                 0 |      43.52 | [D'Arcy Rae](..//playerfiles//D'ArcyRae_cleaned.md)            |
 | [Joe Joyce](..//playerfiles//JoeJoyce_cleaned.md)             |     144.01 |                99 |        4 |                76 |     105.2  | [Dave Attwood](..//playerfiles//DaveAttwood_cleaned.md)        |
 | [Chris Vui](..//playerfiles//ChrisVui_cleaned.md)             |     110.75 |                85 |        5 |                94 |     120.68 | [Quinn Roux](..//playerfiles//QuinnRoux_cleaned.md)            |
-| [Fitz Harding](..//playerfiles//FitzHarding_cleaned.md)       |     111.31 |                86 |        7 |                53 |      95.93 | [Sam Underhill](..//playerfiles//SamUnderhill_cleaned.md)      |
+| [Fitz Harding](..//playerfiles//FitzHarding_cleaned.md)       |     111.31 |                85 |        7 |                53 |      95.93 | [Sam Underhill](..//playerfiles//SamUnderhill_cleaned.md)      |
 | [Magnus Bradbury](..//playerfiles//MagnusBradbury_cleaned.md) |      90.15 |                33 |        8 |                92 |     119.15 | [Miles Reid](..//playerfiles//MilesReid_cleaned.md)            |
 | [Harry Randall](..//playerfiles//HarryRandall_cleaned.md)     |     109.4  |                86 |        9 |                92 |     113.24 | [Ben Spencer](..//playerfiles//BenSpencer_cleaned.md)          |
 | [AJ MacGinty](..//playerfiles//AJMacGinty_cleaned.md)         |     109.3  |                84 |       10 |                93 |     123.55 | [Piers Francis](..//playerfiles//PiersFrancis_cleaned.md)      |

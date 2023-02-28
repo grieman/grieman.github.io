@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Waël PONPON  
-date: 2023-02-24 14:46:48.341622  
+date: 2023-02-28 11:08:25.749539  
 categories: player  
 ---
 # Waël PONPON
 
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 100.0
 
-## Current Percentile: 24.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            54 |   0.527778 |
+| Colomiers |            55 |   0.536364 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -38,8 +38,8 @@ categories: player
 | Beziers                    |         3 |   0.333333 |
 | Narbonne                   |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   1        |
+| Agen                       |         2 |   0.5      |
 | Massy                      |         1 |   1        |
 | Bayonne                    |         1 |   0        |
 | US Bressane                |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
-| Agen                       |         1 |   0        |

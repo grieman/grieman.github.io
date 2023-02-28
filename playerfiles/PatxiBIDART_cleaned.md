@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Patxi BIDART  
-date: 2023-02-24 14:46:01.874654  
+date: 2023-02-28 11:03:42.719558  
 categories: player  
 ---
 # Patxi BIDART
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 16.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            34 |   0.558824 |
+| Soyaux-Angouleme |            35 |   0.571429 |
 | Mont-de-Marsan   |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -42,9 +42,10 @@ categories: player
 | Provence Rugby             |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
 | Nice                       |         1 |   1        |
-| Dijon                      |         1 |   0        |
-| Mont-de-Marsan             |         1 |   0        |
 | Grenoble                   |         1 |   0        |
+| Montauban                  |         1 |   1        |
+| Mont-de-Marsan             |         1 |   0        |
+| Dijon                      |         1 |   0        |
 | Dax                        |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Chambery                   |         1 |   0        |

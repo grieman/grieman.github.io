@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémy Baget  
-date: 2023-02-24 14:46:46.104273  
+date: 2023-02-28 11:06:32.130069  
 categories: player  
 ---
 # Rémy Baget
 
 ## Positions: W
 
-## Current elo: 110.0
+## Current elo: 118.0
 
-## Current Percentile: 90.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |             8 |     0.5625 |
+| Bayonne |             8 |     0.6875 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bordeaux Begles      |         1 |        0   |
 | Brive                |         1 |        1   |
+| Castres Olympique    |         1 |        1   |
 | Lyon                 |         1 |        1   |
-| Montpellier Herault  |         1 |        0   |
 | Pau                  |         1 |        0.5 |
 | Stade Francais Paris |         1 |        1   |
 | Stade Toulousain     |         1 |        0   |

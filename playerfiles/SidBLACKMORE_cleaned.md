@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sid BLACKMORE  
-date: 2023-02-06 16:02:30.294036  
+date: 2023-02-28 11:03:41.117830  
 categories: player  
 ---
 # Sid BLACKMORE
 
 ## Positions: H, FL
 
-## Current elo: 106.0
+## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Ampthill        |            28 |   0.517857 |
+| Ampthill        |            29 |   0.534483 |
 | Cornish Pirates |             8 |   0.6875   |
 
 | Opponent            |   Matches |   Win Rate |
@@ -34,8 +34,8 @@ categories: player
 | Coventry            |         3 |   0.333333 |
 | Doncaster           |         3 |   0.666667 |
 | Ealing Trailfinders |         3 |   0        |
+| Nottingham          |         3 |   0.666667 |
 | Ampthill            |         2 |   0.75     |
-| Nottingham          |         2 |   0.5      |
 | Yorkshire Carnegie  |         2 |   1        |
 | Richmond            |         1 |   1        |
 | Saracens            |         1 |   0        |

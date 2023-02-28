@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaetan Pichon  
-date: 2023-02-26 11:20:09.794150  
+date: 2023-02-28 11:08:48.382036  
 categories: player  
 ---
 # Gaetan Pichon

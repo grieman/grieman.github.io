@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zack HENRY  
-date: 2023-02-24 14:47:21.795217  
+date: 2023-02-28 11:05:19.306847  
 categories: player  
 ---
 # Zack HENRY
 
 ## Positions: FH, FB
 
-## Current elo: 128.0
+## Current elo: 129.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,20 +23,20 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Nevers           |            36 |   0.680556 |
 | Leicester Tigers |            29 |   0.448276 |
-| Pau              |            24 |   0.458333 |
+| Pau              |            25 |   0.48     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Biarritz Olympique   |         5 |   0.8      |
 | Provence Rugby       |         4 |   0.5      |
 | Vannes               |         4 |   0.5      |
+| Brive                |         4 |   0.5      |
 | Colomiers            |         4 |   0.5      |
 | Perpignan            |         4 |   1        |
 | Harlequins           |         3 |   0.333333 |
 | Wasps                |         3 |   0.666667 |
 | Toulon               |         3 |   0        |
 | Stade Francais Paris |         3 |   0.333333 |
-| Brive                |         3 |   0.333333 |
 | London Irish         |         3 |   0.666667 |
 | Sale Sharks          |         3 |   0        |
 | Montpellier Herault  |         3 |   0.333333 |

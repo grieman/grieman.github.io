@@ -35,7 +35,7 @@ categories: model review projection
 #### Germany V Netherlands on 2023/02/18
 
 
-Average Margin: Netherlands by 0.6
+Average Margin: Netherlands by 0.1
 
 <p float="left">
 <img src="plots/performances_Germany_V_Netherlands_3.png" width="32%" />
@@ -46,7 +46,7 @@ Average Margin: Netherlands by 0.6
 #### Spain V Georgia on 2023/02/18
 
 
-Average Margin: Georgia by 13.8
+Average Margin: Georgia by 14.0
 
 <p float="left">
 <img src="plots/performances_Spain_V_Georgia_3.png" width="32%" />
@@ -57,7 +57,7 @@ Average Margin: Georgia by 13.8
 #### Poland V Belgium on 2023/02/18
 
 
-Average Margin: Belgium by 42.3
+Average Margin: Belgium by 43.3
 
 <p float="left">
 <img src="plots/performances_Poland_V_Belgium_3.png" width="32%" />
@@ -68,7 +68,7 @@ Average Margin: Belgium by 42.3
 #### Portugal V Romania on 2023/02/19
 
 
-Average Margin: Portugal by 8.9
+Average Margin: Portugal by 8.6
 
 <p float="left">
 <img src="plots/performances_Portugal_V_Romania_3.png" width="32%" />
