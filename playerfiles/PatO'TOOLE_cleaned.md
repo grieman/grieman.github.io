@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pat O'TOOLE  
-date: 2023-02-26 11:19:33.739099  
+date: 2023-03-02 11:27:58.360770  
 categories: player  
 ---
 # Pat O'TOOLE
 
 ## Positions: H
 
-## Current elo: 54.0
+## Current elo: 57.0
 
-## Current Percentile: 9.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| NOLA Gold         |            25 |   0.56     |
+| NOLA Gold         |            26 |   0.538462 |
 | Houston SaberCats |            18 |   0.333333 |
 | San Diego Legion  |             3 |   1        |
 
@@ -38,8 +38,8 @@ categories: player
 | San Diego Legion       |         3 |   0        |
 | Toronto Arrows         |         3 |   0.333333 |
 | Utah Warriors          |         3 |   1        |
+| Houston SaberCats      |         2 |   0.5      |
 | Old Glory DC           |         2 |   1        |
 | Austin Gilgronis       |         1 |   0        |
 | Dallas Jackals         |         1 |   1        |
-| Houston SaberCats      |         1 |   1        |
 | L. A. Giltinis         |         1 |   1        |

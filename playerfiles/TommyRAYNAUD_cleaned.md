@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tommy RAYNAUD  
-date: 2023-02-28 11:07:02.333695  
+date: 2023-03-02 11:27:45.735226  
 categories: player  
 ---
 # Tommy RAYNAUD
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 79.0
 
-## Current Percentile: 16.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |           149 |   0.577181 |
-| Narbonne |            27 |   0.37037  |
+| Oyonnax  |           150 |    0.58    |
+| Narbonne |            27 |    0.37037 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,9 +37,9 @@ categories: player
 | Biarritz Olympique         |         8 |   0.25     |
 | Grenoble                   |         7 |   0.428571 |
 | Nevers                     |         6 |   0.666667 |
+| Soyaux-Angouleme           |         6 |   1        |
 | Agen                       |         6 |   0.666667 |
 | Perpignan                  |         5 |   0.2      |
-| Soyaux-Angouleme           |         5 |   1        |
 | Bayonne                    |         5 |   0.4      |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Rouen                      |         4 |   0.75     |
@@ -50,17 +50,17 @@ categories: player
 | US Bressane                |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
 | Lyon                       |         3 |   0.666667 |
-| Dax                        |         2 |   0.5      |
+| Castres Olympique          |         2 |   0        |
 | Toulon                     |         2 |   0.5      |
 | Stade Toulousain           |         2 |   0.25     |
 | Stade Francais Paris       |         2 |   0.5      |
 | Bordeaux Begles            |         2 |   0.5      |
-| Castres Olympique          |         2 |   0        |
 | La Rochelle                |         2 |   0.25     |
+| Dax                        |         2 |   0.5      |
 | Roval Drome XV             |         1 |   1        |
+| Clermont Auvergne          |         1 |   1        |
 | Racing 92                  |         1 |   0        |
 | Tarbes                     |         1 |   1        |
-| Connacht                   |         1 |   0        |
 | Montpellier Herault        |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Clermont Auvergne          |         1 |   1        |
+| Connacht                   |         1 |   0        |

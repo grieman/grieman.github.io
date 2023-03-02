@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Micky YOUNG  
-date: 2023-02-28 11:03:10.358938  
+date: 2023-03-02 11:24:12.914018  
 categories: player  
 ---
 # Micky YOUNG
 
 ## Positions: SH
 
-## Current elo: 118.0
+## Current elo: 114.0
 
-## Current Percentile: 97.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |           191 |   0.439791 |
+| Newcastle Falcons |           192 |   0.4375   |
 | Bath Rugby        |            39 |   0.653846 |
 | Leicester Tigers  |            20 |   0.65     |
 
@@ -31,9 +31,9 @@ categories: player
 | Gloucester Rugby       |        20 |   0.5      |
 | Bath Rugby             |        17 |   0.352941 |
 | Wasps                  |        17 |   0.352941 |
+| Saracens               |        17 |   0.117647 |
 | Sale Sharks            |        17 |   0.558824 |
 | Leicester Tigers       |        16 |   0.3125   |
-| Saracens               |        16 |   0.125    |
 | Exeter Chiefs          |        15 |   0.333333 |
 | Northampton Saints     |        13 |   0.346154 |
 | London Irish           |        13 |   0.5      |

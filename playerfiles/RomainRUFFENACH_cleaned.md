@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain RUFFENACH  
-date: 2023-02-28 11:04:01.273393  
+date: 2023-02-28 13:54:59.659528  
 categories: player  
 ---
 # Romain RUFFENACH

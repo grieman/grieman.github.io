@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Theo LACHAUD  
-date: 2023-02-28 11:06:06.038188  
+date: 2023-03-02 11:25:23.477354  
 categories: player  
 ---
 # Theo LACHAUD
 
 ## Positions: H
 
-## Current elo: 81.0
+## Current elo: 80.0
 
 ## Current Percentile: 16.0
 

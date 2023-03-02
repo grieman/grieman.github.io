@@ -84,7 +84,7 @@ categories: model review projection
 | Harlequins V Sale Sharks on 2023/01/08               |       -8 |               -14   |                -14.2 |               3.1 |
 | London Irish V Bristol Rugby on 2023/01/08           |       16 |                 5.8 |                  7.2 |               5   |
 | Sale Sharks V Bath Rugby on 2023/01/27               |        3 |                -0.3 |                  0.8 |              13.1 |
-| Leicester Tigers V Northampton Saints on 2023/01/28  |       -1 |                 5.9 |                  9.5 |               9.3 |
+| Leicester Tigers V Northampton Saints on 2023/01/28  |       -1 |                 6   |                  9.5 |               9.3 |
 | Exeter Chiefs V Gloucester Rugby on 2023/01/28       |        7 |                 3.6 |                  3.9 |               6.5 |
 | Saracens V Bristol Rugby on 2023/01/28               |        1 |                 6.5 |                  4.3 |              12.8 |
 | London Irish V Harlequins on 2023/01/29              |       18 |                17.7 |                 10.1 |               1.8 |
@@ -93,87 +93,79 @@ categories: model review projection
 | Bath Rugby V London Irish on 2023/02/18              |      -15 |                 3.4 |                  2.9 |              -1.5 |
 | Northampton Saints V Sale Sharks on 2023/02/18       |        4 |                 0.7 |                 -3.1 |               0.1 |
 | Leicester Tigers V Saracens on 2023/02/19            |        6 |                 4.8 |                  6.2 |               0.1 |
-| Wasps V London Irish on 2023/01/29                   |      -42 |               nan   |                nan   |               4.5 |
+| Bath Rugby V Bristol Rugby on 2023/02/24             |       -2 |                -6.9 |                 -7.4 |               0.1 |
+| Saracens V Newcastle Falcons on 2023/02/25           |        6 |                 0.5 |                 -0.6 |              17.6 |
+| Northampton Saints V Gloucester Rugby on 2023/02/25  |        7 |                 6.1 |                  5   |               2.9 |
+| London Irish V Leicester Tigers on 2023/02/25        |       -3 |                15.4 |                 17.5 |               2.9 |
+| Exeter Chiefs V Sale Sharks on 2023/02/26            |        2 |                13.5 |                 14.2 |               4.1 |
 | Bath Rugby V Saracens on 2023/01/28                  |      -20 |               nan   |                nan   |              -7.8 |
+| Wasps V London Irish on 2023/01/29                   |      -42 |               nan   |                nan   |               4.5 |
 | Harlequins V Sale Sharks on 2023/01/27               |      -30 |               nan   |                nan   |               3.1 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 10.5 | 10.7 | 10.6 |
-| Correct Winner |       - | 65.9% | 70.7% | 71.8% |
+| Average Error |       - | 10.3 | 10.6 | 10.3 |
+| Correct Winner |       - | 66.7% | 70.1% | 71.1% |
 
 
 ## Future Club-Level Match Predictions
 
-### Week 12
-
-#### Bath Rugby V Wasps on 2022/09/23
-
-
-Average Margin: Wasps by 0.0
-
-<p float="left">
-<img src="plots/performances_Bath Rugby_V_Wasps_12.png" width="32%" />
-<img src="plots/resultbar_Bath Rugby_V_Wasps_12.png" width="32%" />
-<img src="plots/spreads_Bath Rugby_V_Wasps_12.png" width="32%" />
-</p>
-
-### Week 4
+### Week 5
 
 #### Bristol Rugby V Northampton Saints on 2023/03/03
 
 
-Average Margin: Bristol Rugby by 3.6
+Average Margin: Bristol Rugby by 3.5
 
 <p float="left">
-<img src="plots/performances_Bristol Rugby_V_Northampton Saints_4.png" width="32%" />
-<img src="plots/resultbar_Bristol Rugby_V_Northampton Saints_4.png" width="32%" />
-<img src="plots/spreads_Bristol Rugby_V_Northampton Saints_4.png" width="32%" />
+<img src="plots/performances_Bristol Rugby_V_Northampton Saints_5.png" width="32%" />
+<img src="plots/resultbar_Bristol Rugby_V_Northampton Saints_5.png" width="32%" />
+<img src="plots/spreads_Bristol Rugby_V_Northampton Saints_5.png" width="32%" />
 </p>
 
 #### Leicester Tigers V Bath Rugby on 2023/03/04
 
 
-Average Margin: Leicester Tigers by 11.7
+Average Margin: Leicester Tigers by 11.9
 
 <p float="left">
-<img src="plots/performances_Leicester Tigers_V_Bath Rugby_4.png" width="32%" />
-<img src="plots/resultbar_Leicester Tigers_V_Bath Rugby_4.png" width="32%" />
-<img src="plots/spreads_Leicester Tigers_V_Bath Rugby_4.png" width="32%" />
+<img src="plots/performances_Leicester Tigers_V_Bath Rugby_5.png" width="32%" />
+<img src="plots/resultbar_Leicester Tigers_V_Bath Rugby_5.png" width="32%" />
+<img src="plots/spreads_Leicester Tigers_V_Bath Rugby_5.png" width="32%" />
 </p>
 
 #### Harlequins V Exeter Chiefs on 2023/03/04
 
 
-Average Margin: Harlequins by 0.7
+Average Margin: Harlequins by 0.6
 
 <p float="left">
-<img src="plots/performances_Harlequins_V_Exeter Chiefs_4.png" width="32%" />
-<img src="plots/resultbar_Harlequins_V_Exeter Chiefs_4.png" width="32%" />
-<img src="plots/spreads_Harlequins_V_Exeter Chiefs_4.png" width="32%" />
+<img src="plots/performances_Harlequins_V_Exeter Chiefs_5.png" width="32%" />
+<img src="plots/resultbar_Harlequins_V_Exeter Chiefs_5.png" width="32%" />
+<img src="plots/spreads_Harlequins_V_Exeter Chiefs_5.png" width="32%" />
 </p>
 
 #### Newcastle Falcons V London Irish on 2023/03/05
 
 
-Average Margin: London Irish by 4.5
+Average Margin: London Irish by 4.0
 
 <p float="left">
-<img src="plots/performances_Newcastle Falcons_V_London Irish_4.png" width="32%" />
-<img src="plots/resultbar_Newcastle Falcons_V_London Irish_4.png" width="32%" />
-<img src="plots/spreads_Newcastle Falcons_V_London Irish_4.png" width="32%" />
+<img src="plots/performances_Newcastle Falcons_V_London Irish_5.png" width="32%" />
+<img src="plots/resultbar_Newcastle Falcons_V_London Irish_5.png" width="32%" />
+<img src="plots/spreads_Newcastle Falcons_V_London Irish_5.png" width="32%" />
 </p>
 
 #### Sale Sharks V Saracens on 2023/03/05
 
 
-Average Margin: Saracens by 0.1
+Average Margin: Sale Sharks by 0.3
 
 <p float="left">
-<img src="plots/performances_Sale Sharks_V_Saracens_4.png" width="32%" />
-<img src="plots/resultbar_Sale Sharks_V_Saracens_4.png" width="32%" />
-<img src="plots/spreads_Sale Sharks_V_Saracens_4.png" width="32%" />
+<img src="plots/performances_Sale Sharks_V_Saracens_5.png" width="32%" />
+<img src="plots/resultbar_Sale Sharks_V_Saracens_5.png" width="32%" />
+<img src="plots/spreads_Sale Sharks_V_Saracens_5.png" width="32%" />
 </p>
 
-### Week 5
+### Week 6
 
 #### Northampton Saints V Bath Rugby on 2023/03/10
 
@@ -181,88 +173,88 @@ Average Margin: Saracens by 0.1
 Average Margin: Northampton Saints by 8.1
 
 <p float="left">
-<img src="plots/performances_Northampton Saints_V_Bath Rugby_5.png" width="32%" />
-<img src="plots/resultbar_Northampton Saints_V_Bath Rugby_5.png" width="32%" />
-<img src="plots/spreads_Northampton Saints_V_Bath Rugby_5.png" width="32%" />
+<img src="plots/performances_Northampton Saints_V_Bath Rugby_6.png" width="32%" />
+<img src="plots/resultbar_Northampton Saints_V_Bath Rugby_6.png" width="32%" />
+<img src="plots/spreads_Northampton Saints_V_Bath Rugby_6.png" width="32%" />
 </p>
 
 #### London Irish V Sale Sharks on 2023/03/11
 
 
-Average Margin: London Irish by 1.3
+Average Margin: London Irish by 1.0
 
 <p float="left">
-<img src="plots/performances_London Irish_V_Sale Sharks_5.png" width="32%" />
-<img src="plots/resultbar_London Irish_V_Sale Sharks_5.png" width="32%" />
-<img src="plots/spreads_London Irish_V_Sale Sharks_5.png" width="32%" />
+<img src="plots/performances_London Irish_V_Sale Sharks_6.png" width="32%" />
+<img src="plots/resultbar_London Irish_V_Sale Sharks_6.png" width="32%" />
+<img src="plots/spreads_London Irish_V_Sale Sharks_6.png" width="32%" />
 </p>
 
 #### Exeter Chiefs V Newcastle Falcons on 2023/03/11
 
 
-Average Margin: Exeter Chiefs by 12.6
+Average Margin: Exeter Chiefs by 12.5
 
 <p float="left">
-<img src="plots/performances_Exeter Chiefs_V_Newcastle Falcons_5.png" width="32%" />
-<img src="plots/resultbar_Exeter Chiefs_V_Newcastle Falcons_5.png" width="32%" />
-<img src="plots/spreads_Exeter Chiefs_V_Newcastle Falcons_5.png" width="32%" />
+<img src="plots/performances_Exeter Chiefs_V_Newcastle Falcons_6.png" width="32%" />
+<img src="plots/resultbar_Exeter Chiefs_V_Newcastle Falcons_6.png" width="32%" />
+<img src="plots/spreads_Exeter Chiefs_V_Newcastle Falcons_6.png" width="32%" />
 </p>
 
 #### Gloucester Rugby V Leicester Tigers on 2023/03/12
 
 
-Average Margin: Gloucester Rugby by 1.1
+Average Margin: Gloucester Rugby by 1.0
 
 <p float="left">
-<img src="plots/performances_Gloucester Rugby_V_Leicester Tigers_5.png" width="32%" />
-<img src="plots/resultbar_Gloucester Rugby_V_Leicester Tigers_5.png" width="32%" />
-<img src="plots/spreads_Gloucester Rugby_V_Leicester Tigers_5.png" width="32%" />
+<img src="plots/performances_Gloucester Rugby_V_Leicester Tigers_6.png" width="32%" />
+<img src="plots/resultbar_Gloucester Rugby_V_Leicester Tigers_6.png" width="32%" />
+<img src="plots/spreads_Gloucester Rugby_V_Leicester Tigers_6.png" width="32%" />
 </p>
 
 #### Bristol Rugby V Harlequins on 2023/03/12
 
 
-Average Margin: Bristol Rugby by 2.5
+Average Margin: Bristol Rugby by 2.8
 
 <p float="left">
-<img src="plots/performances_Bristol Rugby_V_Harlequins_5.png" width="32%" />
-<img src="plots/resultbar_Bristol Rugby_V_Harlequins_5.png" width="32%" />
-<img src="plots/spreads_Bristol Rugby_V_Harlequins_5.png" width="32%" />
+<img src="plots/performances_Bristol Rugby_V_Harlequins_6.png" width="32%" />
+<img src="plots/resultbar_Bristol Rugby_V_Harlequins_6.png" width="32%" />
+<img src="plots/spreads_Bristol Rugby_V_Harlequins_6.png" width="32%" />
 </p>
 
-### Week 6
+### Week 7
 
 #### Newcastle Falcons V Gloucester Rugby on 2023/03/25
 
 
-Average Margin: Gloucester Rugby by 3.6
+Average Margin: Gloucester Rugby by 3.1
 
 <p float="left">
-<img src="plots/performances_Newcastle Falcons_V_Gloucester Rugby_6.png" width="32%" />
-<img src="plots/resultbar_Newcastle Falcons_V_Gloucester Rugby_6.png" width="32%" />
-<img src="plots/spreads_Newcastle Falcons_V_Gloucester Rugby_6.png" width="32%" />
+<img src="plots/performances_Newcastle Falcons_V_Gloucester Rugby_7.png" width="32%" />
+<img src="plots/resultbar_Newcastle Falcons_V_Gloucester Rugby_7.png" width="32%" />
+<img src="plots/spreads_Newcastle Falcons_V_Gloucester Rugby_7.png" width="32%" />
 </p>
 
 #### London Irish V Northampton Saints on 2023/03/25
 
 
-Average Margin: London Irish by 5.5
+Average Margin: London Irish by 5.3
 
 <p float="left">
-<img src="plots/performances_London Irish_V_Northampton Saints_6.png" width="32%" />
-<img src="plots/resultbar_London Irish_V_Northampton Saints_6.png" width="32%" />
-<img src="plots/spreads_London Irish_V_Northampton Saints_6.png" width="32%" />
+<img src="plots/performances_London Irish_V_Northampton Saints_7.png" width="32%" />
+<img src="plots/resultbar_London Irish_V_Northampton Saints_7.png" width="32%" />
+<img src="plots/spreads_London Irish_V_Northampton Saints_7.png" width="32%" />
 </p>
 
 #### Leicester Tigers V Bristol Rugby on 2023/03/25
 
 
-Average Margin: Leicester Tigers by 6.6
+Average Margin: Leicester Tigers by 6.9
 
 <p float="left">
-<img src="plots/performances_Leicester Tigers_V_Bristol Rugby_6.png" width="32%" />
-<img src="plots/resultbar_Leicester Tigers_V_Bristol Rugby_6.png" width="32%" />
-<img src="plots/spreads_Leicester Tigers_V_Bristol Rugby_6.png" width="32%" />
+<img src="plots/performances_Leicester Tigers_V_Bristol Rugby_7.png" width="32%" />
+<img src="plots/resultbar_Leicester Tigers_V_Bristol Rugby_7.png" width="32%" />
+<img src="plots/spreads_Leicester Tigers_V_Bristol Rugby_7.png" width="32%" />
 </p>
 
 #### Bath Rugby V Exeter Chiefs on 2023/03/25
@@ -271,189 +263,189 @@ Average Margin: Leicester Tigers by 6.6
 Average Margin: Exeter Chiefs by 5.2
 
 <p float="left">
-<img src="plots/performances_Bath Rugby_V_Exeter Chiefs_6.png" width="32%" />
-<img src="plots/resultbar_Bath Rugby_V_Exeter Chiefs_6.png" width="32%" />
-<img src="plots/spreads_Bath Rugby_V_Exeter Chiefs_6.png" width="32%" />
+<img src="plots/performances_Bath Rugby_V_Exeter Chiefs_7.png" width="32%" />
+<img src="plots/resultbar_Bath Rugby_V_Exeter Chiefs_7.png" width="32%" />
+<img src="plots/spreads_Bath Rugby_V_Exeter Chiefs_7.png" width="32%" />
 </p>
 
 #### Saracens V Harlequins on 2023/03/25
 
 
-Average Margin: Saracens by 9.6
+Average Margin: Saracens by 9.2
 
 <p float="left">
-<img src="plots/performances_Saracens_V_Harlequins_6.png" width="32%" />
-<img src="plots/resultbar_Saracens_V_Harlequins_6.png" width="32%" />
-<img src="plots/spreads_Saracens_V_Harlequins_6.png" width="32%" />
+<img src="plots/performances_Saracens_V_Harlequins_7.png" width="32%" />
+<img src="plots/resultbar_Saracens_V_Harlequins_7.png" width="32%" />
+<img src="plots/spreads_Saracens_V_Harlequins_7.png" width="32%" />
 </p>
 
-### Week 7
+### Week 8
 
 #### Bristol Rugby V Sale Sharks on 2023/04/15
 
 
-Average Margin: Sale Sharks by 0.4
+Average Margin: Sale Sharks by 0.5
 
 <p float="left">
-<img src="plots/performances_Bristol Rugby_V_Sale Sharks_7.png" width="32%" />
-<img src="plots/resultbar_Bristol Rugby_V_Sale Sharks_7.png" width="32%" />
-<img src="plots/spreads_Bristol Rugby_V_Sale Sharks_7.png" width="32%" />
+<img src="plots/performances_Bristol Rugby_V_Sale Sharks_8.png" width="32%" />
+<img src="plots/resultbar_Bristol Rugby_V_Sale Sharks_8.png" width="32%" />
+<img src="plots/spreads_Bristol Rugby_V_Sale Sharks_8.png" width="32%" />
 </p>
 
 #### Leicester Tigers V Exeter Chiefs on 2023/04/15
 
 
-Average Margin: Leicester Tigers by 3.1
+Average Margin: Leicester Tigers by 3.2
 
 <p float="left">
-<img src="plots/performances_Leicester Tigers_V_Exeter Chiefs_7.png" width="32%" />
-<img src="plots/resultbar_Leicester Tigers_V_Exeter Chiefs_7.png" width="32%" />
-<img src="plots/spreads_Leicester Tigers_V_Exeter Chiefs_7.png" width="32%" />
+<img src="plots/performances_Leicester Tigers_V_Exeter Chiefs_8.png" width="32%" />
+<img src="plots/resultbar_Leicester Tigers_V_Exeter Chiefs_8.png" width="32%" />
+<img src="plots/spreads_Leicester Tigers_V_Exeter Chiefs_8.png" width="32%" />
 </p>
 
 #### Gloucester Rugby V Bath Rugby on 2023/04/15
 
 
-Average Margin: Gloucester Rugby by 9.5
+Average Margin: Gloucester Rugby by 9.3
 
 <p float="left">
-<img src="plots/performances_Gloucester Rugby_V_Bath Rugby_7.png" width="32%" />
-<img src="plots/resultbar_Gloucester Rugby_V_Bath Rugby_7.png" width="32%" />
-<img src="plots/spreads_Gloucester Rugby_V_Bath Rugby_7.png" width="32%" />
+<img src="plots/performances_Gloucester Rugby_V_Bath Rugby_8.png" width="32%" />
+<img src="plots/resultbar_Gloucester Rugby_V_Bath Rugby_8.png" width="32%" />
+<img src="plots/spreads_Gloucester Rugby_V_Bath Rugby_8.png" width="32%" />
 </p>
 
 #### Harlequins V Newcastle Falcons on 2023/04/15
 
 
-Average Margin: Harlequins by 10.4
+Average Margin: Harlequins by 9.8
 
 <p float="left">
-<img src="plots/performances_Harlequins_V_Newcastle Falcons_7.png" width="32%" />
-<img src="plots/resultbar_Harlequins_V_Newcastle Falcons_7.png" width="32%" />
-<img src="plots/spreads_Harlequins_V_Newcastle Falcons_7.png" width="32%" />
+<img src="plots/performances_Harlequins_V_Newcastle Falcons_8.png" width="32%" />
+<img src="plots/resultbar_Harlequins_V_Newcastle Falcons_8.png" width="32%" />
+<img src="plots/spreads_Harlequins_V_Newcastle Falcons_8.png" width="32%" />
 </p>
 
 #### Northampton Saints V Saracens on 2023/04/15
 
 
-Average Margin: Saracens by 3.9
+Average Margin: Saracens by 3.4
 
 <p float="left">
-<img src="plots/performances_Northampton Saints_V_Saracens_7.png" width="32%" />
-<img src="plots/resultbar_Northampton Saints_V_Saracens_7.png" width="32%" />
-<img src="plots/spreads_Northampton Saints_V_Saracens_7.png" width="32%" />
+<img src="plots/performances_Northampton Saints_V_Saracens_8.png" width="32%" />
+<img src="plots/resultbar_Northampton Saints_V_Saracens_8.png" width="32%" />
+<img src="plots/spreads_Northampton Saints_V_Saracens_8.png" width="32%" />
 </p>
 
-### Week 8
+### Week 9
 
 #### Exeter Chiefs V Bristol Rugby on 2023/04/22
 
 
-Average Margin: Exeter Chiefs by 6.8
+Average Margin: Exeter Chiefs by 6.7
 
 <p float="left">
-<img src="plots/performances_Exeter Chiefs_V_Bristol Rugby_8.png" width="32%" />
-<img src="plots/resultbar_Exeter Chiefs_V_Bristol Rugby_8.png" width="32%" />
-<img src="plots/spreads_Exeter Chiefs_V_Bristol Rugby_8.png" width="32%" />
+<img src="plots/performances_Exeter Chiefs_V_Bristol Rugby_9.png" width="32%" />
+<img src="plots/resultbar_Exeter Chiefs_V_Bristol Rugby_9.png" width="32%" />
+<img src="plots/spreads_Exeter Chiefs_V_Bristol Rugby_9.png" width="32%" />
 </p>
 
 #### Gloucester Rugby V Sale Sharks on 2023/04/22
 
 
-Average Margin: Gloucester Rugby by 0.8
+Average Margin: Gloucester Rugby by 0.3
 
 <p float="left">
-<img src="plots/performances_Gloucester Rugby_V_Sale Sharks_8.png" width="32%" />
-<img src="plots/resultbar_Gloucester Rugby_V_Sale Sharks_8.png" width="32%" />
-<img src="plots/spreads_Gloucester Rugby_V_Sale Sharks_8.png" width="32%" />
+<img src="plots/performances_Gloucester Rugby_V_Sale Sharks_9.png" width="32%" />
+<img src="plots/resultbar_Gloucester Rugby_V_Sale Sharks_9.png" width="32%" />
+<img src="plots/spreads_Gloucester Rugby_V_Sale Sharks_9.png" width="32%" />
 </p>
 
 #### Harlequins V Bath Rugby on 2023/04/22
 
 
-Average Margin: Harlequins by 9.5
+Average Margin: Harlequins by 9.4
 
 <p float="left">
-<img src="plots/performances_Harlequins_V_Bath Rugby_8.png" width="32%" />
-<img src="plots/resultbar_Harlequins_V_Bath Rugby_8.png" width="32%" />
-<img src="plots/spreads_Harlequins_V_Bath Rugby_8.png" width="32%" />
+<img src="plots/performances_Harlequins_V_Bath Rugby_9.png" width="32%" />
+<img src="plots/resultbar_Harlequins_V_Bath Rugby_9.png" width="32%" />
+<img src="plots/spreads_Harlequins_V_Bath Rugby_9.png" width="32%" />
 </p>
 
 #### Newcastle Falcons V Northampton Saints on 2023/04/22
 
 
-Average Margin: Northampton Saints by 2.3
+Average Margin: Northampton Saints by 1.9
 
 <p float="left">
-<img src="plots/performances_Newcastle Falcons_V_Northampton Saints_8.png" width="32%" />
-<img src="plots/resultbar_Newcastle Falcons_V_Northampton Saints_8.png" width="32%" />
-<img src="plots/spreads_Newcastle Falcons_V_Northampton Saints_8.png" width="32%" />
+<img src="plots/performances_Newcastle Falcons_V_Northampton Saints_9.png" width="32%" />
+<img src="plots/resultbar_Newcastle Falcons_V_Northampton Saints_9.png" width="32%" />
+<img src="plots/spreads_Newcastle Falcons_V_Northampton Saints_9.png" width="32%" />
 </p>
 
 #### Saracens V London Irish on 2023/04/22
 
 
-Average Margin: Saracens by 8.6
+Average Margin: Saracens by 8.4
 
 <p float="left">
-<img src="plots/performances_Saracens_V_London Irish_8.png" width="32%" />
-<img src="plots/resultbar_Saracens_V_London Irish_8.png" width="32%" />
-<img src="plots/spreads_Saracens_V_London Irish_8.png" width="32%" />
+<img src="plots/performances_Saracens_V_London Irish_9.png" width="32%" />
+<img src="plots/resultbar_Saracens_V_London Irish_9.png" width="32%" />
+<img src="plots/spreads_Saracens_V_London Irish_9.png" width="32%" />
 </p>
 
-### Week 9
+### Week 10
 
 #### London Irish V Exeter Chiefs on 2023/05/06
 
 
-Average Margin: London Irish by 1.9
+Average Margin: London Irish by 1.5
 
 <p float="left">
-<img src="plots/performances_London Irish_V_Exeter Chiefs_9.png" width="32%" />
-<img src="plots/resultbar_London Irish_V_Exeter Chiefs_9.png" width="32%" />
-<img src="plots/spreads_London Irish_V_Exeter Chiefs_9.png" width="32%" />
+<img src="plots/performances_London Irish_V_Exeter Chiefs_10.png" width="32%" />
+<img src="plots/resultbar_London Irish_V_Exeter Chiefs_10.png" width="32%" />
+<img src="plots/spreads_London Irish_V_Exeter Chiefs_10.png" width="32%" />
 </p>
 
 #### Leicester Tigers V Harlequins on 2023/05/06
 
 
-Average Margin: Leicester Tigers by 5.7
+Average Margin: Leicester Tigers by 5.9
 
 <p float="left">
-<img src="plots/performances_Leicester Tigers_V_Harlequins_9.png" width="32%" />
-<img src="plots/resultbar_Leicester Tigers_V_Harlequins_9.png" width="32%" />
-<img src="plots/spreads_Leicester Tigers_V_Harlequins_9.png" width="32%" />
+<img src="plots/performances_Leicester Tigers_V_Harlequins_10.png" width="32%" />
+<img src="plots/resultbar_Leicester Tigers_V_Harlequins_10.png" width="32%" />
+<img src="plots/spreads_Leicester Tigers_V_Harlequins_10.png" width="32%" />
 </p>
 
 #### Bristol Rugby V Gloucester Rugby on 2023/05/06
 
 
-Average Margin: Bristol Rugby by 2.2
+Average Margin: Bristol Rugby by 2.5
 
 <p float="left">
-<img src="plots/performances_Bristol Rugby_V_Gloucester Rugby_9.png" width="32%" />
-<img src="plots/resultbar_Bristol Rugby_V_Gloucester Rugby_9.png" width="32%" />
-<img src="plots/spreads_Bristol Rugby_V_Gloucester Rugby_9.png" width="32%" />
+<img src="plots/performances_Bristol Rugby_V_Gloucester Rugby_10.png" width="32%" />
+<img src="plots/resultbar_Bristol Rugby_V_Gloucester Rugby_10.png" width="32%" />
+<img src="plots/spreads_Bristol Rugby_V_Gloucester Rugby_10.png" width="32%" />
 </p>
 
 #### Bath Rugby V Saracens on 2023/05/06
 
 
-Average Margin: Saracens by 8.8
+Average Margin: Saracens by 8.2
 
 <p float="left">
-<img src="plots/performances_Bath Rugby_V_Saracens_9.png" width="32%" />
-<img src="plots/resultbar_Bath Rugby_V_Saracens_9.png" width="32%" />
-<img src="plots/spreads_Bath Rugby_V_Saracens_9.png" width="32%" />
+<img src="plots/performances_Bath Rugby_V_Saracens_10.png" width="32%" />
+<img src="plots/resultbar_Bath Rugby_V_Saracens_10.png" width="32%" />
+<img src="plots/spreads_Bath Rugby_V_Saracens_10.png" width="32%" />
 </p>
 
 #### Sale Sharks V Newcastle Falcons on 2023/05/06
 
 
-Average Margin: Sale Sharks by 13.1
+Average Margin: Sale Sharks by 12.7
 
 <p float="left">
-<img src="plots/performances_Sale Sharks_V_Newcastle Falcons_9.png" width="32%" />
-<img src="plots/resultbar_Sale Sharks_V_Newcastle Falcons_9.png" width="32%" />
-<img src="plots/spreads_Sale Sharks_V_Newcastle Falcons_9.png" width="32%" />
+<img src="plots/performances_Sale Sharks_V_Newcastle Falcons_10.png" width="32%" />
+<img src="plots/resultbar_Sale Sharks_V_Newcastle Falcons_10.png" width="32%" />
+<img src="plots/spreads_Sale Sharks_V_Newcastle Falcons_10.png" width="32%" />
 </p>

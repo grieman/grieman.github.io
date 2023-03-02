@@ -17,32 +17,22 @@ categories: model review projection
 | Ireland V France on 2023/02/11   |       13 |                27.4 |                 31.8 |               7.5 |
 | Scotland V Wales on 2023/02/11   |       28 |                25.2 |                 27.3 |               9.5 |
 | England V Italy on 2023/02/12    |       17 |                17.3 |                 18.2 |              14.9 |
+| Italy V Ireland on 2023/02/25    |      -14 |               -12.4 |                -12.6 |             -13.7 |
+| Wales V England on 2023/02/25    |      -10 |                -8.9 |                 -9.2 |              -2.4 |
+| France V Scotland on 2023/02/26  |       11 |                 3.3 |                  5.4 |              11.1 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 6.1 | 5.8 | 9.7 |
-| Correct Winner |       - | 100.0% | 100.0% | 83.3% |
+| Average Error |       - | 5.2 | 4.7 | 7.3 |
+| Correct Winner |       - | 100.0% | 100.0% | 88.9% |
 
 
 ## Future Club-Level Match Predictions
-
-### Week 3
-
-#### France V Scotland on 2023/02/26
-
-
-Average Margin: France by 6.5
-
-<p float="left">
-<img src="plots/performances_France_V_Scotland_3.png" width="32%" />
-<img src="plots/resultbar_France_V_Scotland_3.png" width="32%" />
-<img src="plots/spreads_France_V_Scotland_3.png" width="32%" />
-</p>
 
 ### Week 4
 
 #### Italy V Wales on 2023/03/11
 
 
-Average Margin: Italy by 2.3
+Average Margin: Italy by 2.9
 
 <p float="left">
 <img src="plots/performances_Italy_V_Wales_4.png" width="32%" />
@@ -53,7 +43,7 @@ Average Margin: Italy by 2.3
 #### England V France on 2023/03/11
 
 
-Average Margin: France by 1.5
+Average Margin: France by 0.7
 
 <p float="left">
 <img src="plots/performances_England_V_France_4.png" width="32%" />
@@ -64,7 +54,7 @@ Average Margin: France by 1.5
 #### Scotland V Ireland on 2023/03/12
 
 
-Average Margin: Ireland by 5.2
+Average Margin: Ireland by 5.6
 
 <p float="left">
 <img src="plots/performances_Scotland_V_Ireland_4.png" width="32%" />
@@ -77,7 +67,7 @@ Average Margin: Ireland by 5.2
 #### Scotland V Italy on 2023/03/18
 
 
-Average Margin: Scotland by 13.9
+Average Margin: Scotland by 14.0
 
 <p float="left">
 <img src="plots/performances_Scotland_V_Italy_5.png" width="32%" />
@@ -88,7 +78,7 @@ Average Margin: Scotland by 13.9
 #### France V Wales on 2023/03/18
 
 
-Average Margin: France by 15.6
+Average Margin: France by 16.4
 
 <p float="left">
 <img src="plots/performances_France_V_Wales_5.png" width="32%" />
@@ -99,7 +89,7 @@ Average Margin: France by 15.6
 #### Ireland V England on 2023/03/18
 
 
-Average Margin: Ireland by 14.0
+Average Margin: Ireland by 13.5
 
 <p float="left">
 <img src="plots/performances_Ireland_V_England_5.png" width="32%" />

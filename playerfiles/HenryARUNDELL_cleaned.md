@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry ARUNDELL  
-date: 2023-02-28 11:07:50.673768  
+date: 2023-03-02 11:25:29.047194  
 categories: player  
 ---
 # Henry ARUNDELL
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 50.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | London Irish |            13 |   0.423077 |
-| England      |             4 |   0.75     |
+| England      |             5 |   0.8      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -39,4 +39,5 @@ categories: player
 | Newcastle Falcons  |         1 |   1        |
 | Northampton Saints |         1 |   0        |
 | Saracens           |         1 |   0        |
+| Wales              |         1 |   1        |
 | Wasps              |         1 |   0.5      |

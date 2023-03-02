@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaetan Pichon  
-date: 2023-02-28 11:08:48.382036  
+date: 2023-03-02 11:24:50.986976  
 categories: player  
 ---
 # Gaetan Pichon
 
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 91.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 

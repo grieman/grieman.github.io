@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael WILLEMSE  
-date: 2023-02-28 11:04:23.752992  
+date: 2023-03-02 11:22:36.321881  
 categories: player  
 ---
 # Michael WILLEMSE
 
 ## Positions: H
 
-## Current elo: 84.0
+## Current elo: 81.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------------|--------------:|-----------:|
 | Southern Kings         |            42 |   0.202381 |
 | Edinburgh              |            38 |   0.565789 |
-| London Irish           |            22 |   0.522727 |
+| London Irish           |            23 |   0.5      |
 | Western Province       |            11 |   0.727273 |
 | Golden Lions           |             5 |   0.2      |
 | Stormers               |             5 |   0.5      |
@@ -61,18 +61,18 @@ categories: player
 | Newcastle Falcons        |         2 |   1        |
 | Agen                     |         2 |   1        |
 | Griquas                  |         2 |   1        |
-| Gloucester Rugby         |         2 |   0        |
 | Montpellier Herault      |         2 |   0.25     |
 | Edinburgh                |         2 |   0.5      |
+| Leicester Tigers         |         2 |   0        |
 | Jaguares                 |         2 |   0.5      |
 | Boland Cavaliers         |         2 |   0.5      |
+| Gloucester Rugby         |         2 |   0        |
+| Sunwolves                |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
 | Western Force            |         1 |   0        |
 | Free State Cheetahs      |         1 |   0        |
-| Sunwolves                |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Southern Kings           |         1 |   1        |
-| Leicester Tigers         |         1 |   0        |
 | Sale Sharks              |         1 |   0.5      |
 | Bath Rugby               |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |

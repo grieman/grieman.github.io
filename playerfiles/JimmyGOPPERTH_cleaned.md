@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jimmy GOPPERTH  
-date: 2023-02-28 11:05:51.910327  
+date: 2023-03-02 11:24:32.508910  
 categories: player  
 ---
 # Jimmy GOPPERTH
 
 ## Positions: FH, C
 
-## Current elo: 98.0
+## Current elo: 102.0
 
-## Current Percentile: 64.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Hurricanes        |            36 |   0.625    |
 | Wellington        |            12 |   0.583333 |
 | Blues             |            11 |   0.272727 |
-| Leicester Tigers  |            10 |   0.5      |
+| Leicester Tigers  |            11 |   0.545455 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -38,8 +38,8 @@ categories: player
 | Harlequins               |        20 |   0.5      |
 | Saracens                 |        19 |   0.315789 |
 | Leicester Tigers         |        19 |   0.368421 |
+| London Irish             |        16 |   0.6875   |
 | Gloucester Rugby         |        16 |   0.46875  |
-| London Irish             |        15 |   0.666667 |
 | Worcester Warriors       |        13 |   0.730769 |
 | Newcastle Falcons        |        12 |   0.75     |
 | Bristol Rugby            |         9 |   0.777778 |

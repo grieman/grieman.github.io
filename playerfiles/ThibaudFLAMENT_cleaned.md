@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud FLAMENT  
-date: 2023-02-28 11:08:02.014211  
+date: 2023-03-02 11:23:37.446509  
 categories: player  
 ---
 # Thibaud FLAMENT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 109.0
+## Current elo: 113.0
 
-## Current Percentile: 64.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |            41 |   0.743902 |
-| France           |            13 |   0.923077 |
+| France           |            14 |   0.928571 |
 | Wasps            |            13 |   0.538462 |
 | Newman           |             3 |   0.333333 |
 
@@ -34,23 +34,23 @@ categories: player
 | Castres Olympique   |         5 |   0.4      |
 | Clermont Auvergne   |         4 |   0.75     |
 | Brive               |         4 |   1        |
-| Agen                |         3 |   1        |
 | Bordeaux Begles     |         3 |   0.666667 |
 | Toulon              |         3 |   0.333333 |
-| Sale Sharks         |         2 |   0.5      |
-| Ireland             |         2 |   0.5      |
-| Gloucester Rugby    |         2 |   0.5      |
-| London Irish        |         2 |   0.5      |
-| Lyon                |         2 |   0.5      |
+| Agen                |         3 |   1        |
 | Biarritz Olympique  |         2 |   1        |
 | Montpellier Herault |         2 |   1        |
 | Munster             |         2 |   0.75     |
+| Scotland            |         2 |   1        |
+| London Irish        |         2 |   0.5      |
+| Gloucester Rugby    |         2 |   0.5      |
+| Ireland             |         2 |   0.5      |
+| Sale Sharks         |         2 |   0.5      |
 | Japan               |         2 |   1        |
+| Lyon                |         2 |   0.5      |
 | SIC                 |         1 |   0        |
 | Racing 92           |         1 |   1        |
 | Saracens            |         1 |   1        |
 | Pau                 |         1 |   1        |
-| Scotland            |         1 |   1        |
 | South Africa        |         1 |   1        |
 | Ulster              |         1 |   0        |
 | Wales               |         1 |   1        |

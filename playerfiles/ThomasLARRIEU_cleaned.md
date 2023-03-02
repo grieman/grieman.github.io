@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LARRIEU  
-date: 2023-02-28 11:08:22.863999  
+date: 2023-03-02 11:22:22.267451  
 categories: player  
 ---
 # Thomas LARRIEU

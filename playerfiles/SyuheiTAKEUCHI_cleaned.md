@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-02-17 14:43:08.490039  
+date: 2023-03-02 11:24:37.702796  
 categories: player  
 ---
 # Syuhei TAKEUCHI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 94.0
+## Current elo: 89.0
 
-## Current Percentile: 43.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -23,23 +23,25 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Urayasu D-Rocks |            17 |   0.411765 |
-| Japan           |             1 |   1        |
+| Urayasu D-Rocks |            18 |   0.444444 |
+| Japan           |             3 |   0.333333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Saitama Wild Knights              |         2 |        0   |
 | Kobelco Kobe Steelers             |         2 |        0.5 |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |        0   |
-| Saitama Wild Knights              |         2 |        0   |
-| Black Rams Tokyo                  |         1 |        1   |
-| Green Rockets Tokatsu             |         1 |        1   |
-| Kamaishi Seawaves                 |         1 |        1   |
-| Mitsubishi Dynaboars              |         1 |        0   |
-| Shimizu Blue Sharks               |         1 |        1   |
+| Toyota Industries Shuttles Aichi  |         2 |        1   |
 | Shizuoka Blue Revs                |         1 |        0   |
-| Tokyo Sungoliath                  |         1 |        0   |
-| Toshiba Brave Lupus Tokyo         |         1 |        1   |
-| Toyota Industries Shuttles Aichi  |         1 |        1   |
-| Toyota Verblitz                   |         1 |        0   |
 | Uruguay                           |         1 |        1   |
+| Toyota Verblitz                   |         1 |        0   |
+| Toshiba Brave Lupus Tokyo         |         1 |        1   |
+| Tokyo Sungoliath                  |         1 |        0   |
+| Black Rams Tokyo                  |         1 |        1   |
+| Shimizu Blue Sharks               |         1 |        1   |
+| France                            |         1 |        0   |
+| New Zealand                       |         1 |        0   |
+| Mitsubishi Dynaboars              |         1 |        0   |
+| Kamaishi Seawaves                 |         1 |        1   |
+| Green Rockets Tokatsu             |         1 |        1   |
 | Yokohama Canon Eagles             |         1 |        0   |

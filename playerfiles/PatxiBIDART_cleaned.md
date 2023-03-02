@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Patxi BIDART  
-date: 2023-02-28 11:03:42.719558  
+date: 2023-03-02 11:25:26.352379  
 categories: player  
 ---
 # Patxi BIDART
 
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 88.0
 
-## Current Percentile: 30.0
+## Current Percentile: 34.0
 
 # Elo History
 

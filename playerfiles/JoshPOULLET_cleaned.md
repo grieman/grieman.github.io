@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Josh POULLET  
-date: 2023-02-28 11:08:32.973794  
+date: 2023-03-02 11:23:47.621041  
 categories: player  
 ---
 # Josh POULLET
 
 ## Positions: N8, FL
 
-## Current elo: 92.0
+## Current elo: 80.0
 
 ## Current Percentile: 22.0
 

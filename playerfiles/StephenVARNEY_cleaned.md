@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen VARNEY  
-date: 2023-02-28 11:08:57.599428  
+date: 2023-03-02 11:25:59.832626  
 categories: player  
 ---
 # Stephen VARNEY
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 80.0
+## Current elo: 78.0
 
-## Current Percentile: 10.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |            30 |   0.5      |
-| Italy            |            14 |   0.142857 |
+| Italy            |            15 |   0.133333 |
 | Hartpury College |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -39,9 +39,9 @@ categories: player
 | Northampton Saints |         2 |   0.5      |
 | Lyon               |         2 |   0        |
 | Worcester Warriors |         2 |   1        |
+| Ireland            |         2 |   0        |
 | Harlequins         |         2 |   0        |
 | Bordeaux Begles    |         2 |   1        |
-| Ireland            |         1 |   0        |
 | Leinster           |         1 |   0        |
 | Australia          |         1 |   1        |
 | New Zealand        |         1 |   0        |

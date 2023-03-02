@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake GARSIDE  
-date: 2023-02-06 16:02:51.764050  
+date: 2023-03-02 11:21:01.771494  
 categories: player  
 ---
 # Jake GARSIDE
 
 ## Positions: SH
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 46.0
+## Current Percentile: 48.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Reda WARDI  
-date: 2023-02-17 14:41:43.212282  
+date: 2023-03-02 11:22:40.492573  
 categories: player  
 ---
 # Reda WARDI
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 113.0
 
-## Current Percentile: 89.0
+## Current Percentile: None
 
 # Elo History
 
@@ -23,50 +23,49 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            80 |   0.625    |
+| La Rochelle |            73 |   0.616438 |
 | Beziers     |            59 |   0.525424 |
-| France      |             4 |   0.75     |
+| France      |             5 |   0.8      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Stade Toulousain     |        10 |   0.2      |
+| Stade Toulousain     |         9 |   0.111111 |
 | Bayonne              |         8 |   0.5      |
 | Biarritz Olympique   |         6 |   0.5      |
-| Stade Francais Paris |         6 |   0.5      |
 | Racing 92            |         6 |   0.5      |
 | Lyon                 |         5 |   0.8      |
 | Toulon               |         5 |   1        |
-| Bordeaux Begles      |         5 |   0.6      |
+| Stade Francais Paris |         5 |   0.6      |
 | Castres Olympique    |         5 |   0.8      |
-| Perpignan            |         5 |   0.6      |
 | Montpellier Herault  |         5 |   0.6      |
 | Mont-de-Marsan       |         5 |   0.2      |
-| Agen                 |         4 |   1        |
 | Massy                |         4 |   1        |
+| Perpignan            |         4 |   0.5      |
+| Agen                 |         4 |   1        |
 | Vannes               |         4 |   0.25     |
-| Carcassonne          |         4 |   0.75     |
 | Clermont Auvergne    |         4 |   0.25     |
-| Aurillac             |         4 |   0.5      |
 | Brive                |         4 |   0.5      |
-| Soyaux-Angouleme     |         3 |   0.333333 |
+| Carcassonne          |         4 |   0.75     |
+| Aurillac             |         4 |   0.5      |
+| Bordeaux Begles      |         4 |   0.75     |
 | Pau                  |         3 |   1        |
-| Glasgow Warriors     |         3 |   0.666667 |
+| Soyaux-Angouleme     |         3 |   0.333333 |
 | Nevers               |         3 |   0.833333 |
 | Narbonne             |         3 |   0.666667 |
-| Sale Sharks          |         3 |   0.666667 |
 | Montauban            |         3 |   0.166667 |
 | Dax                  |         3 |   1        |
-| Northampton Saints   |         2 |   1        |
+| Glasgow Warriors     |         3 |   0.666667 |
+| Sale Sharks          |         3 |   0.666667 |
+| Colomiers            |         2 |   0.5      |
 | Bourgoin-Jallieu     |         2 |   1        |
 | Leinster             |         2 |   1        |
 | Provence Rugby       |         2 |   0.5      |
-| Colomiers            |         2 |   0.5      |
-| US Bressane          |         1 |   0        |
-| Ulster               |         1 |   1        |
-| Exeter Chiefs        |         1 |   0        |
 | South Africa         |         1 |   1        |
-| Albi                 |         1 |   0        |
+| US Bressane          |         1 |   0        |
 | Edinburgh            |         1 |   1        |
+| Scotland             |         1 |   1        |
+| Exeter Chiefs        |         1 |   0        |
+| Albi                 |         1 |   0        |
 | Japan                |         1 |   1        |
 | Italy                |         1 |   1        |
 | Ireland              |         1 |   0        |

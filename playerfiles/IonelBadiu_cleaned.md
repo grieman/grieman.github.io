@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ionel Badiu  
-date: 2023-02-28 11:05:05.706165  
+date: 2023-03-02 11:20:37.904343  
 categories: player  
 ---
 # Ionel Badiu
@@ -23,7 +23,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Bristol Rugby              |           119 |   0.588235 |
+| Bristol Rugby              |           120 |   0.591667 |
 | Carcassonne                |            31 |   0.354839 |
 | Romania                    |            24 |   0.541667 |
 | Valence Romans Drome Rugby |            24 |   0.416667 |
@@ -37,10 +37,10 @@ categories: player
 | Wasps                    |         8 |   0.375    |
 | Mont-de-Marsan           |         7 |   0.357143 |
 | Worcester Warriors       |         7 |   0.714286 |
+| Bath Rugby               |         7 |   0.714286 |
 | Leicester Tigers         |         6 |   0.666667 |
 | Perpignan                |         6 |   0.333333 |
 | London Irish             |         6 |   0.583333 |
-| Bath Rugby               |         6 |   0.666667 |
 | Sale Sharks              |         5 |   0.4      |
 | Beziers                  |         5 |   0.3      |
 | Gloucester Rugby         |         5 |   0.4      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sonatane Takulua  
-date: 2023-02-28 11:05:11.297441  
+date: 2023-03-02 11:25:13.945752  
 categories: player  
 ---
 # Sonatane Takulua
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 68.0
+## Current Percentile: 67.0
 
 # Elo History
 

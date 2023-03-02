@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomike Mataradze  
-date: 2023-02-28 11:03:47.384006  
+date: 2023-03-02 11:21:32.031215  
 categories: player  
 ---
 # Tomike Mataradze
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 64.0
 
 # Elo History
 

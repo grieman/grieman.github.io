@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Joe SPROSTON  
-date: 2023-02-28 11:04:17.289040  
+date: 2023-03-02 11:23:06.534905  
 categories: player  
 ---
 # Joe SPROSTON
 
 ## Positions: P
 
-## Current elo: 80.0
+## Current elo: 90.0
 
 ## Current Percentile: 15.0
 
@@ -23,13 +23,13 @@ categories: player
 |:----------|--------------:|-----------:|
 | Doncaster |            62 |   0.427419 |
 | Dijon     |            24 |   0.333333 |
-| Ampthill  |             8 |   0.375    |
+| Ampthill  |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Nottingham                 |         8 |   0.75     |
 | Jersey                     |         8 |   0.375    |
 | Cornish Pirates            |         7 |   0        |
-| Nottingham                 |         7 |   0.714286 |
 | London Scottish            |         7 |   1        |
 | Ealing Trailfinders        |         7 |   0.142857 |
 | Hartpury College           |         6 |   0.666667 |

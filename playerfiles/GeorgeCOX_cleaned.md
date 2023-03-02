@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: George COX  
-date: 2023-02-28 11:04:48.374057  
+date: 2023-03-02 11:28:40.338787  
 categories: player  
 ---
 # George COX
 
 ## Positions: FL
 
-## Current elo: 92.0
+## Current elo: 81.0
 
 ## Current Percentile: 24.0
 

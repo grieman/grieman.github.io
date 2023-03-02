@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Steve MOUKETE  
-date: 2023-02-28 11:07:53.831144  
+date: 2023-03-02 11:23:15.174977  
 categories: player  
 ---
 # Steve MOUKETE
 
 ## Positions: FL, L
 
-## Current elo: 91.0
+## Current elo: 90.0
 
 ## Current Percentile: 40.0
 
