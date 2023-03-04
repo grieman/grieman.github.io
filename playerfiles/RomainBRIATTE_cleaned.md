@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain BRIATTE  
-date: 2023-03-02 11:24:49.964975  
+date: 2023-03-04 11:40:53.197886  
 categories: player  
 ---
 # Romain BRIATTE
 
 ## Positions: FL
 
-## Current elo: 86.0
+## Current elo: 89.0
 
-## Current Percentile: 38.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -23,28 +23,28 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Aurillac             |            68 |   0.463235 |
 | Agen                 |            52 |   0.182692 |
-| Stade Francais Paris |            29 |   0.396552 |
+| Stade Francais Paris |            30 |   0.416667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Perpignan            |        10 |   0.75     |
 | Racing 92            |         8 |   0.0625   |
-| Colomiers            |         7 |   0.285714 |
 | Bayonne              |         7 |   0.285714 |
 | Montauban            |         7 |   0.5      |
 | Bordeaux Begles      |         7 |   0        |
 | Castres Olympique    |         7 |   0.142857 |
+| Colomiers            |         7 |   0.285714 |
+| Dax                  |         6 |   0.5      |
 | Lyon                 |         6 |   0.333333 |
 | Stade Toulousain     |         6 |   0.25     |
-| Dax                  |         6 |   0.5      |
 | Pau                  |         6 |   0.333333 |
 | Narbonne             |         5 |   0.6      |
 | Montpellier Herault  |         5 |   0.2      |
+| La Rochelle          |         5 |   0.6      |
 | Clermont Auvergne    |         5 |   0.2      |
 | Toulon               |         5 |   0.4      |
 | Beziers              |         5 |   0.4      |
 | Albi                 |         4 |   0.5      |
-| La Rochelle          |         4 |   0.5      |
 | Mont-de-Marsan       |         4 |   0.5      |
 | Biarritz Olympique   |         4 |   0.5      |
 | Soyaux-Angouleme     |         4 |   0.5      |

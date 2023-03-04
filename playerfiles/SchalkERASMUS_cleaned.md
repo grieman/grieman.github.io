@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Schalk ERASMUS  
-date: 2023-03-02 11:27:49.460874  
+date: 2023-03-04 11:34:28.662070  
 categories: player  
 ---
 # Schalk ERASMUS
@@ -22,7 +22,7 @@ categories: player
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
 | Blue Bulls                        |            18 |   0.777778 |
-| Kubota Spears Funabashi Tokyo-Bay |             3 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |             4 |   0.75     |
 | Western Province                  |             1 |   0        |
 
 | Opponent                  |   Matches |   Win Rate |
@@ -35,4 +35,5 @@ categories: player
 | Western Province          |         2 |   1        |
 | Green Rockets Tokatsu     |         1 |   1        |
 | Mitsubishi Dynaboars      |         1 |   1        |
+| Saitama Wild Knights      |         1 |   0        |
 | Toshiba Brave Lupus Tokyo |         1 |   1        |

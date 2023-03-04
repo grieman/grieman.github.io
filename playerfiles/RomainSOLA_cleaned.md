@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain SOLA  
-date: 2023-02-28 13:54:27.995536  
+date: 2023-03-04 11:37:05.114187  
 categories: player  
 ---
 # Romain SOLA
 
 ## Positions: FH, FB
 
-## Current elo: 96.0
+## Current elo: 93.0
 
-## Current Percentile: 40.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Brive            |            75 |   0.553333 |
 | Provence Rugby   |            62 |   0.443548 |
 | Agen             |            54 |   0.675926 |
-| Bourgoin-Jallieu |            50 |   0.54     |
+| Bourgoin-Jallieu |            51 |   0.529412 |
 | Albi             |            28 |   0.660714 |
 | Stade Toulousain |             1 |   1        |
 
@@ -71,12 +71,12 @@ categories: player
 | Calvisano                  |         2 |   0.75     |
 | Enisey-STM Krasnoyarsk     |         2 |   0.5      |
 | Saint-Etienne              |         2 |   1        |
+| Blagnac                    |         2 |   0.5      |
 | Bucuresti                  |         2 |   1        |
 | Rouen                      |         2 |   0.75     |
 | Périgueux                  |         2 |   1        |
 | Chambery                   |         2 |   1        |
 | Bath Rugby                 |         1 |   0        |
-| Blagnac                    |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |
 | Brive                      |         1 |   0        |
 | Gloucester Rugby           |         1 |   0        |

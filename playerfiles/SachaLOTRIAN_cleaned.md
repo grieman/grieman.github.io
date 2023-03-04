@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sacha LOTRIAN  
-date: 2023-03-02 11:24:28.584415  
+date: 2023-03-04 11:39:50.706006  
 categories: player  
 ---
 # Sacha LOTRIAN
 
 ## Positions: P
 
-## Current elo: 108.0
+## Current elo: 109.0
 
 ## Current Percentile: 83.0
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Perpignan |            61 |   0.631148 |
+| Perpignan |            62 |   0.620968 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,17 +30,18 @@ categories: player
 | Aurillac                   |         3 |   0.833333 |
 | Brive                      |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   1        |
-| Racing 92                  |         3 |   0.333333 |
 | Grenoble                   |         3 |   1        |
 | La Rochelle                |         3 |   0.333333 |
+| Racing 92                  |         3 |   0.333333 |
 | Pau                        |         3 |   0        |
-| Nevers                     |         2 |   1        |
+| Oyonnax                    |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   1        |
+| Stade Toulousain           |         2 |   0.5      |
 | Stade Francais Paris       |         2 |   0        |
 | Rouen                      |         2 |   0.5      |
 | Provence Rugby             |         2 |   1        |
-| Oyonnax                    |         2 |   1        |
 | Montauban                  |         2 |   0.5      |
+| Nevers                     |         2 |   1        |
 | Montpellier Herault        |         2 |   0        |
 | Colomiers                  |         2 |   0.5      |
 | Castres Olympique          |         2 |   0        |
@@ -50,5 +51,4 @@ categories: player
 | Beziers                    |         1 |   0        |
 | Lyon                       |         1 |   0        |
 | Clermont Auvergne          |         1 |   1        |
-| Stade Toulousain           |         1 |   1        |
 | Toulon                     |         1 |   1        |

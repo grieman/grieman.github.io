@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Trevor Ntando Nyakane  
-date: 2023-03-02 11:28:32.376771  
+date: 2023-03-04 11:35:17.774951  
 categories: player  
 ---
 # Trevor Ntando Nyakane
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 33.0
+## Current Percentile: 30.0
 
 # Elo History
 

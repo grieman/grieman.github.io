@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian MONTOYA  
-date: 2023-03-02 11:24:24.491033  
+date: 2023-03-04 11:38:17.510678  
 categories: player  
 ---
 # Julian MONTOYA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 86.0
 
-## Current Percentile: 18.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Argentina        |            85 |   0.282353 |
 | Jaguares         |            63 |   0.52381  |
-| Leicester Tigers |            36 |   0.736111 |
+| Leicester Tigers |            37 |   0.743243 |
 | Newman           |             7 |   0.428571 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,37 +34,38 @@ categories: player
 | New Zealand              |        15 |   0.133333 |
 | South Africa             |        14 |   0.142857 |
 | Lions                    |         9 |   0.444444 |
-| Sharks                   |         7 |   0.428571 |
 | Scotland                 |         7 |   0.142857 |
-| Stormers                 |         6 |   0.166667 |
+| Sharks                   |         7 |   0.428571 |
 | England                  |         6 |   0.166667 |
+| Stormers                 |         6 |   0.166667 |
 | Bulls                    |         6 |   0.833333 |
 | Wales                    |         6 |   0.25     |
 | France                   |         5 |   0.2      |
 | Ireland                  |         5 |   0.2      |
-| Hurricanes               |         4 |   0.25     |
+| Sale Sharks              |         4 |   0.25     |
+| Southern Kings           |         4 |   0.5      |
+| Chiefs                   |         4 |   0.5      |
 | London Irish             |         4 |   1        |
 | Brumbies                 |         4 |   0.75     |
 | Bristol Rugby            |         4 |   0.625    |
 | Northampton Saints       |         4 |   0.75     |
-| Sale Sharks              |         4 |   0.25     |
-| Southern Kings           |         4 |   0.5      |
-| Chiefs                   |         4 |   0.5      |
+| Hurricanes               |         4 |   0.25     |
 | New South Wales Waratahs |         3 |   1        |
+| Queensland Reds          |         3 |   0.666667 |
 | Italy                    |         3 |   1        |
 | Worcester Warriors       |         3 |   1        |
-| Harlequins               |         3 |   0.666667 |
-| Blues                    |         3 |   0.666667 |
 | Wasps                    |         3 |   0.666667 |
-| Queensland Reds          |         3 |   0.666667 |
+| Blues                    |         3 |   0.666667 |
+| Harlequins               |         3 |   0.666667 |
 | Highlanders              |         2 |   0        |
 | Georgia                  |         2 |   1        |
-| Crusaders                |         2 |   0        |
 | Tonga                    |         2 |   1        |
+| Crusaders                |         2 |   0        |
 | Melbourne Rebels         |         2 |   1        |
 | Clermont Auvergne        |         2 |   1        |
 | Cheetahs                 |         2 |   1        |
 | Saracens                 |         2 |   1        |
+| Bath Rugby               |         2 |   1        |
 | Romania                  |         1 |   1        |
 | Sunwolves                |         1 |   1        |
 | United States of America |         1 |   1        |
@@ -83,5 +84,4 @@ categories: player
 | CUBA                     |         1 |   0        |
 | CASI                     |         1 |   0        |
 | Belgrano                 |         1 |   1        |
-| Bath Rugby               |         1 |   1        |
 | Leinster                 |         1 |   0        |

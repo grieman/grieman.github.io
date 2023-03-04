@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-03-02 11:24:37.702796  
+date: 2023-03-04 11:42:34.160712  
 categories: player  
 ---
 # Syuhei TAKEUCHI
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 22.0
+## Current Percentile: 23.0
 
 # Elo History
 

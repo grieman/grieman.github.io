@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pone FA'AMAUSILI  
-date: 2023-03-02 11:22:59.067695  
+date: 2023-03-04 11:39:16.627066  
 categories: player  
 ---
 # Pone FA'AMAUSILI
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |            27 |   0.425926 |
+| Melbourne Rebels |            28 |   0.410714 |
 | Melbourne Rising |            11 |   0.272727 |
 | Australia        |             3 |   0        |
 
@@ -33,10 +33,10 @@ categories: player
 | Queensland Reds          |         5 |   0.3      |
 | New South Wales Waratahs |         4 |   0.75     |
 | Brumbies                 |         4 |   0.25     |
+| Hurricanes               |         3 |   0        |
 | Brisbane City            |         2 |   0        |
 | Canberra Vikings         |         2 |   0        |
 | Sunwolves                |         2 |   1        |
-| Hurricanes               |         2 |   0        |
 | Queensland Country       |         2 |   0.5      |
 | New Zealand              |         2 |   0        |
 | Sydney Rays              |         1 |   1        |

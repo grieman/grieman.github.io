@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ireland by 13.1
+## Prediction with Player Minutes: Ireland by 13.2
 
 
-Ireland by 17.1 on a neutral field
+Ireland by 17.2 on a neutral field
 ## Scores over Time
 
 
@@ -42,36 +42,36 @@ Ireland by 17.1 on a neutral field
 ![In Match Predictions](plots/recap_prob_2023-02-25-Italy-Ireland.png)
 
 There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Ireland by 12.9
+## Prediction without Player Minutes: Ireland by 13.1
 
 
-Ireland by 16.9 on a neutral pitch
+Ireland by 17.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                           |   Home Minutes |
 |---------------:|:------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------------|---------------:|
-|             65 | [Andrew Porter](..//playerfiles//AndrewPorter_cleaned.md)         |      98.08 |                61 |        1 |                75 |     102.02 | [Danilo Fischetti](..//playerfiles//DaniloFischetti_cleaned.md)       |             61 |
-|             57 | [Ronan Kelleher](..//playerfiles//RonanKelleher_cleaned.md)       |     124.28 |                98 |        2 |                97 |     130.56 | [Giacomo Nicotera](..//playerfiles//GiacomoNicotera_cleaned.md)       |             52 |
-|             37 | [Finlay Bealham](..//playerfiles//FinlayBealham_cleaned.md)       |      96.19 |                54 |        3 |                41 |      94.04 | [Simone Ferrari](..//playerfiles//SimoneFerrari_cleaned.md)           |             47 |
-|             53 | [Iain Henderson](..//playerfiles//IainHenderson_cleaned.md)       |     113.43 |                91 |        4 |                 4 |      64.85 | [Niccolo Cannone](..//playerfiles//NiccoloCannone_cleaned.md)         |             65 |
-|             80 | [James Ryan](..//playerfiles//JamesRyan_cleaned.md)               |     109.22 |                84 |        5 |                89 |     113.56 | [Federico Ruzza](..//playerfiles//FedericoRuzza_cleaned.md)           |             80 |
-|             80 | [Caelan Doris](..//playerfiles//CaelanDoris_cleaned.md)           |     124.91 |                96 |        6 |                41 |      91.78 | [Sebastian Negri](..//playerfiles//SebastianNegri_cleaned.md)         |             80 |
-|             80 | [Josh van der Flier](..//playerfiles//JoshvanderFlier_cleaned.md) |     129.42 |                96 |        7 |                92 |     118.12 | [Michele Lamaro](..//playerfiles//MicheleLamaro_cleaned.md)           |             80 |
-|             57 | [Jack Conan](..//playerfiles//JackConan_cleaned.md)               |     121.74 |                95 |        8 |                71 |     103.47 | [Lorenzo Cannone](..//playerfiles//LorenzoCannone_cleaned.md)         |             65 |
-|             65 | [Craig Casey](..//playerfiles//CraigCasey_cleaned.md)             |     108.11 |                87 |        9 |                13 |      80.02 | [Stephen Varney](..//playerfiles//StephenVarney_cleaned.md)           |             68 |
-|             78 | [Ross Byrne](..//playerfiles//RossByrne_cleaned.md)               |     110.96 |                88 |       10 |                67 |     104.45 | [Paolo Garbisi](..//playerfiles//PaoloGarbisi_cleaned.md)             |             73 |
-|             80 | [James Lowe](..//playerfiles//JamesLowe_cleaned.md)               |     143.96 |                99 |       11 |                83 |     110.27 | [Pierre Bruno](..//playerfiles//PierreBruno_cleaned.md)               |             80 |
-|             73 | [Stuart McCloskey](..//playerfiles//StuartMcCloskey_cleaned.md)   |     133.62 |                98 |       12 |                97 |     130.68 | [Tommaso Menoncello](..//playerfiles//TommasoMenoncello_cleaned.md)   |             78 |
-|             80 | [Bundee Aki](..//playerfiles//BundeeAki_cleaned.md)               |     134.38 |                98 |       13 |                88 |     112.98 | [Juan Ignacio Brex](..//playerfiles//JuanIgnacioBrex_cleaned.md)      |             80 |
-|             80 | [Mack Hansen](..//playerfiles//MackHansen_cleaned.md)             |      86.86 |                25 |       14 |                89 |     113.58 | [Edoardo Padovani](..//playerfiles//EdoardoPadovani_cleaned.md)       |             80 |
-|             80 | [Hugo Keenan](..//playerfiles//HugoKeenan_cleaned.md)             |     142.25 |                99 |       15 |                90 |     117.27 | [Ange Capuozzo](..//playerfiles//AngeCapuozzo_cleaned.md)             |             80 |
-|             23 | [Dan Sheehan](..//playerfiles//DanSheehan_cleaned.md)             |     111.06 |                88 |       16 |               nan |      80.79 | [Luca Bigi](..//playerfiles//LucaBigi_cleaned.md)                     |             28 |
-|             15 | [Dave Kilcoyne](..//playerfiles//DaveKilcoyne_cleaned.md)         |     130.16 |               nan |       17 |               nan |      99.66 | [Federico Zani](..//playerfiles//FedericoZani_cleaned.md)             |             19 |
-|             43 | [Tom O'Toole](..//playerfiles//TomO'Toole_cleaned.md)             |      85.41 |               nan |       18 |                83 |     105.81 | [Marco Riccioni](..//playerfiles//MarcoRiccioni_cleaned.md)           |             33 |
-|             27 | [Ryan Baird](..//playerfiles//RyanBaird_cleaned.md)               |      95    |               nan |       19 |               nan |     104.88 | [Edoardo Iachizzi](..//playerfiles//EdoardoIachizzi_cleaned.md)       |             15 |
-|             23 | [Peter O'Mahony](..//playerfiles//PeterO'Mahony_cleaned.md)       |      80.48 |                11 |       20 |               nan |     133.54 | [Giovanni Pettinelli](..//playerfiles//GiovanniPettinelli_cleaned.md) |             15 |
-|             15 | [Conor Murray](..//playerfiles//ConorMurray_cleaned.md)           |     145    |                99 |       21 |               nan |      87.45 | [Alessandro Fusco](..//playerfiles//AlessandroFusco_cleaned.md)       |             12 |
-|              2 | [Jack Crowley](..//playerfiles//JackCrowley_cleaned.md)           |      95    |               nan |       22 |                88 |     112.63 | [Luca Morisi](..//playerfiles//LucaMorisi_cleaned.md)                 |              2 |
-|              7 | [Jimmy O'Brien](..//playerfiles//JimmyO'Brien_cleaned.md)         |      95    |               nan |       23 |                69 |     101.82 | [Tommaso Allan](..//playerfiles//TommasoAllan_cleaned.md)             |              7 |
+|             65 | [Andrew Porter](..//playerfiles//AndrewPorter_cleaned.md)         |      96.33 |                54 |        1 |                74 |     101.97 | [Danilo Fischetti](..//playerfiles//DaniloFischetti_cleaned.md)       |             61 |
+|             57 | [Ronan Kelleher](..//playerfiles//RonanKelleher_cleaned.md)       |     123.78 |                97 |        2 |                98 |     130.5  | [Giacomo Nicotera](..//playerfiles//GiacomoNicotera_cleaned.md)       |             52 |
+|             37 | [Finlay Bealham](..//playerfiles//FinlayBealham_cleaned.md)       |      95.9  |                52 |        3 |                40 |      93.79 | [Simone Ferrari](..//playerfiles//SimoneFerrari_cleaned.md)           |             47 |
+|             53 | [Iain Henderson](..//playerfiles//IainHenderson_cleaned.md)       |     116.23 |                93 |        4 |                 4 |      64.78 | [Niccolo Cannone](..//playerfiles//NiccoloCannone_cleaned.md)         |             65 |
+|             80 | [James Ryan](..//playerfiles//JamesRyan_cleaned.md)               |     108.58 |                82 |        5 |                89 |     113.34 | [Federico Ruzza](..//playerfiles//FedericoRuzza_cleaned.md)           |             80 |
+|             80 | [Caelan Doris](..//playerfiles//CaelanDoris_cleaned.md)           |     123.74 |                95 |        6 |                39 |      91.66 | [Sebastian Negri](..//playerfiles//SebastianNegri_cleaned.md)         |             80 |
+|             80 | [Josh van der Flier](..//playerfiles//JoshvanderFlier_cleaned.md) |     128.67 |                96 |        7 |                91 |     117.62 | [Michele Lamaro](..//playerfiles//MicheleLamaro_cleaned.md)           |             80 |
+|             57 | [Jack Conan](..//playerfiles//JackConan_cleaned.md)               |     122    |                95 |        8 |                72 |     103.32 | [Lorenzo Cannone](..//playerfiles//LorenzoCannone_cleaned.md)         |             65 |
+|             65 | [Craig Casey](..//playerfiles//CraigCasey_cleaned.md)             |     108.84 |                88 |        9 |                14 |      80.95 | [Stephen Varney](..//playerfiles//StephenVarney_cleaned.md)           |             68 |
+|             78 | [Ross Byrne](..//playerfiles//RossByrne_cleaned.md)               |     110.12 |                88 |       10 |                62 |     103.09 | [Paolo Garbisi](..//playerfiles//PaoloGarbisi_cleaned.md)             |             73 |
+|             80 | [James Lowe](..//playerfiles//JamesLowe_cleaned.md)               |     142.43 |                99 |       11 |                82 |     110.06 | [Pierre Bruno](..//playerfiles//PierreBruno_cleaned.md)               |             80 |
+|             73 | [Stuart McCloskey](..//playerfiles//StuartMcCloskey_cleaned.md)   |     137.39 |                99 |       12 |                97 |     130.39 | [Tommaso Menoncello](..//playerfiles//TommasoMenoncello_cleaned.md)   |             78 |
+|             80 | [Bundee Aki](..//playerfiles//BundeeAki_cleaned.md)               |     134.73 |                98 |       13 |                88 |     113.03 | [Juan Ignacio Brex](..//playerfiles//JuanIgnacioBrex_cleaned.md)      |             80 |
+|             80 | [Mack Hansen](..//playerfiles//MackHansen_cleaned.md)             |      86.48 |                23 |       14 |                89 |     113.52 | [Edoardo Padovani](..//playerfiles//EdoardoPadovani_cleaned.md)       |             80 |
+|             80 | [Hugo Keenan](..//playerfiles//HugoKeenan_cleaned.md)             |     141.35 |                99 |       15 |                90 |     116.99 | [Ange Capuozzo](..//playerfiles//AngeCapuozzo_cleaned.md)             |             80 |
+|             23 | [Dan Sheehan](..//playerfiles//DanSheehan_cleaned.md)             |     109.92 |                88 |       16 |               nan |      80.84 | [Luca Bigi](..//playerfiles//LucaBigi_cleaned.md)                     |             28 |
+|             15 | [Dave Kilcoyne](..//playerfiles//DaveKilcoyne_cleaned.md)         |     130.12 |               nan |       17 |               nan |      99.72 | [Federico Zani](..//playerfiles//FedericoZani_cleaned.md)             |             19 |
+|             43 | [Tom O'Toole](..//playerfiles//TomO'Toole_cleaned.md)             |      85.63 |               nan |       18 |                83 |     106.14 | [Marco Riccioni](..//playerfiles//MarcoRiccioni_cleaned.md)           |             33 |
+|             27 | [Ryan Baird](..//playerfiles//RyanBaird_cleaned.md)               |      95    |               nan |       19 |               nan |     103.91 | [Edoardo Iachizzi](..//playerfiles//EdoardoIachizzi_cleaned.md)       |             15 |
+|             23 | [Peter O'Mahony](..//playerfiles//PeterO'Mahony_cleaned.md)       |      81.9  |                14 |       20 |               nan |     132.47 | [Giovanni Pettinelli](..//playerfiles//GiovanniPettinelli_cleaned.md) |             15 |
+|             15 | [Conor Murray](..//playerfiles//ConorMurray_cleaned.md)           |     145.38 |                99 |       21 |               nan |      87.5  | [Alessandro Fusco](..//playerfiles//AlessandroFusco_cleaned.md)       |             12 |
+|              2 | [Jack Crowley](..//playerfiles//JackCrowley_cleaned.md)           |      95    |               nan |       22 |                86 |     111.06 | [Luca Morisi](..//playerfiles//LucaMorisi_cleaned.md)                 |              2 |
+|              7 | [Jimmy O'Brien](..//playerfiles//JimmyO'Brien_cleaned.md)         |      95    |               nan |       23 |                68 |     101.79 | [Tommaso Allan](..//playerfiles//TommasoAllan_cleaned.md)             |              7 |
 

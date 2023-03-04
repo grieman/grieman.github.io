@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LAVAULT  
-date: 2023-03-02 11:27:32.200893  
+date: 2023-03-04 11:40:36.507318  
 categories: player  
 ---
 # Thomas LAVAULT
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            68 |   0.602941 |
+| La Rochelle |            69 |   0.594203 |
 | France      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -37,8 +37,8 @@ categories: player
 | Castres Olympique    |         5 |   0.6      |
 | Lyon                 |         4 |   0.75     |
 | Brive                |         4 |   1        |
+| Stade Francais Paris |         4 |   0.25     |
 | Clermont Auvergne    |         3 |   0.333333 |
-| Stade Francais Paris |         3 |   0.333333 |
 | Agen                 |         2 |   1        |
 | Glasgow Warriors     |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |

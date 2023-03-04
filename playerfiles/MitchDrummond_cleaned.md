@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mitch Drummond  
-date: 2023-03-02 11:24:41.710581  
+date: 2023-03-04 11:37:45.154827  
 categories: player  
 ---
 # Mitch Drummond
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 86.0
+## Current elo: 88.0
 
 ## Current Percentile: 51.0
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |           121 |   0.801653 |
+| Crusaders   |           122 |   0.803279 |
 | Canterbury  |            73 |   0.767123 |
 | New Zealand |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Highlanders              |        18 |   0.777778 |
 | Hurricanes               |        18 |   0.666667 |
 | Chiefs                   |        17 |   0.588235 |
-| Highlanders              |        17 |   0.764706 |
 | Blues                    |        14 |   0.928571 |
 | Tasman                   |        10 |   0.7      |
 | Auckland                 |         8 |   0.625    |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyrel LOMAX  
-date: 2023-03-02 11:23:49.361015  
+date: 2023-03-04 11:34:36.004994  
 categories: player  
 ---
 # Tyrel LOMAX
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 146.0
+## Current elo: 145.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Hurricanes        |            39 |   0.538462 |
+| Hurricanes        |            40 |   0.55     |
 | Highlanders       |            30 |   0.5      |
 | Tasman            |            26 |   0.807692 |
 | New Zealand       |            23 |   0.73913  |
@@ -43,12 +43,12 @@ categories: player
 | Queensland Reds          |         6 |   0.833333 |
 | Australia                |         5 |   0.7      |
 | Brumbies                 |         5 |   0.2      |
+| Melbourne Rebels         |         4 |   1        |
 | Auckland                 |         4 |   0.75     |
 | Hurricanes               |         4 |   0.25     |
 | Taranaki                 |         3 |   0.666667 |
 | Stormers                 |         3 |   0.333333 |
 | Sharks                   |         3 |   0.5      |
-| Melbourne Rebels         |         3 |   1        |
 | Ireland                  |         3 |   0.333333 |
 | Lions                    |         3 |   0.333333 |
 | Fiji                     |         3 |   0.666667 |

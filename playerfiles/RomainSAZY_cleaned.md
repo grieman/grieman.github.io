@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-03-02 11:21:14.703369  
+date: 2023-03-04 11:43:46.058626  
 categories: player  
 ---
 # Romain SAZY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           317 |   0.586751 |
+| La Rochelle |           318 |   0.584906 |
 | Montauban   |            20 |   0.15     |
 
 | Opponent               |   Matches |   Win Rate |
@@ -32,7 +32,7 @@ categories: player
 | Stade Toulousain       |        19 |   0.263158 |
 | Clermont Auvergne      |        18 |   0.25     |
 | Castres Olympique      |        17 |   0.529412 |
-| Stade Francais Paris   |        16 |   0.53125  |
+| Stade Francais Paris   |        17 |   0.5      |
 | Brive                  |        15 |   0.6      |
 | Bordeaux Begles        |        14 |   0.571429 |
 | Agen                   |        14 |   0.642857 |

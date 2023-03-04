@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Slade  
-date: 2023-03-02 11:27:15.495741  
+date: 2023-03-04 11:38:32.609473  
 categories: player  
 ---
 # Sam Slade
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 77.0
+## Current elo: 75.0
 
 ## Current Percentile: 7.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            13 |   0.230769 |
-| Moana Pasifika   |            11 |   0.181818 |
+| Moana Pasifika   |            12 |   0.166667 |
 | Manawatu         |             8 |   0.125    |
 | Auckland         |             6 |   0.166667 |
 | Samoa            |             6 |   0.666667 |
@@ -34,6 +34,7 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Tonga                    |         4 |   1        |
 | Canterbury               |         3 |   0        |
+| Chiefs                   |         3 |   0        |
 | Southland                |         3 |   0.333333 |
 | Wellington               |         2 |   0        |
 | Taranaki                 |         2 |   0        |
@@ -44,13 +45,12 @@ categories: player
 | Tasman                   |         2 |   0        |
 | Otago                    |         2 |   0.5      |
 | Hawke's Bay              |         2 |   0        |
-| Chiefs                   |         2 |   0        |
 | Waikato                  |         2 |   0        |
 | Northland                |         2 |   0.5      |
 | Toronto Arrows           |         1 |   1        |
-| Utah Warriors            |         1 |   1        |
 | San Diego Legion         |         1 |   0        |
 | Queensland Reds          |         1 |   0        |
+| Utah Warriors            |         1 |   1        |
 | Auckland                 |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
 | NOLA Gold                |         1 |   0        |

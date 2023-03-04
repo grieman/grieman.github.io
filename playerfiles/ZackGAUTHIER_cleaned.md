@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zack GAUTHIER  
-date: 2023-02-26 11:19:22.549999  
+date: 2023-03-04 11:37:11.902324  
 categories: player  
 ---
 # Zack GAUTHIER
 
 ## Positions: P
 
-## Current elo: 118.0
+## Current elo: 116.0
 
-## Current Percentile: 96.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            31 |   0.645161 |
+| Grenoble |            32 |    0.65625 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Montauban          |         4 |   0.875    |
 | Agen               |         3 |   0.666667 |
 | Colomiers          |         3 |   0.333333 |
-| Montauban          |         3 |   0.833333 |
 | Nevers             |         3 |   0.833333 |
 | Provence Rugby     |         3 |   0.166667 |
 | Rouen              |         3 |   0.666667 |

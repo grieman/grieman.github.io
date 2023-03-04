@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Pagès  
-date: 2023-03-02 11:28:22.008512  
+date: 2023-03-04 11:41:57.831329  
 categories: player  
 ---
 # Pierre Pagès
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 40.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |             2 |          0 |
+| Carcassonne |             3 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Aurillac   |         1 |          0 |
+| Nevers     |         1 |          0 |
 | Oyonnax    |         1 |          0 |

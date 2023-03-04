@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Mark TAMPIN  
-date: 2023-03-02 11:22:21.169174  
+date: 2023-03-04 11:36:16.200945  
 categories: player  
 ---
 # Mark TAMPIN
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 

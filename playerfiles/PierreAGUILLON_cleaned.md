@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre AGUILLON  
-date: 2023-03-02 11:22:49.353327  
+date: 2023-03-04 11:35:31.428450  
 categories: player  
 ---
 # Pierre AGUILLON
 
 ## Positions: C
 
-## Current elo: 68.0
+## Current elo: 62.0
 
-## Current Percentile: 7.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | La Rochelle       |           126 |   0.615079 |
-| Carcassonne       |            53 |   0.613208 |
+| Carcassonne       |            54 |   0.601852 |
 | Oyonnax           |            47 |   0.489362 |
 | Grenoble          |            45 |   0.688889 |
 | Auch              |            41 |   0.390244 |
@@ -51,10 +51,10 @@ categories: player
 | Albi                   |         8 |   0.5625   |
 | La Rochelle            |         8 |   0.4375   |
 | Narbonne               |         8 |   0.625    |
+| Provence Rugby         |         6 |   0.666667 |
 | Dax                    |         6 |   0.75     |
 | Beziers                |         6 |   1        |
 | Auch                   |         5 |   1        |
-| Provence Rugby         |         5 |   0.8      |
 | Mont-de-Marsan         |         5 |   0.4      |
 | Gloucester Rugby       |         4 |   0.25     |
 | Harlequins             |         4 |   0.5      |

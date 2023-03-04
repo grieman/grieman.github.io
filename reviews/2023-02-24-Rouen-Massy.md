@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Rouen by 12.4
+## Prediction with Player Minutes: Rouen by 13.3
 
 
-Rouen by 8.4 on a neutral field
+Rouen by 9.3 on a neutral field
 ## Scores over Time
 
 
@@ -41,38 +41,38 @@ Rouen by 8.4 on a neutral field
 
 ![In Match Predictions](plots/recap_prob_2023-02-24-Rouen-Massy.png)
 
-There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Rouen by 9.2
+There were 8 large changes in win probability in this match
+## Prediction without Player Minutes: Rouen by 9.8
 
 
-Rouen by 5.2 on a neutral pitch
+Rouen by 5.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                               |   Home Minutes |
 |---------------:|:------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------------------------|---------------:|
-|             54 | [Robin Poipy](..//playerfiles//RobinPoipy_cleaned.md)                   |      86.79 |                26 |        1 |                11 |      80.96 | [Antoine Fournier](..//playerfiles//AntoineFournier_cleaned.md)                           |             57 |
-|             54 | [Pierre Trassoudaine](..//playerfiles//PierreTrassoudaine_cleaned.md)   |     127.32 |                97 |        2 |                58 |      96.54 | [Efitusi Ma'afu](..//playerfiles//EfitusiMa'afu_cleaned.md)                               |             57 |
-|             48 | [Tijde Visser](..//playerfiles//TijdeVisser_cleaned.md)                 |      84.91 |                17 |        3 |                29 |      86.65 | [Cody Thomas](..//playerfiles//CodyThomas_cleaned.md)                                     |             69 |
-|             80 | [Andrew Chauveau](..//playerfiles//AndrewChauveau_cleaned.md)           |      70.98 |                 6 |        4 |                28 |      88.25 | [Jean Leleu](..//playerfiles//JeanLeleu_cleaned.md)                                       |             66 |
-|             54 | [Evrard Dion Oulai](..//playerfiles//EvrardDionOulai_cleaned.md)        |     101.28 |                72 |        5 |                86 |     104.86 | [Jimi Maximin](..//playerfiles//JimiMaximin_cleaned.md)                                   |             80 |
-|             57 | [Samuel Nollet](..//playerfiles//SamuelNollet_cleaned.md)               |      83.63 |                17 |        6 |                44 |      91.73 | [Lucas Costa](..//playerfiles//LucasCosta_cleaned.md)                                     |             80 |
-|             80 | [Abongile Nonkontwana](..//playerfiles//AbongileNonkontwana_cleaned.md) |      87.16 |                25 |        7 |                52 |      96.03 | [Martinus Abraham Tienie Burger](..//playerfiles//MartinusAbrahamTienieBurger_cleaned.md) |             80 |
-|             80 | [Dylan Lam](..//playerfiles//DylanLam_cleaned.md)                       |      77.9  |                 9 |        8 |                52 |      96.45 | [Valentino Mapapalangi](..//playerfiles//ValentinoMapapalangi_cleaned.md)                 |             66 |
-|             59 | [Benjamin Prier](..//playerfiles//BenjaminPrier_cleaned.md)             |     117.93 |                95 |        9 |                30 |      87.36 | [Théo Nanette](..//playerfiles//ThéoNanette_cleaned.md)                                   |             62 |
-|             80 | [Massimo Ortolan](..//playerfiles//MassimoOrtolan_cleaned.md)           |      94.48 |                50 |       10 |                48 |      95.38 | [Franck Pourteau](..//playerfiles//FranckPourteau_cleaned.md)                             |             80 |
-|             80 | [Nathan Farissier](..//playerfiles//NathanFarissier_cleaned.md)         |      84.88 |                20 |       11 |                65 |     100.48 | [Benito Masilevu](..//playerfiles//BenitoMasilevu_cleaned.md)                             |             80 |
-|             80 | [Victorien Jacomme](..//playerfiles//VictorienJacomme_cleaned.md)       |      84.42 |                19 |       12 |                58 |      97.73 | [Taylor Gontineac](..//playerfiles//TaylorGontineac_cleaned.md)                           |             80 |
-|             50 | [Jamie-Jerry Taulagi](..//playerfiles//Jamie-JerryTaulagi_cleaned.md)   |      90.24 |                35 |       13 |                21 |      85.12 | [John Thomas Jackson](..//playerfiles//JohnThomasJackson_cleaned.md)                      |             34 |
-|             80 | [Martin Carré](..//playerfiles//MartinCarré_cleaned.md)                 |     103.83 |                74 |       14 |                62 |      99.08 | [Malcolm Bertschy](..//playerfiles//MalcolmBertschy_cleaned.md)                           |             73 |
-|             51 | [Romain Clouté](..//playerfiles//RomainClouté_cleaned.md)               |      88.25 |                31 |       15 |                93 |     121.07 | [Peter Lydon](..//playerfiles//PeterLydon_cleaned.md)                                     |             80 |
-|             32 | [Guiterembi Vickos](..//playerfiles//GuiterembiVickos_cleaned.md)       |      89.78 |                31 |       16 |                36 |      90.74 | [Willy N'Diaye](..//playerfiles//WillyN'Diaye_cleaned.md)                                 |             46 |
-|             30 | [Mathieu Guillomot](..//playerfiles//MathieuGuillomot_cleaned.md)       |      57.37 |                 2 |       17 |                84 |     104.63 | [Soulemane Camara](..//playerfiles//SoulemaneCamara_cleaned.md)                           |             23 |
-|             29 | [Thomas Rozière](..//playerfiles//ThomasRozière_cleaned.md)             |      83.77 |                18 |       18 |                32 |      89.6  | [Ru-Hann Greyling](..//playerfiles//Ru-HannGreyling_cleaned.md)                           |             23 |
-|             26 | [Fernandez Correa](..//playerfiles//FernandezCorrea_cleaned.md)         |      78.89 |                 9 |       19 |                 5 |      71.45 | [Florent Campeggia](..//playerfiles//FlorentCampeggia_cleaned.md)                         |             18 |
-|             26 | [Louis Bruinsma](..//playerfiles//LouisBruinsma_cleaned.md)             |      82.56 |                17 |       20 |                50 |      95.35 | [Fabien Vincent](..//playerfiles//FabienVincent_cleaned.md)                               |             14 |
-|             26 | [Louis Bruinsma](..//playerfiles//LouisBruinsma_cleaned.md)             |      82.56 |                13 |       20 |                50 |      95.35 | [Fabien Vincent](..//playerfiles//FabienVincent_cleaned.md)                               |             14 |
+|             54 | [Robin Poipy](..//playerfiles//RobinPoipy_cleaned.md)                   |      89.16 |                35 |        1 |                14 |      82.51 | [Antoine Fournier](..//playerfiles//AntoineFournier_cleaned.md)                           |             57 |
+|             54 | [Pierre Trassoudaine](..//playerfiles//PierreTrassoudaine_cleaned.md)   |     127.68 |                97 |        2 |                51 |      94.28 | [Efitusi Ma'afu](..//playerfiles//EfitusiMa'afu_cleaned.md)                               |             57 |
+|             48 | [Tijde Visser](..//playerfiles//TijdeVisser_cleaned.md)                 |      88.79 |                28 |        3 |                25 |      85.46 | [Cody Thomas](..//playerfiles//CodyThomas_cleaned.md)                                     |             69 |
+|             80 | [Andrew Chauveau](..//playerfiles//AndrewChauveau_cleaned.md)           |      67.13 |                 5 |        4 |                34 |      90.36 | [Jean Leleu](..//playerfiles//JeanLeleu_cleaned.md)                                       |             66 |
+|             54 | [Evrard Dion Oulai](..//playerfiles//EvrardDionOulai_cleaned.md)        |      92.94 |                49 |        5 |                85 |     104.16 | [Jimi Maximin](..//playerfiles//JimiMaximin_cleaned.md)                                   |             80 |
+|             57 | [Samuel Nollet](..//playerfiles//SamuelNollet_cleaned.md)               |      83.55 |                17 |        6 |                50 |      93.86 | [Lucas Costa](..//playerfiles//LucasCosta_cleaned.md)                                     |             80 |
+|             80 | [Abongile Nonkontwana](..//playerfiles//AbongileNonkontwana_cleaned.md) |      85.34 |                21 |        7 |                38 |      91.04 | [Martinus Abraham Tienie Burger](..//playerfiles//MartinusAbrahamTienieBurger_cleaned.md) |             80 |
+|             80 | [Dylan Lam](..//playerfiles//DylanLam_cleaned.md)                       |      77.24 |                 8 |        8 |                43 |      93.14 | [Valentino Mapapalangi](..//playerfiles//ValentinoMapapalangi_cleaned.md)                 |             66 |
+|             59 | [Benjamin Prier](..//playerfiles//BenjaminPrier_cleaned.md)             |     115.2  |                93 |        9 |                29 |      86.74 | [Théo Nanette](..//playerfiles//ThéoNanette_cleaned.md)                                   |             62 |
+|             80 | [Massimo Ortolan](..//playerfiles//MassimoOrtolan_cleaned.md)           |      90.81 |                39 |       10 |                52 |      96.58 | [Franck Pourteau](..//playerfiles//FranckPourteau_cleaned.md)                             |             80 |
+|             80 | [Nathan Farissier](..//playerfiles//NathanFarissier_cleaned.md)         |      85.99 |                22 |       11 |                57 |      97.35 | [Benito Masilevu](..//playerfiles//BenitoMasilevu_cleaned.md)                             |             80 |
+|             80 | [Victorien Jacomme](..//playerfiles//VictorienJacomme_cleaned.md)       |      87.5  |                27 |       12 |                63 |      99.56 | [Taylor Gontineac](..//playerfiles//TaylorGontineac_cleaned.md)                           |             80 |
+|             50 | [Jamie-Jerry Taulagi](..//playerfiles//Jamie-JerryTaulagi_cleaned.md)   |      95.16 |                49 |       13 |                14 |      81.28 | [John Thomas Jackson](..//playerfiles//JohnThomasJackson_cleaned.md)                      |             34 |
+|             80 | [Martin Carré](..//playerfiles//MartinCarré_cleaned.md)                 |     102.3  |                71 |       14 |                66 |     100.73 | [Malcolm Bertschy](..//playerfiles//MalcolmBertschy_cleaned.md)                           |             73 |
+|             51 | [Romain Clouté](..//playerfiles//RomainClouté_cleaned.md)               |      81.29 |                19 |       15 |                94 |     121.08 | [Peter Lydon](..//playerfiles//PeterLydon_cleaned.md)                                     |             80 |
+|             32 | [Guiterembi Vickos](..//playerfiles//GuiterembiVickos_cleaned.md)       |      93.09 |                43 |       16 |                45 |      93.22 | [Willy N'Diaye](..//playerfiles//WillyN'Diaye_cleaned.md)                                 |             46 |
+|             30 | [Mathieu Guillomot](..//playerfiles//MathieuGuillomot_cleaned.md)       |      49.05 |                 0 |       17 |                86 |     105.22 | [Soulemane Camara](..//playerfiles//SoulemaneCamara_cleaned.md)                           |             23 |
+|             29 | [Thomas Rozière](..//playerfiles//ThomasRozière_cleaned.md)             |      84.68 |                20 |       18 |                30 |      89.57 | [Ru-Hann Greyling](..//playerfiles//Ru-HannGreyling_cleaned.md)                           |             23 |
+|             26 | [Fernandez Correa](..//playerfiles//FernandezCorrea_cleaned.md)         |      76.32 |                 7 |       19 |                 6 |      72.88 | [Florent Campeggia](..//playerfiles//FlorentCampeggia_cleaned.md)                         |             18 |
+|             26 | [Louis Bruinsma](..//playerfiles//LouisBruinsma_cleaned.md)             |      84.28 |                14 |       20 |                52 |      96.27 | [Fabien Vincent](..//playerfiles//FabienVincent_cleaned.md)                               |             14 |
+|             26 | [Louis Bruinsma](..//playerfiles//LouisBruinsma_cleaned.md)             |      84.28 |                19 |       20 |                52 |      96.27 | [Fabien Vincent](..//playerfiles//FabienVincent_cleaned.md)                               |             14 |
 |             26 | [Randy Grelleaud](..//playerfiles//RandyGrelleaud_cleaned.md)           |      98.06 |                70 |       21 |                28 |      88.23 | [Raphaël Vieilledent](..//playerfiles//RaphaëlVieilledent_cleaned.md)                     |             14 |
-|             23 | [Mehdi Tlili](..//playerfiles//MehdiTlili_cleaned.md)                   |      91.48 |               nan |       22 |                68 |     100.35 | [Hugo Ndiaye](..//playerfiles//HugoNdiaye_cleaned.md)                                     |             11 |
-|             21 | [Gaëtan Pichon](..//playerfiles//GaëtanPichon_cleaned.md)               |      89.39 |                32 |       23 |                30 |      89.67 | [Lucas Malbert](..//playerfiles//LucasMalbert_cleaned.md)                                 |              7 |
+|             23 | [Mehdi Tlili](..//playerfiles//MehdiTlili_cleaned.md)                   |      91.52 |               nan |       22 |                70 |     101.04 | [Hugo Ndiaye](..//playerfiles//HugoNdiaye_cleaned.md)                                     |             11 |
+|             21 | [Gaëtan Pichon](..//playerfiles//GaëtanPichon_cleaned.md)               |      91.35 |                38 |       23 |                32 |      90.71 | [Lucas Malbert](..//playerfiles//LucasMalbert_cleaned.md)                                 |              7 |
 

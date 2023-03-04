@@ -88,86 +88,76 @@ categories: model review projection
 | Stade Francais Paris V Toulon on 2022/11/26              |       -5 |                13.4 |                 17.6 |               1.5 |
 | Racing 92 V Clermont Auvergne on 2022/11/27              |       34 |                10.5 |                 14.9 |               5.6 |
 | Lyon V Stade Toulousain on 2022/11/27                    |        7 |                -6.9 |                 -4   |               0   |
-| Clermont Auvergne V Montpellier Herault on 2022/12/03    |        5 |                 2.8 |                  5.1 |               2.6 |
-| Bayonne V Lyon on 2022/12/03                             |       12 |                 2.6 |                  4.6 |               0.1 |
-| Bordeaux Begles V Brive on 2022/12/03                    |       20 |                 4.9 |                  5   |              11.5 |
-| Stade Toulousain V Perpignan on 2022/12/03               |       21 |                12.8 |                 14.3 |              14.4 |
-| Stade Francais Paris V La Rochelle on 2022/12/03         |       13 |                 6.4 |                  5   |              -0.5 |
+| Clermont Auvergne V Montpellier Herault on 2022/12/03    |        5 |                -1.4 |                  1.7 |               2.6 |
+| Bayonne V Lyon on 2022/12/03                             |       12 |                -0.2 |                  5.3 |               0.1 |
+| Bordeaux Begles V Brive on 2022/12/03                    |       20 |                12.3 |                 10.9 |              11.5 |
+| Stade Toulousain V Perpignan on 2022/12/03               |       21 |                20.2 |                 21.4 |              14.4 |
+| Stade Francais Paris V La Rochelle on 2022/12/03         |       13 |                 8.1 |                  7.9 |              -0.5 |
 | Castres Olympique V Pau on 2022/12/04                    |        4 |                 9.8 |                  5.5 |               6.7 |
 | Toulon V Racing 92 on 2022/12/04                         |      -17 |                 2.2 |                  4.6 |               2.7 |
-| Toulon V Lyon on 2022/12/22                              |       18 |                -1.2 |                 -1.1 |               4.6 |
-| Brive V Clermont Auvergne on 2022/12/23                  |        4 |                -4.3 |                 -8.7 |              -2.2 |
-| La Rochelle V Bordeaux Begles on 2022/12/23              |       -4 |                 5.9 |                  1.5 |               7.6 |
-| Montpellier Herault V Perpignan on 2022/12/23            |       28 |                 9.4 |                  8.4 |              11.9 |
-| Pau V Bayonne on 2022/12/23                              |        0 |                10   |                  8.2 |               5.1 |
-| Stade Toulousain V Castres Olympique on 2022/12/23       |        4 |                12.4 |                 15.2 |               9.5 |
-| Racing 92 V Stade Francais Paris on 2022/12/24           |      -38 |                 7.3 |                  5   |               8.9 |
-| Bordeaux Begles V Montpellier Herault on 2022/12/30      |       30 |                 6.1 |                  3.1 |               3   |
-| Bayonne V Toulon on 2022/12/31                           |        5 |                -1.9 |                  0.1 |               0.1 |
-| Castres Olympique V Racing 92 on 2022/12/31              |        0 |                18.3 |                 19.4 |               1.1 |
-| Lyon V Brive on 2022/12/31                               |       -3 |                 9   |                  8.6 |              12.1 |
-| Perpignan V La Rochelle on 2022/12/31                    |      -19 |                -9.4 |                 -7.5 |              -4.5 |
-| Stade Francais Paris V Pau on 2022/12/31                 |       34 |                20.8 |                 20.3 |               5.8 |
-| Clermont Auvergne V Stade Toulousain on 2023/01/01       |      -19 |                 0.2 |                 -0.7 |              -0.3 |
-| Bordeaux Begles V Bayonne on 2023/01/07                  |        8 |                22.4 |                 21.4 |               9.8 |
-| Brive V Toulon on 2023/01/07                             |        9 |                 9.2 |                  7.9 |              -2.8 |
-| Clermont Auvergne V Perpignan on 2023/01/07              |       11 |                15.2 |                 11.2 |              11.5 |
-| Pau V Lyon on 2023/01/07                                 |       -9 |                 1.4 |                  4.6 |               1.4 |
-| Stade Francais Paris V Castres Olympique on 2023/01/07   |       19 |                15.7 |                 14.1 |               5.7 |
-| La Rochelle V Stade Toulousain on 2023/01/07             |       23 |                 0.3 |                  0.3 |               3.3 |
-| Montpellier Herault V Racing 92 on 2023/01/08            |        5 |                 1.8 |                  1.6 |               3.5 |
-| Lyon V Clermont Auvergne on 2023/01/28                   |       20 |                20.3 |                 22   |               3.8 |
-| Bayonne V Brive on 2023/01/28                            |       28 |                 9   |                 10.5 |               7.1 |
-| Castres Olympique V Bordeaux Begles on 2023/01/28        |        5 |                -6.5 |                 -7   |               2.1 |
-| Perpignan V Stade Francais Paris on 2023/01/28           |        7 |               -16.2 |                -17.3 |              -2.2 |
-| Toulon V Pau on 2023/01/28                               |       10 |                 9.2 |                  8.3 |               8.6 |
-| Racing 92 V La Rochelle on 2023/01/28                    |        3 |                 3.4 |                  6.6 |               2.7 |
-| Stade Toulousain V Montpellier Herault on 2023/01/29     |       14 |                14.6 |                 15.4 |               8.5 |
-| Stade Toulousain V Bayonne on 2023/02/04                 |        5 |                -3.5 |                 -6.8 |              15.1 |
-| Brive V Perpignan on 2023/02/04                          |       -2 |                 4.1 |                  3.9 |               4.7 |
-| Clermont Auvergne V Castres Olympique on 2023/02/04      |       15 |                 1   |                  6.2 |               5.6 |
-| La Rochelle V Lyon on 2023/02/04                         |       -4 |                 8.2 |                  8.2 |               8.6 |
-| Pau V Racing 92 on 2023/02/04                            |       19 |                -8.2 |                 -6.3 |              -1.9 |
-| Montpellier Herault V Toulon on 2023/02/04               |       -2 |                11.8 |                  7.4 |               4.7 |
-| Stade Francais Paris V Bordeaux Begles on 2023/02/05     |        6 |                 8.9 |                 12.6 |               4.3 |
-| Bayonne V Stade Francais Paris on 2023/02/18             |        3 |                 9.5 |                  6.9 |              -0.2 |
-| Castres Olympique V La Rochelle on 2023/02/18            |      -15 |                -9.9 |                -11.6 |              -2.5 |
-| Lyon V Montpellier Herault on 2023/02/18                 |       10 |                21.8 |                 23.7 |               4.6 |
-| Perpignan V Pau on 2023/02/18                            |       20 |                24.6 |                 25.2 |               2.2 |
-| Racing 92 V Brive on 2023/02/18                          |       10 |                -0.2 |                  2.2 |              12.9 |
-| Toulon V Stade Toulousain on 2023/02/18                  |       11 |                -3.6 |                 -0.8 |              -1   |
-| Bordeaux Begles V Clermont Auvergne on 2023/02/19        |        9 |                 4.7 |                  1   |               5.9 |
-| Stade Francais Paris V Montpellier Herault on 2023/02/25 |       10 |                 7.3 |                  7.9 |               3.9 |
-| Bayonne V Castres Olympique on 2023/02/25                |       31 |                20.6 |                 18.3 |               2   |
-| Bordeaux Begles V Perpignan on 2023/02/25                |       36 |                13.1 |                 12.6 |              11.5 |
-| La Rochelle V Brive on 2023/02/25                        |       16 |                24.5 |                 24.4 |              15.9 |
-| Lyon V Racing 92 on 2023/02/25                           |       34 |                 7   |                  8.2 |               3.3 |
-| Stade Toulousain V Pau on 2023/02/25                     |       24 |                 7.3 |                  8.9 |              14.9 |
-| Clermont Auvergne V Toulon on 2023/02/26                 |       15 |                -8.9 |                 -7.5 |               3   |
+| Toulon V Lyon on 2022/12/22                              |       18 |                 2.5 |                  3.5 |               4.6 |
+| Brive V Clermont Auvergne on 2022/12/23                  |        4 |                -1   |                 -5   |              -2.2 |
+| La Rochelle V Bordeaux Begles on 2022/12/23              |       -4 |                 5.7 |                  1.5 |               7.6 |
+| Montpellier Herault V Perpignan on 2022/12/23            |       28 |                 6.6 |                  6.3 |              11.9 |
+| Pau V Bayonne on 2022/12/23                              |        0 |                13.4 |                 11.6 |               5.1 |
+| Stade Toulousain V Castres Olympique on 2022/12/23       |        4 |                 9.1 |                 11.8 |               9.5 |
+| Racing 92 V Stade Francais Paris on 2022/12/24           |      -38 |                12.3 |                  9.8 |               8.9 |
+| Bordeaux Begles V Montpellier Herault on 2022/12/30      |       30 |                 3.3 |                  0.3 |               3   |
+| Bayonne V Toulon on 2022/12/31                           |        5 |                -7.2 |                 -4.8 |               0.1 |
+| Castres Olympique V Racing 92 on 2022/12/31              |        0 |                18.2 |                 19.2 |               1.1 |
+| Lyon V Brive on 2022/12/31                               |       -3 |                 5.9 |                  5.5 |              12.1 |
+| Perpignan V La Rochelle on 2022/12/31                    |      -19 |                -2.3 |                 -1.3 |              -4.5 |
+| Stade Francais Paris V Pau on 2022/12/31                 |       34 |                18.1 |                 17.9 |               5.8 |
+| Clermont Auvergne V Stade Toulousain on 2023/01/01       |      -19 |                 3.5 |                  2.6 |              -0.3 |
+| Bordeaux Begles V Bayonne on 2023/01/07                  |        8 |                19.1 |                 17.9 |               9.8 |
+| Brive V Toulon on 2023/01/07                             |        9 |                10.5 |                  9.1 |              -2.8 |
+| Clermont Auvergne V Perpignan on 2023/01/07              |       11 |                18.3 |                 14.7 |              11.5 |
+| Pau V Lyon on 2023/01/07                                 |       -9 |                 1   |                  4.2 |               1.4 |
+| Stade Francais Paris V Castres Olympique on 2023/01/07   |       19 |                13.6 |                 12.1 |               5.7 |
+| La Rochelle V Stade Toulousain on 2023/01/07             |       23 |                -2.5 |                 -2.5 |               3.3 |
+| Montpellier Herault V Racing 92 on 2023/01/08            |        5 |                 1.2 |                  1   |               3.5 |
+| Lyon V Clermont Auvergne on 2023/01/28                   |       20 |                21.1 |                 22.8 |               3.8 |
+| Bayonne V Brive on 2023/01/28                            |       28 |                 8.6 |                 10.2 |               7.1 |
+| Castres Olympique V Bordeaux Begles on 2023/01/28        |        5 |                -3.9 |                 -4.4 |               2.1 |
+| Perpignan V Stade Francais Paris on 2023/01/28           |        7 |               -12.8 |                -13.8 |              -2.2 |
+| Toulon V Pau on 2023/01/28                               |       10 |                12.7 |                 11.9 |               8.6 |
+| Racing 92 V La Rochelle on 2023/01/28                    |        3 |                 5.3 |                  8.1 |               2.7 |
+| Stade Toulousain V Montpellier Herault on 2023/01/29     |       14 |                12.7 |                 13.3 |               8.5 |
+| Stade Toulousain V Bayonne on 2023/02/04                 |        5 |                 0   |                 -3.1 |              15.1 |
+| Brive V Perpignan on 2023/02/04                          |       -2 |                 3.7 |                  4   |               4.7 |
+| Clermont Auvergne V Castres Olympique on 2023/02/04      |       15 |                 2.9 |                  8.1 |               5.6 |
+| La Rochelle V Lyon on 2023/02/04                         |       -4 |                 7.5 |                  7.4 |               8.6 |
+| Pau V Racing 92 on 2023/02/04                            |       19 |                -2.9 |                 -0.8 |              -1.9 |
+| Montpellier Herault V Toulon on 2023/02/04               |       -2 |                 8.4 |                  4.5 |               4.7 |
+| Stade Francais Paris V Bordeaux Begles on 2023/02/05     |        6 |                 9.7 |                 13   |               4.3 |
+| Bayonne V Stade Francais Paris on 2023/02/18             |        3 |                10.5 |                  7.8 |              -0.2 |
+| Castres Olympique V La Rochelle on 2023/02/18            |      -15 |                -6.2 |                 -7.5 |              -2.5 |
+| Lyon V Montpellier Herault on 2023/02/18                 |       10 |                26.2 |                 27.6 |               4.6 |
+| Perpignan V Pau on 2023/02/18                            |       20 |                19.4 |                 20.4 |               2.2 |
+| Racing 92 V Brive on 2023/02/18                          |       10 |                -0.7 |                  1.8 |              12.9 |
+| Toulon V Stade Toulousain on 2023/02/18                  |       11 |                -8.2 |                 -5.8 |              -1   |
+| Bordeaux Begles V Clermont Auvergne on 2023/02/19        |        9 |                 2.5 |                 -1   |               5.9 |
+| Stade Francais Paris V Montpellier Herault on 2023/02/25 |       10 |                10.5 |                 10.8 |               3.9 |
+| Bayonne V Castres Olympique on 2023/02/25                |       31 |                21.3 |                 19.1 |               2   |
+| Bordeaux Begles V Perpignan on 2023/02/25                |       36 |                14.5 |                 14.4 |              11.5 |
+| La Rochelle V Brive on 2023/02/25                        |       16 |                21.2 |                 21.3 |              15.9 |
+| Lyon V Racing 92 on 2023/02/25                           |       34 |                 5.6 |                  7   |               3.3 |
+| Stade Toulousain V Pau on 2023/02/25                     |       24 |                 7.3 |                  8.6 |              14.9 |
+| Clermont Auvergne V Toulon on 2023/02/26                 |       15 |                -5.5 |                 -4.1 |               3   |
+| Montpellier Herault V Clermont Auvergne on 2023/03/04    |       28 |                 0.3 |                 -1.5 |               5.2 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 11.2 | 11.2 | 10.8 |
-| Correct Winner |       - | 65.4% | 66.2% | 69.2% |
+| Average Error |       - | 11.3 | 11.2 | 10.9 |
+| Correct Winner |       - | 64.2% | 63.4% | 69.4% |
 
 
 ## Future Club-Level Match Predictions
 
 ### Week 6
 
-#### Montpellier Herault V Clermont Auvergne on 2023/03/04
-
-
-Average Margin: Montpellier Herault by 4.1
-
-<p float="left">
-<img src="plots/performances_Montpellier Herault_V_Clermont Auvergne_6.png" width="32%" />
-<img src="plots/resultbar_Montpellier Herault_V_Clermont Auvergne_6.png" width="32%" />
-<img src="plots/spreads_Montpellier Herault_V_Clermont Auvergne_6.png" width="32%" />
-</p>
-
 #### Brive V Bordeaux Begles on 2023/03/04
 
 
-Average Margin: Bordeaux Begles by 4.0
+Average Margin: Bordeaux Begles by 3.6
 
 <p float="left">
 <img src="plots/performances_Brive_V_Bordeaux Begles_6.png" width="32%" />
@@ -178,7 +168,7 @@ Average Margin: Bordeaux Begles by 4.0
 #### Castres Olympique V Lyon on 2023/03/04
 
 
-Average Margin: Lyon by 1.7
+Average Margin: Lyon by 1.6
 
 <p float="left">
 <img src="plots/performances_Castres Olympique_V_Lyon_6.png" width="32%" />
@@ -189,7 +179,7 @@ Average Margin: Lyon by 1.7
 #### Pau V La Rochelle on 2023/03/04
 
 
-Average Margin: La Rochelle by 5.7
+Average Margin: La Rochelle by 5.9
 
 <p float="left">
 <img src="plots/performances_Pau_V_La Rochelle_6.png" width="32%" />
@@ -200,7 +190,7 @@ Average Margin: La Rochelle by 5.7
 #### Perpignan V Bayonne on 2023/03/04
 
 
-Average Margin: Perpignan by 0.9
+Average Margin: Perpignan by 0.7
 
 <p float="left">
 <img src="plots/performances_Perpignan_V_Bayonne_6.png" width="32%" />
@@ -211,7 +201,7 @@ Average Margin: Perpignan by 0.9
 #### Toulon V Stade Francais Paris on 2023/03/04
 
 
-Average Margin: Toulon by 4.0
+Average Margin: Toulon by 4.1
 
 <p float="left">
 <img src="plots/performances_Toulon_V_Stade Francais Paris_6.png" width="32%" />
@@ -222,7 +212,7 @@ Average Margin: Toulon by 4.0
 #### Racing 92 V Stade Toulousain on 2023/03/05
 
 
-Average Margin: Stade Toulousain by 1.0
+Average Margin: Stade Toulousain by 1.2
 
 <p float="left">
 <img src="plots/performances_Racing 92_V_Stade Toulousain_6.png" width="32%" />
@@ -235,7 +225,7 @@ Average Margin: Stade Toulousain by 1.0
 #### Bayonne V Pau on 2023/03/25
 
 
-Average Margin: Bayonne by 3.9
+Average Margin: Bayonne by 4.0
 
 <p float="left">
 <img src="plots/performances_Bayonne_V_Pau_7.png" width="32%" />
@@ -246,7 +236,7 @@ Average Margin: Bayonne by 3.9
 #### Clermont Auvergne V Brive on 2023/03/25
 
 
-Average Margin: Clermont Auvergne by 9.4
+Average Margin: Clermont Auvergne by 8.9
 
 <p float="left">
 <img src="plots/performances_Clermont Auvergne_V_Brive_7.png" width="32%" />
@@ -279,7 +269,7 @@ Average Margin: Lyon by 4.3
 #### Stade Francais Paris V Racing 92 on 2023/03/25
 
 
-Average Margin: Stade Francais Paris by 2.8
+Average Margin: Stade Francais Paris by 2.7
 
 <p float="left">
 <img src="plots/performances_Stade Francais Paris_V_Racing 92_7.png" width="32%" />
@@ -290,7 +280,7 @@ Average Margin: Stade Francais Paris by 2.8
 #### Perpignan V Montpellier Herault on 2023/03/25
 
 
-Average Margin: Montpellier Herault by 3.2
+Average Margin: Montpellier Herault by 3.5
 
 <p float="left">
 <img src="plots/performances_Perpignan_V_Montpellier Herault_7.png" width="32%" />
@@ -314,7 +304,7 @@ Average Margin: La Rochelle by 0.9
 #### Brive V Stade Francais Paris on 2023/04/15
 
 
-Average Margin: Stade Francais Paris by 3.4
+Average Margin: Stade Francais Paris by 3.6
 
 <p float="left">
 <img src="plots/performances_Brive_V_Stade Francais Paris_8.png" width="32%" />
@@ -325,7 +315,7 @@ Average Margin: Stade Francais Paris by 3.4
 #### Montpellier Herault V Castres Olympique on 2023/04/15
 
 
-Average Margin: Montpellier Herault by 6.6
+Average Margin: Montpellier Herault by 6.9
 
 <p float="left">
 <img src="plots/performances_Montpellier Herault_V_Castres Olympique_8.png" width="32%" />
@@ -336,7 +326,7 @@ Average Margin: Montpellier Herault by 6.6
 #### Racing 92 V Bordeaux Begles on 2023/04/15
 
 
-Average Margin: Racing 92 by 3.7
+Average Margin: Racing 92 by 3.8
 
 <p float="left">
 <img src="plots/performances_Racing 92_V_Bordeaux Begles_8.png" width="32%" />
@@ -347,7 +337,7 @@ Average Margin: Racing 92 by 3.7
 #### Toulon V Perpignan on 2023/04/15
 
 
-Average Margin: Toulon by 10.6
+Average Margin: Toulon by 10.2
 
 <p float="left">
 <img src="plots/performances_Toulon_V_Perpignan_8.png" width="32%" />
@@ -358,7 +348,7 @@ Average Margin: Toulon by 10.6
 #### La Rochelle V Bayonne on 2023/04/15
 
 
-Average Margin: La Rochelle by 11.7
+Average Margin: La Rochelle by 12.0
 
 <p float="left">
 <img src="plots/performances_La Rochelle_V_Bayonne_8.png" width="32%" />
@@ -369,7 +359,7 @@ Average Margin: La Rochelle by 11.7
 #### Pau V Clermont Auvergne on 2023/04/15
 
 
-Average Margin: Clermont Auvergne by 0.5
+Average Margin: Clermont Auvergne by 0.1
 
 <p float="left">
 <img src="plots/performances_Pau_V_Clermont Auvergne_8.png" width="32%" />
@@ -380,7 +370,7 @@ Average Margin: Clermont Auvergne by 0.5
 #### Stade Toulousain V Lyon on 2023/04/15
 
 
-Average Margin: Stade Toulousain by 7.0
+Average Margin: Stade Toulousain by 6.8
 
 <p float="left">
 <img src="plots/performances_Stade Toulousain_V_Lyon_8.png" width="32%" />
@@ -393,7 +383,7 @@ Average Margin: Stade Toulousain by 7.0
 #### Bayonne V Montpellier Herault on 2023/04/22
 
 
-Average Margin: Montpellier Herault by 0.6
+Average Margin: Montpellier Herault by 1.1
 
 <p float="left">
 <img src="plots/performances_Bayonne_V_Montpellier Herault_9.png" width="32%" />
@@ -404,7 +394,7 @@ Average Margin: Montpellier Herault by 0.6
 #### Brive V Pau on 2023/04/22
 
 
-Average Margin: Brive by 1.2
+Average Margin: Brive by 1.3
 
 <p float="left">
 <img src="plots/performances_Brive_V_Pau_9.png" width="32%" />
@@ -415,7 +405,7 @@ Average Margin: Brive by 1.2
 #### Castres Olympique V Toulon on 2023/04/22
 
 
-Average Margin: Toulon by 0.7
+Average Margin: Toulon by 0.8
 
 <p float="left">
 <img src="plots/performances_Castres Olympique_V_Toulon_9.png" width="32%" />
@@ -426,7 +416,7 @@ Average Margin: Toulon by 0.7
 #### La Rochelle V Clermont Auvergne on 2023/04/22
 
 
-Average Margin: La Rochelle by 8.6
+Average Margin: La Rochelle by 9.2
 
 <p float="left">
 <img src="plots/performances_La Rochelle_V_Clermont Auvergne_9.png" width="32%" />
@@ -437,7 +427,7 @@ Average Margin: La Rochelle by 8.6
 #### Stade Francais Paris V Stade Toulousain on 2023/04/22
 
 
-Average Margin: Stade Toulousain by 2.2
+Average Margin: Stade Toulousain by 1.8
 
 <p float="left">
 <img src="plots/performances_Stade Francais Paris_V_Stade Toulousain_9.png" width="32%" />
@@ -448,7 +438,7 @@ Average Margin: Stade Toulousain by 2.2
 #### Bordeaux Begles V Lyon on 2023/04/22
 
 
-Average Margin: Bordeaux Begles by 2.0
+Average Margin: Bordeaux Begles by 2.2
 
 <p float="left">
 <img src="plots/performances_Bordeaux Begles_V_Lyon_9.png" width="32%" />
@@ -472,7 +462,7 @@ Average Margin: Racing 92 by 3.9
 #### Clermont Auvergne V Stade Francais Paris on 2023/05/06
 
 
-Average Margin: Clermont Auvergne by 2.6
+Average Margin: Clermont Auvergne by 2.2
 
 <p float="left">
 <img src="plots/performances_Clermont Auvergne_V_Stade Francais Paris_10.png" width="32%" />
@@ -483,7 +473,7 @@ Average Margin: Clermont Auvergne by 2.6
 #### Lyon V Perpignan on 2023/05/06
 
 
-Average Margin: Lyon by 11.5
+Average Margin: Lyon by 11.3
 
 <p float="left">
 <img src="plots/performances_Lyon_V_Perpignan_10.png" width="32%" />
@@ -494,7 +484,7 @@ Average Margin: Lyon by 11.5
 #### Racing 92 V Bayonne on 2023/05/06
 
 
-Average Margin: Racing 92 by 7.8
+Average Margin: Racing 92 by 8.0
 
 <p float="left">
 <img src="plots/performances_Racing 92_V_Bayonne_10.png" width="32%" />
@@ -505,7 +495,7 @@ Average Margin: Racing 92 by 7.8
 #### Montpellier Herault V Brive on 2023/05/06
 
 
-Average Margin: Montpellier Herault by 10.2
+Average Margin: Montpellier Herault by 10.6
 
 <p float="left">
 <img src="plots/performances_Montpellier Herault_V_Brive_10.png" width="32%" />
@@ -516,7 +506,7 @@ Average Margin: Montpellier Herault by 10.2
 #### Toulon V La Rochelle on 2023/05/06
 
 
-Average Margin: La Rochelle by 0.7
+Average Margin: La Rochelle by 0.8
 
 <p float="left">
 <img src="plots/performances_Toulon_V_La Rochelle_10.png" width="32%" />
@@ -527,7 +517,7 @@ Average Margin: La Rochelle by 0.7
 #### Pau V Castres Olympique on 2023/05/06
 
 
-Average Margin: Pau by 2.2
+Average Margin: Pau by 2.3
 
 <p float="left">
 <img src="plots/performances_Pau_V_Castres Olympique_10.png" width="32%" />
@@ -551,7 +541,7 @@ Average Margin: Stade Toulousain by 8.3
 #### Bayonne V Clermont Auvergne on 2023/05/13
 
 
-Average Margin: Bayonne by 0.2
+Average Margin: Bayonne by 0.7
 
 <p float="left">
 <img src="plots/performances_Bayonne_V_Clermont Auvergne_11.png" width="32%" />
@@ -562,7 +552,7 @@ Average Margin: Bayonne by 0.2
 #### Brive V Castres Olympique on 2023/05/13
 
 
-Average Margin: Castres Olympique by 0.2
+Average Margin: Castres Olympique by 0.3
 
 <p float="left">
 <img src="plots/performances_Brive_V_Castres Olympique_11.png" width="32%" />
@@ -573,7 +563,7 @@ Average Margin: Castres Olympique by 0.2
 #### Montpellier Herault V La Rochelle on 2023/05/13
 
 
-Average Margin: La Rochelle by 1.5
+Average Margin: La Rochelle by 0.8
 
 <p float="left">
 <img src="plots/performances_Montpellier Herault_V_La Rochelle_11.png" width="32%" />
@@ -584,7 +574,7 @@ Average Margin: La Rochelle by 1.5
 #### Stade Francais Paris V Lyon on 2023/05/13
 
 
-Average Margin: Stade Francais Paris by 1.8
+Average Margin: Stade Francais Paris by 1.6
 
 <p float="left">
 <img src="plots/performances_Stade Francais Paris_V_Lyon_11.png" width="32%" />
@@ -617,7 +607,7 @@ Average Margin: Bordeaux Begles by 8.3
 #### Perpignan V Stade Toulousain on 2023/05/13
 
 
-Average Margin: Stade Toulousain by 8.2
+Average Margin: Stade Toulousain by 8.4
 
 <p float="left">
 <img src="plots/performances_Perpignan_V_Stade Toulousain_11.png" width="32%" />
@@ -641,7 +631,7 @@ Average Margin: Lyon by 8.7
 #### Clermont Auvergne V Racing 92 on 2023/05/27
 
 
-Average Margin: Clermont Auvergne by 2.0
+Average Margin: Clermont Auvergne by 1.6
 
 <p float="left">
 <img src="plots/performances_Clermont Auvergne_V_Racing 92_12.png" width="32%" />
@@ -652,7 +642,7 @@ Average Margin: Clermont Auvergne by 2.0
 #### Castres Olympique V Perpignan on 2023/05/27
 
 
-Average Margin: Castres Olympique by 6.3
+Average Margin: Castres Olympique by 6.5
 
 <p float="left">
 <img src="plots/performances_Castres Olympique_V_Perpignan_12.png" width="32%" />
@@ -663,7 +653,7 @@ Average Margin: Castres Olympique by 6.3
 #### Toulon V Bordeaux Begles on 2023/05/27
 
 
-Average Margin: Toulon by 3.5
+Average Margin: Toulon by 3.6
 
 <p float="left">
 <img src="plots/performances_Toulon_V_Bordeaux Begles_12.png" width="32%" />
@@ -674,7 +664,7 @@ Average Margin: Toulon by 3.5
 #### Pau V Montpellier Herault on 2023/05/27
 
 
-Average Margin: Montpellier Herault by 1.0
+Average Margin: Montpellier Herault by 1.6
 
 <p float="left">
 <img src="plots/performances_Pau_V_Montpellier Herault_12.png" width="32%" />
@@ -696,7 +686,7 @@ Average Margin: La Rochelle by 7.9
 #### Stade Toulousain V Brive on 2023/05/27
 
 
-Average Margin: Stade Toulousain by 15.5
+Average Margin: Stade Toulousain by 15.4
 
 <p float="left">
 <img src="plots/performances_Stade Toulousain_V_Brive_12.png" width="32%" />

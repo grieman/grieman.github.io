@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe SPROSTON  
-date: 2023-03-02 11:23:06.534905  
+date: 2023-03-04 11:35:22.923591  
 categories: player  
 ---
 # Joe SPROSTON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 

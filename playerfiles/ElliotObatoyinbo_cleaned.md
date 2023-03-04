@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Elliot Obatoyinbo  
-date: 2023-03-02 11:25:19.837651  
+date: 2023-03-04 11:34:19.000896  
 categories: player  
 ---
 # Elliot Obatoyinbo
 
 ## Positions: FB
 
-## Current elo: 86.0
+## Current elo: 94.0
 
-## Current Percentile: 50.0
+## Current Percentile: 29.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luke STRATFORD  
-date: 2023-02-06 16:02:13.199751  
+date: 2023-03-04 11:37:13.457121  
 categories: player  
 ---
 # Luke STRATFORD
 
 ## Positions: H
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 78.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            54 |   0.407407 |
+| Hartpury College |            55 |   0.418182 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,9 +31,9 @@ categories: player
 | Doncaster           |         5 |   0.2      |
 | Richmond            |         5 |   0.6      |
 | Coventry            |         4 |   0.5      |
+| Nottingham          |         4 |   0.5      |
 | Ampthill            |         3 |   0.666667 |
 | Ealing Trailfinders |         3 |   0        |
-| Nottingham          |         3 |   0.333333 |
 | Yorkshire Carnegie  |         3 |   0.5      |
 | Bedford             |         2 |   0.5      |
 | Bristol Rugby       |         2 |   0        |

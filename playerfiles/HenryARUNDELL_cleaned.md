@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry ARUNDELL  
-date: 2023-03-02 11:25:29.047194  
+date: 2023-03-04 11:40:31.064178  
 categories: player  
 ---
 # Henry ARUNDELL
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 52.0
+## Current Percentile: 50.0
 
 # Elo History
 

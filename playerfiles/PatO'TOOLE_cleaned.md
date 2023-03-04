@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pat O'TOOLE  
-date: 2023-03-02 11:27:58.360770  
+date: 2023-03-04 11:39:44.182045  
 categories: player  
 ---
 # Pat O'TOOLE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 57.0
 
-## Current Percentile: 4.0
+## Current Percentile: 3.0
 
 # Elo History
 

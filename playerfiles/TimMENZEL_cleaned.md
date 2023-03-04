@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tim MENZEL  
-date: 2023-02-28 13:58:15.588758  
+date: 2023-03-04 11:39:29.990422  
 categories: player  
 ---
 # Tim MENZEL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 76.0
+## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            37 |   0.648649 |
+| Valence Romans Drome Rugby |            38 |   0.657895 |
 | Vannes                     |            24 |   0.583333 |
 | Germany                    |            22 |   0.363636 |
 
@@ -50,11 +50,12 @@ categories: player
 | Aubenas                    |         2 |   1        |
 | Massy                      |         2 |   0.5      |
 | Georgia                    |         2 |   0        |
-| Colomiers                  |         2 |   1        |
+| Carqueiranne-Hyères        |         2 |   1        |
 | Aurillac                   |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
-| Carqueiranne-Hyères        |         2 |   1        |
+| Bourgoin-Jallieu           |         2 |   1        |
 | Carcassonne                |         2 |   0.5      |
+| Colomiers                  |         2 |   1        |
 | Dijon                      |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
@@ -62,7 +63,6 @@ categories: player
 | Mont-de-Marsan             |         1 |   1        |
 | Canada                     |         1 |   0        |
 | Brive                      |         1 |   0        |
-| Bourgoin-Jallieu           |         1 |   1        |
 | Namibia                    |         1 |   0        |
 | Beziers                    |         1 |   1        |
 | Spain                      |         1 |   0        |

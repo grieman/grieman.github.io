@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thomas LARRIEU  
-date: 2023-03-02 11:22:22.267451  
+date: 2023-03-04 11:36:19.443822  
 categories: player  
 ---
 # Thomas LARRIEU
 
 ## Positions: H
 
-## Current elo: 129.0
+## Current elo: 127.0
 
 ## Current Percentile: 97.0
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Colomiers      |            60 |   0.575    |
+| Colomiers      |            61 |   0.565574 |
 | Dax            |            38 |   0.355263 |
 | Roval Drome XV |            15 |   0.2      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Oyonnax                    |         9 |   0.5      |
 | Aurillac                   |         8 |   0.5      |
-| Oyonnax                    |         8 |   0.5625   |
 | Montauban                  |         7 |   0.142857 |
 | Carcassonne                |         7 |   0.285714 |
 | Provence Rugby             |         6 |   0.666667 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago GRONDONA  
-date: 2023-03-02 11:23:30.310470  
+date: 2023-03-04 11:41:31.630239  
 categories: player  
 ---
 # Santiago GRONDONA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 

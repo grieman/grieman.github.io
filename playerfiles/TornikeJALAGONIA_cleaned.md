@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tornike JALAGONIA  
-date: 2023-03-02 11:26:47.746051  
+date: 2023-03-04 11:38:16.137812  
 categories: player  
 ---
 # Tornike JALAGONIA
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 103.0
+## Current elo: 105.0
 
 ## Current Percentile: 66.0
 
@@ -23,35 +23,36 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            41 |   0.463415 |
+| Biarritz Olympique |            42 |   0.464286 |
 | Georgia            |            15 |   0.733333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Portugal             |         3 |   0.833333 |
 | Vannes               |         3 |   0.666667 |
-| Carcassonne          |         3 |   0.666667 |
 | Perpignan            |         3 |   0        |
-| Bordeaux Begles      |         2 |   0.5      |
-| Brive                |         2 |   0.5      |
-| Toulon               |         2 |   0        |
-| Colomiers            |         2 |   1        |
+| Carcassonne          |         3 |   0.666667 |
 | Stade Francais Paris |         2 |   0.5      |
 | Romania              |         2 |   1        |
 | Rouen                |         2 |   0.5      |
 | Russia               |         2 |   1        |
-| Mont-de-Marsan       |         2 |   0        |
 | Montauban            |         2 |   1        |
-| Samoa                |         1 |   0        |
+| Mont-de-Marsan       |         2 |   0        |
+| Grenoble             |         2 |   0.75     |
+| Colomiers            |         2 |   1        |
+| Toulon               |         2 |   0        |
+| Brive                |         2 |   0.5      |
+| Bordeaux Begles      |         2 |   0.5      |
 | Racing 92            |         1 |   1        |
-| Agen                 |         1 |   0        |
-| South Africa         |         1 |   0        |
-| Soyaux-Angouleme     |         1 |   1        |
-| Provence Rugby       |         1 |   1        |
-| Stade Toulousain     |         1 |   0        |
-| Uruguay              |         1 |   1        |
 | Spain                |         1 |   1        |
+| Soyaux-Angouleme     |         1 |   1        |
+| Stade Toulousain     |         1 |   0        |
+| South Africa         |         1 |   0        |
+| Samoa                |         1 |   0        |
+| Uruguay              |         1 |   1        |
+| Agen                 |         1 |   0        |
 | Newcastle Falcons    |         1 |   0        |
+| Provence Rugby       |         1 |   1        |
 | Oyonnax              |         1 |   1        |
 | Aurillac             |         1 |   1        |
 | Nevers               |         1 |   0.5      |
@@ -59,7 +60,6 @@ categories: player
 | Montpellier Herault  |         1 |   0        |
 | Lyon                 |         1 |   0        |
 | La Rochelle          |         1 |   0        |
-| Grenoble             |         1 |   1        |
 | France               |         1 |   0        |
 | Fiji                 |         1 |   0.5      |
 | Clermont Auvergne    |         1 |   0        |

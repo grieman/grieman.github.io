@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George EDGSON  
-date: 2023-02-06 16:02:09.318833  
+date: 2023-03-04 11:38:27.112832  
 categories: player  
 ---
 # George EDGSON
 
 ## Positions: H, FL
 
-## Current elo: 116.0
+## Current elo: 117.0
 
-## Current Percentile: 90.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Doncaster           |            37 |   0.648649 |
+| Doncaster           |            38 |   0.631579 |
 | Bedford             |            21 |   0.333333 |
 | Jersey              |             3 |   0.333333 |
 | Ealing Trailfinders |             2 |   0.5      |
@@ -32,9 +32,9 @@ categories: player
 | Cornish Pirates     |         7 |   0.142857 |
 | Jersey              |         7 |   0.428571 |
 | Nottingham          |         7 |   0.714286 |
+| Bedford             |         6 |   0.666667 |
 | Ealing Trailfinders |         6 |   0.333333 |
 | Hartpury College    |         6 |   0.833333 |
-| Bedford             |         5 |   0.8      |
 | Richmond            |         5 |   0.8      |
 | Doncaster           |         4 |   0.375    |
 | Ampthill            |         3 |   0.666667 |

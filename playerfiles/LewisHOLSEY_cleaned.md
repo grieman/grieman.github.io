@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lewis HOLSEY  
-date: 2023-02-06 16:04:16.650350  
+date: 2023-03-04 11:35:11.920688  
 categories: player  
 ---
 # Lewis HOLSEY
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 47.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hartpury College |            13 |   0.307692 |
-| Bedford          |             8 |   0.5      |
+| Bedford          |             9 |   0.555556 |
 | London Scottish  |             5 |   0.2      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ampthill            |         5 |       0.4  |
+| Doncaster           |         4 |       0.25 |
 | Nottingham          |         4 |       0.75 |
-| Doncaster           |         3 |       0    |
 | Ealing Trailfinders |         3 |       0    |
 | Bedford             |         2 |       0.5  |
 | Coventry            |         2 |       0    |

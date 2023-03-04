@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will HOLLING  
-date: 2023-02-06 16:02:21.845618  
+date: 2023-03-04 11:38:19.009103  
 categories: player  
 ---
 # Will HOLLING
 
 ## Positions: H
 
-## Current elo: 98.0
+## Current elo: 96.0
 
-## Current Percentile: 47.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |            29 |   0.586207 |
+| Doncaster |            30 |   0.566667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bedford             |         4 |   0.5      |
 | Hartpury College    |         4 |   0.75     |
-| Bedford             |         3 |   0.666667 |
 | Coventry            |         3 |   0        |
 | Jersey              |         3 |   0.333333 |
 | London Scottish     |         3 |   1        |

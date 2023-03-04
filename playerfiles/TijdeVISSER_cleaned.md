@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tijde VISSER  
-date: 2023-03-02 11:20:50.734506  
+date: 2023-03-04 11:39:04.915543  
 categories: player  
 ---
 # Tijde VISSER
 
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 91.0
 
-## Current Percentile: 17.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Massy   |            30 |   0.666667 |
+| Massy   |            31 |   0.645161 |
 | Griquas |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Carcassonne                |         3 |        1   |
 | Soyaux-Angouleme           |         3 |        0   |
+| Carcassonne                |         3 |        1   |
 | Chambery                   |         2 |        1   |
 | Dax                        |         2 |        1   |
 | Albi                       |         2 |        1   |
@@ -41,14 +41,15 @@ categories: player
 | Rouen                      |         1 |        0   |
 | Pumas                      |         1 |        0   |
 | Provence Rugby             |         1 |        1   |
-| Mont-de-Marsan             |         1 |        0   |
-| Montauban                  |         1 |        1   |
 | Grenoble                   |         1 |        0   |
+| Montauban                  |         1 |        1   |
+| Mont-de-Marsan             |         1 |        0   |
 | Free State Cheetahs        |         1 |        0   |
 | Colomiers                  |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Bourgoin-Jallieu           |         1 |        1   |
 | Blagnac                    |         1 |        1   |
+| Biarritz Olympique         |         1 |        0   |
 | Beziers                    |         1 |        0   |
 | Aubenas                    |         1 |        1   |
 | Western Province           |         1 |        0   |

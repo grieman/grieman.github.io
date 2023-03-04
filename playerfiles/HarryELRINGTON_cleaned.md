@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry ELRINGTON  
-date: 2023-03-02 11:26:39.748063  
+date: 2023-03-04 11:34:26.310948  
 categories: player  
 ---
 # Harry ELRINGTON
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 47.0
+## Current Percentile: 49.0
 
 # Elo History
 

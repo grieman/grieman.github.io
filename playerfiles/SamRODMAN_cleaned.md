@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam RODMAN  
-date: 2023-02-06 16:01:19.373804  
+date: 2023-03-04 11:35:13.474169  
 categories: player  
 ---
 # Sam RODMAN
 
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 85.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -24,13 +24,13 @@ categories: player
 | Cornish Pirates     |            29 |   0.741379 |
 | Jersey              |            18 |   0.611111 |
 | Ealing Trailfinders |            12 |   0.541667 |
-| Hartpury College    |             7 |   0.428571 |
+| Hartpury College    |             8 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Doncaster           |         7 |   0.571429 |
+| Nottingham          |         7 |   0.857143 |
 | Richmond            |         7 |   0.785714 |
-| Nottingham          |         6 |   0.833333 |
 | Bedford             |         5 |   0.6      |
 | Cornish Pirates     |         5 |   0.6      |
 | Hartpury College    |         5 |   0.8      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain CLOUTé  
-date: 2023-03-02 11:25:36.149677  
+date: 2023-03-04 11:41:13.429449  
 categories: player  
 ---
 # Romain CLOUTé
 
 ## Positions: FB
 
-## Current elo: 92.0
+## Current elo: 85.0
 
-## Current Percentile: 31.0
+## Current Percentile: 19.0
 
 # Elo History
 

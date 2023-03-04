@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jake ARMSTRONG  
-date: 2023-02-06 16:01:45.757918  
+date: 2023-03-04 11:35:14.780089  
 categories: player  
 ---
 # Jake ARMSTRONG
 
 ## Positions: P
 
-## Current elo: 111.0
+## Current elo: 102.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,42 +23,41 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Jersey           |            35 |   0.614286 |
 | Bristol Rugby    |            31 |   0.532258 |
-| Doncaster        |            12 |   0.583333 |
 | Hartpury College |             7 |   0.142857 |
+| Doncaster        |             6 |   0.5      |
 | Edinburgh        |             2 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| Nottingham             |         7 |   0.5      |
-| London Scottish        |         6 |   0.833333 |
-| Cornish Pirates        |         5 |   0.8      |
-| Richmond               |         5 |   0.8      |
-| Yorkshire Carnegie     |         4 |   0.25     |
-| Ealing Trailfinders    |         4 |   0        |
+| Nottingham             |         6 |   0.416667 |
+| London Scottish        |         5 |   0.8      |
 | London Irish           |         4 |   0.625    |
-| Rotherham Titans       |         3 |   1        |
-| La Rochelle            |         3 |   0.333333 |
+| Cornish Pirates        |         4 |   1        |
+| Ealing Trailfinders    |         4 |   0        |
+| Yorkshire Carnegie     |         4 |   0.25     |
+| Richmond               |         4 |   0.75     |
 | Bedford                |         3 |   0.666667 |
-| Wasps                  |         3 |   0.333333 |
+| Bath Rugby             |         3 |   0.666667 |
 | Doncaster              |         3 |   0.333333 |
 | Gloucester Rugby       |         3 |   0.666667 |
-| Hartpury College       |         3 |   0.666667 |
-| Bath Rugby             |         3 |   0.666667 |
-| Leicester Tigers       |         2 |   0.5      |
-| RC Enisei              |         2 |   1        |
-| Newcastle Falcons      |         2 |   0.5      |
+| Rotherham Titans       |         3 |   1        |
+| Wasps                  |         3 |   0.333333 |
+| La Rochelle            |         3 |   0.333333 |
 | Saracens               |         2 |   0        |
-| Worcester Warriors     |         2 |   0.5      |
-| Northampton Saints     |         2 |   0        |
 | Zebre                  |         2 |   0.5      |
+| Northampton Saints     |         2 |   0        |
+| Newcastle Falcons      |         2 |   0.5      |
+| Hartpury College       |         2 |   1        |
+| Leicester Tigers       |         2 |   0.5      |
 | Harlequins             |         2 |   0.5      |
+| Worcester Warriors     |         2 |   0.5      |
 | Coventry               |         2 |   0        |
 | Bristol Rugby          |         2 |   0.5      |
+| RC Enisei              |         2 |   1        |
+| Ampthill               |         1 |   1        |
 | Munster                |         1 |   0        |
 | London Welsh           |         1 |   0        |
-| Leinster               |         1 |   0        |
 | Jersey                 |         1 |   0        |
 | Exeter Chiefs          |         1 |   1        |
 | Enisey-STM Krasnoyarsk |         1 |   1        |
-| Caldy                  |         1 |   1        |
-| Ampthill               |         1 |   1        |
+| Leinster               |         1 |   0        |

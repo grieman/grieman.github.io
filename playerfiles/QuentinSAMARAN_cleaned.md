@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Quentin SAMARAN  
-date: 2023-03-02 11:26:27.670091  
+date: 2023-03-04 11:41:23.725680  
 categories: player  
 ---
 # Quentin SAMARAN
 
 ## Positions: P
 
-## Current elo: 77.0
+## Current elo: 78.0
 
 ## Current Percentile: 9.0
 
@@ -22,17 +22,17 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Beziers            |            54 |   0.518519 |
-| Biarritz Olympique |            18 |   0.388889 |
+| Biarritz Olympique |            19 |   0.394737 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         6 |   0.333333 |
 | Aurillac                   |         5 |   0.8      |
+| Grenoble                   |         5 |   0.5      |
 | Montauban                  |         4 |   0.75     |
 | Biarritz Olympique         |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.5      |
 | Oyonnax                    |         4 |   0.5      |
-| Grenoble                   |         4 |   0.5      |
 | Brive                      |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.333333 |
 | Nevers                     |         3 |   0.5      |

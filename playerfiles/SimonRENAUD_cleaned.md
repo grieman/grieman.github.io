@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon RENAUD  
-date: 2023-02-24 14:43:30.845348  
+date: 2023-03-04 11:34:07.762930  
 categories: player  
 ---
 # Simon RENAUD
 
 ## Positions: P
 
-## Current elo: 84.0
+## Current elo: 82.0
 
-## Current Percentile: 21.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Montauban |            42 |   0.357143 |
+| Montauban |            43 |   0.348837 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Oyonnax                    |         5 |   0.2      |
 | Vannes                     |         4 |   0        |
-| Aurillac                   |         4 |   0.25     |
 | Provence Rugby             |         4 |   0.25     |
+| Aurillac                   |         4 |   0.25     |
+| Grenoble                   |         3 |   0.333333 |
 | Nevers                     |         3 |   0.333333 |
 | Agen                       |         3 |   0.666667 |
 | Beziers                    |         3 |   0        |
-| Grenoble                   |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0.5      |
 | Colomiers                  |         2 |   0.5      |
 | Rouen                      |         2 |   1        |

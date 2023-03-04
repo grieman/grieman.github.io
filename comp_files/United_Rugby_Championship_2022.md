@@ -72,109 +72,69 @@ categories: model review projection
 | Munster V Connacht on 2022/11/26                  |        7 |                 6.9 |                 12.5 |               9   |
 | Lions V Dragons on 2022/11/27                     |        8 |                13.1 |                  9.4 |              10.2 |
 | Sharks V Cardiff Blues on 2022/11/27              |      -35 |                10.3 |                  6   |              12.2 |
-| Sharks V Ospreys on 2022/12/02                    |       15 |                -2.6 |                  1.6 |               8.1 |
-| Edinburgh V Munster on 2022/12/02                 |      -21 |                13.2 |                 18   |               2.9 |
-| Stormers V Dragons on 2022/12/03                  |        8 |                 5.4 |                  5.5 |              17.7 |
-| Zebre V Glasgow Warriors on 2022/12/03            |      -28 |                -0.7 |                 -2.5 |              -8.6 |
-| Connacht V Benetton Treviso on 2022/12/03         |       19 |                 8.6 |                  3.5 |               8.5 |
-| Bulls V Cardiff Blues on 2022/12/03               |       36 |                 3.8 |                  3.8 |              13   |
-| Leinster V Ulster on 2022/12/03                   |        9 |                20.7 |                 22.4 |              10.2 |
+| Sharks V Ospreys on 2022/12/02                    |       15 |                 9.3 |                 14.6 |               8.1 |
+| Edinburgh V Munster on 2022/12/02                 |      -21 |                10.9 |                 15.4 |               2.9 |
+| Stormers V Dragons on 2022/12/03                  |        8 |                12.7 |                 14.7 |              17.7 |
+| Zebre V Glasgow Warriors on 2022/12/03            |      -28 |                -1.6 |                 -0.4 |              -8.6 |
+| Connacht V Benetton Treviso on 2022/12/03         |       19 |                 6.3 |                  0.9 |               8.5 |
+| Bulls V Cardiff Blues on 2022/12/03               |       36 |                16.9 |                 16.6 |              13   |
+| Leinster V Ulster on 2022/12/03                   |        9 |                13.8 |                 13.3 |              10.2 |
 | Lions V Scarlets on 2022/12/04                    |       17 |                 2.1 |                  4.3 |               8.2 |
-| Sharks V Lions on 2022/12/23                      |       27 |                 9.1 |                  9.1 |               6.8 |
-| Stormers V Bulls on 2022/12/23                    |       10 |                 6.9 |                  6.6 |               4.9 |
-| Connacht V Ulster on 2022/12/23                   |       -2 |                11.8 |                 10.4 |              -3.3 |
-| Glasgow Warriors V Edinburgh on 2022/12/23        |        6 |                -0.7 |                  2.3 |               2.1 |
-| Benetton Treviso V Zebre on 2022/12/24            |       33 |                10.6 |                  9.3 |              13.3 |
-| Dragons V Cardiff Blues on 2022/12/26             |       -5 |               -17.5 |                -15.8 |               0.1 |
-| Ospreys V Scarlets on 2022/12/26                  |       20 |                -1.1 |                  1.5 |               6.9 |
-| Munster V Leinster on 2022/12/26                  |       -1 |                14.1 |                  4.9 |              -4.6 |
-| Edinburgh V Glasgow Warriors on 2022/12/30        |       -7 |                 3.6 |                  5.5 |               6.9 |
-| Zebre V Benetton Treviso on 2022/12/31            |      -23 |               -10.4 |                -11.2 |              -4.3 |
-| Sharks V Bulls on 2022/12/31                      |       27 |                19.7 |                 20.3 |              -0.6 |
-| Stormers V Lions on 2022/12/31                    |       32 |                20.8 |                 20.2 |              12.2 |
-| Cardiff Blues V Ospreys on 2023/01/01             |       -3 |                -6.9 |                  0   |               5.4 |
-| Scarlets V Dragons on 2023/01/01                  |       16 |                 4   |                  8.8 |               7.4 |
-| Ulster V Munster on 2023/01/01                    |       -1 |                11.1 |                  6.9 |               5.1 |
-| Leinster V Connacht on 2023/01/01                 |       29 |                25.5 |                 26.3 |              17.7 |
-| Dragons V Bulls on 2023/01/06                     |      -15 |                 0.7 |                 -2.1 |              -6.2 |
-| Munster V Lions on 2023/01/06                     |       30 |                19.8 |                 21.3 |              12.4 |
-| Benetton Treviso V Ulster on 2023/01/07           |        2 |                10.2 |                 14.4 |              -3.9 |
-| Edinburgh V Zebre on 2023/01/07                   |        7 |                 6.7 |                  8.9 |              20   |
-| Cardiff Blues V Scarlets on 2023/01/07            |       -6 |                12.4 |                 -0.4 |               7.7 |
-| Connacht V Sharks on 2023/01/07                   |       12 |                -4.8 |                 -2.2 |               1.4 |
-| Ospreys V Leinster on 2023/01/07                  |       -5 |                 0.2 |                 -0.1 |             -11.4 |
-| Glasgow Warriors V Stormers on 2023/01/08         |        7 |                -7.6 |                 -1.7 |               0.1 |
-| Scarlets V Bulls on 2023/01/27                    |        9 |                 1.4 |                  8.8 |              -3.3 |
-| Ulster V Stormers on 2023/01/27                   |       30 |                 1.7 |                 -0.3 |               4.5 |
-| Benetton Treviso V Munster on 2023/01/28          |      -10 |                -5.9 |                 -4.8 |              -3.3 |
-| Dragons V Glasgow Warriors on 2023/01/28          |      -14 |                -9.7 |                -10.6 |              -4.2 |
-| Leinster V Cardiff Blues on 2023/01/28            |       24 |                 8   |                 13.8 |              19.5 |
-| Edinburgh V Sharks on 2023/01/28                  |       -3 |                -6.7 |                 -7.8 |               1.9 |
-| Connacht V Lions on 2023/01/28                    |       19 |                 3.3 |                  3.7 |               7.7 |
-| Zebre V Ospreys on 2023/01/29                     |       -4 |                -0.9 |                 -5.9 |              -7.8 |
-| Sharks V Stormers on 2023/02/04                   |      -27 |                 4.5 |                  3.8 |               2.7 |
-| Glasgow Warriors V Ulster on 2023/02/17           |        6 |                 3.2 |                  6.6 |               0.5 |
-| Munster V Ospreys on 2023/02/17                   |       55 |                17.9 |                 18.1 |              11.1 |
-| Lions V Sharks on 2023/02/18                      |      -22 |                 8   |                  8.3 |              -2.7 |
-| Bulls V Stormers on 2023/02/18                    |       -4 |                -8.6 |                 -7.9 |               1.6 |
-| Zebre V Connacht on 2023/02/18                    |      -23 |               -11.9 |                -12.2 |             -10.2 |
-| Cardiff Blues V Benetton Treviso on 2023/02/18    |       17 |                -3.8 |                  0.7 |               3.8 |
-| Scarlets V Edinburgh on 2023/02/18                |       28 |                13.9 |                 14.4 |               1   |
-| Leinster V Dragons on 2023/02/18                  |       29 |                27.1 |                 26.6 |              26.8 |
-| Sharks V Ulster on 2023/02/25                     |       -7 |                 5   |                  1.9 |               2.3 |
-| Lions V Glasgow Warriors on 2023/02/25            |       11 |                -7.5 |                -10.9 |              -0.9 |
+| Sharks V Lions on 2022/12/23                      |       27 |                 2.9 |                  3.2 |               6.8 |
+| Stormers V Bulls on 2022/12/23                    |       10 |                13.9 |                 14.3 |               4.9 |
+| Connacht V Ulster on 2022/12/23                   |       -2 |                 9.2 |                  7.5 |              -3.3 |
+| Glasgow Warriors V Edinburgh on 2022/12/23        |        6 |                -5.9 |                 -2.3 |               2.1 |
+| Benetton Treviso V Zebre on 2022/12/24            |       33 |                 7.2 |                  6.3 |              13.3 |
+| Dragons V Cardiff Blues on 2022/12/26             |       -5 |               -27.7 |                -26.6 |               0.1 |
+| Ospreys V Scarlets on 2022/12/26                  |       20 |                -1.8 |                  0.6 |               6.9 |
+| Munster V Leinster on 2022/12/26                  |       -1 |                 6.6 |                 -2.8 |              -4.6 |
+| Edinburgh V Glasgow Warriors on 2022/12/30        |       -7 |                 7.7 |                  9.3 |               6.9 |
+| Zebre V Benetton Treviso on 2022/12/31            |      -23 |                -9.4 |                 -9.6 |              -4.3 |
+| Sharks V Bulls on 2022/12/31                      |       27 |                14.9 |                 15.2 |              -0.6 |
+| Stormers V Lions on 2022/12/31                    |       32 |                 8.8 |                  8.5 |              12.2 |
+| Cardiff Blues V Ospreys on 2023/01/01             |       -3 |                 2.7 |                 11   |               5.4 |
+| Scarlets V Dragons on 2023/01/01                  |       16 |                 1.5 |                  6.7 |               7.4 |
+| Ulster V Munster on 2023/01/01                    |       -1 |                 3   |                 -1.4 |               5.1 |
+| Leinster V Connacht on 2023/01/01                 |       29 |                28.2 |                 29.3 |              17.7 |
+| Dragons V Bulls on 2023/01/06                     |      -15 |                -0.3 |                 -2.9 |              -6.2 |
+| Munster V Lions on 2023/01/06                     |       30 |                14.1 |                 15.7 |              12.4 |
+| Benetton Treviso V Ulster on 2023/01/07           |        2 |                10.7 |                 15.1 |              -3.9 |
+| Edinburgh V Zebre on 2023/01/07                   |        7 |                 7.8 |                 10.4 |              20   |
+| Cardiff Blues V Scarlets on 2023/01/07            |       -6 |                20.2 |                  8.5 |               7.7 |
+| Connacht V Sharks on 2023/01/07                   |       12 |                -2.7 |                 -0.2 |               1.4 |
+| Ospreys V Leinster on 2023/01/07                  |       -5 |                 6.7 |                  6.8 |             -11.4 |
+| Glasgow Warriors V Stormers on 2023/01/08         |        7 |                 0.6 |                  6.4 |               0.1 |
+| Scarlets V Bulls on 2023/01/27                    |        9 |                 1.4 |                  9   |              -3.3 |
+| Ulster V Stormers on 2023/01/27                   |       30 |                 6.8 |                  3.8 |               4.5 |
+| Benetton Treviso V Munster on 2023/01/28          |      -10 |                 1.7 |                  3.5 |              -3.3 |
+| Dragons V Glasgow Warriors on 2023/01/28          |      -14 |                -8.5 |                 -9.1 |              -4.2 |
+| Leinster V Cardiff Blues on 2023/01/28            |       24 |                -0.8 |                  3.9 |              19.5 |
+| Edinburgh V Sharks on 2023/01/28                  |       -3 |                -2.8 |                 -4.1 |               1.9 |
+| Connacht V Lions on 2023/01/28                    |       19 |                 6.4 |                  7.2 |               7.7 |
+| Zebre V Ospreys on 2023/01/29                     |       -4 |                 0.1 |                 -5   |              -7.8 |
+| Sharks V Stormers on 2023/02/04                   |      -27 |                 7.3 |                  6.7 |               2.7 |
+| Glasgow Warriors V Ulster on 2023/02/17           |        6 |                 1.1 |                  4.6 |               0.5 |
+| Munster V Ospreys on 2023/02/17                   |       55 |                12.2 |                 12.6 |              11.1 |
+| Lions V Sharks on 2023/02/18                      |      -22 |                 8.8 |                  8.9 |              -2.7 |
+| Bulls V Stormers on 2023/02/18                    |       -4 |                -7.2 |                 -6.4 |               1.6 |
+| Zebre V Connacht on 2023/02/18                    |      -23 |               -10.7 |                -10.9 |             -10.2 |
+| Cardiff Blues V Benetton Treviso on 2023/02/18    |       17 |                 2.1 |                  4.9 |               3.8 |
+| Scarlets V Edinburgh on 2023/02/18                |       28 |                14.1 |                 14.6 |               1   |
+| Leinster V Dragons on 2023/02/18                  |       29 |                25.5 |                 24.9 |              26.8 |
+| Sharks V Ulster on 2023/02/25                     |       -7 |                 5   |                  1.6 |               2.3 |
+| Lions V Glasgow Warriors on 2023/02/25            |       11 |               -11.7 |                -15.3 |              -0.9 |
+| Glasgow Warriors V Zebre on 2023/03/03            |       42 |                12.4 |                 15.4 |              20.5 |
+| Munster V Scarlets on 2023/03/03                  |        7 |                13.2 |                  8.6 |              11.8 |
+| Stormers V Sharks on 2023/03/04                   |        6 |                12.4 |                 12.4 |               8.6 |
+| Bulls V Lions on 2023/03/04                       |       -4 |                12.5 |                 12.5 |              10.4 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 12.6 | 11.9 | 11.9 |
-| Correct Winner |       - | 65.2% | 69.6% | 72.3% |
+| Average Error |       - | 12.9 | 12.3 | 11.8 |
+| Correct Winner |       - | 65.5% | 69.8% | 72.4% |
 
 
 ## Future Club-Level Match Predictions
 
 ### Week 6
-
-#### Munster V Scarlets on 2023/03/03
-
-
-Average Margin: Munster by 10.7
-
-<p float="left">
-<img src="plots/performances_Munster_V_Scarlets_6.png" width="32%" />
-<img src="plots/resultbar_Munster_V_Scarlets_6.png" width="32%" />
-<img src="plots/spreads_Munster_V_Scarlets_6.png" width="32%" />
-</p>
-
-#### Glasgow Warriors V Zebre on 2023/03/03
-
-
-Average Margin: Glasgow Warriors by 19.5
-
-<p float="left">
-<img src="plots/performances_Glasgow Warriors_V_Zebre_6.png" width="32%" />
-<img src="plots/resultbar_Glasgow Warriors_V_Zebre_6.png" width="32%" />
-<img src="plots/spreads_Glasgow Warriors_V_Zebre_6.png" width="32%" />
-</p>
-
-#### Stormers V Sharks on 2023/03/04
-
-
-Average Margin: Stormers by 7.4
-
-<p float="left">
-<img src="plots/performances_Stormers_V_Sharks_6.png" width="32%" />
-<img src="plots/resultbar_Stormers_V_Sharks_6.png" width="32%" />
-<img src="plots/spreads_Stormers_V_Sharks_6.png" width="32%" />
-</p>
-
-#### Bulls V Lions on 2023/03/04
-
-
-Average Margin: Bulls by 9.4
-
-<p float="left">
-<img src="plots/performances_Bulls_V_Lions_6.png" width="32%" />
-<img src="plots/resultbar_Bulls_V_Lions_6.png" width="32%" />
-<img src="plots/spreads_Bulls_V_Lions_6.png" width="32%" />
-</p>
 
 #### Edinburgh V Leinster on 2023/03/04
 
@@ -190,7 +150,7 @@ Average Margin: Leinster by 10.1
 #### Ospreys V Benetton Treviso on 2023/03/04
 
 
-Average Margin: Ospreys by 4.8
+Average Margin: Ospreys by 4.6
 
 <p float="left">
 <img src="plots/performances_Ospreys_V_Benetton Treviso_6.png" width="32%" />
@@ -212,7 +172,7 @@ Average Margin: Ulster by 5.1
 #### Dragons V Connacht on 2023/03/04
 
 
-Average Margin: Connacht by 5.6
+Average Margin: Connacht by 5.9
 
 <p float="left">
 <img src="plots/performances_Dragons_V_Connacht_6.png" width="32%" />
@@ -225,7 +185,7 @@ Average Margin: Connacht by 5.6
 #### Benetton Treviso V Lions on 2023/03/25
 
 
-Average Margin: Benetton Treviso by 4.4
+Average Margin: Benetton Treviso by 3.6
 
 <p float="left">
 <img src="plots/performances_Benetton Treviso_V_Lions_7.png" width="32%" />
@@ -236,7 +196,7 @@ Average Margin: Benetton Treviso by 4.4
 #### Ulster V Bulls on 2023/03/25
 
 
-Average Margin: Ulster by 7.1
+Average Margin: Ulster by 8.1
 
 <p float="left">
 <img src="plots/performances_Ulster_V_Bulls_7.png" width="32%" />
@@ -247,7 +207,7 @@ Average Margin: Ulster by 7.1
 #### Scarlets V Sharks on 2023/03/25
 
 
-Average Margin: Sharks by 0.6
+Average Margin: Sharks by 0.3
 
 <p float="left">
 <img src="plots/performances_Scarlets_V_Sharks_7.png" width="32%" />
@@ -258,7 +218,7 @@ Average Margin: Sharks by 0.6
 #### Zebre V Cardiff Blues on 2023/03/25
 
 
-Average Margin: Cardiff Blues by 8.8
+Average Margin: Cardiff Blues by 9.0
 
 <p float="left">
 <img src="plots/performances_Zebre_V_Cardiff Blues_7.png" width="32%" />
@@ -269,7 +229,7 @@ Average Margin: Cardiff Blues by 8.8
 #### Leinster V Stormers on 2023/03/25
 
 
-Average Margin: Leinster by 10.6
+Average Margin: Leinster by 10.9
 
 <p float="left">
 <img src="plots/performances_Leinster_V_Stormers_7.png" width="32%" />
@@ -280,7 +240,7 @@ Average Margin: Leinster by 10.6
 #### Ospreys V Dragons on 2023/03/25
 
 
-Average Margin: Ospreys by 10.2
+Average Margin: Ospreys by 10.1
 
 <p float="left">
 <img src="plots/performances_Ospreys_V_Dragons_7.png" width="32%" />
@@ -291,7 +251,7 @@ Average Margin: Ospreys by 10.2
 #### Connacht V Edinburgh on 2023/03/25
 
 
-Average Margin: Connacht by 3.8
+Average Margin: Connacht by 3.6
 
 <p float="left">
 <img src="plots/performances_Connacht_V_Edinburgh_7.png" width="32%" />
@@ -302,7 +262,7 @@ Average Margin: Connacht by 3.8
 #### Munster V Glasgow Warriors on 2023/03/25
 
 
-Average Margin: Munster by 7.9
+Average Margin: Munster by 7.3
 
 <p float="left">
 <img src="plots/performances_Munster_V_Glasgow Warriors_7.png" width="32%" />
@@ -315,7 +275,7 @@ Average Margin: Munster by 7.9
 #### Sharks V Benetton Treviso on 2023/04/15
 
 
-Average Margin: Sharks by 8.5
+Average Margin: Sharks by 8.9
 
 <p float="left">
 <img src="plots/performances_Sharks_V_Benetton Treviso_8.png" width="32%" />
@@ -326,7 +286,7 @@ Average Margin: Sharks by 8.5
 #### Connacht V Cardiff Blues on 2023/04/15
 
 
-Average Margin: Connacht by 6.6
+Average Margin: Connacht by 6.9
 
 <p float="left">
 <img src="plots/performances_Connacht_V_Cardiff Blues_8.png" width="32%" />
@@ -337,7 +297,7 @@ Average Margin: Connacht by 6.6
 #### Glasgow Warriors V Scarlets on 2023/04/15
 
 
-Average Margin: Glasgow Warriors by 6.2
+Average Margin: Glasgow Warriors by 6.4
 
 <p float="left">
 <img src="plots/performances_Glasgow Warriors_V_Scarlets_8.png" width="32%" />
@@ -348,7 +308,7 @@ Average Margin: Glasgow Warriors by 6.2
 #### Bulls V Zebre on 2023/04/15
 
 
-Average Margin: Bulls by 19.8
+Average Margin: Bulls by 19.6
 
 <p float="left">
 <img src="plots/performances_Bulls_V_Zebre_8.png" width="32%" />
@@ -359,7 +319,7 @@ Average Margin: Bulls by 19.8
 #### Edinburgh V Ospreys on 2023/04/15
 
 
-Average Margin: Edinburgh by 5.4
+Average Margin: Edinburgh by 5.5
 
 <p float="left">
 <img src="plots/performances_Edinburgh_V_Ospreys_8.png" width="32%" />
@@ -370,7 +330,7 @@ Average Margin: Edinburgh by 5.4
 #### Lions V Leinster on 2023/04/15
 
 
-Average Margin: Leinster by 14.7
+Average Margin: Leinster by 13.6
 
 <p float="left">
 <img src="plots/performances_Lions_V_Leinster_8.png" width="32%" />
@@ -381,7 +341,7 @@ Average Margin: Leinster by 14.7
 #### Stormers V Munster on 2023/04/15
 
 
-Average Margin: Stormers by 4.2
+Average Margin: Stormers by 4.1
 
 <p float="left">
 <img src="plots/performances_Stormers_V_Munster_8.png" width="32%" />
@@ -392,7 +352,7 @@ Average Margin: Stormers by 4.2
 #### Ulster V Dragons on 2023/04/15
 
 
-Average Margin: Ulster by 17.7
+Average Margin: Ulster by 17.5
 
 <p float="left">
 <img src="plots/performances_Ulster_V_Dragons_8.png" width="32%" />
@@ -405,7 +365,7 @@ Average Margin: Ulster by 17.7
 #### Stormers V Benetton Treviso on 2023/04/22
 
 
-Average Margin: Stormers by 12.7
+Average Margin: Stormers by 12.6
 
 <p float="left">
 <img src="plots/performances_Stormers_V_Benetton Treviso_9.png" width="32%" />
@@ -416,7 +376,7 @@ Average Margin: Stormers by 12.7
 #### Glasgow Warriors V Connacht on 2023/04/22
 
 
-Average Margin: Glasgow Warriors by 3.8
+Average Margin: Glasgow Warriors by 3.9
 
 <p float="left">
 <img src="plots/performances_Glasgow Warriors_V_Connacht_9.png" width="32%" />
@@ -427,7 +387,7 @@ Average Margin: Glasgow Warriors by 3.8
 #### Bulls V Leinster on 2023/04/22
 
 
-Average Margin: Leinster by 8.5
+Average Margin: Leinster by 9.3
 
 <p float="left">
 <img src="plots/performances_Bulls_V_Leinster_9.png" width="32%" />
@@ -438,7 +398,7 @@ Average Margin: Leinster by 8.5
 #### Lions V Zebre on 2023/04/22
 
 
-Average Margin: Lions by 14.0
+Average Margin: Lions by 15.0
 
 <p float="left">
 <img src="plots/performances_Lions_V_Zebre_9.png" width="32%" />
@@ -449,7 +409,7 @@ Average Margin: Lions by 14.0
 #### Ospreys V Cardiff Blues on 2023/04/22
 
 
-Average Margin: Ospreys by 4.5
+Average Margin: Ospreys by 4.6
 
 <p float="left">
 <img src="plots/performances_Ospreys_V_Cardiff Blues_9.png" width="32%" />
@@ -460,7 +420,7 @@ Average Margin: Ospreys by 4.5
 #### Dragons V Scarlets on 2023/04/22
 
 
-Average Margin: Scarlets by 3.4
+Average Margin: Scarlets by 3.7
 
 <p float="left">
 <img src="plots/performances_Dragons_V_Scarlets_9.png" width="32%" />
@@ -471,7 +431,7 @@ Average Margin: Scarlets by 3.4
 #### Ulster V Edinburgh on 2023/04/22
 
 
-Average Margin: Ulster by 8.7
+Average Margin: Ulster by 8.6
 
 <p float="left">
 <img src="plots/performances_Ulster_V_Edinburgh_9.png" width="32%" />
@@ -482,7 +442,7 @@ Average Margin: Ulster by 8.7
 #### Sharks V Munster on 2023/04/22
 
 
-Average Margin: Sharks by 0.2
+Average Margin: Sharks by 0.3
 
 <p float="left">
 <img src="plots/performances_Sharks_V_Munster_9.png" width="32%" />

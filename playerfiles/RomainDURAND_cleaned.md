@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain DURAND  
-date: 2023-03-02 11:25:40.237905  
+date: 2023-03-04 11:43:12.233526  
 categories: player  
 ---
 # Romain DURAND
 
 ## Positions: L
 
-## Current elo: 128.0
+## Current elo: 126.0
 
-## Current Percentile: 98.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            72 |   0.569444 |
+| Mont-de-Marsan |            73 |   0.575342 |
 | Narbonne       |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,19 +29,19 @@ categories: player
 | Nevers                     |         7 |   0.285714 |
 | Aurillac                   |         7 |   0.857143 |
 | Vannes                     |         7 |   0.428571 |
-| Oyonnax                    |         6 |   0.416667 |
+| Beziers                    |         6 |   0.833333 |
 | Carcassonne                |         6 |   0.5      |
+| Oyonnax                    |         6 |   0.416667 |
 | Provence Rugby             |         5 |   0.6      |
-| Beziers                    |         5 |   0.8      |
 | Colomiers                  |         4 |   0.75     |
 | Agen                       |         4 |   0.5      |
 | Bayonne                    |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.333333 |
 | Rouen                      |         3 |   1        |
+| Grenoble                   |         2 |   0        |
 | Massy                      |         2 |   0.5      |
 | Montauban                  |         2 |   0.5      |
 | Narbonne                   |         2 |   1        |
-| Grenoble                   |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
 | US Bressane                |         2 |   1        |
 | Roval Drome XV             |         1 |   0        |

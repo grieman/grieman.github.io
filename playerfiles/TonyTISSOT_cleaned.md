@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tony TISSOT  
-date: 2023-02-10 10:36:46.442625  
+date: 2023-03-04 11:40:55.867814  
 categories: player  
 ---
 # Tony TISSOT
@@ -21,12 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |             6 |   0.666667 |
+| Massy  |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |         2 |          1 |
 | Agen                       |         1 |          0 |
+| Biarritz Olympique         |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Suresnes                   |         1 |          1 |
 | Vannes                     |         1 |          0 |

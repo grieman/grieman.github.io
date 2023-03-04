@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Seydou DIAKITé  
-date: 2023-03-02 11:27:24.049744  
+date: 2023-03-04 11:34:46.162345  
 categories: player  
 ---
 # Seydou DIAKITé
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 94.0
 
-## Current Percentile: 44.0
+## Current Percentile: 45.0
 
 # Elo History
 

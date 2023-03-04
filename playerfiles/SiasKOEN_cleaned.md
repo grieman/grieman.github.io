@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sias KOEN  
-date: 2023-03-02 11:20:57.541806  
+date: 2023-03-04 11:41:14.858082  
 categories: player  
 ---
 # Sias KOEN
 
 ## Positions: N8, FL
 
-## Current elo: 98.0
+## Current elo: 101.0
 
-## Current Percentile: 46.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |            49 |   0.408163 |
-| Griquas  |            29 |   0.37931  |
-| Cheetahs |             4 |   0        |
+| Beziers  |            50 |    0.4     |
+| Griquas  |            29 |    0.37931 |
+| Cheetahs |             4 |    0       |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Golden Lions               |         6 |   0.166667 |
 | Natal Sharks               |         5 |   0.2      |
+| Nevers                     |         5 |   0.2      |
 | Blue Bulls                 |         5 |   0.2      |
 | Western Province           |         4 |   0.5      |
 | Aurillac                   |         4 |   0.25     |
-| Nevers                     |         4 |   0.25     |
 | Grenoble                   |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.25     |
 | Pumas                      |         4 |   0.5      |

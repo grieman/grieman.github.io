@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Yvann LALEVEE  
-date: 2023-03-02 11:22:45.205242  
+date: 2023-03-04 11:37:08.245833  
 categories: player  
 ---
 # Yvann LALEVEE
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 

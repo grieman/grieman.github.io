@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George COX  
-date: 2023-03-02 11:28:40.338787  
+date: 2023-03-04 11:43:58.125607  
 categories: player  
 ---
 # George COX
 
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 76.0
 
-## Current Percentile: 24.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            48 |   0.322917 |
+| Nottingham |            49 |   0.316327 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,10 +30,10 @@ categories: player
 | Jersey              |         5 |   0        |
 | Ampthill            |         4 |   0.25     |
 | Cornish Pirates     |         4 |   0        |
+| Hartpury College    |         4 |   0.25     |
 | London Scottish     |         4 |   0.75     |
 | Richmond            |         4 |   0.75     |
 | Bedford             |         3 |   0.333333 |
-| Hartpury College    |         3 |   0.333333 |
 | Caldy               |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
 | London Irish        |         2 |   0        |

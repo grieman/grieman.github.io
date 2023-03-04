@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Semise Talakai  
-date: 2023-03-02 11:24:40.724540  
+date: 2023-03-04 11:42:47.633916  
 categories: player  
 ---
 # Semise Talakai
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 56.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Queensland Reds  |            40 |   0.2875   |
-| Melbourne Rebels |            32 |   0.40625  |
+| Melbourne Rebels |            33 |   0.393939 |
 | Brisbane City    |            30 |   0.683333 |
 | Tokyo Sungoliath |            14 |   0.642857 |
 | Australia        |             1 |   1        |
@@ -34,25 +34,25 @@ categories: player
 | New South Wales Waratahs          |         9 |   0        |
 | Brumbies                          |         8 |   0.625    |
 | Western Force                     |         6 |   0.333333 |
-| Highlanders                       |         5 |   0.4      |
+| Hurricanes                        |         5 |   0        |
 | Crusaders                         |         5 |   0        |
-| Sharks                            |         4 |   0.5      |
-| NSW Country Eagles                |         4 |   0.625    |
-| Melbourne Rising                  |         4 |   0.5      |
-| Queensland Country                |         4 |   0.75     |
-| Queensland Reds                   |         4 |   0.75     |
-| Canberra Vikings                  |         4 |   0.75     |
-| Hurricanes                        |         4 |   0        |
-| Greater Sydney Rams               |         4 |   0.5      |
+| Highlanders                       |         5 |   0.4      |
 | Sunwolves                         |         4 |   1        |
+| Greater Sydney Rams               |         4 |   0.5      |
+| NSW Country Eagles                |         4 |   0.625    |
+| Sharks                            |         4 |   0.5      |
+| Canberra Vikings                  |         4 |   0.75     |
+| Melbourne Rising                  |         4 |   0.5      |
+| Queensland Reds                   |         4 |   0.75     |
+| Queensland Country                |         4 |   0.75     |
+| Chiefs                            |         3 |   0        |
+| Melbourne Rebels                  |         3 |   0.666667 |
+| Blues                             |         3 |   0.5      |
+| Bulls                             |         3 |   0        |
+| Lions                             |         3 |   0        |
+| Sydney Stars                      |         3 |   1        |
 | Perth Spirit                      |         3 |   0.666667 |
 | Stormers                          |         3 |   0        |
-| Lions                             |         3 |   0        |
-| Melbourne Rebels                  |         3 |   0.666667 |
-| Chiefs                            |         3 |   0        |
-| Blues                             |         3 |   0.5      |
-| Sydney Stars                      |         3 |   1        |
-| Bulls                             |         3 |   0        |
 | Saitama Wild Knights              |         2 |   0        |
 | Black Rams Tokyo                  |         2 |   1        |
 | North Harbour Rays                |         2 |   0.5      |

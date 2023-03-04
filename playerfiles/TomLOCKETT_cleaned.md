@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom LOCKETT  
-date: 2023-02-06 16:04:36.615124  
+date: 2023-03-04 11:42:27.791119  
 categories: player  
 ---
 # Tom LOCKETT
 
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 109.0
 
-## Current Percentile: 74.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |             8 |      0.625 |
+| Bedford |             9 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Ampthill         |         1 |        1   |
 | Caldy            |         1 |        0   |
 | Cornish Pirates  |         1 |        1   |
+| Doncaster        |         1 |        1   |
 | London Scottish  |         1 |        1   |
 | Nottingham       |         1 |        1   |
 | Richmond         |         1 |        0   |

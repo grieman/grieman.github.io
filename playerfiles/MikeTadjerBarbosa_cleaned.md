@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mike Tadjer Barbosa  
-date: 2023-03-02 11:23:40.415289  
+date: 2023-03-04 11:35:57.592515  
 categories: player  
 ---
 # Mike Tadjer Barbosa
@@ -28,7 +28,7 @@ categories: player
 | Brive             |            25 |   0.24     |
 | Montauban         |            25 |   0.58     |
 | Grenoble          |            22 |   0.227273 |
-| Perpignan         |            21 |   0.47619  |
+| Perpignan         |            22 |   0.454545 |
 | Portugal          |            19 |   0.368421 |
 | Clermont Auvergne |            13 |   0.692308 |
 | Racing 92         |             3 |   0.666667 |
@@ -37,11 +37,11 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Pau                        |        12 |   0.166667 |
 | Agen                       |         9 |   0.388889 |
+| Stade Toulousain           |         8 |   0        |
 | La Rochelle                |         8 |   0.25     |
 | Bordeaux Begles            |         8 |   0.375    |
 | Carcassonne                |         7 |   0.428571 |
 | Toulon                     |         7 |   0.571429 |
-| Stade Toulousain           |         7 |   0        |
 | Stade Francais Paris       |         7 |   0.571429 |
 | Mont-de-Marsan             |         7 |   0.857143 |
 | Colomiers                  |         7 |   0.214286 |

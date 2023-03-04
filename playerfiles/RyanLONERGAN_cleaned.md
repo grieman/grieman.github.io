@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ryan LONERGAN  
-date: 2023-03-02 11:20:28.641505  
+date: 2023-03-04 11:42:37.071136  
 categories: player  
 ---
 # Ryan LONERGAN
 
 ## Positions: SH
 
-## Current elo: 128.0
+## Current elo: 129.0
 
-## Current Percentile: 95.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            46 |   0.652174 |
+| Brumbies         |            47 |   0.659574 |
 | Canberra Vikings |            24 |   0.708333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Western Force            |         8 |   0.75     |
 | Queensland Reds          |         8 |   0.375    |
+| New South Wales Waratahs |         7 |   1        |
 | Fijian Drua              |         6 |   0.833333 |
-| New South Wales Waratahs |         6 |   1        |
 | Melbourne Rebels         |         6 |   0.666667 |
 | Blues                    |         4 |   0.25     |
 | Highlanders              |         3 |   0.333333 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine JARMOUNI  
-date: 2023-03-02 11:21:17.039571  
+date: 2023-03-04 11:43:05.126975  
 categories: player  
 ---
 # Yassine JARMOUNI
 
 ## Positions: N8, FL
 
-## Current elo: 98.0
+## Current elo: 102.0
 
-## Current Percentile: 64.0
+## Current Percentile: 61.0
 
 # Elo History
 

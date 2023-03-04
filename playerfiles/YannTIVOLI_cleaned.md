@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yann TIVOLI  
-date: 2023-02-24 14:46:16.366476  
+date: 2023-03-04 11:39:47.936044  
 categories: player  
 ---
 # Yann TIVOLI
 
 ## Positions: L, FL
 
-## Current elo: 106.0
+## Current elo: 100.0
 
-## Current Percentile: 73.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            23 |   0.521739 |
+| Aurillac |            24 |   0.541667 |
 | Nice     |            16 |   0.8125   |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,7 +30,6 @@ categories: player
 | US Bressane                |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.666667 |
 | Massy                      |         3 |   1        |
-| Narbonne                   |         2 |   0.5      |
 | Aubenas                    |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Carcassonne                |         2 |   1        |
@@ -38,9 +37,11 @@ categories: player
 | Oyonnax                    |         2 |   0        |
 | Grenoble                   |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0        |
+| Narbonne                   |         2 |   0.5      |
 | Agen                       |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Suresnes                   |         1 |   1        |
+| Rouen                      |         1 |   1        |
 | Dijon                      |         1 |   1        |
 | Albi                       |         1 |   0        |
 | Dax                        |         1 |   0        |

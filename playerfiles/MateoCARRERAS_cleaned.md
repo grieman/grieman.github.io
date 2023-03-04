@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mateo CARRERAS  
-date: 2023-02-24 14:47:00.087652  
+date: 2023-03-04 11:43:03.984888  
 categories: player  
 ---
 # Mateo CARRERAS
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 48.0
+## Current Percentile: 49.0
 
 # Elo History
 

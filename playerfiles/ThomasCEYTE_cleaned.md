@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Thomas CEYTE  
-date: 2023-03-02 11:26:37.587936  
+date: 2023-03-04 11:39:01.937349  
 categories: player  
 ---
 # Thomas CEYTE
 
 ## Positions: L
 
-## Current elo: 133.0
+## Current elo: 134.0
 
 ## Current Percentile: 97.0
 

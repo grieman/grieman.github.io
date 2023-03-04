@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin WITT  
-date: 2023-03-02 11:26:09.477599  
+date: 2023-03-04 11:35:59.346549  
 categories: player  
 ---
 # Quentin WITT
 
 ## Positions: FL, N8
 
-## Current elo: 89.0
+## Current elo: 83.0
 
-## Current Percentile: 21.0
+## Current Percentile: 23.0
 
 # Elo History
 

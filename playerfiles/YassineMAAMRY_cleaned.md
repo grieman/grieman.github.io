@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine MAAMRY  
-date: 2023-02-24 14:47:05.105556  
+date: 2023-03-04 11:34:56.707090  
 categories: player  
 ---
 # Yassine MAAMRY
 
 ## Positions: L
 
-## Current elo: 83.0
+## Current elo: 82.0
 
-## Current Percentile: 15.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Beziers        |           138 |   0.496377 |
+| Beziers        |           139 |   0.492806 |
 | Provence Rugby |             7 |   0.285714 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Aurillac           |        13 |   0.461538 |
+| Mont-de-Marsan     |        11 |   0.363636 |
 | Oyonnax            |        11 |   0.272727 |
 | Vannes             |        10 |   0.3      |
-| Mont-de-Marsan     |        10 |   0.4      |
 | Montauban          |        10 |   0.75     |
 | Soyaux-Angouleme   |         9 |   0.444444 |
 | Nevers             |         9 |   0.333333 |

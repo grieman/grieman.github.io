@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam HOLLINGSWORTH  
-date: 2023-03-02 11:27:55.132117  
+date: 2023-03-04 11:40:40.179367  
 categories: player  
 ---
 # Sam HOLLINGSWORTH
 
 ## Positions: FH
 
-## Current elo: 76.0
+## Current elo: 72.0
 
-## Current Percentile: 11.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            30 |        0.3 |
+| Nottingham |            31 |   0.290323 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Hartpury College    |         5 |   0.2      |
 | Cornish Pirates     |         4 |   0        |
 | Doncaster           |         4 |   0.25     |
-| Hartpury College    |         4 |   0.25     |
 | Jersey              |         4 |   0        |
 | London Scottish     |         3 |   1        |
 | Richmond            |         3 |   0.333333 |

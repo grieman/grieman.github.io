@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Willie DU PLESSIS  
-date: 2023-03-02 11:27:28.381693  
+date: 2023-03-04 11:44:17.668145  
 categories: player  
 ---
 # Willie DU PLESSIS
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 126.0
+## Current elo: 129.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            68 |   0.580882 |
-| Mont-de-Marsan      |            32 |   0.71875  |
+| Mont-de-Marsan      |            33 |   0.727273 |
 | Free State Cheetahs |            18 |   0.416667 |
 | Biarritz Olympique  |            16 |   0.5625   |
 | Cheetahs            |            10 |   0.3      |
@@ -35,7 +35,7 @@ categories: player
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Montauban              |         8 |   0.625    |
-| Vannes                 |         7 |   0.714286 |
+| Vannes                 |         8 |   0.75     |
 | Aurillac               |         6 |   0.833333 |
 | Nevers                 |         6 |   0.666667 |
 | Beziers                |         6 |   0.666667 |

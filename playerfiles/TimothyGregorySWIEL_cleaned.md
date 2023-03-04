@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Timothy Gregory Swiel  
-date: 2023-03-02 11:22:23.352640  
+date: 2023-03-04 11:41:19.718906  
 categories: player  
 ---
 # Timothy Gregory Swiel
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 48.0
+## Current Percentile: 46.0
 
 # Elo History
 

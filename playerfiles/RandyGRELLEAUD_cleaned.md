@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Randy GRELLEAUD  
-date: 2023-03-02 11:26:17.801751  
+date: 2023-03-04 11:42:30.197448  
 categories: player  
 ---
 # Randy GRELLEAUD
 
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 70.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            28 |   0.428571 |
+| Massy  |            29 |   0.413793 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Biarritz Olympique         |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.333333 |
 | Tarbes                     |         2 |   0.5      |
-| Biarritz Olympique         |         2 |   0.5      |
 | Carcassonne                |         2 |   0.5      |
 | Aubenas                    |         2 |   1        |
 | Nice                       |         2 |   0        |

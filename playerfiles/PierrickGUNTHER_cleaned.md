@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierrick GUNTHER  
-date: 2023-03-02 11:24:33.773504  
+date: 2023-03-04 11:39:15.439263  
 categories: player  
 ---
 # Pierrick GUNTHER
 
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 86.0
 
-## Current Percentile: 26.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 |:--------|--------------:|-----------:|
 | Toulon  |            70 |   0.685714 |
 | Pau     |            51 |   0.362745 |
+| Beziers |            22 |   0.409091 |
 | Oyonnax |            22 |   0.272727 |
-| Beziers |            21 |   0.428571 |
 | Lyon    |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -54,9 +54,9 @@ categories: player
 | Pau                  |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
 | Newcastle Falcons    |         2 |   0.5      |
+| Nevers               |         2 |   0.5      |
 | Aurillac             |         2 |   0.5      |
 | Colomiers            |         2 |   0.5      |
-| Nevers               |         1 |   1        |
 | Narbonne             |         1 |   1        |
 | Petrarca Padova      |         1 |   1        |
 | London Irish         |         1 |   0        |

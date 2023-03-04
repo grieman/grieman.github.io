@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan TWEEDY  
-date: 2023-03-02 11:20:26.620724  
+date: 2023-03-04 11:44:10.768726  
 categories: player  
 ---
 # Nathan TWEEDY
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 95.0
 
-## Current Percentile: 86.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            23 |    0.26087 |
+| Nottingham |            24 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,3 +35,4 @@ categories: player
 | London Scottish     |         2 |   1        |
 | Richmond            |         2 |   0.5      |
 | Bedford             |         1 |   0        |
+| Hartpury College    |         1 |   0        |

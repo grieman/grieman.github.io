@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Clovis Le Bail  
-date: 2023-03-02 11:21:22.427638  
+date: 2023-03-04 11:44:25.959137  
 categories: player  
 ---
 # Clovis Le Bail
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 52.0
+## Current Percentile: 53.0
 
 # Elo History
 

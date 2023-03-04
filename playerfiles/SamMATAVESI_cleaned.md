@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam MATAVESI  
-date: 2023-03-02 11:26:10.615361  
+date: 2023-03-04 11:40:34.259861  
 categories: player  
 ---
 # Sam MATAVESI
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 75.0
+## Current elo: 73.0
 
 ## Current Percentile: 6.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            63 |   0.444444 |
+| Northampton Saints |            64 |   0.4375   |
 | Cornish Pirates    |            28 |   0.464286 |
 | Fiji               |            19 |   0.394737 |
 | Stade Toulousain   |             3 |   1        |
@@ -40,10 +40,10 @@ categories: player
 | Newcastle Falcons   |         4 |   0.75     |
 | Harlequins          |         4 |   0.25     |
 | Sale Sharks         |         4 |   0        |
+| Bristol Rugby       |         4 |   0.5      |
 | London Scottish     |         3 |   0.666667 |
 | Nottingham          |         3 |   0.333333 |
 | Hartpury College    |         3 |   1        |
-| Bristol Rugby       |         3 |   0.666667 |
 | Jersey              |         3 |   0        |
 | Saracens            |         2 |   0        |
 | Scotland            |         2 |   0        |

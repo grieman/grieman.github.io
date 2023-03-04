@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin BEAUDAUX  
-date: 2023-02-26 11:19:14.286024  
+date: 2023-03-04 11:37:54.542344  
 categories: player  
 ---
 # Quentin BEAUDAUX
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 89.0
 
-## Current Percentile: 32.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            26 |   0.461538 |
+| Nevers |            27 |   0.481481 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Beziers          |         3 |   0.5      |
 | Provence Rugby   |         3 |   0.666667 |
 | Aurillac         |         2 |   1        |
+| Carcassonne      |         2 |   0.5      |
 | Colomiers        |         2 |   0        |
 | Grenoble         |         2 |   0        |
 | Montauban        |         2 |   0        |
@@ -35,7 +36,6 @@ categories: player
 | US Bressane      |         2 |   1        |
 | Vannes           |         2 |   0.5      |
 | Bayonne          |         1 |   0.5      |
-| Carcassonne      |         1 |   0        |
 | Mont-de-Marsan   |         1 |   0        |
 | Narbonne         |         1 |   1        |
 | Rouen            |         1 |   1        |

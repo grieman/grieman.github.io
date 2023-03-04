@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Victor DELMAS  
-date: 2023-03-02 11:25:02.386358  
+date: 2023-03-04 11:38:54.749482  
 categories: player  
 ---
 # Victor DELMAS
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 107.0
 
 ## Current Percentile: None
 

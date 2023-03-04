@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nic SCHONERT  
-date: 2023-02-28 13:58:04.397436  
+date: 2023-03-04 11:37:40.006960  
 categories: player  
 ---
 # Nic SCHONERT
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 29.0
+## Current Percentile: 30.0
 
 # Elo History
 

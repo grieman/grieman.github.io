@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Youssef AMROUNI  
-date: 2023-03-02 11:28:33.310105  
+date: 2023-03-04 11:44:18.919973  
 categories: player  
 ---
 # Youssef AMROUNI
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 72.0
 
-## Current Percentile: 3.0
+## Current Percentile: 5.0
 
 # Elo History
 
