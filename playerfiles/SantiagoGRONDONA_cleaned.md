@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago GRONDONA  
-date: 2023-03-04 11:41:31.630239  
+date: 2023-03-06 11:24:16.286040  
 categories: player  
 ---
 # Santiago GRONDONA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 60.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -26,8 +26,8 @@ categories: player
 | Exeter Chiefs |            15 |   0.533333 |
 | Argentina     |            11 |   0.5      |
 | Jaguares XV   |             7 |   1        |
+| Pau           |             2 |   0        |
 | Jaguares      |             1 |   0        |
-| Pau           |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -45,8 +45,9 @@ categories: player
 | SWD Eagles             |         1 |      1     |
 | Northampton Saints     |         1 |      1     |
 | Newcastle Falcons      |         1 |      1     |
-| Leopards               |         1 |      1     |
 | Leicester Tigers       |         1 |      0     |
+| Leopards               |         1 |      1     |
+| La Rochelle            |         1 |      0     |
 | Italy                  |         1 |      1     |
 | Ireland                |         1 |      0     |
 | Gloucester Rugby       |         1 |      1     |

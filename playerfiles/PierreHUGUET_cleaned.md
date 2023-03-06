@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre HUGUET  
-date: 2023-03-04 11:41:38.224872  
+date: 2023-03-06 11:26:44.946081  
 categories: player  
 ---
 # Pierre HUGUET
 
 ## Positions: FL
 
-## Current elo: 95.0
+## Current elo: 92.0
 
-## Current Percentile: 41.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Carcassonne |           103 |   0.529126 |
-| Bayonne     |            19 |   0.605263 |
+| Bayonne     |            20 |   0.575    |
 | Dax         |            13 |   0.153846 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -36,9 +36,9 @@ categories: player
 | Beziers                    |         8 |   0.5      |
 | Oyonnax                    |         7 |   0.142857 |
 | Provence Rugby             |         6 |   0.5      |
+| Perpignan                  |         6 |   0.5      |
 | Grenoble                   |         6 |   0.333333 |
 | Soyaux-Angouleme           |         5 |   0.7      |
-| Perpignan                  |         5 |   0.6      |
 | Biarritz Olympique         |         5 |   0.6      |
 | Bayonne                    |         4 |   0.5      |
 | Agen                       |         4 |   0.25     |

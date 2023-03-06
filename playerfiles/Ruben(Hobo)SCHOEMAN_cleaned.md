@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruben (Hobo) Schoeman  
-date: 2023-03-04 11:44:05.660303  
+date: 2023-03-06 11:24:28.051003  
 categories: player  
 ---
 # Ruben (Hobo) Schoeman
 
 ## Positions: L
 
-## Current elo: 108.0
+## Current elo: 106.0
 
-## Current Percentile: 66.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,13 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Lions  |             6 |   0.583333 |
+| Lions  |             5 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Bulls            |         1 |        1   |
 | Dragons          |         1 |        0.5 |
 | Glasgow Warriors |         1 |        1   |
-| Scarlets         |         1 |        1   |
 | Sharks           |         1 |        0   |
 | Stormers         |         1 |        0   |

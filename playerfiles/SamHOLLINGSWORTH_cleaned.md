@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam HOLLINGSWORTH  
-date: 2023-03-04 11:40:40.179367  
+date: 2023-03-06 11:28:47.571497  
 categories: player  
 ---
 # Sam HOLLINGSWORTH
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 72.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yanis GIMENEZ  
-date: 2023-03-04 11:40:12.497825  
+date: 2023-03-06 11:23:12.404840  
 categories: player  
 ---
 # Yanis GIMENEZ

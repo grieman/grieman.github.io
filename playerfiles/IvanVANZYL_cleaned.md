@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-03-04 11:40:28.622847  
+date: 2023-03-06 11:26:31.674311  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Saracens     |            42 |   0.75     |
+| Saracens     |            43 |   0.732558 |
 | Bulls        |            37 |   0.459459 |
 | Blue Bulls   |            32 |   0.59375  |
 | South Africa |             6 |   0.5      |
@@ -38,36 +38,36 @@ categories: player
 | Jaguares                 |         5 |   0.2      |
 | Free State Cheetahs      |         5 |   0.8      |
 | Exeter Chiefs            |         4 |   0.75     |
+| Harlequins               |         4 |   1        |
 | Griquas                  |         4 |   1        |
 | Gloucester Rugby         |         4 |   0.5      |
-| Harlequins               |         4 |   1        |
 | Lions                    |         4 |   0.5      |
 | London Irish             |         4 |   0.375    |
 | Pumas                    |         4 |   0.75     |
 | Newcastle Falcons        |         3 |   1        |
 | Northampton Saints       |         3 |   1        |
+| Sale Sharks              |         3 |   0.666667 |
 | Bath Rugby               |         3 |   1        |
 | Leicester Tigers         |         3 |   0.333333 |
 | Highlanders              |         3 |   0.5      |
 | England                  |         3 |   0.666667 |
 | Edinburgh                |         3 |   0.333333 |
 | Hurricanes               |         2 |   0        |
+| Blues                    |         2 |   0.25     |
 | Bristol Rugby            |         2 |   1        |
 | Wasps                    |         2 |   0.5      |
 | Wales                    |         2 |   0        |
 | Sunwolves                |         2 |   0.5      |
-| Sale Sharks              |         2 |   1        |
 | Queensland Reds          |         2 |   0.5      |
-| Worcester Warriors       |         2 |   1        |
 | Lyon                     |         2 |   1        |
-| Blues                    |         2 |   0.25     |
+| Worcester Warriors       |         2 |   1        |
 | Chiefs                   |         1 |   0        |
 | Crusaders                |         1 |   0        |
-| New South Wales Waratahs |         1 |   1        |
+| Cheetahs                 |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Southern Kings           |         1 |   1        |
 | Brive                    |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
+| New South Wales Waratahs |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
-| Cheetahs                 |         1 |   1        |

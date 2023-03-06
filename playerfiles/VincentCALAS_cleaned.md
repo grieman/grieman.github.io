@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent CALAS  
-date: 2023-02-28 13:55:01.594891  
+date: 2023-03-06 11:28:11.956043  
 categories: player  
 ---
 # Vincent CALAS
 
 ## Positions: FL
 
-## Current elo: 84.0
+## Current elo: 90.0
 
-## Current Percentile: 11.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Albi    |           105 |   0.495238 |
-| Beziers |             1 |   0        |
+| Albi    |           106 |        0.5 |
+| Beziers |             1 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,9 +35,10 @@ categories: player
 | La Rochelle                |         4 |   0        |
 | Tarbes                     |         4 |   0        |
 | Beziers                    |         4 |   0.25     |
-| Mont-de-Marsan             |         4 |   0        |
+| Suresnes                   |         4 |   0.75     |
 | Provence Rugby             |         4 |   0.5      |
 | Pau                        |         4 |   0.25     |
+| Mont-de-Marsan             |         4 |   0        |
 | Lyon                       |         4 |   0        |
 | Montauban                  |         3 |   0        |
 | Massy                      |         3 |   0.666667 |
@@ -45,7 +46,6 @@ categories: player
 | Aubenas                    |         3 |   1        |
 | Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.666667 |
-| Suresnes                   |         3 |   0.666667 |
 | US Bressane                |         3 |   0.333333 |
 | Chambery                   |         3 |   1        |
 | Perpignan                  |         2 |   1        |

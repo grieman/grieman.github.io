@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack ANDREW  
-date: 2023-01-31 15:55:52.926471  
+date: 2023-03-06 11:23:32.437539  
 categories: player  
 ---
 # Jack ANDREW
 
 ## Positions: P
 
-## Current elo: 115.0
+## Current elo: 131.0
 
-## Current Percentile: 89.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,21 +21,21 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |           108 |   0.574074 |
+| Cornish Pirates |           109 |   0.577982 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Nottingham          |        11 |   0.818182 |
 | Bedford             |        11 |   0.681818 |
+| London Scottish     |        10 |   0.6      |
 | Doncaster           |        10 |   0.8      |
 | Ealing Trailfinders |        10 |   0.35     |
 | Jersey              |        10 |   0.2      |
-| London Scottish     |        10 |   0.6      |
 | Richmond            |         9 |   0.722222 |
 | Coventry            |         7 |   0.571429 |
+| Ampthill            |         6 |   0.75     |
 | Yorkshire Carnegie  |         6 |   0.5      |
 | Hartpury College    |         6 |   1        |
-| Ampthill            |         5 |   0.7      |
 | London Irish        |         4 |   0        |
 | Rotherham Titans    |         3 |   0.333333 |
 | Newcastle Falcons   |         2 |   0        |

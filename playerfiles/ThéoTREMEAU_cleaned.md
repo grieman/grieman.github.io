@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo TREMEAU  
-date: 2023-02-28 13:57:52.842557  
+date: 2023-03-06 11:26:53.291661  
 categories: player  
 ---
 # Théo TREMEAU
 
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 95.0
 
-## Current Percentile: 68.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            35 |        0.6 |
+| Dax    |            36 |   0.583333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,9 +36,9 @@ categories: player
 | Nice                       |         2 |   1        |
 | Massy                      |         2 |   0        |
 | Dijon                      |         2 |   0.5      |
+| Blagnac                    |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Rennes                     |         1 |   1        |
 | Chambery                   |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   0        |
-| Blagnac                    |         1 |   0        |

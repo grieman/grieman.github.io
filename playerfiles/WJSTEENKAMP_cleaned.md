@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: WJ STEENKAMP  
-date: 2023-01-23 15:30:50.431672  
+date: 2023-03-06 11:23:08.878236  
 categories: player  
 ---
 # WJ STEENKAMP
 
 ## Positions: FL, N8
 
-## Current elo: 100.0
+## Current elo: 93.0
 
-## Current Percentile: 58.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Blue Bulls |            11 |   1        |
-| Bulls      |             7 |   0.714286 |
+| Bulls      |             9 |   0.555556 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Pumas            |         3 |        1   |
 | Exeter Chiefs    |         2 |        0.5 |
 | Griquas          |         2 |        1   |
+| Lions            |         2 |        0   |
 | Western Province |         2 |        1   |
 | Benetton Treviso |         1 |        1   |
 | Lyon             |         1 |        1   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wolf Van Dijk  
-date: 2023-02-28 13:55:41.708931  
+date: 2023-03-06 11:23:06.457510  
 categories: player  
 ---
 # Wolf Van Dijk
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 70.0
+## Current elo: 75.0
 
-## Current Percentile: 30.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -23,13 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Netherlands |            11 |   0.181818 |
+| Netherlands |            12 |       0.25 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Spain      |         4 |          0 |
 | Georgia    |         2 |          0 |
 | Germany    |         2 |          1 |
+| Belgium    |         1 |          1 |
 | Canada     |         1 |          0 |
 | Romania    |         1 |          0 |
 | Russia     |         1 |          0 |

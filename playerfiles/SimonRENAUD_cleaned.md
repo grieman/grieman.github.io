@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Simon RENAUD  
-date: 2023-03-04 11:34:07.762930  
+date: 2023-03-06 11:27:02.707637  
 categories: player  
 ---
 # Simon RENAUD
 
 ## Positions: P
 
-## Current elo: 82.0
+## Current elo: 83.0
 
 ## Current Percentile: 22.0
 

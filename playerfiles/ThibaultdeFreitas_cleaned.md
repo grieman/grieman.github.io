@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault De Freitas  
-date: 2023-02-28 13:53:34.587863  
+date: 2023-03-06 11:22:42.452236  
 categories: player  
 ---
 # Thibault De Freitas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 121.0
+## Current elo: 110.0
 
-## Current Percentile: 81.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,10 +23,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Portugal |             4 |          1 |
+| Portugal |             5 |          1 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Poland     |         2 |          1 |
 | Belgium    |         1 |          1 |
 | Romania    |         1 |          1 |
+| Spain      |         1 |          1 |

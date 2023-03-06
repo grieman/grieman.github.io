@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom DELEUZE  
-date: 2023-03-04 11:42:43.812464  
+date: 2023-03-06 11:25:27.320007  
 categories: player  
 ---
 # Tom DELEUZE
 
 ## Positions: FH
 
-## Current elo: 89.0
+## Current elo: 90.0
 
 ## Current Percentile: 46.0
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sébastien GIORGIS  
-date: 2023-02-28 13:59:50.143737  
+date: 2023-03-06 11:24:41.112840  
 categories: player  
 ---
 # Sébastien GIORGIS
 
 ## Positions: W, C
 
-## Current elo: 101.0
+## Current elo: 91.0
 
-## Current Percentile: 83.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Narbonne    |            65 |   0.453846 |
+| Narbonne    |            66 |   0.44697  |
 | Carcassonne |            49 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -47,10 +47,10 @@ categories: player
 | Dax                        |         3 |  0.666667  |
 | Provence Rugby             |         3 |  0.666667  |
 | Grenoble                   |         2 |  0         |
+| US Bressane                |         2 |  0.5       |
 | Suresnes                   |         2 |  1         |
 | Nice                       |         2 |  1         |
 | Rouen                      |         2 |  0.5       |
-| US Bressane                |         1 |  1         |
 | Cognac Saint Jean d'Angély |         1 |  1         |
 | Roval Drome XV             |         1 |  1         |
 | Brive                      |         1 |  1         |

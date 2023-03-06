@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Trevor Ntando Nyakane  
-date: 2023-03-04 11:35:17.774951  
+date: 2023-03-06 11:25:26.131305  
 categories: player  
 ---
 # Trevor Ntando Nyakane
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 98.0
 
-## Current Percentile: 30.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Racing 92 |             8 |     0.3125 |
+| Racing 92 |             9 |   0.277778 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,3 +32,4 @@ categories: player
 | Lyon                 |         1 |        0   |
 | Montpellier Herault  |         1 |        0   |
 | Stade Francais Paris |         1 |        0   |
+| Stade Toulousain     |         1 |        0   |

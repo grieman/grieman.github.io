@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pedro RUBIOLO  
-date: 2023-01-31 16:08:55.838174  
+date: 2023-03-06 11:27:21.225732  
 categories: player  
 ---
 # Pedro RUBIOLO
 
-## Positions: L, FL
+## Positions: L
 
-## Current elo: 93.0
+## Current elo: 98.0
 
-## Current Percentile: 39.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -19,17 +19,14 @@ categories: player
 # Match History
 
 
-| Team              |   Appearances |   Win Rate |
-|:------------------|--------------:|-----------:|
-| Jaguares XV       |            12 |   0.666667 |
-| Newcastle Falcons |             2 |   0.5      |
+| Team        |   Appearances |   Win Rate |
+|:------------|--------------:|-----------:|
+| Jaguares XV |            13 |   0.615385 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
 | Olimpia Lions |         3 |   1        |
 | Penarol Rugby |         3 |   0.333333 |
+| Selknam       |         3 |   0        |
 | Cafeteros Pro |         2 |   1        |
 | Cobras        |         2 |   1        |
-| Selknam       |         2 |   0        |
-| Cardiff Blues |         1 |   0        |
-| Connacht      |         1 |   1        |

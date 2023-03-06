@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robert VALETINI  
-date: 2023-03-04 11:40:21.755630  
+date: 2023-03-06 11:27:33.052315  
 categories: player  
 ---
 # Robert VALETINI
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 118.0
+## Current elo: 119.0
 
 ## Current Percentile: 91.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            56 |   0.696429 |
+| Brumbies         |            57 |   0.701754 |
 | Australia        |            32 |   0.46875  |
 | Canberra Vikings |            21 |   0.714286 |
 | Melbourne Rising |             1 |   0        |
@@ -43,11 +43,11 @@ categories: player
 | France                   |         4 |  0.5       |
 | NSW Country Eagles       |         3 |  0.666667  |
 | Sunwolves                |         3 |  1         |
+| Blues                    |         3 |  0.333333  |
 | Highlanders              |         3 |  0.333333  |
 | Brisbane City            |         3 |  0.666667  |
 | Hurricanes               |         2 |  1         |
 | Sydney Rays              |         2 |  1         |
-| Blues                    |         2 |  0         |
 | Melbourne Rising         |         2 |  1         |
 | Scotland                 |         2 |  0.5       |
 | Perth Spirit             |         2 |  1         |

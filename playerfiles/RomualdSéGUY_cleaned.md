@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romuald SéGUY  
-date: 2023-03-04 11:39:54.783852  
+date: 2023-03-06 11:26:36.548642  
 categories: player  
 ---
 # Romuald SéGUY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 55.0
+## Current Percentile: 54.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Willem Johannes HARMSE  
-date: 2023-02-17 14:42:27.431941  
+date: 2023-03-06 11:27:42.537292  
 categories: player  
 ---
 # Willem Johannes HARMSE
 
 ## Positions: P
 
-## Current elo: 81.0
+## Current elo: 90.0
 
-## Current Percentile: 11.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            86 |   0.517442 |
+| US Bressane |            87 |   0.522989 |
 | Narbonne    |            43 |   0.430233 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Aurillac                   |         7 |   0.428571 |
 | Tarbes                     |         7 |   0.285714 |
+| Aurillac                   |         7 |   0.428571 |
 | Carcassonne                |         7 |   0.571429 |
 | Oyonnax                    |         6 |   0.333333 |
 | Dax                        |         6 |   0.5      |
+| Narbonne                   |         6 |   0.5      |
 | Beziers                    |         6 |   0.5      |
 | Albi                       |         5 |   0.6      |
-| Massy                      |         5 |   0.8      |
-| Colomiers                  |         5 |   0.4      |
-| Narbonne                   |         5 |   0.4      |
 | Provence Rugby             |         5 |   0.4      |
+| Colomiers                  |         5 |   0.4      |
 | Auch                       |         5 |   0.3      |
+| Massy                      |         5 |   0.8      |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Montauban                  |         4 |   0.375    |
 | Mont-de-Marsan             |         4 |   0.25     |

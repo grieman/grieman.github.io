@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Raphaël Carbou  
-date: 2023-03-04 11:36:12.098201  
+date: 2023-03-06 11:24:39.905912  
 categories: player  
 ---
 # Raphaël Carbou
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wilfried Hounkpatin  
-date: 2023-03-04 11:42:55.391179  
+date: 2023-03-06 11:22:43.623412  
 categories: player  
 ---
 # Wilfried Hounkpatin
 
 ## Positions: P
 
-## Current elo: 82.0
+## Current elo: 89.0
 
-## Current Percentile: 19.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -31,7 +31,7 @@ categories: player
 | Edinburgh            |         1 |        0   |
 | Exeter Chiefs        |         1 |        0   |
 | La Rochelle          |         1 |        0   |
-| Pau                  |         1 |        1   |
+| Lyon                 |         1 |        1   |
 | Racing 92            |         1 |        0.5 |
 | Stade Francais Paris |         1 |        0   |
 | Stade Toulousain     |         1 |        0   |

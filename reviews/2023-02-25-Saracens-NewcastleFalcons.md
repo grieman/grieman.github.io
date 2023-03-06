@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Newcastle Falcons by 2.2
+## Prediction with Player Minutes: Newcastle Falcons by 4.5
 
 
-Newcastle Falcons by 6.2 on a neutral field
+Newcastle Falcons by 8.5 on a neutral field
 ## Scores over Time
 
 
@@ -41,37 +41,37 @@ Newcastle Falcons by 6.2 on a neutral field
 
 ![In Match Predictions](plots/recap_prob_2023-02-25-Saracens-NewcastleFalcons.png)
 
-There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Newcastle Falcons by 1.0
+There were 7 large changes in win probability in this match
+## Prediction without Player Minutes: Newcastle Falcons by 3.2
 
 
-Newcastle Falcons by 5.0 on a neutral pitch
+Newcastle Falcons by 7.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                   |   Home Minutes |
 |---------------:|:---------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------|---------------:|
-|             50 | [Logovi'i Mulipola](..//playerfiles//Logovi'iMulipola_cleaned.md)    |     104.55 |                81 |        1 |                17 |      84.34 | [Eroni Mawi](..//playerfiles//EroniMawi_cleaned.md)           |             55 |
-|             72 | [Jamie Blamire](..//playerfiles//JamieBlamire_cleaned.md)            |      91.43 |                39 |        2 |                48 |      94.55 | [Theo Dan](..//playerfiles//TheoDan_cleaned.md)               |             55 |
-|             56 | [Trevor Davison](..//playerfiles//TrevorDavison_cleaned.md)          |      69.17 |                 3 |        3 |                22 |      86.83 | [Alec Clarey](..//playerfiles//AlecClarey_cleaned.md)         |             55 |
-|             83 | [Greg Peterson](..//playerfiles//GregPeterson_cleaned.md)            |      81.23 |                15 |        4 |                11 |      77.29 | [Tom Ellis](..//playerfiles//TomEllis_cleaned.md)             |             72 |
-|             83 | [Sebastian de Chaves](..//playerfiles//SebastiandeChaves_cleaned.md) |      81.41 |                15 |        5 |                27 |      88    | [Hugh Tizard](..//playerfiles//HughTizard_cleaned.md)         |             83 |
-|             56 | [Philip van der Walt](..//playerfiles//PhilipvanderWalt_cleaned.md)  |      92.07 |                44 |        6 |                28 |      88.22 | [Andy Christie](..//playerfiles//AndyChristie_cleaned.md)     |             83 |
-|             56 | [Gary Graham](..//playerfiles//GaryGraham_cleaned.md)                |     106.69 |                78 |        7 |                93 |     118.96 | [Ben Earl](..//playerfiles//BenEarl_cleaned.md)               |             83 |
-|             83 | [Callum Chick](..//playerfiles//CallumChick_cleaned.md)              |     104.13 |                74 |        8 |                85 |     110.86 | [Billy Vunipola](..//playerfiles//BillyVunipola_cleaned.md)   |             78 |
-|             70 | [Michael Young](..//playerfiles//MichaelYoung_cleaned.md)            |     118.39 |                95 |        9 |                92 |     113.57 | [Ivan van Zyl](..//playerfiles//IvanvanZyl_cleaned.md)        |             55 |
-|             83 | [Brett Connon](..//playerfiles//BrettConnon_cleaned.md)              |     100.25 |                63 |       10 |                39 |      91.93 | [Manu Vunipola](..//playerfiles//ManuVunipola_cleaned.md)     |             83 |
-|             83 | [Ben Stevenson](..//playerfiles//BenStevenson_cleaned.md)            |      96.04 |                53 |       11 |                35 |      89.86 | [Alex Lewington](..//playerfiles//AlexLewington_cleaned.md)   |             65 |
-|             48 | [Matias Orlando](..//playerfiles//MatiasOrlando_cleaned.md)          |      81.23 |                15 |       12 |               nan |      96.76 | [Olly Hartley](..//playerfiles//OllyHartley_cleaned.md)       |             69 |
-|             59 | [Matias Moroni](..//playerfiles//MatiasMoroni_cleaned.md)            |     122.35 |                95 |       13 |                50 |      95.54 | [Alex Lozowski](..//playerfiles//AlexLozowski_cleaned.md)     |             83 |
-|             83 | [Adam Radwan](..//playerfiles//AdamRadwan_cleaned.md)                |     132.92 |                97 |       14 |                73 |     103.34 | [Rotimi Segun](..//playerfiles//RotimiSegun_cleaned.md)       |             83 |
-|             83 | [Elliott Obatoyinbo](..//playerfiles//ElliottObatoyinbo_cleaned.md)  |      99.21 |                60 |       15 |                70 |     102.15 | [Alex Goode](..//playerfiles//AlexGoode_cleaned.md)           |             83 |
-|             11 | [Ollie Fletcher](..//playerfiles//OllieFletcher_cleaned.md)          |      95    |               nan |       16 |                 1 |      46.11 | [Kapeli Pifeleti](..//playerfiles//KapeliPifeleti_cleaned.md) |             28 |
-|             33 | [Adam Brocklebank](..//playerfiles//AdamBrocklebank_cleaned.md)      |     104.33 |                80 |       17 |               nan |     106.9  | [Robin Hislop](..//playerfiles//RobinHislop_cleaned.md)       |             28 |
-|             27 | [Mark Tampin](..//playerfiles//MarkTampin_cleaned.md)                |     100.12 |               nan |       18 |                15 |      82.9  | [Eduardo Bello](..//playerfiles//EduardoBello_cleaned.md)     |             28 |
-|             27 | [Freddie Lockwood](..//playerfiles//FreddieLockwood_cleaned.md)      |     103.32 |                73 |       19 |               nan |      92.1  | [Cameron Boon](..//playerfiles//CameronBoon_cleaned.md)       |             11 |
-|             27 | [Carl Fearns](..//playerfiles//CarlFearns_cleaned.md)                |     123.51 |                95 |       20 |               nan |      96.81 | [Toby Knight](..//playerfiles//TobyKnight_cleaned.md)         |              5 |
-|             13 | [Sam Stuart](..//playerfiles//SamStuart_cleaned.md)                  |      64.74 |                 2 |       21 |                70 |     101.29 | [Aled Davies](..//playerfiles//AledDavies_cleaned.md)         |             28 |
-|             24 | [Tian Schoeman](..//playerfiles//TianSchoeman_cleaned.md)            |     115.5  |                91 |       22 |               nan |      92.92 | [Josh Hallett](..//playerfiles//JoshHallett_cleaned.md)       |             14 |
-|             35 | [Pete Lucock](..//playerfiles//PeteLucock_cleaned.md)                |      95.8  |                52 |       23 |                89 |     115.45 | [Sean Maitland](..//playerfiles//SeanMaitland_cleaned.md)     |             18 |
+|             50 | [Logovi'i Mulipola](..//playerfiles//Logovi'iMulipola_cleaned.md)    |     104.57 |                81 |        1 |                16 |      84    | [Eroni Mawi](..//playerfiles//EroniMawi_cleaned.md)           |             55 |
+|             72 | [Jamie Blamire](..//playerfiles//JamieBlamire_cleaned.md)            |      91.51 |                39 |        2 |                50 |      93.33 | [Theo Dan](..//playerfiles//TheoDan_cleaned.md)               |             55 |
+|             56 | [Trevor Davison](..//playerfiles//TrevorDavison_cleaned.md)          |      69.23 |                 3 |        3 |                22 |      87.14 | [Alec Clarey](..//playerfiles//AlecClarey_cleaned.md)         |             55 |
+|             83 | [Greg Peterson](..//playerfiles//GregPeterson_cleaned.md)            |      81.31 |                15 |        4 |                 7 |      72.64 | [Tom Ellis](..//playerfiles//TomEllis_cleaned.md)             |             72 |
+|             83 | [Sebastian de Chaves](..//playerfiles//SebastiandeChaves_cleaned.md) |      81.92 |                16 |        5 |                19 |      83.9  | [Hugh Tizard](..//playerfiles//HughTizard_cleaned.md)         |             83 |
+|             56 | [Philip van der Walt](..//playerfiles//PhilipvanderWalt_cleaned.md)  |      92.11 |                44 |        6 |                26 |      87.54 | [Andy Christie](..//playerfiles//AndyChristie_cleaned.md)     |             83 |
+|             56 | [Gary Graham](..//playerfiles//GaryGraham_cleaned.md)                |     106.78 |                78 |        7 |                93 |     119    | [Ben Earl](..//playerfiles//BenEarl_cleaned.md)               |             83 |
+|             83 | [Callum Chick](..//playerfiles//CallumChick_cleaned.md)              |     104.22 |                74 |        8 |                84 |     110.18 | [Billy Vunipola](..//playerfiles//BillyVunipola_cleaned.md)   |             78 |
+|             70 | [Michael Young](..//playerfiles//MichaelYoung_cleaned.md)            |     118.78 |                96 |        9 |                91 |     113.4  | [Ivan van Zyl](..//playerfiles//IvanvanZyl_cleaned.md)        |             55 |
+|             83 | [Brett Connon](..//playerfiles//BrettConnon_cleaned.md)              |     100.75 |                64 |       10 |                41 |      92.63 | [Manu Vunipola](..//playerfiles//ManuVunipola_cleaned.md)     |             83 |
+|             83 | [Ben Stevenson](..//playerfiles//BenStevenson_cleaned.md)            |      96.54 |                55 |       11 |                21 |      85.53 | [Alex Lewington](..//playerfiles//AlexLewington_cleaned.md)   |             65 |
+|             48 | [Matias Orlando](..//playerfiles//MatiasOrlando_cleaned.md)          |      81.31 |                14 |       12 |               nan |      96.76 | [Olly Hartley](..//playerfiles//OllyHartley_cleaned.md)       |             69 |
+|             59 | [Matias Moroni](..//playerfiles//MatiasMoroni_cleaned.md)            |     122.37 |                95 |       13 |                49 |      94.82 | [Alex Lozowski](..//playerfiles//AlexLozowski_cleaned.md)     |             83 |
+|             83 | [Adam Radwan](..//playerfiles//AdamRadwan_cleaned.md)                |     133.01 |                97 |       14 |                62 |      99.25 | [Rotimi Segun](..//playerfiles//RotimiSegun_cleaned.md)       |             83 |
+|             83 | [Elliott Obatoyinbo](..//playerfiles//ElliottObatoyinbo_cleaned.md)  |      99.41 |                60 |       15 |                67 |     101.47 | [Alex Goode](..//playerfiles//AlexGoode_cleaned.md)           |             83 |
+|             11 | [Ollie Fletcher](..//playerfiles//OllieFletcher_cleaned.md)          |      95    |               nan |       16 |                 1 |      45.61 | [Kapeli Pifeleti](..//playerfiles//KapeliPifeleti_cleaned.md) |             28 |
+|             33 | [Adam Brocklebank](..//playerfiles//AdamBrocklebank_cleaned.md)      |     104.7  |                81 |       17 |               nan |     104.5  | [Robin Hislop](..//playerfiles//RobinHislop_cleaned.md)       |             28 |
+|             27 | [Mark Tampin](..//playerfiles//MarkTampin_cleaned.md)                |     100.12 |               nan |       18 |                15 |      82.91 | [Eduardo Bello](..//playerfiles//EduardoBello_cleaned.md)     |             28 |
+|             27 | [Freddie Lockwood](..//playerfiles//FreddieLockwood_cleaned.md)      |     103.45 |                73 |       19 |               nan |      92.1  | [Cameron Boon](..//playerfiles//CameronBoon_cleaned.md)       |             11 |
+|             27 | [Carl Fearns](..//playerfiles//CarlFearns_cleaned.md)                |     123.7  |                95 |       20 |               nan |      93.4  | [Toby Knight](..//playerfiles//TobyKnight_cleaned.md)         |              5 |
+|             13 | [Sam Stuart](..//playerfiles//SamStuart_cleaned.md)                  |      64.96 |                 3 |       21 |                69 |     100.79 | [Aled Davies](..//playerfiles//AledDavies_cleaned.md)         |             28 |
+|             24 | [Tian Schoeman](..//playerfiles//TianSchoeman_cleaned.md)            |     115.62 |                91 |       22 |               nan |      92.91 | [Josh Hallett](..//playerfiles//JoshHallett_cleaned.md)       |             14 |
+|             35 | [Pete Lucock](..//playerfiles//PeteLucock_cleaned.md)                |      95.8  |                52 |       23 |                87 |     114.65 | [Sean Maitland](..//playerfiles//SeanMaitland_cleaned.md)     |             18 |
 

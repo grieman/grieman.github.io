@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel BOISSINOT  
-date: 2023-03-04 11:41:21.297583  
+date: 2023-03-06 11:24:13.936279  
 categories: player  
 ---
 # Samuel BOISSINOT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 25.0
+## Current Percentile: 24.0
 
 # Elo History
 

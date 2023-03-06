@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tate MCDERMOTT  
-date: 2023-03-04 11:37:50.708342  
+date: 2023-03-06 11:22:28.003346  
 categories: player  
 ---
 # Tate MCDERMOTT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 100.0
+## Current elo: 102.0
 
-## Current Percentile: 58.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Queensland Reds    |            65 |   0.5      |
+| Queensland Reds    |            66 |   0.507576 |
 | Australia          |            21 |   0.47619  |
 | Queensland Country |            18 |   0.611111 |
 
@@ -32,7 +32,7 @@ categories: player
 | Melbourne Rebels         |        11 |   0.681818 |
 | Brumbies                 |        10 |   0.7      |
 | New South Wales Waratahs |         9 |   0.555556 |
-| Western Force            |         6 |   0.5      |
+| Western Force            |         7 |   0.571429 |
 | Crusaders                |         5 |   0        |
 | New Zealand              |         5 |   0.2      |
 | Fijian Drua              |         4 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dalton Papalii  
-date: 2023-03-04 11:43:49.024531  
+date: 2023-03-06 11:26:12.277092  
 categories: player  
 ---
 # Dalton Papalii
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 104.0
+## Current elo: 103.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Blues            |            57 |   0.614035 |
+| Blues            |            58 |   0.603448 |
 | New Zealand      |            22 |   0.818182 |
 | Auckland         |            16 |   0.75     |
 | Counties Manukau |             1 |   0        |
@@ -35,10 +35,10 @@ categories: player
 | Crusaders                |         7 |   0.142857 |
 | Hurricanes               |         6 |   0.5      |
 | Australia                |         6 |   1        |
+| Brumbies                 |         4 |   0.5      |
 | Ireland                  |         4 |   0.25     |
 | New South Wales Waratahs |         4 |   1        |
 | Tasman                   |         3 |   0.333333 |
-| Brumbies                 |         3 |   0.666667 |
 | Queensland Reds          |         3 |   0.666667 |
 | Waikato                  |         2 |   0.5      |
 | Taranaki                 |         2 |   1        |

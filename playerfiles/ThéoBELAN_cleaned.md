@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo Belan  
-date: 2023-03-04 11:34:40.120603  
+date: 2023-03-06 11:25:49.946098  
 categories: player  
 ---
 # Théo Belan
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 79.0
 
-## Current Percentile: 22.0
+## Current Percentile: 17.0
 
 # Elo History
 

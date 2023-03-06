@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Freddie LOCKWOOD  
-date: 2023-03-04 11:37:18.574595  
+date: 2023-03-06 11:26:32.868009  
 categories: player  
 ---
 # Freddie LOCKWOOD
 
 ## Positions: N8, FL
 
-## Current elo: 102.0
+## Current elo: 100.0
 
 ## Current Percentile: 73.0
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            17 |   0.352941 |
+| Newcastle Falcons |            18 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Saracens           |         3 |          0 |
+| London Irish       |         2 |          0 |
 | Ampthill           |         1 |          1 |
 | Bath Rugby         |         1 |          0 |
 | Bristol Rugby      |         1 |          0 |
@@ -35,7 +36,6 @@ categories: player
 | Gloucester Rugby   |         1 |          1 |
 | Harlequins         |         1 |          0 |
 | Leicester Tigers   |         1 |          0 |
-| London Irish       |         1 |          0 |
 | Northampton Saints |         1 |          0 |
 | Wasps              |         1 |          0 |
 | Worcester Warriors |         1 |          1 |

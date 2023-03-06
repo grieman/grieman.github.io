@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yann TIVOLI  
-date: 2023-03-04 11:39:47.936044  
+date: 2023-03-06 11:24:01.149866  
 categories: player  
 ---
 # Yann TIVOLI
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 65.0
+## Current Percentile: 64.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nathan SYLVIA  
-date: 2023-03-04 11:34:23.152639  
+date: 2023-03-06 11:24:26.829321  
 categories: player  
 ---
 # Nathan SYLVIA
 
 ## Positions: P
 
-## Current elo: 109.0
+## Current elo: 108.0
 
 ## Current Percentile: 84.0
 

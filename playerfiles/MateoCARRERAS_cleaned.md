@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mateo CARRERAS  
-date: 2023-03-04 11:43:03.984888  
+date: 2023-03-06 11:25:29.737228  
 categories: player  
 ---
 # Mateo CARRERAS
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            30 |        0.3 |
-| Argentina         |            10 |        0.4 |
-| Jaguares XV       |             4 |        1   |
+| Newcastle Falcons |            31 |   0.290323 |
+| Argentina         |            10 |   0.4      |
+| Jaguares XV       |             4 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -34,12 +34,12 @@ categories: player
 | Bristol Rugby      |         3 |   0.666667 |
 | Sale Sharks        |         3 |   0.333333 |
 | Northampton Saints |         3 |   0        |
+| London Irish       |         3 |   0        |
 | Worcester Warriors |         2 |   0.5      |
 | Wasps              |         2 |   0        |
 | Gloucester Rugby   |         2 |   0        |
 | Harlequins         |         2 |   0.5      |
 | Bath Rugby         |         2 |   0        |
-| London Irish       |         2 |   0        |
 | Leopards           |         1 |   1        |
 | Wales              |         1 |   0        |
 | Valke              |         1 |   1        |

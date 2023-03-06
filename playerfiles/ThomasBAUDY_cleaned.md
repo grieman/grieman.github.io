@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BAUDY  
-date: 2023-02-28 13:55:13.365774  
+date: 2023-03-06 11:28:24.114491  
 categories: player  
 ---
 # Thomas BAUDY
 
-## Positions: FB
+## Positions: FB, W
 
-## Current elo: 86.0
+## Current elo: 80.0
 
-## Current Percentile: 10.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -22,15 +22,15 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Aubenas  |            32 |   0.296875 |
-| Suresnes |            12 |   0.416667 |
+| Suresnes |            13 |   0.384615 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Blagnac                    |         5 |   0.2      |
 | Chambery                   |         5 |   0.6      |
 | Nice                       |         5 |   0        |
+| Albi                       |         4 |   0        |
 | Suresnes                   |         4 |   0.5      |
-| Albi                       |         3 |   0        |
 | Narbonne                   |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0        |
 | Bourgoin-Jallieu           |         2 |   0.5      |

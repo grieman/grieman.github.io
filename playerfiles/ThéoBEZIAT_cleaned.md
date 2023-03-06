@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo BEZIAT  
-date: 2023-03-04 11:36:51.227955  
+date: 2023-03-06 11:24:58.310464  
 categories: player  
 ---
 # Théo BEZIAT

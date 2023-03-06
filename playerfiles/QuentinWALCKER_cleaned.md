@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin WALCKER  
-date: 2023-03-04 11:43:40.476174  
+date: 2023-03-06 11:26:35.314864  
 categories: player  
 ---
 # Quentin WALCKER
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 115.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Perpignan         |            68 |   0.661765 |
-| Castres Olympique |            27 |   0.611111 |
+| Castres Olympique |            28 |   0.625    |
 | France            |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -57,9 +57,9 @@ categories: player
 | Rouen                      |         2 |   1        |
 | La Rochelle                |         2 |   0.5      |
 | Provence Rugby             |         2 |   1        |
+| Pau                        |         2 |   0.5      |
 | Connacht                   |         2 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Sale Sharks                |         1 |   0        |
 | Castres Olympique          |         1 |   0        |
-| Pau                        |         1 |   0        |
 | Agen                       |         1 |   0        |

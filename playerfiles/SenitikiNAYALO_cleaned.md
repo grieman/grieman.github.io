@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Senitiki NAYALO  
-date: 2023-02-06 16:02:17.123722  
+date: 2023-03-06 11:26:47.386284  
 categories: player  
 ---
 # Senitiki NAYALO
 
 ## Positions: N8, FL
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 76.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Coventry     |            25 |   0.66     |
+| Coventry     |            26 |   0.673077 |
 | London Irish |             7 |   0.857143 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Jersey              |         6 |   0.25     |
+| London Scottish     |         4 |   1        |
 | Ampthill            |         3 |   0.666667 |
 | Cornish Pirates     |         3 |   1        |
-| London Scottish     |         3 |   1        |
 | Nottingham          |         3 |   0.666667 |
 | Yorkshire Carnegie  |         3 |   1        |
 | Bedford             |         2 |   1        |

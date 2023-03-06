@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BORDES  
-date: 2023-02-28 13:53:21.429431  
+date: 2023-03-06 11:27:35.442977  
 categories: player  
 ---
 # Thomas BORDES
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 93.0
 
-## Current Percentile: 15.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Massy          |            59 |   0.322034 |
-| Suresnes       |            30 |   0.433333 |
+| Suresnes       |            31 |   0.451613 |
 | Mont-de-Marsan |            25 |   0.28     |
 | Oyonnax        |            22 |   0.318182 |
 | Lyon           |             7 |   1        |
@@ -51,26 +51,26 @@ categories: player
 | Vannes                     |         3 |   0.333333 |
 | Bordeaux Begles            |         3 |   1        |
 | Colomiers                  |         3 |   0.666667 |
+| Cognac Saint Jean d'Angély |         3 |   1        |
 | Clermont Auvergne          |         3 |   0        |
-| Aurillac                   |         3 |   0.333333 |
 | Chambery                   |         3 |   0.5      |
-| Biarritz Olympique         |         3 |   0.666667 |
+| Aurillac                   |         3 |   0.333333 |
 | Carcassonne                |         3 |   0.666667 |
-| La Rochelle                |         2 |   1        |
+| Biarritz Olympique         |         3 |   0.666667 |
+| Provence Rugby             |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Aubenas                    |         2 |   0.5      |
 | Saracens                   |         2 |   0        |
-| Provence Rugby             |         2 |   0.5      |
 | Gloucester Rugby           |         2 |   0        |
+| La Rochelle                |         2 |   1        |
 | Pau                        |         2 |   0        |
 | Brive                      |         2 |   0.5      |
 | Castres Olympique          |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   1        |
 | Dijon                      |         2 |   1        |
 | London Irish               |         2 |   0        |
 | Racing 92                  |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Stade Francais Paris       |         1 |   0        |
-| Montpellier Herault        |         1 |   0        |
 | Toulon                     |         1 |   0        |
+| Montpellier Herault        |         1 |   0        |
 | Ulster                     |         1 |   0        |

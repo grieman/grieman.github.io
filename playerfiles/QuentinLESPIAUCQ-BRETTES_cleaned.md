@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin Lespiaucq-Brettes  
-date: 2023-03-04 11:35:04.695110  
+date: 2023-03-06 11:28:07.367405  
 categories: player  
 ---
 # Quentin Lespiaucq-Brettes
 
 ## Positions: H
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 73.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |             9 |   0.777778 |
+| La Rochelle |            10 |        0.8 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -30,5 +30,6 @@ categories: player
 | Brive              |         1 |          1 |
 | Castres Olympique  |         1 |          1 |
 | Lyon               |         1 |          0 |
+| Pau                |         1 |          1 |
 | Perpignan          |         1 |          1 |
 | Racing 92          |         1 |          0 |

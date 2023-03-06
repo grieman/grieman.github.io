@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kapeli PIFELETI  
-date: 2023-03-04 11:40:43.897945  
+date: 2023-03-06 11:27:40.178529  
 categories: player  
 ---
 # Kapeli PIFELETI
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Saracens                 |            33 |   0.575758 |
+| Saracens                 |            34 |   0.558824 |
 | San Diego Legion         |            16 |   0.71875  |
 | United States of America |             4 |   0.5      |
 
@@ -32,21 +32,21 @@ categories: player
 | Exeter Chiefs      |         5 |   0.8      |
 | Leicester Tigers   |         3 |   0.333333 |
 | R.U. New York      |         3 |   0.666667 |
+| Sale Sharks        |         3 |   0.333333 |
 | Seattle Seawolves  |         3 |   0.666667 |
 | Newcastle Falcons  |         3 |   1        |
 | Toronto Arrows     |         2 |   0        |
 | Edinburgh          |         2 |   0        |
 | Glendale Raptors   |         2 |   0.75     |
 | Wasps              |         2 |   0        |
-| Sale Sharks        |         2 |   0.5      |
 | Bath Rugby         |         2 |   1        |
 | London Irish       |         2 |   0        |
 | Bristol Rugby      |         2 |   1        |
 | NOLA Gold          |         2 |   1        |
 | Gloucester Rugby   |         2 |   0.5      |
 | Uruguay            |         1 |   0        |
-| Utah Warriors      |         1 |   1        |
 | Northampton Saints |         1 |   0        |
+| Utah Warriors      |         1 |   1        |
 | Rugby New York     |         1 |   1        |
 | Richmond           |         1 |   1        |
 | Austin Elite Rugby |         1 |   1        |

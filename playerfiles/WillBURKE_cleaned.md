@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Will BURKE  
-date: 2023-03-04 11:41:27.049430  
+date: 2023-03-06 11:24:18.605171  
 categories: player  
 ---
 # Will BURKE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 76.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Fergus LEE-WARNER  
-date: 2023-03-04 11:37:49.226585  
+date: 2023-03-06 11:24:07.009132  
 categories: player  
 ---
 # Fergus LEE-WARNER
 
 ## Positions: L, FL
 
-## Current elo: 73.0
+## Current elo: 72.0
 
 ## Current Percentile: 11.0
 

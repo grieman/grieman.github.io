@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Mateu  
-date: 2023-02-28 13:59:04.068289  
+date: 2023-03-06 11:27:23.523220  
 categories: player  
 ---
 # Inaki Mateu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 83.0
+## Current elo: 95.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Spain              |             8 |   0.5      |
+| Spain              |             9 |   0.444444 |
 | Rugby Viadana 1970 |             3 |   0.333333 |
 
 | Opponent               |   Matches |   Win Rate |
@@ -34,5 +34,6 @@ categories: player
 | Germany                |         1 |        1   |
 | Namibia                |         1 |        1   |
 | Netherlands            |         1 |        1   |
+| Portugal               |         1 |        0   |
 | Romania                |         1 |        1   |
 | Tonga                  |         1 |        0   |

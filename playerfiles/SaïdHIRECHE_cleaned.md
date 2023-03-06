@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Saïd Hireche  
-date: 2023-03-04 11:44:09.663528  
+date: 2023-03-06 11:25:39.130838  
 categories: player  
 ---
 # Saïd Hireche
 
 ## Positions: FL
 
-## Current elo: 108.0
+## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Brive  |             9 |   0.444444 |
+| Brive  |            10 |        0.4 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Bayonne           |         1 |          0 |
+| Bordeaux Begles   |         1 |          0 |
 | Cardiff Blues     |         1 |          1 |
 | Clermont Auvergne |         1 |          1 |
 | Connacht          |         1 |          0 |

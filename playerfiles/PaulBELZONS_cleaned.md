@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul BELZONS  
-date: 2023-01-31 16:08:04.015695  
+date: 2023-03-06 11:27:24.684510  
 categories: player  
 ---
 # Paul BELZONS
 
 ## Positions: FL
 
-## Current elo: 85.0
+## Current elo: 90.0
 
-## Current Percentile: 14.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Narbonne         |           119 |   0.378151 |
+| Narbonne         |           120 |   0.375    |
 | Soyaux-Angouleme |            55 |   0.409091 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -42,11 +42,11 @@ categories: player
 | Grenoble                   |         6 |   0.25     |
 | Rouen                      |         6 |   0.5      |
 | Provence Rugby             |         6 |   0.666667 |
+| US Bressane                |         4 |   0.75     |
 | Albi                       |         4 |   0.375    |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.5      |
 | Tarbes                     |         3 |   0        |
-| US Bressane                |         3 |   1        |
 | Valence Romans Drome Rugby |         3 |   0.5      |
 | Agen                       |         3 |   0.333333 |
 | Nice                       |         2 |   1        |

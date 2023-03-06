@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Xavier VALENTINE  
-date: 2023-03-04 11:39:11.361666  
+date: 2023-03-06 11:27:31.823373  
 categories: player  
 ---
 # Xavier VALENTINE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 73.0
 
-## Current Percentile: 8.0
+## Current Percentile: 9.0
 
 # Elo History
 
