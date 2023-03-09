@@ -15,6 +15,8 @@ from tabulate import tabulate
 from sklearn import metrics
 from support_files.comp_funcs import *
 from support_files.team_colors import team_color_dict
+from support_files.plot_functions import *
+
 
 def clean_leading_space(orig_name, new_name):
     ## quick and dirty remove empty leading lines
@@ -38,7 +40,7 @@ def make_comp_page(comp):
     match_df, club_histories, clubbase = get_comp_history(comp)
     match_df = match_df[~match_df.point_diff.isna()]
     fut_matches_df = get_fut_comp_matches(comp)
-    sim_df, playoff_df = sim_remaining(comp, n_sims=1000, fut_matches_df=fut_matches_df, clubbase=clubbase)
+    sim_df, playoff_df, clubs = sim_remaining(comp, n_sims=1000, fut_matches_df=fut_matches_df, clubbase=clubbase)
 
     md_file = MdUtils(file_name=f'temp//{comp.replace(" ", "_")}')
     # yaml header
@@ -96,9 +98,9 @@ def make_comp_page(comp):
 
         for _, row in week_subset.iterrows():
             matchname = row["Home Team"] + " V " + row["Away Team"] + " on " + row["Date"].strftime('%Y/%m/%d')
-            one_match = sim_df[(sim_df.Club == row['Home Team']) & (sim_df.Opponent == row['Away Team'])].copy()
-            one_match['Home_Rtng'] = one_match.Competition.str.split(" ").str[1].astype(float)
-            one_match['Away_Rtng'] = one_match.Competition.str.split(" ").str[-1].astype(float)
+            one_match = sim_df[(sim_df.Club == row['Home Team']) & (sim_df.Opponent == row['Away Team']) & (sim_df.Home == True)].copy()
+            one_match['Home_Rtng'] = one_match.Competition.str.split(" ").str[1].str.split("-").str[-1].astype(float)
+            one_match['Away_Rtng'] = one_match.Competition.str.split(" ").str[-1].str.split("-").str[-1].astype(float)
 
             performce_path, spread_path, resultbar_path = glicko_club_plots(
                 one_match['Home_Rtng'], 

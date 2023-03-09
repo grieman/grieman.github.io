@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Fijian Drua by 2.0
+## Prediction with Player Minutes: Fijian Drua by 15.0
 
 
-New South Wales Waratahs by 2.0 on a neutral field
+Fijian Drua by 11.0 on a neutral field
 ## Scores over Time
 
 
@@ -41,37 +41,37 @@ New South Wales Waratahs by 2.0 on a neutral field
 
 ![In Match Predictions](plots/recap_prob_2023-03-04-FijianDrua-NewSouthWalesWaratahs.png)
 
-There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Fijian Drua by 6.4
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Fijian Drua by 16.4
 
 
-Fijian Drua by 2.4 on a neutral pitch
+Fijian Drua by 12.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                     |   Home Minutes |
 |---------------:|:----------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------------------------|---------------:|
-|             71 | [Tom Lambert](..//playerfiles//TomLambert_cleaned.md)                 |      93.31 |               nan |        1 |               nan |      96.57 | [Jone Tiko](..//playerfiles//JoneTiko_cleaned.md)                               |             30 |
-|             57 | [Dave Porecki](..//playerfiles//DavePorecki_cleaned.md)               |     113.41 |                91 |        2 |                94 |     117.71 | [Tevita Ikanivere](..//playerfiles//TevitaIkanivere_cleaned.md)                 |             48 |
-|             40 | [Archer Holz](..//playerfiles//ArcherHolz_cleaned.md)                 |      88.44 |                26 |        3 |               nan |      95.97 | [Samuela Tawake](..//playerfiles//SamuelaTawake_cleaned.md)                     |             82 |
-|             82 | [Jed Holloway](..//playerfiles//JedHolloway_cleaned.md)               |      85.45 |                22 |        4 |                97 |     128.14 | [Isoa Nasilasila](..//playerfiles//IsoaNasilasila_cleaned.md)                   |             82 |
-|             57 | [Hugh Sinclair](..//playerfiles//HughSinclair_cleaned.md)             |      83.69 |                22 |        5 |                40 |      92.27 | [Ratu Rotuisolia](..//playerfiles//RatuRotuisolia_cleaned.md)                   |             53 |
-|             57 | [Lachlan Swinton](..//playerfiles//LachlanSwinton_cleaned.md)         |     101.45 |                68 |        6 |                21 |      85.42 | [Joseva Tamani](..//playerfiles//JosevaTamani_cleaned.md)                       |             69 |
-|             82 | [Michael Hooper](..//playerfiles//MichaelHooper_cleaned.md)           |     132.89 |                97 |        7 |                 5 |      72.13 | [Kitione Salawa](..//playerfiles//KitioneSalawa_cleaned.md)                     |             82 |
-|             66 | [Langi Gleeson](..//playerfiles//LangiGleeson_cleaned.md)             |     103.67 |                75 |        8 |                90 |     115.28 | [Te Ahiwaru Cirikidaveta](..//playerfiles//TeAhiwaruCirikidaveta_cleaned.md)    |             52 |
-|             71 | [Jake Gordon](..//playerfiles//JakeGordon_cleaned.md)                 |     124.89 |                97 |        9 |                25 |      86.69 | [Frank Lomani](..//playerfiles//FrankLomani_cleaned.md)                         |             68 |
-|             72 | [Tane Edmed](..//playerfiles//TaneEdmed_cleaned.md)                   |      92.14 |                41 |       10 |                23 |      88.11 | [Caleb Muntz](..//playerfiles//CalebMuntz_cleaned.md)                           |             82 |
-|             82 | [Max Jorgensen](..//playerfiles//MaxJorgensen_cleaned.md)             |      92.7  |                43 |       11 |                91 |     115.97 | [Tuidraki Samusamuvodre](..//playerfiles//TuidrakiSamusamuvodre_cleaned.md)     |             64 |
-|             82 | [Lalakai Foketi](..//playerfiles//LalakaiFoketi_cleaned.md)           |      99.79 |                64 |       12 |                99 |     147.06 | [Kalaveti Ravouvou](..//playerfiles//KalavetiRavouvou_cleaned.md)               |             52 |
-|             82 | [Izaia Perese](..//playerfiles//IzaiaPerese_cleaned.md)               |      83.58 |                18 |       13 |                59 |      97.99 | [Iosefo Masi](..//playerfiles//IosefoMasi_cleaned.md)                           |             82 |
-|             82 | [Mark Nawaqanitawase](..//playerfiles//MarkNawaqanitawase_cleaned.md) |      96.04 |                53 |       14 |                32 |      89.45 | [Selestino Ravutaumada](..//playerfiles//SelestinoRavutaumada_cleaned.md)       |             82 |
-|             82 | [Ben Donaldson](..//playerfiles//BenDonaldson_cleaned.md)             |     106.78 |                76 |       15 |                67 |     102.13 | [Ilaisa Droasese](..//playerfiles//IlaisaDroasese_cleaned.md)                   |             82 |
-|             25 | [Tolu Latu](..//playerfiles//ToluLatu_cleaned.md)                     |      95    |               nan |       16 |                41 |      92.09 | [Zuriel Togiatama](..//playerfiles//ZurielTogiatama_cleaned.md)                 |             34 |
-|             42 | [Tetera Faulkner](..//playerfiles//TeteraFaulkner_cleaned.md)         |      93.85 |               nan |       17 |               nan |      95    | [Livai Natave](..//playerfiles//LivaiNatave_cleaned.md)                         |             38 |
+|             71 | [Tom Lambert](..//playerfiles//TomLambert_cleaned.md)                 |      90.58 |               nan |        1 |               nan |      96.86 | [Jone Tiko](..//playerfiles//JoneTiko_cleaned.md)                               |             30 |
+|             57 | [Dave Porecki](..//playerfiles//DavePorecki_cleaned.md)               |      90.73 |                37 |        2 |                65 |      99.23 | [Tevita Ikanivere](..//playerfiles//TevitaIkanivere_cleaned.md)                 |             48 |
+|             41 | [Archer Holz](..//playerfiles//ArcherHolz_cleaned.md)                 |      91.98 |                39 |        3 |               nan |      96.56 | [Samuela Tawake](..//playerfiles//SamuelaTawake_cleaned.md)                     |             82 |
+|             82 | [Jed Holloway](..//playerfiles//JedHolloway_cleaned.md)               |      88.96 |                29 |        4 |                62 |      99.23 | [Isoa Nasilasila](..//playerfiles//IsoaNasilasila_cleaned.md)                   |             82 |
+|             57 | [Hugh Sinclair](..//playerfiles//HughSinclair_cleaned.md)             |      92.42 |               nan |        5 |                65 |     100.21 | [Ratu Rotuisolia](..//playerfiles//RatuRotuisolia_cleaned.md)                   |             53 |
+|             57 | [Lachlan Swinton](..//playerfiles//LachlanSwinton_cleaned.md)         |      91.54 |                40 |        6 |                65 |     100.21 | [Joseva Tamani](..//playerfiles//JosevaTamani_cleaned.md)                       |             69 |
+|             82 | [Michael Hooper](..//playerfiles//MichaelHooper_cleaned.md)           |      88.96 |                31 |        7 |                65 |     100.21 | [Kitione Salawa](..//playerfiles//KitioneSalawa_cleaned.md)                     |             82 |
+|             66 | [Langi Gleeson](..//playerfiles//LangiGleeson_cleaned.md)             |      92.42 |               nan |        8 |                61 |      99.49 | [Te Ahiwaru Cirikidaveta](..//playerfiles//TeAhiwaruCirikidaveta_cleaned.md)    |             52 |
+|             71 | [Jake Gordon](..//playerfiles//JakeGordon_cleaned.md)                 |      88.96 |                31 |        9 |                64 |      99.23 | [Frank Lomani](..//playerfiles//FrankLomani_cleaned.md)                         |             68 |
+|             73 | [Tane Edmed](..//playerfiles//TaneEdmed_cleaned.md)                   |      88.96 |                28 |       10 |               nan |      96.76 | [Caleb Muntz](..//playerfiles//CalebMuntz_cleaned.md)                           |             82 |
+|             82 | [Max Jorgensen](..//playerfiles//MaxJorgensen_cleaned.md)             |      88.96 |                31 |       11 |                65 |     100.21 | [Tuidraki Samusamuvodre](..//playerfiles//TuidrakiSamusamuvodre_cleaned.md)     |             64 |
+|             82 | [Lalakai Foketi](..//playerfiles//LalakaiFoketi_cleaned.md)           |      88.96 |                30 |       12 |                65 |     100.21 | [Kalaveti Ravouvou](..//playerfiles//KalavetiRavouvou_cleaned.md)               |             52 |
+|             82 | [Izaia Perese](..//playerfiles//IzaiaPerese_cleaned.md)               |      90.73 |                37 |       13 |                64 |      99.82 | [Iosefo Masi](..//playerfiles//IosefoMasi_cleaned.md)                           |             82 |
+|             82 | [Mark Nawaqanitawase](..//playerfiles//MarkNawaqanitawase_cleaned.md) |      88.96 |                31 |       14 |                65 |     100.21 | [Selestino Ravutaumada](..//playerfiles//SelestinoRavutaumada_cleaned.md)       |             82 |
+|             82 | [Ben Donaldson](..//playerfiles//BenDonaldson_cleaned.md)             |      88.96 |                35 |       15 |                64 |     100.21 | [Ilaisa Droasese](..//playerfiles//IlaisaDroasese_cleaned.md)                   |             82 |
+|             25 | [Tolu Latu](..//playerfiles//ToluLatu_cleaned.md)                     |      95    |               nan |       16 |               nan |      95.98 | [Zuriel Togiatama](..//playerfiles//ZurielTogiatama_cleaned.md)                 |             34 |
+|             41 | [Tetera Faulkner](..//playerfiles//TeteraFaulkner_cleaned.md)         |      91.98 |               nan |       17 |               nan |      95    | [Livai Natave](..//playerfiles//LivaiNatave_cleaned.md)                         |             38 |
 |             11 | [Daniel Botha](..//playerfiles//DanielBotha_cleaned.md)               |      95    |               nan |       18 |               nan |      95    | [Kaliopasi Uluilakepa](..//playerfiles//KaliopasiUluilakepa_cleaned.md)         |             21 |
-|             25 | [Taleni Seu](..//playerfiles//TaleniSeu_cleaned.md)                   |     110.83 |                84 |       19 |                24 |      87.07 | [Sorovakatini Tuifagalele](..//playerfiles//SorovakatiniTuifagalele_cleaned.md) |             29 |
-|             16 | [Will Harris](..//playerfiles//WillHarris_cleaned.md)                 |     103.67 |                75 |       20 |               nan |      95.44 | [Elia Canakaivata](..//playerfiles//EliaCanakaivata_cleaned.md)                 |             23 |
-|             25 | [Charlie Gamble](..//playerfiles//CharlieGamble_cleaned.md)           |      98.09 |                56 |       21 |                73 |     102.1  | [Peni Matawalu](..//playerfiles//PeniMatawalu_cleaned.md)                       |             14 |
-|             11 | [Harrison Goddard](..//playerfiles//HarrisonGoddard_cleaned.md)       |      93.33 |               nan |       22 |                75 |     104.98 | [Teti Tela](..//playerfiles//TetiTela_cleaned.md)                               |             30 |
-|             10 | [Ben Dowling](..//playerfiles//BenDowling_cleaned.md)                 |      95    |               nan |       23 |               nan |      95.24 | [Taniela Rakuro](..//playerfiles//TanielaRakuro_cleaned.md)                     |             18 |
+|             25 | [Taleni Seu](..//playerfiles//TaleniSeu_cleaned.md)                   |      91.54 |                38 |       19 |               nan |      95.98 | [Sorovakatini Tuifagalele](..//playerfiles//SorovakatiniTuifagalele_cleaned.md) |             29 |
+|             16 | [Will Harris](..//playerfiles//WillHarris_cleaned.md)                 |      93.23 |               nan |       20 |               nan |      95.72 | [Elia Canakaivata](..//playerfiles//EliaCanakaivata_cleaned.md)                 |             23 |
+|             25 | [Charlie Gamble](..//playerfiles//CharlieGamble_cleaned.md)           |      90.73 |                35 |       21 |               nan |      95.98 | [Peni Matawalu](..//playerfiles//PeniMatawalu_cleaned.md)                       |             14 |
+|             11 | [Harrison Goddard](..//playerfiles//HarrisonGoddard_cleaned.md)       |      95    |               nan |       22 |                58 |      98.45 | [Teti Tela](..//playerfiles//TetiTela_cleaned.md)                               |             30 |
+|              9 | [Ben Dowling](..//playerfiles//BenDowling_cleaned.md)                 |      95    |               nan |       23 |               nan |      95.39 | [Taniela Rakuro](..//playerfiles//TanielaRakuro_cleaned.md)                     |             18 |
 

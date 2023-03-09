@@ -26,12 +26,14 @@ categories: model review projection
 | Urayasu D-Rocks V Kamaishi Seawaves on 2023/02/11                    |       38 |                34.3 |                 37.1 |              30.5 |
 | Mie Honda Heat V Kamaishi Seawaves on 2023/02/26                     |       15 |                27.5 |                 26.5 |              19.7 |
 | Toyota Industries Shuttles Aichi V Urayasu D-Rocks on 2023/02/26     |      -47 |               -11   |                -11.3 |              -5   |
+| Shimizu Blue Sharks V Urayasu D-Rocks on 2023/03/04                  |      -59 |               -32.7 |                -32.5 |             -26.2 |
+| Shimizu Blue Sharks V Urayasu D-Rocks on 2023/03/04                  |      -59 |               -32.7 |                -32.5 |             -26.2 |
+| Kamaishi Seawaves V Toyota Industries Shuttles Aichi on 2023/03/05   |       -6 |                 4.7 |                  6   |              -7.2 |
+| Kamaishi Seawaves V Toyota Industries Shuttles Aichi on 2023/03/05   |       -6 |                 4.7 |                  6   |              -7.2 |
 | Mie Honda Heat V Urayasu D-Rocks on 2022/12/17                       |       -8 |               nan   |                nan   |              -4.7 |
-| Kamaishi Seawaves V Toyota Industries Shuttles Aichi on 2023/03/05   |       -6 |               nan   |                nan   |              -7.2 |
-| Shimizu Blue Sharks V Urayasu D-Rocks on 2023/03/04                  |      -59 |               nan   |                nan   |             -26.2 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 22.3 | 22.2 | 17.6 |
-| Correct Winner |       - | 80.0% | 73.3% | 94.4% |
+| Average Error |       - | 21.5 | 21.5 | 17.6 |
+| Correct Winner |       - | 73.7% | 68.4% | 95.0% |
 
 
 ## Future Club-Level Match Predictions
@@ -41,7 +43,7 @@ categories: model review projection
 #### Mie Honda Heat V Shimizu Blue Sharks on 2023/03/12
 
 
-Average Margin: Mie Honda Heat by 23.2
+Average Margin: Mie Honda Heat by 24.1
 
 <p float="left">
 <img src="plots/performances_Mie Honda Heat_V_Shimizu Blue Sharks_8.png" width="32%" />
@@ -52,7 +54,7 @@ Average Margin: Mie Honda Heat by 23.2
 #### Hino Red Dolphins V Toyota Industries Shuttles Aichi on 2023/03/12
 
 
-Average Margin: Hino Red Dolphins by 4.6
+Average Margin: Hino Red Dolphins by 5.4
 
 <p float="left">
 <img src="plots/performances_Hino Red Dolphins_V_Toyota Industries Shuttles Aichi_8.png" width="32%" />
@@ -63,7 +65,7 @@ Average Margin: Hino Red Dolphins by 4.6
 #### Kamaishi Seawaves V Urayasu D-Rocks on 2023/03/12
 
 
-Average Margin: Urayasu D-Rocks by 24.4
+Average Margin: Urayasu D-Rocks by 24.3
 
 <p float="left">
 <img src="plots/performances_Kamaishi Seawaves_V_Urayasu D-Rocks_8.png" width="32%" />
@@ -76,7 +78,7 @@ Average Margin: Urayasu D-Rocks by 24.4
 #### Urayasu D-Rocks V Hino Red Dolphins on 2023/03/19
 
 
-Average Margin: Urayasu D-Rocks by 17.9
+Average Margin: Urayasu D-Rocks by 17.8
 
 <p float="left">
 <img src="plots/performances_Urayasu D-Rocks_V_Hino Red Dolphins_9.png" width="32%" />
@@ -87,7 +89,7 @@ Average Margin: Urayasu D-Rocks by 17.9
 #### Toyota Industries Shuttles Aichi V Mie Honda Heat on 2023/03/19
 
 
-Average Margin: Mie Honda Heat by 1.2
+Average Margin: Mie Honda Heat by 1.6
 
 <p float="left">
 <img src="plots/performances_Toyota Industries Shuttles Aichi_V_Mie Honda Heat_9.png" width="32%" />
@@ -98,7 +100,7 @@ Average Margin: Mie Honda Heat by 1.2
 #### Kamaishi Seawaves V Shimizu Blue Sharks on 2023/03/19
 
 
-Average Margin: Kamaishi Seawaves by 6.9
+Average Margin: Kamaishi Seawaves by 7.5
 
 <p float="left">
 <img src="plots/performances_Kamaishi Seawaves_V_Shimizu Blue Sharks_9.png" width="32%" />
@@ -111,7 +113,7 @@ Average Margin: Kamaishi Seawaves by 6.9
 #### Shimizu Blue Sharks V Toyota Industries Shuttles Aichi on 2023/03/23
 
 
-Average Margin: Toyota Industries Shuttles Aichi by 12.3
+Average Margin: Toyota Industries Shuttles Aichi by 12.7
 
 <p float="left">
 <img src="plots/performances_Shimizu Blue Sharks_V_Toyota Industries Shuttles Aichi_10.png" width="32%" />
@@ -122,7 +124,7 @@ Average Margin: Toyota Industries Shuttles Aichi by 12.3
 #### Kamaishi Seawaves V Hino Red Dolphins on 2023/03/23
 
 
-Average Margin: Hino Red Dolphins by 10.2
+Average Margin: Hino Red Dolphins by 9.6
 
 <p float="left">
 <img src="plots/performances_Kamaishi Seawaves_V_Hino Red Dolphins_10.png" width="32%" />
@@ -133,7 +135,7 @@ Average Margin: Hino Red Dolphins by 10.2
 #### Urayasu D-Rocks V Mie Honda Heat on 2023/03/23
 
 
-Average Margin: Urayasu D-Rocks by 14.4
+Average Margin: Urayasu D-Rocks by 14.9
 
 <p float="left">
 <img src="plots/performances_Urayasu D-Rocks_V_Mie Honda Heat_10.png" width="32%" />

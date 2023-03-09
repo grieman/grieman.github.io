@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Quentin DAUVERGNE  
-date: 2023-03-06 11:24:35.177930  
+date: 2023-03-09 10:11:59.974771  
 categories: player  
 ---
 # Quentin DAUVERGNE
 
 ## Positions: SH
 
-## Current elo: 74.0
+## Current elo: 71.0
 
-## Current Percentile: 13.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -22,11 +22,11 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Massy    |            43 |   0.290698 |
-| Suresnes |            37 |   0.459459 |
+| Suresnes |            38 |   0.447368 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         5 |   0.4      |
+| Albi                       |         6 |   0.333333 |
 | Blagnac                    |         5 |   0.4      |
 | Tarbes                     |         5 |   0.8      |
 | Nice                       |         4 |   0.25     |

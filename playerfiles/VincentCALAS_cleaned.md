@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent CALAS  
-date: 2023-03-06 11:28:11.956043  
+date: 2023-03-09 10:09:24.133662  
 categories: player  
 ---
 # Vincent CALAS
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 17.0
+## Current Percentile: 18.0
 
 # Elo History
 

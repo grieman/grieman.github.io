@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ampthill by 16.1
+## Prediction with Player Minutes: Ampthill by 16.2
 
 
-Ampthill by 12.1 on a neutral field
+Ampthill by 12.2 on a neutral field
 ## Scores over Time
 
 
@@ -42,30 +42,30 @@ Ampthill by 12.1 on a neutral field
 ![In Match Predictions](plots/recap_prob_2023-03-04-Ampthill-CornishPirates.png)
 
 There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Ampthill by 16.1
+## Prediction without Player Minutes: Ampthill by 16.2
 
 
-Ampthill by 12.1 on a neutral pitch
+Ampthill by 12.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                       |   Home Minutes |
 |---------------:|:-----------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------|---------------:|
-|             80 | [Jack Andrew](..//playerfiles//JackAndrew_cleaned.md)            |     120.23 |                95 |        1 |                66 |     105.7  | [James Flynn](..//playerfiles//JamesFlynn_cleaned.md)             |             80 |
-|             80 | [Jack Andrew](..//playerfiles//JackAndrew_cleaned.md)            |     120.23 |                95 |        1 |                83 |     105.7  | [James Flynn](..//playerfiles//JamesFlynn_cleaned.md)             |             80 |
-|             80 | [William Crane](..//playerfiles//WilliamCrane_cleaned.md)        |      92.98 |                45 |        2 |                88 |     110.77 | [Sid Blackmore](..//playerfiles//SidBlackmore_cleaned.md)         |             80 |
-|             80 | [Matt Johnson](..//playerfiles//MattJohnson_cleaned.md)          |      97.12 |                57 |        3 |                64 |     104.81 | [Luke Green](..//playerfiles//LukeGreen_cleaned.md)               |             80 |
-|             80 | [Matt Johnson](..//playerfiles//MattJohnson_cleaned.md)          |      97.12 |                57 |        3 |                81 |     104.81 | [Luke Green](..//playerfiles//LukeGreen_cleaned.md)               |             80 |
-|             80 | [Josh Williams](..//playerfiles//JoshWilliams_cleaned.md)        |      93.69 |               nan |        4 |                85 |     111    | [Charlie Beckett](..//playerfiles//CharlieBeckett_cleaned.md)     |             80 |
-|             80 | [Will Britton](..//playerfiles//WillBritton_cleaned.md)          |      97.46 |                57 |        5 |                52 |      95.71 | [Fyn Brown](..//playerfiles//FynBrown_cleaned.md)                 |             80 |
-|             80 | [Alex Everett](..//playerfiles//AlexEverett_cleaned.md)          |      90.33 |                35 |        6 |                32 |      89.66 | [Harry Wilson](..//playerfiles//HarryWilson_cleaned.md)           |             80 |
-|             80 | [Will Gibson](..//playerfiles//WillGibson_cleaned.md)            |      88    |                41 |        7 |                77 |     106.51 | [Josh Smart](..//playerfiles//JoshSmart_cleaned.md)               |             80 |
-|             80 | [John Stevens](..//playerfiles//JohnStevens_cleaned.md)          |     118.33 |                92 |        8 |                58 |      98.56 | [Morgan Strong](..//playerfiles//MorganStrong_cleaned.md)         |             80 |
-|             80 | [Alex Schwarz](..//playerfiles//AlexSchwarz_cleaned.md)          |      77.36 |                11 |        9 |                97 |     123.56 | [Peter White](..//playerfiles//PeterWhite_cleaned.md)             |             80 |
-|             80 | [Arwel Robson](..//playerfiles//ArwelRobson_cleaned.md)          |      75.72 |                 8 |       10 |                81 |     108.28 | [Tom Hardwick](..//playerfiles//TomHardwick_cleaned.md)           |             80 |
-|             80 | [Robin Wedlake](..//playerfiles//RobinWedlake_cleaned.md)        |      90.83 |                37 |       11 |                43 |      92.8  | [Alexandrer Harmes](..//playerfiles//AlexandrerHarmes_cleaned.md) |             80 |
-|             80 | [Garyn Smith](..//playerfiles//GarynSmith_cleaned.md)            |      83.4  |                17 |       12 |                23 |      85.75 | [Joshua Bragman](..//playerfiles//JoshuaBragman_cleaned.md)       |             80 |
-|             80 | [Rory Parata](..//playerfiles//RoryParata_cleaned.md)            |      89.86 |                34 |       13 |                69 |     101.6  | [George Worth](..//playerfiles//GeorgeWorth_cleaned.md)           |             80 |
-|             80 | [Arthur Relton](..//playerfiles//ArthurRelton_cleaned.md)        |      95.43 |                52 |       14 |                77 |     105.32 | [Ben Harris](..//playerfiles//BenHarris_cleaned.md)               |             80 |
-|             80 | [Alexander AJ Cant](..//playerfiles//AlexanderAJCant_cleaned.md) |     118.1  |                91 |       15 |                82 |     109.68 | [Tomas Bacon](..//playerfiles//TomasBacon_cleaned.md)             |             80 |
+|             80 | [Jack Andrew](..//playerfiles//JackAndrew_cleaned.md)            |     120.22 |                96 |        1 |                67 |     105.64 | [James Flynn](..//playerfiles//JamesFlynn_cleaned.md)             |             80 |
+|             80 | [Jack Andrew](..//playerfiles//JackAndrew_cleaned.md)            |     120.22 |                96 |        1 |                83 |     105.64 | [James Flynn](..//playerfiles//JamesFlynn_cleaned.md)             |             80 |
+|             80 | [William Crane](..//playerfiles//WilliamCrane_cleaned.md)        |      92.98 |                45 |        2 |                89 |     110.79 | [Sid Blackmore](..//playerfiles//SidBlackmore_cleaned.md)         |             80 |
+|             80 | [Matt Johnson](..//playerfiles//MattJohnson_cleaned.md)          |      97.12 |                57 |        3 |                71 |     104.75 | [Luke Green](..//playerfiles//LukeGreen_cleaned.md)               |             80 |
+|             80 | [Matt Johnson](..//playerfiles//MattJohnson_cleaned.md)          |      97.12 |                57 |        3 |                81 |     104.75 | [Luke Green](..//playerfiles//LukeGreen_cleaned.md)               |             80 |
+|             80 | [Josh Williams](..//playerfiles//JoshWilliams_cleaned.md)        |      93.69 |               nan |        4 |                86 |     111.11 | [Charlie Beckett](..//playerfiles//CharlieBeckett_cleaned.md)     |             80 |
+|             80 | [Will Britton](..//playerfiles//WillBritton_cleaned.md)          |      97.5  |                57 |        5 |                53 |      95.84 | [Fyn Brown](..//playerfiles//FynBrown_cleaned.md)                 |             80 |
+|             80 | [Alex Everett](..//playerfiles//AlexEverett_cleaned.md)          |      90.32 |                36 |        6 |                33 |      89.76 | [Harry Wilson](..//playerfiles//HarryWilson_cleaned.md)           |             80 |
+|             80 | [Will Gibson](..//playerfiles//WillGibson_cleaned.md)            |      88    |                41 |        7 |                78 |     106.48 | [Josh Smart](..//playerfiles//JoshSmart_cleaned.md)               |             80 |
+|             80 | [John Stevens](..//playerfiles//JohnStevens_cleaned.md)          |     118.38 |                93 |        8 |                59 |      98.66 | [Morgan Strong](..//playerfiles//MorganStrong_cleaned.md)         |             80 |
+|             80 | [Alex Schwarz](..//playerfiles//AlexSchwarz_cleaned.md)          |      77.36 |                11 |        9 |                97 |     123.66 | [Peter White](..//playerfiles//PeterWhite_cleaned.md)             |             80 |
+|             80 | [Arwel Robson](..//playerfiles//ArwelRobson_cleaned.md)          |      75.71 |                 8 |       10 |                82 |     108.38 | [Tom Hardwick](..//playerfiles//TomHardwick_cleaned.md)           |             80 |
+|             80 | [Robin Wedlake](..//playerfiles//RobinWedlake_cleaned.md)        |      90.82 |                37 |       11 |                44 |      92.8  | [Alexandrer Harmes](..//playerfiles//AlexandrerHarmes_cleaned.md) |             80 |
+|             80 | [Garyn Smith](..//playerfiles//GarynSmith_cleaned.md)            |      83.39 |                17 |       12 |                23 |      85.85 | [Joshua Bragman](..//playerfiles//JoshuaBragman_cleaned.md)       |             80 |
+|             80 | [Rory Parata](..//playerfiles//RoryParata_cleaned.md)            |      89.83 |                34 |       13 |                70 |     101.69 | [George Worth](..//playerfiles//GeorgeWorth_cleaned.md)           |             80 |
+|             80 | [Arthur Relton](..//playerfiles//ArthurRelton_cleaned.md)        |      95.44 |                52 |       14 |                78 |     105.41 | [Ben Harris](..//playerfiles//BenHarris_cleaned.md)               |             80 |
+|             80 | [Alexander AJ Cant](..//playerfiles//AlexanderAJCant_cleaned.md) |     118.1  |                91 |       15 |                83 |     109.78 | [Tomas Bacon](..//playerfiles//TomasBacon_cleaned.md)             |             80 |
 

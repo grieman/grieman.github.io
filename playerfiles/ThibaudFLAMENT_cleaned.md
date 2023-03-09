@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud FLAMENT  
-date: 2023-03-06 11:25:35.548325  
+date: 2023-03-09 10:10:22.192652  
 categories: player  
 ---
 # Thibaud FLAMENT
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 113.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 

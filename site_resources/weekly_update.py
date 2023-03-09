@@ -55,7 +55,7 @@ def clean_leading_space(orig_name, new_name):
 
 def comp_accuracy_statements(matchlist, comp):
     output_list = []
-    comp_matches = pd.DataFrame([x for x in match_list if (x['competition'] == comp) and ('point_diff' in x.keys())])
+    comp_matches = pd.DataFrame([x for x in matchlist if (x['competition'] == comp) and ('point_diff' in x.keys())])
     if len(comp_matches) > 0:
         comp_matches = comp_matches.drop(['home_team','away_team','commentary_df'], axis =1)
         comp_matches = comp_matches[~comp_matches.point_diff.isna()]
@@ -77,6 +77,7 @@ def comp_accuracy_statements(matchlist, comp):
 def club_comp_accuracy_statements(club_histories, comp):
     output_list = []
     comp_matches = club_histories[(club_histories.Home == 1) & (club_histories.Competition == comp) & (~club_histories.Point_Diff.isna())]
+    comp_matches = comp_matches.sort_values('Date')
     if len(comp_matches) > 0:
         num_teams = pd.concat([comp_matches.Opponent, comp_matches.Club]).nunique()
         recent_comp_matches = comp_matches.tail(int(np.ceil(num_teams/2)))
@@ -685,10 +686,11 @@ clean_leading_space(f'temp//Current_Projections.md', f'Current_Projections.md')
 seen_comps = list(set(proj_dir_df.comps).union(set(review_dir_df.comps)))
 for comp in seen_comps:
     print(comp)
-    try:
+    make_comp_page(comp)
+    '''try:
         make_comp_page(comp)
     except:
-        print(comp + " FAILED")
+        print(comp + " FAILED")'''
 
 ## run generate playerpage for all named players
 import generate_playerpage

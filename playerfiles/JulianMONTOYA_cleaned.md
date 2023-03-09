@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian MONTOYA  
-date: 2023-03-06 11:23:44.545211  
+date: 2023-03-09 10:07:48.532229  
 categories: player  
 ---
 # Julian MONTOYA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 21.0
+## Current Percentile: 22.0
 
 # Elo History
 

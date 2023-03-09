@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi KVESELADZE  
-date: 2023-03-06 11:26:38.845832  
+date: 2023-03-09 10:12:43.913589  
 categories: player  
 ---
 # Giorgi KVESELADZE
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 121.0
+## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Georgia          |            41 |   0.719512 |
-| Gloucester Rugby |            21 |   0.52381  |
+| Georgia          |            42 |    0.72619 |
+| Gloucester Rugby |            21 |    0.52381 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Romania                  |         7 |   1        |
 | Spain                    |         6 |   1        |
-| Romania                  |         6 |   1        |
 | Russia                   |         3 |   1        |
 | Bristol Rugby            |         3 |   0.333333 |
 | London Irish             |         3 |   0.666667 |

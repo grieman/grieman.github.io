@@ -19,9 +19,9 @@ categories: model review projection
 | Leopards V Eastern Province Kings on 2023/02/18         |      -14 |               nan   |                nan   |               2.6 |
 | Border Bulldogs V Valke on 2023/02/18                   |      -16 |               nan   |                nan   |             -17.1 |
 | Border Bulldogs V SWD Eagles on 2023/03/04              |      -38 |               nan   |                nan   |             -15.1 |
+| Eastern Province Kings V Valke on 2023/02/25            |        4 |               nan   |                nan   |               7.8 |
 | SWD Eagles V Boland Cavaliers on 2023/02/18             |      -17 |               nan   |                nan   |               3.4 |
 | SWD Eagles V Leopards on 2023/02/24                     |       33 |               nan   |                nan   |               0.5 |
-| Eastern Province Kings V Valke on 2023/02/25            |        4 |               nan   |                nan   |               7.8 |
 | Valke V Leopards on 2023/03/04                          |       16 |               nan   |                nan   |               6.7 |
 | ------ | ------ | ------ | ------ | ------ |
 | Average Error |       - | 101.4 | 101.3 | 13.8 |
@@ -35,7 +35,7 @@ categories: model review projection
 #### Eastern Province Kings V Border Bulldogs on 2023/03/11
 
 
-Average Margin: Eastern Province Kings by 31.2
+Average Margin: Eastern Province Kings by 31.0
 
 <p float="left">
 <img src="plots/performances_Eastern Province Kings_V_Border Bulldogs_5.png" width="32%" />
@@ -46,7 +46,7 @@ Average Margin: Eastern Province Kings by 31.2
 #### Valke V SWD Eagles on 2023/03/11
 
 
-Average Margin: Valke by 0.8
+Average Margin: Valke by 4.5
 
 <p float="left">
 <img src="plots/performances_Valke_V_SWD Eagles_5.png" width="32%" />
@@ -57,7 +57,7 @@ Average Margin: Valke by 0.8
 #### Leopards V Boland Cavaliers on 2023/03/11
 
 
-Average Margin: Boland Cavaliers by 10.0
+Average Margin: Boland Cavaliers by 6.9
 
 <p float="left">
 <img src="plots/performances_Leopards_V_Boland Cavaliers_5.png" width="32%" />
@@ -70,7 +70,7 @@ Average Margin: Boland Cavaliers by 10.0
 #### SWD Eagles V Eastern Province Kings on 2023/03/24
 
 
-Average Margin: Eastern Province Kings by 2.6
+Average Margin: Eastern Province Kings by 2.9
 
 <p float="left">
 <img src="plots/performances_SWD Eagles_V_Eastern Province Kings_6.png" width="32%" />
@@ -83,7 +83,7 @@ Average Margin: Eastern Province Kings by 2.6
 #### Valke V Border Bulldogs on 2023/04/01
 
 
-Average Margin: Valke by 26.3
+Average Margin: Valke by 26.4
 
 <p float="left">
 <img src="plots/performances_Valke_V_Border Bulldogs_7.png" width="32%" />
@@ -96,7 +96,7 @@ Average Margin: Valke by 26.3
 #### SWD Eagles V Valke on 2023/04/14
 
 
-Average Margin: Valke by 0.8
+Average Margin: SWD Eagles by 2.2
 
 <p float="left">
 <img src="plots/performances_SWD Eagles_V_Valke_8.png" width="32%" />
@@ -107,7 +107,7 @@ Average Margin: Valke by 0.8
 #### Eastern Province Kings V Leopards on 2023/04/15
 
 
-Average Margin: Eastern Province Kings by 12.5
+Average Margin: Eastern Province Kings by 12.6
 
 <p float="left">
 <img src="plots/performances_Eastern Province Kings_V_Leopards_8.png" width="32%" />
@@ -120,7 +120,7 @@ Average Margin: Eastern Province Kings by 12.5
 #### Valke V Boland Cavaliers on 2023/04/22
 
 
-Average Margin: Boland Cavaliers by 2.5
+Average Margin: Boland Cavaliers by 2.6
 
 <p float="left">
 <img src="plots/performances_Valke_V_Boland Cavaliers_9.png" width="32%" />
@@ -131,7 +131,7 @@ Average Margin: Boland Cavaliers by 2.5
 #### Leopards V SWD Eagles on 2023/04/22
 
 
-Average Margin: SWD Eagles by 0.2
+Average Margin: SWD Eagles by 0.0
 
 <p float="left">
 <img src="plots/performances_Leopards_V_SWD Eagles_9.png" width="32%" />
@@ -155,7 +155,7 @@ Average Margin: SWD Eagles by 24.8
 #### Boland Cavaliers V Leopards on 2023/04/29
 
 
-Average Margin: Boland Cavaliers by 10.0
+Average Margin: Boland Cavaliers by 13.4
 
 <p float="left">
 <img src="plots/performances_Boland Cavaliers_V_Leopards_10.png" width="32%" />
@@ -168,7 +168,7 @@ Average Margin: Boland Cavaliers by 10.0
 #### Eastern Province Kings V Boland Cavaliers on 2023/05/13
 
 
-Average Margin: Eastern Province Kings by 2.5
+Average Margin: Eastern Province Kings by 2.6
 
 <p float="left">
 <img src="plots/performances_Eastern Province Kings_V_Boland Cavaliers_11.png" width="32%" />
@@ -194,7 +194,7 @@ Average Margin: Valke by 0.5
 #### Boland Cavaliers V SWD Eagles on 2023/05/20
 
 
-Average Margin: Boland Cavaliers by 10.4
+Average Margin: Boland Cavaliers by 9.9
 
 <p float="left">
 <img src="plots/performances_Boland Cavaliers_V_SWD Eagles_12.png" width="32%" />
@@ -205,7 +205,7 @@ Average Margin: Boland Cavaliers by 10.4
 #### Valke V Eastern Province Kings on 2023/05/20
 
 
-Average Margin: Eastern Province Kings by 1.5
+Average Margin: Eastern Province Kings by 1.4
 
 <p float="left">
 <img src="plots/performances_Valke_V_Eastern Province Kings_12.png" width="32%" />

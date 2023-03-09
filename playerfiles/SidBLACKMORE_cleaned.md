@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sid BLACKMORE  
-date: 2023-03-06 11:28:36.932222  
+date: 2023-03-09 10:13:11.305659  
 categories: player  
 ---
 # Sid BLACKMORE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

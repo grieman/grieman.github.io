@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul BELZONS  
-date: 2023-03-06 11:27:24.684510  
+date: 2023-03-09 10:08:23.453655  
 categories: player  
 ---
 # Paul BELZONS
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 91.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 

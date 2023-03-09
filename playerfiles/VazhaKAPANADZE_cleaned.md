@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vazha KAPANADZE  
-date: 2023-03-06 11:24:12.741179  
+date: 2023-03-09 10:07:21.276838  
 categories: player  
 ---
 # Vazha KAPANADZE
 
 ## Positions: P
 
-## Current elo: 83.0
+## Current elo: 88.0
 
 ## Current Percentile: 11.0
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            79 |   0.588608 |
+| US Bressane |            80 |    0.59375 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Narbonne                   |         6 |   0.666667 |
+| Narbonne                   |         7 |   0.714286 |
 | Aurillac                   |         4 |   0.5      |
 | Bayonne                    |         4 |   0        |
 | Mont-de-Marsan             |         4 |   0.25     |

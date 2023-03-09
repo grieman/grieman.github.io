@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sandrick MACIOTTA  
-date: 2023-03-06 11:23:24.264927  
+date: 2023-03-09 10:07:42.568430  
 categories: player  
 ---
 # Sandrick MACIOTTA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

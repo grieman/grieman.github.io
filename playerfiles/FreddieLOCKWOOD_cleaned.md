@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie LOCKWOOD  
-date: 2023-03-06 11:26:32.868009  
+date: 2023-03-09 10:09:03.181390  
 categories: player  
 ---
 # Freddie LOCKWOOD
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 73.0
+## Current Percentile: 74.0
 
 # Elo History
 

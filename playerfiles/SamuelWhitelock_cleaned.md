@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel Whitelock  
-date: 2023-03-06 11:28:03.765028  
+date: 2023-03-09 10:11:26.113189  
 categories: player  
 ---
 # Samuel Whitelock

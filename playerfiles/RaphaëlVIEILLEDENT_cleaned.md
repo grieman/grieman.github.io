@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Raphaël VIEILLEDENT  
-date: 2023-03-06 11:24:20.957147  
+date: 2023-03-09 10:08:17.047541  
 categories: player  
 ---
 # Raphaël VIEILLEDENT
 
 ## Positions: L
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 28.0
+## Current Percentile: 27.0
 
 # Elo History
 

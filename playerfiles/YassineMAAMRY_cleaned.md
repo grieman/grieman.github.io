@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Yassine MAAMRY  
-date: 2023-03-06 11:27:54.346089  
+date: 2023-03-09 10:13:46.480017  
 categories: player  
 ---
 # Yassine MAAMRY
 
 ## Positions: L
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 

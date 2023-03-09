@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Steevy CERQUEIRA  
-date: 2023-02-28 13:58:37.819384  
+date: 2023-03-09 10:09:35.366215  
 categories: player  
 ---
 # Steevy CERQUEIRA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 31.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -27,7 +27,7 @@ categories: player
 | Beziers              |            19 |   0.368421 |
 | Brive                |            18 |   0.305556 |
 | Stade Francais Paris |            13 |   0.307692 |
-| Chambery             |             8 |   0.5      |
+| Chambery             |             9 |   0.444444 |
 | Portugal             |             6 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -40,11 +40,11 @@ categories: player
 | Toulon                     |         4 |   0        |
 | Oyonnax                    |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0        |
+| Albi                       |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.666667 |
 | Perpignan                  |         2 |   0.5      |
 | Montauban                  |         2 |   0        |
 | London Welsh               |         2 |   1        |
-| Albi                       |         2 |   1        |
 | La Rochelle                |         2 |   0.5      |
 | Georgia                    |         2 |   0.25     |
 | Agen                       |         2 |   1        |

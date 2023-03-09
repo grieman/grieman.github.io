@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tui URU  
-date: 2023-03-06 11:28:15.518305  
+date: 2023-03-09 10:09:56.359280  
 categories: player  
 ---
 # Tui URU
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 16.0
+## Current Percentile: 15.0
 
 # Elo History
 

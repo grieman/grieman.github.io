@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: William BEAUDON  
-date: 2023-02-28 13:56:59.357118  
+date: 2023-03-09 10:13:05.775875  
 categories: player  
 ---
 # William BEAUDON
 
 ## Positions: SH
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 19.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            11 |          0 |
+| Cognac Saint Jean d'Angély |            12 |          0 |
 | Toulon                     |             1 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Blagnac             |         2 |          0 |
+| Rennes              |         2 |          0 |
 | Albi                |         1 |          0 |
 | Brive               |         1 |          0 |
 | Carqueiranne-Hyères |         1 |          0 |
@@ -34,6 +35,5 @@ categories: player
 | Dax                 |         1 |          0 |
 | Narbonne            |         1 |          0 |
 | Nice                |         1 |          0 |
-| Rennes              |         1 |          0 |
 | Suresnes            |         1 |          0 |
 | US Bressane         |         1 |          0 |

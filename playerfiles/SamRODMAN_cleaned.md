@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam RODMAN  
-date: 2023-03-06 11:23:11.253904  
+date: 2023-03-09 10:14:00.559036  
 categories: player  
 ---
 # Sam RODMAN
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

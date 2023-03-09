@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Joe MARGETTS  
-date: 2023-03-06 11:27:34.275832  
+date: 2023-03-09 10:10:30.146791  
 categories: player  
 ---
 # Joe MARGETTS
 
 ## Positions: C
 
-## Current elo: 80.0
+## Current elo: 79.0
 
 ## Current Percentile: 12.0
 

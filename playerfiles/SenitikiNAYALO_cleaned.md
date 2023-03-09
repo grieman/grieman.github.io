@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Senitiki NAYALO  
-date: 2023-03-06 11:26:47.386284  
+date: 2023-03-09 10:13:07.983469  
 categories: player  
 ---
 # Senitiki NAYALO
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 

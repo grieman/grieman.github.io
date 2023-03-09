@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre Pagès  
-date: 2023-03-06 11:23:55.472096  
+date: 2023-03-09 10:07:29.361440  
 categories: player  
 ---
 # Pierre Pagès
 
 ## Positions: SH
 
-## Current elo: 94.0
+## Current elo: 90.0
 
-## Current Percentile: 57.0
+## Current Percentile: 47.0
 
 # Elo History
 

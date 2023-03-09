@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jose Maria Andrade  
-date: 2023-03-06 11:26:28.101864  
+date: 2023-03-09 10:09:43.247420  
 categories: player  
 ---
 # Jose Maria Andrade
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 94.0
+## Current elo: 81.0
 
 ## Current Percentile: 57.0
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Portugal     |            14 |   0.642857 |
+| Portugal     |            15 |   0.666667 |
 | Nottingham   |             7 |   0.142857 |
 | Lusitanos XV |             5 |   0.8      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Spain                    |         3 |   0.666667 |
 | Romania                  |         3 |   0.666667 |
-| Spain                    |         2 |   0.5      |
 | Belgium                  |         2 |   1        |
 | Brussels Devils          |         2 |   1        |
 | Castilla y Leon Iberians |         2 |   0.5      |

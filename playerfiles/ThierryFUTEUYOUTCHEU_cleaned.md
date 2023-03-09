@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thierry FUTEU YOUTCHEU  
-date: 2023-03-06 11:22:35.197539  
+date: 2023-03-09 10:08:56.138143  
 categories: player  
 ---
 # Thierry FUTEU YOUTCHEU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 82.0
+## Current elo: 93.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -24,19 +24,19 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Carcassonne          |            38 |   0.473684 |
-| Spain                |            25 |   0.56     |
+| Spain                |            26 |   0.538462 |
 | Stade Francais Paris |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Georgia                    |         5 |   0        |
+| Portugal                   |         4 |   0.25     |
 | Montauban                  |         3 |   0.666667 |
 | Beziers                    |         3 |   0.666667 |
 | Russia                     |         3 |   1        |
 | Rouen                      |         3 |   1        |
 | Romania                    |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.333333 |
-| Portugal                   |         3 |   0.333333 |
 | Grenoble                   |         3 |   0.333333 |
 | Aurillac                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom DELEUZE  
-date: 2023-03-06 11:25:27.320007  
+date: 2023-03-09 10:08:58.552512  
 categories: player  
 ---
 # Tom DELEUZE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 46.0
+## Current Percentile: 47.0
 
 # Elo History
 

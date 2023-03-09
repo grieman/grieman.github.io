@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Mateu  
-date: 2023-03-06 11:27:23.523220  
+date: 2023-03-09 10:11:39.696315  
 categories: player  
 ---
 # Inaki Mateu
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 95.0
+## Current elo: 97.0
 
 ## Current Percentile: 41.0
 

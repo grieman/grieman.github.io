@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack HUGHES  
-date: 2023-03-06 11:24:23.285310  
+date: 2023-03-09 10:11:38.395239  
 categories: player  
 ---
 # Jack HUGHES
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 58.0
+## Current Percentile: 59.0
 
 # Elo History
 

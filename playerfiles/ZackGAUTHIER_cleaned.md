@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zack GAUTHIER  
-date: 2023-03-06 11:25:14.845855  
+date: 2023-03-09 10:09:06.481943  
 categories: player  
 ---
 # Zack GAUTHIER
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 91.0
 
 # Elo History
 

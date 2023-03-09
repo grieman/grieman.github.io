@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wolf Van Dijk  
-date: 2023-03-06 11:23:06.457510  
+date: 2023-03-09 10:09:25.246052  
 categories: player  
 ---
 # Wolf Van Dijk
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Netherlands
 
-## Current elo: 75.0
+## Current elo: 76.0
 
-## Current Percentile: 7.0
+## Current Percentile: 8.0
 
 # Elo History
 

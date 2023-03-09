@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo BEZIAT  
-date: 2023-03-06 11:24:58.310464  
+date: 2023-03-09 10:11:14.445393  
 categories: player  
 ---
 # Théo BEZIAT
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 18.0
+## Current Percentile: 27.0
 
 # Elo History
 

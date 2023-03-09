@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vincent RATTEZ  
-date: 2023-03-06 11:22:29.180793  
+date: 2023-03-09 10:08:14.042929  
 categories: player  
 ---
 # Vincent RATTEZ

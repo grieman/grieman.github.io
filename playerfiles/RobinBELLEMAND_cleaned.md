@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Robin BELLEMAND  
-date: 2023-03-06 11:23:48.092013  
+date: 2023-03-09 10:13:25.446612  
 categories: player  
 ---
 # Robin BELLEMAND
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 84.0
 
 ## Current Percentile: 20.0
 

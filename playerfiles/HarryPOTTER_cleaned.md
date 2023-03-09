@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Harry POTTER  
-date: 2023-03-06 11:27:00.328340  
+date: 2023-03-09 10:13:17.839833  
 categories: player  
 ---
 # Harry POTTER
 
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: 45.0
 

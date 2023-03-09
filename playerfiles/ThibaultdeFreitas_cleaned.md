@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault De Freitas  
-date: 2023-03-06 11:22:42.452236  
+date: 2023-03-09 10:11:12.209796  
 categories: player  
 ---
 # Thibault De Freitas
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 110.0
+## Current elo: 108.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 

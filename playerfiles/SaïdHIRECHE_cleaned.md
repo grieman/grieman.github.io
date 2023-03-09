@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Saïd Hireche  
-date: 2023-03-06 11:25:39.130838  
+date: 2023-03-09 10:10:43.458129  
 categories: player  
 ---
 # Saïd Hireche
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

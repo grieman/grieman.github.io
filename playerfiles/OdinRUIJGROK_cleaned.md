@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Odin RUIJGROK  
-date: 2023-02-28 13:59:15.225998  
+date: 2023-03-09 10:12:42.906227  
 categories: player  
 ---
 # Odin RUIJGROK
@@ -19,11 +19,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Netherlands |             4 |       0.25 |
-| Delta       |             1 |       0    |
+| Netherlands |             5 |        0.4 |
+| Delta       |             1 |        0   |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
+| Belgium         |         1 |          1 |
 | Brussels Devils |         1 |          0 |
 | Georgia         |         1 |          0 |
 | Germany         |         1 |          1 |

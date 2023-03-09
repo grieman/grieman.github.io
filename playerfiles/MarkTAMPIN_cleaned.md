@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mark TAMPIN  
-date: 2023-03-06 11:22:36.377950  
+date: 2023-03-09 10:10:27.966167  
 categories: player  
 ---
 # Mark TAMPIN
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 100.0
 
-## Current Percentile: None
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,35 +21,35 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Newcastle Falcons   |            55 |   0.409091 |
+| Newcastle Falcons   |            53 |   0.424528 |
 | Ealing Trailfinders |            31 |   0.741935 |
 | Jersey              |            11 |   0.454545 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| London Irish        |         8 |   0.125    |
+| London Irish        |         7 |   0.142857 |
 | London Scottish     |         6 |   0.833333 |
 | Bedford             |         6 |   0.666667 |
-| Doncaster           |         5 |   0.8      |
-| Hartpury College    |         5 |   1        |
-| Richmond            |         5 |   0.8      |
 | Bath Rugby          |         5 |   0.4      |
 | Cornish Pirates     |         5 |   0.8      |
-| Harlequins          |         4 |   0.25     |
-| Wasps               |         4 |   0.5      |
-| Bristol Rugby       |         4 |   0        |
-| Leicester Tigers    |         4 |   0        |
+| Doncaster           |         5 |   0.8      |
+| Richmond            |         5 |   0.8      |
+| Hartpury College    |         5 |   1        |
 | Worcester Warriors  |         4 |   0.625    |
-| Saracens            |         3 |   0        |
-| Northampton Saints  |         3 |   0.333333 |
-| Nottingham          |         3 |   0.666667 |
+| Bristol Rugby       |         4 |   0        |
+| Wasps               |         4 |   0.5      |
+| Harlequins          |         4 |   0.25     |
+| Leicester Tigers    |         4 |   0        |
 | Sale Sharks         |         3 |   0.333333 |
+| Nottingham          |         3 |   0.666667 |
+| Northampton Saints  |         3 |   0.333333 |
 | Jersey              |         3 |   1        |
 | Gloucester Rugby    |         3 |   0.666667 |
 | Exeter Chiefs       |         3 |   0        |
-| Rotherham Titans    |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0.5      |
+| Rotherham Titans    |         2 |   0.5      |
 | Coventry            |         2 |   1        |
+| Saracens            |         2 |   0        |
 | Yorkshire Carnegie  |         2 |   1        |
 | London Welsh        |         1 |   0        |
 | Cardiff Blues       |         1 |   0        |

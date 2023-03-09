@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin Lespiaucq-Brettes  
-date: 2023-03-06 11:28:07.367405  
+date: 2023-03-09 10:10:40.178659  
 categories: player  
 ---
 # Quentin Lespiaucq-Brettes
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 60.0
+## Current Percentile: 61.0
 
 # Elo History
 

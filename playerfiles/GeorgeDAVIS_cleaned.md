@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George DAVIS  
-date: 2023-03-06 11:22:52.057240  
+date: 2023-03-09 10:10:16.133901  
 categories: player  
 ---
 # George DAVIS
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 

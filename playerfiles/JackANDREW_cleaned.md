@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack ANDREW  
-date: 2023-03-06 11:23:32.437539  
+date: 2023-03-09 10:08:47.330034  
 categories: player  
 ---
 # Jack ANDREW
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 131.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 

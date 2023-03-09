@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sosefo Tapu Falatea  
-date: 2023-03-06 11:28:49.967402  
+date: 2023-03-09 10:11:16.663820  
 categories: player  
 ---
 # Sosefo Tapu Falatea
 
 ## Positions: 
 
-## Current elo: 101.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 
