@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rohan JANSE VAN RENSBURG  
-date: 2023-03-09 10:07:17.620897  
+date: 2023-03-11 00:11:48.001558  
 categories: player  
 ---
 # Rohan JANSE VAN RENSBURG
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 114.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Sale Sharks  |            68 |   0.617647 |
 | Lions        |            39 |   0.74359  |
 | Golden Lions |            20 |   0.65     |
-| Sharks       |             4 |   0.5      |
+| Sharks       |             5 |   0.6      |
 | South Africa |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,11 +34,11 @@ categories: player
 | Northampton Saints       |         7 |   0.857143 |
 | Exeter Chiefs            |         6 |   0.166667 |
 | Wasps                    |         6 |   1        |
+| Harlequins               |         6 |   1        |
 | Sharks                   |         6 |   1        |
 | Bath Rugby               |         5 |   0.5      |
 | Worcester Warriors       |         5 |   0.4      |
 | Western Province         |         5 |   0.6      |
-| Harlequins               |         5 |   1        |
 | Leicester Tigers         |         5 |   0.6      |
 | Free State Cheetahs      |         5 |   0.4      |
 | Hurricanes               |         4 |   0.25     |

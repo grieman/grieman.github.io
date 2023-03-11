@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lewis HOLSEY  
-date: 2023-03-09 10:07:14.061133  
+date: 2023-03-11 00:13:53.895961  
 categories: player  
 ---
 # Lewis HOLSEY
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 52.0
+## Current Percentile: 48.0
 
 # Elo History
 

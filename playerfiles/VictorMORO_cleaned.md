@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor MORO  
-date: 2023-03-09 10:10:49.952524  
+date: 2023-03-11 00:17:14.443193  
 categories: player  
 ---
 # Victor MORO
 
 ## Positions: W, C
 
-## Current elo: 57.0
+## Current elo: 56.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 

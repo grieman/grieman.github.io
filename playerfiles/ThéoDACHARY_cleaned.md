@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Dachary  
-date: 2023-03-09 10:10:54.373129  
+date: 2023-03-11 00:16:43.993012  
 categories: player  
 ---
 # Théo Dachary
 
 ## Positions: C
 
-## Current elo: 82.0
+## Current elo: 83.0
 
-## Current Percentile: 17.0
+## Current Percentile: 18.0
 
 # Elo History
 

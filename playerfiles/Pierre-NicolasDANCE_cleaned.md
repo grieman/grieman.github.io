@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre-Nicolas DANCE  
-date: 2023-03-09 10:09:16.298117  
+date: 2023-03-11 00:16:29.919018  
 categories: player  
 ---
 # Pierre-Nicolas DANCE
 
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 40.0
+## Current Percentile: 42.0
 
 # Elo History
 

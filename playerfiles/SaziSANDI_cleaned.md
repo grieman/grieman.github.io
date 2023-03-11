@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sazi SANDI  
-date: 2023-03-09 10:10:33.363493  
+date: 2023-03-11 00:16:50.799518  
 categories: player  
 ---
 # Sazi SANDI
 
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: 46.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Western Province |            16 |   0.46875  |
-| Stormers         |            13 |   0.730769 |
+| Stormers         |            14 |   0.678571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,6 +36,7 @@ categories: player
 | Natal Sharks        |         2 |   1        |
 | Benetton Treviso    |         1 |   0        |
 | Bulls               |         1 |   1        |
+| Clermont Auvergne   |         1 |   0        |
 | Dragons             |         1 |   1        |
 | Free State Cheetahs |         1 |   1        |
 | Munster             |         1 |   0        |

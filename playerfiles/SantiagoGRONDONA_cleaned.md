@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Santiago GRONDONA  
-date: 2023-03-09 10:09:15.196895  
+date: 2023-03-11 00:17:06.623100  
 categories: player  
 ---
 # Santiago GRONDONA
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 62.0
 

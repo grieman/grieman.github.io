@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LAVAULT  
-date: 2023-03-09 10:08:40.101697  
+date: 2023-03-11 00:14:56.418083  
 categories: player  
 ---
 # Thomas LAVAULT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 128.0
+## Current elo: 129.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |            69 |   0.594203 |
-| France      |             2 |   1        |
+| La Rochelle |            70 |        0.6 |
+| France      |             2 |        1   |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,12 +40,13 @@ categories: player
 | Stade Francais Paris |         4 |   0.25     |
 | Clermont Auvergne    |         3 |   0.333333 |
 | Agen                 |         2 |   1        |
+| Japan                |         2 |   1        |
 | Glasgow Warriors     |         2 |   0.5      |
 | Biarritz Olympique   |         2 |   0.5      |
-| Japan                |         2 |   1        |
-| Leinster             |         1 |   1        |
 | Bayonne              |         1 |   1        |
+| Northampton Saints   |         1 |   1        |
 | Perpignan            |         1 |   0        |
 | Exeter Chiefs        |         1 |   0        |
 | Sale Sharks          |         1 |   1        |
 | Edinburgh            |         1 |   1        |
+| Leinster             |         1 |   1        |

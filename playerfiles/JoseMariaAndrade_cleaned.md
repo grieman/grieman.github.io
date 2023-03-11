@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jose Maria Andrade  
-date: 2023-03-09 10:09:43.247420  
+date: 2023-03-11 00:16:57.531257  
 categories: player  
 ---
 # Jose Maria Andrade
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 81.0
+## Current elo: 80.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 

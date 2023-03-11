@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-03-09 10:10:47.747079  
+date: 2023-03-11 00:13:34.077478  
 categories: player  
 ---
 # Ivan VAN ZYL
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 114.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre AGUILLON  
-date: 2023-03-09 10:13:15.717147  
+date: 2023-03-11 00:14:06.813455  
 categories: player  
 ---
 # Pierre AGUILLON
 
 ## Positions: C
 
-## Current elo: 62.0
+## Current elo: 68.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | La Rochelle       |           126 |   0.615079 |
-| Carcassonne       |            54 |   0.601852 |
+| Carcassonne       |            55 |   0.609091 |
 | Oyonnax           |            47 |   0.489362 |
 | Grenoble          |            45 |   0.688889 |
 | Auch              |            41 |   0.390244 |
@@ -66,23 +66,24 @@ categories: player
 | Ulster                 |         2 |   0.5      |
 | Worcester Warriors     |         2 |   0.75     |
 | Montauban              |         2 |   0.5      |
-| Munster                |         2 |   0        |
-| Glasgow Warriors       |         2 |   0.5      |
-| Bourgoin-Jallieu       |         2 |   0        |
-| Massy                  |         2 |   0        |
 | Zebre                  |         2 |   0.5      |
+| Massy                  |         2 |   0        |
+| Bourgoin-Jallieu       |         2 |   0        |
 | Lannemezan             |         2 |   1        |
-| Rouen                  |         1 |   1        |
-| Gaillac                |         1 |   1        |
-| Sale Sharks            |         1 |   0        |
-| Scarlets               |         1 |   0        |
-| Limoges                |         1 |   1        |
-| Enisey-STM Krasnoyarsk |         1 |   1        |
+| Glasgow Warriors       |         2 |   0.5      |
+| Munster                |         2 |   0        |
 | Edinburgh              |         1 |   1        |
-| Carcassonne            |         1 |   1        |
-| Tyrosse                |         1 |   1        |
-| US Bressane            |         1 |   0        |
-| Bristol Rugby          |         1 |   0        |
 | Wasps                  |         1 |   1        |
-| London Irish           |         1 |   0        |
+| Bristol Rugby          |         1 |   0        |
+| US Bressane            |         1 |   0        |
+| Tyrosse                |         1 |   1        |
+| Carcassonne            |         1 |   1        |
+| Nevers                 |         1 |   1        |
+| Enisey-STM Krasnoyarsk |         1 |   1        |
 | Exeter Chiefs          |         1 |   0        |
+| Sale Sharks            |         1 |   0        |
+| Gaillac                |         1 |   1        |
+| Rouen                  |         1 |   1        |
+| Limoges                |         1 |   1        |
+| London Irish           |         1 |   0        |
+| Scarlets               |         1 |   0        |

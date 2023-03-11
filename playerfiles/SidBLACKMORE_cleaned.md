@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sid BLACKMORE  
-date: 2023-03-09 10:13:11.305659  
+date: 2023-03-11 00:16:38.307413  
 categories: player  
 ---
 # Sid BLACKMORE
 
 ## Positions: H, FL
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 89.0
+## Current Percentile: 90.0
 
 # Elo History
 

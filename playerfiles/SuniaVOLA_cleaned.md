@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sunia VOLA  
-date: 2023-03-09 10:10:12.854247  
+date: 2023-03-11 00:15:49.198545  
 categories: player  
 ---
 # Sunia VOLA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 

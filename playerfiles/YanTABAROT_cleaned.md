@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Yan TABAROT  
-date: 2023-03-09 10:12:12.100636  
+date: 2023-03-11 00:12:03.427844  
 categories: player  
 ---
 # Yan TABAROT
 
 ## Positions: H
 
-## Current elo: 69.0
+## Current elo: 70.0
 
 ## Current Percentile: 18.0
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas LAINAULT  
-date: 2023-03-09 10:13:49.781766  
+date: 2023-03-11 00:14:02.411404  
 categories: player  
 ---
 # Thomas LAINAULT
 
 ## Positions: L
 
-## Current elo: 107.0
+## Current elo: 105.0
 
-## Current Percentile: 68.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -22,14 +22,14 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Carcassonne |            33 |   0.333333 |
-| Grenoble    |            32 |   0.484375 |
+| Grenoble    |            33 |   0.5      |
 | Rouen       |            26 |   0.326923 |
 | US Bressane |            20 |   0.475    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Colomiers                  |        10 |   0.3      |
-| Aurillac                   |         8 |   0.375    |
+| Aurillac                   |         9 |   0.444444 |
 | Provence Rugby             |         8 |   0.25     |
 | Nevers                     |         7 |   0.5      |
 | Mont-de-Marsan             |         6 |   0.166667 |

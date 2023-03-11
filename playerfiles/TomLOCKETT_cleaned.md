@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom LOCKETT  
-date: 2023-03-09 10:13:35.197356  
+date: 2023-03-11 00:14:15.386770  
 categories: player  
 ---
 # Tom LOCKETT
 
 ## Positions: L
 
-## Current elo: 109.0
+## Current elo: 107.0
 
-## Current Percentile: 82.0
+## Current Percentile: 80.0
 
 # Elo History
 

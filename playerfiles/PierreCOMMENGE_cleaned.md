@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre COMMENGE  
-date: 2023-03-09 10:13:27.743329  
+date: 2023-03-11 00:12:42.045629  
 categories: player  
 ---
 # Pierre COMMENGE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 65.0
 
 # Elo History
 

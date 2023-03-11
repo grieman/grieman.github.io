@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Micheal STRONGE  
-date: 2023-03-09 10:11:51.175184  
+date: 2023-03-11 00:16:05.031503  
 categories: player  
 ---
 # Micheal STRONGE
 
 ## Positions: SH
 
-## Current elo: 69.0
+## Current elo: 73.0
 
-## Current Percentile: 13.0
+## Current Percentile: 21.0
 
 # Elo History
 

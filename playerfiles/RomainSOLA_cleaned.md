@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain SOLA  
-date: 2023-03-09 10:07:14.950215  
+date: 2023-03-11 00:13:13.668941  
 categories: player  
 ---
 # Romain SOLA
 
 ## Positions: FH, FB
 
-## Current elo: 93.0
+## Current elo: 86.0
 
-## Current Percentile: 49.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Brive            |            75 |   0.553333 |
 | Provence Rugby   |            62 |   0.443548 |
 | Agen             |            54 |   0.675926 |
-| Bourgoin-Jallieu |            51 |   0.529412 |
+| Bourgoin-Jallieu |            52 |   0.538462 |
 | Albi             |            28 |   0.660714 |
 | Stade Toulousain |             1 |   1        |
 
@@ -52,17 +52,17 @@ categories: player
 | Racing 92                  |         5 |   0.6      |
 | Vannes                     |         5 |   0.6      |
 | Massy                      |         4 |   0.25     |
+| Newcastle Falcons          |         4 |   0.75     |
 | Bayonne                    |         4 |   0.5      |
 | Perpignan                  |         4 |   0.25     |
-| Newcastle Falcons          |         4 |   0.75     |
+| Castres Olympique          |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0        |
 | Montpellier Herault        |         3 |   0.666667 |
 | Stade Toulousain           |         3 |   0.333333 |
 | Suresnes                   |         3 |   0.333333 |
-| Nice                       |         3 |   0.666667 |
 | US Bressane                |         3 |   0.666667 |
 | Stade Francais Paris       |         3 |   0.666667 |
-| Castres Olympique          |         3 |   0.333333 |
+| Nice                       |         3 |   0.666667 |
 | Montauban                  |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | RC Enisei                  |         2 |   0.5      |
@@ -76,6 +76,7 @@ categories: player
 | Rouen                      |         2 |   0.75     |
 | Périgueux                  |         2 |   1        |
 | Chambery                   |         2 |   1        |
+| Rennes                     |         1 |   1        |
 | Bath Rugby                 |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Brive                      |         1 |   0        |
@@ -83,8 +84,8 @@ categories: player
 | Lannemezan                 |         1 |   1        |
 | Dijon                      |         1 |   1        |
 | Limoges                    |         1 |   0.5      |
-| Aubenas                    |         1 |   1        |
 | Toulon                     |         1 |   0        |
+| Aubenas                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Zebre                      |         1 |   0        |

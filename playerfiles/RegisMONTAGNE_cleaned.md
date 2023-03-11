@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Regis MONTAGNE  
-date: 2023-03-09 10:10:23.276451  
+date: 2023-03-11 00:16:42.839625  
 categories: player  
 ---
 # Regis MONTAGNE
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 63.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            48 |     0.5625 |
+| Grenoble |            49 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,9 +29,9 @@ categories: player
 | Carcassonne                |         5 |   0.5      |
 | Oyonnax                    |         5 |   0.4      |
 | Beziers                    |         4 |   0.5      |
+| Aurillac                   |         4 |   0.5      |
 | Agen                       |         3 |   1        |
 | Montauban                  |         3 |   0.833333 |
-| Aurillac                   |         3 |   0.333333 |
 | Provence Rugby             |         3 |   0.333333 |
 | Bayonne                    |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |

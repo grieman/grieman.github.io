@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wael MAY  
-date: 2023-03-09 10:09:10.785937  
+date: 2023-03-11 00:13:03.430350  
 categories: player  
 ---
 # Wael MAY
 
 ## Positions: FL, L
 
-## Current elo: 114.0
+## Current elo: 116.0
 
-## Current Percentile: 69.0
+## Current Percentile: 73.0
 
 # Elo History
 

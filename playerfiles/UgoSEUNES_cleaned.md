@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ugo SEUNES  
-date: 2023-03-09 10:07:33.024155  
+date: 2023-03-11 00:15:32.350516  
 categories: player  
 ---
 # Ugo SEUNES
 
 ## Positions: FH
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 57.0
+## Current Percentile: 65.0
 
 # Elo History
 

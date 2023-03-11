@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul RAVIER  
-date: 2023-03-09 10:12:07.661317  
+date: 2023-03-11 00:12:28.299537  
 categories: player  
 ---
 # Paul RAVIER
 
 ## Positions: SH
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 77.0
+## Current Percentile: 84.0
 
 # Elo History
 

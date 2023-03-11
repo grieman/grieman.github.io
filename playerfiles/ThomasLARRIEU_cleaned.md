@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas LARRIEU  
-date: 2023-03-09 10:08:35.680552  
+date: 2023-03-11 00:11:17.714716  
 categories: player  
 ---
 # Thomas LARRIEU
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 127.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 

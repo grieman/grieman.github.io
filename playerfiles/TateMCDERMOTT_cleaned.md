@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tate MCDERMOTT  
-date: 2023-03-09 10:11:56.633244  
+date: 2023-03-11 00:14:49.667929  
 categories: player  
 ---
 # Tate MCDERMOTT

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: WJ STEENKAMP  
-date: 2023-03-09 10:12:56.914935  
+date: 2023-03-11 00:13:11.316090  
 categories: player  
 ---
 # WJ STEENKAMP
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 60.0
+## Current Percentile: 65.0
 
 # Elo History
 

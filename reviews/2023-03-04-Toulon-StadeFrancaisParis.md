@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Francais Paris by 5.8
+## Prediction with Player Minutes: Stade Francais Paris by 7.7
 
 
-Stade Francais Paris by 9.8 on a neutral field
+Stade Francais Paris by 11.7 on a neutral field
 ## Scores over Time
 
 
@@ -42,36 +42,36 @@ Stade Francais Paris by 9.8 on a neutral field
 ![In Match Predictions](plots/recap_prob_2023-03-04-Toulon-StadeFrancaisParis.png)
 
 There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Stade Francais Paris by 2.2
+## Prediction without Player Minutes: Stade Francais Paris by 4.3
 
 
-Stade Francais Paris by 6.2 on a neutral pitch
+Stade Francais Paris by 8.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                           |   Home Minutes |
 |---------------:|:---------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------------|---------------:|
-|             80 | [Clément Castets](..//playerfiles//ClémentCastets_cleaned.md)              |     105.82 |                82 |        1 |                78 |     103.41 | [Dany Priso](..//playerfiles//DanyPriso_cleaned.md)                   |             52 |
-|             64 | [Laurent Panis](..//playerfiles//LaurentPanis_cleaned.md)                  |      97.16 |                59 |        2 |                67 |      99.65 | [Teddy Baubigny](..//playerfiles//TeddyBaubigny_cleaned.md)           |             52 |
-|             36 | [Paul Alo-Emile](..//playerfiles//PaulAlo-Emile_cleaned.md)                |      91.52 |                27 |        3 |                76 |     102.36 | [Emerick Setiano](..//playerfiles//EmerickSetiano_cleaned.md)         |             52 |
-|             80 | [Paul Gabrillagues](..//playerfiles//PaulGabrillagues_cleaned.md)          |     100.8  |                66 |        4 |                23 |      85.35 | [Matthias Halagahu](..//playerfiles//MatthiasHalagahu_cleaned.md)     |             54 |
-|             60 | [Sitakeli Timani](..//playerfiles//SitakeliTimani_cleaned.md)              |      85.16 |                22 |        5 |                70 |     102.37 | [Brian Alainu'uese](..//playerfiles//BrianAlainu'uese_cleaned.md)     |             68 |
-|             80 | [Marcos Kremer](..//playerfiles//MarcosKremer_cleaned.md)                  |     100.76 |                68 |        6 |                68 |     101.08 | [Cornell du Preez](..//playerfiles//CornellduPreez_cleaned.md)        |             80 |
-|             52 | [Romain Briatte](..//playerfiles//RomainBriatte_cleaned.md)                |     105.79 |                78 |        7 |                70 |     101.57 | [Swan Rebbadj](..//playerfiles//SwanRebbadj_cleaned.md)               |             80 |
-|             80 | [Sekou Macalou](..//playerfiles//SekouMacalou_cleaned.md)                  |     117.61 |                92 |        8 |                42 |      93.28 | [Facundo Isa](..//playerfiles//FacundoIsa_cleaned.md)                 |             68 |
-|             50 | [Morgan Parra](..//playerfiles//MorganParra_cleaned.md)                    |     107.32 |                83 |        9 |                71 |     101.34 | [Baptiste Serin](..//playerfiles//BaptisteSerin_cleaned.md)           |             68 |
-|             80 | [Joris Segonds](..//playerfiles//JorisSegonds_cleaned.md)                  |      99.68 |                62 |       10 |                34 |      90.01 | [Ihaia West](..//playerfiles//IhaiaWest_cleaned.md)                   |             80 |
-|             80 | [Lester Etien](..//playerfiles//LesterEtien_cleaned.md)                    |     111.15 |                86 |       11 |                61 |      99.19 | [Jiuta Wainiqolo](..//playerfiles//JiutaWainiqolo_cleaned.md)         |             80 |
-|             72 | [Julien Delbouis](..//playerfiles//JulienDelbouis_cleaned.md)              |     121.32 |                95 |       12 |                33 |      89.88 | [Duncan Paia'aua](..//playerfiles//DuncanPaia'aua_cleaned.md)         |             64 |
-|             80 | [Jeremy Charles Ward](..//playerfiles//JeremyCharlesWard_cleaned.md)       |     105.91 |                80 |       13 |                24 |      86.2  | [Waisea Nayacavelu](..//playerfiles//WaiseaNayacavelu_cleaned.md)     |             80 |
-|             80 | [Peniasi Dakuwaqa](..//playerfiles//PeniasiDakuwaqa_cleaned.md)            |      96.16 |               nan |       14 |                32 |      89.06 | [Cheslin Kolbe](..//playerfiles//CheslinKolbe_cleaned.md)             |             80 |
-|             52 | [Kylan Hamdaoui](..//playerfiles//KylanHamdaoui_cleaned.md)                |      91.01 |                41 |       15 |                53 |      96.11 | [Thomas Salles](..//playerfiles//ThomasSalles_cleaned.md)             |             80 |
-|             28 | [Léo Barré](..//playerfiles//LéoBarré_cleaned.md)                          |     109.62 |                83 |       16 |                43 |      93.28 | [Bruce Devaux](..//playerfiles//BruceDevaux_cleaned.md)               |             28 |
-|             44 | [Vincent Philip Koch](..//playerfiles//VincentPhilipKoch_cleaned.md)       |      97.04 |                57 |       17 |               nan |      90.52 | [Christopher Tolofua](..//playerfiles//ChristopherTolofua_cleaned.md) |             28 |
-|             30 | [James Hall](..//playerfiles//JamesHall_cleaned.md)                        |      83.72 |                19 |       18 |                56 |     100.84 | [Kieran Brookes](..//playerfiles//KieranBrookes_cleaned.md)           |             28 |
-|             28 | [Giovanni Habel Kuffner](..//playerfiles//GiovanniHabelKuffner_cleaned.md) |     105.73 |                79 |       19 |                51 |      93.91 | [Adrien Warion](..//playerfiles//AdrienWarion_cleaned.md)             |             26 |
-|             16 | [Lucas Peyresblanques](..//playerfiles//LucasPeyresblanques_cleaned.md)    |      95.47 |                47 |       20 |                65 |     100.5  | [Jérémy Sinzelle](..//playerfiles//JérémySinzelle_cleaned.md)         |             16 |
-|             20 | [Mathieu Hirigoyen](..//playerfiles//MathieuHirigoyen_cleaned.md)          |      84.31 |                18 |       21 |                57 |      95.62 | [Mathieu Bastareaud](..//playerfiles//MathieuBastareaud_cleaned.md)   |             12 |
-|              8 | [Théo Dachary](..//playerfiles//ThéoDachary_cleaned.md)                    |      82.79 |                17 |       22 |                29 |      87.88 | [Benoit Paillaugue](..//playerfiles//BenoitPaillaugue_cleaned.md)     |             12 |
-|            nan | nan                                                                        |     nan    |               nan |       23 |                39 |      91.12 | [Mattéo Le Corvec](..//playerfiles//MattéoLeCorvec_cleaned.md)        |             12 |
+|             80 | [Clément Castets](..//playerfiles//ClémentCastets_cleaned.md)              |     107.66 |                84 |        1 |                74 |     101.56 | [Dany Priso](..//playerfiles//DanyPriso_cleaned.md)                   |             52 |
+|             64 | [Laurent Panis](..//playerfiles//LaurentPanis_cleaned.md)                  |      98.01 |                62 |        2 |                75 |     102.07 | [Teddy Baubigny](..//playerfiles//TeddyBaubigny_cleaned.md)           |             52 |
+|             36 | [Paul Alo-Emile](..//playerfiles//PaulAlo-Emile_cleaned.md)                |      92.6  |                30 |        3 |                78 |     103.28 | [Emerick Setiano](..//playerfiles//EmerickSetiano_cleaned.md)         |             52 |
+|             80 | [Paul Gabrillagues](..//playerfiles//PaulGabrillagues_cleaned.md)          |     102.04 |                69 |        4 |                29 |      88.69 | [Matthias Halagahu](..//playerfiles//MatthiasHalagahu_cleaned.md)     |             54 |
+|             60 | [Sitakeli Timani](..//playerfiles//SitakeliTimani_cleaned.md)              |      87    |                25 |        5 |                64 |      99.77 | [Brian Alainu'uese](..//playerfiles//BrianAlainu'uese_cleaned.md)     |             68 |
+|             80 | [Marcos Kremer](..//playerfiles//MarcosKremer_cleaned.md)                  |     102.64 |                72 |        6 |                73 |     103.16 | [Cornell du Preez](..//playerfiles//CornellduPreez_cleaned.md)        |             80 |
+|             52 | [Romain Briatte](..//playerfiles//RomainBriatte_cleaned.md)                |     107.94 |                82 |        7 |                61 |      98.45 | [Swan Rebbadj](..//playerfiles//SwanRebbadj_cleaned.md)               |             80 |
+|             80 | [Sekou Macalou](..//playerfiles//SekouMacalou_cleaned.md)                  |     120.75 |                93 |        8 |                44 |      93.49 | [Facundo Isa](..//playerfiles//FacundoIsa_cleaned.md)                 |             68 |
+|             50 | [Morgan Parra](..//playerfiles//MorganParra_cleaned.md)                    |     109.37 |                86 |        9 |                64 |      99.22 | [Baptiste Serin](..//playerfiles//BaptisteSerin_cleaned.md)           |             68 |
+|             80 | [Joris Segonds](..//playerfiles//JorisSegonds_cleaned.md)                  |     101.91 |                70 |       10 |                40 |      91.75 | [Ihaia West](..//playerfiles//IhaiaWest_cleaned.md)                   |             80 |
+|             80 | [Lester Etien](..//playerfiles//LesterEtien_cleaned.md)                    |     108.02 |                83 |       11 |                66 |     100.52 | [Jiuta Wainiqolo](..//playerfiles//JiutaWainiqolo_cleaned.md)         |             80 |
+|             72 | [Julien Delbouis](..//playerfiles//JulienDelbouis_cleaned.md)              |     124.38 |                96 |       12 |                27 |      87.41 | [Duncan Paia'aua](..//playerfiles//DuncanPaia'aua_cleaned.md)         |             64 |
+|             80 | [Jeremy Charles Ward](..//playerfiles//JeremyCharlesWard_cleaned.md)       |     106.11 |                79 |       13 |                30 |      88.94 | [Waisea Nayacavelu](..//playerfiles//WaiseaNayacavelu_cleaned.md)     |             80 |
+|             80 | [Peniasi Dakuwaqa](..//playerfiles//PeniasiDakuwaqa_cleaned.md)            |      97.11 |               nan |       14 |                23 |      86.58 | [Cheslin Kolbe](..//playerfiles//CheslinKolbe_cleaned.md)             |             80 |
+|             52 | [Kylan Hamdaoui](..//playerfiles//KylanHamdaoui_cleaned.md)                |      92.26 |                44 |       15 |                43 |      91.42 | [Thomas Salles](..//playerfiles//ThomasSalles_cleaned.md)             |             80 |
+|             28 | [Léo Barré](..//playerfiles//LéoBarré_cleaned.md)                          |     107.82 |                80 |       16 |                51 |      94.94 | [Bruce Devaux](..//playerfiles//BruceDevaux_cleaned.md)               |             28 |
+|             44 | [Vincent Philip Koch](..//playerfiles//VincentPhilipKoch_cleaned.md)       |      94.2  |                48 |       17 |               nan |      88.48 | [Christopher Tolofua](..//playerfiles//ChristopherTolofua_cleaned.md) |             28 |
+|             30 | [James Hall](..//playerfiles//JamesHall_cleaned.md)                        |      82.3  |                17 |       18 |                53 |     100.36 | [Kieran Brookes](..//playerfiles//KieranBrookes_cleaned.md)           |             28 |
+|             28 | [Giovanni Habel Kuffner](..//playerfiles//GiovanniHabelKuffner_cleaned.md) |     105.88 |                79 |       19 |                56 |      95.45 | [Adrien Warion](..//playerfiles//AdrienWarion_cleaned.md)             |             26 |
+|             16 | [Lucas Peyresblanques](..//playerfiles//LucasPeyresblanques_cleaned.md)    |      92.55 |                33 |       20 |                54 |      96.66 | [Jérémy Sinzelle](..//playerfiles//JérémySinzelle_cleaned.md)         |             16 |
+|             20 | [Mathieu Hirigoyen](..//playerfiles//MathieuHirigoyen_cleaned.md)          |      79.1  |                 9 |       21 |                47 |      92.33 | [Mathieu Bastareaud](..//playerfiles//MathieuBastareaud_cleaned.md)   |             12 |
+|              8 | [Théo Dachary](..//playerfiles//ThéoDachary_cleaned.md)                    |      83.93 |                18 |       22 |                25 |      86.51 | [Benoit Paillaugue](..//playerfiles//BenoitPaillaugue_cleaned.md)     |             12 |
+|            nan | nan                                                                        |     nan    |               nan |       23 |                43 |      92.1  | [Mattéo Le Corvec](..//playerfiles//MattéoLeCorvec_cleaned.md)        |             12 |
 

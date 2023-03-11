@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robin GRAULLE  
-date: 2023-03-09 10:10:55.544978  
+date: 2023-03-11 00:12:32.865821  
 categories: player  
 ---
 # Robin GRAULLE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 

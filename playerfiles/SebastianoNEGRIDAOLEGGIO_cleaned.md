@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sebastiano NEGRI DA OLEGGIO  
-date: 2023-03-09 10:07:35.039933  
+date: 2023-03-11 00:14:34.062722  
 categories: player  
 ---
 # Sebastiano NEGRI DA OLEGGIO
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 89.0
+## Current elo: 91.0
 
-## Current Percentile: 41.0
+## Current Percentile: 45.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault DUFAU  
-date: 2023-03-09 10:09:21.927037  
+date: 2023-03-11 00:15:36.700022  
 categories: player  
 ---
 # Thibault DUFAU
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 119.0
 
-## Current Percentile: 72.0
+## Current Percentile: 74.0
 
 # Elo History
 

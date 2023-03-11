@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Toby TRINDER  
-date: 2023-03-09 10:07:52.190265  
+date: 2023-03-11 00:14:35.205093  
 categories: player  
 ---
 # Toby TRINDER
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 60.0
+## Current Percentile: 54.0
 
 # Elo History
 

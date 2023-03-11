@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Romain FUSIER  
-date: 2023-02-24 14:43:34.562108  
+date: 2023-03-11 00:13:39.664552  
 categories: player  
 ---
 # Romain FUSIER
 
 ## Positions: C
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 19.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            47 |   0.531915 |
+| Grenoble |            48 |   0.541667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Aurillac                   |         6 |   0.666667 |
 | Vannes                     |         5 |   0.4      |
-| Aurillac                   |         5 |   0.6      |
 | Rouen                      |         5 |   0.8      |
 | Colomiers                  |         4 |   0.25     |
 | Provence Rugby             |         3 |   0.333333 |

@@ -59,73 +59,61 @@ categories: model review projection
 | Bedford V Nottingham on 2022/12/03                   |        1 |                 3.9 |                  3.9 |               7.6 |
 | Jersey V Richmond on 2022/12/03                      |       15 |                20.2 |                 19.1 |              16.1 |
 | London Scottish V Caldy on 2022/12/03                |        9 |               -11.3 |                 -9.1 |              -1.2 |
-| Nottingham V Jersey on 2022/12/09                    |       -9 |                 3.6 |                  1.5 |              -5.7 |
-| Caldy V Cornish Pirates on 2022/12/10                |        1 |               -23.9 |                -14.7 |              -7.5 |
-| Doncaster V London Scottish on 2022/12/10            |        1 |                 6.9 |                  5.3 |              28.8 |
-| Hartpury College V Coventry on 2022/12/10            |        9 |                -6.5 |                 -6.4 |               4.6 |
-| Ealing Trailfinders V Bedford on 2022/12/10          |       25 |                14.5 |                 13.1 |              20.1 |
-| Richmond V Ampthill on 2022/12/10                    |        0 |                 7.3 |                  7   |               3.5 |
-| Jersey V Bedford on 2022/12/17                       |       40 |                24   |                 24.5 |              11.6 |
-| Coventry V Richmond on 2022/12/17                    |       36 |                19.7 |                 19.4 |               6.5 |
-| Hartpury College V Cornish Pirates on 2022/12/23     |        6 |                 3   |                 10.6 |               1.7 |
-| Ealing Trailfinders V Jersey on 2022/12/24           |       21 |                -0.4 |                  2.8 |              13   |
-| Doncaster V Caldy on 2022/12/26                      |       38 |                15.2 |                 15.9 |              23.1 |
-| Bedford V Ampthill on 2022/12/26                     |       24 |                -7.6 |                 -8.9 |               8   |
-| Nottingham V Coventry on 2022/12/26                  |      -28 |               -10.2 |                -13   |               3.9 |
-| Richmond V London Scottish on 2022/12/31             |       14 |               -10.5 |                -11.5 |              17.3 |
-| Caldy V Ealing Trailfinders on 2023/01/07            |        2 |               -19.5 |                -19.1 |             -24.9 |
-| Cornish Pirates V Doncaster on 2023/01/07            |       22 |                -4.4 |                 -6.1 |              -0.1 |
-| London Scottish V Hartpury College on 2023/01/07     |       -1 |                -8.1 |                -14.5 |              -9.3 |
-| Cornish Pirates V Nottingham on 2023/01/13           |       11 |                34.4 |                 31   |               8.4 |
-| Caldy V Richmond on 2023/01/14                       |       20 |                12.5 |                 11.2 |              -2.7 |
-| Doncaster V Hartpury College on 2023/01/14           |      -15 |                15.6 |                 14   |               9.3 |
-| Coventry V Jersey on 2023/01/14                      |        0 |                18.1 |                 23.5 |              -1.6 |
-| Ealing Trailfinders V Ampthill on 2023/01/14         |       11 |                13.2 |                 18.2 |              25.8 |
-| London Scottish V Bedford on 2023/01/14              |      -21 |                -2.2 |                 -0.2 |              -9.5 |
-| Nottingham V Caldy on 2023/01/20                     |      -12 |                -0.4 |                  0.2 |              13   |
-| Hartpury College V Ealing Trailfinders on 2023/01/21 |      -13 |                 0.9 |                 10.3 |             -12.6 |
-| Bedford V Cornish Pirates on 2023/01/21              |       42 |                 7.3 |                  6.1 |               4.5 |
-| Jersey V London Scottish on 2023/01/21               |        2 |                30   |                 33.1 |              26.7 |
-| Richmond V Doncaster on 2023/01/21                   |      -10 |                11.2 |                  8.8 |              -5.4 |
-| Caldy V Bedford on 2023/01/28                        |        8 |                 8.7 |                  5.8 |              -8   |
-| Cornish Pirates V Jersey on 2023/01/28               |       -9 |                -3.8 |                 -2.9 |              -3.8 |
-| Doncaster V Nottingham on 2023/01/28                 |       15 |                 0.9 |                  5.4 |              13   |
-| Hartpury College V Richmond on 2023/01/28            |       12 |                19.4 |                 20.5 |               9.6 |
-| Ealing Trailfinders V Coventry on 2023/01/28         |       -3 |                11.3 |                  4   |              19.3 |
-| London Scottish V Ampthill on 2023/01/28             |       -9 |                 6.4 |                  2.3 |              -5.2 |
-| Ampthill V Nottingham on 2023/02/25                  |       12 |                -2.3 |                  0.4 |               6.7 |
-| Bedford V Doncaster on 2023/03/03                    |       23 |                11.1 |                 13.5 |               2.8 |
-| Nottingham V Hartpury College on 2023/03/03          |      -14 |                -1   |                  1.1 |              -2.5 |
-| Ampthill V Cornish Pirates on 2023/03/04             |      -39 |                16.7 |                 16.7 |               1.4 |
-| Ampthill V Cornish Pirates on 2023/03/04             |      -39 |                16.7 |                 16.7 |               1.4 |
-| Coventry V London Scottish on 2023/03/04             |       18 |                14.5 |                 14.5 |              21   |
-| Jersey V Caldy on 2023/03/04                         |       57 |                12.3 |                 12.3 |               4.8 |
-| Richmond V Ealing Trailfinders on 2023/03/04         |      -50 |               -17.3 |                -17.3 |             -15.7 |
-| Richmond V Ealing Trailfinders on 2023/03/04         |      -50 |               -17.3 |                -17.3 |             -15.7 |
+| Nottingham V Jersey on 2022/12/09                    |       -9 |                -6.9 |                -10.1 |              -5.7 |
+| Caldy V Cornish Pirates on 2022/12/10                |        1 |               -26   |                -16   |              -7.5 |
+| Doncaster V London Scottish on 2022/12/10            |        1 |                 5.2 |                  2.6 |              28.8 |
+| Hartpury College V Coventry on 2022/12/10            |        9 |               -16.2 |                -17.4 |               4.6 |
+| Ealing Trailfinders V Bedford on 2022/12/10          |       25 |                32.7 |                 29.5 |              20.1 |
+| Richmond V Ampthill on 2022/12/10                    |        0 |                 7   |                  6   |               3.5 |
+| Jersey V Bedford on 2022/12/17                       |       40 |                11.2 |                 12   |              11.6 |
+| Coventry V Richmond on 2022/12/17                    |       36 |                18.1 |                 17.6 |               6.5 |
+| Hartpury College V Cornish Pirates on 2022/12/23     |        6 |                 3.5 |                 11.1 |               1.7 |
+| Ealing Trailfinders V Jersey on 2022/12/24           |       21 |                -2.4 |                  0.5 |              13   |
+| Doncaster V Caldy on 2022/12/26                      |       38 |                17.9 |                 18.5 |              23.1 |
+| Bedford V Ampthill on 2022/12/26                     |       24 |                -0.3 |                 -1.6 |               8   |
+| Nottingham V Coventry on 2022/12/26                  |      -28 |                -3.7 |                 -6.2 |               3.9 |
+| Richmond V London Scottish on 2022/12/31             |       14 |                -7.6 |                 -8.5 |              17.3 |
+| Caldy V Ealing Trailfinders on 2023/01/07            |        2 |               -14.8 |                -13.7 |             -24.9 |
+| Cornish Pirates V Doncaster on 2023/01/07            |       22 |                -5.1 |                 -6.7 |              -0.1 |
+| London Scottish V Hartpury College on 2023/01/07     |       -1 |                -9   |                -15.6 |              -9.3 |
+| Cornish Pirates V Nottingham on 2023/01/13           |       11 |                30.8 |                 27.5 |               8.4 |
+| Caldy V Richmond on 2023/01/14                       |       20 |                 9.8 |                  8.2 |              -2.7 |
+| Doncaster V Hartpury College on 2023/01/14           |      -15 |                17.1 |                 15.3 |               9.3 |
+| Coventry V Jersey on 2023/01/14                      |        0 |                24   |                 29.4 |              -1.6 |
+| Ealing Trailfinders V Ampthill on 2023/01/14         |       11 |                10.7 |                 15.8 |              25.8 |
+| London Scottish V Bedford on 2023/01/14              |      -21 |                -6.4 |                 -4.7 |              -9.5 |
+| Nottingham V Caldy on 2023/01/20                     |      -12 |                 3.4 |                  4.3 |              13   |
+| Hartpury College V Ealing Trailfinders on 2023/01/21 |      -13 |                 3.7 |                 13.4 |             -12.6 |
+| Bedford V Cornish Pirates on 2023/01/21              |       42 |                 7.9 |                  7.2 |               4.5 |
+| Jersey V London Scottish on 2023/01/21               |        2 |                28.1 |                 30.9 |              26.7 |
+| Richmond V Doncaster on 2023/01/21                   |      -10 |                10.2 |                  7.9 |              -5.4 |
+| Caldy V Bedford on 2023/01/28                        |        8 |                 5.8 |                  2.9 |              -8   |
+| Cornish Pirates V Jersey on 2023/01/28               |       -9 |                 0.5 |                  1.5 |              -3.8 |
+| Doncaster V Nottingham on 2023/01/28                 |       15 |                -0.1 |                  4.2 |              13   |
+| Hartpury College V Richmond on 2023/01/28            |       12 |                18.7 |                 19.6 |               9.6 |
+| Ealing Trailfinders V Coventry on 2023/01/28         |       -3 |                10.2 |                  3.5 |              19.3 |
+| London Scottish V Ampthill on 2023/01/28             |       -9 |                 7.9 |                  3.6 |              -5.2 |
+| Ampthill V Nottingham on 2023/02/25                  |       12 |                -8.1 |                 -6   |               6.7 |
+| Bedford V Doncaster on 2023/03/03                    |       23 |                13.1 |                 15.6 |               2.8 |
+| Nottingham V Hartpury College on 2023/03/03          |      -14 |                 1.2 |                  3.1 |              -2.5 |
+| Ampthill V Cornish Pirates on 2023/03/04             |      -39 |                16.3 |                 16.3 |               1.4 |
+| Coventry V London Scottish on 2023/03/04             |       18 |                16.3 |                 16.3 |              21   |
+| Jersey V Caldy on 2023/03/04                         |       57 |                 9.8 |                  9.8 |               4.8 |
+| Richmond V Ealing Trailfinders on 2023/03/04         |      -50 |               -15.1 |                -15.1 |             -15.7 |
+| Hartpury College V Bedford on 2023/03/10             |      -21 |               nan   |                nan   |               5   |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 15.4 | 15.4 | 14.7 |
-| Correct Winner |       - | 63.7% | 64.8% | 75.8% |
+| Average Error |       - | 14.9 | 14.9 | 14.3 |
+| Correct Winner |       - | 60.7% | 64.0% | 75.6% |
 
 
 ## Future Club-Level Match Predictions
 
 ### Week 7
 
-#### Hartpury College V Bedford on 2023/03/10
-
-
-Average Margin: Hartpury College by 3.5
-
-<p float="left">
-<img src="plots/performances_Hartpury College_V_Bedford_7.png" width="32%" />
-<img src="plots/resultbar_Hartpury College_V_Bedford_7.png" width="32%" />
-<img src="plots/spreads_Hartpury College_V_Bedford_7.png" width="32%" />
-</p>
-
 #### Cornish Pirates V Coventry on 2023/03/11
 
 
-Average Margin: Cornish Pirates by 2.6
+Average Margin: Cornish Pirates by 1.0
 
 <p float="left">
 <img src="plots/performances_Cornish Pirates_V_Coventry_7.png" width="32%" />
@@ -136,7 +124,7 @@ Average Margin: Cornish Pirates by 2.6
 #### Richmond V Nottingham on 2023/03/11
 
 
-Average Margin: Richmond by 2.1
+Average Margin: Richmond by 2.7
 
 <p float="left">
 <img src="plots/performances_Richmond_V_Nottingham_7.png" width="32%" />
@@ -147,7 +135,7 @@ Average Margin: Richmond by 2.1
 #### Doncaster V Jersey on 2023/03/11
 
 
-Average Margin: Jersey by 3.8
+Average Margin: Jersey by 4.1
 
 <p float="left">
 <img src="plots/performances_Doncaster_V_Jersey_7.png" width="32%" />
@@ -158,7 +146,7 @@ Average Margin: Jersey by 3.8
 #### Caldy V Ampthill on 2023/03/11
 
 
-Average Margin: Caldy by 12.7
+Average Margin: Caldy by 11.6
 
 <p float="left">
 <img src="plots/performances_Caldy_V_Ampthill_7.png" width="32%" />
@@ -169,7 +157,7 @@ Average Margin: Caldy by 12.7
 #### Ealing Trailfinders V London Scottish on 2023/03/11
 
 
-Average Margin: Ealing Trailfinders by 30.5
+Average Margin: Ealing Trailfinders by 29.9
 
 <p float="left">
 <img src="plots/performances_Ealing Trailfinders_V_London Scottish_7.png" width="32%" />
@@ -182,7 +170,7 @@ Average Margin: Ealing Trailfinders by 30.5
 #### Ampthill V Doncaster on 2023/03/18
 
 
-Average Margin: Doncaster by 3.9
+Average Margin: Doncaster by 2.4
 
 <p float="left">
 <img src="plots/performances_Ampthill_V_Doncaster_8.png" width="32%" />
@@ -193,7 +181,7 @@ Average Margin: Doncaster by 3.9
 #### Bedford V Richmond on 2023/03/18
 
 
-Average Margin: Bedford by 12.8
+Average Margin: Bedford by 13.9
 
 <p float="left">
 <img src="plots/performances_Bedford_V_Richmond_8.png" width="32%" />
@@ -204,7 +192,7 @@ Average Margin: Bedford by 12.8
 #### Jersey V Hartpury College on 2023/03/18
 
 
-Average Margin: Jersey by 10.1
+Average Margin: Jersey by 11.8
 
 <p float="left">
 <img src="plots/performances_Jersey_V_Hartpury College_8.png" width="32%" />
@@ -215,7 +203,7 @@ Average Margin: Jersey by 10.1
 #### Coventry V Caldy on 2023/03/18
 
 
-Average Margin: Coventry by 3.2
+Average Margin: Coventry by 2.8
 
 <p float="left">
 <img src="plots/performances_Coventry_V_Caldy_8.png" width="32%" />
@@ -226,7 +214,7 @@ Average Margin: Coventry by 3.2
 #### London Scottish V Cornish Pirates on 2023/03/18
 
 
-Average Margin: Cornish Pirates by 12.3
+Average Margin: Cornish Pirates by 11.0
 
 <p float="left">
 <img src="plots/performances_London Scottish_V_Cornish Pirates_8.png" width="32%" />
@@ -237,7 +225,7 @@ Average Margin: Cornish Pirates by 12.3
 #### Nottingham V Ealing Trailfinders on 2023/03/18
 
 
-Average Margin: Ealing Trailfinders by 17.6
+Average Margin: Ealing Trailfinders by 17.2
 
 <p float="left">
 <img src="plots/performances_Nottingham_V_Ealing Trailfinders_8.png" width="32%" />
@@ -250,7 +238,7 @@ Average Margin: Ealing Trailfinders by 17.6
 #### Nottingham V Bedford on 2023/03/25
 
 
-Average Margin: Bedford by 4.8
+Average Margin: Bedford by 6.8
 
 <p float="left">
 <img src="plots/performances_Nottingham_V_Bedford_9.png" width="32%" />
@@ -261,7 +249,7 @@ Average Margin: Bedford by 4.8
 #### Hartpury College V Ampthill on 2023/03/25
 
 
-Average Margin: Hartpury College by 10.9
+Average Margin: Hartpury College by 8.1
 
 <p float="left">
 <img src="plots/performances_Hartpury College_V_Ampthill_9.png" width="32%" />
@@ -272,7 +260,7 @@ Average Margin: Hartpury College by 10.9
 #### Richmond V Jersey on 2023/03/25
 
 
-Average Margin: Jersey by 13.2
+Average Margin: Jersey by 12.8
 
 <p float="left">
 <img src="plots/performances_Richmond_V_Jersey_9.png" width="32%" />
@@ -283,7 +271,7 @@ Average Margin: Jersey by 13.2
 #### Caldy V London Scottish on 2023/03/25
 
 
-Average Margin: Caldy by 19.9
+Average Margin: Caldy by 19.6
 
 <p float="left">
 <img src="plots/performances_Caldy_V_London Scottish_9.png" width="32%" />
@@ -294,7 +282,7 @@ Average Margin: Caldy by 19.9
 #### Ealing Trailfinders V Cornish Pirates on 2023/03/25
 
 
-Average Margin: Ealing Trailfinders by 14.8
+Average Margin: Ealing Trailfinders by 15.7
 
 <p float="left">
 <img src="plots/performances_Ealing Trailfinders_V_Cornish Pirates_9.png" width="32%" />
@@ -305,7 +293,7 @@ Average Margin: Ealing Trailfinders by 14.8
 #### Doncaster V Coventry on 2023/03/25
 
 
-Average Margin: Doncaster by 1.1
+Average Margin: Doncaster by 1.2
 
 <p float="left">
 <img src="plots/performances_Doncaster_V_Coventry_9.png" width="32%" />
@@ -318,7 +306,7 @@ Average Margin: Doncaster by 1.1
 #### London Scottish V Doncaster on 2023/04/01
 
 
-Average Margin: Doncaster by 10.3
+Average Margin: Doncaster by 10.5
 
 <p float="left">
 <img src="plots/performances_London Scottish_V_Doncaster_10.png" width="32%" />
@@ -329,7 +317,7 @@ Average Margin: Doncaster by 10.3
 #### Coventry V Hartpury College on 2023/04/01
 
 
-Average Margin: Coventry by 5.1
+Average Margin: Coventry by 6.6
 
 <p float="left">
 <img src="plots/performances_Coventry_V_Hartpury College_10.png" width="32%" />
@@ -340,7 +328,7 @@ Average Margin: Coventry by 5.1
 #### Ampthill V Richmond on 2023/04/01
 
 
-Average Margin: Ampthill by 5.1
+Average Margin: Ampthill by 6.1
 
 <p float="left">
 <img src="plots/performances_Ampthill_V_Richmond_10.png" width="32%" />
@@ -351,7 +339,7 @@ Average Margin: Ampthill by 5.1
 #### Jersey V Nottingham on 2023/04/01
 
 
-Average Margin: Jersey by 18.6
+Average Margin: Jersey by 18.5
 
 <p float="left">
 <img src="plots/performances_Jersey_V_Nottingham_10.png" width="32%" />
@@ -362,7 +350,7 @@ Average Margin: Jersey by 18.6
 #### Bedford V Ealing Trailfinders on 2023/04/01
 
 
-Average Margin: Ealing Trailfinders by 9.5
+Average Margin: Ealing Trailfinders by 7.4
 
 <p float="left">
 <img src="plots/performances_Bedford_V_Ealing Trailfinders_10.png" width="32%" />
@@ -373,7 +361,7 @@ Average Margin: Ealing Trailfinders by 9.5
 #### Cornish Pirates V Caldy on 2023/04/01
 
 
-Average Margin: Cornish Pirates by 2.4
+Average Margin: Cornish Pirates by 1.6
 
 <p float="left">
 <img src="plots/performances_Cornish Pirates_V_Caldy_10.png" width="32%" />
@@ -386,7 +374,7 @@ Average Margin: Cornish Pirates by 2.4
 #### Nottingham V Ampthill on 2023/04/15
 
 
-Average Margin: Nottingham by 2.6
+Average Margin: Nottingham by 1.1
 
 <p float="left">
 <img src="plots/performances_Nottingham_V_Ampthill_11.png" width="32%" />
@@ -397,7 +385,7 @@ Average Margin: Nottingham by 2.6
 #### Bedford V Jersey on 2023/04/15
 
 
-Average Margin: Jersey by 3.7
+Average Margin: Jersey by 2.0
 
 <p float="left">
 <img src="plots/performances_Bedford_V_Jersey_11.png" width="32%" />
@@ -408,7 +396,7 @@ Average Margin: Jersey by 3.7
 #### Richmond V Coventry on 2023/04/15
 
 
-Average Margin: Coventry by 8.0
+Average Margin: Coventry by 7.7
 
 <p float="left">
 <img src="plots/performances_Richmond_V_Coventry_11.png" width="32%" />
@@ -419,7 +407,7 @@ Average Margin: Coventry by 8.0
 #### Hartpury College V London Scottish on 2023/04/15
 
 
-Average Margin: Hartpury College by 17.7
+Average Margin: Hartpury College by 16.1
 
 <p float="left">
 <img src="plots/performances_Hartpury College_V_London Scottish_11.png" width="32%" />
@@ -430,7 +418,7 @@ Average Margin: Hartpury College by 17.7
 #### Ealing Trailfinders V Caldy on 2023/04/15
 
 
-Average Margin: Ealing Trailfinders by 13.9
+Average Margin: Ealing Trailfinders by 13.2
 
 <p float="left">
 <img src="plots/performances_Ealing Trailfinders_V_Caldy_11.png" width="32%" />
@@ -441,7 +429,7 @@ Average Margin: Ealing Trailfinders by 13.9
 #### Doncaster V Cornish Pirates on 2023/04/15
 
 
-Average Margin: Doncaster by 1.4
+Average Margin: Doncaster by 3.2
 
 <p float="left">
 <img src="plots/performances_Doncaster_V_Cornish Pirates_11.png" width="32%" />
@@ -454,7 +442,7 @@ Average Margin: Doncaster by 1.4
 #### Caldy V Doncaster on 2023/04/22
 
 
-Average Margin: Caldy by 5.8
+Average Margin: Caldy by 5.7
 
 <p float="left">
 <img src="plots/performances_Caldy_V_Doncaster_12.png" width="32%" />
@@ -476,7 +464,7 @@ Average Margin: Cornish Pirates by 4.6
 #### London Scottish V Richmond on 2023/04/22
 
 
-Average Margin: Richmond by 1.6
+Average Margin: Richmond by 2.1
 
 <p float="left">
 <img src="plots/performances_London Scottish_V_Richmond_12.png" width="32%" />
@@ -487,7 +475,7 @@ Average Margin: Richmond by 1.6
 #### Coventry V Nottingham on 2023/04/22
 
 
-Average Margin: Coventry by 13.3
+Average Margin: Coventry by 13.7
 
 <p float="left">
 <img src="plots/performances_Coventry_V_Nottingham_12.png" width="32%" />
@@ -509,7 +497,7 @@ Average Margin: Bedford by 4.3
 #### Jersey V Ealing Trailfinders on 2023/04/22
 
 
-Average Margin: Ealing Trailfinders by 2.3
+Average Margin: Ealing Trailfinders by 1.9
 
 <p float="left">
 <img src="plots/performances_Jersey_V_Ealing Trailfinders_12.png" width="32%" />
@@ -522,7 +510,7 @@ Average Margin: Ealing Trailfinders by 2.3
 #### Jersey V Ampthill on 2023/04/29
 
 
-Average Margin: Jersey by 17.6
+Average Margin: Jersey by 16.4
 
 <p float="left">
 <img src="plots/performances_Jersey_V_Ampthill_13.png" width="32%" />
@@ -533,7 +521,7 @@ Average Margin: Jersey by 17.6
 #### Bedford V Coventry on 2023/04/29
 
 
-Average Margin: Bedford by 1.4
+Average Margin: Bedford by 2.8
 
 <p float="left">
 <img src="plots/performances_Bedford_V_Coventry_13.png" width="32%" />
@@ -544,7 +532,7 @@ Average Margin: Bedford by 1.4
 #### Nottingham V London Scottish on 2023/04/29
 
 
-Average Margin: Nottingham by 9.2
+Average Margin: Nottingham by 9.1
 
 <p float="left">
 <img src="plots/performances_Nottingham_V_London Scottish_13.png" width="32%" />
@@ -555,7 +543,7 @@ Average Margin: Nottingham by 9.2
 #### Richmond V Cornish Pirates on 2023/04/29
 
 
-Average Margin: Cornish Pirates by 7.2
+Average Margin: Cornish Pirates by 5.4
 
 <p float="left">
 <img src="plots/performances_Richmond_V_Cornish Pirates_13.png" width="32%" />
@@ -566,7 +554,7 @@ Average Margin: Cornish Pirates by 7.2
 #### Hartpury College V Caldy on 2023/04/29
 
 
-Average Margin: Hartpury College by 1.4
+Average Margin: Caldy by 0.2
 
 <p float="left">
 <img src="plots/performances_Hartpury College_V_Caldy_13.png" width="32%" />
@@ -577,7 +565,7 @@ Average Margin: Hartpury College by 1.4
 #### Doncaster V Ealing Trailfinders on 2023/04/29
 
 
-Average Margin: Ealing Trailfinders by 9.5
+Average Margin: Ealing Trailfinders by 9.0
 
 <p float="left">
 <img src="plots/performances_Doncaster_V_Ealing Trailfinders_13.png" width="32%" />

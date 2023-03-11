@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim GREY  
-date: 2023-03-09 10:13:04.686831  
+date: 2023-03-11 00:13:49.236375  
 categories: player  
 ---
 # Tim GREY
 
 ## Positions: N8, FL
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

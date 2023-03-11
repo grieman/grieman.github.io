@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sanele NOHAMBA  
-date: 2023-03-09 10:12:16.228507  
+date: 2023-03-11 00:12:31.696080  
 categories: player  
 ---
 # Sanele NOHAMBA
@@ -21,10 +21,10 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Natal Sharks |            25 |      0.6   |
-| Sharks       |            10 |      0.8   |
-| Lions        |             8 |      0.625 |
-| Golden Lions |             2 |      1     |
+| Natal Sharks |            25 |   0.6      |
+| Sharks       |            10 |   0.8      |
+| Lions        |             9 |   0.611111 |
+| Golden Lions |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,9 +35,9 @@ categories: player
 | Free State Cheetahs |         3 |   0.333333 |
 | Bulls               |         3 |   0.666667 |
 | Pumas               |         3 |   0.666667 |
+| Dragons             |         2 |   0.75     |
 | Ospreys             |         2 |   1        |
 | Stormers            |         2 |   0.5      |
-| Dragons             |         1 |   1        |
 | Ulster              |         1 |   0        |
 | Scarlets            |         1 |   1        |
 | Queensland Reds     |         1 |   1        |

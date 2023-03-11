@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Zauri TEVDORASHVILI  
-date: 2023-03-09 10:10:37.934978  
+date: 2023-03-11 00:12:45.569165  
 categories: player  
 ---
 # Zauri TEVDORASHVILI
 
 ## Positions: P
 
-## Current elo: 70.0
+## Current elo: 71.0
 
 ## Current Percentile: 4.0
 

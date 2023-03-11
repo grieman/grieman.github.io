@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud FLAMENT  
-date: 2023-03-09 10:10:22.192652  
+date: 2023-03-11 00:12:05.684752  
 categories: player  
 ---
 # Thibaud FLAMENT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 

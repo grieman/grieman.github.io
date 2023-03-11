@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tony TISSOT  
-date: 2023-03-09 10:12:33.198477  
+date: 2023-03-11 00:14:47.396121  
 categories: player  
 ---
 # Tony TISSOT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 25.0
+## Current Percentile: 28.0
 
 # Elo History
 

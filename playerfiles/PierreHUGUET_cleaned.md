@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierre HUGUET  
-date: 2023-03-09 10:09:40.919307  
+date: 2023-03-11 00:13:37.546921  
 categories: player  
 ---
 # Pierre HUGUET
 
 ## Positions: FL
 
-## Current elo: 92.0
+## Current elo: 97.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tui URU  
-date: 2023-03-09 10:09:56.359280  
+date: 2023-03-11 00:12:04.542019  
 categories: player  
 ---
 # Tui URU
 
 ## Positions: N8, FL
 
-## Current elo: 87.0
+## Current elo: 89.0
 
-## Current Percentile: 15.0
+## Current Percentile: 20.0
 
 # Elo History
 

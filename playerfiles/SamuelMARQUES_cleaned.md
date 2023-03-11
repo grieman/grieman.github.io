@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel MARQUES  
-date: 2023-03-09 10:08:45.522066  
+date: 2023-03-11 00:12:23.786608  
 categories: player  
 ---
 # Samuel MARQUES
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 112.0
+## Current elo: 114.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Pau              |           119 |   0.542017 |
 | Brive            |            56 |   0.482143 |
 | Albi             |            55 |   0.409091 |
-| Carcassonne      |            34 |   0.544118 |
+| Carcassonne      |            35 |   0.557143 |
 | Stade Toulousain |            18 |   0.5      |
 | Portugal         |            15 |   0.4      |
 
@@ -60,11 +60,11 @@ categories: player
 | Bourgoin-Jallieu     |         6 |   1        |
 | Stade Toulousain     |         6 |   0.166667 |
 | Auch                 |         6 |   0.75     |
+| Nevers               |         6 |   0.666667 |
 | Biarritz Olympique   |         5 |   0.7      |
 | Vannes               |         5 |   0.7      |
 | US Bressane          |         5 |   0.8      |
 | Clermont Auvergne    |         5 |   0.2      |
-| Nevers               |         5 |   0.6      |
 | Spain                |         3 |   0.5      |
 | Sale Sharks          |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   0.5      |

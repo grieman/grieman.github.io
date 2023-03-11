@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas FORTUNEL  
-date: 2023-03-09 10:10:32.293457  
+date: 2023-03-11 00:14:37.319675  
 categories: player  
 ---
 # Thomas FORTUNEL
 
 ## Positions: FH
 
-## Current elo: 88.0
+## Current elo: 85.0
 
-## Current Percentile: 43.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Montauban         |            81 |   0.5      |
-| Grenoble          |            20 |   0.45     |
+| Grenoble          |            21 |   0.428571 |
 | Castres Olympique |            19 |   0.394737 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,10 +34,10 @@ categories: player
 | Biarritz Olympique         |         6 |   0.25     |
 | Provence Rugby             |         6 |   0.333333 |
 | Colomiers                  |         6 |   0.333333 |
+| Mont-de-Marsan             |         6 |   0.333333 |
 | Massy                      |         5 |   1        |
 | Vannes                     |         5 |   0.6      |
 | Soyaux-Angouleme           |         5 |   0.8      |
-| Mont-de-Marsan             |         5 |   0.4      |
 | Dax                        |         4 |   0.25     |
 | Narbonne                   |         4 |   0.625    |
 | Agen                       |         3 |   0.333333 |

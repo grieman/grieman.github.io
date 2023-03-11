@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Viliami TAULANI  
-date: 2023-03-09 10:09:22.996005  
+date: 2023-03-11 00:13:30.810107  
 categories: player  
 ---
 # Viliami TAULANI
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            13 |   0.346154 |
 | Harlequins       |             9 |   0.444444 |
-| London Scottish  |             4 |   0        |
+| London Scottish  |             5 |   0        |
 | Tonga            |             4 |   0        |
 | Chiefs           |             2 |   0.5      |
 
@@ -45,12 +45,13 @@ categories: player
 | Northampton Saints       |         1 |        1   |
 | North Harbour            |         1 |        0   |
 | New Zealand              |         1 |        0   |
+| London Irish             |         1 |        0   |
 | Manawatu                 |         1 |        0   |
 | Bath Rugby               |         1 |        0   |
-| London Irish             |         1 |        0   |
 | Leicester Tigers         |         1 |        0   |
 | Hawke's Bay              |         1 |        1   |
 | Ealing Trailfinders      |         1 |        0   |
+| Doncaster                |         1 |        0   |
 | Cornish Pirates          |         1 |        0   |
 | Castres Olympique        |         1 |        1   |
 | Canterbury               |         1 |        0   |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sandrick MACIOTTA  
-date: 2023-03-09 10:07:42.568430  
+date: 2023-03-11 00:11:50.303625  
 categories: player  
 ---
 # Sandrick MACIOTTA
 
 ## Positions: N8, FL
 
-## Current elo: 119.0
+## Current elo: 120.0
 
 ## Current Percentile: 89.0
 

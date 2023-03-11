@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will HOLLING  
-date: 2023-03-09 10:12:19.622322  
+date: 2023-03-11 00:16:58.668658  
 categories: player  
 ---
 # Will HOLLING
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 60.0
+## Current Percentile: 61.0
 
 # Elo History
 

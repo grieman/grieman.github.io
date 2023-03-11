@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wilfried Hounkpatin  
-date: 2023-03-09 10:13:20.087354  
+date: 2023-03-11 00:13:29.666616  
 categories: player  
 ---
 # Wilfried Hounkpatin
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            10 |       0.25 |
+| Castres Olympique |             9 |   0.277778 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,7 +29,6 @@ categories: player
 | Bordeaux Begles      |         1 |        1   |
 | Clermont Auvergne    |         1 |        0   |
 | Edinburgh            |         1 |        0   |
-| Exeter Chiefs        |         1 |        0   |
 | La Rochelle          |         1 |        0   |
 | Lyon                 |         1 |        1   |
 | Racing 92            |         1 |        0.5 |

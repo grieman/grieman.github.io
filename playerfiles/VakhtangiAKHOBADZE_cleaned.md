@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Vakhtangi AKHOBADZE  
-date: 2023-03-09 10:07:15.901860  
+date: 2023-03-11 00:15:47.386571  
 categories: player  
 ---
 # Vakhtangi AKHOBADZE
 
 ## Positions: P
 
-## Current elo: 59.0
+## Current elo: 61.0
 
 ## Current Percentile: 2.0
 
@@ -23,8 +23,8 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Biarritz Olympique |            48 |   0.40625  |
 | Agen               |            23 |   0.413043 |
+| Carcassonne        |            11 |   0.272727 |
 | Massy              |            11 |   0.181818 |
-| Carcassonne        |            10 |   0.2      |
 | Albi               |             4 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -42,13 +42,13 @@ categories: player
 | Soyaux-Angouleme           |         3 |   0        |
 | Vannes                     |         3 |   0        |
 | Grenoble                   |         3 |   0.5      |
+| Nevers                     |         3 |   1        |
 | Massy                      |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.666667 |
 | Racing 92                  |         2 |   0        |
 | Montpellier Herault        |         2 |   0        |
 | Stade Toulousain           |         2 |   0        |
 | US Bressane                |         2 |   0.5      |
-| Nevers                     |         2 |   1        |
 | Agen                       |         2 |   0.5      |
 | Albi                       |         2 |   0        |
 | Dax                        |         2 |   1        |

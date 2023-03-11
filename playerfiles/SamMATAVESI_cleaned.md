@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam MATAVESI  
-date: 2023-03-09 10:07:26.693614  
+date: 2023-03-11 00:15:05.512531  
 categories: player  
 ---
 # Sam MATAVESI
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            60 |   0.45     |
+| Northampton Saints |            61 |   0.442623 |
 | Cornish Pirates    |            28 |   0.464286 |
 | Fiji               |            19 |   0.394737 |
 | Stade Toulousain   |             3 |   1        |
@@ -50,23 +50,23 @@ categories: player
 | Tonga               |         2 |   1        |
 | Richmond            |         2 |   1        |
 | Ulster              |         2 |   0        |
-| Wales               |         2 |   0        |
 | New Zealand Maori   |         2 |   0.5      |
+| Wales               |         2 |   0        |
 | New Zealand         |         2 |   0        |
 | Yorkshire Carnegie  |         2 |   0.5      |
+| Coventry            |         2 |   0.5      |
 | Bedford             |         2 |   0        |
 | Georgia             |         2 |   0.75     |
 | Ealing Trailfinders |         2 |   0        |
 | Leinster            |         2 |   0        |
 | Doncaster           |         2 |   1        |
-| Coventry            |         2 |   0.5      |
 | Australia           |         1 |   0        |
-| Spain               |         1 |   1        |
 | Benetton Treviso    |         1 |   1        |
 | Bordeaux Begles     |         1 |   0        |
 | Uruguay             |         1 |   0        |
 | Castres Olympique   |         1 |   1        |
 | Clermont Auvergne   |         1 |   1        |
+| Spain               |         1 |   1        |
 | Samoa               |         1 |   0        |
 | Rotherham Titans    |         1 |   0        |
 | Romania             |         1 |   1        |
@@ -74,4 +74,5 @@ categories: player
 | Racing 92           |         1 |   0        |
 | Perpignan           |         1 |   1        |
 | Ireland             |         1 |   0        |
+| La Rochelle         |         1 |   0        |
 | Ampthill            |         1 |   1        |

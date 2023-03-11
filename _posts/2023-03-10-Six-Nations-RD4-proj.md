@@ -95,6 +95,8 @@ Simulation Prediction: Ireland by 5.5
 | Ireland 4 Try Bonus Point (BETA) | 16.1% |
 | Scotland 4 Try Bonus Point (BETA) | 2.8% |
 
+EDIT (3/11)
+Lineup model is saying Ireland by 8.5, which makes sense as it's been liking Ireland. Rightly. So maybe a strong Ireland win without a Scotland bonus point, which would pretty much determine the final outcomes.
 
 # Simulation for the Next Two Weeks
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Schalk ERASMUS  
-date: 2023-03-09 10:10:57.686300  
+date: 2023-03-11 00:11:14.199011  
 categories: player  
 ---
 # Schalk ERASMUS
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

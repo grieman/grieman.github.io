@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibault De Freitas  
-date: 2023-03-09 10:11:12.209796  
+date: 2023-03-11 00:14:53.016018  
 categories: player  
 ---
 # Thibault De Freitas
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 108.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 

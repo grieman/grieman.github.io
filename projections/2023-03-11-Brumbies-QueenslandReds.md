@@ -9,7 +9,7 @@ categories: match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.787, which translates to predicting Brumbies to win by 11.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.787, which translates to predicting Brumbies to win by 11.5.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -38,14 +38,14 @@ Brumbies by 9.9 on a neutral field
 | Away Player                                                     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                     |
 |:----------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------|
 | [Dane Zander](..//playerfiles//DaneZander_cleaned.md)           |      97.52 |                60 |        1 |                77 |     102.98 | [James Slipper](..//playerfiles//JamesSlipper_cleaned.md)       |
-| [Matt Faessler](..//playerfiles//MattFaessler_cleaned.md)       |      96.43 |                57 |        2 |                73 |     101.71 | [Lachlan Lonergan](..//playerfiles//LachlanLonergan_cleaned.md) |
-| [Ryan Smith](..//playerfiles//RyanSmith_cleaned.md)             |      94.37 |                48 |        4 |                81 |     107.75 | [Nick Frost](..//playerfiles//NickFrost_cleaned.md)             |
-| [Seru Uru](..//playerfiles//SeruUru_cleaned.md)                 |      96.53 |                54 |        5 |                73 |     103.86 | [Cadeyrn Neville](..//playerfiles//CadeyrnNeville_cleaned.md)   |
-| [Liam Wright](..//playerfiles//LiamWright_cleaned.md)           |     105.22 |                77 |        6 |                81 |     107.75 | [Rob Valetini](..//playerfiles//RobValetini_cleaned.md)         |
-| [Fraser McReight](..//playerfiles//FraserMcReight_cleaned.md)   |      96.53 |                55 |        7 |                76 |     104.62 | [Rory Scott](..//playerfiles//RoryScott_cleaned.md)             |
-| [Harry Wilson](..//playerfiles//HarryWilson_cleaned.md)         |      96.53 |                51 |        8 |                81 |     107.75 | [Pete Samu](..//playerfiles//PeteSamu_cleaned.md)               |
-| [Filipo Daugunu](..//playerfiles//FilipoDaugunu_cleaned.md)     |      95.84 |                52 |       11 |                83 |     107.75 | [Corey Toole](..//playerfiles//CoreyToole_cleaned.md)           |
-| [Josh Flook](..//playerfiles//JoshFlook_cleaned.md)             |      96.53 |                54 |       13 |                78 |     105.18 | [Len Ikitau](..//playerfiles//LenIkitau_cleaned.md)             |
-| [Suliasi Vunivalu](..//playerfiles//SuliasiVunivalu_cleaned.md) |     102.54 |                71 |       14 |                83 |     107.75 | [Andy Muirhead](..//playerfiles//AndyMuirhead_cleaned.md)       |
+| [Matt Faessler](..//playerfiles//MattFaessler_cleaned.md)       |      96.43 |                57 |        2 |                74 |     101.71 | [Lachlan Lonergan](..//playerfiles//LachlanLonergan_cleaned.md) |
+| [Ryan Smith](..//playerfiles//RyanSmith_cleaned.md)             |      94.37 |                47 |        4 |                82 |     107.75 | [Nick Frost](..//playerfiles//NickFrost_cleaned.md)             |
+| [Seru Uru](..//playerfiles//SeruUru_cleaned.md)                 |      96.53 |                55 |        5 |                74 |     103.87 | [Cadeyrn Neville](..//playerfiles//CadeyrnNeville_cleaned.md)   |
+| [Liam Wright](..//playerfiles//LiamWright_cleaned.md)           |     105.22 |                78 |        6 |                82 |     107.75 | [Rob Valetini](..//playerfiles//RobValetini_cleaned.md)         |
+| [Fraser McReight](..//playerfiles//FraserMcReight_cleaned.md)   |      96.53 |                55 |        7 |                77 |     104.62 | [Rory Scott](..//playerfiles//RoryScott_cleaned.md)             |
+| [Harry Wilson](..//playerfiles//HarryWilson_cleaned.md)         |      96.53 |                52 |        8 |                82 |     107.75 | [Pete Samu](..//playerfiles//PeteSamu_cleaned.md)               |
+| [Filipo Daugunu](..//playerfiles//FilipoDaugunu_cleaned.md)     |      95.84 |                52 |       11 |                84 |     107.75 | [Corey Toole](..//playerfiles//CoreyToole_cleaned.md)           |
+| [Josh Flook](..//playerfiles//JoshFlook_cleaned.md)             |      96.53 |                53 |       13 |                78 |     105.18 | [Len Ikitau](..//playerfiles//LenIkitau_cleaned.md)             |
+| [Suliasi Vunivalu](..//playerfiles//SuliasiVunivalu_cleaned.md) |     102.54 |                72 |       14 |                84 |     107.75 | [Andy Muirhead](..//playerfiles//AndyMuirhead_cleaned.md)       |
 | [Jordan Petaia](..//playerfiles//JordanPetaia_cleaned.md)       |      95.51 |                52 |       15 |                80 |     107.75 | [Tom Wright](..//playerfiles//TomWright_cleaned.md)             |
 

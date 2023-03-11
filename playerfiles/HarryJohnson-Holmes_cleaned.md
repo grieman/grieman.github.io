@@ -1,0 +1,54 @@
+---  
+layout: page  
+title: Harry Johnson-Holmes  
+date: 2023-03-11 00:15:50.414809  
+categories: player  
+---
+# Harry Johnson-Holmes
+
+## Positions: P
+
+## Country: Australia
+
+## Current elo: 78.0
+
+## Current Percentile: 10.0
+
+# Elo History
+
+
+![elo history](history_HarryJohnson-Holmes.png)
+# Match History
+
+
+| Team                     |   Appearances |   Win Rate |
+|:-------------------------|--------------:|-----------:|
+| New South Wales Waratahs |            69 |   0.398551 |
+| NSW Country Eagles       |            16 |   0.3125   |
+| Australia                |             1 |   0        |
+
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Brumbies            |        10 |   0.1      |
+| Queensland Reds     |        10 |   0.5      |
+| Melbourne Rebels    |        10 |   0.6      |
+| Western Force       |         8 |   0.625    |
+| Fijian Drua         |         5 |   0.5      |
+| Sunwolves           |         4 |   0.75     |
+| Lions               |         4 |   0.25     |
+| Blues               |         4 |   0        |
+| Crusaders           |         4 |   0.5      |
+| Chiefs              |         4 |   0        |
+| Highlanders         |         3 |   0.666667 |
+| Brisbane City       |         3 |   0.166667 |
+| Hurricanes          |         2 |   0        |
+| Melbourne Rising    |         2 |   0.5      |
+| Queensland Country  |         2 |   0        |
+| Canberra Vikings    |         2 |   0.5      |
+| Sharks              |         2 |   0.25     |
+| Jaguares            |         2 |   0        |
+| Greater Sydney Rams |         1 |   0        |
+| South Africa        |         1 |   0        |
+| Stormers            |         1 |   1        |
+| Bulls               |         1 |   0        |
+| Sydney Rays         |         1 |   1        |

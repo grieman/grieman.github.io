@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sylvère RETEAU  
-date: 2023-03-09 10:07:10.461172  
+date: 2023-03-11 00:12:36.439088  
 categories: player  
 ---
 # Sylvère RETEAU
 
 ## Positions: C, SH
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 59.0
+## Current Percentile: 61.0
 
 # Elo History
 

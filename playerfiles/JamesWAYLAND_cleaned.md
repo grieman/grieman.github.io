@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James WAYLAND  
-date: 2023-03-09 10:13:54.990853  
+date: 2023-03-11 00:11:26.077102  
 categories: player  
 ---
 # James WAYLAND
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 69.0
+## Current Percentile: 68.0
 
 # Elo History
 

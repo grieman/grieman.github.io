@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin WILLIAMS  
-date: 2023-03-09 10:09:09.721245  
+date: 2023-03-11 00:12:11.311203  
 categories: player  
 ---
 # Robin WILLIAMS
 
 ## Positions: L
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 

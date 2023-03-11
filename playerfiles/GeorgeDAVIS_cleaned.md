@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: George DAVIS  
-date: 2023-03-09 10:10:16.133901  
+date: 2023-03-11 00:15:30.090802  
 categories: player  
 ---
 # George DAVIS
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 95.0
 
 ## Current Percentile: 60.0
 

@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Jersey by 11.8
+## Prediction with Player Minutes: Jersey by 9.3
 
 
-Jersey by 7.8 on a neutral field
+Jersey by 5.3 on a neutral field
 ## Scores over Time
 
 
@@ -42,29 +42,29 @@ Jersey by 7.8 on a neutral field
 ![In Match Predictions](plots/recap_prob_2023-03-04-Jersey-Caldy.png)
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Jersey by 11.8
+## Prediction without Player Minutes: Jersey by 9.3
 
 
-Jersey by 7.8 on a neutral pitch
+Jersey by 5.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                                                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                          |   Home Minutes |
 |---------------:|:------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------------------------------------------------------------------|---------------:|
-|             80 | [Adam Aigbokhae](..//playerfiles//AdamAigbokhae_cleaned.md)       |     106.43 |                85 |        1 |                92 |     114.48 | [Samuel Alexander Grahamslaw](..//playerfiles//SamuelAlexanderGrahamslaw_cleaned.md) |             80 |
-|             80 | [Oliver Hearn](..//playerfiles//OliverHearn_cleaned.md)           |     110.8  |                89 |        2 |                85 |     106.86 | [Eoghan Clarke](..//playerfiles//EoghanClarke_cleaned.md)                            |             80 |
-|             80 | [Andrew Darlington](..//playerfiles//AndrewDarlington_cleaned.md) |      46.06 |                 1 |        3 |                90 |     111.31 | [Steven Longwell](..//playerfiles//StevenLongwell_cleaned.md)                        |             80 |
-|             80 | [Andrew Darlington](..//playerfiles//AndrewDarlington_cleaned.md) |      46.06 |                 1 |        3 |                90 |     111.31 | [Steven Longwell](..//playerfiles//StevenLongwell_cleaned.md)                        |             80 |
-|             80 | [Sam Dickinson](..//playerfiles//SamDickinson_cleaned.md)         |     119.29 |                93 |        4 |                95 |     122.95 | [Sean O'Connor](..//playerfiles//SeanO'Connor_cleaned.md)                            |             80 |
-|             80 | [Thomas Sanders](..//playerfiles//ThomasSanders_cleaned.md)       |     104.05 |                74 |        5 |                89 |     113.69 | [Macauley Cook](..//playerfiles//MacauleyCook_cleaned.md)                            |             80 |
-|             80 | [Harrison Crowe](..//playerfiles//HarrisonCrowe_cleaned.md)       |      94.32 |                47 |        6 |                72 |     102.49 | [Tim Grey](..//playerfiles//TimGrey_cleaned.md)                                      |             80 |
-|             80 | [Callum Ridgway](..//playerfiles//CallumRidgway_cleaned.md)       |     108.61 |                83 |        7 |                73 |     103.9  | [Lewis Wynne](..//playerfiles//LewisWynne_cleaned.md)                                |             80 |
-|             80 | [Josiah Dickinson](..//playerfiles//JosiahDickinson_cleaned.md)   |      99.89 |                63 |        8 |                43 |      93.25 | [James Andrew Dun](..//playerfiles//JamesAndrewDun_cleaned.md)                       |             80 |
-|             80 | [Chris Pilgrim](..//playerfiles//ChrisPilgrim_cleaned.md)         |     113.14 |                91 |        9 |                78 |     104.91 | [James Mitchell](..//playerfiles//JamesMitchell_cleaned.md)                          |             80 |
-|             80 | [Rhys Hayes](..//playerfiles//RhysHayes_cleaned.md)               |     104.05 |                73 |       10 |                75 |     105.15 | [Russell Bennett](..//playerfiles//RussellBennett_cleaned.md)                        |             80 |
-|             80 | [Michael Cartmill](..//playerfiles//MichaelCartmill_cleaned.md)   |      93.58 |                36 |       11 |                67 |     101.58 | [Tomi Lewis](..//playerfiles//TomiLewis_cleaned.md)                                  |             80 |
-|             80 | [Michael Barlow](..//playerfiles//MichaelBarlow_cleaned.md)       |     112.95 |                89 |       12 |                98 |     132.61 | [Dan Barnes](..//playerfiles//DanBarnes_cleaned.md)                                  |             80 |
-|             80 | [Dan Bibby](..//playerfiles//DanBibby_cleaned.md)                 |     102.44 |                72 |       13 |                79 |     105.21 | [Alex McHenry](..//playerfiles//AlexMcHenry_cleaned.md)                              |             80 |
-|             80 | [Nick Royle](..//playerfiles//NickRoyle_cleaned.md)               |     108.76 |                84 |       14 |                69 |     101.64 | [Ben Woollett](..//playerfiles//BenWoollett_cleaned.md)                              |             80 |
-|             80 | [Elliott Gourlay](..//playerfiles//ElliottGourlay_cleaned.md)     |     113.79 |                87 |       15 |                51 |      95.83 | [Brendan Owen](..//playerfiles//BrendanOwen_cleaned.md)                              |             80 |
+|             80 | [Adam Aigbokhae](..//playerfiles//AdamAigbokhae_cleaned.md)       |     108.75 |                87 |        1 |                88 |     110.09 | [Samuel Alexander Grahamslaw](..//playerfiles//SamuelAlexanderGrahamslaw_cleaned.md) |             80 |
+|             80 | [Oliver Hearn](..//playerfiles//OliverHearn_cleaned.md)           |     112.69 |                91 |        2 |                85 |     106.52 | [Eoghan Clarke](..//playerfiles//EoghanClarke_cleaned.md)                            |             80 |
+|             80 | [Andrew Darlington](..//playerfiles//AndrewDarlington_cleaned.md) |      45.92 |                 1 |        3 |                88 |     110.35 | [Steven Longwell](..//playerfiles//StevenLongwell_cleaned.md)                        |             80 |
+|             80 | [Andrew Darlington](..//playerfiles//AndrewDarlington_cleaned.md) |      45.92 |                 1 |        3 |                88 |     110.35 | [Steven Longwell](..//playerfiles//StevenLongwell_cleaned.md)                        |             80 |
+|             80 | [Sam Dickinson](..//playerfiles//SamDickinson_cleaned.md)         |     113.25 |                88 |        4 |                90 |     115.62 | [Sean O'Connor](..//playerfiles//SeanO'Connor_cleaned.md)                            |             80 |
+|             80 | [Thomas Sanders](..//playerfiles//ThomasSanders_cleaned.md)       |     105.9  |                78 |        5 |                86 |     111.33 | [Macauley Cook](..//playerfiles//MacauleyCook_cleaned.md)                            |             80 |
+|             80 | [Harrison Crowe](..//playerfiles//HarrisonCrowe_cleaned.md)       |      94.59 |                48 |        6 |                73 |     102.83 | [Tim Grey](..//playerfiles//TimGrey_cleaned.md)                                      |             80 |
+|             80 | [Callum Ridgway](..//playerfiles//CallumRidgway_cleaned.md)       |     110.23 |                85 |        7 |                81 |     107.98 | [Lewis Wynne](..//playerfiles//LewisWynne_cleaned.md)                                |             80 |
+|             80 | [Josiah Dickinson](..//playerfiles//JosiahDickinson_cleaned.md)   |     103.18 |                72 |        8 |                53 |      96.23 | [James Andrew Dun](..//playerfiles//JamesAndrewDun_cleaned.md)                       |             80 |
+|             80 | [Chris Pilgrim](..//playerfiles//ChrisPilgrim_cleaned.md)         |     110.07 |                87 |        9 |                72 |     101.96 | [James Mitchell](..//playerfiles//JamesMitchell_cleaned.md)                          |             80 |
+|             80 | [Rhys Hayes](..//playerfiles//RhysHayes_cleaned.md)               |     105.58 |                77 |       10 |                64 |     100.16 | [Russell Bennett](..//playerfiles//RussellBennett_cleaned.md)                        |             80 |
+|             80 | [Michael Cartmill](..//playerfiles//MichaelCartmill_cleaned.md)   |      95.29 |                40 |       11 |                73 |     103.61 | [Tomi Lewis](..//playerfiles//TomiLewis_cleaned.md)                                  |             80 |
+|             80 | [Michael Barlow](..//playerfiles//MichaelBarlow_cleaned.md)       |     114.12 |                90 |       12 |                98 |     133.92 | [Dan Barnes](..//playerfiles//DanBarnes_cleaned.md)                                  |             80 |
+|             80 | [Dan Bibby](..//playerfiles//DanBibby_cleaned.md)                 |     103.97 |                75 |       13 |                82 |     107.7  | [Alex McHenry](..//playerfiles//AlexMcHenry_cleaned.md)                              |             80 |
+|             80 | [Nick Royle](..//playerfiles//NickRoyle_cleaned.md)               |     110.94 |                86 |       14 |                56 |      97.26 | [Ben Woollett](..//playerfiles//BenWoollett_cleaned.md)                              |             80 |
+|             80 | [Elliott Gourlay](..//playerfiles//ElliottGourlay_cleaned.md)     |     115.96 |                89 |       15 |                57 |      98.34 | [Brendan Owen](..//playerfiles//BrendanOwen_cleaned.md)                              |             80 |
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tornike JALAGONIA  
-date: 2023-03-09 10:10:13.903270  
+date: 2023-03-11 00:14:04.533678  
 categories: player  
 ---
 # Tornike JALAGONIA
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Georgia
 
-## Current elo: 105.0
+## Current elo: 106.0
 
-## Current Percentile: 66.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            42 |   0.464286 |
+| Biarritz Olympique |            43 |   0.476744 |
 | Georgia            |            15 |   0.733333 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,20 +32,20 @@ categories: player
 | Vannes               |         3 |   0.666667 |
 | Perpignan            |         3 |   0        |
 | Carcassonne          |         3 |   0.666667 |
-| Stade Francais Paris |         2 |   0.5      |
+| Soyaux-Angouleme     |         2 |   1        |
 | Romania              |         2 |   1        |
 | Rouen                |         2 |   0.5      |
 | Russia               |         2 |   1        |
 | Montauban            |         2 |   1        |
 | Mont-de-Marsan       |         2 |   0        |
 | Grenoble             |         2 |   0.75     |
+| Stade Francais Paris |         2 |   0.5      |
 | Colomiers            |         2 |   1        |
 | Toulon               |         2 |   0        |
 | Brive                |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
 | Racing 92            |         1 |   1        |
 | Spain                |         1 |   1        |
-| Soyaux-Angouleme     |         1 |   1        |
 | Stade Toulousain     |         1 |   0        |
 | South Africa         |         1 |   0        |
 | Samoa                |         1 |   0        |

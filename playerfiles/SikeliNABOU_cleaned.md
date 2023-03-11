@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sikeli NABOU  
-date: 2023-03-09 10:11:02.211895  
+date: 2023-03-11 00:14:21.649280  
 categories: player  
 ---
 # Sikeli NABOU
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Fiji
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 84.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Soyaux-Angouleme   |            65 |   0.530769 |
+| Soyaux-Angouleme   |            66 |   0.522727 |
 | Biarritz Olympique |            64 |   0.515625 |
 | Counties Manukau   |            43 |   0.395349 |
 | Fiji               |             4 |   0.5      |
@@ -53,18 +53,18 @@ categories: player
 | Rouen                      |         4 |   0.25     |
 | Agen                       |         4 |   0.5      |
 | Wellington                 |         4 |   0.25     |
-| Bourgoin-Jallieu           |         4 |   1        |
 | Carcassonne                |         4 |   0.375    |
-| Bay of Plenty              |         3 |   0.333333 |
-| Bayonne                    |         3 |   1        |
-| Northland                  |         3 |   0.666667 |
-| Biarritz Olympique         |         3 |   0        |
+| Bourgoin-Jallieu           |         4 |   1        |
+| Biarritz Olympique         |         4 |   0        |
 | Waikato                    |         3 |   0.666667 |
+| Bay of Plenty              |         3 |   0.333333 |
+| Northland                  |         3 |   0.666667 |
 | Albi                       |         3 |   1        |
+| Bayonne                    |         3 |   1        |
 | Manawatu                   |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Nice                       |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
-| Cognac Saint Jean d'Angély |         2 |   1        |
 | Taranaki                   |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | North Harbour              |         2 |   0        |

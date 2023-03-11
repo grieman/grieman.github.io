@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nugzar SOMKHISHVILI  
-date: 2023-03-09 10:09:42.101401  
+date: 2023-03-11 00:12:22.688880  
 categories: player  
 ---
 # Nugzar SOMKHISHVILI
 
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            13 |   0.5      |
+| Bourgoin-Jallieu |            14 |   0.535714 |
 | Carcassonne      |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,6 +29,7 @@ categories: player
 | Dax                        |         2 |       0.5  |
 | Mont-de-Marsan             |         2 |       0    |
 | Narbonne                   |         2 |       0.5  |
+| Tarbes                     |         2 |       0.5  |
 | US Bressane                |         2 |       0.5  |
 | Valence Romans Drome Rugby |         2 |       0.25 |
 | Chambery                   |         1 |       1    |
@@ -39,5 +40,4 @@ categories: player
 | Provence Rugby             |         1 |       1    |
 | Rennes                     |         1 |       1    |
 | Suresnes                   |         1 |       0    |
-| Tarbes                     |         1 |       0    |
 | Vannes                     |         1 |       0    |

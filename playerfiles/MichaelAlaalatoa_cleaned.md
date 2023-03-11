@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2023-03-09 10:07:50.207297  
+date: 2023-03-11 00:16:25.417226  
 categories: player  
 ---
 # Michael Alaalatoa
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Crusaders                |            96 |   0.854167 |
 | Manawatu                 |            36 |   0.333333 |
-| Leinster                 |            27 |   0.814815 |
+| Leinster                 |            28 |   0.821429 |
 | Samoa                    |            13 |   0.461538 |
 | NSW Country Eagles       |             9 |   0.666667 |
 | New South Wales Waratahs |             1 |   1        |
@@ -83,6 +83,7 @@ categories: player
 | Melbourne Rising         |         1 |   0        |
 | Russia                   |         1 |   1        |
 | Romania                  |         1 |   1        |
+| Racing 92                |         1 |   1        |
 | Queensland Country       |         1 |   1        |
 | Perth Spirit             |         1 |   1        |
 | Greater Sydney Rams      |         1 |   1        |

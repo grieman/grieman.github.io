@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sosefo Tapu Falatea  
-date: 2023-03-09 10:11:16.663820  
+date: 2023-03-11 00:13:26.392811  
 categories: player  
 ---
 # Sosefo Tapu Falatea
 
 ## Positions: 
 
-## Current elo: 98.0
+## Current elo: 103.0
 
 ## Current Percentile: None
 
@@ -17,13 +17,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |             7 |   0.642857 |
+| Nevers |             6 |       0.75 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
-| Carcassonne    |         2 |        0.5 |
 | Agen           |         1 |        1   |
 | Beziers        |         1 |        0.5 |
+| Carcassonne    |         1 |        1   |
 | Mont-de-Marsan |         1 |        1   |
 | Provence Rugby |         1 |        0   |
 | Vannes         |         1 |        1   |

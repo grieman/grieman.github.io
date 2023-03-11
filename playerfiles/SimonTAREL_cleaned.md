@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon TAREL  
-date: 2023-03-09 10:10:26.892889  
+date: 2023-03-11 00:16:41.726993  
 categories: player  
 ---
 # Simon TAREL
 
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 84.0
 
-## Current Percentile: 66.0
+## Current Percentile: 43.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-03-09 10:10:53.252230  
+date: 2023-03-11 00:13:01.218732  
 categories: player  
 ---
 # Syuhei TAKEUCHI

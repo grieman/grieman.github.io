@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen VARNEY  
-date: 2023-03-09 10:10:45.633109  
+date: 2023-03-11 00:12:19.280331  
 categories: player  
 ---
 # Stephen VARNEY
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 79.0
 
-## Current Percentile: 14.0
+## Current Percentile: 15.0
 
 # Elo History
 

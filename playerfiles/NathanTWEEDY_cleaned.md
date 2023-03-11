@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan TWEEDY  
-date: 2023-03-09 10:08:30.113751  
+date: 2023-03-11 00:14:19.274418  
 categories: player  
 ---
 # Nathan TWEEDY
 
 ## Positions: FL
 
-## Current elo: 95.0
+## Current elo: 97.0
 
-## Current Percentile: 78.0
+## Current Percentile: 86.0
 
 # Elo History
 

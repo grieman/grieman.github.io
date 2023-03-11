@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Wandisile SIMELANE  
-date: 2023-03-09 10:12:55.730908  
+date: 2023-03-11 00:15:19.665945  
 categories: player  
 ---
 # Wandisile SIMELANE
 
 ## Positions: C, FB
 
-## Current elo: 109.0
+## Current elo: 111.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Golden Lions |            29 |   0.568966 |
 | Lions        |            25 |   0.44     |
-| Bulls        |             5 |   0.8      |
+| Bulls        |             6 |   0.833333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,6 +41,7 @@ categories: player
 | Munster                  |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
 | Jaguares                 |         2 |   1        |
+| Lyon                     |         1 |   1        |
 | Lions                    |         1 |   1        |
 | Leinster                 |         1 |   0        |
 | New South Wales Waratahs |         1 |   0        |

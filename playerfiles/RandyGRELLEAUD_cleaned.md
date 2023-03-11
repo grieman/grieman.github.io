@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Randy GRELLEAUD  
-date: 2023-03-09 10:11:09.981858  
+date: 2023-03-11 00:15:45.135689  
 categories: player  
 ---
 # Randy GRELLEAUD
 
 ## Positions: H
 
-## Current elo: 98.0
+## Current elo: 97.0
 
-## Current Percentile: 70.0
+## Current Percentile: 71.0
 
 # Elo History
 

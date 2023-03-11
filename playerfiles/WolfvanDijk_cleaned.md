@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wolf Van Dijk  
-date: 2023-03-09 10:09:25.246052  
+date: 2023-03-11 00:11:53.577796  
 categories: player  
 ---
 # Wolf Van Dijk
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 76.0
 
-## Current Percentile: 8.0
+## Current Percentile: 7.0
 
 # Elo History
 

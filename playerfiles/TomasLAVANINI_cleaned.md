@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Lavanini  
-date: 2023-03-09 10:10:41.182742  
+date: 2023-03-11 00:15:22.182287  
 categories: player  
 ---
 # Tomas Lavanini
@@ -26,7 +26,7 @@ categories: player
 | Argentina         |            77 |   0.266234 |
 | Jaguares          |            48 |   0.520833 |
 | Leicester Tigers  |            36 |   0.486111 |
-| Clermont Auvergne |            15 |   0.366667 |
+| Clermont Auvergne |            16 |   0.40625  |
 | Racing 92         |            10 |   0.45     |
 | Hindu             |             8 |   0.875    |
 
@@ -37,13 +37,13 @@ categories: player
 | New Zealand              |        11 |  0.0909091 |
 | Lions                    |         7 |  0.285714  |
 | Wales                    |         6 |  0.25      |
+| Stormers                 |         6 |  0.5       |
 | Ireland                  |         6 |  0.166667  |
 | Scotland                 |         6 |  0.166667  |
 | France                   |         5 |  0.2       |
 | Bulls                    |         5 |  0.8       |
 | Sale Sharks              |         5 |  0.2       |
 | Sharks                   |         5 |  0.6       |
-| Stormers                 |         5 |  0.4       |
 | England                  |         5 |  0.2       |
 | Brumbies                 |         4 |  0.75      |
 | Italy                    |         4 |  1         |

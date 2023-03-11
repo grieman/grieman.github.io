@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Mateu  
-date: 2023-03-09 10:11:39.696315  
+date: 2023-03-11 00:11:58.051047  
 categories: player  
 ---
 # Inaki Mateu
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 41.0
+## Current Percentile: 42.0
 
 # Elo History
 

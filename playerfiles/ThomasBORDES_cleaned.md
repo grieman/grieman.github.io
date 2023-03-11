@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas BORDES  
-date: 2023-03-09 10:08:55.021762  
+date: 2023-03-11 00:11:13.043014  
 categories: player  
 ---
 # Thomas BORDES
 
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 29.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Massy          |            59 |   0.322034 |
-| Suresnes       |            31 |   0.451613 |
+| Suresnes       |            32 |   0.4375   |
 | Mont-de-Marsan |            25 |   0.28     |
 | Oyonnax        |            22 |   0.318182 |
 | Lyon           |             7 |   1        |
@@ -34,14 +34,14 @@ categories: player
 | Beziers                    |         6 |   0.333333 |
 | Soyaux-Angouleme           |         6 |   0.25     |
 | Mont-de-Marsan             |         6 |   0.5      |
+| Narbonne                   |         5 |   0.4      |
 | US Bressane                |         5 |   0.4      |
 | Tarbes                     |         5 |   0.8      |
-| Montauban                  |         5 |   0        |
+| Blagnac                    |         5 |   0.4      |
 | Grenoble                   |         5 |   0.2      |
-| Narbonne                   |         5 |   0.4      |
-| Nice                       |         4 |   0.25     |
+| Montauban                  |         5 |   0        |
 | Agen                       |         4 |   0.25     |
-| Blagnac                    |         4 |   0.5      |
+| Nice                       |         4 |   0.25     |
 | Bayonne                    |         4 |   0        |
 | Nevers                     |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0        |

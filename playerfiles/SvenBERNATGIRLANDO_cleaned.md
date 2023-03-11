@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sven BERNAT GIRLANDO  
-date: 2023-03-09 10:09:29.796220  
+date: 2023-03-11 00:16:31.000626  
 categories: player  
 ---
 # Sven BERNAT GIRLANDO
 
 ## Positions: FL, N8
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 38.0
+## Current Percentile: 36.0
 
 # Elo History
 

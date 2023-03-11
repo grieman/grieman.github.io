@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-03-09 10:07:23.966711  
+date: 2023-03-11 00:14:48.528707  
 categories: player  
 ---
 # Romain SAZY
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           318 |   0.584906 |
+| La Rochelle |           319 |   0.586207 |
 | Montauban   |            20 |   0.15     |
 
 | Opponent               |   Matches |   Win Rate |
@@ -59,20 +59,21 @@ categories: player
 | Mont-de-Marsan         |         3 |   0.666667 |
 | Bristol Rugby          |         3 |   0.666667 |
 | Sale Sharks            |         3 |   0.666667 |
-| Glasgow Warriors       |         2 |   1        |
-| Massy                  |         2 |   1        |
-| Worcester Warriors     |         2 |   0.5      |
-| Wasps                  |         2 |   0.5      |
-| US Bressane            |         2 |   1        |
-| Exeter Chiefs          |         2 |   0        |
 | Leinster               |         2 |   1        |
+| Exeter Chiefs          |         2 |   0        |
+| Worcester Warriors     |         2 |   0.5      |
 | Périgueux              |         2 |   0.5      |
+| Wasps                  |         2 |   0.5      |
+| Massy                  |         2 |   1        |
+| US Bressane            |         2 |   1        |
+| Glasgow Warriors       |         2 |   1        |
+| Benetton Treviso       |         1 |   1        |
+| Ulster                 |         1 |   1        |
+| Bath Rugby             |         1 |   1        |
+| Harlequins             |         1 |   1        |
+| Newcastle Falcons      |         1 |   0        |
 | Scarlets               |         1 |   0        |
 | Edinburgh              |         1 |   1        |
-| Newcastle Falcons      |         1 |   0        |
-| Benetton Treviso       |         1 |   1        |
-| Bath Rugby             |         1 |   1        |
 | RC Enisei              |         1 |   1        |
-| Ulster                 |         1 |   1        |
 | Enisey-STM Krasnoyarsk |         1 |   1        |
-| Harlequins             |         1 |   1        |
+| Northampton Saints     |         1 |   1        |

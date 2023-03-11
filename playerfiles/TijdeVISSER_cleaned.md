@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tijde VISSER  
-date: 2023-03-09 10:09:00.904922  
+date: 2023-03-11 00:11:49.158980  
 categories: player  
 ---
 # Tijde VISSER
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 89.0
 
-## Current Percentile: 42.0
+## Current Percentile: 33.0
 
 # Elo History
 

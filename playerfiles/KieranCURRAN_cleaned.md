@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kieran CURRAN  
-date: 2023-03-09 10:11:01.128134  
+date: 2023-03-11 00:11:07.073399  
 categories: player  
 ---
 # Kieran CURRAN
 
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 56.0
+## Current Percentile: 53.0
 
 # Elo History
 
