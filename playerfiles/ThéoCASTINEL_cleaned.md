@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Théo CASTINEL  
-date: 2023-03-11 00:11:16.566178  
+date: 2023-03-12 11:32:52.510063  
 categories: player  
 ---
 # Théo CASTINEL
 
 ## Positions: P
 
-## Current elo: 116.0
+## Current elo: 114.0
 
 ## Current Percentile: 94.0
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            60 |   0.475    |
-| Narbonne       |            26 |   0.384615 |
+| Mont-de-Marsan |            60 |    0.475   |
+| Narbonne       |            27 |    0.37037 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,25 +34,26 @@ categories: player
 | Nevers                     |         4 |   0.25     |
 | Vannes                     |         4 |   0.125    |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
-| Carcassonne                |         3 |   0.333333 |
-| Valence Romans Drome Rugby |         3 |   0.166667 |
-| Colomiers                  |         3 |   0.333333 |
 | US Bressane                |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
-| Perpignan                  |         3 |   0        |
+| Colomiers                  |         3 |   0.333333 |
 | Biarritz Olympique         |         3 |   0.5      |
+| Perpignan                  |         3 |   0        |
+| Valence Romans Drome Rugby |         3 |   0.166667 |
+| Carcassonne                |         3 |   0.333333 |
 | Suresnes                   |         2 |   1        |
 | Nice                       |         2 |   1        |
+| Agen                       |         2 |   0        |
 | Albi                       |         2 |   0        |
 | Mont-de-Marsan             |         2 |   0        |
-| Agen                       |         2 |   0        |
-| Blagnac                    |         1 |   0.5      |
 | Narbonne                   |         1 |   1        |
-| Bayonne                    |         1 |   0        |
-| Rennes                     |         1 |   1        |
-| Rouen                      |         1 |   1        |
 | Massy                      |         1 |   1        |
 | Grenoble                   |         1 |   0        |
-| Tarbes                     |         1 |   0        |
 | Dax                        |         1 |   0        |
+| Rennes                     |         1 |   1        |
+| Rouen                      |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
+| Chambery                   |         1 |   0        |
+| Tarbes                     |         1 |   0        |
+| Blagnac                    |         1 |   0.5      |
+| Bayonne                    |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ugo SEUNES  
-date: 2023-03-11 00:15:32.350516  
+date: 2023-03-12 11:29:58.086792  
 categories: player  
 ---
 # Ugo SEUNES
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 65.0
+## Current Percentile: 64.0
 
 # Elo History
 

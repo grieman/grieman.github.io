@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry POTTER  
-date: 2023-03-11 00:15:33.423467  
+date: 2023-03-12 11:33:18.022081  
 categories: player  
 ---
 # Harry POTTER
 
 ## Positions: W
 
-## Current elo: 96.0
+## Current elo: 92.0
 
-## Current Percentile: 43.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Leicester Tigers   |            60 |   0.641667 |
+| Leicester Tigers   |            61 |   0.639344 |
 | NSW Country Eagles |             2 |   0        |
 | Melbourne Rising   |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Gloucester Rugby   |         6 |   0.75     |
 | Northampton Saints |         6 |   0.833333 |
 | Bath Rugby         |         5 |   0.4      |
 | Newcastle Falcons  |         5 |   0.8      |
 | Bristol Rugby      |         5 |   0.5      |
-| Gloucester Rugby   |         5 |   0.8      |
 | London Irish       |         5 |   0.8      |
 | Clermont Auvergne  |         4 |   1        |
 | Sale Sharks        |         4 |   0.25     |

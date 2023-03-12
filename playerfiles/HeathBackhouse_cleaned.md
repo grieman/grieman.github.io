@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Heath Backhouse  
-date: 2023-03-11 00:11:15.367836  
+date: 2023-03-12 11:33:30.665944  
 categories: player  
 ---
 # Heath Backhouse
 
 ## Positions: L
 
-## Current elo: 96.0
+## Current elo: 99.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Albi               |            31 |   0.66129  |
+| Albi               |            32 |   0.671875 |
 | Biarritz Olympique |            22 |   0.522727 |
 | Pumas              |             1 |   1        |
 
@@ -34,6 +34,7 @@ categories: player
 | Suresnes                   |         3 |   0.666667 |
 | Chambery                   |         3 |   1        |
 | Soyaux-Angouleme           |         3 |   0.333333 |
+| Dax                        |         3 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Tarbes                     |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
@@ -42,18 +43,17 @@ categories: player
 | Montauban                  |         2 |   0.5      |
 | Grenoble                   |         2 |   0.75     |
 | Carcassonne                |         2 |   0        |
-| Dax                        |         2 |   1        |
-| Rennes                     |         1 |   1        |
-| Blue Bulls                 |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
-| Roval Drome XV             |         1 |   1        |
-| Rouen                      |         1 |   1        |
-| Colomiers                  |         1 |   0        |
 | Mont-de-Marsan             |         1 |   1        |
-| Perpignan                  |         1 |   0        |
-| Oyonnax                    |         1 |   1        |
+| Beziers                    |         1 |   1        |
 | Nevers                     |         1 |   0        |
 | Dijon                      |         1 |   1        |
-| Beziers                    |         1 |   1        |
+| Oyonnax                    |         1 |   1        |
+| Perpignan                  |         1 |   0        |
+| Colomiers                  |         1 |   0        |
+| Rennes                     |         1 |   1        |
+| Rouen                      |         1 |   1        |
+| Roval Drome XV             |         1 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   0        |
+| Blue Bulls                 |         1 |   1        |
 | Aurillac                   |         1 |   0        |

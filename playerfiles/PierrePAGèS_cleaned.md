@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Pagès  
-date: 2023-03-11 00:11:44.519452  
+date: 2023-03-12 11:31:25.649652  
 categories: player  
 ---
 # Pierre Pagès

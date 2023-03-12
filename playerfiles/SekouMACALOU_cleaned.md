@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sekou MACALOU  
-date: 2023-03-11 00:11:28.366263  
+date: 2023-03-12 11:32:34.878067  
 categories: player  
 ---
 # Sekou MACALOU
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 116.0
 
 ## Current Percentile: None
 
@@ -24,8 +24,8 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           129 |   0.507752 |
+| France               |            14 |   0.75     |
 | Massy                |            14 |   0.285714 |
-| France               |            13 |   0.730769 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -45,22 +45,23 @@ categories: player
 | Bayonne             |         5 |   0.8      |
 | Japan               |         4 |   0.875    |
 | Edinburgh           |         4 |   0.5      |
-| Biarritz Olympique  |         3 |   0.333333 |
 | Grenoble            |         3 |   0.333333 |
+| Biarritz Olympique  |         3 |   0.333333 |
+| Munster             |         2 |   0.5      |
+| Oyonnax             |         2 |   0        |
 | Australia           |         2 |   0.5      |
 | Tarbes              |         2 |   0.5      |
 | Mont-de-Marsan      |         2 |   0.5      |
-| Munster             |         2 |   0.5      |
-| Oyonnax             |         2 |   0        |
-| Georgia             |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
 | Worcester Warriors  |         1 |   0        |
 | Timisoara Saracens  |         1 |   1        |
 | Beziers             |         1 |   1        |
 | South Africa        |         1 |   1        |
 | Scotland            |         1 |   1        |
-| New Zealand         |         1 |   0        |
+| Bristol Rugby       |         1 |   0        |
 | Carcassonne         |         1 |   1        |
+| England             |         1 |   1        |
+| New Zealand         |         1 |   0        |
+| Georgia             |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |
 | Montauban           |         1 |   0        |
 | Colomiers           |         1 |   0        |

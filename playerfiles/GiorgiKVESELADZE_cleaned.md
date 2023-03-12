@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Giorgi KVESELADZE  
-date: 2023-03-11 00:11:21.475700  
+date: 2023-03-12 11:31:44.088367  
 categories: player  
 ---
 # Giorgi KVESELADZE
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 121.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 

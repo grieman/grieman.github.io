@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake GARSIDE  
-date: 2023-03-11 00:11:18.829256  
+date: 2023-03-12 11:31:02.373367  
 categories: player  
 ---
 # Jake GARSIDE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 

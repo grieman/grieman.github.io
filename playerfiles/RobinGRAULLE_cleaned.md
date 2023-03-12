@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robin GRAULLE  
-date: 2023-03-11 00:12:32.865821  
+date: 2023-03-12 11:33:06.177492  
 categories: player  
 ---
 # Robin GRAULLE
 
 ## Positions: SH, W
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 17.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            13 |   0.538462 |
+| US Bressane |            14 |   0.5      |
 | Colomiers   |             9 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -29,14 +29,15 @@ categories: player
 | Vannes                     |         2 |        0   |
 | Nevers                     |         2 |        0.5 |
 | Narbonne                   |         2 |        1   |
-| Mont-de-Marsan             |         1 |        0   |
+| Albi                       |         1 |        0   |
 | US Bressane                |         1 |        0   |
 | Rennes                     |         1 |        1   |
 | Perpignan                  |         1 |        0   |
 | Oyonnax                    |         1 |        1   |
+| Nice                       |         1 |        0   |
 | Montauban                  |         1 |        1   |
 | Agen                       |         1 |        1   |
-| Albi                       |         1 |        0   |
+| Colomiers                  |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Chambery                   |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        0   |
@@ -44,4 +45,4 @@ categories: player
 | Blagnac                    |         1 |        0   |
 | Biarritz Olympique         |         1 |        0   |
 | Beziers                    |         1 |        0   |
-| Colomiers                  |         1 |        1   |
+| Mont-de-Marsan             |         1 |        0   |

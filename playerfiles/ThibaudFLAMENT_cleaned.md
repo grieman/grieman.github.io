@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thibaud FLAMENT  
-date: 2023-03-11 00:12:05.684752  
+date: 2023-03-12 11:34:55.259198  
 categories: player  
 ---
 # Thibaud FLAMENT
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 114.0
+## Current elo: 121.0
 
-## Current Percentile: 84.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |            41 |   0.743902 |
-| France           |            14 |   0.928571 |
+| France           |            15 |   0.933333 |
 | Wasps            |            13 |   0.538462 |
 | Newman           |             3 |   0.333333 |
 
@@ -32,37 +32,37 @@ categories: player
 |:--------------------|----------:|-----------:|
 | La Rochelle         |         7 |   1        |
 | Castres Olympique   |         5 |   0.4      |
-| Clermont Auvergne   |         4 |   0.75     |
 | Brive               |         4 |   1        |
+| Clermont Auvergne   |         4 |   0.75     |
+| Agen                |         3 |   1        |
 | Bordeaux Begles     |         3 |   0.666667 |
 | Toulon              |         3 |   0.333333 |
-| Agen                |         3 |   1        |
-| Biarritz Olympique  |         2 |   1        |
-| Montpellier Herault |         2 |   1        |
-| Munster             |         2 |   0.75     |
-| Scotland            |         2 |   1        |
-| London Irish        |         2 |   0.5      |
-| Gloucester Rugby    |         2 |   0.5      |
 | Ireland             |         2 |   0.5      |
+| Munster             |         2 |   0.75     |
+| Montpellier Herault |         2 |   1        |
+| Lyon                |         2 |   0.5      |
+| London Irish        |         2 |   0.5      |
 | Sale Sharks         |         2 |   0.5      |
 | Japan               |         2 |   1        |
-| Lyon                |         2 |   0.5      |
-| SIC                 |         1 |   0        |
-| Racing 92           |         1 |   1        |
+| Scotland            |         2 |   1        |
+| Gloucester Rugby    |         2 |   0.5      |
+| England             |         2 |   1        |
+| Biarritz Olympique  |         2 |   1        |
 | Saracens            |         1 |   1        |
-| Pau                 |         1 |   1        |
+| Perpignan           |         1 |   0        |
 | South Africa        |         1 |   1        |
 | Ulster              |         1 |   0        |
 | Wales               |         1 |   1        |
 | Wasps               |         1 |   0        |
-| Perpignan           |         1 |   0        |
+| SIC                 |         1 |   0        |
+| Racing 92           |         1 |   1        |
 | Leicester Tigers    |         1 |   0        |
+| Pau                 |         1 |   1        |
 | Northampton Saints  |         1 |   0        |
 | New Zealand         |         1 |   1        |
 | Alumni              |         1 |   0        |
 | Italy               |         1 |   1        |
 | Georgia             |         1 |   1        |
-| England             |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |
 | CUBA                |         1 |   1        |
 | Bath Rugby          |         1 |   1        |

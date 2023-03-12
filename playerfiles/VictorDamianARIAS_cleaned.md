@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Victor Damian ARIAS  
-date: 2023-03-11 00:15:01.008611  
+date: 2023-03-12 11:33:14.619267  
 categories: player  
 ---
 # Victor Damian ARIAS
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 100.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Dax         |            80 |   0.35625  |
 | Montauban   |            43 |   0.523256 |
 | US Bressane |            43 |   0.511628 |
-| Suresnes    |            13 |   0.230769 |
+| Suresnes    |            14 |   0.214286 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -56,9 +56,9 @@ categories: player
 | US Bressane                |         3 |   0.333333 |
 | Auch                       |         3 |   0.833333 |
 | Nice                       |         2 |   0        |
+| Valence Romans Drome Rugby |         2 |   0        |
 | Carqueiranne-Hyères        |         2 |   0.5      |
 | Suresnes                   |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   0        |
 | Blagnac                    |         1 |   1        |
 | Rouen                      |         1 |   0.5      |
 | Rennes                     |         1 |   1        |

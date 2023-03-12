@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tim MENZEL  
-date: 2023-03-11 00:13:24.016251  
+date: 2023-03-12 11:30:37.217263  
 categories: player  
 ---
 # Tim MENZEL
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Germany
 
-## Current elo: 78.0
+## Current elo: 79.0
 
-## Current Percentile: 9.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -23,23 +23,23 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            38 |   0.657895 |
+| Valence Romans Drome Rugby |            39 |   0.666667 |
 | Vannes                     |            24 |   0.583333 |
 | Germany                    |            22 |   0.363636 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Soyaux-Angouleme           |         5 |   0.2      |
+| Suresnes                   |         4 |   1        |
 | Nice                       |         4 |   0.75     |
 | Albi                       |         3 |   0.333333 |
-| Russia                     |         3 |   0        |
+| Romania                    |         3 |   0.333333 |
 | Narbonne                   |         3 |   1        |
 | Dax                        |         3 |   0.333333 |
 | Nevers                     |         3 |   0.666667 |
-| Romania                    |         3 |   0.333333 |
 | Brazil                     |         3 |   1        |
+| Russia                     |         3 |   0        |
 | Blagnac                    |         3 |   0.666667 |
-| Suresnes                   |         3 |   1        |
 | Tarbes                     |         3 |   0.666667 |
 | Kenya                      |         2 |   1        |
 | Rennes                     |         2 |   1        |

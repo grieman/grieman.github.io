@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Runya Choi  
-date: 2023-03-11 00:12:43.116376  
+date: 2023-03-12 11:31:09.882391  
 categories: player  
 ---
 # Runya Choi
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            12 |   0.583333 |
+| Toyota Verblitz |            13 |   0.615385 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -29,6 +29,7 @@ categories: player
 | Tokyo Sungoliath                  |         2 |        0.5 |
 | Black Rams Tokyo                  |         1 |        1   |
 | Green Rockets Tokatsu             |         1 |        1   |
+| Hanazono Kintetsu Liners          |         1 |        1   |
 | Hino Red Dolphins                 |         1 |        1   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        1   |
 | Mitsubishi Dynaboars              |         1 |        1   |

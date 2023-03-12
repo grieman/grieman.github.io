@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Johannes Casper KIRSTEN  
-date: 2023-03-11 00:16:03.288526  
+date: 2023-03-12 11:33:50.295078  
 categories: player  
 ---
 # Johannes Casper KIRSTEN
 
 ## Positions: FL, L
 
-## Current elo: 116.0
+## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            69 |   0.746377 |
+| Exeter Chiefs |            70 |   0.75     |
 | Bulls         |            46 |   0.48913  |
 | Blue Bulls    |            18 |   0.611111 |
 
@@ -40,6 +40,7 @@ categories: player
 | Glasgow Warriors         |         4 |   0.875    |
 | Griquas                  |         4 |   1        |
 | Stormers                 |         4 |   0.25     |
+| Newcastle Falcons        |         4 |   0.75     |
 | Sharks                   |         4 |   0.875    |
 | Jaguares                 |         4 |   0.5      |
 | Worcester Warriors       |         3 |   0.666667 |
@@ -47,7 +48,6 @@ categories: player
 | Free State Cheetahs      |         3 |   0.333333 |
 | Cheetahs                 |         3 |   1        |
 | Wasps                    |         3 |   0.666667 |
-| Newcastle Falcons        |         3 |   0.666667 |
 | Saracens                 |         3 |   0.666667 |
 | Brumbies                 |         2 |   0        |
 | Southern Kings           |         2 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nic SCHONERT  
-date: 2023-03-11 00:13:10.117323  
+date: 2023-03-12 11:34:06.690122  
 categories: player  
 ---
 # Nic SCHONERT
@@ -24,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Worcester Warriors |           109 |   0.334862 |
-| Sale Sharks        |            37 |   0.554054 |
+| Sale Sharks        |            38 |   0.539474 |
 | Griquas            |             7 |   0.142857 |
 | England            |             1 |   0        |
 
@@ -38,8 +38,8 @@ categories: player
 | Leicester Tigers    |        11 |   0.454545 |
 | Gloucester Rugby    |        11 |   0.363636 |
 | Saracens            |        10 |   0.4      |
+| London Irish        |        10 |   0.65     |
 | Newcastle Falcons   |         9 |   0.555556 |
-| London Irish        |         9 |   0.722222 |
 | Exeter Chiefs       |         8 |   0.125    |
 | Bath Rugby          |         8 |   0.5      |
 | Dragons             |         3 |   0        |

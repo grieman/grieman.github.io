@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maurice NWAKOR  
-date: 2023-01-17 11:41:33.283713  
+date: 2023-03-12 11:34:45.874128  
 categories: player  
 ---
 # Maurice NWAKOR
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: 16.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |            17 |  0.0882353 |
+| London Scottish |            18 |  0.0833333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Cornish Pirates     |         3 |       0    |
+| Coventry            |         3 |       0    |
 | Richmond            |         3 |       0    |
-| Coventry            |         2 |       0    |
 | Doncaster           |         2 |       0    |
 | Ealing Trailfinders |         2 |       0    |
 | Hartpury College    |         2 |       0.25 |

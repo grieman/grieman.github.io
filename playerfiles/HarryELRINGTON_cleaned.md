@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry ELRINGTON  
-date: 2023-03-11 00:16:10.448224  
+date: 2023-03-12 11:32:32.209927  
 categories: player  
 ---
 # Harry ELRINGTON
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 89.0
 
-## Current Percentile: 48.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -22,17 +22,17 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | London Irish     |            75 |   0.506667 |
-| Gloucester Rugby |            35 |   0.471429 |
+| Gloucester Rugby |            36 |   0.472222 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Northampton Saints     |         8 |   0.375    |
 | Harlequins             |         7 |   0.357143 |
 | Wasps                  |         7 |   0.428571 |
+| Leicester Tigers       |         6 |   0.25     |
 | Worcester Warriors     |         6 |   0.333333 |
 | Sale Sharks            |         6 |   0.166667 |
 | Exeter Chiefs          |         6 |   0.333333 |
-| Leicester Tigers       |         5 |   0.2      |
 | Bristol Rugby          |         5 |   0.5      |
 | Saracens               |         5 |   0.2      |
 | Bath Rugby             |         5 |   0.2      |

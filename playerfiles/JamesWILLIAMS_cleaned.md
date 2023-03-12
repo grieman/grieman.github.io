@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: James WILLIAMS  
-date: 2023-03-11 00:11:37.528530  
+date: 2023-03-12 11:33:45.921276  
 categories: player  
 ---
 # James WILLIAMS
 
 ## Positions: FH, C
 
-## Current elo: 92.0
+## Current elo: 97.0
 
-## Current Percentile: 19.0
+## Current Percentile: 32.0
 
 # Elo History
 

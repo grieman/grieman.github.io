@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruben (Hobo) Schoeman  
-date: 2023-03-11 00:16:27.699893  
+date: 2023-03-12 11:30:30.535863  
 categories: player  
 ---
 # Ruben (Hobo) Schoeman
 
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 105.0
 
-## Current Percentile: 56.0
+## Current Percentile: 54.0
 
 # Elo History
 

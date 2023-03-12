@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Santiago Arata Perrone  
-date: 2023-03-11 00:15:02.145046  
+date: 2023-03-12 11:30:14.137063  
 categories: player  
 ---
 # Santiago Arata Perrone
 
 ## Positions: SH
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 28.0
+## Current Percentile: 29.0
 
 # Elo History
 

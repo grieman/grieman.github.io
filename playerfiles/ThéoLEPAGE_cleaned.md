@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo LEPAGE  
-date: 2023-03-11 00:14:20.466821  
+date: 2023-03-12 11:33:38.127076  
 categories: player  
 ---
 # Théo LEPAGE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 

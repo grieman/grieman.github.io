@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo DUPRAT  
-date: 2023-03-11 00:13:45.456338  
+date: 2023-03-12 11:31:34.768852  
 categories: player  
 ---
 # Théo DUPRAT
 
 ## Positions: FB
 
-## Current elo: 110.0
+## Current elo: 105.0
 
-## Current Percentile: 74.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dax            |            20 |       0.85 |
-| Mont-de-Marsan |             5 |       0.4  |
+| Dax            |            21 |   0.809524 |
+| Mont-de-Marsan |             5 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Albi                       |         2 |        0   |
 | Suresnes                   |         2 |        1   |
 | Blagnac                    |         2 |        0.5 |
 | Bourgoin-Jallieu           |         2 |        0.5 |
@@ -34,7 +35,6 @@ categories: player
 | US Bressane                |         2 |        1   |
 | Nice                       |         2 |        1   |
 | Provence Rugby             |         2 |        1   |
-| Albi                       |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        1   |
 | Tarbes                     |         1 |        1   |
 | Narbonne                   |         1 |        1   |

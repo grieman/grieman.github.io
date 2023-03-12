@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zinzan Hees  
-date: 2023-03-11 00:12:46.692992  
+date: 2023-03-12 11:32:44.783199  
 categories: player  
 ---
 # Zinzan Hees
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 28.0
+## Current Percentile: 29.0
 
 # Elo History
 

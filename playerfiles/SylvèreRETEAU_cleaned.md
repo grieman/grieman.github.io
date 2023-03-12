@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sylvère RETEAU  
-date: 2023-03-11 00:12:36.439088  
+date: 2023-03-12 11:30:12.670941  
 categories: player  
 ---
 # Sylvère RETEAU
 
 ## Positions: C, SH
 
-## Current elo: 104.0
+## Current elo: 100.0
 
-## Current Percentile: 61.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            53 |   0.584906 |
+| Dax    |            54 |   0.574074 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,8 +29,8 @@ categories: player
 | Blagnac                    |         5 |   0.4      |
 | Chambery                   |         5 |   0.8      |
 | Suresnes                   |         5 |   0.6      |
+| Albi                       |         4 |   0.25     |
 | Tarbes                     |         4 |   0.5      |
-| Albi                       |         3 |   0.333333 |
 | US Bressane                |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Dijon                      |         3 |   0.666667 |

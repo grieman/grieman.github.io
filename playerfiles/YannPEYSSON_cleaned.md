@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yann PEYSSON  
-date: 2023-03-11 00:16:55.253330  
+date: 2023-03-12 11:33:23.744778  
 categories: player  
 ---
 # Yann PEYSSON
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 17.0
+## Current Percentile: 18.0
 
 # Elo History
 

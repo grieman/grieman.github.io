@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ruhan Straeuli  
-date: 2023-03-06 11:27:17.651569  
+date: 2023-03-12 11:34:30.511174  
 categories: player  
 ---
 # Ruhan Straeuli
 
 ## Positions: FL
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -19,9 +19,10 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Lions  |             4 |       0.25 |
+| Team         |   Appearances |   Win Rate |
+|:-------------|--------------:|-----------:|
+| Lions        |             4 |       0.25 |
+| Golden Lions |             1 |       0    |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,3 +30,4 @@ categories: player
 | Glasgow Warriors     |         1 |          1 |
 | Sharks               |         1 |          0 |
 | Stade Francais Paris |         1 |          0 |
+| Western Province     |         1 |          0 |

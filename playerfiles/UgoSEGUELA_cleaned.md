@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ugo SEGUELA  
-date: 2023-03-11 00:14:24.988398  
+date: 2023-03-12 11:32:15.217528  
 categories: player  
 ---
 # Ugo SEGUELA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 

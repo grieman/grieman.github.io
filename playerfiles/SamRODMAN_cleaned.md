@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam RODMAN  
-date: 2023-03-11 00:16:28.814776  
+date: 2023-03-12 11:31:24.151433  
 categories: player  
 ---
 # Sam RODMAN
@@ -24,14 +24,14 @@ categories: player
 | Cornish Pirates     |            29 |   0.741379 |
 | Jersey              |            18 |   0.611111 |
 | Ealing Trailfinders |            12 |   0.541667 |
-| Hartpury College    |             8 |   0.5      |
+| Hartpury College    |             9 |   0.444444 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Doncaster           |         7 |   0.571429 |
 | Nottingham          |         7 |   0.857143 |
 | Richmond            |         7 |   0.785714 |
-| Bedford             |         5 |   0.6      |
+| Bedford             |         6 |   0.5      |
 | Cornish Pirates     |         5 |   0.6      |
 | Hartpury College    |         5 |   0.8      |
 | Jersey              |         5 |   0.6      |

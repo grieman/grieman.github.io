@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Zauri TEVDORASHVILI  
-date: 2023-03-11 00:12:45.569165  
+date: 2023-03-12 11:29:58.956855  
 categories: player  
 ---
 # Zauri TEVDORASHVILI
 
 ## Positions: P
 
-## Current elo: 71.0
+## Current elo: 69.0
 
 ## Current Percentile: 4.0
 
@@ -22,30 +22,31 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |            27 |   0.296296 |
-| US Bressane      |            22 |   0.454545 |
+| US Bressane      |            23 |   0.434783 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Montauban                  |         4 |   0.125    |
 | Provence Rugby             |         4 |   0.625    |
+| Montauban                  |         4 |   0.125    |
 | Vannes                     |         3 |   0        |
 | Beziers                    |         3 |   1        |
 | Mont-de-Marsan             |         3 |   0.333333 |
-| Dax                        |         2 |   0        |
-| Oyonnax                    |         2 |   0        |
+| Colomiers                  |         2 |   0        |
 | Nevers                     |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
 | Aurillac                   |         2 |   0.5      |
+| Dax                        |         2 |   0        |
 | Rouen                      |         2 |   0.5      |
-| Colomiers                  |         2 |   0        |
+| Perpignan                  |         2 |   0        |
 | Chambery                   |         2 |   0.5      |
 | Carqueiranne-Hyères        |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Blagnac                    |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0        |
-| Perpignan                  |         2 |   0        |
+| Oyonnax                    |         2 |   0        |
 | Tarbes                     |         1 |   1        |
 | Albi                       |         1 |   0        |
+| Nice                       |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Carcassonne                |         1 |   0        |
 | Brive                      |         1 |   0        |

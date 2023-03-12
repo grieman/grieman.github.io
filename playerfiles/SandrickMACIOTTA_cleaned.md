@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sandrick MACIOTTA  
-date: 2023-03-11 00:11:50.303625  
+date: 2023-03-12 11:33:13.855836  
 categories: player  
 ---
 # Sandrick MACIOTTA
 
 ## Positions: N8, FL
 
-## Current elo: 120.0
+## Current elo: 125.0
 
-## Current Percentile: 89.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            31 |   0.709677 |
+| Albi   |            32 |    0.71875 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Blagnac                    |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.666667 |
+| Dax                        |         3 |   1        |
 | Nice                       |         3 |   0.333333 |
 | Aubenas                    |         2 |   1        |
 | Carqueiranne-Hyères        |         2 |   0.5      |
 | Chambery                   |         2 |   1        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
-| Dax                        |         2 |   1        |
 | Narbonne                   |         2 |   1        |
 | Rennes                     |         2 |   1        |
 | Suresnes                   |         2 |   0.5      |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Parataiso SILAFAI-LEA'ANA  
-date: 2023-03-11 00:12:18.142798  
+date: 2023-03-12 11:31:05.444115  
 categories: player  
 ---
 # Parataiso SILAFAI-LEA'ANA
 
 ## Positions: C
 
-## Current elo: 122.0
+## Current elo: 118.0
 
 ## Current Percentile: 94.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Albi             |            27 |   0.703704 |
-| US Bressane      |            18 |   0.666667 |
+| US Bressane      |            19 |   0.631579 |
 | Nice             |            10 |   0.75     |
 | Roval Drome XV   |            10 |   0        |
 | Grenoble         |             8 |   0.875    |
@@ -37,10 +37,10 @@ categories: player
 | Suresnes                   |         4 |   1        |
 | Blagnac                    |         4 |   0.75     |
 | Bourgoin-Jallieu           |         4 |   1        |
+| Nice                       |         4 |   0.25     |
 | Narbonne                   |         4 |   0.5      |
 | Dax                        |         4 |   0.5      |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
-| Nice                       |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Montauban                  |         3 |   0        |
 | Rennes                     |         2 |   1        |

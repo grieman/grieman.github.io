@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thibault MORENO  
-date: 2023-03-11 00:16:18.105570  
+date: 2023-03-12 11:30:50.123511  
 categories: player  
 ---
 # Thibault MORENO
 
 ## Positions: FH
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 19.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            21 |    0.52381 |
+| Chambery |            22 |   0.545455 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Cognac Saint Jean d'Angély |         4 |       0.75 |
 | Blagnac                    |         3 |       0    |
 | Aubenas                    |         2 |       0.5  |
+| Narbonne                   |         2 |       1    |
 | Nice                       |         2 |       0.5  |
 | Suresnes                   |         2 |       1    |
 | Albi                       |         1 |       0    |
@@ -35,6 +36,5 @@ categories: player
 | Dax                        |         1 |       0    |
 | Dijon                      |         1 |       1    |
 | Massy                      |         1 |       0    |
-| Narbonne                   |         1 |       1    |
 | Rennes                     |         1 |       0    |
 | Tarbes                     |         1 |       1    |

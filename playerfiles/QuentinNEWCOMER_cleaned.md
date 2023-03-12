@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin NEWCOMER  
-date: 2023-03-11 00:14:05.681361  
+date: 2023-03-12 11:30:25.518022  
 categories: player  
 ---
 # Quentin NEWCOMER

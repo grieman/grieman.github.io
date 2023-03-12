@@ -28,46 +28,22 @@ categories: model review projection
 | Skyactivs Hiroshima V Kurita Water Gush on 2023/02/18                 |       33 |                 5.1 |                  4.6 |              -6   |
 | Kyuden Voltex V NTT Docomo Red Hurricanes Osaka on 2023/02/26         |       -9 |                 4   |                  5.1 |              -3.3 |
 | Chugoku Red Regulions V Kyuden Voltex on 2023/03/04                   |      -31 |               -20.6 |                -17   |             -12.6 |
-| Chugoku Red Regulions V Kyuden Voltex on 2023/03/04                   |      -31 |               -20.6 |                -17   |             -12.6 |
 | Skyactivs Hiroshima V NTT Docomo Red Hurricanes Osaka on 2023/03/04   |      -48 |               -15.5 |                -12.7 |             -20.7 |
-| Skyactivs Hiroshima V NTT Docomo Red Hurricanes Osaka on 2023/03/04   |      -48 |               -15.5 |                -12.7 |             -20.7 |
+| NTT Docomo Red Hurricanes Osaka V Kurita Water Gush on 2023/03/12     |       17 |               nan   |                nan   |              29.1 |
+| Chugoku Red Regulions V Skyactivs Hiroshima on 2023/03/12             |       -8 |               nan   |                nan   |               2.4 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 15.5 | 16.5 | 16.5 |
-| Correct Winner |       - | 80.0% | 75.0% | 85.0% |
+| Average Error |       - | 14.8 | 15.5 | 15.4 |
+| Correct Winner |       - | 77.8% | 72.2% | 80.0% |
 
 
 ## Future Club-Level Match Predictions
-
-### Week 10
-
-#### NTT Docomo Red Hurricanes Osaka V Kurita Water Gush on 2023/03/12
-
-
-Average Margin: NTT Docomo Red Hurricanes Osaka by 29.0
-
-<p float="left">
-<img src="plots/performances_NTT Docomo Red Hurricanes Osaka_V_Kurita Water Gush_10.png" width="32%" />
-<img src="plots/resultbar_NTT Docomo Red Hurricanes Osaka_V_Kurita Water Gush_10.png" width="32%" />
-<img src="plots/spreads_NTT Docomo Red Hurricanes Osaka_V_Kurita Water Gush_10.png" width="32%" />
-</p>
-
-#### Chugoku Red Regulions V Skyactivs Hiroshima on 2023/03/12
-
-
-Average Margin: Chugoku Red Regulions by 1.0
-
-<p float="left">
-<img src="plots/performances_Chugoku Red Regulions_V_Skyactivs Hiroshima_10.png" width="32%" />
-<img src="plots/resultbar_Chugoku Red Regulions_V_Skyactivs Hiroshima_10.png" width="32%" />
-<img src="plots/spreads_Chugoku Red Regulions_V_Skyactivs Hiroshima_10.png" width="32%" />
-</p>
 
 ### Week 11
 
 #### Kyuden Voltex V Kurita Water Gush on 2023/03/18
 
 
-Average Margin: Kyuden Voltex by 19.7
+Average Margin: Kyuden Voltex by 18.4
 
 <p float="left">
 <img src="plots/performances_Kyuden Voltex_V_Kurita Water Gush_11.png" width="32%" />
@@ -78,7 +54,7 @@ Average Margin: Kyuden Voltex by 19.7
 #### Skyactivs Hiroshima V NTT Docomo Red Hurricanes Osaka on 2023/03/18
 
 
-Average Margin: NTT Docomo Red Hurricanes Osaka by 24.7
+Average Margin: NTT Docomo Red Hurricanes Osaka by 20.1
 
 <p float="left">
 <img src="plots/performances_Skyactivs Hiroshima_V_NTT Docomo Red Hurricanes Osaka_11.png" width="32%" />
@@ -91,7 +67,7 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 24.7
 #### Chugoku Red Regulions V Kyuden Voltex on 2023/03/25
 
 
-Average Margin: Kyuden Voltex by 18.9
+Average Margin: Kyuden Voltex by 17.5
 
 <p float="left">
 <img src="plots/performances_Chugoku Red Regulions_V_Kyuden Voltex_12.png" width="32%" />
@@ -104,7 +80,7 @@ Average Margin: Kyuden Voltex by 18.9
 #### NTT Docomo Red Hurricanes Osaka V Kurita Water Gush on 2023/04/01
 
 
-Average Margin: NTT Docomo Red Hurricanes Osaka by 29.0
+Average Margin: NTT Docomo Red Hurricanes Osaka by 27.8
 
 <p float="left">
 <img src="plots/performances_NTT Docomo Red Hurricanes Osaka_V_Kurita Water Gush_13.png" width="32%" />
@@ -117,7 +93,7 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 29.0
 #### Chugoku Red Regulions V NTT Docomo Red Hurricanes Osaka on 2023/04/08
 
 
-Average Margin: NTT Docomo Red Hurricanes Osaka by 27.6
+Average Margin: NTT Docomo Red Hurricanes Osaka by 27.0
 
 <p float="left">
 <img src="plots/performances_Chugoku Red Regulions_V_NTT Docomo Red Hurricanes Osaka_14.png" width="32%" />
@@ -128,7 +104,7 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 27.6
 #### Kurita Water Gush V Skyactivs Hiroshima on 2023/04/08
 
 
-Average Margin: Kurita Water Gush by 6.6
+Average Margin: Kurita Water Gush by 2.2
 
 <p float="left">
 <img src="plots/performances_Kurita Water Gush_V_Skyactivs Hiroshima_14.png" width="32%" />
@@ -141,7 +117,7 @@ Average Margin: Kurita Water Gush by 6.6
 #### NTT Docomo Red Hurricanes Osaka V Kyuden Voltex on 2023/04/15
 
 
-Average Margin: NTT Docomo Red Hurricanes Osaka by 12.6
+Average Margin: NTT Docomo Red Hurricanes Osaka by 12.8
 
 <p float="left">
 <img src="plots/performances_NTT Docomo Red Hurricanes Osaka_V_Kyuden Voltex_15.png" width="32%" />
@@ -152,7 +128,7 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 12.6
 #### Skyactivs Hiroshima V Chugoku Red Regulions on 2023/04/15
 
 
-Average Margin: Skyactivs Hiroshima by 6.0
+Average Margin: Skyactivs Hiroshima by 11.3
 
 <p float="left">
 <img src="plots/performances_Skyactivs Hiroshima_V_Chugoku Red Regulions_15.png" width="32%" />
@@ -165,7 +141,7 @@ Average Margin: Skyactivs Hiroshima by 6.0
 #### Kyuden Voltex V Skyactivs Hiroshima on 2023/04/22
 
 
-Average Margin: Kyuden Voltex by 22.1
+Average Margin: Kyuden Voltex by 16.8
 
 <p float="left">
 <img src="plots/performances_Kyuden Voltex_V_Skyactivs Hiroshima_16.png" width="32%" />
@@ -176,7 +152,7 @@ Average Margin: Kyuden Voltex by 22.1
 #### Kurita Water Gush V Chugoku Red Regulions on 2023/04/22
 
 
-Average Margin: Kurita Water Gush by 9.0
+Average Margin: Kurita Water Gush by 9.9
 
 <p float="left">
 <img src="plots/performances_Kurita Water Gush_V_Chugoku Red Regulions_16.png" width="32%" />

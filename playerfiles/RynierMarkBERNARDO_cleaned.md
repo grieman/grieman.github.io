@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rynier Mark Bernardo  
-date: 2023-03-11 00:14:27.335535  
+date: 2023-03-12 11:32:19.285735  
 categories: player  
 ---
 # Rynier Mark Bernardo
 
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 104.0
 
-## Current Percentile: 32.0
+## Current Percentile: 29.0
 
 # Elo History
 

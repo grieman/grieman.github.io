@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Quentin DRANCOURT  
-date: 2023-03-11 00:12:50.091558  
+date: 2023-03-12 11:32:27.682766  
 categories: player  
 ---
 # Quentin DRANCOURT
 
 ## Positions: P
 
-## Current elo: 113.0
+## Current elo: 112.0
 
 ## Current Percentile: 88.0
 
@@ -21,27 +21,28 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            71 |   0.408451 |
+| US Bressane |            72 |   0.402778 |
 | Carcassonne |            18 |   0.444444 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Albi               |         6 |   0.166667 |
-| Beziers            |         6 |   0.5      |
 | Narbonne           |         6 |   0.333333 |
-| Aurillac           |         5 |   0.6      |
-| Provence Rugby     |         5 |   0.3      |
-| Montauban          |         5 |   0.5      |
+| Beziers            |         6 |   0.5      |
 | Mont-de-Marsan     |         5 |   0.3      |
 | Colomiers          |         5 |   0.2      |
-| Oyonnax            |         4 |   0.25     |
+| Aurillac           |         5 |   0.6      |
+| Montauban          |         5 |   0.5      |
+| Provence Rugby     |         5 |   0.3      |
 | Carcassonne        |         4 |   0.25     |
-| Vannes             |         3 |   0.166667 |
+| Oyonnax            |         4 |   0.25     |
 | Bayonne            |         3 |   0        |
-| Tarbes             |         2 |   0.5      |
-| Suresnes           |         2 |   1        |
-| Massy              |         2 |   0.5      |
+| Vannes             |         3 |   0.166667 |
+| Nice               |         2 |   0        |
 | Lyon               |         2 |   0        |
+| Suresnes           |         2 |   1        |
+| Tarbes             |         2 |   0.5      |
+| Massy              |         2 |   0.5      |
 | Agen               |         2 |   0.5      |
 | Dijon              |         2 |   1        |
 | Dax                |         2 |   0.5      |
@@ -51,7 +52,6 @@ categories: player
 | Auch               |         2 |   0.5      |
 | La Rochelle        |         2 |   0        |
 | Nevers             |         1 |   0        |
-| Nice               |         1 |   0        |
 | Blagnac            |         1 |   1        |
 | Perpignan          |         1 |   0        |
 | Biarritz Olympique |         1 |   1        |

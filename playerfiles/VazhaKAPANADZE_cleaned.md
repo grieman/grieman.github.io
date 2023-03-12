@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vazha KAPANADZE  
-date: 2023-03-11 00:12:10.176391  
+date: 2023-03-12 11:33:17.216595  
 categories: player  
 ---
 # Vazha KAPANADZE
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 85.0
 
-## Current Percentile: 11.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            80 |    0.59375 |
+| US Bressane |            81 |    0.58642 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,15 +31,15 @@ categories: player
 | Mont-de-Marsan             |         4 |   0.25     |
 | Chambery                   |         4 |   0.75     |
 | Oyonnax                    |         3 |   0.333333 |
-| Nevers                     |         3 |   0.333333 |
+| Colomiers                  |         3 |   0.666667 |
 | Tarbes                     |         3 |   0.666667 |
 | Beziers                    |         3 |   1        |
 | Albi                       |         3 |   0.666667 |
 | Dax                        |         3 |   0.333333 |
 | Carcassonne                |         3 |   0        |
-| Colomiers                  |         3 |   0.666667 |
+| Nice                       |         3 |   0.333333 |
+| Nevers                     |         3 |   0.333333 |
 | Agen                       |         2 |   1        |
-| Nice                       |         2 |   0.5      |
 | Rouen                      |         2 |   0.75     |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |

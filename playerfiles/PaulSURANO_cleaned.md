@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul SURANO  
-date: 2023-03-11 00:13:59.079677  
+date: 2023-03-12 11:32:41.916695  
 categories: player  
 ---
 # Paul SURANO
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 23.0
+## Current Percentile: 22.0
 
 # Elo History
 

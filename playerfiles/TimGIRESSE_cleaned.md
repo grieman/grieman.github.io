@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim GIRESSE  
-date: 2023-02-28 13:57:13.924787  
+date: 2023-03-12 11:30:53.239444  
 categories: player  
 ---
 # Tim GIRESSE
 
 ## Positions: W
 
-## Current elo: 114.0
+## Current elo: 111.0
 
-## Current Percentile: 80.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:---------------------------|--------------:|-----------:|
 | Oyonnax                    |            55 |   0.509091 |
 | Biarritz Olympique         |            43 |   0.55814  |
-| Valence Romans Drome Rugby |            26 |   0.653846 |
+| Valence Romans Drome Rugby |            27 |   0.62963  |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -47,8 +47,8 @@ categories: player
 | Provence Rugby             |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.333333 |
 | Brive                      |         3 |   0        |
+| US Bressane                |         3 |   0.333333 |
 | Tarbes                     |         2 |   0.5      |
-| US Bressane                |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Worcester Warriors         |         2 |   0.5      |
 | Nevers                     |         2 |   1        |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Daniel Kasende  
-date: 2023-03-11 00:14:17.872245  
+date: 2023-03-12 11:31:33.537835  
 categories: player  
 ---
 # Daniel Kasende
 
 ## Positions: W
 
-## Current elo: 89.0
+## Current elo: 93.0
 
 ## Current Percentile: 12.0
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Nicolas FAURE  
-date: 2023-03-11 00:13:00.071612  
+date: 2023-03-12 11:31:11.332880  
 categories: player  
 ---
 # Nicolas FAURE
 
 ## Positions: SH
 
-## Current elo: 119.0
+## Current elo: 118.0
 
 ## Current Percentile: 96.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Bourgoin-Jallieu           |            56 |   0.401786 |
-| US Bressane                |            35 |   0.442857 |
+| US Bressane                |            36 |   0.430556 |
 | Valence Romans Drome Rugby |            20 |   0.325    |
 | Roval Drome XV             |            13 |   0.230769 |
 
@@ -33,12 +33,12 @@ categories: player
 | Colomiers                  |         9 |   0.444444 |
 | Montauban                  |         8 |   0.3125   |
 | Perpignan                  |         7 |   0.142857 |
-| Carcassonne                |         6 |   0.5      |
 | Beziers                    |         6 |   0.666667 |
+| Carcassonne                |         6 |   0.5      |
 | Aurillac                   |         6 |   0.666667 |
 | Biarritz Olympique         |         5 |   0.2      |
-| Dax                        |         5 |   0.4      |
 | Nevers                     |         5 |   0.2      |
+| Dax                        |         5 |   0.4      |
 | Albi                       |         5 |   0.2      |
 | Vannes                     |         5 |   0.2      |
 | Bayonne                    |         4 |   0        |
@@ -47,12 +47,12 @@ categories: player
 | Provence Rugby             |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0        |
 | Grenoble                   |         3 |   0.333333 |
+| Nice                       |         2 |   0.5      |
 | Agen                       |         2 |   0.5      |
 | Carqueiranne-Hyères        |         2 |   0.5      |
 | Blagnac                    |         2 |   0.5      |
 | Lyon                       |         2 |   0        |
 | La Rochelle                |         1 |   0        |
-| Nice                       |         1 |   1        |
 | Chambery                   |         1 |   0        |
 | Pau                        |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |

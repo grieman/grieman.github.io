@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Swan CORMENIER  
-date: 2023-03-11 00:16:07.225688  
+date: 2023-03-12 11:31:12.088480  
 categories: player  
 ---
 # Swan CORMENIER
 
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 31.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bayonne |            51 |   0.509804 |
+| Bayonne |            52 |        0.5 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |         6 |   0.333333 |
 | Stade Francais Paris |         4 |   0.25     |
 | Bordeaux Begles      |         3 |   0.333333 |
+| Scarlets             |         3 |   0        |
 | Racing 92            |         3 |   0.666667 |
 | Oyonnax              |         3 |   0.666667 |
 | Agen                 |         2 |   0.75     |
@@ -35,7 +36,6 @@ categories: player
 | US Bressane          |         2 |   1        |
 | Castres Olympique    |         2 |   0        |
 | Stade Toulousain     |         2 |   0.5      |
-| Scarlets             |         2 |   0        |
 | La Rochelle          |         2 |   0.5      |
 | Lyon                 |         2 |   0.5      |
 | Pau                  |         2 |   0        |

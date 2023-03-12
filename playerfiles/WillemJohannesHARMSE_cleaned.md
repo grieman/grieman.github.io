@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Willem Johannes HARMSE  
-date: 2023-03-11 00:16:22.493288  
+date: 2023-03-12 11:29:32.838122  
 categories: player  
 ---
 # Willem Johannes HARMSE
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 90.0
 
-## Current Percentile: 16.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,40 +21,40 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            88 |   0.528409 |
+| US Bressane |            89 |   0.522472 |
 | Narbonne    |            43 |   0.430233 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Narbonne                   |         7 |   0.571429 |
-| Tarbes                     |         7 |   0.285714 |
 | Aurillac                   |         7 |   0.428571 |
+| Tarbes                     |         7 |   0.285714 |
+| Narbonne                   |         7 |   0.571429 |
 | Carcassonne                |         7 |   0.571429 |
-| Dax                        |         6 |   0.5      |
 | Oyonnax                    |         6 |   0.333333 |
 | Beziers                    |         6 |   0.5      |
-| Albi                       |         5 |   0.6      |
-| Provence Rugby             |         5 |   0.4      |
+| Dax                        |         6 |   0.5      |
 | Colomiers                  |         5 |   0.4      |
+| Provence Rugby             |         5 |   0.4      |
 | Auch                       |         5 |   0.3      |
 | Massy                      |         5 |   0.8      |
-| Bourgoin-Jallieu           |         4 |   0.5      |
+| Albi                       |         5 |   0.6      |
 | Montauban                  |         4 |   0.375    |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Pau                        |         4 |   0        |
-| Nevers                     |         3 |   0.333333 |
-| Lyon                       |         3 |   0.333333 |
-| Agen                       |         3 |   0.666667 |
+| Bourgoin-Jallieu           |         4 |   0.5      |
+| Cognac Saint Jean d'Angély |         3 |   1        |
 | Chambery                   |         3 |   0.666667 |
+| Lyon                       |         3 |   0.333333 |
 | Brive                      |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.666667 |
+| Nevers                     |         3 |   0.333333 |
+| Nice                       |         3 |   0.333333 |
 | Bayonne                    |         3 |   0        |
-| Cognac Saint Jean d'Angély |         3 |   1        |
-| Périgueux                  |         2 |   0.5      |
+| Agen                       |         3 |   0.666667 |
 | Rennes                     |         2 |   1        |
+| Périgueux                  |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | La Rochelle                |         2 |   0.5      |
-| Nice                       |         2 |   0.5      |
 | Grenoble                   |         2 |   0.5      |
 | Dijon                      |         2 |   1        |
 | Vannes                     |         2 |   0.25     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uzair CASSIEM  
-date: 2023-03-11 00:11:56.889348  
+date: 2023-03-12 11:30:17.433148  
 categories: player  
 ---
 # Uzair CASSIEM
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 103.0
+## Current elo: 102.0
 
 ## Current Percentile: 65.0
 
@@ -24,8 +24,8 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Scarlets            |            48 |   0.541667 |
+| Bayonne             |            39 |   0.641026 |
 | Pumas               |            39 |   0.653846 |
-| Bayonne             |            38 |   0.657895 |
 | Cheetahs            |            37 |   0.351351 |
 | Free State Cheetahs |            12 |   1        |
 | South Africa        |             8 |   0.375    |
@@ -62,32 +62,32 @@ categories: player
 | Zebre                    |         3 |   1        |
 | Dragons                  |         3 |   0.333333 |
 | Blue Bulls               |         3 |   0.666667 |
-| Melbourne Rebels         |         2 |   0        |
+| Mont-de-Marsan           |         2 |   0        |
 | Aurillac                 |         2 |   1        |
 | Wales                    |         2 |   0        |
 | Vannes                   |         2 |   1        |
 | Australia                |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
 | Beziers                  |         2 |   0.5      |
+| Scarlets                 |         2 |   0        |
 | SWD Eagles               |         2 |   1        |
 | Rouen                    |         2 |   1        |
 | Border Bulldogs          |         2 |   1        |
 | Nevers                   |         2 |   0.75     |
 | Carcassonne              |         2 |   0.5      |
 | Montauban                |         2 |   1        |
-| Mont-de-Marsan           |         2 |   0        |
 | Agen                     |         2 |   0.75     |
+| Melbourne Rebels         |         2 |   0        |
+| Argentina                |         2 |   1        |
 | Grenoble                 |         2 |   0.5      |
 | London Irish             |         2 |   1        |
 | Lions                    |         2 |   0        |
-| Argentina                |         2 |   1        |
 | Colomiers                |         2 |   0.5      |
 | Cheetahs                 |         2 |   1        |
-| Lyon                     |         1 |   1        |
-| Jaguares                 |         1 |   0        |
 | Stade Francais Paris     |         1 |   0        |
 | Stade Toulousain         |         1 |   1        |
 | Blues                    |         1 |   0        |
+| Jaguares                 |         1 |   0        |
 | Hurricanes               |         1 |   0        |
 | Ireland                  |         1 |   0        |
 | US Bressane              |         1 |   1        |
@@ -95,12 +95,12 @@ categories: player
 | Highlanders              |         1 |   0        |
 | Western Force            |         1 |   1        |
 | Bordeaux Begles          |         1 |   1        |
-| La Rochelle              |         1 |   1        |
-| Scarlets                 |         1 |   0        |
 | Leicester Tigers         |         1 |   0        |
+| La Rochelle              |         1 |   1        |
+| Lyon                     |         1 |   1        |
+| Leinster                 |         1 |   0        |
 | Racing 92                |         1 |   1        |
 | Queensland Reds          |         1 |   0        |
-| Leinster                 |         1 |   0        |
 | Provence Rugby           |         1 |   1        |
 | Perpignan                |         1 |   1        |
 | Brive                    |         1 |   0        |

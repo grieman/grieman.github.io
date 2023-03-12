@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent CALAS  
-date: 2023-03-11 00:15:04.412150  
+date: 2023-03-12 11:30:41.098238  
 categories: player  
 ---
 # Vincent CALAS
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 94.0
 
-## Current Percentile: 18.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Albi    |           106 |        0.5 |
-| Beziers |             1 |        0   |
+| Albi    |           107 |   0.504673 |
+| Beziers |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Dax                        |        10 |   0.85     |
+| Dax                        |        11 |   0.863636 |
 | Bourgoin-Jallieu           |         8 |   0.75     |
 | Narbonne                   |         5 |   0.4      |
 | Aurillac                   |         5 |   0.6      |

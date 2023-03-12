@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Jimmy LITCHFIELD  
-date: 2023-03-11 00:15:28.771340  
+date: 2023-03-12 11:33:47.412292  
 categories: player  
 ---
 # Jimmy LITCHFIELD
 
 ## Positions: P
 
-## Current elo: 50.0
+## Current elo: 47.0
 
 ## Current Percentile: 1.0
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Richmond        |            41 |   0.292683 |
+| Richmond        |            42 |   0.285714 |
 | London Scottish |             7 |   0.285714 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ealing Trailfinders |         6 |   0        |
+| Ealing Trailfinders |         7 |   0        |
 | Bedford             |         5 |   0.6      |
 | Cornish Pirates     |         5 |   0.1      |
 | Hartpury College    |         5 |   0.4      |
