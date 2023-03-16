@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thomas BAUDY  
-date: 2023-03-12 11:29:45.366559  
+date: 2023-03-16 11:30:34.098692  
 categories: player  
 ---
 # Thomas BAUDY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 76.0
 
-## Current Percentile: 13.0
+## Current Percentile: 14.0
 
 # Elo History
 

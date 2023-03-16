@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théo VIDAL  
-date: 2023-03-12 11:32:11.727072  
+date: 2023-03-16 11:32:21.809003  
 categories: player  
 ---
 # Théo VIDAL
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 

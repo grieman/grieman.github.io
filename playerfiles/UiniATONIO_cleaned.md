@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-02-17 14:41:47.267006  
+date: 2023-03-16 11:31:26.520057  
 categories: player  
 ---
 # Uini ATONIO
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 130.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 

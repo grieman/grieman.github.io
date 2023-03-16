@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sean YACOUBIAN  
-date: 2023-03-12 11:29:56.747869  
+date: 2023-03-16 11:30:02.223605  
 categories: player  
 ---
 # Sean YACOUBIAN
@@ -17,7 +17,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Chicago Hounds         |             2 |          0 |
+| Chicago Hounds         |             3 |          0 |
 | Colorado Raptors       |             1 |          1 |
 | New England Free Jacks |             1 |          1 |
 
@@ -26,3 +26,4 @@ categories: player
 | Utah Warriors    |         2 |        0.5 |
 | Austin Gilgronis |         1 |        1   |
 | Old Glory DC     |         1 |        0   |
+| Toronto Arrows   |         1 |        0   |

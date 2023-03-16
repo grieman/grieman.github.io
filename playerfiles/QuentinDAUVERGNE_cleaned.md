@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin DAUVERGNE  
-date: 2023-03-12 11:32:47.381243  
+date: 2023-03-16 11:29:58.913187  
 categories: player  
 ---
 # Quentin DAUVERGNE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 71.0
 
-## Current Percentile: 11.0
+## Current Percentile: 10.0
 
 # Elo History
 

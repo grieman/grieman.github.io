@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas TOEVALU  
-date: 2023-03-12 11:33:27.555956  
+date: 2023-03-16 11:32:45.919301  
 categories: player  
 ---
 # Thomas TOEVALU
 
 ## Positions: N8, FL
 
-## Current elo: 65.0
+## Current elo: 59.0
 
-## Current Percentile: 1.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Bourgoin-Jallieu           |            30 |   0.25     |
-| Cognac Saint Jean d'Angély |            29 |   0.137931 |
+| Cognac Saint Jean d'Angély |            30 |   0.133333 |
 | Rouen                      |            17 |   0.294118 |
 | Narbonne                   |            14 |   0.178571 |
 | Albi                       |             4 |   0.375    |
@@ -50,13 +50,13 @@ categories: player
 | Blagnac                    |         3 |   0.333333 |
 | Massy                      |         2 |   0        |
 | Grenoble                   |         2 |   0.25     |
+| Carqueiranne-Hyères        |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0        |
 | Rennes                     |         2 |   0        |
 | Roval Drome XV             |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0        |
 | Agen                       |         2 |   0        |
 | Nevers                     |         1 |   0        |
-| Carqueiranne-Hyères        |         1 |   0        |
 | Suresnes                   |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
 | Bayonne                    |         1 |   1        |

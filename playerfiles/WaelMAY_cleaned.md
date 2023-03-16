@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wael MAY  
-date: 2023-03-12 11:29:48.440582  
+date: 2023-03-16 11:32:06.008608  
 categories: player  
 ---
 # Wael MAY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 

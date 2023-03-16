@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas Munilla  
-date: 2023-03-12 11:30:20.808043  
+date: 2023-03-16 11:32:18.465800  
 categories: player  
 ---
 # Tomas Munilla
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 50.0
+## Current Percentile: 49.0
 
 # Elo History
 

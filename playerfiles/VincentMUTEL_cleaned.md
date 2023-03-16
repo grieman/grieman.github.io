@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent MUTEL  
-date: 2023-03-12 11:30:43.467995  
+date: 2023-03-16 11:30:45.277762  
 categories: player  
 ---
 # Vincent MUTEL
 
 ## Positions: L
 
-## Current elo: 110.0
+## Current elo: 103.0
 
-## Current Percentile: 91.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            61 |    0.52459 |
-| Pau     |             8 |    0.625   |
+| Blagnac |            62 |   0.532258 |
+| Pau     |             8 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -39,9 +39,9 @@ categories: player
 | Aubenas                    |         4 |   0.75     |
 | Dijon                      |         3 |   0.333333 |
 | Narbonne                   |         3 |   0.166667 |
+| Rennes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0        |
 | Nice                       |         2 |   0.5      |
-| Rennes                     |         1 |   1        |
 | Toulon                     |         1 |   1        |
 | Agen                       |         1 |   0        |
 | Limoges                    |         1 |   1        |

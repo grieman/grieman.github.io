@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Will CRAWFORD  
-date: 2023-03-12 11:30:04.278245  
+date: 2023-03-16 11:32:43.772545  
 categories: player  
 ---
 # Will CRAWFORD
 
 ## Positions: L
 
-## Current elo: 62.0
+## Current elo: 61.0
 
 ## Current Percentile: 3.0
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Houston SaberCats |            14 |        0.5 |
-| American Raptors  |             3 |        0   |
+| American Raptors  |             4 |        0   |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -39,3 +39,4 @@ categories: player
 | Selknam           |         1 |        0   |
 | Toronto Arrows    |         1 |        1   |
 | Utah Warriors     |         1 |        1   |
+| Yacare XV         |         1 |        0   |

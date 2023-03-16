@@ -1,0 +1,29 @@
+---  
+layout: page  
+title: Lundi Msenge  
+date: 2023-03-16 11:31:04.340557  
+categories: player  
+---
+# Lundi Msenge
+
+## Positions: W
+
+## Current elo: 97.0
+
+## Current Percentile: None
+
+# Elo History
+
+
+![elo history](history_LundiMsenge.png)
+# Match History
+
+
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Pumas  |             3 |   0.666667 |
+
+| Opponent     |   Matches |   Win Rate |
+|:-------------|----------:|-----------:|
+| Blue Bulls   |         2 |        0.5 |
+| Golden Lions |         1 |        1   |

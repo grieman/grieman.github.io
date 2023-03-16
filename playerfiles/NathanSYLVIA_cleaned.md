@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Nathan SYLVIA  
-date: 2023-03-07 16:17:26.739953  
+date: 2023-03-16 11:31:58.353447  
 categories: player  
 ---
 # Nathan SYLVIA
 
 ## Positions: P
 
-## Current elo: 108.0
+## Current elo: 105.0
 
-## Current Percentile: 84.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| San Diego Legion |            49 |   0.571429 |
+| San Diego Legion |            50 |       0.58 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -30,10 +30,10 @@ categories: player
 | Houston SaberCats      |         5 |   0.6      |
 | Austin Elite Rugby     |         3 |   1        |
 | Austin Gilgronis       |         3 |   0.333333 |
+| Dallas Jackals         |         3 |   1        |
 | Glendale Raptors       |         3 |   0.666667 |
 | NOLA Gold              |         3 |   1        |
 | R.U. New York          |         3 |   0.333333 |
-| Dallas Jackals         |         2 |   1        |
 | L. A. Giltinis         |         2 |   0        |
 | New England Free Jacks |         2 |   1        |
 | Old Glory DC           |         2 |   0.5      |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Romain FUSIER  
-date: 2023-03-12 11:31:17.377107  
+date: 2023-03-16 11:30:18.577261  
 categories: player  
 ---
 # Romain FUSIER
 
 ## Positions: C
 
-## Current elo: 83.0
+## Current elo: 84.0
 
 ## Current Percentile: 17.0
 

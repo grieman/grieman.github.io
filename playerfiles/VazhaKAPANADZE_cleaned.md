@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Vazha KAPANADZE  
-date: 2023-03-12 11:33:17.216595  
+date: 2023-03-16 11:30:17.417419  
 categories: player  
 ---
 # Vazha KAPANADZE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 14.0
+## Current Percentile: 15.0
 
 # Elo History
 

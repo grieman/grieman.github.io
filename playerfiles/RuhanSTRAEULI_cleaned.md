@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ruhan Straeuli  
-date: 2023-03-12 11:34:30.511174  
+date: 2023-03-16 11:31:42.398235  
 categories: player  
 ---
 # Ruhan Straeuli
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 36.0
+## Current Percentile: 35.0
 
 # Elo History
 

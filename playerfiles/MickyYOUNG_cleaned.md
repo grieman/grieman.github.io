@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Micky YOUNG  
-date: 2023-03-12 11:29:42.356834  
+date: 2023-03-16 11:30:24.066961  
 categories: player  
 ---
 # Micky YOUNG
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 106.0
 
-## Current Percentile: 86.0
+## Current Percentile: 87.0
 
 # Elo History
 

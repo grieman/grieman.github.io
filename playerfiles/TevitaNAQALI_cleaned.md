@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tevita NAQALI  
-date: 2023-03-12 11:32:15.955952  
+date: 2023-03-16 11:33:08.639219  
 categories: player  
 ---
 # Tevita NAQALI
 
 ## Positions: L
 
-## Current elo: 64.0
+## Current elo: 60.0
 
-## Current Percentile: 5.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |            35 |   0.357143 |
+| Old Glory DC |            36 |   0.347222 |
 | Fijian Drua  |            16 |   0.6875   |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Rugby New York         |         5 |   0        |
 | NOLA Gold              |         5 |   0.1      |
+| New England Free Jacks |         4 |   0.25     |
 | Toronto Arrows         |         4 |   0.25     |
 | Rugby ATL              |         4 |   0.5      |
 | R.U. New York          |         4 |   0        |
-| New England Free Jacks |         3 |   0.333333 |
 | Canberra Vikings       |         3 |   0.333333 |
 | Queensland Country     |         3 |   0.666667 |
 | NSW Country Eagles     |         2 |   0.75     |

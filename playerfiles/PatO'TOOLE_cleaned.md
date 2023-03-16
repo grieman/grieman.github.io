@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pat O'TOOLE  
-date: 2023-03-12 11:34:40.382804  
+date: 2023-03-16 11:32:51.444135  
 categories: player  
 ---
 # Pat O'TOOLE
 
 ## Positions: H
 
-## Current elo: 74.0
+## Current elo: 79.0
 
-## Current Percentile: 1.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| NOLA Gold         |            28 |   0.5      |
+| NOLA Gold         |            29 |   0.517241 |
 | Houston SaberCats |            18 |   0.333333 |
 | San Diego Legion  |             3 |   1        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Rugby ATL              |         6 |   0        |
+| Rugby New York         |         6 |   0.5      |
 | R.U. New York          |         5 |   0.4      |
-| Rugby New York         |         5 |   0.4      |
 | New England Free Jacks |         4 |   0.5      |
 | Seattle Seawolves      |         4 |   0.25     |
 | Austin Elite Rugby     |         3 |   1        |

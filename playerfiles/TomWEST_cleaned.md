@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tom WEST  
-date: 2023-03-12 11:33:38.843706  
+date: 2023-03-16 11:29:38.130319  
 categories: player  
 ---
 # Tom WEST
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 109.0
 
 ## Current Percentile: 83.0
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Wasps            |            74 |   0.506757 |
 | Nottingham       |            28 |   0.410714 |
-| Leicester Tigers |             5 |   0.7      |
+| Leicester Tigers |             5 |   0.8      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -35,7 +35,7 @@ categories: player
 | Bath Rugby          |         6 |   1        |
 | Exeter Chiefs       |         6 |   0.5      |
 | Newcastle Falcons   |         5 |   0.4      |
-| Gloucester Rugby    |         5 |   0.5      |
+| Gloucester Rugby    |         5 |   0.6      |
 | Saracens            |         5 |   0.6      |
 | Leicester Tigers    |         5 |   0.4      |
 | Harlequins          |         4 |   0.25     |
