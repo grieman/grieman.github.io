@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James O'Connor  
-date: 2023-03-06 11:24:25.610861  
+date: 2023-03-17 17:13:18.023623  
 categories: player  
 ---
 # James O'Connor
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 54.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Australia        |            68 |   0.507353 |
+| Queensland Reds  |            52 |   0.567308 |
 | Toulon           |            52 |   0.701923 |
-| Queensland Reds  |            50 |   0.57     |
 | Western Force    |            39 |   0.371795 |
 | Sale Sharks      |            30 |   0.6      |
 | Melbourne Rebels |            21 |   0.190476 |
@@ -34,11 +34,11 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | New Zealand              |        17 |   0.147059 |
-| Brumbies                 |        16 |   0.53125  |
+| Brumbies                 |        17 |   0.5      |
 | New South Wales Waratahs |        15 |   0.4      |
 | Melbourne Rebels         |        10 |   0.75     |
 | South Africa             |        10 |   0.6      |
-| Western Force            |         8 |   0.875    |
+| Western Force            |         9 |   0.888889 |
 | Queensland Reds          |         8 |   0.125    |
 | Argentina                |         7 |   0.785714 |
 | Wales                    |         7 |   0.714286 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Haruki Kanazawa  
-date: 2023-02-26 11:20:03.252648  
+date: 2023-03-16 20:10:13.686575  
 categories: player  
 ---
 # Haruki Kanazawa
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,10 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             1 |          0 |
+| Hanazono Kintetsu Liners |             3 |          0 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Black Rams Tokyo |         1 |          0 |
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Black Rams Tokyo     |         1 |          0 |
+| Mitsubishi Dynaboars |         1 |          0 |
+| Toyota Verblitz      |         1 |          0 |

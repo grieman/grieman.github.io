@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yu Tamura  
-date: 2023-01-13 11:31:45.264639  
+date: 2023-03-17 17:05:51.482047  
 categories: player  
 ---
 # Yu Tamura
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 109.0
+## Current elo: 91.0
 
-## Current Percentile: 75.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,69 +21,72 @@ categories: player
 # Match History
 
 
-| Team                  |   Appearances |   Win Rate |
-|:----------------------|--------------:|-----------:|
-| Japan                 |            44 |   0.420455 |
-| Green Rockets Tokatsu |            39 |   0.448718 |
-| Yokohama Canon Eagles |            38 |   0.473684 |
-| Sunwolves             |            33 |   0.166667 |
+| Team                      |   Appearances |   Win Rate |
+|:--------------------------|--------------:|-----------:|
+| Green Rockets Tokatsu     |            56 |   0.455357 |
+| Japan                     |            44 |   0.420455 |
+| Yokohama Canon Eagles     |            43 |   0.453488 |
+| Sunwolves                 |            33 |   0.166667 |
+| Tokyo Sungoliath          |            24 |   0.666667 |
+| Toshiba Brave Lupus Tokyo |             8 |   0.5      |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kobelco Kobe Steelers             |         8 |   0.375    |
-| Saitama Wild Knights              |         7 |   0        |
-| Black Rams Tokyo                  |         7 |   0.428571 |
-| Shizuoka Blue Revs                |         7 |   0.428571 |
+| Kobelco Kobe Steelers             |        12 |   0.25     |
+| Saitama Wild Knights              |        12 |   0        |
+| Black Rams Tokyo                  |        11 |   0.454545 |
+| Urayasu D-Rocks                   |        11 |   0.727273 |
+| Toshiba Brave Lupus Tokyo         |        11 |   0.363636 |
+| Shizuoka Blue Revs                |        10 |   0.4      |
+| Green Rockets Tokatsu             |         7 |   0.857143 |
+| Kubota Spears Funabashi Tokyo-Bay |         7 |   0.642857 |
+| Toyota Verblitz                   |         7 |   0.571429 |
+| NTT Docomo Red Hurricanes Osaka   |         7 |   0.714286 |
+| Toyota Industries Shuttles Aichi  |         6 |   0.666667 |
+| Tokyo Sungoliath                  |         6 |   0.166667 |
 | Scotland                          |         6 |   0.166667 |
-| Green Rockets Tokatsu             |         5 |   0.8      |
-| Tokyo Sungoliath                  |         5 |   0        |
-| Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
+| Munakata Sanix Blues              |         6 |   0.666667 |
+| Mie Honda Heat                    |         5 |   0.5      |
 | Ireland                           |         5 |   0.2      |
-| Toyota Verblitz                   |         4 |   0.5      |
-| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.25     |
-| Urayasu D-Rocks                   |         4 |   0.75     |
 | Stormers                          |         4 |   0.375    |
-| Munakata Sanix Blues              |         4 |   1        |
-| NTT Docomo Red Hurricanes Osaka   |         4 |   0.5      |
-| Italy                             |         3 |   0.666667 |
+| Yokohama Canon Eagles             |         4 |   0.75     |
 | Russia                            |         3 |   1        |
 | Queensland Reds                   |         3 |   0.333333 |
-| Mie Honda Heat                    |         3 |   0.5      |
-| South Africa                      |         3 |   0.333333 |
-| Cheetahs                          |         3 |   0        |
-| Bulls                             |         3 |   0.333333 |
+| Hanazono Kintetsu Liners          |         3 |   0.333333 |
+| Italy                             |         3 |   0.666667 |
 | Georgia                           |         3 |   0.666667 |
-| Samoa                             |         2 |   1        |
-| Sharks                            |         2 |   0        |
-| Toyota Industries Shuttles Aichi  |         2 |   0.5      |
-| Uruguay                           |         2 |   1        |
+| Bulls                             |         3 |   0.333333 |
+| Cheetahs                          |         3 |   0        |
+| South Africa                      |         3 |   0.333333 |
 | Wales                             |         2 |   0        |
-| New Zealand                       |         2 |   0        |
-| New South Wales Waratahs          |         2 |   0        |
-| Yokohama Canon Eagles             |         2 |   0.5      |
+| Uruguay                           |         2 |   1        |
 | Blues                             |         2 |   0.5      |
 | Brumbies                          |         2 |   0        |
-| Jaguares                          |         2 |   0.5      |
 | Chiefs                            |         2 |   0        |
-| Highlanders                       |         2 |   0        |
-| Hanazono Kintetsu Liners          |         2 |   0.5      |
-| France                            |         2 |   0.25     |
+| Sharks                            |         2 |   0        |
 | Coca-Cola Red Sparks              |         2 |   1        |
+| Samoa                             |         2 |   1        |
+| Highlanders                       |         2 |   0        |
+| Jaguares                          |         2 |   0.5      |
+| New South Wales Waratahs          |         2 |   0        |
+| France                            |         2 |   0.25     |
+| Kyuden Voltex                     |         2 |   1        |
 | Australia                         |         2 |   0        |
-| Mitsubishi Dynaboars              |         1 |   1        |
-| Crusaders                         |         1 |   0        |
-| Western Force                     |         1 |   0        |
-| British and Irish Lions           |         1 |   0        |
-| Canada                            |         1 |   1        |
-| Tonga                             |         1 |   1        |
-| Southern Kings                    |         1 |   0        |
-| England                           |         1 |   0        |
-| Spain                             |         1 |   1        |
-| Fiji                              |         1 |   0        |
-| Hurricanes                        |         1 |   0        |
-| Kyuden Voltex                     |         1 |   1        |
-| Romania                           |         1 |   1        |
-| Lions                             |         1 |   0        |
+| New Zealand                       |         2 |   0        |
 | New Zealand Maori                 |         1 |   0        |
+| Canada                            |         1 |   1        |
+| Western Force                     |         1 |   0        |
+| Hurricanes                        |         1 |   0        |
+| British and Irish Lions           |         1 |   0        |
+| Lions                             |         1 |   0        |
+| Tonga                             |         1 |   1        |
+| Spain                             |         1 |   1        |
 | Melbourne Rebels                  |         1 |   0        |
+| Southern Kings                    |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   1        |
+| Fiji                              |         1 |   0        |
+| England                           |         1 |   0        |
+| Crusaders                         |         1 |   0        |
+| Hino Red Dolphins                 |         1 |   1        |
+| Romania                           |         1 |   1        |
 | Argentina                         |         1 |   0        |

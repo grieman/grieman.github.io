@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rhys Davies  
-date: 2023-01-06 00:10:45.083849  
+date: 2023-03-17 17:24:24.708040  
 categories: player  
 ---
 # Rhys Davies
 
 ## Positions: L
 
-## Current elo: 116.0
+## Country: Wales
 
-## Current Percentile: 84.0
+## Current elo: 102.0
+
+## Current Percentile: None
 
 # Elo History
 
@@ -21,30 +23,34 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Ospreys    |            39 |   0.564103 |
-| Bath Rugby |             5 |   0.2      |
+| Ospreys    |            38 |        0.5 |
+| Bath Rugby |             5 |        0.2 |
+| Wales      |             2 |        0.5 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Dragons             |         4 |   0.5      |
-| Scarlets            |         4 |   0.625    |
-| Cardiff Blues       |         4 |   1        |
-| Ulster              |         3 |   0.333333 |
-| Connacht            |         3 |   0.333333 |
-| Glasgow Warriors    |         3 |   0.333333 |
-| Benetton Treviso    |         2 |   1        |
-| Leinster            |         2 |   0.5      |
-| Stormers            |         2 |   0.25     |
-| Munster             |         2 |   0.5      |
-| Lions               |         2 |   0        |
-| Harlequins          |         2 |   0        |
-| Zebre               |         2 |   1        |
-| Leicester Tigers    |         1 |   0        |
-| London Irish        |         1 |   1        |
-| Montpellier Herault |         1 |   1        |
-| Saracens            |         1 |   0        |
-| Edinburgh           |         1 |   1        |
-| Sharks              |         1 |   0        |
-| Clermont Auvergne   |         1 |   0        |
-| Castres Olympique   |         1 |   1        |
-| Worcester Warriors  |         1 |   1        |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Dragons            |         4 |   0.5      |
+| Ulster             |         3 |   0.333333 |
+| Connacht           |         3 |   0.333333 |
+| Scarlets           |         3 |   0.5      |
+| Glasgow Warriors   |         3 |   0.333333 |
+| Cardiff Blues      |         3 |   1        |
+| Benetton Treviso   |         2 |   1        |
+| Leinster           |         2 |   0.5      |
+| Stormers           |         2 |   0.25     |
+| Munster            |         2 |   0.5      |
+| Lions              |         2 |   0        |
+| Harlequins         |         2 |   0        |
+| Zebre              |         2 |   1        |
+| Leicester Tigers   |         1 |   0        |
+| Italy              |         1 |   1        |
+| London Irish       |         1 |   1        |
+| Racing 92          |         1 |   0        |
+| Sale Sharks        |         1 |   0        |
+| Saracens           |         1 |   0        |
+| Edinburgh          |         1 |   1        |
+| Scotland           |         1 |   0        |
+| Sharks             |         1 |   0        |
+| Clermont Auvergne  |         1 |   0        |
+| Castres Olympique  |         1 |   1        |
+| Worcester Warriors |         1 |   1        |

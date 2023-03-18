@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Baronio  
-date: 2023-03-04 11:36:36.893319  
+date: 2023-03-17 17:41:22.874010  
 categories: player  
 ---
 # Juan Baronio
@@ -17,8 +17,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             1 |          1 |
+| Dogos XV |             3 |   0.666667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Cobras     |         1 |          1 |
+| Opponent      |   Matches |   Win Rate |
+|:--------------|----------:|-----------:|
+| Cobras        |         1 |          1 |
+| Penarol Rugby |         1 |          0 |
+| Selknam       |         1 |          1 |

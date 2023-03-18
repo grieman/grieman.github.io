@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Butler  
-date: 2023-03-04 11:41:35.192791  
+date: 2023-03-17 17:01:00.609597  
 categories: player  
 ---
 # Will Butler
 
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 88.0
 
-## Current Percentile: 38.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |             6 |          1 |
+| Hartpury College |             6 |   0.833333 |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
+| Bedford         |         1 |          0 |
 | Cornish Pirates |         1 |          1 |
-| Coventry        |         1 |          1 |
 | Doncaster       |         1 |          1 |
 | London Scottish |         1 |          1 |
 | Nottingham      |         1 |          1 |

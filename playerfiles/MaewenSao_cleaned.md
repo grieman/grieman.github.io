@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maewen Sao  
-date: 2023-02-24 02:23:18.455713  
+date: 2023-03-17 17:27:20.167620  
 categories: player  
 ---
 # Maewen Sao
 
 ## Positions: W
 
-## Current elo: 81.0
+## Current elo: 86.0
 
-## Current Percentile: 26.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |             2 |          0 |
+| Chambery |             3 |   0.333333 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Narbonne   |         1 |          1 |
 | Rennes     |         1 |          0 |
 | Tarbes     |         1 |          0 |

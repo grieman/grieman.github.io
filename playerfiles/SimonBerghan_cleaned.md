@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simon Berghan  
-date: 2023-02-02 19:00:25.143992  
+date: 2023-03-17 17:16:03.261495  
 categories: player  
 ---
 # Simon Berghan
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 21.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,30 +23,30 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Edinburgh        |            94 |   0.547872 |
-| Scotland         |            32 |   0.578125 |
-| Glasgow Warriors |            21 |   0.595238 |
+| Edinburgh        |            96 |   0.546875 |
+| Scotland         |            34 |   0.573529 |
+| Glasgow Warriors |            16 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Glasgow Warriors     |        14 |   0.571429 |
+| Glasgow Warriors     |        15 |   0.533333 |
 | Leinster             |         8 |   0.25     |
-| Munster              |         7 |   0.428571 |
-| Connacht             |         7 |   0.571429 |
 | Scarlets             |         7 |   0.428571 |
-| Cardiff Blues        |         6 |   0.333333 |
-| France               |         6 |   0.5      |
+| Connacht             |         7 |   0.571429 |
+| Munster              |         7 |   0.428571 |
 | Zebre                |         6 |   0.5      |
+| France               |         6 |   0.5      |
 | Ospreys              |         6 |   0.333333 |
-| Ireland              |         5 |   0.2      |
-| Dragons              |         5 |   1        |
-| Benetton Treviso     |         5 |   0.6      |
+| Cardiff Blues        |         6 |   0.333333 |
+| Ireland              |         6 |   0.166667 |
 | Ulster               |         5 |   0.2      |
-| Edinburgh            |         4 |   0.75     |
-| England              |         4 |   0.375    |
+| Benetton Treviso     |         5 |   0.6      |
+| England              |         5 |   0.5      |
 | Wales                |         4 |   0.5      |
-| Southern Kings       |         3 |   1        |
+| Dragons              |         4 |   1        |
+| Newcastle Falcons    |         3 |   1        |
 | London Irish         |         3 |   0.666667 |
+| Southern Kings       |         3 |   1        |
 | Italy                |         3 |   1        |
 | Agen                 |         3 |   1        |
 | Bordeaux Begles      |         3 |   0.166667 |
@@ -54,22 +54,23 @@ categories: player
 | Wasps                |         2 |   1        |
 | Georgia              |         2 |   1        |
 | Montpellier Herault  |         2 |   0.5      |
-| Bath Rugby           |         2 |   0.75     |
+| Edinburgh            |         2 |   0.5      |
 | Toulon               |         2 |   1        |
-| Newcastle Falcons    |         2 |   1        |
-| Perpignan            |         2 |   1        |
-| Stormers             |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Harlequins           |         1 |   1        |
-| Australia            |         1 |   1        |
-| Timisoara Saracens   |         1 |   1        |
-| Russia               |         1 |   1        |
 | South Africa         |         1 |   0        |
+| Australia            |         1 |   1        |
+| Bath Rugby           |         1 |   1        |
+| Timisoara Saracens   |         1 |   1        |
+| Stormers             |         1 |   0        |
+| Russia               |         1 |   1        |
 | Bulls                |         1 |   0        |
+| Sale Sharks          |         1 |   1        |
 | Grenoble             |         1 |   0        |
+| Perpignan            |         1 |   1        |
 | Canada               |         1 |   1        |
-| New Zealand          |         1 |   0        |
 | Cheetahs             |         1 |   1        |
+| New Zealand          |         1 |   0        |
 | Fiji                 |         1 |   1        |
 | La Rochelle          |         1 |   0        |
 | Krasny Yar           |         1 |   1        |

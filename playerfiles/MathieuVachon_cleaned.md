@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mathieu Vachon  
-date: 2023-02-02 18:42:08.457203  
+date: 2023-03-16 19:49:35.822988  
 categories: player  
 ---
 # Mathieu Vachon
 
 ## Positions: N8, FL
 
-## Current elo: 110.0
+## Current elo: 94.0
 
-## Current Percentile: 66.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,24 +21,24 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            38 |   0.552632 |
+| Blagnac |            41 |   0.585366 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |         4 |   0.5      |
 | Albi                       |         3 |   0.333333 |
-| Dax                        |         3 |   0.333333 |
 | US Bressane                |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.833333 |
 | Suresnes                   |         3 |   0.666667 |
 | Aubenas                    |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
+| Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Dijon                      |         2 |   0.5      |
-| Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Nice                       |         2 |   0        |
+| Rennes                     |         2 |   1        |
 | Chambery                   |         2 |   1        |
 | Massy                      |         2 |   1        |
 | Narbonne                   |         1 |   0.5      |
-| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |

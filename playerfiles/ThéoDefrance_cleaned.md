@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Théo Defrance  
-date: 2023-01-17 11:46:28.742226  
+date: 2023-03-17 17:20:56.195845  
 categories: player  
 ---
 # Théo Defrance
 
 ## Positions: FH
 
-## Current elo: 84.0
+## Current elo: 87.0
 
-## Current Percentile: 17.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,16 +21,18 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             9 |   0.333333 |
+| Carqueiranne-Hyères |            14 |   0.357143 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Blagnac                    |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
-| Nice                       |         1 |          0 |
-| Rennes                     |         1 |          0 |
-| Suresnes                   |         1 |          1 |
-| Tarbes                     |         1 |          1 |
-| US Bressane                |         1 |          0 |
+| Cognac Saint Jean d'Angély |         2 |        1   |
+| Tarbes                     |         2 |        0.5 |
+| US Bressane                |         2 |        0.5 |
+| Albi                       |         1 |        0   |
+| Blagnac                    |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Chambery                   |         1 |        0   |
+| Dax                        |         1 |        0   |
+| Nice                       |         1 |        0   |
+| Rennes                     |         1 |        0   |
+| Suresnes                   |         1 |        1   |

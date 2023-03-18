@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael De Waal  
-date: 2023-03-09 10:10:11.760775  
+date: 2023-03-17 17:24:11.805947  
 categories: player  
 ---
 # Michael De Waal
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Austin Gilgronis |            28 |   0.678571 |
-| Chicago Hounds   |             2 |   0        |
+| Chicago Hounds   |             3 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Dallas Jackals         |         1 |   1        |
 | R.U. New York          |         1 |   1        |
 | Rugby New York         |         1 |   1        |
+| Toronto Arrows         |         1 |   0        |

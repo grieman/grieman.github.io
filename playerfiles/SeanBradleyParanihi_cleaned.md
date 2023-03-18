@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sean Bradley Paranihi  
-date: 2023-03-06 11:27:59.121244  
+date: 2023-03-16 20:02:57.918974  
 categories: player  
 ---
 # Sean Bradley Paranihi
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 119.0
 
-## Current Percentile: None
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| NOLA Gold |             1 |          0 |
+| NOLA Gold |             3 |   0.333333 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rugby ATL  |         1 |          0 |
+| Opponent       |   Matches |   Win Rate |
+|:---------------|----------:|-----------:|
+| Rugby ATL      |         2 |          0 |
+| Rugby New York |         1 |          1 |

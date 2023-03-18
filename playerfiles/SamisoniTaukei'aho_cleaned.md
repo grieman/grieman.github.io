@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samisoni Taukei'aho  
-date: 2023-02-24 09:46:27.205422  
+date: 2023-03-17 17:21:28.138799  
 categories: player  
 ---
 # Samisoni Taukei'aho
@@ -23,16 +23,16 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Chiefs      |            63 |   0.579365 |
+| Chiefs      |            66 |   0.598485 |
 | Waikato     |            26 |   0.423077 |
 | New Zealand |            21 |   0.785714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |        11 |   0.363636 |
+| Crusaders                |        12 |   0.416667 |
+| Highlanders              |         9 |   0.555556 |
 | Blues                    |         8 |   0.5      |
 | Hurricanes               |         8 |   0.5625   |
-| Highlanders              |         8 |   0.5      |
 | Australia                |         5 |   1        |
 | New South Wales Waratahs |         5 |   1        |
 | Brumbies                 |         5 |   0.4      |
@@ -50,21 +50,22 @@ categories: player
 | North Harbour            |         2 |   0        |
 | Sunwolves                |         2 |   0.5      |
 | Western Force            |         2 |   1        |
+| Auckland                 |         2 |   0.5      |
+| Bay of Plenty            |         2 |   0.5      |
 | Jaguares                 |         2 |   0.5      |
 | Ireland                  |         2 |   0.5      |
 | Hawke's Bay              |         2 |   0.5      |
-| Bay of Plenty            |         2 |   0.5      |
-| Auckland                 |         2 |   0.5      |
-| Lions                    |         1 |   0        |
-| Stormers                 |         1 |   1        |
+| Southland                |         1 |   1        |
 | Bulls                    |         1 |   1        |
 | Canterbury               |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
 | England                  |         1 |   0.5      |
-| Fiji                     |         1 |   1        |
-| Southland                |         1 |   1        |
+| Stormers                 |         1 |   1        |
 | Sharks                   |         1 |   0        |
+| Fiji                     |         1 |   1        |
+| Japan                    |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | France                   |         1 |   0        |
-| Japan                    |         1 |   1        |
+| Moana Pasifika           |         1 |   1        |
+| Lions                    |         1 |   0        |

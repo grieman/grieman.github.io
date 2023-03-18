@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Rosco Shane Specman  
-date: 2023-03-11 00:17:02.045701  
+date: 2023-03-17 17:34:30.154865  
 categories: player  
 ---
 # Rosco Shane Specman
 
 ## Positions: W
 
-## Current elo: 85.0
+## Current elo: 80.0
 
 ## Current Percentile: None
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sibongile Vukile Novuka  
-date: 2023-03-06 11:22:31.598018  
+date: 2023-03-17 17:32:45.101159  
 categories: player  
 ---
 # Sibongile Vukile Novuka
 
 ## Positions: W
 
-## Current elo: 91.0
+## Current elo: 87.0
 
-## Current Percentile: 49.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Blue Bulls |             3 |   0.666667 |
+| Blue Bulls |             4 |   0.5      |
 | Bulls      |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,4 +31,5 @@ categories: player
 | Golden Lions        |         1 |          1 |
 | Lions               |         1 |          0 |
 | Lyon                |         1 |          1 |
+| Pumas               |         1 |          0 |
 | Western Province    |         1 |          1 |

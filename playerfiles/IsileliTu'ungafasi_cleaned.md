@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Isileli Tu'ungafasi  
-date: 2023-03-04 11:37:37.373673  
+date: 2023-03-17 17:30:28.698976  
 categories: player  
 ---
 # Isileli Tu'ungafasi
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 70.0
 
-## Current Percentile: 4.0
+## Current Percentile: None
 
 # Elo History
 
@@ -19,18 +19,19 @@ categories: player
 # Match History
 
 
-| Team      |   Appearances |   Win Rate |
-|:----------|--------------:|-----------:|
-| Auckland  |            23 |   0.5      |
-| Northland |            16 |   0.3125   |
-| Crusaders |            12 |   0.625    |
-| Tasman    |            11 |   0.545455 |
+| Team           |   Appearances |   Win Rate |
+|:---------------|--------------:|-----------:|
+| Auckland       |            23 |   0.5      |
+| Northland      |            16 |   0.3125   |
+| Crusaders      |            12 |   0.625    |
+| Tasman         |            11 |   0.545455 |
+| Moana Pasifika |             2 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Waikato                  |         8 |   0.125    |
+| Chiefs                   |         6 |   0.333333 |
 | Canterbury               |         5 |   0        |
-| Chiefs                   |         5 |   0.4      |
 | Southland                |         4 |   0.875    |
 | Hawke's Bay              |         4 |   0.5      |
 | Taranaki                 |         4 |   0.5      |
@@ -44,8 +45,8 @@ categories: player
 | North Harbour            |         2 |   0        |
 | New South Wales Waratahs |         2 |   0.5      |
 | Manawatu                 |         2 |   1        |
+| Western Force            |         2 |   0.5      |
 | Sharks                   |         1 |   0.5      |
 | Sunwolves                |         1 |   1        |
 | Highlanders              |         1 |   1        |
 | Blues                    |         1 |   1        |
-| Western Force            |         1 |   1        |

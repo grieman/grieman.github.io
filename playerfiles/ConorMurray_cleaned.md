@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Conor Murray  
-date: 2023-02-02 18:42:06.224041  
+date: 2023-03-17 17:36:17.308427  
 categories: player  
 ---
 # Conor Murray
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 138.0
+## Current elo: 148.0
 
 ## Current Percentile: 99.0
 
@@ -23,21 +23,21 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Munster                 |           163 |   0.644172 |
-| Ireland                 |            97 |   0.634021 |
+| Munster                 |           172 |   0.630814 |
+| Ireland                 |           102 |   0.651961 |
 | British and Irish Lions |            11 |   0.590909 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Leinster                 |        23 |   0.26087  |
-| Wales                    |        14 |   0.464286 |
+| Leinster                 |        26 |   0.230769 |
+| Wales                    |        15 |   0.5      |
 | New Zealand              |        14 |   0.392857 |
+| France                   |        13 |   0.692308 |
 | Edinburgh                |        13 |   0.923077 |
-| France                   |        11 |   0.636364 |
+| Scotland                 |        12 |   0.833333 |
+| Italy                    |        12 |   0.916667 |
 | England                  |        11 |   0.363636 |
 | Ulster                   |        11 |   0.5      |
-| Scotland                 |        11 |   0.818182 |
-| Italy                    |        11 |   0.909091 |
 | Connacht                 |        11 |   0.727273 |
 | Ospreys                  |        11 |   0.545455 |
 | South Africa             |        10 |   0.5      |
@@ -53,28 +53,28 @@ categories: player
 | Argentina                |         5 |   0.8      |
 | Benetton Treviso         |         5 |   1        |
 | Dragons                  |         5 |   0.8      |
+| Stade Toulousain         |         4 |   0.375    |
+| Clermont Auvergne        |         4 |   0.25     |
 | Gloucester Rugby         |         3 |   1        |
 | Japan                    |         3 |   0.666667 |
+| Exeter Chiefs            |         3 |   0.666667 |
 | Northampton Saints       |         3 |   1        |
-| Clermont Auvergne        |         3 |   0        |
-| Harlequins               |         2 |   0.5      |
+| Harlequins               |         3 |   0.666667 |
+| Samoa                    |         2 |   1        |
 | Wasps                    |         2 |   1        |
 | Toulon                   |         2 |   0.5      |
-| Stade Toulousain         |         2 |   0.5      |
 | Stade Francais Paris     |         2 |   0.5      |
-| Samoa                    |         2 |   1        |
 | Aironi                   |         2 |   1        |
 | Sale Sharks              |         1 |   1        |
-| Romania                  |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
-| Perpignan                |         1 |   1        |
+| Romania                  |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Bulls                    |         1 |   1        |
+| Perpignan                |         1 |   1        |
 | Crusaders                |         1 |   1        |
 | New Zealand Maori        |         1 |   1        |
-| Lions                    |         1 |   1        |
 | Brive                    |         1 |   1        |
 | United States of America |         1 |   1        |
-| Exeter Chiefs            |         1 |   1        |
+| Lions                    |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Russia                   |         1 |   1        |

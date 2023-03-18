@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Vincent Farré  
-date: 2023-02-24 02:31:52.048061  
+date: 2023-03-17 17:15:47.256189  
 categories: player  
 ---
 # Vincent Farré
 
 ## Positions: FL
 
-## Current elo: 85.0
+## Current elo: 88.0
 
-## Current Percentile: 37.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,9 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |             2 |       0.25 |
+| Agen   |             5 |        0.5 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Colomiers      |         1 |        0   |
-| Provence Rugby |         1 |        0.5 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Colomiers        |         2 |        0   |
+| Massy            |         1 |        1   |
+| Provence Rugby   |         1 |        0.5 |
+| Soyaux-Angouleme |         1 |        1   |

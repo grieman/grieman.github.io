@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lincoln McClutchie  
-date: 2023-03-12 11:31:21.169082  
+date: 2023-03-17 17:27:59.689764  
 categories: player  
 ---
 # Lincoln McClutchie

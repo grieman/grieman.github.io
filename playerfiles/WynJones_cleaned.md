@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wyn Jones  
-date: 2023-01-15 12:02:18.046999  
+date: 2023-03-17 17:30:51.196035  
 categories: player  
 ---
 # Wyn Jones
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 94.0
+## Current elo: 93.0
 
 ## Current Percentile: 92.0
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Scarlets                |           110 |   0.563636 |
-| Wales                   |            41 |   0.560976 |
+| Scarlets                |           113 |   0.566372 |
+| Wales                   |            43 |   0.55814  |
 | British and Irish Lions |             2 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -32,32 +32,33 @@ categories: player
 | Cardiff Blues      |        14 |   0.571429 |
 | Ospreys            |        11 |   0.681818 |
 | Dragons            |         9 |   0.777778 |
-| South Africa       |         7 |   0.428571 |
 | Benetton Treviso   |         7 |   0.857143 |
 | Toulon             |         7 |   0.285714 |
 | Glasgow Warriors   |         7 |   0.428571 |
+| South Africa       |         7 |   0.428571 |
 | Ulster             |         6 |   0.333333 |
 | Munster            |         6 |   0.5      |
 | Leinster           |         6 |   0.5      |
-| Zebre              |         5 |   1        |
+| Scotland           |         5 |   0.6      |
+| Italy              |         5 |   0.8      |
 | Ireland            |         5 |   0.2      |
-| France             |         5 |   0.4      |
+| Zebre              |         5 |   1        |
 | England            |         5 |   0.4      |
-| Scotland           |         4 |   0.75     |
+| France             |         5 |   0.4      |
 | Edinburgh          |         4 |   0.5      |
 | Connacht           |         4 |   0.5      |
-| Italy              |         4 |   0.75     |
+| Racing 92          |         3 |   0        |
+| Bath Rugby         |         3 |   0.666667 |
 | Leicester Tigers   |         3 |   0.333333 |
 | Cheetahs           |         3 |   1        |
 | London Irish       |         3 |   0.666667 |
 | New Zealand        |         3 |   0        |
-| Racing 92          |         3 |   0        |
+| Sale Sharks        |         3 |   0.333333 |
 | Saracens           |         2 |   0.25     |
-| Sale Sharks        |         2 |   0.5      |
 | Tonga              |         2 |   1        |
 | Australia          |         2 |   1        |
-| Bath Rugby         |         2 |   0.5      |
 | Georgia            |         2 |   1        |
+| Bayonne            |         2 |   1        |
 | Northampton Saints |         1 |   0        |
 | Samoa              |         1 |   1        |
 | Gloucester Rugby   |         1 |   1        |
@@ -65,6 +66,5 @@ categories: player
 | Southern Kings     |         1 |   1        |
 | Bristol Rugby      |         1 |   0        |
 | Bordeaux Begles    |         1 |   0        |
-| Bayonne            |         1 |   1        |
 | Uruguay            |         1 |   1        |
 | Japan              |         1 |   1        |

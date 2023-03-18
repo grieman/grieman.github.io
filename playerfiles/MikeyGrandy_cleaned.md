@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mikey Grandy  
-date: 2023-02-28 11:02:13.062912  
+date: 2023-03-17 17:24:21.809904  
 categories: player  
 ---
 # Mikey Grandy
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: None
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,8 +21,11 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| American Raptors |             1 |          0 |
+| American Raptors |             5 |          0 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
-| Penarol Rugby |         1 |          0 |
+| Penarol Rugby |         2 |          0 |
+| Pampas XV     |         1 |          0 |
+| Selknam       |         1 |          0 |
+| Yacare XV     |         1 |          0 |

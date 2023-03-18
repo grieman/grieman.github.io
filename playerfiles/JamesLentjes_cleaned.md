@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Lentjes  
-date: 2023-03-04 11:40:18.265801  
+date: 2023-03-17 17:12:05.297341  
 categories: player  
 ---
 # James Lentjes
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Highlanders
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 61.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            64 |   0.484375 |
+| Highlanders |            66 |   0.469697 |
 | Otago       |            56 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |        11 |   0.181818 |
-| Chiefs                   |         7 |   0.5      |
+| Crusaders                |        12 |   0.166667 |
+| Chiefs                   |         8 |   0.4375   |
 | Hurricanes               |         7 |   0.142857 |
 | North Harbour            |         6 |   0.666667 |
 | Blues                    |         6 |   0.5      |

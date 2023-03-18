@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Marnus Schoeman  
-date: 2023-02-04 18:26:49.925103  
+date: 2023-03-17 17:18:16.478351  
 categories: player  
 ---
 # Marnus Schoeman
 
 ## Positions: FL
 
-## Current elo: 87.0
+## Current elo: 76.0
 
-## Current Percentile: 21.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Lions        |            38 |    0.5     |
-| Griquas      |            32 |    0.46875 |
-| Grenoble     |            25 |    0.54    |
-| Pumas        |            20 |    0.275   |
-| Golden Lions |            10 |    0.6     |
-| Bulls        |             1 |    1       |
+| Lions        |            38 |   0.5      |
+| Griquas      |            32 |   0.46875  |
+| Grenoble     |            24 |   0.520833 |
+| Pumas        |            20 |   0.275    |
+| Golden Lions |            10 |   0.6      |
+| Bulls        |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -42,10 +42,10 @@ categories: player
 | Pumas                    |         4 |   0.75     |
 | New South Wales Waratahs |         4 |   0.75     |
 | Bulls                    |         4 |   0.5      |
-| Agen                     |         3 |   0.666667 |
 | Crusaders                |         3 |   0        |
 | Eastern Province Kings   |         3 |   1        |
 | Beziers                  |         3 |   0.333333 |
+| Brumbies                 |         2 |   0.5      |
 | Mont-de-Marsan           |         2 |   0.5      |
 | Sunwolves                |         2 |   1        |
 | Queensland Reds          |         2 |   0.5      |
@@ -53,12 +53,12 @@ categories: player
 | Oyonnax                  |         2 |   0        |
 | Nevers                   |         2 |   1        |
 | Narbonne                 |         2 |   0.75     |
-| Brumbies                 |         2 |   0.5      |
+| Montauban                |         2 |   1        |
 | Melbourne Rebels         |         2 |   0.5      |
 | Boland Cavaliers         |         2 |   0.5      |
 | Carcassonne              |         2 |   0.5      |
 | Leopards                 |         2 |   1        |
-| Montauban                |         2 |   1        |
+| Agen                     |         2 |   0.5      |
 | Highlanders              |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
 | Blues                    |         1 |   0        |

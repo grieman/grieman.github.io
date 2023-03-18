@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonathan Danty  
-date: 2023-01-06 00:10:55.403081  
+date: 2023-03-17 17:35:50.339341  
 categories: player  
 ---
 # Jonathan Danty
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 129.0
+## Current elo: 114.0
 
-## Current Percentile: 94.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -23,58 +23,63 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Stade Francais Paris |           188 |   0.539894 |
-| La Rochelle          |            23 |   0.73913  |
-| France               |            17 |   0.764706 |
+| Stade Francais Paris |           193 |   0.541451 |
+| La Rochelle          |            33 |   0.818182 |
+| France               |            18 |   0.777778 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Toulon               |        18 |   0.5      |
-| Racing 92            |        17 |   0.470588 |
+| Racing 92            |        18 |   0.5      |
+| Castres Olympique    |        15 |   0.733333 |
 | Stade Toulousain     |        15 |   0.233333 |
-| Castres Olympique    |        14 |   0.714286 |
-| Clermont Auvergne    |        14 |   0.357143 |
-| Bordeaux Begles      |        13 |   0.615385 |
+| Bordeaux Begles      |        15 |   0.666667 |
+| Clermont Auvergne    |        15 |   0.4      |
 | Montpellier Herault  |        12 |   0.541667 |
 | Lyon                 |        11 |   0.454545 |
-| Brive                |        10 |   0.7      |
+| Brive                |        11 |   0.727273 |
 | Agen                 |         9 |   0.555556 |
 | La Rochelle          |         9 |   0.5      |
 | Bayonne              |         9 |   0.666667 |
-| Pau                  |         6 |   0.666667 |
+| Pau                  |         7 |   0.714286 |
 | Grenoble             |         6 |   0.666667 |
 | Perpignan            |         6 |   1        |
 | Oyonnax              |         5 |   0.2      |
 | London Irish         |         4 |   0.5      |
 | Worcester Warriors   |         3 |   0.333333 |
 | Edinburgh            |         3 |   0.666667 |
-| Australia            |         3 |   0.666667 |
 | Biarritz Olympique   |         3 |   1        |
+| Australia            |         3 |   0.666667 |
+| Italy                |         2 |   1        |
 | Leicester Tigers     |         2 |   0.5      |
+| Northampton Saints   |         2 |   0.5      |
 | New Zealand          |         2 |   0.5      |
 | Munster              |         2 |   0.5      |
 | Benetton Treviso     |         2 |   1        |
-| Argentina            |         2 |   0.5      |
 | Ospreys              |         2 |   1        |
-| Italy                |         2 |   1        |
+| Argentina            |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
+| Bath Rugby           |         2 |   1        |
+| Glasgow Warriors     |         2 |   1        |
+| England              |         2 |   1        |
 | Wales                |         2 |   0.5      |
 | Bristol Rugby        |         2 |   0        |
 | Scotland             |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
-| Ulster               |         1 |   1        |
 | South Africa         |         1 |   1        |
+| Ulster               |         1 |   1        |
+| Wasps                |         1 |   0        |
 | Bucuresti            |         1 |   1        |
-| Northampton Saints   |         1 |   1        |
-| Newcastle Falcons    |         1 |   1        |
-| Cavalieri Prato      |         1 |   1        |
 | Lusitanos XV         |         1 |   1        |
+| Newcastle Falcons    |         1 |   1        |
+| Cardiff Blues        |         1 |   1        |
 | London Welsh         |         1 |   1        |
+| Leinster             |         1 |   1        |
 | Japan                |         1 |   1        |
 | Ireland              |         1 |   1        |
 | Harlequins           |         1 |   0        |
 | Gloucester Rugby     |         1 |   1        |
 | Georgia              |         1 |   1        |
-| England              |         1 |   1        |
 | Crociati Rugby       |         1 |   1        |
+| Cavalieri Prato      |         1 |   1        |
+| Bucarest Wolves      |         1 |   1        |
 | Zebre                |         1 |   1        |

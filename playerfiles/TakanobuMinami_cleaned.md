@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Takanobu Minami  
-date: 2023-02-02 19:05:01.168661  
+date: 2023-03-17 17:30:36.459295  
 categories: player  
 ---
 # Takanobu Minami
 
 ## Positions: SH
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 42.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            10 |        0.2 |
+| Black Rams Tokyo |            12 |       0.25 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Green Rockets Tokatsu             |         1 |          1 |
-| Kobelco Kobe Steelers             |         1 |          0 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
-| Mitsubishi Dynaboars              |         1 |          0 |
-| NTT Docomo Red Hurricanes Osaka   |         1 |          1 |
-| Saitama Wild Knights              |         1 |          0 |
-| Shizuoka Blue Revs                |         1 |          0 |
-| Toshiba Brave Lupus Tokyo         |         1 |          0 |
-| Urayasu D-Rocks                   |         1 |          0 |
-| Yokohama Canon Eagles             |         1 |          0 |
+| Kobelco Kobe Steelers             |         2 |        0.5 |
+| Yokohama Canon Eagles             |         2 |        0   |
+| Green Rockets Tokatsu             |         1 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
+| Mitsubishi Dynaboars              |         1 |        0   |
+| NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
+| Saitama Wild Knights              |         1 |        0   |
+| Shizuoka Blue Revs                |         1 |        0   |
+| Toshiba Brave Lupus Tokyo         |         1 |        0   |
+| Urayasu D-Rocks                   |         1 |        0   |

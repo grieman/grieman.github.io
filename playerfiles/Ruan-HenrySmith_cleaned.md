@@ -1,29 +1,36 @@
 ---  
 layout: page  
 title: Ruan-Henry Smith  
-date: 2023-03-06 11:25:04.304875  
+date: 2023-03-17 17:26:45.626434  
 categories: player  
 ---
 # Ruan-Henry Smith
 
-## Positions: 
+## Positions: P
 
-## Current elo: 97.0
+## Current elo: 104.0
 
-## Current Percentile: None
+## Current Percentile: 47.0
 
+# Elo History
+
+
+![elo history](history_Ruan-HenrySmith.png)
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Lions  |             7 |   0.428571 |
+| Team         |   Appearances |   Win Rate |
+|:-------------|--------------:|-----------:|
+| Lions        |             6 |   0.333333 |
+| Golden Lions |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Stade Francais Paris |         2 |        0.5 |
-| Bulls                |         1 |        1   |
-| Connacht             |         1 |        0   |
-| Dragons              |         1 |        1   |
-| Munster              |         1 |        0   |
-| Sharks               |         1 |        0   |
+| Bulls                |         1 |          1 |
+| Connacht             |         1 |          0 |
+| Dragons              |         1 |          1 |
+| Munster              |         1 |          0 |
+| Pumas                |         1 |          0 |
+| Sharks               |         1 |          0 |
+| Stade Francais Paris |         1 |          0 |
+| Western Province     |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gustav Du Rand  
-date: 2023-03-12 11:34:41.099051  
+date: 2023-03-17 17:38:15.709200  
 categories: player  
 ---
 # Gustav Du Rand
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 54.0
+## Current Percentile: 53.0
 
 # Elo History
 

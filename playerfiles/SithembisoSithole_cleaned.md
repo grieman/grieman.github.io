@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sithembiso Sithole  
-date: 2023-03-12 11:32:37.515734  
+date: 2023-03-17 17:39:37.014786  
 categories: player  
 ---
 # Sithembiso Sithole
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -21,11 +21,10 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Lions        |             2 |        0.5 |
-| Golden Lions |             1 |        0   |
+| Golden Lions |             1 |          0 |
+| Lions        |             1 |          0 |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Sharks               |         1 |          0 |
-| Stade Francais Paris |         1 |          1 |
-| Western Province     |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Sharks           |         1 |          0 |
+| Western Province |         1 |          0 |

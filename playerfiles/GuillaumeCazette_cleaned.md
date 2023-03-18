@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Guillaume Cazette  
-date: 2023-01-17 11:44:15.011541  
+date: 2023-03-16 20:02:49.250374  
 categories: player  
 ---
 # Guillaume Cazette
 
 ## Positions: FL, L
 
-## Current elo: 102.0
+## Current elo: 105.0
 
-## Current Percentile: 65.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            12 |   0.166667 |
+| Rennes |            16 |     0.1875 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Suresnes                   |         2 |          0 |
-| Albi                       |         1 |          0 |
-| Blagnac                    |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Chambery                   |         1 |          0 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
-| Narbonne                   |         1 |          0 |
-| US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |
+| Blagnac                    |         2 |        0   |
+| Chambery                   |         2 |        0.5 |
+| Suresnes                   |         2 |        0   |
+| US Bressane                |         2 |        0   |
+| Valence Romans Drome Rugby |         2 |        0   |
+| Albi                       |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Carqueiranne-Hyères        |         1 |        1   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Dax                        |         1 |        0   |
+| Narbonne                   |         1 |        0   |

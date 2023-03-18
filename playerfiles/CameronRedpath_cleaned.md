@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cameron Redpath  
-date: 2023-02-02 18:56:57.671915  
+date: 2023-03-16 19:54:34.383056  
 categories: player  
 ---
 # Cameron Redpath
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 113.0
+## Current elo: 101.0
 
-## Current Percentile: 83.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,32 +23,34 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Bath Rugby  |            33 |   0.393939 |
+| Bath Rugby  |            41 |   0.341463 |
 | Sale Sharks |            24 |   0.4375   |
 | Scotland    |             4 |   0.75     |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Leicester Tigers   |         5 |   0.8      |
-| Bristol Rugby      |         5 |   0.1      |
-| Exeter Chiefs      |         5 |   0        |
-| Harlequins         |         4 |   0.75     |
-| Wasps              |         4 |   0.5      |
-| Saracens           |         4 |   0.375    |
-| Sale Sharks        |         4 |   0.25     |
-| Worcester Warriors |         4 |   0.75     |
-| Glasgow Warriors   |         4 |   0.125    |
-| Gloucester Rugby   |         3 |   0.333333 |
-| Newcastle Falcons  |         3 |   0        |
-| Northampton Saints |         3 |   0.666667 |
-| Bath Rugby         |         2 |   0.5      |
-| Connacht           |         2 |   0.5      |
-| La Rochelle        |         1 |   0        |
-| London Irish       |         1 |   1        |
-| Perpignan          |         1 |   1        |
-| Fiji               |         1 |   1        |
-| England            |         1 |   1        |
-| Scarlets           |         1 |   1        |
-| Toulon             |         1 |   0        |
-| Wales              |         1 |   0        |
-| Argentina          |         1 |   1        |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Bristol Rugby       |         6 |  0.0833333 |
+| Leicester Tigers    |         6 |  0.666667  |
+| Exeter Chiefs       |         5 |  0         |
+| Worcester Warriors  |         4 |  0.75      |
+| Glasgow Warriors    |         4 |  0.125     |
+| Saracens            |         4 |  0.375     |
+| Harlequins          |         4 |  0.75      |
+| Wasps               |         4 |  0.5       |
+| Sale Sharks         |         4 |  0.25      |
+| Gloucester Rugby    |         3 |  0.333333  |
+| London Irish        |         3 |  0.666667  |
+| Newcastle Falcons   |         3 |  0         |
+| Northampton Saints  |         3 |  0.666667  |
+| La Rochelle         |         2 |  0         |
+| Connacht            |         2 |  0.5       |
+| Bath Rugby          |         2 |  0.5       |
+| Scarlets            |         2 |  0.5       |
+| Wales               |         1 |  0         |
+| Toulon              |         1 |  0         |
+| Argentina           |         1 |  1         |
+| Perpignan           |         1 |  1         |
+| Montpellier Herault |         1 |  0         |
+| Fiji                |         1 |  1         |
+| England             |         1 |  1         |
+| Leinster            |         1 |  0         |

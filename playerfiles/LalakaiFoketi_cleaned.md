@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lalakai Foketi  
-date: 2023-02-24 09:52:43.571892  
+date: 2023-03-17 17:00:42.891062  
 categories: player  
 ---
 # Lalakai Foketi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 56.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            57 |  0.377193  |
+| New South Wales Waratahs |            61 |  0.368852  |
 | Bay of Plenty            |            30 |  0.383333  |
 | Bayonne                  |             9 |  0.0555556 |
 | Australia                |             5 |  0         |
@@ -33,23 +33,24 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Melbourne Rebels         |         8 |   0.5      |
+| Brumbies                 |         7 |   0.142857 |
 | Queensland Reds          |         7 |   0.571429 |
-| Melbourne Rebels         |         7 |   0.571429 |
-| Brumbies                 |         6 |   0.166667 |
-| Otago                    |         5 |   0.4      |
 | Blues                    |         5 |   0        |
+| Otago                    |         5 |   0.4      |
 | Western Force            |         4 |   0.75     |
 | Highlanders              |         4 |   0.5      |
 | Hawke's Bay              |         4 |   0.5      |
+| Fijian Drua              |         4 |   0.75     |
 | Crusaders                |         4 |   0.25     |
 | Chiefs                   |         4 |   0        |
-| Fijian Drua              |         3 |   0.666667 |
 | Wellington               |         3 |   0        |
+| Hurricanes               |         3 |   0        |
 | Taranaki                 |         3 |   0        |
 | Lions                    |         3 |   0.333333 |
 | Northland                |         2 |   0.5      |
-| Queensland Country       |         2 |   0.5      |
 | Sunwolves                |         2 |   0.5      |
+| Queensland Country       |         2 |   0.5      |
 | North Harbour            |         2 |   0.5      |
 | New Zealand              |         2 |   0        |
 | Auckland                 |         2 |   0        |
@@ -57,7 +58,6 @@ categories: player
 | Manawatu                 |         2 |   1        |
 | La Rochelle              |         2 |   0.25     |
 | Sharks                   |         2 |   0.25     |
-| Hurricanes               |         2 |   0        |
 | Waikato                  |         2 |   0.5      |
 | Counties Manukau         |         2 |   0.25     |
 | Connacht                 |         2 |   0        |

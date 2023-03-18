@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ollie Fletcher  
-date: 2023-01-06 00:08:23.808879  
+date: 2023-03-17 17:40:23.932383  
 categories: player  
 ---
 # Ollie Fletcher
 
 ## Positions: H
 
-## Current elo: 99.0
+## Current elo: 87.0
 
 ## Current Percentile: None
 

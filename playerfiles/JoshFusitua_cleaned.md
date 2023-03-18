@@ -1,28 +1,34 @@
 ---  
 layout: page  
 title: Josh Fusitua  
-date: 2023-03-02 11:21:04.817518  
+date: 2023-03-17 16:59:40.872697  
 categories: player  
 ---
 # Josh Fusitua
 
-## Positions: 
+## Positions: P
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: None
+## Current Percentile: 52.0
 
+# Elo History
+
+
+![elo history](history_JoshFusitua.png)
 # Match History
 
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Auckland |             4 |          1 |
-| Blues    |             2 |          1 |
+| Auckland |             4 |       1    |
+| Blues    |             4 |       0.75 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
+| Brumbies       |         1 |          0 |
 | Highlanders    |         1 |          1 |
+| Hurricanes     |         1 |          1 |
 | Manawatu       |         1 |          1 |
 | Moana Pasifika |         1 |          1 |
 | North Harbour  |         1 |          1 |

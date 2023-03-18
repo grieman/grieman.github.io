@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kudzwai Dube  
-date: 2023-03-11 00:16:09.360606  
+date: 2023-03-17 17:17:32.985093  
 categories: player  
 ---
 # Kudzwai Dube
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 76.0
 
-## Current Percentile: 67.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |            15 |   0.533333 |
+| Griquas |            16 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Free State Cheetahs |         4 |   0.25     |
 | Blue Bulls          |         3 |   0.333333 |
-| Free State Cheetahs |         3 |   0.333333 |
 | Pumas               |         3 |   0.666667 |
 | Golden Lions        |         2 |   1        |
 | Natal Sharks        |         2 |   0        |

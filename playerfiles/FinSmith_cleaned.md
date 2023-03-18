@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fin Smith  
-date: 2023-01-06 00:24:36.858297  
+date: 2023-03-17 17:08:51.166084  
 categories: player  
 ---
 # Fin Smith
 
 ## Positions: FH
 
-## Current elo: 106.0
+## Current elo: 102.0
 
-## Current Percentile: 20.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,26 +21,28 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Worcester Warriors |            26 |   0.211538 |
-| Northampton Saints |             7 |   0.428571 |
+| Worcester Warriors |            28 |   0.196429 |
+| Northampton Saints |            13 |   0.461538 |
 | Ampthill           |             4 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Bath Rugby         |         3 |   0.333333 |
-| Bristol Rugby      |         3 |   0.666667 |
+| Bath Rugby         |         4 |   0.5      |
+| Bristol Rugby      |         4 |   0.5      |
+| Sale Sharks        |         4 |   0.5      |
 | Saracens           |         3 |   0        |
-| Sale Sharks        |         3 |   0.333333 |
 | Northampton Saints |         3 |   0        |
 | Wasps              |         3 |   0.333333 |
+| Gloucester Rugby   |         3 |   0.333333 |
 | Exeter Chiefs      |         3 |   0.666667 |
+| La Rochelle        |         2 |   0        |
 | Leicester Tigers   |         2 |   0        |
-| Harlequins         |         2 |   0.5      |
-| Newcastle Falcons  |         2 |   0.25     |
-| Gloucester Rugby   |         2 |   0        |
-| Coventry           |         2 |   0.5      |
 | London Irish       |         2 |   0        |
-| La Rochelle        |         1 |   0        |
-| London Scottish    |         1 |   1        |
-| Munster            |         1 |   0        |
+| Harlequins         |         2 |   0.5      |
+| Munster            |         2 |   0        |
+| Newcastle Falcons  |         2 |   0.25     |
+| Coventry           |         2 |   0.5      |
+| Lyon               |         1 |   0        |
 | Nottingham         |         1 |   0        |
+| Toulon             |         1 |   0        |
+| London Scottish    |         1 |   1        |

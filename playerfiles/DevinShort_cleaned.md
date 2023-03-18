@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Devin Short  
-date: 2023-03-16 11:32:07.060444  
+date: 2023-03-16 19:56:34.614959  
 categories: player  
 ---
 # Devin Short

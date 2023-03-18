@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Hooper  
-date: 2023-02-24 09:51:03.531089  
+date: 2023-03-17 17:25:24.618558  
 categories: player  
 ---
 # Michael Hooper
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 133.0
+## Current elo: 135.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
+| New South Wales Waratahs |           132 |   0.511364 |
 | Australia                |           131 |   0.496183 |
-| New South Wales Waratahs |           128 |   0.519531 |
 | Brumbies                 |            31 |   0.467742 |
 | Toyota Verblitz          |             5 |   0.8      |
 
@@ -33,18 +33,18 @@ categories: player
 | New Zealand                     |        33 |   0.166667 |
 | Argentina                       |        21 |   0.880952 |
 | Queensland Reds                 |        19 |   0.684211 |
-| Melbourne Rebels                |        17 |   0.764706 |
+| Melbourne Rebels                |        18 |   0.722222 |
+| Brumbies                        |        17 |   0.352941 |
 | South Africa                    |        16 |   0.5      |
-| Brumbies                        |        16 |   0.375    |
 | England                         |        15 |   0.2      |
 | Western Force                   |        15 |   0.633333 |
+| Hurricanes                      |        10 |   0.4      |
 | Chiefs                          |        10 |   0.4      |
 | Crusaders                       |         9 |   0.444444 |
 | Blues                           |         9 |   0.222222 |
 | Wales                           |         9 |   0.777778 |
 | France                          |         9 |   0.555556 |
 | Highlanders                     |         9 |   0.444444 |
-| Hurricanes                      |         9 |   0.444444 |
 | Scotland                        |         8 |   0.625    |
 | Lions                           |         8 |   0.375    |
 | Ireland                         |         7 |   0.285714 |
@@ -55,15 +55,15 @@ categories: player
 | Italy                           |         4 |   1        |
 | Sunwolves                       |         4 |   0.75     |
 | New South Wales Waratahs        |         4 |   0.5      |
-| British and Irish Lions         |         3 |   0.333333 |
 | Fiji                            |         3 |   1        |
 | Jaguares                        |         3 |   0        |
+| British and Irish Lions         |         3 |   0.333333 |
 | Southern Kings                  |         2 |   0.5      |
+| Fijian Drua                     |         2 |   1        |
 | Japan                           |         2 |   1        |
 | NTT Docomo Red Hurricanes Osaka |         1 |   1        |
 | Mitsubishi Dynaboars            |         1 |   1        |
-| Mie Honda Heat                  |         1 |   1        |
 | Tokyo Sungoliath                |         1 |   0        |
 | Uruguay                         |         1 |   1        |
-| Fijian Drua                     |         1 |   1        |
+| Mie Honda Heat                  |         1 |   1        |
 | Munakata Sanix Blues            |         1 |   1        |

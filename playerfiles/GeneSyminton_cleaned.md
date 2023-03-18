@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gene Syminton  
-date: 2023-02-24 02:25:36.400255  
+date: 2023-03-17 17:07:20.024165  
 categories: player  
 ---
 # Gene Syminton
 
 ## Positions: H
 
-## Current elo: 88.0
+## Current elo: 82.0
 
-## Current Percentile: None
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,8 +21,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |             1 |          0 |
+| Toronto Arrows |             4 |       0.25 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rugby ATL  |         1 |          0 |
+| Opponent       |   Matches |   Win Rate |
+|:---------------|----------:|-----------:|
+| Rugby ATL      |         2 |          0 |
+| Chicago Hounds |         1 |          1 |
+| Rugby New York |         1 |          0 |

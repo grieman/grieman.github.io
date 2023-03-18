@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Costel Burtila  
-date: 2023-02-02 18:55:15.720870  
+date: 2023-03-17 17:09:09.929167  
 categories: player  
 ---
 # Costel Burtila
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Romania
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 42.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,17 +23,15 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |            12 |   0.333333 |
 | Romania             |             9 |   0.555556 |
+| Carqueiranne-Hyères |             8 |   0.375    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         2 |        0   |
 | Netherlands                |         2 |        1   |
 | Portugal                   |         2 |        0.5 |
 | Spain                      |         2 |        0.5 |
-| Suresnes                   |         2 |        0.5 |
-| Albi                       |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
 | Chambery                   |         1 |        1   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Georgia                    |         1 |        0   |
@@ -41,6 +39,6 @@ categories: player
 | Nice                       |         1 |        0   |
 | Rennes                     |         1 |        0   |
 | Russia                     |         1 |        0   |
+| Suresnes                   |         1 |        0   |
 | Tarbes                     |         1 |        1   |
 | Tonga                      |         1 |        1   |
-| Valence Romans Drome Rugby |         1 |        0   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diego Fortuny  
-date: 2023-02-28 11:04:54.084195  
+date: 2023-03-17 17:30:00.204068  
 categories: player  
 ---
 # Diego Fortuny

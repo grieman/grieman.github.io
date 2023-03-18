@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kazuma Nishi  
-date: 2023-01-13 11:23:11.949679  
+date: 2023-03-17 17:33:27.337155  
 categories: player  
 ---
 # Kazuma Nishi
 
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 92.0
 
-## Current Percentile: 14.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,19 +21,20 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            17 |   0.294118 |
+| Black Rams Tokyo |            24 |      0.375 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
-| Green Rockets Tokatsu     |         2 |        1   |
-| Saitama Wild Knights      |         2 |        0   |
-| Shizuoka Blue Revs        |         2 |        0   |
-| Toyota Verblitz           |         2 |        0.5 |
-| Yokohama Canon Eagles     |         2 |        0   |
-| Hino Red Dolphins         |         1 |        1   |
-| Kobelco Kobe Steelers     |         1 |        0   |
-| Mie Honda Heat            |         1 |        0   |
-| Mitsubishi Dynaboars      |         1 |        0   |
-| Munakata Sanix Blues      |         1 |        1   |
-| Tokyo Sungoliath          |         1 |        0   |
-| Toshiba Brave Lupus Tokyo |         1 |        0   |
+| Saitama Wild Knights      |         3 |   0        |
+| Shizuoka Blue Revs        |         3 |   0.333333 |
+| Yokohama Canon Eagles     |         3 |   0        |
+| Green Rockets Tokatsu     |         2 |   1        |
+| Kobelco Kobe Steelers     |         2 |   0.5      |
+| Tokyo Sungoliath          |         2 |   0        |
+| Toshiba Brave Lupus Tokyo |         2 |   0.5      |
+| Toyota Verblitz           |         2 |   0.5      |
+| Hanazono Kintetsu Liners  |         1 |   1        |
+| Hino Red Dolphins         |         1 |   1        |
+| Mie Honda Heat            |         1 |   0        |
+| Mitsubishi Dynaboars      |         1 |   0        |
+| Munakata Sanix Blues      |         1 |   1        |

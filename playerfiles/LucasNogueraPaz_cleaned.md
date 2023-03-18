@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lucas Noguera Paz  
-date: 2023-03-09 10:08:10.073745  
+date: 2023-03-17 17:10:24.504817  
 categories: player  
 ---
 # Lucas Noguera Paz
 
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 109.0
 
-## Current Percentile: 88.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Yacare XV |             2 |        0.5 |
+| Yacare XV |             3 |   0.666667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Cobras     |         1 |          1 |
-| Dogos XV   |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| American Raptors |         1 |          1 |
+| Cobras           |         1 |          1 |
+| Dogos XV         |         1 |          0 |

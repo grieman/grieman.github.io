@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam Fischli  
-date: 2023-02-24 02:31:38.558234  
+date: 2023-03-17 17:35:28.825100  
 categories: player  
 ---
 # Sam Fischli
 
 ## Positions: FL
 
-## Current elo: 107.0
+## Current elo: 117.0
 
-## Current Percentile: None
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,8 +21,10 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |             1 |          1 |
+| New England Free Jacks |             4 |       0.75 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| NOLA Gold  |         1 |          1 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| NOLA Gold        |         2 |          1 |
+| Old Glory DC     |         1 |          1 |
+| San Diego Legion |         1 |          0 |

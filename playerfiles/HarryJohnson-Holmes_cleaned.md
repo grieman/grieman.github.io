@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Johnson-Holmes  
-date: 2023-03-11 00:15:50.414809  
+date: 2023-03-17 17:33:21.304675  
 categories: player  
 ---
 # Harry Johnson-Holmes
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            69 |   0.398551 |
+| New South Wales Waratahs |            71 |   0.387324 |
 | NSW Country Eagles       |            16 |   0.3125   |
 | Australia                |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Melbourne Rebels    |        11 |   0.545455 |
 | Brumbies            |        10 |   0.1      |
 | Queensland Reds     |        10 |   0.5      |
-| Melbourne Rebels    |        10 |   0.6      |
 | Western Force       |         8 |   0.625    |
 | Fijian Drua         |         5 |   0.5      |
 | Sunwolves           |         4 |   0.75     |
@@ -40,8 +40,8 @@ categories: player
 | Crusaders           |         4 |   0.5      |
 | Chiefs              |         4 |   0        |
 | Highlanders         |         3 |   0.666667 |
+| Hurricanes          |         3 |   0        |
 | Brisbane City       |         3 |   0.166667 |
-| Hurricanes          |         2 |   0        |
 | Melbourne Rising    |         2 |   0.5      |
 | Queensland Country  |         2 |   0        |
 | Canberra Vikings    |         2 |   0.5      |

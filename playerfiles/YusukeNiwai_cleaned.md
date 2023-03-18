@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yusuke Niwai  
-date: 2023-02-04 18:28:01.074587  
+date: 2023-03-17 17:08:14.427262  
 categories: player  
 ---
 # Yusuke Niwai
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 61.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            52 |   0.509615 |
+| Yokohama Canon Eagles |            51 |   0.5      |
 | Sunwolves             |            18 |   0.222222 |
 | Japan                 |            10 |   0.3      |
 
@@ -31,11 +31,11 @@ categories: player
 |:----------------------------------|----------:|-----------:|
 | Kobelco Kobe Steelers             |         5 |   0.2      |
 | Saitama Wild Knights              |         5 |   0        |
-| Black Rams Tokyo                  |         5 |   0.6      |
 | Toshiba Brave Lupus Tokyo         |         4 |   0.25     |
 | Coca-Cola Red Sparks              |         4 |   1        |
 | Shizuoka Blue Revs                |         4 |   0.25     |
 | NTT Docomo Red Hurricanes Osaka   |         4 |   0.75     |
+| Black Rams Tokyo                  |         4 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |
 | Bulls                             |         3 |   0.666667 |
 | Toyota Industries Shuttles Aichi  |         3 |   1        |

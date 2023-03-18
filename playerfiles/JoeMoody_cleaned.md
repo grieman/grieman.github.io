@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Moody  
-date: 2023-02-24 09:52:33.480754  
+date: 2023-03-17 17:39:35.694614  
 categories: player  
 ---
 # Joe Moody
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 26.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Crusaders         |           107 |   0.761682 |
+| Crusaders         |           109 |   0.756881 |
 | New Zealand       |            60 |   0.816667 |
 | Canterbury        |            24 |   0.791667 |
 | New Zealand Maori |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Highlanders              |        19 |   0.842105 |
+| Highlanders              |        20 |   0.85     |
+| Chiefs                   |        17 |   0.411765 |
 | Australia                |        16 |   0.875    |
-| Chiefs                   |        16 |   0.4375   |
 | Hurricanes               |        14 |   0.714286 |
 | Blues                    |        13 |   0.846154 |
 | Argentina                |         9 |   0.888889 |

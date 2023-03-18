@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robbie Smith  
-date: 2023-02-02 18:54:39.555237  
+date: 2023-03-17 17:39:25.168885  
 categories: player  
 ---
 # Robbie Smith
 
 ## Positions: C, W
 
-## Current elo: 79.0
+## Current elo: 80.0
 
-## Current Percentile: 2.0
+## Current Percentile: 3.0
 
 # Elo History
 

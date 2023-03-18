@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Felix Kalapu  
-date: 2023-03-02 11:21:05.726730  
+date: 2023-03-17 17:33:54.667528  
 categories: player  
 ---
 # Felix Kalapu
 
 ## Positions: FL, L
 
-## Current elo: 55.0
+## Current elo: 48.0
 
-## Current Percentile: 1.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,10 +21,10 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| North Harbour |             8 |      0.5   |
-| Old Glory DC  |             8 |      0.375 |
-| Auckland      |             1 |      1     |
-| Western Force |             1 |      1     |
+| North Harbour |             8 |   0.5      |
+| Old Glory DC  |             8 |   0.375    |
+| Western Force |             3 |   0.666667 |
+| Auckland      |             1 |   1        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -36,9 +36,11 @@ categories: player
 | Rugby New York         |         1 |          0 |
 | Rugby ATL              |         1 |          0 |
 | R.U. New York          |         1 |          0 |
+| Queensland Reds        |         1 |          0 |
 | Northland              |         1 |          1 |
 | New England Free Jacks |         1 |          0 |
 | NOLA Gold              |         1 |          0 |
+| Moana Pasifika         |         1 |          1 |
 | Melbourne Rebels       |         1 |          1 |
 | Manawatu               |         1 |          1 |
 | Hawke's Bay            |         1 |          0 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Robinson  
-date: 2023-03-06 11:27:08.117028  
+date: 2023-03-17 17:10:54.317281  
 categories: player  
 ---
 # Tom Robinson
 
 ## Positions: FL, L
 
-## Current elo: 117.0
+## Current elo: 118.0
 
-## Current Percentile: 87.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Blues     |            45 |   0.633333 |
+| Blues     |            47 |   0.62766  |
 | Northland |            15 |   0.266667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |         7 |   0.571429 |
+| Hurricanes               |         7 |   0.714286 |
 | Crusaders                |         6 |   0.166667 |
 | Highlanders              |         6 |   0.666667 |
-| Hurricanes               |         6 |   0.666667 |
+| Brumbies                 |         4 |   0.5      |
 | Waikato                  |         4 |   0.25     |
 | New South Wales Waratahs |         3 |   1        |
-| Brumbies                 |         3 |   0.666667 |
 | Queensland Reds          |         3 |   0.666667 |
 | Melbourne Rebels         |         2 |   1        |
 | Stormers                 |         2 |   1        |

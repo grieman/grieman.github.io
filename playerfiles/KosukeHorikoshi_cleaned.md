@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kosuke Horikoshi  
-date: 2023-03-09 10:09:34.237170  
+date: 2023-03-17 17:09:16.037606  
 categories: player  
 ---
 # Kosuke Horikoshi

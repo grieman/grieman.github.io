@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Daniel Botha  
-date: 2023-03-04 11:34:44.910544  
+date: 2023-03-17 17:31:43.964547  
 categories: player  
 ---
 # Daniel Botha
 
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,9 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |             1 |          1 |
+| New South Wales Waratahs |             2 |        0.5 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
 | Fijian Drua |         1 |          1 |
+| Hurricanes  |         1 |          0 |

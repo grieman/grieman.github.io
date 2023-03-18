@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom ROSS  
-date: 2023-03-16 11:32:57.023450  
+date: 2023-03-17 17:16:06.811904  
 categories: player  
 ---
 # Tom ROSS
 
 ## Positions: P
 
-## Current elo: 78.0
+## Current elo: 77.0
 
-## Current Percentile: 6.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            33 |   0.666667 |
+| Brumbies         |            34 |   0.676471 |
 | Canberra Vikings |            14 |   0.642857 |
 | Southland        |             7 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Western Force            |         7 |   0.857143 |
-| Queensland Reds          |         6 |   0.333333 |
+| Queensland Reds          |         7 |   0.428571 |
 | New South Wales Waratahs |         6 |   1        |
 | Fijian Drua              |         5 |   0.6      |
 | Melbourne Rebels         |         4 |   0.75     |

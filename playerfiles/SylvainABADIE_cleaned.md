@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sylvain ABADIE  
-date: 2023-03-16 11:30:59.938874  
+date: 2023-03-17 17:27:42.427866  
 categories: player  
 ---
 # Sylvain ABADIE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 63.0
+## Current Percentile: 62.0
 
 # Elo History
 

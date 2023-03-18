@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyrel LOMAX  
-date: 2023-03-16 11:32:53.563336  
+date: 2023-03-17 17:28:20.284701  
 categories: player  
 ---
 # Tyrel LOMAX
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 146.0
+## Current elo: 144.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Hurricanes        |            38 |   0.526316 |
+| Hurricanes        |            42 |   0.547619 |
 | Highlanders       |            30 |   0.5      |
 | Tasman            |            26 |   0.807692 |
 | New Zealand       |            23 |   0.73913  |
@@ -34,21 +34,21 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blues                    |        11 |   0.454545 |
+| Blues                    |        12 |   0.416667 |
 | Chiefs                   |        10 |   0.35     |
 | Crusaders                |        10 |   0.1      |
-| New South Wales Waratahs |         7 |   0.428571 |
+| New South Wales Waratahs |         8 |   0.5      |
 | Argentina                |         6 |   0.666667 |
 | Highlanders              |         6 |   0.666667 |
+| Queensland Reds          |         6 |   0.833333 |
 | Australia                |         5 |   0.7      |
 | Brumbies                 |         5 |   0.2      |
-| Queensland Reds          |         5 |   0.8      |
+| Melbourne Rebels         |         4 |   1        |
 | Auckland                 |         4 |   0.75     |
 | Hurricanes               |         4 |   0.25     |
 | Taranaki                 |         3 |   0.666667 |
 | Stormers                 |         3 |   0.333333 |
 | Sharks                   |         3 |   0.5      |
-| Melbourne Rebels         |         3 |   1        |
 | Ireland                  |         3 |   0.333333 |
 | Lions                    |         3 |   0.333333 |
 | Fiji                     |         3 |   0.666667 |

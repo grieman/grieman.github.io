@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gherardus Jacobus Labuschagne  
-date: 2023-03-02 11:20:53.057607  
+date: 2023-03-17 17:19:14.251371  
 categories: player  
 ---
 # Gherardus Jacobus Labuschagne
 
 ## Positions: W, FB
 
-## Current elo: 94.0
+## Current elo: 102.0
 
-## Current Percentile: 54.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Houston SaberCats  |            14 |        0.5 |
+| Houston SaberCats  |            16 |        0.5 |
 | Shizuoka Blue Revs |            10 |        0.8 |
 | Pumas              |             1 |        0   |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Dallas Jackals                    |         3 |        1   |
+| Seattle Seawolves                 |         3 |        0   |
 | Austin Gilgronis                  |         2 |        0   |
 | L. A. Giltinis                    |         2 |        0.5 |
-| Seattle Seawolves                 |         2 |        0   |
-| Saitama Wild Knights              |         1 |        0   |
+| San Diego Legion                  |         1 |        1   |
 | Utah Warriors                     |         1 |        1   |
 | Urayasu D-Rocks                   |         1 |        1   |
 | Toyota Verblitz                   |         1 |        1   |
@@ -39,6 +39,7 @@ categories: player
 | Toronto Arrows                    |         1 |        1   |
 | Tokyo Sungoliath                  |         1 |        0   |
 | Rugby New York                    |         1 |        0   |
+| Saitama Wild Knights              |         1 |        0   |
 | Coca-Cola Red Sparks              |         1 |        1   |
 | R.U. New York                     |         1 |        0   |
 | NTT Docomo Red Hurricanes Osaka   |         1 |        1   |

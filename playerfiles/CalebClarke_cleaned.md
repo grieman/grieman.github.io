@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Caleb Clarke  
-date: 2023-03-02 11:24:09.652397  
+date: 2023-03-17 17:31:40.990154  
 categories: player  
 ---
 # Caleb Clarke
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 63.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -23,23 +23,23 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blues       |            37 |   0.608108 |
+| Blues       |            39 |   0.602564 |
 | Auckland    |            16 |   0.625    |
 | New Zealand |            16 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |         8 |   0.75     |
+| Hurricanes               |         8 |   0.5      |
 | Chiefs                   |         7 |   0.714286 |
-| Hurricanes               |         7 |   0.428571 |
 | Australia                |         6 |   0.916667 |
 | Crusaders                |         5 |   0        |
 | Argentina                |         4 |   0.5      |
 | Wellington               |         3 |   0.666667 |
+| Brumbies                 |         3 |   0.333333 |
 | Counties Manukau         |         2 |   0.5      |
 | Tasman                   |         2 |   0        |
 | Southland                |         2 |   1        |
-| Brumbies                 |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
 | North Harbour            |         2 |   0.5      |
 | Northland                |         2 |   1        |

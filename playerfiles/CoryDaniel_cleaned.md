@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cory Daniel  
-date: 2023-03-16 11:30:31.858228  
+date: 2023-03-17 17:04:29.769923  
 categories: player  
 ---
 # Cory Daniel
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 59.0
+## Current Percentile: 58.0
 
 # Elo History
 

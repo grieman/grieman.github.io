@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mickael Blanc  
-date: 2023-01-17 11:30:09.382426  
+date: 2023-03-17 17:39:31.153583  
 categories: player  
 ---
 # Mickael Blanc
 
 ## Positions: C
 
-## Current elo: 86.0
+## Current elo: 74.0
 
-## Current Percentile: None
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Aubenas  |            19 |   0.236842 |
-| Chambery |             8 |   0.875    |
+| Chambery |             7 |   0.857143 |
 | Toulon   |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -37,9 +37,9 @@ categories: player
 | Massy                      |         2 |   0        |
 | Nice                       |         2 |   0        |
 | Tarbes                     |         2 |   0.5      |
-| US Bressane                |         2 |   0.5      |
 | Aubenas                    |         1 |   1        |
 | Bayonne                    |         1 |   0        |
 | Cognac Saint Jean d'Angély |         1 |   0        |
 | Narbonne                   |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   1        |
+| US Bressane                |         1 |   0        |

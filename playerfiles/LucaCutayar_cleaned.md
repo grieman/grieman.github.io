@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luca Cutayar  
-date: 2023-02-02 18:46:56.573656  
+date: 2023-03-17 17:20:04.241626  
 categories: player  
 ---
 # Luca Cutayar
 
 ## Positions: C
 
-## Current elo: 101.0
+## Current elo: 105.0
 
-## Current Percentile: 59.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,20 +21,21 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |            21 |    0.52381 |
+| Nice   |            25 |       0.54 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Suresnes                   |         3 |        1   |
-| Chambery                   |         2 |        0   |
-| Cognac Saint Jean d'Angély |         2 |        0.5 |
-| Dijon                      |         2 |        1   |
-| Narbonne                   |         2 |        0   |
-| Tarbes                     |         2 |        1   |
-| Valence Romans Drome Rugby |         2 |        0   |
-| Blagnac                    |         1 |        1   |
-| Bourgoin-Jallieu           |         1 |        0   |
-| Dax                        |         1 |        0   |
-| Massy                      |         1 |        1   |
-| Rennes                     |         1 |        1   |
-| US Bressane                |         1 |        0   |
+| Suresnes                   |         3 |   1        |
+| Tarbes                     |         3 |   0.666667 |
+| Valence Romans Drome Rugby |         3 |   0.333333 |
+| Chambery                   |         2 |   0        |
+| Cognac Saint Jean d'Angély |         2 |   0.5      |
+| Dijon                      |         2 |   1        |
+| Narbonne                   |         2 |   0        |
+| US Bressane                |         2 |   0.5      |
+| Albi                       |         1 |   0.5      |
+| Blagnac                    |         1 |   1        |
+| Bourgoin-Jallieu           |         1 |   0        |
+| Dax                        |         1 |   0        |
+| Massy                      |         1 |   1        |
+| Rennes                     |         1 |   1        |

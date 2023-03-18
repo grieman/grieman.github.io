@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charly Vicenzo Trussardi  
-date: 2023-02-24 02:28:20.040749  
+date: 2023-03-17 17:34:35.914750  
 categories: player  
 ---
 # Charly Vicenzo Trussardi
 
 ## Positions: W
 
-## Current elo: 110.0
+## Current elo: 113.0
 
-## Current Percentile: 76.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,16 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |             9 |   0.833333 |
+| Albi   |             8 |     0.8125 |
 
-| Opponent                   |   Matches |   Win Rate |
-|:---------------------------|----------:|-----------:|
-| Blagnac                    |         1 |        1   |
-| Bourgoin-Jallieu           |         1 |        0   |
-| Carqueiranne-Hyères        |         1 |        1   |
-| Chambery                   |         1 |        1   |
-| Cognac Saint Jean d'Angély |         1 |        1   |
-| Narbonne                   |         1 |        1   |
-| Nice                       |         1 |        0.5 |
-| Rennes                     |         1 |        1   |
-| US Bressane                |         1 |        1   |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Blagnac             |         1 |        1   |
+| Bourgoin-Jallieu    |         1 |        0   |
+| Carqueiranne-Hyères |         1 |        1   |
+| Dax                 |         1 |        1   |
+| Narbonne            |         1 |        1   |
+| Nice                |         1 |        0.5 |
+| Rennes              |         1 |        1   |
+| Suresnes            |         1 |        1   |

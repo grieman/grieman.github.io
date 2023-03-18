@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Niccolo Cannone  
-date: 2023-01-13 11:36:39.570355  
+date: 2023-03-17 17:27:52.485375  
 categories: player  
 ---
 # Niccolo Cannone
 
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 

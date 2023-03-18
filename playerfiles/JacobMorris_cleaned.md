@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jacob Morris  
-date: 2023-03-04 11:42:39.496486  
+date: 2023-03-17 17:34:07.305305  
 categories: player  
 ---
 # Jacob Morris
 
 ## Positions: W
 
-## Current elo: 77.0
+## Current elo: 72.0
 
-## Current Percentile: 8.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |             8 |   0        |
+| Gloucester Rugby |             9 |   0        |
 | Hartpury College |             7 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -33,6 +33,7 @@ categories: player
 | Ealing Trailfinders |         1 |          0 |
 | Exeter Chiefs       |         1 |          0 |
 | Leicester Tigers    |         1 |          0 |
+| Leinster            |         1 |          0 |
 | London Scottish     |         1 |          1 |
 | Lyon                |         1 |          0 |
 | Nottingham          |         1 |          0 |

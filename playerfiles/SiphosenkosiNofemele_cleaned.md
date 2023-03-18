@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siphosenkosi Nofemele  
-date: 2023-03-12 11:34:37.478541  
+date: 2023-03-17 17:06:53.182480  
 categories: player  
 ---
 # Siphosenkosi Nofemele
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 59.0
 
-## Current Percentile: 7.0
+## Current Percentile: 6.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ardie Savea  
-date: 2023-03-02 11:20:20.380904  
+date: 2023-03-17 17:14:07.066316  
 categories: player  
 ---
 # Ardie Savea
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 125.0
+## Current elo: 123.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Hurricanes  |           120 |   0.6625   |
+| Hurricanes  |           122 |   0.668033 |
 | New Zealand |            73 |   0.760274 |
 | Wellington  |            34 |   0.720588 |
 
@@ -39,15 +39,15 @@ categories: player
 | Brumbies                 |         9 |   0.444444 |
 | Ireland                  |         8 |   0.375    |
 | Queensland Reds          |         7 |   1        |
-| New South Wales Waratahs |         6 |   0.666667 |
+| New South Wales Waratahs |         7 |   0.714286 |
 | France                   |         6 |   0.833333 |
 | Lions                    |         6 |   0.833333 |
 | Western Force            |         5 |   0.8      |
+| Melbourne Rebels         |         5 |   1        |
 | Bulls                    |         4 |   0.75     |
 | Wales                    |         4 |   1        |
 | Stormers                 |         4 |   0.5      |
 | Sharks                   |         4 |   0.75     |
-| Melbourne Rebels         |         4 |   1        |
 | Waikato                  |         3 |   1        |
 | Taranaki                 |         3 |   1        |
 | Southland                |         3 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Leicester Fainga'anuku  
-date: 2023-02-24 09:56:20.555399  
+date: 2023-03-17 17:26:21.761697  
 categories: player  
 ---
 # Leicester Fainga'anuku
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 48.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            42 |   0.833333 |
+| Crusaders   |            44 |   0.818182 |
 | Tasman      |            23 |   0.695652 |
 | New Zealand |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Chiefs                   |         9 |   0.666667 |
-| Highlanders              |         7 |   0.857143 |
+| Chiefs                   |        10 |   0.6      |
+| Highlanders              |         8 |   0.875    |
 | Hurricanes               |         6 |   0.833333 |
 | Hawke's Bay              |         5 |   0.6      |
 | Blues                    |         4 |   0.75     |

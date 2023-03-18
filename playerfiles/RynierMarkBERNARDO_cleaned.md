@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Rynier Mark Bernardo  
-date: 2023-03-16 11:31:35.655053  
+date: 2023-03-16 19:52:03.970386  
 categories: player  
 ---
 # Rynier Mark Bernardo

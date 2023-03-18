@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cameron Suafoa  
-date: 2023-03-02 11:25:05.613541  
+date: 2023-03-17 17:03:52.411635  
 categories: player  
 ---
 # Cameron Suafoa
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 107.0
 
-## Current Percentile: 76.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | North Harbour     |            13 |   0.538462 |
-| Blues             |             4 |   1        |
+| Blues             |             6 |   0.833333 |
 | Auckland          |             1 |   1        |
 | New Zealand Maori |             1 |   1        |
 
@@ -33,15 +33,17 @@ categories: player
 | Counties Manukau         |         3 |          1 |
 | Auckland                 |         2 |          0 |
 | Moana Pasifika           |         2 |          1 |
-| Bay of Plenty            |         1 |          0 |
-| Canterbury               |         1 |          0 |
-| Hawke's Bay              |         1 |          0 |
-| Highlanders              |         1 |          1 |
-| Ireland                  |         1 |          1 |
 | Manawatu                 |         1 |          1 |
-| New South Wales Waratahs |         1 |          1 |
-| Northland                |         1 |          1 |
-| Southland                |         1 |          1 |
-| Taranaki                 |         1 |          1 |
 | Tasman                   |         1 |          1 |
+| Taranaki                 |         1 |          1 |
+| Southland                |         1 |          1 |
+| Northland                |         1 |          1 |
+| New South Wales Waratahs |         1 |          1 |
+| Ireland                  |         1 |          1 |
+| Bay of Plenty            |         1 |          0 |
+| Hurricanes               |         1 |          1 |
+| Highlanders              |         1 |          1 |
+| Hawke's Bay              |         1 |          0 |
+| Canterbury               |         1 |          0 |
+| Brumbies                 |         1 |          0 |
 | Waikato                  |         1 |          0 |

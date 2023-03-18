@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fraser McReight  
-date: 2023-03-02 11:25:28.011970  
+date: 2023-03-17 17:41:58.429555  
 categories: player  
 ---
 # Fraser McReight
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 109.0
+## Current elo: 111.0
 
 ## Current Percentile: 84.0
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            46 |   0.597826 |
+| Queensland Reds |            48 |   0.59375  |
 | Brisbane City   |            12 |   0.458333 |
 | Australia       |            10 |   0.3      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |         9 |   0.666667 |
+| Brumbies                 |        10 |   0.6      |
+| Western Force            |         8 |   0.625    |
 | Melbourne Rebels         |         8 |   0.8125   |
-| Western Force            |         7 |   0.571429 |
 | New South Wales Waratahs |         6 |   0.833333 |
 | Crusaders                |         4 |   0        |
 | New Zealand              |         4 |   0        |

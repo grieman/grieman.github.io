@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Bower  
-date: 2023-02-24 09:55:23.491282  
+date: 2023-03-17 17:33:45.407918  
 categories: player  
 ---
 # George Bower
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            52 |   0.817308 |
+| Crusaders   |            55 |   0.790909 |
 | New Zealand |            22 |   0.704545 |
 | Otago       |            13 |   0.384615 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Chiefs                   |        11 |   0.636364 |
-| Highlanders              |         8 |   0.875    |
+| Chiefs                   |        12 |   0.583333 |
+| Highlanders              |         9 |   0.888889 |
 | Hurricanes               |         8 |   0.875    |
 | Blues                    |         7 |   0.857143 |
 | New South Wales Waratahs |         4 |   0.5      |
@@ -47,18 +47,19 @@ categories: player
 | Hawke's Bay              |         2 |   0.5      |
 | Fiji                     |         2 |   1        |
 | Wellington               |         1 |   0        |
-| Tonga                    |         1 |   1        |
 | Tasman                   |         1 |   0        |
 | Sunwolves                |         1 |   1        |
+| Scotland                 |         1 |   1        |
 | Stormers                 |         1 |   0.5      |
 | United States of America |         1 |   1        |
+| Tonga                    |         1 |   1        |
 | Japan                    |         1 |   1        |
-| Scotland                 |         1 |   1        |
 | North Harbour            |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | Auckland                 |         1 |   1        |
 | Jaguares                 |         1 |   1        |
 | Italy                    |         1 |   1        |
 | France                   |         1 |   0        |
+| Fijian Drua              |         1 |   0        |
 | England                  |         1 |   0.5      |
 | Western Force            |         1 |   1        |

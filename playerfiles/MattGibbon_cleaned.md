@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt Gibbon  
-date: 2023-03-02 11:25:33.302107  
+date: 2023-03-17 17:11:59.627984  
 categories: player  
 ---
 # Matt Gibbon
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 113.0
+## Current elo: 115.0
 
 ## Current Percentile: 91.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Melbourne Rebels    |            49 |   0.377551 |
+| Melbourne Rebels    |            51 |   0.382353 |
 | NSW Country Eagles  |            12 |   0.291667 |
 | Greater Sydney Rams |            10 |   0.2      |
 | Melbourne Rising    |             7 |   0.285714 |
@@ -31,18 +31,18 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Western Force            |         7 |   0.285714 |
+| New South Wales Waratahs |         8 |   0.625    |
 | Queensland Reds          |         7 |   0.357143 |
-| New South Wales Waratahs |         7 |   0.571429 |
+| Western Force            |         7 |   0.285714 |
 | Brumbies                 |         5 |   0.4      |
 | Brisbane City            |         5 |   0.1      |
 | Queensland Country       |         5 |   0.4      |
 | Canberra Vikings         |         4 |   0.25     |
 | Highlanders              |         4 |   0.75     |
+| Hurricanes               |         4 |   0        |
 | Fijian Drua              |         4 |   0.25     |
 | Chiefs                   |         3 |   0        |
 | Crusaders                |         3 |   0        |
-| Hurricanes               |         3 |   0        |
 | Sydney Rays              |         2 |   1        |
 | NSW Country Eagles       |         2 |   0        |
 | Sunwolves                |         2 |   1        |

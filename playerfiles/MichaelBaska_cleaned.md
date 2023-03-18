@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Michael Baska  
-date: 2023-03-09 10:12:45.020849  
+date: 2023-03-17 17:33:06.121549  
 categories: player  
 ---
 # Michael Baska
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: United States of America
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 90.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | NOLA Gold                |            18 |   0.5      |
 | Utah Warriors            |            17 |   0.676471 |
 | Rouen                    |            13 |   0.538462 |
-| Chicago Hounds           |             2 |   0        |
+| Chicago Hounds           |             3 |   0        |
 | United States of America |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
@@ -35,11 +35,11 @@ categories: player
 | Houston SaberCats      |         5 |   0.8      |
 | Austin Elite Rugby     |         3 |   0.666667 |
 | Utah Warriors          |         3 |   0.666667 |
+| Toronto Arrows         |         3 |   0.666667 |
 | San Diego Legion       |         3 |   0.333333 |
 | L. A. Giltinis         |         3 |   0.333333 |
 | Glendale Raptors       |         3 |   0.333333 |
 | Mont-de-Marsan         |         2 |   0.5      |
-| Toronto Arrows         |         2 |   1        |
 | Old Glory DC           |         2 |   0.5      |
 | Vannes                 |         2 |   1        |
 | Austin Herd            |         2 |   0.75     |

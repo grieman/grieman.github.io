@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ethan Dumortier  
-date: 2023-01-06 00:15:04.364963  
+date: 2023-03-16 19:55:14.545929  
 categories: player  
 ---
 # Ethan Dumortier
 
 ## Positions: W
 
-## Current elo: 106.0
+## Country: France
 
-## Current Percentile: 72.0
+## Current elo: 111.0
+
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -21,26 +23,35 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Lyon   |            35 |   0.457143 |
+| Lyon   |            43 |   0.534884 |
+| France |             4 |   0.75     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bordeaux Begles      |         4 |   0.25     |
-| Castres Olympique    |         3 |   0.666667 |
+| Pau                  |         4 |   0.5      |
 | Clermont Auvergne    |         3 |   0.333333 |
-| Pau                  |         3 |   0.333333 |
+| Castres Olympique    |         3 |   0.666667 |
 | Montpellier Herault  |         3 |   0.666667 |
-| La Rochelle          |         2 |   0.5      |
+| Brive                |         2 |   0.5      |
+| Bulls                |         2 |   0.5      |
+| Benetton Treviso     |         2 |   0.5      |
 | Stade Toulousain     |         2 |   1        |
 | Stade Francais Paris |         2 |   1        |
-| Brive                |         2 |   0.5      |
 | Racing 92            |         2 |   0        |
-| Northampton Saints   |         1 |   0        |
-| Perpignan            |         1 |   1        |
+| La Rochelle          |         2 |   0.5      |
+| Perpignan            |         2 |   1        |
+| Toulon               |         1 |   0        |
+| Scotland             |         1 |   1        |
+| Saracens             |         1 |   0        |
 | Agen                 |         1 |   1        |
+| Italy                |         1 |   1        |
+| Northampton Saints   |         1 |   0        |
 | Leinster             |         1 |   0        |
 | Bayonne              |         1 |   0        |
-| Bulls                |         1 |   0        |
+| Ireland              |         1 |   0        |
+| Gloucester Rugby     |         1 |   1        |
+| England              |         1 |   1        |
+| Dragons              |         1 |   1        |
 | Biarritz Olympique   |         1 |   1        |
-| Benetton Treviso     |         1 |   0        |
-| Toulon               |         1 |   0        |
+| Worcester Warriors   |         1 |   1        |

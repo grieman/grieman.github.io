@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alwayno Visagie  
-date: 2023-03-12 11:30:44.217127  
+date: 2023-03-17 17:18:59.871532  
 categories: player  
 ---
 # Alwayno Visagie
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 73.0
+## Current Percentile: 72.0
 
 # Elo History
 

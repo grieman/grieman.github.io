@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benjamin Videla  
-date: 2023-03-04 11:38:37.615510  
+date: 2023-03-17 17:08:38.505270  
 categories: player  
 ---
 # Benjamin Videla
 
 ## Positions: SH, FB
 
-## Current elo: 111.0
+## Current elo: 103.0
 
-## Current Percentile: 82.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             9 |   0.777778 |
+| Selknam |            10 |        0.7 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -30,4 +30,5 @@ categories: player
 | American Raptors |         1 |   1        |
 | Cafeteros Pro    |         1 |   1        |
 | Cobras           |         1 |   1        |
+| Dogos XV         |         1 |   0        |
 | Pampas XV        |         1 |   1        |

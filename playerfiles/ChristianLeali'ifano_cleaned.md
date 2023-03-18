@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Christian Leali'ifano  
-date: 2023-03-02 11:26:55.953444  
+date: 2023-03-17 17:31:42.564873  
 categories: player  
 ---
 # Christian Leali'ifano
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 119.0
+## Current elo: 118.0
 
 ## Current Percentile: 91.0
 
@@ -26,7 +26,7 @@ categories: player
 | Brumbies                         |           150 |   0.55     |
 | Australia                        |            26 |   0.5      |
 | Ulster                           |            17 |   0.676471 |
-| Moana Pasifika                   |            13 |   0.153846 |
+| Moana Pasifika                   |            14 |   0.142857 |
 | Waikato                          |            13 |   0.653846 |
 | Canberra Vikings                 |            10 |   0.7      |
 | Toyota Industries Shuttles Aichi |             9 |   0.444444 |
@@ -38,8 +38,8 @@ categories: player
 | Queensland Reds                   |        15 |   0.633333 |
 | Western Force                     |        13 |   0.653846 |
 | Melbourne Rebels                  |        13 |   0.461538 |
+| Chiefs                            |        12 |   0.25     |
 | Bulls                             |        11 |   0.636364 |
-| Chiefs                            |        11 |   0.272727 |
 | Hurricanes                        |        10 |   0.5      |
 | Highlanders                       |        10 |   0.5      |
 | Sharks                            |         9 |   0.666667 |

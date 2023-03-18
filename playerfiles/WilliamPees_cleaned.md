@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: William Pees  
-date: 2023-02-02 18:46:53.456313  
+date: 2023-03-17 17:34:26.289773  
 categories: player  
 ---
 # William Pees
 
 ## Positions: C, FH
 
-## Current elo: 87.0
+## Current elo: 88.0
 
 ## Current Percentile: 57.0
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |            37 |   0.445946 |
+| Tarbes |            39 |   0.448718 |
 | Pau    |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         4 |   1        |
+| Bourgoin-Jallieu           |         5 |   0.8      |
 | Cognac Saint Jean d'Angély |         4 |   0.875    |
+| Nice                       |         4 |   0.25     |
 | Albi                       |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.166667 |
 | Dax                        |         3 |   0.333333 |
-| Nice                       |         3 |   0        |
 | Aubenas                    |         2 |   0.5      |
 | Chambery                   |         2 |   0        |
 | Dijon                      |         2 |   0.75     |

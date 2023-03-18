@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ayden Johnstone  
-date: 2023-03-04 11:41:51.453526  
+date: 2023-03-17 17:24:23.373588  
 categories: player  
 ---
 # Ayden Johnstone
 
 ## Positions: P
 
-## Current elo: 111.0
+## Current elo: 107.0
 
-## Current Percentile: 89.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            40 |   0.425    |
+| Highlanders |            42 |   0.404762 |
 | Waikato     |            38 |   0.565789 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Blues                    |         7 |   0.285714 |
-| Crusaders                |         6 |   0.166667 |
+| Crusaders                |         7 |   0.142857 |
+| Chiefs                   |         6 |   0.583333 |
 | Hurricanes               |         6 |   0.166667 |
-| Chiefs                   |         5 |   0.7      |
 | Northland                |         5 |   0.6      |
 | Bay of Plenty            |         4 |   0.5      |
 | Wellington               |         4 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bevan Rodd  
-date: 2023-01-06 11:44:44.223132  
+date: 2023-03-17 17:16:10.701863  
 categories: player  
 ---
 # Bevan Rodd
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 116.0
+## Current elo: 112.0
 
-## Current Percentile: 92.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,24 +23,31 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            47 |   0.702128 |
+| Sale Sharks |            64 |   0.609375 |
 | England     |             2 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Bristol Rugby      |         5 |   0.8      |
-| Exeter Chiefs      |         5 |   0.4      |
-| Harlequins         |         5 |   0.6      |
-| London Irish       |         5 |   0.9      |
+| Bristol Rugby      |         7 |   0.714286 |
+| London Irish       |         6 |   0.75     |
+| Exeter Chiefs      |         6 |   0.333333 |
+| Harlequins         |         6 |   0.666667 |
+| Saracens           |         4 |   0.5      |
+| Northampton Saints |         4 |   0.5      |
 | Leicester Tigers   |         4 |   0.75     |
-| Bath Rugby         |         3 |   0.833333 |
-| Gloucester Rugby   |         3 |   1        |
 | Newcastle Falcons  |         3 |   0.666667 |
-| Northampton Saints |         3 |   0.666667 |
-| Saracens           |         3 |   0.333333 |
 | Wasps              |         3 |   1        |
+| Bath Rugby         |         3 |   0.833333 |
 | Worcester Warriors |         3 |   0.666667 |
-| Australia          |         1 |   1        |
+| Gloucester Rugby   |         3 |   1        |
+| Ospreys            |         2 |   1        |
+| Stade Toulousain   |         2 |   0        |
+| Ulster             |         2 |   0.5      |
+| La Rochelle        |         1 |   0        |
+| Racing 92          |         1 |   0        |
+| Edinburgh          |         1 |   0        |
+| Scarlets           |         1 |   1        |
 | South Africa       |         1 |   1        |
-| Stade Toulousain   |         1 |   0        |
-| Ulster             |         1 |   1        |
+| Toulon             |         1 |   0        |
+| Clermont Auvergne  |         1 |   0        |
+| Australia          |         1 |   1        |

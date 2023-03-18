@@ -1,18 +1,16 @@
 ---  
 layout: page  
 title: Albertus Stephanus (Kwagga) Smith  
-date: 2023-02-24 02:20:40.868799  
+date: 2023-03-17 17:16:29.148021  
 categories: player  
 ---
 # Albertus Stephanus (Kwagga) Smith
 
 ## Positions: N8
 
-## Country: South Africa
-
 ## Current elo: 101.0
 
-## Current Percentile: 65.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,17 +21,17 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |             8 |     0.3125 |
-| South Africa       |             1 |     1      |
+| Shizuoka Blue Revs |            10 |        0.3 |
 
-| Opponent                  |   Matches |   Win Rate |
-|:--------------------------|----------:|-----------:|
-| Black Rams Tokyo          |         1 |        0   |
-| England                   |         1 |        1   |
-| Green Rockets Tokatsu     |         1 |        1   |
-| Hanazono Kintetsu Liners  |         1 |        1   |
-| Kobelco Kobe Steelers     |         1 |        0   |
-| Mitsubishi Dynaboars      |         1 |        0.5 |
-| Saitama Wild Knights      |         1 |        0   |
-| Toshiba Brave Lupus Tokyo |         1 |        0   |
-| Toyota Verblitz           |         1 |        0   |
+| Opponent                          |   Matches |   Win Rate |
+|:----------------------------------|----------:|-----------:|
+| Black Rams Tokyo                  |         1 |        0   |
+| Green Rockets Tokatsu             |         1 |        1   |
+| Hanazono Kintetsu Liners          |         1 |        1   |
+| Kobelco Kobe Steelers             |         1 |        0   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
+| Mitsubishi Dynaboars              |         1 |        0.5 |
+| Saitama Wild Knights              |         1 |        0   |
+| Tokyo Sungoliath                  |         1 |        0   |
+| Toshiba Brave Lupus Tokyo         |         1 |        0   |
+| Yokohama Canon Eagles             |         1 |        0.5 |

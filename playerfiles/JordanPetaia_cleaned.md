@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Petaia  
-date: 2023-03-02 11:23:36.467301  
+date: 2023-03-17 17:23:01.040028  
 categories: player  
 ---
 # Jordan Petaia
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 48.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,18 +23,18 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Queensland Reds    |            45 |   0.511111 |
+| Queensland Reds    |            47 |   0.510638 |
 | Australia          |            28 |   0.482143 |
 | Queensland Country |             9 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |        10 |   0.5      |
+| Brumbies                 |        11 |   0.454545 |
 | Argentina                |         8 |   0.6875   |
 | New Zealand              |         8 |   0.125    |
 | Melbourne Rebels         |         7 |   1        |
 | New South Wales Waratahs |         7 |   0.571429 |
-| Western Force            |         6 |   0.666667 |
+| Western Force            |         7 |   0.714286 |
 | Crusaders                |         3 |   0        |
 | Fijian Drua              |         3 |   0.666667 |
 | Highlanders              |         3 |   0        |

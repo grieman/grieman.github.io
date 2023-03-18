@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jeremy Thrush  
-date: 2023-03-02 11:24:45.389430  
+date: 2023-03-17 17:25:57.785725  
 categories: player  
 ---
 # Jeremy Thrush
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 114.0
+## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -26,7 +26,7 @@ categories: player
 | Hurricanes       |           104 |   0.548077 |
 | Gloucester Rugby |            58 |   0.543103 |
 | Wellington       |            48 |   0.583333 |
-| Western Force    |            45 |   0.4      |
+| Western Force    |            47 |   0.404255 |
 | New Zealand      |            13 |   0.923077 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -37,7 +37,7 @@ categories: player
 | Highlanders              |        12 |   0.5      |
 | Brumbies                 |        12 |   0.25     |
 | New South Wales Waratahs |        11 |   0.272727 |
-| Queensland Reds          |        10 |   0.6      |
+| Queensland Reds          |        11 |   0.545455 |
 | Melbourne Rebels         |        10 |   0.5      |
 | Cheetahs                 |         7 |   0.714286 |
 | Stormers                 |         7 |   0.285714 |
@@ -76,12 +76,13 @@ categories: player
 | Zebre                    |         2 |   1        |
 | Northland                |         2 |   1        |
 | NSW Country Eagles       |         2 |   0.5      |
-| Australia                |         2 |   1        |
+| Moana Pasifika           |         2 |   1        |
 | Melbourne Rising         |         2 |   1        |
+| Australia                |         2 |   1        |
 | Hurricanes               |         2 |   0.5      |
 | Fijian Drua              |         2 |   0.5      |
-| Cardiff Blues            |         2 |   0.5      |
 | Counties Manukau         |         2 |   0.5      |
+| Cardiff Blues            |         2 |   0.5      |
 | Connacht                 |         1 |   1        |
 | Bayonne                  |         1 |   1        |
 | Benetton Treviso         |         1 |   1        |
@@ -94,5 +95,4 @@ categories: player
 | France                   |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Japan                    |         1 |   1        |
-| Moana Pasifika           |         1 |   1        |
 | Agen                     |         1 |   1        |

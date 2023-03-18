@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Debreczeni  
-date: 2023-02-24 09:49:33.981589  
+date: 2023-03-17 17:21:40.992498  
 categories: player  
 ---
 # Jack Debreczeni
 
 ## Positions: FH, FB
 
-## Current elo: 86.0
+## Current elo: 90.0
 
-## Current Percentile: 23.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -28,18 +28,20 @@ categories: player
 | Chiefs            |             7 |   0.571429 |
 | Mie Honda Heat    |             7 |   1        |
 | Canterbury        |             4 |   0.5      |
+| Brumbies          |             3 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Queensland Reds                   |         9 |   0.666667 |
-| New South Wales Waratahs          |         7 |   0.142857 |
+| Queensland Reds                   |        10 |   0.7      |
+| New South Wales Waratahs          |         8 |   0.25     |
 | Brumbies                          |         7 |   0.571429 |
 | Crusaders                         |         5 |   0.4      |
 | Bulls                             |         5 |   0.4      |
 | NSW Country Eagles                |         4 |   0.5      |
+| Blues                             |         4 |   0.5      |
 | Hurricanes                        |         4 |   0        |
-| Perth Spirit                      |         4 |   0.25     |
 | Canberra Vikings                  |         4 |   0.5      |
+| Perth Spirit                      |         4 |   0.25     |
 | Highlanders                       |         3 |   0        |
 | Queensland Country                |         3 |   1        |
 | Sharks                            |         3 |   0.5      |
@@ -49,7 +51,6 @@ categories: player
 | Chiefs                            |         3 |   0.333333 |
 | Waikato                           |         3 |   0.333333 |
 | Brisbane City                     |         3 |   0.666667 |
-| Blues                             |         3 |   0.333333 |
 | Shizuoka Blue Revs                |         2 |   0        |
 | Bay of Plenty                     |         2 |   0        |
 | Sunwolves                         |         2 |   1        |

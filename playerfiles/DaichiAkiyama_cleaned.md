@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daichi Akiyama  
-date: 2023-02-02 18:46:41.994545  
+date: 2023-03-17 17:15:28.623038  
 categories: player  
 ---
 # Daichi Akiyama
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 90.0
+## Current elo: 95.0
 
-## Current Percentile: 29.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,22 +23,25 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            22 |        0.5 |
-| Japan           |             1 |        1   |
+| Toyota Verblitz |            36 |   0.583333 |
+| Japan           |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
+| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.5      |
+| Saitama Wild Knights              |         4 |   0        |
 | Black Rams Tokyo                  |         3 |   0.666667 |
-| Saitama Wild Knights              |         3 |   0        |
+| Tokyo Sungoliath                  |         3 |   0.333333 |
 | Shizuoka Blue Revs                |         3 |   0.666667 |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
-| Hino Red Dolphins                 |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
+| Urayasu D-Rocks                   |         2 |   1        |
+| Yokohama Canon Eagles             |         2 |   0        |
+| Mitsubishi Dynaboars              |         2 |   0.5      |
+| Mie Honda Heat                    |         2 |   1        |
+| Green Rockets Tokatsu             |         1 |   1        |
 | Kobelco Kobe Steelers             |         1 |   1        |
-| Mie Honda Heat                    |         1 |   1        |
-| Mitsubishi Dynaboars              |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
-| Tokyo Sungoliath                  |         1 |   0        |
-| Urayasu D-Rocks                   |         1 |   1        |
+| Hino Red Dolphins                 |         1 |   1        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | Uruguay                           |         1 |   1        |
-| Yokohama Canon Eagles             |         1 |   0        |
+| Munakata Sanix Blues              |         1 |   1        |

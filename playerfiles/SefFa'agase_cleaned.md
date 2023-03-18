@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sef Fa'agase  
-date: 2023-03-02 11:23:57.382841  
+date: 2023-03-17 17:40:53.111896  
 categories: player  
 ---
 # Sef Fa'agase
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 89.0
 
 ## Current Percentile: None
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Queensland Reds        |            52 |   0.240385 |
+| Queensland Reds        |            54 |   0.25     |
 | Queensland Country     |            22 |   0.409091 |
 | New England Free Jacks |            12 |   0.666667 |
 | Canterbury             |            11 |   0.727273 |
@@ -33,9 +33,9 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Western Force            |         6 |   0.166667 |
+| Western Force            |         7 |   0.285714 |
+| Brumbies                 |         7 |   0.285714 |
 | Highlanders              |         6 |   0.333333 |
-| Brumbies                 |         6 |   0.333333 |
 | New South Wales Waratahs |         6 |   0        |
 | Melbourne Rebels         |         5 |   0.2      |
 | NSW Country Eagles       |         5 |   1        |

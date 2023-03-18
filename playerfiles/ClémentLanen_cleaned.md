@@ -1,25 +1,29 @@
 ---  
 layout: page  
 title: Clément Lanen  
-date: 2023-03-04 11:41:22.648236  
+date: 2023-03-17 17:02:52.766316  
 categories: player  
 ---
 # Clément Lanen
 
-## Positions: 
+## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 76.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_ClémentLanen.png)
 # Match History
 
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |             2 |          0 |
+| Massy  |             3 |          0 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Agen               |         2 |          0 |
 | Biarritz Olympique |         1 |          0 |
-| Grenoble           |         1 |          0 |

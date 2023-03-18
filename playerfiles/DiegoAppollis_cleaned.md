@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Diego Appollis  
-date: 2023-03-16 11:32:16.040194  
+date: 2023-03-17 17:32:58.575652  
 categories: player  
 ---
 # Diego Appollis
 
 ## Positions: C
 
-## Current elo: 102.0
+## Current elo: 91.0
 
-## Current Percentile: None
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Pumas      |             3 |   0.666667 |
-| Blue Bulls |             1 |   1        |
+| Pumas      |             4 |       0.75 |
+| Blue Bulls |             1 |       1    |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Golden Lions        |         2 |          1 |
 | Blue Bulls          |         1 |          1 |
 | Free State Cheetahs |         1 |          1 |
-| Golden Lions        |         1 |          1 |
 | Griquas             |         1 |          0 |

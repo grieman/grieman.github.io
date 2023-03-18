@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nathan Den Hoedt  
-date: 2023-03-02 11:20:59.611499  
+date: 2023-03-17 17:04:34.980174  
 categories: player  
 ---
 # Nathan Den Hoedt
@@ -24,16 +24,16 @@ categories: player
 | L. A. Giltinis     |            33 |   0.727273 |
 | Brisbane City      |             7 |   0.571429 |
 | NSW Country Eagles |             5 |   0.5      |
-| Houston SaberCats  |             2 |   1        |
+| Houston SaberCats  |             4 |   0.75     |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Utah Warriors          |         5 |   0.6      |
+| San Diego Legion       |         5 |   0.8      |
 | Austin Gilgronis       |         4 |   0.75     |
-| San Diego Legion       |         4 |   0.75     |
+| Seattle Seawolves      |         4 |   0.5      |
 | Dallas Jackals         |         3 |   1        |
 | Houston SaberCats      |         3 |   0.666667 |
-| Seattle Seawolves      |         3 |   0.666667 |
 | R.U. New York          |         2 |   0.5      |
 | Toronto Arrows         |         2 |   1        |
 | Sydney Rays            |         2 |   1        |

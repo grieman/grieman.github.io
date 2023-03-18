@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Granwill Matthys  
-date: 2023-03-12 11:30:26.333788  
+date: 2023-03-17 17:17:40.323988  
 categories: player  
 ---
 # Granwill Matthys
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 80.0
+## Current Percentile: 78.0
 
 # Elo History
 

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Will Tanner  
-date: 2023-01-13 11:36:24.620687  
+date: 2023-03-17 17:28:05.879059  
 categories: player  
 ---
 # Will Tanner
 
 ## Positions: H
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 19.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            50 |   0.3      |
+| Hartpury College |            48 |   0.270833 |
 | Bath Rugby       |             6 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Ealing Trailfinders |         5 |   0        |
 | Bedford             |         5 |   0.2      |
-| Cornish Pirates     |         5 |   0.2      |
 | Doncaster           |         5 |   0.2      |
 | Richmond            |         4 |   0.25     |
+| Cornish Pirates     |         4 |   0        |
 | Nottingham          |         4 |   0.5      |
-| London Scottish     |         4 |   0.75     |
 | Jersey              |         3 |   0.333333 |
+| London Scottish     |         3 |   0.666667 |
 | Yorkshire Carnegie  |         3 |   0.333333 |
 | Coventry            |         3 |   0.666667 |
 | Ampthill            |         2 |   0        |

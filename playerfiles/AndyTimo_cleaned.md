@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andy Timo  
-date: 2023-02-15 22:13:27.055522  
+date: 2023-03-17 17:32:18.823914  
 categories: player  
 ---
 # Andy Timo
 
 ## Positions: N8, FL
 
-## Current elo: 91.0
+## Current elo: 82.0
 
-## Current Percentile: 33.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |             5 |          0 |
+| Massy  |             6 |          0 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Agen               |         1 |          0 |
+| Agen               |         2 |          0 |
 | Biarritz Olympique |         1 |          0 |
 | Colomiers          |         1 |          0 |
 | Grenoble           |         1 |          0 |

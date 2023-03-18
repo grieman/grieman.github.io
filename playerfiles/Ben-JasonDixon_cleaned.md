@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ben-Jason Dixon  
-date: 2023-02-02 18:49:52.404050  
+date: 2023-03-16 19:53:39.569215  
 categories: player  
 ---
 # Ben-Jason Dixon
 
 ## Positions: 
 
-## Current elo: 99.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 

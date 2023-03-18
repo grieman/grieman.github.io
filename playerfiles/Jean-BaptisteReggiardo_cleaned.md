@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Baptiste Reggiardo  
-date: 2023-01-23 15:33:02.275113  
+date: 2023-03-17 17:15:39.493864  
 categories: player  
 ---
 # Jean-Baptiste Reggiardo
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 85.0
 
-## Current Percentile: 25.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Suresnes            |             5 |          0 |
-| Carqueiranne-Hyères |             4 |          0 |
+| Carqueiranne-Hyères |             5 |        0.2 |
+| Suresnes            |             5 |        0   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Aubenas                    |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          0 |
+| Cognac Saint Jean d'Angély |         1 |          1 |
 | Massy                      |         1 |          0 |
 | US Bressane                |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

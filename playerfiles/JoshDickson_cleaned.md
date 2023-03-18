@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Dickson  
-date: 2023-03-02 11:24:38.798402  
+date: 2023-03-16 20:11:21.667476  
 categories: player  
 ---
 # Josh Dickson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 105.0
+## Current elo: 102.0
 
-## Current Percentile: 73.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -24,15 +24,15 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Otago             |            61 |   0.508197 |
-| Highlanders       |            52 |   0.442308 |
+| Highlanders       |            54 |   0.425926 |
 | New Zealand Maori |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blues                    |         9 |   0.222222 |
+| Blues                    |        10 |   0.2      |
 | Crusaders                |         8 |   0.125    |
+| Chiefs                   |         8 |   0.4375   |
 | Canterbury               |         7 |   0.142857 |
-| Chiefs                   |         7 |   0.5      |
 | Bay of Plenty            |         6 |   0.666667 |
 | Wellington               |         6 |   0.333333 |
 | Hawke's Bay              |         6 |   0.333333 |

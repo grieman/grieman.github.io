@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Naitoa Ah Kuoi  
-date: 2023-02-24 09:45:50.838268  
+date: 2023-03-16 20:15:50.604915  
 categories: player  
 ---
 # Naitoa Ah Kuoi
 
 ## Positions: L, FL
 
-## Current elo: 116.0
+## Current elo: 120.0
 
 ## Current Percentile: 90.0
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Chiefs        |            35 |   0.542857 |
+| Chiefs        |            37 |   0.567568 |
 | Bay of Plenty |            11 |   0.636364 |
 | Wellington    |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |         9 |   0.333333 |
+| Crusaders                |        10 |   0.4      |
 | Hurricanes               |         6 |   0.5      |
+| Highlanders              |         5 |   0.6      |
 | Blues                    |         5 |   0.4      |
-| Highlanders              |         4 |   0.5      |
 | New South Wales Waratahs |         3 |   1        |
 | Waikato                  |         3 |   0.666667 |
 | Moana Pasifika           |         2 |   1        |

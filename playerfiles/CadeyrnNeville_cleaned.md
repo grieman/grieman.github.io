@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cadeyrn Neville  
-date: 2023-02-24 09:56:49.573454  
+date: 2023-03-17 17:12:15.388359  
 categories: player  
 ---
 # Cadeyrn Neville
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 124.0
+## Current elo: 128.0
 
-## Current Percentile: 95.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -24,26 +24,27 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Melbourne Rebels                 |            49 |   0.306122 |
-| Brumbies                         |            29 |   0.689655 |
+| Brumbies                         |            32 |   0.71875  |
 | Toyota Industries Shuttles Aichi |            29 |   0.37931  |
 | Queensland Reds                  |            16 |   0.28125  |
 | Brisbane City                    |            10 |   1        |
 | Melbourne Rising                 |             9 |   0.888889 |
-| Australia                        |             7 |   0.285714 |
+| Australia                        |             8 |   0.375    |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Queensland Reds                   |        13 |   0.307692 |
+| Queensland Reds                   |        14 |   0.357143 |
+| New South Wales Waratahs          |        12 |   0.5      |
 | Western Force                     |        11 |   0.818182 |
-| New South Wales Waratahs          |        11 |   0.454545 |
 | Brumbies                          |         8 |   0.375    |
+| Blues                             |         6 |   0.416667 |
 | Chiefs                            |         6 |   0.5      |
 | Hurricanes                        |         6 |   0.333333 |
-| Blues                             |         5 |   0.3      |
 | Highlanders                       |         5 |   0.6      |
 | Melbourne Rebels                  |         5 |   0.6      |
 | Crusaders                         |         5 |   0.2      |
 | Stormers                          |         4 |   0.25     |
+| Cheetahs                          |         3 |   0.666667 |
 | Munakata Sanix Blues              |         3 |   0.666667 |
 | Bulls                             |         3 |   0        |
 | Urayasu D-Rocks                   |         3 |   0        |
@@ -52,19 +53,19 @@ categories: player
 | Sharks                            |         3 |   0        |
 | Canberra Vikings                  |         3 |   1        |
 | Perth Spirit                      |         3 |   0.666667 |
-| Cheetahs                          |         3 |   0.666667 |
-| England                           |         2 |   0.5      |
 | Toyota Verblitz                   |         2 |   0        |
 | Sunwolves                         |         2 |   1        |
 | Queensland Country                |         2 |   1        |
 | North Harbour Rays                |         2 |   1        |
 | NSW Country Eagles                |         2 |   1        |
+| England                           |         2 |   0.5      |
 | Yokohama Canon Eagles             |         2 |   0        |
 | Greater Sydney Rams               |         2 |   1        |
-| Green Rockets Tokatsu             |         2 |   0.5      |
 | Lions                             |         2 |   0        |
+| Green Rockets Tokatsu             |         2 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
-| Shimizu Blue Sharks               |         1 |   1        |
+| Shizuoka Blue Revs                |         1 |   0        |
+| Wales                             |         1 |   1        |
 | Hanazono Kintetsu Liners          |         1 |   0        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
 | Tokyo Sungoliath                  |         1 |   0        |
@@ -72,8 +73,8 @@ categories: player
 | Ireland                           |         1 |   0        |
 | Italy                             |         1 |   0        |
 | Southern Kings                    |         1 |   0        |
-| Shizuoka Blue Revs                |         1 |   0        |
 | Brisbane City                     |         1 |   1        |
+| Shimizu Blue Sharks               |         1 |   1        |
 | Melbourne Rising                  |         1 |   1        |
 | Scotland                          |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Richie Mo'unga  
-date: 2023-02-24 09:54:11.706599  
+date: 2023-03-17 17:21:43.188519  
 categories: player  
 ---
 # Richie Mo'unga
@@ -23,15 +23,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            94 |   0.856383 |
+| Crusaders   |            96 |   0.848958 |
 | Canterbury  |            49 |   0.816327 |
 | New Zealand |            47 |   0.734043 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Chiefs                   |        16 |   0.6875   |
+| Chiefs                   |        17 |   0.647059 |
+| Highlanders              |        13 |   0.846154 |
 | Hurricanes               |        13 |   0.769231 |
-| Highlanders              |        12 |   0.833333 |
 | Australia                |        12 |   0.875    |
 | Blues                    |        12 |   0.916667 |
 | Tasman                   |         8 |   0.75     |

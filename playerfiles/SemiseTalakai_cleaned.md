@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Semise Talakai  
-date: 2023-03-07 16:17:00.094028  
+date: 2023-03-17 17:06:43.828104  
 categories: player  
 ---
 # Semise Talakai
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 96.0
+## Current elo: 97.0
 
 ## Current Percentile: 55.0
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taulupe Faletau  
-date: 2023-02-02 19:11:34.460983  
+date: 2023-03-17 17:34:48.731156  
 categories: player  
 ---
 # Taulupe Faletau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 94.0
+## Current elo: 89.0
 
-## Current Percentile: 39.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -24,67 +24,67 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Dragons                 |           111 |   0.355856 |
-| Wales                   |            89 |   0.488764 |
-| Bath Rugby              |            66 |   0.515152 |
+| Wales                   |            98 |   0.454082 |
+| Bath Rugby              |            71 |   0.507042 |
 | Cardiff Blues           |            10 |   0.7      |
 | British and Irish Lions |             9 |   0.722222 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Ospreys              |        13 |   0.307692 |
-| Scarlets             |        13 |   0.230769 |
-| France               |        12 |   0.5      |
-| Wasps                |        11 |   0.181818 |
-| Ireland              |        11 |   0.590909 |
-| South Africa         |        11 |   0.363636 |
-| Cardiff Blues        |        11 |   0.363636 |
-| England              |        11 |   0.363636 |
-| Australia            |        10 |   0.1      |
-| Italy                |        10 |   0.9      |
-| Gloucester Rugby     |        10 |   0.55     |
-| New Zealand          |        10 |   0.15     |
-| Edinburgh            |        10 |   0.4      |
-| Leicester Tigers     |         9 |   0.555556 |
-| Scotland             |         8 |   0.75     |
-| Sale Sharks          |         7 |   0.571429 |
-| Connacht             |         7 |   0.142857 |
-| Benetton Treviso     |         7 |   0.714286 |
-| Munster              |         7 |   0.571429 |
-| Exeter Chiefs        |         6 |   0        |
-| Northampton Saints   |         6 |   0.5      |
-| Bristol Rugby        |         6 |   0.333333 |
-| Saracens             |         5 |   0.5      |
-| Ulster               |         5 |   0        |
-| Harlequins           |         5 |   0.6      |
-| Leinster             |         4 |   0.25     |
-| Newcastle Falcons    |         4 |   0.75     |
-| Worcester Warriors   |         4 |   0.5      |
-| Zebre                |         4 |   0.875    |
-| Argentina            |         3 |   0.666667 |
-| Fiji                 |         3 |   1        |
-| London Irish         |         3 |   1        |
-| Stade Francais Paris |         3 |   0.666667 |
-| Glasgow Warriors     |         3 |   0        |
-| Samoa                |         2 |   0.5      |
-| Perpignan            |         2 |   0.5      |
-| Pau                  |         2 |   1        |
-| Dragons              |         2 |   1        |
-| Georgia              |         2 |   0.5      |
-| Bordeaux Begles      |         2 |   0.5      |
-| Bayonne              |         2 |   0        |
-| Bath Rugby           |         2 |   0        |
-| Mogliano             |         2 |   1        |
-| Brive                |         2 |   1        |
-| Bucuresti            |         1 |   1        |
-| Toulon               |         1 |   0        |
-| Stade Toulousain     |         1 |   0        |
-| Provincial Union XV  |         1 |   1        |
-| Castres Olympique    |         1 |   1        |
-| Cavalieri Prato      |         1 |   1        |
-| Crusaders            |         1 |   1        |
-| Lions                |         1 |   0        |
-| New Zealand Maori    |         1 |   1        |
-| Namibia              |         1 |   1        |
-| Japan                |         1 |   1        |
-| Montpellier Herault  |         1 |   0        |
-| Aironi               |         1 |   1        |
+| Scarlets             |        14 |  0.214286  |
+| Ospreys              |        13 |  0.307692  |
+| France               |        13 |  0.461538  |
+| South Africa         |        13 |  0.307692  |
+| Australia            |        12 |  0.0833333 |
+| England              |        12 |  0.333333  |
+| Ireland              |        12 |  0.541667  |
+| Wasps                |        11 |  0.181818  |
+| Italy                |        11 |  0.909091  |
+| Cardiff Blues        |        11 |  0.363636  |
+| Edinburgh            |        11 |  0.363636  |
+| Gloucester Rugby     |        10 |  0.55      |
+| New Zealand          |        10 |  0.15      |
+| Leicester Tigers     |         9 |  0.555556  |
+| Scotland             |         9 |  0.666667  |
+| Connacht             |         7 |  0.142857  |
+| Benetton Treviso     |         7 |  0.714286  |
+| Munster              |         7 |  0.571429  |
+| Sale Sharks          |         7 |  0.571429  |
+| Northampton Saints   |         6 |  0.5       |
+| Exeter Chiefs        |         6 |  0         |
+| Bristol Rugby        |         6 |  0.333333  |
+| Saracens             |         5 |  0.5       |
+| Ulster               |         5 |  0         |
+| Zebre                |         5 |  0.9       |
+| Harlequins           |         5 |  0.6       |
+| Worcester Warriors   |         4 |  0.5       |
+| Leinster             |         4 |  0.25      |
+| London Irish         |         4 |  1         |
+| Newcastle Falcons    |         4 |  0.75      |
+| Glasgow Warriors     |         3 |  0         |
+| Argentina            |         3 |  0.666667  |
+| Stade Francais Paris |         3 |  0.666667  |
+| Fiji                 |         3 |  1         |
+| Bath Rugby           |         2 |  0         |
+| Bayonne              |         2 |  0         |
+| Bordeaux Begles      |         2 |  0.5       |
+| Brive                |         2 |  1         |
+| Samoa                |         2 |  0.5       |
+| Perpignan            |         2 |  0.5       |
+| Pau                  |         2 |  1         |
+| Dragons              |         2 |  1         |
+| Georgia              |         2 |  0.5       |
+| Montpellier Herault  |         2 |  0         |
+| Mogliano             |         2 |  1         |
+| Crusaders            |         1 |  1         |
+| Provincial Union XV  |         1 |  1         |
+| Cavalieri Prato      |         1 |  1         |
+| New Zealand Maori    |         1 |  1         |
+| Castres Olympique    |         1 |  1         |
+| Bucuresti            |         1 |  1         |
+| Namibia              |         1 |  1         |
+| Stade Toulousain     |         1 |  0         |
+| Toulon               |         1 |  0         |
+| Lions                |         1 |  0         |
+| Japan                |         1 |  1         |
+| Aironi               |         1 |  1         |

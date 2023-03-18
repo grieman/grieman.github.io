@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Juan Manuel Rodriguez  
-date: 2023-03-12 11:31:26.347372  
+date: 2023-03-17 16:59:47.687873  
 categories: player  
 ---
 # Juan Manuel Rodriguez

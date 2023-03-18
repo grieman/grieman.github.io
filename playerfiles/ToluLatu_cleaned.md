@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tolu Latu  
-date: 2023-03-04 11:42:25.064993  
+date: 2023-03-17 17:17:31.670869  
 categories: player  
 ---
 # Tolu Latu
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            60 |   0.533333 |
+| New South Wales Waratahs |            63 |   0.52381  |
 | Stade Francais Paris     |            53 |   0.462264 |
 | Australia                |            23 |   0.391304 |
 | NSW Country Eagles       |             9 |   0.666667 |
@@ -33,11 +33,12 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Brumbies            |         9 |   0.444444 |
 | Queensland Reds     |         7 |   1        |
+| Melbourne Rebels    |         7 |   0.857143 |
 | Highlanders         |         7 |   0.428571 |
-| Melbourne Rebels    |         6 |   1        |
 | Western Force       |         5 |   0.4      |
 | Stade Toulousain    |         5 |   0.8      |
 | New Zealand         |         5 |   0.2      |
+| Hurricanes          |         5 |   0.4      |
 | England             |         4 |   0        |
 | Wales               |         4 |   0.25     |
 | Toulon              |         4 |   0.25     |
@@ -45,7 +46,6 @@ categories: player
 | Racing 92           |         4 |   0.25     |
 | Lyon                |         4 |   0.5      |
 | La Rochelle         |         4 |   0.75     |
-| Hurricanes          |         4 |   0.5      |
 | Ireland             |         4 |   0.25     |
 | Castres Olympique   |         4 |   0.75     |
 | Bordeaux Begles     |         4 |   0.25     |
@@ -59,13 +59,14 @@ categories: player
 | Lions               |         3 |   0        |
 | Brive               |         3 |   0.333333 |
 | Greater Sydney Rams |         2 |   0.5      |
-| North Harbour Rays  |         2 |   1        |
+| Pau                 |         2 |   0.5      |
 | Biarritz Olympique  |         2 |   0.5      |
 | Sunwolves           |         2 |   1        |
 | Stormers            |         2 |   0.5      |
+| Fijian Drua         |         2 |   0.5      |
 | Argentina           |         2 |   1        |
-| Pau                 |         2 |   0.5      |
 | Agen                |         2 |   1        |
+| North Harbour Rays  |         2 |   1        |
 | Connacht            |         2 |   0.5      |
 | Montpellier Herault |         2 |   0.25     |
 | Chiefs              |         2 |   0        |
@@ -76,7 +77,6 @@ categories: player
 | Scotland            |         1 |   1        |
 | France              |         1 |   1        |
 | Southern Kings      |         1 |   0        |
-| Fijian Drua         |         1 |   0        |
 | Bulls               |         1 |   1        |
 | Sydney Rays         |         1 |   1        |
 | Fiji                |         1 |   1        |

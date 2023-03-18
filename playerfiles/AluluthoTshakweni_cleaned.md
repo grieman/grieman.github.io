@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alulutho Tshakweni  
-date: 2023-01-15 11:50:35.563575  
+date: 2023-03-17 17:28:27.741941  
 categories: player  
 ---
 # Alulutho Tshakweni
 
 ## Positions: P
 
-## Current elo: 84.0
+## Current elo: 79.0
 
-## Current Percentile: 24.0
+## Current Percentile: 12.0
 
 # Elo History
 

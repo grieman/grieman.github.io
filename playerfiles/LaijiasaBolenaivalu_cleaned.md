@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Laijiasa Bolenaivalu  
-date: 2023-02-02 18:53:59.971675  
+date: 2023-03-17 16:59:57.935074  
 categories: player  
 ---
 # Laijiasa Bolenaivalu
 
 ## Positions: N8, FL
 
-## Current elo: 128.0
+## Current elo: 125.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,41 +21,41 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |            89 |   0.578652 |
-| Nice   |            32 |   0.578125 |
+| Vannes |            90 |   0.572222 |
+| Nice   |            37 |   0.567568 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         8 |   0.625    |
 | Soyaux-Angouleme           |         7 |   0.714286 |
 | Biarritz Olympique         |         7 |   0.571429 |
-| Beziers                    |         6 |   0.666667 |
 | Bourgoin-Jallieu           |         6 |   0.416667 |
 | Mont-de-Marsan             |         6 |   0.833333 |
-| Colomiers                  |         5 |   0.6      |
-| Narbonne                   |         5 |   0.4      |
+| Albi                       |         6 |   0.833333 |
+| Valence Romans Drome Rugby |         6 |   0.333333 |
+| Beziers                    |         6 |   0.666667 |
 | Montauban                  |         5 |   0.6      |
 | Carcassonne                |         5 |   0        |
-| Albi                       |         5 |   0.9      |
+| Colomiers                  |         5 |   0.6      |
 | Dax                        |         5 |   0.2      |
-| Massy                      |         4 |   0.75     |
-| Valence Romans Drome Rugby |         4 |   0.25     |
-| Provence Rugby             |         4 |   0.5      |
-| Bayonne                    |         4 |   0.5      |
+| Narbonne                   |         5 |   0.4      |
 | Perpignan                  |         4 |   0.25     |
-| Suresnes                   |         3 |   1        |
-| Blagnac                    |         3 |   0.666667 |
-| Nevers                     |         3 |   0.666667 |
+| Provence Rugby             |         4 |   0.5      |
+| Massy                      |         4 |   0.75     |
+| Bayonne                    |         4 |   0.5      |
 | Oyonnax                    |         3 |   1        |
+| Nevers                     |         3 |   0.666667 |
+| Blagnac                    |         3 |   0.666667 |
+| US Bressane                |         3 |   0.833333 |
+| Suresnes                   |         3 |   1        |
+| Tarbes                     |         3 |   0.666667 |
 | Rouen                      |         2 |   0.5      |
-| Tarbes                     |         2 |   1        |
-| US Bressane                |         2 |   0.75     |
 | Agen                       |         2 |   0.25     |
 | Dijon                      |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
+| Brive                      |         2 |   0        |
 | Grenoble                   |         2 |   0.5      |
 | Rennes                     |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |
 | Chambery                   |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |
-| Brive                      |         1 |   0        |

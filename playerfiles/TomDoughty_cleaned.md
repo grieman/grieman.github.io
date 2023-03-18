@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Doughty  
-date: 2023-03-11 00:15:40.229967  
+date: 2023-03-17 17:24:16.717662  
 categories: player  
 ---
 # Tom Doughty
 
 ## Positions: H
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 75.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            18 |   0.416667 |
+| Bath Rugby |            19 |   0.394737 |
 | Coventry   |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
@@ -37,4 +37,5 @@ categories: player
 | London Irish       |         1 |   1        |
 | Newcastle Falcons  |         1 |   1        |
 | Northampton Saints |         1 |   1        |
+| Toulon             |         1 |   0        |
 | Worcester Warriors |         1 |   1        |

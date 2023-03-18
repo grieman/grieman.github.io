@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Marco Trauth  
-date: 2023-02-02 19:00:19.325898  
+date: 2023-03-17 17:14:53.503473  
 categories: player  
 ---
 # Marco Trauth
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 93.0
 
-## Current Percentile: 51.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Blagnac          |            10 |   0.6      |
+| Blagnac          |            11 |   0.636364 |
 | Stade Toulousain |             3 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -35,3 +35,4 @@ categories: player
 | Chambery                   |         1 |       1    |
 | La Rochelle                |         1 |       1    |
 | Narbonne                   |         1 |       0.5  |
+| Rennes                     |         1 |       1    |

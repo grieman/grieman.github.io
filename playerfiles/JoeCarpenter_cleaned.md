@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Carpenter  
-date: 2023-02-02 18:58:40.393714  
+date: 2023-03-16 19:58:27.255776  
 categories: player  
 ---
 # Joe Carpenter
 
 ## Positions: FB
 
-## Current elo: 76.0
+## Current elo: 68.0
 
-## Current Percentile: 14.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,21 +21,22 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            14 |   0.571429 |
-| Nottingham  |             1 |   0        |
+| Sale Sharks |            18 |        0.5 |
+| Nottingham  |             1 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Exeter Chiefs       |         2 |        0.5 |
 | Harlequins          |         2 |        0.5 |
+| London Irish        |         2 |        0.5 |
+| Saracens            |         2 |        0.5 |
 | Ulster              |         2 |        0.5 |
 | Bath Rugby          |         1 |        1   |
 | Bristol Rugby       |         1 |        1   |
 | Ealing Trailfinders |         1 |        0   |
-| Exeter Chiefs       |         1 |        1   |
 | Glasgow Warriors    |         1 |        0   |
 | Gloucester Rugby    |         1 |        1   |
 | La Rochelle         |         1 |        0   |
 | Leicester Tigers    |         1 |        1   |
-| London Irish        |         1 |        1   |
-| Saracens            |         1 |        0   |
+| Northampton Saints  |         1 |        0   |
 | Stade Toulousain    |         1 |        0   |

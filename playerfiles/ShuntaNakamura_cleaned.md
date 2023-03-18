@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shunta Nakamura  
-date: 2023-02-02 19:05:42.828853  
+date: 2023-03-17 17:41:19.070557  
 categories: player  
 ---
 # Shunta Nakamura
 
 ## Positions: H
 
-## Current elo: 141.0
+## Current elo: 133.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,22 +21,22 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            29 |   0.793103 |
+| Tokyo Sungoliath |            47 |   0.787234 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         3 |   1        |
-| Green Rockets Tokatsu             |         3 |   1        |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
+| Saitama Wild Knights              |         5 |   0.2      |
+| Black Rams Tokyo                  |         4 |   1        |
+| Green Rockets Tokatsu             |         4 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.75     |
+| Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
+| Toyota Verblitz                   |         4 |   0.75     |
+| Urayasu D-Rocks                   |         4 |   1        |
+| Kobelco Kobe Steelers             |         3 |   0.333333 |
+| NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
+| Shizuoka Blue Revs                |         3 |   1        |
 | Yokohama Canon Eagles             |         3 |   1        |
 | Hanazono Kintetsu Liners          |         2 |   1        |
-| Kobelco Kobe Steelers             |         2 |   0.5      |
-| NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
-| Saitama Wild Knights              |         2 |   0        |
-| Toyota Verblitz                   |         2 |   1        |
-| Urayasu D-Rocks                   |         2 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
+| Mitsubishi Dynaboars              |         2 |   1        |
 | Mie Honda Heat                    |         1 |   1        |
-| Mitsubishi Dynaboars              |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   1        |
-| Shizuoka Blue Revs                |         1 |   1        |

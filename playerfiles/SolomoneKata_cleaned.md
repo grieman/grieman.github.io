@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Solomone Kata  
-date: 2023-02-02 19:01:20.872845  
+date: 2023-03-17 17:35:55.235620  
 categories: player  
 ---
 # Solomone Kata
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 130.0
+## Current elo: 120.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Brumbies       |            18 |   0.611111 |
-| Exeter Chiefs  |            12 |   0.666667 |
+| Exeter Chiefs  |            15 |   0.666667 |
 | Moana Pasifika |             8 |   0.125    |
 | Tonga          |             5 |   0.6      |
 | Auckland       |             2 |   0.5      |
@@ -35,22 +35,23 @@ categories: player
 | Chiefs                   |         4 |   0.25     |
 | Melbourne Rebels         |         3 |   0.333333 |
 | Blues                    |         3 |   0        |
-| New South Wales Waratahs |         2 |   1        |
 | Western Force            |         2 |   1        |
+| Newcastle Falcons        |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
 | Highlanders              |         2 |   0        |
-| Romania                  |         1 |   0        |
+| New South Wales Waratahs |         2 |   1        |
+| Sale Sharks              |         2 |   0.5      |
 | Northampton Saints       |         1 |   1        |
 | Bath Rugby               |         1 |   1        |
-| Sale Sharks              |         1 |   0        |
-| Newcastle Falcons        |         1 |   0        |
+| Romania                  |         1 |   0        |
 | Spain                    |         1 |   1        |
 | Sunwolves                |         1 |   1        |
 | Tasman                   |         1 |   0        |
 | Uruguay                  |         1 |   1        |
 | Saracens                 |         1 |   0        |
-| Leicester Tigers         |         1 |   1        |
 | Hurricanes               |         1 |   1        |
+| Leicester Tigers         |         1 |   1        |
+| Harlequins               |         1 |   0        |
 | Gloucester Rugby         |         1 |   1        |
 | Fijian Drua              |         1 |   0        |
 | England                  |         1 |   0        |

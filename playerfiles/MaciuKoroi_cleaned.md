@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Maciu Koroi  
-date: 2023-03-02 11:20:55.167817  
+date: 2023-03-17 17:43:21.128420  
 categories: player  
 ---
 # Maciu Koroi
 
 ## Positions: FL, N8
 
-## Current elo: 99.0
+## Current elo: 105.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,14 +21,15 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| NOLA Gold |             7 |   0.428571 |
+| NOLA Gold |             9 |   0.444444 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Rugby ATL              |         2 |          0 |
 | Dallas Jackals         |         1 |          1 |
 | Houston SaberCats      |         1 |          0 |
 | New England Free Jacks |         1 |          0 |
 | Old Glory DC           |         1 |          1 |
-| Rugby ATL              |         1 |          0 |
+| Rugby New York         |         1 |          1 |
 | Seattle Seawolves      |         1 |          1 |
 | Toronto Arrows         |         1 |          0 |

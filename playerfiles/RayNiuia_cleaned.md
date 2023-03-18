@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ray Niuia  
-date: 2023-03-04 11:42:01.120248  
+date: 2023-03-17 17:23:26.356851  
 categories: player  
 ---
 # Ray Niuia
@@ -25,8 +25,8 @@ categories: player
 |:---------------|--------------:|-----------:|
 | North Harbour  |            37 |   0.351351 |
 | Samoa          |            14 |   0.5      |
+| Moana Pasifika |            11 |   0.181818 |
 | Tasman         |            11 |   0.818182 |
-| Moana Pasifika |            10 |   0.2      |
 | Manawatu       |             7 |   0.285714 |
 | Blues          |             3 |   0.666667 |
 | Highlanders    |             1 |   0        |
@@ -39,10 +39,10 @@ categories: player
 | Auckland                 |         5 |   0        |
 | Counties Manukau         |         5 |   0.8      |
 | Otago                    |         5 |   0.2      |
+| Chiefs                   |         4 |   0        |
 | Wellington               |         4 |   0.5      |
 | Northland                |         4 |   0.75     |
 | Tonga                    |         4 |   1        |
-| Chiefs                   |         3 |   0        |
 | Tasman                   |         3 |   0.666667 |
 | Taranaki                 |         3 |   0.666667 |
 | Manawatu                 |         3 |   0.333333 |

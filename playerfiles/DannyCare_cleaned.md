@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Danny Care  
-date: 2023-02-02 18:57:07.240906  
+date: 2023-03-17 17:38:30.637655  
 categories: player  
 ---
 # Danny Care
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 114.0
+## Current elo: 108.0
 
-## Current Percentile: 90.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |           335 |   0.585075 |
+| Harlequins |           345 |   0.573913 |
 | England    |            85 |   0.658824 |
 | Leeds      |             6 |   0        |
 
@@ -31,44 +31,44 @@ categories: player
 |:---------------------|----------:|-----------:|
 | Wasps                |        29 |   0.637931 |
 | Saracens             |        27 |   0.296296 |
-| Gloucester Rugby     |        26 |   0.673077 |
+| Gloucester Rugby     |        27 |   0.648148 |
 | Sale Sharks          |        25 |   0.52     |
 | Leicester Tigers     |        25 |   0.44     |
 | London Irish         |        24 |   0.583333 |
 | Bath Rugby           |        23 |   0.652174 |
 | Northampton Saints   |        21 |   0.47619  |
-| Exeter Chiefs        |        20 |   0.4      |
-| Newcastle Falcons    |        19 |   0.789474 |
+| Exeter Chiefs        |        21 |   0.428571 |
 | Worcester Warriors   |        19 |   0.789474 |
+| Newcastle Falcons    |        19 |   0.789474 |
+| Bristol Rugby        |        15 |   0.4      |
 | Australia            |        14 |   0.642857 |
-| Bristol Rugby        |        12 |   0.5      |
 | France               |        10 |   0.6      |
+| Argentina            |         8 |   0.875    |
+| Wales                |         8 |   0.875    |
 | Ireland              |         8 |   0.375    |
 | New Zealand          |         8 |   0.125    |
 | Scotland             |         8 |   0.8125   |
-| Argentina            |         8 |   0.875    |
-| Wales                |         8 |   0.875    |
 | South Africa         |         7 |   0.357143 |
 | Italy                |         7 |   1        |
-| Stade Francais Paris |         5 |   0.8      |
+| Stade Francais Paris |         6 |   0.666667 |
+| Racing 92            |         5 |   0.6      |
 | Cardiff Blues        |         5 |   0.8      |
-| Racing 92            |         4 |   0.75     |
+| Montpellier Herault  |         5 |   0.4      |
 | London Welsh         |         4 |   1        |
 | Leeds                |         4 |   1        |
 | Stade Toulousain     |         4 |   0.25     |
 | Ulster               |         4 |   0.25     |
 | Connacht             |         4 |   0.75     |
 | Leinster             |         3 |   0.333333 |
-| Montpellier Herault  |         3 |   0.333333 |
+| Munster              |         3 |   0.333333 |
 | Clermont Auvergne    |         3 |   0        |
 | Castres Olympique    |         3 |   1        |
 | Yorkshire Carnegie   |         3 |   1        |
 | Scarlets             |         3 |   0.666667 |
-| Timisoara Saracens   |         2 |   1        |
 | Sharks               |         2 |   0.5      |
+| Timisoara Saracens   |         2 |   1        |
 | Zebre                |         2 |   1        |
 | Samoa                |         2 |   1        |
-| Munster              |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |
 | Grenoble             |         2 |   1        |
 | Fiji                 |         2 |   1        |

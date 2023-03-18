@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ioane Iashagashvili  
-date: 2023-02-15 22:13:00.627051  
+date: 2023-03-17 17:35:21.988221  
 categories: player  
 ---
 # Ioane Iashagashvili
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 55.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            14 |   0.678571 |
+| Valence Romans Drome Rugby |            13 |   0.653846 |
 | Bayonne                    |             3 |   0        |
 | Carcassonne                |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Narbonne                   |         2 |        1   |
 | Albi                       |         1 |        0   |
+| Narbonne                   |         1 |        1   |
 | Toulon                     |         1 |        0   |
 | Tarbes                     |         1 |        1   |
 | Suresnes                   |         1 |        1   |

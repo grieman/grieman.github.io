@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jean-Jacques Pretorius  
-date: 2023-03-12 11:34:36.735294  
+date: 2023-03-17 17:31:57.845391  
 categories: player  
 ---
 # Jean-Jacques Pretorius
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 

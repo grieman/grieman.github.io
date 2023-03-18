@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ignacio Mieres  
-date: 2023-02-15 22:13:39.212929  
+date: 2023-03-17 17:26:29.018940  
 categories: player  
 ---
 # Ignacio Mieres
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Argentina
 
-## Current elo: 119.0
+## Current elo: 124.0
 
-## Current Percentile: 89.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Dijon                |            18 |   0.166667 |
 | Stade Francais Paris |            16 |   0.4375   |
 | Agen                 |            10 |   0.1      |
-| Suresnes             |             8 |   0.625    |
+| Suresnes             |             7 |   0.714286 |
 | Perpignan            |             3 |   0.666667 |
 | Argentina            |             2 |   1        |
 
@@ -46,28 +46,28 @@ categories: player
 | Albi                       |         6 |   0.333333 |
 | Newcastle Falcons          |         5 |   0.6      |
 | Biarritz Olympique         |         5 |   0.2      |
-| Bourgoin-Jallieu           |         5 |   0.4      |
 | Harlequins                 |         5 |   0.4      |
 | Gloucester Rugby           |         5 |   0.4      |
 | Clermont Auvergne          |         4 |   0.375    |
-| Chambery                   |         3 |   0.333333 |
+| Bourgoin-Jallieu           |         4 |   0.5      |
 | Oyonnax                    |         3 |   0.5      |
+| Tarbes                     |         3 |   0.333333 |
 | Worcester Warriors         |         3 |   1        |
 | Bayonne                    |         3 |   0.333333 |
 | Nice                       |         3 |   0.333333 |
 | Carcassonne                |         3 |   0        |
-| Mont-de-Marsan             |         3 |   0        |
-| Tarbes                     |         3 |   0.333333 |
-| Racing 92                  |         3 |   0.666667 |
-| Stade Toulousain           |         3 |   0        |
-| Dax                        |         3 |   0.333333 |
-| Cognac Saint Jean d'Angély |         3 |   0        |
+| Chambery                   |         3 |   0.333333 |
 | Montauban                  |         3 |   0.5      |
+| Racing 92                  |         3 |   0.666667 |
+| Dax                        |         3 |   0.333333 |
+| Stade Toulousain           |         3 |   0        |
+| Cognac Saint Jean d'Angély |         3 |   0        |
+| Mont-de-Marsan             |         3 |   0        |
 | Suresnes                   |         2 |   0        |
 | Toulon                     |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0        |
-| Scarlets                   |         2 |   1        |
 | Narbonne                   |         2 |   1        |
+| Scarlets                   |         2 |   1        |
 | Agen                       |         2 |   0        |
 | Dragons                    |         2 |   1        |
 | Exeter Chiefs              |         2 |   0        |

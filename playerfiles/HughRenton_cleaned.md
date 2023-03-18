@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hugh Renton  
-date: 2023-03-11 00:16:20.266936  
+date: 2023-03-17 17:23:12.295765  
 categories: player  
 ---
 # Hugh Renton
 
 ## Positions: FL, N8
 
-## Current elo: 69.0
+## Current elo: 65.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            23 |   0.434783 |
+| Highlanders |            24 |   0.416667 |
 | Tasman      |            15 |   0.466667 |
 | Hawke's Bay |            13 |   0.153846 |
 | Canterbury  |             4 |   1        |
@@ -34,20 +34,20 @@ categories: player
 | Wellington               |         3 |   0.333333 |
 | Canterbury               |         3 |   0        |
 | Waikato                  |         3 |   0        |
-| Taranaki                 |         3 |   0.333333 |
+| Chiefs                   |         3 |   0.333333 |
 | Counties Manukau         |         3 |   0.333333 |
 | Crusaders                |         3 |   0.333333 |
+| Taranaki                 |         3 |   0.333333 |
 | Southland                |         3 |   1        |
 | Manawatu                 |         2 |   1        |
-| New South Wales Waratahs |         2 |   0.5      |
+| North Harbour            |         2 |   0.5      |
 | Queensland Reds          |         2 |   1        |
 | Otago                    |         2 |   0        |
-| North Harbour            |         2 |   0.5      |
 | Western Force            |         2 |   1        |
+| New South Wales Waratahs |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
 | Bay of Plenty            |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
-| Chiefs                   |         2 |   0.5      |
 | Brumbies                 |         2 |   0.5      |
 | Northland                |         1 |   0        |
 | Fijian Drua              |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Theo Idjellidaine  
-date: 2023-02-02 19:04:44.648819  
+date: 2023-03-17 17:13:57.526266  
 categories: player  
 ---
 # Theo Idjellidaine
 
 ## Positions: SH
 
-## Current elo: 83.0
+## Current elo: 86.0
 
-## Current Percentile: 21.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,17 +21,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Agen             |            25 |       0.36 |
-| Stade Toulousain |             8 |       0.25 |
+| Agen             |            23 |   0.304348 |
+| Stade Toulousain |             8 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Rouen                |         3 |   0.666667 |
 | Colomiers            |         3 |   0.333333 |
 | Oyonnax              |         3 |   0        |
 | Bayonne              |         2 |   0        |
-| Biarritz Olympique   |         2 |   1        |
 | Stade Francais Paris |         2 |   0        |
+| Rouen                |         2 |   0.5      |
 | Provence Rugby       |         2 |   0.5      |
 | Nevers               |         2 |   0        |
 | Beziers              |         2 |   0        |
@@ -46,4 +45,5 @@ categories: player
 | Clermont Auvergne    |         1 |   0        |
 | Carcassonne          |         1 |   0        |
 | Brive                |         1 |   0        |
+| Biarritz Olympique   |         1 |   1        |
 | Vannes               |         1 |   1        |

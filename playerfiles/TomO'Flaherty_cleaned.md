@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom O'Flaherty  
-date: 2023-02-02 19:09:44.895550  
+date: 2023-03-17 17:22:23.909291  
 categories: player  
 ---
 # Tom O'Flaherty
 
 ## Positions: W
 
-## Current elo: 121.0
+## Current elo: 89.0
 
-## Current Percentile: 92.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,31 +21,34 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            83 |   0.722892 |
-| Sale Sharks   |            15 |   0.6      |
+| Exeter Chiefs |            92 |   0.706522 |
+| Sale Sharks   |            23 |   0.478261 |
 | Ospreys       |             5 |   0.8      |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Bath Rugby         |        11 |   0.909091 |
-| Northampton Saints |        11 |   0.727273 |
-| Harlequins         |        10 |   0.5      |
-| Sale Sharks        |         8 |   0.75     |
-| Saracens           |         7 |   0.428571 |
-| Leicester Tigers   |         7 |   0.714286 |
-| Worcester Warriors |         7 |   0.714286 |
-| London Irish       |         6 |   0.666667 |
-| Bristol Rugby      |         6 |   0.833333 |
-| Wasps              |         6 |   0.666667 |
-| Gloucester Rugby   |         5 |   0.8      |
-| Newcastle Falcons  |         5 |   0.8      |
-| Stade Toulousain   |         3 |   0.333333 |
-| Glasgow Warriors   |         2 |   1        |
-| Ulster             |         2 |   0.5      |
-| La Rochelle        |         1 |   1        |
-| Exeter Chiefs      |         1 |   1        |
-| Racing 92          |         1 |   1        |
-| Castres Olympique  |         1 |   1        |
-| Cardiff Blues      |         1 |   1        |
-| Scarlets           |         1 |   1        |
-| Munster            |         1 |   0        |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Bath Rugby          |        12 |   0.916667 |
+| Northampton Saints  |        12 |   0.666667 |
+| Harlequins          |        10 |   0.5      |
+| Saracens            |         8 |   0.5      |
+| Sale Sharks         |         8 |   0.75     |
+| London Irish        |         7 |   0.571429 |
+| Leicester Tigers    |         7 |   0.714286 |
+| Worcester Warriors  |         7 |   0.714286 |
+| Wasps               |         6 |   0.666667 |
+| Bristol Rugby       |         6 |   0.833333 |
+| Glasgow Warriors    |         5 |   0.8      |
+| Newcastle Falcons   |         5 |   0.8      |
+| Gloucester Rugby    |         5 |   0.8      |
+| Stade Toulousain    |         5 |   0.2      |
+| Munster             |         3 |   0.333333 |
+| Ulster              |         3 |   0.333333 |
+| Exeter Chiefs       |         2 |   0.5      |
+| Montpellier Herault |         2 |   0.5      |
+| Scarlets            |         1 |   1        |
+| La Rochelle         |         1 |   1        |
+| Cardiff Blues       |         1 |   1        |
+| Castres Olympique   |         1 |   1        |
+| Racing 92           |         1 |   1        |
+| Leinster            |         1 |   0        |
+| Lyon                |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Steyn  
-date: 2023-02-02 19:06:39.460520  
+date: 2023-03-17 17:07:38.334359  
 categories: player  
 ---
 # Kyle Steyn
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 109.0
+## Current elo: 105.0
 
-## Current Percentile: 81.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Glasgow Warriors |            46 |   0.652174 |
-| Griquas          |             9 |   0.111111 |
-| Scotland         |             5 |   0.8      |
+| Glasgow Warriors |            54 |   0.611111 |
+| Griquas          |            10 |   0.2      |
+| Scotland         |             9 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,29 +33,33 @@ categories: player
 | Zebre               |         5 |   1        |
 | Benetton Treviso    |         5 |   0.6      |
 | Edinburgh           |         4 |   1        |
+| Exeter Chiefs       |         4 |   0.375    |
+| La Rochelle         |         4 |   0.25     |
+| Cardiff Blues       |         4 |   0.75     |
 | Ulster              |         3 |   0.666667 |
-| Cardiff Blues       |         3 |   0.666667 |
-| Golden Lions        |         2 |   0        |
+| Connacht            |         2 |   1        |
+| Bath Rugby          |         2 |   0.75     |
 | Stormers            |         2 |   0.5      |
+| Scarlets            |         2 |   0        |
 | Sale Sharks         |         2 |   1        |
 | Pumas               |         2 |   0        |
-| Natal Sharks        |         2 |   0        |
-| Bath Rugby          |         2 |   0.75     |
-| La Rochelle         |         2 |   0.5      |
-| Connacht            |         2 |   1        |
-| Exeter Chiefs       |         2 |   0.25     |
 | Dragons             |         2 |   0.5      |
-| Scarlets            |         1 |   0        |
-| Western Province    |         1 |   0        |
-| Blue Bulls          |         1 |   0        |
-| Tonga               |         1 |   1        |
-| Cheetahs            |         1 |   1        |
-| Sharks              |         1 |   1        |
-| Ireland             |         1 |   0        |
-| Saracens            |         1 |   0        |
+| Natal Sharks        |         2 |   0        |
+| France              |         2 |   0.5      |
+| Cheetahs            |         2 |   0.5      |
+| Golden Lions        |         2 |   0        |
+| Ireland             |         2 |   0        |
 | Italy               |         1 |   1        |
-| Ospreys             |         1 |   1        |
-| Lions               |         1 |   1        |
-| France              |         1 |   1        |
+| Western Province    |         1 |   0        |
+| Wales               |         1 |   1        |
+| Tonga               |         1 |   1        |
+| England             |         1 |   1        |
+| Sharks              |         1 |   1        |
+| Saracens            |         1 |   0        |
 | Free State Cheetahs |         1 |   1        |
+| Ospreys             |         1 |   1        |
+| Newcastle Falcons   |         1 |   1        |
+| Griffons            |         1 |   1        |
+| Lions               |         1 |   1        |
+| Blue Bulls          |         1 |   0        |
 | Australia           |         1 |   1        |

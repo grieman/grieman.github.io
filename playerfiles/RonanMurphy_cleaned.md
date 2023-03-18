@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ronan Murphy  
-date: 2023-02-26 11:18:26.269817  
+date: 2023-03-17 17:06:29.962464  
 categories: player  
 ---
 # Ronan Murphy
 
 ## Positions: FL, N8
 
-## Current elo: 99.0
+## Current elo: 85.0
 
-## Current Percentile: 47.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,12 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| American Raptors |             4 |          0 |
 | Austin Gilgronis |             3 |          1 |
-| American Raptors |             1 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Dallas Jackals    |         1 |          1 |
 | Houston SaberCats |         1 |          1 |
 | NOLA Gold         |         1 |          1 |
+| Pampas XV         |         1 |          0 |
 | Penarol Rugby     |         1 |          0 |
+| Selknam           |         1 |          0 |
+| Yacare XV         |         1 |          0 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ryan Mills  
-date: 2023-02-02 19:13:36.070289  
+date: 2023-03-17 17:25:16.227041  
 categories: player  
 ---
 # Ryan Mills
 
 ## Positions: C, FH
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 
@@ -24,7 +24,7 @@ categories: player
 | Worcester Warriors |            88 |   0.380682 |
 | Gloucester Rugby   |            30 |   0.516667 |
 | Wasps              |            16 |   0.625    |
-| Sale Sharks        |             2 |   0.5      |
+| Sale Sharks        |             5 |   0.4      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,13 +33,13 @@ categories: player
 | Leicester Tigers     |        13 |   0.461538 |
 | Harlequins           |        11 |   0.454545 |
 | Wasps                |         9 |   0.222222 |
+| Saracens             |         9 |   0.388889 |
+| Exeter Chiefs        |         9 |   0.333333 |
 | Sale Sharks          |         9 |   0.222222 |
-| Saracens             |         8 |   0.3125   |
-| Exeter Chiefs        |         8 |   0.375    |
 | Gloucester Rugby     |         8 |   0.25     |
 | Newcastle Falcons    |         8 |   0.5      |
+| London Irish         |         6 |   0.5      |
 | Bristol Rugby        |         6 |   0.666667 |
-| London Irish         |         5 |   0.6      |
 | Worcester Warriors   |         4 |   0.75     |
 | Dragons              |         3 |   0.666667 |
 | Stade Toulousain     |         2 |   1        |

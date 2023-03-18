@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Théophile Cotte  
-date: 2023-03-16 11:33:15.305556  
+date: 2023-03-16 19:56:32.627214  
 categories: player  
 ---
 # Théophile Cotte
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 37.0
+## Current Percentile: 36.0
 
 # Elo History
 

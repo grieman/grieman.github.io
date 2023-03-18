@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Langi Gleeson  
-date: 2023-02-24 09:46:46.153271  
+date: 2023-03-17 17:27:58.410415  
 categories: player  
 ---
 # Langi Gleeson
 
-## Positions: FL
+## Positions: N8, FL
 
 ## Country: Australia
 
-## Current elo: 101.0
+## Current elo: 105.0
 
-## Current Percentile: 62.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -23,18 +23,20 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |             9 |   0.444444 |
-| Australia                |             2 |   0.5      |
+| New South Wales Waratahs |            13 |   0.384615 |
+| Australia                |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Queensland Reds  |         2 |          0 |
-| Brumbies         |         1 |          0 |
-| Chiefs           |         1 |          0 |
-| Highlanders      |         1 |          1 |
-| Hurricanes       |         1 |          0 |
-| Italy            |         1 |          0 |
-| Melbourne Rebels |         1 |          1 |
-| Moana Pasifika   |         1 |          1 |
-| Scotland         |         1 |          1 |
-| Western Force    |         1 |          1 |
+| Brumbies         |         2 |        0   |
+| Hurricanes       |         2 |        0   |
+| Melbourne Rebels |         2 |        0.5 |
+| Queensland Reds  |         2 |        0   |
+| Chiefs           |         1 |        0   |
+| Fijian Drua      |         1 |        1   |
+| Highlanders      |         1 |        1   |
+| Italy            |         1 |        0   |
+| Moana Pasifika   |         1 |        1   |
+| Scotland         |         1 |        1   |
+| Wales            |         1 |        1   |
+| Western Force    |         1 |        1   |

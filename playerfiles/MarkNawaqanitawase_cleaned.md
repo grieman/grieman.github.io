@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Mark Nawaqanitawase  
-date: 2023-02-24 09:52:14.258854  
+date: 2023-03-17 17:08:31.840329  
 categories: player  
 ---
 # Mark Nawaqanitawase
 
-## Positions: W, FB
+## Positions: W
 
 ## Country: Australia
 
-## Current elo: 91.0
+## Current elo: 98.0
 
-## Current Percentile: 53.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,28 +23,29 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            33 |   0.272727 |
+| New South Wales Waratahs |            37 |   0.27027  |
 | NSW Country Eagles       |             6 |   0.416667 |
-| Australia                |             2 |   0        |
+| Australia                |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Melbourne Rebels   |         5 |   0.2      |
+| Melbourne Rebels   |         6 |   0.166667 |
+| Brumbies           |         5 |   0        |
 | Western Force      |         4 |   0.75     |
-| Brumbies           |         4 |   0        |
 | Queensland Reds    |         4 |   0        |
-| Crusaders          |         3 |   0.333333 |
+| Fijian Drua        |         3 |   0.833333 |
+| Hurricanes         |         3 |   0        |
 | Blues              |         3 |   0        |
+| Crusaders          |         3 |   0.333333 |
 | Chiefs             |         3 |   0        |
-| Fijian Drua        |         2 |   0.75     |
 | Highlanders        |         2 |   0.5      |
-| Hurricanes         |         2 |   0        |
+| Ireland            |         1 |   0        |
 | Brisbane City      |         1 |   0        |
-| Italy              |         1 |   0        |
 | Lions              |         1 |   1        |
 | Melbourne Rising   |         1 |   1        |
 | Moana Pasifika     |         1 |   1        |
 | Queensland Country |         1 |   0        |
 | Canberra Vikings   |         1 |   0        |
 | Sydney Rays        |         1 |   1        |
-| Ireland            |         1 |   0        |
+| Wales              |         1 |   1        |
+| Italy              |         1 |   0        |

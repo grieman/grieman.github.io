@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Gilbert  
-date: 2023-03-02 11:23:38.347638  
+date: 2023-03-17 17:11:04.695882  
 categories: player  
 ---
 # Sam Gilbert
@@ -21,13 +21,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            20 |   0.4      |
+| Highlanders |            21 |   0.380952 |
 | Otago       |            19 |   0.473684 |
 | Canterbury  |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Blues                    |         4 |        0   |
+| Crusaders                |         3 |        0   |
 | Hurricanes               |         3 |        0   |
 | Taranaki                 |         3 |        0   |
 | Manawatu                 |         2 |        1   |
@@ -36,7 +37,6 @@ categories: player
 | Canterbury               |         2 |        0.5 |
 | Chiefs                   |         2 |        0.5 |
 | Wellington               |         2 |        0   |
-| Crusaders                |         2 |        0   |
 | Waikato                  |         2 |        0.5 |
 | Hawke's Bay              |         2 |        0.5 |
 | New South Wales Waratahs |         2 |        0.5 |

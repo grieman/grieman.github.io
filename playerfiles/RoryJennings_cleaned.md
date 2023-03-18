@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rory Jennings  
-date: 2023-02-02 18:48:51.263640  
+date: 2023-03-16 20:16:37.812562  
 categories: player  
 ---
 # Rory Jennings
 
 ## Positions: FH, C
 
-## Current elo: 114.0
+## Current elo: 111.0
 
-## Current Percentile: 76.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
+| London Irish      |            18 |   0.583333 |
 | London Scottish   |            18 |   0.333333 |
-| London Irish      |            15 |   0.566667 |
 | Coventry          |            14 |   0.607143 |
 | Bath Rugby        |             8 |   0.375    |
 | Clermont Auvergne |             6 |   0.5      |
@@ -41,6 +41,7 @@ categories: player
 | Exeter Chiefs       |         3 |   0.333333 |
 | Gloucester Rugby    |         3 |   0.5      |
 | Jersey              |         3 |   0.666667 |
+| Leicester Tigers    |         2 |   0        |
 | Newcastle Falcons   |         2 |   0.5      |
 | Montpellier Herault |         2 |   0.25     |
 | London Irish        |         2 |   0        |
@@ -48,15 +49,16 @@ categories: player
 | Coventry            |         2 |   0.5      |
 | Cornish Pirates     |         2 |   0.5      |
 | Bristol Rugby       |         2 |   0.5      |
-| Leicester Tigers    |         1 |   0        |
-| Brive               |         1 |   1        |
+| La Rochelle         |         1 |   0        |
+| Sale Sharks         |         1 |   1        |
 | Wasps               |         1 |   0        |
 | Toulon              |         1 |   0        |
 | Stormers            |         1 |   0        |
 | Scarlets            |         1 |   0        |
-| Pau                 |         1 |   1        |
 | Racing 92           |         1 |   0        |
-| La Rochelle         |         1 |   0        |
+| Brive               |         1 |   1        |
+| Bath Rugby          |         1 |   1        |
+| Pau                 |         1 |   1        |
 | Northampton Saints  |         1 |   0        |
 | Lyon                |         1 |   1        |
 | London Scottish     |         1 |   1        |

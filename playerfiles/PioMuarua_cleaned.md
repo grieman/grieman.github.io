@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Pio Muarua  
-date: 2023-01-17 11:45:55.991327  
+date: 2023-03-17 17:25:01.327563  
 categories: player  
 ---
 # Pio Muarua
 
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

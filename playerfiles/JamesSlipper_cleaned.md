@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Slipper  
-date: 2023-02-24 09:46:07.661726  
+date: 2023-03-17 17:42:17.786306  
 categories: player  
 ---
 # James Slipper
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 123.0
+## Current elo: 126.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,29 +23,29 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Australia          |           129 |   0.531008 |
+| Australia          |           130 |   0.534615 |
 | Queensland Reds    |           104 |   0.490385 |
-| Brumbies           |            54 |   0.722222 |
+| Brumbies           |            57 |   0.736842 |
 | Queensland Country |            12 |   0.583333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | New Zealand              |        32 |   0.171875 |
-| New South Wales Waratahs |        20 |   0.6      |
+| New South Wales Waratahs |        21 |   0.619048 |
 | Western Force            |        19 |   0.657895 |
 | South Africa             |        18 |   0.555556 |
 | England                  |        16 |   0.25     |
 | Melbourne Rebels         |        16 |   0.75     |
 | Argentina                |        16 |   0.875    |
 | Brumbies                 |        13 |   0.423077 |
-| Wales                    |        11 |   0.818182 |
+| Wales                    |        12 |   0.833333 |
 | France                   |        11 |   0.636364 |
-| Queensland Reds          |         9 |   0.555556 |
+| Queensland Reds          |        10 |   0.6      |
 | Chiefs                   |         9 |   0.666667 |
+| Blues                    |         8 |   0.625    |
 | Crusaders                |         8 |   0.125    |
 | Highlanders              |         8 |   0.75     |
 | Hurricanes               |         8 |   0.375    |
-| Blues                    |         7 |   0.571429 |
 | Bulls                    |         7 |   0.571429 |
 | Stormers                 |         7 |   0.428571 |
 | Sharks                   |         7 |   0.428571 |

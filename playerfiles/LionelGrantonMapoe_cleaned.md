@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lionel Granton Mapoe  
-date: 2023-03-16 11:31:30.064590  
+date: 2023-03-16 20:00:35.534698  
 categories: player  
 ---
 # Lionel Granton Mapoe
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 48.0
+## Current Percentile: 47.0
 
 # Elo History
 

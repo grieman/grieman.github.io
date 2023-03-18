@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anderson Neisen  
-date: 2023-01-13 11:30:02.540813  
+date: 2023-03-17 17:03:33.683734  
 categories: player  
 ---
 # Anderson Neisen
 
 ## Positions: FB, FH
 
-## Current elo: 77.0
+## Current elo: 71.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,28 +21,29 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            67 |   0.410448 |
-| Brive    |             1 |   0        |
+| Aurillac |            73 |   0.417808 |
+| Brive    |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Rouen                      |         6 |   0.666667 |
+| Rouen                      |         7 |   0.714286 |
+| Grenoble                   |         6 |   0.166667 |
 | Mont-de-Marsan             |         6 |   0        |
-| Vannes                     |         5 |   0.6      |
-| Grenoble                   |         5 |   0.2      |
 | Montauban                  |         5 |   0.6      |
-| Beziers                    |         4 |   0.25     |
+| Nevers                     |         5 |   0.2      |
+| Vannes                     |         5 |   0.6      |
+| Beziers                    |         5 |   0.2      |
 | Colomiers                  |         4 |   0.75     |
-| Soyaux-Angouleme           |         4 |   0.5      |
-| Nevers                     |         4 |   0.25     |
+| Carcassonne                |         4 |   0.5      |
 | Oyonnax                    |         4 |   0.25     |
 | Perpignan                  |         4 |   0.125    |
+| Soyaux-Angouleme           |         4 |   0.5      |
 | Biarritz Olympique         |         3 |   0.333333 |
-| Carcassonne                |         3 |   0.333333 |
 | Provence Rugby             |         3 |   1        |
+| Massy                      |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Agen                       |         2 |   0        |
+| Enisey-STM Krasnoyarsk     |         1 |   0        |
 | Bayonne                    |         1 |   0        |
-| Toulon                     |         1 |   0        |
-| Massy                      |         1 |   1        |
 | Narbonne                   |         1 |   1        |
+| Toulon                     |         1 |   0        |

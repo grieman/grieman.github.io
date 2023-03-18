@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Colin Grosse  
-date: 2023-03-09 10:11:53.435756  
+date: 2023-03-17 17:21:03.732996  
 categories: player  
 ---
 # Colin Grosse
 
-## Positions: FL
+## Positions: FL, L
 
-## Current elo: 98.0
+## Current elo: 92.0
 
 ## Current Percentile: 68.0
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |             2 |        0.5 |
+| Old Glory DC |             3 |   0.333333 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Chicago Hounds |         1 |          1 |
-| Rugby New York |         1 |          0 |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| Chicago Hounds         |         1 |          1 |
+| New England Free Jacks |         1 |          0 |
+| Rugby New York         |         1 |          0 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Julien Fritz  
-date: 2023-02-02 18:41:37.653459  
+date: 2023-03-17 17:36:00.727057  
 categories: player  
 ---
 # Julien Fritz
 
 ## Positions: C
 
-## Current elo: 102.0
+## Current elo: 101.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,20 +21,20 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |            39 |   0.717949 |
+| Nice   |            44 |   0.693182 |
 | Lyon   |             3 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         5 |   0.6      |
+| Albi                       |         6 |   0.583333 |
+| Tarbes                     |         5 |   0.8      |
+| Valence Romans Drome Rugby |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   0.75     |
-| Tarbes                     |         4 |   1        |
 | Suresnes                   |         4 |   0.75     |
 | Aubenas                    |         3 |   1        |
 | Blagnac                    |         3 |   0.666667 |
+| US Bressane                |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |
-| Valence Romans Drome Rugby |         2 |   0        |
-| US Bressane                |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Massy                      |         2 |   1        |
 | Pau                        |         1 |   1        |

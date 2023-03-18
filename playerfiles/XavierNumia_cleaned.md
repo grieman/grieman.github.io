@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Xavier Numia  
-date: 2023-03-02 11:23:14.199095  
+date: 2023-03-17 17:11:28.672477  
 categories: player  
 ---
 # Xavier Numia
 
 ## Positions: P
 
-## Current elo: 127.0
+## Current elo: 119.0
 
-## Current Percentile: 97.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Hurricanes |            35 |   0.6      |
+| Hurricanes |            38 |   0.605263 |
 | Wellington |            34 |   0.676471 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blues                    |         5 |   0.4      |
+| Blues                    |         6 |   0.333333 |
 | Crusaders                |         5 |   0        |
 | Highlanders              |         5 |   1        |
 | Canterbury               |         4 |   0.75     |
 | Chiefs                   |         4 |   0.25     |
 | Tasman                   |         4 |   0.25     |
+| New South Wales Waratahs |         4 |   1        |
 | Auckland                 |         3 |   0.666667 |
 | Northland                |         3 |   0.666667 |
 | Waikato                  |         3 |   0.666667 |
 | Hawke's Bay              |         3 |   0.666667 |
 | Queensland Reds          |         3 |   1        |
-| New South Wales Waratahs |         3 |   1        |
 | Taranaki                 |         2 |   0.5      |
 | Sunwolves                |         2 |   1        |
 | Southland                |         2 |   1        |
@@ -45,10 +45,10 @@ categories: player
 | Western Force            |         2 |   0.5      |
 | North Harbour            |         2 |   0.5      |
 | Bay of Plenty            |         2 |   0.5      |
+| Melbourne Rebels         |         2 |   1        |
 | Manawatu                 |         2 |   1        |
 | Counties Manukau         |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
-| Melbourne Rebels         |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Moana Pasifika           |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Thomas Umaga-Jensen  
-date: 2023-03-02 11:22:03.299086  
+date: 2023-03-16 20:09:29.687417  
 categories: player  
 ---
 # Thomas Umaga-Jensen
 
 ## Positions: C
 
-## Current elo: 97.0
+## Current elo: 89.0
 
-## Current Percentile: 68.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,27 +21,27 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            22 |   0.340909 |
+| Highlanders |            24 |   0.3125   |
 | Wellington  |            21 |   0.809524 |
 | Otago       |             5 |   0.4      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Blues            |         4 |   0        |
 | Hurricanes       |         4 |   0        |
+| Blues            |         4 |   0        |
 | Otago            |         3 |   1        |
-| Southland        |         3 |   1        |
 | Northland        |         3 |   1        |
 | Canterbury       |         3 |   0.666667 |
+| Chiefs           |         3 |   0.333333 |
 | Melbourne Rebels |         3 |   0.333333 |
+| Crusaders        |         3 |   0.333333 |
+| Southland        |         3 |   1        |
 | North Harbour    |         2 |   0.5      |
 | Bay of Plenty    |         2 |   0.5      |
 | Tasman           |         2 |   0.5      |
-| Crusaders        |         2 |   0.5      |
 | Counties Manukau |         2 |   0.5      |
-| Chiefs           |         2 |   0.5      |
-| Taranaki         |         1 |   1        |
 | Stormers         |         1 |   0        |
+| Taranaki         |         1 |   1        |
 | Waikato          |         1 |   1        |
 | Wellington       |         1 |   0        |
 | Auckland         |         1 |   0        |

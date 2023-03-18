@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nugzar SOMKHISHVILI  
-date: 2023-03-16 11:31:43.905444  
+date: 2023-03-17 17:13:39.362648  
 categories: player  
 ---
 # Nugzar SOMKHISHVILI
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 60.0
+## Current Percentile: 59.0
 
 # Elo History
 

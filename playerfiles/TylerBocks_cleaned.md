@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tyler Bocks  
-date: 2023-03-12 11:31:52.560384  
+date: 2023-03-17 17:06:05.508691  
 categories: player  
 ---
 # Tyler Bocks
 
 ## Positions: C
 
-## Current elo: 75.0
+## Current elo: 85.0
 
-## Current Percentile: 10.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Golden Lions |             7 |          0 |
+| Golden Lions |             8 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Pumas               |         2 |          0 |
+| Pumas               |         3 |          0 |
 | Western Province    |         2 |          0 |
 | Blue Bulls          |         1 |          0 |
 | Free State Cheetahs |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gerrit Jacobus Visagie  
-date: 2023-03-12 11:30:51.656564  
+date: 2023-03-16 20:16:10.231310  
 categories: player  
 ---
 # Gerrit Jacobus Visagie
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 68.0
+## Current Percentile: 67.0
 
 # Elo History
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Gilen Queheille  
-date: 2023-02-02 18:56:31.398252  
+date: 2023-03-16 21:09:41.078546  
 categories: player  
 ---
 # Gilen Queheille
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

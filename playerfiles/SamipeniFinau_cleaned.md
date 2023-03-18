@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samipeni Finau  
-date: 2023-02-24 09:53:20.616611  
+date: 2023-03-17 17:38:44.887840  
 categories: player  
 ---
 # Samipeni Finau
@@ -21,8 +21,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Chiefs  |            20 |     0.7    |
-| Waikato |            16 |     0.6875 |
+| Chiefs  |            22 |   0.727273 |
+| Waikato |            16 |   0.6875   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -30,9 +30,9 @@ categories: player
 | Blues                    |         3 |   0.333333 |
 | Wellington               |         3 |   0.333333 |
 | Tasman                   |         3 |   1        |
+| Crusaders                |         3 |   0.333333 |
+| Highlanders              |         3 |   0.666667 |
 | Canterbury               |         2 |   0.5      |
-| Crusaders                |         2 |   0        |
-| Highlanders              |         2 |   0.5      |
 | Hurricanes               |         2 |   1        |
 | New South Wales Waratahs |         2 |   1        |
 | Otago                    |         2 |   0        |

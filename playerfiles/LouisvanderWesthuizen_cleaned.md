@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis van der Westhuizen  
-date: 2023-01-17 11:30:36.855470  
+date: 2023-03-17 17:06:12.068710  
 categories: player  
 ---
 # Louis van der Westhuizen
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Namibia
 
-## Current elo: 121.0
+## Current elo: 130.0
 
-## Current Percentile: 93.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Free State Cheetahs |            21 |   0.642857 |
+| Free State Cheetahs |            22 |   0.613636 |
 | Namibia             |            19 |   0.631579 |
-| Leopards            |             9 |   0.944444 |
-| Cheetahs            |             3 |   0.333333 |
+| Leopards            |            10 |   0.85     |
+| Cheetahs            |             1 |   1        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Pumas                  |         6 |   0.5      |
 | Natal Sharks           |         5 |   0.6      |
-| Pumas                  |         5 |   0.6      |
 | Griquas                |         4 |   0.75     |
 | SWD Eagles             |         3 |   0.833333 |
 | Blue Bulls             |         3 |   0.666667 |
@@ -40,15 +40,14 @@ categories: player
 | Golden Lions           |         2 |   0.75     |
 | Western Province       |         2 |   0.5      |
 | Tunisia                |         2 |   1        |
-| Scarlets               |         2 |   0        |
-| Griffons               |         1 |   1        |
+| Griffons               |         2 |   0.5      |
+| Russia                 |         1 |   1        |
 | Valke                  |         1 |   1        |
 | Uganda                 |         1 |   1        |
 | Tonga                  |         1 |   0        |
 | Spain                  |         1 |   0        |
 | South Africa           |         1 |   0        |
 | Boland Cavaliers       |         1 |   1        |
-| Russia                 |         1 |   1        |
 | Border Bulldogs        |         1 |   1        |
 | Pau                    |         1 |   1        |
 | New Zealand            |         1 |   0        |

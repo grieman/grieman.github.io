@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Aidan Morgan  
-date: 2023-03-02 11:23:53.414034  
+date: 2023-03-17 17:04:57.546143  
 categories: player  
 ---
 # Aidan Morgan
 
 ## Positions: FH
 
-## Current elo: 108.0
+## Current elo: 104.0
 
-## Current Percentile: 64.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -22,26 +22,27 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Wellington |            16 |   0.75     |
-| Hurricanes |            11 |   0.636364 |
+| Hurricanes |            14 |   0.642857 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Hawke's Bay              |         3 |   0.666667 |
+| Melbourne Rebels         |         2 |   1        |
 | Brumbies                 |         2 |   0        |
 | Canterbury               |         2 |   1        |
 | Taranaki                 |         2 |   0.5      |
+| Queensland Reds          |         2 |   1        |
 | Bay of Plenty            |         2 |   0.5      |
 | Moana Pasifika           |         2 |   0.5      |
-| Queensland Reds          |         2 |   1        |
-| Auckland                 |         1 |   1        |
+| New South Wales Waratahs |         2 |   1        |
 | Otago                    |         1 |   1        |
 | Waikato                  |         1 |   1        |
 | Tasman                   |         1 |   0        |
 | Southland                |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
-| New South Wales Waratahs |         1 |   1        |
+| Auckland                 |         1 |   1        |
 | Manawatu                 |         1 |   1        |
 | Highlanders              |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Counties Manukau         |         1 |   1        |
+| Blues                    |         1 |   0        |
 | Western Force            |         1 |   0        |

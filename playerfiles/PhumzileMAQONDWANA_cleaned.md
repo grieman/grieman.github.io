@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Phumzile MAQONDWANA  
-date: 2023-03-16 11:32:32.186988  
+date: 2023-03-17 17:36:34.457887  
 categories: player  
 ---
 # Phumzile MAQONDWANA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 91.0
 
-## Current Percentile: 52.0
+## Current Percentile: 51.0
 
 # Elo History
 

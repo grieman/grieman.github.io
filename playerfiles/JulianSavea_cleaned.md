@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Julian Savea  
-date: 2023-03-02 11:23:51.461902  
+date: 2023-03-17 17:38:37.476968  
 categories: player  
 ---
 # Julian Savea
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 139.0
+## Current elo: 136.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Hurricanes  |           143 |   0.601399 |
+| Hurricanes  |           146 |   0.60274  |
 | New Zealand |            55 |   0.909091 |
 | Wellington  |            50 |   0.7      |
 | Toulon      |            41 |   0.560976 |
@@ -31,16 +31,16 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |        19 |   0.526316 |
-| Blues                    |        18 |   0.611111 |
+| Blues                    |        19 |   0.578947 |
 | Crusaders                |        18 |   0.444444 |
 | Chiefs                   |        18 |   0.416667 |
 | Australia                |        13 |   0.884615 |
 | Brumbies                 |        11 |   0.272727 |
+| Melbourne Rebels         |         9 |   0.888889 |
 | Argentina                |         9 |   1        |
 | Queensland Reds          |         9 |   0.888889 |
-| Melbourne Rebels         |         8 |   0.875    |
+| New South Wales Waratahs |         8 |   0.75     |
 | Canterbury               |         7 |   0.571429 |
-| New South Wales Waratahs |         7 |   0.714286 |
 | South Africa             |         7 |   0.857143 |
 | Bulls                    |         6 |   0.5      |
 | Lions                    |         6 |   0.833333 |

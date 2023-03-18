@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Meli Tuni  
-date: 2023-03-11 00:12:58.962458  
+date: 2023-03-17 17:32:37.477314  
 categories: player  
 ---
 # Meli Tuni
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 68.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |             2 |          0 |
+| Fijian Drua |             3 |   0.333333 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Blues      |         1 |          0 |
+| Crusaders  |         1 |          1 |
 | Hurricanes |         1 |          0 |

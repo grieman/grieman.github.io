@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tommy Clark  
-date: 2023-03-04 11:40:51.888723  
+date: 2023-03-17 17:26:47.077483  
 categories: player  
 ---
 # Tommy Clark
 
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Seattle Seawolves |             9 |   0.555556 |
-| American Raptors  |             3 |   0        |
+| American Raptors  |             4 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -35,3 +35,4 @@ categories: player
 | R.U. New York    |         1 |        0   |
 | Rugby New York   |         1 |        0   |
 | Selknam          |         1 |        0   |
+| Yacare XV        |         1 |        0   |

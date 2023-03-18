@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jed Holloway  
-date: 2023-02-24 09:51:39.393344  
+date: 2023-03-17 17:05:13.284142  
 categories: player  
 ---
 # Jed Holloway
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 81.0
+## Current elo: 86.0
 
-## Current Percentile: 24.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,33 +23,33 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            75 |   0.46     |
+| New South Wales Waratahs |            78 |   0.455128 |
 | Greater Sydney Rams      |            18 |   0.361111 |
-| Australia                |             9 |   0.333333 |
+| Australia                |            10 |   0.4      |
 | NSW Country Eagles       |             5 |   0        |
 | Munster                  |             4 |   0.75     |
 | Toyota Verblitz          |             1 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Melbourne Rebels     |        11 |   0.636364 |
 | Queensland Reds      |        10 |   0.7      |
-| Melbourne Rebels     |        10 |   0.7      |
-| Brumbies             |         9 |   0.111111 |
+| Brumbies             |        10 |   0.1      |
 | Crusaders            |         7 |   0.285714 |
 | Western Force        |         6 |   0.833333 |
-| Highlanders          |         5 |   0.4      |
 | Blues                |         5 |   0.2      |
 | Chiefs               |         5 |   0        |
+| Highlanders          |         5 |   0.4      |
 | Melbourne Rising     |         4 |   0        |
-| Lions                |         3 |   0.333333 |
+| Fijian Drua          |         4 |   0.75     |
 | Hurricanes           |         3 |   0        |
+| Lions                |         3 |   0.333333 |
 | Queensland Country   |         3 |   0        |
-| Fijian Drua          |         3 |   0.666667 |
 | Sunwolves            |         3 |   1        |
 | Canberra Vikings     |         3 |   0        |
-| Perth Spirit         |         2 |   0.5      |
 | South Africa         |         2 |   0.5      |
 | Sharks               |         2 |   0.25     |
+| Perth Spirit         |         2 |   0.5      |
 | Stormers             |         2 |   1        |
 | Sydney Stars         |         2 |   0.5      |
 | Southern Kings       |         2 |   0.5      |
@@ -67,4 +67,5 @@ categories: player
 | Edinburgh            |         1 |   0        |
 | Cardiff Blues        |         1 |   1        |
 | Sydney Rays          |         1 |   1        |
+| Wales                |         1 |   1        |
 | Moana Pasifika       |         1 |   1        |

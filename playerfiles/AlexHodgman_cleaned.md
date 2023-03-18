@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alex Hodgman  
-date: 2023-03-12 11:33:24.477094  
+date: 2023-03-17 17:36:05.483019  
 categories: player  
 ---
 # Alex Hodgman
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 51.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blues       |            55 |   0.581818 |
+| Blues       |            56 |   0.589286 |
 | Canterbury  |            53 |   0.792453 |
 | Auckland    |            18 |   0.555556 |
 | Crusaders   |            11 |   0.545455 |
@@ -35,8 +35,8 @@ categories: player
 | Tasman                   |        11 |   0.545455 |
 | Highlanders              |        10 |   0.6      |
 | Taranaki                 |         8 |   0.75     |
+| Hurricanes               |         8 |   0.5      |
 | North Harbour            |         8 |   0.875    |
-| Hurricanes               |         7 |   0.428571 |
 | Crusaders                |         7 |   0.142857 |
 | Auckland                 |         7 |   0.714286 |
 | Otago                    |         6 |   1        |

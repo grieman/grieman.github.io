@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Lepresle  
-date: 2023-02-02 18:56:29.384709  
+date: 2023-03-17 17:29:29.058597  
 categories: player  
 ---
 # Clément Lepresle
 
 ## Positions: C
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 48.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -21,14 +21,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             8 |          0 |
+| Rennes |            12 |   0.166667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Valence Romans Drome Rugby |         2 |          0 |
-| Albi                       |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Chambery                   |         1 |          0 |
-| Narbonne                   |         1 |          0 |
-| Nice                       |         1 |          0 |
-| Tarbes                     |         1 |          0 |
+| Chambery                   |         2 |        0.5 |
+| Valence Romans Drome Rugby |         2 |        0   |
+| Albi                       |         1 |        0   |
+| Blagnac                    |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Narbonne                   |         1 |        0   |
+| Nice                       |         1 |        0   |
+| Tarbes                     |         1 |        0   |
+| US Bressane                |         1 |        0   |

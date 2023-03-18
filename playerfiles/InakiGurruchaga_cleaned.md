@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Inaki Gurruchaga  
-date: 2023-03-04 11:38:43.852187  
+date: 2023-03-17 17:38:21.255912  
 categories: player  
 ---
 # Inaki Gurruchaga
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Chile
 
-## Current elo: 84.0
+## Current elo: 83.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |            11 |   0.545455 |
+| Selknam |            12 |   0.5      |
 | Chile   |             7 |   0.285714 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -35,6 +35,7 @@ categories: player
 | Brazil           |         1 |        1   |
 | Cafeteros Pro    |         1 |        1   |
 | Ceibos Rugby     |         1 |        0   |
+| Dogos XV         |         1 |        0   |
 | Korea            |         1 |        0   |
 | Pampas XV        |         1 |        1   |
 | Penarol Rugby    |         1 |        1   |

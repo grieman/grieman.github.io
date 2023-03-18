@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diego Nuran Virgol Williams  
-date: 2023-03-12 11:32:23.010139  
+date: 2023-03-17 17:23:06.986590  
 categories: player  
 ---
 # Diego Nuran Virgol Williams
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 

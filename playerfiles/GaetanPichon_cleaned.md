@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gaetan Pichon  
-date: 2023-03-06 11:24:53.506140  
+date: 2023-03-17 17:37:55.157237  
 categories: player  
 ---
 # Gaetan Pichon
 
 ## Positions: SH
 
-## Current elo: 93.0
+## Current elo: 86.0
 
-## Current Percentile: 29.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Massy       |            25 |   0.4      |
+| Massy       |            26 |   0.384615 |
 | Carcassonne |            24 |   0.520833 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,12 +34,12 @@ categories: player
 | Carcassonne                |         4 |   1        |
 | Grenoble                   |         3 |   0.666667 |
 | Provence Rugby             |         3 |   0.666667 |
+| Agen                       |         3 |   0.333333 |
 | Colomiers                  |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
 | Rouen                      |         2 |   0        |
 | Beziers                    |         2 |   0.5      |
-| Agen                       |         2 |   0.5      |
 | Nevers                     |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

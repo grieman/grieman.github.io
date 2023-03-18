@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dandré Delport  
-date: 2023-03-12 11:34:48.852035  
+date: 2023-03-17 17:02:40.043372  
 categories: player  
 ---
 # Dandré Delport
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 

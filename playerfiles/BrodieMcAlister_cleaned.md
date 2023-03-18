@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Brodie McAlister  
-date: 2023-02-24 09:53:38.887319  
+date: 2023-03-17 17:20:12.445898  
 categories: player  
 ---
 # Brodie McAlister
 
 ## Positions: H
 
-## Current elo: 107.0
+## Current elo: 106.0
 
 ## Current Percentile: 85.0
 
@@ -22,19 +22,19 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Canterbury |            26 |   0.730769 |
-| Crusaders  |            24 |   0.916667 |
+| Crusaders  |            26 |   0.884615 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Chiefs           |         5 |   0.8      |
+| Chiefs           |         6 |   0.666667 |
 | Hurricanes       |         4 |   1        |
 | Blues            |         4 |   1        |
 | Queensland Reds  |         4 |   1        |
 | Otago            |         4 |   0.75     |
+| Highlanders      |         4 |   0.75     |
 | Auckland         |         3 |   0.333333 |
 | Northland        |         3 |   1        |
 | Wellington       |         3 |   0.333333 |
-| Highlanders      |         3 |   0.666667 |
 | Bay of Plenty    |         2 |   1        |
 | North Harbour    |         2 |   1        |
 | Hawke's Bay      |         2 |   0.5      |

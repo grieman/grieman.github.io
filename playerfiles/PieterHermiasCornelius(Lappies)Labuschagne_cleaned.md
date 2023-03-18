@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pieter Hermias Cornelius (Lappies) Labuschagne  
-date: 2023-02-24 02:24:34.545337  
+date: 2023-03-17 17:37:42.699762  
 categories: player  
 ---
 # Pieter Hermias Cornelius (Lappies) Labuschagne
 
 ## Positions: FL
 
-## Current elo: 111.0
+## Current elo: 115.0
 
-## Current Percentile: 77.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |             8 |     0.9375 |
+| Kubota Spears Funabashi Tokyo-Bay |            10 |       0.85 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -30,6 +30,8 @@ categories: player
 | Hanazono Kintetsu Liners |         1 |        1   |
 | Kobelco Kobe Steelers    |         1 |        1   |
 | Mitsubishi Dynaboars     |         1 |        1   |
+| Saitama Wild Knights     |         1 |        0   |
+| Shizuoka Blue Revs       |         1 |        1   |
 | Tokyo Sungoliath         |         1 |        1   |
 | Toyota Verblitz          |         1 |        1   |
 | Yokohama Canon Eagles    |         1 |        0.5 |

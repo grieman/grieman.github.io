@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keagan Johannes  
-date: 2023-03-16 11:31:20.042239  
+date: 2023-03-17 17:29:44.104278  
 categories: player  
 ---
 # Keagan Johannes
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 90.0
 
-## Current Percentile: 43.0
+## Current Percentile: 42.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nikita Bekov  
-date: 2023-02-02 18:53:30.352198  
+date: 2023-03-17 17:18:30.325920  
 categories: player  
 ---
 # Nikita Bekov
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Russia
 
-## Current elo: 99.0
+## Current elo: 94.0
 
-## Current Percentile: 54.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,27 +23,27 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            27 |   0.518519 |
-| Russia  |             4 |   0.25     |
-| Massy   |             2 |   1        |
+| Blagnac |            32 |    0.59375 |
+| Russia  |             4 |    0.25    |
+| Massy   |             2 |    1       |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Dax                        |         4 |   0.75     |
 | Albi                       |         3 |   0.333333 |
+| Chambery                   |         3 |   0.666667 |
+| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Nice                       |         3 |   0.333333 |
-| Dax                        |         2 |   0.5      |
-| Tarbes                     |         2 |   0.75     |
-| Aubenas                    |         2 |   1        |
 | Massy                      |         2 |   0.5      |
+| Tarbes                     |         2 |   0.75     |
+| Rennes                     |         2 |   1        |
+| Aubenas                    |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   1        |
-| Cognac Saint Jean d'Angély |         2 |   0        |
-| Chambery                   |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
-| Dijon                      |         1 |   0        |
 | Kenya                      |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   1        |
+| Dijon                      |         1 |   0        |
 | Portugal                   |         1 |   0        |
-| Rennes                     |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Romania                    |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Spain                      |         1 |   0        |

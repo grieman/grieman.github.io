@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Baptiste Fuster  
-date: 2023-02-02 19:14:33.457446  
+date: 2023-03-17 17:27:05.423341  
 categories: player  
 ---
 # Jean-Baptiste Fuster
 
 ## Positions: W
 
-## Current elo: 65.0
+## Current elo: 47.0
 
-## Current Percentile: 3.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |            31 |   0.483871 |
+| Suresnes |            35 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Cognac Saint Jean d'Angély |         5 |   0.6      |
 | Dijon                      |         4 |   0.75     |
+| Albi                       |         3 |   0.666667 |
+| Dax                        |         3 |   0.333333 |
 | Tarbes                     |         3 |   0.666667 |
-| Albi                       |         2 |   1        |
 | Blagnac                    |         2 |   0.5      |
-| Dax                        |         2 |   0.5      |
+| Bourgoin-Jallieu           |         2 |   0.5      |
 | Narbonne                   |         2 |   0        |
 | Nice                       |         2 |   0.5      |
 | US Bressane                |         2 |   0        |
+| Valence Romans Drome Rugby |         2 |   0        |
 | Aubenas                    |         1 |   0        |
-| Bourgoin-Jallieu           |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Chambery                   |         1 |   0        |
 | Massy                      |         1 |   0        |
 | Soyaux-Angouleme           |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0        |

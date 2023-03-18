@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kwenzokuhle Ndumiso Blose  
-date: 2023-02-02 19:01:48.566226  
+date: 2023-03-17 17:21:30.875650  
 categories: player  
 ---
 # Kwenzokuhle Ndumiso Blose
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 98.0
 
-## Current Percentile: 36.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Western Province |            17 |   0.352941 |
+| Western Province |            18 |   0.388889 |
 | Stormers         |             5 |   0.6      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Golden Lions        |         4 |   0.5      |
 | Blue Bulls          |         3 |   0.333333 |
-| Golden Lions        |         3 |   0.333333 |
 | Griquas             |         3 |   0.333333 |
 | Natal Sharks        |         3 |   0.333333 |
 | Pumas               |         3 |   0.666667 |

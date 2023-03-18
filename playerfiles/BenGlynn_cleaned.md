@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ben Glynn  
-date: 2023-02-02 18:57:10.715849  
+date: 2023-03-17 17:08:33.671565  
 categories: player  
 ---
 # Ben Glynn
 
 ## Positions: L, FL
 
-## Current elo: 97.0
+## Current elo: 101.0
 
 ## Current Percentile: None
 
@@ -23,8 +23,8 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Harlequins         |            39 |   0.487179 |
 | Bristol Rugby      |            16 |   0.25     |
-| Hartpury College   |             3 |   0.333333 |
 | Northampton Saints |             3 |   0.333333 |
+| Hartpury College   |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -40,7 +40,6 @@ categories: player
 | La Rochelle         |         2 |   0        |
 | Benetton Treviso    |         2 |   0.5      |
 | Pau                 |         2 |   1        |
-| Richmond            |         2 |   0.5      |
 | Bristol Rugby       |         2 |   0.5      |
 | Leicester Tigers    |         2 |   0        |
 | Gloucester Rugby    |         1 |   1        |
@@ -49,4 +48,5 @@ categories: player
 | Ealing Trailfinders |         1 |   0        |
 | Clermont Auvergne   |         1 |   0        |
 | Ospreys             |         1 |   0        |
+| Richmond            |         1 |   0        |
 | Cardiff Blues       |         1 |   0        |

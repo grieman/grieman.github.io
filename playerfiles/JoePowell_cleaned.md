@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Powell  
-date: 2023-02-02 18:42:30.078048  
+date: 2023-03-17 17:11:46.871103  
 categories: player  
 ---
 # Joe Powell
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 42.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,10 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Newport |             6 |        0.5 |
+| Newport |             7 |   0.428571 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Leinster          |         2 |        0   |
 | Newcastle Falcons |         2 |        1   |
 | Stade Toulousain  |         2 |        0.5 |
+| Edinburgh         |         1 |        0   |

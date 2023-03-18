@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Martial Rolland  
-date: 2023-02-15 22:14:30.242551  
+date: 2023-03-17 17:18:43.677391  
 categories: player  
 ---
 # Martial Rolland
 
 ## Positions: L
 
-## Current elo: 94.0
+## Current elo: 90.0
 
-## Current Percentile: 47.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -21,17 +21,17 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            46 |   0.532609 |
+| Aurillac |            45 |   0.522222 |
 | Lyon     |             4 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Grenoble                   |         5 |   0.6      |
 | Nevers                     |         4 |   0.5      |
-| Carcassonne                |         4 |   0.5      |
 | Colomiers                  |         4 |   0.5      |
 | Provence Rugby             |         4 |   0.75     |
 | Rouen                      |         3 |   0.666667 |
+| Carcassonne                |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0        |
 | Montauban                  |         3 |   0.666667 |
 | Agen                       |         2 |   0.5      |

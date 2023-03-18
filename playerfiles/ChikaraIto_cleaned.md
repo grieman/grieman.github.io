@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Chikara Ito  
-date: 2023-01-13 11:34:40.407994  
+date: 2023-03-17 17:14:44.514536  
 categories: player  
 ---
 # Chikara Ito
 
 ## Positions: W
 
-## Current elo: 86.0
+## Current elo: 95.0
 
-## Current Percentile: 24.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,22 +21,23 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            41 |   0.670732 |
+| Shizuoka Blue Revs |            59 |   0.627119 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Kubota Spears Funabashi Tokyo-Bay |         7 |   0.571429 |
+| Kobelco Kobe Steelers             |         5 |   0.2      |
+| Saitama Wild Knights              |         5 |   0.1      |
+| Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
+| Toyota Verblitz                   |         5 |   0.8      |
+| Yokohama Canon Eagles             |         5 |   0.5      |
 | Black Rams Tokyo                  |         4 |   1        |
-| Kobelco Kobe Steelers             |         4 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.75     |
-| Saitama Wild Knights              |         4 |   0.125    |
-| Yokohama Canon Eagles             |         4 |   0.5      |
+| Green Rockets Tokatsu             |         4 |   1        |
+| Urayasu D-Rocks                   |         4 |   0.75     |
 | Coca-Cola Red Sparks              |         3 |   1        |
-| Green Rockets Tokatsu             |         3 |   1        |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
-| Toyota Verblitz                   |         3 |   0.666667 |
+| Tokyo Sungoliath                  |         3 |   0        |
+| Toyota Industries Shuttles Aichi  |         3 |   1        |
+| Munakata Sanix Blues              |         2 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
-| Toyota Industries Shuttles Aichi  |         2 |   1        |
-| Urayasu D-Rocks                   |         2 |   1        |
 | Mie Honda Heat                    |         1 |   1        |
 | Mitsubishi Dynaboars              |         1 |   1        |
-| Munakata Sanix Blues              |         1 |   1        |

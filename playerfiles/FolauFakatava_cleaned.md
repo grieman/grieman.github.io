@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Folau Fakatava  
-date: 2023-03-02 11:28:44.279473  
+date: 2023-03-17 17:22:17.264937  
 categories: player  
 ---
 # Folau Fakatava
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 83.0
 
-## Current Percentile: 30.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            29 |   0.275862 |
+| Highlanders |            30 |   0.266667 |
 | Hawke's Bay |            20 |   0.55     |
 | New Zealand |             2 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Crusaders                |         7 |   0.142857 |
 | Blues                    |         7 |   0        |
-| Crusaders                |         6 |   0.166667 |
 | Hurricanes               |         5 |   0.2      |
 | Bay of Plenty            |         3 |   0.333333 |
 | Tasman                   |         3 |   0.333333 |

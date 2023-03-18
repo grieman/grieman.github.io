@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Yuji Takei  
-date: 2023-01-15 11:56:47.748273  
+date: 2023-03-17 17:07:46.430150  
 categories: player  
 ---
 # Yuji Takei
 
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,10 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |             1 |          0 |
+| Toyota Verblitz |             3 |   0.333333 |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Saitama Wild Knights |         1 |          0 |
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Hanazono Kintetsu Liners |         1 |          1 |
+| Saitama Wild Knights     |         1 |          0 |
+| Yokohama Canon Eagles    |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jake Ball  
-date: 2023-02-02 18:39:45.820570  
+date: 2023-03-17 17:26:26.056443  
 categories: player  
 ---
 # Jake Ball
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 111.0
+## Current elo: 103.0
 
-## Current Percentile: 82.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Scarlets              |           122 |  0.512295  |
+| Scarlets              |           124 |  0.512097  |
 | Wales                 |            49 |  0.510204  |
-| Green Rockets Tokatsu |            15 |  0.0666667 |
+| Green Rockets Tokatsu |            12 |  0.0833333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -46,35 +46,33 @@ categories: player
 | New Zealand                       |         5 |   0        |
 | Zebre                             |         5 |   0.9      |
 | France                            |         5 |   0.6      |
-| Australia                         |         4 |   0.25     |
 | Racing 92                         |         4 |   0.375    |
+| Sale Sharks                       |         4 |   0.25     |
 | Scotland                          |         4 |   0.75     |
+| Australia                         |         4 |   0.25     |
 | Saracens                          |         3 |   0.166667 |
-| Sale Sharks                       |         3 |   0.333333 |
 | South Africa                      |         3 |   0.333333 |
-| Yokohama Canon Eagles             |         3 |   0        |
-| Leicester Tigers                  |         2 |   0.5      |
+| Kobelco Kobe Steelers             |         2 |   0        |
+| Yokohama Canon Eagles             |         2 |   0        |
 | Uruguay                           |         2 |   1        |
 | Southern Kings                    |         2 |   1        |
-| Clermont Auvergne                 |         2 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
+| Leicester Tigers                  |         2 |   0.5      |
 | Harlequins                        |         2 |   0.5      |
-| Kobelco Kobe Steelers             |         2 |   0        |
+| Bath Rugby                        |         2 |   0.5      |
+| Clermont Auvergne                 |         2 |   0        |
+| Mie Honda Heat                    |         2 |   0.5      |
+| Northampton Saints                |         1 |   0        |
+| Toshiba Brave Lupus Tokyo         |         1 |   0        |
+| Worcester Warriors                |         1 |   0        |
+| London Irish                      |         1 |   1        |
 | Urayasu D-Rocks                   |         1 |   0        |
 | Bayonne                           |         1 |   1        |
-| Toshiba Brave Lupus Tokyo         |         1 |   0        |
-| Tonga                             |         1 |   1        |
-| Worcester Warriors                |         1 |   0        |
-| Tokyo Sungoliath                  |         1 |   0        |
 | Black Rams Tokyo                  |         1 |   0        |
-| Hanazono Kintetsu Liners          |         1 |   1        |
-| Shizuoka Blue Revs                |         1 |   0        |
+| Tonga                             |         1 |   1        |
 | Cheetahs                          |         1 |   1        |
-| Northampton Saints                |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         1 |   0        |
 | Fiji                              |         1 |   1        |
-| London Irish                      |         1 |   1        |
-| Bath Rugby                        |         1 |   0        |
 | Japan                             |         1 |   1        |
-| Georgia                           |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka   |         1 |   0        |
 | Saitama Wild Knights              |         1 |   0        |
+| Georgia                           |         1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |

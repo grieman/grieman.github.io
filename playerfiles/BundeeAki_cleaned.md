@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bundee Aki  
-date: 2023-02-02 18:57:23.804582  
+date: 2023-03-16 19:48:50.335126  
 categories: player  
 ---
 # Bundee Aki
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 131.0
+## Current elo: 144.0
 
-## Current Percentile: 96.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,76 +23,78 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Connacht                |           118 |   0.529661 |
-| Ireland                 |            40 |   0.775    |
-| Counties Manukau        |            36 |   0.569444 |
+| Connacht                |           125 |   0.524    |
+| Ireland                 |            44 |   0.795455 |
+| Counties Manukau        |            41 |   0.54878  |
 | Chiefs                  |            25 |   0.68     |
 | British and Irish Lions |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Leinster                 |        14 |   0.285714 |
 | Ulster                   |        13 |   0.384615 |
 | Munster                  |        11 |   0.454545 |
-| Leinster                 |        11 |   0.272727 |
 | Glasgow Warriors         |         9 |   0.333333 |
+| Wales                    |         7 |   0.857143 |
 | Cardiff Blues            |         7 |   0.571429 |
-| Ospreys                  |         7 |   0.285714 |
 | Zebre                    |         7 |   0.857143 |
-| Scarlets                 |         6 |   0.5      |
+| Ospreys                  |         7 |   0.285714 |
 | Edinburgh                |         6 |   0.666667 |
+| Scarlets                 |         6 |   0.5      |
+| Scotland                 |         6 |   1        |
 | England                  |         6 |   0.5      |
-| Wales                    |         6 |   0.833333 |
+| Southland                |         5 |   0.8      |
+| Italy                    |         5 |   1        |
+| France                   |         5 |   0.6      |
 | New Zealand              |         5 |   0.8      |
 | Benetton Treviso         |         5 |   1        |
-| Scotland                 |         5 |   1        |
 | Brive                    |         5 |   0.8      |
-| Tasman                   |         4 |   0.5      |
-| Waikato                  |         4 |   0.25     |
-| Hurricanes               |         4 |   0.75     |
-| Italy                    |         4 |   1        |
-| France                   |         4 |   0.5      |
 | Dragons                  |         4 |   0.5      |
 | Crusaders                |         4 |   0.5      |
+| Waikato                  |         4 |   0.25     |
+| Otago                    |         4 |   0.75     |
+| Gloucester Rugby         |         4 |   0.25     |
+| Tasman                   |         4 |   0.5      |
+| Hawke's Bay              |         4 |   0.25     |
+| Hurricanes               |         4 |   0.75     |
 | Blues                    |         4 |   1        |
-| Gloucester Rugby         |         3 |   0.333333 |
-| Hawke's Bay              |         3 |   0.333333 |
-| Wellington               |         3 |   0.333333 |
-| Australia                |         3 |   0.666667 |
-| Otago                    |         3 |   0.666667 |
 | Manawatu                 |         3 |   0.666667 |
-| Brumbies                 |         3 |   0.333333 |
-| Southland                |         3 |   1        |
+| Australia                |         3 |   0.666667 |
+| Auckland                 |         3 |   0.333333 |
+| Wellington               |         3 |   0.333333 |
 | Bay of Plenty            |         3 |   0.666667 |
-| South Africa             |         2 |   0.5      |
-| Bordeaux Begles          |         2 |   1        |
+| Brumbies                 |         3 |   0.333333 |
 | Southern Kings           |         2 |   1        |
+| South Africa             |         2 |   0.5      |
 | Stade Toulousain         |         2 |   0.5      |
-| Taranaki                 |         2 |   0.75     |
-| RC Enisei                |         2 |   1        |
 | Wasps                    |         2 |   0.5      |
 | Worcester Warriors       |         2 |   0.75     |
 | Sale Sharks              |         2 |   0.5      |
-| North Harbour            |         2 |   1        |
+| RC Enisei                |         2 |   1        |
+| Taranaki                 |         2 |   0.75     |
+| Argentina                |         2 |   1        |
+| Leicester Tigers         |         2 |   0        |
 | Melbourne Rebels         |         2 |   1        |
-| Auckland                 |         2 |   0.5      |
+| Bordeaux Begles          |         2 |   1        |
 | Canterbury               |         2 |   0        |
+| Enisey-STM Krasnoyarsk   |         2 |   1        |
 | Highlanders              |         2 |   0.5      |
 | Japan                    |         2 |   1        |
-| Leicester Tigers         |         2 |   0        |
 | Lions                    |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
-| Argentina                |         2 |   1        |
+| North Harbour            |         2 |   1        |
 | Northland                |         2 |   1        |
-| New South Wales Waratahs |         1 |   0        |
 | Sharks                   |         1 |   1        |
-| Perpignan                |         1 |   1        |
-| Stormers                 |         1 |   0        |
+| New South Wales Waratahs |         1 |   0        |
 | New Zealand Maori        |         1 |   0        |
-| Bayonne                  |         1 |   1        |
+| Perpignan                |         1 |   1        |
 | Samoa                    |         1 |   1        |
-| Oyonnax                  |         1 |   1        |
+| Stormers                 |         1 |   0        |
 | Grenoble                 |         1 |   0        |
-| Cheetahs                 |         1 |   1        |
-| Western Force            |         1 |   1        |
 | Russia                   |         1 |   1        |
+| Cheetahs                 |         1 |   1        |
+| Bristol Rugby            |         1 |   0        |
 | Queensland Reds          |         1 |   0        |
+| Western Force            |         1 |   1        |
+| Bayonne                  |         1 |   1        |
+| Oyonnax                  |         1 |   1        |

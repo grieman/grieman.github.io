@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matias ALEMANNO  
-date: 2023-03-16 11:31:18.873762  
+date: 2023-03-17 17:43:28.881962  
 categories: player  
 ---
 # Matias ALEMANNO
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 72.0
+## Current Percentile: 71.0
 
 # Elo History
 

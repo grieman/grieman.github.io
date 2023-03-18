@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Cronin  
-date: 2023-01-06 11:44:46.536110  
+date: 2023-03-17 17:12:39.709638  
 categories: player  
 ---
 # James Cronin
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 86.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,47 +23,47 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Munster            |           136 |   0.694853 |
+| Munster            |           139 |   0.68705  |
 | Biarritz Olympique |            14 |   0.285714 |
-| Leicester Tigers   |             8 |   0.5      |
+| Leicester Tigers   |            11 |   0.545455 |
 | Ireland            |             3 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Leinster             |        13 |   0.230769 |
+| Leinster             |        14 |   0.214286 |
 | Edinburgh            |        13 |   0.769231 |
-| Glasgow Warriors     |        11 |   0.636364 |
+| Glasgow Warriors     |        12 |   0.583333 |
 | Zebre                |        11 |   1        |
+| Connacht             |         9 |   0.777778 |
+| Ospreys              |         9 |   0.888889 |
 | Cardiff Blues        |         9 |   0.555556 |
 | Scarlets             |         9 |   0.777778 |
-| Ospreys              |         9 |   0.888889 |
-| Connacht             |         9 |   0.777778 |
 | Dragons              |         8 |   0.875    |
-| Benetton Treviso     |         7 |   0.857143 |
 | Ulster               |         7 |   0.642857 |
+| Benetton Treviso     |         7 |   0.857143 |
 | Saracens             |         6 |   0.333333 |
 | Racing 92            |         6 |   0.583333 |
+| Clermont Auvergne    |         4 |   0.5      |
+| Gloucester Rugby     |         4 |   1        |
 | Southern Kings       |         3 |   1        |
-| Toulon               |         3 |   0.333333 |
 | Sale Sharks          |         3 |   0.666667 |
+| Toulon               |         3 |   0.333333 |
 | Perpignan            |         3 |   0.666667 |
 | Leicester Tigers     |         3 |   0        |
-| Gloucester Rugby     |         3 |   1        |
-| Clermont Auvergne    |         3 |   0.333333 |
+| Exeter Chiefs        |         2 |   0.25     |
 | La Rochelle          |         2 |   0.5      |
 | Bordeaux Begles      |         2 |   0.5      |
+| Harlequins           |         2 |   1        |
 | Stade Toulousain     |         2 |   0.5      |
+| Newcastle Falcons    |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
-| Exeter Chiefs        |         2 |   0.25     |
-| Pau                  |         1 |   0        |
-| France               |         1 |   0        |
-| Italy                |         1 |   1        |
-| Harlequins           |         1 |   1        |
-| Cheetahs             |         1 |   1        |
 | Castres Olympique    |         1 |   1        |
-| Northampton Saints   |         1 |   1        |
-| Newcastle Falcons    |         1 |   1        |
+| Wales                |         1 |   0.5      |
 | Brive                |         1 |   0        |
 | Montpellier Herault  |         1 |   0        |
-| Wales                |         1 |   0.5      |
+| Cheetahs             |         1 |   1        |
+| France               |         1 |   0        |
+| Italy                |         1 |   1        |
+| Pau                  |         1 |   0        |
+| Northampton Saints   |         1 |   1        |
 | Bath Rugby           |         1 |   0        |

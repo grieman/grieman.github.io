@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jeremy Williams  
-date: 2023-03-02 11:22:39.420196  
+date: 2023-03-17 17:21:53.553726  
 categories: player  
 ---
 # Jeremy Williams
 
 ## Positions: L, FL
 
-## Current elo: 76.0
+## Current elo: 71.0
 
-## Current Percentile: None
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -22,12 +22,12 @@ categories: player
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
 | New South Wales Waratahs |            16 |     0.0625 |
-| Western Force            |             1 |     1      |
+| Western Force            |             2 |     0.5    |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Queensland Reds  |         4 |   0        |
 | Melbourne Rebels |         3 |   0.333333 |
-| Queensland Reds  |         3 |   0        |
 | Brumbies         |         2 |   0        |
 | Chiefs           |         2 |   0        |
 | Highlanders      |         2 |   0.5      |

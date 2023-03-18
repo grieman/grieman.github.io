@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Celimpilo Gumede  
-date: 2023-01-13 11:30:17.324052  
+date: 2023-03-17 17:22:07.662603  
 categories: player  
 ---
 # Celimpilo Gumede
 
 ## Positions: N8, FL
 
-## Current elo: 100.0
+## Current elo: 96.0
 
-## Current Percentile: 57.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Natal Sharks |            14 |   0.571429 |
-| Sharks       |             1 |   0        |
+| Natal Sharks |            15 |        0.6 |
+| Sharks       |             1 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,4 +32,5 @@ categories: player
 | Free State Cheetahs |         2 |   0.5      |
 | Golden Lions        |         2 |   0.5      |
 | Connacht            |         1 |   0        |
+| Griffons            |         1 |   1        |
 | Pumas               |         1 |   1        |

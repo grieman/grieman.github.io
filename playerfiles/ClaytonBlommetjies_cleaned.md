@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clayton Blommetjies  
-date: 2023-02-02 19:03:15.046020  
+date: 2023-03-17 17:02:44.103456  
 categories: player  
 ---
 # Clayton Blommetjies
 
 ## Positions: FB, W
 
-## Current elo: 94.0
+## Current elo: 85.0
 
-## Current Percentile: 52.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -22,51 +22,51 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Cheetahs            |            63 |   0.333333 |
-| Free State Cheetahs |            55 |   0.572727 |
+| Free State Cheetahs |            60 |   0.591667 |
 | Blue Bulls          |            13 |   0.346154 |
-| Stormers            |            13 |   0.653846 |
+| Stormers            |             8 |   0.6875   |
 | Scarlets            |             6 |   0.5      |
 | Leicester Tigers    |             2 |   0        |
+| Cheethas            |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Western Province         |        12 |   0.458333 |
+| Natal Sharks             |        12 |   0.541667 |
 | Griquas                  |        12 |   0.833333 |
-| Natal Sharks             |        11 |   0.5      |
-| Pumas                    |        10 |   0.65     |
+| Golden Lions             |        11 |   0.318182 |
+| Pumas                    |        11 |   0.590909 |
 | Southern Kings           |         9 |   1        |
-| Golden Lions             |         9 |   0.166667 |
-| Blue Bulls               |         8 |   0.5      |
+| Blue Bulls               |         9 |   0.555556 |
 | Stormers                 |         6 |   0.166667 |
-| Bulls                    |         6 |   0.5      |
-| Lions                    |         6 |   0.333333 |
-| Ulster                   |         5 |   0.2      |
+| Lions                    |         5 |   0.2      |
+| Bulls                    |         5 |   0.4      |
 | Cardiff Blues            |         4 |   0.25     |
-| Scarlets                 |         4 |   0.5      |
 | Sharks                   |         4 |   0.25     |
+| Scarlets                 |         4 |   0.5      |
+| Ulster                   |         4 |   0.25     |
 | Sunwolves                |         3 |   1        |
-| Glasgow Warriors         |         3 |   0        |
-| Ospreys                  |         3 |   0.5      |
 | Eastern Province Kings   |         3 |   0.666667 |
+| Ospreys                  |         3 |   0.5      |
+| Edinburgh                |         3 |   0.666667 |
 | Dragons                  |         3 |   0.666667 |
 | Connacht                 |         3 |   0.666667 |
-| Edinburgh                |         3 |   0.666667 |
-| Free State Cheetahs      |         2 |   0        |
+| Munster                  |         2 |   0        |
+| Melbourne Rebels         |         2 |   0        |
 | Highlanders              |         2 |   0        |
 | Jaguares                 |         2 |   0        |
+| Glasgow Warriors         |         2 |   0        |
+| Free State Cheetahs      |         2 |   0        |
 | Crusaders                |         2 |   0        |
 | Chiefs                   |         2 |   0        |
-| Munster                  |         2 |   0        |
-| Queensland Reds          |         1 |   0        |
-| Western Force            |         1 |   1        |
-| Bath Rugby               |         1 |   0        |
-| New South Wales Waratahs |         1 |   0        |
-| Melbourne Rebels         |         1 |   0        |
-| London Irish             |         1 |   1        |
 | Leinster                 |         1 |   0        |
+| Hurricanes               |         1 |   0        |
+| New South Wales Waratahs |         1 |   0        |
+| Queensland Reds          |         1 |   0        |
 | Clermont Auvergne        |         1 |   0        |
 | Brumbies                 |         1 |   0        |
 | Bristol Rugby            |         1 |   0        |
 | Boland Cavaliers         |         1 |   1        |
 | Blues                    |         1 |   0        |
-| Hurricanes               |         1 |   0        |
+| Western Force            |         1 |   1        |
+| Bath Rugby               |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jamie George  
-date: 2023-02-02 18:48:08.351353  
+date: 2023-03-17 17:31:44.727627  
 categories: player  
 ---
 # Jamie George
@@ -23,47 +23,47 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           282 |   0.76773  |
-| England                 |            68 |   0.691176 |
+| Saracens                |           288 |   0.765625 |
+| England                 |            72 |   0.680556 |
 | British and Irish Lions |             7 |   0.785714 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Northampton Saints  |        23 |   0.586957 |
 | Exeter Chiefs       |        21 |   0.642857 |
+| Gloucester Rugby    |        20 |   0.725    |
 | Wasps               |        19 |   0.842105 |
 | Harlequins          |        19 |   0.789474 |
-| Gloucester Rugby    |        19 |   0.710526 |
 | Sale Sharks         |        19 |   0.789474 |
 | Leicester Tigers    |        18 |   0.694444 |
-| Bath Rugby          |        16 |   0.90625  |
+| Bath Rugby          |        17 |   0.911765 |
 | Worcester Warriors  |        15 |   0.866667 |
 | London Irish        |        14 |   0.857143 |
 | Newcastle Falcons   |        12 |   1        |
 | Clermont Auvergne   |        10 |   0.3      |
 | Australia           |        10 |   0.9      |
+| Italy               |         9 |   1        |
 | Ireland             |         9 |   0.555556 |
-| Italy               |         8 |   1        |
-| South Africa        |         7 |   0.428571 |
-| France              |         7 |   0.428571 |
-| Scotland            |         7 |   0.5      |
+| Scotland            |         8 |   0.4375   |
+| France              |         8 |   0.375    |
+| Wales               |         8 |   0.625    |
+| Racing 92           |         7 |   0.714286 |
 | Bristol Rugby       |         7 |   0.714286 |
-| Wales               |         7 |   0.571429 |
+| South Africa        |         7 |   0.428571 |
+| Leinster            |         6 |   0.5      |
 | New Zealand         |         6 |   0.5      |
-| Racing 92           |         6 |   0.666667 |
-| Leinster            |         5 |   0.4      |
+| Toulon              |         5 |   0.4      |
 | Munster             |         5 |   0.8      |
-| Ospreys             |         4 |   0.875    |
 | Lyon                |         4 |   1        |
 | London Welsh        |         4 |   1        |
-| Glasgow Warriors    |         4 |   1        |
+| Ospreys             |         4 |   0.875    |
 | Scarlets            |         4 |   0.875    |
 | Stade Toulousain    |         4 |   0.5      |
-| Ulster              |         3 |   1        |
-| Argentina           |         3 |   1        |
+| Glasgow Warriors    |         4 |   1        |
 | Cardiff Blues       |         3 |   1        |
-| Toulon              |         3 |   0.666667 |
+| Argentina           |         3 |   1        |
 | Japan               |         3 |   1        |
+| Ulster              |         3 |   1        |
 | Oyonnax             |         2 |   1        |
 | Tonga               |         2 |   1        |
 | Zebre               |         2 |   1        |

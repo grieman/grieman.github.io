@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Pierrick Nova  
-date: 2023-02-02 18:46:15.582279  
+date: 2023-03-16 21:11:17.937537  
 categories: player  
 ---
 # Pierrick Nova
 
 ## Positions: SH
 
-## Current elo: 85.0
+## Current elo: 82.0
 
-## Current Percentile: 22.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,24 +21,24 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            61 |   0.434426 |
+| Narbonne |            66 |   0.401515 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| US Bressane                |         6 |   0.166667 |
 | Suresnes                   |         4 |   0.75     |
 | Bourgoin-Jallieu           |         4 |   0.75     |
+| Tarbes                     |         4 |   0.5      |
+| Chambery                   |         3 |   0        |
 | Nice                       |         3 |   1        |
 | Mont-de-Marsan             |         3 |   0        |
 | Blagnac                    |         3 |   0.833333 |
-| US Bressane                |         3 |   0.333333 |
-| Tarbes                     |         3 |   0.666667 |
-| Grenoble                   |         2 |   0.5      |
 | Nevers                     |         2 |   0        |
 | Montauban                  |         2 |   0        |
 | Albi                       |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Dax                        |         2 |   0.5      |
-| Chambery                   |         2 |   0        |
+| Grenoble                   |         2 |   0.5      |
 | Carcassonne                |         2 |   0        |
 | Biarritz Olympique         |         2 |   0.5      |
 | Beziers                    |         2 |   0        |

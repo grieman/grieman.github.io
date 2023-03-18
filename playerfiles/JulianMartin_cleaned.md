@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Julian Martin  
-date: 2023-03-09 10:12:03.321258  
+date: 2023-03-17 17:10:32.638998  
 categories: player  
 ---
 # Julian Martin
 
 ## Positions: 
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
@@ -17,9 +17,10 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Yacare XV |             2 |        0.5 |
+| Yacare XV |             3 |   0.666667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Cobras     |         1 |          1 |
-| Dogos XV   |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| American Raptors |         1 |          1 |
+| Cobras           |         1 |          1 |
+| Dogos XV         |         1 |          0 |

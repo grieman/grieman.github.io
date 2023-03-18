@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Stephan Smit  
-date: 2023-03-11 00:11:42.261681  
+date: 2023-03-17 17:03:58.056992  
 categories: player  
 ---
 # Stephan Smit
 
 ## Positions: FL
 
-## Current elo: 86.0
+## Current elo: 81.0
 
 ## Current Percentile: None
 

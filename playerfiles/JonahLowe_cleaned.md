@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jonah Lowe  
-date: 2023-03-02 11:21:59.879329  
+date: 2023-03-17 17:04:26.354457  
 categories: player  
 ---
 # Jonah Lowe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -27,20 +27,20 @@ categories: player
 | Chiefs              |            19 |   0.789474 |
 | New Zealand Maori   |             5 |   1        |
 | Hurricanes          |             3 |   0.666667 |
-| Highlanders         |             1 |   0        |
+| Highlanders         |             2 |   0        |
 | Provincial Union XV |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Crusaders                |         5 |   0.2      |
 | Otago                    |         5 |   0.6      |
 | Wellington               |         5 |   0.3      |
 | Bay of Plenty            |         5 |   0.4      |
 | Canterbury               |         5 |   0.2      |
-| Manawatu                 |         4 |   1        |
 | Tasman                   |         4 |   0.25     |
 | Moana Pasifika           |         4 |   1        |
 | Counties Manukau         |         4 |   0.25     |
-| Crusaders                |         4 |   0.25     |
+| Manawatu                 |         4 |   1        |
 | Waikato                  |         4 |   0.375    |
 | Taranaki                 |         3 |   0        |
 | Highlanders              |         3 |   0.666667 |

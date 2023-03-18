@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bynjamin Rabatel  
-date: 2023-01-15 11:49:08.846591  
+date: 2023-03-17 17:41:50.819259  
 categories: player  
 ---
 # Bynjamin Rabatel
 
-## Positions: FL, L
+## Positions: FL
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 74.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            41 |        0.5 |
+| Bourgoin-Jallieu |            45 |   0.522222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Nice                       |         5 |   0.4      |
+| Nice                       |         6 |   0.5      |
 | Chambery                   |         4 |   0.5      |
 | Dijon                      |         4 |   0.75     |
+| Tarbes                     |         4 |   0.5      |
+| Valence Romans Drome Rugby |         4 |   0.375    |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Dax                        |         3 |   0.666667 |
-| Tarbes                     |         3 |   0.333333 |
-| Valence Romans Drome Rugby |         3 |   0.5      |
+| Suresnes                   |         3 |   0.333333 |
 | Albi                       |         2 |   0        |
 | Aubenas                    |         2 |   0        |
 | Blagnac                    |         2 |   1        |
 | Carqueiranne-Hyères        |         2 |   1        |
 | Narbonne                   |         2 |   0.5      |
-| Suresnes                   |         2 |   0        |
 | US Bressane                |         2 |   0        |
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

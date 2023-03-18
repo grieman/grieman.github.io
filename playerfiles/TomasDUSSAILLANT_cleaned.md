@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tomas DUSSAILLANT  
-date: 2023-03-16 11:32:25.039778  
+date: 2023-03-17 17:32:12.483886  
 categories: player  
 ---
 # Tomas DUSSAILLANT
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 29.0
+## Current Percentile: 28.0
 
 # Elo History
 

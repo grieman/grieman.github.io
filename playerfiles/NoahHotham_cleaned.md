@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Noah Hotham  
-date: 2023-03-04 11:42:54.159186  
+date: 2023-03-17 17:10:30.840245  
 categories: player  
 ---
 # Noah Hotham
 
 ## Positions: SH
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 45.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -19,9 +19,10 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Tasman |            13 |   0.384615 |
+| Team      |   Appearances |   Win Rate |
+|:----------|--------------:|-----------:|
+| Tasman    |            13 |   0.384615 |
+| Crusaders |             2 |   0.5      |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -29,6 +30,8 @@ categories: player
 | Waikato       |         2 |        0   |
 | Auckland      |         1 |        0   |
 | Canterbury    |         1 |        0   |
+| Fijian Drua   |         1 |        0   |
+| Highlanders   |         1 |        1   |
 | Manawatu      |         1 |        1   |
 | North Harbour |         1 |        0   |
 | Northland     |         1 |        1   |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brad Weber  
-date: 2023-02-24 09:48:17.358931  
+date: 2023-03-17 16:59:52.693745  
 categories: player  
 ---
 # Brad Weber
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 135.0
+## Current elo: 137.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Chiefs            |           112 |   0.607143 |
+| Chiefs            |           115 |   0.617391 |
 | Hawke's Bay       |            38 |   0.355263 |
 | Waikato           |            25 |   0.44     |
 | New Zealand       |            18 |   0.777778 |
@@ -32,26 +32,26 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |        17 |   0.470588 |
-| Highlanders              |        15 |   0.366667 |
+| Crusaders                |        18 |   0.5      |
+| Highlanders              |        16 |   0.40625  |
 | Hurricanes               |        14 |   0.392857 |
 | Blues                    |        13 |   0.615385 |
 | Counties Manukau         |         7 |   0.285714 |
 | Wellington               |         7 |   0.142857 |
 | Manawatu                 |         7 |   0.857143 |
 | Bay of Plenty            |         6 |   0.666667 |
-| New South Wales Waratahs |         6 |   0.666667 |
 | Tasman                   |         6 |   0.166667 |
+| New South Wales Waratahs |         6 |   0.666667 |
 | Queensland Reds          |         5 |   0.8      |
+| Moana Pasifika           |         5 |   1        |
 | North Harbour            |         5 |   0.6      |
 | Melbourne Rebels         |         5 |   0.8      |
 | Southland                |         5 |   0.8      |
 | Canterbury               |         5 |   0        |
 | Brumbies                 |         5 |   0.8      |
-| Sharks                   |         4 |   0.5      |
 | Otago                    |         4 |   0.25     |
+| Sharks                   |         4 |   0.5      |
 | Stormers                 |         4 |   1        |
-| Moana Pasifika           |         4 |   1        |
 | Auckland                 |         4 |   0.25     |
 | Western Force            |         4 |   1        |
 | Jaguares                 |         4 |   0.5      |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tane Edmed  
-date: 2023-02-24 09:51:26.245647  
+date: 2023-03-17 17:31:37.809726  
 categories: player  
 ---
 # Tane Edmed
@@ -21,20 +21,20 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            22 |   0.272727 |
+| New South Wales Waratahs |            26 |   0.269231 |
 | Sydney Rays              |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Queensland Reds  |         4 |   0        |
+| Brumbies         |         3 |   0        |
 | Chiefs           |         3 |   0        |
+| Fijian Drua      |         3 |   1        |
+| Melbourne Rebels |         3 |   0        |
 | Western Force    |         3 |   0.333333 |
-| Brumbies         |         2 |   0        |
-| Fijian Drua      |         2 |   1        |
 | Highlanders      |         2 |   0.5      |
-| Melbourne Rebels |         2 |   0        |
+| Hurricanes       |         2 |   0        |
 | Blues            |         1 |   0        |
 | Brisbane City    |         1 |   0        |
 | Crusaders        |         1 |   1        |
-| Hurricanes       |         1 |   0        |
 | Moana Pasifika   |         1 |   1        |

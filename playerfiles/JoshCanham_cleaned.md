@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josh Canham  
-date: 2023-03-02 11:25:46.277117  
+date: 2023-03-17 17:20:07.661108  
 categories: player  
 ---
 # Josh Canham
 
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 109.0
 
-## Current Percentile: 73.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |            11 |   0.181818 |
+| Melbourne Rebels |            13 |   0.230769 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Hurricanes               |         2 |        0   |
+| New South Wales Waratahs |         2 |        0.5 |
 | Western Force            |         2 |        0.5 |
 | Blues                    |         1 |        0   |
 | Brumbies                 |         1 |        0   |
@@ -32,6 +34,4 @@ categories: player
 | Crusaders                |         1 |        0   |
 | Fijian Drua              |         1 |        0   |
 | Highlanders              |         1 |        1   |
-| Hurricanes               |         1 |        0   |
-| New South Wales Waratahs |         1 |        0   |
 | Queensland Reds          |         1 |        0   |

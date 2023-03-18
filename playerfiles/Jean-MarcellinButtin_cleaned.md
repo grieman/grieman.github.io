@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Marcellin Buttin  
-date: 2023-03-04 11:44:28.569757  
+date: 2023-03-17 17:14:35.142966  
 categories: player  
 ---
 # Jean-Marcellin Buttin
 
 ## Positions: FB
 
-## Current elo: 104.0
+## Current elo: 122.0
 
-## Current Percentile: 68.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,12 +21,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |             5 |        0.6 |
+| Agen   |             5 |          1 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Beziers            |         1 |          0 |
+| Massy              |         2 |          1 |
 | Biarritz Olympique |         1 |          1 |
-| Nevers             |         1 |          0 |
 | Rouen              |         1 |          1 |
 | Soyaux-Angouleme   |         1 |          1 |

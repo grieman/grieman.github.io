@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Horton  
-date: 2023-03-02 11:25:34.176778  
+date: 2023-03-17 17:34:15.831612  
 categories: player  
 ---
 # Tom Horton
@@ -23,11 +23,11 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | New South Wales Waratahs |            25 |   0.32     |
 | NSW Country Eagles       |             9 |   0.166667 |
-| Western Force            |             1 |   1        |
+| Western Force            |             3 |   0.666667 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Queensland Reds    |         6 |   0.166667 |
+| Queensland Reds    |         7 |   0.142857 |
 | Western Force      |         6 |   0.5      |
 | Brumbies           |         5 |   0        |
 | Melbourne Rebels   |         5 |   0.6      |
@@ -35,6 +35,6 @@ categories: player
 | Fijian Drua        |         3 |   0.833333 |
 | Brisbane City      |         2 |   0        |
 | Canberra Vikings   |         2 |   0        |
+| Moana Pasifika     |         2 |   1        |
 | Melbourne Rising   |         1 |   0        |
-| Moana Pasifika     |         1 |   1        |
 | Queensland Country |         1 |   0        |

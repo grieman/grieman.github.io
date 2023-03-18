@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Isiekwe  
-date: 2023-02-02 19:09:45.860764  
+date: 2023-03-17 17:40:26.588202  
 categories: player  
 ---
 # Nick Isiekwe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 29.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,40 +23,43 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Saracens           |           108 |   0.708333 |
-| Northampton Saints |            19 |   0.368421 |
-| England            |             9 |   0.666667 |
+| Saracens           |           111 |   0.698198 |
+| Northampton Saints |            22 |   0.318182 |
+| England            |            11 |   0.636364 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Exeter Chiefs      |        12 |   0.5      |
 | Northampton Saints |        11 |   0.909091 |
-| Gloucester Rugby   |        10 |   0.6      |
 | Harlequins         |        10 |   0.5      |
+| Gloucester Rugby   |        10 |   0.6      |
 | Worcester Warriors |         9 |   0.888889 |
-| Leicester Tigers   |         9 |   0.444444 |
 | Wasps              |         9 |   0.777778 |
-| Bristol Rugby      |         8 |   0.5      |
-| Sale Sharks        |         8 |   0.625    |
+| Sale Sharks        |         9 |   0.555556 |
+| Leicester Tigers   |         9 |   0.444444 |
 | London Irish       |         8 |   0.6875   |
+| Bristol Rugby      |         8 |   0.5      |
 | Bath Rugby         |         7 |   0.571429 |
 | Newcastle Falcons  |         7 |   1        |
+| Leinster           |         4 |   0.5      |
 | Ospreys            |         3 |   1        |
+| Scotland           |         2 |   0        |
 | Munster            |         2 |   0.5      |
-| Argentina          |         2 |   1        |
-| Glasgow Warriors   |         2 |   1        |
 | Edinburgh          |         2 |   0        |
+| Argentina          |         2 |   1        |
 | Clermont Auvergne  |         2 |   0        |
+| Glasgow Warriors   |         2 |   1        |
+| Italy              |         2 |   1        |
 | Cardiff Blues      |         2 |   1        |
-| Leinster           |         2 |   0.5      |
-| Australia          |         1 |   1        |
-| Italy              |         1 |   1        |
-| Lyon               |         1 |   1        |
-| France             |         1 |   0        |
-| Racing 92          |         1 |   0        |
-| Samoa              |         1 |   1        |
-| Scarlets           |         1 |   1        |
-| Scotland           |         1 |   0        |
-| South Africa       |         1 |   0        |
 | Wales              |         1 |   1        |
+| Ulster             |         1 |   0        |
+| Toulon             |         1 |   0        |
+| South Africa       |         1 |   0        |
+| Australia          |         1 |   1        |
+| Scarlets           |         1 |   1        |
+| Lyon               |         1 |   1        |
+| Bordeaux Begles    |         1 |   0        |
+| Racing 92          |         1 |   0        |
+| France             |         1 |   0        |
 | Brive              |         1 |   1        |
+| Samoa              |         1 |   1        |

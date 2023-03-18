@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: TK Howden  
-date: 2023-03-09 10:13:28.788829  
+date: 2023-03-17 17:11:01.100362  
 categories: player  
 ---
 # TK Howden
 
 ## Positions: FL
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: None
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -19,10 +19,12 @@ categories: player
 # Match History
 
 
-| Team     |   Appearances |   Win Rate |
-|:---------|--------------:|-----------:|
-| Manawatu |             1 |          0 |
+| Team       |   Appearances |   Win Rate |
+|:-----------|--------------:|-----------:|
+| Hurricanes |             1 |          0 |
+| Manawatu   |             1 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Blues      |         1 |          0 |
 | Northland  |         1 |          0 |

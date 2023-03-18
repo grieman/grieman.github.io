@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jaco Willemse  
-date: 2023-03-12 11:33:19.620881  
+date: 2023-03-17 17:22:55.047591  
 categories: player  
 ---
 # Jaco Willemse
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 

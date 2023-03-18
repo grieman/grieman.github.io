@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jamie-Jerry Taulagi  
-date: 2023-02-26 11:18:28.302711  
+date: 2023-03-17 17:37:17.906718  
 categories: player  
 ---
 # Jamie-Jerry Taulagi
 
 ## Positions: C
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 37.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |             7 |   0.571429 |
+| Massy  |             8 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Carcassonne      |         2 |          1 |
+| Agen             |         1 |          0 |
 | Mont-de-Marsan   |         1 |          0 |
 | Montauban        |         1 |          1 |
 | Rouen            |         1 |          0 |

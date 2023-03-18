@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yoram MOEFANA  
-date: 2023-03-16 11:32:34.477049  
+date: 2023-03-17 17:25:40.299363  
 categories: player  
 ---
 # Yoram MOEFANA
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nathan SYLVIA  
-date: 2023-03-16 11:31:58.353447  
+date: 2023-03-16 21:12:39.785955  
 categories: player  
 ---
 # Nathan SYLVIA
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 86.0
+## Current Percentile: 85.0
 
 # Elo History
 

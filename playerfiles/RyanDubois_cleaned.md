@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ryan Dubois  
-date: 2023-02-02 19:06:29.354991  
+date: 2023-03-17 17:11:53.689122  
 categories: player  
 ---
 # Ryan Dubois
 
 ## Positions: C
 
-## Current elo: 82.0
+## Current elo: 76.0
 
-## Current Percentile: 34.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,16 +21,13 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Rennes      |            13 |   0.153846 |
+| Rennes      |             9 |   0.222222 |
 | Agen        |             3 |   0        |
 | La Rochelle |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         2 |          0 |
-| Suresnes                   |         2 |          0 |
-| Tarbes                     |         2 |          0 |
-| Valence Romans Drome Rugby |         2 |          0 |
+| Albi                       |         1 |          0 |
 | Blagnac                    |         1 |          0 |
 | Carqueiranne-Hyères        |         1 |          1 |
 | Castres Olympique          |         1 |          0 |
@@ -40,5 +37,8 @@ categories: player
 | Gloucester Rugby           |         1 |          0 |
 | Grenoble                   |         1 |          0 |
 | Pau                        |         1 |          0 |
+| Suresnes                   |         1 |          0 |
+| Tarbes                     |         1 |          0 |
 | US Bressane                |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          0 |
 | Zebre                      |         1 |          0 |

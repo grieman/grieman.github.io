@@ -1,18 +1,16 @@
 ---  
 layout: page  
 title: Yoshida Hosoda  
-date: 2023-01-13 11:30:58.839637  
+date: 2023-03-17 17:03:25.001876  
 categories: player  
 ---
 # Yoshida Hosoda
 
-## Positions: FL, L
+## Positions: L, FL
 
-## Country: Japan
+## Current elo: 89.0
 
-## Current elo: 98.0
-
-## Current Percentile: 55.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,28 +21,14 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            57 |   0.342105 |
-| Japan                 |             1 |   1        |
+| Green Rockets Tokatsu |             7 |   0.142857 |
 
-| Opponent                          |   Matches |   Win Rate |
-|:----------------------------------|----------:|-----------:|
-| Tokyo Sungoliath                  |         6 |   0        |
-| Shizuoka Blue Revs                |         5 |   0.2      |
-| Black Rams Tokyo                  |         4 |   0.25     |
-| NTT Docomo Red Hurricanes Osaka   |         4 |   0.25     |
-| Toyota Verblitz                   |         4 |   0.5      |
-| Saitama Wild Knights              |         4 |   0        |
-| Yokohama Canon Eagles             |         4 |   0.5      |
-| Kobelco Kobe Steelers             |         4 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.166667 |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
-| Urayasu D-Rocks                   |         3 |   0.666667 |
-| Munakata Sanix Blues              |         3 |   0.666667 |
-| Hanazono Kintetsu Liners          |         2 |   0.5      |
-| Toyota Industries Shuttles Aichi  |         2 |   1        |
-| Coca-Cola Red Sparks              |         2 |   1        |
-| Kyuden Voltex                     |         1 |   1        |
-| Mie Honda Heat                    |         1 |   1        |
-| Mitsubishi Dynaboars              |         1 |   0        |
-| Canada                            |         1 |   1        |
-| Hino Red Dolphins                 |         1 |   0        |
+| Opponent                  |   Matches |   Win Rate |
+|:--------------------------|----------:|-----------:|
+| Black Rams Tokyo          |         1 |          0 |
+| Kobelco Kobe Steelers     |         1 |          0 |
+| Mitsubishi Dynaboars      |         1 |          1 |
+| Saitama Wild Knights      |         1 |          0 |
+| Tokyo Sungoliath          |         1 |          0 |
+| Toshiba Brave Lupus Tokyo |         1 |          0 |
+| Toyota Verblitz           |         1 |          0 |

@@ -1,24 +1,31 @@
 ---  
 layout: page  
 title: Ko Sato  
-date: 2023-02-24 02:31:49.610237  
+date: 2023-03-17 17:00:46.167700  
 categories: player  
 ---
 # Ko Sato
 
-## Positions: 
+## Positions: H
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: None
+## Current Percentile: 82.0
 
+# Elo History
+
+
+![elo history](history_KoSato.png)
 # Match History
 
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |             1 |          0 |
+| Black Rams Tokyo |             4 |       0.75 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Tokyo Sungoliath |         1 |          0 |
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Green Rockets Tokatsu    |         1 |          1 |
+| Hanazono Kintetsu Liners |         1 |          1 |
+| Kobelco Kobe Steelers    |         1 |          1 |
+| Tokyo Sungoliath         |         1 |          0 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Derrick Pretorius  
-date: 2023-03-11 00:16:56.391421  
+date: 2023-03-17 17:28:59.380788  
 categories: player  
 ---
 # Derrick Pretorius
 
 ## Positions: L
 
-## Current elo: 81.0
+## Current elo: 64.0
 
-## Current Percentile: 35.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |            14 |   0.571429 |
+| Griquas |            15 |   0.533333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Free State Cheetahs |         3 |   0.333333 |
+| Free State Cheetahs |         4 |   0.25     |
 | Pumas               |         3 |   0.666667 |
 | Blue Bulls          |         2 |   0.5      |
 | Golden Lions        |         2 |   1        |

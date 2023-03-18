@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luke Joseph Stringer  
-date: 2023-02-24 02:20:07.517282  
+date: 2023-03-17 17:41:35.651638  
 categories: player  
 ---
 # Luke Joseph Stringer
 
 ## Positions: FL
 
-## Current elo: 93.0
+## Current elo: 106.0
 
-## Current Percentile: 29.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,10 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |             3 |        0.5 |
+| Albi   |             6 |       0.75 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Suresnes         |         2 |        1   |
 | Bourgoin-Jallieu |         1 |        0   |
+| Dax              |         1 |        1   |
 | Narbonne         |         1 |        1   |
 | Nice             |         1 |        0.5 |

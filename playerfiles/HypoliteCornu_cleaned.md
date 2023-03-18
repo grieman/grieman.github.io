@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hypolite Cornu  
-date: 2023-02-24 02:23:19.966455  
+date: 2023-03-17 17:41:40.992296  
 categories: player  
 ---
 # Hypolite Cornu
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 103.0
 
-## Current Percentile: 61.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             6 |   0.333333 |
+| Rennes |             8 |      0.375 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Blagnac                    |         1 |          0 |
+| Blagnac                    |         2 |          0 |
+| Cognac Saint Jean d'Angély |         2 |          1 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          1 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
 | Dax                        |         1 |          0 |
 | Tarbes                     |         1 |          0 |

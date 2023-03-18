@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Axel Zapata  
-date: 2023-03-02 11:26:16.809143  
+date: 2023-03-17 17:20:38.487713  
 categories: player  
 ---
 # Axel Zapata
 
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 108.0
 
-## Current Percentile: 64.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Olimpia Lions     |            12 |   0.416667 |
-| Houston SaberCats |             5 |   0.6      |
+| Houston SaberCats |             7 |   0.571429 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -31,8 +31,9 @@ categories: player
 | Cobras            |         2 |        1   |
 | Dallas Jackals    |         2 |        1   |
 | Penarol Rugby     |         2 |        0   |
+| Seattle Seawolves |         2 |        0   |
 | Selknam           |         2 |        0.5 |
 | Austin Gilgronis  |         1 |        0   |
 | Ceibos Rugby      |         1 |        0   |
 | NOLA Gold         |         1 |        1   |
-| Seattle Seawolves |         1 |        0   |
+| San Diego Legion  |         1 |        1   |

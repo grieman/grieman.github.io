@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Douglas Rauth  
-date: 2023-03-04 11:42:52.249693  
+date: 2023-03-17 17:40:08.616083  
 categories: player  
 ---
 # Douglas Rauth
@@ -23,14 +23,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            16 |     0.0625 |
-| Brazil |             7 |     0      |
+| Cobras |            17 |  0.0588235 |
+| Brazil |             7 |  0         |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Penarol Rugby     |         4 |   0        |
 | Jaguares XV       |         3 |   0        |
 | Olimpia Lions     |         3 |   0.333333 |
-| Penarol Rugby     |         3 |   0        |
 | Selknam           |         3 |   0        |
 | Cafeteros Pro     |         2 |   0        |
 | Chile             |         1 |   0        |

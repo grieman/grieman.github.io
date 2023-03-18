@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Camille Jarreau  
-date: 2023-03-12 11:32:58.575486  
+date: 2023-03-17 17:07:01.912315  
 categories: player  
 ---
 # Camille Jarreau
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 71.0
 
 # Elo History
 

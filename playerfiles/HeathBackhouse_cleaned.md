@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Heath Backhouse  
-date: 2023-03-16 11:30:32.970465  
+date: 2023-03-17 17:36:35.459487  
 categories: player  
 ---
 # Heath Backhouse
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 78.0
+## Current Percentile: 77.0
 
 # Elo History
 

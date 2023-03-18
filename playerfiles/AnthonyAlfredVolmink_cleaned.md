@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anthony Alfred Volmink  
-date: 2023-03-12 11:34:27.423132  
+date: 2023-03-17 17:33:16.762512  
 categories: player  
 ---
 # Anthony Alfred Volmink
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 101.0
 
-## Current Percentile: 43.0
+## Current Percentile: 42.0
 
 # Elo History
 

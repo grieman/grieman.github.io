@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nicolas FAURE  
-date: 2023-03-16 11:31:31.201227  
+date: 2023-03-16 19:46:00.285205  
 categories: player  
 ---
 # Nicolas FAURE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 

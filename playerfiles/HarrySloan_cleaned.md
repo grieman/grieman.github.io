@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harry Sloan  
-date: 2023-01-13 11:25:56.074883  
+date: 2023-03-17 17:12:34.854397  
 categories: player  
 ---
 # Harry Sloan
 
 ## Positions: C
 
-## Current elo: 106.0
+## Current elo: 102.0
 
-## Current Percentile: 67.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Harlequins          |            41 |   0.560976 |
-| Agen                |            32 |   0.453125 |
+| Agen                |            31 |   0.435484 |
 | Ealing Trailfinders |            19 |   0.815789 |
 | Saracens            |             7 |   0.642857 |
 
@@ -30,10 +30,10 @@ categories: player
 |:--------------------|----------:|-----------:|
 | Worcester Warriors  |         6 |   0.666667 |
 | Bath Rugby          |         5 |   0.5      |
-| Rouen               |         4 |   0.75     |
 | Exeter Chiefs       |         4 |   0.25     |
 | Wasps               |         4 |   0.75     |
 | Gloucester Rugby    |         4 |   0.5      |
+| Jersey              |         3 |   1        |
 | Provence Rugby      |         3 |   0.666667 |
 | Northampton Saints  |         3 |   0.333333 |
 | Newcastle Falcons   |         3 |   0        |
@@ -41,7 +41,7 @@ categories: player
 | Leicester Tigers    |         3 |   0.666667 |
 | Sale Sharks         |         3 |   0.333333 |
 | Grenoble            |         3 |   0.333333 |
-| Jersey              |         3 |   1        |
+| Rouen               |         3 |   0.666667 |
 | Coventry            |         3 |   0.833333 |
 | Beziers             |         3 |   0        |
 | Doncaster           |         2 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Atsushi Kashimoto  
-date: 2023-02-02 18:57:02.425634  
+date: 2023-03-16 19:49:41.795946  
 categories: player  
 ---
 # Atsushi Kashimoto
 
 ## Positions: H
 
-## Current elo: 114.0
+## Current elo: 104.0
 
-## Current Percentile: 96.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,31 +21,31 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |            45 |   0.577778 |
+| Hanazono Kintetsu Liners |            72 |   0.486111 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         4 |   0.75     |
-| Mitsubishi Dynaboars              |         3 |   0.333333 |
-| Toshiba Brave Lupus Tokyo         |         3 |   0        |
-| Tokyo Sungoliath                  |         3 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
-| Coca-Cola Red Sparks              |         3 |   1        |
-| Munakata Sanix Blues              |         3 |   0.666667 |
-| Yokohama Canon Eagles             |         2 |   0        |
-| Mie Honda Heat                    |         2 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
-| Toyota Verblitz                   |         2 |   0.5      |
+| Black Rams Tokyo                  |         6 |   0.666667 |
+| Toshiba Brave Lupus Tokyo         |         5 |   0        |
+| Tokyo Sungoliath                  |         5 |   0.2      |
+| NTT Docomo Red Hurricanes Osaka   |         5 |   0.6      |
+| Mitsubishi Dynaboars              |         4 |   0.25     |
+| Urayasu D-Rocks                   |         4 |   0.5      |
+| Toyota Verblitz                   |         4 |   0.25     |
+| Saitama Wild Knights              |         4 |   0        |
+| Coca-Cola Red Sparks              |         4 |   1        |
+| Munakata Sanix Blues              |         4 |   0.5      |
+| Yokohama Canon Eagles             |         4 |   0.25     |
+| Mie Honda Heat                    |         3 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.666667 |
+| Kobelco Kobe Steelers             |         3 |   0        |
+| Shizuoka Blue Revs                |         2 |   0        |
 | Kamaishi Seawaves                 |         2 |   1        |
-| Saitama Wild Knights              |         2 |   0        |
-| Hino Red Dolphins                 |         1 |   1        |
-| Urayasu D-Rocks                   |         1 |   0        |
-| Toyota Industries Shuttles Aichi  |         1 |   1        |
-| Green Rockets Tokatsu             |         1 |   1        |
-| Kurita Water Gush                 |         1 |   1        |
-| Skyactivs Hiroshima               |         1 |   1        |
-| Shizuoka Blue Revs                |         1 |   0        |
-| Kyuden Voltex                     |         1 |   1        |
-| Kobelco Kobe Steelers             |         1 |   0        |
+| Toyota Industries Shuttles Aichi  |         2 |   1        |
+| Green Rockets Tokatsu             |         2 |   0.5      |
 | Mazda Blue Zoomers                |         1 |   1        |
+| Kyuden Voltex                     |         1 |   1        |
+| Kurita Water Gush                 |         1 |   1        |
 | Shimizu Blue Sharks               |         1 |   1        |
+| Skyactivs Hiroshima               |         1 |   1        |
+| Hino Red Dolphins                 |         1 |   1        |

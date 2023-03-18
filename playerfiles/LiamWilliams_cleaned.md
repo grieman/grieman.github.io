@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Liam Williams  
-date: 2023-02-02 18:55:51.443539  
+date: 2023-03-17 17:34:31.658157  
 categories: player  
 ---
 # Liam Williams
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Wales
 
-## Current elo: 139.0
+## Current elo: 141.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Scarlets                |           114 |   0.530702 |
-| Wales                   |            78 |   0.557692 |
-| Saracens                |            31 |   0.887097 |
+| Scarlets                |           115 |   0.526087 |
+| Wales                   |            82 |   0.542683 |
+| Saracens                |            32 |   0.890625 |
 | British and Irish Lions |             9 |   0.611111 |
 | Cardiff Blues           |             5 |   0.2      |
 
@@ -33,24 +33,24 @@ categories: player
 |:-------------------|----------:|-----------:|
 | Ospreys            |        13 |   0.461538 |
 | South Africa       |        12 |   0.416667 |
+| Munster            |        11 |   0.409091 |
 | England            |        11 |   0.272727 |
 | Cardiff Blues      |        11 |   0.818182 |
-| Munster            |        11 |   0.409091 |
 | Benetton Treviso   |        10 |   0.7      |
-| France             |         9 |   0.666667 |
+| Leinster           |        10 |   0.4      |
+| Ireland            |         9 |   0.388889 |
 | Edinburgh          |         9 |   0.611111 |
 | Dragons            |         9 |   0.777778 |
-| Leinster           |         9 |   0.333333 |
+| France             |         9 |   0.666667 |
+| Scotland           |         9 |   0.666667 |
+| Australia          |         9 |   0.333333 |
 | New Zealand        |         8 |   0.1875   |
-| Ireland            |         8 |   0.4375   |
 | Glasgow Warriors   |         8 |   0.5      |
-| Scotland           |         8 |   0.75     |
-| Australia          |         8 |   0.375    |
+| Italy              |         8 |   1        |
 | Ulster             |         7 |   0.5      |
-| Italy              |         7 |   1        |
 | Connacht           |         6 |   0.666667 |
+| Sale Sharks        |         6 |   0.5      |
 | Northampton Saints |         6 |   0.666667 |
-| Sale Sharks        |         5 |   0.6      |
 | Japan              |         4 |   0.75     |
 | Zebre              |         4 |   0.875    |
 | Clermont Auvergne  |         4 |   0        |

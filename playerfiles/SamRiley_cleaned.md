@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sam Riley  
-date: 2023-02-02 19:14:13.754679  
+date: 2023-03-17 17:35:08.583511  
 categories: player  
 ---
 # Sam Riley
@@ -21,26 +21,28 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Harlequins      |            18 |   0.611111 |
+| Harlequins      |            21 |   0.571429 |
 | London Scottish |             8 |   0.125    |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Bristol Rugby      |         3 |   0.666667 |
 | Sale Sharks        |         3 |   0.333333 |
 | Worcester Warriors |         2 |   1        |
+| Newcastle Falcons  |         2 |   1        |
 | Bedford            |         2 |   0        |
-| Bristol Rugby      |         2 |   1        |
 | Saracens           |         2 |   0        |
 | Bath Rugby         |         2 |   0.5      |
-| Newcastle Falcons  |         2 |   1        |
-| Northampton Saints |         1 |   1        |
 | Wasps              |         1 |   1        |
 | Richmond           |         1 |   0        |
 | Nottingham         |         1 |   0        |
+| Northampton Saints |         1 |   1        |
 | Ampthill           |         1 |   0        |
-| Jersey             |         1 |   0        |
+| Leicester Tigers   |         1 |   0        |
 | Hartpury College   |         1 |   0        |
+| Gloucester Rugby   |         1 |   0        |
+| Exeter Chiefs      |         1 |   1        |
 | Clermont Auvergne  |         1 |   0        |
 | Cardiff Blues      |         1 |   1        |
 | Caldy              |         1 |   1        |
-| Leicester Tigers   |         1 |   0        |
+| Jersey             |         1 |   0        |

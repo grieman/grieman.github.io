@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jean-Baptiste Singer  
-date: 2023-01-13 11:27:53.178032  
+date: 2023-03-17 17:19:11.415692  
 categories: player  
 ---
 # Jean-Baptiste Singer
 
 ## Positions: L
 
-## Current elo: 91.0
+## Current elo: 96.0
 
-## Current Percentile: 31.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,36 +21,36 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            65 |   0.561538 |
-| Aurillac           |            61 |   0.434426 |
+| Aurillac           |            69 |   0.427536 |
+| Biarritz Olympique |            66 |   0.55303  |
 | Dax                |            17 |   0.323529 |
 | Lyon               |            13 |   0.846154 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Beziers                    |        12 |   0.666667 |
 | Mont-de-Marsan             |        12 |   0.416667 |
-| Beziers                    |        11 |   0.727273 |
-| Vannes                     |        10 |   0.5      |
-| Carcassonne                |        10 |   0.5      |
-| Perpignan                  |         9 |   0.5      |
+| Vannes                     |        11 |   0.454545 |
+| Carcassonne                |        11 |   0.545455 |
 | Colomiers                  |         9 |   0.333333 |
+| Perpignan                  |         9 |   0.5      |
+| Nevers                     |         8 |   0.125    |
+| Grenoble                   |         8 |   0.3125   |
 | Montauban                  |         8 |   0.625    |
-| Oyonnax                    |         7 |   0.428571 |
 | Provence Rugby             |         7 |   0.571429 |
 | Narbonne                   |         7 |   0.857143 |
+| Oyonnax                    |         7 |   0.428571 |
 | Dax                        |         6 |   0.666667 |
-| Grenoble                   |         6 |   0.416667 |
 | Soyaux-Angouleme           |         6 |   0.333333 |
-| Nevers                     |         6 |   0.166667 |
+| Rouen                      |         6 |   0.666667 |
 | Aurillac                   |         5 |   0.6      |
-| Rouen                      |         5 |   0.6      |
-| Bourgoin-Jallieu           |         5 |   0.7      |
 | Bayonne                    |         5 |   0.6      |
-| Biarritz Olympique         |         4 |   0        |
-| Albi                       |         4 |   0.5      |
+| Bourgoin-Jallieu           |         5 |   0.7      |
 | Agen                       |         4 |   0.5      |
+| Albi                       |         4 |   0.5      |
+| Biarritz Olympique         |         4 |   0        |
+| Massy                      |         3 |   0.666667 |
 | Tarbes                     |         3 |   0.666667 |
 | US Bressane                |         3 |   0.666667 |
-| Massy                      |         2 |   0.5      |
-| Pau                        |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |
+| Pau                        |         1 |   0        |

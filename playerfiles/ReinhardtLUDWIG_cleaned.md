@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Reinhardt LUDWIG  
-date: 2023-03-16 11:30:25.191536  
+date: 2023-03-17 17:22:59.968939  
 categories: player  
 ---
 # Reinhardt LUDWIG
 
 ## Positions: L, FL
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 59.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Blue Bulls |            10 |       0.8  |
-| Bulls      |             8 |       0.75 |
+| Blue Bulls |            10 |   0.8      |
+| Bulls      |             9 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,6 +32,7 @@ categories: player
 | Western Province    |         2 |   1        |
 | Connacht            |         1 |   1        |
 | Dragons             |         1 |   1        |
+| Exeter Chiefs       |         1 |   0        |
 | Free State Cheetahs |         1 |   0        |
 | Glasgow Warriors    |         1 |   0        |
 | Lyon                |         1 |   1        |

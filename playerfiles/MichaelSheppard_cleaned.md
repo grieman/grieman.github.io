@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Michael Sheppard  
-date: 2023-02-26 11:19:04.994143  
+date: 2023-03-17 17:01:14.587977  
 categories: player  
 ---
 # Michael Sheppard
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |             1 |          0 |
+| Toronto Arrows |             3 |   0.333333 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rugby ATL  |         1 |          0 |
+| Opponent       |   Matches |   Win Rate |
+|:---------------|----------:|-----------:|
+| Chicago Hounds |         1 |          1 |
+| Rugby ATL      |         1 |          0 |
+| Rugby New York |         1 |          0 |

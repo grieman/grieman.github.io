@@ -1,29 +1,35 @@
 ---  
 layout: page  
 title: Nicolas Ciancio  
-date: 2023-01-23 15:30:21.977014  
+date: 2023-03-17 17:15:49.217986  
 categories: player  
 ---
 # Nicolas Ciancio
 
-## Positions: 
+## Positions: P
 
-## Current elo: 94.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_NicolasCiancio.png)
 # Match History
 
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |             6 |        0.5 |
+| Nice   |             9 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Bourgoin-Jallieu           |         1 |          0 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Narbonne                   |         1 |          0 |
-| Rennes                     |         1 |          1 |
-| Tarbes                     |         1 |          1 |
-| Valence Romans Drome Rugby |         1 |          0 |
+| Tarbes                     |         2 |        0.5 |
+| Albi                       |         1 |        0.5 |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Carqueiranne-Hyères        |         1 |        1   |
+| Narbonne                   |         1 |        0   |
+| Rennes                     |         1 |        1   |
+| US Bressane                |         1 |        1   |
+| Valence Romans Drome Rugby |         1 |        0   |

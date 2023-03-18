@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Macca Springer  
-date: 2023-02-24 09:51:51.424378  
+date: 2023-03-17 17:12:58.996514  
 categories: player  
 ---
 # Macca Springer
 
 ## Positions: W
 
-## Current elo: 98.0
+## Current elo: 97.0
 
-## Current Percentile: 42.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -19,9 +19,10 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Tasman |            15 |        0.4 |
+| Team      |   Appearances |   Win Rate |
+|:----------|--------------:|-----------:|
+| Tasman    |            15 |   0.4      |
+| Crusaders |             3 |   0.333333 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
@@ -30,6 +31,9 @@ categories: player
 | Southland   |         2 |   1        |
 | Auckland    |         1 |   0        |
 | Canterbury  |         1 |   0        |
+| Chiefs      |         1 |   0        |
+| Fijian Drua |         1 |   0        |
+| Highlanders |         1 |   1        |
 | Manawatu    |         1 |   1        |
 | Northland   |         1 |   1        |
 | Otago       |         1 |   0        |

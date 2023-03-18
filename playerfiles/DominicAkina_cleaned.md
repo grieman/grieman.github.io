@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dominic Akina  
-date: 2023-03-02 11:28:20.775720  
+date: 2023-03-17 17:01:04.009752  
 categories: player  
 ---
 # Dominic Akina
 
 ## Positions: FL, N8
 
-## Current elo: 74.0
+## Current elo: 89.0
 
-## Current Percentile: 10.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,20 +23,20 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Austin Gilgronis  |            21 |   0.666667 |
 | Austin Herd       |             7 |   0.214286 |
-| Houston SaberCats |             2 |   1        |
+| Houston SaberCats |             4 |   0.75     |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Utah Warriors          |         5 |   0.3      |
+| Seattle Seawolves      |         4 |   0.75     |
 | Dallas Jackals         |         3 |   1        |
 | Old Glory DC           |         3 |   0.333333 |
-| Seattle Seawolves      |         3 |   1        |
+| San Diego Legion       |         3 |   1        |
 | Houston SaberCats      |         2 |   1        |
 | L. A. Giltinis         |         2 |   0.5      |
 | NOLA Gold              |         2 |   1        |
 | New England Free Jacks |         2 |   0        |
 | Rugby ATL              |         2 |   0.5      |
-| San Diego Legion       |         2 |   1        |
 | Toronto Arrows         |         2 |   0.5      |
 | R.U. New York          |         1 |   0        |
 | Rugby New York         |         1 |   0        |

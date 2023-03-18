@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mateo Soler  
-date: 2023-03-04 11:36:53.536808  
+date: 2023-03-17 17:25:46.706016  
 categories: player  
 ---
 # Mateo Soler
 
-## Positions: W
+## Positions: W, FB
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 10.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,9 +21,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             2 |          1 |
+| Dogos XV |             4 |       0.75 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Cobras     |         1 |          1 |
-| Yacare XV  |         1 |          1 |
+| Opponent      |   Matches |   Win Rate |
+|:--------------|----------:|-----------:|
+| Cobras        |         1 |          1 |
+| Penarol Rugby |         1 |          0 |
+| Selknam       |         1 |          1 |
+| Yacare XV     |         1 |          1 |

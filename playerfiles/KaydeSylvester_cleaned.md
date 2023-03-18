@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kayde Sylvester  
-date: 2023-03-04 11:43:29.709005  
+date: 2023-03-17 17:35:00.822079  
 categories: player  
 ---
 # Kayde Sylvester
 
 ## Positions: FL
 
-## Current elo: 85.0
+## Current elo: 89.0
 
-## Current Percentile: 13.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |             4 |          1 |
+| Bedford |             5 |          1 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Hartpury College |         2 |          1 |
 | Doncaster        |         1 |          1 |
-| Hartpury College |         1 |          1 |
 | London Scottish  |         1 |          1 |
 | Nottingham       |         1 |          1 |

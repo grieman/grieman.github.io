@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Robbie Henshaw  
-date: 2023-03-12 11:33:06.619990  
+date: 2023-03-17 17:38:26.346536  
 categories: player  
 ---
 # Robbie Henshaw
@@ -25,7 +25,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Connacht                |            79 |   0.462025 |
 | Leinster                |            74 |   0.804054 |
-| Ireland                 |            60 |   0.658333 |
+| Ireland                 |            61 |   0.663934 |
 | British and Irish Lions |             8 |   0.4375   |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,8 +42,8 @@ categories: player
 | South Africa             |         7 |   0.571429 |
 | Wales                    |         7 |   0.357143 |
 | Edinburgh                |         7 |   0.571429 |
+| Scotland                 |         7 |   0.857143 |
 | Ospreys                  |         6 |   0.333333 |
-| Scotland                 |         6 |   0.833333 |
 | Scarlets                 |         6 |   0.333333 |
 | New Zealand              |         6 |   0.5      |
 | Exeter Chiefs            |         5 |   0.6      |

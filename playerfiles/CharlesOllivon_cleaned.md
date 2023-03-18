@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Ollivon  
-date: 2023-01-06 00:08:39.490617  
+date: 2023-03-17 17:29:08.017614  
 categories: player  
 ---
 # Charles Ollivon
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: France
 
-## Current elo: 135.0
+## Current elo: 146.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Toulon  |            81 |   0.592593 |
+| Toulon  |            87 |   0.597701 |
 | Bayonne |            33 |   0.484848 |
-| France  |            27 |   0.666667 |
+| France  |            31 |   0.677419 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,36 +33,38 @@ categories: player
 | Racing 92            |        10 |   0.3      |
 | Clermont Auvergne    |         9 |   0.555556 |
 | Montpellier Herault  |         9 |   0.277778 |
+| Lyon                 |         8 |   0.625    |
 | Castres Olympique    |         8 |   0.5      |
 | Bordeaux Begles      |         7 |   0.428571 |
-| Lyon                 |         7 |   0.714286 |
-| Grenoble             |         7 |   0.5      |
 | Pau                  |         7 |   0.857143 |
 | La Rochelle          |         7 |   0.5      |
+| Grenoble             |         7 |   0.5      |
 | Stade Francais Paris |         6 |   0.833333 |
-| Brive                |         5 |   0.4      |
 | Scarlets             |         5 |   0.8      |
-| Scotland             |         4 |   0.25     |
+| Brive                |         5 |   0.4      |
+| Scotland             |         5 |   0.4      |
+| Ireland              |         4 |   0.5      |
 | Wales                |         4 |   0.75     |
-| Bayonne              |         3 |   0.333333 |
-| Ireland              |         3 |   0.666667 |
+| Italy                |         3 |   1        |
 | Japan                |         3 |   1        |
+| England              |         3 |   0.666667 |
+| London Irish         |         3 |   1        |
+| Bayonne              |         3 |   0.333333 |
 | Oyonnax              |         2 |   1        |
+| Saracens             |         2 |   0.5      |
 | Agen                 |         2 |   1        |
 | Argentina            |         2 |   0.5      |
-| England              |         2 |   0.5      |
+| Bath Rugby           |         2 |   1        |
 | Australia            |         2 |   0.5      |
-| London Irish         |         2 |   1        |
-| Italy                |         2 |   1        |
+| New Zealand          |         1 |   0        |
 | Perpignan            |         1 |   0        |
 | Fiji                 |         1 |   1        |
 | Sale Sharks          |         1 |   1        |
 | Samoa                |         1 |   1        |
-| New Zealand          |         1 |   0        |
 | Bristol Rugby        |         1 |   0        |
+| Biarritz Olympique   |         1 |   0        |
+| Benetton Treviso     |         1 |   1        |
 | South Africa         |         1 |   1        |
-| Bath Rugby           |         1 |   1        |
-| Leicester Tigers     |         1 |   1        |
 | Tonga                |         1 |   1        |
 | Toulon               |         1 |   0        |
-| Saracens             |         1 |   0        |
+| Leicester Tigers     |         1 |   1        |

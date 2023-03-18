@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ben Mitchell  
-date: 2023-02-28 11:03:16.451322  
+date: 2023-03-16 19:55:42.617546  
 categories: player  
 ---
 # Ben Mitchell
 
 ## Positions: L
 
-## Current elo: 1.0
+## Current elo: -12.0
 
 ## Current Percentile: 0.0
 
@@ -23,22 +23,22 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | San Diego Legion   |            34 |   0.470588 |
 | Austin Elite Rugby |            25 |   0.12     |
-| Seattle Seawolves  |             1 |   1        |
+| Seattle Seawolves  |             4 |   1        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| Houston SaberCats      |         7 |   0.285714 |
+| Houston SaberCats      |         8 |   0.375    |
 | Seattle Seawolves      |         7 |   0        |
 | Utah Warriors          |         7 |   0.571429 |
 | NOLA Gold              |         5 |   0.6      |
 | R.U. New York          |         5 |   0.2      |
 | Rugby New York         |         5 |   0.2      |
+| Rugby ATL              |         4 |   0.5      |
 | San Diego Legion       |         4 |   0.25     |
 | Austin Gilgronis       |         3 |   0.333333 |
+| Dallas Jackals         |         3 |   1        |
 | Glendale Raptors       |         3 |   0        |
 | L. A. Giltinis         |         3 |   0.333333 |
-| Rugby ATL              |         3 |   0.333333 |
-| Dallas Jackals         |         2 |   1        |
 | New England Free Jacks |         2 |   0.5      |
 | Old Glory DC           |         2 |   0.5      |
 | Colorado Raptors       |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jale Railala Vakaloloma  
-date: 2023-03-02 11:24:26.338442  
+date: 2023-03-17 17:33:35.336969  
 categories: player  
 ---
 # Jale Railala Vakaloloma
 
 ## Positions: L
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| San Diego Legion |             7 |   0.571429 |
-| Brisbane City    |             2 |   1        |
+| San Diego Legion |             8 |      0.625 |
+| Brisbane City    |             2 |      1     |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Dallas Jackals         |         2 |          1 |
 | Austin Gilgronis       |         1 |          0 |
-| Dallas Jackals         |         1 |          1 |
 | Houston SaberCats      |         1 |          0 |
 | L. A. Giltinis         |         1 |          1 |
 | Melbourne Rising       |         1 |          1 |

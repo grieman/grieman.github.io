@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Matt To'omua  
-date: 2023-02-09 13:55:19.179565  
+date: 2023-03-17 17:24:13.143190  
 categories: player  
 ---
 # Matt To'omua
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 122.0
+## Current elo: 119.0
 
-## Current Percentile: 91.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,13 +21,12 @@ categories: player
 # Match History
 
 
-| Team                 |   Appearances |   Win Rate |
-|:---------------------|--------------:|-----------:|
-| Brumbies             |            93 |   0.586022 |
-| Australia            |            62 |   0.483871 |
-| Melbourne Rebels     |            42 |   0.345238 |
-| Leicester Tigers     |            41 |   0.390244 |
-| Mitsubishi Dynaboars |             1 |   0        |
+| Team             |   Appearances |   Win Rate |
+|:-----------------|--------------:|-----------:|
+| Brumbies         |            93 |   0.586022 |
+| Australia        |            62 |   0.483871 |
+| Melbourne Rebels |            42 |   0.345238 |
+| Leicester Tigers |            41 |   0.390244 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -59,23 +58,22 @@ categories: player
 | Wales                    |         3 |   0.333333 |
 | Gloucester Rugby         |         3 |   0.666667 |
 | Northampton Saints       |         3 |   0        |
-| Ireland                  |         2 |   0.5      |
+| Scarlets                 |         2 |   0.5      |
 | Bristol Rugby            |         2 |   0        |
 | Uruguay                  |         2 |   1        |
 | Ulster                   |         2 |   0        |
 | Sunwolves                |         2 |   0.5      |
 | Fiji                     |         2 |   1        |
-| Scarlets                 |         2 |   0.5      |
-| Worcester Warriors       |         2 |   0.5      |
+| Ireland                  |         2 |   0.5      |
 | Italy                    |         2 |   1        |
 | Fijian Drua              |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   0.5      |
 | London Irish             |         2 |   1        |
+| Worcester Warriors       |         2 |   0.5      |
 | Scotland                 |         1 |   1        |
-| Georgia                  |         1 |   1        |
+| Samoa                    |         1 |   1        |
 | Castres Olympique        |         1 |   1        |
+| Georgia                  |         1 |   1        |
 | Glasgow Warriors         |         1 |   0        |
 | Munster                  |         1 |   0        |
 | Wasps                    |         1 |   1        |
-| Kobelco Kobe Steelers    |         1 |   0        |
-| Samoa                    |         1 |   1        |

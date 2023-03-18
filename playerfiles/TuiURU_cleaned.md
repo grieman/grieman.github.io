@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tui URU  
-date: 2023-03-16 11:29:34.059916  
+date: 2023-03-17 17:10:35.628970  
 categories: player  
 ---
 # Tui URU
 
 ## Positions: N8, FL
 
-## Current elo: 94.0
+## Current elo: 97.0
 
-## Current Percentile: 28.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bedford    |            42 |    0.47619 |
-| Nottingham |             6 |    0.5     |
+| Bedford    |            41 |   0.487805 |
+| Nottingham |             6 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Doncaster           |         5 |   0.4      |
 | Ealing Trailfinders |         5 |   0.2      |
 | Hartpury College    |         5 |   0.8      |
-| Jersey              |         4 |   0.25     |
 | London Scottish     |         4 |   1        |
 | Nottingham          |         4 |   0.75     |
 | Richmond            |         4 |   0.25     |
 | Ampthill            |         3 |   1        |
 | Coventry            |         3 |   0        |
+| Jersey              |         3 |   0.333333 |
 | Caldy               |         2 |   0.5      |
 | Bedford             |         1 |   1        |
 | Saracens            |         1 |   0        |

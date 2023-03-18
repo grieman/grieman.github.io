@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ethan Grayson  
-date: 2023-01-21 15:44:07.683087  
+date: 2023-03-17 17:06:08.783193  
 categories: player  
 ---
 # Ethan Grayson
 
 ## Positions: C
 
-## Current elo: 106.0
+## Current elo: 116.0
 
-## Current Percentile: 72.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            23 |   0.478261 |
+| Bedford |            24 |   0.541667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Doncaster           |         3 |   0.333333 |
+| Doncaster           |         4 |   0.5      |
+| Hartpury College    |         4 |   0.75     |
 | Ealing Trailfinders |         3 |   0        |
-| Hartpury College    |         3 |   0.666667 |
-| Jersey              |         3 |   0.333333 |
 | Nottingham          |         3 |   0.666667 |
+| Jersey              |         2 |   0.5      |
 | London Scottish     |         2 |   1        |
 | Richmond            |         2 |   0        |
 | Ampthill            |         1 |   1        |

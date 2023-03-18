@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam Smith  
-date: 2023-01-23 15:32:41.356644  
+date: 2023-03-17 17:36:06.534131  
 categories: player  
 ---
 # Sam Smith
 
 ## Positions: W
 
-## Current elo: 116.0
+## Current elo: 106.0
 
-## Current Percentile: 90.0
+## Current Percentile: 78.0
 
 # Elo History
 

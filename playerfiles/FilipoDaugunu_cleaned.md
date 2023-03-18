@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Filipo Daugunu  
-date: 2023-03-02 11:22:04.598695  
+date: 2023-03-17 17:43:32.283394  
 categories: player  
 ---
 # Filipo Daugunu
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 120.0
+## Current elo: 122.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Queensland Reds    |            58 |   0.525862 |
+| Queensland Reds    |            60 |   0.525    |
 | Queensland Country |            21 |   0.666667 |
 | Australia          |             9 |   0.388889 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |        11 |   0.636364 |
+| Brumbies                 |        12 |   0.583333 |
 | Melbourne Rebels         |        10 |   0.75     |
-| Western Force            |         6 |   0.5      |
+| Western Force            |         7 |   0.571429 |
 | New South Wales Waratahs |         6 |   0.666667 |
 | New Zealand              |         5 |   0.3      |
 | Crusaders                |         4 |   0        |

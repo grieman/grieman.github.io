@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: André Gorin  
-date: 2023-02-24 02:36:09.506679  
+date: 2023-03-17 17:40:03.309347  
 categories: player  
 ---
 # André Gorin
 
 ## Positions: N8
 
-## Current elo: 102.0
+## Country: Romania
 
-## Current Percentile: None
+## Current elo: 100.0
+
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,9 +23,12 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             2 |        0.5 |
+| Carqueiranne-Hyères |             3 |   0.666667 |
+| Romania             |             2 |   0        |
 
-| Opponent    |   Matches |   Win Rate |
-|:------------|----------:|-----------:|
-| Tarbes      |         1 |          0 |
-| US Bressane |         1 |          1 |
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Georgia                    |         2 |          0 |
+| Cognac Saint Jean d'Angély |         1 |          1 |
+| Tarbes                     |         1 |          0 |
+| US Bressane                |         1 |          1 |

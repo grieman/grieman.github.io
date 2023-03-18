@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: César Damiani  
-date: 2023-03-16 11:29:31.768266  
+date: 2023-03-17 17:41:48.011422  
 categories: player  
 ---
 # César Damiani
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 31.0
+## Current Percentile: 32.0
 
 # Elo History
 

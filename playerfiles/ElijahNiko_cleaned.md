@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Elijah Niko  
-date: 2023-02-04 17:27:42.428554  
+date: 2023-03-17 17:27:49.846866  
 categories: player  
 ---
 # Elijah Niko
 
 ## Positions: W, C
 
-## Current elo: 107.0
+## Current elo: 94.0
 
-## Current Percentile: 65.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Pau                 |            50 |   0.59     |
 | Beziers             |            27 |   0.481481 |
-| Aurillac            |            23 |   0.565217 |
+| Aurillac            |            22 |   0.590909 |
 | Yorkshire Carnegie  |            10 |   0.7      |
 | Bedford             |             8 |   0.375    |
 | Albi                |             7 |   0.357143 |
@@ -51,8 +51,8 @@ categories: player
 | Coventry             |         3 |   0.5      |
 | Oyonnax              |         3 |   0.333333 |
 | Nottingham           |         3 |   0.666667 |
-| Nevers               |         3 |   0.666667 |
 | Tarbes               |         3 |   0.666667 |
+| Nevers               |         2 |   1        |
 | US Bressane          |         2 |   0.5      |
 | Provence Rugby       |         2 |   0.5      |
 | La Rochelle          |         2 |   0        |

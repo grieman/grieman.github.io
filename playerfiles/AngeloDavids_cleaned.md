@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Angelo Davids  
-date: 2023-01-06 00:19:28.647844  
+date: 2023-03-17 17:10:26.321630  
 categories: player  
 ---
 # Angelo Davids
 
 ## Positions: W
 
-## Current elo: 123.0
+## Current elo: 125.0
 
-## Current Percentile: 89.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,23 +21,25 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Western Province |            14 |   0.428571 |
-| Stormers         |            10 |   0.85     |
+| Stormers         |            17 |   0.823529 |
+| Western Province |            16 |   0.4375   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Sharks              |         4 |   0.875    |
 | Blue Bulls          |         3 |   0        |
-| Free State Cheetahs |         3 |   0.333333 |
 | Pumas               |         3 |   0.666667 |
-| Golden Lions        |         2 |   0.5      |
-| Griquas             |         2 |   0.5      |
+| Free State Cheetahs |         3 |   0.333333 |
+| Golden Lions        |         3 |   0.666667 |
 | Lions               |         2 |   1        |
+| Natal Sharks        |         2 |   0.5      |
+| London Irish        |         2 |   1        |
+| Griquas             |         2 |   0.5      |
+| Clermont Auvergne   |         2 |   0.5      |
 | Bulls               |         1 |   1        |
-| Clermont Auvergne   |         1 |   0        |
-| Connacht            |         1 |   1        |
+| Glasgow Warriors    |         1 |   0        |
 | Edinburgh           |         1 |   1        |
-| London Irish        |         1 |   1        |
-| Natal Sharks        |         1 |   1        |
 | Ospreys             |         1 |   0.5      |
+| Connacht            |         1 |   1        |
 | Scarlets            |         1 |   1        |
 | Zebre               |         1 |   1        |

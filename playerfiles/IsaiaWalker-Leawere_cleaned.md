@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Isaia Walker-Leawere  
-date: 2023-03-02 11:21:40.746828  
+date: 2023-03-17 17:40:58.350477  
 categories: player  
 ---
 # Isaia Walker-Leawere
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 119.0
+## Current elo: 116.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,27 +23,28 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Hurricanes        |            44 |   0.659091 |
+| Hurricanes        |            47 |   0.659574 |
 | Wellington        |            22 |   0.590909 |
 | Hawke's Bay       |            15 |   0.566667 |
 | New Zealand Maori |             9 |   0.777778 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blues                    |         6 |   0.5      |
+| Blues                    |         7 |   0.428571 |
 | Crusaders                |         5 |   0        |
 | Highlanders              |         5 |   1        |
 | Brumbies                 |         5 |   0.2      |
-| Chiefs                   |         4 |   0.5      |
-| Taranaki                 |         4 |   0.75     |
 | Tasman                   |         4 |   0.25     |
+| Taranaki                 |         4 |   0.75     |
+| New South Wales Waratahs |         4 |   1        |
 | Manawatu                 |         4 |   0.75     |
-| Canterbury               |         3 |   0.333333 |
+| Chiefs                   |         4 |   0.5      |
 | Counties Manukau         |         3 |   1        |
-| New South Wales Waratahs |         3 |   1        |
+| Canterbury               |         3 |   0.333333 |
 | Waikato                  |         3 |   0.5      |
 | Otago                    |         3 |   0.666667 |
 | Bay of Plenty            |         3 |   0.333333 |
+| Melbourne Rebels         |         3 |   1        |
 | North Harbour            |         3 |   1        |
 | Sunwolves                |         2 |   1        |
 | Sharks                   |         2 |   1        |
@@ -51,7 +52,6 @@ categories: player
 | Samoa                    |         2 |   1        |
 | Queensland Reds          |         2 |   1        |
 | Auckland                 |         2 |   0        |
-| Melbourne Rebels         |         2 |   1        |
 | Jaguares                 |         2 |   0.5      |
 | Ireland                  |         2 |   0.5      |
 | Hawke's Bay              |         2 |   1        |

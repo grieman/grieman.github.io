@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Daniel David Kriel  
-date: 2023-02-26 11:20:10.825375  
+date: 2023-03-17 17:31:21.447178  
 categories: player  
 ---
 # Daniel David Kriel
 
 ## Positions: C
 
-## Current elo: 87.0
+## Current elo: 95.0
 
-## Current Percentile: None
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,8 +21,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Seattle Seawolves |             1 |          1 |
+| Seattle Seawolves |             4 |          1 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rugby ATL  |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Dallas Jackals    |         1 |          1 |
+| Houston SaberCats |         1 |          1 |
+| Rugby ATL         |         1 |          1 |
+| Rugby New York    |         1 |          1 |

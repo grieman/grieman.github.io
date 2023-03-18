@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Charles Piutau  
-date: 2023-02-24 02:36:46.575156  
+date: 2023-03-17 17:29:34.500041  
 categories: player  
 ---
 # Charles Piutau
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Tonga
 
-## Current elo: 118.0
+## Current elo: 120.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |            69 |   0.550725 |
+| Bristol Rugby |            72 |   0.569444 |
 | Ulster        |            42 |   0.666667 |
 | Blues         |            41 |   0.365854 |
 | Auckland      |            32 |   0.640625 |
@@ -34,14 +34,14 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Exeter Chiefs            |        14 |   0.357143 |
+| Bath Rugby               |        10 |   0.9      |
 | Sale Sharks              |         9 |   0.277778 |
-| Bath Rugby               |         9 |   0.888889 |
-| Harlequins               |         8 |   0.5      |
+| Harlequins               |         9 |   0.555556 |
 | Wasps                    |         8 |   0.375    |
 | Canterbury               |         7 |   0        |
+| Northampton Saints       |         7 |   0.571429 |
 | Gloucester Rugby         |         7 |   0.571429 |
 | Saracens                 |         7 |   0.285714 |
-| Northampton Saints       |         6 |   0.5      |
 | Leinster                 |         6 |   0.5      |
 | Chiefs                   |         6 |   0        |
 | Leicester Tigers         |         6 |   0.583333 |

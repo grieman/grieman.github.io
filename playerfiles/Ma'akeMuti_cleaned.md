@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ma'ake Muti  
-date: 2023-02-28 11:05:09.756362  
+date: 2023-03-17 17:03:54.239896  
 categories: player  
 ---
 # Ma'ake Muti
 
 ## Positions: P
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: None
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,8 +21,11 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| American Raptors |             1 |          0 |
+| American Raptors |             5 |          0 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
-| Penarol Rugby |         1 |          0 |
+| Penarol Rugby |         2 |          0 |
+| Pampas XV     |         1 |          0 |
+| Selknam       |         1 |          0 |
+| Yacare XV     |         1 |          0 |

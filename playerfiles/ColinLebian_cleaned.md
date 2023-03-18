@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Colin Lebian  
-date: 2023-02-02 19:10:39.541365  
+date: 2023-03-17 17:16:00.595723  
 categories: player  
 ---
 # Colin Lebian
 
 ## Positions: FL
 
-## Current elo: 102.0
+## Current elo: 93.0
 
-## Current Percentile: 52.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -22,24 +22,24 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Dijon    |            21 |   0.309524 |
-| Chambery |            13 |   0.461538 |
+| Chambery |            17 |   0.470588 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Dax                        |         4 |   0.25     |
+| Blagnac                    |         4 |   0.25     |
 | Cognac Saint Jean d'Angély |         4 |   0.5      |
+| Dax                        |         4 |   0.25     |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
-| Blagnac                    |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Nice                       |         3 |   0.666667 |
+| Narbonne                   |         2 |   1        |
 | Suresnes                   |         2 |   0        |
+| Rennes                     |         2 |   0.5      |
 | Albi                       |         2 |   0        |
 | Chambery                   |         2 |   0        |
+| Carqueiranne-Hyères        |         2 |   0.5      |
 | Aubenas                    |         1 |   0.5      |
-| Narbonne                   |         1 |   1        |
-| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   0        |
 | Tarbes                     |         1 |   0        |
 | US Bressane                |         1 |   0        |
 | Massy                      |         1 |   0        |

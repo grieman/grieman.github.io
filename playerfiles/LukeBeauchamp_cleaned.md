@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Beauchamp  
-date: 2023-03-09 10:08:38.946081  
+date: 2023-03-16 20:01:17.806717  
 categories: player  
 ---
 # Luke Beauchamp

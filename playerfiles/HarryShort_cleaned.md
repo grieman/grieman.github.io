@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Short  
-date: 2023-03-04 11:44:31.584807  
+date: 2023-03-17 17:36:46.003803  
 categories: player  
 ---
 # Harry Short
@@ -21,12 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            27 |        0.5 |
+| Hartpury College |            28 |   0.482143 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Bedford             |         4 |   0.25     |
 | Nottingham          |         4 |   0.75     |
-| Bedford             |         3 |   0.333333 |
 | Cornish Pirates     |         3 |   0.666667 |
 | Coventry            |         3 |   0.666667 |
 | Jersey              |         3 |   0        |

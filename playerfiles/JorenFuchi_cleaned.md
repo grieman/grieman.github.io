@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joren Fuchi  
-date: 2023-03-12 11:34:34.984221  
+date: 2023-03-17 17:30:04.452251  
 categories: player  
 ---
 # Joren Fuchi
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 42.0
+## Current Percentile: 44.0
 
 # Elo History
 

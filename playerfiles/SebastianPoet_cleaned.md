@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sebastian Poet  
-date: 2023-02-15 22:14:49.930561  
+date: 2023-03-17 17:23:58.764011  
 categories: player  
 ---
 # Sebastian Poet
 
 ## Positions: FH
 
-## Current elo: 85.0
+## Current elo: 81.0
 
-## Current Percentile: 47.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Colomiers            |            82 |   0.536585 |
 | Atlético del Rosario |            58 |   0.474138 |
 | Tarbes               |            34 |   0.426471 |
-| US Bressane          |            32 |   0.40625  |
+| US Bressane          |            34 |   0.382353 |
 | Soyaux-Angouleme     |            20 |   0.425    |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -65,22 +65,22 @@ categories: player
 | Manuel Belgrano            |         2 |   1        |
 | Regatas Bella Vista        |         2 |   1        |
 | US Bressane                |         2 |   0.5      |
+| Carqueiranne-Hyères        |         2 |   0.5      |
 | San Albano                 |         2 |   0.75     |
 | Rennes                     |         2 |   1        |
 | Buenos Aires               |         2 |   0.5      |
+| Nice                       |         2 |   0.5      |
 | Pueyrredón                 |         1 |   1        |
-| Champagnat                 |         1 |   0        |
-| Brive                      |         1 |   1        |
-| Blagnac                    |         1 |   1        |
-| Tarbes                     |         1 |   1        |
-| Suresnes                   |         1 |   1        |
-| Carqueiranne-Hyères        |         1 |   1        |
-| San Martin                 |         1 |   1        |
-| San Cirano                 |         1 |   1        |
-| San Andres                 |         1 |   1        |
-| Nice                       |         1 |   1        |
-| Olivos                     |         1 |   1        |
+| Los Tilos                  |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |
 | Liceo Naval                |         1 |   1        |
-| Los Tilos                  |         1 |   1        |
+| Olivos                     |         1 |   1        |
+| San Andres                 |         1 |   1        |
+| San Cirano                 |         1 |   1        |
+| Champagnat                 |         1 |   0        |
+| San Martin                 |         1 |   1        |
+| Suresnes                   |         1 |   1        |
+| Tarbes                     |         1 |   1        |
+| Blagnac                    |         1 |   1        |
+| Brive                      |         1 |   1        |
 | Agen                       |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre Nueno  
-date: 2023-02-02 18:58:36.364420  
+date: 2023-03-17 17:37:51.170233  
 categories: player  
 ---
 # Pierre Nueno
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Spain
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 25.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -23,32 +23,32 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            55 |   0.454545 |
+| Narbonne |            53 |   0.433962 |
 | Pau      |            13 |   0.461538 |
 | Spain    |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Suresnes                   |         4 |   0.75     |
 | Agen                       |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.833333 |
-| Albi                       |         3 |   0        |
+| Suresnes                   |         3 |   0.666667 |
 | Tarbes                     |         3 |   0.666667 |
-| Bourgoin-Jallieu           |         3 |   0.666667 |
+| US Bressane                |         3 |   0.333333 |
 | Nice                       |         3 |   1        |
 | Dax                        |         2 |   0.5      |
+| Nevers                     |         2 |   0        |
 | Carcassonne                |         2 |   0        |
 | Cardiff Blues              |         2 |   0.5      |
-| US Bressane                |         2 |   0.5      |
 | Bayonne                    |         2 |   0        |
 | Aurillac                   |         2 |   0        |
+| Aubenas                    |         2 |   0.5      |
 | Ospreys                    |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Colomiers                  |         2 |   0        |
-| Nevers                     |         2 |   0        |
+| Bourgoin-Jallieu           |         2 |   0.5      |
 | Provence Rugby             |         2 |   1        |
 | Grenoble                   |         2 |   0.25     |
-| Aubenas                    |         2 |   0.5      |
+| Albi                       |         2 |   0        |
 | Rennes                     |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Vannes                     |         1 |   0        |

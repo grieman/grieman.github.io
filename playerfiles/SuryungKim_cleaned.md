@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Suryung Kim  
-date: 2023-03-12 11:34:50.448107  
+date: 2023-03-16 21:12:29.768170  
 categories: player  
 ---
 # Suryung Kim
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 

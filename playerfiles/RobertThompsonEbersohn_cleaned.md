@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Robert Thompson Ebersohn  
-date: 2023-03-11 00:14:23.856694  
+date: 2023-03-17 17:06:24.198560  
 categories: player  
 ---
 # Robert Thompson Ebersohn
 
 ## Positions: C
 
-## Current elo: 101.0
+## Current elo: 118.0
 
-## Current Percentile: 39.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -22,10 +22,10 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Cheetahs            |             2 |        0.5 |
-| Free State Cheetahs |             1 |        1   |
+| Free State Cheetahs |             2 |        1   |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Griquas    |         1 |          1 |
+| Griquas    |         2 |          1 |
 | Pau        |         1 |          1 |
 | Scarlets   |         1 |          0 |

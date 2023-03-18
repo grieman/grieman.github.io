@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryota Yasui  
-date: 2023-01-13 11:26:48.595892  
+date: 2023-03-17 17:41:13.077273  
 categories: player  
 ---
 # Ryota Yasui
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 87.0
+## Current elo: 90.0
 
-## Current Percentile: 25.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -23,27 +23,28 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |            34 |   0.823529 |
-| Yokohama Canon Eagles |             7 |   0.142857 |
+| Kobelco Kobe Steelers |            47 |   0.755319 |
+| Yokohama Canon Eagles |             8 |   0.25     |
 | Japan                 |             1 |   0        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Yokohama Canon Eagles             |         6 |   0.833333 |
-| NTT Docomo Red Hurricanes Osaka   |         4 |   0.75     |
-| Toyota Verblitz                   |         3 |   0.666667 |
-| Tokyo Sungoliath                  |         3 |   0.333333 |
+| Tokyo Sungoliath                  |         5 |   0.2      |
+| NTT Docomo Red Hurricanes Osaka   |         5 |   0.8      |
+| Saitama Wild Knights              |         4 |   0        |
+| Green Rockets Tokatsu             |         4 |   1        |
+| Toshiba Brave Lupus Tokyo         |         4 |   0.75     |
+| Toyota Verblitz                   |         4 |   0.5      |
+| Shizuoka Blue Revs                |         3 |   0.666667 |
+| Urayasu D-Rocks                   |         3 |   0.833333 |
 | Black Rams Tokyo                  |         3 |   1        |
-| Green Rockets Tokatsu             |         3 |   1        |
-| Saitama Wild Knights              |         3 |   0        |
-| Kobelco Kobe Steelers             |         2 |   0        |
-| Coca-Cola Red Sparks              |         2 |   1        |
-| Shizuoka Blue Revs                |         2 |   1        |
 | Hanazono Kintetsu Liners          |         2 |   1        |
-| Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
-| Urayasu D-Rocks                   |         2 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
-| Kyuden Voltex                     |         1 |   1        |
+| Kobelco Kobe Steelers             |         2 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
+| Kyuden Voltex                     |         2 |   1        |
+| Coca-Cola Red Sparks              |         2 |   1        |
+| Toyota Industries Shuttles Aichi  |         2 |   1        |
+| Mitsubishi Dynaboars              |         1 |   1        |
 | Munakata Sanix Blues              |         1 |   1        |
-| Toyota Industries Shuttles Aichi  |         1 |   1        |
 | Wales                             |         1 |   0        |

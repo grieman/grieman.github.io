@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Harry Thacker  
-date: 2023-02-02 18:51:41.849645  
+date: 2023-03-17 17:21:36.846131  
 categories: player  
 ---
 # Harry Thacker
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 55.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,21 +21,21 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bristol Rugby    |            85 |   0.494118 |
-| Leicester Tigers |            73 |   0.650685 |
+| Bristol Rugby    |            89 |   0.516854 |
+| Leicester Tigers |            74 |   0.641892 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Saracens             |        14 |   0.321429 |
-| Northampton Saints   |        12 |   0.666667 |
+| Saracens             |        15 |   0.3      |
+| Northampton Saints   |        13 |   0.692308 |
+| Harlequins           |        12 |   0.583333 |
 | Gloucester Rugby     |        11 |   0.727273 |
-| Harlequins           |        11 |   0.545455 |
+| Bath Rugby           |        10 |   0.4      |
 | Worcester Warriors   |        10 |   0.6      |
 | Sale Sharks          |        10 |   0.55     |
 | Exeter Chiefs        |        10 |   0.4      |
+| Newcastle Falcons    |        10 |   0.7      |
 | London Irish         |        10 |   0.75     |
-| Bath Rugby           |         9 |   0.333333 |
-| Newcastle Falcons    |         9 |   0.666667 |
 | Wasps                |         8 |   0.125    |
 | Leicester Tigers     |         7 |   0.5      |
 | Stade Francais Paris |         4 |   0.75     |

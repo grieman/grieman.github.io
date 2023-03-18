@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Janu Botha  
-date: 2023-03-11 00:13:20.616542  
+date: 2023-03-17 17:41:27.174471  
 categories: player  
 ---
 # Janu Botha
 
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 77.0
 
-## Current Percentile: 68.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |            23 |   0.586957 |
+| Griquas |            24 |     0.5625 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Free State Cheetahs |         5 |   0.4      |
 | Blue Bulls          |         4 |   0.25     |
-| Free State Cheetahs |         4 |   0.5      |
 | Golden Lions        |         4 |   0.75     |
 | Pumas               |         4 |   0.625    |
 | Western Province    |         4 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Felipe Villagran  
-date: 2023-03-09 10:10:01.981069  
+date: 2023-03-17 17:38:58.038458  
 categories: player  
 ---
 # Felipe Villagran
 
 ## Positions: FL
 
-## Current elo: 99.0
+## Current elo: 104.0
 
-## Current Percentile: 79.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Yacare XV |             2 |        0.5 |
+| Yacare XV |             3 |   0.666667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Cobras     |         1 |          1 |
-| Dogos XV   |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| American Raptors |         1 |          1 |
+| Cobras           |         1 |          1 |
+| Dogos XV         |         1 |          0 |

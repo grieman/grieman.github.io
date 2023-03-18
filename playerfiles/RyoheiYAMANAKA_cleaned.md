@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ryohei Yamanaka  
-date: 2023-03-16 11:32:20.684812  
+date: 2023-03-17 17:02:45.877742  
 categories: player  
 ---
 # Ryohei Yamanaka

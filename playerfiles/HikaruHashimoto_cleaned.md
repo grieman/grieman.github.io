@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hikaru Hashimoto  
-date: 2023-01-13 11:24:59.820437  
+date: 2023-03-17 17:04:02.922246  
 categories: player  
 ---
 # Hikaru Hashimoto
 
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 128.0
 
-## Current Percentile: 67.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,17 +21,24 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |            19 |   0.763158 |
+| Kobelco Kobe Steelers |            37 |   0.662162 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Saitama Wild Knights              |         5 |   0.1      |
+| Shizuoka Blue Revs                |         4 |   1        |
+| Black Rams Tokyo                  |         3 |   0.666667 |
 | Green Rockets Tokatsu             |         3 |   1        |
-| Shizuoka Blue Revs                |         3 |   1        |
+| Urayasu D-Rocks                   |         3 |   0.666667 |
 | Yokohama Canon Eagles             |         3 |   0.333333 |
-| Black Rams Tokyo                  |         2 |   1        |
-| Saitama Wild Knights              |         2 |   0.25     |
-| Urayasu D-Rocks                   |         2 |   0.5      |
-| Hanazono Kintetsu Liners          |         1 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |
+| Mitsubishi Dynaboars              |         2 |   1        |
+| Munakata Sanix Blues              |         2 |   1        |
+| Toshiba Brave Lupus Tokyo         |         2 |   1        |
 | Mie Honda Heat                    |         1 |   1        |
+| Hino Red Dolphins                 |         1 |   1        |
+| Tokyo Sungoliath                  |         1 |   0        |
+| Toyota Industries Shuttles Aichi  |         1 |   1        |
+| Toyota Verblitz                   |         1 |   0        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |

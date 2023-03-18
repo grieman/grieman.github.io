@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zane Nonggorr  
-date: 2023-03-02 11:24:07.718434  
+date: 2023-03-17 17:42:53.468510  
 categories: player  
 ---
 # Zane Nonggorr
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 102.0
 
-## Current Percentile: 54.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            19 |   0.736842 |
+| Queensland Reds |            21 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |         4 |   1        |
+| Brumbies                 |         5 |   0.8      |
 | Melbourne Rebels         |         4 |   1        |
+| Western Force            |         4 |   0.75     |
 | New South Wales Waratahs |         3 |   0.666667 |
-| Western Force            |         3 |   0.666667 |
 | Hurricanes               |         2 |   0        |
 | Blues                    |         1 |   0        |
 | Chiefs                   |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Athenkosi Ernest (Dave) Khethani  
-date: 2023-03-12 11:29:38.728010  
+date: 2023-03-17 17:15:58.673507  
 categories: player  
 ---
 # Athenkosi Ernest (Dave) Khethani
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

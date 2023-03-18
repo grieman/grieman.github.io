@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nic White  
-date: 2023-02-24 09:52:49.440809  
+date: 2023-03-17 17:38:08.797552  
 categories: player  
 ---
 # Nic White
@@ -23,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Brumbies            |           100 |   0.66     |
+| Brumbies            |           103 |   0.669903 |
 | Australia           |            64 |   0.476562 |
 | Exeter Chiefs       |            61 |   0.729508 |
 | Montpellier Herault |            57 |   0.701754 |
@@ -32,15 +32,15 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | New Zealand              |        18 |   0.222222 |
-| Queensland Reds          |        16 |   0.46875  |
+| Queensland Reds          |        17 |   0.5      |
 | Argentina                |        14 |   0.75     |
+| New South Wales Waratahs |        13 |   0.692308 |
 | Western Force            |        12 |   1        |
-| New South Wales Waratahs |        12 |   0.666667 |
 | Melbourne Rebels         |        11 |   0.909091 |
 | South Africa             |         9 |   0.444444 |
+| Blues                    |         8 |   0.375    |
 | Castres Olympique        |         7 |   0.714286 |
 | Harlequins               |         7 |   0.714286 |
-| Blues                    |         7 |   0.285714 |
 | Hurricanes               |         7 |   0.857143 |
 | England                  |         7 |   0.142857 |
 | Chiefs                   |         6 |   0.5      |

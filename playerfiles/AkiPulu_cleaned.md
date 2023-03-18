@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Aki Pulu  
-date: 2023-02-28 11:09:09.380115  
+date: 2023-03-17 17:22:08.977458  
 categories: player  
 ---
 # Aki Pulu
 
 ## Positions: C
 
-## Current elo: 100.0
+## Current elo: 93.0
 
-## Current Percentile: None
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,8 +21,10 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| American Raptors |             1 |          0 |
+| American Raptors |             3 |          0 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
+| Pampas XV     |         1 |          0 |
 | Penarol Rugby |         1 |          0 |
+| Yacare XV     |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kaito Shigeno  
-date: 2023-02-02 18:59:29.297509  
+date: 2023-03-16 20:01:04.113763  
 categories: player  
 ---
 # Kaito Shigeno
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 105.0
+## Current elo: 101.0
 
-## Current Percentile: 73.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -23,39 +23,42 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
+| Toyota Verblitz       |            34 |   0.602941 |
 | Sunwolves             |            29 |   0.137931 |
-| Toyota Verblitz       |            21 |   0.52381  |
-| Green Rockets Tokatsu |            14 |   0.285714 |
+| Green Rockets Tokatsu |            19 |   0.263158 |
 | Japan                 |            11 |   0.363636 |
 | Auckland              |             8 |   0.5625   |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Saitama Wild Knights              |         6 |   0.166667 |
+| Kubota Spears Funabashi Tokyo-Bay |         5 |   0.5      |
+| Urayasu D-Rocks                   |         5 |   0.6      |
+| Tokyo Sungoliath                  |         5 |   0        |
 | Black Rams Tokyo                  |         4 |   0.5      |
 | Melbourne Rebels                  |         4 |   0        |
-| Shizuoka Blue Revs                |         4 |   0.5      |
+| NTT Docomo Red Hurricanes Osaka   |         4 |   0.875    |
+| Shizuoka Blue Revs                |         4 |   0.25     |
 | Cheetahs                          |         3 |   0        |
+| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | New South Wales Waratahs          |         3 |   0.333333 |
-| Saitama Wild Knights              |         3 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.5      |
-| Tokyo Sungoliath                  |         3 |   0        |
 | Bulls                             |         3 |   0        |
+| Kobelco Kobe Steelers             |         3 |   0.166667 |
 | Tasman                            |         2 |   1        |
-| Kobelco Kobe Steelers             |         2 |   0.5      |
-| Toshiba Brave Lupus Tokyo         |         2 |   0        |
+| Stormers                          |         2 |   0        |
 | Sharks                            |         2 |   0        |
 | Scotland                          |         2 |   0        |
+| Mie Honda Heat                    |         2 |   1        |
 | Toyota Industries Shuttles Aichi  |         2 |   0.5      |
-| NTT Docomo Red Hurricanes Osaka   |         2 |   0.75     |
-| Urayasu D-Rocks                   |         2 |   0.5      |
 | Lions                             |         2 |   0        |
-| Stormers                          |         2 |   0        |
+| Munakata Sanix Blues              |         2 |   1        |
 | Yokohama Canon Eagles             |         2 |   0        |
+| Hino Red Dolphins                 |         2 |   1        |
 | Brumbies                          |         2 |   0        |
-| Canterbury                        |         2 |   0        |
+| Green Rockets Tokatsu             |         2 |   1        |
 | France                            |         2 |   0        |
-| Jaguares                          |         1 |   1        |
-| Southern Kings                    |         1 |   0        |
+| Canterbury                        |         2 |   0        |
+| Southland                         |         1 |   0.5      |
 | Western Force                     |         1 |   0        |
 | Waikato                           |         1 |   1        |
 | Uruguay                           |         1 |   1        |
@@ -64,18 +67,15 @@ categories: player
 | Canada                            |         1 |   1        |
 | Chiefs                            |         1 |   1        |
 | Coca-Cola Red Sparks              |         1 |   1        |
-| Southland                         |         1 |   0.5      |
-| South Africa                      |         1 |   0        |
+| Jaguares                          |         1 |   1        |
+| Southern Kings                    |         1 |   0        |
 | Ireland                           |         1 |   0        |
 | Counties Manukau                  |         1 |   1        |
-| Green Rockets Tokatsu             |         1 |   1        |
 | Hawke's Bay                       |         1 |   0        |
 | Russia                            |         1 |   1        |
 | Queensland Reds                   |         1 |   0        |
 | Portugal                          |         1 |   1        |
 | Highlanders                       |         1 |   0        |
-| Hino Red Dolphins                 |         1 |   1        |
 | Blues                             |         1 |   1        |
-| Mie Honda Heat                    |         1 |   1        |
 | Hurricanes                        |         1 |   0        |
-| Mitsubishi Dynaboars              |         1 |   0        |
+| South Africa                      |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jack Musk  
-date: 2023-02-02 18:58:04.629404  
+date: 2023-03-17 17:36:44.634160  
 categories: player  
 ---
 # Jack Musk
 
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            33 |   0.560606 |
+| Harlequins |            35 |   0.528571 |
 | Richmond   |            13 |   0.384615 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Gloucester Rugby    |         4 |   0.75     |
 | Northampton Saints  |         4 |   0.5      |
 | London Irish        |         4 |   0.5      |
 | Leicester Tigers    |         4 |   0.375    |
-| Gloucester Rugby    |         3 |   1        |
 | Sale Sharks         |         3 |   0.333333 |
 | Ampthill            |         2 |   0        |
 | Ulster              |         2 |   0        |
@@ -40,6 +40,7 @@ categories: player
 | Exeter Chiefs       |         2 |   0.5      |
 | Coventry            |         2 |   0        |
 | Castres Olympique   |         2 |   1        |
+| Bristol Rugby       |         2 |   0        |
 | Ealing Trailfinders |         1 |   0        |
 | Jersey              |         1 |   1        |
 | Cornish Pirates     |         1 |   0        |
@@ -47,6 +48,5 @@ categories: player
 | Newcastle Falcons   |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
 | Cardiff Blues       |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
 | Bedford             |         1 |   0        |
 | Hartpury College    |         1 |   1        |

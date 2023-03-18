@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Albert Liebenberg  
-date: 2023-03-11 00:11:31.802311  
+date: 2023-03-17 17:23:09.728893  
 categories: player  
 ---
 # Albert Liebenberg
 
 ## Positions: L
 
-## Current elo: 85.0
+## Current elo: 66.0
 
 ## Current Percentile: None
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |             1 |          0 |
+| Griquas |             2 |          0 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Free State Cheetahs |         1 |          0 |
+| Free State Cheetahs |         2 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tiaan Loots  
-date: 2023-03-16 11:32:59.381355  
+date: 2023-03-17 17:33:49.066335  
 categories: player  
 ---
 # Tiaan Loots
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 76.0
+## Current Percentile: 74.0
 
 # Elo History
 

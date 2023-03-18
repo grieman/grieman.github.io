@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Terence Hepetema  
-date: 2023-02-24 02:20:22.896013  
+date: 2023-03-17 17:00:09.824613  
 categories: player  
 ---
 # Terence Hepetema
 
 ## Positions: C
 
-## Current elo: 91.0
+## Current elo: 105.0
 
-## Current Percentile: 50.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |             6 |   0.666667 |
+| Grenoble |             6 |   0.916667 |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Agen               |         1 |        1   |
-| Biarritz Olympique |         1 |        0.5 |
-| Carcassonne        |         1 |        0.5 |
-| Colomiers          |         1 |        1   |
-| Mont-de-Marsan     |         1 |        0   |
-| Rouen              |         1 |        1   |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Agen        |         1 |        1   |
+| Aurillac    |         1 |        1   |
+| Carcassonne |         1 |        0.5 |
+| Colomiers   |         1 |        1   |
+| Montauban   |         1 |        1   |
+| Rouen       |         1 |        1   |

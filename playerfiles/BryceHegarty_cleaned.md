@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bryce Hegarty  
-date: 2023-03-02 11:21:15.979509  
+date: 2023-03-17 17:11:10.512761  
 categories: player  
 ---
 # Bryce Hegarty
 
 ## Positions: FH, FB
 
-## Current elo: 109.0
+## Current elo: 98.0
 
-## Current Percentile: 76.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -29,7 +29,7 @@ categories: player
 | Toyota Industries Shuttles Aichi |             5 |   0.4      |
 | Brisbane City                    |             4 |   0.25     |
 | Sydney Rays                      |             3 |   0.666667 |
-| Western Force                    |             1 |   1        |
+| Western Force                    |             3 |   0.666667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -37,7 +37,7 @@ categories: player
 | Melbourne Rebels                  |        11 |   0.772727 |
 | Western Force                     |        11 |   0.545455 |
 | New South Wales Waratahs          |        11 |   0.363636 |
-| Queensland Reds                   |         9 |   0.666667 |
+| Queensland Reds                   |        10 |   0.6      |
 | Highlanders                       |         7 |   0.428571 |
 | Chiefs                            |         6 |   0.333333 |
 | Lions                             |         6 |   0        |
@@ -55,10 +55,10 @@ categories: player
 | Northampton Saints                |         2 |   1        |
 | Bath Rugby                        |         2 |   1        |
 | Yokohama Canon Eagles             |         2 |   0.5      |
-| Coca-Cola Red Sparks              |         2 |   1        |
-| Harlequins                        |         2 |   0.5      |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
 | Connacht                          |         2 |   1        |
+| Harlequins                        |         2 |   0.5      |
+| Coca-Cola Red Sparks              |         2 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
 | Worcester Warriors                |         1 |   1        |
 | Bordeaux Begles                   |         1 |   1        |
 | Toyota Verblitz                   |         1 |   0        |
@@ -71,5 +71,6 @@ categories: player
 | Green Rockets Tokatsu             |         1 |   1        |
 | Perth Spirit                      |         1 |   1        |
 | Kobelco Kobe Steelers             |         1 |   0        |
+| Moana Pasifika                    |         1 |   1        |
 | Melbourne Rising                  |         1 |   1        |
 | Sale Sharks                       |         1 |   0        |

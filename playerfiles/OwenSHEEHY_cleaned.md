@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Owen SHEEHY  
-date: 2023-03-16 11:33:07.516380  
+date: 2023-03-17 17:20:24.913603  
 categories: player  
 ---
 # Owen SHEEHY
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 70.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 

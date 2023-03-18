@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Connor Garden-Bachop  
-date: 2023-03-02 11:25:54.640270  
+date: 2023-03-17 17:00:44.631978  
 categories: player  
 ---
 # Connor Garden-Bachop
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 55.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,20 +23,20 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Highlanders       |            18 |   0.333333 |
-| Wellington        |            15 |   0.8      |
-| Canterbury        |             3 |   1        |
-| New Zealand Maori |             2 |   0.5      |
+| Highlanders       |            20 |        0.3 |
+| Wellington        |            15 |        0.8 |
+| Canterbury        |             3 |        1   |
+| New Zealand Maori |             2 |        0.5 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Crusaders                |         5 |   0.2      |
 | Blues                    |         4 |   0        |
-| Crusaders                |         4 |   0.25     |
 | Canterbury               |         3 |   0.666667 |
+| Chiefs                   |         3 |   0.333333 |
 | Hawke's Bay              |         3 |   1        |
 | Hurricanes               |         3 |   0        |
 | Ireland                  |         2 |   0.5      |
-| Chiefs                   |         2 |   0.5      |
 | Counties Manukau         |         2 |   1        |
 | Waikato                  |         2 |   1        |
 | Tasman                   |         2 |   0.5      |

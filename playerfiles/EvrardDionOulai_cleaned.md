@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Evrard Dion Oulai  
-date: 2023-02-24 02:22:30.758858  
+date: 2023-03-17 17:31:18.909243  
 categories: player  
 ---
 # Evrard Dion Oulai
 
 ## Positions: L
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 68.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -27,8 +27,8 @@ categories: player
 |:-----------------|----------:|-----------:|
 | Agen             |         1 |          0 |
 | Aurillac         |         1 |          0 |
-| Grenoble         |         1 |          0 |
 | Mont-de-Marsan   |         1 |          0 |
 | Montauban        |         1 |          1 |
+| Rouen            |         1 |          0 |
 | Soyaux-Angouleme |         1 |          0 |
 | Vannes           |         1 |          1 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Beauden Barrett  
-date: 2023-03-02 11:20:40.135379  
+date: 2023-03-17 17:36:10.787749  
 categories: player  
 ---
 # Beauden Barrett
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 158.0
 
-## Current Percentile: 99.0
+## Current Percentile: 100.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Hurricanes       |           126 |   0.646825 |
 | New Zealand      |           116 |   0.853448 |
-| Blues            |            19 |   0.842105 |
+| Blues            |            21 |   0.809524 |
 | Taranaki         |            18 |   0.666667 |
 | Tokyo Sungoliath |             9 |   0.888889 |
 
@@ -38,8 +38,8 @@ categories: player
 | Argentina                         |        17 |   0.941176 |
 | Crusaders                         |        17 |   0.470588 |
 | Blues                             |        14 |   0.714286 |
+| Brumbies                          |        11 |   0.545455 |
 | Ireland                           |        10 |   0.5      |
-| Brumbies                          |        10 |   0.6      |
 | Wales                             |         9 |   1        |
 | France                            |         8 |   1        |
 | Queensland Reds                   |         8 |   0.875    |
@@ -56,12 +56,12 @@ categories: player
 | British and Irish Lions           |         3 |   0.5      |
 | Scotland                          |         3 |   1        |
 | Canterbury                        |         3 |   0.333333 |
+| Hurricanes                        |         3 |   0.666667 |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   1        |
 | Otago                             |         2 |   0.5      |
 | Wellington                        |         2 |   0        |
 | Bay of Plenty                     |         2 |   1        |
 | Waikato                           |         2 |   1        |
-| Hurricanes                        |         2 |   0.5      |
 | Sunwolves                         |         2 |   1        |
 | Southern Kings                    |         2 |   1        |
 | Italy                             |         2 |   1        |

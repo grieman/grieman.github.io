@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Chriswill September  
-date: 2023-03-16 11:31:06.532785  
+date: 2023-03-17 17:12:53.391998  
 categories: player  
 ---
 # Chriswill September
 
 ## Positions: SH
 
-## Current elo: 123.0
+## Current elo: 122.0
 
 ## Current Percentile: 97.0
 

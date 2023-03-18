@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Cornal Hendricks  
-date: 2023-02-02 18:52:58.693848  
+date: 2023-03-17 17:24:43.514468  
 categories: player  
 ---
 # Cornal Hendricks
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 54.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -23,58 +23,57 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Bulls               |            51 |   0.509804 |
+| Bulls               |            46 |   0.543478 |
 | Cheetahs            |            27 |   0.277778 |
-| Blue Bulls          |            20 |   0.65     |
+| Blue Bulls          |            24 |   0.708333 |
 | Boland Cavaliers    |            12 |   0.208333 |
 | South Africa        |            12 |   0.583333 |
 | Free State Cheetahs |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Sharks                   |        12 |   0.5      |
+| Sharks                   |        11 |   0.545455 |
 | Lions                    |         8 |   0.5      |
-| Stormers                 |         7 |   0.142857 |
+| Natal Sharks             |         6 |   0.5      |
+| Stormers                 |         6 |   0.166667 |
 | Pumas                    |         5 |   0.6      |
-| Griquas                  |         4 |   0.75     |
-| Blues                    |         4 |   0.375    |
 | Free State Cheetahs      |         4 |   0.5      |
-| Natal Sharks             |         4 |   0.25     |
-| Eastern Province Kings   |         3 |   0        |
+| Western Province         |         4 |   0.75     |
+| Blues                    |         4 |   0.375    |
+| Griquas                  |         4 |   0.75     |
+| New Zealand              |         3 |   0.333333 |
+| Golden Lions             |         3 |   1        |
+| Jaguares                 |         3 |   0        |
 | Chiefs                   |         3 |   0.166667 |
 | Wales                    |         3 |   0.666667 |
 | Bulls                    |         3 |   0.333333 |
 | Brumbies                 |         3 |   0.333333 |
-| Jaguares                 |         3 |   0        |
-| Western Province         |         3 |   0.666667 |
-| New Zealand              |         3 |   0.333333 |
-| Munster                  |         2 |   0.5      |
-| New South Wales Waratahs |         2 |   0.5      |
-| Argentina                |         2 |   1        |
+| Eastern Province Kings   |         3 |   0        |
+| Leopards                 |         2 |   0        |
 | Queensland Reds          |         2 |   0        |
 | SWD Eagles               |         2 |   0.25     |
-| Scarlets                 |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   0.5      |
 | Western Force            |         2 |   0.5      |
+| Munster                  |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
+| Argentina                |         2 |   1        |
 | Leinster                 |         2 |   0.5      |
-| Leopards                 |         2 |   0        |
-| Golden Lions             |         2 |   1        |
-| Cardiff Blues            |         2 |   1        |
-| Connacht                 |         2 |   0.5      |
-| Crusaders                |         2 |   0        |
-| Dragons                  |         2 |   1        |
+| Hurricanes               |         2 |   0        |
+| Highlanders              |         2 |   0.75     |
+| Griffons                 |         2 |   0        |
 | Glasgow Warriors         |         2 |   0.5      |
 | Edinburgh                |         2 |   0.5      |
-| Griffons                 |         2 |   0        |
-| Highlanders              |         2 |   0.75     |
-| Hurricanes               |         2 |   0        |
+| Cardiff Blues            |         2 |   1        |
 | Australia                |         2 |   0.5      |
-| Ospreys                  |         1 |   1        |
-| Lyon                     |         1 |   0        |
-| Scotland                 |         1 |   1        |
-| Ireland                  |         1 |   0        |
+| Crusaders                |         2 |   0        |
+| Connacht                 |         2 |   0.5      |
 | Ulster                   |         1 |   1        |
-| Valke                    |         1 |   1        |
-| Border Bulldogs          |         1 |   1        |
 | Benetton Treviso         |         1 |   1        |
+| Border Bulldogs          |         1 |   1        |
+| Valke                    |         1 |   1        |
+| Scarlets                 |         1 |   1        |
+| Scotland                 |         1 |   1        |
+| Dragons                  |         1 |   1        |
+| Ospreys                  |         1 |   1        |
+| Ireland                  |         1 |   0        |
 | Zebre                    |         1 |   1        |

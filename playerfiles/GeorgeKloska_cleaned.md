@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: George Kloska  
-date: 2023-02-02 18:54:06.328212  
+date: 2023-03-16 20:06:47.986863  
 categories: player  
 ---
 # George Kloska
 
-## Positions: H, P
+## Positions: H
 
-## Current elo: 93.0
+## Current elo: 101.0
 
 ## Current Percentile: None
 
@@ -21,21 +21,21 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bristol Rugby    |            11 |   0.590909 |
-| Hartpury College |             4 |   1        |
-| Bedford          |             1 |   0        |
+| Bristol Rugby    |            15 |        0.7 |
+| Hartpury College |             2 |        1   |
+| Bedford          |             1 |        0   |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Newcastle Falcons  |         3 |        1   |
+| Newcastle Falcons  |         4 |        1   |
 | Coventry           |         2 |        0.5 |
+| Northampton Saints |         2 |        0.5 |
 | Sale Sharks        |         2 |        0   |
 | Ampthill           |         1 |        1   |
-| Cornish Pirates    |         1 |        1   |
+| Bath Rugby         |         1 |        1   |
+| Harlequins         |         1 |        1   |
 | Leicester Tigers   |         1 |        1   |
 | London Irish       |         1 |        0.5 |
-| Northampton Saints |         1 |        0   |
-| Richmond           |         1 |        1   |
 | Toulon             |         1 |        1   |
 | Wasps              |         1 |        0   |
 | Worcester Warriors |         1 |        1   |

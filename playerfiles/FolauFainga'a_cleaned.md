@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Folau Fainga'a  
-date: 2023-03-02 11:21:35.242260  
+date: 2023-03-17 17:39:44.238660  
 categories: player  
 ---
 # Folau Fainga'a
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 132.0
+## Current elo: 130.0
 
 ## Current Percentile: 98.0
 
@@ -27,11 +27,11 @@ categories: player
 | Australia          |            41 |   0.487805 |
 | Canberra Vikings   |            10 |   0.7      |
 | NSW Country Eagles |             5 |   0.8      |
-| Western Force      |             1 |   1        |
+| Western Force      |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Queensland Reds          |        12 |   0.5      |
+| Queensland Reds          |        13 |   0.461538 |
 | Argentina                |        10 |   0.75     |
 | New Zealand              |        10 |   0.25     |
 | Melbourne Rebels         |         9 |   0.444444 |
@@ -56,12 +56,13 @@ categories: player
 | Lions                    |         2 |   0.5      |
 | Scotland                 |         2 |   0.5      |
 | Sharks                   |         2 |   1        |
-| Fijian Drua              |         1 |   1        |
+| Stormers                 |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | Sydney Rays              |         1 |   1        |
+| Fijian Drua              |         1 |   1        |
 | Japan                    |         1 |   1        |
-| Stormers                 |         1 |   1        |
 | France                   |         1 |   0        |
 | Canberra Vikings         |         1 |   1        |
 | Ireland                  |         1 |   0        |
 | NSW Country Eagles       |         1 |   0        |
+| Moana Pasifika           |         1 |   1        |

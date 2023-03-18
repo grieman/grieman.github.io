@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thretton Palamo  
-date: 2023-03-09 10:13:16.772806  
+date: 2023-03-17 17:24:38.180355  
 categories: player  
 ---
 # Thretton Palamo

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guy Porter  
-date: 2023-02-02 18:57:21.303652  
+date: 2023-03-17 17:02:27.196963  
 categories: player  
 ---
 # Guy Porter
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 78.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,34 +23,37 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            48 |    0.71875 |
-| England          |             5 |    0.7     |
-| Sydney Rays      |             2 |    0       |
-| Sydney Stars     |             2 |    0       |
+| Leicester Tigers |            55 |   0.718182 |
+| England          |             5 |   0.7      |
+| Sydney Rays      |             2 |   0        |
+| Sydney Stars     |             2 |   0        |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Gloucester Rugby   |         6 |   0.833333 |
-| Northampton Saints |         5 |   0.8      |
-| Newcastle Falcons  |         4 |   1        |
-| Bristol Rugby      |         4 |   0.625    |
-| Exeter Chiefs      |         4 |   0.5      |
-| London Irish       |         4 |   0.75     |
-| Australia          |         3 |   0.666667 |
-| Wasps              |         3 |   0.333333 |
-| Saracens           |         3 |   0.666667 |
-| Sale Sharks        |         3 |   0        |
-| Bath Rugby         |         3 |   0.666667 |
-| Harlequins         |         2 |   1        |
-| Melbourne Rising   |         2 |   0        |
-| Queensland Country |         1 |   0        |
-| Ospreys            |         1 |   1        |
-| Japan              |         1 |   1        |
-| New Zealand        |         1 |   0.5      |
-| Connacht           |         1 |   1        |
-| Clermont Auvergne  |         1 |   1        |
-| Brive              |         1 |   1        |
-| Brisbane City      |         1 |   0        |
-| Bordeaux Begles    |         1 |   1        |
-| Bayonne            |         1 |   1        |
-| Worcester Warriors |         1 |   1        |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Gloucester Rugby    |         7 |   0.857143 |
+| Northampton Saints  |         5 |   0.8      |
+| Newcastle Falcons   |         4 |   1        |
+| London Irish        |         4 |   0.75     |
+| Bath Rugby          |         4 |   0.75     |
+| Exeter Chiefs       |         4 |   0.5      |
+| Bristol Rugby       |         4 |   0.625    |
+| Sale Sharks         |         3 |   0        |
+| Saracens            |         3 |   0.666667 |
+| Wasps               |         3 |   0.333333 |
+| Australia           |         3 |   0.666667 |
+| Clermont Auvergne   |         2 |   1        |
+| Connacht            |         2 |   1        |
+| Harlequins          |         2 |   1        |
+| Melbourne Rising    |         2 |   0        |
+| Queensland Country  |         1 |   0        |
+| Ulster              |         1 |   1        |
+| Ospreys             |         1 |   1        |
+| Leinster            |         1 |   0        |
+| New Zealand         |         1 |   0.5      |
+| Montpellier Herault |         1 |   0        |
+| Japan               |         1 |   1        |
+| Brive               |         1 |   1        |
+| Brisbane City       |         1 |   0        |
+| Bordeaux Begles     |         1 |   1        |
+| Bayonne             |         1 |   1        |
+| Worcester Warriors  |         1 |   1        |

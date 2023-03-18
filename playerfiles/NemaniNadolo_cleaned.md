@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nemani Nadolo  
-date: 2023-02-24 02:37:03.713224  
+date: 2023-03-17 17:36:09.247015  
 categories: player  
 ---
 # Nemani Nadolo
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 124.0
 
-## Current Percentile: 93.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,64 +21,65 @@ categories: player
 # Match History
 
 
-| Team                  |   Appearances |   Win Rate |
-|:----------------------|--------------:|-----------:|
-| Montpellier Herault   |            70 |  0.642857  |
-| Leicester Tigers      |            42 |  0.738095  |
-| Crusaders             |            39 |  0.717949  |
-| Green Rockets Tokatsu |            31 |  0.516129  |
-| Fiji                  |            23 |  0.478261  |
-| Bourgoin-Jallieu      |            15 |  0.0666667 |
-| Exeter Chiefs         |             6 |  0.166667  |
+| Team                     |   Appearances |   Win Rate |
+|:-------------------------|--------------:|-----------:|
+| Montpellier Herault      |            70 |  0.642857  |
+| Leicester Tigers         |            42 |  0.738095  |
+| Crusaders                |            39 |  0.717949  |
+| Green Rockets Tokatsu    |            31 |  0.516129  |
+| Fiji                     |            23 |  0.478261  |
+| Bourgoin-Jallieu         |            15 |  0.0666667 |
+| Exeter Chiefs            |             6 |  0.166667  |
+| New South Wales Waratahs |             3 |  0         |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Northampton Saints                |         9 |   0.777778 |
-| Castres Olympique                 |         7 |   0.428571 |
 | Stade Toulousain                  |         7 |   0.142857 |
+| Castres Olympique                 |         7 |   0.428571 |
 | Pau                               |         7 |   0.857143 |
 | Lyon                              |         6 |   0.5      |
-| Toulon                            |         6 |   0.5      |
 | La Rochelle                       |         6 |   0.333333 |
+| Toulon                            |         6 |   0.5      |
 | Stade Francais Paris              |         6 |   0.5      |
-| London Irish                      |         5 |   0.8      |
 | Clermont Auvergne                 |         5 |   0.6      |
 | Harlequins                        |         5 |   0.6      |
+| Hurricanes                        |         5 |   0.2      |
 | Brive                             |         5 |   0.8      |
 | Blues                             |         5 |   1        |
 | Bath Rugby                        |         5 |   0.6      |
+| London Irish                      |         5 |   0.8      |
+| Brumbies                          |         4 |   0.75     |
+| Bordeaux Begles                   |         4 |   1        |
+| Chiefs                            |         4 |   0.25     |
+| Newcastle Falcons                 |         4 |   0.5      |
+| Leinster                          |         4 |   0.25     |
+| Bayonne                           |         4 |   0.75     |
+| Exeter Chiefs                     |         4 |   0.5      |
+| Racing 92                         |         4 |   0.5      |
 | Sharks                            |         4 |   0.75     |
 | Sale Sharks                       |         4 |   0.25     |
-| Chiefs                            |         4 |   0.25     |
-| Bordeaux Begles                   |         4 |   1        |
-| Newcastle Falcons                 |         4 |   0.5      |
-| Exeter Chiefs                     |         4 |   0.5      |
-| Bayonne                           |         4 |   0.75     |
-| Hurricanes                        |         4 |   0.25     |
-| Leinster                          |         4 |   0.25     |
-| Racing 92                         |         4 |   0.5      |
-| Highlanders                       |         3 |   0.666667 |
+| Melbourne Rebels                  |         3 |   0.666667 |
 | Saitama Wild Knights              |         3 |   0        |
-| Gloucester Rugby                  |         3 |   1        |
 | Lions                             |         3 |   1        |
+| Gloucester Rugby                  |         3 |   1        |
+| Highlanders                       |         3 |   0.666667 |
+| Toyota Verblitz                   |         3 |   0.333333 |
 | Urayasu D-Rocks                   |         3 |   0.666667 |
-| Brumbies                          |         3 |   1        |
 | Bristol Rugby                     |         3 |   0.666667 |
 | Worcester Warriors                |         3 |   1        |
-| Toyota Verblitz                   |         3 |   0.333333 |
-| Perpignan                         |         2 |   0.5      |
-| Agen                              |         2 |   1        |
-| Queensland Reds                   |         2 |   1        |
 | Shizuoka Blue Revs                |         2 |   0.5      |
 | Tokyo Sungoliath                  |         2 |   0        |
 | New South Wales Waratahs          |         2 |   0        |
 | Tonga                             |         2 |   0.5      |
+| Queensland Reds                   |         2 |   1        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
+| Perpignan                         |         2 |   0.5      |
 | Uruguay                           |         2 |   1        |
 | Wasps                             |         2 |   1        |
 | Western Force                     |         2 |   1        |
 | New Zealand                       |         2 |   0        |
-| Melbourne Rebels                  |         2 |   1        |
+| Agen                              |         2 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   0.5      |
 | Canada                            |         2 |   1        |
 | England                           |         2 |   0        |

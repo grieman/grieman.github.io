@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Asafo Aumua  
-date: 2023-03-02 11:23:00.210886  
+date: 2023-03-16 21:08:34.957485  
 categories: player  
 ---
 # Asafo Aumua
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 124.0
+## Current elo: 123.0
 
 ## Current Percentile: 96.0
 
@@ -24,13 +24,13 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Wellington  |            53 |   0.698113 |
-| Hurricanes  |            49 |   0.663265 |
+| Hurricanes  |            51 |   0.656863 |
 | New Zealand |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Crusaders                |         8 |   0.25     |
-| Blues                    |         7 |   0.571429 |
+| Blues                    |         8 |   0.5      |
 | Highlanders              |         7 |   1        |
 | Chiefs                   |         6 |   0.583333 |
 | Northland                |         6 |   0.833333 |
@@ -42,11 +42,11 @@ categories: player
 | North Harbour            |         4 |   0.5      |
 | Southland                |         4 |   1        |
 | Auckland                 |         4 |   0.5      |
+| Melbourne Rebels         |         4 |   1        |
 | Counties Manukau         |         3 |   1        |
 | Sharks                   |         3 |   1        |
 | Hawke's Bay              |         3 |   1        |
 | Manawatu                 |         3 |   0.666667 |
-| Melbourne Rebels         |         3 |   1        |
 | Sunwolves                |         2 |   1        |
 | Queensland Reds          |         2 |   1        |
 | Western Force            |         2 |   0.5      |

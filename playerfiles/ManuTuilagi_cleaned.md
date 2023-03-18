@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Tuilagi  
-date: 2023-01-06 00:13:47.572922  
+date: 2023-03-16 19:50:26.309890  
 categories: player  
 ---
 # Manu Tuilagi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 105.0
+## Current elo: 98.0
 
-## Current Percentile: 95.0
+## Current Percentile: 100.0
 
 # Elo History
 
@@ -23,54 +23,54 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           130 |   0.646154 |
-| England                 |            49 |   0.642857 |
-| Sale Sharks             |            24 |   0.645833 |
+| Leicester Tigers        |           132 |   0.643939 |
+| England                 |            50 |   0.65     |
+| Sale Sharks             |            31 |   0.564516 |
 | British and Irish Lions |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Harlequins           |        16 |   0.5625   |
-| Northampton Saints   |        16 |   0.75     |
+| Northampton Saints   |        18 |   0.722222 |
+| Harlequins           |        17 |   0.588235 |
 | Exeter Chiefs        |        16 |   0.4375   |
+| Saracens             |        10 |   0.45     |
 | Bath Rugby           |         9 |   0.555556 |
-| Saracens             |         9 |   0.5      |
-| Gloucester Rugby     |         8 |   0.6875   |
 | London Irish         |         8 |   0.9375   |
+| Gloucester Rugby     |         8 |   0.6875   |
 | Newcastle Falcons    |         8 |   0.875    |
-| Wasps                |         7 |   0.714286 |
-| Wales                |         7 |   0.428571 |
 | South Africa         |         7 |   0.214286 |
-| Sale Sharks          |         6 |   0.833333 |
-| New Zealand          |         6 |   0.416667 |
+| Wales                |         7 |   0.428571 |
+| Wasps                |         7 |   0.714286 |
 | France               |         6 |   0.666667 |
+| Sale Sharks          |         6 |   0.833333 |
+| Bristol Rugby        |         6 |   0.666667 |
 | Worcester Warriors   |         6 |   0.833333 |
-| Ireland              |         5 |   1        |
+| New Zealand          |         6 |   0.416667 |
 | Australia            |         5 |   0.8      |
-| Ulster               |         4 |   0.5      |
-| Leicester Tigers     |         4 |   0.75     |
-| Bristol Rugby        |         4 |   0.75     |
+| Ulster               |         5 |   0.4      |
+| Ireland              |         5 |   1        |
+| Racing 92            |         4 |   0        |
+| Argentina            |         4 |   0.75     |
 | Benetton Treviso     |         4 |   1        |
-| Scarlets             |         3 |   1        |
-| Racing 92            |         3 |   0        |
-| Argentina            |         3 |   0.666667 |
+| Leicester Tigers     |         4 |   0.75     |
 | Munster              |         3 |   0.333333 |
-| Clermont Auvergne    |         3 |   0.333333 |
 | Italy                |         3 |   1        |
+| Clermont Auvergne    |         3 |   0.333333 |
+| Scarlets             |         3 |   1        |
 | Perpignan            |         2 |   0.25     |
 | Scotland             |         2 |   0.75     |
-| Pau                  |         2 |   0.5      |
-| Tonga                |         2 |   1        |
 | Ospreys              |         2 |   0.75     |
-| Stade Francais Paris |         2 |   0.5      |
+| Tonga                |         2 |   1        |
+| Stade Toulousain     |         2 |   0        |
 | Leeds                |         2 |   1        |
+| Stade Francais Paris |         2 |   0.5      |
+| Pau                  |         2 |   0.5      |
 | Yorkshire Carnegie   |         2 |   1        |
-| Japan                |         1 |   1        |
-| London Welsh         |         1 |   1        |
-| Stade Toulousain     |         1 |   0        |
-| Leinster             |         1 |   0        |
-| Toulon               |         1 |   0        |
 | Georgia              |         1 |   1        |
+| London Welsh         |         1 |   1        |
+| Japan                |         1 |   1        |
+| Toulon               |         1 |   0        |
 | Fiji                 |         1 |   1        |
 | Romania              |         1 |   1        |
 | Calvisano            |         1 |   1        |
+| Leinster             |         1 |   0        |

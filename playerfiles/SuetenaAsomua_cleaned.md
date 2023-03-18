@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Suetena Asomua  
-date: 2023-03-02 11:25:00.398193  
+date: 2023-03-17 17:30:42.147861  
 categories: player  
 ---
 # Suetena Asomua
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            13 |   0.153846 |
-| Moana Pasifika   |             4 |   0        |
+| Moana Pasifika   |             5 |   0        |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -38,3 +38,4 @@ categories: player
 | Taranaki      |         1 |   0        |
 | Waikato       |         1 |   0        |
 | Wellington    |         1 |   0        |
+| Western Force |         1 |   0        |

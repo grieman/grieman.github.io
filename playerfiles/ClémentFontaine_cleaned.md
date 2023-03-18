@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Fontaine  
-date: 2023-02-02 19:14:23.686956  
+date: 2023-03-17 17:35:31.304404  
 categories: player  
 ---
 # Clément Fontaine
 
 ## Positions: L
 
-## Current elo: 96.0
+## Current elo: 79.0
 
-## Current Percentile: None
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Bourgoin-Jallieu |            27 |   0.333333 |
 | Nice             |            14 |   0.642857 |
-| Rennes           |             4 |   0        |
+| Rennes           |             9 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,19 +32,21 @@ categories: player
 | Narbonne                   |         4 |   0.25     |
 | Montauban                  |         3 |   0.333333 |
 | Beziers                    |         3 |   0        |
-| Dax                        |         2 |   0        |
+| Chambery                   |         3 |   1        |
+| Colomiers                  |         2 |   0.5      |
+| US Bressane                |         2 |   0.5      |
 | Suresnes                   |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
-| Carcassonne                |         2 |   0.5      |
-| Chambery                   |         2 |   1        |
-| Colomiers                  |         2 |   0.5      |
 | Perpignan                  |         2 |   0        |
-| US Bressane                |         1 |   1        |
+| Carcassonne                |         2 |   0.5      |
+| Cognac Saint Jean d'Angély |         2 |   1        |
+| Dax                        |         2 |   0        |
 | Agen                       |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Lyon                       |         1 |   0        |
 | Bourgoin-Jallieu           |         1 |   1        |
+| Blagnac                    |         1 |   0        |
 | Bayonne                    |         1 |   0        |
 | Aurillac                   |         1 |   0        |
 | Aubenas                    |         1 |   1        |

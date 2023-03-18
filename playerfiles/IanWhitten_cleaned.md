@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ian Whitten  
-date: 2023-02-02 18:56:05.281259  
+date: 2023-03-17 17:33:14.579103  
 categories: player  
 ---
 # Ian Whitten
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 102.0
+## Current elo: 95.0
 
-## Current Percentile: 64.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           268 |   0.634328 |
+| Exeter Chiefs |           276 |   0.634058 |
 | Ulster        |            75 |   0.56     |
 | Ireland       |             2 |   1        |
 
@@ -33,20 +33,20 @@ categories: player
 | Gloucester Rugby         |        24 |   0.604167 |
 | Northampton Saints       |        22 |   0.5      |
 | Saracens                 |        21 |   0.452381 |
+| Newcastle Falcons        |        20 |   0.8      |
 | Wasps                    |        19 |   0.605263 |
-| Newcastle Falcons        |        19 |   0.789474 |
 | Leicester Tigers         |        19 |   0.526316 |
+| Harlequins               |        19 |   0.684211 |
 | Worcester Warriors       |        18 |   0.888889 |
-| Harlequins               |        18 |   0.722222 |
-| Sale Sharks              |        17 |   0.647059 |
-| Glasgow Warriors         |        14 |   0.535714 |
+| Sale Sharks              |        18 |   0.666667 |
+| Glasgow Warriors         |        16 |   0.53125  |
 | London Irish             |        12 |   0.833333 |
 | Ospreys                  |        11 |   0.545455 |
+| Munster                  |        10 |   0.35     |
 | Leinster                 |         9 |   0.111111 |
 | Bristol Rugby            |         9 |   0.777778 |
-| Munster                  |         8 |   0.3125   |
-| Connacht                 |         8 |   0.8125   |
 | Cardiff Blues            |         8 |   0.625    |
+| Connacht                 |         8 |   0.8125   |
 | Edinburgh                |         7 |   0.571429 |
 | Clermont Auvergne        |         7 |   0.142857 |
 | Dragons                  |         7 |   0.5      |
@@ -54,9 +54,9 @@ categories: player
 | Aironi                   |         5 |   1        |
 | Benetton Treviso         |         4 |   0.75     |
 | La Rochelle              |         4 |   1        |
+| Montpellier Herault      |         3 |   1        |
 | London Welsh             |         3 |   0.666667 |
 | Stade Francais Paris     |         3 |   0.333333 |
-| Montpellier Herault      |         2 |   1        |
 | Castres Olympique        |         2 |   0.5      |
 | Biarritz Olympique       |         2 |   0.5      |
 | Toulon                   |         2 |   0        |

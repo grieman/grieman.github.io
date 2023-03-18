@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tomas Malanos  
-date: 2023-03-02 11:21:34.103927  
+date: 2023-03-17 17:25:14.879505  
 categories: player  
 ---
 # Tomas Malanos
 
 ## Positions: C, FB
 
-## Current elo: 111.0
+## Current elo: 109.0
 
-## Current Percentile: 84.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -22,25 +22,27 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Atlético del Rosario |            47 |    0.37234 |
-| Dallas Jackals       |             2 |    0       |
+| Dallas Jackals       |             4 |    0       |
 | Jaguares XV          |             2 |    1       |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Alumni              |         5 |   0.4      |
 | Pucara              |         5 |   0.3      |
-| CUBA                |         5 |   0        |
 | San Luis            |         5 |   0.6      |
 | SIC                 |         5 |   0.3      |
-| CASI                |         4 |   0.625    |
+| CUBA                |         5 |   0        |
 | Newman              |         4 |   0.5      |
-| Hindu               |         3 |   0        |
+| CASI                |         4 |   0.625    |
 | Belgrano            |         3 |   0        |
+| Hindu               |         3 |   0        |
 | Regatas Bella Vista |         3 |   0.333333 |
-| Buenos Aires        |         2 |   0.5      |
 | Los Tilos           |         2 |   1        |
-| Mariano Moreno      |         1 |   1        |
-| Penarol Rugby       |         1 |   1        |
-| Olimpia Lions       |         1 |   1        |
+| Buenos Aires        |         2 |   0.5      |
 | Houston SaberCats   |         1 |   0        |
+| Mariano Moreno      |         1 |   1        |
+| Olimpia Lions       |         1 |   1        |
+| Penarol Rugby       |         1 |   1        |
+| San Diego Legion    |         1 |   0        |
+| Seattle Seawolves   |         1 |   0        |
 | Utah Warriors       |         1 |   0        |

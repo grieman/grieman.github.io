@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gideon van der Merwe  
-date: 2023-03-11 00:14:01.282001  
+date: 2023-03-17 17:42:47.061172  
 categories: player  
 ---
 # Gideon van der Merwe
 
 ## Positions: FL
 
-## Current elo: 121.0
+## Current elo: 134.0
 
-## Current Percentile: 87.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Griquas             |            22 |   0.431818 |
-| Free State Cheetahs |            11 |   0.818182 |
+| Free State Cheetahs |            12 |   0.833333 |
 | Leopards            |             4 |   0.625    |
 
 | Opponent               |   Matches |   Win Rate |
@@ -31,9 +31,9 @@ categories: player
 | Golden Lions           |         6 |   0.333333 |
 | Western Province       |         6 |   0.833333 |
 | Pumas                  |         5 |   0.5      |
+| Griquas                |         4 |   0.75     |
 | Blue Bulls             |         3 |   0.666667 |
 | Free State Cheetahs    |         3 |   0.333333 |
-| Griquas                |         3 |   0.666667 |
 | Boland Cavaliers       |         1 |   1        |
 | Eastern Province Kings |         1 |   1        |
 | Griffons               |         1 |   0        |

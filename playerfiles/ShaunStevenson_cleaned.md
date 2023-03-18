@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shaun Stevenson  
-date: 2023-02-24 09:45:45.708502  
+date: 2023-03-16 19:58:39.596697  
 categories: player  
 ---
 # Shaun Stevenson
@@ -23,39 +23,39 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Chiefs            |            67 |   0.597015 |
+| Chiefs            |            70 |   0.614286 |
 | North Harbour     |            38 |   0.578947 |
 | Waikato           |            11 |   0.363636 |
 | New Zealand Maori |            10 |   0.8      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |        10 |   0.3      |
+| Crusaders                |        11 |   0.363636 |
 | Blues                    |         9 |   0.5      |
+| Highlanders              |         9 |   0.611111 |
 | Hurricanes               |         8 |   0.5      |
-| Highlanders              |         8 |   0.5625   |
 | Canterbury               |         6 |   0        |
 | Tasman                   |         6 |   0.166667 |
 | Counties Manukau         |         5 |   0.8      |
 | Auckland                 |         5 |   0.2      |
 | Taranaki                 |         4 |   0.75     |
 | Stormers                 |         4 |   0.75     |
-| Hawke's Bay              |         4 |   0.75     |
 | New South Wales Waratahs |         4 |   1        |
+| Hawke's Bay              |         4 |   0.75     |
+| Sharks                   |         3 |   0.666667 |
+| Moana Pasifika           |         3 |   1        |
+| Melbourne Rebels         |         3 |   1        |
+| Queensland Reds          |         3 |   0.666667 |
+| Bay of Plenty            |         3 |   0.666667 |
+| Wellington               |         3 |   0.333333 |
 | Sunwolves                |         3 |   0.666667 |
+| Waikato                  |         3 |   0.666667 |
+| Southland                |         3 |   1        |
 | Brumbies                 |         3 |   0.666667 |
 | Northland                |         3 |   1        |
-| Southland                |         3 |   1        |
-| Waikato                  |         3 |   0.666667 |
-| Wellington               |         3 |   0.333333 |
-| Sharks                   |         3 |   0.666667 |
-| Bay of Plenty            |         3 |   0.666667 |
-| Queensland Reds          |         3 |   0.666667 |
-| Melbourne Rebels         |         3 |   1        |
 | Samoa                    |         2 |   1        |
 | Otago                    |         2 |   0.5      |
 | Western Force            |         2 |   1        |
-| Moana Pasifika           |         2 |   1        |
 | Manawatu                 |         2 |   1        |
 | Ireland                  |         2 |   0.5      |
 | Fiji                     |         2 |   0.5      |

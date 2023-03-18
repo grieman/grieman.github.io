@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Albertus Horn  
-date: 2023-03-12 11:32:54.022390  
+date: 2023-03-17 17:28:44.752906  
 categories: player  
 ---
 # Albertus Horn
 
 ## Positions: 
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 

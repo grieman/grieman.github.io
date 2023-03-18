@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quentin DRANCOURT  
-date: 2023-03-16 11:32:29.873736  
+date: 2023-03-17 17:38:06.546289  
 categories: player  
 ---
 # Quentin DRANCOURT
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 112.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mathias Franco  
-date: 2023-03-12 11:30:16.344720  
+date: 2023-03-17 17:02:36.933915  
 categories: player  
 ---
 # Mathias Franco
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 51.0
+## Current Percentile: 50.0
 
 # Elo History
 

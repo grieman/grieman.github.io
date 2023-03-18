@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Remi Bouet  
-date: 2023-02-02 19:01:54.821698  
+date: 2023-03-17 17:18:34.670114  
 categories: player  
 ---
 # Remi Bouet
 
 ## Positions: W, FB
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 77.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,32 +21,32 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |           130 |       0.35 |
+| Bourgoin-Jallieu |           134 |    0.36194 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |        11 |   0.363636 |
-| Tarbes                     |         9 |   0.444444 |
+| Tarbes                     |        10 |   0.5      |
+| Albi                       |         9 |   0.222222 |
 | Beziers                    |         9 |   0.333333 |
-| Albi                       |         8 |   0.125    |
 | Narbonne                   |         7 |   0.357143 |
 | Aurillac                   |         7 |   0.214286 |
-| Mont-de-Marsan             |         6 |   0.5      |
 | Nice                       |         6 |   0.5      |
 | Colomiers                  |         6 |   0.333333 |
 | Perpignan                  |         6 |   0.166667 |
-| Carcassonne                |         5 |   0.2      |
-| Chambery                   |         5 |   0.6      |
+| Mont-de-Marsan             |         6 |   0.5      |
 | Massy                      |         5 |   0.4      |
-| Montauban                  |         4 |   0.25     |
+| Chambery                   |         5 |   0.6      |
+| Carcassonne                |         5 |   0.2      |
+| Suresnes                   |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0        |
+| Montauban                  |         4 |   0.25     |
 | Dijon                      |         4 |   0.75     |
-| Cognac Saint Jean d'Angély |         3 |   1        |
-| Suresnes                   |         3 |   0.333333 |
+| Valence Romans Drome Rugby |         3 |   0.5      |
 | US Bressane                |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         3 |   1        |
 | Pau                        |         2 |   0        |
 | Agen                       |         2 |   0        |
-| Valence Romans Drome Rugby |         2 |   0.75     |
 | La Rochelle                |         2 |   0        |
 | Blagnac                    |         2 |   0.5      |
 | Auch                       |         2 |   0        |

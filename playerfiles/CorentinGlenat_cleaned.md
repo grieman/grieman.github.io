@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Corentin Glenat  
-date: 2023-02-28 11:05:47.155153  
+date: 2023-03-16 20:08:10.102836  
 categories: player  
 ---
 # Corentin Glenat
@@ -21,7 +21,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            79 |        0.5 |
+| Grenoble |            80 |    0.49375 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,12 +30,12 @@ categories: player
 | Beziers                    |         6 |   0.5      |
 | Colomiers                  |         6 |   0.166667 |
 | Carcassonne                |         5 |   0.6      |
+| Mont-de-Marsan             |         5 |   0.6      |
 | Aurillac                   |         5 |   0.6      |
 | Vannes                     |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.75     |
 | Biarritz Olympique         |         4 |   0        |
 | Rouen                      |         4 |   0.5      |
-| Mont-de-Marsan             |         4 |   0.75     |
 | Montauban                  |         4 |   0.75     |
 | Perpignan                  |         4 |   0.25     |
 | Provence Rugby             |         3 |   0.333333 |

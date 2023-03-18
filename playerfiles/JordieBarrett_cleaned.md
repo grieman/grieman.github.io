@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordie Barrett  
-date: 2023-03-02 11:27:50.650740  
+date: 2023-03-17 17:04:11.833302  
 categories: player  
 ---
 # Jordie Barrett
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 136.0
+## Current elo: 132.0
 
 ## Current Percentile: 98.0
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Hurricanes  |            86 |   0.651163 |
+| Hurricanes  |            89 |   0.651685 |
 | New Zealand |            49 |   0.744898 |
 | Canterbury  |            12 |   0.833333 |
 
@@ -33,15 +33,15 @@ categories: player
 | Crusaders                |        13 |   0.230769 |
 | Australia                |        12 |   0.875    |
 | Highlanders              |        11 |   0.818182 |
-| Blues                    |         9 |   0.666667 |
+| Blues                    |        10 |   0.6      |
 | Argentina                |         7 |   0.714286 |
 | Brumbies                 |         6 |   0.333333 |
+| Melbourne Rebels         |         6 |   1        |
+| New South Wales Waratahs |         5 |   1        |
 | Ireland                  |         5 |   0.4      |
 | Queensland Reds          |         5 |   1        |
-| Melbourne Rebels         |         5 |   1        |
 | South Africa             |         5 |   0.4      |
 | France                   |         4 |   0.75     |
-| New South Wales Waratahs |         4 |   1        |
 | Stormers                 |         3 |   0.666667 |
 | Sharks                   |         3 |   1        |
 | Wales                    |         3 |   1        |

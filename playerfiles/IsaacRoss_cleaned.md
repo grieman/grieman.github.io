@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Isaac Ross  
-date: 2023-03-02 11:25:44.230671  
+date: 2023-03-17 17:43:06.118581  
 categories: player  
 ---
 # Isaac Ross

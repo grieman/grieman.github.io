@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Aphiwe Stemele  
-date: 2023-03-12 11:32:55.629017  
+date: 2023-03-17 17:02:25.453707  
 categories: player  
 ---
 # Aphiwe Stemele
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 72.0
+## Current Percentile: 71.0
 
 # Elo History
 

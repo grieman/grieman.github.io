@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Heiichiro Ito  
-date: 2023-02-02 18:58:55.279615  
+date: 2023-03-17 17:09:28.824422  
 categories: player  
 ---
 # Heiichiro Ito
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 99.0
+## Current elo: 95.0
 
-## Current Percentile: 61.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,39 +23,38 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            55 |   0.681818 |
+| Shizuoka Blue Revs |            61 |   0.688525 |
 | Sunwolves          |             8 |   0.125    |
 | Japan              |             6 |   0.333333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         7 |   0.714286 |
-| Saitama Wild Knights              |         6 |   0.166667 |
+| Toyota Verblitz                   |         7 |   0.714286 |
+| Black Rams Tokyo                  |         6 |   0.833333 |
 | Yokohama Canon Eagles             |         5 |   0.8      |
-| Kobelco Kobe Steelers             |         4 |   0        |
-| Toyota Verblitz                   |         4 |   0.5      |
+| Kobelco Kobe Steelers             |         5 |   0.2      |
+| Saitama Wild Knights              |         5 |   0.2      |
+| Urayasu D-Rocks                   |         4 |   1        |
 | Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
-| Green Rockets Tokatsu             |         4 |   1        |
-| Urayasu D-Rocks                   |         3 |   1        |
-| Coca-Cola Red Sparks              |         3 |   1        |
+| Tokyo Sungoliath                  |         4 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.75     |
+| Green Rockets Tokatsu             |         3 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
-| Toyota Industries Shuttles Aichi  |         2 |   1        |
-| Munakata Sanix Blues              |         2 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   1        |
-| Mie Honda Heat                    |         2 |   1        |
-| Hino Red Dolphins                 |         2 |   1        |
+| Coca-Cola Red Sparks              |         3 |   1        |
 | Bulls                             |         2 |   0.5      |
-| Ireland                           |         1 |   0        |
-| Hurricanes                        |         1 |   0        |
-| Mitsubishi Dynaboars              |         1 |   0.5      |
+| Mie Honda Heat                    |         2 |   1        |
+| Munakata Sanix Blues              |         2 |   1        |
+| Toyota Industries Shuttles Aichi  |         2 |   1        |
+| Hino Red Dolphins                 |         2 |   1        |
 | Highlanders                       |         1 |   0        |
+| Crusaders                         |         1 |   0        |
+| Wales                             |         1 |   0        |
+| Chiefs                            |         1 |   0        |
+| Fiji                              |         1 |   0        |
+| Stormers                          |         1 |   0        |
+| Southern Kings                    |         1 |   0        |
 | Romania                           |         1 |   1        |
 | Georgia                           |         1 |   1        |
-| Southern Kings                    |         1 |   0        |
-| Stormers                          |         1 |   0        |
-| Tokyo Sungoliath                  |         1 |   0        |
-| Fiji                              |         1 |   0        |
-| Crusaders                         |         1 |   0        |
-| Chiefs                            |         1 |   0        |
-| Wales                             |         1 |   0        |
+| Ireland                           |         1 |   0        |
+| Hurricanes                        |         1 |   0        |
 | Argentina                         |         1 |   0        |

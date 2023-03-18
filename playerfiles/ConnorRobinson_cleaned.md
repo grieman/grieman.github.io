@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Connor Robinson  
-date: 2023-03-02 11:24:44.617509  
+date: 2023-03-16 19:58:33.688007  
 categories: player  
 ---
 # Connor Robinson
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -17,9 +17,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |             2 |          0 |
+| Dallas Jackals |             4 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Houston SaberCats |         1 |          0 |
+| San Diego Legion  |         1 |          0 |
+| Seattle Seawolves |         1 |          0 |
 | Utah Warriors     |         1 |          0 |

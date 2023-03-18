@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Scott Cummings  
-date: 2023-02-24 02:27:00.984466  
+date: 2023-03-17 17:22:01.716889  
 categories: player  
 ---
 # Scott Cummings
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 164.0
+## Current elo: 160.0
 
-## Current Percentile: 99.0
+## Current Percentile: None
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            94 |   0.590426 |
-| Scotland         |            21 |   0.619048 |
+| Scotland         |            22 |   0.590909 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,15 +33,15 @@ categories: player
 | Ospreys             |         8 |   0.75     |
 | Connacht            |         7 |   0.857143 |
 | Munster             |         7 |   0.428571 |
-| Exeter Chiefs       |         6 |   0.25     |
 | Leinster            |         6 |   0.5      |
+| Exeter Chiefs       |         6 |   0.25     |
 | Zebre               |         5 |   1        |
 | Ulster              |         5 |   0.4      |
 | Scarlets            |         5 |   0.4      |
+| Ireland             |         4 |   0        |
 | La Rochelle         |         4 |   0.25     |
-| France              |         3 |   0.666667 |
 | Georgia             |         3 |   1        |
-| Ireland             |         3 |   0        |
+| France              |         3 |   0.666667 |
 | Benetton Treviso    |         3 |   0.333333 |
 | Cheetahs            |         3 |   1        |
 | Wales               |         2 |   0.5      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Daniel Johannes Maartens  
-date: 2023-01-15 11:49:27.774552  
+date: 2023-03-17 17:38:32.123338  
 categories: player  
 ---
 # Daniel Johannes Maartens
 
 ## Positions: FL
 
-## Current elo: 109.0
+## Current elo: 124.0
 
-## Current Percentile: 77.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,18 +21,19 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Pumas               |            23 |   0.434783 |
-| Free State Cheetahs |             4 |   0        |
-| Cheetahs            |             3 |   0.333333 |
+| Pumas               |            25 |   0.48     |
+| Free State Cheetahs |             6 |   0.333333 |
+| Cheetahs            |             4 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Free State Cheetahs |         5 |   0.4      |
+| Griquas             |         7 |   0.5      |
+| Free State Cheetahs |         6 |   0.5      |
 | Golden Lions        |         5 |   0.8      |
-| Griquas             |         5 |   0.3      |
 | Western Province    |         5 |   0.3      |
 | Blue Bulls          |         3 |   0.333333 |
 | Natal Sharks        |         3 |   0        |
+| Pau                 |         2 |   1        |
 | Scarlets            |         2 |   0        |
-| Pau                 |         1 |   1        |
 | Pumas               |         1 |   0        |
+| SWD Eagles          |         1 |   1        |

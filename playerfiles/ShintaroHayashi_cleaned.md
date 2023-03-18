@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shintaro Hayashi  
-date: 2023-03-11 00:15:12.237570  
+date: 2023-03-16 19:49:21.928147  
 categories: player  
 ---
 # Shintaro Hayashi

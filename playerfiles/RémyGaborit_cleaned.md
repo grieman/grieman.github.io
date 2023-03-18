@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rémy Gaborit  
-date: 2023-02-15 22:13:55.774634  
+date: 2023-03-16 20:16:06.021314  
 categories: player  
 ---
 # Rémy Gaborit
 
 ## Positions: P
 
-## Current elo: 114.0
+## Current elo: 118.0
 
-## Current Percentile: 87.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            38 |   0.421053 |
+| Bourgoin-Jallieu |            39 |   0.435897 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Tarbes                     |         5 |   0.4      |
 | Massy                      |         4 |   0.25     |
-| Tarbes                     |         4 |   0.25     |
 | Albi                       |         3 |   0.333333 |
 | Blagnac                    |         3 |   0.666667 |
 | Chambery                   |         3 |   0.666667 |

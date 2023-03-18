@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Carlu Johann Sadie  
-date: 2023-02-24 02:25:37.901425  
+date: 2023-03-17 17:11:16.232076  
 categories: player  
 ---
 # Carlu Johann Sadie
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 49.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -19,18 +19,18 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Sharks |            12 |   0.583333 |
+| Team         |   Appearances |   Win Rate |
+|:-------------|--------------:|-----------:|
+| Sharks       |            10 |        0.5 |
+| Natal Sharks |             1 |        1   |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
-| Harlequins      |         2 |        0.5 |
-| Lions           |         2 |        1   |
-| Stormers        |         2 |        0   |
-| Bordeaux Begles |         1 |        1   |
-| Bulls           |         1 |        1   |
-| Cardiff Blues   |         1 |        0   |
-| Connacht        |         1 |        0   |
-| Edinburgh       |         1 |        1   |
-| Ospreys         |         1 |        1   |
+| Stormers        |         3 |          0 |
+| Lions           |         2 |          1 |
+| Bordeaux Begles |         1 |          1 |
+| Bulls           |         1 |          1 |
+| Connacht        |         1 |          0 |
+| Edinburgh       |         1 |          1 |
+| Griffons        |         1 |          1 |
+| Harlequins      |         1 |          0 |

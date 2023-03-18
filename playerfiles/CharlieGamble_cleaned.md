@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charlie Gamble  
-date: 2023-02-24 09:53:34.757778  
+date: 2023-03-17 17:41:42.456981  
 categories: player  
 ---
 # Charlie Gamble
 
 ## Positions: FL
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 64.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            20 |        0.4 |
-| Sydney Rays              |             5 |        0.2 |
+| New South Wales Waratahs |            24 |      0.375 |
+| Sydney Rays              |             5 |      0.2   |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Fijian Drua        |         4 |   0.75     |
 | Western Force      |         4 |   0.5      |
-| Fijian Drua        |         3 |   0.666667 |
+| Brumbies           |         3 |   0        |
+| Hurricanes         |         3 |   0        |
+| Melbourne Rebels   |         3 |   0.333333 |
 | Blues              |         2 |   0        |
-| Brumbies           |         2 |   0        |
 | Chiefs             |         2 |   0        |
-| Hurricanes         |         2 |   0        |
-| Melbourne Rebels   |         2 |   0.5      |
 | Queensland Reds    |         2 |   0        |
 | Canberra Vikings   |         1 |   0        |
 | Crusaders          |         1 |   1        |

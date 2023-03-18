@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zeilinga Strydom  
-date: 2023-03-12 11:30:32.816291  
+date: 2023-03-17 17:39:32.220198  
 categories: player  
 ---
 # Zeilinga Strydom
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 75.0
 
-## Current Percentile: 11.0
+## Current Percentile: 10.0
 
 # Elo History
 

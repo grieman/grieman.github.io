@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mosa'ati Moala  
-date: 2023-02-04 18:31:06.490110  
+date: 2023-03-17 17:10:02.628433  
 categories: player  
 ---
 # Mosa'ati Moala
 
 ## Positions: L
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 24.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,11 +21,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |             4 |          0 |
+| Aurillac |             6 |          0 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
+| Vannes      |         2 |          0 |
 | Carcassonne |         1 |          0 |
+| Grenoble    |         1 |          0 |
 | Nevers      |         1 |          0 |
 | Oyonnax     |         1 |          0 |
-| Vannes      |         1 |          0 |

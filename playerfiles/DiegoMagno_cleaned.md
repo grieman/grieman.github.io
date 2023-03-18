@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diego Magno  
-date: 2023-02-26 11:19:24.637614  
+date: 2023-03-16 20:15:49.517542  
 categories: player  
 ---
 # Diego Magno

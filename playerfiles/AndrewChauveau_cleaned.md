@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andrew Chauveau  
-date: 2023-02-02 18:39:00.786199  
+date: 2023-03-17 17:40:09.301158  
 categories: player  
 ---
 # Andrew Chauveau
 
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 104.0
 
-## Current Percentile: 72.0
+## Current Percentile: 59.0
 
 # Elo History
 

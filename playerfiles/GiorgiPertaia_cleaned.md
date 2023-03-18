@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Giorgi Pertaia  
-date: 2023-02-02 18:39:11.798255  
+date: 2023-03-16 20:01:22.864281  
 categories: player  
 ---
 # Giorgi Pertaia
 
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 113.0
 
-## Current Percentile: 36.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,21 +21,26 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Chambery   |            16 |     0.4375 |
-| Black Lion |             1 |     1      |
+| Chambery   |            21 |    0.47619 |
+| Black Lion |             5 |    0.6     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Cognac Saint Jean d'Angély |         2 |        1   |
-| Dax                        |         2 |        0   |
-| Tarbes                     |         2 |        0.5 |
-| US Bressane                |         2 |        0.5 |
-| Albi                       |         1 |        0   |
-| Blagnac                    |         1 |        0   |
-| Bourgoin-Jallieu           |         1 |        0   |
-| Carqueiranne-Hyères        |         1 |        0   |
-| Narbonne                   |         1 |        1   |
-| Nice                       |         1 |        1   |
-| Suresnes                   |         1 |        0   |
-| Valence Romans Drome Rugby |         1 |        1   |
-| Zimbabwe Goshawks          |         1 |        1   |
+| Carqueiranne-Hyères        |         3 |   0.666667 |
+| Narbonne                   |         2 |   1        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
+| Dax                        |         2 |   0        |
+| US Bressane                |         2 |   0.5      |
+| Tarbes                     |         2 |   0.5      |
+| Blagnac                    |         2 |   0        |
+| Rennes                     |         1 |   0        |
+| Valence Romans Drome Rugby |         1 |   1        |
+| Tel-Aviv Heat              |         1 |   1        |
+| Suresnes                   |         1 |   0        |
+| Albi                       |         1 |   0        |
+| Nice                       |         1 |   1        |
+| Lusitanos XV               |         1 |   1        |
+| Lokomotiv Penza            |         1 |   0        |
+| Griffons                   |         1 |   0        |
+| Bourgoin-Jallieu           |         1 |   0        |
+| Zimbabwe Goshawks          |         1 |   1        |

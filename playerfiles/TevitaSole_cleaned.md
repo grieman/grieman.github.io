@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tevita Sole  
-date: 2023-03-02 11:23:34.307686  
+date: 2023-03-16 19:47:04.337681  
 categories: player  
 ---
 # Tevita Sole
 
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 109.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |             7 |   0.571429 |
+| New England Free Jacks |             8 |      0.625 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Austin Gilgronis |         1 |          1 |
 | L. A. Giltinis   |         1 |          0 |
 | NOLA Gold        |         1 |          1 |
+| Old Glory DC     |         1 |          1 |
 | R.U. New York    |         1 |          1 |
 | Rugby New York   |         1 |          1 |
 | San Diego Legion |         1 |          0 |

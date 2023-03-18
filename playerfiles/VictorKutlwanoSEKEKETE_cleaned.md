@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Victor Kutlwano SEKEKETE  
-date: 2023-03-16 11:30:03.317691  
+date: 2023-03-17 17:38:24.155783  
 categories: player  
 ---
 # Victor Kutlwano SEKEKETE
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 23.0
+## Current Percentile: 22.0
 
 # Elo History
 

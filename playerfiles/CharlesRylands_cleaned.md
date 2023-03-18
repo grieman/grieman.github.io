@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Charles Rylands  
-date: 2023-02-02 18:56:46.685568  
+date: 2023-03-17 17:18:03.270997  
 categories: player  
 ---
 # Charles Rylands
 
 ## Positions: FL
 
-## Current elo: 83.0
+## Current elo: 87.0
 
-## Current Percentile: 30.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            12 |        0.5 |
+| Bedford |            12 |   0.583333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -31,6 +31,6 @@ categories: player
 | Coventry            |         1 |        0   |
 | Doncaster           |         1 |        0   |
 | Ealing Trailfinders |         1 |        0   |
-| Jersey              |         1 |        0   |
+| Hartpury College    |         1 |        1   |
 | Nottingham          |         1 |        1   |
 | Richmond            |         1 |        0   |

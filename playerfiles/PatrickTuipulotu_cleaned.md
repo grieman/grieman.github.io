@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Patrick Tuipulotu  
-date: 2023-03-02 11:27:16.399351  
+date: 2023-03-17 17:37:05.860888  
 categories: player  
 ---
 # Patrick Tuipulotu
@@ -23,16 +23,16 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Blues           |            90 |   0.472222 |
+| Blues           |            92 |   0.472826 |
 | New Zealand     |            45 |   0.811111 |
 | Auckland        |            24 |   0.541667 |
 | Toyota Verblitz |            11 |   0.636364 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Hurricanes                        |        13 |   0.384615 |
 | Highlanders                       |        13 |   0.538462 |
 | Chiefs                            |        13 |   0.269231 |
-| Hurricanes                        |        12 |   0.333333 |
 | Crusaders                         |        10 |   0.1      |
 | Australia                         |         9 |   0.722222 |
 | Argentina                         |         7 |   0.857143 |
@@ -40,13 +40,13 @@ categories: player
 | New South Wales Waratahs          |         7 |   0.857143 |
 | Wales                             |         5 |   1        |
 | Stormers                          |         5 |   0.4      |
+| Brumbies                          |         5 |   0.6      |
 | Counties Manukau                  |         4 |   0.25     |
 | Western Force                     |         4 |   1        |
 | Waikato                           |         4 |   0.25     |
 | Bulls                             |         4 |   0.625    |
 | Queensland Reds                   |         4 |   0.875    |
 | North Harbour                     |         4 |   0.75     |
-| Brumbies                          |         4 |   0.75     |
 | Lions                             |         4 |   0.25     |
 | England                           |         4 |   0.75     |
 | Sharks                            |         3 |   0        |

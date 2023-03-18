@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Izaia Perese  
-date: 2023-02-24 09:49:31.881112  
+date: 2023-03-17 17:42:32.600665  
 categories: player  
 ---
 # Izaia Perese
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 84.0
+## Current elo: 85.0
 
-## Current Percentile: 17.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            20 |   0.35     |
+| New South Wales Waratahs |            24 |   0.333333 |
 | Queensland Reds          |            19 |   0.263158 |
 | Queensland Country       |            12 |   0.25     |
 | Bayonne                  |             5 |   0.4      |
@@ -31,20 +31,20 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Brumbies                 |         5 |   0.2      |
+| Hurricanes               |         5 |   0        |
 | Western Force            |         4 |   0.5      |
-| Brumbies                 |         4 |   0.25     |
 | Chiefs                   |         4 |   0        |
-| Hurricanes               |         4 |   0        |
+| Melbourne Rebels         |         4 |   0.5      |
 | Highlanders              |         3 |   0        |
 | Queensland Reds          |         3 |   0        |
 | New South Wales Waratahs |         3 |   0        |
-| Melbourne Rebels         |         3 |   0.666667 |
 | Brisbane City            |         3 |   0.333333 |
 | Crusaders                |         3 |   0.333333 |
+| Fijian Drua              |         3 |   1        |
 | Melbourne Rising         |         2 |   0        |
 | England                  |         2 |   0        |
 | Lions                    |         2 |   0.5      |
-| Fijian Drua              |         2 |   1        |
 | Canberra Vikings         |         2 |   0        |
 | Racing 92                |         1 |   0        |
 | Toulon                   |         1 |   1        |

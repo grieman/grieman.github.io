@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alamanda Motuga  
-date: 2023-03-02 11:24:15.450477  
+date: 2023-03-17 17:02:20.564516  
 categories: player  
 ---
 # Alamanda Motuga
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 21.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Moana Pasifika   |             8 |      0.125 |
-| Samoa            |             4 |      0.75  |
-| Counties Manukau |             2 |      0     |
+| Moana Pasifika   |             9 |   0.111111 |
+| Samoa            |             4 |   0.75     |
+| Counties Manukau |             2 |   0        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -33,6 +33,7 @@ categories: player
 | Blues             |         2 |          0 |
 | Brumbies          |         1 |          1 |
 | Crusaders         |         1 |          0 |
+| Fijian Drua       |         1 |          0 |
 | Highlanders       |         1 |          0 |
 | Hurricanes        |         1 |          0 |
 | Manawatu          |         1 |          0 |

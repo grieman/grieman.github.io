@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sokuphumla (Soso) Xakalashe  
-date: 2023-03-12 11:31:06.180438  
+date: 2023-03-17 17:27:23.246572  
 categories: player  
 ---
 # Sokuphumla (Soso) Xakalashe
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 63.0
+## Current Percentile: 61.0
 
 # Elo History
 

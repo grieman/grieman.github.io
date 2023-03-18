@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ben Donaldson  
-date: 2023-02-24 09:45:43.857513  
+date: 2023-03-17 17:39:07.607074  
 categories: player  
 ---
 # Ben Donaldson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 104.0
+## Current elo: 108.0
 
-## Current Percentile: 68.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,24 +23,25 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |            25 |        0.4 |
-| Sydney Rays              |             5 |        0   |
-| Australia                |             1 |        0   |
+| New South Wales Waratahs |            29 |    0.37931 |
+| Sydney Rays              |             5 |    0       |
+| Australia                |             2 |    0.5     |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Melbourne Rebels   |         5 |   0.4      |
 | Western Force      |         5 |   0.6      |
-| Melbourne Rebels   |         4 |   0.5      |
-| Brumbies           |         3 |   0        |
+| Brumbies           |         4 |   0        |
+| Fijian Drua        |         3 |   0.666667 |
+| Hurricanes         |         3 |   0        |
 | Queensland Reds    |         3 |   0.333333 |
 | Blues              |         2 |   0        |
 | Chiefs             |         2 |   0        |
 | Crusaders          |         2 |   0.5      |
-| Fijian Drua        |         2 |   0.5      |
-| Hurricanes         |         2 |   0        |
 | Canberra Vikings   |         1 |   0        |
 | Highlanders        |         1 |   1        |
 | Italy              |         1 |   0        |
 | Melbourne Rising   |         1 |   0        |
 | Moana Pasifika     |         1 |   1        |
 | NSW Country Eagles |         1 |   0        |
+| Wales              |         1 |   1        |

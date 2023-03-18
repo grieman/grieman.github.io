@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Connal McInerney  
-date: 2023-02-24 09:49:44.179576  
+date: 2023-03-17 17:23:45.973276  
 categories: player  
 ---
 # Connal McInerney
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 124.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Brumbies           |            40 |      0.75  |
-| Canberra Vikings   |            20 |      0.725 |
-| NSW Country Eagles |             5 |      0.5   |
-| Australia          |             2 |      0.5   |
+| Brumbies           |            42 |   0.761905 |
+| Canberra Vikings   |            20 |   0.725    |
+| NSW Country Eagles |             5 |   0.5      |
+| Australia          |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Queensland Reds          |         6 |   0.833333 |
-| New South Wales Waratahs |         6 |   1        |
+| Queensland Reds          |         7 |   0.857143 |
+| New South Wales Waratahs |         7 |   1        |
 | Melbourne Rebels         |         5 |   0.8      |
 | Melbourne Rising         |         4 |   0.5      |
 | Sunwolves                |         4 |   1        |

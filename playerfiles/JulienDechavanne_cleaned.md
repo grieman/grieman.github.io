@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Julien Dechavanne  
-date: 2023-02-02 18:43:49.610063  
+date: 2023-03-17 17:05:41.521018  
 categories: player  
 ---
 # Julien Dechavanne
 
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 41.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,24 +21,24 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            76 |   0.486842 |
+| Dax    |            81 |   0.481481 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         7 |   0.571429 |
+| Blagnac                    |         6 |   0.5      |
 | Bourgoin-Jallieu           |         6 |   0.666667 |
 | Chambery                   |         5 |   0.8      |
-| Blagnac                    |         4 |   0.75     |
-| Albi                       |         4 |   0        |
+| Albi                       |         5 |   0        |
+| Cognac Saint Jean d'Angély |         4 |   0.5      |
 | Nice                       |         3 |   0.666667 |
 | Soyaux-Angouleme           |         3 |   0.666667 |
 | Beziers                    |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0        |
+| Suresnes                   |         3 |   0.333333 |
 | Dijon                      |         3 |   0.666667 |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Colomiers                  |         2 |   0.5      |
 | Montauban                  |         2 |   0        |
-| Suresnes                   |         2 |   0        |
 | Vannes                     |         2 |   1        |
 | Tarbes                     |         2 |   1        |
 | Carcassonne                |         2 |   0        |

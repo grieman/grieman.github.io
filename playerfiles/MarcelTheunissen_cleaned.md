@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Marcel Theunissen  
-date: 2023-02-02 19:06:53.213026  
+date: 2023-03-17 17:03:44.353343  
 categories: player  
 ---
 # Marcel Theunissen
 
-## Positions: FL
+## Positions: FL, N8
 
-## Current elo: 83.0
+## Current elo: 91.0
 
-## Current Percentile: 25.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -21,24 +21,25 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Western Province |            19 |   0.315789 |
-| Stormers         |            10 |   0.65     |
+| Western Province |            21 |   0.333333 |
+| Stormers         |            13 |   0.730769 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Golden Lions        |         5 |       0.4  |
 | Free State Cheetahs |         4 |       0.25 |
-| Golden Lions        |         4 |       0.25 |
 | Griquas             |         4 |       0    |
+| Blue Bulls          |         3 |       0    |
 | Natal Sharks        |         3 |       1    |
-| Blue Bulls          |         2 |       0    |
+| Sharks              |         2 |       1    |
+| Bulls               |         2 |       1    |
 | Pumas               |         2 |       0.5  |
-| Bulls               |         1 |       1    |
-| Clermont Auvergne   |         1 |       0    |
-| Connacht            |         1 |       1    |
-| Glasgow Warriors    |         1 |       0    |
+| Ospreys             |         1 |       0.5  |
+| Ulster              |         1 |       0    |
+| Scarlets            |         1 |       1    |
 | Lions               |         1 |       1    |
 | London Irish        |         1 |       1    |
-| Ospreys             |         1 |       0.5  |
-| Scarlets            |         1 |       1    |
-| Ulster              |         1 |       0    |
+| Glasgow Warriors    |         1 |       0    |
+| Connacht            |         1 |       1    |
+| Clermont Auvergne   |         1 |       0    |
 | Zebre               |         1 |       1    |

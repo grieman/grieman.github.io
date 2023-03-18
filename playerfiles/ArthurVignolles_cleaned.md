@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Arthur Vignolles  
-date: 2023-02-02 18:59:51.173581  
+date: 2023-03-17 17:31:45.937262  
 categories: player  
 ---
 # Arthur Vignolles
 
 ## Positions: FL, N8
 
-## Current elo: 98.0
+## Current elo: 84.0
 
-## Current Percentile: 45.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -21,23 +21,23 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Nice     |            16 |   0.40625  |
+| Nice     |            21 |   0.428571 |
 | Suresnes |            13 |   0.538462 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         3 |   0.166667 |
+| Albi                       |         4 |   0.25     |
+| Tarbes                     |         4 |   0.5      |
 | Blagnac                    |         3 |   0.666667 |
 | Bourgoin-Jallieu           |         3 |   0.333333 |
 | Dax                        |         3 |   0.333333 |
+| Valence Romans Drome Rugby |         3 |   0.333333 |
 | Chambery                   |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Narbonne                   |         2 |   0        |
 | Suresnes                   |         2 |   1        |
-| Tarbes                     |         2 |   1        |
-| Valence Romans Drome Rugby |         2 |   0        |
+| US Bressane                |         2 |   0.5      |
 | Aubenas                    |         1 |   1        |
 | Dijon                      |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
-| US Bressane                |         1 |   0        |

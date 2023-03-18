@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tomoya Nakamura  
-date: 2023-03-09 10:12:34.251151  
+date: 2023-03-17 17:34:44.104812  
 categories: player  
 ---
 # Tomoya Nakamura
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,9 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             1 |          0 |
+| Hanazono Kintetsu Liners |             2 |          0 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Mitsubishi Dynaboars |         1 |          0 |
+| Toyota Verblitz      |         1 |          0 |

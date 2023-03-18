@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Harley Wheeler  
-date: 2023-02-24 02:33:01.974017  
+date: 2023-03-17 17:05:53.470389  
 categories: player  
 ---
 # Harley Wheeler
 
 ## Positions: W
 
-## Current elo: 95.0
+## Current elo: 112.0
 
-## Current Percentile: 81.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,19 +21,20 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| NOLA Gold |            15 |   0.266667 |
+| NOLA Gold |            18 |   0.277778 |
 | Rugby ATL |             3 |   0.666667 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| New England Free Jacks |         4 |          0 |
-| Toronto Arrows         |         3 |          0 |
-| Old Glory DC           |         2 |          1 |
-| Rugby ATL              |         2 |          0 |
-| Austin Gilgronis       |         1 |          0 |
-| Dallas Jackals         |         1 |          1 |
-| NOLA Gold              |         1 |          1 |
-| R.U. New York          |         1 |          0 |
-| Rugby New York         |         1 |          0 |
-| Seattle Seawolves      |         1 |          1 |
-| Utah Warriors          |         1 |          1 |
+| New England Free Jacks |         4 |        0   |
+| Rugby ATL              |         3 |        0   |
+| Toronto Arrows         |         3 |        0   |
+| Old Glory DC           |         2 |        1   |
+| Rugby New York         |         2 |        0.5 |
+| Austin Gilgronis       |         1 |        0   |
+| Dallas Jackals         |         1 |        1   |
+| Houston SaberCats      |         1 |        0   |
+| NOLA Gold              |         1 |        1   |
+| R.U. New York          |         1 |        0   |
+| Seattle Seawolves      |         1 |        1   |
+| Utah Warriors          |         1 |        1   |

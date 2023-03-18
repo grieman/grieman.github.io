@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Siaki Lolohea Vikilani  
-date: 2023-03-04 11:41:05.528391  
+date: 2023-03-17 17:13:00.561840  
 categories: player  
 ---
 # Siaki Lolohea Vikilani
 
 ## Positions: N8
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: None
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| American Raptors |             1 |          0 |
+| American Raptors |             2 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Pampas XV  |         1 |          0 |
+| Yacare XV  |         1 |          0 |

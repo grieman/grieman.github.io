@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jack Kenningham  
-date: 2023-03-06 11:25:20.230324  
+date: 2023-03-17 17:41:21.821902  
 categories: player  
 ---
 # Jack Kenningham
@@ -21,22 +21,24 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            33 |    0.69697 |
+| Harlequins |            37 |   0.675676 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Newcastle Falcons  |         4 |   0.75     |
-| Exeter Chiefs      |         3 |   0.666667 |
+| Exeter Chiefs      |         4 |   0.75     |
+| Northampton Saints |         3 |   1        |
 | Leicester Tigers   |         3 |   0        |
 | London Irish       |         3 |   0.666667 |
-| Northampton Saints |         3 |   1        |
-| Bath Rugby         |         2 |   1        |
-| Bristol Rugby      |         2 |   1        |
-| Gloucester Rugby   |         2 |   1        |
-| Sale Sharks        |         2 |   0.5      |
-| Saracens           |         2 |   0        |
+| Bristol Rugby      |         3 |   0.666667 |
 | Wasps              |         2 |   1        |
+| Saracens           |         2 |   0        |
+| Sale Sharks        |         2 |   0.5      |
+| Bath Rugby         |         2 |   1        |
+| Gloucester Rugby   |         2 |   1        |
 | Worcester Warriors |         2 |   1        |
-| Cardiff Blues      |         1 |   1        |
+| Racing 92          |         1 |   1        |
 | Castres Olympique  |         1 |   1        |
+| Sharks             |         1 |   0        |
 | Ulster             |         1 |   0        |
+| Cardiff Blues      |         1 |   1        |

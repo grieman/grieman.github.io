@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: David Coetzer  
-date: 2023-03-02 11:21:49.963211  
+date: 2023-03-17 17:29:02.566257  
 categories: player  
 ---
 # David Coetzer
 
 ## Positions: FH
 
-## Current elo: 72.0
+## Current elo: 85.0
 
-## Current Percentile: 8.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Houston SaberCats |            18 |   0.555556 |
+| Houston SaberCats |            20 |       0.55 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Seattle Seawolves |         4 |   0.25     |
 | Dallas Jackals    |         3 |   1        |
-| Seattle Seawolves |         3 |   0.333333 |
+| San Diego Legion  |         3 |   0.666667 |
 | L. A. Giltinis    |         2 |   0.5      |
-| San Diego Legion  |         2 |   0.5      |
 | Utah Warriors     |         2 |   1        |
 | Austin Gilgronis  |         1 |   0        |
 | NOLA Gold         |         1 |   1        |

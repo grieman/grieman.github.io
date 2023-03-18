@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luke Frost  
-date: 2023-02-02 18:49:23.667259  
+date: 2023-03-17 17:02:29.017727  
 categories: player  
 ---
 # Luke Frost
 
 ## Positions: L, FL
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 66.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Bedford         |            28 |   0.464286 |
+| Bedford         |            29 |   0.517241 |
 | London Scottish |            25 |   0.3      |
 | Nottingham      |            10 |   0.2      |
 
@@ -30,11 +30,11 @@ categories: player
 | Nottingham          |         7 |   0.571429 |
 | Ampthill            |         6 |   0.416667 |
 | Coventry            |         6 |   0.166667 |
-| Jersey              |         6 |   0.5      |
+| Doncaster           |         6 |   0.333333 |
+| Hartpury College    |         6 |   0.5      |
 | Cornish Pirates     |         5 |   0.4      |
-| Doncaster           |         5 |   0.2      |
 | Ealing Trailfinders |         5 |   0.2      |
-| Hartpury College    |         5 |   0.4      |
+| Jersey              |         5 |   0.6      |
 | Richmond            |         5 |   0.2      |
 | Bedford             |         3 |   0.333333 |
 | Yorkshire Carnegie  |         3 |   0.666667 |

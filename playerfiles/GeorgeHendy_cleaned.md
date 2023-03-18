@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: George Hendy  
-date: 2023-01-21 15:42:32.828649  
+date: 2023-03-17 17:09:30.429158  
 categories: player  
 ---
 # George Hendy
 
 ## Positions: FB, W
 
-## Current elo: 113.0
+## Current elo: 100.0
 
-## Current Percentile: 73.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,18 +21,14 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bedford            |             7 |   0.714286 |
-| Northampton Saints |             4 |   0.75     |
+| Bedford            |             5 |        0.6 |
+| Northampton Saints |             1 |        1   |
 
-| Opponent          |   Matches |   Win Rate |
-|:------------------|----------:|-----------:|
-| Bristol Rugby     |         2 |          1 |
-| Ampthill          |         1 |          1 |
-| Bath Rugby        |         1 |          0 |
-| Caldy             |         1 |          1 |
-| Cornish Pirates   |         1 |          1 |
-| Doncaster         |         1 |          0 |
-| London Scottish   |         1 |          1 |
-| Newcastle Falcons |         1 |          1 |
-| Nottingham        |         1 |          1 |
-| Richmond          |         1 |          0 |
+| Opponent        |   Matches |   Win Rate |
+|:----------------|----------:|-----------:|
+| Bristol Rugby   |         1 |          1 |
+| Caldy           |         1 |          1 |
+| Cornish Pirates |         1 |          1 |
+| Doncaster       |         1 |          0 |
+| Nottingham      |         1 |          1 |
+| Richmond        |         1 |          0 |

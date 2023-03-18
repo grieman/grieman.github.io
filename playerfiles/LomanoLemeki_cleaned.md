@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Lomano Lemeki  
-date: 2023-02-02 19:11:04.624037  
+date: 2023-03-17 17:21:48.335622  
 categories: player  
 ---
 # Lomano Lemeki
 
-## Positions: W, FB
+## Positions: W
 
 ## Country: Japan
 
-## Current elo: 106.0
+## Current elo: 96.0
 
-## Current Percentile: 70.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,46 +23,50 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Mie Honda Heat        |            25 |   0.34     |
-| Green Rockets Tokatsu |            16 |   0.0625   |
-| Japan                 |            13 |   0.576923 |
-| Sunwolves             |             7 |   0        |
+| Mie Honda Heat        |            38 |  0.381579  |
+| Japan                 |            13 |  0.576923  |
+| Green Rockets Tokatsu |            12 |  0.0833333 |
+| Sunwolves             |             7 |  0         |
+| Munakata Sanix Blues  |             2 |  0         |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |         6 |   0        |
-| Yokohama Canon Eagles             |         4 |   0.375    |
-| Shizuoka Blue Revs                |         4 |   0        |
-| Kobelco Kobe Steelers             |         4 |   0        |
-| Black Rams Tokyo                  |         3 |   0.333333 |
-| Toshiba Brave Lupus Tokyo         |         3 |   0        |
-| Australia                         |         2 |   0        |
-| Italy                             |         2 |   0.5      |
-| Georgia                           |         2 |   1        |
-| Coca-Cola Red Sparks              |         2 |   0.5      |
-| Tokyo Sungoliath                  |         2 |   0        |
-| Toyota Verblitz                   |         2 |   0        |
-| Urayasu D-Rocks                   |         2 |   0        |
-| South Africa                      |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         1 |   0        |
-| Sharks                            |         1 |   0        |
-| Samoa                             |         1 |   1        |
-| Tonga                             |         1 |   1        |
-| Saitama Wild Knights              |         1 |   0        |
-| Russia                            |         1 |   1        |
-| New South Wales Waratahs          |         1 |   0        |
-| Argentina                         |         1 |   0        |
-| Munakata Sanix Blues              |         1 |   0        |
-| Melbourne Rebels                  |         1 |   0        |
-| Mazda Blue Zoomers                |         1 |   1        |
-| Kyuden Voltex                     |         1 |   1        |
-| Kamaishi Seawaves                 |         1 |   1        |
-| Ireland                           |         1 |   1        |
-| Hanazono Kintetsu Liners          |         1 |   1        |
-| France                            |         1 |   0.5      |
-| Chugoku Red Regulions             |         1 |   1        |
-| Chubu Electric Power              |         1 |   1        |
-| Chiefs                            |         1 |   0        |
-| Brumbies                          |         1 |   0        |
-| Blues                             |         1 |   0        |
-| Lions                             |         1 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         8 |      0.125 |
+| Yokohama Canon Eagles             |         4 |      0.625 |
+| Black Rams Tokyo                  |         4 |      0.5   |
+| Toshiba Brave Lupus Tokyo         |         4 |      0     |
+| Tokyo Sungoliath                  |         3 |      0     |
+| Kobelco Kobe Steelers             |         3 |      0     |
+| Shizuoka Blue Revs                |         3 |      0     |
+| Urayasu D-Rocks                   |         3 |      0     |
+| Coca-Cola Red Sparks              |         2 |      0.5   |
+| Georgia                           |         2 |      1     |
+| Munakata Sanix Blues              |         2 |      0.5   |
+| Italy                             |         2 |      0.5   |
+| Saitama Wild Knights              |         2 |      0     |
+| Toyota Verblitz                   |         2 |      0     |
+| Australia                         |         2 |      0     |
+| NTT Docomo Red Hurricanes Osaka   |         2 |      0.5   |
+| Mie Honda Heat                    |         2 |      0.5   |
+| Tonga                             |         1 |      1     |
+| South Africa                      |         1 |      0     |
+| Sharks                            |         1 |      0     |
+| Samoa                             |         1 |      1     |
+| Russia                            |         1 |      1     |
+| New South Wales Waratahs          |         1 |      0     |
+| Argentina                         |         1 |      0     |
+| Mitsubishi Dynaboars              |         1 |      0     |
+| Melbourne Rebels                  |         1 |      0     |
+| Mazda Blue Zoomers                |         1 |      1     |
+| Kyuden Voltex                     |         1 |      1     |
+| Kamaishi Seawaves                 |         1 |      1     |
+| Ireland                           |         1 |      1     |
+| Hanazono Kintetsu Liners          |         1 |      0     |
+| Green Rockets Tokatsu             |         1 |      1     |
+| France                            |         1 |      0.5   |
+| Chugoku Red Regulions             |         1 |      1     |
+| Chubu Electric Power              |         1 |      1     |
+| Chiefs                            |         1 |      0     |
+| Brumbies                          |         1 |      0     |
+| Blues                             |         1 |      0     |
+| Lions                             |         1 |      0     |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Dan Pryor  
-date: 2023-03-09 10:07:13.167467  
+date: 2023-03-17 17:05:44.494489  
 categories: player  
 ---
 # Dan Pryor

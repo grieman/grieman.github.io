@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Elias Coulibaly  
-date: 2023-03-06 11:23:26.618461  
+date: 2023-03-17 17:42:28.601120  
 categories: player  
 ---
 # Elias Coulibaly
 
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 90.0
 
-## Current Percentile: None
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,12 +21,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             5 |        0.8 |
+| Suresnes |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         1 |          0 |
+| Albi                       |         2 |          0 |
 | Chambery                   |         1 |          1 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Rennes                     |         1 |          1 |
 | Tarbes                     |         1 |          1 |
+| Valence Romans Drome Rugby |         1 |          0 |

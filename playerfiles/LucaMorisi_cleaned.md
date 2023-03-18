@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luca Morisi  
-date: 2023-02-02 19:11:41.575082  
+date: 2023-03-17 17:25:09.909110  
 categories: player  
 ---
 # Luca Morisi
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 105.0
+## Current elo: 109.0
 
-## Current Percentile: 71.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,9 +23,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            91 |   0.351648 |
-| Italy            |            40 |   0.275    |
-| London Irish     |            12 |   0.375    |
+| Benetton Treviso |            94 |   0.351064 |
+| Italy            |            44 |   0.25     |
+| London Irish     |            12 |   0.458333 |
 | Crociati Rugby   |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,43 +34,44 @@ categories: player
 | Zebre                    |         8 |  0.875     |
 | Glasgow Warriors         |         7 |  0.428571  |
 | Ospreys                  |         7 |  0.142857  |
-| Ulster                   |         6 |  0.25      |
+| Connacht                 |         6 |  0.333333  |
 | Leinster                 |         6 |  0.0833333 |
 | Munster                  |         6 |  0         |
-| Connacht                 |         6 |  0.333333  |
+| Dragons                  |         6 |  0.666667  |
 | Cardiff Blues            |         6 |  0.333333  |
-| Dragons                  |         5 |  0.6       |
+| Ulster                   |         6 |  0.25      |
+| England                  |         5 |  0         |
 | Scotland                 |         5 |  0.2       |
-| South Africa             |         4 |  0         |
-| Ireland                  |         4 |  0         |
+| France                   |         5 |  0         |
+| Wales                    |         5 |  0         |
+| Ireland                  |         5 |  0         |
 | Harlequins               |         4 |  0.5       |
-| Wales                    |         4 |  0         |
-| France                   |         4 |  0         |
-| England                  |         4 |  0         |
-| Australia                |         3 |  0.333333  |
+| South Africa             |         4 |  0         |
+| Montpellier Herault      |         4 |  0.125     |
 | Northampton Saints       |         3 |  0         |
-| Leicester Tigers         |         3 |  0         |
-| Montpellier Herault      |         3 |  0.166667  |
+| Lyon                     |         3 |  0.333333  |
+| Australia                |         3 |  0.333333  |
 | Edinburgh                |         3 |  0         |
-| Stormers                 |         2 |  0         |
+| Grenoble                 |         2 |  1         |
 | Worcester Warriors       |         2 |  0.5       |
+| Stormers                 |         2 |  0         |
 | Bayonne                  |         2 |  1         |
+| Leicester Tigers         |         2 |  0         |
 | Samoa                    |         2 |  1         |
 | Agen                     |         2 |  0.5       |
 | Georgia                  |         2 |  1         |
 | Argentina                |         2 |  0         |
-| Lyon                     |         2 |  0.5       |
-| Grenoble                 |         2 |  1         |
-| Bristol Rugby            |         1 |  1         |
-| Toulon                   |         1 |  0         |
-| Fiji                     |         1 |  1         |
+| Gloucester Rugby         |         1 |  0         |
 | Uruguay                  |         1 |  1         |
 | United States of America |         1 |  1         |
-| Gloucester Rugby         |         1 |  0         |
-| Stade Toulousain         |         1 |  0         |
+| Bath Rugby               |         1 |  1         |
+| Toulon                   |         1 |  0         |
+| Fiji                     |         1 |  1         |
 | Racing 92                |         1 |  0         |
 | Southern Kings           |         1 |  1         |
 | Namibia                  |         1 |  1         |
+| Bristol Rugby            |         1 |  1         |
 | New Zealand              |         1 |  0         |
-| Russia                   |         1 |  1         |
 | Newcastle Falcons        |         1 |  1         |
+| Russia                   |         1 |  1         |
+| Stade Toulousain         |         1 |  0         |

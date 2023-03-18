@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tom Robertson  
-date: 2023-03-02 11:28:02.820546  
+date: 2023-03-17 17:22:32.939912  
 categories: player  
 ---
 # Tom Robertson
@@ -25,7 +25,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | New South Wales Waratahs |            63 |   0.436508 |
 | Australia                |            31 |   0.483871 |
-| Western Force            |            25 |   0.32     |
+| Western Force            |            27 |   0.333333 |
 | Sydney Stars             |            13 |   0.423077 |
 | NSW Country Eagles       |             9 |   0.666667 |
 
@@ -33,7 +33,7 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Melbourne Rebels         |        13 |  0.692308  |
 | Brumbies                 |        12 |  0.0833333 |
-| Queensland Reds          |         9 |  0.777778  |
+| Queensland Reds          |        10 |  0.7       |
 | Highlanders              |         7 |  0.285714  |
 | New Zealand              |         6 |  0.166667  |
 | Blues                    |         6 |  0         |
@@ -55,18 +55,18 @@ categories: player
 | England                  |         3 |  0         |
 | Bulls                    |         2 |  0.5       |
 | Stormers                 |         2 |  1         |
-| Wales                    |         2 |  1         |
+| Moana Pasifika           |         2 |  1         |
 | NSW Country Eagles       |         2 |  0         |
 | France                   |         2 |  0.5       |
+| Wales                    |         2 |  1         |
 | North Harbour Rays       |         2 |  1         |
-| Greater Sydney Rams      |         2 |  0.5       |
 | Scotland                 |         2 |  0.5       |
 | Sharks                   |         2 |  0.25      |
 | Brisbane City            |         2 |  0         |
+| Greater Sydney Rams      |         2 |  0.5       |
 | Sydney Rays              |         1 |  1         |
 | Japan                    |         1 |  1         |
 | Southern Kings           |         1 |  0         |
 | Cheetahs                 |         1 |  1         |
 | Italy                    |         1 |  0         |
-| Moana Pasifika           |         1 |  1         |
 | Fiji                     |         1 |  1         |

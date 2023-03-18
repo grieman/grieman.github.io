@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mariano Ezequiel Filomeno  
-date: 2023-01-17 11:38:37.315469  
+date: 2023-03-17 17:12:32.971083  
 categories: player  
 ---
 # Mariano Ezequiel Filomeno
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,21 +21,25 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Tarbes |             9 |   0.555556 |
+| Tarbes |            14 |   0.607143 |
 | Cobras |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Cognac Saint Jean d'Angély |         2 |          1 |
-| Albi                       |         1 |          1 |
-| Cafeteros Pro              |         1 |          0 |
-| Chambery                   |         1 |          0 |
-| Dax                        |         1 |          0 |
-| Jaguares XV                |         1 |          0 |
-| Narbonne                   |         1 |          1 |
-| Olimpia Lions              |         1 |          0 |
-| Penarol Rugby              |         1 |          0 |
-| Rennes                     |         1 |          1 |
-| Selknam                    |         1 |          0 |
-| Suresnes                   |         1 |          0 |
-| US Bressane                |         1 |          0 |
+| Narbonne                   |         2 |        1   |
+| Cognac Saint Jean d'Angély |         2 |        1   |
+| Albi                       |         1 |        1   |
+| Suresnes                   |         1 |        0   |
+| Selknam                    |         1 |        0   |
+| Rennes                     |         1 |        1   |
+| Penarol Rugby              |         1 |        0   |
+| Olimpia Lions              |         1 |        0   |
+| Nice                       |         1 |        1   |
+| Jaguares XV                |         1 |        0   |
+| Blagnac                    |         1 |        0.5 |
+| Dax                        |         1 |        0   |
+| Chambery                   |         1 |        0   |
+| Carqueiranne-Hyères        |         1 |        1   |
+| Cafeteros Pro              |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
+| US Bressane                |         1 |        0   |

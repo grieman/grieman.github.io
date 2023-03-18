@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Luke Reimer  
-date: 2023-02-24 09:45:47.942654  
+date: 2023-03-17 17:31:03.593940  
 categories: player  
 ---
 # Luke Reimer
 
 ## Positions: FL
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 75.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,16 +21,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Brumbies |            16 |     0.5625 |
+| Brumbies |            19 |   0.631579 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blues                    |         3 |        0   |
-| Hurricanes               |         3 |        1   |
-| Crusaders                |         2 |        0   |
-| Highlanders              |         2 |        0.5 |
-| Queensland Reds          |         2 |        0.5 |
-| Fijian Drua              |         1 |        1   |
-| Melbourne Rebels         |         1 |        1   |
-| New South Wales Waratahs |         1 |        1   |
-| Western Force            |         1 |        1   |
+| Blues                    |         4 |   0.25     |
+| Hurricanes               |         3 |   1        |
+| Queensland Reds          |         3 |   0.666667 |
+| Crusaders                |         2 |   0        |
+| Highlanders              |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   1        |
+| Fijian Drua              |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |
+| Western Force            |         1 |   1        |

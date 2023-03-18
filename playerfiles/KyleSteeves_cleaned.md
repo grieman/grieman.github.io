@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Steeves  
-date: 2023-03-02 11:28:11.202483  
+date: 2023-03-17 17:38:53.462351  
 categories: player  
 ---
 # Kyle Steeves
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Canada
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -19,11 +19,12 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |             2 |          0 |
+| Dallas Jackals |             3 |          0 |
 | Canada         |             1 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Houston SaberCats |         1 |          0 |
 | Namibia           |         1 |          0 |
+| San Diego Legion  |         1 |          0 |
 | Utah Warriors     |         1 |          0 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Asa Faitotoa  
-date: 2023-02-02 18:43:35.105956  
+date: 2023-03-17 17:20:50.213550  
 categories: player  
 ---
 # Asa Faitotoa
 
 ## Positions: P
 
-## Current elo: 112.0
+## Current elo: 115.0
 
-## Current Percentile: 86.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,28 +21,28 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Dax                |           117 |   0.465812 |
+| Dax                |           121 |   0.466942 |
 | Montauban          |             9 |   0.222222 |
 | NSW Country Eagles |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         8 |   0.1875   |
+| Albi                       |         9 |   0.166667 |
 | Bourgoin-Jallieu           |         7 |   0.571429 |
 | Carcassonne                |         7 |   0.142857 |
+| Blagnac                    |         6 |   0.5      |
 | Tarbes                     |         6 |   0.5      |
 | Mont-de-Marsan             |         6 |   0.166667 |
+| Cognac Saint Jean d'Angély |         5 |   0.4      |
+| Suresnes                   |         5 |   0.6      |
 | Narbonne                   |         5 |   0.6      |
 | Aurillac                   |         5 |   0.4      |
 | Montauban                  |         5 |   0.4      |
 | Beziers                    |         5 |   0.4      |
 | Biarritz Olympique         |         5 |   0.4      |
-| Blagnac                    |         5 |   0.6      |
 | Chambery                   |         5 |   1        |
 | Soyaux-Angouleme           |         5 |   0.4      |
 | Massy                      |         4 |   0        |
-| Suresnes                   |         4 |   0.5      |
-| Cognac Saint Jean d'Angély |         4 |   0.25     |
 | Dijon                      |         4 |   0.75     |
 | Perpignan                  |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.333333 |

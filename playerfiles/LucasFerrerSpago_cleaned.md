@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lucas Ferrer Spago  
-date: 2023-03-09 10:11:58.891404  
+date: 2023-03-17 17:39:08.739176  
 categories: player  
 ---
 # Lucas Ferrer Spago
 
 ## Positions: FH, FB
 
-## Current elo: 104.0
+## Current elo: 102.0
 
 ## Current Percentile: 64.0
 
@@ -21,12 +21,12 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            11 |   0.272727 |
+| Cobras |            12 |       0.25 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
+| Penarol Rugby |         4 |   0        |
 | Cafeteros Pro |         3 |   0.666667 |
-| Penarol Rugby |         3 |   0        |
 | Jaguares XV   |         1 |   0        |
 | Olimpia Lions |         1 |   1        |
 | Pampas XV     |         1 |   0        |

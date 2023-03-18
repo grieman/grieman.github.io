@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Danny Joseph Tusitala  
-date: 2023-03-09 10:07:11.367112  
+date: 2023-03-17 17:32:42.469843  
 categories: player  
 ---
 # Danny Joseph Tusitala
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 82.0
+## Current elo: 81.0
 
-## Current Percentile: 17.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |            43 |   0.337209 |
+| Old Glory DC |            44 |   0.329545 |
 | Aurillac     |             9 |   0.388889 |
 | Samoa        |             2 |   0.75     |
 
@@ -32,9 +32,9 @@ categories: player
 | Toronto Arrows         |         5 |   0.2      |
 | Rugby New York         |         5 |   0        |
 | Rugby ATL              |         5 |   0.4      |
+| New England Free Jacks |         5 |   0.2      |
 | NOLA Gold              |         5 |   0.1      |
 | R.U. New York          |         4 |   0        |
-| New England Free Jacks |         4 |   0.25     |
 | Houston SaberCats      |         3 |   0.666667 |
 | Austin Gilgronis       |         2 |   0.5      |
 | Seattle Seawolves      |         2 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shannon Frizell  
-date: 2023-03-02 11:25:07.785052  
+date: 2023-03-17 17:35:19.488969  
 categories: player  
 ---
 # Shannon Frizell
@@ -23,15 +23,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            57 |   0.403509 |
+| Highlanders |            59 |   0.389831 |
 | Tasman      |            28 |   0.660714 |
 | New Zealand |            26 |   0.788462 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blues                    |        10 |   0.3      |
+| Blues                    |        11 |   0.272727 |
+| Chiefs                   |        10 |   0.45     |
 | Crusaders                |        10 |   0.2      |
-| Chiefs                   |         9 |   0.5      |
 | Hurricanes               |         8 |   0.25     |
 | Argentina                |         5 |   0.6      |
 | South Africa             |         5 |   0.7      |

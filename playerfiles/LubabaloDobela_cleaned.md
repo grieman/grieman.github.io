@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Lubabalo Dobela  
-date: 2023-03-11 00:13:06.657913  
+date: 2023-03-16 20:04:49.400270  
 categories: player  
 ---
 # Lubabalo Dobela
 
 ## Positions: FH
 
-## Current elo: 85.0
+## Current elo: 80.0
 
 ## Current Percentile: None
 

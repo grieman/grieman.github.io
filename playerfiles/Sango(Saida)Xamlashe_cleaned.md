@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sango (Saida) Xamlashe  
-date: 2023-03-11 00:15:34.534957  
+date: 2023-03-17 17:15:55.039095  
 categories: player  
 ---
 # Sango (Saida) Xamlashe
 
 ## Positions: C
 
-## Current elo: 98.0
+## Current elo: 80.0
 
-## Current Percentile: 83.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Griquas    |            15 |   0.533333 |
+| Griquas    |            16 |   0.5      |
 | Lions      |             3 |   0.833333 |
 | Blue Bulls |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Free State Cheetahs |         4 |   0.25     |
 | Blue Bulls          |         3 |   0.333333 |
-| Free State Cheetahs |         3 |   0.333333 |
 | Pumas               |         3 |   0.666667 |
 | Western Province    |         3 |   0.666667 |
 | Golden Lions        |         2 |   1        |

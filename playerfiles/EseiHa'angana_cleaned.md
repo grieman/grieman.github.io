@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Esei Ha'angana  
-date: 2023-01-21 15:44:18.883366  
+date: 2023-03-17 17:24:58.924753  
 categories: player  
 ---
 # Esei Ha'angana
 
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 53.0
+## Current Percentile: 48.0
 
 # Elo History
 

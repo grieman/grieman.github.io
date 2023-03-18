@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex Mafi  
-date: 2023-03-02 11:23:18.273404  
+date: 2023-03-17 17:28:00.871789  
 categories: player  
 ---
 # Alex Mafi
 
 ## Positions: H
 
-## Current elo: 97.0
+## Current elo: 101.0
 
-## Current Percentile: None
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Queensland Reds    |            63 |   0.468254 |
 | Queensland Country |            16 |   0.5      |
-| Melbourne Rebels   |             1 |   0        |
+| Melbourne Rebels   |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| New South Wales Waratahs |        11 |   0.454545 |
 | Brumbies                 |        11 |   0.545455 |
 | Melbourne Rebels         |        10 |   0.65     |
-| New South Wales Waratahs |        10 |   0.4      |
 | Sunwolves                |         5 |   0.8      |
 | Western Force            |         5 |   0.4      |
 | Chiefs                   |         3 |   0        |
@@ -37,15 +37,16 @@ categories: player
 | Bulls                    |         3 |   0.666667 |
 | Canberra Vikings         |         3 |   0.333333 |
 | Blues                    |         3 |   0.333333 |
-| Highlanders              |         2 |   0        |
 | Jaguares                 |         2 |   0        |
 | Lions                    |         2 |   0.5      |
 | Brisbane City            |         2 |   0.5      |
 | Melbourne Rising         |         2 |   0.5      |
-| NSW Country Eagles       |         2 |   1        |
+| Highlanders              |         2 |   0        |
 | Sharks                   |         2 |   0.5      |
 | Stormers                 |         2 |   0.5      |
 | Sydney Rays              |         2 |   0.5      |
+| NSW Country Eagles       |         2 |   1        |
+| Hurricanes               |         1 |   0        |
 | Greater Sydney Rams      |         1 |   1        |
 | North Harbour Rays       |         1 |   0        |
 | Perth Spirit             |         1 |   0        |

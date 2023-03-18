@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kavekini Tabu  
-date: 2023-02-02 18:42:50.365450  
+date: 2023-03-17 17:38:28.478909  
 categories: player  
 ---
 # Kavekini Tabu
 
 ## Positions: W
 
-## Current elo: 84.0
+## Current elo: 82.0
 
-## Current Percentile: 31.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,15 +21,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |             8 |       0.75 |
+| US Bressane |            10 |        0.6 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Blagnac                    |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          1 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Chambery                   |         1 |          1 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
-| Nice                       |         1 |          1 |
-| Rennes                     |         1 |          1 |
+| Carqueiranne-Hyères        |         2 |        0.5 |
+| Nice                       |         2 |        0.5 |
+| Blagnac                    |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        1   |
+| Chambery                   |         1 |        1   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Dax                        |         1 |        0   |
+| Rennes                     |         1 |        1   |

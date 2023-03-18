@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thembelani Bholi  
-date: 2023-01-13 11:26:32.463499  
+date: 2023-03-17 17:34:20.013768  
 categories: player  
 ---
 # Thembelani Bholi
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 52.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -22,33 +22,33 @@ categories: player
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
 | Southern Kings         |            26 |   0.192308 |
+| Natal Sharks           |            24 |   0.541667 |
 | Bulls                  |            22 |   0.454545 |
-| Natal Sharks           |            22 |   0.590909 |
 | Eastern Province Kings |            20 |   0.25     |
 | Pumas                  |             7 |   0.428571 |
 | Blue Bulls             |             3 |   0.333333 |
-| Sharks                 |             2 |   0        |
+| Sharks                 |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Golden Lions             |         9 |   0.222222 |
 | Free State Cheetahs      |         8 |   0.5      |
+| Blue Bulls               |         8 |   0.375    |
 | Griquas                  |         8 |   0.75     |
 | Jaguares                 |         7 |   0.428571 |
 | Western Province         |         7 |   0.285714 |
 | Natal Sharks             |         6 |   0        |
-| Blue Bulls               |         6 |   0.5      |
-| Sharks                   |         5 |   0.6      |
-| Pumas                    |         5 |   0.6      |
 | Stormers                 |         5 |   0.4      |
-| Cheetahs                 |         4 |   0        |
+| Pumas                    |         5 |   0.6      |
+| Sharks                   |         5 |   0.6      |
 | Lions                    |         4 |   0        |
-| Connacht                 |         3 |   0        |
-| Crusaders                |         2 |   0        |
+| Cheetahs                 |         4 |   0        |
 | Glasgow Warriors         |         2 |   0        |
-| Brumbies                 |         2 |   0        |
 | Chiefs                   |         2 |   0        |
 | Sunwolves                |         2 |   0.5      |
+| Crusaders                |         2 |   0        |
+| Connacht                 |         2 |   0        |
+| Brumbies                 |         2 |   0        |
 | New South Wales Waratahs |         1 |   1        |
 | Scarlets                 |         1 |   0        |
 | Valke                    |         1 |   1        |

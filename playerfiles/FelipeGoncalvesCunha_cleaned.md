@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Felipe Goncalves Cunha  
-date: 2023-03-09 10:13:40.836204  
+date: 2023-03-17 17:35:40.725731  
 categories: player  
 ---
 # Felipe Goncalves Cunha
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Brazil
 
-## Current elo: 91.0
+## Current elo: 90.0
 
 ## Current Percentile: None
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |             9 |   0.333333 |
-| Brazil |             5 |   0.2      |
+| Cobras |            10 |        0.3 |
+| Brazil |             5 |        0.2 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
+| Penarol Rugby |         3 |   0        |
 | Portugal      |         3 |   0.333333 |
 | Cafeteros Pro |         2 |   1        |
 | Olimpia Lions |         2 |   0        |
-| Penarol Rugby |         2 |   0        |
 | Kenya         |         1 |   0        |
 | Pampas XV     |         1 |   0        |
 | Selknam       |         1 |   1        |

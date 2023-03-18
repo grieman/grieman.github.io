@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brodie Retallick  
-date: 2023-02-24 09:54:35.379585  
+date: 2023-03-17 17:29:04.091266  
 categories: player  
 ---
 # Brodie Retallick
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 116.0
+## Current elo: 119.0
 
-## Current Percentile: 82.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chiefs                |           116 |   0.655172 |
+| Chiefs                |           119 |   0.663866 |
 | New Zealand           |           101 |   0.876238 |
 | Kobelco Kobe Steelers |            15 |   0.9      |
 | Hawke's Bay           |            10 |   0.6      |
@@ -32,12 +32,12 @@ categories: player
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Australia                         |        27 |   0.925926 |
-| Crusaders                         |        20 |   0.5      |
+| Crusaders                         |        21 |   0.52381  |
 | Argentina                         |        15 |   1        |
 | Hurricanes                        |        14 |   0.535714 |
+| Highlanders                       |        13 |   0.538462 |
 | Blues                             |        13 |   0.884615 |
 | South Africa                      |        13 |   0.884615 |
-| Highlanders                       |        12 |   0.5      |
 | Ireland                           |        10 |   0.6      |
 | England                           |         9 |   0.722222 |
 | Wales                             |         7 |   1        |
@@ -51,9 +51,9 @@ categories: player
 | Bulls                             |         5 |   0.9      |
 | Cheetahs                          |         4 |   0.875    |
 | Sharks                            |         4 |   1        |
+| Moana Pasifika                    |         3 |   1        |
 | British and Irish Lions           |         3 |   0.5      |
 | Italy                             |         3 |   1        |
-| Moana Pasifika                    |         2 |   1        |
 | Shizuoka Blue Revs                |         2 |   1        |
 | Samoa                             |         2 |   1        |
 | Counties Manukau                  |         2 |   0.5      |

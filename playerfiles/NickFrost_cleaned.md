@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Frost  
-date: 2023-02-24 09:52:51.691967  
+date: 2023-03-17 17:20:31.147752  
 categories: player  
 ---
 # Nick Frost
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 79.0
+## Current elo: 85.0
 
-## Current Percentile: 24.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -23,32 +23,33 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            35 |   0.571429 |
-| Australia        |             9 |   0.222222 |
+| Brumbies         |            38 |   0.605263 |
+| Australia        |            10 |   0.3      |
 | Canberra Vikings |             9 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Queensland Reds          |         8 |   0.375    |
+| Queensland Reds          |         9 |   0.444444 |
 | Western Force            |         7 |   0.714286 |
-| Melbourne Rebels         |         4 |   0.75     |
 | Fijian Drua              |         4 |   1        |
+| New South Wales Waratahs |         4 |   1        |
+| Blues                    |         4 |   0.25     |
+| Melbourne Rebels         |         4 |   0.75     |
 | Chiefs                   |         3 |   0.666667 |
-| New South Wales Waratahs |         3 |   1        |
-| Blues                    |         3 |   0        |
-| Hurricanes               |         2 |   1        |
-| Argentina                |         2 |   0.5      |
-| Highlanders              |         2 |   0        |
 | England                  |         2 |   0        |
 | Crusaders                |         2 |   0        |
+| Argentina                |         2 |   0.5      |
+| Hurricanes               |         2 |   1        |
+| Highlanders              |         2 |   0        |
 | Ireland                  |         1 |   0        |
-| France                   |         1 |   0        |
+| Italy                    |         1 |   0        |
 | Melbourne Rising         |         1 |   1        |
 | Moana Pasifika           |         1 |   0        |
-| NSW Country Eagles       |         1 |   1        |
+| France                   |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | Queensland Country       |         1 |   0        |
 | Brisbane City            |         1 |   1        |
 | Scotland                 |         1 |   1        |
 | Sydney Rays              |         1 |   1        |
-| Italy                    |         1 |   0        |
+| Wales                    |         1 |   1        |
+| NSW Country Eagles       |         1 |   1        |

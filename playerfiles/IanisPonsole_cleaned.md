@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Ianis Ponsole  
-date: 2023-03-09 10:12:57.981408  
+date: 2023-03-17 17:41:17.714316  
 categories: player  
 ---
 # Ianis Ponsole
 
 ## Positions: FL, N8
 
-## Current elo: 106.0
+## Current elo: 100.0
 
-## Current Percentile: 81.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            36 |   0.555556 |
+| Blagnac |            37 |   0.567568 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -34,10 +34,10 @@ categories: player
 | Aubenas                    |         2 |   1        |
 | Massy                      |         2 |   1        |
 | Nice                       |         2 |   0.5      |
+| Rennes                     |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Dijon                      |         1 |   0        |
 | Narbonne                   |         1 |   0        |
-| Rennes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |

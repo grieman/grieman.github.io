@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Thato Siward Mavundla  
-date: 2023-03-12 11:33:42.721319  
+date: 2023-03-17 16:59:50.841447  
 categories: player  
 ---
 # Thato Siward Mavundla
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 110.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

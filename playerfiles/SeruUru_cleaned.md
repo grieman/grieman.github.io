@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Seru Uru  
-date: 2023-03-02 11:28:22.928376  
+date: 2023-03-16 21:09:46.798421  
 categories: player  
 ---
 # Seru Uru
 
 ## Positions: N8, FL
 
-## Current elo: 93.0
+## Current elo: 101.0
 
-## Current Percentile: 55.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            26 |   0.538462 |
+| Queensland Reds |            28 |   0.535714 |
 | Brisbane City   |             8 |   0.4375   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Western Force            |         5 |       0.4  |
-| Brumbies                 |         5 |       0.6  |
+| Western Force            |         6 |       0.5  |
+| Brumbies                 |         6 |       0.5  |
 | New South Wales Waratahs |         4 |       1    |
 | Crusaders                |         3 |       0    |
 | Chiefs                   |         2 |       0.5  |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Shane Monro Kirkwood  
-date: 2023-03-16 11:33:14.117512  
+date: 2023-03-17 17:19:05.250973  
 categories: player  
 ---
 # Shane Monro Kirkwood
@@ -22,8 +22,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Valke            |            47 |   0.414894 |
+| Pumas            |            18 |   0.555556 |
 | Bourgoin-Jallieu |            17 |   0.352941 |
-| Pumas            |            17 |   0.529412 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -33,12 +33,12 @@ categories: player
 | Border Bulldogs        |         7 |   0.714286 |
 | Griffons               |         7 |   0.428571 |
 | Griquas                |         5 |   0.3      |
-| Eastern Province Kings |         4 |   0.5      |
-| Blue Bulls             |         4 |   0.25     |
 | Free State Cheetahs    |         4 |   0.75     |
+| Blue Bulls             |         4 |   0.25     |
+| Eastern Province Kings |         4 |   0.5      |
+| Golden Lions           |         3 |   1        |
 | Western Province       |         3 |   0.5      |
 | Dijon                  |         2 |   1        |
-| Golden Lions           |         2 |   1        |
 | Dax                    |         2 |   0        |
 | Chambery               |         2 |   0.5      |
 | Massy                  |         2 |   0.5      |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andre Fouché  
-date: 2023-03-16 11:31:27.721780  
+date: 2023-03-17 17:35:56.490763  
 categories: player  
 ---
 # Andre Fouché
 
 ## Positions: N8, FL
 
-## Current elo: 122.0
+## Current elo: 111.0
 
-## Current Percentile: 90.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leopards |             7 |   0.857143 |
-| Pumas    |             6 |   0.666667 |
+| Pumas    |             7 |   0.714286 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -33,4 +33,5 @@ categories: player
 | Griquas                |         2 |        0.5 |
 | Border Bulldogs        |         1 |        1   |
 | Eastern Province Kings |         1 |        1   |
+| Golden Lions           |         1 |        1   |
 | Valke                  |         1 |        0   |

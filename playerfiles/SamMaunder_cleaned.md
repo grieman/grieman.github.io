@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam Maunder  
-date: 2023-02-02 19:09:19.522217  
+date: 2023-03-17 17:35:18.513337  
 categories: player  
 ---
 # Sam Maunder
 
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 65.0
 
-## Current Percentile: 28.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,21 +21,22 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            39 |   0.538462 |
+| Exeter Chiefs |            44 |   0.545455 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Harlequins         |         5 |   0.6      |
 | Saracens           |         5 |   0.2      |
 | Bristol Rugby      |         4 |   0.5      |
-| Harlequins         |         4 |   0.75     |
+| Newcastle Falcons  |         4 |   0.75     |
+| Sale Sharks        |         4 |   0.75     |
 | Bath Rugby         |         3 |   1        |
 | Gloucester Rugby   |         3 |   0.666667 |
 | London Irish       |         3 |   0.333333 |
-| Newcastle Falcons  |         3 |   0.666667 |
 | Northampton Saints |         3 |   0.666667 |
-| Sale Sharks        |         3 |   0.666667 |
 | Bulls              |         2 |   0.5      |
 | Castres Olympique  |         2 |   1        |
+| Munster            |         2 |   0.5      |
 | Wasps              |         2 |   0        |
 | Leicester Tigers   |         1 |   0        |
 | Worcester Warriors |         1 |   0        |

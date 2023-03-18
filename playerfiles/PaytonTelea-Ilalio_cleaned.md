@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Payton Telea-Ilalio  
-date: 2023-03-04 11:35:35.807278  
+date: 2023-03-17 17:07:39.959083  
 categories: player  
 ---
 # Payton Telea-Ilalio
 
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 42.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,8 +21,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| American Raptors |             4 |        0   |
 | Austin Gilgronis |             4 |        0.5 |
-| American Raptors |             3 |        0   |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -33,3 +33,4 @@ categories: player
 | Penarol Rugby     |         1 |          0 |
 | Selknam           |         1 |          0 |
 | Utah Warriors     |         1 |          0 |
+| Yacare XV         |         1 |          0 |

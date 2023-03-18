@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Faustino Sánchez Valarolo  
-date: 2023-03-04 11:43:14.894544  
+date: 2023-03-17 17:06:14.003496  
 categories: player  
 ---
 # Faustino Sánchez Valarolo
 
 ## Positions: C
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: None
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,9 +21,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             2 |          1 |
+| Dogos XV |             4 |       0.75 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Cobras     |         1 |          1 |
-| Yacare XV  |         1 |          1 |
+| Opponent      |   Matches |   Win Rate |
+|:--------------|----------:|-----------:|
+| Cobras        |         1 |          1 |
+| Penarol Rugby |         1 |          0 |
+| Selknam       |         1 |          1 |
+| Yacare XV     |         1 |          1 |

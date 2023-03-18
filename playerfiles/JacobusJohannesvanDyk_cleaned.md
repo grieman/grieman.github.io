@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jacobus Johannes van Dyk  
-date: 2023-03-04 11:37:06.576716  
+date: 2023-03-17 17:09:22.726059  
 categories: player  
 ---
 # Jacobus Johannes van Dyk
 
 ## Positions: L, FL
 
-## Current elo: 103.0
+## Current elo: 105.0
 
-## Current Percentile: 76.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |             8 |      0.625 |
+| Yokohama Canon Eagles |             9 |   0.666667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -30,6 +30,7 @@ categories: player
 | Hanazono Kintetsu Liners          |         1 |        1   |
 | Kobelco Kobe Steelers             |         1 |        1   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        0.5 |
+| Mitsubishi Dynaboars              |         1 |        1   |
 | Saitama Wild Knights              |         1 |        0   |
 | Shizuoka Blue Revs                |         1 |        0.5 |
 | Tokyo Sungoliath                  |         1 |        0   |

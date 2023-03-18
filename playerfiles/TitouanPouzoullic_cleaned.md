@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Titouan Pouzoullic  
-date: 2023-01-17 11:40:48.204951  
+date: 2023-03-17 17:21:54.438455  
 categories: player  
 ---
 # Titouan Pouzoullic
 
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 

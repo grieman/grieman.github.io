@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gabriel Paganini  
-date: 2023-03-04 11:38:13.633987  
+date: 2023-03-17 17:42:30.038817  
 categories: player  
 ---
 # Gabriel Paganini
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Brazil
 
-## Current elo: 64.0
+## Current elo: 65.0
 
-## Current Percentile: 5.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            21 |   0.190476 |
+| Cobras |            23 |   0.173913 |
 | Brazil |            14 |   0.142857 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
+| Penarol Rugby |         5 |       0    |
 | Portugal      |         5 |       0.4  |
 | Cafeteros Pro |         4 |       0.5  |
 | Olimpia Lions |         4 |       0.25 |
-| Penarol Rugby |         4 |       0    |
 | Selknam       |         4 |       0.25 |
 | Germany       |         3 |       0    |
 | Jaguares XV   |         3 |       0    |
@@ -41,4 +41,5 @@ categories: player
 | Kenya         |         1 |       0    |
 | Pampas XV     |         1 |       0    |
 | Uruguay       |         1 |       0    |
+| Yacare XV     |         1 |       0    |
 | Zimbabwe      |         1 |       0    |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Anthony Aléo  
-date: 2023-01-17 11:33:57.628142  
+date: 2023-03-17 17:42:05.749415  
 categories: player  
 ---
 # Anthony Aléo
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 93.0
 
-## Current Percentile: 61.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,18 +21,19 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            34 |   0.632353 |
+| Valence Romans Drome Rugby |            38 |   0.618421 |
 | Beziers                    |            25 |   0.34     |
 | Montauban                  |            13 |   0.423077 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Soyaux-Angouleme           |         5 |   0.3      |
+| Soyaux-Angouleme           |         6 |   0.25     |
 | Albi                       |         3 |   0.333333 |
 | Chambery                   |         3 |   0.666667 |
 | Tarbes                     |         3 |   0.666667 |
 | Perpignan                  |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0        |
+| Nice                       |         3 |   0.666667 |
 | Grenoble                   |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.333333 |
 | Mont-de-Marsan             |         3 |   0        |
@@ -40,23 +41,22 @@ categories: player
 | Bourgoin-Jallieu           |         3 |   0.5      |
 | Biarritz Olympique         |         3 |   0.666667 |
 | Vannes                     |         3 |   0.333333 |
-| Dijon                      |         2 |   0.5      |
-| Nice                       |         2 |   1        |
-| Aurillac                   |         2 |   1        |
-| Rouen                      |         2 |   0        |
-| Dax                        |         2 |   0.5      |
 | Carcassonne                |         2 |   0.5      |
-| Cognac Saint Jean d'Angély |         2 |   1        |
+| Dax                        |         2 |   0.5      |
+| Aurillac                   |         2 |   1        |
+| Suresnes                   |         2 |   1        |
+| Rouen                      |         2 |   0        |
+| Rennes                     |         2 |   1        |
+| Massy                      |         2 |   0        |
 | Provence Rugby             |         2 |   0        |
+| Dijon                      |         2 |   0.5      |
 | Montauban                  |         2 |   1        |
 | Aubenas                    |         2 |   1        |
-| Massy                      |         2 |   0        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Nevers                     |         1 |   0        |
 | Narbonne                   |         1 |   1        |
-| Rennes                     |         1 |   1        |
 | Roval Drome XV             |         1 |   1        |
 | Beziers                    |         1 |   0        |
-| Suresnes                   |         1 |   1        |
 | US Bressane                |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
-| Carqueiranne-Hyères        |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Corentin Astier  
-date: 2023-03-12 11:31:34.123366  
+date: 2023-03-16 19:51:20.422167  
 categories: player  
 ---
 # Corentin Astier

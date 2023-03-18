@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: George Ford  
-date: 2023-02-17 13:02:50.299556  
+date: 2023-03-17 17:22:53.462554  
 categories: player  
 ---
 # George Ford
@@ -26,11 +26,12 @@ categories: player
 | Leicester Tigers |           145 |   0.568966 |
 | Bath Rugby       |            92 |   0.608696 |
 | England          |            82 |   0.70122  |
+| Sale Sharks      |             3 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Exeter Chiefs            |        20 |   0.55     |
-| Northampton Saints       |        20 |   0.475    |
+| Exeter Chiefs            |        21 |   0.52381  |
+| Northampton Saints       |        21 |   0.452381 |
 | Harlequins               |        20 |   0.475    |
 | Saracens                 |        18 |   0.305556 |
 | Gloucester Rugby         |        16 |   0.8125   |
@@ -38,7 +39,7 @@ categories: player
 | Newcastle Falcons        |        16 |   0.8125   |
 | Wales                    |        13 |   0.692308 |
 | Sale Sharks              |        13 |   0.615385 |
-| London Irish             |        11 |   1        |
+| London Irish             |        12 |   0.916667 |
 | Ireland                  |        11 |   0.545455 |
 | Bath Rugby               |        10 |   0.5      |
 | Leicester Tigers         |         9 |   0.611111 |

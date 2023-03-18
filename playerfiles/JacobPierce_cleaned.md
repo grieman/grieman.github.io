@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacob Pierce  
-date: 2023-02-02 18:56:09.898764  
+date: 2023-03-17 17:42:19.075950  
 categories: player  
 ---
 # Jacob Pierce
@@ -21,36 +21,34 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            16 |   0.6875   |
 | North Harbour             |            14 |   0.571429 |
+| Toshiba Brave Lupus Tokyo |            12 |   0.583333 |
 | Blues                     |             9 |   0.888889 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Toyota Verblitz                 |         3 |   0.666667 |
-| Shizuoka Blue Revs              |         3 |   1        |
-| Wellington                      |         2 |   0.5      |
+| Tokyo Sungoliath                |         3 |   0.333333 |
 | NTT Docomo Red Hurricanes Osaka |         2 |   1        |
-| Waikato                         |         2 |   0.5      |
-| Tokyo Sungoliath                |         2 |   0.5      |
-| Tasman                          |         2 |   0        |
-| Saitama Wild Knights            |         2 |   0        |
 | Queensland Reds                 |         2 |   1        |
-| Black Rams Tokyo                |         2 |   1        |
-| Taranaki                        |         1 |   1        |
-| Stormers                        |         1 |   1        |
-| Otago                           |         1 |   0        |
-| Northland                       |         1 |   1        |
-| Bay of Plenty                   |         1 |   1        |
-| Melbourne Rebels                |         1 |   1        |
-| Manawatu                        |         1 |   1        |
+| Waikato                         |         2 |   0.5      |
+| Toyota Verblitz                 |         2 |   0.5      |
+| Tasman                          |         2 |   0        |
+| Shizuoka Blue Revs              |         2 |   1        |
+| Saitama Wild Knights            |         2 |   0        |
+| Wellington                      |         2 |   0.5      |
 | Lions                           |         1 |   1        |
+| Manawatu                        |         1 |   1        |
+| Melbourne Rebels                |         1 |   1        |
+| Black Rams Tokyo                |         1 |   1        |
+| Northland                       |         1 |   1        |
+| Otago                           |         1 |   0        |
 | Hurricanes                      |         1 |   1        |
 | Highlanders                     |         1 |   1        |
 | Hawke's Bay                     |         1 |   1        |
-| Hanazono Kintetsu Liners        |         1 |   1        |
+| Stormers                        |         1 |   1        |
+| Taranaki                        |         1 |   1        |
 | Crusaders                       |         1 |   0        |
 | Counties Manukau                |         1 |   1        |
 | Canterbury                      |         1 |   0        |
 | Bulls                           |         1 |   1        |
-| Mitsubishi Dynaboars            |         1 |   0        |
+| Bay of Plenty                   |         1 |   1        |

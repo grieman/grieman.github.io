@@ -42,9 +42,9 @@ Last Round Error: 13.82 points per match
 
 [2023-03-11 Newcastle Falcons at Exeter Chiefs; 5.0-24.0](reviews//2023-03-11-ExeterChiefs-NewcastleFalcons)
 
-[2023-03-12 Leicester Tigers at Gloucester Rugby; 26.0-5.0](reviews//2023-03-12-GloucesterRugby-LeicesterTigers)
-
 [2023-03-12 Sale Sharks at London Irish; 18.0-36.0](reviews//2023-03-12-LondonIrish-SaleSharks)
+
+[2023-03-12 Leicester Tigers at Gloucester Rugby; 26.0-5.0](reviews//2023-03-12-GloucesterRugby-LeicesterTigers)
 
 [2023-03-12 Harlequins at Bristol Rugby; 26.0-51.0](reviews//2023-03-12-BristolRugby-Harlequins)
 ## Japan Rugby League One
@@ -52,13 +52,13 @@ Last Round Error: 13.82 points per match
 
 [In depth model review and projections for Japan Rugby League One 2022](comp_files/Japan_Rugby_League_One_2022)
 
-Competition Accuracy: 50 of 66 (75.76%)
+Competition Accuracy: 51 of 67 (76.12%)
 
-Competition Error: 14.69 points per match
+Competition Error: 14.76 points per match
 
 Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 14.82 points per match
+Last Round Error: 15.57 points per match
 
 [2023-03-10 Kobelco Kobe Steelers at Black Rams Tokyo; 26-41](reviews//2023-03-10-BlackRamsTokyo-KobelcoKobeSteelers)
 
@@ -67,6 +67,10 @@ Last Round Error: 14.82 points per match
 [2023-03-11 Toyota Verblitz at Hanazono Kintetsu Liners; 62-24](reviews//2023-03-11-HanazonoKintetsuLiners-ToyotaVerblitz)
 
 [2023-03-11 Kubota Spears Funabashi Tokyo-Bay at Shizuoka Blue Revs; 40-27](reviews//2023-03-11-ShizuokaBlueRevs-KubotaSpearsFunabashiTokyo-Bay)
+
+[2023-03-12 Yokohama Canon Eagles at Mitsubishi Dynaboars; 41-21](reviews//2023-03-12-MitsubishiDynaboars-YokohamaCanonEagles)
+
+[2023-03-12 Toshiba Brave Lupus Tokyo at Green Rockets Tokatsu; 49-20](reviews//2023-03-12-GreenRocketsTokatsu-ToshibaBraveLupusTokyo)
 ## Major League Rugby
 
 
@@ -78,13 +82,13 @@ Competition Error: 11.05 points per match
 
 Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 10.99 points per match
+Last Round Error: 10.94 points per match
 
 [2023-03-11 Old Glory DC at New England Free Jacks; 31-34](reviews//2023-03-11-NewEnglandFreeJacks-OldGloryDC)
 
-[2023-03-12 Dallas Jackals at San Diego Legion; 0-22](reviews//2023-03-12-SanDiegoLegion-DallasJackals)
-
 [2023-03-12 Toronto Arrows at Chicago Hounds; 27-26](reviews//2023-03-12-ChicagoHounds-TorontoArrows)
+
+[2023-03-12 Dallas Jackals at San Diego Legion; 0-22](reviews//2023-03-12-SanDiegoLegion-DallasJackals)
 
 [2023-03-12 Houston SaberCats at Seattle Seawolves; 12-24](reviews//2023-03-12-SeattleSeawolves-HoustonSaberCats)
 
@@ -94,13 +98,13 @@ Last Round Error: 10.99 points per match
 
 [In depth model review and projections for RFU Championship 2022](comp_files/RFU_Championship_2022)
 
-Competition Accuracy: 70 of 94 (74.47%)
+Competition Accuracy: 68 of 92 (73.91%)
 
-Competition Error: 14.42 points per match
+Competition Error: 14.14 points per match
 
 Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 16.48 points per match
+Last Round Error: 16.37 points per match
 
 [2023-03-10 Bedford at Hartpury College; 35-14](reviews//2023-03-10-HartpuryCollege-Bedford)
 ## Super Rugby Americas
@@ -110,11 +114,11 @@ Last Round Error: 16.48 points per match
 
 Competition Accuracy: 12 of 13 (92.31%)
 
-Competition Error: 7.33 points per match
+Competition Error: 7.73 points per match
 
 Last Round Accuracy: 4 of 4 (100.0%)
 
-Last Round Error: 7.91 points per match
+Last Round Error: 9.22 points per match
 
 [2023-03-10 Selknam at Dogos XV; 10-24](reviews//2023-03-10-DogosXV-Selknam)
 
@@ -126,13 +130,13 @@ Last Round Error: 7.91 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2022](comp_files/Super_Rugby_Pacific_2022)
 
-Competition Accuracy: 11 of 18 (61.11%)
+Competition Accuracy: 12 of 19 (63.16%)
 
-Competition Error: 16.1 points per match
+Competition Error: 15.5 points per match
 
 Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 8.83 points per match
+Last Round Error: 8.45 points per match
 
 [2023-03-10 Highlanders at Chiefs; 7.0-28.0](reviews//2023-03-10-Chiefs-Highlanders)
 
@@ -145,6 +149,8 @@ Last Round Error: 8.83 points per match
 [2023-03-11 Queensland Reds at Brumbies; 17.0-23.0](reviews//2023-03-11-Brumbies-QueenslandReds)
 
 [2023-03-11 Moana Pasifika at Western Force; 18.0-21.0](reviews//2023-03-11-WesternForce-MoanaPasifika)
+
+[2023-03-17 New South Wales Waratahs at Hurricanes; 17.0-34.0](reviews//2023-03-17-Hurricanes-NewSouthWalesWaratahs)
 # Domestic Leagues
 
 
@@ -152,13 +158,13 @@ Last Round Error: 8.83 points per match
 ## Currie Cup
 
 
-Competition Accuracy: 1 of 5 (20.0%)
+Competition Accuracy: 2 of 7 (28.57%)
 
-Competition Error: 31.87 points per match
+Competition Error: 26.64 points per match
 
 Last Round Accuracy: 1 of 4 (25.0%)
 
-Last Round Error: 33.56 points per match
+Last Round Error: 34.02 points per match
 
 [2023-03-10 Free State Cheetahs at Griquas; 42-19](reviews//2023-03-10-Griquas-FreeStateCheetahs)
 
@@ -167,6 +173,8 @@ Last Round Error: 33.56 points per match
 [2023-03-11 Western Province at Golden Lions; 44-28](reviews//2023-03-11-GoldenLions-WesternProvince)
 
 [2023-03-12 Pumas at Blue Bulls; 63-15](reviews//2023-03-12-BlueBulls-Pumas)
+
+[2023-03-17 Golden Lions at Pumas; 27-34](reviews//2023-03-17-Pumas-GoldenLions)
 
 [In depth model review and projections for Currie Cup First Division 2022](comp_files/Currie_Cup_First_Division_2022)
 ## Currie Cup First Division
@@ -196,11 +204,11 @@ Last Round Error: 9.27 points per match
 
 [2023-03-10 Tarbes at Bourgoin-Jallieu; 15-24](reviews//2023-03-10-Bourgoin-Jallieu-Tarbes)
 
-[2023-03-11 Albi at Dax; 11-6](reviews//2023-03-11-Dax-Albi)
+[2023-03-11 US Bressane at Nice; 12-14](reviews//2023-03-11-Nice-USBressane)
 
 [2023-03-11 Chambery at Narbonne; 24-17](reviews//2023-03-11-Narbonne-Chambery)
 
-[2023-03-11 US Bressane at Nice; 12-14](reviews//2023-03-11-Nice-USBressane)
+[2023-03-11 Albi at Dax; 11-6](reviews//2023-03-11-Dax-Albi)
 
 [2023-03-11 Valence Romans Drome Rugby at Suresnes; 47-15](reviews//2023-03-11-Suresnes-ValenceRomansDromeRugby)
 
@@ -212,12 +220,14 @@ Last Round Error: 9.27 points per match
 ## Pro D2
 
 
-Competition Accuracy: 126 of 184 (68.48%)
+Competition Accuracy: 126 of 185 (68.11%)
 
-Competition Error: 9.25 points per match
+Competition Error: 9.24 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 14.37 points per match
+Last Round Error: 12.79 points per match
 
 [2023-03-09 Grenoble at Aurillac; 20-16](reviews//2023-03-09-Aurillac-Grenoble)
+
+[2023-03-16 Agen at Massy; 22-16](reviews//2023-03-16-Massy-Agen)

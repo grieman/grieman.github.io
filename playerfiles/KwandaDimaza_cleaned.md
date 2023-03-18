@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kwanda Dimaza  
-date: 2023-03-16 11:31:16.739180  
+date: 2023-03-17 17:38:50.949072  
 categories: player  
 ---
 # Kwanda Dimaza
 
 ## Positions: N8, L
 
-## Current elo: 104.0
+## Current elo: 93.0
 
-## Current Percentile: None
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pumas  |            15 |   0.533333 |
+| Pumas  |            16 |     0.5625 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -29,4 +29,4 @@ categories: player
 | Griquas             |         4 |   0.625    |
 | Blue Bulls          |         3 |   0.333333 |
 | Western Province    |         3 |   0.5      |
-| Golden Lions        |         1 |   1        |
+| Golden Lions        |         2 |   1        |

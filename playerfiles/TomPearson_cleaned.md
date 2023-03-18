@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Pearson  
-date: 2023-02-02 18:48:30.585626  
+date: 2023-03-17 17:41:38.309479  
 categories: player  
 ---
 # Tom Pearson
 
 ## Positions: FL
 
-## Current elo: 138.0
+## Current elo: 140.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,22 +21,23 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| London Irish |            28 |   0.517857 |
+| London Irish |            33 |   0.560606 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Bath Rugby         |         3 |   0.666667 |
 | Bristol Rugby      |         3 |   0.666667 |
 | Exeter Chiefs      |         3 |   0.666667 |
 | Gloucester Rugby   |         3 |   0        |
-| Bath Rugby         |         2 |   0.5      |
+| Newcastle Falcons  |         3 |   1        |
 | Harlequins         |         2 |   1        |
-| Newcastle Falcons  |         2 |   1        |
+| Leicester Tigers   |         2 |   0        |
 | Northampton Saints |         2 |   0        |
+| Sale Sharks        |         2 |   0.75     |
 | Saracens           |         2 |   0.75     |
 | Stormers           |         2 |   0        |
 | Wasps              |         2 |   0.25     |
+| Castres Olympique  |         1 |   1        |
 | Edinburgh          |         1 |   1        |
-| Leicester Tigers   |         1 |   0        |
 | Pau                |         1 |   1        |
-| Sale Sharks        |         1 |   0.5      |
 | Worcester Warriors |         1 |   1        |

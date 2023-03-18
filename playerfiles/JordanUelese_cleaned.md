@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jordan Uelese  
-date: 2023-03-02 11:27:34.256734  
+date: 2023-03-17 17:25:56.709313  
 categories: player  
 ---
 # Jordan Uelese
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |            46 |   0.380435 |
+| Melbourne Rebels |            48 |   0.385417 |
 | Australia        |            16 |   0.4375   |
 | Melbourne Rising |             4 |   0        |
 
@@ -32,11 +32,11 @@ categories: player
 | Western Force            |         7 |  0.428571  |
 | Queensland Reds          |         7 |  0.214286  |
 | New Zealand              |         6 |  0.0833333 |
+| New South Wales Waratahs |         6 |  0.666667  |
 | Brumbies                 |         5 |  0.4       |
-| New South Wales Waratahs |         5 |  0.6       |
+| Hurricanes               |         4 |  0         |
 | Blues                    |         3 |  0.333333  |
 | Sunwolves                |         3 |  1         |
-| Hurricanes               |         3 |  0         |
 | Highlanders              |         3 |  0.666667  |
 | Chiefs                   |         3 |  0         |
 | Crusaders                |         2 |  0         |

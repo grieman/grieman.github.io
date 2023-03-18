@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mike Williams  
-date: 2023-03-02 11:27:02.331916  
+date: 2023-03-17 17:12:13.460586  
 categories: player  
 ---
 # Mike Williams
 
 ## Positions: FL, L
 
-## Current elo: 78.0
+## Current elo: 77.0
 
-## Current Percentile: 15.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -24,15 +24,16 @@ categories: player
 | Leicester Tigers   |            79 |   0.455696 |
 | Bath Rugby         |            45 |   0.366667 |
 | Worcester Warriors |            25 |   0.16     |
+| Exeter Chiefs      |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Exeter Chiefs        |        15 |   0.266667 |
+| Sale Sharks          |        13 |   0.461538 |
 | Harlequins           |        13 |   0.538462 |
 | Wasps                |        12 |   0.166667 |
-| Sale Sharks          |        12 |   0.416667 |
 | Worcester Warriors   |        11 |   0.636364 |
-| Newcastle Falcons    |        10 |   0.6      |
+| Newcastle Falcons    |        11 |   0.636364 |
 | Saracens             |        10 |   0.15     |
 | Gloucester Rugby     |        10 |   0.5      |
 | Northampton Saints   |         9 |   0.444444 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Shawn Clark  
-date: 2023-02-28 11:07:52.240976  
+date: 2023-03-17 17:21:49.963919  
 categories: player  
 ---
 # Shawn Clark
 
 ## Positions: FL, W
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 43.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,12 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
+| American Raptors |             5 |          0 |
 | Dallas Jackals   |             3 |          0 |
-| American Raptors |             1 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Penarol Rugby    |         2 |          0 |
 | Austin Gilgronis |         1 |          0 |
 | L. A. Giltinis   |         1 |          0 |
 | NOLA Gold        |         1 |          0 |
-| Penarol Rugby    |         1 |          0 |
+| Pampas XV        |         1 |          0 |
+| Selknam          |         1 |          0 |
+| Yacare XV        |         1 |          0 |

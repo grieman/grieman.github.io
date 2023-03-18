@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jesse Parete  
-date: 2023-03-16 11:31:15.612506  
+date: 2023-03-17 17:36:50.758407  
 categories: player  
 ---
 # Jesse Parete

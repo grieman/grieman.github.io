@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Reinach Venter  
-date: 2023-02-02 18:47:33.778907  
+date: 2023-03-17 17:00:47.603427  
 categories: player  
 ---
 # Reinach Venter
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 

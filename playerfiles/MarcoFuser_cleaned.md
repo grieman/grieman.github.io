@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Marco Fuser  
-date: 2023-01-13 11:37:12.485803  
+date: 2023-03-17 17:38:48.642852  
 categories: player  
 ---
 # Marco Fuser
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 109.0
+## Current elo: 103.0
 
-## Current Percentile: 79.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -25,12 +25,12 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Benetton Treviso  |           124 |   0.306452 |
 | Italy             |            42 |   0.333333 |
-| Newcastle Falcons |            18 |   0.444444 |
-| Massy             |            11 |   0.272727 |
+| Newcastle Falcons |            20 |   0.5      |
+| Massy             |            10 |   0.2      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Zebre                    |        12 |   0.666667 |
+| Zebre                    |        13 |   0.692308 |
 | Leinster                 |        11 |   0.136364 |
 | Edinburgh                |        10 |   0.4      |
 | Dragons                  |        10 |   0.4      |
@@ -53,42 +53,41 @@ categories: player
 | Japan                    |         3 |   0.333333 |
 | Agen                     |         3 |   0.333333 |
 | Georgia                  |         3 |   0.666667 |
-| Canada                   |         3 |   1        |
 | France                   |         3 |   0        |
+| Canada                   |         3 |   1        |
 | Bath Rugby               |         3 |   0.666667 |
+| South Africa             |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
 | Sale Sharks              |         2 |   0.5      |
 | Grenoble                 |         2 |   0.5      |
 | Racing 92                |         2 |   0        |
-| Toulon                   |         2 |   0        |
-| Australia                |         2 |   0        |
+| Worcester Warriors       |         2 |   1        |
 | Bristol Rugby            |         2 |   0        |
+| Fiji                     |         2 |   0.5      |
+| Australia                |         2 |   0        |
 | Montpellier Herault      |         2 |   0        |
 | Wales                    |         2 |   0.5      |
 | England                  |         2 |   0        |
-| Fiji                     |         2 |   0.5      |
-| South Africa             |         2 |   0.5      |
+| Toulon                   |         2 |   0        |
 | United States of America |         1 |   1        |
-| Southern Kings           |         1 |   1        |
-| Uruguay                  |         1 |   1        |
-| Vannes                   |         1 |   1        |
 | Tonga                    |         1 |   0        |
 | Stade Toulousain         |         1 |   0        |
 | Stade Francais Paris     |         1 |   0        |
-| Aurillac                 |         1 |   0        |
+| Uruguay                  |         1 |   1        |
 | Soyaux-Angouleme         |         1 |   0        |
-| Worcester Warriors       |         1 |   1        |
-| Rouen                    |         1 |   0        |
-| Saracens                 |         1 |   0        |
+| Southern Kings           |         1 |   1        |
+| Aurillac                 |         1 |   0        |
 | Romania                  |         1 |   1        |
+| Saracens                 |         1 |   0        |
+| Rouen                    |         1 |   0        |
 | Provence Rugby           |         1 |   1        |
 | Portugal                 |         1 |   1        |
 | Oyonnax                  |         1 |   0        |
 | Beziers                  |         1 |   0        |
 | Carcassonne              |         1 |   1        |
+| Lyon                     |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
-| London Irish             |         1 |   0        |
 | Colomiers                |         1 |   0        |
 | La Rochelle              |         1 |   0        |
 | Exeter Chiefs            |         1 |   0        |
-| Lyon                     |         1 |   1        |
+| London Irish             |         1 |   0        |

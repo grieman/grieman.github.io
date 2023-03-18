@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Coenie Oosthuizen  
-date: 2023-02-17 13:04:30.794386  
+date: 2023-03-17 17:30:02.760060  
 categories: player  
 ---
 # Coenie Oosthuizen
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 122.0
+## Current elo: 121.0
 
-## Current Percentile: 95.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Cheetahs            |            74 |   0.425676 |
-| Sale Sharks         |            68 |   0.625    |
+| Sale Sharks         |            72 |   0.604167 |
 | Sharks              |            44 |   0.511364 |
 | Free State Cheetahs |            33 |   0.545455 |
 | South Africa        |            30 |   0.75     |
@@ -36,15 +36,15 @@ categories: player
 | Bulls                    |        12 |   0.125    |
 | Stormers                 |        11 |   0.363636 |
 | Western Province         |        10 |   0.5      |
+| Exeter Chiefs            |        10 |   0.3      |
 | Blue Bulls               |         9 |   0.611111 |
 | Sharks                   |         9 |   0.444444 |
-| Exeter Chiefs            |         9 |   0.333333 |
+| Northampton Saints       |         8 |   0.75     |
 | Brumbies                 |         8 |   0.375    |
-| Northampton Saints       |         7 |   0.857143 |
+| London Irish             |         7 |   0.714286 |
 | Leicester Tigers         |         7 |   0.857143 |
 | Gloucester Rugby         |         6 |   0.666667 |
 | New South Wales Waratahs |         6 |   0.833333 |
-| London Irish             |         6 |   0.833333 |
 | Queensland Reds          |         6 |   0.166667 |
 | Hurricanes               |         6 |   0.333333 |
 | Golden Lions             |         6 |   0.416667 |
@@ -69,6 +69,7 @@ categories: player
 | France                   |         4 |   1        |
 | Leopards                 |         3 |   1        |
 | Australia                |         3 |   0.833333 |
+| Saracens                 |         3 |   0.333333 |
 | Scotland                 |         3 |   1        |
 | New Zealand              |         3 |   0        |
 | Sunwolves                |         2 |   1        |
@@ -77,7 +78,6 @@ categories: player
 | Free State Cheetahs      |         2 |   0.5      |
 | Italy                    |         2 |   1        |
 | Ireland                  |         2 |   0        |
-| Saracens                 |         2 |   0        |
 | Newcastle Falcons        |         2 |   0.5      |
 | Glasgow Warriors         |         1 |   0        |
 | United States of America |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Wikus Nieuwenhuis  
-date: 2023-03-12 11:30:34.146562  
+date: 2023-03-16 21:10:46.500306  
 categories: player  
 ---
 # Wikus Nieuwenhuis
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 72.0
+## Current Percentile: 71.0
 
 # Elo History
 

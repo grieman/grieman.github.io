@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Josh Basham  
-date: 2023-01-06 00:24:11.975786  
+date: 2023-03-17 17:35:17.184154  
 categories: player  
 ---
 # Josh Basham
 
 ## Positions: FL, N8
 
-## Current elo: 108.0
+## Current elo: 89.0
 
-## Current Percentile: 60.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,27 +21,31 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Newcastle Falcons |            17 |   0.294118 |
-| London Irish      |            15 |   0.333333 |
+| London Irish      |            21 |   0.452381 |
+| Newcastle Falcons |            19 |   0.315789 |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Bath Rugby           |         3 |   0.333333 |
-| Harlequins           |         3 |   0.333333 |
-| Saracens             |         3 |   0        |
-| Exeter Chiefs        |         3 |   0        |
-| Gloucester Rugby     |         3 |   0        |
-| Bristol Rugby        |         2 |   0        |
-| Krasny Yar           |         2 |   1        |
-| Worcester Warriors   |         2 |   1        |
-| Edinburgh            |         1 |   0        |
-| Castres Olympique    |         1 |   1        |
-| London Irish         |         1 |   0        |
-| Newcastle Falcons    |         1 |   1        |
-| Northampton Saints   |         1 |   0        |
-| Sale Sharks          |         1 |   1        |
-| Cardiff Blues        |         1 |   0        |
-| Stade Francais Paris |         1 |   0        |
-| Stormers             |         1 |   0        |
-| Wasps                |         1 |   1        |
-| Leicester Tigers     |         1 |   0        |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| Bath Rugby             |         3 |   0.333333 |
+| Exeter Chiefs          |         3 |   0        |
+| Gloucester Rugby       |         3 |   0        |
+| Harlequins             |         3 |   0.333333 |
+| Saracens               |         3 |   0        |
+| Bristol Rugby          |         3 |   0.333333 |
+| Newcastle Falcons      |         2 |   1        |
+| Worcester Warriors     |         2 |   1        |
+| Stormers               |         2 |   0        |
+| Krasny Yar             |         2 |   1        |
+| Sale Sharks            |         2 |   1        |
+| Wasps                  |         1 |   1        |
+| Stade Francais Paris   |         1 |   0        |
+| Northampton Saints     |         1 |   0        |
+| Leicester Tigers       |         1 |   0        |
+| Montpellier Herault    |         1 |   0.5      |
+| London Irish           |         1 |   0        |
+| Krasny Yar Krasnoyarsk |         1 |   1        |
+| Glasgow Warriors       |         1 |   0        |
+| Edinburgh              |         1 |   0        |
+| Castres Olympique      |         1 |   1        |
+| Cardiff Blues          |         1 |   0        |
+| Zebre                  |         1 |   1        |

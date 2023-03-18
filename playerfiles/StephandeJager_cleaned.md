@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephan de Jager  
-date: 2023-03-12 11:30:57.035558  
+date: 2023-03-17 17:28:12.838982  
 categories: player  
 ---
 # Stephan de Jager
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 

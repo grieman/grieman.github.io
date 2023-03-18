@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Manu Paea  
-date: 2023-03-02 11:23:42.579557  
+date: 2023-03-16 21:10:48.663745  
 categories: player  
 ---
 # Manu Paea
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 93.0
 
-## Current Percentile: 49.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -24,14 +24,14 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Auckland       |            11 |   0.545455 |
-| Moana Pasifika |             6 |   0.333333 |
+| Moana Pasifika |             8 |   0.25     |
 | Tonga          |             5 |   0.6      |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
+| Western Force |         2 |        0   |
 | North Harbour |         2 |        1   |
 | Hurricanes    |         2 |        0.5 |
-| Northland     |         1 |        0   |
 | Wellington    |         1 |        0   |
 | Waikato       |         1 |        0   |
 | Uruguay       |         1 |        1   |
@@ -39,13 +39,14 @@ categories: player
 | Taranaki      |         1 |        1   |
 | Southland     |         1 |        1   |
 | Samoa         |         1 |        0   |
+| Northland     |         1 |        0   |
 | Bay of Plenty |         1 |        0   |
 | Blues         |         1 |        0   |
-| Manawatu      |         1 |        1   |
 | Hong Kong     |         1 |        1   |
 | Fijian Drua   |         1 |        0   |
 | Fiji          |         1 |        0   |
 | Chile         |         1 |        1   |
+| Chiefs        |         1 |        0   |
 | Canterbury    |         1 |        0   |
 | Brumbies      |         1 |        1   |
-| Western Force |         1 |        0   |
+| Manawatu      |         1 |        1   |

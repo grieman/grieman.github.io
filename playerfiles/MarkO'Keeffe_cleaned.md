@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mark O'Keeffe  
-date: 2023-03-09 10:09:07.579300  
+date: 2023-03-17 17:20:44.464749  
 categories: player  
 ---
 # Mark O'Keeffe
 
 ## Positions: C, W
 
-## Current elo: 41.0
+## Current elo: 34.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -25,14 +25,14 @@ categories: player
 | Rugby ATL        |            14 |   0.5      |
 | R.U. New York    |            13 |   0.692308 |
 | Rugby New York   |            12 |   0.666667 |
-| Chicago Hounds   |             2 |   0        |
+| Chicago Hounds   |             3 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Utah Warriors          |         6 |   0.666667 |
 | Seattle Seawolves      |         6 |   0.5      |
 | San Diego Legion       |         6 |   0.333333 |
-| Toronto Arrows         |         4 |   0.75     |
+| Toronto Arrows         |         5 |   0.6      |
 | Houston SaberCats      |         4 |   1        |
 | L. A. Giltinis         |         4 |   0.5      |
 | NOLA Gold              |         4 |   1        |

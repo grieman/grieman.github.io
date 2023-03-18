@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mack Hansen  
-date: 2023-02-02 19:00:29.171475  
+date: 2023-03-16 21:12:24.807877  
 categories: player  
 ---
 # Mack Hansen
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Ireland
 
-## Current elo: 89.0
+## Current elo: 95.0
 
-## Current Percentile: 38.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -23,49 +23,49 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Connacht         |            22 |   0.5      |
+| Connacht         |            24 |   0.458333 |
 | Brumbies         |            21 |   0.619048 |
-| Canberra Vikings |            14 |   0.785714 |
-| Ireland          |             9 |   0.888889 |
+| Canberra Vikings |            16 |   0.75     |
+| Ireland          |            13 |   0.923077 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Western Force            |         5 |   0.8      |
-| New South Wales Waratahs |         4 |   1        |
+| Western Force            |         6 |   0.666667 |
+| Fijian Drua              |         4 |   0.75     |
 | Queensland Reds          |         4 |   0.25     |
+| New South Wales Waratahs |         4 |   1        |
+| Leinster                 |         4 |   0        |
 | Melbourne Rebels         |         4 |   0.75     |
 | Munster                  |         3 |   0.666667 |
 | Sydney Rays              |         3 |   1        |
-| Fijian Drua              |         3 |   0.666667 |
-| Sharks                   |         2 |   0.5      |
 | NSW Country Eagles       |         2 |   1        |
-| Bulls                    |         2 |   0.5      |
+| Sharks                   |         2 |   0.5      |
+| New Zealand              |         2 |   1        |
 | Melbourne Rising         |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
-| Leinster                 |         2 |   0        |
-| New Zealand              |         2 |   1        |
+| Scotland                 |         2 |   1        |
+| Italy                    |         2 |   1        |
+| France                   |         2 |   0.5      |
+| Bulls                    |         2 |   0.5      |
 | Ulster                   |         2 |   0.5      |
-| Newcastle Falcons        |         1 |   0        |
-| Scarlets                 |         1 |   1        |
-| Blues                    |         1 |   0        |
+| Wales                    |         2 |   1        |
 | South Africa             |         1 |   1        |
-| Queensland Country       |         1 |   0        |
+| Ospreys                  |         1 |   1        |
 | Stade Francais Paris     |         1 |   0        |
 | Stormers                 |         1 |   0        |
-| Wales                    |         1 |   1        |
-| Ospreys                  |         1 |   1        |
-| Scotland                 |         1 |   1        |
-| Brive                    |         1 |   1        |
+| Scarlets                 |         1 |   1        |
+| Blues                    |         1 |   0        |
+| Queensland Country       |         1 |   0        |
+| Cardiff Blues            |         1 |   0        |
+| Newcastle Falcons        |         1 |   0        |
 | Brisbane City            |         1 |   1        |
+| Chiefs                   |         1 |   0        |
 | Lions                    |         1 |   1        |
-| Italy                    |         1 |   1        |
+| Brive                    |         1 |   1        |
 | Hurricanes               |         1 |   1        |
 | Highlanders              |         1 |   0        |
 | Greater Sydney Rams      |         1 |   1        |
-| France                   |         1 |   0        |
 | Fiji                     |         1 |   1        |
 | Dragons                  |         1 |   0        |
 | Crusaders                |         1 |   0        |
-| Chiefs                   |         1 |   0        |
-| Cardiff Blues            |         1 |   0        |
 | Australia                |         1 |   1        |

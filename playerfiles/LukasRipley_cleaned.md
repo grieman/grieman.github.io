@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lukas Ripley  
-date: 2023-03-02 11:27:14.544743  
+date: 2023-03-17 17:43:11.949814  
 categories: player  
 ---
 # Lukas Ripley
 
 ## Positions: C, W
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: 35.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,14 +21,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |             7 |   0.142857 |
+| Melbourne Rebels |             9 |   0.222222 |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Blues         |         1 |          0 |
-| Brumbies      |         1 |          0 |
-| Chiefs        |         1 |          0 |
-| Fijian Drua   |         1 |          0 |
-| Highlanders   |         1 |          1 |
-| Hurricanes    |         1 |          0 |
-| Western Force |         1 |          0 |
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Hurricanes               |         2 |          0 |
+| Blues                    |         1 |          0 |
+| Brumbies                 |         1 |          0 |
+| Chiefs                   |         1 |          0 |
+| Fijian Drua              |         1 |          0 |
+| Highlanders              |         1 |          1 |
+| New South Wales Waratahs |         1 |          1 |
+| Western Force            |         1 |          0 |

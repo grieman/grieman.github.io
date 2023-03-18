@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Grégory Querin  
-date: 2023-01-23 15:32:00.758610  
+date: 2023-03-17 17:24:19.155483  
 categories: player  
 ---
 # Grégory Querin
 
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 88.0
 
-## Current Percentile: 55.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,19 +21,19 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            13 |   0.153846 |
+| Rennes |            18 |   0.277778 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Suresnes                   |         2 |          0 |
-| Albi                       |         1 |          0 |
-| Blagnac                    |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Chambery                   |         1 |          0 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
-| Narbonne                   |         1 |          0 |
-| Tarbes                     |         1 |          0 |
-| US Bressane                |         1 |          0 |
-| Valence Romans Drome Rugby |         1 |          0 |
+| Cognac Saint Jean d'Angély |         3 |        1   |
+| Blagnac                    |         2 |        0   |
+| Chambery                   |         2 |        0.5 |
+| Suresnes                   |         2 |        0   |
+| US Bressane                |         2 |        0   |
+| Albi                       |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Carqueiranne-Hyères        |         1 |        1   |
+| Dax                        |         1 |        0   |
+| Narbonne                   |         1 |        0   |
+| Tarbes                     |         1 |        0   |
+| Valence Romans Drome Rugby |         1 |        0   |

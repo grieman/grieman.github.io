@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita Tatafu  
-date: 2023-02-02 18:43:57.396242  
+date: 2023-03-17 17:07:00.193545  
 categories: player  
 ---
 # Tevita Tatafu
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 97.0
+## Current elo: 96.0
 
 ## Current Percentile: None
 
@@ -23,30 +23,31 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            22 |   0.818182 |
+| Tokyo Sungoliath |            22 |   0.772727 |
 | Japan            |            11 |   0.181818 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| France                            |         3 |   0        |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
-| Yokohama Canon Eagles             |         2 |   1        |
-| Urayasu D-Rocks                   |         2 |   1        |
-| Green Rockets Tokatsu             |         2 |   1        |
-| Toyota Verblitz                   |         2 |   1        |
-| Kobelco Kobe Steelers             |         2 |   0.5      |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
-| Black Rams Tokyo                  |         2 |   1        |
-| Portugal                          |         1 |   1        |
-| Uruguay                           |         1 |   1        |
-| Shizuoka Blue Revs                |         1 |   1        |
-| Scotland                          |         1 |   0        |
-| Australia                         |         1 |   0        |
-| New Zealand                       |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
-| Ireland                           |         1 |   0        |
-| Hino Red Dolphins                 |         1 |   1        |
-| Hanazono Kintetsu Liners          |         1 |   1        |
-| England                           |         1 |   0        |
-| British and Irish Lions           |         1 |   0        |
-| Mitsubishi Dynaboars              |         1 |   1        |
+| Toshiba Brave Lupus Tokyo         |         4 |        0.5 |
+| France                            |         3 |        0   |
+| Toyota Verblitz                   |         3 |        1   |
+| Urayasu D-Rocks                   |         2 |        1   |
+| Saitama Wild Knights              |         2 |        0   |
+| Black Rams Tokyo                  |         2 |        1   |
+| Australia                         |         1 |        0   |
+| New Zealand                       |         1 |        0   |
+| Uruguay                           |         1 |        1   |
+| Shizuoka Blue Revs                |         1 |        1   |
+| Scotland                          |         1 |        0   |
+| Portugal                          |         1 |        1   |
+| Munakata Sanix Blues              |         1 |        1   |
+| NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
+| Mitsubishi Dynaboars              |         1 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        1   |
+| Kobelco Kobe Steelers             |         1 |        0   |
+| Ireland                           |         1 |        0   |
+| Hino Red Dolphins                 |         1 |        1   |
+| Green Rockets Tokatsu             |         1 |        1   |
+| England                           |         1 |        0   |
+| British and Irish Lions           |         1 |        0   |
+| Yokohama Canon Eagles             |         1 |        1   |

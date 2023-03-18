@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul BELZONS  
-date: 2023-03-16 11:29:44.852141  
+date: 2023-03-17 17:19:52.181421  
 categories: player  
 ---
 # Paul BELZONS
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 37.0
+## Current Percentile: 38.0
 
 # Elo History
 

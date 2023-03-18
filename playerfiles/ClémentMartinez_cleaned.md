@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Clément Martinez  
-date: 2023-02-24 02:21:51.254900  
+date: 2023-03-17 17:41:08.230191  
 categories: player  
 ---
 # Clément Martinez
 
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 113.0
 
-## Current Percentile: 79.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |             6 |       0.75 |
+| Agen   |             8 |     0.8125 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Beziers            |         1 |        0   |
+| Massy              |         2 |        1   |
 | Biarritz Olympique |         1 |        1   |
-| Massy              |         1 |        1   |
+| Colomiers          |         1 |        0   |
 | Provence Rugby     |         1 |        0.5 |
 | Rouen              |         1 |        1   |
+| Soyaux-Angouleme   |         1 |        1   |
 | Vannes             |         1 |        1   |

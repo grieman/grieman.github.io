@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gaspar Moltedo  
-date: 2023-03-11 00:16:21.386392  
+date: 2023-03-17 17:41:55.060804  
 categories: player  
 ---
 # Gaspar Moltedo
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 50.0
+## Current Percentile: 49.0
 
 # Elo History
 

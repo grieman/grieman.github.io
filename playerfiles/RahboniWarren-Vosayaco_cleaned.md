@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Rahboni Warren-Vosayaco  
-date: 2023-03-12 11:32:03.931593  
+date: 2023-03-17 17:30:01.317494  
 categories: player  
 ---
 # Rahboni Warren-Vosayaco
 
 ## Positions: N8
 
-## Current elo: 84.0
+## Current elo: 80.0
 
-## Current Percentile: 23.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -26,32 +26,33 @@ categories: player
 | Urayasu D-Rocks          |             9 |   0.611111 |
 | Munakata Sanix Blues     |             8 |   0.375    |
 | Greater Sydney Rams      |             1 |   0        |
+| Western Force            |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Chiefs                            |         4 |   0.25     |
+| Highlanders                       |         3 |   0        |
 | New South Wales Waratahs          |         3 |   0.333333 |
 | Queensland Reds                   |         3 |   0        |
-| Highlanders                       |         3 |   0        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
-| Sharks                            |         2 |   0        |
-| Brumbies                          |         2 |   0        |
-| Bulls                             |         2 |   1        |
 | Melbourne Rebels                  |         2 |   0        |
-| Crusaders                         |         2 |   0.5      |
-| Green Rockets Tokatsu             |         2 |   0.5      |
 | Blues                             |         2 |   0        |
 | Kobelco Kobe Steelers             |         2 |   0.25     |
+| Sharks                            |         2 |   0        |
 | Hurricanes                        |         2 |   0        |
-| Toyota Industries Shuttles Aichi  |         1 |   1        |
+| Moana Pasifika                    |         2 |   1        |
+| Green Rockets Tokatsu             |         2 |   0.5      |
+| Crusaders                         |         2 |   0.5      |
+| Bulls                             |         2 |   1        |
+| Brumbies                          |         2 |   0        |
+| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Shizuoka Blue Revs                |         1 |   0        |
-| Munakata Sanix Blues              |         1 |   1        |
 | Toyota Verblitz                   |         1 |   1        |
 | Urayasu D-Rocks                   |         1 |   0        |
 | Western Force                     |         1 |   1        |
-| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
+| Toyota Industries Shuttles Aichi  |         1 |   1        |
 | Black Rams Tokyo                  |         1 |   0        |
-| Moana Pasifika                    |         1 |   1        |
+| Munakata Sanix Blues              |         1 |   1        |
 | Mie Honda Heat                    |         1 |   1        |
 | Lions                             |         1 |   0        |
 | Jaguares                          |         1 |   0        |

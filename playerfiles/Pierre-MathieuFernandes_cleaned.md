@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pierre-Mathieu Fernandes  
-date: 2023-02-05 15:11:32.906825  
+date: 2023-03-17 17:04:17.765663  
 categories: player  
 ---
 # Pierre-Mathieu Fernandes
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 102.0
 
-## Current Percentile: 66.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |             5 |        0.6 |
-| Portugal |             1 |        1   |
+| Chambery |             6 |   0.666667 |
+| Portugal |             1 |   1        |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
+| Narbonne    |         2 |          1 |
 | Belgium     |         1 |          1 |
 | Blagnac     |         1 |          0 |
-| Narbonne    |         1 |          1 |
 | Nice        |         1 |          1 |
 | Tarbes      |         1 |          1 |
 | US Bressane |         1 |          0 |

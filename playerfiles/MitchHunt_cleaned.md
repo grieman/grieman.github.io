@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mitch Hunt  
-date: 2023-03-02 11:22:09.096110  
+date: 2023-03-17 17:29:21.727436  
 categories: player  
 ---
 # Mitch Hunt
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Crusaders
 
-## Current elo: 123.0
+## Current elo: 122.0
 
 ## Current Percentile: 94.0
 
@@ -25,16 +25,16 @@ categories: player
 |:------------|--------------:|-----------:|
 | Crusaders   |            54 |   0.833333 |
 | Tasman      |            50 |   0.71     |
-| Highlanders |            40 |   0.4      |
+| Highlanders |            42 |   0.380952 |
 | Auckland    |            10 |   0.65     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Hurricanes               |        14 |   0.428571 |
 | Blues                    |        13 |   0.461538 |
-| Chiefs                   |        11 |   0.636364 |
+| Chiefs                   |        12 |   0.583333 |
 | Canterbury               |         9 |   0.111111 |
-| Crusaders                |         7 |   0.142857 |
+| Crusaders                |         8 |   0.125    |
 | Highlanders              |         7 |   0.857143 |
 | Auckland                 |         6 |   0.833333 |
 | Waikato                  |         6 |   0.5      |

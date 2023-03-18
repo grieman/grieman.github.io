@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Dino Lamb  
-date: 2023-02-02 19:10:02.639882  
+date: 2023-03-17 17:28:22.618638  
 categories: player  
 ---
 # Dino Lamb
 
-## Positions: L, FL
+## Positions: L
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 94.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            68 |   0.544118 |
+| Harlequins |            71 |   0.535211 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -29,14 +29,14 @@ categories: player
 | Northampton Saints |         6 |   0.5      |
 | Sale Sharks        |         6 |   0.666667 |
 | Worcester Warriors |         6 |   0.666667 |
+| Bristol Rugby      |         5 |   0.4      |
 | Saracens           |         5 |   0.4      |
+| Exeter Chiefs      |         4 |   0.75     |
+| Gloucester Rugby   |         4 |   0.75     |
 | Leicester Tigers   |         4 |   0.25     |
 | London Irish       |         4 |   0.5      |
-| Bristol Rugby      |         4 |   0.5      |
 | Ulster             |         4 |   0        |
 | Wasps              |         4 |   0.5      |
-| Exeter Chiefs      |         3 |   0.666667 |
-| Gloucester Rugby   |         3 |   1        |
 | Newcastle Falcons  |         3 |   1        |
 | Sharks             |         2 |   0.5      |
 | Clermont Auvergne  |         1 |   0        |

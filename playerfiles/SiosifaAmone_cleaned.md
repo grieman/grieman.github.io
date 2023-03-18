@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Siosifa Amone  
-date: 2023-03-02 11:26:07.656402  
+date: 2023-03-17 17:13:19.560483  
 categories: player  
 ---
 # Siosifa Amone
 
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,10 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Western Force |             1 |          1 |
+| Western Force |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Melbourne Rebels |         1 |          1 |
+| Moana Pasifika   |         1 |          1 |
+| Queensland Reds  |         1 |          0 |

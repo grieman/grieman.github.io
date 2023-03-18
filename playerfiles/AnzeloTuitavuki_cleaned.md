@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Anzelo Tuitavuki  
-date: 2023-03-04 11:41:39.975424  
+date: 2023-03-17 17:13:07.763839  
 categories: player  
 ---
 # Anzelo Tuitavuki
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 70.0
 
-## Current Percentile: 4.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -23,22 +23,23 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
+| Moana Pasifika |             6 |   0.166667 |
 | Tonga          |             6 |   0.666667 |
 | Hawke's Bay    |             5 |   0.6      |
-| Moana Pasifika |             4 |   0.25     |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Chiefs     |         2 |        0   |
-| Otago      |         2 |        0.5 |
-| Blues      |         1 |        0   |
-| Brumbies   |         1 |        1   |
-| Chile      |         1 |        1   |
-| Fiji       |         1 |        0   |
-| Hong Kong  |         1 |        1   |
-| Manawatu   |         1 |        1   |
-| Samoa      |         1 |        0   |
-| Southland  |         1 |        1   |
-| Spain      |         1 |        1   |
-| Taranaki   |         1 |        0   |
-| Uruguay    |         1 |        1   |
+| Opponent      |   Matches |   Win Rate |
+|:--------------|----------:|-----------:|
+| Chiefs        |         3 |        0   |
+| Otago         |         2 |        0.5 |
+| Blues         |         1 |        0   |
+| Brumbies      |         1 |        1   |
+| Chile         |         1 |        1   |
+| Fiji          |         1 |        0   |
+| Hong Kong     |         1 |        1   |
+| Manawatu      |         1 |        1   |
+| Samoa         |         1 |        0   |
+| Southland     |         1 |        1   |
+| Spain         |         1 |        1   |
+| Taranaki      |         1 |        0   |
+| Uruguay       |         1 |        1   |
+| Western Force |         1 |        0   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Wrafter  
-date: 2023-02-02 18:42:13.632156  
+date: 2023-03-16 21:11:08.528118  
 categories: player  
 ---
 # Joe Wrafter
 
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 43.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -22,21 +22,21 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Bedford          |            19 |   0.421053 |
-| Hartpury College |             7 |   0.857143 |
+| Hartpury College |             9 |   0.777778 |
 | Doncaster        |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Coventry            |         4 |        0.5 |
-| Doncaster           |         4 |        0.5 |
-| Ealing Trailfinders |         3 |        0   |
-| Cornish Pirates     |         2 |        0.5 |
-| Hartpury College    |         2 |        1   |
-| Jersey              |         2 |        0.5 |
-| London Scottish     |         2 |        1   |
-| Newcastle Falcons   |         2 |        0   |
-| Nottingham          |         2 |        0.5 |
-| Richmond            |         2 |        1   |
-| Ampthill            |         1 |        1   |
-| Bedford             |         1 |        1   |
-| Yorkshire Carnegie  |         1 |        1   |
+| Coventry            |         4 |   0.5      |
+| Doncaster           |         4 |   0.5      |
+| Ealing Trailfinders |         3 |   0        |
+| Nottingham          |         3 |   0.666667 |
+| Bedford             |         2 |   0.5      |
+| Cornish Pirates     |         2 |   0.5      |
+| Hartpury College    |         2 |   1        |
+| Jersey              |         2 |   0.5      |
+| London Scottish     |         2 |   1        |
+| Newcastle Falcons   |         2 |   0        |
+| Richmond            |         2 |   1        |
+| Ampthill            |         1 |   1        |
+| Yorkshire Carnegie  |         1 |   1        |

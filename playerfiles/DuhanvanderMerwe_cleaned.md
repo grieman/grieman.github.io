@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Duhan van der Merwe  
-date: 2023-02-02 18:55:33.387420  
+date: 2023-03-17 17:32:01.905457  
 categories: player  
 ---
 # Duhan van der Merwe
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 64.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,56 +23,57 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Edinburgh               |            68 |   0.639706 |
-| Scotland                |            20 |   0.55     |
-| Worcester Warriors      |            13 |   0.384615 |
+| Edinburgh               |            74 |   0.614865 |
+| Scotland                |            24 |   0.541667 |
+| Worcester Warriors      |            15 |   0.333333 |
 | British and Irish Lions |             4 |   0.5      |
 | Montpellier Herault     |             4 |   0.25     |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Glasgow Warriors     |        14 |   0.571429 |
-| Munster              |         7 |   0.285714 |
-| Scarlets             |         5 |   1        |
-| Dragons              |         4 |   0.75     |
-| Newcastle Falcons    |         4 |   0.75     |
-| Southern Kings       |         4 |   1        |
-| South Africa         |         4 |   0.25     |
-| Argentina            |         4 |   0.5      |
-| Cardiff Blues        |         4 |   0.5      |
-| Ulster               |         4 |   0.25     |
-| Wales                |         3 |   0.333333 |
-| Stade Francais Paris |         3 |   0.666667 |
-| Connacht             |         3 |   1        |
-| Leinster             |         3 |   0.666667 |
-| Japan                |         2 |   1        |
-| Saracens             |         2 |   0        |
-| Zebre                |         2 |   0.5      |
-| France               |         2 |   0.5      |
-| England              |         2 |   1        |
-| Cheetahs             |         2 |   0.5      |
-| Wasps                |         2 |   1        |
-| Bordeaux Begles      |         2 |   0.25     |
-| Benetton Treviso     |         2 |   1        |
-| Bath Rugby           |         2 |   0.5      |
-| Australia            |         2 |   0.5      |
-| Northampton Saints   |         2 |   0        |
-| Ospreys              |         1 |   0        |
-| Toulon               |         1 |   1        |
-| Sale Sharks          |         1 |   1        |
-| Racing 92            |         1 |   0        |
-| Pau                  |         1 |   0        |
-| Agen                 |         1 |   1        |
-| New Zealand          |         1 |   0        |
-| Montpellier Herault  |         1 |   1        |
-| London Irish         |         1 |   0        |
-| Leicester Tigers     |         1 |   0        |
-| Krasny Yar           |         1 |   1        |
-| Italy                |         1 |   1        |
-| Ireland              |         1 |   0        |
-| Georgia              |         1 |   1        |
-| Fiji                 |         1 |   1        |
-| Exeter Chiefs        |         1 |   0        |
-| Castres Olympique    |         1 |   1        |
-| Bristol Rugby        |         1 |   1        |
-| La Rochelle          |         1 |   0        |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| Glasgow Warriors       |        15 |   0.533333 |
+| Munster                |         7 |   0.285714 |
+| Newcastle Falcons      |         5 |   0.6      |
+| Scarlets               |         5 |   1        |
+| Dragons                |         4 |   0.75     |
+| Southern Kings         |         4 |   1        |
+| Argentina              |         4 |   0.5      |
+| South Africa           |         4 |   0.25     |
+| Leinster               |         4 |   0.5      |
+| Cardiff Blues          |         4 |   0.5      |
+| Ulster                 |         4 |   0.25     |
+| Wales                  |         4 |   0.5      |
+| Connacht               |         3 |   1        |
+| Stade Francais Paris   |         3 |   0.666667 |
+| England                |         3 |   1        |
+| France                 |         3 |   0.333333 |
+| Toulon                 |         2 |   0.5      |
+| Saracens               |         2 |   0        |
+| Sale Sharks            |         2 |   1        |
+| Racing 92              |         2 |   0        |
+| Northampton Saints     |         2 |   0        |
+| Wasps                  |         2 |   1        |
+| La Rochelle            |         2 |   0        |
+| Zebre                  |         2 |   0.5      |
+| Australia              |         2 |   0.5      |
+| Bath Rugby             |         2 |   0.5      |
+| Benetton Treviso       |         2 |   1        |
+| Bordeaux Begles        |         2 |   0.25     |
+| Japan                  |         2 |   1        |
+| Cheetahs               |         2 |   0.5      |
+| Ireland                |         2 |   0        |
+| Leicester Tigers       |         1 |   0        |
+| Fiji                   |         1 |   1        |
+| Bristol Rugby          |         1 |   1        |
+| Castres Olympique      |         1 |   1        |
+| Exeter Chiefs          |         1 |   0        |
+| Georgia                |         1 |   1        |
+| Krasny Yar Krasnoyarsk |         1 |   1        |
+| Pau                    |         1 |   0        |
+| Ospreys                |         1 |   0        |
+| Italy                  |         1 |   1        |
+| New Zealand            |         1 |   0        |
+| Krasny Yar             |         1 |   1        |
+| Montpellier Herault    |         1 |   1        |
+| London Irish           |         1 |   0        |
+| Agen                   |         1 |   1        |

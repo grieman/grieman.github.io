@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Paul Sauzaret  
-date: 2023-01-17 11:33:23.428145  
+date: 2023-03-17 17:25:17.645485  
 categories: player  
 ---
 # Paul Sauzaret
 
 ## Positions: 
 
-## Current elo: 91.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Bradley Davids  
-date: 2023-02-05 15:10:18.958860  
+date: 2023-03-17 17:35:13.173648  
 categories: player  
 ---
 # Bradley Davids
 
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 100.0
 
 ## Current Percentile: None
 
@@ -17,12 +17,13 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Natal Sharks |             3 |   0.666667 |
-| Sharks       |             2 |   0        |
+| Natal Sharks |             4 |       0.75 |
+| Sharks       |             2 |       0    |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Cardiff Blues    |         1 |          0 |
+| Griffons         |         1 |          1 |
 | Griquas          |         1 |          1 |
 | Pumas            |         1 |          1 |
 | Stormers         |         1 |          0 |

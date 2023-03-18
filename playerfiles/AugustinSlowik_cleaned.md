@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Augustin Slowik  
-date: 2023-02-02 19:02:00.193586  
+date: 2023-03-17 17:01:31.529776  
 categories: player  
 ---
 # Augustin Slowik
 
-## Positions: FB, W
+## Positions: W, FB
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 55.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Nice            |            40 |   0.625    |
+| Nice            |            43 |   0.604651 |
 | Jersey          |            31 |   0.564516 |
 | London Scottish |             2 |   0        |
 | Sydney Rays     |             1 |   0        |
@@ -40,22 +40,22 @@ categories: player
 | London Irish               |         3 |   0.333333 |
 | Ealing Trailfinders        |         3 |   0        |
 | Yorkshire Carnegie         |         3 |   0.666667 |
-| Bourgoin-Jallieu           |         3 |   0.333333 |
 | Cognac Saint Jean d'Angély |         3 |   0.666667 |
+| Bourgoin-Jallieu           |         3 |   0.333333 |
+| Narbonne                   |         2 |   0        |
+| Valence Romans Drome Rugby |         2 |   0        |
+| US Bressane                |         2 |   1        |
 | Bedford                    |         2 |   0.5      |
 | Suresnes                   |         2 |   1        |
 | Blagnac                    |         2 |   0.5      |
 | Coventry                   |         2 |   0.5      |
 | Dijon                      |         2 |   0.5      |
 | Newcastle Falcons          |         2 |   0        |
-| Brisbane City              |         1 |   0        |
-| Bristol Rugby              |         1 |   0        |
-| Narbonne                   |         1 |   0        |
 | Cornish Pirates            |         1 |   1        |
-| Hartpury College           |         1 |   1        |
+| Brisbane City              |         1 |   0        |
 | Richmond                   |         1 |   1        |
 | Rotherham Titans           |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
+| Bristol Rugby              |         1 |   0        |
+| Hartpury College           |         1 |   1        |
 | Ampthill                   |         1 |   1        |
-| US Bressane                |         1 |   1        |
-| Valence Romans Drome Rugby |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Paul SAJOUS  
-date: 2023-03-16 11:30:09.143433  
+date: 2023-03-17 17:07:33.631655  
 categories: player  
 ---
 # Paul SAJOUS
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 11.0
 
 # Elo History
 

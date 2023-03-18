@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tiennan Costley  
-date: 2023-03-04 11:39:36.401073  
+date: 2023-03-17 17:34:00.843957  
 categories: player  
 ---
 # Tiennan Costley
 
-## Positions: N8
+## Positions: N8, FL
 
-## Current elo: 88.0
+## Current elo: 94.0
 
-## Current Percentile: None
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,8 +21,9 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             1 |          0 |
+| Kobelco Kobe Steelers |             2 |          0 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
+| Black Rams Tokyo          |         1 |          0 |
 | Toshiba Brave Lupus Tokyo |         1 |          0 |

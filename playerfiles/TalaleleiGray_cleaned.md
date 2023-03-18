@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Talalelei Gray  
-date: 2023-01-13 11:23:47.738796  
+date: 2023-03-16 19:55:07.615907  
 categories: player  
 ---
 # Talalelei Gray
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 97.0
+## Current elo: 95.0
 
-## Current Percentile: 50.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -24,16 +24,16 @@ categories: player
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
 | Stade Toulousain         |            64 |   0.53125  |
-| Stade Francais Paris     |            45 |   0.411111 |
+| Stade Francais Paris     |            47 |   0.393617 |
 | Biarritz Olympique       |            30 |   0.383333 |
-| Grenoble                 |             9 |   0.444444 |
 | NSW Country Eagles       |             9 |   0.666667 |
+| Grenoble                 |             8 |   0.4375   |
 | Samoa                    |             3 |   0.666667 |
 | New South Wales Waratahs |             2 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Racing 92            |        12 |   0.25     |
+| Racing 92            |        14 |   0.214286 |
 | Montpellier Herault  |        12 |   0.208333 |
 | Toulon               |        12 |   0.416667 |
 | Brive                |        12 |   0.625    |
@@ -53,7 +53,6 @@ categories: player
 | Harlequins           |         2 |   0        |
 | Stade Francais Paris |         2 |   1        |
 | Brisbane City        |         2 |   0        |
-| Provence Rugby       |         2 |   0.25     |
 | Wasps                |         2 |   0.25     |
 | Western Force        |         2 |   0        |
 | Sale Sharks          |         1 |   1        |
@@ -63,6 +62,7 @@ categories: player
 | Sydney Stars         |         1 |   1        |
 | Vannes               |         1 |   0        |
 | Queensland Country   |         1 |   1        |
+| Provence Rugby       |         1 |   0        |
 | Montauban            |         1 |   1        |
 | Ospreys              |         1 |   1        |
 | North Harbour Rays   |         1 |   1        |

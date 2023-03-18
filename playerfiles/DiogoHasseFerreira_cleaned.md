@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Diogo Hasse Ferreira  
-date: 2023-02-02 19:03:37.700174  
+date: 2023-03-17 17:39:18.330963  
 categories: player  
 ---
 # Diogo Hasse Ferreira
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Portugal
 
-## Current elo: 79.0
+## Current elo: 93.0
 
-## Current Percentile: 9.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -23,36 +23,37 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dax      |            32 |   0.53125  |
-| Portugal |            21 |   0.452381 |
+| Dax      |            33 |   0.515152 |
+| Portugal |            26 |   0.557692 |
 | Dijon    |            13 |   0.307692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         6 |   0.333333 |
+| Albi                       |         4 |   0.25     |
 | US Bressane                |         4 |   0.5      |
+| Suresnes                   |         4 |   0.5      |
+| Romania                    |         4 |   0.5      |
 | Chambery                   |         4 |   0.75     |
 | Nice                       |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         4 |   0.25     |
-| Suresnes                   |         4 |   0.5      |
-| Albi                       |         3 |   0.333333 |
-| Romania                    |         3 |   0.333333 |
+| Georgia                    |         3 |   0.166667 |
+| Spain                      |         3 |   0.333333 |
+| Massy                      |         3 |   0.333333 |
+| Belgium                    |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.666667 |
 | Brazil                     |         3 |   0.666667 |
-| Georgia                    |         3 |   0.166667 |
-| Massy                      |         3 |   0.333333 |
-| Spain                      |         2 |   0        |
-| Netherlands                |         2 |   1        |
-| Narbonne                   |         2 |   1        |
-| Dax                        |         2 |   0        |
+| Poland                     |         2 |   1        |
 | Aubenas                    |         2 |   0.5      |
-| Belgium                    |         2 |   0.5      |
+| Narbonne                   |         2 |   1        |
+| Netherlands                |         2 |   1        |
+| Dax                        |         2 |   0        |
 | Russia                     |         2 |   0.5      |
 | Soyaux-Angouleme           |         1 |   0        |
 | Tarbes                     |         1 |   1        |
-| Italy                      |         1 |   0        |
-| Namibia                    |         1 |   0        |
 | Dijon                      |         1 |   0        |
-| Chile                      |         1 |   1        |
 | Canada                     |         1 |   1        |
+| Chile                      |         1 |   1        |
+| Namibia                    |         1 |   0        |
+| Italy                      |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |

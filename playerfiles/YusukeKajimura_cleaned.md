@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yusuke Kajimura  
-date: 2023-02-02 18:40:14.976990  
+date: 2023-03-17 17:23:48.733512  
 categories: player  
 ---
 # Yusuke Kajimura
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 103.0
+## Current elo: 80.0
 
-## Current Percentile: 67.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -23,23 +23,24 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            21 |   0.595238 |
-| Tokyo Sungoliath      |             4 |   0.5      |
+| Tokyo Sungoliath      |            15 |   0.666667 |
+| Yokohama Canon Eagles |            15 |   0.6      |
 | Japan                 |             2 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kobelco Kobe Steelers             |         4 |        0.5 |
-| Green Rockets Tokatsu             |         3 |        1   |
-| Kubota Spears Funabashi Tokyo-Bay |         3 |        0.5 |
-| Saitama Wild Knights              |         3 |        0   |
-| Tokyo Sungoliath                  |         2 |        0   |
-| Toshiba Brave Lupus Tokyo         |         2 |        0   |
-| Toyota Verblitz                   |         2 |        1   |
-| Urayasu D-Rocks                   |         2 |        1   |
-| Black Rams Tokyo                  |         1 |        1   |
-| Hanazono Kintetsu Liners          |         1 |        1   |
-| NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
-| Russia                            |         1 |        1   |
-| Shizuoka Blue Revs                |         1 |        1   |
-| Uruguay                           |         1 |        1   |
+| Kobelco Kobe Steelers             |         5 |   0.2      |
+| Toyota Verblitz                   |         4 |   1        |
+| Urayasu D-Rocks                   |         4 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.666667 |
+| Saitama Wild Knights              |         3 |   0        |
+| Green Rockets Tokatsu             |         2 |   1        |
+| Shizuoka Blue Revs                |         2 |   1        |
+| Toshiba Brave Lupus Tokyo         |         2 |   0        |
+| Black Rams Tokyo                  |         1 |   1        |
+| Munakata Sanix Blues              |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
+| Russia                            |         1 |   1        |
+| Tokyo Sungoliath                  |         1 |   0        |
+| Toyota Industries Shuttles Aichi  |         1 |   1        |
+| Uruguay                           |         1 |   1        |

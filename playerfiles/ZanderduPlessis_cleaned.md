@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Zander du Plessis  
-date: 2023-03-11 00:12:57.892302  
+date: 2023-03-17 17:18:20.699681  
 categories: player  
 ---
 # Zander du Plessis
 
 ## Positions: C, FH
 
-## Current elo: 90.0
+## Current elo: 85.0
 
-## Current Percentile: 64.0
+## Current Percentile: 63.0
 
 # Elo History
 

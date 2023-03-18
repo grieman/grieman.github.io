@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Michael Thomas van Vuuren  
-date: 2023-02-24 02:26:18.010114  
+date: 2023-03-16 20:01:03.101156  
 categories: player  
 ---
 # Michael Thomas van Vuuren
 
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 74.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -19,9 +19,10 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Lions  |             5 |        0.4 |
+| Team         |   Appearances |   Win Rate |
+|:-------------|--------------:|-----------:|
+| Lions        |             5 |        0.4 |
+| Golden Lions |             1 |        0   |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -29,3 +30,4 @@ categories: player
 | Connacht             |         1 |        0   |
 | Dragons              |         1 |        1   |
 | Sharks               |         1 |        0   |
+| Western Province     |         1 |        0   |

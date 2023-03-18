@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon McIntyre  
-date: 2023-02-02 19:02:20.821402  
+date: 2023-03-17 17:19:10.023361  
 categories: player  
 ---
 # Simon McIntyre
 
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,39 +21,40 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Wasps       |           191 |   0.520942 |
-| Sale Sharks |            40 |   0.525    |
+| Wasps       |           193 |   0.525907 |
+| Sale Sharks |            44 |   0.5      |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Exeter Chiefs      |        24 |   0.395833 |
-| Leicester Tigers   |        21 |   0.52381  |
-| Bath Rugby         |        21 |   0.5      |
-| Harlequins         |        19 |   0.368421 |
-| Gloucester Rugby   |        17 |   0.676471 |
-| Northampton Saints |        16 |   0.5      |
-| Worcester Warriors |        16 |   0.875    |
-| Saracens           |        15 |   0.2      |
-| London Irish       |        15 |   0.733333 |
-| Sale Sharks        |        14 |   0.285714 |
-| Newcastle Falcons  |         7 |   0.571429 |
-| Bristol Rugby      |         6 |   0.833333 |
-| Bayonne            |         4 |   0.875    |
-| Leinster           |         4 |   0.375    |
-| Ulster             |         3 |   0.666667 |
-| Toulon             |         3 |   0.333333 |
-| Dragons            |         3 |   0        |
-| Wasps              |         3 |   0.666667 |
-| Stade Toulousain   |         2 |   0.5      |
-| Agen               |         2 |   1        |
-| London Welsh       |         2 |   1        |
-| Arix Viadana       |         2 |   1        |
-| La Rochelle        |         2 |   0.5      |
-| Castres Olympique  |         2 |   1        |
-| Bordeaux Begles    |         2 |   0        |
-| Ospreys            |         1 |   0        |
-| Cardiff Blues      |         1 |   0        |
-| Brive              |         1 |   0        |
-| Biarritz Olympique |         1 |   0        |
-| Yorkshire Carnegie |         1 |   1        |
-| Zebre              |         1 |   1        |
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Exeter Chiefs        |        25 |   0.38     |
+| Bath Rugby           |        21 |   0.5      |
+| Leicester Tigers     |        21 |   0.52381  |
+| Harlequins           |        19 |   0.368421 |
+| Gloucester Rugby     |        17 |   0.676471 |
+| Northampton Saints   |        17 |   0.470588 |
+| Worcester Warriors   |        16 |   0.875    |
+| London Irish         |        16 |   0.6875   |
+| Saracens             |        16 |   0.25     |
+| Sale Sharks          |        14 |   0.285714 |
+| Newcastle Falcons    |         7 |   0.571429 |
+| Bristol Rugby        |         6 |   0.833333 |
+| Leinster             |         4 |   0.375    |
+| Bayonne              |         4 |   0.875    |
+| Toulon               |         3 |   0.333333 |
+| Ulster               |         3 |   0.666667 |
+| Wasps                |         3 |   0.666667 |
+| Dragons              |         3 |   0        |
+| Stade Toulousain     |         2 |   0.5      |
+| Stade Francais Paris |         2 |   1        |
+| Agen                 |         2 |   1        |
+| London Welsh         |         2 |   1        |
+| Arix Viadana         |         2 |   1        |
+| La Rochelle          |         2 |   0.5      |
+| Castres Olympique    |         2 |   1        |
+| Bordeaux Begles      |         2 |   0        |
+| Ospreys              |         1 |   0        |
+| Cardiff Blues        |         1 |   0        |
+| Brive                |         1 |   0        |
+| Biarritz Olympique   |         1 |   0        |
+| Yorkshire Carnegie   |         1 |   1        |
+| Zebre                |         1 |   1        |

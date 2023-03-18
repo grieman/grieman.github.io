@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ratu Naulago  
-date: 2023-02-02 18:58:18.962599  
+date: 2023-03-17 17:19:06.422215  
 categories: player  
 ---
 # Ratu Naulago
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 97.0
 
-## Current Percentile: 65.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,21 +21,22 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Bristol Rugby |            17 |   0.676471 |
+| Bristol Rugby |            22 |       0.75 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| London Irish       |         2 |       0.25 |
-| Newcastle Falcons  |         2 |       1    |
-| Northampton Saints |         2 |       0.5  |
-| Bath Rugby         |         1 |       0    |
-| Exeter Chiefs      |         1 |       1    |
-| Harlequins         |         1 |       1    |
-| Leicester Tigers   |         1 |       1    |
-| Perpignan          |         1 |       1    |
-| Sale Sharks        |         1 |       0    |
-| Saracens           |         1 |       0    |
-| Scarlets           |         1 |       1    |
-| Wasps              |         1 |       1    |
-| Worcester Warriors |         1 |       1    |
-| Zebre              |         1 |       1    |
+| Newcastle Falcons  |         3 |   1        |
+| Northampton Saints |         3 |   0.666667 |
+| Bath Rugby         |         2 |   0.5      |
+| Harlequins         |         2 |   1        |
+| London Irish       |         2 |   0.25     |
+| Connacht           |         1 |   1        |
+| Exeter Chiefs      |         1 |   1        |
+| Leicester Tigers   |         1 |   1        |
+| Perpignan          |         1 |   1        |
+| Sale Sharks        |         1 |   0        |
+| Saracens           |         1 |   0        |
+| Scarlets           |         1 |   1        |
+| Wasps              |         1 |   1        |
+| Worcester Warriors |         1 |   1        |
+| Zebre              |         1 |   1        |

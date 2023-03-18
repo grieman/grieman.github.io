@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Adrien Ayestaran  
-date: 2023-02-02 18:41:35.588373  
+date: 2023-03-16 20:09:55.535092  
 categories: player  
 ---
 # Adrien Ayestaran
 
 ## Positions: SH
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 37.0
+## Current Percentile: 42.0
 
 # Elo History
 

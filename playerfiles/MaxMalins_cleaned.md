@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Malins  
-date: 2023-02-02 18:54:19.488364  
+date: 2023-03-17 17:02:00.193407  
 categories: player  
 ---
 # Max Malins
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 94.0
+## Current elo: 81.0
 
-## Current Percentile: 42.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -23,38 +23,41 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Saracens      |            62 |   0.66129  |
-| Bristol Rugby |            17 |   0.647059 |
-| England       |            11 |   0.636364 |
+| Saracens      |            64 |   0.65625  |
+| Bristol Rugby |            19 |   0.631579 |
+| England       |            15 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Exeter Chiefs            |         9 |   0.333333 |
 | Sale Sharks              |         8 |   0.625    |
 | Gloucester Rugby         |         8 |   0.5      |
-| Harlequins               |         7 |   0.714286 |
 | Leicester Tigers         |         7 |   0.571429 |
+| Harlequins               |         7 |   0.714286 |
 | Newcastle Falcons        |         6 |   1        |
 | Wasps                    |         4 |   0.5      |
 | Bristol Rugby            |         4 |   0.75     |
 | Northampton Saints       |         4 |   1        |
 | Bath Rugby               |         4 |   0.75     |
+| Wales                    |         3 |   0.666667 |
+| Scotland                 |         3 |   0        |
+| Italy                    |         3 |   1        |
 | Worcester Warriors       |         3 |   0.666667 |
-| Lyon                     |         2 |   1        |
-| Wales                    |         2 |   0.5      |
-| Scotland                 |         2 |   0        |
-| Munster                  |         2 |   0.5      |
+| France                   |         2 |   0.5      |
 | London Irish             |         2 |   0.5      |
-| Italy                    |         2 |   1        |
+| Lyon                     |         2 |   1        |
+| Munster                  |         2 |   0.5      |
 | Edinburgh                |         2 |   0        |
 | Dragons                  |         2 |   1        |
-| London Welsh             |         1 |   1        |
+| Toulon                   |         2 |   0.5      |
 | Ireland                  |         1 |   0        |
-| Glasgow Warriors         |         1 |   1        |
-| France                   |         1 |   1        |
-| Scarlets                 |         1 |   1        |
 | South Africa             |         1 |   1        |
-| Toulon                   |         1 |   1        |
-| United States of America |         1 |   1        |
 | Bordeaux Begles          |         1 |   1        |
+| Cardiff Blues            |         1 |   1        |
+| United States of America |         1 |   1        |
+| Connacht                 |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
+| Scarlets                 |         1 |   1        |
+| Glasgow Warriors         |         1 |   1        |
+| London Welsh             |         1 |   1        |
 | Australia                |         1 |   1        |

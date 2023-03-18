@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ratu Rotuisolia  
-date: 2023-03-02 11:23:24.426865  
+date: 2023-03-17 17:30:31.746959  
 categories: player  
 ---
 # Ratu Rotuisolia
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 92.0
 
-## Current Percentile: 39.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -23,16 +23,17 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |             6 |   0.333333 |
-| Fiji        |             2 |   0        |
+| Fijian Drua |             8 |      0.375 |
+| Fiji        |             2 |      0     |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Brumbies         |         1 |          0 |
-| Crusaders        |         1 |          0 |
-| Highlanders      |         1 |          0 |
-| Ireland          |         1 |          0 |
-| Melbourne Rebels |         1 |          1 |
-| Moana Pasifika   |         1 |          1 |
-| Queensland Reds  |         1 |          0 |
-| Scotland         |         1 |          0 |
+| Opponent                 |   Matches |   Win Rate |
+|:-------------------------|----------:|-----------:|
+| Crusaders                |         2 |        0.5 |
+| Brumbies                 |         1 |        0   |
+| Highlanders              |         1 |        0   |
+| Ireland                  |         1 |        0   |
+| Melbourne Rebels         |         1 |        1   |
+| Moana Pasifika           |         1 |        1   |
+| New South Wales Waratahs |         1 |        0   |
+| Queensland Reds          |         1 |        0   |
+| Scotland                 |         1 |        0   |

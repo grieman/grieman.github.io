@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hunter Paisami  
-date: 2023-03-02 11:21:48.079059  
+date: 2023-03-17 17:27:47.141222  
 categories: player  
 ---
 # Hunter Paisami
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 113.0
+## Current elo: 115.0
 
 ## Current Percentile: 89.0
 
@@ -23,16 +23,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Queensland Reds  |            37 |   0.5      |
+| Queensland Reds  |            39 |   0.5      |
 | Australia        |            26 |   0.346154 |
 | Brisbane City    |             8 |   0.4375   |
 | Melbourne Rising |             7 |   0.142857 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |         7 |   0.428571 |
+| Brumbies                 |         8 |   0.375    |
+| Western Force            |         7 |   0.571429 |
 | New Zealand              |         7 |   0.214286 |
-| Western Force            |         6 |   0.5      |
 | Melbourne Rebels         |         6 |   0.916667 |
 | New South Wales Waratahs |         5 |   0.8      |
 | France                   |         4 |   0.5      |

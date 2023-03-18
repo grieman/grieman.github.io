@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jarred Adams  
-date: 2023-02-24 02:28:50.178931  
+date: 2023-03-17 17:35:09.568704  
 categories: player  
 ---
 # Jarred Adams

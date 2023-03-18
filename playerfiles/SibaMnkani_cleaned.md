@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Siba Mnkani  
-date: 2023-03-12 11:29:29.218904  
+date: 2023-03-17 17:23:34.121990  
 categories: player  
 ---
 # Siba Mnkani
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 75.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

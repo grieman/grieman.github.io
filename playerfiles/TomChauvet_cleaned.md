@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tom Chauvet  
-date: 2023-02-02 19:01:01.577418  
+date: 2023-03-17 17:13:52.162489  
 categories: player  
 ---
 # Tom Chauvet
 
 ## Positions: FH
 
-## Current elo: 93.0
+## Current elo: 75.0
 
-## Current Percentile: 61.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,22 +21,22 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Narbonne       |            16 |    0.59375 |
-| Mont-de-Marsan |             2 |    0       |
+| Narbonne       |            21 |   0.452381 |
+| Mont-de-Marsan |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         2 |        0   |
-| Bourgoin-Jallieu           |         2 |        0.5 |
-| Nice                       |         2 |        1   |
-| Suresnes                   |         2 |        1   |
-| Blagnac                    |         1 |        0.5 |
-| Carqueiranne-Hyères        |         1 |        1   |
-| Chambery                   |         1 |        0   |
-| Cognac Saint Jean d'Angély |         1 |        1   |
-| Perpignan                  |         1 |        0   |
-| Rennes                     |         1 |        1   |
-| Tarbes                     |         1 |        0   |
-| US Bressane                |         1 |        1   |
-| Valence Romans Drome Rugby |         1 |        0   |
-| Vannes                     |         1 |        0   |
+| US Bressane                |         3 |   0.333333 |
+| Albi                       |         2 |   0        |
+| Bourgoin-Jallieu           |         2 |   0.5      |
+| Chambery                   |         2 |   0        |
+| Nice                       |         2 |   1        |
+| Suresnes                   |         2 |   1        |
+| Tarbes                     |         2 |   0        |
+| Valence Romans Drome Rugby |         2 |   0        |
+| Blagnac                    |         1 |   0.5      |
+| Carqueiranne-Hyères        |         1 |   1        |
+| Cognac Saint Jean d'Angély |         1 |   1        |
+| Perpignan                  |         1 |   0        |
+| Rennes                     |         1 |   1        |
+| Vannes                     |         1 |   0        |

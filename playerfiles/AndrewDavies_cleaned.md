@@ -1,24 +1,30 @@
 ---  
 layout: page  
 title: Andrew Davies  
-date: 2023-02-02 18:48:07.008044  
+date: 2023-03-17 17:32:51.047897  
 categories: player  
 ---
 # Andrew Davies
 
-## Positions: 
+## Positions: L
 
-## Current elo: 93.0
+## Current elo: 89.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_AndrewDavies.png)
 # Match History
 
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |             1 |          1 |
+| Hartpury College |             3 |   0.666667 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Bedford    |         1 |          0 |
+| Nottingham |         1 |          1 |
 | Richmond   |         1 |          1 |

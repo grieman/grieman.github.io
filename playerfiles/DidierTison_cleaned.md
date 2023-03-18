@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Didier Tison  
-date: 2023-02-04 17:25:53.693595  
+date: 2023-03-17 17:06:20.473983  
 categories: player  
 ---
 # Didier Tison
@@ -21,24 +21,24 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Aurillac    |            64 |   0.507812 |
+| Aurillac    |            61 |   0.532787 |
 | Oyonnax     |            33 |   0.651515 |
 | Carcassonne |            28 |   0.392857 |
 | Lyon        |            24 |   0.625    |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Beziers                    |        11 |   0.545455 |
 | Montauban                  |        11 |   0.590909 |
+| Beziers                    |        10 |   0.6      |
 | Carcassonne                |        10 |   0.6      |
-| Mont-de-Marsan             |        10 |   0.2      |
 | Biarritz Olympique         |         9 |   0.333333 |
+| Mont-de-Marsan             |         9 |   0.222222 |
 | Provence Rugby             |         8 |   0.625    |
 | Colomiers                  |         8 |   0.75     |
 | Vannes                     |         7 |   0.571429 |
 | Grenoble                   |         7 |   0.285714 |
-| Nevers                     |         7 |   0.571429 |
 | Soyaux-Angouleme           |         6 |   0.666667 |
+| Nevers                     |         6 |   0.666667 |
 | Narbonne                   |         6 |   0.666667 |
 | Rouen                      |         5 |   0.8      |
 | Massy                      |         5 |   0.6      |

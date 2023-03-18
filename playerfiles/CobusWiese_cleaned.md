@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cobus Wiese  
-date: 2023-02-02 18:49:16.544717  
+date: 2023-03-17 17:35:02.058718  
 categories: player  
 ---
 # Cobus Wiese
 
 ## Positions: L, FL
 
-## Current elo: 89.0
+## Current elo: 92.0
 
-## Current Percentile: 32.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,40 +21,44 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Sale Sharks      |            54 |   0.638889 |
+| Sale Sharks      |            64 |   0.585938 |
 | Stormers         |            32 |   0.515625 |
-| Western Province |             4 |   0.5      |
+| Western Province |             5 |   0.6      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Exeter Chiefs       |         7 |   0.285714 |
 | Bath Rugby          |         6 |   0.75     |
-| Exeter Chiefs       |         6 |   0.333333 |
-| Northampton Saints  |         5 |   0.8      |
+| Bristol Rugby       |         6 |   0.833333 |
+| Northampton Saints  |         6 |   0.666667 |
 | Harlequins          |         5 |   0.6      |
 | Leicester Tigers    |         5 |   0.8      |
 | Worcester Warriors  |         4 |   0.75     |
-| Bristol Rugby       |         4 |   1        |
-| Bulls               |         4 |   0.75     |
-| Jaguares            |         4 |   0.5      |
 | Newcastle Falcons   |         4 |   0.5      |
-| Crusaders           |         3 |   0.166667 |
+| Bulls               |         4 |   0.75     |
+| Saracens            |         4 |   0.5      |
+| Jaguares            |         4 |   0.5      |
+| London Irish        |         4 |   0.5      |
 | Wasps               |         3 |   0.666667 |
-| Gloucester Rugby    |         3 |   0.666667 |
 | Sunwolves           |         3 |   0.666667 |
+| Gloucester Rugby    |         3 |   0.666667 |
 | Sharks              |         3 |   0.333333 |
 | Blues               |         3 |   0.333333 |
 | Lions               |         3 |   0.333333 |
-| London Irish        |         3 |   0.666667 |
-| Saracens            |         3 |   0.333333 |
+| Crusaders           |         3 |   0.166667 |
 | Stade Toulousain    |         2 |   0        |
 | Queensland Reds     |         2 |   0.5      |
-| Melbourne Rebels    |         2 |   1        |
 | Chiefs              |         2 |   0.5      |
-| Pumas               |         1 |   0        |
-| Natal Sharks        |         1 |   0        |
-| Highlanders         |         1 |   1        |
+| Natal Sharks        |         2 |   0.5      |
+| Melbourne Rebels    |         2 |   1        |
 | Brumbies            |         1 |   0        |
+| Pumas               |         1 |   0        |
+| La Rochelle         |         1 |   0        |
+| Highlanders         |         1 |   1        |
+| Scarlets            |         1 |   1        |
 | Golden Lions        |         1 |   1        |
-| Ulster              |         1 |   1        |
 | Free State Cheetahs |         1 |   1        |
 | Cheetahs            |         1 |   1        |
+| Toulon              |         1 |   0        |
+| Ulster              |         1 |   1        |
+| Edinburgh           |         1 |   0        |

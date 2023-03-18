@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tyrone Thompson  
-date: 2023-03-04 11:43:02.769307  
+date: 2023-03-17 17:10:33.783654  
 categories: player  
 ---
 # Tyrone Thompson
@@ -24,13 +24,13 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Hawke's Bay       |            11 |   0.5      |
-| Chiefs            |             7 |   0.857143 |
+| Chiefs            |             8 |   0.875    |
 | Wellington        |             6 |   0.166667 |
 | New Zealand Maori |             1 |   1        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Moana Pasifika   |         4 |       1    |
+| Moana Pasifika   |         5 |       1    |
 | Bay of Plenty    |         2 |       0    |
 | Manawatu         |         2 |       1    |
 | Waikato          |         2 |       0.25 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Teruya Goto  
-date: 2023-02-02 19:04:42.707328  
+date: 2023-03-17 17:32:13.769616  
 categories: player  
 ---
 # Teruya Goto
 
 ## Positions: W
 
-## Current elo: 91.0
+## Current elo: 111.0
 
-## Current Percentile: 41.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,23 +21,28 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            36 |   0.194444 |
-| Sunwolves             |             1 |   0        |
+| Green Rockets Tokatsu |            57 |   0.298246 |
+| Sunwolves             |             4 |   0        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kobelco Kobe Steelers             |         5 |   0        |
-| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.375    |
+| Black Rams Tokyo                  |         5 |   0        |
+| Kubota Spears Funabashi Tokyo-Bay |         5 |   0.5      |
+| Toyota Industries Shuttles Aichi  |         5 |   0.8      |
+| Toshiba Brave Lupus Tokyo         |         4 |   0.25     |
 | Shizuoka Blue Revs                |         4 |   0        |
+| Saitama Wild Knights              |         4 |   0        |
+| NTT Docomo Red Hurricanes Osaka   |         4 |   0.375    |
+| Kobelco Kobe Steelers             |         4 |   0        |
 | Yokohama Canon Eagles             |         4 |   0        |
-| Black Rams Tokyo                  |         3 |   0        |
-| NTT Docomo Red Hurricanes Osaka   |         3 |   0.166667 |
-| Saitama Wild Knights              |         3 |   0        |
-| Coca-Cola Red Sparks              |         2 |   1        |
-| Toyota Industries Shuttles Aichi  |         2 |   1        |
-| Toyota Verblitz                   |         2 |   0        |
+| Mie Honda Heat                    |         3 |   0.333333 |
+| Tokyo Sungoliath                  |         3 |   0        |
+| Coca-Cola Red Sparks              |         3 |   1        |
+| Toyota Verblitz                   |         3 |   0        |
+| Urayasu D-Rocks                   |         3 |   0.333333 |
+| Munakata Sanix Blues              |         2 |   1        |
 | Lions                             |         1 |   0        |
-| Munakata Sanix Blues              |         1 |   1        |
-| Tokyo Sungoliath                  |         1 |   0        |
-| Toshiba Brave Lupus Tokyo         |         1 |   0        |
-| Urayasu D-Rocks                   |         1 |   0        |
+| Chiefs                            |         1 |   0        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
+| Stormers                          |         1 |   0        |
+| Crusaders                         |         1 |   0        |

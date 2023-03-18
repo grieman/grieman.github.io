@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Simon Andreu  
-date: 2023-02-02 18:48:25.623949  
+date: 2023-03-17 17:20:54.740358  
 categories: player  
 ---
 # Simon Andreu
 
 ## Positions: C
 
-## Current elo: 97.0
+## Current elo: 101.0
 
-## Current Percentile: 31.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,17 +21,18 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |            14 |   0.714286 |
+| Albi   |            18 |   0.694444 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Blagnac             |         2 |        0.5 |
+| Bourgoin-Jallieu    |         2 |        0.5 |
 | Carqueiranne-Hyères |         2 |        0.5 |
+| Dax                 |         2 |        1   |
 | Narbonne            |         2 |        1   |
 | Rennes              |         2 |        1   |
-| Bourgoin-Jallieu    |         1 |        1   |
+| Suresnes            |         2 |        0.5 |
 | Chambery            |         1 |        1   |
-| Dax                 |         1 |        1   |
-| Suresnes            |         1 |        0   |
+| Nice                |         1 |        0.5 |
 | Tarbes              |         1 |        0   |
 | US Bressane         |         1 |        1   |

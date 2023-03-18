@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jalen Tatum  
-date: 2023-03-06 11:28:33.371330  
+date: 2023-03-17 17:38:29.533567  
 categories: player  
 ---
 # Jalen Tatum
 
-## Positions: W, FL
+## Positions: FL, W
 
-## Current elo: 64.0
+## Current elo: 59.0
 
-## Current Percentile: 6.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |             2 |          0 |
+| Dallas Jackals |             4 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Seattle Seawolves |         1 |          0 |
+| Seattle Seawolves |         2 |          0 |
+| San Diego Legion  |         1 |          0 |
 | Toronto Arrows    |         1 |          0 |

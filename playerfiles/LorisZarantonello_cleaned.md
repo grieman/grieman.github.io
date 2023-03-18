@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Loris Zarantonello  
-date: 2023-02-04 18:32:43.619328  
+date: 2023-03-17 17:25:20.032018  
 categories: player  
 ---
 # Loris Zarantonello
 
 ## Positions: H
 
-## Current elo: 107.0
+## Current elo: 114.0
 
-## Current Percentile: 80.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Agen   |            63 |   0.246032 |
+| Agen   |            62 |       0.25 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,7 +32,6 @@ categories: player
 | Provence Rugby       |         3 |   0.666667 |
 | Colomiers            |         3 |   0.333333 |
 | Oyonnax              |         3 |   0        |
-| Grenoble             |         3 |   0.333333 |
 | Aurillac             |         2 |   1        |
 | Toulon               |         2 |   0        |
 | Stade Francais Paris |         2 |   0.5      |
@@ -41,19 +40,20 @@ categories: player
 | Nevers               |         2 |   0.5      |
 | Narbonne             |         2 |   0.5      |
 | Montauban            |         2 |   0.5      |
-| Lyon                 |         2 |   0        |
-| Clermont Auvergne    |         2 |   0        |
 | Castres Olympique    |         2 |   0        |
-| Brive                |         2 |   0        |
+| Grenoble             |         2 |   0.5      |
 | Beziers              |         2 |   0        |
-| Mont-de-Marsan       |         1 |   0        |
-| Montpellier Herault  |         1 |   0        |
-| La Rochelle          |         1 |   0        |
-| Edinburgh            |         1 |   0        |
-| Pau                  |         1 |   0        |
-| Carcassonne          |         1 |   0        |
+| Clermont Auvergne    |         2 |   0        |
+| Lyon                 |         2 |   0        |
+| Brive                |         2 |   0        |
 | Soyaux-Angouleme     |         1 |   0        |
-| Biarritz Olympique   |         1 |   1        |
-| US Bressane          |         1 |   0        |
 | Benetton Treviso     |         1 |   0        |
+| US Bressane          |         1 |   0        |
+| Biarritz Olympique   |         1 |   1        |
+| Mont-de-Marsan       |         1 |   0        |
+| Carcassonne          |         1 |   0        |
+| Pau                  |         1 |   0        |
+| Edinburgh            |         1 |   0        |
+| La Rochelle          |         1 |   0        |
+| Montpellier Herault  |         1 |   0        |
 | Wasps                |         1 |   0        |

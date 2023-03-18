@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ethan Waller  
-date: 2023-02-02 19:01:15.355520  
+date: 2023-03-17 17:26:37.232403  
 categories: player  
 ---
 # Ethan Waller
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 75.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,38 +21,40 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Worcester Warriors |           106 |   0.320755 |
-| Northampton Saints |           103 |   0.645631 |
+| Worcester Warriors |           109 |   0.330275 |
+| Northampton Saints |           106 |   0.646226 |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Leicester Tigers     |        17 |   0.294118 |
-| Saracens             |        16 |   0.4375   |
-| Gloucester Rugby     |        15 |   0.6      |
-| London Irish         |        14 |   0.714286 |
-| Exeter Chiefs        |        14 |   0.285714 |
-| Harlequins           |        14 |   0.428571 |
-| Newcastle Falcons    |        14 |   0.464286 |
-| Sale Sharks          |        13 |   0.615385 |
-| Bath Rugby           |        12 |   0.333333 |
-| Wasps                |        12 |   0.333333 |
-| Northampton Saints   |        10 |   0.1      |
-| Bristol Rugby        |         9 |   0.444444 |
-| Ospreys              |         7 |   0.857143 |
-| Worcester Warriors   |         6 |   0.833333 |
-| Castres Olympique    |         5 |   0.4      |
-| Leinster             |         4 |   0.25     |
-| Scarlets             |         4 |   1        |
-| Dragons              |         3 |   0.666667 |
-| Racing 92            |         3 |   0.166667 |
-| Benetton Treviso     |         2 |   1        |
-| Montpellier Herault  |         2 |   0.5      |
-| Glasgow Warriors     |         2 |   1        |
-| Pau                  |         2 |   0.5      |
-| Connacht             |         2 |   0.25     |
-| Stade Francais Paris |         2 |   1        |
-| Munster              |         1 |   0        |
-| La Rochelle          |         1 |   0        |
-| RC Enisei            |         1 |   1        |
-| Brive                |         1 |   1        |
-| London Welsh         |         1 |   1        |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| Leicester Tigers       |        17 |   0.294118 |
+| Gloucester Rugby       |        16 |   0.625    |
+| Saracens               |        16 |   0.4375   |
+| Newcastle Falcons      |        15 |   0.433333 |
+| London Irish           |        14 |   0.714286 |
+| Sale Sharks            |        14 |   0.642857 |
+| Harlequins             |        14 |   0.428571 |
+| Exeter Chiefs          |        14 |   0.285714 |
+| Bath Rugby             |        13 |   0.384615 |
+| Wasps                  |        12 |   0.333333 |
+| Northampton Saints     |        10 |   0.1      |
+| Bristol Rugby          |         9 |   0.333333 |
+| Ospreys                |         7 |   0.857143 |
+| Worcester Warriors     |         6 |   0.833333 |
+| Castres Olympique      |         5 |   0.4      |
+| Scarlets               |         4 |   1        |
+| Leinster               |         4 |   0.25     |
+| Racing 92              |         3 |   0.166667 |
+| Dragons                |         3 |   0.666667 |
+| Montpellier Herault    |         2 |   0.5      |
+| Benetton Treviso       |         2 |   1        |
+| Glasgow Warriors       |         2 |   1        |
+| Pau                    |         2 |   0.5      |
+| Connacht               |         2 |   0.25     |
+| Stade Francais Paris   |         2 |   1        |
+| London Welsh           |         1 |   1        |
+| RC Enisei              |         1 |   1        |
+| Munster                |         1 |   0        |
+| La Rochelle            |         1 |   0        |
+| Enisey-STM Krasnoyarsk |         1 |   1        |
+| Brive                  |         1 |   1        |
+| Zebre                  |         1 |   1        |

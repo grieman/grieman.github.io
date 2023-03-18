@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Logovi'i Mulipola  
-date: 2023-01-06 00:15:46.057598  
+date: 2023-03-17 17:25:02.026483  
 categories: player  
 ---
 # Logovi'i Mulipola
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 103.0
+## Current elo: 93.0
 
-## Current Percentile: 81.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -23,60 +23,61 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Leicester Tigers  |           135 |   0.648148 |
-| Newcastle Falcons |            60 |   0.466667 |
+| Leicester Tigers  |           136 |   0.650735 |
+| Newcastle Falcons |            69 |   0.449275 |
 | Samoa             |            20 |   0.45     |
 | Gloucester Rugby  |             4 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Northampton Saints       |        18 |   0.638889 |
-| Exeter Chiefs            |        17 |   0.529412 |
+| Northampton Saints       |        19 |   0.657895 |
+| Exeter Chiefs            |        18 |   0.5      |
 | Harlequins               |        17 |   0.411765 |
-| Saracens                 |        16 |   0.28125  |
+| Saracens                 |        17 |   0.264706 |
 | Gloucester Rugby         |        14 |   0.642857 |
-| Wasps                    |        13 |   0.615385 |
 | Sale Sharks              |        13 |   0.692308 |
-| London Irish             |        11 |   0.818182 |
-| Bath Rugby               |        10 |   0.4      |
-| Worcester Warriors       |        10 |   1        |
+| Wasps                    |        13 |   0.615385 |
+| London Irish             |        12 |   0.75     |
 | Newcastle Falcons        |        10 |   0.8      |
-| Bristol Rugby            |         6 |   0.166667 |
+| Worcester Warriors       |        10 |   1        |
+| Bath Rugby               |        10 |   0.4      |
+| Bristol Rugby            |         7 |   0.142857 |
+| Leicester Tigers         |         6 |   0.166667 |
 | Munster                  |         4 |   0.25     |
-| Leicester Tigers         |         4 |   0        |
 | Benetton Treviso         |         4 |   1        |
+| Ospreys                  |         3 |   0.833333 |
 | Scotland                 |         3 |   0.333333 |
 | Racing 92                |         3 |   0.333333 |
 | London Welsh             |         3 |   1        |
-| South Africa             |         2 |   0        |
-| Georgia                  |         2 |   0        |
-| Ulster                   |         2 |   0        |
-| Toulon                   |         2 |   0.5      |
-| Stade Toulousain         |         2 |   0.5      |
 | Italy                    |         2 |   1        |
 | Ireland                  |         2 |   0        |
-| Scarlets                 |         2 |   0.5      |
-| Stade Francais Paris     |         2 |   0.5      |
-| Ospreys                  |         2 |   0.75     |
 | Germany                  |         2 |   1        |
-| Russia                   |         1 |   1        |
+| Scarlets                 |         2 |   0.5      |
+| Georgia                  |         2 |   0        |
+| South Africa             |         2 |   0        |
+| Stade Francais Paris     |         2 |   0.5      |
+| Stade Toulousain         |         2 |   0.5      |
+| Toulon                   |         2 |   0.5      |
+| Ulster                   |         2 |   0        |
+| Cardiff Blues            |         2 |   0.5      |
 | Spain                    |         1 |   1        |
+| Russia                   |         1 |   1        |
 | United States of America |         1 |   0        |
 | Ampthill                 |         1 |   1        |
-| Nottingham               |         1 |   1        |
-| Doncaster                |         1 |   1        |
-| Bedford                  |         1 |   1        |
-| Canada                   |         1 |   1        |
-| Cardiff Blues            |         1 |   1        |
-| Clermont Auvergne        |         1 |   0        |
-| Cornish Pirates          |         1 |   1        |
-| Coventry                 |         1 |   1        |
-| Ealing Trailfinders      |         1 |   1        |
-| Montpellier Herault      |         1 |   1        |
-| France                   |         1 |   0        |
-| Glasgow Warriors         |         1 |   0        |
-| Hartpury College         |         1 |   1        |
-| Japan                    |         1 |   1        |
 | Jersey                   |         1 |   1        |
+| Nottingham               |         1 |   1        |
+| Montpellier Herault      |         1 |   1        |
 | Australia                |         1 |   0        |
+| Japan                    |         1 |   1        |
+| Hartpury College         |         1 |   1        |
+| Glasgow Warriors         |         1 |   0        |
+| France                   |         1 |   0        |
+| Ealing Trailfinders      |         1 |   1        |
+| Doncaster                |         1 |   1        |
+| Coventry                 |         1 |   1        |
+| Cornish Pirates          |         1 |   1        |
+| Connacht                 |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
+| Canada                   |         1 |   1        |
+| Bedford                  |         1 |   1        |
 | Yorkshire Carnegie       |         1 |   1        |

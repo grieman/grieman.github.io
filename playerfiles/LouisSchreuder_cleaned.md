@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Louis Schreuder  
-date: 2023-02-02 19:05:56.343753  
+date: 2023-03-17 17:05:57.004438  
 categories: player  
 ---
 # Louis Schreuder
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: South Africa
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 75.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -24,12 +24,12 @@ categories: player
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
 | Stormers                          |            74 |   0.621622 |
+| Western Province                  |            43 |   0.732558 |
 | Sharks                            |            40 |   0.525    |
-| Western Province                  |            40 |   0.7375   |
-| Newcastle Falcons                 |            34 |   0.338235 |
+| Newcastle Falcons                 |            37 |   0.364865 |
+| Bath Rugby                        |            16 |   0.15625  |
+| Natal Sharks                      |            15 |   0.866667 |
 | Southern Kings                    |            14 |   0.428571 |
-| Bath Rugby                        |            12 |   0.208333 |
-| Natal Sharks                      |            11 |   0.909091 |
 | Kubota Spears Funabashi Tokyo-Bay |             8 |   0.4375   |
 | Toulon                            |             7 |   0.642857 |
 | South Africa                      |             1 |   0        |
@@ -38,59 +38,60 @@ categories: player
 |:---------------------------------|----------:|-----------:|
 | Bulls                            |        13 |   0.615385 |
 | Lions                            |        12 |   0.625    |
+| Golden Lions                     |        11 |   0.681818 |
 | Sharks                           |        10 |   0.4      |
 | Cheetahs                         |        10 |   0.6      |
+| Free State Cheetahs              |         9 |   0.777778 |
 | Melbourne Rebels                 |         9 |   0.777778 |
 | Griquas                          |         9 |   0.944444 |
-| Free State Cheetahs              |         9 |   0.777778 |
-| Golden Lions                     |         9 |   0.611111 |
-| New South Wales Waratahs         |         8 |   0.5625   |
 | Jaguares                         |         8 |   0.5      |
-| Blue Bulls                       |         7 |   0.785714 |
-| Brumbies                         |         7 |   0.285714 |
+| New South Wales Waratahs         |         8 |   0.5625   |
+| Natal Sharks                     |         8 |   0.5      |
+| Blue Bulls                       |         8 |   0.8125   |
 | Hurricanes                       |         7 |   0.428571 |
 | Queensland Reds                  |         7 |   0.571429 |
-| Natal Sharks                     |         6 |   0.5      |
+| Brumbies                         |         7 |   0.285714 |
 | Pumas                            |         6 |   1        |
-| Crusaders                        |         5 |   0.1      |
 | Stormers                         |         5 |   0.6      |
-| Sunwolves                        |         5 |   0.9      |
-| Chiefs                           |         5 |   0.2      |
-| Wasps                            |         5 |   0.4      |
 | Blues                            |         5 |   0.8      |
+| Bristol Rugby                    |         5 |   0.2      |
 | Highlanders                      |         5 |   0.8      |
-| London Irish                     |         4 |   0.25     |
+| Crusaders                        |         5 |   0.1      |
+| Sunwolves                        |         5 |   0.9      |
+| Wasps                            |         5 |   0.4      |
+| Chiefs                           |         5 |   0.2      |
+| London Irish                     |         5 |   0.2      |
 | Harlequins                       |         4 |   0.25     |
-| Exeter Chiefs                    |         4 |   0.25     |
 | Western Force                    |         4 |   0.75     |
-| Bristol Rugby                    |         4 |   0.25     |
+| Worcester Warriors               |         4 |   0.875    |
+| Western Province                 |         4 |   0.5      |
 | Gloucester Rugby                 |         4 |   0.25     |
+| Exeter Chiefs                    |         4 |   0.25     |
+| Northampton Saints               |         4 |   0.5      |
+| Southern Kings                   |         3 |   1        |
 | Saracens                         |         3 |   0        |
 | Sale Sharks                      |         3 |   0        |
-| Southern Kings                   |         3 |   1        |
-| Northampton Saints               |         3 |   0.666667 |
 | Bath Rugby                       |         3 |   0.333333 |
-| Worcester Warriors               |         3 |   0.833333 |
-| Western Province                 |         2 |   0.5      |
-| Bayonne                          |         2 |   1        |
-| Leicester Tigers                 |         2 |   0        |
+| Leicester Tigers                 |         3 |   0        |
 | Eastern Province Kings           |         2 |   1        |
-| Glasgow Warriors                 |         1 |   0.5      |
+| Bayonne                          |         2 |   1        |
+| Glasgow Warriors                 |         2 |   0.25     |
+| Newcastle Falcons                |         1 |   1        |
+| Toshiba Brave Lupus Tokyo        |         1 |   0        |
 | Brive                            |         1 |   0        |
 | Cardiff Blues                    |         1 |   0        |
 | Wales                            |         1 |   0        |
 | Toyota Verblitz                  |         1 |   0        |
 | Toyota Industries Shuttles Aichi |         1 |   1        |
 | Toulon                           |         1 |   0        |
-| Toshiba Brave Lupus Tokyo        |         1 |   0        |
-| Munakata Sanix Blues             |         1 |   1        |
-| Montpellier Herault              |         1 |   0.5      |
-| Green Rockets Tokatsu            |         1 |   0.5      |
-| Shizuoka Blue Revs               |         1 |   0        |
 | Hanazono Kintetsu Liners         |         1 |   0        |
-| La Rochelle                      |         1 |   1        |
-| Racing 92                        |         1 |   1        |
-| Leopards                         |         1 |   1        |
-| Mie Honda Heat                   |         1 |   1        |
-| Newcastle Falcons                |         1 |   1        |
+| Green Rockets Tokatsu            |         1 |   0.5      |
+| Munakata Sanix Blues             |         1 |   1        |
 | Stade Francais Paris             |         1 |   0        |
+| La Rochelle                      |         1 |   1        |
+| Shizuoka Blue Revs               |         1 |   0        |
+| Leopards                         |         1 |   1        |
+| Racing 92                        |         1 |   1        |
+| Mie Honda Heat                   |         1 |   1        |
+| Montpellier Herault              |         1 |   0.5      |
+| Zebre                            |         1 |   1        |

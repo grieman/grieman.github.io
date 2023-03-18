@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alexander Nowicki  
-date: 2023-02-15 22:12:30.774567  
+date: 2023-03-16 20:14:59.524811  
 categories: player  
 ---
 # Alexander Nowicki
 
 ## Positions: FL, N8
 
-## Current elo: 84.0
+## Country: Poland
 
-## Current Percentile: 19.0
+## Current elo: 91.0
+
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,11 +23,15 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             7 |          0 |
+| Carqueiranne-Hyères |             9 |   0.111111 |
+| Poland              |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Belgium                    |         1 |          1 |
 | Blagnac                    |         1 |          0 |
+| Chambery                   |         1 |          0 |
+| Cognac Saint Jean d'Angély |         1 |          1 |
 | Dax                        |         1 |          0 |
 | Rennes                     |         1 |          0 |
 | Suresnes                   |         1 |          0 |

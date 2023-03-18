@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Duncan Victor Matthews  
-date: 2023-02-26 11:18:32.587271  
+date: 2023-03-17 17:13:59.079067  
 categories: player  
 ---
 # Duncan Victor Matthews
 
 ## Positions: FB
 
-## Current elo: 87.0
+## Current elo: 95.0
 
-## Current Percentile: None
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,8 +21,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Seattle Seawolves |             1 |          1 |
+| Seattle Seawolves |             4 |          1 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rugby ATL  |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Dallas Jackals    |         1 |          1 |
+| Houston SaberCats |         1 |          1 |
+| Rugby ATL         |         1 |          1 |
+| Rugby New York    |         1 |          1 |

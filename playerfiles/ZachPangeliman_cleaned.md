@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Zach Pangeliman  
-date: 2023-03-02 11:22:18.882443  
+date: 2023-03-17 17:38:12.910172  
 categories: player  
 ---
 # Zach Pangeliman
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 80.0
 
-## Current Percentile: 15.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -23,13 +23,13 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Houston SaberCats        |            50 |   0.34     |
+| Houston SaberCats        |            51 |   0.333333 |
 | San Diego                |             5 |   0        |
 | United States of America |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Seattle Seawolves  |         7 |   0.285714 |
+| Seattle Seawolves  |         8 |   0.25     |
 | Utah Warriors      |         6 |   0.666667 |
 | San Diego Legion   |         5 |   0.4      |
 | NOLA Gold          |         5 |   0.4      |

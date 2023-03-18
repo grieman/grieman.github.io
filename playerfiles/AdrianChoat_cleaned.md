@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adrian Choat  
-date: 2023-03-02 11:24:55.165591  
+date: 2023-03-17 17:06:15.846771  
 categories: player  
 ---
 # Adrian Choat
@@ -21,8 +21,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Blues    |            23 |   0.826087 |
-| Auckland |            20 |   0.6      |
+| Blues    |            25 |        0.8 |
+| Auckland |            20 |        0.6 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -31,12 +31,12 @@ categories: player
 | Tasman                   |         4 |   0.25     |
 | Southland                |         3 |   1        |
 | Crusaders                |         3 |   0.333333 |
+| Hurricanes               |         3 |   0.666667 |
+| Brumbies                 |         3 |   0.666667 |
 | Canterbury               |         2 |   1        |
 | Wellington               |         2 |   0.5      |
-| Hurricanes               |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   1        |
 | Moana Pasifika           |         2 |   1        |
-| Brumbies                 |         2 |   1        |
 | Taranaki                 |         2 |   1        |
 | Otago                    |         2 |   0.5      |
 | Bay of Plenty            |         1 |   0        |

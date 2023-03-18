@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Daniel Rona  
-date: 2023-03-11 00:13:52.729607  
+date: 2023-03-17 17:22:36.910164  
 categories: player  
 ---
 # Daniel Rona

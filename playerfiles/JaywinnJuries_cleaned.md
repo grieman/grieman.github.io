@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jaywinn Juries  
-date: 2023-03-12 11:34:15.003537  
+date: 2023-03-17 17:25:36.521410  
 categories: player  
 ---
 # Jaywinn Juries
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 98.0
 
-## Current Percentile: 84.0
+## Current Percentile: 83.0
 
 # Elo History
 

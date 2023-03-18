@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joey CONWAY  
-date: 2023-03-16 11:32:23.948441  
+date: 2023-03-17 17:27:03.101229  
 categories: player  
 ---
 # Joey CONWAY
 
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 61.0
+## Current Percentile: 50.0
 
 # Elo History
 

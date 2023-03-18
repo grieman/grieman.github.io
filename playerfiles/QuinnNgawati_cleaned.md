@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Quinn Ngawati  
-date: 2023-03-16 11:32:58.214092  
+date: 2023-03-17 17:22:19.719108  
 categories: player  
 ---
 # Quinn Ngawati

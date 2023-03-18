@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tim DANIEL-MEISSEN  
-date: 2023-03-16 11:33:13.139436  
+date: 2023-03-17 17:00:28.806179  
 categories: player  
 ---
 # Tim DANIEL-MEISSEN
 
 ## Positions: P
 
-## Current elo: 84.0
+## Current elo: 85.0
 
 ## Current Percentile: 18.0
 

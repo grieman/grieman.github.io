@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jacques Vermeulen  
-date: 2023-03-02 11:26:12.581831  
+date: 2023-03-16 19:47:24.011138  
 categories: player  
 ---
 # Jacques Vermeulen
@@ -21,22 +21,22 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Exeter Chiefs    |            51 |   0.676471 |
+| Exeter Chiefs    |            54 |   0.675926 |
 | Sharks           |            38 |   0.486842 |
 | Natal Sharks     |            21 |   0.714286 |
 | Western Province |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Sale Sharks              |         7 |   0.571429 |
+| Sale Sharks              |         8 |   0.625    |
 | Bath Rugby               |         5 |   0.8      |
 | Western Province         |         5 |   0.6      |
 | Lions                    |         5 |   0.6      |
+| Harlequins               |         5 |   0.6      |
 | Golden Lions             |         5 |   0.8      |
 | Free State Cheetahs      |         4 |   0.5      |
 | Stormers                 |         4 |   0.5      |
 | Pumas                    |         4 |   0.75     |
-| Harlequins               |         4 |   0.75     |
 | Worcester Warriors       |         4 |   0.75     |
 | Bristol Rugby            |         4 |   0.5      |
 | Bulls                    |         4 |   0        |
@@ -47,10 +47,10 @@ categories: player
 | Northampton Saints       |         3 |   0.666667 |
 | Blue Bulls               |         3 |   0.666667 |
 | New South Wales Waratahs |         3 |   0.833333 |
+| Newcastle Falcons        |         3 |   0.666667 |
 | Jaguares                 |         3 |   0.333333 |
 | Saracens                 |         3 |   0.333333 |
 | Griquas                  |         3 |   0.666667 |
-| Newcastle Falcons        |         2 |   0.5      |
 | Queensland Reds          |         2 |   0        |
 | Sunwolves                |         2 |   1        |
 | Wasps                    |         2 |   1        |

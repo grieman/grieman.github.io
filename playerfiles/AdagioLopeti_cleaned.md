@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Adagio Lopeti  
-date: 2023-03-16 11:31:56.247497  
+date: 2023-03-17 17:14:37.017259  
 categories: player  
 ---
 # Adagio Lopeti

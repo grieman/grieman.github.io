@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kurt Stanley Haupt  
-date: 2023-02-24 02:36:35.785402  
+date: 2023-03-17 17:18:23.101983  
 categories: player  
 ---
 # Kurt Stanley Haupt
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 88.0
 
-## Current Percentile: 39.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,11 +21,10 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nice   |             4 |       0.75 |
+| Nice   |             3 |   0.666667 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         1 |          0 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Rennes                     |         1 |          1 |
+| US Bressane                |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          1 |

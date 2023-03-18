@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Baptiste Beaujouan  
-date: 2023-01-23 15:29:25.231512  
+date: 2023-03-17 17:05:00.715124  
 categories: player  
 ---
 # Baptiste Beaujouan
 
-## Positions: H, N8
+## Positions: FL, H
 
-## Current elo: 100.0
+## Current elo: 86.0
 
-## Current Percentile: 49.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,13 +21,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             7 |          0 |
+| Rennes |            12 |       0.25 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Valence Romans Drome Rugby |         2 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
-| Chambery                   |         1 |          0 |
-| Dax                        |         1 |          0 |
-| Tarbes                     |         1 |          0 |
-| US Bressane                |         1 |          0 |
+| Chambery                   |         2 |        0.5 |
+| Cognac Saint Jean d'Angély |         2 |        1   |
+| US Bressane                |         2 |        0   |
+| Valence Romans Drome Rugby |         2 |        0   |
+| Blagnac                    |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Dax                        |         1 |        0   |
+| Tarbes                     |         1 |        0   |

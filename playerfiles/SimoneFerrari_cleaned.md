@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Simone Ferrari  
-date: 2023-01-13 11:33:16.316404  
+date: 2023-03-17 17:09:20.971314  
 categories: player  
 ---
 # Simone Ferrari
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 100.0
 
-## Current Percentile: 32.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,41 +23,41 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Benetton Treviso |            91 |   0.384615 |
-| Italy            |            38 |   0.315789 |
+| Benetton Treviso |            93 |   0.397849 |
+| Italy            |            42 |   0.285714 |
 | Mogliano         |             4 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Zebre                |         9 |   0.666667 |
 | Leinster             |         9 |   0.166667 |
-| Ulster               |         8 |   0.1875   |
 | Dragons              |         8 |   0.625    |
+| Ulster               |         8 |   0.1875   |
 | Munster              |         7 |   0        |
 | Edinburgh            |         7 |   0.428571 |
-| Scarlets             |         6 |   0.166667 |
 | Cardiff Blues        |         6 |   0.5      |
+| Scarlets             |         6 |   0.166667 |
+| Ireland              |         5 |   0        |
 | Ospreys              |         5 |   0.4      |
-| Glasgow Warriors     |         4 |   0.5      |
+| England              |         5 |   0        |
+| Bayonne              |         4 |   1        |
 | South Africa         |         4 |   0.25     |
-| England              |         4 |   0        |
-| Ireland              |         4 |   0        |
+| France               |         4 |   0        |
+| Glasgow Warriors     |         4 |   0.5      |
 | Scotland             |         3 |   0        |
+| Stade Francais Paris |         3 |   0.666667 |
 | Georgia              |         3 |   0.666667 |
-| France               |         3 |   0        |
 | Connacht             |         3 |   0.333333 |
-| Bayonne              |         3 |   1        |
+| Wales                |         3 |   0        |
 | Bath Rugby           |         3 |   0        |
 | Australia            |         3 |   0.333333 |
 | Harlequins           |         2 |   0.5      |
-| Fiji                 |         2 |   0.5      |
-| Stade Francais Paris |         2 |   0.5      |
 | Southern Kings       |         2 |   1        |
+| Fiji                 |         2 |   0.5      |
 | Bulls                |         2 |   0        |
-| Wales                |         2 |   0        |
-| Russia               |         1 |   1        |
-| Toulon               |         1 |   0        |
 | Tonga                |         1 |   0        |
+| Toulon               |         1 |   0        |
+| Russia               |         1 |   1        |
 | Sharks               |         1 |   0        |
 | Samoa                |         1 |   1        |
 | Agen                 |         1 |   1        |

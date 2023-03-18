@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Gus Warr  
-date: 2023-02-02 19:01:43.326005  
+date: 2023-03-17 17:35:11.792955  
 categories: player  
 ---
 # Gus Warr
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 96.0
 
-## Current Percentile: 49.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,24 +21,24 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Sale Sharks |            50 |   0.54     |
+| Sale Sharks |            54 |   0.518519 |
 | Doncaster   |             9 |   0.666667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Leicester Tigers    |         7 |   0.714286 |
-| Exeter Chiefs       |         5 |   0.4      |
+| Exeter Chiefs       |         6 |   0.333333 |
+| Saracens            |         5 |   0.2      |
 | Harlequins          |         5 |   0.6      |
-| Saracens            |         4 |   0        |
 | Gloucester Rugby    |         4 |   0.75     |
 | Newcastle Falcons   |         4 |   0.5      |
 | Bath Rugby          |         3 |   0.833333 |
 | Bristol Rugby       |         3 |   0.666667 |
 | Wasps               |         3 |   0.666667 |
+| Northampton Saints  |         3 |   0.666667 |
+| London Irish        |         3 |   0.5      |
 | Ulster              |         2 |   0.5      |
 | Stade Toulousain    |         2 |   0        |
-| Northampton Saints  |         2 |   1        |
-| London Irish        |         2 |   0.75     |
 | Worcester Warriors  |         2 |   0.5      |
 | Glasgow Warriors    |         2 |   0        |
 | Bedford             |         1 |   1        |

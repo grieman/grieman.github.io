@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: James Blackwell  
-date: 2023-03-02 11:25:09.958232  
+date: 2023-03-17 17:09:40.503595  
 categories: player  
 ---
 # James Blackwell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Hurricanes
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 64.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Hurricanes |            62 |   0.596774 |
+| Hurricanes |            65 |   0.6      |
 | Wellington |            59 |   0.669492 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |        10 |   0.45     |
 | Crusaders                |         9 |   0.111111 |
-| Blues                    |         7 |   0.428571 |
+| Blues                    |         8 |   0.375    |
 | Highlanders              |         7 |   0.857143 |
 | Northland                |         7 |   0.857143 |
 | Canterbury               |         6 |   0.666667 |
@@ -40,11 +40,11 @@ categories: player
 | Brumbies                 |         5 |   0.4      |
 | Tasman                   |         5 |   0.2      |
 | Bay of Plenty            |         5 |   0.8      |
-| Melbourne Rebels         |         4 |   1        |
+| Melbourne Rebels         |         5 |   1        |
+| New South Wales Waratahs |         4 |   1        |
 | Waikato                  |         4 |   0.75     |
 | Otago                    |         4 |   1        |
 | Auckland                 |         4 |   0.5      |
-| New South Wales Waratahs |         3 |   1        |
 | North Harbour            |         3 |   0.333333 |
 | Queensland Reds          |         3 |   1        |
 | Stormers                 |         3 |   0.666667 |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe Maksymiw  
-date: 2023-02-02 19:11:56.708646  
+date: 2023-03-17 17:42:15.496082  
 categories: player  
 ---
 # Joe Maksymiw
 
 ## Positions: L
 
-## Current elo: 87.0
+## Current elo: 62.0
 
-## Current Percentile: 23.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -22,8 +22,8 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Connacht         |            25 |   0.44     |
-| Dragons          |            23 |   0.26087  |
-| Agen             |            16 |   0.5625   |
+| Dragons          |            25 |   0.24     |
+| Agen             |            13 |   0.461538 |
 | Leicester Tigers |            13 |   0.692308 |
 | Doncaster        |             4 |   0.75     |
 
@@ -38,24 +38,24 @@ categories: player
 | Sale Sharks         |         3 |   0.333333 |
 | Glasgow Warriors    |         3 |   0.333333 |
 | Munster             |         3 |   0        |
-| Rouen               |         2 |   1        |
-| Biarritz Olympique  |         2 |   1        |
-| Montpellier Herault |         2 |   0.5      |
-| Benetton Treviso    |         2 |   0.75     |
-| Bath Rugby          |         2 |   0.5      |
-| Perpignan           |         2 |   1        |
-| Southern Kings      |         2 |   1        |
 | Saracens            |         2 |   0.5      |
-| Vannes              |         2 |   1        |
-| Stade Toulousain    |         2 |   0        |
-| Edinburgh           |         2 |   0        |
-| Nottingham          |         2 |   1        |
+| Bath Rugby          |         2 |   0.5      |
 | Connacht            |         2 |   0.5      |
-| Wasps               |         1 |   0        |
-| Provence Rugby      |         1 |   1        |
+| Montpellier Herault |         2 |   0.5      |
+| Nottingham          |         2 |   1        |
+| Edinburgh           |         2 |   0        |
+| Stade Toulousain    |         2 |   0        |
+| Bordeaux Begles     |         2 |   0.5      |
+| Benetton Treviso    |         2 |   0.75     |
+| Southern Kings      |         2 |   1        |
+| Wasps               |         2 |   0        |
+| Perpignan           |         2 |   1        |
 | Oyonnax             |         1 |   0        |
-| Scarlets            |         1 |   0        |
 | Soyaux-Angouleme    |         1 |   0        |
+| Provence Rugby      |         1 |   1        |
+| Vannes              |         1 |   1        |
+| Scarlets            |         1 |   0        |
+| Rouen               |         1 |   1        |
 | Aurillac            |         1 |   1        |
 | Northampton Saints  |         1 |   1        |
 | Montauban           |         1 |   0        |
@@ -70,6 +70,6 @@ categories: player
 | Castres Olympique   |         1 |   0        |
 | Carcassonne         |         1 |   0        |
 | Bristol Rugby       |         1 |   0        |
-| Bordeaux Begles     |         1 |   1        |
+| Biarritz Olympique  |         1 |   1        |
 | Beziers             |         1 |   0        |
 | London Scottish     |         1 |   1        |

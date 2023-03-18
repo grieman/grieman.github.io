@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Abongile Nonkontwana  
-date: 2023-02-02 18:47:41.022569  
+date: 2023-03-17 17:00:17.425305  
 categories: player  
 ---
 # Abongile Nonkontwana
 
 ## Positions: FL, L
 
-## Current elo: 78.0
+## Current elo: 73.0
 
 ## Current Percentile: 10.0
 
@@ -23,41 +23,42 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Bourgoin-Jallieu    |            19 |   0.473684 |
 | Cheetahs            |            15 |   0.533333 |
-| Massy               |            13 |   0.307692 |
-| Free State Cheetahs |             9 |   0.333333 |
+| Free State Cheetahs |            12 |   0.5      |
+| Massy               |            10 |   0.2      |
 | Blue Bulls          |             6 |   0.333333 |
 | Bulls               |             5 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Southern Kings             |         3 |   1        |
+| Natal Sharks               |         4 |   0.25     |
+| Golden Lions               |         4 |   0.5      |
 | Griquas                    |         3 |   0.666667 |
-| Golden Lions               |         3 |   0.333333 |
-| Natal Sharks               |         3 |   0        |
-| Zebre                      |         2 |   1        |
-| Mont-de-Marsan             |         2 |   0.5      |
-| Massy                      |         2 |   0        |
+| Southern Kings             |         3 |   1        |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Nice                       |         2 |   0.5      |
+| Massy                      |         2 |   0        |
 | Albi                       |         2 |   0        |
 | Pumas                      |         2 |   0        |
 | Connacht                   |         2 |   0        |
-| Dax                        |         2 |   0.5      |
-| Cognac Saint Jean d'Angély |         2 |   1        |
+| Zebre                      |         2 |   1        |
 | Chambery                   |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0        |
 | Stormers                   |         2 |   0        |
 | Suresnes                   |         2 |   0.5      |
 | Blagnac                    |         2 |   0.5      |
-| Vannes                     |         2 |   0.5      |
 | Western Province           |         2 |   0.5      |
-| Montauban                  |         2 |   0.5      |
+| Dax                        |         2 |   0.5      |
+| Munster                    |         1 |   0        |
 | Sharks                     |         1 |   0        |
 | Scarlets                   |         1 |   0        |
+| SWD Eagles                 |         1 |   1        |
 | Rouen                      |         1 |   0        |
-| Ospreys                    |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   1        |
+| Ospreys                    |         1 |   0        |
+| Vannes                     |         1 |   0        |
 | Agen                       |         1 |   0        |
-| Munster                    |         1 |   0        |
+| Montauban                  |         1 |   0        |
+| Mont-de-Marsan             |         1 |   1        |
 | Lions                      |         1 |   0        |
 | Glasgow Warriors           |         1 |   0        |
 | Free State Cheetahs        |         1 |   0        |

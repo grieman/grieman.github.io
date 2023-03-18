@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Kota Iwamura  
-date: 2023-02-02 18:43:27.796932  
+date: 2023-03-17 17:32:17.698683  
 categories: player  
 ---
 # Kota Iwamura
 
 ## Positions: SH
 
-## Current elo: 111.0
+## Current elo: 95.0
 
-## Current Percentile: 88.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,22 +21,25 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            13 |   0.807692 |
-| Toyota Verblitz      |             5 |   0.8      |
+| Mitsubishi Dynaboars |            20 |      0.675 |
+| Toyota Verblitz      |             8 |      0.75  |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Hanazono Kintetsu Liners          |         3 |        1   |
-| Mie Honda Heat                    |         2 |        1   |
-| Skyactivs Hiroshima               |         2 |        1   |
-| Black Rams Tokyo                  |         1 |        1   |
-| Hino Red Dolphins                 |         1 |        1   |
-| Kamaishi Seawaves                 |         1 |        1   |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |        1   |
-| Saitama Wild Knights              |         1 |        0   |
-| Shizuoka Blue Revs                |         1 |        0.5 |
-| Tokyo Sungoliath                  |         1 |        0   |
-| Toshiba Brave Lupus Tokyo         |         1 |        1   |
-| Toyota Industries Shuttles Aichi  |         1 |        1   |
-| Toyota Verblitz                   |         1 |        1   |
-| Urayasu D-Rocks                   |         1 |        0   |
+| Hanazono Kintetsu Liners          |         4 |   1        |
+| Urayasu D-Rocks                   |         3 |   0.666667 |
+| Hino Red Dolphins                 |         2 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
+| Mie Honda Heat                    |         2 |   1        |
+| Toyota Industries Shuttles Aichi  |         2 |   1        |
+| Shizuoka Blue Revs                |         2 |   0.25     |
+| Skyactivs Hiroshima               |         2 |   1        |
+| Black Rams Tokyo                  |         1 |   1        |
+| Toshiba Brave Lupus Tokyo         |         1 |   1        |
+| Toyota Verblitz                   |         1 |   1        |
+| Saitama Wild Knights              |         1 |   0        |
+| Tokyo Sungoliath                  |         1 |   0        |
+| Green Rockets Tokatsu             |         1 |   0        |
+| Kobelco Kobe Steelers             |         1 |   0        |
+| Kamaishi Seawaves                 |         1 |   1        |
+| Yokohama Canon Eagles             |         1 |   0        |

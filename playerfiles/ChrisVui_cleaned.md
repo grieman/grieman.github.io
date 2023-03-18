@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Chris Vui  
-date: 2023-02-02 18:56:06.256895  
+date: 2023-03-17 17:16:54.170780  
 categories: player  
 ---
 # Chris Vui
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Samoa
 
-## Current elo: 110.0
+## Current elo: 112.0
 
-## Current Percentile: 79.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Bristol Rugby      |           104 |   0.596154 |
+| Bristol Rugby      |           110 |   0.609091 |
 | North Harbour      |            20 |   0.475    |
 | Samoa              |            18 |   0.444444 |
 | Worcester Warriors |             8 |   0.5      |
@@ -31,16 +31,16 @@ categories: player
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
-| Bath Rugby           |        10 |   0.8      |
+| Bath Rugby           |        11 |   0.818182 |
+| Sale Sharks          |        10 |   0.35     |
+| Harlequins           |        10 |   0.5      |
 | Wasps                |         9 |   0.333333 |
-| Sale Sharks          |         9 |   0.277778 |
-| Harlequins           |         9 |   0.444444 |
 | Gloucester Rugby     |         9 |   0.666667 |
+| Northampton Saints   |         8 |   0.625    |
 | Exeter Chiefs        |         7 |   0.285714 |
 | Saracens             |         7 |   0.428571 |
-| Northampton Saints   |         7 |   0.571429 |
+| Newcastle Falcons    |         7 |   0.714286 |
 | Leicester Tigers     |         7 |   0.5      |
-| Newcastle Falcons    |         6 |   0.666667 |
 | London Irish         |         6 |   0.5      |
 | Worcester Warriors   |         5 |   0.6      |
 | Wellington           |         3 |   0.333333 |
@@ -55,6 +55,7 @@ categories: player
 | Southland            |         2 |   1        |
 | Bay of Plenty        |         2 |   0.5      |
 | Northland            |         2 |   1        |
+| Bordeaux Begles      |         2 |   0.5      |
 | Germany              |         2 |   1        |
 | Bedford              |         2 |   1        |
 | Tonga                |         1 |   1        |
@@ -62,7 +63,6 @@ categories: player
 | Cornish Pirates      |         1 |   1        |
 | Wales                |         1 |   0        |
 | Bristol Rugby        |         1 |   1        |
-| Bordeaux Begles      |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Canterbury           |         1 |   0        |
 | Cardiff Blues        |         1 |   1        |

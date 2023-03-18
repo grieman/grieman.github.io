@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Janco Uys  
-date: 2023-03-11 00:16:19.195522  
+date: 2023-03-17 17:21:34.226888  
 categories: player  
 ---
 # Janco Uys
 
 ## Positions: H
 
-## Current elo: 83.0
+## Current elo: 69.0
 
-## Current Percentile: 43.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |            25 |        0.5 |
+| Griquas |            26 |   0.480769 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Free State Cheetahs |         5 |   0.4      |
+| Free State Cheetahs |         6 |   0.333333 |
 | Pumas               |         5 |   0.5      |
 | Blue Bulls          |         4 |   0.25     |
 | Natal Sharks        |         4 |   0.25     |

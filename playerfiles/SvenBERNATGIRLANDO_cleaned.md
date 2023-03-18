@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Sven BERNAT GIRLANDO  
-date: 2023-03-16 11:29:41.395175  
+date: 2023-03-17 17:23:10.944732  
 categories: player  
 ---
 # Sven BERNAT GIRLANDO
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 105.0
 
-## Current Percentile: 67.0
+## Current Percentile: 66.0
 
 # Elo History
 

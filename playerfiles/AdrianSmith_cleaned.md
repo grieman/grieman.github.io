@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Adrian Smith  
-date: 2023-01-13 11:22:53.579170  
+date: 2023-03-17 17:06:22.284774  
 categories: player  
 ---
 # Adrian Smith
 
 ## Positions: H
 
-## Current elo: 118.0
+## Current elo: 123.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Aurillac      |            68 |   0.558824 |
+| Aurillac      |            67 |   0.567164 |
 | North Harbour |            29 |   0.517241 |
 | Highlanders   |             3 |   0.333333 |
 
@@ -32,17 +32,17 @@ categories: player
 | Beziers            |         5 |   0.4      |
 | Nevers             |         5 |   0.4      |
 | Carcassonne        |         4 |   0.75     |
-| Mont-de-Marsan     |         4 |   0        |
 | Rouen              |         4 |   0.75     |
 | Colomiers          |         4 |   0.75     |
 | Soyaux-Angouleme   |         4 |   0.75     |
 | Vannes             |         4 |   0.75     |
 | Wellington         |         4 |   0.25     |
+| Waikato            |         3 |   0.333333 |
 | Counties Manukau   |         3 |   0.666667 |
 | Southland          |         3 |   1        |
-| Waikato            |         3 |   0.333333 |
-| Oyonnax            |         3 |   1        |
 | Bay of Plenty      |         3 |   0.333333 |
+| Oyonnax            |         3 |   1        |
+| Mont-de-Marsan     |         3 |   0        |
 | Tasman             |         2 |   0.25     |
 | Otago              |         2 |   0.5      |
 | Northland          |         2 |   0.75     |

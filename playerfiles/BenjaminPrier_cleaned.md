@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Benjamin Prier  
-date: 2023-02-02 19:11:32.518341  
+date: 2023-03-17 17:17:27.358140  
 categories: player  
 ---
 # Benjamin Prier
 
 ## Positions: SH
 
-## Current elo: 120.0
+## Current elo: 100.0
 
-## Current Percentile: 92.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,29 +21,29 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |           140 |   0.396429 |
+| Massy  |           149 |   0.392617 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Soyaux-Angouleme           |         9 |   0.388889 |
 | Aurillac                   |         8 |   0.125    |
+| Albi                       |         8 |   0.375    |
 | Colomiers                  |         7 |   0.285714 |
-| Soyaux-Angouleme           |         7 |   0.357143 |
+| Biarritz Olympique         |         7 |   0.285714 |
 | Montauban                  |         7 |   0.142857 |
 | Mont-de-Marsan             |         7 |   0.285714 |
-| Albi                       |         6 |   0.333333 |
-| Biarritz Olympique         |         6 |   0.333333 |
+| Carcassonne                |         7 |   0.857143 |
 | Narbonne                   |         6 |   0.5      |
-| Carcassonne                |         6 |   0.833333 |
-| Tarbes                     |         5 |   0.6      |
-| Nevers                     |         5 |   0.2      |
-| Dax                        |         5 |   0.9      |
 | Vannes                     |         5 |   0.4      |
+| Nevers                     |         5 |   0.2      |
+| Tarbes                     |         5 |   0.6      |
+| Dax                        |         5 |   0.9      |
 | Beziers                    |         5 |   0.2      |
 | US Bressane                |         4 |   0.25     |
 | Chambery                   |         4 |   0.625    |
 | Bourgoin-Jallieu           |         4 |   0.75     |
-| Nice                       |         4 |   0.25     |
 | Bayonne                    |         4 |   0        |
+| Nice                       |         4 |   0.25     |
 | Provence Rugby             |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Grenoble                   |         3 |   0.333333 |
@@ -51,11 +51,12 @@ categories: player
 | Blagnac                    |         3 |   0.333333 |
 | Pau                        |         3 |   0.333333 |
 | Perpignan                  |         3 |   0.333333 |
+| Rouen                      |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   1        |
+| Agen                       |         2 |   0        |
 | Oyonnax                    |         2 |   0        |
 | Dijon                      |         2 |   0.5      |
 | Aubenas                    |         2 |   1        |
 | La Rochelle                |         2 |   0        |
-| Rouen                      |         1 |   0        |
 | Suresnes                   |         1 |   1        |
 | Lyon                       |         1 |   0        |

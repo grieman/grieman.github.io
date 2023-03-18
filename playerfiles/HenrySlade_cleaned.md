@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Slade  
-date: 2023-01-06 00:21:47.959703  
+date: 2023-03-17 17:19:21.210056  
 categories: player  
 ---
 # Henry Slade
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 118.0
+## Current elo: 90.0
 
-## Current Percentile: 88.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -23,8 +23,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |           197 |   0.64467  |
-| England       |            49 |   0.734694 |
+| Exeter Chiefs |           209 |   0.641148 |
+| England       |            52 |   0.730769 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,44 +33,45 @@ categories: player
 | Saracens                 |        16 |   0.34375  |
 | Leicester Tigers         |        16 |   0.5      |
 | Sale Sharks              |        15 |   0.8      |
-| Northampton Saints       |        14 |   0.642857 |
+| Northampton Saints       |        15 |   0.666667 |
 | Harlequins               |        13 |   0.692308 |
 | Gloucester Rugby         |        12 |   0.458333 |
 | Newcastle Falcons        |        12 |   0.833333 |
 | London Irish             |        10 |   0.8      |
 | Bristol Rugby            |        10 |   0.7      |
 | Worcester Warriors       |         9 |   1        |
+| Glasgow Warriors         |         8 |   0.5      |
 | South Africa             |         7 |   0.428571 |
 | Argentina                |         6 |   0.833333 |
-| Glasgow Warriors         |         5 |   0.4      |
-| Italy                    |         5 |   1        |
+| Italy                    |         6 |   1        |
 | Australia                |         5 |   1        |
-| Wales                    |         4 |   0.5      |
-| France                   |         4 |   0.75     |
-| New Zealand              |         3 |   0.5      |
+| Wales                    |         5 |   0.6      |
+| France                   |         5 |   0.6      |
+| Munster                  |         4 |   0.375    |
+| Montpellier Herault      |         4 |   0.75     |
+| Castres Olympique        |         4 |   0.75     |
+| Leinster                 |         3 |   0        |
+| London Welsh             |         3 |   1        |
 | Scotland                 |         3 |   0.166667 |
 | Ireland                  |         3 |   0.666667 |
+| New Zealand              |         3 |   0.5      |
 | Bordeaux Begles          |         3 |   0.666667 |
-| Castres Olympique        |         3 |   0.666667 |
-| London Welsh             |         3 |   1        |
-| Ospreys                  |         2 |   0.5      |
-| Cardiff Blues            |         2 |   1        |
-| Montpellier Herault      |         2 |   1        |
-| Munster                  |         2 |   0.25     |
+| Bulls                    |         2 |   0.5      |
+| Tonga                    |         2 |   1        |
 | Toulon                   |         2 |   0        |
-| Leinster                 |         2 |   0        |
+| Cardiff Blues            |         2 |   1        |
+| Ospreys                  |         2 |   0.5      |
 | La Rochelle              |         2 |   1        |
 | Japan                    |         2 |   1        |
 | Connacht                 |         2 |   1        |
-| Tonga                    |         2 |   1        |
-| Uruguay                  |         1 |   1        |
-| United States of America |         1 |   1        |
-| Bayonne                  |         1 |   1        |
-| Ulster                   |         1 |   0        |
-| Fiji                     |         1 |   1        |
-| Stade Toulousain         |         1 |   1        |
-| Samoa                    |         1 |   1        |
-| Bulls                    |         1 |   1        |
 | Racing 92                |         1 |   1        |
-| Clermont Auvergne        |         1 |   0        |
+| Samoa                    |         1 |   1        |
 | Canada                   |         1 |   1        |
+| Lyon                     |         1 |   1        |
+| Stade Toulousain         |         1 |   1        |
+| Clermont Auvergne        |         1 |   0        |
+| Ulster                   |         1 |   0        |
+| United States of America |         1 |   1        |
+| Uruguay                  |         1 |   1        |
+| Bayonne                  |         1 |   1        |
+| Fiji                     |         1 |   1        |

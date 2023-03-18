@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Samuel Whitelock  
-date: 2023-03-16 11:33:16.562858  
+date: 2023-03-17 17:40:54.366511  
 categories: player  
 ---
 # Samuel Whitelock
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 109.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Crusaders            |           174 |   0.747126 |
+| Crusaders            |           176 |   0.744318 |
 | New Zealand          |           145 |   0.848276 |
 | Saitama Wild Knights |             5 |   1        |
 | Canterbury           |             4 |   0.75     |
@@ -32,8 +32,8 @@ categories: player
 |:----------------------------------|----------:|-----------:|
 | Australia                         |        38 |   0.802632 |
 | South Africa                      |        22 |   0.795455 |
+| Highlanders                       |        22 |   0.818182 |
 | Chiefs                            |        21 |   0.52381  |
-| Highlanders                       |        21 |   0.809524 |
 | Hurricanes                        |        19 |   0.552632 |
 | Blues                             |        18 |   0.833333 |
 | Argentina                         |        16 |   0.875    |
@@ -48,28 +48,28 @@ categories: player
 | Sharks                            |         9 |   0.777778 |
 | Melbourne Rebels                  |         9 |   0.888889 |
 | Stormers                          |         8 |   0.8125   |
-| Western Force                     |         7 |   0.714286 |
 | Bulls                             |         7 |   0.428571 |
+| Western Force                     |         7 |   0.714286 |
 | Cheetahs                          |         5 |   1        |
 | British and Irish Lions           |         4 |   0.375    |
 | Scotland                          |         4 |   1        |
 | Tonga                             |         4 |   1        |
-| Canada                            |         2 |   1        |
-| Southern Kings                    |         2 |   1        |
 | Samoa                             |         2 |   1        |
+| Southern Kings                    |         2 |   1        |
+| Fijian Drua                       |         2 |   0.5      |
+| Namibia                           |         2 |   1        |
+| Canada                            |         2 |   1        |
 | Jaguares                          |         2 |   1        |
 | Italy                             |         2 |   1        |
 | Fiji                              |         2 |   1        |
-| Namibia                           |         2 |   1        |
 | United States of America          |         1 |   1        |
 | Bay of Plenty                     |         1 |   1        |
-| Toyota Verblitz                   |         1 |   1        |
 | Wellington                        |         1 |   0        |
+| Toyota Verblitz                   |         1 |   1        |
 | Toshiba Brave Lupus Tokyo         |         1 |   1        |
 | Georgia                           |         1 |   1        |
 | Sunwolves                         |         1 |   1        |
 | Southland                         |         1 |   1        |
-| Fijian Drua                       |         1 |   1        |
 | North Harbour                     |         1 |   1        |
 | Mitsubishi Dynaboars              |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   1        |

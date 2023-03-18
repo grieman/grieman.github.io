@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Louis Dasalmartini  
-date: 2023-02-02 18:46:03.792349  
+date: 2023-03-17 17:28:58.313423  
 categories: player  
 ---
 # Louis Dasalmartini
 
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -17,11 +17,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |             4 |        0.5 |
+| US Bressane |             6 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Albi                       |         1 |          0 |
-| Blagnac                    |         1 |          0 |
-| Carqueiranne-Hyères        |         1 |          1 |
-| Cognac Saint Jean d'Angély |         1 |          1 |
+| Carqueiranne-Hyères        |         2 |        0.5 |
+| Albi                       |         1 |        0   |
+| Blagnac                    |         1 |        0   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Nice                       |         1 |        0   |

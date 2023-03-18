@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Travis Gordon  
-date: 2023-03-12 11:31:31.909093  
+date: 2023-03-17 17:20:18.754350  
 categories: player  
 ---
 # Travis Gordon
 
 ## Positions: N8
 
-## Current elo: 74.0
+## Current elo: 84.0
 
-## Current Percentile: None
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Golden Lions |             7 |   0.214286 |
+| Golden Lions |             8 |     0.1875 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,3 +30,4 @@ categories: player
 | Blue Bulls          |         1 |        0   |
 | Free State Cheetahs |         1 |        0.5 |
 | Natal Sharks        |         1 |        0   |
+| Pumas               |         1 |        0   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Bradley Slater  
-date: 2023-02-24 09:52:19.151050  
+date: 2023-03-17 17:08:20.026098  
 categories: player  
 ---
 # Bradley Slater
 
 ## Positions: H, FL
 
-## Current elo: 112.0
+## Current elo: 114.0
 
-## Current Percentile: 87.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,14 +21,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chiefs   |            41 |   0.512195 |
+| Chiefs   |            43 |   0.534884 |
 | Taranaki |            27 |   0.555556 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |         8 |   0.375    |
+| Crusaders                |         9 |   0.444444 |
 | Blues                    |         7 |   0.285714 |
-| Highlanders              |         5 |   0.4      |
+| Highlanders              |         6 |   0.5      |
 | Hurricanes               |         4 |   0.25     |
 | Moana Pasifika           |         4 |   1        |
 | Otago                    |         3 |   1        |

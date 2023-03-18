@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Finn Russell  
-date: 2023-02-02 19:10:24.797838  
+date: 2023-03-17 17:37:15.829510  
 categories: player  
 ---
 # Finn Russell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Scotland
 
-## Current elo: 139.0
+## Current elo: 131.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -23,42 +23,43 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Racing 92               |            89 |   0.623596 |
-| Glasgow Warriors        |            82 |   0.621951 |
-| Scotland                |            65 |   0.576923 |
+| Racing 92               |            98 |   0.637755 |
+| Glasgow Warriors        |            84 |   0.619048 |
+| Scotland                |            71 |   0.570423 |
 | British and Irish Lions |             3 |   0.5      |
 | Barbarians              |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Montpellier Herault      |        11 |   0.636364 |
-| Munster                  |        10 |   0.65     |
+| Munster                  |        11 |   0.681818 |
+| Connacht                 |         9 |   0.777778 |
+| Wales                    |         9 |   0.333333 |
 | Ulster                   |         9 |   0.555556 |
+| France                   |         9 |   0.444444 |
+| Stade Toulousain         |         9 |   0.333333 |
+| Stade Francais Paris     |         9 |   0.666667 |
+| England                  |         9 |   0.611111 |
 | Clermont Auvergne        |         8 |   0.75     |
-| Wales                    |         8 |   0.25     |
-| France                   |         8 |   0.5      |
-| Stade Toulousain         |         8 |   0.375    |
-| England                  |         8 |   0.5625   |
+| Ireland                  |         8 |   0.125    |
 | Edinburgh                |         8 |   0.375    |
+| La Rochelle              |         8 |   0.375    |
 | Scarlets                 |         8 |   0.75     |
-| Connacht                 |         8 |   0.75     |
-| La Rochelle              |         7 |   0.428571 |
-| Ireland                  |         7 |   0.142857 |
+| Leinster                 |         7 |   0        |
 | Italy                    |         7 |   1        |
-| Stade Francais Paris     |         7 |   0.571429 |
 | Bordeaux Begles          |         6 |   0.166667 |
+| Ospreys                  |         6 |   1        |
 | Benetton Treviso         |         6 |   1        |
+| Australia                |         6 |   0.5      |
 | Lyon                     |         6 |   0.5      |
-| Leinster                 |         6 |   0        |
 | Cardiff Blues            |         5 |   1        |
-| Ospreys                  |         5 |   1        |
 | Toulon                   |         5 |   0.6      |
-| Australia                |         5 |   0.6      |
-| Racing 92                |         4 |   0.75     |
+| Samoa                    |         4 |   1        |
+| Leicester Tigers         |         4 |   1        |
 | Saracens                 |         4 |   0.5      |
+| Racing 92                |         4 |   0.75     |
 | Perpignan                |         4 |   1        |
 | Pau                      |         4 |   0.75     |
-| Leicester Tigers         |         4 |   1        |
 | Zebre                    |         4 |   1        |
 | Argentina                |         4 |   1        |
 | Japan                    |         3 |   0.666667 |
@@ -67,19 +68,19 @@ categories: player
 | South Africa             |         3 |   0        |
 | Castres Olympique        |         3 |   1        |
 | Dragons                  |         3 |   0.333333 |
-| Samoa                    |         3 |   1        |
-| New Zealand              |         3 |   0        |
-| Georgia                  |         3 |   1        |
 | Agen                     |         3 |   1        |
-| Northampton Saints       |         2 |   0        |
-| Harlequins               |         2 |   0.5      |
+| Georgia                  |         3 |   1        |
+| Northampton Saints       |         3 |   0.333333 |
+| New Zealand              |         3 |   0        |
+| Harlequins               |         3 |   0.666667 |
 | United States of America |         2 |   1        |
 | Bath Rugby               |         2 |   0.5      |
 | Fiji                     |         1 |   1        |
-| Chiefs                   |         1 |   1        |
+| Sale Sharks              |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Hurricanes               |         1 |   0.5      |
 | Tonga                    |         1 |   1        |
 | Biarritz Olympique       |         1 |   0        |
 | Bayonne                  |         1 |   0        |
+| Chiefs                   |         1 |   1        |

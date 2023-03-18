@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Lilan Savioz Fouillet  
-date: 2023-02-24 02:20:57.724841  
+date: 2023-03-17 17:42:49.412407  
 categories: player  
 ---
 # Lilan Savioz Fouillet
 
 ## Positions: C
 
-## Current elo: 103.0
+## Current elo: 94.0
 
-## Current Percentile: None
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,8 +21,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             1 |          0 |
+| Suresnes |             3 |          0 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Dax        |         1 |          0 |
+| Opponent                   |   Matches |   Win Rate |
+|:---------------------------|----------:|-----------:|
+| Albi                       |         1 |          0 |
+| Dax                        |         1 |          0 |
+| Valence Romans Drome Rugby |         1 |          0 |

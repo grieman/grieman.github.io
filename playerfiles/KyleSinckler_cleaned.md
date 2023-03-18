@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Kyle Sinckler  
-date: 2023-02-02 19:07:15.035916  
+date: 2023-03-17 17:23:27.558905  
 categories: player  
 ---
 # Kyle Sinckler
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 90.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,8 +24,8 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Harlequins              |           156 |   0.512821 |
-| England                 |            54 |   0.648148 |
-| Bristol Rugby           |            37 |   0.648649 |
+| England                 |            58 |   0.637931 |
+| Bristol Rugby           |            41 |   0.634146 |
 | British and Irish Lions |            11 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,20 +34,20 @@ categories: player
 | Exeter Chiefs            |        16 |   0.25     |
 | Bath Rugby               |        15 |   0.733333 |
 | Leicester Tigers         |        14 |   0.535714 |
+| Sale Sharks              |        14 |   0.5      |
 | Saracens                 |        14 |   0.214286 |
 | Gloucester Rugby         |        13 |   0.653846 |
 | Northampton Saints       |        12 |   0.333333 |
-| Sale Sharks              |        12 |   0.5      |
 | Newcastle Falcons        |        11 |   0.545455 |
 | London Irish             |        11 |   0.636364 |
 | South Africa             |        11 |   0.454545 |
 | Worcester Warriors       |         8 |   0.625    |
+| Wales                    |         7 |   0.571429 |
+| Italy                    |         7 |   1        |
 | Ireland                  |         7 |   0.428571 |
-| Italy                    |         6 |   1        |
-| France                   |         6 |   0.5      |
+| France                   |         7 |   0.428571 |
 | New Zealand              |         6 |   0.5      |
-| Wales                    |         6 |   0.5      |
-| Scotland                 |         4 |   0.625    |
+| Scotland                 |         5 |   0.5      |
 | Ulster                   |         4 |   0        |
 | London Welsh             |         4 |   1        |
 | Australia                |         4 |   1        |
@@ -63,20 +63,20 @@ categories: player
 | Tonga                    |         2 |   1        |
 | Leinster                 |         2 |   0.5      |
 | Zebre                    |         2 |   1        |
+| Connacht                 |         2 |   1        |
 | Bristol Rugby            |         2 |   0.5      |
 | Grenoble                 |         2 |   0.5      |
+| Bordeaux Begles          |         2 |   0.5      |
 | Edinburgh                |         2 |   0        |
 | Dragons                  |         2 |   1        |
 | Montpellier Herault      |         2 |   0.5      |
 | Calvisano                |         2 |   1        |
-| New Zealand Maori        |         1 |   1        |
 | Barbarians               |         1 |   0        |
 | Benetton Treviso         |         1 |   1        |
 | Blues                    |         1 |   0        |
 | United States of America |         1 |   1        |
-| Bordeaux Begles          |         1 |   1        |
 | Toulon                   |         1 |   1        |
-| Connacht                 |         1 |   1        |
+| New Zealand Maori        |         1 |   1        |
 | Castres Olympique        |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Highlanders              |         1 |   0        |

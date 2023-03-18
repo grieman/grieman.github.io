@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Alessandro Fusco  
-date: 2023-01-06 00:20:50.673751  
+date: 2023-03-16 19:59:28.991176  
 categories: player  
 ---
 # Alessandro Fusco
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Italy
 
-## Current elo: 95.0
+## Current elo: 85.0
 
-## Current Percentile: 20.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,31 +21,41 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Zebre  |            19 |  0.0526316 |
-| Italy  |             8 |  0.375     |
+| Team            |   Appearances |   Win Rate |
+|:----------------|--------------:|-----------:|
+| Zebre           |            20 |      0.05  |
+| Italy           |            12 |      0.25  |
+| Fiamme Oro Roma |             8 |      0.375 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Edinburgh        |         3 |          0 |
-| Munster          |         3 |          0 |
-| Glasgow Warriors |         2 |          0 |
-| Benetton Treviso |         2 |          0 |
-| Argentina        |         1 |          0 |
-| Portugal         |         1 |          1 |
-| Uruguay          |         1 |          1 |
-| Ulster           |         1 |          0 |
-| Stormers         |         1 |          0 |
-| Sharks           |         1 |          0 |
-| Scotland         |         1 |          0 |
-| Scarlets         |         1 |          0 |
-| Lions            |         1 |          0 |
-| Ospreys          |         1 |          0 |
-| Leinster         |         1 |          0 |
-| Ireland          |         1 |          0 |
-| Georgia          |         1 |          0 |
-| England          |         1 |          0 |
-| Dragons          |         1 |          1 |
-| Connacht         |         1 |          0 |
-| Wales            |         1 |          1 |
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Munster              |         3 |        0   |
+| Edinburgh            |         3 |        0   |
+| Femi CZ Rugby Rovigo |         2 |        0   |
+| Rugby Lyons Piacenza |         2 |        0.5 |
+| Ireland              |         2 |        0   |
+| Glasgow Warriors     |         2 |        0   |
+| Wales                |         2 |        0.5 |
+| England              |         2 |        0   |
+| France               |         1 |        0   |
+| Rugby Calvisano      |         1 |        0   |
+| Uruguay              |         1 |        1   |
+| Ulster               |         1 |        0   |
+| Toulon               |         1 |        0   |
+| Stormers             |         1 |        0   |
+| Sharks               |         1 |        0   |
+| Scotland             |         1 |        0   |
+| Scarlets             |         1 |        0   |
+| Rugby Viadana 1970   |         1 |        1   |
+| Connacht             |         1 |        0   |
+| Portugal             |         1 |        1   |
+| Georgia              |         1 |        0   |
+| Ospreys              |         1 |        0   |
+| Newcastle Falcons    |         1 |        0   |
+| Benetton Treviso     |         1 |        0   |
+| Mogliano Rugby 1969  |         1 |        0   |
+| Lions                |         1 |        0   |
+| Leinster             |         1 |        0   |
+| Lazio Rugby          |         1 |        1   |
+| Dragons              |         1 |        1   |
+| Argentina            |         1 |        0   |

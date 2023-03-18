@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pasilio Tosi  
-date: 2023-03-12 11:31:51.918494  
+date: 2023-03-16 19:47:06.057676  
 categories: player  
 ---
 # Pasilio Tosi
@@ -18,7 +18,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Bay of Plenty |            14 |   0.571429 |
-| Hurricanes    |             3 |   0.666667 |
+| Hurricanes    |             4 |   0.5      |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
@@ -27,6 +27,7 @@ categories: player
 | Taranaki       |         2 |        0.5 |
 | Wellington     |         2 |        0.5 |
 | Auckland       |         1 |        1   |
+| Blues          |         1 |        0   |
 | Brumbies       |         1 |        0   |
 | Canterbury     |         1 |        0   |
 | Highlanders    |         1 |        1   |

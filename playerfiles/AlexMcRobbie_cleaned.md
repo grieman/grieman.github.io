@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Alex McRobbie  
-date: 2023-03-12 11:32:02.445589  
+date: 2023-03-17 17:40:19.009106  
 categories: player  
 ---
 # Alex McRobbie
 
 ## Positions: FL, L
 
-## Current elo: 64.0
+## Current elo: 69.0
 
-## Current Percentile: 5.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Moana Pasifika   |            13 |  0.0769231 |
+| Moana Pasifika   |            14 |  0.0714286 |
 | Counties Manukau |             9 |  0.333333  |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -30,6 +30,7 @@ categories: player
 | Blues                    |         2 |        0   |
 | Hurricanes               |         2 |        0.5 |
 | North Harbour            |         2 |        0   |
+| Western Force            |         2 |        0   |
 | Bay of Plenty            |         1 |        1   |
 | Canterbury               |         1 |        0   |
 | Crusaders                |         1 |        0   |
@@ -41,4 +42,3 @@ categories: player
 | Southland                |         1 |        0   |
 | Taranaki                 |         1 |        0   |
 | Wellington               |         1 |        0   |
-| Western Force            |         1 |        0   |

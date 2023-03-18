@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Cadan Murley  
-date: 2023-01-06 00:13:59.070247  
+date: 2023-03-16 19:51:14.533655  
 categories: player  
 ---
 # Cadan Murley
 
 ## Positions: W
 
-## Current elo: 88.0
+## Current elo: 94.0
 
-## Current Percentile: 10.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,28 +21,30 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            80 |     0.5625 |
+| Harlequins |            90 |   0.533333 |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Northampton Saints |         8 |   0.375    |
-| Worcester Warriors |         7 |   0.571429 |
-| Exeter Chiefs      |         7 |   0.428571 |
-| London Irish       |         6 |   0.583333 |
-| Bristol Rugby      |         5 |   0.6      |
-| Leicester Tigers   |         5 |   0.3      |
-| Wasps              |         5 |   1        |
-| Saracens           |         5 |   0.2      |
-| Sale Sharks        |         5 |   0.2      |
-| Bath Rugby         |         5 |   0.6      |
-| Gloucester Rugby   |         5 |   1        |
-| Newcastle Falcons  |         4 |   1        |
-| Benetton Treviso   |         2 |   0.5      |
-| Clermont Auvergne  |         2 |   0        |
-| Cardiff Blues      |         2 |   1        |
-| Castres Olympique  |         2 |   1        |
-| Racing 92          |         1 |   1        |
-| Grenoble           |         1 |   1        |
-| Scarlets           |         1 |   1        |
-| Sharks             |         1 |   0        |
-| Ulster             |         1 |   0        |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Exeter Chiefs       |         8 |   0.5      |
+| Northampton Saints  |         8 |   0.375    |
+| Worcester Warriors  |         7 |   0.571429 |
+| London Irish        |         6 |   0.583333 |
+| Bristol Rugby       |         6 |   0.5      |
+| Sale Sharks         |         6 |   0.166667 |
+| Gloucester Rugby    |         6 |   0.833333 |
+| Wasps               |         5 |   1        |
+| Saracens            |         5 |   0.2      |
+| Bath Rugby          |         5 |   0.6      |
+| Leicester Tigers    |         5 |   0.3      |
+| Newcastle Falcons   |         4 |   1        |
+| Racing 92           |         3 |   0.333333 |
+| Benetton Treviso    |         2 |   0.5      |
+| Clermont Auvergne   |         2 |   0        |
+| Castres Olympique   |         2 |   1        |
+| Sharks              |         2 |   0.5      |
+| Cardiff Blues       |         2 |   1        |
+| Montpellier Herault |         2 |   0.5      |
+| Munster             |         1 |   0        |
+| Grenoble            |         1 |   1        |
+| Scarlets            |         1 |   1        |
+| Ulster              |         1 |   0        |

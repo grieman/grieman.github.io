@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sam Matenga  
-date: 2023-02-28 11:05:33.174144  
+date: 2023-03-16 19:47:03.284615  
 categories: player  
 ---
 # Sam Matenga
 
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 82.0
 
-## Current Percentile: None
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,8 +21,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Seattle Seawolves |             1 |          1 |
+| Seattle Seawolves |             5 |          1 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Rugby ATL  |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Rugby ATL         |         2 |          1 |
+| Dallas Jackals    |         1 |          1 |
+| Houston SaberCats |         1 |          1 |
+| Rugby New York    |         1 |          1 |

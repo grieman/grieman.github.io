@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nazareno Valentini  
-date: 2023-03-16 11:32:12.501922  
+date: 2023-03-17 17:34:02.173623  
 categories: player  
 ---
 # Nazareno Valentini
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 95.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 

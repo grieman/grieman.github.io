@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke Northmore  
-date: 2023-02-16 11:19:36.424200  
+date: 2023-03-17 17:23:54.901325  
 categories: player  
 ---
 # Luke Northmore
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 89.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,13 +21,13 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            50 |       0.62 |
+| Harlequins |            53 |   0.603774 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Exeter Chiefs      |         6 |   0.333333 |
-| Bristol Rugby      |         5 |   0.6      |
-| Gloucester Rugby   |         5 |   1        |
+| Exeter Chiefs      |         7 |   0.428571 |
+| Bristol Rugby      |         6 |   0.5      |
+| Gloucester Rugby   |         6 |   0.833333 |
 | Newcastle Falcons  |         5 |   0.8      |
 | London Irish       |         4 |   0.75     |
 | Northampton Saints |         4 |   1        |

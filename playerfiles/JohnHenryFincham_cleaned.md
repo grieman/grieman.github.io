@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: John Henry Fincham  
-date: 2023-02-02 18:40:58.895274  
+date: 2023-03-17 17:43:38.884704  
 categories: player  
 ---
 # John Henry Fincham
 
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 101.0
 
-## Current Percentile: 43.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
 | Beziers                    |            26 |   0.326923 |
-| Valence Romans Drome Rugby |             7 |   0.428571 |
+| Valence Romans Drome Rugby |            11 |   0.545455 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,22 +31,25 @@ categories: player
 | Provence Rugby             |         3 |   0.333333 |
 | Vannes                     |         2 |   0.5      |
 | US Bressane                |         2 |   0        |
+| Narbonne                   |         2 |   1        |
 | Aurillac                   |         2 |   0.5      |
 | Oyonnax                    |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | Tarbes                     |         1 |   1        |
+| Suresnes                   |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Rennes                     |         1 |   1        |
 | Perpignan                  |         1 |   0        |
 | Agen                       |         1 |   1        |
-| Narbonne                   |         1 |   1        |
+| Nice                       |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Grenoble                   |         1 |   1        |
 | Dax                        |         1 |   0        |
 | Colomiers                  |         1 |   0        |
 | Chambery                   |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |
+| Bourgoin-Jallieu           |         1 |   1        |
 | Blagnac                    |         1 |   0        |
 | Biarritz Olympique         |         1 |   0        |
 | Nevers                     |         1 |   0        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Keita Inagaki  
-date: 2023-02-02 18:48:15.120267  
+date: 2023-03-16 19:50:20.910177  
 categories: player  
 ---
 # Keita Inagaki
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Japan
 
-## Current elo: 120.0
+## Current elo: 123.0
 
-## Current Percentile: 94.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -23,59 +23,60 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            59 |  0.915254  |
+| Saitama Wild Knights |            83 |  0.885542  |
 | Japan                |            40 |  0.3875    |
 | Sunwolves            |            24 |  0.0416667 |
 | Melbourne Rebels     |             1 |  0         |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Yokohama Canon Eagles             |         7 |   0.857143 |
+| Yokohama Canon Eagles             |         8 |   0.875    |
+| Toshiba Brave Lupus Tokyo         |         8 |   0.8125   |
+| Urayasu D-Rocks                   |         7 |   0.857143 |
+| Tokyo Sungoliath                  |         7 |   0.714286 |
+| Kubota Spears Funabashi Tokyo-Bay |         7 |   1        |
 | Shizuoka Blue Revs                |         7 |   0.785714 |
+| Toyota Verblitz                   |         6 |   0.833333 |
 | Black Rams Tokyo                  |         6 |   0.833333 |
+| Kobelco Kobe Steelers             |         6 |   0.916667 |
 | Scotland                          |         5 |   0.2      |
-| Toshiba Brave Lupus Tokyo         |         5 |   1        |
 | Ireland                           |         5 |   0.2      |
-| Toyota Verblitz                   |         4 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         4 |   1        |
-| Kobelco Kobe Steelers             |         4 |   0.875    |
+| Hanazono Kintetsu Liners          |         4 |   1        |
+| Green Rockets Tokatsu             |         4 |   1        |
 | France                            |         4 |   0.125    |
-| Melbourne Rebels                  |         3 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
-| Green Rockets Tokatsu             |         3 |   1        |
 | Coca-Cola Red Sparks              |         3 |   1        |
 | South Africa                      |         3 |   0.333333 |
-| Tokyo Sungoliath                  |         3 |   0.666667 |
+| Melbourne Rebels                  |         3 |   0        |
 | Bulls                             |         3 |   0.333333 |
-| Urayasu D-Rocks                   |         3 |   1        |
 | New South Wales Waratahs          |         3 |   0        |
-| Sharks                            |         2 |   0        |
 | Samoa                             |         2 |   1        |
 | Russia                            |         2 |   1        |
+| Sharks                            |         2 |   0        |
 | Romania                           |         2 |   1        |
 | Queensland Reds                   |         2 |   0        |
 | New Zealand Maori                 |         2 |   0        |
 | New Zealand                       |         2 |   0        |
 | Australia                         |         2 |   0        |
-| Chiefs                            |         2 |   0        |
-| Cheetahs                          |         2 |   0        |
+| Munakata Sanix Blues              |         2 |   1        |
 | Italy                             |         2 |   0.5      |
 | Brumbies                          |         2 |   0        |
-| Hanazono Kintetsu Liners          |         2 |   1        |
 | Georgia                           |         2 |   0.5      |
 | England                           |         2 |   0        |
-| Mitsubishi Dynaboars              |         2 |   1        |
+| Chiefs                            |         2 |   0        |
+| Mie Honda Heat                    |         2 |   1        |
+| Cheetahs                          |         2 |   0        |
+| Tonga                             |         1 |   1        |
 | Uruguay                           |         1 |   1        |
 | British and Irish Lions           |         1 |   0        |
 | United States of America          |         1 |   1        |
+| Toyota Industries Shuttles Aichi  |         1 |   1        |
 | Canada                            |         1 |   1        |
-| Tonga                             |         1 |   1        |
-| Munakata Sanix Blues              |         1 |   1        |
-| Stormers                          |         1 |   0        |
 | Southern Kings                    |         1 |   0        |
+| Stormers                          |         1 |   0        |
 | Crusaders                         |         1 |   0        |
 | Highlanders                       |         1 |   0        |
 | Hino Red Dolphins                 |         1 |   1        |
 | Jaguares                          |         1 |   0        |
 | Lions                             |         1 |   0        |
-| Mie Honda Heat                    |         1 |   1        |
+| Mitsubishi Dynaboars              |         1 |   1        |

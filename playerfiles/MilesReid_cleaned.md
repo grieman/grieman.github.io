@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Miles Reid  
-date: 2023-02-02 18:55:24.080067  
+date: 2023-03-17 17:17:05.739504  
 categories: player  
 ---
 # Miles Reid
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Chile
 
-## Current elo: 84.0
+## Current elo: 105.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,36 +23,37 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bath Rugby |            58 |   0.413793 |
-| Selknam    |            16 |   0.625    |
+| Bath Rugby |            63 |   0.396825 |
+| Selknam    |            19 |   0.578947 |
 | Chile      |             8 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Newcastle Falcons        |         7 |   0.714286 |
-| Northampton Saints       |         5 |   0.8      |
-| Saracens                 |         5 |   0.3      |
-| Exeter Chiefs            |         5 |   0        |
-| Gloucester Rugby         |         5 |   0.4      |
+| Northampton Saints       |         6 |   0.666667 |
+| Leicester Tigers         |         5 |   0.4      |
 | Harlequins               |         5 |   0.2      |
-| Leicester Tigers         |         4 |   0.5      |
+| Penarol Rugby            |         5 |   0.4      |
+| Bristol Rugby            |         5 |   0.2      |
+| Jaguares XV              |         5 |   0.6      |
+| Saracens                 |         5 |   0.3      |
+| Gloucester Rugby         |         5 |   0.4      |
+| Exeter Chiefs            |         5 |   0        |
 | Wasps                    |         4 |   0        |
-| Sale Sharks              |         4 |   0.5      |
-| Bristol Rugby            |         4 |   0.25     |
+| London Irish             |         4 |   0.25     |
 | Worcester Warriors       |         4 |   0.75     |
-| Jaguares XV              |         4 |   0.5      |
-| London Irish             |         3 |   0.333333 |
-| Olimpia Lions            |         3 |   0.333333 |
-| Penarol Rugby            |         3 |   0.666667 |
+| Sale Sharks              |         4 |   0.5      |
 | Cafeteros Pro            |         3 |   1        |
-| Russia                   |         2 |   1        |
+| Olimpia Lions            |         3 |   0.333333 |
 | Cobras                   |         2 |   1        |
 | United States of America |         2 |   0.5      |
-| Glasgow Warriors         |         1 |   0.5      |
-| Ospreys                  |         1 |   1        |
-| Romania                  |         1 |   0        |
-| Ceibos Rugby             |         1 |   0        |
-| Scotland                 |         1 |   0        |
+| Russia                   |         2 |   1        |
 | Tonga                    |         1 |   0        |
 | Toulon                   |         1 |   0        |
 | Brazil                   |         1 |   1        |
+| Scotland                 |         1 |   0        |
+| Romania                  |         1 |   0        |
+| Ospreys                  |         1 |   1        |
+| Glasgow Warriors         |         1 |   0.5      |
+| Ceibos Rugby             |         1 |   0        |
+| Zebre                    |         1 |   1        |

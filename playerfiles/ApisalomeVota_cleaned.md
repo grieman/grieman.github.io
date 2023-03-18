@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Apisalome Vota  
-date: 2023-03-11 00:15:37.821414  
+date: 2023-03-17 17:38:02.271252  
 categories: player  
 ---
 # Apisalome Vota
 
 ## Positions: C
 
-## Current elo: 117.0
+## Current elo: 119.0
 
-## Current Percentile: 80.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |            16 |      0.375 |
+| Fijian Drua |            17 |   0.411765 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -31,6 +31,7 @@ categories: player
 | Blues                    |         1 |        0   |
 | Canberra Vikings         |         1 |        1   |
 | Chiefs                   |         1 |        0   |
+| Crusaders                |         1 |        1   |
 | Highlanders              |         1 |        0   |
 | Hurricanes               |         1 |        0   |
 | Moana Pasifika           |         1 |        1   |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Mihlali Langa Mosi  
-date: 2023-03-16 11:31:39.289899  
+date: 2023-03-17 17:30:30.351520  
 categories: player  
 ---
 # Mihlali Langa Mosi
 
 ## Positions: N8, L
 
-## Current elo: 100.0
+## Current elo: 101.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 

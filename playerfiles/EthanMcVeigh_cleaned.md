@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ethan McVeigh  
-date: 2023-03-04 11:36:25.636264  
+date: 2023-03-16 19:54:52.837859  
 categories: player  
 ---
 # Ethan McVeigh
 
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
@@ -22,7 +22,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | San Diego Legion |             9 |   0.444444 |
-| American Raptors |             3 |   0        |
+| American Raptors |             4 |   0        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -37,3 +37,4 @@ categories: player
 | Selknam           |         1 |        0   |
 | Toronto Arrows    |         1 |        1   |
 | Utah Warriors     |         1 |        0   |
+| Yacare XV         |         1 |        0   |

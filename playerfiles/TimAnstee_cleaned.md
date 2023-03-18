@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tim Anstee  
-date: 2023-03-02 11:21:33.025629  
+date: 2023-03-17 17:39:41.535352  
 categories: player  
 ---
 # Tim Anstee
 
 ## Positions: FL, N8
 
-## Current elo: 72.0
+## Current elo: 53.0
 
-## Current Percentile: 4.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,18 +21,18 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Western Force |            27 |   0.333333 |
+| Western Force |            29 |   0.344828 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |         5 |   0        |
-| Melbourne Rebels         |         4 |   0.75     |
-| New South Wales Waratahs |         4 |   0.5      |
-| Queensland Reds          |         3 |   0.333333 |
-| Chiefs                   |         2 |   0        |
-| Crusaders                |         2 |   0        |
-| Highlanders              |         2 |   0        |
-| Hurricanes               |         2 |   0.5      |
-| Blues                    |         1 |   0        |
-| Fijian Drua              |         1 |   1        |
-| Moana Pasifika           |         1 |   1        |
+| Brumbies                 |         5 |       0    |
+| Melbourne Rebels         |         4 |       0.75 |
+| New South Wales Waratahs |         4 |       0.5  |
+| Queensland Reds          |         4 |       0.25 |
+| Chiefs                   |         2 |       0    |
+| Crusaders                |         2 |       0    |
+| Highlanders              |         2 |       0    |
+| Hurricanes               |         2 |       0.5  |
+| Moana Pasifika           |         2 |       1    |
+| Blues                    |         1 |       0    |
+| Fijian Drua              |         1 |       1    |

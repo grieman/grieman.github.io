@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Hiraoki Sugimoto  
-date: 2023-01-13 11:38:50.431269  
+date: 2023-03-17 17:15:56.825297  
 categories: player  
 ---
 # Hiraoki Sugimoto
 
 ## Positions: H
 
-## Current elo: 113.0
+## Current elo: 115.0
 
-## Current Percentile: 84.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,24 +21,24 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |            39 |   0.653846 |
+| Kubota Spears Funabashi Tokyo-Bay |            61 |   0.581967 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Green Rockets Tokatsu            |         4 |   0.625    |
-| Yokohama Canon Eagles            |         3 |   0.666667 |
-| Urayasu D-Rocks                  |         3 |   1        |
-| Mie Honda Heat                   |         3 |   1        |
+| Urayasu D-Rocks                  |         6 |   0.666667 |
+| Green Rockets Tokatsu            |         5 |   0.7      |
+| Saitama Wild Knights             |         5 |   0        |
+| Shizuoka Blue Revs               |         5 |   0.4      |
+| Toshiba Brave Lupus Tokyo        |         5 |   0.6      |
+| Yokohama Canon Eagles            |         4 |   0.5      |
+| Kobelco Kobe Steelers            |         4 |   0.5      |
+| Mie Honda Heat                   |         4 |   0.75     |
+| Toyota Verblitz                  |         4 |   0.25     |
+| Toyota Industries Shuttles Aichi |         3 |   1        |
+| Hanazono Kintetsu Liners         |         3 |   0.666667 |
 | Munakata Sanix Blues             |         3 |   1        |
-| Saitama Wild Knights             |         3 |   0        |
-| Shizuoka Blue Revs               |         3 |   0.333333 |
-| Toyota Verblitz                  |         3 |   0.333333 |
-| Toshiba Brave Lupus Tokyo        |         3 |   0.666667 |
-| Hanazono Kintetsu Liners         |         2 |   0.5      |
-| Kobelco Kobe Steelers            |         2 |   0.5      |
+| Tokyo Sungoliath                 |         3 |   0        |
+| Black Rams Tokyo                 |         2 |   1        |
 | Coca-Cola Red Sparks             |         2 |   1        |
-| Toyota Industries Shuttles Aichi |         1 |   1        |
-| Black Rams Tokyo                 |         1 |   1        |
-| Tokyo Sungoliath                 |         1 |   0        |
+| NTT Docomo Red Hurricanes Osaka  |         2 |   1        |
 | Hino Red Dolphins                |         1 |   1        |
-| NTT Docomo Red Hurricanes Osaka  |         1 |   1        |

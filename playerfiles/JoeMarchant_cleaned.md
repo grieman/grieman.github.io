@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Joe Marchant  
-date: 2023-02-02 18:58:20.574755  
+date: 2023-03-17 17:38:42.118003  
 categories: player  
 ---
 # Joe Marchant
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 96.0
+## Current elo: 97.0
 
-## Current Percentile: 51.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,17 +23,17 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |           141 |   0.521277 |
-| England    |            12 |   0.583333 |
+| Harlequins |           145 |   0.52069  |
+| England    |            13 |   0.538462 |
 | Blues      |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Northampton Saints       |        14 |   0.428571 |
+| Exeter Chiefs            |        13 |   0.384615 |
 | Sale Sharks              |        12 |   0.5      |
-| Exeter Chiefs            |        12 |   0.333333 |
-| Leicester Tigers         |        11 |   0.363636 |
 | Newcastle Falcons        |        11 |   0.636364 |
+| Leicester Tigers         |        11 |   0.363636 |
 | Bath Rugby               |        10 |   0.7      |
 | Gloucester Rugby         |        10 |   0.8      |
 | Wasps                    |         9 |   0.555556 |
@@ -41,30 +41,31 @@ categories: player
 | Worcester Warriors       |         8 |   0.5      |
 | Saracens                 |         8 |   0        |
 | London Irish             |         7 |   0.642857 |
+| Racing 92                |         3 |   0.333333 |
 | Ireland                  |         3 |   0.333333 |
-| Racing 92                |         2 |   0.5      |
+| Scotland                 |         2 |   0        |
 | Sharks                   |         2 |   0.5      |
 | Timisoara Saracens       |         2 |   1        |
 | Wales                    |         2 |   1        |
-| La Rochelle              |         2 |   0        |
+| Montpellier Herault      |         2 |   0.5      |
 | Agen                     |         2 |   1        |
-| Italy                    |         2 |   1        |
+| La Rochelle              |         2 |   0        |
 | Benetton Treviso         |         2 |   0.5      |
 | Edinburgh                |         2 |   0        |
 | Cardiff Blues            |         2 |   1        |
-| Scotland                 |         1 |   0        |
+| Italy                    |         2 |   1        |
+| Castres Olympique        |         1 |   1        |
 | Bulls                    |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Stade Francais Paris     |         1 |   1        |
 | South Africa             |         1 |   1        |
 | Australia                |         1 |   0        |
-| Hurricanes               |         1 |   1        |
-| Castres Olympique        |         1 |   1        |
 | Chiefs                   |         1 |   0        |
 | Crusaders                |         1 |   0        |
 | France                   |         1 |   0        |
-| New South Wales Waratahs |         1 |   1        |
 | Grenoble                 |         1 |   0        |
+| New South Wales Waratahs |         1 |   1        |
 | Highlanders              |         1 |   1        |
+| Hurricanes               |         1 |   1        |
 | Scarlets                 |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Marnus van der Merwe  
-date: 2023-03-11 00:14:29.546374  
+date: 2023-03-17 17:12:17.079129  
 categories: player  
 ---
 # Marnus van der Merwe
 
 ## Positions: H, FL
 
-## Current elo: 105.0
+## Current elo: 118.0
 
-## Current Percentile: 50.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -21,11 +21,11 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Free State Cheetahs |            27 |   0.574074 |
+| Free State Cheetahs |            28 |   0.589286 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Griquas          |         6 |   0.833333 |
+| Griquas          |         7 |   0.857143 |
 | Pumas            |         6 |   0.5      |
 | Western Province |         6 |   0.5      |
 | Natal Sharks     |         4 |   0.75     |

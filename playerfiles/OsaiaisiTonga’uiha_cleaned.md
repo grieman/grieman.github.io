@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Osaiaisi Tonga’uiha  
-date: 2023-03-16 11:32:55.926688  
+date: 2023-03-17 17:06:31.783758  
 categories: player  
 ---
 # Osaiaisi Tonga’uiha
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 87.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 

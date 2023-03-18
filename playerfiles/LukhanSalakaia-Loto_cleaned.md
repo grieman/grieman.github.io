@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Lukhan Salakaia-Loto  
-date: 2023-01-06 00:26:40.569647  
+date: 2023-03-17 17:26:40.238528  
 categories: player  
 ---
 # Lukhan Salakaia-Loto
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 101.0
+## Current elo: 82.0
 
-## Current Percentile: 27.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -25,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Queensland Reds    |            69 |   0.398551 |
 | Australia          |            31 |   0.435484 |
-| Northampton Saints |            14 |   0.428571 |
+| Northampton Saints |            20 |   0.4      |
 | Brisbane City      |            11 |   0.454545 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -40,42 +40,42 @@ categories: player
 | Argentina                |         4 |   0.625    |
 | Blues                    |         4 |   0        |
 | Crusaders                |         3 |   0        |
-| Ireland                  |         3 |   0.333333 |
 | South Africa             |         3 |   0.5      |
 | France                   |         3 |   0.666667 |
 | Bulls                    |         3 |   0.333333 |
 | Highlanders              |         3 |   0        |
+| Ireland                  |         3 |   0.333333 |
 | Jaguares                 |         3 |   0        |
+| Bath Rugby               |         2 |   0.5      |
 | Sharks                   |         2 |   0.5      |
 | Queensland Country       |         2 |   0.5      |
+| Bristol Rugby            |         2 |   0.5      |
 | Melbourne Rising         |         2 |   0.5      |
 | Canberra Vikings         |         2 |   0.5      |
+| Munster                  |         2 |   0        |
 | Lions                    |         2 |   0        |
 | Hurricanes               |         2 |   0        |
 | Harlequins               |         2 |   0.5      |
-| Sale Sharks              |         1 |   0        |
+| Exeter Chiefs            |         2 |   0.5      |
+| Gloucester Rugby         |         2 |   0.5      |
+| La Rochelle              |         2 |   0        |
+| Saracens                 |         1 |   0        |
 | Wasps                    |         1 |   1        |
 | Wales                    |         1 |   0        |
 | Uruguay                  |         1 |   1        |
-| Exeter Chiefs            |         1 |   1        |
 | Stormers                 |         1 |   1        |
 | Southern Kings           |         1 |   1        |
 | Fiji                     |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Scotland                 |         1 |   0        |
-| Saracens                 |         1 |   0        |
+| Leicester Tigers         |         1 |   0        |
 | Samoa                    |         1 |   1        |
 | Georgia                  |         1 |   1        |
-| La Rochelle              |         1 |   0        |
 | Perth Spirit             |         1 |   0        |
 | North Harbour Rays       |         1 |   0        |
 | Newcastle Falcons        |         1 |   1        |
-| Bristol Rugby            |         1 |   1        |
-| Gloucester Rugby         |         1 |   0        |
+| Greater Sydney Rams      |         1 |   1        |
 | NSW Country Eagles       |         1 |   0        |
 | England                  |         1 |   0        |
-| Greater Sydney Rams      |         1 |   1        |
 | London Irish             |         1 |   1        |
-| Bath Rugby               |         1 |   0        |
-| Leicester Tigers         |         1 |   0        |
-| Munster                  |         1 |   0        |
+| Sale Sharks              |         1 |   0        |

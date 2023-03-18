@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Hoskins Sotutu  
-date: 2023-03-02 11:26:19.914647  
+date: 2023-03-17 17:39:13.193867  
 categories: player  
 ---
 # Hoskins Sotutu
@@ -23,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Blues            |            39 |   0.730769 |
+| Blues            |            41 |   0.719512 |
 | New Zealand      |            15 |   0.866667 |
 | Auckland         |            12 |   0.833333 |
 | Counties Manukau |             4 |   0        |
@@ -34,13 +34,13 @@ categories: player
 | Crusaders                |         7 |   0.142857 |
 | Australia                |         6 |   0.916667 |
 | Chiefs                   |         6 |   0.666667 |
-| Hurricanes               |         4 |   0.75     |
+| Hurricanes               |         5 |   0.8      |
+| Brumbies                 |         4 |   0.75     |
 | Argentina                |         3 |   0.666667 |
 | North Harbour            |         3 |   0.333333 |
 | Canterbury               |         3 |   0.666667 |
-| Brumbies                 |         3 |   1        |
-| Wellington               |         2 |   1        |
 | Waikato                  |         2 |   0.5      |
+| Wellington               |         2 |   1        |
 | Bulls                    |         2 |   0.75     |
 | Melbourne Rebels         |         2 |   1        |
 | Queensland Reds          |         2 |   1        |

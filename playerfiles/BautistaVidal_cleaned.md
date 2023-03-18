@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Bautista Vidal  
-date: 2023-03-12 11:30:13.402416  
+date: 2023-03-17 17:25:34.505612  
 categories: player  
 ---
 # Bautista Vidal

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Henry Taefu  
-date: 2023-03-02 11:28:02.111857  
+date: 2023-03-16 20:01:49.288203  
 categories: player  
 ---
 # Henry Taefu
@@ -23,20 +23,20 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Colomiers           |            20 |   0.4      |
-| Western Force       |            17 |   0.117647 |
-| Brisbane City       |            12 |   0.916667 |
-| Samoa               |            12 |   0.5      |
-| Moana Pasifika      |            10 |   0.1      |
-| North Harbour       |            10 |   0.5      |
-| Greater Sydney Rams |             6 |   0.333333 |
-| Queensland Reds     |             4 |   0        |
+| Colomiers           |            20 |  0.4       |
+| Western Force       |            17 |  0.117647  |
+| Brisbane City       |            12 |  0.916667  |
+| Moana Pasifika      |            12 |  0.0833333 |
+| Samoa               |            12 |  0.5       |
+| North Harbour       |            10 |  0.5       |
+| Greater Sydney Rams |             6 |  0.333333  |
+| Queensland Reds     |             4 |  0         |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Chiefs                   |         5 |       0    |
 | Brumbies                 |         5 |       0    |
 | Melbourne Rebels         |         5 |       0    |
-| Chiefs                   |         4 |       0    |
 | Queensland Reds          |         4 |       0    |
 | Canberra Vikings         |         4 |       0.5  |
 | Queensland Country       |         4 |       0.5  |
@@ -53,13 +53,13 @@ categories: player
 | Vannes                   |         2 |       0.5  |
 | Mont-de-Marsan           |         2 |       0.5  |
 | Melbourne Rising         |         2 |       0.5  |
+| Western Force            |         2 |       0    |
 | Carcassonne              |         2 |       0.5  |
 | Hurricanes               |         2 |       0.5  |
 | Grenoble                 |         2 |       0.5  |
 | Beziers                  |         2 |       0    |
 | Brisbane City            |         2 |       1    |
 | Counties Manukau         |         2 |       1    |
-| Ireland                  |         1 |       0    |
 | Wales                    |         1 |       0    |
 | Waikato                  |         1 |       0    |
 | Bay of Plenty            |         1 |       0    |
@@ -69,7 +69,7 @@ categories: player
 | Soyaux-Angouleme         |         1 |       0    |
 | Scotland                 |         1 |       0    |
 | Russia                   |         1 |       1    |
-| Northland                |         1 |       1    |
+| Ireland                  |         1 |       0    |
 | Japan                    |         1 |       0    |
 | North Harbour Rays       |         1 |       1    |
 | Dax                      |         1 |       0    |
@@ -81,4 +81,4 @@ categories: player
 | Aurillac                 |         1 |       1    |
 | Massy                    |         1 |       1    |
 | Manawatu                 |         1 |       1    |
-| Western Force            |         1 |       0    |
+| Northland                |         1 |       1    |

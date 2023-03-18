@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jan Adriaan Booysen  
-date: 2023-03-02 11:21:58.711435  
+date: 2023-03-17 17:04:36.874497  
 categories: player  
 ---
 # Jan Adriaan Booysen
 
 ## Positions: N8
 
-## Current elo: 90.0
+## Current elo: 86.0
 
-## Current Percentile: 25.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,9 +21,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |             2 |          0 |
+| Dallas Jackals |             4 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Houston SaberCats |         1 |          0 |
+| San Diego Legion  |         1 |          0 |
+| Seattle Seawolves |         1 |          0 |
 | Utah Warriors     |         1 |          0 |

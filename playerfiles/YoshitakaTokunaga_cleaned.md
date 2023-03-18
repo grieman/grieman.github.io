@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Yoshitaka Tokunaga  
-date: 2023-02-02 18:58:24.849722  
+date: 2023-03-17 17:20:51.571951  
 categories: player  
 ---
 # Yoshitaka Tokunaga
 
-## Positions: FL, N8
+## Positions: N8, FL
 
 ## Country: Japan
 
-## Current elo: 98.0
+## Current elo: 94.0
 
-## Current Percentile: 52.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,42 +23,44 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            32 |   0.59375  |
+| Toshiba Brave Lupus Tokyo |            39 |   0.551282 |
 | Sunwolves                 |            19 |   0.263158 |
 | Japan                     |            10 |   0.35     |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Shizuoka Blue Revs                |         5 |   0.6      |
+| Kubota Spears Funabashi Tokyo-Bay |         5 |   0.4      |
+| Shizuoka Blue Revs                |         4 |   0.5      |
+| Saitama Wild Knights              |         4 |   0.125    |
 | Black Rams Tokyo                  |         4 |   0.75     |
 | Yokohama Canon Eagles             |         3 |   0.666667 |
-| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |
-| Toyota Verblitz                   |         3 |   0.666667 |
+| Toyota Verblitz                   |         3 |   0.333333 |
 | Bulls                             |         3 |   0.666667 |
-| Saitama Wild Knights              |         3 |   0        |
+| Green Rockets Tokatsu             |         3 |   1        |
 | Ireland                           |         3 |   0        |
+| Urayasu D-Rocks                   |         2 |   0        |
 | Tokyo Sungoliath                  |         2 |   0.5      |
 | Stormers                          |         2 |   0.5      |
 | Sharks                            |         2 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
-| Melbourne Rebels                  |         2 |   0        |
 | Lions                             |         2 |   0        |
+| Melbourne Rebels                  |         2 |   0        |
+| Kobelco Kobe Steelers             |         2 |   0.5      |
 | Blues                             |         2 |   0.5      |
-| Green Rockets Tokatsu             |         2 |   1        |
 | Italy                             |         2 |   0.5      |
-| Kobelco Kobe Steelers             |         1 |   1        |
 | France                            |         1 |   0.5      |
 | Brumbies                          |         1 |   0        |
+| Toyota Industries Shuttles Aichi  |         1 |   1        |
 | Chiefs                            |         1 |   0        |
-| South Africa                      |         1 |   0        |
 | Coca-Cola Red Sparks              |         1 |   1        |
+| South Africa                      |         1 |   0        |
 | Crusaders                         |         1 |   0        |
-| Queensland Reds                   |         1 |   1        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
 | Romania                           |         1 |   1        |
+| Queensland Reds                   |         1 |   1        |
 | Portugal                          |         1 |   1        |
 | New South Wales Waratahs          |         1 |   0        |
-| Munakata Sanix Blues              |         1 |   0        |
-| Mitsubishi Dynaboars              |         1 |   0        |
-| Hanazono Kintetsu Liners          |         1 |   1        |
 | Hurricanes                        |         1 |   0        |
+| Munakata Sanix Blues              |         1 |   0        |
+| Mie Honda Heat                    |         1 |   1        |
 | Australia                         |         1 |   0        |

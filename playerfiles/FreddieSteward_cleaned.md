@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Freddie Steward  
-date: 2023-02-02 19:07:56.576566  
+date: 2023-03-17 17:36:48.123522  
 categories: player  
 ---
 # Freddie Steward
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 106.0
+## Current elo: 89.0
 
-## Current Percentile: 73.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -23,41 +23,44 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            58 |   0.646552 |
-| England          |            17 |   0.617647 |
+| Leicester Tigers |            64 |   0.648438 |
+| England          |            21 |   0.595238 |
 | Ampthill         |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Sale Sharks              |         7 |   0.142857 |
-| Harlequins               |         5 |   0.6      |
+| Newcastle Falcons        |         5 |   0.8      |
 | Bristol Rugby            |         5 |   0.5      |
-| Northampton Saints       |         4 |   0.75     |
-| Wasps                    |         4 |   0.75     |
-| Newcastle Falcons        |         4 |   0.75     |
+| Harlequins               |         5 |   0.6      |
+| Gloucester Rugby         |         4 |   1        |
+| Exeter Chiefs            |         4 |   0.5      |
 | London Irish             |         4 |   0.75     |
 | Australia                |         4 |   0.75     |
-| Exeter Chiefs            |         4 |   0.5      |
-| Gloucester Rugby         |         4 |   1        |
-| Bath Rugby               |         3 |   0.333333 |
+| Northampton Saints       |         4 |   0.75     |
+| Clermont Auvergne        |         4 |   1        |
+| Wasps                    |         4 |   0.75     |
 | Saracens                 |         3 |   0.666667 |
-| South Africa             |         2 |   0.5      |
-| Worcester Warriors       |         2 |   1        |
+| Bath Rugby               |         3 |   0.333333 |
 | Connacht                 |         2 |   1        |
-| Clermont Auvergne        |         2 |   1        |
+| France                   |         2 |   0        |
+| Wales                    |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Calvisano                |         2 |   1        |
-| Ospreys                  |         1 |   0        |
-| Scotland                 |         1 |   0        |
+| South Africa             |         2 |   0.5      |
+| Scotland                 |         2 |   0        |
+| Worcester Warriors       |         2 |   1        |
 | United States of America |         1 |   1        |
-| Wales                    |         1 |   1        |
+| Ulster                   |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Argentina                |         1 |   0        |
+| Ospreys                  |         1 |   0        |
 | New Zealand              |         1 |   0.5      |
-| Jersey                   |         1 |   0        |
-| Italy                    |         1 |   1        |
+| Montpellier Herault      |         1 |   0        |
+| Leinster                 |         1 |   0        |
+| Japan                    |         1 |   1        |
 | Ireland                  |         1 |   0        |
-| France                   |         1 |   0        |
 | Cardiff Blues            |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Brive                    |         1 |   1        |
-| Japan                    |         1 |   1        |
+| Jersey                   |         1 |   0        |

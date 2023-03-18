@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tevita Ikanivere  
-date: 2023-03-02 11:26:06.654344  
+date: 2023-03-17 17:04:13.718082  
 categories: player  
 ---
 # Tevita Ikanivere
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 118.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,13 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |            19 |   0.368421 |
+| Fijian Drua |            21 |   0.380952 |
 | Fiji        |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| New South Wales Waratahs |         2 |        0   |
+| New South Wales Waratahs |         3 |        0   |
 | Canberra Vikings         |         2 |        0   |
+| Crusaders                |         2 |        0.5 |
 | Melbourne Rebels         |         2 |        0.5 |
 | Brumbies                 |         2 |        0   |
 | Moana Pasifika           |         2 |        1   |
@@ -42,6 +43,5 @@ categories: player
 | NSW Country Eagles       |         1 |        0.5 |
 | Hurricanes               |         1 |        0   |
 | Highlanders              |         1 |        0   |
-| Crusaders                |         1 |        0   |
 | Chiefs                   |         1 |        0   |
 | Tonga                    |         1 |        1   |

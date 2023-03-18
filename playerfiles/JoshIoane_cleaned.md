@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Josh Ioane  
-date: 2023-02-24 09:52:38.493648  
+date: 2023-03-17 17:25:30.227465  
 categories: player  
 ---
 # Josh Ioane
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 57.0
 
@@ -25,13 +25,13 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Highlanders       |            45 |   0.444444 |
 | Otago             |            45 |   0.488889 |
-| Chiefs            |            10 |   0.7      |
+| Chiefs            |            12 |   0.75     |
 | New Zealand Maori |             6 |   0.833333 |
 | New Zealand       |             2 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |         8 |   0        |
+| Crusaders                |         9 |   0.111111 |
 | Hurricanes               |         7 |   0.428571 |
 | Blues                    |         7 |   0.285714 |
 | Chiefs                   |         6 |   0.583333 |
@@ -48,21 +48,21 @@ categories: player
 | Wellington               |         3 |   0        |
 | Auckland                 |         3 |   0.666667 |
 | Ireland                  |         2 |   0.5      |
-| Tasman                   |         2 |   0.5      |
 | Lions                    |         2 |   0.5      |
+| Highlanders              |         2 |   1        |
 | Brumbies                 |         2 |   1        |
 | Moana Pasifika           |         2 |   1        |
 | Bulls                    |         2 |   0.25     |
+| Tasman                   |         2 |   0.5      |
 | Queensland Reds          |         2 |   1        |
 | Samoa                    |         2 |   1        |
 | Sharks                   |         2 |   0        |
-| Sunwolves                |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | United States of America |         1 |   1        |
 | Argentina                |         1 |   1        |
+| Sunwolves                |         1 |   1        |
 | North Harbour            |         1 |   1        |
 | Jaguares                 |         1 |   1        |
-| Highlanders              |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Counties Manukau         |         1 |   0        |
 | Chile                    |         1 |   1        |

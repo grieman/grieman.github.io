@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Jock Campbell  
-date: 2023-03-06 11:26:34.091138  
+date: 2023-03-17 17:23:53.897823  
 categories: player  
 ---
 # Jock Campbell
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Australia
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 61.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -23,14 +23,14 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Queensland Reds    |            48 |   0.53125  |
+| Queensland Reds    |            50 |   0.53     |
 | Queensland Country |            19 |   0.578947 |
 | Australia          |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brumbies                 |         9 |   0.444444 |
-| Western Force            |         7 |   0.714286 |
+| Brumbies                 |        10 |   0.4      |
+| Western Force            |         8 |   0.75     |
 | Melbourne Rebels         |         7 |   0.785714 |
 | New South Wales Waratahs |         6 |   0.833333 |
 | Crusaders                |         4 |   0        |

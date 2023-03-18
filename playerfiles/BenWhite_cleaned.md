@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Ben White  
-date: 2023-02-02 19:05:28.112157  
+date: 2023-03-17 17:11:48.169282  
 categories: player  
 ---
 # Ben White
 
 ## Positions: FL
 
-## Current elo: 149.0
+## Current elo: 147.0
 
 ## Current Percentile: None
 
@@ -22,19 +22,19 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Exeter Chiefs |           107 |   0.588785 |
-| Cardiff Blues |            35 |   0.442857 |
+| Cardiff Blues |            36 |   0.430556 |
 | Dragons       |             3 |   0        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Bath Rugby           |        10 |   0.3      |
 | Northampton Saints   |        10 |   0.4      |
+| Leicester Tigers     |        10 |   0.3      |
 | Harlequins           |        10 |   0.5      |
 | Gloucester Rugby     |         9 |   0.555556 |
 | Saracens             |         9 |   0.222222 |
 | Sale Sharks          |         9 |   0.555556 |
 | Newcastle Falcons    |         9 |   0.777778 |
-| Leicester Tigers     |         9 |   0.333333 |
 | Wasps                |         8 |   0.875    |
 | London Irish         |         5 |   0.8      |
 | Leinster             |         5 |   0.3      |

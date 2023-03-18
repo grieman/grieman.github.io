@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Paul Balekana  
-date: 2023-02-24 02:24:10.836136  
+date: 2023-03-17 17:23:30.378787  
 categories: player  
 ---
 # Paul Balekana
 
 ## Positions: W
 
-## Current elo: 107.0
+## Current elo: 113.0
 
-## Current Percentile: None
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,8 +21,10 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |             1 |          1 |
+| New England Free Jacks |             3 |   0.666667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| NOLA Gold  |         1 |          1 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| NOLA Gold        |         1 |          1 |
+| Old Glory DC     |         1 |          1 |
+| San Diego Legion |         1 |          0 |

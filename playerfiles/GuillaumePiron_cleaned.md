@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Guillaume Piron  
-date: 2023-02-24 02:36:59.404027  
+date: 2023-03-16 19:59:34.035219  
 categories: player  
 ---
 # Guillaume Piron
@@ -10,7 +10,7 @@ categories: player
 
 ## Country: Belgium
 
-## Current elo: 64.0
+## Current elo: 66.0
 
 ## Current Percentile: 4.0
 
@@ -24,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Colomiers |            33 |   0.454545 |
-| Blagnac   |            27 |   0.5      |
+| Blagnac   |            29 |   0.5      |
 | Belgium   |            23 |   0.152174 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,28 +32,28 @@ categories: player
 | Spain                      |         6 |   0.25     |
 | Georgia                    |         5 |   0        |
 | Dax                        |         5 |   0.4      |
+| Bourgoin-Jallieu           |         5 |   0.6      |
 | Massy                      |         4 |   0.5      |
-| Beziers                    |         4 |   0.25     |
 | Russia                     |         4 |   0.25     |
-| Bourgoin-Jallieu           |         4 |   0.5      |
-| Albi                       |         4 |   0.5      |
 | Portugal                   |         4 |   0.25     |
-| Cognac Saint Jean d'Angély |         3 |   0.333333 |
-| Dijon                      |         3 |   0.333333 |
+| Beziers                    |         4 |   0.25     |
+| Albi                       |         4 |   0.5      |
 | Mont-de-Marsan             |         3 |   0.666667 |
-| Narbonne                   |         3 |   0.5      |
+| Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   0.333333 |
+| Dijon                      |         3 |   0.333333 |
 | Tarbes                     |         3 |   1        |
-| Perpignan                  |         2 |   1        |
+| Narbonne                   |         3 |   0.5      |
 | Romania                    |         2 |   0        |
+| Perpignan                  |         2 |   1        |
+| Nice                       |         2 |   0.5      |
 | Agen                       |         2 |   0        |
 | Carcassonne                |         2 |   0.5      |
 | Biarritz Olympique         |         2 |   0        |
 | Vannes                     |         2 |   0.5      |
-| Lyon                       |         1 |   1        |
 | Montauban                  |         1 |   1        |
+| Lyon                       |         1 |   1        |
 | Chambery                   |         1 |   0        |
-| Nice                       |         1 |   1        |
 | Canada                     |         1 |   0        |
 | Provence Rugby             |         1 |   1        |
 | Brazil                     |         1 |   0        |

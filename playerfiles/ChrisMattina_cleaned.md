@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Chris Mattina  
-date: 2023-03-09 10:07:54.093472  
+date: 2023-03-16 21:12:52.870102  
 categories: player  
 ---
 # Chris Mattina
 
 ## Positions: W, C
 
-## Current elo: 167.0
+## Current elo: 159.0
 
 ## Current Percentile: 100.0
 
@@ -24,7 +24,7 @@ categories: player
 | R.U. New York    |            15 |   0.6      |
 | Rugby New York   |            12 |   0.75     |
 | Austin Gilgronis |            11 |   0.818182 |
-| Chicago Hounds   |             2 |   0        |
+| Chicago Hounds   |             3 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -33,12 +33,12 @@ categories: player
 | Houston SaberCats      |         3 |   1        |
 | Rugby ATL              |         3 |   1        |
 | Seattle Seawolves      |         3 |   0.666667 |
+| Toronto Arrows         |         3 |   0.666667 |
 | Austin Herd            |         2 |   1        |
 | Glendale Raptors       |         2 |   1        |
 | L. A. Giltinis         |         2 |   0.5      |
 | NOLA Gold              |         2 |   1        |
 | New England Free Jacks |         2 |   0        |
 | Old Glory DC           |         2 |   0.5      |
-| Toronto Arrows         |         2 |   1        |
 | Austin Elite Rugby     |         1 |   1        |
 | Dallas Jackals         |         1 |   1        |

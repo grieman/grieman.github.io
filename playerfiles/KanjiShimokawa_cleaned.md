@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kanji Shimokawa  
-date: 2023-02-02 18:53:55.527747  
+date: 2023-03-17 17:24:10.637226  
 categories: player  
 ---
 # Kanji Shimokawa
 
 ## Positions: FL
 
-## Current elo: 123.0
+## Country: Japan
 
-## Current Percentile: 90.0
+## Current elo: 111.0
+
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,16 +23,20 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            10 |        0.9 |
+| Tokyo Sungoliath |            15 |        0.8 |
+| Japan            |             1 |        0   |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kobelco Kobe Steelers             |         2 |          1 |
-| Green Rockets Tokatsu             |         1 |          1 |
-| Hanazono Kintetsu Liners          |         1 |          1 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          1 |
-| Mitsubishi Dynaboars              |         1 |          1 |
-| Saitama Wild Knights              |         1 |          0 |
-| Toshiba Brave Lupus Tokyo         |         1 |          1 |
-| Toyota Verblitz                   |         1 |          1 |
-| Yokohama Canon Eagles             |         1 |          1 |
+| Kobelco Kobe Steelers             |         2 |        1   |
+| Saitama Wild Knights              |         2 |        0   |
+| Toshiba Brave Lupus Tokyo         |         2 |        1   |
+| Toyota Verblitz                   |         2 |        0.5 |
+| Black Rams Tokyo                  |         1 |        1   |
+| Green Rockets Tokatsu             |         1 |        1   |
+| Hanazono Kintetsu Liners          |         1 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        1   |
+| Mitsubishi Dynaboars              |         1 |        1   |
+| New Zealand                       |         1 |        0   |
+| Shizuoka Blue Revs                |         1 |        1   |
+| Yokohama Canon Eagles             |         1 |        1   |

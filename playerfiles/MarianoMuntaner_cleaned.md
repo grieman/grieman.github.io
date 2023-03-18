@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mariano Muntaner  
-date: 2023-03-16 11:32:13.789916  
+date: 2023-03-17 17:02:56.393371  
 categories: player  
 ---
 # Mariano Muntaner
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 94.0
 
-## Current Percentile: 47.0
+## Current Percentile: 45.0
 
 # Elo History
 

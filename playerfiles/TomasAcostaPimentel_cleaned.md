@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Tomas Acosta Pimentel  
-date: 2023-03-09 10:11:27.278669  
+date: 2023-03-17 17:22:27.210077  
 categories: player  
 ---
 # Tomas Acosta Pimentel
 
 ## Positions: W, C
 
-## Current elo: 128.0
+## Current elo: 132.0
 
 ## Current Percentile: 97.0
 
@@ -23,7 +23,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Buenos Aires  |            26 |   0.25     |
 | Olimpia Lions |             3 |   0.333333 |
-| Yacare XV     |             1 |   1        |
+| Yacare XV     |             2 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -38,6 +38,7 @@ categories: player
 | Newman               |         2 |   0        |
 | Regatas Bella Vista  |         2 |   0        |
 | SIC                  |         2 |   0        |
+| American Raptors     |         1 |   1        |
 | CASI                 |         1 |   1        |
 | Cafeteros Pro        |         1 |   1        |
 | Cobras               |         1 |   1        |

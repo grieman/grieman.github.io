@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Taylor Krumrei  
-date: 2023-03-02 11:21:46.104130  
+date: 2023-03-17 17:18:44.695047  
 categories: player  
 ---
 # Taylor Krumrei
@@ -21,7 +21,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Seattle Seawolves |            26 |   0.711538 |
+| Seattle Seawolves |            28 |   0.732143 |
 | NOLA Gold         |             4 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
@@ -31,9 +31,10 @@ categories: player
 | San Diego Legion       |         4 |   0.5      |
 | Toronto Arrows         |         4 |   0.25     |
 | Austin Elite Rugby     |         3 |   1        |
+| Houston SaberCats      |         3 |   1        |
 | New England Free Jacks |         3 |   0.333333 |
-| Houston SaberCats      |         2 |   1        |
 | Rugby ATL              |         2 |   0.5      |
 | Utah Warriors          |         2 |   0.75     |
+| Dallas Jackals         |         1 |   1        |
 | R.U. New York          |         1 |   1        |
 | Rugby New York         |         1 |   1        |

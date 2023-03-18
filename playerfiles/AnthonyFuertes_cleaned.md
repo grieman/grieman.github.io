@@ -1,16 +1,16 @@
 ---  
 layout: page  
-title: Anthony Fuertes  
-date: 2023-02-02 18:40:19.128583  
+title: Anthony  Fuertes  
+date: 2023-03-17 17:39:57.211512  
 categories: player  
 ---
-# Anthony Fuertes
+# Anthony  Fuertes
 
 ## Positions: FH
 
-## Current elo: 77.0
+## Current elo: 112.0
 
-## Current Percentile: 3.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -19,42 +19,16 @@ categories: player
 # Match History
 
 
-| Team        |   Appearances |   Win Rate |
-|:------------|--------------:|-----------:|
-| Dijon       |            34 |   0.323529 |
-| Tarbes      |            16 |   0.53125  |
-| La Rochelle |            11 |   0.636364 |
-| Oyonnax     |             8 |   0.375    |
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Tarbes |             7 |   0.785714 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Cognac Saint Jean d'Angély |         6 |   0.333333 |
-| Chambery                   |         5 |   0.6      |
-| Dax                        |         4 |   0        |
-| Suresnes                   |         4 |   0.25     |
-| Blagnac                    |         4 |   0.375    |
-| Massy                      |         4 |   0.5      |
-| US Bressane                |         3 |   0        |
-| Tarbes                     |         3 |   0.5      |
-| Bourgoin-Jallieu           |         3 |   0.333333 |
-| Nice                       |         3 |   0.333333 |
-| Narbonne                   |         3 |   0.666667 |
-| Aubenas                    |         2 |   0.75     |
-| Valence Romans Drome Rugby |         2 |   0.5      |
-| Rennes                     |         2 |   1        |
-| Albi                       |         2 |   0.5      |
-| Connacht                   |         2 |   0        |
-| Clermont Auvergne          |         2 |   0.25     |
-| Brive                      |         2 |   0        |
-| Bordeaux Begles            |         2 |   0.5      |
-| Grenoble                   |         1 |   1        |
-| Castres Olympique          |         1 |   1        |
-| Oyonnax                    |         1 |   0        |
-| Soyaux-Angouleme           |         1 |   0        |
-| Stade Toulousain           |         1 |   1        |
-| Biarritz Olympique         |         1 |   0        |
-| Benetton Treviso           |         1 |   1        |
-| Toulon                     |         1 |   0.5      |
-| Bayonne                    |         1 |   1        |
-| Aurillac                   |         1 |   1        |
-| Worcester Warriors         |         1 |   1        |
+| Blagnac                    |         1 |        0.5 |
+| Bourgoin-Jallieu           |         1 |        0   |
+| Chambery                   |         1 |        1   |
+| Cognac Saint Jean d'Angély |         1 |        1   |
+| Narbonne                   |         1 |        1   |
+| Nice                       |         1 |        1   |
+| Rennes                     |         1 |        1   |

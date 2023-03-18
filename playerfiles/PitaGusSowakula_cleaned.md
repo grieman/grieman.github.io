@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pita Gus Sowakula  
-date: 2023-02-24 09:50:26.252118  
+date: 2023-03-17 17:31:23.616696  
 categories: player  
 ---
 # Pita Gus Sowakula
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand
 
-## Current elo: 99.0
+## Current elo: 101.0
 
-## Current Percentile: 59.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,32 +23,32 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Chiefs      |            54 |   0.574074 |
+| Chiefs      |            57 |   0.596491 |
 | Taranaki    |            38 |   0.578947 |
 | New Zealand |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Blues                    |        10 |   0.4      |
-| Crusaders                |         9 |   0.444444 |
-| Highlanders              |         5 |   0.6      |
+| Crusaders                |        10 |   0.5      |
+| Highlanders              |         6 |   0.666667 |
 | Hurricanes               |         5 |   0.4      |
 | Waikato                  |         5 |   0.4      |
+| New South Wales Waratahs |         4 |   1        |
 | Bay of Plenty            |         4 |   0.5      |
 | Queensland Reds          |         4 |   0.75     |
 | Auckland                 |         4 |   0.25     |
 | Tasman                   |         4 |   0.25     |
-| New South Wales Waratahs |         4 |   1        |
-| Hawke's Bay              |         3 |   0.666667 |
 | Northland                |         3 |   0.333333 |
+| Hawke's Bay              |         3 |   0.666667 |
 | Southland                |         3 |   1        |
-| Brumbies                 |         3 |   0.333333 |
 | Melbourne Rebels         |         3 |   1        |
+| Moana Pasifika           |         3 |   1        |
+| Brumbies                 |         3 |   0.333333 |
 | Otago                    |         3 |   1        |
 | Sharks                   |         2 |   0.5      |
 | Wellington               |         2 |   0.5      |
 | Manawatu                 |         2 |   1        |
-| Moana Pasifika           |         2 |   1        |
 | Jaguares                 |         2 |   0        |
 | Ireland                  |         2 |   0.5      |
 | Counties Manukau         |         2 |   1        |

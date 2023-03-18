@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Joe van Zyl  
-date: 2023-03-16 11:30:05.589995  
+date: 2023-03-17 17:12:36.695704  
 categories: player  
 ---
 # Joe van Zyl
 
 ## Positions: H
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: 22.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,13 +21,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |             6 |        0.5 |
-| Blue Bulls |             5 |        0.6 |
+| Bulls      |             7 |   0.428571 |
+| Blue Bulls |             5 |   0.6      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Connacht            |         1 |          0 |
 | Dragons             |         1 |          1 |
+| Exeter Chiefs       |         1 |          0 |
 | Free State Cheetahs |         1 |          0 |
 | Golden Lions        |         1 |          1 |
 | Leinster            |         1 |          0 |

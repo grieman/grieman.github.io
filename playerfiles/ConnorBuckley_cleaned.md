@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Connor Buckley  
-date: 2023-03-02 11:26:48.724879  
+date: 2023-03-17 17:21:10.479055  
 categories: player  
 ---
 # Connor Buckley
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 78.0
 
-## Current Percentile: 14.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,16 +21,17 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rugby New York |             8 |   0.625    |
+| Rugby New York |            10 |   0.6      |
 | R.U. New York  |             7 |   0.571429 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | New England Free Jacks |         3 |   0.333333 |
+| Old Glory DC           |         3 |   1        |
 | Rugby ATL              |         3 |   0.333333 |
 | Seattle Seawolves      |         3 |   0.666667 |
-| Old Glory DC           |         2 |   1        |
 | Dallas Jackals         |         1 |   1        |
 | Houston SaberCats      |         1 |   1        |
+| NOLA Gold              |         1 |   0        |
 | Toronto Arrows         |         1 |   1        |
 | Utah Warriors          |         1 |   0        |

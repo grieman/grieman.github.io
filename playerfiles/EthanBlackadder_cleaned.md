@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Ethan Blackadder  
-date: 2023-02-24 09:53:45.427603  
+date: 2023-03-16 19:52:28.795205  
 categories: player  
 ---
 # Ethan Blackadder
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 132.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,19 +24,19 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Tasman      |            37 |   0.77027  |
-| Crusaders   |            32 |   0.84375  |
+| Crusaders   |            34 |   0.823529 |
 | New Zealand |             9 |   0.777778 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Chiefs           |         7 |   0.714286 |
+| Chiefs           |         8 |   0.625    |
 | Canterbury       |         5 |   0.2      |
 | Auckland         |         5 |   0.8      |
 | Hurricanes       |         4 |   1        |
+| Highlanders      |         4 |   0.75     |
 | Blues            |         4 |   0.75     |
 | North Harbour    |         4 |   0.875    |
 | Taranaki         |         4 |   0.75     |
-| Highlanders      |         3 |   0.666667 |
 | Queensland Reds  |         3 |   1        |
 | Otago            |         3 |   0.666667 |
 | Southland        |         3 |   1        |

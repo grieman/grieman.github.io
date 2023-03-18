@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Santiago Videla  
-date: 2023-03-04 11:39:33.678426  
+date: 2023-03-16 20:06:20.704050  
 categories: player  
 ---
 # Santiago Videla
 
 ## Positions: C
 
-## Current elo: 107.0
+## Current elo: 98.0
 
-## Current Percentile: 70.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,9 +21,10 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             2 |          1 |
+| Selknam |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
+| Dogos XV         |         1 |          0 |
 | Pampas XV        |         1 |          1 |

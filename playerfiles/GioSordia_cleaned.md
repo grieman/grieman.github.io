@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Gio Sordia  
-date: 2023-01-17 11:45:36.100720  
+date: 2023-03-17 17:42:37.454726  
 categories: player  
 ---
 # Gio Sordia
 
 ## Positions: FL
 
-## Current elo: 113.0
+## Current elo: 119.0
 
-## Current Percentile: 88.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +21,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Cognac Saint Jean d'Angély |            33 |   0.378788 |
+| Cognac Saint Jean d'Angély |            36 |   0.347222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -37,5 +37,7 @@ categories: player
 | Dax                        |         2 |   1        |
 | Massy                      |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0        |
-| US Bressane                |         1 |   0        |
+| US Bressane                |         2 |   0        |
+| Carqueiranne-Hyères        |         1 |   0        |
+| Rennes                     |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Riki Sugihara  
-date: 2023-02-02 18:46:41.025306  
+date: 2023-03-17 17:19:29.195687  
 categories: player  
 ---
 # Riki Sugihara
 
 ## Positions: FL
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: 39.0
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -21,13 +21,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |             6 |       0.25 |
+| Shizuoka Blue Revs |             8 |     0.3125 |
 
-| Opponent                  |   Matches |   Win Rate |
-|:--------------------------|----------:|-----------:|
-| Black Rams Tokyo          |         1 |        0   |
-| Green Rockets Tokatsu     |         1 |        1   |
-| Mitsubishi Dynaboars      |         1 |        0.5 |
-| Saitama Wild Knights      |         1 |        0   |
-| Toshiba Brave Lupus Tokyo |         1 |        0   |
-| Toyota Verblitz           |         1 |        0   |
+| Opponent                          |   Matches |   Win Rate |
+|:----------------------------------|----------:|-----------:|
+| Black Rams Tokyo                  |         1 |        0   |
+| Green Rockets Tokatsu             |         1 |        1   |
+| Hanazono Kintetsu Liners          |         1 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
+| Mitsubishi Dynaboars              |         1 |        0.5 |
+| Saitama Wild Knights              |         1 |        0   |
+| Toshiba Brave Lupus Tokyo         |         1 |        0   |
+| Toyota Verblitz                   |         1 |        0   |

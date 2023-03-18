@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Stephen Perofeta  
-date: 2023-03-02 11:21:39.555963  
+date: 2023-03-17 17:09:43.755069  
 categories: player  
 ---
 # Stephen Perofeta
@@ -12,7 +12,7 @@ categories: player
 
 ## Current elo: 117.0
 
-## Current Percentile: 88.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blues       |            47 |   0.585106 |
+| Blues       |            49 |   0.581633 |
 | Taranaki    |            43 |   0.662791 |
 | New Zealand |             3 |   0.666667 |
 
@@ -31,8 +31,8 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Crusaders                |         7 |   0.142857 |
 | Highlanders              |         7 |   0.714286 |
+| Hurricanes               |         7 |   0.571429 |
 | Chiefs                   |         6 |   0.416667 |
-| Hurricanes               |         6 |   0.5      |
 | Auckland                 |         5 |   0.4      |
 | Bay of Plenty            |         5 |   0.6      |
 | Waikato                  |         4 |   0.625    |
@@ -44,11 +44,11 @@ categories: player
 | Otago                    |         3 |   1        |
 | Wellington               |         3 |   0.666667 |
 | Canterbury               |         3 |   0.666667 |
+| Brumbies                 |         3 |   0.666667 |
 | Melbourne Rebels         |         2 |   0.5      |
 | Moana Pasifika           |         2 |   1        |
 | New South Wales Waratahs |         2 |   1        |
 | North Harbour            |         2 |   0        |
-| Brumbies                 |         2 |   1        |
 | Counties Manukau         |         2 |   1        |
 | Lions                    |         2 |   1        |
 | Sunwolves                |         2 |   0.5      |

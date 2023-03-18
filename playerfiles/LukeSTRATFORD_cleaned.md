@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Luke STRATFORD  
-date: 2023-03-16 11:32:10.277808  
+date: 2023-03-16 21:12:13.401998  
 categories: player  
 ---
 # Luke STRATFORD
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 99.0
 
-## Current Percentile: 70.0
+## Current Percentile: 69.0
 
 # Elo History
 

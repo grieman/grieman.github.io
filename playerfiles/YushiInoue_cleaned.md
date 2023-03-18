@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Yushi Inoue  
-date: 2023-03-12 11:30:20.082082  
+date: 2023-03-17 17:31:00.316448  
 categories: player  
 ---
 # Yushi Inoue

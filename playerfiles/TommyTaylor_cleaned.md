@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tommy Taylor  
-date: 2023-02-02 19:12:54.209102  
+date: 2023-03-17 17:30:08.574715  
 categories: player  
 ---
 # Tommy Taylor
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 119.0
+## Current elo: 114.0
 
-## Current Percentile: 92.0
+## Current Percentile: None
 
 # Elo History
 
@@ -24,20 +24,20 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Sale Sharks |           137 |   0.514599 |
-| Wasps       |            85 |   0.564706 |
+| Wasps       |            86 |   0.55814  |
 | England     |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Harlequins          |        20 |   0.25     |
-| Bath Rugby          |        18 |   0.694444 |
 | Leicester Tigers    |        17 |   0.411765 |
+| Bath Rugby          |        17 |   0.676471 |
 | Gloucester Rugby    |        17 |   0.470588 |
 | Worcester Warriors  |        16 |   0.8125   |
 | Exeter Chiefs       |        16 |   0.375    |
 | Northampton Saints  |        15 |   0.533333 |
-| London Irish        |        13 |   0.576923 |
-| Saracens            |        13 |   0.423077 |
+| London Irish        |        14 |   0.535714 |
+| Saracens            |        14 |   0.464286 |
 | Newcastle Falcons   |        13 |   0.576923 |
 | Bristol Rugby       |         9 |   0.777778 |
 | Sale Sharks         |         9 |   0.333333 |
@@ -46,22 +46,22 @@ categories: player
 | London Welsh        |         3 |   0.666667 |
 | Agen                |         3 |   1        |
 | Cardiff Blues       |         2 |   0.5      |
-| Oyonnax             |         2 |   0.5      |
+| Castres Olympique   |         2 |   1        |
 | Biarritz Olympique  |         2 |   1        |
-| Ulster              |         2 |   0.5      |
 | Scarlets            |         2 |   1        |
 | Leinster            |         2 |   0        |
 | Pau                 |         2 |   1        |
+| Oyonnax             |         2 |   0.5      |
 | Zebre               |         2 |   1        |
-| Castres Olympique   |         2 |   1        |
+| Clermont Auvergne   |         2 |   0        |
 | Connacht            |         2 |   0.5      |
 | Edinburgh           |         2 |   0        |
-| Clermont Auvergne   |         1 |   0        |
 | Munster             |         1 |   0        |
 | Brive               |         1 |   0        |
+| Dragons             |         1 |   1        |
 | Stade Toulousain    |         1 |   0.5      |
 | Toulon              |         1 |   0        |
-| Dragons             |         1 |   1        |
+| Ulster              |         1 |   1        |
 | Wales               |         1 |   1        |
 | Bordeaux Begles     |         1 |   0        |
 | La Vila             |         1 |   1        |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Pari Pari Parkinson  
-date: 2023-03-02 11:21:56.541774  
+date: 2023-03-17 17:15:20.644626  
 categories: player  
 ---
 # Pari Pari Parkinson
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: New Zealand Maori
 
-## Current elo: 155.0
+## Current elo: 154.0
 
-## Current Percentile: None
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -24,16 +24,16 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Tasman            |            35 |   0.742857 |
-| Highlanders       |            26 |   0.384615 |
+| Highlanders       |            28 |   0.357143 |
 | New Zealand Maori |             6 |   0.833333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Crusaders                |         6 |   0.166667 |
 | Auckland                 |         5 |   0.8      |
 | Blues                    |         5 |   0        |
 | Canterbury               |         5 |   0.2      |
-| Crusaders                |         5 |   0.2      |
-| Chiefs                   |         4 |   0.75     |
+| Chiefs                   |         5 |   0.6      |
 | Hurricanes               |         4 |   0.25     |
 | North Harbour            |         3 |   1        |
 | Wellington               |         3 |   1        |

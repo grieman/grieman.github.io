@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Eamonn Matthews  
-date: 2023-03-02 11:24:02.586388  
+date: 2023-03-17 17:32:33.236282  
 categories: player  
 ---
 # Eamonn Matthews
 
 ## Positions: SH
 
-## Current elo: 102.0
+## Current elo: 101.0
 
 ## Current Percentile: 70.0
 
@@ -21,11 +21,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rugby ATL      |             2 |        0.5 |
-| Rugby New York |             1 |        1   |
+| Rugby New York |             3 |   0.666667 |
+| Rugby ATL      |             2 |   0.5      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| NOLA Gold        |         1 |          0 |
+| Old Glory DC     |         1 |          1 |
 | San Diego Legion |         1 |          1 |
 | Toronto Arrows   |         1 |          1 |
 | Utah Warriors    |         1 |          0 |

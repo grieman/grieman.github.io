@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Tiaan Falcon  
-date: 2023-02-02 18:40:42.341826  
+date: 2023-03-17 17:30:27.484335  
 categories: player  
 ---
 # Tiaan Falcon
 
 ## Positions: FH, FB
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 65.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Hawke's Bay     |            34 |   0.411765 |
-| Toyota Verblitz |            11 |   0.454545 |
+| Toyota Verblitz |             9 |   0.666667 |
 | Chiefs          |             4 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -34,7 +34,6 @@ categories: player
 | Canterbury                        |         3 |   0.333333 |
 | Tasman                            |         3 |   0.333333 |
 | Southland                         |         3 |   1        |
-| Black Rams Tokyo                  |         2 |   0.5      |
 | Waikato                           |         2 |   0        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0.5      |
 | Manawatu                          |         2 |   1        |
@@ -44,12 +43,12 @@ categories: player
 | Tokyo Sungoliath                  |         1 |   0        |
 | Sunwolves                         |         1 |   1        |
 | Auckland                          |         1 |   0        |
-| Saitama Wild Knights              |         1 |   0        |
-| North Harbour                     |         1 |   0        |
-| Mitsubishi Dynaboars              |         1 |   0        |
+| Northland                         |         1 |   0        |
+| Munakata Sanix Blues              |         1 |   1        |
+| Mitsubishi Dynaboars              |         1 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
-| Kobelco Kobe Steelers             |         1 |   1        |
 | Hurricanes                        |         1 |   1        |
 | Bulls                             |         1 |   1        |
 | Blues                             |         1 |   1        |
-| Northland                         |         1 |   0        |
+| Black Rams Tokyo                  |         1 |   1        |
+| North Harbour                     |         1 |   0        |

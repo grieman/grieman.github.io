@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Brad Tucker  
-date: 2023-03-02 11:22:16.018392  
+date: 2023-03-17 17:25:21.322037  
 categories: player  
 ---
 # Brad Tucker

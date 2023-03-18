@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Mako Vunipola  
-date: 2023-02-02 18:55:57.595854  
+date: 2023-03-17 17:22:18.210566  
 categories: player  
 ---
 # Mako Vunipola
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: England
 
-## Current elo: 97.0
+## Current elo: 104.0
 
-## Current Percentile: 92.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,9 +23,10 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Saracens                |           209 |   0.80622  |
-| England                 |            71 |   0.711268 |
+| Saracens                |           215 |   0.802326 |
+| England                 |            75 |   0.7      |
 | British and Irish Lions |            12 |   0.625    |
+| Bristol Rugby           |             2 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -33,44 +34,44 @@ categories: player
 | Exeter Chiefs       |        16 |   0.5625   |
 | Northampton Saints  |        16 |   0.8125   |
 | Australia           |        15 |   0.733333 |
-| Bath Rugby          |        14 |   0.928571 |
+| Bath Rugby          |        15 |   0.933333 |
 | Sale Sharks         |        13 |   0.846154 |
 | Wasps               |        12 |   0.916667 |
-| Leicester Tigers    |        11 |   0.863636 |
+| Leicester Tigers    |        12 |   0.875    |
+| Worcester Warriors  |        11 |   0.909091 |
 | Gloucester Rugby    |        11 |   0.636364 |
 | London Irish        |        10 |   0.75     |
 | Newcastle Falcons   |        10 |   1        |
+| France              |        10 |   0.6      |
 | Ireland             |        10 |   0.6      |
-| Worcester Warriors  |        10 |   1        |
-| France              |         9 |   0.666667 |
 | South Africa        |         9 |   0.222222 |
-| Italy               |         8 |   1        |
-| Scotland            |         7 |   0.857143 |
+| Italy               |         9 |   1        |
+| Wales               |         8 |   0.625    |
+| Scotland            |         8 |   0.75     |
 | Clermont Auvergne   |         7 |   0.285714 |
-| Wales               |         7 |   0.571429 |
-| Munster             |         6 |   0.833333 |
-| Racing 92           |         6 |   0.833333 |
+| Racing 92           |         7 |   0.857143 |
 | New Zealand         |         6 |   0.666667 |
+| Munster             |         6 |   0.833333 |
+| Toulon              |         5 |   0.2      |
 | Bristol Rugby       |         5 |   0.8      |
-| Edinburgh           |         4 |   0.75     |
-| Ulster              |         4 |   1        |
+| Leinster            |         4 |   0.75     |
 | Argentina           |         4 |   0.75     |
 | Stade Toulousain    |         4 |   0.5      |
-| Ospreys             |         3 |   0.833333 |
-| Toulon              |         3 |   0.333333 |
-| Lyon                |         3 |   1        |
-| London Welsh        |         3 |   1        |
-| Leinster            |         3 |   0.666667 |
+| Edinburgh           |         4 |   0.75     |
+| Ulster              |         4 |   1        |
 | Glasgow Warriors    |         3 |   1        |
+| London Welsh        |         3 |   1        |
+| Lyon                |         3 |   1        |
 | Fiji                |         3 |   1        |
+| Ospreys             |         3 |   0.833333 |
+| Nottingham          |         2 |   1        |
 | Oyonnax             |         2 |   1        |
 | Connacht            |         2 |   1        |
 | Cardiff Blues       |         2 |   1        |
-| Scarlets            |         1 |   1        |
 | Uruguay             |         1 |   1        |
 | Ampthill            |         1 |   1        |
+| Scarlets            |         1 |   1        |
 | Provincial Union XV |         1 |   1        |
-| Nottingham          |         1 |   1        |
 | New Zealand Maori   |         1 |   1        |
 | Japan               |         1 |   1        |
 | Ealing Trailfinders |         1 |   1        |

@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Fraser Dingwall  
-date: 2023-01-06 00:09:38.042857  
+date: 2023-03-17 17:18:33.319958  
 categories: player  
 ---
 # Fraser Dingwall
 
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 78.0
 
-## Current Percentile: 7.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,24 +21,29 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Northampton Saints |            79 |   0.443038 |
+| Northampton Saints |            91 |    0.43956 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Bristol Rugby      |         8 |   0.375    |
+| Exeter Chiefs      |         8 |   0.375    |
 | Harlequins         |         8 |   0.375    |
-| Leicester Tigers   |         7 |   0.142857 |
-| Exeter Chiefs      |         7 |   0.428571 |
-| Wasps              |         7 |   0.571429 |
 | Worcester Warriors |         7 |   1        |
-| Bristol Rugby      |         7 |   0.428571 |
-| Sale Sharks        |         6 |   0.166667 |
+| Leicester Tigers   |         7 |   0.142857 |
+| Wasps              |         7 |   0.571429 |
+| Sale Sharks        |         7 |   0.285714 |
 | Saracens           |         6 |   0.166667 |
-| Gloucester Rugby   |         5 |   0.4      |
+| Bath Rugby         |         6 |   0.333333 |
+| Gloucester Rugby   |         6 |   0.5      |
 | Newcastle Falcons  |         5 |   0.6      |
-| Bath Rugby         |         5 |   0.2      |
 | London Irish       |         3 |   1        |
+| La Rochelle        |         2 |   0        |
+| Leinster           |         2 |   0        |
 | Benetton Treviso   |         2 |   1        |
-| Clermont Auvergne  |         1 |   0        |
-| La Rochelle        |         1 |   0        |
-| Leinster           |         1 |   0        |
 | Lyon               |         1 |   1        |
+| Munster            |         1 |   0        |
+| Racing 92          |         1 |   0        |
+| Dragons            |         1 |   1        |
+| Timisoara Saracens |         1 |   1        |
+| Ulster             |         1 |   0        |
+| Clermont Auvergne  |         1 |   0        |

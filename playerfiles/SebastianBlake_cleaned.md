@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Sebastian Blake  
-date: 2023-02-02 18:57:52.639142  
+date: 2023-03-17 17:19:22.636338  
 categories: player  
 ---
 # Sebastian Blake
 
 ## Positions: H
 
-## Current elo: 84.0
+## Current elo: 77.0
 
-## Current Percentile: None
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,11 +21,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Gloucester Rugby |             5 |        0.2 |
+| Gloucester Rugby |             7 |   0.285714 |
 
-| Opponent        |   Matches |   Win Rate |
-|:----------------|----------:|-----------:|
-| Leinster        |         2 |          0 |
-| Bordeaux Begles |         1 |          1 |
-| Exeter Chiefs   |         1 |          0 |
-| Saracens        |         1 |          0 |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Bordeaux Begles    |         1 |          1 |
+| Exeter Chiefs      |         1 |          0 |
+| Harlequins         |         1 |          1 |
+| Leicester Tigers   |         1 |          0 |
+| Leinster           |         1 |          0 |
+| Northampton Saints |         1 |          0 |
+| Saracens           |         1 |          0 |

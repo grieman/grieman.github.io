@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Nick Boyer  
-date: 2023-03-02 11:25:16.638165  
+date: 2023-03-16 21:12:10.206495  
 categories: player  
 ---
 # Nick Boyer
@@ -23,18 +23,18 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
+| Houston SaberCats        |            28 |   0.321429 |
 | San Diego Legion         |            27 |   0.648148 |
-| Houston SaberCats        |            26 |   0.307692 |
 | Colorado Raptors         |             5 |   0.4      |
 | United States of America |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Seattle Seawolves  |         8 |   0.375    |
+| Seattle Seawolves  |         9 |   0.333333 |
 | NOLA Gold          |         6 |   0.666667 |
+| San Diego Legion   |         6 |   0.5      |
 | Utah Warriors      |         6 |   0.666667 |
 | R.U. New York      |         5 |   0.4      |
-| San Diego Legion   |         5 |   0.4      |
 | Glendale Raptors   |         4 |   0.625    |
 | Houston SaberCats  |         4 |   0.75     |
 | Toronto Arrows     |         4 |   0.25     |

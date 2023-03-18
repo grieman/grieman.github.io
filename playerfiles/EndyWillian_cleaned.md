@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Endy Willian  
-date: 2023-03-04 11:42:57.706151  
+date: 2023-03-17 17:24:03.392305  
 categories: player  
 ---
 # Endy Willian
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Brazil
 
-## Current elo: 69.0
+## Current elo: 70.0
 
-## Current Percentile: 6.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -23,15 +23,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            12 |  0.0833333 |
+| Cobras |            14 |  0.0714286 |
 | Brazil |             7 |  0         |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
 | Olimpia Lions |         3 |   0.333333 |
+| Penarol Rugby |         3 |   0        |
 | Dogos XV      |         2 |   0        |
 | Jaguares XV   |         2 |   0        |
-| Penarol Rugby |         2 |   0        |
 | Portugal      |         2 |   0        |
 | Cafeteros Pro |         1 |   0        |
 | Germany       |         1 |   0        |
@@ -40,4 +40,5 @@ categories: player
 | Selknam       |         1 |   0        |
 | Spain         |         1 |   0        |
 | Uruguay       |         1 |   0        |
+| Yacare XV     |         1 |   0        |
 | Zimbabwe      |         1 |   0        |

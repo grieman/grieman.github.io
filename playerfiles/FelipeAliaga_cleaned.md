@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Felipe Aliaga  
-date: 2023-02-26 11:19:46.857491  
+date: 2023-03-17 17:02:13.454017  
 categories: player  
 ---
 # Felipe Aliaga
@@ -10,9 +10,9 @@ categories: player
 
 ## Country: Uruguay
 
-## Current elo: 96.0
+## Current elo: 95.0
 
-## Current Percentile: None
+## Current Percentile: 50.0
 
 # Elo History
 
@@ -23,16 +23,17 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |            11 |   0.727273 |
+| Penarol Rugby |            14 |   0.785714 |
 | Uruguay       |             3 |   0.333333 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Selknam          |         3 |   0.666667 |
+| American Raptors |         2 |   1        |
 | Cafeteros Pro    |         2 |   1        |
+| Cobras           |         2 |   1        |
 | Jaguares XV      |         2 |   0        |
 | Olimpia Lions    |         2 |   1        |
 | Spain            |         2 |   0.5      |
-| American Raptors |         1 |   1        |
-| Cobras           |         1 |   1        |
+| Dogos XV         |         1 |   1        |
 | Tonga            |         1 |   0        |

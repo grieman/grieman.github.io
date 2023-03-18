@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Eduan Swart  
-date: 2023-03-16 11:32:08.126405  
+date: 2023-03-16 20:08:30.411587  
 categories: player  
 ---
 # Eduan Swart
@@ -10,7 +10,7 @@ categories: player
 
 ## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 

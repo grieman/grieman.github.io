@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Andy Muirhead  
-date: 2023-02-24 09:57:10.038237  
+date: 2023-03-16 20:14:27.768779  
 categories: player  
 ---
 # Andy Muirhead
 
 ## Positions: W, FB
 
-## Current elo: 127.0
+## Current elo: 129.0
 
-## Current Percentile: 91.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,22 +21,22 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            65 |   0.661538 |
+| Brumbies         |            68 |   0.676471 |
 | Canberra Vikings |            22 |   0.636364 |
 | Brisbane City    |             3 |   1        |
 | Counties Manukau |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Queensland Reds          |        10 |   0.5      |
+| Queensland Reds          |        11 |   0.545455 |
+| New South Wales Waratahs |        10 |   0.9      |
 | Melbourne Rebels         |        10 |   0.5      |
 | Western Force            |         9 |   0.888889 |
-| New South Wales Waratahs |         9 |   0.888889 |
 | Fijian Drua              |         5 |   0.6      |
+| Blues                    |         4 |   0.5      |
 | Chiefs                   |         4 |   0.75     |
 | Queensland Country       |         4 |   0.25     |
 | Hurricanes               |         4 |   0.75     |
-| Blues                    |         3 |   0.333333 |
 | Brisbane City            |         3 |   0.666667 |
 | Crusaders                |         3 |   0        |
 | Melbourne Rising         |         3 |   1        |

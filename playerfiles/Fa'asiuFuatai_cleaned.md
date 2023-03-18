@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Fa'asiu Fuatai  
-date: 2023-03-02 11:20:34.788527  
+date: 2023-03-17 17:25:53.807744  
 categories: player  
 ---
 # Fa'asiu Fuatai

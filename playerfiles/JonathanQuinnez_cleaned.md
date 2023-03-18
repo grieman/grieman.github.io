@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jonathan Quinnez  
-date: 2023-02-02 18:48:00.606711  
+date: 2023-03-17 17:37:41.381592  
 categories: player  
 ---
 # Jonathan Quinnez
 
 ## Positions: C
 
-## Current elo: 119.0
+## Current elo: 118.0
 
-## Current Percentile: 85.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,25 +21,26 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            40 |       0.6  |
-| Grenoble                   |             4 |       0.25 |
-| Roval Drome XV             |             4 |       0    |
-| Pau                        |             1 |       1    |
+| Valence Romans Drome Rugby |            44 |   0.590909 |
+| Grenoble                   |             4 |   0.25     |
+| Roval Drome XV             |             4 |   0        |
+| Pau                        |             1 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Suresnes                   |         4 |   1        |
 | Tarbes                     |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   0.5      |
-| Suresnes                   |         3 |   1        |
+| Soyaux-Angouleme           |         3 |   0.333333 |
 | Albi                       |         2 |   0.5      |
-| Dax                        |         2 |   0.5      |
+| Rouen                      |         2 |   0.5      |
+| Narbonne                   |         2 |   1        |
 | Montauban                  |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0.25     |
 | Aubenas                    |         2 |   1        |
 | Rennes                     |         2 |   1        |
-| Rouen                      |         2 |   0.5      |
-| Soyaux-Angouleme           |         2 |   0.5      |
 | Colomiers                  |         2 |   0        |
+| Dax                        |         2 |   0.5      |
 | Oyonnax                    |         2 |   0        |
 | Chambery                   |         2 |   1        |
 | Carcassonne                |         2 |   1        |
@@ -48,8 +49,8 @@ categories: player
 | Perpignan                  |         2 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Massy                      |         1 |   0        |
+| Nice                       |         1 |   0        |
 | Nevers                     |         1 |   0        |
-| Narbonne                   |         1 |   1        |
 | Grenoble                   |         1 |   0        |
 | Dijon                      |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |

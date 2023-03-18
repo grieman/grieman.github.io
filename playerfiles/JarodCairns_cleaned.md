@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Jarod Cairns  
-date: 2023-01-06 00:26:30.956674  
+date: 2023-03-17 17:24:54.706691  
 categories: player  
 ---
 # Jarod Cairns
 
-## Positions: N8, FL
+## Positions: FL, N8
 
-## Current elo: 81.0
+## Current elo: 79.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,15 +21,16 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Golden Lions |             9 |   0.222222 |
-| Lions        |             1 |   0        |
+| Golden Lions |            11 |   0.181818 |
+| Lions        |             2 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Griquas             |         2 |        0   |
-| Pumas               |         2 |        0   |
-| Western Province    |         2 |        0.5 |
-| Blue Bulls          |         1 |        0   |
-| Free State Cheetahs |         1 |        0   |
-| Natal Sharks        |         1 |        1   |
-| Stormers            |         1 |        0   |
+| Pumas               |         3 |   0        |
+| Western Province    |         3 |   0.333333 |
+| Griquas             |         2 |   0        |
+| Blue Bulls          |         1 |   0        |
+| Free State Cheetahs |         1 |   0        |
+| Munster             |         1 |   0        |
+| Natal Sharks        |         1 |   1        |
+| Stormers            |         1 |   0        |

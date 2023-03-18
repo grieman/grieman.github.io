@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Sho Fukui  
-date: 2023-03-09 10:10:07.563080  
+date: 2023-03-17 17:25:29.157747  
 categories: player  
 ---
 # Sho Fukui
 
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 90.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,9 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             1 |          0 |
+| Hanazono Kintetsu Liners |             2 |          0 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Mitsubishi Dynaboars |         1 |          0 |
+| Toyota Verblitz      |         1 |          0 |

@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Max Lahiff  
-date: 2023-02-02 18:48:35.780566  
+date: 2023-03-17 17:02:38.034084  
 categories: player  
 ---
 # Max Lahiff
@@ -23,24 +23,24 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Bath Rugby       |            88 |   0.477273 |
 | London Irish     |            77 |   0.435065 |
-| Bristol Rugby    |            56 |   0.642857 |
+| Bristol Rugby    |            60 |   0.666667 |
 | Hawke's Bay      |            10 |   0.6      |
 | Melbourne Rebels |             8 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Harlequins               |        21 |   0.47619  |
+| Harlequins               |        22 |   0.5      |
 | Wasps                    |        20 |   0.45     |
+| Northampton Saints       |        17 |   0.529412 |
+| Newcastle Falcons        |        17 |   0.588235 |
 | Leicester Tigers         |        16 |   0.3125   |
-| Northampton Saints       |        16 |   0.5      |
-| Newcastle Falcons        |        16 |   0.5625   |
 | Gloucester Rugby         |        15 |   0.433333 |
 | Worcester Warriors       |        14 |   0.75     |
 | Saracens                 |        13 |   0.307692 |
 | Sale Sharks              |        12 |   0.5      |
 | Exeter Chiefs            |        11 |   0.181818 |
+| Bath Rugby               |        11 |   0.636364 |
 | London Irish             |        10 |   0.75     |
-| Bath Rugby               |        10 |   0.6      |
 | Leinster                 |         5 |   0.2      |
 | Bristol Rugby            |         5 |   0.8      |
 | Cardiff Blues            |         4 |   0.5      |

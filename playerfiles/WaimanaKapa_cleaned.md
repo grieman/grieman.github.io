@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Waimana Kapa  
-date: 2023-02-24 02:29:11.325354  
+date: 2023-03-17 17:03:42.587084  
 categories: player  
 ---
 # Waimana Kapa
 
 ## Positions: N8
 
-## Current elo: 92.0
+## Current elo: 80.0
 
-## Current Percentile: None
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,8 +21,10 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             1 |          0 |
+| Hanazono Kintetsu Liners |             3 |          0 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Mitsubishi Dynaboars |         1 |          0 |
 | Saitama Wild Knights |         1 |          0 |
+| Toyota Verblitz      |         1 |          0 |

@@ -1,14 +1,14 @@
 ---  
 layout: page  
 title: Shu Umemura  
-date: 2023-02-28 11:06:17.468295  
+date: 2023-03-17 17:00:33.449396  
 categories: player  
 ---
 # Shu Umemura
 
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 
@@ -17,8 +17,9 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             1 |          0 |
+| Hanazono Kintetsu Liners |             2 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Black Rams Tokyo |         1 |          0 |
+| Toyota Verblitz  |         1 |          0 |

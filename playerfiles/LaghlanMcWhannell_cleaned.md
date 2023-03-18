@@ -1,16 +1,16 @@
 ---  
 layout: page  
 title: Laghlan McWhannell  
-date: 2023-03-04 11:39:18.225068  
+date: 2023-03-17 17:20:14.872176  
 categories: player  
 ---
 # Laghlan McWhannell
 
 ## Positions: L
 
-## Current elo: 109.0
+## Current elo: 110.0
 
-## Current Percentile: 87.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -22,7 +22,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Waikato |            30 |   0.616667 |
-| Chiefs  |             3 |   1        |
+| Chiefs  |             4 |   1        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -31,8 +31,8 @@ categories: player
 | Wellington       |         4 |   0.5      |
 | Auckland         |         3 |   0.666667 |
 | Hawke's Bay      |         3 |   0.5      |
+| Moana Pasifika   |         3 |   1        |
 | Taranaki         |         3 |   0.666667 |
-| Moana Pasifika   |         2 |   1        |
 | North Harbour    |         2 |   0.5      |
 | Otago            |         2 |   0.5      |
 | Canterbury       |         1 |   0        |
