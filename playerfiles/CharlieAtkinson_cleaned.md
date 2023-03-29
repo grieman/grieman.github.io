@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Charlie Atkinson  
-date: 2023-03-17 17:32:55.515235  
+date: 2023-03-21 17:58:32.065429  
 categories: player  
 ---
 # Charlie Atkinson
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
-## Current elo: 93.0
+## Current elo: 98.0
 
-## Current Percentile: 41.0
+## Current Percentile: 49.0
 
 # Elo History
 

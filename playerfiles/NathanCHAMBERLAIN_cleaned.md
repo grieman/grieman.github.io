@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nathan CHAMBERLAIN  
-date: 2023-03-12 11:33:11.789031  
+date: 2023-03-29 11:31:15.636713  
 categories: player  
 ---
 # Nathan CHAMBERLAIN
 
+
+Last updated: 2023-03-29
 ## Positions: FH
 
 ## Current elo: 90.0

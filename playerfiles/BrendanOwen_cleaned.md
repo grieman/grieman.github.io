@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Brendan Owen  
-date: 2023-02-02 19:00:52.701685  
+date: 2023-03-21 18:18:21.204863  
 categories: player  
 ---
 # Brendan Owen
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 47.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,28 +23,28 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Jersey           |            41 |   0.658537 |
-| Perth Spirit     |             5 |   0.4      |
+| Jersey           |            42 |   0.666667 |
+| Perth Spirit     |             6 |   0.333333 |
 | Boland Cavaliers |             1 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Cornish Pirates     |         5 |   0.8      |
 | Ampthill            |         4 |   0.875    |
+| Nottingham          |         4 |   1        |
 | Coventry            |         4 |   0.625    |
 | Ealing Trailfinders |         4 |   0        |
-| Bedford             |         4 |   0.75     |
-| Nottingham          |         4 |   1        |
+| Hartpury College    |         4 |   1        |
 | London Scottish     |         4 |   1        |
-| Richmond            |         3 |   0.666667 |
 | Doncaster           |         3 |   0        |
-| Hartpury College    |         3 |   1        |
-| Newcastle Falcons   |         1 |   0        |
+| Bedford             |         3 |   0.666667 |
+| Richmond            |         3 |   0.666667 |
+| Caldy               |         2 |   1        |
+| Canberra Vikings    |         2 |   0        |
 | Saracens            |         1 |   0        |
 | Queensland Country  |         1 |   1        |
 | Greater Sydney Rams |         1 |   1        |
+| Newcastle Falcons   |         1 |   0        |
 | Griffons            |         1 |   0.5      |
 | Fijian Drua         |         1 |   0        |
-| Canberra Vikings    |         1 |   0        |
-| Caldy               |         1 |   1        |
 | Sydney Rays         |         1 |   0        |

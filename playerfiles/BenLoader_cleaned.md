@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Ben Loader  
-date: 2023-03-17 17:26:30.329048  
+date: 2023-03-21 18:21:44.993850  
 categories: player  
 ---
 # Ben Loader
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 115.0
+## Current elo: 118.0
 
 ## Current Percentile: 85.0
 

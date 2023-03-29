@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Janco Venter  
-date: 2023-03-17 17:25:38.961069  
+date: 2023-03-21 18:34:10.510533  
 categories: player  
 ---
 # Janco Venter
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Namibia

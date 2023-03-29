@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lauina Futi  
-date: 2023-03-17 16:59:45.837000  
+date: 2023-03-21 18:22:00.197640  
 categories: player  
 ---
 # Lauina Futi
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 159.0
 
-## Current Percentile: 99.0
+## Current Percentile: 100.0
 
 # Elo History
 

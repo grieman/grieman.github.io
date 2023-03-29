@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lucas Gonzalez Amorosino  
-date: 2023-03-17 17:25:00.186131  
+date: 2023-03-21 18:32:13.204690  
 categories: player  
 ---
 # Lucas Gonzalez Amorosino
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: Argentina

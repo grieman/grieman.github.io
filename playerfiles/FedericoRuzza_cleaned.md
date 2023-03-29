@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Federico Ruzza  
-date: 2023-03-17 17:09:45.642861  
+date: 2023-03-21 18:44:20.144156  
 categories: player  
 ---
 # Federico Ruzza
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Italy
 
-## Current elo: 104.0
+## Current elo: 109.0
 
-## Current Percentile: 87.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            92 |   0.467391 |
 | Zebre            |            47 |   0.170213 |
-| Italy            |            40 |   0.225    |
+| Italy            |            41 |   0.219512 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,10 +43,10 @@ categories: player
 | France               |         7 |   0        |
 | Ospreys              |         7 |   0.142857 |
 | Cardiff Blues        |         6 |   0.166667 |
+| Scotland             |         5 |   0        |
 | Ireland              |         5 |   0        |
 | England              |         5 |   0        |
 | Southern Kings       |         4 |   1        |
-| Scotland             |         4 |   0        |
 | Wales                |         4 |   0.25     |
 | Stade Francais Paris |         3 |   0.666667 |
 | Agen                 |         3 |   0.666667 |

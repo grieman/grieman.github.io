@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Simon Berghan  
-date: 2023-03-17 17:16:03.261495  
+date: 2023-03-21 18:34:51.362671  
 categories: player  
 ---
 # Simon Berghan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Scotland

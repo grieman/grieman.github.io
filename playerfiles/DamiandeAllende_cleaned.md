@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Damian de Allende  
-date: 2023-03-17 17:31:52.485664  
+date: 2023-03-21 18:43:04.563257  
 categories: player  
 ---
 # Damian de Allende
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: South Africa

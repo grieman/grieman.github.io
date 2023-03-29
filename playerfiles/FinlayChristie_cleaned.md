@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Finlay Christie  
-date: 2023-03-16 19:57:06.262672  
+date: 2023-03-21 17:59:43.939205  
 categories: player  
 ---
 # Finlay Christie
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: New Zealand
 
-## Current elo: 105.0
+## Current elo: 104.0
 
-## Current Percentile: 76.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Tasman      |            39 |   0.75641  |
-| Blues       |            34 |   0.735294 |
+| Blues       |            35 |   0.714286 |
 | Hurricanes  |            15 |   0.633333 |
 | New Zealand |            14 |   0.857143 |
 | Chiefs      |             8 |   0.75     |
@@ -32,7 +34,7 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |         9 |   0.777778 |
-| Crusaders                |         8 |   0.125    |
+| Crusaders                |         9 |   0.111111 |
 | Chiefs                   |         7 |   0.642857 |
 | Taranaki                 |         5 |   0.8      |
 | Auckland                 |         5 |   0.8      |

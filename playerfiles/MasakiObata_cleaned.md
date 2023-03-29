@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Masaki Obata  
-date: 2023-03-17 17:41:03.937666  
+date: 2023-03-21 18:20:29.825775  
 categories: player  
 ---
 # Masaki Obata
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

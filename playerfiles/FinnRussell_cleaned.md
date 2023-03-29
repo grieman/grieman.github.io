@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Finn Russell  
-date: 2023-03-17 17:37:15.829510  
+date: 2023-03-21 18:50:53.060745  
 categories: player  
 ---
 # Finn Russell
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Scotland
 
-## Current elo: 131.0
+## Current elo: 133.0
 
 ## Current Percentile: 98.0
 

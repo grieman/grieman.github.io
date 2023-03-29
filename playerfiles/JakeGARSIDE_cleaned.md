@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jake GARSIDE  
-date: 2023-03-12 11:31:02.373367  
+date: 2023-03-29 11:28:43.433211  
 categories: player  
 ---
 # Jake GARSIDE
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 48.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -29,9 +31,7 @@ categories: player
 | Caldy               |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
 | London Scottish     |         2 |   1        |
-| Ampthill            |         1 |   1        |
+| Nottingham          |         2 |   0.5      |
+| Richmond            |         2 |   0.5      |
 | Coventry            |         1 |   0        |
 | Doncaster           |         1 |   0        |
-| Jersey              |         1 |   0        |
-| Nottingham          |         1 |   1        |
-| Richmond            |         1 |   0        |

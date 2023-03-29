@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Maxence Bonnin  
-date: 2023-02-15 22:13:19.221418  
+date: 2023-03-21 18:31:15.865268  
 categories: player  
 ---
 # Maxence Bonnin
 
-## Positions: FH, C
 
-## Current elo: 98.0
+Last updated: 2023-03-21
+## Positions: C, FH
 
-## Current Percentile: None
+## Current elo: 88.0
+
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,11 +23,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
+| Montauban      |             3 |       0    |
 | Provence Rugby |             2 |       0.25 |
-| Montauban      |             1 |       0    |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
+| Beziers     |         1 |        0   |
+| Grenoble    |         1 |        0   |
 | Rouen       |         1 |        0   |
 | US Bressane |         1 |        0.5 |
 | Vannes      |         1 |        0   |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jared Cardew  
-date: 2023-02-02 18:51:20.344193  
+date: 2023-03-21 18:46:42.681885  
 categories: player  
 ---
 # Jared Cardew
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 94.0
+## Current elo: 91.0
 
-## Current Percentile: 37.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |            13 |   0.538462 |
+| Doncaster |            15 |   0.466667 |
 | Richmond  |            12 |   0.458333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Nottingham          |         4 |   0.75     |
+| Ampthill            |         3 |   0.333333 |
+| Bedford             |         3 |   0.666667 |
 | Cornish Pirates     |         3 |   0.166667 |
-| Ampthill            |         2 |   0.5      |
-| Bedford             |         2 |   1        |
 | Coventry            |         2 |   0        |
 | Ealing Trailfinders |         2 |   0        |
 | Hartpury College    |         2 |   0.5      |

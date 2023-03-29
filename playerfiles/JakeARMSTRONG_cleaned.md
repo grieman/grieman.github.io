@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jake ARMSTRONG  
-date: 2023-03-12 11:29:41.600545  
+date: 2023-03-27 11:37:24.779320  
 categories: player  
 ---
 # Jake ARMSTRONG
 
+
+Last updated: 2023-03-27
 ## Positions: P
 
 ## Current elo: 101.0

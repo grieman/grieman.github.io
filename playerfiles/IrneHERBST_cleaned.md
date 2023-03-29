@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Irne HERBST  
-date: 2023-03-17 17:01:43.733703  
+date: 2023-03-29 11:31:14.901508  
 categories: player  
 ---
 # Irne HERBST
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Current elo: 112.0
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            73 |   0.376712 |
-| Harlequins       |            19 |   0.473684 |
+| Harlequins       |            18 |   0.5      |
 | Southern Kings   |            13 |   0.384615 |
 | Blue Bulls       |             6 |   0.5      |
 
@@ -52,13 +54,13 @@ categories: player
 | Bath Rugby               |         2 |   0.5      |
 | Edinburgh                |         2 |   1        |
 | Exeter Chiefs            |         2 |   0.5      |
-| Bristol Rugby            |         2 |   0        |
 | Jaguares                 |         2 |   0.5      |
 | Racing 92                |         2 |   0.5      |
 | Queensland Reds          |         1 |   0        |
 | Stormers                 |         1 |   0        |
 | Stade Francais Paris     |         1 |   1        |
 | Brumbies                 |         1 |   0        |
+| Bristol Rugby            |         1 |   0        |
 | Western Force            |         1 |   0        |
 | Saracens                 |         1 |   0        |
 | Western Province         |         1 |   0        |

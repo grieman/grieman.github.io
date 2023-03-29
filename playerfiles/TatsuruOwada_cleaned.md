@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tatsuru Owada  
-date: 2023-03-17 17:31:48.055524  
+date: 2023-03-21 18:05:52.578788  
 categories: player  
 ---
 # Tatsuru Owada
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 103.0
+## Current elo: 105.0
 
-## Current Percentile: 73.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -21,11 +23,11 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            56 |   0.214286 |
+| Green Rockets Tokatsu |            57 |   0.210526 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kobelco Kobe Steelers             |         6 |   0        |
+| Kobelco Kobe Steelers             |         7 |   0        |
 | Toshiba Brave Lupus Tokyo         |         5 |   0        |
 | Shizuoka Blue Revs                |         5 |   0        |
 | Black Rams Tokyo                  |         4 |   0        |

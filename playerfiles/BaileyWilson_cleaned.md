@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bailey Wilson  
-date: 2023-03-02 11:23:04.405083  
+date: 2023-03-21 18:51:37.196186  
 categories: player  
 ---
 # Bailey Wilson
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 65.0
+## Current elo: 70.0
 
-## Current Percentile: 4.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Utah Warriors |            39 |   0.448718 |
+| Utah Warriors |            41 |    0.45122 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -34,7 +36,8 @@ categories: player
 | New England Free Jacks |         3 |   0.333333 |
 | Rugby ATL              |         3 |   0.333333 |
 | Austin Herd            |         2 |   0.75     |
+| NOLA Gold              |         2 |   0        |
 | Old Glory DC           |         2 |   0.5      |
 | Toronto Arrows         |         2 |   0.5      |
+| Chicago Hounds         |         1 |   1        |
 | Colorado Raptors       |         1 |   0        |
-| NOLA Gold              |         1 |   0        |

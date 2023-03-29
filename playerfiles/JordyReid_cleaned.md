@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jordy Reid  
-date: 2023-03-17 17:24:25.689669  
+date: 2023-03-21 18:36:12.166063  
 categories: player  
 ---
 # Jordy Reid
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 98.0
 
-## Current Percentile: 65.0
+## Current Percentile: 66.0
 
 # Elo History
 

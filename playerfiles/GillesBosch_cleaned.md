@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gilles Bosch  
-date: 2023-02-24 02:32:12.012072  
+date: 2023-03-21 18:33:27.403090  
 categories: player  
 ---
 # Gilles Bosch
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 70.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ben White  
-date: 2023-03-17 17:11:48.169282  
+date: 2023-03-21 18:27:48.399047  
 categories: player  
 ---
 # Ben White
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 147.0
 
-## Current Percentile: None
+## Current Percentile: 99.0
 
 # Elo History
 

@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Nacani Wakaya  
-date: 2023-01-13 11:27:48.233543  
+date: 2023-03-21 18:04:51.054350  
 categories: player  
 ---
 # Nacani Wakaya
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 129.0
+## Current elo: 121.0
 
 ## Current Percentile: 95.0
 
@@ -21,25 +23,25 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |           136 |   0.610294 |
+| Mont-de-Marsan |           141 |   0.595745 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Carcassonne                |        12 |   0.666667 |
+| Carcassonne                |        13 |   0.615385 |
 | Beziers                    |        12 |   0.75     |
 | Aurillac                   |        11 |   0.909091 |
-| Montauban                  |         9 |   0.444444 |
+| Montauban                  |        10 |   0.4      |
 | Colomiers                  |         8 |   0.375    |
 | Vannes                     |         8 |   0.625    |
 | Biarritz Olympique         |         8 |   0.3125   |
 | Soyaux-Angouleme           |         7 |   0.428571 |
+| Nevers                     |         7 |   0.714286 |
 | Oyonnax                    |         7 |   0.357143 |
-| Nevers                     |         6 |   0.666667 |
-| Perpignan                  |         5 |   0.4      |
+| Perpignan                  |         6 |   0.333333 |
+| Bayonne                    |         6 |   0.75     |
 | Rouen                      |         5 |   1        |
 | Grenoble                   |         5 |   0.4      |
 | Provence Rugby             |         5 |   0.4      |
-| Bayonne                    |         5 |   0.9      |
 | Narbonne                   |         5 |   0.8      |
 | US Bressane                |         3 |   0.666667 |
 | Massy                      |         3 |   0.666667 |

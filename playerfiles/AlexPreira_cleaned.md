@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alex Preira  
-date: 2023-03-17 17:15:05.116770  
+date: 2023-03-21 18:24:04.778025  
 categories: player  
 ---
 # Alex Preira
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 110.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 

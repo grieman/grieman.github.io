@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Steeve Barry  
-date: 2023-02-02 18:45:02.385328  
+date: 2023-03-21 18:34:31.759504  
 categories: player  
 ---
 # Steeve Barry
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 92.0
 
-## Current Percentile: 63.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,46 +23,48 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            73 |   0.547945 |
-| La Rochelle        |            51 |   0.607843 |
+| Biarritz Olympique |            80 |   0.55625  |
+| La Rochelle        |            52 |   0.596154 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Perpignan                  |         6 |   0.166667 |
+| Grenoble                   |         6 |   1        |
+| Vannes                     |         6 |   0.666667 |
 | Carcassonne                |         6 |   0.666667 |
-| Montauban                  |         5 |   0.6      |
-| Grenoble                   |         5 |   1        |
+| Toulon                     |         6 |   0.416667 |
 | Aurillac                   |         5 |   0.6      |
-| Vannes                     |         5 |   0.6      |
-| Toulon                     |         5 |   0.3      |
-| Mont-de-Marsan             |         5 |   0.3      |
-| Perpignan                  |         5 |   0.2      |
-| Lyon                       |         5 |   0.6      |
+| Pau                        |         5 |   0.4      |
 | Oyonnax                    |         5 |   0.8      |
-| Stade Francais Paris       |         5 |   0.4      |
+| Montauban                  |         5 |   0.6      |
+| Mont-de-Marsan             |         5 |   0.3      |
 | Soyaux-Angouleme           |         5 |   0.8      |
-| Pau                        |         4 |   0.5      |
+| Lyon                       |         5 |   0.6      |
+| Stade Francais Paris       |         5 |   0.4      |
+| Montpellier Herault        |         4 |   0.25     |
 | Clermont Auvergne          |         4 |   0.25     |
 | Castres Olympique          |         4 |   0.5      |
-| Stade Toulousain           |         4 |   0.75     |
 | Bordeaux Begles            |         4 |   0.75     |
 | Beziers                    |         4 |   0.5      |
-| Montpellier Herault        |         4 |   0.25     |
-| Rouen                      |         3 |   1        |
-| Racing 92                  |         3 |   0.5      |
-| Agen                       |         3 |   0.333333 |
-| Nevers                     |         3 |   0.333333 |
+| Bayonne                    |         4 |   0.875    |
+| Stade Toulousain           |         4 |   0.75     |
 | Colomiers                  |         3 |   0.666667 |
 | Brive                      |         3 |   0.666667 |
-| Bayonne                    |         3 |   1        |
+| Rouen                      |         3 |   1        |
+| Nevers                     |         3 |   0.333333 |
+| Racing 92                  |         3 |   0.5      |
 | Provence Rugby             |         2 |   0.75     |
+| Agen                       |         2 |   0.5      |
 | La Rochelle                |         2 |   0.5      |
-| Albi                       |         1 |   0        |
-| Massy                      |         1 |   1        |
+| Zebre                      |         2 |   1        |
 | Périgueux                  |         1 |   1        |
-| Gloucester Rugby           |         1 |   0        |
+| Newcastle Falcons          |         1 |   0        |
+| Albi                       |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Scarlets                   |         1 |   0        |
+| Massy                      |         1 |   1        |
+| Gloucester Rugby           |         1 |   0        |
 | Edinburgh                  |         1 |   1        |
-| Benetton Treviso           |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |
-| Zebre                      |         1 |   1        |
+| Benetton Treviso           |         1 |   1        |
+| Wasps                      |         1 |   0        |

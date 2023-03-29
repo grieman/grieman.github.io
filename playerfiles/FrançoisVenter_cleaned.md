@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: François Venter  
-date: 2023-02-24 02:22:32.175077  
+date: 2023-03-21 18:37:52.123634  
 categories: player  
 ---
 # François Venter
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 104.0
+## Current elo: 85.0
 
-## Current Percentile: 60.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -19,15 +21,15 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Sharks |             7 |   0.714286 |
+| Team         |   Appearances |   Win Rate |
+|:-------------|--------------:|-----------:|
+| Sharks       |             4 |        0.5 |
+| Natal Sharks |             1 |        0   |
 
-| Opponent        |   Matches |   Win Rate |
-|:----------------|----------:|-----------:|
-| Harlequins      |         2 |        0.5 |
-| Bordeaux Begles |         1 |        1   |
-| Cardiff Blues   |         1 |        0   |
-| Edinburgh       |         1 |        1   |
-| Lions           |         1 |        1   |
-| Ospreys         |         1 |        1   |
+| Opponent   |   Matches |   Win Rate |
+|:-----------|----------:|-----------:|
+| Edinburgh  |         1 |          1 |
+| Griquas    |         1 |          0 |
+| Harlequins |         1 |          0 |
+| Lions      |         1 |          1 |
+| Ulster     |         1 |          0 |

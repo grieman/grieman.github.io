@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luke Campbell  
-date: 2023-03-16 20:15:18.267665  
+date: 2023-03-21 18:39:34.406496  
 categories: player  
 ---
 # Luke Campbell
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 91.0

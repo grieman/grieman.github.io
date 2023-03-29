@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jamie-Jerry Taulagi  
-date: 2023-03-17 17:37:17.906718  
+date: 2023-03-21 18:15:17.294699  
 categories: player  
 ---
 # Jamie-Jerry Taulagi
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 92.0
 
-## Current Percentile: 52.0
+## Current Percentile: 49.0
 
 # Elo History
 

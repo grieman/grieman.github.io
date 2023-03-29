@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Adam Vargas  
-date: 2023-03-17 17:18:58.471765  
+date: 2023-03-21 18:30:17.742846  
 categories: player  
 ---
 # Adam Vargas
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 106.0
 
-## Current Percentile: 70.0
+## Current Percentile: 65.0
 
 # Elo History
 

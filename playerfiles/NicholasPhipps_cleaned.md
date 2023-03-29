@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicholas Phipps  
-date: 2023-02-24 02:22:07.779720  
+date: 2023-03-21 18:08:01.614817  
 categories: player  
 ---
 # Nicholas Phipps
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 92.0
+## Current elo: 82.0
 
-## Current Percentile: 19.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |             8 |      0.125 |
+| Green Rockets Tokatsu |            10 |        0.1 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Hanazono Kintetsu Liners          |         1 |          1 |
-| Kobelco Kobe Steelers             |         1 |          0 |
+| Kobelco Kobe Steelers             |         2 |          0 |
+| Black Rams Tokyo                  |         1 |          0 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
+| Mitsubishi Dynaboars              |         1 |          1 |
 | Saitama Wild Knights              |         1 |          0 |
 | Shizuoka Blue Revs                |         1 |          0 |
 | Tokyo Sungoliath                  |         1 |          0 |

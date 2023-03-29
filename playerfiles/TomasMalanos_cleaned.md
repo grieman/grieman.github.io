@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomas Malanos  
-date: 2023-03-17 17:25:14.879505  
+date: 2023-03-21 18:03:44.641746  
 categories: player  
 ---
 # Tomas Malanos
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
-## Current elo: 109.0
+## Current elo: 112.0
 
-## Current Percentile: 79.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Atlético del Rosario |            47 |    0.37234 |
-| Dallas Jackals       |             4 |    0       |
+| Dallas Jackals       |             5 |    0       |
 | Jaguares XV          |             2 |    1       |
 
 | Opponent            |   Matches |   Win Rate |
@@ -34,8 +36,8 @@ categories: player
 | CUBA                |         5 |   0        |
 | Newman              |         4 |   0.5      |
 | CASI                |         4 |   0.625    |
-| Belgrano            |         3 |   0        |
 | Hindu               |         3 |   0        |
+| Belgrano            |         3 |   0        |
 | Regatas Bella Vista |         3 |   0.333333 |
 | Los Tilos           |         2 |   1        |
 | Buenos Aires        |         2 |   0.5      |
@@ -43,6 +45,7 @@ categories: player
 | Mariano Moreno      |         1 |   1        |
 | Olimpia Lions       |         1 |   1        |
 | Penarol Rugby       |         1 |   1        |
+| Chicago Hounds      |         1 |   0        |
 | San Diego Legion    |         1 |   0        |
 | Seattle Seawolves   |         1 |   0        |
 | Utah Warriors       |         1 |   0        |

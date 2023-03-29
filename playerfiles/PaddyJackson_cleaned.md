@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Paddy Jackson  
-date: 2023-03-17 17:27:01.291253  
+date: 2023-03-21 18:01:43.810135  
 categories: player  
 ---
 # Paddy Jackson
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Ireland

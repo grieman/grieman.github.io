@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alexandre Duny  
-date: 2023-03-17 17:39:51.996690  
+date: 2023-03-20 15:45:06.226925  
 categories: player  
 ---
 # Alexandre Duny
 
+
+Last updated: 2023-03-20
 ## Positions: P
 
-## Current elo: 85.0
+## Current elo: 83.0
 
-## Current Percentile: 14.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Tarbes      |            35 |   0.457143 |
+| Tarbes      |            34 |   0.441176 |
 | Carcassonne |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Valence Romans Drome Rugby |         4 |   0.25     |
-| Chambery                   |         4 |   0.5      |
 | Soyaux-Angouleme           |         4 |   0.75     |
+| Chambery                   |         3 |   0.333333 |
 | Nice                       |         3 |   0        |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Albi                       |         3 |   0.666667 |

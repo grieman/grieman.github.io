@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sama Malolo  
-date: 2023-03-17 17:21:20.653841  
+date: 2023-03-21 18:23:35.930948  
 categories: player  
 ---
 # Sama Malolo
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 109.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 

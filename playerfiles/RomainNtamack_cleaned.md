@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Romain Ntamack  
-date: 2023-03-17 17:35:06.038218  
+date: 2023-03-21 18:15:21.721158  
 categories: player  
 ---
 # Romain Ntamack
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: France
@@ -24,16 +26,16 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           102 |   0.740196 |
-| France           |            36 |   0.75     |
+| France           |            37 |   0.756757 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Clermont Auvergne        |        10 |   0.65     |
 | La Rochelle              |         8 |   0.875    |
 | Bordeaux Begles          |         8 |   0.875    |
+| Wales                    |         7 |   0.714286 |
 | Scotland                 |         7 |   0.571429 |
 | Castres Olympique        |         7 |   0.428571 |
-| Wales                    |         6 |   0.666667 |
 | Lyon                     |         6 |   0.416667 |
 | Toulon                   |         6 |   0.75     |
 | Montpellier Herault      |         5 |   0.6      |

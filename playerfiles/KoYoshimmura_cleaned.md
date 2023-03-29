@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ko Yoshimmura  
-date: 2023-03-17 17:25:08.221082  
+date: 2023-03-21 18:23:26.076650  
 categories: player  
 ---
 # Ko Yoshimmura
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 91.0
+## Current elo: 86.0
 
-## Current Percentile: None
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |             1 |          0 |
+| Green Rockets Tokatsu |             2 |          0 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
+| Kobelco Kobe Steelers     |         1 |          0 |
 | Toshiba Brave Lupus Tokyo |         1 |          0 |

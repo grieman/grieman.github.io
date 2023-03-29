@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Britton  
-date: 2023-02-02 19:06:41.223395  
+date: 2023-03-21 18:42:21.725192  
 categories: player  
 ---
 # Will Britton
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

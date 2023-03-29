@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tom DELEUZE  
-date: 2023-03-12 11:31:16.658106  
+date: 2023-03-29 11:31:29.022151  
 categories: player  
 ---
 # Tom DELEUZE
 
+
+Last updated: 2023-03-29
 ## Positions: FH
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 46.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Massy     |             7 |   0.142857 |
+| Massy     |             8 |   0.125    |
 | Colomiers |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
@@ -31,5 +33,6 @@ categories: player
 | Agen               |         1 |   0        |
 | Biarritz Olympique |         1 |   0        |
 | Colomiers          |         1 |   0        |
+| Nevers             |         1 |   0        |
 | Provence Rugby     |         1 |   0        |
 | Soyaux-Angouleme   |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rewita Biddle  
-date: 2023-02-24 02:34:18.472658  
+date: 2023-03-21 18:49:45.937734  
 categories: player  
 ---
 # Rewita Biddle
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: None
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,8 +23,11 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Rugby ATL |             1 |          1 |
+| Rugby ATL |             4 |        0.5 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Toronto Arrows |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| NOLA Gold         |         1 |          1 |
+| San Diego Legion  |         1 |          0 |
+| Seattle Seawolves |         1 |          0 |
+| Toronto Arrows    |         1 |          1 |

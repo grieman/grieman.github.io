@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Grzegorz Szczepanski  
-date: 2023-02-15 22:14:33.929630  
+date: 2023-03-21 18:38:17.625098  
 categories: player  
 ---
 # Grzegorz Szczepanski
 
-## Positions: W
+
+Last updated: 2023-03-21
+## Positions: C, W
 
 ## Country: Poland
 
-## Current elo: 89.0
+## Current elo: 77.0
 
-## Current Percentile: None
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,8 +25,10 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             4 |       0.25 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Portugal   |         1 |          0 |
+| Belgium    |         2 |        0.5 |
+| Germany    |         1 |        0   |
+| Portugal   |         1 |        0   |

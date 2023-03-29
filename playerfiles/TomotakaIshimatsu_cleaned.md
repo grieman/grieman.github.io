@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomotaka Ishimatsu  
-date: 2023-01-13 11:30:36.823889  
+date: 2023-03-21 18:57:32.839481  
 categories: player  
 ---
 # Tomotaka Ishimatsu
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 98.0
+## Current elo: 93.0
 
-## Current Percentile: 61.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,12 +23,13 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |             6 |   0.333333 |
+| Kyuden Voltex |            11 |   0.636364 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         1 |          1 |
-| Kurita Water Gush                |         1 |          1 |
+| Kurita Water Gush                |         3 |          1 |
+| Chugoku Red Regulions            |         2 |          1 |
+| Skyactivs Hiroshima              |         2 |          1 |
 | Munakata Sanix Blues             |         1 |          0 |
 | NTT Docomo Red Hurricanes Osaka  |         1 |          0 |
 | Shimizu Blue Sharks              |         1 |          0 |

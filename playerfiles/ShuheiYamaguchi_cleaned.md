@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shuhei Yamaguchi  
-date: 2023-03-17 17:41:57.037377  
+date: 2023-03-21 18:36:16.663555  
 categories: player  
 ---
 # Shuhei Yamaguchi
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 89.0

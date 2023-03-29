@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hugo Hermet  
-date: 2023-02-24 02:20:46.651587  
+date: 2023-03-21 17:58:34.467721  
 categories: player  
 ---
 # Hugo Hermet
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 106.0
+## Current elo: 99.0
 
-## Current Percentile: 58.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Oyonnax           |             7 |   0.857143 |
-| Castres Olympique |             3 |   0        |
+| Oyonnax           |             8 |       0.75 |
+| Castres Olympique |             3 |       0    |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -35,3 +37,4 @@ categories: player
 | Nevers            |         1 |          1 |
 | Newcastle Falcons |         1 |          0 |
 | Ospreys           |         1 |          0 |
+| Vannes            |         1 |          0 |

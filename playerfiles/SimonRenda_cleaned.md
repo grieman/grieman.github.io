@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Simon Renda  
-date: 2023-02-02 18:55:04.914755  
+date: 2023-03-21 18:15:59.708020  
 categories: player  
 ---
 # Simon Renda
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 91.0
+## Current elo: 90.0
 
 ## Current Percentile: None
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ma'a Nonu  
-date: 2023-03-17 17:36:52.014587  
+date: 2023-03-21 18:13:04.475455  
 categories: player  
 ---
 # Ma'a Nonu
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: New Zealand

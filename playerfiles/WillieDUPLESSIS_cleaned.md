@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Willie DU PLESSIS  
-date: 2023-03-06 11:24:32.810034  
+date: 2023-03-29 11:29:09.970654  
 categories: player  
 ---
 # Willie DU PLESSIS
 
+
+Last updated: 2023-03-29
 ## Positions: FH
 
 ## Country: Netherlands
 
-## Current elo: 129.0
+## Current elo: 131.0
 
-## Current Percentile: 92.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Bayonne             |            68 |   0.580882 |
-| Mont-de-Marsan      |            33 |   0.727273 |
+| Mont-de-Marsan      |            35 |   0.742857 |
 | Free State Cheetahs |            18 |   0.416667 |
 | Biarritz Olympique  |            16 |   0.5625   |
 | Cheetahs            |            10 |   0.3      |
@@ -36,24 +38,24 @@ categories: player
 |:-----------------------|----------:|-----------:|
 | Montauban              |         8 |   0.625    |
 | Vannes                 |         8 |   0.75     |
+| Carcassonne            |         7 |   0.571429 |
 | Aurillac               |         6 |   0.833333 |
 | Nevers                 |         6 |   0.666667 |
 | Beziers                |         6 |   0.666667 |
 | Biarritz Olympique     |         6 |   0.5      |
-| Provence Rugby         |         6 |   0.666667 |
 | Colomiers              |         6 |   0.75     |
-| Carcassonne            |         6 |   0.5      |
+| Provence Rugby         |         6 |   0.666667 |
 | Brive                  |         5 |   0.4      |
-| Mont-de-Marsan         |         5 |   0.5      |
 | Racing 92              |         5 |   0.2      |
+| Grenoble               |         5 |   0.4      |
 | Oyonnax                |         5 |   0.8      |
+| Mont-de-Marsan         |         5 |   0.5      |
+| La Rochelle            |         4 |   0.25     |
+| Griquas                |         4 |   1        |
 | Natal Sharks           |         4 |   0.125    |
 | Rouen                  |         4 |   0.75     |
-| Narbonne               |         4 |   1        |
-| Griquas                |         4 |   1        |
-| La Rochelle            |         4 |   0.25     |
 | Massy                  |         4 |   0.75     |
-| Grenoble               |         4 |   0.25     |
+| Narbonne               |         4 |   1        |
 | Perpignan              |         3 |   0        |
 | Agen                   |         3 |   0.666667 |
 | Dax                    |         3 |   0.833333 |

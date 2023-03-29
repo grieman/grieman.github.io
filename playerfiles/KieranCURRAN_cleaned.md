@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kieran CURRAN  
-date: 2023-03-16 20:14:46.577673  
+date: 2023-03-27 11:32:43.745464  
 categories: player  
 ---
 # Kieran CURRAN
 
+
+Last updated: 2023-03-27
 ## Positions: FL
 
-## Current elo: 102.0
+## Current elo: 94.0
 
-## Current Percentile: 53.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -28,13 +30,14 @@ categories: player
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ampthill            |         3 |   0.333333 |
-| Caldy               |         1 |   0        |
-| Cornish Pirates     |         1 |   1        |
-| Doncaster           |         1 |   1        |
-| Ealing Trailfinders |         1 |   0        |
-| Hartpury College    |         1 |   1        |
-| London Scottish     |         1 |   1        |
-| Munster             |         1 |   0        |
-| Newcastle Falcons   |         1 |   0        |
-| Nottingham          |         1 |   1        |
+| Ampthill            |         2 |          0 |
+| Caldy               |         1 |          0 |
+| Cornish Pirates     |         1 |          1 |
+| Doncaster           |         1 |          1 |
+| Ealing Trailfinders |         1 |          0 |
+| Hartpury College    |         1 |          1 |
+| London Scottish     |         1 |          1 |
+| Munster             |         1 |          0 |
+| Newcastle Falcons   |         1 |          0 |
+| Nottingham          |         1 |          1 |
+| Richmond            |         1 |          1 |

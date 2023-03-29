@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Liaki Moli  
-date: 2023-03-17 17:08:49.642876  
+date: 2023-03-21 18:08:04.563366  
 categories: player  
 ---
 # Liaki Moli
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 83.0

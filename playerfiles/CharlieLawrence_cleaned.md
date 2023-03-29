@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Charlie Lawrence  
-date: 2023-03-17 17:33:26.224330  
+date: 2023-03-21 18:33:31.719585  
 categories: player  
 ---
 # Charlie Lawrence
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 116.0
+## Current elo: 121.0
 
 ## Current Percentile: 88.0
 
@@ -21,23 +23,23 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Toyota Verblitz       |            22 |   0.681818 |
+| Toyota Verblitz       |            23 |   0.652174 |
 | Kobelco Kobe Steelers |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka   |         3 |        1   |
-| Black Rams Tokyo                  |         2 |        1   |
-| Green Rockets Tokatsu             |         2 |        1   |
-| Saitama Wild Knights              |         2 |        0   |
-| Tokyo Sungoliath                  |         2 |        0.5 |
-| Toshiba Brave Lupus Tokyo         |         2 |        0.5 |
-| Yokohama Canon Eagles             |         2 |        0   |
-| Hanazono Kintetsu Liners          |         1 |        1   |
-| Hino Red Dolphins                 |         1 |        1   |
-| Kobelco Kobe Steelers             |         1 |        1   |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
-| Mitsubishi Dynaboars              |         1 |        1   |
-| Munakata Sanix Blues              |         1 |        1   |
-| Shizuoka Blue Revs                |         1 |        1   |
-| Urayasu D-Rocks                   |         1 |        1   |
+| NTT Docomo Red Hurricanes Osaka   |         3 |   1        |
+| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
+| Black Rams Tokyo                  |         2 |   1        |
+| Green Rockets Tokatsu             |         2 |   1        |
+| Saitama Wild Knights              |         2 |   0        |
+| Tokyo Sungoliath                  |         2 |   0.5      |
+| Yokohama Canon Eagles             |         2 |   0        |
+| Hanazono Kintetsu Liners          |         1 |   1        |
+| Hino Red Dolphins                 |         1 |   1        |
+| Kobelco Kobe Steelers             |         1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   1        |
+| Munakata Sanix Blues              |         1 |   1        |
+| Shizuoka Blue Revs                |         1 |   1        |
+| Urayasu D-Rocks                   |         1 |   1        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Schalk ERASMUS  
-date: 2023-03-12 11:32:41.170928  
+date: 2023-03-27 11:36:09.129944  
 categories: player  
 ---
 # Schalk ERASMUS
 
+
+Last updated: 2023-03-27
 ## Positions: H
 
 ## Current elo: 106.0
 
-## Current Percentile: 80.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
 | Blue Bulls                        |            18 |   0.777778 |
-| Kubota Spears Funabashi Tokyo-Bay |             4 |   0.75     |
+| Kubota Spears Funabashi Tokyo-Bay |             5 |   0.8      |
 | Western Province                  |             1 |   0        |
 
 | Opponent                  |   Matches |   Win Rate |
@@ -37,3 +39,4 @@ categories: player
 | Mitsubishi Dynaboars      |         1 |   1        |
 | Saitama Wild Knights      |         1 |   0        |
 | Toshiba Brave Lupus Tokyo |         1 |   1        |
+| Yokohama Canon Eagles     |         1 |   1        |

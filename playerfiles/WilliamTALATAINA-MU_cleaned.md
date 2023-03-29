@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: William TALATAINA-MU  
-date: 2023-03-17 17:21:07.836993  
+date: 2023-03-29 11:28:31.759364  
 categories: player  
 ---
 # William TALATAINA-MU
 
-## Positions: C, W
 
-## Current elo: 47.0
+Last updated: 2023-03-29
+## Positions: C
+
+## Current elo: 56.0
 
 ## Current Percentile: 1.0
 
@@ -21,20 +23,20 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |            19 |   0.157895 |
+| Old Glory DC |            21 |   0.190476 |
 | Southland    |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| New England Free Jacks |         3 |   0        |
-| Toronto Arrows         |         3 |   0.333333 |
-| NOLA Gold              |         2 |   0        |
-| R.U. New York          |         2 |   0        |
-| Rugby ATL              |         2 |   0        |
-| Rugby New York         |         2 |   0        |
-| Austin Gilgronis       |         1 |   0        |
-| Dallas Jackals         |         1 |   1        |
-| Hawke's Bay            |         1 |   0        |
-| Houston SaberCats      |         1 |   0        |
-| San Diego Legion       |         1 |   0        |
-| Utah Warriors          |         1 |   1        |
+| Toronto Arrows         |         4 |        0.5 |
+| NOLA Gold              |         3 |        0   |
+| New England Free Jacks |         3 |        0   |
+| R.U. New York          |         2 |        0   |
+| Rugby ATL              |         2 |        0   |
+| Rugby New York         |         2 |        0   |
+| Austin Gilgronis       |         1 |        0   |
+| Dallas Jackals         |         1 |        1   |
+| Hawke's Bay            |         1 |        0   |
+| Houston SaberCats      |         1 |        0   |
+| San Diego Legion       |         1 |        0   |
+| Utah Warriors          |         1 |        1   |

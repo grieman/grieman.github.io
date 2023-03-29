@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: John Powers  
-date: 2023-03-17 17:23:20.830245  
+date: 2023-03-21 18:12:18.407206  
 categories: player  
 ---
 # John Powers
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

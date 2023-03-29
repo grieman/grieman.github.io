@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jacob Pierce  
-date: 2023-03-17 17:42:19.075950  
+date: 2023-03-21 18:27:53.793541  
 categories: player  
 ---
 # Jacob Pierce
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 128.0

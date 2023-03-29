@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Patrick Tuipulotu  
-date: 2023-03-17 17:37:05.860888  
+date: 2023-03-20 15:47:03.055082  
 categories: player  
 ---
 # Patrick Tuipulotu
 
+
+Last updated: 2023-03-20
 ## Positions: L
 
 ## Country: New Zealand

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Aldric Lescure  
-date: 2023-02-02 18:56:53.882724  
+date: 2023-03-21 18:05:11.888367  
 categories: player  
 ---
 # Aldric Lescure
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 91.0
+## Current elo: 86.0
 
-## Current Percentile: 48.0
+## Current Percentile: 35.0
 
 # Elo History
 

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Marius Constantin Antonescu  
-date: 2023-02-24 02:26:19.258752  
+date: 2023-03-21 18:24:19.156418  
 categories: player  
 ---
 # Marius Constantin Antonescu
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Romania
 
-## Current elo: 93.0
+## Current elo: 102.0
 
-## Current Percentile: 40.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,8 +25,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |             6 |        0.5 |
-| Romania     |             5 |        0.8 |
+| Romania     |             7 |   0.714286 |
+| US Bressane |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,7 +35,6 @@ categories: player
 | Blagnac                    |         1 |          0 |
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
-| Dax                        |         1 |          0 |
+| Georgia                    |         1 |          0 |
 | Portugal                   |         1 |          0 |
-| Tarbes                     |         1 |          1 |
-| Valence Romans Drome Rugby |         1 |          1 |
+| Spain                      |         1 |          1 |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Lalakai Foketi  
-date: 2023-03-17 17:00:42.891062  
+date: 2023-03-21 18:56:33.361844  
 categories: player  
 ---
 # Lalakai Foketi
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Australia
 
 ## Current elo: 101.0
 
-## Current Percentile: 67.0
+## Current Percentile: 64.0
 
 # Elo History
 

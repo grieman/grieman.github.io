@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ethan Benson  
-date: 2023-02-02 19:11:27.512522  
+date: 2023-03-21 18:33:03.511125  
 categories: player  
 ---
 # Ethan Benson
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

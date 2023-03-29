@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Marquit Virgil September  
-date: 2023-03-17 17:05:32.968695  
+date: 2023-03-21 18:43:58.587184  
 categories: player  
 ---
 # Marquit Virgil September
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 69.0
+## Current elo: 63.0
 
-## Current Percentile: 8.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | SWD Eagles |            14 |   0.357143 |
-| Griffons   |            11 |   0.909091 |
+| Griffons   |            12 |   0.833333 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -32,6 +34,7 @@ categories: player
 | Border Bulldogs        |         3 |   0.666667 |
 | Leopards               |         2 |   1        |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Griffons               |         1 |   0.5      |
 | Jaguares XV            |         1 |   0        |
 | Namibia Welwitchias    |         1 |   1        |

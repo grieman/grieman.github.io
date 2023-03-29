@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Taulupe Faletau  
-date: 2023-03-17 17:34:48.731156  
+date: 2023-03-21 18:24:27.004955  
 categories: player  
 ---
 # Taulupe Faletau
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: Wales
@@ -24,16 +26,16 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Dragons                 |           111 |   0.355856 |
-| Wales                   |            98 |   0.454082 |
+| Wales                   |            99 |   0.449495 |
 | Bath Rugby              |            71 |   0.507042 |
 | Cardiff Blues           |            10 |   0.7      |
 | British and Irish Lions |             9 |   0.722222 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| France               |        14 |  0.428571  |
 | Scarlets             |        14 |  0.214286  |
 | Ospreys              |        13 |  0.307692  |
-| France               |        13 |  0.461538  |
 | South Africa         |        13 |  0.307692  |
 | Australia            |        12 |  0.0833333 |
 | England              |        12 |  0.333333  |

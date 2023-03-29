@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Matt Wilkinson  
-date: 2023-02-02 19:04:22.901541  
+date: 2023-03-21 18:23:36.982225  
 categories: player  
 ---
 # Matt Wilkinson
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 100.0
 
-## Current Percentile: 64.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
+| London Scottish |            14 |  0.0714286 |
 | Ampthill        |            13 |  0.461538  |
-| London Scottish |            13 |  0.0769231 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ealing Trailfinders |         4 |   0        |
 | Bedford             |         3 |   0        |
 | Cornish Pirates     |         3 |   0.166667 |
 | Coventry            |         3 |   0.333333 |
-| Ealing Trailfinders |         3 |   0        |
 | Jersey              |         3 |   0.166667 |
 | Nottingham          |         3 |   0.333333 |
 | Ampthill            |         2 |   0        |

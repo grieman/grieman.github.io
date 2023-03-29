@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tebita Oto  
-date: 2023-02-02 18:58:10.096027  
+date: 2023-03-21 18:53:39.966680  
 categories: player  
 ---
 # Tebita Oto
 
-## Positions: FL
 
-## Current elo: 98.0
+Last updated: 2023-03-21
+## Positions: N8, FL
 
-## Current Percentile: 60.0
+## Current elo: 111.0
+
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,11 +23,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             4 |        0.5 |
+| Kurita Water Gush |             7 |   0.428571 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Chugoku Red Regulions           |         1 |          0 |
-| Kyuden Voltex                   |         1 |          0 |
-| NTT Docomo Red Hurricanes Osaka |         1 |          1 |
-| Skyactivs Hiroshima             |         1 |          1 |
+| Chugoku Red Regulions           |         2 |        0.5 |
+| Kyuden Voltex                   |         2 |        0   |
+| NTT Docomo Red Hurricanes Osaka |         2 |        0.5 |
+| Skyactivs Hiroshima             |         1 |        1   |

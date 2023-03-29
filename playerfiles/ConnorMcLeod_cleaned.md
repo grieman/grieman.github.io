@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Connor McLeod  
-date: 2023-03-02 11:25:25.381157  
+date: 2023-03-21 18:25:22.442386  
 categories: player  
 ---
 # Connor McLeod
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 100.0

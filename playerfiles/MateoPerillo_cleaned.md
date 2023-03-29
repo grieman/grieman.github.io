@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mateo Perillo  
-date: 2023-03-17 17:29:12.509083  
+date: 2023-03-21 18:40:31.479918  
 categories: player  
 ---
 # Mateo Perillo
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Uruguay
 
-## Current elo: 98.0
+## Current elo: 99.0
 
 ## Current Percentile: 60.0
 
@@ -23,8 +25,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |            12 |       0.75 |
-| Uruguay       |             2 |       0.5  |
+| Penarol Rugby |            13 |   0.769231 |
+| Uruguay       |             2 |   0.5      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -37,3 +39,4 @@ categories: player
 | Japan            |         1 |        0   |
 | Olimpia Lions    |         1 |        0   |
 | Spain            |         1 |        1   |
+| Yacare XV        |         1 |        1   |

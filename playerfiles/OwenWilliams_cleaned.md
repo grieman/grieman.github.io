@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Owen Williams  
-date: 2023-03-17 17:42:03.507672  
+date: 2023-03-21 18:31:59.331709  
 categories: player  
 ---
 # Owen Williams
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Wales
 
 ## Current elo: 94.0
 
-## Current Percentile: None
+## Current Percentile: 43.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Maciu Koroi  
-date: 2023-03-17 17:43:21.128420  
+date: 2023-03-21 18:57:08.765514  
 categories: player  
 ---
 # Maciu Koroi
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 105.0
 
-## Current Percentile: 69.0
+## Current Percentile: 65.0
 
 # Elo History
 

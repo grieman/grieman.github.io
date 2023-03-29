@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Corentin Penc'hoat  
-date: 2023-03-17 17:09:13.267216  
+date: 2023-03-21 18:18:11.920420  
 categories: player  
 ---
 # Corentin Penc'hoat
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 

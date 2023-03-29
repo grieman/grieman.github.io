@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Charlie Gamble  
-date: 2023-03-17 17:41:42.456981  
+date: 2023-03-21 17:57:02.156531  
 categories: player  
 ---
 # Charlie Gamble
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 99.0
 
-## Current Percentile: 55.0
+## Current Percentile: 52.0
 
 # Elo History
 

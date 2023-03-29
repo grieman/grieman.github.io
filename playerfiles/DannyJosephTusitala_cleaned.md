@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Danny Joseph Tusitala  
-date: 2023-03-17 17:32:42.469843  
+date: 2023-03-21 18:36:22.050049  
 categories: player  
 ---
 # Danny Joseph Tusitala
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Samoa
 
-## Current elo: 81.0
+## Current elo: 82.0
 
-## Current Percentile: 16.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,13 +25,13 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |            44 |   0.329545 |
+| Old Glory DC |            45 |   0.344444 |
 | Aurillac     |             9 |   0.388889 |
 | Samoa        |             2 |   0.75     |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| Toronto Arrows         |         5 |   0.2      |
+| Toronto Arrows         |         6 |   0.333333 |
 | Rugby New York         |         5 |   0        |
 | Rugby ATL              |         5 |   0.4      |
 | New England Free Jacks |         5 |   0.2      |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Nic White  
-date: 2023-03-17 17:38:08.797552  
+date: 2023-03-21 18:24:09.770838  
 categories: player  
 ---
 # Nic White
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Australia
 
-## Current elo: 118.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Brumbies            |           103 |   0.669903 |
+| Brumbies            |           104 |   0.673077 |
 | Australia           |            64 |   0.476562 |
 | Exeter Chiefs       |            61 |   0.729508 |
 | Montpellier Herault |            57 |   0.701754 |
@@ -80,19 +82,19 @@ categories: player
 | Calvisano                |         2 |   1        |
 | Agen                     |         2 |   1        |
 | Lyon                     |         2 |   0.5      |
-| Lions                    |         2 |   1        |
 | Ireland                  |         2 |   0.5      |
 | Montpellier Herault      |         2 |   1        |
+| Moana Pasifika           |         2 |   0.5      |
 | Fijian Drua              |         2 |   1        |
+| Lions                    |         2 |   1        |
+| Fiji                     |         1 |   1        |
 | Italy                    |         1 |   1        |
 | Japan                    |         1 |   1        |
 | Uruguay                  |         1 |   1        |
-| Fiji                     |         1 |   1        |
 | Canberra Vikings         |         1 |   1        |
 | Oyonnax                  |         1 |   1        |
 | Southern Kings           |         1 |   0.5      |
 | Dragons                  |         1 |   1        |
-| Moana Pasifika           |         1 |   0        |
 | Munster                  |         1 |   0        |
 | Georgia                  |         1 |   1        |
 | Cardiff Blues            |         1 |   1        |

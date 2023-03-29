@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Liam Wright  
-date: 2023-03-16 20:10:23.180415  
+date: 2023-03-21 18:35:19.554633  
 categories: player  
 ---
 # Liam Wright
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Australia
 
-## Current elo: 129.0
+## Current elo: 128.0
 
 ## Current Percentile: 95.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Queensland Reds    |            61 |   0.418033 |
+| Queensland Reds    |            62 |   0.427419 |
 | Queensland Country |            12 |   0.75     |
 | Australia          |             7 |   0.428571 |
 
@@ -38,9 +40,9 @@ categories: player
 | New Zealand              |         4 |   0.25     |
 | Highlanders              |         3 |   0        |
 | Jaguares                 |         3 |   0.333333 |
+| Fijian Drua              |         3 |   0.666667 |
 | Chiefs                   |         3 |   0.333333 |
 | Bulls                    |         3 |   0.666667 |
-| Fijian Drua              |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
 | Blues                    |         2 |   0.5      |
 | Melbourne Rising         |         2 |   1        |

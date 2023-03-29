@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harry Clayton  
-date: 2023-01-17 11:43:43.106146  
+date: 2023-03-21 18:23:21.262157  
 categories: player  
 ---
 # Harry Clayton
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 96.0
 
-## Current Percentile: 57.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,19 +23,19 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            11 |   0.363636 |
-| Coventry   |             1 |   1        |
+| Nottingham |            16 |     0.3125 |
+| Coventry   |             1 |     1      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Cornish Pirates     |         2 |          0 |
-| Ampthill            |         1 |          1 |
-| Bedford             |         1 |          0 |
-| Caldy               |         1 |          1 |
-| Coventry            |         1 |          0 |
-| Doncaster           |         1 |          1 |
-| Ealing Trailfinders |         1 |          0 |
-| Hartpury College    |         1 |          0 |
-| Jersey              |         1 |          0 |
-| London Scottish     |         1 |          1 |
-| Richmond            |         1 |          1 |
+| Ampthill            |         2 |        0.5 |
+| Caldy               |         2 |        0.5 |
+| Cornish Pirates     |         2 |        0   |
+| Ealing Trailfinders |         2 |        0   |
+| Hartpury College    |         2 |        0   |
+| Richmond            |         2 |        1   |
+| Bedford             |         1 |        0   |
+| Coventry            |         1 |        0   |
+| Doncaster           |         1 |        1   |
+| Jersey              |         1 |        0   |
+| London Scottish     |         1 |        1   |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-03-17 17:35:07.432891  
+date: 2023-03-29 11:31:38.720935  
 categories: player  
 ---
 # Uini ATONIO
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Country: France
 
-## Current elo: 130.0
+## Current elo: 126.0
 
 ## Current Percentile: 97.0
 
@@ -23,8 +25,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| La Rochelle |           269 |   0.626394 |
-| France      |            47 |   0.531915 |
+| La Rochelle |           269 |   0.630112 |
+| France      |            48 |   0.541667 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,7 +35,7 @@ categories: player
 | Pau                  |        16 |   0.75     |
 | Lyon                 |        15 |   0.7      |
 | Montpellier Herault  |        15 |   0.566667 |
-| Bordeaux Begles      |        15 |   0.666667 |
+| Bordeaux Begles      |        15 |   0.733333 |
 | Castres Olympique    |        14 |   0.571429 |
 | Toulon               |        12 |   0.625    |
 | Clermont Auvergne    |        12 |   0.291667 |
@@ -42,10 +44,10 @@ categories: player
 | Oyonnax              |         7 |   0.357143 |
 | Brive                |         7 |   0.571429 |
 | Bayonne              |         7 |   0.571429 |
+| Wales                |         7 |   0.571429 |
 | Grenoble             |         6 |   0.666667 |
 | England              |         6 |   0.333333 |
 | Aurillac             |         6 |   0.666667 |
-| Wales                |         6 |   0.5      |
 | Ireland              |         6 |   0.5      |
 | Scotland             |         5 |   0.6      |
 | Beziers              |         5 |   0.8      |

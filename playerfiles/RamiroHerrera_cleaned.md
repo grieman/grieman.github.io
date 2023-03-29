@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ramiro Herrera  
-date: 2023-03-17 17:21:35.387201  
+date: 2023-03-21 18:43:37.088213  
 categories: player  
 ---
 # Ramiro Herrera
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Argentina

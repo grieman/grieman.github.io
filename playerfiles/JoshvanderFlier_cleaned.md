@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Josh van der Flier  
-date: 2023-03-17 17:25:59.051549  
+date: 2023-03-21 18:32:40.334654  
 categories: player  
 ---
 # Josh van der Flier
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Ireland
 
-## Current elo: 137.0
+## Current elo: 128.0
 
-## Current Percentile: 97.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leinster |           121 |   0.818182 |
-| Ireland  |            47 |   0.744681 |
+| Ireland  |            48 |   0.75     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,8 +35,8 @@ categories: player
 | Ulster                   |        11 |   0.818182 |
 | Glasgow Warriors         |         9 |   0.888889 |
 | New Zealand              |         8 |   0.625    |
+| England                  |         7 |   0.428571 |
 | Italy                    |         6 |   1        |
-| England                  |         6 |   0.333333 |
 | Montpellier Herault      |         6 |   0.833333 |
 | Dragons                  |         6 |   0.833333 |
 | Scotland                 |         6 |   0.833333 |

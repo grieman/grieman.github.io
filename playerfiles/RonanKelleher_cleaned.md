@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ronan Kelleher  
-date: 2023-03-17 17:35:20.690594  
+date: 2023-03-21 18:52:48.167749  
 categories: player  
 ---
 # Ronan Kelleher
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Ireland
 
-## Current elo: 128.0
+## Current elo: 129.0
 
 ## Current Percentile: 97.0
 

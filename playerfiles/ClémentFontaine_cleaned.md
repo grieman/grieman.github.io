@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Fontaine  
-date: 2023-03-17 17:35:31.304404  
+date: 2023-03-21 18:14:58.946745  
 categories: player  
 ---
 # Clément Fontaine
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 79.0
+## Current elo: 83.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 

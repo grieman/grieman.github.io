@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ehize Ehizode  
-date: 2023-02-02 18:43:52.156184  
+date: 2023-03-21 18:11:16.070664  
 categories: player  
 ---
 # Ehize Ehizode
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

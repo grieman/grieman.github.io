@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas FERRER  
-date: 2023-03-17 17:27:13.501195  
+date: 2023-03-29 11:29:28.692636  
 categories: player  
 ---
 # Nicolas FERRER
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 104.0
 
-## Current Percentile: 83.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            80 |    0.49375 |
+| Massy  |            81 |   0.487654 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -35,12 +37,12 @@ categories: player
 | Tarbes                     |         3 |   0.666667 |
 | US Bressane                |         3 |   0.333333 |
 | Bourgoin-Jallieu           |         3 |   1        |
+| Nevers                     |         3 |   0        |
 | Provence Rugby             |         3 |   0.666667 |
 | Colomiers                  |         3 |   0.666667 |
 | Dax                        |         3 |   1        |
 | Oyonnax                    |         3 |   0        |
 | Vannes                     |         3 |   0.666667 |
-| Nevers                     |         2 |   0        |
 | Perpignan                  |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Grenoble                   |         2 |   0        |

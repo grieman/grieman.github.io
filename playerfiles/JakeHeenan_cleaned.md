@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jake Heenan  
-date: 2023-03-17 17:28:09.347941  
+date: 2023-03-21 18:48:40.363726  
 categories: player  
 ---
 # Jake Heenan
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 97.0
 
-## Current Percentile: 59.0
+## Current Percentile: 46.0
 
 # Elo History
 

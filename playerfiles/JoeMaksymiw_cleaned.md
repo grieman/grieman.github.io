@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joe Maksymiw  
-date: 2023-03-17 17:42:15.496082  
+date: 2023-03-21 18:12:27.946578  
 categories: player  
 ---
 # Joe Maksymiw
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 62.0

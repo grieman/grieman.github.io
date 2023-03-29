@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ben Healy  
-date: 2023-02-02 19:13:11.580499  
+date: 2023-03-21 18:20:53.066743  
 categories: player  
 ---
 # Ben Healy
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 101.0
+## Current elo: 85.0
 
-## Current Percentile: 44.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,26 +23,26 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Munster |            45 |   0.644444 |
+| Munster |            42 |   0.619048 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Ulster            |         5 |   0.6      |
 | Connacht          |         5 |   0.6      |
-| Benetton Treviso  |         4 |   1        |
 | Leinster          |         4 |   0        |
 | Edinburgh         |         4 |   0.75     |
-| Cardiff Blues     |         3 |   0.666667 |
+| Ulster            |         4 |   0.5      |
 | Ospreys           |         3 |   0.666667 |
-| Scarlets          |         2 |   1        |
-| Lions             |         2 |   0.5      |
-| Glasgow Warriors  |         2 |   0.5      |
+| Benetton Treviso  |         3 |   1        |
+| Cardiff Blues     |         3 |   0.666667 |
 | Dragons           |         2 |   0.5      |
+| Glasgow Warriors  |         2 |   0.5      |
+| Scarlets          |         2 |   1        |
 | Zebre             |         2 |   1        |
+| Exeter Chiefs     |         1 |   0        |
 | Bulls             |         1 |   0        |
+| Lions             |         1 |   0        |
+| Castres Olympique |         1 |   1        |
 | Sharks            |         1 |   1        |
 | Southern Kings    |         1 |   1        |
-| Stade Toulousain  |         1 |   0        |
 | Stormers          |         1 |   1        |
-| Castres Olympique |         1 |   1        |
 | Wasps             |         1 |   1        |

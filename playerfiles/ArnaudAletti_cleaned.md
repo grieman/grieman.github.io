@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Arnaud Aletti  
-date: 2023-03-17 17:13:29.397089  
+date: 2023-03-20 15:46:21.011324  
 categories: player  
 ---
 # Arnaud Aletti
 
+
+Last updated: 2023-03-20
 ## Positions: FL
 
 ## Current elo: 99.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 

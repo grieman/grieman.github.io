@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Nemani Nadolo  
-date: 2023-03-17 17:36:09.247015  
+date: 2023-03-21 18:14:44.163285  
 categories: player  
 ---
 # Nemani Nadolo
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Fiji
 
 ## Current elo: 124.0
 
-## Current Percentile: 95.0
+## Current Percentile: 93.0
 
 # Elo History
 

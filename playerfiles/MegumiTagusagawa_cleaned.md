@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Megumi Tagusagawa  
-date: 2023-02-02 19:12:03.550814  
+date: 2023-03-21 18:20:04.202144  
 categories: player  
 ---
 # Megumi Tagusagawa
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 97.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
@@ -17,8 +19,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             1 |          1 |
+| Kurita Water Gush |             5 |        0.4 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka |         1 |          1 |
+| NTT Docomo Red Hurricanes Osaka |         2 |        0.5 |
+| Chugoku Red Regulions           |         1 |        1   |
+| Kyuden Voltex                   |         1 |        0   |
+| Skyactivs Hiroshima             |         1 |        0   |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: John Henry Fincham  
-date: 2023-03-17 17:43:38.884704  
+date: 2023-03-21 18:37:06.368695  
 categories: player  
 ---
 # John Henry Fincham
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 101.0

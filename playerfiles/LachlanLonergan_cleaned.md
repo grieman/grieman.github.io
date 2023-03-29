@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lachlan Lonergan  
-date: 2023-03-17 17:36:27.257023  
+date: 2023-03-21 18:19:37.813820  
 categories: player  
 ---
 # Lachlan Lonergan
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Australia
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            29 |   0.655172 |
+| Brumbies         |            30 |   0.666667 |
 | Australia        |             9 |   0.555556 |
 | Canberra Vikings |             7 |   0.571429 |
 
@@ -39,11 +41,11 @@ categories: player
 | France                   |         2 |   0.5      |
 | Highlanders              |         2 |   0.5      |
 | Blues                    |         2 |   0.5      |
+| Moana Pasifika           |         2 |   0.5      |
 | Chiefs                   |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   1        |
 | Italy                    |         1 |   0        |
 | Melbourne Rising         |         1 |   1        |
-| Moana Pasifika           |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | Queensland Country       |         1 |   0        |
 | Brisbane City            |         1 |   1        |

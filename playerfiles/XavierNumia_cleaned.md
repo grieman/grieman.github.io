@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Xavier Numia  
-date: 2023-03-17 17:11:28.672477  
+date: 2023-03-21 18:48:07.674770  
 categories: player  
 ---
 # Xavier Numia
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 119.0

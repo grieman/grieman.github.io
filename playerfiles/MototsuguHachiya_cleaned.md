@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mototsugu Hachiya  
-date: 2023-03-17 17:30:57.429903  
+date: 2023-03-21 18:06:02.503672  
 categories: player  
 ---
 # Mototsugu Hachiya
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 51.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |             6 |   0.166667 |
+| Mitsubishi Dynaboars |             7 |   0.142857 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -29,5 +31,6 @@ categories: player
 | Hanazono Kintetsu Liners          |         1 |          1 |
 | Kobelco Kobe Steelers             |         1 |          0 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
+| Saitama Wild Knights              |         1 |          0 |
 | Tokyo Sungoliath                  |         1 |          0 |
 | Yokohama Canon Eagles             |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yusuke Kajimura  
-date: 2023-03-17 17:23:48.733512  
+date: 2023-03-21 18:21:15.965712  
 categories: player  
 ---
 # Yusuke Kajimura
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Japan

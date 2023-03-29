@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ben Neiceru  
-date: 2023-03-17 17:36:18.880116  
+date: 2023-03-21 18:50:29.893708  
 categories: player  
 ---
 # Ben Neiceru
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 118.0
 
-## Current Percentile: 90.0
+## Current Percentile: 88.0
 
 # Elo History
 

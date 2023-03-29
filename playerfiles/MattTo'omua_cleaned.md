@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matt To'omua  
-date: 2023-03-17 17:24:13.143190  
+date: 2023-03-21 18:18:48.893088  
 categories: player  
 ---
 # Matt To'omua
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: Australia

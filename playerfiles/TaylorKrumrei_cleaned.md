@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Taylor Krumrei  
-date: 2023-03-17 17:18:44.695047  
+date: 2023-03-21 18:12:10.569531  
 categories: player  
 ---
 # Taylor Krumrei
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 84.0

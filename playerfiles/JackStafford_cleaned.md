@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Stafford  
-date: 2023-02-02 18:57:38.018304  
+date: 2023-03-21 18:51:23.094703  
 categories: player  
 ---
 # Jack Stafford
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

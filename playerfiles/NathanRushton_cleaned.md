@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nathan Rushton  
-date: 2023-02-02 18:53:04.857761  
+date: 2023-03-21 18:51:31.268693  
 categories: player  
 ---
 # Nathan Rushton
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 102.0
+## Current elo: 94.0
 
-## Current Percentile: 67.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |            13 |   0.461538 |
+| Caldy  |            15 |        0.4 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ampthill            |         2 |        0   |
 | Bedford             |         2 |        0.5 |
+| Coventry            |         2 |        0   |
 | Richmond            |         2 |        1   |
-| Ampthill            |         1 |        0   |
 | Cornish Pirates     |         1 |        1   |
-| Coventry            |         1 |        0   |
 | Doncaster           |         1 |        0   |
 | Ealing Trailfinders |         1 |        1   |
 | Hartpury College    |         1 |        0   |

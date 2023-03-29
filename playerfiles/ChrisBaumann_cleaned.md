@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Chris Baumann  
-date: 2023-03-17 17:34:56.321307  
+date: 2023-03-21 18:52:11.013139  
 categories: player  
 ---
 # Chris Baumann
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: United States of America

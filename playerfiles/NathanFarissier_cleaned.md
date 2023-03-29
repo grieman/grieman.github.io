@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nathan Farissier  
-date: 2023-03-17 17:18:26.390067  
+date: 2023-03-21 18:47:09.207849  
 categories: player  
 ---
 # Nathan Farissier
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 76.0

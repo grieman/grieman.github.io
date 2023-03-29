@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Theo Idjellidaine  
-date: 2023-03-17 17:13:57.526266  
+date: 2023-03-21 18:14:14.011641  
 categories: player  
 ---
 # Theo Idjellidaine
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 86.0
 
-## Current Percentile: 35.0
+## Current Percentile: 36.0
 
 # Elo History
 

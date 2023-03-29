@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Juan Zuccarino  
-date: 2023-03-17 17:42:01.075888  
+date: 2023-03-21 18:22:51.663584  
 categories: player  
 ---
 # Juan Zuccarino
 
-## Positions: FH, FB
+
+Last updated: 2023-03-21
+## Positions: C, FH
 
 ## Country: Uruguay
 
-## Current elo: 111.0
+## Current elo: 112.0
 
-## Current Percentile: 85.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Selknam       |             9 |   0.888889 |
-| Penarol Rugby |             3 |   1        |
+| Penarol Rugby |             4 |   1        |
 | Uruguay       |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
@@ -37,3 +39,4 @@ categories: player
 | Dogos XV         |         1 |        1   |
 | Olimpia Lions    |         1 |        1   |
 | Tonga            |         1 |        0   |
+| Yacare XV        |         1 |        1   |

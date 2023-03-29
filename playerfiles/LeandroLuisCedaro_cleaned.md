@@ -1,29 +1,27 @@
 ---  
 layout: page  
 title: Leandro Luis Cedaro  
-date: 2023-03-04 11:34:53.965616  
+date: 2023-03-21 17:57:18.966020  
 categories: player  
 ---
 # Leandro Luis Cedaro
 
-## Positions: L
 
-## Current elo: 100.0
+Last updated: 2023-03-21
+## Positions: 
 
-## Current Percentile: 58.0
+## Current elo: 94.0
 
-# Elo History
+## Current Percentile: None
 
-
-![elo history](history_LeandroLuisCedaro.png)
 # Match History
 
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |             2 |          1 |
+| Mont-de-Marsan |             2 |        0.5 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Beziers    |         1 |          1 |
-| Grenoble   |         1 |          1 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Beziers     |         1 |          1 |
+| Carcassonne |         1 |          0 |

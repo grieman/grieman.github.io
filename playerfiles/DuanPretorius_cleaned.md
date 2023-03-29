@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Duan Pretorius  
-date: 2023-03-17 17:07:05.936386  
+date: 2023-03-21 18:43:44.205202  
 categories: player  
 ---
 # Duan Pretorius
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
-## Current elo: 121.0
+## Current elo: 116.0
 
-## Current Percentile: 97.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Griffons |            42 |    0.72619 |
+| Griffons |            43 |   0.709302 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -34,6 +36,7 @@ categories: player
 | Jaguares XV            |         2 |      0     |
 | Namibia Welwitchias    |         2 |      1     |
 | Black Lion             |         1 |      1     |
+| Free State Cheetahs    |         1 |      0     |
 | Griquas                |         1 |      0     |
 | Natal Sharks           |         1 |      0     |
 | Tusker Simba           |         1 |      1     |

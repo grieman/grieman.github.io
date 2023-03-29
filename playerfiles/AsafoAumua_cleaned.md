@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Asafo Aumua  
-date: 2023-03-16 21:08:34.957485  
+date: 2023-03-21 18:54:14.147133  
 categories: player  
 ---
 # Asafo Aumua
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: New Zealand
@@ -24,7 +26,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Wellington  |            53 |   0.698113 |
-| Hurricanes  |            51 |   0.656863 |
+| Hurricanes  |            52 |   0.663462 |
 | New Zealand |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -32,25 +34,25 @@ categories: player
 | Crusaders                |         8 |   0.25     |
 | Blues                    |         8 |   0.5      |
 | Highlanders              |         7 |   1        |
-| Chiefs                   |         6 |   0.583333 |
-| Northland                |         6 |   0.833333 |
 | Waikato                  |         6 |   0.5      |
-| Canterbury               |         5 |   0.6      |
+| Northland                |         6 |   0.833333 |
+| Chiefs                   |         6 |   0.583333 |
 | Otago                    |         5 |   0.8      |
-| Taranaki                 |         4 |   0.75     |
-| Tasman                   |         4 |   0.25     |
-| North Harbour            |         4 |   0.5      |
+| Canterbury               |         5 |   0.6      |
 | Southland                |         4 |   1        |
 | Auckland                 |         4 |   0.5      |
 | Melbourne Rebels         |         4 |   1        |
-| Counties Manukau         |         3 |   1        |
+| North Harbour            |         4 |   0.5      |
+| Taranaki                 |         4 |   0.75     |
+| Tasman                   |         4 |   0.25     |
 | Sharks                   |         3 |   1        |
 | Hawke's Bay              |         3 |   1        |
+| Counties Manukau         |         3 |   1        |
 | Manawatu                 |         3 |   0.666667 |
-| Sunwolves                |         2 |   1        |
+| New South Wales Waratahs |         3 |   1        |
 | Queensland Reds          |         2 |   1        |
+| Sunwolves                |         2 |   1        |
 | Western Force            |         2 |   0.5      |
-| New South Wales Waratahs |         2 |   1        |
 | Jaguares                 |         2 |   0.5      |
 | Bay of Plenty            |         2 |   1        |
 | Moana Pasifika           |         1 |   0        |

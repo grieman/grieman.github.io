@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Douglas Rauth  
-date: 2023-03-17 17:40:08.616083  
+date: 2023-03-21 18:38:20.440595  
 categories: player  
 ---
 # Douglas Rauth
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Brazil
 
 ## Current elo: 85.0
 
-## Current Percentile: 23.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            17 |  0.0588235 |
-| Brazil |             7 |  0         |
+| Cobras |            18 |   0.111111 |
+| Brazil |             7 |   0        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Penarol Rugby     |         4 |   0        |
+| Selknam           |         4 |   0.25     |
 | Jaguares XV       |         3 |   0        |
 | Olimpia Lions     |         3 |   0.333333 |
-| Selknam           |         3 |   0        |
 | Cafeteros Pro     |         2 |   0        |
 | Chile             |         1 |   0        |
 | Dogos XV          |         1 |   0        |

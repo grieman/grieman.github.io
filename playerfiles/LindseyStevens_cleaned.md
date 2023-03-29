@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lindsey Stevens  
-date: 2023-03-17 17:14:17.690752  
+date: 2023-03-21 18:45:56.056121  
 categories: player  
 ---
 # Lindsey Stevens
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 77.0
+## Current elo: 73.0
 
-## Current Percentile: 39.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Chicago Hounds |             3 |          0 |
+| Chicago Hounds |             4 |       0.25 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
+| Dallas Jackals |         1 |          1 |
 | Old Glory DC   |         1 |          0 |
 | Toronto Arrows |         1 |          0 |
 | Utah Warriors  |         1 |          0 |

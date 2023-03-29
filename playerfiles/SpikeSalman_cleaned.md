@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Spike Salman  
-date: 2023-02-05 15:11:26.510602  
+date: 2023-03-21 18:15:01.705242  
 categories: player  
 ---
 # Spike Salman
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Netherlands
 
-## Current elo: 86.0
+## Current elo: 102.0
 
-## Current Percentile: 6.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -23,12 +25,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Netherlands |             7 |          0 |
+| Netherlands |            12 |   0.333333 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Belgium    |         2 |          1 |
+| Georgia    |         2 |          0 |
+| Germany    |         2 |          1 |
 | Canada     |         1 |          0 |
-| Georgia    |         1 |          0 |
 | Italy      |         1 |          0 |
 | Portugal   |         1 |          0 |
 | Romania    |         1 |          0 |

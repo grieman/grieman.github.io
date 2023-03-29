@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Hooley  
-date: 2023-03-17 17:25:11.020022  
+date: 2023-03-21 18:55:19.244299  
 categories: player  
 ---
 # Will Hooley
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: United States of America

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Will DAVIS  
-date: 2023-01-17 11:42:57.648915  
+date: 2023-03-29 11:28:34.477262  
 categories: player  
 ---
 # Will DAVIS
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 111.0
+## Current elo: 120.0
 
-## Current Percentile: 83.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            67 |   0.791045 |
+| Ealing Trailfinders |            68 |   0.794118 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Jersey             |         8 |   1        |
+| Jersey             |         7 |   1        |
+| Nottingham         |         7 |   0.857143 |
+| Cornish Pirates    |         7 |   0.642857 |
 | Hartpury College   |         6 |   1        |
 | Richmond           |         6 |   1        |
-| Nottingham         |         6 |   0.833333 |
-| Cornish Pirates    |         6 |   0.583333 |
 | Doncaster          |         6 |   0.833333 |
 | Bedford            |         5 |   1        |
 | Yorkshire Carnegie |         4 |   0.5      |

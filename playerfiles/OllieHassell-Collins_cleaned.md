@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ollie Hassell-Collins  
-date: 2023-03-17 17:10:15.687434  
+date: 2023-03-21 18:36:53.798712  
 categories: player  
 ---
 # Ollie Hassell-Collins
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: England

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rhys Tait  
-date: 2023-03-04 11:38:01.624219  
+date: 2023-03-21 18:29:12.283934  
 categories: player  
 ---
 # Rhys Tait
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 88.0
 
-## Current Percentile: None
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |             1 |          0 |
+| Doncaster |             2 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Ampthill   |         1 |          0 |
 | Bedford    |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Andrew Coe  
-date: 2023-03-17 17:28:19.037909  
+date: 2023-03-21 18:37:34.098157  
 categories: player  
 ---
 # Andrew Coe
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Country: Canada

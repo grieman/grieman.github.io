@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Damon Royle  
-date: 2023-03-16 19:59:17.907507  
+date: 2023-03-21 18:11:59.111282  
 categories: player  
 ---
 # Damon Royle
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 99.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 
@@ -17,8 +19,9 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Natal Sharks |             1 |          1 |
+| Natal Sharks |             2 |        0.5 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Griffons   |         1 |          1 |
+| Griquas    |         1 |          0 |

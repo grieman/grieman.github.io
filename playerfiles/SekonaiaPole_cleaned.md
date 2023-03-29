@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sekonaia Pole  
-date: 2023-03-09 10:07:32.123936  
+date: 2023-03-21 18:52:08.133645  
 categories: player  
 ---
 # Sekonaia Pole
 
+
+Last updated: 2023-03-21
 ## Positions: H, P
 
 ## Current elo: 106.0

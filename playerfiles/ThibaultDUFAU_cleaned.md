@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thibault DUFAU  
-date: 2023-03-17 17:03:59.598720  
+date: 2023-03-29 11:30:34.687097  
 categories: player  
 ---
 # Thibault DUFAU
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 122.0
+## Current elo: 109.0
 
-## Current Percentile: 89.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -22,17 +24,17 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Dijon          |            37 |   0.324324 |
-| Chambery       |            18 |   0.555556 |
+| Chambery       |            17 |   0.588235 |
 | Provence Rugby |             7 |   0.428571 |
 | Perpignan      |             1 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Tarbes                     |         5 |   0.5      |
+| Nice                       |         5 |   0.6      |
 | Cognac Saint Jean d'Angély |         5 |   0.2      |
-| Nice                       |         4 |   0.5      |
 | Blagnac                    |         4 |   0.5      |
 | Bourgoin-Jallieu           |         4 |   0        |
+| Tarbes                     |         4 |   0.625    |
 | Suresnes                   |         4 |   0.25     |
 | Dax                        |         4 |   0        |
 | Albi                       |         3 |   0        |
@@ -45,9 +47,9 @@ categories: player
 | Massy                      |         2 |   0.5      |
 | Nevers                     |         2 |   0.5      |
 | Aubenas                    |         2 |   0.75     |
-| Carqueiranne-Hyères        |         2 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Colomiers                  |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Carcassonne                |         1 |   0        |
 | Beziers                    |         1 |   0        |
 | Aurillac                   |         1 |   0        |

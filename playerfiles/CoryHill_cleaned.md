@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Cory Hill  
-date: 2023-03-17 17:31:20.217882  
+date: 2023-03-21 18:21:53.503128  
 categories: player  
 ---
 # Cory Hill
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Wales

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ren Hagiwara  
-date: 2023-01-13 11:28:40.942917  
+date: 2023-03-21 18:06:10.382271  
 categories: player  
 ---
 # Ren Hagiwara
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 78.0
+## Current elo: 74.0
 
-## Current Percentile: 9.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |             8 |      0.375 |
+| Kyuden Voltex |            11 |   0.545455 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         2 |          1 |
+| Chugoku Red Regulions            |         3 |          1 |
+| Kurita Water Gush                |         3 |          1 |
 | Munakata Sanix Blues             |         2 |          0 |
 | Toyota Industries Shuttles Aichi |         2 |          0 |
-| Kurita Water Gush                |         1 |          1 |
 | NTT Docomo Red Hurricanes Osaka  |         1 |          0 |

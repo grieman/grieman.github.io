@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Tom Pearson  
-date: 2023-03-17 17:41:38.309479  
+date: 2023-03-21 18:23:27.218344  
 categories: player  
 ---
 # Tom Pearson
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 140.0
+## Current elo: 143.0
 
 ## Current Percentile: 98.0
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Louis Grimoldby  
-date: 2023-03-16 19:48:10.394580  
+date: 2023-03-21 18:10:12.759479  
 categories: player  
 ---
 # Louis Grimoldby
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 99.0

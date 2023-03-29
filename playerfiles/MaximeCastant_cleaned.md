@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Maxime Castant  
-date: 2023-03-17 17:37:26.746235  
+date: 2023-03-20 15:45:22.680197  
 categories: player  
 ---
 # Maxime Castant
 
+
+Last updated: 2023-03-20
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 31.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Carcassonne      |            83 |   0.451807 |
-| Bourgoin-Jallieu |            16 |   0.71875  |
+| Bourgoin-Jallieu |            15 |   0.7      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -40,10 +42,9 @@ categories: player
 | Narbonne                   |         4 |   0.75     |
 | Nevers                     |         4 |   0.25     |
 | US Bressane                |         4 |   1        |
-| Biarritz Olympique         |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.166667 |
+| Biarritz Olympique         |         3 |   0.333333 |
 | Perpignan                  |         3 |   0        |
-| Carqueiranne-Hyères        |         2 |   1        |
 | Dax                        |         2 |   0.5      |
 | Brive                      |         2 |   0.5      |
 | Massy                      |         2 |   0.5      |
@@ -55,4 +56,5 @@ categories: player
 | Rennes                     |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Nice                       |         1 |   1        |
+| Carqueiranne-Hyères        |         1 |   1        |
 | Agen                       |         1 |   1        |

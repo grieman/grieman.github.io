@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam James  
-date: 2023-03-17 17:20:53.273705  
+date: 2023-03-21 18:09:52.394103  
 categories: player  
 ---
 # Sam James
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
-## Current elo: 123.0
+## Current elo: 124.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 

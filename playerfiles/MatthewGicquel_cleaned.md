@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matthew Gicquel  
-date: 2023-03-17 17:17:46.407927  
+date: 2023-03-21 18:07:19.143250  
 categories: player  
 ---
 # Matthew Gicquel
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 91.0

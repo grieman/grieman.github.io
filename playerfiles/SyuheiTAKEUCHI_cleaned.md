@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-03-12 11:33:54.762219  
+date: 2023-03-29 11:29:35.413035  
 categories: player  
 ---
 # Syuhei TAKEUCHI
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Country: Japan
 
-## Current elo: 89.0
+## Current elo: 88.0
 
-## Current Percentile: 25.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -23,25 +25,26 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Urayasu D-Rocks |            19 |   0.473684 |
+| Urayasu D-Rocks |            20 |   0.5      |
 | Japan           |             3 |   0.333333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Saitama Wild Knights              |         2 |        0   |
+| Kamaishi Seawaves                 |         2 |        1   |
 | Kobelco Kobe Steelers             |         2 |        0.5 |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |        0   |
 | Toyota Industries Shuttles Aichi  |         2 |        1   |
-| Shimizu Blue Sharks               |         2 |        1   |
 | Shizuoka Blue Revs                |         1 |        0   |
 | Uruguay                           |         1 |        1   |
 | Toyota Verblitz                   |         1 |        0   |
 | Toshiba Brave Lupus Tokyo         |         1 |        1   |
 | Tokyo Sungoliath                  |         1 |        0   |
 | Black Rams Tokyo                  |         1 |        1   |
+| Shimizu Blue Sharks               |         1 |        1   |
 | France                            |         1 |        0   |
 | New Zealand                       |         1 |        0   |
 | Mitsubishi Dynaboars              |         1 |        0   |
-| Kamaishi Seawaves                 |         1 |        1   |
+| Mie Honda Heat                    |         1 |        1   |
 | Green Rockets Tokatsu             |         1 |        1   |
 | Yokohama Canon Eagles             |         1 |        0   |

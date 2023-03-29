@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Chris Smith  
-date: 2023-02-02 18:53:31.765596  
+date: 2023-03-21 18:39:28.978503  
 categories: player  
 ---
 # Chris Smith
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 112.0
+## Current elo: 110.0
 
-## Current Percentile: 91.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| North Harbour |            21 |   0.166667 |
+| North Harbour |            23 |   0.152174 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,6 +35,7 @@ categories: player
 | Northland        |         2 |       0.25 |
 | Otago            |         2 |       0    |
 | Southland        |         2 |       0    |
+| Wellington       |         2 |       0    |
 | Bay of Plenty    |         1 |       0    |
+| Canterbury       |         1 |       0    |
 | Waikato          |         1 |       0    |
-| Wellington       |         1 |       0    |

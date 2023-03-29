@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tom Christie  
-date: 2023-03-16 19:54:19.329529  
+date: 2023-03-21 18:05:03.847439  
 categories: player  
 ---
 # Tom Christie
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 102.0
+## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Crusaders  |            33 |   0.787879 |
+| Crusaders  |            34 |   0.794118 |
 | Canterbury |            29 |   0.758621 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |         7 |   1        |
 | Chiefs                   |         7 |   0.571429 |
-| Blues                    |         4 |   0.75     |
+| Blues                    |         5 |   0.8      |
 | Wellington               |         4 |   0.5      |
 | Hurricanes               |         4 |   0.75     |
 | Manawatu                 |         3 |   0.666667 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mathias Franco  
-date: 2023-03-17 17:02:36.933915  
+date: 2023-03-21 18:21:48.933002  
 categories: player  
 ---
 # Mathias Franco
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Uruguay

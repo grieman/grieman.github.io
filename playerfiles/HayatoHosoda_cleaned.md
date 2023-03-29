@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hayato Hosoda  
-date: 2023-03-17 17:36:36.805162  
+date: 2023-03-21 18:25:56.034996  
 categories: player  
 ---
 # Hayato Hosoda
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 76.0
+## Current elo: 75.0
 
-## Current Percentile: 10.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            26 |   0.480769 |
+| Mitsubishi Dynaboars |            27 |   0.462963 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -31,6 +33,7 @@ categories: player
 | Hino Red Dolphins                 |         2 |   1        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |
 | Mie Honda Heat                    |         2 |   0.5      |
+| Saitama Wild Knights              |         2 |   0        |
 | Skyactivs Hiroshima               |         2 |   1        |
 | Tokyo Sungoliath                  |         2 |   0        |
 | Urayasu D-Rocks                   |         2 |   0.75     |
@@ -38,5 +41,4 @@ categories: player
 | Kamaishi Seawaves                 |         1 |   1        |
 | Kobelco Kobe Steelers             |         1 |   0        |
 | Munakata Sanix Blues              |         1 |   1        |
-| Saitama Wild Knights              |         1 |   0        |
 | Shizuoka Blue Revs                |         1 |   0        |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jermaine Ainsley  
-date: 2023-03-17 17:18:50.123121  
+date: 2023-03-21 18:09:01.409274  
 categories: player  
 ---
 # Jermaine Ainsley
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand Maori
 
-## Current elo: 107.0
+## Current elo: 106.0
 
-## Current Percentile: 84.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -24,8 +26,8 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Melbourne Rebels  |            43 |   0.453488 |
+| Highlanders       |            18 |   0.277778 |
 | Western Force     |            18 |   0.222222 |
-| Highlanders       |            17 |   0.235294 |
 | Otago             |            16 |   0.4375   |
 | Perth Spirit      |            16 |   0.625    |
 | Melbourne Rising  |            10 |   0.3      |
@@ -43,14 +45,14 @@ categories: player
 | Blues                    |         5 |   0.2      |
 | Brisbane City            |         5 |   0.4      |
 | Highlanders              |         5 |   0.4      |
+| Western Force            |         4 |   1        |
 | Sunwolves                |         4 |   0.75     |
 | Chiefs                   |         4 |   0        |
-| Manawatu                 |         3 |   0.666667 |
 | Melbourne Rebels         |         3 |   0.333333 |
 | Taranaki                 |         3 |   0        |
 | Stormers                 |         3 |   0        |
 | Queensland Country       |         3 |   0.666667 |
-| Western Force            |         3 |   1        |
+| Manawatu                 |         3 |   0.666667 |
 | Fijian Drua              |         3 |   0.333333 |
 | Sharks                   |         2 |   0.5      |
 | Lions                    |         2 |   0.5      |

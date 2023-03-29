@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ere Enari  
-date: 2023-03-17 17:37:11.880547  
+date: 2023-03-21 18:57:09.995514  
 categories: player  
 ---
 # Ere Enari
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Samoa
 
 ## Current elo: 103.0
 
-## Current Percentile: 72.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Canterbury     |            24 |   0.75     |
 | Hawke's Bay    |            18 |   0.583333 |
-| Moana Pasifika |            16 |   0        |
+| Moana Pasifika |            17 |   0        |
 | Crusaders      |             9 |   0.888889 |
 | Samoa          |             3 |   0.666667 |
 
@@ -38,6 +40,7 @@ categories: player
 | Tasman                   |         4 |   0.75     |
 | North Harbour            |         4 |   1        |
 | Manawatu                 |         3 |   0.333333 |
+| Brumbies                 |         3 |   0.666667 |
 | Waikato                  |         3 |   0.833333 |
 | Auckland                 |         2 |   0.5      |
 | Southland                |         2 |   1        |
@@ -51,12 +54,11 @@ categories: player
 | Hawke's Bay              |         2 |   1        |
 | Fijian Drua              |         2 |   0        |
 | Canterbury               |         2 |   0.5      |
-| Brumbies                 |         2 |   1        |
 | Blues                    |         2 |   0        |
 | Italy                    |         1 |   0        |
 | Georgia                  |         1 |   1        |
 | Fiji                     |         1 |   1        |
-| Crusaders                |         1 |   0        |
 | Sunwolves                |         1 |   1        |
 | Taranaki                 |         1 |   0        |
+| Crusaders                |         1 |   0        |
 | Lions                    |         1 |   1        |

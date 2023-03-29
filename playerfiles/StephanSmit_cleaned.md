@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Stephan Smit  
-date: 2023-03-17 17:03:58.056992  
+date: 2023-03-21 18:31:21.457760  
 categories: player  
 ---
 # Stephan Smit
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 88.0
 
-## Current Percentile: None
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Blue Bulls |             1 |          0 |
-| Griquas    |             1 |          0 |
+| Griquas    |             2 |        0.5 |
+| Blue Bulls |             1 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Free State Cheetahs |         1 |          0 |
 | Griquas             |         1 |          0 |
+| Natal Sharks        |         1 |          1 |

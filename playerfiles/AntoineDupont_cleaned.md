@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Antoine Dupont  
-date: 2023-03-16 20:05:28.919598  
+date: 2023-03-21 18:18:41.019887  
 categories: player  
 ---
 # Antoine Dupont
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: France
 
-## Current elo: 136.0
+## Current elo: 128.0
 
-## Current Percentile: 98.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:------------------|--------------:|-----------:|
 | Stade Toulousain  |            96 |   0.776042 |
 | Castres Olympique |            62 |   0.467742 |
-| France            |            45 |   0.677778 |
+| France            |            46 |   0.684783 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,9 +43,9 @@ categories: player
 | Montpellier Herault  |         7 |   0.714286 |
 | Italy                |         7 |   1        |
 | Brive                |         7 |   0.714286 |
+| Wales                |         7 |   0.857143 |
 | Castres Olympique    |         6 |   0.5      |
 | Ireland              |         6 |   0.5      |
-| Wales                |         6 |   0.833333 |
 | Grenoble             |         5 |   0.6      |
 | England              |         5 |   0.6      |
 | Lyon                 |         5 |   0.6      |

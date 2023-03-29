@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sibongile Vukile Novuka  
-date: 2023-03-17 17:32:45.101159  
+date: 2023-03-21 18:24:44.853979  
 categories: player  
 ---
 # Sibongile Vukile Novuka
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 87.0

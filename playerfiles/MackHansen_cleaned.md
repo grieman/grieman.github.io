@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Mack Hansen  
-date: 2023-03-16 21:12:24.807877  
+date: 2023-03-21 18:49:00.662698  
 categories: player  
 ---
 # Mack Hansen
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Country: Ireland
 
-## Current elo: 95.0
+## Current elo: 85.0
 
-## Current Percentile: 33.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -26,7 +28,7 @@ categories: player
 | Connacht         |            24 |   0.458333 |
 | Brumbies         |            21 |   0.619048 |
 | Canberra Vikings |            16 |   0.75     |
-| Ireland          |            13 |   0.923077 |
+| Ireland          |            14 |   0.928571 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -39,21 +41,21 @@ categories: player
 | Munster                  |         3 |   0.666667 |
 | Sydney Rays              |         3 |   1        |
 | NSW Country Eagles       |         2 |   1        |
-| Sharks                   |         2 |   0.5      |
-| New Zealand              |         2 |   1        |
+| Italy                    |         2 |   1        |
 | Melbourne Rising         |         2 |   1        |
 | Benetton Treviso         |         2 |   1        |
 | Scotland                 |         2 |   1        |
-| Italy                    |         2 |   1        |
+| Sharks                   |         2 |   0.5      |
 | France                   |         2 |   0.5      |
 | Bulls                    |         2 |   0.5      |
 | Ulster                   |         2 |   0.5      |
 | Wales                    |         2 |   1        |
+| New Zealand              |         2 |   1        |
+| Stade Francais Paris     |         1 |   0        |
 | South Africa             |         1 |   1        |
 | Ospreys                  |         1 |   1        |
-| Stade Francais Paris     |         1 |   0        |
-| Stormers                 |         1 |   0        |
 | Scarlets                 |         1 |   1        |
+| Stormers                 |         1 |   0        |
 | Blues                    |         1 |   0        |
 | Queensland Country       |         1 |   0        |
 | Cardiff Blues            |         1 |   0        |
@@ -66,6 +68,7 @@ categories: player
 | Highlanders              |         1 |   0        |
 | Greater Sydney Rams      |         1 |   1        |
 | Fiji                     |         1 |   1        |
+| England                  |         1 |   1        |
 | Dragons                  |         1 |   0        |
 | Crusaders                |         1 |   0        |
 | Australia                |         1 |   1        |

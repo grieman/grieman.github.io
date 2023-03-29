@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ethan de Groot  
-date: 2023-03-16 21:09:17.930874  
+date: 2023-03-21 18:29:43.843392  
 categories: player  
 ---
 # Ethan de Groot
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand
 
 ## Current elo: 111.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            29 |   0.413793 |
+| Highlanders |            30 |   0.433333 |
 | New Zealand |            13 |   0.807692 |
 | Southland   |             6 |   0        |
 
@@ -32,13 +34,13 @@ categories: player
 | Blues                    |         7 |   0.142857 |
 | Hurricanes               |         4 |   0        |
 | Chiefs                   |         4 |   0.25     |
+| Western Force            |         3 |   1        |
 | Crusaders                |         3 |   0.333333 |
-| Argentina                |         2 |   0.5      |
 | South Africa             |         2 |   0.5      |
 | Queensland Reds          |         2 |   1        |
 | Melbourne Rebels         |         2 |   0.5      |
 | Australia                |         2 |   1        |
-| Western Force            |         2 |   1        |
+| Argentina                |         2 |   0.5      |
 | Fiji                     |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
 | Fijian Drua              |         1 |   1        |

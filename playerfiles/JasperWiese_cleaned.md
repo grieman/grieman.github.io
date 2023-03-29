@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jasper Wiese  
-date: 2023-03-17 17:24:51.802128  
+date: 2023-03-21 18:14:31.477118  
 categories: player  
 ---
 # Jasper Wiese
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: South Africa
 
 ## Current elo: 95.0
 
-## Current Percentile: 22.0
+## Current Percentile: 21.0
 
 # Elo History
 

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ben Donaldson  
-date: 2023-03-17 17:39:07.607074  
+date: 2023-03-21 18:11:28.650047  
 categories: player  
 ---
 # Ben Donaldson
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: Australia
 
 ## Current elo: 108.0
 
-## Current Percentile: 80.0
+## Current Percentile: 76.0
 
 # Elo History
 

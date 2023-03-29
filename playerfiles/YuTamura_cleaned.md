@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yu Tamura  
-date: 2023-03-17 17:05:51.482047  
+date: 2023-03-21 17:59:16.069224  
 categories: player  
 ---
 # Yu Tamura
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: Japan

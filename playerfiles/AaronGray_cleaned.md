@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Aaron Gray  
-date: 2023-03-17 17:39:42.766991  
+date: 2023-03-21 18:09:49.387176  
 categories: player  
 ---
 # Aaron Gray
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 43.0
+## Current elo: 46.0
 
 ## Current Percentile: 0.0
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |            10 |          0 |
+| Dallas Jackals |            11 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Houston SaberCats |         2 |          0 |
 | San Diego Legion  |         2 |          0 |
 | Austin Gilgronis  |         1 |          0 |
+| Chicago Hounds    |         1 |          0 |
 | Old Glory DC      |         1 |          0 |
 | R.U. New York     |         1 |          0 |
 | Rugby New York    |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Christian Lio-Willie  
-date: 2023-03-17 17:31:13.501441  
+date: 2023-03-21 18:26:03.589485  
 categories: player  
 ---
 # Christian Lio-Willie
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Current elo: 83.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Otago       |            15 |   0.466667 |
-| Crusaders   |             3 |   0.333333 |
+| Crusaders   |             4 |   0.5      |
 | Highlanders |             2 |   0.5      |
 
 | Opponent      |   Matches |   Win Rate |
@@ -35,6 +37,7 @@ categories: player
 | Waikato       |         2 |        0.5 |
 | Auckland      |         1 |        0   |
 | Bay of Plenty |         1 |        0   |
+| Blues         |         1 |        1   |
 | Brumbies      |         1 |        0   |
 | Chiefs        |         1 |        0   |
 | Hawke's Bay   |         1 |        0   |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shun Terawaki  
-date: 2023-02-02 19:00:49.577865  
+date: 2023-03-21 18:39:51.480972  
 categories: player  
 ---
 # Shun Terawaki
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 81.0
 
-## Current Percentile: None
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             2 |          0 |
+| Kamaishi Seawaves |             6 |          0 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Mie Honda Heat                   |         1 |          0 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
+| Mie Honda Heat                   |         2 |          0 |
+| Toyota Industries Shuttles Aichi |         2 |          0 |
+| Urayasu D-Rocks                  |         2 |          0 |

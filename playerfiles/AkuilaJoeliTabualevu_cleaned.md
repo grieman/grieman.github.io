@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Akuila Joeli Tabualevu  
-date: 2023-03-17 17:10:07.503718  
+date: 2023-03-21 18:27:29.104574  
 categories: player  
 ---
 # Akuila Joeli Tabualevu
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 100.0

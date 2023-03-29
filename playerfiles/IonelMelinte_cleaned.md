@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ionel Melinte  
-date: 2023-03-17 17:25:03.516780  
+date: 2023-03-21 18:53:16.951211  
 categories: player  
 ---
 # Ionel Melinte
 
+
+Last updated: 2023-03-21
 ## Positions: FB, FH
 
 ## Country: Romania

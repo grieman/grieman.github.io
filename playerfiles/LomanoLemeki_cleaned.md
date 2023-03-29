@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lomano Lemeki  
-date: 2023-03-17 17:21:48.335622  
+date: 2023-03-21 18:51:28.265198  
 categories: player  
 ---
 # Lomano Lemeki
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Japan

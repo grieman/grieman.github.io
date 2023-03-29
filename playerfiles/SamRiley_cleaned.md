@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sam Riley  
-date: 2023-03-17 17:35:08.583511  
+date: 2023-03-21 17:56:35.659283  
 categories: player  
 ---
 # Sam Riley
 
+
+Last updated: 2023-03-21
 ## Positions: H, N8
 
 ## Current elo: 95.0

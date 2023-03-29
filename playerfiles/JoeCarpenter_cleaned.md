@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Joe Carpenter  
-date: 2023-03-16 19:58:27.255776  
+date: 2023-03-21 18:20:48.949748  
 categories: player  
 ---
 # Joe Carpenter
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 68.0
+## Current elo: 67.0
 
 ## Current Percentile: 8.0
 

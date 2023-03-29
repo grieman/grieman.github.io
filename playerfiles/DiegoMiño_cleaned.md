@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Diego Miño  
-date: 2023-03-17 17:18:15.516194  
+date: 2023-03-21 18:41:42.902106  
 categories: player  
 ---
 # Diego Miño
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

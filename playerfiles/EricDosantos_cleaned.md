@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Eric Dosantos  
-date: 2023-03-17 17:26:10.430041  
+date: 2023-03-21 18:52:38.323107  
 categories: player  
 ---
 # Eric Dosantos
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Uruguay
 
 ## Current elo: 91.0
 
-## Current Percentile: 48.0
+## Current Percentile: 49.0
 
 # Elo History
 

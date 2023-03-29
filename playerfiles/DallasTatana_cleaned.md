@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dallas Tatana  
-date: 2023-02-02 18:48:49.013542  
+date: 2023-03-21 18:05:43.889662  
 categories: player  
 ---
 # Dallas Tatana
 
-## Positions: L, N8
 
-## Current elo: 96.0
+Last updated: 2023-03-21
+## Positions: L
 
-## Current Percentile: 51.0
+## Current elo: 79.0
+
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -21,20 +23,20 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Kamaishi Seawaves    |             8 |   0.25     |
+| Kamaishi Seawaves    |            12 |   0.166667 |
 | Munakata Sanix Blues |             7 |   0.571429 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Chugoku Red Regulions             |         2 |        1   |
 | Kyuden Voltex                     |         2 |        1   |
+| Mie Honda Heat                    |         2 |        0   |
 | NTT Docomo Red Hurricanes Osaka   |         2 |        0.5 |
+| Shimizu Blue Sharks               |         2 |        0.5 |
+| Toyota Industries Shuttles Aichi  |         2 |        0   |
+| Urayasu D-Rocks                   |         2 |        0   |
 | Hanazono Kintetsu Liners          |         1 |        0   |
 | Hino Red Dolphins                 |         1 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
 | Kurita Water Gush                 |         1 |        0   |
-| Mie Honda Heat                    |         1 |        0   |
-| Shimizu Blue Sharks               |         1 |        1   |
-| Toyota Industries Shuttles Aichi  |         1 |        0   |
-| Urayasu D-Rocks                   |         1 |        0   |
 | Yokohama Canon Eagles             |         1 |        0   |

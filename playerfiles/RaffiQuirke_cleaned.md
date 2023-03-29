@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Raffi Quirke  
-date: 2023-03-17 17:12:26.541668  
+date: 2023-03-21 18:17:15.158329  
 categories: player  
 ---
 # Raffi Quirke
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: England
 
 ## Current elo: 103.0
 
-## Current Percentile: 78.0
+## Current Percentile: 74.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Njabula GUMEDE  
-date: 2023-03-17 17:08:52.913392  
+date: 2023-03-27 11:34:14.010937  
 categories: player  
 ---
 # Njabula GUMEDE
 
+
+Last updated: 2023-03-27
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 91.0
 
-## Current Percentile: 40.0
+## Current Percentile: 38.0
 
 # Elo History
 

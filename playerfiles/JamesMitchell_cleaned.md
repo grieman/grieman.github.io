@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: James Mitchell  
-date: 2023-02-02 19:05:04.444896  
+date: 2023-03-21 18:39:42.582985  
 categories: player  
 ---
 # James Mitchell
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 104.0
+## Current elo: 102.0
 
-## Current Percentile: 17.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -22,17 +24,14 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Sale Sharks        |            34 |   0.411765 |
-| Jersey             |            30 |   0.75     |
+| Jersey             |            26 |   0.769231 |
 | Connacht           |            20 |   0.55     |
 | Doncaster          |             8 |   0.75     |
 | Northampton Saints |             5 |   0.6      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Coventry            |         5 |   0.9      |
-| Ealing Trailfinders |         4 |   0        |
-| Bedford             |         4 |   0.75     |
-| Cornish Pirates     |         4 |   0.75     |
+| Coventry            |         4 |   1        |
 | Ampthill            |         3 |   1        |
 | Saracens            |         3 |   0        |
 | Richmond            |         3 |   1        |
@@ -41,8 +40,11 @@ categories: player
 | Bath Rugby          |         3 |   0        |
 | Hartpury College    |         3 |   1        |
 | Harlequins          |         3 |   0.333333 |
-| Leicester Tigers    |         3 |   1        |
+| Ealing Trailfinders |         3 |   0        |
 | Doncaster           |         3 |   0.333333 |
+| Leicester Tigers    |         3 |   1        |
+| Cornish Pirates     |         3 |   0.666667 |
+| Bedford             |         3 |   0.666667 |
 | Cardiff Blues       |         3 |   0.333333 |
 | Dragons             |         2 |   0.5      |
 | Worcester Warriors  |         2 |   1        |
@@ -50,22 +52,22 @@ categories: player
 | Ulster              |         2 |   1        |
 | Toulon              |         2 |   0        |
 | Scarlets            |         2 |   0.5      |
-| Benetton Treviso    |         2 |   1        |
 | Sale Sharks         |         2 |   0.5      |
-| Bristol Rugby       |         2 |   0        |
+| Benetton Treviso    |         2 |   1        |
 | Perpignan           |         2 |   1        |
 | Pau                 |         2 |   1        |
-| Brive               |         2 |   1        |
+| Bristol Rugby       |         2 |   0        |
 | Northampton Saints  |         2 |   0        |
 | Newcastle Falcons   |         2 |   0.5      |
+| Brive               |         2 |   1        |
 | Leinster            |         2 |   0        |
 | Castres Olympique   |         2 |   1        |
-| Cheetahs            |         2 |   0.5      |
 | Gloucester Rugby    |         2 |   0        |
+| Cheetahs            |         2 |   0.5      |
 | Munster             |         1 |   0        |
 | Montpellier Herault |         1 |   0        |
-| Ospreys             |         1 |   1        |
 | Lyon                |         1 |   1        |
+| Ospreys             |         1 |   1        |
 | Caldy               |         1 |   1        |
 | Jersey              |         1 |   1        |
 | Southern Kings      |         1 |   1        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shaun Stevenson  
-date: 2023-03-16 19:58:39.596697  
+date: 2023-03-21 18:22:43.950513  
 categories: player  
 ---
 # Shaun Stevenson
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: New Zealand Maori
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Chiefs            |            70 |   0.614286 |
+| Chiefs            |            71 |   0.619718 |
 | North Harbour     |            38 |   0.578947 |
 | Waikato           |            11 |   0.363636 |
 | New Zealand Maori |            10 |   0.8      |
@@ -41,10 +43,10 @@ categories: player
 | Taranaki                 |         4 |   0.75     |
 | Stormers                 |         4 |   0.75     |
 | New South Wales Waratahs |         4 |   1        |
+| Melbourne Rebels         |         4 |   1        |
 | Hawke's Bay              |         4 |   0.75     |
 | Sharks                   |         3 |   0.666667 |
 | Moana Pasifika           |         3 |   1        |
-| Melbourne Rebels         |         3 |   1        |
 | Queensland Reds          |         3 |   0.666667 |
 | Bay of Plenty            |         3 |   0.666667 |
 | Wellington               |         3 |   0.333333 |

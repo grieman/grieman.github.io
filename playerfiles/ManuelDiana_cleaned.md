@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Manuel Diana  
-date: 2023-03-17 17:07:51.963468  
+date: 2023-03-21 18:01:54.205742  
 categories: player  
 ---
 # Manuel Diana
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 95.0
+## Current elo: 104.0
 
-## Current Percentile: 40.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |             3 |          1 |
+| Penarol Rugby |             4 |          1 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
 | Cobras           |         1 |          1 |
 | Dogos XV         |         1 |          1 |
+| Yacare XV        |         1 |          1 |

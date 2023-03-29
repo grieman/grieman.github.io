@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shaun Reynolds  
-date: 2023-02-02 19:07:42.386431  
+date: 2023-03-21 18:21:04.895727  
 categories: player  
 ---
 # Shaun Reynolds
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 99.0
+## Current elo: 98.0
 
-## Current Percentile: 3.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,34 +23,34 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Nevers       |            46 |   0.51087  |
+| Nevers       |            45 |   0.522222 |
+| Golden Lions |            16 |   0.5625   |
 | Lions        |            16 |   0.4375   |
-| Golden Lions |            14 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Aurillac                 |         4 |   0.25     |
+| Carcassonne              |         4 |   0.5      |
+| Griquas                  |         4 |   1        |
 | Provence Rugby           |         4 |   0.5      |
-| Agen                     |         3 |   0.666667 |
 | Montauban                |         3 |   0.333333 |
-| Griquas                  |         3 |   1        |
-| Oyonnax                  |         3 |   0.333333 |
-| Colomiers                |         3 |   0.333333 |
-| Carcassonne              |         3 |   0.333333 |
+| Free State Cheetahs      |         3 |   0.666667 |
+| Mont-de-Marsan           |         3 |   0.333333 |
+| Agen                     |         3 |   0.666667 |
 | Blue Bulls               |         3 |   0.333333 |
 | Beziers                  |         3 |   0.666667 |
-| Vannes                   |         3 |   0.666667 |
-| Mont-de-Marsan           |         3 |   0.333333 |
+| Colomiers                |         3 |   0.333333 |
 | Rouen                    |         2 |   1        |
 | Soyaux-Angouleme         |         2 |   1        |
 | Stormers                 |         2 |   1        |
 | Pumas                    |         2 |   0.5      |
 | US Bressane              |         2 |   1        |
+| Oyonnax                  |         2 |   0.5      |
 | Natal Sharks             |         2 |   0        |
 | Narbonne                 |         2 |   1        |
+| Vannes                   |         2 |   0.5      |
 | Western Province         |         2 |   0.5      |
 | Grenoble                 |         2 |   0        |
-| Free State Cheetahs      |         2 |   1        |
 | Crusaders                |         2 |   0        |
 | Jaguares                 |         2 |   0        |
 | Massy                    |         1 |   1        |
@@ -61,7 +63,7 @@ categories: player
 | Queensland Reds          |         1 |   1        |
 | Bulls                    |         1 |   0        |
 | Perpignan                |         1 |   0        |
-| New South Wales Waratahs |         1 |   1        |
 | Highlanders              |         1 |   1        |
+| New South Wales Waratahs |         1 |   1        |
 | Hurricanes               |         1 |   0        |
 | Melbourne Rebels         |         1 |   0        |

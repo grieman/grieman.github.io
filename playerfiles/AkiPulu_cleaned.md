@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Aki Pulu  
-date: 2023-03-17 17:22:08.977458  
+date: 2023-03-21 18:52:05.329148  
 categories: player  
 ---
 # Aki Pulu
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 93.0
 
-## Current Percentile: 61.0
+## Current Percentile: 58.0
 
 # Elo History
 

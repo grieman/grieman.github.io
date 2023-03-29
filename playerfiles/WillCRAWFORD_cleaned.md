@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Will CRAWFORD  
-date: 2023-03-17 17:38:46.273109  
+date: 2023-03-29 11:31:34.844576  
 categories: player  
 ---
 # Will CRAWFORD
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 61.0
+## Current elo: 58.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Houston SaberCats |            14 |        0.5 |
-| American Raptors  |             4 |        0   |
+| American Raptors  |             5 |        0   |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -30,6 +32,7 @@ categories: player
 | Dallas Jackals    |         2 |        1   |
 | R.U. New York     |         2 |        0   |
 | San Diego Legion  |         2 |        0.5 |
+| Dogos XV          |         1 |        0   |
 | L. A. Giltinis    |         1 |        1   |
 | Pampas XV         |         1 |        0   |
 | Penarol Rugby     |         1 |        0   |

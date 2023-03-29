@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cory Daniel  
-date: 2023-03-17 17:04:29.769923  
+date: 2023-03-21 18:48:59.236202  
 categories: player  
 ---
 # Cory Daniel
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 92.0
 
-## Current Percentile: 58.0
+## Current Percentile: 56.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Cornelsen  
-date: 2023-03-17 17:10:52.404480  
+date: 2023-03-21 18:15:04.381621  
 categories: player  
 ---
 # Jack Cornelsen
 
+
+Last updated: 2023-03-21
 ## Positions: N8, L
 
 ## Country: Japan

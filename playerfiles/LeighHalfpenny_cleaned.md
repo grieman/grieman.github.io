@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Leigh Halfpenny  
-date: 2023-03-17 17:16:15.018833  
+date: 2023-03-21 18:18:44.860881  
 categories: player  
 ---
 # Leigh Halfpenny
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Wales
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 59.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Wales                   |           100 |   0.51     |
+| Wales                   |           101 |   0.50495  |
 | Cardiff Blues           |            86 |   0.563953 |
 | Scarlets                |            53 |   0.603774 |
 | Toulon                  |            42 |   0.690476 |
@@ -32,7 +34,7 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Australia            |        16 |   0.1875   |
-| France               |        14 |   0.428571 |
+| France               |        15 |   0.4      |
 | Ireland              |        13 |   0.538462 |
 | Edinburgh            |        12 |   0.5      |
 | Ospreys              |        11 |   0.5      |

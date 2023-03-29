@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ratu Naulago  
-date: 2023-03-17 17:19:06.422215  
+date: 2023-03-21 18:11:54.949581  
 categories: player  
 ---
 # Ratu Naulago
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 97.0

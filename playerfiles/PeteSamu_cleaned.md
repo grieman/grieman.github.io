@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Pete Samu  
-date: 2023-03-17 17:20:45.868927  
+date: 2023-03-21 18:54:28.307368  
 categories: player  
 ---
 # Pete Samu
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Australia
 
 ## Current elo: 97.0
 
-## Current Percentile: 53.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            58 |   0.724138 |
+| Brumbies         |            59 |   0.728814 |
 | Tasman           |            40 |   0.6125   |
 | Australia        |            33 |   0.409091 |
 | Crusaders        |            33 |   0.969697 |
@@ -36,46 +38,46 @@ categories: player
 | Melbourne Rebels         |        10 |  0.7       |
 | Western Force            |        10 |  0.8       |
 | Blues                    |         8 |  0.75      |
-| Hurricanes               |         7 |  0.714286  |
 | Chiefs                   |         7 |  1         |
+| Hurricanes               |         7 |  0.714286  |
 | Argentina                |         6 |  0.666667  |
+| Taranaki                 |         6 |  0.5       |
 | New Zealand              |         6 |  0.0833333 |
 | Canterbury               |         6 |  0.166667  |
-| Taranaki                 |         6 |  0.5       |
 | Sunwolves                |         5 |  1         |
-| South Africa             |         5 |  0.8       |
 | England                  |         5 |  0.2       |
-| Auckland                 |         4 |  0.375     |
-| Counties Manukau         |         4 |  0.25      |
+| South Africa             |         5 |  0.8       |
 | Waikato                  |         4 |  1         |
 | Otago                    |         4 |  0.75      |
+| Auckland                 |         4 |  0.375     |
+| Counties Manukau         |         4 |  0.25      |
 | Ireland                  |         4 |  0.25      |
-| Southland                |         3 |  1         |
-| Stormers                 |         3 |  1         |
 | Wellington               |         3 |  1         |
-| Fijian Drua              |         3 |  1         |
-| Lions                    |         3 |  1         |
+| Stormers                 |         3 |  1         |
+| Southland                |         3 |  1         |
 | Highlanders              |         3 |  0.666667  |
-| Manawatu                 |         2 |  0.5       |
-| Wales                    |         2 |  0.5       |
-| Brumbies                 |         2 |  1         |
-| Crusaders                |         2 |  0         |
-| Bulls                    |         2 |  1         |
-| Jaguares                 |         2 |  0.5       |
+| Lions                    |         3 |  1         |
+| Fijian Drua              |         3 |  1         |
 | Sharks                   |         2 |  1         |
+| Wales                    |         2 |  0.5       |
+| Moana Pasifika           |         2 |  0.5       |
+| Jaguares                 |         2 |  0.5       |
+| Bulls                    |         2 |  1         |
+| Crusaders                |         2 |  0         |
+| Manawatu                 |         2 |  0.5       |
 | Italy                    |         2 |  0.5       |
+| Brumbies                 |         2 |  1         |
+| NSW Country Eagles       |         1 |  1         |
+| Cheetahs                 |         1 |  1         |
+| France                   |         1 |  0         |
 | Sydney Rays              |         1 |  1         |
+| Hawke's Bay              |         1 |  1         |
 | Southern Kings           |         1 |  1         |
-| Brisbane City            |         1 |  1         |
+| Japan                    |         1 |  1         |
 | Scotland                 |         1 |  0         |
 | Bay of Plenty            |         1 |  1         |
 | Queensland Country       |         1 |  0         |
+| Melbourne Rising         |         1 |  1         |
 | Northland                |         1 |  1         |
 | North Harbour            |         1 |  1         |
-| NSW Country Eagles       |         1 |  1         |
-| Melbourne Rising         |         1 |  1         |
-| Japan                    |         1 |  1         |
-| Hawke's Bay              |         1 |  1         |
-| France                   |         1 |  0         |
-| Cheetahs                 |         1 |  1         |
-| Moana Pasifika           |         1 |  0         |
+| Brisbane City            |         1 |  1         |

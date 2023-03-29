@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matthew McNab  
-date: 2023-03-17 17:32:30.436451  
+date: 2023-03-21 18:33:44.303067  
 categories: player  
 ---
 # Matthew McNab
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Zimbabwe
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Hartpury College  |            18 |   0.388889 |
+| Hartpury College  |            19 |   0.368421 |
 | Zimbabwe          |             6 |   0.416667 |
 | Zimbabwe Goshawks |             3 |   0        |
 
@@ -32,8 +34,8 @@ categories: player
 | Richmond               |         4 |   0.5      |
 | Bedford                |         3 |   0.333333 |
 | Doncaster              |         3 |   0.333333 |
+| Jersey                 |         3 |   0        |
 | Ealing Trailfinders    |         2 |   0        |
-| Jersey                 |         2 |   0        |
 | Nottingham             |         2 |   1        |
 | Namibia                |         1 |   0        |
 | Uganda                 |         1 |   1        |

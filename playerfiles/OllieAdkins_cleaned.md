@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Ollie Adkins  
-date: 2023-02-02 18:57:01.668734  
+date: 2023-03-21 18:16:12.245783  
 categories: player  
 ---
 # Ollie Adkins
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

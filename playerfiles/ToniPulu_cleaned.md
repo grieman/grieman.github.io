@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Toni Pulu  
-date: 2023-03-17 17:37:56.213833  
+date: 2023-03-21 18:08:40.872221  
 categories: player  
 ---
 # Toni Pulu
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Chiefs
 
-## Current elo: 126.0
+## Current elo: 127.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -25,17 +27,17 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            44 |   0.465909 |
 | Chiefs           |            32 |   0.71875  |
-| Western Force    |            15 |   0.4      |
+| Western Force    |            16 |   0.375    |
 | Brumbies         |            14 |   0.714286 |
 | Canberra Vikings |             6 |   0.833333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Highlanders              |         6 |   0.5      |
 | Canterbury               |         6 |   0.166667 |
 | New South Wales Waratahs |         6 |   0.666667 |
 | Melbourne Rebels         |         5 |   0.8      |
 | Hurricanes               |         5 |   0.6      |
-| Highlanders              |         5 |   0.6      |
 | Brumbies                 |         5 |   0.4      |
 | Tasman                   |         5 |   0.4      |
 | Taranaki                 |         5 |   0.3      |

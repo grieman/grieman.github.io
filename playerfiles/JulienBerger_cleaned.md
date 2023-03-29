@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Julien Berger  
-date: 2023-02-05 15:08:57.777997  
+date: 2023-03-21 18:08:52.388172  
 categories: player  
 ---
 # Julien Berger
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Belgium
 
-## Current elo: 110.0
+## Current elo: 111.0
 
-## Current Percentile: 87.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:---------------------------|--------------:|-----------:|
 | La Rochelle                |            82 |   0.573171 |
 | Provence Rugby             |            26 |   0.269231 |
-| Belgium                    |            19 |   0.184211 |
+| Belgium                    |            18 |   0.194444 |
 | Cognac Saint Jean d'Angély |            12 |   0.375    |
 | Nevers                     |             8 |   0.375    |
 
@@ -45,11 +47,11 @@ categories: player
 | Oyonnax              |         4 |   0.25     |
 | Brive                |         4 |   0.25     |
 | Carcassonne          |         4 |   0.75     |
-| Portugal             |         4 |   0        |
 | Bourgoin-Jallieu     |         4 |   0.5      |
 | Russia               |         4 |   0.25     |
 | Spain                |         4 |   0.375    |
 | Bayonne              |         4 |   0.25     |
+| Portugal             |         3 |   0        |
 | Agen                 |         3 |   0.333333 |
 | Grenoble             |         3 |   0.333333 |
 | US Bressane          |         3 |   0.666667 |

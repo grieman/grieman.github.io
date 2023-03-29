@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bryan Byrne  
-date: 2023-03-17 17:40:27.911884  
+date: 2023-03-21 18:40:49.862394  
 categories: player  
 ---
 # Bryan Byrne
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 108.0
 
-## Current Percentile: 80.0
+## Current Percentile: 78.0
 
 # Elo History
 

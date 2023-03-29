@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Noel Reid  
-date: 2023-03-17 17:12:41.358879  
+date: 2023-03-21 18:09:11.851256  
 categories: player  
 ---
 # Noel Reid
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Country: Ireland

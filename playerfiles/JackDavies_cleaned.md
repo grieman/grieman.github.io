@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Davies  
-date: 2023-02-02 18:58:41.877706  
+date: 2023-03-21 17:57:50.215333  
 categories: player  
 ---
 # Jack Davies
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 89.0

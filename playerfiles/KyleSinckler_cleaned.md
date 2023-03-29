@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kyle Sinckler  
-date: 2023-03-17 17:23:27.558905  
+date: 2023-03-21 18:13:09.581953  
 categories: player  
 ---
 # Kyle Sinckler
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Harlequins              |           156 |   0.512821 |
-| England                 |            58 |   0.637931 |
+| England                 |            59 |   0.627119 |
 | Bristol Rugby           |            41 |   0.634146 |
 | British and Irish Lions |            11 |   0.5      |
 
@@ -42,9 +44,9 @@ categories: player
 | London Irish             |        11 |   0.636364 |
 | South Africa             |        11 |   0.454545 |
 | Worcester Warriors       |         8 |   0.625    |
+| Ireland                  |         8 |   0.375    |
 | Wales                    |         7 |   0.571429 |
 | Italy                    |         7 |   1        |
-| Ireland                  |         7 |   0.428571 |
 | France                   |         7 |   0.428571 |
 | New Zealand              |         6 |   0.5      |
 | Scotland                 |         5 |   0.5      |

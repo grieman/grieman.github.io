@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Micheal STRONGE  
-date: 2023-03-12 11:30:40.367800  
+date: 2023-03-29 11:30:23.863096  
 categories: player  
 ---
 # Micheal STRONGE
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 73.0
+## Current elo: 98.0
 
-## Current Percentile: 21.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,19 +23,19 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            35 |        0.2 |
+| Nottingham |            36 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ampthill            |         4 |       0.25 |
-| Coventry            |         4 |       0.25 |
-| Hartpury College    |         4 |       0.25 |
-| Jersey              |         4 |       0    |
-| Richmond            |         4 |       0.5  |
-| Bedford             |         3 |       0    |
-| Cornish Pirates     |         3 |       0    |
-| Ealing Trailfinders |         3 |       0    |
-| Doncaster           |         2 |       0    |
-| London Scottish     |         2 |       1    |
-| Caldy               |         1 |       0    |
-| Saracens            |         1 |       0    |
+| Richmond            |         5 |   0.6      |
+| Bedford             |         4 |   0.25     |
+| Ealing Trailfinders |         4 |   0        |
+| Hartpury College    |         4 |   0.25     |
+| Jersey              |         4 |   0        |
+| Ampthill            |         3 |   0.333333 |
+| Cornish Pirates     |         3 |   0        |
+| Coventry            |         3 |   0.333333 |
+| Doncaster           |         2 |   0        |
+| London Scottish     |         2 |   1        |
+| Caldy               |         1 |   0        |
+| Saracens            |         1 |   0        |

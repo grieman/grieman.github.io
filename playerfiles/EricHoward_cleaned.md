@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Eric Howard  
-date: 2023-03-17 17:33:57.379591  
+date: 2023-03-21 18:45:11.149182  
 categories: player  
 ---
 # Eric Howard
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Canada

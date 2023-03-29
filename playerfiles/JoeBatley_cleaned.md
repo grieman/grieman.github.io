@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joe Batley  
-date: 2023-03-17 17:28:01.896791  
+date: 2023-03-21 17:59:28.755157  
 categories: player  
 ---
 # Joe Batley
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 102.0

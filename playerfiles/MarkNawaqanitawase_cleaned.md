@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Mark Nawaqanitawase  
-date: 2023-03-17 17:08:31.840329  
+date: 2023-03-21 18:47:56.435286  
 categories: player  
 ---
 # Mark Nawaqanitawase
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Australia
 
 ## Current elo: 98.0
 
-## Current Percentile: 55.0
+## Current Percentile: 53.0
 
 # Elo History
 

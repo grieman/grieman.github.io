@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Seimou Smith  
-date: 2023-03-17 17:08:16.329552  
+date: 2023-03-21 18:27:00.935612  
 categories: player  
 ---
 # Seimou Smith
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 78.0

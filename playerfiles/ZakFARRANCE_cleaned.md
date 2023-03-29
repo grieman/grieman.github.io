@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Zak FARRANCE  
-date: 2023-03-12 11:32:28.423376  
+date: 2023-03-29 11:29:31.389537  
 categories: player  
 ---
 # Zak FARRANCE
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 88.0
 
-## Current Percentile: 61.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Agen    |            31 |   0.564516 |
+| Agen    |            32 |   0.546875 |
 | Jersey  |            12 |   0.541667 |
 | Oyonnax |            12 |   0.666667 |
 
@@ -30,6 +32,7 @@ categories: player
 | Nevers              |         5 |   0.4      |
 | Provence Rugby      |         5 |   0.5      |
 | Colomiers           |         4 |   0.75     |
+| Montauban           |         3 |   0.333333 |
 | Mont-de-Marsan      |         3 |   0.666667 |
 | Aurillac            |         3 |   0.333333 |
 | Rouen               |         3 |   1        |
@@ -40,7 +43,6 @@ categories: player
 | Biarritz Olympique  |         2 |   0.5      |
 | Beziers             |         2 |   0        |
 | Bedford             |         2 |   1        |
-| Montauban           |         2 |   0.5      |
 | Richmond            |         2 |   0.5      |
 | Vannes              |         2 |   1        |
 | US Bressane         |         1 |   0        |

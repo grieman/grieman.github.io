@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Javier Corvalan  
-date: 2023-03-04 11:34:47.543765  
+date: 2023-03-21 17:58:27.638236  
 categories: player  
 ---
 # Javier Corvalan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 75.0
+## Current elo: 69.0
 
 ## Current Percentile: 6.0
 
@@ -22,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cafeteros Pro |            17 |   0.235294 |
-| Pampas XV     |             2 |   0.5      |
+| Pampas XV     |             3 |   0.333333 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -31,3 +33,4 @@ categories: player
 | Selknam       |         4 |        0   |
 | Jaguares XV   |         3 |        0   |
 | Penarol Rugby |         3 |        0   |
+| Dogos XV      |         1 |        0   |

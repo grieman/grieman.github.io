@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joaquin Dominguez  
-date: 2023-02-24 02:26:35.856651  
+date: 2023-03-21 18:37:02.384701  
 categories: player  
 ---
 # Joaquin Dominguez
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 79.0

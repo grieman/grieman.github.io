@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryan Higginson  
-date: 2023-02-02 18:47:56.853118  
+date: 2023-03-21 18:01:13.401453  
 categories: player  
 ---
 # Ryan Higginson
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 98.0
 
-## Current Percentile: 53.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,17 +23,17 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |            11 |   0.454545 |
+| Caldy  |            14 |   0.357143 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ampthill            |         2 |        0   |
 | Bedford             |         2 |        0.5 |
-| Ampthill            |         1 |        0   |
+| Coventry            |         2 |        0   |
+| Jersey              |         2 |        0   |
 | Cornish Pirates     |         1 |        1   |
-| Coventry            |         1 |        0   |
 | Ealing Trailfinders |         1 |        1   |
 | Hartpury College    |         1 |        0   |
-| Jersey              |         1 |        0   |
 | London Scottish     |         1 |        0   |
 | Nottingham          |         1 |        1   |
 | Richmond            |         1 |        1   |

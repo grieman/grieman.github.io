@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Tomi Lewis  
-date: 2023-02-02 19:01:37.549726  
+date: 2023-03-21 18:22:37.859757  
 categories: player  
 ---
 # Tomi Lewis
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 99.0
+## Current elo: 100.0
 
 ## Current Percentile: None
 

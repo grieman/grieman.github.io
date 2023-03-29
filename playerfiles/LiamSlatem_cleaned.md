@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Liam Slatem  
-date: 2023-02-02 19:12:14.093575  
+date: 2023-03-21 17:58:53.629723  
 categories: player  
 ---
 # Liam Slatem
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Hong Kong
 
 ## Current elo: 98.0
 
-## Current Percentile: 22.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            11 |   0.363636 |
+| Nottingham |            14 |   0.357143 |
 | Hong Kong  |             7 |   0.571429 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -31,15 +33,15 @@ categories: player
 | Caldy               |         2 |        0.5 |
 | Cornish Pirates     |         2 |        0   |
 | Doncaster           |         2 |        0.5 |
+| Ealing Trailfinders |         2 |        0   |
+| Hartpury College    |         2 |        0   |
+| Richmond            |         2 |        1   |
 | Bedford             |         1 |        0   |
 | Belgium             |         1 |        1   |
 | Canada              |         1 |        0   |
 | Chile               |         1 |        1   |
 | Cook Islands        |         1 |        1   |
-| Ealing Trailfinders |         1 |        0   |
 | Germany             |         1 |        0   |
-| Hartpury College    |         1 |        0   |
 | Kenya               |         1 |        1   |
 | London Scottish     |         1 |        1   |
-| Richmond            |         1 |        1   |
 | Spain               |         1 |        0   |

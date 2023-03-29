@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Zac Nearchou  
-date: 2023-02-02 18:46:14.714956  
+date: 2023-03-21 18:00:36.179287  
 categories: player  
 ---
 # Zac Nearchou
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

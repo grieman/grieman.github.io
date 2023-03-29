@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Erwan Dridi  
-date: 2023-03-17 17:19:37.345660  
+date: 2023-03-21 18:03:29.722022  
 categories: player  
 ---
 # Erwan Dridi
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 66.0

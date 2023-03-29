@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mason Koch  
-date: 2023-03-17 17:25:37.706139  
+date: 2023-03-21 18:53:00.690232  
 categories: player  
 ---
 # Mason Koch
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 99.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Franco Palillo  
-date: 2023-03-17 17:26:58.607646  
+date: 2023-03-21 18:17:44.436070  
 categories: player  
 ---
 # Franco Palillo
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 92.0

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Alejandro Suarez  
-date: 2023-02-24 02:31:50.665379  
+date: 2023-03-21 18:10:34.401155  
 categories: player  
 ---
 # Alejandro Suarez
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Spain
 
-## Current elo: 92.0
+## Current elo: 90.0
 
-## Current Percentile: 50.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Spain                    |             4 |   0.5      |
-| Castilla y Leon Iberians |             3 |   0.333333 |
+| Spain                    |             5 |        0.4 |
+| Castilla y Leon Iberians |             2 |        0.5 |
 
 | Opponent     |   Matches |   Win Rate |
 |:-------------|----------:|-----------:|
-| Black Lion   |         1 |          0 |
 | Delta        |         1 |          1 |
 | Georgia      |         1 |          0 |
 | Germany      |         1 |          1 |
 | Lusitanos XV |         1 |          0 |
 | Namibia      |         1 |          1 |
+| Romania      |         1 |          0 |
 | Tonga        |         1 |          0 |

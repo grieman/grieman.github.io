@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Florent Guion  
-date: 2023-03-17 17:05:22.435642  
+date: 2023-03-21 18:40:27.206424  
 categories: player  
 ---
 # Florent Guion
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 62.0

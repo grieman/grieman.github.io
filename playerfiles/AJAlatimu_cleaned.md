@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: AJ Alatimu  
-date: 2023-03-17 17:34:08.760522  
+date: 2023-03-21 17:59:46.838652  
 categories: player  
 ---
 # AJ Alatimu
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: Samoa

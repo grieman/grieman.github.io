@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jale Railala Vakaloloma  
-date: 2023-03-17 17:33:35.336969  
+date: 2023-03-21 18:52:18.020130  
 categories: player  
 ---
 # Jale Railala Vakaloloma
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 98.0
 
-## Current Percentile: 60.0
+## Current Percentile: 58.0
 
 # Elo History
 

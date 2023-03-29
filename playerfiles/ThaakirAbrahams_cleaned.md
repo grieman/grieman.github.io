@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thaakir Abrahams  
-date: 2023-02-02 19:11:31.432614  
+date: 2023-03-21 18:33:43.209069  
 categories: player  
 ---
 # Thaakir Abrahams
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 85.0
+## Current elo: 92.0
 
-## Current Percentile: 23.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,22 +23,20 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sharks       |             9 |   0.444444 |
-| Natal Sharks |             7 |   0.571429 |
+| Natal Sharks |             9 |   0.555556 |
+| Sharks       |             7 |   0.428571 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Free State Cheetahs |         2 |          1 |
-| Western Province    |         2 |          0 |
-| Blue Bulls          |         1 |          1 |
-| Bulls               |         1 |          0 |
-| Dragons             |         1 |          1 |
-| Edinburgh           |         1 |          1 |
-| Glasgow Warriors    |         1 |          0 |
-| Golden Lions        |         1 |          1 |
-| Griquas             |         1 |          0 |
-| Harlequins          |         1 |          0 |
-| Leinster            |         1 |          0 |
-| Munster             |         1 |          0 |
-| Ospreys             |         1 |          1 |
-| Zebre               |         1 |          1 |
+| Blue Bulls          |         2 |        0.5 |
+| Free State Cheetahs |         2 |        1   |
+| Griquas             |         2 |        0.5 |
+| Western Province    |         2 |        0   |
+| Bulls               |         1 |        0   |
+| Dragons             |         1 |        1   |
+| Glasgow Warriors    |         1 |        0   |
+| Golden Lions        |         1 |        1   |
+| Leinster            |         1 |        0   |
+| Munster             |         1 |        0   |
+| Ospreys             |         1 |        1   |
+| Zebre               |         1 |        1   |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Mihai Macovei  
-date: 2023-02-04 18:30:23.142154  
+date: 2023-03-21 18:34:36.994191  
 categories: player  
 ---
 # Mihai Macovei
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Romania
 
-## Current elo: 106.0
+## Current elo: 107.0
 
-## Current Percentile: 53.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -58,28 +60,27 @@ categories: player
 | US Bressane              |         3 |   0.666667 |
 | Albi                     |         3 |   0        |
 | Bourgoin-Jallieu         |         3 |   0.666667 |
-| Brazil                   |         2 |   1        |
+| Chile                    |         2 |   1        |
 | United States of America |         2 |   0        |
 | Tarbes                   |         2 |   0.5      |
 | Argentina                |         2 |   0        |
 | Samoa                    |         2 |   0.5      |
 | Belgium                  |         2 |   1        |
 | Germany                  |         2 |   1        |
+| Brazil                   |         2 |   1        |
 | Colomiers                |         2 |   0        |
 | Netherlands              |         2 |   1        |
 | Lyon                     |         2 |   0.5      |
-| Poland                   |         1 |   1        |
-| Stade Francais Paris     |         1 |   0        |
+| France                   |         1 |   0        |
 | Ireland                  |         1 |   0        |
 | Italy                    |         1 |   0        |
 | Ukraine                  |         1 |   1        |
 | Tonga                    |         1 |   1        |
-| France                   |         1 |   0        |
-| Fiji                     |         1 |   0        |
+| Brive                    |         1 |   1        |
+| Stade Francais Paris     |         1 |   0        |
 | Grenoble                 |         1 |   0        |
 | England                  |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | Roval Drome XV           |         1 |   1        |
 | Pau                      |         1 |   0        |
-| Chile                    |         1 |   1        |
-| Brive                    |         1 |   1        |
+| Fiji                     |         1 |   0        |

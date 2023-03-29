@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cortez Ratima  
-date: 2023-03-17 17:00:26.997407  
+date: 2023-03-21 18:51:21.839207  
 categories: player  
 ---
 # Cortez Ratima
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 109.0
+## Current elo: 112.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Waikato |            22 |   0.659091 |
-| Chiefs  |            13 |   0.769231 |
+| Chiefs  |            14 |   0.785714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,9 +43,10 @@ categories: player
 | Queensland Reds          |         1 |   1        |
 | Auckland                 |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
+| Manawatu                 |         1 |   1        |
 | Hurricanes               |         1 |   1        |
 | Highlanders              |         1 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Blues                    |         1 |   0        |
-| Manawatu                 |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |

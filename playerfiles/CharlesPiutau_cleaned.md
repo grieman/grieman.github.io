@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Charles Piutau  
-date: 2023-03-17 17:29:34.500041  
+date: 2023-03-21 18:05:49.934166  
 categories: player  
 ---
 # Charles Piutau
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Tonga
 
 ## Current elo: 120.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 

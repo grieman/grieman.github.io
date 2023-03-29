@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Louis Barrere  
-date: 2023-03-17 17:26:13.365765  
+date: 2023-03-20 15:48:11.778163  
 categories: player  
 ---
 # Louis Barrere
 
+
+Last updated: 2023-03-20
 ## Positions: H
 
 ## Current elo: 92.0

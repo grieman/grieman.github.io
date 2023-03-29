@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mikey Grandy  
-date: 2023-03-17 17:24:21.809904  
+date: 2023-03-21 18:16:42.642804  
 categories: player  
 ---
 # Mikey Grandy
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 100.0

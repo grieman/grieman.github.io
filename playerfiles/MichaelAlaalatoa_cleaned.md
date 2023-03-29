@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2023-03-12 11:34:39.617200  
+date: 2023-03-29 11:31:27.873360  
 categories: player  
 ---
 # Michael Alaalatoa
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Country: Samoa
@@ -25,7 +27,7 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Crusaders                |            96 |   0.854167 |
 | Manawatu                 |            36 |   0.333333 |
-| Leinster                 |            28 |   0.821429 |
+| Leinster                 |            29 |   0.827586 |
 | Samoa                    |            13 |   0.461538 |
 | NSW Country Eagles       |             9 |   0.666667 |
 | New South Wales Waratahs |             1 |   1        |
@@ -46,8 +48,8 @@ categories: player
 | Northland                |         4 |   0.75     |
 | Taranaki                 |         4 |   0        |
 | Southland                |         3 |   0.666667 |
-| Hawke's Bay              |         3 |   0        |
 | Otago                    |         3 |   0        |
+| Hawke's Bay              |         3 |   0        |
 | Jaguares                 |         3 |   1        |
 | Connacht                 |         3 |   1        |
 | Stormers                 |         3 |   0.833333 |
@@ -63,35 +65,36 @@ categories: player
 | Sunwolves                |         2 |   1        |
 | New Zealand Maori        |         2 |   0        |
 | Zebre                    |         2 |   1        |
+| Counties Manukau         |         2 |   0        |
 | Benetton Treviso         |         2 |   1        |
 | Brisbane City            |         2 |   0        |
-| Counties Manukau         |         2 |   0        |
 | Glasgow Warriors         |         2 |   1        |
-| Australia                |         1 |   0        |
-| Scotland                 |         1 |   0        |
-| Bath Rugby               |         1 |   1        |
-| British and Irish Lions  |         1 |   0        |
-| Canberra Vikings         |         1 |   1        |
-| Cardiff Blues            |         1 |   0        |
+| La Rochelle              |         1 |   0        |
+| Georgia                  |         1 |   1        |
+| Southern Kings           |         1 |   1        |
+| Edinburgh                |         1 |   1        |
+| Dragons                  |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | Sydney Stars             |         1 |   1        |
-| Dragons                  |         1 |   1        |
-| Edinburgh                |         1 |   1        |
-| Southern Kings           |         1 |   1        |
-| Georgia                  |         1 |   1        |
 | Scarlets                 |         1 |   1        |
-| Melbourne Rising         |         1 |   0        |
+| Cardiff Blues            |         1 |   0        |
+| Canberra Vikings         |         1 |   1        |
+| British and Irish Lions  |         1 |   0        |
+| Bath Rugby               |         1 |   1        |
+| Scotland                 |         1 |   0        |
 | Russia                   |         1 |   1        |
+| Australia                |         1 |   0        |
 | Romania                  |         1 |   1        |
 | Racing 92                |         1 |   1        |
 | Queensland Country       |         1 |   1        |
 | Perth Spirit             |         1 |   1        |
-| Greater Sydney Rams      |         1 |   1        |
+| Gloucester Rugby         |         1 |   1        |
 | Ospreys                  |         1 |   1        |
-| Ireland                  |         1 |   0        |
+| Greater Sydney Rams      |         1 |   1        |
 | North Harbour Rays       |         1 |   1        |
 | North Harbour            |         1 |   1        |
+| Ireland                  |         1 |   0        |
 | Italy                    |         1 |   0        |
 | Japan                    |         1 |   0        |
-| La Rochelle              |         1 |   0        |
+| Melbourne Rising         |         1 |   0        |
 | Auckland                 |         1 |   0        |

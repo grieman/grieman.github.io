@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ernst van Rhyn  
-date: 2023-03-17 17:33:46.758098  
+date: 2023-03-21 18:25:20.189961  
 categories: player  
 ---
 # Ernst van Rhyn
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Current elo: 118.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 

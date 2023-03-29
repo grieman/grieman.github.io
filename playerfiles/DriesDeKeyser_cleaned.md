@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dries De Keyser  
-date: 2023-02-24 02:29:02.978281  
+date: 2023-03-21 18:32:32.298165  
 categories: player  
 ---
 # Dries De Keyser
 
-## Positions: L
+
+Last updated: 2023-03-21
+## Positions: L, FL
 
 ## Country: Belgium
 
-## Current elo: 92.0
+## Current elo: 87.0
 
-## Current Percentile: 64.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,12 +25,13 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
+| Belgium         |             4 |       0.25 |
 | Brussels Devils |             4 |       0.25 |
-| Belgium         |             1 |       0    |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Delta                    |         2 |        0.5 |
+| Netherlands              |         2 |        0   |
+| Poland                   |         2 |        0.5 |
 | Castilla y Leon Iberians |         1 |        0   |
 | Lusitanos XV             |         1 |        0   |
-| Poland                   |         1 |        0   |

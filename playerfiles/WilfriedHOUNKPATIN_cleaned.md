@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Wilfried Hounkpatin  
-date: 2023-03-12 11:34:20.690332  
+date: 2023-03-29 11:30:49.781168  
 categories: player  
 ---
 # Wilfried Hounkpatin
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 97.0
 
-## Current Percentile: 13.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |             9 |   0.277778 |
+| Castres Olympique |             9 |   0.388889 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -33,4 +35,4 @@ categories: player
 | Lyon                 |         1 |        1   |
 | Racing 92            |         1 |        0.5 |
 | Stade Francais Paris |         1 |        0   |
-| Stade Toulousain     |         1 |        0   |
+| Stade Toulousain     |         1 |        1   |

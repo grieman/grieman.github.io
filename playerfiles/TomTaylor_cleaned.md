@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom Taylor  
-date: 2023-03-17 17:41:45.627788  
+date: 2023-03-21 18:03:22.024904  
 categories: player  
 ---
 # Tom Taylor
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: New Zealand

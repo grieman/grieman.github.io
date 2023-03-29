@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matt Vaega  
-date: 2023-03-17 17:21:57.768850  
+date: 2023-03-21 18:02:02.593434  
 categories: player  
 ---
 # Matt Vaega
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 92.0

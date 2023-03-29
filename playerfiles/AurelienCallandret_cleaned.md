@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Aurelien Callandret  
-date: 2023-02-02 19:12:37.492849  
+date: 2023-03-21 18:50:00.391713  
 categories: player  
 ---
 # Aurelien Callandret
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 118.0
+## Current elo: 110.0
 
-## Current Percentile: 94.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,26 +23,26 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            88 |   0.670455 |
+| Oyonnax |            97 |   0.659794 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Colomiers                  |         9 |   0.722222 |
 | Beziers                    |         8 |   0.8125   |
+| Vannes                     |         7 |   0.571429 |
 | Provence Rugby             |         7 |   0.785714 |
 | Nevers                     |         7 |   0.714286 |
-| Vannes                     |         6 |   0.666667 |
+| Carcassonne                |         7 |   0.857143 |
 | Mont-de-Marsan             |         6 |   0.416667 |
 | Rouen                      |         6 |   0.666667 |
-| Carcassonne                |         6 |   0.833333 |
-| Colomiers                  |         6 |   0.583333 |
-| Montauban                  |         5 |   0.6      |
+| Montauban                  |         6 |   0.666667 |
 | Grenoble                   |         5 |   0.4      |
+| Bayonne                    |         5 |   0.2      |
 | Aurillac                   |         4 |   0.5      |
 | Biarritz Olympique         |         4 |   0.5      |
-| Bayonne                    |         3 |   0.333333 |
+| Perpignan                  |         3 |   0.333333 |
 | Soyaux-Angouleme           |         3 |   1        |
 | Narbonne                   |         2 |   1        |
-| Perpignan                  |         2 |   0.5      |
 | US Bressane                |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   1        |
 | Massy                      |         1 |   1        |

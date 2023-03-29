@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Michal Kruzycki  
-date: 2023-02-04 18:27:27.158154  
+date: 2023-03-21 18:31:10.219276  
 categories: player  
 ---
 # Michal Kruzycki
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Poland
 
-## Current elo: 86.0
+## Current elo: 78.0
 
-## Current Percentile: None
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -23,8 +25,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             5 |        0.2 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Romania    |         1 |          0 |
+| Belgium    |         2 |        0.5 |
+| Germany    |         1 |        0   |
+| Portugal   |         1 |        0   |
+| Romania    |         1 |        0   |

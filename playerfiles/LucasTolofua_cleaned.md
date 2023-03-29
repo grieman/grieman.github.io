@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Lucas Tolofua  
-date: 2023-03-17 17:41:29.548266  
+date: 2023-03-21 18:53:33.761188  
 categories: player  
 ---
 # Lucas Tolofua
 
+
+Last updated: 2023-03-21
 ## Positions: L, N8
 
-## Current elo: 63.0
+## Current elo: 65.0
 
 ## Current Percentile: 5.0
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            37 |   0.581081 |
+| Blagnac |            36 |   0.597222 |
 | Tarbes  |             9 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |         5 |   0.4      |
 | Chambery                   |         5 |   0.6      |
-| Albi                       |         4 |   0.25     |
+| Albi                       |         3 |   0.333333 |
 | US Bressane                |         3 |   0.666667 |
 | Tarbes                     |         3 |   1        |
 | Suresnes                   |         3 |   0.666667 |

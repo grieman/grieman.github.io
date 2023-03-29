@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Max Auriac  
-date: 2023-02-02 18:51:25.983544  
+date: 2023-03-21 18:10:59.152625  
 categories: player  
 ---
 # Max Auriac
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 107.0
+## Current elo: 122.0
 
-## Current Percentile: 70.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -19,22 +21,24 @@ categories: player
 # Match History
 
 
-| Team      |   Appearances |   Win Rate |
-|:----------|--------------:|-----------:|
-| Colomiers |            14 |   0.642857 |
+| Team             |   Appearances |   Win Rate |
+|:-----------------|--------------:|-----------:|
+| Colomiers        |            19 |   0.631579 |
+| Stade Toulousain |             1 |   1        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Carcassonne        |         2 |          1 |
-| Agen               |         1 |          1 |
-| Aurillac           |         1 |          0 |
-| Beziers            |         1 |          1 |
-| Biarritz Olympique |         1 |          1 |
-| Grenoble           |         1 |          1 |
-| Massy              |         1 |          1 |
-| Montauban          |         1 |          0 |
-| Oyonnax            |         1 |          0 |
-| Provence Rugby     |         1 |          1 |
-| Rouen              |         1 |          0 |
-| Soyaux-Angouleme   |         1 |          1 |
-| Vannes             |         1 |          0 |
+| Agen               |         2 |        1   |
+| Aurillac           |         2 |        0.5 |
+| Beziers            |         2 |        1   |
+| Carcassonne        |         2 |        1   |
+| Grenoble           |         2 |        0.5 |
+| Oyonnax            |         2 |        0   |
+| Bayonne            |         1 |        1   |
+| Biarritz Olympique |         1 |        1   |
+| Massy              |         1 |        1   |
+| Montauban          |         1 |        0   |
+| Provence Rugby     |         1 |        1   |
+| Rouen              |         1 |        0   |
+| Soyaux-Angouleme   |         1 |        1   |
+| Vannes             |         1 |        0   |

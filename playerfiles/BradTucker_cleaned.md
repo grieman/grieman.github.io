@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Brad Tucker  
-date: 2023-03-17 17:25:21.322037  
+date: 2023-03-21 18:33:06.557120  
 categories: player  
 ---
 # Brad Tucker
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 67.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jamie Booth  
-date: 2023-03-17 17:32:16.572546  
+date: 2023-03-21 18:56:44.791546  
 categories: player  
 ---
 # Jamie Booth
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 66.0

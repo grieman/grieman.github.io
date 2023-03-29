@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Will Brown  
-date: 2023-02-02 19:12:57.211232  
+date: 2023-03-21 18:05:19.766866  
 categories: player  
 ---
 # Will Brown
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 83.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -26,16 +28,16 @@ categories: player
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Bedford             |         4 |      0.5   |
-| Cornish Pirates     |         4 |      0.75  |
-| Coventry            |         4 |      0.625 |
-| Doncaster           |         4 |      0.25  |
-| Ealing Trailfinders |         4 |      0     |
-| London Scottish     |         4 |      1     |
-| Nottingham          |         4 |      1     |
-| Hartpury College    |         3 |      1     |
-| Ampthill            |         2 |      0.75  |
-| Richmond            |         2 |      1     |
-| Caldy               |         1 |      1     |
-| Jersey              |         1 |      0     |
-| Saracens            |         1 |      0     |
+| Cornish Pirates     |         4 |   0.75     |
+| Coventry            |         4 |   0.625    |
+| Doncaster           |         4 |   0.25     |
+| Ealing Trailfinders |         4 |   0        |
+| Hartpury College    |         4 |   1        |
+| London Scottish     |         4 |   1        |
+| Nottingham          |         4 |   1        |
+| Bedford             |         3 |   0.333333 |
+| Ampthill            |         2 |   0.75     |
+| Richmond            |         2 |   1        |
+| Caldy               |         1 |   1        |
+| Jersey              |         1 |   0        |
+| Saracens            |         1 |   0        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hanro Liebenberg  
-date: 2023-03-17 17:37:24.573514  
+date: 2023-03-21 18:54:00.835151  
 categories: player  
 ---
 # Hanro Liebenberg
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 95.0

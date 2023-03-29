@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Line Latu  
-date: 2023-03-17 17:26:17.990349  
+date: 2023-03-21 18:50:34.338667  
 categories: player  
 ---
 # Line Latu
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 92.0
 
-## Current Percentile: 57.0
+## Current Percentile: 54.0
 
 # Elo History
 

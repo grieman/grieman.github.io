@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom Wright  
-date: 2023-03-17 17:39:33.355826  
+date: 2023-03-21 18:01:51.777427  
 categories: player  
 ---
 # Tom Wright
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Country: Australia
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            56 |   0.696429 |
+| Brumbies         |            57 |   0.701754 |
 | Australia        |            25 |   0.42     |
 | Canberra Vikings |             8 |   0.75     |
 
@@ -41,23 +43,23 @@ categories: player
 | New Zealand              |         3 |   0.333333 |
 | Chiefs                   |         3 |   0.666667 |
 | France                   |         3 |   0.333333 |
-| Highlanders              |         3 |   0.333333 |
 | England                  |         3 |   0        |
-| Jaguares                 |         2 |   0        |
-| Wales                    |         2 |   0.5      |
+| Highlanders              |         3 |   0.333333 |
 | Crusaders                |         2 |   0        |
+| Wales                    |         2 |   0.5      |
 | South Africa             |         2 |   0.5      |
 | Scotland                 |         2 |   0.5      |
-| Brisbane City            |         1 |   1        |
-| Sydney Rays              |         1 |   1        |
-| Stormers                 |         1 |   1        |
-| Sharks                   |         1 |   1        |
-| Ireland                  |         1 |   0        |
-| Queensland Country       |         1 |   0        |
-| Italy                    |         1 |   0        |
-| Bulls                    |         1 |   1        |
+| Moana Pasifika           |         2 |   0.5      |
+| Jaguares                 |         2 |   0        |
 | NSW Country Eagles       |         1 |   1        |
+| Bulls                    |         1 |   1        |
+| Italy                    |         1 |   0        |
+| Queensland Country       |         1 |   0        |
+| Brisbane City            |         1 |   1        |
 | Melbourne Rising         |         1 |   1        |
+| Sharks                   |         1 |   1        |
 | Lions                    |         1 |   1        |
+| Stormers                 |         1 |   1        |
 | Japan                    |         1 |   1        |
-| Moana Pasifika           |         1 |   0        |
+| Sydney Rays              |         1 |   1        |
+| Ireland                  |         1 |   0        |

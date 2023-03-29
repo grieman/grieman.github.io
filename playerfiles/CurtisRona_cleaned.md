@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Curtis Rona  
-date: 2023-03-17 17:05:27.965444  
+date: 2023-03-21 18:52:53.441742  
 categories: player  
 ---
 # Curtis Rona
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Australia

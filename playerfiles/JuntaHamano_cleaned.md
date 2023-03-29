@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Junta Hamano  
-date: 2023-03-17 17:21:16.518580  
+date: 2023-03-21 18:23:15.817383  
 categories: player  
 ---
 # Junta Hamano
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 19.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,11 +23,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             5 |        0.4 |
+| Kobelco Kobe Steelers |             6 |        0.5 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
 | Black Rams Tokyo          |         1 |          0 |
+| Green Rockets Tokatsu     |         1 |          1 |
 | Mitsubishi Dynaboars      |         1 |          1 |
 | Saitama Wild Knights      |         1 |          0 |
 | Shizuoka Blue Revs        |         1 |          1 |

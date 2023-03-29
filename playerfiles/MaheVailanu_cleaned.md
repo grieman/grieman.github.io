@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mahe Vailanu  
-date: 2023-03-17 17:19:04.086302  
+date: 2023-03-21 18:50:09.288701  
 categories: player  
 ---
 # Mahe Vailanu
 
+
+Last updated: 2023-03-21
 ## Positions: H, FL
 
 ## Current elo: 72.0

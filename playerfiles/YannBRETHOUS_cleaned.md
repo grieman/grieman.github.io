@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yann BRETHOUS  
-date: 2023-02-24 14:44:21.773712  
+date: 2023-03-27 11:34:50.596440  
 categories: player  
 ---
 # Yann BRETHOUS
 
+
+Last updated: 2023-03-27
 ## Positions: FL
 
 ## Current elo: 108.0

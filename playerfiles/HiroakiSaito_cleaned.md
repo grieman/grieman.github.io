@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hiroaki Saito  
-date: 2023-02-02 19:06:47.976327  
+date: 2023-03-21 18:11:44.446183  
 categories: player  
 ---
 # Hiroaki Saito
 
-## Positions: C, W
 
-## Current elo: 95.0
+Last updated: 2023-03-21
+## Positions: W, C
 
-## Current Percentile: 34.0
+## Current elo: 81.0
+
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toyota Industries Shuttles Aichi |            11 |   0.909091 |
+| Toyota Industries Shuttles Aichi |            14 |   0.714286 |
 
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
-| Shimizu Blue Sharks   |         3 |          1 |
 | Chugoku Red Regulions |         2 |          1 |
+| Kamaishi Seawaves     |         2 |          1 |
 | Kyuden Voltex         |         2 |          1 |
+| Mie Honda Heat        |         2 |          0 |
+| Shimizu Blue Sharks   |         2 |          1 |
+| Urayasu D-Rocks       |         2 |          0 |
 | Hino Red Dolphins     |         1 |          1 |
-| Kamaishi Seawaves     |         1 |          1 |
 | Kurita Water Gush     |         1 |          1 |
-| Urayasu D-Rocks       |         1 |          0 |

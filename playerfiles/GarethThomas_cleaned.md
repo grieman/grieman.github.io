@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gareth Thomas  
-date: 2023-03-17 17:29:13.346501  
+date: 2023-03-21 18:30:56.316294  
 categories: player  
 ---
 # Gareth Thomas
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Wales

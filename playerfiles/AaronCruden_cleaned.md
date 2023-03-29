@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Aaron Cruden  
-date: 2023-03-17 17:15:08.844413  
+date: 2023-03-21 17:57:34.512562  
 categories: player  
 ---
 # Aaron Cruden
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: New Zealand

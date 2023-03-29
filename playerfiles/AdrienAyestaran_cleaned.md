@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Adrien Ayestaran  
-date: 2023-03-16 20:09:55.535092  
+date: 2023-03-20 15:48:05.947171  
 categories: player  
 ---
 # Adrien Ayestaran
 
+
+Last updated: 2023-03-20
 ## Positions: SH
 
 ## Current elo: 94.0

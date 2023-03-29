@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Djustice Sears-Duru  
-date: 2023-03-16 19:58:53.258096  
+date: 2023-03-21 18:17:49.478030  
 categories: player  
 ---
 # Djustice Sears-Duru
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Canada

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Brayden Iose  
-date: 2023-03-17 17:32:00.462772  
+date: 2023-03-21 17:57:39.645337  
 categories: player  
 ---
 # Brayden Iose
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Current elo: 58.0

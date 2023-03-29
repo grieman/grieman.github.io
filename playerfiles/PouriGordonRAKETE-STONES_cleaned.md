@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Pouri Gordon RAKETE-STONES  
-date: 2023-03-17 17:37:52.521906  
+date: 2023-03-24 11:46:05.189641  
 categories: player  
 ---
 # Pouri Gordon RAKETE-STONES
 
+
+Last updated: 2023-03-24
 ## Positions: P
 
 ## Country: New Zealand Maori
 
 ## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 43.0
 
 # Elo History
 

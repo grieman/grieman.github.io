@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Conrado Roura  
-date: 2023-03-02 11:27:39.099096  
+date: 2023-03-21 18:09:59.139759  
 categories: player  
 ---
 # Conrado Roura
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 28.0
+## Current elo: 23.0
 
 ## Current Percentile: 0.0
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |            16 |        0   |
+| Dallas Jackals |            18 |        0   |
 | Penarol Rugby  |            10 |        0.6 |
 | Ceibos Rugby   |             1 |        1   |
 
@@ -34,11 +36,12 @@ categories: player
 | Utah Warriors     |         3 |   0        |
 | Austin Gilgronis  |         2 |   0        |
 | San Diego Legion  |         2 |   0        |
+| Seattle Seawolves |         2 |   0        |
 | Cafeteros Pro     |         1 |   1        |
+| Chicago Hounds    |         1 |   0        |
 | Cobras            |         1 |   1        |
 | L. A. Giltinis    |         1 |   0        |
 | NOLA Gold         |         1 |   0        |
 | Old Glory DC      |         1 |   0        |
 | R.U. New York     |         1 |   0        |
 | Rugby New York    |         1 |   0        |
-| Seattle Seawolves |         1 |   0        |

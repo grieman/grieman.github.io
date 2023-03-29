@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kurt Kendall Coleman  
-date: 2023-02-24 02:29:54.388816  
+date: 2023-03-21 18:56:39.010554  
 categories: player  
 ---
 # Kurt Kendall Coleman
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 102.0
+## Current elo: 88.0
 
-## Current Percentile: None
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,8 +23,10 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Rugby ATL |             1 |          1 |
+| Rugby ATL |             4 |       0.75 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Toronto Arrows |         1 |          1 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Toronto Arrows   |         2 |          1 |
+| NOLA Gold        |         1 |          1 |
+| San Diego Legion |         1 |          0 |

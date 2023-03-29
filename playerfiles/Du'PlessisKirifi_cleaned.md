@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Du'Plessis Kirifi  
-date: 2023-03-17 17:39:15.760163  
+date: 2023-03-21 18:10:54.944469  
 categories: player  
 ---
 # Du'Plessis Kirifi
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 120.0

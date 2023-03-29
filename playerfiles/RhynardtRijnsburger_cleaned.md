@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rhynardt Rijnsburger  
-date: 2023-03-17 17:42:57.784000  
+date: 2023-03-21 18:13:26.199206  
 categories: player  
 ---
 # Rhynardt Rijnsburger
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 106.0

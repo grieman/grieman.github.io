@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tautalatasi Tasi  
-date: 2023-03-17 17:09:57.383144  
+date: 2023-03-21 18:13:24.822708  
 categories: player  
 ---
 # Tautalatasi Tasi
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Current elo: 98.0

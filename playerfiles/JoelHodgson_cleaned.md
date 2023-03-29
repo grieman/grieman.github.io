@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joel Hodgson  
-date: 2023-03-02 11:26:20.993134  
+date: 2023-03-21 18:02:41.593120  
 categories: player  
 ---
 # Joel Hodgson
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 68.0

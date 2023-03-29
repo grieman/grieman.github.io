@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mitch Eadie  
-date: 2023-03-17 17:33:02.663195  
+date: 2023-03-21 18:05:36.561001  
 categories: player  
 ---
 # Mitch Eadie
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 115.0

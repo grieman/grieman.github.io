@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Scott Cummings  
-date: 2023-03-17 17:22:01.716889  
+date: 2023-03-21 18:17:56.293726  
 categories: player  
 ---
 # Scott Cummings
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Scotland
 
-## Current elo: 160.0
+## Current elo: 158.0
 
-## Current Percentile: None
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            94 |   0.590426 |
-| Scotland         |            22 |   0.590909 |
+| Scotland         |            23 |   0.608696 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -53,11 +55,11 @@ categories: player
 | Montpellier Herault |         2 |   0        |
 | England             |         2 |   0.5      |
 | Japan               |         2 |   0.5      |
+| Italy               |         2 |   1        |
 | Chile               |         1 |   1        |
 | Newcastle Falcons   |         1 |   1        |
 | Russia              |         1 |   1        |
 | Samoa               |         1 |   1        |
 | Saracens            |         1 |   0        |
 | Bulls               |         1 |   1        |
-| Italy               |         1 |   1        |
 | Racing 92           |         1 |   1        |

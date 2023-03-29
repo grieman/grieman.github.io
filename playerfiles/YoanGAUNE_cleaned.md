@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yoan GAUNE  
-date: 2023-03-17 17:40:35.352545  
+date: 2023-03-29 11:29:04.712421  
 categories: player  
 ---
 # Yoan GAUNE
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Current elo: 111.0
 
-## Current Percentile: 85.0
+## Current Percentile: 83.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Dax     |            37 |   0.594595 |
+| Dax     |            38 |   0.605263 |
 | Aubenas |            15 |   0.366667 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -37,9 +39,9 @@ categories: player
 | Aubenas                    |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Narbonne                   |         2 |   0.5      |
+| Rennes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | US Bressane                |         2 |   0.5      |
 | Dijon                      |         2 |   0.75     |
 | Dax                        |         1 |   0        |
-| Rennes                     |         1 |   1        |
 | Carqueiranne-Hyères        |         1 |   1        |

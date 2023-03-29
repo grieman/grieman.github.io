@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Mitchell Wilson  
-date: 2023-03-16 19:52:25.546722  
+date: 2023-03-21 18:31:22.881259  
 categories: player  
 ---
 # Mitchell Wilson
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 17.0
+## Current elo: 28.0
 
 ## Current Percentile: 0.0
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |            36 |   0.638889 |
+| New England Free Jacks |            37 |   0.648649 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Rugby New York    |         7 |   0.714286 |
 | R.U. New York     |         6 |   0.666667 |
-| Rugby New York    |         6 |   0.666667 |
 | NOLA Gold         |         4 |   0.5      |
 | Old Glory DC      |         3 |   1        |
 | Rugby ATL         |         3 |   1        |

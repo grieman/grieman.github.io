@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yoshitaka Tokunaga  
-date: 2023-03-17 17:20:51.571951  
+date: 2023-03-21 17:57:13.576656  
 categories: player  
 ---
 # Yoshitaka Tokunaga
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Japan

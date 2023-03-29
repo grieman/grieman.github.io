@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Thomas Dienst  
-date: 2023-02-05 15:14:13.592295  
+date: 2023-03-21 18:43:33.308218  
 categories: player  
 ---
 # Thomas Dienst
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Belgium
 
-## Current elo: 89.0
+## Current elo: 97.0
 
-## Current Percentile: None
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Belgium |            27 |   0.185185 |
+| Belgium |            28 |   0.214286 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
@@ -36,3 +38,4 @@ categories: player
 | Brazil     |         1 |       0    |
 | Canada     |         1 |       0    |
 | Hong Kong  |         1 |       0    |
+| Poland     |         1 |       1    |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ianis Ponsole  
-date: 2023-03-17 17:41:17.714316  
+date: 2023-03-21 18:17:50.873498  
 categories: player  
 ---
 # Ianis Ponsole
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 100.0
 
-## Current Percentile: 83.0
+## Current Percentile: 78.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Josh Fenner  
-date: 2023-02-02 19:07:57.668765  
+date: 2023-03-21 18:49:17.598177  
 categories: player  
 ---
 # Josh Fenner
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 82.0
+## Current elo: 86.0
 
-## Current Percentile: 25.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,17 +23,16 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| Hartpury College                |             4 |   0.25     |
-| NTT Docomo Red Hurricanes Osaka |             3 |   0.666667 |
-| Melbourne Rising                |             1 |   0        |
+| Hartpury College                |             4 |       0.25 |
+| NTT Docomo Red Hurricanes Osaka |             4 |       0.75 |
+| Melbourne Rising                |             1 |       0    |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Bedford             |         1 |          0 |
-| Doncaster           |         1 |          0 |
-| Jersey              |         1 |          0 |
-| Kurita Water Gush   |         1 |          0 |
-| Kyuden Voltex       |         1 |          1 |
-| London Scottish     |         1 |          1 |
-| Perth Spirit        |         1 |          0 |
-| Skyactivs Hiroshima |         1 |          1 |
+| Kurita Water Gush   |         2 |        0.5 |
+| Skyactivs Hiroshima |         2 |        1   |
+| Bedford             |         1 |        0   |
+| Doncaster           |         1 |        0   |
+| Jersey              |         1 |        0   |
+| London Scottish     |         1 |        1   |
+| Perth Spirit        |         1 |        0   |

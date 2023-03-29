@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jedrzej Nowicki  
-date: 2023-02-04 18:29:13.350296  
+date: 2023-03-21 18:10:27.458023  
 categories: player  
 ---
 # Jedrzej Nowicki
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Poland
 
 ## Current elo: 86.0
 
-## Current Percentile: None
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -23,8 +25,9 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             4 |       0.25 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Romania    |         1 |          0 |
+| Belgium    |         2 |        0.5 |
+| Romania    |         2 |        0   |

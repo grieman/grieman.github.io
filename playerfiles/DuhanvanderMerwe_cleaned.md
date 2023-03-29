@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Duhan van der Merwe  
-date: 2023-03-17 17:32:01.905457  
+date: 2023-03-21 18:41:52.329291  
 categories: player  
 ---
 # Duhan van der Merwe
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Scotland
 
-## Current elo: 96.0
+## Current elo: 92.0
 
-## Current Percentile: 67.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Edinburgh               |            74 |   0.614865 |
-| Scotland                |            24 |   0.541667 |
+| Scotland                |            25 |   0.56     |
 | Worcester Warriors      |            15 |   0.333333 |
 | British and Irish Lions |             4 |   0.5      |
 | Montpellier Herault     |             4 |   0.25     |
@@ -60,18 +62,18 @@ categories: player
 | Benetton Treviso       |         2 |   1        |
 | Bordeaux Begles        |         2 |   0.25     |
 | Japan                  |         2 |   1        |
-| Cheetahs               |         2 |   0.5      |
+| Italy                  |         2 |   1        |
 | Ireland                |         2 |   0        |
+| Cheetahs               |         2 |   0.5      |
 | Leicester Tigers       |         1 |   0        |
-| Fiji                   |         1 |   1        |
+| Exeter Chiefs          |         1 |   0        |
 | Bristol Rugby          |         1 |   1        |
 | Castres Olympique      |         1 |   1        |
-| Exeter Chiefs          |         1 |   0        |
 | Georgia                |         1 |   1        |
+| Fiji                   |         1 |   1        |
 | Krasny Yar Krasnoyarsk |         1 |   1        |
 | Pau                    |         1 |   0        |
 | Ospreys                |         1 |   0        |
-| Italy                  |         1 |   1        |
 | New Zealand            |         1 |   0        |
 | Krasny Yar             |         1 |   1        |
 | Montpellier Herault    |         1 |   1        |

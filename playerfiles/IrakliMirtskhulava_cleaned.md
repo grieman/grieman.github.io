@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Irakli Mirtskhulava  
-date: 2023-02-24 02:29:48.852069  
+date: 2023-03-21 18:16:20.946803  
 categories: player  
 ---
 # Irakli Mirtskhulava
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Georgia

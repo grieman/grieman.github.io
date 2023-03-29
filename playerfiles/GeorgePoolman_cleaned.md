@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: George Poolman  
-date: 2023-03-17 17:30:46.969627  
+date: 2023-03-21 18:01:46.672317  
 categories: player  
 ---
 # George Poolman
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 90.0
+## Current elo: 93.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,11 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Western Force |             3 |   0.666667 |
+| Western Force |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Highlanders      |         1 |          0 |
 | Melbourne Rebels |         1 |          1 |
 | Moana Pasifika   |         1 |          1 |
 | Queensland Reds  |         1 |          0 |

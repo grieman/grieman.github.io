@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kojiro Arito  
-date: 2023-01-13 11:31:09.334980  
+date: 2023-03-21 18:09:35.708293  
 categories: player  
 ---
 # Kojiro Arito
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 79.0
+## Current elo: 75.0
 
-## Current Percentile: 12.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chugoku Red Regulions |            15 |   0.133333 |
+| Chugoku Red Regulions |            18 |   0.111111 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Kyuden Voltex                    |         3 |        0   |
-| Kurita Water Gush                |         2 |        0.5 |
+| Kurita Water Gush                |         4 |        0.5 |
+| Kyuden Voltex                    |         4 |        0   |
 | Munakata Sanix Blues             |         2 |        0   |
 | Shimizu Blue Sharks              |         2 |        0   |
-| Skyactivs Hiroshima              |         2 |        0.5 |
+| Skyactivs Hiroshima              |         2 |        0   |
 | Toyota Industries Shuttles Aichi |         2 |        0   |
 | Coca-Cola Red Sparks             |         1 |        0   |
 | NTT Docomo Red Hurricanes Osaka  |         1 |        0   |

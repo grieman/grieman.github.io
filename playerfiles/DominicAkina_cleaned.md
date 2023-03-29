@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dominic Akina  
-date: 2023-03-17 17:01:04.009752  
+date: 2023-03-21 18:08:34.035137  
 categories: player  
 ---
 # Dominic Akina
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 89.0

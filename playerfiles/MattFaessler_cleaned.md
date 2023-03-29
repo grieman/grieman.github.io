@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Matt Faessler  
-date: 2023-03-17 17:36:42.202876  
+date: 2023-03-21 18:32:58.596630  
 categories: player  
 ---
 # Matt Faessler
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 59.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Queensland Reds    |            16 |     0.4375 |
-| Queensland Country |             6 |     0.5    |
+| Queensland Reds    |            17 |   0.470588 |
+| Queensland Country |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Brumbies                 |         3 |   0.333333 |
+| Fijian Drua              |         3 |   0.666667 |
 | Crusaders                |         2 |   0        |
-| Fijian Drua              |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
 | Western Force            |         2 |   1        |
 | Blues                    |         1 |   0        |

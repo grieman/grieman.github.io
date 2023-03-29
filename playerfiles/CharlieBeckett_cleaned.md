@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Charlie Beckett  
-date: 2023-02-02 19:10:38.506681  
+date: 2023-03-21 18:19:16.281348  
 categories: player  
 ---
 # Charlie Beckett
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 121.0
+## Current elo: 110.0
 
-## Current Percentile: 89.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Ampthill         |            40 |   0.4125   |
+| Ampthill         |            37 |   0.418919 |
 | Jersey           |            29 |   0.551724 |
 | Gloucester Rugby |             9 |   0.444444 |
 | Leicester Tigers |             3 |   1        |
@@ -30,13 +32,13 @@ categories: player
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| London Scottish     |         8 |   0.625    |
-| Bedford             |         7 |   0.285714 |
 | Cornish Pirates     |         7 |   0.5      |
 | Coventry            |         7 |   0.285714 |
 | Doncaster           |         7 |   0.428571 |
-| Ealing Trailfinders |         7 |   0        |
 | Hartpury College    |         7 |   0.571429 |
+| London Scottish     |         7 |   0.571429 |
+| Bedford             |         6 |   0.333333 |
+| Ealing Trailfinders |         6 |   0        |
 | Richmond            |         5 |   0.9      |
 | Nottingham          |         5 |   0.8      |
 | Jersey              |         4 |   0.125    |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: David Weersma  
-date: 2023-02-05 15:14:10.983047  
+date: 2023-03-21 18:09:22.744307  
 categories: player  
 ---
 # David Weersma
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Country: Netherlands
 
-## Current elo: 75.0
+## Current elo: 72.0
 
 ## Current Percentile: 2.0
 
@@ -23,13 +25,15 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Netherlands |             8 |          0 |
-| Delta       |             1 |          1 |
+| Netherlands |            14 |   0.285714 |
+| Delta       |             1 |   1        |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
-| Georgia         |         2 |          0 |
+| Georgia         |         4 |          0 |
+| Germany         |         3 |          1 |
 | Spain           |         2 |          0 |
+| Belgium         |         1 |          1 |
 | Brussels Devils |         1 |          1 |
 | Italy           |         1 |          0 |
 | Portugal        |         1 |          0 |

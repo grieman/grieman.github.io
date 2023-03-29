@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hiroshi Yamashita  
-date: 2023-03-17 17:38:09.976193  
+date: 2023-03-21 18:56:23.718858  
 categories: player  
 ---
 # Hiroshi Yamashita
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

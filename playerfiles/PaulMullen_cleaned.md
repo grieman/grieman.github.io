@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Paul Mullen  
-date: 2023-03-02 11:22:48.170453  
+date: 2023-03-21 18:24:11.220836  
 categories: player  
 ---
 # Paul Mullen
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: United States of America
 
 ## Current elo: 93.0
 
-## Current Percentile: 15.0
+## Current Percentile: 18.0
 
 # Elo History
 

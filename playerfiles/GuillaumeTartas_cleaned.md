@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Guillaume Tartas  
-date: 2023-01-13 11:28:23.558688  
+date: 2023-03-21 18:17:41.625574  
 categories: player  
 ---
 # Guillaume Tartas
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 130.0
+## Current elo: 126.0
 
-## Current Percentile: 96.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,26 +23,26 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            55 |   0.536364 |
+| Colomiers |            61 |    0.54918 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Beziers                    |         6 |   0.666667 |
+| Beziers                    |         7 |   0.714286 |
 | Nevers                     |         5 |   0.8      |
-| Provence Rugby             |         4 |   0.5      |
+| Grenoble                   |         5 |   0.6      |
+| Oyonnax                    |         5 |   0.3      |
+| Biarritz Olympique         |         4 |   0.25     |
 | Carcassonne                |         4 |   0.75     |
-| Grenoble                   |         4 |   0.75     |
-| Oyonnax                    |         4 |   0.375    |
-| Vannes                     |         3 |   0.666667 |
-| Biarritz Olympique         |         3 |   0        |
-| Mont-de-Marsan             |         3 |   0.333333 |
-| Aurillac                   |         3 |   0.333333 |
+| Provence Rugby             |         4 |   0.5      |
+| Aurillac                   |         4 |   0.5      |
+| Agen                       |         3 |   0.666667 |
 | Rouen                      |         3 |   0.666667 |
-| Valence Romans Drome Rugby |         2 |   0.5      |
-| US Bressane                |         2 |   0.5      |
-| Agen                       |         2 |   0.5      |
+| Vannes                     |         3 |   0.666667 |
+| Mont-de-Marsan             |         3 |   0.333333 |
 | Perpignan                  |         2 |   0.5      |
 | Massy                      |         2 |   1        |
-| Soyaux-Angouleme           |         1 |   0        |
+| US Bressane                |         2 |   0.5      |
+| Valence Romans Drome Rugby |         2 |   0.5      |
 | Bayonne                    |         1 |   0        |
+| Soyaux-Angouleme           |         1 |   0        |
 | Montauban                  |         1 |   0        |

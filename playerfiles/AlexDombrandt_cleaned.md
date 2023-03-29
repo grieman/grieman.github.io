@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Alex Dombrandt  
-date: 2023-03-17 17:21:21.847584  
+date: 2023-03-21 18:55:41.413268  
 categories: player  
 ---
 # Alex Dombrandt
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: England
 
-## Current elo: 129.0
+## Current elo: 137.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Harlequins |           101 |   0.574257 |
-| England    |            13 |   0.615385 |
+| England    |            14 |   0.571429 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -47,13 +49,13 @@ categories: player
 | Ulster              |         2 |   0        |
 | Sharks              |         2 |   0.5      |
 | Scotland            |         2 |   0        |
+| Ireland             |         2 |   0        |
 | Agen                |         2 |   1        |
 | Clermont Auvergne   |         2 |   0        |
 | Montpellier Herault |         2 |   0.5      |
 | France              |         2 |   0        |
 | Italy               |         2 |   1        |
 | Munster             |         1 |   0        |
-| Ireland             |         1 |   0        |
 | Canada              |         1 |   1        |
 | Australia           |         1 |   1        |
 | South Africa        |         1 |   1        |

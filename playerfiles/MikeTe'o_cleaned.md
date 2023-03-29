@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mike Te'o  
-date: 2023-03-17 17:13:36.748748  
+date: 2023-03-21 18:05:01.029807  
 categories: player  
 ---
 # Mike Te'o
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: United States of America

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Naoto Shimada  
-date: 2023-03-17 17:30:16.703443  
+date: 2023-03-21 18:42:40.132169  
 categories: player  
 ---
 # Naoto Shimada
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 108.0
 
-## Current Percentile: 48.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,17 +23,17 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            70 |   0.485714 |
+| Yokohama Canon Eagles |            71 |   0.464789 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Saitama Wild Knights              |         8 |   0        |
-| Kobelco Kobe Steelers             |         7 |   0.428571 |
 | Black Rams Tokyo                  |         6 |   0.5      |
 | Shizuoka Blue Revs                |         6 |   0.416667 |
 | Green Rockets Tokatsu             |         6 |   0.833333 |
+| Kobelco Kobe Steelers             |         6 |   0.333333 |
+| Kubota Spears Funabashi Tokyo-Bay |         6 |   0.333333 |
 | Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
-| Kubota Spears Funabashi Tokyo-Bay |         4 |   0.5      |
 | Toyota Industries Shuttles Aichi  |         4 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         4 |   0.5      |
 | Toyota Verblitz                   |         3 |   0.666667 |

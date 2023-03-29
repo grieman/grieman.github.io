@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Gherardus Jacobus Labuschagne  
-date: 2023-03-17 17:19:14.251371  
+date: 2023-03-21 18:28:58.825953  
 categories: player  
 ---
 # Gherardus Jacobus Labuschagne
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 102.0
 
-## Current Percentile: 60.0
+## Current Percentile: 58.0
 
 # Elo History
 

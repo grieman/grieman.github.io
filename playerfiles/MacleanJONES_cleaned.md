@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Maclean JONES  
-date: 2023-03-16 20:06:48.934960  
+date: 2023-03-29 11:30:13.843074  
 categories: player  
 ---
 # Maclean JONES
 
+
+Last updated: 2023-03-29
 ## Positions: FL
 
 ## Current elo: 83.0

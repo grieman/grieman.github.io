@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Philippus Jacobus Snyman (JP) du Plessis  
-date: 2023-03-16 19:56:47.786093  
+date: 2023-03-21 18:47:22.873830  
 categories: player  
 ---
 # Philippus Jacobus Snyman (JP) du Plessis
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 97.0
 
-## Current Percentile: 20.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| NOLA Gold |             5 |        0.2 |
+| NOLA Gold |             6 |   0.333333 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -29,3 +31,4 @@ categories: player
 | Houston SaberCats      |         1 |          0 |
 | Rugby ATL              |         1 |          0 |
 | Rugby New York         |         1 |          1 |
+| Utah Warriors          |         1 |          1 |

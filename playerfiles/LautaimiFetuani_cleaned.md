@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lautaimi Fetuani  
-date: 2023-03-17 17:09:06.500113  
+date: 2023-03-21 18:03:41.985154  
 categories: player  
 ---
 # Lautaimi Fetuani
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 85.0
+## Current elo: 89.0
 
-## Current Percentile: 12.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            35 |   0.571429 |
+| Toyota Verblitz |            36 |   0.555556 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Saitama Wild Knights              |         4 |   0        |
+| Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
 | Tokyo Sungoliath                  |         4 |   0.25     |
 | Yokohama Canon Eagles             |         3 |   0.333333 |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.666667 |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   0.666667 |
 | Urayasu D-Rocks                   |         2 |   0.5      |
 | Shizuoka Blue Revs                |         2 |   0.5      |

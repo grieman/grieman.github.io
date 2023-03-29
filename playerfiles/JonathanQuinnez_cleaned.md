@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jonathan Quinnez  
-date: 2023-03-17 17:37:41.381592  
+date: 2023-03-21 18:22:08.825422  
 categories: player  
 ---
 # Jonathan Quinnez
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 91.0
+## Current Percentile: 88.0
 
 # Elo History
 

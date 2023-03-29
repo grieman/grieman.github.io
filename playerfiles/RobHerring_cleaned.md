@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rob Herring  
-date: 2023-03-17 17:36:33.273267  
+date: 2023-03-21 18:40:41.610405  
 categories: player  
 ---
 # Rob Herring
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Ireland
@@ -24,7 +26,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Ulster       |           234 |   0.66453  |
-| Ireland      |            30 |   0.833333 |
+| Ireland      |            31 |   0.83871  |
 | London Irish |             9 |   0.333333 |
 | Munster      |             1 |   1        |
 
@@ -50,6 +52,7 @@ categories: player
 | Saracens                 |         4 |   0        |
 | Southern Kings           |         4 |   1        |
 | Australia                |         4 |   0.75     |
+| England                  |         4 |   0.75     |
 | Italy                    |         4 |   1        |
 | Wales                    |         3 |   0.666667 |
 | Gloucester Rugby         |         3 |   0        |
@@ -58,7 +61,6 @@ categories: player
 | Bath Rugby               |         3 |   0.666667 |
 | France                   |         3 |   0.333333 |
 | New Zealand              |         3 |   1        |
-| England                  |         3 |   0.666667 |
 | Wasps                    |         2 |   0.5      |
 | Stormers                 |         2 |   0        |
 | Sale Sharks              |         2 |   0.5      |

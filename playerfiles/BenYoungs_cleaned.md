@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ben Youngs  
-date: 2023-03-17 17:42:04.575770  
+date: 2023-03-21 18:16:19.560805  
 categories: player  
 ---
 # Ben Youngs
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: England
 
 ## Current elo: 91.0
 
-## Current Percentile: 34.0
+## Current Percentile: 35.0
 
 # Elo History
 

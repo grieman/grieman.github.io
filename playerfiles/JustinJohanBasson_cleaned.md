@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Justin Johan Basson  
-date: 2023-02-24 02:30:02.641166  
+date: 2023-03-21 18:31:36.093241  
 categories: player  
 ---
 # Justin Johan Basson
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 97.0
+## Current elo: 101.0
 
-## Current Percentile: 32.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Rugby ATL |             1 |          1 |
-| Sharks    |             1 |          0 |
+| Rugby ATL |             7 |   0.571429 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Cardiff Blues  |         1 |          0 |
-| Toronto Arrows |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| NOLA Gold         |         2 |          1 |
+| Seattle Seawolves |         2 |          0 |
+| Toronto Arrows    |         2 |          1 |
+| San Diego Legion  |         1 |          0 |

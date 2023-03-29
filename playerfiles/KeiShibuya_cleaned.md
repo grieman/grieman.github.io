@@ -1,25 +1,32 @@
 ---  
 layout: page  
 title: Kei Shibuya  
-date: 2023-01-13 11:23:44.072636  
+date: 2023-03-21 17:57:09.345712  
 categories: player  
 ---
 # Kei Shibuya
 
-## Positions: 
 
-## Current elo: 94.0
+Last updated: 2023-03-21
+## Positions: P
 
-## Current Percentile: None
+## Current elo: 92.0
 
+## Current Percentile: 26.0
+
+# Elo History
+
+
+![elo history](history_KeiShibuya.png)
 # Match History
 
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             2 |        0.5 |
+| Kurita Water Gush |             4 |       0.25 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Kyuden Voltex       |         1 |          0 |
-| Skyactivs Hiroshima |         1 |          1 |
+| Opponent              |   Matches |   Win Rate |
+|:----------------------|----------:|-----------:|
+| Kyuden Voltex         |         2 |          0 |
+| Chugoku Red Regulions |         1 |          0 |
+| Skyactivs Hiroshima   |         1 |          1 |

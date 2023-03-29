@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Gwyn Parks  
-date: 2023-01-21 15:42:02.359048  
+date: 2023-03-21 18:11:32.360752  
 categories: player  
 ---
 # Gwyn Parks
 
-## Positions: FH
 
-## Current elo: 90.0
+Last updated: 2023-03-21
+## Positions: FH, C
 
-## Current Percentile: 28.0
+## Current elo: 92.0
+
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Ampthill |            10 |       0.25 |
+| Ampthill |            12 |   0.291667 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Cornish Pirates     |         2 |        0   |
+| Doncaster           |         2 |        0.5 |
 | Ealing Trailfinders |         2 |        0   |
 | Bedford             |         1 |        0   |
 | Caldy               |         1 |        1   |
-| Cornish Pirates     |         1 |        0   |
 | Coventry            |         1 |        0   |
-| Doncaster           |         1 |        0   |
 | Jersey              |         1 |        0   |
 | London Scottish     |         1 |        1   |
 | Richmond            |         1 |        0.5 |

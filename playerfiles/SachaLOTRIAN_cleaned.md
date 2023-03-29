@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sacha LOTRIAN  
-date: 2023-03-12 11:33:09.647023  
+date: 2023-03-29 11:29:45.973662  
 categories: player  
 ---
 # Sacha LOTRIAN
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 110.0

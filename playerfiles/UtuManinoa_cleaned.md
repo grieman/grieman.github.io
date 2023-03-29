@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Utu Maninoa  
-date: 2023-03-16 19:45:50.535744  
+date: 2023-03-21 18:07:40.323199  
 categories: player  
 ---
 # Utu Maninoa
 
+
+Last updated: 2023-03-21
 ## Positions: N8, L
 
 ## Current elo: 77.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Andy Uren  
-date: 2023-03-17 17:24:36.984692  
+date: 2023-03-21 18:36:20.572551  
 categories: player  
 ---
 # Andy Uren
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 83.0
+## Current elo: 82.0
 
-## Current Percentile: 14.0
+## Current Percentile: 12.0
 
 # Elo History
 

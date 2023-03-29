@@ -1,31 +1,37 @@
 ---  
 layout: page  
 title: George Cave  
-date: 2023-02-02 18:51:26.952853  
+date: 2023-03-21 18:13:08.379454  
 categories: player  
 ---
 # George Cave
 
-## Positions: 
 
-## Current elo: 95.0
+Last updated: 2023-03-21
+## Positions: P
 
-## Current Percentile: None
+## Current elo: 92.0
 
+## Current Percentile: 18.0
+
+# Elo History
+
+
+![elo history](history_GeorgeCave.png)
 # Match History
 
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |             9 |   0.277778 |
+| Richmond |            10 |       0.25 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Bedford          |         2 |        0.5 |
 | Caldy            |         2 |        0   |
 | Ampthill         |         1 |        0.5 |
-| Bedford          |         1 |        1   |
-| Coventry         |         1 |        0   |
 | Doncaster        |         1 |        0   |
 | Hartpury College |         1 |        0   |
 | Jersey           |         1 |        0   |
 | London Scottish  |         1 |        1   |
+| Nottingham       |         1 |        0   |

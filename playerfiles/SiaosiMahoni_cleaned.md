@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Siaosi Mahoni  
-date: 2023-03-17 17:41:30.713906  
+date: 2023-03-21 18:17:30.171032  
 categories: player  
 ---
 # Siaosi Mahoni
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 86.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Facundo Pomponio  
-date: 2023-03-17 17:05:08.929891  
+date: 2023-03-21 18:27:27.884575  
 categories: player  
 ---
 # Facundo Pomponio
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 95.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lodewyk de Jager  
-date: 2023-03-17 17:11:17.834300  
+date: 2023-03-21 18:53:12.817716  
 categories: player  
 ---
 # Lodewyk de Jager
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 104.0
 
-## Current Percentile: 87.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |             8 |          1 |
+| Saitama Wild Knights |             9 |          1 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Mitsubishi Dynaboars              |         2 |          1 |
 | Black Rams Tokyo                  |         1 |          1 |
 | Green Rockets Tokatsu             |         1 |          1 |
 | Hanazono Kintetsu Liners          |         1 |          1 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          1 |
-| Mitsubishi Dynaboars              |         1 |          1 |
 | Tokyo Sungoliath                  |         1 |          1 |
 | Toyota Verblitz                   |         1 |          1 |
 | Yokohama Canon Eagles             |         1 |          1 |

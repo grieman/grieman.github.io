@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Juan Ignacio Brex  
-date: 2023-03-17 17:23:52.749344  
+date: 2023-03-21 18:54:20.042126  
 categories: player  
 ---
 # Juan Ignacio Brex
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Italy
 
-## Current elo: 102.0
+## Current elo: 107.0
 
-## Current Percentile: 85.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            64 |   0.476562 |
-| Italy            |            22 |   0.227273 |
+| Italy            |            23 |   0.217391 |
 | San Cirano       |            21 |   0.404762 |
 
 | Opponent             |   Matches |   Win Rate |
@@ -36,13 +38,13 @@ categories: player
 | Cardiff Blues        |         4 |   0.25     |
 | Dragons              |         4 |   1        |
 | Southern Kings       |         4 |   1        |
+| Scotland             |         3 |   0        |
 | Toulon               |         3 |   0        |
 | Wales                |         3 |   0.333333 |
 | Leinster             |         3 |   0        |
 | Ireland              |         3 |   0        |
 | France               |         3 |   0        |
 | England              |         3 |   0        |
-| Scotland             |         2 |   0        |
 | Ospreys              |         2 |   0.5      |
 | Lomas                |         2 |   0        |
 | Regatas Bella Vista  |         2 |   0.5      |

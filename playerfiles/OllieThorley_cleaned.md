@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ollie Thorley  
-date: 2023-03-17 17:19:56.854433  
+date: 2023-03-21 18:29:19.230426  
 categories: player  
 ---
 # Ollie Thorley
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: England
 
 ## Current elo: 115.0
 
-## Current Percentile: 91.0
+## Current Percentile: 88.0
 
 # Elo History
 

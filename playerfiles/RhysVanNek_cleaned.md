@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rhys Van Nek  
-date: 2023-03-17 17:11:35.442835  
+date: 2023-03-21 18:47:37.337811  
 categories: player  
 ---
 # Rhys Van Nek
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 105.0
 
-## Current Percentile: None
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Melbourne Rebels |            10 |        0.2 |
-| Brumbies         |             3 |        1   |
+| Brumbies         |             4 |        1   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,4 +35,5 @@ categories: player
 | Blues                    |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Chiefs                   |         1 |   0        |
+| Moana Pasifika           |         1 |   1        |
 | Western Force            |         1 |   1        |

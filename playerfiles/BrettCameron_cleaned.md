@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Brett Cameron  
-date: 2023-03-16 20:05:10.374731  
+date: 2023-03-21 18:44:11.411168  
 categories: player  
 ---
 # Brett Cameron
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: New Zealand
 
-## Current elo: 95.0
+## Current elo: 94.0
 
-## Current Percentile: 50.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -27,7 +29,7 @@ categories: player
 | Crusaders         |            17 |   0.735294 |
 | Manawatu          |            16 |   0.25     |
 | Kamaishi Seawaves |             9 |   0.111111 |
-| Hurricanes        |             1 |   0        |
+| Hurricanes        |             2 |   0.5      |
 | New Zealand       |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,6 +44,7 @@ categories: player
 | Chiefs                   |         3 |   0.666667 |
 | Highlanders              |         3 |   0.666667 |
 | Taranaki                 |         3 |   0.333333 |
+| New South Wales Waratahs |         3 |   0.666667 |
 | Skyactivs Hiroshima      |         2 |   0.5      |
 | Canterbury               |         2 |   0        |
 | Hino Red Dolphins        |         2 |   0        |
@@ -50,7 +53,6 @@ categories: player
 | Manawatu                 |         2 |   0.5      |
 | Blues                    |         2 |   0.5      |
 | Mie Honda Heat           |         2 |   0        |
-| New South Wales Waratahs |         2 |   0.5      |
 | Hanazono Kintetsu Liners |         2 |   0        |
 | Northland                |         2 |   1        |
 | Southland                |         2 |   1        |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Manu Leiataua  
-date: 2023-02-02 19:02:05.440397  
+date: 2023-03-21 18:46:01.515614  
 categories: player  
 ---
 # Manu Leiataua
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Samoa
 
-## Current elo: 91.0
+## Current elo: 86.0
 
-## Current Percentile: 45.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -23,37 +25,37 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Oyonnax       |            52 |   0.730769 |
-| Aurillac      |            45 |   0.577778 |
+| Oyonnax       |            51 |   0.72549  |
+| Aurillac      |            47 |   0.574468 |
 | Bayonne       |            41 |   0.329268 |
 | Perpignan     |            17 |   0.176471 |
-| Samoa         |            15 |   0.2      |
+| Samoa         |            16 |   0.1875   |
 | North Harbour |            10 |   0.3      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |        10 |   0.8      |
 | Montauban                  |         9 |   0.555556 |
-| Beziers                    |         8 |   0.75     |
-| Grenoble                   |         7 |   0.428571 |
+| Beziers                    |         7 |   0.714286 |
 | Biarritz Olympique         |         7 |   0.428571 |
-| Mont-de-Marsan             |         7 |   0.571429 |
-| Perpignan                  |         6 |   0.416667 |
+| Grenoble                   |         7 |   0.428571 |
+| Mont-de-Marsan             |         7 |   0.714286 |
+| Perpignan                  |         7 |   0.357143 |
+| Colomiers                  |         6 |   0.333333 |
 | Lyon                       |         5 |   0.3      |
 | Pau                        |         5 |   0.3      |
 | Aurillac                   |         5 |   0.8      |
 | Vannes                     |         5 |   0.8      |
+| Bayonne                    |         5 |   0.4      |
 | Soyaux-Angouleme           |         5 |   0.8      |
 | Provence Rugby             |         5 |   0.8      |
-| Colomiers                  |         5 |   0.2      |
-| Nevers                     |         4 |   0.75     |
 | Dax                        |         4 |   0.5      |
 | Massy                      |         4 |   0.75     |
 | La Rochelle                |         4 |   0        |
-| Bayonne                    |         4 |   0.5      |
-| Rouen                      |         3 |   0.666667 |
+| Scotland                   |         4 |   0.25     |
+| Nevers                     |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
-| Scotland                   |         3 |   0.333333 |
+| Rouen                      |         3 |   0.666667 |
 | Toulon                     |         3 |   0.333333 |
 | Albi                       |         3 |   0        |
 | Racing 92                  |         3 |   0        |

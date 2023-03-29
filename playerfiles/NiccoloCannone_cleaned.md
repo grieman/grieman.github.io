@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Niccolo Cannone  
-date: 2023-03-17 17:27:52.485375  
+date: 2023-03-21 18:34:28.922508  
 categories: player  
 ---
 # Niccolo Cannone
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 94.0

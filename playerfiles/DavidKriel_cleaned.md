@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: David Kriel  
-date: 2023-03-17 17:28:47.149230  
+date: 2023-03-21 18:32:53.738136  
 categories: player  
 ---
 # David Kriel
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Current elo: 132.0

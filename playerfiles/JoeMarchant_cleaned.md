@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joe Marchant  
-date: 2023-03-17 17:38:42.118003  
+date: 2023-03-21 18:17:20.360881  
 categories: player  
 ---
 # Joe Marchant
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Harlequins |           145 |   0.52069  |
-| England    |            13 |   0.538462 |
+| England    |            14 |   0.5      |
 | Blues      |             7 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,8 +43,8 @@ categories: player
 | Worcester Warriors       |         8 |   0.5      |
 | Saracens                 |         8 |   0        |
 | London Irish             |         7 |   0.642857 |
+| Ireland                  |         4 |   0.25     |
 | Racing 92                |         3 |   0.333333 |
-| Ireland                  |         3 |   0.333333 |
 | Scotland                 |         2 |   0        |
 | Sharks                   |         2 |   0.5      |
 | Timisoara Saracens       |         2 |   1        |

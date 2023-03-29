@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daisuke Kodama  
-date: 2023-01-13 11:29:05.468306  
+date: 2023-03-21 18:47:40.083807  
 categories: player  
 ---
 # Daisuke Kodama
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 82.0
 
-## Current Percentile: 40.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,22 +23,27 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |            33 |   0.393939 |
+| Kyuden Voltex |            47 |   0.404255 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         5 |   1        |
-| Kamaishi Seawaves                |         3 |   0.666667 |
-| Kurita Water Gush                |         3 |   0.333333 |
-| Mazda Blue Zoomers               |         3 |   0.333333 |
+| Kurita Water Gush                |         6 |   0.5      |
+| Chugoku Red Regulions            |         6 |   1        |
+| Toyota Industries Shuttles Aichi |         4 |   0        |
+| Skyactivs Hiroshima              |         4 |   1        |
 | Shimizu Blue Sharks              |         3 |   0.666667 |
-| Toyota Industries Shuttles Aichi |         3 |   0        |
+| Kamaishi Seawaves                |         3 |   0.666667 |
+| Mazda Blue Zoomers               |         3 |   0.333333 |
+| NTT Docomo Red Hurricanes Osaka  |         3 |   0        |
 | Coca-Cola Red Sparks             |         2 |   0        |
 | Hanazono Kintetsu Liners         |         2 |   0        |
 | Munakata Sanix Blues             |         2 |   0        |
-| NTT Docomo Red Hurricanes Osaka  |         2 |   0        |
 | Chubu Electric Power             |         1 |   1        |
-| Hino Red Dolphins                |         1 |   0        |
+| Toyota Verblitz                  |         1 |   0        |
+| Tokyo Sungoliath                 |         1 |   0        |
 | Mie Honda Heat                   |         1 |   0        |
 | Mitsubishi Dynaboars             |         1 |   0        |
-| Skyactivs Hiroshima              |         1 |   1        |
+| Kobelco Kobe Steelers            |         1 |   0        |
+| Hino Red Dolphins                |         1 |   0        |
+| Green Rockets Tokatsu            |         1 |   0        |
+| Urayasu D-Rocks                  |         1 |   0        |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Tomos Williams  
-date: 2023-03-16 19:49:57.639426  
+date: 2023-03-21 18:31:28.034254  
 categories: player  
 ---
 # Tomos Williams
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Wales
 
-## Current elo: 116.0
+## Current elo: 120.0
 
-## Current Percentile: 91.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cardiff Blues |           131 |    0.51145 |
-| Wales         |            45 |    0.5     |
+| Wales         |            46 |    0.48913 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -39,10 +41,10 @@ categories: player
 | Benetton Treviso   |         6 |   0.583333 |
 | Ireland            |         6 |   0.166667 |
 | Connacht           |         6 |   0.5      |
+| France             |         6 |   0.333333 |
 | Zebre              |         6 |   0.666667 |
 | Pau                |         5 |   0.8      |
 | Ulster             |         5 |   0.5      |
-| France             |         5 |   0.4      |
 | Lyon               |         4 |   1        |
 | Australia          |         4 |   0.75     |
 | Argentina          |         4 |   0.625    |

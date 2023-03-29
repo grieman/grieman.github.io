@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ryan Mills  
-date: 2023-03-17 17:25:16.227041  
+date: 2023-03-21 18:37:23.016673  
 categories: player  
 ---
 # Ryan Mills
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Current elo: 96.0

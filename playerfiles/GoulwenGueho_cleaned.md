@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Goulwen Gueho  
-date: 2023-03-17 17:19:55.376989  
+date: 2023-03-21 18:25:14.740469  
 categories: player  
 ---
 # Goulwen Gueho
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
-## Current elo: 78.0
+## Current elo: 75.0
 
-## Current Percentile: 20.0
+## Current Percentile: 15.0
 
 # Elo History
 

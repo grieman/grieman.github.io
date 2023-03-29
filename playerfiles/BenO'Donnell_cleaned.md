@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Ben O'Donnell  
-date: 2023-03-17 17:24:20.421697  
+date: 2023-03-21 18:41:29.258822  
 categories: player  
 ---
 # Ben O'Donnell
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 88.0
+## Current elo: 89.0
 
 ## Current Percentile: None
 
@@ -22,13 +24,14 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Connacht |             5 |        0.2 |
-| Brumbies |             1 |        1   |
+| Brumbies |             2 |        1   |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
 | Dragons         |         1 |          0 |
 | Edinburgh       |         1 |          0 |
 | Leinster        |         1 |          1 |
+| Moana Pasifika  |         1 |          1 |
 | Munster         |         1 |          0 |
 | Queensland Reds |         1 |          1 |
 | Scarlets        |         1 |          0 |

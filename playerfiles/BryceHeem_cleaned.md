@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bryce Heem  
-date: 2023-03-17 17:43:27.738850  
+date: 2023-03-21 18:54:11.512637  
 categories: player  
 ---
 # Bryce Heem
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
-## Current elo: 120.0
+## Current elo: 118.0
 
-## Current Percentile: 92.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Worcester Warriors |            67 |   0.343284 |
 | Tasman             |            27 |   0.722222 |
 | Toulon             |            26 |   0.711538 |
-| Blues              |            23 |   0.826087 |
+| Blues              |            24 |   0.791667 |
 | Auckland           |            20 |   0.625    |
 | Chiefs             |            16 |   0.625    |
 | Northland          |            14 |   0.428571 |
@@ -41,8 +43,8 @@ categories: player
 | London Irish             |         6 |   0.666667 |
 | Sale Sharks              |         6 |   0.333333 |
 | Wasps                    |         6 |   0        |
+| Crusaders                |         6 |   0.5      |
 | Hawke's Bay              |         5 |   0.8      |
-| Crusaders                |         5 |   0.6      |
 | Saracens                 |         5 |   0.2      |
 | Southland                |         5 |   0.9      |
 | Tasman                   |         5 |   0.8      |

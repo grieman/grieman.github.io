@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Pedro Lucas  
-date: 2023-02-05 15:12:37.078071  
+date: 2023-03-21 18:28:25.766998  
 categories: player  
 ---
 # Pedro Lucas
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Portugal
 
-## Current elo: 91.0
+## Current elo: 96.0
 
-## Current Percentile: 30.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,21 +25,22 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Lusitanos XV |            12 |   0.833333 |
-| Portugal     |            10 |   0.55     |
+| Portugal     |            14 |   0.607143 |
+| Lusitanos XV |            11 |   0.909091 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Brussels Devils          |         3 |       1    |
-| Castilla y Leon Iberians |         3 |       1    |
-| Delta                    |         3 |       1    |
-| Georgia                  |         2 |       0.25 |
-| Romania                  |         2 |       0.5  |
-| Tel-Aviv Heat            |         2 |       0.5  |
-| Belgium                  |         1 |       1    |
-| Black Lion               |         1 |       0    |
-| Brazil                   |         1 |       1    |
-| Canada                   |         1 |       1    |
-| Netherlands              |         1 |       1    |
-| Russia                   |         1 |       0    |
-| Spain                    |         1 |       0    |
+| Brussels Devils          |         3 |   1        |
+| Castilla y Leon Iberians |         3 |   1        |
+| Delta                    |         3 |   1        |
+| Georgia                  |         3 |   0.166667 |
+| Romania                  |         3 |   0.666667 |
+| Spain                    |         2 |   0.5      |
+| Belgium                  |         1 |   1        |
+| Black Lion               |         1 |   0        |
+| Brazil                   |         1 |   1        |
+| Canada                   |         1 |   1        |
+| Netherlands              |         1 |   1        |
+| Poland                   |         1 |   1        |
+| Russia                   |         1 |   0        |
+| Tel-Aviv Heat            |         1 |   1        |

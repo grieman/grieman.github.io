@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nic Souchon  
-date: 2023-03-17 17:43:31.271805  
+date: 2023-03-21 18:41:46.224299  
 categories: player  
 ---
 # Nic Souchon
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 101.0

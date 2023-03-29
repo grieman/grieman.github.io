@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Stephan de Jager  
-date: 2023-03-17 17:28:12.838982  
+date: 2023-03-21 18:54:25.069371  
 categories: player  
 ---
 # Stephan de Jager
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 98.0
+## Current elo: 93.0
 
-## Current Percentile: 84.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Griffons |            18 |   0.833333 |
+| Griffons |            19 |   0.789474 |
 | Leopards |             3 |   0.333333 |
 
 | Opponent               |   Matches |   Win Rate |
@@ -32,6 +34,7 @@ categories: player
 | Valke                  |         3 |   1        |
 | Border Bulldogs        |         2 |   1        |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Griffons               |         1 |   0        |
 | Jaguares XV            |         1 |   0        |
 | Natal Sharks           |         1 |   0        |

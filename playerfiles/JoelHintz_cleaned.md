@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Joel Hintz  
-date: 2023-03-17 17:35:25.985259  
+date: 2023-03-21 18:17:02.245576  
 categories: player  
 ---
 # Joel Hintz
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 110.0
 
-## Current Percentile: 81.0
+## Current Percentile: 82.0
 
 # Elo History
 

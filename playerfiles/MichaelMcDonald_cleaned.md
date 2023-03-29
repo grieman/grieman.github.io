@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Michael McDonald  
-date: 2023-02-15 22:14:11.852502  
+date: 2023-03-21 18:15:21.055991  
 categories: player  
 ---
 # Michael McDonald
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 92.0

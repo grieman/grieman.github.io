@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Matthys Basson  
-date: 2023-01-15 11:44:54.903472  
+date: 2023-03-21 18:09:32.930179  
 categories: player  
 ---
 # Matthys Basson
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 95.0
 
-## Current Percentile: 40.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,19 +23,24 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
+| Mie Honda Heat |            18 |   0.777778 |
 | Blue Bulls     |            12 |   0.416667 |
-| Mie Honda Heat |             9 |   0.777778 |
 
-| Opponent                 |   Matches |   Win Rate |
-|:-------------------------|----------:|-----------:|
-| Golden Lions             |         3 |   0.333333 |
-| Western Province         |         3 |   0        |
-| Griquas                  |         2 |   1        |
-| Hanazono Kintetsu Liners |         2 |   0        |
-| Hino Red Dolphins        |         2 |   1        |
-| Kamaishi Seawaves        |         2 |   1        |
-| Natal Sharks             |         2 |   0        |
-| Skyactivs Hiroshima      |         2 |   1        |
-| Free State Cheetahs      |         1 |   1        |
-| Mitsubishi Dynaboars     |         1 |   1        |
-| Pumas                    |         1 |   1        |
+| Opponent                         |   Matches |   Win Rate |
+|:---------------------------------|----------:|-----------:|
+| Golden Lions                     |         3 |   0.333333 |
+| Kamaishi Seawaves                |         3 |   1        |
+| Western Province                 |         3 |   0        |
+| Griquas                          |         2 |   1        |
+| Hanazono Kintetsu Liners         |         2 |   0        |
+| Hino Red Dolphins                |         2 |   1        |
+| Mitsubishi Dynaboars             |         2 |   1        |
+| Natal Sharks                     |         2 |   0        |
+| Shimizu Blue Sharks              |         2 |   1        |
+| Skyactivs Hiroshima              |         2 |   1        |
+| Toyota Industries Shuttles Aichi |         2 |   1        |
+| Free State Cheetahs              |         1 |   1        |
+| Green Rockets Tokatsu            |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka  |         1 |   0        |
+| Pumas                            |         1 |   1        |
+| Toshiba Brave Lupus Tokyo        |         1 |   0        |

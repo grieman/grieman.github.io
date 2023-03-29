@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tevita Langi  
-date: 2023-03-17 17:30:48.035788  
+date: 2023-03-21 18:49:58.845716  
 categories: player  
 ---
 # Tevita Langi
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 91.0

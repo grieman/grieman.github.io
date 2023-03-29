@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ludio Fernando Williams  
-date: 2023-03-17 17:31:15.875914  
+date: 2023-03-20 15:47:34.064713  
 categories: player  
 ---
 # Ludio Fernando Williams
 
+
+Last updated: 2023-03-20
 ## Positions: FL
 
 ## Current elo: 90.0

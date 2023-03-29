@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Ethan Caine  
-date: 2023-02-24 02:33:15.143238  
+date: 2023-03-21 18:20:50.393746  
 categories: player  
 ---
 # Ethan Caine
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 92.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,10 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |             3 |          0 |
+| Caldy  |             4 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Coventry         |         2 |          0 |
 | Ampthill         |         1 |          0 |
-| Coventry         |         1 |          0 |
 | Hartpury College |         1 |          0 |

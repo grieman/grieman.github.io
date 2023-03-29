@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Frank Lomani  
-date: 2023-03-17 17:21:29.504772  
+date: 2023-03-21 18:34:50.085672  
 categories: player  
 ---
 # Frank Lomani
 
+
+Last updated: 2023-03-21
 ## Positions: SH, W
 
 ## Country: Fiji
 
-## Current elo: 86.0
+## Current elo: 88.0
 
-## Current Percentile: 22.0
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,17 +25,17 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
+| Fijian Drua        |            28 |   0.5      |
 | Melbourne Rebels   |            28 |   0.375    |
-| Fijian Drua        |            27 |   0.518519 |
 | Fiji               |            18 |   0.416667 |
 | Northampton Saints |             6 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | New South Wales Waratahs |         7 |  0.571429  |
+| Queensland Reds          |         7 |  0.0714286 |
 | Brumbies                 |         6 |  0.166667  |
 | Western Force            |         6 |  0.666667  |
-| Queensland Reds          |         6 |  0.0833333 |
 | Highlanders              |         3 |  0.333333  |
 | Tonga                    |         3 |  0.666667  |
 | Queensland Country       |         3 |  0.333333  |

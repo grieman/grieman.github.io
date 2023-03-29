@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Corrie Barrett  
-date: 2023-02-02 19:07:10.917195  
+date: 2023-03-21 18:12:09.163368  
 categories: player  
 ---
 # Corrie Barrett
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 95.0
+## Current elo: 87.0
 
-## Current Percentile: 57.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            28 |        0.5 |
+| Bedford |            29 |   0.517241 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,5 +36,5 @@ categories: player
 | Ampthill            |         2 |   0.5      |
 | Caldy               |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0.5      |
+| Richmond            |         2 |   0.5      |
 | Jersey              |         1 |   0        |
-| Richmond            |         1 |   0        |

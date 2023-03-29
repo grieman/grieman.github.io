@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nepo Laulala  
-date: 2023-03-17 17:18:42.559258  
+date: 2023-03-21 18:56:56.647033  
 categories: player  
 ---
 # Nepo Laulala
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand
 
-## Current elo: 121.0
+## Current elo: 120.0
 
 ## Current Percentile: 96.0
 
@@ -27,7 +29,7 @@ categories: player
 | Canterbury       |            41 |   0.780488 |
 | Chiefs           |            41 |   0.52439  |
 | Crusaders        |            36 |   0.638889 |
-| Blues            |            30 |   0.766667 |
+| Blues            |            31 |   0.741935 |
 | Counties Manukau |             4 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,7 +38,7 @@ categories: player
 | Australia                |        13 |   0.846154 |
 | Hurricanes               |        13 |   0.5      |
 | Blues                    |        12 |   0.625    |
-| Crusaders                |        11 |   0.181818 |
+| Crusaders                |        12 |   0.166667 |
 | Brumbies                 |         8 |   0.75     |
 | Chiefs                   |         8 |   0.375    |
 | Argentina                |         7 |   0.857143 |

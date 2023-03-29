@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jordie Barrett  
-date: 2023-03-17 17:04:11.833302  
+date: 2023-03-21 18:04:21.573005  
 categories: player  
 ---
 # Jordie Barrett
 
+
+Last updated: 2023-03-21
 ## Positions: FB, C
 
 ## Country: New Zealand

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Faulua Makisi  
-date: 2023-03-17 17:36:56.479064  
+date: 2023-03-21 18:34:15.713525  
 categories: player  
 ---
 # Faulua Makisi
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Japan

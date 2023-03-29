@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Val Rapava-Ruskin  
-date: 2023-03-17 17:15:42.812943  
+date: 2023-03-21 18:43:14.671743  
 categories: player  
 ---
 # Val Rapava-Ruskin
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 81.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Francois Kleinhans  
-date: 2023-03-17 17:10:39.866595  
+date: 2023-03-21 18:22:59.731829  
 categories: player  
 ---
 # Francois Kleinhans
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 106.0

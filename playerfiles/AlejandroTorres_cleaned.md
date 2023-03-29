@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alejandro Torres  
-date: 2023-03-16 19:58:54.253187  
+date: 2023-03-21 18:05:48.579111  
 categories: player  
 ---
 # Alejandro Torres
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Current elo: 67.0
 
-## Current Percentile: 2.0
+## Current Percentile: 3.0
 
 # Elo History
 

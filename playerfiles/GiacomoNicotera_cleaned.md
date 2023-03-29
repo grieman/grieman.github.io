@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Giacomo Nicotera  
-date: 2023-03-17 17:32:38.783968  
+date: 2023-03-21 18:17:12.700437  
 categories: player  
 ---
 # Giacomo Nicotera
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Italy
 
-## Current elo: 123.0
+## Current elo: 128.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Benetton Treviso     |            27 |   0.518519 |
 | Femi CZ Rugby Rovigo |            14 |   0.75     |
-| Italy                |            11 |   0.363636 |
+| Italy                |            12 |   0.333333 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -41,9 +43,9 @@ categories: player
 | Rugby Colorno 1975     |         2 |   1        |
 | Rugby Viadana 1970     |         2 |   1        |
 | Glasgow Warriors       |         2 |   0.5      |
+| Scotland               |         2 |   0        |
 | Samoa                  |         1 |   1        |
 | Stade Francais Paris   |         1 |   1        |
-| Scotland               |         1 |   0        |
 | South Africa           |         1 |   0        |
 | Stormers               |         1 |   1        |
 | Toulon                 |         1 |   0        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Freddie Clarke  
-date: 2023-03-17 17:13:24.124210  
+date: 2023-03-21 18:17:11.561514  
 categories: player  
 ---
 # Freddie Clarke
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 90.0

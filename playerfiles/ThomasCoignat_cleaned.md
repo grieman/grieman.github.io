@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thomas Coignat  
-date: 2023-03-17 17:24:46.398560  
+date: 2023-03-20 15:46:31.198393  
 categories: player  
 ---
 # Thomas Coignat
 
+
+Last updated: 2023-03-20
 ## Positions: N8, FL
 
 ## Current elo: 95.0
@@ -21,14 +23,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            58 |   0.491379 |
+| Chambery |            57 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         5 |   0        |
 | Bourgoin-Jallieu           |         5 |   0.4      |
-| Tarbes                     |         5 |   0.6      |
 | Dax                        |         5 |   0.2      |
+| Tarbes                     |         4 |   0.75     |
 | Suresnes                   |         4 |   0.75     |
 | Nice                       |         4 |   0.5      |
 | Aubenas                    |         4 |   0.5      |

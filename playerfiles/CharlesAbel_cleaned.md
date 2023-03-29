@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Charles Abel  
-date: 2023-03-16 19:48:46.442893  
+date: 2023-03-21 18:07:34.746564  
 categories: player  
 ---
 # Charles Abel
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 60.0
+## Current elo: 58.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | L. A. Giltinis     |            31 |   0.709677 |
 | Sydney Rays        |             6 |   0.166667 |
-| Chicago Hounds     |             3 |   0        |
+| Chicago Hounds     |             4 |   0.25     |
 | NSW Country Eagles |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
@@ -32,6 +34,7 @@ categories: player
 | Austin Gilgronis       |         4 |   0.75     |
 | Houston SaberCats      |         4 |   0.75     |
 | San Diego Legion       |         4 |   0.75     |
+| Dallas Jackals         |         3 |   1        |
 | Seattle Seawolves      |         3 |   0.666667 |
 | R.U. New York          |         2 |   0.5      |
 | Toronto Arrows         |         2 |   0.5      |
@@ -40,7 +43,6 @@ categories: player
 | Queensland Country     |         2 |   0.5      |
 | Old Glory DC           |         2 |   0.5      |
 | New England Free Jacks |         2 |   1        |
-| Dallas Jackals         |         2 |   1        |
 | Brisbane City          |         1 |   0        |
 | Melbourne Rising       |         1 |   0        |
 | Fijian Drua            |         1 |   0        |

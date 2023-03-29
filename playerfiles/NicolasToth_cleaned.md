@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas Toth  
-date: 2023-01-13 11:27:49.194468  
+date: 2023-03-21 18:35:15.062639  
 categories: player  
 ---
 # Nicolas Toth
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 90.0
 
-## Current Percentile: 28.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |             7 |   0.357143 |
+| Provence Rugby |            10 |        0.4 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Biarritz Olympique |         1 |        0   |
-| Grenoble           |         1 |        0.5 |
-| Montauban          |         1 |        1   |
-| Narbonne           |         1 |        0   |
-| Nevers             |         1 |        0   |
-| Rouen              |         1 |        0   |
-| Vannes             |         1 |        1   |
+| Biarritz Olympique |         2 |       0.5  |
+| Rouen              |         2 |       0.25 |
+| Vannes             |         2 |       0.5  |
+| Grenoble           |         1 |       0.5  |
+| Montauban          |         1 |       1    |
+| Narbonne           |         1 |       0    |
+| Nevers             |         1 |       0    |

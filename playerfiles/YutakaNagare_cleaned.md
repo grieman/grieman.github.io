@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yutaka Nagare  
-date: 2023-03-17 17:20:29.366935  
+date: 2023-03-20 15:45:15.176574  
 categories: player  
 ---
 # Yutaka Nagare
 
+
+Last updated: 2023-03-20
 ## Positions: SH
 
 ## Country: Japan

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Eli Snyman  
-date: 2023-03-16 21:10:13.216915  
+date: 2023-03-21 18:00:40.913623  
 categories: player  
 ---
 # Eli Snyman
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 93.0

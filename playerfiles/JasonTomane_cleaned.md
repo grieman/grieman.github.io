@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jason Tomane  
-date: 2023-02-15 22:12:26.591781  
+date: 2023-03-21 17:59:01.006458  
 categories: player  
 ---
 # Jason Tomane
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Romania
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 23.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -23,13 +25,12 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Romania         |             9 |   0.666667 |
-| Romanian Wolves |             1 |   0        |
+| Romania         |             8 |      0.625 |
+| Romanian Wolves |             1 |      0     |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
 | Uruguay     |         3 |   0.666667 |
-| Belgium     |         1 |   1        |
 | Georgia     |         1 |   0        |
 | Netherlands |         1 |   1        |
 | Portugal    |         1 |   1        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Maka Polutele  
-date: 2023-02-02 19:08:20.071078  
+date: 2023-03-21 18:19:25.380335  
 categories: player  
 ---
 # Maka Polutele
 
-## Positions: L, N8
 
-## Current elo: 51.0
+Last updated: 2023-03-21
+## Positions: L
 
-## Current Percentile: 0.0
+## Current elo: 97.0
+
+## Current Percentile: None
 
 # Elo History
 
@@ -19,37 +21,16 @@ categories: player
 # Match History
 
 
-| Team     |   Appearances |   Win Rate |
-|:---------|--------------:|-----------:|
-| Chambery |            20 |   0.4      |
-| Dax      |            13 |   0.461538 |
-| Nevers   |            12 |   0.416667 |
-| Bayonne  |             6 |   0.166667 |
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Nevers |             7 |   0.642857 |
 
-| Opponent                   |   Matches |   Win Rate |
-|:---------------------------|----------:|-----------:|
-| Massy                      |         5 |   0.4      |
-| Albi                       |         4 |   0        |
-| Blagnac                    |         4 |   0.5      |
-| Tarbes                     |         3 |   0.666667 |
-| Suresnes                   |         3 |   0.666667 |
-| Dijon                      |         3 |   1        |
-| Valence Romans Drome Rugby |         2 |   0        |
-| Soyaux-Angouleme           |         2 |   1        |
-| Oyonnax                    |         2 |   0        |
-| Nice                       |         2 |   0.5      |
-| Narbonne                   |         2 |   0        |
-| Montauban                  |         2 |   0        |
-| Vannes                     |         2 |   0.5      |
-| Grenoble                   |         2 |   0        |
-| Cognac Saint Jean d'Angély |         2 |   0.5      |
-| Bourgoin-Jallieu           |         2 |   0.5      |
-| Mont-de-Marsan             |         1 |   0        |
-| Dax                        |         1 |   0        |
-| Chambery                   |         1 |   1        |
-| Perpignan                  |         1 |   0        |
-| Provence Rugby             |         1 |   1        |
-| Carcassonne                |         1 |   0        |
-| Aurillac                   |         1 |   0        |
-| Aubenas                    |         1 |   0        |
-| Agen                       |         1 |   1        |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Aurillac           |         1 |        1   |
+| Beziers            |         1 |        0.5 |
+| Biarritz Olympique |         1 |        1   |
+| Oyonnax            |         1 |        0   |
+| Provence Rugby     |         1 |        0   |
+| Soyaux-Angouleme   |         1 |        1   |
+| Vannes             |         1 |        1   |

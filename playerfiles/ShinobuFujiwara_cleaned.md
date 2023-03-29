@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shinobu Fujiwara  
-date: 2023-03-17 17:26:19.297977  
+date: 2023-03-21 17:55:50.660668  
 categories: player  
 ---
 # Shinobu Fujiwara
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 106.0
@@ -25,16 +27,16 @@ categories: player
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| Yokohama Canon Eagles           |         4 |   0.625    |
 | Green Rockets Tokatsu           |         3 |   1        |
 | Kobelco Kobe Steelers           |         3 |   0.666667 |
 | Toshiba Brave Lupus Tokyo       |         3 |   1        |
-| Yokohama Canon Eagles           |         3 |   0.5      |
 | Saitama Wild Knights            |         2 |   0        |
 | Shizuoka Blue Revs              |         2 |   1        |
-| Tokyo Sungoliath                |         2 |   0.5      |
 | Toyota Verblitz                 |         2 |   1        |
 | Black Rams Tokyo                |         1 |   1        |
 | Hanazono Kintetsu Liners        |         1 |   1        |
 | Mitsubishi Dynaboars            |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka |         1 |   1        |
+| Tokyo Sungoliath                |         1 |   0        |
 | Urayasu D-Rocks                 |         1 |   1        |

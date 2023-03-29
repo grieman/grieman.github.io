@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daemon Torres  
-date: 2023-02-24 02:30:28.441200  
+date: 2023-03-21 18:16:17.034184  
 categories: player  
 ---
 # Daemon Torres
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 98.0
+## Current elo: 114.0
 
-## Current Percentile: 35.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Rugby ATL |            15 |   0.666667 |
+| Rugby ATL |            18 |   0.555556 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -29,8 +31,9 @@ categories: player
 | Old Glory DC           |         2 |        1   |
 | R.U. New York          |         2 |        0.5 |
 | Rugby New York         |         2 |        0.5 |
+| San Diego Legion       |         2 |        0.5 |
+| Seattle Seawolves      |         2 |        0   |
 | Toronto Arrows         |         2 |        1   |
 | L. A. Giltinis         |         1 |        0   |
 | New England Free Jacks |         1 |        0   |
-| San Diego Legion       |         1 |        1   |
 | Utah Warriors          |         1 |        0   |

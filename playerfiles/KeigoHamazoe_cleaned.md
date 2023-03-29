@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Keigo Hamazoe  
-date: 2023-02-02 19:01:13.849930  
+date: 2023-03-21 18:43:48.226198  
 categories: player  
 ---
 # Keigo Hamazoe
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 69.0
+## Current elo: 86.0
 
-## Current Percentile: 2.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             8 |      0.375 |
+| Kurita Water Gush |            13 |   0.307692 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         2 |        0   |
-| Kyuden Voltex                    |         2 |        0.5 |
-| Coca-Cola Red Sparks             |         1 |        0   |
-| NTT Docomo Red Hurricanes Osaka  |         1 |        1   |
-| Skyactivs Hiroshima              |         1 |        1   |
-| Toyota Industries Shuttles Aichi |         1 |        0   |
+| Kyuden Voltex                    |         4 |   0.25     |
+| Chugoku Red Regulions            |         3 |   0.333333 |
+| NTT Docomo Red Hurricanes Osaka  |         2 |   0.5      |
+| Skyactivs Hiroshima              |         2 |   0.5      |
+| Coca-Cola Red Sparks             |         1 |   0        |
+| Toyota Industries Shuttles Aichi |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Axel Zapata  
-date: 2023-03-17 17:20:38.487713  
+date: 2023-03-21 18:49:19.550673  
 categories: player  
 ---
 # Axel Zapata
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 108.0
 
-## Current Percentile: 71.0
+## Current Percentile: 70.0
 
 # Elo History
 

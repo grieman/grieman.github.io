@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Roger Tuivasa-Sheck  
-date: 2023-03-17 17:40:12.684797  
+date: 2023-03-21 18:02:37.715573  
 categories: player  
 ---
 # Roger Tuivasa-Sheck
 
-## Positions: C, W
+
+Last updated: 2023-03-21
+## Positions: C
 
 ## Country: New Zealand
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: 19.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -23,14 +25,14 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blues       |            14 |   0.785714 |
+| Blues       |            15 |   0.733333 |
 | Auckland    |             6 |   0.5      |
 | New Zealand |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Brumbies         |         3 |   0.666667 |
-| Crusaders        |         2 |   0.5      |
+| Crusaders        |         3 |   0.333333 |
 | Highlanders      |         2 |   1        |
 | Hurricanes       |         2 |   0.5      |
 | Australia        |         1 |   1        |

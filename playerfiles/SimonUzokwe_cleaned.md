@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Simon Uzokwe  
-date: 2023-02-02 18:59:19.151518  
+date: 2023-03-21 18:43:54.669689  
 categories: player  
 ---
 # Simon Uzokwe
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 61.0
+## Current Percentile: 51.0
 
 # Elo History
 

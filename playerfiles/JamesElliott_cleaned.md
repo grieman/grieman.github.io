@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: James Elliott  
-date: 2023-02-02 19:10:10.128138  
+date: 2023-03-21 18:40:57.194884  
 categories: player  
 ---
 # James Elliott
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 88.0
+## Current elo: 90.0
 
 ## Current Percentile: 0.0
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Jersey             |            39 |   0.692308 |
-| Yorkshire Carnegie |            11 |   0        |
+| Jersey             |            40 |        0.7 |
+| Yorkshire Carnegie |            11 |        0   |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Coventry            |         7 |   0.5      |
 | Ampthill            |         6 |   0.583333 |
+| Hartpury College    |         6 |   0.833333 |
 | Cornish Pirates     |         5 |   0.6      |
-| Hartpury College    |         5 |   0.8      |
 | London Scottish     |         5 |   0.8      |
 | Bedford             |         4 |   0.5      |
 | Doncaster           |         4 |   0.25     |

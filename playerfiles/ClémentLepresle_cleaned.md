@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Lepresle  
-date: 2023-03-17 17:29:29.058597  
+date: 2023-03-21 18:34:22.868516  
 categories: player  
 ---
 # Clément Lepresle
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 88.0
+## Current elo: 91.0
 
-## Current Percentile: 16.0
+## Current Percentile: 21.0
 
 # Elo History
 

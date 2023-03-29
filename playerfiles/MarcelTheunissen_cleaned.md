@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Marcel Theunissen  
-date: 2023-03-17 17:03:44.353343  
+date: 2023-03-21 18:11:29.830045  
 categories: player  
 ---
 # Marcel Theunissen
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 91.0
+## Current elo: 96.0
 
-## Current Percentile: 27.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Western Province |            21 |   0.333333 |
+| Western Province |            22 |   0.363636 |
 | Stormers         |            13 |   0.730769 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Golden Lions        |         5 |       0.4  |
+| Blue Bulls          |         4 |       0.25 |
 | Free State Cheetahs |         4 |       0.25 |
 | Griquas             |         4 |       0    |
-| Blue Bulls          |         3 |       0    |
 | Natal Sharks        |         3 |       1    |
 | Sharks              |         2 |       1    |
 | Bulls               |         2 |       1    |

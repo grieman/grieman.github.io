@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hans Lombard-Buret  
-date: 2023-03-17 17:12:28.302434  
+date: 2023-03-21 18:25:48.582005  
 categories: player  
 ---
 # Hans Lombard-Buret
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 85.0

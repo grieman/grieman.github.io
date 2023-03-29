@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Phumzile MAQONDWANA  
-date: 2023-03-17 17:36:34.457887  
+date: 2023-03-29 11:30:47.797977  
 categories: player  
 ---
 # Phumzile MAQONDWANA
 
+
+Last updated: 2023-03-29
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 51.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -22,13 +24,13 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Pumas      |            31 |   0.354839 |
+| Blue Bulls |             2 |   0        |
 | Bulls      |             2 |   0.5      |
-| Blue Bulls |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Free State Cheetahs |         7 |   0.285714 |
 | Blue Bulls          |         6 |   0.166667 |
-| Free State Cheetahs |         6 |   0.333333 |
 | Griquas             |         6 |   0.416667 |
 | Golden Lions        |         5 |   0.6      |
 | Western Province    |         5 |   0.3      |

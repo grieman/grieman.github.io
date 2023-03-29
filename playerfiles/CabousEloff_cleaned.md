@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cabous Eloff  
-date: 2023-03-17 17:26:15.043473  
+date: 2023-03-21 18:30:06.522861  
 categories: player  
 ---
 # Cabous Eloff
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 101.0
 
-## Current Percentile: 71.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |            38 |   0.368421 |
+| Melbourne Rebels |            39 |   0.358974 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -29,9 +31,9 @@ categories: player
 | Queensland Reds          |         6 |   0        |
 | Western Force            |         6 |   0.666667 |
 | Brumbies                 |         4 |   0.25     |
+| Chiefs                   |         3 |   0        |
 | Highlanders              |         3 |   0.666667 |
 | Blues                    |         2 |   0        |
-| Chiefs                   |         2 |   0        |
 | Crusaders                |         2 |   0        |
 | Fijian Drua              |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |

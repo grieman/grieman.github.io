@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fred Betteridge  
-date: 2023-01-21 15:40:52.896720  
+date: 2023-03-21 18:51:55.930161  
 categories: player  
 ---
 # Fred Betteridge
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 96.0
+## Current elo: 92.0
 
-## Current Percentile: 57.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,17 +23,17 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Coventry |            17 |        0.5 |
+| Coventry |            19 |   0.552632 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Jersey              |         3 |   0.166667 |
+| London Scottish     |         3 |   0.666667 |
 | Ampthill            |         2 |   1        |
+| Caldy               |         2 |   1        |
 | Cornish Pirates     |         2 |   0.5      |
 | Doncaster           |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0        |
-| London Scottish     |         2 |   0.5      |
 | Bedford             |         1 |   1        |
-| Caldy               |         1 |   1        |
 | Hartpury College    |         1 |   0        |
 | Nottingham          |         1 |   1        |

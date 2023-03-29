@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Bernard Foley  
-date: 2023-03-16 19:55:20.510946  
+date: 2023-03-21 18:26:52.893623  
 categories: player  
 ---
 # Bernard Foley
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Australia

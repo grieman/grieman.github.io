@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jackson Garden-Bachop  
-date: 2023-03-17 17:33:37.889047  
+date: 2023-03-21 18:18:57.910531  
 categories: player  
 ---
 # Jackson Garden-Bachop
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: New Zealand Maori
 
 ## Current elo: 107.0
 
-## Current Percentile: 71.0
+## Current Percentile: 72.0
 
 # Elo History
 

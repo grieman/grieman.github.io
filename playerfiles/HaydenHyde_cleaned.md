@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hayden Hyde  
-date: 2023-03-17 17:18:57.169106  
+date: 2023-03-21 18:14:07.572151  
 categories: player  
 ---
 # Hayden Hyde
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 80.0
+## Current elo: 85.0
 
-## Current Percentile: 9.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |            13 |  0.0769231 |
+| London Scottish |            14 |  0.0714286 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -32,5 +34,6 @@ categories: player
 | Ampthill            |         1 |          0 |
 | Bedford             |         1 |          0 |
 | Caldy               |         1 |          1 |
+| Cornish Pirates     |         1 |          0 |
 | Doncaster           |         1 |          0 |
 | Hartpury College    |         1 |          0 |

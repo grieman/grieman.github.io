@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryouta Tsukada  
-date: 2023-02-15 22:12:00.804705  
+date: 2023-03-21 18:10:28.687962  
 categories: player  
 ---
 # Ryouta Tsukada
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 74.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             4 |          0 |
+| Kamaishi Seawaves |             5 |          0 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Hanazono Kintetsu Liners |         2 |          0 |
 | Mie Honda Heat           |         1 |          0 |
+| Shimizu Blue Sharks      |         1 |          0 |
 | Urayasu D-Rocks          |         1 |          0 |

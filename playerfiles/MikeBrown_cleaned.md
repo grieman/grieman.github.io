@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Mike Brown  
-date: 2023-03-16 21:12:46.677870  
+date: 2023-03-21 18:01:02.345768  
 categories: player  
 ---
 # Mike Brown
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Country: England
 
 ## Current elo: 109.0
 
-## Current Percentile: 80.0
+## Current Percentile: 77.0
 
 # Elo History
 

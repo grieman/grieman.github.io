@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Kaveinga Finau  
-date: 2023-02-04 17:24:04.881558  
+date: 2023-03-21 18:34:55.081165  
 categories: player  
 ---
 # Kaveinga Finau
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Provincial Union XV
 
-## Current elo: 106.0
+## Current elo: 104.0
 
-## Current Percentile: 70.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -27,7 +29,6 @@ categories: player
 | Bay of Plenty       |            13 |   0.615385 |
 | Chiefs              |             3 |   1        |
 | Crusaders           |             1 |   1        |
-| Provence Rugby      |             1 |   1        |
 | Provincial Union XV |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,7 +43,6 @@ categories: player
 | Hawke's Bay              |         3 |   0.666667 |
 | Otago                    |         2 |   1        |
 | Counties Manukau         |         2 |   0.5      |
-| Mont-de-Marsan           |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | British and Irish Lions  |         1 |   0        |
 | Northland                |         1 |   1        |

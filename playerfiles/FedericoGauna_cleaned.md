@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Federico Gauna  
-date: 2023-03-17 17:37:27.913359  
+date: 2023-03-21 17:59:10.255332  
 categories: player  
 ---
 # Federico Gauna
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 110.0
 
-## Current Percentile: 78.0
+## Current Percentile: 75.0
 
 # Elo History
 

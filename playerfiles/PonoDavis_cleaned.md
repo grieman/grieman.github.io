@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Pono Davis  
-date: 2023-03-17 17:36:57.539000  
+date: 2023-03-21 18:42:19.804695  
 categories: player  
 ---
 # Pono Davis
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 105.0

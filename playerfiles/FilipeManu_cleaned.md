@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Filipe Manu  
-date: 2023-03-17 17:07:23.799800  
+date: 2023-03-21 18:30:37.336820  
 categories: player  
 ---
 # Filipe Manu
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 98.0
+## Current elo: 97.0
 
-## Current Percentile: 32.0
+## Current Percentile: 67.0
 
 # Elo History
 

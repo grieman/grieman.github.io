@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Willem Hendrik Jacques du Plessis  
-date: 2023-03-17 17:27:55.665258  
+date: 2023-03-21 17:56:04.767666  
 categories: player  
 ---
 # Willem Hendrik Jacques du Plessis
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 77.0
+## Current elo: 78.0
 
 ## Current Percentile: 39.0
 

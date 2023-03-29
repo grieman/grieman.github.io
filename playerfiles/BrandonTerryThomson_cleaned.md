@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Brandon Terry Thomson  
-date: 2023-03-17 17:31:07.317248  
+date: 2023-03-21 18:06:39.933030  
 categories: player  
 ---
 # Brandon Terry Thomson
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 86.0

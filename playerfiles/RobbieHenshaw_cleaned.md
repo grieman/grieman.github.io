@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Robbie Henshaw  
-date: 2023-03-17 17:38:26.346536  
+date: 2023-03-21 18:13:36.206692  
 categories: player  
 ---
 # Robbie Henshaw
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: Ireland
@@ -25,7 +27,7 @@ categories: player
 |:------------------------|--------------:|-----------:|
 | Connacht                |            79 |   0.462025 |
 | Leinster                |            74 |   0.804054 |
-| Ireland                 |            61 |   0.663934 |
+| Ireland                 |            62 |   0.669355 |
 | British and Irish Lions |             8 |   0.4375   |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -35,9 +37,9 @@ categories: player
 | Glasgow Warriors         |        11 |   0.545455 |
 | Benetton Treviso         |        10 |   0.9      |
 | Zebre                    |         9 |   1        |
+| England                  |         9 |   0.555556 |
 | Leinster                 |         9 |   0.555556 |
 | France                   |         9 |   0.555556 |
-| England                  |         8 |   0.5      |
 | Italy                    |         8 |   1        |
 | South Africa             |         7 |   0.571429 |
 | Wales                    |         7 |   0.357143 |

@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Théophile Cotte  
-date: 2023-03-16 19:56:32.627214  
+date: 2023-03-29 11:30:09.218368  
 categories: player  
 ---
 # Théophile Cotte
 
+
+Last updated: 2023-03-29
 ## Positions: FL
 
-## Current elo: 93.0
+## Current elo: 97.0
 
 ## Current Percentile: 36.0
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |             6 |   0.666667 |
+| Bourgoin-Jallieu |             6 |   0.583333 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Albi                |         1 |          1 |
-| Carqueiranne-Hyères |         1 |          1 |
-| Dax                 |         1 |          0 |
-| Narbonne            |         1 |          0 |
-| Nice                |         1 |          1 |
-| Tarbes              |         1 |          1 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Albi        |         1 |        1   |
+| Dax         |         1 |        0   |
+| Narbonne    |         1 |        0   |
+| Nice        |         1 |        1   |
+| Tarbes      |         1 |        1   |
+| US Bressane |         1 |        0.5 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Giovanne Snyman  
-date: 2023-03-17 17:40:48.491405  
+date: 2023-03-21 18:14:01.681159  
 categories: player  
 ---
 # Giovanne Snyman
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 83.0
+## Current elo: 75.0
 
-## Current Percentile: 45.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Pumas    |            13 |   0.538462 |
+| Pumas    |            14 |   0.571429 |
 | Leopards |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Blue Bulls          |         4 |   0.25     |
-| Golden Lions        |         3 |   1        |
+| Golden Lions        |         4 |   1        |
 | Griquas             |         3 |   0.333333 |
 | Free State Cheetahs |         2 |   1        |
 | Boland Cavaliers    |         1 |   1        |

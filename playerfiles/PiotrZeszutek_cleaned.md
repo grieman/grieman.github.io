@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Piotr Zeszutek  
-date: 2023-02-04 18:27:28.493259  
+date: 2023-03-21 18:15:05.838118  
 categories: player  
 ---
 # Piotr Zeszutek
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: Poland
 
-## Current elo: 86.0
+## Current elo: 78.0
 
-## Current Percentile: None
+## Current Percentile: 25.0
 
 # Elo History
 
@@ -23,8 +25,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             7 |   0.285714 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Romania    |         1 |          0 |
+| Belgium    |         3 |   0.666667 |
+| Romania    |         2 |   0        |
+| Germany    |         1 |   0        |
+| Portugal   |         1 |   0        |

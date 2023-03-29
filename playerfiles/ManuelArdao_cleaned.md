@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Manuel Ardao  
-date: 2023-03-17 17:25:45.632335  
+date: 2023-03-21 18:13:17.324452  
 categories: player  
 ---
 # Manuel Ardao
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Uruguay
 
 ## Current elo: 85.0
 
-## Current Percentile: 14.0
+## Current Percentile: 15.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: LaRome White  
-date: 2023-03-17 17:24:15.680302  
+date: 2023-03-21 18:27:58.997533  
 categories: player  
 ---
 # LaRome White
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 85.0

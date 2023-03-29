@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Bautista Ezcurra  
-date: 2023-03-17 17:35:57.906432  
+date: 2023-03-21 18:18:54.215749  
 categories: player  
 ---
 # Bautista Ezcurra
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Argentina
 
 ## Current elo: 86.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 

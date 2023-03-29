@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Danny Toala  
-date: 2023-03-17 17:33:42.516019  
+date: 2023-03-21 18:00:25.180893  
 categories: player  
 ---
 # Danny Toala
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: Samoa
 
-## Current elo: 114.0
+## Current elo: 113.0
 
-## Current Percentile: 86.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Hawke's Bay    |            26 |   0.557692 |
-| Moana Pasifika |            13 |   0.153846 |
+| Moana Pasifika |            14 |   0.142857 |
 | Hurricanes     |             5 |   0.8      |
 | Samoa          |             5 |   0.8      |
 
@@ -42,10 +44,10 @@ categories: player
 | Otago            |         2 |   0.5      |
 | Manawatu         |         2 |   1        |
 | Highlanders      |         2 |   0        |
+| Brumbies         |         2 |   0.5      |
 | Counties Manukau |         2 |   1        |
 | Fijian Drua      |         2 |   0        |
 | Southland        |         1 |   1        |
-| Brumbies         |         1 |   1        |
 | Tonga            |         1 |   1        |
 | Crusaders        |         1 |   0        |
 | Fiji             |         1 |   1        |

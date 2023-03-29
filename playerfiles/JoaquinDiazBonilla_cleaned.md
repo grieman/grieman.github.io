@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joaquin Diaz Bonilla  
-date: 2023-03-17 17:23:47.403904  
+date: 2023-03-21 18:36:19.164552  
 categories: player  
 ---
 # Joaquin Diaz Bonilla
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Argentina

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Marno Redelinghuys  
-date: 2023-03-17 17:36:24.393078  
+date: 2023-03-21 18:26:57.268617  
 categories: player  
 ---
 # Marno Redelinghuys
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 88.0

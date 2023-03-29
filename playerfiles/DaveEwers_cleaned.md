@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dave Ewers  
-date: 2023-03-17 17:27:29.026731  
+date: 2023-03-20 15:47:21.618731  
 categories: player  
 ---
 # Dave Ewers
 
+
+Last updated: 2023-03-20
 ## Positions: FL, N8
 
 ## Current elo: 140.0

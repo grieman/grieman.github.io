@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kini Naholo  
-date: 2023-03-17 17:34:45.056924  
+date: 2023-03-21 18:22:57.582076  
 categories: player  
 ---
 # Kini Naholo
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 110.0

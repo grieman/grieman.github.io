@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: George Worth  
-date: 2023-02-02 19:04:09.568395  
+date: 2023-03-21 18:47:13.491344  
 categories: player  
 ---
 # George Worth
 
+
+Last updated: 2023-03-21
 ## Positions: FB, C
 
-## Current elo: 101.0
+## Current elo: 110.0
 
-## Current Percentile: 57.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -23,8 +25,8 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |            58 |   0.422414 |
 | Melbourne Rebels |            14 |   0.285714 |
-| Ampthill         |             5 |   0.3      |
 | Nottingham       |             5 |   0.6      |
+| Ampthill         |             2 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -40,27 +42,26 @@ categories: player
 | Richmond                 |         3 |   0.5      |
 | Cardiff Blues            |         3 |   1        |
 | Crusaders                |         2 |   0        |
-| Bedford                  |         2 |   0        |
+| Pau                      |         2 |   0.5      |
 | Western Force            |         2 |   0.5      |
 | Sale Sharks              |         2 |   0.5      |
-| Pau                      |         2 |   0.5      |
-| London Scottish          |         2 |   1        |
 | Munster                  |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
 | Chiefs                   |         2 |   0        |
-| London Irish             |         1 |   0        |
-| Ealing Trailfinders      |         1 |   0        |
+| Racing 92                |         1 |   0        |
 | Blues                    |         1 |   0        |
 | Scarlets                 |         1 |   0        |
 | Fijian Drua              |         1 |   1        |
-| Rotherham Titans         |         1 |   1        |
 | Glasgow Warriors         |         1 |   0        |
-| Highlanders              |         1 |   0        |
-| Queensland Reds          |         1 |   0        |
+| Rotherham Titans         |         1 |   1        |
 | Castres Olympique        |         1 |   0        |
+| Highlanders              |         1 |   0        |
+| Bedford                  |         1 |   0        |
+| Hartpury College         |         1 |   0        |
 | Calvisano                |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Dragons                  |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
-| Hartpury College         |         1 |   0        |
-| Racing 92                |         1 |   0        |
+| London Scottish          |         1 |   1        |
+| London Irish             |         1 |   0        |
+| Queensland Reds          |         1 |   0        |

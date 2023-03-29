@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mosese Tuipulotu  
-date: 2023-03-17 17:05:43.369300  
+date: 2023-03-21 18:01:31.597946  
 categories: player  
 ---
 # Mosese Tuipulotu
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 97.0

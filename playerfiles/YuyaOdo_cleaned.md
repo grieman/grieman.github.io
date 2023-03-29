@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Yuya Odo  
-date: 2023-03-17 17:28:54.174767  
+date: 2023-03-21 18:48:24.487748  
 categories: player  
 ---
 # Yuya Odo
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Japan
 
-## Current elo: 114.0
+## Current elo: 117.0
 
-## Current Percentile: 89.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,13 +25,13 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            89 |   0.646067 |
-| Japan              |             1 |   1        |
+| Shizuoka Blue Revs |            90 |       0.65 |
+| Japan              |             1 |       1    |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Black Rams Tokyo                  |         9 |   0.777778 |
 | Toshiba Brave Lupus Tokyo         |         9 |   0.444444 |
-| Black Rams Tokyo                  |         8 |   0.75     |
 | Kubota Spears Funabashi Tokyo-Bay |         7 |   0.5      |
 | Toyota Verblitz                   |         7 |   0.714286 |
 | Saitama Wild Knights              |         7 |   0.214286 |

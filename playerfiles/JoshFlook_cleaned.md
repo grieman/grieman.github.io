@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Josh Flook  
-date: 2023-03-17 17:30:25.177205  
+date: 2023-03-21 18:53:07.092724  
 categories: player  
 ---
 # Josh Flook
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 103.0
+## Current elo: 97.0
 
-## Current Percentile: 56.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            30 |   0.583333 |
+| Queensland Reds |            31 |   0.596774 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -31,7 +33,7 @@ categories: player
 | New South Wales Waratahs |         4 |   0.75     |
 | Hurricanes               |         3 |   0        |
 | Blues                    |         2 |   0        |
+| Fijian Drua              |         2 |   1        |
 | Highlanders              |         2 |   0        |
 | Chiefs                   |         1 |   0        |
-| Fijian Drua              |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |

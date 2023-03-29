@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Anthony Watson  
-date: 2023-03-17 17:10:22.512993  
+date: 2023-03-21 18:54:01.999650  
 categories: player  
 ---
 # Anthony Watson
 
-## Positions: FB, W
+
+Last updated: 2023-03-21
+## Positions: W, FB
 
 ## Country: England
 
-## Current elo: 78.0
+## Current elo: 88.0
 
-## Current Percentile: 18.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Bath Rugby              |           127 |   0.562992 |
-| England                 |            52 |   0.692308 |
+| England                 |            53 |   0.679245 |
 | London Irish            |            21 |   0.52381  |
 | Leicester Tigers        |            11 |   0.5      |
 | British and Irish Lions |             9 |   0.722222 |
@@ -43,9 +45,9 @@ categories: player
 | London Irish             |         8 |   0.875    |
 | Worcester Warriors       |         8 |   0.875    |
 | Australia                |         7 |   0.857143 |
+| Ireland                  |         7 |   0.285714 |
 | Newcastle Falcons        |         7 |   0.714286 |
 | Italy                    |         6 |   1        |
-| Ireland                  |         6 |   0.333333 |
 | Scotland                 |         6 |   0.5      |
 | France                   |         6 |   0.666667 |
 | New Zealand              |         5 |   0.5      |

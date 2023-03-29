@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Josh Basham  
-date: 2023-03-17 17:35:17.184154  
+date: 2023-03-21 18:24:17.794920  
 categories: player  
 ---
 # Josh Basham
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 89.0
+## Current elo: 87.0
 
-## Current Percentile: 31.0
+## Current Percentile: 23.0
 
 # Elo History
 

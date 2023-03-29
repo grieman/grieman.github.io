@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Robert Tenorio  
-date: 2023-03-17 17:01:21.495990  
+date: 2023-03-21 18:30:44.163811  
 categories: player  
 ---
 # Robert Tenorio
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Brazil
 
-## Current elo: 76.0
+## Current elo: 77.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -23,13 +25,13 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            17 |   0.117647 |
+| Cobras |            18 |   0.166667 |
 | Brazil |            10 |   0.1      |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Penarol Rugby     |         5 |   0        |
-| Selknam           |         4 |   0.25     |
+| Selknam           |         5 |   0.4      |
 | Jaguares XV       |         3 |   0        |
 | Portugal          |         3 |   0.333333 |
 | Kenya             |         2 |   0        |

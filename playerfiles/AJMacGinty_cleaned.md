@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: AJ MacGinty  
-date: 2023-03-16 20:14:45.580072  
+date: 2023-03-21 18:39:55.376467  
 categories: player  
 ---
 # AJ MacGinty
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: United States of America
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 83.0
+## Current Percentile: 79.0
 
 # Elo History
 

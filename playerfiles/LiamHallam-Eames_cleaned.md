@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Liam Hallam-Eames  
-date: 2023-03-17 17:25:05.151263  
+date: 2023-03-21 18:01:40.303158  
 categories: player  
 ---
 # Liam Hallam-Eames
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 82.0

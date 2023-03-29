@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sevu Reece  
-date: 2023-03-16 20:10:10.331044  
+date: 2023-03-21 18:06:37.270271  
 categories: player  
 ---
 # Sevu Reece
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Crusaders           |            58 |   0.810345 |
+| Crusaders           |            59 |   0.813559 |
 | Waikato             |            30 |   0.516667 |
 | New Zealand         |            23 |   0.73913  |
 | Tasman              |             3 |   0        |
@@ -33,8 +35,8 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |        12 |   0.583333 |
 | Highlanders              |        10 |   0.9      |
+| Blues                    |         8 |   0.875    |
 | Hurricanes               |         8 |   0.875    |
-| Blues                    |         7 |   0.857143 |
 | Australia                |         5 |   0.8      |
 | Ireland                  |         5 |   0.4      |
 | Northland                |         4 |   0.5      |

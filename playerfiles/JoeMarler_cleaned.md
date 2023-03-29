@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Joe Marler  
-date: 2023-03-17 17:14:42.301726  
+date: 2023-03-21 18:00:44.848118  
 categories: player  
 ---
 # Joe Marler
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England
 
 ## Current elo: 97.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Martial Rolland  
-date: 2023-03-17 17:18:43.677391  
+date: 2023-03-21 18:14:21.871131  
 categories: player  
 ---
 # Martial Rolland
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 90.0

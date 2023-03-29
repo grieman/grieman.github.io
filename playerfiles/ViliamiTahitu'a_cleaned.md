@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Viliami Tahitu'a  
-date: 2023-03-17 17:42:09.606375  
+date: 2023-03-21 18:53:04.242728  
 categories: player  
 ---
 # Viliami Tahitu'a
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Tonga

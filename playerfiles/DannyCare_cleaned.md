@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Danny Care  
-date: 2023-03-17 17:38:30.637655  
+date: 2023-03-21 17:56:14.635848  
 categories: player  
 ---
 # Danny Care
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: England
 
 ## Current elo: 108.0
 
-## Current Percentile: 87.0
+## Current Percentile: 82.0
 
 # Elo History
 

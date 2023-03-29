@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tevita Lopeti  
-date: 2023-03-17 17:42:31.294955  
+date: 2023-03-21 18:38:02.645120  
 categories: player  
 ---
 # Tevita Lopeti
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 86.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 

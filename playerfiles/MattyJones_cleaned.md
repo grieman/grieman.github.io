@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matty Jones  
-date: 2023-03-16 19:47:05.161232  
+date: 2023-03-21 18:19:44.581311  
 categories: player  
 ---
 # Matty Jones
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Langi Gleeson  
-date: 2023-03-17 17:27:58.410415  
+date: 2023-03-21 18:28:29.670493  
 categories: player  
 ---
 # Langi Gleeson
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Australia
 
 ## Current elo: 105.0
 
-## Current Percentile: 75.0
+## Current Percentile: 71.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thomas CEYTE  
-date: 2023-03-12 11:30:47.076303  
+date: 2023-03-29 11:31:54.708141  
 categories: player  
 ---
 # Thomas CEYTE
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 136.0
+## Current elo: 128.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Nevers  |            90 |   0.533333 |
 | Dax     |            38 |   0.381579 |
-| Bayonne |            18 |   0.638889 |
+| Bayonne |            18 |   0.611111 |
 | Beziers |             7 |   0.571429 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -62,6 +64,6 @@ categories: player
 | Bordeaux Begles            |         1 |   1        |
 | Dax                        |         1 |   1        |
 | La Rochelle                |         1 |   1        |
-| Pau                        |         1 |   0.5      |
+| Pau                        |         1 |   0        |
 | Clermont Auvergne          |         1 |   1        |
 | Racing 92                  |         1 |   1        |

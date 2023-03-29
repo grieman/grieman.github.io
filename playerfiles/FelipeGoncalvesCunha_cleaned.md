@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Felipe Goncalves Cunha  
-date: 2023-03-17 17:35:40.725731  
+date: 2023-03-21 18:53:38.041182  
 categories: player  
 ---
 # Felipe Goncalves Cunha
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Brazil

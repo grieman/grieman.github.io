@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Paddy Ryan  
-date: 2023-03-17 17:08:03.815223  
+date: 2023-03-21 18:32:29.469170  
 categories: player  
 ---
 # Paddy Ryan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Australia

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jason-Collin Fraser  
-date: 2023-02-28 11:04:56.801185  
+date: 2023-03-21 18:02:44.353703  
 categories: player  
 ---
 # Jason-Collin Fraser
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Zimbabwe

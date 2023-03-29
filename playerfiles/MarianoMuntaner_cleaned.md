@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Mariano Muntaner  
-date: 2023-03-17 17:02:56.393371  
+date: 2023-03-21 18:53:32.597189  
 categories: player  
 ---
 # Mariano Muntaner
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 89.0
 
 ## Current Percentile: 45.0
 
@@ -23,15 +25,15 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Olimpia Lions            |            16 |        0.5 |
 | Castilla y Leon Iberians |             2 |        1   |
-| Yacare XV                |             1 |        1   |
+| Yacare XV                |             2 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Penarol Rugby    |         4 |   0.25     |
 | Selknam          |         4 |   0.5      |
 | Cafeteros Pro    |         3 |   0.666667 |
 | Cobras           |         3 |   1        |
 | Jaguares XV      |         3 |   0        |
-| Penarol Rugby    |         3 |   0.333333 |
 | American Raptors |         1 |   1        |
 | Delta            |         1 |   1        |
 | Lusitanos XV     |         1 |   1        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tetsunori Osaki  
-date: 2023-01-21 15:40:37.986337  
+date: 2023-03-21 18:57:18.265001  
 categories: player  
 ---
 # Tetsunori Osaki
 
-## Positions: L
 
-## Current elo: 93.0
+Last updated: 2023-03-21
+## Positions: FL, L
 
-## Current Percentile: None
+## Current elo: 96.0
+
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,8 +23,10 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             1 |          0 |
+| Shimizu Blue Sharks |             4 |       0.25 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Mie Honda Heat |         1 |          0 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Mie Honda Heat    |         2 |          0 |
+| Kamaishi Seawaves |         1 |          1 |
+| Urayasu D-Rocks   |         1 |          0 |

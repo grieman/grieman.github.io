@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Bates  
-date: 2023-03-17 17:28:48.514464  
+date: 2023-03-21 18:14:35.205613  
 categories: player  
 ---
 # Jack Bates
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 95.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Damian McKenzie  
-date: 2023-03-17 17:25:33.332751  
+date: 2023-03-21 18:40:48.347396  
 categories: player  
 ---
 # Damian McKenzie
 
+
+Last updated: 2023-03-21
 ## Positions: FB, FH
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Chiefs            |            98 |   0.612245 |
+| Chiefs            |            99 |   0.616162 |
 | New Zealand       |            42 |   0.821429 |
 | Waikato           |            34 |   0.544118 |
 | Tokyo Sungoliath  |            14 |   0.785714 |
@@ -49,10 +51,10 @@ categories: player
 | Bulls                             |         4 |   1        |
 | Wellington                        |         4 |   0.5      |
 | Auckland                          |         4 |   0.5      |
+| Melbourne Rebels                  |         4 |   0.75     |
 | Toshiba Brave Lupus Tokyo         |         3 |   0.666667 |
 | Tasman                            |         3 |   0        |
 | New South Wales Waratahs          |         3 |   0.666667 |
-| Melbourne Rebels                  |         3 |   0.666667 |
 | Counties Manukau                  |         3 |   0.666667 |
 | Italy                             |         3 |   1        |
 | Fiji                              |         3 |   1        |

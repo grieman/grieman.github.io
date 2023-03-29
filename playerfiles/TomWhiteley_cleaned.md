@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom Whiteley  
-date: 2023-03-17 17:19:18.644131  
+date: 2023-03-21 18:08:39.412549  
 categories: player  
 ---
 # Tom Whiteley
 
+
+Last updated: 2023-03-21
 ## Positions: SH, FH
 
 ## Current elo: 100.0

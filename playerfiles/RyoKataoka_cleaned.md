@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryo Kataoka  
-date: 2023-02-02 18:41:46.451021  
+date: 2023-03-21 18:49:14.478180  
 categories: player  
 ---
 # Ryo Kataoka
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 96.0
+## Current elo: 85.0
 
-## Current Percentile: 49.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,10 +23,12 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             3 |   0.333333 |
+| Kamaishi Seawaves |             7 |   0.142857 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Mitsubishi Dynaboars             |         1 |          0 |
-| Shimizu Blue Sharks              |         1 |          1 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
+| Shimizu Blue Sharks              |         2 |        0.5 |
+| Urayasu D-Rocks                  |         2 |        0   |
+| Mie Honda Heat                   |         1 |        0   |
+| Mitsubishi Dynaboars             |         1 |        0   |
+| Toyota Industries Shuttles Aichi |         1 |        0   |

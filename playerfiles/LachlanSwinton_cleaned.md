@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Lachlan Swinton  
-date: 2023-03-17 17:20:26.652276  
+date: 2023-03-21 18:25:10.983908  
 categories: player  
 ---
 # Lachlan Swinton
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Australia
 
 ## Current elo: 102.0
 
-## Current Percentile: 70.0
+## Current Percentile: 68.0
 
 # Elo History
 

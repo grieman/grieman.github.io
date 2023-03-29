@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ryoto NAKAMURA  
-date: 2023-03-17 17:36:15.779740  
+date: 2023-03-29 11:28:38.067804  
 categories: player  
 ---
 # Ryoto NAKAMURA
 
+
+Last updated: 2023-03-29
 ## Positions: C
 
 ## Country: Japan

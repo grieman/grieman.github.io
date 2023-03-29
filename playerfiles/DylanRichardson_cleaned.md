@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dylan Richardson  
-date: 2023-02-24 02:31:20.602371  
+date: 2023-03-21 18:05:57.146769  
 categories: player  
 ---
 # Dylan Richardson
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Scotland
 
 ## Current elo: 111.0
 
-## Current Percentile: 82.0
+## Current Percentile: 83.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Runya Choi  
-date: 2023-03-17 17:37:03.705246  
+date: 2023-03-29 11:28:24.577423  
 categories: player  
 ---
 # Runya Choi
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 93.0
@@ -21,12 +23,13 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            13 |   0.615385 |
+| Toyota Verblitz |            15 |   0.533333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Saitama Wild Knights              |         2 |        0   |
+| Saitama Wild Knights              |         3 |        0   |
 | Tokyo Sungoliath                  |         2 |        0.5 |
+| Toshiba Brave Lupus Tokyo         |         2 |        0   |
 | Black Rams Tokyo                  |         1 |        1   |
 | Green Rockets Tokatsu             |         1 |        1   |
 | Hanazono Kintetsu Liners          |         1 |        1   |
@@ -34,5 +37,4 @@ categories: player
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        1   |
 | Mitsubishi Dynaboars              |         1 |        1   |
 | NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
-| Toshiba Brave Lupus Tokyo         |         1 |        0   |
 | Yokohama Canon Eagles             |         1 |        0   |

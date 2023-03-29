@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Millenium Sanerivi  
-date: 2023-02-24 02:21:13.322425  
+date: 2023-03-21 18:20:41.940258  
 categories: player  
 ---
 # Millenium Sanerivi
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 107.0
+## Current elo: 122.0
 
-## Current Percentile: None
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,8 +23,10 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |             1 |          1 |
+| New England Free Jacks |             4 |       0.75 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| NOLA Gold  |         1 |          1 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| NOLA Gold        |         2 |          1 |
+| Rugby New York   |         1 |          1 |
+| San Diego Legion |         1 |          0 |

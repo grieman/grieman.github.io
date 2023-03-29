@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Théo LEPAGE  
-date: 2023-03-17 17:42:50.762099  
+date: 2023-03-29 11:28:54.667377  
 categories: player  
 ---
 # Théo LEPAGE
 
+
+Last updated: 2023-03-29
 ## Positions: N8, FL
 
 ## Current elo: 102.0
 
-## Current Percentile: 48.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            22 |   0.477273 |
+| Bourgoin-Jallieu |            23 |   0.478261 |
 | Chambery         |             9 |   0.555556 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,9 +36,9 @@ categories: player
 | Chambery                   |         2 |   0.5      |
 | Dijon                      |         2 |   1        |
 | Massy                      |         2 |   0.5      |
+| US Bressane                |         2 |   0.25     |
 | Blagnac                    |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   0        |
 | Dax                        |         1 |   1        |
 | Narbonne                   |         1 |   0        |
-| US Bressane                |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0.5      |

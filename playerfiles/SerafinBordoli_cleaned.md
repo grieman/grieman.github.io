@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Serafin Bordoli  
-date: 2023-03-17 17:39:28.054766  
+date: 2023-03-21 18:37:35.441156  
 categories: player  
 ---
 # Serafin Bordoli
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Current elo: 73.0

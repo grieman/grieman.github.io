@@ -1,26 +1,33 @@
 ---  
 layout: page  
 title: Carl Els  
-date: 2023-03-17 17:40:29.361576  
+date: 2023-03-21 18:04:35.074915  
 categories: player  
 ---
 # Carl Els
 
-## Positions: 
 
-## Current elo: 88.0
+Last updated: 2023-03-21
+## Positions: N8
+
+## Current elo: 94.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_CarlEls.png)
 # Match History
 
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |             3 |          0 |
+| Griquas |             4 |       0.25 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Blue Bulls          |         1 |          0 |
 | Free State Cheetahs |         1 |          0 |
+| Natal Sharks        |         1 |          1 |
 | Pumas               |         1 |          0 |

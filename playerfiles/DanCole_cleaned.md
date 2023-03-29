@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dan Cole  
-date: 2023-03-17 17:34:46.449132  
+date: 2023-03-21 18:51:29.691729  
 categories: player  
 ---
 # Dan Cole
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England
 
-## Current elo: 82.0
+## Current elo: 84.0
 
-## Current Percentile: 18.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,9 +25,9 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Leicester Tigers        |           307 |   0.62215  |
-| England                 |            98 |   0.709184 |
-| British and Irish Lions |             7 |   0.5      |
+| Leicester Tigers        |           307 |    0.62215 |
+| England                 |            99 |    0.70202 |
+| British and Irish Lions |             7 |    0.5     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -45,7 +47,7 @@ categories: player
 | France                   |        13 |   0.538462 |
 | Scotland                 |        12 |   0.75     |
 | Italy                    |        11 |   1        |
-| Ireland                  |        10 |   0.5      |
+| Ireland                  |        11 |   0.454545 |
 | Bristol Rugby            |         9 |   0.5      |
 | Benetton Treviso         |         9 |   1        |
 | South Africa             |         7 |   0.214286 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Edwards  
-date: 2023-03-17 17:33:09.023889  
+date: 2023-03-21 18:50:28.411678  
 categories: player  
 ---
 # Will Edwards
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 94.0

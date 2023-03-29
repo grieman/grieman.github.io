@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Vaiolini Ekuasi  
-date: 2023-03-17 17:15:52.288126  
+date: 2023-03-21 18:14:11.730144  
 categories: player  
 ---
 # Vaiolini Ekuasi
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 51.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Auckland         |            10 |        0.5 |
-| Melbourne Rebels |             2 |        0.5 |
-| Blues            |             1 |        1   |
+| Auckland         |            10 |   0.5      |
+| Melbourne Rebels |             3 |   0.333333 |
+| Blues            |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Canterbury               |         2 |        0.5 |
 | Bay of Plenty            |         1 |        0   |
+| Chiefs                   |         1 |        0   |
 | Manawatu                 |         1 |        1   |
 | Moana Pasifika           |         1 |        1   |
 | New South Wales Waratahs |         1 |        1   |

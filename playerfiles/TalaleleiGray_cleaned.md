@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Talalelei Gray  
-date: 2023-03-16 19:55:07.615907  
+date: 2023-03-21 18:24:41.433464  
 categories: player  
 ---
 # Talalelei Gray
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Samoa

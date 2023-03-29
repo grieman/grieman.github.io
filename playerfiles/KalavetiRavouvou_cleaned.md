@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kalaveti Ravouvou  
-date: 2023-03-17 17:17:17.416955  
+date: 2023-03-21 18:54:45.951843  
 categories: player  
 ---
 # Kalaveti Ravouvou
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Fiji
 
-## Current elo: 146.0
+## Current elo: 147.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |            15 |   0.266667 |
+| Fijian Drua |            16 |   0.25     |
 | Fiji        |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -32,12 +34,12 @@ categories: player
 | Crusaders                |         2 |        0.5 |
 | Melbourne Rebels         |         2 |        0.5 |
 | Moana Pasifika           |         2 |        1   |
+| Queensland Reds          |         2 |        0   |
 | Blues                    |         1 |        0   |
 | Brumbies                 |         1 |        0   |
 | Chiefs                   |         1 |        0   |
 | Highlanders              |         1 |        0   |
 | Ireland                  |         1 |        0   |
-| Queensland Reds          |         1 |        0   |
 | Scotland                 |         1 |        0   |
 | Tonga                    |         1 |        1   |
 | Western Force            |         1 |        0   |

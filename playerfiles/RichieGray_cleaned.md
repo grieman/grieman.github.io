@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Richie Gray  
-date: 2023-03-17 17:20:27.771079  
+date: 2023-03-21 18:53:31.356691  
 categories: player  
 ---
 # Richie Gray
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Scotland

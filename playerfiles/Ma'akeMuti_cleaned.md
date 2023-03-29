@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ma'ake Muti  
-date: 2023-03-17 17:03:54.239896  
+date: 2023-03-21 18:26:50.272127  
 categories: player  
 ---
 # Ma'ake Muti
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 98.0
 
-## Current Percentile: 66.0
+## Current Percentile: 81.0
 
 # Elo History
 

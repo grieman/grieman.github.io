@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Simon McIntyre  
-date: 2023-03-17 17:19:10.023361  
+date: 2023-03-21 18:37:43.033145  
 categories: player  
 ---
 # Simon McIntyre
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 98.0
 
-## Current Percentile: 92.0
+## Current Percentile: 93.0
 
 # Elo History
 

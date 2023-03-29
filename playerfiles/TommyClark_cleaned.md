@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tommy Clark  
-date: 2023-03-17 17:26:47.077483  
+date: 2023-03-21 18:43:20.473735  
 categories: player  
 ---
 # Tommy Clark
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 100.0
 
-## Current Percentile: 72.0
+## Current Percentile: 69.0
 
 # Elo History
 

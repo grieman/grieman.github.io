@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jimmy Yobo  
-date: 2023-03-16 20:13:14.396244  
+date: 2023-03-21 18:12:02.701006  
 categories: player  
 ---
 # Jimmy Yobo
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 80.0
+## Current elo: 86.0
 
-## Current Percentile: 11.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Aurillac             |           138 |   0.507246 |
+| Aurillac             |           139 |   0.510791 |
 | Stade Francais Paris |            34 |   0.323529 |
 | Toulon               |            17 |   0.558824 |
 | Oyonnax              |            13 |   0.230769 |
@@ -42,10 +44,10 @@ categories: player
 | Albi                       |         6 |   0.416667 |
 | Colomiers                  |         6 |   0.666667 |
 | Dax                        |         6 |   0.666667 |
+| Rouen                      |         6 |   0.666667 |
 | Grenoble                   |         6 |   0.166667 |
 | Nevers                     |         6 |   0.5      |
 | Brive                      |         6 |   0.333333 |
-| Rouen                      |         5 |   0.6      |
 | Montpellier Herault        |         5 |   0.4      |
 | Montauban                  |         5 |   0.6      |
 | Castres Olympique          |         5 |   0.2      |

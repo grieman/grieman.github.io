@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Malcolm Jaer  
-date: 2023-03-17 17:20:59.144114  
+date: 2023-03-21 18:05:23.875352  
 categories: player  
 ---
 # Malcolm Jaer
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Current elo: 82.0

@@ -1,26 +1,35 @@
 ---  
 layout: page  
 title: Mathis Blume  
-date: 2023-02-06 11:16:58.016631  
+date: 2023-03-21 17:57:30.771566  
 categories: player  
 ---
 # Mathis Blume
 
-## Positions: 
+
+Last updated: 2023-03-21
+## Positions: P, H
 
 ## Country: Germany
 
-## Current elo: 92.0
+## Current elo: 88.0
 
-## Current Percentile: None
+## Current Percentile: 59.0
 
+# Elo History
+
+
+![elo history](history_MathisBlume.png)
 # Match History
 
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Germany |             1 |          0 |
+| Germany |             5 |        0.2 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Georgia    |         1 |          0 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Netherlands |         2 |          0 |
+| Georgia     |         1 |          0 |
+| Poland      |         1 |          1 |
+| Spain       |         1 |          0 |

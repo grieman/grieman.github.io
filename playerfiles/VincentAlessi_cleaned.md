@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Vincent Alessi  
-date: 2023-03-17 17:39:58.439715  
+date: 2023-03-21 18:14:20.705132  
 categories: player  
 ---
 # Vincent Alessi
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 93.0

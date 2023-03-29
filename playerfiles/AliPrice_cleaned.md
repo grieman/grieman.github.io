@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ali Price  
-date: 2023-03-17 17:17:03.695177  
+date: 2023-03-21 18:46:15.947269  
 categories: player  
 ---
 # Ali Price
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Scotland
 
-## Current elo: 85.0
+## Current elo: 84.0
 
-## Current Percentile: None
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Glasgow Warriors        |           118 |   0.516949 |
-| Scotland                |            61 |   0.532787 |
+| Scotland                |            62 |   0.540323 |
 | British and Irish Lions |             4 |   0.5      |
 | Saracens                |             2 |   0.5      |
 
@@ -35,10 +37,10 @@ categories: player
 | Cardiff Blues       |        10 |   0.8      |
 | Ireland             |         8 |   0.125    |
 | France              |         8 |   0.375    |
+| Italy               |         8 |   1        |
 | Wales               |         7 |   0.285714 |
 | Munster             |         7 |   0.428571 |
 | Exeter Chiefs       |         7 |   0.357143 |
-| Italy               |         7 |   1        |
 | Ospreys             |         6 |   0.75     |
 | Connacht            |         6 |   0.666667 |
 | England             |         6 |   0.583333 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thomas LAVAULT  
-date: 2023-03-12 11:32:10.968213  
+date: 2023-03-29 11:30:43.118315  
 categories: player  
 ---
 # Thomas LAVAULT
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Country: France

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Manuel Cardoso Pinto  
-date: 2023-02-05 15:12:00.428992  
+date: 2023-03-21 17:56:13.169108  
 categories: player  
 ---
 # Manuel Cardoso Pinto
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Portugal
 
-## Current elo: 104.0
+## Current elo: 99.0
 
-## Current Percentile: 63.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,30 +25,28 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Portugal     |            21 |   0.5      |
-| Lusitanos XV |             8 |   0.625    |
+| Portugal     |            18 |   0.416667 |
+| Lusitanos XV |             7 |   0.714286 |
 | Narbonne     |             3 |   0.333333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Georgia                  |         3 |   0.166667 |
 | Brazil                   |         3 |   0.666667 |
-| Castilla y Leon Iberians |         2 |   0.5      |
+| Georgia                  |         3 |   0.166667 |
 | Spain                    |         2 |   0        |
 | Russia                   |         2 |   0.5      |
-| Romania                  |         2 |   0.5      |
-| Tel-Aviv Heat            |         2 |   0.5      |
 | Brussels Devils          |         2 |   1        |
-| Belgium                  |         2 |   1        |
-| Canada                   |         1 |   1        |
-| Colomiers                |         1 |   0        |
-| Delta                    |         1 |   1        |
-| Argentina                |         1 |   0        |
-| Hong Kong                |         1 |   1        |
-| Italy                    |         1 |   0        |
-| Japan                    |         1 |   0        |
-| Kenya                    |         1 |   1        |
-| Montauban                |         1 |   0        |
-| Netherlands              |         1 |   1        |
-| Black Lion               |         1 |   0        |
+| Romania                  |         2 |   0.5      |
+| Castilla y Leon Iberians |         2 |   0.5      |
 | Agen                     |         1 |   1        |
+| Japan                    |         1 |   0        |
+| Netherlands              |         1 |   1        |
+| Montauban                |         1 |   0        |
+| Delta                    |         1 |   1        |
+| Italy                    |         1 |   0        |
+| Argentina                |         1 |   0        |
+| Colomiers                |         1 |   0        |
+| Canada                   |         1 |   1        |
+| Black Lion               |         1 |   0        |
+| Belgium                  |         1 |   1        |
+| Tel-Aviv Heat            |         1 |   1        |

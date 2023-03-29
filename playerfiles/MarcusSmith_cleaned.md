@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Marcus Smith  
-date: 2023-03-17 17:26:38.693383  
+date: 2023-03-21 18:35:56.892082  
 categories: player  
 ---
 # Marcus Smith
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Harlequins |           130 |   0.5      |
-| England    |            21 |   0.595238 |
+| England    |            22 |   0.568182 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -53,13 +55,13 @@ categories: player
 | Montpellier Herault      |         2 |   0.5      |
 | La Rochelle              |         2 |   0        |
 | Italy                    |         2 |   1        |
+| Ireland                  |         2 |   0        |
 | Grenoble                 |         2 |   0.5      |
 | France                   |         2 |   0        |
 | Cardiff Blues            |         2 |   1        |
 | Munster                  |         1 |   0        |
 | Argentina                |         1 |   0        |
 | Japan                    |         1 |   1        |
-| Ireland                  |         1 |   0        |
 | Sharks                   |         1 |   1        |
 | Tonga                    |         1 |   1        |
 | Canada                   |         1 |   1        |

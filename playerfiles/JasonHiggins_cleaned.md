@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jason Higgins  
-date: 2023-03-17 17:35:14.102264  
+date: 2023-03-21 18:12:55.646497  
 categories: player  
 ---
 # Jason Higgins
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Canada

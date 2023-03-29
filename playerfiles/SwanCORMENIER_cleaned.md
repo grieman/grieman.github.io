@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Swan CORMENIER  
-date: 2023-03-12 11:31:12.088480  
+date: 2023-03-29 11:28:59.265111  
 categories: player  
 ---
 # Swan CORMENIER
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 90.0

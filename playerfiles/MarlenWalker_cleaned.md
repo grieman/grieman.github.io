@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Marlen Walker  
-date: 2023-02-02 18:49:43.453131  
+date: 2023-03-21 18:06:23.422906  
 categories: player  
 ---
 # Marlen Walker
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 82.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -21,23 +23,23 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            96 |   0.557292 |
+| Cornish Pirates |            99 |   0.570707 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Doncaster           |        10 |   0.8      |
 | Bedford             |        10 |   0.65     |
+| Doncaster           |        10 |   0.8      |
+| London Scottish     |         9 |   0.666667 |
 | Ealing Trailfinders |         9 |   0.388889 |
 | Jersey              |         9 |   0.111111 |
-| London Scottish     |         8 |   0.625    |
 | Richmond            |         8 |   0.75     |
 | Yorkshire Carnegie  |         7 |   0.571429 |
 | Nottingham          |         7 |   0.714286 |
 | Hartpury College    |         7 |   0.857143 |
+| Ampthill            |         5 |   0.9      |
+| Coventry            |         4 |   0.5      |
 | Rotherham Titans    |         4 |   0.5      |
-| Ampthill            |         4 |   0.875    |
 | London Irish        |         4 |   0        |
-| Coventry            |         3 |   0.333333 |
 | Bristol Rugby       |         2 |   0        |
 | London Welsh        |         1 |   1        |
 | Newcastle Falcons   |         1 |   0        |

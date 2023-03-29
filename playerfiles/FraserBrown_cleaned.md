@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Fraser Brown  
-date: 2023-03-17 17:00:58.187158  
+date: 2023-03-21 18:43:23.434731  
 categories: player  
 ---
 # Fraser Brown
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Scotland
 
 ## Current elo: 122.0
 
-## Current Percentile: None
+## Current Percentile: 97.0
 
 # Elo History
 

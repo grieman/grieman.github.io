@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ryan Matyas  
-date: 2023-03-17 17:15:32.151502  
+date: 2023-03-21 18:28:24.348000  
 categories: player  
 ---
 # Ryan Matyas
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: United States of America

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam Slade  
-date: 2023-03-12 11:31:10.610415  
+date: 2023-03-29 11:30:10.124099  
 categories: player  
 ---
 # Sam Slade
 
+
+Last updated: 2023-03-29
 ## Positions: L, FL
 
 ## Country: Samoa
 
-## Current elo: 79.0
+## Current elo: 75.0
 
 ## Current Percentile: 7.0
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            13 |   0.230769 |
-| Moana Pasifika   |            10 |   0.2      |
+| Moana Pasifika   |            12 |   0.166667 |
 | Manawatu         |             8 |   0.125    |
 | Auckland         |             6 |   0.166667 |
 | Samoa            |             6 |   0.666667 |
@@ -34,22 +36,22 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Tonga                    |         4 |   1        |
 | Canterbury               |         3 |   0        |
+| Chiefs                   |         3 |   0        |
 | Southland                |         3 |   0.333333 |
 | Wellington               |         2 |   0        |
-| Hurricanes               |         2 |   0.5      |
-| Northland                |         2 |   0.5      |
+| Taranaki                 |         2 |   0        |
 | North Harbour            |         2 |   0        |
 | New Zealand Maori        |         2 |   0        |
-| Taranaki                 |         2 |   0        |
 | Manawatu                 |         2 |   0.5      |
+| Hurricanes               |         2 |   0.5      |
 | Tasman                   |         2 |   0        |
-| Hawke's Bay              |         2 |   0        |
-| Chiefs                   |         2 |   0        |
-| Waikato                  |         2 |   0        |
 | Otago                    |         2 |   0.5      |
-| Queensland Reds          |         1 |   0        |
+| Hawke's Bay              |         2 |   0        |
+| Waikato                  |         2 |   0        |
+| Northland                |         2 |   0.5      |
 | Toronto Arrows           |         1 |   1        |
 | San Diego Legion         |         1 |   0        |
+| Queensland Reds          |         1 |   0        |
 | Utah Warriors            |         1 |   1        |
 | Auckland                 |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
@@ -57,6 +59,7 @@ categories: player
 | Melbourne Rebels         |         1 |   0        |
 | Houston SaberCats        |         1 |   0        |
 | Highlanders              |         1 |   0        |
+| Fijian Drua              |         1 |   0        |
 | Crusaders                |         1 |   0        |
 | Counties Manukau         |         1 |   0        |
 | Brumbies                 |         1 |   1        |

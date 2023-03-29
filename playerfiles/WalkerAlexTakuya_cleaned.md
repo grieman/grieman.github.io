@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Walker Alex Takuya  
-date: 2023-01-13 11:29:03.439985  
+date: 2023-03-21 18:15:10.683612  
 categories: player  
 ---
 # Walker Alex Takuya
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 90.0
+## Current elo: 85.0
 
-## Current Percentile: 22.0
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |            11 |   0.363636 |
+| Kyuden Voltex |            15 |   0.533333 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
+| Chugoku Red Regulions            |         3 |        1   |
+| Kurita Water Gush                |         3 |        1   |
 | Toyota Industries Shuttles Aichi |         3 |        0   |
-| Chugoku Red Regulions            |         2 |        1   |
 | Munakata Sanix Blues             |         2 |        0   |
 | Shimizu Blue Sharks              |         2 |        0.5 |
-| Kurita Water Gush                |         1 |        1   |
 | NTT Docomo Red Hurricanes Osaka  |         1 |        0   |
+| Skyactivs Hiroshima              |         1 |        1   |

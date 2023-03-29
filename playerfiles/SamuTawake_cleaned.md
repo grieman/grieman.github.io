@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Samu Tawake  
-date: 2023-03-17 17:05:49.889826  
+date: 2023-03-21 18:55:35.300776  
 categories: player  
 ---
 # Samu Tawake
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 91.0
+## Current elo: 66.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Fijian Drua    |            15 |   0.266667 |
+| Fijian Drua    |            15 |   0.2      |
 | R.U. New York  |            10 |   0.4      |
 | Rugby New York |             7 |   0.571429 |
 | Manawatu       |             5 |   0.6      |
@@ -37,14 +39,14 @@ categories: player
 | Utah Warriors            |         2 |   0        |
 | Crusaders                |         2 |   0.5      |
 | Houston SaberCats        |         2 |   1        |
+| Queensland Reds          |         2 |   0        |
 | Melbourne Rebels         |         2 |   0.5      |
-| Moana Pasifika           |         2 |   1        |
 | Brumbies                 |         2 |   0        |
-| Otago                    |         1 |   1        |
-| Southland                |         1 |   1        |
-| Queensland Reds          |         1 |   0        |
-| Bay of Plenty            |         1 |   0        |
 | North Harbour            |         1 |   0        |
+| Southland                |         1 |   1        |
+| Otago                    |         1 |   1        |
+| Bay of Plenty            |         1 |   0        |
+| Moana Pasifika           |         1 |   1        |
 | L. A. Giltinis           |         1 |   1        |
 | Hurricanes               |         1 |   0        |
 | Highlanders              |         1 |   0        |

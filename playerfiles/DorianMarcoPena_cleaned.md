@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dorian Marco Pena  
-date: 2023-03-17 17:28:39.214240  
+date: 2023-03-21 18:23:12.755887  
 categories: player  
 ---
 # Dorian Marco Pena
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 110.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 

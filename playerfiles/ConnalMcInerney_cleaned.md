@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Connal McInerney  
-date: 2023-03-17 17:23:45.973276  
+date: 2023-03-21 18:03:45.789698  
 categories: player  
 ---
 # Connal McInerney
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Australia
@@ -23,7 +25,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Brumbies           |            42 |   0.761905 |
+| Brumbies           |            43 |   0.767442 |
 | Canberra Vikings   |            20 |   0.725    |
 | NSW Country Eagles |             5 |   0.5      |
 | Australia          |             2 |   0.5      |
@@ -46,11 +48,11 @@ categories: player
 | Sharks                   |         2 |   1        |
 | Queensland Country       |         2 |   0.5      |
 | Greater Sydney Rams      |         2 |   1        |
+| Moana Pasifika           |         2 |   0.5      |
 | Jaguares                 |         2 |   0        |
 | Blues                    |         2 |   0.5      |
 | Highlanders              |         1 |   0        |
 | Crusaders                |         1 |   0        |
-| Moana Pasifika           |         1 |   0        |
 | Canberra Vikings         |         1 |   1        |
 | Scotland                 |         1 |   0        |
 | Japan                    |         1 |   1        |

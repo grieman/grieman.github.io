@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Gheorge Gajion  
-date: 2023-01-13 11:26:33.419795  
+date: 2023-03-21 18:26:43.317135  
 categories: player  
 ---
 # Gheorge Gajion
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Romania
 
-## Current elo: 79.0
+## Current elo: 88.0
 
-## Current Percentile: 9.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Aurillac       |            28 |   0.5      |
-| Mont-de-Marsan |            13 |   0.769231 |
+| Mont-de-Marsan |            12 |   0.75     |
 | Ospreys        |            12 |   0.166667 |
 | Oyonnax        |             6 |   0.583333 |
 | Romania        |             4 |   0.25     |
@@ -37,10 +39,10 @@ categories: player
 | Colomiers            |         4 |   0.75     |
 | Oyonnax              |         4 |   0.5      |
 | Nevers               |         4 |   0.5      |
-| Aurillac             |         4 |   0.75     |
 | Vannes               |         3 |   0.666667 |
 | Uruguay              |         3 |   0.333333 |
 | US Bressane          |         3 |   0.666667 |
+| Aurillac             |         3 |   0.666667 |
 | Agen                 |         2 |   0.5      |
 | Munster              |         2 |   0        |
 | Soyaux-Angouleme     |         2 |   1        |

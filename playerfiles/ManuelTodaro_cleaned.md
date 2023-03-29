@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Manuel Todaro  
-date: 2023-03-17 17:01:34.822713  
+date: 2023-03-21 18:28:50.236964  
 categories: player  
 ---
 # Manuel Todaro
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 99.0
+## Current elo: 106.0
 
-## Current Percentile: None
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             2 |          1 |
+| Dogos XV |             3 |          1 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Pampas XV  |         1 |          1 |
 | Selknam    |         1 |          1 |
 | Yacare XV  |         1 |          1 |

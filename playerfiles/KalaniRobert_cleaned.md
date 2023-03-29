@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kalani Robert  
-date: 2023-03-17 17:21:17.769688  
+date: 2023-03-21 18:02:16.103516  
 categories: player  
 ---
 # Kalani Robert
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 90.0

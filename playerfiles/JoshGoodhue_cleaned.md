@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Josh Goodhue  
-date: 2023-03-17 17:30:10.076454  
+date: 2023-03-21 18:17:48.352064  
 categories: player  
 ---
 # Josh Goodhue
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Provincial Union XV

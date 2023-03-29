@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Darrien-Lane Landsberg  
-date: 2023-03-17 17:35:32.430021  
+date: 2023-03-21 18:31:45.727727  
 categories: player  
 ---
 # Darrien-Lane Landsberg
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 64.0
+## Current Percentile: 61.0
 
 # Elo History
 

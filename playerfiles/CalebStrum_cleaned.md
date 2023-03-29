@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Caleb Strum  
-date: 2023-03-17 17:26:05.272160  
+date: 2023-03-21 18:20:19.959288  
 categories: player  
 ---
 # Caleb Strum
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 85.0
+## Current elo: 81.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Chicago Hounds   |             3 |          0 |
-| Austin Gilgronis |             2 |          1 |
+| Chicago Hounds   |             4 |       0.25 |
+| Austin Gilgronis |             2 |       1    |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Dallas Jackals    |         1 |          1 |
+| Dallas Jackals    |         2 |          1 |
 | Houston SaberCats |         1 |          1 |
 | Old Glory DC      |         1 |          0 |
 | Toronto Arrows    |         1 |          0 |

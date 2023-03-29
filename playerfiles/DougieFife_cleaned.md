@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dougie Fife  
-date: 2023-03-17 17:21:00.195273  
+date: 2023-03-21 17:58:18.669646  
 categories: player  
 ---
 # Dougie Fife
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Country: Scotland

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Llewellyn Classen  
-date: 2023-03-17 17:34:09.972262  
+date: 2023-03-21 18:07:03.810228  
 categories: player  
 ---
 # Llewellyn Classen
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 99.0

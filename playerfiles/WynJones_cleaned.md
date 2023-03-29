@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Wyn Jones  
-date: 2023-03-17 17:30:51.196035  
+date: 2023-03-21 18:31:51.051720  
 categories: player  
 ---
 # Wyn Jones
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Wales
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Scarlets                |           113 |   0.566372 |
-| Wales                   |            43 |   0.55814  |
+| Wales                   |            44 |   0.545455 |
 | British and Irish Lions |             2 |   0.5      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -36,21 +38,21 @@ categories: player
 | Toulon             |         7 |   0.285714 |
 | Glasgow Warriors   |         7 |   0.428571 |
 | South Africa       |         7 |   0.428571 |
-| Ulster             |         6 |   0.333333 |
 | Munster            |         6 |   0.5      |
 | Leinster           |         6 |   0.5      |
-| Scotland           |         5 |   0.6      |
+| France             |         6 |   0.333333 |
+| Ulster             |         6 |   0.333333 |
 | Italy              |         5 |   0.8      |
 | Ireland            |         5 |   0.2      |
-| Zebre              |         5 |   1        |
 | England            |         5 |   0.4      |
-| France             |         5 |   0.4      |
-| Edinburgh          |         4 |   0.5      |
+| Zebre              |         5 |   1        |
+| Scotland           |         5 |   0.6      |
 | Connacht           |         4 |   0.5      |
+| Edinburgh          |         4 |   0.5      |
+| Cheetahs           |         3 |   1        |
 | Racing 92          |         3 |   0        |
 | Bath Rugby         |         3 |   0.666667 |
 | Leicester Tigers   |         3 |   0.333333 |
-| Cheetahs           |         3 |   1        |
 | London Irish       |         3 |   0.666667 |
 | New Zealand        |         3 |   0        |
 | Sale Sharks        |         3 |   0.333333 |

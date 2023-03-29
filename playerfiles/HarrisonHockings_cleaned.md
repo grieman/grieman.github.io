@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harrison Hockings  
-date: 2023-03-17 17:04:48.544835  
+date: 2023-03-21 18:21:54.678620  
 categories: player  
 ---
 # Harrison Hockings
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 110.0
+## Current elo: 109.0
 
-## Current Percentile: 73.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,18 +23,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            11 |   0.727273 |
+| Tokyo Sungoliath |            11 |   0.818182 |
 
-| Opponent                          |   Matches |   Win Rate |
-|:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         1 |          1 |
-| Green Rockets Tokatsu             |         1 |          1 |
-| Hanazono Kintetsu Liners          |         1 |          1 |
-| Kobelco Kobe Steelers             |         1 |          1 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
-| Mitsubishi Dynaboars              |         1 |          1 |
-| Saitama Wild Knights              |         1 |          0 |
-| Shizuoka Blue Revs                |         1 |          1 |
-| Toshiba Brave Lupus Tokyo         |         1 |          1 |
-| Toyota Verblitz                   |         1 |          0 |
-| Yokohama Canon Eagles             |         1 |          1 |
+| Opponent                  |   Matches |   Win Rate |
+|:--------------------------|----------:|-----------:|
+| Hanazono Kintetsu Liners  |         2 |          1 |
+| Black Rams Tokyo          |         1 |          1 |
+| Green Rockets Tokatsu     |         1 |          1 |
+| Kobelco Kobe Steelers     |         1 |          1 |
+| Mitsubishi Dynaboars      |         1 |          1 |
+| Saitama Wild Knights      |         1 |          0 |
+| Shizuoka Blue Revs        |         1 |          1 |
+| Toshiba Brave Lupus Tokyo |         1 |          1 |
+| Toyota Verblitz           |         1 |          0 |
+| Yokohama Canon Eagles     |         1 |          1 |

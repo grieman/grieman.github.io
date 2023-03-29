@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas Damorim  
-date: 2023-03-04 11:37:43.990303  
+date: 2023-03-21 18:10:35.570190  
 categories: player  
 ---
 # Nicolas Damorim
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 121.0
+## Current elo: 115.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Hindu     |            29 |   0.896552 |
-| Pampas XV |             3 |   0.666667 |
+| Pampas XV |             4 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,4 +42,5 @@ categories: player
 | Belgrano             |         1 |   1        |
 | CUBA                 |         1 |   1        |
 | Cobras               |         1 |   1        |
+| Dogos XV             |         1 |   0        |
 | Selknam              |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Théo Millet  
-date: 2023-02-24 02:22:36.191286  
+date: 2023-03-21 18:54:38.542856  
 categories: player  
 ---
 # Théo Millet
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 96.0
+## Current elo: 106.0
 
-## Current Percentile: 41.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |             9 |   0.777778 |
+| Oyonnax |             8 |      0.625 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Montauban          |         2 |          1 |
 | Beziers            |         1 |          1 |
 | Biarritz Olympique |         1 |          1 |
 | Colomiers          |         1 |          1 |
 | Mont-de-Marsan     |         1 |          0 |
+| Montauban          |         1 |          1 |
 | Nevers             |         1 |          1 |
 | Rouen              |         1 |          0 |
-| Soyaux-Angouleme   |         1 |          1 |
+| Vannes             |         1 |          0 |

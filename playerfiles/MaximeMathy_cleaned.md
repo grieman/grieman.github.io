@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Maxime Mathy  
-date: 2023-02-02 18:48:41.616500  
+date: 2023-03-21 18:54:51.555337  
 categories: player  
 ---
 # Maxime Mathy
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 119.0
+## Current elo: 101.0
 
-## Current Percentile: 91.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,26 +23,26 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Montauban |           151 |   0.486755 |
+| Montauban |           159 |   0.474843 |
 | Dax       |            36 |   0.444444 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Beziers                    |        13 |   0.346154 |
 | Biarritz Olympique         |        13 |   0.384615 |
-| Beziers                    |        12 |   0.375    |
-| Colomiers                  |        11 |   0.454545 |
+| Colomiers                  |        12 |   0.5      |
 | Narbonne                   |        10 |   0.6      |
-| Vannes                     |         9 |   0.5      |
+| Mont-de-Marsan             |         9 |   0.444444 |
 | Carcassonne                |         9 |   0.444444 |
+| Oyonnax                    |         9 |   0.5      |
+| Grenoble                   |         9 |   0.444444 |
+| Vannes                     |         9 |   0.5      |
 | Aurillac                   |         9 |   0.5      |
-| Oyonnax                    |         8 |   0.5625   |
-| Mont-de-Marsan             |         8 |   0.375    |
-| Soyaux-Angouleme           |         7 |   0.714286 |
-| Grenoble                   |         7 |   0.571429 |
-| Provence Rugby             |         7 |   0.428571 |
+| Soyaux-Angouleme           |         8 |   0.625    |
+| Agen                       |         7 |   0.285714 |
 | Bayonne                    |         7 |   0.142857 |
+| Provence Rugby             |         7 |   0.428571 |
 | Nevers                     |         7 |   0.714286 |
-| Agen                       |         6 |   0.333333 |
 | Bourgoin-Jallieu           |         6 |   0.416667 |
 | Albi                       |         6 |   0.666667 |
 | Perpignan                  |         6 |   0.333333 |

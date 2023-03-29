@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Naoto Saito  
-date: 2023-03-17 17:09:47.576177  
+date: 2023-03-21 18:22:36.735758  
 categories: player  
 ---
 # Naoto Saito
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Japan

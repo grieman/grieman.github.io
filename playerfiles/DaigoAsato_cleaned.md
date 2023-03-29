@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daigo Asato  
-date: 2023-01-13 11:36:49.832240  
+date: 2023-03-21 18:48:28.886241  
 categories: player  
 ---
 # Daigo Asato
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 87.0
+## Current elo: 91.0
 
-## Current Percentile: 17.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |             3 |   0.666667 |
+| Kyuden Voltex |             8 |      0.875 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Chugoku Red Regulions           |         1 |          1 |
-| Kurita Water Gush               |         1 |          1 |
+| Kurita Water Gush               |         3 |          1 |
+| Chugoku Red Regulions           |         2 |          1 |
+| Skyactivs Hiroshima             |         2 |          1 |
 | NTT Docomo Red Hurricanes Osaka |         1 |          0 |

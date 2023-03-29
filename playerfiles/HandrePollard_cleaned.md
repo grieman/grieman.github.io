@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Handre Pollard  
-date: 2023-03-17 17:18:23.865660  
+date: 2023-03-21 18:15:51.834446  
 categories: player  
 ---
 # Handre Pollard
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: South Africa

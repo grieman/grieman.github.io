@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lautaro Ezequiel Bavaro  
-date: 2023-03-17 17:05:34.855949  
+date: 2023-03-21 18:50:32.622669  
 categories: player  
 ---
 # Lautaro Ezequiel Bavaro
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 104.0
+## Current elo: 107.0
 
-## Current Percentile: 81.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,10 +23,10 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Hindu        |           118 |   0.79661  |
-| Jaguares XV  |            17 |   1        |
-| Old Glory DC |             3 |   0.333333 |
-| Ceibos Rugby |             2 |   1        |
+| Hindu        |           118 |    0.79661 |
+| Jaguares XV  |            17 |    1       |
+| Old Glory DC |             4 |    0.5     |
+| Ceibos Rugby |             2 |    1       |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -60,3 +62,4 @@ categories: player
 | Boland Cavaliers       |         1 |   1        |
 | Cobras                 |         1 |   1        |
 | Liceo Naval            |         1 |   1        |
+| Toronto Arrows         |         1 |   1        |

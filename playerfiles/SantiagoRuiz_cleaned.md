@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Santiago Ruiz  
-date: 2023-03-04 11:39:40.344222  
+date: 2023-03-21 18:19:45.473310  
 categories: player  
 ---
 # Santiago Ruiz
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Argentina

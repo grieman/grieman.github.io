@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Mikheil Alania  
-date: 2023-01-13 11:33:17.367904  
+date: 2023-03-21 18:35:44.696598  
 categories: player  
 ---
 # Mikheil Alania
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Georgia
 
 ## Current elo: 91.0
 
-## Current Percentile: 37.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -23,26 +25,27 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            20 |        0.4 |
-| Georgia  |             5 |        0.8 |
+| Aurillac |            23 |   0.347826 |
+| Georgia  |             6 |   0.833333 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Oyonnax          |         3 |   0        |
 | Montauban        |         3 |   0.666667 |
-| Carcassonne      |         2 |   0.5      |
-| Provence Rugby   |         2 |   0.5      |
+| Oyonnax          |         3 |   0        |
 | Mont-de-Marsan   |         2 |   0        |
-| Agen             |         1 |   0        |
-| Spain            |         1 |   1        |
-| Soyaux-Angouleme |         1 |   1        |
-| Russia           |         1 |   1        |
-| Portugal         |         1 |   1        |
+| Provence Rugby   |         2 |   0.5      |
+| Vannes           |         2 |   0        |
+| Colomiers        |         2 |   0.5      |
+| Carcassonne      |         2 |   0.5      |
+| Beziers          |         2 |   0        |
+| France           |         1 |   0        |
+| Germany          |         1 |   1        |
+| Massy            |         1 |   1        |
+| Bayonne          |         1 |   0        |
 | Netherlands      |         1 |   1        |
 | Nevers           |         1 |   1        |
-| Bayonne          |         1 |   0        |
-| Massy            |         1 |   1        |
-| France           |         1 |   0        |
-| Colomiers        |         1 |   1        |
-| Beziers          |         1 |   0        |
-| Vannes           |         1 |   0        |
+| Portugal         |         1 |   1        |
+| Russia           |         1 |   1        |
+| Soyaux-Angouleme |         1 |   1        |
+| Spain            |         1 |   1        |
+| Agen             |         1 |   0        |

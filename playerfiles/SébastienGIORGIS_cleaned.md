@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sébastien GIORGIS  
-date: 2023-03-17 17:30:14.181268  
+date: 2023-03-29 11:28:04.305985  
 categories: player  
 ---
 # Sébastien GIORGIS
 
+
+Last updated: 2023-03-29
 ## Positions: W, C
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 38.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -40,19 +42,19 @@ categories: player
 | Albi                       |         4 |  0.375     |
 | Bourgoin-Jallieu           |         4 |  0.5       |
 | Massy                      |         3 |  0.666667  |
-| Bayonne                    |         3 |  0.333333  |
-| Valence Romans Drome Rugby |         3 |  0         |
-| Carcassonne                |         3 |  0.666667  |
-| Tarbes                     |         3 |  0.333333  |
-| Dax                        |         3 |  0.666667  |
 | Provence Rugby             |         3 |  0.666667  |
-| Grenoble                   |         2 |  0         |
-| Chambery                   |         2 |  0         |
+| Valence Romans Drome Rugby |         3 |  0         |
+| Tarbes                     |         3 |  0.333333  |
+| Carcassonne                |         3 |  0.666667  |
+| Bayonne                    |         3 |  0.333333  |
+| Dax                        |         3 |  0.666667  |
 | US Bressane                |         2 |  0.5       |
-| Nice                       |         2 |  1         |
-| Rouen                      |         2 |  0.5       |
 | Suresnes                   |         2 |  1         |
-| Cognac Saint Jean d'Angély |         1 |  1         |
+| Rouen                      |         2 |  0.5       |
+| Cognac Saint Jean d'Angély |         2 |  1         |
+| Chambery                   |         2 |  0         |
+| Grenoble                   |         2 |  0         |
+| Nice                       |         1 |  1         |
 | Roval Drome XV             |         1 |  1         |
 | Brive                      |         1 |  1         |
 | Carqueiranne-Hyères        |         1 |  1         |

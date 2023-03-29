@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tijde VISSER  
-date: 2023-03-17 17:38:43.479665  
+date: 2023-03-24 11:45:50.800436  
 categories: player  
 ---
 # Tijde VISSER
 
+
+Last updated: 2023-03-24
 ## Positions: P
 
-## Current elo: 75.0
+## Current elo: 93.0
 
-## Current Percentile: 42.0
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Massy   |            33 |   0.606061 |
+| Massy   |            31 |   0.612903 |
 | Griquas |             4 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Agen                       |         3 |        0   |
 | Soyaux-Angouleme           |         3 |        0   |
-| Carcassonne                |         3 |        1   |
+| Agen                       |         2 |        0   |
+| Carcassonne                |         2 |        1   |
 | Chambery                   |         2 |        1   |
 | Dax                        |         2 |        1   |
 | Albi                       |         2 |        1   |

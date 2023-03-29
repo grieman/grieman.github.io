@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Teruya Goto  
-date: 2023-03-17 17:32:13.769616  
+date: 2023-03-21 18:39:26.625006  
 categories: player  
 ---
 # Teruya Goto
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 111.0

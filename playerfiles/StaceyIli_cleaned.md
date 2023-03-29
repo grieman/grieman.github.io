@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Stacey Ili  
-date: 2023-03-17 17:19:34.749792  
+date: 2023-03-21 18:08:11.271399  
 categories: player  
 ---
 # Stacey Ili
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Samoa
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Hawke's Bay      |            35 |   0.571429 |
-| Melbourne Rebels |            24 |   0.291667 |
+| Melbourne Rebels |            25 |   0.28     |
 | Connacht         |            15 |   0.533333 |
 | Melbourne Rising |             8 |   0.5      |
 | Samoa            |             7 |   0.571429 |
@@ -45,9 +47,9 @@ categories: player
 | Counties Manukau         |         3 |   0.666667 |
 | Cardiff Blues            |         3 |   0.666667 |
 | Canterbury               |         3 |   0.333333 |
+| Chiefs                   |         3 |   0        |
 | Benetton Treviso         |         2 |   1        |
 | Taranaki                 |         2 |   0.5      |
-| Chiefs                   |         2 |   0        |
 | Canberra Vikings         |         2 |   0        |
 | North Harbour            |         2 |   0.5      |
 | New Zealand Maori        |         2 |   0        |

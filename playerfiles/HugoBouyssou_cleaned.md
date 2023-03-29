@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hugo Bouyssou  
-date: 2023-03-17 17:20:05.978878  
+date: 2023-03-21 18:19:52.472888  
 categories: player  
 ---
 # Hugo Bouyssou
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 71.0
+## Current elo: 69.0
 
-## Current Percentile: 6.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |           100 |      0.415 |
+| Aurillac |           101 |   0.410891 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -31,10 +33,10 @@ categories: player
 | Beziers                    |         7 |   0.428571 |
 | Provence Rugby             |         7 |   0.714286 |
 | Soyaux-Angouleme           |         6 |   0.5      |
+| Colomiers                  |         6 |   0.166667 |
 | Mont-de-Marsan             |         5 |   0.2      |
 | Rouen                      |         5 |   0.6      |
 | Montauban                  |         5 |   0.3      |
-| Colomiers                  |         5 |   0.2      |
 | Narbonne                   |         4 |   1        |
 | Nevers                     |         4 |   0.25     |
 | Perpignan                  |         4 |   0        |

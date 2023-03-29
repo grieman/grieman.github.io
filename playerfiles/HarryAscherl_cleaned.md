@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Harry Ascherl  
-date: 2023-02-24 02:35:17.286538  
+date: 2023-03-21 18:52:00.170657  
 categories: player  
 ---
 # Harry Ascherl
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

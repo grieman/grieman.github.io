@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matt Gallagher  
-date: 2023-03-17 17:34:13.298285  
+date: 2023-03-21 18:55:05.538817  
 categories: player  
 ---
 # Matt Gallagher
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Current elo: 98.0

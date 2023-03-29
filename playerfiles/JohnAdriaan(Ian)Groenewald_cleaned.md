@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: John Adriaan (Ian) Groenewald  
-date: 2023-03-17 17:42:13.828381  
+date: 2023-03-21 18:11:07.257529  
 categories: player  
 ---
 # John Adriaan (Ian) Groenewald
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

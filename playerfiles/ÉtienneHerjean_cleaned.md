@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Étienne Herjean  
-date: 2023-02-26 11:19:31.739736  
+date: 2023-03-21 18:04:39.728938  
 categories: player  
 ---
 # Étienne Herjean
 
-## Positions: N8
 
-## Current elo: 95.0
+Last updated: 2023-03-21
+## Positions: FL
 
-## Current Percentile: 50.0
+## Current elo: 102.0
+
+## Current Percentile: None
 
 # Elo History
 
@@ -21,11 +23,10 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |             4 |       0.25 |
+| Carcassonne |             3 |   0.333333 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
-| Mont-de-Marsan |         1 |          0 |
-| Nevers         |         1 |          1 |
+| Mont-de-Marsan |         1 |          1 |
+| Nevers         |         1 |          0 |
 | Oyonnax        |         1 |          0 |
-| Provence Rugby |         1 |          0 |

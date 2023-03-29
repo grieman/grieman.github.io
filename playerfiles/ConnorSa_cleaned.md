@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Connor Sa  
-date: 2023-01-15 11:48:14.478988  
+date: 2023-03-21 18:06:06.732777  
 categories: player  
 ---
 # Connor Sa
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 85.0
 
-## Current Percentile: 49.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Carcassonne     |             9 |   0.333333 |
-| Bordeaux Begles |             2 |   0.5      |
+| Carcassonne     |            11 |   0.363636 |
+| Bordeaux Begles |             3 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -30,10 +32,13 @@ categories: player
 | Beziers            |         1 |          1 |
 | Biarritz Olympique |         1 |          0 |
 | Colomiers          |         1 |          0 |
+| Gloucester Rugby   |         1 |          0 |
 | Grenoble           |         1 |          0 |
 | La Rochelle        |         1 |          1 |
 | Massy              |         1 |          0 |
+| Mont-de-Marsan     |         1 |          1 |
 | Montauban          |         1 |          1 |
+| Nevers             |         1 |          0 |
 | Oyonnax            |         1 |          0 |
 | Sharks             |         1 |          0 |
 | Vannes             |         1 |          0 |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Bevan Rodd  
-date: 2023-03-17 17:16:10.701863  
+date: 2023-03-21 18:39:39.713988  
 categories: player  
 ---
 # Bevan Rodd
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England
 
 ## Current elo: 112.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 

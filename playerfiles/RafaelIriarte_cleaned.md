@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rafael Iriarte  
-date: 2023-03-04 11:39:23.147261  
+date: 2023-03-21 18:44:49.435211  
 categories: player  
 ---
 # Rafael Iriarte
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 103.0
+## Current elo: 99.0
 
-## Current Percentile: 71.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 |:------------|--------------:|-----------:|
 | CUBA        |            24 |   0.666667 |
 | Jaguares XV |            15 |   0.8      |
-| Pampas XV   |             3 |   0.666667 |
+| Pampas XV   |             4 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -32,8 +34,8 @@ categories: player
 | Cobras               |         4 |   1        |
 | Cafeteros Pro        |         3 |   1        |
 | Regatas Bella Vista  |         3 |   0.666667 |
-| Hindu                |         3 |   0        |
 | Los Tilos            |         3 |   1        |
+| Hindu                |         3 |   0        |
 | Belgrano             |         3 |   1        |
 | Buenos Aires         |         2 |   1        |
 | Newman               |         2 |   0        |
@@ -41,6 +43,7 @@ categories: player
 | Pucara               |         2 |   1        |
 | San Luis             |         2 |   1        |
 | CASI                 |         1 |   1        |
+| Dogos XV             |         1 |   0        |
 | American Raptors     |         1 |   1        |
 | Atlético del Rosario |         1 |   1        |
 | SIC                  |         1 |   0        |

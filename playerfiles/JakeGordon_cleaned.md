@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jake Gordon  
-date: 2023-03-17 17:27:10.344259  
+date: 2023-03-21 18:21:27.727696  
 categories: player  
 ---
 # Jake Gordon
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Australia
 
 ## Current elo: 126.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 

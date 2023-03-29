@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Éloi Massot  
-date: 2023-02-15 22:15:07.858047  
+date: 2023-03-21 18:14:48.457280  
 categories: player  
 ---
 # Éloi Massot
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 74.0
+## Current elo: 79.0
 
-## Current Percentile: 13.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |           126 |   0.428571 |
+| Beziers |           127 |   0.433071 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,9 +31,9 @@ categories: player
 | Colomiers                  |        12 |   0.333333 |
 | Aurillac                   |         9 |   0.555556 |
 | Oyonnax                    |         8 |   0.25     |
+| Montauban                  |         8 |   0.75     |
 | Biarritz Olympique         |         7 |   0.142857 |
 | Narbonne                   |         7 |   0.571429 |
-| Montauban                  |         7 |   0.714286 |
 | Soyaux-Angouleme           |         6 |   0.333333 |
 | Albi                       |         4 |   0.75     |
 | Perpignan                  |         4 |   0.25     |

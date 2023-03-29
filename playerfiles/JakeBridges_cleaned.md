@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Jake Bridges  
-date: 2023-03-12 11:29:21.396918  
+date: 2023-03-21 18:15:27.340295  
 categories: player  
 ---
 # Jake Bridges
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 84.0
+## Current elo: 87.0
 
 ## Current Percentile: 19.0
 
@@ -21,12 +23,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Coventry |             7 |   0.571429 |
+| Coventry |             8 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Jersey              |         2 |          0 |
 | London Scottish     |         2 |          1 |
 | Ampthill            |         1 |          1 |
+| Caldy               |         1 |          1 |
+| Cornish Pirates     |         1 |          0 |
 | Ealing Trailfinders |         1 |          0 |
-| Richmond            |         1 |          1 |

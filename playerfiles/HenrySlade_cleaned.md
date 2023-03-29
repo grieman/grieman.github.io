@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Henry Slade  
-date: 2023-03-17 17:19:21.210056  
+date: 2023-03-21 18:34:38.635688  
 categories: player  
 ---
 # Henry Slade
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Country: England
 
-## Current elo: 90.0
+## Current elo: 100.0
 
-## Current Percentile: 43.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Exeter Chiefs |           209 |   0.641148 |
-| England       |            52 |   0.730769 |
+| England       |            53 |   0.716981 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -50,10 +52,10 @@ categories: player
 | Munster                  |         4 |   0.375    |
 | Montpellier Herault      |         4 |   0.75     |
 | Castres Olympique        |         4 |   0.75     |
+| Ireland                  |         4 |   0.5      |
 | Leinster                 |         3 |   0        |
 | London Welsh             |         3 |   1        |
 | Scotland                 |         3 |   0.166667 |
-| Ireland                  |         3 |   0.666667 |
 | New Zealand              |         3 |   0.5      |
 | Bordeaux Begles          |         3 |   0.666667 |
 | Bulls                    |         2 |   0.5      |

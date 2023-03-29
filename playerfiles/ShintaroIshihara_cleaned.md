@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shintaro Ishihara  
-date: 2023-03-17 17:29:16.537212  
+date: 2023-03-21 18:38:15.158602  
 categories: player  
 ---
 # Shintaro Ishihara
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

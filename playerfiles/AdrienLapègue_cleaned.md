@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Adrien Lapègue  
-date: 2023-02-24 02:29:24.458029  
+date: 2023-03-21 18:03:47.244539  
 categories: player  
 ---
 # Adrien Lapègue
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 93.0
+## Current elo: 94.0
 
-## Current Percentile: 39.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Provence Rugby |             3 |        0.5 |
+| Provence Rugby |             4 |        0.5 |
 
-| Opponent    |   Matches |   Win Rate |
-|:------------|----------:|-----------:|
-| Agen        |         1 |        0.5 |
-| Beziers     |         1 |        0   |
-| Carcassonne |         1 |        1   |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Agen               |         1 |        0.5 |
+| Beziers            |         1 |        0   |
+| Biarritz Olympique |         1 |        1   |
+| Rouen              |         1 |        0.5 |

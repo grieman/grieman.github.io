@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Juan Echeverria  
-date: 2023-03-17 17:40:21.403883  
+date: 2023-03-21 18:33:01.489627  
 categories: player  
 ---
 # Juan Echeverria
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Uruguay

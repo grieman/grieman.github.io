@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kosuke Horikoshi  
-date: 2023-03-17 17:09:16.037606  
+date: 2023-03-21 18:52:39.709102  
 categories: player  
 ---
 # Kosuke Horikoshi
 
+
+Last updated: 2023-03-21
 ## Positions: H, P
 
 ## Country: Japan

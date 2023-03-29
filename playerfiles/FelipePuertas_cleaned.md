@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Felipe Puertas  
-date: 2023-03-17 17:33:25.178349  
+date: 2023-03-21 18:45:12.614680  
 categories: player  
 ---
 # Felipe Puertas
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 83.0
 
-## Current Percentile: 10.0
+## Current Percentile: 11.0
 
 # Elo History
 

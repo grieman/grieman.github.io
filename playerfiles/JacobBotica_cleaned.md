@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jacob Botica  
-date: 2023-01-13 11:33:36.185324  
+date: 2023-03-21 18:25:29.285770  
 categories: player  
 ---
 # Jacob Botica
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 99.0
+## Current elo: 88.0
 
-## Current Percentile: 63.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,21 +23,33 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            11 |   0.363636 |
-| Agen             |             4 |   0.5      |
-| Dragons          |             1 |   0        |
+| Dragons          |            14 |        0.5 |
+| Soyaux-Angouleme |            10 |        0.4 |
+| Agen             |             4 |        0.5 |
+| Scarlets         |             1 |        0   |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Biarritz Olympique |         2 |        0   |
 | Massy              |         2 |        1   |
 | Montauban          |         2 |        0.5 |
-| Nevers             |         2 |        0   |
-| Albi               |         1 |        0   |
-| Aurillac           |         1 |        0   |
-| Beziers            |         1 |        1   |
-| Carcassonne        |         1 |        1   |
-| Mont-de-Marsan     |         1 |        0   |
-| Munster            |         1 |        0   |
-| Rouen              |         1 |        0   |
+| Worcester Warriors |         2 |        0.5 |
+| Biarritz Olympique |         2 |        0   |
+| Castres Olympique  |         2 |        0.5 |
+| RC Enisei          |         2 |        1   |
 | Vannes             |         1 |        1   |
+| Scarlets           |         1 |        1   |
+| Rouen              |         1 |        0   |
+| Ospreys            |         1 |        1   |
+| Nevers             |         1 |        0   |
+| Munster            |         1 |        0   |
+| Albi               |         1 |        0   |
+| Mont-de-Marsan     |         1 |        0   |
+| Aurillac           |         1 |        0   |
+| Harlequins         |         1 |        0   |
+| Glasgow Warriors   |         1 |        0   |
+| Cheetahs           |         1 |        1   |
+| Cardiff Blues      |         1 |        0   |
+| Carcassonne        |         1 |        1   |
+| Beziers            |         1 |        1   |
+| Benetton Treviso   |         1 |        0   |
+| Zebre              |         1 |        0   |

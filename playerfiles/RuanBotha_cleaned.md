@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ruan Botha  
-date: 2023-03-17 17:13:14.556577  
+date: 2023-03-21 18:20:44.881254  
 categories: player  
 ---
 # Ruan Botha
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 121.0

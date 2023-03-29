@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Malakai Latu  
-date: 2023-03-17 17:42:55.861792  
+date: 2023-03-21 18:27:58.034034  
 categories: player  
 ---
 # Malakai Latu
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

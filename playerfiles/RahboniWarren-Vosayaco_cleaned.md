@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Rahboni Warren-Vosayaco  
-date: 2023-03-17 17:30:01.317494  
+date: 2023-03-29 11:27:52.988184  
 categories: player  
 ---
 # Rahboni Warren-Vosayaco
 
+
+Last updated: 2023-03-29
 ## Positions: N8
 
-## Current elo: 80.0
+## Current elo: 92.0
 
 ## Current Percentile: 19.0
 
@@ -25,13 +27,13 @@ categories: player
 | New South Wales Waratahs |             9 |   0.444444 |
 | Urayasu D-Rocks          |             9 |   0.611111 |
 | Munakata Sanix Blues     |             8 |   0.375    |
+| Western Force            |             2 |   0.5      |
 | Greater Sydney Rams      |             1 |   0        |
-| Western Force            |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Highlanders                       |         4 |   0        |
 | Chiefs                            |         4 |   0.25     |
-| Highlanders                       |         3 |   0        |
 | New South Wales Waratahs          |         3 |   0.333333 |
 | Queensland Reds                   |         3 |   0        |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Johan Mulder  
-date: 2023-03-17 17:41:12.029183  
+date: 2023-03-21 18:02:22.851986  
 categories: player  
 ---
 # Johan Mulder
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 70.0
+## Current elo: 76.0
 
-## Current Percentile: 59.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Griquas    |            13 |   0.538462 |
+| Griquas    |            14 |   0.571429 |
 | Blue Bulls |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -30,5 +32,5 @@ categories: player
 | Free State Cheetahs |         3 |   0.333333 |
 | Pumas               |         3 |   0.666667 |
 | Golden Lions        |         2 |   1        |
+| Natal Sharks        |         2 |   0.5      |
 | Western Province    |         2 |   0.5      |
-| Natal Sharks        |         1 |   0        |

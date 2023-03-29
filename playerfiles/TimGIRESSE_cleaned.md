@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tim GIRESSE  
-date: 2023-03-17 17:18:37.711665  
+date: 2023-03-21 18:12:05.698001  
 categories: player  
 ---
 # Tim GIRESSE
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 111.0

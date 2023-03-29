@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Michael Benadie  
-date: 2023-03-17 17:03:23.215617  
+date: 2023-03-21 18:03:57.933836  
 categories: player  
 ---
 # Michael Benadie
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 94.0
+## Current elo: 87.0
 
-## Current Percentile: None
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Griffons |             1 |          0 |
+| Griffons |             2 |          0 |
 
-| Opponent     |   Matches |   Win Rate |
-|:-------------|----------:|-----------:|
-| Natal Sharks |         1 |          0 |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Free State Cheetahs |         1 |          0 |
+| Natal Sharks        |         1 |          0 |

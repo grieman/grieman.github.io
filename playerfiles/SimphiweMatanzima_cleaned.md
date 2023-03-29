@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Simphiwe Matanzima  
-date: 2023-02-02 18:57:19.798724  
+date: 2023-03-21 18:31:24.207756  
 categories: player  
 ---
 # Simphiwe Matanzima
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 92.0
 
-## Current Percentile: 65.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,41 +23,40 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Bulls      |            52 |   0.557692 |
-| Blue Bulls |            16 |   0.6875   |
+| Bulls      |            49 |   0.612245 |
+| Blue Bulls |            17 |   0.705882 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Sharks                   |         7 |   0.428571 |
-| Stormers                 |         5 |   0.2      |
+| Sharks                   |         6 |   0.5      |
+| Lions                    |         6 |   1        |
 | Griquas                  |         4 |   0.75     |
 | Western Province         |         4 |   0.5      |
-| Lions                    |         4 |   1        |
+| Stormers                 |         4 |   0.25     |
 | Pumas                    |         3 |   1        |
 | Jaguares                 |         3 |   0.333333 |
 | Benetton Treviso         |         2 |   1        |
-| Scarlets                 |         2 |   0.5      |
 | Ospreys                  |         2 |   1        |
+| Natal Sharks             |         2 |   0.5      |
 | Munster                  |         2 |   0.5      |
 | Leinster                 |         2 |   0.5      |
 | Golden Lions             |         2 |   1        |
 | Glasgow Warriors         |         2 |   0.5      |
 | Free State Cheetahs      |         2 |   0.5      |
-| Cardiff Blues            |         2 |   1        |
 | Edinburgh                |         2 |   0.5      |
+| Cardiff Blues            |         2 |   1        |
 | Connacht                 |         2 |   0.5      |
-| Dragons                  |         2 |   1        |
 | Queensland Reds          |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Ulster                   |         1 |   1        |
 | Sunwolves                |         1 |   0        |
 | Chiefs                   |         1 |   0        |
-| New South Wales Waratahs |         1 |   1        |
+| Scarlets                 |         1 |   1        |
 | Crusaders                |         1 |   0        |
 | Highlanders              |         1 |   0.5      |
-| Natal Sharks             |         1 |   0        |
+| New South Wales Waratahs |         1 |   1        |
+| Dragons                  |         1 |   1        |
 | Melbourne Rebels         |         1 |   1        |
-| Lyon                     |         1 |   0        |
 | Blues                    |         1 |   0.5      |
 | Hurricanes               |         1 |   0        |
 | Zebre                    |         1 |   1        |

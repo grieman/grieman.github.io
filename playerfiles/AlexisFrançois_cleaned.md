@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alexis François  
-date: 2023-03-17 17:26:16.564262  
+date: 2023-03-21 18:18:31.293601  
 categories: player  
 ---
 # Alexis François
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 70.0
+## Current elo: 66.0
 
-## Current Percentile: 10.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Rennes   |            20 |   0.25     |
+| Rennes   |            19 |   0.263158 |
 | Narbonne |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -30,7 +32,6 @@ categories: player
 | Albi                       |         2 |        0   |
 | Blagnac                    |         2 |        0   |
 | Chambery                   |         2 |        0.5 |
-| Suresnes                   |         2 |        0   |
 | US Bressane                |         2 |        0   |
 | Bayonne                    |         1 |        1   |
 | Bourgoin-Jallieu           |         1 |        0   |
@@ -40,5 +41,6 @@ categories: player
 | Montauban                  |         1 |        0   |
 | Narbonne                   |         1 |        0   |
 | Nice                       |         1 |        0   |
+| Suresnes                   |         1 |        0   |
 | Tarbes                     |         1 |        0   |
 | Valence Romans Drome Rugby |         1 |        0   |

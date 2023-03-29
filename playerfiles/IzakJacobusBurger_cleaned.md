@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Izak Jacobus Burger  
-date: 2023-02-24 02:29:00.630874  
+date: 2023-03-21 18:35:47.517595  
 categories: player  
 ---
 # Izak Jacobus Burger
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 112.0
+## Current elo: 105.0
 
-## Current Percentile: 88.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -19,15 +21,15 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Bulls  |             7 |   0.571429 |
+| Team       |   Appearances |   Win Rate |
+|:-----------|--------------:|-----------:|
+| Bulls      |             5 |        0.4 |
+| Blue Bulls |             1 |        0   |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Stormers      |         2 |          0 |
-| Cardiff Blues |         1 |          1 |
-| Dragons       |         1 |          1 |
-| Exeter Chiefs |         1 |          1 |
-| Ospreys       |         1 |          1 |
-| Scarlets      |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Stormers         |         2 |          0 |
+| Dragons          |         1 |          1 |
+| Exeter Chiefs    |         1 |          1 |
+| Scarlets         |         1 |          0 |
+| Western Province |         1 |          0 |

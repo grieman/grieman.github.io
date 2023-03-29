@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ilan El Khattabi  
-date: 2023-02-02 18:52:04.232186  
+date: 2023-03-21 18:05:14.630864  
 categories: player  
 ---
 # Ilan El Khattabi
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 77.0
+## Current elo: 82.0
 
-## Current Percentile: None
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,21 +23,21 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            31 |   0.693548 |
+| Oyonnax |            36 |   0.680556 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Rouen              |         6 |   0.5      |
+| Rouen              |         7 |   0.428571 |
 | Aurillac           |         4 |   0.75     |
-| Colomiers          |         3 |   0.333333 |
+| Colomiers          |         4 |   0.5      |
+| Carcassonne        |         3 |   1        |
 | Provence Rugby     |         3 |   1        |
 | Agen               |         2 |   1        |
 | Beziers            |         2 |   1        |
-| Carcassonne        |         2 |   1        |
+| Biarritz Olympique |         2 |   0.5      |
 | Mont-de-Marsan     |         2 |   0.25     |
 | Soyaux-Angouleme   |         2 |   1        |
+| Vannes             |         2 |   0        |
 | Bayonne            |         1 |   1        |
-| Biarritz Olympique |         1 |   0        |
 | Grenoble           |         1 |   1        |
 | Montauban          |         1 |   1        |
-| Vannes             |         1 |   0        |

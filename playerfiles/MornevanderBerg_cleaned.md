@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Morne van der Berg  
-date: 2023-03-17 17:21:39.479931  
+date: 2023-03-21 18:24:01.984035  
 categories: player  
 ---
 # Morne van der Berg
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 103.0
+## Current elo: 110.0
 
-## Current Percentile: 43.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,9 +23,9 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Golden Lions |             2 |          0 |
+| Golden Lions |             3 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Pumas            |         1 |          0 |
+| Pumas            |         2 |          0 |
 | Western Province |         1 |          0 |

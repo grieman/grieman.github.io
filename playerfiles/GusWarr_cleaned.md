@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gus Warr  
-date: 2023-03-17 17:35:11.792955  
+date: 2023-03-21 18:51:48.532203  
 categories: player  
 ---
 # Gus Warr
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 96.0

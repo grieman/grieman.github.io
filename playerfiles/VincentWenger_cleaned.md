@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Vincent Wenger  
-date: 2023-03-17 17:01:58.320095  
+date: 2023-03-21 18:53:14.066715  
 categories: player  
 ---
 # Vincent Wenger
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: 46.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            12 |  0.0833333 |
+| Rennes |            11 |  0.0909091 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,6 +34,5 @@ categories: player
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Dax                        |         1 |          0 |
 | Nice                       |         1 |          0 |
-| Suresnes                   |         1 |          0 |
 | Tarbes                     |         1 |          0 |
 | Valence Romans Drome Rugby |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mathieu Billou  
-date: 2023-03-17 17:12:03.448074  
+date: 2023-03-21 18:45:28.488658  
 categories: player  
 ---
 # Mathieu Billou
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 96.0
 
-## Current Percentile: 22.0
+## Current Percentile: 56.0
 
 # Elo History
 

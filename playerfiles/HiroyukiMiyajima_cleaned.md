@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hiroyuki Miyajima  
-date: 2023-03-17 17:11:37.012600  
+date: 2023-03-21 18:41:32.100819  
 categories: player  
 ---
 # Hiroyuki Miyajima
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 55.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            24 |  0.0833333 |
+| Green Rockets Tokatsu |            25 |       0.08 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Kobelco Kobe Steelers             |         3 |        0   |
 | Yokohama Canon Eagles             |         3 |        0   |
 | Black Rams Tokyo                  |         2 |        0   |
 | Hino Red Dolphins                 |         2 |        0   |
-| Kobelco Kobe Steelers             |         2 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |        0   |
 | Shizuoka Blue Revs                |         2 |        0   |
 | Tokyo Sungoliath                  |         2 |        0   |

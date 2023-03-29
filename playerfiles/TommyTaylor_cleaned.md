@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Tommy Taylor  
-date: 2023-03-17 17:30:08.574715  
+date: 2023-03-21 18:53:05.619226  
 categories: player  
 ---
 # Tommy Taylor
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: England
 
 ## Current elo: 114.0
 
-## Current Percentile: None
+## Current Percentile: 90.0
 
 # Elo History
 

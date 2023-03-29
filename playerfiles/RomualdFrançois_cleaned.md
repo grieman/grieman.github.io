@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Romuald François  
-date: 2023-03-17 17:37:13.210211  
+date: 2023-03-21 18:13:53.349669  
 categories: player  
 ---
 # Romuald François
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 75.0
+## Current elo: 79.0
 
-## Current Percentile: 9.0
+## Current Percentile: 12.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Valentin Gayraud  
-date: 2023-03-17 17:38:22.598565  
+date: 2023-03-21 18:49:57.493717  
 categories: player  
 ---
 # Valentin Gayraud
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 101.0
 
-## Current Percentile: 64.0
+## Current Percentile: 62.0
 
 # Elo History
 

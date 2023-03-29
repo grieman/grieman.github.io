@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Khuthuzani Kingdom Mchunu  
-date: 2023-03-16 19:54:53.839603  
+date: 2023-03-21 18:04:16.156857  
 categories: player  
 ---
 # Khuthuzani Kingdom Mchunu
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -18,11 +20,12 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Sharks       |             3 |   0.666667 |
-| Natal Sharks |             1 |   1        |
+| Natal Sharks |             2 |   0.5      |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Connacht   |         1 |          0 |
 | Edinburgh  |         1 |          1 |
 | Griffons   |         1 |          1 |
+| Griquas    |         1 |          0 |
 | Lions      |         1 |          1 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mika Kruse  
-date: 2023-03-02 11:25:31.087179  
+date: 2023-03-21 17:58:06.440170  
 categories: player  
 ---
 # Mika Kruse
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: United States of America

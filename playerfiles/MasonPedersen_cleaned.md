@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mason Pedersen  
-date: 2023-03-17 17:39:47.846126  
+date: 2023-03-21 18:29:20.529424  
 categories: player  
 ---
 # Mason Pedersen
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 93.0

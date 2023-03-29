@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lincoln McClutchie  
-date: 2023-03-17 17:27:59.689764  
+date: 2023-03-20 15:47:57.520682  
 categories: player  
 ---
 # Lincoln McClutchie
 
+
+Last updated: 2023-03-20
 ## Positions: FH
 
 ## Current elo: 91.0

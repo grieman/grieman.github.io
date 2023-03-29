@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Scott Steele  
-date: 2023-03-17 17:20:17.317804  
+date: 2023-03-21 18:06:57.995092  
 categories: player  
 ---
 # Scott Steele
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Scotland

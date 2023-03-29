@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dino Casadei  
-date: 2023-01-13 11:37:05.325477  
+date: 2023-03-21 18:42:10.434208  
 categories: player  
 ---
 # Dino Casadei
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 97.0
+## Current elo: 98.0
 
-## Current Percentile: 48.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,14 +23,17 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |             7 |   0.571429 |
+| Mont-de-Marsan |            11 |   0.636364 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
+| Vannes         |         2 |          1 |
 | Aurillac       |         1 |          1 |
+| Beziers        |         1 |          1 |
+| Carcassonne    |         1 |          0 |
 | Colomiers      |         1 |          1 |
+| Massy          |         1 |          1 |
 | Montauban      |         1 |          0 |
 | Narbonne       |         1 |          1 |
 | Nevers         |         1 |          0 |
 | Provence Rugby |         1 |          0 |
-| Vannes         |         1 |          1 |

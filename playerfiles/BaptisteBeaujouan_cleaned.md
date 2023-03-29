@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Baptiste Beaujouan  
-date: 2023-03-17 17:05:00.715124  
+date: 2023-03-21 18:03:09.026260  
 categories: player  
 ---
 # Baptiste Beaujouan
 
+
+Last updated: 2023-03-21
 ## Positions: FL, H
 
-## Current elo: 86.0
+## Current elo: 87.0
 
-## Current Percentile: 52.0
+## Current Percentile: 42.0
 
 # Elo History
 

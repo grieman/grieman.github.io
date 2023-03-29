@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Stuart Hogg  
-date: 2023-03-17 17:01:12.557697  
+date: 2023-03-21 18:24:47.636693  
 categories: player  
 ---
 # Stuart Hogg
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Country: Scotland
 
 ## Current elo: 105.0
 
-## Current Percentile: 81.0
+## Current Percentile: 79.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Vince Aso  
-date: 2023-03-16 20:03:08.526224  
+date: 2023-03-21 18:34:03.343542  
 categories: player  
 ---
 # Vince Aso
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Hurricanes

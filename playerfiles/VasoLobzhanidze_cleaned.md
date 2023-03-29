@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Vaso Lobzhanidze  
-date: 2023-03-12 11:29:46.850410  
+date: 2023-03-29 11:30:31.667859  
 categories: player  
 ---
 # Vaso Lobzhanidze
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
 ## Country: Georgia

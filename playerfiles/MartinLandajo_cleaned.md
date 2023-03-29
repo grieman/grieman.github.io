@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Martin Landajo  
-date: 2023-03-17 17:15:26.665774  
+date: 2023-03-21 18:09:57.932096  
 categories: player  
 ---
 # Martin Landajo
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Argentina

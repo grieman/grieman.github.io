@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nakai Penny  
-date: 2023-03-17 17:03:31.958970  
+date: 2023-03-21 18:51:20.385208  
 categories: player  
 ---
 # Nakai Penny
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 98.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Honeti Taumoha'apai  
-date: 2023-03-17 17:09:38.890380  
+date: 2023-03-21 18:07:41.799088  
 categories: player  
 ---
 # Honeti Taumoha'apai
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 103.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 

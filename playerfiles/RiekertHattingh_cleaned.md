@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Riekert Hattingh  
-date: 2023-03-17 17:12:43.149687  
+date: 2023-03-21 18:24:25.983485  
 categories: player  
 ---
 # Riekert Hattingh
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: United States of America

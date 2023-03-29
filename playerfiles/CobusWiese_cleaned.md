@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cobus Wiese  
-date: 2023-03-17 17:35:02.058718  
+date: 2023-03-21 18:18:51.777085  
 categories: player  
 ---
 # Cobus Wiese
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 92.0
 
-## Current Percentile: 46.0
+## Current Percentile: 47.0
 
 # Elo History
 

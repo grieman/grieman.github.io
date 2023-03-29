@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mark TAMPIN  
-date: 2023-03-17 17:39:54.589627  
+date: 2023-03-29 11:31:53.885164  
 categories: player  
 ---
 # Mark TAMPIN
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 92.0
+## Current elo: 88.0
 
-## Current Percentile: None
+## Current Percentile: 32.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Newcastle Falcons   |            57 |   0.394737 |
+| Newcastle Falcons   |            58 |   0.387931 |
 | Ealing Trailfinders |            31 |   0.741935 |
 | Jersey              |            11 |   0.454545 |
 
@@ -50,8 +52,8 @@ categories: player
 | Ealing Trailfinders |         2 |   0.5      |
 | Rotherham Titans    |         2 |   0.5      |
 | Coventry            |         2 |   1        |
+| Cardiff Blues       |         2 |   0        |
 | Yorkshire Carnegie  |         2 |   1        |
 | London Welsh        |         1 |   0        |
 | Connacht            |         1 |   0        |
-| Cardiff Blues       |         1 |   0        |
 | Biarritz Olympique  |         1 |   1        |

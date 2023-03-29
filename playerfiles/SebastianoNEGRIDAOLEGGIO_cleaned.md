@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Sebastiano NEGRI DA OLEGGIO  
-date: 2023-03-17 17:24:01.924036  
+date: 2023-03-27 11:35:34.156977  
 categories: player  
 ---
 # Sebastiano NEGRI DA OLEGGIO
 
+
+Last updated: 2023-03-27
 ## Positions: FL
 
 ## Country: Italy
 
-## Current elo: 85.0
+## Current elo: 88.0
 
-## Current Percentile: 36.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -24,22 +26,22 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            62 |   0.443548 |
-| Italy            |            44 |   0.204545 |
+| Italy            |            45 |   0.2      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Zebre                    |        10 |   0.7      |
-| England                  |         7 |   0        |
 | France                   |         7 |   0        |
+| England                  |         7 |   0        |
+| Scotland                 |         5 |   0        |
 | Scarlets                 |         5 |   0        |
 | Wales                    |         5 |   0        |
 | Ireland                  |         5 |   0        |
-| Scotland                 |         4 |   0        |
 | Leinster                 |         4 |   0.375    |
 | Edinburgh                |         4 |   0.5      |
 | Glasgow Warriors         |         4 |   0.25     |
-| Toulon                   |         3 |   0        |
 | Southern Kings           |         3 |   1        |
+| Toulon                   |         3 |   0        |
 | Ulster                   |         3 |   0.333333 |
 | Munster                  |         3 |   0        |
 | Lyon                     |         3 |   0.333333 |

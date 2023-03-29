@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Felipe Etcheverry  
-date: 2023-03-17 17:35:46.825809  
+date: 2023-03-21 18:13:28.493203  
 categories: player  
 ---
 # Felipe Etcheverry
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: Uruguay
 
 ## Current elo: 102.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

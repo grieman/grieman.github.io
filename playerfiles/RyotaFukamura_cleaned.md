@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryota Fukamura  
-date: 2023-01-17 11:33:21.730040  
+date: 2023-03-21 18:09:30.602554  
 categories: player  
 ---
 # Ryota Fukamura
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 81.0
+## Current elo: 78.0
 
-## Current Percentile: 24.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,20 +23,21 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo        |            11 |   0.545455 |
-| Toyota Industries Shuttles Aichi |             3 |   0.666667 |
+| Toshiba Brave Lupus Tokyo        |            13 |   0.538462 |
+| Toyota Industries Shuttles Aichi |             5 |   0.4      |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Green Rockets Tokatsu             |         2 |        1   |
-| Mie Honda Heat                    |         2 |        0.5 |
-| Hino Red Dolphins                 |         1 |        1   |
-| Kobelco Kobe Steelers             |         1 |        0   |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
-| Mitsubishi Dynaboars              |         1 |        1   |
-| NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
-| Saitama Wild Knights              |         1 |        0   |
-| Shimizu Blue Sharks               |         1 |        1   |
-| Shizuoka Blue Revs                |         1 |        0   |
-| Tokyo Sungoliath                  |         1 |        1   |
-| Urayasu D-Rocks                   |         1 |        0   |
+| Mie Honda Heat                    |         3 |   0.333333 |
+| Green Rockets Tokatsu             |         2 |   1        |
+| Kobelco Kobe Steelers             |         2 |   0        |
+| Urayasu D-Rocks                   |         2 |   0        |
+| Hino Red Dolphins                 |         1 |   1        |
+| Kamaishi Seawaves                 |         1 |   1        |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   1        |
+| NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
+| Saitama Wild Knights              |         1 |   0        |
+| Shizuoka Blue Revs                |         1 |   0        |
+| Tokyo Sungoliath                  |         1 |   1        |
+| Yokohama Canon Eagles             |         1 |   1        |

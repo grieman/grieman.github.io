@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hugh O'Sullivan  
-date: 2023-03-17 17:39:39.664180  
+date: 2023-03-21 18:20:39.170762  
 categories: player  
 ---
 # Hugh O'Sullivan
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 97.0

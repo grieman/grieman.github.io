@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Flynn  
-date: 2023-02-28 11:04:42.259197  
+date: 2023-03-21 18:02:51.619812  
 categories: player  
 ---
 # James Flynn
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 97.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nozomi Nara  
-date: 2023-03-17 17:33:48.016727  
+date: 2023-03-21 18:13:11.041950  
 categories: player  
 ---
 # Nozomi Nara
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 99.0
+## Current elo: 96.0
 
-## Current Percentile: 63.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            17 |   0.647059 |
+| Mitsubishi Dynaboars |            18 |   0.611111 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -34,5 +36,6 @@ categories: player
 | Kamaishi Seawaves                 |         1 |          1 |
 | Kobelco Kobe Steelers             |         1 |          0 |
 | Mie Honda Heat                    |         1 |          1 |
+| Saitama Wild Knights              |         1 |          0 |
 | Tokyo Sungoliath                  |         1 |          0 |
 | Yokohama Canon Eagles             |         1 |          0 |

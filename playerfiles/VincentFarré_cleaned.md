@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Vincent Farré  
-date: 2023-03-17 17:15:47.256189  
+date: 2023-03-21 18:31:13.354771  
 categories: player  
 ---
 # Vincent Farré
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 88.0
 
-## Current Percentile: 8.0
+## Current Percentile: 9.0
 
 # Elo History
 

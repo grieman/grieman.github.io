@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rikiya Matsuda  
-date: 2023-03-17 17:22:06.359753  
+date: 2023-03-21 18:20:17.137292  
 categories: player  
 ---
 # Rikiya Matsuda
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: Japan

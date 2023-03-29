@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Munier Hartzenberg  
-date: 2023-03-17 17:31:39.383455  
+date: 2023-03-21 18:09:00.105921  
 categories: player  
 ---
 # Munier Hartzenberg
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 107.0
+## Current elo: 113.0
 
-## Current Percentile: 42.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Griquas             |            14 |   0.571429 |
 | Cheetahs            |             3 |   0.333333 |
-| Free State Cheetahs |             1 |   1        |
+| Free State Cheetahs |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -34,5 +36,6 @@ categories: player
 | Natal Sharks        |         2 |   0        |
 | Scarlets            |         2 |   0        |
 | Western Province    |         2 |   1        |
+| Griffons            |         1 |   1        |
 | Griquas             |         1 |   1        |
 | Pau                 |         1 |   1        |

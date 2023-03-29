@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Zakaria EL FAKIR  
-date: 2023-03-12 11:33:07.458974  
+date: 2023-03-29 11:30:08.378431  
 categories: player  
 ---
 # Zakaria EL FAKIR
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 95.0
 
-## Current Percentile: 54.0
+## Current Percentile: 55.0
 
 # Elo History
 

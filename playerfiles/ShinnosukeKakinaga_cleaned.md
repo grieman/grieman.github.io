@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shinnosuke Kakinaga  
-date: 2023-03-17 17:09:49.207915  
+date: 2023-03-21 18:34:30.550006  
 categories: player  
 ---
 # Shinnosuke Kakinaga
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

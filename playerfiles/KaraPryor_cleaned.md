@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kara Pryor  
-date: 2023-03-17 17:13:22.212438  
+date: 2023-03-21 18:37:53.445131  
 categories: player  
 ---
 # Kara Pryor
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: New Zealand Maori

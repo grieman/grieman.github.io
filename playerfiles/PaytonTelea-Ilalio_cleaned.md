@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Payton Telea-Ilalio  
-date: 2023-03-17 17:07:39.959083  
+date: 2023-03-21 17:57:51.697795  
 categories: player  
 ---
 # Payton Telea-Ilalio
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 87.0

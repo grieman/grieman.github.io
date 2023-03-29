@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fraser Quirk  
-date: 2023-01-17 11:43:27.055082  
+date: 2023-03-21 18:19:28.208333  
 categories: player  
 ---
 # Fraser Quirk
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 111.0
 
-## Current Percentile: 60.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,9 +23,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mie Honda Heat |             2 |          1 |
+| Mie Honda Heat |             6 |          1 |
 
-| Opponent          |   Matches |   Win Rate |
-|:------------------|----------:|-----------:|
-| Hino Red Dolphins |         1 |          1 |
-| Kamaishi Seawaves |         1 |          1 |
+| Opponent                         |   Matches |   Win Rate |
+|:---------------------------------|----------:|-----------:|
+| Kamaishi Seawaves                |         2 |          1 |
+| Toyota Industries Shuttles Aichi |         2 |          1 |
+| Hino Red Dolphins                |         1 |          1 |
+| Shimizu Blue Sharks              |         1 |          1 |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Facundo Gattas  
-date: 2023-03-17 17:38:36.293852  
+date: 2023-03-21 18:45:44.840637  
 categories: player  
 ---
 # Facundo Gattas
 
+
+Last updated: 2023-03-21
 ## Positions: H, P
 
 ## Country: Uruguay
 
 ## Current elo: 106.0
 
-## Current Percentile: 73.0
+## Current Percentile: 76.0
 
 # Elo History
 

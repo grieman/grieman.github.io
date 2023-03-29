@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Adriaan Ruhan Nel  
-date: 2023-02-24 02:21:41.963220  
+date: 2023-03-21 18:56:17.723366  
 categories: player  
 ---
 # Adriaan Ruhan Nel
 
-## Positions: C
 
-## Current elo: 90.0
+Last updated: 2023-03-21
+## Positions: C, W
 
-## Current Percentile: 44.0
+## Current elo: 100.0
+
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -19,15 +21,16 @@ categories: player
 # Match History
 
 
-| Team     |   Appearances |   Win Rate |
-|:---------|--------------:|-----------:|
-| Stormers |             8 |       0.75 |
+| Team             |   Appearances |   Win Rate |
+|:-----------------|--------------:|-----------:|
+| Stormers         |             6 |   0.833333 |
+| Western Province |             1 |   1        |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Clermont Auvergne |         2 |        0.5 |
-| London Irish      |         2 |        1   |
-| Bulls             |         1 |        1   |
-| Dragons           |         1 |        1   |
-| Sharks            |         1 |        1   |
-| Ulster            |         1 |        0   |
+| Sharks            |         2 |          1 |
+| Blue Bulls        |         1 |          1 |
+| Bulls             |         1 |          1 |
+| Clermont Auvergne |         1 |          1 |
+| London Irish      |         1 |          1 |
+| Ulster            |         1 |          0 |

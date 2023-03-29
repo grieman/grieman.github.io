@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Will Hurd  
-date: 2023-03-17 17:41:14.075364  
+date: 2023-03-21 18:03:07.556499  
 categories: player  
 ---
 # Will Hurd
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 89.0
 
-## Current Percentile: 16.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Leicester Tigers |            12 |   0.666667 |
+| Leicester Tigers |            11 |   0.636364 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Bath Rugby         |         2 |          1 |
-| Clermont Auvergne  |         2 |          1 |
+| Clermont Auvergne  |         1 |          1 |
 | Exeter Chiefs      |         1 |          0 |
 | Gloucester Rugby   |         1 |          1 |
 | London Irish       |         1 |          1 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sioeli Vakalahi  
-date: 2023-03-17 17:41:52.142456  
+date: 2023-03-21 17:56:34.320625  
 categories: player  
 ---
 # Sioeli Vakalahi
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 86.0
+## Current Percentile: 83.0
 
 # Elo History
 

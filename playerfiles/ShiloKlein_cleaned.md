@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shilo Klein  
-date: 2023-03-02 11:22:14.695260  
+date: 2023-03-21 18:55:24.521290  
 categories: player  
 ---
 # Shilo Klein
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 84.0

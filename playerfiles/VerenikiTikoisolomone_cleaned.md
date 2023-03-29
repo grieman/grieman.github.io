@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Vereniki Tikoisolomone  
-date: 2023-03-17 17:07:55.583507  
+date: 2023-03-21 18:16:39.752309  
 categories: player  
 ---
 # Vereniki Tikoisolomone
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 105.0

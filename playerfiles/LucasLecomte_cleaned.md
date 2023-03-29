@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lucas Lecomte  
-date: 2023-03-17 17:08:44.520153  
+date: 2023-03-21 18:19:14.875350  
 categories: player  
 ---
 # Lucas Lecomte
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 94.0

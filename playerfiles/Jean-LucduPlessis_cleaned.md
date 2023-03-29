@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jean-Luc du Plessis  
-date: 2023-03-17 17:01:33.101983  
+date: 2023-03-21 18:08:15.387324  
 categories: player  
 ---
 # Jean-Luc du Plessis
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 87.0

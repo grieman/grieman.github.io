@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Etienne Janeke  
-date: 2023-03-17 17:41:16.473145  
+date: 2023-03-21 18:23:45.374031  
 categories: player  
 ---
 # Etienne Janeke
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 99.0

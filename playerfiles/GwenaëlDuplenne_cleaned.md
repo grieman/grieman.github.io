@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Gwenaël Duplenne  
-date: 2023-02-04 18:30:03.834041  
+date: 2023-03-21 18:43:26.353227  
 categories: player  
 ---
 # Gwenaël Duplenne
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 108.0
 
-## Current Percentile: 38.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -21,24 +23,24 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |           116 |   0.551724 |
+| Vannes |           120 |   0.558333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Mont-de-Marsan             |        11 |   0.636364 |
-| Aurillac                   |        10 |   0.6      |
+| Mont-de-Marsan             |        12 |   0.583333 |
+| Aurillac                   |        11 |   0.636364 |
 | Beziers                    |         9 |   0.666667 |
 | Biarritz Olympique         |         7 |   0.428571 |
+| Oyonnax                    |         7 |   0.571429 |
 | Carcassonne                |         7 |   0.357143 |
 | Colomiers                  |         7 |   0.857143 |
 | Soyaux-Angouleme           |         7 |   0.571429 |
-| Oyonnax                    |         6 |   0.5      |
 | Nevers                     |         6 |   0.583333 |
-| Dax                        |         4 |   0.25     |
+| Provence Rugby             |         5 |   0.6      |
 | Perpignan                  |         4 |   0.25     |
 | Narbonne                   |         4 |   0.75     |
 | Montauban                  |         4 |   0.5      |
-| Provence Rugby             |         4 |   0.5      |
+| Dax                        |         4 |   0.25     |
 | Grenoble                   |         4 |   0.25     |
 | Rouen                      |         3 |   0.666667 |
 | Brive                      |         3 |   0        |

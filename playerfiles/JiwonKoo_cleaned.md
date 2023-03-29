@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jiwon Koo  
-date: 2023-03-17 17:20:39.892108  
+date: 2023-03-21 18:41:45.045801  
 categories: player  
 ---
 # Jiwon Koo
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

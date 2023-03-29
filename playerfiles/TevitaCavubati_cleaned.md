@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tevita Cavubati  
-date: 2023-03-06 11:23:40.943701  
+date: 2023-03-21 18:38:13.760604  
 categories: player  
 ---
 # Tevita Cavubati
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Fiji

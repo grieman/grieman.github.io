@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Iain Henderson  
-date: 2023-03-17 17:21:45.732698  
+date: 2023-03-21 18:01:38.747767  
 categories: player  
 ---
 # Iain Henderson
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Ireland
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: 89.0
+## Current Percentile: 87.0
 
 # Elo History
 

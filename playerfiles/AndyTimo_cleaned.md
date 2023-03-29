@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Andy Timo  
-date: 2023-03-17 17:32:18.823914  
+date: 2023-03-21 18:35:00.728659  
 categories: player  
 ---
 # Andy Timo
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 82.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 

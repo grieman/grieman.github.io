@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Christian Ambadiang  
-date: 2023-02-02 19:12:01.182299  
+date: 2023-03-21 18:17:39.281716  
 categories: player  
 ---
 # Christian Ambadiang
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 101.0
 
-## Current Percentile: 21.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -21,21 +23,23 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            19 |        0.5 |
+| Nevers |            25 |       0.56 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Beziers                    |         3 |   0.5      |
+| Carcassonne                |         3 |   0.333333 |
 | Vannes                     |         3 |   0.666667 |
-| Beziers                    |         2 |   0.5      |
-| Carcassonne                |         2 |   0        |
+| Biarritz Olympique         |         2 |   0.75     |
 | Montauban                  |         2 |   0.5      |
+| Provence Rugby             |         2 |   0        |
 | Agen                       |         1 |   1        |
-| Biarritz Olympique         |         1 |   0.5      |
+| Aurillac                   |         1 |   1        |
 | Colomiers                  |         1 |   1        |
 | Grenoble                   |         1 |   0        |
+| Mont-de-Marsan             |         1 |   1        |
 | Oyonnax                    |         1 |   1        |
 | Perpignan                  |         1 |   0        |
-| Provence Rugby             |         1 |   0        |
 | Rouen                      |         1 |   1        |
 | US Bressane                |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   0        |

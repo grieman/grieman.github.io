@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Fa'asiu Fuatai  
-date: 2023-03-17 17:25:53.807744  
+date: 2023-03-21 18:30:47.677306  
 categories: player  
 ---
 # Fa'asiu Fuatai
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 150.0

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Gabriel Vasile Rupanu  
-date: 2023-03-06 11:26:05.081104  
+date: 2023-03-21 18:37:03.818198  
 categories: player  
 ---
 # Gabriel Vasile Rupanu
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Romania
 
-## Current elo: 100.0
+## Current elo: 104.0
 
-## Current Percentile: 67.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,9 +25,10 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |             3 |   0.666667 |
+| Romania |             5 |        0.6 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Belgium    |         2 |          1 |
-| Georgia    |         1 |          0 |
+| Georgia    |         2 |          0 |
+| Spain      |         1 |          1 |

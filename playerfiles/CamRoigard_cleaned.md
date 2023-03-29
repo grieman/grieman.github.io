@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cam Roigard  
-date: 2023-03-17 17:10:20.709249  
+date: 2023-03-21 18:12:21.984702  
 categories: player  
 ---
 # Cam Roigard
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 94.0
 
-## Current Percentile: 51.0
+## Current Percentile: 50.0
 
 # Elo History
 

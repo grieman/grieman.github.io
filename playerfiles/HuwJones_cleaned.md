@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Huw Jones  
-date: 2023-03-17 17:42:26.377353  
+date: 2023-03-21 17:59:24.383761  
 categories: player  
 ---
 # Huw Jones
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: Scotland
 
-## Current elo: 72.0
+## Current elo: 68.0
 
-## Current Percentile: 9.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            53 |   0.509434 |
-| Scotland         |            34 |   0.529412 |
+| Scotland         |            35 |   0.542857 |
 | Stormers         |            27 |   0.611111 |
 | Harlequins       |            26 |   0.692308 |
 | Western Province |            22 |   0.590909 |
@@ -36,35 +38,35 @@ categories: player
 | Ireland                  |         6 |   0.166667 |
 | Blue Bulls               |         6 |   0.5      |
 | Cheetahs                 |         5 |   0.6      |
+| Italy                    |         5 |   1        |
 | France                   |         5 |   0.4      |
 | England                  |         5 |   0.6      |
 | Wales                    |         5 |   0.4      |
-| Saracens                 |         4 |   0        |
-| Golden Lions             |         4 |   0.5      |
-| Montpellier Herault      |         4 |   0.25     |
-| Italy                    |         4 |   1        |
-| Bath Rugby               |         4 |   0.625    |
 | Zebre                    |         4 |   1        |
+| Montpellier Herault      |         4 |   0.25     |
+| Bath Rugby               |         4 |   0.625    |
+| Golden Lions             |         4 |   0.5      |
 | Cardiff Blues            |         4 |   1        |
-| Dragons                  |         3 |   0.666667 |
-| Pumas                    |         3 |   0.666667 |
-| Natal Sharks             |         3 |   0.666667 |
-| Southern Kings           |         3 |   0.666667 |
-| Sharks                   |         3 |   0.333333 |
-| Ulster                   |         3 |   0.333333 |
-| Bulls                    |         3 |   0.666667 |
+| Saracens                 |         4 |   0        |
 | Exeter Chiefs            |         3 |   0.833333 |
-| Sale Sharks              |         2 |   0.5      |
-| Worcester Warriors       |         2 |   1        |
+| Natal Sharks             |         3 |   0.666667 |
+| Pumas                    |         3 |   0.666667 |
+| Bulls                    |         3 |   0.666667 |
+| Dragons                  |         3 |   0.666667 |
+| Sharks                   |         3 |   0.333333 |
+| Southern Kings           |         3 |   0.666667 |
+| Ulster                   |         3 |   0.333333 |
+| Western Force            |         2 |   1        |
+| Lions                    |         2 |   0.5      |
 | Scarlets                 |         2 |   0.5      |
+| Northampton Saints       |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   1        |
 | New South Wales Waratahs |         2 |   0.5      |
+| Worcester Warriors       |         2 |   1        |
 | Sunwolves                |         2 |   0.75     |
-| Lions                    |         2 |   0.5      |
-| Western Force            |         2 |   1        |
 | Lyon                     |         2 |   1        |
 | London Irish             |         2 |   0.5      |
-| Northampton Saints       |         2 |   0.5      |
+| Sale Sharks              |         2 |   0.5      |
 | Argentina                |         2 |   1        |
 | Leicester Tigers         |         2 |   0.5      |
 | Eastern Province Kings   |         2 |   1        |

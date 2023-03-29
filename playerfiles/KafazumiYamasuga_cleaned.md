@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kafazumi Yamasuga  
-date: 2023-01-17 11:41:43.565714  
+date: 2023-03-21 18:55:16.532302  
 categories: player  
 ---
 # Kafazumi Yamasuga
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 105.0
+## Current elo: 88.0
 
-## Current Percentile: 65.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,19 +23,23 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            15 |   0.666667 |
+| Yokohama Canon Eagles |            17 |   0.617647 |
+| Kurita Water Gush     |             5 |   0.4      |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Kobelco Kobe Steelers             |         3 |   0.666667 |
-| Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |
+| Hanazono Kintetsu Liners          |         2 |   0.5      |
+| Kamaishi Seawaves                 |         2 |   0        |
+| Kobelco Kobe Steelers             |         2 |   0.5      |
+| Shizuoka Blue Revs                |         2 |   0.75     |
+| Toyota Verblitz                   |         2 |   1        |
 | Black Rams Tokyo                  |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |
-| Hanazono Kintetsu Liners          |         1 |   1        |
+| Kyuden Voltex                     |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |
-| Shizuoka Blue Revs                |         1 |   1        |
+| Shimizu Blue Sharks               |         1 |   1        |
 | Tokyo Sungoliath                  |         1 |   0        |
 | Toshiba Brave Lupus Tokyo         |         1 |   0        |
-| Toyota Verblitz                   |         1 |   1        |
 | Urayasu D-Rocks                   |         1 |   1        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Joe ELDERKIN  
-date: 2023-02-06 16:01:51.410345  
+date: 2023-03-29 11:28:06.896815  
 categories: player  
 ---
 # Joe ELDERKIN
 
+
+Last updated: 2023-03-29
 ## Positions: C
 
-## Current elo: 100.0
+## Current elo: 85.0
 
-## Current Percentile: 66.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            25 |       0.54 |
+| Cornish Pirates |            27 |   0.574074 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Hartpury College    |         4 |   0.5      |
-| Coventry            |         3 |   0.666667 |
-| Ealing Trailfinders |         3 |   0.333333 |
+| Coventry            |         4 |   0.75     |
+| Ealing Trailfinders |         4 |   0.25     |
+| Hartpury College    |         3 |   0.666667 |
 | Jersey              |         3 |   0        |
+| London Scottish     |         3 |   1        |
 | Nottingham          |         3 |   1        |
 | Ampthill            |         2 |   0.75     |
 | Bedford             |         2 |   0.5      |
-| London Scottish     |         2 |   1        |
 | Caldy               |         1 |   0        |
 | Doncaster           |         1 |   0        |
 | Richmond            |         1 |   1        |

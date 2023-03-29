@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jamie Elliott  
-date: 2023-03-17 17:38:54.326999  
+date: 2023-03-21 18:54:59.057328  
 categories: player  
 ---
 # Jamie Elliott
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 94.0

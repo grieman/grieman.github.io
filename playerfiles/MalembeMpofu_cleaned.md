@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Malembe Mpofu  
-date: 2023-03-17 17:19:43.225938  
+date: 2023-03-21 18:15:57.282944  
 categories: player  
 ---
 # Malembe Mpofu
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 96.0
 
-## Current Percentile: 49.0
+## Current Percentile: 48.0
 
 # Elo History
 

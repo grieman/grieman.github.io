@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Murray Douglas  
-date: 2023-03-17 17:32:29.377345  
+date: 2023-03-21 18:40:05.898952  
 categories: player  
 ---
 # Murray Douglas
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 113.0

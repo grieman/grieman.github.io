@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dan Biggar  
-date: 2023-03-17 17:18:54.667876  
+date: 2023-03-21 18:44:21.727152  
 categories: player  
 ---
 # Dan Biggar
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Wales
 
-## Current elo: 133.0
+## Current elo: 139.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Ospreys                 |           228 |   0.614035 |
-| Wales                   |           104 |   0.509615 |
+| Wales                   |           105 |   0.504762 |
 | Northampton Saints      |            69 |   0.449275 |
 | British and Irish Lions |             9 |   0.5      |
 | Toulon                  |             7 |   0.714286 |
@@ -41,8 +43,8 @@ categories: player
 | South Africa             |        16 |   0.375    |
 | England                  |        14 |   0.357143 |
 | Leicester Tigers         |        13 |   0.384615 |
+| France                   |        13 |   0.538462 |
 | Ireland                  |        12 |   0.458333 |
-| France                   |        12 |   0.583333 |
 | Glasgow Warriors         |        12 |   0.5      |
 | Edinburgh                |        11 |   0.636364 |
 | Australia                |        11 |   0.272727 |

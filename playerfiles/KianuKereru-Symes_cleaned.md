@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kianu Kereru-Symes  
-date: 2023-03-17 17:23:13.759550  
+date: 2023-03-21 18:06:20.752074  
 categories: player  
 ---
 # Kianu Kereru-Symes
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 92.0

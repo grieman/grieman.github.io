@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomakino Taufa  
-date: 2023-02-26 11:18:10.404692  
+date: 2023-03-21 18:49:07.943189  
 categories: player  
 ---
 # Tomakino Taufa
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 93.0
 
-## Current Percentile: None
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |             2 |          1 |
+| Grenoble |             3 |   0.666667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Beziers    |         1 |          1 |
-| Rouen      |         1 |          1 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Beziers          |         1 |          1 |
+| Rouen            |         1 |          1 |
+| Soyaux-Angouleme |         1 |          0 |

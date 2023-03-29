@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Valentin Minoyetti  
-date: 2023-03-04 11:39:22.250114  
+date: 2023-03-21 18:03:26.036598  
 categories: player  
 ---
 # Valentin Minoyetti
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,11 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Buenos Aires |             1 |          0 |
-| Pampas XV    |             1 |          1 |
+| Pampas XV    |             2 |        0.5 |
+| Buenos Aires |             1 |        0   |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
+| Dogos XV         |         1 |          0 |
 | SIC              |         1 |          0 |

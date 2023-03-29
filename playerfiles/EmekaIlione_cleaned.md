@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Emeka Ilione  
-date: 2023-03-17 17:11:40.056545  
+date: 2023-03-21 18:37:58.755124  
 categories: player  
 ---
 # Emeka Ilione
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

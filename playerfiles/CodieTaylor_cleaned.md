@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Codie Taylor  
-date: 2023-03-17 17:33:36.566106  
+date: 2023-03-21 18:55:09.851310  
 categories: player  
 ---
 # Codie Taylor
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Crusaders         |           119 |   0.764706 |
+| Crusaders         |           120 |   0.766667 |
 | New Zealand       |            78 |   0.782051 |
 | Canterbury        |            18 |   0.777778 |
 | New Zealand Maori |             2 |   1        |
@@ -34,7 +36,7 @@ categories: player
 | Chiefs                   |        20 |   0.55     |
 | Highlanders              |        16 |   0.75     |
 | Hurricanes               |        15 |   0.666667 |
-| Blues                    |        13 |   0.923077 |
+| Blues                    |        14 |   0.928571 |
 | South Africa             |        12 |   0.791667 |
 | Argentina                |        11 |   0.818182 |
 | New South Wales Waratahs |         8 |   0.625    |

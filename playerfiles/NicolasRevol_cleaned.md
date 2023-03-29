@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas Revol  
-date: 2023-03-17 17:07:25.680061  
+date: 2023-03-21 18:35:08.788648  
 categories: player  
 ---
 # Nicolas Revol
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 98.0
 
-## Current Percentile: 56.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
+| Dallas Jackals |             5 |        0   |
 | Jaguares XV    |             5 |        0.4 |
-| Dallas Jackals |             4 |        0   |
 | Olimpia Lions  |             2 |        0.5 |
 
 | Opponent          |   Matches |   Win Rate |
@@ -30,6 +32,7 @@ categories: player
 | Cobras            |         2 |          1 |
 | Seattle Seawolves |         2 |          0 |
 | Selknam           |         2 |          0 |
+| Chicago Hounds    |         1 |          0 |
 | Jaguares XV       |         1 |          0 |
 | Olimpia Lions     |         1 |          1 |
 | Penarol Rugby     |         1 |          0 |

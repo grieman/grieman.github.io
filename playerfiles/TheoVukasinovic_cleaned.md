@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Theo Vukasinovic  
-date: 2023-03-04 11:42:35.578382  
+date: 2023-03-21 18:27:06.179105  
 categories: player  
 ---
 # Theo Vukasinovic
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 94.0
@@ -24,8 +26,8 @@ categories: player
 | London Scottish |            13 |   0.384615 |
 | Wasps           |             9 |   0.555556 |
 | Ampthill        |             2 |   1        |
+| Doncaster       |             2 |   0.5      |
 | London Irish    |             2 |   0        |
-| Doncaster       |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -43,6 +45,7 @@ categories: player
 | Nottingham          |         1 |   1        |
 | London Irish        |         1 |   0        |
 | Newcastle Falcons   |         1 |   1        |
+| London Scottish     |         1 |   1        |
 | Bath Rugby          |         1 |   0        |
 | Jersey              |         1 |   1        |
 | Ealing Trailfinders |         1 |   0        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: George Kloska  
-date: 2023-03-16 20:06:47.986863  
+date: 2023-03-21 18:35:46.109097  
 categories: player  
 ---
 # George Kloska
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 101.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jaywinn Juries  
-date: 2023-03-17 17:25:36.521410  
+date: 2023-03-21 18:37:44.257145  
 categories: player  
 ---
 # Jaywinn Juries
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 98.0
+## Current elo: 91.0
 
-## Current Percentile: 83.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Griffons         |            26 |       0.75 |
-| Boland Cavaliers |             2 |       0.5  |
+| Griffons         |            27 |   0.722222 |
+| Boland Cavaliers |             2 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -34,6 +36,7 @@ categories: player
 | Jaguares XV            |         2 |   0        |
 | SWD Eagles             |         2 |   0.75     |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Natal Sharks           |         1 |   0        |
 | Tusker Simba           |         1 |   1        |
 | Zimbabwe Goshawks      |         1 |   1        |

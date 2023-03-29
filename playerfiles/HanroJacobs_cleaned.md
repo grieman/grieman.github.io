@@ -1,28 +1,37 @@
 ---  
 layout: page  
 title: Hanro Jacobs  
-date: 2023-02-05 15:10:29.205032  
+date: 2023-03-21 18:14:24.210128  
 categories: player  
 ---
 # Hanro Jacobs
 
-## Positions: 
 
-## Current elo: 95.0
+Last updated: 2023-03-21
+## Positions: P
 
-## Current Percentile: None
+## Current elo: 87.0
 
+## Current Percentile: 37.0
+
+# Elo History
+
+
+![elo history](history_HanroJacobs.png)
 # Match History
 
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Natal Sharks |             2 |        1   |
-| Sharks       |             2 |        0.5 |
+| Sharks       |             6 |   0.333333 |
+| Natal Sharks |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Stormers         |         3 |          0 |
 | Bordeaux Begles  |         1 |          1 |
+| Griquas          |         1 |          0 |
+| Lions            |         1 |          1 |
 | Pumas            |         1 |          1 |
-| Stormers         |         1 |          0 |
+| Ulster           |         1 |          0 |
 | Western Province |         1 |          1 |

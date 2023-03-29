@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Koshi Emoto  
-date: 2023-02-02 18:47:26.561597  
+date: 2023-03-21 17:58:37.905522  
 categories: player  
 ---
 # Koshi Emoto
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 108.0
+## Current elo: 121.0
 
-## Current Percentile: 60.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,9 +23,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |             2 |        0.5 |
+| Kurita Water Gush |             7 |   0.285714 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Kyuden Voltex                   |         1 |          0 |
-| NTT Docomo Red Hurricanes Osaka |         1 |          1 |
+| Kyuden Voltex                   |         3 |        0   |
+| NTT Docomo Red Hurricanes Osaka |         2 |        0.5 |
+| Chugoku Red Regulions           |         1 |        1   |
+| Skyactivs Hiroshima             |         1 |        0   |

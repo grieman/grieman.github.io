@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Steffon ARMITAGE  
-date: 2023-03-17 17:19:12.719048  
+date: 2023-03-29 11:30:10.961114  
 categories: player  
 ---
 # Steffon ARMITAGE
 
+
+Last updated: 2023-03-29
 ## Positions: FL, N8
 
 ## Country: England

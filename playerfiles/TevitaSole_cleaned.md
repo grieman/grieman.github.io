@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tevita Sole  
-date: 2023-03-16 19:47:04.337681  
+date: 2023-03-21 18:48:36.505731  
 categories: player  
 ---
 # Tevita Sole
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 109.0
 
-## Current Percentile: 79.0
+## Current Percentile: 78.0
 
 # Elo History
 

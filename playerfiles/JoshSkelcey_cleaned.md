@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Josh Skelcey  
-date: 2023-02-28 11:06:11.584345  
+date: 2023-03-21 18:14:25.345126  
 categories: player  
 ---
 # Josh Skelcey
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

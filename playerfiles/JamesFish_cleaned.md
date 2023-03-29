@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Fish  
-date: 2023-03-17 17:05:31.167920  
+date: 2023-03-21 18:54:32.659362  
 categories: player  
 ---
 # James Fish
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 93.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Esteriola  
-date: 2023-01-13 11:30:01.506314  
+date: 2023-03-21 18:53:52.270663  
 categories: player  
 ---
 # Clément Esteriola
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 73.0
+## Current elo: 71.0
 
-## Current Percentile: 6.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,35 +23,35 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Beziers     |            84 |   0.416667 |
+| Beziers     |            89 |   0.421348 |
 | Narbonne    |            45 |   0.311111 |
 | Carcassonne |             2 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Colomiers                  |        10 |   0.3      |
-| Mont-de-Marsan             |        10 |   0.3      |
+| Colomiers                  |        11 |   0.272727 |
+| Mont-de-Marsan             |        11 |   0.272727 |
+| Aurillac                   |         9 |   0.444444 |
+| Montauban                  |         8 |   0.75     |
 | Soyaux-Angouleme           |         8 |   0.375    |
-| Aurillac                   |         8 |   0.375    |
 | Grenoble                   |         8 |   0.4375   |
-| Montauban                  |         7 |   0.714286 |
 | Oyonnax                    |         7 |   0.357143 |
+| Nevers                     |         7 |   0.285714 |
 | Vannes                     |         7 |   0.285714 |
 | Carcassonne                |         6 |   0.166667 |
-| Nevers                     |         6 |   0.25     |
 | Provence Rugby             |         6 |   0.333333 |
-| Rouen                      |         5 |   0.4      |
 | Bayonne                    |         5 |   0.4      |
-| Biarritz Olympique         |         4 |   0.75     |
+| Rouen                      |         5 |   0.4      |
 | Massy                      |         4 |   0.75     |
-| Beziers                    |         4 |   0.5      |
+| Biarritz Olympique         |         4 |   0.75     |
 | Perpignan                  |         4 |   0        |
-| Pau                        |         3 |   0        |
+| Beziers                    |         4 |   0.5      |
 | Dax                        |         3 |   0.333333 |
+| Pau                        |         3 |   0        |
 | Narbonne                   |         2 |   1        |
-| Brive                      |         2 |   0.5      |
 | Albi                       |         2 |   0.5      |
 | La Rochelle                |         2 |   0        |
+| Brive                      |         2 |   0.5      |
 | US Bressane                |         2 |   0        |
 | Périgueux                  |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |

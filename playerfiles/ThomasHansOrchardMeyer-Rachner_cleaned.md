@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Thomas Hans Orchard Meyer-Rachner  
-date: 2023-03-17 17:31:22.859901  
+date: 2023-03-21 18:57:05.266519  
 categories: player  
 ---
 # Thomas Hans Orchard Meyer-Rachner
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 92.0
+## Current elo: 89.0
 
 ## Current Percentile: None
 
@@ -17,9 +19,10 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             2 |        0.5 |
+| Selknam |             3 |   0.333333 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Cobras     |         1 |          0 |
 | Dogos XV   |         1 |          0 |
 | Pampas XV  |         1 |          1 |

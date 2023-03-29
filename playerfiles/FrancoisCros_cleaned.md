@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Francois Cros  
-date: 2023-03-16 19:48:03.788590  
+date: 2023-03-21 18:15:43.117236  
 categories: player  
 ---
 # Francois Cros
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: France
 
-## Current elo: 174.0
+## Current elo: 166.0
 
-## Current Percentile: 99.0
+## Current Percentile: 100.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           145 |   0.634483 |
-| France           |            18 |   0.888889 |
+| France           |            19 |   0.894737 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,6 +44,7 @@ categories: player
 | Pau                  |         5 |   0.8      |
 | Agen                 |         5 |   1        |
 | Bayonne              |         5 |   0.6      |
+| Wales                |         4 |   1        |
 | Munster              |         4 |   0.625    |
 | Oyonnax              |         4 |   0.625    |
 | Grenoble             |         4 |   0.75     |
@@ -49,7 +52,6 @@ categories: player
 | Connacht             |         3 |   0.666667 |
 | Ireland              |         3 |   0.666667 |
 | Italy                |         3 |   1        |
-| Wales                |         3 |   1        |
 | Leinster             |         3 |   0        |
 | England              |         3 |   1        |
 | Cardiff Blues        |         2 |   0.5      |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Daniel Botha  
-date: 2023-03-17 17:31:43.964547  
+date: 2023-03-21 18:42:20.876694  
 categories: player  
 ---
 # Daniel Botha
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 97.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joe van Zyl  
-date: 2023-03-17 17:12:36.695704  
+date: 2023-03-21 18:23:38.160208  
 categories: player  
 ---
 # Joe van Zyl
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 84.0

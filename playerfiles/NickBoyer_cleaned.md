@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nick Boyer  
-date: 2023-03-16 21:12:10.206495  
+date: 2023-03-21 18:26:46.298132  
 categories: player  
 ---
 # Nick Boyer
 
+
+Last updated: 2023-03-21
 ## Positions: SH, W
 
 ## Country: United States of America

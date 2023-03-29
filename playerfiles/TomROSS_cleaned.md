@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom ROSS  
-date: 2023-03-17 17:16:06.811904  
+date: 2023-03-27 11:37:25.798769  
 categories: player  
 ---
 # Tom ROSS
 
+
+Last updated: 2023-03-27
 ## Positions: P
 
 ## Current elo: 77.0
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            34 |   0.676471 |
+| Brumbies         |            35 |   0.685714 |
 | Canberra Vikings |            14 |   0.642857 |
 | Southland        |             7 |   0        |
 
@@ -34,17 +36,18 @@ categories: player
 | Melbourne Rebels         |         4 |   0.75     |
 | Crusaders                |         3 |   0        |
 | Highlanders              |         3 |   0.333333 |
+| Queensland Country       |         2 |   0        |
 | Chiefs                   |         2 |   0.5      |
 | Taranaki                 |         2 |   0        |
 | Sydney Rays              |         2 |   1        |
 | Brisbane City            |         2 |   1        |
 | NSW Country Eagles       |         2 |   1        |
-| Queensland Country       |         2 |   0        |
 | Tasman                   |         1 |   0        |
 | Sunwolves                |         1 |   1        |
 | Bay of Plenty            |         1 |   0        |
 | Otago                    |         1 |   0        |
+| Melbourne Rising         |         1 |   1        |
 | Manawatu                 |         1 |   0        |
 | Hurricanes               |         1 |   1        |
 | Canterbury               |         1 |   0        |
-| Melbourne Rising         |         1 |   1        |
+| Moana Pasifika           |         1 |   1        |

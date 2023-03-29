@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Koki Yamamoto  
-date: 2023-03-17 17:37:21.746679  
+date: 2023-03-21 18:00:54.402195  
 categories: player  
 ---
 # Koki Yamamoto
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Clément Lanen  
-date: 2023-03-17 17:02:52.766316  
+date: 2023-03-21 18:02:10.931736  
 categories: player  
 ---
 # Clément Lanen
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 76.0

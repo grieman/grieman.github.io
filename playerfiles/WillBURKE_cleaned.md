@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Will BURKE  
-date: 2023-03-12 11:29:54.692300  
+date: 2023-03-29 11:29:59.975774  
 categories: player  
 ---
 # Will BURKE
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 73.0
+## Current elo: 76.0
 
-## Current Percentile: 7.0
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Rugby ATL |            17 |   0.588235 |
+| Rugby ATL |            19 |   0.526316 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | NOLA Gold              |         4 |   1        |
 | L. A. Giltinis         |         3 |   0.333333 |
+| San Diego Legion       |         3 |   0.666667 |
+| Houston SaberCats      |         2 |   0.5      |
 | New England Free Jacks |         2 |   0        |
-| San Diego Legion       |         2 |   1        |
 | Austin Gilgronis       |         1 |   1        |
-| Houston SaberCats      |         1 |   1        |
 | Old Glory DC           |         1 |   1        |
 | R.U. New York          |         1 |   0        |
 | Rugby New York         |         1 |   0        |

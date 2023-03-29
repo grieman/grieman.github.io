@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Parataiso SILAFAI-LEA'ANA  
-date: 2023-03-17 17:29:26.273286  
+date: 2023-03-20 15:46:54.769009  
 categories: player  
 ---
 # Parataiso SILAFAI-LEA'ANA
 
+
+Last updated: 2023-03-20
 ## Positions: C
 
-## Current elo: 118.0
+## Current elo: 117.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jarred Adams  
-date: 2023-03-17 17:35:09.568704  
+date: 2023-03-21 18:31:40.008235  
 categories: player  
 ---
 # Jarred Adams
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 101.0

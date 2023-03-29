@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Barney Maddison  
-date: 2023-03-12 11:31:46.976207  
+date: 2023-03-21 18:41:41.520608  
 categories: player  
 ---
 # Barney Maddison
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 109.0

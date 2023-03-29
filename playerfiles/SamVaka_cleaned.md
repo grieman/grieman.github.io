@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Sam Vaka  
-date: 2023-01-13 11:37:54.075833  
+date: 2023-03-21 18:35:05.863651  
 categories: player  
 ---
 # Sam Vaka
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Tonga
 
-## Current elo: 100.0
+## Current elo: 108.0
 
-## Current Percentile: 55.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -23,9 +25,9 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Agen                |            55 |   0.218182 |
+| Agen                |            56 |   0.214286 |
 | Counties Manukau    |            35 |   0.5      |
-| Kyuden Voltex       |            10 |   0.4      |
+| Kyuden Voltex       |             7 |   0.285714 |
 | Chiefs              |             3 |   0.333333 |
 | Provincial Union XV |             1 |   0        |
 | Tonga               |             1 |   0        |
@@ -50,28 +52,26 @@ categories: player
 | North Harbour                    |         3 |   0.333333 |
 | Auckland                         |         3 |   0.333333 |
 | Montpellier Herault              |         3 |   0        |
-| La Rochelle                      |         3 |   0.333333 |
 | Castres Olympique                |         3 |   0        |
+| La Rochelle                      |         3 |   0.333333 |
 | Perpignan                        |         2 |   1        |
+| Benetton Treviso                 |         2 |   0        |
 | Toyota Industries Shuttles Aichi |         2 |   0        |
 | Toulon                           |         2 |   0.5      |
-| Chugoku Red Regulions            |         2 |   1        |
 | Shimizu Blue Sharks              |         2 |   0.5      |
-| Lyon                             |         2 |   0.5      |
 | Grenoble                         |         2 |   0.75     |
+| Lyon                             |         2 |   0.5      |
 | Munakata Sanix Blues             |         2 |   0        |
-| Otago                            |         1 |   1        |
 | Highlanders                      |         1 |   0        |
+| Otago                            |         1 |   1        |
+| Manawatu                         |         1 |   1        |
 | Northland                        |         1 |   1        |
-| Kurita Water Gush                |         1 |   1        |
-| Samoa                            |         1 |   0        |
-| New South Wales Waratahs         |         1 |   0        |
 | Southland                        |         1 |   1        |
 | Edinburgh                        |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka  |         1 |   0        |
+| Chugoku Red Regulions            |         1 |   1        |
+| New South Wales Waratahs         |         1 |   0        |
 | British and Irish Lions          |         1 |   0        |
-| Melbourne Rebels                 |         1 |   1        |
-| Manawatu                         |         1 |   1        |
-| Benetton Treviso                 |         1 |   0        |
-| Wasps                            |         1 |   0        |
 | London Irish                     |         1 |   0        |
+| Melbourne Rebels                 |         1 |   1        |
+| Wasps                            |         1 |   0        |
+| Samoa                            |         1 |   0        |

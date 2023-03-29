@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mike Dabulas  
-date: 2023-03-17 17:07:10.956257  
+date: 2023-03-21 18:02:31.524601  
 categories: player  
 ---
 # Mike Dabulas
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 105.0
+## Current elo: 110.0
 
-## Current Percentile: 84.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |            25 |        0.3 |
+| Old Glory DC |            26 |   0.326923 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -29,9 +31,9 @@ categories: player
 | NOLA Gold              |         3 |   0.166667 |
 | New England Free Jacks |         3 |   0.333333 |
 | R.U. New York          |         3 |   0        |
+| Toronto Arrows         |         3 |   0.333333 |
 | Houston SaberCats      |         2 |   1        |
 | Rugby ATL              |         2 |   0        |
-| Toronto Arrows         |         2 |   0        |
 | Austin Gilgronis       |         1 |   1        |
 | Austin Herd            |         1 |   1        |
 | Chicago Hounds         |         1 |   1        |

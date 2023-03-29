@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sam Greene  
-date: 2023-03-17 17:00:52.186848  
+date: 2023-03-21 18:41:34.517815  
 categories: player  
 ---
 # Sam Greene
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 73.0

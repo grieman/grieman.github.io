@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luvuyo Pupuma  
-date: 2023-03-17 17:20:16.026835  
+date: 2023-03-21 18:40:23.610929  
 categories: player  
 ---
 # Luvuyo Pupuma
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 89.0

@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Thomas Hebert  
-date: 2023-02-02 19:11:47.874593  
+date: 2023-03-21 18:33:25.147093  
 categories: player  
 ---
 # Thomas Hebert
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

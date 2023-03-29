@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Agustin Creevy  
-date: 2023-03-17 17:05:15.223951  
+date: 2023-03-21 18:35:28.726120  
 categories: player  
 ---
 # Agustin Creevy
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Argentina
 
 ## Current elo: 116.0
 
-## Current Percentile: 93.0
+## Current Percentile: 91.0
 
 # Elo History
 

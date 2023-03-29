@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Romain TROUILLOUD  
-date: 2023-03-17 17:32:28.280231  
+date: 2023-03-29 11:29:06.591312  
 categories: player  
 ---
 # Romain TROUILLOUD
 
+
+Last updated: 2023-03-29
 ## Positions: C
 
-## Current elo: 77.0
+## Current elo: 80.0
 
-## Current Percentile: 12.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            31 |   0.564516 |
+| Grenoble |            32 |   0.546875 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         4 |      0.75  |
 | Provence Rugby             |         4 |      0.375 |
 | Vannes                     |         4 |      0.5   |
+| Oyonnax                    |         3 |      0     |
 | Beziers                    |         2 |      1     |
 | Biarritz Olympique         |         2 |      0.25  |
 | Carcassonne                |         2 |      0.75  |
 | Montauban                  |         2 |      0.5   |
-| Oyonnax                    |         2 |      0     |
 | Rouen                      |         2 |      0.5   |
 | Agen                       |         1 |      1     |
 | Colomiers                  |         1 |      0     |

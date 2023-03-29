@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Keagan Johannes  
-date: 2023-03-17 17:29:44.104278  
+date: 2023-03-21 18:30:19.172345  
 categories: player  
 ---
 # Keagan Johannes
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 90.0

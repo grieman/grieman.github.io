@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lautaro Simes  
-date: 2023-03-17 17:18:08.115495  
+date: 2023-03-21 18:29:33.069907  
 categories: player  
 ---
 # Lautaro Simes
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 107.0
 
-## Current Percentile: None
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             1 |          1 |
+| Dogos XV |             2 |          1 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Pampas XV  |         1 |          1 |
 | Selknam    |         1 |          1 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jack Caddy  
-date: 2023-02-02 19:05:48.835630  
+date: 2023-03-21 18:23:08.807020  
 categories: player  
 ---
 # Jack Caddy
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 96.0
 
-## Current Percentile: 21.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |            25 |       0.26 |
+| Richmond |            28 |   0.232143 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ealing Trailfinders |         4 |   0        |
 | Ampthill            |         3 |   0        |
+| Bedford             |         3 |   0.333333 |
 | Cornish Pirates     |         3 |   0.166667 |
-| Ealing Trailfinders |         3 |   0        |
 | Hartpury College    |         3 |   0.333333 |
-| Bedford             |         2 |   0.5      |
+| Nottingham          |         3 |   0.333333 |
 | Coventry            |         2 |   0        |
 | Doncaster           |         2 |   0        |
 | Jersey              |         2 |   0.5      |
 | London Scottish     |         2 |   1        |
-| Nottingham          |         2 |   0.5      |
 | Caldy               |         1 |   0        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Leo Treilles  
-date: 2023-02-03 10:24:15.008541  
+date: 2023-03-21 17:58:14.865580  
 categories: player  
 ---
 # Leo Treilles
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

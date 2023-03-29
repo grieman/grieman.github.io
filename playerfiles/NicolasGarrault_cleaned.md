@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Nicolas Garrault  
-date: 2023-01-13 11:30:55.848897  
+date: 2023-03-21 18:10:15.606475  
 categories: player  
 ---
 # Nicolas Garrault
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
-## Current elo: 94.0
+## Current elo: 96.0
 
 ## Current Percentile: 96.0
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mont-de-Marsan       |           129 |   0.596899 |
-| Stade Francais Paris |            32 |   0.625    |
+| Mont-de-Marsan       |           132 |   0.583333 |
+| Stade Francais Paris |            34 |   0.647059 |
 | Tarbes               |            27 |   0.481481 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -32,25 +34,26 @@ categories: player
 | Beziers             |        11 |   0.636364 |
 | Montauban           |        11 |   0.454545 |
 | Colomiers           |        11 |   0.545455 |
-| Aurillac            |        10 |   0.6      |
+| Aurillac            |         9 |   0.555556 |
 | Grenoble            |         9 |   0.444444 |
+| Bayonne             |         8 |   0.5625   |
 | Provence Rugby      |         8 |   0.5      |
+| Perpignan           |         8 |   0.625    |
 | Carcassonne         |         8 |   0.75     |
-| Bayonne             |         7 |   0.642857 |
 | Soyaux-Angouleme    |         7 |   0.714286 |
 | Narbonne            |         7 |   0.714286 |
-| Perpignan           |         6 |   0.833333 |
 | Oyonnax             |         6 |   0.666667 |
 | Dax                 |         5 |   0.8      |
+| Nevers              |         5 |   0.8      |
 | Agen                |         5 |   0.4      |
 | Cavalieri Prato     |         4 |   1        |
 | US Bressane         |         4 |   0.75     |
 | Brive               |         4 |   0.5      |
-| Nevers              |         4 |   0.75     |
 | Massy               |         4 |   0.5      |
 | Rouen               |         4 |   0.75     |
 | Bourgoin-Jallieu    |         3 |   0.666667 |
 | Dragons             |         2 |   0        |
+| Bucarest Wolves     |         2 |   1        |
 | Bucuresti           |         2 |   1        |
 | Montpellier Herault |         2 |   0        |
 | Mont-de-Marsan      |         2 |   0.5      |

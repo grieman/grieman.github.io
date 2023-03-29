@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Alexandre Flanquart  
-date: 2023-02-04 18:26:44.311045  
+date: 2023-03-21 18:30:31.763828  
 categories: player  
 ---
 # Alexandre Flanquart
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: France
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 40.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -25,8 +27,8 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           166 |   0.509036 |
 | France               |            23 |   0.478261 |
-| Provence Rugby       |            23 |   0.695652 |
 | Bordeaux Begles      |            22 |   0.636364 |
+| Provence Rugby       |            22 |   0.681818 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -48,8 +50,8 @@ categories: player
 | Biarritz Olympique   |         6 |   0.666667 |
 | England              |         5 |   0.4      |
 | Perpignan            |         4 |   0.75     |
-| Mont-de-Marsan       |         4 |   1        |
 | Australia            |         4 |   0.25     |
+| Mont-de-Marsan       |         3 |   1        |
 | Ireland              |         3 |   0.333333 |
 | Italy                |         3 |   1        |
 | Bourgoin-Jallieu     |         3 |   1        |

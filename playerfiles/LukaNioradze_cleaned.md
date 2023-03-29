@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Luka Nioradze  
-date: 2023-03-17 17:01:48.943490  
+date: 2023-03-21 18:41:22.726831  
 categories: player  
 ---
 # Luka Nioradze
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Georgia
 
 ## Current elo: 118.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            59 |   0.483051 |
-| Georgia  |             1 |   0.5      |
+| Aurillac |            60 |      0.475 |
+| Georgia  |             1 |      0.5   |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Rouen                      |         6 |   0.833333 |
+| Colomiers                  |         6 |   0.5      |
 | Vannes                     |         5 |   0.4      |
 | Nevers                     |         5 |   0.4      |
-| Colomiers                  |         5 |   0.6      |
 | Grenoble                   |         5 |   0.4      |
 | Provence Rugby             |         5 |   0.6      |
 | Mont-de-Marsan             |         5 |   0.2      |

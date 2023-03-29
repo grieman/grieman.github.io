@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ginjiro Hase  
-date: 2023-01-15 11:57:13.265510  
+date: 2023-03-21 17:59:42.529475  
 categories: player  
 ---
 # Ginjiro Hase
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 92.0
+## Current elo: 91.0
 
-## Current Percentile: 55.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             9 |   0.444444 |
+| Shimizu Blue Sharks |            11 |   0.454545 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
 | Chugoku Red Regulions            |         2 |        1   |
+| Kamaishi Seawaves                |         2 |        0.5 |
 | Kyuden Voltex                    |         2 |        0.5 |
-| Toyota Industries Shuttles Aichi |         2 |        0   |
-| Kamaishi Seawaves                |         1 |        0   |
+| Urayasu D-Rocks                  |         2 |        0   |
+| Mie Honda Heat                   |         1 |        0   |
 | Munakata Sanix Blues             |         1 |        1   |
-| Urayasu D-Rocks                  |         1 |        0   |
+| Toyota Industries Shuttles Aichi |         1 |        0   |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Lucas Sotteau  
-date: 2023-02-05 15:11:23.452770  
+date: 2023-03-21 18:09:21.438564  
 categories: player  
 ---
 # Lucas Sotteau
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Belgium
 
-## Current elo: 104.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -23,13 +25,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Belgium |            11 |   0.272727 |
+| Belgium |            15 |   0.266667 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Portugal   |         3 |   0.333333 |
-| Georgia    |         2 |   0        |
-| Romania    |         2 |   0        |
-| Russia     |         2 |   0        |
-| Germany    |         1 |   1        |
-| Spain      |         1 |   1        |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Romania     |         4 |   0        |
+| Portugal    |         3 |   0.333333 |
+| Georgia     |         2 |   0        |
+| Russia      |         2 |   0        |
+| Germany     |         1 |   1        |
+| Netherlands |         1 |   0        |
+| Poland      |         1 |   1        |
+| Spain       |         1 |   1        |

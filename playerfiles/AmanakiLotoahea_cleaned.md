@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Amanaki Lotoahea  
-date: 2023-03-16 20:04:10.795318  
+date: 2023-03-21 17:58:36.816169  
 categories: player  
 ---
 # Amanaki Lotoahea
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Japan

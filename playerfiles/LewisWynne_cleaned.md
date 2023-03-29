@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Lewis Wynne  
-date: 2023-02-02 18:46:31.864691  
+date: 2023-03-21 18:27:46.069051  
 categories: player  
 ---
 # Lewis Wynne
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 79.0
+## Current elo: 80.0
 
 ## Current Percentile: None
 

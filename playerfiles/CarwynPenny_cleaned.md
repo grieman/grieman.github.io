@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Carwyn Penny  
-date: 2023-02-02 18:38:57.551052  
+date: 2023-03-21 18:40:03.284456  
 categories: player  
 ---
 # Carwyn Penny
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 108.0
+## Current elo: 107.0
 
 ## Current Percentile: None
 

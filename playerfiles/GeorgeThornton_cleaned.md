@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: George Thornton  
-date: 2023-03-17 17:08:41.547174  
+date: 2023-03-21 17:59:31.888085  
 categories: player  
 ---
 # George Thornton
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 99.0

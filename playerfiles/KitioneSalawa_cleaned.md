@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kitione Salawa  
-date: 2023-03-17 17:33:19.990952  
+date: 2023-03-21 18:02:58.809189  
 categories: player  
 ---
 # Kitione Salawa
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Fiji

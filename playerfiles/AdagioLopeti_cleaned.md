@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Adagio Lopeti  
-date: 2023-03-17 17:14:37.017259  
+date: 2023-03-21 18:21:11.438220  
 categories: player  
 ---
 # Adagio Lopeti
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Marcos RIquelme  
-date: 2023-03-17 17:10:09.180950  
+date: 2023-03-29 11:30:20.153652  
 categories: player  
 ---
 # Marcos RIquelme
 
-## Positions: N8, FL
 
-## Current elo: 112.0
+Last updated: 2023-03-29
+## Positions: N8
 
-## Current Percentile: 79.0
+## Current elo: 98.0
+
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -22,14 +24,15 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Olimpia Lions |             7 |   0.571429 |
-| Yacare XV     |             3 |   0.666667 |
+| Yacare XV     |             5 |   0.4      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Penarol Rugby    |         3 |          0 |
 | Cafeteros Pro    |         2 |          1 |
 | Cobras           |         2 |          1 |
-| Penarol Rugby    |         2 |          0 |
 | American Raptors |         1 |          1 |
 | Dogos XV         |         1 |          0 |
 | Jaguares XV      |         1 |          0 |
+| Pampas XV        |         1 |          0 |
 | Selknam          |         1 |          1 |

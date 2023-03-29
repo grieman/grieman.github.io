@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Uzair CASSIEM  
-date: 2023-03-12 11:30:17.433148  
+date: 2023-03-29 11:30:07.571844  
 categories: player  
 ---
 # Uzair CASSIEM
 
+
+Last updated: 2023-03-29
 ## Positions: N8, FL
 
 ## Country: South Africa
 
 ## Current elo: 102.0
 
-## Current Percentile: 65.0
+## Current Percentile: 64.0
 
 # Elo History
 

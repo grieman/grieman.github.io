@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Valentin Soler  
-date: 2023-03-09 10:12:08.737587  
+date: 2023-03-21 18:18:06.685097  
 categories: player  
 ---
 # Valentin Soler
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 72.0
+## Current elo: 82.0
 
-## Current Percentile: 10.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             2 |        0.5 |
+| Dogos XV |             3 |   0.666667 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
+| Pampas XV     |         1 |          1 |
 | Penarol Rugby |         1 |          0 |
 | Yacare XV     |         1 |          1 |

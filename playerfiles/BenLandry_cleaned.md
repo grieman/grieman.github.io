@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ben Landry  
-date: 2023-03-17 17:39:23.936723  
+date: 2023-03-21 18:44:29.898738  
 categories: player  
 ---
 # Ben Landry
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Country: United States of America

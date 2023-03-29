@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tolu Latu  
-date: 2023-03-17 17:17:31.670869  
+date: 2023-03-21 18:15:45.971732  
 categories: player  
 ---
 # Tolu Latu
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Australia

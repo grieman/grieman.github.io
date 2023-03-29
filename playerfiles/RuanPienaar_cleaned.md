@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ruan Pienaar  
-date: 2023-03-17 17:06:10.147940  
+date: 2023-03-21 18:54:50.027839  
 categories: player  
 ---
 # Ruan Pienaar
 
+
+Last updated: 2023-03-21
 ## Positions: SH, FH
 
 ## Country: South Africa
@@ -28,7 +30,7 @@ categories: player
 | Sharks              |            65 |   0.576923 |
 | Montpellier Herault |            40 |   0.5375   |
 | Free State Cheetahs |            27 |   0.611111 |
-| Cheetahs            |            13 |   0.538462 |
+| Cheetahs            |            14 |   0.5      |
 | Natal Sharks        |             5 |   0.6      |
 | Munster             |             1 |   1        |
 
@@ -37,7 +39,7 @@ categories: player
 | Leinster                 |        20 |   0.25     |
 | New Zealand              |        17 |   0.235294 |
 | Australia                |        16 |   0.5      |
-| Scarlets                 |        14 |   0.642857 |
+| Scarlets                 |        15 |   0.6      |
 | Glasgow Warriors         |        13 |   0.615385 |
 | Edinburgh                |        11 |   0.727273 |
 | Argentina                |        10 |   0.85     |

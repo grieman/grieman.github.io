@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thomas Vincent  
-date: 2023-03-17 17:40:22.788518  
+date: 2023-03-21 18:12:49.115545  
 categories: player  
 ---
 # Thomas Vincent
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 96.0

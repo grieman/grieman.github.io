@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thibaud DRéAN  
-date: 2023-03-17 17:11:49.928011  
+date: 2023-03-29 11:31:37.781738  
 categories: player  
 ---
 # Thibaud DRéAN
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 77.0
+## Current elo: 70.0
 
-## Current Percentile: 6.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Dax         |            83 |   0.481928 |
+| Dax         |            83 |   0.493976 |
 | Carcassonne |            15 |   0.4      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Blagnac                    |         7 |   0.428571 |
 | Albi                       |         7 |   0.142857 |
+| Blagnac                    |         6 |   0.5      |
 | Aurillac                   |         5 |   0.4      |
 | Bourgoin-Jallieu           |         5 |   0.6      |
 | Soyaux-Angouleme           |         5 |   0.6      |
@@ -45,6 +47,7 @@ categories: player
 | Chambery                   |         3 |   0.666667 |
 | Carcassonne                |         3 |   0.333333 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
+| Rennes                     |         2 |   1        |
 | US Bressane                |         2 |   1        |
 | Biarritz Olympique         |         2 |   0        |
 | Bayonne                    |         2 |   0.5      |
@@ -52,7 +55,6 @@ categories: player
 | Oyonnax                    |         2 |   0        |
 | Perpignan                  |         2 |   0        |
 | Provence Rugby             |         2 |   0.5      |
-| Rennes                     |         1 |   1        |
 | Agen                       |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Grenoble                   |         1 |   0        |

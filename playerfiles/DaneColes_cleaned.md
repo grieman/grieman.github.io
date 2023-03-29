@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dane Coles  
-date: 2023-03-17 17:20:47.506015  
+date: 2023-03-21 18:48:52.099710  
 categories: player  
 ---
 # Dane Coles
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: New Zealand

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cameron Boon  
-date: 2023-02-02 18:48:12.108138  
+date: 2023-03-21 18:33:53.881555  
 categories: player  
 ---
 # Cameron Boon
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 96.0
+## Current elo: 93.0
 
-## Current Percentile: 52.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,15 +23,13 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Saracens |             6 |        0.5 |
-| Ampthill |             2 |        0   |
+| Saracens |             8 |      0.375 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Gloucester Rugby    |         2 |        0.5 |
-| Bedford             |         1 |        0   |
-| Bristol Rugby       |         1 |        1   |
-| Ealing Trailfinders |         1 |        0   |
-| Exeter Chiefs       |         1 |        1   |
-| Sale Sharks         |         1 |        0   |
-| Worcester Warriors  |         1 |        0   |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Gloucester Rugby   |         2 |        0.5 |
+| Sale Sharks        |         2 |        0   |
+| Exeter Chiefs      |         1 |        1   |
+| Leicester Tigers   |         1 |        0   |
+| Newcastle Falcons  |         1 |        1   |
+| Worcester Warriors |         1 |        0   |

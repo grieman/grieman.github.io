@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: James O'Neill  
-date: 2023-03-17 17:29:05.622800  
+date: 2023-03-21 18:56:48.906041  
 categories: player  
 ---
 # James O'Neill
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 107.0
 
-## Current Percentile: 82.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |            10 |        0.6 |
+| Toronto Arrows |            11 |   0.545455 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Old Glory DC      |         2 |        0.5 |
 | Rugby New York    |         2 |        0.5 |
 | Chicago Hounds    |         1 |        1   |
 | Dallas Jackals    |         1 |        1   |
 | Houston SaberCats |         1 |        0   |
-| Old Glory DC      |         1 |        1   |
 | R.U. New York     |         1 |        1   |
 | Rugby ATL         |         1 |        0   |
 | Seattle Seawolves |         1 |        0   |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: German Kessler  
-date: 2023-02-24 02:34:42.193919  
+date: 2023-03-21 18:55:57.264330  
 categories: player  
 ---
 # German Kessler
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Uruguay

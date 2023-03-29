@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Henry Walker  
-date: 2023-03-17 17:21:26.687400  
+date: 2023-03-21 17:58:10.680853  
 categories: player  
 ---
 # Henry Walker
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 92.0
 
-## Current Percentile: 61.0
+## Current Percentile: 62.0
 
 # Elo History
 

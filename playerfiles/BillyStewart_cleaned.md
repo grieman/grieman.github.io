@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Billy Stewart  
-date: 2023-03-17 17:01:02.181950  
+date: 2023-03-21 18:43:17.501740  
 categories: player  
 ---
 # Billy Stewart
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 129.0
+## Current elo: 133.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| NOLA Gold |            44 |   0.511364 |
+| NOLA Gold |            45 |   0.522222 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -30,10 +32,10 @@ categories: player
 | Rugby ATL              |         4 |   0        |
 | Seattle Seawolves      |         4 |   0.5      |
 | Toronto Arrows         |         4 |   0.5      |
+| Utah Warriors          |         4 |   1        |
 | R.U. New York          |         3 |   0.333333 |
 | Rugby New York         |         3 |   0.666667 |
 | San Diego Legion       |         3 |   0        |
-| Utah Warriors          |         3 |   1        |
 | Austin Elite Rugby     |         2 |   1        |
 | Glendale Raptors       |         2 |   0.5      |
 | Old Glory DC           |         2 |   0.75     |

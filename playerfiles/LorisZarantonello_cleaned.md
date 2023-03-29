@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Loris Zarantonello  
-date: 2023-03-17 17:25:20.032018  
+date: 2023-03-21 18:15:41.740779  
 categories: player  
 ---
 # Loris Zarantonello
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 114.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Eishin Kuwano  
-date: 2023-03-16 19:57:18.618473  
+date: 2023-03-21 18:39:36.878993  
 categories: player  
 ---
 # Eishin Kuwano
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 129.0
+## Current elo: 144.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            37 |   0.567568 |
+| Shizuoka Blue Revs |            38 |   0.578947 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Black Rams Tokyo                  |         5 |      0.8   |
 | Toyota Verblitz                   |         5 |      0.6   |
-| Black Rams Tokyo                  |         4 |      0.75  |
 | Toshiba Brave Lupus Tokyo         |         4 |      0.25  |
 | Yokohama Canon Eagles             |         4 |      0.625 |
 | Saitama Wild Knights              |         3 |      0     |

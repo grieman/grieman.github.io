@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rhyno Herbst  
-date: 2023-03-17 17:19:41.782520  
+date: 2023-03-21 18:16:14.564779  
 categories: player  
 ---
 # Rhyno Herbst
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 92.0

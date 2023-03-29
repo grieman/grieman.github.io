@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ilaisa Droasese  
-date: 2023-03-17 17:30:39.629791  
+date: 2023-03-21 18:50:10.701199  
 categories: player  
 ---
 # Ilaisa Droasese
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 99.0
+## Current elo: 104.0
 
-## Current Percentile: 48.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Fijian Drua     |             5 |        0.4 |
-| Queensland Reds |             5 |        0.6 |
+| Fijian Drua     |             6 |   0.333333 |
+| Queensland Reds |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -32,3 +34,4 @@ categories: player
 | Western Force            |         2 |        0.5 |
 | Blues                    |         1 |        0   |
 | Moana Pasifika           |         1 |        1   |
+| Queensland Reds          |         1 |        0   |

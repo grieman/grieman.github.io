@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Corentin Glenat  
-date: 2023-03-16 20:08:10.102836  
+date: 2023-03-21 18:11:25.685051  
 categories: player  
 ---
 # Corentin Glenat
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 88.0

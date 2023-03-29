@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Henry Tuilagi  
-date: 2023-03-17 17:17:25.409286  
+date: 2023-03-21 18:44:15.228162  
 categories: player  
 ---
 # Henry Tuilagi
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: Samoa

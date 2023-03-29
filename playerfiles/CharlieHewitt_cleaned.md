@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Charlie Hewitt  
-date: 2023-03-16 20:02:56.846574  
+date: 2023-03-21 18:16:33.963065  
 categories: player  
 ---
 # Charlie Hewitt
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 96.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Owen Farrell  
-date: 2023-03-17 17:15:41.036619  
+date: 2023-03-21 18:12:23.243700  
 categories: player  
 ---
 # Owen Farrell
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Saracens                |           237 |   0.803797 |
-| England                 |           101 |   0.668317 |
+| England                 |           102 |   0.661765 |
 | British and Irish Lions |            10 |   0.65     |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -38,10 +40,10 @@ categories: player
 | South Africa             |        14 |   0.321429 |
 | Wasps                    |        14 |   0.857143 |
 | Leicester Tigers         |        14 |   0.75     |
+| Ireland                  |        12 |   0.666667 |
 | Sale Sharks              |        12 |   0.833333 |
 | Wales                    |        12 |   0.5      |
 | France                   |        11 |   0.636364 |
-| Ireland                  |        11 |   0.727273 |
 | Italy                    |        10 |   1        |
 | Scotland                 |        10 |   0.65     |
 | New Zealand              |        10 |   0.4      |

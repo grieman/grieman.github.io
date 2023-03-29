@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: James Tuttle  
-date: 2023-03-17 17:14:19.208067  
+date: 2023-03-21 18:02:56.753111  
 categories: player  
 ---
 # James Tuttle
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -22,8 +24,8 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Queensland Country |            39 |   0.461538 |
+| Melbourne Rebels   |            29 |   0.310345 |
 | Queensland Reds    |            29 |   0.275862 |
-| Melbourne Rebels   |            28 |   0.321429 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,9 +35,9 @@ categories: player
 | New South Wales Waratahs |         6 |   0.333333 |
 | Melbourne Rising         |         5 |   0.4      |
 | Queensland Reds          |         5 |   0        |
+| Chiefs                   |         5 |   0        |
 | Hurricanes               |         5 |   0        |
 | NSW Country Eagles       |         5 |   0.8      |
-| Chiefs                   |         4 |   0        |
 | Crusaders                |         4 |   0        |
 | Perth Spirit             |         4 |   0        |
 | Fijian Drua              |         4 |   0.75     |

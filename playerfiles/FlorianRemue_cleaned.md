@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Florian Remue  
-date: 2023-02-05 15:11:20.464453  
+date: 2023-03-21 18:20:30.974774  
 categories: player  
 ---
 # Florian Remue
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Belgium
 
-## Current elo: 71.0
+## Current elo: 55.0
 
-## Current Percentile: None
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -23,12 +25,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Brussels Devils |             4 |          0 |
-| Belgium         |             1 |          0 |
+| Belgium         |             5 |        0.2 |
+| Brussels Devils |             4 |        0   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Lusitanos XV             |         2 |          0 |
-| Castilla y Leon Iberians |         1 |          0 |
-| Delta                    |         1 |          0 |
-| Portugal                 |         1 |          0 |
+| Lusitanos XV             |         2 |        0   |
+| Poland                   |         2 |        0.5 |
+| Castilla y Leon Iberians |         1 |        0   |
+| Delta                    |         1 |        0   |
+| Netherlands              |         1 |        0   |
+| Portugal                 |         1 |        0   |
+| Romania                  |         1 |        0   |

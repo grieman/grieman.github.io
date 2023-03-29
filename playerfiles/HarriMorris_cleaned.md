@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harri Morris  
-date: 2023-02-02 18:41:58.205244  
+date: 2023-03-21 17:58:30.679047  
 categories: player  
 ---
 # Harri Morris
 
+
+Last updated: 2023-03-21
 ## Positions: H, W
 
-## Current elo: 100.0
+## Current elo: 108.0
 
-## Current Percentile: 66.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -21,12 +23,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| London Scottish |             5 |          0 |
+| London Scottish |             9 |          0 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Ampthill         |         1 |          0 |
-| Doncaster        |         1 |          0 |
-| Hartpury College |         1 |          0 |
-| Jersey           |         1 |          0 |
-| Richmond         |         1 |          0 |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Coventry            |         2 |          0 |
+| Ampthill            |         1 |          0 |
+| Cornish Pirates     |         1 |          0 |
+| Doncaster           |         1 |          0 |
+| Ealing Trailfinders |         1 |          0 |
+| Hartpury College    |         1 |          0 |
+| Jersey              |         1 |          0 |
+| Richmond            |         1 |          0 |

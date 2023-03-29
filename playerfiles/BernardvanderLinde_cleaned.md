@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bernard van der Linde  
-date: 2023-03-17 17:42:06.945556  
+date: 2023-03-21 18:19:09.827501  
 categories: player  
 ---
 # Bernard van der Linde
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 94.0
+## Current elo: 95.0
 
-## Current Percentile: 61.0
+## Current Percentile: 62.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fitz Harding  
-date: 2023-03-17 17:27:38.365205  
+date: 2023-03-21 18:54:04.612146  
 categories: player  
 ---
 # Fitz Harding
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 118.0
+## Current elo: 113.0
 
-## Current Percentile: 87.0
+## Current Percentile: 78.0
 
 # Elo History
 

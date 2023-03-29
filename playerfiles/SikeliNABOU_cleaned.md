@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sikeli NABOU  
-date: 2023-03-12 11:32:20.777236  
+date: 2023-03-29 11:28:32.581696  
 categories: player  
 ---
 # Sikeli NABOU
 
+
+Last updated: 2023-03-29
 ## Positions: L, FL
 
 ## Country: Fiji
 
-## Current elo: 114.0
+## Current elo: 112.0
 
 ## Current Percentile: 86.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Soyaux-Angouleme   |            66 |   0.522727 |
+| Soyaux-Angouleme   |            67 |   0.514925 |
 | Biarritz Olympique |            64 |   0.515625 |
 | Counties Manukau   |            43 |   0.395349 |
 | Fiji               |             4 |   0.5      |
@@ -33,11 +35,11 @@ categories: player
 | Vannes                     |         8 |   0.375    |
 | Grenoble                   |         7 |   0.285714 |
 | Mont-de-Marsan             |         7 |   0.571429 |
+| Montauban                  |         7 |   0.428571 |
 | Nevers                     |         7 |   0.214286 |
 | Aurillac                   |         6 |   0.5      |
 | Valence Romans Drome Rugby |         6 |   0.75     |
 | Beziers                    |         6 |   0.833333 |
-| Montauban                  |         6 |   0.5      |
 | Oyonnax                    |         6 |   0.333333 |
 | Perpignan                  |         6 |   0.333333 |
 | Canterbury                 |         5 |   0        |

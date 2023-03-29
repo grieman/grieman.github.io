@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nathan GENDRE  
-date: 2023-03-12 11:32:09.609391  
+date: 2023-03-29 11:31:20.278077  
 categories: player  
 ---
 # Nathan GENDRE
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 98.0
 
-## Current Percentile: 84.0
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -27,10 +29,10 @@ categories: player
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         5 |   0.2      |
-| Bourgoin-Jallieu           |         4 |   0.5      |
+| Blagnac                    |         4 |   0.25     |
 | Dax                        |         4 |   0.25     |
 | Tarbes                     |         4 |   0.25     |
-| Blagnac                    |         3 |   0.333333 |
+| Bourgoin-Jallieu           |         3 |   0.666667 |
 | Chambery                   |         3 |   0        |
 | Cognac Saint Jean d'Angély |         3 |   0.666667 |
 | Massy                      |         3 |   0        |

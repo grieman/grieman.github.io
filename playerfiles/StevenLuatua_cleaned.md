@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Steven Luatua  
-date: 2023-03-17 17:40:59.588129  
+date: 2023-03-21 18:14:49.782778  
 categories: player  
 ---
 # Steven Luatua
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Blues

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: George North  
-date: 2023-03-16 20:06:43.571609  
+date: 2023-03-21 18:32:38.572657  
 categories: player  
 ---
 # George North
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Wales
 
-## Current elo: 108.0
+## Current elo: 117.0
 
-## Current Percentile: 79.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
-| Wales                   |           111 |   0.522523 |
+| Wales                   |           112 |   0.517857 |
 | Northampton Saints      |            89 |   0.640449 |
 | Scarlets                |            42 |   0.595238 |
 | Ospreys                 |            36 |   0.625    |
@@ -32,8 +34,8 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Australia            |        17 |   0.235294 |
+| France               |        16 |   0.5      |
 | South Africa         |        15 |   0.266667 |
-| France               |        15 |   0.533333 |
 | Ireland              |        14 |   0.535714 |
 | England              |        13 |   0.461538 |
 | Italy                |        11 |   1        |

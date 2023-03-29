@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Tomas DUSSAILLANT  
-date: 2023-03-17 17:32:12.483886  
+date: 2023-03-29 11:31:36.821309  
 categories: player  
 ---
 # Tomas DUSSAILLANT
 
+
+Last updated: 2023-03-29
 ## Positions: H
 
 ## Country: Chile
 
 ## Current elo: 87.0
 
-## Current Percentile: 28.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -23,16 +25,16 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |            18 |   0.666667 |
+| Selknam |            19 |   0.631579 |
 | Chile   |            14 |   0.357143 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
 | Jaguares XV       |         4 |   0.75     |
+| Penarol Rugby     |         4 |   0.5      |
 | Olimpia Lions     |         3 |   0.666667 |
 | Cobras            |         3 |   0.666667 |
 | Russia            |         3 |   0.666667 |
-| Penarol Rugby     |         3 |   0.666667 |
 | Korea             |         2 |   0.5      |
 | Romania           |         2 |   0        |
 | Scotland          |         1 |   0        |

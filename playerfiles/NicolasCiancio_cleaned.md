@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Nicolas Ciancio  
-date: 2023-03-17 17:15:49.217986  
+date: 2023-03-20 15:47:28.660221  
 categories: player  
 ---
 # Nicolas Ciancio
 
+
+Last updated: 2023-03-20
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dylan Riley  
-date: 2023-03-17 17:04:55.666849  
+date: 2023-03-21 18:12:17.278712  
 categories: player  
 ---
 # Dylan Riley
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Japan

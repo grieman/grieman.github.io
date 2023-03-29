@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Gael Fickou  
-date: 2023-03-17 17:18:22.012340  
+date: 2023-03-21 18:32:08.802197  
 categories: player  
 ---
 # Gael Fickou
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: France
 
-## Current elo: 115.0
+## Current elo: 106.0
 
-## Current Percentile: 83.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stade Toulousain     |           135 |   0.607407 |
-| France               |            77 |   0.584416 |
+| France               |            78 |   0.589744 |
 | Racing 92            |            36 |   0.625    |
 | Stade Francais Paris |            32 |   0.515625 |
 
@@ -37,9 +39,9 @@ categories: player
 | Montpellier Herault      |        13 |   0.5      |
 | England                  |        12 |   0.5      |
 | Scotland                 |        11 |   0.636364 |
+| Wales                    |        11 |   0.545455 |
 | Castres Olympique        |        11 |   0.590909 |
 | Italy                    |        11 |   1        |
-| Wales                    |        10 |   0.5      |
 | Bordeaux Begles          |        10 |   0.6      |
 | Pau                      |        10 |   0.8      |
 | La Rochelle              |         8 |   0.375    |

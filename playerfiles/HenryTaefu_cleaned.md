@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Henry Taefu  
-date: 2023-03-16 20:01:49.288203  
+date: 2023-03-21 18:57:26.886990  
 categories: player  
 ---
 # Henry Taefu
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Samoa
@@ -25,8 +27,8 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Colomiers           |            20 |  0.4       |
 | Western Force       |            17 |  0.117647  |
+| Moana Pasifika      |            13 |  0.0769231 |
 | Brisbane City       |            12 |  0.916667  |
-| Moana Pasifika      |            12 |  0.0833333 |
 | Samoa               |            12 |  0.5       |
 | North Harbour       |            10 |  0.5       |
 | Greater Sydney Rams |             6 |  0.333333  |
@@ -34,8 +36,8 @@ categories: player
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Brumbies                 |         6 |       0    |
 | Chiefs                   |         5 |       0    |
-| Brumbies                 |         5 |       0    |
 | Melbourne Rebels         |         5 |       0    |
 | Queensland Reds          |         4 |       0    |
 | Canberra Vikings         |         4 |       0.5  |

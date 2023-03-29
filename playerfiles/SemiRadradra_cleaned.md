@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Semi Radradra  
-date: 2023-03-17 17:35:03.273869  
+date: 2023-03-21 18:57:15.520505  
 categories: player  
 ---
 # Semi Radradra
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Fiji

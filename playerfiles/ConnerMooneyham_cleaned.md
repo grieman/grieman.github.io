@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Conner Mooneyham  
-date: 2023-03-17 17:10:43.531645  
+date: 2023-03-21 18:06:11.840715  
 categories: player  
 ---
 # Conner Mooneyham
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 70.0
 
-## Current Percentile: 3.0
+## Current Percentile: 7.0
 
 # Elo History
 

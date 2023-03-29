@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Owen SHEEHY  
-date: 2023-03-17 17:20:24.913603  
+date: 2023-03-29 11:28:44.323585  
 categories: player  
 ---
 # Owen SHEEHY
 
-## Positions: FB
 
-## Current elo: 70.0
+Last updated: 2023-03-29
+## Positions: FB, W
 
-## Current Percentile: 8.0
+## Current elo: 76.0
+
+## Current Percentile: 6.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |             9 |   0.222222 |
+| Old Glory DC |            11 |   0.272727 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | New England Free Jacks |         3 |        0   |
 | Austin Gilgronis       |         2 |        0.5 |
-| NOLA Gold              |         1 |        0   |
+| NOLA Gold              |         2 |        0   |
+| Toronto Arrows         |         2 |        0.5 |
 | Rugby ATL              |         1 |        0   |
 | San Diego Legion       |         1 |        1   |
-| Toronto Arrows         |         1 |        0   |

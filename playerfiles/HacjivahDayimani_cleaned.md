@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hacjivah Dayimani  
-date: 2023-01-06 00:18:15.677653  
+date: 2023-03-21 18:45:37.281646  
 categories: player  
 ---
 # Hacjivah Dayimani
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 121.0
+## Current elo: 123.0
 
-## Current Percentile: 84.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,30 +24,30 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Lions            |            29 |   0.37931  |
-| Stormers         |            27 |   0.851852 |
-| Golden Lions     |            18 |   0.5      |
-| Western Province |             5 |   0.8      |
+| Stormers         |            28 |   0.839286 |
+| Golden Lions     |            20 |   0.5      |
+| Western Province |             6 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Sharks                   |         8 |   0.5      |
 | Bulls                    |         6 |   0.666667 |
-| Sharks                   |         6 |   0.416667 |
+| Blue Bulls               |         5 |   0.4      |
 | Stormers                 |         5 |   0.6      |
 | Natal Sharks             |         5 |   0.4      |
-| Blue Bulls               |         4 |   0.5      |
-| Griquas                  |         4 |   0.75     |
+| Griquas                  |         5 |   0.8      |
+| Free State Cheetahs      |         4 |   0.5      |
 | Western Province         |         3 |   0.333333 |
 | Pumas                    |         3 |   0.666667 |
 | New South Wales Waratahs |         3 |   0.666667 |
-| Lions                    |         3 |   1        |
 | Jaguares                 |         3 |   0.666667 |
-| Free State Cheetahs      |         3 |   0.666667 |
 | Crusaders                |         2 |   0        |
+| Edinburgh                |         2 |   1        |
 | Brumbies                 |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
 | Blues                    |         2 |   0        |
 | Ulster                   |         2 |   1        |
-| Edinburgh                |         2 |   1        |
+| Lions                    |         2 |   1        |
 | Cardiff Blues            |         2 |   0.5      |
 | Scarlets                 |         2 |   1        |
 | Ospreys                  |         2 |   0.75     |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Julien Marchand  
-date: 2023-03-17 17:27:48.380583  
+date: 2023-03-21 18:10:09.247781  
 categories: player  
 ---
 # Julien Marchand
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: France
 
-## Current elo: 110.0
+## Current elo: 104.0
 
-## Current Percentile: 81.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           171 |   0.687135 |
-| France           |            27 |   0.777778 |
+| France           |            28 |   0.785714 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -41,8 +43,8 @@ categories: player
 | Oyonnax              |         7 |   0.714286 |
 | Pau                  |         6 |   0.5      |
 | Grenoble             |         6 |   0.666667 |
+| Wales                |         6 |   0.833333 |
 | Munster              |         5 |   0.7      |
-| Wales                |         5 |   0.8      |
 | Agen                 |         5 |   1        |
 | Sale Sharks          |         4 |   0.875    |
 | Scotland             |         4 |   0.5      |

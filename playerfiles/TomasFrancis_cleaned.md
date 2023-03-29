@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomas Francis  
-date: 2023-03-17 17:20:00.097976  
+date: 2023-03-21 18:32:23.404677  
 categories: player  
 ---
 # Tomas Francis
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Wales
 
-## Current elo: 133.0
+## Current elo: 139.0
 
 ## Current Percentile: 98.0
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Exeter Chiefs           |           123 |   0.711382 |
-| Wales                   |            67 |   0.559701 |
+| Wales                   |            68 |   0.551471 |
 | Ospreys                 |            24 |   0.541667 |
 | British and Irish Lions |             2 |   0.75     |
 
@@ -34,16 +36,16 @@ categories: player
 | Leicester Tigers    |        11 |   0.636364 |
 | Gloucester Rugby    |        11 |   0.545455 |
 | Bath Rugby          |        10 |   0.8      |
-| England             |        10 |   0.4      |
 | Saracens            |        10 |   0.5      |
-| Ireland             |         9 |   0.5      |
+| England             |        10 |   0.4      |
 | Newcastle Falcons   |         9 |   0.777778 |
+| Ireland             |         9 |   0.5      |
+| France              |         8 |   0.5      |
 | Northampton Saints  |         8 |   0.75     |
 | Sale Sharks         |         8 |   0.875    |
 | London Irish        |         7 |   0.857143 |
 | Australia           |         7 |   0.428571 |
 | Scotland            |         7 |   0.714286 |
-| France              |         7 |   0.571429 |
 | New Zealand         |         6 |   0        |
 | South Africa        |         6 |   0.333333 |
 | Harlequins          |         6 |   1        |

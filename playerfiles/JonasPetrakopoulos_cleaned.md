@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jonas Petrakopoulos  
-date: 2023-02-26 11:18:39.437794  
+date: 2023-03-21 18:31:52.515720  
 categories: player  
 ---
 # Jonas Petrakopoulos
 
+
+Last updated: 2023-03-21
 ## Positions: P, L
 
-## Current elo: 66.0
+## Current elo: 48.0
 
-## Current Percentile: None
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,15 +23,16 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rugby ATL      |             6 |   0.833333 |
-| R.U. New York  |             1 |   1        |
-| Rugby New York |             1 |   1        |
+| Rugby ATL      |            10 |        0.7 |
+| R.U. New York  |             1 |        1   |
+| Rugby New York |             1 |        1   |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Austin Herd      |         2 |          1 |
-| San Diego Legion |         2 |          1 |
-| L. A. Giltinis   |         1 |          1 |
-| NOLA Gold        |         1 |          1 |
-| Toronto Arrows   |         1 |          1 |
-| Utah Warriors    |         1 |          0 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| NOLA Gold         |         3 |   1        |
+| San Diego Legion  |         3 |   0.666667 |
+| Austin Herd       |         2 |   1        |
+| L. A. Giltinis    |         1 |   1        |
+| Seattle Seawolves |         1 |   0        |
+| Toronto Arrows    |         1 |   1        |
+| Utah Warriors     |         1 |   0        |

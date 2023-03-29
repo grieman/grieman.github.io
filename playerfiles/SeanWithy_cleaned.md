@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Sean Withy  
-date: 2023-03-17 17:12:31.124301  
+date: 2023-03-21 18:00:26.598025  
 categories: player  
 ---
 # Sean Withy
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 86.0
+## Current elo: 82.0
 
 ## Current Percentile: 23.0
 
@@ -22,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Otago       |            11 |   0.454545 |
-| Highlanders |             3 |   0        |
+| Highlanders |             4 |   0.25     |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -39,3 +41,4 @@ categories: player
 | Tasman           |         1 |        1   |
 | Waikato          |         1 |        1   |
 | Wellington       |         1 |        0   |
+| Western Force    |         1 |        1   |

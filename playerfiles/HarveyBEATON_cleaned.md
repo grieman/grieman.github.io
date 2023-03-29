@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Harvey BEATON  
-date: 2023-03-12 11:31:15.896160  
+date: 2023-03-29 11:28:19.857585  
 categories: player  
 ---
 # Harvey BEATON
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 99.0

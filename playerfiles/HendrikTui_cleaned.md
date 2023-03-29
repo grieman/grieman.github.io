@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hendrik Tui  
-date: 2023-03-17 17:39:22.674552  
+date: 2023-03-21 18:23:44.207997  
 categories: player  
 ---
 # Hendrik Tui
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Japan

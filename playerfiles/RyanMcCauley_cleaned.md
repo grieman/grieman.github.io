@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryan McCauley  
-date: 2023-03-17 17:00:56.864338  
+date: 2023-03-21 18:36:49.567222  
 categories: player  
 ---
 # Ryan McCauley
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 74.0
+## Current elo: 78.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Western Force            |            25 |  0.32      |
+| Western Force            |            26 |  0.307692  |
 | NSW Country Eagles       |            13 |  0.730769  |
 | Sydney Rays              |            11 |  0.0909091 |
 | New South Wales Waratahs |            10 |  0.2       |
@@ -30,11 +32,11 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Brumbies                 |         5 |   0        |
+| Highlanders              |         5 |   0.2      |
 | Melbourne Rising         |         4 |   0.5      |
 | Melbourne Rebels         |         4 |   0.5      |
 | Canberra Vikings         |         4 |   0.5      |
 | Brisbane City            |         4 |   0.375    |
-| Highlanders              |         4 |   0.25     |
 | Queensland Reds          |         3 |   0.333333 |
 | Queensland Country       |         3 |   0.333333 |
 | New South Wales Waratahs |         3 |   0.666667 |

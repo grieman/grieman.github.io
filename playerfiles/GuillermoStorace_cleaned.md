@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Guillermo Storace  
-date: 2023-03-17 17:30:03.313598  
+date: 2023-03-21 18:54:30.346363  
 categories: player  
 ---
 # Guillermo Storace
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Uruguay

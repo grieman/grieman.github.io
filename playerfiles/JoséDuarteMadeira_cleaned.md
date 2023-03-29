@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: José Duarte Madeira  
-date: 2023-02-24 02:37:12.485105  
+date: 2023-03-21 18:19:08.396003  
 categories: player  
 ---
 # José Duarte Madeira
 
-## Positions: L
+
+Last updated: 2023-03-21
+## Positions: L, FL
 
 ## Country: Portugal
 
-## Current elo: 117.0
+## Current elo: 98.0
 
-## Current Percentile: 86.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,13 +25,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Portugal |             3 |       1    |
-| Grenoble |             2 |       0.25 |
+| Portugal |             5 |        0.8 |
+| Grenoble |             1 |        1   |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Belgium            |         1 |        1   |
-| Biarritz Olympique |         1 |        0.5 |
-| Mont-de-Marsan     |         1 |        0   |
-| Poland             |         1 |        1   |
-| Romania            |         1 |        1   |
+| Opponent   |   Matches |   Win Rate |
+|:-----------|----------:|-----------:|
+| Belgium    |         1 |          1 |
+| Beziers    |         1 |          1 |
+| Georgia    |         1 |          0 |
+| Poland     |         1 |          1 |
+| Romania    |         1 |          1 |
+| Spain      |         1 |          1 |

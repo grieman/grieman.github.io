@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sione Teaupa  
-date: 2023-03-16 20:04:39.848765  
+date: 2023-03-21 18:11:00.532122  
 categories: player  
 ---
 # Sione Teaupa
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Japan

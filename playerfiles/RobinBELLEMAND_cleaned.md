@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Robin BELLEMAND  
-date: 2023-03-12 11:31:12.870395  
+date: 2023-03-29 11:29:11.964400  
 categories: player  
 ---
 # Robin BELLEMAND
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 83.0
+## Current elo: 77.0
 
-## Current Percentile: 18.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Colomiers |            13 |   0.461538 |
+| Colomiers |            14 |   0.428571 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -35,4 +37,5 @@ categories: player
 | Montauban          |         1 |        0   |
 | Nevers             |         1 |        1   |
 | Oyonnax            |         1 |        0   |
+| Provence Rugby     |         1 |        0   |
 | Soyaux-Angouleme   |         1 |        1   |

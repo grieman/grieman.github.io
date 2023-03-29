@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ryan Smith  
-date: 2023-03-17 17:43:09.273989  
+date: 2023-03-21 18:32:17.615685  
 categories: player  
 ---
 # Ryan Smith
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Country: Canada
 
 ## Current elo: 100.0
 
-## Current Percentile: 46.0
+## Current Percentile: 47.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas Plazy  
-date: 2023-02-02 19:02:41.130289  
+date: 2023-03-21 18:08:46.639026  
 categories: player  
 ---
 # Nicolas Plazy
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 94.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Beziers         |            49 |   0.489796 |
+| Beziers         |            47 |   0.489362 |
 | Colomiers       |            40 |   0.5625   |
 | Bordeaux Begles |             8 |   0.5625   |
 
@@ -34,25 +36,25 @@ categories: player
 | Vannes                     |         5 |   0.4      |
 | Soyaux-Angouleme           |         5 |   0.4      |
 | Biarritz Olympique         |         5 |   0.6      |
-| Oyonnax                    |         5 |   0.3      |
 | Dax                        |         4 |   0.5      |
-| Provence Rugby             |         4 |   0.5      |
+| Oyonnax                    |         4 |   0.375    |
 | Agen                       |         4 |   0.875    |
-| Beziers                    |         4 |   0.25     |
 | Carcassonne                |         4 |   0.25     |
-| Rouen                      |         3 |   0.333333 |
+| Beziers                    |         4 |   0.25     |
+| Colomiers                  |         3 |   0.666667 |
 | Bayonne                    |         3 |   0.666667 |
 | Narbonne                   |         3 |   1        |
 | Nevers                     |         3 |   0.333333 |
-| Colomiers                  |         3 |   0.666667 |
-| Grenoble                   |         2 |   1        |
-| US Bressane                |         2 |   0        |
-| Sale Sharks                |         2 |   0.5      |
+| Provence Rugby             |         3 |   0.333333 |
+| Rouen                      |         3 |   0.333333 |
 | Wasps                      |         2 |   1        |
+| US Bressane                |         2 |   0        |
 | Massy                      |         2 |   1        |
 | Albi                       |         2 |   0.5      |
-| Montpellier Herault        |         1 |   0.5      |
-| Stade Toulousain           |         1 |   0        |
+| Grenoble                   |         2 |   1        |
+| Sale Sharks                |         2 |   0.5      |
 | Valence Romans Drome Rugby |         1 |   0.5      |
 | Connacht                   |         1 |   0        |
+| Stade Toulousain           |         1 |   0        |
+| Montpellier Herault        |         1 |   0.5      |
 | Bourgoin-Jallieu           |         1 |   1        |

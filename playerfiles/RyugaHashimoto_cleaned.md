@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryuga Hashimoto  
-date: 2023-02-02 18:54:34.508751  
+date: 2023-03-21 18:42:38.641670  
 categories: player  
 ---
 # Ryuga Hashimoto
 
-## Positions: FL
 
-## Current elo: 106.0
+Last updated: 2023-03-21
+## Positions: FL, N8
 
-## Current Percentile: 73.0
+## Current elo: 94.0
+
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,15 +23,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |             8 |      0.875 |
+| Tokyo Sungoliath |            13 |   0.923077 |
 
-| Opponent                          |   Matches |   Win Rate |
-|:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         1 |          1 |
-| Green Rockets Tokatsu             |         1 |          1 |
-| Kobelco Kobe Steelers             |         1 |          1 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
-| Mitsubishi Dynaboars              |         1 |          1 |
-| NTT Docomo Red Hurricanes Osaka   |         1 |          1 |
-| Shizuoka Blue Revs                |         1 |          1 |
-| Yokohama Canon Eagles             |         1 |          1 |
+| Opponent                        |   Matches |   Win Rate |
+|:--------------------------------|----------:|-----------:|
+| Black Rams Tokyo                |         2 |          1 |
+| Shizuoka Blue Revs              |         2 |          1 |
+| Toshiba Brave Lupus Tokyo       |         2 |          1 |
+| Green Rockets Tokatsu           |         1 |          1 |
+| Hanazono Kintetsu Liners        |         1 |          1 |
+| Kobelco Kobe Steelers           |         1 |          1 |
+| Mitsubishi Dynaboars            |         1 |          1 |
+| NTT Docomo Red Hurricanes Osaka |         1 |          1 |
+| Toyota Verblitz                 |         1 |          0 |
+| Yokohama Canon Eagles           |         1 |          1 |

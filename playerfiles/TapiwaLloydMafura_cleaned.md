@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tapiwa Lloyd Mafura  
-date: 2023-03-16 19:54:42.891789  
+date: 2023-03-21 18:46:59.023362  
 categories: player  
 ---
 # Tapiwa Lloyd Mafura
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Zimbabwe
@@ -26,7 +28,7 @@ categories: player
 | Pumas               |            26 |   0.461538 |
 | Leopards            |            11 |   0.681818 |
 | Cheetahs            |             4 |   0.5      |
-| Free State Cheetahs |             2 |   0.5      |
+| Free State Cheetahs |             3 |   0.666667 |
 | Zimbabwe            |             2 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
@@ -36,9 +38,9 @@ categories: player
 | Free State Cheetahs    |         5 |   0.6      |
 | Golden Lions           |         5 |   0.6      |
 | Western Province       |         4 |   0.375    |
+| Griffons               |         3 |   0.333333 |
 | Boland Cavaliers       |         2 |   1        |
 | Eastern Province Kings |         2 |   1        |
-| Griffons               |         2 |   0        |
 | Natal Sharks           |         2 |   0        |
 | Pau                    |         2 |   1        |
 | SWD Eagles             |         2 |   0.75     |

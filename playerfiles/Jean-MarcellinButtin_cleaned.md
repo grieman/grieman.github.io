@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jean-Marcellin Buttin  
-date: 2023-03-17 17:14:35.142966  
+date: 2023-03-21 18:24:57.629941  
 categories: player  
 ---
 # Jean-Marcellin Buttin
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 122.0
 
-## Current Percentile: 72.0
+## Current Percentile: 68.0
 
 # Elo History
 

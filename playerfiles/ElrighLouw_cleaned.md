@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Elrigh Louw  
-date: 2023-02-02 19:05:10.507964  
+date: 2023-03-21 18:18:08.006497  
 categories: player  
 ---
 # Elrigh Louw
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: South Africa
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 42.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -23,36 +25,33 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Bulls          |            33 |  0.575758  |
+| Bulls          |            30 |  0.633333  |
+| Blue Bulls     |            14 |  0.928571  |
 | Southern Kings |            12 |  0.0833333 |
-| Blue Bulls     |            10 |  0.9       |
 | South Africa   |             3 |  1         |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Lions               |         4 |   1        |
 | Connacht            |         4 |   0.25     |
-| Sharks              |         4 |   0.25     |
+| Natal Sharks        |         4 |   0.75     |
+| Golden Lions        |         4 |   1        |
 | Stormers            |         4 |   0        |
+| Edinburgh           |         3 |   0.333333 |
 | Glasgow Warriors    |         3 |   0.333333 |
 | Benetton Treviso    |         3 |   0.666667 |
+| Munster             |         3 |   0.333333 |
 | Cardiff Blues       |         3 |   0.666667 |
 | Ospreys             |         3 |   1        |
-| Edinburgh           |         3 |   0.333333 |
-| Munster             |         3 |   0.333333 |
-| Scarlets            |         3 |   0.333333 |
-| Golden Lions        |         3 |   1        |
-| Natal Sharks        |         2 |   0.5      |
-| Lions               |         2 |   1        |
-| Leinster            |         2 |   0.5      |
-| Ulster              |         2 |   0.5      |
-| Wales               |         2 |   1        |
+| Sharks              |         3 |   0.333333 |
+| Western Province    |         2 |   1        |
 | Cheetahs            |         2 |   0        |
+| Ulster              |         2 |   0.5      |
+| Leinster            |         2 |   0.5      |
 | Pumas               |         2 |   1        |
-| Western Province    |         1 |   1        |
+| Scarlets            |         2 |   0.5      |
+| Wales               |         2 |   1        |
 | Argentina           |         1 |   1        |
-| Lyon                |         1 |   0        |
 | Griquas             |         1 |   1        |
 | Free State Cheetahs |         1 |   1        |
-| Exeter Chiefs       |         1 |   1        |
-| Dragons             |         1 |   1        |
 | Zebre               |         1 |   1        |

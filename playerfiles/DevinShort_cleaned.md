@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Devin Short  
-date: 2023-03-16 19:56:34.614959  
+date: 2023-03-21 18:23:34.805950  
 categories: player  
 ---
 # Devin Short
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 65.0
+## Current elo: 66.0
 
 ## Current Percentile: 2.0
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| NOLA Gold        |            25 |   0.38     |
+| NOLA Gold        |            26 |   0.403846 |
 | San Diego Legion |            24 |   0.645833 |
 
 | Opponent               |   Matches |   Win Rate |
@@ -36,8 +38,8 @@ categories: player
 | Rugby ATL              |         4 |   0        |
 | Austin Elite Rugby     |         3 |   0.666667 |
 | Houston SaberCats      |         3 |   1        |
+| Utah Warriors          |         3 |   1        |
 | Austin Gilgronis       |         2 |   0        |
-| Utah Warriors          |         2 |   1        |
 | Colorado Raptors       |         1 |   1        |
 | Dallas Jackals         |         1 |   1        |
 | NOLA Gold              |         1 |   1        |

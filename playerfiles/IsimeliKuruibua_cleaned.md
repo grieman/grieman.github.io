@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Isimeli Kuruibua  
-date: 2023-03-17 17:39:01.106767  
+date: 2023-03-21 18:17:28.016201  
 categories: player  
 ---
 # Isimeli Kuruibua
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Current elo: 100.0
 
-## Current Percentile: 79.0
+## Current Percentile: 75.0
 
 # Elo History
 

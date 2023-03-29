@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Samuel OPSOMER  
-date: 2023-03-12 11:33:15.981091  
+date: 2023-03-29 11:31:24.657234  
 categories: player  
 ---
 # Samuel OPSOMER
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Country: Belgium

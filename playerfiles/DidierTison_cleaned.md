@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Didier Tison  
-date: 2023-03-17 17:06:20.473983  
+date: 2023-03-21 18:22:48.226506  
 categories: player  
 ---
 # Didier Tison
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 131.0

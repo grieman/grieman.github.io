@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Wheetu Douglas  
-date: 2023-03-17 17:22:43.514132  
+date: 2023-03-21 18:10:52.626602  
 categories: player  
 ---
 # Wheetu Douglas
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 79.0
+## Current elo: 74.0
 
-## Current Percentile: 14.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,13 +23,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            11 |   0.181818 |
+| Green Rockets Tokatsu |            11 |  0.0909091 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Kobelco Kobe Steelers             |         2 |          0 |
 | Black Rams Tokyo                  |         1 |          0 |
-| Hanazono Kintetsu Liners          |         1 |          1 |
-| Kobelco Kobe Steelers             |         1 |          0 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
 | Mitsubishi Dynaboars              |         1 |          1 |
 | Saitama Wild Knights              |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Tyas  
-date: 2023-01-21 15:45:27.923797  
+date: 2023-03-21 18:20:42.730257  
 categories: player  
 ---
 # James Tyas
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

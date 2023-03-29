@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Emosi Tuqiri  
-date: 2023-03-16 19:47:02.249453  
+date: 2023-03-21 18:56:13.835371  
 categories: player  
 ---
 # Emosi Tuqiri
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 56.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |             2 |          1 |
+| Fijian Drua |             3 |   0.666667 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Crusaders      |         1 |          1 |
-| Moana Pasifika |         1 |          1 |
+| Opponent        |   Matches |   Win Rate |
+|:----------------|----------:|-----------:|
+| Crusaders       |         1 |          1 |
+| Moana Pasifika  |         1 |          1 |
+| Queensland Reds |         1 |          0 |

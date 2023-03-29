@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lionel Cronje  
-date: 2023-03-17 17:21:55.126876  
+date: 2023-03-21 17:57:21.168098  
 categories: player  
 ---
 # Lionel Cronje
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 119.0

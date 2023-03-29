@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jone Tuva  
-date: 2023-03-16 19:57:49.108317  
+date: 2023-03-21 18:22:24.737122  
 categories: player  
 ---
 # Jone Tuva
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 58.0

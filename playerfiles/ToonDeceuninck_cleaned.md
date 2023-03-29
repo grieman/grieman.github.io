@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Toon Deceuninck  
-date: 2023-02-05 15:11:22.030626  
+date: 2023-03-21 18:48:33.570235  
 categories: player  
 ---
 # Toon Deceuninck
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Belgium
 
-## Current elo: 76.0
+## Current elo: 77.0
 
-## Current Percentile: 10.0
+## Current Percentile: 16.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Brussels Devils |             6 |   0.166667 |
-| Belgium         |             3 |   0        |
+| Belgium         |             2 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -32,4 +34,3 @@ categories: player
 | Castilla y Leon Iberians |         2 |        0   |
 | Delta                    |         2 |        0.5 |
 | Lusitanos XV             |         2 |        0   |
-| Portugal                 |         1 |        0   |

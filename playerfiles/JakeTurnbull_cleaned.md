@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jake Turnbull  
-date: 2023-03-17 17:15:01.547177  
+date: 2023-03-21 18:31:56.191713  
 categories: player  
 ---
 # Jake Turnbull
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 106.0
 
-## Current Percentile: 74.0
+## Current Percentile: 84.0
 
 # Elo History
 

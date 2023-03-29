@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Morgan Mitchell  
-date: 2023-03-17 17:38:39.613668  
+date: 2023-03-21 18:15:14.207203  
 categories: player  
 ---
 # Morgan Mitchell
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 36.0

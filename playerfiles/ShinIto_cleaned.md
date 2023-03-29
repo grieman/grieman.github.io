@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shin Ito  
-date: 2023-03-17 17:06:25.623286  
+date: 2023-03-21 18:34:39.718686  
 categories: player  
 ---
 # Shin Ito
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 139.0

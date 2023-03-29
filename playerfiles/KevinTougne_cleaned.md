@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kevin Tougne  
-date: 2023-03-17 17:28:17.755450  
+date: 2023-03-21 18:11:13.479759  
 categories: player  
 ---
 # Kevin Tougne
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 82.0

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Reece Hodge  
-date: 2023-03-17 17:42:48.138267  
+date: 2023-03-21 18:42:22.979191  
 categories: player  
 ---
 # Reece Hodge
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: Australia
 
 ## Current elo: 107.0
 
-## Current Percentile: 80.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Melbourne Rebels   |            92 |   0.347826 |
+| Melbourne Rebels   |            93 |   0.344086 |
 | Australia          |            66 |   0.484848 |
 | North Harbour Rays |             7 |   0.285714 |
 
@@ -38,10 +40,10 @@ categories: player
 | Western Force            |        10 |   0.6      |
 | Hurricanes               |         6 |   0        |
 | Crusaders                |         5 |   0        |
+| Chiefs                   |         5 |   0        |
 | Sunwolves                |         5 |   0.8      |
 | Ireland                  |         4 |   0.25     |
 | England                  |         4 |   0        |
-| Chiefs                   |         4 |   0        |
 | Highlanders              |         4 |   0.25     |
 | Blues                    |         4 |   0.25     |
 | Stormers                 |         3 |   0        |

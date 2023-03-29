@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Campbell Johnstone  
-date: 2023-03-02 11:25:20.494459  
+date: 2023-03-21 18:21:09.963220  
 categories: player  
 ---
 # Campbell Johnstone
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand
 
 ## Current elo: 94.0
 
-## Current Percentile: 40.0
+## Current Percentile: 41.0
 
 # Elo History
 

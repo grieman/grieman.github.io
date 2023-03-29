@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Teddy Durand  
-date: 2023-02-03 10:25:38.412383  
+date: 2023-03-21 18:04:32.382116  
 categories: player  
 ---
 # Teddy Durand
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 72.0
+## Current elo: 91.0
 
-## Current Percentile: 11.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -21,27 +23,27 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Oyonnax |            51 |   0.656863 |
+| Oyonnax |            57 |   0.657895 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Rouen                      |         5 |   0.4      |
-| Nevers                     |         4 |   0.75     |
+| Vannes                     |         4 |   0.5      |
 | Beziers                    |         4 |   0.875    |
+| Biarritz Olympique         |         4 |   0.25     |
+| Carcassonne                |         4 |   1        |
+| Nevers                     |         4 |   0.75     |
 | Mont-de-Marsan             |         4 |   0.375    |
-| Vannes                     |         3 |   0.666667 |
-| Soyaux-Angouleme           |         3 |   1        |
-| Biarritz Olympique         |         3 |   0        |
-| Carcassonne                |         3 |   1        |
-| Grenoble                   |         3 |   1        |
-| Provence Rugby             |         3 |   0.5      |
 | Aurillac                   |         3 |   0.666667 |
-| Agen                       |         2 |   1        |
+| Soyaux-Angouleme           |         3 |   1        |
+| Provence Rugby             |         3 |   0.5      |
+| Montauban                  |         3 |   0.666667 |
+| Grenoble                   |         3 |   1        |
+| Bayonne                    |         3 |   0.333333 |
 | Narbonne                   |         2 |   1        |
-| Bayonne                    |         2 |   0.5      |
-| Montauban                  |         2 |   0.5      |
-| Perpignan                  |         1 |   0        |
+| Colomiers                  |         2 |   0.5      |
+| Agen                       |         2 |   1        |
 | Massy                      |         1 |   1        |
-| Colomiers                  |         1 |   0        |
+| Perpignan                  |         1 |   0        |
 | US Bressane                |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |

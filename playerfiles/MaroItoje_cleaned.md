@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Maro Itoje  
-date: 2023-03-17 17:17:11.682991  
+date: 2023-03-21 18:26:59.634113  
 categories: player  
 ---
 # Maro Itoje
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: England
 
-## Current elo: 99.0
+## Current elo: 109.0
 
-## Current Percentile: 75.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Saracens                |           160 |   0.8125   |
-| England                 |            62 |   0.653226 |
+| England                 |            63 |   0.642857 |
 | British and Irish Lions |             9 |   0.5      |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,9 +37,9 @@ categories: player
 | Wasps               |        11 |   0.909091 |
 | Harlequins          |        11 |   0.727273 |
 | South Africa        |        10 |   0.4      |
+| Ireland             |         9 |   0.444444 |
 | Australia           |         9 |   0.888889 |
 | Newcastle Falcons   |         9 |   1        |
-| Ireland             |         8 |   0.5      |
 | Wales               |         8 |   0.75     |
 | Bristol Rugby       |         7 |   0.714286 |
 | Sale Sharks         |         7 |   0.857143 |

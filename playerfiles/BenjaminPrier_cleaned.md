@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Benjamin Prier  
-date: 2023-03-17 17:17:27.358140  
+date: 2023-03-21 18:28:08.322021  
 categories: player  
 ---
 # Benjamin Prier
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 100.0
 
-## Current Percentile: 94.0
+## Current Percentile: 92.0
 
 # Elo History
 

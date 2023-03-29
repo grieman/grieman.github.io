@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Malcolm  
-date: 2023-03-17 17:34:10.829887  
+date: 2023-03-21 18:45:07.003187  
 categories: player  
 ---
 # James Malcolm
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 116.0

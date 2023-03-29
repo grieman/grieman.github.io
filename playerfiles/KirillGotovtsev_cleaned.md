@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kirill Gotovtsev  
-date: 2023-03-17 17:11:56.381509  
+date: 2023-03-21 18:28:22.949502  
 categories: player  
 ---
 # Kirill Gotovtsev
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Russia

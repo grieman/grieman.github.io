@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Cole Keith  
-date: 2023-03-17 17:13:47.829387  
+date: 2023-03-21 18:21:23.911201  
 categories: player  
 ---
 # Cole Keith
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Canada

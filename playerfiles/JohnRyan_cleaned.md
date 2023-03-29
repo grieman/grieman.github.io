@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: John Ryan  
-date: 2023-03-16 19:51:56.797874  
+date: 2023-03-21 18:56:50.281039  
 categories: player  
 ---
 # John Ryan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Ireland
@@ -25,8 +27,8 @@ categories: player
 |:-------------|--------------:|-----------:|
 | Munster      |           205 |   0.65122  |
 | Ireland      |            22 |   0.863636 |
+| Chiefs       |             4 |   1        |
 | Wasps        |             4 |   0.25     |
-| Chiefs       |             3 |   1        |
 | London Irish |             2 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -46,21 +48,21 @@ categories: player
 | Leicester Tigers         |         6 |   0.5      |
 | Castres Olympique        |         6 |   0.75     |
 | Saracens                 |         5 |   0.2      |
-| Cheetahs                 |         4 |   1        |
-| Northampton Saints       |         4 |   0.75     |
-| Gloucester Rugby         |         4 |   0.5      |
 | Stade Toulousain         |         4 |   0.5      |
-| France                   |         3 |   1        |
-| Wales                    |         3 |   0.666667 |
+| Northampton Saints       |         4 |   0.75     |
+| Cheetahs                 |         4 |   1        |
+| Gloucester Rugby         |         4 |   0.5      |
 | Italy                    |         3 |   1        |
 | Southern Kings           |         3 |   1        |
-| Exeter Chiefs            |         3 |   0.833333 |
 | Japan                    |         3 |   1        |
+| Wales                    |         3 |   0.666667 |
+| France                   |         3 |   1        |
+| Exeter Chiefs            |         3 |   0.833333 |
 | Stade Francais Paris     |         2 |   0.5      |
 | Australia                |         2 |   0.5      |
 | United States of America |         2 |   1        |
-| Wasps                    |         2 |   0.5      |
 | Toulon                   |         2 |   0.5      |
+| Wasps                    |         2 |   0.5      |
 | Clermont Auvergne        |         2 |   0        |
 | Crusaders                |         1 |   1        |
 | Bath Rugby               |         1 |   1        |
@@ -73,6 +75,7 @@ categories: player
 | Russia                   |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
+| Melbourne Rebels         |         1 |   1        |
 | Lions                    |         1 |   0        |
 | Highlanders              |         1 |   1        |
 | England                  |         1 |   1        |

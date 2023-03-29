@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Simao Broeiro Bento  
-date: 2023-02-15 22:14:46.976628  
+date: 2023-03-21 18:01:06.232189  
 categories: player  
 ---
 # Simao Broeiro Bento
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Portugal
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 61.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,27 +25,28 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            21 |    0.52381 |
-| Portugal       |             6 |    0.5     |
+| Mont-de-Marsan |            21 |   0.52381  |
+| Portugal       |             9 |   0.555556 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Agen             |         2 |        0.5 |
-| Colomiers        |         2 |        0.5 |
+| Grenoble         |         2 |        0.5 |
+| Spain            |         2 |        0.5 |
+| Romania          |         2 |        0.5 |
 | Poland           |         2 |        1   |
 | Nevers           |         2 |        0.5 |
 | Aurillac         |         2 |        1   |
-| Grenoble         |         2 |        0.5 |
 | Vannes           |         2 |        0.5 |
+| Colomiers        |         2 |        0.5 |
 | Beziers          |         2 |        0.5 |
+| Georgia          |         1 |        0   |
 | Chile            |         1 |        1   |
-| Carcassonne      |         1 |        1   |
-| Brazil           |         1 |        0   |
 | Narbonne         |         1 |        1   |
+| Carcassonne      |         1 |        1   |
 | Oyonnax          |         1 |        0   |
-| Bayonne          |         1 |        0   |
+| Brazil           |         1 |        0   |
 | Provence Rugby   |         1 |        0   |
-| Romania          |         1 |        0   |
 | Soyaux-Angouleme |         1 |        1   |
-| Spain            |         1 |        0   |
+| Bayonne          |         1 |        0   |
 | Massy            |         1 |        0   |

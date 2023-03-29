@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Monty Ioane  
-date: 2023-03-17 17:08:24.939835  
+date: 2023-03-21 18:13:40.608188  
 categories: player  
 ---
 # Monty Ioane
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Italy
 
-## Current elo: 126.0
+## Current elo: 125.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -26,7 +28,7 @@ categories: player
 | Benetton Treviso     |            76 |   0.421053 |
 | Bay of Plenty        |            22 |   0.409091 |
 | Italy                |            16 |   0.25     |
-| Melbourne Rebels     |             3 |   0.333333 |
+| Melbourne Rebels     |             4 |   0.25     |
 | Stade Francais Paris |             3 |   0.666667 |
 | Tasman               |             3 |   0.666667 |
 
@@ -45,46 +47,47 @@ categories: player
 | Edinburgh                |         3 |   0.666667 |
 | Agen                     |         3 |   0.666667 |
 | Auckland                 |         3 |   0        |
-| Northland                |         2 |   0.5      |
-| Ireland                  |         2 |   0        |
-| Southland                |         2 |   0.5      |
-| Cheetahs                 |         2 |   0.5      |
 | Northampton Saints       |         2 |   0        |
-| Taranaki                 |         2 |   0        |
-| Munster                  |         2 |   0        |
-| Toulon                   |         2 |   0        |
-| Manawatu                 |         2 |   1        |
 | Lyon                     |         2 |   0.5      |
-| Ulster                   |         2 |   0.25     |
-| Waikato                  |         2 |   1        |
-| Hawke's Bay              |         2 |   1        |
-| Harlequins               |         2 |   0.5      |
 | Wales                    |         2 |   0.5      |
-| Glasgow Warriors         |         2 |   0.5      |
-| France                   |         2 |   0        |
-| England                  |         2 |   0        |
+| Waikato                  |         2 |   1        |
+| Ulster                   |         2 |   0.25     |
+| Toulon                   |         2 |   0        |
+| Taranaki                 |         2 |   0        |
+| Southland                |         2 |   0.5      |
 | Scotland                 |         2 |   0        |
-| Uruguay                  |         1 |   1        |
-| Bath Rugby               |         1 |   0        |
+| Northland                |         2 |   0.5      |
+| Munster                  |         2 |   0        |
+| Manawatu                 |         2 |   1        |
+| France                   |         2 |   0        |
+| Ireland                  |         2 |   0        |
+| Cheetahs                 |         2 |   0.5      |
+| England                  |         2 |   0        |
+| Harlequins               |         2 |   0.5      |
+| Glasgow Warriors         |         2 |   0.5      |
+| Hawke's Bay              |         2 |   1        |
 | Stormers                 |         1 |   1        |
-| Stade Francais Paris     |         1 |   1        |
-| Western Force            |         1 |   0        |
 | Australia                |         1 |   1        |
+| Grenoble                 |         1 |   1        |
+| Stade Francais Paris     |         1 |   1        |
+| Bucuresti                |         1 |   1        |
+| Gloucester Rugby         |         1 |   0        |
+| Uruguay                  |         1 |   1        |
+| Bulls                    |         1 |   0        |
+| Western Force            |         1 |   0        |
 | South Africa             |         1 |   0        |
-| Counties Manukau         |         1 |   0        |
+| Bath Rugby               |         1 |   0        |
+| Lions                    |         1 |   0        |
 | Samoa                    |         1 |   1        |
 | Perpignan                |         1 |   1        |
 | Oyonnax                  |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
 | Bucarest Wolves          |         1 |   1        |
+| Counties Manukau         |         1 |   0        |
 | North Harbour            |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | New South Wales Waratahs |         1 |   1        |
-| Argentina                |         1 |   0        |
-| Lions                    |         1 |   0        |
-| Bucuresti                |         1 |   1        |
 | Hurricanes               |         1 |   0        |
-| Grenoble                 |         1 |   1        |
-| Gloucester Rugby         |         1 |   0        |
-| Bulls                    |         1 |   0        |
 | Montpellier Herault      |         1 |   0        |
+| Argentina                |         1 |   0        |
+| Chiefs                   |         1 |   0        |

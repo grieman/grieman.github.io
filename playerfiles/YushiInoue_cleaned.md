@@ -1,24 +1,31 @@
 ---  
 layout: page  
 title: Yushi Inoue  
-date: 2023-03-17 17:31:00.316448  
+date: 2023-03-21 17:57:44.052246  
 categories: player  
 ---
 # Yushi Inoue
 
-## Positions: 
 
-## Current elo: 93.0
+Last updated: 2023-03-21
+## Positions: P
+
+## Current elo: 91.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_YushiInoue.png)
 # Match History
 
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             1 |          0 |
+| Hanazono Kintetsu Liners |             2 |          0 |
 
-| Opponent        |   Matches |   Win Rate |
-|:----------------|----------:|-----------:|
-| Toyota Verblitz |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Tokyo Sungoliath |         1 |          0 |
+| Toyota Verblitz  |         1 |          0 |

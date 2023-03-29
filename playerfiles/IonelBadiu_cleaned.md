@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ionel Badiu  
-date: 2023-03-17 17:41:01.597362  
+date: 2023-03-29 11:31:44.462629  
 categories: player  
 ---
 # Ionel Badiu
 
+
+Last updated: 2023-03-29
 ## Positions: L, P
 
 ## Country: Romania

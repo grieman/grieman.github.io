@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yuta Nakano  
-date: 2023-03-02 11:24:20.307924  
+date: 2023-03-21 18:37:11.840688  
 categories: player  
 ---
 # Yuta Nakano
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 51.0
+## Current elo: 47.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |            31 |   0.322581 |
+| Kamaishi Seawaves |            32 |     0.3125 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
@@ -39,3 +41,4 @@ categories: player
 | NTT Docomo Red Hurricanes Osaka  |         1 |   0        |
 | Shimizu Blue Sharks              |         1 |   1        |
 | Toyota Industries Shuttles Aichi |         1 |   0        |
+| Urayasu D-Rocks                  |         1 |   0        |

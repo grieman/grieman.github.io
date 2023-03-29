@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Robert Rodgers  
-date: 2023-03-17 17:12:55.207830  
+date: 2023-03-21 18:11:21.912659  
 categories: player  
 ---
 # Robert Rodgers
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 79.0

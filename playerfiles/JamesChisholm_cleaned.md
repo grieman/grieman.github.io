@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Chisholm  
-date: 2023-03-17 17:07:14.655840  
+date: 2023-03-21 18:04:10.558224  
 categories: player  
 ---
 # James Chisholm
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 93.0

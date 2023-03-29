@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mathis Garnier  
-date: 2023-03-17 17:41:54.050194  
+date: 2023-03-21 18:26:02.229487  
 categories: player  
 ---
 # Mathis Garnier
 
+
+Last updated: 2023-03-21
 ## Positions: FH, SH
 
-## Current elo: 55.0
+## Current elo: 56.0
 
-## Current Percentile: 1.0
+## Current Percentile: 0.0
 
 # Elo History
 

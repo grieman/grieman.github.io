@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Taiga Ozaki  
-date: 2023-03-17 17:18:56.017469  
+date: 2023-03-21 18:09:56.738598  
 categories: player  
 ---
 # Taiga Ozaki
 
-## Positions: W
 
-## Current elo: 91.0
+Last updated: 2023-03-21
+## Positions: W, C
 
-## Current Percentile: 38.0
+## Current elo: 95.0
+
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,12 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Tokyo Sungoliath |            10 |        0.7 |
+| Tokyo Sungoliath |            11 |   0.727273 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
 | Black Rams Tokyo                |         2 |          1 |
 | Shizuoka Blue Revs              |         2 |          1 |
+| Hanazono Kintetsu Liners        |         1 |          1 |
 | NTT Docomo Red Hurricanes Osaka |         1 |          1 |
 | Saitama Wild Knights            |         1 |          0 |
 | Toshiba Brave Lupus Tokyo       |         1 |          0 |

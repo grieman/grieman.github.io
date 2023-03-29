@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matt McGahan  
-date: 2023-03-17 17:17:54.533687  
+date: 2023-03-21 18:30:27.672333  
 categories: player  
 ---
 # Matt McGahan
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 116.0

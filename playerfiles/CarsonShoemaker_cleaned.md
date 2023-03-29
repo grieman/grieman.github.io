@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Carson Shoemaker  
-date: 2023-03-17 17:22:22.537067  
+date: 2023-03-21 18:13:03.156045  
 categories: player  
 ---
 # Carson Shoemaker
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 90.0
 
-## Current Percentile: 37.0
+## Current Percentile: 36.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shawn Clark  
-date: 2023-03-17 17:21:49.963919  
+date: 2023-03-21 18:01:12.063960  
 categories: player  
 ---
 # Shawn Clark
 
+
+Last updated: 2023-03-21
 ## Positions: FL, W
 
 ## Current elo: 95.0
 
-## Current Percentile: 67.0
+## Current Percentile: 65.0
 
 # Elo History
 

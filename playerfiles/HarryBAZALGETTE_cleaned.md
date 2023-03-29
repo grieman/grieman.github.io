@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harry BAZALGETTE  
-date: 2023-03-12 11:29:50.924519  
+date: 2023-03-29 11:29:24.597121  
 categories: player  
 ---
 # Harry BAZALGETTE
 
+
+Last updated: 2023-03-29
 ## Positions: FH
 
-## Current elo: 113.0
+## Current elo: 96.0
 
-## Current Percentile: 84.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,16 +23,17 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            20 |        0.8 |
+| Cornish Pirates |            22 |   0.818182 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Nottingham       |         4 |   1        |
-| Ampthill         |         3 |   0.833333 |
-| Hartpury College |         3 |   0.333333 |
-| Richmond         |         3 |   0.833333 |
-| Doncaster        |         2 |   1        |
-| London Scottish  |         2 |   1        |
-| Bedford          |         1 |   1        |
-| Caldy            |         1 |   0        |
-| Coventry         |         1 |   1        |
+| Opponent            |   Matches |   Win Rate |
+|:--------------------|----------:|-----------:|
+| Nottingham          |         4 |   1        |
+| Ampthill            |         3 |   0.833333 |
+| London Scottish     |         3 |   1        |
+| Richmond            |         3 |   0.833333 |
+| Coventry            |         2 |   1        |
+| Doncaster           |         2 |   1        |
+| Hartpury College    |         2 |   0.5      |
+| Bedford             |         1 |   1        |
+| Caldy               |         1 |   0        |
+| Ealing Trailfinders |         1 |   0        |

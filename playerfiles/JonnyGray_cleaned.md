@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jonny Gray  
-date: 2023-03-17 17:09:33.283564  
+date: 2023-03-21 18:09:27.673285  
 categories: player  
 ---
 # Jonny Gray
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Scotland
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           112 |   0.616071 |
-| Scotland         |            77 |   0.448052 |
+| Scotland         |            78 |   0.455128 |
 | Exeter Chiefs    |            44 |   0.681818 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,10 +46,10 @@ categories: player
 | Cardiff Blues            |         7 |   0.857143 |
 | Bath Rugby               |         6 |   0.833333 |
 | Australia                |         6 |   0.333333 |
+| Italy                    |         6 |   0.833333 |
 | Racing 92                |         5 |   0.8      |
 | Montpellier Herault      |         5 |   0.6      |
 | South Africa             |         5 |   0        |
-| Italy                    |         5 |   0.8      |
 | Leicester Tigers         |         5 |   0.8      |
 | Harlequins               |         5 |   0.4      |
 | Exeter Chiefs            |         4 |   0.625    |

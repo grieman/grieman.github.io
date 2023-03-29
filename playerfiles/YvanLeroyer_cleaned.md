@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yvan Leroyer  
-date: 2023-03-17 17:27:31.566309  
+date: 2023-03-21 18:39:12.599525  
 categories: player  
 ---
 # Yvan Leroyer
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 82.0

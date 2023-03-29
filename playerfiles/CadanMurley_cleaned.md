@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cadan Murley  
-date: 2023-03-16 19:51:14.533655  
+date: 2023-03-21 18:27:51.000545  
 categories: player  
 ---
 # Cadan Murley
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 65.0
+## Current Percentile: 61.0
 
 # Elo History
 

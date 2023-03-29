@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Manuel Zuliani  
-date: 2023-03-17 17:36:43.586548  
+date: 2023-03-21 18:13:21.493638  
 categories: player  
 ---
 # Manuel Zuliani
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Italy
 
-## Current elo: 96.0
+## Current elo: 98.0
 
-## Current Percentile: None
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            31 |   0.322581 |
-| Italy            |             9 |   0.333333 |
+| Italy            |            10 |   0.3      |
 | Calvisano        |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
@@ -47,6 +49,7 @@ categories: player
 | Portugal         |         1 |   1        |
 | Romania          |         1 |   1        |
 | Samoa            |         1 |   1        |
+| Scotland         |         1 |   0        |
 | South Africa     |         1 |   0        |
 | Stormers         |         1 |   1        |
 | Wales            |         1 |   0        |

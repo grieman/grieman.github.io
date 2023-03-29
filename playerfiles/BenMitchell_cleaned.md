@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ben Mitchell  
-date: 2023-03-16 19:55:42.617546  
+date: 2023-03-21 18:10:31.529661  
 categories: player  
 ---
 # Ben Mitchell
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: -12.0

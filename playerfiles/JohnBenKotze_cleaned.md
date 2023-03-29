@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: John Ben Kotze  
-date: 2023-03-09 10:11:07.802020  
+date: 2023-03-21 18:04:36.544762  
 categories: player  
 ---
 # John Ben Kotze
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 94.0
+## Current elo: 92.0
 
-## Current Percentile: 52.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,10 +23,10 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             4 |          0 |
+| Shimizu Blue Sharks |             5 |        0.2 |
 
-| Opponent                         |   Matches |   Win Rate |
-|:---------------------------------|----------:|-----------:|
-| Urayasu D-Rocks                  |         2 |          0 |
-| Mie Honda Heat                   |         1 |          0 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Mie Honda Heat    |         2 |          0 |
+| Urayasu D-Rocks   |         2 |          0 |
+| Kamaishi Seawaves |         1 |          1 |

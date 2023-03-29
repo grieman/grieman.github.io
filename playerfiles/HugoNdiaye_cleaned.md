@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hugo Ndiaye  
-date: 2023-02-02 18:47:51.984402  
+date: 2023-03-21 18:21:52.700669  
 categories: player  
 ---
 # Hugo Ndiaye
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

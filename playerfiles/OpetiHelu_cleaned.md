@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Opeti Helu  
-date: 2023-03-17 17:19:25.598333  
+date: 2023-03-21 18:37:59.851623  
 categories: player  
 ---
 # Opeti Helu
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 121.0
+## Current elo: 119.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -25,12 +27,11 @@ categories: player
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| Yokohama Canon Eagles           |         4 |   0.625    |
 | Green Rockets Tokatsu           |         3 |   1        |
 | Kobelco Kobe Steelers           |         3 |   0.666667 |
 | Toshiba Brave Lupus Tokyo       |         3 |   1        |
-| Yokohama Canon Eagles           |         3 |   0.5      |
 | Shizuoka Blue Revs              |         2 |   1        |
-| Tokyo Sungoliath                |         2 |   0.5      |
 | Toyota Verblitz                 |         2 |   1        |
 | Urayasu D-Rocks                 |         2 |   1        |
 | Black Rams Tokyo                |         1 |   1        |
@@ -38,3 +39,4 @@ categories: player
 | Mitsubishi Dynaboars            |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka |         1 |   1        |
 | Saitama Wild Knights            |         1 |   0        |
+| Tokyo Sungoliath                |         1 |   0        |

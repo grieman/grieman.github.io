@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Sam Davies  
-date: 2023-03-17 17:26:41.494741  
+date: 2023-03-21 18:57:12.505010  
 categories: player  
 ---
 # Sam Davies
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: Wales
 
-## Current elo: 130.0
+## Current elo: 129.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
 | Ospreys |           164 |   0.542683 |
-| Dragons |            61 |   0.336066 |
+| Dragons |            62 |   0.330645 |
 | Wales   |            10 |   0.6      |
 
 | Opponent               |   Matches |   Win Rate |
@@ -47,13 +49,13 @@ categories: player
 | Castres Olympique      |         3 |  0.666667  |
 | Saracens               |         3 |  0.166667  |
 | Lions                  |         3 |  0.166667  |
+| Pau                    |         3 |  0.333333  |
 | Lyon                   |         3 |  0.666667  |
 | Gloucester Rugby       |         3 |  0.333333  |
 | Exeter Chiefs          |         3 |  0.333333  |
 | Worcester Warriors     |         3 |  0.333333  |
 | Bordeaux Begles        |         2 |  0.5       |
 | Racing 92              |         2 |  0.25      |
-| Pau                    |         2 |  0.5       |
 | Stade Francais Paris   |         2 |  0.5       |
 | Southern Kings         |         2 |  1         |
 | Newcastle Falcons      |         2 |  1         |

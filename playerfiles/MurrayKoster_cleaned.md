@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Murray Koster  
-date: 2023-03-17 17:04:59.092899  
+date: 2023-03-21 18:16:15.936647  
 categories: player  
 ---
 # Murray Koster
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 95.0

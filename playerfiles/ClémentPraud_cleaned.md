@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Praud  
-date: 2023-03-17 17:19:33.316058  
+date: 2023-03-21 18:33:41.954071  
 categories: player  
 ---
 # Clément Praud
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 50.0
+## Current elo: 49.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 

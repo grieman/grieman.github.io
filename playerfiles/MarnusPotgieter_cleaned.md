@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Marnus Potgieter  
-date: 2023-03-17 17:40:01.979267  
+date: 2023-03-21 18:02:47.396918  
 categories: player  
 ---
 # Marnus Potgieter
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 92.0
 
-## Current Percentile: 36.0
+## Current Percentile: 37.0
 
 # Elo History
 

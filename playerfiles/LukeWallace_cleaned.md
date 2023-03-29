@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luke Wallace  
-date: 2023-03-17 17:43:33.449038  
+date: 2023-03-21 18:21:13.621215  
 categories: player  
 ---
 # Luke Wallace
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 93.0

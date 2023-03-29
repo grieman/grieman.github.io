@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Hanco Germishuys  
-date: 2023-03-17 17:19:53.975428  
+date: 2023-03-21 18:21:08.835722  
 categories: player  
 ---
 # Hanco Germishuys
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: United States of America
 
 ## Current elo: 101.0
 
-## Current Percentile: 76.0
+## Current Percentile: 77.0
 
 # Elo History
 

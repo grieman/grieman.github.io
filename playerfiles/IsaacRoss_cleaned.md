@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Isaac Ross  
-date: 2023-03-17 17:43:06.118581  
+date: 2023-03-21 18:09:51.255938  
 categories: player  
 ---
 # Isaac Ross
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: New Zealand
 
 ## Current elo: 109.0
 
-## Current Percentile: 77.0
+## Current Percentile: 78.0
 
 # Elo History
 

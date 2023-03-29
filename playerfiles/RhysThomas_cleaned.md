@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rhys Thomas  
-date: 2023-03-12 11:33:16.442528  
+date: 2023-03-21 18:22:19.901880  
 categories: player  
 ---
 # Rhys Thomas
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 90.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tiaan Loots  
-date: 2023-03-17 17:33:49.066335  
+date: 2023-03-21 18:24:22.116415  
 categories: player  
 ---
 # Tiaan Loots
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 102.0
+## Current elo: 105.0
 
-## Current Percentile: 74.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| San Diego Legion  |            24 |   0.458333 |
-| Houston SaberCats |             4 |   0.25     |
+| San Diego Legion  |            25 |       0.48 |
+| Houston SaberCats |             4 |       0.25 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -34,10 +36,10 @@ categories: player
 | Dallas Jackals         |         2 |   1        |
 | Houston SaberCats      |         2 |   0.5      |
 | NOLA Gold              |         2 |   1        |
+| Rugby ATL              |         2 |   0.5      |
 | Toronto Arrows         |         2 |   0.5      |
 | Austin Herd            |         1 |   0        |
 | Colorado Raptors       |         1 |   1        |
 | New England Free Jacks |         1 |   0        |
 | R.U. New York          |         1 |   0        |
-| Rugby ATL              |         1 |   0        |
 | Rugby New York         |         1 |   0        |

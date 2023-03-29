@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Billy Proctor  
-date: 2023-03-17 17:34:53.448456  
+date: 2023-03-21 18:23:58.935539  
 categories: player  
 ---
 # Billy Proctor
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: New Zealand Maori
 
 ## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

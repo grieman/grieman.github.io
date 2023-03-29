@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gaston Mieres Valente  
-date: 2023-03-17 17:04:50.128055  
+date: 2023-03-21 18:56:59.216027  
 categories: player  
 ---
 # Gaston Mieres Valente
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Uruguay

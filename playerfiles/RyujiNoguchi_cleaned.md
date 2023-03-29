@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ryuji Noguchi  
-date: 2023-03-17 17:35:45.444641  
+date: 2023-03-21 18:11:37.659947  
 categories: player  
 ---
 # Ryuji Noguchi
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Country: Japan

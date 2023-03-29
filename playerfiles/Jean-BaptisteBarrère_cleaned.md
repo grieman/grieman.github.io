@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jean-Baptiste Barrère  
-date: 2023-01-13 11:36:19.778878  
+date: 2023-03-21 18:43:11.138250  
 categories: player  
 ---
 # Jean-Baptiste Barrère
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 75.0
+## Current elo: 73.0
 
-## Current Percentile: 11.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |           148 |   0.550676 |
+| Beziers |           153 |   0.54902  |
 | Pau     |            62 |   0.637097 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |        17 |   0.470588 |
-| Mont-de-Marsan             |        14 |   0.321429 |
+| Mont-de-Marsan             |        15 |   0.3      |
+| Colomiers                  |        12 |   0.666667 |
+| Montauban                  |        12 |   0.875    |
 | Provence Rugby             |        11 |   0.636364 |
-| Colomiers                  |        11 |   0.727273 |
-| Montauban                  |        11 |   0.863636 |
+| Aurillac                   |        10 |   0.6      |
 | Narbonne                   |         9 |   0.777778 |
-| Aurillac                   |         9 |   0.555556 |
 | Grenoble                   |         9 |   0.333333 |
 | Biarritz Olympique         |         8 |   0.5      |
 | Oyonnax                    |         8 |   0.3125   |
@@ -41,8 +43,8 @@ categories: player
 | Bayonne                    |         7 |   0.571429 |
 | Perpignan                  |         7 |   0.571429 |
 | Dax                        |         7 |   0.714286 |
+| Nevers                     |         7 |   0.428571 |
 | Soyaux-Angouleme           |         6 |   0.333333 |
-| Nevers                     |         6 |   0.416667 |
 | US Bressane                |         6 |   0.5      |
 | Agen                       |         6 |   0.666667 |
 | Bourgoin-Jallieu           |         6 |   0.833333 |

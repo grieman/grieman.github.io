@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jean-Baptiste Reggiardo  
-date: 2023-03-17 17:15:39.493864  
+date: 2023-03-21 18:21:35.893185  
 categories: player  
 ---
 # Jean-Baptiste Reggiardo
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 85.0

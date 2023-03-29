@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Harumichi Tatekawa  
-date: 2023-03-17 17:28:23.670585  
+date: 2023-03-21 18:33:51.212059  
 categories: player  
 ---
 # Harumichi Tatekawa
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Country: Japan
 
 ## Current elo: 106.0
 
-## Current Percentile: 72.0
+## Current Percentile: 73.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thibaut Martel  
-date: 2023-03-17 17:18:12.801299  
+date: 2023-03-21 18:35:37.959609  
 categories: player  
 ---
 # Thibaut Martel
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 89.0

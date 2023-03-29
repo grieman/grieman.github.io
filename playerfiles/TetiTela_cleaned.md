@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Teti Tela  
-date: 2023-03-17 17:00:25.376683  
+date: 2023-03-21 18:53:34.843687  
 categories: player  
 ---
 # Teti Tela
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: Fiji
@@ -23,7 +25,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Fijian Drua        |            14 |   0.285714 |
+| Fijian Drua        |            15 |   0.266667 |
 | Queensland Country |             9 |   0.777778 |
 | Brisbane City      |             7 |   0.5      |
 | Fiji               |             4 |   0.25     |
@@ -35,6 +37,7 @@ categories: player
 | Moana Pasifika           |         2 |   1        |
 | Sydney Rays              |         2 |   1        |
 | Sunwolves                |         2 |   1        |
+| Queensland Reds          |         2 |   0        |
 | Perth Spirit             |         2 |   0        |
 | New South Wales Waratahs |         2 |   0        |
 | NSW Country Eagles       |         2 |   1        |
@@ -46,11 +49,10 @@ categories: player
 | Chiefs                   |         2 |   0        |
 | Ireland                  |         1 |   0        |
 | Hurricanes               |         1 |   0        |
-| Highlanders              |         1 |   0        |
 | Brumbies                 |         1 |   0        |
+| Highlanders              |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | Queensland Country       |         1 |   0        |
-| Queensland Reds          |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | Canberra Vikings         |         1 |   0        |
 | Tonga                    |         1 |   1        |

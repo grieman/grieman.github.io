@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Robin Poipy  
-date: 2023-03-17 17:00:48.791155  
+date: 2023-03-21 18:37:41.751647  
 categories: player  
 ---
 # Robin Poipy
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 95.0

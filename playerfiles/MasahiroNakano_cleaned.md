@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Masahiro Nakano  
-date: 2023-01-13 11:27:33.123861  
+date: 2023-03-21 18:46:25.556231  
 categories: player  
 ---
 # Masahiro Nakano
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Current elo: 67.0
 
-## Current Percentile: 6.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chugoku Red Regulions |            13 |  0.0769231 |
+| Chugoku Red Regulions |            18 |   0.111111 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Kyuden Voltex                    |         3 |        0   |
+| Kurita Water Gush                |         4 |        0.5 |
+| Kyuden Voltex                    |         4 |        0   |
 | Toyota Industries Shuttles Aichi |         3 |        0   |
-| Kurita Water Gush                |         2 |        0.5 |
 | Munakata Sanix Blues             |         2 |        0   |
+| Skyactivs Hiroshima              |         2 |        0   |
 | Coca-Cola Red Sparks             |         1 |        0   |
+| NTT Docomo Red Hurricanes Osaka  |         1 |        0   |
 | Shimizu Blue Sharks              |         1 |        0   |
-| Skyactivs Hiroshima              |         1 |        0   |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tupou Afungia  
-date: 2023-03-17 17:41:36.981785  
+date: 2023-03-21 18:14:56.086750  
 categories: player  
 ---
 # Tupou Afungia
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 91.0
+## Current elo: 96.0
 
-## Current Percentile: 45.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,11 +23,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| San Diego Legion |             4 |       0.75 |
+| San Diego Legion |             5 |        0.8 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Dallas Jackals         |         1 |          1 |
 | Houston SaberCats      |         1 |          0 |
 | New England Free Jacks |         1 |          1 |
+| Rugby ATL              |         1 |          1 |
 | Utah Warriors          |         1 |          1 |

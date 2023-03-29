@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ken Owens  
-date: 2023-03-17 17:42:52.044759  
+date: 2023-03-21 18:35:04.534153  
 categories: player  
 ---
 # Ken Owens
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Wales
 
-## Current elo: 105.0
+## Current elo: 110.0
 
-## Current Percentile: 60.0
+## Current Percentile: 79.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Scarlets                |           224 |   0.515625 |
-| Wales                   |            92 |   0.548913 |
+| Wales                   |            93 |   0.543011 |
 | British and Irish Lions |            11 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
@@ -39,20 +41,20 @@ categories: player
 | Benetton Treviso     |        13 |   0.692308 |
 | Munster              |        13 |   0.115385 |
 | England              |        13 |   0.461538 |
+| France               |        12 |   0.583333 |
 | Ireland              |        12 |   0.458333 |
-| France               |        11 |   0.636364 |
 | Italy                |        11 |   1        |
 | Edinburgh            |        10 |   0.3      |
-| Scotland             |        10 |   0.8      |
 | New Zealand          |        10 |   0.15     |
+| Scotland             |        10 |   0.8      |
 | South Africa         |        10 |   0.3      |
 | Australia            |        10 |   0.2      |
 | Toulon               |         6 |   0.333333 |
 | London Irish         |         5 |   1        |
 | Clermont Auvergne    |         4 |   0        |
 | Northampton Saints   |         4 |   0.25     |
-| Racing 92            |         3 |   0        |
 | Argentina            |         3 |   1        |
+| Racing 92            |         3 |   0        |
 | Saracens             |         3 |   0.5      |
 | Leicester Tigers     |         3 |   0.333333 |
 | Aironi               |         3 |   1        |

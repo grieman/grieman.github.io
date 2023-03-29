@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kenta Iemura  
-date: 2023-03-17 17:29:24.770259  
+date: 2023-03-21 18:10:51.457103  
 categories: player  
 ---
 # Kenta Iemura
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 91.0
+## Current elo: 109.0
 
-## Current Percentile: 54.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |             3 |   0.166667 |
+| Shizuoka Blue Revs |             4 |      0.375 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Black Rams Tokyo                  |         1 |        1   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
 | Tokyo Sungoliath                  |         1 |        0   |
 | Yokohama Canon Eagles             |         1 |        0.5 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nic Mayhew  
-date: 2023-03-17 17:42:46.087704  
+date: 2023-03-21 18:05:35.098753  
 categories: player  
 ---
 # Nic Mayhew
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 94.0

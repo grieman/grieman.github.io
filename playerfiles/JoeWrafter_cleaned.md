@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Joe Wrafter  
-date: 2023-03-16 21:11:08.528118  
+date: 2023-03-21 18:18:28.556103  
 categories: player  
 ---
 # Joe Wrafter
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 99.0
 
-## Current Percentile: 55.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Bedford          |            19 |   0.421053 |
-| Hartpury College |             9 |   0.777778 |
+| Hartpury College |            10 |   0.7      |
 | Doncaster        |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -30,11 +32,11 @@ categories: player
 | Coventry            |         4 |   0.5      |
 | Doncaster           |         4 |   0.5      |
 | Ealing Trailfinders |         3 |   0        |
+| Jersey              |         3 |   0.333333 |
 | Nottingham          |         3 |   0.666667 |
 | Bedford             |         2 |   0.5      |
 | Cornish Pirates     |         2 |   0.5      |
 | Hartpury College    |         2 |   1        |
-| Jersey              |         2 |   0.5      |
 | London Scottish     |         2 |   1        |
 | Newcastle Falcons   |         2 |   0        |
 | Richmond            |         2 |   1        |

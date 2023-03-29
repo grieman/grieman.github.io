@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Alex Hearle  
-date: 2023-03-17 17:38:03.701435  
+date: 2023-03-21 18:44:45.101717  
 categories: player  
 ---
 # Alex Hearle
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 108.0

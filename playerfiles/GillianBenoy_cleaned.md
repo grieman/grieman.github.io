@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Gillian Benoy  
-date: 2023-02-02 18:55:43.153356  
+date: 2023-03-21 18:19:51.049894  
 categories: player  
 ---
 # Gillian Benoy
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Country: Belgium
 
-## Current elo: 114.0
+## Current elo: 109.0
 
-## Current Percentile: 85.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -23,33 +25,33 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Beziers  |            26 |   0.403846 |
+| Beziers  |            27 |   0.425926 |
+| Belgium  |            18 |   0.277778 |
 | Suresnes |            16 |   0.3125   |
-| Belgium  |            15 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         4 |   0.75     |
-| Rouen                      |         3 |   0.666667 |
+| Portugal                   |         3 |   0.333333 |
 | Oyonnax                    |         3 |   0.166667 |
 | US Bressane                |         3 |   0        |
 | Spain                      |         3 |   0.333333 |
-| Portugal                   |         3 |   0.333333 |
-| Romania                    |         2 |   0        |
-| Grenoble                   |         2 |   0.5      |
-| Germany                    |         2 |   1        |
-| Provence Rugby             |         2 |   0.5      |
+| Russia                     |         3 |   0.333333 |
+| Germany                    |         3 |   0.666667 |
+| Rouen                      |         3 |   0.666667 |
+| Romania                    |         3 |   0        |
 | Vannes                     |         2 |   0        |
+| Nevers                     |         2 |   0        |
+| Grenoble                   |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   0        |
+| Provence Rugby             |         2 |   0.5      |
 | Carcassonne                |         2 |   0        |
-| Russia                     |         2 |   0.5      |
 | Aurillac                   |         2 |   0.5      |
 | Aubenas                    |         2 |   0.5      |
-| Nevers                     |         2 |   0        |
+| Montauban                  |         2 |   0.5      |
 | Tarbes                     |         1 |   0        |
 | Nice                       |         1 |   0        |
 | Agen                       |         1 |   1        |
-| Montauban                  |         1 |   0        |
 | Mont-de-Marsan             |         1 |   0        |
 | Massy                      |         1 |   0        |
 | Albi                       |         1 |   1        |

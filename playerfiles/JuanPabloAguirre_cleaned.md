@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Juan Pablo Aguirre  
-date: 2023-03-17 17:33:56.259243  
+date: 2023-03-21 18:19:36.322823  
 categories: player  
 ---
 # Juan Pablo Aguirre
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
-## Current elo: 57.0
+## Current elo: 60.0
 
 ## Current Percentile: 1.0
 
@@ -22,7 +24,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Austin Elite Rugby |             9 |          0 |
-| Dallas Jackals     |             5 |          0 |
+| Dallas Jackals     |             6 |          0 |
 | Seattle Seawolves  |             5 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
@@ -35,6 +37,7 @@ categories: player
 | San Diego Legion  |         2 |          0 |
 | Seattle Seawolves |         2 |          0 |
 | Austin Gilgronis  |         1 |          0 |
+| Chicago Hounds    |         1 |          0 |
 | NOLA Gold         |         1 |          0 |
 | Rugby ATL         |         1 |          0 |
 | Toronto Arrows    |         1 |          0 |

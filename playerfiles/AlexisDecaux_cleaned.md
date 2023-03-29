@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Alexis Decaux  
-date: 2023-03-17 17:30:18.162260  
+date: 2023-03-21 18:03:19.038091  
 categories: player  
 ---
 # Alexis Decaux
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 100.0

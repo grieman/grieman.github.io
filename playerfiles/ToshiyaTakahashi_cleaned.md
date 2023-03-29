@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Toshiya Takahashi  
-date: 2023-03-16 19:54:48.853886  
+date: 2023-03-21 18:43:40.137209  
 categories: player  
 ---
 # Toshiya Takahashi
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 89.0
+## Current elo: 54.0
 
-## Current Percentile: 34.0
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -21,11 +23,11 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            33 |   0.333333 |
+| Black Rams Tokyo |            35 |   0.314286 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Shizuoka Blue Revs                |         4 |   0.25     |
+| Shizuoka Blue Revs                |         6 |   0.166667 |
 | Kobelco Kobe Steelers             |         3 |   0.333333 |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   0        |
 | Saitama Wild Knights              |         3 |   0.333333 |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Chris Vui  
-date: 2023-03-17 17:16:54.170780  
+date: 2023-03-21 18:55:53.205252  
 categories: player  
 ---
 # Chris Vui
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Samoa
 
 ## Current elo: 112.0
 
-## Current Percentile: 86.0
+## Current Percentile: 84.0
 
 # Elo History
 

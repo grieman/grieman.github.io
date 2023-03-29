@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jamie Ritchie  
-date: 2023-03-17 17:30:54.219583  
+date: 2023-03-21 18:36:15.708557  
 categories: player  
 ---
 # Jamie Ritchie
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Scotland
 
-## Current elo: 128.0
+## Current elo: 122.0
 
-## Current Percentile: 97.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,26 +26,26 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Edinburgh |            95 |   0.552632 |
-| Scotland  |            38 |   0.605263 |
+| Scotland  |            39 |   0.615385 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Glasgow Warriors       |        12 |   0.666667 |
 | Scarlets               |         7 |   0.571429 |
-| Leinster               |         6 |   0.166667 |
-| Ulster                 |         6 |   0.166667 |
 | Dragons                |         6 |   0.833333 |
+| Ulster                 |         6 |   0.166667 |
+| Leinster               |         6 |   0.166667 |
 | Cardiff Blues          |         5 |   0.4      |
 | France                 |         5 |   0.4      |
 | Ospreys                |         5 |   0.2      |
 | London Irish           |         5 |   0.6      |
+| Italy                  |         4 |   1        |
 | England                |         4 |   0.75     |
 | Ireland                |         4 |   0        |
 | Munster                |         4 |   0        |
 | Benetton Treviso       |         4 |   0.75     |
 | Wales                  |         4 |   0.5      |
 | Argentina              |         3 |   1        |
-| Italy                  |         3 |   1        |
 | Agen                   |         3 |   1        |
 | Zebre                  |         3 |   1        |
 | Connacht               |         3 |   0.333333 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Netani Vakayalia  
-date: 2023-03-17 17:22:51.087035  
+date: 2023-03-21 18:23:28.315811  
 categories: player  
 ---
 # Netani Vakayalia
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 110.0
+## Current elo: 93.0
 
-## Current Percentile: 93.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            22 |   0.363636 |
+| Black Rams Tokyo |            23 |   0.347826 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Shizuoka Blue Revs                |         3 |   0.333333 |
 | Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | Yokohama Canon Eagles             |         3 |   0        |
 | Green Rockets Tokatsu             |         2 |   1        |
 | Kobelco Kobe Steelers             |         2 |   0.5      |
-| Shizuoka Blue Revs                |         2 |   0.5      |
 | Tokyo Sungoliath                  |         2 |   0        |
 | Toyota Verblitz                   |         2 |   0.5      |
 | Hanazono Kintetsu Liners          |         1 |   1        |

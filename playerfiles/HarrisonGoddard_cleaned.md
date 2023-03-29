@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Harrison Goddard  
-date: 2023-03-17 17:38:17.792424  
+date: 2023-03-21 18:48:00.328281  
 categories: player  
 ---
 # Harrison Goddard
 
+
+Last updated: 2023-03-21
 ## Positions: SH, FH
 
 ## Current elo: 74.0

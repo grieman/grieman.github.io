@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ruan-Henry Smith  
-date: 2023-03-17 17:26:45.626434  
+date: 2023-03-21 18:46:10.417776  
 categories: player  
 ---
 # Ruan-Henry Smith
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 104.0
 
-## Current Percentile: 47.0
+## Current Percentile: 44.0
 
 # Elo History
 

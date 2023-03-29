@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tom Seabrook  
-date: 2023-03-17 17:04:46.762557  
+date: 2023-03-21 18:08:30.318215  
 categories: player  
 ---
 # Tom Seabrook
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Current elo: 59.0
 
-## Current Percentile: 6.0
+## Current Percentile: 5.0
 
 # Elo History
 

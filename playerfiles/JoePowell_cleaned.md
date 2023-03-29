@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joe Powell  
-date: 2023-03-17 17:11:46.871103  
+date: 2023-03-21 18:02:26.313600  
 categories: player  
 ---
 # Joe Powell
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 98.0

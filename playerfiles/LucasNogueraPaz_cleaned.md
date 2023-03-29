@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lucas Noguera Paz  
-date: 2023-03-17 17:10:24.504817  
+date: 2023-03-21 18:26:55.843119  
 categories: player  
 ---
 # Lucas Noguera Paz
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 109.0
 
-## Current Percentile: 76.0
+## Current Percentile: 75.0
 
 # Elo History
 

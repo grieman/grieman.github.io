@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Naoki Motomura  
-date: 2023-01-15 12:03:33.754871  
+date: 2023-03-21 18:47:50.489293  
 categories: player  
 ---
 # Naoki Motomura
 
-## Positions: FB, W
 
-## Current elo: 108.0
+Last updated: 2023-03-21
+## Positions: W, FB
 
-## Current Percentile: 85.0
+## Current elo: 113.0
+
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mie Honda Heat |            12 |   0.333333 |
+| Mie Honda Heat |            16 |        0.5 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Hino Red Dolphins                 |         2 |          1 |
+| Kamaishi Seawaves                 |         2 |          1 |
+| Shimizu Blue Sharks               |         2 |          1 |
 | Coca-Cola Red Sparks              |         1 |          0 |
-| Kamaishi Seawaves                 |         1 |          1 |
 | Kobelco Kobe Steelers             |         1 |          0 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
 | Mitsubishi Dynaboars              |         1 |          1 |
@@ -35,4 +38,5 @@ categories: player
 | Shizuoka Blue Revs                |         1 |          0 |
 | Tokyo Sungoliath                  |         1 |          0 |
 | Toshiba Brave Lupus Tokyo         |         1 |          0 |
+| Toyota Industries Shuttles Aichi  |         1 |          1 |
 | Toyota Verblitz                   |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: William Wavrin  
-date: 2023-02-24 02:23:35.604330  
+date: 2023-03-21 18:21:29.073195  
 categories: player  
 ---
 # William Wavrin
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 95.0
@@ -21,7 +23,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mont-de-Marsan |            53 |   0.632075 |
+| Mont-de-Marsan |            55 |   0.609091 |
 | US Bressane    |            25 |   0.5      |
 | Narbonne       |             6 |   0.166667 |
 
@@ -29,13 +31,13 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Provence Rugby             |         9 |   0.444444 |
 | Oyonnax                    |         7 |   0.285714 |
+| Carcassonne                |         6 |   0.5      |
+| Nevers                     |         6 |   0.5      |
 | Bayonne                    |         5 |   0.4      |
 | Beziers                    |         5 |   0.8      |
-| Carcassonne                |         5 |   0.6      |
 | Grenoble                   |         5 |   0.6      |
 | Montauban                  |         5 |   0.6      |
 | Aurillac                   |         5 |   0.6      |
-| Nevers                     |         5 |   0.6      |
 | Vannes                     |         4 |   0.625    |
 | Biarritz Olympique         |         4 |   0.75     |
 | Colomiers                  |         4 |   0.25     |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sebastien Atkinson  
-date: 2023-03-17 17:23:40.959484  
+date: 2023-03-21 18:45:21.001169  
 categories: player  
 ---
 # Sebastien Atkinson
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 44.0

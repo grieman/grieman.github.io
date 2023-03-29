@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Isaia Walker-Leawere  
-date: 2023-03-17 17:40:58.350477  
+date: 2023-03-21 18:23:41.219501  
 categories: player  
 ---
 # Isaia Walker-Leawere
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: New Zealand Maori
 
 ## Current elo: 116.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 

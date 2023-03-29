@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kennta Fujisaki  
-date: 2023-03-09 10:13:01.362007  
+date: 2023-03-21 18:57:00.791029  
 categories: player  
 ---
 # Kennta Fujisaki
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 65.0
 
-## Current Percentile: 3.0
+## Current Percentile: 4.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chugoku Red Regulions |            17 |  0.0588235 |
+| Chugoku Red Regulions |            18 |  0.0555556 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
@@ -36,3 +38,4 @@ categories: player
 | Mazda Blue Zoomers               |         1 |        0   |
 | Mie Honda Heat                   |         1 |        0   |
 | Mitsubishi Dynaboars             |         1 |        0   |
+| Skyactivs Hiroshima              |         1 |        0   |

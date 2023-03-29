@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ollie SMITH  
-date: 2023-03-12 11:30:38.987464  
+date: 2023-03-29 11:28:00.475225  
 categories: player  
 ---
 # Ollie SMITH
 
+
+Last updated: 2023-03-29
 ## Positions: C, W
 
 ## Country: British and Irish Lions

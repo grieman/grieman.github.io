@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Connor Vest  
-date: 2023-03-17 17:00:08.005896  
+date: 2023-03-21 18:21:41.200678  
 categories: player  
 ---
 # Connor Vest
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
-## Current elo: 89.0
+## Current elo: 88.0
 
 ## Current Percentile: 34.0
 
@@ -22,19 +24,19 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Sydney Rays        |            13 |   0.230769 |
-| Queensland Reds    |            11 |   0.454545 |
+| Queensland Reds    |            12 |   0.5      |
 | Auckland           |             8 |   0.5      |
 | North Harbour Rays |             8 |   0.75     |
 | NSW Country Eagles |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Fijian Drua              |         4 |   0.75     |
 | Melbourne Rising         |         4 |   0.75     |
 | Queensland Country       |         4 |   0.25     |
 | Brisbane City            |         3 |   0.333333 |
 | Brumbies                 |         3 |   0.333333 |
 | Canberra Vikings         |         3 |   0.333333 |
-| Fijian Drua              |         3 |   0.666667 |
 | NSW Country Eagles       |         3 |   0        |
 | Perth Spirit             |         3 |   0.666667 |
 | Crusaders                |         2 |   0        |

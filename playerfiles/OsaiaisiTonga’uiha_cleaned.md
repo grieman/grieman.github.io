@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Osaiaisi Tonga’uiha  
-date: 2023-03-17 17:06:31.783758  
+date: 2023-03-21 18:53:20.033706  
 categories: player  
 ---
 # Osaiaisi Tonga’uiha
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 87.0
 
-## Current Percentile: 14.0
+## Current Percentile: 15.0
 
 # Elo History
 

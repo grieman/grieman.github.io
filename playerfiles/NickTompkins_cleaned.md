@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nick Tompkins  
-date: 2023-03-17 17:31:12.316140  
+date: 2023-03-21 18:08:53.640970  
 categories: player  
 ---
 # Nick Tompkins
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Wales
@@ -24,7 +26,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Saracens |           160 |   0.715625 |
-| Wales    |            24 |   0.395833 |
+| Wales    |            25 |   0.38     |
 | Dragons  |            13 |   0.346154 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -50,11 +52,11 @@ categories: player
 | Munster             |         3 |   0.666667 |
 | Argentina           |         3 |   0.5      |
 | Ireland             |         3 |   0.333333 |
+| France              |         3 |   0        |
 | England             |         3 |   0        |
 | Scotland            |         3 |   0.666667 |
 | Toulon              |         2 |   0.5      |
 | Italy               |         2 |   0.5      |
-| France              |         2 |   0        |
 | Leinster            |         2 |   0.5      |
 | Racing 92           |         2 |   0.5      |
 | Ulster              |         2 |   0.5      |

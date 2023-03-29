@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kota Iwamura  
-date: 2023-03-17 17:32:17.698683  
+date: 2023-03-21 18:14:02.998656  
 categories: player  
 ---
 # Kota Iwamura
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 95.0
 
-## Current Percentile: 61.0
+## Current Percentile: 59.0
 
 # Elo History
 

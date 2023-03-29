@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jed Brown  
-date: 2023-03-17 17:37:02.343075  
+date: 2023-03-21 18:18:24.047860  
 categories: player  
 ---
 # Jed Brown
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Crusaders

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Robert Harley  
-date: 2023-02-24 02:26:02.079126  
+date: 2023-03-21 18:19:39.225318  
 categories: player  
 ---
 # Robert Harley
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
-## Current elo: 86.0
+## Current elo: 104.0
 
-## Current Percentile: 46.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -29,8 +31,8 @@ categories: player
 | Colomiers        |         1 |        0   |
 | Grenoble         |         1 |        0.5 |
 | Massy            |         1 |        0   |
-| Mont-de-Marsan   |         1 |        0   |
-| Nevers           |         1 |        1   |
-| Provence Rugby   |         1 |        0   |
+| Mont-de-Marsan   |         1 |        1   |
+| Nevers           |         1 |        0   |
+| Oyonnax          |         1 |        0   |
 | Rouen            |         1 |        1   |
 | Soyaux-Angouleme |         1 |        0   |

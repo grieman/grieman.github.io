@@ -1,16 +1,20 @@
 ---  
 layout: page  
 title: Francisco Fernandes  
-date: 2023-02-24 02:27:08.351254  
+date: 2023-03-21 18:51:09.776222  
 categories: player  
 ---
 # Francisco Fernandes
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 90.0
+## Country: Portugal
 
-## Current Percentile: 22.0
+## Current elo: 79.0
+
+## Current Percentile: 28.0
 
 # Elo History
 
@@ -19,17 +23,19 @@ categories: player
 # Match History
 
 
-| Team    |   Appearances |   Win Rate |
-|:--------|--------------:|-----------:|
-| Beziers |             9 |   0.722222 |
+| Team     |   Appearances |   Win Rate |
+|:---------|--------------:|-----------:|
+| Beziers  |             8 |     0.5625 |
+| Portugal |             2 |     0.5    |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Soyaux-Angouleme   |         2 |        1   |
-| Agen               |         1 |        1   |
-| Aurillac           |         1 |        1   |
-| Biarritz Olympique |         1 |        1   |
-| Colomiers          |         1 |        0   |
-| Nevers             |         1 |        0.5 |
-| Oyonnax            |         1 |        0   |
-| Provence Rugby     |         1 |        1   |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Soyaux-Angouleme |         2 |        1   |
+| Aurillac         |         1 |        1   |
+| Colomiers        |         1 |        0   |
+| Georgia          |         1 |        0   |
+| Grenoble         |         1 |        0   |
+| Nevers           |         1 |        0.5 |
+| Oyonnax          |         1 |        0   |
+| Provence Rugby   |         1 |        1   |
+| Spain            |         1 |        1   |

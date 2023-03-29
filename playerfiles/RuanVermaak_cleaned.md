@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ruan Vermaak  
-date: 2023-03-17 17:06:40.719130  
+date: 2023-03-21 18:17:19.243840  
 categories: player  
 ---
 # Ruan Vermaak
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 105.0
 
-## Current Percentile: 65.0
+## Current Percentile: 66.0
 
 # Elo History
 

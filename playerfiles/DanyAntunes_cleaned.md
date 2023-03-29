@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dany Antunes  
-date: 2023-03-17 17:03:11.745872  
+date: 2023-03-21 18:28:55.331458  
 categories: player  
 ---
 # Dany Antunes
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Portugal
 
 ## Current elo: 87.0
 
-## Current Percentile: 23.0
+## Current Percentile: 29.0
 
 # Elo History
 

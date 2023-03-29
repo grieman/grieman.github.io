@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Diego Magno  
-date: 2023-03-16 20:15:49.517542  
+date: 2023-03-21 18:28:42.337975  
 categories: player  
 ---
 # Diego Magno
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Uruguay

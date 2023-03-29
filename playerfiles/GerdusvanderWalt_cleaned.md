@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gerdus van der Walt  
-date: 2023-03-09 10:08:50.549653  
+date: 2023-03-21 18:25:25.379775  
 categories: player  
 ---
 # Gerdus van der Walt
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 79.0

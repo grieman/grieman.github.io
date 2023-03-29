@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Louis van der Westhuizen  
-date: 2023-03-17 17:06:12.068710  
+date: 2023-03-21 18:30:55.725795  
 categories: player  
 ---
 # Louis van der Westhuizen
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Namibia
@@ -26,7 +28,7 @@ categories: player
 | Free State Cheetahs |            22 |   0.613636 |
 | Namibia             |            19 |   0.631579 |
 | Leopards            |            10 |   0.85     |
-| Cheetahs            |             1 |   1        |
+| Cheetahs            |             2 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -38,16 +40,17 @@ categories: player
 | Kenya                  |         3 |   1        |
 | Zimbabwe               |         3 |   1        |
 | Golden Lions           |         2 |   0.75     |
+| Griffons               |         2 |   0.5      |
 | Western Province       |         2 |   0.5      |
 | Tunisia                |         2 |   1        |
-| Griffons               |         2 |   0.5      |
-| Russia                 |         1 |   1        |
 | Valke                  |         1 |   1        |
 | Uganda                 |         1 |   1        |
 | Tonga                  |         1 |   0        |
 | Spain                  |         1 |   0        |
 | South Africa           |         1 |   0        |
+| Scarlets               |         1 |   0        |
 | Boland Cavaliers       |         1 |   1        |
+| Russia                 |         1 |   1        |
 | Border Bulldogs        |         1 |   1        |
 | Pau                    |         1 |   1        |
 | New Zealand            |         1 |   0        |

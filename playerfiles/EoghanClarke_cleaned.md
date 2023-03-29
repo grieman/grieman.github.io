@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Eoghan Clarke  
-date: 2023-01-21 15:45:32.238451  
+date: 2023-03-21 18:28:34.172986  
 categories: player  
 ---
 # Eoghan Clarke
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 116.0
+## Current elo: 113.0
 
-## Current Percentile: 84.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,17 +23,18 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Jersey |            35 |   0.714286 |
+| Jersey |            38 |   0.736842 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Coventry            |         5 |   0.7      |
+| Hartpury College    |         5 |   1        |
 | Cornish Pirates     |         4 |   0.75     |
 | Ealing Trailfinders |         4 |   0        |
-| Hartpury College    |         4 |   1        |
+| London Scottish     |         4 |   1        |
 | Nottingham          |         4 |   1        |
-| Bedford             |         3 |   0.666667 |
 | Doncaster           |         3 |   0.333333 |
-| London Scottish     |         3 |   1        |
 | Richmond            |         3 |   1        |
 | Ampthill            |         2 |   0.75     |
+| Bedford             |         2 |   0.5      |
+| Caldy               |         2 |   1        |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Semise Talakai  
-date: 2023-03-17 17:06:43.828104  
+date: 2023-03-21 18:12:38.672641  
 categories: player  
 ---
 # Semise Talakai
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Australia
 
-## Current elo: 97.0
+## Current elo: 93.0
 
-## Current Percentile: 55.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Queensland Reds  |            40 |   0.2875   |
-| Melbourne Rebels |            33 |   0.393939 |
+| Melbourne Rebels |            34 |   0.382353 |
 | Brisbane City    |            30 |   0.683333 |
 | Tokyo Sungoliath |            14 |   0.642857 |
 | Australia        |             1 |   1        |
@@ -37,6 +39,7 @@ categories: player
 | Hurricanes                        |         5 |   0        |
 | Crusaders                         |         5 |   0        |
 | Highlanders                       |         5 |   0.4      |
+| Chiefs                            |         4 |   0        |
 | Sunwolves                         |         4 |   1        |
 | Greater Sydney Rams               |         4 |   0.5      |
 | NSW Country Eagles                |         4 |   0.625    |
@@ -45,7 +48,6 @@ categories: player
 | Melbourne Rising                  |         4 |   0.5      |
 | Queensland Reds                   |         4 |   0.75     |
 | Queensland Country                |         4 |   0.75     |
-| Chiefs                            |         3 |   0        |
 | Melbourne Rebels                  |         3 |   0.666667 |
 | Blues                             |         3 |   0.5      |
 | Bulls                             |         3 |   0        |

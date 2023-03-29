@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Marco Fuser  
-date: 2023-03-17 17:38:48.642852  
+date: 2023-03-21 17:57:19.800844  
 categories: player  
 ---
 # Marco Fuser
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Italy

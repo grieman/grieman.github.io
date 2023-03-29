@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kevin Sullivan  
-date: 2023-03-17 17:17:37.255485  
+date: 2023-03-21 18:14:30.412620  
 categories: player  
 ---
 # Kevin Sullivan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 108.0
 
-## Current Percentile: 66.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,17 +23,17 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| NOLA Gold |            36 |   0.555556 |
+| NOLA Gold |            37 |   0.567568 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Toronto Arrows         |         5 |   0.8      |
 | Seattle Seawolves      |         4 |   0.5      |
+| Utah Warriors          |         4 |   1        |
 | Houston SaberCats      |         3 |   0.666667 |
 | New England Free Jacks |         3 |   0        |
 | Old Glory DC           |         3 |   1        |
 | Rugby ATL              |         3 |   0        |
-| Utah Warriors          |         3 |   1        |
 | R.U. New York          |         2 |   0        |
 | Rugby New York         |         2 |   0.5      |
 | San Diego Legion       |         2 |   0        |

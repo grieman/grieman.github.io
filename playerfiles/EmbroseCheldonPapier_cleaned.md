@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Embrose Cheldon Papier  
-date: 2023-02-24 02:36:03.522745  
+date: 2023-03-21 18:37:08.988192  
 categories: player  
 ---
 # Embrose Cheldon Papier
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 90.0
+## Current elo: 71.0
 
-## Current Percentile: 32.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -19,16 +21,17 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Bulls  |             8 |      0.375 |
+| Team       |   Appearances |   Win Rate |
+|:-----------|--------------:|-----------:|
+| Bulls      |             8 |      0.125 |
+| Blue Bulls |             1 |      0     |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Stormers      |         2 |          0 |
-| Cardiff Blues |         1 |          1 |
-| Dragons       |         1 |          1 |
-| Lyon          |         1 |          0 |
-| Ospreys       |         1 |          1 |
-| Scarlets      |         1 |          0 |
-| Sharks        |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Lions            |         2 |          0 |
+| Stormers         |         2 |          0 |
+| Dragons          |         1 |          1 |
+| Lyon             |         1 |          0 |
+| Scarlets         |         1 |          0 |
+| Sharks           |         1 |          0 |
+| Western Province |         1 |          0 |

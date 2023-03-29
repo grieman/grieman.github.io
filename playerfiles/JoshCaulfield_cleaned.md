@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Josh Caulfield  
-date: 2023-03-17 17:16:08.629120  
+date: 2023-03-21 18:03:37.633414  
 categories: player  
 ---
 # Josh Caulfield
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 89.0

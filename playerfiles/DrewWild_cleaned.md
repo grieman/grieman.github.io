@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Drew Wild  
-date: 2023-03-17 17:13:20.487170  
+date: 2023-03-21 18:39:02.955538  
 categories: player  
 ---
 # Drew Wild
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 81.0

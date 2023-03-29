@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Harry Randall  
-date: 2023-03-16 19:48:16.735283  
+date: 2023-03-21 18:30:54.316297  
 categories: player  
 ---
 # Harry Randall
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: England
 
 ## Current elo: 111.0
 
-## Current Percentile: 87.0
+## Current Percentile: 84.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Martin Carré  
-date: 2023-03-17 17:41:49.333585  
+date: 2023-03-21 18:01:33.586483  
 categories: player  
 ---
 # Martin Carré
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 87.0
 
-## Current Percentile: 75.0
+## Current Percentile: 72.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Travis Gordon  
-date: 2023-03-17 17:20:18.754350  
+date: 2023-03-21 17:59:25.939315  
 categories: player  
 ---
 # Travis Gordon
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Current elo: 84.0

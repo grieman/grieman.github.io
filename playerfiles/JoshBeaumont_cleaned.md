@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Josh Beaumont  
-date: 2023-03-17 17:29:46.831969  
+date: 2023-03-21 17:55:53.055750  
 categories: player  
 ---
 # Josh Beaumont
 
+
+Last updated: 2023-03-21
 ## Positions: N8, L
 
 ## Country: England
 
 ## Current elo: 112.0
 
-## Current Percentile: None
+## Current Percentile: 86.0
 
 # Elo History
 

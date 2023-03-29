@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Coenie Oosthuizen  
-date: 2023-03-17 17:30:02.760060  
+date: 2023-03-21 18:57:03.252522  
 categories: player  
 ---
 # Coenie Oosthuizen
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: South Africa

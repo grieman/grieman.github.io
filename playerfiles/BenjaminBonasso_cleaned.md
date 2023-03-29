@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Benjamin Bonasso  
-date: 2023-03-02 11:28:26.440212  
+date: 2023-03-21 18:05:40.787862  
 categories: player  
 ---
 # Benjamin Bonasso
 
-## Positions: N8, FL
 
-## Current elo: 91.0
+Last updated: 2023-03-21
+## Positions: FL, N8
 
-## Current Percentile: 28.0
+## Current elo: 81.0
+
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Rugby New York |             2 |        0.5 |
+| Rugby New York |             3 |   0.333333 |
 
-| Opponent          |   Matches |   Win Rate |
-|:------------------|----------:|-----------:|
-| Seattle Seawolves |         1 |          0 |
-| Toronto Arrows    |         1 |          1 |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| New England Free Jacks |         1 |          0 |
+| Seattle Seawolves      |         1 |          0 |
+| Toronto Arrows         |         1 |          1 |

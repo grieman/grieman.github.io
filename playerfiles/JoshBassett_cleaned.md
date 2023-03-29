@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Josh Bassett  
-date: 2023-03-17 17:39:09.737260  
+date: 2023-03-21 18:00:18.929746  
 categories: player  
 ---
 # Josh Bassett
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 72.0
+## Current Percentile: 70.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Matthieu Thomas  
-date: 2023-03-17 17:07:16.557149  
+date: 2023-03-21 18:00:46.190806  
 categories: player  
 ---
 # Matthieu Thomas
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 60.0

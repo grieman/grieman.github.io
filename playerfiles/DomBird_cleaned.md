@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dom Bird  
-date: 2023-03-17 17:40:30.913786  
+date: 2023-03-29 11:28:25.441301  
 categories: player  
 ---
 # Dom Bird
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Country: New Zealand
 
-## Current elo: 120.0
+## Current elo: 119.0
 
-## Current Percentile: 38.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -29,6 +31,7 @@ categories: player
 | Chiefs      |            28 |   0.660714 |
 | Wellington  |            18 |   0.722222 |
 | New Zealand |             3 |   1        |
+| Hurricanes  |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -44,6 +47,7 @@ categories: player
 | Lyon                     |         6 |   0.333333 |
 | Stormers                 |         5 |   0.8      |
 | Stade Francais Paris     |         5 |   0.8      |
+| New South Wales Waratahs |         5 |   0.6      |
 | Melbourne Rebels         |         5 |   0.8      |
 | Counties Manukau         |         5 |   1        |
 | North Harbour            |         5 |   0.8      |
@@ -51,7 +55,6 @@ categories: player
 | Bordeaux Begles          |         5 |   0.4      |
 | Castres Olympique        |         4 |   0.75     |
 | Montpellier Herault      |         4 |   1        |
-| New South Wales Waratahs |         4 |   0.5      |
 | Otago                    |         4 |   1        |
 | Pau                      |         4 |   0.75     |
 | Crusaders                |         4 |   0.25     |

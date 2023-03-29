@@ -1,25 +1,32 @@
 ---  
 layout: page  
 title: Riku Morisaki  
-date: 2023-02-02 18:53:35.073677  
+date: 2023-03-21 18:30:36.075321  
 categories: player  
 ---
 # Riku Morisaki
 
-## Positions: 
 
-## Current elo: 98.0
+Last updated: 2023-03-21
+## Positions: SH
 
-## Current Percentile: None
+## Current elo: 85.0
 
+## Current Percentile: 39.0
+
+# Elo History
+
+
+![elo history](history_RikuMorisaki.png)
 # Match History
 
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toyota Industries Shuttles Aichi |             2 |          1 |
+| Toyota Industries Shuttles Aichi |             5 |        0.4 |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Kamaishi Seawaves   |         1 |          1 |
-| Shimizu Blue Sharks |         1 |          1 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Kamaishi Seawaves |         2 |          1 |
+| Mie Honda Heat    |         2 |          0 |
+| Urayasu D-Rocks   |         1 |          0 |

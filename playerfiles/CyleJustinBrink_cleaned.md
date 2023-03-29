@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cyle Justin Brink  
-date: 2023-02-24 02:34:19.971851  
+date: 2023-03-21 18:07:07.164668  
 categories: player  
 ---
 # Cyle Justin Brink
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 92.0
+## Current elo: 80.0
 
-## Current Percentile: 36.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -19,16 +21,17 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Bulls  |             8 |      0.375 |
+| Team       |   Appearances |   Win Rate |
+|:-----------|--------------:|-----------:|
+| Bulls      |             7 |   0.142857 |
+| Blue Bulls |             1 |   0        |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Stormers      |         2 |          0 |
-| Cardiff Blues |         1 |          1 |
-| Dragons       |         1 |          1 |
-| Lyon          |         1 |          0 |
-| Ospreys       |         1 |          1 |
-| Scarlets      |         1 |          0 |
-| Sharks        |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Stormers         |         2 |          0 |
+| Dragons          |         1 |          1 |
+| Lions            |         1 |          0 |
+| Lyon             |         1 |          0 |
+| Scarlets         |         1 |          0 |
+| Sharks           |         1 |          0 |
+| Western Province |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Vareilles  
-date: 2023-03-17 17:21:42.177869  
+date: 2023-03-21 18:50:43.155758  
 categories: player  
 ---
 # Clément Vareilles
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 86.0
+## Current elo: 97.0
 
-## Current Percentile: 34.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,22 +23,22 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            42 |   0.559524 |
+| Blagnac |            41 |   0.573171 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Chambery                   |         5 |   0.8      |
-| Dax                        |         4 |   0.5      |
 | Tarbes                     |         4 |   0.75     |
-| Albi                       |         3 |   0        |
-| Suresnes                   |         3 |   0.666667 |
+| Dax                        |         4 |   0.5      |
 | Valence Romans Drome Rugby |         3 |   0.333333 |
+| Suresnes                   |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         3 |   0.666667 |
-| Dijon                      |         2 |   0.5      |
-| Aubenas                    |         2 |   1        |
 | Nice                       |         2 |   0.5      |
-| Rennes                     |         2 |   1        |
 | Soyaux-Angouleme           |         2 |   0        |
+| Rennes                     |         2 |   1        |
+| Albi                       |         2 |   0        |
+| Aubenas                    |         2 |   1        |
+| Dijon                      |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Narbonne                   |         1 |   0.5      |

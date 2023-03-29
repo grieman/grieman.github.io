@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alexander AJ Cant  
-date: 2023-01-13 11:24:40.551890  
+date: 2023-03-21 18:05:45.437995  
 categories: player  
 ---
 # Alexander AJ Cant
 
-## Positions: W, FB
 
-## Current elo: 126.0
+Last updated: 2023-03-21
+## Positions: FB, W
 
-## Current Percentile: 89.0
+## Current elo: 119.0
+
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Cornish Pirates |            49 |   0.602041 |
+| Cornish Pirates |            53 |   0.632075 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Nottingham          |         7 |   1        |
+| Ampthill            |         6 |   0.916667 |
 | Doncaster           |         6 |   0.833333 |
 | Ealing Trailfinders |         6 |   0.333333 |
-| Nottingham          |         6 |   1        |
-| Ampthill            |         5 |   0.9      |
-| London Scottish     |         5 |   0.6      |
+| London Scottish     |         6 |   0.666667 |
+| Coventry            |         4 |   0.75     |
 | Jersey              |         4 |   0.25     |
 | Bedford             |         3 |   0.666667 |
-| Coventry            |         3 |   0.666667 |
 | Yorkshire Carnegie  |         3 |   0.666667 |
 | Hartpury College    |         2 |   0        |
 | Newcastle Falcons   |         2 |   0        |

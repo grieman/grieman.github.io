@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Taniela Filimone  
-date: 2023-02-24 02:34:31.087444  
+date: 2023-03-21 18:44:02.867679  
 categories: player  
 ---
 # Taniela Filimone
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 84.0

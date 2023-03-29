@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sora Ohchi  
-date: 2023-01-13 11:31:44.328353  
+date: 2023-03-21 18:45:00.617697  
 categories: player  
 ---
 # Sora Ohchi
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 86.0
+## Current elo: 92.0
 
-## Current Percentile: 9.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -21,15 +23,16 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Skyactivs Hiroshima |            13 |   0.153846 |
+| Skyactivs Hiroshima |            18 |   0.222222 |
 
-| Opponent                 |   Matches |   Win Rate |
-|:-------------------------|----------:|-----------:|
-| Chugoku Red Regulions    |         2 |        0.5 |
-| Hanazono Kintetsu Liners |         2 |        0   |
-| Kamaishi Seawaves        |         2 |        0.5 |
-| Mie Honda Heat           |         2 |        0   |
-| Mitsubishi Dynaboars     |         2 |        0   |
-| Hino Red Dolphins        |         1 |        0   |
-| Kurita Water Gush        |         1 |        0   |
-| Kyuden Voltex            |         1 |        0   |
+| Opponent                        |   Matches |   Win Rate |
+|:--------------------------------|----------:|-----------:|
+| NTT Docomo Red Hurricanes Osaka |         3 |        0   |
+| Chugoku Red Regulions           |         2 |        1   |
+| Hanazono Kintetsu Liners        |         2 |        0   |
+| Kamaishi Seawaves               |         2 |        0.5 |
+| Kurita Water Gush               |         2 |        0.5 |
+| Kyuden Voltex                   |         2 |        0   |
+| Mie Honda Heat                  |         2 |        0   |
+| Mitsubishi Dynaboars            |         2 |        0   |
+| Hino Red Dolphins               |         1 |        0   |

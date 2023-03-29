@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Olly Cracknell  
-date: 2023-03-17 17:32:43.721488  
+date: 2023-03-21 17:57:46.352261  
 categories: player  
 ---
 # Olly Cracknell
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 98.0

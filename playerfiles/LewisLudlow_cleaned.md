@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Lewis Ludlow  
-date: 2023-03-17 17:23:31.553799  
+date: 2023-03-21 18:53:42.406176  
 categories: player  
 ---
 # Lewis Ludlow
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: England
 
 ## Current elo: 95.0
 
-## Current Percentile: 54.0
+## Current Percentile: 52.0
 
 # Elo History
 

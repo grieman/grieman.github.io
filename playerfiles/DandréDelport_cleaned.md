@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dandré Delport  
-date: 2023-03-17 17:02:40.043372  
+date: 2023-03-21 18:35:48.982593  
 categories: player  
 ---
 # Dandré Delport
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 95.0
+## Current elo: 90.0
 
-## Current Percentile: 80.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Griffons            |            16 |     0.8125 |
-| Free State Cheetahs |             1 |     1      |
+| Griffons            |            17 |   0.764706 |
+| Free State Cheetahs |             1 |   1        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -31,6 +33,7 @@ categories: player
 | Boland Cavaliers       |         2 |   1        |
 | Border Bulldogs        |         2 |   1        |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Natal Sharks           |         1 |   0        |
 | SWD Eagles             |         1 |   1        |
 | Tusker Simba           |         1 |   1        |

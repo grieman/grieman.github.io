@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jamie Bhatti  
-date: 2023-03-17 17:16:45.975906  
+date: 2023-03-21 18:04:20.240352  
 categories: player  
 ---
 # Jamie Bhatti
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Scotland
 
 ## Current elo: 117.0
 
-## Current Percentile: None
+## Current Percentile: 95.0
 
 # Elo History
 

@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Juan Manuel Rodriguez  
-date: 2023-03-17 16:59:47.687873  
+date: 2023-03-21 18:06:31.165716  
 categories: player  
 ---
 # Juan Manuel Rodriguez
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 104.0
 
 ## Current Percentile: None
 
@@ -17,8 +19,9 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |             1 |          1 |
+| Penarol Rugby |             2 |          1 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
 | Cobras     |         1 |          1 |
+| Yacare XV  |         1 |          1 |

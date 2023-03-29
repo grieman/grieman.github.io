@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Mark Telea  
-date: 2023-03-16 20:08:38.530636  
+date: 2023-03-21 18:13:33.885195  
 categories: player  
 ---
 # Mark Telea
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: New Zealand
 
-## Current elo: 115.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Blues         |            41 |   0.756098 |
+| Blues         |            42 |   0.738095 |
 | North Harbour |            30 |   0.566667 |
 | Tasman        |             3 |   1        |
 | New Zealand   |             2 |   0.75     |
@@ -33,7 +35,7 @@ categories: player
 | Highlanders              |         9 |   0.888889 |
 | Hurricanes               |         6 |   0.666667 |
 | Chiefs                   |         6 |   0.666667 |
-| Crusaders                |         5 |   0.2      |
+| Crusaders                |         6 |   0.166667 |
 | Auckland                 |         4 |   0.25     |
 | Brumbies                 |         4 |   0.75     |
 | Counties Manukau         |         4 |   1        |

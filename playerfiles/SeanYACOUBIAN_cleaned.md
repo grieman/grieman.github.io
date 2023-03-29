@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sean YACOUBIAN  
-date: 2023-03-17 17:36:55.787002  
+date: 2023-03-21 18:14:29.304622  
 categories: player  
 ---
 # Sean YACOUBIAN
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 93.0

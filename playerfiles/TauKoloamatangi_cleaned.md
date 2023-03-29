@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tau Koloamatangi  
-date: 2023-03-17 17:28:15.103034  
+date: 2023-03-21 18:48:50.969211  
 categories: player  
 ---
 # Tau Koloamatangi
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Tonga
@@ -25,21 +27,21 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Otago          |            15 |   0.466667 |
 | Waikato        |            14 |   0.392857 |
-| Moana Pasifika |             9 |   0.111111 |
+| Moana Pasifika |            10 |   0.1      |
 | Tonga          |             3 |   1        |
 | Hong Kong      |             1 |   1        |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Manawatu         |         4 |   0.75     |
 | Canterbury       |         4 |   0.25     |
 | Chiefs           |         4 |   0        |
 | Hawke's Bay      |         4 |   0.75     |
 | Taranaki         |         4 |   0.125    |
+| Manawatu         |         4 |   0.75     |
 | Wellington       |         3 |   0.333333 |
-| Counties Manukau |         2 |   0        |
-| Waikato          |         2 |   0.5      |
 | Hurricanes       |         2 |   0.5      |
+| Waikato          |         2 |   0.5      |
+| Counties Manukau |         2 |   0        |
 | Tasman           |         2 |   0        |
 | Northland        |         2 |   0.5      |
 | Spain            |         1 |   1        |
@@ -50,4 +52,5 @@ categories: player
 | Fijian Drua      |         1 |   0        |
 | Crusaders        |         1 |   0        |
 | Chile            |         1 |   1        |
+| Brumbies         |         1 |   0        |
 | Western Force    |         1 |   0        |

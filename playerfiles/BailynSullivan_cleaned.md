@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Bailyn Sullivan  
-date: 2023-03-17 17:14:31.501412  
+date: 2023-03-21 18:44:23.289649  
 categories: player  
 ---
 # Bailyn Sullivan
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: New Zealand Maori

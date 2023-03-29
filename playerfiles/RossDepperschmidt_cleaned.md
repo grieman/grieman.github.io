@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ross Depperschmidt  
-date: 2023-03-17 17:03:16.992111  
+date: 2023-03-21 18:35:31.552116  
 categories: player  
 ---
 # Ross Depperschmidt
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 48.0

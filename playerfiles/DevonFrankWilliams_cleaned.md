@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Devon Frank Williams  
-date: 2023-03-17 17:39:48.891373  
+date: 2023-03-21 18:15:36.766303  
 categories: player  
 ---
 # Devon Frank Williams
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 91.0
 
-## Current Percentile: 66.0
+## Current Percentile: 63.0
 
 # Elo History
 

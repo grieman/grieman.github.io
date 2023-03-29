@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: George Bower  
-date: 2023-03-17 17:33:45.407918  
+date: 2023-03-21 18:32:26.782172  
 categories: player  
 ---
 # George Bower
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand
 
 ## Current elo: 81.0
 
-## Current Percentile: 16.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            55 |   0.790909 |
+| Crusaders   |            56 |   0.794643 |
 | New Zealand |            22 |   0.704545 |
 | Otago       |            13 |   0.384615 |
 
@@ -31,8 +33,8 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |        12 |   0.583333 |
 | Highlanders              |         9 |   0.888889 |
+| Blues                    |         8 |   0.875    |
 | Hurricanes               |         8 |   0.875    |
-| Blues                    |         7 |   0.857143 |
 | New South Wales Waratahs |         4 |   0.5      |
 | Queensland Reds          |         4 |   1        |
 | Australia                |         4 |   1        |

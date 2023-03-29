@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Shane Monro Kirkwood  
-date: 2023-03-17 17:19:05.250973  
+date: 2023-03-21 18:56:02.414319  
 categories: player  
 ---
 # Shane Monro Kirkwood
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 92.0

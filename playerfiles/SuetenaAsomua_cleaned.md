@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Suetena Asomua  
-date: 2023-03-17 17:30:42.147861  
+date: 2023-03-21 18:40:02.154958  
 categories: player  
 ---
 # Suetena Asomua
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 94.0
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Counties Manukau |            13 |   0.153846 |
-| Moana Pasifika   |             5 |   0        |
+| Moana Pasifika   |             6 |   0        |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -31,6 +33,7 @@ categories: player
 | Hawke's Bay   |         2 |   0        |
 | North Harbour |         2 |   0        |
 | Blues         |         1 |   0        |
+| Brumbies      |         1 |   0        |
 | Canterbury    |         1 |   0        |
 | Fijian Drua   |         1 |   0        |
 | Otago         |         1 |   1        |

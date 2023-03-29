@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jamie Lane  
-date: 2023-03-02 11:27:07.497916  
+date: 2023-03-21 18:16:46.396678  
 categories: player  
 ---
 # Jamie Lane
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 111.0

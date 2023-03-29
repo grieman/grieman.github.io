@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Aidan Morgan  
-date: 2023-03-17 17:04:57.546143  
+date: 2023-03-21 18:39:24.675508  
 categories: player  
 ---
 # Aidan Morgan
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 104.0
 
-## Current Percentile: 76.0
+## Current Percentile: 71.0
 
 # Elo History
 

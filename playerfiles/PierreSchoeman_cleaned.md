@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Pierre Schoeman  
-date: 2023-03-17 17:30:38.468856  
+date: 2023-03-21 18:03:39.053766  
 categories: player  
 ---
 # Pierre Schoeman
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Scotland
@@ -25,7 +27,7 @@ categories: player
 |:-----------|--------------:|-----------:|
 | Edinburgh  |            90 |   0.533333 |
 | Bulls      |            35 |   0.428571 |
-| Scotland   |            21 |   0.52381  |
+| Scotland   |            22 |   0.545455 |
 | Blue Bulls |            19 |   0.526316 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -41,25 +43,26 @@ categories: player
 | Ulster                   |         5 |   0        |
 | Zebre                    |         5 |   0.8      |
 | Benetton Treviso         |         5 |   0.4      |
-| Western Province         |         4 |   0.25     |
-| Dragons                  |         4 |   0.75     |
 | Argentina                |         4 |   0.5      |
-| Leinster                 |         4 |   0.25     |
-| Free State Cheetahs      |         4 |   0.25     |
+| Western Province         |         4 |   0.25     |
 | Cheetahs                 |         4 |   0.75     |
+| Leinster                 |         4 |   0.25     |
 | Connacht                 |         4 |   0.75     |
+| Dragons                  |         4 |   0.75     |
+| Free State Cheetahs      |         4 |   0.25     |
+| Bordeaux Begles          |         3 |   0.166667 |
+| Golden Lions             |         3 |   0.666667 |
 | Natal Sharks             |         3 |   0.333333 |
 | Jaguares                 |         3 |   0.666667 |
 | Saracens                 |         3 |   0.666667 |
-| Golden Lions             |         3 |   0.666667 |
-| Bordeaux Begles          |         3 |   0.166667 |
-| Australia                |         2 |   0.5      |
 | Sharks                   |         2 |   1        |
+| Australia                |         2 |   0.5      |
 | Newcastle Falcons        |         2 |   1        |
 | Ospreys                  |         2 |   0        |
+| Wales                    |         2 |   0.5      |
 | Castres Olympique        |         2 |   1        |
 | Ireland                  |         2 |   0        |
-| Wales                    |         2 |   0.5      |
+| Italy                    |         2 |   1        |
 | Hurricanes               |         2 |   0.5      |
 | Griquas                  |         2 |   1        |
 | France                   |         2 |   0        |
@@ -83,7 +86,6 @@ categories: player
 | Melbourne Rebels         |         1 |   1        |
 | London Irish             |         1 |   0        |
 | La Rochelle              |         1 |   0        |
-| Italy                    |         1 |   1        |
 | Highlanders              |         1 |   0        |
 | Fiji                     |         1 |   1        |
 | Chile                    |         1 |   1        |

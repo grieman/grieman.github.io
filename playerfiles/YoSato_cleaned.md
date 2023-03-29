@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Yo Sato  
-date: 2023-03-17 17:00:39.358062  
+date: 2023-03-21 18:41:04.108856  
 categories: player  
 ---
 # Yo Sato
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 70.0
+## Current elo: 68.0
 
 ## Current Percentile: 5.0
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Green Rockets Tokatsu |            28 |   0.107143 |
+| Green Rockets Tokatsu |            29 |   0.103448 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -29,11 +31,11 @@ categories: player
 | Black Rams Tokyo                  |         4 |        0   |
 | Saitama Wild Knights              |         3 |        0   |
 | Hino Red Dolphins                 |         2 |        0   |
+| Kobelco Kobe Steelers             |         2 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |        0   |
 | Mie Honda Heat                    |         2 |        0.5 |
 | Mitsubishi Dynaboars              |         2 |        0.5 |
 | Shizuoka Blue Revs                |         2 |        0   |
-| Kobelco Kobe Steelers             |         1 |        0   |
 | Tokyo Sungoliath                  |         1 |        0   |
 | Toshiba Brave Lupus Tokyo         |         1 |        0   |
 | Toyota Industries Shuttles Aichi  |         1 |        1   |

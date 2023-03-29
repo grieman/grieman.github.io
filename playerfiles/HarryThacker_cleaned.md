@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Harry Thacker  
-date: 2023-03-17 17:21:36.846131  
+date: 2023-03-21 18:10:10.288397  
 categories: player  
 ---
 # Harry Thacker
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 98.0

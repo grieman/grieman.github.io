@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Masaki Hamada  
-date: 2023-03-17 17:10:45.400917  
+date: 2023-03-21 18:41:37.102812  
 categories: player  
 ---
 # Masaki Hamada
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 124.0
+## Current elo: 118.0
 
-## Current Percentile: 94.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            18 |   0.555556 |
+| Toshiba Brave Lupus Tokyo |            19 |   0.578947 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Kobelco Kobe Steelers             |         3 |   0.666667 |
 | Saitama Wild Knights              |         3 |   0        |
+| Toyota Verblitz                   |         3 |   0.666667 |
 | Shizuoka Blue Revs                |         2 |   1        |
-| Toyota Verblitz                   |         2 |   0.5      |
 | Black Rams Tokyo                  |         1 |   1        |
 | Green Rockets Tokatsu             |         1 |   1        |
 | Hanazono Kintetsu Liners          |         1 |   1        |

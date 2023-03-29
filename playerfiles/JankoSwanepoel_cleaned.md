@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Janko Swanepoel  
-date: 2023-03-17 17:33:53.299333  
+date: 2023-03-21 17:58:05.328887  
 categories: player  
 ---
 # Janko Swanepoel
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 101.0

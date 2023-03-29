@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kevin Gimeno  
-date: 2023-02-02 18:40:22.354851  
+date: 2023-03-21 18:21:33.210689  
 categories: player  
 ---
 # Kevin Gimeno
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
-## Current elo: 50.0
+## Current elo: 45.0
 
-## Current Percentile: 0.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -22,9 +24,9 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Carcassonne         |            88 |   0.431818 |
-| Biarritz Olympique  |            23 |   0.478261 |
+| Biarritz Olympique  |            26 |   0.480769 |
 | Castres Olympique   |            18 |   0.444444 |
-| Montauban           |            12 |   0.458333 |
+| Montauban           |             9 |   0.5      |
 | Montpellier Herault |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,17 +34,17 @@ categories: player
 | Mont-de-Marsan             |        10 |   0.35     |
 | Beziers                    |         9 |   0.333333 |
 | Colomiers                  |         9 |   0.666667 |
-| Biarritz Olympique         |         7 |   0.571429 |
+| Perpignan                  |         7 |   0.428571 |
 | Narbonne                   |         7 |   0.571429 |
 | Montauban                  |         7 |   0.142857 |
-| Massy                      |         6 |   0.333333 |
-| Perpignan                  |         6 |   0.5      |
+| Bayonne                    |         6 |   0.25     |
+| Biarritz Olympique         |         6 |   0.666667 |
 | Dax                        |         6 |   1        |
+| Massy                      |         5 |   0.4      |
 | Aurillac                   |         5 |   0.4      |
-| Bayonne                    |         5 |   0.2      |
-| Provence Rugby             |         5 |   0.5      |
-| Vannes                     |         4 |   0.625    |
+| Vannes                     |         5 |   0.7      |
 | Soyaux-Angouleme           |         4 |   0.75     |
+| Provence Rugby             |         4 |   0.375    |
 | Pau                        |         4 |   0.75     |
 | Albi                       |         4 |   0.25     |
 | Agen                       |         4 |   0.25     |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Hamish Watson  
-date: 2023-03-17 17:01:23.101287  
+date: 2023-03-21 18:14:12.861643  
 categories: player  
 ---
 # Hamish Watson
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Scotland
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 55.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Edinburgh               |           144 |   0.475694 |
-| Scotland                |            54 |   0.546296 |
+| Scotland                |            55 |   0.554545 |
 | British and Irish Lions |             1 |   1        |
 
 | Opponent             |   Matches |   Win Rate |
@@ -36,10 +38,10 @@ categories: player
 | Ospreys              |         9 |   0.222222 |
 | Munster              |         9 |   0.333333 |
 | Dragons              |         9 |   0.777778 |
+| Italy                |         8 |   0.875    |
 | Connacht             |         8 |   0.25     |
 | Leinster             |         7 |   0.285714 |
 | Wales                |         7 |   0.285714 |
-| Italy                |         7 |   0.857143 |
 | Cardiff Blues        |         7 |   0.142857 |
 | Ireland              |         7 |   0.142857 |
 | France               |         6 |   0.666667 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Atonio Ulutuipalelei  
-date: 2023-03-17 17:01:40.471169  
+date: 2023-03-21 18:37:16.479681  
 categories: player  
 ---
 # Atonio Ulutuipalelei
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 88.0
 
-## Current Percentile: 32.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            19 |   0.210526 |
+| Rennes |            18 |   0.222222 |
 | Vannes |             3 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -40,4 +42,3 @@ categories: player
 | Nice                       |         1 |        0   |
 | Oyonnax                    |         1 |        0   |
 | Perpignan                  |         1 |        0   |
-| Suresnes                   |         1 |        0   |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Nick Frost  
-date: 2023-03-17 17:20:31.147752  
+date: 2023-03-21 18:33:16.086107  
 categories: player  
 ---
 # Nick Frost
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Australia
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 23.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            38 |   0.605263 |
+| Brumbies         |            39 |   0.615385 |
 | Australia        |            10 |   0.3      |
 | Canberra Vikings |             9 |   0.666667 |
 
@@ -38,13 +40,13 @@ categories: player
 | Chiefs                   |         3 |   0.666667 |
 | England                  |         2 |   0        |
 | Crusaders                |         2 |   0        |
+| Moana Pasifika           |         2 |   0.5      |
 | Argentina                |         2 |   0.5      |
 | Hurricanes               |         2 |   1        |
 | Highlanders              |         2 |   0        |
-| Ireland                  |         1 |   0        |
 | Italy                    |         1 |   0        |
+| Ireland                  |         1 |   0        |
 | Melbourne Rising         |         1 |   1        |
-| Moana Pasifika           |         1 |   0        |
 | France                   |         1 |   0        |
 | New Zealand              |         1 |   0        |
 | Queensland Country       |         1 |   0        |

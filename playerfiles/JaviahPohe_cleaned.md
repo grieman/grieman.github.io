@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Javiah Pohe  
-date: 2023-01-17 11:35:16.072684  
+date: 2023-03-21 18:01:04.996937  
 categories: player  
 ---
 # Javiah Pohe
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 96.0
+## Current elo: 94.0
 
 ## Current Percentile: 41.0
 

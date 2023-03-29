@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rory Jennings  
-date: 2023-03-16 20:16:37.812562  
+date: 2023-03-21 18:11:19.694659  
 categories: player  
 ---
 # Rory Jennings
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
-## Current elo: 111.0
+## Current elo: 104.0
 
-## Current Percentile: 81.0
+## Current Percentile: 64.0
 
 # Elo History
 

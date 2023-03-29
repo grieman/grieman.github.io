@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ioan Lloyd  
-date: 2023-03-17 17:13:32.818094  
+date: 2023-03-21 18:10:08.152596  
 categories: player  
 ---
 # Ioan Lloyd
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 96.0

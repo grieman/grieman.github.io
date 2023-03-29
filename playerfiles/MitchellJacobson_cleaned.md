@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mitchell Jacobson  
-date: 2023-02-24 02:33:49.244314  
+date: 2023-03-21 18:38:59.809042  
 categories: player  
 ---
 # Mitchell Jacobson
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 80.0

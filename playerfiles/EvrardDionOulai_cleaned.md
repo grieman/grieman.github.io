@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Evrard Dion Oulai  
-date: 2023-03-17 17:31:18.909243  
+date: 2023-03-21 18:06:29.801800  
 categories: player  
 ---
 # Evrard Dion Oulai
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 98.0

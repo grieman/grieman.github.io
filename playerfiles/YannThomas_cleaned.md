@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yann Thomas  
-date: 2023-03-17 17:32:21.440405  
+date: 2023-03-21 18:21:50.375611  
 categories: player  
 ---
 # Yann Thomas
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 99.0
 
-## Current Percentile: 49.0
+## Current Percentile: 46.0
 
 # Elo History
 

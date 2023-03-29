@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Paul Lasike  
-date: 2023-03-02 11:22:07.865757  
+date: 2023-03-21 18:06:25.029196  
 categories: player  
 ---
 # Paul Lasike
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: United States of America
 
 ## Current elo: 96.0
 
-## Current Percentile: 50.0
+## Current Percentile: 51.0
 
 # Elo History
 

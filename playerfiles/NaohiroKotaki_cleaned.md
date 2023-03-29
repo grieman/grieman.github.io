@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Naohiro Kotaki  
-date: 2023-03-17 17:39:50.907066  
+date: 2023-03-21 18:20:51.479746  
 categories: player  
 ---
 # Naohiro Kotaki
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Japan

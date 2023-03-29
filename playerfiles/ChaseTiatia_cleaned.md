@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Chase Tiatia  
-date: 2023-03-17 17:22:49.777522  
+date: 2023-03-21 18:14:39.381108  
 categories: player  
 ---
 # Chase Tiatia
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Chiefs
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 73.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -27,8 +29,8 @@ categories: player
 | Chiefs        |            24 |   0.708333 |
 | Hurricanes    |            16 |   0.71875  |
 | Hawke's Bay   |             9 |   0.611111 |
+| Western Force |             4 |   0.5      |
 | Wellington    |             3 |   0        |
-| Western Force |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -42,8 +44,8 @@ categories: player
 | Otago                    |         5 |   0.4      |
 | Moana Pasifika           |         5 |   1        |
 | Northland                |         5 |   0.6      |
+| Highlanders              |         5 |   0.6      |
 | Melbourne Rebels         |         4 |   1        |
-| Highlanders              |         4 |   0.75     |
 | Counties Manukau         |         4 |   0.875    |
 | Queensland Reds          |         3 |   0.333333 |
 | Tasman                   |         3 |   0.333333 |

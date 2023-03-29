@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jordan Jackson-Hope  
-date: 2023-03-17 17:28:21.507040  
+date: 2023-03-21 18:27:30.302572  
 categories: player  
 ---
 # Jordan Jackson-Hope
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Current elo: 92.0

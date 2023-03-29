@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Eito Maki  
-date: 2023-03-17 17:18:19.419900  
+date: 2023-03-21 17:56:03.623491  
 categories: player  
 ---
 # Eito Maki
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 110.0
 
-## Current Percentile: 57.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |             4 |      0.125 |
+| Shizuoka Blue Revs |             5 |        0.3 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Black Rams Tokyo                  |         1 |        1   |
 | Kobelco Kobe Steelers             |         1 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
 | Tokyo Sungoliath                  |         1 |        0   |

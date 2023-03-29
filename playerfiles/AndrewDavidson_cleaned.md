@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Andrew Davidson  
-date: 2023-03-06 11:23:58.681151  
+date: 2023-03-21 18:25:58.783991  
 categories: player  
 ---
 # Andrew Davidson
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 88.0

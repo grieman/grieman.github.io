@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hamish Dalzell  
-date: 2023-03-17 17:10:17.545214  
+date: 2023-03-21 18:14:33.988614  
 categories: player  
 ---
 # Hamish Dalzell
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 88.0

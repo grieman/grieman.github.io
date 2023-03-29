@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sam Malcolm  
-date: 2023-03-17 17:43:13.443020  
+date: 2023-03-21 18:25:41.926098  
 categories: player  
 ---
 # Sam Malcolm
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 52.0

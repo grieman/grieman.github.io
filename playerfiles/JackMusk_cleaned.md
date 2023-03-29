@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jack Musk  
-date: 2023-03-17 17:36:44.634160  
+date: 2023-03-21 18:32:51.179140  
 categories: player  
 ---
 # Jack Musk
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 94.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 

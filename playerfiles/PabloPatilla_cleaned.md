@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Pablo Patilla  
-date: 2023-03-17 17:37:07.967077  
+date: 2023-03-20 15:47:41.525204  
 categories: player  
 ---
 # Pablo Patilla
 
+
+Last updated: 2023-03-20
 ## Positions: C, W
 
 ## Current elo: 86.0
 
-## Current Percentile: 19.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            25 |        0.5 |
+| Bourgoin-Jallieu |            24 |   0.479167 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -33,7 +35,6 @@ categories: player
 | Dax                        |         2 |   0.5      |
 | Nice                       |         2 |   1        |
 | Valence Romans Drome Rugby |         2 |   0.75     |
-| Carqueiranne-Hyères        |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Narbonne                   |         1 |   0        |
 | Rennes                     |         1 |   1        |

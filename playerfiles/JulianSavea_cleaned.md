@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Julian Savea  
-date: 2023-03-17 17:38:37.476968  
+date: 2023-03-21 17:59:41.238633  
 categories: player  
 ---
 # Julian Savea
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: New Zealand

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ezra Hinchcliffe  
-date: 2023-01-21 15:39:06.660795  
+date: 2023-03-21 17:59:55.695415  
 categories: player  
 ---
 # Ezra Hinchcliffe
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 92.0
+## Current elo: 94.0
 
-## Current Percentile: 35.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |            11 |   0.272727 |
+| Caldy  |            12 |       0.25 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Coventry         |         2 |          0 |
 | Richmond         |         2 |          1 |
 | Ampthill         |         1 |          0 |
 | Bedford          |         1 |          0 |
 | Cornish Pirates  |         1 |          1 |
-| Coventry         |         1 |          0 |
 | Doncaster        |         1 |          0 |
 | Hartpury College |         1 |          0 |
 | Jersey           |         1 |          0 |

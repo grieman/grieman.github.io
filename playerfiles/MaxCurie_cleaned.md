@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Max Curie  
-date: 2023-02-02 18:52:20.979827  
+date: 2023-03-21 18:17:03.361330  
 categories: player  
 ---
 # Max Curie
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 103.0
+## Current elo: 90.0
 
-## Current Percentile: 58.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,18 +25,18 @@ categories: player
 |:---------------|--------------:|-----------:|
 | Nevers         |            77 |   0.571429 |
 | Albi           |            35 |   0.442857 |
-| Mont-de-Marsan |            11 |   0.818182 |
+| Mont-de-Marsan |            16 |   0.625    |
 | US Bressane    |             9 |   0.222222 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Carcassonne        |        10 |   0.75     |
+| Carcassonne        |        11 |   0.681818 |
+| Beziers            |        10 |   0.4      |
 | Vannes             |         9 |   0.388889 |
-| Beziers            |         9 |   0.333333 |
+| Provence Rugby     |         9 |   0.333333 |
 | Colomiers          |         9 |   0.333333 |
 | Aurillac           |         8 |   0.625    |
 | Biarritz Olympique |         8 |   0.625    |
-| Provence Rugby     |         7 |   0.428571 |
 | Mont-de-Marsan     |         7 |   0.714286 |
 | Bayonne            |         6 |   0.25     |
 | Grenoble           |         6 |   0.583333 |
@@ -49,9 +51,9 @@ categories: player
 | Soyaux-Angouleme   |         3 |   0.666667 |
 | Agen               |         3 |   0.666667 |
 | Lyon               |         2 |   0        |
+| Nevers             |         2 |   0.5      |
 | Brive              |         2 |   0        |
 | Rouen              |         2 |   1        |
 | Tarbes             |         2 |   0.5      |
 | La Rochelle        |         1 |   0        |
-| Nevers             |         1 |   1        |
 | Pau                |         1 |   0        |

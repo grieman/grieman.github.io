@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Etene Nanai-Seturo  
-date: 2023-03-17 17:08:09.108506  
+date: 2023-03-21 18:14:57.461248  
 categories: player  
 ---
 # Etene Nanai-Seturo
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 94.0
+## Current elo: 97.0
 
-## Current Percentile: 33.0
+## Current Percentile: 44.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Chiefs           |            33 |   0.454545 |
+| Chiefs           |            34 |   0.470588 |
 | Counties Manukau |            10 |   0.2      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -33,16 +35,17 @@ categories: player
 | Blues                    |         3 |   0        |
 | Brumbies                 |         2 |   0        |
 | Auckland                 |         1 |   0        |
-| Queensland Reds          |         1 |   1        |
+| Otago                    |         1 |   1        |
 | Waikato                  |         1 |   0        |
 | Tasman                   |         1 |   0        |
 | Sunwolves                |         1 |   0        |
 | Southland                |         1 |   1        |
 | Sharks                   |         1 |   1        |
+| Queensland Reds          |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
-| Otago                    |         1 |   1        |
 | Northland                |         1 |   0        |
 | North Harbour            |         1 |   0        |
+| Melbourne Rebels         |         1 |   1        |
 | Jaguares                 |         1 |   1        |
 | Hawke's Bay              |         1 |   0        |
 | Canterbury               |         1 |   0        |

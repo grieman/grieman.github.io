@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: James Venter  
-date: 2023-02-02 19:10:09.128560  
+date: 2023-03-21 18:53:49.731166  
 categories: player  
 ---
 # James Venter
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 86.0
+## Current elo: 102.0
 
-## Current Percentile: 26.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,33 +23,32 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Sharks       |            18 |   0.666667 |
-| Natal Sharks |            17 |   0.529412 |
-| Golden Lions |            15 |   0.533333 |
+| Natal Sharks |            20 |   0.55     |
+| Golden Lions |            17 |   0.470588 |
+| Sharks       |            16 |   0.6875   |
 | Lions        |             2 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Free State Cheetahs |         7 |   0.571429 |
-| Griquas             |         6 |   0.833333 |
-| Blue Bulls          |         5 |   0.4      |
-| Western Province    |         5 |   0.4      |
+| Free State Cheetahs |         8 |   0.5      |
+| Griquas             |         7 |   0.857143 |
+| Blue Bulls          |         6 |   0.333333 |
+| Western Province    |         6 |   0.5      |
 | Pumas               |         4 |   0.75     |
+| Natal Sharks        |         3 |   0        |
 | Golden Lions        |         3 |   0.333333 |
-| Dragons             |         2 |   1        |
-| Edinburgh           |         2 |   0.5      |
 | Ospreys             |         2 |   1        |
 | Jaguares            |         2 |   1        |
-| Natal Sharks        |         2 |   0        |
-| Melbourne Rebels    |         1 |   1        |
-| Sunwolves           |         1 |   1        |
-| Stormers            |         1 |   1        |
-| Hurricanes          |         1 |   0        |
-| Lions               |         1 |   1        |
-| Leinster            |         1 |   0        |
-| Bulls               |         1 |   1        |
+| Dragons             |         2 |   1        |
 | Highlanders         |         1 |   1        |
+| Hurricanes          |         1 |   0        |
+| Bulls               |         1 |   1        |
+| Leinster            |         1 |   0        |
+| Lions               |         1 |   1        |
+| Melbourne Rebels    |         1 |   1        |
 | Glasgow Warriors    |         1 |   0        |
-| Connacht            |         1 |   0        |
+| Edinburgh           |         1 |   0        |
+| Stormers            |         1 |   1        |
+| Sunwolves           |         1 |   1        |
 | Cardiff Blues       |         1 |   0        |
 | Zebre               |         1 |   1        |

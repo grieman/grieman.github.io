@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Théo Defrance  
-date: 2023-03-17 17:20:56.195845  
+date: 2023-03-21 18:34:18.600023  
 categories: player  
 ---
 # Théo Defrance
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 87.0
@@ -21,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |            14 |   0.357143 |
+| Carqueiranne-Hyères |            13 |   0.384615 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,7 +32,6 @@ categories: player
 | US Bressane                |         2 |        0.5 |
 | Albi                       |         1 |        0   |
 | Blagnac                    |         1 |        0   |
-| Bourgoin-Jallieu           |         1 |        0   |
 | Chambery                   |         1 |        0   |
 | Dax                        |         1 |        0   |
 | Nice                       |         1 |        0   |

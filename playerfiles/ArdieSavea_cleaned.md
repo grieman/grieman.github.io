@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ardie Savea  
-date: 2023-03-17 17:14:07.066316  
+date: 2023-03-21 18:46:12.025274  
 categories: player  
 ---
 # Ardie Savea
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: New Zealand
 
 ## Current elo: 123.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thomas Nowlan  
-date: 2023-01-15 11:51:15.485632  
+date: 2023-03-21 18:01:03.928267  
 categories: player  
 ---
 # Thomas Nowlan
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: None
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             3 |          0 |
-| NSW Country Eagles  |             1 |          1 |
+| Shimizu Blue Sharks |             5 |        0.2 |
+| NSW Country Eagles  |             1 |        1   |
 
-| Opponent                         |   Matches |   Win Rate |
-|:---------------------------------|----------:|-----------:|
-| Kamaishi Seawaves                |         1 |          0 |
-| Sydney Rays                      |         1 |          1 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
-| Urayasu D-Rocks                  |         1 |          0 |
+| Opponent          |   Matches |   Win Rate |
+|:------------------|----------:|-----------:|
+| Kamaishi Seawaves |         2 |        0.5 |
+| Urayasu D-Rocks   |         2 |        0   |
+| Mie Honda Heat    |         1 |        0   |
+| Sydney Rays       |         1 |        1   |

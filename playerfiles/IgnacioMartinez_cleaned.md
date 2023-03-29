@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ignacio Martinez  
-date: 2023-03-17 17:34:24.478481  
+date: 2023-03-21 18:08:06.873935  
 categories: player  
 ---
 # Ignacio Martinez
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 94.0

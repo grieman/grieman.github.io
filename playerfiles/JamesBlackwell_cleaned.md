@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: James Blackwell  
-date: 2023-03-17 17:09:40.503595  
+date: 2023-03-21 18:37:25.554169  
 categories: player  
 ---
 # James Blackwell
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Hurricanes
 
 ## Current elo: 98.0
 
-## Current Percentile: 59.0
+## Current Percentile: 57.0
 
 # Elo History
 

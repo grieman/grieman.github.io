@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: John Charles Astle  
-date: 2023-03-04 11:44:23.183074  
+date: 2023-03-21 18:02:25.870029  
 categories: player  
 ---
 # John Charles Astle
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 102.0
 
 ## Current Percentile: 60.0
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |             6 |   0.333333 |
+| Rouen  |             7 |   0.357143 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Agen             |         1 |          0 |
-| Aurillac         |         1 |          0 |
-| Carcassonne      |         1 |          0 |
-| Grenoble         |         1 |          0 |
-| Oyonnax          |         1 |          1 |
-| Soyaux-Angouleme |         1 |          1 |
+| Agen             |         1 |        0   |
+| Aurillac         |         1 |        0   |
+| Carcassonne      |         1 |        0   |
+| Grenoble         |         1 |        0   |
+| Oyonnax          |         1 |        1   |
+| Provence Rugby   |         1 |        0.5 |
+| Soyaux-Angouleme |         1 |        1   |

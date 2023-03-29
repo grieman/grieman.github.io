@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Andre Fouché  
-date: 2023-03-17 17:35:56.490763  
+date: 2023-03-21 18:34:06.084038  
 categories: player  
 ---
 # Andre Fouché
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 111.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

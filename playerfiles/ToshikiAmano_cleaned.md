@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Toshiki Amano  
-date: 2023-03-17 17:36:21.914981  
+date: 2023-03-21 18:36:10.929064  
 categories: player  
 ---
 # Toshiki Amano
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 101.0

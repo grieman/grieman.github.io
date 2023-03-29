@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Monty Royston  
-date: 2023-03-17 17:31:47.100889  
+date: 2023-03-21 18:38:09.461610  
 categories: player  
 ---
 # Monty Royston
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 99.0
+## Current elo: 97.0
 
 ## Current Percentile: None
 
@@ -17,7 +19,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |             7 |   0.714286 |
+| Bedford |             8 |       0.75 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -27,3 +29,4 @@ categories: player
 | Ealing Trailfinders |         1 |          0 |
 | Hartpury College    |         1 |          1 |
 | London Scottish     |         1 |          1 |
+| Richmond            |         1 |          1 |

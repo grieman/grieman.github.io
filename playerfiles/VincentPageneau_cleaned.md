@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Vincent Pageneau  
-date: 2023-03-17 17:42:34.118903  
+date: 2023-03-21 18:28:56.589955  
 categories: player  
 ---
 # Vincent Pageneau
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 66.0

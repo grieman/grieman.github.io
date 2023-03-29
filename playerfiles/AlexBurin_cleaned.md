@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Alex Burin  
-date: 2023-03-17 17:22:12.643291  
+date: 2023-03-21 18:13:05.640579  
 categories: player  
 ---
 # Alex Burin
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 97.0

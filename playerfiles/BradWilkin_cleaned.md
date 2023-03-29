@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Brad Wilkin  
-date: 2023-03-16 20:00:05.188756  
+date: 2023-03-21 18:01:18.770860  
 categories: player  
 ---
 # Brad Wilkin
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 105.0
+## Current elo: 102.0
 
-## Current Percentile: 74.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,9 +23,9 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Melbourne Rebels         |            32 |      0.375 |
-| New South Wales Waratahs |             8 |      0.625 |
-| Brisbane City            |             5 |      0.6   |
+| Melbourne Rebels         |            33 |   0.363636 |
+| New South Wales Waratahs |             8 |   0.625    |
+| Brisbane City            |             5 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -31,8 +33,8 @@ categories: player
 | Brumbies                 |         6 |   0.5      |
 | Queensland Reds          |         6 |   0.166667 |
 | New South Wales Waratahs |         4 |   0.5      |
+| Chiefs                   |         3 |   0        |
 | Highlanders              |         3 |   1        |
-| Chiefs                   |         2 |   0        |
 | Fijian Drua              |         2 |   0.5      |
 | Hurricanes               |         2 |   0        |
 | Lions                    |         2 |   0        |

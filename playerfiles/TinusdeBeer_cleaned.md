@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tinus de Beer  
-date: 2023-03-17 17:04:10.813177  
+date: 2023-03-21 18:22:14.940386  
 categories: player  
 ---
 # Tinus de Beer
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

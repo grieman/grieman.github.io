@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lucas Rumball  
-date: 2023-03-17 17:18:36.088872  
+date: 2023-03-21 18:25:16.152467  
 categories: player  
 ---
 # Lucas Rumball
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Canada

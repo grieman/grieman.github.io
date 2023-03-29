@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Elton Thomas Jantjies  
-date: 2023-03-17 17:15:00.059946  
+date: 2023-03-21 18:48:04.652274  
 categories: player  
 ---
 # Elton Thomas Jantjies
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 89.0

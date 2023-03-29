@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Alun Wyn Jones  
-date: 2023-03-16 21:11:30.309229  
+date: 2023-03-21 18:04:45.002232  
 categories: player  
 ---
 # Alun Wyn Jones
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Wales
 
-## Current elo: 107.0
+## Current elo: 110.0
 
-## Current Percentile: 73.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Ospreys                 |           215 |   0.64186  |
-| Wales                   |           148 |   0.469595 |
+| Wales                   |           149 |   0.466443 |
 | British and Irish Lions |            14 |   0.607143 |
 | Neath  Swansea          |             1 |   0        |
 
@@ -36,8 +38,8 @@ categories: player
 | Australia                |        20 |   0.25     |
 | Cardiff Blues            |        20 |   0.825    |
 | Dragons                  |        17 |   0.794118 |
+| France                   |        17 |   0.411765 |
 | Ireland                  |        16 |   0.53125  |
-| France                   |        16 |   0.4375   |
 | Munster                  |        16 |   0.40625  |
 | New Zealand              |        16 |   0.09375  |
 | Leinster                 |        15 |   0.4      |

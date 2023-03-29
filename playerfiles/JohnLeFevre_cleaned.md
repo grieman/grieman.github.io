@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: John LeFevre  
-date: 2023-03-17 17:30:49.198745  
+date: 2023-03-21 18:07:11.287294  
 categories: player  
 ---
 # John LeFevre
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 90.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,11 @@ categories: player
 
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
-| Old Glory DC |             3 |          0 |
+| Old Glory DC |             4 |       0.25 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Austin Gilgronis       |         1 |          0 |
 | New England Free Jacks |         1 |          0 |
 | Rugby New York         |         1 |          0 |
+| Toronto Arrows         |         1 |          1 |

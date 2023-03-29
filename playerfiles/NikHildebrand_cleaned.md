@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nik Hildebrand  
-date: 2023-03-17 17:30:43.919551  
+date: 2023-03-21 18:55:39.524770  
 categories: player  
 ---
 # Nik Hildebrand
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 115.0
@@ -21,8 +23,8 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Houston SaberCats |             7 |        0   |
-| Toronto Arrows    |             2 |        0.5 |
+| Houston SaberCats |             7 |   0        |
+| Toronto Arrows    |             3 |   0.333333 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
@@ -30,6 +32,7 @@ categories: player
 | Austin Gilgronis  |         1 |          0 |
 | Chicago Hounds    |         1 |          1 |
 | L. A. Giltinis    |         1 |          0 |
+| Old Glory DC      |         1 |          0 |
 | R.U. New York     |         1 |          0 |
 | Rugby ATL         |         1 |          0 |
 | Seattle Seawolves |         1 |          0 |

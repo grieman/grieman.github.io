@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Stean Pienaar  
-date: 2023-03-17 17:17:01.910880  
+date: 2023-03-21 18:47:53.042790  
 categories: player  
 ---
 # Stean Pienaar
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 96.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Bryn Hall  
-date: 2023-03-17 17:27:27.571202  
+date: 2023-03-21 18:27:07.457603  
 categories: player  
 ---
 # Bryn Hall
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: New Zealand Maori

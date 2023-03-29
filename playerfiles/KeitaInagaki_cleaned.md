@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Keita Inagaki  
-date: 2023-03-16 19:50:20.910177  
+date: 2023-03-21 17:57:59.701935  
 categories: player  
 ---
 # Keita Inagaki
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan
 
-## Current elo: 123.0
+## Current elo: 122.0
 
-## Current Percentile: 92.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            83 |  0.885542  |
+| Saitama Wild Knights |            84 |  0.886905  |
 | Japan                |            40 |  0.3875    |
 | Sunwolves            |            24 |  0.0416667 |
 | Melbourne Rebels     |             1 |  0         |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Toshiba Brave Lupus Tokyo         |         9 |   0.833333 |
 | Yokohama Canon Eagles             |         8 |   0.875    |
-| Toshiba Brave Lupus Tokyo         |         8 |   0.8125   |
 | Urayasu D-Rocks                   |         7 |   0.857143 |
 | Tokyo Sungoliath                  |         7 |   0.714286 |
 | Kubota Spears Funabashi Tokyo-Bay |         7 |   1        |

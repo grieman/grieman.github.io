@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kenta Tokuda  
-date: 2023-03-17 17:11:30.415753  
+date: 2023-03-21 18:31:53.879717  
 categories: player  
 ---
 # Kenta Tokuda
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 57.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             9 |   0.722222 |
+| Kobelco Kobe Steelers |            10 |       0.75 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| Green Rockets Tokatsu           |         2 |        1   |
 | Black Rams Tokyo                |         1 |        0   |
-| Green Rockets Tokatsu           |         1 |        1   |
 | Hino Red Dolphins               |         1 |        1   |
 | Mitsubishi Dynaboars            |         1 |        1   |
 | NTT Docomo Red Hurricanes Osaka |         1 |        1   |

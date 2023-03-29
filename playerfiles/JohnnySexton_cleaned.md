@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Johnny Sexton  
-date: 2023-03-17 17:37:48.391417  
+date: 2023-03-21 18:38:31.665581  
 categories: player  
 ---
 # Johnny Sexton
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Ireland
 
-## Current elo: 148.0
+## Current elo: 139.0
 
 ## Current Percentile: 99.0
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Leinster                |           170 |   0.773529 |
-| Ireland                 |           109 |   0.678899 |
+| Ireland                 |           110 |   0.681818 |
 | Racing 92               |            40 |   0.5625   |
 | British and Irish Lions |            10 |   0.65     |
 | Edinburgh               |             1 |   0        |
@@ -36,7 +38,7 @@ categories: player
 | Wales                    |        17 |   0.5      |
 | Scarlets                 |        15 |   0.733333 |
 | Ulster                   |        15 |   0.866667 |
-| England                  |        14 |   0.5      |
+| England                  |        15 |   0.533333 |
 | Scotland                 |        13 |   0.923077 |
 | France                   |        13 |   0.653846 |
 | Connacht                 |        12 |   0.666667 |

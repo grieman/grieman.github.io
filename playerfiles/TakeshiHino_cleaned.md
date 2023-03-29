@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Takeshi Hino  
-date: 2023-03-16 19:52:13.245457  
+date: 2023-03-21 18:29:08.238940  
 categories: player  
 ---
 # Takeshi Hino
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Japan
 
-## Current elo: 97.0
+## Current elo: 96.0
 
-## Current Percentile: 61.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Shizuoka Blue Revs |            74 |   0.743243 |
+| Shizuoka Blue Revs |            75 |   0.733333 |
 | Sunwolves          |             8 |   0.125    |
 | Japan              |             4 |   0.5      |
 | Stade Toulousain   |             3 |   0.666667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Toyota Verblitz                   |         8 |   0.75     |
 | Black Rams Tokyo                  |         7 |   1        |
-| Toyota Verblitz                   |         7 |   0.857143 |
 | Kubota Spears Funabashi Tokyo-Bay |         6 |   0.75     |
 | Toshiba Brave Lupus Tokyo         |         6 |   0.666667 |
 | Saitama Wild Knights              |         6 |   0.25     |

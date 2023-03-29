@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lucas Guillaume  
-date: 2023-03-17 17:40:21.773423  
+date: 2023-03-20 15:46:50.006772  
 categories: player  
 ---
 # Lucas Guillaume
 
+
+Last updated: 2023-03-20
 ## Positions: FL
 
 ## Current elo: 91.0

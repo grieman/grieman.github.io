@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Alec McDonnell  
-date: 2023-03-17 17:30:33.244928  
+date: 2023-03-21 17:58:24.877206  
 categories: player  
 ---
 # Alec McDonnell
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 105.0

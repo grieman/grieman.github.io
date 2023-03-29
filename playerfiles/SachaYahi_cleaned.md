@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sacha Yahi  
-date: 2023-03-17 17:18:39.590965  
+date: 2023-03-21 18:48:47.711216  
 categories: player  
 ---
 # Sacha Yahi
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 94.0

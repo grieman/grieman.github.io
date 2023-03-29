@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas CACHET  
-date: 2023-03-17 17:25:12.272105  
+date: 2023-03-29 11:30:11.991301  
 categories: player  
 ---
 # Nicolas CACHET
 
+
+Last updated: 2023-03-29
 ## Positions: FB, FH
 
 ## Current elo: 76.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |            48 |   0.40625  |
+| Bourgoin-Jallieu |            49 |   0.408163 |
 | Dax              |            44 |   0.397727 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Dax                        |         6 |   0.333333 |
-| Narbonne                   |         6 |   0.5      |
 | Albi                       |         6 |   0.166667 |
+| Narbonne                   |         6 |   0.5      |
+| Dax                        |         6 |   0.333333 |
 | Tarbes                     |         5 |   0.4      |
 | Massy                      |         5 |   0.4      |
 | Vannes                     |         4 |   0.75     |
@@ -40,12 +42,12 @@ categories: player
 | Nice                       |         3 |   0.666667 |
 | Montauban                  |         3 |   0        |
 | Mont-de-Marsan             |         3 |   0        |
+| US Bressane                |         3 |   0.166667 |
 | Cognac Saint Jean d'Angély |         3 |   1        |
 | Beziers                    |         3 |   0.333333 |
 | Aubenas                    |         3 |   0.333333 |
 | Perpignan                  |         3 |   0.333333 |
 | Colomiers                  |         2 |   1        |
-| US Bressane                |         2 |   0        |
 | Carcassonne                |         2 |   0        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Blagnac                    |         2 |   0        |

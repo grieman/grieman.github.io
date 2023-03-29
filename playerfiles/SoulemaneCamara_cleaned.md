@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Soulemane Camara  
-date: 2023-01-17 11:45:03.386253  
+date: 2023-03-21 18:15:09.860613  
 categories: player  
 ---
 # Soulemane Camara
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 93.0

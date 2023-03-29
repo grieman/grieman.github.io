@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ross Byrne  
-date: 2023-03-17 17:26:24.583319  
+date: 2023-03-21 18:24:05.730249  
 categories: player  
 ---
 # Ross Byrne
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Ireland
@@ -24,7 +26,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leinster |           140 |   0.814286 |
-| Ireland  |            16 |   0.75     |
+| Ireland  |            17 |   0.764706 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -41,8 +43,8 @@ categories: player
 | Montpellier Herault      |         5 |   1        |
 | Ospreys                  |         5 |   0.8      |
 | Cardiff Blues            |         5 |   0.8      |
+| England                  |         4 |   0.5      |
 | France                   |         3 |   0.333333 |
-| England                  |         3 |   0.333333 |
 | Italy                    |         3 |   1        |
 | Stade Toulousain         |         3 |   0.666667 |
 | Bath Rugby               |         3 |   1        |

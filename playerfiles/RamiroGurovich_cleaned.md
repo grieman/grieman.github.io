@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ramiro Gurovich  
-date: 2023-03-04 11:34:04.960671  
+date: 2023-03-21 18:00:23.563144  
 categories: player  
 ---
 # Ramiro Gurovich
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 92.0
 
-## Current Percentile: 51.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Pampas XV |             3 |   0.666667 |
+| Pampas XV |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
 | Cobras           |         1 |          1 |
+| Dogos XV         |         1 |          0 |
 | Selknam          |         1 |          0 |

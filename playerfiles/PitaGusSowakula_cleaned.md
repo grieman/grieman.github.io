@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Pita Gus Sowakula  
-date: 2023-03-17 17:31:23.616696  
+date: 2023-03-21 18:22:02.600099  
 categories: player  
 ---
 # Pita Gus Sowakula
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: New Zealand
 
-## Current elo: 101.0
+## Current elo: 102.0
 
-## Current Percentile: 67.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Chiefs      |            57 |   0.596491 |
+| Chiefs      |            58 |   0.603448 |
 | Taranaki    |            38 |   0.578947 |
 | New Zealand |             2 |   0.5      |
 
@@ -35,14 +37,14 @@ categories: player
 | Hurricanes               |         5 |   0.4      |
 | Waikato                  |         5 |   0.4      |
 | New South Wales Waratahs |         4 |   1        |
+| Melbourne Rebels         |         4 |   1        |
 | Bay of Plenty            |         4 |   0.5      |
 | Queensland Reds          |         4 |   0.75     |
 | Auckland                 |         4 |   0.25     |
 | Tasman                   |         4 |   0.25     |
 | Northland                |         3 |   0.333333 |
-| Hawke's Bay              |         3 |   0.666667 |
 | Southland                |         3 |   1        |
-| Melbourne Rebels         |         3 |   1        |
+| Hawke's Bay              |         3 |   0.666667 |
 | Moana Pasifika           |         3 |   1        |
 | Brumbies                 |         3 |   0.333333 |
 | Otago                    |         3 |   1        |

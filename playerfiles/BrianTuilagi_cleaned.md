@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Brian Tuilagi  
-date: 2023-01-06 00:21:24.607030  
+date: 2023-03-21 18:50:45.402757  
 categories: player  
 ---
 # Brian Tuilagi
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 106.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 

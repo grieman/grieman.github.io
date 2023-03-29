@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Bryce Campbell  
-date: 2023-03-17 17:42:56.715896  
+date: 2023-03-21 18:25:26.759772  
 categories: player  
 ---
 # Bryce Campbell
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: United States of America

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sateki Latu  
-date: 2023-03-17 17:13:50.918795  
+date: 2023-03-21 18:50:55.702241  
 categories: player  
 ---
 # Sateki Latu
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

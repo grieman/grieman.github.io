@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomoaki Ishii  
-date: 2023-03-17 17:32:48.105522  
+date: 2023-03-21 18:10:57.541126  
 categories: player  
 ---
 # Tomoaki Ishii
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 136.0
+## Current elo: 135.0
 
-## Current Percentile: 99.0
+## Current Percentile: 98.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars     |            19 |   0.657895 |
+| Mitsubishi Dynaboars     |            20 |   0.625    |
 | Hanazono Kintetsu Liners |            15 |   0.933333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Kamaishi Seawaves                 |         3 |        1   |
 | Mie Honda Heat                    |         2 |        0.5 |
+| Saitama Wild Knights              |         2 |        0   |
 | Urayasu D-Rocks                   |         2 |        1   |
 | Hanazono Kintetsu Liners          |         2 |        1   |
 | Hino Red Dolphins                 |         2 |        1   |
@@ -35,7 +38,6 @@ categories: player
 | Kurita Water Gush                 |         2 |        1   |
 | Kyuden Voltex                     |         2 |        1   |
 | Mazda Blue Zoomers                |         2 |        1   |
-| Saitama Wild Knights              |         1 |        0   |
 | Toyota Verblitz                   |         1 |        1   |
 | Toshiba Brave Lupus Tokyo         |         1 |        1   |
 | Skyactivs Hiroshima               |         1 |        1   |

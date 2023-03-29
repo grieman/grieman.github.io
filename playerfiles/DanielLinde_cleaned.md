@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Daniel Linde  
-date: 2023-03-17 17:28:29.260211  
+date: 2023-03-21 18:55:34.190778  
 categories: player  
 ---
 # Daniel Linde
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 82.0

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Izaia Perese  
-date: 2023-03-17 17:42:32.600665  
+date: 2023-03-21 18:31:55.040215  
 categories: player  
 ---
 # Izaia Perese
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Australia
 
 ## Current elo: 85.0
 
-## Current Percentile: 19.0
+## Current Percentile: 20.0
 
 # Elo History
 

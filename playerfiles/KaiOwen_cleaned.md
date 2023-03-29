@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kai Owen  
-date: 2023-02-02 18:51:44.135930  
+date: 2023-03-21 18:13:00.815549  
 categories: player  
 ---
 # Kai Owen
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 103.0

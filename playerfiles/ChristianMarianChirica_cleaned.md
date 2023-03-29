@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Christian Marian Chirica  
-date: 2023-03-16 20:04:56.874597  
+date: 2023-03-21 18:26:21.009961  
 categories: player  
 ---
 # Christian Marian Chirica
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Romania
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 60.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Romania             |             5 |   0.6      |
+| Romania             |             6 |   0.666667 |
 | Carqueiranne-Hyères |             3 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -34,4 +36,5 @@ categories: player
 | Georgia                    |         1 |          0 |
 | Poland                     |         1 |          1 |
 | Portugal                   |         1 |          0 |
+| Spain                      |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kurt Baker  
-date: 2023-03-16 21:12:38.874291  
+date: 2023-03-21 18:13:43.972683  
 categories: player  
 ---
 # Kurt Baker
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: New Zealand Maori

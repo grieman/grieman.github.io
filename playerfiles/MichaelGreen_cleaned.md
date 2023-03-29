@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Michael Green  
-date: 2023-02-02 18:56:39.110258  
+date: 2023-03-21 18:50:01.434711  
 categories: player  
 ---
 # Michael Green
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 75.0
+## Current elo: 76.0
 
 ## Current Percentile: None
 

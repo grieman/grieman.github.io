@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Watisoni Votu  
-date: 2023-02-02 18:58:12.475502  
+date: 2023-03-21 17:57:35.844875  
 categories: player  
 ---
 # Watisoni Votu
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Fiji
 
 ## Current elo: 100.0
 
-## Current Percentile: 59.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Pau           |           121 |   0.458678 |
 | Perpignan     |            36 |   0.513889 |
-| Beziers       |            33 |   0.469697 |
+| Beziers       |            31 |   0.435484 |
 | Fiji          |             6 |   0.333333 |
 | Exeter Chiefs |             3 |   0.333333 |
 
@@ -46,19 +48,19 @@ categories: player
 | Toulon                   |         6 |   0.333333 |
 | Oyonnax                  |         6 |   0.583333 |
 | Carcassonne              |         4 |   0.25     |
-| Aurillac                 |         4 |   0.625    |
-| Provence Rugby           |         4 |   0.25     |
 | Grenoble                 |         4 |   0.75     |
 | Colomiers                |         4 |   0.5      |
-| Rouen                    |         3 |   0.666667 |
 | Sale Sharks              |         3 |   0        |
+| Rouen                    |         3 |   0.666667 |
+| Provence Rugby           |         3 |   0        |
+| Aurillac                 |         3 |   0.5      |
 | Narbonne                 |         3 |   1        |
 | Mont-de-Marsan           |         3 |   0.333333 |
-| Tarbes                   |         2 |   0.5      |
 | Vannes                   |         2 |   0        |
+| US Bressane              |         2 |   0        |
+| Tarbes                   |         2 |   0.5      |
 | Perpignan                |         2 |   1        |
 | Worcester Warriors       |         2 |   1        |
-| US Bressane              |         2 |   0        |
 | Nevers                   |         2 |   0.5      |
 | Munster                  |         2 |   0        |
 | Massy                    |         2 |   1        |

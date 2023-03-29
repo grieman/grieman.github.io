@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Grant  
-date: 2023-03-17 17:34:06.153654  
+date: 2023-03-21 18:25:45.826510  
 categories: player  
 ---
 # Will Grant
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 80.0

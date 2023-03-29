@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ratu Meli Derenalagi  
-date: 2023-03-17 17:26:20.450862  
+date: 2023-03-21 18:44:43.454220  
 categories: player  
 ---
 # Ratu Meli Derenalagi
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 107.0
+## Current elo: 113.0
 
-## Current Percentile: 77.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,11 +23,12 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |            10 |        0.3 |
+| Fijian Drua |            11 |   0.272727 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Brumbies                 |         2 |          0 |
+| Queensland Reds          |         2 |          0 |
 | Blues                    |         1 |          0 |
 | Crusaders                |         1 |          1 |
 | Highlanders              |         1 |          0 |
@@ -33,4 +36,3 @@ categories: player
 | Melbourne Rebels         |         1 |          1 |
 | Moana Pasifika           |         1 |          1 |
 | New South Wales Waratahs |         1 |          0 |
-| Queensland Reds          |         1 |          0 |

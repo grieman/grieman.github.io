@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jordan Burns  
-date: 2023-02-02 18:45:07.068313  
+date: 2023-03-21 18:40:56.120886  
 categories: player  
 ---
 # Jordan Burns
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 92.0

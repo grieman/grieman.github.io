@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Massimo Ortolan  
-date: 2023-03-17 17:37:39.782401  
+date: 2023-03-21 18:43:00.574763  
 categories: player  
 ---
 # Massimo Ortolan
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 81.0
 
-## Current Percentile: 43.0
+## Current Percentile: 42.0
 
 # Elo History
 

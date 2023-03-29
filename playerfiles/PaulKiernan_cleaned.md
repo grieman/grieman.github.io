@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Paul Kiernan  
-date: 2023-02-02 19:08:00.654324  
+date: 2023-03-21 17:58:01.270188  
 categories: player  
 ---
 # Paul Kiernan
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 83.0
+## Current elo: 66.0
 
-## Current Percentile: 9.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,17 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Richmond |            13 |   0.269231 |
+| Richmond |            16 |    0.21875 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ealing Trailfinders |         3 |        0   |
+| Bedford             |         2 |        0.5 |
 | Caldy               |         2 |        0   |
 | Doncaster           |         2 |        0   |
 | Hartpury College    |         2 |        0.5 |
+| Nottingham          |         2 |        0   |
 | Ampthill            |         1 |        0.5 |
-| Bedford             |         1 |        1   |
 | Cornish Pirates     |         1 |        0   |
-| Coventry            |         1 |        0   |
-| Ealing Trailfinders |         1 |        0   |
 | London Scottish     |         1 |        1   |
-| Nottingham          |         1 |        0   |

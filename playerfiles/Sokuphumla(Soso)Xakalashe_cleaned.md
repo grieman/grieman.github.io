@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sokuphumla (Soso) Xakalashe  
-date: 2023-03-17 17:27:23.246572  
+date: 2023-03-21 18:50:41.608761  
 categories: player  
 ---
 # Sokuphumla (Soso) Xakalashe
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 94.0
+## Current elo: 87.0
 
-## Current Percentile: 61.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Griffons        |            18 |   0.833333 |
+| Griffons        |            19 |   0.789474 |
 | Border Bulldogs |            16 |   0.3125   |
 
 | Opponent               |   Matches |   Win Rate |
@@ -34,6 +36,7 @@ categories: player
 | Border Bulldogs        |         2 |   1        |
 | Namibia Welwitchias    |         2 |   1        |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Jaguares XV            |         1 |   0        |
 | Natal Sharks           |         1 |   0        |
 | Tusker Simba           |         1 |   1        |

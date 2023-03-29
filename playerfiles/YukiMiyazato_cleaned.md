@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yuki Miyazato  
-date: 2023-03-17 17:42:27.422465  
+date: 2023-03-21 18:18:13.287419  
 categories: player  
 ---
 # Yuki Miyazato
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 78.0
+## Current elo: 77.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            18 |   0.416667 |
+| Mitsubishi Dynaboars |            19 |   0.394737 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Saitama Wild Knights              |         3 |       0    |
 | Green Rockets Tokatsu             |         2 |       0.5  |
-| Saitama Wild Knights              |         2 |       0    |
 | Shizuoka Blue Revs                |         2 |       0.25 |
 | Toshiba Brave Lupus Tokyo         |         2 |       0.5  |
 | Black Rams Tokyo                  |         1 |       1    |

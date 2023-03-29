@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Angus Wagner  
-date: 2023-03-17 17:11:41.027692  
+date: 2023-03-21 18:26:34.270945  
 categories: player  
 ---
 # Angus Wagner
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 93.0
 
-## Current Percentile: 54.0
+## Current Percentile: 55.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dian Bleuler  
-date: 2023-03-17 17:22:13.698513  
+date: 2023-03-21 18:51:52.544665  
 categories: player  
 ---
 # Dian Bleuler
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 23.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -22,12 +24,12 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Sharks           |            14 |   0.428571 |
-| Natal Sharks     |            11 |   0.545455 |
+| Natal Sharks     |            12 |   0.5      |
 | Western Province |             6 |   0.75     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Griquas             |         3 |   0.666667 |
+| Griquas             |         4 |   0.5      |
 | Stormers            |         3 |   0        |
 | Free State Cheetahs |         3 |   0.333333 |
 | Golden Lions        |         3 |   0.666667 |

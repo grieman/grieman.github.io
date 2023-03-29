@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Patxi BIDART  
-date: 2023-03-06 11:23:10.057367  
+date: 2023-03-29 11:30:30.066433  
 categories: player  
 ---
 # Patxi BIDART
 
+
+Last updated: 2023-03-29
 ## Positions: H
 
-## Current elo: 93.0
+## Current elo: 88.0
 
-## Current Percentile: 34.0
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,28 +23,28 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |            35 |   0.571429 |
+| Soyaux-Angouleme |            37 |   0.567568 |
 | Mont-de-Marsan   |             2 |   0        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Aurillac                   |         3 |   0        |
 | Massy                      |         3 |   0.333333 |
+| Grenoble                   |         2 |   0.5      |
 | Nevers                     |         2 |   0        |
 | Aubenas                    |         2 |   1        |
-| Aurillac                   |         2 |   0        |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Tarbes                     |         2 |   0.5      |
 | Blagnac                    |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   1        |
 | Carcassonne                |         2 |   1        |
 | Albi                       |         2 |   1        |
-| Agen                       |         1 |   1        |
 | Suresnes                   |         1 |   1        |
 | Rouen                      |         1 |   0        |
 | Provence Rugby             |         1 |   0        |
 | Oyonnax                    |         1 |   0        |
 | Nice                       |         1 |   1        |
-| Grenoble                   |         1 |   0        |
+| Agen                       |         1 |   1        |
 | Montauban                  |         1 |   1        |
 | Mont-de-Marsan             |         1 |   0        |
 | Dijon                      |         1 |   0        |

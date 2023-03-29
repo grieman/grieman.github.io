@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Keagan September  
-date: 2023-03-17 17:23:15.200864  
+date: 2023-03-20 15:47:54.713185  
 categories: player  
 ---
 # Keagan September
 
+
+Last updated: 2023-03-20
 ## Positions: FH, C
 
-## Current elo: 103.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 

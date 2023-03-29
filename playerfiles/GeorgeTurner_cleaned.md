@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: George Turner  
-date: 2023-03-17 17:26:59.798676  
+date: 2023-03-21 18:06:13.224673  
 categories: player  
 ---
 # George Turner
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Scotland
 
-## Current elo: 120.0
+## Current elo: 118.0
 
-## Current Percentile: 96.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            81 |   0.580247 |
-| Scotland         |            31 |   0.612903 |
+| Scotland         |            32 |   0.625    |
 | Edinburgh        |            20 |   0.4      |
 | London Scottish  |             3 |   0.666667 |
 
@@ -43,25 +45,25 @@ categories: player
 | Benetton Treviso         |         4 |   0.5      |
 | Southern Kings           |         3 |   0.666667 |
 | La Rochelle              |         3 |   0.333333 |
+| Italy                    |         3 |   1        |
 | Ireland                  |         3 |   0        |
 | Ulster                   |         3 |   0.333333 |
 | Wales                    |         3 |   0.333333 |
 | England                  |         3 |   1        |
 | Dragons                  |         3 |   1        |
-| Lyon                     |         2 |   1        |
-| Bath Rugby               |         2 |   0.75     |
-| Sharks                   |         2 |   0.5      |
-| Munster                  |         2 |   1        |
-| Cheetahs                 |         2 |   1        |
 | Stormers                 |         2 |   0.5      |
-| Australia                |         2 |   0.5      |
-| Bulls                    |         2 |   0.5      |
+| Bath Rugby               |         2 |   0.75     |
 | Sale Sharks              |         2 |   1        |
-| Italy                    |         2 |   1        |
+| Bulls                    |         2 |   0.5      |
+| Australia                |         2 |   0.5      |
 | Glasgow Warriors         |         2 |   1        |
+| Lyon                     |         2 |   1        |
+| Cheetahs                 |         2 |   1        |
+| Munster                  |         2 |   1        |
+| Sharks                   |         2 |   0.5      |
+| Saracens                 |         1 |   0        |
 | United States of America |         1 |   0        |
 | Tonga                    |         1 |   1        |
-| Saracens                 |         1 |   0        |
 | Samoa                    |         1 |   1        |
 | Canada                   |         1 |   1        |
 | Russia                   |         1 |   1        |

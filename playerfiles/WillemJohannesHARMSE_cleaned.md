@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Willem Johannes HARMSE  
-date: 2023-03-17 17:27:34.436944  
+date: 2023-03-29 11:28:30.066067  
 categories: player  
 ---
 # Willem Johannes HARMSE
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: 30.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,30 +23,30 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            89 |   0.522472 |
+| US Bressane |            89 |   0.516854 |
 | Narbonne    |            43 |   0.430233 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         7 |   0.428571 |
 | Tarbes                     |         7 |   0.285714 |
-| Narbonne                   |         7 |   0.571429 |
 | Carcassonne                |         7 |   0.571429 |
+| Dax                        |         6 |   0.5      |
 | Oyonnax                    |         6 |   0.333333 |
 | Beziers                    |         6 |   0.5      |
-| Dax                        |         6 |   0.5      |
+| Narbonne                   |         6 |   0.5      |
 | Colomiers                  |         5 |   0.4      |
-| Provence Rugby             |         5 |   0.4      |
 | Auch                       |         5 |   0.3      |
+| Bourgoin-Jallieu           |         5 |   0.5      |
 | Massy                      |         5 |   0.8      |
 | Albi                       |         5 |   0.6      |
+| Provence Rugby             |         5 |   0.4      |
 | Montauban                  |         4 |   0.375    |
 | Mont-de-Marsan             |         4 |   0.25     |
 | Pau                        |         4 |   0        |
-| Bourgoin-Jallieu           |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         3 |   1        |
-| Chambery                   |         3 |   0.666667 |
 | Lyon                       |         3 |   0.333333 |
+| Chambery                   |         3 |   0.666667 |
 | Brive                      |         3 |   0.666667 |
 | Blagnac                    |         3 |   0.666667 |
 | Nevers                     |         3 |   0.333333 |

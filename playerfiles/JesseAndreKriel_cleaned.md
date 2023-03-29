@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jesse Andre Kriel  
-date: 2023-03-17 17:24:29.722511  
+date: 2023-03-21 18:17:35.391215  
 categories: player  
 ---
 # Jesse Andre Kriel
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 114.0
+## Current elo: 124.0
 
-## Current Percentile: 83.0
+## Current Percentile: 86.0
 
 # Elo History
 
@@ -21,18 +23,17 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            11 |   0.727273 |
+| Yokohama Canon Eagles |            11 |   0.636364 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         1 |        1   |
-| Green Rockets Tokatsu             |         1 |        1   |
-| Hanazono Kintetsu Liners          |         1 |        1   |
-| Kobelco Kobe Steelers             |         1 |        1   |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |        0.5 |
-| Mitsubishi Dynaboars              |         1 |        1   |
-| Saitama Wild Knights              |         1 |        0   |
-| Shizuoka Blue Revs                |         1 |        0.5 |
-| Tokyo Sungoliath                  |         1 |        0   |
-| Toshiba Brave Lupus Tokyo         |         1 |        1   |
-| Toyota Verblitz                   |         1 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         2 |       0.25 |
+| Black Rams Tokyo                  |         1 |       1    |
+| Green Rockets Tokatsu             |         1 |       1    |
+| Hanazono Kintetsu Liners          |         1 |       1    |
+| Mitsubishi Dynaboars              |         1 |       1    |
+| Saitama Wild Knights              |         1 |       0    |
+| Shizuoka Blue Revs                |         1 |       0.5  |
+| Tokyo Sungoliath                  |         1 |       0    |
+| Toshiba Brave Lupus Tokyo         |         1 |       1    |
+| Toyota Verblitz                   |         1 |       1    |

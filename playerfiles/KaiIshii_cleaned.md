@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kai Ishii  
-date: 2023-02-15 22:14:51.996916  
+date: 2023-03-21 18:07:58.545386  
 categories: player  
 ---
 # Kai Ishii
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 111.0
+## Current elo: 129.0
 
-## Current Percentile: 79.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Urayasu D-Rocks           |            36 |   0.458333 |
+| Urayasu D-Rocks           |            39 |   0.5      |
 | Toshiba Brave Lupus Tokyo |            11 |   0.545455 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -33,14 +35,15 @@ categories: player
 | Kubota Spears Funabashi Tokyo-Bay |         4 |   0.25     |
 | Munakata Sanix Blues              |         3 |   1        |
 | Toyota Verblitz                   |         3 |   0        |
+| Toyota Industries Shuttles Aichi  |         3 |   1        |
 | Mitsubishi Dynaboars              |         3 |   0.166667 |
-| Toyota Industries Shuttles Aichi  |         2 |   1        |
 | Toshiba Brave Lupus Tokyo         |         2 |   1        |
 | Shizuoka Blue Revs                |         2 |   0        |
 | Black Rams Tokyo                  |         2 |   1        |
 | Mie Honda Heat                    |         2 |   1        |
+| Kamaishi Seawaves                 |         2 |   1        |
 | Hino Red Dolphins                 |         2 |   1        |
+| Shimizu Blue Sharks               |         1 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         1 |   1        |
 | Coca-Cola Red Sparks              |         1 |   1        |
-| Kamaishi Seawaves                 |         1 |   1        |
 | Yokohama Canon Eagles             |         1 |   0        |

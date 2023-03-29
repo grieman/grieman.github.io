@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Antonie Delport Claasen  
-date: 2023-03-17 17:11:38.507829  
+date: 2023-03-21 18:27:14.457593  
 categories: player  
 ---
 # Antonie Delport Claasen
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 85.0
+## Current elo: 89.0
 
-## Current Percentile: 17.0
+## Current Percentile: 24.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             7 |   0.142857 |
+| Suresnes |             6 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,5 +32,4 @@ categories: player
 | Dax                        |         1 |          0 |
 | Narbonne                   |         1 |          0 |
 | Nice                       |         1 |          0 |
-| Rennes                     |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          0 |

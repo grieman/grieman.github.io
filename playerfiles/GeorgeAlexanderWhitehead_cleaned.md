@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: George Alexander Whitehead  
-date: 2023-03-16 21:09:04.243842  
+date: 2023-03-21 18:14:15.409142  
 categories: player  
 ---
 # George Alexander Whitehead
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 94.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,8 +19,9 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |             1 |          0 |
+| Griquas |             2 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Free State Cheetahs |         1 |          0 |
+| Natal Sharks        |         1 |          1 |

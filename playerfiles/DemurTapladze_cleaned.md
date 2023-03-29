@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Demur Tapladze  
-date: 2023-02-15 22:14:57.879866  
+date: 2023-03-21 18:00:20.470132  
 categories: player  
 ---
 # Demur Tapladze
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Georgia
 
-## Current elo: 98.0
+## Current elo: 92.0
 
-## Current Percentile: 43.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -23,19 +25,18 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Black Lion |            22 |   0.795455 |
-| Georgia    |            18 |   0.722222 |
+| Black Lion |            20 |   0.775    |
+| Georgia    |            17 |   0.705882 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Tel-Aviv Heat            |         5 |   0.7      |
-| Netherlands              |         3 |   1        |
+| Tel-Aviv Heat            |         4 |   0.625    |
 | Portugal                 |         3 |   0.833333 |
-| RC Batumi                |         2 |   1        |
-| Castilla y Leon Iberians |         2 |   1        |
+| Netherlands              |         2 |   1        |
 | Spain                    |         2 |   1        |
 | Lokomotiv Penza          |         2 |   0.5      |
 | Romanian Wolves          |         2 |   1        |
+| RC Batumi                |         2 |   1        |
 | Wales                    |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | South Africa             |         1 |   0        |
@@ -53,5 +54,6 @@ categories: player
 | Fiji                     |         1 |   0.5      |
 | Enisey-STM Krasnoyarsk   |         1 |   1        |
 | Eastern Province Kings   |         1 |   1        |
+| Castilla y Leon Iberians |         1 |   1        |
 | Border Bulldogs          |         1 |   1        |
 | Zimbabwe Goshawks        |         1 |   1        |

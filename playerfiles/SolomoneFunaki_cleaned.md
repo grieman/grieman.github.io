@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Solomone Funaki  
-date: 2023-03-17 17:03:39.433590  
+date: 2023-03-21 18:54:31.608862  
 categories: player  
 ---
 # Solomone Funaki
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Country: Tonga
 
 ## Current elo: 92.0
 
-## Current Percentile: 37.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Hawke's Bay       |            15 |   0.7      |
-| Moana Pasifika    |            14 |   0.142857 |
+| Moana Pasifika    |            15 |   0.133333 |
 | Seattle Seawolves |             9 |   0.444444 |
 | Tonga             |             8 |   0.5      |
 
@@ -35,17 +37,18 @@ categories: player
 | Austin Gilgronis         |         2 |   0        |
 | San Diego Legion         |         2 |   1        |
 | Wellington               |         2 |   0.5      |
+| Brumbies                 |         2 |   0.5      |
 | Bay of Plenty            |         2 |   0.5      |
-| Manawatu                 |         2 |   1        |
 | Dallas Jackals           |         2 |   1        |
+| Manawatu                 |         2 |   1        |
 | Fijian Drua              |         2 |   0        |
 | R.U. New York            |         1 |   0        |
 | Rugby New York           |         1 |   0        |
 | Samoa                    |         1 |   0        |
-| Southland                |         1 |   1        |
-| Scotland                 |         1 |   0        |
-| Otago                    |         1 |   1        |
 | Spain                    |         1 |   1        |
+| Scotland                 |         1 |   0        |
+| Southland                |         1 |   1        |
+| Otago                    |         1 |   1        |
 | Tasman                   |         1 |   1        |
 | Uruguay                  |         1 |   1        |
 | Waikato                  |         1 |   0.5      |
@@ -62,6 +65,5 @@ categories: player
 | Crusaders                |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
 | Chile                    |         1 |   1        |
-| Brumbies                 |         1 |   1        |
 | Blues                    |         1 |   0        |
 | Western Force            |         1 |   0        |

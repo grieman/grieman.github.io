@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kalani Thomas  
-date: 2023-03-17 17:19:50.984867  
+date: 2023-03-21 18:42:05.407214  
 categories: player  
 ---
 # Kalani Thomas
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 100.0
+## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            24 |   0.541667 |
+| Queensland Reds |            25 |       0.56 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -29,10 +31,10 @@ categories: player
 | Western Force            |         4 |       0.75 |
 | Crusaders                |         3 |       0    |
 | Hurricanes               |         3 |       0    |
+| Fijian Drua              |         2 |       1    |
 | Melbourne Rebels         |         2 |       1    |
 | New South Wales Waratahs |         2 |       1    |
 | Blues                    |         1 |       0    |
 | Chiefs                   |         1 |       1    |
-| Fijian Drua              |         1 |       1    |
 | Highlanders              |         1 |       0    |
 | Moana Pasifika           |         1 |       1    |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Giorgi Akhaladze  
-date: 2023-02-02 18:52:21.954031  
+date: 2023-03-21 18:02:03.769311  
 categories: player  
 ---
 # Giorgi Akhaladze
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 103.0
 
-## Current Percentile: 52.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,26 +23,26 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Beziers |            32 |   0.53125  |
+| Beziers |            36 |   0.513889 |
 | Massy   |             6 |   0.333333 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | US Bressane        |         4 |   0.25     |
+| Nevers             |         4 |   0.375    |
+| Montauban          |         4 |   0.75     |
 | Provence Rugby     |         3 |   0.333333 |
-| Nevers             |         3 |   0.333333 |
-| Montauban          |         3 |   0.666667 |
 | Agen               |         2 |   1        |
-| Colomiers          |         2 |   0.5      |
+| Grenoble           |         2 |   0.5      |
 | Rouen              |         2 |   0.5      |
 | Narbonne           |         2 |   1        |
+| Mont-de-Marsan     |         2 |   0.5      |
 | Vannes             |         2 |   0.5      |
+| Colomiers          |         2 |   0.5      |
 | Carcassonne        |         2 |   0        |
 | Bayonne            |         2 |   0.5      |
 | Aurillac           |         2 |   0.5      |
-| Grenoble           |         1 |   1        |
 | Aubenas            |         1 |   1        |
-| Mont-de-Marsan     |         1 |   1        |
 | Chambery           |         1 |   0        |
 | Blagnac            |         1 |   0        |
 | Oyonnax            |         1 |   0        |

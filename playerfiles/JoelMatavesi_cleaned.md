@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joel Matavesi  
-date: 2023-03-17 17:26:57.508767  
+date: 2023-03-21 18:15:31.849810  
 categories: player  
 ---
 # Joel Matavesi
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

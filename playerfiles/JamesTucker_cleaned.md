@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: James Tucker  
-date: 2023-03-17 17:19:07.576381  
+date: 2023-03-21 18:16:45.186697  
 categories: player  
 ---
 # James Tucker
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Provincial Union XV
 
-## Current elo: 112.0
+## Current elo: 111.0
 
-## Current Percentile: 87.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
 | Waikato                   |            56 |   0.473214 |
-| Blues                     |            15 |   0.933333 |
+| Blues                     |            16 |   0.875    |
 | Brumbies                  |             5 |   0.8      |
 | Chiefs                    |             4 |   1        |
 | Zebre                     |             4 |   0.25     |
@@ -50,6 +52,7 @@ categories: player
 | Canterbury               |         3 |   0.333333 |
 | Queensland Reds          |         2 |   0.5      |
 | Southland                |         2 |   1        |
+| Crusaders                |         2 |   0.5      |
 | Counties Manukau         |         2 |   0.5      |
 | Green Rockets Tokatsu    |         1 |   0        |
 | British and Irish Lions  |         1 |   0        |
@@ -59,7 +62,6 @@ categories: player
 | Sharks                   |         1 |   1        |
 | Connacht                 |         1 |   1        |
 | Hino Red Dolphins        |         1 |   1        |
-| Crusaders                |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
 | Munster                  |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |

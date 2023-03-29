@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ricky Riccitelli  
-date: 2023-03-17 17:22:56.270530  
+date: 2023-03-21 18:39:31.837000  
 categories: player  
 ---
 # Ricky Riccitelli
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Hurricanes
@@ -26,11 +28,11 @@ categories: player
 | Hurricanes  |            73 |   0.691781 |
 | Taranaki    |            43 |   0.534884 |
 | Hawke's Bay |            17 |   0.470588 |
-| Blues       |            13 |   0.846154 |
+| Blues       |            14 |   0.785714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |        11 |   0.454545 |
+| Crusaders                |        12 |   0.416667 |
 | Chiefs                   |        11 |   0.636364 |
 | Highlanders              |        10 |   0.7      |
 | Blues                    |         8 |   0.75     |

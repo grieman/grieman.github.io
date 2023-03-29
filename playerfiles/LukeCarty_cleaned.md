@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luke Carty  
-date: 2023-03-17 17:04:07.876053  
+date: 2023-03-21 18:30:52.880299  
 categories: player  
 ---
 # Luke Carty
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: United States of America

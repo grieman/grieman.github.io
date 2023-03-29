@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nick Royle  
-date: 2023-02-02 18:47:52.909979  
+date: 2023-03-21 17:58:23.702253  
 categories: player  
 ---
 # Nick Royle
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 98.0

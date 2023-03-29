@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ugo Delorme  
-date: 2023-01-13 11:24:34.866971  
+date: 2023-03-21 18:33:22.675097  
 categories: player  
 ---
 # Ugo Delorme
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,8 +23,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |             1 |          0 |
+| Rouen  |             4 |      0.125 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Agen       |         1 |          0 |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Agen               |         1 |        0   |
+| Aurillac           |         1 |        0   |
+| Biarritz Olympique |         1 |        0   |
+| Provence Rugby     |         1 |        0.5 |

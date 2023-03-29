@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cameron Henderson  
-date: 2023-03-16 19:55:35.703259  
+date: 2023-03-21 18:38:28.789584  
 categories: player  
 ---
 # Cameron Henderson
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 123.0
+## Current elo: 122.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 

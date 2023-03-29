@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Emoni Narawa  
-date: 2023-03-17 17:04:20.694616  
+date: 2023-03-21 18:13:14.566450  
 categories: player  
 ---
 # Emoni Narawa
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 102.0
+## Current elo: 105.0
 
-## Current Percentile: 59.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Bay of Plenty |            24 |   0.708333 |
-| Chiefs        |            12 |   0.833333 |
+| Chiefs        |            13 |   0.846154 |
 | Blues         |             7 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -39,10 +41,10 @@ categories: player
 | Hurricanes               |         2 |   0.5      |
 | New South Wales Waratahs |         2 |   1        |
 | Manawatu                 |         2 |   1        |
+| Melbourne Rebels         |         2 |   1        |
 | Auckland                 |         1 |   1        |
 | Otago                    |         1 |   1        |
 | Lions                    |         1 |   1        |
-| Melbourne Rebels         |         1 |   1        |
 | Blues                    |         1 |   0        |
 | Fijian Drua              |         1 |   1        |
 | Counties Manukau         |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Joshua Trevor Stander  
-date: 2023-03-02 11:24:42.730782  
+date: 2023-03-21 17:56:16.416292  
 categories: player  
 ---
 # Joshua Trevor Stander
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
-## Current elo: 90.0
+## Current elo: 73.0
 
-## Current Percentile: 28.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,12 +23,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             6 |   0.166667 |
+| Kamaishi Seawaves |             8 |      0.125 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Mie Honda Heat                   |         2 |          0 |
-| Hino Red Dolphins                |         1 |          0 |
-| Shimizu Blue Sharks              |         1 |          1 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
-| Urayasu D-Rocks                  |         1 |          0 |
+| Mie Honda Heat                   |         2 |        0   |
+| Shimizu Blue Sharks              |         2 |        0.5 |
+| Toyota Industries Shuttles Aichi |         2 |        0   |
+| Urayasu D-Rocks                  |         2 |        0   |

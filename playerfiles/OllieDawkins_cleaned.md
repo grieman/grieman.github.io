@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ollie Dawkins  
-date: 2023-03-02 11:28:03.824963  
+date: 2023-03-21 18:36:44.365226  
 categories: player  
 ---
 # Ollie Dawkins
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 102.0
+## Current elo: 113.0
 
-## Current Percentile: None
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,9 +23,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Ampthill |             2 |          1 |
+| Ampthill |             4 |          1 |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
+| Caldy           |         1 |          1 |
+| Doncaster       |         1 |          1 |
 | London Scottish |         1 |          1 |
 | Nottingham      |         1 |          1 |

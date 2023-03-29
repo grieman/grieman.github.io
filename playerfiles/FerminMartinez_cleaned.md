@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fermin Martinez  
-date: 2023-03-16 20:08:58.320846  
+date: 2023-03-21 18:57:34.312480  
 categories: player  
 ---
 # Fermin Martinez
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 123.0
+## Current elo: 126.0
 
-## Current Percentile: 96.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Belgrano     |            68 |   0.610294 |
-| Old Glory DC |             3 |   0.333333 |
+| Old Glory DC |             4 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -44,3 +46,4 @@ categories: player
 | Rugby New York         |         1 |   0        |
 | Chicago Hounds         |         1 |   1        |
 | Buenos Aires           |         1 |   0.5      |
+| Toronto Arrows         |         1 |   1        |

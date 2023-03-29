@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Martin Augeix  
-date: 2023-03-17 17:31:04.908369  
+date: 2023-03-21 18:08:31.642717  
 categories: player  
 ---
 # Martin Augeix
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 92.0

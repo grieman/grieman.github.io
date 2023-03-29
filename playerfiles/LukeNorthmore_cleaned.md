@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luke Northmore  
-date: 2023-03-17 17:23:54.901325  
+date: 2023-03-21 18:39:57.671465  
 categories: player  
 ---
 # Luke Northmore
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 89.0

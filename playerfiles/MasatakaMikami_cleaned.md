@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Masataka Mikami  
-date: 2023-03-17 17:38:18.896013  
+date: 2023-03-21 18:43:34.740217  
 categories: player  
 ---
 # Masataka Mikami
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

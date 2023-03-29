@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom Florence  
-date: 2023-03-17 17:33:44.008207  
+date: 2023-03-21 18:28:16.549011  
 categories: player  
 ---
 # Tom Florence
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 113.0

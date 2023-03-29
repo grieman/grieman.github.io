@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Siokivaha Taufui  
-date: 2023-02-04 18:29:05.520078  
+date: 2023-03-21 18:56:30.330348  
 categories: player  
 ---
 # Siokivaha Taufui
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Poland
 
-## Current elo: 86.0
+## Current elo: 76.0
 
-## Current Percentile: None
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,8 +25,10 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             4 |       0.25 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Romania    |         1 |          0 |
+| Belgium    |         2 |        0.5 |
+| Germany    |         1 |        0   |
+| Romania    |         1 |        0   |

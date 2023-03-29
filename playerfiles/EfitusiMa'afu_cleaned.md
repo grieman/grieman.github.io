@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Efitusi Ma'afu  
-date: 2023-01-15 11:57:07.751518  
+date: 2023-03-21 18:42:18.041698  
 categories: player  
 ---
 # Efitusi Ma'afu
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 73.0
+## Current elo: 98.0
 
-## Current Percentile: 2.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -19,34 +21,14 @@ categories: player
 # Match History
 
 
-| Team                  |   Appearances |   Win Rate |
-|:----------------------|--------------:|-----------:|
-| Rouen                 |            12 |   0.416667 |
-| Queensland Country    |            10 |   0.6      |
-| Yokohama Canon Eagles |             3 |   0        |
+| Team   |   Appearances |   Win Rate |
+|:-------|--------------:|-----------:|
+| Rouen  |             5 |        0.7 |
 
-| Opponent                        |   Matches |   Win Rate |
-|:--------------------------------|----------:|-----------:|
-| Western Force                   |         2 |          0 |
-| NSW Country Eagles              |         2 |          1 |
-| Montauban                       |         1 |          1 |
-| Vannes                          |         1 |          1 |
-| Sydney Rays                     |         1 |          1 |
-| Soyaux-Angouleme                |         1 |          1 |
-| Saitama Wild Knights            |         1 |          0 |
-| Provence Rugby                  |         1 |          0 |
-| Perth Spirit                    |         1 |          0 |
-| Nevers                          |         1 |          0 |
-| NTT Docomo Red Hurricanes Osaka |         1 |          0 |
-| Agen                            |         1 |          0 |
-| Aurillac                        |         1 |          0 |
-| Melbourne Rising                |         1 |          1 |
-| Kobelco Kobe Steelers           |         1 |          0 |
-| Grenoble                        |         1 |          0 |
-| Fijian Drua                     |         1 |          1 |
-| Carcassonne                     |         1 |          0 |
-| Canberra Vikings                |         1 |          1 |
-| Brisbane City                   |         1 |          0 |
-| Biarritz Olympique              |         1 |          1 |
-| Beziers                         |         1 |          0 |
-| Mont-de-Marsan                  |         1 |          1 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Grenoble         |         1 |        0   |
+| Massy            |         1 |        1   |
+| Oyonnax          |         1 |        1   |
+| Provence Rugby   |         1 |        0.5 |
+| Soyaux-Angouleme |         1 |        1   |

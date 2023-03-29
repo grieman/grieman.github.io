@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Carel-Jan Coetzee  
-date: 2023-03-17 17:26:23.380479  
+date: 2023-03-21 18:32:30.898666  
 categories: player  
 ---
 # Carel-Jan Coetzee
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 63.0
+## Current elo: 56.0
 
-## Current Percentile: None
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Griffons            |             8 |      0.875 |
-| Free State Cheetahs |             7 |      0     |
+| Griffons            |             9 |   0.777778 |
+| Free State Cheetahs |             7 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Natal Sharks           |         4 |          0 |
 | Eastern Province Kings |         2 |          1 |
 | Black Lion             |         1 |          1 |
+| Free State Cheetahs    |         1 |          0 |
 | Golden Lions           |         1 |          0 |
 | Griquas                |         1 |          0 |
 | Leopards               |         1 |          1 |

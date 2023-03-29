@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Elias Coulibaly  
-date: 2023-03-17 17:42:28.601120  
+date: 2023-03-21 18:11:35.053450  
 categories: player  
 ---
 # Elias Coulibaly
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 53.0
+## Current Percentile: 56.0
 
 # Elo History
 

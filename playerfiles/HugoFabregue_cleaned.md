@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hugo Fabregue  
-date: 2023-02-02 18:56:40.309535  
+date: 2023-03-21 18:38:26.406587  
 categories: player  
 ---
 # Hugo Fabregue
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

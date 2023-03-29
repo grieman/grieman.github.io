@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Chance Wenglewski  
-date: 2023-03-16 20:04:12.830034  
+date: 2023-03-21 18:20:25.011781  
 categories: player  
 ---
 # Chance Wenglewski
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: United States of America
 
 ## Current elo: 91.0
 
-## Current Percentile: 33.0
+## Current Percentile: 34.0
 
 # Elo History
 

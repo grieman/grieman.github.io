@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Andrew Quattrin  
-date: 2023-03-17 17:02:03.399391  
+date: 2023-03-21 18:51:33.764692  
 categories: player  
 ---
 # Andrew Quattrin
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 92.0

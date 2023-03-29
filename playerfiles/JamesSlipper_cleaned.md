@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: James Slipper  
-date: 2023-03-17 17:42:17.786306  
+date: 2023-03-21 18:20:47.332251  
 categories: player  
 ---
 # James Slipper
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Australia
 
 ## Current elo: 126.0
 
-## Current Percentile: 98.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Australia          |           130 |   0.534615 |
 | Queensland Reds    |           104 |   0.490385 |
-| Brumbies           |            57 |   0.736842 |
+| Brumbies           |            58 |   0.741379 |
 | Queensland Country |            12 |   0.583333 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -42,32 +44,32 @@ categories: player
 | France                   |        11 |   0.636364 |
 | Queensland Reds          |        10 |   0.6      |
 | Chiefs                   |         9 |   0.666667 |
-| Blues                    |         8 |   0.625    |
-| Crusaders                |         8 |   0.125    |
 | Highlanders              |         8 |   0.75     |
+| Crusaders                |         8 |   0.125    |
 | Hurricanes               |         8 |   0.375    |
+| Blues                    |         8 |   0.625    |
+| Sharks                   |         7 |   0.428571 |
 | Bulls                    |         7 |   0.571429 |
 | Stormers                 |         7 |   0.428571 |
-| Sharks                   |         7 |   0.428571 |
-| Ireland                  |         6 |   0.333333 |
 | Lions                    |         6 |   0.5      |
-| Sunwolves                |         5 |   0.8      |
+| Ireland                  |         6 |   0.333333 |
 | Cheetahs                 |         5 |   0.8      |
 | Fijian Drua              |         5 |   0.8      |
+| Sunwolves                |         5 |   0.8      |
 | Italy                    |         4 |   1        |
 | Scotland                 |         4 |   0.75     |
 | Jaguares                 |         3 |   0.333333 |
 | Fiji                     |         3 |   1        |
-| Melbourne Rising         |         2 |   0.5      |
 | United States of America |         2 |   1        |
+| Moana Pasifika           |         2 |   0.5      |
 | British and Irish Lions  |         2 |   0.5      |
-| Uruguay                  |         1 |   1        |
-| Brisbane City            |         1 |   0        |
-| Moana Pasifika           |         1 |   0        |
-| Samoa                    |         1 |   1        |
+| Melbourne Rising         |         2 |   0.5      |
 | Russia                   |         1 |   1        |
+| Samoa                    |         1 |   1        |
 | Perth Spirit             |         1 |   0        |
+| Brisbane City            |         1 |   0        |
 | NSW Country Eagles       |         1 |   1        |
 | Georgia                  |         1 |   1        |
+| Uruguay                  |         1 |   1        |
 | Canberra Vikings         |         1 |   1        |
 | Japan                    |         1 |   1        |

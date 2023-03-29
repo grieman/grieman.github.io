@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kazuki Himeno  
-date: 2023-03-17 17:42:43.922998  
+date: 2023-03-21 18:55:00.497324  
 categories: player  
 ---
 # Kazuki Himeno
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Japan

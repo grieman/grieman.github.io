@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ignacio Alfredo Peculo Rodriguez  
-date: 2023-02-28 11:03:27.497970  
+date: 2023-03-21 18:33:37.618577  
 categories: player  
 ---
 # Ignacio Alfredo Peculo Rodriguez
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 92.0
 
-## Current Percentile: None
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,8 +23,10 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |             1 |          1 |
+| Penarol Rugby |             4 |          1 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| American Raptors |         1 |          1 |
+| American Raptors |         2 |          1 |
+| Dogos XV         |         1 |          1 |
+| Yacare XV        |         1 |          1 |

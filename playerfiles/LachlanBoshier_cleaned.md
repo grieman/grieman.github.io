@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lachlan Boshier  
-date: 2023-03-17 17:09:25.417450  
+date: 2023-03-21 17:58:29.123176  
 categories: player  
 ---
 # Lachlan Boshier
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Chiefs

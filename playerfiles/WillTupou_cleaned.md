@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Will Tupou  
-date: 2023-03-17 17:33:29.924462  
+date: 2023-03-21 18:01:52.891182  
 categories: player  
 ---
 # Will Tupou
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: Japan
 
 ## Current elo: 85.0
 
-## Current Percentile: 22.0
+## Current Percentile: 23.0
 
 # Elo History
 

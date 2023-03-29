@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam Chongkit  
-date: 2023-03-17 17:11:46.064005  
+date: 2023-03-21 18:13:48.336177  
 categories: player  
 ---
 # Sam Chongkit
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 97.0
+## Current elo: 94.0
 
-## Current Percentile: 67.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |            14 |   0.714286 |
+| Mitsubishi Dynaboars |            15 |   0.666667 |
 | Munakata Sanix Blues |             3 |   0.333333 |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -36,5 +38,6 @@ categories: player
 | Kobelco Kobe Steelers             |         1 |        0   |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
 | NTT Docomo Red Hurricanes Osaka   |         1 |        1   |
+| Saitama Wild Knights              |         1 |        0   |
 | Tokyo Sungoliath                  |         1 |        0   |
 | Yokohama Canon Eagles             |         1 |        0   |

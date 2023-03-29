@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dimitri Vaotoa  
-date: 2023-02-02 18:55:34.820408  
+date: 2023-03-21 18:16:25.594797  
 categories: player  
 ---
 # Dimitri Vaotoa
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

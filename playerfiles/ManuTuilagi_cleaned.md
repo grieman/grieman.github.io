@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Manu Tuilagi  
-date: 2023-03-16 19:50:26.309890  
+date: 2023-03-21 18:53:01.854731  
 categories: player  
 ---
 # Manu Tuilagi
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Leicester Tigers        |           132 |   0.643939 |
-| England                 |            50 |   0.65     |
+| England                 |            51 |   0.637255 |
 | Sale Sharks             |            31 |   0.564516 |
 | British and Irish Lions |             1 |   1        |
 
@@ -42,13 +44,13 @@ categories: player
 | Wales                |         7 |   0.428571 |
 | Wasps                |         7 |   0.714286 |
 | France               |         6 |   0.666667 |
+| Ireland              |         6 |   0.833333 |
 | Sale Sharks          |         6 |   0.833333 |
 | Bristol Rugby        |         6 |   0.666667 |
 | Worcester Warriors   |         6 |   0.833333 |
 | New Zealand          |         6 |   0.416667 |
 | Australia            |         5 |   0.8      |
 | Ulster               |         5 |   0.4      |
-| Ireland              |         5 |   1        |
 | Racing 92            |         4 |   0        |
 | Argentina            |         4 |   0.75     |
 | Benetton Treviso     |         4 |   1        |

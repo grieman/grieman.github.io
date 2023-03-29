@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Merab Sharikadze  
-date: 2023-02-24 02:24:44.888621  
+date: 2023-03-21 18:43:02.032760  
 categories: player  
 ---
 # Merab Sharikadze
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Georgia

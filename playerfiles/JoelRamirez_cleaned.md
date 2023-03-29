@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joel Ramirez  
-date: 2023-03-17 17:36:07.926323  
+date: 2023-03-21 18:53:48.021169  
 categories: player  
 ---
 # Joel Ramirez
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Brazil

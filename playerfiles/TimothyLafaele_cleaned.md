@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Timothy Lafaele  
-date: 2023-03-17 17:19:40.593301  
+date: 2023-03-21 18:26:13.037974  
 categories: player  
 ---
 # Timothy Lafaele
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Japan

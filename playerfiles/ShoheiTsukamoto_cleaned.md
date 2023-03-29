@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shohei Tsukamoto  
-date: 2023-02-16 11:18:35.690708  
+date: 2023-03-21 18:07:51.803116  
 categories: player  
 ---
 # Shohei Tsukamoto
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 64.0
+## Current elo: 66.0
 
-## Current Percentile: 1.0
+## Current Percentile: 3.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chugoku Red Regulions |            22 |   0.136364 |
+| Chugoku Red Regulions |            23 |   0.130435 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
@@ -31,6 +33,7 @@ categories: player
 | Mazda Blue Zoomers               |         2 |        0.5 |
 | Mitsubishi Dynaboars             |         2 |        0   |
 | NTT Docomo Red Hurricanes Osaka  |         2 |        0   |
+| Skyactivs Hiroshima              |         2 |        0   |
 | Chubu Electric Power             |         1 |        1   |
 | Coca-Cola Red Sparks             |         1 |        0   |
 | Hanazono Kintetsu Liners         |         1 |        0   |
@@ -38,5 +41,4 @@ categories: player
 | Mie Honda Heat                   |         1 |        0   |
 | Munakata Sanix Blues             |         1 |        0   |
 | Shimizu Blue Sharks              |         1 |        0   |
-| Skyactivs Hiroshima              |         1 |        0   |
 | Toyota Industries Shuttles Aichi |         1 |        0   |

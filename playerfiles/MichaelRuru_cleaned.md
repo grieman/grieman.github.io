@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Michael Ruru  
-date: 2023-01-13 11:34:04.446750  
+date: 2023-03-21 18:14:52.344013  
 categories: player  
 ---
 # Michael Ruru
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 111.0
 
-## Current Percentile: 84.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,32 +23,32 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bayonne          |            54 |   0.388889 |
+| Bayonne          |            53 |   0.396226 |
 | Melbourne Rebels |            32 |   0.4375   |
-| Perth Spirit     |            21 |   0.47619  |
-| Western Force    |            10 |   0.4      |
+| Perth Spirit     |            22 |   0.5      |
+| Western Force    |            11 |   0.454545 |
 | Melbourne Rising |             7 |   0.285714 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Queensland Reds          |         6 |   0.833333 |
+| New South Wales Waratahs |         6 |   0.166667 |
+| NSW Country Eagles       |         6 |   0.333333 |
 | Montpellier Herault      |         5 |   0.4      |
 | Stade Francais Paris     |         5 |   0.4      |
 | Brumbies                 |         5 |   0.8      |
-| New South Wales Waratahs |         5 |   0        |
 | Canberra Vikings         |         5 |   0.4      |
-| NSW Country Eagles       |         5 |   0.2      |
 | Agen                     |         4 |   0.75     |
 | Sunwolves                |         4 |   1        |
 | Racing 92                |         4 |   0.75     |
 | Lyon                     |         4 |   0.25     |
 | Brive                    |         4 |   0.375    |
 | Castres Olympique        |         4 |   0.25     |
-| Bordeaux Begles          |         4 |   0        |
 | Clermont Auvergne        |         3 |   0.666667 |
 | Brisbane City            |         3 |   0.666667 |
 | Crusaders                |         3 |   0        |
 | Melbourne Rising         |         3 |   0.666667 |
+| Bordeaux Begles          |         3 |   0        |
 | Stade Toulousain         |         3 |   0.666667 |
 | Pau                      |         3 |   0        |
 | La Rochelle              |         3 |   0.333333 |

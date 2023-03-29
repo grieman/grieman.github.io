@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: William DEMOTTE  
-date: 2023-03-17 17:24:14.559343  
+date: 2023-03-29 11:27:58.392074  
 categories: player  
 ---
 # William DEMOTTE
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Country: France

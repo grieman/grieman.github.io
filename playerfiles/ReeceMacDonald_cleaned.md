@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Reece MacDonald  
-date: 2023-03-17 17:34:40.330841  
+date: 2023-03-21 18:19:30.991328  
 categories: player  
 ---
 # Reece MacDonald
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

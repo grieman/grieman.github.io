@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Gabriel Ibitoye  
-date: 2023-03-17 17:03:30.505253  
+date: 2023-03-21 18:06:15.926627  
 categories: player  
 ---
 # Gabriel Ibitoye
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
-## Current elo: 120.0
+## Current elo: 117.0
 
-## Current Percentile: 89.0
+## Current Percentile: 83.0
 
 # Elo History
 

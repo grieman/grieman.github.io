@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jayson Potroz  
-date: 2023-03-17 17:36:46.990897  
+date: 2023-03-21 18:50:06.364704  
 categories: player  
 ---
 # Jayson Potroz
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 96.0

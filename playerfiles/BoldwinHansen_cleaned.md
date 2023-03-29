@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Boldwin Hansen  
-date: 2023-03-17 17:33:07.866272  
+date: 2023-03-21 18:40:53.952388  
 categories: player  
 ---
 # Boldwin Hansen
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 85.0
 
-## Current Percentile: 9.0
+## Current Percentile: 7.0
 
 # Elo History
 

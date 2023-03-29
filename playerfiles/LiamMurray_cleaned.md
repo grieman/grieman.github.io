@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Liam Murray  
-date: 2023-03-17 17:16:13.174636  
+date: 2023-03-21 18:45:58.294118  
 categories: player  
 ---
 # Liam Murray
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Canada
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Dallas Jackals    |            13 |          0 |
+| Dallas Jackals    |            14 |          0 |
 | Houston SaberCats |             3 |          0 |
 | Canada            |             1 |          1 |
 
@@ -34,6 +36,7 @@ categories: player
 | San Diego Legion  |         2 |          0 |
 | Utah Warriors     |         2 |          0 |
 | Austin Gilgronis  |         1 |          0 |
+| Chicago Hounds    |         1 |          0 |
 | L. A. Giltinis    |         1 |          0 |
 | Netherlands       |         1 |          1 |
 | R.U. New York     |         1 |          0 |

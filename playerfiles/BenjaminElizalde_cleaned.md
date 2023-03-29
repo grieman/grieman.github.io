@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Benjamin Elizalde  
-date: 2023-03-04 11:37:33.694557  
+date: 2023-03-21 18:40:43.009403  
 categories: player  
 ---
 # Benjamin Elizalde
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 99.0
+## Current elo: 89.0
 
-## Current Percentile: 43.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Pampas XV |             3 |   0.666667 |
+| Pampas XV |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
 | Cobras           |         1 |          1 |
+| Dogos XV         |         1 |          0 |
 | Selknam          |         1 |          0 |

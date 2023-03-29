@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hamish Stewart  
-date: 2023-03-17 17:24:17.874857  
+date: 2023-03-21 18:14:36.536611  
 categories: player  
 ---
 # Hamish Stewart
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Country: Chile
@@ -28,7 +30,7 @@ categories: player
 | Chile              |            10 |   0.3      |
 | Selknam            |             9 |   0.333333 |
 | Dallas Jackals     |             4 |   0        |
-| Western Force      |             3 |   0.666667 |
+| Western Force      |             4 |   0.5      |
 | Seattle Seawolves  |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -37,10 +39,10 @@ categories: player
 | Melbourne Rebels         |        13 |   0.730769 |
 | New South Wales Waratahs |        10 |   0.5      |
 | Western Force            |         8 |   0.625    |
+| Highlanders              |         6 |   0        |
 | Crusaders                |         5 |   0        |
 | Sunwolves                |         5 |   0.8      |
 | Fijian Drua              |         5 |   0.6      |
-| Highlanders              |         5 |   0        |
 | Blues                    |         4 |   0.25     |
 | Canberra Vikings         |         4 |   0.75     |
 | Chiefs                   |         4 |   0.25     |

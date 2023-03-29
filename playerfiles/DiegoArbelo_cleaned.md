@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Diego Arbelo  
-date: 2023-03-16 19:59:14.569044  
+date: 2023-03-21 18:41:55.933287  
 categories: player  
 ---
 # Diego Arbelo
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Uruguay

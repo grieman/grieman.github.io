@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shohei Toyoshima  
-date: 2023-03-17 17:19:02.754989  
+date: 2023-03-21 17:58:09.484868  
 categories: player  
 ---
 # Shohei Toyoshima
 
-## Positions: FB, W
 
-## Current elo: 117.0
+Last updated: 2023-03-21
+## Positions: W, FB
 
-## Current Percentile: 88.0
+## Current elo: 112.0
+
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            54 |   0.611111 |
+| Toshiba Brave Lupus Tokyo |            55 |   0.618182 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Kubota Spears Funabashi Tokyo-Bay |         6 |   0.333333 |
 | Green Rockets Tokatsu             |         5 |   0.8      |
+| Toyota Verblitz                   |         5 |   0.6      |
 | Black Rams Tokyo                  |         4 |   0.5      |
-| Toyota Verblitz                   |         4 |   0.5      |
 | Tokyo Sungoliath                  |         4 |   0.5      |
 | Yokohama Canon Eagles             |         4 |   0.75     |
 | Kobelco Kobe Steelers             |         4 |   0.5      |

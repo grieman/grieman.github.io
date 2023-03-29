@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ollie Norris  
-date: 2023-03-17 17:23:39.527597  
+date: 2023-03-21 17:59:27.473688  
 categories: player  
 ---
 # Ollie Norris
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand Maori
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 40.0
+## Current Percentile: 39.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Chiefs            |            34 |   0.676471 |
+| Chiefs            |            35 |   0.685714 |
 | Waikato           |            26 |   0.576923 |
 | New Zealand Maori |             3 |   0.666667 |
 
@@ -37,12 +39,12 @@ categories: player
 | Hurricanes               |         3 |   0.666667 |
 | Taranaki                 |         3 |   0.666667 |
 | New South Wales Waratahs |         3 |   1        |
+| Melbourne Rebels         |         3 |   1        |
 | Bay of Plenty            |         3 |   0.666667 |
 | Otago                    |         3 |   0.333333 |
 | Wellington               |         3 |   0.333333 |
 | Ireland                  |         2 |   0.5      |
 | Hawke's Bay              |         2 |   0        |
-| Melbourne Rebels         |         2 |   1        |
 | Canterbury               |         2 |   0.5      |
 | Brumbies                 |         2 |   0.5      |
 | Samoa                    |         1 |   1        |

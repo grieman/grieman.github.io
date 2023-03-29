@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tyrone Thompson  
-date: 2023-03-17 17:10:33.783654  
+date: 2023-03-21 18:22:27.588618  
 categories: player  
 ---
 # Tyrone Thompson
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: New Zealand Maori
@@ -24,7 +26,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Hawke's Bay       |            11 |   0.5      |
-| Chiefs            |             8 |   0.875    |
+| Chiefs            |             9 |   0.888889 |
 | Wellington        |             6 |   0.166667 |
 | New Zealand Maori |             1 |   1        |
 
@@ -35,6 +37,7 @@ categories: player
 | Manawatu         |         2 |       1    |
 | Waikato          |         2 |       0.25 |
 | Tasman           |         2 |       0.5  |
+| Melbourne Rebels |         2 |       1    |
 | Wellington       |         2 |       0    |
 | Ireland          |         1 |       1    |
 | Hurricanes       |         1 |       1    |
@@ -46,4 +49,3 @@ categories: player
 | Taranaki         |         1 |       0    |
 | Crusaders        |         1 |       0    |
 | Counties Manukau |         1 |       1    |
-| Melbourne Rebels |         1 |       1    |

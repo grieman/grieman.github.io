@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ovidiu COJOCARU  
-date: 2023-03-12 11:34:38.226644  
+date: 2023-03-29 11:28:51.498618  
 categories: player  
 ---
 # Ovidiu COJOCARU
 
+
+Last updated: 2023-03-29
 ## Positions: H
 
 ## Country: Romania

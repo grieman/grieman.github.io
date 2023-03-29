@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Siaki Lolohea Vikilani  
-date: 2023-03-17 17:13:00.561840  
+date: 2023-03-21 18:00:30.483204  
 categories: player  
 ---
 # Siaki Lolohea Vikilani
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Current elo: 87.0
 
-## Current Percentile: 38.0
+## Current Percentile: 36.0
 
 # Elo History
 

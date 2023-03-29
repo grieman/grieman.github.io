@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam Matenga  
-date: 2023-03-16 19:47:03.284615  
+date: 2023-03-21 17:55:55.706248  
 categories: player  
 ---
 # Sam Matenga
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 82.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 

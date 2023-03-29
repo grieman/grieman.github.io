@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Kenningham  
-date: 2023-03-17 17:41:21.821902  
+date: 2023-03-21 18:40:21.297432  
 categories: player  
 ---
 # Jack Kenningham
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 92.0

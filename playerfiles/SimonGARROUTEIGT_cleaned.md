@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Simon GARROUTEIGT  
-date: 2023-03-12 11:34:02.285271  
+date: 2023-03-29 11:29:03.921727  
 categories: player  
 ---
 # Simon GARROUTEIGT
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 96.0
+## Current elo: 91.0
 
-## Current Percentile: 27.0
+## Current Percentile: 22.0
 
 # Elo History
 
@@ -21,27 +23,27 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Dax    |            53 |   0.528302 |
+| Dax    |            53 |    0.54717 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Blagnac                    |         5 |   0.2      |
 | Tarbes                     |         5 |   0.6      |
 | Albi                       |         4 |   0.25     |
+| Blagnac                    |         4 |   0.25     |
 | Bourgoin-Jallieu           |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         4 |   0.5      |
+| Suresnes                   |         3 |   1        |
 | Chambery                   |         3 |   0.666667 |
 | Dijon                      |         3 |   0.666667 |
 | Narbonne                   |         3 |   0.666667 |
 | Nice                       |         3 |   0.666667 |
-| Suresnes                   |         3 |   1        |
-| Soyaux-Angouleme           |         2 |   0.5      |
 | Aurillac                   |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | US Bressane                |         2 |   1        |
 | Aubenas                    |         2 |   0.5      |
+| Rennes                     |         2 |   1        |
+| Soyaux-Angouleme           |         2 |   0.5      |
 | Massy                      |         1 |   0        |
-| Rennes                     |         1 |   1        |
 | Montauban                  |         1 |   0        |
 | Carqueiranne-Hyères        |         1 |   1        |
 | Beziers                    |         1 |   0        |

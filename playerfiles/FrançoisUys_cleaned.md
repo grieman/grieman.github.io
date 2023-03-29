@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: François Uys  
-date: 2023-03-16 19:53:19.619172  
+date: 2023-03-21 18:00:00.705488  
 categories: player  
 ---
 # François Uys
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 99.0
 
-## Current Percentile: 43.0
+## Current Percentile: 42.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lucas Bur  
-date: 2023-03-17 17:35:44.247013  
+date: 2023-03-21 18:15:54.909942  
 categories: player  
 ---
 # Lucas Bur
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 96.0
+## Current elo: 100.0
 
-## Current Percentile: 34.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Dallas Jackals |             3 |          0 |
+| Dallas Jackals |             4 |          0 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Chicago Hounds    |         1 |          0 |
 | Houston SaberCats |         1 |          0 |
 | San Diego Legion  |         1 |          0 |
 | Utah Warriors     |         1 |          0 |

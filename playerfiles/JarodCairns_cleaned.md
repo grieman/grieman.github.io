@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Jarod Cairns  
-date: 2023-03-17 17:24:54.706691  
+date: 2023-03-21 18:46:30.704224  
 categories: player  
 ---
 # Jarod Cairns
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 79.0
+## Current elo: 80.0
 
 ## Current Percentile: 4.0
 

@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Kazuma Matsuda  
-date: 2023-02-02 18:43:04.321435  
+date: 2023-03-21 18:27:26.563078  
 categories: player  
 ---
 # Kazuma Matsuda
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 91.0
 
 ## Current Percentile: None
 
@@ -17,9 +19,10 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             2 |          0 |
+| Hanazono Kintetsu Liners |             3 |          0 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
-| Green Rockets Tokatsu     |         1 |          0 |
+| Shizuoka Blue Revs        |         1 |          0 |
+| Tokyo Sungoliath          |         1 |          0 |
 | Toshiba Brave Lupus Tokyo |         1 |          0 |

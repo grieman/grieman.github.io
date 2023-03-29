@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Timothy Gregory Swiel  
-date: 2023-03-12 11:29:22.148953  
+date: 2023-03-29 11:31:42.817864  
 categories: player  
 ---
 # Timothy Gregory Swiel
 
+
+Last updated: 2023-03-29
 ## Positions: FB
 
-## Current elo: 99.0
+## Current elo: 102.0
 
-## Current Percentile: 48.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,11 +23,11 @@ categories: player
 
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
-| Toyota Industries Shuttles Aichi |             6 |   0.666667 |
+| Toyota Industries Shuttles Aichi |             6 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Kamaishi Seawaves   |         2 |          1 |
 | Urayasu D-Rocks     |         2 |          0 |
-| Hino Red Dolphins   |         1 |          1 |
+| Mie Honda Heat      |         1 |          0 |
 | Shimizu Blue Sharks |         1 |          1 |

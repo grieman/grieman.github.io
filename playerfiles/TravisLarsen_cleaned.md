@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Travis Larsen  
-date: 2023-03-17 17:09:37.119631  
+date: 2023-03-21 18:04:04.570689  
 categories: player  
 ---
 # Travis Larsen
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 104.0

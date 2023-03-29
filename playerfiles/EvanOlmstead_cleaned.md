@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Evan Olmstead  
-date: 2023-03-17 17:41:25.904309  
+date: 2023-03-21 18:45:19.576170  
 categories: player  
 ---
 # Evan Olmstead
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Canada

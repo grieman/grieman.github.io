@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Wian Conradie  
-date: 2023-03-17 17:17:19.089208  
+date: 2023-03-21 18:17:52.009231  
 categories: player  
 ---
 # Wian Conradie
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Namibia

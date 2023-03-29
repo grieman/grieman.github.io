@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alexis Armary  
-date: 2023-03-17 17:21:56.372640  
+date: 2023-03-21 18:31:11.706274  
 categories: player  
 ---
 # Alexis Armary
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 120.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 

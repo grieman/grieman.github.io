@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jean-Luc du Preez  
-date: 2023-03-17 17:39:45.313313  
+date: 2023-03-21 18:07:30.200712  
 categories: player  
 ---
 # Jean-Luc du Preez
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Country: South Africa

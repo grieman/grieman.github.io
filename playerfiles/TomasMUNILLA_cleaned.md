@@ -1,16 +1,20 @@
 ---  
 layout: page  
 title: Tomas Munilla  
-date: 2023-03-17 17:14:51.811280  
+date: 2023-03-29 11:30:46.090368  
 categories: player  
 ---
 # Tomas Munilla
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 99.0
+## Country: Spain
 
-## Current Percentile: 48.0
+## Current elo: 100.0
+
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,11 +25,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Bourgoin-Jallieu |             4 |       0.75 |
+| Bourgoin-Jallieu |             4 |      0.625 |
+| Spain            |             1 |      0     |
 
-| Opponent            |   Matches |   Win Rate |
-|:--------------------|----------:|-----------:|
-| Carqueiranne-Hyères |         1 |          1 |
-| Narbonne            |         1 |          0 |
-| Nice                |         1 |          1 |
-| Tarbes              |         1 |          1 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Narbonne    |         1 |        0   |
+| Nice        |         1 |        1   |
+| Romania     |         1 |        0   |
+| Tarbes      |         1 |        1   |
+| US Bressane |         1 |        0.5 |

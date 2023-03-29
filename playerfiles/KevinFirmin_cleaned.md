@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kevin Firmin  
-date: 2023-02-02 18:58:59.809552  
+date: 2023-03-21 18:54:44.326345  
 categories: player  
 ---
 # Kevin Firmin
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 92.0
+## Current elo: 100.0
 
-## Current Percentile: 60.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -21,9 +23,9 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Castres Olympique |            41 |   0.414634 |
+| Castres Olympique |            42 |   0.428571 |
 | Dax               |            36 |   0.333333 |
-| Montauban         |            31 |   0.564516 |
+| Montauban         |            29 |   0.568966 |
 | Pau               |             6 |   0.833333 |
 | Stade Toulousain  |             1 |   0        |
 
@@ -34,41 +36,42 @@ categories: player
 | Aurillac                   |         6 |   0.5      |
 | Racing 92                  |         6 |   0.333333 |
 | Beziers                    |         5 |   0.6      |
-| Narbonne                   |         4 |   0.5      |
-| Montauban                  |         4 |   0.5      |
-| Biarritz Olympique         |         4 |   0.25     |
-| Lyon                       |         4 |   0.5      |
 | Clermont Auvergne          |         4 |   0.25     |
-| Montpellier Herault        |         3 |   0.666667 |
-| Munster                    |         3 |   0.333333 |
+| Montauban                  |         4 |   0.5      |
+| Narbonne                   |         4 |   0.5      |
+| Lyon                       |         4 |   0.5      |
+| Biarritz Olympique         |         4 |   0.25     |
+| La Rochelle                |         3 |   0        |
 | Pau                        |         3 |   0.666667 |
-| Oyonnax                    |         3 |   0.666667 |
 | Perpignan                  |         3 |   1        |
-| Provence Rugby             |         3 |   0.333333 |
+| Munster                    |         3 |   0.333333 |
+| Montpellier Herault        |         3 |   0.666667 |
 | Vannes                     |         3 |   0.666667 |
 | Albi                       |         3 |   0        |
+| Oyonnax                    |         3 |   0.666667 |
 | Agen                       |         3 |   0.333333 |
-| La Rochelle                |         3 |   0        |
-| Grenoble                   |         3 |   0.5      |
 | Bayonne                    |         3 |   0        |
 | Carcassonne                |         3 |   0.333333 |
-| Bordeaux Begles            |         2 |   0        |
+| Grenoble                   |         3 |   0.5      |
 | Dragons                    |         2 |   0.5      |
 | Soyaux-Angouleme           |         2 |   0.5      |
-| Massy                      |         2 |   0.5      |
-| Bourgoin-Jallieu           |         2 |   0        |
 | Rouen                      |         2 |   0.5      |
+| Bordeaux Begles            |         2 |   0        |
+| Bourgoin-Jallieu           |         2 |   0        |
+| Provence Rugby             |         2 |   0        |
 | Leicester Tigers           |         1 |   1        |
+| RC Enisei                  |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
 | US Bressane                |         1 |   1        |
 | Toulon                     |         1 |   0        |
 | Tarbes                     |         1 |   0        |
 | Brive                      |         1 |   0        |
-| RC Enisei                  |         1 |   1        |
-| Dax                        |         1 |   1        |
 | Ospreys                    |         1 |   0        |
 | Newcastle Falcons          |         1 |   0        |
 | Nevers                     |         1 |   1        |
+| Dax                        |         1 |   1        |
+| Enisey-STM Krasnoyarsk     |         1 |   1        |
 | Exeter Chiefs              |         1 |   0        |
 | Gloucester Rugby           |         1 |   1        |
+| Massy                      |         1 |   1        |
 | Worcester Warriors         |         1 |   1        |

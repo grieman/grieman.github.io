@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thretton Palamo  
-date: 2023-03-17 17:24:38.180355  
+date: 2023-03-21 18:31:38.577237  
 categories: player  
 ---
 # Thretton Palamo
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: United States of America

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thomas BORDES  
-date: 2023-03-17 17:20:49.066515  
+date: 2023-03-29 11:30:36.855033  
 categories: player  
 ---
 # Thomas BORDES
 
+
+Last updated: 2023-03-29
 ## Positions: H
 
 ## Current elo: 90.0

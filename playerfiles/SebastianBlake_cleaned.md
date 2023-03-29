@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sebastian Blake  
-date: 2023-03-17 17:19:22.636338  
+date: 2023-03-21 18:02:46.002232  
 categories: player  
 ---
 # Sebastian Blake
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 77.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

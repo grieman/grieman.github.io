@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Pedro RUBIOLO  
-date: 2023-03-16 20:15:35.341643  
+date: 2023-03-29 11:27:56.423287  
 categories: player  
 ---
 # Pedro RUBIOLO
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Current elo: 98.0

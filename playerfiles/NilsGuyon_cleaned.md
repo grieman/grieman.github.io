@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nils Guyon  
-date: 2023-03-17 17:40:11.423187  
+date: 2023-03-21 18:12:50.536043  
 categories: player  
 ---
 # Nils Guyon
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 67.0

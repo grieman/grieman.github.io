@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rosco Shane Specman  
-date: 2023-03-17 17:34:30.154865  
+date: 2023-03-21 18:50:15.830691  
 categories: player  
 ---
 # Rosco Shane Specman
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 80.0
+## Current elo: 87.0
 
-## Current Percentile: None
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |             1 |          0 |
+| Griquas |             2 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Free State Cheetahs |         1 |          0 |
+| Natal Sharks        |         1 |          1 |

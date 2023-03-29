@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam HOLLINGSWORTH  
-date: 2023-03-12 11:34:22.177072  
+date: 2023-03-29 11:31:16.458697  
 categories: player  
 ---
 # Sam HOLLINGSWORTH
 
+
+Last updated: 2023-03-29
 ## Positions: FH
 
-## Current elo: 73.0
+## Current elo: 90.0
 
-## Current Percentile: 12.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            31 |   0.290323 |
+| Nottingham |            34 |   0.323529 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -29,10 +31,10 @@ categories: player
 | Cornish Pirates     |         4 |   0        |
 | Doncaster           |         4 |   0.25     |
 | Jersey              |         4 |   0        |
+| Richmond            |         4 |   0.5      |
+| Bedford             |         3 |   0.333333 |
 | London Scottish     |         3 |   1        |
-| Richmond            |         3 |   0.333333 |
 | Ampthill            |         2 |   0.5      |
-| Bedford             |         2 |   0        |
 | Coventry            |         2 |   0.5      |
+| Ealing Trailfinders |         2 |   0        |
 | Caldy               |         1 |   1        |
-| Ealing Trailfinders |         1 |   0        |

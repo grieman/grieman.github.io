@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryo Furuta  
-date: 2023-01-15 12:02:37.349943  
+date: 2023-03-21 18:07:08.379463  
 categories: player  
 ---
 # Ryo Furuta
 
-## Positions: FL
 
-## Current elo: 75.0
+Last updated: 2023-03-21
+## Positions: FL, N8
 
-## Current Percentile: 15.0
+## Current elo: 93.0
+
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -21,12 +23,16 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mie Honda Heat |            11 |   0.727273 |
+| Mie Honda Heat |            18 |   0.722222 |
 
-| Opponent                 |   Matches |   Win Rate |
-|:-------------------------|----------:|-----------:|
-| Hino Red Dolphins        |         3 |        1   |
-| Kamaishi Seawaves        |         3 |        1   |
-| Hanazono Kintetsu Liners |         2 |        0   |
-| Mitsubishi Dynaboars     |         2 |        0.5 |
-| Skyactivs Hiroshima      |         1 |        1   |
+| Opponent                          |   Matches |   Win Rate |
+|:----------------------------------|----------:|-----------:|
+| Kamaishi Seawaves                 |         4 |        1   |
+| Hino Red Dolphins                 |         3 |        1   |
+| Green Rockets Tokatsu             |         2 |        0.5 |
+| Hanazono Kintetsu Liners          |         2 |        0   |
+| Mitsubishi Dynaboars              |         2 |        0.5 |
+| Shimizu Blue Sharks               |         2 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
+| Skyactivs Hiroshima               |         1 |        1   |
+| Toyota Industries Shuttles Aichi  |         1 |        1   |

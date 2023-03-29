@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Charles Bouldoire  
-date: 2023-03-17 17:42:10.926535  
+date: 2023-03-21 18:39:20.631514  
 categories: player  
 ---
 # Charles Bouldoire
 
+
+Last updated: 2023-03-21
 ## Positions: FB, C
 
 ## Current elo: 111.0

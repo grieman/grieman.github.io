@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Ayden Johnstone  
-date: 2023-03-17 17:24:23.373588  
+date: 2023-03-21 18:33:07.961117  
 categories: player  
 ---
 # Ayden Johnstone
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 105.0
 
 ## Current Percentile: 84.0
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            42 |   0.404762 |
+| Highlanders |            43 |   0.418605 |
 | Waikato     |            38 |   0.565789 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -46,6 +48,7 @@ categories: player
 | Canterbury               |         2 |   0        |
 | Bulls                    |         2 |   0.25     |
 | Brumbies                 |         2 |   1        |
+| Western Force            |         2 |   1        |
 | Lions                    |         1 |   0        |
 | Moana Pasifika           |         1 |   1        |
 | New South Wales Waratahs |         1 |   1        |
@@ -53,4 +56,3 @@ categories: player
 | Sharks                   |         1 |   0        |
 | Southland                |         1 |   1        |
 | Stormers                 |         1 |   0        |
-| Western Force            |         1 |   1        |

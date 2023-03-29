@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dane Zander  
-date: 2023-03-17 17:32:04.825926  
+date: 2023-03-21 18:29:13.777434  
 categories: player  
 ---
 # Dane Zander
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 108.0
+## Current elo: 106.0
 
-## Current Percentile: 82.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            32 |    0.46875 |
-| Brisbane City   |             8 |    0.4375  |
+| Queensland Reds |            33 |   0.484848 |
+| Brisbane City   |             8 |   0.4375   |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -33,9 +35,9 @@ categories: player
 | Hurricanes               |         2 |   0        |
 | Melbourne Rebels         |         2 |   1        |
 | Blues                    |         2 |   0        |
+| Fijian Drua              |         2 |   0.75     |
 | Chiefs                   |         2 |   0.5      |
 | Highlanders              |         1 |   0        |
-| Fijian Drua              |         1 |   0.5      |
 | Lions                    |         1 |   0        |
 | Canberra Vikings         |         1 |   0        |
 | Melbourne Rising         |         1 |   1        |

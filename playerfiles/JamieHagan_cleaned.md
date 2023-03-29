@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jamie Hagan  
-date: 2023-01-15 11:48:43.996874  
+date: 2023-03-21 18:02:17.479572  
 categories: player  
 ---
 # Jamie Hagan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Ireland
 
-## Current elo: 125.0
+## Current elo: 114.0
 
-## Current Percentile: 96.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Beziers          |           107 |   0.546729 |
+| Beziers          |           106 |   0.542453 |
 | Leinster         |            57 |   0.745614 |
 | Connacht         |            40 |   0.325    |
 | London Irish     |            33 |   0.393939 |
@@ -51,10 +53,10 @@ categories: player
 | Montauban                  |         6 |   1        |
 | Vannes                     |         6 |   0.5      |
 | Wasps                      |         6 |   0.416667 |
-| Aurillac                   |         6 |   0.833333 |
 | Soyaux-Angouleme           |         5 |   0.2      |
 | Bayonne                    |         5 |   0.6      |
 | Nevers                     |         5 |   0        |
+| Aurillac                   |         5 |   0.8      |
 | Provence Rugby             |         5 |   0.6      |
 | Aironi                     |         4 |   0.75     |
 | Sale Sharks                |         4 |   0.5      |

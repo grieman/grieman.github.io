@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tamati Tua  
-date: 2023-02-24 09:51:30.616514  
+date: 2023-03-21 18:32:48.349144  
 categories: player  
 ---
 # Tamati Tua
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 113.0
+## Current elo: 119.0
 
-## Current Percentile: 73.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,6 +25,7 @@ categories: player
 |:----------|--------------:|-----------:|
 | Northland |            42 |   0.285714 |
 | Blues     |             4 |   0.75     |
+| Brumbies  |             3 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,10 +39,11 @@ categories: player
 | Southland                |         3 |   0.333333 |
 | Taranaki                 |         3 |   0.666667 |
 | Manawatu                 |         2 |   0.5      |
+| New South Wales Waratahs |         2 |   1        |
 | Tasman                   |         2 |   0        |
+| Moana Pasifika           |         2 |   1        |
+| Counties Manukau         |         1 |   0        |
 | Crusaders                |         1 |   0        |
 | Hawke's Bay              |         1 |   1        |
-| Counties Manukau         |         1 |   0        |
-| New South Wales Waratahs |         1 |   1        |
 | Brumbies                 |         1 |   1        |
-| Moana Pasifika           |         1 |   1        |
+| Blues                    |         1 |   1        |

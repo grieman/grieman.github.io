@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Conor Murray  
-date: 2023-03-17 17:36:17.308427  
+date: 2023-03-21 18:01:59.975817  
 categories: player  
 ---
 # Conor Murray
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Ireland
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Munster                 |           172 |   0.630814 |
-| Ireland                 |           102 |   0.651961 |
+| Ireland                 |           103 |   0.65534  |
 | British and Irish Lions |            11 |   0.590909 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -34,9 +36,9 @@ categories: player
 | New Zealand              |        14 |   0.392857 |
 | France                   |        13 |   0.692308 |
 | Edinburgh                |        13 |   0.923077 |
+| England                  |        12 |   0.416667 |
 | Scotland                 |        12 |   0.833333 |
 | Italy                    |        12 |   0.916667 |
-| England                  |        11 |   0.363636 |
 | Ulster                   |        11 |   0.5      |
 | Connacht                 |        11 |   0.727273 |
 | Ospreys                  |        11 |   0.545455 |

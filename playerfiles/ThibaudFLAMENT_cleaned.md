@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Thibaud FLAMENT  
-date: 2023-03-16 19:50:51.158963  
+date: 2023-03-27 11:31:52.403599  
 categories: player  
 ---
 # Thibaud FLAMENT
 
+
+Last updated: 2023-03-27
 ## Positions: L, FL
 
 ## Country: France
 
-## Current elo: 120.0
+## Current elo: 112.0
 
-## Current Percentile: 88.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,16 +25,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stade Toulousain |            41 |   0.743902 |
-| France           |            15 |   0.933333 |
+| Stade Toulousain |            40 |   0.7375   |
+| France           |            16 |   0.9375   |
 | Wasps            |            13 |   0.538462 |
 | Newman           |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | La Rochelle         |         7 |   1        |
-| Castres Olympique   |         5 |   0.4      |
 | Brive               |         4 |   1        |
+| Castres Olympique   |         4 |   0.25     |
 | Clermont Auvergne   |         4 |   0.75     |
 | Agen                |         3 |   1        |
 | Bordeaux Begles     |         3 |   0.666667 |
@@ -48,11 +50,11 @@ categories: player
 | Gloucester Rugby    |         2 |   0.5      |
 | England             |         2 |   1        |
 | Biarritz Olympique  |         2 |   1        |
+| Wales               |         2 |   1        |
 | Saracens            |         1 |   1        |
 | Perpignan           |         1 |   0        |
 | South Africa        |         1 |   1        |
 | Ulster              |         1 |   0        |
-| Wales               |         1 |   1        |
 | Wasps               |         1 |   0        |
 | SIC                 |         1 |   0        |
 | Racing 92           |         1 |   1        |

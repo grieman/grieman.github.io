@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kyohei Yamasawa  
-date: 2023-03-17 17:21:52.375386  
+date: 2023-03-21 18:50:47.029252  
 categories: player  
 ---
 # Kyohei Yamasawa
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 78.0
+## Current elo: 80.0
 
-## Current Percentile: 13.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Saitama Wild Knights |            10 |          1 |
+| Saitama Wild Knights |            11 |          1 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
@@ -30,6 +32,7 @@ categories: player
 | Black Rams Tokyo          |         1 |          1 |
 | Green Rockets Tokatsu     |         1 |          1 |
 | Kobelco Kobe Steelers     |         1 |          1 |
+| Mitsubishi Dynaboars      |         1 |          1 |
 | Shizuoka Blue Revs        |         1 |          1 |
 | Toshiba Brave Lupus Tokyo |         1 |          1 |
 | Toyota Verblitz           |         1 |          1 |

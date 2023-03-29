@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Michael Little  
-date: 2023-03-17 17:30:21.296433  
+date: 2023-03-21 18:51:49.987670  
 categories: player  
 ---
 # Michael Little
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 93.0

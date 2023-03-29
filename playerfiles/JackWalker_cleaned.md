@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Walker  
-date: 2023-03-17 17:36:40.573143  
+date: 2023-03-21 18:21:39.725180  
 categories: player  
 ---
 # Jack Walker
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: England
@@ -25,7 +27,7 @@ categories: player
 |:----------------|--------------:|-----------:|
 | Bath Rugby      |            86 |    0.47093 |
 | Harlequins      |            40 |    0.55    |
-| England         |             4 |    0.5     |
+| England         |             5 |    0.4     |
 | London Scottish |             1 |    1       |
 
 | Opponent            |   Matches |   Win Rate |
@@ -44,18 +46,19 @@ categories: player
 | Harlequins          |         6 |   0.5      |
 | Bath Rugby          |         3 |   0.666667 |
 | Cardiff Blues       |         3 |   0.666667 |
-| Montpellier Herault |         2 |   0.5      |
 | Leinster            |         2 |   0        |
-| Clermont Auvergne   |         2 |   0        |
 | Sharks              |         2 |   0.5      |
-| Stade Toulousain    |         2 |   0        |
 | Ulster              |         2 |   0        |
-| Italy               |         1 |   1        |
-| Racing 92           |         1 |   0        |
-| Rotherham Titans    |         1 |   1        |
-| France              |         1 |   0        |
+| Stade Toulousain    |         2 |   0        |
+| Clermont Auvergne   |         2 |   0        |
+| Montpellier Herault |         2 |   0.5      |
+| Castres Olympique   |         1 |   1        |
+| Wales               |         1 |   1        |
 | Scarlets            |         1 |   1        |
 | Scotland            |         1 |   0        |
-| Wales               |         1 |   1        |
-| Castres Olympique   |         1 |   1        |
+| France              |         1 |   0        |
+| Rotherham Titans    |         1 |   1        |
+| Racing 92           |         1 |   0        |
+| Ireland             |         1 |   0        |
+| Italy               |         1 |   1        |
 | Zebre               |         1 |   1        |

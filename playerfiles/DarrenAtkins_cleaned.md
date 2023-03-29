@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Darren Atkins  
-date: 2023-02-02 18:56:30.162946  
+date: 2023-03-21 18:57:06.109518  
 categories: player  
 ---
 # Darren Atkins
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 65.0
+## Current elo: 72.0
 
-## Current Percentile: 2.0
+## Current Percentile: None
 
 # Elo History
 
@@ -22,8 +24,8 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Bath Rugby         |            25 |   0.54     |
-| Richmond           |             7 |   0.214286 |
 | Jersey             |             6 |   0.333333 |
+| Richmond           |             2 |   0.25     |
 | Yorkshire Carnegie |             1 |   1        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -37,14 +39,11 @@ categories: player
 | Leicester Tigers    |         2 |   0.5      |
 | Ampthill            |         2 |   0.75     |
 | Exeter Chiefs       |         2 |   0        |
-| Doncaster           |         2 |   0        |
-| Coventry            |         2 |   0        |
-| Hartpury College    |         1 |   0        |
 | Jersey              |         1 |   0        |
-| Ealing Trailfinders |         1 |   0        |
 | Bedford             |         1 |   1        |
-| London Scottish     |         1 |   1        |
-| Caldy               |         1 |   0        |
+| Ealing Trailfinders |         1 |   0        |
+| Doncaster           |         1 |   0        |
+| Coventry            |         1 |   0        |
 | Nottingham          |         1 |   1        |
 | Ospreys             |         1 |   1        |
 | Richmond            |         1 |   0        |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: George Ford  
-date: 2023-03-17 17:22:53.462554  
+date: 2023-03-21 18:22:04.462670  
 categories: player  
 ---
 # George Ford
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: England
 
 ## Current elo: 96.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

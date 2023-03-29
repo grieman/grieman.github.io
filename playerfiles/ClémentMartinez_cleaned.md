@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Martinez  
-date: 2023-03-17 17:41:08.230191  
+date: 2023-03-21 18:35:36.652110  
 categories: player  
 ---
 # Clément Martinez
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 113.0
 
-## Current Percentile: 56.0
+## Current Percentile: 55.0
 
 # Elo History
 

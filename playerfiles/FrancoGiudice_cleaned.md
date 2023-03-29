@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Franco Giudice  
-date: 2023-03-17 17:36:59.660261  
+date: 2023-03-21 18:56:31.767346  
 categories: player  
 ---
 # Franco Giudice
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 79.0
+## Current elo: 80.0
 
-## Current Percentile: 9.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Cafeteros Pro |             9 |   0.333333 |
 | Cobras        |             7 |   0.285714 |
-| Dogos XV      |             4 |   1        |
+| Dogos XV      |             5 |   1        |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -34,3 +36,4 @@ categories: player
 | Cafeteros Pro |         2 |   1        |
 | Cobras        |         2 |   1        |
 | Yacare XV     |         2 |   1        |
+| Pampas XV     |         1 |   1        |

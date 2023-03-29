@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lee-Marvin Lofty Siyanda Mazibuko  
-date: 2023-03-17 17:06:49.738473  
+date: 2023-03-21 17:58:47.372639  
 categories: player  
 ---
 # Lee-Marvin Lofty Siyanda Mazibuko
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 118.0
+## Current elo: 120.0
 
-## Current Percentile: 93.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Western Province   |            16 |   0.375    |
+| Western Province   |            17 |   0.411765 |
 | Rugby Viadana 1970 |             6 |   0.583333 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Blue Bulls               |         3 |   0.333333 |
+| Blue Bulls               |         4 |   0.5      |
 | Golden Lions             |         3 |   0.666667 |
 | Griquas                  |         3 |   0        |
 | Pumas                    |         3 |   0.666667 |

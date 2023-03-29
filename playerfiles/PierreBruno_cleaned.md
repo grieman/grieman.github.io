@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Pierre Bruno  
-date: 2023-03-16 21:13:06.713217  
+date: 2023-03-21 18:03:26.904558  
 categories: player  
 ---
 # Pierre Bruno
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Italy
@@ -24,7 +26,7 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Zebre  |            42 |   0.154762 |
-| Italy  |            11 |   0.363636 |
+| Italy  |            12 |   0.333333 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -35,16 +37,16 @@ categories: player
 | Scarlets             |         3 |   0        |
 | Benetton Treviso     |         3 |   0.333333 |
 | Dragons              |         3 |   0.666667 |
-| Ospreys              |         2 |   0.5      |
 | Bristol Rugby        |         2 |   0        |
 | Brive                |         2 |   0.5      |
 | Ulster               |         2 |   0        |
+| Scotland             |         2 |   0        |
 | Ireland              |         2 |   0        |
 | Stade Francais Paris |         2 |   0.5      |
-| Sharks               |         1 |   0        |
+| Ospreys              |         2 |   0.5      |
 | South Africa         |         1 |   0        |
+| Sharks               |         1 |   0        |
 | Australia            |         1 |   1        |
-| Scotland             |         1 |   0        |
 | Uruguay              |         1 |   1        |
 | Toulon               |         1 |   0        |
 | Lions                |         1 |   0        |

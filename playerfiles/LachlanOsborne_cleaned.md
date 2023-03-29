@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lachlan Osborne  
-date: 2023-01-13 11:35:15.575444  
+date: 2023-03-21 18:47:54.845787  
 categories: player  
 ---
 # Lachlan Osborne
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 68.0
 
-## Current Percentile: 1.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,16 +23,17 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Skyactivs Hiroshima |            14 |   0.142857 |
+| Skyactivs Hiroshima |            22 |   0.181818 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         2 |        0.5 |
-| Hanazono Kintetsu Liners         |         2 |        0   |
-| Kamaishi Seawaves                |         2 |        0.5 |
-| Mie Honda Heat                   |         2 |        0   |
-| Mitsubishi Dynaboars             |         2 |        0   |
-| Coca-Cola Red Sparks             |         1 |        0   |
-| Kurita Water Gush                |         1 |        0   |
-| Kyuden Voltex                    |         1 |        0   |
-| Toyota Industries Shuttles Aichi |         1 |        0   |
+| Kyuden Voltex                    |         4 |   0        |
+| Kamaishi Seawaves                |         3 |   0.333333 |
+| NTT Docomo Red Hurricanes Osaka  |         3 |   0        |
+| Chugoku Red Regulions            |         2 |   1        |
+| Hanazono Kintetsu Liners         |         2 |   0        |
+| Kurita Water Gush                |         2 |   0.5      |
+| Mie Honda Heat                   |         2 |   0        |
+| Mitsubishi Dynaboars             |         2 |   0        |
+| Coca-Cola Red Sparks             |         1 |   0        |
+| Toyota Industries Shuttles Aichi |         1 |   0        |

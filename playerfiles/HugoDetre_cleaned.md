@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hugo Detre  
-date: 2023-03-17 17:35:30.211768  
+date: 2023-03-21 18:32:35.784660  
 categories: player  
 ---
 # Hugo Detre
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 70.0
 
-## Current Percentile: 12.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Suresnes |             8 |      0.125 |
+| Suresnes |             7 |          0 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,5 +32,4 @@ categories: player
 | Carqueiranne-Hyères        |         1 |          0 |
 | Narbonne                   |         1 |          0 |
 | Nice                       |         1 |          0 |
-| Rennes                     |         1 |          1 |
 | Valence Romans Drome Rugby |         1 |          0 |

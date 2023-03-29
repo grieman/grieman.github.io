@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bayley Kuenzle  
-date: 2023-03-17 17:28:37.532806  
+date: 2023-03-21 17:59:59.491319  
 categories: player  
 ---
 # Bayley Kuenzle
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
-## Current elo: 76.0
+## Current elo: 80.0
 
-## Current Percentile: 12.0
+## Current Percentile: 8.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Brumbies         |            20 |   0.7      |
-| Western Force    |            11 |   0.272727 |
+| Western Force    |            12 |   0.25     |
 | Canberra Vikings |             9 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -32,7 +34,7 @@ categories: player
 | New South Wales Waratahs |         5 |   0.8      |
 | Western Force            |         4 |   0.5      |
 | Fijian Drua              |         3 |   1        |
-| Highlanders              |         2 |   0        |
+| Highlanders              |         3 |   0        |
 | Chiefs                   |         2 |   0.5      |
 | Brumbies                 |         2 |   0        |
 | Blues                    |         2 |   0        |

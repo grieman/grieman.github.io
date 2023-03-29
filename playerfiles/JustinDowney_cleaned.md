@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Justin Downey  
-date: 2023-03-02 11:23:43.448053  
+date: 2023-03-21 18:51:43.305178  
 categories: player  
 ---
 # Justin Downey
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 81.0

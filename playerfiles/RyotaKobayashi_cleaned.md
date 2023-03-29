@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryota Kobayashi  
-date: 2023-01-17 11:28:34.895251  
+date: 2023-03-21 18:41:25.328328  
 categories: player  
 ---
 # Ryota Kobayashi
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 99.0
+## Current elo: 87.0
 
-## Current Percentile: 72.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,28 +23,32 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mie Honda Heat |            38 |   0.486842 |
+| Mie Honda Heat |            61 |   0.483607 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Kubota Spears Funabashi Tokyo-Bay |         5 |   0.2      |
+| Mitsubishi Dynaboars              |         4 |   0.75     |
+| Toshiba Brave Lupus Tokyo         |         4 |   0.25     |
+| Tokyo Sungoliath                  |         4 |   0        |
 | Hino Red Dolphins                 |         4 |   1        |
-| Kubota Spears Funabashi Tokyo-Bay |         3 |   0        |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
-| Mitsubishi Dynaboars              |         3 |   0.666667 |
+| Toyota Verblitz                   |         3 |   0        |
+| Munakata Sanix Blues              |         3 |   0.333333 |
+| Yokohama Canon Eagles             |         3 |   0.833333 |
+| Hanazono Kintetsu Liners          |         3 |   0        |
+| Kamaishi Seawaves                 |         3 |   1        |
+| Green Rockets Tokatsu             |         3 |   0.666667 |
 | Black Rams Tokyo                  |         2 |   0.5      |
-| Toyota Verblitz                   |         2 |   0        |
-| Skyactivs Hiroshima               |         2 |   1        |
-| Shizuoka Blue Revs                |         2 |   0        |
-| Yokohama Canon Eagles             |         2 |   0.75     |
-| Kamaishi Seawaves                 |         2 |   1        |
-| Hanazono Kintetsu Liners          |         2 |   0        |
 | Coca-Cola Red Sparks              |         2 |   0.5      |
-| Kyuden Voltex                     |         1 |   1        |
-| Chubu Electric Power              |         1 |   1        |
-| Kobelco Kobe Steelers             |         1 |   0        |
-| Munakata Sanix Blues              |         1 |   0        |
-| Saitama Wild Knights              |         1 |   0        |
-| Tokyo Sungoliath                  |         1 |   0        |
+| Urayasu D-Rocks                   |         2 |   0        |
+| Toyota Industries Shuttles Aichi  |         2 |   1        |
+| NTT Docomo Red Hurricanes Osaka   |         2 |   0.5      |
+| Saitama Wild Knights              |         2 |   0        |
+| Shizuoka Blue Revs                |         2 |   0        |
+| Skyactivs Hiroshima               |         2 |   1        |
 | Chugoku Red Regulions             |         1 |   1        |
-| Urayasu D-Rocks                   |         1 |   0        |
+| Kobelco Kobe Steelers             |         1 |   0        |
+| Chubu Electric Power              |         1 |   1        |
 | Mazda Blue Zoomers                |         1 |   1        |
+| Kyuden Voltex                     |         1 |   1        |
+| Shimizu Blue Sharks               |         1 |   1        |

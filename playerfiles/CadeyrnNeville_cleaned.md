@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Cadeyrn Neville  
-date: 2023-03-17 17:12:15.388359  
+date: 2023-03-21 18:27:43.384055  
 categories: player  
 ---
 # Cadeyrn Neville
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Australia
 
 ## Current elo: 128.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                             |   Appearances |   Win Rate |
 |:---------------------------------|--------------:|-----------:|
 | Melbourne Rebels                 |            49 |   0.306122 |
-| Brumbies                         |            32 |   0.71875  |
+| Brumbies                         |            33 |   0.727273 |
 | Toyota Industries Shuttles Aichi |            29 |   0.37931  |
 | Queensland Reds                  |            16 |   0.28125  |
 | Brisbane City                    |            10 |   1        |
@@ -45,19 +47,20 @@ categories: player
 | Crusaders                         |         5 |   0.2      |
 | Stormers                          |         4 |   0.25     |
 | Cheetahs                          |         3 |   0.666667 |
-| Munakata Sanix Blues              |         3 |   0.666667 |
-| Bulls                             |         3 |   0        |
-| Urayasu D-Rocks                   |         3 |   0        |
-| Sydney Stars                      |         3 |   1        |
 | Coca-Cola Red Sparks              |         3 |   0.666667 |
-| Sharks                            |         3 |   0        |
-| Canberra Vikings                  |         3 |   1        |
 | Perth Spirit                      |         3 |   0.666667 |
+| Canberra Vikings                  |         3 |   1        |
+| Sharks                            |         3 |   0        |
+| Munakata Sanix Blues              |         3 |   0.666667 |
+| Sydney Stars                      |         3 |   1        |
+| Urayasu D-Rocks                   |         3 |   0        |
+| Bulls                             |         3 |   0        |
+| Moana Pasifika                    |         2 |   0.5      |
 | Toyota Verblitz                   |         2 |   0        |
-| Sunwolves                         |         2 |   1        |
 | Queensland Country                |         2 |   1        |
 | North Harbour Rays                |         2 |   1        |
 | NSW Country Eagles                |         2 |   1        |
+| Sunwolves                         |         2 |   1        |
 | England                           |         2 |   0.5      |
 | Yokohama Canon Eagles             |         2 |   0        |
 | Greater Sydney Rams               |         2 |   1        |
@@ -73,9 +76,9 @@ categories: player
 | Ireland                           |         1 |   0        |
 | Italy                             |         1 |   0        |
 | Southern Kings                    |         1 |   0        |
-| Brisbane City                     |         1 |   1        |
-| Shimizu Blue Sharks               |         1 |   1        |
 | Melbourne Rising                  |         1 |   1        |
+| Brisbane City                     |         1 |   1        |
+| Kamaishi Seawaves                 |         1 |   1        |
 | Scotland                          |         1 |   1        |
 | Saitama Wild Knights              |         1 |   0        |
 | Kobelco Kobe Steelers             |         1 |   0        |
@@ -84,5 +87,4 @@ categories: player
 | New Zealand                       |         1 |   0        |
 | France                            |         1 |   0        |
 | Mazda Blue Zoomers                |         1 |   1        |
-| Moana Pasifika                    |         1 |   0        |
-| Kamaishi Seawaves                 |         1 |   1        |
+| Shimizu Blue Sharks               |         1 |   1        |

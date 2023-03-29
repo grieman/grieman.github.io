@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Chris Harris  
-date: 2023-03-17 17:24:50.346149  
+date: 2023-03-21 18:38:37.103572  
 categories: player  
 ---
 # Chris Harris
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Scotland
 
 ## Current elo: 109.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 

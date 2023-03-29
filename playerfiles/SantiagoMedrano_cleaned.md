@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Santiago Medrano  
-date: 2023-03-17 17:41:24.821701  
+date: 2023-03-21 18:02:14.643827  
 categories: player  
 ---
 # Santiago Medrano
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Argentina
 
-## Current elo: 118.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 94.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Argentina           |            35 |   0.328571 |
 | Regatas Bella Vista |            35 |   0.471429 |
-| Western Force       |            31 |   0.322581 |
+| Western Force       |            32 |   0.3125   |
 | Jaguares            |            30 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -45,6 +47,7 @@ categories: player
 | San Luis                 |         4 |   0.25     |
 | Queensland Reds          |         4 |   0.25     |
 | Stormers                 |         4 |   0.5      |
+| Highlanders              |         4 |   0        |
 | Hindu                    |         4 |   0        |
 | Hurricanes               |         4 |   0.5      |
 | Wales                    |         4 |   0.375    |
@@ -54,24 +57,23 @@ categories: player
 | France                   |         3 |   0        |
 | Blues                    |         3 |   0.333333 |
 | Crusaders                |         3 |   0        |
-| Highlanders              |         3 |   0        |
-| Newman                   |         2 |   1        |
+| Moana Pasifika           |         2 |   1        |
 | Belgrano                 |         2 |   0        |
+| Newman                   |         2 |   1        |
 | Pucara                   |         2 |   0.25     |
 | La Plata                 |         2 |   1        |
-| Moana Pasifika           |         2 |   1        |
-| Georgia                  |         1 |   1        |
-| Olivos                   |         1 |   1        |
-| Portugal                 |         1 |   1        |
-| Atlético del Rosario     |         1 |   1        |
-| Romania                  |         1 |   1        |
-| Fijian Drua              |         1 |   1        |
 | England                  |         1 |   0        |
-| Ireland                  |         1 |   0        |
-| Buenos Aires             |         1 |   1        |
-| Los Tilos                |         1 |   1        |
-| Italy                    |         1 |   1        |
-| Sunwolves                |         1 |   1        |
-| Tonga                    |         1 |   1        |
 | United States of America |         1 |   1        |
+| Tonga                    |         1 |   1        |
+| Sunwolves                |         1 |   1        |
+| Buenos Aires             |         1 |   1        |
+| Atlético del Rosario     |         1 |   1        |
+| Fijian Drua              |         1 |   1        |
+| Romania                  |         1 |   1        |
+| Portugal                 |         1 |   1        |
+| Olivos                   |         1 |   1        |
+| Georgia                  |         1 |   1        |
+| Ireland                  |         1 |   0        |
+| Italy                    |         1 |   1        |
+| Los Tilos                |         1 |   1        |
 | Liceo Naval              |         1 |   1        |

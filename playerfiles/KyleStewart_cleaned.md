@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kyle Stewart  
-date: 2023-03-17 17:04:31.454142  
+date: 2023-03-21 18:21:03.658728  
 categories: player  
 ---
 # Kyle Stewart
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 84.0

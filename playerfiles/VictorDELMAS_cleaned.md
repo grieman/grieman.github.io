@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Victor DELMAS  
-date: 2023-03-06 11:27:47.250302  
+date: 2023-03-29 11:31:57.657922  
 categories: player  
 ---
 # Victor DELMAS
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 100.0
 
 ## Current Percentile: None
 
@@ -22,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Colomiers |           120 |   0.541667 |
-| Oyonnax   |             8 |   0.875    |
+| Oyonnax   |            10 |   0.8      |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -38,15 +40,15 @@ categories: player
 | Nevers             |         5 |   0.6      |
 | Bourgoin-Jallieu   |         5 |   0.6      |
 | Lyon               |         5 |   0.2      |
-| Soyaux-Angouleme   |         4 |   0.75     |
+| Vannes             |         4 |   0.5      |
 | Albi               |         4 |   0.5      |
-| Rouen              |         4 |   0.75     |
+| Soyaux-Angouleme   |         4 |   0.75     |
 | Tarbes             |         4 |   0.25     |
+| Rouen              |         4 |   0.75     |
+| Grenoble           |         3 |   1        |
 | Bayonne            |         3 |   0.5      |
 | Oyonnax            |         3 |   0.833333 |
 | Perpignan          |         3 |   0.5      |
-| Vannes             |         3 |   0.666667 |
-| Grenoble           |         2 |   1        |
 | Provence Rugby     |         2 |   1        |
 | Roval Drome XV     |         1 |   1        |
 | US Bressane        |         1 |   1        |

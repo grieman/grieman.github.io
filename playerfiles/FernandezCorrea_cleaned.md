@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Fernandez Correa  
-date: 2023-03-17 17:29:30.283279  
+date: 2023-03-21 18:31:04.174283  
 categories: player  
 ---
 # Fernandez Correa
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Senegal

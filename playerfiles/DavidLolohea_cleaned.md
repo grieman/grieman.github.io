@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: David Lolohea  
-date: 2023-02-26 11:20:06.367263  
+date: 2023-03-21 17:57:29.317752  
 categories: player  
 ---
 # David Lolohea
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Tonga
 
-## Current elo: 82.0
+## Current elo: 78.0
 
-## Current Percentile: 10.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Nevers              |            64 |   0.539062 |
-| Provence Rugby      |            36 |   0.597222 |
+| Provence Rugby      |            38 |   0.578947 |
 | Greater Sydney Rams |            13 |   0.423077 |
 | Sydney Rays         |             8 |   0.375    |
 | Tonga               |             4 |   0.75     |
@@ -33,12 +35,12 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |         9 |   0.666667 |
 | Biarritz Olympique         |         8 |   0.625    |
+| Vannes                     |         7 |   0.357143 |
 | Beziers                    |         7 |   0.785714 |
+| Rouen                      |         7 |   0.5      |
 | Colomiers                  |         7 |   0.285714 |
 | Oyonnax                    |         7 |   0.357143 |
 | Aurillac                   |         7 |   0.714286 |
-| Vannes                     |         6 |   0.416667 |
-| Rouen                      |         6 |   0.5      |
 | Mont-de-Marsan             |         5 |   0.8      |
 | Soyaux-Angouleme           |         5 |   0.7      |
 | Provence Rugby             |         5 |   0.4      |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sean O'Connor  
-date: 2023-02-02 18:56:50.223278  
+date: 2023-03-21 18:11:38.301445  
 categories: player  
 ---
 # Sean O'Connor
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 85.0
 
-## Current Percentile: 24.0
+## Current Percentile: 21.0
 
 # Elo History
 

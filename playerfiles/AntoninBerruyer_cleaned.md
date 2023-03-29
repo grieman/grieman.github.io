@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Antonin Berruyer  
-date: 2023-02-24 02:33:47.993195  
+date: 2023-03-21 18:24:40.438464  
 categories: player  
 ---
 # Antonin Berruyer
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 93.0
+## Current elo: 91.0
 
-## Current Percentile: 51.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |            51 |   0.441176 |
+| Grenoble |            52 |   0.432692 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
+| Mont-de-Marsan       |         4 |   0.5      |
 | Carcassonne          |         4 |   0.75     |
 | Beziers              |         4 |   0.5      |
-| Agen                 |         3 |   0.666667 |
 | Narbonne             |         3 |   0.833333 |
 | Aurillac             |         3 |   0.666667 |
-| Mont-de-Marsan       |         3 |   0.666667 |
+| Agen                 |         3 |   0.666667 |
 | Vannes               |         3 |   0.333333 |
 | Montauban            |         2 |   0.25     |
 | US Bressane          |         2 |   0.5      |

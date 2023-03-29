@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2023-03-17 17:40:40.264149  
+date: 2023-03-29 11:31:45.583112  
 categories: player  
 ---
 # Willem Nel
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Country: Scotland
@@ -24,23 +26,23 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Edinburgh           |           180 |   0.505556 |
-| Scotland            |            54 |   0.546296 |
+| Scotland            |            55 |   0.554545 |
 | Cheetahs            |            46 |   0.315217 |
 | Free State Cheetahs |            28 |   0.607143 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Glasgow Warriors         |        20 |  0.55      |
+| Glasgow Warriors         |        19 |  0.578947  |
 | Munster                  |        15 |  0.133333  |
 | Ulster                   |        12 |  0.0833333 |
 | Benetton Treviso         |        12 |  0.583333  |
 | Scarlets                 |        12 |  0.541667  |
 | Dragons                  |        11 |  0.909091  |
 | Cardiff Blues            |        11 |  0.363636  |
+| Connacht                 |        10 |  0.5       |
 | Zebre                    |         9 |  0.777778  |
-| Connacht                 |         9 |  0.555556  |
 | Stormers                 |         9 |  0.0555556 |
-| Italy                    |         8 |  1         |
+| Italy                    |         9 |  1         |
 | Leinster                 |         8 |  0.25      |
 | Bulls                    |         8 |  0.125     |
 | Ospreys                  |         7 |  0.428571  |

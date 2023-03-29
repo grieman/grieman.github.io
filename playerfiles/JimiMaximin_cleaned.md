@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jimi Maximin  
-date: 2023-01-15 11:43:52.366202  
+date: 2023-03-21 18:54:55.137330  
 categories: player  
 ---
 # Jimi Maximin
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 99.0

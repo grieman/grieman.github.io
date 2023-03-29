@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Amanaki Saumaki  
-date: 2023-03-17 17:17:50.612100  
+date: 2023-03-21 18:17:57.509723  
 categories: player  
 ---
 # Amanaki Saumaki
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
-## Current elo: 93.0
+## Current elo: 96.0
 
-## Current Percentile: 34.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |            25 |   0.56     |
-| Kobelco Kobe Steelers |             7 |   0.285714 |
+| Yokohama Canon Eagles |            25 |      0.56  |
+| Kobelco Kobe Steelers |             8 |      0.375 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Green Rockets Tokatsu             |         4 |   0.75     |
+| Green Rockets Tokatsu             |         5 |   0.8      |
 | Shizuoka Blue Revs                |         4 |   0.75     |
 | Black Rams Tokyo                  |         3 |   0.666667 |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |

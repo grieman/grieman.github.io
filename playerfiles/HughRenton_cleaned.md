@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hugh Renton  
-date: 2023-03-17 17:23:12.295765  
+date: 2023-03-21 18:47:21.408834  
 categories: player  
 ---
 # Hugh Renton
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 65.0
+## Current elo: 61.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            24 |   0.416667 |
+| Highlanders |            25 |   0.44     |
 | Tasman      |            15 |   0.466667 |
 | Hawke's Bay |            13 |   0.153846 |
 | Canterbury  |             4 |   1        |
@@ -31,6 +33,7 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Blues                    |         5 |   0        |
 | Hawke's Bay              |         4 |   0.5      |
+| Western Force            |         3 |   1        |
 | Wellington               |         3 |   0.333333 |
 | Canterbury               |         3 |   0        |
 | Waikato                  |         3 |   0        |
@@ -39,11 +42,10 @@ categories: player
 | Crusaders                |         3 |   0.333333 |
 | Taranaki                 |         3 |   0.333333 |
 | Southland                |         3 |   1        |
-| Manawatu                 |         2 |   1        |
 | North Harbour            |         2 |   0.5      |
 | Queensland Reds          |         2 |   1        |
 | Otago                    |         2 |   0        |
-| Western Force            |         2 |   1        |
+| Manawatu                 |         2 |   1        |
 | New South Wales Waratahs |         2 |   0.5      |
 | Melbourne Rebels         |         2 |   0.5      |
 | Bay of Plenty            |         2 |   0.5      |

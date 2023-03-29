@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mako Vunipola  
-date: 2023-03-17 17:22:18.210566  
+date: 2023-03-21 18:32:24.308175  
 categories: player  
 ---
 # Mako Vunipola
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Saracens                |           215 |   0.802326 |
-| England                 |            75 |   0.7      |
+| England                 |            76 |   0.690789 |
 | British and Irish Lions |            12 |   0.625    |
 | Bristol Rugby           |             2 |   0.5      |
 
@@ -40,10 +42,10 @@ categories: player
 | Leicester Tigers    |        12 |   0.875    |
 | Worcester Warriors  |        11 |   0.909091 |
 | Gloucester Rugby    |        11 |   0.636364 |
+| Ireland             |        11 |   0.545455 |
 | London Irish        |        10 |   0.75     |
 | Newcastle Falcons   |        10 |   1        |
 | France              |        10 |   0.6      |
-| Ireland             |        10 |   0.6      |
 | South Africa        |         9 |   0.222222 |
 | Italy               |         9 |   1        |
 | Wales               |         8 |   0.625    |

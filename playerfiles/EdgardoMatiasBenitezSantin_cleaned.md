@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Edgardo Matias Benitez Santin  
-date: 2023-03-17 17:18:48.704193  
+date: 2023-03-21 18:34:11.907531  
 categories: player  
 ---
 # Edgardo Matias Benitez Santin
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Uruguay
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 62.0
+## Current Percentile: 60.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |            25 |   0.84     |
+| Penarol Rugby |            26 |   0.846154 |
 | Uruguay       |             9 |   0.444444 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -43,3 +45,4 @@ categories: player
 | Japan            |         1 |       0    |
 | Namibia          |         1 |       1    |
 | Romania          |         1 |       1    |
+| Yacare XV        |         1 |       1    |

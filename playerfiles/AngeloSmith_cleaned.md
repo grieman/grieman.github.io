@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Angelo Smith  
-date: 2023-03-04 11:43:37.846379  
+date: 2023-03-21 18:43:49.732697  
 categories: player  
 ---
 # Angelo Smith
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 95.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 
@@ -17,8 +19,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |             1 |          0 |
+| Melbourne Rebels |             2 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Chiefs     |         1 |          0 |
 | Hurricanes |         1 |          0 |

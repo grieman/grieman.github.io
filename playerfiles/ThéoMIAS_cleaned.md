@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Théo MIAS  
-date: 2023-03-12 11:30:01.583505  
+date: 2023-03-29 11:32:02.386437  
 categories: player  
 ---
 # Théo MIAS
 
+
+Last updated: 2023-03-29
 ## Positions: W, C
 
-## Current elo: 96.0
+## Current elo: 91.0
 
-## Current Percentile: 56.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |            17 |   0.294118 |
+| Narbonne |            18 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | US Bressane                |         3 |   0.333333 |
+| Cognac Saint Jean d'Angély |         2 |   1        |
 | Grenoble                   |         2 |   0.25     |
 | Agen                       |         1 |   0        |
 | Albi                       |         1 |   0        |
 | Beziers                    |         1 |   0        |
-| Cognac Saint Jean d'Angély |         1 |   1        |
 | Montauban                  |         1 |   0        |
 | Nevers                     |         1 |   0        |
 | Oyonnax                    |         1 |   0        |

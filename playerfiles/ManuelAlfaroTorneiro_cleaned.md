@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Manuel Alfaro Torneiro  
-date: 2023-03-04 11:43:31.115295  
+date: 2023-03-21 17:59:04.618837  
 categories: player  
 ---
 # Manuel Alfaro Torneiro
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 90.0
+## Current elo: 82.0
 
-## Current Percentile: 20.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cafeteros Pro |            11 |   0.363636 |
-| Pampas XV     |             2 |   0.5      |
+| Pampas XV     |             3 |   0.333333 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -32,3 +34,4 @@ categories: player
 | Jaguares XV      |         2 |          0 |
 | Olimpia Lions    |         2 |          1 |
 | American Raptors |         1 |          1 |
+| Dogos XV         |         1 |          0 |

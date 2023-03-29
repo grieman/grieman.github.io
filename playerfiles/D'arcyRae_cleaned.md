@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: D'arcy Rae  
-date: 2023-03-17 17:19:19.877802  
+date: 2023-03-29 11:29:39.190683  
 categories: player  
 ---
 # D'arcy Rae
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Country: Scotland
 
-## Current elo: 42.0
+## Current elo: 32.0
 
 ## Current Percentile: 0.0
 
@@ -38,13 +40,13 @@ categories: player
 | Dragons            |         7 |   0.5      |
 | Ulster             |         6 |   0.166667 |
 | Benetton Treviso   |         6 |   0.833333 |
-| Exeter Chiefs      |         6 |   0.166667 |
 | Edinburgh          |         6 |   0.166667 |
 | Scarlets           |         5 |   0.4      |
+| Leicester Tigers   |         5 |   0.4      |
+| Exeter Chiefs      |         5 |   0.2      |
 | Saracens           |         5 |   0        |
 | Northampton Saints |         4 |   0.25     |
 | Cheetahs           |         4 |   0.75     |
-| Leicester Tigers   |         4 |   0.5      |
 | Newcastle Falcons  |         4 |   0.75     |
 | Connacht           |         4 |   0.5      |
 | Sale Sharks        |         4 |   0.375    |

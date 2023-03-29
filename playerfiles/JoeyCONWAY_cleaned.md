@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Joey CONWAY  
-date: 2023-03-17 17:27:03.101229  
+date: 2023-03-29 11:30:21.787320  
 categories: player  
 ---
 # Joey CONWAY
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 99.0
+## Current elo: 88.0
 
-## Current Percentile: 50.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            34 |   0.558824 |
+| Bedford |            35 |   0.542857 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -29,10 +31,10 @@ categories: player
 | Doncaster           |         4 |   0.5      |
 | Hartpury College    |         4 |   0.75     |
 | London Scottish     |         4 |   1        |
-| Ampthill            |         3 |   0.666667 |
+| Nottingham          |         4 |   0.75     |
+| Richmond            |         4 |   0.25     |
 | Coventry            |         3 |   0        |
 | Ealing Trailfinders |         3 |   0.333333 |
-| Nottingham          |         3 |   1        |
-| Richmond            |         3 |   0        |
+| Ampthill            |         2 |   0.5      |
 | Caldy               |         2 |   0.5      |
 | Jersey              |         1 |   1        |

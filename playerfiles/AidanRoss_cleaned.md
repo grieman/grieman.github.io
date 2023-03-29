@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Aidan Ross  
-date: 2023-03-17 17:41:05.715360  
+date: 2023-03-21 18:25:57.532494  
 categories: player  
 ---
 # Aidan Ross
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand
 
-## Current elo: 106.0
+## Current elo: 107.0
 
 ## Current Percentile: 80.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Chiefs              |            63 |   0.595238 |
+| Chiefs              |            64 |   0.601562 |
 | Bay of Plenty       |            47 |   0.521277 |
 | New Zealand         |             1 |   0        |
 | Provincial Union XV |             1 |   0        |
@@ -47,6 +49,7 @@ categories: player
 | Queensland Reds          |         3 |   0.666667 |
 | Wellington               |         3 |   0.333333 |
 | Auckland                 |         3 |   0.333333 |
+| Melbourne Rebels         |         3 |   1        |
 | Western Force            |         3 |   1        |
 | North Harbour            |         2 |   0.5      |
 | Moana Pasifika           |         2 |   1        |
@@ -56,7 +59,6 @@ categories: player
 | Tasman                   |         2 |   0        |
 | Bulls                    |         2 |   1        |
 | British and Irish Lions  |         2 |   0        |
-| Melbourne Rebels         |         2 |   1        |
 | Ireland                  |         1 |   0        |
 | Fijian Drua              |         1 |   1        |
 | Stormers                 |         1 |   1        |

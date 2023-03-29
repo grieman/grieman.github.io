@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Florian Desbordes  
-date: 2023-03-17 17:02:47.778555  
+date: 2023-03-21 18:53:23.977201  
 categories: player  
 ---
 # Florian Desbordes
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 83.0
 
-## Current Percentile: 24.0
+## Current Percentile: 22.0
 
 # Elo History
 

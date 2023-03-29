@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sam Bedlow  
-date: 2023-03-17 17:09:27.080185  
+date: 2023-03-21 18:31:06.189281  
 categories: player  
 ---
 # Sam Bedlow
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 93.0

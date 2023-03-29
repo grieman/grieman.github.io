@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rowan Gouws  
-date: 2023-02-24 02:30:24.293163  
+date: 2023-03-21 18:49:33.263156  
 categories: player  
 ---
 # Rowan Gouws
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 102.0

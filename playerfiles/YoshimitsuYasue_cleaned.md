@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yoshimitsu Yasue  
-date: 2023-03-17 17:25:52.313537  
+date: 2023-03-21 18:20:21.387786  
 categories: player  
 ---
 # Yoshimitsu Yasue
 
+
+Last updated: 2023-03-21
 ## Positions: H, P
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: 48.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
 | Kobelco Kobe Steelers |            51 |   0.676471 |
-| Mitsubishi Dynaboars  |            45 |   0.555556 |
+| Mitsubishi Dynaboars  |            46 |   0.543478 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -31,12 +33,12 @@ categories: player
 | Toyota Verblitz                   |         7 |   0.428571 |
 | Green Rockets Tokatsu             |         6 |   0.833333 |
 | Shizuoka Blue Revs                |         6 |   0.666667 |
+| Saitama Wild Knights              |         6 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         6 |   0.5      |
 | Black Rams Tokyo                  |         5 |   0.8      |
 | Coca-Cola Red Sparks              |         5 |   1        |
 | Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
 | Tokyo Sungoliath                  |         5 |   0.2      |
-| Saitama Wild Knights              |         5 |   0        |
 | Mie Honda Heat                    |         4 |   0.5      |
 | Munakata Sanix Blues              |         3 |   1        |
 | Toyota Industries Shuttles Aichi  |         3 |   1        |

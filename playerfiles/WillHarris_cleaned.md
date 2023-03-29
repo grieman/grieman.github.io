@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Harris  
-date: 2023-03-17 17:37:46.249725  
+date: 2023-03-21 18:25:40.637258  
 categories: player  
 ---
 # Will Harris
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 95.0

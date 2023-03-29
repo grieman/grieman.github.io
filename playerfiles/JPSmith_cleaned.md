@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: JP Smith  
-date: 2023-03-16 21:09:05.903087  
+date: 2023-03-21 18:47:01.710859  
 categories: player  
 ---
 # JP Smith
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 106.0
 
-## Current Percentile: 87.0
+## Current Percentile: 84.0
 
 # Elo History
 

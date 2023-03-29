@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Elliot Obatoyinbo  
-date: 2023-03-17 17:37:57.301944  
+date: 2023-03-29 11:31:46.728423  
 categories: player  
 ---
 # Elliot Obatoyinbo
 
+
+Last updated: 2023-03-29
 ## Positions: FB
 
 ## Current elo: 87.0
 
-## Current Percentile: 29.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,10 +23,10 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Saracens          |            24 |   0.5625   |
-| Newcastle Falcons |            11 |   0.363636 |
-| Ampthill          |             1 |   0        |
-| London Scottish   |             1 |   0        |
+| Saracens          |            24 |     0.5625 |
+| Newcastle Falcons |            10 |     0.3    |
+| Ampthill          |             1 |     0      |
+| London Scottish   |             1 |     0      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,11 +38,11 @@ categories: player
 | Bristol Rugby       |         2 |   0.5      |
 | Cardiff Blues       |         2 |   0        |
 | Cornish Pirates     |         2 |   0        |
-| Sale Sharks         |         2 |   0.5      |
 | Jersey              |         2 |   0.5      |
 | London Irish        |         2 |   0.25     |
 | Newcastle Falcons   |         1 |   1        |
 | Saracens            |         1 |   0        |
+| Sale Sharks         |         1 |   0        |
 | Ospreys             |         1 |   1        |
 | Northampton Saints  |         1 |   0        |
 | Ampthill            |         1 |   1        |

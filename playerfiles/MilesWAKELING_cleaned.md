@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Miles WAKELING  
-date: 2023-02-06 16:02:00.856139  
+date: 2023-03-29 11:30:51.108261  
 categories: player  
 ---
 # Miles WAKELING
 
+
+Last updated: 2023-03-29
 ## Positions: FL
 
-## Current elo: 91.0
+## Current elo: 94.0
 
-## Current Percentile: 29.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -21,19 +23,19 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Richmond        |            13 |   0.192308 |
+| Richmond        |            15 |   0.166667 |
 | London Scottish |             4 |   0.25     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Doncaster           |         4 |        0   |
+| Nottingham          |         3 |        0   |
 | Caldy               |         2 |        0   |
 | Hartpury College    |         2 |        0.5 |
-| Nottingham          |         2 |        0   |
+| Jersey              |         2 |        0   |
 | Ampthill            |         1 |        0.5 |
+| Bedford             |         1 |        0   |
 | Cornish Pirates     |         1 |        0   |
-| Coventry            |         1 |        0   |
 | Ealing Trailfinders |         1 |        0   |
-| Jersey              |         1 |        0   |
 | London Scottish     |         1 |        1   |
 | Yorkshire Carnegie  |         1 |        1   |

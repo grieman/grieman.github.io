@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Louis-Mathieu Jazeix  
-date: 2023-03-17 17:16:42.574531  
+date: 2023-03-21 18:27:03.741108  
 categories: player  
 ---
 # Louis-Mathieu Jazeix
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 84.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Suresnes       |            21 |   0.380952 |
+| Suresnes       |            20 |   0.35     |
 | Carcassonne    |            11 |   0.318182 |
 | Mont-de-Marsan |             3 |   0        |
 
@@ -32,13 +34,13 @@ categories: player
 | US Bressane                |         2 |   0.5      |
 | Bourgoin-Jallieu           |         2 |   0.5      |
 | Carqueiranne-Hyères        |         2 |   0.5      |
-| Rennes                     |         2 |   1        |
 | Dax                        |         2 |   0        |
 | Mont-de-Marsan             |         2 |   0        |
 | Narbonne                   |         2 |   0        |
 | Nice                       |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Rouen                      |         1 |   1        |
+| Rennes                     |         1 |   1        |
 | Perpignan                  |         1 |   0        |
 | Pau                        |         1 |   0        |
 | Oyonnax                    |         1 |   0        |

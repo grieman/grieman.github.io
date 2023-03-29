@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jonny May  
-date: 2023-03-17 17:16:50.664470  
+date: 2023-03-21 17:57:03.582505  
 categories: player  
 ---
 # Jonny May
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: England
 
 ## Current elo: 105.0
 
-## Current Percentile: 79.0
+## Current Percentile: 77.0
 
 # Elo History
 

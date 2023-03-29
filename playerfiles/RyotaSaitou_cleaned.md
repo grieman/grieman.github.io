@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryota Saitou  
-date: 2023-01-17 11:29:47.852460  
+date: 2023-03-21 18:39:54.212469  
 categories: player  
 ---
 # Ryota Saitou
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 80.0
+## Current elo: 81.0
 
-## Current Percentile: 22.0
+## Current Percentile: 9.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             2 |          0 |
+| Shimizu Blue Sharks |             6 |   0.166667 |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
-| Kamaishi Seawaves |         1 |          0 |
-| Urayasu D-Rocks   |         1 |          0 |
+| Kamaishi Seawaves |         2 |        0.5 |
+| Mie Honda Heat    |         2 |        0   |
+| Urayasu D-Rocks   |         2 |        0   |

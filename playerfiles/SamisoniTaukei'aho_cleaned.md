@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Samisoni Taukei'aho  
-date: 2023-03-17 17:21:28.138799  
+date: 2023-03-21 18:33:28.754590  
 categories: player  
 ---
 # Samisoni Taukei'aho
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Chiefs      |            66 |   0.598485 |
+| Chiefs      |            67 |   0.604478 |
 | Waikato     |            26 |   0.423077 |
 | New Zealand |            21 |   0.785714 |
 
@@ -38,10 +40,10 @@ categories: player
 | Brumbies                 |         5 |   0.4      |
 | Argentina                |         4 |   0.75     |
 | Queensland Reds          |         4 |   0.75     |
-| Northland                |         3 |   0.666667 |
-| Otago                    |         3 |   0.333333 |
-| Melbourne Rebels         |         3 |   1        |
+| Melbourne Rebels         |         4 |   1        |
 | South Africa             |         3 |   0.666667 |
+| Otago                    |         3 |   0.333333 |
+| Northland                |         3 |   0.666667 |
 | Wellington               |         3 |   0.333333 |
 | Manawatu                 |         2 |   0        |
 | Taranaki                 |         2 |   1        |

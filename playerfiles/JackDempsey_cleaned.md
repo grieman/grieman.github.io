@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jack Dempsey  
-date: 2023-03-17 17:41:23.750611  
+date: 2023-03-21 18:01:14.558275  
 categories: player  
 ---
 # Jack Dempsey
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Scotland
 
-## Current elo: 86.0
+## Current elo: 81.0
 
-## Current Percentile: 38.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -27,7 +29,7 @@ categories: player
 | Glasgow Warriors         |            33 |   0.515152 |
 | Australia                |            15 |   0.6      |
 | North Harbour Rays       |            13 |   0.461538 |
-| Scotland                 |             8 |   0.5      |
+| Scotland                 |             9 |   0.555556 |
 | Sydney Rays              |             4 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
@@ -38,21 +40,21 @@ categories: player
 | Melbourne Rebels    |         6 |   0.333333 |
 | Blues               |         4 |   0        |
 | Brisbane City       |         4 |   0.25     |
-| Sharks              |         4 |   0.5      |
 | New Zealand         |         4 |   0.25     |
 | Chiefs              |         4 |   0.25     |
+| Sharks              |         4 |   0.5      |
 | Crusaders           |         4 |   0.5      |
 | Edinburgh           |         4 |   0.75     |
 | Argentina           |         3 |   1        |
-| Lions               |         3 |   0.666667 |
-| South Africa        |         3 |   0.333333 |
 | Leinster            |         3 |   0        |
+| South Africa        |         3 |   0.333333 |
+| Italy               |         3 |   1        |
 | Melbourne Rising    |         3 |   0.333333 |
+| Lions               |         3 |   0.666667 |
 | Highlanders         |         3 |   0        |
 | Benetton Treviso    |         3 |   0.333333 |
 | La Rochelle         |         2 |   0        |
 | Perpignan           |         2 |   1        |
-| Italy               |         2 |   1        |
 | Hurricanes          |         2 |   0        |
 | Sunwolves           |         2 |   1        |
 | Greater Sydney Rams |         2 |   0.75     |

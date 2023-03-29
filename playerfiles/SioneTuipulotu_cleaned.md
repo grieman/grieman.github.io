@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sione Tuipulotu  
-date: 2023-03-17 17:03:45.508497  
+date: 2023-03-21 18:51:19.110211  
 categories: player  
 ---
 # Sione Tuipulotu
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: Tonga

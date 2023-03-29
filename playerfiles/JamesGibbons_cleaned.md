@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: James Gibbons  
-date: 2023-02-02 18:57:16.632763  
+date: 2023-03-21 18:17:26.584203  
 categories: player  
 ---
 # James Gibbons
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 88.0
 
-## Current Percentile: 19.0
+## Current Percentile: 23.0
 
 # Elo History
 

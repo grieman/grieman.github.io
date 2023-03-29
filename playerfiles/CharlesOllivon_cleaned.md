@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Charles Ollivon  
-date: 2023-03-17 17:29:08.017614  
+date: 2023-03-21 18:09:05.568958  
 categories: player  
 ---
 # Charles Ollivon
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: France
 
-## Current elo: 146.0
+## Current elo: 138.0
 
 ## Current Percentile: 99.0
 
@@ -25,7 +27,7 @@ categories: player
 |:--------|--------------:|-----------:|
 | Toulon  |            87 |   0.597701 |
 | Bayonne |            33 |   0.484848 |
-| France  |            31 |   0.677419 |
+| France  |            32 |   0.6875   |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,14 +42,14 @@ categories: player
 | La Rochelle          |         7 |   0.5      |
 | Grenoble             |         7 |   0.5      |
 | Stade Francais Paris |         6 |   0.833333 |
-| Scarlets             |         5 |   0.8      |
-| Brive                |         5 |   0.4      |
 | Scotland             |         5 |   0.4      |
+| Wales                |         5 |   0.8      |
+| Brive                |         5 |   0.4      |
+| Scarlets             |         5 |   0.8      |
 | Ireland              |         4 |   0.5      |
-| Wales                |         4 |   0.75     |
+| England              |         3 |   0.666667 |
 | Italy                |         3 |   1        |
 | Japan                |         3 |   1        |
-| England              |         3 |   0.666667 |
 | London Irish         |         3 |   1        |
 | Bayonne              |         3 |   0.333333 |
 | Oyonnax              |         2 |   1        |

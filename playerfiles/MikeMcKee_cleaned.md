@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mike McKee  
-date: 2023-03-17 17:02:22.273244  
+date: 2023-03-21 18:39:53.022470  
 categories: player  
 ---
 # Mike McKee
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 79.0
+## Current elo: 77.0
 
-## Current Percentile: 11.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Southland        |            31 |  0.0967742 |
-| Moana Pasifika   |             6 |  0         |
+| Moana Pasifika   |             7 |  0         |
 | Counties Manukau |             4 |  0.25      |
 
 | Opponent      |   Matches |   Win Rate |
@@ -39,6 +41,7 @@ categories: player
 | Otago         |         2 |   0        |
 | Tasman        |         2 |   0        |
 | Wellington    |         2 |   0        |
+| Brumbies      |         1 |   0        |
 | Crusaders     |         1 |   0        |
 | Fijian Drua   |         1 |   0        |
 | Western Force |         1 |   0        |

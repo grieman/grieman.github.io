@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Marc Palmier  
-date: 2023-03-17 17:09:11.460447  
+date: 2023-03-21 18:43:55.920688  
 categories: player  
 ---
 # Marc Palmier
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 114.0
+## Current elo: 110.0
 
 ## Current Percentile: 85.0
 
@@ -21,21 +23,21 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Aurillac          |            61 |   0.508197 |
-| Clermont Auvergne |             6 |   0.5      |
+| Aurillac          |            62 |        0.5 |
+| Clermont Auvergne |             6 |        0.5 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Beziers              |         6 |   0.5      |
-| Grenoble             |         5 |   0.2      |
+| Mont-de-Marsan       |         5 |   0.2      |
 | Rouen                |         5 |   0.8      |
 | Provence Rugby       |         5 |   0.6      |
-| Mont-de-Marsan       |         5 |   0.2      |
+| Grenoble             |         5 |   0.2      |
 | Vannes               |         4 |   0.5      |
 | Nevers               |         4 |   0.5      |
 | Carcassonne          |         4 |   0.5      |
+| Colomiers            |         4 |   0.5      |
 | Agen                 |         3 |   0.333333 |
-| Colomiers            |         3 |   0.666667 |
 | Montauban            |         3 |   0.666667 |
 | Massy                |         2 |   1        |
 | Narbonne             |         2 |   1        |

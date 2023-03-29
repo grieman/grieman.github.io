@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Duren Hoffman  
-date: 2023-03-17 17:14:56.971473  
+date: 2023-03-21 18:49:10.689185  
 categories: player  
 ---
 # Duren Hoffman
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 98.0
+## Current elo: 91.0
 
-## Current Percentile: 79.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leopards |            15 |        0.6 |
-| Griffons |             1 |        0   |
+| Griffons |             2 |        0   |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -31,6 +33,7 @@ categories: player
 | Border Bulldogs        |         2 |   1        |
 | Eastern Province Kings |         2 |   0.5      |
 | Black Lion             |         1 |   0        |
+| Free State Cheetahs    |         1 |   0        |
 | Natal Sharks           |         1 |   0        |
 | SWD Eagles             |         1 |   0        |
 | Tusker Simba           |         1 |   0        |

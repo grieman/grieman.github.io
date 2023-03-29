@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam Dugdale  
-date: 2023-03-17 17:12:22.507049  
+date: 2023-03-21 18:22:22.288691  
 categories: player  
 ---
 # Sam Dugdale
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 88.0
+## Current elo: 87.0
 
-## Current Percentile: 36.0
+## Current Percentile: 33.0
 
 # Elo History
 

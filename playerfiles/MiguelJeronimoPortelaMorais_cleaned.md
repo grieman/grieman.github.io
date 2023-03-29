@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Miguel Jeronimo Portela Morais  
-date: 2023-02-24 02:36:18.338002  
+date: 2023-03-21 18:16:38.381810  
 categories: player  
 ---
 # Miguel Jeronimo Portela Morais
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Portugal
 
-## Current elo: 105.0
+## Current elo: 109.0
 
-## Current Percentile: 72.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -21,14 +23,13 @@ categories: player
 # Match History
 
 
-| Team         |   Appearances |   Win Rate |
-|:-------------|--------------:|-----------:|
-| Portugal     |             3 |          1 |
-| Lusitanos XV |             1 |          0 |
+| Team     |   Appearances |   Win Rate |
+|:---------|--------------:|-----------:|
+| Portugal |             4 |       0.75 |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Belgium       |         1 |          1 |
-| Poland        |         1 |          1 |
-| Romania       |         1 |          1 |
-| Tel-Aviv Heat |         1 |          0 |
+| Opponent   |   Matches |   Win Rate |
+|:-----------|----------:|-----------:|
+| Belgium    |         1 |          1 |
+| Georgia    |         1 |          0 |
+| Poland     |         1 |          1 |
+| Romania    |         1 |          1 |

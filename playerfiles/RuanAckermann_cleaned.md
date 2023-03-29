@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ruan Ackermann  
-date: 2023-03-17 17:40:47.103736  
+date: 2023-03-21 17:57:16.362634  
 categories: player  
 ---
 # Ruan Ackermann
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 96.0

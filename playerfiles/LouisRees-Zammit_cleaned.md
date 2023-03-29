@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Louis Rees-Zammit  
-date: 2023-03-16 20:11:39.755829  
+date: 2023-03-21 18:43:29.357723  
 categories: player  
 ---
 # Louis Rees-Zammit
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Wales
 
-## Current elo: 94.0
+## Current elo: 102.0
 
-## Current Percentile: 37.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Gloucester Rugby |            62 |   0.508065 |
-| Wales            |            21 |   0.47619  |
+| Wales            |            22 |   0.454545 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,8 +38,8 @@ categories: player
 | Northampton Saints  |         5 |   0.8      |
 | London Irish        |         5 |   0.7      |
 | South Africa        |         4 |   0.25     |
+| France              |         4 |   0        |
 | Newcastle Falcons   |         4 |   0.75     |
-| France              |         3 |   0        |
 | Sale Sharks         |         3 |   0.333333 |
 | Wasps               |         3 |   0.333333 |
 | Italy               |         3 |   0.666667 |

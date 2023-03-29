@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Henry Bell  
-date: 2023-03-09 10:12:48.249788  
+date: 2023-03-21 18:40:07.833450  
 categories: player  
 ---
 # Henry Bell
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 94.0

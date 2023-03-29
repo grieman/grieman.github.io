@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gabriel Pop  
-date: 2023-02-24 02:31:30.626745  
+date: 2023-03-21 18:11:41.937687  
 categories: player  
 ---
 # Gabriel Pop
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Romania

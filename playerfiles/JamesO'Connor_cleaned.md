@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: James O'Connor  
-date: 2023-03-17 17:13:18.023623  
+date: 2023-03-21 18:37:47.907640  
 categories: player  
 ---
 # James O'Connor
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: Australia
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 41.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Australia        |            68 |   0.507353 |
-| Queensland Reds  |            52 |   0.567308 |
+| Queensland Reds  |            53 |   0.575472 |
 | Toulon           |            52 |   0.701923 |
 | Western Force    |            39 |   0.371795 |
 | Sale Sharks      |            30 |   0.6      |
@@ -80,16 +82,17 @@ categories: player
 | France                   |         2 |   1        |
 | Castres Olympique        |         2 |   1        |
 | Connacht                 |         2 |   0.5      |
+| Fijian Drua              |         2 |   1        |
 | Scotland                 |         2 |   0        |
-| Oyonnax                  |         2 |   1        |
 | Grenoble                 |         2 |   1        |
+| Oyonnax                  |         2 |   1        |
 | Agen                     |         2 |   1        |
-| Fijian Drua              |         1 |   1        |
+| Samoa                    |         1 |   1        |
+| Georgia                  |         1 |   1        |
+| Russia                   |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | Fiji                     |         1 |   1        |
-| Russia                   |         1 |   1        |
 | Southern Kings           |         1 |   0        |
-| Samoa                    |         1 |   1        |
 | Jaguares                 |         1 |   0        |
 | Brive                    |         1 |   1        |
 | Sunwolves                |         1 |   1        |
@@ -97,4 +100,3 @@ categories: player
 | Japan                    |         1 |   1        |
 | Bristol Rugby            |         1 |   1        |
 | Bayonne                  |         1 |   1        |
-| Georgia                  |         1 |   1        |

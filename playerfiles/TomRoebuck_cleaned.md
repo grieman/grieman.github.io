@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tom Roebuck  
-date: 2023-03-17 17:24:09.305576  
+date: 2023-03-21 18:16:53.125763  
 categories: player  
 ---
 # Tom Roebuck
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 86.0
+## Current Percentile: 84.0
 
 # Elo History
 

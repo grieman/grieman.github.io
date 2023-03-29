@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Takuhei Yasuda  
-date: 2023-01-17 11:29:09.874745  
+date: 2023-03-21 18:44:41.848721  
 categories: player  
 ---
 # Takuhei Yasuda
 
-## Positions: W, FB
 
-## Current elo: 116.0
+Last updated: 2023-03-21
+## Positions: FB, W
 
-## Current Percentile: 74.0
+## Current elo: 140.0
+
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -21,19 +23,23 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Urayasu D-Rocks |            12 |        0.5 |
+| Urayasu D-Rocks |            20 |       0.55 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Kamaishi Seawaves                 |         2 |          1 |
+| Mitsubishi Dynaboars              |         2 |          0 |
+| Shimizu Blue Sharks               |         2 |          1 |
+| Toyota Industries Shuttles Aichi  |         2 |          1 |
 | Black Rams Tokyo                  |         1 |          1 |
 | Green Rockets Tokatsu             |         1 |          1 |
+| Hino Red Dolphins                 |         1 |          1 |
 | Kobelco Kobe Steelers             |         1 |          0 |
 | Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
 | Mie Honda Heat                    |         1 |          1 |
 | Munakata Sanix Blues              |         1 |          1 |
 | Saitama Wild Knights              |         1 |          0 |
-| Shimizu Blue Sharks               |         1 |          1 |
 | Shizuoka Blue Revs                |         1 |          0 |
 | Tokyo Sungoliath                  |         1 |          0 |
-| Toyota Industries Shuttles Aichi  |         1 |          1 |
+| Toyota Verblitz                   |         1 |          0 |
 | Yokohama Canon Eagles             |         1 |          0 |

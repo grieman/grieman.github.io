@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Folau Fakatava  
-date: 2023-03-17 17:22:17.264937  
+date: 2023-03-21 18:35:03.366654  
 categories: player  
 ---
 # Folau Fakatava
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: New Zealand
 
-## Current elo: 83.0
+## Current elo: 82.0
 
-## Current Percentile: 18.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            30 |   0.266667 |
+| Highlanders |            31 |   0.290323 |
 | Hawke's Bay |            20 |   0.55     |
 | New Zealand |             2 |   0        |
 
@@ -41,6 +43,7 @@ categories: player
 | Melbourne Rebels         |         2 |   0        |
 | Ireland                  |         2 |   0        |
 | Counties Manukau         |         2 |   0.5      |
+| Western Force            |         2 |   1        |
 | Fijian Drua              |         1 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | New South Wales Waratahs |         1 |   0        |
@@ -51,4 +54,3 @@ categories: player
 | Taranaki                 |         1 |   1        |
 | Canterbury               |         1 |   0        |
 | Brumbies                 |         1 |   0        |
-| Western Force            |         1 |   1        |

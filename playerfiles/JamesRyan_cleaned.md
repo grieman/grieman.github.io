@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Ryan  
-date: 2023-03-17 17:11:54.664254  
+date: 2023-03-21 17:59:10.821496  
 categories: player  
 ---
 # James Ryan
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: New Zealand

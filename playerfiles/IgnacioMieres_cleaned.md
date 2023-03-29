@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ignacio Mieres  
-date: 2023-03-17 17:26:29.018940  
+date: 2023-03-21 18:13:18.636450  
 categories: player  
 ---
 # Ignacio Mieres
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Argentina

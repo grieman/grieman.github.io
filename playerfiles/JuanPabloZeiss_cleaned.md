@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Juan Pablo Zeiss  
-date: 2023-03-17 17:24:34.180321  
+date: 2023-03-21 18:46:19.691239  
 categories: player  
 ---
 # Juan Pablo Zeiss
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Argentina

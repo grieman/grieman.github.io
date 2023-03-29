@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Emmanuel Albert  
-date: 2023-03-17 17:10:48.976955  
+date: 2023-03-21 18:23:03.627169  
 categories: player  
 ---
 # Emmanuel Albert
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 97.0

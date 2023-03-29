@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Max Jorgensen  
-date: 2023-03-16 19:51:06.514829  
+date: 2023-03-21 18:15:25.932297  
 categories: player  
 ---
 # Max Jorgensen
 
-## Positions: W
 
-## Current elo: 101.0
+Last updated: 2023-03-21
+## Positions: W, FB
 
-## Current Percentile: 42.0
+## Current elo: 104.0
+
+## Current Percentile: 62.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| New South Wales Waratahs |             2 |        0.5 |
+| New South Wales Waratahs |             3 |   0.333333 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
 | Brumbies    |         1 |          0 |
 | Fijian Drua |         1 |          1 |
+| Hurricanes  |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dillon Smit  
-date: 2023-03-17 17:20:42.833656  
+date: 2023-03-21 18:55:59.592824  
 categories: player  
 ---
 # Dillon Smit
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 106.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Schalk Ferreira  
-date: 2023-03-16 19:48:23.630583  
+date: 2023-03-21 18:55:12.450807  
 categories: player  
 ---
 # Schalk Ferreira
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 89.0
@@ -26,12 +28,12 @@ categories: player
 | Eastern Province Kings |            10 |   0.2      |
 | Free State Cheetahs    |             9 |   0.777778 |
 | Stormers               |             5 |   0.8      |
-| Cheetahs               |             1 |   1        |
+| Cheetahs               |             2 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Cheetahs                 |        11 |  0.0909091 |
-| Scarlets                 |         5 |  0         |
+| Scarlets                 |         6 |  0         |
 | Pumas                    |         5 |  0.4       |
 | Bulls                    |         5 |  0.2       |
 | Jaguares                 |         4 |  0.5       |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lui Sitama  
-date: 2023-03-17 17:26:53.924489  
+date: 2023-03-21 18:46:17.264766  
 categories: player  
 ---
 # Lui Sitama
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 94.0
 
-## Current Percentile: 62.0
+## Current Percentile: 59.0
 
 # Elo History
 

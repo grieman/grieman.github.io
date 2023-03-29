@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Cronin  
-date: 2023-03-17 17:12:39.709638  
+date: 2023-03-21 18:36:56.032711  
 categories: player  
 ---
 # James Cronin
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Ireland

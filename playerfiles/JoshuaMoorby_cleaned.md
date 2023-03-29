@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Joshua Moorby  
-date: 2023-03-17 17:07:07.730661  
+date: 2023-03-21 18:09:29.195704  
 categories: player  
 ---
 # Joshua Moorby
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: New Zealand Maori
 
 ## Current elo: 93.0
 
-## Current Percentile: 47.0
+## Current Percentile: 43.0
 
 # Elo History
 

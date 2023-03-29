@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Teihorangi Walden  
-date: 2023-03-17 17:08:27.583728  
+date: 2023-03-21 18:34:47.161676  
 categories: player  
 ---
 # Teihorangi Walden
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: New Zealand Maori

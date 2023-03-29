@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ethan McVeigh  
-date: 2023-03-16 19:54:52.837859  
+date: 2023-03-21 18:08:56.865903  
 categories: player  
 ---
 # Ethan McVeigh
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 99.0

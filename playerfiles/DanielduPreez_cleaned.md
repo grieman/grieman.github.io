@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Daniel du Preez  
-date: 2023-03-17 17:32:26.999077  
+date: 2023-03-21 17:58:48.815602  
 categories: player  
 ---
 # Daniel du Preez
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: South Africa
 
 ## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 63.0
 
 # Elo History
 

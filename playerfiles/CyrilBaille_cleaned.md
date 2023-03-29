@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Cyril Baille  
-date: 2023-03-17 17:27:24.978790  
+date: 2023-03-21 18:36:17.825554  
 categories: player  
 ---
 # Cyril Baille
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: France
 
-## Current elo: 107.0
+## Current elo: 102.0
 
-## Current Percentile: 73.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           170 |   0.632353 |
-| France           |            41 |   0.707317 |
+| France           |            42 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,9 +38,9 @@ categories: player
 | Montpellier Herault      |        11 |   0.636364 |
 | Toulon                   |         9 |   0.611111 |
 | Stade Francais Paris     |         9 |   0.777778 |
+| Wales                    |         7 |   0.857143 |
 | Oyonnax                  |         7 |   0.785714 |
 | Brive                    |         7 |   0.857143 |
-| Wales                    |         6 |   0.833333 |
 | Italy                    |         6 |   1        |
 | England                  |         5 |   0.6      |
 | Pau                      |         5 |   0.8      |

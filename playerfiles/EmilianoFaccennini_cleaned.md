@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Emiliano Faccennini  
-date: 2023-03-17 17:08:02.073970  
+date: 2023-03-21 18:47:29.979821  
 categories: player  
 ---
 # Emiliano Faccennini
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Uruguay
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 75.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |            14 |   0.857143 |
+| Penarol Rugby |            15 |   0.866667 |
 | Uruguay       |             1 |   0        |
 
 | Opponent         |   Matches |   Win Rate |
@@ -35,3 +37,4 @@ categories: player
 | Olimpia Lions    |         2 |   0.5      |
 | American Raptors |         1 |   1        |
 | Japan            |         1 |   0        |
+| Yacare XV        |         1 |   1        |

@@ -1,25 +1,32 @@
 ---  
 layout: page  
 title: Tomoya Nakamura  
-date: 2023-03-17 17:34:44.104812  
+date: 2023-03-21 18:22:33.758762  
 categories: player  
 ---
 # Tomoya Nakamura
 
-## Positions: 
 
-## Current elo: 94.0
+Last updated: 2023-03-21
+## Positions: SH
+
+## Current elo: 91.0
 
 ## Current Percentile: None
 
+# Elo History
+
+
+![elo history](history_TomoyaNakamura.png)
 # Match History
 
 
 | Team                     |   Appearances |   Win Rate |
 |:-------------------------|--------------:|-----------:|
-| Hanazono Kintetsu Liners |             2 |          0 |
+| Hanazono Kintetsu Liners |             3 |          0 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Mitsubishi Dynaboars |         1 |          0 |
+| Tokyo Sungoliath     |         1 |          0 |
 | Toyota Verblitz      |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daichi Akiyama  
-date: 2023-03-17 17:15:28.623038  
+date: 2023-03-21 18:11:20.833157  
 categories: player  
 ---
 # Daichi Akiyama
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Japan
 
-## Current elo: 95.0
+## Current elo: 96.0
 
 ## Current Percentile: 47.0
 
@@ -23,12 +25,12 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            36 |   0.583333 |
+| Toyota Verblitz |            37 |   0.567568 |
 | Japan           |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
+| Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
 | Kubota Spears Funabashi Tokyo-Bay |         4 |   0.5      |
 | Saitama Wild Knights              |         4 |   0        |
 | Black Rams Tokyo                  |         3 |   0.666667 |

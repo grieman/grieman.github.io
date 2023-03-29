@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Christian Lacombe  
-date: 2023-03-17 17:16:22.151204  
+date: 2023-03-20 15:47:05.711213  
 categories: player  
 ---
 # Christian Lacombe
 
+
+Last updated: 2023-03-20
 ## Positions: FH
 
 ## Current elo: 66.0

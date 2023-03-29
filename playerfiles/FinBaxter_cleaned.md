@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fin Baxter  
-date: 2023-03-17 17:02:11.861209  
+date: 2023-03-21 18:12:01.372507  
 categories: player  
 ---
 # Fin Baxter
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 95.0
 
-## Current Percentile: 25.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Harlequins |            14 |   0.357143 |
+| Harlequins |            13 |   0.307692 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -30,6 +32,5 @@ categories: player
 | Exeter Chiefs      |         2 |   0.5      |
 | Gloucester Rugby   |         1 |   0        |
 | Northampton Saints |         1 |   0        |
-| Racing 92          |         1 |   1        |
 | Sharks             |         1 |   1        |
 | Worcester Warriors |         1 |   1        |

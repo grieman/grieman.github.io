@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Aurelien Labau  
-date: 2023-03-17 17:31:27.889358  
+date: 2023-03-21 18:04:01.092607  
 categories: player  
 ---
 # Aurelien Labau
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 108.0

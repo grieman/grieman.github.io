@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ellis Genge  
-date: 2023-03-17 17:02:49.643892  
+date: 2023-03-21 18:00:38.201285  
 categories: player  
 ---
 # Ellis Genge
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England
 
-## Current elo: 88.0
+## Current elo: 97.0
 
-## Current Percentile: 44.0
+## Current Percentile: 27.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |           110 |   0.586364 |
-| England          |            44 |   0.636364 |
+| England          |            45 |   0.622222 |
 | Bristol Rugby    |             8 |   0.5625   |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -44,7 +46,7 @@ categories: player
 | Worcester Warriors       |         5 |   1        |
 | London Irish             |         5 |   0.8      |
 | Scotland                 |         5 |   0.3      |
-| Ireland                  |         4 |   0.5      |
+| Ireland                  |         5 |   0.4      |
 | Argentina                |         4 |   0.75     |
 | Racing 92                |         4 |   0        |
 | France                   |         4 |   0.25     |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ben Lesage  
-date: 2023-03-16 20:05:52.665296  
+date: 2023-03-21 18:26:41.918637  
 categories: player  
 ---
 # Ben Lesage
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 100.0
+## Current elo: 111.0
 
-## Current Percentile: None
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| New England Free Jacks |             2 |        0.5 |
+| New England Free Jacks |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Old Glory DC     |         1 |          1 |
+| Rugby New York   |         1 |          1 |
 | San Diego Legion |         1 |          0 |

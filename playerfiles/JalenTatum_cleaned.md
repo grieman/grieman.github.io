@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jalen Tatum  
-date: 2023-03-17 17:38:29.533567  
+date: 2023-03-21 18:22:18.917881  
 categories: player  
 ---
 # Jalen Tatum
 
+
+Last updated: 2023-03-21
 ## Positions: FL, W
 
 ## Current elo: 59.0

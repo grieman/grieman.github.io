@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lucas Ollion  
-date: 2023-03-17 17:43:25.174983  
+date: 2023-03-21 18:31:26.866254  
 categories: player  
 ---
 # Lucas Ollion
 
+
+Last updated: 2023-03-21
 ## Positions: SH, FH
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 36.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,19 +23,19 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |            19 |   0.157895 |
+| Rennes |            18 |   0.166667 |
 | Vannes |             8 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         2 |        0   |
-| Chambery                   |         2 |        0.5 |
+| Blagnac                    |         2 |        0   |
 | US Bressane                |         2 |        0   |
 | Tarbes                     |         2 |        0   |
-| Suresnes                   |         2 |        0   |
+| Chambery                   |         2 |        0.5 |
 | Valence Romans Drome Rugby |         2 |        0   |
-| Blagnac                    |         2 |        0   |
 | Carqueiranne-Hyères        |         1 |        1   |
+| Biarritz Olympique         |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Colomiers                  |         1 |        1   |
 | Aurillac                   |         1 |        1   |
@@ -42,7 +44,7 @@ categories: player
 | Montauban                  |         1 |        0   |
 | Narbonne                   |         1 |        0   |
 | Nice                       |         1 |        0   |
-| Biarritz Olympique         |         1 |        0   |
+| Suresnes                   |         1 |        0   |
 | Beziers                    |         1 |        1   |
 | Bayonne                    |         1 |        0   |
 | Dax                        |         1 |        0   |

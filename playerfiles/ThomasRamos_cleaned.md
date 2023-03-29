@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thomas Ramos  
-date: 2023-03-17 17:41:04.439217  
+date: 2023-03-21 18:30:16.417348  
 categories: player  
 ---
 # Thomas Ramos
 
+
+Last updated: 2023-03-21
 ## Positions: FB, FH
 
 ## Country: France
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |           128 |   0.746094 |
-| France           |            25 |   0.8      |
+| France           |            26 |   0.807692 |
 | Colomiers        |            24 |   0.645833 |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -48,8 +50,8 @@ categories: player
 | Oyonnax                  |         4 |   0.875    |
 | Ulster                   |         4 |   0.75     |
 | Leinster                 |         4 |   0.25     |
+| Wales                    |         4 |   1        |
 | Italy                    |         4 |   1        |
-| Wales                    |         3 |   1        |
 | Wasps                    |         3 |   0.666667 |
 | Bayonne                  |         3 |   0.666667 |
 | England                  |         3 |   0.666667 |

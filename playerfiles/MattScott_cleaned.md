@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Matt Scott  
-date: 2023-03-17 17:25:13.196439  
+date: 2023-03-21 18:17:16.163828  
 categories: player  
 ---
 # Matt Scott
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Scotland
 
 ## Current elo: 100.0
 
-## Current Percentile: 22.0
+## Current Percentile: 21.0
 
 # Elo History
 

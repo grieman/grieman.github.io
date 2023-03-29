@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lilian Rousset  
-date: 2023-03-16 20:14:12.140532  
+date: 2023-03-21 18:44:56.382202  
 categories: player  
 ---
 # Lilian Rousset
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 91.0
+## Current elo: 92.0
 
-## Current Percentile: 59.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Blagnac   |            19 |   0.736842 |
+| Blagnac   |            18 |   0.777778 |
 | Colomiers |             6 |   0.5      |
 | Grenoble  |             1 |   0        |
 
@@ -33,13 +35,13 @@ categories: player
 | Chambery                   |         2 |       1    |
 | Dax                        |         2 |       1    |
 | Grenoble                   |         2 |       1    |
-| Albi                       |         2 |       0.5  |
 | Montauban                  |         2 |       0    |
-| Nice                       |         1 |       0    |
+| Narbonne                   |         1 |       0.5  |
 | Suresnes                   |         1 |       1    |
 | Rennes                     |         1 |       1    |
+| Nice                       |         1 |       0    |
 | Agen                       |         1 |       0    |
-| Narbonne                   |         1 |       0.5  |
+| Albi                       |         1 |       1    |
 | Cognac Saint Jean d'Angély |         1 |       1    |
 | Carqueiranne-Hyères        |         1 |       1    |
 | Bourgoin-Jallieu           |         1 |       1    |

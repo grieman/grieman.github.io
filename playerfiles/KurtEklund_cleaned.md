@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Kurt Eklund  
-date: 2023-03-17 17:41:44.560686  
+date: 2023-03-21 18:25:09.799908  
 categories: player  
 ---
 # Kurt Eklund
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: New Zealand Maori
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Blues             |            41 |   0.780488 |
+| Blues             |            42 |   0.761905 |
 | Auckland          |            31 |   0.5      |
 | Bay of Plenty     |            18 |   0.722222 |
 | New Zealand Maori |             4 |   0.75     |
@@ -31,8 +33,8 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |         8 |   1        |
+| Crusaders                |         7 |   0.142857 |
 | Chiefs                   |         6 |   0.833333 |
-| Crusaders                |         6 |   0.166667 |
 | Hurricanes               |         6 |   0.666667 |
 | Waikato                  |         5 |   0.4      |
 | Canterbury               |         5 |   0        |

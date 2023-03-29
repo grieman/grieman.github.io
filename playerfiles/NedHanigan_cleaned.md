@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ned Hanigan  
-date: 2023-03-17 17:20:03.028934  
+date: 2023-03-21 18:09:41.236276  
 categories: player  
 ---
 # Ned Hanigan
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Country: Australia

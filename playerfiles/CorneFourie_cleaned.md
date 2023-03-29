@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Corne Fourie  
-date: 2023-03-17 17:41:39.566635  
+date: 2023-03-21 18:50:21.637684  
 categories: player  
 ---
 # Corne Fourie
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 103.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hoskins Sotutu  
-date: 2023-03-17 17:39:13.193867  
+date: 2023-03-21 18:30:41.335314  
 categories: player  
 ---
 # Hoskins Sotutu
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: New Zealand
 
-## Current elo: 128.0
+## Current elo: 127.0
 
 ## Current Percentile: 97.0
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Blues            |            41 |   0.719512 |
+| Blues            |            42 |   0.702381 |
 | New Zealand      |            15 |   0.866667 |
 | Auckland         |            12 |   0.833333 |
 | Counties Manukau |             4 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Crusaders                |         8 |   0.125    |
 | Highlanders              |         8 |   0.875    |
-| Crusaders                |         7 |   0.142857 |
 | Australia                |         6 |   0.916667 |
 | Chiefs                   |         6 |   0.666667 |
 | Hurricanes               |         5 |   0.8      |

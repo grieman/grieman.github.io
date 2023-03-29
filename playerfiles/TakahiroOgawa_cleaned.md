@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Takahiro Ogawa  
-date: 2023-03-17 17:02:30.889547  
+date: 2023-03-21 18:13:06.886955  
 categories: player  
 ---
 # Takahiro Ogawa
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Japan
 
 ## Current elo: 95.0
 
-## Current Percentile: 50.0
+## Current Percentile: 49.0
 
 # Elo History
 
@@ -23,17 +25,17 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            74 |   0.533784 |
-| Japan                     |             2 |   0.5      |
+| Toshiba Brave Lupus Tokyo |            75 |       0.54 |
+| Japan                     |             2 |       0.5  |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Tokyo Sungoliath                  |         8 |   0.375    |
 | Saitama Wild Knights              |         8 |   0.1875   |
 | Green Rockets Tokatsu             |         7 |   0.857143 |
+| Toyota Verblitz                   |         7 |   0.571429 |
 | Shizuoka Blue Revs                |         7 |   0.571429 |
 | Kubota Spears Funabashi Tokyo-Bay |         6 |   0.333333 |
-| Toyota Verblitz                   |         6 |   0.5      |
 | Kobelco Kobe Steelers             |         5 |   0.4      |
 | Yokohama Canon Eagles             |         4 |   0.75     |
 | Urayasu D-Rocks                   |         4 |   0.25     |

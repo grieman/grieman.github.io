@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Oktay YILMAZ  
-date: 2023-03-17 17:06:58.652307  
+date: 2023-03-29 11:31:18.473091  
 categories: player  
 ---
 # Oktay YILMAZ
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 101.0
 
-## Current Percentile: 44.0
+## Current Percentile: 59.0
 
 # Elo History
 
@@ -22,15 +24,15 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Nevers           |            21 |   0.380952 |
-| Bourgoin-Jallieu |            19 |   0.5      |
+| Bourgoin-Jallieu |            20 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Narbonne                   |         4 |       0.75 |
+| US Bressane                |         3 |       0.5  |
 | Montauban                  |         2 |       0.5  |
 | Mont-de-Marsan             |         2 |       0.5  |
 | Valence Romans Drome Rugby |         2 |       0.25 |
-| US Bressane                |         2 |       0.5  |
 | Tarbes                     |         2 |       0.5  |
 | Rouen                      |         2 |       0.5  |
 | Nice                       |         2 |       1    |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nathan Den Hoedt  
-date: 2023-03-17 17:04:34.980174  
+date: 2023-03-21 18:13:45.256180  
 categories: player  
 ---
 # Nathan Den Hoedt
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 96.0
 
-## Current Percentile: 48.0
+## Current Percentile: 60.0
 
 # Elo History
 

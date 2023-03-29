@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kotaro Tatsuno  
-date: 2023-01-13 11:32:49.029530  
+date: 2023-03-21 18:29:37.067403  
 categories: player  
 ---
 # Kotaro Tatsuno
 
-## Positions: FH
 
-## Current elo: 83.0
+Last updated: 2023-03-21
+## Positions: FH, FB
 
-## Current Percentile: 11.0
+## Current elo: 79.0
+
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,13 +23,15 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Skyactivs Hiroshima |             9 |   0.111111 |
+| Skyactivs Hiroshima |            13 |   0.230769 |
 
-| Opponent              |   Matches |   Win Rate |
-|:----------------------|----------:|-----------:|
-| Kamaishi Seawaves     |         2 |        0.5 |
-| Mie Honda Heat        |         2 |        0   |
-| Mitsubishi Dynaboars  |         2 |        0   |
-| Chugoku Red Regulions |         1 |        0   |
-| Hino Red Dolphins     |         1 |        0   |
-| Kurita Water Gush     |         1 |        0   |
+| Opponent                        |   Matches |   Win Rate |
+|:--------------------------------|----------:|-----------:|
+| Kamaishi Seawaves               |         2 |        0.5 |
+| Kurita Water Gush               |         2 |        0.5 |
+| Kyuden Voltex                   |         2 |        0   |
+| Mie Honda Heat                  |         2 |        0   |
+| Mitsubishi Dynaboars            |         2 |        0   |
+| Chugoku Red Regulions           |         1 |        1   |
+| Hino Red Dolphins               |         1 |        0   |
+| NTT Docomo Red Hurricanes Osaka |         1 |        0   |

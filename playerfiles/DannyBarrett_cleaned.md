@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Danny Barrett  
-date: 2023-03-17 17:36:01.822164  
+date: 2023-03-21 18:53:43.587174  
 categories: player  
 ---
 # Danny Barrett
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: United States of America

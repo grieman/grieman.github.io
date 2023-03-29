@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bryce Hegarty  
-date: 2023-03-17 17:11:10.512761  
+date: 2023-03-21 18:52:14.767136  
 categories: player  
 ---
 # Bryce Hegarty
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
-## Current elo: 98.0
+## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -28,8 +30,8 @@ categories: player
 | Black Rams Tokyo                 |             8 |   0.375    |
 | Toyota Industries Shuttles Aichi |             5 |   0.4      |
 | Brisbane City                    |             4 |   0.25     |
+| Western Force                    |             4 |   0.5      |
 | Sydney Rays                      |             3 |   0.666667 |
-| Western Force                    |             3 |   0.666667 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -38,7 +40,7 @@ categories: player
 | Western Force                     |        11 |   0.545455 |
 | New South Wales Waratahs          |        11 |   0.363636 |
 | Queensland Reds                   |        10 |   0.6      |
-| Highlanders                       |         7 |   0.428571 |
+| Highlanders                       |         8 |   0.375    |
 | Chiefs                            |         6 |   0.333333 |
 | Lions                             |         6 |   0        |
 | Crusaders                         |         6 |   0.166667 |

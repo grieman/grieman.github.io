@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Clément Ancely  
-date: 2023-03-17 17:23:51.460973  
+date: 2023-03-21 18:33:32.900583  
 categories: player  
 ---
 # Clément Ancely
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 96.0
+## Current elo: 92.0
 
-## Current Percentile: 55.0
+## Current Percentile: 53.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Grenoble |             6 |   0.833333 |
+| Grenoble |             7 |   0.714286 |
 
-| Opponent       |   Matches |   Win Rate |
-|:---------------|----------:|-----------:|
-| Aurillac       |         1 |        1   |
-| Beziers        |         1 |        1   |
-| Carcassonne    |         1 |        0.5 |
-| Colomiers      |         1 |        1   |
-| Provence Rugby |         1 |        0.5 |
-| Rouen          |         1 |        1   |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Aurillac         |         1 |        1   |
+| Beziers          |         1 |        1   |
+| Carcassonne      |         1 |        0.5 |
+| Colomiers        |         1 |        1   |
+| Provence Rugby   |         1 |        0.5 |
+| Rouen            |         1 |        1   |
+| Soyaux-Angouleme |         1 |        0   |

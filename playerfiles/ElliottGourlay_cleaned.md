@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Elliott Gourlay  
-date: 2023-02-02 18:47:20.805244  
+date: 2023-03-21 18:32:10.288696  
 categories: player  
 ---
 # Elliott Gourlay
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 113.0
+## Current elo: 96.0
 
-## Current Percentile: 77.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |            12 |   0.416667 |
+| Caldy  |            15 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
+| Ampthill            |         2 |        0   |
 | Bedford             |         2 |        0.5 |
-| Ampthill            |         1 |        0   |
+| Coventry            |         2 |        0   |
+| Jersey              |         2 |        0   |
 | Cornish Pirates     |         1 |        1   |
-| Coventry            |         1 |        0   |
 | Doncaster           |         1 |        0   |
 | Ealing Trailfinders |         1 |        1   |
 | Hartpury College    |         1 |        0   |
-| Jersey              |         1 |        0   |
 | London Scottish     |         1 |        0   |
 | Nottingham          |         1 |        1   |
 | Richmond            |         1 |        1   |

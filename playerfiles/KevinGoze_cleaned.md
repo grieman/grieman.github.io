@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kevin Goze  
-date: 2023-03-17 17:27:40.705821  
+date: 2023-03-21 18:56:37.625556  
 categories: player  
 ---
 # Kevin Goze
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 97.0

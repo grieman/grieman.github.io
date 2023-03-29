@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Richard Judd  
-date: 2023-03-17 17:20:34.420986  
+date: 2023-03-21 18:48:15.900759  
 categories: player  
 ---
 # Richard Judd
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Provincial Union XV

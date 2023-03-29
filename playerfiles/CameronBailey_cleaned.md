@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cameron Bailey  
-date: 2023-03-02 11:22:25.027314  
+date: 2023-03-21 17:57:12.096276  
 categories: player  
 ---
 # Cameron Bailey
 
-## Positions: FB
 
-## Current elo: 97.0
+Last updated: 2023-03-21
+## Positions: FB, W
 
-## Current Percentile: 34.0
+## Current elo: 83.0
+
+## Current Percentile: 30.0
 
 # Elo History
 
@@ -21,12 +23,11 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |             5 |        0.2 |
+| Kamaishi Seawaves |             6 |   0.166667 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Hino Red Dolphins                |         1 |          0 |
+| Toyota Industries Shuttles Aichi |         2 |          0 |
+| Urayasu D-Rocks                  |         2 |          0 |
 | Mie Honda Heat                   |         1 |          0 |
 | Shimizu Blue Sharks              |         1 |          1 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
-| Urayasu D-Rocks                  |         1 |          0 |

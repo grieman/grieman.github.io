@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ethan Blackadder  
-date: 2023-03-16 19:52:28.795205  
+date: 2023-03-21 18:41:50.991793  
 categories: player  
 ---
 # Ethan Blackadder
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: New Zealand
 
-## Current elo: 132.0
+## Current elo: 133.0
 
 ## Current Percentile: 96.0
 
@@ -24,17 +26,17 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Tasman      |            37 |   0.77027  |
-| Crusaders   |            34 |   0.823529 |
+| Crusaders   |            35 |   0.828571 |
 | New Zealand |             9 |   0.777778 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Chiefs           |         8 |   0.625    |
+| Blues            |         5 |   0.8      |
 | Canterbury       |         5 |   0.2      |
 | Auckland         |         5 |   0.8      |
 | Hurricanes       |         4 |   1        |
 | Highlanders      |         4 |   0.75     |
-| Blues            |         4 |   0.75     |
 | North Harbour    |         4 |   0.875    |
 | Taranaki         |         4 |   0.75     |
 | Queensland Reds  |         3 |   1        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rob Cobb  
-date: 2023-03-17 17:31:10.322555  
+date: 2023-03-21 18:10:32.989158  
 categories: player  
 ---
 # Rob Cobb
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 92.0

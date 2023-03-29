@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Craig Hampson  
-date: 2023-02-02 19:03:29.722601  
+date: 2023-03-21 18:56:55.315036  
 categories: player  
 ---
 # Craig Hampson
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 103.0
+## Current elo: 124.0
 
-## Current Percentile: 80.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,38 +23,39 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            51 |   0.833333 |
+| Ealing Trailfinders |            46 |   0.858696 |
 | Wasps               |            38 |   0.355263 |
+| Doncaster           |             1 |   1        |
 | Yorkshire Carnegie  |             1 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Coventry           |         7 |   0.785714 |
-| Ampthill           |         6 |   1        |
-| Hartpury College   |         6 |   1        |
-| Jersey             |         6 |   1        |
+| Coventry           |         6 |   0.916667 |
+| Ampthill           |         5 |   1        |
 | Bath Rugby         |         5 |   0.1      |
 | Doncaster          |         5 |   0.6      |
-| Newcastle Falcons  |         4 |   0.25     |
+| Hartpury College   |         5 |   1        |
+| Jersey             |         5 |   1        |
+| Bedford            |         4 |   0.75     |
 | Richmond           |         4 |   1        |
 | Nottingham         |         4 |   1        |
 | Exeter Chiefs      |         4 |   0.25     |
-| Bedford            |         4 |   0.75     |
-| Saracens           |         3 |   0        |
-| Cornish Pirates    |         3 |   0.666667 |
-| Leicester Tigers   |         3 |   0.666667 |
+| Newcastle Falcons  |         4 |   0.25     |
 | Northampton Saints |         3 |   0.666667 |
+| Leicester Tigers   |         3 |   0.666667 |
 | Harlequins         |         3 |   0.333333 |
-| Ospreys            |         2 |   0.5      |
-| Stade Toulousain   |         2 |   0        |
-| Sale Sharks        |         2 |   0        |
-| Worcester Warriors |         2 |   1        |
+| Cornish Pirates    |         3 |   0.666667 |
+| Saracens           |         3 |   0        |
 | Leinster           |         2 |   0        |
+| Stade Toulousain   |         2 |   0        |
 | London Scottish    |         2 |   1        |
+| Ospreys            |         2 |   0.5      |
 | Bristol Rugby      |         2 |   1        |
-| London Irish       |         1 |   0        |
-| Gloucester Rugby   |         1 |   0        |
-| Scarlets           |         1 |   0        |
-| Caldy              |         1 |   0        |
+| Worcester Warriors |         2 |   1        |
+| Sale Sharks        |         2 |   0        |
 | Yorkshire Carnegie |         1 |   1        |
+| London Irish       |         1 |   0        |
+| Scarlets           |         1 |   0        |
+| Rotherham Titans   |         1 |   1        |
+| Gloucester Rugby   |         1 |   0        |
 | Zebre              |         1 |   1        |

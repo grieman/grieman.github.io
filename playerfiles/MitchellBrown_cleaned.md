@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mitchell Brown  
-date: 2023-02-24 02:23:01.972051  
+date: 2023-03-21 18:21:20.320707  
 categories: player  
 ---
 # Mitchell Brown
 
-## Positions: FL
 
-## Current elo: 93.0
+Last updated: 2023-03-21
+## Positions: FL, L
 
-## Current Percentile: 52.0
+## Current elo: 110.0
+
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,11 +23,12 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Yokohama Canon Eagles |             4 |      0.875 |
+| Yokohama Canon Eagles |             7 |   0.642857 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         1 |        1   |
-| Green Rockets Tokatsu             |         1 |        1   |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |        0.5 |
-| Toshiba Brave Lupus Tokyo         |         1 |        1   |
+| Kubota Spears Funabashi Tokyo-Bay |         3 |   0.166667 |
+| Black Rams Tokyo                  |         1 |   1        |
+| Green Rockets Tokatsu             |         1 |   1        |
+| Toshiba Brave Lupus Tokyo         |         1 |   1        |
+| Toyota Verblitz                   |         1 |   1        |

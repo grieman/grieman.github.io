@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Tommy RAYNAUD  
-date: 2023-03-12 11:32:29.919021  
+date: 2023-03-29 11:29:30.506464  
 categories: player  
 ---
 # Tommy RAYNAUD
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 76.0
+## Current elo: 74.0
 
 ## Current Percentile: 10.0
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Oyonnax  |           151 |   0.582781 |
+| Oyonnax  |           152 |   0.585526 |
 | Narbonne |            27 |   0.37037  |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Colomiers                  |        14 |   0.464286 |
+| Colomiers                  |        15 |   0.5      |
 | Beziers                    |        12 |   0.666667 |
 | Mont-de-Marsan             |        10 |   0.35     |
 | Carcassonne                |        10 |   0.7      |

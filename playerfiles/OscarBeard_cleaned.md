@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Oscar Beard  
-date: 2023-03-17 17:43:03.166196  
+date: 2023-03-21 18:01:15.706769  
 categories: player  
 ---
 # Oscar Beard
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 94.0

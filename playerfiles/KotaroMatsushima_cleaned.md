@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Kotaro Matsushima  
-date: 2023-03-17 17:14:28.359362  
+date: 2023-03-21 18:17:25.488204  
 categories: player  
 ---
 # Kotaro Matsushima
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Japan

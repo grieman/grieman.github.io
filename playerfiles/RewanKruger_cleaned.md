@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rewan Kruger  
-date: 2023-03-16 19:55:26.262866  
+date: 2023-03-21 18:37:57.246126  
 categories: player  
 ---
 # Rewan Kruger
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 95.0
+## Current elo: 96.0
 
-## Current Percentile: 41.0
+## Current Percentile: 36.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Free State Cheetahs |            12 |   0.75     |
+| Free State Cheetahs |            13 |   0.769231 |
 | Cheetahs            |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
@@ -32,5 +34,6 @@ categories: player
 | Pau              |         2 |   1        |
 | Western Province |         2 |   1        |
 | Golden Lions     |         1 |   1        |
+| Griffons         |         1 |   1        |
 | Natal Sharks     |         1 |   1        |
 | Scarlets         |         1 |   0        |

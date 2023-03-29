@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Robin GRAULLE  
-date: 2023-03-17 17:29:49.933351  
+date: 2023-03-29 11:29:16.755746  
 categories: player  
 ---
 # Robin GRAULLE
 
+
+Last updated: 2023-03-29
 ## Positions: SH, W
 
-## Current elo: 89.0
+## Current elo: 81.0
 
-## Current Percentile: 24.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -21,28 +23,29 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| US Bressane |            14 |   0.5      |
+| US Bressane |            14 |   0.464286 |
 | Colomiers   |             9 |   0.333333 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Vannes                     |         2 |        0   |
 | Nevers                     |         2 |        0.5 |
-| Narbonne                   |         2 |        1   |
-| Albi                       |         1 |        0   |
+| Mont-de-Marsan             |         1 |        0   |
 | US Bressane                |         1 |        0   |
 | Rennes                     |         1 |        1   |
 | Perpignan                  |         1 |        0   |
 | Oyonnax                    |         1 |        1   |
 | Nice                       |         1 |        0   |
+| Narbonne                   |         1 |        1   |
 | Montauban                  |         1 |        1   |
 | Agen                       |         1 |        1   |
-| Colomiers                  |         1 |        1   |
+| Albi                       |         1 |        0   |
 | Cognac Saint Jean d'Angély |         1 |        1   |
 | Chambery                   |         1 |        1   |
 | Carqueiranne-Hyères        |         1 |        0   |
 | Carcassonne                |         1 |        0   |
+| Bourgoin-Jallieu           |         1 |        0.5 |
 | Blagnac                    |         1 |        0   |
 | Biarritz Olympique         |         1 |        0   |
 | Beziers                    |         1 |        0   |
-| Mont-de-Marsan             |         1 |        0   |
+| Colomiers                  |         1 |        1   |

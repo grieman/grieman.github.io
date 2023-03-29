@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Scott Barrett  
-date: 2023-03-17 17:11:57.915219  
+date: 2023-03-21 18:35:11.510643  
 categories: player  
 ---
 # Scott Barrett
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            99 |   0.808081 |
+| Crusaders   |           100 |   0.81     |
 | New Zealand |            61 |   0.786885 |
 | Canterbury  |            19 |   0.789474 |
 | Taranaki    |             1 |   1        |
@@ -33,8 +35,8 @@ categories: player
 | Chiefs                   |        15 |   0.533333 |
 | Australia                |        14 |   0.785714 |
 | Highlanders              |        14 |   0.714286 |
+| Blues                    |        13 |   0.923077 |
 | Hurricanes               |        13 |   0.769231 |
-| Blues                    |        12 |   0.916667 |
 | Argentina                |         9 |   0.888889 |
 | South Africa             |         9 |   0.666667 |
 | France                   |         6 |   1        |

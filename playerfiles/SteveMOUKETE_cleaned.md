@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Steve MOUKETE  
-date: 2023-03-12 11:34:53.273345  
+date: 2023-03-27 11:31:14.150298  
 categories: player  
 ---
 # Steve MOUKETE
 
+
+Last updated: 2023-03-27
 ## Positions: FL, L
 
-## Current elo: 88.0
+## Current elo: 85.0
 
-## Current Percentile: 40.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            15 |   0.333333 |
+| Aurillac |            16 |     0.3125 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Colomiers        |         2 |        0.5 |
 | Mont-de-Marsan   |         2 |        0   |
 | Rouen            |         2 |        0.5 |
 | Agen             |         1 |        1   |
 | Beziers          |         1 |        0   |
 | Carcassonne      |         1 |        1   |
-| Colomiers        |         1 |        1   |
 | Grenoble         |         1 |        0   |
 | Montauban        |         1 |        1   |
 | Oyonnax          |         1 |        0   |

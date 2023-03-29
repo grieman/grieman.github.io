@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Guillaume Piron  
-date: 2023-03-16 19:59:34.035219  
+date: 2023-03-21 18:21:25.051699  
 categories: player  
 ---
 # Guillaume Piron
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Belgium
 
 ## Current elo: 66.0
 
-## Current Percentile: 4.0
+## Current Percentile: 5.0
 
 # Elo History
 

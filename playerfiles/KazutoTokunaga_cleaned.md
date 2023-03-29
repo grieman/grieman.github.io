@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kazuto Tokunaga  
-date: 2023-01-13 11:35:10.578901  
+date: 2023-03-21 18:32:14.482689  
 categories: player  
 ---
 # Kazuto Tokunaga
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 116.0
+## Current elo: 124.0
 
-## Current Percentile: 94.0
+## Current Percentile: None
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |            32 |      0.375 |
+| Kyuden Voltex |            39 |   0.461538 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         5 |   1        |
+| Chugoku Red Regulions            |         6 |   1        |
+| Kurita Water Gush                |         6 |   0.5      |
+| Skyactivs Hiroshima              |         4 |   1        |
 | Toyota Industries Shuttles Aichi |         4 |   0        |
-| Kurita Water Gush                |         3 |   0.333333 |
 | Mazda Blue Zoomers               |         3 |   0.333333 |
 | Coca-Cola Red Sparks             |         2 |   0        |
 | Hanazono Kintetsu Liners         |         2 |   0        |
@@ -39,4 +42,3 @@ categories: player
 | Hino Red Dolphins                |         1 |   0        |
 | Mie Honda Heat                   |         1 |   0        |
 | Munakata Sanix Blues             |         1 |   0        |
-| Skyactivs Hiroshima              |         1 |   1        |

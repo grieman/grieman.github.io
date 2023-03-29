@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Caleb Makene  
-date: 2023-03-02 11:26:36.637441  
+date: 2023-03-21 18:02:58.322393  
 categories: player  
 ---
 # Caleb Makene
 
+
+Last updated: 2023-03-21
 ## Positions: FH, W
 
 ## Current elo: 109.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Julien Lebian  
-date: 2023-03-17 17:10:12.082914  
+date: 2023-03-21 18:04:48.047487  
 categories: player  
 ---
 # Julien Lebian
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 114.0

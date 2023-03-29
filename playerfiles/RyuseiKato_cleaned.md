@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ryusei Kato  
-date: 2023-03-17 17:21:09.155364  
+date: 2023-03-21 18:36:32.645534  
 categories: player  
 ---
 # Ryusei Kato
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 92.0
+## Current elo: 93.0
 
-## Current Percentile: 32.0
+## Current Percentile: 34.0
 
 # Elo History
 
@@ -21,14 +23,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            25 |       0.52 |
+| Toyota Verblitz |            26 |        0.5 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Toshiba Brave Lupus Tokyo         |         4 |   0.25     |
 | Black Rams Tokyo                  |         3 |   0.666667 |
 | Saitama Wild Knights              |         3 |   0        |
 | Shizuoka Blue Revs                |         3 |   0.666667 |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | Kubota Spears Funabashi Tokyo-Bay |         2 |   0.5      |
 | Tokyo Sungoliath                  |         2 |   0        |
 | Green Rockets Tokatsu             |         1 |   1        |

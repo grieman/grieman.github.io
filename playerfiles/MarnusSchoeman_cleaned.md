@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Marnus Schoeman  
-date: 2023-03-17 17:18:16.478351  
+date: 2023-03-21 17:56:22.872651  
 categories: player  
 ---
 # Marnus Schoeman
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 76.0

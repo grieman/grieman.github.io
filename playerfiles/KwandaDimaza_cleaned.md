@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kwanda Dimaza  
-date: 2023-03-17 17:38:50.949072  
+date: 2023-03-21 18:13:15.810953  
 categories: player  
 ---
 # Kwanda Dimaza
 
+
+Last updated: 2023-03-21
 ## Positions: N8, L
 
 ## Current elo: 93.0
 
-## Current Percentile: 71.0
+## Current Percentile: 68.0
 
 # Elo History
 

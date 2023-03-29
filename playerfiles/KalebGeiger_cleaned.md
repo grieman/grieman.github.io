@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kaleb Geiger  
-date: 2023-03-16 20:08:47.250783  
+date: 2023-03-21 18:31:41.647733  
 categories: player  
 ---
 # Kaleb Geiger
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 156.0
+## Current elo: 154.0
 
-## Current Percentile: 100.0
+## Current Percentile: 99.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| R.U. New York  |             8 |      0.625 |
-| Rugby New York |             8 |      0.5   |
+| Rugby New York |             9 |   0.444444 |
+| R.U. New York  |             8 |   0.625    |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
-| New England Free Jacks |         3 |   0.333333 |
+| New England Free Jacks |         4 |   0.25     |
 | Seattle Seawolves      |         3 |   0.666667 |
 | Toronto Arrows         |         3 |   0.333333 |
 | NOLA Gold              |         2 |   0.5      |

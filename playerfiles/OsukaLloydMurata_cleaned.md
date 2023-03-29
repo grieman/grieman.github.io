@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Osuka Lloyd Murata  
-date: 2023-02-02 19:10:31.032129  
+date: 2023-03-21 18:07:38.740510  
 categories: player  
 ---
 # Osuka Lloyd Murata
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 84.0
+## Current elo: 71.0
 
-## Current Percentile: 41.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,20 +23,21 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kamaishi Seawaves |            24 |      0.375 |
+| Kamaishi Seawaves |            28 |   0.321429 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
 | Kyuden Voltex                    |         3 |   0.333333 |
 | Mazda Blue Zoomers               |         3 |   0.5      |
+| Mie Honda Heat                   |         3 |   0        |
+| Shimizu Blue Sharks              |         3 |   0.666667 |
 | Chugoku Red Regulions            |         2 |   1        |
 | Hanazono Kintetsu Liners         |         2 |   0        |
 | Hino Red Dolphins                |         2 |   0        |
 | Kurita Water Gush                |         2 |   0.5      |
-| Mie Honda Heat                   |         2 |   0        |
 | Mitsubishi Dynaboars             |         2 |   0        |
-| Shimizu Blue Sharks              |         2 |   1        |
+| Toyota Industries Shuttles Aichi |         2 |   0        |
 | Chubu Electric Power             |         1 |   1        |
 | Coca-Cola Red Sparks             |         1 |   0.5      |
 | NTT Docomo Red Hurricanes Osaka  |         1 |   0        |
-| Toyota Industries Shuttles Aichi |         1 |   0        |
+| Urayasu D-Rocks                  |         1 |   0        |

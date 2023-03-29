@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Gabriel Paganini  
-date: 2023-03-17 17:42:30.038817  
+date: 2023-03-21 18:00:27.891367  
 categories: player  
 ---
 # Gabriel Paganini
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Brazil
@@ -23,16 +25,16 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            23 |   0.173913 |
+| Cobras |            24 |   0.208333 |
 | Brazil |            14 |   0.142857 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
 | Penarol Rugby |         5 |       0    |
 | Portugal      |         5 |       0.4  |
+| Selknam       |         5 |       0.4  |
 | Cafeteros Pro |         4 |       0.5  |
 | Olimpia Lions |         4 |       0.25 |
-| Selknam       |         4 |       0.25 |
 | Germany       |         3 |       0    |
 | Jaguares XV   |         3 |       0    |
 | Romania       |         2 |       0    |

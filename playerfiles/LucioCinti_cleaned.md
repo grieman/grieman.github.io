@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Lucio Cinti  
-date: 2023-03-16 19:51:39.140638  
+date: 2023-03-21 18:25:47.200008  
 categories: player  
 ---
 # Lucio Cinti
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Argentina
 
-## Current elo: 107.0
+## Current elo: 98.0
 
-## Current Percentile: 25.0
+## Current Percentile: 27.0
 
 # Elo History
 

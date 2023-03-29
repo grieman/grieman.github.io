@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: David Williams  
-date: 2023-02-02 18:54:04.535651  
+date: 2023-03-21 18:32:19.067187  
 categories: player  
 ---
 # David Williams
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 87.0
+## Current elo: 104.0
 
-## Current Percentile: 39.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,17 +23,17 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Nottingham       |            78 |   0.365385 |
+| Nottingham       |            74 |   0.385135 |
 | Leicester Tigers |             5 |   0.2      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Doncaster           |        10 |   0.3      |
-| Cornish Pirates     |         9 |   0.222222 |
+| Doncaster           |         9 |   0.333333 |
+| Cornish Pirates     |         8 |   0.25     |
 | Bedford             |         8 |   0.25     |
 | London Scottish     |         7 |   0.857143 |
 | Jersey              |         6 |   0.25     |
-| Coventry            |         6 |   0.416667 |
+| Coventry            |         5 |   0.5      |
 | Ealing Trailfinders |         5 |   0.4      |
 | Hartpury College    |         5 |   0.4      |
 | London Irish        |         4 |   0.25     |
@@ -39,10 +41,10 @@ categories: player
 | Richmond            |         4 |   0.5      |
 | Ampthill            |         3 |   0.666667 |
 | Yorkshire Carnegie  |         3 |   0.666667 |
-| Caldy               |         2 |   0.5      |
 | Sale Sharks         |         2 |   0        |
 | Exeter Chiefs       |         1 |   0        |
 | London Welsh        |         1 |   0        |
 | Newcastle Falcons   |         1 |   0        |
+| Caldy               |         1 |   1        |
 | Rotherham Titans    |         1 |   0.5      |
 | Saracens            |         1 |   0        |

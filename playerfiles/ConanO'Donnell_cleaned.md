@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Conan O'Donnell  
-date: 2023-03-17 17:25:22.498785  
+date: 2023-03-21 18:48:41.521724  
 categories: player  
 ---
 # Conan O'Donnell
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 74.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Michiro Takai  
-date: 2023-02-16 11:19:21.453331  
+date: 2023-03-21 18:34:04.649041  
 categories: player  
 ---
 # Michiro Takai
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 81.0
+## Current elo: 69.0
 
-## Current Percentile: 9.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |            34 |   0.352941 |
+| Kyuden Voltex |            35 |   0.371429 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
 | Chugoku Red Regulions            |         4 |   1        |
+| Kurita Water Gush                |         4 |   0.5      |
 | Toyota Industries Shuttles Aichi |         4 |   0        |
-| Kurita Water Gush                |         3 |   0.333333 |
 | Mazda Blue Zoomers               |         3 |   0.333333 |
 | Shimizu Blue Sharks              |         3 |   0.666667 |
 | Coca-Cola Red Sparks             |         2 |   0        |

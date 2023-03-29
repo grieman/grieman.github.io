@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Diver Ceballos  
-date: 2023-03-17 17:23:37.916434  
+date: 2023-03-21 18:04:33.794392  
 categories: player  
 ---
 # Diver Ceballos
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 67.0

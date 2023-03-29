@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Charles Brousse  
-date: 2023-03-17 16:59:48.974112  
+date: 2023-03-21 18:29:05.935443  
 categories: player  
 ---
 # Charles Brousse
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 118.0

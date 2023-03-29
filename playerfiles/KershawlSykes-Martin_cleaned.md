@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Kershawl Sykes-Martin  
-date: 2023-03-17 17:18:47.346909  
+date: 2023-03-21 18:56:36.298370  
 categories: player  
 ---
 # Kershawl Sykes-Martin
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 97.0
 
 ## Current Percentile: 57.0
 
@@ -22,11 +24,12 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | Tasman    |             8 |      0.375 |
-| Crusaders |             1 |      0     |
+| Crusaders |             2 |      0.5   |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
 | Auckland      |         1 |          0 |
+| Blues         |         1 |          1 |
 | Canterbury    |         1 |          0 |
 | Fijian Drua   |         1 |          0 |
 | Hawke's Bay   |         1 |          0 |

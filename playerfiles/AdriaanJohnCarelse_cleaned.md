@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Adriaan John Carelse  
-date: 2023-03-17 17:28:40.701650  
+date: 2023-03-21 18:41:10.431348  
 categories: player  
 ---
 # Adriaan John Carelse
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
-## Current elo: 85.0
+## Current elo: 87.0
 
-## Current Percentile: 19.0
+## Current Percentile: 20.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Boland Cavaliers    |            19 |   0.342105 |
-| Dallas Jackals      |            15 |   0        |
+| Dallas Jackals      |            16 |   0        |
 | Rugby ATL           |            10 |   0.6      |
 | Free State Cheetahs |             4 |   0        |
 
@@ -41,8 +43,8 @@ categories: player
 | Rugby New York         |         2 |   0        |
 | R.U. New York          |         2 |   0        |
 | Pumas                  |         2 |   0.5      |
-| Natal Sharks           |         2 |   0        |
 | NOLA Gold              |         2 |   0.5      |
+| Natal Sharks           |         2 |   0        |
 | Leopards               |         2 |   0        |
 | Golden Lions           |         2 |   0        |
 | Eastern Province Kings |         2 |   1        |
@@ -51,4 +53,5 @@ categories: player
 | Griffons               |         1 |   0        |
 | Free State Cheetahs    |         1 |   0        |
 | Toronto Arrows         |         1 |   1        |
+| Chicago Hounds         |         1 |   0        |
 | Western Province       |         1 |   0        |

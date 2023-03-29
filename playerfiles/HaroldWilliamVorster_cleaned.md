@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harold William Vorster  
-date: 2023-02-24 02:27:10.965667  
+date: 2023-03-21 18:36:24.896044  
 categories: player  
 ---
 # Harold William Vorster
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 110.0
+## Current elo: 100.0
 
-## Current Percentile: 80.0
+## Current Percentile: 71.0
 
 # Elo History
 
@@ -19,16 +21,16 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Bulls  |             8 |        0.5 |
+| Team       |   Appearances |   Win Rate |
+|:-----------|--------------:|-----------:|
+| Bulls      |             6 |   0.333333 |
+| Blue Bulls |             1 |   0        |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Stormers      |         2 |          0 |
-| Cardiff Blues |         1 |          1 |
-| Dragons       |         1 |          1 |
-| Exeter Chiefs |         1 |          1 |
-| Ospreys       |         1 |          1 |
-| Scarlets      |         1 |          0 |
-| Sharks        |         1 |          0 |
+| Opponent         |   Matches |   Win Rate |
+|:-----------------|----------:|-----------:|
+| Stormers         |         2 |          0 |
+| Dragons          |         1 |          1 |
+| Exeter Chiefs    |         1 |          1 |
+| Scarlets         |         1 |          0 |
+| Sharks           |         1 |          0 |
+| Western Province |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yuichiro Taniguchi  
-date: 2023-03-17 17:23:08.507269  
+date: 2023-03-21 18:10:07.042451  
 categories: player  
 ---
 # Yuichiro Taniguchi
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 105.0
+## Current elo: 77.0
 
-## Current Percentile: 90.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            18 |   0.333333 |
+| Black Rams Tokyo |            20 |        0.3 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Shizuoka Blue Revs                |         4 |   0.25     |
 | Toyota Verblitz                   |         3 |   0.333333 |
-| Shizuoka Blue Revs                |         2 |   0.5      |
 | Tokyo Sungoliath                  |         2 |   0        |
 | Toshiba Brave Lupus Tokyo         |         2 |   0        |
 | Green Rockets Tokatsu             |         1 |   1        |

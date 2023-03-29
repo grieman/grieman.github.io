@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Stephen Perofeta  
-date: 2023-03-17 17:09:43.755069  
+date: 2023-03-21 18:45:54.682123  
 categories: player  
 ---
 # Stephen Perofeta
 
+
+Last updated: 2023-03-21
 ## Positions: FB, FH
 
 ## Country: New Zealand
 
-## Current elo: 117.0
+## Current elo: 116.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 
@@ -23,13 +25,13 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blues       |            49 |   0.581633 |
+| Blues       |            50 |   0.57     |
 | Taranaki    |            43 |   0.662791 |
 | New Zealand |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Crusaders                |         7 |   0.142857 |
+| Crusaders                |         8 |   0.125    |
 | Highlanders              |         7 |   0.714286 |
 | Hurricanes               |         7 |   0.571429 |
 | Chiefs                   |         6 |   0.416667 |

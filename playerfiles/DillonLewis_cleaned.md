@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dillon Lewis  
-date: 2023-03-17 17:01:38.498840  
+date: 2023-03-21 18:55:04.546817  
 categories: player  
 ---
 # Dillon Lewis
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Wales
 
-## Current elo: 101.0
+## Current elo: 104.0
 
-## Current Percentile: 63.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cardiff Blues |            86 |   0.523256 |
-| Wales         |            49 |   0.540816 |
+| Wales         |            50 |   0.53     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -38,9 +40,9 @@ categories: player
 | Glasgow Warriors    |         5 |   0.2      |
 | Scotland            |         5 |   0.6      |
 | Ireland             |         5 |   0.2      |
+| France              |         5 |   0.2      |
 | England             |         5 |   0.4      |
 | Australia           |         4 |   0.75     |
-| France              |         4 |   0.25     |
 | Connacht            |         4 |   0.5      |
 | Italy               |         4 |   0.75     |
 | Lyon                |         3 |   1        |

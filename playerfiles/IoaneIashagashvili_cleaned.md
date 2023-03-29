@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ioane Iashagashvili  
-date: 2023-03-17 17:35:21.988221  
+date: 2023-03-21 17:58:56.189415  
 categories: player  
 ---
 # Ioane Iashagashvili
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 97.0

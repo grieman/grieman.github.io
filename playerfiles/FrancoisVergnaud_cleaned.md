@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Francois Vergnaud  
-date: 2023-02-15 22:14:33.026840  
+date: 2023-03-21 18:05:31.086811  
 categories: player  
 ---
 # Francois Vergnaud
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 71.0
+## Current elo: 75.0
 
-## Current Percentile: 4.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |            49 |   0.418367 |
+| Biarritz Olympique |            48 |   0.427083 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -29,12 +31,12 @@ categories: player
 | Perpignan                  |         5 |   0        |
 | Beziers                    |         4 |   0.25     |
 | Grenoble                   |         4 |   0.75     |
-| Oyonnax                    |         3 |   0        |
 | Nevers                     |         3 |   0.333333 |
 | Vannes                     |         2 |   1        |
 | Carcassonne                |         2 |   0.5      |
 | Provence Rugby             |         2 |   0.5      |
 | Mont-de-Marsan             |         2 |   0.5      |
+| Oyonnax                    |         2 |   0        |
 | Aurillac                   |         1 |   1        |
 | Newcastle Falcons          |         1 |   0        |
 | Valence Romans Drome Rugby |         1 |   0        |

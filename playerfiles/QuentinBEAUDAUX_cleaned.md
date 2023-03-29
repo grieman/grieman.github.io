@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Quentin BEAUDAUX  
-date: 2023-03-12 11:32:06.983561  
+date: 2023-03-29 11:31:13.194465  
 categories: player  
 ---
 # Quentin BEAUDAUX
 
+
+Last updated: 2023-03-29
 ## Positions: H
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 52.0
+## Current Percentile: 42.0
 
 # Elo History
 
@@ -21,22 +23,24 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |            27 |   0.481481 |
+| Nevers |            29 |   0.517241 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Beziers          |         3 |   0.5      |
-| Provence Rugby   |         3 |   0.666667 |
-| Aurillac         |         2 |   1        |
-| Carcassonne      |         2 |   0.5      |
-| Colomiers        |         2 |   0        |
-| Grenoble         |         2 |   0        |
-| Montauban        |         2 |   0        |
-| Oyonnax          |         2 |   0        |
-| US Bressane      |         2 |   1        |
-| Vannes           |         2 |   0.5      |
-| Bayonne          |         1 |   0.5      |
-| Mont-de-Marsan   |         1 |   0        |
-| Narbonne         |         1 |   1        |
-| Rouen            |         1 |   1        |
-| Soyaux-Angouleme |         1 |   1        |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Beziers            |         3 |   0.5      |
+| Provence Rugby     |         3 |   0.666667 |
+| Aurillac           |         2 |   1        |
+| Montauban          |         2 |   0        |
+| US Bressane        |         2 |   1        |
+| Oyonnax            |         2 |   0        |
+| Vannes             |         2 |   0.5      |
+| Grenoble           |         2 |   0        |
+| Colomiers          |         2 |   0        |
+| Carcassonne        |         2 |   0.5      |
+| Massy              |         1 |   1        |
+| Bayonne            |         1 |   0.5      |
+| Narbonne           |         1 |   1        |
+| Rouen              |         1 |   1        |
+| Soyaux-Angouleme   |         1 |   1        |
+| Biarritz Olympique |         1 |   1        |
+| Mont-de-Marsan     |         1 |   0        |

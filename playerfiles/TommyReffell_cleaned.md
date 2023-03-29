@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Tommy Reffell  
-date: 2023-03-17 17:09:17.930366  
+date: 2023-03-21 18:07:54.708413  
 categories: player  
 ---
 # Tommy Reffell
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Wales
 
-## Current elo: 111.0
+## Current elo: 113.0
 
-## Current Percentile: 82.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Leicester Tigers |            85 |   0.635294 |
-| Wales            |             8 |   0.25     |
+| Wales            |             9 |   0.222222 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -43,19 +45,20 @@ categories: player
 | Clermont Auvergne   |         4 |   1        |
 | South Africa        |         3 |   0.333333 |
 | Connacht            |         2 |   1        |
-| Cardiff Blues       |         1 |   1        |
+| Ireland             |         1 |   0        |
 | Ulster              |         1 |   0        |
 | Toulon              |         1 |   0        |
 | Scotland            |         1 |   0        |
 | Scarlets            |         1 |   1        |
 | Bordeaux Begles     |         1 |   1        |
-| Ireland             |         1 |   0        |
-| Italy               |         1 |   1        |
-| Ospreys             |         1 |   0        |
-| England             |         1 |   0        |
+| France              |         1 |   0        |
 | Calvisano           |         1 |   1        |
+| Ospreys             |         1 |   0        |
+| Cardiff Blues       |         1 |   1        |
+| England             |         1 |   0        |
 | New Zealand         |         1 |   0        |
 | Montpellier Herault |         1 |   0        |
 | Bayonne             |         1 |   1        |
 | Leinster            |         1 |   0        |
+| Italy               |         1 |   1        |
 | Pau                 |         1 |   1        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tommaso Allan  
-date: 2023-03-17 17:33:04.745912  
+date: 2023-03-21 18:44:37.506227  
 categories: player  
 ---
 # Tommaso Allan
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Italy
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Italy            |            69 |   0.231884 |
+| Italy            |            70 |   0.228571 |
 | Benetton Treviso |            64 |   0.335938 |
 | Perpignan        |            41 |   0.45122  |
 | Harlequins       |            33 |   0.484848 |
@@ -31,10 +33,10 @@ categories: player
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Zebre                |        10 |   0.7      |
+| Scotland             |         9 |   0.111111 |
 | Wales                |         8 |   0        |
 | France               |         8 |   0        |
 | England              |         8 |   0        |
-| Scotland             |         8 |   0.125    |
 | Ireland              |         7 |   0        |
 | Munster              |         7 |   0        |
 | Edinburgh            |         6 |   0.5      |

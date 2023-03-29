@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jefferson Joseph  
-date: 2023-03-17 17:19:24.023045  
+date: 2023-03-21 18:03:13.622913  
 categories: player  
 ---
 # Jefferson Joseph
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 105.0
 
-## Current Percentile: 47.0
+## Current Percentile: 45.0
 
 # Elo History
 

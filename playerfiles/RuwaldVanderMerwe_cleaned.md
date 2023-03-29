@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ruwald Van der Merwe  
-date: 2023-03-16 19:48:44.504692  
+date: 2023-03-21 18:37:22.006174  
 categories: player  
 ---
 # Ruwald Van der Merwe
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 96.0

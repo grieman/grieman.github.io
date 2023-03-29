@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Carl Kirwan  
-date: 2023-02-02 18:58:08.428622  
+date: 2023-03-21 18:13:37.772690  
 categories: player  
 ---
 # Carl Kirwan
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 67.0
+## Current elo: 78.0
 
-## Current Percentile: 5.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Nottingham          |            29 |   0.310345 |
 | Worcester Warriors  |            29 |   0.37931  |
+| Nottingham          |            28 |   0.321429 |
 | London Welsh        |            12 |   0        |
 | Ealing Trailfinders |             2 |   1        |
 
@@ -31,12 +33,12 @@ categories: player
 | Gloucester Rugby    |         5 |   0.3      |
 | Saracens            |         4 |   0        |
 | Harlequins          |         4 |   0.25     |
-| Doncaster           |         4 |   0.25     |
 | Ampthill            |         3 |   0.333333 |
 | Ealing Trailfinders |         3 |   0        |
 | Bath Rugby          |         3 |   0        |
 | Northampton Saints  |         3 |   0        |
 | Richmond            |         3 |   0.333333 |
+| Doncaster           |         3 |   0.333333 |
 | Coventry            |         3 |   0.333333 |
 | Cornish Pirates     |         3 |   0.333333 |
 | Sale Sharks         |         3 |   0.5      |

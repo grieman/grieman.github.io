@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jason Emery  
-date: 2023-03-17 17:05:36.748231  
+date: 2023-03-21 18:51:40.591181  
 categories: player  
 ---
 # Jason Emery
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Country: New Zealand Maori

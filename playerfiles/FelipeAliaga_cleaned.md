@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Felipe Aliaga  
-date: 2023-03-17 17:02:13.454017  
+date: 2023-03-21 18:16:59.407579  
 categories: player  
 ---
 # Felipe Aliaga
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Uruguay
 
 ## Current elo: 95.0
 
-## Current Percentile: 50.0
+## Current Percentile: 49.0
 
 # Elo History
 

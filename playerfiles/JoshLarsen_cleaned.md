@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Josh Larsen  
-date: 2023-03-16 19:53:14.540898  
+date: 2023-03-21 18:25:32.799238  
 categories: player  
 ---
 # Josh Larsen
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Canada

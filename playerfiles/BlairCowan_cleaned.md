@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Blair Cowan  
-date: 2023-03-02 11:27:12.314089  
+date: 2023-03-21 18:54:12.670135  
 categories: player  
 ---
 # Blair Cowan
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Scotland

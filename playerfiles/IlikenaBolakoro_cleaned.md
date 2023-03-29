@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ilikena Bolakoro  
-date: 2023-03-17 17:32:11.098046  
+date: 2023-03-20 15:45:00.540168  
 categories: player  
 ---
 # Ilikena Bolakoro
 
+
+Last updated: 2023-03-20
 ## Positions: W, C
 
 ## Current elo: 112.0

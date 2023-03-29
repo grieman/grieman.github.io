@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Maxime Profit  
-date: 2023-01-17 11:41:10.111018  
+date: 2023-03-21 18:26:39.473140  
 categories: player  
 ---
 # Maxime Profit
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 82.0
+## Current elo: 79.0
 
-## Current Percentile: 20.0
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |            23 |   0.369565 |
+| Aurillac |            24 |   0.354167 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
@@ -34,6 +36,7 @@ categories: player
 | Oyonnax        |         2 |   0.5      |
 | Provence Rugby |         2 |   0.5      |
 | Bayonne        |         1 |   0        |
+| Colomiers      |         1 |   0        |
 | Grenoble       |         1 |   0        |
 | Perpignan      |         1 |   0.5      |
 | Rouen          |         1 |   0        |

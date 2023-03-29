@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Shogo Miura  
-date: 2023-03-17 17:23:19.592020  
+date: 2023-03-21 18:28:36.984482  
 categories: player  
 ---
 # Shogo Miura
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan
 
-## Current elo: 98.0
+## Current elo: 99.0
 
-## Current Percentile: 57.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -23,14 +25,14 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            48 |    0.59375 |
-| Japan           |             1 |    1       |
+| Toyota Verblitz |            49 |   0.581633 |
+| Japan           |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
 | Tokyo Sungoliath                  |         5 |   0.2      |
 | Saitama Wild Knights              |         5 |   0.2      |
-| Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
 | Kubota Spears Funabashi Tokyo-Bay |         4 |   0.5      |
 | Shizuoka Blue Revs                |         4 |   0.5      |
 | Black Rams Tokyo                  |         3 |   0.666667 |

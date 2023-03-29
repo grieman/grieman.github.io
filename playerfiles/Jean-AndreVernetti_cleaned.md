@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jean-Andre Vernetti  
-date: 2023-03-17 17:22:46.642693  
+date: 2023-03-21 18:03:23.696088  
 categories: player  
 ---
 # Jean-Andre Vernetti
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 121.0
+## Current elo: 117.0
 
-## Current Percentile: 96.0
+## Current Percentile: 94.0
 
 # Elo History
 

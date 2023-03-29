@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jake Woolmore  
-date: 2023-03-17 17:15:45.349863  
+date: 2023-03-21 18:14:17.868136  
 categories: player  
 ---
 # Jake Woolmore
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 99.0

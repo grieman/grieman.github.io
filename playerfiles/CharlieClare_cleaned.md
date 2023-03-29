@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Charlie Clare  
-date: 2023-03-17 17:15:12.295722  
+date: 2023-03-21 18:20:11.532299  
 categories: player  
 ---
 # Charlie Clare
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 69.0
+## Current elo: 70.0
 
 ## Current Percentile: 3.0
 

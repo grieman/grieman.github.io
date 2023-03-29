@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Masaya Tamaki  
-date: 2023-03-17 17:29:20.697992  
+date: 2023-03-21 18:10:36.763589  
 categories: player  
 ---
 # Masaya Tamaki
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 98.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,11 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |             3 |          1 |
+| Kubota Spears Funabashi Tokyo-Bay |             4 |          1 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
 | Black Rams Tokyo          |         1 |          1 |
 | Shizuoka Blue Revs        |         1 |          1 |
 | Toshiba Brave Lupus Tokyo |         1 |          1 |
+| Yokohama Canon Eagles     |         1 |          1 |

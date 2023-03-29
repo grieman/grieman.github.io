@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ryota Yasui  
-date: 2023-03-17 17:41:13.077273  
+date: 2023-03-21 18:27:18.596088  
 categories: player  
 ---
 # Ryota Yasui
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Country: Japan
 
 ## Current elo: 90.0
 
-## Current Percentile: 30.0
+## Current Percentile: 33.0
 
 # Elo History
 

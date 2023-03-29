@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Samuel BOISSINOT  
-date: 2023-03-12 11:30:00.041254  
+date: 2023-03-29 11:29:34.507114  
 categories: player  
 ---
 # Samuel BOISSINOT
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 83.0
+## Current elo: 81.0
 
-## Current Percentile: 25.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Massy  |            19 |   0.684211 |
+| Massy  |            20 |       0.65 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -36,6 +38,7 @@ categories: player
 | Dax                        |         1 |        1   |
 | Dijon                      |         1 |        1   |
 | Grenoble                   |         1 |        0   |
+| Nevers                     |         1 |        0   |
 | Nice                       |         1 |        1   |
 | Oyonnax                    |         1 |        0   |
 | Suresnes                   |         1 |        1   |

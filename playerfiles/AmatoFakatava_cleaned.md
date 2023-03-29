@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Amato Fakatava  
-date: 2023-03-17 17:15:35.267666  
+date: 2023-03-21 18:24:33.924446  
 categories: player  
 ---
 # Amato Fakatava
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 72.0
+## Current elo: 42.0
 
-## Current Percentile: 14.0
+## Current Percentile: 5.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Black Rams Tokyo |            16 |       0.25 |
+| Black Rams Tokyo |            18 |   0.222222 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
+| Shizuoka Blue Revs              |         4 |   0        |
 | Kobelco Kobe Steelers           |         3 |   0.333333 |
 | Green Rockets Tokatsu           |         2 |   1        |
-| Shizuoka Blue Revs              |         2 |   0        |
 | Urayasu D-Rocks                 |         2 |   0        |
 | Hanazono Kintetsu Liners        |         1 |   1        |
 | Mie Honda Heat                  |         1 |   0        |

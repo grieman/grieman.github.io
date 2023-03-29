@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Francois Tardieu  
-date: 2023-03-16 21:10:30.833554  
+date: 2023-03-21 18:13:22.603580  
 categories: player  
 ---
 # Francois Tardieu
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 77.0

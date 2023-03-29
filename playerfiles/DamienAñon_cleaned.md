@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Damien Añon  
-date: 2023-02-02 19:10:41.478176  
+date: 2023-03-21 18:23:14.394386  
 categories: player  
 ---
 # Damien Añon
 
-## Positions: SH
 
-## Current elo: 87.0
+Last updated: 2023-03-21
+## Positions: SH, FB
 
-## Current Percentile: 23.0
+## Current elo: 86.0
+
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -21,27 +23,27 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Carcassonne |           103 |   0.412621 |
+| Carcassonne |           109 |   0.399083 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Mont-de-Marsan             |         9 |   0.444444 |
 | Biarritz Olympique         |         8 |   0.375    |
-| Mont-de-Marsan             |         8 |   0.375    |
 | Montauban                  |         8 |   0.625    |
-| Nevers                     |         7 |   0.428571 |
-| Oyonnax                    |         7 |   0        |
-| Beziers                    |         6 |   0.5      |
-| Soyaux-Angouleme           |         6 |   0.416667 |
-| Colomiers                  |         6 |   0.333333 |
+| Nevers                     |         8 |   0.375    |
+| Oyonnax                    |         8 |   0        |
+| Soyaux-Angouleme           |         7 |   0.357143 |
 | Rouen                      |         6 |   0.833333 |
+| Beziers                    |         6 |   0.5      |
+| Colomiers                  |         6 |   0.333333 |
+| Aurillac                   |         6 |   0.5      |
 | Vannes                     |         5 |   0.4      |
-| Provence Rugby             |         5 |   0.4      |
 | Grenoble                   |         5 |   0.2      |
-| Aurillac                   |         5 |   0.6      |
+| Provence Rugby             |         5 |   0.4      |
 | Bayonne                    |         4 |   0.5      |
+| Massy                      |         4 |   0        |
 | Perpignan                  |         4 |   0        |
 | Narbonne                   |         3 |   0.666667 |
-| Massy                      |         3 |   0        |
 | US Bressane                |         2 |   1        |
 | Agen                       |         2 |   0.5      |
 | Roval Drome XV             |         1 |   1        |

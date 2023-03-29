@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Biggs  
-date: 2023-03-12 11:31:35.457509  
+date: 2023-03-21 18:32:34.620661  
 categories: player  
 ---
 # Will Biggs
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 95.0
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Coventry |             6 |   0.5      |
+| Coventry |             8 |   0.5      |
 | Bedford  |             3 |   0.333333 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -30,6 +32,8 @@ categories: player
 | London Scottish     |         2 |          1 |
 | Ampthill            |         1 |          1 |
 | Bedford             |         1 |          1 |
+| Caldy               |         1 |          1 |
+| Cornish Pirates     |         1 |          0 |
 | Coventry            |         1 |          0 |
 | Ealing Trailfinders |         1 |          0 |
 | Hartpury College    |         1 |          0 |

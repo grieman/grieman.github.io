@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jonny Hill  
-date: 2023-03-17 17:33:17.946664  
+date: 2023-03-21 18:36:14.485558  
 categories: player  
 ---
 # Jonny Hill
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: England
 
 ## Current elo: 98.0
 
-## Current Percentile: 60.0
+## Current Percentile: 59.0
 
 # Elo History
 

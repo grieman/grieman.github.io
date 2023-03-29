@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Diego Vidal  
-date: 2023-03-17 17:06:36.897568  
+date: 2023-03-21 17:59:30.883345  
 categories: player  
 ---
 # Diego Vidal
 
+
+Last updated: 2023-03-21
 ## Positions: H, FB
 
 ## Current elo: 116.0

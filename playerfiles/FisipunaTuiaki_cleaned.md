@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fisipuna Tuiaki  
-date: 2023-02-02 18:40:55.767387  
+date: 2023-03-21 17:58:39.452484  
 categories: player  
 ---
 # Fisipuna Tuiaki
 
-## Positions: C
 
-## Current elo: 91.0
+Last updated: 2023-03-21
+## Positions: C, W
 
-## Current Percentile: None
+## Current elo: 87.0
+
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Mitsubishi Dynaboars |             1 |          0 |
+| Mitsubishi Dynaboars |             2 |          0 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Tokyo Sungoliath |         1 |          0 |
+| Opponent             |   Matches |   Win Rate |
+|:---------------------|----------:|-----------:|
+| Saitama Wild Knights |         1 |          0 |
+| Tokyo Sungoliath     |         1 |          0 |

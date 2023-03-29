@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lucas Gulizzi  
-date: 2023-03-17 17:42:54.826686  
+date: 2023-03-21 18:00:39.550929  
 categories: player  
 ---
 # Lucas Gulizzi
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 75.0
+## Current elo: 74.0
 
-## Current Percentile: 3.0
+## Current Percentile: 11.0
 
 # Elo History
 

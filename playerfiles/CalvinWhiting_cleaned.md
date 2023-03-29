@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Calvin Whiting  
-date: 2023-03-02 11:23:31.335675  
+date: 2023-03-21 18:03:00.199386  
 categories: player  
 ---
 # Calvin Whiting
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: United States of America

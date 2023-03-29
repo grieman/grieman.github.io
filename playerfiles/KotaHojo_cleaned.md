@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kota Hojo  
-date: 2023-02-02 19:08:04.465076  
+date: 2023-03-21 18:10:00.523745  
 categories: player  
 ---
 # Kota Hojo
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 89.0
+## Current elo: 100.0
 
-## Current Percentile: 39.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
-| Kurita Water Gush |            10 |        0.3 |
+| Kurita Water Gush |            17 |   0.294118 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         3 |   0.333333 |
-| Munakata Sanix Blues             |         2 |   0        |
-| Kyuden Voltex                    |         1 |   0        |
-| NTT Docomo Red Hurricanes Osaka  |         1 |   1        |
-| Shimizu Blue Sharks              |         1 |   0        |
-| Skyactivs Hiroshima              |         1 |   1        |
-| Toyota Industries Shuttles Aichi |         1 |   0        |
+| Chugoku Red Regulions            |         4 |        0.5 |
+| Kyuden Voltex                    |         3 |        0   |
+| Munakata Sanix Blues             |         2 |        0   |
+| NTT Docomo Red Hurricanes Osaka  |         2 |        0.5 |
+| Shimizu Blue Sharks              |         2 |        0.5 |
+| Skyactivs Hiroshima              |         2 |        0.5 |
+| Hanazono Kintetsu Liners         |         1 |        0   |
+| Toyota Industries Shuttles Aichi |         1 |        0   |

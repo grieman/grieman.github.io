@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Romain BRIATTE  
-date: 2023-03-12 11:32:40.391670  
+date: 2023-03-29 11:29:48.671060  
 categories: player  
 ---
 # Romain BRIATTE
 
+
+Last updated: 2023-03-29
 ## Positions: FL
 
 ## Current elo: 89.0

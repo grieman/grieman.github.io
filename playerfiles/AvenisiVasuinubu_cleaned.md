@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Avenisi Vasuinubu  
-date: 2023-03-17 17:14:24.648832  
+date: 2023-03-20 15:47:25.418225  
 categories: player  
 ---
 # Avenisi Vasuinubu
 
+
+Last updated: 2023-03-20
 ## Positions: W
 
 ## Current elo: 72.0

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tom Lawday  
-date: 2023-03-17 17:14:13.869094  
+date: 2023-03-21 18:51:57.270659  
 categories: player  
 ---
 # Tom Lawday
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 86.0
+## Current elo: 85.0
 
-## Current Percentile: 35.0
+## Current Percentile: 33.0
 
 # Elo History
 

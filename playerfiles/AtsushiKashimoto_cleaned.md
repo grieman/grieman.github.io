@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Atsushi Kashimoto  
-date: 2023-03-16 19:49:41.795946  
+date: 2023-03-20 15:46:51.642737  
 categories: player  
 ---
 # Atsushi Kashimoto
 
+
+Last updated: 2023-03-20
 ## Positions: H
 
-## Current elo: 104.0
+## Current elo: 103.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 

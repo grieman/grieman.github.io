@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Alex Hodgman  
-date: 2023-03-17 17:36:05.483019  
+date: 2023-03-21 18:03:50.448606  
 categories: player  
 ---
 # Alex Hodgman
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Blues       |            56 |   0.589286 |
+| Blues       |            57 |   0.578947 |
 | Canterbury  |            53 |   0.792453 |
 | Auckland    |            18 |   0.555556 |
 | Crusaders   |            11 |   0.545455 |
@@ -36,8 +38,8 @@ categories: player
 | Highlanders              |        10 |   0.6      |
 | Taranaki                 |         8 |   0.75     |
 | Hurricanes               |         8 |   0.5      |
+| Crusaders                |         8 |   0.125    |
 | North Harbour            |         8 |   0.875    |
-| Crusaders                |         7 |   0.142857 |
 | Auckland                 |         7 |   0.714286 |
 | Otago                    |         6 |   1        |
 | Counties Manukau         |         6 |   0.833333 |

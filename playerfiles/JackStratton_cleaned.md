@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jack Stratton  
-date: 2023-03-17 17:39:49.900966  
+date: 2023-03-21 18:42:11.985206  
 categories: player  
 ---
 # Jack Stratton
 
+
+Last updated: 2023-03-21
 ## Positions: SH, FH
 
 ## Country: Provincial Union XV

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Carlos Manuel Deus Lopes de Amorin  
-date: 2023-03-17 17:40:42.414667  
+date: 2023-03-21 18:43:30.862221  
 categories: player  
 ---
 # Carlos Manuel Deus Lopes de Amorin
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Uruguay
 
-## Current elo: 85.0
+## Current elo: 86.0
 
-## Current Percentile: 20.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -23,8 +25,8 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |            22 |   0.727273 |
-| Uruguay       |             1 |   0        |
+| Penarol Rugby |            23 |    0.73913 |
+| Uruguay       |             1 |    0       |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -36,3 +38,4 @@ categories: player
 | American Raptors |         1 |       1    |
 | Dogos XV         |         1 |       1    |
 | Japan            |         1 |       0    |
+| Yacare XV        |         1 |       1    |

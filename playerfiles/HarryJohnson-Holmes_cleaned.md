@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Harry Johnson-Holmes  
-date: 2023-03-17 17:33:21.304675  
+date: 2023-03-21 18:38:16.477600  
 categories: player  
 ---
 # Harry Johnson-Holmes
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Australia
 
 ## Current elo: 78.0
 
-## Current Percentile: 9.0
+## Current Percentile: 8.0
 
 # Elo History
 

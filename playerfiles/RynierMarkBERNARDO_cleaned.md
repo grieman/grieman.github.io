@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Rynier Mark Bernardo  
-date: 2023-03-16 19:52:03.970386  
+date: 2023-03-29 11:29:21.618114  
 categories: player  
 ---
 # Rynier Mark Bernardo
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 106.0
 
-## Current Percentile: 29.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -21,11 +23,13 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Cheetahs            |             3 |   0.333333 |
-| Free State Cheetahs |             1 |   1        |
+| Free State Cheetahs |             3 |        1   |
+| Cheetahs            |             2 |        0.5 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Scarlets   |         2 |          0 |
+| Blue Bulls |         1 |          1 |
+| Griffons   |         1 |          1 |
 | Griquas    |         1 |          1 |
 | Pau        |         1 |          1 |
+| Scarlets   |         1 |          0 |

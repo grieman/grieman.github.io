@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jade Kyle Stighling  
-date: 2023-03-16 20:16:09.159208  
+date: 2023-03-21 18:37:24.299671  
 categories: player  
 ---
 # Jade Kyle Stighling
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 102.0
+## Current elo: 91.0
 
-## Current Percentile: None
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Pumas  |             1 |          1 |
+| Pumas  |             2 |          1 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Blue Bulls |         1 |          1 |
+| Opponent     |   Matches |   Win Rate |
+|:-------------|----------:|-----------:|
+| Blue Bulls   |         1 |          1 |
+| Golden Lions |         1 |          1 |

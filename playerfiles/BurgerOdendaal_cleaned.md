@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Burger Odendaal  
-date: 2023-03-17 17:23:32.782453  
+date: 2023-03-21 18:26:15.902468  
 categories: player  
 ---
 # Burger Odendaal
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 116.0

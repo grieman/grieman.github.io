@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Luke Porter  
-date: 2023-03-17 17:34:42.748145  
+date: 2023-03-21 18:36:23.489548  
 categories: player  
 ---
 # Luke Porter
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 75.0
+## Current elo: 79.0
 
-## Current Percentile: 12.0
+## Current Percentile: 18.0
 
 # Elo History
 

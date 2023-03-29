@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nick David  
-date: 2023-03-17 17:09:02.818583  
+date: 2023-03-21 18:48:06.061272  
 categories: player  
 ---
 # Nick David
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 66.0
+## Current Percentile: 60.0
 
 # Elo History
 

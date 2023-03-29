@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Justin Tipuric  
-date: 2023-03-17 17:05:17.264754  
+date: 2023-03-21 18:47:03.337357  
 categories: player  
 ---
 # Justin Tipuric
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Wales
 
-## Current elo: 128.0
+## Current elo: 137.0
 
-## Current Percentile: 92.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Ospreys                 |           195 |   0.594872 |
-| Wales                   |            90 |   0.55     |
+| Wales                   |            91 |   0.543956 |
 | British and Irish Lions |             7 |   0.642857 |
 | Barbarians              |             1 |   1        |
 
@@ -38,9 +40,9 @@ categories: player
 | England              |        14 |   0.428571 |
 | Benetton Treviso     |        13 |   0.807692 |
 | Munster              |        13 |   0.461538 |
+| France               |        12 |   0.583333 |
 | Australia            |        12 |   0.25     |
 | Connacht             |        12 |   0.916667 |
-| France               |        11 |   0.636364 |
 | Italy                |        10 |   1        |
 | Edinburgh            |         9 |   0.777778 |
 | Scotland             |         9 |   0.888889 |

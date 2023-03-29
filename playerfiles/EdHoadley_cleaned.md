@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ed Hoadley  
-date: 2023-03-12 11:32:34.206712  
+date: 2023-03-21 18:23:16.748881  
 categories: player  
 ---
 # Ed Hoadley
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 102.0

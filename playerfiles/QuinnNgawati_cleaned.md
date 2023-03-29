@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Quinn Ngawati  
-date: 2023-03-17 17:22:19.719108  
+date: 2023-03-21 18:30:23.596338  
 categories: player  
 ---
 # Quinn Ngawati
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: Canada

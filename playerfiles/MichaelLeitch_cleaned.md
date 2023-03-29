@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Michael Leitch  
-date: 2023-03-17 17:31:50.992922  
+date: 2023-03-21 18:34:13.065029  
 categories: player  
 ---
 # Michael Leitch
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Japan

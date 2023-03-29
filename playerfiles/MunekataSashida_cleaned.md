@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Munekata Sashida  
-date: 2023-02-02 18:53:26.285146  
+date: 2023-03-21 18:40:58.666887  
 categories: player  
 ---
 # Munekata Sashida
 
+
+Last updated: 2023-03-21
 ## Positions: P, H
 
-## Current elo: 93.0
+## Current elo: 92.0
 
-## Current Percentile: 59.0
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka |             7 |   0.428571 |
+| NTT Docomo Red Hurricanes Osaka |            12 |   0.583333 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Black Rams Tokyo                  |         1 |          0 |
-| Chugoku Red Regulions             |         1 |          1 |
-| Kubota Spears Funabashi Tokyo-Bay |         1 |          0 |
-| Kurita Water Gush                 |         1 |          0 |
-| Kyuden Voltex                     |         1 |          1 |
-| Saitama Wild Knights              |         1 |          0 |
-| Skyactivs Hiroshima               |         1 |          1 |
+| Skyactivs Hiroshima               |         3 |        1   |
+| Chugoku Red Regulions             |         2 |        1   |
+| Kurita Water Gush                 |         2 |        0.5 |
+| Black Rams Tokyo                  |         1 |        0   |
+| Kubota Spears Funabashi Tokyo-Bay |         1 |        0   |
+| Kyuden Voltex                     |         1 |        1   |
+| Saitama Wild Knights              |         1 |        0   |
+| Tokyo Sungoliath                  |         1 |        0   |

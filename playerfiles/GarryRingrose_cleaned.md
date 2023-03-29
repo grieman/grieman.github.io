@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Garry Ringrose  
-date: 2023-03-16 20:16:40.861768  
+date: 2023-03-21 18:01:20.320415  
 categories: player  
 ---
 # Garry Ringrose
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Ireland
 
 ## Current elo: 84.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

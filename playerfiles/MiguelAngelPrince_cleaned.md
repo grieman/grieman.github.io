@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Miguel Angel Prince  
-date: 2023-03-04 11:40:08.708167  
+date: 2023-03-21 18:06:54.316217  
 categories: player  
 ---
 # Miguel Angel Prince
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 94.0
+## Current elo: 91.0
 
-## Current Percentile: 36.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Newman    |            16 |   0.71875  |
-| Pampas XV |             3 |   0.666667 |
+| Newman    |            16 |    0.71875 |
+| Pampas XV |             4 |    0.5     |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -36,6 +38,7 @@ categories: player
 | CASI                |         1 |       0    |
 | CUBA                |         1 |       1    |
 | Cobras              |         1 |       1    |
+| Dogos XV            |         1 |       0    |
 | Hindu               |         1 |       0    |
 | Los Tilos           |         1 |       1    |
 | Selknam             |         1 |       0    |

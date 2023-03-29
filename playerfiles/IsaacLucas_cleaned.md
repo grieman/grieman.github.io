@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Isaac Lucas  
-date: 2023-03-17 17:33:50.286957  
+date: 2023-03-21 17:57:45.268595  
 categories: player  
 ---
 # Isaac Lucas
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 110.0

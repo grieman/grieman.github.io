@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Albert Valentin  
-date: 2023-02-04 17:26:23.585175  
+date: 2023-03-21 18:19:46.876499  
 categories: player  
 ---
 # Albert Valentin
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 107.0
+## Current elo: 99.0
 
-## Current Percentile: 65.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Aurillac |           234 |   0.553419 |
+| Aurillac |           235 |   0.551064 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Colomiers                  |        16 |   0.5      |
 | Beziers                    |        16 |   0.5      |
-| Colomiers                  |        15 |   0.533333 |
 | Carcassonne                |        13 |   0.538462 |
 | Narbonne                   |        13 |   0.807692 |
 | Grenoble                   |        12 |   0.458333 |

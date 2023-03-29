@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nasoni NAQIRI KUNAVORE  
-date: 2023-03-06 11:23:36.048795  
+date: 2023-03-29 11:28:12.211992  
 categories: player  
 ---
 # Nasoni NAQIRI KUNAVORE
 
+
+Last updated: 2023-03-29
 ## Positions: C, W
 
-## Current elo: 121.0
+## Current elo: 119.0
 
-## Current Percentile: 93.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,33 +25,33 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Albi             |            68 |   0.419118 |
 | Nevers           |            55 |   0.572727 |
-| Soyaux-Angouleme |            29 |   0.482759 |
+| Soyaux-Angouleme |            31 |   0.483871 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Carcassonne                |        12 |   0.708333 |
 | Mont-de-Marsan             |        12 |   0.333333 |
-| Aurillac                   |        11 |   0.454545 |
+| Aurillac                   |        12 |   0.416667 |
 | Montauban                  |        10 |   0.3      |
 | Massy                      |         7 |   0.714286 |
 | Dax                        |         7 |   0.857143 |
 | Colomiers                  |         7 |   0.571429 |
 | Vannes                     |         7 |   0.285714 |
 | Beziers                    |         7 |   0.142857 |
-| Soyaux-Angouleme           |         6 |   0.666667 |
-| Perpignan                  |         6 |   0.666667 |
 | Narbonne                   |         6 |   0.583333 |
+| Perpignan                  |         6 |   0.666667 |
 | Biarritz Olympique         |         6 |   0.666667 |
+| Soyaux-Angouleme           |         6 |   0.666667 |
 | Provence Rugby             |         5 |   0.4      |
 | Oyonnax                    |         5 |   0.2      |
 | Bayonne                    |         4 |   0        |
 | Bourgoin-Jallieu           |         4 |   0.75     |
+| Grenoble                   |         4 |   0.5      |
 | Pau                        |         3 |   0.333333 |
 | Agen                       |         3 |   0.666667 |
-| Grenoble                   |         3 |   0.333333 |
-| Lyon                       |         2 |   0        |
 | Chambery                   |         2 |   0        |
 | Nice                       |         2 |   0.5      |
+| Lyon                       |         2 |   0        |
 | Tarbes                     |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   1        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Cordy-Redden  
-date: 2023-03-06 11:25:00.710892  
+date: 2023-03-21 18:04:02.290133  
 categories: player  
 ---
 # James Cordy-Redden
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 94.0
@@ -21,7 +23,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            61 |   0.762295 |
+| Ealing Trailfinders |            63 |   0.769841 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -29,10 +31,10 @@ categories: player
 | Bedford            |         6 |   0.833333 |
 | Cornish Pirates    |         6 |   0.5      |
 | Jersey             |         6 |   1        |
+| Nottingham         |         6 |   0.666667 |
 | Richmond           |         6 |   1        |
-| Nottingham         |         5 |   0.6      |
+| London Scottish    |         5 |   1        |
 | Hartpury College   |         4 |   1        |
-| London Scottish    |         4 |   1        |
 | Coventry           |         3 |   0.833333 |
 | Rotherham Titans   |         3 |   1        |
 | Yorkshire Carnegie |         3 |   0.666667 |

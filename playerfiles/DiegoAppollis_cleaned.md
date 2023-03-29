@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Diego Appollis  
-date: 2023-03-17 17:32:58.575652  
+date: 2023-03-21 18:30:46.606307  
 categories: player  
 ---
 # Diego Appollis
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 91.0
 
-## Current Percentile: 68.0
+## Current Percentile: 65.0
 
 # Elo History
 

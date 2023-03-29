@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lloyd Evans  
-date: 2023-03-17 17:29:45.377787  
+date: 2023-03-21 18:28:53.897460  
 categories: player  
 ---
 # Lloyd Evans
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Current elo: 97.0

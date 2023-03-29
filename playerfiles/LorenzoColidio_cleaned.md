@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lorenzo Colidio  
-date: 2023-03-04 11:41:17.434769  
+date: 2023-03-21 17:56:07.897546  
 categories: player  
 ---
 # Lorenzo Colidio
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 104.0
+## Current elo: 101.0
 
-## Current Percentile: 66.0
+## Current Percentile: 72.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Pampas XV |             3 |   0.666667 |
+| Pampas XV |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
 | Cobras           |         1 |          1 |
+| Dogos XV         |         1 |          0 |
 | Selknam          |         1 |          0 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: David Coetzer  
-date: 2023-03-17 17:29:02.566257  
+date: 2023-03-21 18:28:09.500019  
 categories: player  
 ---
 # David Coetzer
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 85.0

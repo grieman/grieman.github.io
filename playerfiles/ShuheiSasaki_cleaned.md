@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shuhei Sasaki  
-date: 2023-01-21 15:42:51.392019  
+date: 2023-03-21 18:04:31.171914  
 categories: player  
 ---
 # Shuhei Sasaki
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 87.0
+## Current elo: 86.0
 
-## Current Percentile: 28.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             5 |        0.4 |
+| Shimizu Blue Sharks |             7 |   0.428571 |
 
-| Opponent                         |   Matches |   Win Rate |
-|:---------------------------------|----------:|-----------:|
-| Chugoku Red Regulions            |         1 |          1 |
-| Kyuden Voltex                    |         1 |          1 |
-| Mie Honda Heat                   |         1 |          0 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
-| Urayasu D-Rocks                  |         1 |          0 |
+| Opponent              |   Matches |   Win Rate |
+|:----------------------|----------:|-----------:|
+| Mie Honda Heat        |         2 |          0 |
+| Urayasu D-Rocks       |         2 |          0 |
+| Chugoku Red Regulions |         1 |          1 |
+| Kamaishi Seawaves     |         1 |          1 |
+| Kyuden Voltex         |         1 |          1 |

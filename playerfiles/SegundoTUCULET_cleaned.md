@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Segundo TUCULET  
-date: 2023-02-10 10:36:22.445778  
+date: 2023-03-29 11:29:19.632937  
 categories: player  
 ---
 # Segundo TUCULET
 
+
+Last updated: 2023-03-29
 ## Positions: FB, W
 
-## Current elo: 85.0
+## Current elo: 68.0
 
-## Current Percentile: 6.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Montauban                  |            35 |   0.5      |
+| Montauban                  |            30 |   0.483333 |
 | Valence Romans Drome Rugby |            25 |   0.38     |
 | Los Tilos                  |            17 |   0.264706 |
 | I Medicei                  |            12 |   0.416667 |
@@ -34,42 +36,43 @@ categories: player
 | Mont-de-Marsan           |         6 |   0.416667 |
 | Aurillac                 |         5 |   0.4      |
 | Rouen                    |         5 |   0.6      |
-| Biarritz Olympique       |         5 |   0.2      |
-| Provence Rugby           |         5 |   0.2      |
-| Colomiers                |         5 |   0.6      |
 | Vannes                   |         4 |   0.75     |
 | Grenoble                 |         4 |   0        |
+| Biarritz Olympique       |         4 |   0.25     |
+| Provence Rugby           |         4 |   0        |
 | Carcassonne              |         4 |   0.5      |
 | Montauban                |         4 |   0.25     |
 | Soyaux-Angouleme         |         3 |   0.166667 |
 | Nevers                   |         3 |   0.666667 |
 | Agen                     |         3 |   0.666667 |
-| Beziers                  |         3 |   0.5      |
 | Bayonne                  |         3 |   0.333333 |
-| Massy                    |         2 |   0        |
-| Perpignan                |         2 |   0        |
-| Narbonne                 |         2 |   1        |
-| Alumni                   |         2 |   0        |
+| Colomiers                |         3 |   0.333333 |
+| Beziers                  |         3 |   0.5      |
 | Petrarca Padova Rugby    |         2 |   0        |
-| La Plata                 |         2 |   0.25     |
 | US Bressane              |         2 |   0.75     |
-| San Luis                 |         1 |   0        |
-| San Cirano               |         1 |   0        |
-| San Albano               |         1 |   0        |
-| Rugby Viadana 1970       |         1 |   1        |
-| Rugby Lyons Piacenza     |         1 |   1        |
-| Southern Kings           |         1 |   0        |
+| Narbonne                 |         2 |   1        |
+| La Plata                 |         2 |   0.25     |
+| Perpignan                |         2 |   0        |
+| Alumni                   |         2 |   0        |
 | Rugby Colorno 1975       |         1 |   1        |
-| Richmond                 |         1 |   1        |
-| Valorugby Emilia         |         1 |   0        |
-| Regatas Bella Vista      |         1 |   0        |
 | CASI                     |         1 |   0        |
+| Regatas Bella Vista      |         1 |   0        |
+| Richmond                 |         1 |   1        |
+| Dax                      |         1 |   0        |
+| Rugby Lyons Piacenza     |         1 |   1        |
 | SIC                      |         1 |   0        |
-| Doncaster                |         1 |   1        |
+| San Albano               |         1 |   0        |
+| San Cirano               |         1 |   0        |
+| San Luis                 |         1 |   0        |
+| Southern Kings           |         1 |   0        |
+| Valorugby Emilia         |         1 |   0        |
+| Rugby Viadana 1970       |         1 |   1        |
+| Nottingham               |         1 |   0        |
 | Oyonnax                  |         1 |   0        |
+| Olivos                   |         1 |   1        |
 | Femi CZ Rugby Rovigo     |         1 |   0        |
 | Fiamme Oro Roma          |         1 |   0        |
-| Dax                      |         1 |   0        |
+| Coventry                 |         1 |   1        |
 | Hindu                    |         1 |   0        |
 | Kawasaki Robot Calvisano |         1 |   0        |
 | Lafert San Dona          |         1 |   0        |
@@ -79,8 +82,7 @@ categories: player
 | Manuel Belgrano          |         1 |   0        |
 | Mariano Moreno           |         1 |   1        |
 | Mogliano Rugby 1969      |         1 |   1        |
-| Coventry                 |         1 |   1        |
 | Champagnat               |         1 |   1        |
 | CUBA                     |         1 |   0        |
-| Nottingham               |         1 |   0        |
-| Olivos                   |         1 |   1        |
+| Doncaster                |         1 |   1        |
+| Massy                    |         1 |   0        |

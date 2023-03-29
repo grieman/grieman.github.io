@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ren Ouchi  
-date: 2023-01-25 18:59:57.969681  
+date: 2023-03-21 18:32:05.927700  
 categories: player  
 ---
 # Ren Ouchi
 
-## Positions: C
 
-## Current elo: 88.0
+Last updated: 2023-03-21
+## Positions: C, W
 
-## Current Percentile: None
+## Current elo: 89.0
+
+## Current Percentile: 41.0
 
 # Elo History
 
@@ -21,8 +23,11 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Skyactivs Hiroshima |             1 |          0 |
+| Skyactivs Hiroshima |             4 |        0.5 |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Kyuden Voltex |         1 |          0 |
+| Opponent                        |   Matches |   Win Rate |
+|:--------------------------------|----------:|-----------:|
+| Chugoku Red Regulions           |         1 |          1 |
+| Kurita Water Gush               |         1 |          1 |
+| Kyuden Voltex                   |         1 |          0 |
+| NTT Docomo Red Hurricanes Osaka |         1 |          0 |

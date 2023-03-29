@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jimmy GOPPERTH  
-date: 2023-03-12 11:32:49.510274  
+date: 2023-03-29 11:30:00.948770  
 categories: player  
 ---
 # Jimmy GOPPERTH
 
+
+Last updated: 2023-03-29
 ## Positions: FH, C
 
-## Current elo: 105.0
+## Current elo: 106.0
 
-## Current Percentile: 74.0
+## Current Percentile: 72.0
 
 # Elo History
 

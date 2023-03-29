@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Yarnell  
-date: 2023-03-04 11:40:35.686583  
+date: 2023-03-21 18:30:11.508855  
 categories: player  
 ---
 # Will Yarnell
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 92.0

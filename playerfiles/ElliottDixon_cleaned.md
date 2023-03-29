@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Elliott Dixon  
-date: 2023-02-24 02:22:58.796529  
+date: 2023-03-21 18:27:10.058599  
 categories: player  
 ---
 # Elliott Dixon
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
-## Current elo: 104.0
+## Current elo: 100.0
 
-## Current Percentile: 51.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,13 +23,14 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |             6 |   0.583333 |
+| Biarritz Olympique |             7 |   0.428571 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Agen             |         1 |        0   |
-| Grenoble         |         1 |        0.5 |
-| Oyonnax          |         1 |        0   |
-| Rouen            |         1 |        1   |
-| Soyaux-Angouleme |         1 |        1   |
-| Vannes           |         1 |        1   |
+| Opponent       |   Matches |   Win Rate |
+|:---------------|----------:|-----------:|
+| Agen           |         1 |          0 |
+| Massy          |         1 |          1 |
+| Nevers         |         1 |          0 |
+| Oyonnax        |         1 |          0 |
+| Provence Rugby |         1 |          0 |
+| Rouen          |         1 |          1 |
+| Vannes         |         1 |          1 |

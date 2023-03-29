@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Tanner  
-date: 2023-03-17 17:28:05.879059  
+date: 2023-03-21 18:13:51.035173  
 categories: player  
 ---
 # Will Tanner
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 84.0

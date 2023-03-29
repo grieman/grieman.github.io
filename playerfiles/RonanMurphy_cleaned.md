@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ronan Murphy  
-date: 2023-03-17 17:06:29.962464  
+date: 2023-03-21 18:05:18.089215  
 categories: player  
 ---
 # Ronan Murphy
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 85.0
 
-## Current Percentile: 38.0
+## Current Percentile: 36.0
 
 # Elo History
 

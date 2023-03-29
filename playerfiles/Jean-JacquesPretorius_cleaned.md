@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jean-Jacques Pretorius  
-date: 2023-03-17 17:31:57.845391  
+date: 2023-03-21 18:42:13.257705  
 categories: player  
 ---
 # Jean-Jacques Pretorius
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 101.0
+## Current elo: 94.0
 
-## Current Percentile: 84.0
+## Current Percentile: 65.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Griffons |            34 |       0.75 |
+| Griffons |            35 |   0.728571 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -33,6 +35,7 @@ categories: player
 | Border Bulldogs        |         2 |   1        |
 | Jaguares XV            |         2 |   0        |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Namibia Welwitchias    |         1 |   1        |
 | Natal Sharks           |         1 |   0        |
 | Tusker Simba           |         1 |   1        |

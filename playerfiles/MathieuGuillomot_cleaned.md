@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mathieu Guillomot  
-date: 2023-03-17 17:18:51.813917  
+date: 2023-03-21 18:34:48.605674  
 categories: player  
 ---
 # Mathieu Guillomot
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
 ## Current elo: 36.0

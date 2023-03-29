@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Robert VALETINI  
-date: 2023-03-17 17:10:13.889678  
+date: 2023-03-27 11:35:10.419595  
 categories: player  
 ---
 # Robert VALETINI
 
+
+Last updated: 2023-03-27
 ## Positions: FL, N8
 
 ## Country: Australia
 
 ## Current elo: 119.0
 
-## Current Percentile: 92.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Brumbies         |            58 |   0.706897 |
+| Brumbies         |            59 |   0.711864 |
 | Australia        |            32 |   0.46875  |
 | Canberra Vikings |            21 |   0.714286 |
 | Melbourne Rising |             1 |   0        |
@@ -31,35 +33,36 @@ categories: player
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Queensland Reds          |        11 |  0.545455  |
+| Western Force            |         9 |  0.888889  |
 | Melbourne Rebels         |         9 |  0.555556  |
 | New South Wales Waratahs |         9 |  1         |
-| Western Force            |         9 |  0.888889  |
 | Argentina                |         8 |  0.6875    |
 | New Zealand              |         6 |  0.0833333 |
 | Fijian Drua              |         6 |  0.666667  |
+| France                   |         4 |  0.5       |
 | South Africa             |         4 |  0.75      |
 | Chiefs                   |         4 |  0.75      |
 | England                  |         4 |  0.25      |
-| France                   |         4 |  0.5       |
 | NSW Country Eagles       |         3 |  0.666667  |
-| Sunwolves                |         3 |  1         |
-| Blues                    |         3 |  0.333333  |
 | Highlanders              |         3 |  0.333333  |
+| Sunwolves                |         3 |  1         |
 | Brisbane City            |         3 |  0.666667  |
-| Hurricanes               |         2 |  1         |
+| Blues                    |         3 |  0.333333  |
 | Sydney Rays              |         2 |  1         |
-| Melbourne Rising         |         2 |  1         |
 | Scotland                 |         2 |  0.5       |
-| Perth Spirit             |         2 |  1         |
 | Queensland Country       |         2 |  0.5       |
-| Samoa                    |         1 |  1         |
-| Wales                    |         1 |  0         |
-| Sharks                   |         1 |  1         |
-| Greater Sydney Rams      |         1 |  1         |
+| Perth Spirit             |         2 |  1         |
+| Melbourne Rising         |         2 |  1         |
+| Hurricanes               |         2 |  1         |
 | Bulls                    |         1 |  1         |
-| Crusaders                |         1 |  0         |
+| North Harbour Rays       |         1 |  0         |
+| Moana Pasifika           |         1 |  1         |
 | Lions                    |         1 |  0         |
 | Japan                    |         1 |  1         |
+| Samoa                    |         1 |  1         |
 | Jaguares                 |         1 |  0         |
+| Sharks                   |         1 |  1         |
 | Ireland                  |         1 |  0         |
-| North Harbour Rays       |         1 |  0         |
+| Greater Sydney Rams      |         1 |  1         |
+| Wales                    |         1 |  0         |
+| Crusaders                |         1 |  0         |

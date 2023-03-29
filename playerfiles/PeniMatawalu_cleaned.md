@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Peni Matawalu  
-date: 2023-03-17 17:43:39.936788  
+date: 2023-03-21 18:00:48.539703  
 categories: player  
 ---
 # Peni Matawalu
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Fiji
 
 ## Current elo: 102.0
 
-## Current Percentile: 73.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -23,8 +25,8 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Fijian Drua |            25 |       0.42 |
-| Fiji        |             4 |       0.5  |
+| Fijian Drua |            26 |   0.403846 |
+| Fiji        |             4 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -32,6 +34,7 @@ categories: player
 | Queensland Country       |         3 |   0.666667 |
 | Moana Pasifika           |         2 |   1        |
 | Sydney Rays              |         2 |   1        |
+| Queensland Reds          |         2 |   0        |
 | NSW Country Eagles       |         2 |   0.75     |
 | Western Force            |         2 |   0        |
 | Melbourne Rebels         |         2 |   0.5      |
@@ -40,7 +43,6 @@ categories: player
 | Melbourne Rising         |         1 |   1        |
 | Brumbies                 |         1 |   0        |
 | Chiefs                   |         1 |   0        |
-| Queensland Reds          |         1 |   0        |
 | Samoa                    |         1 |   0        |
 | Scotland                 |         1 |   0        |
 | Spain                    |         1 |   1        |

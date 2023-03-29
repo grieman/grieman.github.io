@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jack Digby  
-date: 2023-01-21 15:43:53.641530  
+date: 2023-03-21 18:29:58.425372  
 categories: player  
 ---
 # Jack Digby
 
-## Positions: FL, L
 
-## Current elo: 96.0
+Last updated: 2023-03-21
+## Positions: FL, N8
 
-## Current Percentile: 65.0
+## Current elo: 97.0
+
+## Current Percentile: 64.0
 
 # Elo History
 
@@ -21,23 +23,23 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Ealing Trailfinders |            15 |   0.933333 |
+| Ealing Trailfinders |            20 |   0.95     |
 | Sydney Rays         |             7 |   0.142857 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
+| Richmond           |         4 |   1        |
 | Cornish Pirates    |         3 |   0.666667 |
+| Nottingham         |         3 |   1        |
 | Ampthill           |         2 |   1        |
 | Bedford            |         2 |   1        |
-| Nottingham         |         2 |   1        |
-| Richmond           |         2 |   1        |
+| Hartpury College   |         2 |   1        |
+| London Scottish    |         2 |   1        |
 | Brisbane City      |         1 |   0        |
 | Canberra Vikings   |         1 |   0        |
 | Coventry           |         1 |   1        |
 | Fijian Drua        |         1 |   0        |
-| Hartpury College   |         1 |   1        |
 | Jersey             |         1 |   1        |
-| London Scottish    |         1 |   1        |
 | Melbourne Rising   |         1 |   0        |
 | NSW Country Eagles |         1 |   0        |
 | Queensland Country |         1 |   1        |

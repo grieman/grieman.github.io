@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Andre Arruda  
-date: 2023-03-17 17:10:05.631428  
+date: 2023-03-21 18:35:30.217618  
 categories: player  
 ---
 # Andre Arruda
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: Brazil
 
-## Current elo: 81.0
+## Current elo: 82.0
 
-## Current Percentile: 15.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -23,15 +25,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Cobras |            20 |     0.2    |
-| Brazil |            16 |     0.1875 |
+| Cobras |            21 |   0.238095 |
+| Brazil |            16 |   0.1875   |
 
 | Opponent          |   Matches |   Win Rate |
 |:------------------|----------:|-----------:|
+| Selknam           |         4 |   0.5      |
 | Olimpia Lions     |         4 |   0.25     |
 | Penarol Rugby     |         4 |   0        |
 | Portugal          |         4 |   0.5      |
-| Selknam           |         3 |   0.333333 |
 | Cafeteros Pro     |         3 |   0.666667 |
 | Dogos XV          |         2 |   0        |
 | Jaguares XV       |         2 |   0        |

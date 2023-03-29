@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Danilo Fischetti  
-date: 2023-03-17 17:04:44.844256  
+date: 2023-03-21 18:05:22.571658  
 categories: player  
 ---
 # Danilo Fischetti
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Italy
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 69.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | Zebre        |            40 |   0.2125   |
-| Italy        |            26 |   0.192308 |
+| Italy        |            27 |   0.185185 |
 | London Irish |            16 |   0.46875  |
 
 | Opponent             |   Matches |   Win Rate |
@@ -32,13 +34,13 @@ categories: player
 | Benetton Treviso     |         8 |   0.375    |
 | Wales                |         4 |   0.25     |
 | Bristol Rugby        |         4 |   0.375    |
+| Scotland             |         4 |   0        |
 | Edinburgh            |         4 |   0        |
 | England              |         4 |   0        |
 | France               |         4 |   0        |
 | Glasgow Warriors     |         4 |   0        |
 | Leinster             |         3 |   0        |
 | Ulster               |         3 |   0        |
-| Scotland             |         3 |   0        |
 | Newcastle Falcons    |         3 |   0.666667 |
 | Dragons              |         3 |   0.666667 |
 | Ireland              |         3 |   0        |

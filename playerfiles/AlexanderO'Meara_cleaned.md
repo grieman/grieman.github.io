@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alexander O'Meara  
-date: 2023-02-02 18:39:55.990335  
+date: 2023-03-21 18:56:12.487372  
 categories: player  
 ---
 # Alexander O'Meara
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 92.0
+## Current elo: 83.0
 
-## Current Percentile: 20.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -22,20 +24,20 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Cornish Pirates |            63 |   0.603175 |
-| Richmond        |            14 |   0.25     |
+| Richmond        |            16 |   0.21875  |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | London Scottish     |         8 |   0.625    |
 | Doncaster           |         8 |   0.625    |
+| Ealing Trailfinders |         8 |   0.25     |
 | Hartpury College    |         7 |   0.857143 |
-| Ealing Trailfinders |         7 |   0.285714 |
+| Nottingham          |         7 |   0.571429 |
 | Richmond            |         6 |   0.75     |
-| Nottingham          |         6 |   0.666667 |
+| Bedford             |         6 |   0.75     |
 | Jersey              |         5 |   0.2      |
-| Bedford             |         5 |   0.9      |
 | Yorkshire Carnegie  |         5 |   0.6      |
-| Coventry            |         5 |   0.4      |
+| Coventry            |         4 |   0.5      |
 | Rotherham Titans    |         3 |   0.666667 |
 | Ampthill            |         3 |   0.5      |
 | Newcastle Falcons   |         2 |   0        |

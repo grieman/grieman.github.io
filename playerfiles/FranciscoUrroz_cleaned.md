@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Francisco Urroz  
-date: 2023-03-17 17:06:01.867621  
+date: 2023-03-21 18:14:43.021766  
 categories: player  
 ---
 # Francisco Urroz
 
-## Positions: FB
 
-## Current elo: 98.0
+Last updated: 2023-03-21
+## Positions: FB, FH
 
-## Current Percentile: 79.0
+## Current elo: 89.0
+
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             3 |   0.666667 |
+| Selknam |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
+| Cobras           |         1 |          0 |
 | Dogos XV         |         1 |          0 |
 | Pampas XV        |         1 |          1 |

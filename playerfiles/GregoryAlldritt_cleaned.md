@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Gregory Alldritt  
-date: 2023-03-17 17:17:13.498333  
+date: 2023-03-21 18:03:24.856708  
 categories: player  
 ---
 # Gregory Alldritt
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: France
 
-## Current elo: 121.0
+## Current elo: 113.0
 
-## Current Percentile: 90.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -24,16 +26,16 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | La Rochelle |            98 |   0.653061 |
-| France      |            37 |   0.756757 |
+| France      |            38 |   0.763158 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Stade Toulousain         |        11 |  0.0909091 |
 | Racing 92                |         8 |  0.75      |
+| Wales                    |         7 |  0.714286  |
 | Bordeaux Begles          |         7 |  0.714286  |
 | Castres Olympique        |         7 |  0.571429  |
 | Scotland                 |         7 |  0.571429  |
-| Wales                    |         6 |  0.666667  |
 | Clermont Auvergne        |         6 |  0.166667  |
 | Montpellier Herault      |         5 |  0.4       |
 | Toulon                   |         5 |  1         |

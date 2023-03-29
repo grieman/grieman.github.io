@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Octavio Filippa  
-date: 2023-03-17 17:15:22.725592  
+date: 2023-03-21 18:33:46.844064  
 categories: player  
 ---
 # Octavio Filippa
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 79.0
+## Current elo: 87.0
 
-## Current Percentile: 7.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,11 +23,12 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Dogos XV |             5 |        0.8 |
+| Dogos XV |             6 |   0.833333 |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
 | Yacare XV     |         2 |          1 |
 | Cobras        |         1 |          1 |
+| Pampas XV     |         1 |          1 |
 | Penarol Rugby |         1 |          0 |
 | Selknam       |         1 |          1 |

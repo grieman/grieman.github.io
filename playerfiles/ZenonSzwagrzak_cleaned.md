@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Zenon Szwagrzak  
-date: 2023-02-24 02:24:25.634799  
+date: 2023-03-21 18:52:26.639119  
 categories: player  
 ---
 # Zenon Szwagrzak
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Poland
 
-## Current elo: 110.0
+## Current elo: 99.0
 
-## Current Percentile: None
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -23,8 +25,9 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             2 |          1 |
+| Poland |             4 |        0.5 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Belgium    |         2 |          1 |
+| Belgium    |         3 |   0.666667 |
+| Germany    |         1 |   0        |

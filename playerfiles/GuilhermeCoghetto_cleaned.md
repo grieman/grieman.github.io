@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Guilherme Coghetto  
-date: 2023-03-17 17:35:24.627530  
+date: 2023-03-21 18:33:56.483051  
 categories: player  
 ---
 # Guilherme Coghetto
 
+
+Last updated: 2023-03-21
 ## Positions: FB, FH
 
 ## Country: Brazil

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Lorenzo Cannone  
-date: 2023-03-17 17:35:35.134336  
+date: 2023-03-21 18:42:03.002277  
 categories: player  
 ---
 # Lorenzo Cannone
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Italy
 
-## Current elo: 95.0
+## Current elo: 99.0
 
-## Current Percentile: 70.0
+## Current Percentile: 45.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:----------------------|--------------:|-----------:|
 | Benetton Treviso      |            22 |   0.568182 |
 | Petrarca Padova Rugby |            15 |   0.8      |
-| Italy                 |             8 |   0.375    |
+| Italy                 |             9 |   0.333333 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -42,14 +44,15 @@ categories: player
 | Edinburgh              |         2 |       1    |
 | Dragons                |         2 |       0.75 |
 | Bulls                  |         2 |       0    |
-| Rugby Viadana 1970     |         1 |       1    |
+| Samoa                  |         1 |       1    |
 | Stade Francais Paris   |         1 |       0    |
 | South Africa           |         1 |       0    |
 | Sharks                 |         1 |       0    |
+| Scotland               |         1 |       0    |
 | Wales                  |         1 |       0    |
-| Samoa                  |         1 |       1    |
 | Stormers               |         1 |       1    |
 | Australia              |         1 |       1    |
+| Rugby Viadana 1970     |         1 |       1    |
 | Rugby Calvisano        |         1 |       0    |
 | Namibia                |         1 |       1    |
 | Lions                  |         1 |       0    |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Felipe de la Vega  
-date: 2023-03-04 11:34:50.486450  
+date: 2023-03-21 18:39:45.139481  
 categories: player  
 ---
 # Felipe de la Vega
 
+
+Last updated: 2023-03-21
 ## Positions: C, FH
 
-## Current elo: 96.0
+## Current elo: 89.0
 
-## Current Percentile: 40.0
+## Current Percentile: 48.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
 | CUBA      |            28 |   0.678571 |
-| Pampas XV |             3 |   0.666667 |
+| Pampas XV |             4 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -40,4 +42,5 @@ categories: player
 | American Raptors     |         1 |   1        |
 | Buenos Aires         |         1 |   1        |
 | Cobras               |         1 |   1        |
+| Dogos XV             |         1 |   0        |
 | Selknam              |         1 |   0        |

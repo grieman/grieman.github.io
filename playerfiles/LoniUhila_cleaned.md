@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Loni Uhila  
-date: 2023-03-17 17:20:36.080183  
+date: 2023-03-21 18:45:33.651153  
 categories: player  
 ---
 # Loni Uhila
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Tonga

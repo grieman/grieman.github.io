@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Julian Dominguez  
-date: 2023-03-09 10:10:05.428699  
+date: 2023-03-21 18:08:36.517345  
 categories: player  
 ---
 # Julian Dominguez
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 89.0
+## Current elo: 85.0
 
-## Current Percentile: None
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Chicago Hounds |             1 |          0 |
+| Chicago Hounds |             2 |        0.5 |
 
-| Opponent      |   Matches |   Win Rate |
-|:--------------|----------:|-----------:|
-| Utah Warriors |         1 |          0 |
+| Opponent       |   Matches |   Win Rate |
+|:---------------|----------:|-----------:|
+| Dallas Jackals |         1 |          1 |
+| Utah Warriors  |         1 |          0 |

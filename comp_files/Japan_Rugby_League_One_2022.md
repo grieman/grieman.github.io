@@ -1,12 +1,74 @@
 ---  
-layout: page  
-title: Japan Rugby League One Status  
-date:   
+"title: Japan Rugby League One Status"  
+date: 2023-03-29 6:00:00 -0500  
 categories: model review projection  
+layout: article  
+aside:  
+    toc: true  
 ---
-# Japan Rugby League One Status
+# Standings
 
-## Completed Match Review
+## Current Standings
+
+
+| Club                              |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:----------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Saitama Wild Knights              |     12 |                  262 |                     0 |                  8 |                   56 |
+| Kubota Spears Funabashi Tokyo-Bay |     10 |                  188 |                     0 |                  7 |                   47 |
+| Tokyo Sungoliath                  |      9 |                  191 |                     1 |                  9 |                   46 |
+| Toshiba Brave Lupus Tokyo         |      8 |                  127 |                     3 |                  8 |                   43 |
+| Yokohama Canon Eagles             |      7 |                  206 |                     1 |                  7 |                   38 |
+| Black Rams Tokyo                  |      5 |                   43 |                     4 |                  4 |                   28 |
+| Shizuoka Blue Revs                |      5 |                    1 |                     2 |                  4 |                   26 |
+| Toyota Verblitz                   |      5 |                  -39 |                     2 |                  4 |                   26 |
+| Kobelco Kobe Steelers             |      4 |                  -77 |                     1 |                  5 |                   22 |
+| Mitsubishi Dynaboars              |      3 |                 -160 |                     1 |                  5 |                   20 |
+| Green Rockets Tokatsu             |      1 |                 -263 |                     1 |                  3 |                    8 |
+| Hanazono Kintetsu Liners          |      0 |                 -479 |                     0 |                  1 |                    1 |
+
+
+
+## Projected Remaining Table
+
+
+| Club                              |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:----------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Saitama Wild Knights              |    2.9 |                 51.9 |                   0.1 |                1.8 |                 13.5 |
+| Kubota Spears Funabashi Tokyo-Bay |    2.7 |                 60.5 |                   0.2 |                2   |                 13.3 |
+| Yokohama Canon Eagles             |    2.5 |                 30.5 |                   0.3 |                1.5 |                 12.1 |
+| Toshiba Brave Lupus Tokyo         |    1.8 |                 12.5 |                   0.6 |                1.4 |                  9.2 |
+| Toyota Verblitz                   |    1.6 |                  7   |                   0.9 |                1.1 |                  8.6 |
+| Tokyo Sungoliath                  |    1.5 |                  7.3 |                   0.9 |                1.4 |                  8.4 |
+| Black Rams Tokyo                  |    1.3 |                -16.4 |                   0.5 |                0.7 |                  6.7 |
+| Kobelco Kobe Steelers             |    1.1 |                 -8.3 |                   0.5 |                1.4 |                  6.3 |
+| Shizuoka Blue Revs                |    0.9 |                -21.7 |                   0.7 |                0.7 |                  5.2 |
+| Green Rockets Tokatsu             |    0.6 |                -41.5 |                   0.3 |                1.2 |                  3.8 |
+| Hanazono Kintetsu Liners          |    0.4 |                -48.4 |                   0.5 |                1.2 |                  3.5 |
+| Mitsubishi Dynaboars              |    0.3 |                -33.3 |                   0.7 |                0.5 |                  2.4 |
+
+
+
+## Projected Total Table
+
+
+| Club                              |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:----------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Saitama Wild Knights              |   14.9 |                313.9 |                   0.1 |                9.8 |                 69.5 |
+| Kubota Spears Funabashi Tokyo-Bay |   12.7 |                248.5 |                   0.2 |                9   |                 60.3 |
+| Tokyo Sungoliath                  |   10.5 |                198.3 |                   1.9 |               10.4 |                 54.4 |
+| Toshiba Brave Lupus Tokyo         |    9.8 |                139.5 |                   3.6 |                9.4 |                 52.2 |
+| Yokohama Canon Eagles             |    9.5 |                236.5 |                   1.3 |                8.5 |                 50.1 |
+| Black Rams Tokyo                  |    6.3 |                 26.6 |                   4.5 |                4.7 |                 34.7 |
+| Toyota Verblitz                   |    6.6 |                -32   |                   2.9 |                5.1 |                 34.6 |
+| Shizuoka Blue Revs                |    5.9 |                -20.7 |                   2.7 |                4.7 |                 31.2 |
+| Kobelco Kobe Steelers             |    5.1 |                -85.3 |                   1.5 |                6.4 |                 28.3 |
+| Mitsubishi Dynaboars              |    3.3 |               -193.3 |                   1.7 |                5.5 |                 22.4 |
+| Green Rockets Tokatsu             |    1.6 |               -304.5 |                   1.3 |                4.2 |                 11.8 |
+| Hanazono Kintetsu Liners          |    0.4 |               -527.4 |                   0.5 |                2.2 |                  4.5 |
+
+
+
+# Completed Match Review
 
 
 | Match                                                                       |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
@@ -14,225 +76,85 @@ categories: model review projection
 | Black Rams Tokyo V Mitsubishi Dynaboars on 2022/12/17                       |      -26 |                 0.6 |                 -3.3 |              -1.2 |
 | Saitama Wild Knights V Toshiba Brave Lupus Tokyo on 2022/12/17              |        3 |                 8.7 |                 11   |              14.7 |
 | Toyota Verblitz V Shizuoka Blue Revs on 2022/12/17                          |        5 |                 3.6 |                  2.8 |               6.1 |
-| Green Rockets Tokatsu V Hanazono Kintetsu Liners on 2022/12/18              |        2 |               -14.9 |                -16.7 |              -1.7 |
-| Tokyo Sungoliath V Kubota Spears Funabashi Tokyo-Bay on 2022/12/18          |      -13 |                 9.8 |                  7.7 |               6   |
-| Yokohama Canon Eagles V Kobelco Kobe Steelers on 2022/12/18                 |        9 |               -10.2 |                 -9.9 |               4.5 |
-| Kobelco Kobe Steelers V Hanazono Kintetsu Liners on 2022/12/24              |       22 |                 7.9 |                  5.8 |              19.1 |
-| Toshiba Brave Lupus Tokyo V Black Rams Tokyo on 2022/12/24                  |       10 |                15.9 |                 16.6 |              22.2 |
-| Mitsubishi Dynaboars V Toyota Verblitz on 2022/12/25                        |        2 |                 9.7 |                 19.8 |              -1.4 |
-| Yokohama Canon Eagles V Kubota Spears Funabashi Tokyo-Bay on 2022/12/25     |        0 |               -10.8 |                  1   |               1.4 |
-| Shizuoka Blue Revs V Saitama Wild Knights on 2022/12/25                     |       -1 |                 1.8 |                  3.2 |             -13.4 |
-| Tokyo Sungoliath V Green Rockets Tokatsu on 2022/12/25                      |       31 |                 0.1 |                 -0.6 |              30   |
-| Saitama Wild Knights V Mitsubishi Dynaboars on 2023/01/07                   |       35 |                15.7 |                 10.8 |              20.5 |
-| Tokyo Sungoliath V Yokohama Canon Eagles on 2023/01/07                      |        9 |                 7.4 |                  6.5 |               6.1 |
-| Toshiba Brave Lupus Tokyo V Shizuoka Blue Revs on 2023/01/07                |       13 |                 4.8 |                  5   |              10.9 |
-| Hanazono Kintetsu Liners V Kubota Spears Funabashi Tokyo-Bay on 2023/01/08  |      -65 |                -8.2 |                 -9.3 |             -16.8 |
-| Green Rockets Tokatsu V Kobelco Kobe Steelers on 2023/01/08                 |      -10 |               -14.5 |                -11.4 |             -15.3 |
-| Toyota Verblitz V Black Rams Tokyo on 2023/01/08                            |       -4 |                18.1 |                 16.8 |              17   |
-| Hanazono Kintetsu Liners V Yokohama Canon Eagles on 2023/01/14              |      -67 |                -4.7 |                 -3.8 |             -11.5 |
-| Mitsubishi Dynaboars V Toshiba Brave Lupus Tokyo on 2023/01/14              |        4 |                -9.6 |                 -2.9 |              -4.8 |
-| Kobelco Kobe Steelers V Tokyo Sungoliath on 2023/01/14                      |      -20 |                 2.9 |                  3.2 |               2   |
-| Kubota Spears Funabashi Tokyo-Bay V Green Rockets Tokatsu on 2023/01/14     |       33 |                26.8 |                 23.8 |              30.4 |
-| Saitama Wild Knights V Toyota Verblitz on 2023/01/15                        |       15 |                13.6 |                 14.5 |              18.3 |
-| Shizuoka Blue Revs V Black Rams Tokyo on 2023/01/15                         |      -12 |                -1.3 |                 -3.1 |              17.8 |
-| Yokohama Canon Eagles V Green Rockets Tokatsu on 2023/01/21                 |       24 |                20.7 |                 18.7 |              25.1 |
-| Black Rams Tokyo V Saitama Wild Knights on 2023/01/21                       |      -21 |                 1.1 |                  2.9 |             -21.9 |
-| Kubota Spears Funabashi Tokyo-Bay V Kobelco Kobe Steelers on 2023/01/21     |        4 |                19.5 |                 21.5 |              10.6 |
-| Hanazono Kintetsu Liners V Tokyo Sungoliath on 2023/01/22                   |      -41 |               -17.5 |                -15.8 |             -13.1 |
-| Mitsubishi Dynaboars V Shizuoka Blue Revs on 2023/01/22                     |        0 |                11.5 |                 14.2 |               1.5 |
-| Toshiba Brave Lupus Tokyo V Toyota Verblitz on 2023/01/22                   |       38 |                 4   |                  3.9 |              11.6 |
-| Toshiba Brave Lupus Tokyo V Hanazono Kintetsu Liners on 2023/01/28          |       46 |                20.2 |                 22   |              21.9 |
-| Kobelco Kobe Steelers V Toyota Verblitz on 2023/01/28                       |      -17 |                22   |                 17.1 |               9.4 |
-| Saitama Wild Knights V Yokohama Canon Eagles on 2023/01/28                  |        2 |                 9.2 |                  6.6 |              12.6 |
-| Shizuoka Blue Revs V Green Rockets Tokatsu on 2023/01/29                    |       21 |                10.5 |                 11.6 |              20.2 |
-| Kubota Spears Funabashi Tokyo-Bay V Black Rams Tokyo on 2023/01/29          |        2 |                21.4 |                 27.5 |              28   |
-| Tokyo Sungoliath V Mitsubishi Dynaboars on 2023/01/29                       |       38 |                31.4 |                 29.3 |              14   |
-| Toyota Verblitz V Kubota Spears Funabashi Tokyo-Bay on 2023/02/04           |      -10 |                 0.3 |                  4.5 |              -4.9 |
-| Yokohama Canon Eagles V Black Rams Tokyo on 2023/02/04                      |       21 |                18.9 |                 17.7 |              16.2 |
-| Mitsubishi Dynaboars V Kobelco Kobe Steelers on 2023/02/05                  |      -19 |               -10.9 |                 -8.2 |               1.9 |
-| Toshiba Brave Lupus Tokyo V Tokyo Sungoliath on 2023/02/05                  |       -6 |                -7.6 |                 -4.7 |               0.7 |
-| Green Rockets Tokatsu V Saitama Wild Knights on 2023/02/05                  |      -45 |               -18.2 |                -14.7 |             -23   |
-| Hanazono Kintetsu Liners V Shizuoka Blue Revs on 2023/02/05                 |      -20 |                -9.2 |                 -6.9 |              -7   |
-| Black Rams Tokyo V Tokyo Sungoliath on 2023/02/18                           |      -11 |               -19.8 |                -20.1 |             -11.2 |
-| Yokohama Canon Eagles V Toshiba Brave Lupus Tokyo on 2023/02/18             |       11 |                15.6 |                 15.7 |               4.3 |
-| Saitama Wild Knights V Hanazono Kintetsu Liners on 2023/02/18               |       35 |                29.6 |                 28.8 |              31.3 |
-| Toyota Verblitz V Green Rockets Tokatsu on 2023/02/18                       |        3 |                10.5 |                 17.1 |              18.9 |
-| Kobelco Kobe Steelers V Shizuoka Blue Revs on 2023/02/19                    |        3 |                 4.9 |                  4.6 |               7.2 |
-| Kubota Spears Funabashi Tokyo-Bay V Mitsubishi Dynaboars on 2023/02/19      |       38 |                23.5 |                 23.4 |              16.1 |
-| Black Rams Tokyo V Hanazono Kintetsu Liners on 2023/02/25                   |       54 |                17   |                 17.1 |              14.1 |
-| Kubota Spears Funabashi Tokyo-Bay V Toshiba Brave Lupus Tokyo on 2023/02/25 |       19 |                 5.9 |                  7.2 |               6.1 |
-| Shizuoka Blue Revs V Tokyo Sungoliath on 2023/02/25                         |       -8 |                -1.8 |                 -0.6 |              -9.3 |
-| Toyota Verblitz V Yokohama Canon Eagles on 2023/02/25                       |      -32 |               -13   |                -10.4 |              -3.1 |
-| Kobelco Kobe Steelers V Saitama Wild Knights on 2023/02/26                  |      -38 |               -17.6 |                -17.9 |              -8.1 |
-| Mitsubishi Dynaboars V Green Rockets Tokatsu on 2023/02/26                  |       -7 |                -4.6 |                 -4.8 |              16.8 |
-| Yokohama Canon Eagles V Shizuoka Blue Revs on 2023/03/03                    |        0 |                20.2 |                 12.7 |              15.2 |
-| Green Rockets Tokatsu V Black Rams Tokyo on 2023/03/04                      |      -47 |               -10.5 |                 -8.3 |              -2.2 |
-| Toshiba Brave Lupus Tokyo V Kobelco Kobe Steelers on 2023/03/04             |       39 |                 6.9 |                  9.6 |               9.5 |
-| Saitama Wild Knights V Kubota Spears Funabashi Tokyo-Bay on 2023/03/04      |       15 |                 9.6 |                 14   |               7.9 |
-| Hanazono Kintetsu Liners V Mitsubishi Dynaboars on 2023/03/05               |       -9 |                20.6 |                  7.6 |              -4.3 |
-| Tokyo Sungoliath V Toyota Verblitz on 2023/03/05                            |       -7 |                46.6 |                 40.4 |              20.1 |
-| Black Rams Tokyo V Kobelco Kobe Steelers on 2023/03/10                      |       15 |                35.1 |                 35   |               0.2 |
-| Tokyo Sungoliath V Saitama Wild Knights on 2023/03/11                       |      -12 |               -20.3 |                -20.4 |               2   |
-| Hanazono Kintetsu Liners V Toyota Verblitz on 2023/03/11                    |      -38 |               -21   |                -20.5 |              -8.1 |
-| Shizuoka Blue Revs V Kubota Spears Funabashi Tokyo-Bay on 2023/03/11        |      -13 |                -3.1 |                 -2   |              -7.7 |
-| Green Rockets Tokatsu V Toshiba Brave Lupus Tokyo on 2023/03/12             |      -29 |               -19.9 |                -20.3 |             -11.5 |
-| Mitsubishi Dynaboars V Yokohama Canon Eagles on 2023/03/12                  |      -20 |               -13.7 |                 -7.2 |             -12.6 |
-| Tokyo Sungoliath V Hanazono Kintetsu Liners on 2023/03/17                   |       52 |               nan   |                nan   |              32.7 |
+| Saitama Wild Knights V Mitsubishi Dynaboars on 2023/01/07                   |       35 |                 4.6 |                 -0.4 |              22.4 |
+| Tokyo Sungoliath V Yokohama Canon Eagles on 2023/01/07                      |        9 |                11.2 |                 10.4 |               9.1 |
+| Toshiba Brave Lupus Tokyo V Shizuoka Blue Revs on 2023/01/07                |       13 |                 7.5 |                  7.7 |              13.3 |
+| Hanazono Kintetsu Liners V Kubota Spears Funabashi Tokyo-Bay on 2023/01/08  |      -65 |                10.4 |                  9.6 |             -13.2 |
+| Green Rockets Tokatsu V Kobelco Kobe Steelers on 2023/01/08                 |      -10 |               -17.2 |                -14   |             -16.3 |
+| Toyota Verblitz V Black Rams Tokyo on 2023/01/08                            |       -4 |                17.8 |                 16.7 |              18.5 |
+| Hanazono Kintetsu Liners V Yokohama Canon Eagles on 2023/01/14              |      -67 |                -0.2 |                 -0.1 |             -10.1 |
+| Mitsubishi Dynaboars V Toshiba Brave Lupus Tokyo on 2023/01/14              |        4 |                -7.4 |                 -0.3 |              -6   |
+| Kobelco Kobe Steelers V Tokyo Sungoliath on 2023/01/14                      |      -20 |                11.4 |                 10.6 |              -0.1 |
+| Kubota Spears Funabashi Tokyo-Bay V Green Rockets Tokatsu on 2023/01/14     |       33 |                21.5 |                 18.5 |              28.5 |
+| Saitama Wild Knights V Toyota Verblitz on 2023/01/15                        |       15 |                18   |                 18.2 |              19.4 |
+| Shizuoka Blue Revs V Black Rams Tokyo on 2023/01/15                         |      -12 |                 7.6 |                  6.2 |              17.2 |
+| Yokohama Canon Eagles V Green Rockets Tokatsu on 2023/01/21                 |       24 |                23.6 |                 21.5 |              25.3 |
+| Black Rams Tokyo V Saitama Wild Knights on 2023/01/21                       |      -21 |                 6.4 |                  8.4 |             -24.4 |
+| Kubota Spears Funabashi Tokyo-Bay V Kobelco Kobe Steelers on 2023/01/21     |        4 |                13.5 |                 15.2 |               7.6 |
+| Hanazono Kintetsu Liners V Tokyo Sungoliath on 2023/01/22                   |      -41 |                -9.5 |                 -8.4 |             -14.7 |
+| Mitsubishi Dynaboars V Shizuoka Blue Revs on 2023/01/22                     |        0 |                15.6 |                 18.5 |               2.8 |
+| Toshiba Brave Lupus Tokyo V Toyota Verblitz on 2023/01/22                   |       38 |                 9.6 |                  9.4 |              11.9 |
+| Toshiba Brave Lupus Tokyo V Hanazono Kintetsu Liners on 2023/01/28          |       46 |                20.9 |                 22.7 |              21.7 |
+| Kobelco Kobe Steelers V Toyota Verblitz on 2023/01/28                       |      -17 |                18.5 |                 13.4 |               9.3 |
+| Saitama Wild Knights V Yokohama Canon Eagles on 2023/01/28                  |        2 |                 1.1 |                 -1.9 |              14.6 |
+| Shizuoka Blue Revs V Green Rockets Tokatsu on 2023/01/29                    |       21 |                14.2 |                 15.3 |              19.1 |
+| Kubota Spears Funabashi Tokyo-Bay V Black Rams Tokyo on 2023/01/29          |        2 |                21.2 |                 26.9 |              26.5 |
+| Tokyo Sungoliath V Mitsubishi Dynaboars on 2023/01/29                       |       38 |                23.2 |                 21.5 |              17   |
+| Toyota Verblitz V Kubota Spears Funabashi Tokyo-Bay on 2023/02/04           |      -10 |                 5.3 |                 10.1 |              -2.4 |
+| Yokohama Canon Eagles V Black Rams Tokyo on 2023/02/04                      |       21 |                13.6 |                 12.3 |              17.5 |
+| Mitsubishi Dynaboars V Kobelco Kobe Steelers on 2023/02/05                  |      -19 |                -6   |                 -3   |               2.1 |
+| Toshiba Brave Lupus Tokyo V Tokyo Sungoliath on 2023/02/05                  |       -6 |                 1   |                  4.3 |              -0.9 |
+| Green Rockets Tokatsu V Saitama Wild Knights on 2023/02/05                  |      -45 |               -18.5 |                -15.3 |             -24.6 |
+| Hanazono Kintetsu Liners V Shizuoka Blue Revs on 2023/02/05                 |      -20 |                -7.7 |                 -5.1 |              -5.6 |
+| Black Rams Tokyo V Tokyo Sungoliath on 2023/02/18                           |      -11 |               -23.6 |                -23.8 |             -14   |
+| Yokohama Canon Eagles V Toshiba Brave Lupus Tokyo on 2023/02/18             |       11 |                 9.9 |                 10   |               4.4 |
+| Saitama Wild Knights V Hanazono Kintetsu Liners on 2023/02/18               |       35 |                26   |                 25.3 |              32.3 |
+| Toyota Verblitz V Green Rockets Tokatsu on 2023/02/18                       |        3 |                10.3 |                 17.3 |              19.9 |
+| Kobelco Kobe Steelers V Shizuoka Blue Revs on 2023/02/19                    |        3 |                 1.9 |                  1.6 |               8.3 |
+| Kubota Spears Funabashi Tokyo-Bay V Mitsubishi Dynaboars on 2023/02/19      |       38 |                19.8 |                 19.6 |              14.1 |
+| Black Rams Tokyo V Hanazono Kintetsu Liners on 2023/02/25                   |       54 |                10.1 |                  9.9 |              13.3 |
+| Kubota Spears Funabashi Tokyo-Bay V Toshiba Brave Lupus Tokyo on 2023/02/25 |       19 |                 8.1 |                  9.5 |               3.5 |
+| Shizuoka Blue Revs V Tokyo Sungoliath on 2023/02/25                         |       -8 |                -4.1 |                 -3.2 |             -12.8 |
+| Toyota Verblitz V Yokohama Canon Eagles on 2023/02/25                       |      -32 |               -17.6 |                -14.9 |              -3.2 |
+| Kobelco Kobe Steelers V Saitama Wild Knights on 2023/02/26                  |      -38 |                -7.6 |                 -6.7 |              -9.4 |
+| Mitsubishi Dynaboars V Green Rockets Tokatsu on 2023/02/26                  |       -7 |                -3.2 |                 -3   |              17.3 |
+| Yokohama Canon Eagles V Shizuoka Blue Revs on 2023/03/03                    |        0 |                25.8 |                 18.4 |              16.8 |
+| Green Rockets Tokatsu V Black Rams Tokyo on 2023/03/04                      |      -47 |                -6.6 |                 -4.4 |              -1.8 |
+| Toshiba Brave Lupus Tokyo V Kobelco Kobe Steelers on 2023/03/04             |       39 |                -2.6 |                  0.2 |              10   |
+| Saitama Wild Knights V Kubota Spears Funabashi Tokyo-Bay on 2023/03/04      |       15 |                13.7 |                 18.8 |              10   |
+| Hanazono Kintetsu Liners V Mitsubishi Dynaboars on 2023/03/05               |       -9 |                23.5 |                 10.6 |              -4.1 |
+| Tokyo Sungoliath V Toyota Verblitz on 2023/03/05                            |       -7 |                43.8 |                 37.9 |              21.7 |
+| Black Rams Tokyo V Kobelco Kobe Steelers on 2023/03/10                      |       15 |                29.6 |                 29   |               0.1 |
+| Tokyo Sungoliath V Saitama Wild Knights on 2023/03/11                       |      -12 |               -14.5 |                -14.9 |               2.5 |
+| Hanazono Kintetsu Liners V Toyota Verblitz on 2023/03/11                    |      -38 |               -18.2 |                -17.6 |              -8.5 |
+| Shizuoka Blue Revs V Kubota Spears Funabashi Tokyo-Bay on 2023/03/11        |      -13 |                -6.5 |                 -5.1 |              -7.3 |
+| Green Rockets Tokatsu V Toshiba Brave Lupus Tokyo on 2023/03/12             |      -29 |               -15.4 |                -15.5 |             -11.7 |
+| Mitsubishi Dynaboars V Yokohama Canon Eagles on 2023/03/12                  |      -20 |               -13.1 |                 -7   |             -14.1 |
+| Tokyo Sungoliath V Hanazono Kintetsu Liners on 2023/03/17                   |       52 |                29.3 |                 32.9 |              34.7 |
+| Black Rams Tokyo V Shizuoka Blue Revs on 2023/03/18                         |       -4 |                 1.6 |                  4.4 |               2.1 |
+| Kubota Spears Funabashi Tokyo-Bay V Yokohama Canon Eagles on 2023/03/18     |       10 |                16.8 |                 16.7 |               4   |
+| Toyota Verblitz V Toshiba Brave Lupus Tokyo on 2023/03/18                   |       -1 |                -7.4 |                 -5.3 |              -4.9 |
+| Kobelco Kobe Steelers V Green Rockets Tokatsu on 2023/03/19                 |       33 |                24.5 |                 23.5 |              15.2 |
+| Mitsubishi Dynaboars V Saitama Wild Knights on 2023/03/19                   |      -32 |               -21   |                -23.9 |             -19   |
+| Black Rams Tokyo V Toshiba Brave Lupus Tokyo on 2023/03/24                  |       -2 |                -5.2 |                 -6.1 |              -5.5 |
+| Toyota Verblitz V Saitama Wild Knights on 2023/03/25                        |       -9 |               -11.2 |                 -8.3 |             -14.7 |
+| Yokohama Canon Eagles V Hanazono Kintetsu Liners on 2023/03/25              |       52 |                36.5 |                 38.2 |              31.7 |
+| Green Rockets Tokatsu V Tokyo Sungoliath on 2023/03/26                      |      -25 |               -32.4 |                -29.6 |             -19.5 |
+| Kobelco Kobe Steelers V Kubota Spears Funabashi Tokyo-Bay on 2023/03/26     |       -9 |               -11.9 |                -14.2 |              -5.3 |
+| Shizuoka Blue Revs V Mitsubishi Dynaboars on 2023/03/26                     |       10 |                28.4 |                 32.3 |              10.8 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 16.1 | 16.2 | 14.8 |
-| Correct Winner |       - | 75.8% | 75.8% | 76.1% |
+| Average Error |       - | 16.5 | 16.7 | 14.8 |
+| Correct Winner |       - | 76.8% | 76.8% | 84.1% |
 
 
-## Current Standings
+# Future Predictions
+
+## Week 12
+
+### Tokyo Sungoliath V Kobelco Kobe Steelers on 2023/04/07
 
 
-| Club                              |   Wins |   Point Differential |   Losing Bonus Points |   Four Try Bonus Points |   Competition Points |
-|:----------------------------------|-------:|---------------------:|----------------------:|------------------------:|---------------------:|
-| Saitama Wild Knights              |     11 |                  222 |                     0 |                       7 |                   51 |
-| Kubota Spears Funabashi Tokyo-Bay |      9 |                  182 |                     0 |                       7 |                   45 |
-| Tokyo Sungoliath                  |      8 |                  132 |                     1 |                       8 |                   41 |
-| Yokohama Canon Eagles             |      8 |                  173 |                     1 |                       7 |                   40 |
-| Toshiba Brave Lupus Tokyo         |      6 |                  132 |                     3 |                       8 |                   35 |
-| Toyota Verblitz                   |      5 |                  -31 |                     2 |                       4 |                   26 |
-| Black Rams Tokyo                  |      5 |                   41 |                     1 |                       4 |                   25 |
-| Mitsubishi Dynaboars              |      4 |                 -116 |                     1 |                       4 |                   23 |
-| Kobelco Kobe Steelers             |      4 |                  -88 |                     1 |                       5 |                   22 |
-| Shizuoka Blue Revs                |      3 |                  -14 |                     3 |                       3 |                   18 |
-| Green Rockets Tokatsu             |      2 |                 -234 |                     1 |                       3 |                   12 |
-| Hanazono Kintetsu Liners          |      0 |                 -399 |                     1 |                       3 |                    4 |
-## Future Club-Level Match Predictions
-
-### Week 10
-
-#### Kubota Spears Funabashi Tokyo-Bay V Yokohama Canon Eagles on 2023/03/18
-
-
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 5.4
-
-<p float="left">
-<img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Yokohama Canon Eagles_10.png" width="32%" />
-<img src="plots/resultbar_Kubota Spears Funabashi Tokyo-Bay_V_Yokohama Canon Eagles_10.png" width="32%" />
-<img src="plots/spreads_Kubota Spears Funabashi Tokyo-Bay_V_Yokohama Canon Eagles_10.png" width="32%" />
-</p>
-
-#### Black Rams Tokyo V Shizuoka Blue Revs on 2023/03/18
-
-
-Average Margin: Black Rams Tokyo by 2.9
-
-<p float="left">
-<img src="plots/performances_Black Rams Tokyo_V_Shizuoka Blue Revs_10.png" width="32%" />
-<img src="plots/resultbar_Black Rams Tokyo_V_Shizuoka Blue Revs_10.png" width="32%" />
-<img src="plots/spreads_Black Rams Tokyo_V_Shizuoka Blue Revs_10.png" width="32%" />
-</p>
-
-#### Toyota Verblitz V Toshiba Brave Lupus Tokyo on 2023/03/18
-
-
-Average Margin: Toshiba Brave Lupus Tokyo by 3.8
-
-<p float="left">
-<img src="plots/performances_Toyota Verblitz_V_Toshiba Brave Lupus Tokyo_10.png" width="32%" />
-<img src="plots/resultbar_Toyota Verblitz_V_Toshiba Brave Lupus Tokyo_10.png" width="32%" />
-<img src="plots/spreads_Toyota Verblitz_V_Toshiba Brave Lupus Tokyo_10.png" width="32%" />
-</p>
-
-#### Kobelco Kobe Steelers V Green Rockets Tokatsu on 2023/03/19
-
-
-Average Margin: Kobelco Kobe Steelers by 15.2
-
-<p float="left">
-<img src="plots/performances_Kobelco Kobe Steelers_V_Green Rockets Tokatsu_10.png" width="32%" />
-<img src="plots/resultbar_Kobelco Kobe Steelers_V_Green Rockets Tokatsu_10.png" width="32%" />
-<img src="plots/spreads_Kobelco Kobe Steelers_V_Green Rockets Tokatsu_10.png" width="32%" />
-</p>
-
-#### Mitsubishi Dynaboars V Saitama Wild Knights on 2023/03/19
-
-
-Average Margin: Saitama Wild Knights by 20.5
-
-<p float="left">
-<img src="plots/performances_Mitsubishi Dynaboars_V_Saitama Wild Knights_10.png" width="32%" />
-<img src="plots/resultbar_Mitsubishi Dynaboars_V_Saitama Wild Knights_10.png" width="32%" />
-<img src="plots/spreads_Mitsubishi Dynaboars_V_Saitama Wild Knights_10.png" width="32%" />
-</p>
-
-### Week 11
-
-#### Black Rams Tokyo V Toshiba Brave Lupus Tokyo on 2023/03/24
-
-
-Average Margin: Toshiba Brave Lupus Tokyo by 4.0
-
-<p float="left">
-<img src="plots/performances_Black Rams Tokyo_V_Toshiba Brave Lupus Tokyo_11.png" width="32%" />
-<img src="plots/resultbar_Black Rams Tokyo_V_Toshiba Brave Lupus Tokyo_11.png" width="32%" />
-<img src="plots/spreads_Black Rams Tokyo_V_Toshiba Brave Lupus Tokyo_11.png" width="32%" />
-</p>
-
-#### Yokohama Canon Eagles V Hanazono Kintetsu Liners on 2023/03/25
-
-
-Average Margin: Yokohama Canon Eagles by 30.5
-
-<p float="left">
-<img src="plots/performances_Yokohama Canon Eagles_V_Hanazono Kintetsu Liners_11.png" width="32%" />
-<img src="plots/resultbar_Yokohama Canon Eagles_V_Hanazono Kintetsu Liners_11.png" width="32%" />
-<img src="plots/spreads_Yokohama Canon Eagles_V_Hanazono Kintetsu Liners_11.png" width="32%" />
-</p>
-
-#### Toyota Verblitz V Saitama Wild Knights on 2023/03/25
-
-
-Average Margin: Saitama Wild Knights by 13.7
-
-<p float="left">
-<img src="plots/performances_Toyota Verblitz_V_Saitama Wild Knights_11.png" width="32%" />
-<img src="plots/resultbar_Toyota Verblitz_V_Saitama Wild Knights_11.png" width="32%" />
-<img src="plots/spreads_Toyota Verblitz_V_Saitama Wild Knights_11.png" width="32%" />
-</p>
-
-#### Shizuoka Blue Revs V Mitsubishi Dynaboars on 2023/03/25
-
-
-Average Margin: Shizuoka Blue Revs by 10.7
-
-<p float="left">
-<img src="plots/performances_Shizuoka Blue Revs_V_Mitsubishi Dynaboars_11.png" width="32%" />
-<img src="plots/resultbar_Shizuoka Blue Revs_V_Mitsubishi Dynaboars_11.png" width="32%" />
-<img src="plots/spreads_Shizuoka Blue Revs_V_Mitsubishi Dynaboars_11.png" width="32%" />
-</p>
-
-#### Green Rockets Tokatsu V Tokyo Sungoliath on 2023/03/26
-
-
-Average Margin: Tokyo Sungoliath by 18.7
-
-<p float="left">
-<img src="plots/performances_Green Rockets Tokatsu_V_Tokyo Sungoliath_11.png" width="32%" />
-<img src="plots/resultbar_Green Rockets Tokatsu_V_Tokyo Sungoliath_11.png" width="32%" />
-<img src="plots/spreads_Green Rockets Tokatsu_V_Tokyo Sungoliath_11.png" width="32%" />
-</p>
-
-#### Kobelco Kobe Steelers V Kubota Spears Funabashi Tokyo-Bay on 2023/03/26
-
-
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 9.7
-
-<p float="left">
-<img src="plots/performances_Kobelco Kobe Steelers_V_Kubota Spears Funabashi Tokyo-Bay_11.png" width="32%" />
-<img src="plots/resultbar_Kobelco Kobe Steelers_V_Kubota Spears Funabashi Tokyo-Bay_11.png" width="32%" />
-<img src="plots/spreads_Kobelco Kobe Steelers_V_Kubota Spears Funabashi Tokyo-Bay_11.png" width="32%" />
-</p>
-
-### Week 12
-
-#### Tokyo Sungoliath V Kobelco Kobe Steelers on 2023/04/07
-
-
-Average Margin: Tokyo Sungoliath by 13.9
+Average Margin: Tokyo Sungoliath by 14.5
 
 <p float="left">
 <img src="plots/performances_Tokyo Sungoliath_V_Kobelco Kobe Steelers_12.png" width="32%" />
@@ -240,10 +162,10 @@ Average Margin: Tokyo Sungoliath by 13.9
 <img src="plots/spreads_Tokyo Sungoliath_V_Kobelco Kobe Steelers_12.png" width="32%" />
 </p>
 
-#### Kubota Spears Funabashi Tokyo-Bay V Hanazono Kintetsu Liners on 2023/04/08
+### Kubota Spears Funabashi Tokyo-Bay V Hanazono Kintetsu Liners on 2023/04/08
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 32.4
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 33.5
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Hanazono Kintetsu Liners_12.png" width="32%" />
@@ -251,10 +173,10 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 32.4
 <img src="plots/spreads_Kubota Spears Funabashi Tokyo-Bay_V_Hanazono Kintetsu Liners_12.png" width="32%" />
 </p>
 
-#### Shizuoka Blue Revs V Toshiba Brave Lupus Tokyo on 2023/04/08
+### Shizuoka Blue Revs V Toshiba Brave Lupus Tokyo on 2023/04/08
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 3.6
+Average Margin: Toshiba Brave Lupus Tokyo by 3.1
 
 <p float="left">
 <img src="plots/performances_Shizuoka Blue Revs_V_Toshiba Brave Lupus Tokyo_12.png" width="32%" />
@@ -262,10 +184,10 @@ Average Margin: Toshiba Brave Lupus Tokyo by 3.6
 <img src="plots/spreads_Shizuoka Blue Revs_V_Toshiba Brave Lupus Tokyo_12.png" width="32%" />
 </p>
 
-#### Saitama Wild Knights V Black Rams Tokyo on 2023/04/08
+### Saitama Wild Knights V Black Rams Tokyo on 2023/04/08
 
 
-Average Margin: Saitama Wild Knights by 20.3
+Average Margin: Saitama Wild Knights by 22.2
 
 <p float="left">
 <img src="plots/performances_Saitama Wild Knights_V_Black Rams Tokyo_12.png" width="32%" />
@@ -273,10 +195,10 @@ Average Margin: Saitama Wild Knights by 20.3
 <img src="plots/spreads_Saitama Wild Knights_V_Black Rams Tokyo_12.png" width="32%" />
 </p>
 
-#### Toyota Verblitz V Mitsubishi Dynaboars on 2023/04/08
+### Toyota Verblitz V Mitsubishi Dynaboars on 2023/04/08
 
 
-Average Margin: Toyota Verblitz by 10.6
+Average Margin: Toyota Verblitz by 11.9
 
 <p float="left">
 <img src="plots/performances_Toyota Verblitz_V_Mitsubishi Dynaboars_12.png" width="32%" />
@@ -284,10 +206,10 @@ Average Margin: Toyota Verblitz by 10.6
 <img src="plots/spreads_Toyota Verblitz_V_Mitsubishi Dynaboars_12.png" width="32%" />
 </p>
 
-#### Green Rockets Tokatsu V Yokohama Canon Eagles on 2023/04/09
+### Green Rockets Tokatsu V Yokohama Canon Eagles on 2023/04/09
 
 
-Average Margin: Yokohama Canon Eagles by 18.9
+Average Margin: Yokohama Canon Eagles by 20.2
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Yokohama Canon Eagles_12.png" width="32%" />
@@ -295,12 +217,12 @@ Average Margin: Yokohama Canon Eagles by 18.9
 <img src="plots/spreads_Green Rockets Tokatsu_V_Yokohama Canon Eagles_12.png" width="32%" />
 </p>
 
-### Week 13
+## Week 13
 
-#### Hanazono Kintetsu Liners V Kobelco Kobe Steelers on 2023/04/14
+### Hanazono Kintetsu Liners V Kobelco Kobe Steelers on 2023/04/14
 
 
-Average Margin: Kobelco Kobe Steelers by 13.0
+Average Margin: Kobelco Kobe Steelers by 13.9
 
 <p float="left">
 <img src="plots/performances_Hanazono Kintetsu Liners_V_Kobelco Kobe Steelers_13.png" width="32%" />
@@ -308,10 +230,10 @@ Average Margin: Kobelco Kobe Steelers by 13.0
 <img src="plots/spreads_Hanazono Kintetsu Liners_V_Kobelco Kobe Steelers_13.png" width="32%" />
 </p>
 
-#### Toshiba Brave Lupus Tokyo V Mitsubishi Dynaboars on 2023/04/14
+### Toshiba Brave Lupus Tokyo V Mitsubishi Dynaboars on 2023/04/14
 
 
-Average Margin: Toshiba Brave Lupus Tokyo by 17.6
+Average Margin: Toshiba Brave Lupus Tokyo by 17.8
 
 <p float="left">
 <img src="plots/performances_Toshiba Brave Lupus Tokyo_V_Mitsubishi Dynaboars_13.png" width="32%" />
@@ -319,10 +241,10 @@ Average Margin: Toshiba Brave Lupus Tokyo by 17.6
 <img src="plots/spreads_Toshiba Brave Lupus Tokyo_V_Mitsubishi Dynaboars_13.png" width="32%" />
 </p>
 
-#### Yokohama Canon Eagles V Tokyo Sungoliath on 2023/04/15
+### Yokohama Canon Eagles V Tokyo Sungoliath on 2023/04/15
 
 
-Average Margin: Yokohama Canon Eagles by 3.6
+Average Margin: Yokohama Canon Eagles by 2.6
 
 <p float="left">
 <img src="plots/performances_Yokohama Canon Eagles_V_Tokyo Sungoliath_13.png" width="32%" />
@@ -330,10 +252,10 @@ Average Margin: Yokohama Canon Eagles by 3.6
 <img src="plots/spreads_Yokohama Canon Eagles_V_Tokyo Sungoliath_13.png" width="32%" />
 </p>
 
-#### Black Rams Tokyo V Toyota Verblitz on 2023/04/15
+### Black Rams Tokyo V Toyota Verblitz on 2023/04/15
 
 
-Average Margin: Black Rams Tokyo by 3.0
+Average Margin: Black Rams Tokyo by 2.1
 
 <p float="left">
 <img src="plots/performances_Black Rams Tokyo_V_Toyota Verblitz_13.png" width="32%" />
@@ -341,10 +263,10 @@ Average Margin: Black Rams Tokyo by 3.0
 <img src="plots/spreads_Black Rams Tokyo_V_Toyota Verblitz_13.png" width="32%" />
 </p>
 
-#### Saitama Wild Knights V Shizuoka Blue Revs on 2023/04/15
+### Saitama Wild Knights V Shizuoka Blue Revs on 2023/04/15
 
 
-Average Margin: Saitama Wild Knights by 20.1
+Average Margin: Saitama Wild Knights by 21.4
 
 <p float="left">
 <img src="plots/performances_Saitama Wild Knights_V_Shizuoka Blue Revs_13.png" width="32%" />
@@ -352,10 +274,10 @@ Average Margin: Saitama Wild Knights by 20.1
 <img src="plots/spreads_Saitama Wild Knights_V_Shizuoka Blue Revs_13.png" width="32%" />
 </p>
 
-#### Green Rockets Tokatsu V Kubota Spears Funabashi Tokyo-Bay on 2023/04/16
+### Green Rockets Tokatsu V Kubota Spears Funabashi Tokyo-Bay on 2023/04/16
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 21.1
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 22.3
 
 <p float="left">
 <img src="plots/performances_Green Rockets Tokatsu_V_Kubota Spears Funabashi Tokyo-Bay_13.png" width="32%" />
@@ -363,12 +285,12 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 21.1
 <img src="plots/spreads_Green Rockets Tokatsu_V_Kubota Spears Funabashi Tokyo-Bay_13.png" width="32%" />
 </p>
 
-### Week 14
+## Week 14
 
-#### Toshiba Brave Lupus Tokyo V Saitama Wild Knights on 2023/04/21
+### Toshiba Brave Lupus Tokyo V Saitama Wild Knights on 2023/04/21
 
 
-Average Margin: Saitama Wild Knights by 6.3
+Average Margin: Saitama Wild Knights by 8.4
 
 <p float="left">
 <img src="plots/performances_Toshiba Brave Lupus Tokyo_V_Saitama Wild Knights_14.png" width="32%" />
@@ -376,10 +298,10 @@ Average Margin: Saitama Wild Knights by 6.3
 <img src="plots/spreads_Toshiba Brave Lupus Tokyo_V_Saitama Wild Knights_14.png" width="32%" />
 </p>
 
-#### Hanazono Kintetsu Liners V Green Rockets Tokatsu on 2023/04/22
+### Hanazono Kintetsu Liners V Green Rockets Tokatsu on 2023/04/22
 
 
-Average Margin: Green Rockets Tokatsu by 1.5
+Average Margin: Green Rockets Tokatsu by 1.0
 
 <p float="left">
 <img src="plots/performances_Hanazono Kintetsu Liners_V_Green Rockets Tokatsu_14.png" width="32%" />
@@ -387,10 +309,10 @@ Average Margin: Green Rockets Tokatsu by 1.5
 <img src="plots/spreads_Hanazono Kintetsu Liners_V_Green Rockets Tokatsu_14.png" width="32%" />
 </p>
 
-#### Kubota Spears Funabashi Tokyo-Bay V Tokyo Sungoliath on 2023/04/22
+### Kubota Spears Funabashi Tokyo-Bay V Tokyo Sungoliath on 2023/04/22
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 6.0
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 4.6
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Tokyo Sungoliath_14.png" width="32%" />
@@ -398,10 +320,10 @@ Average Margin: Kubota Spears Funabashi Tokyo-Bay by 6.0
 <img src="plots/spreads_Kubota Spears Funabashi Tokyo-Bay_V_Tokyo Sungoliath_14.png" width="32%" />
 </p>
 
-#### Mitsubishi Dynaboars V Black Rams Tokyo on 2023/04/22
+### Mitsubishi Dynaboars V Black Rams Tokyo on 2023/04/22
 
 
-Average Margin: Black Rams Tokyo by 3.4
+Average Margin: Black Rams Tokyo by 3.6
 
 <p float="left">
 <img src="plots/performances_Mitsubishi Dynaboars_V_Black Rams Tokyo_14.png" width="32%" />
@@ -409,10 +331,10 @@ Average Margin: Black Rams Tokyo by 3.4
 <img src="plots/spreads_Mitsubishi Dynaboars_V_Black Rams Tokyo_14.png" width="32%" />
 </p>
 
-#### Kobelco Kobe Steelers V Yokohama Canon Eagles on 2023/04/23
+### Kobelco Kobe Steelers V Yokohama Canon Eagles on 2023/04/23
 
 
-Average Margin: Yokohama Canon Eagles by 7.0
+Average Margin: Yokohama Canon Eagles by 7.7
 
 <p float="left">
 <img src="plots/performances_Kobelco Kobe Steelers_V_Yokohama Canon Eagles_14.png" width="32%" />
@@ -420,15 +342,13 @@ Average Margin: Yokohama Canon Eagles by 7.0
 <img src="plots/spreads_Kobelco Kobe Steelers_V_Yokohama Canon Eagles_14.png" width="32%" />
 </p>
 
-#### Shizuoka Blue Revs V Toyota Verblitz on 2023/04/23
+### Shizuoka Blue Revs V Toyota Verblitz on 2023/04/23
 
 
-Average Margin: Shizuoka Blue Revs by 3.5
+Average Margin: Shizuoka Blue Revs by 2.8
 
 <p float="left">
 <img src="plots/performances_Shizuoka Blue Revs_V_Toyota Verblitz_14.png" width="32%" />
 <img src="plots/resultbar_Shizuoka Blue Revs_V_Toyota Verblitz_14.png" width="32%" />
 <img src="plots/spreads_Shizuoka Blue Revs_V_Toyota Verblitz_14.png" width="32%" />
 </p>
-
-## Projected Remaining Table

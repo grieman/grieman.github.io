@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Ross Cooke  
-date: 2023-02-04 18:29:27.013141  
+date: 2023-03-21 18:42:29.398183  
 categories: player  
 ---
 # Ross Cooke
 
-## Positions: FB
+
+Last updated: 2023-03-21
+## Positions: W, FB
 
 ## Country: Poland
 
-## Current elo: 86.0
+## Current elo: 73.0
 
-## Current Percentile: None
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -23,8 +25,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             5 |        0.2 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Romania    |         1 |          0 |
+| Belgium    |         2 |        0.5 |
+| Germany    |         1 |        0   |
+| Portugal   |         1 |        0   |
+| Romania    |         1 |        0   |

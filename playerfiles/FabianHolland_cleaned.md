@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fabian Holland  
-date: 2023-03-17 17:24:31.252898  
+date: 2023-03-21 18:20:43.710256  
 categories: player  
 ---
 # Fabian Holland
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 105.0
+## Current elo: 103.0
 
-## Current Percentile: 80.0
+## Current Percentile: 78.0
 
 # Elo History
 
@@ -22,13 +24,14 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Otago       |            13 |   0.461538 |
-| Highlanders |             3 |   0.333333 |
+| Highlanders |             4 |   0.5      |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Taranaki         |         3 |        0   |
 | Manawatu         |         2 |        1   |
 | Waikato          |         2 |        0.5 |
+| Western Force    |         2 |        1   |
 | Auckland         |         1 |        0   |
 | Blues            |         1 |        0   |
 | Canterbury       |         1 |        0   |
@@ -37,4 +40,3 @@ categories: player
 | Hawke's Bay      |         1 |        1   |
 | Southland        |         1 |        1   |
 | Tasman           |         1 |        1   |
-| Western Force    |         1 |        1   |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tyrel LOMAX  
-date: 2023-03-17 17:28:20.284701  
+date: 2023-03-24 11:47:23.239420  
 categories: player  
 ---
 # Tyrel LOMAX
 
+
+Last updated: 2023-03-24
 ## Positions: P
 
 ## Country: New Zealand

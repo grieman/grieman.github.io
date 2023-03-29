@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Walt STEENKAMP  
-date: 2023-03-17 17:02:10.170475  
+date: 2023-03-29 11:32:01.296252  
 categories: player  
 ---
 # Walt STEENKAMP
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
 ## Current elo: 94.0

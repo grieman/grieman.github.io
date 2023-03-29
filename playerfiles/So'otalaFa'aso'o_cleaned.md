@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: So'otala Fa'aso'o  
-date: 2023-03-17 17:01:05.754096  
+date: 2023-03-21 18:22:41.660271  
 categories: player  
 ---
 # So'otala Fa'aso'o
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Current elo: 94.0

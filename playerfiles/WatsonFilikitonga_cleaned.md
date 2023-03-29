@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Watson Filikitonga  
-date: 2023-03-17 17:09:55.718913  
+date: 2023-03-21 18:08:24.634521  
 categories: player  
 ---
 # Watson Filikitonga
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 85.0

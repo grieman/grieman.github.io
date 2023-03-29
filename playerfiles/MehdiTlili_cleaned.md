@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mehdi Tlili  
-date: 2023-03-17 17:41:20.638763  
+date: 2023-03-21 18:24:20.636955  
 categories: player  
 ---
 # Mehdi Tlili
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 88.0
 
-## Current Percentile: 38.0
+## Current Percentile: 37.0
 
 # Elo History
 

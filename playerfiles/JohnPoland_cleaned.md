@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: John Poland  
-date: 2023-03-17 17:33:51.547611  
+date: 2023-03-21 18:08:21.002169  
 categories: player  
 ---
 # John Poland
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 93.0

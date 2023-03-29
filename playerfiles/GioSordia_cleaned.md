@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Gio Sordia  
-date: 2023-03-17 17:42:37.454726  
+date: 2023-03-21 18:01:37.335906  
 categories: player  
 ---
 # Gio Sordia
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 119.0
+## Current elo: 118.0
 
 ## Current Percentile: 94.0
 

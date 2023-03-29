@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Siyabonga Ntubeni  
-date: 2023-03-17 17:29:48.353239  
+date: 2023-03-21 18:47:27.263325  
 categories: player  
 ---
 # Siyabonga Ntubeni
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 91.0
+## Current elo: 93.0
 
-## Current Percentile: 29.0
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -22,10 +24,11 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stormers         |             2 |        0.5 |
-| Western Province |             1 |        1   |
+| Western Province |             2 |        1   |
 
 | Opponent     |   Matches |   Win Rate |
 |:-------------|----------:|-----------:|
+| Blue Bulls   |         1 |          1 |
 | Bulls        |         1 |          1 |
 | Golden Lions |         1 |          1 |
 | Ulster       |         1 |          0 |

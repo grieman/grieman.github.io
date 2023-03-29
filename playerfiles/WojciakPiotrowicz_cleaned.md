@@ -1,26 +1,35 @@
 ---  
 layout: page  
 title: Wojciak Piotrowicz  
-date: 2023-02-05 15:09:36.411926  
+date: 2023-03-21 18:57:19.449500  
 categories: player  
 ---
 # Wojciak Piotrowicz
 
-## Positions: 
+
+Last updated: 2023-03-21
+## Positions: FH, FB
 
 ## Country: Poland
 
-## Current elo: 94.0
+## Current elo: 77.0
 
-## Current Percentile: None
+## Current Percentile: 22.0
 
+# Elo History
+
+
+![elo history](history_WojciakPiotrowicz.png)
 # Match History
 
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Poland |             1 |          0 |
+| Poland |             5 |        0.2 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
-| Romania    |         1 |          0 |
+| Belgium    |         2 |        0.5 |
+| Germany    |         1 |        0   |
+| Portugal   |         1 |        0   |
+| Romania    |         1 |        0   |

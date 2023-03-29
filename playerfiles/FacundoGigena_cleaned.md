@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Facundo Gigena  
-date: 2023-03-17 17:37:47.245816  
+date: 2023-03-21 18:02:09.625445  
 categories: player  
 ---
 # Facundo Gigena
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Argentina
 
 ## Current elo: 99.0
 
-## Current Percentile: 62.0
+## Current Percentile: 61.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Javier Carrasco  
-date: 2023-03-16 20:11:32.824393  
+date: 2023-03-21 18:06:08.167749  
 categories: player  
 ---
 # Javier Carrasco
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Chile

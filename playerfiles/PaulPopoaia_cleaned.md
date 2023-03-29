@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Paul Popoaia  
-date: 2023-02-04 18:26:41.512795  
+date: 2023-03-21 18:51:18.121712  
 categories: player  
 ---
 # Paul Popoaia
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Country: Romania
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 67.0
+## Current Percentile: 76.0
 
 # Elo History
 
@@ -23,12 +25,13 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Romania |             6 |   0.833333 |
+| Romania |            10 |        0.7 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
-| Netherlands |         2 |          1 |
-| Georgia     |         1 |          0 |
-| Poland      |         1 |          1 |
-| Portugal    |         1 |          1 |
-| Spain       |         1 |          1 |
+| Georgia     |         2 |        0   |
+| Netherlands |         2 |        1   |
+| Portugal    |         2 |        0.5 |
+| Spain       |         2 |        1   |
+| Belgium     |         1 |        1   |
+| Poland      |         1 |        1   |

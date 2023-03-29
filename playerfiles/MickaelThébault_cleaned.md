@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mickael Thébault  
-date: 2023-03-17 17:10:04.462737  
+date: 2023-03-21 18:45:03.461692  
 categories: player  
 ---
 # Mickael Thébault
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 100.0

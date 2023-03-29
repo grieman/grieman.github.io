@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomike Mataradze  
-date: 2023-03-12 11:30:27.577933  
+date: 2023-03-27 11:37:15.645675  
 categories: player  
 ---
 # Tomike Mataradze
 
+
+Last updated: 2023-03-27
 ## Positions: P
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 66.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,14 +23,15 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Nevers |             7 |   0.714286 |
+| Nevers |             8 |       0.75 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Aurillac         |         1 |          1 |
-| Carcassonne      |         1 |          1 |
-| Mont-de-Marsan   |         1 |          1 |
-| Oyonnax          |         1 |          0 |
-| Provence Rugby   |         1 |          0 |
-| Soyaux-Angouleme |         1 |          1 |
-| Vannes           |         1 |          1 |
+| Opponent           |   Matches |   Win Rate |
+|:-------------------|----------:|-----------:|
+| Aurillac           |         1 |          1 |
+| Biarritz Olympique |         1 |          1 |
+| Carcassonne        |         1 |          1 |
+| Mont-de-Marsan     |         1 |          1 |
+| Oyonnax            |         1 |          0 |
+| Provence Rugby     |         1 |          0 |
+| Soyaux-Angouleme   |         1 |          1 |
+| Vannes             |         1 |          1 |

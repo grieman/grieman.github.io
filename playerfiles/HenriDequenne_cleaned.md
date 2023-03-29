@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Henri Dequenne  
-date: 2023-02-05 15:14:16.460092  
+date: 2023-03-21 18:29:45.474390  
 categories: player  
 ---
 # Henri Dequenne
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Belgium
 
-## Current elo: 80.0
+## Current elo: 81.0
 
 ## Current Percentile: 13.0
 
@@ -24,7 +26,7 @@ categories: player
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
 | Brussels Devils |             6 |   0.333333 |
-| Belgium         |             3 |   0        |
+| Belgium         |             2 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -32,4 +34,3 @@ categories: player
 | Canada                   |         2 |   0        |
 | Castilla y Leon Iberians |         2 |   0        |
 | Lusitanos XV             |         1 |   0        |
-| Portugal                 |         1 |   0        |

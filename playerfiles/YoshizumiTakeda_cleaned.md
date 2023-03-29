@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yoshizumi Takeda  
-date: 2023-03-17 17:16:16.991553  
+date: 2023-03-21 18:32:16.992685  
 categories: player  
 ---
 # Yoshizumi Takeda
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 105.0

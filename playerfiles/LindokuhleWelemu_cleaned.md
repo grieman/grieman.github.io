@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Lindokuhle Welemu  
-date: 2023-03-17 17:30:50.034123  
+date: 2023-03-20 15:47:56.653685  
 categories: player  
 ---
 # Lindokuhle Welemu
 
+
+Last updated: 2023-03-20
 ## Positions: L
 
-## Current elo: 113.0
+## Current elo: 110.0
 
 ## Current Percentile: None
 

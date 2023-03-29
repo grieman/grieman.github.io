@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Javier Eissmann  
-date: 2023-03-17 17:34:21.658516  
+date: 2023-03-21 18:21:26.335199  
 categories: player  
 ---
 # Javier Eissmann
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Chile

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Fergus Burke  
-date: 2023-03-16 20:00:07.384558  
+date: 2023-03-21 17:58:23.125935  
 categories: player  
 ---
 # Fergus Burke
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 84.0
+## Current elo: 88.0
 
-## Current Percentile: 29.0
+## Current Percentile: 18.0
 
 # Elo History
 
@@ -22,17 +24,18 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Canterbury |            26 |   0.653846 |
-| Crusaders  |            25 |   0.76     |
+| Crusaders  |            26 |   0.769231 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |         5 |   0.8      |
 | Wellington               |         4 |   0.25     |
 | Chiefs                   |         4 |   0.5      |
+| Blues                    |         3 |   0.666667 |
 | Otago                    |         3 |   0.666667 |
-| Northland                |         3 |   1        |
 | Hurricanes               |         3 |   1        |
 | Manawatu                 |         3 |   0.666667 |
+| Northland                |         3 |   1        |
 | New South Wales Waratahs |         2 |   0.5      |
 | Bay of Plenty            |         2 |   1        |
 | Waikato                  |         2 |   0.5      |
@@ -41,7 +44,6 @@ categories: player
 | Melbourne Rebels         |         2 |   1        |
 | Hawke's Bay              |         2 |   0.5      |
 | Fijian Drua              |         2 |   0.5      |
-| Blues                    |         2 |   0.5      |
 | North Harbour            |         1 |   1        |
 | Queensland Reds          |         1 |   1        |
 | Southland                |         1 |   1        |

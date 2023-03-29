@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Bill Meakes  
-date: 2023-03-17 17:22:04.094765  
+date: 2023-03-21 18:46:48.064877  
 categories: player  
 ---
 # Bill Meakes
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 108.0

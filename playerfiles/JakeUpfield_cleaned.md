@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jake Upfield  
-date: 2023-03-17 17:23:24.995878  
+date: 2023-03-21 18:17:29.116700  
 categories: player  
 ---
 # Jake Upfield
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 88.0

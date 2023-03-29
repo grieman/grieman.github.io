@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Onehunga Havili Kaufusi  
-date: 2023-03-09 10:11:18.807140  
+date: 2023-03-21 18:25:28.241773  
 categories: player  
 ---
 # Onehunga Havili Kaufusi
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 97.0
+## Current elo: 95.0
 
 ## Current Percentile: None
 
@@ -17,9 +19,10 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Utah Warriors |             2 |        0.5 |
+| Utah Warriors |             3 |   0.333333 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | Chicago Hounds   |         1 |          1 |
+| NOLA Gold        |         1 |          0 |
 | San Diego Legion |         1 |          0 |

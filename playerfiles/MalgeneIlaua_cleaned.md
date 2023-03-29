@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Malgene Ilaua  
-date: 2023-03-17 17:07:27.437800  
+date: 2023-03-21 18:09:23.958603  
 categories: player  
 ---
 # Malgene Ilaua
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Japan

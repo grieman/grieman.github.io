@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Brice Ferrer  
-date: 2023-03-17 17:04:01.208936  
+date: 2023-03-21 18:02:13.259499  
 categories: player  
 ---
 # Brice Ferrer
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Spain
 
-## Current elo: 79.0
+## Current elo: 75.0
 
-## Current Percentile: 13.0
+## Current Percentile: 11.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
 | Dax    |            61 |   0.57377  |
-| Spain  |             6 |   0.333333 |
+| Spain  |             7 |   0.285714 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -41,10 +43,10 @@ categories: player
 | US Bressane                |         3 |   0.666667 |
 | Valence Romans Drome Rugby |         3 |   0.666667 |
 | Aubenas                    |         3 |   0.666667 |
+| Romania                    |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Netherlands                |         1 |   1        |
-| Romania                    |         1 |   0        |
 | Georgia                    |         1 |   0        |
 | Tonga                      |         1 |   0        |
 | Fiji                       |         1 |   0        |

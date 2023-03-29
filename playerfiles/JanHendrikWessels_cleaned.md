@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Jan Hendrik Wessels  
-date: 2023-03-17 17:22:45.030289  
+date: 2023-03-21 17:56:27.743316  
 categories: player  
 ---
 # Jan Hendrik Wessels
 
+
+Last updated: 2023-03-21
 ## Positions: H, P
 
-## Current elo: 72.0
+## Current elo: 73.0
 
 ## Current Percentile: 9.0
 

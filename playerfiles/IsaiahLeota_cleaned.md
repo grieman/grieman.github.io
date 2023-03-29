@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Isaiah Leota  
-date: 2023-03-17 17:22:28.905461  
+date: 2023-03-20 15:47:46.031198  
 categories: player  
 ---
 # Isaiah Leota
 
+
+Last updated: 2023-03-20
 ## Positions: C
 
-## Current elo: 108.0
+## Current elo: 107.0
 
-## Current Percentile: 62.0
+## Current Percentile: 61.0
 
 # Elo History
 

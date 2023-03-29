@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Mitch Richardson  
-date: 2023-03-17 17:37:10.323358  
+date: 2023-03-21 18:45:38.560645  
 categories: player  
 ---
 # Mitch Richardson
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
-## Current elo: 10.0
+## Current elo: 5.0
 
 ## Current Percentile: 0.0
 
@@ -21,12 +23,12 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |            25 |       0.48 |
+| Toronto Arrows |            26 |   0.461538 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| Old Glory DC           |         4 |   0.75     |
 | Rugby New York         |         4 |   0.25     |
-| Old Glory DC           |         3 |   1        |
 | R.U. New York          |         3 |   0.333333 |
 | Rugby ATL              |         3 |   0        |
 | Austin Elite Rugby     |         2 |   1        |

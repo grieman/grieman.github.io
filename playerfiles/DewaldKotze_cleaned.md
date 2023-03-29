@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Dewald Kotze  
-date: 2023-03-17 17:29:37.703275  
+date: 2023-03-21 18:23:06.469666  
 categories: player  
 ---
 # Dewald Kotze
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 74.0

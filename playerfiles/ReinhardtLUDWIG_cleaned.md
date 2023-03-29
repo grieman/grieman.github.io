@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Reinhardt LUDWIG  
-date: 2023-03-17 17:22:59.968939  
+date: 2023-03-29 11:31:02.961350  
 categories: player  
 ---
 # Reinhardt LUDWIG
 
+
+Last updated: 2023-03-29
 ## Positions: L, FL
 
 ## Current elo: 96.0

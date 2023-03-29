@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Gene Syminton  
-date: 2023-03-17 17:07:20.024165  
+date: 2023-03-21 18:32:11.913192  
 categories: player  
 ---
 # Gene Syminton
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 82.0
 
-## Current Percentile: 12.0
+## Current Percentile: 13.0
 
 # Elo History
 

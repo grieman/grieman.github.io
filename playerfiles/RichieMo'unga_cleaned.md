@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Richie Mo'unga  
-date: 2023-03-17 17:21:43.188519  
+date: 2023-03-21 18:35:59.621078  
 categories: player  
 ---
 # Richie Mo'unga
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: New Zealand
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            96 |   0.848958 |
+| Crusaders   |            97 |   0.850515 |
 | Canterbury  |            49 |   0.816327 |
 | New Zealand |            47 |   0.734043 |
 
@@ -31,9 +33,9 @@ categories: player
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |        17 |   0.647059 |
 | Highlanders              |        13 |   0.846154 |
+| Blues                    |        13 |   0.923077 |
 | Hurricanes               |        13 |   0.769231 |
 | Australia                |        12 |   0.875    |
-| Blues                    |        12 |   0.916667 |
 | Tasman                   |         8 |   0.75     |
 | Auckland                 |         7 |   0.857143 |
 | Argentina                |         6 |   0.666667 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Adrian Choat  
-date: 2023-03-17 17:06:15.846771  
+date: 2023-03-21 18:31:49.762722  
 categories: player  
 ---
 # Adrian Choat
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 94.0
+## Current elo: 90.0
 
-## Current Percentile: 36.0
+## Current Percentile: 35.0
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Blues    |            25 |        0.8 |
-| Auckland |            20 |        0.6 |
+| Blues    |            26 |   0.769231 |
+| Auckland |            20 |   0.6      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Chiefs                   |         4 |   0.75     |
+| Crusaders                |         4 |   0.25     |
 | Highlanders              |         4 |   1        |
 | Tasman                   |         4 |   0.25     |
 | Southland                |         3 |   1        |
-| Crusaders                |         3 |   0.333333 |
 | Hurricanes               |         3 |   0.666667 |
 | Brumbies                 |         3 |   0.666667 |
 | Canterbury               |         2 |   1        |

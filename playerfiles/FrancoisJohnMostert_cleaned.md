@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Francois John Mostert  
-date: 2023-03-02 11:25:58.839298  
+date: 2023-03-21 18:43:08.058254  
 categories: player  
 ---
 # Francois John Mostert
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 101.0
+## Current elo: 110.0
 
-## Current Percentile: 79.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,11 +23,11 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Mie Honda Heat |             5 |          1 |
+| Mie Honda Heat |             7 |          1 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
 | Kamaishi Seawaves                |         2 |          1 |
+| Shimizu Blue Sharks              |         2 |          1 |
+| Toyota Industries Shuttles Aichi |         2 |          1 |
 | Hino Red Dolphins                |         1 |          1 |
-| Shimizu Blue Sharks              |         1 |          1 |
-| Toyota Industries Shuttles Aichi |         1 |          1 |

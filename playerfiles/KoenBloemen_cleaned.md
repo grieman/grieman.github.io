@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Koen Bloemen  
-date: 2023-03-17 17:29:39.150586  
+date: 2023-03-21 18:38:58.433544  
 categories: player  
 ---
 # Koen Bloemen
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Netherlands
 
-## Current elo: 105.0
+## Current elo: 115.0
 
-## Current Percentile: 79.0
+## Current Percentile: 74.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | US Bressane |            52 |   0.576923 |
-| Netherlands |             8 |   0        |
+| Netherlands |             9 |   0.111111 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -50,14 +52,15 @@ categories: player
 | Vannes                     |         2 |   0        |
 | Cognac Saint Jean d'Angély |         2 |   1        |
 | Montauban                  |         1 |   0.5      |
+| Mont-de-Marsan             |         1 |   0        |
 | Carcassonne                |         1 |   0        |
-| Oyonnax                    |         1 |   0        |
 | Dijon                      |         1 |   1        |
+| Portugal                   |         1 |   0        |
 | Canada                     |         1 |   0        |
 | Rennes                     |         1 |   1        |
 | Bourgoin-Jallieu           |         1 |   1        |
 | Rouen                      |         1 |   1        |
-| Mont-de-Marsan             |         1 |   0        |
 | Albi                       |         1 |   0        |
+| Germany                    |         1 |   1        |
 | Valence Romans Drome Rugby |         1 |   1        |
-| Portugal                   |         1 |   0        |
+| Oyonnax                    |         1 |   0        |

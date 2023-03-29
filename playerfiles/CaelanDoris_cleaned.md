@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Caelan Doris  
-date: 2023-03-17 17:41:46.698270  
+date: 2023-03-21 18:16:23.814800  
 categories: player  
 ---
 # Caelan Doris
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Country: Ireland
 
-## Current elo: 128.0
+## Current elo: 119.0
 
-## Current Percentile: 95.0
+## Current Percentile: 97.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leinster |            61 |   0.893443 |
-| Ireland  |            24 |   0.833333 |
+| Ireland  |            25 |   0.84     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,18 +38,18 @@ categories: player
 | Glasgow Warriors         |         4 |   0.75     |
 | Scotland                 |         3 |   1        |
 | Dragons                  |         3 |   1        |
+| England                  |         3 |   0.666667 |
 | France                   |         3 |   0.333333 |
 | Italy                    |         3 |   1        |
-| Stade Toulousain         |         2 |   1        |
+| Southern Kings           |         2 |   1        |
 | Racing 92                |         2 |   1        |
 | Ospreys                  |         2 |   1        |
 | Northampton Saints       |         2 |   1        |
 | Montpellier Herault      |         2 |   1        |
-| Southern Kings           |         2 |   1        |
 | Zebre                    |         2 |   1        |
+| Stade Toulousain         |         2 |   1        |
 | Japan                    |         2 |   1        |
 | Scarlets                 |         2 |   1        |
-| England                  |         2 |   0.5      |
 | Wales                    |         2 |   1        |
 | Bulls                    |         2 |   0.5      |
 | Bath Rugby               |         2 |   1        |

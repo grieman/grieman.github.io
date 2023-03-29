@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Costel Burtila  
-date: 2023-03-17 17:09:09.929167  
+date: 2023-03-21 18:05:47.036903  
 categories: player  
 ---
 # Costel Burtila
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Romania

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Gaskell  
-date: 2023-03-09 10:09:45.309786  
+date: 2023-03-21 18:36:35.210032  
 categories: player  
 ---
 # James Gaskell
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 101.0

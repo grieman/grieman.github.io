@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tane Edmed  
-date: 2023-03-17 17:31:37.809726  
+date: 2023-03-21 17:58:33.211925  
 categories: player  
 ---
 # Tane Edmed
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Current elo: 95.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Franco Molina  
-date: 2023-03-17 17:36:11.960862  
+date: 2023-03-21 18:11:40.858053  
 categories: player  
 ---
 # Franco Molina
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Argentina

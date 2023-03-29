@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Braydon Ennor  
-date: 2023-03-17 17:01:53.773231  
+date: 2023-03-21 18:33:59.287048  
 categories: player  
 ---
 # Braydon Ennor
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: New Zealand
 
-## Current elo: 113.0
+## Current elo: 114.0
 
-## Current Percentile: 88.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -23,16 +25,16 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Crusaders   |            57 |   0.859649 |
+| Crusaders   |            58 |   0.862069 |
 | Canterbury  |            27 |   0.777778 |
 | New Zealand |             6 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Highlanders              |         8 |   1        |
+| Blues                    |         8 |   0.875    |
 | Chiefs                   |         8 |   0.5      |
 | Hurricanes               |         8 |   1        |
-| Blues                    |         7 |   0.857143 |
 | Queensland Reds          |         4 |   1        |
 | Hawke's Bay              |         3 |   1        |
 | New South Wales Waratahs |         3 |   0.666667 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Andrew Chauveau  
-date: 2023-03-17 17:40:09.301158  
+date: 2023-03-21 18:41:06.093354  
 categories: player  
 ---
 # Andrew Chauveau
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 104.0

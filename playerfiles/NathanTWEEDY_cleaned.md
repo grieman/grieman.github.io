@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nathan TWEEDY  
-date: 2023-03-12 11:30:41.891691  
+date: 2023-03-29 11:29:12.991507  
 categories: player  
 ---
 # Nathan TWEEDY
 
+
+Last updated: 2023-03-29
 ## Positions: FL
 
-## Current elo: 97.0
+## Current elo: 126.0
 
-## Current Percentile: 86.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Nottingham |            24 |       0.25 |
+| Nottingham |            25 |       0.32 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ampthill            |         3 |   0        |
 | Cornish Pirates     |         3 |   0        |
 | Doncaster           |         3 |   0.333333 |
+| Ealing Trailfinders |         3 |   0        |
 | Jersey              |         3 |   0        |
+| Richmond            |         3 |   0.666667 |
+| Ampthill            |         2 |   0        |
+| Bedford             |         2 |   0.5      |
 | Caldy               |         2 |   0.5      |
-| Coventry            |         2 |   0.5      |
-| Ealing Trailfinders |         2 |   0        |
 | London Scottish     |         2 |   1        |
-| Richmond            |         2 |   0.5      |
-| Bedford             |         1 |   0        |
+| Coventry            |         1 |   1        |
 | Hartpury College    |         1 |   0        |

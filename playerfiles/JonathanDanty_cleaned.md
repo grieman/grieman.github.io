@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Jonathan Danty  
-date: 2023-03-17 17:35:50.339341  
+date: 2023-03-21 18:02:40.306910  
 categories: player  
 ---
 # Jonathan Danty
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: France
 
-## Current elo: 114.0
+## Current elo: 105.0
 
-## Current Percentile: 82.0
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           193 |   0.541451 |
 | La Rochelle          |            33 |   0.818182 |
-| France               |            18 |   0.777778 |
+| France               |            19 |   0.789474 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -47,22 +49,22 @@ categories: player
 | Oyonnax              |         5 |   0.2      |
 | London Irish         |         4 |   0.5      |
 | Worcester Warriors   |         3 |   0.333333 |
+| Wales                |         3 |   0.666667 |
 | Edinburgh            |         3 |   0.666667 |
 | Biarritz Olympique   |         3 |   1        |
 | Australia            |         3 |   0.666667 |
 | Italy                |         2 |   1        |
-| Leicester Tigers     |         2 |   0.5      |
-| Northampton Saints   |         2 |   0.5      |
-| New Zealand          |         2 |   0.5      |
-| Munster              |         2 |   0.5      |
 | Benetton Treviso     |         2 |   1        |
+| Leicester Tigers     |         2 |   0.5      |
+| New Zealand          |         2 |   0.5      |
+| Northampton Saints   |         2 |   0.5      |
+| Munster              |         2 |   0.5      |
 | Ospreys              |         2 |   1        |
 | Argentina            |         2 |   0.5      |
 | Stade Francais Paris |         2 |   0.5      |
 | Bath Rugby           |         2 |   1        |
 | Glasgow Warriors     |         2 |   1        |
 | England              |         2 |   1        |
-| Wales                |         2 |   0.5      |
 | Bristol Rugby        |         2 |   0        |
 | Scotland             |         1 |   1        |
 | South Africa         |         1 |   1        |

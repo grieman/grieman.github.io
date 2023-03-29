@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Cameron Robin Wright  
-date: 2023-02-24 02:35:06.684354  
+date: 2023-03-21 18:30:24.991337  
 categories: player  
 ---
 # Cameron Robin Wright
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 71.0
+## Current elo: 74.0
 
-## Current Percentile: 8.0
+## Current Percentile: 19.0
 
 # Elo History
 
@@ -19,15 +21,17 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Sharks |             7 |   0.428571 |
+| Team         |   Appearances |   Win Rate |
+|:-------------|--------------:|-----------:|
+| Sharks       |             8 |      0.375 |
+| Natal Sharks |             1 |      0     |
 
 | Opponent        |   Matches |   Win Rate |
 |:----------------|----------:|-----------:|
-| Stormers        |         2 |          0 |
+| Stormers        |         3 |          0 |
 | Bordeaux Begles |         1 |          1 |
-| Cardiff Blues   |         1 |          0 |
 | Connacht        |         1 |          0 |
 | Edinburgh       |         1 |          1 |
+| Griquas         |         1 |          0 |
 | Lions           |         1 |          1 |
+| Ulster          |         1 |          0 |

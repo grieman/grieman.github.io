@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ole AVEI  
-date: 2023-03-12 11:29:53.142313  
+date: 2023-03-29 11:32:03.345002  
 categories: player  
 ---
 # Ole AVEI
 
+
+Last updated: 2023-03-29
 ## Positions: H
 
 ## Country: Samoa
 
-## Current elo: 131.0
+## Current elo: 130.0
 
 ## Current Percentile: 98.0
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Bordeaux Begles  |           175 |   0.514286 |
-| Soyaux-Angouleme |            51 |   0.568627 |
+| Soyaux-Angouleme |            52 |   0.557692 |
 | Racing 92        |            29 |   0.586207 |
 | Samoa            |            18 |   0.444444 |
 
@@ -52,9 +54,9 @@ categories: player
 | Aurillac                   |         5 |   0.6      |
 | Albi                       |         4 |   0.75     |
 | Carcassonne                |         4 |   0.375    |
+| Montauban                  |         4 |   0.375    |
 | Exeter Chiefs              |         4 |   0.5      |
 | Provence Rugby             |         3 |   1        |
-| Montauban                  |         3 |   0.5      |
 | Italy                      |         3 |   0.666667 |
 | South Africa               |         3 |   0        |
 | Rouen                      |         3 |   0.666667 |

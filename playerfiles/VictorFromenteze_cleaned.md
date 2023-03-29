@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Victor Fromenteze  
-date: 2023-03-16 20:09:10.551009  
+date: 2023-03-21 18:42:01.730278  
 categories: player  
 ---
 # Victor Fromenteze
 
+
+Last updated: 2023-03-21
 ## Positions: L, N8
 
 ## Current elo: 89.0

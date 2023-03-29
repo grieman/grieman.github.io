@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ben Glynn  
-date: 2023-03-17 17:08:33.671565  
+date: 2023-03-21 18:39:09.535529  
 categories: player  
 ---
 # Ben Glynn
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 101.0

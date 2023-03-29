@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lubabalo Dobela  
-date: 2023-03-16 20:04:49.400270  
+date: 2023-03-21 18:17:45.535068  
 categories: player  
 ---
 # Lubabalo Dobela
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 80.0
+## Current elo: 87.0
 
-## Current Percentile: None
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Griquas |             1 |          0 |
+| Griquas |             2 |        0.5 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Free State Cheetahs |         1 |          0 |
+| Natal Sharks        |         1 |          1 |

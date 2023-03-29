@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tomas Aoake  
-date: 2023-03-16 20:07:38.923078  
+date: 2023-03-21 18:28:27.093495  
 categories: player  
 ---
 # Tomas Aoake
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 77.0

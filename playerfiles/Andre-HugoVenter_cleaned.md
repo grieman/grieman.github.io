@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Andre-Hugo Venter  
-date: 2023-03-16 19:49:04.992950  
+date: 2023-03-21 17:57:08.066424  
 categories: player  
 ---
 # Andre-Hugo Venter
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 114.0
+## Current elo: 117.0
 
-## Current Percentile: 88.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -21,8 +23,8 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Stormers         |            10 |   0.75     |
-| Western Province |             9 |   0.611111 |
+| Stormers         |            10 |       0.75 |
+| Western Province |            10 |       0.65 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -30,6 +32,7 @@ categories: player
 | Griquas             |         2 |       0    |
 | Natal Sharks        |         2 |       1    |
 | Pumas               |         2 |       0.75 |
+| Blue Bulls          |         1 |       1    |
 | Clermont Auvergne   |         1 |       0    |
 | Connacht            |         1 |       1    |
 | Edinburgh           |         1 |       1    |

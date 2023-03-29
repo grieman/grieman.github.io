@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Rinpei Sasaki  
-date: 2023-03-16 20:01:13.756710  
+date: 2023-03-21 18:48:46.496218  
 categories: player  
 ---
 # Rinpei Sasaki
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 97.0
@@ -17,10 +19,11 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Kobelco Kobe Steelers |             3 |   0.666667 |
+| Kobelco Kobe Steelers |             4 |       0.75 |
 
-| Opponent             |   Matches |   Win Rate |
-|:---------------------|----------:|-----------:|
-| Black Rams Tokyo     |         1 |          0 |
-| Mitsubishi Dynaboars |         1 |          1 |
-| Shizuoka Blue Revs   |         1 |          1 |
+| Opponent              |   Matches |   Win Rate |
+|:----------------------|----------:|-----------:|
+| Black Rams Tokyo      |         1 |          0 |
+| Green Rockets Tokatsu |         1 |          1 |
+| Mitsubishi Dynaboars  |         1 |          1 |
+| Shizuoka Blue Revs    |         1 |          1 |

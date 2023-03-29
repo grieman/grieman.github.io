@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daigo Hashimoto  
-date: 2023-03-17 17:20:10.735446  
+date: 2023-03-21 17:56:26.234329  
 categories: player  
 ---
 # Daigo Hashimoto
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 76.0
+## Current elo: 72.0
 
-## Current Percentile: 6.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            39 |   0.461538 |
+| Toshiba Brave Lupus Tokyo |            40 |      0.475 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -32,10 +34,10 @@ categories: player
 | Kobelco Kobe Steelers             |         3 |   0.666667 |
 | Saitama Wild Knights              |         3 |   0        |
 | Shizuoka Blue Revs                |         3 |   0.666667 |
+| Toyota Verblitz                   |         3 |   1        |
 | Yokohama Canon Eagles             |         3 |   0.333333 |
 | Mitsubishi Dynaboars              |         2 |   0.5      |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
-| Toyota Verblitz                   |         2 |   1        |
 | Urayasu D-Rocks                   |         2 |   0        |
 | Coca-Cola Red Sparks              |         1 |   1        |
 | Hanazono Kintetsu Liners          |         1 |   1        |

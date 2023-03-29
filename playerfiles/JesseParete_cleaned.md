@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jesse Parete  
-date: 2023-03-17 17:36:50.758407  
+date: 2023-03-21 18:27:47.443049  
 categories: player  
 ---
 # Jesse Parete
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 58.0

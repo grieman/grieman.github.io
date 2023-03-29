@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hisamitsu Shimada  
-date: 2023-02-02 18:56:20.338716  
+date: 2023-03-21 18:24:36.173372  
 categories: player  
 ---
 # Hisamitsu Shimada
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 94.0
+## Current elo: 102.0
 
-## Current Percentile: 71.0
+## Current Percentile: 58.0
 
 # Elo History
 
@@ -21,11 +23,11 @@ categories: player
 
 | Team                            |   Appearances |   Win Rate |
 |:--------------------------------|--------------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka |             4 |       0.75 |
+| NTT Docomo Red Hurricanes Osaka |             8 |      0.875 |
 
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
-| Chugoku Red Regulions |         1 |          1 |
-| Kurita Water Gush     |         1 |          0 |
-| Kyuden Voltex         |         1 |          1 |
-| Skyactivs Hiroshima   |         1 |          1 |
+| Skyactivs Hiroshima   |         3 |        1   |
+| Chugoku Red Regulions |         2 |        1   |
+| Kurita Water Gush     |         2 |        0.5 |
+| Kyuden Voltex         |         1 |        1   |

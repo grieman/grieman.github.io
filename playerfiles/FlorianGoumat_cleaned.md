@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Florian Goumat  
-date: 2023-03-17 17:14:50.237978  
+date: 2023-03-21 18:56:57.854029  
 categories: player  
 ---
 # Florian Goumat
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 64.0
+## Current Percentile: 66.0
 
 # Elo History
 

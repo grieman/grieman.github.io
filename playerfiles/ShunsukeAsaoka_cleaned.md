@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Shunsuke Asaoka  
-date: 2023-03-16 19:47:32.594359  
+date: 2023-03-21 18:13:59.069162  
 categories: player  
 ---
 # Shunsuke Asaoka
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan
 
 ## Current elo: 100.0
 
-## Current Percentile: 71.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,12 +25,12 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Toyota Verblitz |            33 |   0.575758 |
+| Toyota Verblitz |            34 |   0.558824 |
 | Japan           |             1 |   1        |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Toshiba Brave Lupus Tokyo         |         4 |   0.5      |
+| Toshiba Brave Lupus Tokyo         |         5 |   0.4      |
 | Black Rams Tokyo                  |         3 |   0.666667 |
 | Tokyo Sungoliath                  |         3 |   0.333333 |
 | Kubota Spears Funabashi Tokyo-Bay |         3 |   0.333333 |

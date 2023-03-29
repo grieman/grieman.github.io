@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Wian Vosloo  
-date: 2023-03-17 17:19:49.748902  
+date: 2023-03-21 18:29:31.638908  
 categories: player  
 ---
 # Wian Vosloo
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Current elo: 98.0

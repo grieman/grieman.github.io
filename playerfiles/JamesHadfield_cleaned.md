@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: James Hadfield  
-date: 2023-02-02 19:05:03.675598  
+date: 2023-03-21 18:27:26.964076  
 categories: player  
 ---
 # James Hadfield
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 97.0

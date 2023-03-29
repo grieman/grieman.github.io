@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Diego Fortuny  
-date: 2023-03-17 17:30:00.204068  
+date: 2023-03-21 18:10:38.730541  
 categories: player  
 ---
 # Diego Fortuny
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Argentina

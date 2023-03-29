@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Victor Kutlwano SEKEKETE  
-date: 2023-03-17 17:38:24.155783  
+date: 2023-03-29 11:28:10.550021  
 categories: player  
 ---
 # Victor Kutlwano SEKEKETE
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 22.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Free State Cheetahs    |            26 |   0.557692 |
+| Free State Cheetahs    |            28 |   0.589286 |
 | Griquas                |             6 |   0.666667 |
 | Cheetahs               |             4 |   0.5      |
 | Golden Lions           |             3 |   0.666667 |
@@ -29,8 +31,8 @@ categories: player
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Blue Bulls       |         7 |   0.571429 |
 | Pumas            |         7 |   0.571429 |
-| Blue Bulls       |         6 |   0.5      |
 | Griquas          |         6 |   0.666667 |
 | Natal Sharks     |         6 |   0.666667 |
 | Golden Lions     |         5 |   0.3      |
@@ -38,4 +40,5 @@ categories: player
 | Pau              |         2 |   1        |
 | Scarlets         |         2 |   0        |
 | Boland Cavaliers |         1 |   1        |
+| Griffons         |         1 |   1        |
 | Valke            |         1 |   0        |

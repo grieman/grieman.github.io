@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lucas Bianchi  
-date: 2023-03-17 17:22:34.414291  
+date: 2023-03-21 18:41:19.902836  
 categories: player  
 ---
 # Lucas Bianchi
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Uruguay

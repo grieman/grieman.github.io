@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Benhard Janse van Rensburg  
-date: 2023-03-17 17:24:42.085579  
+date: 2023-03-21 18:31:25.643255  
 categories: player  
 ---
 # Benhard Janse van Rensburg
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 116.0
+## Current elo: 118.0
 
-## Current Percentile: 89.0
+## Current Percentile: 88.0
 
 # Elo History
 

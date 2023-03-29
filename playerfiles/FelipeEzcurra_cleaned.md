@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Felipe Ezcurra  
-date: 2023-03-17 17:28:42.156335  
+date: 2023-03-21 18:37:14.443684  
 categories: player  
 ---
 # Felipe Ezcurra
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Argentina

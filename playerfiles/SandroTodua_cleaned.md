@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sandro Todua  
-date: 2023-02-15 22:13:56.517537  
+date: 2023-03-21 18:46:49.466876  
 categories: player  
 ---
 # Sandro Todua
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Georgia
@@ -23,9 +25,9 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Georgia    |            72 |   0.708333 |
+| Georgia    |            71 |   0.704225 |
 | Albi       |            36 |   0.319444 |
-| Black Lion |            15 |   0.733333 |
+| Black Lion |            14 |   0.714286 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -42,11 +44,11 @@ categories: player
 | Samoa                    |         3 |   0.5      |
 | Fiji                     |         3 |   0.5      |
 | Pau                      |         3 |   0        |
-| Tel-Aviv Heat            |         3 |   0.666667 |
 | Auch                     |         3 |   0.5      |
 | Aurillac                 |         3 |   0.666667 |
 | Belgium                  |         3 |   1        |
 | Dax                      |         2 |   0        |
+| Tel-Aviv Heat            |         2 |   0.5      |
 | Namibia                  |         2 |   1        |
 | Uruguay                  |         2 |   1        |
 | Argentina                |         2 |   0        |
@@ -64,7 +66,7 @@ categories: player
 | Agen                     |         1 |   0        |
 | Lusitanos XV             |         1 |   1        |
 | New Zealand              |         1 |   0        |
-| France                   |         1 |   0        |
+| Mont-de-Marsan           |         1 |   0        |
 | Australia                |         1 |   0        |
 | Beziers                  |         1 |   1        |
 | Boland Cavaliers         |         1 |   0        |
@@ -72,13 +74,12 @@ categories: player
 | Castilla y Leon Iberians |         1 |   1        |
 | England                  |         1 |   0        |
 | Enisey-STM Krasnoyarsk   |         1 |   1        |
+| France                   |         1 |   0        |
 | Griffons                 |         1 |   0        |
-| Netherlands              |         1 |   1        |
 | Ireland                  |         1 |   0        |
 | Italy                    |         1 |   1        |
 | Italy A                  |         1 |   0        |
 | Leopards                 |         1 |   1        |
 | Lokomotiv Penza          |         1 |   0        |
 | Massy                    |         1 |   1        |
-| Mont-de-Marsan           |         1 |   0        |
 | Wales                    |         1 |   1        |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luke Beauchamp  
-date: 2023-03-16 20:01:17.806717  
+date: 2023-03-21 18:27:55.241040  
 categories: player  
 ---
 # Luke Beauchamp
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 91.0

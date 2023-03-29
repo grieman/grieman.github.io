@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Duncan Victor Matthews  
-date: 2023-03-17 17:13:59.079067  
+date: 2023-03-21 18:19:48.123895  
 categories: player  
 ---
 # Duncan Victor Matthews
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 95.0
 
-## Current Percentile: 66.0
+## Current Percentile: 63.0
 
 # Elo History
 

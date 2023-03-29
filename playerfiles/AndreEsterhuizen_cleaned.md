@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Andre Esterhuizen  
-date: 2023-03-17 17:22:14.829889  
+date: 2023-03-21 18:08:19.698591  
 categories: player  
 ---
 # Andre Esterhuizen
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: South Africa
 
 ## Current elo: 114.0
 
-## Current Percentile: 90.0
+## Current Percentile: 87.0
 
 # Elo History
 

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Chriswill September  
-date: 2023-03-17 17:12:53.391998  
+date: 2023-03-21 17:57:38.182766  
 categories: player  
 ---
 # Chriswill September
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 122.0
+## Current elo: 120.0
 
-## Current Percentile: 97.0
+## Current Percentile: 96.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Pumas    |            23 |   0.478261 |
+| Pumas    |            24 |   0.5      |
 | Leopards |            19 |   0.763158 |
 | Griquas  |             4 |   0.5      |
 
@@ -29,9 +31,9 @@ categories: player
 |:-----------------------|----------:|-----------:|
 | Free State Cheetahs    |         6 |   0.5      |
 | Blue Bulls             |         5 |   0.4      |
+| Golden Lions           |         5 |   0.6      |
 | Griquas                |         5 |   0.7      |
 | Western Province       |         5 |   0.5      |
-| Golden Lions           |         4 |   0.5      |
 | Griffons               |         4 |   0.25     |
 | Valke                  |         4 |   0.75     |
 | Border Bulldogs        |         3 |   1        |

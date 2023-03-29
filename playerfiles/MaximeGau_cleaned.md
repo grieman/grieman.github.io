@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Maxime Gau  
-date: 2023-03-17 17:13:09.195634  
+date: 2023-03-21 18:43:57.070188  
 categories: player  
 ---
 # Maxime Gau
 
+
+Last updated: 2023-03-21
 ## Positions: H, P
 
 ## Current elo: 78.0

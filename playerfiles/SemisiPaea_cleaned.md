@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Semisi Paea  
-date: 2023-02-24 02:34:28.546612  
+date: 2023-03-21 18:09:18.563967  
 categories: player  
 ---
 # Semisi Paea
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Tonga

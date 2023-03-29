@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sven BERNAT GIRLANDO  
-date: 2023-03-17 17:23:10.944732  
+date: 2023-03-29 11:31:04.668268  
 categories: player  
 ---
 # Sven BERNAT GIRLANDO
 
+
+Last updated: 2023-03-29
 ## Positions: FL, N8
 
-## Current elo: 105.0
+## Current elo: 109.0
 
-## Current Percentile: 66.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -21,17 +23,17 @@ categories: player
 
 | Team                       |   Appearances |   Win Rate |
 |:---------------------------|--------------:|-----------:|
-| Valence Romans Drome Rugby |            16 |   0.625    |
+| Valence Romans Drome Rugby |            17 |   0.647059 |
 | Biarritz Olympique         |            11 |   0.590909 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Nice                |         3 |   0.666667 |
+| Albi                |         2 |   0.5      |
 | Tarbes              |         2 |   0.5      |
 | Carqueiranne-Hyères |         2 |   1        |
 | Oyonnax             |         2 |   0.5      |
 | Beziers             |         2 |   0.5      |
-| Albi                |         1 |   0        |
 | US Bressane         |         1 |   0        |
 | Suresnes            |         1 |   1        |
 | Soyaux-Angouleme    |         1 |   1        |

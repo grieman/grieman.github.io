@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Raynor Parkinson  
-date: 2023-02-24 02:31:05.179528  
+date: 2023-03-21 18:46:39.706889  
 categories: player  
 ---
 # Raynor Parkinson
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
 ## Country: Germany
 
-## Current elo: 116.0
+## Current elo: 109.0
 
-## Current Percentile: None
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -23,8 +25,9 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Germany |             2 |          0 |
+| Germany |             4 |       0.25 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
-| Netherlands |         2 |          0 |
+| Netherlands |         3 |          0 |
+| Poland      |         1 |          1 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thato Siward Mavundla  
-date: 2023-03-17 16:59:50.841447  
+date: 2023-03-21 18:52:49.689248  
 categories: player  
 ---
 # Thato Siward Mavundla
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 110.0
+## Current elo: 108.0
 
-## Current Percentile: 92.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Griffons |            25 |       0.76 |
+| Griffons |            26 |   0.730769 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -32,6 +34,7 @@ categories: player
 | Border Bulldogs        |         2 |   1        |
 | SWD Eagles             |         2 |   0.75     |
 | Black Lion             |         1 |   1        |
+| Free State Cheetahs    |         1 |   0        |
 | Jaguares XV            |         1 |   0        |
 | Namibia Welwitchias    |         1 |   1        |
 | Natal Sharks           |         1 |   0        |

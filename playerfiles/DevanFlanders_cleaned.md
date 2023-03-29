@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Devan Flanders  
-date: 2023-03-17 17:25:23.579109  
+date: 2023-03-21 18:52:31.152115  
 categories: player  
 ---
 # Devan Flanders
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 97.0
 
-## Current Percentile: 61.0
+## Current Percentile: 59.0
 
 # Elo History
 

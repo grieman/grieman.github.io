@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: José Lima  
-date: 2023-03-17 17:22:40.445986  
+date: 2023-03-21 18:00:37.024369  
 categories: player  
 ---
 # José Lima
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Portugal
 
-## Current elo: 121.0
+## Current elo: 115.0
 
-## Current Percentile: 95.0
+## Current Percentile: 91.0
 
 # Elo History
 
@@ -23,8 +25,8 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Narbonne |             6 |        0.5 |
-| Portugal |             4 |        1   |
+| Narbonne |             5 |        0.4 |
+| Portugal |             5 |        0.8 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
@@ -33,7 +35,7 @@ categories: player
 | Belgium          |         1 |          1 |
 | Bourgoin-Jallieu |         1 |          1 |
 | Chambery         |         1 |          0 |
-| Nice             |         1 |          1 |
+| Georgia          |         1 |          0 |
 | Romania          |         1 |          1 |
 | Suresnes         |         1 |          1 |
 | US Bressane      |         1 |          0 |

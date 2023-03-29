@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam Lewis  
-date: 2023-03-16 20:16:02.610086  
+date: 2023-03-21 18:45:47.258634  
 categories: player  
 ---
 # Sam Lewis
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
 ## Current elo: 92.0
 
-## Current Percentile: None
+## Current Percentile: 16.0
 
 # Elo History
 

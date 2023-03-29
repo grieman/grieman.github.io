@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nathan Hughes  
-date: 2023-03-17 17:29:19.346576  
+date: 2023-03-21 18:17:53.376729  
 categories: player  
 ---
 # Nathan Hughes
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: England

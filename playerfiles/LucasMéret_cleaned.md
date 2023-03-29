@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lucas Méret  
-date: 2023-03-17 17:24:40.635607  
+date: 2023-03-21 18:03:03.159896  
 categories: player  
 ---
 # Lucas Méret
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 102.0
+## Current elo: 103.0
 
-## Current Percentile: 62.0
+## Current Percentile: 61.0
 
 # Elo History
 

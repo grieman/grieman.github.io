@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Will Collier  
-date: 2023-03-17 17:30:40.649182  
+date: 2023-03-21 18:35:54.171086  
 categories: player  
 ---
 # Will Collier
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: England

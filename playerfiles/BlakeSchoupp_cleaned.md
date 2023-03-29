@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Blake Schoupp  
-date: 2023-03-17 17:31:31.149557  
+date: 2023-03-21 18:51:11.750220  
 categories: player  
 ---
 # Blake Schoupp
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 96.0
+## Current elo: 97.0
 
 ## Current Percentile: 54.0
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Brumbies |             3 |          1 |
+| Brumbies |             4 |          1 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Blues                    |         1 |          1 |
+| Moana Pasifika           |         1 |          1 |
 | New South Wales Waratahs |         1 |          1 |
 | Queensland Reds          |         1 |          1 |

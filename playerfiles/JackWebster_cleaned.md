@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jack Webster  
-date: 2023-02-24 02:30:37.259850  
+date: 2023-03-21 18:15:35.364304  
 categories: player  
 ---
 # Jack Webster
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 75.0
+## Current elo: 73.0
 
-## Current Percentile: 27.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,11 +23,13 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| NOLA Gold      |             2 |          0 |
-| Dallas Jackals |             1 |          0 |
+| NOLA Gold      |             5 |        0.2 |
+| Dallas Jackals |             1 |        0   |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
+| New England Free Jacks |         2 |          0 |
+| Houston SaberCats      |         1 |          0 |
 | L. A. Giltinis         |         1 |          0 |
-| New England Free Jacks |         1 |          0 |
 | Rugby ATL              |         1 |          0 |
+| Utah Warriors          |         1 |          1 |

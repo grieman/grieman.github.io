@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kota Kumamoto  
-date: 2023-02-02 18:56:47.532877  
+date: 2023-03-21 18:36:59.861204  
 categories: player  
 ---
 # Kota Kumamoto
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 93.0
 
-## Current Percentile: 74.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,26 +23,29 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Munakata Sanix Blues |            36 |   0.416667 |
-| Kamaishi Seawaves    |             3 |   0.333333 |
+| Munakata Sanix Blues |            51 |   0.372549 |
+| Kamaishi Seawaves    |             7 |   0.142857 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
-| Toyota Industries Shuttles Aichi  |         3 |   0.333333 |
+| Mie Honda Heat                    |         5 |   0.4      |
+| Urayasu D-Rocks                   |         5 |   0        |
+| Toyota Industries Shuttles Aichi  |         5 |   0.4      |
+| Kubota Spears Funabashi Tokyo-Bay |         5 |   0        |
+| Toshiba Brave Lupus Tokyo         |         5 |   0.2      |
+| Tokyo Sungoliath                  |         4 |   0        |
+| Shizuoka Blue Revs                |         4 |   0        |
+| Coca-Cola Red Sparks              |         3 |   1        |
+| Green Rockets Tokatsu             |         3 |   0.666667 |
 | Hanazono Kintetsu Liners          |         3 |   0.333333 |
-| Kubota Spears Funabashi Tokyo-Bay |         3 |   0        |
-| Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
-| Tokyo Sungoliath                  |         3 |   0        |
-| Mie Honda Heat                    |         3 |   0.666667 |
-| Shizuoka Blue Revs                |         3 |   0        |
+| Shimizu Blue Sharks               |         3 |   0.666667 |
 | NTT Docomo Red Hurricanes Osaka   |         2 |   1        |
-| Shimizu Blue Sharks               |         2 |   1        |
-| Urayasu D-Rocks                   |         2 |   0        |
 | Yokohama Canon Eagles             |         2 |   0        |
 | Kyuden Voltex                     |         2 |   1        |
-| Green Rockets Tokatsu             |         2 |   0.5      |
-| Coca-Cola Red Sparks              |         2 |   1        |
 | Saitama Wild Knights              |         1 |   0        |
+| Mitsubishi Dynaboars              |         1 |   0        |
 | Chugoku Red Regulions             |         1 |   1        |
 | Kurita Water Gush                 |         1 |   1        |
+| Kobelco Kobe Steelers             |         1 |   0        |
+| Hino Red Dolphins                 |         1 |   1        |
 | Black Rams Tokyo                  |         1 |   0        |

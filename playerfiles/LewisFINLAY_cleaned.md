@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Lewis FINLAY  
-date: 2023-03-12 11:32:03.219253  
+date: 2023-03-29 11:30:33.745915  
 categories: player  
 ---
 # Lewis FINLAY
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 87.0
+## Current elo: 94.0
 
-## Current Percentile: 31.0
+## Current Percentile: 40.0
 
 # Elo History
 
@@ -21,17 +23,16 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Ampthill |            15 |   0.333333 |
+| Ampthill |            16 |     0.4375 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Ealing Trailfinders |         3 |       0    |
-| Cornish Pirates     |         2 |       0.25 |
-| Hartpury College    |         2 |       0.5  |
-| Richmond            |         2 |       0.75 |
-| Bedford             |         1 |       0    |
-| Caldy               |         1 |       1    |
-| Coventry            |         1 |       0    |
-| Doncaster           |         1 |       0    |
-| Jersey              |         1 |       0    |
-| London Scottish     |         1 |       1    |
+| Ealing Trailfinders |         3 |   0        |
+| Hartpury College    |         3 |   0.666667 |
+| Cornish Pirates     |         2 |   0.25     |
+| Doncaster           |         2 |   0.5      |
+| Richmond            |         2 |   0.75     |
+| Caldy               |         1 |   1        |
+| Coventry            |         1 |   0        |
+| Jersey              |         1 |   0        |
+| London Scottish     |         1 |   1        |

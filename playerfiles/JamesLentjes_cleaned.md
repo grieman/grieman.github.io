@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: James Lentjes  
-date: 2023-03-17 17:12:05.297341  
+date: 2023-03-21 18:56:26.005855  
 categories: player  
 ---
 # James Lentjes
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Highlanders
 
 ## Current elo: 98.0
 
-## Current Percentile: 62.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Highlanders |            66 |   0.469697 |
+| Highlanders |            67 |   0.477612 |
 | Otago       |            56 |   0.5      |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -50,10 +52,10 @@ categories: player
 | Lions                    |         3 |   0.333333 |
 | Hawke's Bay              |         3 |   0.666667 |
 | Counties Manukau         |         3 |   0        |
+| Western Force            |         3 |   1        |
 | Jaguares                 |         2 |   1        |
 | Stormers                 |         2 |   0.5      |
 | Bulls                    |         2 |   0.75     |
-| Western Force            |         2 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | Sharks                   |         1 |   0        |
 | Sunwolves                |         1 |   1        |

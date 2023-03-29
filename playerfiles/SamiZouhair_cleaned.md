@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Sami Zouhair  
-date: 2023-03-16 21:13:10.903400  
+date: 2023-03-21 18:01:58.413852  
 categories: player  
 ---
 # Sami Zouhair
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 94.0

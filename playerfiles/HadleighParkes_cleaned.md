@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Hadleigh Parkes  
-date: 2023-03-17 17:27:21.614822  
+date: 2023-03-21 18:13:39.173689  
 categories: player  
 ---
 # Hadleigh Parkes
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: Wales

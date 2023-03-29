@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Michael Hooper  
-date: 2023-03-17 17:25:24.618558  
+date: 2023-03-21 18:50:25.475712  
 categories: player  
 ---
 # Michael Hooper
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Australia
 
-## Current elo: 135.0
+## Current elo: 134.0
 
 ## Current Percentile: 97.0
 

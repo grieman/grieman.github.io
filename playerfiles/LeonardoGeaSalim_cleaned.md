@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Leonardo Gea Salim  
-date: 2023-03-17 17:11:02.935113  
+date: 2023-03-21 18:41:26.673326  
 categories: player  
 ---
 # Leonardo Gea Salim
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 87.0
+## Current elo: 97.0
 
-## Current Percentile: 12.0
+## Current Percentile: 26.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
 | Cafeteros Pro |             8 |      0.375 |
-| Dogos XV      |             4 |      0.75  |
+| Dogos XV      |             5 |      0.8   |
 
 | Opponent      |   Matches |   Win Rate |
 |:--------------|----------:|-----------:|
@@ -31,4 +33,5 @@ categories: player
 | Selknam       |         2 |        0.5 |
 | Jaguares XV   |         1 |        0   |
 | Olimpia Lions |         1 |        1   |
+| Pampas XV     |         1 |        1   |
 | Yacare XV     |         1 |        1   |

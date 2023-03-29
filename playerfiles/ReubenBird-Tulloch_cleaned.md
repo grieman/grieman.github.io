@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Reuben Bird-Tulloch  
-date: 2023-02-02 18:53:00.703847  
+date: 2023-03-21 17:56:45.923783  
 categories: player  
 ---
 # Reuben Bird-Tulloch
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 97.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 

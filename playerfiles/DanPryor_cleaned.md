@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Dan Pryor  
-date: 2023-03-17 17:05:44.494489  
+date: 2023-03-21 18:54:40.011853  
 categories: player  
 ---
 # Dan Pryor
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: New Zealand Maori
 
 ## Current elo: 78.0
 
-## Current Percentile: 11.0
+## Current Percentile: 12.0
 
 # Elo History
 

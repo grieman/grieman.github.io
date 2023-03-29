@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Max Lahiff  
-date: 2023-03-17 17:02:38.034084  
+date: 2023-03-21 18:18:17.163412  
 categories: player  
 ---
 # Max Lahiff
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 95.0

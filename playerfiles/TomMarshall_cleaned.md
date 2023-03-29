@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom Marshall  
-date: 2023-03-17 17:08:12.554972  
+date: 2023-03-21 18:30:14.116852  
 categories: player  
 ---
 # Tom Marshall
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Current elo: 96.0

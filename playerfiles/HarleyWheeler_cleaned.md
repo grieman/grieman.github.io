@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harley Wheeler  
-date: 2023-03-17 17:05:53.470389  
+date: 2023-03-21 18:14:32.715116  
 categories: player  
 ---
 # Harley Wheeler
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 112.0
 
-## Current Percentile: 83.0
+## Current Percentile: 80.0
 
 # Elo History
 

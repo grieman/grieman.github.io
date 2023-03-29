@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Faka'osi Pifeleti  
-date: 2023-03-16 20:16:03.721093  
+date: 2023-03-21 18:16:11.061784  
 categories: player  
 ---
 # Faka'osi Pifeleti
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 56.0
+## Current elo: 61.0
 
-## Current Percentile: 2.0
+## Current Percentile: 1.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| San Diego Legion |            44 |   0.670455 |
+| San Diego Legion |            45 |   0.677778 |
 | Austin Gilgronis |            13 |   0.846154 |
 
 | Opponent               |   Matches |   Win Rate |
@@ -39,7 +41,7 @@ categories: player
 | Austin Gilgronis       |         2 |   0.5      |
 | Old Glory DC           |         2 |   0.5      |
 | Dallas Jackals         |         2 |   1        |
+| Rugby ATL              |         2 |   0.5      |
 | San Diego Legion       |         2 |   1        |
 | New England Free Jacks |         2 |   0.5      |
-| Rugby ATL              |         1 |   0        |
 | Colorado Raptors       |         1 |   1        |

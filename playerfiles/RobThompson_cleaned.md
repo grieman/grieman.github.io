@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Rob Thompson  
-date: 2023-03-17 17:13:42.817165  
+date: 2023-03-21 18:31:19.801263  
 categories: player  
 ---
 # Rob Thompson
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Country: New Zealand Maori
 
 ## Current elo: 123.0
 
-## Current Percentile: 91.0
+## Current Percentile: 92.0
 
 # Elo History
 

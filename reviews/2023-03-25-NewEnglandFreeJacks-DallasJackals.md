@@ -1,0 +1,69 @@
+---  
+layout: page  
+title: Dallas Jackals at New England Free Jacks; 9-10  
+date: 2023-03-25 21:30:00 18:00:00 -0500  
+categories: match review  
+---
+# Dallas Jackals at New England Free Jacks; 9-10
+
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.971, which translates to predicting New England Free Jacks to win by 33.6.
+
+Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances
+
+
+![Projected Performances](plots/performances_2023-03-25-NewEnglandFreeJacks-DallasJackals.png)
+## Projected Spreads
+
+
+![Projected Spreads](plots/spreads_2023-03-25-NewEnglandFreeJacks-DallasJackals.png)
+## Projected Results
+
+
+![Projected Results](plots/resultbar_2023-03-25-NewEnglandFreeJacks-DallasJackals.png)
+# Player Level Predictions
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: New England Free Jacks by 25.1
+
+
+New England Free Jacks by 21.1 on a neutral field
+
+There were 5 large changes in win probability in this match
+## Prediction without Player Minutes: New England Free Jacks by 31.7
+
+
+New England Free Jacks by 27.7 on a neutral pitch
+
+
+
+|   Away Minutes | Away Player                                                          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                         |   Home Minutes |
+|---------------:|:---------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------------|---------------:|
+|             67 | [Nicolas Revol](..//playerfiles//NicolasRevol_cleaned.md)            |     103.2  |                76 |        1 |                63 |     100.36 | [Foster Dewitt](..//playerfiles//FosterDewitt_cleaned.md)           |             48 |
+|             69 | [Dewald Kotze](..//playerfiles//DewaldKotze_cleaned.md)              |      76.98 |                 7 |        2 |               nan |      96.23 | [Kianu Kereru-Symes](..//playerfiles//KianuKereru-Symes_cleaned.md) |             48 |
+|             61 | [Juan Pablo Zeiss](..//playerfiles//JuanPabloZeiss_cleaned.md)       |      88.73 |                26 |        3 |               nan |     100.77 | [Joel Hintz](..//playerfiles//JoelHintz_cleaned.md)                 |             48 |
+|             80 | [Sam Golla](..//playerfiles//SamGolla_cleaned.md)                    |      87.47 |                25 |        4 |                90 |     116.75 | [Semisi Paea](..//playerfiles//SemisiPaea_cleaned.md)               |             57 |
+|             80 | [Lucas Bur](..//playerfiles//LucasBur_cleaned.md)                    |      91.81 |                38 |        5 |                91 |     118.45 | [Conor Keys](..//playerfiles//ConorKeys_cleaned.md)                 |             80 |
+|             80 | [Jeronimo Gomez Vara](..//playerfiles//JeronimoGomezVara_cleaned.md) |      83.62 |                15 |        6 |                79 |     111.06 | [Mitchell Jacobson](..//playerfiles//MitchellJacobson_cleaned.md)   |             80 |
+|             80 | [Conrado Roura](..//playerfiles//ConradoRoura_cleaned.md)            |      27.5  |                 0 |        7 |                 0 |      31.34 | [Joe Johnston](..//playerfiles//JoeJohnston_cleaned.md)             |             70 |
+|             77 | [Jan Adriaan Booysen](..//playerfiles//JanAdriaanBooysen_cleaned.md) |      85.37 |                20 |        8 |                97 |     130.59 | [Wian Conradie](..//playerfiles//WianConradie_cleaned.md)           |             80 |
+|             80 | [Nazareno Valentini](..//playerfiles//NazarenoValentini_cleaned.md)  |      91.17 |                36 |        9 |               nan |      97.6  | [Kieran McClea](..//playerfiles//KieranMcClea_cleaned.md)           |             57 |
+|             80 | [Martin Elias](..//playerfiles//MartinElias_cleaned.md)              |     133.39 |                96 |       10 |                94 |     128.47 | [Jayson Potroz](..//playerfiles//JaysonPotroz_cleaned.md)           |             80 |
+|             80 | [James Vaifale](..//playerfiles//JamesVaifale_cleaned.md)            |     108.08 |                80 |       11 |                96 |     130.59 | [Paul Balekana](..//playerfiles//PaulBalekana_cleaned.md)           |             80 |
+|             80 | [Alejandro Torres](..//playerfiles//AlejandroTorres_cleaned.md)      |      63    |                 2 |       12 |                 5 |      69.13 | [Wayne van der Bank](..//playerfiles//WaynevanderBank_cleaned.md)   |             80 |
+|             80 | [Tomas Malanos](..//playerfiles//TomasMalanos_cleaned.md)            |     108.71 |                80 |       13 |                86 |     113.65 | [Ben Lesage](..//playerfiles//BenLesage_cleaned.md)                 |             80 |
+|             80 | [Lui Sitama](..//playerfiles//LuiSitama_cleaned.md)                  |      94.04 |                59 |       14 |                87 |     114.45 | [Taniela Filimone](..//playerfiles//TanielaFilimone_cleaned.md)     |             57 |
+|             80 | [Marcos Moroni](..//playerfiles//MarcosMoroni_cleaned.md)            |      88.72 |                31 |       15 |                86 |     112.8  | [Reece MacDonald](..//playerfiles//ReeceMacDonald_cleaned.md)       |             73 |
+|             13 | [Liam Murray](..//playerfiles//LiamMurray_cleaned.md)                |      44.84 |                 0 |       16 |                 9 |      79.1  | [Kyle Ciquera](..//playerfiles//KyleCiquera_cleaned.md)             |             32 |
+|             11 | [Connor Robinson](..//playerfiles//ConnorRobinson_cleaned.md)        |      93.78 |               nan |       17 |                88 |     111.63 | [Andrew Quattrin](..//playerfiles//AndrewQuattrin_cleaned.md)       |             32 |
+|             19 | [Kyle Steeves](..//playerfiles//KyleSteeves_cleaned.md)              |      94.2  |               nan |       18 |                94 |     118.92 | [Cole Keith](..//playerfiles//ColeKeith_cleaned.md)                 |             32 |
+|              3 | [Cameron Nelson](..//playerfiles//CameronNelson_cleaned.md)          |      95    |               nan |       19 |                80 |     109.96 | [Sam Fischli](..//playerfiles//SamFischli_cleaned.md)               |             23 |
+|            nan | nan                                                                  |     nan    |               nan |       20 |                 0 |      28.87 | [Cam Davidowicz](..//playerfiles//CamDavidowicz_cleaned.md)         |             10 |
+|            nan | nan                                                                  |     nan    |               nan |       21 |                 0 |      15.54 | [Holden Yungert](..//playerfiles//HoldenYungert_cleaned.md)         |             23 |
+|            nan | nan                                                                  |     nan    |               nan |       22 |                 8 |      76.64 | [Zach Bastres](..//playerfiles//ZachBastres_cleaned.md)             |             23 |
+|            nan | nan                                                                  |     nan    |               nan |       23 |                 6 |      72.32 | [Spencer Jones](..//playerfiles//SpencerJones_cleaned.md)           |              7 |
+

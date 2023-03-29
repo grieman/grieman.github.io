@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Santiago GRONDONA  
-date: 2023-03-12 11:29:25.057810  
+date: 2023-03-29 11:31:47.587976  
 categories: player  
 ---
 # Santiago GRONDONA
 
+
+Last updated: 2023-03-29
 ## Positions: FL, N8
 
 ## Country: Argentina
 
-## Current elo: 99.0
+## Current elo: 100.0
 
-## Current Percentile: 62.0
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -23,31 +25,28 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Exeter Chiefs |            15 |   0.533333 |
+| Exeter Chiefs |            13 |   0.538462 |
 | Argentina     |            11 |   0.5      |
 | Jaguares XV   |             7 |   1        |
-| Pau           |             2 |   0        |
 | Jaguares      |             1 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Australia              |         4 |      0.375 |
 | New Zealand            |         4 |      0.5   |
-| Saracens               |         2 |      0     |
 | Griffons               |         2 |      1     |
-| Bath Rugby             |         2 |      1     |
-| London Irish           |         1 |      0     |
+| Leopards               |         1 |      1     |
 | Wasps                  |         1 |      0     |
-| Stade Toulousain       |         1 |      0     |
 | Sharks                 |         1 |      0     |
 | Scotland               |         1 |      1     |
+| Saracens               |         1 |      0     |
 | Sale Sharks            |         1 |      1     |
 | SWD Eagles             |         1 |      1     |
 | Northampton Saints     |         1 |      1     |
 | Newcastle Falcons      |         1 |      1     |
+| London Irish           |         1 |      0     |
 | Leicester Tigers       |         1 |      0     |
-| Leopards               |         1 |      1     |
-| La Rochelle            |         1 |      0     |
+| Bath Rugby             |         1 |      1     |
 | Italy                  |         1 |      1     |
 | Ireland                |         1 |      0     |
 | Gloucester Rugby       |         1 |      1     |

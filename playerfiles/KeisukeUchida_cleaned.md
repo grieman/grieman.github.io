@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Keisuke Uchida  
-date: 2023-03-17 17:28:13.901643  
+date: 2023-03-21 18:52:46.742253  
 categories: player  
 ---
 # Keisuke Uchida
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Japan
 
 ## Current elo: 109.0
 
-## Current Percentile: 79.0
+## Current Percentile: 80.0
 
 # Elo History
 

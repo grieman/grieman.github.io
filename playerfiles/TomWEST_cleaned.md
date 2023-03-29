@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tom WEST  
-date: 2023-03-16 19:52:57.678883  
+date: 2023-03-29 11:29:52.602675  
 categories: player  
 ---
 # Tom WEST
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
 ## Current elo: 110.0

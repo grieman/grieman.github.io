@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Pablo Huete  
-date: 2023-03-04 11:43:59.490717  
+date: 2023-03-21 17:57:47.621288  
 categories: player  
 ---
 # Pablo Huete
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 102.0
+## Current elo: 98.0
 
-## Current Percentile: 63.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -21,9 +23,10 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             2 |          1 |
+| Selknam |             3 |   0.666667 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
+| Cobras           |         1 |          0 |
 | Pampas XV        |         1 |          1 |

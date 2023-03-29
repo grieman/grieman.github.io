@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Maxence Barjaud  
-date: 2023-01-13 11:35:54.176895  
+date: 2023-03-21 18:48:45.409719  
 categories: player  
 ---
 # Maxence Barjaud
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Kaito Shigeno  
-date: 2023-03-16 20:01:04.113763  
+date: 2023-03-21 18:25:39.592729  
 categories: player  
 ---
 # Kaito Shigeno
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Japan
 
 ## Current elo: 101.0
 
-## Current Percentile: 61.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Toyota Verblitz       |            34 |   0.602941 |
+| Toyota Verblitz       |            35 |   0.614286 |
 | Sunwolves             |            29 |   0.137931 |
 | Green Rockets Tokatsu |            19 |   0.263158 |
 | Japan                 |            11 |   0.363636 |
@@ -32,13 +34,13 @@ categories: player
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
 | Saitama Wild Knights              |         6 |   0.166667 |
+| Shizuoka Blue Revs                |         5 |   0.4      |
 | Kubota Spears Funabashi Tokyo-Bay |         5 |   0.5      |
 | Urayasu D-Rocks                   |         5 |   0.6      |
 | Tokyo Sungoliath                  |         5 |   0        |
-| Black Rams Tokyo                  |         4 |   0.5      |
 | Melbourne Rebels                  |         4 |   0        |
 | NTT Docomo Red Hurricanes Osaka   |         4 |   0.875    |
-| Shizuoka Blue Revs                |         4 |   0.25     |
+| Black Rams Tokyo                  |         4 |   0.5      |
 | Cheetahs                          |         3 |   0        |
 | Toshiba Brave Lupus Tokyo         |         3 |   0.333333 |
 | New South Wales Waratahs          |         3 |   0.333333 |

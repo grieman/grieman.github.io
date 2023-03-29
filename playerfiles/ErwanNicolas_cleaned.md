@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Erwan Nicolas  
-date: 2023-02-24 02:34:11.983201  
+date: 2023-03-21 18:26:51.456626  
 categories: player  
 ---
 # Erwan Nicolas
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 114.0
+## Current elo: 115.0
 
-## Current Percentile: 93.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -23,12 +25,12 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Soyaux-Angouleme |            54 |   0.490741 |
 | Rouen            |            51 |   0.372549 |
-| Vannes           |             1 |   0        |
+| Vannes           |             4 |   0.75     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
+| Aurillac                   |         9 |   0.555556 |
 | Carcassonne                |         8 |   0.1875   |
-| Aurillac                   |         8 |   0.5      |
 | Mont-de-Marsan             |         8 |   0.25     |
 | Montauban                  |         7 |   0.5      |
 | Nevers                     |         7 |   0.357143 |
@@ -37,8 +39,8 @@ categories: player
 | Grenoble                   |         6 |   0.333333 |
 | Beziers                    |         6 |   0.666667 |
 | Colomiers                  |         6 |   0.333333 |
-| Provence Rugby             |         5 |   0.7      |
-| Oyonnax                    |         4 |   0.5      |
+| Provence Rugby             |         6 |   0.75     |
+| Oyonnax                    |         5 |   0.6      |
 | Bayonne                    |         4 |   0        |
 | Perpignan                  |         4 |   0.375    |
 | Massy                      |         3 |   0.833333 |

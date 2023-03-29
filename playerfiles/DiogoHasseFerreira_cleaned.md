@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Diogo Hasse Ferreira  
-date: 2023-03-17 17:39:18.330963  
+date: 2023-03-21 18:41:13.131345  
 categories: player  
 ---
 # Diogo Hasse Ferreira
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Portugal
 
-## Current elo: 93.0
+## Current elo: 89.0
 
-## Current Percentile: 31.0
+## Current Percentile: 43.0
 
 # Elo History
 
@@ -24,20 +26,20 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Dax      |            33 |   0.515152 |
-| Portugal |            26 |   0.557692 |
+| Portugal |            27 |   0.537037 |
 | Dijon    |            13 |   0.307692 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Bourgoin-Jallieu           |         6 |   0.333333 |
 | Albi                       |         4 |   0.25     |
+| Georgia                    |         4 |   0.125    |
 | US Bressane                |         4 |   0.5      |
 | Suresnes                   |         4 |   0.5      |
 | Romania                    |         4 |   0.5      |
 | Chambery                   |         4 |   0.75     |
 | Nice                       |         4 |   0.5      |
 | Cognac Saint Jean d'Angély |         4 |   0.25     |
-| Georgia                    |         3 |   0.166667 |
 | Spain                      |         3 |   0.333333 |
 | Massy                      |         3 |   0.333333 |
 | Belgium                    |         3 |   0.666667 |

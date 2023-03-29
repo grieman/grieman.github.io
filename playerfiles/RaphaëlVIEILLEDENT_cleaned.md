@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Raphaël VIEILLEDENT  
-date: 2023-03-12 11:34:35.974193  
+date: 2023-03-29 11:31:14.002541  
 categories: player  
 ---
 # Raphaël VIEILLEDENT
 
+
+Last updated: 2023-03-29
 ## Positions: L
 
-## Current elo: 91.0
+## Current elo: 90.0
 
-## Current Percentile: 27.0
+## Current Percentile: 33.0
 
 # Elo History
 
@@ -22,29 +24,30 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Chambery |            27 |   0.388889 |
-| Rouen    |             8 |   0.25     |
+| Rouen    |             9 |   0.222222 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Massy                      |         4 |   0.625    |
-| Dax                        |         3 |   0.333333 |
 | Nice                       |         3 |   0        |
+| Dax                        |         3 |   0.333333 |
 | Aubenas                    |         2 |   0        |
 | US Bressane                |         2 |   0        |
-| Suresnes                   |         2 |   1        |
 | Bourgoin-Jallieu           |         2 |   0.5      |
+| Suresnes                   |         2 |   1        |
 | Dijon                      |         2 |   0.5      |
 | Albi                       |         2 |   0        |
 | Agen                       |         1 |   0        |
-| Narbonne                   |         1 |   1        |
+| Valence Romans Drome Rugby |         1 |   0        |
 | Tarbes                     |         1 |   1        |
 | Soyaux-Angouleme           |         1 |   1        |
 | Oyonnax                    |         1 |   0        |
 | Grenoble                   |         1 |   0        |
+| Narbonne                   |         1 |   1        |
 | Mont-de-Marsan             |         1 |   1        |
 | Cognac Saint Jean d'Angély |         1 |   1        |
 | Carcassonne                |         1 |   0        |
 | Blagnac                    |         1 |   0        |
 | Beziers                    |         1 |   0        |
 | Aurillac                   |         1 |   0        |
-| Valence Romans Drome Rugby |         1 |   0        |
+| Vannes                     |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Mason Flesch  
-date: 2023-03-17 17:26:50.029864  
+date: 2023-03-21 18:33:57.868050  
 categories: player  
 ---
 # Mason Flesch
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Canada
 
-## Current elo: 11.0
+## Current elo: 10.0
 
 ## Current Percentile: 0.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |            14 |   0.142857 |
+| Toronto Arrows |            15 |   0.133333 |
 | Canada         |             1 |   1        |
 
 | Opponent          |   Matches |   Win Rate |
@@ -36,5 +38,6 @@ categories: player
 | Belgium           |         1 |        1   |
 | Chicago Hounds    |         1 |        1   |
 | L. A. Giltinis    |         1 |        0   |
+| Old Glory DC      |         1 |        0   |
 | R.U. New York     |         1 |        0   |
 | San Diego Legion  |         1 |        0   |

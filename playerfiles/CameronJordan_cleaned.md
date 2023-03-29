@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Cameron Jordan  
-date: 2023-03-17 17:33:12.201811  
+date: 2023-03-21 18:21:14.862213  
 categories: player  
 ---
 # Cameron Jordan
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Current elo: 80.0

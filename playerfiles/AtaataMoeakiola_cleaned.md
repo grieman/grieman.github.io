@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ataata Moeakiola  
-date: 2023-03-17 17:23:18.267598  
+date: 2023-03-21 18:16:27.543129  
 categories: player  
 ---
 # Ataata Moeakiola
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Japan

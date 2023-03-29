@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Avto Gogiashvili  
-date: 2023-03-17 17:21:23.208826  
+date: 2023-03-20 15:46:47.983339  
 categories: player  
 ---
 # Avto Gogiashvili
 
+
+Last updated: 2023-03-20
 ## Positions: 
 
 ## Current elo: 89.0

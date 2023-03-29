@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jamie George  
-date: 2023-03-17 17:31:44.727627  
+date: 2023-03-21 18:34:53.717167  
 categories: player  
 ---
 # Jamie George
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Saracens                |           288 |   0.765625 |
-| England                 |            72 |   0.680556 |
+| England                 |            73 |   0.671233 |
 | British and Irish Lions |             7 |   0.785714 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -42,28 +44,28 @@ categories: player
 | Newcastle Falcons   |        12 |   1        |
 | Clermont Auvergne   |        10 |   0.3      |
 | Australia           |        10 |   0.9      |
+| Ireland             |        10 |   0.5      |
 | Italy               |         9 |   1        |
-| Ireland             |         9 |   0.555556 |
+| Wales               |         8 |   0.625    |
 | Scotland            |         8 |   0.4375   |
 | France              |         8 |   0.375    |
-| Wales               |         8 |   0.625    |
-| Racing 92           |         7 |   0.714286 |
 | Bristol Rugby       |         7 |   0.714286 |
+| Racing 92           |         7 |   0.714286 |
 | South Africa        |         7 |   0.428571 |
 | Leinster            |         6 |   0.5      |
 | New Zealand         |         6 |   0.5      |
 | Toulon              |         5 |   0.4      |
 | Munster             |         5 |   0.8      |
-| Lyon                |         4 |   1        |
-| London Welsh        |         4 |   1        |
+| Glasgow Warriors    |         4 |   1        |
+| Stade Toulousain    |         4 |   0.5      |
 | Ospreys             |         4 |   0.875    |
 | Scarlets            |         4 |   0.875    |
-| Stade Toulousain    |         4 |   0.5      |
-| Glasgow Warriors    |         4 |   1        |
+| London Welsh        |         4 |   1        |
+| Lyon                |         4 |   1        |
 | Cardiff Blues       |         3 |   1        |
+| Ulster              |         3 |   1        |
 | Argentina           |         3 |   1        |
 | Japan               |         3 |   1        |
-| Ulster              |         3 |   1        |
 | Oyonnax             |         2 |   1        |
 | Tonga               |         2 |   1        |
 | Zebre               |         2 |   1        |

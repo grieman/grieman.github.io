@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ei Kawamuko  
-date: 2023-02-02 18:58:45.418757  
+date: 2023-03-21 18:19:26.751833  
 categories: player  
 ---
 # Ei Kawamuko
 
+
+Last updated: 2023-03-21
 ## Positions: FH
 
-## Current elo: 92.0
+## Current elo: 83.0
 
-## Current Percentile: 55.0
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -21,24 +23,25 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| NTT Docomo Red Hurricanes Osaka   |            16 |   0.4375   |
-| Kubota Spears Funabashi Tokyo-Bay |             6 |   0.833333 |
+| NTT Docomo Red Hurricanes Osaka   |            20 |   0.55     |
+| Kubota Spears Funabashi Tokyo-Bay |             9 |   0.666667 |
 
 | Opponent                  |   Matches |   Win Rate |
 |:--------------------------|----------:|-----------:|
-| Black Rams Tokyo          |         3 |   0.666667 |
-| Saitama Wild Knights      |         3 |   0        |
-| Toshiba Brave Lupus Tokyo |         2 |   0.5      |
-| Yokohama Canon Eagles     |         2 |   0.5      |
-| Chugoku Red Regulions     |         1 |   1        |
-| Coca-Cola Red Sparks      |         1 |   1        |
-| Green Rockets Tokatsu     |         1 |   1        |
-| Hino Red Dolphins         |         1 |   1        |
-| Kobelco Kobe Steelers     |         1 |   0        |
-| Kurita Water Gush         |         1 |   0        |
-| Kyuden Voltex             |         1 |   1        |
-| Mie Honda Heat            |         1 |   1        |
-| Munakata Sanix Blues      |         1 |   1        |
-| Shizuoka Blue Revs        |         1 |   0        |
-| Skyactivs Hiroshima       |         1 |   1        |
-| Tokyo Sungoliath          |         1 |   0        |
+| Black Rams Tokyo          |         4 |       0.75 |
+| Saitama Wild Knights      |         3 |       0    |
+| Chugoku Red Regulions     |         2 |       1    |
+| Toshiba Brave Lupus Tokyo |         2 |       0.5  |
+| Tokyo Sungoliath          |         2 |       0    |
+| Skyactivs Hiroshima       |         2 |       1    |
+| Mie Honda Heat            |         2 |       1    |
+| Kurita Water Gush         |         2 |       0.5  |
+| Yokohama Canon Eagles     |         2 |       0.5  |
+| Kyuden Voltex             |         1 |       1    |
+| Munakata Sanix Blues      |         1 |       1    |
+| Kobelco Kobe Steelers     |         1 |       0    |
+| Shizuoka Blue Revs        |         1 |       0    |
+| Hino Red Dolphins         |         1 |       1    |
+| Green Rockets Tokatsu     |         1 |       1    |
+| Coca-Cola Red Sparks      |         1 |       1    |
+| Urayasu D-Rocks           |         1 |       0    |

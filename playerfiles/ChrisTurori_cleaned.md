@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Chris Turori  
-date: 2023-03-09 10:08:32.202849  
+date: 2023-03-21 18:28:28.442494  
 categories: player  
 ---
 # Chris Turori
 
+
+Last updated: 2023-03-21
 ## Positions: FL, L
 
-## Current elo: 54.0
+## Current elo: 55.0
 
 ## Current Percentile: None
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| San Diego Legion |            26 |   0.538462 |
+| San Diego Legion |            27 |   0.555556 |
 | San Diego        |            10 |   0.3      |
 
 | Opponent           |   Matches |   Win Rate |
@@ -40,4 +42,5 @@ categories: player
 | Glendale Raptors   |         1 |   0        |
 | NOLA Gold          |         1 |   1        |
 | R.U. New York      |         1 |   0        |
+| Rugby ATL          |         1 |   1        |
 | Rugby New York     |         1 |   0        |

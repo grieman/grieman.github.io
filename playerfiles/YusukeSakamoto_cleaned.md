@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yusuke Sakamoto  
-date: 2023-03-17 17:27:43.811749  
+date: 2023-03-21 18:30:33.288325  
 categories: player  
 ---
 # Yusuke Sakamoto
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 83.0
+## Current elo: 84.0
 
-## Current Percentile: 16.0
+## Current Percentile: 17.0
 
 # Elo History
 

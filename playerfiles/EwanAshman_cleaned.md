@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ewan Ashman  
-date: 2023-03-17 17:31:08.738049  
+date: 2023-03-21 18:18:26.312968  
 categories: player  
 ---
 # Ewan Ashman
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Scotland
 
-## Current elo: 90.0
+## Current elo: 89.0
 
 ## Current Percentile: 35.0
 
@@ -24,23 +26,24 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Sale Sharks |            47 |   0.617021 |
-| Scotland    |             6 |   0.333333 |
+| Scotland    |             7 |   0.428571 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Exeter Chiefs      |         6 |   0.333333 |
 | Leicester Tigers   |         6 |   1        |
+| Exeter Chiefs      |         6 |   0.333333 |
 | Bath Rugby         |         5 |   0.7      |
 | Saracens           |         5 |   0.4      |
 | London Irish       |         4 |   0.625    |
 | Wasps              |         4 |   1        |
 | Harlequins         |         4 |   0.5      |
 | Bristol Rugby      |         3 |   0.666667 |
-| Newcastle Falcons  |         2 |   0.5      |
 | Ospreys            |         2 |   1        |
+| Newcastle Falcons  |         2 |   0.5      |
 | Argentina          |         2 |   0        |
-| New Zealand        |         1 |   0        |
 | Australia          |         1 |   1        |
+| New Zealand        |         1 |   0        |
+| Italy              |         1 |   1        |
 | Northampton Saints |         1 |   0        |
 | Gloucester Rugby   |         1 |   1        |
 | Fiji               |         1 |   1        |

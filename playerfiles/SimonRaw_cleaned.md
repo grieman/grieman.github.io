@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Simon Raw  
-date: 2023-03-17 17:11:32.144330  
+date: 2023-03-21 18:45:18.196172  
 categories: player  
 ---
 # Simon Raw
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 92.0
@@ -22,7 +24,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Aubenas          |            12 |  0.0833333 |
-| Pumas            |            11 |  0.454545  |
+| Pumas            |            12 |  0.5       |
 | Boland Cavaliers |             4 |  0.375     |
 | Griffons         |             2 |  1         |
 
@@ -33,10 +35,10 @@ categories: player
 | Suresnes                   |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Blue Bulls                 |         2 |   0.5      |
+| Golden Lions               |         2 |   1        |
 | Albi                       |         2 |   0        |
 | Eastern Province Kings     |         1 |   0        |
 | Dax                        |         1 |   0        |
-| Golden Lions               |         1 |   1        |
 | Griffons                   |         1 |   0.5      |
 | Cognac Saint Jean d'Angély |         1 |   0        |
 | Chambery                   |         1 |   0        |

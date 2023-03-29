@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shoya Matsunami  
-date: 2023-03-17 17:31:01.267704  
+date: 2023-03-21 18:41:14.280843  
 categories: player  
 ---
 # Shoya Matsunami
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 90.0
+## Current elo: 74.0
 
-## Current Percentile: 21.0
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,18 +23,18 @@ categories: player
 
 | Team                              |   Appearances |   Win Rate |
 |:----------------------------------|--------------:|-----------:|
-| Kubota Spears Funabashi Tokyo-Bay |            52 |   0.519231 |
+| Kubota Spears Funabashi Tokyo-Bay |            53 |   0.528302 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
+| Yokohama Canon Eagles            |         6 |   0.75     |
 | Green Rockets Tokatsu            |         5 |   0.7      |
 | Saitama Wild Knights             |         5 |   0        |
-| Tokyo Sungoliath                 |         5 |   0.2      |
 | Toshiba Brave Lupus Tokyo        |         5 |   0.6      |
 | Toyota Verblitz                  |         5 |   0.4      |
 | Mie Honda Heat                   |         4 |   0.75     |
 | Shizuoka Blue Revs               |         4 |   0.25     |
-| Yokohama Canon Eagles            |         4 |   0.625    |
+| Tokyo Sungoliath                 |         4 |   0        |
 | Black Rams Tokyo                 |         3 |   1        |
 | Urayasu D-Rocks                  |         3 |   0.333333 |
 | Kobelco Kobe Steelers            |         2 |   0.5      |

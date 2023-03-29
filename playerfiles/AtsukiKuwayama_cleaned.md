@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Atsuki Kuwayama  
-date: 2023-03-17 17:32:31.724095  
+date: 2023-03-21 18:18:10.430922  
 categories: player  
 ---
 # Atsuki Kuwayama
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 98.0
 
-## Current Percentile: 56.0
+## Current Percentile: 57.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |            14 |   0.571429 |
+| Toshiba Brave Lupus Tokyo |            15 |        0.6 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
@@ -35,4 +37,5 @@ categories: player
 | Saitama Wild Knights              |         1 |        0   |
 | Shizuoka Blue Revs                |         1 |        1   |
 | Tokyo Sungoliath                  |         1 |        1   |
+| Toyota Verblitz                   |         1 |        1   |
 | Yokohama Canon Eagles             |         1 |        0   |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Martin Iosefo  
-date: 2023-03-17 17:31:49.635711  
+date: 2023-03-21 17:59:48.936811  
 categories: player  
 ---
 # Martin Iosefo
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: United States of America

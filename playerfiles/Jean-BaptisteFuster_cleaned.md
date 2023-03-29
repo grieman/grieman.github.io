@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jean-Baptiste Fuster  
-date: 2023-03-17 17:27:05.423341  
+date: 2023-03-21 18:24:59.117440  
 categories: player  
 ---
 # Jean-Baptiste Fuster
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 47.0

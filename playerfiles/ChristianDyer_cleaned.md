@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Christian Dyer  
-date: 2023-03-17 17:31:36.507081  
+date: 2023-03-21 18:31:02.709285  
 categories: player  
 ---
 # Christian Dyer
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: United States of America

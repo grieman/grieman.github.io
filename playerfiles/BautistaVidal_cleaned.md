@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Bautista Vidal  
-date: 2023-03-17 17:25:34.505612  
+date: 2023-03-21 18:12:34.862069  
 categories: player  
 ---
 # Bautista Vidal
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 88.0
 
-## Current Percentile: 29.0
+## Current Percentile: 28.0
 
 # Elo History
 

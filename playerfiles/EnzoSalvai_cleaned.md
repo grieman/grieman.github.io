@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Enzo Salvai  
-date: 2023-03-17 17:37:28.970468  
+date: 2023-03-21 18:25:43.127514  
 categories: player  
 ---
 # Enzo Salvai
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
-## Current elo: 105.0
+## Current elo: 101.0
 
-## Current Percentile: 62.0
+## Current Percentile: 46.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rennes |             8 |      0.375 |
+| Rennes |             7 |   0.428571 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -30,4 +32,3 @@ categories: player
 | Albi                       |         1 |          0 |
 | Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          1 |
-| Suresnes                   |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Thibault MORENO  
-date: 2023-03-17 17:25:41.675536  
+date: 2023-03-29 11:28:56.720002  
 categories: player  
 ---
 # Thibault MORENO
 
+
+Last updated: 2023-03-29
 ## Positions: FH
 
-## Current elo: 96.0
+## Current elo: 94.0
 
-## Current Percentile: 41.0
+## Current Percentile: 47.0
 
 # Elo History
 
@@ -21,20 +23,20 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Chambery |            22 |   0.545455 |
+| Chambery |            23 |   0.565217 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
-| Cognac Saint Jean d'Angély |         4 |       0.75 |
-| Blagnac                    |         3 |       0    |
-| Aubenas                    |         2 |       0.5  |
-| Narbonne                   |         2 |       1    |
-| Nice                       |         2 |       0.5  |
-| Suresnes                   |         2 |       1    |
-| Albi                       |         1 |       0    |
-| Carqueiranne-Hyères        |         1 |       1    |
-| Dax                        |         1 |       0    |
-| Dijon                      |         1 |       1    |
-| Massy                      |         1 |       0    |
-| Rennes                     |         1 |       0    |
-| Tarbes                     |         1 |       1    |
+| Cognac Saint Jean d'Angély |         4 |   0.75     |
+| Blagnac                    |         3 |   0        |
+| Nice                       |         3 |   0.666667 |
+| Aubenas                    |         2 |   0.5      |
+| Narbonne                   |         2 |   1        |
+| Suresnes                   |         2 |   1        |
+| Albi                       |         1 |   0        |
+| Carqueiranne-Hyères        |         1 |   1        |
+| Dax                        |         1 |   0        |
+| Dijon                      |         1 |   1        |
+| Massy                      |         1 |   0        |
+| Rennes                     |         1 |   0        |
+| Tarbes                     |         1 |   1        |

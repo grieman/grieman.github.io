@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Taleni Seu  
-date: 2023-03-16 20:03:32.821661  
+date: 2023-03-21 18:04:29.781736  
 categories: player  
 ---
 # Taleni Seu
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Samoa
 
-## Current elo: 111.0
+## Current elo: 112.0
 
-## Current Percentile: 85.0
+## Current Percentile: 84.0
 
 # Elo History
 
@@ -26,12 +28,12 @@ categories: player
 | Chiefs                           |            44 |   0.625    |
 | Auckland                         |            23 |   0.673913 |
 | Toyota Industries Shuttles Aichi |            13 |   0.769231 |
-| New South Wales Waratahs         |             3 |   0.333333 |
+| New South Wales Waratahs         |             4 |   0.25     |
 | Samoa                            |             3 |   0.666667 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Hurricanes               |         6 |   0.416667 |
+| Hurricanes               |         7 |   0.357143 |
 | Highlanders              |         6 |   0.416667 |
 | Crusaders                |         5 |   0.4      |
 | Blues                    |         5 |   0.9      |

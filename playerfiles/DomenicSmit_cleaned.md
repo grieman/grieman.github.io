@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Domenic Smit  
-date: 2023-03-17 17:35:59.382878  
+date: 2023-03-21 18:07:00.769558  
 categories: player  
 ---
 # Domenic Smit
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
-## Current elo: 97.0
+## Current elo: 92.0
 
-## Current Percentile: 78.0
+## Current Percentile: 51.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
-| Griffons |            25 |       0.76 |
+| Griffons |            26 |   0.730769 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -33,6 +35,7 @@ categories: player
 | Jaguares XV            |         2 |      0     |
 | SWD Eagles             |         2 |      0.75  |
 | Black Lion             |         1 |      1     |
+| Free State Cheetahs    |         1 |      0     |
 | Natal Sharks           |         1 |      0     |
 | Tusker Simba           |         1 |      1     |
 | Zimbabwe Goshawks      |         1 |      1     |

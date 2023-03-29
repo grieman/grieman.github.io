@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Peato Mauvaka  
-date: 2023-03-17 17:41:56.063080  
+date: 2023-03-21 18:48:30.796239  
 categories: player  
 ---
 # Peato Mauvaka
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: France
 
 ## Current elo: 97.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Stade Toulousain |            92 |   0.744565 |
-| France           |            18 |   0.944444 |
+| France           |            19 |   0.947368 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -48,6 +50,7 @@ categories: player
 | Grenoble             |         2 |   0.5      |
 | Leinster             |         2 |   0        |
 | Gloucester Rugby     |         2 |   1        |
+| Wales                |         2 |   1        |
 | Bayonne              |         2 |   1        |
 | Biarritz Olympique   |         2 |   1        |
 | Stade Francais Paris |         2 |   0.5      |
@@ -55,7 +58,6 @@ categories: player
 | Connacht             |         2 |   1        |
 | South Africa         |         1 |   1        |
 | Australia            |         1 |   1        |
-| Wales                |         1 |   1        |
 | Ireland              |         1 |   1        |
 | Cardiff Blues        |         1 |   1        |
 | Exeter Chiefs        |         1 |   0        |

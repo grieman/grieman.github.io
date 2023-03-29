@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Heiichiro Ito  
-date: 2023-03-17 17:09:28.824422  
+date: 2023-03-21 18:46:33.791722  
 categories: player  
 ---
 # Heiichiro Ito
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Japan

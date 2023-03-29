@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Zack HENRY  
-date: 2023-03-12 11:34:01.534786  
+date: 2023-03-29 11:28:41.811881  
 categories: player  
 ---
 # Zack HENRY
 
+
+Last updated: 2023-03-29
 ## Positions: FH, FB
 
 ## Current elo: 128.0

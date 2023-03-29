@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Koki Sato  
-date: 2023-03-17 17:19:47.646697  
+date: 2023-03-21 18:22:23.444121  
 categories: player  
 ---
 # Koki Sato
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Current elo: 95.0

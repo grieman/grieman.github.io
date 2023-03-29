@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kerman Aurrekoetea  
-date: 2023-02-24 02:34:45.041101  
+date: 2023-03-21 18:18:37.017076  
 categories: player  
 ---
 # Kerman Aurrekoetea
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 59.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -21,14 +23,12 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Biarritz Olympique |             7 |        0.5 |
+| Biarritz Olympique |             5 |        0.4 |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Agen             |         1 |        0   |
-| Beziers          |         1 |        0   |
-| Colomiers        |         1 |        0   |
-| Grenoble         |         1 |        0.5 |
-| Montauban        |         1 |        1   |
-| Rouen            |         1 |        1   |
-| Soyaux-Angouleme |         1 |        1   |
+| Opponent   |   Matches |   Win Rate |
+|:-----------|----------:|-----------:|
+| Agen       |         1 |          0 |
+| Colomiers  |         1 |          0 |
+| Montauban  |         1 |          1 |
+| Nevers     |         1 |          0 |
+| Rouen      |         1 |          1 |

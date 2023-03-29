@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Bryan Bruno  
-date: 2023-03-17 17:31:56.840252  
+date: 2023-03-21 18:23:33.662452  
 categories: player  
 ---
 # Bryan Bruno
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 89.0

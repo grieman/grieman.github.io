@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Joe Edwards  
-date: 2023-02-02 19:07:03.179737  
+date: 2023-03-21 18:52:35.357107  
 categories: player  
 ---
 # Joe Edwards
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
-## Current elo: 105.0
+## Current elo: 108.0
 
-## Current Percentile: 71.0
+## Current Percentile: 81.0
 
 # Elo History
 
@@ -21,9 +23,9 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Vannes          |            46 |   0.576087 |
+| Vannes          |            45 |   0.588889 |
+| Auckland        |            37 |   0.675676 |
 | Provence Rugby  |            37 |   0.513514 |
-| Auckland        |            32 |   0.65625  |
 | Blues           |             8 |   0.3125   |
 | Bordeaux Begles |             7 |   0.785714 |
 
@@ -31,40 +33,40 @@ categories: player
 |:---------------------------|----------:|-----------:|
 | Mont-de-Marsan             |         7 |   0.714286 |
 | Colomiers                  |         6 |   0.666667 |
-| Nevers                     |         6 |   0.583333 |
 | Beziers                    |         6 |   0.5      |
+| Biarritz Olympique         |         6 |   0.5      |
 | Oyonnax                    |         6 |   0.333333 |
+| Nevers                     |         5 |   0.7      |
+| Canterbury                 |         5 |   0        |
 | Aurillac                   |         5 |   0.6      |
-| Biarritz Olympique         |         5 |   0.6      |
 | Grenoble                   |         5 |   0.6      |
-| Carcassonne                |         4 |   0.5      |
-| Massy                      |         4 |   0.5      |
-| Provence Rugby             |         4 |   0.5      |
-| Soyaux-Angouleme           |         4 |   0.25     |
-| Montauban                  |         4 |   0.75     |
-| Canterbury                 |         4 |   0        |
 | Waikato                    |         4 |   0.5      |
-| Tasman                     |         3 |   0.833333 |
-| Rouen                      |         3 |   0.666667 |
-| Counties Manukau           |         3 |   0.333333 |
+| Soyaux-Angouleme           |         4 |   0.25     |
+| Provence Rugby             |         4 |   0.5      |
+| Carcassonne                |         4 |   0.5      |
+| Counties Manukau           |         4 |   0.5      |
+| Montauban                  |         4 |   0.75     |
+| Wellington                 |         3 |   1        |
 | North Harbour              |         3 |   1        |
 | Northland                  |         3 |   1        |
-| Bayonne                    |         3 |   0.333333 |
 | Manawatu                   |         3 |   1        |
-| Highlanders                |         2 |   0.5      |
-| Taranaki                   |         2 |   0.5      |
+| Massy                      |         3 |   0.666667 |
+| Rouen                      |         3 |   0.666667 |
+| Taranaki                   |         3 |   0.666667 |
+| Tasman                     |         3 |   0.833333 |
+| Bayonne                    |         3 |   0.333333 |
 | US Bressane                |         2 |   1        |
 | Southland                  |         2 |   0.75     |
+| Highlanders                |         2 |   0.5      |
 | Hawke's Bay                |         2 |   0.5      |
 | Exeter Chiefs              |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Vannes                     |         2 |   0.5      |
-| Brive                      |         2 |   0.5      |
 | Perpignan                  |         2 |   0.5      |
-| Agen                       |         1 |   0        |
+| Brive                      |         2 |   0.5      |
 | Stade Francais Paris       |         1 |   1        |
 | Ulster                     |         1 |   1        |
-| Melbourne Rebels           |         1 |   0        |
+| Agen                       |         1 |   0        |
 | Roval Drome XV             |         1 |   1        |
 | Queensland Reds            |         1 |   0.5      |
 | Otago                      |         1 |   1        |
@@ -75,4 +77,4 @@ categories: player
 | Crusaders                  |         1 |   0        |
 | Clermont Auvergne          |         1 |   0.5      |
 | Bay of Plenty              |         1 |   1        |
-| Wellington                 |         1 |   1        |
+| Melbourne Rebels           |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Anthony Aléo  
-date: 2023-03-17 17:42:05.749415  
+date: 2023-03-21 18:36:48.073220  
 categories: player  
 ---
 # Anthony Aléo
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 93.0
 
-## Current Percentile: 30.0
+## Current Percentile: 29.0
 
 # Elo History
 

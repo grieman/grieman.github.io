@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Federico Ignacio Lavanini  
-date: 2023-03-04 11:41:10.516265  
+date: 2023-03-21 18:54:37.022354  
 categories: player  
 ---
 # Federico Ignacio Lavanini
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 79.0
+## Current elo: 74.0
 
 ## Current Percentile: 11.0
 
@@ -23,7 +25,7 @@ categories: player
 |:--------------|--------------:|-----------:|
 | Hindu         |            31 |   0.725806 |
 | Cafeteros Pro |            11 |   0.363636 |
-| Pampas XV     |             3 |   0.666667 |
+| Pampas XV     |             4 |   0.5      |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -42,8 +44,9 @@ categories: player
 | Atlético del Rosario |         2 |       1    |
 | SIC                  |         2 |       0.5  |
 | San Luis             |         2 |       1    |
-| La Plata             |         1 |       1    |
+| Dogos XV             |         1 |       0    |
 | American Raptors     |         1 |       1    |
+| Los Tilos            |         1 |       1    |
 | Buenos Aires         |         1 |       1    |
 | San Martin           |         1 |       1    |
-| Los Tilos            |         1 |       1    |
+| La Plata             |         1 |       1    |

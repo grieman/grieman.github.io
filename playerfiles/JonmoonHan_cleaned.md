@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jonmoon Han  
-date: 2023-03-17 17:21:33.190757  
+date: 2023-03-21 18:14:00.464160  
 categories: player  
 ---
 # Jonmoon Han
 
+
+Last updated: 2023-03-21
 ## Positions: W, FB
 
 ## Current elo: 89.0
 
-## Current Percentile: 42.0
+## Current Percentile: 41.0
 
 # Elo History
 

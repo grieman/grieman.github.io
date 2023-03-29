@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Mark O'Keeffe  
-date: 2023-03-17 17:20:44.464749  
+date: 2023-03-21 18:01:07.573040  
 categories: player  
 ---
 # Mark O'Keeffe
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Current elo: 34.0

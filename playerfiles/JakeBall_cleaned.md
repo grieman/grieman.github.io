@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jake Ball  
-date: 2023-03-17 17:26:26.056443  
+date: 2023-03-21 18:09:43.781685  
 categories: player  
 ---
 # Jake Ball
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Wales

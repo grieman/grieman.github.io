@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Simone Gesi  
-date: 2023-01-13 11:28:09.595677  
+date: 2023-03-21 17:59:54.113272  
 categories: player  
 ---
 # Simone Gesi
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Italy
 
-## Current elo: 88.0
+## Current elo: 72.0
 
-## Current Percentile: 22.0
+## Current Percentile: 7.0
 
 # Elo History
 
@@ -21,22 +23,32 @@ categories: player
 # Match History
 
 
-| Team   |   Appearances |   Win Rate |
-|:-------|--------------:|-----------:|
-| Zebre  |            13 |  0.0769231 |
-| Italy  |             2 |  1         |
+| Team               |   Appearances |   Win Rate |
+|:-------------------|--------------:|-----------:|
+| Rugby Colorno 1975 |            13 |  0.0769231 |
+| Zebre              |            12 |  0.0833333 |
+| Italy              |             2 |  1         |
 
-| Opponent         |   Matches |   Win Rate |
-|:-----------------|----------:|-----------:|
-| Benetton Treviso |         2 |          0 |
-| Edinburgh        |         2 |          0 |
-| Sharks           |         2 |          0 |
-| Bristol Rugby    |         1 |          0 |
-| Cardiff Blues    |         1 |          0 |
-| Dragons          |         1 |          1 |
-| Leinster         |         1 |          0 |
-| Namibia          |         1 |          1 |
-| Netherlands      |         1 |          1 |
-| Scarlets         |         1 |          0 |
-| Stormers         |         1 |          0 |
-| Ulster           |         1 |          0 |
+| Opponent               |   Matches |   Win Rate |
+|:-----------------------|----------:|-----------:|
+| Mogliano Rugby 1969    |         2 |          0 |
+| Conad Valorugby Emilia |         2 |          0 |
+| Sharks                 |         2 |          0 |
+| Femi CZ Rugby Rovigo   |         2 |          0 |
+| Rugby Calvisano        |         2 |          0 |
+| Petrarca Padova Rugby  |         2 |          0 |
+| Netherlands            |         1 |          1 |
+| Stormers               |         1 |          0 |
+| Scarlets               |         1 |          0 |
+| Rugby Viadana 1970     |         1 |          0 |
+| Newcastle Falcons      |         1 |          0 |
+| Benetton Treviso       |         1 |          0 |
+| Namibia                |         1 |          1 |
+| Bristol Rugby          |         1 |          0 |
+| Leinster               |         1 |          0 |
+| Lazio Rugby            |         1 |          0 |
+| Fiamme Oro Roma        |         1 |          1 |
+| Edinburgh              |         1 |          0 |
+| Dragons                |         1 |          1 |
+| Cardiff Blues          |         1 |          0 |
+| Ulster                 |         1 |          0 |

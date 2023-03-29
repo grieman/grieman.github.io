@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: David Feliuai  
-date: 2023-03-17 17:28:08.376886  
+date: 2023-03-21 18:20:28.773276  
 categories: player  
 ---
 # David Feliuai
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0
@@ -17,8 +19,9 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |             1 |          1 |
+| Melbourne Rebels |             2 |        0.5 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Chiefs                   |         1 |          0 |
 | New South Wales Waratahs |         1 |          1 |

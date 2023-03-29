@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ryan Dubois  
-date: 2023-03-17 17:11:53.689122  
+date: 2023-03-21 18:44:31.354736  
 categories: player  
 ---
 # Ryan Dubois
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 76.0

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Youssouf Yatera  
-date: 2023-03-17 17:13:38.346494  
+date: 2023-03-21 18:21:23.080702  
 categories: player  
 ---
 # Youssouf Yatera
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Country: Senegal

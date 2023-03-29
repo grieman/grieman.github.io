@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Brendon O'Connor  
-date: 2023-03-17 17:29:06.813618  
+date: 2023-03-21 17:58:59.279706  
 categories: player  
 ---
 # Brendon O'Connor
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Current elo: 123.0

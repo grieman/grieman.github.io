@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Marcos Young  
-date: 2023-03-17 17:40:04.585507  
+date: 2023-03-21 18:54:47.355842  
 categories: player  
 ---
 # Marcos Young
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 97.0
+## Current elo: 100.0
 
-## Current Percentile: 65.0
+## Current Percentile: 52.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | CUBA         |            26 |   0.692308 |
-| Old Glory DC |             3 |   0.333333 |
+| Old Glory DC |             4 |   0.5      |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -40,3 +42,4 @@ categories: player
 | Chicago Hounds         |         1 |   1        |
 | New England Free Jacks |         1 |   0        |
 | Rugby New York         |         1 |   0        |
+| Toronto Arrows         |         1 |   1        |

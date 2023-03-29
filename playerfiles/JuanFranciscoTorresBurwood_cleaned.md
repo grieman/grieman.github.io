@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Juan Francisco Torres Burwood  
-date: 2023-03-17 17:21:12.661883  
+date: 2023-03-21 18:07:44.620121  
 categories: player  
 ---
 # Juan Francisco Torres Burwood
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 96.0
+## Current elo: 99.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,11 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Penarol Rugby |             3 |          1 |
+| Penarol Rugby |             4 |          1 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
 | Cobras           |         1 |          1 |
 | Dogos XV         |         1 |          1 |
+| Yacare XV        |         1 |          1 |

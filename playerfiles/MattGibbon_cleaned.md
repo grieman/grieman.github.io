@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Matt Gibbon  
-date: 2023-03-17 17:11:59.627984  
+date: 2023-03-21 18:02:48.761285  
 categories: player  
 ---
 # Matt Gibbon
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Australia
 
-## Current elo: 115.0
+## Current elo: 114.0
 
 ## Current Percentile: 91.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Melbourne Rebels    |            51 |   0.382353 |
+| Melbourne Rebels    |            52 |   0.375    |
 | NSW Country Eagles  |            12 |   0.291667 |
 | Greater Sydney Rams |            10 |   0.2      |
 | Melbourne Rising    |             7 |   0.285714 |
@@ -38,10 +40,10 @@ categories: player
 | Brisbane City            |         5 |   0.1      |
 | Queensland Country       |         5 |   0.4      |
 | Canberra Vikings         |         4 |   0.25     |
+| Chiefs                   |         4 |   0        |
 | Highlanders              |         4 |   0.75     |
 | Hurricanes               |         4 |   0        |
 | Fijian Drua              |         4 |   0.25     |
-| Chiefs                   |         3 |   0        |
 | Crusaders                |         3 |   0        |
 | Sydney Rays              |         2 |   1        |
 | NSW Country Eagles       |         2 |   0        |

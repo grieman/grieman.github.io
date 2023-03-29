@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Kobe Faust  
-date: 2023-03-17 17:01:47.097261  
+date: 2023-03-21 18:06:47.219194  
 categories: player  
 ---
 # Kobe Faust
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 79.0
+## Current elo: 77.0
 
-## Current Percentile: 11.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -21,10 +23,10 @@ categories: player
 
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
-| Toronto Arrows |             3 |   0.333333 |
+| Toronto Arrows |             4 |       0.25 |
 
 | Opponent       |   Matches |   Win Rate |
 |:---------------|----------:|-----------:|
+| Old Glory DC   |         2 |          0 |
 | Chicago Hounds |         1 |          1 |
-| Old Glory DC   |         1 |          0 |
 | Rugby New York |         1 |          0 |

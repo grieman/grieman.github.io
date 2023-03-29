@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Willi Heinz  
-date: 2023-03-17 17:06:48.061254  
+date: 2023-03-21 17:59:47.741394  
 categories: player  
 ---
 # Willi Heinz
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: England
@@ -24,7 +26,7 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Gloucester Rugby   |           105 |   0.538095 |
-| Crusaders          |            69 |   0.681159 |
+| Crusaders          |            70 |   0.685714 |
 | Canterbury         |            52 |   0.778846 |
 | England            |            13 |   0.846154 |
 | Worcester Warriors |             6 |   0.333333 |
@@ -34,8 +36,8 @@ categories: player
 | Exeter Chiefs            |        13 |   0.5      |
 | Chiefs                   |        11 |   0.454545 |
 | Northampton Saints       |        10 |   0.3      |
+| Blues                    |         9 |   0.666667 |
 | Worcester Warriors       |         9 |   0.722222 |
-| Blues                    |         8 |   0.625    |
 | London Irish             |         8 |   0.75     |
 | Bath Rugby               |         8 |   0.5      |
 | Newcastle Falcons        |         8 |   0.625    |

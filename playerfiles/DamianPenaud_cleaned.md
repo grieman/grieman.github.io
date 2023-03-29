@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Damian Penaud  
-date: 2023-03-16 20:06:07.811505  
+date: 2023-03-21 18:37:45.380143  
 categories: player  
 ---
 # Damian Penaud
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: France
 
-## Current elo: 123.0
+## Current elo: 114.0
 
-## Current Percentile: 91.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team              |   Appearances |   Win Rate |
 |:------------------|--------------:|-----------:|
 | Clermont Auvergne |           115 |   0.634783 |
-| France            |            41 |   0.597561 |
+| France            |            42 |   0.607143 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -46,14 +48,14 @@ categories: player
 | Italy                |         4 |   1        |
 | Japan                |         4 |   0.875    |
 | England              |         4 |   0.5      |
+| Wales                |         4 |   0.5      |
 | Northampton Saints   |         4 |   1        |
 | Stade Francais Paris |         4 |   0.5      |
 | Saracens             |         3 |   0.666667 |
 | Bayonne              |         3 |   0.333333 |
-| Wales                |         3 |   0.333333 |
 | Argentina            |         2 |   1        |
-| Ulster               |         2 |   0.5      |
 | New Zealand          |         2 |   0.5      |
+| Ulster               |         2 |   0.5      |
 | Grenoble             |         2 |   1        |
 | Perpignan            |         2 |   1        |
 | Harlequins           |         2 |   1        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daniel David Kriel  
-date: 2023-03-17 17:31:21.447178  
+date: 2023-03-21 18:42:24.289191  
 categories: player  
 ---
 # Daniel David Kriel
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 95.0
 
-## Current Percentile: 68.0
+## Current Percentile: 65.0
 
 # Elo History
 

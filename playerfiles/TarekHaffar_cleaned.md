@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tarek Haffar  
-date: 2023-03-17 17:40:30.232216  
+date: 2023-03-21 18:25:59.988490  
 categories: player  
 ---
 # Tarek Haffar
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 94.0

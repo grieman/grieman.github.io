@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Nika Abuladze  
-date: 2023-02-05 15:10:27.713839  
+date: 2023-03-21 18:38:21.846594  
 categories: player  
 ---
 # Nika Abuladze
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Georgia
 
-## Current elo: 108.0
+## Current elo: 101.0
 
-## Current Percentile: 71.0
+## Current Percentile: 67.0
 
 # Elo History
 
@@ -23,16 +25,14 @@ categories: player
 
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
-| Black Lion |            12 |   0.833333 |
-| Georgia    |             6 |   0.833333 |
+| Black Lion |            10 |        0.8 |
+| Georgia    |             5 |        0.8 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
-| Castilla y Leon Iberians |         2 |          1 |
-| Tel-Aviv Heat            |         2 |          1 |
 | Boland Cavaliers         |         1 |          0 |
+| Castilla y Leon Iberians |         1 |          1 |
 | Eastern Province Kings   |         1 |          1 |
-| Germany                  |         1 |          1 |
 | Griffons                 |         1 |          0 |
 | Italy                    |         1 |          1 |
 | Leopards                 |         1 |          1 |
@@ -42,5 +42,6 @@ categories: player
 | Romanian Wolves          |         1 |          1 |
 | SWD Eagles               |         1 |          1 |
 | Samoa                    |         1 |          0 |
+| Tel-Aviv Heat            |         1 |          1 |
 | Uruguay                  |         1 |          1 |
 | Wales                    |         1 |          1 |

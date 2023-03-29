@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Zander Fagerson  
-date: 2023-03-17 17:01:19.724255  
+date: 2023-03-21 18:36:41.786729  
 categories: player  
 ---
 # Zander Fagerson
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Scotland
 
-## Current elo: 113.0
+## Current elo: 109.0
 
-## Current Percentile: 92.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |           119 |   0.554622 |
-| Scotland         |            55 |   0.563636 |
+| Scotland         |            56 |   0.571429 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,9 +38,9 @@ categories: player
 | France                   |         7 |   0.285714 |
 | Connacht                 |         7 |   0.714286 |
 | Munster                  |         7 |   0.428571 |
+| Italy                    |         7 |   1        |
 | Wales                    |         6 |   0.5      |
 | Ulster                   |         6 |   0.5      |
-| Italy                    |         6 |   1        |
 | Argentina                |         6 |   0.666667 |
 | Exeter Chiefs            |         6 |   0.25     |
 | England                  |         5 |   0.4      |

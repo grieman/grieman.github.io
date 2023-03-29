@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dan Malafosse  
-date: 2023-02-15 22:13:38.328401  
+date: 2023-03-21 18:19:21.484341  
 categories: player  
 ---
 # Dan Malafosse
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 118.0
+## Current elo: 115.0
 
-## Current Percentile: 92.0
+## Current Percentile: 87.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team           |   Appearances |   Win Rate |
 |:---------------|--------------:|-----------:|
 | Mont-de-Marsan |            45 |   0.577778 |
-| Montauban      |            27 |   0.481481 |
+| Montauban      |            26 |   0.5      |
 | Brive          |            19 |   0.421053 |
 | Pau            |            10 |   0.4      |
 
@@ -33,10 +35,10 @@ categories: player
 | Montauban            |         5 |   0.4      |
 | Bayonne              |         5 |   0.2      |
 | Perpignan            |         5 |   0.6      |
-| Vannes               |         5 |   0.4      |
 | Carcassonne          |         4 |   0.75     |
 | Stade Francais Paris |         4 |   0.25     |
 | Colomiers            |         4 |   0.5      |
+| Vannes               |         4 |   0.5      |
 | Aurillac             |         4 |   0.5      |
 | Narbonne             |         4 |   0.75     |
 | Toulon               |         3 |   0.333333 |

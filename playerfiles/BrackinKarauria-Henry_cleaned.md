@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Brackin Karauria-Henry  
-date: 2023-03-17 17:02:08.270714  
+date: 2023-03-21 18:44:16.418659  
 categories: player  
 ---
 # Brackin Karauria-Henry
 
+
+Last updated: 2023-03-21
 ## Positions: C, FB
 
 ## Current elo: 114.0

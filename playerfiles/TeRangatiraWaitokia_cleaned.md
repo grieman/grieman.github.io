@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Te Rangatira Waitokia  
-date: 2023-03-06 11:23:14.712162  
+date: 2023-03-21 18:44:12.827164  
 categories: player  
 ---
 # Te Rangatira Waitokia
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Current elo: 49.0

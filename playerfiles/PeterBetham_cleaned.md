@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Peter Betham  
-date: 2023-02-04 17:24:52.304507  
+date: 2023-03-21 18:33:52.615556  
 categories: player  
 ---
 # Peter Betham
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Australia
 
 ## Current elo: 92.0
 
-## Current Percentile: 93.0
+## Current Percentile: 92.0
 
 # Elo History
 
@@ -25,8 +27,8 @@ categories: player
 |:-------------------------|--------------:|-----------:|
 | Clermont Auvergne        |            84 |   0.654762 |
 | Leicester Tigers         |            55 |   0.581818 |
-| Provence Rugby           |            35 |   0.628571 |
 | New South Wales Waratahs |            34 |   0.617647 |
+| Provence Rugby           |            34 |   0.617647 |
 | Melbourne Rebels         |            11 |   0.181818 |
 | Tasman                   |            11 |   0.454545 |
 | Australia                |             2 |   0.5      |
@@ -55,43 +57,43 @@ categories: player
 | Sale Sharks              |         4 |   0.25     |
 | Stormers                 |         4 |   0.5      |
 | Montpellier Herault      |         4 |   0        |
-| Mont-de-Marsan           |         4 |   0.75     |
 | Melbourne Rebels         |         4 |   0.75     |
 | Worcester Warriors       |         4 |   1        |
+| Castres Olympique        |         4 |   0.5      |
 | Bath Rugby               |         4 |   0.75     |
 | Bayonne                  |         4 |   0.75     |
-| Castres Olympique        |         4 |   0.5      |
 | Dragons                  |         3 |   1        |
-| Cheetahs                 |         3 |   0.333333 |
 | Toulon                   |         3 |   0.333333 |
 | Brive                    |         3 |   0.666667 |
+| Crusaders                |         3 |   0.333333 |
 | Newcastle Falcons        |         3 |   0.666667 |
 | Munster                  |         3 |   0.666667 |
+| Mont-de-Marsan           |         3 |   0.666667 |
 | Montauban                |         3 |   1        |
 | Gloucester Rugby         |         3 |   1        |
+| Cheetahs                 |         3 |   0.333333 |
 | Colomiers                |         3 |   0.333333 |
 | Hurricanes               |         3 |   0.666667 |
-| Crusaders                |         3 |   0.333333 |
 | Otago                    |         2 |   0        |
-| Ospreys                  |         2 |   1        |
 | Blues                    |         2 |   1        |
 | Rouen                    |         2 |   0.5      |
-| Chiefs                   |         2 |   0.5      |
 | Perpignan                |         2 |   1        |
-| Highlanders              |         2 |   0        |
 | Bulls                    |         2 |   0        |
-| Glasgow Warriors         |         2 |   0        |
+| Highlanders              |         2 |   0        |
+| Ospreys                  |         2 |   1        |
 | Timisoara Saracens       |         2 |   1        |
 | US Bressane              |         2 |   0.75     |
 | Vannes                   |         2 |   0.5      |
 | Nevers                   |         2 |   0.5      |
+| Chiefs                   |         2 |   0.5      |
 | Carcassonne              |         2 |   1        |
+| Glasgow Warriors         |         2 |   0        |
 | Aurillac                 |         2 |   0.5      |
 | Benetton Treviso         |         2 |   1        |
 | Soyaux-Angouleme         |         1 |   1        |
 | Ulster                   |         1 |   0        |
-| Taranaki                 |         1 |   0        |
 | Waikato                  |         1 |   0        |
+| Taranaki                 |         1 |   0        |
 | Bay of Plenty            |         1 |   1        |
 | Counties Manukau         |         1 |   1        |
 | Manawatu                 |         1 |   1        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alejandro Daireaux  
-date: 2023-03-16 20:02:52.919692  
+date: 2023-03-21 18:04:27.048264  
 categories: player  
 ---
 # Alejandro Daireaux
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Current elo: 103.0
 
-## Current Percentile: 72.0
+## Current Percentile: 68.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team         |   Appearances |   Win Rate |
 |:-------------|--------------:|-----------:|
 | SIC          |            58 |   0.741379 |
-| Old Glory DC |             2 |   0.5      |
+| Old Glory DC |             3 |   0.666667 |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
@@ -30,16 +32,17 @@ categories: player
 | Belgrano               |         6 |   0.666667 |
 | CUBA                   |         6 |   1        |
 | Alumni                 |         5 |   1        |
-| Newman                 |         5 |   0.4      |
 | CASI                   |         5 |   0.4      |
-| San Luis               |         4 |   0.75     |
+| Newman                 |         5 |   0.4      |
 | Hindu                  |         4 |   0.25     |
 | Atlético del Rosario   |         4 |   0.75     |
-| Regatas Bella Vista    |         3 |   1        |
-| La Plata               |         3 |   0.666667 |
+| San Luis               |         4 |   0.75     |
 | Buenos Aires           |         3 |   1        |
+| La Plata               |         3 |   0.666667 |
+| Regatas Bella Vista    |         3 |   1        |
+| San Martin             |         1 |   1        |
+| Lomas                  |         1 |   1        |
 | New England Free Jacks |         1 |   0        |
 | Los Tilos              |         1 |   1        |
-| Lomas                  |         1 |   1        |
 | Chicago Hounds         |         1 |   1        |
-| San Martin             |         1 |   1        |
+| Toronto Arrows         |         1 |   1        |

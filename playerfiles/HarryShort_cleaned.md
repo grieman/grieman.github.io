@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Harry Short  
-date: 2023-03-17 17:36:46.003803  
+date: 2023-03-21 18:12:20.637204  
 categories: player  
 ---
 # Harry Short
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 118.0
+## Current elo: 124.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Hartpury College |            28 |   0.482143 |
+| Hartpury College |            29 |   0.465517 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Bedford             |         4 |   0.25     |
+| Jersey              |         4 |   0        |
 | Nottingham          |         4 |   0.75     |
 | Cornish Pirates     |         3 |   0.666667 |
 | Coventry            |         3 |   0.666667 |
-| Jersey              |         3 |   0        |
 | Richmond            |         3 |   0.333333 |
 | Ampthill            |         2 |   1        |
 | Doncaster           |         2 |   0        |

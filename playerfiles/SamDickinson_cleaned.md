@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Sam Dickinson  
-date: 2023-02-02 18:56:42.583086  
+date: 2023-03-21 18:51:39.048182  
 categories: player  
 ---
 # Sam Dickinson
 
+
+Last updated: 2023-03-21
 ## Positions: N8, L
 
 ## Current elo: 94.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -23,42 +25,42 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Northampton Saints  |            97 |   0.659794 |
 | Ealing Trailfinders |            17 |   0.705882 |
-| Caldy               |            14 |   0.428571 |
+| Caldy               |             9 |   0.222222 |
+| Rotherham Titans    |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Saracens            |        10 |   0.5      |
 | Harlequins          |         9 |   0.888889 |
-| Worcester Warriors  |         7 |   0.714286 |
-| Bath Rugby          |         7 |   0.642857 |
-| Wasps               |         7 |   0.571429 |
 | Exeter Chiefs       |         7 |   0.571429 |
-| Leicester Tigers    |         6 |   0.416667 |
+| Worcester Warriors  |         7 |   0.714286 |
+| Wasps               |         7 |   0.571429 |
+| Bath Rugby          |         7 |   0.642857 |
 | Newcastle Falcons   |         6 |   0.666667 |
-| London Irish        |         6 |   0.833333 |
 | Sale Sharks         |         6 |   0.5      |
+| London Irish        |         6 |   0.833333 |
 | Gloucester Rugby    |         6 |   0.583333 |
-| Bedford             |         4 |   0.75     |
+| Leicester Tigers    |         6 |   0.416667 |
+| Bedford             |         4 |   0.5      |
 | Scarlets            |         3 |   1        |
-| Jersey              |         3 |   0.666667 |
-| Nottingham          |         3 |   0.666667 |
-| Doncaster           |         3 |   0.333333 |
-| Racing 92           |         3 |   0.166667 |
-| Cornish Pirates     |         3 |   0.333333 |
-| Richmond            |         3 |   0.666667 |
 | Coventry            |         3 |   0.666667 |
-| Hartpury College    |         2 |   0.5      |
-| Castres Olympique   |         2 |   0.5      |
-| Benetton Treviso    |         2 |   1        |
-| London Scottish     |         2 |   0.5      |
+| Racing 92           |         3 |   0.166667 |
+| Jersey              |         3 |   0.666667 |
+| Cornish Pirates     |         3 |   0.333333 |
 | London Welsh        |         2 |   1        |
 | Ospreys             |         2 |   1        |
+| Nottingham          |         2 |   0.5      |
+| Benetton Treviso    |         2 |   1        |
+| Castres Olympique   |         2 |   0.5      |
+| London Scottish     |         2 |   0.5      |
+| Doncaster           |         2 |   0.5      |
 | Leinster            |         2 |   0.5      |
+| Hartpury College    |         2 |   0.5      |
+| Richmond            |         2 |   0.5      |
 | Rotherham Titans    |         1 |   1        |
 | Ampthill            |         1 |   0        |
 | Montpellier Herault |         1 |   1        |
 | Glasgow Warriors    |         1 |   1        |
-| Ealing Trailfinders |         1 |   1        |
 | Dragons             |         1 |   1        |
 | Clermont Auvergne   |         1 |   0        |
 | Bristol Rugby       |         1 |   1        |

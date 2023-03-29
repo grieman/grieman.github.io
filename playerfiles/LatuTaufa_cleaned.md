@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Latu Taufa  
-date: 2023-03-17 17:23:43.814054  
+date: 2023-03-21 18:00:03.812389  
 categories: player  
 ---
 # Latu Taufa
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 107.0
+## Current elo: 103.0
 
-## Current Percentile: None
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team                      |   Appearances |   Win Rate |
 |:--------------------------|--------------:|-----------:|
-| Toshiba Brave Lupus Tokyo |             9 |   0.555556 |
+| Toshiba Brave Lupus Tokyo |            10 |        0.6 |
 
 | Opponent                          |   Matches |   Win Rate |
 |:----------------------------------|----------:|-----------:|
+| Toyota Verblitz                   |         2 |          1 |
 | Green Rockets Tokatsu             |         1 |          1 |
 | Hanazono Kintetsu Liners          |         1 |          1 |
 | Kobelco Kobe Steelers             |         1 |          1 |
@@ -32,5 +35,4 @@ categories: player
 | Mitsubishi Dynaboars              |         1 |          0 |
 | Shizuoka Blue Revs                |         1 |          1 |
 | Tokyo Sungoliath                  |         1 |          0 |
-| Toyota Verblitz                   |         1 |          1 |
 | Yokohama Canon Eagles             |         1 |          0 |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Robert du Preez  
-date: 2023-03-16 20:06:34.038253  
+date: 2023-03-21 18:16:35.785626  
 categories: player  
 ---
 # Robert du Preez
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
 ## Country: South Africa
 
 ## Current elo: 100.0
 
-## Current Percentile: 45.0
+## Current Percentile: 46.0
 
 # Elo History
 

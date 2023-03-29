@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Max Williamson  
-date: 2023-03-04 11:36:38.912869  
+date: 2023-03-21 18:47:16.158340  
 categories: player  
 ---
 # Max Williamson
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 90.0
+## Current elo: 89.0
 
-## Current Percentile: None
+## Current Percentile: 37.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team      |   Appearances |   Win Rate |
 |:----------|--------------:|-----------:|
-| Doncaster |             1 |          0 |
+| Doncaster |             2 |          0 |
 
 | Opponent   |   Matches |   Win Rate |
 |:-----------|----------:|-----------:|
+| Ampthill   |         1 |          0 |
 | Bedford    |         1 |          0 |

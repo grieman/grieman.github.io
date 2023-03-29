@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Deon Slabbert  
-date: 2023-03-17 17:42:25.328744  
+date: 2023-03-21 18:49:36.169653  
 categories: player  
 ---
 # Deon Slabbert
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 103.0
+## Current elo: 102.0
 
-## Current Percentile: 87.0
+## Current Percentile: 86.0
 
 # Elo History
 

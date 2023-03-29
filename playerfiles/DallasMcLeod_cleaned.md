@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dallas McLeod  
-date: 2023-03-17 17:21:06.532547  
+date: 2023-03-21 18:28:21.494004  
 categories: player  
 ---
 # Dallas McLeod
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 101.0
+## Current elo: 105.0
 
-## Current Percentile: 74.0
+## Current Percentile: 70.0
 
 # Elo History
 
@@ -22,11 +24,12 @@ categories: player
 | Team       |   Appearances |   Win Rate |
 |:-----------|--------------:|-----------:|
 | Canterbury |            27 |   0.666667 |
-| Crusaders  |            16 |   0.8125   |
+| Crusaders  |            17 |   0.823529 |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | Wellington               |         4 |   0.25     |
+| Blues                    |         3 |   1        |
 | Chiefs                   |         3 |   0.666667 |
 | Otago                    |         3 |   0.666667 |
 | Northland                |         3 |   1        |
@@ -40,7 +43,6 @@ categories: player
 | Manawatu                 |         2 |   0.5      |
 | Hurricanes               |         2 |   1        |
 | Hawke's Bay              |         2 |   0.5      |
-| Blues                    |         2 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | Highlanders              |         1 |   1        |
 | Southland                |         1 |   1        |

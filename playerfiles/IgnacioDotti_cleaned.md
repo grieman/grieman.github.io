@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ignacio Dotti  
-date: 2023-02-28 11:07:11.708626  
+date: 2023-03-21 18:05:29.873446  
 categories: player  
 ---
 # Ignacio Dotti
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Uruguay

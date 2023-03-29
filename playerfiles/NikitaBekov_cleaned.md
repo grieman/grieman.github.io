@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Nikita Bekov  
-date: 2023-03-17 17:18:30.325920  
+date: 2023-03-21 17:58:12.305410  
 categories: player  
 ---
 # Nikita Bekov
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Country: Russia
 
-## Current elo: 94.0
+## Current elo: 96.0
 
-## Current Percentile: 53.0
+## Current Percentile: 55.0
 
 # Elo History
 
@@ -23,17 +25,17 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Blagnac |            32 |    0.59375 |
-| Russia  |             4 |    0.25    |
-| Massy   |             2 |    1       |
+| Blagnac |            31 |   0.612903 |
+| Russia  |             4 |   0.25     |
+| Massy   |             2 |   1        |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Dax                        |         4 |   0.75     |
-| Albi                       |         3 |   0.333333 |
 | Chambery                   |         3 |   0.666667 |
 | Cognac Saint Jean d'Angély |         3 |   0.333333 |
 | Nice                       |         3 |   0.333333 |
+| Albi                       |         2 |   0.5      |
 | Massy                      |         2 |   0.5      |
 | Tarbes                     |         2 |   0.75     |
 | Rennes                     |         2 |   1        |

@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Fumiaki Tanaka  
-date: 2023-02-09 13:54:33.350403  
+date: 2023-03-21 18:31:46.803226  
 categories: player  
 ---
 # Fumiaki Tanaka
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Country: Japan
 
-## Current elo: 111.0
+## Current elo: 110.0
 
-## Current Percentile: 83.0
+## Current Percentile: 82.0
 
 # Elo History
 
@@ -28,7 +30,7 @@ categories: player
 | Japan                 |            55 |  0.590909  |
 | Otago                 |            23 |  0.521739  |
 | Sunwolves             |            23 |  0.217391  |
-| Green Rockets Tokatsu |            13 |  0.0769231 |
+| Green Rockets Tokatsu |            12 |  0.0833333 |
 | Yokohama Canon Eagles |            10 |  0.5       |
 
 | Opponent                          |   Matches |   Win Rate |
@@ -54,7 +56,6 @@ categories: player
 | Georgia                           |         4 |   1        |
 | Western Force                     |         4 |   0.5      |
 | Tonga                             |         4 |   0.75     |
-| Saitama Wild Knights              |         4 |   0        |
 | Brumbies                          |         4 |   0.25     |
 | Canada                            |         4 |   0.75     |
 | Coca-Cola Red Sparks              |         4 |   1        |
@@ -64,6 +65,7 @@ categories: player
 | Stormers                          |         3 |   0.666667 |
 | Scotland                          |         3 |   0.333333 |
 | Melbourne Rebels                  |         3 |   0.333333 |
+| Saitama Wild Knights              |         3 |   0        |
 | Russia                            |         3 |   1        |
 | United States of America          |         3 |   1        |
 | NTT Docomo Red Hurricanes Osaka   |         3 |   0.333333 |

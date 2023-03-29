@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jordan Trainor  
-date: 2023-03-17 17:34:27.684478  
+date: 2023-03-21 18:04:09.233387  
 categories: player  
 ---
 # Jordan Trainor
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 118.0

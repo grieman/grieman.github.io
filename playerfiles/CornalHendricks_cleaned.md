@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Cornal Hendricks  
-date: 2023-03-17 17:24:43.514468  
+date: 2023-03-21 17:59:37.087082  
 categories: player  
 ---
 # Cornal Hendricks
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: South Africa

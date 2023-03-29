@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Thomas Wallraf  
-date: 2023-03-06 11:28:45.137258  
+date: 2023-03-21 18:56:16.396867  
 categories: player  
 ---
 # Thomas Wallraf
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Belgium
 
-## Current elo: 81.0
+## Current elo: 83.0
 
-## Current Percentile: None
+## Current Percentile: 13.0
 
 # Elo History
 
@@ -23,9 +25,10 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Belgium |             2 |          0 |
+| Belgium |             4 |       0.25 |
 
 | Opponent    |   Matches |   Win Rate |
 |:------------|----------:|-----------:|
+| Netherlands |         2 |          0 |
 | Canada      |         1 |          0 |
-| Netherlands |         1 |          0 |
+| Poland      |         1 |          1 |

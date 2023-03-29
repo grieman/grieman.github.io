@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Khatchik Vartan  
-date: 2023-02-24 02:33:43.416619  
+date: 2023-03-21 18:51:24.026706  
 categories: player  
 ---
 # Khatchik Vartan
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 87.0
+## Current elo: 89.0
 
-## Current Percentile: 15.0
+## Current Percentile: 21.0
 
 # Elo History
 
@@ -21,15 +23,16 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Soyaux-Angouleme |             8 |       0.25 |
+| Soyaux-Angouleme |             9 |   0.444444 |
 
-| Opponent           |   Matches |   Win Rate |
-|:-------------------|----------:|-----------:|
-| Beziers            |         1 |          0 |
-| Biarritz Olympique |         1 |          0 |
-| Carcassonne        |         1 |          1 |
-| Colomiers          |         1 |          0 |
-| Massy              |         1 |          1 |
-| Nevers             |         1 |          0 |
-| Oyonnax            |         1 |          0 |
-| Rouen              |         1 |          0 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Agen        |         1 |          0 |
+| Beziers     |         1 |          0 |
+| Carcassonne |         1 |          1 |
+| Colomiers   |         1 |          0 |
+| Grenoble    |         1 |          1 |
+| Massy       |         1 |          1 |
+| Montauban   |         1 |          1 |
+| Nevers      |         1 |          0 |
+| Rouen       |         1 |          0 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Léon Boulier  
-date: 2023-02-02 19:06:30.474255  
+date: 2023-03-21 18:27:41.776557  
 categories: player  
 ---
 # Léon Boulier
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 106.0
+## Current elo: 129.0
 
-## Current Percentile: 77.0
+## Current Percentile: 95.0
 
 # Elo History
 
@@ -21,24 +23,24 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Vannes |            31 |   0.467742 |
+| Vannes |            35 |   0.528571 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
 | Nevers             |         4 |   0.5      |
+| Oyonnax            |         4 |   0.25     |
 | Agen               |         3 |   0.333333 |
-| Oyonnax            |         3 |   0        |
+| Provence Rugby     |         3 |   1        |
+| Montauban          |         3 |   0.5      |
 | Bayonne            |         2 |   0        |
 | Beziers            |         2 |   1        |
-| Provence Rugby     |         2 |   1        |
 | Colomiers          |         2 |   1        |
 | Grenoble           |         2 |   0.5      |
+| Aurillac           |         2 |   0.5      |
 | Mont-de-Marsan     |         2 |   0        |
-| Montauban          |         2 |   0.25     |
-| Rouen              |         1 |   0        |
 | Perpignan          |         1 |   0        |
+| Rouen              |         1 |   0        |
 | Massy              |         1 |   1        |
-| Aurillac           |         1 |   0        |
 | Carcassonne        |         1 |   1        |
 | Biarritz Olympique |         1 |   1        |
 | US Bressane        |         1 |   1        |

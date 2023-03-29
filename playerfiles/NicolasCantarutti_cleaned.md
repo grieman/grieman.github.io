@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Nicolas Cantarutti  
-date: 2023-03-17 17:06:56.992072  
+date: 2023-03-21 18:24:54.834945  
 categories: player  
 ---
 # Nicolas Cantarutti
 
+
+Last updated: 2023-03-21
 ## Positions: FH, C
 
-## Current elo: 74.0
+## Current elo: 83.0
 
-## Current Percentile: 8.0
+## Current Percentile: 10.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
 | Lazio Rugby |             8 |       0.25 |
-| Cobras      |             4 |       0    |
+| Cobras      |             5 |       0.2  |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -36,4 +38,5 @@ categories: player
 | Rugby Colorno 1975       |         1 |        0   |
 | Rugby Lyons Piacenza     |         1 |        0   |
 | Rugby Viadana 1970       |         1 |        0   |
+| Selknam                  |         1 |        1   |
 | Yacare XV                |         1 |        0   |

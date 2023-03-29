@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Daiki Shimura  
-date: 2023-01-15 11:55:35.756281  
+date: 2023-03-21 18:16:51.885170  
 categories: player  
 ---
 # Daiki Shimura
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 93.0
+## Current elo: 85.0
 
-## Current Percentile: 53.0
+## Current Percentile: 17.0
 
 # Elo History
 
@@ -21,11 +23,14 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Shimizu Blue Sharks |             5 |        0.2 |
+| Shimizu Blue Sharks |            10 |        0.2 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Kamaishi Seawaves                |         2 |          0 |
-| Chugoku Red Regulions            |         1 |          1 |
-| Hanazono Kintetsu Liners         |         1 |          0 |
-| Toyota Industries Shuttles Aichi |         1 |          0 |
+| Kamaishi Seawaves                |         3 |   0.333333 |
+| Mie Honda Heat                   |         2 |   0        |
+| Chugoku Red Regulions            |         1 |   1        |
+| Coca-Cola Red Sparks             |         1 |   0        |
+| Hanazono Kintetsu Liners         |         1 |   0        |
+| Toyota Industries Shuttles Aichi |         1 |   0        |
+| Urayasu D-Rocks                  |         1 |   0        |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Xavier VALENTINE  
-date: 2023-03-12 11:33:34.340158  
+date: 2023-03-29 11:29:18.792575  
 categories: player  
 ---
 # Xavier VALENTINE
 
+
+Last updated: 2023-03-29
 ## Positions: P
 
-## Current elo: 77.0
+## Current elo: 95.0
 
-## Current Percentile: 14.0
+## Current Percentile: 29.0
 
 # Elo History
 
@@ -21,15 +23,15 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Nottingham      |             7 |          0 |
-| London Scottish |             1 |          0 |
+| Nottingham      |             9 |   0.222222 |
+| London Scottish |             1 |   0        |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
-| Hartpury College    |         2 |          0 |
-| Ampthill            |         1 |          0 |
-| Bedford             |         1 |          0 |
-| Coventry            |         1 |          0 |
-| Ealing Trailfinders |         1 |          0 |
-| Jersey              |         1 |          0 |
-| Nottingham          |         1 |          0 |
+| Bedford             |         2 |        0.5 |
+| Ealing Trailfinders |         2 |        0   |
+| Hartpury College    |         2 |        0   |
+| Ampthill            |         1 |        0   |
+| Jersey              |         1 |        0   |
+| Nottingham          |         1 |        0   |
+| Richmond            |         1 |        1   |

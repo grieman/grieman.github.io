@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Ben Meehan  
-date: 2023-03-17 17:03:35.513499  
+date: 2023-03-21 18:24:50.215689  
 categories: player  
 ---
 # Ben Meehan
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
-## Current elo: 85.0
+## Current elo: 86.0
 
 ## Current Percentile: 26.0
 

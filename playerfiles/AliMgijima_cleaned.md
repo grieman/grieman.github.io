@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Ali Mgijima  
-date: 2023-03-17 17:40:31.841880  
+date: 2023-03-21 18:29:10.883437  
 categories: player  
 ---
 # Ali Mgijima
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 91.0

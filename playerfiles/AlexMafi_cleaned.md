@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Alex Mafi  
-date: 2023-03-17 17:28:00.871789  
+date: 2023-03-21 18:39:22.099012  
 categories: player  
 ---
 # Alex Mafi
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 101.0
+## Current elo: 99.0
 
-## Current Percentile: 68.0
+## Current Percentile: 69.0
 
 # Elo History
 
@@ -23,7 +25,7 @@ categories: player
 |:-------------------|--------------:|-----------:|
 | Queensland Reds    |            63 |   0.468254 |
 | Queensland Country |            16 |   0.5      |
-| Melbourne Rebels   |             3 |   0.333333 |
+| Melbourne Rebels   |             4 |   0.25     |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -32,7 +34,7 @@ categories: player
 | Melbourne Rebels         |        10 |   0.65     |
 | Sunwolves                |         5 |   0.8      |
 | Western Force            |         5 |   0.4      |
-| Chiefs                   |         3 |   0        |
+| Chiefs                   |         4 |   0        |
 | Crusaders                |         3 |   0        |
 | Bulls                    |         3 |   0.666667 |
 | Canberra Vikings         |         3 |   0.333333 |

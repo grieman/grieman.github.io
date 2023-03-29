@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Richie Asiata  
-date: 2023-03-17 17:40:55.632656  
+date: 2023-03-21 18:11:39.578834  
 categories: player  
 ---
 # Richie Asiata
 
+
+Last updated: 2023-03-21
 ## Positions: P, H
 
-## Current elo: 117.0
+## Current elo: 116.0
 
-## Current Percentile: 90.0
+## Current Percentile: 89.0
 
 # Elo History
 
@@ -22,13 +24,13 @@ categories: player
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
 | Queensland Country |            18 |   0.666667 |
-| Queensland Reds    |            17 |   0.470588 |
+| Queensland Reds    |            18 |   0.5      |
 | Toronto Arrows     |             5 |   0.8      |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
+| Fijian Drua              |         4 |   0.75     |
 | Hurricanes               |         3 |   0        |
-| Fijian Drua              |         3 |   0.666667 |
 | NSW Country Eagles       |         3 |   1        |
 | Western Force            |         3 |   0.333333 |
 | Brumbies                 |         3 |   0.666667 |

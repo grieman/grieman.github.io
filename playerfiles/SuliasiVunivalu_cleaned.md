@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Suliasi Vunivalu  
-date: 2023-03-17 17:19:30.674944  
+date: 2023-03-21 18:25:00.529975  
 categories: player  
 ---
 # Suliasi Vunivalu
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Australia
 
-## Current elo: 98.0
+## Current elo: 97.0
 
 ## Current Percentile: 54.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team            |   Appearances |   Win Rate |
 |:----------------|--------------:|-----------:|
-| Queensland Reds |            18 |   0.444444 |
+| Queensland Reds |            19 |   0.473684 |
 | Australia       |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -36,6 +38,7 @@ categories: player
 | Melbourne Rebels         |         2 |        1   |
 | Western Force            |         2 |        1   |
 | England                  |         1 |        0   |
+| Fijian Drua              |         1 |        1   |
 | Hurricanes               |         1 |        0   |
 | Moana Pasifika           |         1 |        1   |
 | New South Wales Waratahs |         1 |        1   |

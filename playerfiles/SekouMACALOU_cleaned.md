@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Sekou MACALOU  
-date: 2023-03-17 17:27:51.438612  
+date: 2023-03-29 11:31:21.091280  
 categories: player  
 ---
 # Sekou MACALOU
 
+
+Last updated: 2023-03-29
 ## Positions: FL, N8
 
 ## Country: France
 
-## Current elo: 116.0
+## Current elo: 115.0
 
-## Current Percentile: None
+## Current Percentile: 85.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
 | Stade Francais Paris |           129 |   0.507752 |
-| France               |            14 |   0.75     |
+| France               |            15 |   0.766667 |
 | Massy                |            14 |   0.285714 |
 
 | Opponent            |   Matches |   Win Rate |
@@ -47,20 +49,21 @@ categories: player
 | Edinburgh           |         4 |   0.5      |
 | Grenoble            |         3 |   0.333333 |
 | Biarritz Olympique  |         3 |   0.333333 |
-| Munster             |         2 |   0.5      |
-| Oyonnax             |         2 |   0        |
 | Australia           |         2 |   0.5      |
 | Tarbes              |         2 |   0.5      |
 | Mont-de-Marsan      |         2 |   0.5      |
+| Munster             |         2 |   0.5      |
+| Oyonnax             |         2 |   0        |
+| England             |         1 |   1        |
+| Bristol Rugby       |         1 |   0        |
 | Worcester Warriors  |         1 |   0        |
+| Wales               |         1 |   1        |
 | Timisoara Saracens  |         1 |   1        |
 | Beziers             |         1 |   1        |
 | South Africa        |         1 |   1        |
 | Scotland            |         1 |   1        |
-| Bristol Rugby       |         1 |   0        |
-| Carcassonne         |         1 |   1        |
-| England             |         1 |   1        |
 | New Zealand         |         1 |   0        |
+| Carcassonne         |         1 |   1        |
 | Georgia             |         1 |   1        |
 | Cardiff Blues       |         1 |   1        |
 | Montauban           |         1 |   0        |

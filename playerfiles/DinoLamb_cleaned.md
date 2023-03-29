@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Dino Lamb  
-date: 2023-03-17 17:28:22.618638  
+date: 2023-03-21 18:46:54.890370  
 categories: player  
 ---
 # Dino Lamb
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 117.0
+## Current elo: 118.0
 
 ## Current Percentile: 95.0
 

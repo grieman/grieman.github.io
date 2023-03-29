@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Luke Jacobson  
-date: 2023-03-17 17:24:28.276409  
+date: 2023-03-21 18:45:04.804691  
 categories: player  
 ---
 # Luke Jacobson
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: New Zealand
 
-## Current elo: 137.0
+## Current elo: 138.0
 
 ## Current Percentile: 99.0
 
@@ -23,7 +25,7 @@ categories: player
 
 | Team        |   Appearances |   Win Rate |
 |:------------|--------------:|-----------:|
-| Chiefs      |            53 |   0.660377 |
+| Chiefs      |            54 |   0.666667 |
 | Waikato     |            17 |   0.441176 |
 | New Zealand |            12 |   0.916667 |
 
@@ -39,12 +41,12 @@ categories: player
 | Bay of Plenty            |         3 |   0.333333 |
 | Queensland Reds          |         3 |   0.666667 |
 | Moana Pasifika           |         3 |   1        |
+| Melbourne Rebels         |         3 |   1        |
 | Manawatu                 |         2 |   0.5      |
 | Wellington               |         2 |   0.5      |
 | Tonga                    |         2 |   1        |
 | Sharks                   |         2 |   0.5      |
 | North Harbour            |         2 |   0.5      |
-| Melbourne Rebels         |         2 |   1        |
 | Western Force            |         2 |   1        |
 | Australia                |         2 |   1        |
 | Bulls                    |         2 |   1        |

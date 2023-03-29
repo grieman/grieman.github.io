@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tomonari Aoki  
-date: 2023-03-09 10:08:22.514974  
+date: 2023-03-21 18:15:02.859123  
 categories: player  
 ---
 # Tomonari Aoki
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
-## Current elo: 93.0
+## Current elo: 97.0
 
-## Current Percentile: 59.0
+## Current Percentile: 56.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chugoku Red Regulions |             3 |   0.333333 |
+| Chugoku Red Regulions |             4 |       0.25 |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
 | Kurita Water Gush    |         1 |          1 |
 | Kyuden Voltex        |         1 |          0 |
 | Munakata Sanix Blues |         1 |          0 |
+| Skyactivs Hiroshima  |         1 |          0 |

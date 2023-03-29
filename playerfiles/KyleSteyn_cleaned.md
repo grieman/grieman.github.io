@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Kyle Steyn  
-date: 2023-03-17 17:07:38.334359  
+date: 2023-03-21 18:39:59.058962  
 categories: player  
 ---
 # Kyle Steyn
 
+
+Last updated: 2023-03-21
 ## Positions: W, C
 
 ## Country: Scotland
 
-## Current elo: 105.0
+## Current elo: 101.0
 
-## Current Percentile: 85.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Glasgow Warriors |            54 |   0.611111 |
 | Griquas          |            10 |   0.2      |
-| Scotland         |             9 |   0.666667 |
+| Scotland         |            10 |   0.7      |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
@@ -38,28 +40,28 @@ categories: player
 | Cardiff Blues       |         4 |   0.75     |
 | Ulster              |         3 |   0.666667 |
 | Connacht            |         2 |   1        |
-| Bath Rugby          |         2 |   0.75     |
+| Italy               |         2 |   1        |
 | Stormers            |         2 |   0.5      |
 | Scarlets            |         2 |   0        |
 | Sale Sharks         |         2 |   1        |
 | Pumas               |         2 |   0        |
 | Dragons             |         2 |   0.5      |
+| Bath Rugby          |         2 |   0.75     |
 | Natal Sharks        |         2 |   0        |
+| Ireland             |         2 |   0        |
 | France              |         2 |   0.5      |
 | Cheetahs            |         2 |   0.5      |
 | Golden Lions        |         2 |   0        |
-| Ireland             |         2 |   0        |
-| Italy               |         1 |   1        |
 | Western Province    |         1 |   0        |
 | Wales               |         1 |   1        |
 | Tonga               |         1 |   1        |
 | England             |         1 |   1        |
 | Sharks              |         1 |   1        |
 | Saracens            |         1 |   0        |
+| Blue Bulls          |         1 |   0        |
 | Free State Cheetahs |         1 |   1        |
 | Ospreys             |         1 |   1        |
 | Newcastle Falcons   |         1 |   1        |
 | Griffons            |         1 |   1        |
 | Lions               |         1 |   1        |
-| Blue Bulls          |         1 |   0        |
 | Australia           |         1 |   1        |

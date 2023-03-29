@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Alex Day  
-date: 2023-03-17 17:27:32.922596  
+date: 2023-03-21 18:43:35.808216  
 categories: player  
 ---
 # Alex Day
 
+
+Last updated: 2023-03-21
 ## Positions: SH
 
 ## Current elo: 106.0

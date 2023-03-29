@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hypolite Cornu  
-date: 2023-03-17 17:41:40.992296  
+date: 2023-03-21 17:59:17.755705  
 categories: player  
 ---
 # Hypolite Cornu
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 103.0
+## Current elo: 104.0
 
-## Current Percentile: 64.0
+## Current Percentile: 61.0
 
 # Elo History
 

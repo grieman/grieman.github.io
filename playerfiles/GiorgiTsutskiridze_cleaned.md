@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Giorgi Tsutskiridze  
-date: 2023-02-24 02:21:08.667168  
+date: 2023-03-21 18:49:21.959670  
 categories: player  
 ---
 # Giorgi Tsutskiridze
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
 ## Country: Georgia
 
-## Current elo: 109.0
+## Current elo: 126.0
 
-## Current Percentile: 71.0
+## Current Percentile: 93.0
 
 # Elo History
 
@@ -23,13 +25,14 @@ categories: player
 
 | Team                 |   Appearances |   Win Rate |
 |:---------------------|--------------:|-----------:|
-| Georgia              |             5 |   1        |
-| Stade Francais Paris |             3 |   0.333333 |
+| Georgia              |             7 |          1 |
+| Stade Francais Paris |             1 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
-| Benetton Treviso |         2 |        0.5 |
-| Netherlands      |         2 |        1   |
-| Spain            |         2 |        1   |
-| Germany          |         1 |        1   |
-| Lions            |         1 |        0   |
+| Netherlands      |         2 |          1 |
+| Spain            |         2 |          1 |
+| Benetton Treviso |         1 |          0 |
+| Germany          |         1 |          1 |
+| Portugal         |         1 |          1 |
+| Romania          |         1 |          1 |

@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Omar DAHIR  
-date: 2023-03-12 11:29:27.722928  
+date: 2023-03-27 11:32:20.252722  
 categories: player  
 ---
 # Omar DAHIR
 
+
+Last updated: 2023-03-27
 ## Positions: P
 
-## Current elo: 82.0
+## Current elo: 89.0
 
-## Current Percentile: 17.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -22,14 +24,14 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Rouen            |            26 |   0.365385 |
-| Soyaux-Angouleme |             7 |   0.428571 |
+| Soyaux-Angouleme |             8 |   0.5      |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Aurillac                   |         4 |   0.25     |
+| Grenoble                   |         4 |   0.75     |
 | Nevers                     |         4 |   0        |
 | Carcassonne                |         3 |   0.333333 |
-| Grenoble                   |         3 |   0.666667 |
 | Mont-de-Marsan             |         3 |   0        |
 | Oyonnax                    |         3 |   0.333333 |
 | Agen                       |         2 |   0.5      |

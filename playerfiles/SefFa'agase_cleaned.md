@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Sef Fa'agase  
-date: 2023-03-17 17:40:53.111896  
+date: 2023-03-21 18:24:16.524724  
 categories: player  
 ---
 # Sef Fa'agase
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 89.0
+## Current elo: 88.0
 
 ## Current Percentile: None
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team                   |   Appearances |   Win Rate |
 |:-----------------------|--------------:|-----------:|
-| Queensland Reds        |            54 |   0.25     |
+| Queensland Reds        |            55 |   0.263636 |
 | Queensland Country     |            22 |   0.409091 |
 | New England Free Jacks |            12 |   0.666667 |
 | Canterbury             |            11 |   0.727273 |
@@ -54,10 +56,10 @@ categories: player
 | Stormers                 |         2 |   0        |
 | NOLA Gold                |         2 |   0        |
 | Auckland                 |         2 |   0        |
+| Fijian Drua              |         2 |   1        |
 | Chiefs                   |         2 |   0        |
 | L. A. Giltinis           |         1 |   0        |
-| Manawatu                 |         1 |   1        |
-| Rugby New York           |         1 |   1        |
+| Rugby ATL                |         1 |   1        |
 | Saitama Wild Knights     |         1 |   0        |
 | San Diego Legion         |         1 |   1        |
 | Seattle Seawolves        |         1 |   1        |
@@ -71,9 +73,9 @@ categories: player
 | Toronto Arrows           |         1 |   1        |
 | Utah Warriors            |         1 |   1        |
 | Wellington               |         1 |   1        |
-| Rugby ATL                |         1 |   1        |
+| Rugby New York           |         1 |   1        |
 | R.U. New York            |         1 |   1        |
-| Queensland Reds          |         1 |   0        |
+| Manawatu                 |         1 |   1        |
 | Houston SaberCats        |         1 |   1        |
 | Kobelco Kobe Steelers    |         1 |   0        |
 | Jaguares                 |         1 |   1        |
@@ -82,11 +84,11 @@ categories: player
 | Moana Pasifika           |         1 |   1        |
 | Bay of Plenty            |         1 |   1        |
 | Hawke's Bay              |         1 |   1        |
-| Queensland Country       |         1 |   1        |
+| Queensland Reds          |         1 |   0        |
 | Green Rockets Tokatsu    |         1 |   1        |
 | North Harbour            |         1 |   1        |
-| Fijian Drua              |         1 |   1        |
 | Northland                |         1 |   1        |
 | Old Glory DC             |         1 |   0        |
 | Counties Manukau         |         1 |   1        |
+| Queensland Country       |         1 |   1        |
 | Munakata Sanix Blues     |         1 |   1        |

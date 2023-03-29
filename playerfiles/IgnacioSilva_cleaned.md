@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ignacio Silva  
-date: 2023-03-17 17:19:17.653443  
+date: 2023-03-21 18:46:41.291387  
 categories: player  
 ---
 # Ignacio Silva
 
+
+Last updated: 2023-03-21
 ## Positions: FL
 
-## Current elo: 100.0
+## Current elo: 97.0
 
-## Current Percentile: 77.0
+## Current Percentile: 63.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             3 |   0.666667 |
+| Selknam |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
+| Cobras           |         1 |          0 |
 | Dogos XV         |         1 |          0 |
 | Pampas XV        |         1 |          1 |

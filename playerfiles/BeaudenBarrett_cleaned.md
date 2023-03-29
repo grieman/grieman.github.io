@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Beauden Barrett  
-date: 2023-03-17 17:36:10.787749  
+date: 2023-03-21 18:48:42.692723  
 categories: player  
 ---
 # Beauden Barrett
 
+
+Last updated: 2023-03-21
 ## Positions: FH, FB
 
 ## Country: New Zealand
 
-## Current elo: 158.0
+## Current elo: 157.0
 
 ## Current Percentile: 100.0
 
@@ -25,7 +27,7 @@ categories: player
 |:-----------------|--------------:|-----------:|
 | Hurricanes       |           126 |   0.646825 |
 | New Zealand      |           116 |   0.853448 |
-| Blues            |            21 |   0.809524 |
+| Blues            |            22 |   0.772727 |
 | Taranaki         |            18 |   0.666667 |
 | Tokyo Sungoliath |             9 |   0.888889 |
 
@@ -35,8 +37,8 @@ categories: player
 | Highlanders                       |        22 |   0.636364 |
 | Chiefs                            |        19 |   0.552632 |
 | South Africa                      |        19 |   0.763158 |
+| Crusaders                         |        18 |   0.444444 |
 | Argentina                         |        17 |   0.941176 |
-| Crusaders                         |        17 |   0.470588 |
 | Blues                             |        14 |   0.714286 |
 | Brumbies                          |        11 |   0.545455 |
 | Ireland                           |        10 |   0.5      |

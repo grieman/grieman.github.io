@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Patrick MADDEN  
-date: 2023-03-12 11:31:29.219401  
+date: 2023-03-29 11:31:50.157739  
 categories: player  
 ---
 # Patrick MADDEN
 
+
+Last updated: 2023-03-29
 ## Positions: SH
 
-## Current elo: 99.0
+## Current elo: 98.0
 
 ## Current Percentile: None
 
@@ -22,12 +24,13 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | San Diego Legion |             7 |   0.285714 |
-| American Raptors |             2 |   0        |
+| American Raptors |             3 |   0        |
 
 | Opponent               |   Matches |   Win Rate |
 |:-----------------------|----------:|-----------:|
 | Seattle Seawolves      |         3 |   0.333333 |
 | Dallas Jackals         |         1 |   1        |
+| Dogos XV               |         1 |   0        |
 | L. A. Giltinis         |         1 |   0        |
 | New England Free Jacks |         1 |   0        |
 | Old Glory DC           |         1 |   0        |

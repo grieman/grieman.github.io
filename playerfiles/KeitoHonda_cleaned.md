@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Keito Honda  
-date: 2023-03-09 10:07:31.241722  
+date: 2023-03-21 17:57:24.189238  
 categories: player  
 ---
 # Keito Honda
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
-## Current elo: 89.0
+## Current elo: 86.0
 
-## Current Percentile: None
+## Current Percentile: 31.0
 
 # Elo History
 
@@ -21,13 +23,13 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |             7 |   0.428571 |
+| Kyuden Voltex |             8 |        0.5 |
 
 | Opponent                         |   Matches |   Win Rate |
 |:---------------------------------|----------:|-----------:|
-| Toyota Industries Shuttles Aichi |         2 |          0 |
-| Chugoku Red Regulions            |         1 |          1 |
-| Hanazono Kintetsu Liners         |         1 |          0 |
-| Kamaishi Seawaves                |         1 |          1 |
-| Kurita Water Gush                |         1 |          0 |
-| Shimizu Blue Sharks              |         1 |          1 |
+| Kurita Water Gush                |         2 |        0.5 |
+| Toyota Industries Shuttles Aichi |         2 |        0   |
+| Chugoku Red Regulions            |         1 |        1   |
+| Hanazono Kintetsu Liners         |         1 |        0   |
+| Kamaishi Seawaves                |         1 |        1   |
+| Shimizu Blue Sharks              |         1 |        1   |

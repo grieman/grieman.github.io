@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Tadhg Furlong  
-date: 2023-03-17 17:01:52.094916  
+date: 2023-03-21 18:08:50.918628  
 categories: player  
 ---
 # Tadhg Furlong
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Ireland
@@ -24,7 +26,7 @@ categories: player
 | Team                    |   Appearances |   Win Rate |
 |:------------------------|--------------:|-----------:|
 | Leinster                |           130 |   0.742308 |
-| Ireland                 |            64 |   0.695312 |
+| Ireland                 |            65 |   0.7      |
 | British and Irish Lions |            10 |   0.65     |
 
 | Opponent            |   Matches |   Win Rate |
@@ -35,10 +37,10 @@ categories: player
 | Glasgow Warriors    |        11 |   0.590909 |
 | Connacht            |        10 |   0.6      |
 | Wales               |         9 |   0.5      |
+| England             |         9 |   0.555556 |
 | South Africa        |         8 |   0.5      |
 | Scarlets            |         8 |   0.625    |
 | Scotland            |         8 |   0.875    |
-| England             |         8 |   0.5      |
 | Benetton Treviso    |         7 |   0.928571 |
 | Edinburgh           |         7 |   0.857143 |
 | Ospreys             |         6 |   0.916667 |

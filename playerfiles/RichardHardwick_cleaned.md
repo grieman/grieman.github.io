@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Richard Hardwick  
-date: 2023-03-16 21:12:57.870486  
+date: 2023-03-21 18:40:28.598422  
 categories: player  
 ---
 # Richard Hardwick
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Namibia
@@ -23,7 +25,7 @@ categories: player
 
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
-| Melbourne Rebels |            61 |   0.368852 |
+| Melbourne Rebels |            62 |   0.362903 |
 | Perth Spirit     |            27 |   0.518519 |
 | Western Force    |            19 |   0.263158 |
 | Melbourne Rising |            11 |   0.363636 |
@@ -40,10 +42,10 @@ categories: player
 | Brisbane City            |         5 |   0.2      |
 | Canberra Vikings         |         5 |   0.4      |
 | Queensland Country       |         5 |   0.8      |
+| Chiefs                   |         5 |   0        |
 | Hurricanes               |         5 |   0        |
 | Melbourne Rising         |         5 |   0.8      |
 | Sharks                   |         4 |   0.25     |
-| Chiefs                   |         4 |   0        |
 | Crusaders                |         4 |   0        |
 | North Harbour Rays       |         4 |   0.25     |
 | NSW Country Eagles       |         4 |   0.5      |

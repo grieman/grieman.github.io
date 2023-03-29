@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dean Adamson  
-date: 2023-03-17 17:18:09.526758  
+date: 2023-03-21 18:02:27.823616  
 categories: player  
 ---
 # Dean Adamson
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
-## Current elo: 104.0
+## Current elo: 98.0
 
-## Current Percentile: 68.0
+## Current Percentile: 73.0
 
 # Elo History
 
@@ -21,7 +23,7 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            91 |   0.505495 |
+| Bedford |            92 |   0.51087  |
 | Rouen   |            11 |   0.363636 |
 
 | Opponent                   |   Matches |   Win Rate |
@@ -32,9 +34,9 @@ categories: player
 | Nottingham                 |         8 |   0.75     |
 | Ealing Trailfinders        |         8 |   0.25     |
 | Hartpury College           |         7 |   0.714286 |
+| Richmond                   |         7 |   0.714286 |
 | Jersey                     |         7 |   0.571429 |
 | Yorkshire Carnegie         |         6 |   0.333333 |
-| Richmond                   |         6 |   0.666667 |
 | Rotherham Titans           |         4 |   1        |
 | Coventry                   |         4 |   0        |
 | Ampthill                   |         3 |   0.333333 |

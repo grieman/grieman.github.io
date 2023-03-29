@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Luther Obi  
-date: 2023-03-16 19:56:39.723372  
+date: 2023-03-21 18:44:01.059182  
 categories: player  
 ---
 # Luther Obi
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 126.0

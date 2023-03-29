@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Tevita Tatafu  
-date: 2023-03-17 17:07:00.193545  
+date: 2023-03-21 18:11:23.036490  
 categories: player  
 ---
 # Tevita Tatafu
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
 ## Country: Japan
 
 ## Current elo: 96.0
 
-## Current Percentile: None
+## Current Percentile: 98.0
 
 # Elo History
 

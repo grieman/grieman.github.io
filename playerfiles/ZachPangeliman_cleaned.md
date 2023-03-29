@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Zach Pangeliman  
-date: 2023-03-17 17:38:12.910172  
+date: 2023-03-21 17:56:21.732758  
 categories: player  
 ---
 # Zach Pangeliman
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: United States of America
 
 ## Current elo: 80.0
 
-## Current Percentile: 16.0
+## Current Percentile: 15.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Jamal Ford-Robinson  
-date: 2023-03-17 17:03:50.751319  
+date: 2023-03-21 18:13:20.089947  
 categories: player  
 ---
 # Jamal Ford-Robinson
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 92.0

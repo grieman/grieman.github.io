@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Jacques Jacobus Engelbrecht  
-date: 2023-03-16 20:04:11.780936  
+date: 2023-03-20 15:45:53.505526  
 categories: player  
 ---
 # Jacques Jacobus Engelbrecht
 
+
+Last updated: 2023-03-20
 ## Positions: L
 
-## Current elo: 118.0
+## Current elo: 115.0
 
-## Current Percentile: 81.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -21,12 +23,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Albi   |             7 |   0.857143 |
+| Albi   |             6 |   0.833333 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Suresnes            |         2 |          1 |
-| Blagnac             |         1 |          1 |
 | Bourgoin-Jallieu    |         1 |          0 |
 | Carqueiranne-Hyères |         1 |          1 |
 | Dax                 |         1 |          1 |

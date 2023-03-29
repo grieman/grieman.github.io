@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Yan TABAROT  
-date: 2023-03-17 17:32:25.664923  
+date: 2023-03-21 18:07:09.851217  
 categories: player  
 ---
 # Yan TABAROT
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
-## Current elo: 72.0
+## Current elo: 77.0
 
-## Current Percentile: 9.0
+## Current Percentile: 15.0
 
 # Elo History
 
@@ -22,7 +24,7 @@ categories: player
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
 | Dijon               |            18 |   0.388889 |
-| Carqueiranne-Hyères |            13 |   0.230769 |
+| Carqueiranne-Hyères |            12 |   0.25     |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
@@ -32,12 +34,12 @@ categories: player
 | Tarbes                     |         3 |   0.166667 |
 | Aubenas                    |         2 |   0.75     |
 | Blagnac                    |         2 |   0        |
-| Bourgoin-Jallieu           |         2 |   0.5      |
 | Cognac Saint Jean d'Angély |         2 |   0.5      |
 | Massy                      |         2 |   0        |
 | Soyaux-Angouleme           |         2 |   0.5      |
 | Valence Romans Drome Rugby |         2 |   0.5      |
 | Albi                       |         1 |   0        |
+| Bourgoin-Jallieu           |         1 |   1        |
 | Narbonne                   |         1 |   0        |
 | Rennes                     |         1 |   0        |
 | Suresnes                   |         1 |   1        |

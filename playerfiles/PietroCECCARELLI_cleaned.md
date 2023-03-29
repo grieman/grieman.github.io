@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Pietro CECCARELLI  
-date: 2023-03-12 11:30:00.779047  
+date: 2023-03-27 11:34:08.994835  
 categories: player  
 ---
 # Pietro CECCARELLI
 
+
+Last updated: 2023-03-27
 ## Positions: P
 
 ## Country: Italy
 
-## Current elo: 99.0
+## Current elo: 103.0
 
-## Current Percentile: 62.0
+## Current Percentile: 66.0
 
 # Elo History
 
@@ -27,54 +29,55 @@ categories: player
 | Brive       |            37 |   0.310811 |
 | Edinburgh   |            24 |   0.5625   |
 | Oyonnax     |            24 |   0.208333 |
-| Italy       |            21 |   0.285714 |
+| Italy       |            23 |   0.26087  |
 | La Rochelle |             1 |   1        |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
 | La Rochelle              |         7 |   0.357143 |
-| Bordeaux Begles          |         7 |   0.214286 |
 | Cardiff Blues            |         7 |   0.428571 |
-| Dragons                  |         6 |   0.5      |
-| Castres Olympique        |         6 |   0.166667 |
+| Bordeaux Begles          |         7 |   0.214286 |
 | Lyon                     |         6 |   0.333333 |
+| Dragons                  |         6 |   0.5      |
 | Scarlets                 |         6 |   0.5      |
-| Glasgow Warriors         |         5 |   0.2      |
-| Munster                  |         5 |   0.2      |
-| Benetton Treviso         |         5 |   0.2      |
-| Montpellier Herault      |         5 |   0.3      |
+| Castres Olympique        |         6 |   0.166667 |
 | Connacht                 |         5 |   0.2      |
-| Stade Toulousain         |         5 |   0        |
+| Montpellier Herault      |         5 |   0.3      |
 | Leinster                 |         5 |   0        |
+| Munster                  |         5 |   0.2      |
+| Glasgow Warriors         |         5 |   0.2      |
+| Benetton Treviso         |         5 |   0.2      |
+| Stade Toulousain         |         5 |   0        |
 | Racing 92                |         4 |   0        |
 | Stade Francais Paris     |         4 |   0        |
 | Pau                      |         4 |   0.5      |
 | Agen                     |         4 |   0.75     |
-| Edinburgh                |         4 |   0.25     |
 | Brive                    |         4 |   0.25     |
+| Edinburgh                |         4 |   0.25     |
 | Ireland                  |         3 |   0        |
 | England                  |         3 |   0        |
 | Clermont Auvergne        |         3 |   0.166667 |
 | Wasps                    |         3 |   0.333333 |
 | Toulon                   |         3 |   0.333333 |
-| Gloucester Rugby         |         2 |   0        |
-| Scotland                 |         2 |   0        |
-| Worcester Warriors       |         2 |   1        |
-| Wales                    |         2 |   0.5      |
-| Ulster                   |         2 |   0        |
-| Australia                |         2 |   0.5      |
+| Scotland                 |         3 |   0        |
+| Zebre                    |         2 |   0.5      |
 | Bayonne                  |         2 |   1        |
 | Southern Kings           |         2 |   0.5      |
-| Zebre                    |         2 |   0.5      |
+| Ulster                   |         2 |   0        |
+| Gloucester Rugby         |         2 |   0        |
 | Ospreys                  |         2 |   0        |
+| Wales                    |         2 |   0.5      |
 | New Zealand              |         2 |   0        |
 | Argentina                |         2 |   0        |
+| Worcester Warriors       |         2 |   1        |
+| Australia                |         2 |   0.5      |
+| Uruguay                  |         1 |   1        |
+| United States of America |         1 |   1        |
+| France                   |         1 |   0        |
 | South Africa             |         1 |   0        |
-| Grenoble                 |         1 |   0        |
-| Samoa                    |         1 |   1        |
+| Biarritz Olympique       |         1 |   0        |
 | Perpignan                |         1 |   1        |
 | Canada                   |         1 |   1        |
-| United States of America |         1 |   1        |
-| Uruguay                  |         1 |   1        |
 | Carcassonne              |         1 |   1        |
-| Biarritz Olympique       |         1 |   0        |
+| Grenoble                 |         1 |   0        |
+| Samoa                    |         1 |   1        |

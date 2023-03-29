@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Alex Schwarz  
-date: 2023-02-02 18:44:01.859780  
+date: 2023-03-21 18:13:27.391704  
 categories: player  
 ---
 # Alex Schwarz
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Harry Sloan  
-date: 2023-03-17 17:12:34.854397  
+date: 2023-03-21 18:01:32.418037  
 categories: player  
 ---
 # Harry Sloan
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
 ## Current elo: 102.0

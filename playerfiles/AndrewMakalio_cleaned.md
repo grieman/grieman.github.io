@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Andrew Makalio  
-date: 2023-03-17 17:22:35.552673  
+date: 2023-03-21 18:17:40.431034  
 categories: player  
 ---
 # Andrew Makalio
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Provincial Union XV
 
 ## Current elo: 103.0
 
-## Current Percentile: 80.0
+## Current Percentile: 75.0
 
 # Elo History
 
@@ -25,7 +27,7 @@ categories: player
 |:--------------------|--------------:|-----------:|
 | Tasman              |            52 |   0.663462 |
 | Crusaders           |            43 |   0.872093 |
-| Highlanders         |            13 |   0.230769 |
+| Highlanders         |            14 |   0.285714 |
 | Provincial Union XV |             1 |   0        |
 
 | Opponent                 |   Matches |   Win Rate |
@@ -53,6 +55,7 @@ categories: player
 | Crusaders                |         2 |   0        |
 | Counties Manukau         |         2 |   1        |
 | Bulls                    |         2 |   1        |
+| Western Force            |         2 |   1        |
 | Moana Pasifika           |         1 |   1        |
 | Lions                    |         1 |   1        |
 | Jaguares                 |         1 |   1        |
@@ -61,4 +64,3 @@ categories: player
 | Fijian Drua              |         1 |   1        |
 | Cheetahs                 |         1 |   1        |
 | British and Irish Lions  |         1 |   0        |
-| Western Force            |         1 |   1        |

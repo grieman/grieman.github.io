@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Dylan Michael Sage  
-date: 2023-03-17 17:34:17.423346  
+date: 2023-03-21 18:47:20.214334  
 categories: player  
 ---
 # Dylan Michael Sage
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
-## Current elo: 94.0
+## Current elo: 93.0
 
-## Current Percentile: 44.0
+## Current Percentile: 38.0
 
 # Elo History
 
@@ -21,12 +23,11 @@ categories: player
 
 | Team                |   Appearances |   Win Rate |
 |:--------------------|--------------:|-----------:|
-| Carqueiranne-Hyères |             7 |   0.428571 |
+| Carqueiranne-Hyères |             6 |        0.5 |
 
 | Opponent                   |   Matches |   Win Rate |
 |:---------------------------|----------:|-----------:|
 | Albi                       |         1 |          0 |
-| Bourgoin-Jallieu           |         1 |          0 |
 | Chambery                   |         1 |          0 |
 | Cognac Saint Jean d'Angély |         1 |          1 |
 | Suresnes                   |         1 |          1 |

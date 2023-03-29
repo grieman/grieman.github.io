@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Michele Lamaro  
-date: 2023-03-17 17:14:38.386476  
+date: 2023-03-21 18:00:16.541111  
 categories: player  
 ---
 # Michele Lamaro
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Italy
 
-## Current elo: 109.0
+## Current elo: 114.0
 
-## Current Percentile: 90.0
+## Current Percentile: 80.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team             |   Appearances |   Win Rate |
 |:-----------------|--------------:|-----------:|
 | Benetton Treviso |            44 |   0.534091 |
-| Italy            |            23 |   0.26087  |
+| Italy            |            24 |   0.25     |
 
 | Opponent             |   Matches |   Win Rate |
 |:---------------------|----------:|-----------:|
@@ -37,6 +39,7 @@ categories: player
 | France               |         3 |   0        |
 | Cardiff Blues        |         3 |   0.333333 |
 | Wales                |         3 |   0.333333 |
+| Scotland             |         3 |   0        |
 | Connacht             |         2 |   0        |
 | Edinburgh            |         2 |   0.5      |
 | Bulls                |         2 |   0        |
@@ -45,7 +48,6 @@ categories: player
 | Leinster             |         2 |   0        |
 | Ospreys              |         2 |   0        |
 | Southern Kings       |         2 |   1        |
-| Scotland             |         2 |   0        |
 | Uruguay              |         1 |   1        |
 | Scarlets             |         1 |   1        |
 | Toulon               |         1 |   0        |

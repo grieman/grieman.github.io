@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Patrick Schickerling  
-date: 2023-03-17 17:14:08.666694  
+date: 2023-03-20 15:46:11.016772  
 categories: player  
 ---
 # Patrick Schickerling
 
+
+Last updated: 2023-03-20
 ## Positions: P
 
 ## Current elo: 105.0

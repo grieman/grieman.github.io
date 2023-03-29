@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Tom Lambert  
-date: 2023-03-17 17:21:11.514363  
+date: 2023-03-21 18:53:41.166678  
 categories: player  
 ---
 # Tom Lambert
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Current elo: 101.0
 
-## Current Percentile: 61.0
+## Current Percentile: 59.0
 
 # Elo History
 

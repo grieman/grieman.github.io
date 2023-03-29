@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Chandler Cunningham-South  
-date: 2023-03-17 17:23:22.764330  
+date: 2023-03-21 17:56:02.459332  
 categories: player  
 ---
 # Chandler Cunningham-South
 
+
+Last updated: 2023-03-21
 ## Positions: N8
 
-## Current elo: 102.0
+## Current elo: 99.0
 
-## Current Percentile: 65.0
+## Current Percentile: 49.0
 
 # Elo History
 

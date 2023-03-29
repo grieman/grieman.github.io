@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: Andy Bordelai  
-date: 2023-01-13 11:25:53.946853  
+date: 2023-03-21 18:38:42.707065  
 categories: player  
 ---
 # Andy Bordelai
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 93.0
+## Current elo: 94.0
 
 ## Current Percentile: None
 

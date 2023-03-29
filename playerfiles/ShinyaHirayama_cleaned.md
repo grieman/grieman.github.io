@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Shinya Hirayama  
-date: 2023-01-13 11:38:21.156132  
+date: 2023-03-21 18:22:17.416382  
 categories: player  
 ---
 # Shinya Hirayama
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 92.0
+## Current elo: 83.0
 
-## Current Percentile: 48.0
+## Current Percentile: 14.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team                  |   Appearances |   Win Rate |
 |:----------------------|--------------:|-----------:|
-| Chugoku Red Regulions |             3 |   0.333333 |
+| Chugoku Red Regulions |             7 |   0.142857 |
 
 | Opponent                        |   Matches |   Win Rate |
 |:--------------------------------|----------:|-----------:|
-| Kyuden Voltex                   |         1 |          0 |
-| NTT Docomo Red Hurricanes Osaka |         1 |          0 |
-| Skyactivs Hiroshima             |         1 |          1 |
+| Kurita Water Gush               |         2 |        0.5 |
+| Kyuden Voltex                   |         2 |        0   |
+| NTT Docomo Red Hurricanes Osaka |         2 |        0   |
+| Skyactivs Hiroshima             |         1 |        0   |

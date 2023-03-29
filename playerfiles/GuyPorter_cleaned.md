@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Guy Porter  
-date: 2023-03-17 17:02:27.196963  
+date: 2023-03-21 18:07:59.983386  
 categories: player  
 ---
 # Guy Porter
 
+
+Last updated: 2023-03-21
 ## Positions: C, W
 
 ## Country: England

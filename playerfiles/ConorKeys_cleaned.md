@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Conor Keys  
-date: 2023-03-17 17:43:26.452143  
+date: 2023-03-21 17:59:05.953933  
 categories: player  
 ---
 # Conor Keys
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: Canada

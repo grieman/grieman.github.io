@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Pierre Le Huby  
-date: 2023-03-17 17:32:15.186844  
+date: 2023-03-21 18:47:08.057350  
 categories: player  
 ---
 # Pierre Le Huby
 
+
+Last updated: 2023-03-21
 ## Positions: FB
 
 ## Current elo: 96.0

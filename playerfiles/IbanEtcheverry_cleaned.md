@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Iban Etcheverry  
-date: 2023-03-17 17:00:55.573607  
+date: 2023-03-21 18:10:56.144128  
 categories: player  
 ---
 # Iban Etcheverry
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Current elo: 114.0

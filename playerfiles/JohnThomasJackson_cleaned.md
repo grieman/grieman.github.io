@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: John Thomas Jackson  
-date: 2023-02-24 02:24:06.176780  
+date: 2023-03-21 18:02:01.325212  
 categories: player  
 ---
 # John Thomas Jackson
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 85.0
+## Current elo: 90.0
 
-## Current Percentile: 43.0
+## Current Percentile: 23.0
 
 # Elo History
 
@@ -21,15 +23,14 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Rouen  |             8 |      0.375 |
+| Rouen  |             7 |        0.5 |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
-| Aurillac           |         1 |          0 |
-| Biarritz Olympique |         1 |          0 |
-| Carcassonne        |         1 |          0 |
-| Grenoble           |         1 |          0 |
-| Montauban          |         1 |          1 |
-| Oyonnax            |         1 |          1 |
-| Provence Rugby     |         1 |          0 |
-| Soyaux-Angouleme   |         1 |          1 |
+| Biarritz Olympique |         1 |        0   |
+| Carcassonne        |         1 |        0   |
+| Grenoble           |         1 |        0   |
+| Massy              |         1 |        1   |
+| Oyonnax            |         1 |        1   |
+| Provence Rugby     |         1 |        0.5 |
+| Soyaux-Angouleme   |         1 |        1   |

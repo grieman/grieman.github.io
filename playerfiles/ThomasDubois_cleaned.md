@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Thomas Dubois  
-date: 2023-02-02 18:47:39.014415  
+date: 2023-03-21 18:38:46.545560  
 categories: player  
 ---
 # Thomas Dubois
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 95.0

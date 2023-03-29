@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Ed Prowse  
-date: 2023-03-17 17:28:04.694297  
+date: 2023-03-21 18:50:56.744740  
 categories: player  
 ---
 # Ed Prowse
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
-## Current elo: 115.0
+## Current elo: 108.0
 
-## Current Percentile: 91.0
+## Current Percentile: 90.0
 
 # Elo History
 
@@ -21,16 +23,16 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Bedford |            32 |        0.5 |
+| Bedford |            33 |   0.515152 |
 
 | Opponent            |   Matches |   Win Rate |
 |:--------------------|----------:|-----------:|
 | Cornish Pirates     |         5 |   0.4      |
 | Doncaster           |         5 |   0.4      |
+| Richmond            |         4 |   0.5      |
 | Coventry            |         3 |   0        |
 | Hartpury College    |         3 |   1        |
 | Nottingham          |         3 |   0.666667 |
-| Richmond            |         3 |   0.333333 |
 | Ampthill            |         2 |   0.5      |
 | Ealing Trailfinders |         2 |   0.5      |
 | Jersey              |         2 |   0.5      |

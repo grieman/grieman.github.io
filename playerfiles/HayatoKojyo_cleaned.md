@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Hayato Kojyo  
-date: 2023-03-09 10:13:06.819864  
+date: 2023-03-21 18:12:56.755554  
 categories: player  
 ---
 # Hayato Kojyo
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 100.0
+## Current elo: 95.0
 
-## Current Percentile: None
+## Current Percentile: 61.0
 
 # Elo History
 
@@ -21,8 +23,9 @@ categories: player
 
 | Team          |   Appearances |   Win Rate |
 |:--------------|--------------:|-----------:|
-| Kyuden Voltex |             1 |          1 |
+| Kyuden Voltex |             2 |          1 |
 
 | Opponent              |   Matches |   Win Rate |
 |:----------------------|----------:|-----------:|
 | Chugoku Red Regulions |         1 |          1 |
+| Kurita Water Gush     |         1 |          1 |

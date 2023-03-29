@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Albert Tuisue  
-date: 2023-03-17 17:22:31.624879  
+date: 2023-03-21 18:16:06.101011  
 categories: player  
 ---
 # Albert Tuisue
 
+
+Last updated: 2023-03-21
 ## Positions: N8, L
 
 ## Country: Fiji
 
 ## Current elo: 92.0
 
-## Current Percentile: 39.0
+## Current Percentile: 38.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Liam Mitchell  
-date: 2023-03-17 17:28:26.487137  
+date: 2023-03-21 18:29:54.407378  
 categories: player  
 ---
 # Liam Mitchell
 
+
+Last updated: 2023-03-21
 ## Positions: L, FL
 
 ## Current elo: 87.0

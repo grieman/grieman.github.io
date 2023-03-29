@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Gideon van Wyk  
-date: 2023-03-17 17:20:57.818932  
+date: 2023-03-21 18:44:09.684169  
 categories: player  
 ---
 # Gideon van Wyk
 
+
+Last updated: 2023-03-21
 ## Positions: N8, FL
 
 ## Current elo: 100.0
 
-## Current Percentile: 50.0
+## Current Percentile: 46.0
 
 # Elo History
 

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Lukas Carvallo  
-date: 2023-03-17 17:26:00.653109  
+date: 2023-03-21 17:57:54.586102  
 categories: player  
 ---
 # Lukas Carvallo
 
+
+Last updated: 2023-03-21
 ## Positions: SH, W
 
 ## Country: Chile

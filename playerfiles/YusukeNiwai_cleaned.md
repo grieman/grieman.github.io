@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Yusuke Niwai  
-date: 2023-03-17 17:08:14.427262  
+date: 2023-03-21 18:06:26.449140  
 categories: player  
 ---
 # Yusuke Niwai
 
+
+Last updated: 2023-03-21
 ## Positions: H
 
 ## Country: Japan

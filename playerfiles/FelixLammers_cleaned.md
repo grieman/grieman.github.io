@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Felix Lammers  
-date: 2023-02-05 15:08:37.011386  
+date: 2023-03-21 18:20:18.565789  
 categories: player  
 ---
 # Felix Lammers
 
+
+Last updated: 2023-03-21
 ## Positions: W
 
 ## Country: Germany
 
-## Current elo: 72.0
+## Current elo: 69.0
 
-## Current Percentile: None
+## Current Percentile: 12.0
 
 # Elo History
 
@@ -23,13 +25,15 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Germany |             7 |          0 |
+| Germany |            11 |  0.0909091 |
 
-| Opponent   |   Matches |   Win Rate |
-|:-----------|----------:|-----------:|
-| Georgia    |         2 |          0 |
-| Belgium    |         1 |          0 |
-| Portugal   |         1 |          0 |
-| Romania    |         1 |          0 |
-| Russia     |         1 |          0 |
-| Spain      |         1 |          0 |
+| Opponent    |   Matches |   Win Rate |
+|:------------|----------:|-----------:|
+| Georgia     |         2 |          0 |
+| Netherlands |         2 |          0 |
+| Spain       |         2 |          0 |
+| Belgium     |         1 |          0 |
+| Poland      |         1 |          1 |
+| Portugal    |         1 |          0 |
+| Romania     |         1 |          0 |
+| Russia      |         1 |          0 |

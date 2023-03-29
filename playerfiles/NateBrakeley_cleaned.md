@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Nate Brakeley  
-date: 2023-03-17 17:22:00.318022  
+date: 2023-03-21 18:51:14.271716  
 categories: player  
 ---
 # Nate Brakeley
 
+
+Last updated: 2023-03-21
 ## Positions: L
 
 ## Country: United States of America

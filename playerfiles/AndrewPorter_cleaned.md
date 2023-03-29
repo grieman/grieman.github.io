@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Andrew Porter  
-date: 2023-03-17 17:21:01.414095  
+date: 2023-03-21 18:37:54.855129  
 categories: player  
 ---
 # Andrew Porter
 
+
+Last updated: 2023-03-21
 ## Positions: P
 
 ## Country: Ireland
 
-## Current elo: 105.0
+## Current elo: 95.0
 
-## Current Percentile: 69.0
+## Current Percentile: 77.0
 
 # Elo History
 
@@ -24,7 +26,7 @@ categories: player
 | Team     |   Appearances |   Win Rate |
 |:---------|--------------:|-----------:|
 | Leinster |            96 |   0.848958 |
-| Ireland  |            48 |   0.770833 |
+| Ireland  |            49 |   0.77551  |
 
 | Opponent                 |   Matches |   Win Rate |
 |:-------------------------|----------:|-----------:|
@@ -37,7 +39,7 @@ categories: player
 | Dragons                  |         7 |   1        |
 | New Zealand              |         6 |   0.666667 |
 | Scotland                 |         6 |   1        |
-| England                  |         5 |   0.4      |
+| England                  |         6 |   0.5      |
 | Scarlets                 |         5 |   0.6      |
 | France                   |         4 |   0.25     |
 | Glasgow Warriors         |         4 |   0.75     |

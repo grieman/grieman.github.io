@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Joe Howard  
-date: 2023-03-17 17:30:22.589887  
+date: 2023-03-21 18:40:18.930935  
 categories: player  
 ---
 # Joe Howard
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
 ## Current elo: 93.0

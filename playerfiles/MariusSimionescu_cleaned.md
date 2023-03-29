@@ -1,18 +1,20 @@
 ---  
 layout: page  
 title: Marius Simionescu  
-date: 2023-02-04 18:29:55.329217  
+date: 2023-03-21 18:43:53.592692  
 categories: player  
 ---
 # Marius Simionescu
 
+
+Last updated: 2023-03-21
 ## Positions: FB, W
 
 ## Country: Romania
 
-## Current elo: 72.0
+## Current elo: 60.0
 
-## Current Percentile: 3.0
+## Current Percentile: 2.0
 
 # Elo History
 
@@ -23,9 +25,9 @@ categories: player
 
 | Team               |   Appearances |   Win Rate |
 |:-------------------|--------------:|-----------:|
-| Romania            |            25 |        0.6 |
-| Timisoara Saracens |             7 |        0   |
-| Romanian Wolves    |             2 |        0   |
+| Romania            |            24 |   0.583333 |
+| Timisoara Saracens |             7 |   0        |
+| Romanian Wolves    |             2 |   0        |
 
 | Opponent           |   Matches |   Win Rate |
 |:-------------------|----------:|-----------:|
@@ -43,7 +45,6 @@ categories: player
 | Italy              |         1 |   0        |
 | Brazil             |         1 |   1        |
 | Germany            |         1 |   1        |
-| Poland             |         1 |   1        |
 | RC Batumi          |         1 |   0        |
 | Samoa              |         1 |   1        |
 | Chile              |         1 |   1        |

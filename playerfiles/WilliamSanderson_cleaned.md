@@ -1,14 +1,16 @@
 ---  
 layout: page  
 title: William Sanderson  
-date: 2023-03-12 11:32:42.646197  
+date: 2023-03-21 18:15:13.211704  
 categories: player  
 ---
 # William Sanderson
 
+
+Last updated: 2023-03-21
 ## Positions: 
 
-## Current elo: 89.0
+## Current elo: 88.0
 
 ## Current Percentile: None
 
@@ -17,10 +19,11 @@ categories: player
 
 | Team   |   Appearances |   Win Rate |
 |:-------|--------------:|-----------:|
-| Caldy  |             3 |          0 |
+| Caldy  |             4 |          0 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
+| Coventry         |         1 |          0 |
 | Doncaster        |         1 |          0 |
 | Hartpury College |         1 |          0 |
 | Jersey           |         1 |          0 |

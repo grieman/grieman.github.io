@@ -1,16 +1,18 @@
 ---  
 layout: page  
 title: Matias Garafulic  
-date: 2023-03-17 17:42:02.430547  
+date: 2023-03-21 18:44:59.163698  
 categories: player  
 ---
 # Matias Garafulic
 
+
+Last updated: 2023-03-21
 ## Positions: C
 
-## Current elo: 98.0
+## Current elo: 89.0
 
-## Current Percentile: 81.0
+## Current Percentile: 54.0
 
 # Elo History
 
@@ -21,10 +23,11 @@ categories: player
 
 | Team    |   Appearances |   Win Rate |
 |:--------|--------------:|-----------:|
-| Selknam |             3 |   0.666667 |
+| Selknam |             4 |        0.5 |
 
 | Opponent         |   Matches |   Win Rate |
 |:-----------------|----------:|-----------:|
 | American Raptors |         1 |          1 |
+| Cobras           |         1 |          0 |
 | Dogos XV         |         1 |          0 |
 | Pampas XV        |         1 |          1 |

@@ -1,11 +1,13 @@
 ---  
 layout: page  
 title: Magnus Bradbury  
-date: 2023-03-17 17:15:03.085499  
+date: 2023-03-21 17:58:43.330088  
 categories: player  
 ---
 # Magnus Bradbury
 
+
+Last updated: 2023-03-21
 ## Positions: FL, N8
 
 ## Country: Scotland
