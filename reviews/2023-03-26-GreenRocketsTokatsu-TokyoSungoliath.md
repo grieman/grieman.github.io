@@ -41,29 +41,29 @@ Tokyo Sungoliath by 36.9 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                       |   Home Minutes |
-|---------------:|:----------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------|---------------:|
-|             49 | [Yukio Morikawa](..//playerfiles//YukioMorikawa_cleaned.md)           |     131.53 |                98 |        1 |               nan |      92.25 | [Kosei Yamamoto](..//playerfiles//KoseiYamamoto_cleaned.md)       |             43 |
-|             58 | [Kosuke Horikoshi](..//playerfiles//KosukeHorikoshi_cleaned.md)       |      94.71 |                49 |        2 |                11 |      80.52 | [Ash Dixon](..//playerfiles//AshDixon_cleaned.md)                 |             80 |
-|             58 | [Shinnosuke Kakinaga](..//playerfiles//ShinnosukeKakinaga_cleaned.md) |     108.49 |                86 |        3 |                26 |      88.87 | [Keisuke Kikuta](..//playerfiles//KeisukeKikuta_cleaned.md)       |             43 |
-|             49 | [Wataru Kobayashi](..//playerfiles//WataruKobayashi_cleaned.md)       |     129.99 |                97 |        4 |                 4 |      66.92 | [Daiki Yamagiwa](..//playerfiles//DaikiYamagiwa_cleaned.md)       |             80 |
-|             80 | [Harrison Hockings](..//playerfiles//HarrisonHockings_cleaned.md)     |     107.93 |                77 |        5 |                18 |      83.79 | [Jake Ball](..//playerfiles//JakeBall_cleaned.md)                 |             80 |
-|             80 | [Koji Iino](..//playerfiles//KojiIino_cleaned.md)                     |     106.52 |                77 |        6 |                31 |      89    | [Yoshida Hosoda](..//playerfiles//YoshidaHosoda_cleaned.md)       |             43 |
-|             80 | [Ryuga Hashimoto](..//playerfiles//RyugaHashimoto_cleaned.md)         |      91.22 |                31 |        7 |                44 |      95.19 | [Aseri Masivou](..//playerfiles//AseriMasivou_cleaned.md)         |             68 |
-|             60 | [Tevita Tatafu](..//playerfiles//TevitaTatafu_cleaned.md)             |     111.64 |                85 |        8 |                 7 |      76    | [Wheetu Douglas](..//playerfiles//WheetuDouglas_cleaned.md)       |             80 |
-|             75 | [Naoto Saito](..//playerfiles//NaotoSaito_cleaned.md)                 |     104.83 |                75 |        9 |                19 |      84.79 | [Nicholas Phipps](..//playerfiles//NicholasPhipps_cleaned.md)     |             68 |
-|             67 | [Aaron Cruden](..//playerfiles//AaronCruden_cleaned.md)               |     100.59 |                63 |       10 |                 8 |      78.09 | [Doga Maeda](..//playerfiles//DogaMaeda_cleaned.md)               |             80 |
-|             62 | [Tevita Li](..//playerfiles//TevitaLi_cleaned.md)                     |      97.69 |                55 |       11 |                78 |     104.19 | [Yuma Sugimoto](..//playerfiles//YumaSugimoto_cleaned.md)         |             69 |
-|             80 | [Ryoto Nakamura](..//playerfiles//RyotoNakamura_cleaned.md)           |     116.1  |                89 |       12 |                12 |      80.4  | [Christian Laui](..//playerfiles//ChristianLaui_cleaned.md)       |             58 |
-|             80 | [Shogo Nakano](..//playerfiles//ShogoNakano_cleaned.md)               |     108.58 |                79 |       13 |                10 |      78.31 | [Tim Bennetts](..//playerfiles//TimBennetts_cleaned.md)           |             80 |
-|             80 | [Seiya Ozaki](..//playerfiles//SeiyaOzaki_cleaned.md)                 |     106.41 |                77 |       14 |                13 |      81.17 | [Teruya Goto](..//playerfiles//TeruyaGoto_cleaned.md)             |             80 |
-|             80 | [Kotaro Matsushima](..//playerfiles//KotaroMatsushima_cleaned.md)     |     100.65 |                60 |       15 |                11 |      76.64 | [Lomano Lemeki](..//playerfiles//LomanoLemeki_cleaned.md)         |             80 |
-|             31 | [Ryosuke Iwaihara](..//playerfiles//RyosukeIwaihara_cleaned.md)       |     101.25 |                65 |       16 |                91 |     113.28 | [Satoshi Ueda](..//playerfiles//SatoshiUeda_cleaned.md)           |             37 |
-|             31 | [Tom Savage](..//playerfiles//TomSavage_cleaned.md)                   |     105.3  |                78 |       17 |                26 |      88.26 | [Kavaia Tagivetaua](..//playerfiles//KavaiaTagivetaua_cleaned.md) |             37 |
-|             22 | [Shunta Nakamura](..//playerfiles//ShuntaNakamura_cleaned.md)         |     133.63 |                98 |       18 |                22 |      87.45 | [Sunao Takizawa](..//playerfiles//SunaoTakizawa_cleaned.md)       |             37 |
-|             22 | [Kotaro Hosoki](..//playerfiles//KotaroHosoki_cleaned.md)             |      95    |               nan |       19 |               nan |      94.81 | [Masaki Obata](..//playerfiles//MasakiObata_cleaned.md)           |             22 |
-|             20 | [Kanji Shimokawa](..//playerfiles//KanjiShimokawa_cleaned.md)         |     110.38 |                83 |       20 |                 0 |      52.45 | [Ryoi Kamei](..//playerfiles//RyoiKamei_cleaned.md)               |             12 |
-|             18 | [Taiga Ozaki](..//playerfiles//TaigaOzaki_cleaned.md)                 |      94.07 |                44 |       21 |               nan |     101.94 | [Tatsuya Fujii](..//playerfiles//TatsuyaFujii_cleaned.md)         |             12 |
-|             13 | [Hideto Niguma](..//playerfiles//HidetoNiguma_cleaned.md)             |     113.68 |                86 |       22 |                21 |      81.34 | [Tom Marshall](..//playerfiles//TomMarshall_cleaned.md)           |             11 |
-|              5 | [Genki Okoshi](..//playerfiles//GenkiOkoshi_cleaned.md)               |      95.86 |               nan |       23 |               nan |     nan    | nan                                                               |            nan |
+|   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
+|---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
+|             49 | Yukio Morikawa      |     131.53 |                98 |        1 |               nan |      92.25 | Kosei Yamamoto    |             43 |
+|             58 | Kosuke Horikoshi    |      94.71 |                49 |        2 |                11 |      80.52 | Ash Dixon         |             80 |
+|             58 | Shinnosuke Kakinaga |     108.49 |                86 |        3 |                26 |      88.87 | Keisuke Kikuta    |             43 |
+|             49 | Wataru Kobayashi    |     129.99 |                97 |        4 |                 4 |      66.92 | Daiki Yamagiwa    |             80 |
+|             80 | Harrison Hockings   |     107.93 |                77 |        5 |                18 |      83.79 | Jake Ball         |             80 |
+|             80 | Koji Iino           |     106.52 |                77 |        6 |                31 |      89    | Yoshida Hosoda    |             43 |
+|             80 | Ryuga Hashimoto     |      91.22 |                31 |        7 |                44 |      95.19 | Aseri Masivou     |             68 |
+|             60 | Tevita Tatafu       |     111.64 |                85 |        8 |                 7 |      76    | Wheetu Douglas    |             80 |
+|             75 | Naoto Saito         |     104.83 |                75 |        9 |                19 |      84.79 | Nicholas Phipps   |             68 |
+|             67 | Aaron Cruden        |     100.59 |                63 |       10 |                 8 |      78.09 | Doga Maeda        |             80 |
+|             62 | Tevita Li           |      97.69 |                55 |       11 |                78 |     104.19 | Yuma Sugimoto     |             69 |
+|             80 | Ryoto Nakamura      |     116.1  |                89 |       12 |                12 |      80.4  | Christian Laui    |             58 |
+|             80 | Shogo Nakano        |     108.58 |                79 |       13 |                10 |      78.31 | Tim Bennetts      |             80 |
+|             80 | Seiya Ozaki         |     106.41 |                77 |       14 |                13 |      81.17 | Teruya Goto       |             80 |
+|             80 | Kotaro Matsushima   |     100.65 |                60 |       15 |                11 |      76.64 | Lomano Lemeki     |             80 |
+|             31 | Ryosuke Iwaihara    |     101.25 |                65 |       16 |                91 |     113.28 | Satoshi Ueda      |             37 |
+|             31 | Tom Savage          |     105.3  |                78 |       17 |                26 |      88.26 | Kavaia Tagivetaua |             37 |
+|             22 | Shunta Nakamura     |     133.63 |                98 |       18 |                22 |      87.45 | Sunao Takizawa    |             37 |
+|             22 | Kotaro Hosoki       |      95    |               nan |       19 |               nan |      94.81 | Masaki Obata      |             22 |
+|             20 | Kanji Shimokawa     |     110.38 |                83 |       20 |                 0 |      52.45 | Ryoi Kamei        |             12 |
+|             18 | Taiga Ozaki         |      94.07 |                44 |       21 |               nan |     101.94 | Tatsuya Fujii     |             12 |
+|             13 | Hideto Niguma       |     113.68 |                86 |       22 |                21 |      81.34 | Tom Marshall      |             11 |
+|              5 | Genki Okoshi        |      95.86 |               nan |       23 |               nan |     nan    | nan               |            nan |
 

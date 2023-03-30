@@ -41,29 +41,29 @@ Oyonnax by 8.2 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                           |   Home Minutes |
-|---------------:|:----------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------------|---------------:|
-|             67 | [Tommy Raynaud](..//playerfiles//TommyRaynaud_cleaned.md)             |      99.46 |                65 |        1 |                94 |     118.69 | [Zack Gauthier](..//playerfiles//ZackGauthier_cleaned.md)             |             53 |
-|             60 | [Teddy Durand](..//playerfiles//TeddyDurand_cleaned.md)               |      89.45 |                30 |        2 |                54 |      96.1  | [Bernabe Massa](..//playerfiles//BernabeMassa_cleaned.md)             |             57 |
-|             31 | [Thibault Berthaud](..//playerfiles//ThibaultBerthaud_cleaned.md)     |      96.98 |                57 |        3 |                51 |      93.85 | [Irakli Aptsiauri](..//playerfiles//IrakliAptsiauri_cleaned.md)       |             52 |
-|             60 | [Victor Lebas](..//playerfiles//VictorLebas_cleaned.md)               |      91.46 |                36 |        4 |                81 |     108.91 | [Thomas Lainault](..//playerfiles//ThomasLainault_cleaned.md)         |             53 |
-|             80 | [Steve Mafi](..//playerfiles//SteveMafi_cleaned.md)                   |     105.7  |                73 |        5 |                77 |     106.25 | [Tanginoa Halaifonua](..//playerfiles//TanginoaHalaifonua_cleaned.md) |             80 |
-|             80 | [Kevin Lebreton](..//playerfiles//KevinLebreton_cleaned.md)           |     152.82 |                99 |        6 |                14 |      82.07 | [Talalelei Gray](..//playerfiles//TalaleleiGray_cleaned.md)           |             48 |
-|             67 | [Wandrille Picault](..//playerfiles//WandrillePicault_cleaned.md)     |     113.24 |                86 |        7 |                49 |      95.58 | [Steeve Blanc-Mappaz](..//playerfiles//SteeveBlanc-Mappaz_cleaned.md) |             67 |
-|             80 | [Loïc Credoz](..//playerfiles//LoïcCredoz_cleaned.md)                 |     104.9  |                79 |        8 |                94 |     122.13 | [Pio Muarua](..//playerfiles//PioMuarua_cleaned.md)                   |             80 |
-|             75 | [Charlie Cassang](..//playerfiles//CharlieCassang_cleaned.md)         |      99.35 |                67 |        9 |                76 |     104.94 | [Éric Escande](..//playerfiles//ÉricEscande_cleaned.md)               |             60 |
-|             63 | [Jules Soulan](..//playerfiles//JulesSoulan_cleaned.md)               |     125.29 |                92 |       10 |                73 |     104.99 | [Thomas Fortunel](..//playerfiles//ThomasFortunel_cleaned.md)         |             80 |
-|             80 | [Enzo Reybier](..//playerfiles//EnzoReybier_cleaned.md)               |     108.36 |                81 |       11 |                55 |      97.55 | [Lucas Dupont](..//playerfiles//LucasDupont_cleaned.md)               |             80 |
-|             80 | [Théo Millet](..//playerfiles//ThéoMillet_cleaned.md)                 |     104.92 |                73 |       12 |                 7 |      76.09 | [Romain Trouilloud](..//playerfiles//RomainTrouilloud_cleaned.md)     |             80 |
-|             69 | [Chris Farrell](..//playerfiles//ChrisFarrell_cleaned.md)             |      95    |               nan |       13 |                57 |      98.58 | [Terence Hepetema](..//playerfiles//TerenceHepetema_cleaned.md)       |             57 |
-|             80 | [Joe Ravouvou](..//playerfiles//JoeRavouvou_cleaned.md)               |      96.21 |                50 |       14 |                40 |      92.47 | [Karim Qadiri](..//playerfiles//KarimQadiri_cleaned.md)               |             80 |
-|             80 | [Aurelien Callandret](..//playerfiles//AurelienCallandret_cleaned.md) |     108.85 |                82 |       15 |                79 |     108.82 | [Julien Farnoux](..//playerfiles//JulienFarnoux_cleaned.md)           |             80 |
-|             49 | [Victor Delmas](..//playerfiles//VictorDelmas_cleaned.md)             |     101.84 |               nan |       16 |                69 |     100.57 | [Thibaut Martel](..//playerfiles//ThibautMartel_cleaned.md)           |             32 |
-|             20 | [Manu Leiataua](..//playerfiles//ManuLeiataua_cleaned.md)             |      95.19 |                47 |       17 |               nan |      92.55 | [Sam Nixon](..//playerfiles//SamNixon_cleaned.md)                     |             28 |
-|             20 | [Tom Murday](..//playerfiles//TomMurday_cleaned.md)                   |      93.28 |                43 |       18 |                70 |     103.45 | [José Duarte Madeira](..//playerfiles//JoséDuarteMadeira_cleaned.md)  |             27 |
-|             17 | [Justin Bouraux](..//playerfiles//JustinBouraux_cleaned.md)           |     111.41 |                83 |       19 |                10 |      79.9  | [Luka Goginava](..//playerfiles//LukaGoginava_cleaned.md)             |             27 |
-|             13 | [Hugo Hermet](..//playerfiles//HugoHermet_cleaned.md)                 |      98.4  |                61 |       20 |                45 |      93.51 | [Mathis Sarragallet](..//playerfiles//MathisSarragallet_cleaned.md)   |             23 |
-|             13 | [Adrien Bordenave](..//playerfiles//AdrienBordenave_cleaned.md)       |      92.7  |                40 |       21 |                20 |      82.61 | [Romain Fusier](..//playerfiles//RomainFusier_cleaned.md)             |             23 |
-|             11 | [Florian Vialelle](..//playerfiles//FlorianVialelle_cleaned.md)       |      93.67 |                43 |       22 |                27 |      88.5  | [Felipe Ezcurra](..//playerfiles//FelipeEzcurra_cleaned.md)           |             20 |
-|              5 | [Ilan El Khattabi](..//playerfiles//IlanElKhattabi_cleaned.md)        |      81.04 |                12 |       23 |                53 |      94.98 | [Antonin Berruyer](..//playerfiles//AntoninBerruyer_cleaned.md)       |             13 |
+|   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
+|---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
+|             67 | Tommy Raynaud       |      99.46 |                65 |        1 |                94 |     118.69 | Zack Gauthier       |             53 |
+|             60 | Teddy Durand        |      89.45 |                30 |        2 |                54 |      96.1  | Bernabe Massa       |             57 |
+|             31 | Thibault Berthaud   |      96.98 |                57 |        3 |                51 |      93.85 | Irakli Aptsiauri    |             52 |
+|             60 | Victor Lebas        |      91.46 |                36 |        4 |                81 |     108.91 | Thomas Lainault     |             53 |
+|             80 | Steve Mafi          |     105.7  |                73 |        5 |                77 |     106.25 | Tanginoa Halaifonua |             80 |
+|             80 | Kevin Lebreton      |     152.82 |                99 |        6 |                14 |      82.07 | Talalelei Gray      |             48 |
+|             67 | Wandrille Picault   |     113.24 |                86 |        7 |                49 |      95.58 | Steeve Blanc-Mappaz |             67 |
+|             80 | Loïc Credoz         |     104.9  |                79 |        8 |                94 |     122.13 | Pio Muarua          |             80 |
+|             75 | Charlie Cassang     |      99.35 |                67 |        9 |                76 |     104.94 | Éric Escande        |             60 |
+|             63 | Jules Soulan        |     125.29 |                92 |       10 |                73 |     104.99 | Thomas Fortunel     |             80 |
+|             80 | Enzo Reybier        |     108.36 |                81 |       11 |                55 |      97.55 | Lucas Dupont        |             80 |
+|             80 | Théo Millet         |     104.92 |                73 |       12 |                 7 |      76.09 | Romain Trouilloud   |             80 |
+|             69 | Chris Farrell       |      95    |               nan |       13 |                57 |      98.58 | Terence Hepetema    |             57 |
+|             80 | Joe Ravouvou        |      96.21 |                50 |       14 |                40 |      92.47 | Karim Qadiri        |             80 |
+|             80 | Aurelien Callandret |     108.85 |                82 |       15 |                79 |     108.82 | Julien Farnoux      |             80 |
+|             49 | Victor Delmas       |     101.84 |               nan |       16 |                69 |     100.57 | Thibaut Martel      |             32 |
+|             20 | Manu Leiataua       |      95.19 |                47 |       17 |               nan |      92.55 | Sam Nixon           |             28 |
+|             20 | Tom Murday          |      93.28 |                43 |       18 |                70 |     103.45 | José Duarte Madeira |             27 |
+|             17 | Justin Bouraux      |     111.41 |                83 |       19 |                10 |      79.9  | Luka Goginava       |             27 |
+|             13 | Hugo Hermet         |      98.4  |                61 |       20 |                45 |      93.51 | Mathis Sarragallet  |             23 |
+|             13 | Adrien Bordenave    |      92.7  |                40 |       21 |                20 |      82.61 | Romain Fusier       |             23 |
+|             11 | Florian Vialelle    |      93.67 |                43 |       22 |                27 |      88.5  | Felipe Ezcurra      |             20 |
+|              5 | Ilan El Khattabi    |      81.04 |                12 |       23 |                53 |      94.98 | Antonin Berruyer    |             13 |
 

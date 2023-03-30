@@ -9,7 +9,7 @@ categories: match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.925, which translates to predicting Blues to win by 22.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.925, which translates to predicting Blues to win by 22.6.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -35,25 +35,25 @@ Blues by 19.7 on a neutral field
 
 
 
-| Away Player                                                               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                               |
-|:--------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------------------------|
-| [Folau Fainga'a](..//playerfiles//FolauFainga'a_cleaned.md)               |     130.06 |                98 |        2 |                92 |     115.04 | [Kurt Eklund](..//playerfiles//KurtEklund_cleaned.md)                                     |
-| [Santiago Medrano](..//playerfiles//SantiagoMedrano_cleaned.md)           |     118.75 |                94 |        3 |                89 |     111.3  | [Ofa Tu'ungafasi](..//playerfiles//OfaTu'ungafasi_cleaned.md)                             |
-| [Felix Kalapu](..//playerfiles//FelixKalapu_cleaned.md)                   |      48.92 |                 1 |        4 |                84 |     111.09 | [James Tucker](..//playerfiles//JamesTucker_cleaned.md)                                   |
-| [Jeremy Williams](..//playerfiles//JeremyWilliams_cleaned.md)             |      77.73 |                10 |        5 |                77 |     106.58 | [Cameron Suafoa](..//playerfiles//CameronSuafoa_cleaned.md)                               |
-| [Michael Wells](..//playerfiles//MichaelWells_cleaned.md)                 |      91.77 |                38 |        6 |                32 |      89.67 | [Anton Segner](..//playerfiles//AntonSegner_cleaned.md)                                   |
-| [Tim Anstee](..//playerfiles//TimAnstee_cleaned.md)                       |      55.69 |                 0 |        7 |                33 |      89.82 | [Adrian Choat](..//playerfiles//AdrianChoat_cleaned.md)                                   |
-| [Rahboni Vosayaco](..//playerfiles//RahboniVosayaco_cleaned.md)           |      91.58 |                35 |        8 |                97 |     127.32 | [Hoskins Sotutu](..//playerfiles//HoskinsSotutu_cleaned.md)                               |
-| [Gareth Simpson](..//playerfiles//GarethSimpson_cleaned.md)               |     102.12 |                69 |        9 |                76 |     105.43 | [Sam Nock](..//playerfiles//SamNock_cleaned.md)                                           |
-| [Bryce Hegarty](..//playerfiles//BryceHegarty_cleaned.md)                 |      99.98 |                61 |       10 |                88 |     116.21 | [Stephen Perofeta](..//playerfiles//StephenPerofeta_cleaned.md)                           |
-| [Toni Pulu](..//playerfiles//ToniPulu_cleaned.md)                         |     126.49 |                95 |       11 |                86 |     113.57 | [Mark Telea](..//playerfiles//MarkTelea_cleaned.md)                                       |
-| [Hamish Stewart](..//playerfiles//HamishStewart_cleaned.md)               |     127.84 |                96 |       12 |                91 |     118.75 | [Harry Plummer](..//playerfiles//HarryPlummer_cleaned.md)                                 |
-| [Sam Spink](..//playerfiles//SamSpink_cleaned.md)                         |      96.73 |                51 |       13 |                90 |     118.49 | [Bryce Heem](..//playerfiles//BryceHeem_cleaned.md)                                       |
-| [Zach Kibirige](..//playerfiles//ZachKibirige_cleaned.md)                 |      73.71 |                 7 |       14 |                94 |     126.27 | [Jacob Ratumaitavuki-Kneepkens](..//playerfiles//JacobRatumaitavuki-Kneepkens_cleaned.md) |
-| [Chase Tiatia](..//playerfiles//ChaseTiatia_cleaned.md)                   |     103.78 |                67 |       15 |                53 |      96.94 | [Zarn Sullivan](..//playerfiles//ZarnSullivan_cleaned.md)                                 |
-| [Tom Horton](..//playerfiles//TomHorton_cleaned.md)                       |     103.36 |                76 |       16 |                46 |      93.7  | [Ricky Riccitelli](..//playerfiles//RickyRiccitelli_cleaned.md)                           |
-| [Ryan McCauley](..//playerfiles//RyanMcCauley_cleaned.md)                 |      77.74 |                10 |       19 |                90 |     116.22 | [Tom Robinson](..//playerfiles//TomRobinson_cleaned.md)                                   |
-| [Ollie Callan](..//playerfiles//OllieCallan_cleaned.md)                   |      77.56 |                 9 |       20 |                69 |     103.57 | [Sam Darry](..//playerfiles//SamDarry_cleaned.md)                                         |
-| [Issak Fines-Leleiwasa](..//playerfiles//IssakFines-Leleiwasa_cleaned.md) |      94.89 |                52 |       21 |                41 |      94.19 | [Taine Plumtree](..//playerfiles//TainePlumtree_cleaned.md)                               |
-| [Bayley Kuenzle](..//playerfiles//BayleyKuenzle_cleaned.md)               |      80.03 |                12 |       22 |                18 |      84.4  | [Taufa Funaki](..//playerfiles//TaufaFunaki_cleaned.md)                                   |
+| Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |
+|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|
+| Folau Fainga'a        |     130.06 |                98 |        2 |                92 |     115.04 | Kurt Eklund                   |
+| Santiago Medrano      |     118.75 |                94 |        3 |                89 |     111.3  | Ofa Tu'ungafasi               |
+| Felix Kalapu          |      48.92 |                 1 |        4 |                84 |     111.09 | James Tucker                  |
+| Jeremy Williams       |      77.73 |                10 |        5 |                77 |     106.58 | Cameron Suafoa                |
+| Michael Wells         |      91.77 |                38 |        6 |                32 |      89.67 | Anton Segner                  |
+| Tim Anstee            |      55.69 |                 0 |        7 |                33 |      89.82 | Adrian Choat                  |
+| Rahboni Vosayaco      |      91.58 |                35 |        8 |                97 |     127.32 | Hoskins Sotutu                |
+| Gareth Simpson        |     102.12 |                69 |        9 |                76 |     105.43 | Sam Nock                      |
+| Bryce Hegarty         |      99.98 |                61 |       10 |                88 |     116.21 | Stephen Perofeta              |
+| Toni Pulu             |     126.49 |                95 |       11 |                86 |     113.57 | Mark Telea                    |
+| Hamish Stewart        |     127.84 |                96 |       12 |                91 |     118.75 | Harry Plummer                 |
+| Sam Spink             |      96.73 |                51 |       13 |                90 |     118.49 | Bryce Heem                    |
+| Zach Kibirige         |      73.71 |                 7 |       14 |                94 |     126.27 | Jacob Ratumaitavuki-Kneepkens |
+| Chase Tiatia          |     103.78 |                67 |       15 |                53 |      96.94 | Zarn Sullivan                 |
+| Tom Horton            |     103.36 |                76 |       16 |                46 |      93.7  | Ricky Riccitelli              |
+| Ryan McCauley         |      77.74 |                10 |       19 |                90 |     116.22 | Tom Robinson                  |
+| Ollie Callan          |      77.56 |                 9 |       20 |                69 |     103.57 | Sam Darry                     |
+| Issak Fines-Leleiwasa |      94.89 |                52 |       21 |                41 |      94.19 | Taine Plumtree                |
+| Bayley Kuenzle        |      80.03 |                12 |       22 |                18 |      84.4  | Taufa Funaki                  |
 

@@ -35,26 +35,26 @@ Fijian Drua by 3.9 on a neutral field
 
 
 
-| Away Player                                                                     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                           |
-|:--------------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------------------------------------------------|
-| [Emosi Tuqiri](..//playerfiles//EmosiTuqiri_cleaned.md)                         |     101.97 |                55 |        1 |                89 |     110.63 | [Ethan de Groot](..//playerfiles//EthandeGroot_cleaned.md)            |
-| [Tevita Ikanivere](..//playerfiles//TevitaIkanivere_cleaned.md)                 |     118.65 |                94 |        2 |                13 |      82.12 | [Leni Apisai](..//playerfiles//LeniApisai_cleaned.md)                 |
-| [Samuela Tawake](..//playerfiles//SamuelaTawake_cleaned.md)                     |      94.51 |                47 |        3 |                82 |     105.6  | [Jermaine Ainsley](..//playerfiles//JermaineAinsley_cleaned.md)       |
-| [Isoa Nasilasila](..//playerfiles//IsoaNasilasila_cleaned.md)                   |     128.63 |                97 |        4 |                99 |     153.64 | [Pari Pari Parkinson](..//playerfiles//PariPariParkinson_cleaned.md)  |
-| [Ratu Rotuisolia](..//playerfiles//RatuRotuisolia_cleaned.md)                   |      92.27 |                38 |        5 |                69 |     101.96 | [Josh Dickson](..//playerfiles//JoshDickson_cleaned.md)               |
-| [Joseva Tamani](..//playerfiles//JosevaTamani_cleaned.md)                       |      84.59 |                16 |        6 |                14 |      82.52 | [Sean Withy](..//playerfiles//SeanWithy_cleaned.md)                   |
-| [Kitione Salawa](..//playerfiles//KitioneSalawa_cleaned.md)                     |      74.88 |                 6 |        7 |                89 |     115.79 | [Billy Harmon](..//playerfiles//BillyHarmon_cleaned.md)               |
-| [Ratu Meli Derenalagi](..//playerfiles//RatuMeliDerenalagi_cleaned.md)          |     112.75 |                86 |        8 |                 2 |      61.5  | [Hugh Renton](..//playerfiles//HughRenton_cleaned.md)                 |
-| [Frank Lomani](..//playerfiles//FrankLomani_cleaned.md)                         |      87.42 |                24 |        9 |                57 |      98.02 | [Aaron Smith](..//playerfiles//AaronSmith_cleaned.md)                 |
-| [Kalaveti Ravouvou](..//playerfiles//KalavetiRavouvou_cleaned.md)               |     146.81 |                99 |       12 |                19 |      84.91 | [Thomas Umaga-Jensen](..//playerfiles//ThomasUmaga-Jensen_cleaned.md) |
-| [Apisalome Vota](..//playerfiles//ApisalomeVota_cleaned.md)                     |     121.49 |                92 |       13 |                13 |      80.73 | [Josh Timu](..//playerfiles//JoshTimu_cleaned.md)                     |
-| [Iosefo Masi](..//playerfiles//IosefoMasi_cleaned.md)                           |     100.75 |                64 |       14 |                94 |     124.61 | [Martin Bogado](..//playerfiles//MartinBogado_cleaned.md)             |
-| [Selestino Ravutaumada](..//playerfiles//SelestinoRavutaumada_cleaned.md)       |      92.2  |                40 |       15 |                17 |      82.03 | [Sam Gilbert](..//playerfiles//SamGilbert_cleaned.md)                 |
-| [Meli Tuni](..//playerfiles//MeliTuni_cleaned.md)                               |     104.71 |                80 |       17 |                71 |      99.93 | [Dan Lienert-Brown](..//playerfiles//DanLienert-Brown_cleaned.md)     |
-| [Jone Koroiduadua](..//playerfiles//JoneKoroiduadua_cleaned.md)                 |      99    |                59 |       18 |                79 |     100.06 | [Saula Mau](..//playerfiles//SaulaMau_cleaned.md)                     |
-| [Sorovakatini Tuifagalele](..//playerfiles//SorovakatiniTuifagalele_cleaned.md) |      84.22 |                22 |       19 |                25 |      87.95 | [Will Tucker](..//playerfiles//WillTucker_cleaned.md)                 |
-| [Vilive Miramira](..//playerfiles//ViliveMiramira_cleaned.md)                   |      88.13 |                22 |       20 |                56 |      97.6  | [James Lentjes](..//playerfiles//JamesLentjes_cleaned.md)             |
-| [Elia Canakaivata](..//playerfiles//EliaCanakaivata_cleaned.md)                 |      99.73 |                59 |       21 |                16 |      82.39 | [Folau Fakatava](..//playerfiles//FolauFakatava_cleaned.md)           |
-| [Peni Matawalu](..//playerfiles//PeniMatawalu_cleaned.md)                       |     102.27 |                69 |       22 |                70 |     102.78 | [Cameron Millar](..//playerfiles//CameronMillar_cleaned.md)           |
-| [Teti Tela](..//playerfiles//TetiTela_cleaned.md)                               |     106.33 |                76 |       23 |                16 |      82.23 | [Jake Te Hiwi](..//playerfiles//JakeTeHiwi_cleaned.md)                |
+| Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |
+|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|
+| Emosi Tuqiri             |     101.97 |                55 |        1 |                89 |     110.63 | Ethan de Groot      |
+| Tevita Ikanivere         |     118.65 |                94 |        2 |                13 |      82.12 | Leni Apisai         |
+| Samuela Tawake           |      94.51 |                47 |        3 |                82 |     105.6  | Jermaine Ainsley    |
+| Isoa Nasilasila          |     128.63 |                97 |        4 |                99 |     153.64 | Pari Pari Parkinson |
+| Ratu Rotuisolia          |      92.27 |                38 |        5 |                69 |     101.96 | Josh Dickson        |
+| Joseva Tamani            |      84.59 |                16 |        6 |                14 |      82.52 | Sean Withy          |
+| Kitione Salawa           |      74.88 |                 6 |        7 |                89 |     115.79 | Billy Harmon        |
+| Ratu Meli Derenalagi     |     112.75 |                86 |        8 |                 2 |      61.5  | Hugh Renton         |
+| Frank Lomani             |      87.42 |                24 |        9 |                57 |      98.02 | Aaron Smith         |
+| Kalaveti Ravouvou        |     146.81 |                99 |       12 |                19 |      84.91 | Thomas Umaga-Jensen |
+| Apisalome Vota           |     121.49 |                92 |       13 |                13 |      80.73 | Josh Timu           |
+| Iosefo Masi              |     100.75 |                64 |       14 |                94 |     124.61 | Martin Bogado       |
+| Selestino Ravutaumada    |      92.2  |                40 |       15 |                17 |      82.03 | Sam Gilbert         |
+| Meli Tuni                |     104.71 |                80 |       17 |                71 |      99.93 | Dan Lienert-Brown   |
+| Jone Koroiduadua         |      99    |                59 |       18 |                79 |     100.06 | Saula Mau           |
+| Sorovakatini Tuifagalele |      84.22 |                22 |       19 |                25 |      87.95 | Will Tucker         |
+| Vilive Miramira          |      88.13 |                22 |       20 |                56 |      97.6  | James Lentjes       |
+| Elia Canakaivata         |      99.73 |                59 |       21 |                16 |      82.39 | Folau Fakatava      |
+| Peni Matawalu            |     102.27 |                69 |       22 |                70 |     102.78 | Cameron Millar      |
+| Teti Tela                |     106.33 |                76 |       23 |                16 |      82.23 | Jake Te Hiwi        |
 

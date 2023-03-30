@@ -1,11 +1,53 @@
 ---  
-title: Japan Rugby League One Division 3 Status  
-date:   
+title: "Japan Rugby League One Division 3 Status"  
+date: 2023-03-30 6:00:00 -0500  
 categories: model review projection  
+layout: article  
+aside:  
+    toc: true  
 ---
-# Japan Rugby League One Division 3 Status
+# Standings
 
-## Completed Match Review
+## Current Standings
+
+
+| Club                            |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Kyuden Voltex                   |      8 |                  142 |                     0 |                  6 |                   38 |
+| NTT Docomo Red Hurricanes Osaka |      6 |                  179 |                     1 |                  6 |                   31 |
+| Kurita Water Gush               |      3 |                  -35 |                     3 |                  5 |                   20 |
+| Skyactivs Hiroshima             |      2 |                 -131 |                     1 |                  3 |                   12 |
+| Chugoku Red Regulions           |      1 |                 -155 |                     0 |                  2 |                    6 |
+
+
+
+## Projected Remaining Table
+
+
+| Club                            |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| NTT Docomo Red Hurricanes Osaka |    3   |                 76.8 |                   0   |                2.6 |                 14.6 |
+| Kurita Water Gush               |    1.7 |                 -2.6 |                   0.2 |                1.5 |                  8.7 |
+| Skyactivs Hiroshima             |    1.1 |                 -8.4 |                   0.5 |                1.6 |                  6.8 |
+| Kyuden Voltex                   |    1   |                 -3.4 |                   0.1 |                1   |                  5   |
+| Chugoku Red Regulions           |    0.1 |                -62.4 |                   0.3 |                0.8 |                  1.5 |
+
+
+
+## Projected Total Table
+
+
+| Club                            |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| NTT Docomo Red Hurricanes Osaka |    9   |                255.8 |                   1   |                8.6 |                 45.6 |
+| Kyuden Voltex                   |    9   |                138.6 |                   0.1 |                7   |                 43   |
+| Kurita Water Gush               |    4.7 |                -37.6 |                   3.2 |                6.5 |                 28.7 |
+| Skyactivs Hiroshima             |    3.1 |               -139.4 |                   1.5 |                4.6 |                 18.8 |
+| Chugoku Red Regulions           |    1.1 |               -217.4 |                   0.3 |                2.8 |                  7.5 |
+
+
+
+# Completed Match Review
 
 
 | Match                                                                 |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
@@ -34,41 +76,11 @@ categories: model review projection
 | Correct Winner |       - | 84.2% | 84.2% | 84.2% |
 
 
-## Current Standings
+# Future Predictions
 
+## Week 13
 
-| Club                            |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Kyuden Voltex                   |      8 |                  142 |                     0 |                  6 |                   38 |
-| NTT Docomo Red Hurricanes Osaka |      6 |                  179 |                     1 |                  6 |                   31 |
-| Kurita Water Gush               |      3 |                  -35 |                     3 |                  5 |                   20 |
-| Skyactivs Hiroshima             |      2 |                 -131 |                     1 |                  3 |                   12 |
-| Chugoku Red Regulions           |      1 |                 -155 |                     0 |                  2 |                    6 |
-## Projected Remaining Table
-
-
-| Club                            |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| NTT Docomo Red Hurricanes Osaka |    3   |                 77.3 |                   0   |                2.7 |                 14.7 |
-| Kurita Water Gush               |    1.7 |                 -2.1 |                   0.2 |                1.5 |                  8.8 |
-| Skyactivs Hiroshima             |    1.2 |                 -8.1 |                   0.5 |                1.6 |                  6.9 |
-| Kyuden Voltex                   |    0.9 |                 -4.7 |                   0.1 |                1   |                  4.9 |
-| Chugoku Red Regulions           |    0.1 |                -62.4 |                   0.3 |                0.8 |                  1.4 |
-## Total Table
-
-
-| Club                            |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| NTT Docomo Red Hurricanes Osaka |    9   |                256.3 |                   1   |                8.7 |                 45.7 |
-| Kyuden Voltex                   |    8.9 |                137.3 |                   0.1 |                7   |                 42.9 |
-| Kurita Water Gush               |    4.7 |                -37.1 |                   3.2 |                6.5 |                 28.8 |
-| Skyactivs Hiroshima             |    3.2 |               -139.1 |                   1.5 |                4.6 |                 18.9 |
-| Chugoku Red Regulions           |    1.1 |               -217.4 |                   0.3 |                2.8 |                  7.4 |
-## Future Club-Level Match Predictions
-
-### Week 13
-
-#### NTT Docomo Red Hurricanes Osaka V Kurita Water Gush on 2023/04/01
+### NTT Docomo Red Hurricanes Osaka V Kurita Water Gush on 2023/04/01
 
 
 Average Margin: NTT Docomo Red Hurricanes Osaka by 25.9
@@ -79,12 +91,12 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 25.9
 <img src="plots/spreads_NTT Docomo Red Hurricanes Osaka_V_Kurita Water Gush_13.png" width="32%" />
 </p>
 
-### Week 14
+## Week 14
 
-#### Chugoku Red Regulions V NTT Docomo Red Hurricanes Osaka on 2023/04/08
+### Chugoku Red Regulions V NTT Docomo Red Hurricanes Osaka on 2023/04/08
 
 
-Average Margin: NTT Docomo Red Hurricanes Osaka by 32.4
+Average Margin: NTT Docomo Red Hurricanes Osaka by 32.5
 
 <p float="left">
 <img src="plots/performances_Chugoku Red Regulions_V_NTT Docomo Red Hurricanes Osaka_14.png" width="32%" />
@@ -92,10 +104,10 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 32.4
 <img src="plots/spreads_Chugoku Red Regulions_V_NTT Docomo Red Hurricanes Osaka_14.png" width="32%" />
 </p>
 
-#### Kurita Water Gush V Skyactivs Hiroshima on 2023/04/08
+### Kurita Water Gush V Skyactivs Hiroshima on 2023/04/08
 
 
-Average Margin: Kurita Water Gush by 7.0
+Average Margin: Kurita Water Gush by 6.5
 
 <p float="left">
 <img src="plots/performances_Kurita Water Gush_V_Skyactivs Hiroshima_14.png" width="32%" />
@@ -103,12 +115,12 @@ Average Margin: Kurita Water Gush by 7.0
 <img src="plots/spreads_Kurita Water Gush_V_Skyactivs Hiroshima_14.png" width="32%" />
 </p>
 
-### Week 15
+## Week 15
 
-#### NTT Docomo Red Hurricanes Osaka V Kyuden Voltex on 2023/04/15
+### NTT Docomo Red Hurricanes Osaka V Kyuden Voltex on 2023/04/15
 
 
-Average Margin: NTT Docomo Red Hurricanes Osaka by 19.0
+Average Margin: NTT Docomo Red Hurricanes Osaka by 18.4
 
 <p float="left">
 <img src="plots/performances_NTT Docomo Red Hurricanes Osaka_V_Kyuden Voltex_15.png" width="32%" />
@@ -116,7 +128,7 @@ Average Margin: NTT Docomo Red Hurricanes Osaka by 19.0
 <img src="plots/spreads_NTT Docomo Red Hurricanes Osaka_V_Kyuden Voltex_15.png" width="32%" />
 </p>
 
-#### Skyactivs Hiroshima V Chugoku Red Regulions on 2023/04/15
+### Skyactivs Hiroshima V Chugoku Red Regulions on 2023/04/15
 
 
 Average Margin: Skyactivs Hiroshima by 13.2
@@ -127,12 +139,12 @@ Average Margin: Skyactivs Hiroshima by 13.2
 <img src="plots/spreads_Skyactivs Hiroshima_V_Chugoku Red Regulions_15.png" width="32%" />
 </p>
 
-### Week 16
+## Week 16
 
-#### Kyuden Voltex V Skyactivs Hiroshima on 2023/04/22
+### Kyuden Voltex V Skyactivs Hiroshima on 2023/04/22
 
 
-Average Margin: Kyuden Voltex by 14.3
+Average Margin: Kyuden Voltex by 15.0
 
 <p float="left">
 <img src="plots/performances_Kyuden Voltex_V_Skyactivs Hiroshima_16.png" width="32%" />
@@ -140,10 +152,10 @@ Average Margin: Kyuden Voltex by 14.3
 <img src="plots/spreads_Kyuden Voltex_V_Skyactivs Hiroshima_16.png" width="32%" />
 </p>
 
-#### Kurita Water Gush V Chugoku Red Regulions on 2023/04/22
+### Kurita Water Gush V Chugoku Red Regulions on 2023/04/22
 
 
-Average Margin: Kurita Water Gush by 16.9
+Average Margin: Kurita Water Gush by 16.7
 
 <p float="left">
 <img src="plots/performances_Kurita Water Gush_V_Chugoku Red Regulions_16.png" width="32%" />

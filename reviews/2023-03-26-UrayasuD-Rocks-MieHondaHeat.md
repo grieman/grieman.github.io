@@ -41,29 +41,29 @@ Urayasu D-Rocks by 14.5 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                  |   Home Minutes |
-|---------------:|:-------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------------------------------------------------------|---------------:|
-|             33 | [Tatsuhiko Tsurukawa](..//playerfiles//TatsuhikoTsurukawa_cleaned.md)    |     100.5  |                68 |        1 |                55 |      96.52 | [Kabuto Anoku](..//playerfiles//KabutoAnoku_cleaned.md)                      |             60 |
-|             61 | [Lee Seung Hyok](..//playerfiles//LeeSeungHyok_cleaned.md)               |     101.82 |                72 |        2 |                79 |     106.76 | [Shokei Kin](..//playerfiles//ShokeiKin_cleaned.md)                          |             60 |
-|             61 | [Taiki Yoshioka](..//playerfiles//TaikiYoshioka_cleaned.md)              |     100.24 |                67 |        3 |                28 |      89.46 | [Syuhei Takeuchi](..//playerfiles//SyuheiTakeuchi_cleaned.md)                |             76 |
-|             61 | [Viliami Vuli](..//playerfiles//ViliamiVuli_cleaned.md)                  |      96.36 |               nan |        4 |                50 |      95.74 | [Ryeongji Kim](..//playerfiles//RyeongjiKim_cleaned.md)                      |             76 |
-|             80 | [Francois John Mostert](..//playerfiles//FrancoisJohnMostert_cleaned.md) |     114.48 |                88 |        5 |                87 |     113.81 | [Lourens Jacobus Erasmus](..//playerfiles//LourensJacobusErasmus_cleaned.md) |             80 |
-|             80 | [Ryota Kobayashi](..//playerfiles//RyotaKobayashi_cleaned.md)            |     100.21 |                63 |        6 |                88 |     114.99 | [Jimmy Tupou](..//playerfiles//JimmyTupou_cleaned.md)                        |             80 |
-|             80 | [Ryo Furuta](..//playerfiles//RyoFuruta_cleaned.md)                      |      98.65 |                58 |        7 |                88 |     115.37 | [Tetta Shigemitsu](..//playerfiles//TettaShigemitsu_cleaned.md)              |             80 |
-|             65 | [Pablo Matera](..//playerfiles//PabloMatera_cleaned.md)                  |     110.44 |                83 |        8 |                86 |     112.44 | [Liam Gill](..//playerfiles//LiamGill_cleaned.md)                            |             67 |
-|             65 | [Kenta Yamaji](..//playerfiles//KentaYamaji_cleaned.md)                  |     104.55 |                75 |        9 |                88 |     113.41 | [Ren Iinuma](..//playerfiles//RenIinuma_cleaned.md)                          |             55 |
-|             80 | [Gwangtee Oh](..//playerfiles//GwangteeOh_cleaned.md)                    |     120.54 |                90 |       10 |                85 |     115.04 | [Otere Black](..//playerfiles//OtereBlack_cleaned.md)                        |             55 |
-|             65 | [Naoki Motomura](..//playerfiles//NaokiMotomura_cleaned.md)              |     118.38 |                90 |       11 |                97 |     132.44 | [Kai Ishii](..//playerfiles//KaiIshii_cleaned.md)                            |             80 |
-|             80 | [Fraser Quirk](..//playerfiles//FraserQuirk_cleaned.md)                  |     110.68 |                82 |       12 |                73 |     105    | [Samisoni Ahokovi Tua](..//playerfiles//SamisoniAhokoviTua_cleaned.md)       |             71 |
-|             80 | [Clinton Knox](..//playerfiles//ClintonKnox_cleaned.md)                  |      86.27 |                24 |       13 |                95 |     125.42 | [Shane Edwards Gates](..//playerfiles//ShaneEdwardsGates_cleaned.md)         |             80 |
-|             80 | [Yoshizaku Fujita](..//playerfiles//YoshizakuFujita_cleaned.md)          |     114.44 |                87 |       14 |                97 |     133.61 | [Larry Steven Sulunga](..//playerfiles//LarryStevenSulunga_cleaned.md)       |             80 |
-|             80 | [Thomas Banks](..//playerfiles//ThomasBanks_cleaned.md)                  |     112.94 |                86 |       15 |                98 |     135.62 | [Takuhei Yasuda](..//playerfiles//TakuheiYasuda_cleaned.md)                  |             80 |
-|             47 | [Takumi Fuji](..//playerfiles//TakumiFuji_cleaned.md)                    |      69.18 |                 3 |       16 |                75 |     105.41 | [Hayden Cripps](..//playerfiles//HaydenCripps_cleaned.md)                    |             25 |
-|             19 | [Matthys Basson](..//playerfiles//MatthysBasson_cleaned.md)              |     101.56 |                58 |       17 |                86 |     110.93 | [Greig Laidlaw](..//playerfiles//GreigLaidlaw_cleaned.md)                    |             25 |
-|             19 | [Tateo Kanai](..//playerfiles//TateoKanai_cleaned.md)                    |     150.98 |                99 |       18 |                24 |      90.53 | [Kazuma Nishikawa](..//playerfiles//KazumaNishikawa_cleaned.md)              |             20 |
-|             19 | [Masaki Kondo](..//playerfiles//MasakiKondo_cleaned.md)                  |     101.04 |               nan |       19 |                75 |     107.97 | [Ryuji Fujimura](..//playerfiles//RyujiFujimura_cleaned.md)                  |             20 |
-|             15 | [Kosuke Hattori](..//playerfiles//KosukeHattori_cleaned.md)              |      97.57 |               nan |       20 |                90 |     119.22 | [Shingo Nakashima](..//playerfiles//ShingoNakashima_cleaned.md)              |             13 |
-|             15 | [Shogo Nezuka](..//playerfiles//ShogoNezuka_cleaned.md)                  |      96.75 |                34 |       21 |                99 |     145.38 | [Tone Tukufuka](..//playerfiles//ToneTukufuka_cleaned.md)                    |              9 |
-|             15 | [Dawid Kellerman](..//playerfiles//DawidKellerman_cleaned.md)            |      94.46 |                45 |       22 |                96 |     127.86 | [Yuta Kojima](..//playerfiles//YutaKojima_cleaned.md)                        |              4 |
-|            nan | nan                                                                      |     nan    |               nan |       23 |               nan |      95    | [Hidetomo Nabeshima](..//playerfiles//HidetomoNabeshima_cleaned.md)          |              4 |
+|   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
+|             33 | Tatsuhiko Tsurukawa   |     100.5  |                68 |        1 |                55 |      96.52 | Kabuto Anoku            |             60 |
+|             61 | Lee Seung Hyok        |     101.82 |                72 |        2 |                79 |     106.76 | Shokei Kin              |             60 |
+|             61 | Taiki Yoshioka        |     100.24 |                67 |        3 |                28 |      89.46 | Syuhei Takeuchi         |             76 |
+|             61 | Viliami Vuli          |      96.36 |               nan |        4 |                50 |      95.74 | Ryeongji Kim            |             76 |
+|             80 | Francois John Mostert |     114.48 |                88 |        5 |                87 |     113.81 | Lourens Jacobus Erasmus |             80 |
+|             80 | Ryota Kobayashi       |     100.21 |                63 |        6 |                88 |     114.99 | Jimmy Tupou             |             80 |
+|             80 | Ryo Furuta            |      98.65 |                58 |        7 |                88 |     115.37 | Tetta Shigemitsu        |             80 |
+|             65 | Pablo Matera          |     110.44 |                83 |        8 |                86 |     112.44 | Liam Gill               |             67 |
+|             65 | Kenta Yamaji          |     104.55 |                75 |        9 |                88 |     113.41 | Ren Iinuma              |             55 |
+|             80 | Gwangtee Oh           |     120.54 |                90 |       10 |                85 |     115.04 | Otere Black             |             55 |
+|             65 | Naoki Motomura        |     118.38 |                90 |       11 |                97 |     132.44 | Kai Ishii               |             80 |
+|             80 | Fraser Quirk          |     110.68 |                82 |       12 |                73 |     105    | Samisoni Ahokovi Tua    |             71 |
+|             80 | Clinton Knox          |      86.27 |                24 |       13 |                95 |     125.42 | Shane Edwards Gates     |             80 |
+|             80 | Yoshizaku Fujita      |     114.44 |                87 |       14 |                97 |     133.61 | Larry Steven Sulunga    |             80 |
+|             80 | Thomas Banks          |     112.94 |                86 |       15 |                98 |     135.62 | Takuhei Yasuda          |             80 |
+|             47 | Takumi Fuji           |      69.18 |                 3 |       16 |                75 |     105.41 | Hayden Cripps           |             25 |
+|             19 | Matthys Basson        |     101.56 |                58 |       17 |                86 |     110.93 | Greig Laidlaw           |             25 |
+|             19 | Tateo Kanai           |     150.98 |                99 |       18 |                24 |      90.53 | Kazuma Nishikawa        |             20 |
+|             19 | Masaki Kondo          |     101.04 |               nan |       19 |                75 |     107.97 | Ryuji Fujimura          |             20 |
+|             15 | Kosuke Hattori        |      97.57 |               nan |       20 |                90 |     119.22 | Shingo Nakashima        |             13 |
+|             15 | Shogo Nezuka          |      96.75 |                34 |       21 |                99 |     145.38 | Tone Tukufuka           |              9 |
+|             15 | Dawid Kellerman       |      94.46 |                45 |       22 |                96 |     127.86 | Yuta Kojima             |              4 |
+|            nan | nan                   |     nan    |               nan |       23 |               nan |      95    | Hidetomo Nabeshima      |              4 |
 

@@ -41,29 +41,29 @@ Kyuden Voltex by 21.7 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                             |   Home Minutes |
-|---------------:|:--------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------------------------------------------|---------------:|
-|             50 | [Ryosuke Kagoshima](..//playerfiles//RyosukeKagoshima_cleaned.md)   |      90.36 |               nan |        1 |                 7 |      78.04 | [Kojiro Arito](..//playerfiles//KojiroArito_cleaned.md)                 |             62 |
-|             40 | [Hayato Yoshida](..//playerfiles//HayatoYoshida_cleaned.md)         |     107.16 |               nan |        2 |                 5 |      73.45 | [Yuuki Asai](..//playerfiles//YuukiAsai_cleaned.md)                     |             47 |
-|             57 | [Shinpei Kamata](..//playerfiles//ShinpeiKamata_cleaned.md)         |      94.17 |                53 |        3 |                 6 |      75.79 | [Saiya Kitajima](..//playerfiles//SaiyaKitajima_cleaned.md)             |             62 |
-|             80 | [Ray Tatafu](..//playerfiles//RayTatafu_cleaned.md)                 |      90.73 |                39 |        4 |                 0 |      43.32 | [Taro Nishikawa](..//playerfiles//TaroNishikawa_cleaned.md)             |             80 |
-|             50 | [Tomotaka Ishimatsu](..//playerfiles//TomotakaIshimatsu_cleaned.md) |      85.61 |                21 |        5 |                61 |      99.29 | [Tomonari Aoki](..//playerfiles//TomonariAoki_cleaned.md)               |             71 |
-|             80 | [Michiro Takai](..//playerfiles//MichiroTakai_cleaned.md)           |      65.66 |                 2 |        6 |                10 |      79.51 | [Shintaro Matsuda](..//playerfiles//ShintaroMatsuda_cleaned.md)         |             48 |
-|             80 | [Colby Fainga'a](..//playerfiles//ColbyFainga'a_cleaned.md)         |      89.59 |                32 |        7 |                 2 |      58.88 | [Kouta Moriyama](..//playerfiles//KoutaMoriyama_cleaned.md)             |             80 |
-|             62 | [Walker Alex Takuya](..//playerfiles//WalkerAlexTakuya_cleaned.md)  |      86.37 |                22 |        8 |                30 |      90    | [Ed Quirk](..//playerfiles//EdQuirk_cleaned.md)                         |             80 |
-|             62 | [Shunta Takenouchi](..//playerfiles//ShuntaTakenouchi_cleaned.md)   |      92.16 |                40 |        9 |               nan |      65.67 | [Shohei Tsukamoto](..//playerfiles//ShoheiTsukamoto_cleaned.md)         |             66 |
-|             80 | [Phil Burleigh](..//playerfiles//PhilBurleigh_cleaned.md)           |      97.51 |                52 |       10 |                 5 |      72.9  | [Hashizo Yoshida](..//playerfiles//HashizoYoshida_cleaned.md)           |             80 |
-|             80 | [Ren Hagiwara](..//playerfiles//RenHagiwara_cleaned.md)             |      78.09 |                10 |       11 |                26 |      87.94 | [Hirofumi Higashikawa](..//playerfiles//HirofumiHigashikawa_cleaned.md) |             80 |
-|             40 | [Hayato Kojyo](..//playerfiles//HayatoKojyo_cleaned.md)             |      94.32 |                45 |       12 |                 2 |      65.93 | [Makoto Torikai](..//playerfiles//MakotoTorikai_cleaned.md)             |             80 |
-|             80 | [Sam Vaka](..//playerfiles//SamVaka_cleaned.md)                     |      92.9  |                41 |       13 |                17 |      80.84 | [Riki Yamaguchi](..//playerfiles//RikiYamaguchi_cleaned.md)             |             62 |
-|             66 | [Yasunari Isoda](..//playerfiles//YasunariIsoda_cleaned.md)         |      82.3  |                14 |       14 |                11 |      79.19 | [Kentaro Fujii](..//playerfiles//KentaroFujii_cleaned.md)               |             80 |
-|             80 | [Keito Honda](..//playerfiles//KeitoHonda_cleaned.md)               |      85.25 |                22 |       15 |                 4 |      67.1  | [Masahiro Nakano](..//playerfiles//MasahiroNakano_cleaned.md)           |             50 |
-|             40 | [Genki Nakamura](..//playerfiles//GenkiNakamura_cleaned.md)         |      82.88 |               nan |       16 |                 8 |      79.79 | [Kentaro Iwanaga](..//playerfiles//KentaroIwanaga_cleaned.md)           |             33 |
-|             40 | [Kichi Uezato](..//playerfiles//KichiUezato_cleaned.md)             |      99.03 |                75 |       17 |                 3 |      68.56 | [Shun Kawaguchi](..//playerfiles//ShunKawaguchi_cleaned.md)             |             32 |
-|             30 | [Kazuto Tokunaga](..//playerfiles//KazutoTokunaga_cleaned.md)       |     121.28 |               nan |       18 |                 8 |      72.75 | [Motoki Arai](..//playerfiles//MotokiArai_cleaned.md)                   |             30 |
-|             30 | [Yoshihiro Sononaka](..//playerfiles//YoshihiroSononaka_cleaned.md) |      78.56 |               nan |       19 |                 4 |      71.08 | [Toshiyuki Ooki](..//playerfiles//ToshiyukiOoki_cleaned.md)             |             18 |
-|             23 | [Yasuo Saruwatari](..//playerfiles//YasuoSaruwatari_cleaned.md)     |      80.75 |                11 |       20 |                16 |      84.71 | [Kento Miyata](..//playerfiles//KentoMiyata_cleaned.md)                 |             18 |
-|             18 | [Ken Nakashima](..//playerfiles//KenNakashima_cleaned.md)           |      92.88 |                42 |       21 |                 9 |      76.89 | [Shinya Hirayama](..//playerfiles//ShinyaHirayama_cleaned.md)           |             18 |
-|             18 | [Kotaro Komori](..//playerfiles//KotaroKomori_cleaned.md)           |      81.93 |               nan |       22 |                27 |      87.71 | [Atsushi Mizofuchi](..//playerfiles//AtsushiMizofuchi_cleaned.md)       |             14 |
-|             14 | [Akihito Yamada](..//playerfiles//AkihitoYamada_cleaned.md)         |      95.5  |               nan |       23 |               nan |      65.02 | [Kennta Fujisaki](..//playerfiles//KenntaFujisaki_cleaned.md)           |              9 |
+|   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
+|---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
+|             50 | Ryosuke Kagoshima  |      90.36 |               nan |        1 |                 7 |      78.04 | Kojiro Arito         |             62 |
+|             40 | Hayato Yoshida     |     107.16 |               nan |        2 |                 5 |      73.45 | Yuuki Asai           |             47 |
+|             57 | Shinpei Kamata     |      94.17 |                53 |        3 |                 6 |      75.79 | Saiya Kitajima       |             62 |
+|             80 | Ray Tatafu         |      90.73 |                39 |        4 |                 0 |      43.32 | Taro Nishikawa       |             80 |
+|             50 | Tomotaka Ishimatsu |      85.61 |                21 |        5 |                61 |      99.29 | Tomonari Aoki        |             71 |
+|             80 | Michiro Takai      |      65.66 |                 2 |        6 |                10 |      79.51 | Shintaro Matsuda     |             48 |
+|             80 | Colby Fainga'a     |      89.59 |                32 |        7 |                 2 |      58.88 | Kouta Moriyama       |             80 |
+|             62 | Walker Alex Takuya |      86.37 |                22 |        8 |                30 |      90    | Ed Quirk             |             80 |
+|             62 | Shunta Takenouchi  |      92.16 |                40 |        9 |               nan |      65.67 | Shohei Tsukamoto     |             66 |
+|             80 | Phil Burleigh      |      97.51 |                52 |       10 |                 5 |      72.9  | Hashizo Yoshida      |             80 |
+|             80 | Ren Hagiwara       |      78.09 |                10 |       11 |                26 |      87.94 | Hirofumi Higashikawa |             80 |
+|             40 | Hayato Kojyo       |      94.32 |                45 |       12 |                 2 |      65.93 | Makoto Torikai       |             80 |
+|             80 | Sam Vaka           |      92.9  |                41 |       13 |                17 |      80.84 | Riki Yamaguchi       |             62 |
+|             66 | Yasunari Isoda     |      82.3  |                14 |       14 |                11 |      79.19 | Kentaro Fujii        |             80 |
+|             80 | Keito Honda        |      85.25 |                22 |       15 |                 4 |      67.1  | Masahiro Nakano      |             50 |
+|             40 | Genki Nakamura     |      82.88 |               nan |       16 |                 8 |      79.79 | Kentaro Iwanaga      |             33 |
+|             40 | Kichi Uezato       |      99.03 |                75 |       17 |                 3 |      68.56 | Shun Kawaguchi       |             32 |
+|             30 | Kazuto Tokunaga    |     121.28 |               nan |       18 |                 8 |      72.75 | Motoki Arai          |             30 |
+|             30 | Yoshihiro Sononaka |      78.56 |               nan |       19 |                 4 |      71.08 | Toshiyuki Ooki       |             18 |
+|             23 | Yasuo Saruwatari   |      80.75 |                11 |       20 |                16 |      84.71 | Kento Miyata         |             18 |
+|             18 | Ken Nakashima      |      92.88 |                42 |       21 |                 9 |      76.89 | Shinya Hirayama      |             18 |
+|             18 | Kotaro Komori      |      81.93 |               nan |       22 |                27 |      87.71 | Atsushi Mizofuchi    |             14 |
+|             14 | Akihito Yamada     |      95.5  |               nan |       23 |               nan |      65.02 | Kennta Fujisaki      |              9 |
 

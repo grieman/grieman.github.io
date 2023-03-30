@@ -1,11 +1,28 @@
 ---  
-title: Japan Rugby League One Division 2 Status  
-date:   
+title: "Japan Rugby League One Division 2 Status"  
+date: 2023-03-30 6:00:00 -0500  
 categories: model review projection  
+layout: article  
+aside:  
+    toc: true  
 ---
-# Japan Rugby League One Division 2 Status
+# Standings
 
-## Completed Match Review
+## Current Standings
+
+
+| Club                             |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:---------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Urayasu D-Rocks                  |      9 |                  362 |                     0 |                  8 |                   44 |
+| Mie Honda Heat                   |      7 |                  125 |                     0 |                  6 |                   34 |
+| Toyota Industries Shuttles Aichi |      3 |                  -49 |                     0 |                  3 |                   15 |
+| Kamaishi Seawaves                |      1 |                 -262 |                     1 |                  6 |                   11 |
+| Hino Red Dolphins                |      1 |                    4 |                     1 |                  2 |                    7 |
+| Shimizu Blue Sharks              |      1 |                 -180 |                     0 |                  1 |                    5 |
+
+
+
+# Completed Match Review
 
 
 | Match                                                                |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
@@ -34,15 +51,3 @@ categories: model review projection
 | Average Error |       - | 23.4 | 22.7 | 17.8 |
 | Correct Winner |       - | 63.2% | 68.4% | 85.0% |
 
-
-## Current Standings
-
-
-| Club                             |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:---------------------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Urayasu D-Rocks                  |      9 |                  362 |                     0 |                  8 |                   44 |
-| Mie Honda Heat                   |      7 |                  125 |                     0 |                  6 |                   34 |
-| Toyota Industries Shuttles Aichi |      3 |                  -49 |                     0 |                  3 |                   15 |
-| Kamaishi Seawaves                |      1 |                 -262 |                     1 |                  6 |                   11 |
-| Hino Red Dolphins                |      1 |                    4 |                     1 |                  2 |                    7 |
-| Shimizu Blue Sharks              |      1 |                 -180 |                     0 |                  1 |                    5 |

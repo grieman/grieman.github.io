@@ -41,29 +41,29 @@ Clermont Auvergne by 1.5 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                                      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                        |   Home Minutes |
-|---------------:|:---------------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------------------------------------------------|---------------:|
-|             47 | [Wesley Tapueluelu](..//playerfiles//WesleyTapueluelu_cleaned.md)                |      98.95 |                71 |        1 |                56 |      96.75 | [Etienne Falgoux](..//playerfiles//EtienneFalgoux_cleaned.md)      |             66 |
-|             47 | [Motu Farao Matu'u](..//playerfiles//MotuFaraoMatu'u_cleaned.md)                 |      89.59 |                30 |        2 |                30 |      89.48 | [Étienne Fourcade](..//playerfiles//ÉtienneFourcade_cleaned.md)    |             55 |
-|             41 | [Marcel van der Merwe](..//playerfiles//MarcelvanderMerwe_cleaned.md)            |      87.17 |                21 |        3 |                45 |      92.53 | [Cristian Ojovan](..//playerfiles//CristianOjovan_cleaned.md)      |             55 |
-|             80 | [Retief Marais](..//playerfiles//RetiefMarais_cleaned.md)                        |      95.5  |                48 |        4 |                59 |      98.28 | [Thibault Lanen](..//playerfiles//ThibaultLanen_cleaned.md)        |             80 |
-|             41 | [Julien Delannoy](..//playerfiles//JulienDelannoy_cleaned.md)                    |      95.94 |                51 |        5 |                17 |      83.27 | [Tomas Lavanini](..//playerfiles//TomasLavanini_cleaned.md)        |             70 |
-|             80 | [Esteban Abadie](..//playerfiles//EstebanAbadie_cleaned.md)                      |      84.62 |                16 |        6 |                47 |      94.61 | [Arthur Iturria](..//playerfiles//ArthurIturria_cleaned.md)        |             57 |
-|             80 | [Saïd Hireche](..//playerfiles//SaïdHireche_cleaned.md)                          |      93.97 |                45 |        7 |                43 |      90.8  | [Fritz Lee](..//playerfiles//FritzLee_cleaned.md)                  |             80 |
-|             41 | [Mesulame Kunavula](..//playerfiles//MesulameKunavula_cleaned.md)                |      95.5  |                45 |        8 |               nan |      96.97 | [Lucas Dessaigne](..//playerfiles//LucasDessaigne_cleaned.md)      |             80 |
-|             51 | [Leo Carbonneau](..//playerfiles//LeoCarbonneau_cleaned.md)                      |      74.79 |                 7 |        9 |                57 |      95.39 | [Sebastien Bézy](..//playerfiles//SebastienBézy_cleaned.md)        |             55 |
-|             80 | [Stuart Olding](..//playerfiles//StuartOlding_cleaned.md)                        |      95    |               nan |       10 |                35 |      91.52 | [Anthony Belleau](..//playerfiles//AnthonyBelleau_cleaned.md)      |             66 |
-|             80 | [Axel Muller](..//playerfiles//AxelMuller_cleaned.md)                            |      86.24 |                21 |       11 |                19 |      84.68 | [Alivereti Raka](..//playerfiles//AliveretiRaka_cleaned.md)        |             80 |
-|             41 | [Setareki Bituniyata](..//playerfiles//SetarekiBituniyata_cleaned.md)            |      95.69 |                49 |       12 |                41 |      92.89 | [George Moala](..//playerfiles//GeorgeMoala_cleaned.md)            |             80 |
-|             80 | [Setariki Tuicuvu](..//playerfiles//SetarikiTuicuvu_cleaned.md)                  |      94.23 |                45 |       13 |               nan |      95    | [Julien Heriteau](..//playerfiles//JulienHeriteau_cleaned.md)      |             60 |
-|             80 | [Arthur Bonneval](..//playerfiles//ArthurBonneval_cleaned.md)                    |      94    |                45 |       14 |                26 |      88.01 | [Bautista Delguy](..//playerfiles//BautistaDelguy_cleaned.md)      |             80 |
-|             22 | [Thomas Laranjeira](..//playerfiles//ThomasLaranjeira_cleaned.md)                |      98.84 |                57 |       15 |                55 |      98.51 | [Alex Newsome](..//playerfiles//AlexNewsome_cleaned.md)            |             80 |
-|             58 | [Sam Arnold](..//playerfiles//SamArnold_cleaned.md)                              |      91.89 |               nan |       16 |                42 |      95.33 | [Benjamin Boudou](..//playerfiles//BenjaminBoudou_cleaned.md)      |             25 |
-|             39 | [Mathis Ferté](..//playerfiles//MathisFerté_cleaned.md)                          |      73.8  |                 7 |       17 |                55 |      96.48 | [Rabah Slimani](..//playerfiles//RabahSlimani_cleaned.md)          |             25 |
-|             39 | [Lucas Martin Paulos Adler](..//playerfiles//LucasMartinPaulosAdler_cleaned.md)  |      92.95 |                41 |       18 |                50 |      95.41 | [Baptiste Jauneau](..//playerfiles//BaptisteJauneau_cleaned.md)    |             25 |
-|             39 | [Rodrigo Bruni](..//playerfiles//RodrigoBruni_cleaned.md)                        |      95    |               nan |       19 |                26 |      88.12 | [Loïc Godener](..//playerfiles//LoïcGodener_cleaned.md)            |             23 |
-|             39 | [Francisco Coria Marchetti](..//playerfiles//FranciscoCoriaMarchetti_cleaned.md) |      84.02 |                16 |       20 |                49 |      90.97 | [Cheikh Tiberghien](..//playerfiles//CheikhTiberghien_cleaned.md)  |             20 |
-|             29 | [Paul Abadie](..//playerfiles//PaulAbadie_cleaned.md)                            |      91.25 |                30 |       21 |                45 |      93.29 | [Jules Plisson](..//playerfiles//JulesPlisson_cleaned.md)          |             14 |
-|             33 | [Daniel Brennan](..//playerfiles//DanielBrennan_cleaned.md)                      |      92.5  |                39 |       22 |                42 |      94.93 | [Daniel Bibi Biziwu](..//playerfiles//DanielBibiBiziwu_cleaned.md) |             14 |
-|             33 | [Lucas Da Silva](..//playerfiles//LucasDaSilva_cleaned.md)                       |      96.25 |                61 |       23 |               nan |      93.55 | [Edward Annandale](..//playerfiles//EdwardAnnandale_cleaned.md)    |             10 |
+|   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
+|---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
+|             47 | Wesley Tapueluelu         |      98.95 |                71 |        1 |                56 |      96.75 | Etienne Falgoux    |             66 |
+|             47 | Motu Farao Matu'u         |      89.59 |                30 |        2 |                30 |      89.48 | Étienne Fourcade   |             55 |
+|             41 | Marcel van der Merwe      |      87.17 |                21 |        3 |                45 |      92.53 | Cristian Ojovan    |             55 |
+|             80 | Retief Marais             |      95.5  |                48 |        4 |                59 |      98.28 | Thibault Lanen     |             80 |
+|             41 | Julien Delannoy           |      95.94 |                51 |        5 |                17 |      83.27 | Tomas Lavanini     |             70 |
+|             80 | Esteban Abadie            |      84.62 |                16 |        6 |                47 |      94.61 | Arthur Iturria     |             57 |
+|             80 | Saïd Hireche              |      93.97 |                45 |        7 |                43 |      90.8  | Fritz Lee          |             80 |
+|             41 | Mesulame Kunavula         |      95.5  |                45 |        8 |               nan |      96.97 | Lucas Dessaigne    |             80 |
+|             51 | Leo Carbonneau            |      74.79 |                 7 |        9 |                57 |      95.39 | Sebastien Bézy     |             55 |
+|             80 | Stuart Olding             |      95    |               nan |       10 |                35 |      91.52 | Anthony Belleau    |             66 |
+|             80 | Axel Muller               |      86.24 |                21 |       11 |                19 |      84.68 | Alivereti Raka     |             80 |
+|             41 | Setareki Bituniyata       |      95.69 |                49 |       12 |                41 |      92.89 | George Moala       |             80 |
+|             80 | Setariki Tuicuvu          |      94.23 |                45 |       13 |               nan |      95    | Julien Heriteau    |             60 |
+|             80 | Arthur Bonneval           |      94    |                45 |       14 |                26 |      88.01 | Bautista Delguy    |             80 |
+|             22 | Thomas Laranjeira         |      98.84 |                57 |       15 |                55 |      98.51 | Alex Newsome       |             80 |
+|             58 | Sam Arnold                |      91.89 |               nan |       16 |                42 |      95.33 | Benjamin Boudou    |             25 |
+|             39 | Mathis Ferté              |      73.8  |                 7 |       17 |                55 |      96.48 | Rabah Slimani      |             25 |
+|             39 | Lucas Martin Paulos Adler |      92.95 |                41 |       18 |                50 |      95.41 | Baptiste Jauneau   |             25 |
+|             39 | Rodrigo Bruni             |      95    |               nan |       19 |                26 |      88.12 | Loïc Godener       |             23 |
+|             39 | Francisco Coria Marchetti |      84.02 |                16 |       20 |                49 |      90.97 | Cheikh Tiberghien  |             20 |
+|             29 | Paul Abadie               |      91.25 |                30 |       21 |                45 |      93.29 | Jules Plisson      |             14 |
+|             33 | Daniel Brennan            |      92.5  |                39 |       22 |                42 |      94.93 | Daniel Bibi Biziwu |             14 |
+|             33 | Lucas Da Silva            |      96.25 |                61 |       23 |               nan |      93.55 | Edward Annandale   |             10 |
 

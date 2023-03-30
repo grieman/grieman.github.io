@@ -41,29 +41,29 @@ Bedford by 13.9 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                     |   Home Minutes |
-|---------------:|:--------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------------------------------------------------------------|---------------:|
-|             63 | [Joey Conway](..//playerfiles//JoeyConway_cleaned.md)         |      92.02 |                37 |        1 |                50 |      95.13 | [Aniseko Sio](..//playerfiles//AnisekoSio_cleaned.md)                           |             54 |
-|             63 | [James Fish](..//playerfiles//JamesFish_cleaned.md)           |      94.43 |                48 |        2 |                64 |      98.73 | [Harry Clayton](..//playerfiles//HarryClayton_cleaned.md)                       |             63 |
-|             49 | [Ed Prowse](..//playerfiles//EdProwse_cleaned.md)             |     109.25 |                87 |        3 |                29 |      91.7  | [Xavier Valentine](..//playerfiles//XavierValentine_cleaned.md)                 |             54 |
-|             63 | [Robin Williams](..//playerfiles//RobinWilliams_cleaned.md)   |     111.85 |                86 |        4 |                81 |     108.84 | [Callum Allen](..//playerfiles//CallumAllen_cleaned.md)                         |             63 |
-|             80 | [Tom Lockett](..//playerfiles//TomLockett_cleaned.md)         |     103.26 |                76 |        5 |                63 |      99.94 | [Iosefa Danny Wayne Fiaola](..//playerfiles//IosefaDannyWayneFiaola_cleaned.md) |             80 |
-|             80 | [Luke Frost](..//playerfiles//LukeFrost_cleaned.md)           |     113.72 |                88 |        6 |                66 |     101.22 | [Carl Kirwan](..//playerfiles//CarlKirwan_cleaned.md)                           |             80 |
-|             30 | [Kayde Sylvester](..//playerfiles//KaydeSylvester_cleaned.md) |      84.05 |                16 |        7 |                92 |     120.37 | [Nathan Tweedy](..//playerfiles//NathanTweedy_cleaned.md)                       |             80 |
-|             80 | [Tui Uru](..//playerfiles//TuiUru_cleaned.md)                 |      87.25 |                23 |        8 |                26 |      88.13 | [George Cox](..//playerfiles//GeorgeCox_cleaned.md)                             |             80 |
-|             80 | [Alex Day](..//playerfiles//AlexDay_cleaned.md)               |     127.03 |                97 |        9 |                44 |      93.56 | [Micheal Stronge](..//playerfiles//MichealStronge_cleaned.md)                   |             63 |
-|             63 | [William Maisey](..//playerfiles//WilliamMaisey_cleaned.md)   |     146.08 |                98 |       10 |                19 |      85.31 | [Sam Hollingsworth](..//playerfiles//SamHollingsworth_cleaned.md)               |             63 |
-|             80 | [Dean Adamson](..//playerfiles//DeanAdamson_cleaned.md)       |      98.04 |                56 |       11 |                76 |     106.08 | [Tayie Ryan Olowofela](..//playerfiles//TayieRyanOlowofela_cleaned.md)          |             80 |
-|             80 | [Joel Matavesi](..//playerfiles//JoelMatavesi_cleaned.md)     |      91.97 |                38 |       12 |               nan |      95    | [Charlie Thacker](..//playerfiles//CharlieThacker_cleaned.md)                   |             80 |
-|             49 | [Jamie Elliott](..//playerfiles//JamieElliott_cleaned.md)     |      93.05 |                42 |       13 |                17 |      83.63 | [John Joseph Neville](..//playerfiles//JohnJosephNeville_cleaned.md)            |             80 |
-|             80 | [Sean French](..//playerfiles//SeanFrench_cleaned.md)         |      96.67 |                52 |       14 |                26 |      88.06 | [David Williams](..//playerfiles//DavidWilliams_cleaned.md)                     |             80 |
-|             63 | [George Hendy](..//playerfiles//GeorgeHendy_cleaned.md)       |      95.25 |                47 |       15 |                36 |      90.03 | [Jordan Kehinde Olowofela](..//playerfiles//JordanKehindeOlowofela_cleaned.md)  |             80 |
-|             50 | [Charles Rylands](..//playerfiles//CharlesRylands_cleaned.md) |      88.3  |                32 |       16 |                 3 |      70.47 | [Toby Williams](..//playerfiles//TobyWilliams_cleaned.md)                       |             26 |
-|             31 | [Corrie Barrett](..//playerfiles//CorrieBarrett_cleaned.md)   |      86.55 |                27 |       17 |                66 |     100.03 | [Dan Richardson](..//playerfiles//DanRichardson_cleaned.md)                     |             26 |
-|             31 | [Ethan Grayson](..//playerfiles//EthanGrayson_cleaned.md)     |     114.41 |                90 |       18 |                66 |     102.27 | [Jack Dickinson](..//playerfiles//JackDickinson_cleaned.md)                     |             17 |
-|             17 | [Monty Royston](..//playerfiles//MontyRoyston_cleaned.md)     |      97.73 |               nan |       19 |                40 |      94.27 | [Jack Shine](..//playerfiles//JackShine_cleaned.md)                             |             17 |
-|             17 | [Jake Garside](..//playerfiles//JakeGarside_cleaned.md)       |      94.99 |                47 |       20 |                30 |      89.3  | [Sam Edwards](..//playerfiles//SamEdwards_cleaned.md)                           |             17 |
-|             17 | [Jack Hughes](..//playerfiles//JackHughes_cleaned.md)         |     104.12 |                79 |       21 |                28 |      88.59 | [Morgan Bunting](..//playerfiles//MorganBunting_cleaned.md)                     |             17 |
-|             17 | [Emeka Atuanya](..//playerfiles//EmekaAtuanya_cleaned.md)     |      94.91 |               nan |       22 |               nan |     nan    | nan                                                                             |            nan |
-|             17 | [Louis Grimoldby](..//playerfiles//LouisGrimoldby_cleaned.md) |      90.56 |                33 |       23 |               nan |     nan    | nan                                                                             |            nan |
+|   Away Minutes | Away Player     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
+|---------------:|:----------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
+|             63 | Joey Conway     |      92.02 |                37 |        1 |                50 |      95.13 | Aniseko Sio               |             54 |
+|             63 | James Fish      |      94.43 |                48 |        2 |                64 |      98.73 | Harry Clayton             |             63 |
+|             49 | Ed Prowse       |     109.25 |                87 |        3 |                29 |      91.7  | Xavier Valentine          |             54 |
+|             63 | Robin Williams  |     111.85 |                86 |        4 |                81 |     108.84 | Callum Allen              |             63 |
+|             80 | Tom Lockett     |     103.26 |                76 |        5 |                63 |      99.94 | Iosefa Danny Wayne Fiaola |             80 |
+|             80 | Luke Frost      |     113.72 |                88 |        6 |                66 |     101.22 | Carl Kirwan               |             80 |
+|             30 | Kayde Sylvester |      84.05 |                16 |        7 |                92 |     120.37 | Nathan Tweedy             |             80 |
+|             80 | Tui Uru         |      87.25 |                23 |        8 |                26 |      88.13 | George Cox                |             80 |
+|             80 | Alex Day        |     127.03 |                97 |        9 |                44 |      93.56 | Micheal Stronge           |             63 |
+|             63 | William Maisey  |     146.08 |                98 |       10 |                19 |      85.31 | Sam Hollingsworth         |             63 |
+|             80 | Dean Adamson    |      98.04 |                56 |       11 |                76 |     106.08 | Tayie Ryan Olowofela      |             80 |
+|             80 | Joel Matavesi   |      91.97 |                38 |       12 |               nan |      95    | Charlie Thacker           |             80 |
+|             49 | Jamie Elliott   |      93.05 |                42 |       13 |                17 |      83.63 | John Joseph Neville       |             80 |
+|             80 | Sean French     |      96.67 |                52 |       14 |                26 |      88.06 | David Williams            |             80 |
+|             63 | George Hendy    |      95.25 |                47 |       15 |                36 |      90.03 | Jordan Kehinde Olowofela  |             80 |
+|             50 | Charles Rylands |      88.3  |                32 |       16 |                 3 |      70.47 | Toby Williams             |             26 |
+|             31 | Corrie Barrett  |      86.55 |                27 |       17 |                66 |     100.03 | Dan Richardson            |             26 |
+|             31 | Ethan Grayson   |     114.41 |                90 |       18 |                66 |     102.27 | Jack Dickinson            |             17 |
+|             17 | Monty Royston   |      97.73 |               nan |       19 |                40 |      94.27 | Jack Shine                |             17 |
+|             17 | Jake Garside    |      94.99 |                47 |       20 |                30 |      89.3  | Sam Edwards               |             17 |
+|             17 | Jack Hughes     |     104.12 |                79 |       21 |                28 |      88.59 | Morgan Bunting            |             17 |
+|             17 | Emeka Atuanya   |      94.91 |               nan |       22 |               nan |     nan    | nan                       |            nan |
+|             17 | Louis Grimoldby |      90.56 |                33 |       23 |               nan |     nan    | nan                       |            nan |
 

@@ -41,29 +41,29 @@ Bourgoin-Jallieu by 2.3 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                                |   Home Minutes |
-|---------------:|:--------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------------------------------------------------------|---------------:|
-|             48 | [Nugzar Somkhishvili](..//playerfiles//NugzarSomkhishvili_cleaned.md)     |      96.09 |                54 |        1 |                20 |      86.7  | [Teo Bordenave](..//playerfiles//TeoBordenave_cleaned.md)                  |             40 |
-|             48 | [Killian Tripier](..//playerfiles//KillianTripier_cleaned.md)             |      88.78 |                30 |        2 |                60 |      97.82 | [Sione Anga'aelangi](..//playerfiles//SioneAnga'aelangi_cleaned.md)        |             40 |
-|             60 | [Oktay Yilmaz](..//playerfiles//OktayYilmaz_cleaned.md)                   |      97.75 |                59 |        3 |                 0 |      40.09 | [Erich de Jager](..//playerfiles//ErichdeJager_cleaned.md)                 |             40 |
-|             80 | [Robin Gascou](..//playerfiles//RobinGascou_cleaned.md)                   |      80.33 |                13 |        4 |                33 |      90.54 | [Monty Leverstein](..//playerfiles//MontyLeverstein_cleaned.md)            |             80 |
-|             40 | [Jonathan Kpoku](..//playerfiles//JonathanKpoku_cleaned.md)               |      85.31 |                21 |        5 |                97 |     131.28 | [Cyril Veyret](..//playerfiles//CyrilVeyret_cleaned.md)                    |             51 |
-|             47 | [Kevin Rivoire](..//playerfiles//KevinRivoire_cleaned.md)                 |      86.24 |                20 |        6 |                94 |     124.51 | [Lucas Lyons](..//playerfiles//LucasLyons_cleaned.md)                      |             60 |
-|             80 | [Théophile Cotte](..//playerfiles//ThéophileCotte_cleaned.md)             |      92.77 |                36 |        7 |                40 |      91.9  | [Loïc Baradel](..//playerfiles//LoïcBaradel_cleaned.md)                    |             79 |
-|             40 | [Poutasi Luafutu](..//playerfiles//PoutasiLuafutu_cleaned.md)             |      95.59 |                39 |        8 |                80 |     109.02 | [Wael May](..//playerfiles//WaelMay_cleaned.md)                            |             80 |
-|             80 | [Tomas Munilla](..//playerfiles//TomasMunilla_cleaned.md)                 |      99.25 |                61 |        9 |                15 |      82.96 | [Robin Graulle](..//playerfiles//RobinGraulle_cleaned.md)                  |             28 |
-|             52 | [Benjamin Noble](..//playerfiles//BenjaminNoble_cleaned.md)               |      95    |               nan |       10 |                21 |      86.13 | [Christian Lacombe](..//playerfiles//ChristianLacombe_cleaned.md)          |             80 |
-|             53 | [Matthieu Nicolas](..//playerfiles//MatthieuNicolas_cleaned.md)           |      98.43 |                58 |       11 |                45 |      94.12 | [Kavekini Tabu](..//playerfiles//KavekiniTabu_cleaned.md)                  |             80 |
-|             80 | [Isaiah Leota](..//playerfiles//IsaiahLeota_cleaned.md)                   |     104.8  |                73 |       12 |                 9 |      77.15 | [Maile Mamao](..//playerfiles//MaileMamao_cleaned.md)                      |             80 |
-|             80 | [Pablo Patilla](..//playerfiles//PabloPatilla_cleaned.md)                 |      84.74 |                16 |       13 |                23 |      85.9  | [Benjamin Doy](..//playerfiles//BenjaminDoy_cleaned.md)                    |             40 |
-|             80 | [Makalea Foliaki](..//playerfiles//MakaleaFoliaki_cleaned.md)             |     106.68 |                78 |       14 |                34 |      90.6  | [Élie De Fleurian](..//playerfiles//ÉlieDeFleurian_cleaned.md)             |             80 |
-|             80 | [Nicolas Cachet](..//playerfiles//NicolasCachet_cleaned.md)               |      71.76 |                 7 |       15 |                35 |      89.98 | [Audric Sanlaville](..//playerfiles//AudricSanlaville_cleaned.md)          |             80 |
-|             40 | [Kemueli Lavetanakoroi](..//playerfiles//KemueliLavetanakoroi_cleaned.md) |     128.9  |                96 |       16 |                93 |     121.06 | [Nicolas Faure](..//playerfiles//NicolasFaure_cleaned.md)                  |             52 |
-|             40 | [Théo Lepage](..//playerfiles//ThéoLepage_cleaned.md)                     |      99.85 |                59 |       17 |                82 |     112.99 | [Sebastian Poet](..//playerfiles//SebastianPoet_cleaned.md)                |             40 |
-|             32 | [Romain Favaretto](..//playerfiles//RomainFavaretto_cleaned.md)           |      96.46 |                54 |       18 |                18 |      85.58 | [Clément Jullien](..//playerfiles//ClémentJullien_cleaned.md)              |             40 |
-|             33 | [Léandre Cotte](..//playerfiles//LéandreCotte_cleaned.md)                 |      96.44 |                54 |       19 |                12 |      81.53 | [Vazha Kapanadze](..//playerfiles//VazhaKapanadze_cleaned.md)              |             40 |
-|             32 | [Mohamed Khribache](..//playerfiles//MohamedKhribache_cleaned.md)         |     102.96 |                74 |       20 |                23 |      87.9  | [Willem Johannes Harmse](..//playerfiles//WillemJohannesHarmse_cleaned.md) |             40 |
-|             28 | [Romain Sola](..//playerfiles//RomainSola_cleaned.md)                     |      92.02 |                53 |       21 |                53 |      96.67 | [Koen Bloemen](..//playerfiles//KoenBloemen_cleaned.md)                    |             29 |
-|             27 | [Remi Bouet](..//playerfiles//RemiBouet_cleaned.md)                       |     105.16 |                77 |       22 |                25 |      80.78 | [Nicolas Tachat](..//playerfiles//NicolasTachat_cleaned.md)                |             20 |
-|             20 | [Maxime Caillet](..//playerfiles//MaximeCaillet_cleaned.md)               |      99.66 |                69 |       23 |                 6 |      75.06 | [Dimitri Jean Etienne](..//playerfiles//DimitriJeanEtienne_cleaned.md)     |              1 |
+|   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
+|---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
+|             48 | Nugzar Somkhishvili   |      96.09 |                54 |        1 |                20 |      86.7  | Teo Bordenave          |             40 |
+|             48 | Killian Tripier       |      88.78 |                30 |        2 |                60 |      97.82 | Sione Anga'aelangi     |             40 |
+|             60 | Oktay Yilmaz          |      97.75 |                59 |        3 |                 0 |      40.09 | Erich de Jager         |             40 |
+|             80 | Robin Gascou          |      80.33 |                13 |        4 |                33 |      90.54 | Monty Leverstein       |             80 |
+|             40 | Jonathan Kpoku        |      85.31 |                21 |        5 |                97 |     131.28 | Cyril Veyret           |             51 |
+|             47 | Kevin Rivoire         |      86.24 |                20 |        6 |                94 |     124.51 | Lucas Lyons            |             60 |
+|             80 | Théophile Cotte       |      92.77 |                36 |        7 |                40 |      91.9  | Loïc Baradel           |             79 |
+|             40 | Poutasi Luafutu       |      95.59 |                39 |        8 |                80 |     109.02 | Wael May               |             80 |
+|             80 | Tomas Munilla         |      99.25 |                61 |        9 |                15 |      82.96 | Robin Graulle          |             28 |
+|             52 | Benjamin Noble        |      95    |               nan |       10 |                21 |      86.13 | Christian Lacombe      |             80 |
+|             53 | Matthieu Nicolas      |      98.43 |                58 |       11 |                45 |      94.12 | Kavekini Tabu          |             80 |
+|             80 | Isaiah Leota          |     104.8  |                73 |       12 |                 9 |      77.15 | Maile Mamao            |             80 |
+|             80 | Pablo Patilla         |      84.74 |                16 |       13 |                23 |      85.9  | Benjamin Doy           |             40 |
+|             80 | Makalea Foliaki       |     106.68 |                78 |       14 |                34 |      90.6  | Élie De Fleurian       |             80 |
+|             80 | Nicolas Cachet        |      71.76 |                 7 |       15 |                35 |      89.98 | Audric Sanlaville      |             80 |
+|             40 | Kemueli Lavetanakoroi |     128.9  |                96 |       16 |                93 |     121.06 | Nicolas Faure          |             52 |
+|             40 | Théo Lepage           |      99.85 |                59 |       17 |                82 |     112.99 | Sebastian Poet         |             40 |
+|             32 | Romain Favaretto      |      96.46 |                54 |       18 |                18 |      85.58 | Clément Jullien        |             40 |
+|             33 | Léandre Cotte         |      96.44 |                54 |       19 |                12 |      81.53 | Vazha Kapanadze        |             40 |
+|             32 | Mohamed Khribache     |     102.96 |                74 |       20 |                23 |      87.9  | Willem Johannes Harmse |             40 |
+|             28 | Romain Sola           |      92.02 |                53 |       21 |                53 |      96.67 | Koen Bloemen           |             29 |
+|             27 | Remi Bouet            |     105.16 |                77 |       22 |                25 |      80.78 | Nicolas Tachat         |             20 |
+|             20 | Maxime Caillet        |      99.66 |                69 |       23 |                 6 |      75.06 | Dimitri Jean Etienne   |              1 |
 

@@ -41,29 +41,29 @@ Scarlets by 6.3 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                                                                      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                                                          |   Home Minutes |
-|---------------:|:---------------------------------------------------------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------------------------------------------------|---------------:|
-|             71 | [Retshegofaditswe Nche](..//playerfiles//RetshegofaditsweNche_cleaned.md)        |     101.88 |                72 |        1 |                86 |     108.52 | [Kemsley Mathias](..//playerfiles//KemsleyMathias_cleaned.md)        |             60 |
-|             67 | [Mbongeni Mbonambi](..//playerfiles//MbongeniMbonambi_cleaned.md)                |     100.18 |                68 |        2 |                80 |     105.19 | [Shaun Evans](..//playerfiles//ShaunEvans_cleaned.md)                |             76 |
-|             71 | [Thomas Joubert du Toit](..//playerfiles//ThomasJoubertduToit_cleaned.md)        |     103.38 |                76 |        3 |                52 |      99.9  | [Javan Sebastian](..//playerfiles//JavanSebastian_cleaned.md)        |             55 |
-|             80 | [Eben Etzebeth](..//playerfiles//EbenEtzebeth_cleaned.md)                        |     110.2  |                83 |        4 |                89 |     116.05 | [Vaea Fifita](..//playerfiles//VaeaFifita_cleaned.md)                |             80 |
-|             53 | [Emile van Heerden](..//playerfiles//EmilevanHeerden_cleaned.md)                 |      91.91 |                38 |        5 |                90 |     116.81 | [Sam Lousi](..//playerfiles//SamLousi_cleaned.md)                    |             80 |
-|             80 | [Siya Kolisi](..//playerfiles//SiyaKolisi_cleaned.md)                            |     110.97 |                84 |        6 |                62 |      99.96 | [Joshua McLeod](..//playerfiles//JoshuaMcLeod_cleaned.md)            |             80 |
-|             80 | [Vincent Tshikaya Tshituka](..//playerfiles//VincentTshikayaTshituka_cleaned.md) |     107.05 |                77 |        7 |                91 |     118.77 | [Daniel Fabian Davis](..//playerfiles//DanielFabianDavis_cleaned.md) |             11 |
-|             53 | [Phendulani Buthelezi](..//playerfiles//PhendulaniButhelezi_cleaned.md)          |      99.11 |                48 |        8 |                89 |     116.83 | [Sione Kalamafoni](..//playerfiles//SioneKalamafoni_cleaned.md)      |             65 |
-|             56 | [Jaden Hendrikse](..//playerfiles//JadenHendrikse_cleaned.md)                    |     104.91 |                75 |        9 |                71 |     105.81 | [Gareth Davies](..//playerfiles//GarethDavies_cleaned.md)            |             67 |
-|             80 | [Curwin Dominique Bosch](..//playerfiles//CurwinDominiqueBosch_cleaned.md)       |     105.96 |                76 |       10 |                80 |     109.2  | [Sam Costelow](..//playerfiles//SamCostelow_cleaned.md)              |             75 |
-|             80 | [Makazole Mapimpi](..//playerfiles//MakazoleMapimpi_cleaned.md)                  |     108.27 |                80 |       11 |                67 |     101.5  | [Ryan Conbeer](..//playerfiles//RyanConbeer_cleaned.md)              |             80 |
-|             71 | [Rohan Janse van Rensburg](..//playerfiles//RohanJansevanRensburg_cleaned.md)    |     100.35 |                62 |       12 |               nan |      99.96 | [Johnny Williams](..//playerfiles//JohnnyWilliams_cleaned.md)        |             80 |
-|             80 | [Lukhanyo Am](..//playerfiles//LukhanyoAm_cleaned.md)                            |     110.97 |                82 |       13 |                90 |     117.17 | [Joe Roberts](..//playerfiles//JoeRoberts_cleaned.md)                |             80 |
-|             65 | [Werner Kok](..//playerfiles//WernerKok_cleaned.md)                              |     105.37 |                75 |       14 |                89 |     117.23 | [Steffan Evans](..//playerfiles//SteffanEvans_cleaned.md)            |             80 |
-|             80 | [Boeta Chamberlain](..//playerfiles//BoetaChamberlain_cleaned.md)                |     107.55 |                76 |       15 |                66 |     101.3  | [Tom Rogers](..//playerfiles//TomRogers_cleaned.md)                  |             67 |
-|             27 | [Sikhumbuzo Notshe](..//playerfiles//SikhumbuzoNotshe_cleaned.md)                |     111.41 |                84 |       16 |                85 |     112.45 | [Aaron Shingler](..//playerfiles//AaronShingler_cleaned.md)          |             69 |
-|             27 | [Douw Gerbrandt Grobler](..//playerfiles//DouwGerbrandtGrobler_cleaned.md)       |      98.57 |                59 |       17 |                32 |      90.97 | [Sam Wainwright](..//playerfiles//SamWainwright_cleaned.md)          |             25 |
-|             24 | [Grant Williams](..//playerfiles//GrantWilliams_cleaned.md)                      |     106.8  |                79 |       18 |                65 |     102.73 | [Steff Thomas](..//playerfiles//SteffThomas_cleaned.md)              |             20 |
-|             15 | [Thaakir Abrahams](..//playerfiles//ThaakirAbrahams_cleaned.md)                  |      83.36 |                19 |       19 |                47 |      95.89 | [Morgan Jones](..//playerfiles//MorganJones_cleaned.md)              |             15 |
-|             13 | [Kerron van Vuuren](..//playerfiles//KerronvanVuuren_cleaned.md)                 |      96.56 |                46 |       20 |               nan |      97.68 | [Kieran Hardy](..//playerfiles//KieranHardy_cleaned.md)              |             13 |
-|              9 | [Khuthuzani Kingdom Mchunu](..//playerfiles//KhuthuzaniKingdomMchunu_cleaned.md) |      90.49 |               nan |       21 |                82 |     110.93 | [Ioan Nicholas](..//playerfiles//IoanNicholas_cleaned.md)            |             13 |
-|              9 | [Carlu Johann Sadie](..//playerfiles//CarluJohannSadie_cleaned.md)               |     104.49 |                79 |       22 |               nan |      98.16 | [Dan Jones](..//playerfiles//DanJones_cleaned.md)                    |              5 |
-|              9 | [Ben Tapuai](..//playerfiles//BenTapuai_cleaned.md)                              |      90.13 |                31 |       23 |               nan |      96.35 | [Taylor Davies](..//playerfiles//TaylorDavies_cleaned.md)            |              4 |
+|   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
+|---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
+|             71 | Retshegofaditswe Nche     |     101.88 |                72 |        1 |                86 |     108.52 | Kemsley Mathias     |             60 |
+|             67 | Mbongeni Mbonambi         |     100.18 |                68 |        2 |                80 |     105.19 | Shaun Evans         |             76 |
+|             71 | Thomas Joubert du Toit    |     103.38 |                76 |        3 |                52 |      99.9  | Javan Sebastian     |             55 |
+|             80 | Eben Etzebeth             |     110.2  |                83 |        4 |                89 |     116.05 | Vaea Fifita         |             80 |
+|             53 | Emile van Heerden         |      91.91 |                38 |        5 |                90 |     116.81 | Sam Lousi           |             80 |
+|             80 | Siya Kolisi               |     110.97 |                84 |        6 |                62 |      99.96 | Joshua McLeod       |             80 |
+|             80 | Vincent Tshikaya Tshituka |     107.05 |                77 |        7 |                91 |     118.77 | Daniel Fabian Davis |             11 |
+|             53 | Phendulani Buthelezi      |      99.11 |                48 |        8 |                89 |     116.83 | Sione Kalamafoni    |             65 |
+|             56 | Jaden Hendrikse           |     104.91 |                75 |        9 |                71 |     105.81 | Gareth Davies       |             67 |
+|             80 | Curwin Dominique Bosch    |     105.96 |                76 |       10 |                80 |     109.2  | Sam Costelow        |             75 |
+|             80 | Makazole Mapimpi          |     108.27 |                80 |       11 |                67 |     101.5  | Ryan Conbeer        |             80 |
+|             71 | Rohan Janse van Rensburg  |     100.35 |                62 |       12 |               nan |      99.96 | Johnny Williams     |             80 |
+|             80 | Lukhanyo Am               |     110.97 |                82 |       13 |                90 |     117.17 | Joe Roberts         |             80 |
+|             65 | Werner Kok                |     105.37 |                75 |       14 |                89 |     117.23 | Steffan Evans       |             80 |
+|             80 | Boeta Chamberlain         |     107.55 |                76 |       15 |                66 |     101.3  | Tom Rogers          |             67 |
+|             27 | Sikhumbuzo Notshe         |     111.41 |                84 |       16 |                85 |     112.45 | Aaron Shingler      |             69 |
+|             27 | Douw Gerbrandt Grobler    |      98.57 |                59 |       17 |                32 |      90.97 | Sam Wainwright      |             25 |
+|             24 | Grant Williams            |     106.8  |                79 |       18 |                65 |     102.73 | Steff Thomas        |             20 |
+|             15 | Thaakir Abrahams          |      83.36 |                19 |       19 |                47 |      95.89 | Morgan Jones        |             15 |
+|             13 | Kerron van Vuuren         |      96.56 |                46 |       20 |               nan |      97.68 | Kieran Hardy        |             13 |
+|              9 | Khuthuzani Kingdom Mchunu |      90.49 |               nan |       21 |                82 |     110.93 | Ioan Nicholas       |             13 |
+|              9 | Carlu Johann Sadie        |     104.49 |                79 |       22 |               nan |      98.16 | Dan Jones           |              5 |
+|              9 | Ben Tapuai                |      90.13 |                31 |       23 |               nan |      96.35 | Taylor Davies       |              4 |
 
