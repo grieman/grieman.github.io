@@ -1,5 +1,5 @@
 ---  
-"title: Rugby Europe Championship Status"  
+title: "Rugby Europe Championship Status"  
 date: 2023-03-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
