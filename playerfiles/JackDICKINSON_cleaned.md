@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Jack DICKINSON  
-date: 2023-03-29 11:30:18.485467  
+date: 2023-03-30 11:33:15.637829  
 categories: player  
 ---
 # Jack DICKINSON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 103.0

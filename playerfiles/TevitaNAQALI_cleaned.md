@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tevita NAQALI  
-date: 2023-03-29 11:30:26.366989  
+date: 2023-03-30 11:32:35.842039  
 categories: player  
 ---
 # Tevita NAQALI
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 66.0

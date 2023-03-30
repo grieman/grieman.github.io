@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tommy RAYNAUD  
-date: 2023-03-29 11:29:30.506464  
+date: 2023-03-30 11:34:28.889172  
 categories: player  
 ---
 # Tommy RAYNAUD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 74.0

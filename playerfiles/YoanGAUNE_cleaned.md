@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Yoan GAUNE  
-date: 2023-03-29 11:29:04.712421  
+date: 2023-03-30 11:30:41.207916  
 categories: player  
 ---
 # Yoan GAUNE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 111.0

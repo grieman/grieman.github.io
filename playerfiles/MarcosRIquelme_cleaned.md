@@ -1,18 +1,18 @@
 ---  
 layout: page  
 title: Marcos RIquelme  
-date: 2023-03-29 11:30:20.153652  
+date: 2023-03-30 11:32:34.786167  
 categories: player  
 ---
 # Marcos RIquelme
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8
 
 ## Current elo: 98.0
 
-## Current Percentile: 67.0
+## Current Percentile: 68.0
 
 # Elo History
 

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sami MAVINGA  
-date: 2023-03-29 11:27:57.510987  
+date: 2023-03-30 11:34:43.464285  
 categories: player  
 ---
 # Sami MAVINGA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 84.0

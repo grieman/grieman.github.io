@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Alexis Clément  
-date: 2023-03-29 11:27:55.557596  
+date: 2023-03-30 11:35:01.144422  
 categories: player  
 ---
 # Alexis Clément
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: W
 
 ## Current elo: 90.0

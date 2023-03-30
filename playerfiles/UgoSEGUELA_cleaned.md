@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ugo SEGUELA  
-date: 2023-03-29 11:29:14.724377  
+date: 2023-03-30 11:33:57.628875  
 categories: player  
 ---
 # Ugo SEGUELA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 91.0

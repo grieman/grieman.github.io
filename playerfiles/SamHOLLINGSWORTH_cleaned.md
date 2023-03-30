@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sam HOLLINGSWORTH  
-date: 2023-03-29 11:31:16.458697  
+date: 2023-03-30 11:32:44.480323  
 categories: player  
 ---
 # Sam HOLLINGSWORTH
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 90.0

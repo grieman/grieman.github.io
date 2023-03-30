@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Rahboni Warren-Vosayaco  
-date: 2023-03-29 11:27:52.988184  
+date: 2023-03-30 11:33:11.187246  
 categories: player  
 ---
 # Rahboni Warren-Vosayaco
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8
 
 ## Current elo: 92.0

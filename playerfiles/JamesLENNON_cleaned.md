@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: James LENNON  
-date: 2023-03-29 11:29:43.951732  
+date: 2023-03-30 11:34:20.666398  
 categories: player  
 ---
 # James LENNON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 95.0

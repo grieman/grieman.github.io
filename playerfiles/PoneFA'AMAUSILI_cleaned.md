@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pone FA'AMAUSILI  
-date: 2023-03-29 11:28:13.378165  
+date: 2023-03-30 11:31:51.527761  
 categories: player  
 ---
 # Pone FA'AMAUSILI
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: Australia

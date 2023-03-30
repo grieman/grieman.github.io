@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Freddie LOCKWOOD  
-date: 2023-03-29 11:30:02.115937  
+date: 2023-03-30 11:32:26.398257  
 categories: player  
 ---
 # Freddie LOCKWOOD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Current elo: 100.0

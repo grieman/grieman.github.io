@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Paul ABADIE  
-date: 2023-03-29 11:29:23.646998  
+date: 2023-03-30 11:32:27.419648  
 categories: player  
 ---
 # Paul ABADIE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 88.0

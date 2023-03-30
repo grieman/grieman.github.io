@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Rynier Mark Bernardo  
-date: 2023-03-29 11:29:21.618114  
+date: 2023-03-30 11:34:53.444376  
 categories: player  
 ---
 # Rynier Mark Bernardo
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 106.0

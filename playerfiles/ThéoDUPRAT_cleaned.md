@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Théo DUPRAT  
-date: 2023-03-29 11:29:45.064762  
+date: 2023-03-30 11:33:17.783810  
 categories: player  
 ---
 # Théo DUPRAT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB
 
 ## Current elo: 112.0

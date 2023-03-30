@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Vincent CALAS  
-date: 2023-03-29 11:28:57.572985  
+date: 2023-03-30 11:31:08.856041  
 categories: player  
 ---
 # Vincent CALAS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 86.0

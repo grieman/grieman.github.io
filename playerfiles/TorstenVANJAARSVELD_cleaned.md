@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Torsten VAN JAARSVELD  
-date: 2023-03-29 11:30:30.868576  
+date: 2023-03-30 11:34:23.690383  
 categories: player  
 ---
 # Torsten VAN JAARSVELD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Country: Namibia

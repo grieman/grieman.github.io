@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: William BEAUDON  
-date: 2023-03-29 11:29:41.161954  
+date: 2023-03-30 11:31:03.581876  
 categories: player  
 ---
 # William BEAUDON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 93.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Will HOLLING  
-date: 2023-03-29 11:31:12.124148  
+date: 2023-03-30 11:31:57.007937  
 categories: player  
 ---
 # Will HOLLING
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 96.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: William HOBSON  
-date: 2023-03-29 11:29:07.536965  
+date: 2023-03-30 11:32:08.046495  
 categories: player  
 ---
 # William HOBSON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 97.0

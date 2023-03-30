@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Raphaël VIEILLEDENT  
-date: 2023-03-29 11:31:14.002541  
+date: 2023-03-30 11:30:51.019772  
 categories: player  
 ---
 # Raphaël VIEILLEDENT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 90.0

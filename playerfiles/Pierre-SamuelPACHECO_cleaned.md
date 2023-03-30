@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre-Samuel PACHECO  
-date: 2023-03-29 11:30:48.749590  
+date: 2023-03-30 11:32:57.284843  
 categories: player  
 ---
 # Pierre-Samuel PACHECO
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 90.0

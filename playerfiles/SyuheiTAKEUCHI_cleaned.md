@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Syuhei TAKEUCHI  
-date: 2023-03-29 11:29:35.413035  
+date: 2023-03-30 11:31:26.291979  
 categories: player  
 ---
 # Syuhei TAKEUCHI
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: Japan

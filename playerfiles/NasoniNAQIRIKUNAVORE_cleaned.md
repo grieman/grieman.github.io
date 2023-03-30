@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nasoni NAQIRI KUNAVORE  
-date: 2023-03-29 11:28:12.211992  
+date: 2023-03-30 11:30:32.536133  
 categories: player  
 ---
 # Nasoni NAQIRI KUNAVORE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C, W
 
 ## Current elo: 119.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Joey CONWAY  
-date: 2023-03-29 11:30:21.787320  
+date: 2023-03-30 11:33:40.211905  
 categories: player  
 ---
 # Joey CONWAY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 88.0

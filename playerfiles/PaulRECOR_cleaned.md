@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Paul RECOR  
-date: 2023-03-29 11:29:57.404882  
+date: 2023-03-30 11:34:04.250967  
 categories: player  
 ---
 # Paul RECOR
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C
 
 ## Current elo: 114.0

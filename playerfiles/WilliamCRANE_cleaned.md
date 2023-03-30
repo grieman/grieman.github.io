@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: William CRANE  
-date: 2023-03-29 11:30:22.848903  
+date: 2023-03-30 11:34:42.408981  
 categories: player  
 ---
 # William CRANE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 90.0

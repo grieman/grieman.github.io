@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Uini ATONIO  
-date: 2023-03-29 11:31:38.720935  
+date: 2023-03-30 11:35:00.020901  
 categories: player  
 ---
 # Uini ATONIO
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: France

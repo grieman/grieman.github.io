@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain SAZY  
-date: 2023-03-29 11:28:17.024598  
+date: 2023-03-30 11:30:34.638500  
 categories: player  
 ---
 # Romain SAZY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L, FL
 
 ## Current elo: 117.0

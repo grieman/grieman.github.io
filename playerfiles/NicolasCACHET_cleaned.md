@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nicolas CACHET  
-date: 2023-03-29 11:30:11.991301  
+date: 2023-03-30 11:32:53.036420  
 categories: player  
 ---
 # Nicolas CACHET
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB, FH
 
 ## Current elo: 76.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre REYNAUD  
-date: 2023-03-29 11:31:19.411353  
+date: 2023-03-30 11:34:54.443985  
 categories: player  
 ---
 # Pierre REYNAUD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 92.0

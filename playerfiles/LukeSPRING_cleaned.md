@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Luke SPRING  
-date: 2023-03-29 11:29:15.635761  
+date: 2023-03-30 11:33:52.270066  
 categories: player  
 ---
 # Luke SPRING
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 91.0

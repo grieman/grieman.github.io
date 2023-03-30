@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Segundo TUCULET  
-date: 2023-03-29 11:29:19.632937  
+date: 2023-03-30 11:33:10.096386  
 categories: player  
 ---
 # Segundo TUCULET
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB, W
 
 ## Current elo: 68.0

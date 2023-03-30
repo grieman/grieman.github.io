@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Vaughen ISAACS  
-date: 2023-03-29 11:30:29.213159  
+date: 2023-03-30 11:31:29.618645  
 categories: player  
 ---
 # Vaughen ISAACS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH, FB
 
 ## Current elo: 90.0

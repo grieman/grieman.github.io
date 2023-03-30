@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Théo BEZIAT  
-date: 2023-03-29 11:28:03.435980  
+date: 2023-03-30 11:32:41.272797  
 categories: player  
 ---
 # Théo BEZIAT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 97.0

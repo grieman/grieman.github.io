@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thibault MORENO  
-date: 2023-03-29 11:28:56.720002  
+date: 2023-03-30 11:30:43.462285  
 categories: player  
 ---
 # Thibault MORENO
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 94.0

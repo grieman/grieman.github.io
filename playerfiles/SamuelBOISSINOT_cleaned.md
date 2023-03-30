@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Samuel BOISSINOT  
-date: 2023-03-29 11:29:34.507114  
+date: 2023-03-30 11:35:08.870669  
 categories: player  
 ---
 # Samuel BOISSINOT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 81.0

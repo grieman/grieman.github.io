@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Yoann LAOUSSE AZPIAZU  
-date: 2023-03-29 11:30:04.671580  
+date: 2023-03-30 11:30:40.037278  
 categories: player  
 ---
 # Yoann LAOUSSE AZPIAZU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB
 
 ## Current elo: 127.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Robin GASCOU  
-date: 2023-03-29 11:29:42.064894  
+date: 2023-03-30 11:33:36.008506  
 categories: player  
 ---
 # Robin GASCOU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L, N8
 
 ## Current elo: 85.0

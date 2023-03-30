@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain FAVARETTO  
-date: 2023-03-29 11:29:50.810701  
+date: 2023-03-30 11:32:22.885350  
 categories: player  
 ---
 # Romain FAVARETTO
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 98.0

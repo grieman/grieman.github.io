@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ryohei Yamanaka  
-date: 2023-03-29 11:28:47.809280  
+date: 2023-03-30 11:34:37.957716  
 categories: player  
 ---
 # Ryohei Yamanaka
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB, C
 
 ## Country: Japan

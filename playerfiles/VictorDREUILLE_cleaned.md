@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Victor DREUILLE  
-date: 2023-03-29 11:31:40.945010  
+date: 2023-03-30 11:35:07.792172  
 categories: player  
 ---
 # Victor DREUILLE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH, C
 
 ## Current elo: 89.0

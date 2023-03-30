@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Doga Maeda  
-date: 2023-03-29 11:30:05.520114  
+date: 2023-03-30 11:32:09.132486  
 categories: player  
 ---
 # Doga Maeda
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 95.0

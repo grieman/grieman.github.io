@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Jake GARSIDE  
-date: 2023-03-29 11:28:43.433211  
+date: 2023-03-30 11:31:31.761166  
 categories: player  
 ---
 # Jake GARSIDE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 94.0

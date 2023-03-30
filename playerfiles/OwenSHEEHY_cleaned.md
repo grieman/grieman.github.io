@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Owen SHEEHY  
-date: 2023-03-29 11:28:44.323585  
+date: 2023-03-30 11:30:36.791297  
 categories: player  
 ---
 # Owen SHEEHY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB, W
 
 ## Current elo: 76.0

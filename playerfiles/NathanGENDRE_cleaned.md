@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nathan GENDRE  
-date: 2023-03-29 11:31:20.278077  
+date: 2023-03-30 11:30:49.960249  
 categories: player  
 ---
 # Nathan GENDRE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 98.0

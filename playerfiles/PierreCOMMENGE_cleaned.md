@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre COMMENGE  
-date: 2023-03-29 11:30:16.452072  
+date: 2023-03-30 11:31:35.104337  
 categories: player  
 ---
 # Pierre COMMENGE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 99.0

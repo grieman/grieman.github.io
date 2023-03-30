@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thibault DUFAU  
-date: 2023-03-29 11:30:34.687097  
+date: 2023-03-30 11:34:48.875318  
 categories: player  
 ---
 # Thibault DUFAU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 109.0

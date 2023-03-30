@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ryan LONERGAN  
-date: 2023-03-29 11:28:00.072926  
+date: 2023-03-30 11:30:27.086502  
 categories: player  
 ---
 # Ryan LONERGAN
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 127.0

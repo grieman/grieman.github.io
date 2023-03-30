@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tomas DUSSAILLANT  
-date: 2023-03-29 11:31:36.821309  
+date: 2023-03-30 11:34:29.936210  
 categories: player  
 ---
 # Tomas DUSSAILLANT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Country: Chile

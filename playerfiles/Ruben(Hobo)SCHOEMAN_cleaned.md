@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ruben (Hobo) Schoeman  
-date: 2023-03-29 11:31:21.942240  
+date: 2023-03-30 11:30:28.143012  
 categories: player  
 ---
 # Ruben (Hobo) Schoeman
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 115.0

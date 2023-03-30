@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tom LOCKETT  
-date: 2023-03-29 11:29:38.057786  
+date: 2023-03-30 11:31:40.551153  
 categories: player  
 ---
 # Tom LOCKETT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 98.0

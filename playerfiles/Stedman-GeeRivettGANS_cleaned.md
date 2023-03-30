@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Stedman-Gee Rivett GANS  
-date: 2023-03-29 11:29:59.129786  
+date: 2023-03-30 11:33:04.723755  
 categories: player  
 ---
 # Stedman-Gee Rivett GANS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C, W
 
 ## Current elo: 99.0

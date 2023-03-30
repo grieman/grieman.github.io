@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tornike JALAGONIA  
-date: 2023-03-29 11:29:02.144128  
+date: 2023-03-30 11:33:54.348827  
 categories: player  
 ---
 # Tornike JALAGONIA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8, FL
 
 ## Country: Georgia

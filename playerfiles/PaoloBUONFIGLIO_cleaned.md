@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Paolo BUONFIGLIO  
-date: 2023-03-29 11:30:37.675618  
+date: 2023-03-30 11:32:31.573034  
 categories: player  
 ---
 # Paolo BUONFIGLIO
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: Italy

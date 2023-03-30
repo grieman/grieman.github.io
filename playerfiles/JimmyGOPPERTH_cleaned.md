@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Jimmy GOPPERTH  
-date: 2023-03-29 11:30:00.948770  
+date: 2023-03-30 11:34:30.987328  
 categories: player  
 ---
 # Jimmy GOPPERTH
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH, C
 
 ## Current elo: 106.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romuald SéGUY  
-date: 2023-03-29 11:31:11.100517  
+date: 2023-03-30 11:31:34.019761  
 categories: player  
 ---
 # Romuald SéGUY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 81.0

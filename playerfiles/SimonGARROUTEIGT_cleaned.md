@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Simon GARROUTEIGT  
-date: 2023-03-29 11:29:03.921727  
+date: 2023-03-30 11:30:58.219285  
 categories: player  
 ---
 # Simon GARROUTEIGT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 91.0

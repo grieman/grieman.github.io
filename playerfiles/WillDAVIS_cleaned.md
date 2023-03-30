@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Will DAVIS  
-date: 2023-03-29 11:28:34.477262  
+date: 2023-03-30 11:34:58.885865  
 categories: player  
 ---
 # Will DAVIS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 120.0

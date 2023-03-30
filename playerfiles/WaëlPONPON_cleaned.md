@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Waël PONPON  
-date: 2023-03-29 11:28:40.995858  
+date: 2023-03-30 11:33:18.828753  
 categories: player  
 ---
 # Waël PONPON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 87.0

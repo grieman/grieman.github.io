@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Robin GRAULLE  
-date: 2023-03-29 11:29:16.755746  
+date: 2023-03-30 11:32:36.889653  
 categories: player  
 ---
 # Robin GRAULLE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH, W
 
 ## Current elo: 81.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Harry BAZALGETTE  
-date: 2023-03-29 11:29:24.597121  
+date: 2023-03-30 11:31:24.167686  
 categories: player  
 ---
 # Harry BAZALGETTE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 96.0

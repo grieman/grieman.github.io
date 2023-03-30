@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain SOLA  
-date: 2023-03-29 11:29:25.493605  
+date: 2023-03-30 11:32:45.552637  
 categories: player  
 ---
 # Romain SOLA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH, FB
 
 ## Current elo: 86.0

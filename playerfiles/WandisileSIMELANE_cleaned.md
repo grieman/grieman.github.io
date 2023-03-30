@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Wandisile SIMELANE  
-date: 2023-03-29 11:30:56.810439  
+date: 2023-03-30 11:30:44.494999  
 categories: player  
 ---
 # Wandisile SIMELANE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C, FB
 
 ## Current elo: 109.0

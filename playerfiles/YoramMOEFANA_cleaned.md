@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Yoram MOEFANA  
-date: 2023-03-29 11:31:56.593069  
+date: 2023-03-30 11:32:30.569273  
 categories: player  
 ---
 # Yoram MOEFANA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C, W
 
 ## Country: France

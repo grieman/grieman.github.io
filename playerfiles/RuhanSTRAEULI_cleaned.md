@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ruhan Straeuli  
-date: 2023-03-29 11:29:29.659648  
+date: 2023-03-30 11:30:56.135979  
 categories: player  
 ---
 # Ruhan Straeuli
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 101.0

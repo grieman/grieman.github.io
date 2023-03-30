@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Teddy THOMAS  
-date: 2023-03-29 11:28:53.146187  
+date: 2023-03-30 11:31:01.354246  
 categories: player  
 ---
 # Teddy THOMAS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: W
 
 ## Country: France

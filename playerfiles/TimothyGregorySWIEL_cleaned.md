@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Timothy Gregory Swiel  
-date: 2023-03-29 11:31:42.817864  
+date: 2023-03-30 11:32:21.811497  
 categories: player  
 ---
 # Timothy Gregory Swiel
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB
 
 ## Current elo: 102.0

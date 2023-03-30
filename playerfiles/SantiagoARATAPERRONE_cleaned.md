@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Santiago Arata Perrone  
-date: 2023-03-29 11:27:54.746792  
+date: 2023-03-30 11:33:26.294398  
 categories: player  
 ---
 # Santiago Arata Perrone
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 103.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sam Slade  
-date: 2023-03-29 11:30:10.124099  
+date: 2023-03-30 11:31:17.726204  
 categories: player  
 ---
 # Sam Slade
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L, FL
 
 ## Country: Samoa

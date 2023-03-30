@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Mitch Drummond  
-date: 2023-03-29 11:30:59.156745  
+date: 2023-03-30 11:32:06.907285  
 categories: player  
 ---
 # Mitch Drummond
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Country: New Zealand

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain URUTY  
-date: 2023-03-29 11:31:58.536966  
+date: 2023-03-30 11:33:19.864561  
 categories: player  
 ---
 # Romain URUTY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 96.0

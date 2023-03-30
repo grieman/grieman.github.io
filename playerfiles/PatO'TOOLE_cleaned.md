@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pat O'TOOLE  
-date: 2023-03-29 11:30:12.994071  
+date: 2023-03-30 11:32:19.667153  
 categories: player  
 ---
 # Pat O'TOOLE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 78.0

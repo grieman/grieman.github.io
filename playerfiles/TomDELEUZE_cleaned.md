@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tom DELEUZE  
-date: 2023-03-29 11:31:29.022151  
+date: 2023-03-30 11:30:31.414448  
 categories: player  
 ---
 # Tom DELEUZE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 87.0

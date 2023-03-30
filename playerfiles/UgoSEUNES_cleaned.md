@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ugo SEUNES  
-date: 2023-03-29 11:29:26.461608  
+date: 2023-03-30 11:32:58.338260  
 categories: player  
 ---
 # Ugo SEUNES
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH
 
 ## Current elo: 111.0

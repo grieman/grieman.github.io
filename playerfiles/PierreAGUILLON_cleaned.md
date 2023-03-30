@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre AGUILLON  
-date: 2023-03-29 11:27:53.879115  
+date: 2023-03-30 11:32:33.693533  
 categories: player  
 ---
 # Pierre AGUILLON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C
 
 ## Current elo: 61.0

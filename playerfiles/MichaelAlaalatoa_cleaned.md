@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Michael Alaalatoa  
-date: 2023-03-29 11:31:27.873360  
+date: 2023-03-30 11:30:55.008829  
 categories: player  
 ---
 # Michael Alaalatoa
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: Samoa

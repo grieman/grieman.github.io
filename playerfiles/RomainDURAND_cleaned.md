@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain DURAND  
-date: 2023-03-29 11:31:33.709692  
+date: 2023-03-30 11:33:59.962463  
 categories: player  
 ---
 # Romain DURAND
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 121.0

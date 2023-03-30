@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Dom Bird  
-date: 2023-03-29 11:28:25.441301  
+date: 2023-03-30 11:34:47.773906  
 categories: player  
 ---
 # Dom Bird
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Country: New Zealand

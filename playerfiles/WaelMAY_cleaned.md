@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Wael MAY  
-date: 2023-03-29 11:31:49.297154  
+date: 2023-03-30 11:31:14.509017  
 categories: player  
 ---
 # Wael MAY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Current elo: 105.0

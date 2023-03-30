@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Victor Kutlwano SEKEKETE  
-date: 2023-03-29 11:28:10.550021  
+date: 2023-03-30 11:30:48.864345  
 categories: player  
 ---
 # Victor Kutlwano SEKEKETE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 97.0

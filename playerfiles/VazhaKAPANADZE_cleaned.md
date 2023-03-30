@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Vazha KAPANADZE  
-date: 2023-03-29 11:31:41.905066  
+date: 2023-03-30 11:31:41.719613  
 categories: player  
 ---
 # Vazha KAPANADZE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 79.0

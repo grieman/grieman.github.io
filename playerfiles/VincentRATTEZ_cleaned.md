@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Vincent RATTEZ  
-date: 2023-03-29 11:30:28.202442  
+date: 2023-03-30 11:32:05.738442  
 categories: player  
 ---
 # Vincent RATTEZ
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: W, FB
 
 ## Country: France

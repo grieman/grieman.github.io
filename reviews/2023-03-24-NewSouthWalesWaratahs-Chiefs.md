@@ -28,16 +28,16 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New South Wales Waratahs by 0.1
+## Prediction with Player Minutes: New South Wales Waratahs by 3.2
 
 
-Chiefs by 3.9 on a neutral field
+Chiefs by 0.8 on a neutral field
 
 There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: New South Wales Waratahs by 0.2
+## Prediction without Player Minutes: New South Wales Waratahs by 3.1
 
 
-Chiefs by 3.8 on a neutral pitch
+Chiefs by 0.9 on a neutral pitch
 
 
 
@@ -53,8 +53,8 @@ Chiefs by 3.8 on a neutral pitch
 |             65 | [Pita Gus Sowakula](..//playerfiles//PitaGusSowakula_cleaned.md)        |     101.82 |                66 |        8 |                70 |     106.2  | [Will Harris](..//playerfiles//WillHarris_cleaned.md)                   |             80 |
 |             64 | [Brad Weber](..//playerfiles//BradWeber_cleaned.md)                     |     137.44 |                99 |        9 |                96 |     126.31 | [Jake Gordon](..//playerfiles//JakeGordon_cleaned.md)                   |             77 |
 |             52 | [Bryn Gatland](..//playerfiles//BrynGatland_cleaned.md)                 |      97.7  |                52 |       10 |                79 |     108.5  | [Ben Donaldson](..//playerfiles//BenDonaldson_cleaned.md)               |             80 |
-|             80 | [Etene Nanai-Seturo](..//playerfiles//EteneNanai-Seturo_cleaned.md)     |      97.64 |                55 |       11 |               nan |      95    | [Dylan Pietsch](..//playerfiles//DylanPietsch_cleaned.md)               |             66 |
-|             80 | [Rameka Poihipi](..//playerfiles//RamekaPoihipi_cleaned.md)             |      93.37 |                42 |       12 |               nan |      95    | [Joey Walton](..//playerfiles//JoeyWalton_cleaned.md)                   |             80 |
+|             80 | [Etene Nanai-Seturo](..//playerfiles//EteneNanai-Seturo_cleaned.md)     |      97.64 |                55 |       11 |                87 |     114.01 | [Dylan Pietsch](..//playerfiles//DylanPietsch_cleaned.md)               |             66 |
+|             80 | [Rameka Poihipi](..//playerfiles//RamekaPoihipi_cleaned.md)             |      93.37 |                42 |       12 |                84 |     112.41 | [Joey Walton](..//playerfiles//JoeyWalton_cleaned.md)                   |             80 |
 |             70 | [Alex Nankivell](..//playerfiles//AlexNankivell_cleaned.md)             |      89.2  |                30 |       13 |                21 |      85.3  | [Izaia Perese](..//playerfiles//IzaiaPerese_cleaned.md)                 |             80 |
 |             80 | [Emoni Narawa](..//playerfiles//EmoniNarawa_cleaned.md)                 |     105.41 |                75 |       14 |                56 |      97.76 | [Mark Nawaqanitawase](..//playerfiles//MarkNawaqanitawase_cleaned.md)   |             80 |
 |             80 | [Damian McKenzie](..//playerfiles//DamianMcKenzie_cleaned.md)           |      94.96 |                45 |       15 |               nan |      95.36 | [Ben Dowling](..//playerfiles//BenDowling_cleaned.md)                   |             66 |
@@ -64,6 +64,6 @@ Chiefs by 3.8 on a neutral pitch
 |             33 | [Naitoa Ah Kuoi](..//playerfiles//NaitoaAhKuoi_cleaned.md)              |     123.1  |                95 |       19 |                85 |     111.76 | [Taleni Seu](..//playerfiles//TaleniSeu_cleaned.md)                     |             23 |
 |             15 | [Kaylum Boshier](..//playerfiles//KaylumBoshier_cleaned.md)             |      86.78 |                21 |       20 |               nan |      95    | [Zac Von Appen](..//playerfiles//ZacVonAppen_cleaned.md)                |              3 |
 |             16 | [Cortez Ratima](..//playerfiles//CortezRatima_cleaned.md)               |     112.46 |                88 |       21 |               nan |      95.05 | [Harrison Goddard](..//playerfiles//HarrisonGoddard_cleaned.md)         |              3 |
-|             10 | [Daniel Rona](..//playerfiles//DanielRona_cleaned.md)                   |      97.07 |                50 |       22 |                77 |     106.76 | [Harry Wilson](..//playerfiles//HarryWilson_cleaned.md)                 |             14 |
+|             10 | [Daniel Rona](..//playerfiles//DanielRona_cleaned.md)                   |      97.07 |                50 |       22 |               nan |      95    | [Harry Wilson](..//playerfiles//HarryWilson_cleaned.md)                 |             14 |
 |             28 | [Shaun Stevenson](..//playerfiles//ShaunStevenson_cleaned.md)           |     104.54 |                70 |       23 |                93 |     124.19 | [Nemani Nadolo](..//playerfiles//NemaniNadolo_cleaned.md)               |             14 |
 

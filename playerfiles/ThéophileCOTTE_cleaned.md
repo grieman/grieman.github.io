@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Théophile Cotte  
-date: 2023-03-29 11:30:09.218368  
+date: 2023-03-30 11:32:03.541522  
 categories: player  
 ---
 # Théophile Cotte
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 97.0

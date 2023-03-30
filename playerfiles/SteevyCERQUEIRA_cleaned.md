@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Steevy CERQUEIRA  
-date: 2023-03-29 11:29:36.231542  
+date: 2023-03-30 11:30:54.239584  
 categories: player  
 ---
 # Steevy CERQUEIRA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L, FL
 
 ## Country: Portugal

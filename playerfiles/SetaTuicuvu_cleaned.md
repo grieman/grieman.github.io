@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Seta Tuicuvu  
-date: 2023-03-29 11:31:23.827305  
+date: 2023-03-30 11:33:24.104028  
 categories: player  
 ---
 # Seta Tuicuvu
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB, C
 
 ## Country: Fiji

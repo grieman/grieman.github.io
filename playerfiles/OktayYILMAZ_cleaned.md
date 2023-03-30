@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Oktay YILMAZ  
-date: 2023-03-29 11:31:18.473091  
+date: 2023-03-30 11:31:06.797490  
 categories: player  
 ---
 # Oktay YILMAZ
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 101.0

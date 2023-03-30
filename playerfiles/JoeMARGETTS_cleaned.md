@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Joe MARGETTS  
-date: 2023-03-29 11:32:00.324247  
+date: 2023-03-30 11:32:37.971200  
 categories: player  
 ---
 # Joe MARGETTS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C
 
 ## Current elo: 81.0

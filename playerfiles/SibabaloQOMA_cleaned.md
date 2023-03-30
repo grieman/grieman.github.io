@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sibabalo QOMA  
-date: 2023-03-29 11:31:09.419582  
+date: 2023-03-30 11:31:55.884368  
 categories: player  
 ---
 # Sibabalo QOMA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8, FL
 
 ## Current elo: 103.0

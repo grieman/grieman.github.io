@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Vincent MUTEL  
-date: 2023-03-29 11:28:55.650182  
+date: 2023-03-30 11:30:35.722334  
 categories: player  
 ---
 # Vincent MUTEL
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 116.0

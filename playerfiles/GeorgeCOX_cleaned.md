@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: George COX  
-date: 2023-03-29 11:31:06.441866  
+date: 2023-03-30 11:33:27.380189  
 categories: player  
 ---
 # George COX
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 94.0

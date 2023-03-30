@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sam RODMAN  
-date: 2023-03-29 11:28:15.210959  
+date: 2023-03-30 11:35:03.350735  
 categories: player  
 ---
 # Sam RODMAN
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 111.0

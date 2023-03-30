@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Lewis FINLAY  
-date: 2023-03-29 11:30:33.745915  
+date: 2023-03-30 11:33:30.552756  
 categories: player  
 ---
 # Lewis FINLAY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 94.0

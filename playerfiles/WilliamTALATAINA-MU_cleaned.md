@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: William TALATAINA-MU  
-date: 2023-03-29 11:28:31.759364  
+date: 2023-03-30 11:31:07.833475  
 categories: player  
 ---
 # William TALATAINA-MU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C
 
 ## Current elo: 56.0

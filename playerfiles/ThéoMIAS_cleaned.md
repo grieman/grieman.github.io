@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Théo MIAS  
-date: 2023-03-29 11:32:02.386437  
+date: 2023-03-30 11:31:00.346034  
 categories: player  
 ---
 # Théo MIAS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: W, C
 
 ## Current elo: 91.0

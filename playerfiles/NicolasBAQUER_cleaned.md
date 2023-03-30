@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nicolas BAQUER  
-date: 2023-03-29 11:30:24.729283  
+date: 2023-03-30 11:31:16.590359  
 categories: player  
 ---
 # Nicolas BAQUER
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 85.0

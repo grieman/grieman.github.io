@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tomas INCIARTE RACHETTI  
-date: 2023-03-29 11:29:53.482768  
+date: 2023-03-30 11:35:09.897501  
 categories: player  
 ---
 # Tomas INCIARTE RACHETTI
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH, C
 
 ## Country: Uruguay

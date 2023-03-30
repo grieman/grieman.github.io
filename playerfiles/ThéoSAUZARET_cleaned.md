@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Théo SAUZARET  
-date: 2023-03-29 11:31:02.104600  
+date: 2023-03-30 11:35:06.614563  
 categories: player  
 ---
 # Théo SAUZARET
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 103.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Quentin WITT  
-date: 2023-03-29 11:30:03.833439  
+date: 2023-03-30 11:31:15.544378  
 categories: player  
 ---
 # Quentin WITT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Current elo: 89.0

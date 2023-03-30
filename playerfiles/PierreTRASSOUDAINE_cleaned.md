@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre TRASSOUDAINE  
-date: 2023-03-29 11:30:35.758443  
+date: 2023-03-30 11:31:25.240388  
 categories: player  
 ---
 # Pierre TRASSOUDAINE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 134.0

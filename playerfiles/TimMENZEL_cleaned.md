@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tim MENZEL  
-date: 2023-03-29 11:28:20.825093  
+date: 2023-03-30 11:32:00.365453  
 categories: player  
 ---
 # Tim MENZEL
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Country: Germany

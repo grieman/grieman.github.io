@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thibaut TROTTA  
-date: 2023-03-29 11:30:39.657038  
+date: 2023-03-30 11:33:49.185111  
 categories: player  
 ---
 # Thibaut TROTTA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB
 
 ## Current elo: 79.0

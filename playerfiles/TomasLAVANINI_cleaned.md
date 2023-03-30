@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tomas Lavanini  
-date: 2023-03-29 11:31:51.048761  
+date: 2023-03-30 11:32:43.362807  
 categories: player  
 ---
 # Tomas Lavanini
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Country: Argentina

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nicolas FERRER  
-date: 2023-03-29 11:29:28.692636  
+date: 2023-03-30 11:34:32.088073  
 categories: player  
 ---
 # Nicolas FERRER
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 104.0

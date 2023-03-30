@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Samuel MARQUES  
-date: 2023-03-29 11:31:01.001504  
+date: 2023-03-30 11:30:38.963222  
 categories: player  
 ---
 # Samuel MARQUES
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Country: Portugal

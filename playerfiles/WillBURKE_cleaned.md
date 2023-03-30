@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Will BURKE  
-date: 2023-03-29 11:29:59.975774  
+date: 2023-03-30 11:32:16.506417  
 categories: player  
 ---
 # Will BURKE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 76.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Max ARGYLE  
-date: 2023-03-29 11:29:09.167424  
+date: 2023-03-30 11:32:51.989226  
 categories: player  
 ---
 # Max ARGYLE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Current elo: 97.0

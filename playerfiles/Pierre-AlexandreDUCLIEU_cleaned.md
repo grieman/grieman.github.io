@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre-Alexandre DUCLIEU  
-date: 2023-03-29 11:29:55.523013  
+date: 2023-03-30 11:33:43.553856  
 categories: player  
 ---
 # Pierre-Alexandre DUCLIEU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 89.0

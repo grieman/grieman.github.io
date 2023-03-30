@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nicolas FAURE  
-date: 2023-03-29 11:30:15.617419  
+date: 2023-03-30 11:33:23.077373  
 categories: player  
 ---
 # Nicolas FAURE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 118.0

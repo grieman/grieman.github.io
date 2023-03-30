@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nathan TWEEDY  
-date: 2023-03-29 11:29:12.991507  
+date: 2023-03-30 11:32:48.788837  
 categories: player  
 ---
 # Nathan TWEEDY
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 126.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pierre HUGUET  
-date: 2023-03-29 11:32:04.250874  
+date: 2023-03-30 11:34:52.311232  
 categories: player  
 ---
 # Pierre HUGUET
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 88.0

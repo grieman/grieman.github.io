@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thomas LARANJEIRA  
-date: 2023-03-29 11:28:39.790945  
+date: 2023-03-30 11:33:58.866394  
 categories: player  
 ---
 # Thomas LARANJEIRA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB, FH
 
 ## Current elo: 116.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Elliot Obatoyinbo  
-date: 2023-03-29 11:31:46.728423  
+date: 2023-03-30 11:32:55.143730  
 categories: player  
 ---
 # Elliot Obatoyinbo
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FB
 
 ## Current elo: 87.0

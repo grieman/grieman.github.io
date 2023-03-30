@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Huw OWEN  
-date: 2023-03-29 11:29:47.832190  
+date: 2023-03-30 11:30:53.168969  
 categories: player  
 ---
 # Huw OWEN
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 96.0

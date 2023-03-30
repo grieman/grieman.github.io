@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Dalton Papalii  
-date: 2023-03-27 11:33:42.814804  
+date: 2023-03-30 11:32:20.749357  
 categories: player  
 ---
 # Dalton Papalii
 
 
-Last updated: 2023-03-27
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Country: New Zealand

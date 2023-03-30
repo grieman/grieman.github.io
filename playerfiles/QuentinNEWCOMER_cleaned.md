@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Quentin NEWCOMER  
-date: 2023-03-29 11:31:22.836454  
+date: 2023-03-30 11:34:03.211780  
 categories: player  
 ---
 # Quentin NEWCOMER
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 61.0

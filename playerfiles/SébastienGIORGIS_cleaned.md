@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sébastien GIORGIS  
-date: 2023-03-29 11:28:04.305985  
+date: 2023-03-30 11:31:20.953988  
 categories: player  
 ---
 # Sébastien GIORGIS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: W, C
 
 ## Current elo: 87.0

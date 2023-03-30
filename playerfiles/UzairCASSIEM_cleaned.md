@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Uzair CASSIEM  
-date: 2023-03-29 11:30:07.571844  
+date: 2023-03-30 11:31:13.382432  
 categories: player  
 ---
 # Uzair CASSIEM
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8, FL
 
 ## Country: South Africa

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sione Havili Talitui  
-date: 2023-03-29 11:28:30.899474  
+date: 2023-03-30 11:30:37.897201  
 categories: player  
 ---
 # Sione Havili Talitui
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Country: Tonga

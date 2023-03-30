@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain LATERRADE  
-date: 2023-03-29 11:31:31.780638  
+date: 2023-03-30 11:31:36.227585  
 categories: player  
 ---
 # Romain LATERRADE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 89.0

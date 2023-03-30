@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Patrick MADDEN  
-date: 2023-03-29 11:31:50.157739  
+date: 2023-03-30 11:33:32.682124  
 categories: player  
 ---
 # Patrick MADDEN
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 98.0

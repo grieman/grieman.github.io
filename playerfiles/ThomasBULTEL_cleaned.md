@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thomas BULTEL  
-date: 2023-03-29 11:28:28.985816  
+date: 2023-03-30 11:32:32.639349  
 categories: player  
 ---
 # Thomas BULTEL
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 110.0

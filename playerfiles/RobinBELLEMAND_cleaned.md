@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Robin BELLEMAND  
-date: 2023-03-29 11:29:11.964400  
+date: 2023-03-30 11:31:49.335897  
 categories: player  
 ---
 # Robin BELLEMAND
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 77.0

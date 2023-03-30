@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Théo LEPAGE  
-date: 2023-03-29 11:28:54.667377  
+date: 2023-03-30 11:33:37.058711  
 categories: player  
 ---
 # Théo LEPAGE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8, FL
 
 ## Current elo: 102.0

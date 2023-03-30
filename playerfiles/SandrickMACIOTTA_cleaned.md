@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sandrick MACIOTTA  
-date: 2023-03-29 11:31:10.229618  
+date: 2023-03-30 11:33:01.552844  
 categories: player  
 ---
 # Sandrick MACIOTTA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8, FL
 
 ## Current elo: 111.0

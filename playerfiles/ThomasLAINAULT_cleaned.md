@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thomas LAINAULT  
-date: 2023-03-29 11:29:08.365450  
+date: 2023-03-30 11:30:29.195764  
 categories: player  
 ---
 # Thomas LAINAULT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 111.0

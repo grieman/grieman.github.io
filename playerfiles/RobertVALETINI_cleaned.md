@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Robert VALETINI  
-date: 2023-03-27 11:35:10.419595  
+date: 2023-03-30 11:34:14.948840  
 categories: player  
 ---
 # Robert VALETINI
 
 
-Last updated: 2023-03-27
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Country: Australia

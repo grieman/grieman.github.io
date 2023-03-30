@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Quentin DAUVERGNE  
-date: 2023-03-29 11:29:20.564684  
+date: 2023-03-30 11:32:01.487643  
 categories: player  
 ---
 # Quentin DAUVERGNE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 80.0

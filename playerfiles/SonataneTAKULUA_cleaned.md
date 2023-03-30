@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sonatane Takulua  
-date: 2023-03-29 11:29:05.542351  
+date: 2023-03-30 11:33:13.277901  
 categories: player  
 ---
 # Sonatane Takulua
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 95.0

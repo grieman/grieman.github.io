@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thomas CEYTE  
-date: 2023-03-29 11:31:54.708141  
+date: 2023-03-30 11:34:02.156221  
 categories: player  
 ---
 # Thomas CEYTE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 128.0

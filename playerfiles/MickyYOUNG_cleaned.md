@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Micky YOUNG  
-date: 2023-03-29 11:30:55.495266  
+date: 2023-03-30 11:34:27.785166  
 categories: player  
 ---
 # Micky YOUNG
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 103.0

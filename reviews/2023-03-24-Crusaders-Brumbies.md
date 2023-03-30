@@ -28,16 +28,16 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Brumbies by 0.4
+## Prediction with Player Minutes: Brumbies by 1.0
 
 
-Brumbies by 4.4 on a neutral field
+Brumbies by 5.0 on a neutral field
 
-There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Crusaders by 0.4
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Brumbies by 0.2
 
 
-Brumbies by 3.6 on a neutral pitch
+Brumbies by 4.2 on a neutral pitch
 
 
 
@@ -59,10 +59,10 @@ Brumbies by 3.6 on a neutral pitch
 |             80 | [Ben O'Donnell](..//playerfiles//BenO'Donnell_cleaned.md)       |      88.68 |               nan |       14 |                52 |      98.32 | [Pepesana Patafilo](..//playerfiles//PepesanaPatafilo_cleaned.md)           |             53 |
 |             80 | [Andy Muirhead](..//playerfiles//AndyMuirhead_cleaned.md)       |     130.85 |                96 |       15 |                26 |      87.27 | [Fergus Burke](..//playerfiles//FergusBurke_cleaned.md)                     |             80 |
 |             48 | [Lachlan Lonergan](..//playerfiles//LachlanLonergan_cleaned.md) |      81.98 |                13 |       16 |                84 |     106.95 | [Brodie McAlister](..//playerfiles//BrodieMcAlister_cleaned.md)             |             20 |
-|             24 | [Fred Kaihea](..//playerfiles//FredKaihea_cleaned.md)           |      95    |               nan |       17 |                11 |      81.29 | [George Bower](..//playerfiles//GeorgeBower_cleaned.md)                     |             23 |
+|             24 | [Fred Kaihea](..//playerfiles//FredKaihea_cleaned.md)           |      96.54 |               nan |       17 |                11 |      81.29 | [George Bower](..//playerfiles//GeorgeBower_cleaned.md)                     |             23 |
 |             34 | [Allan Alaalatoa](..//playerfiles//AllanAlaalatoa_cleaned.md)   |     138.03 |                99 |       18 |               nan |      99.86 | [Seb Calder](..//playerfiles//SebCalder_cleaned.md)                         |             31 |
 |             40 | [Nick Frost](..//playerfiles//NickFrost_cleaned.md)             |      85.71 |                21 |       19 |               nan |      95    | [Jamie Hannah](..//playerfiles//JamieHannah_cleaned.md)                     |             14 |
-|             18 | [Jahrome Brown](..//playerfiles//JahromeBrown_cleaned.md)       |      95    |               nan |       20 |                15 |      83.05 | [Christian Lio-Willie](..//playerfiles//ChristianLio-Willie_cleaned.md)     |             44 |
+|             18 | [Jahrome Brown](..//playerfiles//JahromeBrown_cleaned.md)       |     118.62 |                88 |       20 |                15 |      83.05 | [Christian Lio-Willie](..//playerfiles//ChristianLio-Willie_cleaned.md)     |             44 |
 |              6 | [Pedro Rolando](..//playerfiles//PedroRolando_cleaned.md)       |      95    |               nan |       21 |                44 |      93.84 | [Willi Heinz](..//playerfiles//WilliHeinz_cleaned.md)                       |             30 |
 |             24 | [Jack Debreczeni](..//playerfiles//JackDebreczeni_cleaned.md)   |      90.11 |                30 |       22 |               nan |      95    | [Willi Gualter](..//playerfiles//WilliGualter_cleaned.md)                   |             27 |
 |             27 | [Declan Meredith](..//playerfiles//DeclanMeredith_cleaned.md)   |      95    |               nan |       23 |                81 |     109.39 | [Chay Fihaki](..//playerfiles//ChayFihaki_cleaned.md)                       |             14 |

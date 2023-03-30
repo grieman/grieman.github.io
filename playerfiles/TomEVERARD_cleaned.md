@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tom EVERARD  
-date: 2023-03-29 11:31:00.089570  
+date: 2023-03-30 11:31:38.373509  
 categories: player  
 ---
 # Tom EVERARD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 87.0

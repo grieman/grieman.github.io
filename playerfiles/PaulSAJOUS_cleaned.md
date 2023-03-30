@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Paul SAJOUS  
-date: 2023-03-29 11:29:00.152655  
+date: 2023-03-30 11:34:11.605502  
 categories: player  
 ---
 # Paul SAJOUS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L, FL
 
 ## Current elo: 64.0

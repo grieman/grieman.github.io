@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Hayden KING  
-date: 2023-03-29 11:29:33.348391  
+date: 2023-03-30 11:34:55.510890  
 categories: player  
 ---
 # Hayden KING
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 98.0

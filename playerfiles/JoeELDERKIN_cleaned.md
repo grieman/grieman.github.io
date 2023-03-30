@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Joe ELDERKIN  
-date: 2023-03-29 11:28:06.896815  
+date: 2023-03-30 11:32:42.403267  
 categories: player  
 ---
 # Joe ELDERKIN
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C
 
 ## Current elo: 85.0

@@ -1,102 +1,11 @@
 ---  
-"title: European Rugby Champions Cup Status"  
-date: 2023-03-29 6:00:00 -0500  
+title: European Rugby Champions Cup Status  
+date:   
 categories: model review projection  
-layout: article  
-aside:  
-    toc: true  
 ---
-# Standings
+# European Rugby Champions Cup Status
 
-## Current Standings
-
-
-| Club                |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster            |      4 |                  150 |                     0 |                  4 |                   20 |
-| La Rochelle         |      4 |                   63 |                     0 |                  2 |                   18 |
-| Stade Toulousain    |      4 |                   57 |                     0 |                  1 |                   17 |
-| Exeter Chiefs       |      3 |                   71 |                     0 |                  4 |                   16 |
-| Stormers            |      3 |                   38 |                     0 |                  3 |                   15 |
-| Sharks              |      3 |                   30 |                     0 |                  3 |                   15 |
-| Edinburgh           |      3 |                   26 |                     1 |                  2 |                   15 |
-| Saracens            |      3 |                   26 |                     1 |                  2 |                   15 |
-| Leicester Tigers    |      3 |                   27 |                     1 |                  1 |                   14 |
-| Ospreys             |      3 |                   12 |                     1 |                  1 |                   14 |
-| Harlequins          |      2 |                    5 |                     1 |                  3 |                   12 |
-| Munster             |      2 |                    6 |                     2 |                  0 |                   10 |
-| Bulls               |      2 |                  -37 |                     0 |                  2 |                   10 |
-| Montpellier Herault |      1 |                  -12 |                     1 |                  2 |                    9 |
-| Gloucester Rugby    |      2 |                  -78 |                     0 |                  1 |                    9 |
-| Lyon                |      1 |                  -10 |                     1 |                  3 |                    8 |
-| Ulster              |      1 |                  -39 |                     2 |                  1 |                    7 |
-| Clermont Auvergne   |      1 |                  -26 |                     1 |                  1 |                    6 |
-| Sale Sharks         |      1 |                  -20 |                     0 |                  1 |                    5 |
-| Racing 92           |      1 |                  -61 |                     1 |                  0 |                    5 |
-| London Irish        |      0 |                  -39 |                     1 |                  0 |                    3 |
-| Bordeaux Begles     |      0 |                  -46 |                     2 |                  0 |                    2 |
-| Northampton Saints  |      0 |                  -67 |                     1 |                  0 |                    1 |
-| Castres Olympique   |      0 |                  -76 |                     0 |                  0 |                    0 |
-
-
-
-## Projected Remaining Table
-
-
-| Club                |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain    |    1   |                  8.5 |                   0   |                0.6 |                  4.5 |
-| Saracens            |    1   |                 13.7 |                   0   |                0.4 |                  4.4 |
-| Leinster            |    1   |                 11   |                   0   |                0.4 |                  4.4 |
-| Leicester Tigers    |    1   |                  9   |                   0   |                0.3 |                  4.3 |
-| La Rochelle         |    1   |                  8.4 |                   0   |                0.3 |                  4.3 |
-| Stormers            |    1   |                  7.4 |                   0   |                0.5 |                  4.3 |
-| Exeter Chiefs       |    1   |                  6.5 |                   0   |                0.2 |                  4.1 |
-| Sharks              |    0.5 |                  0.4 |                   0.4 |                0.1 |                  2.6 |
-| Munster             |    0.4 |                 -0.4 |                   0.4 |                0.1 |                  2.4 |
-| Montpellier Herault |    0   |                 -6.5 |                   0.6 |                0.1 |                  0.8 |
-| Harlequins          |    0   |                 -7.4 |                   0.5 |                0.1 |                  0.7 |
-| Gloucester Rugby    |    0   |                 -8.4 |                   0.4 |                0.1 |                  0.5 |
-| Bulls               |    0   |                 -8.5 |                   0.4 |                0.1 |                  0.5 |
-| Edinburgh           |    0   |                 -9   |                   0.3 |                0   |                  0.4 |
-| Ulster              |    0   |                -11   |                   0.2 |                0.1 |                  0.3 |
-| Ospreys             |    0   |                -13.7 |                   0.1 |                0   |                  0.1 |
-
-
-
-## Projected Total Table
-
-
-| Club                |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs       |    4   |                 79.4 |                   0   |                4.3 |                 20.3 |
-| Leinster            |    4   |                136.3 |                   0.1 |                4   |                 20.1 |
-| La Rochelle         |    4   |                 56.5 |                   0.6 |                2.1 |                 18.8 |
-| Leicester Tigers    |    3.4 |                 26.6 |                   1.4 |                1.1 |                 16.4 |
-| Harlequins          |    3   |                 16   |                   1   |                3.4 |                 16.4 |
-| Edinburgh           |    3   |                 18.6 |                   1.5 |                2.1 |                 15.7 |
-| Munster             |    3   |                 13.4 |                   2   |                0.5 |                 14.3 |
-| Montpellier Herault |    2   |                 -3.5 |                   1   |                2.6 |                 13.5 |
-| Gloucester Rugby    |    3   |                -69   |                   0   |                1.3 |                 13.3 |
-| Lyon                |    1.5 |                 -9.6 |                   1.4 |                3.1 |                 10.6 |
-| Bulls               |    2   |                -46   |                   0.3 |                2   |                 10.4 |
-| London Irish        |    1   |                -25.3 |                   1   |                0.4 |                  7.4 |
-| Clermont Auvergne   |    1   |                -34.4 |                   1.4 |                1.1 |                  6.5 |
-| Castres Olympique   |    1   |                -69.5 |                   0   |                0.2 |                  4.1 |
-| Bordeaux Begles     |    0   |                -54.5 |                   2.4 |                0.1 |                  2.5 |
-| Northampton Saints  |    0   |                -78   |                   1.2 |                0.1 |                  1.3 |
-| Ospreys             |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Racing 92           |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Sale Sharks         |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Saracens            |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Sharks              |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Stade Toulousain    |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Stormers            |  nan   |                nan   |                 nan   |              nan   |                nan   |
-| Ulster              |  nan   |                nan   |                 nan   |              nan   |                nan   |
-
-
-
-# Completed Match Review
+## Completed Match Review
 
 
 | Match                                              |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
@@ -154,14 +63,93 @@ aside:
 | Correct Winner |       - | 70.8% | 68.8% | 64.6% |
 
 
-# Future Predictions
-
-## Week 3
-
-### Leicester Tigers V Edinburgh on 2023/03/31
+## Current Standings
 
 
-Average Margin: Leicester Tigers by 9.0
+| Club                |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Leinster            |      4 |                  150 |                     0 |                  4 |                   20 |
+| La Rochelle         |      4 |                   63 |                     0 |                  2 |                   18 |
+| Stade Toulousain    |      4 |                   57 |                     0 |                  1 |                   17 |
+| Exeter Chiefs       |      3 |                   71 |                     0 |                  4 |                   16 |
+| Stormers            |      3 |                   38 |                     0 |                  3 |                   15 |
+| Sharks              |      3 |                   30 |                     0 |                  3 |                   15 |
+| Edinburgh           |      3 |                   26 |                     1 |                  2 |                   15 |
+| Saracens            |      3 |                   26 |                     1 |                  2 |                   15 |
+| Leicester Tigers    |      3 |                   27 |                     1 |                  1 |                   14 |
+| Ospreys             |      3 |                   12 |                     1 |                  1 |                   14 |
+| Harlequins          |      2 |                    5 |                     1 |                  3 |                   12 |
+| Munster             |      2 |                    6 |                     2 |                  0 |                   10 |
+| Bulls               |      2 |                  -37 |                     0 |                  2 |                   10 |
+| Montpellier Herault |      1 |                  -12 |                     1 |                  2 |                    9 |
+| Gloucester Rugby    |      2 |                  -78 |                     0 |                  1 |                    9 |
+| Lyon                |      1 |                  -10 |                     1 |                  3 |                    8 |
+| Ulster              |      1 |                  -39 |                     2 |                  1 |                    7 |
+| Clermont Auvergne   |      1 |                  -26 |                     1 |                  1 |                    6 |
+| Sale Sharks         |      1 |                  -20 |                     0 |                  1 |                    5 |
+| Racing 92           |      1 |                  -61 |                     1 |                  0 |                    5 |
+| London Irish        |      0 |                  -39 |                     1 |                  0 |                    3 |
+| Bordeaux Begles     |      0 |                  -46 |                     2 |                  0 |                    2 |
+| Northampton Saints  |      0 |                  -67 |                     1 |                  0 |                    1 |
+| Castres Olympique   |      0 |                  -76 |                     0 |                  0 |                    0 |
+## Projected Remaining Table
+
+
+| Club                |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Stade Toulousain    |    1   |                  8.9 |                   0   |                0.4 |                  4.4 |
+| Saracens            |    1   |                 13.8 |                   0   |                0.3 |                  4.3 |
+| Leinster            |    1   |                 11.1 |                   0   |                0.3 |                  4.3 |
+| La Rochelle         |    1   |                  8.6 |                   0   |                0.3 |                  4.3 |
+| Stormers            |    1   |                  7.4 |                   0   |                0.4 |                  4.3 |
+| Leicester Tigers    |    1   |                  8.9 |                   0   |                0.3 |                  4.2 |
+| Exeter Chiefs       |    1   |                  6.5 |                   0   |                0.1 |                  4   |
+| Sharks              |    0.5 |                  0.3 |                   0.4 |                0.1 |                  2.6 |
+| Munster             |    0.4 |                 -0.3 |                   0.5 |                0.1 |                  2.4 |
+| Montpellier Herault |    0   |                 -6.5 |                   0.6 |                0.1 |                  0.8 |
+| Harlequins          |    0   |                 -7.4 |                   0.5 |                0.1 |                  0.7 |
+| Bulls               |    0   |                 -8.9 |                   0.3 |                0.1 |                  0.5 |
+| Gloucester Rugby    |    0   |                 -8.6 |                   0.3 |                0.1 |                  0.4 |
+| Edinburgh           |    0   |                 -8.9 |                   0.3 |                0.1 |                  0.4 |
+| Ulster              |    0   |                -11.1 |                   0.2 |                0.1 |                  0.3 |
+| Ospreys             |    0   |                -13.8 |                   0   |                0   |                  0.1 |
+## Total Table
+
+
+| Club                |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Exeter Chiefs       |    4   |                 79.6 |                   0   |                4.3 |                 20.3 |
+| Leinster            |    4   |                136.2 |                   0   |                4   |                 20.1 |
+| La Rochelle         |    4   |                 56.5 |                   0.6 |                2.1 |                 18.8 |
+| Leicester Tigers    |    3.4 |                 26.7 |                   1.5 |                1.1 |                 16.4 |
+| Harlequins          |    3   |                 16.1 |                   1   |                3.3 |                 16.3 |
+| Edinburgh           |    3   |                 18.6 |                   1.5 |                2.1 |                 15.7 |
+| Munster             |    3   |                 13.4 |                   2   |                0.4 |                 14.3 |
+| Montpellier Herault |    2   |                 -3.1 |                   1   |                2.4 |                 13.4 |
+| Gloucester Rugby    |    3   |                -69.1 |                   0   |                1.3 |                 13.2 |
+| Lyon                |    1.5 |                 -9.7 |                   1.4 |                3.1 |                 10.6 |
+| Bulls               |    2   |                -45.9 |                   0.3 |                2.1 |                 10.4 |
+| London Irish        |    1   |                -25.2 |                   1   |                0.3 |                  7.3 |
+| Clermont Auvergne   |    1   |                -34.6 |                   1.3 |                1.1 |                  6.4 |
+| Castres Olympique   |    1   |                -69.5 |                   0   |                0.1 |                  4   |
+| Bordeaux Begles     |    0   |                -54.9 |                   2.3 |                0.1 |                  2.5 |
+| Northampton Saints  |    0   |                -78.1 |                   1.2 |                0.1 |                  1.3 |
+| Ospreys             |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Racing 92           |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Sale Sharks         |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Saracens            |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Sharks              |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Stade Toulousain    |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Stormers            |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Ulster              |  nan   |                nan   |                 nan   |              nan   |                nan   |
+## Future Club-Level Match Predictions
+
+### Week 3
+
+#### Leicester Tigers V Edinburgh on 2023/03/31
+
+
+Average Margin: Leicester Tigers by 8.9
 
 <p float="left">
 <img src="plots/performances_Leicester Tigers_V_Edinburgh_3.png" width="32%" />
@@ -169,10 +157,10 @@ Average Margin: Leicester Tigers by 9.0
 <img src="plots/spreads_Leicester Tigers_V_Edinburgh_3.png" width="32%" />
 </p>
 
-### Sharks V Munster on 2023/04/01
+#### Sharks V Munster on 2023/04/01
 
 
-Average Margin: Sharks by 0.4
+Average Margin: Sharks by 0.3
 
 <p float="left">
 <img src="plots/performances_Sharks_V_Munster_3.png" width="32%" />
@@ -180,7 +168,7 @@ Average Margin: Sharks by 0.4
 <img src="plots/spreads_Sharks_V_Munster_3.png" width="32%" />
 </p>
 
-### Stormers V Harlequins on 2023/04/01
+#### Stormers V Harlequins on 2023/04/01
 
 
 Average Margin: Stormers by 7.4
@@ -191,10 +179,10 @@ Average Margin: Stormers by 7.4
 <img src="plots/spreads_Stormers_V_Harlequins_3.png" width="32%" />
 </p>
 
-### La Rochelle V Gloucester Rugby on 2023/04/01
+#### La Rochelle V Gloucester Rugby on 2023/04/01
 
 
-Average Margin: La Rochelle by 8.4
+Average Margin: La Rochelle by 8.6
 
 <p float="left">
 <img src="plots/performances_La Rochelle_V_Gloucester Rugby_3.png" width="32%" />
@@ -202,10 +190,10 @@ Average Margin: La Rochelle by 8.4
 <img src="plots/spreads_La Rochelle_V_Gloucester Rugby_3.png" width="32%" />
 </p>
 
-### Leinster V Ulster on 2023/04/01
+#### Leinster V Ulster on 2023/04/01
 
 
-Average Margin: Leinster by 11.0
+Average Margin: Leinster by 11.1
 
 <p float="left">
 <img src="plots/performances_Leinster_V_Ulster_3.png" width="32%" />
@@ -213,7 +201,7 @@ Average Margin: Leinster by 11.0
 <img src="plots/spreads_Leinster_V_Ulster_3.png" width="32%" />
 </p>
 
-### Exeter Chiefs V Montpellier Herault on 2023/04/02
+#### Exeter Chiefs V Montpellier Herault on 2023/04/02
 
 
 Average Margin: Exeter Chiefs by 6.5
@@ -224,10 +212,10 @@ Average Margin: Exeter Chiefs by 6.5
 <img src="plots/spreads_Exeter Chiefs_V_Montpellier Herault_3.png" width="32%" />
 </p>
 
-### Saracens V Ospreys on 2023/04/02
+#### Saracens V Ospreys on 2023/04/02
 
 
-Average Margin: Saracens by 13.7
+Average Margin: Saracens by 13.8
 
 <p float="left">
 <img src="plots/performances_Saracens_V_Ospreys_3.png" width="32%" />
@@ -235,10 +223,10 @@ Average Margin: Saracens by 13.7
 <img src="plots/spreads_Saracens_V_Ospreys_3.png" width="32%" />
 </p>
 
-### Stade Toulousain V Bulls on 2023/04/02
+#### Stade Toulousain V Bulls on 2023/04/02
 
 
-Average Margin: Stade Toulousain by 8.5
+Average Margin: Stade Toulousain by 8.9
 
 <p float="left">
 <img src="plots/performances_Stade Toulousain_V_Bulls_3.png" width="32%" />

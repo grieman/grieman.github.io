@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Willem Nel  
-date: 2023-03-29 11:31:45.583112  
+date: 2023-03-30 11:34:26.693776  
 categories: player  
 ---
 # Willem Nel
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: Scotland

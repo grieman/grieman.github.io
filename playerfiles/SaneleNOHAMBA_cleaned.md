@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sanele NOHAMBA  
-date: 2023-03-29 11:29:13.812994  
+date: 2023-03-30 11:32:50.910466  
 categories: player  
 ---
 # Sanele NOHAMBA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 117.0

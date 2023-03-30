@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Irne HERBST  
-date: 2023-03-29 11:31:14.901508  
+date: 2023-03-30 11:32:56.241251  
 categories: player  
 ---
 # Irne HERBST
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 112.0

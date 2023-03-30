@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Zak FARRANCE  
-date: 2023-03-29 11:29:31.389537  
+date: 2023-03-30 11:30:45.629833  
 categories: player  
 ---
 # Zak FARRANCE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 88.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Xavier VALENTINE  
-date: 2023-03-29 11:29:18.792575  
+date: 2023-03-30 11:34:46.680771  
 categories: player  
 ---
 # Xavier VALENTINE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 95.0

@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Joe SPROSTON  
-date: 2023-03-29 11:31:55.535168  
+date: 2023-03-30 11:31:04.606485  
 categories: player  
 ---
 # Joe SPROSTON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 92.0

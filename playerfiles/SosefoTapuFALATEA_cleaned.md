@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sosefo Tapu Falatea  
-date: 2023-03-29 11:28:48.666039  
+date: 2023-03-30 11:32:25.355783  
 categories: player  
 ---
 # Sosefo Tapu Falatea
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 103.0

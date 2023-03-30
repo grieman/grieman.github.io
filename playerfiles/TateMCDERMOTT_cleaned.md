@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tate MCDERMOTT  
-date: 2023-03-29 11:28:08.814446  
+date: 2023-03-30 11:34:56.665413  
 categories: player  
 ---
 # Tate MCDERMOTT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Country: Australia

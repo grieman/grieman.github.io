@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: James WILLIAMS  
-date: 2023-03-29 11:30:17.517422  
+date: 2023-03-30 11:34:40.169409  
 categories: player  
 ---
 # James WILLIAMS
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FH, C
 
 ## Current elo: 105.0

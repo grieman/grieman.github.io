@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tony TISSOT  
-date: 2023-03-29 11:31:30.967594  
+date: 2023-03-30 11:34:45.632589  
 categories: player  
 ---
 # Tony TISSOT
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL
 
 ## Current elo: 92.0

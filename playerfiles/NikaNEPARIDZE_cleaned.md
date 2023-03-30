@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Nika NEPARIDZE  
-date: 2023-03-29 11:30:06.541757  
+date: 2023-03-30 11:33:33.748203  
 categories: player  
 ---
 # Nika NEPARIDZE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 92.0

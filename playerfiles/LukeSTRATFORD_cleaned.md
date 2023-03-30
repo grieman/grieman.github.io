@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Luke STRATFORD  
-date: 2023-03-29 11:29:49.628635  
+date: 2023-03-30 11:31:28.468982  
 categories: player  
 ---
 # Luke STRATFORD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 101.0

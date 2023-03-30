@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Tui URU  
-date: 2023-03-29 11:29:54.436865  
+date: 2023-03-30 11:33:14.431113  
 categories: player  
 ---
 # Tui URU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: N8, FL
 
 ## Current elo: 82.0

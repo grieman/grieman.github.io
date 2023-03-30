@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Quentin WALCKER  
-date: 2023-03-29 11:31:25.510508  
+date: 2023-03-30 11:32:29.509971  
 categories: player  
 ---
 # Quentin WALCKER
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: France

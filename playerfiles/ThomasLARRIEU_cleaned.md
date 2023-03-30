@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thomas LARRIEU  
-date: 2023-03-29 11:31:53.041884  
+date: 2023-03-30 11:33:29.500334  
 categories: player  
 ---
 # Thomas LARRIEU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 122.0

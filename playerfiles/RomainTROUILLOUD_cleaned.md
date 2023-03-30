@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Romain TROUILLOUD  
-date: 2023-03-29 11:29:06.591312  
+date: 2023-03-30 11:31:09.996031  
 categories: player  
 ---
 # Romain TROUILLOUD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: C
 
 ## Current elo: 80.0

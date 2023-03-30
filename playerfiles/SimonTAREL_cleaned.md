@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Simon TAREL  
-date: 2023-03-29 11:28:07.948756  
+date: 2023-03-30 11:33:07.969827  
 categories: player  
 ---
 # Simon TAREL
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 93.0

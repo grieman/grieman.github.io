@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: WJ STEENKAMP  
-date: 2023-03-29 11:28:01.382760  
+date: 2023-03-30 11:33:48.114520  
 categories: player  
 ---
 # WJ STEENKAMP
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Current elo: 101.0

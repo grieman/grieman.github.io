@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Quentin BEAUDAUX  
-date: 2023-03-29 11:31:13.194465  
+date: 2023-03-30 11:35:11.106170  
 categories: player  
 ---
 # Quentin BEAUDAUX
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: H
 
 ## Current elo: 94.0

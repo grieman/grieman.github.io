@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thibault DAUBAGNA  
-date: 2023-03-29 11:31:17.353604  
+date: 2023-03-30 11:31:45.060928  
 categories: player  
 ---
 # Thibault DAUBAGNA
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Current elo: 131.0

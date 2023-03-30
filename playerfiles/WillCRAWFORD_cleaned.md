@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Will CRAWFORD  
-date: 2023-03-29 11:31:34.844576  
+date: 2023-03-30 11:30:25.918049  
 categories: player  
 ---
 # Will CRAWFORD
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: L
 
 ## Current elo: 58.0

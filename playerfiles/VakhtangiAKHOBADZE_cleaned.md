@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Vakhtangi AKHOBADZE  
-date: 2023-03-29 11:28:35.494932  
+date: 2023-03-30 11:31:52.588959  
 categories: player  
 ---
 # Vakhtangi AKHOBADZE
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 56.0

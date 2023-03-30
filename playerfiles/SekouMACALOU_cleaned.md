@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Sekou MACALOU  
-date: 2023-03-29 11:31:21.091280  
+date: 2023-03-30 11:30:30.249853  
 categories: player  
 ---
 # Sekou MACALOU
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: FL, N8
 
 ## Country: France

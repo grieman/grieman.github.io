@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Daniel Kasende  
-date: 2023-03-29 11:28:58.392568  
+date: 2023-03-30 11:33:44.688953  
 categories: player  
 ---
 # Daniel Kasende
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: W
 
 ## Current elo: 93.0

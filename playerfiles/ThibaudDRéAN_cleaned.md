@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Thibaud DRéAN  
-date: 2023-03-29 11:31:37.781738  
+date: 2023-03-30 11:33:02.633881  
 categories: player  
 ---
 # Thibaud DRéAN
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 70.0

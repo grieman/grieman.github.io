@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Pouri Gordon RAKETE-STONES  
-date: 2023-03-24 11:46:05.189641  
+date: 2023-03-30 11:34:13.860874  
 categories: player  
 ---
 # Pouri Gordon RAKETE-STONES
 
 
-Last updated: 2023-03-24
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Country: New Zealand Maori

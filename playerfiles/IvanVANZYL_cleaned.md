@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Ivan VAN ZYL  
-date: 2023-03-29 11:28:05.170898  
+date: 2023-03-30 11:31:53.740032  
 categories: player  
 ---
 # Ivan VAN ZYL
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: SH
 
 ## Country: South Africa

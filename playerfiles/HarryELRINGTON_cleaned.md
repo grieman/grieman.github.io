@@ -1,13 +1,13 @@
 ---  
 layout: page  
 title: Harry ELRINGTON  
-date: 2023-03-29 11:28:09.717387  
+date: 2023-03-30 11:34:44.548000  
 categories: player  
 ---
 # Harry ELRINGTON
 
 
-Last updated: 2023-03-29
+Last updated: 2023-03-30
 ## Positions: P
 
 ## Current elo: 87.0
