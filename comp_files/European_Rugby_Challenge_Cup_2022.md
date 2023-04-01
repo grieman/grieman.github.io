@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup Status"  
-date: 2023-03-30 6:00:00 -0500  
+date: 2023-04-01 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -13,20 +13,22 @@ aside:
 
 | Club                 |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bristol Rugby        |      4 |                   67 |                     0 |                  3 |                   19 |
-| Toulon               |      4 |                   46 |                     0 |                  3 |                   19 |
-| Scarlets             |      4 |                   67 |                     0 |                  2 |                   18 |
+| Toulon               |      5 |                   61 |                     0 |                  4 |                   24 |
+| Scarlets             |      5 |                   79 |                     0 |                  2 |                   22 |
+| Bristol Rugby        |      4 |                   60 |                     1 |                  3 |                   20 |
+| Benetton Treviso     |      4 |                   72 |                     0 |                nan |                   19 |
 | Glasgow Warriors     |      3 |                   25 |                     0 |                  2 |                   16 |
 | Cardiff Blues        |      3 |                   97 |                     0 |                  3 |                   15 |
-| Benetton Treviso     |      3 |                   50 |                     0 |                  3 |                   15 |
-| Connacht             |      3 |                   63 |                     0 |                  2 |                   14 |
+| Connacht             |      3 |                   41 |                     0 |                nan |                   14 |
 | Lions                |      2 |                   13 |                     0 |                  2 |                   12 |
-| Stade Francais Paris |      2 |                   -1 |                     1 |                  1 |                   10 |
 | Dragons              |      1 |                   -5 |                     2 |                  2 |                   10 |
-| Cheetahs             |      2 |                  -14 |                     1 |                  1 |                   10 |
+| Stade Francais Paris |      2 |                  -18 |                     1 |                nan |                   10 |
+| Cheetahs             |      2 |                  -29 |                     1 |                  1 |                   10 |
 | Pau                  |      1 |                   -8 |                     3 |                  0 |                    7 |
-| Brive                |      1 |                  -91 |                     1 |                  1 |                    6 |
+| Brive                |      1 |                 -103 |                     1 |                  1 |                    6 |
+| Clermont Auvergne    |      1 |                    7 |                     0 |                  1 |                    5 |
 | Newcastle Falcons    |      1 |                  -69 |                     0 |                  1 |                    5 |
+| Lyon                 |      1 |                   17 |                     0 |                nan |                    4 |
 | Bath Rugby           |      0 |                  -37 |                     1 |                  0 |                    3 |
 | Perpignan            |      0 |                  -50 |                     0 |                  1 |                    1 |
 | Zebre                |      0 |                  -51 |                     1 |                  0 |                    1 |
@@ -37,24 +39,14 @@ aside:
 ## Projected Remaining Table
 
 
-| Club                 |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:---------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Glasgow Warriors     |    1   |                 13.9 |                   0   |                0.7 |                  4.7 |
-| Toulon               |    0.9 |                 10.3 |                   0   |                0.6 |                  4.4 |
-| Scarlets             |    1   |                  9.3 |                   0   |                0.5 |                  4.4 |
-| Bristol Rugby        |    0.9 |                  4.7 |                   0.1 |                0.7 |                  4.4 |
-| Sale Sharks          |    0.9 |                  5.7 |                   0.1 |                0.4 |                  4.2 |
-| Racing 92            |    0.7 |                  2   |                   0.3 |                0.4 |                  3.4 |
-| Connacht             |    0.6 |                  1.2 |                   0.3 |                0.2 |                  3   |
-| Stade Francais Paris |    0.5 |                  0.6 |                   0.4 |                0.2 |                  2.8 |
-| Lyon                 |    0.4 |                 -0.6 |                   0.5 |                0.2 |                  2.4 |
-| Benetton Treviso     |    0.3 |                 -1.2 |                   0.5 |                0.1 |                  2.2 |
-| Lions                |    0.3 |                 -2   |                   0.6 |                0.2 |                  2   |
-| Clermont Auvergne    |    0.1 |                 -4.7 |                   0.7 |                0.2 |                  1.3 |
-| Cardiff Blues        |    0.1 |                 -5.7 |                   0.6 |                0.2 |                  1.1 |
-| Cheetahs             |    0   |                -10.3 |                   0.3 |                0.1 |                  0.6 |
-| Brive                |    0   |                 -9.3 |                   0.3 |                0.1 |                  0.5 |
-| Dragons              |    0   |                -13.9 |                   0.1 |                0.1 |                  0.1 |
+| Club             |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-----------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Glasgow Warriors |    1   |                 13.3 |                   0   |                0.7 |                  4.7 |
+| Sale Sharks      |    0.9 |                  5.5 |                   0.1 |                0.3 |                  4   |
+| Racing 92        |    0.6 |                  1.9 |                   0.3 |                0.3 |                  3.3 |
+| Lions            |    0.3 |                 -1.9 |                   0.6 |                0.3 |                  2.1 |
+| Cardiff Blues    |    0.1 |                 -5.5 |                   0.6 |                0.1 |                  1   |
+| Dragons          |    0   |                -13.3 |                   0.1 |                0.1 |                  0.2 |
 
 
 
@@ -63,22 +55,24 @@ aside:
 
 | Club                 |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Scarlets             |    4.5 |                 67.6 |                   0.4 |                2.2 |                 20.8 |
-| Bristol Rugby        |    4.1 |                 61.3 |                   0.6 |                3.2 |                 20.1 |
-| Glasgow Warriors     |    3.3 |                 23   |                   0.6 |                2.2 |                 18   |
-| Cardiff Blues        |    3.1 |                 92.3 |                   0.7 |                3.2 |                 16.3 |
-| Benetton Treviso     |    3   |                 40.7 |                   0.3 |                3.1 |                 15.5 |
-| Dragons              |    2   |                  8.9 |                   2   |                2.7 |                 14.7 |
-| Lions                |    2.4 |                 12.4 |                   0.5 |                2.2 |                 14.4 |
-| Stade Francais Paris |    2.9 |                  9.3 |                   1   |                1.6 |                 14.4 |
-| Connacht             |    3   |                 49.1 |                   0.1 |                2.1 |                 14.1 |
-| Cheetahs             |    2.6 |                -12.8 |                   1.3 |                1.2 |                 13   |
-| Pau                  |    1.9 |                 -2.3 |                   3.1 |                0.4 |                 11.2 |
-| Newcastle Falcons    |    1.7 |                -67   |                   0.3 |                1.4 |                  8.4 |
-| Brive                |    1   |               -101.3 |                   1.3 |                1.1 |                  6.6 |
-| Perpignan            |    1   |                -40.7 |                   0   |                1.5 |                  5.4 |
-| Bath Rugby           |    0.3 |                -38.2 |                   1.5 |                0.1 |                  5.2 |
-| Bayonne              |    0.9 |                -97.3 |                   0.1 |                0.7 |                  4.4 |
+| Benetton Treviso     |    5   |                 85.3 |                   0   |              nan   |                 23.7 |
+| Bristol Rugby        |    4.3 |                 58.1 |                   1.6 |                3.3 |                 22.1 |
+| Cardiff Blues        |    3.9 |                102.5 |                   0.1 |                3.3 |                 19   |
+| Brive                |    1.6 |               -101.1 |                   1.3 |                1.3 |                  9.3 |
+| Bath Rugby           |    0.1 |                -42.5 |                   1.6 |                0.1 |                  4   |
+| Bayonne              |    0   |               -115.3 |                   0.1 |                0.1 |                  0.2 |
+| Cheetahs             |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Clermont Auvergne    |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Connacht             |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Dragons              |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Glasgow Warriors     |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Lions                |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Lyon                 |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Newcastle Falcons    |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Pau                  |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Perpignan            |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Scarlets             |  nan   |                nan   |                 nan   |              nan   |                nan   |
+| Stade Francais Paris |  nan   |                nan   |                 nan   |              nan   |                nan   |
 | Toulon               |  nan   |                nan   |                 nan   |              nan   |                nan   |
 | Zebre                |  nan   |                nan   |                 nan   |              nan   |                nan   |
 
@@ -107,92 +101,42 @@ aside:
 | Dragons V Pau on 2022/12/17                           |       -6 |                 9.4 |                 12.5 |              -2.4 |
 | Newcastle Falcons V Cardiff Blues on 2022/12/17       |      -37 |               -11.3 |                 -7.5 |               4   |
 | Bristol Rugby V Zebre on 2022/12/18                   |       16 |                21.8 |                 16.4 |              18.2 |
-| Pau V Dragons on 2023/01/13                           |       -6 |                15.8 |                 13.3 |              10.1 |
+| Pau V Dragons on 2023/01/13                           |       -6 |                16.9 |                 14.6 |              10.6 |
 | Scarlets V Cheetahs on 2023/01/13                     |        3 |                18.9 |                 14.7 |               5.6 |
-| Benetton Treviso V Bayonne on 2023/01/14              |       19 |                 0.7 |                  1.9 |               4   |
-| Stade Francais Paris V Lions on 2023/01/14            |       10 |                28.3 |                 23.1 |               7.5 |
-| Connacht V Brive on 2023/01/14                        |       56 |                 8.6 |                  9.8 |              10   |
-| Perpignan V Glasgow Warriors on 2023/01/14            |      -14 |                -8   |                 -8.5 |              -1.2 |
-| Zebre V Bristol Rugby on 2023/01/14                   |      -23 |                 3.1 |                  3.9 |             -10.5 |
-| Cardiff Blues V Newcastle Falcons on 2023/01/15       |       32 |               -10.5 |                 -9.3 |               8.3 |
-| Bath Rugby V Toulon on 2023/01/15                     |      -12 |                 3.8 |                  5.4 |              -0.5 |
-| Bristol Rugby V Perpignan on 2023/01/20               |       14 |                17   |                 18.1 |               9.9 |
-| Glasgow Warriors V Bath Rugby on 2023/01/20           |        0 |                16.7 |                 18.7 |               8.6 |
-| Toulon V Zebre on 2023/01/20                          |        9 |                16.4 |                 15.3 |              20.8 |
-| Bayonne V Scarlets on 2023/01/21                      |      -13 |                 1.5 |                 -1.2 |               6   |
-| Benetton Treviso V Stade Francais Paris on 2023/01/21 |        3 |                -2   |                  9.1 |               0.6 |
-| Newcastle Falcons V Connacht on 2023/01/21            |       14 |                -6.7 |                 -8.1 |              -1.3 |
-| Brive V Cardiff Blues on 2023/01/21                   |       13 |                -6.2 |                 -6.2 |               1   |
-| Dragons V Lions on 2023/01/22                         |       -5 |                 6.3 |                  1.8 |              -0.5 |
-| Cheetahs V Pau on 2023/01/22                          |        3 |                19   |                 21.7 |               0.9 |
+| Benetton Treviso V Bayonne on 2023/01/14              |       19 |                 3.6 |                  4.5 |               3.6 |
+| Stade Francais Paris V Lions on 2023/01/14            |       10 |                24   |                 18.4 |               6.5 |
+| Connacht V Brive on 2023/01/14                        |       56 |                 7.1 |                  8.5 |              10.6 |
+| Perpignan V Glasgow Warriors on 2023/01/14            |      -14 |                -3.9 |                 -4.3 |              -0.2 |
+| Zebre V Bristol Rugby on 2023/01/14                   |      -23 |                11.6 |                 12.3 |              -9.7 |
+| Cardiff Blues V Newcastle Falcons on 2023/01/15       |       32 |                -8.5 |                 -7.4 |               8.3 |
+| Bath Rugby V Toulon on 2023/01/15                     |      -12 |                 9   |                 10.8 |              -0.8 |
+| Bristol Rugby V Perpignan on 2023/01/20               |       14 |                17.2 |                 18.3 |               9.5 |
+| Glasgow Warriors V Bath Rugby on 2023/01/20           |        0 |                10.9 |                 12.9 |               8   |
+| Toulon V Zebre on 2023/01/20                          |        9 |                11.5 |                 10.3 |              20.2 |
+| Bayonne V Scarlets on 2023/01/21                      |      -13 |                -1.3 |                 -3.8 |               5.8 |
+| Benetton Treviso V Stade Francais Paris on 2023/01/21 |        3 |                -2.4 |                  8.3 |               0.5 |
+| Newcastle Falcons V Connacht on 2023/01/21            |       14 |                -8   |                 -9.4 |              -1.2 |
+| Brive V Cardiff Blues on 2023/01/21                   |       13 |                -4.1 |                 -4   |               0.4 |
+| Dragons V Lions on 2023/01/22                         |       -5 |                 5.3 |                  0.7 |              -1   |
+| Cheetahs V Pau on 2023/01/22                          |        3 |                16.3 |                 19.2 |               0.4 |
+| Bristol Rugby V Clermont Auvergne on 2023/03/31       |       -7 |                 6.5 |                 11.7 |               4.7 |
+| Scarlets V Brive on 2023/03/31                        |       12 |                23.1 |                 28.8 |               9.5 |
+| Toulon V Cheetahs on 2023/04/01                       |       15 |                 9   |                  9   |              11.5 |
+| Stade Francais Paris V Lyon on 2023/04/01             |      -17 |               nan   |                nan   |               0.9 |
+| Benetton Treviso V Connacht on 2023/04/01             |       22 |               nan   |                nan   |              -0.3 |
 | ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 15.9 | 16.0 | 13.9 |
-| Correct Winner |       - | 55.6% | 58.3% | 63.9% |
+| Average Error |       - | 15.3 | 15.6 | 13.7 |
+| Correct Winner |       - | 59.0% | 59.0% | 61.0% |
 
 
 # Future Predictions
 
 ## Week 3
 
-### Scarlets V Brive on 2023/03/31
-
-
-Average Margin: Scarlets by 9.3
-
-<p float="left">
-<img src="plots/performances_Scarlets_V_Brive_3.png" width="32%" />
-<img src="plots/resultbar_Scarlets_V_Brive_3.png" width="32%" />
-<img src="plots/spreads_Scarlets_V_Brive_3.png" width="32%" />
-</p>
-
-### Bristol Rugby V Clermont Auvergne on 2023/03/31
-
-
-Average Margin: Bristol Rugby by 4.7
-
-<p float="left">
-<img src="plots/performances_Bristol Rugby_V_Clermont Auvergne_3.png" width="32%" />
-<img src="plots/resultbar_Bristol Rugby_V_Clermont Auvergne_3.png" width="32%" />
-<img src="plots/spreads_Bristol Rugby_V_Clermont Auvergne_3.png" width="32%" />
-</p>
-
-### Toulon V Cheetahs on 2023/04/01
-
-
-Average Margin: Toulon by 10.3
-
-<p float="left">
-<img src="plots/performances_Toulon_V_Cheetahs_3.png" width="32%" />
-<img src="plots/resultbar_Toulon_V_Cheetahs_3.png" width="32%" />
-<img src="plots/spreads_Toulon_V_Cheetahs_3.png" width="32%" />
-</p>
-
-### Benetton Treviso V Connacht on 2023/04/01
-
-
-Average Margin: Connacht by 1.2
-
-<p float="left">
-<img src="plots/performances_Benetton Treviso_V_Connacht_3.png" width="32%" />
-<img src="plots/resultbar_Benetton Treviso_V_Connacht_3.png" width="32%" />
-<img src="plots/spreads_Benetton Treviso_V_Connacht_3.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Lyon on 2023/04/01
-
-
-Average Margin: Stade Francais Paris by 0.6
-
-<p float="left">
-<img src="plots/performances_Stade Francais Paris_V_Lyon_3.png" width="32%" />
-<img src="plots/resultbar_Stade Francais Paris_V_Lyon_3.png" width="32%" />
-<img src="plots/spreads_Stade Francais Paris_V_Lyon_3.png" width="32%" />
-</p>
-
 ### Glasgow Warriors V Dragons on 2023/04/01
 
 
-Average Margin: Glasgow Warriors by 13.9
+Average Margin: Glasgow Warriors by 13.3
 
 <p float="left">
 <img src="plots/performances_Glasgow Warriors_V_Dragons_3.png" width="32%" />
@@ -203,7 +147,7 @@ Average Margin: Glasgow Warriors by 13.9
 ### Lions V Racing 92 on 2023/04/01
 
 
-Average Margin: Racing 92 by 2.0
+Average Margin: Racing 92 by 1.9
 
 <p float="left">
 <img src="plots/performances_Lions_V_Racing 92_3.png" width="32%" />
@@ -214,7 +158,7 @@ Average Margin: Racing 92 by 2.0
 ### Cardiff Blues V Sale Sharks on 2023/04/01
 
 
-Average Margin: Sale Sharks by 5.7
+Average Margin: Sale Sharks by 5.5
 
 <p float="left">
 <img src="plots/performances_Cardiff Blues_V_Sale Sharks_3.png" width="32%" />

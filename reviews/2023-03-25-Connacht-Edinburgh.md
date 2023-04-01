@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.63, which translates to predicting Connacht to win by 4.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.616, which translates to predicting Connacht to win by 4.2.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Connacht by 7.0
+## Prediction with Player Minutes: Connacht by 3.4
 
 
-Connacht by 3.0 on a neutral field
+Edinburgh by 0.6 on a neutral field
 
-There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Connacht by 9.4
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Connacht by 6.0
 
 
-Connacht by 5.4 on a neutral pitch
+Connacht by 2.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             60 | Abram Adrian Boan Venter |      78.33 |                 8 |        1 |                74 |      99.77 | Peter Dooley            |             58 |
-|             54 | Stuart McInally          |      91.53 |                37 |        2 |                55 |      96.22 | Dylan Tierney-Martin    |             54 |
-|             38 | Lee-Roy Atalifo          |      91.58 |                35 |        3 |                71 |     101.11 | Jack Aungier            |             54 |
-|             80 | Sam Skinner              |     115.12 |                89 |        4 |                50 |      93.27 | Oisin Dowling           |             80 |
-|             80 | Grant Gilchrist          |     127.75 |                96 |        5 |                64 |     100.31 | Niall Murray            |             54 |
-|             48 | Ben Muncaster            |      96.03 |               nan |        6 |                65 |     100.96 | Cian Prendergast        |             80 |
-|             80 | Conor Boyle              |      84.07 |                17 |        7 |                68 |     102.08 | Conor Oliver            |             80 |
-|             80 | Viliame Mata             |      80.48 |                12 |        8 |                63 |      97.66 | Jarrad Butler           |             58 |
-|             60 | Henry Pyrgos             |      88.02 |                22 |        9 |                33 |      90.2  | Caolin Blade            |             67 |
-|             80 | Blair Kinghorn           |     146.72 |                98 |       10 |                62 |     100.22 | David Hawkshaw          |             60 |
-|             61 | Damien Hoyland           |      84.8  |                19 |       11 |                76 |     105.73 | John Porch              |             80 |
-|             61 | James Lang               |      84.03 |                18 |       12 |                57 |      98.77 | Cathal Forde            |             80 |
-|             80 | Mark Bennett             |      74.75 |                 8 |       13 |                45 |      94.27 | Thomas Farrell          |             80 |
-|             80 | Darcy Graham             |      95    |               nan |       14 |                66 |     101.37 | Diarmuid Kilgallen      |             48 |
-|             80 | Emiliano Boffelli        |      80.24 |                14 |       15 |               nan |      96.7  | Oran McNulty            |             80 |
-|             42 | WP Nel                   |     131.59 |                98 |       16 |               nan |      94.48 | Shane Jennings          |             32 |
-|              6 | Glen Young               |      96.66 |                54 |       17 |                68 |     103.33 | Darragh Murray          |             26 |
-|             26 | David Cherry             |      90.89 |                33 |       18 |                40 |      95.57 | Dominic Robertson-McCoy |             26 |
-|             26 | Marshall Sykes           |      87.57 |                25 |       19 |                60 |      95.67 | David Heffernan         |             26 |
-|             20 | Ben Vellacott            |      91.44 |                37 |       20 |                36 |      92.78 | Shamus Hurley-Langton   |             22 |
-|             20 | Luan de Bruin            |      93.44 |               nan |       21 |               nan |      99.85 | Jordan Duggan           |             22 |
-|             19 | Chris Dean               |      90.83 |               nan |       22 |               nan |      96.04 | Tom Daly                |             20 |
-|             19 | Nathan Sweeney           |      95    |               nan |       23 |                64 |     104.55 | Kieran Marmion          |             13 |
+|             60 | Abram Adrian Boan Venter |      83.33 |                14 |        1 |                75 |     100.33 | Peter Dooley            |             58 |
+|             54 | Stuart McInally          |      91.12 |                35 |        2 |                55 |      96.23 | Dylan Tierney-Martin    |             54 |
+|             38 | Lee-Roy Atalifo          |      90.78 |                32 |        3 |                72 |     101.64 | Jack Aungier            |             54 |
+|             80 | Sam Skinner              |     116.07 |                89 |        4 |                49 |      93.09 | Oisin Dowling           |             80 |
+|             80 | Grant Gilchrist          |     129.29 |                97 |        5 |                66 |     101.13 | Niall Murray            |             54 |
+|             48 | Ben Muncaster            |      95.9  |               nan |        6 |                65 |     100.81 | Cian Prendergast        |             80 |
+|             80 | Conor Boyle              |      86.7  |                25 |        7 |                68 |     102.13 | Conor Oliver            |             80 |
+|             80 | Viliame Mata             |      84.12 |                18 |        8 |                65 |      98.26 | Jarrad Butler           |             58 |
+|             60 | Henry Pyrgos             |      96.21 |               nan |        9 |                34 |      90.65 | Caolin Blade            |             67 |
+|             80 | Blair Kinghorn           |     148.26 |                99 |       10 |                62 |     100.19 | David Hawkshaw          |             60 |
+|             61 | Damien Hoyland           |      84.09 |                18 |       11 |                77 |     105.96 | John Porch              |             80 |
+|             61 | James Lang               |      90.16 |                32 |       12 |                57 |      98.6  | Cathal Forde            |             80 |
+|             80 | Mark Bennett             |      80.82 |                13 |       13 |                44 |      94.34 | Thomas Farrell          |             80 |
+|             80 | Darcy Graham             |      95    |               nan |       14 |                68 |     102.05 | Diarmuid Kilgallen      |             48 |
+|             80 | Emiliano Boffelli        |      89.77 |                34 |       15 |               nan |      96.87 | Oran McNulty            |             80 |
+|             42 | WP Nel                   |     132.8  |                98 |       16 |               nan |      94.48 | Shane Jennings          |             32 |
+|              6 | Glen Young               |      96.06 |                51 |       17 |                68 |     103.21 | Darragh Murray          |             26 |
+|             26 | David Cherry             |      88.12 |                27 |       18 |                40 |      95.58 | Dominic Robertson-McCoy |             26 |
+|             26 | Marshall Sykes           |      88.16 |                26 |       19 |                61 |      95.81 | David Heffernan         |             26 |
+|             20 | Ben Vellacott            |      89.18 |                29 |       20 |                34 |      92.33 | Shamus Hurley-Langton   |             22 |
+|             20 | Luan de Bruin            |      93.19 |               nan |       21 |               nan |      99.89 | Jordan Duggan           |             22 |
+|             19 | Chris Dean               |      90.43 |               nan |       22 |               nan |      96.2  | Tom Daly                |             20 |
+|             19 | Nathan Sweeney           |      95    |               nan |       23 |                62 |     104.17 | Kieran Marmion          |             13 |
 

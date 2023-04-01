@@ -55,11 +55,11 @@ Kyuden Voltex by 21.7 on a neutral pitch
 |             80 | Phil Burleigh      |      97.51 |                52 |       10 |                 5 |      72.9  | Hashizo Yoshida      |             80 |
 |             80 | Ren Hagiwara       |      78.09 |                10 |       11 |                26 |      87.94 | Hirofumi Higashikawa |             80 |
 |             40 | Hayato Kojyo       |      94.32 |                45 |       12 |                 2 |      65.93 | Makoto Torikai       |             80 |
-|             80 | Sam Vaka           |      92.9  |                41 |       13 |                17 |      80.84 | Riki Yamaguchi       |             62 |
-|             66 | Yasunari Isoda     |      82.3  |                14 |       14 |                11 |      79.19 | Kentaro Fujii        |             80 |
+|             80 | Sam Vaka           |      92.9  |                41 |       13 |                16 |      80.84 | Riki Yamaguchi       |             62 |
+|             66 | Yasunari Isoda     |      82.3  |                15 |       14 |                11 |      79.19 | Kentaro Fujii        |             80 |
 |             80 | Keito Honda        |      85.25 |                22 |       15 |                 4 |      67.1  | Masahiro Nakano      |             50 |
 |             40 | Genki Nakamura     |      82.88 |               nan |       16 |                 8 |      79.79 | Kentaro Iwanaga      |             33 |
-|             40 | Kichi Uezato       |      99.03 |                75 |       17 |                 3 |      68.56 | Shun Kawaguchi       |             32 |
+|             40 | Kichi Uezato       |      99.03 |                76 |       17 |                 3 |      68.56 | Shun Kawaguchi       |             32 |
 |             30 | Kazuto Tokunaga    |     121.28 |               nan |       18 |                 8 |      72.75 | Motoki Arai          |             30 |
 |             30 | Yoshihiro Sononaka |      78.56 |               nan |       19 |                 4 |      71.08 | Toshiyuki Ooki       |             18 |
 |             23 | Yasuo Saruwatari   |      80.75 |                11 |       20 |                16 |      84.71 | Kento Miyata         |             18 |

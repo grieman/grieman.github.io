@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Chiefs by 0.8 on a neutral field
 
 There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: New South Wales Waratahs by 3.1
+## Prediction without Player Minutes: New South Wales Waratahs by 3.2
 
 
-Chiefs by 0.9 on a neutral pitch
+Chiefs by 0.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             47 | Aidan Ross           |     106.57 |                83 |        1 |               nan |      97.64 | Tetera Faulkner      |             47 |
-|             52 | Bradley Slater       |     113.78 |                89 |        2 |                91 |     114.39 | Dave Porecki         |             52 |
-|             62 | John Ryan            |     105.65 |                82 |        3 |                 8 |      78.15 | Harry Johnson-Holmes |             52 |
-|             80 | Brodie Retallick     |     119.15 |                92 |        4 |                23 |      86.47 | Jed Holloway         |             80 |
-|             47 | Manaaki Selby-Rickit |      76.85 |                 9 |        5 |                87 |     112.7  | Ned Hanigan          |             77 |
-|             80 | Samipeni Finau       |     106.23 |                76 |        6 |                68 |     102.37 | Lachlan Swinton      |             57 |
-|             80 | Sam Cane             |     139.22 |                98 |        7 |                97 |     134.62 | Michael Hooper       |             80 |
-|             65 | Pita Gus Sowakula    |     101.82 |                66 |        8 |                70 |     106.2  | Will Harris          |             80 |
-|             64 | Brad Weber           |     137.44 |                99 |        9 |                96 |     126.31 | Jake Gordon          |             77 |
-|             52 | Bryn Gatland         |      97.7  |                52 |       10 |                79 |     108.5  | Ben Donaldson        |             80 |
-|             80 | Etene Nanai-Seturo   |      97.64 |                55 |       11 |                87 |     114.01 | Dylan Pietsch        |             66 |
-|             80 | Rameka Poihipi       |      93.37 |                42 |       12 |                84 |     112.41 | Joey Walton          |             80 |
-|             70 | Alex Nankivell       |      89.2  |                30 |       13 |                21 |      85.3  | Izaia Perese         |             80 |
-|             80 | Emoni Narawa         |     105.41 |                75 |       14 |                56 |      97.76 | Mark Nawaqanitawase  |             80 |
-|             80 | Damian McKenzie      |      94.96 |                45 |       15 |               nan |      95.36 | Ben Dowling          |             66 |
-|             28 | Samisoni Taukei'aho  |     114.64 |                90 |       16 |                92 |     116.86 | Tolu Latu            |             28 |
-|             33 | Ollie Norris         |      92.84 |                38 |       17 |                72 |     101.55 | Tom Lambert          |             33 |
-|             18 | George Dyer          |      93.81 |                36 |       18 |               nan |      97.02 | Daniel Botha         |             28 |
-|             33 | Naitoa Ah Kuoi       |     123.1  |                95 |       19 |                85 |     111.76 | Taleni Seu           |             23 |
-|             15 | Kaylum Boshier       |      86.78 |                21 |       20 |               nan |      95    | Zac Von Appen        |              3 |
-|             16 | Cortez Ratima        |     112.46 |                88 |       21 |               nan |      95.05 | Harrison Goddard     |              3 |
-|             10 | Daniel Rona          |      97.07 |                50 |       22 |               nan |      95    | Harry Wilson         |             14 |
-|             28 | Shaun Stevenson      |     104.54 |                70 |       23 |                93 |     124.19 | Nemani Nadolo        |             14 |
+|             47 | Aidan Ross           |     106.58 |                83 |        1 |               nan |      97.68 | Tetera Faulkner      |             47 |
+|             52 | Bradley Slater       |     113.79 |                89 |        2 |                91 |     114.4  | Dave Porecki         |             52 |
+|             62 | John Ryan            |     105.4  |                81 |        3 |                 8 |      78.16 | Harry Johnson-Holmes |             52 |
+|             80 | Brodie Retallick     |     119.15 |                92 |        4 |                23 |      86.49 | Jed Holloway         |             80 |
+|             47 | Manaaki Selby-Rickit |      76.86 |                 9 |        5 |                87 |     112.7  | Ned Hanigan          |             77 |
+|             80 | Samipeni Finau       |     106.29 |                76 |        6 |                68 |     102.38 | Lachlan Swinton      |             57 |
+|             80 | Sam Cane             |     139.22 |                98 |        7 |                97 |     134.64 | Michael Hooper       |             80 |
+|             65 | Pita Gus Sowakula    |     101.82 |                66 |        8 |                70 |     106.21 | Will Harris          |             80 |
+|             64 | Brad Weber           |     137.44 |                99 |        9 |                96 |     126.33 | Jake Gordon          |             77 |
+|             52 | Bryn Gatland         |      97.71 |                53 |       10 |                79 |     108.52 | Ben Donaldson        |             80 |
+|             80 | Etene Nanai-Seturo   |      97.69 |                56 |       11 |                87 |     114.01 | Dylan Pietsch        |             66 |
+|             80 | Rameka Poihipi       |      93.38 |                42 |       12 |                84 |     112.41 | Joey Walton          |             80 |
+|             70 | Alex Nankivell       |      89.21 |                30 |       13 |                21 |      85.32 | Izaia Perese         |             80 |
+|             80 | Emoni Narawa         |     105.48 |                75 |       14 |                56 |      97.78 | Mark Nawaqanitawase  |             80 |
+|             80 | Damian McKenzie      |      94.96 |                45 |       15 |               nan |      95.38 | Ben Dowling          |             66 |
+|             28 | Samisoni Taukei'aho  |     114.64 |                90 |       16 |                92 |     116.87 | Tolu Latu            |             28 |
+|             33 | Ollie Norris         |      92.84 |                38 |       17 |                72 |     101.65 | Tom Lambert          |             33 |
+|             18 | George Dyer          |      93.82 |                36 |       18 |               nan |      97.03 | Daniel Botha         |             28 |
+|             33 | Naitoa Ah Kuoi       |     123.16 |                95 |       19 |                86 |     111.76 | Taleni Seu           |             23 |
+|             15 | Kaylum Boshier       |      86.79 |                21 |       20 |               nan |      95    | Zac Von Appen        |              3 |
+|             16 | Cortez Ratima        |     112.49 |                88 |       21 |               nan |      95.06 | Harrison Goddard     |              3 |
+|             10 | Daniel Rona          |      97.08 |                50 |       22 |               nan |      95    | Harry Wilson         |             14 |
+|             28 | Shaun Stevenson      |     104.56 |                70 |       23 |                94 |     124.2  | Nemani Nadolo        |             14 |
 

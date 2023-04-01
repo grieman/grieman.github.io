@@ -46,16 +46,16 @@ Saitama Wild Knights by 15.7 on a neutral pitch
 |             78 | Keita Inagaki     |     103    |                75 |        1 |                61 |      98.37 | Shogo Miura              |             65 |
 |             51 | Atsushi Sakate    |     112.73 |                89 |        2 |                97 |     126.15 | Yoshikatsu Hikosaka      |             70 |
 |             60 | Asaleli Valu      |     109.45 |                81 |        3 |                63 |      98.79 | Runya Choi               |             51 |
-|             65 | Mark Abbott       |      98.8  |                60 |        4 |                51 |      95.84 | Daichi Akiyama           |             80 |
+|             65 | Mark Abbott       |      98.8  |                60 |        4 |                50 |      95.84 | Daichi Akiyama           |             80 |
 |             75 | Lodewyk de Jager  |     107.12 |                78 |        5 |                16 |      82.62 | Michael Allardice        |             46 |
-|             75 | Shota Fukui       |     115.5  |                88 |        6 |                69 |     102.44 | Pieter Stephanus du Toit |             80 |
+|             75 | Shota Fukui       |     115.5  |                88 |        6 |                68 |     102.44 | Pieter Stephanus du Toit |             80 |
 |             80 | Lachlan Boshier   |     117.67 |                90 |        7 |                60 |      99.09 | Kazuki Himeno            |             80 |
-|             80 | Jack Cornelsen    |     107.49 |                78 |        8 |                35 |      91.42 | Lautaimi Fetuani         |             51 |
+|             80 | Jack Cornelsen    |     107.49 |                78 |        8 |                34 |      91.42 | Lautaimi Fetuani         |             51 |
 |             57 | Keisuke Uchida    |     120.48 |                95 |        9 |                76 |     106.77 | Kenta Fukuda             |             60 |
-|             80 | Rikiya Matsuda    |     118.72 |                89 |       10 |                26 |      88.57 | Willem Jacobus Le Roux   |             80 |
+|             80 | Rikiya Matsuda    |     118.72 |                89 |       10 |                27 |      88.57 | Willem Jacobus Le Roux   |             80 |
 |             80 | Marika Koroibete  |     113.25 |                86 |       11 |                86 |     112.95 | Viliame Tuidraki         |             80 |
 |             80 | Damian de Allende |     104.13 |                71 |       12 |                95 |     126.36 | Charlie Lawrence         |             80 |
-|             80 | Dylan Riley       |     117.04 |                90 |       13 |                92 |     120.65 | Yuki Okada               |             80 |
+|             80 | Dylan Riley       |     117.04 |                90 |       13 |                93 |     120.65 | Yuki Okada               |             80 |
 |             80 | Tomoki Osada      |     115.16 |                88 |       14 |                60 |      99.14 | Taichi Takahashi         |             80 |
 |             80 | Ryuji Noguchi     |     118.38 |                91 |       15 |                65 |     102.11 | Tiaan Falcon             |             80 |
 |             29 | Shota Horie       |     101.08 |                72 |       16 |                57 |      98    | Joe Launchbury           |             34 |

@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.714, which translates to predicting Ulster to win by 8.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.692, which translates to predicting Ulster to win by 7.2.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ulster by 24.8
+## Prediction with Player Minutes: Ulster by 22.5
 
 
-Ulster by 20.8 on a neutral field
+Ulster by 18.5 on a neutral field
 
 There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: Ulster by 28.5
+## Prediction without Player Minutes: Ulster by 26.3
 
 
-Ulster by 24.5 on a neutral pitch
+Ulster by 22.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                  |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             73 | Gerhardus Cornelis Steenkamp |      96.25 |                53 |        1 |                61 |      99.94 | Andrew Warwick         |             49 |
-|             80 | Cornelis Johannes Grobbelaar |      97.21 |                58 |        2 |                35 |      97.8  | Tom Stewart            |             77 |
-|             80 | Mornay Jan Jakobus Smith     |      90.17 |                30 |        3 |                95 |     119.42 | Jeffery To'omaga-Allen |             61 |
-|             80 | Ruan Stefan Vermaak          |      90.69 |                44 |        4 |                74 |     104.68 | Kieran Treadwell       |             61 |
-|             80 | Ruan Nortje                  |      94.82 |                48 |        5 |                71 |     103.15 | Sam Carter             |             50 |
-|             72 | Marco Gerhardt van Staden    |      90.57 |                35 |        6 |                70 |     103.56 | David McCann           |             61 |
-|             63 | Cyle Justin Brink            |      85.18 |                18 |        7 |                94 |     124.52 | Nick Timoney           |             80 |
-|             80 | Elrigh Louw                  |      98.03 |                53 |        8 |                85 |     111.73 | Duane Vermeulen        |             80 |
-|             54 | Izak Jacobus Burger          |     108.66 |                82 |        9 |                84 |     109.49 | Nathan Doak            |             77 |
-|             54 | Chris Smith                  |      91.53 |                36 |       10 |                73 |     104.62 | Billy Burns            |             80 |
-|             80 | David Kriel                  |      91.61 |                39 |       11 |                72 |     104.06 | Jacob Stockdale        |             80 |
-|             80 | Harold William Vorster       |     101.58 |                65 |       12 |                83 |     111.25 | Stewart Moore          |             50 |
-|             80 | Cornal Hendricks             |      76.8  |                 9 |       13 |                65 |     101.58 | James Hume             |             80 |
-|             80 | Canan Moodie                 |      97.04 |                54 |       14 |                47 |      94.91 | Robert Baloucoune      |             80 |
-|             74 | Kurt-Lee Arendse             |      99.84 |                59 |       15 |                95 |     127.75 | Michael Lowry          |             80 |
-|             26 | Francois Klopper             |      86.31 |                15 |       16 |                75 |     102.89 | Eric O'Sullivan        |             31 |
-|             26 | Embrose Cheldon Papier       |      83.23 |                15 |       17 |               nan |      96.44 | Jude Posthlewaite      |             30 |
-|             17 | WJ Steenkamp                 |      99.72 |                58 |       18 |                73 |     104.62 | Harry Sheridan         |             30 |
-|              8 | Bismarck du Plessis          |      93.75 |                44 |       19 |               nan |      92.81 | Gareth Milasinovich    |             19 |
-|              7 | Simphiwe Matanzima           |      86.3  |                25 |       20 |                89 |     117.06 | Alan O'Connor          |             19 |
-|              6 | Stedman-Gee Rivett Gans      |      98.34 |                54 |       21 |                63 |     100.49 | Marcus Rea             |             19 |
-|            nan | nan                          |     nan    |               nan |       22 |                58 |      97.44 | John Andrew            |              3 |
-|            nan | nan                          |     nan    |               nan |       23 |                72 |     103.39 | John Cooney            |              3 |
+|             73 | Gerhardus Cornelis Steenkamp |      94.66 |                48 |        1 |                63 |     100.41 | Andrew Warwick         |             49 |
+|             80 | Cornelis Johannes Grobbelaar |      98.32 |                61 |        2 |                34 |      97.71 | Tom Stewart            |             77 |
+|             80 | Mornay Jan Jakobus Smith     |      92.58 |                40 |        3 |                94 |     117.98 | Jeffery To'omaga-Allen |             61 |
+|             80 | Ruan Stefan Vermaak          |      91.94 |                48 |        4 |                70 |     102.84 | Kieran Treadwell       |             61 |
+|             80 | Ruan Nortje                  |      96.23 |                52 |        5 |                73 |     103.98 | Sam Carter             |             50 |
+|             72 | Marco Gerhardt van Staden    |      91.81 |                39 |        6 |                70 |     103.51 | David McCann           |             61 |
+|             63 | Cyle Justin Brink            |      88.68 |                29 |        7 |                93 |     123.43 | Nick Timoney           |             80 |
+|             80 | Elrigh Louw                  |      97.08 |                49 |        8 |                85 |     111.49 | Duane Vermeulen        |             80 |
+|             54 | Izak Jacobus Burger          |     103.98 |                74 |        9 |                83 |     108.81 | Nathan Doak            |             77 |
+|             54 | Chris Smith                  |      94.65 |                44 |       10 |                73 |     104.29 | Billy Burns            |             80 |
+|             80 | David Kriel                  |      86.21 |                23 |       11 |                71 |     103.13 | Jacob Stockdale        |             80 |
+|             80 | Harold William Vorster       |     102.55 |                68 |       12 |                80 |     109.08 | Stewart Moore          |             50 |
+|             80 | Cornal Hendricks             |      79.98 |                12 |       13 |                65 |     101.41 | James Hume             |             80 |
+|             80 | Canan Moodie                 |     101.71 |                67 |       14 |                45 |      94.24 | Robert Baloucoune      |             80 |
+|             74 | Kurt-Lee Arendse             |     104.39 |                69 |       15 |                95 |     127.26 | Michael Lowry          |             80 |
+|             26 | Francois Klopper             |      85.35 |                14 |       16 |                73 |     101.91 | Eric O'Sullivan        |             31 |
+|             26 | Embrose Cheldon Papier       |      84.35 |                16 |       17 |               nan |      96.48 | Jude Posthlewaite      |             30 |
+|             17 | WJ Steenkamp                 |      99.74 |                58 |       18 |                72 |     104.19 | Harry Sheridan         |             30 |
+|              8 | Bismarck du Plessis          |      93.22 |                42 |       19 |               nan |      92.85 | Gareth Milasinovich    |             19 |
+|              7 | Simphiwe Matanzima           |      89.03 |                37 |       20 |                88 |     116.21 | Alan O'Connor          |             19 |
+|              6 | Stedman-Gee Rivett Gans      |      98.27 |                53 |       21 |                64 |     100.64 | Marcus Rea             |             19 |
+|            nan | nan                          |     nan    |               nan |       22 |                57 |      96.93 | John Andrew            |              3 |
+|            nan | nan                          |     nan    |               nan |       23 |                71 |     102.84 | John Cooney            |              3 |
 

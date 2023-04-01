@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 13 Status"  
-date: 2023-03-30 6:00:00 -0500  
+date: 2023-04-01 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,18 +33,18 @@ aside:
 
 | Club                 |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hindu                |   17.8 |                190.7 |                   2.4 |                8.8 |                 83.1 |
-| Newman               |   15.9 |                139.8 |                   3.5 |                7   |                 75.1 |
-| CUBA                 |   14.4 |                100.8 |                   4.3 |                6.8 |                 69.7 |
-| SIC                  |   14.4 |                100.3 |                   4.3 |                7   |                 69.7 |
-| Alumni               |   13.9 |                 85   |                   4.6 |                6.7 |                 67.7 |
-| Belgrano             |   13.7 |                 84.2 |                   4.6 |                6.1 |                 66.5 |
-| Buenos Aires         |    9.2 |                -16.1 |                   6.4 |                4.5 |                 48.5 |
-| Atlético del Rosario |    7.7 |                -55.7 |                   6   |                5.4 |                 43.1 |
-| San Luis             |    6.5 |                -80.9 |                   6.5 |                3.3 |                 36.5 |
-| Pucara               |    4.4 |               -139   |                   5.9 |                3.2 |                 27.3 |
-| CASI                 |    3.5 |               -162.3 |                   5.9 |                3.3 |                 24.2 |
-| La Plata             |    2.2 |               -246.9 |                   4.4 |                2.6 |                 16.4 |
+| Hindu                |   17.7 |                187.5 |                   2.5 |                9.2 |                 83   |
+| Newman               |   15.7 |                136.7 |                   3.6 |                6.3 |                 73.5 |
+| CUBA                 |   14.4 |                104.1 |                   4.3 |                6.4 |                 69.2 |
+| SIC                  |   14.3 |                 99.4 |                   4.3 |                6.5 |                 68.9 |
+| Alumni               |   14   |                 87   |                   4.5 |                6.1 |                 67.4 |
+| Belgrano             |   13.8 |                 86   |                   4.6 |                6.1 |                 66.5 |
+| Buenos Aires         |    9.1 |                -16.7 |                   6.4 |                4.4 |                 48.2 |
+| Atlético del Rosario |    7.8 |                -54.3 |                   6.1 |                6.2 |                 44.3 |
+| San Luis             |    6.6 |                -79.3 |                   6.5 |                3.5 |                 37.1 |
+| Pucara               |    4.4 |               -141.2 |                   5.9 |                2.9 |                 27.1 |
+| CASI                 |    3.6 |               -163.2 |                   5.9 |                3.3 |                 24.2 |
+| La Plata             |    2.4 |               -246   |                   4.3 |                2.5 |                 16.8 |
 
 
 
@@ -53,18 +53,18 @@ aside:
 
 | Club                 |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hindu                |   18.8 |                199.7 |                   2.4 |                nan |                 87.1 |
-| Newman               |   16.9 |                155.8 |                   3.5 |                nan |                 79.1 |
-| CUBA                 |   15.4 |                137.8 |                   4.3 |                nan |                 73.7 |
-| Alumni               |   14.9 |                 86   |                   4.6 |                nan |                 71.7 |
-| SIC                  |   14.4 |                 99.3 |                   5.3 |                nan |                 70.7 |
-| Belgrano             |   14.7 |                108.2 |                   4.6 |                nan |                 70.5 |
-| Buenos Aires         |    9.2 |                -25.1 |                   6.4 |                nan |                 48.5 |
-| Atlético del Rosario |    7.7 |                -79.7 |                   6   |                nan |                 43.1 |
-| San Luis             |    7.5 |                -57.9 |                   6.5 |                nan |                 40.5 |
-| Pucara               |    4.4 |               -176   |                   5.9 |                nan |                 27.3 |
-| CASI                 |    3.5 |               -178.3 |                   5.9 |                nan |                 24.2 |
-| La Plata             |    2.2 |               -269.9 |                   4.4 |                nan |                 16.4 |
+| Hindu                |   18.7 |                196.5 |                   2.5 |                nan |                 87   |
+| Newman               |   16.7 |                152.7 |                   3.6 |                nan |                 77.5 |
+| CUBA                 |   15.4 |                141.1 |                   4.3 |                nan |                 73.2 |
+| Alumni               |   15   |                 88   |                   4.5 |                nan |                 71.4 |
+| Belgrano             |   14.8 |                110   |                   4.6 |                nan |                 70.5 |
+| SIC                  |   14.3 |                 98.4 |                   5.3 |                nan |                 69.9 |
+| Buenos Aires         |    9.1 |                -25.7 |                   6.4 |                nan |                 48.2 |
+| Atlético del Rosario |    7.8 |                -78.3 |                   6.1 |                nan |                 44.3 |
+| San Luis             |    7.6 |                -56.3 |                   6.5 |                nan |                 41.1 |
+| Pucara               |    4.4 |               -178.2 |                   5.9 |                nan |                 27.1 |
+| CASI                 |    3.6 |               -179.2 |                   5.9 |                nan |                 24.2 |
+| La Plata             |    2.4 |               -269   |                   4.3 |                nan |                 16.8 |
 
 
 
@@ -73,11 +73,11 @@ aside:
 
 | Match                                         |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
 |:----------------------------------------------|---------:|--------------------:|---------------------:|------------------:|
-| Atlético del Rosario V Belgrano on 2023/03/25 |      -24 |                 nan |                  nan |               1.9 |
-| SIC V Alumni on 2023/03/25                    |       -1 |                 nan |                  nan |               7   |
 | Pucara V CUBA on 2023/03/25                   |      -37 |                 nan |                  nan |              -3.8 |
+| SIC V Alumni on 2023/03/25                    |       -1 |                 nan |                  nan |               7   |
 | La Plata V San Luis on 2023/03/25             |      -23 |                 nan |                  nan |               6.3 |
 | Hindu V Buenos Aires on 2023/03/25            |        9 |                 nan |                  nan |              15.3 |
+| Atlético del Rosario V Belgrano on 2023/03/25 |      -24 |                 nan |                  nan |               1.9 |
 | CASI V Newman on 2023/03/25                   |      -16 |                 nan |                  nan |              -8   |
 | ------ | ------ | ------ | ------ | ------ |
 | Average Error |       - | nan | nan | 18.4 |
@@ -91,7 +91,7 @@ aside:
 ### Pucara V Hindu on 2023/04/01
 
 
-Average Margin: Hindu by 11.5
+Average Margin: Hindu by 11.8
 
 <p float="left">
 <img src="plots/performances_Pucara_V_Hindu_2.png" width="32%" />
@@ -102,7 +102,7 @@ Average Margin: Hindu by 11.5
 ### CUBA V CASI on 2023/04/01
 
 
-Average Margin: CUBA by 15.1
+Average Margin: CUBA by 15.6
 
 <p float="left">
 <img src="plots/performances_CUBA_V_CASI_2.png" width="32%" />
@@ -113,7 +113,7 @@ Average Margin: CUBA by 15.1
 ### Newman V Atlético del Rosario on 2023/04/01
 
 
-Average Margin: Newman by 12.3
+Average Margin: Newman by 12.0
 
 <p float="left">
 <img src="plots/performances_Newman_V_Atlético del Rosario_2.png" width="32%" />
@@ -124,7 +124,7 @@ Average Margin: Newman by 12.3
 ### Belgrano V La Plata on 2023/04/01
 
 
-Average Margin: Belgrano by 19.1
+Average Margin: Belgrano by 18.6
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_La Plata_2.png" width="32%" />
@@ -135,7 +135,7 @@ Average Margin: Belgrano by 19.1
 ### Alumni V Buenos Aires on 2023/04/01
 
 
-Average Margin: Alumni by 7.9
+Average Margin: Alumni by 8.4
 
 <p float="left">
 <img src="plots/performances_Alumni_V_Buenos Aires_2.png" width="32%" />
@@ -146,7 +146,7 @@ Average Margin: Alumni by 7.9
 ### San Luis V SIC on 2023/04/01
 
 
-Average Margin: SIC by 4.4
+Average Margin: SIC by 4.6
 
 <p float="left">
 <img src="plots/performances_San Luis_V_SIC_2.png" width="32%" />
@@ -159,7 +159,7 @@ Average Margin: SIC by 4.4
 ### Hindu V Alumni on 2023/04/15
 
 
-Average Margin: Hindu by 8.9
+Average Margin: Hindu by 8.8
 
 <p float="left">
 <img src="plots/performances_Hindu_V_Alumni_3.png" width="32%" />
@@ -170,7 +170,7 @@ Average Margin: Hindu by 8.9
 ### Buenos Aires V San Luis on 2023/04/15
 
 
-Average Margin: Buenos Aires by 5.8
+Average Margin: Buenos Aires by 5.2
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_San Luis_3.png" width="32%" />
@@ -181,7 +181,7 @@ Average Margin: Buenos Aires by 5.8
 ### SIC V Belgrano on 2023/04/15
 
 
-Average Margin: SIC by 4.3
+Average Margin: SIC by 4.2
 
 <p float="left">
 <img src="plots/performances_SIC_V_Belgrano_3.png" width="32%" />
@@ -192,7 +192,7 @@ Average Margin: SIC by 4.3
 ### La Plata V Newman on 2023/04/15
 
 
-Average Margin: Newman by 14.6
+Average Margin: Newman by 14.9
 
 <p float="left">
 <img src="plots/performances_La Plata_V_Newman_3.png" width="32%" />
@@ -214,7 +214,7 @@ Average Margin: CUBA by 4.0
 ### CASI V Pucara on 2023/04/15
 
 
-Average Margin: CASI by 2.2
+Average Margin: CASI by 2.7
 
 <p float="left">
 <img src="plots/performances_CASI_V_Pucara_3.png" width="32%" />
@@ -227,7 +227,7 @@ Average Margin: CASI by 2.2
 ### CASI V Hindu on 2023/04/22
 
 
-Average Margin: Hindu by 12.8
+Average Margin: Hindu by 12.6
 
 <p float="left">
 <img src="plots/performances_CASI_V_Hindu_4.png" width="32%" />
@@ -238,7 +238,7 @@ Average Margin: Hindu by 12.8
 ### Pucara V Atlético del Rosario on 2023/04/22
 
 
-Average Margin: Atlético del Rosario by 0.9
+Average Margin: Atlético del Rosario by 0.7
 
 <p float="left">
 <img src="plots/performances_Pucara_V_Atlético del Rosario_4.png" width="32%" />
@@ -249,7 +249,7 @@ Average Margin: Atlético del Rosario by 0.9
 ### CUBA V La Plata on 2023/04/22
 
 
-Average Margin: CUBA by 19.6
+Average Margin: CUBA by 19.9
 
 <p float="left">
 <img src="plots/performances_CUBA_V_La Plata_4.png" width="32%" />
@@ -260,7 +260,7 @@ Average Margin: CUBA by 19.6
 ### Newman V SIC on 2023/04/22
 
 
-Average Margin: Newman by 5.2
+Average Margin: Newman by 5.3
 
 <p float="left">
 <img src="plots/performances_Newman_V_SIC_4.png" width="32%" />
@@ -271,7 +271,7 @@ Average Margin: Newman by 5.2
 ### San Luis V Alumni on 2023/04/22
 
 
-Average Margin: Alumni by 3.5
+Average Margin: Alumni by 3.3
 
 <p float="left">
 <img src="plots/performances_San Luis_V_Alumni_4.png" width="32%" />
@@ -282,7 +282,7 @@ Average Margin: Alumni by 3.5
 ### Belgrano V Buenos Aires on 2023/04/22
 
 
-Average Margin: Belgrano by 8.3
+Average Margin: Belgrano by 8.2
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_Buenos Aires_4.png" width="32%" />
@@ -306,7 +306,7 @@ Average Margin: Alumni by 3.3
 ### Hindu V San Luis on 2023/04/29
 
 
-Average Margin: Hindu by 15.4
+Average Margin: Hindu by 15.1
 
 <p float="left">
 <img src="plots/performances_Hindu_V_San Luis_5.png" width="32%" />
@@ -317,7 +317,7 @@ Average Margin: Hindu by 15.4
 ### Buenos Aires V Newman on 2023/04/29
 
 
-Average Margin: Newman by 4.3
+Average Margin: Newman by 4.2
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_Newman_5.png" width="32%" />
@@ -339,7 +339,7 @@ Average Margin: SIC by 3.2
 ### Atlético del Rosario V CASI on 2023/04/29
 
 
-Average Margin: Atlético del Rosario by 8.0
+Average Margin: Atlético del Rosario by 8.1
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_CASI_5.png" width="32%" />
@@ -350,7 +350,7 @@ Average Margin: Atlético del Rosario by 8.0
 ### La Plata V Pucara on 2023/04/29
 
 
-Average Margin: Pucara by 2.5
+Average Margin: Pucara by 2.3
 
 <p float="left">
 <img src="plots/performances_La Plata_V_Pucara_5.png" width="32%" />
@@ -363,7 +363,7 @@ Average Margin: Pucara by 2.5
 ### Atlético del Rosario V Hindu on 2023/05/06
 
 
-Average Margin: Hindu by 7.5
+Average Margin: Hindu by 7.3
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_Hindu_6.png" width="32%" />
@@ -374,7 +374,7 @@ Average Margin: Hindu by 7.5
 ### CASI V La Plata on 2023/05/06
 
 
-Average Margin: CASI by 6.9
+Average Margin: CASI by 7.0
 
 <p float="left">
 <img src="plots/performances_CASI_V_La Plata_6.png" width="32%" />
@@ -385,7 +385,7 @@ Average Margin: CASI by 6.9
 ### Pucara V SIC on 2023/05/06
 
 
-Average Margin: SIC by 6.9
+Average Margin: SIC by 7.3
 
 <p float="left">
 <img src="plots/performances_Pucara_V_SIC_6.png" width="32%" />
@@ -396,7 +396,7 @@ Average Margin: SIC by 6.9
 ### CUBA V Buenos Aires on 2023/05/06
 
 
-Average Margin: CUBA by 8.6
+Average Margin: CUBA by 9.0
 
 <p float="left">
 <img src="plots/performances_CUBA_V_Buenos Aires_6.png" width="32%" />
@@ -407,7 +407,7 @@ Average Margin: CUBA by 8.6
 ### Newman V Alumni on 2023/05/06
 
 
-Average Margin: Newman by 6.0
+Average Margin: Newman by 6.2
 
 <p float="left">
 <img src="plots/performances_Newman_V_Alumni_6.png" width="32%" />
@@ -431,7 +431,7 @@ Average Margin: Belgrano by 10.0
 ### Hindu V Belgrano on 2023/05/13
 
 
-Average Margin: Hindu by 8.3
+Average Margin: Hindu by 8.1
 
 <p float="left">
 <img src="plots/performances_Hindu_V_Belgrano_7.png" width="32%" />
@@ -442,7 +442,7 @@ Average Margin: Hindu by 8.3
 ### San Luis V Newman on 2023/05/13
 
 
-Average Margin: Newman by 6.0
+Average Margin: Newman by 5.9
 
 <p float="left">
 <img src="plots/performances_San Luis_V_Newman_7.png" width="32%" />
@@ -453,7 +453,7 @@ Average Margin: Newman by 6.0
 ### Alumni V CUBA on 2023/05/13
 
 
-Average Margin: Alumni by 2.2
+Average Margin: Alumni by 2.3
 
 <p float="left">
 <img src="plots/performances_Alumni_V_CUBA_7.png" width="32%" />
@@ -464,7 +464,7 @@ Average Margin: Alumni by 2.2
 ### Buenos Aires V Pucara on 2023/05/13
 
 
-Average Margin: Buenos Aires by 8.5
+Average Margin: Buenos Aires by 8.6
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_Pucara_7.png" width="32%" />
@@ -475,7 +475,7 @@ Average Margin: Buenos Aires by 8.5
 ### SIC V CASI on 2023/05/13
 
 
-Average Margin: SIC by 15.1
+Average Margin: SIC by 15.0
 
 <p float="left">
 <img src="plots/performances_SIC_V_CASI_7.png" width="32%" />
@@ -486,7 +486,7 @@ Average Margin: SIC by 15.1
 ### La Plata V Atlético del Rosario on 2023/05/13
 
 
-Average Margin: Atlético del Rosario by 5.2
+Average Margin: Atlético del Rosario by 5.1
 
 <p float="left">
 <img src="plots/performances_La Plata_V_Atlético del Rosario_7.png" width="32%" />
@@ -499,7 +499,7 @@ Average Margin: Atlético del Rosario by 5.2
 ### La Plata V Hindu on 2023/05/20
 
 
-Average Margin: Hindu by 16.4
+Average Margin: Hindu by 15.8
 
 <p float="left">
 <img src="plots/performances_La Plata_V_Hindu_8.png" width="32%" />
@@ -510,7 +510,7 @@ Average Margin: Hindu by 16.4
 ### Atlético del Rosario V SIC on 2023/05/20
 
 
-Average Margin: SIC by 3.8
+Average Margin: SIC by 3.7
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_SIC_8.png" width="32%" />
@@ -521,7 +521,7 @@ Average Margin: SIC by 3.8
 ### Pucara V Alumni on 2023/05/20
 
 
-Average Margin: Alumni by 6.3
+Average Margin: Alumni by 6.6
 
 <p float="left">
 <img src="plots/performances_Pucara_V_Alumni_8.png" width="32%" />
@@ -532,7 +532,7 @@ Average Margin: Alumni by 6.3
 ### CASI V Buenos Aires on 2023/05/20
 
 
-Average Margin: Buenos Aires by 3.0
+Average Margin: Buenos Aires by 2.9
 
 <p float="left">
 <img src="plots/performances_CASI_V_Buenos Aires_8.png" width="32%" />
@@ -543,7 +543,7 @@ Average Margin: Buenos Aires by 3.0
 ### Newman V Belgrano on 2023/05/20
 
 
-Average Margin: Newman by 6.2
+Average Margin: Newman by 5.4
 
 <p float="left">
 <img src="plots/performances_Newman_V_Belgrano_8.png" width="32%" />
@@ -554,7 +554,7 @@ Average Margin: Newman by 6.2
 ### CUBA V San Luis on 2023/05/20
 
 
-Average Margin: CUBA by 10.8
+Average Margin: CUBA by 11.2
 
 <p float="left">
 <img src="plots/performances_CUBA_V_San Luis_8.png" width="32%" />
@@ -567,7 +567,7 @@ Average Margin: CUBA by 10.8
 ### Hindu V Newman on 2023/06/03
 
 
-Average Margin: Hindu by 5.7
+Average Margin: Hindu by 5.9
 
 <p float="left">
 <img src="plots/performances_Hindu_V_Newman_9.png" width="32%" />
@@ -600,7 +600,7 @@ Average Margin: Alumni by 14.1
 ### San Luis V Pucara on 2023/06/03
 
 
-Average Margin: San Luis by 6.6
+Average Margin: San Luis by 6.3
 
 <p float="left">
 <img src="plots/performances_San Luis_V_Pucara_9.png" width="32%" />
@@ -611,7 +611,7 @@ Average Margin: San Luis by 6.6
 ### Buenos Aires V Atlético del Rosario on 2023/06/03
 
 
-Average Margin: Buenos Aires by 4.5
+Average Margin: Buenos Aires by 4.6
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_Atlético del Rosario_9.png" width="32%" />
@@ -622,7 +622,7 @@ Average Margin: Buenos Aires by 4.5
 ### SIC V La Plata on 2023/06/03
 
 
-Average Margin: SIC by 18.4
+Average Margin: SIC by 18.2
 
 <p float="left">
 <img src="plots/performances_SIC_V_La Plata_9.png" width="32%" />
@@ -635,7 +635,7 @@ Average Margin: SIC by 18.4
 ### SIC V Hindu on 2023/06/10
 
 
-Average Margin: Hindu by 0.6
+Average Margin: Hindu by 0.7
 
 <p float="left">
 <img src="plots/performances_SIC_V_Hindu_10.png" width="32%" />
@@ -646,7 +646,7 @@ Average Margin: Hindu by 0.6
 ### La Plata V Buenos Aires on 2023/06/10
 
 
-Average Margin: Buenos Aires by 5.6
+Average Margin: Buenos Aires by 5.7
 
 <p float="left">
 <img src="plots/performances_La Plata_V_Buenos Aires_10.png" width="32%" />
@@ -657,7 +657,7 @@ Average Margin: Buenos Aires by 5.6
 ### Atlético del Rosario V Alumni on 2023/06/10
 
 
-Average Margin: Alumni by 2.4
+Average Margin: Alumni by 2.6
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_Alumni_10.png" width="32%" />
@@ -668,7 +668,7 @@ Average Margin: Alumni by 2.4
 ### CASI V San Luis on 2023/06/10
 
 
-Average Margin: San Luis by 0.6
+Average Margin: San Luis by 0.8
 
 <p float="left">
 <img src="plots/performances_CASI_V_San Luis_10.png" width="32%" />
@@ -679,7 +679,7 @@ Average Margin: San Luis by 0.6
 ### Pucara V Belgrano on 2023/06/10
 
 
-Average Margin: Belgrano by 6.5
+Average Margin: Belgrano by 6.7
 
 <p float="left">
 <img src="plots/performances_Pucara_V_Belgrano_10.png" width="32%" />
@@ -690,7 +690,7 @@ Average Margin: Belgrano by 6.5
 ### CUBA V Newman on 2023/06/10
 
 
-Average Margin: CUBA by 1.6
+Average Margin: CUBA by 1.8
 
 <p float="left">
 <img src="plots/performances_CUBA_V_Newman_10.png" width="32%" />
@@ -703,7 +703,7 @@ Average Margin: CUBA by 1.6
 ### Hindu V CUBA on 2023/06/24
 
 
-Average Margin: Hindu by 7.6
+Average Margin: Hindu by 7.2
 
 <p float="left">
 <img src="plots/performances_Hindu_V_CUBA_11.png" width="32%" />
@@ -714,7 +714,7 @@ Average Margin: Hindu by 7.6
 ### Newman V Pucara on 2023/06/24
 
 
-Average Margin: Newman by 15.6
+Average Margin: Newman by 15.4
 
 <p float="left">
 <img src="plots/performances_Newman_V_Pucara_11.png" width="32%" />
@@ -725,7 +725,7 @@ Average Margin: Newman by 15.6
 ### Belgrano V CASI on 2023/06/24
 
 
-Average Margin: Belgrano by 14.2
+Average Margin: Belgrano by 14.6
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_CASI_11.png" width="32%" />
@@ -736,7 +736,7 @@ Average Margin: Belgrano by 14.2
 ### San Luis V Atlético del Rosario on 2023/06/24
 
 
-Average Margin: San Luis by 2.8
+Average Margin: San Luis by 2.7
 
 <p float="left">
 <img src="plots/performances_San Luis_V_Atlético del Rosario_11.png" width="32%" />
@@ -747,7 +747,7 @@ Average Margin: San Luis by 2.8
 ### Alumni V La Plata on 2023/06/24
 
 
-Average Margin: Alumni by 17.2
+Average Margin: Alumni by 17.5
 
 <p float="left">
 <img src="plots/performances_Alumni_V_La Plata_11.png" width="32%" />
@@ -758,7 +758,7 @@ Average Margin: Alumni by 17.2
 ### Buenos Aires V SIC on 2023/06/24
 
 
-Average Margin: SIC by 2.1
+Average Margin: SIC by 2.0
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_SIC_11.png" width="32%" />
@@ -771,7 +771,7 @@ Average Margin: SIC by 2.1
 ### Alumni V SIC on 2023/07/01
 
 
-Average Margin: Alumni by 2.2
+Average Margin: Alumni by 2.5
 
 <p float="left">
 <img src="plots/performances_Alumni_V_SIC_12.png" width="32%" />
@@ -793,7 +793,7 @@ Average Margin: Hindu by 6.1
 ### San Luis V La Plata on 2023/07/01
 
 
-Average Margin: San Luis by 9.8
+Average Margin: San Luis by 10.1
 
 <p float="left">
 <img src="plots/performances_San Luis_V_La Plata_12.png" width="32%" />
@@ -804,7 +804,7 @@ Average Margin: San Luis by 9.8
 ### Belgrano V Atlético del Rosario on 2023/07/01
 
 
-Average Margin: Belgrano by 9.3
+Average Margin: Belgrano by 9.2
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_Atlético del Rosario_12.png" width="32%" />
@@ -815,7 +815,7 @@ Average Margin: Belgrano by 9.3
 ### Newman V CASI on 2023/07/01
 
 
-Average Margin: Newman by 16.7
+Average Margin: Newman by 16.6
 
 <p float="left">
 <img src="plots/performances_Newman_V_CASI_12.png" width="32%" />
@@ -826,7 +826,7 @@ Average Margin: Newman by 16.7
 ### CUBA V Pucara on 2023/07/01
 
 
-Average Margin: CUBA by 13.7
+Average Margin: CUBA by 14.3
 
 <p float="left">
 <img src="plots/performances_CUBA_V_Pucara_12.png" width="32%" />
@@ -850,7 +850,7 @@ Average Margin: Hindu by 17.8
 ### CASI V CUBA on 2023/07/15
 
 
-Average Margin: CUBA by 8.3
+Average Margin: CUBA by 8.5
 
 <p float="left">
 <img src="plots/performances_CASI_V_CUBA_13.png" width="32%" />
@@ -861,7 +861,7 @@ Average Margin: CUBA by 8.3
 ### Atlético del Rosario V Newman on 2023/07/15
 
 
-Average Margin: Newman by 5.0
+Average Margin: Newman by 5.2
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_Newman_13.png" width="32%" />
@@ -883,7 +883,7 @@ Average Margin: Belgrano by 10.3
 ### Buenos Aires V Alumni on 2023/07/15
 
 
-Average Margin: Alumni by 1.2
+Average Margin: Alumni by 1.4
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_Alumni_13.png" width="32%" />
@@ -894,7 +894,7 @@ Average Margin: Alumni by 1.2
 ### SIC V San Luis on 2023/07/15
 
 
-Average Margin: SIC by 10.8
+Average Margin: SIC by 10.6
 
 <p float="left">
 <img src="plots/performances_SIC_V_San Luis_13.png" width="32%" />
@@ -907,7 +907,7 @@ Average Margin: SIC by 10.8
 ### Alumni V Hindu on 2023/07/22
 
 
-Average Margin: Hindu by 1.8
+Average Margin: Hindu by 1.4
 
 <p float="left">
 <img src="plots/performances_Alumni_V_Hindu_14.png" width="32%" />
@@ -918,7 +918,7 @@ Average Margin: Hindu by 1.8
 ### San Luis V Buenos Aires on 2023/07/22
 
 
-Average Margin: San Luis by 1.5
+Average Margin: San Luis by 1.6
 
 <p float="left">
 <img src="plots/performances_San Luis_V_Buenos Aires_14.png" width="32%" />
@@ -929,7 +929,7 @@ Average Margin: San Luis by 1.5
 ### Belgrano V SIC on 2023/07/22
 
 
-Average Margin: Belgrano by 2.6
+Average Margin: Belgrano by 2.8
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_SIC_14.png" width="32%" />
@@ -940,7 +940,7 @@ Average Margin: Belgrano by 2.6
 ### Newman V La Plata on 2023/07/22
 
 
-Average Margin: Newman by 19.6
+Average Margin: Newman by 19.5
 
 <p float="left">
 <img src="plots/performances_Newman_V_La Plata_14.png" width="32%" />
@@ -951,7 +951,7 @@ Average Margin: Newman by 19.6
 ### CUBA V Atlético del Rosario on 2023/07/22
 
 
-Average Margin: CUBA by 10.2
+Average Margin: CUBA by 10.3
 
 <p float="left">
 <img src="plots/performances_CUBA_V_Atlético del Rosario_14.png" width="32%" />
@@ -962,7 +962,7 @@ Average Margin: CUBA by 10.2
 ### Pucara V CASI on 2023/07/22
 
 
-Average Margin: Pucara by 4.3
+Average Margin: Pucara by 4.1
 
 <p float="left">
 <img src="plots/performances_Pucara_V_CASI_14.png" width="32%" />
@@ -975,7 +975,7 @@ Average Margin: Pucara by 4.3
 ### Hindu V CASI on 2023/08/12
 
 
-Average Margin: Hindu by 18.8
+Average Margin: Hindu by 18.6
 
 <p float="left">
 <img src="plots/performances_Hindu_V_CASI_15.png" width="32%" />
@@ -986,7 +986,7 @@ Average Margin: Hindu by 18.8
 ### Atlético del Rosario V Pucara on 2023/08/12
 
 
-Average Margin: Atlético del Rosario by 7.0
+Average Margin: Atlético del Rosario by 7.3
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_Pucara_15.png" width="32%" />
@@ -997,7 +997,7 @@ Average Margin: Atlético del Rosario by 7.0
 ### La Plata V CUBA on 2023/08/12
 
 
-Average Margin: CUBA by 11.2
+Average Margin: CUBA by 11.1
 
 <p float="left">
 <img src="plots/performances_La Plata_V_CUBA_15.png" width="32%" />
@@ -1008,7 +1008,7 @@ Average Margin: CUBA by 11.2
 ### SIC V Newman on 2023/08/12
 
 
-Average Margin: SIC by 1.6
+Average Margin: SIC by 1.8
 
 <p float="left">
 <img src="plots/performances_SIC_V_Newman_15.png" width="32%" />
@@ -1019,7 +1019,7 @@ Average Margin: SIC by 1.6
 ### Alumni V San Luis on 2023/08/12
 
 
-Average Margin: Alumni by 10.0
+Average Margin: Alumni by 9.9
 
 <p float="left">
 <img src="plots/performances_Alumni_V_San Luis_15.png" width="32%" />
@@ -1030,7 +1030,7 @@ Average Margin: Alumni by 10.0
 ### Buenos Aires V Belgrano on 2023/08/12
 
 
-Average Margin: Belgrano by 1.6
+Average Margin: Belgrano by 1.7
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_Belgrano_15.png" width="32%" />
@@ -1043,7 +1043,7 @@ Average Margin: Belgrano by 1.6
 ### Belgrano V Alumni on 2023/08/19
 
 
-Average Margin: Belgrano by 3.3
+Average Margin: Belgrano by 3.4
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_Alumni_16.png" width="32%" />
@@ -1065,7 +1065,7 @@ Average Margin: Hindu by 8.0
 ### Newman V Buenos Aires on 2023/08/19
 
 
-Average Margin: Newman by 10.7
+Average Margin: Newman by 10.6
 
 <p float="left">
 <img src="plots/performances_Newman_V_Buenos Aires_16.png" width="32%" />
@@ -1076,7 +1076,7 @@ Average Margin: Newman by 10.7
 ### CUBA V SIC on 2023/08/19
 
 
-Average Margin: CUBA by 3.4
+Average Margin: CUBA by 3.7
 
 <p float="left">
 <img src="plots/performances_CUBA_V_SIC_16.png" width="32%" />
@@ -1087,7 +1087,7 @@ Average Margin: CUBA by 3.4
 ### CASI V Atlético del Rosario on 2023/08/19
 
 
-Average Margin: Atlético del Rosario by 1.3
+Average Margin: Atlético del Rosario by 1.5
 
 <p float="left">
 <img src="plots/performances_CASI_V_Atlético del Rosario_16.png" width="32%" />
@@ -1098,7 +1098,7 @@ Average Margin: Atlético del Rosario by 1.3
 ### Pucara V La Plata on 2023/08/19
 
 
-Average Margin: Pucara by 7.2
+Average Margin: Pucara by 7.1
 
 <p float="left">
 <img src="plots/performances_Pucara_V_La Plata_16.png" width="32%" />
@@ -1111,7 +1111,7 @@ Average Margin: Pucara by 7.2
 ### Hindu V Atlético del Rosario on 2023/08/26
 
 
-Average Margin: Hindu by 14.1
+Average Margin: Hindu by 13.8
 
 <p float="left">
 <img src="plots/performances_Hindu_V_Atlético del Rosario_17.png" width="32%" />
@@ -1122,7 +1122,7 @@ Average Margin: Hindu by 14.1
 ### La Plata V CASI on 2023/08/26
 
 
-Average Margin: La Plata by 0.3
+Average Margin: La Plata by 1.0
 
 <p float="left">
 <img src="plots/performances_La Plata_V_CASI_17.png" width="32%" />
@@ -1144,7 +1144,7 @@ Average Margin: SIC by 13.7
 ### Buenos Aires V CUBA on 2023/08/26
 
 
-Average Margin: CUBA by 2.4
+Average Margin: CUBA by 2.1
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_CUBA_17.png" width="32%" />
@@ -1155,7 +1155,7 @@ Average Margin: CUBA by 2.4
 ### Alumni V Newman on 2023/08/26
 
 
-Average Margin: Alumni by 0.5
+Average Margin: Alumni by 0.9
 
 <p float="left">
 <img src="plots/performances_Alumni_V_Newman_17.png" width="32%" />
@@ -1166,7 +1166,7 @@ Average Margin: Alumni by 0.5
 ### San Luis V Belgrano on 2023/08/26
 
 
-Average Margin: Belgrano by 3.4
+Average Margin: Belgrano by 3.3
 
 <p float="left">
 <img src="plots/performances_San Luis_V_Belgrano_17.png" width="32%" />
@@ -1179,7 +1179,7 @@ Average Margin: Belgrano by 3.4
 ### Belgrano V Hindu on 2023/09/02
 
 
-Average Margin: Hindu by 1.5
+Average Margin: Hindu by 1.4
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_Hindu_18.png" width="32%" />
@@ -1190,7 +1190,7 @@ Average Margin: Hindu by 1.5
 ### Newman V San Luis on 2023/09/02
 
 
-Average Margin: Newman by 12.6
+Average Margin: Newman by 12.2
 
 <p float="left">
 <img src="plots/performances_Newman_V_San Luis_18.png" width="32%" />
@@ -1212,7 +1212,7 @@ Average Margin: CUBA by 4.3
 ### Pucara V Buenos Aires on 2023/09/02
 
 
-Average Margin: Buenos Aires by 1.6
+Average Margin: Buenos Aires by 1.4
 
 <p float="left">
 <img src="plots/performances_Pucara_V_Buenos Aires_18.png" width="32%" />
@@ -1223,7 +1223,7 @@ Average Margin: Buenos Aires by 1.6
 ### CASI V SIC on 2023/09/02
 
 
-Average Margin: SIC by 7.9
+Average Margin: SIC by 8.2
 
 <p float="left">
 <img src="plots/performances_CASI_V_SIC_18.png" width="32%" />
@@ -1247,7 +1247,7 @@ Average Margin: Atlético del Rosario by 10.6
 ### Hindu V La Plata on 2023/09/16
 
 
-Average Margin: Hindu by 21.4
+Average Margin: Hindu by 21.2
 
 <p float="left">
 <img src="plots/performances_Hindu_V_La Plata_19.png" width="32%" />
@@ -1258,7 +1258,7 @@ Average Margin: Hindu by 21.4
 ### SIC V Atlético del Rosario on 2023/09/16
 
 
-Average Margin: SIC by 10.1
+Average Margin: SIC by 9.7
 
 <p float="left">
 <img src="plots/performances_SIC_V_Atlético del Rosario_19.png" width="32%" />
@@ -1269,7 +1269,7 @@ Average Margin: SIC by 10.1
 ### Alumni V Pucara on 2023/09/16
 
 
-Average Margin: Alumni by 12.9
+Average Margin: Alumni by 13.0
 
 <p float="left">
 <img src="plots/performances_Alumni_V_Pucara_19.png" width="32%" />
@@ -1280,7 +1280,7 @@ Average Margin: Alumni by 12.9
 ### Buenos Aires V CASI on 2023/09/16
 
 
-Average Margin: Buenos Aires by 9.2
+Average Margin: Buenos Aires by 9.5
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_CASI_19.png" width="32%" />
@@ -1291,7 +1291,7 @@ Average Margin: Buenos Aires by 9.2
 ### Belgrano V Newman on 2023/09/16
 
 
-Average Margin: Belgrano by 0.8
+Average Margin: Belgrano by 1.2
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_Newman_19.png" width="32%" />
@@ -1302,7 +1302,7 @@ Average Margin: Belgrano by 0.8
 ### San Luis V CUBA on 2023/09/16
 
 
-Average Margin: CUBA by 4.2
+Average Margin: CUBA by 4.3
 
 <p float="left">
 <img src="plots/performances_San Luis_V_CUBA_19.png" width="32%" />
@@ -1315,7 +1315,7 @@ Average Margin: CUBA by 4.2
 ### Newman V Hindu on 2023/09/23
 
 
-Average Margin: Newman by 1.3
+Average Margin: Newman by 1.2
 
 <p float="left">
 <img src="plots/performances_Newman_V_Hindu_20.png" width="32%" />
@@ -1326,7 +1326,7 @@ Average Margin: Newman by 1.3
 ### CUBA V Belgrano on 2023/09/23
 
 
-Average Margin: CUBA by 4.3
+Average Margin: CUBA by 4.2
 
 <p float="left">
 <img src="plots/performances_CUBA_V_Belgrano_20.png" width="32%" />
@@ -1337,7 +1337,7 @@ Average Margin: CUBA by 4.3
 ### CASI V Alumni on 2023/09/23
 
 
-Average Margin: Alumni by 7.1
+Average Margin: Alumni by 6.7
 
 <p float="left">
 <img src="plots/performances_CASI_V_Alumni_20.png" width="32%" />
@@ -1359,7 +1359,7 @@ Average Margin: Pucara by 0.4
 ### Atlético del Rosario V Buenos Aires on 2023/09/23
 
 
-Average Margin: Atlético del Rosario by 2.5
+Average Margin: Atlético del Rosario by 2.3
 
 <p float="left">
 <img src="plots/performances_Atlético del Rosario_V_Buenos Aires_20.png" width="32%" />
@@ -1383,7 +1383,7 @@ Average Margin: SIC by 10.6
 ### Hindu V SIC on 2023/09/30
 
 
-Average Margin: Hindu by 7.4
+Average Margin: Hindu by 7.2
 
 <p float="left">
 <img src="plots/performances_Hindu_V_SIC_21.png" width="32%" />
@@ -1394,7 +1394,7 @@ Average Margin: Hindu by 7.4
 ### Buenos Aires V La Plata on 2023/09/30
 
 
-Average Margin: Buenos Aires by 11.8
+Average Margin: Buenos Aires by 12.0
 
 <p float="left">
 <img src="plots/performances_Buenos Aires_V_La Plata_21.png" width="32%" />
@@ -1405,7 +1405,7 @@ Average Margin: Buenos Aires by 11.8
 ### Alumni V Atlético del Rosario on 2023/09/30
 
 
-Average Margin: Alumni by 9.2
+Average Margin: Alumni by 8.9
 
 <p float="left">
 <img src="plots/performances_Alumni_V_Atlético del Rosario_21.png" width="32%" />
@@ -1416,7 +1416,7 @@ Average Margin: Alumni by 9.2
 ### San Luis V CASI on 2023/09/30
 
 
-Average Margin: San Luis by 7.4
+Average Margin: San Luis by 7.3
 
 <p float="left">
 <img src="plots/performances_San Luis_V_CASI_21.png" width="32%" />
@@ -1427,7 +1427,7 @@ Average Margin: San Luis by 7.4
 ### Belgrano V Pucara on 2023/09/30
 
 
-Average Margin: Belgrano by 12.8
+Average Margin: Belgrano by 12.9
 
 <p float="left">
 <img src="plots/performances_Belgrano_V_Pucara_21.png" width="32%" />
@@ -1438,7 +1438,7 @@ Average Margin: Belgrano by 12.8
 ### Newman V CUBA on 2023/09/30
 
 
-Average Margin: Newman by 5.2
+Average Margin: Newman by 4.9
 
 <p float="left">
 <img src="plots/performances_Newman_V_CUBA_21.png" width="32%" />
@@ -1451,7 +1451,7 @@ Average Margin: Newman by 5.2
 ### CUBA V Hindu on 2023/10/21
 
 
-Average Margin: Hindu by 0.4
+Average Margin: Hindu by 0.1
 
 <p float="left">
 <img src="plots/performances_CUBA_V_Hindu_22.png" width="32%" />
@@ -1462,7 +1462,7 @@ Average Margin: Hindu by 0.4
 ### Pucara V Newman on 2023/10/21
 
 
-Average Margin: Newman by 8.8
+Average Margin: Newman by 8.6
 
 <p float="left">
 <img src="plots/performances_Pucara_V_Newman_22.png" width="32%" />
@@ -1473,7 +1473,7 @@ Average Margin: Newman by 8.8
 ### CASI V Belgrano on 2023/10/21
 
 
-Average Margin: Belgrano by 7.3
+Average Margin: Belgrano by 7.2
 
 <p float="left">
 <img src="plots/performances_CASI_V_Belgrano_22.png" width="32%" />
@@ -1495,7 +1495,7 @@ Average Margin: Atlético del Rosario by 4.2
 ### La Plata V Alumni on 2023/10/21
 
 
-Average Margin: Alumni by 9.2
+Average Margin: Alumni by 9.7
 
 <p float="left">
 <img src="plots/performances_La Plata_V_Alumni_22.png" width="32%" />

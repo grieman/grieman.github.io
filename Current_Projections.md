@@ -10,77 +10,65 @@ key: page-projections
 
 [In depth model review and projections for European Rugby Challenge Cup 2022](comp_files/European_Rugby_Challenge_Cup_2022)
 
-Competition Accuracy: 24 of 36 (66.67%)
+Competition Accuracy: 26 of 41 (63.41%)
 
-Competition Error: 13.94 points per match
+Competition Error: 13.71 points per match
 
-Last Round Accuracy: 6 of 9 (66.67%)
+Last Round Accuracy: 6 of 10 (60.0%)
 
-Last Round Error: 8.86 points per match
+Last Round Error: 9.48 points per match
 
-[2023-03-31 Brive (~1511.18) at Scarlets (~1714.41)](projections//2023-03-31-Scarlets-Brive)
+[2023-04-01 Sale Sharks (~1737.42) at Cardiff Blues (~1653.01)](projections//2023-04-01-CardiffBlues-SaleSharks)
 
-[2023-03-31 Clermont Auvergne (~1652.31) at Bristol Rugby (~1765.95)](projections//2023-03-31-BristolRugby-ClermontAuvergne)
+[2023-04-01 Racing 92 (~1697.42) at Lions (~1689.43)](projections//2023-04-01-Lions-Racing92)
 
-[2023-04-01 Connacht (~1656.63) at Benetton Treviso (~1667.52)](projections//2023-04-01-BenettonTreviso-Connacht)
-
-[2023-04-01 Cheetahs (~1545.53) at Toulon (~1775.24)](projections//2023-04-01-Toulon-Cheetahs)
-
-[2023-04-01 Lyon (~1694.46) at Stade Francais Paris (~1729.47)](projections//2023-04-01-StadeFrancaisParis-Lyon)
-
-[2023-04-01 Dragons (~1475.37) at Glasgow Warriors (~1770.98)](projections//2023-04-01-GlasgowWarriors-Dragons)
-
-[2023-04-01 Racing 92 (~1698.05) at Lions (~1678.74)](projections//2023-04-01-Lions-Racing92)
-
-[2023-04-01 Sale Sharks (~1748.19) at Cardiff Blues (~1650.16)](projections//2023-04-01-CardiffBlues-SaleSharks)
+[2023-04-01 Dragons (~1473.16) at Glasgow Warriors (~1756.1)](projections//2023-04-01-GlasgowWarriors-Dragons)
 ## European Rugby Champions Cup
 
 
 [In depth model review and projections for European Rugby Champions Cup 2022](comp_files/European_Rugby_Champions_Cup_2022)
 
-Competition Accuracy: 31 of 48 (64.58%)
+Competition Accuracy: 33 of 50 (66.0%)
 
-Competition Error: 13.0 points per match
+Competition Error: 12.76 points per match
 
-Last Round Accuracy: 8 of 12 (66.67%)
+Last Round Accuracy: 9 of 12 (75.0%)
 
-Last Round Error: 11.86 points per match
+Last Round Error: 10.04 points per match
 
-[2023-03-31 Edinburgh (~1636.91) at Leicester Tigers (~1834.28)](projections//2023-03-31-LeicesterTigers-Edinburgh)
+[2023-04-01 Ulster (~1757.75) at Leinster (~2002.24)](projections//2023-04-01-Leinster-Ulster)
 
-[2023-04-01 Harlequins (~1691.21) at Stormers (~1860.18)](projections//2023-04-01-Stormers-Harlequins)
+[2023-04-01 Gloucester Rugby (~1669.27) at La Rochelle (~1865.92)](projections//2023-04-01-LaRochelle-GloucesterRugby)
 
-[2023-04-01 Gloucester Rugby (~1675.63) at La Rochelle (~1867.66)](projections//2023-04-01-LaRochelle-GloucesterRugby)
+[2023-04-01 Harlequins (~1687.56) at Stormers (~1852.03)](projections//2023-04-01-Stormers-Harlequins)
 
-[2023-04-01 Ulster (~1762.06) at Leinster (~2007.57)](projections//2023-04-01-Leinster-Ulster)
+[2023-04-02 Montpellier Herault (~1676.03) at Exeter Chiefs (~1815.18)](projections//2023-04-02-ExeterChiefs-MontpellierHerault)
 
-[2023-04-01 Munster (~1729.08) at Sharks (~1762.12)](projections//2023-04-01-Sharks-Munster)
+[2023-04-02 Ospreys (~1597.44) at Saracens (~1892.54)](projections//2023-04-02-Saracens-Ospreys)
 
-[2023-04-02 Bulls (~1661.21) at Stade Toulousain (~1862.25)](projections//2023-04-02-StadeToulousain-Bulls)
-
-[2023-04-02 Ospreys (~1597.61) at Saracens (~1893.03)](projections//2023-04-02-Saracens-Ospreys)
-
-[2023-04-02 Montpellier Herault (~1665.34) at Exeter Chiefs (~1819.35)](projections//2023-04-02-ExeterChiefs-MontpellierHerault)
-## Gallagher Premiership
+[2023-04-02 Bulls (~1679.82) at Stade Toulousain (~1862.46)](projections//2023-04-02-StadeToulousain-Bulls)
+## Japan Rugby League One
 
 
-[In depth model review and projections for Gallagher Premiership 2022](comp_files/Gallagher_Premiership_2022)
+[In depth model review and projections for Japan Rugby League One 2022](comp_files/Japan_Rugby_League_One_2022)
 
-Competition Accuracy: 69 of 95 (72.63%)
+Competition Accuracy: 59 of 70 (84.29%)
 
-Competition Error: 11.24 points per match
+Competition Error: 14.68 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 13.98 points per match
+Last Round Error: 6.58 points per match
 
-[2023-03-24 Gloucester Rugby (~1673.4) at Newcastle Falcons (~1621.51)](projections//2023-03-24-NewcastleFalcons-GloucesterRugby)
+[2023-04-07 Kobelco Kobe Steelers (~1630.98) at Tokyo Sungoliath (~1954.4)](projections//2023-04-07-TokyoSungoliath-KobelcoKobeSteelers)
 
-[2023-03-25 Bristol Rugby (~1677.28) at Leicester Tigers (~1831.45)](projections//2023-03-25-LeicesterTigers-BristolRugby)
+[2023-04-08 Hanazono Kintetsu Liners (~1288.61) at Kubota Spears Funabashi Tokyo-Bay (~1979.87)](projections//2023-04-08-KubotaSpearsFunabashiTokyo-Bay-HanazonoKintetsuLiners)
 
-[2023-03-25 Harlequins (~1690.34) at Saracens (~1893.84)](projections//2023-03-25-Saracens-Harlequins)
+[2023-04-08 Toshiba Brave Lupus Tokyo (~1786.07) at Shizuoka Blue Revs (~1748.41)](projections//2023-04-08-ShizuokaBlueRevs-ToshibaBraveLupusTokyo)
 
-[2023-03-26 Exeter Chiefs (~1728.26) at Bath Rugby (~1637.96)](projections//2023-03-26-BathRugby-ExeterChiefs)
+[2023-04-08 Black Rams Tokyo (~1638.32) at Saitama Wild Knights (~2108.52)](projections//2023-04-08-SaitamaWildKnights-BlackRamsTokyo)
+
+[2023-04-08 Mitsubishi Dynaboars (~1505.83) at Toyota Verblitz (~1759.48)](projections//2023-04-08-ToyotaVerblitz-MitsubishiDynaboars)
 ## Major League Rugby
 
 
@@ -94,17 +82,27 @@ Last Round Accuracy: 4 of 6 (66.67%)
 
 Last Round Error: 19.07 points per match
 
-[2023-04-01 New England Free Jacks (~1650.6) at Utah Warriors (~1628.24)](projections//2023-04-01-UtahWarriors-NewEnglandFreeJacks)
+[2023-04-01 New England Free Jacks (~1638.18) at Utah Warriors (~1629.18)](projections//2023-04-01-UtahWarriors-NewEnglandFreeJacks)
 
-[2023-04-02 Seattle Seawolves (~1662.06) at NOLA Gold (~1641.85)](projections//2023-04-02-NOLAGold-SeattleSeawolves)
+[2023-04-02 Houston SaberCats (~1614.59) at Chicago Hounds (~1353.2)](projections//2023-04-02-ChicagoHounds-HoustonSaberCats)
 
-[2023-04-02 Old Glory DC (~1472.1) at San Diego Legion (~1760.5)](projections//2023-04-02-SanDiegoLegion-OldGloryDC)
+[2023-04-02 Seattle Seawolves (~1657.16) at NOLA Gold (~1644.99)](projections//2023-04-02-NOLAGold-SeattleSeawolves)
 
-[2023-04-02 Houston SaberCats (~1618.75) at Chicago Hounds (~1338.8)](projections//2023-04-02-ChicagoHounds-HoustonSaberCats)
+[2023-04-02 Toronto Arrows (~1433.4) at Dallas Jackals (~1295.56)](projections//2023-04-02-DallasJackals-TorontoArrows)
 
-[2023-04-02 Toronto Arrows (~1431.57) at Dallas Jackals (~1307.46)](projections//2023-04-02-DallasJackals-TorontoArrows)
+[2023-04-02 Old Glory DC (~1469.49) at San Diego Legion (~1746.01)](projections//2023-04-02-SanDiegoLegion-OldGloryDC)
 
-[2023-04-02 Rugby ATL (~1578.27) at Rugby New York (~1658.86)](projections//2023-04-02-RugbyNewYork-RugbyATL)
+[2023-04-02 Rugby ATL (~1579.24) at Rugby New York (~1659.89)](projections//2023-04-02-RugbyNewYork-RugbyATL)
+
+[2023-04-08 Chicago Hounds (~1262.62) at New England Free Jacks (~1736.26)](projections//2023-04-08-NewEnglandFreeJacks-ChicagoHounds)
+
+[2023-04-08 San Diego Legion (~1664.18) at Seattle Seawolves (~1745.13)](projections//2023-04-08-SeattleSeawolves-SanDiegoLegion)
+
+[2023-04-08 Utah Warriors (~1539.83) at Houston SaberCats (~1706.54)](projections//2023-04-08-HoustonSaberCats-UtahWarriors)
+
+[2023-04-08 Old Glory DC (~1469.12) at Rugby ATL (~1667.28)](projections//2023-04-08-RugbyATL-OldGloryDC)
+
+[2023-04-08 Rugby New York (~1564.78) at Toronto Arrows (~1527.97)](projections//2023-04-08-TorontoArrows-RugbyNewYork)
 ## RFU Championship
 
 
@@ -112,23 +110,21 @@ Last Round Error: 19.07 points per match
 
 Competition Accuracy: 72 of 100 (72.0%)
 
-Competition Error: 14.45 points per match
+Competition Error: 14.61 points per match
 
 Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 18.61 points per match
+Last Round Error: 12.37 points per match
 
-[2023-03-31 Hartpury College (~1303.31) at Coventry (~1493.62)](projections//2023-03-31-Coventry-HartpuryCollege)
+[2023-04-01 Ealing Trailfinders (~1612.47) at Bedford (~1480.05)](projections//2023-04-01-Bedford-EalingTrailfinders)
 
-[2023-04-01 Richmond (~1140.41) at Ampthill (~1391.4)](projections//2023-04-01-Ampthill-Richmond)
+[2023-04-01 Nottingham (~1234.71) at Jersey (~1594.69)](projections//2023-04-01-Jersey-Nottingham)
 
-[2023-04-01 Nottingham (~1235.79) at Jersey (~1600.71)](projections//2023-04-01-Jersey-Nottingham)
+[2023-04-01 Richmond (~1141.81) at Ampthill (~1391.4)](projections//2023-04-01-Ampthill-Richmond)
 
-[2023-04-01 Ealing Trailfinders (~1611.88) at Bedford (~1475.71)](projections//2023-04-01-Bedford-EalingTrailfinders)
+[2023-04-01 Doncaster (~1308.78) at London Scottish (~1181.2)](projections//2023-04-01-LondonScottish-Doncaster)
 
-[2023-04-01 Caldy (~1259.7) at Cornish Pirates (~1440.37)](projections//2023-04-01-CornishPirates-Caldy)
-
-[2023-04-01 Doncaster (~1310.22) at London Scottish (~1181.43)](projections//2023-04-01-LondonScottish-Doncaster)
+[2023-04-01 Caldy (~1258.62) at Cornish Pirates (~1438.45)](projections//2023-04-01-CornishPirates-Caldy)
 ## Super Rugby Americas
 
 
@@ -142,41 +138,31 @@ Last Round Accuracy: 1 of 4 (25.0%)
 
 Last Round Error: 11.04 points per match
 
-[2023-04-01 Selknam (~1425.31) at Yacare XV (~1339.32)](projections//2023-04-01-YacareXV-Selknam)
+[2023-04-01 Selknam (~1434.58) at Yacare XV (~1348.41)](projections//2023-04-01-YacareXV-Selknam)
 
-[2023-04-02 Cobras (~1135.33) at American Raptors (~1257.2)](projections//2023-04-02-AmericanRaptors-Cobras)
+[2023-04-02 Cobras (~1128.25) at American Raptors (~1256.03)](projections//2023-04-02-AmericanRaptors-Cobras)
 ## Super Rugby Pacific
 
 
 [In depth model review and projections for Super Rugby Pacific 2022](comp_files/Super_Rugby_Pacific_2022)
 
-Competition Accuracy: 18 of 26 (69.23%)
+Competition Accuracy: 26 of 35 (74.29%)
 
-Competition Error: 12.93 points per match
+Competition Error: 13.09 points per match
 
-Last Round Accuracy: 5 of 6 (83.33%)
+Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 6.72 points per match
+Last Round Error: 8.71 points per match
 
-[2023-03-24 Fijian Drua (~1277.63) at Highlanders (~1494.91)](projections//2023-03-24-Highlanders-FijianDrua)
+[2023-04-01 Western Force (~1269.52) at Hurricanes (~1664.88)](projections//2023-04-01-Hurricanes-WesternForce)
 
-[2023-03-25 Hurricanes (~1569.69) at Moana Pasifika (~1272.68)](projections//2023-03-25-MoanaPasifika-Hurricanes)
+[2023-04-07 Moana Pasifika (~1134.09) at Crusaders (~1758.07)](projections//2023-04-07-Crusaders-MoanaPasifika)
 
-[2023-03-25 Queensland Reds (~1434.92) at Melbourne Rebels (~1413.73)](projections//2023-03-25-MelbourneRebels-QueenslandReds)
+[2023-04-07 Brumbies (~1551.87) at Queensland Reds (~1502.72)](projections//2023-04-07-QueenslandReds-Brumbies)
 
-[2023-03-25 Western Force (~1258.7) at Blues (~1711.58)](projections//2023-03-25-Blues-WesternForce)
+[2023-04-08 Hurricanes (~1576.81) at Highlanders (~1526.37)](projections//2023-04-08-Highlanders-Hurricanes)
 
-[2023-03-31 Crusaders (~1658.22) at Queensland Reds (~1522.91)](projections//2023-03-31-QueenslandReds-Crusaders)
-
-[2023-03-31 Highlanders (~1401.01) at Moana Pasifika (~1270.28)](projections//2023-03-31-MoanaPasifika-Highlanders)
-
-[2023-04-01 Melbourne Rebels (~1327.04) at Fijian Drua (~1361.35)](projections//2023-04-01-FijianDrua-MelbourneRebels)
-
-[2023-04-01 Blues (~1623.91) at Chiefs (~1723.0)](projections//2023-04-01-Chiefs-Blues)
-
-[2023-04-01 New South Wales Waratahs (~1415.89) at Brumbies (~1654.36)](projections//2023-04-01-Brumbies-NewSouthWalesWaratahs)
-
-[2023-04-01 Western Force (~1259.95) at Hurricanes (~1656.75)](projections//2023-04-01-Hurricanes-WesternForce)
+[2023-04-08 Blues (~1610.6) at Melbourne Rebels (~1411.0)](projections//2023-04-08-MelbourneRebels-Blues)
 # Domestic Leagues
 
 ## Currie Cup
@@ -184,21 +170,21 @@ Last Round Error: 6.72 points per match
 
 [In depth model review and projections for Currie Cup 2023](comp_files/Currie_Cup_2023)
 
-Competition Accuracy: 7 of 13 (53.85%)
+Competition Accuracy: 7 of 15 (46.67%)
 
-Competition Error: 21.52 points per match
+Competition Error: 22.36 points per match
 
-Last Round Accuracy: 3 of 4 (75.0%)
+Last Round Accuracy: 1 of 4 (25.0%)
 
-Last Round Error: 14.56 points per match
+Last Round Error: 20.32 points per match
 
-[2023-03-31 Blue Bulls (~1334.37) at Griffons (~1332.42)](projections//2023-03-31-Griffons-BlueBulls)
+[2023-04-01 Griquas (~1424.11) at Western Province (~1512.7)](projections//2023-04-01-WesternProvince-Griquas)
 
-[2023-03-31 Pumas (~1619.29) at Free State Cheetahs (~1719.88)](projections//2023-03-31-FreeStateCheetahs-Pumas)
+[2023-04-01 Natal Sharks (~1462.66) at Golden Lions (~1394.16)](projections//2023-04-01-GoldenLions-NatalSharks)
 
-[2023-04-01 Griquas (~1425.9) at Western Province (~1507.28)](projections//2023-04-01-WesternProvince-Griquas)
+[2023-04-07 Pumas (~1663.3) at Natal Sharks (~1554.29)](projections//2023-04-07-NatalSharks-Pumas)
 
-[2023-04-01 Natal Sharks (~1464.39) at Golden Lions (~1394.62)](projections//2023-04-01-GoldenLions-NatalSharks)
+[2023-04-07 Griquas (~1421.69) at Blue Bulls (~1415.78)](projections//2023-04-07-BlueBulls-Griquas)
 ## Currie Cup First Division
 
 
@@ -208,25 +194,27 @@ Competition Accuracy: 14 of 19 (73.68%)
 
 Competition Error: 12.87 points per match
 
-Last Round Accuracy: 1 of 3 (33.33%)
+Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 7.21 points per match
+Last Round Error: 13.92 points per match
 
-[2023-04-01 Border Bulldogs (~593.86) at Valke (~1113.87)](projections//2023-04-01-Valke-BorderBulldogs)
+[2023-04-01 Border Bulldogs (~584.47) at Valke (~1114.23)](projections//2023-04-01-Valke-BorderBulldogs)
 ## Japan Rugby League One Division 3
 
 
 [In depth model review and projections for Japan Rugby League One Division 3 2022](comp_files/Japan_Rugby_League_One_Division_3_2022)
 
-Competition Accuracy: 17 of 20 (85.0%)
+Competition Accuracy: 18 of 21 (85.71%)
 
-Competition Error: 14.0 points per match
+Competition Error: 14.04 points per match
 
 Last Round Accuracy: 3 of 3 (100.0%)
 
-Last Round Error: 15.74 points per match
+Last Round Error: 14.89 points per match
 
-[2023-04-01 Kurita Water Gush (~830.12) at NTT Docomo Red Hurricanes Osaka (~1376.88)](projections//2023-04-01-NTTDocomoRedHurricanesOsaka-KuritaWaterGush)
+[2023-04-08 NTT Docomo Red Hurricanes Osaka (~1267.53) at Chugoku Red Regulions (~653.43)](projections//2023-04-08-ChugokuRedRegulions-NTTDocomoRedHurricanesOsaka)
+
+[2023-04-08 Skyactivs Hiroshima (~766.12) at Kurita Water Gush (~943.2)](projections//2023-04-08-KuritaWaterGush-SkyactivsHiroshima)
 ## Nationale
 
 
@@ -240,49 +228,55 @@ Last Round Accuracy: 5 of 7 (71.43%)
 
 Last Round Error: 6.57 points per match
 
-[2023-04-01 Cognac Saint Jean d'Angély (~1056.95) at Nice (~1414.11)](projections//2023-04-01-Nice-CognacSaintJeand'Angély)
+[2023-04-01 Cognac Saint Jean d'Angély (~1055.65) at Nice (~1418.42)](projections//2023-04-01-Nice-CognacSaintJeand'Angély)
 
-[2023-04-01 Chambery (~1305.1) at Bourgoin-Jallieu (~1400.84)](projections//2023-04-01-Bourgoin-Jallieu-Chambery)
+[2023-04-01 US Bressane (~1325.39) at Suresnes (~1270.1)](projections//2023-04-01-Suresnes-USBressane)
 
-[2023-04-01 Tarbes (~1276.64) at Albi (~1484.57)](projections//2023-04-01-Albi-Tarbes)
+[2023-04-01 Tarbes (~1273.94) at Albi (~1481.02)](projections//2023-04-01-Albi-Tarbes)
 
-[2023-04-01 US Bressane (~1324.29) at Suresnes (~1273.98)](projections//2023-04-01-Suresnes-USBressane)
+[2023-04-01 Chambery (~1300.17) at Bourgoin-Jallieu (~1395.63)](projections//2023-04-01-Bourgoin-Jallieu-Chambery)
 
-[2023-04-01 Blagnac (~1343.53) at Narbonne (~1363.74)](projections//2023-04-01-Narbonne-Blagnac)
+[2023-04-01 Blagnac (~1342.8) at Narbonne (~1361.38)](projections//2023-04-01-Narbonne-Blagnac)
 
-[2023-04-01 Valence Romans Drome Rugby (~1409.23) at Dax (~1487.13)](projections//2023-04-01-Dax-ValenceRomansDromeRugby)
+[2023-04-01 Valence Romans Drome Rugby (~1412.16) at Dax (~1483.73)](projections//2023-04-01-Dax-ValenceRomansDromeRugby)
 
-[2023-04-02 Rennes (~1123.07) at Carqueiranne-Hyères (~1326.11)](projections//2023-04-02-Carqueiranne-Hyères-Rennes)
+[2023-04-02 Rennes (~1121.7) at Carqueiranne-Hyères (~1327.5)](projections//2023-04-02-Carqueiranne-Hyères-Rennes)
+
+[2023-04-07 Albi (~1394.19) at US Bressane (~1417.46)](projections//2023-04-07-USBressane-Albi)
+
+[2023-04-08 Nice (~1324.13) at Blagnac (~1435.76)](projections//2023-04-08-Blagnac-Nice)
+
+[2023-04-08 Narbonne (~1273.48) at Rennes (~1208.07)](projections//2023-04-08-Rennes-Narbonne)
+
+[2023-04-08 Valence Romans Drome Rugby (~1410.68) at Tarbes (~1365.82)](projections//2023-04-08-Tarbes-ValenceRomansDromeRugby)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 2022](comp_files/Pro_D2_2022)
 
-Competition Accuracy: 135 of 200 (67.5%)
+Competition Accuracy: 139 of 208 (66.83%)
 
-Competition Error: 9.24 points per match
+Competition Error: 9.3 points per match
 
-Last Round Accuracy: 7 of 8 (87.5%)
+Last Round Accuracy: 4 of 8 (50.0%)
 
-Last Round Error: 7.12 points per match
+Last Round Error: 10.96 points per match
 
-[2023-03-30 Mont-de-Marsan (~1485.44) at Colomiers (~1529.44)](projections//2023-03-30-Colomiers-Mont-de-Marsan)
+[2023-04-06 Colomiers (~1436.18) at Nevers (~1562.89)](projections//2023-04-06-Nevers-Colomiers)
 
-[2023-03-31 Vannes (~1466.64) at Beziers (~1520.81)](projections//2023-03-31-Beziers-Vannes)
+[2023-04-07 Massy (~1352.29) at Provence Rugby (~1530.54)](projections//2023-04-07-ProvenceRugby-Massy)
 
-[2023-03-31 Nevers (~1476.17) at Rouen (~1449.18)](projections//2023-03-31-Rouen-Nevers)
+[2023-04-07 Beziers (~1416.65) at Biarritz Olympique (~1552.55)](projections//2023-04-07-BiarritzOlympique-Beziers)
 
-[2023-03-31 Grenoble (~1453.17) at Massy (~1455.76)](projections//2023-03-31-Massy-Grenoble)
+[2023-04-07 Carcassonne (~1401.94) at Agen (~1529.93)](projections//2023-04-07-Agen-Carcassonne)
 
-[2023-03-31 Provence Rugby (~1443.62) at Soyaux-Angouleme (~1474.96)](projections//2023-03-31-Soyaux-Angouleme-ProvenceRugby)
+[2023-04-07 Rouen (~1360.2) at Montauban (~1480.01)](projections//2023-04-07-Montauban-Rouen)
 
-[2023-03-31 Agen (~1435.01) at Oyonnax (~1682.01)](projections//2023-03-31-Oyonnax-Agen)
+[2023-04-07 Mont-de-Marsan (~1486.23) at Grenoble (~1555.1)](projections//2023-04-07-Grenoble-Mont-de-Marsan)
 
-[2023-03-31 Aurillac (~1389.53) at Montauban (~1477.44)](projections//2023-03-31-Montauban-Aurillac)
+[2023-04-07 Soyaux-Angouleme (~1385.22) at Vannes (~1568.58)](projections//2023-04-07-Vannes-Soyaux-Angouleme)
 
-[2023-03-31 Biarritz Olympique (~1465.99) at Carcassonne (~1486.29)](projections//2023-03-31-Carcassonne-BiarritzOlympique)
-
-[2023-04-06 Colomiers (~1440.79) at Nevers (~1565.68)](projections//2023-04-06-Nevers-Colomiers)
+[2023-04-07 Oyonnax (~1587.48) at Aurillac (~1472.02)](projections//2023-04-07-Aurillac-Oyonnax)
 ## URBA Top 13
 
 
@@ -296,14 +290,14 @@ Last Round Accuracy: 3 of 6 (50.0%)
 
 Last Round Error: 18.43 points per match
 
-[2023-04-01 Hindu (~1825.05) at Pucara (~1613.7)](projections//2023-04-01-Pucara-Hindu)
+[2023-04-01 SIC (~1734.2) at San Luis (~1672.17)](projections//2023-04-01-SanLuis-SIC)
 
-[2023-04-01 CASI (~1506.95) at CUBA (~1831.04)](projections//2023-04-01-CUBA-CASI)
+[2023-04-01 Hindu (~1820.9) at Pucara (~1610.21)](projections//2023-04-01-Pucara-Hindu)
 
-[2023-04-01 Atlético del Rosario (~1594.76) at Newman (~1864.95)](projections//2023-04-01-Newman-AtléticodelRosario)
+[2023-04-01 CASI (~1505.82) at CUBA (~1829.7)](projections//2023-04-01-CUBA-CASI)
 
-[2023-04-01 La Plata (~1412.87) at Belgrano (~1815.48)](projections//2023-04-01-Belgrano-LaPlata)
+[2023-04-01 Atlético del Rosario (~1601.68) at Newman (~1871.05)](projections//2023-04-01-Newman-AtléticodelRosario)
 
-[2023-04-01 SIC (~1734.52) at San Luis (~1674.27)](projections//2023-04-01-SanLuis-SIC)
+[2023-04-01 La Plata (~1412.62) at Belgrano (~1814.99)](projections//2023-04-01-Belgrano-LaPlata)
 
-[2023-04-01 Buenos Aires (~1624.3) at Alumni (~1809.81)](projections//2023-04-01-Alumni-BuenosAires)
+[2023-04-01 Buenos Aires (~1627.92) at Alumni (~1806.32)](projections//2023-04-01-Alumni-BuenosAires)

@@ -45,14 +45,14 @@ Shimizu Blue Sharks by 5.0 on a neutral pitch
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
 |             52 | Tomoki Minami         |      90.97 |                32 |        1 |                90 |     112.88 | Fumiyake Mato           |             40 |
 |             52 | Tomoya Watanabe       |      74.09 |               nan |        2 |                79 |     104.76 | Naomichi Tatekawa       |             57 |
-|             52 | Ryota Fukamura        |      81.45 |                12 |        3 |                88 |     110.6  | Kazuki Kanazawa         |             40 |
+|             52 | Ryota Fukamura        |      81.45 |                11 |        3 |                88 |     110.6  | Kazuki Kanazawa         |             40 |
 |             80 | Taishi Nakamura       |      93.71 |                46 |        4 |                32 |      89.54 | Tetsunori Osaki         |             80 |
-|             57 | James Gaskell         |      95.83 |                51 |        5 |                33 |      90.77 | Thomas Nowlan           |              8 |
+|             57 | James Gaskell         |      95.83 |                50 |        5 |                34 |      90.77 | Thomas Nowlan           |              8 |
 |             80 | Seta Naivaluwaga      |      95    |               nan |        6 |                43 |      95.87 | Koudai Takahashi        |             80 |
 |             80 | Yamato Matsuoka       |      80.73 |                11 |        7 |                64 |     100.23 | Ginjiro Hase            |             71 |
 |             80 | Tama Kapene           |      89.72 |                33 |        8 |                13 |      81.47 | Murphy Taramai          |             80 |
 |             61 | Riku Morisaki         |      86.79 |                23 |        9 |                16 |      83.37 | Kayne Hammington        |             61 |
-|             80 | Akihiro Shimizu       |      88.53 |                26 |       10 |                34 |      91.06 | Soichiro Kuwata         |             40 |
+|             80 | Akihiro Shimizu       |      88.53 |                26 |       10 |                35 |      91.06 | Soichiro Kuwata         |             40 |
 |             70 | Go Nakano             |     106.23 |                77 |       11 |                21 |      86.12 | Shuhei Sasaki           |             80 |
 |             57 | Josh Matavesi         |      86.56 |                24 |       12 |                13 |      80.73 | Orbyn Leger             |             80 |
 |             80 | Joe Kamana            |      71.55 |                 6 |       13 |                17 |      83.57 | Michael Va'a Toloke     |             80 |
@@ -63,7 +63,7 @@ Shimizu Blue Sharks by 5.0 on a neutral pitch
 |             28 | Naoya Ishibashi       |      96.31 |               nan |       18 |                 8 |      80.28 | Ryota Saitou            |             40 |
 |             23 | James Mollentze       |      69.13 |                 5 |       19 |               nan |      94.02 | John Ben Kotze          |             40 |
 |             23 | Shoma Makinouchi      |      90.44 |                42 |       20 |                13 |      84.77 | Kaito Tamori            |             23 |
-|             19 | Keisuke Ishida        |      98.1  |                51 |       21 |                60 |     101.34 | Kenji Harada            |             19 |
+|             19 | Keisuke Ishida        |      98.1  |                52 |       21 |                59 |     101.34 | Kenji Harada            |             19 |
 |             10 | Hiroaki Saito         |      81.38 |                13 |       22 |                15 |      80.39 | Coenraad George van Wyk |             19 |
-|              1 | Talifolofola Tangipa  |     104.93 |                72 |       23 |                17 |      83.69 | Ryo Sato                |              9 |
+|              1 | Talifolofola Tangipa  |     104.93 |                71 |       23 |                17 |      83.69 | Ryo Sato                |              9 |
 

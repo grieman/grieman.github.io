@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ealing Trailfinders by 16.3
+## Prediction with Player Minutes: Ealing Trailfinders by 15.5
 
 
-Ealing Trailfinders by 12.3 on a neutral field
+Ealing Trailfinders by 11.5 on a neutral field
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Ealing Trailfinders by 18.0
+## Prediction without Player Minutes: Ealing Trailfinders by 17.2
 
 
-Ealing Trailfinders by 14.0 on a neutral pitch
+Ealing Trailfinders by 13.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             52 | Ollie Adkins      |      80.22 |                 9 |        1 |                93 |     114.67 | Will Davis              |             79 |
-|             52 | Morgan Nelson     |      98.11 |               nan |        2 |                52 |      95.59 | Alun Walker             |             69 |
-|             47 | Harvey Beaton     |      87.37 |                22 |        3 |                54 |      96.23 | George Davis            |             60 |
-|             80 | James Fender      |      93.88 |                48 |        4 |                65 |     100.66 | Andrew Davidson         |             80 |
-|             56 | Steele Barker     |      93.57 |                44 |        5 |               nan |      92.48 | Barney Maddison         |             80 |
-|             80 | Alex Everett      |      92.62 |                41 |        6 |                61 |      99.27 | Rob Farrar              |             80 |
-|             60 | Will Gibson       |      95.18 |                49 |        7 |                92 |     121.53 | Ollie Newman            |             52 |
-|             80 | Ben Grubb         |      95    |               nan |        8 |                71 |     104.29 | Jack Digby              |             70 |
-|             44 | Alex Schwarz      |      81.8  |                14 |        9 |                65 |     100.16 | Craig Hampson           |             65 |
-|             60 | Harry Bazalgette  |     100.68 |                63 |       10 |                53 |      97.84 | Craig Willis            |             33 |
-|             80 | Arthur Relton     |      99.35 |                60 |       11 |                77 |     106.35 | Cian Kelleher           |             80 |
-|             52 | Joe Elderkin      |      89.15 |                30 |       12 |                69 |     101.47 | Patrick Benjamin Howard |             78 |
-|             80 | Rory Parata       |      99.48 |                60 |       13 |                74 |     105.84 | Max Bodilly             |             80 |
-|             80 | Robin Wedlake     |      97.3  |                54 |       14 |                99 |     148.3  | James Cordy-Redden      |             80 |
-|             80 | Alexander AJ Cant |     119.54 |                91 |       15 |                53 |      97.82 | Jonah Holmes            |             80 |
-|             36 | Ruaridh Dawson    |      94.54 |                42 |       16 |                 1 |      54.32 | Dan Lancaster           |             47 |
-|             33 | Matt Johnson      |      99.68 |                73 |       17 |                75 |     104.6  | Simon Uzokwe            |             28 |
-|             28 | Hayden King       |      99.86 |               nan |       18 |                31 |      94.95 | Ross Kane               |             20 |
-|             28 | Garyn Smith       |      90.28 |                41 |       19 |                82 |     102.38 | Jordan Burns            |             15 |
-|             24 | Cory Teague       |      67.46 |                 4 |       20 |                50 |      95.36 | Shaun Malton            |             11 |
-|             28 | William Crane     |      91.96 |                38 |       21 |                44 |      95.18 | Will Montgomery         |             10 |
-|             20 | Carwyn Penny      |      86.53 |                32 |       22 |                14 |      81.41 | Reuben Bird-Tulloch     |              2 |
+|             52 | Ollie Adkins      |      80.37 |                 9 |        1 |                93 |     114.58 | Will Davis              |             79 |
+|             52 | Morgan Nelson     |      98.23 |               nan |        2 |                52 |      95.34 | Alun Walker             |             69 |
+|             47 | Harvey Beaton     |      87.54 |                22 |        3 |                53 |      95.96 | George Davis            |             60 |
+|             80 | James Fender      |      94.36 |                48 |        4 |                64 |     100.31 | Andrew Davidson         |             80 |
+|             56 | Steele Barker     |      93.78 |                44 |        5 |               nan |      92.09 | Barney Maddison         |             80 |
+|             80 | Alex Everett      |      93.09 |                42 |        6 |                59 |      98.85 | Rob Farrar              |             80 |
+|             60 | Will Gibson       |      95.48 |                49 |        7 |                92 |     121.03 | Ollie Newman            |             52 |
+|             80 | Ben Grubb         |      95    |               nan |        8 |                70 |     104.09 | Jack Digby              |             70 |
+|             44 | Alex Schwarz      |      82.19 |                15 |        9 |                64 |      99.85 | Craig Hampson           |             65 |
+|             60 | Harry Bazalgette  |     100.78 |                63 |       10 |                52 |      97.52 | Craig Willis            |             33 |
+|             80 | Arthur Relton     |      99.49 |                61 |       11 |                77 |     105.9  | Cian Kelleher           |             80 |
+|             52 | Joe Elderkin      |      89.32 |                30 |       12 |                69 |     101.59 | Patrick Benjamin Howard |             78 |
+|             80 | Rory Parata       |      99.79 |                60 |       13 |                74 |     105.49 | Max Bodilly             |             80 |
+|             80 | Robin Wedlake     |      97.55 |                55 |       14 |                99 |     147.8  | James Cordy-Redden      |             80 |
+|             80 | Alexander AJ Cant |     119.77 |                91 |       15 |                53 |      97.51 | Jonah Holmes            |             80 |
+|             36 | Ruaridh Dawson    |      94.62 |                41 |       16 |                 1 |      54.28 | Dan Lancaster           |             47 |
+|             33 | Matt Johnson      |      99.97 |                74 |       17 |                75 |     104.61 | Simon Uzokwe            |             28 |
+|             28 | Hayden King       |      99.86 |               nan |       18 |                30 |      94.86 | Ross Kane               |             20 |
+|             28 | Garyn Smith       |      90.64 |                42 |       19 |                82 |     102.33 | Jordan Burns            |             15 |
+|             24 | Cory Teague       |      67.9  |                 4 |       20 |                50 |      95.5  | Shaun Malton            |             11 |
+|             28 | William Crane     |      92.3  |                40 |       21 |                44 |      95.31 | Will Montgomery         |             10 |
+|             20 | Carwyn Penny      |      86.7  |                32 |       22 |                13 |      80.98 | Reuben Bird-Tulloch     |              2 |
 |             20 | Max Norey         |      90.48 |               nan |       23 |               nan |      95    | Lefty Zigiriadis        |              1 |
 

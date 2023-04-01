@@ -43,27 +43,27 @@ Nevers by 17.6 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             37 | Robin Poipy              |      88.19 |                30 |        1 |                66 |      99.79 | Kamaliele Tufele    |             40 |
+|             37 | Robin Poipy              |      88.19 |                30 |        1 |                66 |      99.78 | Kamaliele Tufele    |             40 |
 |             31 | Pierre-Alexandre Duclieu |      89.74 |                42 |        2 |                59 |      98.7  | Issam Hamel         |             61 |
 |              6 | Nicolas Ferrer           |     103.82 |                84 |        3 |               nan |     101.72 | Sosefo Tapu Falatea |             40 |
-|             80 | Abongile Nonkontwana     |      93.41 |                44 |        4 |                91 |     116.92 | Maxence Barjaud     |             80 |
-|             80 | Evrard Dion Oulai        |      94.31 |                53 |        5 |                48 |      94.84 | Maka Polutele       |             54 |
-|             80 | Samuel Nollet            |      91.26 |                35 |        6 |                37 |      93.68 | Julien Kazubek      |             80 |
-|             31 | Clément Lanen            |      89.03 |                30 |        7 |                97 |     136.62 | Hugues Bastide      |             80 |
+|             80 | Abongile Nonkontwana     |      93.41 |                44 |        4 |                91 |     116.91 | Maxence Barjaud     |             80 |
+|             80 | Evrard Dion Oulai        |      94.31 |                52 |        5 |                47 |      94.83 | Maka Polutele       |             54 |
+|             80 | Samuel Nollet            |      91.26 |                34 |        6 |                37 |      93.68 | Julien Kazubek      |             80 |
+|             31 | Clément Lanen            |      89.03 |                30 |        7 |                97 |     136.61 | Hugues Bastide      |             80 |
 |             51 | Andy Timo                |      84.76 |                19 |        8 |                49 |      99.01 | Shaun Adendorff     |             54 |
-|             40 | Benjamin Prier           |     112.24 |                88 |        9 |                85 |     110.77 | Arthurs Barbier     |             40 |
-|             47 | Massimo Ortolan          |      81.29 |                13 |       10 |                82 |     108.57 | Shaun Reynolds      |             80 |
-|             80 | Nathan Farissier         |      83.51 |                16 |       11 |                47 |      94.93 | Lucas Blanc         |             57 |
-|             80 | Mathieu Guillomot        |      51.74 |                 1 |       12 |                23 |      86.06 | Rudy Derrieux       |             80 |
-|             51 | Tom Cusson               |     100.5  |                63 |       13 |                68 |     102.45 | Leonard Paris       |             80 |
-|             80 | Alex Preira              |     111.39 |                89 |       14 |                68 |     101.98 | Christian Ambadiang |             80 |
-|             80 | Juan Kotze               |      82.31 |                17 |       15 |                68 |     103.2  | Kylian Jaminet      |             61 |
+|             40 | Benjamin Prier           |     112.24 |                88 |        9 |                86 |     110.76 | Arthurs Barbier     |             40 |
+|             47 | Massimo Ortolan          |      81.29 |                13 |       10 |                82 |     108.56 | Shaun Reynolds      |             80 |
+|             80 | Nathan Farissier         |      83.5  |                16 |       11 |                47 |      94.93 | Lucas Blanc         |             57 |
+|             80 | Mathieu Guillomot        |      51.74 |                 1 |       12 |                23 |      86.05 | Rudy Derrieux       |             80 |
+|             51 | Tom Cusson               |     100.5  |                62 |       13 |                67 |     102.45 | Leonard Paris       |             80 |
+|             80 | Alex Preira              |     111.39 |                90 |       14 |                68 |     101.97 | Christian Ambadiang |             80 |
+|             80 | Juan Kotze               |      82.31 |                17 |       15 |                68 |     103.19 | Kylian Jaminet      |             61 |
 |             49 | Andrew Chauveau          |      65.54 |                 4 |       16 |                85 |     107.48 | Aitor Kitutu        |             40 |
 |             49 | Pierre Trassoudaine      |     135.48 |                99 |       17 |                54 |      96.21 | Aselo Ikahehegi     |             40 |
-|             43 | Fernandez Correa         |      89.53 |                28 |       18 |                61 |      99.29 | Yoan Cottin         |             40 |
+|             43 | Fernandez Correa         |      89.53 |                27 |       18 |                61 |      99.28 | Yoan Cottin         |             40 |
 |             40 | Samuel Boissinot         |      81.95 |                21 |       19 |               nan |      92.59 | Lasha Jaiani        |             26 |
-|             33 | Tom Deleuze              |      87.57 |                24 |       20 |                18 |      86.25 | Steven David        |             26 |
+|             33 | Tom Deleuze              |      87.57 |                24 |       20 |                19 |      86.24 | Steven David        |             26 |
 |             29 | Tony Tissot              |      92.17 |                40 |       21 |                53 |      97.92 | Yohan Le Bourhis    |             23 |
-|             29 | Thomas Rozière           |      89.38 |                32 |       22 |                40 |      92.27 | Thomas Zenon        |             19 |
+|             29 | Thomas Rozière           |      89.38 |                32 |       22 |                40 |      92.26 | Thomas Zenon        |             19 |
 |             74 | Guiterembi Vickos        |      88.17 |                23 |       23 |                42 |      93.29 | Quentin Beaudaux    |             19 |
 

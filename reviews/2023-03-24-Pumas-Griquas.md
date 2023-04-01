@@ -28,38 +28,38 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Pumas by 5.2
+## Prediction with Player Minutes: Pumas by 4.8
 
 
-Pumas by 1.2 on a neutral field
+Pumas by 0.8 on a neutral field
 
 There were 4 large changes in win probability in this match
-## Prediction without Player Minutes: Pumas by 18.7
+## Prediction without Player Minutes: Pumas by 18.3
 
 
-Pumas by 14.7 on a neutral pitch
+Pumas by 14.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                    |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------------|---------------:|
-|             80 | Kudzwai Dube               |      95.69 |                52 |        1 |                27 |      89.13 | Corne Fourie                   |             80 |
-|             80 | Gustav Du Rand             |     100.6  |                69 |        2 |                81 |     105.4  | Eduan Swart                    |             80 |
-|             40 | Cebolenkosi Dlamini        |      92.87 |               nan |        3 |                72 |     101.78 | Ignatius (IG) Michael Prinsloo |             40 |
-|             80 | Derrick Pretorius          |      74.48 |                 7 |        4 |                69 |     102.34 | Deon Slabbert                  |             68 |
-|             80 | Albert Liebenberg          |      74.52 |                 8 |        5 |                97 |     129.44 | Shane Monro Kirkwood           |             80 |
-|             80 | Stephan Smit               |      89.93 |                33 |        6 |                83 |     110.65 | Andre Fouché                   |             80 |
-|             80 | Hanru Sirgel               |     109.01 |                74 |        7 |                35 |      90.63 | Francois Kleinhans             |             80 |
-|             80 | Carl Els                   |      95.16 |                45 |        8 |                39 |      93.16 | Kwanda Dimaza                  |             65 |
-|             80 | Johan Mulder               |      91.46 |                37 |        9 |                19 |      85.03 | Giovanne Snyman                |             80 |
-|             80 | Lubabalo Dobela            |      88.91 |                27 |       10 |                80 |     108.83 | Tinus de Beer                  |             80 |
-|             80 | Luther Obi                 |      88.91 |                29 |       11 |                22 |      86.64 | Lundi Msenge                   |             80 |
-|             80 | Zander du Plessis          |      92.12 |                39 |       12 |                75 |     106.07 | Ali Mgijima                    |              9 |
-|             80 | Jay Cee Nel                |     117.29 |                90 |       13 |                35 |      90.9  | Diego Appollis                 |             80 |
-|             80 | Rosco Shane Specman        |      88.91 |                29 |       14 |                93 |     123.81 | Etienne Taljaard               |             49 |
-|             51 | Malcolm Jaer               |      96.94 |                52 |       15 |                37 |      90.63 | Devon Frank Williams           |             80 |
-|             29 | George Alexander Whitehead |      95.39 |               nan |       16 |                20 |      86.06 | Brandon Terry Thomson          |             71 |
+|             80 | Kudzwai Dube               |      95.77 |                52 |        1 |                26 |      88.98 | Corne Fourie                   |             80 |
+|             80 | Gustav Du Rand             |     100.68 |                69 |        2 |                81 |     105.25 | Eduan Swart                    |             80 |
+|             40 | Cebolenkosi Dlamini        |      92.94 |               nan |        3 |                73 |     101.78 | Ignatius (IG) Michael Prinsloo |             40 |
+|             80 | Derrick Pretorius          |      74.66 |                 8 |        4 |                69 |     102.16 | Deon Slabbert                  |             68 |
+|             80 | Albert Liebenberg          |      74.68 |                 8 |        5 |                97 |     129.27 | Shane Monro Kirkwood           |             80 |
+|             80 | Stephan Smit               |      90.07 |                34 |        6 |                83 |     110.47 | Andre Fouché                   |             80 |
+|             80 | Hanru Sirgel               |     109.07 |                74 |        7 |                35 |      90.45 | Francois Kleinhans             |             80 |
+|             80 | Carl Els                   |      95.27 |                45 |        8 |                38 |      93    | Kwanda Dimaza                  |             65 |
+|             80 | Johan Mulder               |      91.57 |                37 |        9 |                19 |      84.88 | Giovanne Snyman                |             80 |
+|             80 | Lubabalo Dobela            |      89.05 |                28 |       10 |                80 |     108.73 | Tinus de Beer                  |             80 |
+|             80 | Luther Obi                 |      89.05 |                29 |       11 |                22 |      86.56 | Lundi Msenge                   |             80 |
+|             80 | Zander du Plessis          |      92.23 |                39 |       12 |                75 |     105.89 | Ali Mgijima                    |              9 |
+|             80 | Jay Cee Nel                |     117.42 |                90 |       13 |                34 |      90.72 | Diego Appollis                 |             80 |
+|             80 | Rosco Shane Specman        |      89.05 |                29 |       14 |                93 |     123.81 | Etienne Taljaard               |             49 |
+|             51 | Malcolm Jaer               |      97.01 |                52 |       15 |                37 |      90.45 | Devon Frank Williams           |             80 |
+|             29 | George Alexander Whitehead |      95.42 |               nan |       16 |                20 |      85.97 | Brandon Terry Thomson          |             71 |
 |            nan | nan                        |     nan    |               nan |       17 |               nan |      97.9  | Raegan Oranje                  |              9 |
-|             40 | Junior Banda               |      92.87 |                41 |       18 |               nan |      95.79 | Ruwald Van der Merwe           |             15 |
-|            nan | nan                        |     nan    |               nan |       19 |                48 |      95.66 | Malembe Mpofu                  |             12 |
+|             40 | Junior Banda               |      92.94 |                41 |       18 |               nan |      95.77 | Ruwald Van der Merwe           |             15 |
+|            nan | nan                        |     nan    |               nan |       19 |                47 |      95.65 | Malembe Mpofu                  |             12 |
 

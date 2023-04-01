@@ -46,22 +46,22 @@ New England Free Jacks by 27.7 on a neutral pitch
 |             67 | Nicolas Revol       |     103.2  |                76 |        1 |                63 |     100.36 | Foster Dewitt      |             48 |
 |             69 | Dewald Kotze        |      76.98 |                 7 |        2 |               nan |      96.23 | Kianu Kereru-Symes |             48 |
 |             61 | Juan Pablo Zeiss    |      88.73 |                26 |        3 |               nan |     100.77 | Joel Hintz         |             48 |
-|             80 | Sam Golla           |      87.47 |                25 |        4 |                90 |     116.75 | Semisi Paea        |             57 |
-|             80 | Lucas Bur           |      91.81 |                38 |        5 |                91 |     118.45 | Conor Keys         |             80 |
-|             80 | Jeronimo Gomez Vara |      83.62 |                15 |        6 |                79 |     111.06 | Mitchell Jacobson  |             80 |
+|             80 | Sam Golla           |      87.47 |                24 |        4 |                90 |     116.75 | Semisi Paea        |             57 |
+|             80 | Lucas Bur           |      91.81 |                38 |        5 |                92 |     118.45 | Conor Keys         |             80 |
+|             80 | Jeronimo Gomez Vara |      83.62 |                15 |        6 |                78 |     111.06 | Mitchell Jacobson  |             80 |
 |             80 | Conrado Roura       |      27.5  |                 0 |        7 |                 0 |      31.34 | Joe Johnston       |             70 |
 |             77 | Jan Adriaan Booysen |      85.37 |                20 |        8 |                97 |     130.59 | Wian Conradie      |             80 |
 |             80 | Nazareno Valentini  |      91.17 |                36 |        9 |               nan |      97.6  | Kieran McClea      |             57 |
 |             80 | Martin Elias        |     133.39 |                96 |       10 |                94 |     128.47 | Jayson Potroz      |             80 |
 |             80 | James Vaifale       |     108.08 |                80 |       11 |                96 |     130.59 | Paul Balekana      |             80 |
 |             80 | Alejandro Torres    |      63    |                 2 |       12 |                 5 |      69.13 | Wayne van der Bank |             80 |
-|             80 | Tomas Malanos       |     108.71 |                80 |       13 |                86 |     113.65 | Ben Lesage         |             80 |
-|             80 | Lui Sitama          |      94.04 |                59 |       14 |                87 |     114.45 | Taniela Filimone   |             57 |
+|             80 | Tomas Malanos       |     108.71 |                79 |       13 |                86 |     113.65 | Ben Lesage         |             80 |
+|             80 | Lui Sitama          |      94.04 |                58 |       14 |                87 |     114.45 | Taniela Filimone   |             57 |
 |             80 | Marcos Moroni       |      88.72 |                31 |       15 |                86 |     112.8  | Reece MacDonald    |             73 |
 |             13 | Liam Murray         |      44.84 |                 0 |       16 |                 9 |      79.1  | Kyle Ciquera       |             32 |
 |             11 | Connor Robinson     |      93.78 |               nan |       17 |                88 |     111.63 | Andrew Quattrin    |             32 |
 |             19 | Kyle Steeves        |      94.2  |               nan |       18 |                94 |     118.92 | Cole Keith         |             32 |
-|              3 | Cameron Nelson      |      95    |               nan |       19 |                80 |     109.96 | Sam Fischli        |             23 |
+|              3 | Cameron Nelson      |      95    |               nan |       19 |                79 |     109.96 | Sam Fischli        |             23 |
 |            nan | nan                 |     nan    |               nan |       20 |                 0 |      28.87 | Cam Davidowicz     |             10 |
 |            nan | nan                 |     nan    |               nan |       21 |                 0 |      15.54 | Holden Yungert     |             23 |
 |            nan | nan                 |     nan    |               nan |       22 |                 8 |      76.64 | Zach Bastres       |             23 |

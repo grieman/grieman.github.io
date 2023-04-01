@@ -33,7 +33,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 Beziers by 4.1 on a neutral field
 
-There were 9 large changes in win probability in this match
+There were 10 large changes in win probability in this match
 ## Prediction without Player Minutes: Beziers by 6.4
 
 
@@ -43,27 +43,27 @@ Beziers by 2.4 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             64 | Sami Mavinga             |     102.22 |                60 |        1 |                76 |     103.08 | Giorgi Akhaladze      |             56 |
+|             64 | Sami Mavinga             |     102.22 |                61 |        1 |                76 |     103.07 | Giorgi Akhaladze      |             56 |
 |             50 | Raphaël Carbou           |     105.34 |                81 |        2 |               nan |     100.45 | Yvann Lalevee         |             56 |
-|             50 | Vakhtangi Akhobadze      |      99.34 |                65 |        3 |                73 |     101.98 | Jon Zabala Arrieta    |             67 |
-|             80 | Romain Manchia           |      66.94 |                 4 |        4 |                82 |     109.81 | Pierre Gayraud        |             67 |
-|             64 | Rynard Ligtoring Landman |     100.24 |                63 |        5 |                16 |      82.66 | John Madigan          |             80 |
-|             67 | Simon Meka               |      99.29 |               nan |        6 |                 6 |      75.18 | Jean-Baptiste Barrère |             62 |
-|             80 | Étienne Herjean          |     103.4  |                70 |        7 |                81 |     108.78 | Gillian Benoy         |             80 |
-|             50 | Pierre Reynaud           |     112.5  |                85 |        8 |                45 |      95.5  | Thomas Hoarau         |             67 |
-|             80 | Samuel Marques           |      96.83 |                54 |        9 |                56 |      97.37 | Jean Victor Goillot   |             52 |
-|             41 | Dorian Jones             |     101.16 |                64 |       10 |                61 |     100.32 | Romain Uruty          |             62 |
-|             80 | Clément Clavières        |      96.38 |                51 |       11 |                27 |      88.33 | Nicolas Plazy         |             80 |
-|             80 | Jordan Puletua           |     106.37 |                75 |       12 |                92 |     120    | Paul Recor            |             80 |
-|             41 | Joris Dupont             |      98.23 |                56 |       13 |                99 |     140.91 | Maxime Espeut         |             80 |
-|             80 | Léo Darrelatour          |     107.7  |                80 |       14 |                59 |      98.89 | Watisoni Votu         |             80 |
-|             80 | Baptiste Mouchous        |      80.8  |                15 |       15 |                34 |      89.68 | Charly Malié          |             80 |
-|             39 | Pierre Aguillon          |      96.94 |                45 |       16 |                19 |      85.76 | Mitchell Short        |             28 |
-|             39 | Damien Añon              |      88.73 |                23 |       17 |                15 |      82.96 | Marco Pinto Ferrer    |             24 |
-|             30 | Luka Petriashvili        |      96.1  |                46 |       18 |                16 |      84.54 | Francisco Fernandes   |             24 |
+|             50 | Vakhtangi Akhobadze      |      99.33 |                65 |        3 |                73 |     101.97 | Jon Zabala Arrieta    |             67 |
+|             80 | Romain Manchia           |      66.94 |                 4 |        4 |                83 |     109.8  | Pierre Gayraud        |             67 |
+|             64 | Rynard Ligtoring Landman |     100.24 |                63 |        5 |                16 |      82.64 | John Madigan          |             80 |
+|             67 | Simon Meka               |      99.29 |               nan |        6 |                 6 |      75.14 | Jean-Baptiste Barrère |             62 |
+|             80 | Étienne Herjean          |     103.4  |                70 |        7 |                80 |     108.78 | Gillian Benoy         |             80 |
+|             50 | Pierre Reynaud           |     112.5  |                86 |        8 |                45 |      95.46 | Thomas Hoarau         |             67 |
+|             80 | Samuel Marques           |      96.81 |                53 |        9 |                55 |      97.36 | Jean Victor Goillot   |             52 |
+|             41 | Dorian Jones             |     101.16 |                65 |       10 |                62 |     100.3  | Romain Uruty          |             62 |
+|             80 | Clément Clavières        |      96.37 |                51 |       11 |                27 |      88.29 | Nicolas Plazy         |             80 |
+|             80 | Jordan Puletua           |     106.37 |                76 |       12 |                92 |     119.99 | Paul Recor            |             80 |
+|             41 | Joris Dupont             |      98.22 |                56 |       13 |                99 |     140.9  | Maxime Espeut         |             80 |
+|             80 | Léo Darrelatour          |     107.7  |                80 |       14 |                59 |      98.85 | Watisoni Votu         |             80 |
+|             80 | Baptiste Mouchous        |      80.8  |                15 |       15 |                34 |      89.67 | Charly Malié          |             80 |
+|             39 | Pierre Aguillon          |      96.94 |                45 |       16 |                19 |      85.74 | Mitchell Short        |             28 |
+|             39 | Damien Añon              |      88.73 |                22 |       17 |                15 |      82.96 | Marco Pinto Ferrer    |             24 |
+|             30 | Luka Petriashvili        |      96.1  |                46 |       18 |                17 |      85.35 | Francisco Fernandes   |             24 |
 |             30 | Soso Bekoshvili          |      96.02 |                38 |       19 |                51 |      96.31 | William van Bost      |             18 |
-|             30 | Aaron Carroll            |     101.37 |                66 |       20 |                32 |      90.33 | Victor Dreuille       |             18 |
-|             16 | Jules Martinez           |      67.2  |                 4 |       21 |               nan |      93.22 | John-Hubert Meyer     |             13 |
-|             16 | George Merrick           |      93.5  |                36 |       22 |                11 |      80.77 | Éloi Massot           |             13 |
-|             13 | Connor Sa                |      84.11 |                18 |       23 |                11 |      78.91 | Maxence Lemardelet    |             13 |
+|             30 | Aaron Carroll            |     101.37 |                66 |       20 |                32 |      90.31 | Victor Dreuille       |             18 |
+|             16 | Jules Martinez           |      67.2  |                 4 |       21 |               nan |      93.21 | John-Hubert Meyer     |             13 |
+|             16 | George Merrick           |      93.5  |                36 |       22 |                11 |      80.75 | Éloi Massot           |             13 |
+|             13 | Connor Sa                |      84.29 |                18 |       23 |                11 |      78.9  | Maxence Lemardelet    |             13 |
 
