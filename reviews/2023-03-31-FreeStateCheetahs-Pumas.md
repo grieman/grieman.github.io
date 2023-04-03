@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Pumas by 18.7 on a neutral field
 
 There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Pumas by 14.9
+## Prediction without Player Minutes: Pumas by 15.0
 
 
-Pumas by 18.9 on a neutral pitch
+Pumas by 19.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                    |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:-------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             66 | Corne Fourie                   |      94.23 |                46 |        1 |                57 |      97.13 | Wayrin Losper           |             65 |
-|             39 | Eduan Swart                    |     110.5  |                87 |        2 |                41 |      93.91 | Janus Venter            |             65 |
-|             56 | Ignatius (IG) Michael Prinsloo |     104.4  |                79 |        3 |               nan |      95.62 | Laurence Herbert Victor |             61 |
-|             80 | Deon Slabbert                  |     106.62 |                77 |        4 |                31 |      90.11 | Ruan Janse van Rensburg |             43 |
-|             66 | Shane Monro Kirkwood           |     134.52 |                98 |        5 |                 9 |      76.09 | Jean Droste             |             80 |
-|             66 | Andre Fouché                   |     115.71 |                89 |        6 |               nan |      95    | Roelof Andries Smit     |             76 |
-|             80 | Francois Kleinhans             |      95.7  |                49 |        7 |               nan |      90.46 | George Cronje           |             72 |
-|             80 | Kwanda Dimaza                  |      97.26 |                49 |        8 |                61 |     100.11 | Anidisa Ntsila          |             80 |
+|             66 | Corne Fourie                   |      94.27 |                46 |        1 |                57 |      97.13 | Wayrin Losper           |             65 |
+|             39 | Eduan Swart                    |     110.55 |                87 |        2 |                41 |      93.91 | Janus Venter            |             65 |
+|             56 | Ignatius (IG) Michael Prinsloo |     104.41 |                79 |        3 |               nan |      95.64 | Laurence Herbert Victor |             61 |
+|             80 | Deon Slabbert                  |     106.66 |                77 |        4 |                32 |      90.11 | Ruan Janse van Rensburg |             43 |
+|             66 | Shane Monro Kirkwood           |     134.57 |                98 |        5 |                 8 |      76.09 | Jean Droste             |             80 |
+|             66 | Andre Fouché                   |     115.76 |                89 |        6 |               nan |      95    | Roelof Andries Smit     |             76 |
+|             80 | Francois Kleinhans             |      95.74 |                49 |        7 |               nan |      90.46 | George Cronje           |             72 |
+|             80 | Kwanda Dimaza                  |      97.3  |                50 |        8 |                61 |     100.12 | Anidisa Ntsila          |             80 |
 |             61 | Chriswill September            |     120.39 |                95 |        9 |               nan |      94.7  | Branden de Kock         |             43 |
-|             80 | Tinus de Beer                  |     113.98 |                85 |       10 |                27 |      88.72 | John Lourens            |             80 |
-|             61 | Lundi Msenge                   |      91.81 |                38 |       11 |               nan |      84.16 | Xolisa Guma             |             80 |
-|             80 | Wian van Niekerk               |      95    |               nan |       12 |                15 |      82.48 | Evardi Boshoff          |             80 |
-|             25 | Diego Appollis                 |      95.97 |                48 |       13 |                63 |      99.88 | Marcell Muller          |             72 |
-|             80 | Etienne Taljaard               |     127.02 |                95 |       14 |               nan |      95    | Sibabalwe Xamlashe      |             80 |
-|             80 | Devon Frank Williams           |      95.7  |                49 |       15 |                60 |      99.8  | Andell Loubser          |             80 |
-|             41 | Llewellyn Classen              |      99.03 |               nan |       16 |               nan |      95    | Paul Schoeman           |             37 |
-|             24 | Njabula Juice Gumede           |      91.01 |                33 |       17 |               nan |      95    | Zenedine Booysen        |             37 |
-|             19 | Giovanne Snyman                |      90.13 |                32 |       18 |               nan |      95    | Boeta Loubser           |             19 |
-|             19 | Brandon Terry Thomson          |      90.63 |                20 |       19 |               nan |      95    | Kevin Bruce Stevens     |             15 |
+|             80 | Tinus de Beer                  |     114.01 |                85 |       10 |                27 |      88.72 | John Lourens            |             80 |
+|             61 | Lundi Msenge                   |      91.84 |                39 |       11 |               nan |      84.16 | Xolisa Guma             |             80 |
+|             80 | Wian van Niekerk               |      95    |               nan |       12 |                15 |      82.56 | Evardi Boshoff          |             80 |
+|             25 | Diego Appollis                 |      96.01 |                49 |       13 |                63 |      99.88 | Marcell Muller          |             72 |
+|             80 | Etienne Taljaard               |     127.03 |                95 |       14 |               nan |      95    | Sibabalwe Xamlashe      |             80 |
+|             80 | Devon Frank Williams           |      95.74 |                49 |       15 |                59 |      99.58 | Andell Loubser          |             80 |
+|             41 | Llewellyn Classen              |      99.04 |               nan |       16 |               nan |      95    | Paul Schoeman           |             37 |
+|             24 | Njabula Juice Gumede           |      91.03 |                33 |       17 |               nan |      95    | Zenedine Booysen        |             37 |
+|             19 | Giovanne Snyman                |      90.16 |                32 |       18 |               nan |      95    | Boeta Loubser           |             19 |
+|             19 | Brandon Terry Thomson          |      90.67 |                21 |       19 |               nan |      95    | Kevin Bruce Stevens     |             15 |
 |             14 | Etienne Janeke                 |      99.07 |               nan |       20 |               nan |      94.78 | Jacques Goosen          |             15 |
-|             14 | Ruwald Van der Merwe           |      96.75 |               nan |       21 |               nan |      90.68 | Dian Maritz Koen        |              8 |
-|             14 | Malembe Mpofu                  |      96.44 |                48 |       22 |               nan |      95    | Thoubaan Gabriels       |              8 |
+|             14 | Ruwald Van der Merwe           |      96.76 |               nan |       21 |               nan |      90.68 | Dian Maritz Koen        |              8 |
+|             14 | Malembe Mpofu                  |      96.44 |                47 |       22 |               nan |      95    | Thoubaan Gabriels       |              8 |
 |             55 | Stefan Coetzee                 |      95    |               nan |       23 |               nan |      95    | Johnnre Stopforth       |              4 |
 

@@ -59,7 +59,7 @@ NTT Docomo Red Hurricanes Osaka by 8.0 on a neutral pitch
 |             80 | Tom English            |     101.09 |                63 |       14 |                85 |     112.96 | Masaki Kobayashi     |             67 |
 |             80 | Koshi Emoto            |     117.16 |                89 |       15 |                 8 |      72.76 | Taichi Yoshizawa     |             80 |
 |             40 | Yoshitaka Motomura     |      74.07 |                 6 |       16 |                 6 |      73.87 | Tatsunari Fujita     |             40 |
-|             30 | Mitsuo Nakao           |      59.89 |                 2 |       17 |                34 |      91.17 | Munekata Sashida     |             30 |
+|             30 | Mitsuo Nakao           |      59.89 |                 2 |       17 |                35 |      91.17 | Munekata Sashida     |             30 |
 |             30 | Kentaro Sugimori       |      51.45 |                 1 |       18 |                58 |      98.44 | Kenta Komura         |             30 |
 |             26 | Shoya Koyama           |      75.15 |                 5 |       19 |               nan |      95    | Takai Shota          |             30 |
 |             26 | Kota Hojo              |     101.59 |                63 |       20 |                98 |     133.63 | Benjamin Saunders    |             25 |

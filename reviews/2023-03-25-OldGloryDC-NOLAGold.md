@@ -51,7 +51,7 @@ NOLA Gold by 3.2 on a neutral pitch
 |             62 | Malcolm May                              |      78.54 |                10 |        6 |                78 |     107.6  | Lautaro Ezequiel Bavaro  |             80 |
 |             80 | Moni Tonga'uiha                          |      41.06 |                 0 |        7 |                46 |      94.23 | Brady Daniel             |             55 |
 |             80 | Tom Florence                             |     100.14 |                61 |        8 |                73 |     105.26 | Jamason Fa'anana Schultz |             80 |
-|             80 | Luke Campbell                            |     109.22 |                83 |        9 |                14 |      81.88 | Danny Joseph Tusitala    |             78 |
+|             80 | Luke Campbell                            |     109.22 |                84 |        9 |                14 |      81.88 | Danny Joseph Tusitala    |             78 |
 |             80 | Rodney Iona                              |      99.48 |                60 |       10 |                44 |      94.4  | Joaquin Diaz Bonilla     |             80 |
 |             62 | Cael Hodgson                             |      63.74 |                 3 |       11 |                 7 |      73.45 | Owen Sheehy              |             65 |
 |             80 | Jordan Jackson-Hope                      |      99.58 |                60 |       12 |                95 |     126.14 | Fermin Martinez          |             80 |
@@ -61,9 +61,9 @@ NOLA Gold by 3.2 on a neutral pitch
 |             28 | Jarred Adams                             |      98.18 |                61 |       16 |                 1 |      60.87 | Quentin Newcomer         |              8 |
 |             18 | Doc Irey                                 |      89.49 |                24 |       17 |               nan |      95.31 | Facundo Gattas           |             35 |
 |              8 | Will Waguespack                          |      88.88 |               nan |       18 |                55 |      98.22 | Kyle Stewart             |             31 |
-|             18 | Maciu Koroi                              |     104.12 |                66 |       19 |                40 |      93.69 | Fintan Coleman           |              2 |
+|             18 | Maciu Koroi                              |     104.12 |                67 |       19 |                39 |      93.69 | Fintan Coleman           |              2 |
 |             18 | Ross Depperschmidt                       |      46.85 |                 0 |       20 |                68 |     103.28 | Alejandro Daireaux       |             25 |
 |            nan | nan                                      |     nan    |               nan |       21 |               nan |      90.84 | John LeFevre             |              2 |
-|            nan | nan                                      |     nan    |               nan |       22 |                38 |      93.54 | Thretton Palamo          |             15 |
+|            nan | nan                                      |     nan    |               nan |       22 |                39 |      93.54 | Thretton Palamo          |             15 |
 |            nan | nan                                      |     nan    |               nan |       23 |               nan |      93.99 | Gradyn Bowd              |              8 |
 

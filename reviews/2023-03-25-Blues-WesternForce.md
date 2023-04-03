@@ -46,7 +46,7 @@ Blues by 22.7 on a neutral pitch
 |             50 | Angus Wagner          |      90.39 |               nan |        1 |                62 |      98.69 | Josh Fusitua                  |             49 |
 |             50 | Folau Fainga'a        |     130.05 |                98 |        2 |                92 |     115.04 | Kurt Eklund                   |             50 |
 |             59 | Santiago Medrano      |     118.58 |                94 |        3 |                89 |     111.3  | Ofa Tu'ungafasi               |             49 |
-|             51 | Felix Kalapu          |      48.69 |                 1 |        4 |                84 |     111.09 | James Tucker                  |             53 |
+|             51 | Felix Kalapu          |      48.69 |                 1 |        4 |                85 |     111.09 | James Tucker                  |             53 |
 |             80 | Jeremy Williams       |      76.47 |                 9 |        5 |                77 |     106.58 | Cameron Suafoa                |             80 |
 |             41 | Michael Wells         |      91.24 |                37 |        6 |                32 |      89.67 | Anton Segner                  |             80 |
 |             80 | Tim Anstee            |      55.13 |                 0 |        7 |                33 |      89.83 | Adrian Choat                  |             40 |

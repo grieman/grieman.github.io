@@ -43,10 +43,10 @@ New England Free Jacks by 27.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             67 | Nicolas Revol       |     103.2  |                76 |        1 |                63 |     100.36 | Foster Dewitt      |             48 |
+|             67 | Nicolas Revol       |     103.2  |                76 |        1 |                62 |     100.36 | Foster Dewitt      |             48 |
 |             69 | Dewald Kotze        |      76.98 |                 7 |        2 |               nan |      96.23 | Kianu Kereru-Symes |             48 |
 |             61 | Juan Pablo Zeiss    |      88.73 |                26 |        3 |               nan |     100.77 | Joel Hintz         |             48 |
-|             80 | Sam Golla           |      87.47 |                24 |        4 |                90 |     116.75 | Semisi Paea        |             57 |
+|             80 | Sam Golla           |      87.47 |                24 |        4 |                91 |     116.75 | Semisi Paea        |             57 |
 |             80 | Lucas Bur           |      91.81 |                38 |        5 |                92 |     118.45 | Conor Keys         |             80 |
 |             80 | Jeronimo Gomez Vara |      83.62 |                15 |        6 |                78 |     111.06 | Mitchell Jacobson  |             80 |
 |             80 | Conrado Roura       |      27.5  |                 0 |        7 |                 0 |      31.34 | Joe Johnston       |             70 |
@@ -55,7 +55,7 @@ New England Free Jacks by 27.7 on a neutral pitch
 |             80 | Martin Elias        |     133.39 |                96 |       10 |                94 |     128.47 | Jayson Potroz      |             80 |
 |             80 | James Vaifale       |     108.08 |                80 |       11 |                96 |     130.59 | Paul Balekana      |             80 |
 |             80 | Alejandro Torres    |      63    |                 2 |       12 |                 5 |      69.13 | Wayne van der Bank |             80 |
-|             80 | Tomas Malanos       |     108.71 |                79 |       13 |                86 |     113.65 | Ben Lesage         |             80 |
+|             80 | Tomas Malanos       |     108.71 |                80 |       13 |                86 |     113.65 | Ben Lesage         |             80 |
 |             80 | Lui Sitama          |      94.04 |                58 |       14 |                87 |     114.45 | Taniela Filimone   |             57 |
 |             80 | Marcos Moroni       |      88.72 |                31 |       15 |                86 |     112.8  | Reece MacDonald    |             73 |
 |             13 | Liam Murray         |      44.84 |                 0 |       16 |                 9 |      79.1  | Kyle Ciquera       |             32 |

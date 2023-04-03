@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bordeaux Begles by 16.9
+## Prediction with Player Minutes: Bordeaux Begles by 14.1
 
 
-Bordeaux Begles by 12.9 on a neutral field
+Bordeaux Begles by 10.1 on a neutral field
 
-There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: Bordeaux Begles by 16.3
+There were 7 large changes in win probability in this match
+## Prediction without Player Minutes: Bordeaux Begles by 13.8
 
 
-Bordeaux Begles by 12.3 on a neutral pitch
+Bordeaux Begles by 9.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             45 | Hayden Thompson-Stringer  |      89.78 |                28 |        1 |                71 |     104.96 | Lesko Kaulashvili    |             50 |
-|             37 | Pierre Bourgarit          |      92.85 |                42 |        2 |                86 |     109.9  | Maxime Lamothe       |             50 |
-|             52 | Uini Atonio               |     123.84 |                97 |        3 |                23 |      87.91 | Sipili Falatea       |             46 |
-|             61 | Thomas Lavault            |      93.14 |                42 |        4 |                33 |      90.53 | Cyril Cazeaux        |             54 |
-|             80 | William Skelton           |      86.63 |                23 |        5 |                83 |     110.11 | Jan Andre Marais     |             80 |
-|             61 | Ultan Dillane             |      93.23 |                43 |        6 |                82 |     110.33 | Mahamadou Diaby      |             80 |
-|             80 | Levani Botia              |      96.69 |                52 |        7 |                70 |     103.35 | Antoine Miquel       |             54 |
-|             46 | Yoan Tanga Mangene        |      89.85 |                30 |        8 |                82 |     109.65 | Tom Willis           |             80 |
-|             66 | Tawera Kerr-Barlow        |     102.2  |                70 |        9 |                56 |      97.71 | Maxime Lucu          |             70 |
-|             64 | UJ Seuteni                |      93.65 |                43 |       10 |                80 |     108.77 | Zack Holmes          |             60 |
-|             80 | Pierre Boudehent          |      86.4  |                22 |       11 |                85 |     112.05 | Santiago Cordero     |             80 |
-|             80 | Jules Favre               |      93.51 |                43 |       12 |                76 |     106.61 | Tani Vili            |             46 |
-|             80 | Raymond Rhule             |     107.87 |                79 |       13 |                83 |     111.46 | Nicolas Depoortere   |             80 |
-|             80 | Teddy Thomas              |     103.5  |                72 |       14 |                82 |     109.44 | Louis Bielle Biarrey |             80 |
-|             80 | Brice Dulin               |      98.24 |                54 |       15 |                87 |     114.09 | Romain Buros         |             80 |
-|             43 | Quentin Lespiaucq-Brettes |      94.25 |                51 |       16 |                78 |     104.04 | Jefferson Poirot     |             30 |
-|             34 | Gregory Alldritt          |     113.02 |                86 |       17 |                30 |      91.88 | Clément Maynadier    |             30 |
-|             35 | Joel Sclavi               |      87.45 |                27 |       18 |                74 |     104.92 | Thomas Jolmes        |             26 |
-|             28 | Georges-Henri Colombe     |      90.12 |                29 |       19 |                52 |      98.9  | Vadim Cobilas        |             34 |
-|             19 | Romain Sazy               |     102.79 |                71 |       20 |                58 |      99.61 | Yoram Moefana        |             34 |
-|             19 | Matthias Haddad           |      95    |               nan |       21 |               nan |      96.17 | Pierre Bochaton      |             26 |
-|             16 | Hugo Reus                 |      95    |               nan |       22 |                29 |      90.61 | Mateo Garcia         |             20 |
-|             14 | Thomas Berjon             |      92.92 |                42 |       23 |                69 |     102.02 | Jules Gimbert        |             10 |
+|             45 | Hayden Thompson-Stringer  |      89.28 |                27 |        1 |                70 |     104.63 | Lesko Kaulashvili    |             50 |
+|             37 | Pierre Bourgarit          |      90.9  |                34 |        2 |                86 |     109.61 | Maxime Lamothe       |             50 |
+|             52 | Uini Atonio               |     123.9  |                97 |        3 |                23 |      87.89 | Sipili Falatea       |             46 |
+|             61 | Thomas Lavault            |      90.95 |                35 |        4 |                33 |      90.66 | Cyril Cazeaux        |             54 |
+|             80 | William Skelton           |      86.51 |                23 |        5 |                83 |     109.76 | Jan Andre Marais     |             80 |
+|             61 | Ultan Dillane             |      92.29 |                40 |        6 |                82 |     110.2  | Mahamadou Diaby      |             80 |
+|             80 | Levani Botia              |      98.51 |                58 |        7 |                69 |     102.71 | Antoine Miquel       |             54 |
+|             46 | Yoan Tanga Mangene        |      94    |                40 |        8 |                82 |     109.49 | Tom Willis           |             80 |
+|             66 | Tawera Kerr-Barlow        |     107.62 |                81 |        9 |                56 |      97.91 | Maxime Lucu          |             70 |
+|             64 | UJ Seuteni                |      99.39 |                60 |       10 |                79 |     108.32 | Zack Holmes          |             60 |
+|             80 | Pierre Boudehent          |      94.46 |                46 |       11 |                84 |     111.73 | Santiago Cordero     |             80 |
+|             80 | Jules Favre               |      97.43 |                55 |       12 |                75 |     106.22 | Tani Vili            |             46 |
+|             80 | Raymond Rhule             |     105.43 |                75 |       13 |                83 |     111.21 | Nicolas Depoortere   |             80 |
+|             80 | Teddy Thomas              |     108.9  |                81 |       14 |                83 |     109.92 | Louis Bielle Biarrey |             80 |
+|             80 | Brice Dulin               |      93.96 |                45 |       15 |                87 |     113.73 | Romain Buros         |             80 |
+|             43 | Quentin Lespiaucq-Brettes |      98.67 |                67 |       16 |                78 |     103.97 | Jefferson Poirot     |             30 |
+|             34 | Gregory Alldritt          |     113.06 |                87 |       17 |                30 |      91.77 | Clément Maynadier    |             30 |
+|             35 | Joel Sclavi               |      91.79 |                46 |       18 |                74 |     104.51 | Thomas Jolmes        |             26 |
+|             28 | Georges-Henri Colombe     |      93.26 |                43 |       19 |                50 |      98.53 | Vadim Cobilas        |             34 |
+|             19 | Romain Sazy               |     105.64 |                77 |       20 |                60 |      99.78 | Yoram Moefana        |             34 |
+|             19 | Matthias Haddad           |      95    |               nan |       21 |               nan |      96.2  | Pierre Bochaton      |             26 |
+|             16 | Hugo Reus                 |      95    |               nan |       22 |                29 |      90.63 | Mateo Garcia         |             20 |
+|             14 | Thomas Berjon             |      90.34 |                33 |       23 |                68 |     101.51 | Jules Gimbert        |             10 |
 

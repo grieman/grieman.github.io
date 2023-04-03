@@ -47,14 +47,14 @@ Yokohama Canon Eagles by 32.0 on a neutral pitch
 |             53 | Atsushi Kashimoto     |     102.92 |                74 |        2 |                 5 |      79.08 | Shin Kawamura            |             67 |
 |             60 | Kota Mitake           |      79.25 |                10 |        3 |                92 |     117.69 | Rento Tsukayama          |             62 |
 |             80 | Isamu Matsuoka        |      86.62 |                23 |        4 |                83 |     109.91 | Cory Hill                |             62 |
-|             80 | Ben Toolis            |      59.76 |                 2 |        5 |                93 |     121.03 | Liaki Moli               |             80 |
+|             80 | Ben Toolis            |      59.76 |                 2 |        5 |                94 |     121.03 | Liaki Moli               |             80 |
 |             67 | Takahito Sugahara     |      74.23 |                 8 |        6 |                68 |     101.9  | Jacobus Johannes van Dyk |             80 |
 |             80 | Reiya Ueyama          |     103.96 |                73 |        7 |                56 |      97.78 | Naoto Shimada            |             80 |
 |             77 | Shohei Nonaka         |     106.35 |                76 |        8 |                87 |     113.24 | Sione Halasili           |             57 |
-|             62 | Tomoya Nakamura       |      90.6  |                34 |        9 |                18 |      87.04 | Kafazumi Yamasuga        |             67 |
+|             62 | Tomoya Nakamura       |      90.6  |                33 |        9 |                18 |      87.04 | Kafazumi Yamasuga        |             67 |
 |             80 | Jackson Garden-Bachop |      49.98 |                 1 |       10 |                90 |     120.88 | Yu Tamura                |             80 |
 |             60 | Vincent Sefo          |      90.71 |                35 |       11 |                14 |      82.11 | Masayoshi Takezawa       |             80 |
-|             53 | Patrick Stehlin       |     131.91 |                97 |       12 |                92 |     118.84 | Yusuke Kajimura          |             62 |
+|             53 | Patrick Stehlin       |     131.91 |                97 |       12 |                91 |     118.84 | Yusuke Kajimura          |             62 |
 |             80 | Koji Okamura          |      72.61 |                 6 |       13 |                92 |     120.33 | Jesse Andre Kriel        |             80 |
 |             80 | Joshua Nohra          |      84.65 |                19 |       14 |                91 |     119.28 | Inoke Burua              |             80 |
 |             80 | Yoshizumi Takeda      |      66.01 |                 4 |       15 |                85 |     114.04 | Sarel Petrus Marais      |             67 |

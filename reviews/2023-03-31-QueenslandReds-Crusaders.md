@@ -44,22 +44,22 @@ Crusaders by 7.5 on a neutral pitch
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
 |             55 | Joe Moody              |      88.71 |                26 |        1 |               nan |      94.6  | Peni Ravai            |             44 |
-|             55 | Codie Taylor           |     108.42 |                84 |        2 |                52 |      95.34 | Matt Faessler         |             51 |
+|             55 | Codie Taylor           |     108.42 |                84 |        2 |                51 |      95.34 | Matt Faessler         |             51 |
 |             55 | Tamaiti Williams       |      93.2  |                42 |        3 |                50 |      95.07 | Zane Nonggorr         |             51 |
-|             80 | Scott Barrett          |     123.01 |                94 |        4 |                41 |      92.7  | Ryan Smith            |             78 |
-|             72 | Dom Gardiner           |      97.35 |                56 |        5 |                48 |      95.02 | Seru Uru              |             62 |
+|             80 | Scott Barrett          |     123.01 |                94 |        4 |                40 |      92.7  | Ryan Smith            |             78 |
+|             72 | Dom Gardiner           |      97.35 |                55 |        5 |                48 |      95.02 | Seru Uru              |             62 |
 |             64 | Sione Havili           |     105.88 |                76 |        6 |                95 |     126.92 | Liam Wright           |             80 |
 |             80 | Tom Christie           |     109.43 |                82 |        7 |                82 |     109.69 | Fraser McReight       |             80 |
 |             80 | Christian Lio-Willie   |      85.35 |                15 |        8 |                76 |     105.99 | Harry Wilson          |             80 |
-|             44 | Noah Hotham            |      99.89 |                60 |        9 |                69 |     101.49 | Tate McDermott        |             66 |
+|             44 | Noah Hotham            |      99.89 |                59 |        9 |                69 |     101.49 | Tate McDermott        |             66 |
 |             80 | Richie Mo'unga         |     150.32 |                99 |       10 |                37 |      92.12 | James O'Connor        |             72 |
 |             80 | Leicester Fainga'anuku |      97.15 |                54 |       11 |                47 |      94.72 | Jordan Petaia         |             80 |
 |             75 | Dallas McLeod          |     109.04 |                80 |       12 |                51 |      94.67 | Isaac Henry           |             80 |
-|             80 | Braydon Ennor          |     115.5  |                88 |       13 |                41 |      92.75 | Josh Flook            |             80 |
+|             80 | Braydon Ennor          |     115.5  |                88 |       13 |                42 |      92.75 | Josh Flook            |             80 |
 |             56 | Pepesana Patafilo      |     101.08 |                65 |       14 |                52 |      96.74 | Suliasi Vunivalu      |             62 |
-|             80 | Fergus Burke           |      91.54 |                39 |       15 |                61 |     100.33 | Jock Campbell         |             80 |
+|             80 | Fergus Burke           |      91.54 |                39 |       15 |                62 |     100.33 | Jock Campbell         |             80 |
 |             25 | Brodie McAlister       |     108    |                84 |       16 |                89 |     115.39 | Richie Asiata         |             29 |
-|             25 | George Bower           |      81.66 |                11 |       17 |                78 |     104.06 | Dane Zander           |             36 |
+|             25 | George Bower           |      81.66 |                11 |       17 |                78 |     104.07 | Dane Zander           |             36 |
 |             25 | Seb Calder             |      97.64 |               nan |       18 |               nan |      93.9  | Phransis Sula- Siaosi |             29 |
 |              8 | Jamie Hannah           |      96.21 |               nan |       19 |               nan |      95    | Angus Blyth           |             18 |
 |             16 | Corey Kellow           |      97.04 |                58 |       20 |               nan |      95.93 | Jake Upfield          |              2 |

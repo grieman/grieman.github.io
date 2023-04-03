@@ -63,7 +63,7 @@ Shimizu Blue Sharks by 5.0 on a neutral pitch
 |             28 | Naoya Ishibashi       |      96.31 |               nan |       18 |                 8 |      80.28 | Ryota Saitou            |             40 |
 |             23 | James Mollentze       |      69.13 |                 5 |       19 |               nan |      94.02 | John Ben Kotze          |             40 |
 |             23 | Shoma Makinouchi      |      90.44 |                42 |       20 |                13 |      84.77 | Kaito Tamori            |             23 |
-|             19 | Keisuke Ishida        |      98.1  |                52 |       21 |                59 |     101.34 | Kenji Harada            |             19 |
+|             19 | Keisuke Ishida        |      98.1  |                51 |       21 |                59 |     101.34 | Kenji Harada            |             19 |
 |             10 | Hiroaki Saito         |      81.38 |                13 |       22 |                15 |      80.39 | Coenraad George van Wyk |             19 |
-|              1 | Talifolofola Tangipa  |     104.93 |                71 |       23 |                17 |      83.69 | Ryo Sato                |              9 |
+|              1 | Talifolofola Tangipa  |     104.93 |                72 |       23 |                17 |      83.69 | Ryo Sato                |              9 |
 

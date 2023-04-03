@@ -54,7 +54,7 @@ Yacare XV by 1.6 on a neutral pitch
 |             66 | Mateo Albanese            |     105.61 |                70 |        9 |                62 |      99.54 | Ignacio Inchauspe      |             80 |
 |             80 | Joaquin de la Vega Mendia |      43.51 |                 0 |       10 |                69 |     102.86 | Federico Cacciabúe     |             80 |
 |             75 | Tomas Passaro             |     120.42 |                92 |       11 |                 3 |      61.82 | Juan Daniel Gonzalez   |             72 |
-|             80 | Manuel Alfaro Torneiro    |      81.24 |                14 |       12 |                69 |     100.24 | Ramiro Amarilla        |             80 |
+|             80 | Manuel Alfaro Torneiro    |      81.24 |                14 |       12 |                70 |     100.24 | Ramiro Amarilla        |             80 |
 |             78 | Benjamin Elizalde         |      87.97 |                26 |       13 |                96 |     128.26 | Tomas Acosta Pimentel  |             47 |
 |             80 | Inaki Delguy              |     103.62 |                74 |       14 |                83 |     109.59 | Federico Gauna         |             80 |
 |             80 | Juan Ignacio Lando        |     113.04 |                86 |       15 |                63 |     101.38 | Tomas McCall           |             80 |
@@ -62,7 +62,7 @@ Yacare XV by 1.6 on a neutral pitch
 |             28 | Lorenzo Colidio           |      99.64 |                68 |       17 |                28 |      88.64 | Mariano Muntaner       |             38 |
 |             24 | Renzo Zanella             |      95    |               nan |       18 |                20 |      84.95 | Sebastian Urbieta      |             33 |
 |             14 | Rafael Iriarte            |      98.67 |                59 |       19 |                34 |      91.27 | Julian Martin          |             14 |
-|             10 | Eliseo Chiavassa          |     100.24 |                64 |       20 |                32 |      91.01 | Estefano Aranda        |             14 |
+|             10 | Eliseo Chiavassa          |     100.24 |                64 |       20 |                33 |      91.01 | Estefano Aranda        |             14 |
 |              3 | Valentin Minoyetti        |      94.34 |               nan |       21 |               nan |      92.81 | Arturo Lopez           |              8 |
 |              5 | Lucio Auad                |      95    |               nan |       22 |               nan |     104.89 | Carlos Plate           |             10 |
 |              2 | Joaquin Lamas             |      97.99 |                62 |       23 |               nan |     nan    | nan                    |            nan |

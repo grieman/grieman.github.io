@@ -43,22 +43,22 @@ Valence Romans Drome Rugby by 6.0 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             48 | Pierre Commenge             |     101.13 |                65 |        1 |                99 |     136.18 | Sami Zouhair           |             52 |
+|             48 | Pierre Commenge             |     101.13 |                64 |        1 |                99 |     136.18 | Sami Zouhair           |             52 |
 |             48 | Reinach Venter              |      89.43 |                30 |        2 |                87 |     110.5  | Dorian Marco Pena      |             48 |
 |             48 | Jean-Baptiste De Clercq     |      98.24 |                61 |        3 |                72 |     101.35 | John Henry Fincham     |             48 |
 |             62 | John Henry Heath Backhouse  |      96.26 |                52 |        4 |                94 |     121.2  | Darrell Dyer           |             80 |
-|             80 | Jacques Jacobus Engelbrecht |     101.52 |                67 |        5 |                74 |     104.4  | Florian Goumat         |             55 |
+|             80 | Jacques Jacobus Engelbrecht |     101.51 |                67 |        5 |                74 |     104.4  | Florian Goumat         |             55 |
 |             48 | Pierre Roussel              |     102    |                67 |        6 |                 1 |      57.49 | Axel Bruchet           |             80 |
 |             80 | Lucas Guillaume             |     116.84 |                90 |        7 |                23 |      91.33 | Matthew Gicquel        |             17 |
 |             80 | Sandrick Maciotta           |     114.77 |                87 |        8 |                69 |     103.19 | Ioane Iashagashvili    |             80 |
 |             62 | Gilen Queheille             |      88.43 |                27 |        9 |                10 |      78.68 | Tim Menzel             |             78 |
 |             62 | François Fontaine           |      97.38 |                53 |       10 |                86 |     115.94 | Joris Moura            |             78 |
-|             80 | Avenisi Vasuinubu           |      93.1  |                42 |       11 |                79 |     107.03 | Mason Emerson          |             80 |
+|             80 | Avenisi Vasuinubu           |      93.1  |                42 |       11 |                78 |     107.03 | Mason Emerson          |             80 |
 |             56 | Simon Andreu                |      92.8  |                41 |       12 |                63 |     100.73 | Akuila Joeli Tabualevu |             80 |
 |             80 | Wandile Gabada  Mjekevu     |      89.92 |                32 |       13 |                91 |     118.79 | Ben Neiceru            |             64 |
 |             80 | Charly Vicenzo Trussardi    |     104.04 |                73 |       14 |                78 |     106.6  | Adam Vargas            |             80 |
 |             80 | Téo Dospital                |     107.22 |                76 |       15 |                67 |     102.88 | Quentin Gobet          |             80 |
-|             32 | Dimitri Tchapnga            |      99.21 |                69 |       16 |                27 |      93.4  | Anthony Aléo           |             28 |
+|             32 | Dimitri Tchapnga            |      99.2  |                68 |       16 |                27 |      93.4  | Anthony Aléo           |             28 |
 |             32 | Arthur Castant              |     105.78 |                76 |       17 |                81 |     108.15 | Yanis Gimenez          |             32 |
 |             32 | Maxime Escur                |      79.67 |                11 |       18 |               nan |     103.17 | Kevin Goze             |             32 |
 |             18 | Mohsen Essid                |     103.88 |                73 |       19 |                62 |      99.67 | François Uys           |             25 |

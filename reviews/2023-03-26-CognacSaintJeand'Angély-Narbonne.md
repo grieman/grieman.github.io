@@ -46,7 +46,7 @@ Narbonne by 23.8 on a neutral pitch
 |             43 | Geoffrey Moise        |     101.15 |                71 |        1 |                45 |      94.08 | Kevin Tougne     |             80 |
 |             65 | Jordan Rochier        |      97.14 |                66 |        2 |                11 |      79.43 | Paul Sauzaret    |             80 |
 |             43 | Levi Tikoipau         |      96.09 |               nan |        3 |                36 |      91.3  | Maxime Gau       |             80 |
-|             43 | Valentin Sese         |      94.25 |                46 |        4 |                 0 |      46.71 | Utu Maninoa      |             75 |
+|             43 | Valentin Sese         |      94.26 |                45 |        4 |                 0 |      46.71 | Utu Maninoa      |             75 |
 |             80 | Mohamed Kbaier        |      94.33 |                58 |        5 |                 1 |      50.26 | Clément Praud    |             80 |
 |             80 | Arthur Christienne    |      90.87 |                44 |        6 |                25 |      87.82 | Matthieu Thomas  |             80 |
 |             43 | Bill Caffo            |      96.84 |                53 |        7 |                 1 |      60.2  | Lucas Gulizzi    |             41 |
@@ -55,12 +55,12 @@ Narbonne by 23.8 on a neutral pitch
 |             80 | Tom Chauvet           |      85.3  |                19 |       10 |                32 |      90.12 | Serafin Bordoli  |             80 |
 |             80 | Pierre-Hugo Ducom     |      95.76 |                49 |       11 |                 7 |      73.57 | Eneri Lotawa     |             80 |
 |             80 | Sébastien Giorgis     |      93.72 |                44 |       12 |                31 |      89.63 | Henry Tuilagi    |             80 |
-|             80 | Théo Mias             |      97.63 |                53 |       13 |                51 |      96.78 | Isimeli Kuruibua |             80 |
-|             80 | Étienne Ducom         |      87.15 |                38 |       14 |                18 |      84.56 | Jone Tuva        |             42 |
-|             65 | Thibault Santoro      |      94.42 |                58 |       15 |                18 |      82.6  | Dany Antunes     |             80 |
+|             80 | Théo Mias             |      97.63 |                54 |       13 |                52 |      96.78 | Isimeli Kuruibua |             80 |
+|             80 | Étienne Ducom         |      87.15 |                38 |       14 |                18 |      84.57 | Jone Tuva        |             42 |
+|             65 | Thibault Santoro      |      94.42 |                58 |       15 |                17 |      82.6  | Dany Antunes     |             80 |
 |             37 | Théo Castinel         |     116.68 |                93 |       16 |                 2 |      57.12 | Thomas Toevalu   |              5 |
-|             37 | Matthieu Loudet       |      87.27 |                37 |       17 |                71 |     103.81 | Damien Bonnet    |             39 |
-|             15 | Gabriel Atlan         |      95    |               nan |       18 |                39 |      92.12 | William Beaudon  |              5 |
+|             37 | Matthieu Loudet       |      87.27 |                37 |       17 |                72 |     103.81 | Damien Bonnet    |             39 |
+|             15 | Gabriel Atlan         |      95    |               nan |       18 |                39 |      92.13 | William Beaudon  |              5 |
 |             37 | Mauro Rebussone       |     110.76 |                84 |       19 |                 3 |      62.97 | Vincent Pageneau |             38 |
 |             37 | Luke Nakobukobua      |     103.86 |                70 |       20 |               nan |     nan    | nan              |            nan |
 |             15 | Pierre Nueno          |     100.73 |                64 |       21 |               nan |     nan    | nan              |            nan |

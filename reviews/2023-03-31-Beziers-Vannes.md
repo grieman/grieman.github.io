@@ -43,27 +43,27 @@ Vannes by 17.3 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             62 | Charles-Henri Berguet   |      92.37 |                34 |        1 |                17 |      84.84 | Francisco Fernandes   |             50 |
-|             69 | Cyril Blanchard         |     104.12 |                78 |        2 |                 3 |      70.65 | Clément Esteriola     |             52 |
-|             53 | John Afoa               |      99.93 |               nan |        3 |                26 |      86.75 | Yannick Arroyo        |             41 |
-|             62 | Éric Marks              |      99.37 |                62 |        4 |                75 |     105    | Pierre Gayraud        |             80 |
-|             80 | Ewan Thomas Johnson     |     112.99 |                87 |        5 |                 9 |      76.91 | John Madigan          |             60 |
-|             62 | Juan Bautista Pedemonte |      93.21 |                43 |        6 |                 4 |      70.7  | Jean-Baptiste Barrère |             60 |
-|             80 | Francisco Gorrisen      |     108.33 |                78 |        7 |                78 |     107.09 | Gillian Benoy         |             80 |
-|             80 | Karl Chateau            |      99.89 |                63 |        8 |                32 |      90.66 | Thomas Hoarau         |             52 |
-|             69 | Michael Ruru            |     107.31 |                80 |        9 |                45 |      93.63 | Jean Victor Goillot   |             60 |
-|             69 | Maxime Lafage           |     106.29 |                74 |       10 |                46 |      95.86 | Romain Uruty          |             52 |
-|             80 | Théo Bastardie          |     101.28 |                66 |       11 |                15 |      82.56 | Nicolas Plazy         |             80 |
+|             62 | Charles-Henri Berguet   |      92.37 |                34 |        1 |                17 |      84.86 | Francisco Fernandes   |             50 |
+|             69 | Cyril Blanchard         |     104.12 |                78 |        2 |                 3 |      70.66 | Clément Esteriola     |             52 |
+|             53 | John Afoa               |      99.93 |               nan |        3 |                26 |      86.76 | Yannick Arroyo        |             41 |
+|             62 | Éric Marks              |      99.37 |                62 |        4 |                75 |     104.99 | Pierre Gayraud        |             80 |
+|             80 | Ewan Thomas Johnson     |     112.98 |                88 |        5 |                 9 |      76.91 | John Madigan          |             60 |
+|             62 | Juan Bautista Pedemonte |      93.21 |                43 |        6 |                 4 |      70.71 | Jean-Baptiste Barrère |             60 |
+|             80 | Francisco Gorrisen      |     108.33 |                77 |        7 |                78 |     107.09 | Gillian Benoy         |             80 |
+|             80 | Karl Chateau            |      99.89 |                63 |        8 |                32 |      90.67 | Thomas Hoarau         |             52 |
+|             69 | Michael Ruru            |     107.36 |                80 |        9 |                45 |      93.63 | Jean Victor Goillot   |             60 |
+|             69 | Maxime Lafage           |     106.29 |                73 |       10 |                47 |      95.86 | Romain Uruty          |             52 |
+|             80 | Théo Bastardie          |     101.28 |                66 |       11 |                15 |      82.57 | Nicolas Plazy         |             80 |
 |             65 | Andres Vilaseca         |     112.26 |                84 |       12 |                87 |     114.25 | Paul Recor            |             80 |
 |             80 | Sacha Valleau           |     102.31 |                68 |       13 |                98 |     135.16 | Maxime Espeut         |             80 |
-|             80 | Nathanael Hulleu        |     108.78 |                79 |       14 |                43 |      93.12 | Watisoni Votu         |             80 |
+|             80 | Nathanael Hulleu        |     108.78 |                79 |       14 |                43 |      93.13 | Watisoni Votu         |             80 |
 |             80 | Gwenaël Duplenne        |     110.45 |                83 |       15 |                19 |      83.93 | Charly Malié          |             80 |
 |             27 | Phil Kite               |      97.96 |                60 |       16 |                69 |     100.56 | Jon Zabala Arrieta    |             39 |
 |             18 | Edoardo Iachizzi        |     105.7  |                75 |       17 |                64 |      99.06 | Giorgi Akhaladze      |             30 |
-|             18 | Léon Boulier            |     129.45 |                97 |       18 |                14 |      82.45 | Marco Pinto Ferrer    |             28 |
+|             18 | Léon Boulier            |     129.45 |                97 |       18 |                14 |      82.46 | Marco Pinto Ferrer    |             28 |
 |             15 | Kevin Burgaud           |      82.96 |                16 |       19 |                56 |      98.82 | Sias Koen             |             28 |
-|             11 | Louis-Marie Suta        |      93.74 |               nan |       20 |                32 |      89.02 | Victor Dreuille       |             28 |
+|             11 | Louis-Marie Suta        |      93.74 |               nan |       20 |                32 |      89.03 | Victor Dreuille       |             28 |
 |             11 | Jean Chezeau            |      98.27 |                56 |       21 |                51 |      95.93 | William van Bost      |             20 |
-|             18 | Andy Bordelai           |     131.82 |                98 |       22 |                19 |      83.73 | Mitchell Short        |             20 |
-|             11 | Alexandre Gouaux        |     100.34 |                65 |       23 |                11 |      79.81 | Éloi Massot           |             20 |
+|             18 | Andy Bordelai           |     131.82 |                98 |       22 |                19 |      83.74 | Mitchell Short        |             20 |
+|             11 | Alexandre Gouaux        |     100.34 |                65 |       23 |                11 |      79.83 | Éloi Massot           |             20 |
 

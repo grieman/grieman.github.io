@@ -46,18 +46,18 @@ Dax by 4.3 on a neutral pitch
 |             55 | Asa Faitotoa         |     117.58 |                93 |        1 |                70 |     102.84 | Grégory Querin       |             51 |
 |             55 | Louis Barrere        |      94.61 |                42 |        2 |                13 |      82.49 | Alexandre Fau        |             55 |
 |             55 | Diogo Hasse Ferreira |      85.16 |                16 |        3 |                42 |      95.32 | Luvuyo Pupuma        |             57 |
-|             65 | Brice Ferrer         |      78.36 |                 9 |        4 |                27 |      90.99 | Gabriel Quesmel      |             55 |
-|             65 | Matt Luamanu         |      86.69 |                23 |        5 |                60 |      98.67 | Clément Fontaine     |             80 |
+|             65 | Brice Ferrer         |      78.36 |                10 |        4 |                27 |      90.99 | Gabriel Quesmel      |             55 |
+|             65 | Matt Luamanu         |      86.7  |                23 |        5 |                60 |      98.67 | Clément Fontaine     |             80 |
 |             80 | Arnaud Aletti        |      99.16 |                60 |        6 |                70 |     103.23 | Baptiste Beaujouan   |             80 |
 |             80 | Diaby Doucouré       |      81.23 |                15 |        7 |                 9 |      82.17 | Pedro Ortega         |             57 |
-|             80 | Paul Arnaud Ausset   |     108.77 |                81 |        8 |                61 |     101.79 | Guillaume Cazette    |             30 |
+|             80 | Paul Arnaud Ausset   |     108.77 |                81 |        8 |                60 |     101.79 | Guillaume Cazette    |             30 |
 |             55 | Simon Garrouteigt    |      86.47 |                22 |        9 |                34 |      90.56 | Maxime Le Viavant    |             57 |
 |             80 | Hugo Cerisier        |      90.74 |                33 |       10 |                42 |      92.99 | Lucas Ollion         |             80 |
 |             80 | Théo Gatelier        |     104.08 |                71 |       11 |                12 |      80.05 | Romuald François     |             55 |
-|             65 | Ilikena Bolakoro     |      86.81 |                25 |       12 |                52 |      96.9  | Ryan Dubois          |             80 |
-|             80 | Sylvère Reteau       |      98.78 |                59 |       13 |                48 |      95.95 | Clément Lepresle     |             80 |
-|             80 | Guillaume Bouche     |     115.93 |                88 |       14 |                72 |     105.8  | Enzo Salvai          |             80 |
-|             65 | Théo Duprat          |     106.88 |                75 |       15 |                21 |      85.1  | Pedro Soto           |             80 |
+|             65 | Ilikena Bolakoro     |      86.82 |                25 |       12 |                52 |      96.91 | Ryan Dubois          |             80 |
+|             80 | Sylvère Reteau       |      98.78 |                59 |       13 |                49 |      95.95 | Clément Lepresle     |             80 |
+|             80 | Guillaume Bouche     |     115.93 |                88 |       14 |                73 |     105.8  | Enzo Salvai          |             80 |
+|             65 | Théo Duprat          |     106.88 |                76 |       15 |                21 |      85.1  | Pedro Soto           |             80 |
 |             25 | Louis Mary           |     104.51 |                77 |       16 |                22 |      87.41 | Baptiste Le Jallé    |             29 |
 |             25 | Elvis Levi           |     130.6  |                98 |       17 |                72 |     101.73 | Patrick Tu'ugahala   |             25 |
 |             25 | Thibaud Dréan        |      67.82 |                 2 |       18 |                28 |      89.57 | Atonio Ulutuipalelei |             23 |

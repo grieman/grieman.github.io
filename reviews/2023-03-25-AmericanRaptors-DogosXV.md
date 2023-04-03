@@ -54,16 +54,16 @@ Dogos XV by 20.1 on a neutral pitch
 |             71 | Agustin Moyano            |     104.31 |                75 |        9 |                28 |      88.57 | Martin Landajo           |             80 |
 |             54 | Juan Baronio              |     102.88 |                70 |       10 |                26 |      88.25 | Lucas Gonzalez Amorosino |             71 |
 |             80 | Lautaro Cipriani          |      95    |               nan |       11 |                11 |      78.85 | Seimou Smith             |             80 |
-|             80 | Leonardo Gea Salim        |      95.36 |                47 |       12 |                43 |      93.88 | Aki Pulu                 |             48 |
+|             80 | Leonardo Gea Salim        |      95.36 |                47 |       12 |                44 |      93.88 | Aki Pulu                 |             48 |
 |             80 | Faustino Sánchez Valarolo |     110.48 |                82 |       13 |                25 |      86.86 | Watson Filikitonga       |             80 |
 |             80 | Mateo Soler               |      97.92 |                56 |       14 |                21 |      85.76 | Ryan James               |             80 |
-|             61 | Julian Ignacio Hernandez  |     100.35 |                61 |       15 |                42 |      92.76 | Line Latu                |             80 |
-|             49 | Ramiro Valdes Iribarren   |      96.66 |                39 |       16 |                40 |      92.59 | Cash Maluia              |             32 |
+|             61 | Julian Ignacio Hernandez  |     100.35 |                61 |       15 |                41 |      92.76 | Line Latu                |             80 |
+|             49 | Ramiro Valdes Iribarren   |      96.66 |                38 |       16 |                40 |      92.59 | Cash Maluia              |             32 |
 |             40 | Gregorio Hernandez        |      92.85 |                21 |       17 |                 2 |      58.06 | Will Crawford            |             20 |
 |             19 | Valentino DI Capua        |      92.8  |                33 |       18 |                24 |      88.2  | Ma'ake Muti              |             14 |
 |             17 | Roman Pretz               |      94.06 |                30 |       19 |               nan |      95.77 | Chris Schade             |             10 |
 |             14 | Federico Albrisi          |      97.77 |               nan |       20 |               nan |      98.53 | Patrick Madden           |              9 |
-|             26 | Felipe Mallia             |      96.75 |               nan |       21 |                18 |      85.47 | Shawn Clark              |              9 |
+|             26 | Felipe Mallia             |      96.75 |               nan |       21 |                19 |      85.47 | Shawn Clark              |              9 |
 |             13 | Mateo Nunez Miserez       |      91.89 |                36 |       22 |               nan |      94.46 | Adagio Lopeti            |              4 |
-|              9 | Juan Cruz Strada          |      97.18 |                51 |       23 |               nan |     nan    | nan                      |            nan |
+|              9 | Juan Cruz Strada          |      97.18 |                50 |       23 |               nan |     nan    | nan                      |            nan |
 

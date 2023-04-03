@@ -51,11 +51,11 @@ Utah Warriors by 12.4 on a neutral pitch
 |             52 | Owain Ruttan            |      94.83 |               nan |        6 |               nan |      95.31 | Jeremiah Noaese         |             80 |
 |             80 | James O'Neill           |     106.97 |                80 |        7 |                 3 |      66.67 | Lance Williams          |             70 |
 |             80 | Lucas Rumball           |      88.4  |                27 |        8 |                 0 |      52.98 | Thomas Tu'avao          |             80 |
-|             72 | Ross Braude             |      88.13 |                26 |        9 |                65 |      99.09 | Zion Going              |             63 |
+|             72 | Ross Braude             |      88.13 |                27 |        9 |                65 |      99.09 | Zion Going              |             63 |
 |             80 | Sam Malcolm             |      92.13 |                38 |       10 |                37 |      91.74 | Joel Hodgson            |             80 |
 |             80 | Avery Oitomen           |      71.3  |                 8 |       11 |                24 |      87.28 | Joseph Mano             |             80 |
 |             80 | Mitch Eadie             |      94.77 |                43 |       12 |                93 |     121.12 | Tyler Luke Fisher       |             80 |
-|             80 | Fabian Goodall          |      92.88 |                41 |       13 |                34 |      90.43 | Mika Kruse              |             80 |
+|             80 | Fabian Goodall          |      92.88 |                42 |       13 |                34 |      90.43 | Mika Kruse              |             80 |
 |             80 | Kobe Faust              |      76.65 |                10 |       14 |               nan |      95.44 | Logan Tago              |             52 |
 |             80 | Brenden Black           |      95    |               nan |       15 |                25 |      86.77 | Caleb Makene            |             80 |
 |             22 | Conan O'Donnell         |      86.65 |                18 |       16 |               nan |      91.81 | Olive Kilifi            |             28 |
@@ -65,5 +65,5 @@ Utah Warriors by 12.4 on a neutral pitch
 |             20 | Onehunga Havili Kaufusi |      94.81 |               nan |       20 |               nan |     nan    | nan                     |            nan |
 |            nan | nan                     |     nan    |               nan |       21 |                 4 |      69.26 | Bailey Wilson           |             10 |
 |            nan | nan                     |     nan    |               nan |       22 |                38 |      91.72 | Connor McLeod           |             17 |
-|            nan | nan                     |     nan    |               nan |       23 |                39 |      92.33 | Paul Lasike             |             28 |
+|            nan | nan                     |     nan    |               nan |       23 |                40 |      92.33 | Paul Lasike             |             28 |
 

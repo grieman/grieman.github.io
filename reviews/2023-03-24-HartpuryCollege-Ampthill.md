@@ -43,27 +43,27 @@ Ampthill by 12.3 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             67 | James Flynn       |     101.21 |                71 |        1 |                68 |     100.29 | Joe Wrafter           |             77 |
-|             56 | Matt Gallagher    |      98.02 |                60 |        2 |                40 |      92.11 | Will Tanner           |             65 |
-|             61 | Joe Sproston      |      89.64 |                28 |        3 |                91 |     113.94 | Sam Rodman            |             60 |
-|             80 | Charlie Beckett   |     103.66 |                72 |        4 |                72 |     103.61 | Jack Davies           |             80 |
-|             80 | Harry Wilson      |      86.44 |                22 |        5 |                65 |     100.62 | Ben Glynn             |             67 |
-|             80 | Fyn Brown         |      99.54 |                62 |        6 |                25 |      87.62 | Sam Lewis             |             80 |
-|             56 | Paddy Ryan        |     121.71 |                93 |        7 |                 9 |      80.38 | Oli Robinson          |             77 |
-|             79 | Morgan Strong     |      93.57 |                38 |        8 |                21 |      85.7  | Joe Howard            |             80 |
-|             18 | Peter White       |     120.96 |                95 |        9 |                91 |     115.25 | Matty Jones           |             80 |
-|             80 | Tom Hardwick      |     103.66 |                71 |       10 |                68 |     102.69 | Tommy Mathews         |             80 |
+|             67 | James Flynn       |     101.2  |                72 |        1 |                68 |     100.29 | Joe Wrafter           |             77 |
+|             56 | Matt Gallagher    |      98.01 |                59 |        2 |                39 |      92.12 | Will Tanner           |             65 |
+|             61 | Joe Sproston      |      89.63 |                28 |        3 |                91 |     113.94 | Sam Rodman            |             60 |
+|             80 | Charlie Beckett   |     103.67 |                72 |        4 |                72 |     103.6  | Jack Davies           |             80 |
+|             80 | Harry Wilson      |      86.45 |                22 |        5 |                65 |     100.62 | Ben Glynn             |             67 |
+|             80 | Fyn Brown         |      99.55 |                62 |        6 |                24 |      87.62 | Sam Lewis             |             80 |
+|             56 | Paddy Ryan        |     121.72 |                93 |        7 |                 9 |      80.38 | Oli Robinson          |             77 |
+|             79 | Morgan Strong     |      93.58 |                38 |        8 |                21 |      85.7  | Joe Howard            |             80 |
+|             18 | Peter White       |     120.97 |                95 |        9 |                91 |     115.25 | Matty Jones           |             80 |
+|             80 | Tom Hardwick      |     103.67 |                71 |       10 |                68 |     102.7  | Tommy Mathews         |             80 |
 |             46 | Ollie Dawkins     |     112.65 |                85 |       11 |                17 |      83.94 | Matthew McNab         |             80 |
-|             79 | Gwyn Parks        |      94.49 |                45 |       12 |                67 |     102.53 | Harry Ascherl         |             80 |
-|             80 | George Worth      |      96.97 |                52 |       13 |                 5 |      69.65 | Jack Reeves           |             80 |
-|             80 | Josh Skelcey      |     104.06 |                73 |       14 |                63 |      99.92 | Jack Bates            |             80 |
-|             80 | Tomas Bacon       |     103.66 |                68 |       15 |                25 |      86.79 | Jacob Morris          |             46 |
+|             79 | Gwyn Parks        |      94.49 |                45 |       12 |                67 |     102.52 | Harry Ascherl         |             80 |
+|             80 | George Worth      |      96.98 |                52 |       13 |                 5 |      69.65 | Jack Reeves           |             80 |
+|             80 | Josh Skelcey      |     104.05 |                73 |       14 |                63 |     100    | Jack Bates            |             80 |
+|             80 | Tomas Bacon       |     103.67 |                68 |       15 |                25 |      86.8  | Jacob Morris          |             46 |
 |             62 | Lewis Finlay      |      90.53 |                40 |       16 |                58 |      99.25 | Alex Forrester        |             34 |
 |             34 | Alexandrer Harmes |      82.49 |                15 |       17 |                 9 |      79.8  | Jonathan Benz-Salomon |             20 |
-|             24 | Samson Adejimi    |      95.25 |               nan |       18 |                70 |     101.14 | Luke Stratford        |             15 |
-|             24 | Josh Smart        |      92.1  |                40 |       19 |                51 |      96.46 | Nahum Merigan         |             13 |
+|             24 | Samson Adejimi    |      95.25 |               nan |       18 |                70 |     101.15 | Luke Stratford        |             15 |
+|             24 | Josh Smart        |      92.09 |                40 |       19 |                51 |      96.46 | Nahum Merigan         |             13 |
 |             19 | Jevaughn Warren   |      95.85 |                45 |       20 |                65 |      96.6  | Aristot Benz-Salomon  |              3 |
-|             13 | Zac Nearchou      |      97.96 |                64 |       21 |                96 |     128.38 | Harry Short           |              3 |
+|             13 | Zac Nearchou      |      97.97 |                63 |       21 |                96 |     128.38 | Harry Short           |              3 |
 |              1 | Cai Devine        |     102.74 |                70 |       22 |               nan |     nan    | nan                   |            nan |
-|              1 | Joshua Bragman    |      77.18 |                 9 |       23 |               nan |     nan    | nan                   |            nan |
+|              1 | Joshua Bragman    |      77.19 |                 9 |       23 |               nan |     nan    | nan                   |            nan |
 

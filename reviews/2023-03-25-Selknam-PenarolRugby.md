@@ -48,22 +48,22 @@ Penarol Rugby by 5.4 on a neutral pitch
 |             56 | Ignacio Alfredo Peculo Rodriguez   |     103.66 |                77 |        3 |               nan |      95.59 | Lucas Bordigoni                   |             50 |
 |             80 | Felipe Aliaga                      |      96.87 |                54 |        4 |                61 |      95.35 | Santiago Pedrero                  |             80 |
 |             48 | Agustin Morales                    |      94.65 |               nan |        5 |                15 |      82.01 | Javier Eissmann                   |             51 |
-|             55 | Carlos Manuel Deus Lopes de Amorin |      85.43 |                18 |        6 |                21 |      86.51 | Raimundo Martinez                 |             80 |
+|             55 | Carlos Manuel Deus Lopes de Amorin |      85.43 |                19 |        6 |                22 |      86.51 | Raimundo Martinez                 |             80 |
 |             80 | Lucas Bianchi                      |      91.74 |                42 |        7 |               nan |      89.51 | Thomas Hans Orchard Meyer-Rachner |             45 |
-|             80 | Manuel Diana                       |     100.6  |                62 |        8 |                31 |      90.43 | Ernesto Tchimino                  |             76 |
-|             80 | Santiago Álvarez Viera Da Cunha    |      98.47 |                58 |        9 |                37 |      91.45 | Lukas Carvallo                    |             76 |
+|             80 | Manuel Diana                       |     100.6  |                63 |        8 |                32 |      90.43 | Ernesto Tchimino                  |             76 |
+|             80 | Santiago Álvarez Viera Da Cunha    |      98.47 |                57 |        9 |                37 |      91.45 | Lukas Carvallo                    |             76 |
 |             80 | Felipe Etcheverry                  |     103.15 |                71 |       10 |                48 |      96.41 | Rodrigo Fernandez                 |             80 |
-|             80 | Alfonso Silva                      |      95.92 |                53 |       11 |                34 |      90.72 | Matias Garafulic                  |             80 |
-|             80 | Juan Zuccarino                     |     111.75 |                84 |       12 |                37 |      91.48 | Jose Ignacio Larenas              |             80 |
+|             80 | Alfonso Silva                      |      95.92 |                53 |       11 |                35 |      90.72 | Matias Garafulic                  |             80 |
+|             80 | Juan Zuccarino                     |     111.75 |                83 |       12 |                37 |      91.48 | Jose Ignacio Larenas              |             80 |
 |             80 | Tomas Inciarte Rachetti            |     101.37 |                65 |       13 |                10 |      77.97 | Domingo Saavedra                  |             73 |
 |             80 | Gaston Mieres Valente              |      98.65 |                59 |       14 |                43 |      93.58 | Clemente Armstrong                |             80 |
 |             80 | Rodrigo Silva                      |     100.6  |                62 |       15 |                33 |      90.72 | Francisco Urroz                   |             80 |
 |             32 | Juan Manuel Rodriguez              |     102.24 |               nan |       16 |                58 |      98.67 | Clemente Saavedra                 |             35 |
 |             25 | Manuel Rosmarino                   |      95    |               nan |       17 |                58 |      98.21 | Pablo Huete                       |             29 |
 |             24 | Diego Arbelo                       |     100.01 |                41 |       18 |                41 |      93.09 | Salvador Lues                     |             23 |
-|             11 | Mateo Perillo                      |      98.15 |                59 |       19 |                24 |      87.58 | Tomas Dussaillant                 |             23 |
+|             11 | Mateo Perillo                      |      98.15 |                58 |       19 |                24 |      87.58 | Tomas Dussaillant                 |             23 |
 |             11 | Emiliano Faccennini                |     102.17 |                71 |       20 |                33 |      90.28 | Pablo Casas                       |              7 |
 |            nan | nan                                |     nan    |               nan |       21 |               nan |      93.29 | Jorge Delgado                     |              4 |
-|            nan | nan                                |     nan    |               nan |       22 |                75 |     104.22 | Benjamin Videla                   |              4 |
+|            nan | nan                                |     nan    |               nan |       22 |                74 |     104.22 | Benjamin Videla                   |              4 |
 |            nan | nan                                |     nan    |               nan |       23 |               nan |      91.62 | Vittorio Lastra                   |             30 |
 

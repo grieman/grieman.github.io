@@ -44,26 +44,26 @@ Agen by 12.5 on a neutral pitch
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
 |             62 | Lucas Seyrolle    |      80.96 |                11 |        1 |                 1 |      61.94 | Florent Guion      |             52 |
-|             52 | Cyril Deligny     |      93.41 |                50 |        2 |                57 |      96.87 | Clément Martinez   |             52 |
-|             52 | Tietie Tuimauga   |      86.31 |                27 |        3 |                76 |     103.07 | Alex Burin         |             53 |
-|             52 | Dimitri Vaotoa    |      94.08 |                46 |        4 |                57 |      98.16 | Joe Maksymiw       |             80 |
+|             52 | Cyril Deligny     |      93.41 |                50 |        2 |                56 |      96.87 | Clément Martinez   |             52 |
+|             52 | Tietie Tuimauga   |      86.67 |                28 |        3 |                76 |     103.07 | Alex Burin         |             53 |
+|             52 | Dimitri Vaotoa    |      94.08 |                45 |        4 |                57 |      98.16 | Joe Maksymiw       |             80 |
 |             80 | Kevin Gimeno      |      93.2  |                42 |        5 |                75 |     105.21 | William Demotte    |             52 |
-|             77 | Frédéric Quercy   |      55.57 |                 1 |        6 |                50 |      97.5  | Evan Olmstead      |             80 |
-|             44 | Stéphane Munoz    |      90.28 |                35 |        7 |                25 |      87.59 | Vincent Farré      |             80 |
-|             80 | Quentin Witt      |      81.1  |                13 |        8 |                82 |     110.29 | Martin Devergie    |             23 |
+|             77 | Frédéric Quercy   |      55.57 |                 1 |        6 |                51 |      97.5  | Evan Olmstead      |             80 |
+|             44 | Stéphane Munoz    |      90.28 |                34 |        7 |                24 |      87.59 | Vincent Farré      |             80 |
+|             80 | Quentin Witt      |      81.1  |                13 |        8 |                83 |     110.3  | Martin Devergie    |             23 |
 |             76 | Shaun Venter      |      96.16 |                51 |        9 |                64 |      99.92 | Sonatane Takulua   |             52 |
-|             80 | Jérôme Bosviel    |      94.55 |                44 |       10 |                78 |     107.32 | Thomas Vincent     |             80 |
-|             80 | Bastien Guillemin |      86.35 |                21 |       11 |                74 |     104.42 | Iban Etcheverry    |             80 |
+|             80 | Jérôme Bosviel    |      94.55 |                45 |       10 |                78 |     107.31 | Thomas Vincent     |             80 |
+|             80 | Bastien Guillemin |      86.35 |                22 |       11 |                74 |     104.42 | Iban Etcheverry    |             80 |
 |             80 | Sevenaia Galala   |     100.11 |                61 |       12 |                63 |     100.7  | Kolinio Ramoka     |             80 |
 |             80 | Josua Vici        |      93.78 |               nan |       13 |                60 |      99.69 | Harry Sloan        |             32 |
-|             80 | Semesa Rokoduguni |      82.17 |                14 |       14 |                21 |      86.32 | Timilai Rokoduru   |             80 |
-|             80 | Segundo Tuculet   |      97.68 |                53 |       15 |                19 |      84.03 | Mathieu Lamoulie   |             52 |
-|             36 | Otar Giorgadze    |     104.43 |                72 |       16 |                52 |      98.17 | Afa Amosa          |             57 |
+|             80 | Semesa Rokoduguni |      82.17 |                14 |       14 |                21 |      86.33 | Timilai Rokoduru   |             80 |
+|             80 | Segundo Tuculet   |      97.68 |                54 |       15 |                19 |      84.03 | Mathieu Lamoulie   |             52 |
+|             36 | Otar Giorgadze    |     104.39 |                72 |       16 |                53 |      98.32 | Afa Amosa          |             57 |
 |             28 | Dan Malafosse     |      84.09 |                21 |       17 |                62 |      99.65 | Jefferson Joseph   |             48 |
 |             28 | Kevin Firmin      |      86.24 |                20 |       18 |                39 |      91.24 | Zak Farrance       |             28 |
-|             28 | Mirian Burduli    |      95.42 |                52 |       19 |                42 |      93.46 | Emile Dayral       |             28 |
-|             18 | Nicolas Agnesi    |     123.62 |                97 |       20 |                74 |     102.23 | Hans Lombard-Buret |             28 |
-|              4 | Alexis Bernadet   |      99.62 |                63 |       21 |                36 |      92.55 | Loris Zarantonello |             28 |
+|             28 | Mirian Burduli    |      95.42 |                51 |       19 |                42 |      93.46 | Emile Dayral       |             28 |
+|             18 | Nicolas Agnesi    |     123.63 |                97 |       20 |                74 |     102.23 | Hans Lombard-Buret |             28 |
+|              4 | Alexis Bernadet   |      99.62 |                63 |       21 |                36 |      92.56 | Loris Zarantonello |             28 |
 |              3 | Kyllian Ringuet   |      86.34 |                21 |       22 |                41 |      93.46 | Theo Idjellidaine  |             28 |
 |            nan | nan               |     nan    |               nan |       23 |                80 |     105.7  | Théo Sauzaret      |             27 |
 

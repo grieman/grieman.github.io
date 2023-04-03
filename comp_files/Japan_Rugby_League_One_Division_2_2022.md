@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One Division 2 Status"  
-date: 2023-04-01 6:00:00 -0500  
+date: 2023-04-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

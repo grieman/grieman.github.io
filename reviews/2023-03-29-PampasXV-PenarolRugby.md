@@ -45,19 +45,19 @@ Penarol Rugby by 5.6 on a neutral pitch
 |---------------:|:-----------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
 |             55 | Edgardo Matias Benitez Santin      |     101.71 |                73 |        1 |                79 |     104.39 | Rodrigo Martinez Manzano  |             39 |
 |             58 | Guillermo Pujadas Leon             |     104.35 |                78 |        2 |                64 |      98.97 | Ramiro Gurovich           |             80 |
-|             55 | Diego Arbelo                       |     101.05 |                42 |        3 |                50 |      95.11 | Javier Angel Coronel      |             67 |
-|             80 | Felipe Aliaga                      |      97.48 |                56 |        4 |                68 |     102.48 | Lorenzo Colidio           |             62 |
+|             55 | Diego Arbelo                       |     101.05 |                41 |        3 |                50 |      95.11 | Javier Angel Coronel      |             67 |
+|             80 | Felipe Aliaga                      |      97.48 |                55 |        4 |                68 |     102.48 | Lorenzo Colidio           |             62 |
 |             44 | Agustin Morales                    |      96.72 |                54 |        5 |                12 |      79.59 | Federico Ignacio Lavanini |             80 |
 |             79 | Carlos Manuel Deus Lopes de Amorin |      85.85 |                19 |        6 |                91 |     118.3  | Nicolas Damorim           |             62 |
 |             80 | Lucas Bianchi                      |      95.2  |                48 |        7 |                83 |     110.36 | Jeronimo Ureta            |             80 |
 |             80 | Manuel Diana                       |     104.06 |                70 |        8 |                53 |      98.28 | Santiago Ruiz             |             80 |
-|             80 | Santiago Álvarez Viera Da Cunha    |      99.08 |                61 |        9 |                84 |     109.63 | Mateo Albanese            |             55 |
-|             80 | Felipe Etcheverry                  |     106.61 |                77 |       10 |                 1 |      48.38 | Joaquin de la Vega Mendia |             80 |
+|             80 | Santiago Álvarez Viera Da Cunha    |      99.08 |                60 |        9 |                84 |     109.63 | Mateo Albanese            |             55 |
+|             80 | Felipe Etcheverry                  |     106.61 |                76 |       10 |                 1 |      48.38 | Joaquin de la Vega Mendia |             80 |
 |             80 | Juan Manuel Alonso                 |      97.32 |                54 |       11 |               nan |      95.51 | Lucio Auad                |             80 |
 |             67 | Guillermo Storace                  |      99.77 |                50 |       12 |                31 |      89.35 | Manuel Alfaro Torneiro    |             63 |
 |             80 | Tomas Inciarte Rachetti            |     104.82 |                73 |       13 |                48 |      95.88 | Benjamin Elizalde         |             80 |
 |             24 | Gaston Mieres Valente              |     102.11 |                68 |       14 |                80 |     108.49 | Inaki Delguy              |             80 |
-|             80 | Alfonso Silva                      |      99.38 |                61 |       15 |                90 |     117.91 | Juan Ignacio Lando        |             80 |
+|             80 | Alfonso Silva                      |      99.38 |                61 |       15 |                91 |     117.91 | Juan Ignacio Lando        |             80 |
 |             56 | Icaro Amarillo                     |      95    |               nan |       16 |                76 |     103.77 | Matias Medrano            |             41 |
 |             36 | Juan Manuel Rodriguez              |     103.62 |               nan |       17 |                58 |      99.52 | Rafael Iriarte            |             25 |
 |             25 | Ignacio Alfredo Peculo Rodriguez   |     106.08 |                83 |       18 |                 2 |      61.2  | Eliseo Fourcade           |             18 |

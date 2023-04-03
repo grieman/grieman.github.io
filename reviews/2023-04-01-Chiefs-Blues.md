@@ -43,27 +43,27 @@ Chiefs by 6.3 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             46 | Jordan Lay        |      92.1  |                44 |        1 |                38 |      93.32 | Ollie Norris         |             55 |
-|             63 | Ricky Riccitelli  |      93.14 |                46 |        2 |                91 |     115.04 | Samisoni Taukei'aho  |             51 |
-|             63 | Nepo Laulala      |     120.26 |                96 |        3 |                84 |     106.28 | John Ryan            |             55 |
-|             55 | Cameron Suafoa    |     105.09 |                76 |        4 |                92 |     120.3  | Brodie Retallick     |             80 |
+|             46 | Jordan Lay        |      92.1  |                44 |        1 |                38 |      93.31 | Ollie Norris         |             55 |
+|             63 | Ricky Riccitelli  |      93.14 |                45 |        2 |                91 |     115.04 | Samisoni Taukei'aho  |             51 |
+|             63 | Nepo Laulala      |     120.26 |                96 |        3 |                84 |     106.55 | John Ryan            |             55 |
+|             55 | Cameron Suafoa    |     105.09 |                76 |        4 |                93 |     120.3  | Brodie Retallick     |             80 |
 |             80 | Sam Darry         |     101.86 |                69 |        5 |                47 |      94.82 | Tupou Vaa'i          |             51 |
-|             68 | Anton Segner      |      84.62 |                17 |        6 |                82 |     110.19 | Samipeni Finau       |             80 |
+|             68 | Anton Segner      |      84.62 |                17 |        6 |                82 |     110.18 | Samipeni Finau       |             80 |
 |             80 | Dalton Papali'i   |     103.65 |                71 |        7 |                98 |     140.37 | Sam Cane             |             62 |
 |             80 | Hoskins Sotutu    |     126.02 |                96 |        8 |                98 |     138.41 | Luke Jacobson        |             80 |
 |             63 | Finlay Christie   |     104.05 |                74 |        9 |                99 |     138.35 | Brad Weber           |             60 |
 |             80 | Beauden Barrett   |     157.18 |               100 |       10 |                50 |      96.11 | Damian McKenzie      |             80 |
-|             80 | Caleb Clarke      |      99.4  |                61 |       11 |                67 |     101.59 | Etene Nanai-Seturo   |             80 |
+|             80 | Caleb Clarke      |      99.4  |                62 |       11 |                67 |     101.58 | Etene Nanai-Seturo   |             80 |
 |             80 | Harry Plummer     |     113.7  |                86 |       12 |                46 |      94.52 | Rameka Poihipi       |             80 |
 |             80 | Rieko Ioane       |      78.42 |                10 |       13 |                51 |      97.56 | Daniel Rona          |             66 |
-|             80 | AJ Lam            |      90.59 |                34 |       14 |                82 |     109.37 | Emoni Narawa         |             72 |
-|             80 | Stephen Perofeta  |     114.72 |                85 |       15 |                70 |     104.96 | Shaun Stevenson      |             80 |
+|             80 | AJ Lam            |      90.59 |                35 |       14 |                82 |     109.37 | Emoni Narawa         |             72 |
+|             80 | Stephen Perofeta  |     114.72 |                85 |       15 |                70 |     104.95 | Shaun Stevenson      |             80 |
 |             17 | Kurt Eklund       |     114.11 |                90 |       16 |                61 |      98.16 | Tyrone Thompson      |             29 |
 |             34 | Ofa Tu'ungafasi   |     110.39 |                88 |       17 |                85 |     107.26 | Aidan Ross           |             25 |
 |             17 | James Lay         |     104.21 |                79 |       18 |                36 |      94.69 | George Dyer          |             25 |
-|             25 | Patrick Tuipulotu |     129.6  |                97 |       19 |                94 |     124.77 | Naitoa Ah Kuoi       |             29 |
+|             25 | Patrick Tuipulotu |     129.6  |                97 |       19 |                94 |     124.76 | Naitoa Ah Kuoi       |             29 |
 |             12 | Tom Robinson      |     113.7  |                90 |       20 |                68 |     102.75 | Pita Gus Sowakula    |             18 |
-|             17 | Sam Nock          |     104.44 |                75 |       21 |                88 |     113.27 | Cortez Ratima        |             20 |
-|              0 | Corey Evans       |     102.08 |                67 |       22 |                56 |      98.45 | Bryn Gatland         |             14 |
+|             17 | Sam Nock          |     104.44 |                75 |       21 |                88 |     113.26 | Cortez Ratima        |             20 |
+|              0 | Corey Evans       |     102.08 |                68 |       22 |                56 |      98.45 | Bryn Gatland         |             14 |
 |             25 | Zarn Sullivan     |      91.9  |                40 |       23 |                87 |     114.56 | Liam Coombes-Fabling |              8 |
 

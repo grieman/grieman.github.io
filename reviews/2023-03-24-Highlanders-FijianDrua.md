@@ -50,21 +50,21 @@ Highlanders by 7.5 on a neutral pitch
 |             63 | Ratu Rotuisolia          |      92.38 |                38 |        5 |                25 |      87.91 | Will Tucker          |             67 |
 |             46 | Joseva Tamani            |      84.94 |                17 |        6 |                15 |      83.22 | Sean Withy           |             80 |
 |             60 | Kitione Salawa           |      75.32 |                 7 |        7 |                89 |     116.01 | Billy Harmon         |             80 |
-|             80 | Ratu Meli Derenalagi     |     112.59 |                86 |        8 |                39 |      93.25 | Nikora Broughton     |             80 |
-|             80 | Frank Lomani             |      87.47 |                25 |        9 |                57 |      98.18 | Aaron Smith          |             54 |
+|             80 | Ratu Meli Derenalagi     |     112.59 |                86 |        8 |                39 |      93.26 | Nikora Broughton     |             80 |
+|             80 | Frank Lomani             |      87.47 |                24 |        9 |                57 |      98.18 | Aaron Smith          |             54 |
 |             33 | Kemu Valentini           |      96.12 |               nan |       10 |                90 |     120.99 | Mitch Hunt           |             58 |
 |             51 | Taniela Rakuro           |      93.53 |               nan |       11 |                75 |     104.87 | Jonah Lowe           |             80 |
+|             80 | Kalaveti Ravouvou        |     146.93 |                99 |       12 |                14 |      81.44 | Josh Timu            |             80 |
 |             80 | Kalaveti Ravouvou        |     146.93 |                99 |       12 |                22 |      85.61 | Thomas Umaga-Jensen  |             80 |
-|             80 | Kalaveti Ravouvou        |     146.93 |                99 |       12 |                14 |      81.43 | Josh Timu            |             80 |
 |             80 | Apisalome Vota           |     121.38 |                93 |       13 |                89 |     117.63 | Fetuli Paea          |             80 |
-|             80 | Iosefo Masi              |     101.14 |                64 |       14 |                93 |     123.96 | Martin Bogado        |             80 |
-|             80 | Selestino Ravutaumada    |      92.65 |                41 |       15 |                18 |      82.78 | Sam Gilbert          |             80 |
+|             80 | Iosefo Masi              |     101.14 |                63 |       14 |                93 |     123.97 | Martin Bogado        |             80 |
+|             80 | Selestino Ravutaumada    |      92.65 |                41 |       15 |                17 |      82.78 | Sam Gilbert          |             80 |
 |             11 | Zuriel Togiatama         |      91.52 |                39 |       16 |               nan |      95    | Jack Taylor          |             17 |
 |             30 | Meli Tuni                |     104.58 |                80 |       17 |                71 |      99.93 | Dan Lienert-Brown    |             26 |
-|             32 | Jone Koroiduadua         |      99.27 |                61 |       18 |                78 |     100.04 | Saula Mau            |             17 |
+|             32 | Jone Koroiduadua         |      99.27 |                60 |       18 |                78 |     100.04 | Saula Mau            |             17 |
 |             17 | Sorovakatini Tuifagalele |      84.34 |                23 |       19 |                 1 |      54.53 | Josh Bekhuis         |             26 |
-|             34 | Vilive Miramira          |      88.09 |                21 |       20 |                55 |      97.59 | James Lentjes        |             13 |
+|             34 | Vilive Miramira          |      88.09 |                22 |       20 |                55 |      97.59 | James Lentjes        |             13 |
 |             20 | Elia Canakaivata         |      99.66 |                58 |       21 |                15 |      82.45 | Folau Fakatava       |             26 |
 |             29 | Peni Matawalu            |     102.29 |                70 |       22 |                69 |     102.79 | Cameron Millar       |             22 |
-|             47 | Teti Tela                |     106.37 |                76 |       23 |                46 |      94.1  | Connor Garden-Bachop |             68 |
+|             47 | Teti Tela                |     106.37 |                76 |       23 |                45 |      94.1  | Connor Garden-Bachop |             68 |
 

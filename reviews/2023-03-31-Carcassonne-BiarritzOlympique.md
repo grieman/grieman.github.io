@@ -47,23 +47,23 @@ Carcassonne by 1.3 on a neutral pitch
 |             55 | Thomas Sauveterre  |     113.93 |                90 |        2 |                85 |     108.92 | Raphaël Carbou           |             65 |
 |             55 | Luka Azariashvili  |      98.94 |                67 |        3 |                38 |      98.17 | Soso Bekoshvili          |             63 |
 |             80 | Johan Aliouat      |     102.83 |                70 |        4 |                 6 |      72.67 | Romain Manchia           |             80 |
-|             21 | Adrian Motoc       |      90.85 |                34 |        5 |                74 |     104.83 | Rynard Ligtoring Landman |             60 |
+|             21 | Adrian Motoc       |      90.88 |                35 |        5 |                75 |     104.83 | Rynard Ligtoring Landman |             60 |
 |             80 | Josh Tyrell        |     100.75 |                65 |        6 |                68 |     102.2  | Robert Harley            |             80 |
 |             80 | Thomas Hebert      |     112.76 |                86 |        7 |                81 |     109.13 | Étienne Herjean          |             80 |
-|             80 | Tornike Jalagonia  |     109.26 |                82 |        8 |                89 |     116.08 | Pierre Reynaud           |             52 |
-|             55 | Tomas Cubelli      |      93.34 |               nan |        9 |                58 |      98.5  | Samuel Marques           |             80 |
-|             80 | Baptiste Germain   |      98.21 |                55 |       10 |                63 |     102.08 | Christopher Hilsenbeck   |             80 |
+|             80 | Tornike Jalagonia  |     109.2  |                82 |        8 |                89 |     116.09 | Pierre Reynaud           |             52 |
+|             55 | Tomas Cubelli      |      93.34 |               nan |        9 |                57 |      98.49 | Samuel Marques           |             80 |
+|             80 | Baptiste Germain   |      98.22 |                55 |       10 |                64 |     102.08 | Christopher Hilsenbeck   |             80 |
 |             80 | Tyler Morgan       |     100.2  |                64 |       11 |                68 |     102.11 | Clément Clavières        |             80 |
-|             55 | Auguste Cadot      |      88.53 |                28 |       12 |                84 |     112.1  | Jordan Puletua           |             80 |
-|             80 | Joseph Tomane      |      95.63 |                47 |       13 |                46 |      99.74 | Pierre Aguillon          |             79 |
+|             55 | Auguste Cadot      |      88.54 |                28 |       12 |                84 |     112.11 | Jordan Puletua           |             80 |
+|             80 | Joseph Tomane      |      95.63 |                48 |       13 |                46 |      99.74 | Pierre Aguillon          |             79 |
 |             69 | Steeve Barry       |      97.84 |                56 |       14 |                86 |     113.44 | Léo Darrelatour          |             80 |
-|             11 | Joe Jonas          |      95.64 |                49 |       15 |                24 |      86.53 | Baptiste Mouchous        |             70 |
+|             11 | Joe Jonas          |      95.65 |                49 |       15 |                24 |      86.54 | Baptiste Mouchous        |             70 |
 |             69 | Gilles Bosch       |      96.67 |               nan |       16 |                72 |     104.09 | Simon Meka               |             28 |
-|             59 | John Dyer          |      94.86 |                40 |       17 |                66 |     103.52 | Aaron Carroll            |             20 |
+|             59 | John Dyer          |      94.87 |                40 |       17 |                66 |     103.52 | Aaron Carroll            |             20 |
 |             25 | Killian Taofifenua |     104.89 |                81 |       18 |                83 |     106.07 | Jérémy Boyadjis          |             17 |
-|             25 | Quentin Samaran    |      90.6  |                32 |       19 |                47 |      98.25 | Luka Petriashvili        |             15 |
+|             25 | Quentin Samaran    |      90.6  |                32 |       19 |                46 |      98.25 | Luka Petriashvili        |             15 |
 |             25 | Baptiste Erdocio   |      95.19 |                54 |       20 |                 4 |      68.35 | Jules Martinez           |             15 |
-|             25 | Barnabé Couilloud  |      94.56 |                47 |       21 |                24 |      91.52 | Damien Añon              |             10 |
+|             25 | Barnabé Couilloud  |      94.57 |                47 |       21 |                24 |      91.52 | Damien Añon              |             10 |
 |             25 | Francois Vergnaud  |      97.1  |                56 |       22 |                65 |     101.12 | Brieuc Plessis Couillaud |              1 |
 |             11 | Vincent Martin     |      95    |               nan |       23 |               nan |     nan    | nan                      |            nan |
 

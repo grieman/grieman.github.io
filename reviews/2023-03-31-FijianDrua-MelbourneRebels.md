@@ -45,17 +45,17 @@ Melbourne Rebels by 3.9 on a neutral pitch
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
 |             55 | Matt Gibbon         |     114.56 |                92 |        1 |                63 |      98.96 | Emosi Tuqiri            |             49 |
 |             40 | Alex Mafi           |     100.56 |                68 |        2 |                94 |     117.91 | Tevita Ikanivere        |             73 |
-|             55 | Sam Talakai         |      96.37 |                55 |        3 |                46 |      93.93 | Jone Tiko               |             58 |
+|             55 | Sam Talakai         |      96.37 |                54 |        3 |                45 |      93.93 | Jone Tiko               |             58 |
 |             37 | Tuaina Taii Tualima |      94.96 |                48 |        4 |                96 |     127.76 | Isoa Nasilasila         |             53 |
 |             80 | Josh Canham         |     108.79 |                81 |        5 |                90 |     116.49 | Te Ahiwaru Cirikidaveta |             80 |
 |             80 | Josh Kemeny         |      94.29 |                46 |        6 |                22 |      85.86 | Vilive Miramira         |             80 |
-|             80 | Brad Wilkin         |     103.73 |                71 |        7 |                 4 |      71.39 | Kitione Salawa          |             80 |
+|             80 | Brad Wilkin         |     103.74 |                71 |        7 |                 4 |      71.39 | Kitione Salawa          |             80 |
 |             62 | Vaiolini Ekuasi     |      92.59 |                37 |        8 |                79 |     107.34 | Ratu Meli Derenalagi    |             47 |
-|             65 | Ryan Louwrens       |     132.79 |                98 |        9 |                70 |     101.95 | Peni Matawalu           |             67 |
+|             65 | Ryan Louwrens       |     132.79 |                98 |        9 |                71 |     101.95 | Peni Matawalu           |             67 |
 |             80 | Carter Gordon       |     101.55 |                66 |       10 |                76 |     105.83 | Teti Tela               |             80 |
 |             41 | Monty Ioane         |     125.17 |                94 |       11 |                46 |      94.52 | Eroni Sau               |             80 |
 |             44 | Stacey Ili          |     115.9  |                89 |       12 |                99 |     146    | Kalaveti Ravouvou       |             65 |
-|             80 | Reece Hodge         |     106.64 |                76 |       13 |                50 |      95.89 | Iosefo Masi             |             80 |
+|             80 | Reece Hodge         |     106.64 |                76 |       13 |                49 |      95.89 | Iosefo Masi             |             80 |
 |             80 | Lachie Anderson     |      94.47 |                46 |       14 |                26 |      87.4  | Selestino Ravutaumada   |             80 |
 |             80 | Joe Pincus          |     104.71 |                70 |       15 |                67 |     103.29 | Ilaisa Droasese         |             71 |
 |             40 | Jordan Uelese       |      98.32 |                61 |       16 |                39 |      91.4  | Zuriel Togiatama        |              7 |

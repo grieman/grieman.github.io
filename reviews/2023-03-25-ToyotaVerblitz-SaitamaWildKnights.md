@@ -47,7 +47,7 @@ Saitama Wild Knights by 15.7 on a neutral pitch
 |             51 | Atsushi Sakate    |     112.73 |                89 |        2 |                97 |     126.15 | Yoshikatsu Hikosaka      |             70 |
 |             60 | Asaleli Valu      |     109.45 |                81 |        3 |                63 |      98.79 | Runya Choi               |             51 |
 |             65 | Mark Abbott       |      98.8  |                60 |        4 |                50 |      95.84 | Daichi Akiyama           |             80 |
-|             75 | Lodewyk de Jager  |     107.12 |                78 |        5 |                16 |      82.62 | Michael Allardice        |             46 |
+|             75 | Lodewyk de Jager  |     107.12 |                79 |        5 |                16 |      82.62 | Michael Allardice        |             46 |
 |             75 | Shota Fukui       |     115.5  |                88 |        6 |                68 |     102.44 | Pieter Stephanus du Toit |             80 |
 |             80 | Lachlan Boshier   |     117.67 |                90 |        7 |                60 |      99.09 | Kazuki Himeno            |             80 |
 |             80 | Jack Cornelsen    |     107.49 |                78 |        8 |                34 |      91.42 | Lautaimi Fetuani         |             51 |

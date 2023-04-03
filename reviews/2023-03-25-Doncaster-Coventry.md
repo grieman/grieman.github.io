@@ -48,19 +48,19 @@ Coventry by 12.4 on a neutral pitch
 |             45 | Ollie Andrews      |     104.65 |                80 |        3 |               nan |      93.34 | Andrew Foster    |             67 |
 |             80 | James Tyas         |      82.09 |                15 |        4 |                 1 |      49.01 | Ehize Ehizode    |              3 |
 |             80 | Adam Peters        |     115.32 |                87 |        5 |               nan |      91.65 | Theo Vukasinovic |             61 |
-|             80 | Tom Ball           |     121.24 |                92 |        6 |                77 |     106.83 | Sam Hudson       |             80 |
+|             80 | Tom Ball           |     121.23 |                92 |        6 |                77 |     106.83 | Sam Hudson       |             80 |
 |             80 | Josh Bainbridge    |     118.36 |                91 |        7 |                26 |      88.1  | Rhys Tait        |             60 |
-|             57 | Senitiki Nayalo    |     108.54 |                80 |        8 |                30 |      89.86 | John Kelly       |             80 |
-|             80 | Will Chudley       |      95.76 |                50 |        9 |                74 |     103.8  | Alex Dolly       |             72 |
-|             80 | Evan Mitchell      |      83.13 |                14 |       10 |                29 |      89.35 | Sam Olver        |             80 |
-|             80 | James Martin       |      96.1  |                50 |       11 |                87 |     114.1  | Maliq Holden     |             80 |
+|             57 | Senitiki Nayalo    |     108.53 |                80 |        8 |                30 |      89.86 | John Kelly       |             80 |
+|             80 | Will Chudley       |      95.75 |                50 |        9 |                74 |     103.8  | Alex Dolly       |             72 |
+|             80 | Evan Mitchell      |      83.12 |                13 |       10 |                29 |      89.35 | Sam Olver        |             80 |
+|             80 | James Martin       |      96.1  |                50 |       11 |                87 |     114.11 | Maliq Holden     |             80 |
 |             80 | Lucas Titherington |     104.05 |                70 |       12 |                27 |      87.93 | Connor Edwards   |             80 |
-|             80 | Will Rigg          |     104.8  |                72 |       13 |                 8 |      75.67 | Joe Margetts     |             80 |
-|             80 | Will Talbot-Davies |      92.79 |                42 |       14 |                 6 |      71.2  | George Simpson   |             80 |
-|             80 | Louis Brown        |     113.59 |                86 |       15 |                56 |      98.89 | Billy McBryde    |             67 |
-|             35 | James Kenny        |      94.41 |                49 |       16 |                27 |      88.71 | Max Williamson   |             77 |
+|             80 | Will Rigg          |     104.8  |                73 |       13 |                 8 |      75.67 | Joe Margetts     |             80 |
+|             80 | Will Talbot-Davies |      92.78 |                42 |       14 |                 6 |      71.2  | George Simpson   |             80 |
+|             80 | Louis Brown        |     113.59 |                86 |       15 |                57 |      98.89 | Billy McBryde    |             67 |
+|             35 | James Kenny        |      94.5  |                50 |       16 |                27 |      88.71 | Max Williamson   |             77 |
 |             35 | Jake Bridges       |      87.14 |                17 |       17 |                45 |      91.79 | Kai Owen         |             20 |
-|             23 | Rhys Thomas        |     103.19 |                71 |       18 |                55 |      96.32 | Jack Metcalf     |             20 |
+|             23 | Rhys Thomas        |     103.19 |                70 |       18 |                55 |      96.32 | Jack Metcalf     |             20 |
 |             13 | Billy Harding      |      83.74 |               nan |       19 |               nan |      94.79 | Adam Hopkinson   |             19 |
 |            nan | nan                |     nan    |               nan |       20 |                 9 |      78.27 | Karl Garside     |             13 |
 |            nan | nan                |     nan    |               nan |       21 |                 2 |      60.94 | Robbie Smith     |             13 |
