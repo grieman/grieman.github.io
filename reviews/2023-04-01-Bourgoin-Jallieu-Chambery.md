@@ -43,27 +43,27 @@ Bourgoin-Jallieu by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             73 | Géraud Clermont      |      98.56 |                62 |        1 |                62 |      98.58 | Nugzar Somkhishvili      |             52 |
-|             70 | Julien Primault      |      90.47 |                33 |        2 |                36 |      91.27 | Killian Tripier          |             52 |
-|             73 | Giorgi Pertaia       |      99.29 |                64 |        3 |                70 |     100.7  | Maxime Caillet           |             57 |
-|             80 | Steevy Cerqueira     |      95.73 |                51 |        4 |                24 |      87.38 | Jonathan Kpoku           |             62 |
-|             59 | Romain Guyot         |      71.71 |                 6 |        5 |                19 |      84.49 | Robin Gascou             |             55 |
-|             80 | Jean-Baptiste Grenod |     104.57 |                75 |        6 |                84 |     111.62 | Kevin Chaudouard         |             80 |
-|             66 | Colin Lebian         |      86.31 |                21 |        7 |                74 |     104.73 | Bynjamin Rabatel         |             80 |
-|             80 | Thomas Coignat       |     108.75 |                81 |        8 |                50 |      97.67 | Poutasi Luafutu          |             62 |
-|             73 | Thibault Dufau       |     109.39 |                83 |        9 |                68 |     101.49 | Tomas Munilla            |             80 |
-|             70 | Thibault Moreno      |      93.71 |                47 |       10 |                53 |      97.7  | Benjamin Noble           |             62 |
-|             80 | Maewen Sao           |      87.78 |                25 |       11 |                60 |      99.02 | Quentin Lefort           |             80 |
-|             70 | Mickael Blanc        |      86.35 |                23 |       12 |                80 |     108.95 | Isaiah Leota             |             62 |
-|             80 | Victor Pisano        |      85.99 |                21 |       13 |                52 |      96.78 | Christopher Bosch        |             80 |
+|             73 | Géraud Clermont      |      98.57 |                61 |        1 |                61 |      98.58 | Nugzar Somkhishvili      |             52 |
+|             70 | Julien Primault      |      90.48 |                34 |        2 |                37 |      91.27 | Killian Tripier          |             52 |
+|             73 | Giorgi Pertaia       |      99.3  |                65 |        3 |                69 |     100.7  | Maxime Caillet           |             57 |
+|             80 | Steevy Cerqueira     |      95.75 |                50 |        4 |                24 |      87.38 | Jonathan Kpoku           |             62 |
+|             59 | Romain Guyot         |      71.73 |                 6 |        5 |                19 |      84.48 | Robin Gascou             |             55 |
+|             80 | Jean-Baptiste Grenod |     104.6  |                76 |        6 |                84 |     111.62 | Kevin Chaudouard         |             80 |
+|             66 | Colin Lebian         |      86.33 |                21 |        7 |                74 |     104.73 | Bynjamin Rabatel         |             80 |
+|             80 | Thomas Coignat       |     108.76 |                81 |        8 |                50 |      97.66 | Poutasi Luafutu          |             62 |
+|             73 | Thibault Dufau       |     109.4  |                83 |        9 |                68 |     101.6  | Tomas Munilla            |             80 |
+|             70 | Thibault Moreno      |      93.74 |                49 |       10 |                54 |      97.69 | Benjamin Noble           |             62 |
+|             80 | Maewen Sao           |      87.8  |                26 |       11 |                60 |      99.02 | Quentin Lefort           |             80 |
+|             70 | Mickael Blanc        |      86.36 |                23 |       12 |                80 |     108.94 | Isaiah Leota             |             62 |
+|             80 | Victor Pisano        |      86    |                21 |       13 |                51 |      96.78 | Christopher Bosch        |             80 |
 |             80 | Arthur Nennig        |     109.05 |                81 |       14 |                76 |     106.56 | Remi Bouet               |             80 |
-|             80 | Thomas Hecquet       |     109.43 |                84 |       15 |                10 |      75.92 | Nicolas Cachet           |             80 |
-|              7 | Luka Begic           |      86.85 |                25 |       16 |                54 |      98.12 | Romain Favaretto         |             28 |
-|             10 | Enzo Segui           |      96.41 |                50 |       17 |                42 |      92.79 | Maxime Castant           |             28 |
-|              7 | Nail Audoire         |      99.77 |                69 |       18 |                70 |     100.87 | Oktay Yilmaz             |             23 |
+|             80 | Thomas Hecquet       |     109.43 |                85 |       15 |                10 |      75.91 | Nicolas Cachet           |             80 |
+|              7 | Luka Begic           |      86.85 |                24 |       16 |                53 |      98.12 | Romain Favaretto         |             28 |
+|             10 | Enzo Segui           |      96.42 |                49 |       17 |                42 |      92.79 | Maxime Castant           |             28 |
+|              7 | Nail Audoire         |      99.77 |                69 |       18 |                70 |     100.86 | Oktay Yilmaz             |             23 |
 |             21 | Corentin Astier      |     116.21 |                92 |       19 |                60 |      98.73 | Joketani Raikabula Koroi |             18 |
-|             14 | Matheo Triki         |     102.35 |                69 |       20 |                53 |      98.15 | Léandre Cotte            |             25 |
-|              7 | Dylan Nocete         |      88.36 |                26 |       21 |                59 |     101.93 | Théo Lepage              |             18 |
-|             10 | Jules Dorrival       |      85.55 |                21 |       22 |                53 |      93.47 | Romain Sola              |             18 |
-|             10 | Aviata Silago        |      86.57 |                24 |       23 |                29 |      88.9  | Pablo Patilla            |             18 |
+|             14 | Matheo Triki         |     102.34 |                68 |       20 |                53 |      98.15 | Léandre Cotte            |             25 |
+|              7 | Dylan Nocete         |      88.37 |                27 |       21 |                59 |     101.92 | Théo Lepage              |             18 |
+|             10 | Jules Dorrival       |      85.55 |                21 |       22 |                52 |      93.47 | Romain Sola              |             18 |
+|             10 | Aviata Silago        |      85.57 |                21 |       23 |                29 |      88.89 | Pablo Patilla            |             18 |
 

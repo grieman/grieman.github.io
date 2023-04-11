@@ -43,27 +43,27 @@ Blagnac by 9.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             40 | Jean-Baptiste Martin |      88.11 |                19 |        1 |                58 |      97.44 | Geoffrey Moise        |             45 |
-|             55 | Gabin Villerouge     |     108.41 |                87 |        2 |                35 |      90.94 | Christophe David      |             63 |
+|             40 | Jean-Baptiste Martin |      88.11 |                19 |        1 |                57 |      97.45 | Geoffrey Moise        |             45 |
+|             55 | Gabin Villerouge     |     108.41 |                87 |        2 |                36 |      90.96 | Christophe David      |             63 |
 |             80 | Marc Ruiz            |      95    |               nan |        3 |                39 |      92.37 | Levi Tikoipau         |             42 |
-|             80 | Vincent Mutel        |     116.4  |                90 |        4 |                26 |      88.2  | Morgan Maga           |             80 |
-|             80 | Lucas Tolofua        |      68.13 |                 2 |        5 |                84 |     107.57 | Mauro Rebussone       |             55 |
-|             40 | Alexandre Perrin     |      99.23 |                63 |        6 |                16 |      83.96 | Arthur Christienne    |             80 |
-|             80 | Ianis Ponsole        |     106.57 |                77 |        7 |                38 |      91.64 | Paul Belzons          |             80 |
-|             40 | Nekolo Tolofua       |      90.32 |                32 |        8 |                 4 |      71.06 | Flavien Nouhaillaguet |             42 |
-|             80 | Paul Ravier          |     108.89 |                77 |        9 |                53 |      92.23 | Pablo Barbaste        |             63 |
-|             40 | Antoine Renaud       |      73.51 |                 7 |       10 |                 9 |      78.39 | Tom Chauvet           |             80 |
-|             80 | Dorian Terrou        |     109.96 |                82 |       11 |                29 |      88.85 | Pierre-Hugo Ducom     |             46 |
-|             80 | Clément Vareilles    |     105.23 |                74 |       12 |                83 |     111.05 | José Lima             |             56 |
-|             44 | Lukas Doyhenard      |      85.34 |                18 |       13 |                25 |      86.81 | Sébastien Giorgis     |             80 |
-|             55 | Francois Tardieu     |      83.43 |                17 |       14 |                12 |      79.92 | Baptiste Tsague       |             80 |
-|             80 | Jean-Andre Vernetti  |     122.75 |                94 |       15 |                25 |      87.29 | Paul Auradou          |             80 |
-|             40 | Alexis Decaux        |     104.18 |                79 |       16 |                93 |     113.48 | Théo Castinel         |             35 |
+|             80 | Vincent Mutel        |     116.39 |                90 |        4 |                26 |      88.2  | Morgan Maga           |             80 |
+|             80 | Lucas Tolofua        |      68.12 |                 2 |        5 |                84 |     107.57 | Mauro Rebussone       |             55 |
+|             40 | Alexandre Perrin     |      99.22 |                63 |        6 |                16 |      83.98 | Arthur Christienne    |             80 |
+|             80 | Ianis Ponsole        |     106.57 |                77 |        7 |                38 |      91.66 | Paul Belzons          |             80 |
+|             40 | Nekolo Tolofua       |      90.31 |                31 |        8 |                 4 |      71.05 | Flavien Nouhaillaguet |             42 |
+|             80 | Paul Ravier          |     108.88 |                77 |        9 |                53 |      92.23 | Pablo Barbaste        |             63 |
+|             40 | Antoine Renaud       |      73.51 |                 7 |       10 |                 9 |      78.41 | Tom Chauvet           |             80 |
+|             80 | Dorian Terrou        |     109.96 |                83 |       11 |                29 |      88.87 | Pierre-Hugo Ducom     |             46 |
+|             80 | Clément Vareilles    |     105.22 |                74 |       12 |                83 |     110.94 | José Lima             |             56 |
+|             44 | Lukas Doyhenard      |      85.34 |                18 |       13 |                24 |      86.83 | Sébastien Giorgis     |             80 |
+|             55 | Francois Tardieu     |      83.42 |                17 |       14 |                12 |      79.92 | Baptiste Tsague       |             80 |
+|             80 | Jean-Andre Vernetti  |     122.74 |                93 |       15 |                25 |      87.29 | Paul Auradou          |             80 |
+|             40 | Alexis Decaux        |     104.17 |                78 |       16 |                93 |     113.49 | Théo Castinel         |             35 |
 |             25 | Leeroy Cloostermans  |     118.41 |                94 |       17 |               nan |      93.7  | Gabriel Atlan         |             17 |
-|             40 | Benjamin Collet      |      96.91 |                53 |       18 |                38 |      84.07 | Matthieu Loudet       |             38 |
-|             40 | Lilian Rousset       |     107.2  |                79 |       19 |                24 |      87.42 | Mohamed Kbaier        |             25 |
-|             40 | Valentin Delpy       |     101.02 |                65 |       20 |                70 |     100.66 | Luke Nakobukobua      |             38 |
-|             36 | Aurelien Labau       |      96.48 |                51 |       21 |                36 |      91.27 | Christopher Kaiser    |             17 |
-|             25 | Lucas Martins        |      91.92 |                39 |       22 |                63 |      99.44 | Pierre Nueno          |             34 |
+|             40 | Benjamin Collet      |      96.91 |                53 |       18 |                37 |      84.08 | Matthieu Loudet       |             38 |
+|             40 | Lilian Rousset       |     107.19 |                79 |       19 |                24 |      87.43 | Mohamed Kbaier        |             25 |
+|             40 | Valentin Delpy       |     101.01 |                65 |       20 |                70 |     100.67 | Luke Nakobukobua      |             38 |
+|             36 | Aurelien Labau       |      96.47 |                50 |       21 |                37 |      91.27 | Christopher Kaiser    |             17 |
+|             25 | Lucas Martins        |      91.92 |                39 |       22 |                63 |      99.46 | Pierre Nueno          |             34 |
 |            nan | nan                  |     nan    |               nan |       23 |                13 |      80.24 | Étienne Ducom         |             24 |
 

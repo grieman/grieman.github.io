@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.887, which translates to predicting Jersey to win by 18.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.883, which translates to predicting Jersey to win by 17.9.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Jersey by 13.8
+## Prediction with Player Minutes: Jersey by 12.8
 
 
-Jersey by 9.8 on a neutral field
+Jersey by 8.8 on a neutral field
 
-There were 4 large changes in win probability in this match
-## Prediction without Player Minutes: Jersey by 7.8
+There were 3 large changes in win probability in this match
+## Prediction without Player Minutes: Jersey by 6.9
 
 
-Jersey by 3.8 on a neutral pitch
+Jersey by 2.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             47 | Aniseko Sio               |      95.73 |                52 |        1 |                91 |     114.72 | Samuel Alexander Grahamslaw |             50 |
-|             47 | Archie Vanes              |      75.83 |                 8 |        2 |                17 |      86.64 | James Hadfield              |             50 |
-|             47 | Dan Richardson            |     101.9  |                67 |        3 |                56 |     100.13 | Adam Nicol                  |             50 |
-|             40 | Callum Allen              |     113.02 |                88 |        4 |                22 |      86.52 | Tom Everard                 |             50 |
-|             80 | Iosefa Danny Wayne Fiaola |     104.63 |                75 |        5 |                38 |      94.16 | James Scott                 |             58 |
-|             80 | Carl Kirwan               |     106.06 |                76 |        6 |                67 |      99.6  | James Andrew Dun            |             80 |
-|             54 | Nathan Tweedy             |     125.28 |                94 |        7 |               nan |      96.73 | Josh Gray                   |             80 |
-|             80 | George Cox                |      92.92 |                37 |        8 |                39 |      93.2  | Alun Lawrence               |             80 |
-|             54 | Micheal Stronge           |      97.65 |                55 |        9 |                80 |     107.7  | James Mitchell              |             54 |
-|             80 | Morgan Bunting            |      89.44 |                27 |       10 |                48 |      98.4  | Russell Bennett             |             80 |
-|             53 | Tayie Ryan Olowofela      |     110.97 |                83 |       11 |                93 |     122.33 | Will Brown                  |             80 |
-|             80 | Javiah Pohe               |      77.33 |                 9 |       12 |                40 |      92.39 | Jordan Holgate              |             40 |
-|             80 | Michael Green             |      81.48 |                10 |       13 |                55 |      98    | Charlie Powell              |             80 |
-|             80 | David Williams            |      92.75 |                41 |       14 |                 6 |      74.52 | Ryan Hutler                 |              4 |
-|             63 | Jordan Kehinde Olowofela  |      94.56 |                47 |       15 |                77 |     106.77 | Tomi Lewis                  |             80 |
-|             40 | Jack Shine                |      95.21 |                40 |       16 |                67 |     101.65 | Ben Woollett                |             76 |
-|             33 | Toby Williams             |      70.7  |                 3 |       17 |                97 |     129.26 | Dan Barnes                  |             40 |
-|             33 | Jack Dickinson            |     102.99 |                64 |       18 |                66 |     102.53 | Brendan Owen                |             30 |
-|             33 | Xavier Valentine          |      95.21 |                50 |       19 |                88 |     111.38 | Eoghan Clarke               |             30 |
-|             27 | Harry Graham              |      97.99 |                56 |       20 |                93 |     115.95 | Steven Longwell             |             30 |
-|             26 | Josh Poullet              |      84.1  |                17 |       21 |                94 |     123.48 | Sean O'Connor               |             30 |
-|             26 | Josh Goodwin              |      93.63 |               nan |       22 |                 2 |      64.35 | James Elliott               |             26 |
-|             17 | Sam Hollingsworth         |      89.4  |                29 |       23 |                51 |      96.48 | Max Argyle                  |             22 |
+|             47 | Aniseko Sio               |      95.33 |                50 |        1 |                91 |     114.95 | Samuel Alexander Grahamslaw |             50 |
+|             47 | Archie Vanes              |      78.19 |                10 |        2 |                17 |      86.74 | James Hadfield              |             50 |
+|             47 | Dan Richardson            |     102.59 |                70 |        3 |                56 |     100.53 | Adam Nicol                  |             50 |
+|             40 | Callum Allen              |     115.14 |                89 |        4 |                22 |      86.42 | Tom Everard                 |             50 |
+|             80 | Iosefa Danny Wayne Fiaola |     104.05 |                75 |        5 |                36 |      93.71 | James Scott                 |             58 |
+|             80 | Carl Kirwan               |     109.35 |                81 |        6 |                65 |      99.17 | James Andrew Dun            |             80 |
+|             54 | Nathan Tweedy             |     122.1  |                93 |        7 |               nan |      96.55 | Josh Gray                   |             80 |
+|             80 | George Cox                |      95.65 |                44 |        8 |                39 |      93.93 | Alun Lawrence               |             80 |
+|             54 | Micheal Stronge           |      98.14 |                57 |        9 |                80 |     108.01 | James Mitchell              |             54 |
+|             80 | Morgan Bunting            |      93.73 |                37 |       10 |                49 |      98.36 | Russell Bennett             |             80 |
+|             53 | Tayie Ryan Olowofela      |     107.5  |                79 |       11 |                93 |     122.12 | Will Brown                  |             80 |
+|             80 | Javiah Pohe               |      76.24 |                 9 |       12 |                41 |      92.5  | Jordan Holgate              |             40 |
+|             80 | Michael Green             |      84.74 |                13 |       13 |                53 |      97.54 | Charlie Powell              |             80 |
+|             80 | David Williams            |      92.17 |                40 |       14 |                 5 |      73.68 | Ryan Hutler                 |              4 |
+|             63 | Jordan Kehinde Olowofela  |      91.98 |                41 |       15 |                78 |     106.89 | Tomi Lewis                  |             80 |
+|             40 | Jack Shine                |      98.03 |                47 |       16 |                68 |     102.1  | Ben Woollett                |             76 |
+|             33 | Toby Williams             |      71    |                 4 |       17 |                97 |     128.67 | Dan Barnes                  |             40 |
+|             33 | Jack Dickinson            |      99.86 |                53 |       18 |                66 |     102.47 | Brendan Owen                |             30 |
+|             33 | Xavier Valentine          |      98.69 |                62 |       19 |                87 |     111.12 | Eoghan Clarke               |             30 |
+|             27 | Harry Graham              |      97.2  |                54 |       20 |                93 |     115.46 | Steven Longwell             |             30 |
+|             26 | Josh Poullet              |      82.64 |                15 |       21 |                94 |     123.56 | Sean O'Connor               |             30 |
+|             26 | Josh Goodwin              |      94.49 |               nan |       22 |                 2 |      64.06 | James Elliott               |             26 |
+|             17 | Sam Hollingsworth         |      93.13 |                41 |       23 |                52 |      96.76 | Max Argyle                  |             22 |
 

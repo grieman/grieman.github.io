@@ -44,26 +44,26 @@ Albi by 13.0 on a neutral pitch
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
 |             52 | Alexandre Combier         |      78.34 |                11 |        1 |                63 |      98.82 | Pierre Commenge             |             51 |
-|             46 | Enzo Mondon               |     103.56 |                77 |        2 |                77 |     104.24 | Arthur Castant              |             59 |
-|             48 | Alexandre Duny            |      77.91 |                10 |        3 |                68 |      97.67 | Dimitri Tchapnga            |             79 |
-|             80 | Paul Sajous               |      63.55 |                 4 |        4 |                74 |     103.63 | Mohsen Essid                |             80 |
+|             46 | Enzo Mondon               |     103.56 |                76 |        2 |                77 |     104.24 | Arthur Castant              |             59 |
+|             48 | Alexandre Duny            |      77.9  |                10 |        3 |                68 |      97.66 | Dimitri Tchapnga            |             79 |
+|             80 | Paul Sajous               |      63.55 |                 4 |        4 |                75 |     103.63 | Mohsen Essid                |             80 |
 |             80 | Léo Saint-Guilhem         |      99.19 |                60 |        5 |                43 |      93.28 | John Henry Heath Backhouse  |             51 |
-|             52 | Mattéo Coustalat          |      98.46 |                58 |        6 |                61 |      99.69 | Pierre Roussel              |             67 |
-|             52 | Aurelien Ricart           |      93.49 |                43 |        7 |                26 |      86.3  | Vincent Calas               |             61 |
-|             80 | Loan Real                 |      85.39 |                27 |        8 |                69 |     102.66 | Camille Jarreau             |             80 |
-|             67 | Thibaut Dulucq            |      80.99 |                12 |        9 |                19 |      85.45 | Gilen Queheille             |             51 |
-|             80 | Anthony  Fuertes          |      96.13 |                48 |       10 |                88 |     117.74 | Benjamin Pehau              |             80 |
+|             52 | Mattéo Coustalat          |      98.45 |                57 |        6 |                62 |      99.69 | Pierre Roussel              |             67 |
+|             52 | Aurelien Ricart           |      93.49 |                43 |        7 |                25 |      86.29 | Vincent Calas               |             61 |
+|             80 | Loan Real                 |      85.39 |                27 |        8 |                69 |     102.65 | Camille Jarreau             |             80 |
+|             67 | Thibaut Dulucq            |      80.99 |                12 |        9 |                19 |      85.44 | Gilen Queheille             |             51 |
+|             80 | Anthony  Fuertes          |      96.13 |                49 |       10 |                89 |     117.74 | Benjamin Pehau              |             80 |
 |             80 | Jonathan Duffau           |     104.93 |                74 |       11 |                74 |     104.87 | Louis Decrop                |             80 |
-|             80 | Josaia Vakacegu           |      89.69 |                32 |       12 |                44 |      94.4  | François Fontaine           |             80 |
-|             59 | Alofa Alofa               |      88.35 |                28 |       13 |                23 |      86.07 | Wandile Gabada  Mjekevu     |             80 |
-|             53 | Johan Paulet              |      83.42 |                16 |       14 |               nan |      95    | Luca Sperandio              |             80 |
-|             80 | William Pees              |      97.11 |                52 |       15 |                67 |     103.37 | Téo Dospital                |             74 |
+|             80 | Josaia Vakacegu           |      89.68 |                31 |       12 |                44 |      94.4  | François Fontaine           |             80 |
+|             59 | Alofa Alofa               |      88.35 |                27 |       13 |                22 |      86.07 | Wandile Gabada  Mjekevu     |             80 |
+|             53 | Johan Paulet              |      83.41 |                16 |       14 |               nan |      95    | Luca Sperandio              |             80 |
+|             80 | William Pees              |      97.1  |                52 |       15 |                67 |     103.37 | Téo Dospital                |             74 |
 |             28 | Antoine Palisse           |      87.54 |                22 |       16 |                11 |      78.13 | Maxime Escur                |             29 |
-|             34 | Johan Mees Erasmus        |      96.74 |                66 |       17 |                52 |      94.72 | Romain Maurice              |             21 |
+|             34 | Johan Mees Erasmus        |      96.74 |                66 |       17 |                54 |      94.72 | Romain Maurice              |             21 |
 |             32 | Mariano Ezequiel Filomeno |      90.23 |                30 |       18 |                23 |      87.32 | Kevin Brou                  |              1 |
-|             28 | Willem Leon Massyn        |      85.2  |                19 |       19 |                56 |      97.67 | Jacques Jacobus Engelbrecht |             29 |
-|             28 | Léo Estaque               |      93.97 |               nan |       20 |                64 |      98.63 | Luke Joseph Stringer        |             13 |
-|             13 | Alexis Levron             |      86.28 |                29 |       21 |                89 |     115.71 | Lucas Guillaume             |             19 |
-|             21 | Julien Cantan             |      87.85 |                32 |       22 |                21 |      85.18 | Titouan Pouzoullic          |             29 |
-|             27 | Thibaut Trotta            |      79.03 |                18 |       23 |                82 |     107.51 | Paul Clergue                |              6 |
+|             28 | Willem Leon Massyn        |      85.19 |                19 |       19 |                56 |      97.66 | Jacques Jacobus Engelbrecht |             29 |
+|             28 | Léo Estaque               |      93.97 |               nan |       20 |                64 |      98.62 | Luke Joseph Stringer        |             13 |
+|             13 | Alexis Levron             |      86.42 |                29 |       21 |                89 |     115.71 | Lucas Guillaume             |             19 |
+|             21 | Julien Cantan             |      87.85 |                31 |       22 |                21 |      85.18 | Titouan Pouzoullic          |             29 |
+|             27 | Thibaut Trotta            |      79.03 |                18 |       23 |                83 |     107.5  | Paul Clergue                |              6 |
 

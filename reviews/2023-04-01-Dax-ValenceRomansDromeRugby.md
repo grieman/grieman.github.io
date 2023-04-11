@@ -43,27 +43,27 @@ Valence Romans Drome Rugby by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             54 | Anthony Aléo                  |      94.74 |                27 |        1 |                76 |     106.66 | Louis Mary           |             48 |
+|             54 | Anthony Aléo                  |      94.74 |                28 |        1 |                77 |     106.66 | Louis Mary           |             48 |
 |             52 | Yanis Gimenez                 |     109.69 |                81 |        2 |                66 |      99.34 | Louis Barrere        |             48 |
-|             44 | Kevin Goze                    |     104.71 |               nan |        3 |                19 |      86.55 | Diogo Hasse Ferreira |             48 |
-|             80 | François Uys                  |     100.87 |                62 |        4 |                35 |      92.17 | Étienne Loiret       |             80 |
-|             52 | Darrell Dyer                  |     125.05 |                95 |        5 |                84 |     111.21 | Yoan Gaune           |             48 |
-|             80 | Axel Bruchet                  |      61.33 |                 2 |        6 |                76 |     106.03 | Arnaud Aletti        |             54 |
+|             44 | Kevin Goze                    |     104.71 |               nan |        3 |                20 |      86.62 | Diogo Hasse Ferreira |             48 |
+|             80 | François Uys                  |     100.87 |                62 |        4 |                34 |      92.18 | Étienne Loiret       |             80 |
+|             52 | Darrell Dyer                  |     125.04 |                95 |        5 |                84 |     111.22 | Yoan Gaune           |             48 |
+|             80 | Axel Bruchet                  |      61.33 |                 2 |        6 |                76 |     106.04 | Arnaud Aletti        |             54 |
 |             61 | Sven Bernat Girlando          |     108.96 |                76 |        7 |                88 |     115.64 | Paul Arnaud Ausset   |             80 |
-|             80 | Ioane Iashagashvili           |     107.04 |                77 |        8 |                13 |      80.01 | Brice Ferrer         |             80 |
+|             80 | Ioane Iashagashvili           |     107.03 |                78 |        8 |                12 |      80.12 | Brice Ferrer         |             80 |
 |             80 | Tim Menzel                    |      79.79 |                11 |        9 |                36 |      91.2  | Simon Garrouteigt    |             80 |
 |             80 | Joris Moura                   |     119.69 |                89 |       10 |                53 |      97.62 | Hugo Cerisier        |             80 |
-|             80 | Mason Emerson                 |     110.87 |                83 |       11 |                83 |     110.96 | Théo Gatelier        |             80 |
-|             48 | Akuila Joeli Tabualevu        |     104.58 |                73 |       12 |                40 |      92.4  | Ilikena Bolakoro     |             59 |
-|             80 | Charles Bouldoire             |     106.19 |                71 |       13 |                73 |     104.44 | Rodrigo Marta        |             80 |
-|             80 | Adam Vargas                   |     110.45 |                82 |       14 |                93 |     122.8  | Guillaume Bouche     |             57 |
+|             80 | Mason Emerson                 |     110.87 |                83 |       11 |                84 |     110.95 | Théo Gatelier        |             80 |
+|             48 | Akuila Joeli Tabualevu        |     104.58 |                72 |       12 |                40 |      92.41 | Ilikena Bolakoro     |             59 |
+|             80 | Charles Bouldoire             |     106.19 |                71 |       13 |                72 |     104.35 | Rodrigo Marta        |             80 |
+|             80 | Adam Vargas                   |     110.44 |                83 |       14 |                93 |     122.81 | Guillaume Bouche     |             57 |
 |             44 | Quentin Gobet                 |     106.72 |                74 |       15 |                85 |     112.47 | Théo Duprat          |             70 |
 |             26 | Sami Zouhair                  |     138.68 |                99 |       16 |                98 |     132.75 | Elvis Levi           |             32 |
 |             28 | Mehdi Boundjema               |      95    |               nan |       17 |                25 |      88.38 | Joaquin Rodon        |             32 |
 |             36 | John Henry Fincham            |     103.66 |                77 |       18 |                 2 |      69.97 | Thibaud Dréan        |             32 |
-|             28 | John Adriaan (Ian) Groenewald |      94.3  |               nan |       19 |                40 |      92.28 | Matt Luamanu         |             32 |
-|             19 | Charles Brayer                |      69.54 |                 5 |       20 |                26 |      88.11 | Diaby Doucouré       |             26 |
+|             28 | John Adriaan (Ian) Groenewald |      94.3  |               nan |       19 |                39 |      92.29 | Matt Luamanu         |             32 |
+|             19 | Charles Brayer                |      69.54 |                 6 |       20 |                27 |      88.1  | Diaby Doucouré       |             26 |
 |             32 | Anatole Pauvert               |      82.54 |                15 |       21 |                75 |     105.66 | Sylvère Reteau       |             21 |
-|             36 | Lucas Méret                   |     103.21 |                61 |       22 |                29 |      90.27 | Julien Dechavanne    |             23 |
-|            nan | nan                           |     nan    |               nan |       23 |                11 |      80.57 | Gaëtan Robert        |             10 |
+|             36 | Lucas Méret                   |     103.21 |                61 |       22 |                30 |      90.28 | Julien Dechavanne    |             23 |
+|            nan | nan                           |     nan    |               nan |       23 |                12 |      80.57 | Gaëtan Robert        |             10 |
 
