@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby Status"  
-date: 2023-04-11 6:00:00 -0500  
+date: 2023-04-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| San Diego Legion       |                   9 |    8   |                 96.8 |                   0.8 |                4.9 |                 38   |
-| Seattle Seawolves      |                   9 |    6.5 |                 63.8 |                   1.6 |                4.4 |                 32.7 |
-| New England Free Jacks |                   9 |    6.4 |                 41.7 |                   1.7 |                4.1 |                 32.1 |
-| Rugby ATL              |                   9 |    5.5 |                 39.5 |                   2.3 |                4.5 |                 29.4 |
-| Rugby New York         |                   9 |    5.2 |                 27.7 |                   2.1 |                4.3 |                 28   |
-| NOLA Gold              |                   9 |    5.1 |                 19.7 |                   2.3 |                3.9 |                 27.2 |
-| Houston SaberCats      |                   9 |    4.7 |                 23.7 |                   2.3 |                4.8 |                 26.6 |
-| Utah Warriors          |                   9 |    4.5 |                 13.8 |                   2.7 |                3.8 |                 25.2 |
-| Old Glory DC           |                   9 |    3.2 |                -16.6 |                   3.5 |                3.4 |                 20.3 |
-| Toronto Arrows         |                   9 |    1.7 |                -51.4 |                   3.4 |                2.4 |                 13.3 |
-| Dallas Jackals         |                   9 |    0.9 |               -121.5 |                   1.3 |                1.7 |                  7   |
-| Chicago Hounds         |                   9 |    0.7 |               -137.1 |                   1.2 |                1.1 |                  5.3 |
+| San Diego Legion       |                   9 |    8   |                 97.5 |                   0.7 |                4.9 |                 38.1 |
+| Seattle Seawolves      |                   9 |    6.6 |                 64.7 |                   1.6 |                4.4 |                 32.8 |
+| New England Free Jacks |                   9 |    6.5 |                 41.2 |                   1.7 |                4.2 |                 32.4 |
+| Rugby ATL              |                   9 |    5.5 |                 39   |                   2.4 |                4.4 |                 29.2 |
+| Rugby New York         |                   9 |    5.3 |                 29.2 |                   2.1 |                4.3 |                 28.3 |
+| NOLA Gold              |                   9 |    5.1 |                 20.1 |                   2.2 |                4   |                 27.3 |
+| Houston SaberCats      |                   9 |    4.7 |                 25.6 |                   2.4 |                4.9 |                 26.7 |
+| Utah Warriors          |                   9 |    4.4 |                 11.5 |                   2.7 |                3.8 |                 24.9 |
+| Old Glory DC           |                   9 |    3.1 |                -18   |                   3.5 |                3.4 |                 20   |
+| Toronto Arrows         |                   9 |    1.7 |                -52   |                   3.4 |                2.5 |                 13.2 |
+| Dallas Jackals         |                   9 |    1   |               -120.4 |                   1.4 |                1.8 |                  7.1 |
+| Chicago Hounds         |                   9 |    0.6 |               -138.4 |                   1.3 |                1.1 |                  5.1 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| San Diego Legion       |              16 |   14   |                196.8 |                   1.8 |                nan |                 67   |
-| Seattle Seawolves      |              16 |   12.5 |                140.8 |                   2.6 |                nan |                 58.7 |
-| New England Free Jacks |              16 |   11.4 |                 77.7 |                   2.7 |                nan |                 56.1 |
-| Houston SaberCats      |              16 |    9.7 |                 81.7 |                   3.3 |                nan |                 51.6 |
-| Utah Warriors          |              16 |    9.5 |                 22.8 |                   2.7 |                nan |                 47.2 |
-| Rugby New York         |              16 |    9.2 |                 47.7 |                   2.1 |                nan |                 46   |
-| Rugby ATL              |              16 |    8.5 |                 13.5 |                   3.3 |                nan |                 44.4 |
-| NOLA Gold              |              16 |    8.1 |                 12.7 |                   3.3 |                nan |                 43.2 |
-| Old Glory DC           |              16 |    5.2 |                -37.6 |                   5.5 |                nan |                 33.3 |
-| Toronto Arrows         |              16 |    2.7 |               -152.4 |                   6.4 |                nan |                 20.3 |
-| Dallas Jackals         |              16 |    1.9 |               -197.5 |                   3.3 |                nan |                 15   |
-| Chicago Hounds         |              16 |    1.7 |               -206.1 |                   3.2 |                nan |                 11.3 |
+| San Diego Legion       |              16 |   14   |                197.5 |                   1.7 |                nan |                 67.1 |
+| Seattle Seawolves      |              16 |   12.6 |                141.7 |                   2.6 |                nan |                 58.8 |
+| New England Free Jacks |              16 |   11.5 |                 77.2 |                   2.7 |                nan |                 56.4 |
+| Houston SaberCats      |              16 |    9.7 |                 83.6 |                   3.4 |                nan |                 51.7 |
+| Utah Warriors          |              16 |    9.4 |                 20.5 |                   2.7 |                nan |                 46.9 |
+| Rugby New York         |              16 |    9.3 |                 49.2 |                   2.1 |                nan |                 46.3 |
+| Rugby ATL              |              16 |    8.5 |                 13   |                   3.4 |                nan |                 44.2 |
+| NOLA Gold              |              16 |    8.1 |                 13.1 |                   3.2 |                nan |                 43.3 |
+| Old Glory DC           |              16 |    5.1 |                -39   |                   5.5 |                nan |                 33   |
+| Toronto Arrows         |              16 |    2.7 |               -153   |                   6.4 |                nan |                 20.2 |
+| Dallas Jackals         |              16 |    2   |               -196.4 |                   3.4 |                nan |                 15.1 |
+| Chicago Hounds         |              16 |    1.6 |               -207.4 |                   3.3 |                nan |                 11.1 |
 
 
 
@@ -77,15 +77,15 @@ aside:
 
 |                        | Reach Playoffs   | Reach Conference Championship   | Reach Final   | Win Final   |
 |:-----------------------|:-----------------|:--------------------------------|:--------------|:------------|
-| San Diego Legion       | 100.0 %          | 99.2 %                          | 82.2 %        | 73.2 %      |
-| Seattle Seawolves      | 97.2 %           | 82.8 %                          | 16.4 %        | 15.1 %      |
-| New England Free Jacks | 99.1 %           | 94.9 %                          | 77.1 %        | 8.6 %       |
-| Rugby New York         | 79.3 %           | 48.2 %                          | 11.7 %        | 1.0 %       |
-| Houston SaberCats      | 76.0 %           | 13.8 %                          | 1.2 %         | 1.0 %       |
-| Rugby ATL              | 64.2 %           | 35.1 %                          | 8.9 %         | 0.8 %       |
-| Utah Warriors          | 26.8 %           | 4.2 %                           | 0.2 %         | 0.2 %       |
-| NOLA Gold              | 51.7 %           | 20.5 %                          | 2.2 %         | 0.1 %       |
-| Old Glory DC           | 5.7 %            | 1.3 %                           | 0.1 %         | 0.0 %       |
+| San Diego Legion       | 100.0 %          | 99.2 %                          | 83.7 %        | 74.7 %      |
+| Seattle Seawolves      | 97.3 %           | 81.2 %                          | 14.3 %        | 12.7 %      |
+| New England Free Jacks | 99.4 %           | 95.2 %                          | 76.3 %        | 8.4 %       |
+| Houston SaberCats      | 79.1 %           | 14.8 %                          | 1.5 %         | 1.3 %       |
+| Rugby ATL              | 60.3 %           | 35.8 %                          | 8.8 %         | 1.2 %       |
+| Rugby New York         | 81.0 %           | 49.5 %                          | 12.1 %        | 1.1 %       |
+| Utah Warriors          | 23.6 %           | 4.8 %                           | 0.5 %         | 0.5 %       |
+| NOLA Gold              | 55.1 %           | 18.6 %                          | 2.3 %         | 0.1 %       |
+| Old Glory DC           | 4.2 %            | 0.9 %                           | 0.5 %         | 0.0 %       |
 
 
 
@@ -148,7 +148,7 @@ aside:
 ### Toronto Arrows V New England Free Jacks on 2023/04/15
 
 
-Average Margin: New England Free Jacks by 6.4
+Average Margin: New England Free Jacks by 6.1
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_New England Free Jacks_9.png" width="32%" />
@@ -170,7 +170,7 @@ Average Margin: NOLA Gold by 1.3
 ### Old Glory DC V Rugby New York on 2023/04/16
 
 
-Average Margin: Rugby New York by 1.1
+Average Margin: Rugby New York by 1.8
 
 <p float="left">
 <img src="plots/performances_Old Glory DC_V_Rugby New York_9.png" width="32%" />
@@ -181,7 +181,7 @@ Average Margin: Rugby New York by 1.1
 ### Houston SaberCats V Dallas Jackals on 2023/04/15
 
 
-Average Margin: Houston SaberCats by 18.4
+Average Margin: Houston SaberCats by 18.8
 
 <p float="left">
 <img src="plots/performances_Houston SaberCats_V_Dallas Jackals_9.png" width="32%" />
@@ -192,7 +192,7 @@ Average Margin: Houston SaberCats by 18.4
 ### Utah Warriors V Seattle Seawolves on 2023/04/15
 
 
-Average Margin: Seattle Seawolves by 1.2
+Average Margin: Seattle Seawolves by 1.6
 
 <p float="left">
 <img src="plots/performances_Utah Warriors_V_Seattle Seawolves_9.png" width="32%" />
@@ -203,7 +203,7 @@ Average Margin: Seattle Seawolves by 1.2
 ### San Diego Legion V Chicago Hounds on 2023/04/16
 
 
-Average Margin: San Diego Legion by 23.9
+Average Margin: San Diego Legion by 24.5
 
 <p float="left">
 <img src="plots/performances_San Diego Legion_V_Chicago Hounds_9.png" width="32%" />
@@ -216,7 +216,7 @@ Average Margin: San Diego Legion by 23.9
 ### New England Free Jacks V Rugby ATL on 2023/04/22
 
 
-Average Margin: New England Free Jacks by 5.3
+Average Margin: New England Free Jacks by 5.4
 
 <p float="left">
 <img src="plots/performances_New England Free Jacks_V_Rugby ATL_10.png" width="32%" />
@@ -227,7 +227,7 @@ Average Margin: New England Free Jacks by 5.3
 ### Old Glory DC V Utah Warriors on 2023/04/22
 
 
-Average Margin: Old Glory DC by 0.5
+Average Margin: Old Glory DC by 0.2
 
 <p float="left">
 <img src="plots/performances_Old Glory DC_V_Utah Warriors_10.png" width="32%" />
@@ -238,7 +238,7 @@ Average Margin: Old Glory DC by 0.5
 ### Rugby New York V Houston SaberCats on 2023/04/23
 
 
-Average Margin: Rugby New York by 3.8
+Average Margin: Rugby New York by 4.0
 
 <p float="left">
 <img src="plots/performances_Rugby New York_V_Houston SaberCats_10.png" width="32%" />
@@ -249,7 +249,7 @@ Average Margin: Rugby New York by 3.8
 ### Toronto Arrows V Seattle Seawolves on 2023/04/23
 
 
-Average Margin: Seattle Seawolves by 7.1
+Average Margin: Seattle Seawolves by 7.2
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_Seattle Seawolves_10.png" width="32%" />
@@ -260,7 +260,7 @@ Average Margin: Seattle Seawolves by 7.1
 ### Chicago Hounds V NOLA Gold on 2023/04/22
 
 
-Average Margin: NOLA Gold by 10.1
+Average Margin: NOLA Gold by 10.5
 
 <p float="left">
 <img src="plots/performances_Chicago Hounds_V_NOLA Gold_10.png" width="32%" />
@@ -271,7 +271,7 @@ Average Margin: NOLA Gold by 10.1
 ### Dallas Jackals V San Diego Legion on 2023/04/22
 
 
-Average Margin: San Diego Legion by 17.9
+Average Margin: San Diego Legion by 17.6
 
 <p float="left">
 <img src="plots/performances_Dallas Jackals_V_San Diego Legion_10.png" width="32%" />
@@ -284,7 +284,7 @@ Average Margin: San Diego Legion by 17.9
 ### NOLA Gold V Toronto Arrows on 2023/04/30
 
 
-Average Margin: NOLA Gold by 8.3
+Average Margin: NOLA Gold by 8.6
 
 <p float="left">
 <img src="plots/performances_NOLA Gold_V_Toronto Arrows_11.png" width="32%" />
@@ -295,7 +295,7 @@ Average Margin: NOLA Gold by 8.3
 ### New England Free Jacks V Rugby New York on 2023/04/30
 
 
-Average Margin: New England Free Jacks by 5.5
+Average Margin: New England Free Jacks by 5.4
 
 <p float="left">
 <img src="plots/performances_New England Free Jacks_V_Rugby New York_11.png" width="32%" />
@@ -306,7 +306,7 @@ Average Margin: New England Free Jacks by 5.5
 ### Seattle Seawolves V Dallas Jackals on 2023/04/28
 
 
-Average Margin: Seattle Seawolves by 22.5
+Average Margin: Seattle Seawolves by 22.2
 
 <p float="left">
 <img src="plots/performances_Seattle Seawolves_V_Dallas Jackals_11.png" width="32%" />
@@ -317,7 +317,7 @@ Average Margin: Seattle Seawolves by 22.5
 ### San Diego Legion V Houston SaberCats on 2023/04/30
 
 
-Average Margin: San Diego Legion by 9.3
+Average Margin: San Diego Legion by 9.0
 
 <p float="left">
 <img src="plots/performances_San Diego Legion_V_Houston SaberCats_11.png" width="32%" />
@@ -330,7 +330,7 @@ Average Margin: San Diego Legion by 9.3
 ### Rugby ATL V Chicago Hounds on 2023/05/06
 
 
-Average Margin: Rugby ATL by 18.5
+Average Margin: Rugby ATL by 18.3
 
 <p float="left">
 <img src="plots/performances_Rugby ATL_V_Chicago Hounds_12.png" width="32%" />
@@ -341,7 +341,7 @@ Average Margin: Rugby ATL by 18.5
 ### Rugby New York V NOLA Gold on 2023/05/07
 
 
-Average Margin: Rugby New York by 5.4
+Average Margin: Rugby New York by 5.7
 
 <p float="left">
 <img src="plots/performances_Rugby New York_V_NOLA Gold_12.png" width="32%" />
@@ -352,7 +352,7 @@ Average Margin: Rugby New York by 5.4
 ### Utah Warriors V San Diego Legion on 2023/05/06
 
 
-Average Margin: San Diego Legion by 3.2
+Average Margin: San Diego Legion by 3.1
 
 <p float="left">
 <img src="plots/performances_Utah Warriors_V_San Diego Legion_12.png" width="32%" />
@@ -363,7 +363,7 @@ Average Margin: San Diego Legion by 3.2
 ### Dallas Jackals V Old Glory DC on 2023/05/06
 
 
-Average Margin: Old Glory DC by 7.5
+Average Margin: Old Glory DC by 7.3
 
 <p float="left">
 <img src="plots/performances_Dallas Jackals_V_Old Glory DC_12.png" width="32%" />
@@ -376,7 +376,7 @@ Average Margin: Old Glory DC by 7.5
 ### Toronto Arrows V Rugby ATL on 2023/05/12
 
 
-Average Margin: Rugby ATL by 4.1
+Average Margin: Rugby ATL by 4.0
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_Rugby ATL_13.png" width="32%" />
@@ -387,7 +387,7 @@ Average Margin: Rugby ATL by 4.1
 ### NOLA Gold V San Diego Legion on 2023/05/13
 
 
-Average Margin: San Diego Legion by 3.9
+Average Margin: San Diego Legion by 4.2
 
 <p float="left">
 <img src="plots/performances_NOLA Gold_V_San Diego Legion_13.png" width="32%" />
@@ -398,7 +398,7 @@ Average Margin: San Diego Legion by 3.9
 ### Old Glory DC V New England Free Jacks on 2023/05/14
 
 
-Average Margin: New England Free Jacks by 3.7
+Average Margin: New England Free Jacks by 3.4
 
 <p float="left">
 <img src="plots/performances_Old Glory DC_V_New England Free Jacks_13.png" width="32%" />
@@ -409,7 +409,7 @@ Average Margin: New England Free Jacks by 3.7
 ### Chicago Hounds V Rugby New York on 2023/05/13
 
 
-Average Margin: Rugby New York by 11.6
+Average Margin: Rugby New York by 11.7
 
 <p float="left">
 <img src="plots/performances_Chicago Hounds_V_Rugby New York_13.png" width="32%" />
@@ -420,7 +420,7 @@ Average Margin: Rugby New York by 11.6
 ### Dallas Jackals V Utah Warriors on 2023/05/13
 
 
-Average Margin: Utah Warriors by 10.9
+Average Margin: Utah Warriors by 10.2
 
 <p float="left">
 <img src="plots/performances_Dallas Jackals_V_Utah Warriors_13.png" width="32%" />
@@ -431,7 +431,7 @@ Average Margin: Utah Warriors by 10.9
 ### Houston SaberCats V Seattle Seawolves on 2023/05/13
 
 
-Average Margin: Seattle Seawolves by 0.3
+Average Margin: Seattle Seawolves by 0.5
 
 <p float="left">
 <img src="plots/performances_Houston SaberCats_V_Seattle Seawolves_13.png" width="32%" />
@@ -444,7 +444,7 @@ Average Margin: Seattle Seawolves by 0.3
 ### Toronto Arrows V Old Glory DC on 2023/05/18
 
 
-Average Margin: Toronto Arrows by 0.7
+Average Margin: Toronto Arrows by 0.8
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_Old Glory DC_14.png" width="32%" />
@@ -455,7 +455,7 @@ Average Margin: Toronto Arrows by 0.7
 ### Rugby ATL V Dallas Jackals on 2023/05/20
 
 
-Average Margin: Rugby ATL by 19.1
+Average Margin: Rugby ATL by 18.8
 
 <p float="left">
 <img src="plots/performances_Rugby ATL_V_Dallas Jackals_14.png" width="32%" />
@@ -466,7 +466,7 @@ Average Margin: Rugby ATL by 19.1
 ### New England Free Jacks V NOLA Gold on 2023/05/21
 
 
-Average Margin: New England Free Jacks by 7.7
+Average Margin: New England Free Jacks by 7.5
 
 <p float="left">
 <img src="plots/performances_New England Free Jacks_V_NOLA Gold_14.png" width="32%" />
@@ -477,7 +477,7 @@ Average Margin: New England Free Jacks by 7.7
 ### Utah Warriors V Houston SaberCats on 2023/05/20
 
 
-Average Margin: Utah Warriors by 2.6
+Average Margin: Utah Warriors by 2.5
 
 <p float="left">
 <img src="plots/performances_Utah Warriors_V_Houston SaberCats_14.png" width="32%" />
@@ -488,7 +488,7 @@ Average Margin: Utah Warriors by 2.6
 ### Seattle Seawolves V Chicago Hounds on 2023/05/20
 
 
-Average Margin: Seattle Seawolves by 21.1
+Average Margin: Seattle Seawolves by 21.5
 
 <p float="left">
 <img src="plots/performances_Seattle Seawolves_V_Chicago Hounds_14.png" width="32%" />
@@ -501,7 +501,7 @@ Average Margin: Seattle Seawolves by 21.1
 ### New England Free Jacks V Toronto Arrows on 2023/05/27
 
 
-Average Margin: New England Free Jacks by 12.8
+Average Margin: New England Free Jacks by 12.9
 
 <p float="left">
 <img src="plots/performances_New England Free Jacks_V_Toronto Arrows_15.png" width="32%" />
@@ -512,7 +512,7 @@ Average Margin: New England Free Jacks by 12.8
 ### Old Glory DC V Seattle Seawolves on 2023/05/27
 
 
-Average Margin: Seattle Seawolves by 4.6
+Average Margin: Seattle Seawolves by 4.5
 
 <p float="left">
 <img src="plots/performances_Old Glory DC_V_Seattle Seawolves_15.png" width="32%" />
@@ -523,7 +523,7 @@ Average Margin: Seattle Seawolves by 4.6
 ### Houston SaberCats V Chicago Hounds on 2023/05/27
 
 
-Average Margin: Houston SaberCats by 17.3
+Average Margin: Houston SaberCats by 18.2
 
 <p float="left">
 <img src="plots/performances_Houston SaberCats_V_Chicago Hounds_15.png" width="32%" />
@@ -534,7 +534,7 @@ Average Margin: Houston SaberCats by 17.3
 ### Utah Warriors V Rugby ATL on 2023/05/27
 
 
-Average Margin: Utah Warriors by 1.9
+Average Margin: Utah Warriors by 1.5
 
 <p float="left">
 <img src="plots/performances_Utah Warriors_V_Rugby ATL_15.png" width="32%" />
@@ -545,7 +545,7 @@ Average Margin: Utah Warriors by 1.9
 ### San Diego Legion V Rugby New York on 2023/05/28
 
 
-Average Margin: San Diego Legion by 8.5
+Average Margin: San Diego Legion by 8.8
 
 <p float="left">
 <img src="plots/performances_San Diego Legion_V_Rugby New York_15.png" width="32%" />
@@ -580,7 +580,7 @@ Average Margin: NOLA Gold by 5.8
 ### Toronto Arrows V Houston SaberCats on 2023/06/03
 
 
-Average Margin: Houston SaberCats by 2.9
+Average Margin: Houston SaberCats by 3.1
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_Houston SaberCats_16.png" width="32%" />
@@ -602,7 +602,7 @@ Average Margin: Rugby New York by 18.4
 ### Chicago Hounds V San Diego Legion on 2023/06/03
 
 
-Average Margin: San Diego Legion by 16.2
+Average Margin: San Diego Legion by 15.9
 
 <p float="left">
 <img src="plots/performances_Chicago Hounds_V_San Diego Legion_16.png" width="32%" />
@@ -613,7 +613,7 @@ Average Margin: San Diego Legion by 16.2
 ### Seattle Seawolves V Utah Warriors on 2023/06/04
 
 
-Average Margin: Seattle Seawolves by 7.7
+Average Margin: Seattle Seawolves by 8.2
 
 <p float="left">
 <img src="plots/performances_Seattle Seawolves_V_Utah Warriors_16.png" width="32%" />
@@ -626,7 +626,7 @@ Average Margin: Seattle Seawolves by 7.7
 ### Rugby ATL V Rugby New York on 2023/06/10
 
 
-Average Margin: Rugby ATL by 3.4
+Average Margin: Rugby ATL by 3.2
 
 <p float="left">
 <img src="plots/performances_Rugby ATL_V_Rugby New York_17.png" width="32%" />
@@ -637,7 +637,7 @@ Average Margin: Rugby ATL by 3.4
 ### Toronto Arrows V San Diego Legion on 2023/06/11
 
 
-Average Margin: San Diego Legion by 8.8
+Average Margin: San Diego Legion by 9.0
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_San Diego Legion_17.png" width="32%" />
@@ -648,7 +648,7 @@ Average Margin: San Diego Legion by 8.8
 ### Houston SaberCats V Old Glory DC on 2023/06/09
 
 
-Average Margin: Houston SaberCats by 7.3
+Average Margin: Houston SaberCats by 7.6
 
 <p float="left">
 <img src="plots/performances_Houston SaberCats_V_Old Glory DC_17.png" width="32%" />
@@ -670,7 +670,7 @@ Average Margin: NOLA Gold by 9.5
 ### Utah Warriors V Chicago Hounds on 2023/06/10
 
 
-Average Margin: Utah Warriors by 15.9
+Average Margin: Utah Warriors by 15.4
 
 <p float="left">
 <img src="plots/performances_Utah Warriors_V_Chicago Hounds_17.png" width="32%" />
@@ -681,7 +681,7 @@ Average Margin: Utah Warriors by 15.9
 ### Seattle Seawolves V New England Free Jacks on 2023/06/11
 
 
-Average Margin: Seattle Seawolves by 4.4
+Average Margin: Seattle Seawolves by 4.2
 
 <p float="left">
 <img src="plots/performances_Seattle Seawolves_V_New England Free Jacks_17.png" width="32%" />
@@ -694,7 +694,7 @@ Average Margin: Seattle Seawolves by 4.4
 ### Old Glory DC V Rugby ATL on 2023/06/17
 
 
-Average Margin: Rugby ATL by 1.4
+Average Margin: Rugby ATL by 1.5
 
 <p float="left">
 <img src="plots/performances_Old Glory DC_V_Rugby ATL_18.png" width="32%" />
@@ -705,7 +705,7 @@ Average Margin: Rugby ATL by 1.4
 ### New England Free Jacks V Houston SaberCats on 2023/06/17
 
 
-Average Margin: New England Free Jacks by 6.1
+Average Margin: New England Free Jacks by 6.2
 
 <p float="left">
 <img src="plots/performances_New England Free Jacks_V_Houston SaberCats_18.png" width="32%" />
@@ -716,7 +716,7 @@ Average Margin: New England Free Jacks by 6.1
 ### Toronto Arrows V NOLA Gold on 2023/06/17
 
 
-Average Margin: NOLA Gold by 1.7
+Average Margin: NOLA Gold by 1.8
 
 <p float="left">
 <img src="plots/performances_Toronto Arrows_V_NOLA Gold_18.png" width="32%" />
@@ -727,7 +727,7 @@ Average Margin: NOLA Gold by 1.7
 ### Rugby New York V Utah Warriors on 2023/06/18
 
 
-Average Margin: Rugby New York by 4.8
+Average Margin: Rugby New York by 4.9
 
 <p float="left">
 <img src="plots/performances_Rugby New York_V_Utah Warriors_18.png" width="32%" />
@@ -738,7 +738,7 @@ Average Margin: Rugby New York by 4.8
 ### Dallas Jackals V Chicago Hounds on 2023/06/17
 
 
-Average Margin: Dallas Jackals by 2.6
+Average Margin: Dallas Jackals by 2.4
 
 <p float="left">
 <img src="plots/performances_Dallas Jackals_V_Chicago Hounds_18.png" width="32%" />
@@ -749,7 +749,7 @@ Average Margin: Dallas Jackals by 2.6
 ### San Diego Legion V Seattle Seawolves on 2023/06/18
 
 
-Average Margin: San Diego Legion by 5.1
+Average Margin: San Diego Legion by 5.3
 
 <p float="left">
 <img src="plots/performances_San Diego Legion_V_Seattle Seawolves_18.png" width="32%" />

@@ -18,15 +18,25 @@ Last Round Accuracy: 4 of 7 (57.14%)
 
 Last Round Error: 14.37 points per match
 
-[2023-04-15 Sale Sharks (~1725.99) at Bristol Rugby (~1764.31)](projections//2023-04-15-BristolRugby-SaleSharks)
+[2023-04-15 Sale Sharks (~1728.93) at Bristol Rugby (~1760.14)](projections//2023-04-15-BristolRugby-SaleSharks)
 
-[2023-04-15 Exeter Chiefs (~1722.74) at Leicester Tigers (~1854.84)](projections//2023-04-15-LeicesterTigers-ExeterChiefs)
+[2023-04-15 Exeter Chiefs (~1722.37) at Leicester Tigers (~1857.36)](projections//2023-04-15-LeicesterTigers-ExeterChiefs)
 
-[2023-04-15 Bath Rugby (~1561.06) at Gloucester Rugby (~1764.64)](projections//2023-04-15-GloucesterRugby-BathRugby)
+[2023-04-15 Bath Rugby (~1564.21) at Gloucester Rugby (~1766.95)](projections//2023-04-15-GloucesterRugby-BathRugby)
 
-[2023-04-15 Newcastle Falcons (~1525.61) at Harlequins (~1799.04)](projections//2023-04-15-Harlequins-NewcastleFalcons)
+[2023-04-15 Newcastle Falcons (~1525.67) at Harlequins (~1799.55)](projections//2023-04-15-Harlequins-NewcastleFalcons)
 
-[2023-04-15 Saracens (~1790.37) at Northampton Saints (~1736.49)](projections//2023-04-15-NorthamptonSaints-Saracens)
+[2023-04-15 Saracens (~1789.19) at Northampton Saints (~1737.01)](projections//2023-04-15-NorthamptonSaints-Saracens)
+
+[2023-04-22 London Irish (~1705.25) at Saracens (~1878.47)](projections//2023-04-22-Saracens-LondonIrish)
+
+[2023-04-22 Northampton Saints (~1649.92) at Newcastle Falcons (~1618.58)](projections//2023-04-22-NewcastleFalcons-NorthamptonSaints)
+
+[2023-04-22 Bath Rugby (~1562.06) at Harlequins (~1798.56)](projections//2023-04-22-Harlequins-BathRugby)
+
+[2023-04-22 Bristol Rugby (~1670.44) at Exeter Chiefs (~1816.16)](projections//2023-04-22-ExeterChiefs-BristolRugby)
+
+[2023-04-22 Sale Sharks (~1727.61) at Gloucester Rugby (~1765.09)](projections//2023-04-22-GloucesterRugby-SaleSharks)
 ## Japan Rugby League One
 
 
@@ -40,17 +50,21 @@ Last Round Accuracy: 6 of 6 (100.0%)
 
 Last Round Error: 11.9 points per match
 
-[2023-04-14 Mitsubishi Dynaboars (~1491.86) at Toshiba Brave Lupus Tokyo (~1885.83)](projections//2023-04-14-ToshibaBraveLupusTokyo-MitsubishiDynaboars)
+[2023-04-15 Shizuoka Blue Revs (~1648.08) at Saitama Wild Knights (~2095.3)](projections//2023-04-15-SaitamaWildKnights-ShizuokaBlueRevs)
 
-[2023-04-14 Kobelco Kobe Steelers (~1636.43) at Hanazono Kintetsu Liners (~1382.11)](projections//2023-04-14-HanazonoKintetsuLiners-KobelcoKobeSteelers)
+[2023-04-15 Tokyo Sungoliath (~1848.04) at Yokohama Canon Eagles (~1942.88)](projections//2023-04-15-YokohamaCanonEagles-TokyoSungoliath)
 
-[2023-04-15 Toyota Verblitz (~1708.71) at Black Rams Tokyo (~1722.91)](projections//2023-04-15-BlackRamsTokyo-ToyotaVerblitz)
+[2023-04-15 Toyota Verblitz (~1709.73) at Black Rams Tokyo (~1723.39)](projections//2023-04-15-BlackRamsTokyo-ToyotaVerblitz)
 
-[2023-04-15 Tokyo Sungoliath (~1846.48) at Yokohama Canon Eagles (~1938.43)](projections//2023-04-15-YokohamaCanonEagles-TokyoSungoliath)
+[2023-04-16 Kubota Spears Funabashi Tokyo-Bay (~1883.68) at Green Rockets Tokatsu (~1445.23)](projections//2023-04-16-GreenRocketsTokatsu-KubotaSpearsFunabashiTokyo-Bay)
 
-[2023-04-15 Shizuoka Blue Revs (~1649.61) at Saitama Wild Knights (~2096.17)](projections//2023-04-15-SaitamaWildKnights-ShizuokaBlueRevs)
+[2023-04-21 Saitama Wild Knights (~1997.72) at Toshiba Brave Lupus Tokyo (~1888.38)](projections//2023-04-21-ToshibaBraveLupusTokyo-SaitamaWildKnights)
 
-[2023-04-16 Kubota Spears Funabashi Tokyo-Bay (~1882.78) at Green Rockets Tokatsu (~1449.34)](projections//2023-04-16-GreenRocketsTokatsu-KubotaSpearsFunabashiTokyo-Bay)
+[2023-04-22 Green Rockets Tokatsu (~1357.0) at Hanazono Kintetsu Liners (~1386.36)](projections//2023-04-22-HanazonoKintetsuLiners-GreenRocketsTokatsu)
+
+[2023-04-22 Tokyo Sungoliath (~1844.85) at Kubota Spears Funabashi Tokyo-Bay (~1972.1)](projections//2023-04-22-KubotaSpearsFunabashiTokyo-Bay-TokyoSungoliath)
+
+[2023-04-22 Black Rams Tokyo (~1631.59) at Mitsubishi Dynaboars (~1580.18)](projections//2023-04-22-MitsubishiDynaboars-BlackRamsTokyo)
 ## Major League Rugby
 
 
@@ -64,17 +78,25 @@ Last Round Accuracy: 4 of 6 (66.67%)
 
 Last Round Error: 7.63 points per match
 
-[2023-04-15 Dallas Jackals (~1263.13) at Houston SaberCats (~1658.39)](projections//2023-04-15-HoustonSaberCats-DallasJackals)
+[2023-04-15 Seattle Seawolves (~1649.45) at Utah Warriors (~1638.34)](projections//2023-04-15-UtahWarriors-SeattleSeawolves)
 
-[2023-04-15 Seattle Seawolves (~1646.16) at Utah Warriors (~1642.13)](projections//2023-04-15-UtahWarriors-SeattleSeawolves)
+[2023-04-15 Dallas Jackals (~1265.98) at Houston SaberCats (~1659.42)](projections//2023-04-15-HoustonSaberCats-DallasJackals)
 
-[2023-04-15 Rugby ATL (~1584.44) at NOLA Gold (~1629.55)](projections//2023-04-15-NOLAGold-RugbyATL)
+[2023-04-15 Rugby ATL (~1585.9) at NOLA Gold (~1633.33)](projections//2023-04-15-NOLAGold-RugbyATL)
 
-[2023-04-15 New England Free Jacks (~1631.47) at Toronto Arrows (~1527.72)](projections//2023-04-15-TorontoArrows-NewEnglandFreeJacks)
+[2023-04-15 New England Free Jacks (~1625.55) at Toronto Arrows (~1524.77)](projections//2023-04-15-TorontoArrows-NewEnglandFreeJacks)
 
-[2023-04-16 Chicago Hounds (~1270.84) at San Diego Legion (~1778.11)](projections//2023-04-16-SanDiegoLegion-ChicagoHounds)
+[2023-04-16 Chicago Hounds (~1273.6) at San Diego Legion (~1777.45)](projections//2023-04-16-SanDiegoLegion-ChicagoHounds)
 
-[2023-04-16 Rugby New York (~1587.78) at Old Glory DC (~1573.27)](projections//2023-04-16-OldGloryDC-RugbyNewYork)
+[2023-04-16 Rugby New York (~1582.71) at Old Glory DC (~1580.88)](projections//2023-04-16-OldGloryDC-RugbyNewYork)
+
+[2023-04-22 Rugby ATL (~1585.22) at New England Free Jacks (~1712.43)](projections//2023-04-22-NewEnglandFreeJacks-RugbyATL)
+
+[2023-04-22 Utah Warriors (~1554.58) at Old Glory DC (~1564.53)](projections//2023-04-22-OldGloryDC-UtahWarriors)
+
+[2023-04-22 NOLA Gold (~1536.7) at Chicago Hounds (~1361.17)](projections//2023-04-22-ChicagoHounds-NOLAGold)
+
+[2023-04-22 San Diego Legion (~1689.57) at Dallas Jackals (~1353.86)](projections//2023-04-22-DallasJackals-SanDiegoLegion)
 ## RFU Championship
 
 
@@ -88,17 +110,29 @@ Last Round Accuracy: 6 of 6 (100.0%)
 
 Last Round Error: 12.86 points per match
 
-[2023-04-15 Ampthill (~1283.44) at Nottingham (~1317.54)](projections//2023-04-15-Nottingham-Ampthill)
+[2023-04-15 Cornish Pirates (~1327.83) at Doncaster (~1393.09)](projections//2023-04-15-Doncaster-CornishPirates)
 
-[2023-04-15 Jersey (~1530.71) at Bedford (~1481.54)](projections//2023-04-15-Bedford-Jersey)
+[2023-04-15 Caldy (~1222.77) at Ealing Trailfinders (~1724.16)](projections//2023-04-15-EalingTrailfinders-Caldy)
 
-[2023-04-15 Coventry (~1432.81) at Richmond (~1231.04)](projections//2023-04-15-Richmond-Coventry)
+[2023-04-15 London Scottish (~1076.16) at Hartpury College (~1386.46)](projections//2023-04-15-HartpuryCollege-LondonScottish)
 
-[2023-04-15 London Scottish (~1069.55) at Hartpury College (~1384.27)](projections//2023-04-15-HartpuryCollege-LondonScottish)
+[2023-04-15 Coventry (~1432.7) at Richmond (~1236.02)](projections//2023-04-15-Richmond-Coventry)
 
-[2023-04-15 Caldy (~1218.69) at Ealing Trailfinders (~1729.58)](projections//2023-04-15-EalingTrailfinders-Caldy)
+[2023-04-15 Jersey (~1528.87) at Bedford (~1481.86)](projections//2023-04-15-Bedford-Jersey)
 
-[2023-04-15 Cornish Pirates (~1330.34) at Doncaster (~1396.3)](projections//2023-04-15-Doncaster-CornishPirates)
+[2023-04-15 Ampthill (~1281.39) at Nottingham (~1330.51)](projections//2023-04-15-Nottingham-Ampthill)
+
+[2023-04-22 Doncaster (~1314.56) at Caldy (~1314.15)](projections//2023-04-22-Caldy-Doncaster)
+
+[2023-04-22 Richmond (~1135.77) at London Scottish (~1165.24)](projections//2023-04-22-LondonScottish-Richmond)
+
+[2023-04-22 Ealing Trailfinders (~1639.38) at Jersey (~1617.09)](projections//2023-04-22-Jersey-EalingTrailfinders)
+
+[2023-04-22 Bedford (~1395.02) at Ampthill (~1373.59)](projections//2023-04-22-Ampthill-Bedford)
+
+[2023-04-22 Nottingham (~1232.78) at Coventry (~1526.52)](projections//2023-04-22-Coventry-Nottingham)
+
+[2023-04-22 Hartpury College (~1298.33) at Cornish Pirates (~1417.23)](projections//2023-04-22-CornishPirates-HartpuryCollege)
 ## Super Rugby Americas
 
 
@@ -112,11 +146,13 @@ Last Round Accuracy: 1 of 4 (25.0%)
 
 Last Round Error: 7.74 points per match
 
-[2023-04-14 Cobras (~1167.66) at Dogos XV (~1735.28)](projections//2023-04-14-DogosXV-Cobras)
+[2023-04-15 Selknam (~1429.71) at Yacare XV (~1332.56)](projections//2023-04-15-YacareXV-Selknam)
 
-[2023-04-15 Selknam (~1436.07) at Yacare XV (~1353.03)](projections//2023-04-15-YacareXV-Selknam)
+[2023-04-16 Pampas XV (~1468.15) at American Raptors (~1162.75)](projections//2023-04-16-AmericanRaptors-PampasXV)
 
-[2023-04-16 Pampas XV (~1472.95) at American Raptors (~1173.63)](projections//2023-04-16-AmericanRaptors-PampasXV)
+[2023-04-21 Dogos XV (~1644.27) at Penarol Rugby (~1745.85)](projections//2023-04-21-PenarolRugby-DogosXV)
+
+[2023-04-22 Selknam (~1428.6) at American Raptors (~1168.57)](projections//2023-04-22-AmericanRaptors-Selknam)
 ## Super Rugby Pacific
 
 
@@ -130,13 +166,17 @@ Last Round Accuracy: 6 of 6 (100.0%)
 
 Last Round Error: 17.12 points per match
 
-[2023-04-14 Fijian Drua (~1274.2) at Brumbies (~1669.28)](projections//2023-04-14-Brumbies-FijianDrua)
+[2023-04-15 Western Force (~1293.64) at New South Wales Waratahs (~1518.64)](projections//2023-04-15-NewSouthWalesWaratahs-WesternForce)
 
-[2023-04-14 Queensland Reds (~1382.31) at Moana Pasifika (~1230.22)](projections//2023-04-14-MoanaPasifika-QueenslandReds)
+[2023-04-15 Chiefs (~1645.24) at Hurricanes (~1664.16)](projections//2023-04-15-Hurricanes-Chiefs)
 
-[2023-04-15 Chiefs (~1635.85) at Hurricanes (~1664.94)](projections//2023-04-15-Hurricanes-Chiefs)
+[2023-04-21 Fijian Drua (~1271.31) at Chiefs (~1729.71)](projections//2023-04-21-Chiefs-FijianDrua)
 
-[2023-04-15 Western Force (~1299.72) at New South Wales Waratahs (~1518.33)](projections//2023-04-15-NewSouthWalesWaratahs-WesternForce)
+[2023-04-21 Crusaders (~1658.29) at Melbourne Rebels (~1396.81)](projections//2023-04-21-MelbourneRebels-Crusaders)
+
+[2023-04-22 New South Wales Waratahs (~1431.16) at Blues (~1719.7)](projections//2023-04-22-Blues-NewSouthWalesWaratahs)
+
+[2023-04-22 Highlanders (~1413.11) at Western Force (~1382.33)](projections//2023-04-22-WesternForce-Highlanders)
 ## Top 14 Orange
 
 
@@ -150,19 +190,33 @@ Last Round Accuracy: 3 of 7 (42.86%)
 
 Last Round Error: 12.78 points per match
 
-[2023-04-15 Bordeaux Begles (~1656.27) at Racing 92 (~1777.97)](projections//2023-04-15-Racing92-BordeauxBegles)
+[2023-04-15 Stade Francais Paris (~1604.72) at Brive (~1579.04)](projections//2023-04-15-Brive-StadeFrancaisParis)
 
-[2023-04-15 Stade Francais Paris (~1607.3) at Brive (~1581.79)](projections//2023-04-15-Brive-StadeFrancaisParis)
+[2023-04-15 Bordeaux Begles (~1655.46) at Racing 92 (~1775.14)](projections//2023-04-15-Racing92-BordeauxBegles)
 
-[2023-04-15 Perpignan (~1549.58) at Toulon (~1795.37)](projections//2023-04-15-Toulon-Perpignan)
+[2023-04-15 Castres Olympique (~1613.62) at Montpellier Herault (~1767.2)](projections//2023-04-15-MontpellierHerault-CastresOlympique)
 
-[2023-04-15 Castres Olympique (~1613.65) at Montpellier Herault (~1767.01)](projections//2023-04-15-MontpellierHerault-CastresOlympique)
+[2023-04-15 Perpignan (~1548.77) at Toulon (~1799.3)](projections//2023-04-15-Toulon-Perpignan)
 
-[2023-04-15 Bayonne (~1566.32) at La Rochelle (~1856.58)](projections//2023-04-15-LaRochelle-Bayonne)
+[2023-04-15 Bayonne (~1566.07) at La Rochelle (~1859.48)](projections//2023-04-15-LaRochelle-Bayonne)
 
-[2023-04-15 Clermont Auvergne (~1669.85) at Pau (~1692.27)](projections//2023-04-15-Pau-ClermontAuvergne)
+[2023-04-15 Clermont Auvergne (~1665.62) at Pau (~1695.01)](projections//2023-04-15-Pau-ClermontAuvergne)
 
-[2023-04-16 Lyon (~1711.53) at Stade Toulousain (~1868.52)](projections//2023-04-16-StadeToulousain-Lyon)
+[2023-04-16 Lyon (~1710.64) at Stade Toulousain (~1870.23)](projections//2023-04-16-StadeToulousain-Lyon)
+
+[2023-04-22 Racing 92 (~1684.61) at Perpignan (~1636.86)](projections//2023-04-22-Perpignan-Racing92)
+
+[2023-04-22 Stade Toulousain (~1779.3) at Stade Francais Paris (~1697.7)](projections//2023-04-22-StadeFrancaisParis-StadeToulousain)
+
+[2023-04-22 Lyon (~1708.37) at Bordeaux Begles (~1747.78)](projections//2023-04-22-BordeauxBegles-Lyon)
+
+[2023-04-22 Montpellier Herault (~1676.6) at Bayonne (~1655.44)](projections//2023-04-22-Bayonne-MontpellierHerault)
+
+[2023-04-22 Pau (~1603.89) at Brive (~1584.79)](projections//2023-04-22-Brive-Pau)
+
+[2023-04-22 Toulon (~1707.07) at Castres Olympique (~1712.43)](projections//2023-04-22-CastresOlympique-Toulon)
+
+[2023-04-22 Clermont Auvergne (~1666.27) at La Rochelle (~1856.39)](projections//2023-04-22-LaRochelle-ClermontAuvergne)
 ## United Rugby Championship
 
 
@@ -176,21 +230,37 @@ Last Round Accuracy: 5 of 8 (62.5%)
 
 Last Round Error: 9.73 points per match
 
-[2023-04-15 Dragons (~1478.96) at Ulster (~1856.45)](projections//2023-04-15-Ulster-Dragons)
+[2023-04-15 Dragons (~1477.25) at Ulster (~1860.41)](projections//2023-04-15-Ulster-Dragons)
 
-[2023-04-15 Munster (~1709.01) at Stormers (~1841.23)](projections//2023-04-15-Stormers-Munster)
+[2023-04-15 Leinster (~1927.34) at Lions (~1713.61)](projections//2023-04-15-Lions-Leinster)
 
-[2023-04-15 Leinster (~1926.24) at Lions (~1714.94)](projections//2023-04-15-Lions-Leinster)
+[2023-04-15 Ospreys (~1584.84) at Edinburgh (~1739.24)](projections//2023-04-15-Edinburgh-Ospreys)
 
-[2023-04-15 Zebre (~1355.82) at Bulls (~1752.49)](projections//2023-04-15-Bulls-Zebre)
+[2023-04-15 Zebre (~1351.19) at Bulls (~1756.65)](projections//2023-04-15-Bulls-Zebre)
 
-[2023-04-15 Scarlets (~1617.74) at Glasgow Warriors (~1764.15)](projections//2023-04-15-GlasgowWarriors-Scarlets)
+[2023-04-15 Scarlets (~1617.43) at Glasgow Warriors (~1760.92)](projections//2023-04-15-GlasgowWarriors-Scarlets)
 
-[2023-04-15 Cardiff Blues (~1586.82) at Connacht (~1712.34)](projections//2023-04-15-Connacht-CardiffBlues)
+[2023-04-15 Cardiff Blues (~1584.99) at Connacht (~1717.4)](projections//2023-04-15-Connacht-CardiffBlues)
 
-[2023-04-15 Benetton Treviso (~1586.97) at Sharks (~1758.14)](projections//2023-04-15-Sharks-BenettonTreviso)
+[2023-04-15 Benetton Treviso (~1586.7) at Sharks (~1756.2)](projections//2023-04-15-Sharks-BenettonTreviso)
 
-[2023-04-15 Ospreys (~1583.42) at Edinburgh (~1739.92)](projections//2023-04-15-Edinburgh-Ospreys)
+[2023-04-15 Munster (~1709.28) at Stormers (~1841.71)](projections//2023-04-15-Stormers-Munster)
+
+[2023-04-22 Connacht (~1621.77) at Glasgow Warriors (~1767.26)](projections//2023-04-22-GlasgowWarriors-Connacht)
+
+[2023-04-22 Leinster (~1928.41) at Bulls (~1755.73)](projections//2023-04-22-Bulls-Leinster)
+
+[2023-04-22 Zebre (~1354.43) at Lions (~1712.39)](projections//2023-04-22-Lions-Zebre)
+
+[2023-04-22 Cardiff Blues (~1588.68) at Ospreys (~1678.03)](projections//2023-04-22-Ospreys-CardiffBlues)
+
+[2023-04-22 Scarlets (~1616.94) at Dragons (~1573.1)](projections//2023-04-22-Dragons-Scarlets)
+
+[2023-04-22 Edinburgh (~1649.55) at Ulster (~1860.65)](projections//2023-04-22-Ulster-Edinburgh)
+
+[2023-04-22 Munster (~1708.95) at Sharks (~1758.38)](projections//2023-04-22-Sharks-Munster)
+
+[2023-04-22 Benetton Treviso (~1585.36) at Stormers (~1845.97)](projections//2023-04-22-Stormers-BenettonTreviso)
 # Domestic Leagues
 
 ## Currie Cup
@@ -206,13 +276,15 @@ Last Round Accuracy: 3 of 4 (75.0%)
 
 Last Round Error: 20.17 points per match
 
-[2023-04-14 Blue Bulls (~1410.18) at Natal Sharks (~1543.18)](projections//2023-04-14-NatalSharks-BlueBulls)
+[2023-04-15 Free State Cheetahs (~1595.34) at Western Province (~1482.17)](projections//2023-04-15-WesternProvince-FreeStateCheetahs)
 
-[2023-04-15 Free State Cheetahs (~1595.81) at Western Province (~1487.85)](projections//2023-04-15-WesternProvince-FreeStateCheetahs)
+[2023-04-16 Griquas (~1430.37) at Golden Lions (~1407.34)](projections//2023-04-16-GoldenLions-Griquas)
 
-[2023-04-16 Griquas (~1431.55) at Golden Lions (~1403.61)](projections//2023-04-16-GoldenLions-Griquas)
+[2023-04-16 Pumas (~1597.12) at Griffons (~1353.32)](projections//2023-04-16-Griffons-Pumas)
 
-[2023-04-16 Pumas (~1594.43) at Griffons (~1355.65)](projections//2023-04-16-Griffons-Pumas)
+[2023-04-21 Western Province (~1385.84) at Pumas (~1680.12)](projections//2023-04-21-Pumas-WesternProvince)
+
+[2023-04-22 Golden Lions (~1320.84) at Blue Bulls (~1502.91)](projections//2023-04-22-BlueBulls-GoldenLions)
 ## Currie Cup First Division
 
 
@@ -226,9 +298,11 @@ Last Round Accuracy: 1 of 3 (33.33%)
 
 Last Round Error: 7.21 points per match
 
-[2023-04-14 Valke (~1021.48) at SWD Eagles (~1142.25)](projections//2023-04-14-SWDEagles-Valke)
+[2023-04-15 Leopards (~960.1) at Eastern Province Kings (~1139.98)](projections//2023-04-15-EasternProvinceKings-Leopards)
 
-[2023-04-15 Leopards (~962.84) at Eastern Province Kings (~1129.32)](projections//2023-04-15-EasternProvinceKings-Leopards)
+[2023-04-22 Boland Cavaliers (~1121.62) at Valke (~1104.38)](projections//2023-04-22-Valke-BolandCavaliers)
+
+[2023-04-22 SWD Eagles (~1052.86) at Leopards (~1052.8)](projections//2023-04-22-Leopards-SWDEagles)
 ## Japan Rugby League One Division 3
 
 
@@ -242,9 +316,13 @@ Last Round Accuracy: 3 of 3 (100.0%)
 
 Last Round Error: 8.6 points per match
 
-[2023-04-15 Chugoku Red Regulions (~570.54) at Skyactivs Hiroshima (~825.45)](projections//2023-04-15-SkyactivsHiroshima-ChugokuRedRegulions)
+[2023-04-15 Chugoku Red Regulions (~569.16) at Skyactivs Hiroshima (~829.81)](projections//2023-04-15-SkyactivsHiroshima-ChugokuRedRegulions)
 
-[2023-04-15 Kyuden Voltex (~982.77) at NTT Docomo Red Hurricanes Osaka (~1361.41)](projections//2023-04-15-NTTDocomoRedHurricanesOsaka-KyudenVoltex)
+[2023-04-15 Kyuden Voltex (~982.64) at NTT Docomo Red Hurricanes Osaka (~1363.24)](projections//2023-04-15-NTTDocomoRedHurricanesOsaka-KyudenVoltex)
+
+[2023-04-22 Chugoku Red Regulions (~573.1) at Kurita Water Gush (~965.75)](projections//2023-04-22-KuritaWaterGush-ChugokuRedRegulions)
+
+[2023-04-22 Skyactivs Hiroshima (~736.68) at Kyuden Voltex (~1067.81)](projections//2023-04-22-KyudenVoltex-SkyactivsHiroshima)
 ## Nationale
 
 
@@ -258,47 +336,19 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 9.37 points per match
 
-[2023-04-15 Tarbes (~1265.99) at Dax (~1491.41)](projections//2023-04-15-Dax-Tarbes)
+[2023-04-15 Tarbes (~1268.3) at Dax (~1489.77)](projections//2023-04-15-Dax-Tarbes)
 
-[2023-04-15 Carqueiranne-Hyères (~1220.06) at Narbonne (~1368.77)](projections//2023-04-15-Narbonne-Carqueiranne-Hyères)
+[2023-04-15 Carqueiranne-Hyères (~1224.48) at Narbonne (~1368.54)](projections//2023-04-15-Narbonne-Carqueiranne-Hyères)
 
-[2023-04-15 Blagnac (~1345.08) at Bourgoin-Jallieu (~1400.74)](projections//2023-04-15-Bourgoin-Jallieu-Blagnac)
+[2023-04-15 Rennes (~1091.05) at Nice (~1418.11)](projections//2023-04-15-Nice-Rennes)
 
-[2023-04-15 Chambery (~1304.51) at Albi (~1480.73)](projections//2023-04-15-Albi-Chambery)
+[2023-04-15 Cognac Saint Jean d'Angély (~1060.54) at Suresnes (~1262.21)](projections//2023-04-15-Suresnes-CognacSaintJeand'Angély)
 
-[2023-04-15 Rennes (~1093.21) at Nice (~1416.24)](projections//2023-04-15-Nice-Rennes)
+[2023-04-15 US Bressane (~1327.03) at Valence Romans Drome Rugby (~1509.15)](projections//2023-04-15-ValenceRomansDromeRugby-USBressane)
 
-[2023-04-15 Cognac Saint Jean d'Angély (~1060.48) at Suresnes (~1261.8)](projections//2023-04-15-Suresnes-CognacSaintJeand'Angély)
+[2023-04-15 Blagnac (~1342.12) at Bourgoin-Jallieu (~1396.71)](projections//2023-04-15-Bourgoin-Jallieu-Blagnac)
 
-[2023-04-15 US Bressane (~1323.6) at Valence Romans Drome Rugby (~1509.9)](projections//2023-04-15-ValenceRomansDromeRugby-USBressane)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 2022](comp_files/Pro_D2_2022)
-
-Competition Accuracy: 142 of 208 (68.27%)
-
-Competition Error: 9.42 points per match
-
-Last Round Accuracy: 6 of 8 (75.0%)
-
-Last Round Error: 12.68 points per match
-
-[2023-04-14 Grenoble (~1464.7) at Nevers (~1566.73)](projections//2023-04-14-Nevers-Grenoble)
-
-[2023-04-14 Rouen (~1359.07) at Colomiers (~1510.25)](projections//2023-04-14-Colomiers-Rouen)
-
-[2023-04-14 Vannes (~1483.81) at Carcassonne (~1500.92)](projections//2023-04-14-Carcassonne-Vannes)
-
-[2023-04-14 Agen (~1437.49) at Aurillac (~1473.76)](projections//2023-04-14-Aurillac-Agen)
-
-[2023-04-14 Biarritz Olympique (~1451.91) at Soyaux-Angouleme (~1479.68)](projections//2023-04-14-Soyaux-Angouleme-BiarritzOlympique)
-
-[2023-04-14 Provence Rugby (~1442.85) at Oyonnax (~1670.03)](projections//2023-04-14-Oyonnax-ProvenceRugby)
-
-[2023-04-14 Montauban (~1392.72) at Mont-de-Marsan (~1570.69)](projections//2023-04-14-Mont-de-Marsan-Montauban)
-
-[2023-04-14 Massy (~1344.01) at Beziers (~1524.62)](projections//2023-04-14-Beziers-Massy)
+[2023-04-15 Chambery (~1300.08) at Albi (~1483.83)](projections//2023-04-15-Albi-Chambery)
 ## URBA Top 13
 
 
@@ -312,14 +362,26 @@ Last Round Accuracy: 3 of 6 (50.0%)
 
 Last Round Error: 18.43 points per match
 
-[2023-04-15 Newman (~1777.53) at La Plata (~1498.84)](projections//2023-04-15-LaPlata-Newman)
+[2023-04-15 Pucara (~1527.6) at CASI (~1595.56)](projections//2023-04-15-CASI-Pucara)
 
-[2023-04-15 Belgrano (~1726.23) at SIC (~1823.3)](projections//2023-04-15-SIC-Belgrano)
+[2023-04-15 CUBA (~1745.63) at Atlético del Rosario (~1687.69)](projections//2023-04-15-AtléticodelRosario-CUBA)
 
-[2023-04-15 San Luis (~1578.37) at Buenos Aires (~1708.48)](projections//2023-04-15-BuenosAires-SanLuis)
+[2023-04-15 Newman (~1775.7) at La Plata (~1500.75)](projections//2023-04-15-LaPlata-Newman)
 
-[2023-04-15 Alumni (~1717.12) at Hindu (~1910.35)](projections//2023-04-15-Hindu-Alumni)
+[2023-04-15 Belgrano (~1723.07) at SIC (~1833.7)](projections//2023-04-15-SIC-Belgrano)
 
-[2023-04-15 CUBA (~1748.61) at Atlético del Rosario (~1698.18)](projections//2023-04-15-AtléticodelRosario-CUBA)
+[2023-04-15 San Luis (~1580.64) at Buenos Aires (~1709.23)](projections//2023-04-15-BuenosAires-SanLuis)
 
-[2023-04-15 Pucara (~1525.4) at CASI (~1588.86)](projections//2023-04-15-CASI-Pucara)
+[2023-04-15 Alumni (~1720.45) at Hindu (~1914.73)](projections//2023-04-15-Hindu-Alumni)
+
+[2023-04-22 SIC (~1736.72) at Newman (~1869.31)](projections//2023-04-22-Newman-SIC)
+
+[2023-04-22 La Plata (~1406.93) at CUBA (~1833.48)](projections//2023-04-22-CUBA-LaPlata)
+
+[2023-04-22 Atlético del Rosario (~1596.35) at Pucara (~1611.67)](projections//2023-04-22-Pucara-AtléticodelRosario)
+
+[2023-04-22 Hindu (~1826.68) at CASI (~1590.68)](projections//2023-04-22-CASI-Hindu)
+
+[2023-04-22 Alumni (~1716.23) at San Luis (~1672.76)](projections//2023-04-22-SanLuis-Alumni)
+
+[2023-04-22 Buenos Aires (~1624.23) at Belgrano (~1811.67)](projections//2023-04-22-Belgrano-BuenosAires)

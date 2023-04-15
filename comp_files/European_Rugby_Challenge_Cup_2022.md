@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup Status"  
-date: 2023-04-11 6:00:00 -0500  
+date: 2023-04-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -47,10 +47,10 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Toulon           |                   1 |    1   |                  9.3 |                   0   |                0.4 |                  4.4 |
-| Scarlets         |                   1 |    0.5 |                  0.5 |                   0.4 |                0.1 |                  2.7 |
-| Glasgow Warriors |                   1 |    0.4 |                 -0.5 |                   0.5 |                0.1 |                  2.4 |
-| Benetton Treviso |                   1 |    0   |                 -9.3 |                   0.3 |                0.1 |                  0.4 |
+| Toulon           |                   1 |    1   |                  9.2 |                   0   |                0.4 |                  4.4 |
+| Scarlets         |                   1 |    0.5 |                  0.3 |                   0.4 |                0.1 |                  2.7 |
+| Glasgow Warriors |                   1 |    0.4 |                 -0.3 |                   0.4 |                0.1 |                  2.5 |
+| Benetton Treviso |                   1 |    0   |                 -9.2 |                   0.3 |                0.1 |                  0.4 |
 
 
 
@@ -59,10 +59,10 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Benetton Treviso     |               8 |    6.5 |                 98.5 |                   0.4 |                5.1 |                 31.7 |
-| Bristol Rugby        |               6 |    5   |                 69.3 |                   1   |                3.4 |                 24.4 |
-| Bath Rugby           |               5 |    0   |                -46.3 |                   1.3 |                0.1 |                  3.4 |
-| Bayonne              |               5 |    0.4 |               -102.5 |                   0.5 |                0.1 |                  2.4 |
+| Benetton Treviso     |               8 |    6.5 |                 98.3 |                   0.4 |                5.1 |                 31.7 |
+| Bristol Rugby        |               6 |    5   |                 69.2 |                   1   |                3.4 |                 24.4 |
+| Bath Rugby           |               5 |    0   |                -46.2 |                   1.3 |                0.1 |                  3.4 |
+| Bayonne              |               5 |    0.4 |               -102.3 |                   0.4 |                0.1 |                  2.5 |
 | Brive                |             nan |  nan   |                nan   |                 nan   |              nan   |                nan   |
 | Cardiff Blues        |             nan |  nan   |                nan   |                 nan   |              nan   |                nan   |
 | Cheetahs             |             nan |  nan   |                nan   |                 nan   |              nan   |                nan   |
@@ -149,7 +149,7 @@ aside:
 ### Toulon V Benetton Treviso on 2023/04/29
 
 
-Average Margin: Toulon by 9.3
+Average Margin: Toulon by 9.2
 
 <p float="left">
 <img src="plots/performances_Toulon_V_Benetton Treviso_5.png" width="32%" />
@@ -160,7 +160,7 @@ Average Margin: Toulon by 9.3
 ### Scarlets V Glasgow Warriors on 2023/04/29
 
 
-Average Margin: Scarlets by 0.5
+Average Margin: Scarlets by 0.3
 
 <p float="left">
 <img src="plots/performances_Scarlets_V_Glasgow Warriors_5.png" width="32%" />

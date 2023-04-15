@@ -1,6 +1,6 @@
 ---  
 title: "RFU Championship Status"  
-date: 2023-04-11 6:00:00 -0500  
+date: 2023-04-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |                   3 |    2.6 |                 38.7 |                   0.3 |                1.9 |                 12.8 |
-| Coventry            |                   3 |    2.3 |                 23   |                   0.5 |                2.2 |                 12.2 |
-| Jersey              |                   3 |    2   |                 17.1 |                   0.7 |                1.6 |                 10.6 |
-| Hartpury College    |                   3 |    2   |                 16.1 |                   0.6 |                1.7 |                 10.4 |
-| Cornish Pirates     |                   3 |    2   |                  8.7 |                   0.7 |                1.3 |                 10.1 |
-| Bedford             |                   3 |    1.4 |                  0.2 |                   1.1 |                1.8 |                  9   |
-| Nottingham          |                   3 |    1.5 |                 -1.9 |                   0.5 |                1.1 |                  7.7 |
-| Doncaster           |                   3 |    1.2 |                -10.2 |                   0.7 |                1.2 |                  6.8 |
-| Ampthill            |                   3 |    0.7 |                -18.4 |                   1   |                1.1 |                  5.2 |
-| Richmond            |                   3 |    0.6 |                -17.2 |                   1.1 |                1.1 |                  4.6 |
-| London Scottish     |                   3 |    0.5 |                -25   |                   0.7 |                1.4 |                  4.3 |
-| Caldy               |                   3 |    0.6 |                -31   |                   0.7 |                1   |                  4.2 |
+| Ealing Trailfinders |                   3 |    2.6 |                 39.3 |                   0.3 |                1.9 |                 12.8 |
+| Coventry            |                   3 |    2.3 |                 23.1 |                   0.5 |                2.2 |                 12.1 |
+| Hartpury College    |                   3 |    2   |                 16.9 |                   0.6 |                1.7 |                 10.4 |
+| Jersey              |                   3 |    2   |                 16.5 |                   0.7 |                1.5 |                 10.4 |
+| Cornish Pirates     |                   3 |    1.9 |                  8.1 |                   0.7 |                1.3 |                 10.1 |
+| Bedford             |                   3 |    1.5 |                  0.5 |                   1.1 |                1.9 |                  9.2 |
+| Nottingham          |                   3 |    1.5 |                 -1.4 |                   0.4 |                1.1 |                  7.8 |
+| Doncaster           |                   3 |    1.1 |                -10.2 |                   0.7 |                1.2 |                  6.8 |
+| Ampthill            |                   3 |    0.7 |                -18.7 |                   1   |                1   |                  5   |
+| Richmond            |                   3 |    0.6 |                -16.9 |                   1.1 |                1.1 |                  4.8 |
+| Caldy               |                   3 |    0.6 |                -31.6 |                   0.7 |                1   |                  4.2 |
+| London Scottish     |                   3 |    0.5 |                -25.6 |                   0.7 |                1.4 |                  4.1 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |              20 |   18.6 |                498.7 |                   1.3 |               17.9 |                 93.8 |
-| Jersey              |              20 |   18   |                368.1 |                   0.7 |              nan   |                 89.6 |
-| Coventry            |              20 |   14.3 |                127   |                   1.5 |              nan   |                 75.2 |
-| Bedford             |              20 |   11.4 |                119.2 |                   3.1 |               15.8 |                 65   |
-| Cornish Pirates     |              20 |   11   |                -28.3 |                   1.7 |                6.3 |                 52.1 |
-| Ampthill            |              21 |    8.7 |                -35.4 |                   3   |              nan   |                 50.2 |
-| Doncaster           |              20 |    9.2 |                -53.2 |                   2.7 |              nan   |                 47.8 |
-| Hartpury College    |              20 |    9   |                -57.9 |                   3.6 |                7.7 |                 47.4 |
-| Nottingham          |              21 |    7.5 |               -104.9 |                   2.5 |               11.1 |                 43.7 |
-| Caldy               |              20 |    6.6 |               -150   |                   3.7 |                8   |                 38.2 |
-| Richmond            |              20 |    2.6 |               -329.2 |                   3.1 |                5.1 |                 20.6 |
-| London Scottish     |              20 |    1.5 |               -354   |                   4.7 |                5.4 |                 16.3 |
+| Ealing Trailfinders |              20 |   18.6 |                499.3 |                   1.3 |               17.9 |                 93.8 |
+| Jersey              |              20 |   18   |                367.5 |                   0.7 |              nan   |                 89.4 |
+| Coventry            |              20 |   14.3 |                127.1 |                   1.5 |              nan   |                 75.1 |
+| Bedford             |              20 |   11.5 |                119.5 |                   3.1 |               15.9 |                 65.2 |
+| Cornish Pirates     |              20 |   10.9 |                -28.9 |                   1.7 |                6.3 |                 52.1 |
+| Ampthill            |              21 |    8.7 |                -35.7 |                   3   |              nan   |                 50   |
+| Doncaster           |              20 |    9.1 |                -53.2 |                   2.7 |              nan   |                 47.8 |
+| Hartpury College    |              20 |    9   |                -57.1 |                   3.6 |                7.7 |                 47.4 |
+| Nottingham          |              21 |    7.5 |               -104.4 |                   2.4 |               11.1 |                 43.8 |
+| Caldy               |              20 |    6.6 |               -150.6 |                   3.7 |                8   |                 38.2 |
+| Richmond            |              20 |    2.6 |               -328.9 |                   3.1 |                5.1 |                 20.8 |
+| London Scottish     |              20 |    1.5 |               -354.6 |                   4.7 |                5.4 |                 16.1 |
 
 
 
@@ -192,7 +192,7 @@ aside:
 ### Nottingham V Ampthill on 2023/04/15
 
 
-Average Margin: Nottingham by 0.5
+Average Margin: Nottingham by 0.9
 
 <p float="left">
 <img src="plots/performances_Nottingham_V_Ampthill_11.png" width="32%" />
@@ -203,7 +203,7 @@ Average Margin: Nottingham by 0.5
 ### Bedford V Jersey on 2023/04/15
 
 
-Average Margin: Jersey by 3.5
+Average Margin: Jersey by 3.2
 
 <p float="left">
 <img src="plots/performances_Bedford_V_Jersey_11.png" width="32%" />
@@ -214,7 +214,7 @@ Average Margin: Jersey by 3.5
 ### Richmond V Coventry on 2023/04/15
 
 
-Average Margin: Coventry by 11.2
+Average Margin: Coventry by 11.4
 
 <p float="left">
 <img src="plots/performances_Richmond_V_Coventry_11.png" width="32%" />
@@ -225,7 +225,7 @@ Average Margin: Coventry by 11.2
 ### Hartpury College V London Scottish on 2023/04/15
 
 
-Average Margin: Hartpury College by 14.2
+Average Margin: Hartpury College by 14.3
 
 <p float="left">
 <img src="plots/performances_Hartpury College_V_London Scottish_11.png" width="32%" />
@@ -236,7 +236,7 @@ Average Margin: Hartpury College by 14.2
 ### Ealing Trailfinders V Caldy on 2023/04/15
 
 
-Average Margin: Ealing Trailfinders by 23.5
+Average Margin: Ealing Trailfinders by 23.8
 
 <p float="left">
 <img src="plots/performances_Ealing Trailfinders_V_Caldy_11.png" width="32%" />
@@ -247,7 +247,7 @@ Average Margin: Ealing Trailfinders by 23.5
 ### Doncaster V Cornish Pirates on 2023/04/15
 
 
-Average Margin: Doncaster by 2.2
+Average Margin: Doncaster by 2.4
 
 <p float="left">
 <img src="plots/performances_Doncaster_V_Cornish Pirates_11.png" width="32%" />
@@ -260,7 +260,7 @@ Average Margin: Doncaster by 2.2
 ### Caldy V Doncaster on 2023/04/22
 
 
-Average Margin: Doncaster by 0.7
+Average Margin: Doncaster by 0.5
 
 <p float="left">
 <img src="plots/performances_Caldy_V_Doncaster_12.png" width="32%" />
@@ -282,7 +282,7 @@ Average Margin: Cornish Pirates by 4.8
 ### London Scottish V Richmond on 2023/04/22
 
 
-Average Margin: Richmond by 0.0
+Average Margin: Richmond by 0.3
 
 <p float="left">
 <img src="plots/performances_London Scottish_V_Richmond_12.png" width="32%" />
@@ -304,7 +304,7 @@ Average Margin: Coventry by 13.3
 ### Ampthill V Bedford on 2023/04/22
 
 
-Average Margin: Bedford by 2.2
+Average Margin: Bedford by 2.1
 
 <p float="left">
 <img src="plots/performances_Ampthill_V_Bedford_12.png" width="32%" />
@@ -315,7 +315,7 @@ Average Margin: Bedford by 2.2
 ### Jersey V Ealing Trailfinders on 2023/04/22
 
 
-Average Margin: Ealing Trailfinders by 2.0
+Average Margin: Ealing Trailfinders by 2.3
 
 <p float="left">
 <img src="plots/performances_Jersey_V_Ealing Trailfinders_12.png" width="32%" />
@@ -339,7 +339,7 @@ Average Margin: Jersey by 15.7
 ### Bedford V Coventry on 2023/04/29
 
 
-Average Margin: Bedford by 1.4
+Average Margin: Bedford by 1.6
 
 <p float="left">
 <img src="plots/performances_Bedford_V_Coventry_13.png" width="32%" />
@@ -350,7 +350,7 @@ Average Margin: Bedford by 1.4
 ### Nottingham V London Scottish on 2023/04/29
 
 
-Average Margin: Nottingham by 10.8
+Average Margin: Nottingham by 11.0
 
 <p float="left">
 <img src="plots/performances_Nottingham_V_London Scottish_13.png" width="32%" />
@@ -361,7 +361,7 @@ Average Margin: Nottingham by 10.8
 ### Richmond V Cornish Pirates on 2023/04/29
 
 
-Average Margin: Cornish Pirates by 6.1
+Average Margin: Cornish Pirates by 5.8
 
 <p float="left">
 <img src="plots/performances_Richmond_V_Cornish Pirates_13.png" width="32%" />
@@ -372,7 +372,7 @@ Average Margin: Cornish Pirates by 6.1
 ### Hartpury College V Caldy on 2023/04/29
 
 
-Average Margin: Hartpury College by 6.8
+Average Margin: Hartpury College by 7.4
 
 <p float="left">
 <img src="plots/performances_Hartpury College_V_Caldy_13.png" width="32%" />

@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup Status"  
-date: 2023-04-11 6:00:00 -0500  
+date: 2023-04-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -49,10 +49,10 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |                   1 |    1   |                 10.6 |                   0   |                0.2 |                  4.2 |
+| Leinster         |                   1 |    1   |                 10.7 |                   0   |                0.3 |                  4.3 |
 | La Rochelle      |                   1 |    0.9 |                  5.5 |                   0   |                0.3 |                  4.2 |
-| Exeter Chiefs    |                   1 |    0   |                 -5.5 |                   0.7 |                0.1 |                  1   |
-| Stade Toulousain |                   1 |    0   |                -10.6 |                   0.2 |                0.2 |                  0.4 |
+| Exeter Chiefs    |                   1 |    0   |                 -5.5 |                   0.7 |                0.1 |                  0.9 |
+| Stade Toulousain |                   1 |    0   |                -10.7 |                   0.2 |                0.2 |                  0.4 |
 
 
 
@@ -62,9 +62,9 @@ aside:
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Bulls               |               6 |    2.9 |                -55.5 |                   0   |                2.3 |                 14.2 |
-| Clermont Auvergne   |               5 |    1   |                -36.6 |                   1.2 |                1.2 |                  6.4 |
-| Castres Olympique   |               5 |    1   |                -65.4 |                   0   |                0.2 |                  4.2 |
-| Bordeaux Begles     |               5 |    0   |                -51.5 |                   2.7 |                0.1 |                  3   |
+| Clermont Auvergne   |               5 |    1   |                -36.7 |                   1.2 |                1.2 |                  6.4 |
+| Castres Olympique   |               5 |    1   |                -65.3 |                   0   |                0.3 |                  4.3 |
+| Bordeaux Begles     |               5 |    0   |                -51.5 |                   2.7 |                0.1 |                  2.9 |
 | Edinburgh           |             nan |  nan   |                nan   |                 nan   |              nan   |                nan   |
 | Exeter Chiefs       |             nan |  nan   |                nan   |                 nan   |              nan   |                nan   |
 | Gloucester Rugby    |             nan |  nan   |                nan   |                 nan   |              nan   |                nan   |
@@ -165,7 +165,7 @@ aside:
 ### Leinster V Stade Toulousain on 2023/04/29
 
 
-Average Margin: Leinster by 10.6
+Average Margin: Leinster by 10.7
 
 <p float="left">
 <img src="plots/performances_Leinster_V_Stade Toulousain_5.png" width="32%" />
