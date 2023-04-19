@@ -1,6 +1,6 @@
 ---  
 title: "United Rugby Championship Status"  
-date: 2023-04-15 6:00:00 -0500  
+date: 2023-04-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -41,22 +41,22 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |                   2 |    2   |                 21.6 |                   0   |                1.7 |                  9.7 |
-| Ulster           |                   2 |    2   |                 27.1 |                   0   |                1.2 |                  9.2 |
-| Stormers         |                   2 |    1.9 |                 17.5 |                   0.1 |                0.9 |                  8.6 |
-| Glasgow Warriors |                   2 |    1.8 |                 12.1 |                   0.1 |                0.5 |                  8.1 |
-| Sharks           |                   2 |    1.6 |                  9.1 |                   0.3 |                0.3 |                  7.1 |
-| Bulls            |                   2 |    1   |                  9.1 |                   0.3 |                1   |                  5.3 |
-| Lions            |                   2 |    1   |                  5.2 |                   0.2 |                1   |                  5.1 |
-| Connacht         |                   2 |    0.9 |                 -0.7 |                   0.6 |                0.3 |                  4.9 |
-| Edinburgh        |                   2 |    0.9 |                 -2.8 |                   0.4 |                0.4 |                  4.6 |
-| Scarlets         |                   2 |    0.8 |                 -2.8 |                   0.7 |                0.3 |                  4.4 |
-| Ospreys          |                   2 |    0.8 |                 -3.3 |                   0.7 |                0.2 |                  4.3 |
-| Munster          |                   2 |    0.4 |                 -7.4 |                   1.1 |                0.2 |                  3   |
-| Cardiff Blues    |                   2 |    0.3 |                 -8.3 |                   1.2 |                0.1 |                  2.6 |
-| Dragons          |                   2 |    0.2 |                -21.3 |                   0.6 |                0.2 |                  1.6 |
-| Benetton Treviso |                   2 |    0   |                -19.2 |                   0.6 |                0.2 |                  1   |
-| Zebre            |                   2 |    0   |                -35.9 |                   0   |                0.5 |                  0.5 |
+| Lions            |                   1 |    1   |                 16.8 |                   0   |                0.8 |                  4.8 |
+| Leinster         |                   1 |    1   |                  9.7 |                   0   |                0.9 |                  4.8 |
+| Stormers         |                   1 |    1   |                 11.8 |                   0   |                0.7 |                  4.7 |
+| Ulster           |                   1 |    1   |                  9.6 |                   0   |                0.4 |                  4.4 |
+| Glasgow Warriors |                   1 |    0.9 |                  5.9 |                   0   |                0.2 |                  4   |
+| Scarlets         |                   1 |    0.8 |                  3.5 |                   0.2 |                0.2 |                  3.5 |
+| Ospreys          |                   1 |    0.8 |                  3.2 |                   0.2 |                0.2 |                  3.5 |
+| Sharks           |                   1 |    0.6 |                  1.3 |                   0.3 |                0.1 |                  2.9 |
+| Munster          |                   1 |    0.3 |                 -1.3 |                   0.5 |                0.1 |                  2.1 |
+| Cardiff Blues    |                   1 |    0.2 |                 -3.2 |                   0.6 |                0.1 |                  1.5 |
+| Dragons          |                   1 |    0.2 |                 -3.5 |                   0.6 |                0.1 |                  1.5 |
+| Connacht         |                   1 |    0   |                 -5.9 |                   0.6 |                0.1 |                  0.9 |
+| Edinburgh        |                   1 |    0   |                 -9.6 |                   0.3 |                0.1 |                  0.4 |
+| Bulls            |                   1 |    0   |                 -9.7 |                   0.3 |                0.1 |                  0.4 |
+| Benetton Treviso |                   1 |    0   |                -11.8 |                   0.1 |                0.1 |                  0.3 |
+| Zebre            |                   1 |    0   |                -16.8 |                   0   |                0.1 |                  0.2 |
 
 
 
@@ -65,22 +65,22 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |              15 |   14   |                255.6 |                   0   |               12.7 |                 70.7 |
-| Ulster           |              15 |   12   |                169.1 |                   2   |               11.2 |                 61.2 |
-| Stormers         |              15 |   11.9 |                108.5 |                   1.1 |                9.9 |                 58.6 |
-| Glasgow Warriors |              15 |    9.8 |                 82.1 |                   0.1 |                8.5 |                 48.1 |
-| Bulls            |              15 |    8   |                 75.1 |                   2.3 |                9   |                 43.3 |
-| Lions            |              15 |    9   |                 -1.8 |                   1.2 |                6   |                 43.1 |
-| Connacht         |              15 |    8.9 |                 31.3 |                   1.6 |                5.3 |                 42.9 |
-| Munster          |              15 |    7.4 |                 73.6 |                   4.1 |                7.2 |                 41   |
-| Sharks           |              15 |    7.6 |                -36.9 |                   2.3 |                5.3 |                 38.1 |
-| Cardiff Blues    |              15 |    7.3 |                -47.3 |                   1.2 |                4.1 |                 34.6 |
-| Edinburgh        |              15 |    4.9 |                 -7.8 |                   4.4 |                6.4 |                 30.6 |
-| Scarlets         |              15 |    4.8 |                -55.8 |                   2.7 |                5.3 |                 29.4 |
-| Ospreys          |              15 |    4.8 |                -94.3 |                   4.7 |                5.2 |                 29.3 |
-| Benetton Treviso |              15 |    5   |               -144.2 |                   1.6 |                5.2 |                 27   |
-| Dragons          |              15 |    3.2 |               -124.3 |                   2.6 |                4.2 |                 19.6 |
-| Zebre            |              15 |    0   |               -282.9 |                   4   |                5.5 |                  9.5 |
+| Leinster         |              14 |   13   |                243.7 |                   0   |               11.9 |                 65.8 |
+| Ulster           |              14 |   11   |                151.6 |                   2   |               10.4 |                 56.4 |
+| Stormers         |              14 |   11   |                102.8 |                   1   |                9.7 |                 54.7 |
+| Glasgow Warriors |              14 |    8.9 |                 75.9 |                   0   |                8.2 |                 44   |
+| Lions            |              14 |    9   |                  9.8 |                   1   |                5.8 |                 42.8 |
+| Munster          |              14 |    7.3 |                 79.7 |                   3.5 |                7.1 |                 40.1 |
+| Connacht         |              14 |    8   |                 26.1 |                   1.6 |                5.1 |                 38.9 |
+| Bulls            |              14 |    7   |                 56.3 |                   2.3 |                8.1 |                 38.4 |
+| Sharks           |              14 |    6.6 |                -44.7 |                   2.3 |                5.1 |                 33.9 |
+| Cardiff Blues    |              14 |    7.2 |                -42.2 |                   0.6 |                4.1 |                 33.5 |
+| Scarlets         |              14 |    4.8 |                -49.5 |                   2.2 |                5.2 |                 28.5 |
+| Ospreys          |              14 |    4.8 |                -87.8 |                   4.2 |                5.2 |                 28.5 |
+| Edinburgh        |              14 |    4   |                -14.6 |                   4.3 |                6.1 |                 26.4 |
+| Benetton Treviso |              14 |    5   |               -136.8 |                   1.1 |                5.1 |                 26.3 |
+| Dragons          |              14 |    3.2 |               -106.5 |                   2.6 |                4.1 |                 19.5 |
+| Zebre            |              14 |    0   |               -263.8 |                   4   |                5.1 |                  9.2 |
 
 
 
@@ -202,180 +202,90 @@ aside:
 
 ## Week 7
 
-### Sharks V Benetton Treviso on 2023/04/15
-
-
-Average Margin: Sharks by 7.4
-
-<p float="left">
-<img src="plots/performances_Sharks_V_Benetton Treviso_7.png" width="32%" />
-<img src="plots/resultbar_Sharks_V_Benetton Treviso_7.png" width="32%" />
-<img src="plots/spreads_Sharks_V_Benetton Treviso_7.png" width="32%" />
-</p>
-
-### Connacht V Cardiff Blues on 2023/04/15
-
-
-Average Margin: Connacht by 5.0
-
-<p float="left">
-<img src="plots/performances_Connacht_V_Cardiff Blues_7.png" width="32%" />
-<img src="plots/resultbar_Connacht_V_Cardiff Blues_7.png" width="32%" />
-<img src="plots/spreads_Connacht_V_Cardiff Blues_7.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Scarlets on 2023/04/15
-
-
-Average Margin: Glasgow Warriors by 6.4
-
-<p float="left">
-<img src="plots/performances_Glasgow Warriors_V_Scarlets_7.png" width="32%" />
-<img src="plots/resultbar_Glasgow Warriors_V_Scarlets_7.png" width="32%" />
-<img src="plots/spreads_Glasgow Warriors_V_Scarlets_7.png" width="32%" />
-</p>
-
-### Bulls V Zebre on 2023/04/15
-
-
-Average Margin: Bulls by 18.9
-
-<p float="left">
-<img src="plots/performances_Bulls_V_Zebre_7.png" width="32%" />
-<img src="plots/resultbar_Bulls_V_Zebre_7.png" width="32%" />
-<img src="plots/spreads_Bulls_V_Zebre_7.png" width="32%" />
-</p>
-
-### Edinburgh V Ospreys on 2023/04/15
-
-
-Average Margin: Edinburgh by 6.5
-
-<p float="left">
-<img src="plots/performances_Edinburgh_V_Ospreys_7.png" width="32%" />
-<img src="plots/resultbar_Edinburgh_V_Ospreys_7.png" width="32%" />
-<img src="plots/spreads_Edinburgh_V_Ospreys_7.png" width="32%" />
-</p>
-
-### Lions V Leinster on 2023/04/15
-
-
-Average Margin: Leinster by 11.7
-
-<p float="left">
-<img src="plots/performances_Lions_V_Leinster_7.png" width="32%" />
-<img src="plots/resultbar_Lions_V_Leinster_7.png" width="32%" />
-<img src="plots/spreads_Lions_V_Leinster_7.png" width="32%" />
-</p>
-
-### Stormers V Munster on 2023/04/15
-
-
-Average Margin: Stormers by 5.7
-
-<p float="left">
-<img src="plots/performances_Stormers_V_Munster_7.png" width="32%" />
-<img src="plots/resultbar_Stormers_V_Munster_7.png" width="32%" />
-<img src="plots/spreads_Stormers_V_Munster_7.png" width="32%" />
-</p>
-
-### Ulster V Dragons on 2023/04/15
-
-
-Average Margin: Ulster by 17.7
-
-<p float="left">
-<img src="plots/performances_Ulster_V_Dragons_7.png" width="32%" />
-<img src="plots/resultbar_Ulster_V_Dragons_7.png" width="32%" />
-<img src="plots/spreads_Ulster_V_Dragons_7.png" width="32%" />
-</p>
-
-## Week 8
-
 ### Stormers V Benetton Treviso on 2023/04/22
 
 
 Average Margin: Stormers by 11.8
 
 <p float="left">
-<img src="plots/performances_Stormers_V_Benetton Treviso_8.png" width="32%" />
-<img src="plots/resultbar_Stormers_V_Benetton Treviso_8.png" width="32%" />
-<img src="plots/spreads_Stormers_V_Benetton Treviso_8.png" width="32%" />
+<img src="plots/performances_Stormers_V_Benetton Treviso_7.png" width="32%" />
+<img src="plots/resultbar_Stormers_V_Benetton Treviso_7.png" width="32%" />
+<img src="plots/spreads_Stormers_V_Benetton Treviso_7.png" width="32%" />
 </p>
 
 ### Glasgow Warriors V Connacht on 2023/04/22
 
 
-Average Margin: Glasgow Warriors by 5.8
+Average Margin: Glasgow Warriors by 5.9
 
 <p float="left">
-<img src="plots/performances_Glasgow Warriors_V_Connacht_8.png" width="32%" />
-<img src="plots/resultbar_Glasgow Warriors_V_Connacht_8.png" width="32%" />
-<img src="plots/spreads_Glasgow Warriors_V_Connacht_8.png" width="32%" />
+<img src="plots/performances_Glasgow Warriors_V_Connacht_7.png" width="32%" />
+<img src="plots/resultbar_Glasgow Warriors_V_Connacht_7.png" width="32%" />
+<img src="plots/spreads_Glasgow Warriors_V_Connacht_7.png" width="32%" />
 </p>
 
 ### Bulls V Leinster on 2023/04/22
 
 
-Average Margin: Leinster by 9.8
+Average Margin: Leinster by 9.7
 
 <p float="left">
-<img src="plots/performances_Bulls_V_Leinster_8.png" width="32%" />
-<img src="plots/resultbar_Bulls_V_Leinster_8.png" width="32%" />
-<img src="plots/spreads_Bulls_V_Leinster_8.png" width="32%" />
+<img src="plots/performances_Bulls_V_Leinster_7.png" width="32%" />
+<img src="plots/resultbar_Bulls_V_Leinster_7.png" width="32%" />
+<img src="plots/spreads_Bulls_V_Leinster_7.png" width="32%" />
 </p>
 
 ### Lions V Zebre on 2023/04/22
 
 
-Average Margin: Lions by 17.0
+Average Margin: Lions by 16.8
 
 <p float="left">
-<img src="plots/performances_Lions_V_Zebre_8.png" width="32%" />
-<img src="plots/resultbar_Lions_V_Zebre_8.png" width="32%" />
-<img src="plots/spreads_Lions_V_Zebre_8.png" width="32%" />
+<img src="plots/performances_Lions_V_Zebre_7.png" width="32%" />
+<img src="plots/resultbar_Lions_V_Zebre_7.png" width="32%" />
+<img src="plots/spreads_Lions_V_Zebre_7.png" width="32%" />
 </p>
 
 ### Ospreys V Cardiff Blues on 2023/04/22
 
 
-Average Margin: Ospreys by 3.3
+Average Margin: Ospreys by 3.2
 
 <p float="left">
-<img src="plots/performances_Ospreys_V_Cardiff Blues_8.png" width="32%" />
-<img src="plots/resultbar_Ospreys_V_Cardiff Blues_8.png" width="32%" />
-<img src="plots/spreads_Ospreys_V_Cardiff Blues_8.png" width="32%" />
+<img src="plots/performances_Ospreys_V_Cardiff Blues_7.png" width="32%" />
+<img src="plots/resultbar_Ospreys_V_Cardiff Blues_7.png" width="32%" />
+<img src="plots/spreads_Ospreys_V_Cardiff Blues_7.png" width="32%" />
 </p>
 
 ### Dragons V Scarlets on 2023/04/22
 
 
-Average Margin: Scarlets by 3.6
+Average Margin: Scarlets by 3.5
 
 <p float="left">
-<img src="plots/performances_Dragons_V_Scarlets_8.png" width="32%" />
-<img src="plots/resultbar_Dragons_V_Scarlets_8.png" width="32%" />
-<img src="plots/spreads_Dragons_V_Scarlets_8.png" width="32%" />
+<img src="plots/performances_Dragons_V_Scarlets_7.png" width="32%" />
+<img src="plots/resultbar_Dragons_V_Scarlets_7.png" width="32%" />
+<img src="plots/spreads_Dragons_V_Scarlets_7.png" width="32%" />
 </p>
 
 ### Ulster V Edinburgh on 2023/04/22
 
 
-Average Margin: Ulster by 9.3
+Average Margin: Ulster by 9.6
 
 <p float="left">
-<img src="plots/performances_Ulster_V_Edinburgh_8.png" width="32%" />
-<img src="plots/resultbar_Ulster_V_Edinburgh_8.png" width="32%" />
-<img src="plots/spreads_Ulster_V_Edinburgh_8.png" width="32%" />
+<img src="plots/performances_Ulster_V_Edinburgh_7.png" width="32%" />
+<img src="plots/resultbar_Ulster_V_Edinburgh_7.png" width="32%" />
+<img src="plots/spreads_Ulster_V_Edinburgh_7.png" width="32%" />
 </p>
 
 ### Sharks V Munster on 2023/04/22
 
 
-Average Margin: Sharks by 1.6
+Average Margin: Sharks by 1.3
 
 <p float="left">
-<img src="plots/performances_Sharks_V_Munster_8.png" width="32%" />
-<img src="plots/resultbar_Sharks_V_Munster_8.png" width="32%" />
-<img src="plots/spreads_Sharks_V_Munster_8.png" width="32%" />
+<img src="plots/performances_Sharks_V_Munster_7.png" width="32%" />
+<img src="plots/resultbar_Sharks_V_Munster_7.png" width="32%" />
+<img src="plots/spreads_Sharks_V_Munster_7.png" width="32%" />
 </p>

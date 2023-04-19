@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup Status"  
-date: 2023-04-15 6:00:00 -0500  
+date: 2023-04-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,14 +33,14 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pumas               |                   9 |    8.1 |                 92.9 |                   0.6 |                5.5 |                 38.8 |
-| Free State Cheetahs |                   9 |    7.5 |                 86.3 |                   1   |                5.7 |                 37.1 |
-| Griquas             |                   9 |    5.2 |                 16.8 |                   2   |                4   |                 27.5 |
-| Blue Bulls          |                   8 |    3.7 |                 -3.8 |                   2.2 |                3.2 |                 20.6 |
-| Natal Sharks        |                   8 |    3.6 |                 -4.8 |                   2.2 |                3.1 |                 20.3 |
-| Western Province    |                   9 |    3   |                -34.9 |                   2.5 |                3   |                 18.2 |
-| Golden Lions        |                   9 |    2.1 |                -52.4 |                   2.8 |                3.9 |                 15.7 |
-| Griffons            |                   9 |    0.8 |               -100.1 |                   2.1 |                2.6 |                  8.2 |
+| Pumas               |                   8 |    7.1 |                 81   |                   0.6 |                4.8 |                 34.2 |
+| Free State Cheetahs |                   8 |    6.7 |                 78.7 |                   0.8 |                5.1 |                 33.1 |
+| Griquas             |                   8 |    4.6 |                 13.4 |                   1.7 |                3.6 |                 24   |
+| Blue Bulls          |                   8 |    3.7 |                 -3.5 |                   2.3 |                3.2 |                 20.6 |
+| Natal Sharks        |                   8 |    3.6 |                 -6   |                   2.2 |                3   |                 20   |
+| Western Province    |                   8 |    2.9 |                -26.8 |                   2.1 |                2.9 |                 17.2 |
+| Golden Lions        |                   8 |    1.8 |                -49.1 |                   2.4 |                3.3 |                 13.3 |
+| Griffons            |                   8 |    0.8 |                -87.7 |                   2   |                2.5 |                  7.8 |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pumas               |              14 |   12.1 |                195.9 |                   1.6 |                nan |                 58.8 |
-| Free State Cheetahs |              14 |   11.5 |                171.3 |                   1   |                nan |                 56.1 |
-| Griquas             |              14 |    7.2 |                -31.2 |                   2   |                nan |                 36.5 |
-| Natal Sharks        |              13 |    6.6 |                 11.2 |                   2.2 |                nan |                 34.3 |
-| Western Province    |              14 |    6   |                -23.9 |                   2.5 |                nan |                 32.2 |
-| Golden Lions        |              14 |    4.1 |                -85.4 |                   3.8 |                nan |                 27.7 |
-| Blue Bulls          |              13 |    4.7 |                -51.8 |                   3.2 |                nan |                 27.6 |
-| Griffons            |              14 |    1.8 |               -186.1 |                   2.1 |                nan |                 13.2 |
+| Pumas               |              13 |   11.1 |                184   |                   1.6 |                nan |                 54.2 |
+| Free State Cheetahs |              13 |   10.7 |                163.7 |                   0.8 |                nan |                 52.1 |
+| Natal Sharks        |              13 |    6.6 |                 10   |                   2.2 |                nan |                 34   |
+| Griquas             |              13 |    6.6 |                -34.6 |                   1.7 |                nan |                 33   |
+| Western Province    |              13 |    5.9 |                -15.8 |                   2.1 |                nan |                 31.2 |
+| Blue Bulls          |              13 |    4.7 |                -51.5 |                   3.3 |                nan |                 27.6 |
+| Golden Lions        |              13 |    3.8 |                -82.1 |                   3.4 |                nan |                 25.3 |
+| Griffons            |              13 |    1.8 |               -173.7 |                   2   |                nan |                 12.8 |
 
 
 
@@ -94,96 +94,61 @@ aside:
 
 ## Week 6
 
-### Western Province V Free State Cheetahs on 2023/04/15
-
-
-Average Margin: Free State Cheetahs by 7.3
-
-<p float="left">
-<img src="plots/performances_Western Province_V_Free State Cheetahs_6.png" width="32%" />
-<img src="plots/resultbar_Western Province_V_Free State Cheetahs_6.png" width="32%" />
-<img src="plots/spreads_Western Province_V_Free State Cheetahs_6.png" width="32%" />
-</p>
-
-### Griffons V Pumas on 2023/04/16
-
-
-Average Margin: Pumas by 13.4
-
-<p float="left">
-<img src="plots/performances_Griffons_V_Pumas_6.png" width="32%" />
-<img src="plots/resultbar_Griffons_V_Pumas_6.png" width="32%" />
-<img src="plots/spreads_Griffons_V_Pumas_6.png" width="32%" />
-</p>
-
-### Golden Lions V Griquas on 2023/04/16
-
-
-Average Margin: Griquas by 2.4
-
-<p float="left">
-<img src="plots/performances_Golden Lions_V_Griquas_6.png" width="32%" />
-<img src="plots/resultbar_Golden Lions_V_Griquas_6.png" width="32%" />
-<img src="plots/spreads_Golden Lions_V_Griquas_6.png" width="32%" />
-</p>
-
-## Week 7
-
 ### Pumas V Western Province on 2023/04/21
 
 
-Average Margin: Pumas by 13.7
+Average Margin: Pumas by 13.6
 
 <p float="left">
-<img src="plots/performances_Pumas_V_Western Province_7.png" width="32%" />
-<img src="plots/resultbar_Pumas_V_Western Province_7.png" width="32%" />
-<img src="plots/spreads_Pumas_V_Western Province_7.png" width="32%" />
+<img src="plots/performances_Pumas_V_Western Province_6.png" width="32%" />
+<img src="plots/resultbar_Pumas_V_Western Province_6.png" width="32%" />
+<img src="plots/spreads_Pumas_V_Western Province_6.png" width="32%" />
 </p>
 
 ### Blue Bulls V Golden Lions on 2023/04/22
 
 
-Average Margin: Blue Bulls by 8.2
+Average Margin: Blue Bulls by 8.3
 
 <p float="left">
-<img src="plots/performances_Blue Bulls_V_Golden Lions_7.png" width="32%" />
-<img src="plots/resultbar_Blue Bulls_V_Golden Lions_7.png" width="32%" />
-<img src="plots/spreads_Blue Bulls_V_Golden Lions_7.png" width="32%" />
+<img src="plots/performances_Blue Bulls_V_Golden Lions_6.png" width="32%" />
+<img src="plots/resultbar_Blue Bulls_V_Golden Lions_6.png" width="32%" />
+<img src="plots/spreads_Blue Bulls_V_Golden Lions_6.png" width="32%" />
 </p>
 
 ### Griquas V Griffons on 2023/04/23
 
 
-Average Margin: Griquas by 11.8
+Average Margin: Griquas by 11.4
 
 <p float="left">
-<img src="plots/performances_Griquas_V_Griffons_7.png" width="32%" />
-<img src="plots/resultbar_Griquas_V_Griffons_7.png" width="32%" />
-<img src="plots/spreads_Griquas_V_Griffons_7.png" width="32%" />
+<img src="plots/performances_Griquas_V_Griffons_6.png" width="32%" />
+<img src="plots/resultbar_Griquas_V_Griffons_6.png" width="32%" />
+<img src="plots/spreads_Griquas_V_Griffons_6.png" width="32%" />
 </p>
 
 ### Free State Cheetahs V Natal Sharks on 2023/04/23
 
 
-Average Margin: Free State Cheetahs by 10.3
+Average Margin: Free State Cheetahs by 10.8
 
 <p float="left">
-<img src="plots/performances_Free State Cheetahs_V_Natal Sharks_7.png" width="32%" />
-<img src="plots/resultbar_Free State Cheetahs_V_Natal Sharks_7.png" width="32%" />
-<img src="plots/spreads_Free State Cheetahs_V_Natal Sharks_7.png" width="32%" />
+<img src="plots/performances_Free State Cheetahs_V_Natal Sharks_6.png" width="32%" />
+<img src="plots/resultbar_Free State Cheetahs_V_Natal Sharks_6.png" width="32%" />
+<img src="plots/spreads_Free State Cheetahs_V_Natal Sharks_6.png" width="32%" />
 </p>
 
-## Week 8
+## Week 7
 
 ### Golden Lions V Pumas on 2023/04/28
 
 
-Average Margin: Pumas by 10.5
+Average Margin: Pumas by 10.4
 
 <p float="left">
-<img src="plots/performances_Golden Lions_V_Pumas_8.png" width="32%" />
-<img src="plots/resultbar_Golden Lions_V_Pumas_8.png" width="32%" />
-<img src="plots/spreads_Golden Lions_V_Pumas_8.png" width="32%" />
+<img src="plots/performances_Golden Lions_V_Pumas_7.png" width="32%" />
+<img src="plots/resultbar_Golden Lions_V_Pumas_7.png" width="32%" />
+<img src="plots/spreads_Golden Lions_V_Pumas_7.png" width="32%" />
 </p>
 
 ### Free State Cheetahs V Griffons on 2023/04/28
@@ -192,136 +157,136 @@ Average Margin: Pumas by 10.5
 Average Margin: Free State Cheetahs by 19.8
 
 <p float="left">
-<img src="plots/performances_Free State Cheetahs_V_Griffons_8.png" width="32%" />
-<img src="plots/resultbar_Free State Cheetahs_V_Griffons_8.png" width="32%" />
-<img src="plots/spreads_Free State Cheetahs_V_Griffons_8.png" width="32%" />
+<img src="plots/performances_Free State Cheetahs_V_Griffons_7.png" width="32%" />
+<img src="plots/resultbar_Free State Cheetahs_V_Griffons_7.png" width="32%" />
+<img src="plots/spreads_Free State Cheetahs_V_Griffons_7.png" width="32%" />
 </p>
 
 ### Natal Sharks V Griquas on 2023/04/29
 
 
-Average Margin: Natal Sharks by 4.3
+Average Margin: Natal Sharks by 4.4
 
 <p float="left">
-<img src="plots/performances_Natal Sharks_V_Griquas_8.png" width="32%" />
-<img src="plots/resultbar_Natal Sharks_V_Griquas_8.png" width="32%" />
-<img src="plots/spreads_Natal Sharks_V_Griquas_8.png" width="32%" />
+<img src="plots/performances_Natal Sharks_V_Griquas_7.png" width="32%" />
+<img src="plots/resultbar_Natal Sharks_V_Griquas_7.png" width="32%" />
+<img src="plots/spreads_Natal Sharks_V_Griquas_7.png" width="32%" />
 </p>
 
 ### Western Province V Blue Bulls on 2023/04/29
 
 
-Average Margin: Western Province by 2.3
+Average Margin: Western Province by 2.7
 
 <p float="left">
-<img src="plots/performances_Western Province_V_Blue Bulls_8.png" width="32%" />
-<img src="plots/resultbar_Western Province_V_Blue Bulls_8.png" width="32%" />
-<img src="plots/spreads_Western Province_V_Blue Bulls_8.png" width="32%" />
+<img src="plots/performances_Western Province_V_Blue Bulls_7.png" width="32%" />
+<img src="plots/resultbar_Western Province_V_Blue Bulls_7.png" width="32%" />
+<img src="plots/spreads_Western Province_V_Blue Bulls_7.png" width="32%" />
 </p>
 
-## Week 9
+## Week 8
 
 ### Griquas V Golden Lions on 2023/05/05
 
 
-Average Margin: Griquas by 8.8
+Average Margin: Griquas by 8.7
 
 <p float="left">
-<img src="plots/performances_Griquas_V_Golden Lions_9.png" width="32%" />
-<img src="plots/resultbar_Griquas_V_Golden Lions_9.png" width="32%" />
-<img src="plots/spreads_Griquas_V_Golden Lions_9.png" width="32%" />
+<img src="plots/performances_Griquas_V_Golden Lions_8.png" width="32%" />
+<img src="plots/resultbar_Griquas_V_Golden Lions_8.png" width="32%" />
+<img src="plots/spreads_Griquas_V_Golden Lions_8.png" width="32%" />
 </p>
 
 ### Pumas V Griffons on 2023/05/05
 
 
-Average Margin: Pumas by 19.2
+Average Margin: Pumas by 19.9
 
 <p float="left">
-<img src="plots/performances_Pumas_V_Griffons_9.png" width="32%" />
-<img src="plots/resultbar_Pumas_V_Griffons_9.png" width="32%" />
-<img src="plots/spreads_Pumas_V_Griffons_9.png" width="32%" />
+<img src="plots/performances_Pumas_V_Griffons_8.png" width="32%" />
+<img src="plots/resultbar_Pumas_V_Griffons_8.png" width="32%" />
+<img src="plots/spreads_Pumas_V_Griffons_8.png" width="32%" />
 </p>
 
 ### Free State Cheetahs V Western Province on 2023/05/06
 
 
-Average Margin: Free State Cheetahs by 14.0
+Average Margin: Free State Cheetahs by 13.4
 
 <p float="left">
-<img src="plots/performances_Free State Cheetahs_V_Western Province_9.png" width="32%" />
-<img src="plots/resultbar_Free State Cheetahs_V_Western Province_9.png" width="32%" />
-<img src="plots/spreads_Free State Cheetahs_V_Western Province_9.png" width="32%" />
+<img src="plots/performances_Free State Cheetahs_V_Western Province_8.png" width="32%" />
+<img src="plots/resultbar_Free State Cheetahs_V_Western Province_8.png" width="32%" />
+<img src="plots/spreads_Free State Cheetahs_V_Western Province_8.png" width="32%" />
 </p>
 
 ### Blue Bulls V Natal Sharks on 2023/05/06
 
 
-Average Margin: Blue Bulls by 1.3
+Average Margin: Blue Bulls by 1.5
 
 <p float="left">
-<img src="plots/performances_Blue Bulls_V_Natal Sharks_9.png" width="32%" />
-<img src="plots/resultbar_Blue Bulls_V_Natal Sharks_9.png" width="32%" />
-<img src="plots/spreads_Blue Bulls_V_Natal Sharks_9.png" width="32%" />
+<img src="plots/performances_Blue Bulls_V_Natal Sharks_8.png" width="32%" />
+<img src="plots/resultbar_Blue Bulls_V_Natal Sharks_8.png" width="32%" />
+<img src="plots/spreads_Blue Bulls_V_Natal Sharks_8.png" width="32%" />
 </p>
 
-## Week 10
+## Week 9
 
 ### Griffons V Western Province on 2023/05/12
 
 
-Average Margin: Western Province by 2.7
+Average Margin: Western Province by 2.9
 
 <p float="left">
-<img src="plots/performances_Griffons_V_Western Province_10.png" width="32%" />
-<img src="plots/resultbar_Griffons_V_Western Province_10.png" width="32%" />
-<img src="plots/spreads_Griffons_V_Western Province_10.png" width="32%" />
+<img src="plots/performances_Griffons_V_Western Province_9.png" width="32%" />
+<img src="plots/resultbar_Griffons_V_Western Province_9.png" width="32%" />
+<img src="plots/spreads_Griffons_V_Western Province_9.png" width="32%" />
 </p>
 
 ### Pumas V Natal Sharks on 2023/05/12
 
 
-Average Margin: Pumas by 10.0
+Average Margin: Pumas by 10.3
 
 <p float="left">
-<img src="plots/performances_Pumas_V_Natal Sharks_10.png" width="32%" />
-<img src="plots/resultbar_Pumas_V_Natal Sharks_10.png" width="32%" />
-<img src="plots/spreads_Pumas_V_Natal Sharks_10.png" width="32%" />
+<img src="plots/performances_Pumas_V_Natal Sharks_9.png" width="32%" />
+<img src="plots/resultbar_Pumas_V_Natal Sharks_9.png" width="32%" />
+<img src="plots/spreads_Pumas_V_Natal Sharks_9.png" width="32%" />
 </p>
 
 ### Griquas V Blue Bulls on 2023/05/13
 
 
-Average Margin: Griquas by 4.6
+Average Margin: Griquas by 4.4
 
 <p float="left">
-<img src="plots/performances_Griquas_V_Blue Bulls_10.png" width="32%" />
-<img src="plots/resultbar_Griquas_V_Blue Bulls_10.png" width="32%" />
-<img src="plots/spreads_Griquas_V_Blue Bulls_10.png" width="32%" />
+<img src="plots/performances_Griquas_V_Blue Bulls_9.png" width="32%" />
+<img src="plots/resultbar_Griquas_V_Blue Bulls_9.png" width="32%" />
+<img src="plots/spreads_Griquas_V_Blue Bulls_9.png" width="32%" />
 </p>
 
 ### Free State Cheetahs V Golden Lions on 2023/05/13
 
 
-Average Margin: Free State Cheetahs by 17.3
+Average Margin: Free State Cheetahs by 16.8
 
 <p float="left">
-<img src="plots/performances_Free State Cheetahs_V_Golden Lions_10.png" width="32%" />
-<img src="plots/resultbar_Free State Cheetahs_V_Golden Lions_10.png" width="32%" />
-<img src="plots/spreads_Free State Cheetahs_V_Golden Lions_10.png" width="32%" />
+<img src="plots/performances_Free State Cheetahs_V_Golden Lions_9.png" width="32%" />
+<img src="plots/resultbar_Free State Cheetahs_V_Golden Lions_9.png" width="32%" />
+<img src="plots/spreads_Free State Cheetahs_V_Golden Lions_9.png" width="32%" />
 </p>
 
-## Week 11
+## Week 10
 
 ### Western Province V Pumas on 2023/05/19
 
 
-Average Margin: Pumas by 6.4
+Average Margin: Pumas by 6.9
 
 <p float="left">
-<img src="plots/performances_Western Province_V_Pumas_11.png" width="32%" />
-<img src="plots/resultbar_Western Province_V_Pumas_11.png" width="32%" />
-<img src="plots/spreads_Western Province_V_Pumas_11.png" width="32%" />
+<img src="plots/performances_Western Province_V_Pumas_10.png" width="32%" />
+<img src="plots/resultbar_Western Province_V_Pumas_10.png" width="32%" />
+<img src="plots/spreads_Western Province_V_Pumas_10.png" width="32%" />
 </p>
 
 ### Natal Sharks V Free State Cheetahs on 2023/05/19
@@ -330,9 +295,9 @@ Average Margin: Pumas by 6.4
 Average Margin: Free State Cheetahs by 3.5
 
 <p float="left">
-<img src="plots/performances_Natal Sharks_V_Free State Cheetahs_11.png" width="32%" />
-<img src="plots/resultbar_Natal Sharks_V_Free State Cheetahs_11.png" width="32%" />
-<img src="plots/spreads_Natal Sharks_V_Free State Cheetahs_11.png" width="32%" />
+<img src="plots/performances_Natal Sharks_V_Free State Cheetahs_10.png" width="32%" />
+<img src="plots/resultbar_Natal Sharks_V_Free State Cheetahs_10.png" width="32%" />
+<img src="plots/spreads_Natal Sharks_V_Free State Cheetahs_10.png" width="32%" />
 </p>
 
 ### Griffons V Griquas on 2023/05/20
@@ -341,33 +306,33 @@ Average Margin: Free State Cheetahs by 3.5
 Average Margin: Griquas by 4.7
 
 <p float="left">
-<img src="plots/performances_Griffons_V_Griquas_11.png" width="32%" />
-<img src="plots/resultbar_Griffons_V_Griquas_11.png" width="32%" />
-<img src="plots/spreads_Griffons_V_Griquas_11.png" width="32%" />
+<img src="plots/performances_Griffons_V_Griquas_10.png" width="32%" />
+<img src="plots/resultbar_Griffons_V_Griquas_10.png" width="32%" />
+<img src="plots/spreads_Griffons_V_Griquas_10.png" width="32%" />
 </p>
 
 ### Golden Lions V Blue Bulls on 2023/05/20
 
 
-Average Margin: Blue Bulls by 1.2
+Average Margin: Blue Bulls by 1.3
 
 <p float="left">
-<img src="plots/performances_Golden Lions_V_Blue Bulls_11.png" width="32%" />
-<img src="plots/resultbar_Golden Lions_V_Blue Bulls_11.png" width="32%" />
-<img src="plots/spreads_Golden Lions_V_Blue Bulls_11.png" width="32%" />
+<img src="plots/performances_Golden Lions_V_Blue Bulls_10.png" width="32%" />
+<img src="plots/resultbar_Golden Lions_V_Blue Bulls_10.png" width="32%" />
+<img src="plots/spreads_Golden Lions_V_Blue Bulls_10.png" width="32%" />
 </p>
 
-## Week 12
+## Week 11
 
 ### Natal Sharks V Griffons on 2023/05/26
 
 
-Average Margin: Natal Sharks by 12.7
+Average Margin: Natal Sharks by 12.8
 
 <p float="left">
-<img src="plots/performances_Natal Sharks_V_Griffons_12.png" width="32%" />
-<img src="plots/resultbar_Natal Sharks_V_Griffons_12.png" width="32%" />
-<img src="plots/spreads_Natal Sharks_V_Griffons_12.png" width="32%" />
+<img src="plots/performances_Natal Sharks_V_Griffons_11.png" width="32%" />
+<img src="plots/resultbar_Natal Sharks_V_Griffons_11.png" width="32%" />
+<img src="plots/spreads_Natal Sharks_V_Griffons_11.png" width="32%" />
 </p>
 
 ### Western Province V Golden Lions on 2023/05/26
@@ -376,34 +341,34 @@ Average Margin: Natal Sharks by 12.7
 Average Margin: Western Province by 6.5
 
 <p float="left">
-<img src="plots/performances_Western Province_V_Golden Lions_12.png" width="32%" />
-<img src="plots/resultbar_Western Province_V_Golden Lions_12.png" width="32%" />
-<img src="plots/spreads_Western Province_V_Golden Lions_12.png" width="32%" />
+<img src="plots/performances_Western Province_V_Golden Lions_11.png" width="32%" />
+<img src="plots/resultbar_Western Province_V_Golden Lions_11.png" width="32%" />
+<img src="plots/spreads_Western Province_V_Golden Lions_11.png" width="32%" />
 </p>
 
 ### Free State Cheetahs V Griquas on 2023/05/27
 
 
-Average Margin: Free State Cheetahs by 11.8
+Average Margin: Free State Cheetahs by 11.9
 
 <p float="left">
-<img src="plots/performances_Free State Cheetahs_V_Griquas_12.png" width="32%" />
-<img src="plots/resultbar_Free State Cheetahs_V_Griquas_12.png" width="32%" />
-<img src="plots/spreads_Free State Cheetahs_V_Griquas_12.png" width="32%" />
+<img src="plots/performances_Free State Cheetahs_V_Griquas_11.png" width="32%" />
+<img src="plots/resultbar_Free State Cheetahs_V_Griquas_11.png" width="32%" />
+<img src="plots/spreads_Free State Cheetahs_V_Griquas_11.png" width="32%" />
 </p>
 
 ### Pumas V Blue Bulls on 2023/05/27
 
 
-Average Margin: Pumas by 12.3
+Average Margin: Pumas by 12.0
 
 <p float="left">
-<img src="plots/performances_Pumas_V_Blue Bulls_12.png" width="32%" />
-<img src="plots/resultbar_Pumas_V_Blue Bulls_12.png" width="32%" />
-<img src="plots/spreads_Pumas_V_Blue Bulls_12.png" width="32%" />
+<img src="plots/performances_Pumas_V_Blue Bulls_11.png" width="32%" />
+<img src="plots/resultbar_Pumas_V_Blue Bulls_11.png" width="32%" />
+<img src="plots/spreads_Pumas_V_Blue Bulls_11.png" width="32%" />
 </p>
 
-## Week 13
+## Week 12
 
 ### Griquas V Western Province on 2023/06/02
 
@@ -411,86 +376,86 @@ Average Margin: Pumas by 12.3
 Average Margin: Griquas by 5.1
 
 <p float="left">
-<img src="plots/performances_Griquas_V_Western Province_13.png" width="32%" />
-<img src="plots/resultbar_Griquas_V_Western Province_13.png" width="32%" />
-<img src="plots/spreads_Griquas_V_Western Province_13.png" width="32%" />
+<img src="plots/performances_Griquas_V_Western Province_12.png" width="32%" />
+<img src="plots/resultbar_Griquas_V_Western Province_12.png" width="32%" />
+<img src="plots/spreads_Griquas_V_Western Province_12.png" width="32%" />
 </p>
 
 ### Blue Bulls V Griffons on 2023/06/02
 
 
-Average Margin: Blue Bulls by 10.0
+Average Margin: Blue Bulls by 10.3
 
 <p float="left">
-<img src="plots/performances_Blue Bulls_V_Griffons_13.png" width="32%" />
-<img src="plots/resultbar_Blue Bulls_V_Griffons_13.png" width="32%" />
-<img src="plots/spreads_Blue Bulls_V_Griffons_13.png" width="32%" />
+<img src="plots/performances_Blue Bulls_V_Griffons_12.png" width="32%" />
+<img src="plots/resultbar_Blue Bulls_V_Griffons_12.png" width="32%" />
+<img src="plots/spreads_Blue Bulls_V_Griffons_12.png" width="32%" />
 </p>
 
 ### Pumas V Free State Cheetahs on 2023/06/03
 
 
-Average Margin: Pumas by 3.0
+Average Margin: Pumas by 3.2
 
 <p float="left">
-<img src="plots/performances_Pumas_V_Free State Cheetahs_13.png" width="32%" />
-<img src="plots/resultbar_Pumas_V_Free State Cheetahs_13.png" width="32%" />
-<img src="plots/spreads_Pumas_V_Free State Cheetahs_13.png" width="32%" />
+<img src="plots/performances_Pumas_V_Free State Cheetahs_12.png" width="32%" />
+<img src="plots/resultbar_Pumas_V_Free State Cheetahs_12.png" width="32%" />
+<img src="plots/spreads_Pumas_V_Free State Cheetahs_12.png" width="32%" />
 </p>
 
 ### Golden Lions V Natal Sharks on 2023/06/03
 
 
-Average Margin: Natal Sharks by 3.3
+Average Margin: Natal Sharks by 3.1
 
 <p float="left">
-<img src="plots/performances_Golden Lions_V_Natal Sharks_13.png" width="32%" />
-<img src="plots/resultbar_Golden Lions_V_Natal Sharks_13.png" width="32%" />
-<img src="plots/spreads_Golden Lions_V_Natal Sharks_13.png" width="32%" />
+<img src="plots/performances_Golden Lions_V_Natal Sharks_12.png" width="32%" />
+<img src="plots/resultbar_Golden Lions_V_Natal Sharks_12.png" width="32%" />
+<img src="plots/spreads_Golden Lions_V_Natal Sharks_12.png" width="32%" />
 </p>
 
-## Week 14
+## Week 13
 
 ### Griquas V Pumas on 2023/06/09
 
 
-Average Margin: Pumas by 4.5
+Average Margin: Pumas by 4.6
 
 <p float="left">
-<img src="plots/performances_Griquas_V_Pumas_14.png" width="32%" />
-<img src="plots/resultbar_Griquas_V_Pumas_14.png" width="32%" />
-<img src="plots/spreads_Griquas_V_Pumas_14.png" width="32%" />
+<img src="plots/performances_Griquas_V_Pumas_13.png" width="32%" />
+<img src="plots/resultbar_Griquas_V_Pumas_13.png" width="32%" />
+<img src="plots/spreads_Griquas_V_Pumas_13.png" width="32%" />
 </p>
 
 ### Golden Lions V Griffons on 2023/06/09
 
 
-Average Margin: Golden Lions by 5.8
+Average Margin: Golden Lions by 6.0
 
 <p float="left">
-<img src="plots/performances_Golden Lions_V_Griffons_14.png" width="32%" />
-<img src="plots/resultbar_Golden Lions_V_Griffons_14.png" width="32%" />
-<img src="plots/spreads_Golden Lions_V_Griffons_14.png" width="32%" />
+<img src="plots/performances_Golden Lions_V_Griffons_13.png" width="32%" />
+<img src="plots/resultbar_Golden Lions_V_Griffons_13.png" width="32%" />
+<img src="plots/spreads_Golden Lions_V_Griffons_13.png" width="32%" />
 </p>
 
 ### Blue Bulls V Free State Cheetahs on 2023/06/10
 
 
-Average Margin: Free State Cheetahs by 5.4
+Average Margin: Free State Cheetahs by 5.7
 
 <p float="left">
-<img src="plots/performances_Blue Bulls_V_Free State Cheetahs_14.png" width="32%" />
-<img src="plots/resultbar_Blue Bulls_V_Free State Cheetahs_14.png" width="32%" />
-<img src="plots/spreads_Blue Bulls_V_Free State Cheetahs_14.png" width="32%" />
+<img src="plots/performances_Blue Bulls_V_Free State Cheetahs_13.png" width="32%" />
+<img src="plots/resultbar_Blue Bulls_V_Free State Cheetahs_13.png" width="32%" />
+<img src="plots/spreads_Blue Bulls_V_Free State Cheetahs_13.png" width="32%" />
 </p>
 
 ### Western Province V Natal Sharks on 2023/06/10
 
 
-Average Margin: Natal Sharks by 0.0
+Average Margin: Western Province by 0.1
 
 <p float="left">
-<img src="plots/performances_Western Province_V_Natal Sharks_14.png" width="32%" />
-<img src="plots/resultbar_Western Province_V_Natal Sharks_14.png" width="32%" />
-<img src="plots/spreads_Western Province_V_Natal Sharks_14.png" width="32%" />
+<img src="plots/performances_Western Province_V_Natal Sharks_13.png" width="32%" />
+<img src="plots/resultbar_Western Province_V_Natal Sharks_13.png" width="32%" />
+<img src="plots/spreads_Western Province_V_Natal Sharks_13.png" width="32%" />
 </p>
