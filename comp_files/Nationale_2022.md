@@ -1,12 +1,12 @@
 ---  
 title: "Nationale Status"  
-date: 2023-04-15 6:00:00 -0500  
+date: 2023-04-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
-# Team Rankings
+# Current Team Rankings
 
 
 ![Club Rankings](plots/rankings_Nationale-2022.png)
@@ -17,20 +17,20 @@ aside:
 
 | Club                       |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dax                        |       24 |     20 |                  261 |                     2 |                nan |                   92 |
-| Valence Romans Drome Rugby |       24 |     16 |                  277 |                     6 |                nan |                   80 |
-| Blagnac                    |       23 |     17 |                   93 |                     3 |                  4 |                   75 |
-| Albi                       |       23 |     15 |                  187 |                     4 |                  5 |                   71 |
-| US Bressane                |       24 |     15 |                   64 |                     4 |                  4 |                   68 |
-| Bourgoin-Jallieu           |       23 |     14 |                   22 |                     3 |                nan |                   60 |
-| Chambery                   |       23 |     12 |                   79 |                     5 |                nan |                   57 |
-| Narbonne                   |       23 |     11 |                    5 |                     5 |                  6 |                   57 |
-| Nice                       |       23 |     11 |                   46 |                     8 |                  3 |                   55 |
-| Tarbes                     |       23 |     11 |                   18 |                     6 |                  3 |                   53 |
-| Carqueiranne-Hyères        |       23 |      8 |                  -99 |                     4 |                nan |                   39 |
-| Suresnes                   |       23 |      7 |                 -239 |                     3 |                nan |                   36 |
-| Rennes                     |       23 |      4 |                 -264 |                     5 |                  2 |                   23 |
-| Cognac Saint Jean d'Angély |       24 |      0 |                 -450 |                     8 |                nan |                    8 |
+| Dax                        |       24 |     20 |                  285 |                     2 |                 10 |                   92 |
+| Valence Romans Drome Rugby |       24 |     17 |                  299 |                     5 |                nan |                   84 |
+| Albi                       |       23 |     15 |                  187 |                     4 |                  6 |                   72 |
+| Blagnac                    |       23 |     16 |                   56 |                     3 |                  4 |                   71 |
+| Bourgoin-Jallieu           |       23 |     15 |                   73 |                     3 |                  2 |                   65 |
+| US Bressane                |       23 |     14 |                   36 |                     4 |                  3 |                   63 |
+| Nice                       |       23 |     12 |                   71 |                     7 |                  4 |                   59 |
+| Narbonne                   |       23 |     11 |                   -7 |                     5 |                  6 |                   57 |
+| Chambery                   |       23 |     11 |                   56 |                     5 |                  5 |                   54 |
+| Tarbes                     |       23 |     10 |                  -33 |                     6 |                  3 |                   49 |
+| Suresnes                   |       23 |      8 |                 -218 |                     3 |                  3 |                   40 |
+| Carqueiranne-Hyères        |       23 |      7 |                 -123 |                     5 |                  2 |                   35 |
+| Rennes                     |       23 |      4 |                 -272 |                     5 |                  2 |                   23 |
+| Cognac Saint Jean d'Angély |       23 |      0 |                 -410 |                     9 |                nan |                    9 |
 
 
 
@@ -39,20 +39,20 @@ aside:
 
 | Club                       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Albi                       |                   2 |    2   |                 20.9 |                   0   |                0.8 |                  8.8 |
-| Dax                        |                   2 |    1.7 |                 12.8 |                   0.2 |                0.8 |                  8   |
-| Valence Romans Drome Rugby |                   2 |    1.7 |                 10.4 |                   0.2 |                0.4 |                  7.5 |
-| Nice                       |                   2 |    1.6 |                 16.7 |                   0.3 |                0.5 |                  7.3 |
-| Bourgoin-Jallieu           |                   2 |    1.5 |                  9.3 |                   0.3 |                0.1 |                  6.8 |
-| Blagnac                    |                   2 |    1.3 |                 10.2 |                   0.6 |                0.6 |                  6.4 |
-| Narbonne                   |                   2 |    1.1 |                  3.2 |                   0.7 |                0.2 |                  5.4 |
-| US Bressane                |                   2 |    0.9 |                 -2   |                   0.4 |                0.5 |                  4.8 |
-| Suresnes                   |                   2 |    1   |                 -3   |                   0.1 |                0.7 |                  4.8 |
-| Carqueiranne-Hyères        |                   2 |    0.4 |                 -7.6 |                   1   |                0.3 |                  3.2 |
-| Chambery                   |                   2 |    0.2 |                -10   |                   1.1 |                0.1 |                  2.3 |
-| Tarbes                     |                   2 |    0   |                -16.2 |                   0.8 |                0.3 |                  1.3 |
-| Rennes                     |                   2 |    0.1 |                -22.4 |                   0.5 |                0.4 |                  1.3 |
-| Cognac Saint Jean d'Angély |                   2 |    0   |                -22.2 |                   0.4 |                0.2 |                  0.7 |
+| Albi                       |                   1 |    1   |                 11.9 |                   0   |                1   |                  5   |
+| Blagnac                    |                   1 |    1   |                 10.6 |                   0   |                1   |                  5   |
+| Bourgoin-Jallieu           |                   1 |    1   |                  8.5 |                   0   |                0.9 |                  4.8 |
+| US Bressane                |                   1 |    1   |                  6.4 |                   0   |                0.9 |                  4.8 |
+| Dax                        |                   1 |    0.8 |                  3.3 |                   0.2 |                0.8 |                  4.3 |
+| Valence Romans Drome Rugby |                   1 |    0.8 |                  3.1 |                   0.2 |                0.8 |                  4.1 |
+| Nice                       |                   1 |    0.7 |                  2.3 |                   0.3 |                0.6 |                  3.7 |
+| Carqueiranne-Hyères        |                   1 |    0.3 |                 -2.3 |                   0.5 |                0.3 |                  2   |
+| Chambery                   |                   1 |    0.2 |                 -3.1 |                   0.6 |                0.2 |                  1.6 |
+| Narbonne                   |                   1 |    0.2 |                 -3.3 |                   0.6 |                0.1 |                  1.5 |
+| Tarbes                     |                   1 |    0   |                 -6.4 |                   0.5 |                0.1 |                  0.7 |
+| Rennes                     |                   1 |    0   |                 -8.5 |                   0.3 |                0.1 |                  0.6 |
+| Suresnes                   |                   1 |    0   |                -10.6 |                   0.1 |                0   |                  0.2 |
+| Cognac Saint Jean d'Angély |                   1 |    0   |                -11.9 |                   0.1 |                0   |                  0.1 |
 
 
 
@@ -61,352 +61,110 @@ aside:
 
 | Club                       |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dax                        |              26 |   21.7 |                273.8 |                   2.2 |              nan   |                100   |
-| Valence Romans Drome Rugby |              26 |   17.7 |                287.4 |                   6.2 |              nan   |                 87.5 |
-| Blagnac                    |              25 |   18.3 |                103.2 |                   3.6 |                4.6 |                 81.4 |
-| Albi                       |              25 |   17   |                207.9 |                   4   |                5.8 |                 79.8 |
-| US Bressane                |              26 |   15.9 |                 62   |                   4.4 |                4.5 |                 72.8 |
-| Bourgoin-Jallieu           |              25 |   15.5 |                 31.3 |                   3.3 |              nan   |                 66.8 |
-| Narbonne                   |              25 |   12.1 |                  8.2 |                   5.7 |                6.2 |                 62.4 |
-| Nice                       |              25 |   12.6 |                 62.7 |                   8.3 |                3.5 |                 62.3 |
-| Chambery                   |              25 |   12.2 |                 69   |                   6.1 |              nan   |                 59.3 |
-| Tarbes                     |              25 |   11   |                  1.8 |                   6.8 |                3.3 |                 54.3 |
-| Carqueiranne-Hyères        |              25 |    8.4 |               -106.6 |                   5   |              nan   |                 42.2 |
-| Suresnes                   |              25 |    8   |               -242   |                   3.1 |              nan   |                 40.8 |
-| Rennes                     |              25 |    4.1 |               -286.4 |                   5.5 |                2.4 |                 24.3 |
-| Cognac Saint Jean d'Angély |              26 |    0   |               -472.2 |                   8.4 |              nan   |                  8.7 |
+| Dax                        |              25 |   20.8 |                288.3 |                   2.2 |               10.8 |                 96.3 |
+| Valence Romans Drome Rugby |              25 |   17.8 |                302.1 |                   5.2 |                0.8 |                 88.1 |
+| Albi                       |              24 |   16   |                198.9 |                   4   |                7   |                 77   |
+| Blagnac                    |              24 |   17   |                 66.6 |                   3   |                5   |                 76   |
+| Bourgoin-Jallieu           |              24 |   16   |                 81.5 |                   3   |                2.9 |                 69.8 |
+| US Bressane                |              24 |   15   |                 42.4 |                   4   |                3.9 |                 67.8 |
+| Nice                       |              24 |   12.7 |                 73.3 |                   7.3 |                4.6 |                 62.7 |
+| Narbonne                   |              24 |   11.2 |                -10.3 |                   5.6 |                6.1 |                 58.5 |
+| Chambery                   |              24 |   11.2 |                 52.9 |                   5.6 |                5.2 |                 55.6 |
+| Tarbes                     |              24 |   10   |                -39.4 |                   6.5 |                3.1 |                 49.7 |
+| Suresnes                   |              24 |    8   |               -228.6 |                   3.1 |                3   |                 40.2 |
+| Carqueiranne-Hyères        |              24 |    7.3 |               -125.3 |                   5.5 |                2.3 |                 37   |
+| Rennes                     |              24 |    4   |               -280.5 |                   5.3 |                2.1 |                 23.6 |
+| Cognac Saint Jean d'Angély |              24 |    0   |               -421.9 |                   9.1 |                0   |                  9.1 |
 
 
 
 # Completed Match Review
 
 
-| Match                                                                 |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
-|:----------------------------------------------------------------------|---------:|--------------------:|---------------------:|------------------:|
-| Chambery V Tarbes on 2022/09/02                                       |        5 |                -7.2 |                 -4   |               8.6 |
-| Rennes V Suresnes on 2022/09/03                                       |      -10 |                 6.8 |                  5.1 |              17   |
-| Dax V US Bressane on 2022/09/03                                       |        6 |                -4.9 |                 -4   |               1.2 |
-| Blagnac V Albi on 2022/09/03                                          |        4 |                -8.7 |                -10.5 |              -1.6 |
-| Narbonne V Nice on 2022/09/03                                         |        8 |                -1.5 |                 -1.5 |               1.5 |
-| Carqueiranne-Hyères V Bourgoin-Jallieu on 2022/09/04                  |       -8 |                11.1 |                 11.6 |              14.9 |
-| Cognac Saint Jean d'Angély V Valence Romans Drome Rugby on 2022/09/04 |       -3 |                 2.8 |                  1.2 |              -4.3 |
-| US Bressane V Chambery on 2022/09/09                                  |       18 |                 3.1 |                  4   |               6.2 |
-| Albi V Rennes on 2022/09/10                                           |        4 |                 7.9 |                  8.8 |              -2   |
-| Nice V Dax on 2022/09/10                                              |       -1 |                 7.8 |                  4.1 |               6.1 |
-| Suresnes V Carqueiranne-Hyères on 2022/09/10                          |        6 |                13.1 |                 22.3 |              -8   |
-| Bourgoin-Jallieu V Narbonne on 2022/09/10                             |       11 |                 5.5 |                  7.4 |               5.7 |
-| Tarbes V Cognac Saint Jean d'Angély on 2022/09/10                     |       16 |                15.2 |                  7.6 |               5.6 |
-| Valence Romans Drome Rugby V Blagnac on 2022/09/10                    |       32 |                14.8 |                 15.4 |              12   |
-| Blagnac V Tarbes on 2022/09/17                                        |        1 |                 5.5 |                  1.2 |               4.8 |
-| Nice V Bourgoin-Jallieu on 2022/09/17                                 |       -7 |                -1.5 |                 -3.5 |               6.3 |
-| Rennes V Valence Romans Drome Rugby on 2022/09/17                     |      -31 |                 0.6 |                 -0.5 |               9.6 |
-| Dax V Chambery on 2022/09/17                                          |       12 |                14.1 |                 15.7 |               3   |
-| Narbonne V Suresnes on 2022/09/17                                     |        6 |                -3.4 |                 -1   |               5.4 |
-| Carqueiranne-Hyères V Albi on 2022/09/18                              |        6 |                 5.4 |                  3.6 |              11   |
-| Cognac Saint Jean d'Angély V US Bressane on 2022/09/18                |       -1 |               -17.1 |                 -9   |              -2.4 |
-| Albi V Narbonne on 2022/09/24                                         |       26 |                -6.4 |                 -5.4 |               9.6 |
-| Suresnes V Nice on 2022/09/24                                         |      -10 |                13.6 |                 14.1 |               0.6 |
-| Bourgoin-Jallieu V Dax on 2022/09/24                                  |        2 |                 8.6 |                 13.7 |               4.3 |
-| Tarbes V Rennes on 2022/09/24                                         |       27 |                12.2 |                 11.9 |              -8.3 |
-| Valence Romans Drome Rugby V Carqueiranne-Hyères on 2022/09/24        |       42 |                22.7 |                 19.6 |              -0.6 |
-| US Bressane V Blagnac on 2022/09/24                                   |       19 |                 8.8 |                  9.6 |              10.1 |
-| Chambery V Cognac Saint Jean d'Angély on 2022/09/25                   |       19 |                 6.7 |                  2.4 |               9.7 |
-| Carqueiranne-Hyères V Tarbes on 2022/10/08                            |        5 |                -5.7 |                 -5.2 |             -14.5 |
-| Blagnac V Chambery on 2022/10/08                                      |       11 |                -8.2 |                -11.9 |               0.9 |
-| Nice V Albi on 2022/10/08                                             |        0 |                -3   |                 -0.5 |               0.8 |
-| Rennes V US Bressane on 2022/10/08                                    |       -1 |               -14.9 |                -19.9 |             -31.9 |
-| Bourgoin-Jallieu V Suresnes on 2022/10/08                             |       -5 |                30   |                 25.5 |               7.9 |
-| Narbonne V Valence Romans Drome Rugby on 2022/10/08                   |       -7 |               -10.5 |                -14   |              -4.4 |
-| Dax V Cognac Saint Jean d'Angély on 2022/10/08                        |       22 |                24.3 |                 23.9 |              10.5 |
-| US Bressane V Carqueiranne-Hyères on 2022/10/14                       |       20 |                 6.1 |                  7   |              27.8 |
-| Albi V Bourgoin-Jallieu on 2022/10/15                                 |       11 |                 9.9 |                 11.6 |               7   |
-| Suresnes V Dax on 2022/10/15                                          |      -15 |                -3.3 |                 -4   |               1.3 |
-| Tarbes V Narbonne on 2022/10/15                                       |       13 |                 7.5 |                  8   |               5.6 |
-| Valence Romans Drome Rugby V Nice on 2022/10/15                       |        3 |                21   |                 23.4 |              11.3 |
-| Chambery V Rennes on 2022/10/16                                       |       15 |                 9.3 |                  9.5 |              37.7 |
-| Cognac Saint Jean d'Angély V Blagnac on 2022/10/16                    |      -19 |                -0.3 |                  5.2 |               3.1 |
-| Nice V Tarbes on 2022/10/22                                           |       19 |                11.1 |                  8.8 |               5.5 |
-| Rennes V Cognac Saint Jean d'Angély on 2022/10/22                     |        1 |                10.1 |                 10.4 |             -23.7 |
-| Suresnes V Albi on 2022/10/22                                         |        2 |                 8.6 |                  6.4 |              -1.4 |
-| Bourgoin-Jallieu V Valence Romans Drome Rugby on 2022/10/22           |        0 |                -4.6 |                 -6   |              -1.1 |
-| Narbonne V US Bressane on 2022/10/22                                  |       12 |                 0.1 |                 -1.5 |              -0.9 |
-| Dax V Blagnac on 2022/10/22                                           |        6 |                 3.9 |                  4.1 |               9.1 |
-| Carqueiranne-Hyères V Chambery on 2022/10/23                          |        7 |                 5.1 |                  1   |             -15.7 |
-| US Bressane V Nice on 2022/10/28                                      |       19 |                -7.2 |                 -5.6 |               7.8 |
-| Blagnac V Rennes on 2022/10/29                                        |       18 |                23.5 |                 21.9 |              34.1 |
-| Albi V Dax on 2022/10/29                                              |       15 |                 1.8 |                 -0.3 |               7.1 |
-| Tarbes V Bourgoin-Jallieu on 2022/10/29                               |       16 |                 5   |                  4.3 |               2.3 |
-| Valence Romans Drome Rugby V Suresnes on 2022/10/29                   |       13 |                 9.5 |                  9.4 |              13.4 |
-| Chambery V Narbonne on 2022/10/30                                     |        8 |                 6   |                  3.1 |               6.7 |
-| Cognac Saint Jean d'Angély V Carqueiranne-Hyères on 2022/10/30        |       -3 |                -7.2 |                 -6.2 |              19.7 |
-| Nice V Chambery on 2022/11/05                                         |       -6 |                19.9 |                 13.9 |               6.8 |
-| Suresnes V Tarbes on 2022/11/05                                       |        5 |               -11.3 |                 -9.8 |               3.9 |
-| Albi V Valence Romans Drome Rugby on 2022/11/05                       |        7 |                 2.3 |                  4.8 |               2.2 |
-| Bourgoin-Jallieu V US Bressane on 2022/11/05                          |       -6 |                -5.6 |                 -6.2 |               1.9 |
-| Narbonne V Cognac Saint Jean d'Angély on 2022/11/05                   |       37 |                 6.5 |                  7.8 |              11.1 |
-| Dax V Rennes on 2022/11/05                                            |       26 |                15.2 |                 16.3 |              19.7 |
-| Carqueiranne-Hyères V Blagnac on 2022/11/06                           |      -12 |                -0   |                  3.5 |               7.2 |
-| Valence Romans Drome Rugby V Dax on 2022/11/18                        |       -4 |                -6.8 |                 -4.2 |               9.1 |
-| US Bressane V Suresnes on 2022/11/18                                  |       23 |                10.8 |                 18.1 |               8.7 |
-| Blagnac V Narbonne on 2022/11/19                                      |        0 |                 1.1 |                  2.5 |               4.8 |
-| Tarbes V Albi on 2022/11/19                                           |       15 |                 0.4 |                  1.5 |              -1   |
-| Chambery V Bourgoin-Jallieu on 2022/11/20                             |       -7 |                17.4 |                 13.5 |               3.2 |
-| Cognac Saint Jean d'Angély V Nice on 2022/11/20                       |      -15 |               -12.6 |                -13.7 |              -4.6 |
-| Rennes V Carqueiranne-Hyères on 2022/11/20                            |        2 |                -8.5 |                 -6.2 |              -9.9 |
-| Valence Romans Drome Rugby V Tarbes on 2022/11/25                     |       30 |                 6.5 |                  9.9 |              12.4 |
-| Albi V US Bressane on 2022/11/26                                      |        6 |                 4.2 |                  7.5 |               6.4 |
-| Nice V Blagnac on 2022/11/26                                          |        3 |                16.4 |                 16.5 |               6.7 |
-| Suresnes V Chambery on 2022/11/26                                     |       11 |                -8   |                 -8.4 |               4.2 |
-| Bourgoin-Jallieu V Cognac Saint Jean d'Angély on 2022/11/26           |       31 |                23.2 |                 21.1 |              12.7 |
-| Narbonne V Rennes on 2022/11/26                                       |       25 |                19.7 |                 19.8 |              15.9 |
-| Dax V Carqueiranne-Hyères on 2022/11/26                               |       33 |                25.7 |                 23.9 |               5.2 |
-| US Bressane V Valence Romans Drome Rugby on 2022/12/02                |        1 |                -4.4 |                 -0   |               1.7 |
-| Blagnac V Bourgoin-Jallieu on 2022/12/03                              |        6 |                 0.3 |                  2.9 |               3.6 |
-| Tarbes V Dax on 2022/12/03                                            |       -4 |                -5.4 |                 -5.4 |               0.1 |
-| Carqueiranne-Hyères V Narbonne on 2022/12/04                          |       -1 |               -19.7 |                -15.5 |              -3.5 |
-| Chambery V Albi on 2022/12/04                                         |       -1 |                 5.6 |                  2.3 |              -1.1 |
-| Cognac Saint Jean d'Angély V Suresnes on 2022/12/04                   |       -6 |                 2.9 |                  5.7 |              -3.5 |
-| Rennes V Nice on 2022/12/04                                           |       -4 |                -1.6 |                 -2.9 |              -7.3 |
-| Valence Romans Drome Rugby V Chambery on 2022/12/09                   |       -4 |                24.3 |                 21.2 |              12.3 |
-| Albi V Cognac Saint Jean d'Angély on 2022/12/10                       |       61 |                23.6 |                 27.1 |              18.1 |
-| Nice V Carqueiranne-Hyères on 2022/12/10                              |       12 |                16   |                 15   |              13.6 |
-| Suresnes V Blagnac on 2022/12/10                                      |       -3 |                -2.2 |                 -0.1 |               3.3 |
-| Bourgoin-Jallieu V Rennes on 2022/12/10                               |       18 |                26.3 |                 25.8 |              16.3 |
-| Dax V Narbonne on 2022/12/10                                          |       39 |                 6.2 |                  5.1 |               8.9 |
-| Tarbes V US Bressane on 2022/12/10                                    |       -4 |                 4.7 |                  2.5 |               0.4 |
-| US Bressane V Dax on 2022/12/16                                       |       -2 |                 5.6 |                  4.8 |               4.2 |
-| Carqueiranne-Hyères V Suresnes on 2023/01/14                          |       20 |                 7.5 |                  9.1 |              -1.6 |
-| Blagnac V Valence Romans Drome Rugby on 2023/01/14                    |        2 |                23.3 |                 18.8 |              -0.9 |
-| Narbonne V Bourgoin-Jallieu on 2023/01/14                             |       16 |                 3.7 |                  1.7 |               2.8 |
-| Dax V Nice on 2023/01/14                                              |        4 |                14   |                 24.4 |               9   |
-| Chambery V US Bressane on 2023/01/15                                  |       10 |                -0   |                  1   |               0.5 |
-| Cognac Saint Jean d'Angély V Tarbes on 2023/01/15                     |      -23 |               -11.9 |                 -9.7 |              -4.5 |
-| Rennes V Albi on 2023/01/15                                           |      -13 |               -12.1 |                -10.7 |             -10.6 |
-| US Bressane V Cognac Saint Jean d'Angély on 2023/01/20                |       18 |                12.8 |                 16   |              17.9 |
-| Albi V Carqueiranne-Hyères on 2023/01/21                              |       17 |                15.5 |                 17.3 |              16.7 |
-| Bourgoin-Jallieu V Nice on 2023/01/21                                 |       11 |                -7.4 |                 -8.1 |               4.6 |
-| Suresnes V Narbonne on 2023/01/21                                     |      -23 |               -12.6 |                -13.9 |               3.9 |
-| Tarbes V Blagnac on 2023/01/21                                        |        0 |                -0.9 |                 -1.9 |               3.3 |
-| Valence Romans Drome Rugby V Rennes on 2023/01/21                     |        7 |                19.8 |                 17.5 |              20.8 |
-| Chambery V Dax on 2023/01/22                                          |       -5 |                 3.4 |                  1.4 |              -1   |
-| Blagnac V US Bressane on 2023/01/28                                   |       16 |                -9   |                 -7.7 |               1.3 |
-| Nice V Suresnes on 2023/01/28                                         |       21 |                21.8 |                 20.1 |               6.7 |
-| Rennes V Tarbes on 2023/01/28                                         |       -5 |                -2.2 |                 -3.7 |              -5.2 |
-| Narbonne V Albi on 2023/01/28                                         |      -12 |                 8.6 |                  4.9 |              -1   |
-| Dax V Bourgoin-Jallieu on 2023/01/28                                  |       19 |                17.5 |                 19.7 |               8.9 |
-| Carqueiranne-Hyères V Valence Romans Drome Rugby on 2023/01/29        |       -8 |                14.8 |                 13.6 |              -9   |
-| Cognac Saint Jean d'Angély V Chambery on 2023/01/29                   |      -43 |               -17   |                -16.2 |              -4.9 |
-| US Bressane V Rennes on 2023/02/10                                    |       17 |                 7.6 |                 11.3 |              16.3 |
-| Albi V Nice on 2023/02/11                                             |        0 |                10.7 |                 10.1 |               8.7 |
-| Suresnes V Bourgoin-Jallieu on 2023/02/11                             |      -18 |               -11.8 |                -15.6 |               0.3 |
-| Tarbes V Carqueiranne-Hyères on 2023/02/11                            |        6 |                13.3 |                 16.1 |               8.9 |
-| Valence Romans Drome Rugby V Narbonne on 2023/02/11                   |        6 |                14.4 |                 15.4 |               9.8 |
-| Chambery V Blagnac on 2023/02/12                                      |       -1 |                 4.1 |                  4.6 |               3.7 |
-| Cognac Saint Jean d'Angély V Dax on 2023/02/12                        |      -42 |               -34.3 |                -33   |             -12.1 |
-| Blagnac V Cognac Saint Jean d'Angély on 2023/02/18                    |       22 |                40.6 |                 40.2 |              17.1 |
-| Nice V Valence Romans Drome Rugby on 2023/02/18                       |       13 |                12.8 |                 18.7 |               0.2 |
-| Bourgoin-Jallieu V Albi on 2023/02/18                                 |        1 |                 7.9 |                  8.8 |              -0.6 |
-| Narbonne V Tarbes on 2023/02/18                                       |       -3 |                 7.5 |                 13.1 |               4.9 |
-| Dax V Suresnes on 2023/02/18                                          |       16 |                27.8 |                 29.7 |              13.9 |
-| Rennes V Chambery on 2023/02/19                                       |        9 |                -4.3 |                 -4.6 |              -5.2 |
-| Carqueiranne-Hyères V US Bressane on 2023/02/19                       |       40 |                 4.4 |                  4.8 |              -2.9 |
-| Valence Romans Drome Rugby V Bourgoin-Jallieu on 2023/03/03           |       42 |                12.2 |                 13.3 |               8.1 |
-| Blagnac V Dax on 2023/03/04                                           |       11 |                 9   |                  5.2 |               0.4 |
-| Cognac Saint Jean d'Angély V Rennes on 2023/03/04                     |       -1 |               -17.8 |                -12   |              -0.6 |
-| Albi V Suresnes on 2023/03/04                                         |       43 |                14.5 |                 14.8 |              14.1 |
-| Chambery V Carqueiranne-Hyères on 2023/03/04                          |       22 |                -2.9 |                 -3.4 |               5.5 |
-| Tarbes V Nice on 2023/03/04                                           |        2 |                 0.9 |                  5.8 |               2.4 |
-| US Bressane V Narbonne on 2023/03/04                                  |        7 |                 8   |                  8.5 |               6.5 |
-| Bourgoin-Jallieu V Tarbes on 2023/03/10                               |        9 |                 0.8 |                 -1.8 |               5.5 |
-| Dax V Albi on 2023/03/11                                              |       -5 |                -7   |                 -7.1 |               5.6 |
-| Narbonne V Chambery on 2023/03/11                                     |       -7 |                12.3 |                 11.3 |               4.6 |
-| Nice V US Bressane on 2023/03/11                                      |        2 |                25.2 |                 25.8 |               4.7 |
-| Suresnes V Valence Romans Drome Rugby on 2023/03/11                   |      -32 |               -17.6 |                -15.6 |              -5   |
-| Carqueiranne-Hyères V Cognac Saint Jean d'Angély on 2023/03/12        |       19 |                17   |                 15.4 |              14.9 |
-| Rennes V Blagnac on 2023/03/12                                        |       -9 |               -14.2 |                -13.3 |              -3.8 |
-| Chambery V Nice on 2023/03/24                                         |        2 |                19   |                 19.8 |               2.1 |
-| US Bressane V Bourgoin-Jallieu on 2023/03/24                          |        0 |                 2.1 |                  3.3 |               5.3 |
-| Valence Romans Drome Rugby V Albi on 2023/03/24                       |       14 |                10.5 |                  9.7 |               4.4 |
-| Blagnac V Carqueiranne-Hyères on 2023/03/25                           |       13 |                 0.4 |                  4.2 |               7.5 |
-| Cognac Saint Jean d'Angély V Narbonne on 2023/03/26                   |       -4 |               -19.3 |                -15   |              -7   |
-| Rennes V Dax on 2023/03/26                                            |      -21 |                 0.2 |                 -0.8 |              -7.9 |
-| Tarbes V Suresnes on 2023/03/26                                       |        0 |                20.5 |                 16.8 |               9.3 |
-| Nice V Cognac Saint Jean d'Angély on 2023/04/01                       |       16 |                25.9 |                 25.4 |              18.1 |
-| Suresnes V US Bressane on 2023/04/01                                  |       -4 |                 1.5 |                  1.5 |              -2.6 |
-| Albi V Tarbes on 2023/04/01                                           |        8 |                17.5 |                 17.6 |              10.3 |
-| Bourgoin-Jallieu V Chambery on 2023/04/01                             |       17 |                 7   |                  6.2 |               4.7 |
-| Narbonne V Blagnac on 2023/04/01                                      |        1 |                -4.6 |                -10.2 |               1   |
-| Dax V Valence Romans Drome Rugby on 2023/04/01                        |        5 |                 4.1 |                  2.2 |               3.8 |
-| Carqueiranne-Hyères V Rennes on 2023/04/02                            |       15 |                16.4 |                 16   |              10   |
-| US Bressane V Albi on 2023/04/07                                      |        0 |                -0.8 |                  2.2 |               1.1 |
-| Blagnac V Nice on 2023/04/08                                          |        6 |                 9.7 |                  5.4 |               5.2 |
-| Rennes V Narbonne on 2023/04/08                                       |      -11 |                -4.9 |                 -3.9 |              -3   |
-| Tarbes V Valence Romans Drome Rugby on 2023/04/08                     |      -18 |                -9.1 |                 -7.5 |              -2.1 |
-| Valence Romans Drome Rugby V Cognac Saint Jean d'Angély on 2022/12/16 |       25 |               nan   |                nan   |              20.3 |
-| Chambery V Suresnes on 2023/04/09                                     |       37 |               nan   |                nan   |              10.6 |
-| Cognac Saint Jean d'Angély V Bourgoin-Jallieu on 2023/04/09           |       -3 |               nan   |                nan   |              -8.1 |
-| Carqueiranne-Hyères V Dax on 2023/04/09                               |      -12 |               nan   |                nan   |              -3.6 |
-| ------ | ------ | ------ | ------ | ------ |
-| Average Error |       - | 11.0 | 10.9 | 10.5 |
-| Correct Winner |       - | 68.6% | 67.9% | 68.7% |
+| Model | Percent Correct Predictions | Spread Error |
+| ------ | ------ | ------ |
+| Club Level | 69.1% | 10.7 |
+| Player Level: Lineup | 70.8% | 11.3 |
+| Player Level: Minutes | 68.3% | 11.2 |
 
 
 # Future Predictions
 
 ## Week 11
 
-### Valence Romans Drome Rugby V US Bressane on 2023/04/15
+### Chambery V Valence Romans Drome Rugby on 2023/04/29
 
 
-Average Margin: Valence Romans Drome Rugby by 8.1
-
-<p float="left">
-<img src="plots/performances_Valence Romans Drome Rugby_V_US Bressane_11.png" width="32%" />
-<img src="plots/resultbar_Valence Romans Drome Rugby_V_US Bressane_11.png" width="32%" />
-<img src="plots/spreads_Valence Romans Drome Rugby_V_US Bressane_11.png" width="32%" />
-</p>
-
-### Suresnes V Cognac Saint Jean d'Angély on 2023/04/15
-
-
-Average Margin: Suresnes by 9.0
+Average Margin: Valence Romans Drome Rugby by 3.4
 
 <p float="left">
-<img src="plots/performances_Suresnes_V_Cognac Saint Jean d'Angély_11.png" width="32%" />
-<img src="plots/resultbar_Suresnes_V_Cognac Saint Jean d'Angély_11.png" width="32%" />
-<img src="plots/spreads_Suresnes_V_Cognac Saint Jean d'Angély_11.png" width="32%" />
-</p>
-
-### Nice V Rennes on 2023/04/15
-
-
-Average Margin: Nice by 15.0
-
-<p float="left">
-<img src="plots/performances_Nice_V_Rennes_11.png" width="32%" />
-<img src="plots/resultbar_Nice_V_Rennes_11.png" width="32%" />
-<img src="plots/spreads_Nice_V_Rennes_11.png" width="32%" />
-</p>
-
-### Albi V Chambery on 2023/04/15
-
-
-Average Margin: Albi by 7.7
-
-<p float="left">
-<img src="plots/performances_Albi_V_Chambery_11.png" width="32%" />
-<img src="plots/resultbar_Albi_V_Chambery_11.png" width="32%" />
-<img src="plots/spreads_Albi_V_Chambery_11.png" width="32%" />
-</p>
-
-### Bourgoin-Jallieu V Blagnac on 2023/04/15
-
-
-Average Margin: Bourgoin-Jallieu by 1.8
-
-<p float="left">
-<img src="plots/performances_Bourgoin-Jallieu_V_Blagnac_11.png" width="32%" />
-<img src="plots/resultbar_Bourgoin-Jallieu_V_Blagnac_11.png" width="32%" />
-<img src="plots/spreads_Bourgoin-Jallieu_V_Blagnac_11.png" width="32%" />
-</p>
-
-### Narbonne V Carqueiranne-Hyères on 2023/04/15
-
-
-Average Margin: Narbonne by 5.9
-
-<p float="left">
-<img src="plots/performances_Narbonne_V_Carqueiranne-Hyères_11.png" width="32%" />
-<img src="plots/resultbar_Narbonne_V_Carqueiranne-Hyères_11.png" width="32%" />
-<img src="plots/spreads_Narbonne_V_Carqueiranne-Hyères_11.png" width="32%" />
-</p>
-
-### Dax V Tarbes on 2023/04/15
-
-
-Average Margin: Dax by 10.0
-
-<p float="left">
-<img src="plots/performances_Dax_V_Tarbes_11.png" width="32%" />
-<img src="plots/resultbar_Dax_V_Tarbes_11.png" width="32%" />
-<img src="plots/spreads_Dax_V_Tarbes_11.png" width="32%" />
-</p>
-
-## Week 12
-
-### Cognac Saint Jean d'Angély V Albi on 2023/04/29
-
-
-Average Margin: Albi by 13.2
-
-<p float="left">
-<img src="plots/performances_Cognac Saint Jean d'Angély_V_Albi_12.png" width="32%" />
-<img src="plots/resultbar_Cognac Saint Jean d'Angély_V_Albi_12.png" width="32%" />
-<img src="plots/spreads_Cognac Saint Jean d'Angély_V_Albi_12.png" width="32%" />
-</p>
-
-### Blagnac V Suresnes on 2023/04/29
-
-
-Average Margin: Blagnac by 12.0
-
-<p float="left">
-<img src="plots/performances_Blagnac_V_Suresnes_12.png" width="32%" />
-<img src="plots/resultbar_Blagnac_V_Suresnes_12.png" width="32%" />
-<img src="plots/spreads_Blagnac_V_Suresnes_12.png" width="32%" />
-</p>
-
-### Carqueiranne-Hyères V Nice on 2023/04/29
-
-
-Average Margin: Nice by 1.7
-
-<p float="left">
-<img src="plots/performances_Carqueiranne-Hyères_V_Nice_12.png" width="32%" />
-<img src="plots/resultbar_Carqueiranne-Hyères_V_Nice_12.png" width="32%" />
-<img src="plots/spreads_Carqueiranne-Hyères_V_Nice_12.png" width="32%" />
+<img src="plots/performances_Chambery_V_Valence Romans Drome Rugby_11.png" width="32%" />
+<img src="plots/resultbar_Chambery_V_Valence Romans Drome Rugby_11.png" width="32%" />
+<img src="plots/spreads_Chambery_V_Valence Romans Drome Rugby_11.png" width="32%" />
 </p>
 
 ### Rennes V Bourgoin-Jallieu on 2023/04/29
 
 
-Average Margin: Bourgoin-Jallieu by 7.5
+Average Margin: Bourgoin-Jallieu by 9.0
 
 <p float="left">
-<img src="plots/performances_Rennes_V_Bourgoin-Jallieu_12.png" width="32%" />
-<img src="plots/resultbar_Rennes_V_Bourgoin-Jallieu_12.png" width="32%" />
-<img src="plots/spreads_Rennes_V_Bourgoin-Jallieu_12.png" width="32%" />
+<img src="plots/performances_Rennes_V_Bourgoin-Jallieu_11.png" width="32%" />
+<img src="plots/resultbar_Rennes_V_Bourgoin-Jallieu_11.png" width="32%" />
+<img src="plots/spreads_Rennes_V_Bourgoin-Jallieu_11.png" width="32%" />
 </p>
 
-### US Bressane V Tarbes on 2023/04/29
+### Carqueiranne-Hyères V Nice on 2023/04/29
 
 
-Average Margin: US Bressane by 6.1
+Average Margin: Nice by 2.5
 
 <p float="left">
-<img src="plots/performances_US Bressane_V_Tarbes_12.png" width="32%" />
-<img src="plots/resultbar_US Bressane_V_Tarbes_12.png" width="32%" />
-<img src="plots/spreads_US Bressane_V_Tarbes_12.png" width="32%" />
+<img src="plots/performances_Carqueiranne-Hyères_V_Nice_11.png" width="32%" />
+<img src="plots/resultbar_Carqueiranne-Hyères_V_Nice_11.png" width="32%" />
+<img src="plots/spreads_Carqueiranne-Hyères_V_Nice_11.png" width="32%" />
 </p>
 
-### Chambery V Valence Romans Drome Rugby on 2023/04/29
+### Blagnac V Suresnes on 2023/04/29
 
 
-Average Margin: Valence Romans Drome Rugby by 2.3
+Average Margin: Blagnac by 11.1
 
 <p float="left">
-<img src="plots/performances_Chambery_V_Valence Romans Drome Rugby_12.png" width="32%" />
-<img src="plots/resultbar_Chambery_V_Valence Romans Drome Rugby_12.png" width="32%" />
-<img src="plots/spreads_Chambery_V_Valence Romans Drome Rugby_12.png" width="32%" />
+<img src="plots/performances_Blagnac_V_Suresnes_11.png" width="32%" />
+<img src="plots/resultbar_Blagnac_V_Suresnes_11.png" width="32%" />
+<img src="plots/spreads_Blagnac_V_Suresnes_11.png" width="32%" />
+</p>
+
+### Cognac Saint Jean d'Angély V Albi on 2023/04/29
+
+
+Average Margin: Albi by 12.4
+
+<p float="left">
+<img src="plots/performances_Cognac Saint Jean d'Angély_V_Albi_11.png" width="32%" />
+<img src="plots/resultbar_Cognac Saint Jean d'Angély_V_Albi_11.png" width="32%" />
+<img src="plots/spreads_Cognac Saint Jean d'Angély_V_Albi_11.png" width="32%" />
 </p>
 
 ### Narbonne V Dax on 2023/04/29
 
 
-Average Margin: Dax by 2.7
+Average Margin: Dax by 3.6
 
 <p float="left">
-<img src="plots/performances_Narbonne_V_Dax_12.png" width="32%" />
-<img src="plots/resultbar_Narbonne_V_Dax_12.png" width="32%" />
-<img src="plots/spreads_Narbonne_V_Dax_12.png" width="32%" />
+<img src="plots/performances_Narbonne_V_Dax_11.png" width="32%" />
+<img src="plots/resultbar_Narbonne_V_Dax_11.png" width="32%" />
+<img src="plots/spreads_Narbonne_V_Dax_11.png" width="32%" />
+</p>
+
+### US Bressane V Tarbes on 2023/04/29
+
+
+Average Margin: US Bressane by 6.8
+
+<p float="left">
+<img src="plots/performances_US Bressane_V_Tarbes_11.png" width="32%" />
+<img src="plots/resultbar_US Bressane_V_Tarbes_11.png" width="32%" />
+<img src="plots/spreads_US Bressane_V_Tarbes_11.png" width="32%" />
 </p>
