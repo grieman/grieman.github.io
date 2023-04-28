@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Americas Status"  
-date: 2023-04-21 6:00:00 -0500  
+date: 2023-04-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,13 +17,13 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dogos XV         |        7 |      6 |                   78 |                     1 |                nan |                   30 |
-| Penarol Rugby    |        6 |      5 |                   84 |                     1 |                  4 |                   25 |
-| Pampas XV        |        7 |      5 |                   80 |                     0 |                nan |                   21 |
-| Selknam          |        6 |      3 |                   44 |                     1 |                nan |                   15 |
-| Yacare XV        |        6 |      2 |                  -40 |                     1 |                nan |                   10 |
-| Cobras           |        7 |      2 |                  -90 |                     0 |                nan |                    8 |
-| American Raptors |        7 |      0 |                 -156 |                     1 |                nan |                    2 |
+| Dogos XV         |        9 |      7 |                   76 |                     1 |                  7 |                   36 |
+| Penarol Rugby    |        8 |      7 |                  128 |                     1 |                  6 |                   35 |
+| Pampas XV        |        8 |      6 |                  143 |                     0 |                  3 |                   27 |
+| Selknam          |        7 |      3 |                   40 |                     2 |                nan |                   17 |
+| Cobras           |       10 |      3 |                 -107 |                     1 |                  4 |                   17 |
+| Yacare XV        |        8 |      3 |                  -62 |                     1 |                nan |                   15 |
+| American Raptors |       10 |      1 |                 -218 |                     2 |                  3 |                    9 |
 
 
 
@@ -32,13 +32,13 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Penarol Rugby    |                   5 |    4.5 |                 81.6 |                   0.4 |                4.4 |                 22.7 |
-| Dogos XV         |                   5 |    3.7 |                 58.2 |                   0.6 |                3.6 |                 19   |
-| Selknam          |                   6 |    3.5 |                 32.6 |                   0.8 |                3.5 |                 18.5 |
-| Pampas XV        |                   5 |    3.1 |                 33.1 |                   0.6 |                3   |                 16.1 |
-| Cobras           |                   5 |    1.3 |                -56.1 |                   0.5 |                1.3 |                  7.1 |
-| Yacare XV        |                   5 |    1.2 |                -60.8 |                   0.7 |                1.1 |                  6.5 |
-| American Raptors |                   5 |    0.7 |                -88.9 |                   0.6 |                0.7 |                  3.9 |
+| Penarol Rugby    |                   4 |    3.8 |                 80.7 |                   0.1 |                3.8 |                 19.2 |
+| Pampas XV        |                   5 |    3.5 |                 49.4 |                   0.6 |                3.4 |                 18   |
+| Dogos XV         |                   4 |    3.1 |                 47.5 |                   0.5 |                3   |                 15.7 |
+| Selknam          |                   5 |    2.5 |                  4.1 |                   0.7 |                2.5 |                 13.1 |
+| Cobras           |                   4 |    1   |                -48.1 |                   0.3 |                1   |                  5.2 |
+| American Raptors |                   4 |    0.6 |                -67.7 |                   0.5 |                0.7 |                  3.6 |
+| Yacare XV        |                   4 |    0.5 |                -66   |                   0.5 |                0.5 |                  3.1 |
 
 
 
@@ -47,13 +47,13 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dogos XV         |              12 |    9.7 |                136.2 |                   1.6 |                3.6 |                 49   |
-| Penarol Rugby    |              11 |    9.5 |                165.6 |                   1.4 |                8.4 |                 47.7 |
-| Pampas XV        |              12 |    8.1 |                113.1 |                   0.6 |                3   |                 37.1 |
-| Selknam          |              12 |    6.5 |                 76.6 |                   1.8 |                3.5 |                 33.5 |
-| Yacare XV        |              11 |    3.2 |               -100.8 |                   1.7 |                1.1 |                 16.5 |
-| Cobras           |              12 |    3.3 |               -146.1 |                   0.5 |                1.3 |                 15.1 |
-| American Raptors |              12 |    0.7 |               -244.9 |                   1.6 |                0.7 |                  5.9 |
+| Penarol Rugby    |              12 |   10.8 |                208.7 |                   1.1 |                9.8 |                 54.2 |
+| Dogos XV         |              13 |   10.1 |                123.5 |                   1.5 |               10   |                 51.7 |
+| Pampas XV        |              13 |    9.5 |                192.4 |                   0.6 |                6.4 |                 45   |
+| Selknam          |              12 |    5.5 |                 44.1 |                   2.7 |                2.5 |                 30.1 |
+| Cobras           |              14 |    4   |               -155.1 |                   1.3 |                5   |                 22.2 |
+| Yacare XV        |              12 |    3.5 |               -128   |                   1.5 |                0.5 |                 18.1 |
+| American Raptors |              14 |    1.6 |               -285.7 |                   2.5 |                3.7 |                 12.6 |
 
 
 
@@ -62,219 +62,184 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 73.9% | 12.7 |
-| Player Level: Lineup | 57.9% | 14.5 |
-| Player Level: Minutes | 63.2% | 13.8 |
+| Club Level | 74.1% | 12.4 |
+| Player Level: Lineup | 53.8% | 16.0 |
+| Player Level: Minutes | 50.0% | 16.9 |
 
 
 # Future Predictions
 
-## Week 9
-
-### Penarol Rugby V Dogos XV on 2023/04/21
-
-
-Average Margin: Penarol Rugby by 5.6
-
-<p float="left">
-<img src="plots/performances_Penarol Rugby_V_Dogos XV_9.png" width="32%" />
-<img src="plots/resultbar_Penarol Rugby_V_Dogos XV_9.png" width="32%" />
-<img src="plots/spreads_Penarol Rugby_V_Dogos XV_9.png" width="32%" />
-</p>
-
-### American Raptors V Selknam on 2023/04/22
-
-
-Average Margin: Selknam by 18.7
-
-<p float="left">
-<img src="plots/performances_American Raptors_V_Selknam_9.png" width="32%" />
-<img src="plots/resultbar_American Raptors_V_Selknam_9.png" width="32%" />
-<img src="plots/spreads_American Raptors_V_Selknam_9.png" width="32%" />
-</p>
-
-### Yacare XV V Cobras on 2023/04/23
-
-
-Average Margin: Yacare XV by 1.2
-
-<p float="left">
-<img src="plots/performances_Yacare XV_V_Cobras_9.png" width="32%" />
-<img src="plots/resultbar_Yacare XV_V_Cobras_9.png" width="32%" />
-<img src="plots/spreads_Yacare XV_V_Cobras_9.png" width="32%" />
-</p>
-
-## Week 10
+## Week 8
 
 ### Pampas XV V Cobras on 2023/04/28
 
 
-Average Margin: Pampas XV by 21.4
+Average Margin: Pampas XV by 21.1
 
 <p float="left">
-<img src="plots/performances_Pampas XV_V_Cobras_10.png" width="32%" />
-<img src="plots/resultbar_Pampas XV_V_Cobras_10.png" width="32%" />
-<img src="plots/spreads_Pampas XV_V_Cobras_10.png" width="32%" />
+<img src="plots/performances_Pampas XV_V_Cobras_8.png" width="32%" />
+<img src="plots/resultbar_Pampas XV_V_Cobras_8.png" width="32%" />
+<img src="plots/spreads_Pampas XV_V_Cobras_8.png" width="32%" />
 </p>
 
 ### Selknam V Dogos XV on 2023/04/29
 
 
-Average Margin: Dogos XV by 4.1
+Average Margin: Dogos XV by 1.7
 
 <p float="left">
-<img src="plots/performances_Selknam_V_Dogos XV_10.png" width="32%" />
-<img src="plots/resultbar_Selknam_V_Dogos XV_10.png" width="32%" />
-<img src="plots/spreads_Selknam_V_Dogos XV_10.png" width="32%" />
+<img src="plots/performances_Selknam_V_Dogos XV_8.png" width="32%" />
+<img src="plots/resultbar_Selknam_V_Dogos XV_8.png" width="32%" />
+<img src="plots/spreads_Selknam_V_Dogos XV_8.png" width="32%" />
 </p>
 
 ### American Raptors V Penarol Rugby on 2023/04/30
 
 
-Average Margin: Penarol Rugby by 27.5
+Average Margin: Penarol Rugby by 29.1
 
 <p float="left">
-<img src="plots/performances_American Raptors_V_Penarol Rugby_10.png" width="32%" />
-<img src="plots/resultbar_American Raptors_V_Penarol Rugby_10.png" width="32%" />
-<img src="plots/spreads_American Raptors_V_Penarol Rugby_10.png" width="32%" />
+<img src="plots/performances_American Raptors_V_Penarol Rugby_8.png" width="32%" />
+<img src="plots/resultbar_American Raptors_V_Penarol Rugby_8.png" width="32%" />
+<img src="plots/spreads_American Raptors_V_Penarol Rugby_8.png" width="32%" />
 </p>
 
-## Week 11
+## Week 9
 
 ### Dogos XV V Pampas XV on 2023/05/05
 
 
-Average Margin: Dogos XV by 7.9
+Average Margin: Dogos XV by 0.6
 
 <p float="left">
-<img src="plots/performances_Dogos XV_V_Pampas XV_11.png" width="32%" />
-<img src="plots/resultbar_Dogos XV_V_Pampas XV_11.png" width="32%" />
-<img src="plots/spreads_Dogos XV_V_Pampas XV_11.png" width="32%" />
+<img src="plots/performances_Dogos XV_V_Pampas XV_9.png" width="32%" />
+<img src="plots/resultbar_Dogos XV_V_Pampas XV_9.png" width="32%" />
+<img src="plots/spreads_Dogos XV_V_Pampas XV_9.png" width="32%" />
 </p>
 
 ### Selknam V Cobras on 2023/05/06
 
 
-Average Margin: Selknam by 17.3
+Average Margin: Selknam by 13.3
 
 <p float="left">
-<img src="plots/performances_Selknam_V_Cobras_11.png" width="32%" />
-<img src="plots/resultbar_Selknam_V_Cobras_11.png" width="32%" />
-<img src="plots/spreads_Selknam_V_Cobras_11.png" width="32%" />
+<img src="plots/performances_Selknam_V_Cobras_9.png" width="32%" />
+<img src="plots/resultbar_Selknam_V_Cobras_9.png" width="32%" />
+<img src="plots/spreads_Selknam_V_Cobras_9.png" width="32%" />
 </p>
 
 ### American Raptors V Yacare XV on 2023/05/07
 
 
-Average Margin: Yacare XV by 1.1
+Average Margin: American Raptors by 0.9
 
 <p float="left">
-<img src="plots/performances_American Raptors_V_Yacare XV_11.png" width="32%" />
-<img src="plots/resultbar_American Raptors_V_Yacare XV_11.png" width="32%" />
-<img src="plots/spreads_American Raptors_V_Yacare XV_11.png" width="32%" />
+<img src="plots/performances_American Raptors_V_Yacare XV_9.png" width="32%" />
+<img src="plots/resultbar_American Raptors_V_Yacare XV_9.png" width="32%" />
+<img src="plots/spreads_American Raptors_V_Yacare XV_9.png" width="32%" />
 </p>
 
-## Week 12
+## Week 10
 
 ### Yacare XV V Dogos XV on 2023/05/12
 
 
-Average Margin: Dogos XV by 20.5
+Average Margin: Dogos XV by 18.0
 
 <p float="left">
-<img src="plots/performances_Yacare XV_V_Dogos XV_12.png" width="32%" />
-<img src="plots/resultbar_Yacare XV_V_Dogos XV_12.png" width="32%" />
-<img src="plots/spreads_Yacare XV_V_Dogos XV_12.png" width="32%" />
-</p>
-
-### Penarol Rugby V Cobras on 2023/05/12
-
-
-Average Margin: Penarol Rugby by 27.0
-
-<p float="left">
-<img src="plots/performances_Penarol Rugby_V_Cobras_12.png" width="32%" />
-<img src="plots/resultbar_Penarol Rugby_V_Cobras_12.png" width="32%" />
-<img src="plots/spreads_Penarol Rugby_V_Cobras_12.png" width="32%" />
+<img src="plots/performances_Yacare XV_V_Dogos XV_10.png" width="32%" />
+<img src="plots/resultbar_Yacare XV_V_Dogos XV_10.png" width="32%" />
+<img src="plots/spreads_Yacare XV_V_Dogos XV_10.png" width="32%" />
 </p>
 
 ### Pampas XV V Selknam on 2023/05/12
 
 
-Average Margin: Pampas XV by 6.7
+Average Margin: Pampas XV by 10.6
 
 <p float="left">
-<img src="plots/performances_Pampas XV_V_Selknam_12.png" width="32%" />
-<img src="plots/resultbar_Pampas XV_V_Selknam_12.png" width="32%" />
-<img src="plots/spreads_Pampas XV_V_Selknam_12.png" width="32%" />
+<img src="plots/performances_Pampas XV_V_Selknam_10.png" width="32%" />
+<img src="plots/resultbar_Pampas XV_V_Selknam_10.png" width="32%" />
+<img src="plots/spreads_Pampas XV_V_Selknam_10.png" width="32%" />
 </p>
 
-## Week 13
+### Penarol Rugby V Cobras on 2023/05/12
+
+
+Average Margin: Penarol Rugby by 26.6
+
+<p float="left">
+<img src="plots/performances_Penarol Rugby_V_Cobras_10.png" width="32%" />
+<img src="plots/resultbar_Penarol Rugby_V_Cobras_10.png" width="32%" />
+<img src="plots/spreads_Penarol Rugby_V_Cobras_10.png" width="32%" />
+</p>
+
+## Week 11
 
 ### Penarol Rugby V Pampas XV on 2023/05/19
 
 
-Average Margin: Penarol Rugby by 9.6
+Average Margin: Penarol Rugby by 8.9
 
 <p float="left">
-<img src="plots/performances_Penarol Rugby_V_Pampas XV_13.png" width="32%" />
-<img src="plots/resultbar_Penarol Rugby_V_Pampas XV_13.png" width="32%" />
-<img src="plots/spreads_Penarol Rugby_V_Pampas XV_13.png" width="32%" />
+<img src="plots/performances_Penarol Rugby_V_Pampas XV_11.png" width="32%" />
+<img src="plots/resultbar_Penarol Rugby_V_Pampas XV_11.png" width="32%" />
+<img src="plots/spreads_Penarol Rugby_V_Pampas XV_11.png" width="32%" />
 </p>
 
 ### Selknam V Yacare XV on 2023/05/20
 
 
-Average Margin: Selknam by 20.1
+Average Margin: Selknam by 19.8
 
 <p float="left">
-<img src="plots/performances_Selknam_V_Yacare XV_13.png" width="32%" />
-<img src="plots/resultbar_Selknam_V_Yacare XV_13.png" width="32%" />
-<img src="plots/spreads_Selknam_V_Yacare XV_13.png" width="32%" />
+<img src="plots/performances_Selknam_V_Yacare XV_11.png" width="32%" />
+<img src="plots/resultbar_Selknam_V_Yacare XV_11.png" width="32%" />
+<img src="plots/spreads_Selknam_V_Yacare XV_11.png" width="32%" />
 </p>
 
 ### Dogos XV V American Raptors on 2023/05/21
 
 
-Average Margin: Dogos XV by 31.8
+Average Margin: Dogos XV by 27.6
 
 <p float="left">
-<img src="plots/performances_Dogos XV_V_American Raptors_13.png" width="32%" />
-<img src="plots/resultbar_Dogos XV_V_American Raptors_13.png" width="32%" />
-<img src="plots/spreads_Dogos XV_V_American Raptors_13.png" width="32%" />
+<img src="plots/performances_Dogos XV_V_American Raptors_11.png" width="32%" />
+<img src="plots/resultbar_Dogos XV_V_American Raptors_11.png" width="32%" />
+<img src="plots/spreads_Dogos XV_V_American Raptors_11.png" width="32%" />
 </p>
 
-## Week 14
-
-### Penarol Rugby V Selknam on 2023/05/26
-
-
-Average Margin: Penarol Rugby by 12.3
-
-<p float="left">
-<img src="plots/performances_Penarol Rugby_V_Selknam_14.png" width="32%" />
-<img src="plots/resultbar_Penarol Rugby_V_Selknam_14.png" width="32%" />
-<img src="plots/spreads_Penarol Rugby_V_Selknam_14.png" width="32%" />
-</p>
+## Week 12
 
 ### Pampas XV V Yacare XV on 2023/05/26
 
 
-Average Margin: Pampas XV by 22.9
+Average Margin: Pampas XV by 27.8
 
 <p float="left">
-<img src="plots/performances_Pampas XV_V_Yacare XV_14.png" width="32%" />
-<img src="plots/resultbar_Pampas XV_V_Yacare XV_14.png" width="32%" />
-<img src="plots/spreads_Pampas XV_V_Yacare XV_14.png" width="32%" />
+<img src="plots/performances_Pampas XV_V_Yacare XV_12.png" width="32%" />
+<img src="plots/resultbar_Pampas XV_V_Yacare XV_12.png" width="32%" />
+<img src="plots/spreads_Pampas XV_V_Yacare XV_12.png" width="32%" />
+</p>
+
+### Penarol Rugby V Selknam on 2023/05/26
+
+
+Average Margin: Penarol Rugby by 16.6
+
+<p float="left">
+<img src="plots/performances_Penarol Rugby_V_Selknam_12.png" width="32%" />
+<img src="plots/resultbar_Penarol Rugby_V_Selknam_12.png" width="32%" />
+<img src="plots/spreads_Penarol Rugby_V_Selknam_12.png" width="32%" />
 </p>
 
 ### Cobras V American Raptors on 2023/05/27
 
 
-Average Margin: Cobras by 10.3
+Average Margin: Cobras by 12.3
 
 <p float="left">
-<img src="plots/performances_Cobras_V_American Raptors_14.png" width="32%" />
-<img src="plots/resultbar_Cobras_V_American Raptors_14.png" width="32%" />
-<img src="plots/spreads_Cobras_V_American Raptors_14.png" width="32%" />
+<img src="plots/performances_Cobras_V_American Raptors_12.png" width="32%" />
+<img src="plots/resultbar_Cobras_V_American Raptors_12.png" width="32%" />
+<img src="plots/spreads_Cobras_V_American Raptors_12.png" width="32%" />
 </p>

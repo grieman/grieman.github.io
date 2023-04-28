@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Chiefs by 3.7
+## Prediction with Player Minutes: Chiefs by 8.5
 
 
-Fijian Drua by 0.3 on a neutral field
+Chiefs by 4.5 on a neutral field
 
-There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: Chiefs by 2.5
+There were 2 large changes in win probability in this match
+## Prediction without Player Minutes: Chiefs by 8.2
 
 
-Fijian Drua by 1.5 on a neutral pitch
+Chiefs by 4.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             64 | Haereiti Hetet          |     102.1  |                74 |        1 |                44 |      94.07 | Ollie Norris           |             47 |
-|             72 | Tevita Ikanivere        |     118.8  |                94 |        2 |                93 |     116.55 | Samisoni Taukei'aho    |             63 |
-|             55 | Samuela Tawake          |      87.61 |                22 |        3 |                84 |     107.01 | John Ryan              |             50 |
-|             72 | Isoa Nasilasila         |     127.53 |                96 |        4 |                93 |     122.08 | Brodie Retallick       |             72 |
-|             82 | Ratu Rotuisolia         |      91.43 |                37 |        5 |                10 |      77.55 | Manaaki Selby-Rickit   |             47 |
-|             82 | Joseva Tamani           |      81.26 |                12 |        6 |                84 |     113.19 | Samipeni Finau         |             82 |
-|             82 | Elia Canakaivata        |      95.65 |                45 |        7 |                21 |      87.53 | Kaylum Boshier         |             82 |
-|             60 | Te Ahiwaru Cirikidaveta |     117.55 |                91 |        8 |                71 |     103.92 | Pita Gus Sowakula      |             59 |
-|             74 | Peni Matawalu           |     101.96 |                69 |        9 |                88 |     115.05 | Cortez Ratima          |             72 |
-|             72 | Teti Tela               |     105.92 |                76 |       10 |                55 |      98.88 | Bryn Gatland           |             82 |
-|             82 | Tuidraki Samusamuvodre  |     105.35 |                75 |       11 |                79 |     107.5  | Etene Nanai-Seturo     |             82 |
-|             82 | Michael Naitokani       |      95.8  |               nan |       12 |                50 |      96.33 | Rameka Poihipi         |             40 |
-|             63 | Apisalome Vota          |     118.2  |                91 |       13 |                69 |     103.32 | Daniel Rona            |             82 |
-|             82 | Ilaisa Droasese         |     106.62 |                78 |       14 |                75 |     106.77 | Shaun Stevenson        |             82 |
-|             82 | Selestino Ravutaumada   |      92.92 |                43 |       15 |                53 |      97.9  | Damian McKenzie        |             82 |
-|             10 | Mesulame Dolokoto       |      93.92 |               nan |       16 |                61 |      98.77 | Tyrone Thompson        |             19 |
-|             30 | Livai Natave            |      90.17 |                30 |       17 |                16 |      86.37 | Jared Proffit          |             35 |
-|             27 | Jone Tiko               |      97.98 |                60 |       18 |               nan |      95    | Solomone Tukuafu       |             32 |
-|             10 | Chris Minimbi           |      95    |               nan |       19 |               nan |      95    | Josh Lord              |             35 |
-|             10 | Rusiate Nasove          |     141.05 |                99 |       20 |                51 |      96.16 | Tupou Vaa'i            |             10 |
-|              8 | Leone Nawai             |      95    |               nan |       21 |               nan |      84.1  | Simon Parker           |             23 |
-|             19 | Kalione Nasoko          |      95    |               nan |       22 |                43 |      93.41 | Te Toiroa Tahuriorangi |             10 |
-|             10 | Kitione Taliga          |      96.75 |                52 |       23 |               nan |      95    | Gideon Wrampling       |             42 |
+|             64 | Haereiti Hetet          |      98.18 |                88 |        1 |                78 |      90.45 | Ollie Norris           |             48 |
+|             72 | Tevita Ikanivere        |     113.61 |                97 |        2 |                96 |     112.65 | Samisoni Taukei'aho    |             63 |
+|             55 | Samuela Tawake          |      76.55 |                48 |        3 |                90 |      99.64 | John Ryan              |             51 |
+|             72 | Isoa Nasilasila         |     112.05 |                94 |        4 |                97 |     121.64 | Brodie Retallick       |             72 |
+|             82 | Ratu Rotuisolia         |      71.51 |                37 |        5 |                52 |      78.6  | Manaaki Selby-Rickit   |             48 |
+|             82 | Joseva Tamani           |      74.8  |                46 |        6 |                87 |     101.76 | Samipeni Finau         |             82 |
+|             72 | Elia Canakaivata        |      84.07 |                62 |        7 |                57 |      82.41 | Kaylum Boshier         |             82 |
+|             71 | Te Ahiwaru Cirikidaveta |     115.38 |                95 |        8 |                86 |      98.66 | Pita Gus Sowakula      |             59 |
+|             74 | Peni Matawalu           |      88.61 |                70 |        9 |                83 |      99.55 | Cortez Ratima          |             72 |
+|             72 | Teti Tela               |      97.05 |                81 |       10 |                68 |      88.78 | Bryn Gatland           |             82 |
+|             82 | Tuidraki Samusamuvodre  |      52.89 |                11 |       11 |                81 |      95.44 | Etene Nanai-Seturo     |             82 |
+|             82 | Michael Naitokani       |      86.15 |               nan |       12 |                80 |      96.24 | Rameka Poihipi         |             41 |
+|             63 | Apisalome Vota          |     101.98 |                86 |       13 |                52 |      79.27 | Daniel Rona            |             82 |
+|             82 | Ilaisa Droasese         |     102.55 |                86 |       14 |                76 |      93.22 | Shaun Stevenson        |             82 |
+|             82 | Selestino Ravutaumada   |      85.6  |                67 |       15 |                64 |      85.41 | Damian McKenzie        |             82 |
+|             10 | Mesulame Dolokoto       |      83.05 |               nan |       16 |                69 |      84.67 | Tyrone Thompson        |             19 |
+|             29 | Livai Natave            |      86.06 |                70 |       17 |                58 |      81.45 | Jared Proffit          |             34 |
+|             27 | Jone Tiko               |      85.11 |                68 |       18 |               nan |      87.09 | Solomone Tukuafu       |             31 |
+|             10 | Chris Minimbi           |      83.03 |                66 |       19 |               nan |      86.88 | Josh Lord              |             34 |
+|             10 | Rusiate Nasove          |     127.47 |                98 |       20 |                36 |      71.14 | Tupou Vaa'i            |             10 |
+|              8 | Leone Nawai             |      86.48 |               nan |       21 |               nan |      78.22 | Simon Parker           |             23 |
+|             19 | Kalione Nasoko          |      86.28 |               nan |       22 |                78 |      94.24 | Te Toiroa Tahuriorangi |             10 |
+|             10 | Kitione Taliga          |      85.91 |                62 |       23 |               nan |      86.68 | Gideon Wrampling       |             41 |
 

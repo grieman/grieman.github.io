@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup First Division Status"  
-date: 2023-04-21 6:00:00 -0500  
+date: 2023-04-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,11 +17,11 @@ aside:
 
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| SWD Eagles             |        8 |      5 |                   68 |                     1 |                nan |                   21 |
+| Valke                  |        8 |      5 |                   55 |                     1 |                nan |                   21 |
 | Eastern Province Kings |        7 |      5 |                   17 |                     0 |                nan |                   20 |
-| Boland Cavaliers       |        5 |      4 |                  102 |                     1 |                  0 |                   17 |
-| SWD Eagles             |        7 |      4 |                   60 |                     1 |                nan |                   17 |
-| Valke                  |        7 |      4 |                   46 |                     1 |                nan |                   17 |
-| Leopards               |        6 |      2 |                  -35 |                     1 |                nan |                    9 |
+| Boland Cavaliers       |        6 |      4 |                   93 |                     1 |                nan |                   17 |
+| Leopards               |        7 |      2 |                  -43 |                     1 |                nan |                    9 |
 | Border Bulldogs        |        6 |      0 |                 -190 |                     1 |                nan |                    1 |
 
 
@@ -31,12 +31,12 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Boland Cavaliers       |                   4 |    2.9 |                 20.4 |                   0.8 |                2.8 |                 15.3 |
-| SWD Eagles             |                   3 |    1.7 |                 19.6 |                   0.7 |                1.7 |                  9.2 |
-| Valke                  |                   3 |    1.5 |                  0   |                   1   |                1.5 |                  8.6 |
-| Leopards               |                   3 |    1   |                -11.9 |                   0.9 |                1   |                  6   |
-| Eastern Province Kings |                   2 |    0.8 |                 -2.5 |                   0.7 |                0.8 |                  4.8 |
-| Border Bulldogs        |                   1 |    0   |                -25.6 |                   0   |                0   |                  0   |
+| Boland Cavaliers       |                   3 |    2.2 |                 14.7 |                   0.6 |                2.1 |                 11.4 |
+| Valke                  |                   2 |    1.3 |                  4.4 |                   0.6 |                1.2 |                  6.9 |
+| SWD Eagles             |                   2 |    1.2 |                 21.3 |                   0.4 |                1.2 |                  6.6 |
+| Eastern Province Kings |                   2 |    0.9 |                 -2.3 |                   0.7 |                0.8 |                  5   |
+| Leopards               |                   2 |    0.5 |                -12.2 |                   0.6 |                0.5 |                  2.9 |
+| Border Bulldogs        |                   1 |    0   |                -26   |                   0   |                0   |                  0   |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Boland Cavaliers       |               9 |    6.9 |                122.4 |                   1.8 |                2.8 |                 32.3 |
-| SWD Eagles             |              10 |    5.7 |                 79.6 |                   1.7 |                1.7 |                 26.2 |
-| Valke                  |              10 |    5.5 |                 46   |                   2   |                1.5 |                 25.6 |
-| Eastern Province Kings |               9 |    5.8 |                 14.5 |                   0.7 |                0.8 |                 24.8 |
-| Leopards               |               9 |    3   |                -46.9 |                   1.9 |                1   |                 15   |
-| Border Bulldogs        |               7 |    0   |               -215.6 |                   1   |                0   |                  1   |
+| Boland Cavaliers       |               9 |    6.2 |                107.7 |                   1.6 |                2.1 |                 28.4 |
+| Valke                  |              10 |    6.3 |                 59.4 |                   1.6 |                1.2 |                 27.9 |
+| SWD Eagles             |              10 |    6.2 |                 89.3 |                   1.4 |                1.2 |                 27.6 |
+| Eastern Province Kings |               9 |    5.9 |                 14.7 |                   0.7 |                0.8 |                 25   |
+| Leopards               |               9 |    2.5 |                -55.2 |                   1.6 |                0.5 |                 11.9 |
+| Border Bulldogs        |               7 |    0   |               -216   |                   1   |                0   |                  1   |
 
 
 
@@ -59,107 +59,83 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 78.9% | 12.8 |
-| Player Level: Lineup | 68.8% | 15.4 |
-| Player Level: Minutes | 56.2% | 17.2 |
+| Club Level | 71.4% | 12.4 |
+| Player Level: Lineup | 75.0% | 15.3 |
+| Player Level: Minutes | 75.0% | 16.7 |
 
 
 # Future Predictions
 
-## Week 9
-
-### Valke V Boland Cavaliers on 2023/04/22
-
-
-Average Margin: Boland Cavaliers by 1.9
-
-<p float="left">
-<img src="plots/performances_Valke_V_Boland Cavaliers_9.png" width="32%" />
-<img src="plots/resultbar_Valke_V_Boland Cavaliers_9.png" width="32%" />
-<img src="plots/spreads_Valke_V_Boland Cavaliers_9.png" width="32%" />
-</p>
-
-### Leopards V SWD Eagles on 2023/04/22
-
-
-Average Margin: SWD Eagles by 1.1
-
-<p float="left">
-<img src="plots/performances_Leopards_V_SWD Eagles_9.png" width="32%" />
-<img src="plots/resultbar_Leopards_V_SWD Eagles_9.png" width="32%" />
-<img src="plots/spreads_Leopards_V_SWD Eagles_9.png" width="32%" />
-</p>
-
-## Week 10
+## Week 7
 
 ### SWD Eagles V Border Bulldogs on 2023/04/28
 
 
-Average Margin: SWD Eagles by 26.1
+Average Margin: SWD Eagles by 26.5
 
 <p float="left">
-<img src="plots/performances_SWD Eagles_V_Border Bulldogs_10.png" width="32%" />
-<img src="plots/resultbar_SWD Eagles_V_Border Bulldogs_10.png" width="32%" />
-<img src="plots/spreads_SWD Eagles_V_Border Bulldogs_10.png" width="32%" />
+<img src="plots/performances_SWD Eagles_V_Border Bulldogs_7.png" width="32%" />
+<img src="plots/resultbar_SWD Eagles_V_Border Bulldogs_7.png" width="32%" />
+<img src="plots/spreads_SWD Eagles_V_Border Bulldogs_7.png" width="32%" />
 </p>
 
 ### Boland Cavaliers V Leopards on 2023/04/29
 
 
-Average Margin: Boland Cavaliers by 11.7
+Average Margin: Boland Cavaliers by 11.0
 
 <p float="left">
-<img src="plots/performances_Boland Cavaliers_V_Leopards_10.png" width="32%" />
-<img src="plots/resultbar_Boland Cavaliers_V_Leopards_10.png" width="32%" />
-<img src="plots/spreads_Boland Cavaliers_V_Leopards_10.png" width="32%" />
+<img src="plots/performances_Boland Cavaliers_V_Leopards_7.png" width="32%" />
+<img src="plots/resultbar_Boland Cavaliers_V_Leopards_7.png" width="32%" />
+<img src="plots/spreads_Boland Cavaliers_V_Leopards_7.png" width="32%" />
 </p>
 
-## Week 11
+## Week 8
 
 ### Eastern Province Kings V Boland Cavaliers on 2023/05/13
 
 
-Average Margin: Boland Cavaliers by 0.0
+Average Margin: Eastern Province Kings by 0.5
 
 <p float="left">
-<img src="plots/performances_Eastern Province Kings_V_Boland Cavaliers_11.png" width="32%" />
-<img src="plots/resultbar_Eastern Province Kings_V_Boland Cavaliers_11.png" width="32%" />
-<img src="plots/spreads_Eastern Province Kings_V_Boland Cavaliers_11.png" width="32%" />
+<img src="plots/performances_Eastern Province Kings_V_Boland Cavaliers_8.png" width="32%" />
+<img src="plots/resultbar_Eastern Province Kings_V_Boland Cavaliers_8.png" width="32%" />
+<img src="plots/spreads_Eastern Province Kings_V_Boland Cavaliers_8.png" width="32%" />
 </p>
 
-## Week 12
-
-### Boland Cavaliers V SWD Eagles on 2023/05/20
-
-
-Average Margin: Boland Cavaliers by 7.2
-
-<p float="left">
-<img src="plots/performances_Boland Cavaliers_V_SWD Eagles_12.png" width="32%" />
-<img src="plots/resultbar_Boland Cavaliers_V_SWD Eagles_12.png" width="32%" />
-<img src="plots/spreads_Boland Cavaliers_V_SWD Eagles_12.png" width="32%" />
-</p>
+## Week 9
 
 ### Valke V Eastern Province Kings on 2023/05/20
 
 
-Average Margin: Valke by 2.6
+Average Margin: Valke by 3.0
 
 <p float="left">
-<img src="plots/performances_Valke_V_Eastern Province Kings_12.png" width="32%" />
-<img src="plots/resultbar_Valke_V_Eastern Province Kings_12.png" width="32%" />
-<img src="plots/spreads_Valke_V_Eastern Province Kings_12.png" width="32%" />
+<img src="plots/performances_Valke_V_Eastern Province Kings_9.png" width="32%" />
+<img src="plots/resultbar_Valke_V_Eastern Province Kings_9.png" width="32%" />
+<img src="plots/spreads_Valke_V_Eastern Province Kings_9.png" width="32%" />
 </p>
 
-## Week 13
+### Boland Cavaliers V SWD Eagles on 2023/05/20
+
+
+Average Margin: Boland Cavaliers by 4.7
+
+<p float="left">
+<img src="plots/performances_Boland Cavaliers_V_SWD Eagles_9.png" width="32%" />
+<img src="plots/resultbar_Boland Cavaliers_V_SWD Eagles_9.png" width="32%" />
+<img src="plots/spreads_Boland Cavaliers_V_SWD Eagles_9.png" width="32%" />
+</p>
+
+## Week 10
 
 ### Leopards V Valke on 2023/06/03
 
 
-Average Margin: Leopards by 0.6
+Average Margin: Valke by 1.6
 
 <p float="left">
-<img src="plots/performances_Leopards_V_Valke_13.png" width="32%" />
-<img src="plots/resultbar_Leopards_V_Valke_13.png" width="32%" />
-<img src="plots/spreads_Leopards_V_Valke_13.png" width="32%" />
+<img src="plots/performances_Leopards_V_Valke_10.png" width="32%" />
+<img src="plots/resultbar_Leopards_V_Valke_10.png" width="32%" />
+<img src="plots/spreads_Leopards_V_Valke_10.png" width="32%" />
 </p>

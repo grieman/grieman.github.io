@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One Division 2 Status"  
-date: 2023-04-21 6:00:00 -0500  
+date: 2023-04-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club                             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Urayasu D-Rocks                  |        7 |      7 |                  308 |                     0 |                  6 |                   34 |
-| Mie Honda Heat                   |        7 |      5 |                  105 |                     0 |                  5 |                   25 |
-| Toyota Industries Shuttles Aichi |        6 |      3 |                  -10 |                     0 |                  3 |                   15 |
-| Kamaishi Seawaves                |        8 |      0 |                 -284 |                     1 |                  5 |                    6 |
-| Hino Red Dolphins                |        1 |      1 |                   20 |                     0 |                  1 |                    5 |
-| Shimizu Blue Sharks              |        5 |      1 |                 -139 |                     0 |                  1 |                    5 |
+| Urayasu D-Rocks                  |       10 |     10 |                  413 |                     0 |                  9 |                   49 |
+| Mie Honda Heat                   |       10 |      8 |                  188 |                     0 |                  7 |                   39 |
+| Toyota Industries Shuttles Aichi |        9 |      5 |                  -32 |                     0 |                  5 |                   25 |
+| Kamaishi Seawaves                |       10 |      1 |                 -327 |                     1 |                  6 |                   11 |
+| Hino Red Dolphins                |        4 |      1 |                    0 |                     2 |                  3 |                    9 |
+| Shimizu Blue Sharks              |        9 |      1 |                 -242 |                     0 |                  1 |                    5 |
 
 
 
@@ -31,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 80.0% | 19.1 |
-| Player Level: Lineup | 57.1% | 26.6 |
-| Player Level: Minutes | 57.1% | 26.5 |
+| Club Level | 91.7% | 18.4 |
+| Player Level: Lineup | 70.8% | 21.3 |
+| Player Level: Minutes | 70.8% | 20.8 |
 
