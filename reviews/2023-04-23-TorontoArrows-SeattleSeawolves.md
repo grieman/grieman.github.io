@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.35, which translates to predicting Seattle Seawolves to win by 5.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.353, which translates to predicting Seattle Seawolves to win by 5.4.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Seattle Seawolves by 23.2
+## Prediction with Player Minutes: Seattle Seawolves by 19.2
 
 
-Seattle Seawolves by 27.2 on a neutral field
+Seattle Seawolves by 23.2 on a neutral field
 
 There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Seattle Seawolves by 24.1
+## Prediction without Player Minutes: Seattle Seawolves by 20.6
 
 
-Seattle Seawolves by 28.1 on a neutral pitch
+Seattle Seawolves by 24.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player      |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------|---------------:|
-|             57 | Jake Turnbull        |      82.03 |                58 |        1 |                 0 |      21.64 | Lolani Faleiva   |             80 |
-|             57 | James Malcolm        |      68.29 |                31 |        2 |                10 |      51.37 | Gene Syminton    |             73 |
-|             52 | Sam Matenga          |      58.82 |                15 |        3 |                 9 |      52.66 | Isaac Salmon     |             62 |
-|             80 | Ben Landry           |      69.52 |                32 |        4 |                 0 |      26.34 | Adrian Wadden    |             62 |
-|             57 | Ben Mitchell         |     -42.11 |                 0 |        5 |                 5 |      44.57 | Shay Kerry       |             80 |
-|             80 | Charles Elton        |      65.61 |                25 |        6 |                 1 |      35.1  | Mason Flesch     |             80 |
-|             73 | Nakai Penny          |      63.41 |                22 |        7 |                10 |      53.42 | Lucas Rumball    |             77 |
-|             80 | Riekert Hattingh     |      63.49 |                19 |        8 |                14 |      53.74 | Mitch Eadie      |             80 |
-|             70 | JP Smith             |      86.6  |                67 |        9 |                15 |      57.78 | Ross Braude      |             73 |
-|             80 | AJ Alatimu           |      63.63 |                21 |       10 |                 2 |      37.83 | Shane O'Leary    |             80 |
-|             80 | Lauina Futi          |     124.33 |                98 |       11 |                 7 |      47.71 | Dawson Fatoric   |             80 |
-|             80 | Daniel David Kriel   |      64.65 |                24 |       12 |                 0 |      16.73 | Mitch Richardson |             80 |
-|             80 | Martin Iosefo        |      62.65 |                23 |       13 |                72 |      86.84 | Fabian Goodall   |             80 |
-|             73 | Conner Mooneyham     |      35.73 |                 1 |       14 |                10 |      51.79 | D'Shawn Bowen    |             80 |
-|             62 | Adriaan John Carelse |      78.57 |                50 |       15 |                23 |      59.88 | Kobe Faust       |             80 |
-|             23 | Mzamo Majola         |      69.2  |                31 |       16 |                 0 |      36.42 | Tyler Rowland    |             18 |
-|             23 | Peter Malcolm        |      61.41 |                19 |       17 |                 3 |      41.68 | Michael Sheppard |             18 |
-|             28 | Mason Pedersen       |      76.44 |                48 |       18 |                17 |      59.02 | Owain Ruttan     |              3 |
-|             23 | Ronan Foley          |      51.58 |                 8 |       19 |               nan |      51.95 | Will Grant       |              7 |
-|              7 | Isaia Lotawa         |      59.69 |               nan |       20 |               nan |      44.32 | Tyler Wong       |              7 |
-|              7 | Cole Zarcone         |      61.22 |               nan |       21 |               nan |     nan    | nan              |            nan |
-|             18 | Mathew Turner        |      58.86 |               nan |       22 |               nan |     nan    | nan              |            nan |
-|             10 | Karl Keane           |      69.93 |               nan |       23 |               nan |     nan    | nan              |            nan |
+|             57 | Jake Turnbull        |      86.4  |                71 |        1 |                 0 |      19.07 | Lolani Faleiva   |             80 |
+|             57 | James Malcolm        |      64.24 |                25 |        2 |                12 |      53.43 | Gene Syminton    |             73 |
+|             52 | Sam Matenga          |      57.04 |                13 |        3 |                10 |      54.09 | Isaac Salmon     |             62 |
+|             80 | Ben Landry           |      63.37 |                24 |        4 |                 0 |      24.88 | Adrian Wadden    |             62 |
+|             57 | Ben Mitchell         |     -40.93 |                 0 |        5 |                 5 |      44.42 | Shay Kerry       |             80 |
+|             80 | Charles Elton        |      61.07 |                20 |        6 |                 1 |      32.95 | Mason Flesch     |             80 |
+|             73 | Nakai Penny          |      59.59 |                18 |        7 |                10 |      53.66 | Lucas Rumball    |             77 |
+|             80 | Riekert Hattingh     |      60.51 |                17 |        8 |                12 |      51.91 | Mitch Eadie      |             80 |
+|             70 | JP Smith             |      82.64 |                60 |        9 |                15 |      57.77 | Ross Braude      |             73 |
+|             80 | AJ Alatimu           |      58.64 |                15 |       10 |                 2 |      37.35 | Shane O'Leary    |             80 |
+|             80 | Lauina Futi          |     118.82 |                97 |       11 |                 6 |      47.16 | Dawson Fatoric   |             80 |
+|             80 | Daniel David Kriel   |      58.01 |                15 |       12 |                 0 |      13.74 | Mitch Richardson |             80 |
+|             80 | Martin Iosefo        |      59.9  |                20 |       13 |                75 |      89.92 | Fabian Goodall   |             80 |
+|             73 | Conner Mooneyham     |      35.43 |                 2 |       14 |                11 |      51.43 | D'Shawn Bowen    |             80 |
+|             62 | Adriaan John Carelse |      75.76 |                44 |       15 |                26 |      61.85 | Kobe Faust       |             80 |
+|             23 | Mzamo Majola         |      65.96 |                26 |       16 |                 0 |      32.5  | Tyler Rowland    |             18 |
+|             23 | Peter Malcolm        |      63.19 |                22 |       17 |                 4 |      44.04 | Michael Sheppard |             18 |
+|             28 | Mason Pedersen       |      73.31 |                45 |       18 |                14 |      56.96 | Owain Ruttan     |              3 |
+|             23 | Ronan Foley          |      49.86 |                 7 |       19 |               nan |      52.72 | Will Grant       |              7 |
+|              7 | Isaia Lotawa         |      60.73 |               nan |       20 |               nan |      43.99 | Tyler Wong       |              7 |
+|              7 | Cole Zarcone         |      62.09 |               nan |       21 |               nan |     nan    | nan              |            nan |
+|             18 | Mathew Turner        |      59.47 |               nan |       22 |               nan |     nan    | nan              |            nan |
+|             10 | Karl Keane           |      71.66 |               nan |       23 |               nan |     nan    | nan              |            nan |
 
