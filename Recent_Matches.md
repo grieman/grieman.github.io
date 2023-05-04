@@ -42,19 +42,13 @@ Last Round Error: 11.11 points per match
 
 [In depth model review and projections for Major League Rugby 2022](comp_files/Major_League_Rugby_2022)
 
-Competition Accuracy: 44 of 58 (75.86%)
+Competition Accuracy: 43 of 58 (74.14%)
 
-Competition Error: 12.08 points per match
+Competition Error: 12.07 points per match
 
 Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 6.95 points per match
-
-[2023-04-23 NOLA Gold at Chicago Hounds; 37-24](reviews//2023-04-23-ChicagoHounds-NOLAGold)
-
-[2023-04-23 Houston SaberCats at Rugby New York; 34-27](reviews//2023-04-23-RugbyNewYork-HoustonSaberCats)
-
-[2023-04-23 Seattle Seawolves at Toronto Arrows; 36-27](reviews//2023-04-23-TorontoArrows-SeattleSeawolves)
+Last Round Error: 7.09 points per match
 
 [2023-04-29 Dallas Jackals at Seattle Seawolves; 19-61](reviews//2023-04-29-SeattleSeawolves-DallasJackals)
 ## RFU Championship
@@ -123,20 +117,6 @@ Last Round Error: 3.43 points per match
 [2023-04-29 Crusaders at Chiefs; 24.0-34.0](reviews//2023-04-29-Chiefs-Crusaders)
 
 [2023-04-29 Western Force at Queensland Reds; 17.0-31.0](reviews//2023-04-29-QueenslandReds-WesternForce)
-## Top 14 Orange
-
-
-[In depth model review and projections for Top 14 Orange 2022](comp_files/Top_14_Orange_2022)
-
-Competition Accuracy: 112 of 161 (69.57%)
-
-Competition Error: 10.6 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 7.83 points per match
-
-[2023-04-23 Lyon at Bordeaux Begles; 9-23](reviews//2023-04-23-BordeauxBegles-Lyon)
 # Domestic Leagues
 
 ## Currie Cup
@@ -151,8 +131,6 @@ Competition Error: 18.43 points per match
 Last Round Accuracy: 3 of 4 (75.0%)
 
 Last Round Error: 14.75 points per match
-
-[2023-04-23 Griffons at Griquas; 27-42](reviews//2023-04-23-Griquas-Griffons)
 
 [2023-04-28 Pumas at Golden Lions; 10-26](reviews//2023-04-28-GoldenLions-Pumas)
 
@@ -204,12 +182,12 @@ Last Round Error: 10.37 points per match
 
 [2023-04-28 Mont-de-Marsan at Soyaux-Angouleme; 34-22](reviews//2023-04-28-Soyaux-Angouleme-Mont-de-Marsan)
 
+[2023-04-28 Aurillac at Provence Rugby; 14-33](reviews//2023-04-28-ProvenceRugby-Aurillac)
+
 [2023-04-28 Beziers at Rouen; 17-34](reviews//2023-04-28-Rouen-Beziers)
 
 [2023-04-28 Oyonnax at Massy; 33-5](reviews//2023-04-28-Massy-Oyonnax)
 
 [2023-04-28 Carcassonne at Montauban; 23-28](reviews//2023-04-28-Montauban-Carcassonne)
-
-[2023-04-28 Aurillac at Provence Rugby; 14-33](reviews//2023-04-28-ProvenceRugby-Aurillac)
 
 [2023-04-28 Grenoble at Biarritz Olympique; 35-26](reviews//2023-04-28-BiarritzOlympique-Grenoble)
