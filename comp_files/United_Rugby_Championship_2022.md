@@ -1,6 +1,6 @@
 ---  
 title: "United Rugby Championship Status"  
-date: 2023-05-04 6:00:00 -0500  
+date: 2023-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -41,13 +41,13 @@ aside:
 
 |                  | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   |
 |:-----------------|:----------------------|:-------------------|:--------------|:------------|
-| Leinster         | 100.0 %               | 100.0 %            | 99.8 %        | 99.0 %      |
-| Ulster           | 100.0 %               | 99.3 %             | 83.2 %        | 0.9 %       |
-| Stormers         | 100.0 %               | 95.0 %             | 16.1 %        | 0.1 %       |
-| Munster          | 100.0 %               | 36.7 %             | 0.8 %         | 0.0 %       |
-| Glasgow Warriors | 100.0 %               | 63.3 %             | 0.1 %         | 0.0 %       |
-| Bulls            | 100.0 %               | 5.0 %              | 0.0 %         | 0.0 %       |
-| Connacht         | 100.0 %               | 0.7 %              | 0.0 %         | 0.0 %       |
+| Leinster         | 100.0 %               | 100.0 %            | 100.0 %       | 99.6 %      |
+| Ulster           | 100.0 %               | 99.1 %             | 83.4 %        | 0.4 %       |
+| Stormers         | 100.0 %               | 94.8 %             | 16.0 %        | 0.0 %       |
+| Glasgow Warriors | 100.0 %               | 65.1 %             | 0.3 %         | 0.0 %       |
+| Munster          | 100.0 %               | 34.9 %             | 0.3 %         | 0.0 %       |
+| Bulls            | 100.0 %               | 5.2 %              | 0.0 %         | 0.0 %       |
+| Connacht         | 100.0 %               | 0.9 %              | 0.0 %         | 0.0 %       |
 | Sharks           | 100.0 %               | 0.0 %              | 0.0 %         | 0.0 %       |
 
 

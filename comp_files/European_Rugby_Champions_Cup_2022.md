@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup Status"  
-date: 2023-05-04 6:00:00 -0500  
+date: 2023-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -49,8 +49,8 @@ aside:
 
 |             | Reach Final   | Win Final   |
 |:------------|:--------------|:------------|
-| Leinster    | 100.0 %       | 99.4 %      |
-| La Rochelle | 100.0 %       | 0.6 %       |
+| Leinster    | 100.0 %       | 99.2 %      |
+| La Rochelle | 100.0 %       | 0.8 %       |
 
 
 

@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup Status"  
-date: 2023-05-04 6:00:00 -0500  
+date: 2023-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -47,8 +47,8 @@ aside:
 
 |                  | Reach Final   | Win Final   |
 |:-----------------|:--------------|:------------|
-| Toulon           | 100.0 %       | 54.0 %      |
-| Glasgow Warriors | 100.0 %       | 46.0 %      |
+| Toulon           | 100.0 %       | 52.2 %      |
+| Glasgow Warriors | 100.0 %       | 47.8 %      |
 
 
 

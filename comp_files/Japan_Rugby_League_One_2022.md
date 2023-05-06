@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One Status"  
-date: 2023-05-04 6:00:00 -0500  
+date: 2023-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -38,14 +38,14 @@ aside:
 | Club                              |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Mitsubishi Dynaboars              |                   2 |    1.9 |                 26.9 |                   0.1 |                1.9 |                  9.7 |
-| Urayasu D-Rocks                   |                   2 |    1.9 |                 25.5 |                   0.1 |                1.9 |                  9.7 |
-| Green Rockets Tokatsu             |                   2 |    1.1 |                  1.2 |                   0.6 |                1   |                  5.9 |
-| Mie Honda Heat                    |                   2 |    0.9 |                 -1.2 |                   0.7 |                0.9 |                  5.3 |
-| Kubota Spears Funabashi Tokyo-Bay |                   1 |    0.9 |                  6.2 |                   0.1 |                0.9 |                  4.5 |
-| Saitama Wild Knights              |                   1 |    0.8 |                  5.2 |                   0.1 |                0.8 |                  4.3 |
-| Yokohama Canon Eagles             |                   1 |    0.2 |                 -5.2 |                   0.4 |                0.1 |                  1.2 |
-| Tokyo Sungoliath                  |                   1 |    0.1 |                 -6.2 |                   0.4 |                0.1 |                  1   |
-| Hanazono Kintetsu Liners          |                   2 |    0.1 |                -25.5 |                   0.3 |                0.1 |                  0.7 |
+| Urayasu D-Rocks                   |                   2 |    1.9 |                 26.2 |                   0.1 |                1.9 |                  9.7 |
+| Kubota Spears Funabashi Tokyo-Bay |                   1 |    0.9 |                  6.4 |                   0.1 |                0.9 |                  4.6 |
+| Saitama Wild Knights              |                   1 |    0.8 |                  5.2 |                   0.2 |                0.8 |                  4.2 |
+| Green Rockets Tokatsu             |                   1 |    0.8 |                  4   |                   0.2 |                0.7 |                  4   |
+| Mie Honda Heat                    |                   1 |    0.2 |                 -4   |                   0.4 |                0.2 |                  1.6 |
+| Yokohama Canon Eagles             |                   1 |    0.2 |                 -5.2 |                   0.4 |                0.1 |                  1.3 |
+| Tokyo Sungoliath                  |                   1 |    0.1 |                 -6.4 |                   0.4 |                0.1 |                  0.9 |
+| Hanazono Kintetsu Liners          |                   2 |    0.1 |                -26.2 |                   0.3 |                0.1 |                  0.6 |
 | Toyota Industries Shuttles Aichi  |                   2 |    0.1 |                -26.9 |                   0.3 |                0.1 |                  0.6 |
 
 
@@ -55,20 +55,20 @@ aside:
 
 | Club                              |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Kubota Spears Funabashi Tokyo-Bay |              18 |   15.9 |                344.2 |                   0.1 |               11.9 |                 77.5 |
-| Saitama Wild Knights              |              18 |   15.8 |                255.2 |                   0.1 |                9.8 |                 73.3 |
-| Tokyo Sungoliath                  |              18 |   13.1 |                199.8 |                   1.4 |               11.1 |                 65   |
-| Yokohama Canon Eagles             |              18 |   11.2 |                259.8 |                   3.4 |               10.1 |                 58.2 |
+| Kubota Spears Funabashi Tokyo-Bay |              18 |   15.9 |                344.4 |                   0.1 |               11.9 |                 77.6 |
+| Saitama Wild Knights              |              18 |   15.8 |                255.2 |                   0.2 |                9.8 |                 73.2 |
+| Tokyo Sungoliath                  |              18 |   13.1 |                199.6 |                   1.4 |               11.1 |                 64.9 |
+| Yokohama Canon Eagles             |              18 |   11.2 |                259.8 |                   3.4 |               10.1 |                 58.3 |
 | Toshiba Brave Lupus Tokyo         |              16 |   10   |                164   |                   3   |               10   |                 53   |
 | Toyota Verblitz                   |              17 |    9   |                 21   |                   3   |                8   |                 47   |
 | Shizuoka Blue Revs                |              17 |    7   |                 20   |                   3   |                8   |                 39   |
 | Black Rams Tokyo                  |              17 |    6   |                 28   |                   5   |                7   |                 36   |
 | Mitsubishi Dynaboars              |              18 |    5.9 |               -222.1 |                   1.1 |                6.9 |                 33.7 |
 | Kobelco Kobe Steelers             |              16 |    5   |                -99   |                   2   |                8   |                 30   |
-| Green Rockets Tokatsu             |              19 |    4.1 |               -385.8 |                   1.6 |                6   |                 23.9 |
-| Hanazono Kintetsu Liners          |              18 |    1.1 |               -582.5 |                   1.3 |                5.1 |                 10.7 |
-| Urayasu D-Rocks                   |               2 |    1.9 |                 25.5 |                   0.1 |                1.9 |                  9.7 |
-| Mie Honda Heat                    |               2 |    0.9 |                 -1.2 |                   0.7 |                0.9 |                  5.3 |
+| Green Rockets Tokatsu             |              18 |    3.8 |               -383   |                   1.2 |                5.7 |                 22   |
+| Hanazono Kintetsu Liners          |              18 |    1.1 |               -583.2 |                   1.3 |                5.1 |                 10.6 |
+| Urayasu D-Rocks                   |               2 |    1.9 |                 26.2 |                   0.1 |                1.9 |                  9.7 |
+| Mie Honda Heat                    |               1 |    0.2 |                 -4   |                   0.4 |                0.2 |                  1.6 |
 | Toyota Industries Shuttles Aichi  |               2 |    0.1 |                -26.9 |                   0.3 |                0.1 |                  0.6 |
 
 
@@ -87,21 +87,10 @@ aside:
 
 ## Week 17
 
-### Mie Honda Heat V Green Rockets Tokatsu on 2023/05/05
-
-
-Average Margin: Mie Honda Heat by 2.6
-
-<p float="left">
-<img src="plots/performances_Mie Honda Heat_V_Green Rockets Tokatsu_17.png" width="32%" />
-<img src="plots/resultbar_Mie Honda Heat_V_Green Rockets Tokatsu_17.png" width="32%" />
-<img src="plots/spreads_Mie Honda Heat_V_Green Rockets Tokatsu_17.png" width="32%" />
-</p>
-
 ### Toyota Industries Shuttles Aichi V Mitsubishi Dynaboars on 2023/05/06
 
 
-Average Margin: Mitsubishi Dynaboars by 10.5
+Average Margin: Mitsubishi Dynaboars by 10.4
 
 <p float="left">
 <img src="plots/performances_Toyota Industries Shuttles Aichi_V_Mitsubishi Dynaboars_17.png" width="32%" />
@@ -112,7 +101,7 @@ Average Margin: Mitsubishi Dynaboars by 10.5
 ### Urayasu D-Rocks V Hanazono Kintetsu Liners on 2023/05/07
 
 
-Average Margin: Urayasu D-Rocks by 16.4
+Average Margin: Urayasu D-Rocks by 16.6
 
 <p float="left">
 <img src="plots/performances_Urayasu D-Rocks_V_Hanazono Kintetsu Liners_17.png" width="32%" />
@@ -121,28 +110,6 @@ Average Margin: Urayasu D-Rocks by 16.4
 </p>
 
 ## Week 18
-
-### Hanazono Kintetsu Liners V Urayasu D-Rocks on 2023/05/13
-
-
-Average Margin: Urayasu D-Rocks by 9.6
-
-<p float="left">
-<img src="plots/performances_Hanazono Kintetsu Liners_V_Urayasu D-Rocks_18.png" width="32%" />
-<img src="plots/resultbar_Hanazono Kintetsu Liners_V_Urayasu D-Rocks_18.png" width="32%" />
-<img src="plots/spreads_Hanazono Kintetsu Liners_V_Urayasu D-Rocks_18.png" width="32%" />
-</p>
-
-### Green Rockets Tokatsu V Mie Honda Heat on 2023/05/13
-
-
-Average Margin: Green Rockets Tokatsu by 3.9
-
-<p float="left">
-<img src="plots/performances_Green Rockets Tokatsu_V_Mie Honda Heat_18.png" width="32%" />
-<img src="plots/resultbar_Green Rockets Tokatsu_V_Mie Honda Heat_18.png" width="32%" />
-<img src="plots/spreads_Green Rockets Tokatsu_V_Mie Honda Heat_18.png" width="32%" />
-</p>
 
 ### Saitama Wild Knights V Yokohama Canon Eagles on 2023/05/13
 
@@ -155,10 +122,32 @@ Average Margin: Saitama Wild Knights by 5.5
 <img src="plots/spreads_Saitama Wild Knights_V_Yokohama Canon Eagles_18.png" width="32%" />
 </p>
 
+### Hanazono Kintetsu Liners V Urayasu D-Rocks on 2023/05/13
+
+
+Average Margin: Urayasu D-Rocks by 10.2
+
+<p float="left">
+<img src="plots/performances_Hanazono Kintetsu Liners_V_Urayasu D-Rocks_18.png" width="32%" />
+<img src="plots/resultbar_Hanazono Kintetsu Liners_V_Urayasu D-Rocks_18.png" width="32%" />
+<img src="plots/spreads_Hanazono Kintetsu Liners_V_Urayasu D-Rocks_18.png" width="32%" />
+</p>
+
+### Green Rockets Tokatsu V Mie Honda Heat on 2023/05/13
+
+
+Average Margin: Green Rockets Tokatsu by 4.3
+
+<p float="left">
+<img src="plots/performances_Green Rockets Tokatsu_V_Mie Honda Heat_18.png" width="32%" />
+<img src="plots/resultbar_Green Rockets Tokatsu_V_Mie Honda Heat_18.png" width="32%" />
+<img src="plots/spreads_Green Rockets Tokatsu_V_Mie Honda Heat_18.png" width="32%" />
+</p>
+
 ### Kubota Spears Funabashi Tokyo-Bay V Tokyo Sungoliath on 2023/05/14
 
 
-Average Margin: Kubota Spears Funabashi Tokyo-Bay by 6.6
+Average Margin: Kubota Spears Funabashi Tokyo-Bay by 6.8
 
 <p float="left">
 <img src="plots/performances_Kubota Spears Funabashi Tokyo-Bay_V_Tokyo Sungoliath_18.png" width="32%" />
