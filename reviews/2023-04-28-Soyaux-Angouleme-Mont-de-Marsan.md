@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Mont-de-Marsan by 4.8
+## Prediction with Player Minutes: Mont-de-Marsan by 2.0
 
 
-Mont-de-Marsan by 8.8 on a neutral field
+Mont-de-Marsan by 6.0 on a neutral field
 
-There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Mont-de-Marsan by 4.0
+There were 8 large changes in win probability in this match
+## Prediction without Player Minutes: Mont-de-Marsan by 2.7
 
 
-Mont-de-Marsan by 8.0 on a neutral pitch
+Mont-de-Marsan by 6.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             49 | Jean-Luc Innocente        |      83.77 |                84 |        1 |                49 |      76.4  | Khatchik Vartan      |             80 |
-|             50 | Romain Laterrade          |      47.22 |                14 |        2 |                40 |      71.54 | Patxi Bidart         |             80 |
-|             50 | Gheorge Gajion            |      70.23 |                34 |        3 |                40 |      74.59 | Yassin Boutemani     |             80 |
-|             80 | Nicolas Garrault          |      65.63 |                27 |        4 |                43 |      72.85 | Robin Copeland       |             80 |
-|             80 | Romain Durand             |      95.74 |                83 |        5 |                53 |      78    | Sikeli Nabou         |             80 |
-|             72 | Yann Brethous             |      75.71 |                48 |        6 |                11 |      54.47 | Gautier Gibouin      |             80 |
-|             80 | Léo Banos                 |      67.7  |                29 |        7 |                84 |      90.29 | Germain Burgaud      |             80 |
-|             51 | Michael Faleafa           |      74.73 |                44 |        8 |                52 |      79.05 | Matt Va'ai           |             80 |
-|             66 | Christophe Loustalot      |      66.22 |                28 |        9 |                62 |      81.47 | Emmanuel Saubusse    |             80 |
-|             80 | Willie du Plessis         |      83.84 |                59 |       10 |                19 |      61.55 | Benjamin Botica      |             80 |
-|             80 | Kaminieli Rasaku          |      91.46 |                76 |       11 |                72 |      87.9  | Marvin Lestremau     |             80 |
-|             80 | Jules Even                |     107.92 |                91 |       12 |                27 |      66.71 | Inaki Ayarza Saporta |             80 |
-|             58 | Nacani Wakaya             |     101.33 |                85 |       13 |                43 |      74.83 | Ledua Mau            |             80 |
-|             80 | Wame Naituvi              |      81.57 |                69 |       14 |                79 |      92.6  | Maxime Laforgue      |             80 |
-|             58 | Yoann Laousse Azpiazu     |      98.82 |                83 |       15 |                26 |      66.24 | Pierre Lafitte       |             80 |
-|             31 | Max Curie                 |      59.53 |                16 |       16 |               nan |     nan    | nan                  |            nan |
-|             30 | Anthony Alves             |      72.37 |                38 |       17 |               nan |     nan    | nan                  |            nan |
-|             30 | Simon Labouyrie           |      81.78 |                63 |       18 |               nan |     nan    | nan                  |            nan |
-|             29 | Veresa Tuqovu Ramototabua |      93.67 |                81 |       19 |               nan |     nan    | nan                  |            nan |
-|             22 | Alexandre de Nardi        |      72.84 |                37 |       20 |               nan |     nan    | nan                  |            nan |
-|             22 | Simon Renda               |      93.55 |                77 |       21 |               nan |     nan    | nan                  |            nan |
-|             14 | Clément Darbo             |      74.81 |               nan |       22 |               nan |     nan    | nan                  |            nan |
-|              8 | Leandro Luis Cedaro       |      82.23 |               nan |       23 |               nan |     nan    | nan                  |            nan |
+|             49 | Jean-Luc Innocente        |      84.26 |                85 |        1 |                50 |      76.85 | Khatchik Vartan      |             37 |
+|             50 | Romain Laterrade          |      41.84 |                10 |        2 |                36 |      69.68 | Patxi Bidart         |             47 |
+|             50 | Gheorge Gajion            |      68.78 |                32 |        3 |                42 |      75.12 | Yassin Boutemani     |             50 |
+|             80 | Nicolas Garrault          |      68.61 |                33 |        4 |                47 |      74.54 | Robin Copeland       |             80 |
+|             80 | Romain Durand             |      92.29 |                79 |        5 |                46 |      74.53 | Sikeli Nabou         |             80 |
+|             72 | Yann Brethous             |      76.93 |                51 |        6 |                13 |      54.97 | Gautier Gibouin      |             17 |
+|             80 | Léo Banos                 |      64.77 |                25 |        7 |                83 |      90.69 | Germain Burgaud      |             80 |
+|             51 | Michael Faleafa           |      77.78 |                50 |        8 |                56 |      80.97 | Matt Va'ai           |             47 |
+|             66 | Christophe Loustalot      |      73.63 |                43 |        9 |                51 |      74.92 | Emmanuel Saubusse    |             58 |
+|             80 | Willie du Plessis         |      88.21 |                67 |       10 |                36 |      70.43 | Benjamin Botica      |             66 |
+|             80 | Kaminieli Rasaku          |      90.8  |                76 |       11 |                65 |      84.2  | Marvin Lestremau     |             80 |
+|             80 | Jules Even                |     100.17 |                83 |       12 |                28 |      66.41 | Inaki Ayarza Saporta |             80 |
+|             58 | Nacani Wakaya             |     106.71 |                90 |       13 |                59 |      82.28 | Ledua Mau            |             80 |
+|             80 | Wame Naituvi              |      89.66 |                81 |       14 |                79 |      92.9  | Maxime Laforgue      |             80 |
+|             58 | Yoann Laousse Azpiazu     |      95.53 |                79 |       15 |                39 |      72.58 | Pierre Lafitte       |             66 |
+|             31 | Max Curie                 |      56.71 |                13 |       16 |               nan |      73.84 | Otar Kintsurashvili  |             63 |
+|             30 | Anthony Alves             |      76.85 |                49 |       17 |                45 |      72.13 | Omar Odishvili       |             43 |
+|             30 | Simon Labouyrie           |      85.25 |                68 |       18 |                55 |      79.46 | Yassine Jarmouni     |             33 |
+|             29 | Veresa Tuqovu Ramototabua |      92.92 |                81 |       19 |                46 |      71.96 | Ole Avei             |             33 |
+|             22 | Alexandre de Nardi        |      70.04 |                31 |       20 |                49 |      83.1  | Shota Gogisvanidze   |             30 |
+|             22 | Simon Renda               |      93.63 |                78 |       21 |                53 |      78.25 | Adrien Bau           |             22 |
+|             14 | Clément Darbo             |      75.07 |               nan |       22 |                86 |     103.77 | Rémi Brosset         |             14 |
+|              8 | Leandro Luis Cedaro       |      82.83 |               nan |       23 |                54 |      80.27 | Matthieu Ugalde      |             14 |
 

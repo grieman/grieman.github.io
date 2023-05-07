@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: London Scottish by 4.0
+## Prediction with Player Minutes: London Scottish by 2.9
 
 
-London Scottish by 8.0 on a neutral field
+London Scottish by 6.9 on a neutral field
 
 There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Nottingham by 0.5
+## Prediction without Player Minutes: Nottingham by 1.0
 
 
-London Scottish by 3.5 on a neutral pitch
+London Scottish by 3.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             70 | Will Prior         |      72.21 |                39 |        1 |                56 |      79.31 | Aniseko Sio               |             53 |
-|             70 | Jack Musk          |      88.79 |                76 |        2 |                65 |      83.43 | Jack Dickinson            |             61 |
-|             53 | Joe Rees           |      73.11 |                41 |        3 |                63 |      82.33 | Xavier Valentine          |             67 |
-|             67 | Matas Jurevicius   |      71.44 |                39 |        4 |                65 |      83.54 | Iosefa Danny Wayne Fiaola |             80 |
-|             80 | Bailey Ransom      |     119.57 |                96 |        5 |                13 |      56.15 | Scott Hall                |             24 |
-|             80 | Will Trenholm      |      75.79 |                48 |        6 |                53 |      78.26 | George Cox                |             80 |
-|             80 | Charlie Ingall     |      73.79 |                41 |        7 |                60 |      81.6  | Carl Kirwan               |             70 |
-|             51 | Cameron King       |      53.31 |                10 |        8 |                31 |      69.59 | Josh Poullet              |             80 |
-|             70 | Daniel Nutton      |      75.26 |                45 |        9 |                40 |      72.73 | Micheal Stronge           |             67 |
-|             80 | Nathan Chamberlain |      79.85 |                52 |       10 |                74 |      93.24 | Sam Hollingsworth         |             48 |
-|             80 | Cassius Cleaves    |     102.47 |                88 |       11 |                24 |      63.54 | Harry Graham              |             80 |
-|             70 | Lennox Anyanwu     |      65.11 |                24 |       12 |                44 |      74.87 | Javiah Pohe               |             80 |
-|             80 | Hayden Hyde        |      53.71 |                10 |       13 |                 8 |      50.95 | John Joseph Neville       |             48 |
-|             80 | Luke Mehson        |      85.36 |                67 |       14 |                63 |      83.28 | David Williams            |             80 |
-|             80 | Cameron Anderson   |     103.24 |                87 |       15 |                60 |      83.53 | Jordan Kehinde Olowofela  |             80 |
-|             29 | Viliami Taulani    |      70.07 |                25 |       16 |                 6 |      49.63 | Ross Bundy                |             56 |
-|             27 | Rhys Litterick     |      64.11 |               nan |       17 |                 8 |      46.64 | Morgan Bunting            |             32 |
-|             13 | Angus Southon      |      65.67 |                25 |       18 |                 7 |      57.66 | Michael Green             |             32 |
-|             10 | Nathan Jibulu      |      65.8  |               nan |       19 |                45 |      74.56 | Toby Williams             |             27 |
-|             10 | Jack Ingall        |      72.96 |                41 |       20 |                64 |      86.09 | Harry Clayton             |             19 |
-|             10 | Luca Petrozzi      |      59.39 |               nan |       21 |                18 |      59.93 | Liam Slatem               |             13 |
-|             10 | Rhys Charalambous  |      63.35 |               nan |       22 |                40 |      77.91 | Dan Richardson            |             13 |
-|            nan | nan                |     nan    |               nan |       23 |               nan |      69.46 | Jacob Wright              |             10 |
+|             70 | Will Prior         |      72.73 |                41 |        1 |                61 |      81.28 | Aniseko Sio               |             53 |
+|             70 | Jack Musk          |      85.64 |                71 |        2 |                66 |      83.88 | Jack Dickinson            |             61 |
+|             53 | Joe Rees           |      74.88 |                46 |        3 |                67 |      84.11 | Xavier Valentine          |             67 |
+|             67 | Matas Jurevicius   |      71.91 |                40 |        4 |                58 |      80.32 | Iosefa Danny Wayne Fiaola |             80 |
+|             80 | Bailey Ransom      |     121.71 |                97 |        5 |                 8 |      50.07 | Scott Hall                |             24 |
+|             80 | Will Trenholm      |      71.08 |                38 |        6 |                55 |      78.71 | George Cox                |             80 |
+|             80 | Charlie Ingall     |      74.16 |                42 |        7 |                61 |      81.98 | Carl Kirwan               |             70 |
+|             51 | Cameron King       |      51.62 |                 9 |        8 |                28 |      67.98 | Josh Poullet              |             80 |
+|             70 | Daniel Nutton      |      83.73 |                63 |        9 |                43 |      73.97 | Micheal Stronge           |             67 |
+|             80 | Nathan Chamberlain |      80.06 |                54 |       10 |                71 |      91.9  | Sam Hollingsworth         |             48 |
+|             80 | Cassius Cleaves    |      98.38 |                85 |       11 |                46 |      74.02 | Harry Graham              |             80 |
+|             70 | Lennox Anyanwu     |      65.96 |                27 |       12 |                50 |      77.32 | Javiah Pohe               |             80 |
+|             80 | Hayden Hyde        |      49.48 |                 8 |       13 |                 9 |      51.54 | John Joseph Neville       |             48 |
+|             80 | Luke Mehson        |      86.78 |                70 |       14 |                64 |      83.19 | David Williams            |             80 |
+|             80 | Cameron Anderson   |     106.09 |                90 |       15 |                58 |      82.49 | Jordan Kehinde Olowofela  |             80 |
+|             29 | Viliami Taulani    |      69.89 |                25 |       16 |                 7 |      50.53 | Ross Bundy                |             56 |
+|             27 | Rhys Litterick     |      64.22 |               nan |       17 |                 5 |      44.04 | Morgan Bunting            |             32 |
+|             13 | Angus Southon      |      62.1  |                21 |       18 |                 9 |      58.28 | Michael Green             |             32 |
+|             10 | Nathan Jibulu      |      64.75 |               nan |       19 |                47 |      75.17 | Toby Williams             |             27 |
+|             10 | Jack Ingall        |      70.57 |                36 |       20 |                67 |      87.28 | Harry Clayton             |             19 |
+|             10 | Luca Petrozzi      |      59.44 |               nan |       21 |                20 |      60.94 | Liam Slatem               |             13 |
+|             10 | Rhys Charalambous  |      62.78 |               nan |       22 |                35 |      75.24 | Dan Richardson            |             13 |
+|            nan | nan                |     nan    |               nan |       23 |               nan |      68.14 | Jacob Wright              |             10 |
 

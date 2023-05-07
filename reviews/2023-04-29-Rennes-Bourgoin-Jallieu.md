@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bourgoin-Jallieu by 14.1
+## Prediction with Player Minutes: Bourgoin-Jallieu by 17.6
 
 
-Bourgoin-Jallieu by 18.1 on a neutral field
+Bourgoin-Jallieu by 21.6 on a neutral field
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Bourgoin-Jallieu by 11.6
+## Prediction without Player Minutes: Bourgoin-Jallieu by 16.0
 
 
-Bourgoin-Jallieu by 15.6 on a neutral pitch
+Bourgoin-Jallieu by 20.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             49 | Romain Favaretto  |      59.59 |                 8 |        1 |                23 |      64.99 | Carlos Muzzio          |             50 |
-|             52 | Maxime Castant    |      70.74 |                38 |        2 |                17 |      58.75 | Alexandre Fau          |             80 |
-|             80 | Mickaël Simutoga  |      66.05 |                26 |        3 |                15 |      58.58 | Luvuyo Pupuma          |             68 |
-|             59 | Robin Gascou      |      97.33 |                85 |        4 |                39 |      71.33 | Gabriel Quesmel        |             54 |
-|             80 | Jonathan Kpoku    |      81.42 |                59 |        5 |                37 |      72.81 | Alexandre Gueroult     |             80 |
-|             80 | Kevin Rivoire     |      89.42 |                76 |        6 |                38 |      71.87 | Vincent Wenger         |             57 |
-|             48 | Théophile Cotte   |      70.72 |                35 |        7 |                14 |      56.5  | Pedro Ortega           |             19 |
-|              9 | Théo Lepage       |      79.23 |                40 |        8 |                 7 |      48.93 | Gaétan Béraud          |             80 |
-|             80 | Tomas Munilla     |      77.54 |                50 |        9 |                63 |      84.03 | Lucas Ollion           |             33 |
-|             80 | Benjamin Noble    |      77.73 |                50 |       10 |                71 |      90.22 | Joaquin Diaz Luzzi     |             80 |
-|             54 | Remi Bouet        |      96.78 |                76 |       11 |                11 |      52.41 | Romuald François       |             80 |
-|             49 | Isaiah Leota      |      82.39 |                59 |       12 |                10 |      54.14 | Ryan Dubois            |             80 |
-|             80 | Pablo Patilla     |      54.41 |                11 |       13 |                 9 |      51.4  | Clément Lepresle       |             80 |
-|             57 | Naibuka Rokua     |      63.41 |                24 |       14 |                72 |      88.32 | Alexis François        |             18 |
-|             80 | Nicolas Cachet    |      81.37 |                55 |       15 |                27 |      68.78 | Théo Platon            |             69 |
-|             71 | Lakisipone Lee    |      64.36 |                21 |       16 |                14 |      57.12 | Gonzalo Lopez Bontempo |             62 |
-|             32 | Bynjamin Rabatel  |      90.76 |                78 |       17 |                13 |      55.85 | Victor Danielli        |             61 |
-|             31 | Rémy Gaborit      |      86.25 |                71 |       18 |                37 |      71.2  | Yvan Leroyer           |             47 |
-|             31 | Christopher Bosch |      74.26 |                43 |       19 |                36 |      71.06 | Baptiste Le Jallé      |             30 |
-|             28 | Killian Tripier   |      89.59 |                75 |       20 |                37 |      70.98 | Clément Fontaine       |             26 |
-|             21 | Matteo Broeders   |      64.16 |                21 |       21 |               nan |      73.66 | Ewann Puarai           |             12 |
-|             23 | Maxime Caillet    |      67.15 |                30 |       22 |               nan |      62.62 | Jimy Collet            |             11 |
-|             26 | Romain Sola       |      71.4  |               nan |       23 |                14 |      57.19 | Pierre Strippoli       |             23 |
+|             49 | Romain Favaretto  |      58.88 |                 8 |        1 |                20 |      62.28 | Carlos Muzzio          |             50 |
+|             52 | Maxime Castant    |      70.39 |                39 |        2 |                13 |      54.17 | Alexandre Fau          |             80 |
+|             80 | Mickaël Simutoga  |      66.09 |                27 |        3 |                 9 |      52.71 | Luvuyo Pupuma          |             68 |
+|             59 | Robin Gascou      |      98.03 |                86 |        4 |                28 |      65.54 | Gabriel Quesmel        |             54 |
+|             80 | Jonathan Kpoku    |      77.95 |                53 |        5 |                40 |      70.04 | Alexandre Gueroult     |             80 |
+|             80 | Kevin Rivoire     |      90.08 |                76 |        6 |                32 |      68.05 | Vincent Wenger         |             57 |
+|             48 | Théophile Cotte   |      70.92 |                37 |        7 |                11 |      53.06 | Pedro Ortega           |             19 |
+|              9 | Théo Lepage       |      80.12 |                41 |        8 |                 6 |      44.56 | Gaétan Béraud          |             80 |
+|             80 | Tomas Munilla     |      76.78 |                50 |        9 |                53 |      78.48 | Lucas Ollion           |             33 |
+|             80 | Benjamin Noble    |      77.66 |                52 |       10 |                66 |      87.06 | Joaquin Diaz Luzzi     |             80 |
+|             54 | Remi Bouet        |      97.74 |                78 |       11 |                 7 |      47.2  | Romuald François       |             80 |
+|             49 | Isaiah Leota      |      82.95 |                61 |       12 |                11 |      53.85 | Ryan Dubois            |             80 |
+|             80 | Pablo Patilla     |      55.12 |                12 |       13 |                10 |      51.38 | Clément Lepresle       |             80 |
+|             57 | Naibuka Rokua     |      63.66 |                26 |       14 |                73 |      89.22 | Alexis François        |             18 |
+|             80 | Nicolas Cachet    |      78.87 |                52 |       15 |                30 |      65.55 | Théo Platon            |             69 |
+|             71 | Lakisipone Lee    |      63.94 |                22 |       16 |                19 |      60.56 | Gonzalo Lopez Bontempo |             62 |
+|             32 | Bynjamin Rabatel  |      90.87 |                78 |       17 |                14 |      55.81 | Victor Danielli        |             61 |
+|             31 | Rémy Gaborit      |      86.15 |                71 |       18 |                42 |      72.78 | Yvan Leroyer           |             47 |
+|             31 | Christopher Bosch |      73.64 |                41 |       19 |                28 |      66.98 | Baptiste Le Jallé      |             30 |
+|             28 | Killian Tripier   |      91.35 |                77 |       20 |                31 |      67.57 | Clément Fontaine       |             26 |
+|             21 | Matteo Broeders   |      65.17 |                23 |       21 |               nan |      74.02 | Ewann Puarai           |             12 |
+|             23 | Maxime Caillet    |      67.86 |                33 |       22 |               nan |      60.26 | Jimy Collet            |             11 |
+|             26 | Romain Sola       |      71.41 |               nan |       23 |                14 |      54.72 | Pierre Strippoli       |             23 |
 

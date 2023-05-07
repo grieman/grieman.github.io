@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup Status"  
-date: 2023-05-06 6:00:00 -0500  
+date: 2023-05-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -49,8 +49,8 @@ aside:
 
 |             | Reach Final   | Win Final   |
 |:------------|:--------------|:------------|
-| Leinster    | 100.0 %       | 99.2 %      |
-| La Rochelle | 100.0 %       | 0.8 %       |
+| Leinster    | 100.0 %       | 99.7 %      |
+| La Rochelle | 100.0 %       | 0.3 %       |
 
 
 
@@ -60,6 +60,6 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 71.0% | 12.4 |
-| Player Level: Lineup | 74.2% | 13.7 |
-| Player Level: Minutes | 72.6% | 13.4 |
+| Player Level: Lineup | 72.6% | 14.3 |
+| Player Level: Minutes | 69.4% | 13.7 |
 

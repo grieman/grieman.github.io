@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New South Wales Waratahs by 17.7
+## Prediction with Player Minutes: New South Wales Waratahs by 17.5
 
 
-New South Wales Waratahs by 13.7 on a neutral field
+New South Wales Waratahs by 13.5 on a neutral field
 
 There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: New South Wales Waratahs by 16.3
+## Prediction without Player Minutes: New South Wales Waratahs by 16.1
 
 
-New South Wales Waratahs by 12.3 on a neutral pitch
+New South Wales Waratahs by 12.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             62 | Ethan de Groot       |      87.13 |                73 |        1 |                77 |      90.38 | Tetera Faulkner      |             52 |
-|             52 | Andrew Makalio       |      90.71 |                79 |        2 |                94 |     107.72 | Dave Porecki         |             67 |
-|             62 | Jermaine Ainsley     |      86.9  |                72 |        3 |                68 |      84.53 | Harry Johnson-Holmes |             61 |
-|             80 | Fabian Holland       |      92.25 |                80 |        4 |                52 |      77.93 | Jed Holloway         |             80 |
-|             55 | Will Tucker          |      81.15 |                59 |        5 |                86 |      98.52 | Hugh Sinclair        |             61 |
-|             68 | Shannon Frizell      |      98.72 |                87 |        6 |                59 |      81.3  | Taleni Seu           |             80 |
-|             80 | Sean Withy           |      72.97 |                46 |        7 |                99 |     146.12 | Michael Hooper       |             80 |
-|             80 | Hugh Renton          |      50.82 |                 8 |        8 |                73 |      89.2  | Langi Gleeson        |             41 |
-|             72 | Aaron Smith          |      96.98 |                82 |        9 |                95 |     113.26 | Jake Gordon          |             80 |
-|             80 | Mitch Hunt           |      98.13 |                83 |       10 |                66 |      87.25 | Ben Donaldson        |             80 |
-|             55 | Scott Gregory        |      80.33 |                56 |       11 |                86 |     100.45 | Dylan Pietsch        |             80 |
-|             80 | Sam Gilbert          |      83.56 |                60 |       12 |                77 |      94.15 | Lalakai Foketi       |             80 |
-|             56 | Fetuli Paea          |      92.21 |                74 |       13 |                45 |      75.52 | Izaia Perese         |             80 |
-|             80 | Jonah Lowe           |      73.86 |                45 |       14 |                77 |      91.88 | Mark Nawaqanitawase  |             80 |
-|             80 | Connor Garden-Bachop |     100.07 |                86 |       15 |                90 |     105.12 | Max Jorgensen        |             80 |
-|             28 | Rhys Marshall        |      85.85 |                75 |       16 |                 9 |      50.18 | Mahe Vailanu         |             13 |
-|             18 | Dan Lienert-Brown    |      88.25 |                77 |       17 |               nan |      74.21 | Nephi Leatigaga      |             28 |
-|             18 | Saula Mau            |      84.45 |                75 |       18 |               nan |      87.17 | Daniel Botha         |             19 |
-|             25 | Pari Pari Parkinson  |     125.28 |                97 |       19 |                79 |      93.55 | Will Harris          |             39 |
-|             12 | Marino Mikaele-Tu'u  |      81.41 |                57 |       20 |                65 |      83.96 | Charlie Gamble       |             19 |
-|              8 | Folau Fakatava       |      77.24 |                49 |       21 |               nan |      84.63 | Harrison Goddard     |              0 |
-|             24 | Thomas Umaga-Jensen  |      73.62 |                40 |       22 |                55 |      80.36 | Joey Walton          |              0 |
-|             25 | Jona Nareki          |      90.47 |                75 |       23 |               nan |      89.62 | Mosese Tuipulotu     |              0 |
+|             62 | Ethan de Groot       |      87.51 |                73 |        1 |                75 |      89.45 | Tetera Faulkner      |             52 |
+|             52 | Andrew Makalio       |      90.7  |                79 |        2 |                95 |     107.91 | Dave Porecki         |             67 |
+|             62 | Jermaine Ainsley     |      87.17 |                72 |        3 |                68 |      84.99 | Harry Johnson-Holmes |             61 |
+|             80 | Fabian Holland       |      92.93 |                81 |        4 |                54 |      78.51 | Jed Holloway         |             80 |
+|             55 | Will Tucker          |      81.03 |                60 |        5 |                85 |      97.4  | Hugh Sinclair        |             61 |
+|             68 | Shannon Frizell      |     100.31 |                88 |        6 |                61 |      81.93 | Taleni Seu           |             80 |
+|             80 | Sean Withy           |      72.07 |                44 |        7 |                99 |     146.87 | Michael Hooper       |             80 |
+|             80 | Hugh Renton          |      51.37 |                 9 |        8 |                72 |      89    | Langi Gleeson        |             41 |
+|             72 | Aaron Smith          |      98.44 |                83 |        9 |                96 |     113.84 | Jake Gordon          |             80 |
+|             80 | Mitch Hunt           |      97.89 |                82 |       10 |                68 |      88.94 | Ben Donaldson        |             80 |
+|             55 | Scott Gregory        |      80.75 |                56 |       11 |                88 |     101.98 | Dylan Pietsch        |             80 |
+|             80 | Sam Gilbert          |      83.97 |                61 |       12 |                75 |      92.36 | Lalakai Foketi       |             80 |
+|             56 | Fetuli Paea          |      91.43 |                74 |       13 |                46 |      75.58 | Izaia Perese         |             80 |
+|             80 | Jonah Lowe           |      72.08 |                41 |       14 |                75 |      90.29 | Mark Nawaqanitawase  |             80 |
+|             80 | Connor Garden-Bachop |     100.78 |                86 |       15 |                90 |     104.84 | Max Jorgensen        |             80 |
+|             28 | Rhys Marshall        |      86.37 |                74 |       16 |                 9 |      49.11 | Mahe Vailanu         |             13 |
+|             18 | Dan Lienert-Brown    |      87.54 |                75 |       17 |               nan |      75.38 | Nephi Leatigaga      |             28 |
+|             18 | Saula Mau            |      83.94 |                73 |       18 |               nan |      86.58 | Daniel Botha         |             19 |
+|             25 | Pari Pari Parkinson  |     124.85 |                97 |       19 |                79 |      93.02 | Will Harris          |             39 |
+|             12 | Marino Mikaele-Tu'u  |      83.72 |                62 |       20 |                68 |      85.08 | Charlie Gamble       |             19 |
+|              8 | Folau Fakatava       |      76.62 |                49 |       21 |               nan |      84.55 | Harrison Goddard     |              0 |
+|             24 | Thomas Umaga-Jensen  |      75.99 |                47 |       22 |                54 |      79.52 | Joey Walton          |              0 |
+|             25 | Jona Nareki          |      89.6  |                74 |       23 |               nan |      89.22 | Mosese Tuipulotu     |              0 |
 

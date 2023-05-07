@@ -1,6 +1,6 @@
 header:
 
-  - titles:
+  - titles: 
       en      : &EN       Projections
     url: /Current_Projections.html
 
@@ -9,7 +9,10 @@ header:
     url: /Recent_Matches.html
 
   - titles:
-      # @start locale config
+      en      : &EN       Competitions
+    url: /Competitions.html
+
+  - titles:
       en      : &EN       Archive
     url: /archive.html
 

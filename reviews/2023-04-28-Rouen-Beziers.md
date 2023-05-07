@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Rouen by 6.8
+## Prediction with Player Minutes: Rouen by 2.7
 
 
-Rouen by 2.8 on a neutral field
+Beziers by 1.3 on a neutral field
 
-There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Rouen by 7.7
+There were 4 large changes in win probability in this match
+## Prediction without Player Minutes: Rouen by 4.2
 
 
-Rouen by 3.7 on a neutral pitch
+Rouen by 0.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             50 | Francisco Fernandes   |      56.02 |                14 |        1 |                59 |      79.25 | Soulemane Camara      |             54 |
-|             52 | Clément Esteriola     |      89.83 |                77 |        2 |                41 |      71.77 | Efitusi Ma'afu        |             47 |
-|             50 | Yannick Arroyo        |      64.46 |                23 |        3 |                41 |      73.16 | Hugo Ndiaye           |             54 |
-|             80 | Pierre Gayraud        |      68.55 |                43 |        4 |                87 |     106.29 | Raphaël Vieilledent   |             64 |
-|             80 | John Madigan          |      71.77 |                39 |        5 |                76 |      90.84 | Jimi Maximin          |             80 |
-|             47 | William van Bost      |      56.5  |                14 |        6 |                37 |      71.55 | Samuel Maximin        |             80 |
-|             80 | Éloi Massot           |      69.56 |                33 |        7 |                53 |      78.23 | Fabien Vincent        |             80 |
-|             50 | Thomas Hoarau         |      71.77 |                41 |        8 |                26 |      67.6  | Valentino Mapapalangi |             35 |
-|             50 | Josh Valentine        |      66.91 |                26 |        9 |                39 |      71.49 | Théo Nanette          |             54 |
-|             44 | Romain Uruty          |      77.67 |                49 |       10 |                79 |      95.37 | Thibault Olender      |             80 |
-|             80 | Paul Alquier          |      73.36 |                44 |       11 |                40 |      71.63 | Benito Masilevu       |             66 |
-|             80 | Watisoni Votu         |      79.35 |                65 |       12 |                40 |      73.4  | Taylor Gontineac      |             80 |
-|             80 | Maxime Espeut         |     121.79 |                97 |       13 |                34 |      70.9  | Opetera Peleseuma     |             49 |
-|             80 | Paul Reau             |      80.45 |                58 |       14 |                73 |      91.29 | Paul Surano           |             80 |
-|             80 | Victor Dreuille       |      84.71 |                61 |       15 |                28 |      71.34 | Peter Lydon           |             80 |
-|             31 | Gabin Lorre           |      91.35 |                73 |       16 |                58 |      82.19 | Willy N'Diaye         |             45 |
-|             33 | Jean-Baptiste Barrère |      59.2  |                18 |       17 |                68 |      85.16 | Mathieu Bonnot        |             33 |
-|             30 | Giorgi Akhaladze      |      79.14 |                56 |       18 |                13 |      58.28 | John Thomas Jackson   |             31 |
-|             30 | Jean Victor Goillot   |      72.13 |                48 |       19 |               nan |      73.61 | Dylan Jacquot         |             26 |
-|             30 | Jamie Hagan           |      70.68 |                32 |       20 |                44 |      76.39 | Cody Thomas           |             26 |
-|             30 | Maxence Lemardelet    |      72.47 |                38 |       21 |                10 |      55.2  | Florent Campeggia     |             26 |
-|             28 | Yvann Lalevee         |      86.41 |                71 |       22 |                29 |      66.55 | Jean Leleu            |             16 |
-|              5 | Adrien Latorre        |      67.7  |               nan |       23 |                37 |      69.24 | Kevin Milhorat        |             14 |
+|             50 | Francisco Fernandes   |      63.88 |                25 |        1 |                58 |      78.63 | Soulemane Camara      |             54 |
+|             52 | Clément Esteriola     |      89.79 |                77 |        2 |                46 |      73.84 | Efitusi Ma'afu        |             47 |
+|             50 | Yannick Arroyo        |      66.34 |                27 |        3 |                53 |      78.02 | Hugo Ndiaye           |             54 |
+|             80 | Pierre Gayraud        |      68.78 |                45 |        4 |                87 |     107.52 | Raphaël Vieilledent   |             64 |
+|             80 | John Madigan          |      75.52 |                47 |        5 |                82 |      94.75 | Jimi Maximin          |             80 |
+|             47 | William van Bost      |      58.43 |                17 |        6 |                 1 |      31.32 | Samuel Maximin        |             80 |
+|             80 | Éloi Massot           |      69.96 |                35 |        7 |                48 |      75.44 | Fabien Vincent        |             80 |
+|             50 | Thomas Hoarau         |      74.76 |                47 |        8 |                33 |      70.16 | Valentino Mapapalangi |             35 |
+|             50 | Josh Valentine        |      70.84 |                34 |        9 |                40 |      72.2  | Théo Nanette          |             54 |
+|             44 | Romain Uruty          |      74.19 |                47 |       10 |                79 |      95.35 | Thibault Olender      |             80 |
+|             80 | Paul Alquier          |      73.36 |                44 |       11 |                45 |      73.58 | Benito Masilevu       |             66 |
+|             80 | Watisoni Votu         |      73.12 |                54 |       12 |                32 |      69.78 | Taylor Gontineac      |             80 |
+|             80 | Maxime Espeut         |     123.43 |                98 |       13 |                41 |      73.64 | Opetera Peleseuma     |             49 |
+|             80 | Paul Reau             |      78.03 |                54 |       14 |                78 |      94.67 | Paul Surano           |             80 |
+|             80 | Victor Dreuille       |      90.16 |                72 |       15 |                32 |      72.9  | Peter Lydon           |             80 |
+|             31 | Gabin Lorre           |      91.4  |                72 |       16 |                62 |      83.94 | Willy N'Diaye         |             45 |
+|             33 | Jean-Baptiste Barrère |      60.15 |                20 |       17 |                61 |      81.62 | Mathieu Bonnot        |             33 |
+|             30 | Giorgi Akhaladze      |      82.52 |                64 |       18 |                16 |      59.92 | John Thomas Jackson   |             31 |
+|             30 | Jean Victor Goillot   |      74.03 |                54 |       19 |               nan |      73.18 | Dylan Jacquot         |             26 |
+|             30 | Jamie Hagan           |      68.47 |                29 |       20 |                47 |      77.65 | Cody Thomas           |             26 |
+|             30 | Maxence Lemardelet    |      73.47 |                40 |       21 |                10 |      54.76 | Florent Campeggia     |             26 |
+|             28 | Yvann Lalevee         |      87.47 |                74 |       22 |                45 |      74.34 | Jean Leleu            |             16 |
+|              5 | Adrien Latorre        |      70.87 |               nan |       23 |                35 |      68.6  | Kevin Milhorat        |             14 |
 

@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Scarlets by 5.2
+## Prediction with Player Minutes: Scarlets by 6.4
 
 
-Scarlets by 1.2 on a neutral field
+Scarlets by 2.4 on a neutral field
 
-There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Glasgow Warriors by 0.7
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Glasgow Warriors by 0.2
 
 
-Glasgow Warriors by 4.7 on a neutral pitch
+Glasgow Warriors by 4.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             46 | Jamie Bhatti          |      71.5  |                42 |        1 |               nan |      76.71 | Will Griff John     |             53 |
-|             46 | George Turner         |     109.28 |                95 |        2 |                85 |      95.89 | Ken Owens           |             72 |
-|             72 | Zander Fagerson       |     105.32 |                94 |        3 |                40 |      72.49 | Javan Sebastian     |              4 |
-|             79 | Scott Cummings        |      75.43 |                47 |        4 |                65 |      84.07 | Morgan Jones        |             34 |
-|             80 | Richie Gray           |     105    |                90 |        5 |                54 |      78.98 | Sam Lousi           |             80 |
-|             80 | Rory Darge            |      76.47 |                49 |        6 |                41 |      72.78 | Joshua McLeod       |             80 |
-|             52 | Sione Vailanu         |      74.56 |                45 |        7 |                75 |      88.45 | Daniel Fabian Davis |             80 |
-|             72 | Jack Dempsey          |      64.57 |                22 |        8 |                63 |      83.24 | Vaea Fifita         |             48 |
-|             80 | George Horne          |      73.61 |                51 |        9 |                62 |      80.45 | Gareth Davies       |             54 |
-|             79 | Tom Jordan            |      80.87 |                53 |       10 |                40 |      73.15 | Sam Costelow        |             80 |
-|             80 | Kyle Steyn            |      94.03 |                80 |       11 |                36 |      69.75 | Ryan Conbeer        |             80 |
-|             80 | Stafford McDowall     |      75.07 |                44 |       12 |                27 |      66.57 | Johnny Williams     |              7 |
-|             80 | Sione Tuipulotu       |      50.28 |                 8 |       13 |                43 |      74.36 | Joe Roberts         |             80 |
-|             72 | Sebastian Cancelliere |      77.15 |               nan |       14 |                55 |      78.84 | Steffan Evans       |             80 |
-|             80 | Ollie Smith           |      82.57 |                57 |       15 |                60 |      79.61 | Johnny McNicholl    |             80 |
-|             34 | Nathan McBeth         |      80.04 |                61 |       16 |                43 |      74.08 | Kemsley Mathias     |             27 |
-|             34 | Johnny Matthews       |      82.49 |                67 |       17 |                60 |      80.79 | Shaun Evans         |              8 |
-|              8 | Simon Berghan         |      76.35 |                51 |       18 |                91 |      97.36 | Sam Wainwright      |             76 |
-|              1 | Ryan Wilson           |      77.89 |                52 |       19 |                49 |      77.68 | Carwyn Tuipulotu    |             46 |
-|             28 | Matt Fagerson         |     100.64 |                88 |       20 |                62 |      83.4  | Kieran Hardy        |             26 |
-|              8 | Lewis Bean            |      73.1  |                41 |       21 |               nan |      78.96 | Iestyn Rees         |             32 |
-|              1 | Duncan Weir           |      79.38 |               nan |       22 |                89 |     104.75 | Ioan Nicholas       |             73 |
-|              8 | Ali Price             |      78.24 |                52 |       23 |               nan |     nan    | nan                 |            nan |
+|             46 | Jamie Bhatti          |      74.63 |                51 |        1 |               nan |      76.29 | Will Griff John     |             53 |
+|             46 | George Turner         |     103.98 |                92 |        2 |                84 |      95.15 | Ken Owens           |             72 |
+|             72 | Zander Fagerson       |      96.63 |                88 |        3 |                38 |      71.32 | Javan Sebastian     |              4 |
+|             79 | Scott Cummings        |      75.29 |                47 |        4 |                57 |      79.87 | Morgan Jones        |             34 |
+|             80 | Richie Gray           |     102.51 |                89 |        5 |                55 |      78.82 | Sam Lousi           |             80 |
+|             80 | Rory Darge            |      78.93 |                55 |        6 |                40 |      71.98 | Joshua McLeod       |             80 |
+|             52 | Sione Vailanu         |      72.98 |                42 |        7 |                76 |      89.99 | Daniel Fabian Davis |             80 |
+|             72 | Jack Dempsey          |      66.49 |                27 |        8 |                52 |      77.38 | Vaea Fifita         |             48 |
+|             80 | George Horne          |      75.1  |                56 |        9 |                51 |      74.12 | Gareth Davies       |             54 |
+|             79 | Tom Jordan            |      81.01 |                55 |       10 |                43 |      73.04 | Sam Costelow        |             80 |
+|             80 | Kyle Steyn            |      92.06 |                78 |       11 |                41 |      71.99 | Ryan Conbeer        |             80 |
+|             80 | Stafford McDowall     |      71.48 |                36 |       12 |                28 |      66.4  | Johnny Williams     |              7 |
+|             80 | Sione Tuipulotu       |      49.32 |                 8 |       13 |                59 |      81.98 | Joe Roberts         |             80 |
+|             72 | Sebastian Cancelliere |      76.34 |               nan |       14 |                47 |      74.64 | Steffan Evans       |             80 |
+|             80 | Ollie Smith           |      83.19 |                58 |       15 |                63 |      81.24 | Johnny McNicholl    |             80 |
+|             34 | Nathan McBeth         |      82.06 |                64 |       16 |                44 |      74.36 | Kemsley Mathias     |             27 |
+|             34 | Johnny Matthews       |      80.08 |                64 |       17 |                58 |      79.81 | Shaun Evans         |              8 |
+|              8 | Simon Berghan         |      74.88 |                47 |       18 |                91 |      97.34 | Sam Wainwright      |             76 |
+|              1 | Ryan Wilson           |      78.03 |                54 |       19 |                66 |      85.45 | Carwyn Tuipulotu    |             46 |
+|             28 | Matt Fagerson         |      97.81 |                86 |       20 |                61 |      82.57 | Kieran Hardy        |             26 |
+|              8 | Lewis Bean            |      75.63 |                48 |       21 |               nan |      78.82 | Iestyn Rees         |             32 |
+|              1 | Duncan Weir           |      80.46 |               nan |       22 |                84 |     100.25 | Ioan Nicholas       |             73 |
+|              8 | Ali Price             |      75.35 |                47 |       23 |               nan |     nan    | nan                 |            nan |
 

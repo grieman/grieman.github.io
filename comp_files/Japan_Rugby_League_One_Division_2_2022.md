@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One Division 2 Status"  
-date: 2023-05-06 6:00:00 -0500  
+date: 2023-05-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -32,6 +32,6 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 91.7% | 18.4 |
-| Player Level: Lineup | 75.0% | 20.7 |
-| Player Level: Minutes | 66.7% | 20.1 |
+| Player Level: Lineup | 79.2% | 20.1 |
+| Player Level: Minutes | 75.0% | 19.4 |
 

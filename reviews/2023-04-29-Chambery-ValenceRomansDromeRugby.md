@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Valence Romans Drome Rugby by 15.7 on a neutral field
 
 There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Valence Romans Drome Rugby by 14.7
+## Prediction without Player Minutes: Valence Romans Drome Rugby by 14.6
 
 
-Valence Romans Drome Rugby by 18.7 on a neutral pitch
+Valence Romans Drome Rugby by 18.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             43 | Anthony Aléo                  |      92.89 |                82 |        1 |                23 |      63.92 | Fabio Gonzalez               |             55 |
-|             41 | Yanis Gimenez                 |      95.66 |                83 |        2 |                73 |      87.52 | Gauthier Brute de Remur      |             55 |
-|             52 | Kevin Goze                    |      79.57 |                52 |        3 |                11 |      55.97 | Giorgi Pertaia               |             59 |
-|             80 | François Uys                  |      75.31 |                44 |        4 |                74 |      87.81 | Jean-Baptiste Grenod         |             80 |
-|             80 | John Adriaan (Ian) Groenewald |      79.73 |                56 |        5 |                13 |      56.28 | Romain Guyot                 |             80 |
-|             48 | Alexis Armary                 |     102.4  |                89 |        6 |                50 |      76.85 | Matheo Triki                 |             57 |
-|             80 | Sven Bernat Girlando          |     101.72 |                88 |        7 |                17 |      59.1  | Colin Lebian                 |             80 |
-|             48 | Dylan Lam                     |      73.59 |                42 |        8 |                77 |      92.65 | Thomas Coignat               |             70 |
-|             20 | Léopold Dupas                 |      67.95 |                29 |        9 |                23 |      63.15 | Thibault Dufau               |             57 |
-|             80 | Lucas Méret                   |      67.9  |                25 |       10 |                26 |      66.02 | Victor Pisano                |             55 |
-|             80 | Tim Giresse                   |      73.06 |                43 |       11 |                45 |      74.29 | Vereniki Goneva              |             80 |
-|             80 | Akuila Joeli Tabualevu        |      89.51 |                70 |       12 |                11 |      54.36 | Mickael Blanc                |             80 |
-|             39 | Anatole Pauvert               |      83.7  |                62 |       13 |                11 |      54.48 | Maewen Sao                   |             80 |
-|             80 | Bart Wierenga                 |      32.92 |                 1 |       14 |                20 |      59.6  | Paul Baptiste Florent Altier |             53 |
-|             41 | Quentin Gobet                 |      87.53 |                67 |       15 |                14 |      52.21 | Jules Dorrival               |             80 |
-|             60 | Tim Menzel                    |      51.7  |                 8 |       16 |                74 |      86.76 | Arthur Nennig                |             27 |
-|             41 | Charles Bouldoire             |      76.96 |                46 |       17 |                27 |      64.38 | Géraud Clermont              |             25 |
-|             39 | Mehdi Boundjema               |      78.01 |               nan |       18 |                40 |      73.55 | Thibault Moreno              |             25 |
-|             39 | Guillaume Cazes               |      72.85 |                40 |       19 |                61 |      81.15 | Julien Primault              |             25 |
-|             37 | Andrea Pontanier              |      90.38 |                75 |       20 |                54 |      77.55 | Dylan Nocete                 |             23 |
-|             32 | Ioane Iashagashvili           |      85.27 |                65 |       21 |                24 |      62.35 | Luka Begic                   |             23 |
-|             32 | Charles Brayer                |      81.89 |                69 |       22 |                23 |      63.71 | Lautaro Caro Saisi           |             21 |
-|             28 | John Henry Fincham            |      85.38 |                69 |       23 |                27 |      60.95 | Revan Gautier                |             10 |
+|             43 | Anthony Aléo                  |      92.17 |                80 |        1 |                24 |      64.12 | Fabio Gonzalez               |             55 |
+|             41 | Yanis Gimenez                 |      96.54 |                83 |        2 |                72 |      86.75 | Gauthier Brute de Remur      |             55 |
+|             52 | Kevin Goze                    |      79.8  |                52 |        3 |                12 |      55.45 | Giorgi Pertaia               |             59 |
+|             80 | François Uys                  |      74.76 |                44 |        4 |                72 |      87.37 | Jean-Baptiste Grenod         |             80 |
+|             80 | John Adriaan (Ian) Groenewald |      79.76 |                57 |        5 |                15 |      56.38 | Romain Guyot                 |             80 |
+|             48 | Alexis Armary                 |     102.79 |                89 |        6 |                52 |      77.59 | Matheo Triki                 |             57 |
+|             80 | Sven Bernat Girlando          |     101.63 |                88 |        7 |                19 |      59.42 | Colin Lebian                 |             80 |
+|             48 | Dylan Lam                     |      77.15 |                48 |        8 |                75 |      90.22 | Thomas Coignat               |             70 |
+|             20 | Léopold Dupas                 |      67.7  |                30 |        9 |                24 |      63.4  | Thibault Dufau               |             57 |
+|             80 | Lucas Méret                   |      67.3  |                24 |       10 |                25 |      64.54 | Victor Pisano                |             55 |
+|             80 | Tim Giresse                   |      73.12 |                44 |       11 |                47 |      74.53 | Vereniki Goneva              |             80 |
+|             80 | Akuila Joeli Tabualevu        |      88.54 |                69 |       12 |                11 |      54.14 | Mickael Blanc                |             80 |
+|             39 | Anatole Pauvert               |      79.7  |                54 |       13 |                11 |      54.25 | Maewen Sao                   |             80 |
+|             80 | Bart Wierenga                 |      31.41 |                 1 |       14 |                21 |      60.41 | Paul Baptiste Florent Altier |             53 |
+|             41 | Quentin Gobet                 |      87.55 |                67 |       15 |                15 |      52.55 | Jules Dorrival               |             80 |
+|             60 | Tim Menzel                    |      52.15 |                 9 |       16 |                76 |      88.26 | Arthur Nennig                |             27 |
+|             41 | Charles Bouldoire             |      77.28 |                47 |       17 |                28 |      64.14 | Géraud Clermont              |             25 |
+|             39 | Mehdi Boundjema               |      77.83 |               nan |       18 |                42 |      72.72 | Thibault Moreno              |             25 |
+|             39 | Guillaume Cazes               |      72.64 |                40 |       19 |                62 |      81.96 | Julien Primault              |             25 |
+|             37 | Andrea Pontanier              |      90.55 |                75 |       20 |                56 |      78.39 | Dylan Nocete                 |             23 |
+|             32 | Ioane Iashagashvili           |      85.52 |                66 |       21 |                25 |      62.33 | Luka Begic                   |             23 |
+|             32 | Charles Brayer                |      79.93 |                66 |       22 |                24 |      63.74 | Lautaro Caro Saisi           |             21 |
+|             28 | John Henry Fincham            |      88.5  |                76 |       23 |                28 |      60.9  | Revan Gautier                |             10 |
 

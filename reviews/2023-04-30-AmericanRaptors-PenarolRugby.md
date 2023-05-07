@@ -43,27 +43,27 @@ Penarol Rugby by 29.2 on a neutral pitch
 
 |   Away Minutes | Away Player                        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-----------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             54 | Matteo Sanguinetti                 |      62.17 |               nan |        1 |                21 |      62.77 | Payton Telea-Ilalio      |             44 |
-|             54 | Emiliano Faccennini                |      63.53 |                17 |        2 |                28 |      65.02 | Diego Fortuny            |             80 |
-|             60 | Diego Arbelo                       |      66.71 |                23 |        3 |                 4 |      44.88 | Ma'ake Muti              |             66 |
-|             80 | Juan Manuel Rodriguez              |      71.91 |                39 |        4 |                 2 |      39.07 | Diego Magno              |             80 |
-|             40 | Agustin Morales                    |      54.29 |                 9 |        5 |                 3 |      41.38 | Mikey Grandy             |             17 |
-|             80 | Manuel Ardao                       |      63.67 |                24 |        6 |                 3 |      41.19 | Shawn Clark              |             80 |
-|             80 | Carlos Manuel Deus Lopes de Amorin |      52.93 |                 9 |        7 |                11 |      54.51 | Ronan Murphy             |             80 |
-|             50 | Manuel Diana                       |      71.33 |                36 |        8 |                 5 |      40.13 | Siaki Lolohea Vikilani   |             52 |
-|             80 | Santiago Álvarez Viera Da Cunha    |      81.35 |                58 |        9 |                28 |      66.04 | Ethan McVeigh            |             52 |
-|             55 | Felipe Etcheverry                  |      69.22 |                32 |       10 |                 5 |      42.5  | Lucas Gonzalez Amorosino |             76 |
-|             60 | Juan Manuel Alonso                 |      74.71 |                46 |       11 |                 8 |      49.18 | Daytwon Sheridan         |             80 |
-|             80 | Juan Zuccarino                     |      76.94 |                47 |       12 |                 8 |      49.99 | Aki Pulu                 |             76 |
-|             80 | Tomas Inciarte Rachetti            |      71.38 |                35 |       13 |                 3 |      41.89 | Watson Filikitonga       |             80 |
-|             80 | Alfonso Silva                      |      61.92 |                21 |       14 |                 3 |      40.26 | Ryan James               |             80 |
-|             23 | Rodrigo Silva                      |      64.79 |                24 |       15 |                10 |      47.67 | Line Latu                |             80 |
-|             57 | Icaro Amarillo                     |      57.55 |               nan |       16 |                 0 |      21.45 | Will Crawford            |             63 |
-|             26 | Edgardo Matias Benitez Santin      |      67.08 |                27 |       17 |                 2 |      44.91 | Juan Echeverria          |             36 |
-|             30 | Lucas Bianchi                      |      58.75 |                17 |       18 |                 0 |      34.49 | Martin Landajo           |             28 |
-|             26 | Guillermo Pujadas Leon             |      68.57 |                33 |       19 |                29 |      66.93 | Tommy Clark              |             28 |
-|             25 | Gaston Mieres Valente              |      69.93 |                37 |       20 |               nan |      52.06 | Sebastian Otero          |             14 |
-|             20 | Reinaldo Piussi Mendoza            |      58.88 |               nan |       21 |               nan |      45.13 | Jerome Nale              |              4 |
-|             20 | Juan Francisco Torres Burwood      |      65.3  |               nan |       22 |                 9 |      51.2  | Patrick Madden           |              4 |
-|             40 | Felipe Aliaga                      |      70.86 |                37 |       23 |               nan |     nan    | nan                      |            nan |
+|             54 | Matteo Sanguinetti                 |      61.82 |               nan |        1 |                21 |      62.07 | Payton Telea-Ilalio      |             44 |
+|             54 | Emiliano Faccennini                |      62.95 |                18 |        2 |                29 |      65.33 | Diego Fortuny            |             80 |
+|             60 | Diego Arbelo                       |      66.48 |                24 |        3 |                 4 |      46.46 | Ma'ake Muti              |             66 |
+|             80 | Juan Manuel Rodriguez              |      71.55 |                40 |        4 |                 2 |      38.28 | Diego Magno              |             80 |
+|             40 | Agustin Morales                    |      54.11 |                 9 |        5 |                 3 |      40.85 | Mikey Grandy             |             17 |
+|             80 | Manuel Ardao                       |      63.77 |                24 |        6 |                 3 |      40.7  | Shawn Clark              |             80 |
+|             80 | Carlos Manuel Deus Lopes de Amorin |      51.94 |                10 |        7 |                12 |      55.03 | Ronan Murphy             |             80 |
+|             50 | Manuel Diana                       |      71.31 |                36 |        8 |                 6 |      40.05 | Siaki Lolohea Vikilani   |             52 |
+|             80 | Santiago Álvarez Viera Da Cunha    |      81.58 |                59 |        9 |                29 |      66.4  | Ethan McVeigh            |             52 |
+|             55 | Felipe Etcheverry                  |      69.05 |                33 |       10 |                 5 |      42.86 | Lucas Gonzalez Amorosino |             76 |
+|             60 | Juan Manuel Alonso                 |      76.57 |                51 |       11 |                 8 |      49.03 | Daytwon Sheridan         |             80 |
+|             80 | Juan Zuccarino                     |      76.17 |                46 |       12 |                 8 |      49.75 | Aki Pulu                 |             76 |
+|             80 | Tomas Inciarte Rachetti            |      70.9  |                35 |       13 |                 2 |      39.83 | Watson Filikitonga       |             80 |
+|             80 | Alfonso Silva                      |      61.81 |                21 |       14 |                 3 |      39.76 | Ryan James               |             80 |
+|             23 | Rodrigo Silva                      |      64.3  |                23 |       15 |                 9 |      47.44 | Line Latu                |             80 |
+|             57 | Icaro Amarillo                     |      57.51 |               nan |       16 |                 0 |      21.33 | Will Crawford            |             63 |
+|             26 | Edgardo Matias Benitez Santin      |      67.32 |                29 |       17 |                 2 |      43.74 | Juan Echeverria          |             36 |
+|             30 | Lucas Bianchi                      |      59.25 |                19 |       18 |                 1 |      35.87 | Martin Landajo           |             28 |
+|             26 | Guillermo Pujadas Leon             |      68.45 |                34 |       19 |                29 |      66.61 | Tommy Clark              |             28 |
+|             25 | Gaston Mieres Valente              |      69.95 |                36 |       20 |               nan |      52.51 | Sebastian Otero          |             14 |
+|             20 | Reinaldo Piussi Mendoza            |      58.82 |               nan |       21 |               nan |      44.96 | Jerome Nale              |              4 |
+|             20 | Juan Francisco Torres Burwood      |      62.11 |               nan |       22 |                 8 |      50.02 | Patrick Madden           |              4 |
+|             40 | Felipe Aliaga                      |      70.78 |                38 |       23 |               nan |     nan    | nan                      |            nan |
 

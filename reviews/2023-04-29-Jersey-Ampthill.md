@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Jersey by 32.0
+## Prediction with Player Minutes: Jersey by 32.5
 
 
-Jersey by 28.0 on a neutral field
+Jersey by 28.5 on a neutral field
 
 There were 5 large changes in win probability in this match
 ## Prediction without Player Minutes: Jersey by 35.0
@@ -43,27 +43,27 @@ Jersey by 31.0 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             50 | Sam Crean         |      67.22 |               nan |        1 |                73 |      87.43 | Huw Owen                    |             47 |
-|             50 | Matt Gallagher    |      86.11 |                70 |        2 |                87 |      98.67 | Eoghan Clarke               |             55 |
-|             50 | Aleki Lutui       |      64.28 |               nan |        3 |                64 |      82.92 | Steven Longwell             |             80 |
-|             68 | Charlie Beckett   |      79.27 |                55 |        4 |                88 |     100.56 | Sean O'Connor               |              7 |
-|             80 | Harry Wilson      |      58.12 |                16 |        5 |                54 |      79.11 | Macauley Cook               |             80 |
-|             80 | Fyn Brown         |      72.99 |                41 |        6 |                92 |     108.21 | Max Argyle                  |             55 |
-|             16 | Josh Smart        |      68.78 |                32 |        7 |                90 |     105.22 | Lewis Wynne                 |             80 |
-|             80 | Morgan Strong     |      65.57 |                24 |        8 |                80 |      91.97 | James Andrew Dun            |             80 |
-|             55 | Lewis Finlay      |      54.76 |                11 |        9 |                 4 |      46.74 | James Elliott               |             58 |
-|             55 | Tom Hardwick      |      73.06 |                39 |       10 |                25 |      65.32 | Russell Bennett             |             80 |
-|             80 | Alexandrer Harmes |      69.74 |                37 |       11 |                95 |     113.92 | Will Brown                  |             58 |
-|             80 | Gwyn Parks        |      76.37 |                47 |       12 |                93 |     111.75 | Dan Barnes                  |             55 |
-|             80 | Thomas Hitchcock  |      65.83 |                25 |       13 |                51 |      77.95 | Alex McHenry                |             65 |
-|             68 | Conor Rankin      |      68.6  |                27 |       14 |                91 |     105.84 | Tomi Lewis                  |             80 |
-|             80 | Tomas Bacon       |      73.01 |                40 |       15 |                80 |      96.99 | Brendan Owen                |             80 |
-|             64 | Paddy Ryan        |      88.03 |                70 |       16 |                65 |      83.95 | James Scott                 |             73 |
-|             30 | Dominic Hardman   |      75.95 |                48 |       17 |                94 |     105.71 | Samuel Alexander Grahamslaw |             33 |
-|             30 | Sid Blackmore     |      72.82 |                37 |       18 |                74 |      89.73 | Alun Lawrence               |             25 |
-|             30 | Jevaughn Warren   |      75.02 |                41 |       19 |                21 |      63    | Jordan Holgate              |             25 |
-|             25 | Joshua Bragman    |      67.98 |                26 |       20 |                54 |      78.37 | James Hadfield              |             25 |
-|             25 | Gavin Williams    |      67.37 |               nan |       21 |                74 |      91.75 | James Mitchell              |             22 |
-|             12 | Cai Devine        |      61.87 |                19 |       22 |                60 |      81.49 | Ben Woollett                |             22 |
-|             12 | Josh Skelcey      |      71.04 |                39 |       23 |                55 |      80.11 | Adam Nicol                  |             15 |
+|             50 | Sam Crean         |      67.12 |               nan |        1 |                71 |      86.3  | Huw Owen                    |             47 |
+|             50 | Matt Gallagher    |      85.63 |                71 |        2 |                88 |     100.03 | Eoghan Clarke               |             55 |
+|             50 | Aleki Lutui       |      64.36 |               nan |        3 |                61 |      81.51 | Steven Longwell             |             80 |
+|             68 | Charlie Beckett   |      78.3  |                54 |        4 |                81 |      94.08 | Sean O'Connor               |              7 |
+|             80 | Harry Wilson      |      61.35 |                21 |        5 |                52 |      77.48 | Macauley Cook               |             80 |
+|             80 | Fyn Brown         |      71.6  |                39 |        6 |                93 |     109.63 | Max Argyle                  |             55 |
+|             16 | Josh Smart        |      68.3  |                32 |        7 |                89 |     102.67 | Lewis Wynne                 |             80 |
+|             80 | Morgan Strong     |      64.43 |                23 |        8 |                79 |      91.65 | James Andrew Dun            |             80 |
+|             55 | Lewis Finlay      |      53.55 |                10 |        9 |                 8 |      50.76 | James Elliott               |             58 |
+|             55 | Tom Hardwick      |      71    |                38 |       10 |                25 |      65.07 | Russell Bennett             |             80 |
+|             80 | Alexandrer Harmes |      69.11 |                35 |       11 |                95 |     113.14 | Will Brown                  |             58 |
+|             80 | Gwyn Parks        |      75.2  |                45 |       12 |                94 |     113.81 | Dan Barnes                  |             55 |
+|             80 | Thomas Hitchcock  |      66.01 |                27 |       13 |                51 |      77.93 | Alex McHenry                |             65 |
+|             68 | Conor Rankin      |      70.14 |                31 |       14 |                92 |     106.62 | Tomi Lewis                  |             80 |
+|             80 | Tomas Bacon       |      70.68 |                37 |       15 |                79 |      95.43 | Brendan Owen                |             80 |
+|             64 | Paddy Ryan        |      86.06 |                67 |       16 |                65 |      83.93 | James Scott                 |             73 |
+|             30 | Dominic Hardman   |      76.23 |                49 |       17 |                95 |     107.53 | Samuel Alexander Grahamslaw |             33 |
+|             30 | Sid Blackmore     |      73.18 |                40 |       18 |                73 |      89.07 | Alun Lawrence               |             25 |
+|             30 | Jevaughn Warren   |      75.69 |                43 |       19 |                26 |      65.55 | Jordan Holgate              |             25 |
+|             25 | Joshua Bragman    |      67.82 |                27 |       20 |                58 |      79.57 | James Hadfield              |             25 |
+|             25 | Gavin Williams    |      66.97 |               nan |       21 |                73 |      90.78 | James Mitchell              |             22 |
+|             12 | Cai Devine        |      62.63 |                20 |       22 |                59 |      79.95 | Ben Woollett                |             22 |
+|             12 | Josh Skelcey      |      72.5  |                42 |       23 |                54 |      79.3  | Adam Nicol                  |             15 |
 
